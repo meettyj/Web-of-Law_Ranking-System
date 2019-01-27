@@ -31,3 +31,5 @@ Given data described before, we can get ranking results for 10 queries. Here we 
 <img src="https://github.com/meettyj/Web-of-Law_Ranking-System/raw/master/BM25/result/example_result.png" width="500" hegiht="313" align=center />
 <!-- ![image](https://github.com/meettyj/Web-of-Law_Ranking-System/raw/master/BM25/result/example_result.png) -->
 
+## What's Next
+Scoring part.
