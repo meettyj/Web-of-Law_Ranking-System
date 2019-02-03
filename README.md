@@ -28,7 +28,7 @@ To generate one document for 'BM25' algorithm to rank, you need first run `$ pyt
 ## Example Result
 Given data described before, we can get ranking results for 10 queries. Here we only list some of them for tasting.  
 
-<img src="https://github.com/meettyj/Web-of-Law_Ranking-System/raw/master/BM25/result/example_result.png" width="500" hegiht="313" align=center />
+<img src="https://github.com/meettyj/Web-of-Law_Ranking-System/raw/master/result/example_result.png" width="500" hegiht="313" align=center />
 <!-- ![image](https://github.com/meettyj/Web-of-Law_Ranking-System/raw/master/BM25/result/example_result.png) -->
 
 ## What's Next
