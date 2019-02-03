@@ -1,6 +1,6 @@
-from invdx import build_data_structures
-from rank import score_BM25
-import operator
+from BM25.invdx import build_data_structures
+
+from BM25.rank import score_BM25
 
 
 class QueryProcessor:
