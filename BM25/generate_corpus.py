@@ -2,9 +2,10 @@ import os
 
 def main():
 	# out_dir = './data/test_scotus_corpus.txt'
-	out_dir = './data/all_scotus_corpus.txt'
-	corpus_dir = '../all_scotus_text/'
-	# corpus_dir = './data/1K_scotus_text/'
+	out_dir = '../data/1K_scotus_corpus.txt'
+	corpus_dir = '../data/1K_scotus_text/'
+	# out_dir = './data/all_scotus_corpus.txt'
+	# corpus_dir = '../all_scotus_text/'
 	# corpus_dir = './data/test_scotus_text/'
 	corpus_files = os.listdir(corpus_dir)
 	# id_corpus = 0
