@@ -1,0 +1,134 @@
+nohup: ignoring input
+/misc/grice1/yijun/Web-of-Law_Ranking-System
+length of blobs: 63882
+length of queries:  10
+working on ranking ...
+QID	DocsID	Rank	Score				Query
+1	110585	1	18.842165180240762	['adult', 'probation']
+1	110117	2	17.629201035440957	['adult', 'probation']
+1	109093	3	16.51568560281413	['adult', 'probation']
+1	111977	4	15.965978500279395	['adult', 'probation']
+1	108785	5	15.862406615104291	['adult', 'probation']
+
+
+2	118370	1	12.611769097720423	['arson']
+2	94522	2	12.205640185126246	['arson']
+2	3204917	3	12.033817877602974	['arson']
+2	111761	4	11.545695604548964	['arson']
+2	109874	5	10.86873406074335	['arson']
+
+
+3	104275	1	13.680309572579741	['bankruptcy', 'fraud']
+3	92954	2	13.546753243378172	['bankruptcy', 'fraud']
+3	112522	3	13.447666845288015	['bankruptcy', 'fraud']
+3	93615	4	13.1952654924089	['bankruptcy', 'fraud']
+3	96136	5	13.164966025388601	['bankruptcy', 'fraud']
+
+
+4	111660	1	11.343561855804529	['capital', 'crime']
+4	94956	2	11.209673053137783	['capital', 'crime']
+4	2959730	3	11.110246055167835	['capital', 'crime']
+4	112001	4	11.101204281485138	['capital', 'crime']
+4	110795	5	11.082401278014942	['capital', 'crime']
+
+
+5	145844	1	7.763062198399423	['civil', 'rights']
+5	1087963	2	7.700296045296638	['civil', 'rights']
+5	111770	3	7.617647633004996	['civil', 'rights']
+5	111237	4	7.546610313586724	['civil', 'rights']
+5	111627	5	7.523197771323411	['civil', 'rights']
+
+
+6	109604	1	17.837020869336875	['corporate', 'takeover']
+6	110758	2	17.238195022981504	['corporate', 'takeover']
+6	111462	3	17.191681222919826	['corporate', 'takeover']
+6	109105	4	16.254847427957316	['corporate', 'takeover']
+6	111860	5	15.959853154109393	['corporate', 'takeover']
+
+
+7	109833	1	10.197341289507817	['ethical', 'will']
+7	109416	2	10.057661053905095	['ethical', 'will']
+7	109269	3	9.470473991722793	['ethical', 'will']
+7	111603	4	9.305482852152117	['ethical', 'will']
+7	110589	5	9.197458331510706	['ethical', 'will']
+
+
+8	104562	1	11.275419840323057	['divorce']
+8	107049	2	11.209959027701185	['divorce']
+8	96454	3	11.18100517973481	['divorce']
+8	2764117	4	11.140409048912588	['divorce']
+8	104866	5	11.137656193590127	['divorce']
+
+
+9	112222	1	14.63838989593287	['mail', 'fraud']
+9	108900	2	14.384921502295803	['mail', 'fraud']
+9	111945	3	14.281577160307602	['mail', 'fraud']
+9	111964	4	14.257962664171881	['mail', 'fraud']
+9	145799	5	14.077271801959736	['mail', 'fraud']
+
+
+10	107293	1	10.526362811373653	['homicide']
+10	111282	2	10.40206538949533	['homicide']
+10	109265	3	10.193625742259083	['homicide']
+10	1854815	4	10.071710776901847	['homicide']
+10	110307	5	9.944822638807448	['homicide']
+
+
+queries:  [['adult', 'probation'], ['arson'], ['bankruptcy', 'fraud'], ['capital', 'crime'], ['civil', 'rights'], ['corporate', 'takeover'], ['ethical', 'will'], ['divorce'], ['mail', 'fraud'], ['homicide']]
+dictionary for result after BM25:  {0: ['110585', '110117', '109093', '111977', '108785'], 1: ['118370', '94522', '3204917', '111761', '109874'], 2: ['104275', '92954', '112522', '93615', '96136'], 3: ['111660', '94956', '2959730', '112001', '110795'], 4: ['145844', '1087963', '111770', '111237', '111627'], 5: ['109604', '110758', '111462', '109105', '111860'], 6: ['109833', '109416', '109269', '111603', '110589'], 7: ['104562', '107049', '96454', '2764117', '104866'], 8: ['112222', '108900', '111945', '111964', '145799'], 9: ['107293', '111282', '109265', '1854815', '110307']}
+Please wait ... (it could take a while to load the file : ../word2vec/GoogleNews-vectors-negative300.bin)
+Done.  (time used: 82.1s)
+
+length of text_list:  2
+how many has been found:  2
+not found:  0
+length of text_list:  11488
+how many has been found:  8073
+not found:  3415
+shape of query array:  (2, 300)
+shape of doc array:  (8073, 300)
+shape of score array:  (8073, 2)
+score before normalization:  15141.926
+word level QC relatedness score:  1.8756256387030843
+Key Phrases extracted with Rake algorithm:  ['81st cong ., 1st sess ., 43', '78th cong ., 1st sess ., 74', '78th cong ., 1st sess ., 63', '81st cong ., 1st sess ., 22', '81st cong ., 1st sess ., 5', '§ 5005 et seq ., must receive yca treatment', '81st cong ., 2d sess ., 4', '81st cong ., 2d sess ., 3', '81st cong ., 2d sess ., 2', '§ 3651 et seq ., § 5010', 'j ., dissenting ); north carolina v', 'ca10 1981 ); united states ex rel', '§ 5005 et seq .,', '1981 ); united states ex rel', 'j ., concurring ); id .,', 'benefit finding would take effect immediately rather', 'hereinafter 1949 senate hearings ); report', '1950 ); sec 96 cong', 'prison officials exercise almost unlimited discretion', 'quid pro quo argument applies even', 'given offense also justifies yca terms within', 'yca incorporate three features thought essential', 'ca9 1965 ); chapin v', 'ca9 1964 ); rogers v', 'ca8 1965 ); eller v', 'ca10 1965 ); pilkington v', 'concurrent sentences traditionally take effect immediately', 'ca4 1967 ); brisco v', 'ca3 1966 ); kotz v', 'scheme hardly constitutes multiple punishment', 'ca9 1980 ); rogers v', 'ca10 1970 ); james v', 'youth corrections act vests broad authority', 'ca5 1968 ); freeman v', 'ca4 1963 ); carter v', 'ca10 1974 ); hale v', 'ca5 1969 ); johnson v', '305 ], sine `[ w', 'ca10 1981 ); outing v', 'adult criminals drew special attention', 'ca3 1978 ); harvin v', 'see ex parte united states', 'ca10 1963 ); 18 u', 'finding may take effect immediately', 'american law institute model act', '1949 ); 1949 senate hearings', 'second judge may impose adult treatment', 'longer ultimate sentence may simply increase', 'see also ex parte lange', 'effect decides two essential conditions', '1949 ); federal corrections act', 'chief judge laws ); hearings', 'yca prescribes certain basic elements', 'youth corrections act repeatedly emphasized', 'united states ex rel', 'new york law ), cert', 'case closely parallels roberts v', 'yca prescribes certain basic conditions', 'facility providing greater security ."', 'choose among available sentencing options', 'court took two additional actions', '1980 ); id .,', 'unexpired yca sentence ," ibid', 'trial courts retain significant control', 'clearly appropriate adult treatment may', 'law rule absent affirmative evidence', 'youth sentence whose length exceeds', '1970 ); foote v', 'second judge simply may impose', 'released conditionally two years prior', 'original ); see 18 u', 'quid pro quo vanishes', 'youth segregation must continue indefinitely', 'g ., whalen v', 'g ., marvel v', 'g ., abernathy v', 'second sentencing judge may impose', 'yca treatment within six years', 'g ., watts v', 'adult would generally receive ."', '1971 ); brown v', 'conditionally released shall undergo treatment', 'inc ., 390 u', 'see also id .,', 'prison officials — may require', 'second sentencing judge may modify', 'quid pro quo theory', 'section 5011 provides two elements', 'american legion ), 53', 'receiving continued yca treatment prior', '1977 ); johnson v', 'confine ex parte lange', 'facility providing greater security', 'consecutive adult sentence may find', 'judge pell succinctly put', 'j ., dissenting ).', 'en banc ), cert', 'part ); reid v', 'consecutive adult term may require', '," united states v']
+
+length of text_list:  9220
+how many has been found:  6626
+not found:  2594
+shape of query array:  (2, 300)
+shape of doc array:  (6626, 300)
+shape of score array:  (6626, 2)
+score before normalization:  10445.753
+word level QC relatedness score:  1.5764794641846513
+Key Phrases extracted with Rake algorithm:  ['van nuys station house two police officers began', 'j ., concurring )— r probation officer instructed', 'case approach provides police sufficient guidance', '1875 ); general trading co', 'strong per se language used', 'fifth amendment privilege ," id .,', 'fifth amendment privilege would undermine', 'steven c ., 9 cal', 'california supreme court rests firmly', 'highly probative evidence even though', 'inherently coercive circumstances ," post', 'michael c ., 21 cal', 'established certain procedural safeguards designed', 'michael c ., 135 cal', 'probation officer per se constituted', 'totality approach permits — indeed', 'rendering effective legal advice sufficient', '708 mark alan hart', 'juvenile defendant ," 21 cal', 'acting chief probation officer v', 'cal ., police took respondent', 'wise ," hardened criminals', 'miranda per se rule simply', 'courts — e juvenile courts', 'per se language employed', '1978 ), quoting people v', 'privilege ," id .,', 'attempted armed robbery earlier', 'amici curiae urging reversal', 'inc ., et al', 'reliable advice would trigger', 'assistance ,\'" 21 cal', 'see also id .,', 'would unduly restrict miranda', '1962 ); haley v', 'g ., 21 cal', 'justifiably could complain later', 'notes [*] fred e', 'traditional fifth amendment analysis', 'see north carolina v', 'particular case vary widely', '1967 ); gallegos v', 'acting chief probation officer', 'california supreme court erred', 'j ., dissenting ).', 'per se rule established', 'courts repeatedly must deal', 'explicitly stated rationale ."', 'fifth amendment privilege ."', 'approximately one year earlier', 'significant law enforcement duties', 'see also people v', 'federal constitutional minimum ."', 'california misconstrued miranda v', 'see one necessarily constitutes', 'probation officer would act', 'probation officer must act', 'since law enforcement officials', 'courts facts made known', 'probation officer may frequently', 'cases would conflict sharply', 'chief assistant attorney general', 'half year old minor', 'client ," miranda v', 'older minors become fully', 'interrogation otherwise might reveal', 'juvenile court judge observed', 'client undergoing custodial interrogation', 'young man answering respondent', 'police contact ," app', 'minor normally would turn', 'ibid ., 579 p', 'probation officer also served', 'california supreme court determined', 'accused undergoing custodial interrogation', 'affords juveniles adequate protection', 'california supreme court recognized', 'officer fully advised respondent', 'public responsibilities would make', 'j ., joined', 'see id .,', 'respondent later voluntarily decided', 'juvenile would likely turn', 'interrogation must cease upon', 'one merely made aware', 'statutory duty might serve', 'see 21 cal', 'quoting people v', 'fifth amendment privilege', 'determination whether statements obtained', 'attorney might well advise', 'van nuys', 'station house', 'per se assertion', 'per se aspect', 'north carolina v', '709 albert j', '1944 ); scripto', 'juvenile also provides', 'probation officer simply']
+
+length of text_list:  11696
+how many has been found:  8243
+not found:  3453
+shape of query array:  (2, 300)
+shape of doc array:  (8243, 300)
+shape of score array:  (8243, 2)
+score before normalization:  13595.326
+word level QC relatedness score:  1.6493177449805896
+Key Phrases extracted with Rake algorithm:  ['81st cong ., 1st sess ., 43', '78th cong ., 1st sess ., 13', 'official draft 1940 ); id ., comment', '81st cong ., 1st sess ., 5', '81st cong ., 1st sess ., 1', 'approved draft 1968 ); id ., appellate review', '81st cong ., 2d sess ., 2', '81st cong ., 2d sess ., 3', 'federal youth corrections act ," leaving unclear whether', 'ca2 1973 ); american bar association project', 'dumas school dist ., 361 u', 'ca3 1973 ); see united states v', '78th cong ., 1st sess', 'ca5 1973 ); see also small v', '§ 5005 et seq ., defining', 'ca5 1973 ); united states v', 'hardened inmates serving traditional criminal sentences', 'ca2 1973 ); united states v', 'ca6 1974 ); united states v', 'ca6 1971 ); united states v', '§ 5005 et seq ., requires', '92d cong ., 2d sess', 'en banc ); united states v', 'dc 1974 ); united states v', 'model youth correction authority act §§ 13', 'ca3 1973 ); cox v', '1972 ); see 118 cong', 'g ., united states v', '1973 ); united states v', 'chief justice appointed four federal courts', '1958 ); united states v', 'conference special committee studying general punishment', 'en banc ); cox v', 'approved draft 1968 );', 'american bar association project', 'american law institute model act', 'chosen would render § 5010', 'two principal motivating factors behind', 'district court relied upon improper', 'affording trial judges four options', 'sentencing decisions generally ,[ 22', 'approved draft 1968 ).', 'reasoned decisions may even enhance', 'judicial conference special committee appointed', 'see united states v', '§ 5031 et seq', '1960 ); irvine v', '1958 ); townsend v', 'court ," judge phillips replied', 'federal district judges ," ante', '1969 ); kent v', 'discharge shall automatically set aside', 'restore normal behavior patterns', 'amici curiae urging reversal', 'ca2 1973 ); accord', '1954 ); radio officers', '1970 ); carter v', 'finding would make unmistakably clear', 'reasons would encourage trial judges', 'yca rehabilitative treatment would fail', 'en banc ); cf', 'first judicial conference proposal contained', 'chief justice burger delivered', 'sentencing court must merely consider', 'federal juvenile delinquency act', 'dangerous drugs made arrangements', '1948 ); blockburger v', 'unanimous en banc decision', 'congressional intent finds clear expression', 'intentionally possessing approximately 1', 'deputy solicitor general frey', 'chief judge john j', '§ 2 made petitioner punishable', 'district judge carroll hincks', 'treating criminally inclined youths', 'would voluntarily seek resentencing', 'federal youth corrections act', 'sentencing judge show promise', 'sentencing decisions would tend', '429 since petitioner desired', 'leading federal district judge', 'assistant attorney general petersen', 'youth correction division reports', 'ca9 1972 ), cert', 'american sentencing procedures made', 'district judge bolitha j', 'conference subcommittee studying treatment', 'director could vary according', 'appellate review even though', 'chief justice stone requested', 'count information charging petitioner', 'new appellate encumbrance upon', 'court today also recognizes', '445 district court conduct', 'see criminal justice act', 'united states v', 'act precluded adult sentencing', 'goals judges could consider', 'given serious punishment notwithstanding', '435 probation officers providing']
+
+length of text_list:  3381
+how many has been found:  2423
+not found:  958
+shape of query array:  (2, 300)
+shape of doc array:  (2423, 300)
+shape of score array:  (2423, 2)
+score before normalization:  3045.3071
+word level QC relatedness score:  1.2568333177491746
+Key Phrases extracted with Rake algorithm:  ['1972 ); see also hutchinson v', '1979 ); see also id .,', 'judicial immunity also protected judicial independence', 'judicial acts ," would lift form', 'acts — like many others involved', '220 mary anne sedey argued', '227 would provide powerful incentives', '§ 2000e et seq .,', 'constitutional scheme ," id .,', '1972 ); united states v', 'respondent howard lee white served', '1973 ); united states v', 'judge white hired petitioner cynthia', 'criminal process ," imbler v', 'may well justify broader protections', 'unless judge white felt free', 'jersey county juvenile court intake', 'carried increased supervisory responsibilities', 'amicus curiae urging affirmance', '1966 ); kilbourn v', '1974 ); butz v', '1979 ); doe v', 'g ., gravel v', '1974 ); davis v', 'forrester prepared presentence reports', '1983 ); butz v', 'notes [*] brian l', 'discouraging inappropriate collateral attacks', 'g ., scheuer v', 'mo ., 729 f', 'united states congressman would', 'paradigmatic judicial acts involved', 'officials whose peculiar problems', 'like personnel decisions made', 'avoid rendering decisions likely', 'appoint juvenile probation officers', 'g ., pierson v', 'judicial immunity apparently originated', 'inc ., 446 u', '225 among executive officials', '1978 ); harlow v', 'harmful sideeffects inevitably associated', '[\x86] justice blackmun joins', 'reasonably wonder whether judges', 'judge white appointed forrester', 'considered judicial acts ."', 'probation officer cannot meaningfully', 'united states district court', 'decide whether judge white', 'private parties numerous remedies', '1987 decided january 12', 'make similar discretionary decisions', 'judge white demoted forrester', 'hire adult probation officers', 'fires assistant district attorneys', 'require absolute immunity even', 'j ., dissenting ).', 'also supervised persons', 'discouraging collateral attacks', 'comparatively sweeping form', 'see butz v', 'create perverse incentives', 'see scheuer v', 'const ., art', 'granting judge white', 'treated like prosecutors', 'special problems arise', 'cabinet level officers', 'united states court', 'see briscoe v', 'would manifestly detract', 'j ., concurring', 'truly judicial acts', 'acts taken pursuant', 'decisions — freeing', '223 states court', 'liability would likely', 'roma jones stewart', 'ignore compelling reasons', 'establish appellate procedures', 'argued november 2', 'see stump v', 'juvenile probation officer', 'resulting timidity would', 'absolute judicial immunity', 'years since bradley', 'given absolute immunity', 'employees could interfere', 'highest executive officials', 'executive branch officials', 'judge acts within', 'stat ., ch', '13 wall .,', 'court — may', 'citizens may detract', 'supervising court employees', 'correcting judicial error', 'thereby indirectly affect', 'referral services project', 'legal hazards faced']
+
+length of text_list:  4032
+how many has been found:  2876
+not found:  1156
+shape of query array:  (2, 300)
+shape of doc array:  (2876, 300)
+shape of score array:  (2876, 2)
+score before normalization:  4802.5186
+word level QC relatedness score:  1.6698604153989915
+Key Phrases extracted with Rake algorithm:  ['morrissey hearing requirements impose serious practical problems', 'hearing officer specifically finds good cause', 'serious collateral disadvantages without regard', 'collateral consequences ," presumably including', '000 adult felony parole revocations', 'committed another serious crime creates', 'previously imposed federal sentence arising', 'ii two prior decisions set', 'due process — w require', 'two analytically distinct components', 'remove without undue strain', 'g ., van dyke', '000 adult probation revocations', 'affected ," id .,', 'would impose direct costs', 'judicial review — w', 'state — f appointed counsel', 'conditional liberty properly dependent', 'new inflexible constitutional rule', 'limited due process right', 'wholly retrospective factual question', 'special parole restrictions ."', 'applicable due process requirements', 'parole agent ordinarily defines', 'protect constitutional rights asserted', 'revocation decision thus involves', 'juvenile delinquency proceeding must', 'subsequent probation revocation proceeding', 'see also argersinger v', 'serious deprivation requiring', 'state must provide counsel', 'felony prosecutions adopted', 'comprehensive hearing prior', 'serious technical hurdles', 'denied due process', 'accorded due process', 'due process prescribed', 'subsequent assertions regarding', 'new constitutional ruling', 'economy must always', 'due process right', 'due process requires', 'reasonable doubt ").', 'overall social readjustment', 'others entirely judgmental', 'generally applicable statute', 'field agent never', 'disruption inevitably attends', 'committing another crime', 'almost infinite variation', 'fundamental fairness —', 'course — w', 'traditional parole board', 'parole officer reflect', 'parole officer assigned', 'per se rule', 'adult probation department', 'revocation hearing must', 'responsible agency also', 'require either investigation', 'neither unnecessarily interrupting', 'help individuals reintegrate', '788 rehabilitative needs', 'morrissey regarding parole', 'probation officer recognizes', 'considerable discretion must', 'namely fred kleckner', 'arguable defense would', 'justice powell delivered', '782 preliminary hearing', 'parole ), 193', 'revocation becomes final', 'final revocation hearing', 'order placing respondent', 'morrissey mandated preliminary', 'working successfully obscures', 'undoubted minor differences', 'related questions whether', 'marginal deviant behavior', 'interstate compact adopted', 'decision last term', 'courts 56 n', 'continue nonpunitive rehabilitation', 'assistant attorney general', 'allowing confrontation );', '1964 ), cited', 'hearing body may', 'district court found', 'defendant must make', 'examine adverse witnesses', 'three years later', 'ca7 1971 ),', '1971 ); sklar', '1967 ), establishing', 'wisconsin state reformatory', 'revocation hearings derives', 'previously sentenced probationer', 'final revocation decision', 'remain certain cases', 'state authority charged']
+

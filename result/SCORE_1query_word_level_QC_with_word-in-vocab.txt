@@ -1,0 +1,131 @@
+nohup: ignoring input
+/misc/grice1/yijun/Web-of-Law_Ranking-System
+length of blobs: 1001
+length of queries:  10
+working on ranking ...
+QID	DocsID	Rank	Score				Query
+1	111515	1	9.40146076413521	['adult', 'probation']
+1	99116	2	7.0182943043596895	['adult', 'probation']
+1	118384	3	5.086775622705723	['adult', 'probation']
+1	98374	4	4.73035094852041	['adult', 'probation']
+1	118061	5	4.043531962471878	['adult', 'probation']
+
+
+2	111508	1	3.5801425893230694	['arson']
+2	150540	2	0.6896497412846327	['arson']
+
+
+3	102349	1	10.938612795420232	['bankruptcy', 'fraud']
+3	102265	2	10.2593640911856	['bankruptcy', 'fraud']
+3	98073	3	9.298786094219672	['bankruptcy', 'fraud']
+3	1087664	4	7.344676142649961	['bankruptcy', 'fraud']
+3	99087	5	7.216541086244502	['bankruptcy', 'fraud']
+
+
+4	111589	1	8.459965539309644	['capital', 'crime']
+4	111957	2	7.334367987610873	['capital', 'crime']
+4	95710	3	6.972159404862563	['capital', 'crime']
+4	2654277	4	5.626205266318871	['capital', 'crime']
+4	104925	5	5.592629935716472	['capital', 'crime']
+
+
+5	109513	1	6.750817344951261	['civil', 'rights']
+5	111858	2	6.550094403630663	['civil', 'rights']
+5	106131	3	6.250468967510551	['civil', 'rights']
+5	109495	4	6.178210668458976	['civil', 'rights']
+5	118098	5	6.053393738616711	['civil', 'rights']
+
+
+6	112811	1	5.923522796476938	['corporate', 'takeover']
+6	109264	2	5.78792903329899	['corporate', 'takeover']
+6	91674	3	5.119191014603595	['corporate', 'takeover']
+6	87989	4	5.043635768792987	['corporate', 'takeover']
+6	103868	5	4.947702107723121	['corporate', 'takeover']
+
+
+7	213505	1	6.782591535234241	['ethical', 'will']
+7	118384	2	4.93119345055716	['ethical', 'will']
+7	107750	3	2.558047467230811	['ethical', 'will']
+7	94445	4	1.5687822207212978	['ethical', 'will']
+7	93751	5	1.5659486706760914	['ethical', 'will']
+
+
+8	107670	1	8.492290195928984	['divorce']
+8	98578	2	8.358148702128451	['divorce']
+8	118356	3	6.334364216956301	['divorce']
+8	98724	4	6.137544452755136	['divorce']
+8	96795	5	5.2274810202243565	['divorce']
+
+
+9	111508	1	12.199184698539693	['mail', 'fraud']
+9	87147	2	9.386366914237627	['mail', 'fraud']
+9	145761	3	9.200525674744046	['mail', 'fraud']
+9	107930	4	8.202935061032484	['mail', 'fraud']
+9	86283	5	5.650930306221579	['mail', 'fraud']
+
+
+10	93858	1	7.495951793793518	['homicide']
+10	112603	2	7.192207138024841	['homicide']
+10	111589	3	6.645043536824928	['homicide']
+
+
+[['adult', 'probation'], ['arson'], ['bankruptcy', 'fraud'], ['capital', 'crime'], ['civil', 'rights'], ['corporate', 'takeover'], ['ethical', 'will'], ['divorce'], ['mail', 'fraud'], ['homicide']]
+{0: ['111515', '99116', '118384', '98374', '118061'], 1: ['111508', '150540'], 2: ['102349', '102265', '98073', '1087664', '99087'], 3: ['111589', '111957', '95710', '2654277', '104925'], 4: ['109513', '111858', '106131', '109495', '118098'], 5: ['112811', '109264', '91674', '87989', '103868'], 6: ['213505', '118384', '107750', '94445', '93751'], 7: ['107670', '98578', '118356', '98724', '96795'], 8: ['111508', '87147', '145761', '107930', '86283'], 9: ['93858', '112603', '111589']}
+Please wait ... (it could take a while to load the file : ../word2vec/GoogleNews-vectors-negative300.bin)
+Done.  (time used: 72.9s)
+
+['111515', '99116', '118384', '98374', '118061']
+length of text_list:  2
+how many has been found:  2
+not found:  0
+length of query embedding:  2
+length of text_list:  12259
+how many has been found:  8289
+not found:  3970
+length of doc embedding:  12259
+shape of query array:  (2, 300)
+shape of doc array:  (12259, 300)
+shape of score array:  (12259, 2)
+score before normalization:  12512.998768968475
+score:  1.0207193709901685
+
+length of text_list:  612
+how many has been found:  402
+not found:  210
+length of doc embedding:  612
+shape of query array:  (2, 300)
+shape of doc array:  (612, 300)
+shape of score array:  (612, 2)
+score before normalization:  481.22034649410125
+score:  0.7863077557093158
+
+length of text_list:  20399
+how many has been found:  14095
+not found:  6304
+length of doc embedding:  20399
+shape of query array:  (2, 300)
+shape of doc array:  (20399, 300)
+shape of score array:  (20399, 2)
+score before normalization:  16078.503100970036
+score:  0.7882005539962761
+
+length of text_list:  2020
+how many has been found:  1409
+not found:  611
+length of doc embedding:  2020
+shape of query array:  (2, 300)
+shape of doc array:  (2020, 300)
+shape of score array:  (2020, 2)
+score before normalization:  1579.963088690071
+score:  0.7821599448960747
+
+length of text_list:  34480
+how many has been found:  23860
+not found:  10620
+length of doc embedding:  34480
+shape of query array:  (2, 300)
+shape of doc array:  (34480, 300)
+shape of score array:  (34480, 2)
+score before normalization:  26410.80724044552
+score:  0.7659746879479559
+

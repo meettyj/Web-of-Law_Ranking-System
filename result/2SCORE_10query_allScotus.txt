@@ -1,0 +1,681 @@
+nohup: ignoring input
+/misc/grice1/yijun/Web-of-Law_Ranking-System
+length of blobs: 63882
+length of queries:  10
+working on ranking ...
+QID	DocsID	Rank	Score				Query
+1	110585	1	18.842165180240762	['adult', 'probation']
+1	110117	2	17.629201035440957	['adult', 'probation']
+1	109093	3	16.51568560281413	['adult', 'probation']
+1	111977	4	15.965978500279395	['adult', 'probation']
+1	108785	5	15.862406615104291	['adult', 'probation']
+
+
+2	118370	1	12.611769097720423	['arson']
+2	94522	2	12.205640185126246	['arson']
+2	3204917	3	12.033817877602974	['arson']
+2	111761	4	11.545695604548964	['arson']
+2	109874	5	10.86873406074335	['arson']
+
+
+3	104275	1	13.680309572579741	['bankruptcy', 'fraud']
+3	92954	2	13.546753243378172	['bankruptcy', 'fraud']
+3	112522	3	13.447666845288015	['bankruptcy', 'fraud']
+3	93615	4	13.1952654924089	['bankruptcy', 'fraud']
+3	96136	5	13.164966025388601	['bankruptcy', 'fraud']
+
+
+4	111660	1	11.343561855804529	['capital', 'crime']
+4	94956	2	11.209673053137783	['capital', 'crime']
+4	2959730	3	11.110246055167835	['capital', 'crime']
+4	112001	4	11.101204281485138	['capital', 'crime']
+4	110795	5	11.082401278014942	['capital', 'crime']
+
+
+5	145844	1	7.763062198399423	['civil', 'rights']
+5	1087963	2	7.700296045296638	['civil', 'rights']
+5	111770	3	7.617647633004996	['civil', 'rights']
+5	111237	4	7.546610313586724	['civil', 'rights']
+5	111627	5	7.523197771323411	['civil', 'rights']
+
+
+6	109604	1	17.837020869336875	['corporate', 'takeover']
+6	110758	2	17.238195022981504	['corporate', 'takeover']
+6	111462	3	17.191681222919826	['corporate', 'takeover']
+6	109105	4	16.254847427957316	['corporate', 'takeover']
+6	111860	5	15.959853154109393	['corporate', 'takeover']
+
+
+7	109833	1	10.197341289507817	['ethical', 'will']
+7	109416	2	10.057661053905095	['ethical', 'will']
+7	109269	3	9.470473991722793	['ethical', 'will']
+7	111603	4	9.305482852152117	['ethical', 'will']
+7	110589	5	9.197458331510706	['ethical', 'will']
+
+
+8	104562	1	11.275419840323057	['divorce']
+8	107049	2	11.209959027701185	['divorce']
+8	96454	3	11.18100517973481	['divorce']
+8	2764117	4	11.140409048912588	['divorce']
+8	104866	5	11.137656193590127	['divorce']
+
+
+9	112222	1	14.63838989593287	['mail', 'fraud']
+9	108900	2	14.384921502295803	['mail', 'fraud']
+9	111945	3	14.281577160307602	['mail', 'fraud']
+9	111964	4	14.257962664171881	['mail', 'fraud']
+9	145799	5	14.077271801959736	['mail', 'fraud']
+
+
+10	107293	1	10.526362811373653	['homicide']
+10	111282	2	10.40206538949533	['homicide']
+10	109265	3	10.193625742259083	['homicide']
+10	1854815	4	10.071710776901847	['homicide']
+10	110307	5	9.944822638807448	['homicide']
+
+
+queries:  [['adult', 'probation'], ['arson'], ['bankruptcy', 'fraud'], ['capital', 'crime'], ['civil', 'rights'], ['corporate', 'takeover'], ['ethical', 'will'], ['divorce'], ['mail', 'fraud'], ['homicide']]
+dictionary for result after BM25:  {0: ['110585', '110117', '109093', '111977', '108785'], 1: ['118370', '94522', '3204917', '111761', '109874'], 2: ['104275', '92954', '112522', '93615', '96136'], 3: ['111660', '94956', '2959730', '112001', '110795'], 4: ['145844', '1087963', '111770', '111237', '111627'], 5: ['109604', '110758', '111462', '109105', '111860'], 6: ['109833', '109416', '109269', '111603', '110589'], 7: ['104562', '107049', '96454', '2764117', '104866'], 8: ['112222', '108900', '111945', '111964', '145799'], 9: ['107293', '111282', '109265', '1854815', '110307']}
+Please wait ... (it could take a while to load the file : ../word2vec/GoogleNews-vectors-negative300.bin)
+Done.  (time used: 67.4s)
+
+============================== Query1: ['adult', 'probation'] ==================================
+length of text_list:  2
+how many has been found:  2
+not found:  0
+
+The score for 110585.txt in Scotus
+length of text_list:  11488
+how many has been found:  8073
+not found:  3415
+shape of query array:  (2, 300)
+shape of doc array:  (8073, 300)
+shape of score array:  (8073, 2)
+score before normalization:  15141.926
+each doc word level QC relatedness score:  1.8756256387030843
+each doc Key Phrases overlap score:  0
+
+The score for 110117.txt in Scotus
+length of text_list:  9220
+how many has been found:  6626
+not found:  2594
+shape of query array:  (2, 300)
+shape of doc array:  (6626, 300)
+shape of score array:  (6626, 2)
+score before normalization:  10445.753
+each doc word level QC relatedness score:  1.5764794641846513
+each doc Key Phrases overlap score:  48.13622545335461
+
+The score for 109093.txt in Scotus
+length of text_list:  11696
+how many has been found:  8243
+not found:  3453
+shape of query array:  (2, 300)
+shape of doc array:  (8243, 300)
+shape of score array:  (8243, 2)
+score before normalization:  13595.326
+each doc word level QC relatedness score:  1.6493177449805896
+each doc Key Phrases overlap score:  0
+
+The score for 111977.txt in Scotus
+length of text_list:  3381
+how many has been found:  2423
+not found:  958
+shape of query array:  (2, 300)
+shape of doc array:  (2423, 300)
+shape of score array:  (2423, 2)
+score before normalization:  3045.3071
+each doc word level QC relatedness score:  1.2568333177491746
+each doc Key Phrases overlap score:  0
+
+The score for 108785.txt in Scotus
+length of text_list:  4032
+how many has been found:  2876
+not found:  1156
+shape of query array:  (2, 300)
+shape of doc array:  (2876, 300)
+shape of score array:  (2876, 2)
+score before normalization:  4802.5186
+each doc word level QC relatedness score:  1.6698604153989915
+each doc Key Phrases overlap score:  23.26773738021885
+
+============================== Query2: ['arson'] ==================================
+length of text_list:  1
+how many has been found:  1
+not found:  0
+
+The score for 118370.txt in Scotus
+length of text_list:  3520
+how many has been found:  2209
+not found:  1311
+shape of query array:  (1, 300)
+shape of doc array:  (2209, 300)
+shape of score array:  (2209, 1)
+score before normalization:  1618.4277
+each doc word level QC relatedness score:  0.7326517584314169
+each doc Key Phrases overlap score:  0
+
+The score for 94522.txt in Scotus
+length of text_list:  1930
+how many has been found:  1456
+not found:  474
+shape of query array:  (1, 300)
+shape of doc array:  (1456, 300)
+shape of score array:  (1456, 1)
+score before normalization:  1188.819
+each doc word level QC relatedness score:  0.8164965451418699
+each doc Key Phrases overlap score:  11.02936467018066
+
+The score for 3204917.txt in Scotus
+length of text_list:  12694
+how many has been found:  8363
+not found:  4331
+shape of query array:  (1, 300)
+shape of doc array:  (8363, 300)
+shape of score array:  (8363, 1)
+score before normalization:  6329.318
+each doc word level QC relatedness score:  0.7568238516194846
+each doc Key Phrases overlap score:  34.092683190850885
+
+The score for 111761.txt in Scotus
+length of text_list:  517
+how many has been found:  335
+not found:  182
+shape of query array:  (1, 300)
+shape of doc array:  (335, 300)
+shape of score array:  (335, 1)
+score before normalization:  293.88412
+each doc word level QC relatedness score:  0.8772660440473414
+each doc Key Phrases overlap score:  4.528243230423685
+
+The score for 109874.txt in Scotus
+length of text_list:  5928
+how many has been found:  4255
+not found:  1673
+shape of query array:  (1, 300)
+shape of doc array:  (4255, 300)
+shape of score array:  (4255, 1)
+score before normalization:  3239.6025
+each doc word level QC relatedness score:  0.7613636989571093
+each doc Key Phrases overlap score:  80.25257791306662
+
+============================== Query3: ['bankruptcy', 'fraud'] ==================================
+length of text_list:  2
+how many has been found:  2
+not found:  0
+
+The score for 104275.txt in Scotus
+length of text_list:  5332
+how many has been found:  3830
+not found:  1502
+shape of query array:  (2, 300)
+shape of doc array:  (3830, 300)
+shape of score array:  (3830, 2)
+score before normalization:  6660.7007
+each doc word level QC relatedness score:  1.7390863403639034
+each doc Key Phrases overlap score:  0
+
+The score for 92954.txt in Scotus
+length of text_list:  898
+how many has been found:  619
+not found:  279
+shape of query array:  (2, 300)
+shape of doc array:  (619, 300)
+shape of score array:  (619, 2)
+score before normalization:  957.98193
+each doc word level QC relatedness score:  1.5476283256764944
+each doc Key Phrases overlap score:  0
+
+The score for 112522.txt in Scotus
+length of text_list:  3707
+how many has been found:  2443
+not found:  1264
+shape of query array:  (2, 300)
+shape of doc array:  (2443, 300)
+shape of score array:  (2443, 2)
+score before normalization:  4460.832
+each doc word level QC relatedness score:  1.8259648101719197
+each doc Key Phrases overlap score:  85.55502083333333
+
+The score for 93615.txt in Scotus
+length of text_list:  2066
+how many has been found:  1409
+not found:  657
+shape of query array:  (2, 300)
+shape of doc array:  (1409, 300)
+shape of score array:  (1409, 2)
+score before normalization:  2101.7163
+each doc word level QC relatedness score:  1.4916368407336764
+each doc Key Phrases overlap score:  0
+
+The score for 96136.txt in Scotus
+length of text_list:  3463
+how many has been found:  2519
+not found:  944
+shape of query array:  (2, 300)
+shape of doc array:  (2519, 300)
+shape of score array:  (2519, 2)
+score before normalization:  4009.8962
+each doc word level QC relatedness score:  1.5918603573776797
+each doc Key Phrases overlap score:  3.8877855730905932
+
+============================== Query4: ['capital', 'crime'] ==================================
+length of text_list:  2
+how many has been found:  2
+not found:  0
+
+The score for 111660.txt in Scotus
+length of text_list:  8789
+how many has been found:  6390
+not found:  2399
+shape of query array:  (2, 300)
+shape of doc array:  (6390, 300)
+shape of score array:  (6390, 2)
+score before normalization:  8191.39
+each doc word level QC relatedness score:  1.2819076896273474
+each doc Key Phrases overlap score:  64.16227826722097
+
+The score for 94956.txt in Scotus
+length of text_list:  3801
+how many has been found:  2781
+not found:  1020
+shape of query array:  (2, 300)
+shape of doc array:  (2781, 300)
+shape of score array:  (2781, 2)
+score before normalization:  3572.7275
+each doc word level QC relatedness score:  1.284691671723301
+each doc Key Phrases overlap score:  81.97714604890774
+
+The score for 2959730.txt in Scotus
+length of text_list:  22318
+how many has been found:  14592
+not found:  7726
+shape of query array:  (2, 300)
+shape of doc array:  (14592, 300)
+shape of score array:  (14592, 2)
+score before normalization:  19810.877
+each doc word level QC relatedness score:  1.357653299967448
+each doc Key Phrases overlap score:  0
+
+The score for 112001.txt in Scotus
+length of text_list:  1900
+how many has been found:  1275
+not found:  625
+shape of query array:  (2, 300)
+shape of doc array:  (1275, 300)
+shape of score array:  (1275, 2)
+score before normalization:  1713.3379
+each doc word level QC relatedness score:  1.3437944240196078
+each doc Key Phrases overlap score:  0
+
+The score for 110795.txt in Scotus
+length of text_list:  17491
+how many has been found:  11914
+not found:  5577
+shape of query array:  (2, 300)
+shape of doc array:  (11914, 300)
+shape of score array:  (11914, 2)
+score before normalization:  16747.883
+each doc word level QC relatedness score:  1.4057313087544065
+each doc Key Phrases overlap score:  20.35295653631202
+
+============================== Query5: ['civil', 'rights'] ==================================
+length of text_list:  2
+how many has been found:  2
+not found:  0
+
+The score for 145844.txt in Scotus
+length of text_list:  3898
+how many has been found:  2535
+not found:  1363
+shape of query array:  (2, 300)
+shape of doc array:  (2535, 300)
+shape of score array:  (2535, 2)
+score before normalization:  4517.659
+each doc word level QC relatedness score:  1.7821140748274162
+each doc Key Phrases overlap score:  31.789524981374683
+
+The score for 1087963.txt in Scotus
+length of text_list:  1901
+how many has been found:  1277
+not found:  624
+shape of query array:  (2, 300)
+shape of doc array:  (1277, 300)
+shape of score array:  (1277, 2)
+score before normalization:  2295.0078
+each doc word level QC relatedness score:  1.7971870105716523
+each doc Key Phrases overlap score:  8.958025744758817
+
+The score for 111770.txt in Scotus
+length of text_list:  6523
+how many has been found:  4555
+not found:  1968
+shape of query array:  (2, 300)
+shape of doc array:  (4555, 300)
+shape of score array:  (4555, 2)
+score before normalization:  8174.8984
+each doc word level QC relatedness score:  1.794708767837541
+each doc Key Phrases overlap score:  35.78747800117739
+
+The score for 111237.txt in Scotus
+length of text_list:  6869
+how many has been found:  4744
+not found:  2125
+shape of query array:  (2, 300)
+shape of doc array:  (4744, 300)
+shape of score array:  (4744, 2)
+score before normalization:  9191.76
+each doc word level QC relatedness score:  1.9375547566663154
+each doc Key Phrases overlap score:  45.64728907114666
+
+The score for 111627.txt in Scotus
+length of text_list:  18309
+how many has been found:  12791
+not found:  5518
+shape of query array:  (2, 300)
+shape of doc array:  (12791, 300)
+shape of score array:  (12791, 2)
+score before normalization:  21707.74
+each doc word level QC relatedness score:  1.6971104866214526
+each doc Key Phrases overlap score:  27.255161211093494
+
+============================== Query6: ['corporate', 'takeover'] ==================================
+length of text_list:  2
+how many has been found:  2
+not found:  0
+
+The score for 109604.txt in Scotus
+length of text_list:  23268
+how many has been found:  16522
+not found:  6746
+shape of query array:  (2, 300)
+shape of doc array:  (16522, 300)
+shape of score array:  (16522, 2)
+score before normalization:  19464.203
+each doc word level QC relatedness score:  1.178077903704152
+each doc Key Phrases overlap score:  15.582879990196057
+
+The score for 110758.txt in Scotus
+length of text_list:  14772
+how many has been found:  10881
+not found:  3891
+shape of query array:  (2, 300)
+shape of doc array:  (10881, 300)
+shape of score array:  (10881, 2)
+score before normalization:  12556.585
+each doc word level QC relatedness score:  1.1539918170147505
+each doc Key Phrases overlap score:  0
+
+The score for 111462.txt in Scotus
+length of text_list:  3869
+how many has been found:  2658
+not found:  1211
+shape of query array:  (2, 300)
+shape of doc array:  (2658, 300)
+shape of score array:  (2658, 2)
+score before normalization:  3182.1426
+each doc word level QC relatedness score:  1.1971943484292702
+each doc Key Phrases overlap score:  0
+
+The score for 109105.txt in Scotus
+length of text_list:  1544
+how many has been found:  1106
+not found:  438
+shape of query array:  (2, 300)
+shape of doc array:  (1106, 300)
+shape of score array:  (1106, 2)
+score before normalization:  1337.259
+each doc word level QC relatedness score:  1.2090949667297695
+each doc Key Phrases overlap score:  0
+
+The score for 111860.txt in Scotus
+length of text_list:  10235
+how many has been found:  7337
+not found:  2898
+shape of query array:  (2, 300)
+shape of doc array:  (7337, 300)
+shape of score array:  (7337, 2)
+score before normalization:  9292.044
+each doc word level QC relatedness score:  1.2664636697986233
+each doc Key Phrases overlap score:  0
+
+============================== Query7: ['ethical', 'will'] ==================================
+length of text_list:  2
+how many has been found:  2
+not found:  0
+
+The score for 109833.txt in Scotus
+length of text_list:  7265
+how many has been found:  5212
+not found:  2053
+shape of query array:  (2, 300)
+shape of doc array:  (5212, 300)
+shape of score array:  (5212, 2)
+score before normalization:  6978.8027
+each doc word level QC relatedness score:  1.3389874778156179
+each doc Key Phrases overlap score:  36.83516483516483
+
+The score for 109416.txt in Scotus
+length of text_list:  4084
+how many has been found:  2844
+not found:  1240
+shape of query array:  (2, 300)
+shape of doc array:  (2844, 300)
+shape of score array:  (2844, 2)
+score before normalization:  3685.9917
+each doc word level QC relatedness score:  1.2960589659700246
+each doc Key Phrases overlap score:  0
+
+The score for 109269.txt in Scotus
+length of text_list:  6000
+how many has been found:  4305
+not found:  1695
+shape of query array:  (2, 300)
+shape of doc array:  (4305, 300)
+shape of score array:  (4305, 2)
+score before normalization:  5524.602
+each doc word level QC relatedness score:  1.2832989664997096
+each doc Key Phrases overlap score:  11.150146536388675
+
+The score for 111603.txt in Scotus
+length of text_list:  10944
+how many has been found:  7559
+not found:  3385
+shape of query array:  (2, 300)
+shape of doc array:  (7559, 300)
+shape of score array:  (7559, 2)
+score before normalization:  9835.215
+each doc word level QC relatedness score:  1.3011264510847995
+each doc Key Phrases overlap score:  0
+
+The score for 110589.txt in Scotus
+length of text_list:  8853
+how many has been found:  6170
+not found:  2683
+shape of query array:  (2, 300)
+shape of doc array:  (6170, 300)
+shape of score array:  (6170, 2)
+score before normalization:  7822.045
+each doc word level QC relatedness score:  1.2677544443881685
+each doc Key Phrases overlap score:  0
+
+============================== Query8: ['divorce'] ==================================
+length of text_list:  1
+how many has been found:  1
+not found:  0
+
+The score for 104562.txt in Scotus
+length of text_list:  1862
+how many has been found:  1324
+not found:  538
+shape of query array:  (1, 300)
+shape of doc array:  (1324, 300)
+shape of score array:  (1324, 1)
+score before normalization:  1454.8235
+each doc word level QC relatedness score:  1.0988092797040219
+each doc Key Phrases overlap score:  9.954001614838042
+
+The score for 107049.txt in Scotus
+length of text_list:  2871
+how many has been found:  2136
+not found:  735
+shape of query array:  (1, 300)
+shape of doc array:  (2136, 300)
+shape of score array:  (2136, 1)
+score before normalization:  2183.22
+each doc word level QC relatedness score:  1.0221067278572682
+each doc Key Phrases overlap score:  73.32706671697609
+
+The score for 96454.txt in Scotus
+length of text_list:  25658
+how many has been found:  18740
+not found:  6918
+shape of query array:  (1, 300)
+shape of doc array:  (18740, 300)
+shape of score array:  (18740, 1)
+score before normalization:  16821.074
+each doc word level QC relatedness score:  0.89760267976254
+each doc Key Phrases overlap score:  18.52659993665241
+
+The score for 2764117.txt in Scotus
+length of text_list:  11945
+how many has been found:  8312
+not found:  3633
+shape of query array:  (1, 300)
+shape of doc array:  (8312, 300)
+shape of score array:  (8312, 1)
+score before normalization:  7404.808
+each doc word level QC relatedness score:  0.8908575680304078
+each doc Key Phrases overlap score:  33.98728931860286
+
+The score for 104866.txt in Scotus
+length of text_list:  2607
+how many has been found:  1826
+not found:  781
+shape of query array:  (1, 300)
+shape of doc array:  (1826, 300)
+shape of score array:  (1826, 1)
+score before normalization:  1761.1094
+each doc word level QC relatedness score:  0.9644629654983571
+each doc Key Phrases overlap score:  0
+
+============================== Query9: ['mail', 'fraud'] ==================================
+length of text_list:  2
+how many has been found:  2
+not found:  0
+
+The score for 112222.txt in Scotus
+length of text_list:  6496
+how many has been found:  4628
+not found:  1868
+shape of query array:  (2, 300)
+shape of doc array:  (4628, 300)
+shape of score array:  (4628, 2)
+score before normalization:  7421.167
+each doc word level QC relatedness score:  1.6035365151658383
+each doc Key Phrases overlap score:  25.3479773614738
+
+The score for 108900.txt in Scotus
+length of text_list:  6918
+how many has been found:  4872
+not found:  2046
+shape of query array:  (2, 300)
+shape of doc array:  (4872, 300)
+shape of score array:  (4872, 2)
+score before normalization:  8480.51
+each doc word level QC relatedness score:  1.7406629239788587
+each doc Key Phrases overlap score:  73.5858220291393
+
+The score for 111945.txt in Scotus
+length of text_list:  9793
+how many has been found:  6597
+not found:  3196
+shape of query array:  (2, 300)
+shape of doc array:  (6597, 300)
+shape of score array:  (6597, 2)
+score before normalization:  10149.381
+each doc word level QC relatedness score:  1.53848428973397
+each doc Key Phrases overlap score:  89.0203937298219
+
+The score for 111964.txt in Scotus
+length of text_list:  3009
+how many has been found:  2104
+not found:  905
+shape of query array:  (2, 300)
+shape of doc array:  (2104, 300)
+shape of score array:  (2104, 2)
+score before normalization:  3142.7556
+each doc word level QC relatedness score:  1.4937051403205204
+each doc Key Phrases overlap score:  12.437054701860115
+
+The score for 145799.txt in Scotus
+length of text_list:  6874
+how many has been found:  4621
+not found:  2253
+shape of query array:  (2, 300)
+shape of doc array:  (4621, 300)
+shape of score array:  (4621, 2)
+score before normalization:  6403.076
+each doc word level QC relatedness score:  1.3856472996916251
+each doc Key Phrases overlap score:  0
+
+============================== Query10: ['homicide'] ==================================
+length of text_list:  1
+how many has been found:  1
+not found:  0
+
+The score for 107293.txt in Scotus
+length of text_list:  1826
+how many has been found:  1279
+not found:  547
+shape of query array:  (1, 300)
+shape of doc array:  (1279, 300)
+shape of score array:  (1279, 1)
+score before normalization:  1390.8999
+each doc word level QC relatedness score:  1.0874901503860437
+each doc Key Phrases overlap score:  22.856281174884494
+
+The score for 111282.txt in Scotus
+length of text_list:  1776
+how many has been found:  1215
+not found:  561
+shape of query array:  (1, 300)
+shape of doc array:  (1215, 300)
+shape of score array:  (1215, 1)
+score before normalization:  1115.6017
+each doc word level QC relatedness score:  0.9181906868891461
+each doc Key Phrases overlap score:  0
+
+The score for 109265.txt in Scotus
+length of text_list:  7353
+how many has been found:  5135
+not found:  2218
+shape of query array:  (1, 300)
+shape of doc array:  (5135, 300)
+shape of score array:  (5135, 1)
+score before normalization:  4501.8115
+each doc word level QC relatedness score:  0.8766916306596884
+each doc Key Phrases overlap score:  0
+
+The score for 1854815.txt in Scotus
+length of text_list:  1264
+how many has been found:  861
+not found:  403
+shape of query array:  (1, 300)
+shape of doc array:  (861, 300)
+shape of score array:  (861, 1)
+score before normalization:  902.932
+each doc word level QC relatedness score:  1.048701517811774
+each doc Key Phrases overlap score:  8.53245564454445
+
+The score for 110307.txt in Scotus
+length of text_list:  5884
+how many has been found:  4283
+not found:  1601
+shape of query array:  (1, 300)
+shape of doc array:  (4283, 300)
+shape of score array:  (4283, 1)
+score before normalization:  4041.5122
+each doc word level QC relatedness score:  0.9436171391620943
+each doc Key Phrases overlap score:  0
+

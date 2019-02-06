@@ -1,0 +1,134 @@
+nohup: ignoring input
+/misc/grice1/yijun/Web-of-Law_Ranking-System
+length of blobs: 63882
+length of queries:  10
+working on ranking ...
+QID	DocsID	Rank	Score				Query
+1	110585	1	18.842165180240762	['adult', 'probation']
+1	110117	2	17.629201035440957	['adult', 'probation']
+1	109093	3	16.51568560281413	['adult', 'probation']
+1	111977	4	15.965978500279395	['adult', 'probation']
+1	108785	5	15.862406615104291	['adult', 'probation']
+
+
+2	118370	1	12.611769097720423	['arson']
+2	94522	2	12.205640185126246	['arson']
+2	3204917	3	12.033817877602974	['arson']
+2	111761	4	11.545695604548964	['arson']
+2	109874	5	10.86873406074335	['arson']
+
+
+3	104275	1	13.680309572579741	['bankruptcy', 'fraud']
+3	92954	2	13.546753243378172	['bankruptcy', 'fraud']
+3	112522	3	13.447666845288015	['bankruptcy', 'fraud']
+3	93615	4	13.1952654924089	['bankruptcy', 'fraud']
+3	96136	5	13.164966025388601	['bankruptcy', 'fraud']
+
+
+4	111660	1	11.343561855804529	['capital', 'crime']
+4	94956	2	11.209673053137783	['capital', 'crime']
+4	2959730	3	11.110246055167835	['capital', 'crime']
+4	112001	4	11.101204281485138	['capital', 'crime']
+4	110795	5	11.082401278014942	['capital', 'crime']
+
+
+5	145844	1	7.763062198399423	['civil', 'rights']
+5	1087963	2	7.700296045296638	['civil', 'rights']
+5	111770	3	7.617647633004996	['civil', 'rights']
+5	111237	4	7.546610313586724	['civil', 'rights']
+5	111627	5	7.523197771323411	['civil', 'rights']
+
+
+6	109604	1	17.837020869336875	['corporate', 'takeover']
+6	110758	2	17.238195022981504	['corporate', 'takeover']
+6	111462	3	17.191681222919826	['corporate', 'takeover']
+6	109105	4	16.254847427957316	['corporate', 'takeover']
+6	111860	5	15.959853154109393	['corporate', 'takeover']
+
+
+7	109833	1	10.197341289507817	['ethical', 'will']
+7	109416	2	10.057661053905095	['ethical', 'will']
+7	109269	3	9.470473991722793	['ethical', 'will']
+7	111603	4	9.305482852152117	['ethical', 'will']
+7	110589	5	9.197458331510706	['ethical', 'will']
+
+
+8	104562	1	11.275419840323057	['divorce']
+8	107049	2	11.209959027701185	['divorce']
+8	96454	3	11.18100517973481	['divorce']
+8	2764117	4	11.140409048912588	['divorce']
+8	104866	5	11.137656193590127	['divorce']
+
+
+9	112222	1	14.63838989593287	['mail', 'fraud']
+9	108900	2	14.384921502295803	['mail', 'fraud']
+9	111945	3	14.281577160307602	['mail', 'fraud']
+9	111964	4	14.257962664171881	['mail', 'fraud']
+9	145799	5	14.077271801959736	['mail', 'fraud']
+
+
+10	107293	1	10.526362811373653	['homicide']
+10	111282	2	10.40206538949533	['homicide']
+10	109265	3	10.193625742259083	['homicide']
+10	1854815	4	10.071710776901847	['homicide']
+10	110307	5	9.944822638807448	['homicide']
+
+
+queries:  [['adult', 'probation'], ['arson'], ['bankruptcy', 'fraud'], ['capital', 'crime'], ['civil', 'rights'], ['corporate', 'takeover'], ['ethical', 'will'], ['divorce'], ['mail', 'fraud'], ['homicide']]
+dictionary for result after BM25:  {0: ['110585', '110117', '109093', '111977', '108785'], 1: ['118370', '94522', '3204917', '111761', '109874'], 2: ['104275', '92954', '112522', '93615', '96136'], 3: ['111660', '94956', '2959730', '112001', '110795'], 4: ['145844', '1087963', '111770', '111237', '111627'], 5: ['109604', '110758', '111462', '109105', '111860'], 6: ['109833', '109416', '109269', '111603', '110589'], 7: ['104562', '107049', '96454', '2764117', '104866'], 8: ['112222', '108900', '111945', '111964', '145799'], 9: ['107293', '111282', '109265', '1854815', '110307']}
+Please wait ... (it could take a while to load the file : ../word2vec/GoogleNews-vectors-negative300.bin)
+Done.  (time used: 77.6s)
+
+length of text_list:  2
+how many has been found:  2
+not found:  0
+length of text_list:  11488
+how many has been found:  8073
+not found:  3415
+shape of query array:  (2, 300)
+shape of doc array:  (8073, 300)
+shape of score array:  (8073, 2)
+score before normalization:  15141.926
+word level QC relatedness score:  1.8756256387030843
+[(45.514619883040936, '81st cong ., 1st sess ., 43'), (45.514619883040936, '78th cong ., 1st sess ., 74'), (45.514619883040936, '78th cong ., 1st sess ., 63'), (42.514619883040936, '81st cong ., 1st sess ., 22'), (41.71461988304094, '81st cong ., 1st sess ., 5'), (41.256882591093124, '§ 5005 et seq ., must receive yca treatment'), (38.05033416875522, '81st cong ., 2d sess ., 4'), (37.55033416875522, '81st cong ., 2d sess ., 3'), (37.217000835421885, '81st cong ., 2d sess ., 2'), (36.17953216374269, '§ 3651 et seq ., § 5010'), (35.20800438596491, 'j ., dissenting ); north carolina v'), (32.1069826007326, 'ca10 1981 ); united states ex rel'), (28.051754385964912, '§ 5005 et seq .,'), (27.1069826007326, '1981 ); united states ex rel'), (26.643092105263158, 'j ., concurring ); id .,'), (25.88888888888889, 'benefit finding would take effect immediately rather'), (25.33482142857143, 'hereinafter 1949 senate hearings ); report'), (25.18402777777778, '1950 ); sec 96 cong'), (24.958333333333332, 'prison officials exercise almost unlimited discretion'), (24.785714285714285, 'quid pro quo argument applies even')]
+
+length of text_list:  9220
+how many has been found:  6626
+not found:  2594
+shape of query array:  (2, 300)
+shape of doc array:  (6626, 300)
+shape of score array:  (6626, 2)
+score before normalization:  10445.753
+word level QC relatedness score:  1.5764794641846513
+[(37.351417004048585, 'van nuys station house two police officers began'), (35.96666666666667, 'j ., concurring )— r probation officer instructed'), (22.505263157894735, 'case approach provides police sufficient guidance'), (21.77777777777778, '1875 ); general trading co'), (21.5, 'strong per se language used'), (21.41111111111111, 'fifth amendment privilege ," id .,'), (18.072649572649574, 'fifth amendment privilege would undermine'), (17.939880952380953, 'steven c ., 9 cal'), (17.91111111111111, 'california supreme court rests firmly'), (17.816666666666666, 'highly probative evidence even though'), (17.666666666666668, 'inherently coercive circumstances ," post'), (17.30654761904762, 'michael c ., 21 cal'), (17.166666666666664, 'established certain procedural safeguards designed'), (16.973214285714285, 'michael c ., 135 cal'), (16.3, 'probation officer per se constituted'), (16.291666666666664, 'totality approach permits — indeed'), (16.203030303030303, 'rendering effective legal advice sufficient'), (16.0, '708 mark alan hart'), (15.9875, 'juvenile defendant ," 21 cal'), (15.95, 'acting chief probation officer v')]
+
+length of text_list:  11696
+how many has been found:  8243
+not found:  3453
+shape of query array:  (2, 300)
+shape of doc array:  (8243, 300)
+shape of score array:  (8243, 2)
+score before normalization:  13595.326
+word level QC relatedness score:  1.6493177449805896
+[(41.599999999999994, '81st cong ., 1st sess ., 43'), (41.599999999999994, '78th cong ., 1st sess ., 13'), (41.13870967741936, 'official draft 1940 ); id ., comment'), (41.099999999999994, '81st cong ., 1st sess ., 5'), (40.599999999999994, '81st cong ., 1st sess ., 1'), (37.19426523297491, 'approved draft 1968 ); id ., appellate review'), (36.747252747252745, '81st cong ., 2d sess ., 2'), (36.71153846153846, '81st cong ., 2d sess ., 3'), (33.88982259570495, 'federal youth corrections act ," leaving unclear whether'), (33.36370967741935, 'ca2 1973 ); american bar association project'), (32.12, 'dumas school dist ., 361 u'), (31.80483587148673, 'ca3 1973 ); see united states v'), (30.799999999999997, '78th cong ., 1st sess'), (29.47738489109457, 'ca5 1973 ); see also small v'), (29.26, '§ 5005 et seq ., defining'), (27.368938435589293, 'ca5 1973 ); united states v'), (27.083333333333332, 'hardened inmates serving traditional criminal sentences'), (26.43560510225596, 'ca2 1973 ); united states v'), (26.41060510225596, 'ca6 1974 ); united states v'), (26.41060510225596, 'ca6 1971 ); united states v')]
+
+length of text_list:  3381
+how many has been found:  2423
+not found:  958
+shape of query array:  (2, 300)
+shape of doc array:  (2423, 300)
+shape of score array:  (2423, 2)
+score before normalization:  3045.3071
+word level QC relatedness score:  1.2568333177491746
+[(27.8, '1972 ); see also hutchinson v'), (24.25, '1979 ); see also id .,'), (24.086956521739133, 'judicial immunity also protected judicial independence'), (24.043478260869566, 'judicial acts ," would lift form'), (23.5, 'acts — like many others involved'), (23.0, '220 mary anne sedey argued'), (22.333333333333336, '227 would provide powerful incentives'), (21.26666666666667, '§ 2000e et seq .,'), (20.5, 'constitutional scheme ," id .,'), (20.27857142857143, '1972 ); united states v'), (20.166666666666668, 'respondent howard lee white served'), (19.77857142857143, '1973 ); united states v'), (19.50877192982456, 'judge white hired petitioner cynthia'), (18.5, 'criminal process ," imbler v'), (18.371428571428574, 'may well justify broader protections'), (17.00877192982456, 'unless judge white felt free'), (16.96521739130435, 'jersey county juvenile court intake'), (16.0, 'carried increased supervisory responsibilities'), (16.0, 'amicus curiae urging affirmance'), (15.85, '1966 ); kilbourn v')]
+
+length of text_list:  4032
+how many has been found:  2876
+not found:  1156
+shape of query array:  (2, 300)
+shape of doc array:  (2876, 300)
+shape of score array:  (2876, 2)
+score before normalization:  4802.5186
+word level QC relatedness score:  1.6698604153989915
+[(26.077777777777776, 'morrissey hearing requirements impose serious practical problems'), (24.5, 'hearing officer specifically finds good cause'), (22.4, 'serious collateral disadvantages without regard'), (20.25, 'collateral consequences ," presumably including'), (18.866666666666667, '000 adult felony parole revocations'), (18.1, 'committed another serious crime creates'), (17.083333333333336, 'previously imposed federal sentence arising'), (16.666666666666664, 'ii two prior decisions set'), (16.31904761904762, 'due process — w require'), (15.666666666666666, 'two analytically distinct components'), (14.8, 'remove without undue strain'), (14.666666666666666, 'g ., van dyke'), (14.621212121212121, '000 adult probation revocations'), (14.166666666666666, 'affected ," id .,'), (13.833333333333334, 'would impose direct costs'), (13.452380952380953, 'judicial review — w'), (13.40952380952381, 'state — f appointed counsel'), (13.25, 'conditional liberty properly dependent'), (13.166666666666666, 'new inflexible constitutional rule'), (13.033333333333335, 'limited due process right')]
+
