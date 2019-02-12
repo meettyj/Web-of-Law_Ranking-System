@@ -10,14 +10,14 @@ def calc_wordLevel_QC_relatedness_score(query_embedding, doc_embedding):
     # pretrained_embedding_path = "../word2vec/GoogleNews-vectors-negative300.bin"
     query_array = np.array(query_embedding) # length of query * 300
     doc_array = np.array(doc_embedding) # length of doc * 300
-    print('shape of query array: ', query_array.shape)
-    print('shape of doc array: ', doc_array.shape)
+    # print('shape of query array: ', query_array.shape)
+    # print('shape of doc array: ', doc_array.shape)
 
     # The relation score between each word in doc and each word in query.
     score_array = np.dot(doc_array, query_array.transpose()) # length of doc * length of query.
-    print('shape of score array: ', score_array.shape)
+    # print('shape of score array: ', score_array.shape)
     score_before_normalization = score_array.sum()
-    print('score before normalization: ', score_before_normalization)
+    # print('score before normalization: ', score_before_normalization)
     score = score_before_normalization/len(score_array)
     return score
 
@@ -43,13 +43,13 @@ def get_embeddings_from_pretrained_googlenews_w2v(text_list, model):
             found_cnt += 1
         else:
             # to include word_in_vocab or not
-            # not_in_vocab_random_vector = np.random.uniform(-0.25, 0.25, 300)
-            # doc_embedding.append(not_in_vocab_random_vector)
+            not_in_vocab_random_vector = np.random.uniform(-0.25, 0.25, 300)
+            doc_embedding.append(not_in_vocab_random_vector)
             not_found_cnt += 1
 
-    print('length of text_list: ', len(text_list))
-    print('how many has been found: ', found_cnt)
-    print('not found: ', not_found_cnt)
+    # print('length of text_list: ', len(text_list))
+    # print('how many has been found: ', found_cnt)
+    # print('not found: ', not_found_cnt)
 
     return doc_embedding
 
