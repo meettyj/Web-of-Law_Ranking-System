@@ -15,13 +15,15 @@ from Scoring import normalization
 if __name__ == '__main__':
     length_BM25 = 10
     path_Query = './data/10_query_list.txt'
-    path_Corpus = './data/1K_scotus_corpus.txt'
-    # path_Corpus = './data/all_scotus_corpus.txt'
+    # path_Corpus = './data/1K_scotus_corpus.txt'
+    path_Corpus = './data/all_scotus_corpus.txt'
     # path_Corpus = './data/test_scotus_corpus.txt'
 
-    queries, dict_BM25 = entry.main_BM25(path_Query, path_Corpus, length_BM25)
+    queries, dict_BM25, dict_BM25_with_score = entry.main_BM25(path_Query, path_Corpus, length_BM25)
     print('queries: ', queries)
+    print()
     print('dictionary for result after BM25: ', dict_BM25)
+    print()
 
     # here we load word2vec model to save loading time. Will be change in the future.
     pretrained_embedding_path = "../word2vec/GoogleNews-vectors-negative300.bin"
@@ -36,9 +38,16 @@ if __name__ == '__main__':
 
     corpus_dir = './data/all_scotus_text/'
     date_dir = './data/all_scotus_NYU_IE1/'
-    # for i in range(len(queries)):
-    for i in range(1): # for development setting
+    for i in range(len(queries)):
+    # for i in range(1): # for development setting
         print('============================== Query{}: {} =================================='.format(i+1, queries[i]))
+        # BM25 score weight list
+        # print('dict_BM25_with_score: ', dict_BM25_with_score)
+        # print(dict_BM25_with_score[i])
+        normalized_BM25_weight_list = normalization.normalize_list(dict_BM25_with_score[i])
+        print('BM25 weight list: ',normalized_BM25_weight_list)
+        print()
+
         each_query_result_list = dict_BM25.get(i, 0)
         # print(each_query_result_list) # docs ID
         embedding_each_query = wordLevel_QC_relatedness.get_embeddings_from_pretrained_googlenews_w2v(queries[i], model)
@@ -59,7 +68,7 @@ if __name__ == '__main__':
 
             # print(str(each_query_result_list[j]))
 
-            print('The score for {} in Scotus'.format(file_name.split('/')[3]))
+            # print('The score for {} in Scotus'.format(file_name.split('/')[3]))
             with open(file_name, 'r') as f:
                 doc_text = f.read().lower()
                 each_doc_text = doc_text.split()
@@ -69,7 +78,7 @@ if __name__ == '__main__':
                 # print('length of doc embedding: ', len(embedding_each_doc))
                 score_word_level_QC = wordLevel_QC_relatedness.calc_wordLevel_QC_relatedness_score(embedding_each_query, embedding_each_doc)
                 word_level_QC_relatedness_weight.append([int(file_index), score_word_level_QC])
-                print('each doc word level QC relatedness score: ', score_word_level_QC)
+                # print('each doc word level QC relatedness score: ', score_word_level_QC)
 
                 # Key Phrases overlap between query and docs
                 score_KP = 0
@@ -92,16 +101,20 @@ if __name__ == '__main__':
                                 break # we only consider one match in query at most for now.
                     decay_factor *= ratio_to_decay
                 key_phrases_overlap_weight.append([int(file_index), score_KP+5.0])
-                print('each doc Key Phrases overlap score: ', score_KP)
-                print()
+                # print('each doc Key Phrases overlap score: ', score_KP)
+                # print()
 
-        print('word level QC relatedness weight score: ', normalization.normalize_list(word_level_QC_relatedness_weight))
-        print('Key Phrases overlap weight score: ', normalization.normalize_list(key_phrases_overlap_weight))
+        normalized_word_level_relatedness_weight_list = normalization.normalize_list(word_level_QC_relatedness_weight)
+        normalized_KP_overlap_weight_list = normalization.normalize_list(key_phrases_overlap_weight)
+        print('word level QC relatedness weight score: ', normalized_word_level_relatedness_weight_list)
+        print()
+        print('Key Phrases overlap weight score: ', normalized_KP_overlap_weight_list)
+        print()
 
         # Date part. Output list[date, file_index, weight]
         docs_date_list = []
-        for j in range(len(each_query_result_list)):
-            file_index = str(each_query_result_list[j])
+        for m in range(len(each_query_result_list)):
+            file_index = str(each_query_result_list[m])
             # file_name = corpus_dir + file_index + '.txt'
             # file_name = corpus_dir + str(each_query_result_list[j]) + '.txt'
 
@@ -114,23 +127,54 @@ if __name__ == '__main__':
         sort_docs_date_list = sorted(docs_date_list, reverse=True)
         date_weight = 1
         date_decay_factor = 0.05
-        for i in range(len(sort_docs_date_list)):
-            date = sort_docs_date_list[i][0]
+        for k in range(len(sort_docs_date_list)):
+            date = sort_docs_date_list[k][0]
             if date != -1:
-                sort_docs_date_list[i].append(date_weight) # include human given weight
+                sort_docs_date_list[k].append(date_weight) # include human given weight
                 date_weight -= date_decay_factor
             else:
-                sort_docs_date_list[i].append(0.75) # To deal with those file without date, we give an average score. Based on 10 extracted files, we give 0.75.
-        print('date_fileIndex_weight list: ', sort_docs_date_list)
+                sort_docs_date_list[k].append(0.75) # To deal with those file without date, we give an average score. Based on 10 extracted files, we give 0.75.
+        # print('date_fileIndex_weight list: ', sort_docs_date_list)
         prepared_for_normalized_date_list = [[int(x[1]), x[2]] for x in sort_docs_date_list] # to remove the date from list
-        print(prepared_for_normalized_date_list)
-        print('Date weight list: ', normalization.normalize_list(prepared_for_normalized_date_list))
+        # print(prepared_for_normalized_date_list)
+        normalized_date_weight_list = normalization.normalize_list(prepared_for_normalized_date_list)
+        print('Date weight list: ', normalized_date_weight_list)
+        print()
+
+        # Total score
+        final_score = {}
+
+        # So for now. We have 4 weight list.
+        # normalized_BM25_weight_list, normalized_word_level_relatedness_weight_list, normalized_KP_overlap_weight_list, normalized_date_weight_list
+
+        for [id, weight_score] in normalized_BM25_weight_list:
+            final_score[id] = [[weight_score],weight_score]
+        for [id, weight_score] in normalized_word_level_relatedness_weight_list:
+            final_score[id][0].append(weight_score)
+            final_score[id][1] += weight_score
+        for [id, weight_score] in normalized_KP_overlap_weight_list:
+            final_score[id][0].append(weight_score)
+            final_score[id][1] += weight_score
+        for [id, weight_score] in normalized_date_weight_list:
+            final_score[id][0].append(weight_score)
+            final_score[id][1] += weight_score
+
+        print('final_score: ', final_score)
+        print()
+
+        # simple format of final score only contains file id and weight score.
+        simple_final_score = []
+        for id in final_score:
+            simple_final_score.append([id, final_score[id][1]])
+        # print('simple_final_score: ', simple_final_score)
+        # print()
+
+        # to sort the final score.
+        sort_simple_final_score = sorted(simple_final_score,reverse=True,key=lambda item: item[1])
+        print('sorted final_score simple format: ', sort_simple_final_score)
 
 
-
-
-
-                # print('length of each doc text: ', len(each_doc_text))
+        # print('length of each doc text: ', len(each_doc_text))
 
 
                 # tmp = []
