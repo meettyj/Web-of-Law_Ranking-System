@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['jewellenterprises#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_814" id1="122396" volume="537" start="0" page_number="814" standard_reporter="U.S." citation_global_level_id="6145.002" line="1" id="122405_1" citation_local_level_id="0" >537 U.S. 814</CITATION>
+
+<CITATION party2="COX ENTERPRISES, INC., ET AL" party1="JEWELL" citation_global_level_id="6145.007" party2_short="ENTERPRISES" line="1" id="122405_3" alternative_keys="['u.s._537_814']" end="55" entry_type="party_key" lookup_key="jewellenterprises#2" id1="122396" start="17" party1_short="JEWELL" citation_local_level_id="1" >JEWELL v. COX ENTERPRISES, INC., ET AL</CITATION>
+
+<NAME end="23" start="17" party1_of="122405_3" all_names="JEWELL" local_name_id="1" id="122405_4" >JEWELL</NAME>
+
+<NAME end="55" start="27" all_names="COX ENTERPRISES INC" party2_of="122405_3" local_name_id="2" id="122405_5" >COX ENTERPRISES, INC., ET AL</NAME>
+
+<DOCKET end="72" entry_type="docket" lookup_key="u.s._537_814" id1="122396" start="65" citation_global_level_id="6145.002" line="1" id="122405_2" citation_local_level_id="0" >01-1627</DOCKET>
+
+<DATE start="114" end="129" id="122405_6" >October 7, 2002</DATE>
+
+<NAME start="223" local_name_id="3" end="225" id="122405_13" all_names="CT" >Ct</NAME>
+
+<CITATION end="305" reporter="S. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="s.e.2d_555_175" id1="Dummy_File_148568" volume="555" start="289" page_number="175" standard_reporter="S.E.2D" citation_global_level_id="212418.001" line="3" id="122405_12" citation_local_level_id="2" >555 S. E. 2d 175</CITATION>
+
+<RELATION theme="122405_1" includes_docket_string="01-1627" includes_docket="122405_2" theme_string="537 U.S. 814" gram_type="apposition" relation_type="asymmetric" id="122405_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 814" X_vs_Y_string="JEWELL v. COX ENTERPRISES, INC., ET AL" standard_case="122405_1" X_vs_Y="122405_3" gram_type="pre_nom" relation_type="equivalence" id="122405_7" ></RELATION>
+
+<RELATION theme="122405_3" includes_docket_string="01-1627" includes_docket="122405_2" theme_string="JEWELL v. COX ENTERPRISES, INC., ET AL" gram_type="apposition" relation_type="asymmetric" id="122405_10" ></RELATION>
+
+<RELATION theme="122405_3" party1="122405_4" party1_string="JEWELL" theme_string="JEWELL v. COX ENTERPRISES, INC., ET AL" gram_type="infix" relation_type="asymmetric" id="122405_8" ></RELATION>
+
+<RELATION party2="122405_5" theme="122405_3" theme_string="JEWELL v. COX ENTERPRISES, INC., ET AL" party2_string="COX ENTERPRISES, INC., ET AL" gram_type="infix" relation_type="asymmetric" id="122405_9" ></RELATION>
+

@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['mitchelldavis#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._542_945" id1="137544" volume="542" start="0" page_number="945" standard_reporter="U.S." citation_global_level_id="1783.002" line="1" id="137533_1" citation_local_level_id="0" >542 U.S. 945</CITATION>
+
+<CITATION party2="DAVIS" party1="MITCHELL, WARDEN" citation_global_level_id="1783.003" party2_short="DAVIS" line="2" id="137533_2" alternative_keys="['u.s._542_945']" end="42" entry_type="party_key" lookup_key="mitchelldavis#1" id1="137544" start="17" party1_short="MITCHELL" citation_local_level_id="1" >MITCHELL, WARDEN v. DAVIS</CITATION>
+
+<NAME end="33" start="17" party1_of="137533_2" all_names="MITCHELL WARDEN" local_name_id="1" id="137533_3" >MITCHELL, WARDEN</NAME>
+
+<PROFESSION start="27" end="33" id="137533_5" >WARDEN</PROFESSION>
+
+<NAME end="42" start="37" all_names="DAVIS" party2_of="137533_2" local_name_id="2" id="137533_4" >DAVIS</NAME>
+
+<DOCKET alternative_keys="['u.s._542_945']" end="58" entry_type="docket" lookup_key="mitchelldavis#1" id1="137544" start="52" citation_global_level_id="1783.003" line="3" id="137533_8" citation_local_level_id="1" >03-151</DOCKET>
+
+<ORGANIZATION start="64" end="94" id="137533_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="100" citation_global_level_id="1783.003" end="113" id="137533_10" citation_local_level_id="1" >June 28, 2004</DATE>
+
+<NAME start="145" local_name_id="3" end="148" id="137533_15" all_names="CIR" >Cir</NAME>
+
+<CITATION end="267" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_318_682" id1="Dummy_File_3921" volume="318" start="254" page_number="682" standard_reporter="F.3D" citation_global_level_id="67771.001" line="8" id="137533_14" citation_local_level_id="2" >318 F. 3d 682</CITATION>
+
+<RELATION theme="137533_2" party1="137533_3" party1_string="MITCHELL, WARDEN" theme_string="MITCHELL, WARDEN v. DAVIS" gram_type="infix" relation_type="asymmetric" id="137533_6" ></RELATION>
+
+<RELATION party2="137533_4" theme="137533_2" theme_string="MITCHELL, WARDEN v. DAVIS" party2_string="DAVIS" gram_type="infix" relation_type="asymmetric" id="137533_7" ></RELATION>
+
+<RELATION standard_case_string="542 U.S. 945" X_vs_Y_string="MITCHELL, WARDEN v. DAVIS" standard_case="137533_1" X_vs_Y="137533_2" gram_type="multi_line" relation_type="equivalence" id="137533_11" ></RELATION>
+
+<RELATION at_date_string="June 28, 2004" theme="137533_2" at_date="137533_10" theme_string="MITCHELL, WARDEN v. DAVIS" gram_type="multi_line" relation_type="asymmetric" id="137533_13" ></RELATION>
+
+<RELATION theme="137533_2" includes_docket_string="03-151" includes_docket="137533_8" theme_string="MITCHELL, WARDEN v. DAVIS" gram_type="multi_line" relation_type="asymmetric" id="137533_12" ></RELATION>
+

@@ -1,0 +1,56 @@
+<CITATION alternative_keys="['wurtssame#1', 'companyhoagland#1']" end="18" reporter="U.S." entry_type="standard_key" lookup_key="u.s._108_5" id1="90814" volume="108" start="1" page_number="5" year="1882" standard_reporter="U.S." citation_global_level_id="62707.002" line="2" id="90814_1" citation_local_level_id="0" >108 U.S. 5 (1882)</CITATION>
+
+<DATE start="13" citation_global_level_id="62707.002" end="17" id="90814_2" citation_local_level_id="0" >1882</DATE>
+
+<CITATION party2="HOAGLAND" party1="CRANE IRON COMPANY" citation_global_level_id="62707.004" party2_short="HOAGLAND" line="5" id="90814_6" alternative_keys="['wurtssame#1', 'u.s._108_5']" end="51" entry_type="party_key" lookup_key="companyhoagland#1" id1="90814" start="19" party1_short="COMPANY" citation_local_level_id="1" >CRANE IRON COMPANY v. HOAGLAND</CITATION>
+
+<NAME end="37" start="19" party1_of="90814_6" all_names="CRANE IRON COMPANY" local_name_id="1" id="90814_7" >CRANE IRON COMPANY</NAME>
+
+<NAME end="51" start="43" all_names="HOAGLAND" party2_of="90814_6" local_name_id="2" id="90814_8" >HOAGLAND</NAME>
+
+<CITATION party2="SAME" party1="WURTS and Others" citation_global_level_id="62707.003" party2_short="SAME" line="8" id="90814_12" alternative_keys="['companyhoagland#1', 'u.s._108_5']" end="80" entry_type="party_key" lookup_key="wurtssame#1" id1="90814" start="54" party1_short="WURTS" citation_local_level_id="2" >WURTS and Others v. SAME</CITATION>
+
+<NAME end="70" start="54" party1_of="90814_12" all_names="WURTS AND OTHERS" local_name_id="3" id="90814_13" >WURTS and Others</NAME>
+
+<NAME end="80" start="76" all_names="SAME" party2_of="90814_12" local_name_id="4" id="90814_14" >SAME</NAME>
+
+<ORGANIZATION start="82" end="112" id="90814_17" >Supreme Court of United States</ORGANIZATION>
+
+<NAME start="114" local_name_id="5" end="129" id="90814_19" all_names="DECIDED OCTOBER" >Decided October</NAME>
+
+<DATE start="135" end="139" id="90814_18" >1882</DATE>
+
+<ORGANIZATION start="144" end="197" id="90814_22" >ERROR TO THE SUPREME COURT OF THE STATE OF NEW JERSEY</ORGANIZATION>
+
+<NAME start="199" local_name_id="6" end="211" id="90814_23" all_names="MR THEODORE" >Mr. Theodore</NAME>
+
+<NAME start="235" local_name_id="7" end="246" id="90814_24" all_names="MR SHIPMAN" >Mr. Shipman</NAME>
+
+<NAME start="256" local_name_id="8" end="258" id="90814_25" all_names="MR" >MR</NAME>
+
+<ORGANIZATION start="348" end="375" id="90814_26" >Supreme Court of New Jersey</ORGANIZATION>
+
+<PROFESSION start="567" end="574" id="90814_27" >counsel</PROFESSION>
+
+<LEGAL_ROLE end="678" name="counsel" start="668" local_name_id="9" plural="True" id="90814_28" >defendants</LEGAL_ROLE>
+
+<NAME start="1361" local_name_id="10" end="1368" id="90814_30" all_names="MOTIONS" >Motions</NAME>
+
+<RELATION at_date_string="1882" theme="90814_1" at_date="90814_2" theme_string="108 U.S. 5 (1882)" gram_type="infix" relation_type="asymmetric" id="90814_3" ></RELATION>
+
+<RELATION party2="90814_8" theme="90814_6" theme_string="CRANE IRON COMPANY  v.  HOAGLAND" party2_string="HOAGLAND" gram_type="infix" relation_type="asymmetric" id="90814_10" ></RELATION>
+
+<RELATION theme="90814_6" party1="90814_7" party1_string="CRANE IRON COMPANY" theme_string="CRANE IRON COMPANY  v.  HOAGLAND" gram_type="infix" relation_type="asymmetric" id="90814_9" ></RELATION>
+
+<RELATION theme="90814_12" party1="90814_13" party1_string="WURTS and Others" theme_string="WURTS and Others  v.  SAME" gram_type="infix" relation_type="asymmetric" id="90814_15" ></RELATION>
+
+<RELATION party2="90814_14" theme="90814_12" theme_string="WURTS and Others  v.  SAME" party2_string="SAME" gram_type="infix" relation_type="asymmetric" id="90814_16" ></RELATION>
+
+<RELATION standard_case_string="108 U.S. 5 (1882)" X_vs_Y_string="WURTS and Others  v.  SAME" standard_case="90814_1" X_vs_Y="90814_12" gram_type="multi_line" relation_type="equivalence" id="90814_21" ></RELATION>
+
+<RELATION standard_case_string="108 U.S. 5 (1882)" X_vs_Y_string="CRANE IRON COMPANY  v.  HOAGLAND" standard_case="90814_1" X_vs_Y="90814_6" gram_type="multi_line" relation_type="equivalence" id="90814_20" ></RELATION>
+
+<RELATION theme="90814_27" legal_role="90814_28" id="90814_29" theme_string="counsel" gram_type="as_predication" relation_type="asymmetric" legal_role_string="defendants" ></RELATION>
+
+<NAME local_name_id="9" from="from_legal_role" name="COUNSEL" >COUNSEL</NAME>
+

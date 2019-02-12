@@ -1,0 +1,42 @@
+<CITATION alternative_keys="['lightingtillotson#1', 's.ct._11_594', 'l.ed._35_261']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._139_503" id1="93033" volume="139" start="0" page_number="503" standard_reporter="U.S." citation_global_level_id="4716.002" line="1" id="93033_1" citation_local_level_id="0" >139 U.S. 503</CITATION>
+
+<CITATION alternative_keys="['u.s._139_503', 'lightingtillotson#1', 'l.ed._35_261']" end="30" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._11_594" id1="93033" volume="11" start="17" page_number="594" standard_reporter="S.CT." citation_global_level_id="4716.003" line="1" id="93033_2" citation_local_level_id="1" >11 S. Ct. 594</CITATION>
+
+<NAME start="20" local_name_id="1" end="25" id="93033_8" all_names="S CT" >S. Ct</NAME>
+
+<CITATION alternative_keys="['u.s._139_503', 's.ct._11_594', 'lightingtillotson#1']" end="48" reporter="L. Ed." entry_type="standard_key" lookup_key="l.ed._35_261" id1="93033" volume="35" start="35" page_number="261" standard_reporter="L.ED." citation_global_level_id="4716.004" line="1" id="93033_3" citation_local_level_id="2" >35 L. Ed. 261</CITATION>
+
+<CITATION party2="TILLOTSON et al" party1="ELECTRIC GAS LIGHTING CO." citation_global_level_id="4716.001" party2_short="TILLOTSON" line="1" id="93033_4" alternative_keys="['u.s._139_503', 's.ct._11_594', 'l.ed._35_261']" end="97" entry_type="party_key" lookup_key="lightingtillotson#1" id1="93033" start="53" party1_short="LIGHTING" citation_local_level_id="3" >ELECTRIC GAS LIGHTING CO. v. TILLOTSON et al</CITATION>
+
+<NAME end="78" start="53" party1_of="93033_4" all_names="ELECTRIC GAS LIGHTING CO" local_name_id="2" id="93033_5" >ELECTRIC GAS LIGHTING CO.</NAME>
+
+<ORGANIZATION start="53" end="77" id="93033_9" >ELECTRIC GAS LIGHTING CO</ORGANIZATION>
+
+<NAME end="97" start="82" all_names="TILLOTSON" party2_of="93033_4" local_name_id="3" id="93033_6" >TILLOTSON et al</NAME>
+
+<DATE start="116" end="129" id="93033_7" >April 6, 1891</DATE>
+
+<NAME start="216" local_name_id="4" end="226" id="93033_15" all_names="BLATCHFORD" >BLATCHFORD</NAME>
+
+<CITATION party2="Boston Electric Co" party1="Electric Gas-Lighting Co." citation_global_level_id="47829.003" party2_short="Electric" line="6" id="93033_16" alternative_keys="['u.s._139_481']" end="372" entry_type="party_key" lookup_key="lightingelectric#1" id1="93032" start="325" party1_short="Lighting" citation_local_level_id="4" >Electric Gas-Lighting Co. v. Boston Electric Co</CITATION>
+
+<NAME end="350" start="325" party1_of="93033_16" all_names="ELECTRIC GAS-LIGHTING CO" local_name_id="5" id="93033_17" >Electric Gas-Lighting Co.</NAME>
+
+<ORGANIZATION start="325" end="349" id="93033_19" >Electric Gas-Lighting Co</ORGANIZATION>
+
+<NAME end="372" start="354" all_names="BOSTON ELECTRIC CO" party2_of="93033_16" local_name_id="6" id="93033_18" >Boston Electric Co</NAME>
+
+<RELATION standard_case_string="139 U.S. 503" X_vs_Y_string="ELECTRIC GAS LIGHTING CO. v. TILLOTSON et al" standard_case="93033_1" X_vs_Y="93033_4" gram_type="pre_nom" relation_type="equivalence" id="93033_11" ></RELATION>
+
+<RELATION standard_case_string="11 S. Ct. 594" X_vs_Y_string="ELECTRIC GAS LIGHTING CO. v. TILLOTSON et al" standard_case="93033_2" X_vs_Y="93033_4" gram_type="pre_nom" relation_type="equivalence" id="93033_12" ></RELATION>
+
+<RELATION standard_case_string="35 L. Ed. 261" X_vs_Y_string="ELECTRIC GAS LIGHTING CO. v. TILLOTSON et al" standard_case="93033_3" X_vs_Y="93033_4" gram_type="pre_nom" relation_type="equivalence" id="93033_10" ></RELATION>
+
+<RELATION theme="93033_4" party1="93033_5" party1_string="ELECTRIC GAS LIGHTING CO." theme_string="ELECTRIC GAS LIGHTING CO. v. TILLOTSON et al" gram_type="infix" relation_type="asymmetric" id="93033_13" ></RELATION>
+
+<RELATION party2="93033_6" theme="93033_4" theme_string="ELECTRIC GAS LIGHTING CO. v. TILLOTSON et al" party2_string="TILLOTSON et al" gram_type="infix" relation_type="asymmetric" id="93033_14" ></RELATION>
+
+<RELATION theme="93033_16" party1="93033_17" party1_string="Electric Gas-Lighting Co." theme_string="Electric Gas-Lighting Co. v. Boston Electric Co" gram_type="infix" relation_type="asymmetric" id="93033_20" ></RELATION>
+
+<RELATION party2="93033_18" theme="93033_16" theme_string="Electric Gas-Lighting Co. v. Boston Electric Co" party2_string="Boston Electric Co" gram_type="infix" relation_type="asymmetric" id="93033_21" ></RELATION>
+

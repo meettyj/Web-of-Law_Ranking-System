@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['poseycalifornia#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._542_909" id1="137106" volume="542" start="0" page_number="909" standard_reporter="U.S." citation_global_level_id="8193.002" line="1" id="137102_1" citation_local_level_id="0" >542 U.S. 909</CITATION>
+
+<CITATION party2="CALIFORNIA" party1="POSEY" citation_global_level_id="36803.001" party2_short="CALIFORNIA" line="2" id="137102_2" alternative_keys="['u.s._542_909']" end="36" entry_type="party_key" lookup_key="poseycalifornia#1" id1="137102" start="17" party1_short="POSEY" citation_local_level_id="1" >POSEY v. CALIFORNIA</CITATION>
+
+<NAME end="22" start="17" party1_of="137102_2" all_names="POSEY" local_name_id="1" id="137102_3" >POSEY</NAME>
+
+<NAME end="36" start="26" all_names="CALIFORNIA" party2_of="137102_2" local_name_id="2" id="137102_4" >CALIFORNIA</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="poseycalifornia#1" id1="137102" start="46" citation_global_level_id="36803.001" line="3" id="137102_7" citation_local_level_id="1" >03-9972</DOCKET>
+
+<ORGANIZATION start="59" end="89" id="137102_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="95" citation_global_level_id="36803.001" end="108" id="137102_9" citation_local_level_id="1" >June 14, 2004</DATE>
+
+<NAME start="130" local_name_id="3" end="133" id="137102_14" all_names="SUP" >Sup</NAME>
+
+<CITATION end="208" reporter="P. 3d" entry_type="standard_key" no_current_file="True" lookup_key="p.3d_82_755" id1="Dummy_File_48095" volume="82" start="196" page_number="755" standard_reporter="P.3D" citation_global_level_id="111945.001" line="8" id="137102_13" citation_local_level_id="2" >82 P. 3d 755</CITATION>
+
+<RELATION theme="137102_2" party1="137102_3" party1_string="POSEY" theme_string="POSEY v. CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="137102_5" ></RELATION>
+
+<RELATION party2="137102_4" theme="137102_2" theme_string="POSEY v. CALIFORNIA" party2_string="CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="137102_6" ></RELATION>
+
+<RELATION standard_case_string="542 U.S. 909" X_vs_Y_string="POSEY v. CALIFORNIA" standard_case="137102_1" X_vs_Y="137102_2" gram_type="multi_line" relation_type="equivalence" id="137102_10" ></RELATION>
+
+<RELATION at_date_string="June 14, 2004" theme="137102_2" at_date="137102_9" theme_string="POSEY v. CALIFORNIA" gram_type="multi_line" relation_type="asymmetric" id="137102_12" ></RELATION>
+
+<RELATION theme="137102_2" includes_docket_string="03-9972" includes_docket="137102_7" theme_string="POSEY v. CALIFORNIA" gram_type="multi_line" relation_type="asymmetric" id="137102_11" ></RELATION>
+

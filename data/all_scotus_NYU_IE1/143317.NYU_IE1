@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['durhambruce#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_932" id1="143324" volume="544" start="0" page_number="932" standard_reporter="U.S." citation_global_level_id="3930.002" line="1" id="143317_1" citation_local_level_id="0" >544 U.S. 932</CITATION>
+
+<CITATION party2="BRUCE, WARDEN" party1="DURHAM" citation_global_level_id="3930.004" party2_short="BRUCE" line="2" id="143317_2" alternative_keys="['u.s._544_932']" end="40" entry_type="party_key" lookup_key="durhambruce#1" id1="143324" start="17" party1_short="DURHAM" citation_local_level_id="1" >DURHAM v. BRUCE, WARDEN</CITATION>
+
+<NAME end="23" start="17" party1_of="143317_2" all_names="DURHAM" local_name_id="1" id="143317_3" >DURHAM</NAME>
+
+<NAME end="40" start="27" all_names="BRUCE WARDEN" party2_of="143317_2" local_name_id="2" id="143317_4" >BRUCE, WARDEN</NAME>
+
+<DOCKET alternative_keys="['u.s._544_932']" end="57" entry_type="docket" lookup_key="durhambruce#1" id1="143324" start="50" citation_global_level_id="3930.004" line="3" id="143317_7" citation_local_level_id="1" >04-8500</DOCKET>
+
+<ORGANIZATION start="63" end="93" id="143317_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="99" citation_global_level_id="3930.004" end="113" id="143317_9" citation_local_level_id="1" >March 21, 2005</DATE>
+
+<NAME start="146" local_name_id="3" end="149" id="143317_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="143317_2" party1="143317_3" party1_string="DURHAM" theme_string="DURHAM v. BRUCE, WARDEN" gram_type="infix" relation_type="asymmetric" id="143317_5" ></RELATION>
+
+<RELATION party2="143317_4" theme="143317_2" theme_string="DURHAM v. BRUCE, WARDEN" party2_string="BRUCE, WARDEN" gram_type="infix" relation_type="asymmetric" id="143317_6" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 932" X_vs_Y_string="DURHAM v. BRUCE, WARDEN" standard_case="143317_1" X_vs_Y="143317_2" gram_type="multi_line" relation_type="equivalence" id="143317_10" ></RELATION>
+
+<RELATION at_date_string="March 21, 2005" theme="143317_2" at_date="143317_9" theme_string="DURHAM v. BRUCE, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="143317_12" ></RELATION>
+
+<RELATION theme="143317_2" includes_docket_string="04-8500" includes_docket="143317_7" theme_string="DURHAM v. BRUCE, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="143317_11" ></RELATION>
+

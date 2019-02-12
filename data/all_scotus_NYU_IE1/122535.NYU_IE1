@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['bakervirginia#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_824" id1="122538" volume="537" start="0" page_number="824" standard_reporter="U.S." citation_global_level_id="480.002" line="1" id="122535_1" citation_local_level_id="0" >537 U.S. 824</CITATION>
+
+<CITATION party2="VIRGINIA" party1="BAKER" citation_global_level_id="42772.001" party2_short="VIRGINIA" line="1" id="122535_3" alternative_keys="['u.s._537_824']" end="34" entry_type="party_key" lookup_key="bakervirginia#1" id1="122535" start="17" party1_short="BAKER" citation_local_level_id="1" >BAKER v. VIRGINIA</CITATION>
+
+<NAME end="22" start="17" party1_of="122535_3" all_names="BAKER" local_name_id="1" id="122535_4" >BAKER</NAME>
+
+<NAME end="34" start="26" all_names="VIRGINIA" party2_of="122535_3" local_name_id="2" id="122535_5" >VIRGINIA</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="u.s._537_824" id1="122538" start="44" citation_global_level_id="480.002" line="1" id="122535_2" citation_local_level_id="0" >01-1844</DOCKET>
+
+<DATE start="47" end="51" id="122535_6" >1844</DATE>
+
+<DATE start="93" end="108" id="122535_7" >October 7, 2002</DATE>
+
+<NAME start="200" local_name_id="3" end="203" id="122535_14" all_names="SUP" >Sup</NAME>
+
+<RELATION theme="122535_1" includes_docket_string="01-1844" includes_docket="122535_2" theme_string="537 U.S. 824" gram_type="apposition" relation_type="asymmetric" id="122535_12" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 824" X_vs_Y_string="BAKER v. VIRGINIA" standard_case="122535_1" X_vs_Y="122535_3" gram_type="pre_nom" relation_type="equivalence" id="122535_8" ></RELATION>
+
+<RELATION theme="122535_3" includes_docket_string="01-1844" includes_docket="122535_2" theme_string="BAKER v. VIRGINIA" gram_type="apposition" relation_type="asymmetric" id="122535_11" ></RELATION>
+
+<RELATION party2="122535_5" theme="122535_3" theme_string="BAKER v. VIRGINIA" party2_string="VIRGINIA" gram_type="infix" relation_type="asymmetric" id="122535_10" ></RELATION>
+
+<RELATION theme="122535_3" party1="122535_4" party1_string="BAKER" theme_string="BAKER v. VIRGINIA" gram_type="infix" relation_type="asymmetric" id="122535_9" ></RELATION>
+
+<RELATION at_date_string="1844" theme="122535_2" at_date="122535_6" theme_string="01-1844" gram_type="infix" relation_type="asymmetric" id="122535_13" ></RELATION>
+

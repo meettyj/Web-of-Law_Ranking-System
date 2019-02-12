@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['franklinmichigan#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1200" id1="117673" volume="510" start="0" page_number="1200" standard_reporter="U.S." citation_global_level_id="270.002" line="1" id="117683_1" citation_local_level_id="0" >510 U.S. 1200</CITATION>
+
+<CITATION party2="Michigan" party1="Franklin" citation_global_level_id="59887.001" party2_short="Michigan" line="1" id="117683_3" alternative_keys="['u.s._510_1200']" end="38" entry_type="party_key" lookup_key="franklinmichigan#1" id1="117683" start="18" party1_short="Franklin" citation_local_level_id="1" >Franklin v. Michigan</CITATION>
+
+<NAME end="26" start="18" party1_of="117683_3" all_names="FRANKLIN" local_name_id="1" id="117683_4" >Franklin</NAME>
+
+<NAME end="38" start="30" all_names="MICHIGAN" party2_of="117683_3" local_name_id="2" id="117683_5" >Michigan</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._510_1200" id1="117673" start="48" citation_global_level_id="270.002" line="1" id="117683_2" citation_local_level_id="0" >93-7575</DOCKET>
+
+<DATE start="97" end="111" id="117683_6" >March 21, 1994</DATE>
+
+<NAME start="189" local_name_id="3" end="199" id="117683_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="117683_1" includes_docket_string="93-7575" includes_docket="117683_2" theme_string="510 U.S. 1200" gram_type="apposition" relation_type="asymmetric" id="117683_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1200" X_vs_Y_string="Franklin v. Michigan" standard_case="117683_1" X_vs_Y="117683_3" gram_type="pre_nom" relation_type="equivalence" id="117683_7" ></RELATION>
+
+<RELATION theme="117683_3" includes_docket_string="93-7575" includes_docket="117683_2" theme_string="Franklin v. Michigan" gram_type="apposition" relation_type="asymmetric" id="117683_10" ></RELATION>
+
+<RELATION theme="117683_3" party1="117683_4" party1_string="Franklin" theme_string="Franklin v. Michigan" gram_type="infix" relation_type="asymmetric" id="117683_8" ></RELATION>
+
+<RELATION party2="117683_5" theme="117683_3" theme_string="Franklin v. Michigan" party2_string="Michigan" gram_type="infix" relation_type="asymmetric" id="117683_9" ></RELATION>
+

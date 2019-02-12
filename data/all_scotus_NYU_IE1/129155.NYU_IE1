@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['lewismortgage#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_996" id1="129155" volume="538" start="0" page_number="996" standard_reporter="U.S." citation_global_level_id="7915.002" line="1" id="129155_1" citation_local_level_id="0" >538 U.S. 996</CITATION>
+
+<CITATION party2="EMIGRANTS MORTGAGE CO. ET AL" party1="LEWIS ET AL." citation_global_level_id="8837.001" party2_short="MORTGAGE" line="2" id="129155_2" alternative_keys="['u.s._538_996']" end="61" entry_type="party_key" lookup_key="lewismortgage#2" id1="127768" start="17" party1_short="LEWIS" citation_local_level_id="1" >LEWIS ET AL. v. EMIGRANTS MORTGAGE CO. ET AL</CITATION>
+
+<NAME end="29" start="17" party1_of="129155_2" all_names="LEWIS" local_name_id="1" id="129155_3" >LEWIS ET AL.</NAME>
+
+<NAME end="61" start="33" all_names="EMIGRANTS MORTGAGE CO" party2_of="129155_2" local_name_id="2" id="129155_4" >EMIGRANTS MORTGAGE CO. ET AL</NAME>
+
+<ORGANIZATION start="52" end="54" id="129155_5" >CO</ORGANIZATION>
+
+<DOCKET end="79" entry_type="docket" lookup_key="lewismortgage#2" id1="127768" start="72" citation_global_level_id="8837.001" line="3" id="129155_8" citation_local_level_id="1" >02-8280</DOCKET>
+
+<ORGANIZATION start="85" end="115" id="129155_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="121" citation_global_level_id="8837.001" end="135" id="129155_10" citation_local_level_id="1" >April 21, 2003</DATE>
+
+<NAME start="157" local_name_id="3" end="166" id="129155_15" all_names="PETITIONS" >Petitions</NAME>
+
+<CITATION end="203" reporter="U. S." entry_type="standard_key" lookup_key="u.s._537_1237" id1="127777" volume="537" start="189" page_number="1237" standard_reporter="U.S." citation_global_level_id="3102.002" line="8" id="129155_14" citation_local_level_id="2" >537 U. S. 1237</CITATION>
+
+<RELATION theme="129155_2" party1="129155_3" party1_string="LEWIS ET AL." theme_string="LEWIS ET AL. v. EMIGRANTS MORTGAGE CO. ET AL" gram_type="infix" relation_type="asymmetric" id="129155_6" ></RELATION>
+
+<RELATION party2="129155_4" theme="129155_2" theme_string="LEWIS ET AL. v. EMIGRANTS MORTGAGE CO. ET AL" party2_string="EMIGRANTS MORTGAGE CO. ET AL" gram_type="infix" relation_type="asymmetric" id="129155_7" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 996" X_vs_Y_string="LEWIS ET AL. v. EMIGRANTS MORTGAGE CO. ET AL" standard_case="129155_1" X_vs_Y="129155_2" gram_type="multi_line" relation_type="equivalence" id="129155_11" ></RELATION>
+
+<RELATION at_date_string="April 21, 2003" theme="129155_2" at_date="129155_10" theme_string="LEWIS ET AL. v. EMIGRANTS MORTGAGE CO. ET AL" gram_type="multi_line" relation_type="asymmetric" id="129155_13" ></RELATION>
+
+<RELATION theme="129155_2" includes_docket_string="02-8280" includes_docket="129155_8" theme_string="LEWIS ET AL. v. EMIGRANTS MORTGAGE CO. ET AL" gram_type="multi_line" relation_type="asymmetric" id="129155_12" ></RELATION>
+

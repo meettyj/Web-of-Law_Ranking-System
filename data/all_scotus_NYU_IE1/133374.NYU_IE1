@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['smithhofbauer#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_971" id1="133370" volume="540" start="0" page_number="971" standard_reporter="U.S." citation_global_level_id="2196.002" line="1" id="133374_1" citation_local_level_id="0" >540 U.S. 971</CITATION>
+
+<CITATION party2="HOFBAUER, WARDEN" party1="SMITH" citation_global_level_id="2196.011" party2_short="HOFBAUER" line="1" id="133374_3" alternative_keys="['u.s._540_971']" end="42" entry_type="party_key" lookup_key="smithhofbauer#1" id1="133370" start="17" party1_short="SMITH" citation_local_level_id="1" >SMITH v. HOFBAUER, WARDEN</CITATION>
+
+<NAME end="22" start="17" party1_of="133374_3" all_names="SMITH" local_name_id="1" id="133374_4" >SMITH</NAME>
+
+<NAME end="42" start="26" all_names="HOFBAUER WARDEN" party2_of="133374_3" local_name_id="2" id="133374_5" >HOFBAUER, WARDEN</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="u.s._540_971" id1="133370" start="52" citation_global_level_id="2196.002" line="1" id="133374_2" citation_local_level_id="0" >03-6069</DOCKET>
+
+<DATE start="101" end="117" id="133374_6" >October 20, 2003</DATE>
+
+<NAME start="195" local_name_id="3" end="205" id="133374_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="243" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_312_809" id1="Dummy_File_221806" volume="312" start="230" page_number="809" standard_reporter="F.3D" citation_global_level_id="285656.001" line="3" id="133374_12" citation_local_level_id="2" >312 F. 3d 809</CITATION>
+
+<RELATION theme="133374_1" includes_docket_string="03-6069" includes_docket="133374_2" theme_string="540 U.S. 971" gram_type="apposition" relation_type="asymmetric" id="133374_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 971" X_vs_Y_string="SMITH v. HOFBAUER, WARDEN" standard_case="133374_1" X_vs_Y="133374_3" gram_type="pre_nom" relation_type="equivalence" id="133374_7" ></RELATION>
+
+<RELATION theme="133374_3" includes_docket_string="03-6069" includes_docket="133374_2" theme_string="SMITH v. HOFBAUER, WARDEN" gram_type="apposition" relation_type="asymmetric" id="133374_10" ></RELATION>
+
+<RELATION theme="133374_3" party1="133374_4" party1_string="SMITH" theme_string="SMITH v. HOFBAUER, WARDEN" gram_type="infix" relation_type="asymmetric" id="133374_8" ></RELATION>
+
+<RELATION party2="133374_5" theme="133374_3" theme_string="SMITH v. HOFBAUER, WARDEN" party2_string="HOFBAUER, WARDEN" gram_type="infix" relation_type="asymmetric" id="133374_9" ></RELATION>
+

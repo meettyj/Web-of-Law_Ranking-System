@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['mizuoayers#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_831" id1="138139" volume="543" start="0" page_number="831" standard_reporter="U.S." citation_global_level_id="5313.002" line="1" id="138137_1" citation_local_level_id="0" >543 U.S. 831</CITATION>
+
+<CITATION party2="AYERS, WARDEN" party1="MIZUO" citation_global_level_id="5313.007" party2_short="AYERS" line="2" id="138137_2" alternative_keys="['u.s._543_831']" end="39" entry_type="party_key" lookup_key="mizuoayers#1" id1="138139" start="17" party1_short="MIZUO" citation_local_level_id="1" >MIZUO v. AYERS, WARDEN</CITATION>
+
+<NAME end="22" start="17" party1_of="138137_2" all_names="MIZUO" local_name_id="1" id="138137_3" >MIZUO</NAME>
+
+<NAME end="39" start="26" all_names="AYERS WARDEN" party2_of="138137_2" local_name_id="2" id="138137_4" >AYERS, WARDEN</NAME>
+
+<DOCKET alternative_keys="['u.s._543_831']" end="57" entry_type="docket" lookup_key="mizuoayers#1" id1="138139" start="49" citation_global_level_id="5313.007" line="3" id="138137_7" citation_local_level_id="1" >03-10353</DOCKET>
+
+<ORGANIZATION start="63" end="93" id="138137_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="99" citation_global_level_id="5313.007" end="114" id="138137_9" citation_local_level_id="1" >October 4, 2004</DATE>
+
+<NAME start="146" local_name_id="3" end="149" id="138137_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="138137_2" party1="138137_3" party1_string="MIZUO" theme_string="MIZUO v. AYERS, WARDEN" gram_type="infix" relation_type="asymmetric" id="138137_5" ></RELATION>
+
+<RELATION party2="138137_4" theme="138137_2" theme_string="MIZUO v. AYERS, WARDEN" party2_string="AYERS, WARDEN" gram_type="infix" relation_type="asymmetric" id="138137_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 831" X_vs_Y_string="MIZUO v. AYERS, WARDEN" standard_case="138137_1" X_vs_Y="138137_2" gram_type="multi_line" relation_type="equivalence" id="138137_10" ></RELATION>
+
+<RELATION at_date_string="October 4, 2004" theme="138137_2" at_date="138137_9" theme_string="MIZUO v. AYERS, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="138137_12" ></RELATION>
+
+<RELATION theme="138137_2" includes_docket_string="03-10353" includes_docket="138137_7" theme_string="MIZUO v. AYERS, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="138137_11" ></RELATION>
+

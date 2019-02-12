@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['huffenterprises#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_841" id1="113391" volume="510" start="0" page_number="841" standard_reporter="U.S." citation_global_level_id="3229.002" line="1" id="113392_1" citation_local_level_id="0" >510 U.S. 841</CITATION>
+
+<CITATION party2="ABC Enterprises, Inc" party1="Huff" citation_global_level_id="32483.001" party2_short="Enterprises" line="1" id="113392_3" alternative_keys="['u.s._510_841']" end="45" entry_type="party_key" lookup_key="huffenterprises#2" id1="113392" start="17" party1_short="Huff" citation_local_level_id="1" >Huff v. ABC Enterprises, Inc</CITATION>
+
+<NAME end="21" start="17" party1_of="113392_3" all_names="HUFF" local_name_id="1" id="113392_4" >Huff</NAME>
+
+<NAME end="45" start="25" all_names="ABC ENTERPRISES INC" party2_of="113392_3" local_name_id="2" id="113392_5" >ABC Enterprises, Inc</NAME>
+
+<DOCKET end="62" entry_type="docket" lookup_key="u.s._510_841" id1="113391" start="55" citation_global_level_id="3229.002" line="1" id="113392_2" citation_local_level_id="0" >92-8941</DOCKET>
+
+<DATE start="104" end="119" id="113392_6" >October 4, 1993</DATE>
+
+<NAME start="198" local_name_id="3" end="208" id="113392_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="247" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_989_1198" id1="Dummy_File_34608" volume="989" start="233" page_number="1198" standard_reporter="F.2D" citation_global_level_id="98458.001" line="3" id="113392_12" citation_local_level_id="2" >989 F. 2d 1198</CITATION>
+
+<RELATION theme="113392_1" includes_docket_string="92-8941" includes_docket="113392_2" theme_string="510 U.S. 841" gram_type="apposition" relation_type="asymmetric" id="113392_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 841" X_vs_Y_string="Huff v. ABC Enterprises, Inc" standard_case="113392_1" X_vs_Y="113392_3" gram_type="pre_nom" relation_type="equivalence" id="113392_7" ></RELATION>
+
+<RELATION theme="113392_3" includes_docket_string="92-8941" includes_docket="113392_2" theme_string="Huff v. ABC Enterprises, Inc" gram_type="apposition" relation_type="asymmetric" id="113392_10" ></RELATION>
+
+<RELATION theme="113392_3" party1="113392_4" party1_string="Huff" theme_string="Huff v. ABC Enterprises, Inc" gram_type="infix" relation_type="asymmetric" id="113392_8" ></RELATION>
+
+<RELATION party2="113392_5" theme="113392_3" theme_string="Huff v. ABC Enterprises, Inc" party2_string="ABC Enterprises, Inc" gram_type="infix" relation_type="asymmetric" id="113392_9" ></RELATION>
+

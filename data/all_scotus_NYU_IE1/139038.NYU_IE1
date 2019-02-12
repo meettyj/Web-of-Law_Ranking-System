@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['speightsdepartment#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_898" id1="139039" volume="543" start="0" page_number="898" standard_reporter="U.S." citation_global_level_id="7931.002" line="1" id="139038_1" citation_local_level_id="0" >543 U.S. 898</CITATION>
+
+<CITATION party2="FRANK, SECRETARY, WISCONSIN DEPARTMENT OF CORRECTIONS" party1="SPEIGHTS" citation_global_level_id="7931.008" party2_short="DEPARTMENT" line="2" id="139038_2" alternative_keys="['u.s._543_898']" end="82" entry_type="party_key" lookup_key="speightsdepartment#2" id1="139039" start="17" party1_short="SPEIGHTS" citation_local_level_id="1" >SPEIGHTS v. FRANK, SECRETARY, WISCONSIN DEPARTMENT OF CORRECTIONS</CITATION>
+
+<NAME end="25" start="17" party1_of="139038_2" all_names="SPEIGHTS" local_name_id="1" id="139038_3" >SPEIGHTS</NAME>
+
+<NAME end="82" start="29" all_names="FRANK SECRETARY WISCONSIN DEPARTMENT OF CORRECTIONS" party2_of="139038_2" local_name_id="2" id="139038_4" >FRANK, SECRETARY, WISCONSIN DEPARTMENT OF CORRECTIONS</NAME>
+
+<DOCKET alternative_keys="['u.s._543_898']" end="99" entry_type="docket" lookup_key="speightsdepartment#2" id1="139039" start="92" citation_global_level_id="7931.008" line="3" id="139038_7" citation_local_level_id="1" >04-5418</DOCKET>
+
+<ORGANIZATION start="105" end="135" id="139038_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="141" citation_global_level_id="7931.008" end="156" id="139038_9" citation_local_level_id="1" >October 4, 2004</DATE>
+
+<NAME start="188" local_name_id="3" end="191" id="139038_14" all_names="CIR" >Cir</NAME>
+
+<CITATION end="241" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_361_962" id1="Dummy_File_147135" volume="361" start="228" page_number="962" standard_reporter="F.3D" citation_global_level_id="210985.001" line="8" id="139038_13" citation_local_level_id="2" >361 F. 3d 962</CITATION>
+
+<RELATION theme="139038_2" party1="139038_3" party1_string="SPEIGHTS" theme_string="SPEIGHTS v. FRANK, SECRETARY, WISCONSIN DEPARTMENT OF CORRECTIONS" gram_type="infix" relation_type="asymmetric" id="139038_5" ></RELATION>
+
+<RELATION party2="139038_4" theme="139038_2" theme_string="SPEIGHTS v. FRANK, SECRETARY, WISCONSIN DEPARTMENT OF CORRECTIONS" party2_string="FRANK, SECRETARY, WISCONSIN DEPARTMENT OF CORRECTIONS" gram_type="infix" relation_type="asymmetric" id="139038_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 898" X_vs_Y_string="SPEIGHTS v. FRANK, SECRETARY, WISCONSIN DEPARTMENT OF CORRECTIONS" standard_case="139038_1" X_vs_Y="139038_2" gram_type="multi_line" relation_type="equivalence" id="139038_10" ></RELATION>
+
+<RELATION at_date_string="October 4, 2004" theme="139038_2" at_date="139038_9" theme_string="SPEIGHTS v. FRANK, SECRETARY, WISCONSIN DEPARTMENT OF CORRECTIONS" gram_type="multi_line" relation_type="asymmetric" id="139038_12" ></RELATION>
+
+<RELATION theme="139038_2" includes_docket_string="04-5418" includes_docket="139038_7" theme_string="SPEIGHTS v. FRANK, SECRETARY, WISCONSIN DEPARTMENT OF CORRECTIONS" gram_type="multi_line" relation_type="asymmetric" id="139038_11" ></RELATION>
+

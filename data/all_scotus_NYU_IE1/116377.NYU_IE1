@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['janeaumanufacturing#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1073" id1="116371" volume="510" start="0" page_number="1073" standard_reporter="U.S." citation_global_level_id="735.002" line="1" id="116377_1" citation_local_level_id="0" >510 U.S. 1073</CITATION>
+
+<CITATION party2="Pitman Manufacturing Co., Inc" party1="Janeau" citation_global_level_id="735.005" party2_short="Manufacturing" line="1" id="116377_3" alternative_keys="['u.s._510_1073']" end="57" entry_type="party_key" lookup_key="janeaumanufacturing#2" id1="116371" start="18" party1_short="Janeau" citation_local_level_id="1" >Janeau v. Pitman Manufacturing Co., Inc</CITATION>
+
+<NAME end="24" start="18" party1_of="116377_3" all_names="JANEAU" local_name_id="1" id="116377_4" >Janeau</NAME>
+
+<NAME end="57" start="28" all_names="PITMAN MANUFACTURING CO INC" party2_of="116377_3" local_name_id="2" id="116377_5" >Pitman Manufacturing Co., Inc</NAME>
+
+<DOCKET end="73" entry_type="docket" lookup_key="u.s._510_1073" id1="116371" start="67" citation_global_level_id="735.002" line="1" id="116377_2" citation_local_level_id="0" >93-819</DOCKET>
+
+<DATE start="115" end="131" id="116377_6" >January 18, 1994</DATE>
+
+<NAME start="209" local_name_id="3" end="219" id="116377_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="258" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_998_1009" id1="Dummy_File_26532" volume="998" start="244" page_number="1009" standard_reporter="F.2D" citation_global_level_id="90382.001" line="3" id="116377_12" citation_local_level_id="2" >998 F. 2d 1009</CITATION>
+
+<RELATION theme="116377_1" includes_docket_string="93-819" includes_docket="116377_2" theme_string="510 U.S. 1073" gram_type="apposition" relation_type="asymmetric" id="116377_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1073" X_vs_Y_string="Janeau v. Pitman Manufacturing Co., Inc" standard_case="116377_1" X_vs_Y="116377_3" gram_type="pre_nom" relation_type="equivalence" id="116377_7" ></RELATION>
+
+<RELATION theme="116377_3" includes_docket_string="93-819" includes_docket="116377_2" theme_string="Janeau v. Pitman Manufacturing Co., Inc" gram_type="apposition" relation_type="asymmetric" id="116377_10" ></RELATION>
+
+<RELATION theme="116377_3" party1="116377_4" party1_string="Janeau" theme_string="Janeau v. Pitman Manufacturing Co., Inc" gram_type="infix" relation_type="asymmetric" id="116377_8" ></RELATION>
+
+<RELATION party2="116377_5" theme="116377_3" theme_string="Janeau v. Pitman Manufacturing Co., Inc" party2_string="Pitman Manufacturing Co., Inc" gram_type="infix" relation_type="asymmetric" id="116377_9" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['richmondnodland#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_869" id1="113780" volume="510" start="0" page_number="869" standard_reporter="U.S." citation_global_level_id="21240.002" line="1" id="113778_1" citation_local_level_id="0" >510 U.S. 869</CITATION>
+
+<CITATION party2="Nodland" party1="Richmond" citation_global_level_id="28360.001" party2_short="Nodland" line="1" id="113778_3" alternative_keys="['u.s._510_869']" end="36" entry_type="party_key" lookup_key="richmondnodland#1" id1="113778" start="17" party1_short="Richmond" citation_local_level_id="1" >Richmond v. Nodland</CITATION>
+
+<NAME end="25" start="17" party1_of="113778_3" all_names="RICHMOND" local_name_id="1" id="113778_4" >Richmond</NAME>
+
+<NAME end="36" start="29" all_names="NODLAND" party2_of="113778_3" local_name_id="2" id="113778_5" >Nodland</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="u.s._510_869" id1="113780" start="46" citation_global_level_id="21240.002" line="1" id="113778_2" citation_local_level_id="0" >93-219</DOCKET>
+
+<DATE start="94" end="109" id="113778_6" >October 4, 1993</DATE>
+
+<NAME start="187" local_name_id="3" end="197" id="113778_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="238" reporter="N. W. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.w.2d_501_759" id1="Dummy_File_174035" volume="501" start="222" page_number="759" standard_reporter="N.W.2D" citation_global_level_id="237885.001" line="3" id="113778_12" citation_local_level_id="2" >501 N. W. 2d 759</CITATION>
+
+<RELATION theme="113778_1" includes_docket_string="93-219" includes_docket="113778_2" theme_string="510 U.S. 869" gram_type="apposition" relation_type="asymmetric" id="113778_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 869" X_vs_Y_string="Richmond v. Nodland" standard_case="113778_1" X_vs_Y="113778_3" gram_type="pre_nom" relation_type="equivalence" id="113778_7" ></RELATION>
+
+<RELATION theme="113778_3" includes_docket_string="93-219" includes_docket="113778_2" theme_string="Richmond v. Nodland" gram_type="apposition" relation_type="asymmetric" id="113778_10" ></RELATION>
+
+<RELATION theme="113778_3" party1="113778_4" party1_string="Richmond" theme_string="Richmond v. Nodland" gram_type="infix" relation_type="asymmetric" id="113778_8" ></RELATION>
+
+<RELATION party2="113778_5" theme="113778_3" theme_string="Richmond v. Nodland" party2_string="Nodland" gram_type="infix" relation_type="asymmetric" id="113778_9" ></RELATION>
+

@@ -1,0 +1,46 @@
+<CITATION alternative_keys="['companycommission#1', 's.ct._94_379', 'l.ed.2d_38_251']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._414_1013" id1="108944" volume="414" start="0" page_number="1013" standard_reporter="U.S." citation_global_level_id="3668.002" line="1" id="108944_1" citation_local_level_id="0" >414 U.S. 1013</CITATION>
+
+<CITATION alternative_keys="['u.s._414_1013', 'companycommission#1', 'l.ed.2d_38_251']" end="31" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._94_379" id1="108944" volume="94" start="18" page_number="379" standard_reporter="S.CT." citation_global_level_id="3668.003" line="1" id="108944_2" citation_local_level_id="1" >94 S. Ct. 379</CITATION>
+
+<NAME start="21" local_name_id="1" end="26" id="108944_10" all_names="S CT" >S. Ct</NAME>
+
+<CITATION alternative_keys="['u.s._414_1013', 's.ct._94_379', 'companycommission#1']" end="52" reporter="L. Ed. 2d" entry_type="standard_key" lookup_key="l.ed.2d_38_251" id1="108944" volume="38" start="36" page_number="251" standard_reporter="L.ED.2D" citation_global_level_id="3668.004" line="1" id="108944_3" citation_local_level_id="2" >38 L. Ed. 2d 251</CITATION>
+
+<CITATION party2="FEDERAL TRADE COMMISSION et al" alternative_keys="['u.s._414_1013', 's.ct._94_379', 'l.ed.2d_38_251']" party1="The SEVEN-UP COMPANY," end="124" party1_short="COMPANY" entry_type="party_key" party1_role="petitioner" lookup_key="companycommission#1" id1="108944" start="57" citation_global_level_id="3668.001" party2_short="COMMISSION" line="1" id="108944_5" citation_local_level_id="3" >The SEVEN-UP COMPANY, petitioner, v. FEDERAL TRADE COMMISSION et al</CITATION>
+
+<NAME end="78" start="57" party1_of="108944_5" all_names="THE SEVEN-UP COMPANY" local_name_id="2" id="108944_6" >The SEVEN-UP COMPANY,</NAME>
+
+<ORGANIZATION start="61" end="77" id="108944_11" >SEVEN-UP COMPANY</ORGANIZATION>
+
+<LEGAL_ROLE start="79" end="89" id="108944_8" >petitioner</LEGAL_ROLE>
+
+<NAME end="124" start="94" all_names="FEDERAL TRADE COMMISSION" party2_of="108944_5" local_name_id="3" id="108944_7" >FEDERAL TRADE COMMISSION et al</NAME>
+
+<DOCKET end="140" entry_type="docket" lookup_key="u.s._414_1013" id1="108944" start="134" citation_global_level_id="3668.002" line="1" id="108944_4" citation_local_level_id="0" >73-337</DOCKET>
+
+<DATE start="185" end="201" id="108944_9" >November 5, 1973</DATE>
+
+<NAME start="365" local_name_id="4" end="384" id="108944_22" all_names="MR JUSTICE STEWART" >Mr. Justice STEWART</NAME>
+
+<PROFESSION start="369" end="376" id="108944_23" >Justice</PROFESSION>
+
+<RELATION theme="108944_1" includes_docket_string="73-337" includes_docket="108944_4" theme_string="414 U.S. 1013" gram_type="apposition" relation_type="asymmetric" id="108944_19" ></RELATION>
+
+<RELATION standard_case_string="414 U.S. 1013" X_vs_Y_string="The SEVEN-UP COMPANY, petitioner, v. FEDERAL TRADE COMMISSION et al" standard_case="108944_1" X_vs_Y="108944_5" gram_type="pre_nom" relation_type="equivalence" id="108944_13" ></RELATION>
+
+<RELATION theme="108944_2" includes_docket_string="73-337" includes_docket="108944_4" theme_string="94 S. Ct. 379" gram_type="apposition" relation_type="asymmetric" id="108944_20" ></RELATION>
+
+<RELATION standard_case_string="94 S. Ct. 379" X_vs_Y_string="The SEVEN-UP COMPANY, petitioner, v. FEDERAL TRADE COMMISSION et al" standard_case="108944_2" X_vs_Y="108944_5" gram_type="pre_nom" relation_type="equivalence" id="108944_14" ></RELATION>
+
+<RELATION theme="108944_3" includes_docket_string="73-337" includes_docket="108944_4" theme_string="38 L. Ed. 2d 251" gram_type="apposition" relation_type="asymmetric" id="108944_18" ></RELATION>
+
+<RELATION standard_case_string="38 L. Ed. 2d 251" X_vs_Y_string="The SEVEN-UP COMPANY, petitioner, v. FEDERAL TRADE COMMISSION et al" standard_case="108944_3" X_vs_Y="108944_5" gram_type="pre_nom" relation_type="equivalence" id="108944_12" ></RELATION>
+
+<RELATION theme="108944_5" includes_docket_string="73-337" includes_docket="108944_4" theme_string="The SEVEN-UP COMPANY, petitioner, v. FEDERAL TRADE COMMISSION et al" gram_type="apposition" relation_type="asymmetric" id="108944_17" ></RELATION>
+
+<RELATION theme="108944_5" party1="108944_6" party1_string="The SEVEN-UP COMPANY," theme_string="The SEVEN-UP COMPANY, petitioner, v. FEDERAL TRADE COMMISSION et al" gram_type="infix" relation_type="asymmetric" id="108944_15" ></RELATION>
+
+<RELATION party2="108944_7" theme="108944_5" theme_string="The SEVEN-UP COMPANY, petitioner, v. FEDERAL TRADE COMMISSION et al" party2_string="FEDERAL TRADE COMMISSION et al" gram_type="infix" relation_type="asymmetric" id="108944_16" ></RELATION>
+
+<RELATION at_date_string="November 5, 1973" theme="108944_4" at_date="108944_9" theme_string="73-337" gram_type="pre_nom" relation_type="asymmetric" id="108944_21" ></RELATION>
+

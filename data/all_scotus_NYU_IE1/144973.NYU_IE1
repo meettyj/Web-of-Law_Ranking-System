@@ -1,0 +1,44 @@
+<CITATION alternative_keys="['assncampaign#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_1058" id1="144973" volume="544" start="0" page_number="1058" standard_reporter="U.S." citation_global_level_id="1236.002" line="1" id="144973_1" citation_local_level_id="0" >544 U.S. 1058</CITATION>
+
+<CITATION party2="CAMPAIGN FOR FAMILY FARMS ET AL" party1="MICHIGAN PORK PRODUCERS ASSN., INC., ET AL." citation_global_level_id="1236.004" party2_short="CAMPAIGN" line="1" id="144973_4" alternative_keys="['u.s._544_1058']" end="96" entry_type="party_key" lookup_key="assncampaign#2" id1="144973" start="18" party1_short="ASSN" citation_local_level_id="1" >MICHIGAN PORK PRODUCERS ASSN., INC., ET AL. v. CAMPAIGN FOR FAMILY FARMS ET AL</CITATION>
+
+<NAME end="61" start="18" party1_of="144973_4" all_names="MICHIGAN PORK PRODUCERS ASSN INC" local_name_id="1" id="144973_5" >MICHIGAN PORK PRODUCERS ASSN., INC., ET AL.</NAME>
+
+<PROFESSION start="18" end="46" plural="True" id="144973_8" >MICHIGAN PORK PRODUCERS ASSN</PROFESSION>
+
+<ORGANIZATION start="49" end="52" id="144973_9" >INC</ORGANIZATION>
+
+<NAME end="96" start="65" all_names="CAMPAIGN FOR FAMILY FARMS" party2_of="144973_4" local_name_id="2" id="144973_6" >CAMPAIGN FOR FAMILY FARMS ET AL</NAME>
+
+<DOCKET end="113" entry_type="docket" lookup_key="u.s._544_1058" id1="144973" start="106" citation_global_level_id="1236.002" line="1" id="144973_3" citation_local_level_id="0" >03-1043</DOCKET>
+
+<ORGANIZATION start="119" end="149" id="144973_10" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="155" end="167" id="144973_7" >May 31, 2005</DATE>
+
+<NAME start="199" local_name_id="3" end="202" id="144973_11" all_names="CIR" >Cir</NAME>
+
+<CITATION end="233" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_348_157" id1="Dummy_File_24165" volume="348" start="220" page_number="157" standard_reporter="F.3D" citation_global_level_id="88015.001" line="1" id="144973_2" citation_local_level_id="2" >348 F. 3d 157</CITATION>
+
+<NAME start="260" local_name_id="4" end="270" id="144973_20" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION party2="Livestock Marketing Assn" party1="Johanns" citation_global_level_id="34431.001" party2_short="Assn" line="3" id="144973_17" end="391" entry_type="party_key" lookup_key="johannsassn#1" id1="142895" start="356" party1_short="Johanns" citation_local_level_id="3" >Johanns v. Livestock Marketing Assn</CITATION>
+
+<NAME end="363" start="356" party1_of="144973_17" all_names="JOHANNS" local_name_id="5" id="144973_18" >Johanns</NAME>
+
+<NAME end="391" start="367" all_names="LIVESTOCK MARKETING ASSN" party2_of="144973_17" local_name_id="6" id="144973_19" >Livestock Marketing Assn</NAME>
+
+<RELATION theme="144973_1" includes_docket_string="03-1043" includes_docket="144973_3" theme_string="544 U.S. 1058" gram_type="apposition" relation_type="asymmetric" id="144973_16" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 1058" X_vs_Y_string="MICHIGAN PORK PRODUCERS ASSN., INC., ET AL. v. CAMPAIGN FOR FAMILY FARMS ET AL" standard_case="144973_1" X_vs_Y="144973_4" gram_type="pre_nom" relation_type="equivalence" id="144973_12" ></RELATION>
+
+<RELATION theme="144973_4" includes_docket_string="03-1043" includes_docket="144973_3" theme_string="MICHIGAN PORK PRODUCERS ASSN., INC., ET AL. v. CAMPAIGN FOR FAMILY FARMS ET AL" gram_type="apposition" relation_type="asymmetric" id="144973_15" ></RELATION>
+
+<RELATION theme="144973_4" party1="144973_5" party1_string="MICHIGAN PORK PRODUCERS ASSN., INC., ET AL." theme_string="MICHIGAN PORK PRODUCERS ASSN., INC., ET AL. v. CAMPAIGN FOR FAMILY FARMS ET AL" gram_type="infix" relation_type="asymmetric" id="144973_13" ></RELATION>
+
+<RELATION party2="144973_6" theme="144973_4" theme_string="MICHIGAN PORK PRODUCERS ASSN., INC., ET AL. v. CAMPAIGN FOR FAMILY FARMS ET AL" party2_string="CAMPAIGN FOR FAMILY FARMS ET AL" gram_type="infix" relation_type="asymmetric" id="144973_14" ></RELATION>
+
+<RELATION theme="144973_17" party1="144973_18" party1_string="Johanns" theme_string="Johanns v. Livestock Marketing Assn" gram_type="infix" relation_type="asymmetric" id="144973_21" ></RELATION>
+
+<RELATION party2="144973_19" theme="144973_17" theme_string="Johanns v. Livestock Marketing Assn" party2_string="Livestock Marketing Assn" gram_type="infix" relation_type="asymmetric" id="144973_22" ></RELATION>
+

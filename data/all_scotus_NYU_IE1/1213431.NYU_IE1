@@ -1,0 +1,50 @@
+<CITATION alternative_keys="['landscott#1']" end="20" reporter="U.S." entry_type="standard_key" lookup_key="u.s._137_436" id1="92895" volume="137" start="1" page_number="436" year="1890" standard_reporter="U.S." citation_global_level_id="15609.002" line="2" id="1213431_1" citation_local_level_id="0" >137 U.S. 436 (1890)</CITATION>
+
+<DATE start="15" citation_global_level_id="15609.002" end="19" id="1213431_2" citation_local_level_id="0" >1890</DATE>
+
+<CITATION party2="SCOTT" party1="TEXAS LAND AND CATTLE COMPANY" citation_global_level_id="45271.001" party2_short="SCOTT" line="5" id="1213431_5" alternative_keys="['u.s._137_436']" end="61" entry_type="party_key" lookup_key="landscott#1" id1="1213431" start="21" party1_short="LAND" citation_local_level_id="1" >TEXAS LAND AND CATTLE COMPANY v. SCOTT</CITATION>
+
+<NAME end="50" start="21" party1_of="1213431_5" all_names="TEXAS LAND AND CATTLE COMPANY" local_name_id="1" id="1213431_6" >TEXAS LAND AND CATTLE COMPANY</NAME>
+
+<NAME end="61" start="56" all_names="SCOTT" party2_of="1213431_5" local_name_id="2" id="1213431_7" >SCOTT</NAME>
+
+<ORGANIZATION start="73" end="103" id="1213431_11" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="115" end="131" id="1213431_12" >November 3, 1890</DATE>
+
+<NAME start="133" local_name_id="3" end="140" id="1213431_14" all_names="DECIDED" >Decided</NAME>
+
+<DATE start="141" end="158" id="1213431_13" >November 10, 1890</DATE>
+
+<ORGANIZATION start="160" end="241" id="1213431_15" >ERROR TO THE CIRCUIT COURT OF THE UNITED STATES FOR THE WESTERN DISTRICT OF TEXAS</ORGANIZATION>
+
+<NAME start="243" local_name_id="4" end="259" id="1213431_16" all_names="MR AW HOUSTON" >Mr. A.W. Houston</NAME>
+
+<NAME start="280" local_name_id="5" end="286" id="1213431_17" all_names="CURIAM" >CURIAM</NAME>
+
+<NAME start="288" local_name_id="6" end="294" id="1213431_22" all_names="MOTION" >Motion</NAME>
+
+<ORGANIZATION start="370" end="375" id="1213431_23" >court</ORGANIZATION>
+
+<CITATION party2="Thouron et al" party1="Richmond &amp; Danville Railroad" citation_global_level_id="6410.003" party2_short="Thouron" line="13" id="1213431_19" alternative_keys="['u.s._134_45']" end="581" entry_type="party_key" lookup_key="railroadthouron#1" id1="92706" start="536" party1_short="Railroad" citation_local_level_id="2" >Richmond &amp; Danville Railroad v. Thouron et al</CITATION>
+
+<NAME end="564" start="536" party1_of="1213431_19" all_names="RICHMOND &amp; DANVILLE RAILROAD" local_name_id="7" id="1213431_20" >Richmond &amp; Danville Railroad</NAME>
+
+<NAME end="581" start="568" all_names="THOURON" party2_of="1213431_19" local_name_id="8" id="1213431_21" >Thouron et al</NAME>
+
+<CITATION alternative_keys="['railroadthouron#1']" end="595" reporter="U.S." entry_type="standard_key" lookup_key="u.s._134_45" id1="92706" volume="134" start="584" page_number="45" standard_reporter="U.S." citation_global_level_id="6410.002" line="13" id="1213431_18" citation_local_level_id="3" >134 U.S. 45</CITATION>
+
+<RELATION at_date_string="1890" theme="1213431_1" at_date="1213431_2" theme_string="137 U.S. 436 (1890)" gram_type="infix" relation_type="asymmetric" id="1213431_3" ></RELATION>
+
+<RELATION theme="1213431_5" party1="1213431_6" party1_string="TEXAS LAND AND CATTLE COMPANY" theme_string="TEXAS LAND AND CATTLE COMPANY  v.  SCOTT" gram_type="infix" relation_type="asymmetric" id="1213431_8" ></RELATION>
+
+<RELATION party2="1213431_7" theme="1213431_5" theme_string="TEXAS LAND AND CATTLE COMPANY  v.  SCOTT" party2_string="SCOTT" gram_type="infix" relation_type="asymmetric" id="1213431_9" ></RELATION>
+
+<RELATION standard_case_string="137 U.S. 436 (1890)" X_vs_Y_string="TEXAS LAND AND CATTLE COMPANY  v.  SCOTT" standard_case="1213431_1" X_vs_Y="1213431_5" gram_type="multi_line" relation_type="equivalence" id="1213431_10" ></RELATION>
+
+<RELATION standard_case_string="134 U.S. 45" X_vs_Y_string="Richmond &amp; Danville Railroad v. Thouron et al" standard_case="1213431_18" X_vs_Y="1213431_19" gram_type="apposition" relation_type="equivalence" id="1213431_26" ></RELATION>
+
+<RELATION theme="1213431_19" party1="1213431_20" party1_string="Richmond &amp; Danville Railroad" theme_string="Richmond &amp; Danville Railroad v. Thouron et al" gram_type="infix" relation_type="asymmetric" id="1213431_24" ></RELATION>
+
+<RELATION party2="1213431_21" theme="1213431_19" theme_string="Richmond &amp; Danville Railroad v. Thouron et al" party2_string="Thouron et al" gram_type="infix" relation_type="asymmetric" id="1213431_25" ></RELATION>
+

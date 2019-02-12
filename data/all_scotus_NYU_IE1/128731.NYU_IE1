@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['jacksonklevenhagen#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_965" id1="128731" volume="538" start="0" page_number="965" standard_reporter="U.S." citation_global_level_id="3602.002" line="1" id="128731_1" citation_local_level_id="0" >538 U.S. 965</CITATION>
+
+<CITATION party2="KLEVENHAGEN ET AL" party1="JACKSON" citation_global_level_id="3602.001" party2_short="KLEVENHAGEN" line="1" id="128731_3" alternative_keys="['u.s._538_965']" end="45" entry_type="party_key" lookup_key="jacksonklevenhagen#1" id1="128731" start="17" party1_short="JACKSON" citation_local_level_id="1" >JACKSON v. KLEVENHAGEN ET AL</CITATION>
+
+<NAME end="24" start="17" party1_of="128731_3" all_names="JACKSON" local_name_id="1" id="128731_4" >JACKSON</NAME>
+
+<NAME end="45" start="28" all_names="KLEVENHAGEN" party2_of="128731_3" local_name_id="2" id="128731_5" >KLEVENHAGEN ET AL</NAME>
+
+<DOCKET end="62" entry_type="docket" lookup_key="u.s._538_965" id1="128731" start="55" citation_global_level_id="3602.002" line="1" id="128731_2" citation_local_level_id="0" >02-8934</DOCKET>
+
+<DATE start="104" end="117" id="128731_6" >April 7, 2003</DATE>
+
+<NAME start="246" local_name_id="3" end="249" id="128731_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="128731_1" includes_docket_string="02-8934" includes_docket="128731_2" theme_string="538 U.S. 965" gram_type="apposition" relation_type="asymmetric" id="128731_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 965" X_vs_Y_string="JACKSON v. KLEVENHAGEN ET AL" standard_case="128731_1" X_vs_Y="128731_3" gram_type="pre_nom" relation_type="equivalence" id="128731_7" ></RELATION>
+
+<RELATION theme="128731_3" includes_docket_string="02-8934" includes_docket="128731_2" theme_string="JACKSON v. KLEVENHAGEN ET AL" gram_type="apposition" relation_type="asymmetric" id="128731_10" ></RELATION>
+
+<RELATION theme="128731_3" party1="128731_4" party1_string="JACKSON" theme_string="JACKSON v. KLEVENHAGEN ET AL" gram_type="infix" relation_type="asymmetric" id="128731_8" ></RELATION>
+
+<RELATION party2="128731_5" theme="128731_3" theme_string="JACKSON v. KLEVENHAGEN ET AL" party2_string="KLEVENHAGEN ET AL" gram_type="infix" relation_type="asymmetric" id="128731_9" ></RELATION>
+

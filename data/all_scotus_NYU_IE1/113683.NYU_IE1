@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['bookerboard#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_862" id1="113679" volume="510" start="0" page_number="862" standard_reporter="U.S." citation_global_level_id="391.002" line="1" id="113683_1" citation_local_level_id="0" >510 U.S. 862</CITATION>
+
+<CITATION party2="Merit Systems Protection Board" party1="Booker" citation_global_level_id="9378.001" party2_short="Board" line="1" id="113683_3" alternative_keys="['u.s._510_862']" end="57" entry_type="party_key" lookup_key="bookerboard#1" id1="113683" start="17" party1_short="Booker" citation_local_level_id="1" >Booker v. Merit Systems Protection Board</CITATION>
+
+<NAME end="23" start="17" party1_of="113683_3" all_names="BOOKER" local_name_id="1" id="113683_4" >Booker</NAME>
+
+<NAME end="57" start="27" all_names="MERIT SYSTEMS PROTECTION BOARD" party2_of="113683_3" local_name_id="2" id="113683_5" >Merit Systems Protection Board</NAME>
+
+<DOCKET end="72" entry_type="docket" lookup_key="u.s._510_862" id1="113679" start="67" citation_global_level_id="391.002" line="1" id="113683_2" citation_local_level_id="0" >93-55</DOCKET>
+
+<DATE start="114" end="129" id="113683_6" >October 4, 1993</DATE>
+
+<NAME start="208" local_name_id="3" end="218" id="113683_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="256" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_982_517" id1="Dummy_File_218591" volume="982" start="243" page_number="517" standard_reporter="F.2D" citation_global_level_id="282441.001" line="3" id="113683_12" citation_local_level_id="2" >982 F. 2d 517</CITATION>
+
+<RELATION theme="113683_1" includes_docket_string="93-55" includes_docket="113683_2" theme_string="510 U.S. 862" gram_type="apposition" relation_type="asymmetric" id="113683_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 862" X_vs_Y_string="Booker v. Merit Systems Protection Board" standard_case="113683_1" X_vs_Y="113683_3" gram_type="pre_nom" relation_type="equivalence" id="113683_7" ></RELATION>
+
+<RELATION theme="113683_3" includes_docket_string="93-55" includes_docket="113683_2" theme_string="Booker v. Merit Systems Protection Board" gram_type="apposition" relation_type="asymmetric" id="113683_10" ></RELATION>
+
+<RELATION theme="113683_3" party1="113683_4" party1_string="Booker" theme_string="Booker v. Merit Systems Protection Board" gram_type="infix" relation_type="asymmetric" id="113683_8" ></RELATION>
+
+<RELATION party2="113683_5" theme="113683_3" theme_string="Booker v. Merit Systems Protection Board" party2_string="Merit Systems Protection Board" gram_type="infix" relation_type="asymmetric" id="113683_9" ></RELATION>
+

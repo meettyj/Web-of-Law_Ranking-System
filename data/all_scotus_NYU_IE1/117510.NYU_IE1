@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['joestates#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1184" id1="117516" volume="510" start="0" page_number="1184" standard_reporter="U.S." citation_global_level_id="7707.002" line="1" id="117510_1" citation_local_level_id="0" >510 U.S. 1184</CITATION>
+
+<CITATION party2="United States" party1="Joe" citation_global_level_id="20723.001" party2_short="States" line="1" id="117510_3" alternative_keys="['u.s._510_1184']" end="38" entry_type="party_key" lookup_key="joestates#1" id1="117510" start="18" party1_short="Joe" citation_local_level_id="1" >Joe v. United States</CITATION>
+
+<NAME end="21" start="18" party1_of="117510_3" all_names="JOE" local_name_id="1" id="117510_4" >Joe</NAME>
+
+<NAME end="38" start="25" all_names="UNITED STATES" party2_of="117510_3" local_name_id="2" id="117510_5" >United States</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._510_1184" id1="117516" start="48" citation_global_level_id="7707.002" line="1" id="117510_2" citation_local_level_id="0" >93-7784</DOCKET>
+
+<DATE start="97" end="110" id="117510_6" >March 7, 1994</DATE>
+
+<NAME start="189" local_name_id="3" end="199" id="117510_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="236" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_8_1488" id1="Dummy_File_235389" volume="8" start="224" page_number="1488" standard_reporter="F.3D" citation_global_level_id="299239.001" line="3" id="117510_12" citation_local_level_id="2" >8 F. 3d 1488</CITATION>
+
+<RELATION theme="117510_1" includes_docket_string="93-7784" includes_docket="117510_2" theme_string="510 U.S. 1184" gram_type="apposition" relation_type="asymmetric" id="117510_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1184" X_vs_Y_string="Joe v. United States" standard_case="117510_1" X_vs_Y="117510_3" gram_type="pre_nom" relation_type="equivalence" id="117510_7" ></RELATION>
+
+<RELATION theme="117510_3" includes_docket_string="93-7784" includes_docket="117510_2" theme_string="Joe v. United States" gram_type="apposition" relation_type="asymmetric" id="117510_10" ></RELATION>
+
+<RELATION theme="117510_3" party1="117510_4" party1_string="Joe" theme_string="Joe v. United States" gram_type="infix" relation_type="asymmetric" id="117510_8" ></RELATION>
+
+<RELATION party2="117510_5" theme="117510_3" theme_string="Joe v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="117510_9" ></RELATION>
+

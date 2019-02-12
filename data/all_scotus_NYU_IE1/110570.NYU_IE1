@@ -1,0 +1,36 @@
+<CITATION alternative_keys="['statestates#12', 's.ct._102_17', 'l.ed.2d_69_1032']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._453_945" id1="110570" volume="453" start="0" page_number="945" standard_reporter="U.S." citation_global_level_id="32122.002" line="1" id="110570_1" citation_local_level_id="0" >453 U.S. 945</CITATION>
+
+<CITATION alternative_keys="['u.s._453_945', 'statestates#12', 'l.ed.2d_69_1032']" end="30" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._102_17" id1="110570" volume="102" start="17" page_number="17" standard_reporter="S.CT." citation_global_level_id="32122.003" line="2" id="110570_2" citation_local_level_id="1" >102 S. Ct. 17</CITATION>
+
+<CITATION alternative_keys="['u.s._453_945', 's.ct._102_17', 'statestates#12']" end="52" reporter="L. Ed. 2d" entry_type="standard_key" lookup_key="l.ed.2d_69_1032" id1="110570" volume="69" start="35" page_number="1032" standard_reporter="L.ED.2D" citation_global_level_id="32122.004" line="3" id="110570_3" citation_local_level_id="2" >69 L. Ed. 2d 1032</CITATION>
+
+<CITATION party2="States of TEXAS, Florida, Alabama, Mississippi  and South Carolina" party1="State of CALIFORNIA" citation_global_level_id="32122.005" party2_short="States" line="4" id="110570_4" alternative_keys="['s.ct._102_17', 'l.ed.2d_69_1032', 'u.s._453_945']" end="146" entry_type="party_key" lookup_key="statestates#12" id1="110570" start="57" party1_short="State" citation_local_level_id="3" >State of CALIFORNIA v. States of TEXAS, Florida, Alabama, Mississippi and South Carolina</CITATION>
+
+<NAME end="76" start="57" party1_of="110570_4" all_names="STATE OF CALIFORNIA" local_name_id="1" id="110570_5" >State of CALIFORNIA</NAME>
+
+<NAME end="146" start="80" all_names="STATES OF TEXAS FLORIDA ALABAMA MISSISSIPPI AND SOUTH CAROLINA" party2_of="110570_4" local_name_id="2" id="110570_6" >States of TEXAS, Florida, Alabama, Mississippi and South Carolina</NAME>
+
+<NAME start="158" local_name_id="3" end="166" id="110570_9" all_names="ORIGINAL" >Original</NAME>
+
+<ORGANIZATION start="180" end="214" id="110570_13" >Supreme Court of the United States</ORGANIZATION>
+
+<DATE start="219" end="236" id="110570_14" >September 8, 1981</DATE>
+
+<NAME start="288" local_name_id="4" end="308" id="110570_15" all_names="STATE OF MISSISSIPPI" >State of Mississippi</NAME>
+
+<LEGAL_ROLE start="320" local_name_id="4" end="329" id="110570_16" name="State of Mississippi" >defendant</LEGAL_ROLE>
+
+<NAME start="346" local_name_id="5" end="350" id="110570_17" all_names="RULE" >Rule</NAME>
+
+<RELATION theme="110570_4" party1="110570_5" party1_string="State of CALIFORNIA" theme_string="State of CALIFORNIA v. States of TEXAS, Florida, Alabama, Mississippi  and South Carolina" gram_type="infix" relation_type="asymmetric" id="110570_7" ></RELATION>
+
+<RELATION party2="110570_6" theme="110570_4" theme_string="State of CALIFORNIA v. States of TEXAS, Florida, Alabama, Mississippi  and South Carolina" party2_string="States of TEXAS, Florida, Alabama, Mississippi  and South Carolina" gram_type="infix" relation_type="asymmetric" id="110570_8" ></RELATION>
+
+<RELATION standard_case_string="453 U.S. 945" X_vs_Y_string="State of CALIFORNIA v. States of TEXAS, Florida, Alabama, Mississippi  and South Carolina" standard_case="110570_1" X_vs_Y="110570_4" gram_type="multi_line" relation_type="equivalence" id="110570_10" ></RELATION>
+
+<RELATION standard_case_string="102 S. Ct. 17" X_vs_Y_string="State of CALIFORNIA v. States of TEXAS, Florida, Alabama, Mississippi  and South Carolina" standard_case="110570_2" X_vs_Y="110570_4" gram_type="multi_line" relation_type="equivalence" id="110570_11" ></RELATION>
+
+<RELATION standard_case_string="69 L. Ed. 2d 1032" X_vs_Y_string="State of CALIFORNIA v. States of TEXAS, Florida, Alabama, Mississippi  and South Carolina" standard_case="110570_3" X_vs_Y="110570_4" gram_type="multi_line" relation_type="equivalence" id="110570_12" ></RELATION>
+
+<RELATION theme="110570_15" legal_role="110570_16" id="110570_18" theme_string="State of Mississippi" gram_type="as_predication" relation_type="asymmetric" legal_role_string="defendant" ></RELATION>
+

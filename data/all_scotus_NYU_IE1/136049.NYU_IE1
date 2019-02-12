@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['hawkinsstates#9']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_1018" id1="136062" volume="541" start="0" page_number="1018" standard_reporter="U.S." citation_global_level_id="1515.002" line="1" id="136049_1" citation_local_level_id="0" >541 U.S. 1018</CITATION>
+
+<CITATION party2="UNITED STATES" party1="HAWKINS" citation_global_level_id="61273.001" party2_short="STATES" line="2" id="136049_2" alternative_keys="['u.s._541_1018']" end="42" entry_type="party_key" lookup_key="hawkinsstates#9" id1="144746" start="18" party1_short="HAWKINS" citation_local_level_id="1" >HAWKINS v. UNITED STATES</CITATION>
+
+<NAME end="25" start="18" party1_of="136049_2" all_names="HAWKINS" local_name_id="1" id="136049_3" >HAWKINS</NAME>
+
+<NAME end="42" start="29" all_names="UNITED STATES" party2_of="136049_2" local_name_id="2" id="136049_4" >UNITED STATES</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="hawkinsstates#9" id1="144746" start="52" citation_global_level_id="61273.001" line="3" id="136049_7" citation_local_level_id="1" >03-9559</DOCKET>
+
+<ORGANIZATION start="65" end="95" id="136049_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="101" citation_global_level_id="61273.001" end="115" id="136049_9" citation_local_level_id="1" >April 26, 2004</DATE>
+
+<NAME start="146" local_name_id="3" end="149" id="136049_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="136049_2" party1="136049_3" party1_string="HAWKINS" theme_string="HAWKINS v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="136049_5" ></RELATION>
+
+<RELATION party2="136049_4" theme="136049_2" theme_string="HAWKINS v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="136049_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 1018" X_vs_Y_string="HAWKINS v. UNITED STATES" standard_case="136049_1" X_vs_Y="136049_2" gram_type="multi_line" relation_type="equivalence" id="136049_10" ></RELATION>
+
+<RELATION at_date_string="April 26, 2004" theme="136049_2" at_date="136049_9" theme_string="HAWKINS v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="136049_12" ></RELATION>
+
+<RELATION theme="136049_2" includes_docket_string="03-9559" includes_docket="136049_7" theme_string="HAWKINS v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="136049_11" ></RELATION>
+

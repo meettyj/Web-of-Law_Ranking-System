@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['redmonddairymen#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_917" id1="114383" volume="510" start="0" page_number="917" standard_reporter="U.S." citation_global_level_id="13765.002" line="1" id="114391_1" citation_local_level_id="0" >510 U.S. 917</CITATION>
+
+<CITATION party2="Mid-America Dairymen, Inc" party1="Sanford Redmond, Inc." citation_global_level_id="13765.006" party2_short="Dairymen" line="1" id="114391_3" alternative_keys="['u.s._510_917']" end="67" entry_type="party_key" lookup_key="redmonddairymen#2" id1="114383" start="17" party1_short="Redmond" citation_local_level_id="1" >Sanford Redmond, Inc. v. Mid-America Dairymen, Inc</CITATION>
+
+<NAME end="38" start="17" party1_of="114391_3" all_names="SANFORD REDMOND INC" local_name_id="1" id="114391_4" >Sanford Redmond, Inc.</NAME>
+
+<ORGANIZATION start="17" end="37" id="114391_7" >Sanford Redmond, Inc</ORGANIZATION>
+
+<NAME end="67" start="42" all_names="MID-AMERICA DAIRYMEN INC" party2_of="114391_3" local_name_id="2" id="114391_5" >Mid-America Dairymen, Inc</NAME>
+
+<DOCKET end="83" entry_type="docket" lookup_key="u.s._510_917" id1="114383" start="77" citation_global_level_id="13765.002" line="1" id="114391_2" citation_local_level_id="0" >93-304</DOCKET>
+
+<DATE start="125" end="141" id="114391_6" >October 12, 1993</DATE>
+
+<NAME start="218" local_name_id="3" end="228" id="114391_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="267" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_993_1534" id1="Dummy_File_85519" volume="993" start="253" page_number="1534" standard_reporter="F.2D" citation_global_level_id="149369.001" line="3" id="114391_13" citation_local_level_id="2" >993 F. 2d 1534</CITATION>
+
+<RELATION theme="114391_1" includes_docket_string="93-304" includes_docket="114391_2" theme_string="510 U.S. 917" gram_type="apposition" relation_type="asymmetric" id="114391_12" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 917" X_vs_Y_string="Sanford Redmond, Inc. v. Mid-America Dairymen, Inc" standard_case="114391_1" X_vs_Y="114391_3" gram_type="pre_nom" relation_type="equivalence" id="114391_8" ></RELATION>
+
+<RELATION theme="114391_3" includes_docket_string="93-304" includes_docket="114391_2" theme_string="Sanford Redmond, Inc. v. Mid-America Dairymen, Inc" gram_type="apposition" relation_type="asymmetric" id="114391_11" ></RELATION>
+
+<RELATION party2="114391_5" theme="114391_3" theme_string="Sanford Redmond, Inc. v. Mid-America Dairymen, Inc" party2_string="Mid-America Dairymen, Inc" gram_type="infix" relation_type="asymmetric" id="114391_10" ></RELATION>
+
+<RELATION theme="114391_3" party1="114391_4" party1_string="Sanford Redmond, Inc." theme_string="Sanford Redmond, Inc. v. Mid-America Dairymen, Inc" gram_type="infix" relation_type="asymmetric" id="114391_9" ></RELATION>
+

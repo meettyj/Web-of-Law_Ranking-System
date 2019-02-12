@@ -1,0 +1,44 @@
+<CITATION alternative_keys="['districthall#2']" end="20" reporter="U.S." entry_type="standard_key" lookup_key="u.s._106_428" id1="1476080" volume="106" start="1" page_number="428" standard_reporter="U.S." citation_global_level_id="14006.002" line="2" id="1476080_1" citation_local_level_id="0" >106 U.S. 428 (____)</CITATION>
+
+<CITATION party2="HALL" party1="SCHOOL DISTRICT OF ACKLEY" citation_global_level_id="14006.003" party2_short="HALL" line="5" id="1476080_4" alternative_keys="['u.s._106_428']" end="56" entry_type="party_key" lookup_key="districthall#2" id1="1476080" start="21" party1_short="DISTRICT" citation_local_level_id="1" >SCHOOL DISTRICT OF ACKLEY v. HALL</CITATION>
+
+<NAME end="46" start="21" party1_of="1476080_4" all_names="SCHOOL DISTRICT OF ACKLEY" local_name_id="1" id="1476080_5" >SCHOOL DISTRICT OF ACKLEY</NAME>
+
+<ORGANIZATION start="21" end="27" id="1476080_7" >SCHOOL</ORGANIZATION>
+
+<NAME end="56" start="52" all_names="HALL" party2_of="1476080_4" local_name_id="2" id="1476080_6" >HALL</NAME>
+
+<ORGANIZATION start="58" end="88" id="1476080_10" >Supreme Court of United States</ORGANIZATION>
+
+<NAME start="91" local_name_id="3" end="139" id="1476080_12" all_names="MR WALTER H SMITH AND MR ALEXANDER T BRITTON" >Mr. Walter H. Smith and Mr. Alexander T. Britton</NAME>
+
+<NAME start="167" local_name_id="4" end="186" id="1476080_13" all_names="MR GALUSHA PARSONS" >Mr. Galusha Parsons</NAME>
+
+<NAME start="201" local_name_id="5" end="203" id="1476080_14" all_names="MR" >MR</NAME>
+
+<NAME start="371" local_name_id="6" end="387" id="1476080_15" all_names="REVISED STATUTES" >Revised Statutes</NAME>
+
+<NAME start="515" local_name_id="7" end="519" id="1476080_16" all_names="RULE" >Rule</NAME>
+
+<CITATION party2="Cook" party1="Whitney" citation_global_level_id="54108.001" party2_short="Cook" line="12" id="1476080_18" alternative_keys="['u.s._99_607']" end="694" entry_type="party_key" lookup_key="whitneycook#1" id1="89987" start="679" party1_short="Whitney" citation_local_level_id="2" >Whitney v. Cook</CITATION>
+
+<NAME end="686" start="679" party1_of="1476080_18" all_names="WHITNEY" local_name_id="8" id="1476080_19" >Whitney</NAME>
+
+<NAME end="694" start="690" all_names="COOK" party2_of="1476080_18" local_name_id="9" id="1476080_20" >Cook</NAME>
+
+<CITATION alternative_keys="['whitneycook#1']" end="707" reporter="U.S." entry_type="standard_key" lookup_key="u.s._99_607" id1="89987" volume="99" start="696" page_number="607" standard_reporter="U.S." citation_global_level_id="54108.002" line="12" id="1476080_17" citation_local_level_id="3" >99 U.S. 607</CITATION>
+
+<NAME start="709" local_name_id="10" end="716" id="1476080_24" all_names="MOTIONS" >Motions</NAME>
+
+<RELATION theme="1476080_4" party1="1476080_5" party1_string="SCHOOL DISTRICT OF ACKLEY" theme_string="SCHOOL DISTRICT OF ACKLEY  v.  HALL" gram_type="infix" relation_type="asymmetric" id="1476080_8" ></RELATION>
+
+<RELATION party2="1476080_6" theme="1476080_4" theme_string="SCHOOL DISTRICT OF ACKLEY  v.  HALL" party2_string="HALL" gram_type="infix" relation_type="asymmetric" id="1476080_9" ></RELATION>
+
+<RELATION standard_case_string="106 U.S. 428 (____)" X_vs_Y_string="SCHOOL DISTRICT OF ACKLEY  v.  HALL" standard_case="1476080_1" X_vs_Y="1476080_4" gram_type="multi_line" relation_type="equivalence" id="1476080_11" ></RELATION>
+
+<RELATION standard_case_string="99 U.S. 607" X_vs_Y_string="Whitney v. Cook" standard_case="1476080_17" X_vs_Y="1476080_18" gram_type="apposition" relation_type="equivalence" id="1476080_23" ></RELATION>
+
+<RELATION theme="1476080_18" party1="1476080_19" party1_string="Whitney" theme_string="Whitney v. Cook" gram_type="infix" relation_type="asymmetric" id="1476080_21" ></RELATION>
+
+<RELATION party2="1476080_20" theme="1476080_18" theme_string="Whitney v. Cook" party2_string="Cook" gram_type="infix" relation_type="asymmetric" id="1476080_22" ></RELATION>
+

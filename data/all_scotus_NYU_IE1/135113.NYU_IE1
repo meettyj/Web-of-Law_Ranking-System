@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['brownlewis#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_946" id1="135103" volume="541" start="0" page_number="946" standard_reporter="U.S." citation_global_level_id="633.002" line="1" id="135113_1" citation_local_level_id="0" >541 U.S. 946</CITATION>
+
+<CITATION party2="LEWIS, WARDEN" party1="BROWN" citation_global_level_id="990.008" party2_short="LEWIS" line="2" id="135113_2" alternative_keys="['u.s._537_1175']" end="39" entry_type="party_key" lookup_key="brownlewis#1" id1="126983" start="17" party1_short="BROWN" citation_local_level_id="1" >BROWN v. LEWIS, WARDEN</CITATION>
+
+<NAME end="22" start="17" party1_of="135113_2" all_names="BROWN" local_name_id="1" id="135113_3" >BROWN</NAME>
+
+<NAME end="39" start="26" all_names="LEWIS WARDEN" party2_of="135113_2" local_name_id="2" id="135113_4" >LEWIS, WARDEN</NAME>
+
+<DOCKET alternative_keys="['u.s._537_1175']" end="56" entry_type="docket" lookup_key="brownlewis#1" id1="126983" start="49" citation_global_level_id="990.008" line="3" id="135113_7" citation_local_level_id="1" >03-8489</DOCKET>
+
+<ORGANIZATION start="62" end="92" id="135113_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="98" citation_global_level_id="990.008" end="112" id="135113_9" citation_local_level_id="1" >March 22, 2004</DATE>
+
+<NAME start="144" local_name_id="3" end="147" id="135113_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="135113_2" party1="135113_3" party1_string="BROWN" theme_string="BROWN v. LEWIS, WARDEN" gram_type="infix" relation_type="asymmetric" id="135113_5" ></RELATION>
+
+<RELATION party2="135113_4" theme="135113_2" theme_string="BROWN v. LEWIS, WARDEN" party2_string="LEWIS, WARDEN" gram_type="infix" relation_type="asymmetric" id="135113_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 946" X_vs_Y_string="BROWN v. LEWIS, WARDEN" standard_case="135113_1" X_vs_Y="135113_2" gram_type="multi_line" relation_type="equivalence" id="135113_10" ></RELATION>
+
+<RELATION at_date_string="March 22, 2004" theme="135113_2" at_date="135113_9" theme_string="BROWN v. LEWIS, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="135113_12" ></RELATION>
+
+<RELATION theme="135113_2" includes_docket_string="03-8489" includes_docket="135113_7" theme_string="BROWN v. LEWIS, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="135113_11" ></RELATION>
+

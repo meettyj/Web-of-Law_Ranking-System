@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['thackeroklahoma#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_911" id1="143040" volume="544" start="0" page_number="911" standard_reporter="U.S." citation_global_level_id="3823.002" line="1" id="143038_1" citation_local_level_id="0" >544 U.S. 911</CITATION>
+
+<CITATION party2="OKLAHOMA" party1="THACKER" citation_global_level_id="55167.001" party2_short="OKLAHOMA" line="2" id="143038_2" alternative_keys="['u.s._544_911']" end="36" entry_type="party_key" lookup_key="thackeroklahoma#1" id1="143038" start="17" party1_short="THACKER" citation_local_level_id="1" >THACKER v. OKLAHOMA</CITATION>
+
+<NAME end="24" start="17" party1_of="143038_2" all_names="THACKER" local_name_id="1" id="143038_3" >THACKER</NAME>
+
+<NAME end="36" start="28" all_names="OKLAHOMA" party2_of="143038_2" local_name_id="2" id="143038_4" >OKLAHOMA</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="thackeroklahoma#1" id1="143038" start="46" citation_global_level_id="55167.001" line="3" id="143038_7" citation_local_level_id="1" >04-8278</DOCKET>
+
+<ORGANIZATION start="59" end="89" id="143038_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="95" citation_global_level_id="55167.001" end="108" id="143038_9" citation_local_level_id="1" >March 7, 2005</DATE>
+
+<NAME start="130" local_name_id="3" end="132" id="143038_14" all_names="CT" >Ct</NAME>
+
+<CITATION end="200" reporter="P. 3d" entry_type="standard_key" no_current_file="True" lookup_key="p.3d_100_1052" id1="Dummy_File_36447" volume="100" start="186" page_number="1052" standard_reporter="P.3D" citation_global_level_id="100297.001" line="8" id="143038_13" citation_local_level_id="2" >100 P. 3d 1052</CITATION>
+
+<RELATION theme="143038_2" party1="143038_3" party1_string="THACKER" theme_string="THACKER v. OKLAHOMA" gram_type="infix" relation_type="asymmetric" id="143038_5" ></RELATION>
+
+<RELATION party2="143038_4" theme="143038_2" theme_string="THACKER v. OKLAHOMA" party2_string="OKLAHOMA" gram_type="infix" relation_type="asymmetric" id="143038_6" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 911" X_vs_Y_string="THACKER v. OKLAHOMA" standard_case="143038_1" X_vs_Y="143038_2" gram_type="multi_line" relation_type="equivalence" id="143038_10" ></RELATION>
+
+<RELATION at_date_string="March 7, 2005" theme="143038_2" at_date="143038_9" theme_string="THACKER v. OKLAHOMA" gram_type="multi_line" relation_type="asymmetric" id="143038_12" ></RELATION>
+
+<RELATION theme="143038_2" includes_docket_string="04-8278" includes_docket="143038_7" theme_string="THACKER v. OKLAHOMA" gram_type="multi_line" relation_type="asymmetric" id="143038_11" ></RELATION>
+

@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['drurytexas#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1020" id1="119912" volume="535" start="0" page_number="1020" standard_reporter="U.S." citation_global_level_id="8342.002" line="1" id="119918_1" citation_local_level_id="0" >535 U.S. 1020</CITATION>
+
+<CITATION party2="TEXAS" party1="DRURY" citation_global_level_id="12696.001" party2_short="TEXAS" line="2" id="119918_2" alternative_keys="['u.s._535_1020']" end="32" entry_type="party_key" lookup_key="drurytexas#1" id1="119918" start="18" party1_short="DRURY" citation_local_level_id="1" >DRURY v. TEXAS</CITATION>
+
+<NAME end="23" start="18" party1_of="119918_2" all_names="DRURY" local_name_id="1" id="119918_3" >DRURY</NAME>
+
+<NAME end="32" start="27" all_names="TEXAS" party2_of="119918_2" local_name_id="2" id="119918_4" >TEXAS</NAME>
+
+<DOCKET end="49" entry_type="docket" lookup_key="drurytexas#1" id1="119918" start="42" citation_global_level_id="12696.001" line="3" id="119918_7" citation_local_level_id="1" >01-8459</DOCKET>
+
+<DATE start="95" citation_global_level_id="12696.001" end="109" id="119918_8" citation_local_level_id="1" >April 22, 2002</DATE>
+
+<NAME start="131" local_name_id="3" end="133" id="119918_12" all_names="CT" >Ct</NAME>
+
+<RELATION theme="119918_2" party1="119918_3" party1_string="DRURY" theme_string="DRURY v. TEXAS" gram_type="infix" relation_type="asymmetric" id="119918_5" ></RELATION>
+
+<RELATION party2="119918_4" theme="119918_2" theme_string="DRURY v. TEXAS" party2_string="TEXAS" gram_type="infix" relation_type="asymmetric" id="119918_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1020" X_vs_Y_string="DRURY v. TEXAS" standard_case="119918_1" X_vs_Y="119918_2" gram_type="multi_line" relation_type="equivalence" id="119918_9" ></RELATION>
+
+<RELATION at_date_string="April 22, 2002" theme="119918_2" at_date="119918_8" theme_string="DRURY v. TEXAS" gram_type="multi_line" relation_type="asymmetric" id="119918_11" ></RELATION>
+
+<RELATION theme="119918_2" includes_docket_string="01-8459" includes_docket="119918_7" theme_string="DRURY v. TEXAS" gram_type="multi_line" relation_type="asymmetric" id="119918_10" ></RELATION>
+

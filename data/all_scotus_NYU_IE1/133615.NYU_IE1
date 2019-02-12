@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['queenwarden#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_990" id1="133616" volume="540" start="0" page_number="990" standard_reporter="U.S." citation_global_level_id="8796.002" line="1" id="133615_1" citation_local_level_id="0" >540 U.S. 990</CITATION>
+
+<CITATION party2="HALL, WARDEN" party1="QUEEN" citation_global_level_id="11231.001" party2_short="WARDEN" line="1" id="133615_3" alternative_keys="['u.s._540_990']" end="38" entry_type="party_key" lookup_key="queenwarden#2" id1="133615" start="17" party1_short="QUEEN" citation_local_level_id="1" >QUEEN v. HALL, WARDEN</CITATION>
+
+<NAME end="22" start="17" party1_of="133615_3" all_names="QUEEN" local_name_id="1" id="133615_4" >QUEEN</NAME>
+
+<NAME end="38" start="26" all_names="HALL WARDEN" party2_of="133615_3" local_name_id="2" id="133615_5" >HALL, WARDEN</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._540_990" id1="133616" start="48" citation_global_level_id="8796.002" line="1" id="133615_2" citation_local_level_id="0" >03-6231</DOCKET>
+
+<DATE start="97" end="113" id="133615_6" >November 3, 2003</DATE>
+
+<NAME start="191" local_name_id="3" end="201" id="133615_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="133615_1" includes_docket_string="03-6231" includes_docket="133615_2" theme_string="540 U.S. 990" gram_type="apposition" relation_type="asymmetric" id="133615_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 990" X_vs_Y_string="QUEEN v. HALL, WARDEN" standard_case="133615_1" X_vs_Y="133615_3" gram_type="pre_nom" relation_type="equivalence" id="133615_7" ></RELATION>
+
+<RELATION theme="133615_3" includes_docket_string="03-6231" includes_docket="133615_2" theme_string="QUEEN v. HALL, WARDEN" gram_type="apposition" relation_type="asymmetric" id="133615_10" ></RELATION>
+
+<RELATION theme="133615_3" party1="133615_4" party1_string="QUEEN" theme_string="QUEEN v. HALL, WARDEN" gram_type="infix" relation_type="asymmetric" id="133615_8" ></RELATION>
+
+<RELATION party2="133615_5" theme="133615_3" theme_string="QUEEN v. HALL, WARDEN" party2_string="HALL, WARDEN" gram_type="infix" relation_type="asymmetric" id="133615_9" ></RELATION>
+

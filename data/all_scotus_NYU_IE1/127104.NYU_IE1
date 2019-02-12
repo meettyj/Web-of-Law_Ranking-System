@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['statesbanks#5']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1187" id1="127105" volume="537" start="0" page_number="1187" standard_reporter="U.S." citation_global_level_id="5470.002" line="1" id="127104_1" citation_local_level_id="0" >537 U.S. 1187</CITATION>
+
+<CITATION party2="BANKS" party1="UNITED STATES" citation_global_level_id="48832.001" party2_short="BANKS" line="1" id="127104_3" alternative_keys="['u.s._537_1187']" end="40" entry_type="party_key" lookup_key="statesbanks#5" id1="131012" start="18" party1_short="STATES" citation_local_level_id="1" >UNITED STATES v. BANKS</CITATION>
+
+<NAME end="31" start="18" party1_of="127104_3" all_names="UNITED STATES" local_name_id="1" id="127104_4" >UNITED STATES</NAME>
+
+<NAME end="40" start="35" all_names="BANKS" party2_of="127104_3" local_name_id="2" id="127104_5" >BANKS</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._537_1187" id1="127105" start="50" citation_global_level_id="5470.002" line="1" id="127104_2" citation_local_level_id="0" >02-473</DOCKET>
+
+<DATE start="98" end="115" id="127104_6" >February 24, 2003</DATE>
+
+<NAME start="244" local_name_id="3" end="247" id="127104_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="367" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_282_699" id1="Dummy_File_80194" volume="282" start="354" page_number="699" standard_reporter="F.3D" citation_global_level_id="144044.001" line="3" id="127104_12" citation_local_level_id="2" >282 F. 3d 699</CITATION>
+
+<RELATION theme="127104_1" includes_docket_string="02-473" includes_docket="127104_2" theme_string="537 U.S. 1187" gram_type="apposition" relation_type="asymmetric" id="127104_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1187" X_vs_Y_string="UNITED STATES v. BANKS" standard_case="127104_1" X_vs_Y="127104_3" gram_type="pre_nom" relation_type="equivalence" id="127104_7" ></RELATION>
+
+<RELATION theme="127104_3" includes_docket_string="02-473" includes_docket="127104_2" theme_string="UNITED STATES v. BANKS" gram_type="apposition" relation_type="asymmetric" id="127104_10" ></RELATION>
+
+<RELATION theme="127104_3" party1="127104_4" party1_string="UNITED STATES" theme_string="UNITED STATES v. BANKS" gram_type="infix" relation_type="asymmetric" id="127104_8" ></RELATION>
+
+<RELATION party2="127104_5" theme="127104_3" theme_string="UNITED STATES v. BANKS" party2_string="BANKS" gram_type="infix" relation_type="asymmetric" id="127104_9" ></RELATION>
+

@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['melitastates#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1141" id1="126599" volume="537" start="0" page_number="1141" standard_reporter="U.S." citation_global_level_id="18595.002" line="1" id="126600_1" citation_local_level_id="0" >537 U.S. 1141</CITATION>
+
+<CITATION party2="UNITED STATES" party1="MELITA" citation_global_level_id="54306.001" party2_short="STATES" line="1" id="126600_3" alternative_keys="['u.s._537_1141']" end="41" entry_type="party_key" lookup_key="melitastates#1" id1="126600" start="18" party1_short="MELITA" citation_local_level_id="1" >MELITA v. UNITED STATES</CITATION>
+
+<NAME end="24" start="18" party1_of="126600_3" all_names="MELITA" local_name_id="1" id="126600_4" >MELITA</NAME>
+
+<NAME end="41" start="28" all_names="UNITED STATES" party2_of="126600_3" local_name_id="2" id="126600_5" >UNITED STATES</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._537_1141" id1="126599" start="51" citation_global_level_id="18595.002" line="1" id="126600_2" citation_local_level_id="0" >02-7764</DOCKET>
+
+<DATE start="100" end="116" id="126600_6" >January 13, 2003</DATE>
+
+<NAME start="245" local_name_id="3" end="248" id="126600_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="126600_1" includes_docket_string="02-7764" includes_docket="126600_2" theme_string="537 U.S. 1141" gram_type="apposition" relation_type="asymmetric" id="126600_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1141" X_vs_Y_string="MELITA v. UNITED STATES" standard_case="126600_1" X_vs_Y="126600_3" gram_type="pre_nom" relation_type="equivalence" id="126600_7" ></RELATION>
+
+<RELATION theme="126600_3" includes_docket_string="02-7764" includes_docket="126600_2" theme_string="MELITA v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="126600_10" ></RELATION>
+
+<RELATION theme="126600_3" party1="126600_4" party1_string="MELITA" theme_string="MELITA v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="126600_8" ></RELATION>
+
+<RELATION party2="126600_5" theme="126600_3" theme_string="MELITA v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="126600_9" ></RELATION>
+

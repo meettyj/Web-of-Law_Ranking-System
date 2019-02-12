@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['krusedepartment#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1075" id1="116400" volume="510" start="0" page_number="1075" standard_reporter="U.S." citation_global_level_id="3742.002" line="1" id="116407_1" citation_local_level_id="0" >510 U.S. 1075</CITATION>
+
+<CITATION party2="Iowa Department of Human Services" party1="Kruse" citation_global_level_id="62507.001" party2_short="Department" line="1" id="116407_3" alternative_keys="['u.s._510_1075']" end="60" entry_type="party_key" lookup_key="krusedepartment#2" id1="114948" start="18" party1_short="Kruse" citation_local_level_id="1" >Kruse v. Iowa Department of Human Services</CITATION>
+
+<NAME end="23" start="18" party1_of="116407_3" all_names="KRUSE" local_name_id="1" id="116407_4" >Kruse</NAME>
+
+<NAME end="60" start="27" all_names="IOWA DEPARTMENT OF HUMAN SERVICES" party2_of="116407_3" local_name_id="2" id="116407_5" >Iowa Department of Human Services</NAME>
+
+<DOCKET end="77" entry_type="docket" lookup_key="u.s._510_1075" id1="116400" start="70" citation_global_level_id="3742.002" line="1" id="116407_2" citation_local_level_id="0" >93-6042</DOCKET>
+
+<DATE start="119" end="135" id="116407_6" >January 18, 1994</DATE>
+
+<NAME start="213" local_name_id="3" end="223" id="116407_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="264" reporter="N. W. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.w.2d_500_455" id1="Dummy_File_49698" volume="500" start="248" page_number="455" standard_reporter="N.W.2D" citation_global_level_id="113548.001" line="3" id="116407_12" citation_local_level_id="2" >500 N. W. 2d 455</CITATION>
+
+<RELATION theme="116407_1" includes_docket_string="93-6042" includes_docket="116407_2" theme_string="510 U.S. 1075" gram_type="apposition" relation_type="asymmetric" id="116407_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1075" X_vs_Y_string="Kruse v. Iowa Department of Human Services" standard_case="116407_1" X_vs_Y="116407_3" gram_type="pre_nom" relation_type="equivalence" id="116407_7" ></RELATION>
+
+<RELATION theme="116407_3" includes_docket_string="93-6042" includes_docket="116407_2" theme_string="Kruse v. Iowa Department of Human Services" gram_type="apposition" relation_type="asymmetric" id="116407_10" ></RELATION>
+
+<RELATION theme="116407_3" party1="116407_4" party1_string="Kruse" theme_string="Kruse v. Iowa Department of Human Services" gram_type="infix" relation_type="asymmetric" id="116407_8" ></RELATION>
+
+<RELATION party2="116407_5" theme="116407_3" theme_string="Kruse v. Iowa Department of Human Services" party2_string="Iowa Department of Human Services" gram_type="infix" relation_type="asymmetric" id="116407_9" ></RELATION>
+

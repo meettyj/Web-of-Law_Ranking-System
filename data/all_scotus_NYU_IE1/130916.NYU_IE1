@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['jacksonflorida#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_963" id1="130910" volume="539" start="0" page_number="963" standard_reporter="U.S." citation_global_level_id="5880.002" line="1" id="130916_1" citation_local_level_id="0" >539 U.S. 963</CITATION>
+
+<CITATION party2="Florida" party1="Jackson" citation_global_level_id="18668.001" party2_short="Florida" line="1" id="130916_3" alternative_keys="['u.s._539_963']" end="35" entry_type="party_key" lookup_key="jacksonflorida#2" id1="130916" start="17" party1_short="Jackson" citation_local_level_id="1" >Jackson v. Florida</CITATION>
+
+<NAME end="24" start="17" party1_of="130916_3" all_names="JACKSON" local_name_id="1" id="130916_4" >Jackson</NAME>
+
+<NAME end="35" start="28" all_names="FLORIDA" party2_of="130916_3" local_name_id="2" id="130916_5" >Florida</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="u.s._539_963" id1="130910" start="45" citation_global_level_id="5880.002" line="1" id="130916_2" citation_local_level_id="0" >02-10401</DOCKET>
+
+<DATE start="95" end="108" id="130916_6" >June 27, 2003</DATE>
+
+<NAME start="185" local_name_id="3" end="195" id="130916_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="234" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_837_410" id1="Dummy_File_43664" volume="837" start="220" page_number="410" standard_reporter="SO.2D" citation_global_level_id="107514.001" line="3" id="130916_12" citation_local_level_id="2" >837 So. 2d 410</CITATION>
+
+<RELATION theme="130916_1" includes_docket_string="02-10401" includes_docket="130916_2" theme_string="539 U.S. 963" gram_type="apposition" relation_type="asymmetric" id="130916_11" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 963" X_vs_Y_string="Jackson v. Florida" standard_case="130916_1" X_vs_Y="130916_3" gram_type="pre_nom" relation_type="equivalence" id="130916_7" ></RELATION>
+
+<RELATION theme="130916_3" includes_docket_string="02-10401" includes_docket="130916_2" theme_string="Jackson v. Florida" gram_type="apposition" relation_type="asymmetric" id="130916_10" ></RELATION>
+
+<RELATION theme="130916_3" party1="130916_4" party1_string="Jackson" theme_string="Jackson v. Florida" gram_type="infix" relation_type="asymmetric" id="130916_8" ></RELATION>
+
+<RELATION party2="130916_5" theme="130916_3" theme_string="Jackson v. Florida" party2_string="Florida" gram_type="infix" relation_type="asymmetric" id="130916_9" ></RELATION>
+

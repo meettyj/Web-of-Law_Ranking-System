@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['contractorsvac#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_814" id1="113041" volume="510" start="0" page_number="814" standard_reporter="U.S." citation_global_level_id="15485.002" line="1" id="113038_1" citation_local_level_id="0" >510 U.S. 814</CITATION>
+
+<CITATION party2="Lee-Vac Corp. et al" party1="Global Divers &amp; Contractors, Inc." citation_global_level_id="15485.005" party2_short="Vac" line="1" id="113038_3" alternative_keys="['u.s._510_814']" end="73" entry_type="party_key" lookup_key="contractorsvac#2" id1="113041" start="17" party1_short="Contractors" citation_local_level_id="1" >Global Divers &amp; Contractors, Inc. v. Lee-Vac Corp. et al</CITATION>
+
+<NAME end="50" start="17" party1_of="113038_3" all_names="GLOBAL DIVERS &amp; CONTRACTORS INC" local_name_id="1" id="113038_4" >Global Divers &amp; Contractors, Inc.</NAME>
+
+<ORGANIZATION start="17" end="49" id="113038_8" >Global Divers &amp; Contractors, Inc</ORGANIZATION>
+
+<NAME end="73" start="54" all_names="LEE-VAC CORP" party2_of="113038_3" local_name_id="2" id="113038_5" >Lee-Vac Corp. et al</NAME>
+
+<DOCKET end="90" entry_type="docket" lookup_key="u.s._510_814" id1="113041" start="83" citation_global_level_id="15485.002" line="1" id="113038_2" citation_local_level_id="0" >92-1807</DOCKET>
+
+<DATE start="86" end="90" id="113038_6" >1807</DATE>
+
+<DATE start="132" end="147" id="113038_7" >October 4, 1993</DATE>
+
+<NAME start="225" local_name_id="3" end="235" id="113038_16" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="274" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_983_1062" id1="Dummy_File_86135" volume="983" start="260" page_number="1062" standard_reporter="F.2D" citation_global_level_id="149985.001" line="3" id="113038_15" citation_local_level_id="2" >983 F. 2d 1062</CITATION>
+
+<RELATION theme="113038_1" includes_docket_string="92-1807" includes_docket="113038_2" theme_string="510 U.S. 814" gram_type="apposition" relation_type="asymmetric" id="113038_13" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 814" X_vs_Y_string="Global Divers &amp; Contractors, Inc. v. Lee-Vac Corp. et al" standard_case="113038_1" X_vs_Y="113038_3" gram_type="pre_nom" relation_type="equivalence" id="113038_9" ></RELATION>
+
+<RELATION theme="113038_3" includes_docket_string="92-1807" includes_docket="113038_2" theme_string="Global Divers &amp; Contractors, Inc. v. Lee-Vac Corp. et al" gram_type="apposition" relation_type="asymmetric" id="113038_12" ></RELATION>
+
+<RELATION theme="113038_3" party1="113038_4" party1_string="Global Divers &amp; Contractors, Inc." theme_string="Global Divers &amp; Contractors, Inc. v. Lee-Vac Corp. et al" gram_type="infix" relation_type="asymmetric" id="113038_10" ></RELATION>
+
+<RELATION party2="113038_5" theme="113038_3" theme_string="Global Divers &amp; Contractors, Inc. v. Lee-Vac Corp. et al" party2_string="Lee-Vac Corp. et al" gram_type="infix" relation_type="asymmetric" id="113038_11" ></RELATION>
+
+<RELATION at_date_string="1807" theme="113038_2" at_date="113038_6" theme_string="92-1807" gram_type="infix" relation_type="asymmetric" id="113038_14" ></RELATION>
+

@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['sierradepartment#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1052" id1="140964" volume="543" start="0" page_number="1052" standard_reporter="U.S." citation_global_level_id="6864.002" line="1" id="140955_1" citation_local_level_id="0" >543 U.S. 1052</CITATION>
+
+<CITATION party2="FLORIDA DEPARTMENT OF TRANSPORTATION" party1="SIERRA" citation_global_level_id="41338.001" party2_short="DEPARTMENT" line="2" id="140955_2" alternative_keys="['u.s._543_1052']" end="64" entry_type="party_key" lookup_key="sierradepartment#1" id1="140955" start="18" party1_short="SIERRA" citation_local_level_id="1" >SIERRA v. FLORIDA DEPARTMENT OF TRANSPORTATION</CITATION>
+
+<NAME end="24" start="18" party1_of="140955_2" all_names="SIERRA" local_name_id="1" id="140955_3" >SIERRA</NAME>
+
+<NAME end="64" start="28" all_names="FLORIDA DEPARTMENT OF TRANSPORTATION" party2_of="140955_2" local_name_id="2" id="140955_4" >FLORIDA DEPARTMENT OF TRANSPORTATION</NAME>
+
+<DOCKET end="80" entry_type="docket" lookup_key="sierradepartment#1" id1="140955" start="74" citation_global_level_id="41338.001" line="3" id="140955_7" citation_local_level_id="1" >04-553</DOCKET>
+
+<ORGANIZATION start="86" end="116" id="140955_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="122" citation_global_level_id="41338.001" end="138" id="140955_9" citation_local_level_id="1" >January 10, 2005</DATE>
+
+<NAME start="160" local_name_id="3" end="164" id="140955_14" all_names="DIST" >Dist</NAME>
+
+<CITATION end="239" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_875_620" id1="Dummy_File_56320" volume="875" start="225" page_number="620" standard_reporter="SO.2D" citation_global_level_id="120170.001" line="8" id="140955_13" citation_local_level_id="2" >875 So. 2d 620</CITATION>
+
+<RELATION theme="140955_2" party1="140955_3" party1_string="SIERRA" theme_string="SIERRA v. FLORIDA DEPARTMENT OF TRANSPORTATION" gram_type="infix" relation_type="asymmetric" id="140955_5" ></RELATION>
+
+<RELATION party2="140955_4" theme="140955_2" theme_string="SIERRA v. FLORIDA DEPARTMENT OF TRANSPORTATION" party2_string="FLORIDA DEPARTMENT OF TRANSPORTATION" gram_type="infix" relation_type="asymmetric" id="140955_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1052" X_vs_Y_string="SIERRA v. FLORIDA DEPARTMENT OF TRANSPORTATION" standard_case="140955_1" X_vs_Y="140955_2" gram_type="multi_line" relation_type="equivalence" id="140955_10" ></RELATION>
+
+<RELATION at_date_string="January 10, 2005" theme="140955_2" at_date="140955_9" theme_string="SIERRA v. FLORIDA DEPARTMENT OF TRANSPORTATION" gram_type="multi_line" relation_type="asymmetric" id="140955_12" ></RELATION>
+
+<RELATION theme="140955_2" includes_docket_string="04-553" includes_docket="140955_7" theme_string="SIERRA v. FLORIDA DEPARTMENT OF TRANSPORTATION" gram_type="multi_line" relation_type="asymmetric" id="140955_11" ></RELATION>
+

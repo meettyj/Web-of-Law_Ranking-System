@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['graceyday#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1093" id1="116564" volume="510" start="0" page_number="1093" standard_reporter="U.S." citation_global_level_id="3277.002" line="1" id="116574_1" citation_local_level_id="0" >510 U.S. 1093</CITATION>
+
+<CITATION party2="Day" party1="Gracey" citation_global_level_id="41820.001" party2_short="Day" line="1" id="116574_3" alternative_keys="['u.s._510_1093']" end="31" entry_type="party_key" lookup_key="graceyday#1" id1="116574" start="18" party1_short="Gracey" citation_local_level_id="1" >Gracey v. Day</CITATION>
+
+<NAME end="24" start="18" party1_of="116574_3" all_names="GRACEY" local_name_id="1" id="116574_4" >Gracey</NAME>
+
+<NAME end="31" start="28" all_names="DAY" party2_of="116574_3" local_name_id="2" id="116574_5" >Day</NAME>
+
+<DOCKET end="47" entry_type="docket" lookup_key="u.s._510_1093" id1="116564" start="41" citation_global_level_id="3277.002" line="1" id="116574_2" citation_local_level_id="0" >93-877</DOCKET>
+
+<DATE start="89" end="105" id="116574_6" >January 24, 1994</DATE>
+
+<NAME start="182" local_name_id="3" end="192" id="116574_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="228" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_6_779" id1="Dummy_File_59215" volume="6" start="217" page_number="779" standard_reporter="F.3D" citation_global_level_id="123065.001" line="3" id="116574_12" citation_local_level_id="2" >6 F. 3d 779</CITATION>
+
+<RELATION theme="116574_1" includes_docket_string="93-877" includes_docket="116574_2" theme_string="510 U.S. 1093" gram_type="apposition" relation_type="asymmetric" id="116574_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1093" X_vs_Y_string="Gracey v. Day" standard_case="116574_1" X_vs_Y="116574_3" gram_type="pre_nom" relation_type="equivalence" id="116574_7" ></RELATION>
+
+<RELATION theme="116574_3" includes_docket_string="93-877" includes_docket="116574_2" theme_string="Gracey v. Day" gram_type="apposition" relation_type="asymmetric" id="116574_10" ></RELATION>
+
+<RELATION theme="116574_3" party1="116574_4" party1_string="Gracey" theme_string="Gracey v. Day" gram_type="infix" relation_type="asymmetric" id="116574_8" ></RELATION>
+
+<RELATION party2="116574_5" theme="116574_3" theme_string="Gracey v. Day" party2_string="Day" gram_type="infix" relation_type="asymmetric" id="116574_9" ></RELATION>
+

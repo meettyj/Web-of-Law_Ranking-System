@@ -1,0 +1,34 @@
+<CITATION alternative_keys="['fitzgeraldvirginia#1', 's.ct._103_1809', 'l.ed.2d_76_371']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._460_1105" id1="110913" volume="460" start="0" page_number="1105" standard_reporter="U.S." citation_global_level_id="19386.002" line="1" id="110913_1" citation_local_level_id="0" >460 U.S. 1105</CITATION>
+
+<CITATION alternative_keys="['u.s._460_1105', 'fitzgeraldvirginia#1', 'l.ed.2d_76_371']" end="33" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._103_1809" id1="110913" volume="103" start="18" page_number="1809" standard_reporter="S.CT." citation_global_level_id="19386.003" line="2" id="110913_2" citation_local_level_id="1" >103 S. Ct. 1809</CITATION>
+
+<DATE start="29" citation_global_level_id="19386.003" end="33" id="110913_3" citation_local_level_id="1" >1809</DATE>
+
+<CITATION alternative_keys="['u.s._460_1105', 's.ct._103_1809', 'fitzgeraldvirginia#1']" end="54" reporter="L. Ed. 2d" entry_type="standard_key" lookup_key="l.ed.2d_76_371" id1="110913" volume="76" start="38" page_number="371" standard_reporter="L.ED.2D" citation_global_level_id="19386.004" line="3" id="110913_5" citation_local_level_id="2" >76 L. Ed. 2d 371</CITATION>
+
+<CITATION party2="VIRGINIA" alternative_keys="['u.s._460_1105', 's.ct._103_1809', 'l.ed.2d_76_371']" party1="Edward B. FITZGERALD," end="104" party1_short="FITZGERALD" entry_type="party_key" party1_role="petitioner" lookup_key="fitzgeraldvirginia#1" id1="110913" start="59" citation_global_level_id="19386.001" party2_short="VIRGINIA" line="4" id="110913_7" citation_local_level_id="3" >Edward B. FITZGERALD, petitioner, v. VIRGINIA</CITATION>
+
+<NAME end="80" start="59" party1_of="110913_7" all_names="EDWARD B FITZGERALD" local_name_id="1" id="110913_8" >Edward B. FITZGERALD,</NAME>
+
+<LEGAL_ROLE start="81" end="91" id="110913_10" >petitioner</LEGAL_ROLE>
+
+<NAME end="104" start="96" all_names="VIRGINIA" party2_of="110913_7" local_name_id="2" id="110913_9" >VIRGINIA</NAME>
+
+<DOCKET end="120" entry_type="docket" lookup_key="fitzgeraldvirginia#1" id1="110913" start="113" citation_global_level_id="19386.001" line="4" id="110913_6" citation_local_level_id="3" >82-5853</DOCKET>
+
+<DATE start="164" end="178" id="110913_17" >April 18, 1983</DATE>
+
+<RELATION at_date_string="1809" theme="110913_2" at_date="110913_3" theme_string="103 S. Ct. 1809" gram_type="infix" relation_type="asymmetric" id="110913_4" ></RELATION>
+
+<RELATION theme="110913_7" includes_docket_string="82-5853" includes_docket="110913_6" theme_string="Edward B. FITZGERALD, petitioner, v. VIRGINIA" gram_type="pre_nom" relation_type="asymmetric" id="110913_13" ></RELATION>
+
+<RELATION theme="110913_7" party1="110913_8" party1_string="Edward B. FITZGERALD," theme_string="Edward B. FITZGERALD, petitioner, v. VIRGINIA" gram_type="infix" relation_type="asymmetric" id="110913_11" ></RELATION>
+
+<RELATION party2="110913_9" theme="110913_7" theme_string="Edward B. FITZGERALD, petitioner, v. VIRGINIA" party2_string="VIRGINIA" gram_type="infix" relation_type="asymmetric" id="110913_12" ></RELATION>
+
+<RELATION standard_case_string="460 U.S. 1105" X_vs_Y_string="Edward B. FITZGERALD, petitioner, v. VIRGINIA" standard_case="110913_1" X_vs_Y="110913_7" gram_type="multi_line" relation_type="equivalence" id="110913_14" ></RELATION>
+
+<RELATION standard_case_string="103 S. Ct. 1809" X_vs_Y_string="Edward B. FITZGERALD, petitioner, v. VIRGINIA" standard_case="110913_2" X_vs_Y="110913_7" gram_type="multi_line" relation_type="equivalence" id="110913_15" ></RELATION>
+
+<RELATION standard_case_string="76 L. Ed. 2d 371" X_vs_Y_string="Edward B. FITZGERALD, petitioner, v. VIRGINIA" standard_case="110913_5" X_vs_Y="110913_7" gram_type="multi_line" relation_type="equivalence" id="110913_16" ></RELATION>
+

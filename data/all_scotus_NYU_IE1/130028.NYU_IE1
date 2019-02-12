@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['taylorohio#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1062" id1="130017" volume="538" start="0" page_number="1062" standard_reporter="U.S." citation_global_level_id="5728.002" line="1" id="130028_1" citation_local_level_id="0" >538 U.S. 1062</CITATION>
+
+<CITATION party2="OHIO" party1="TAYLOR" citation_global_level_id="37541.001" party2_short="OHIO" line="1" id="130028_3" alternative_keys="['u.s._538_1062']" end="32" entry_type="party_key" lookup_key="taylorohio#1" id1="130028" start="18" party1_short="TAYLOR" citation_local_level_id="1" >TAYLOR v. OHIO</CITATION>
+
+<NAME end="24" start="18" party1_of="130028_3" all_names="TAYLOR" local_name_id="1" id="130028_4" >TAYLOR</NAME>
+
+<NAME end="32" start="28" all_names="OHIO" party2_of="130028_3" local_name_id="2" id="130028_5" >OHIO</NAME>
+
+<DOCKET end="49" entry_type="docket" lookup_key="u.s._538_1062" id1="130017" start="42" citation_global_level_id="5728.002" line="1" id="130028_2" citation_local_level_id="0" >02-9799</DOCKET>
+
+<DATE start="91" end="103" id="130028_6" >May 27, 2003</DATE>
+
+<NAME start="191" local_name_id="3" end="194" id="130028_13" all_names="SUP" >Sup</NAME>
+
+<CITATION end="275" reporter="N. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.e.2d_781_72" id1="Dummy_File_211753" volume="781" start="260" page_number="72" standard_reporter="N.E.2D" citation_global_level_id="275603.001" line="3" id="130028_12" citation_local_level_id="2" >781 N. E. 2d 72</CITATION>
+
+<RELATION theme="130028_1" includes_docket_string="02-9799" includes_docket="130028_2" theme_string="538 U.S. 1062" gram_type="apposition" relation_type="asymmetric" id="130028_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1062" X_vs_Y_string="TAYLOR v. OHIO" standard_case="130028_1" X_vs_Y="130028_3" gram_type="pre_nom" relation_type="equivalence" id="130028_7" ></RELATION>
+
+<RELATION theme="130028_3" includes_docket_string="02-9799" includes_docket="130028_2" theme_string="TAYLOR v. OHIO" gram_type="apposition" relation_type="asymmetric" id="130028_10" ></RELATION>
+
+<RELATION theme="130028_3" party1="130028_4" party1_string="TAYLOR" theme_string="TAYLOR v. OHIO" gram_type="infix" relation_type="asymmetric" id="130028_8" ></RELATION>
+
+<RELATION party2="130028_5" theme="130028_3" theme_string="TAYLOR v. OHIO" party2_string="OHIO" gram_type="infix" relation_type="asymmetric" id="130028_9" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['bolducstates#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_913" id1="114338" volume="510" start="0" page_number="913" standard_reporter="U.S." citation_global_level_id="5764.002" line="1" id="114332_1" citation_local_level_id="0" >510 U.S. 913</CITATION>
+
+<CITATION party2="United States" party1="Bolduc" citation_global_level_id="50992.001" party2_short="States" line="1" id="114332_3" alternative_keys="['u.s._510_913']" end="40" entry_type="party_key" lookup_key="bolducstates#1" id1="114332" start="17" party1_short="Bolduc" citation_local_level_id="1" >Bolduc v. United States</CITATION>
+
+<NAME end="23" start="17" party1_of="114332_3" all_names="BOLDUC" local_name_id="1" id="114332_4" >Bolduc</NAME>
+
+<NAME end="40" start="27" all_names="UNITED STATES" party2_of="114332_3" local_name_id="2" id="114332_5" >United States</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._510_913" id1="114338" start="50" citation_global_level_id="5764.002" line="1" id="114332_2" citation_local_level_id="0" >92-9012</DOCKET>
+
+<DATE start="99" end="115" id="114332_6" >October 12, 1993</DATE>
+
+<NAME start="193" local_name_id="3" end="203" id="114332_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="241" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_978_964" id1="Dummy_File_43472" volume="978" start="228" page_number="964" standard_reporter="F.2D" citation_global_level_id="107322.001" line="3" id="114332_12" citation_local_level_id="2" >978 F. 2d 964</CITATION>
+
+<RELATION theme="114332_1" includes_docket_string="92-9012" includes_docket="114332_2" theme_string="510 U.S. 913" gram_type="apposition" relation_type="asymmetric" id="114332_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 913" X_vs_Y_string="Bolduc v. United States" standard_case="114332_1" X_vs_Y="114332_3" gram_type="pre_nom" relation_type="equivalence" id="114332_7" ></RELATION>
+
+<RELATION theme="114332_3" includes_docket_string="92-9012" includes_docket="114332_2" theme_string="Bolduc v. United States" gram_type="apposition" relation_type="asymmetric" id="114332_10" ></RELATION>
+
+<RELATION theme="114332_3" party1="114332_4" party1_string="Bolduc" theme_string="Bolduc v. United States" gram_type="infix" relation_type="asymmetric" id="114332_8" ></RELATION>
+
+<RELATION party2="114332_5" theme="114332_3" theme_string="Bolduc v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="114332_9" ></RELATION>
+

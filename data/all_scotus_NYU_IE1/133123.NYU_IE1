@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['tayloriowa#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_952" id1="133125" volume="540" start="0" page_number="952" standard_reporter="U.S." citation_global_level_id="1099.002" line="1" id="133123_1" citation_local_level_id="0" >540 U.S. 952</CITATION>
+
+<CITATION party2="IOWA" party1="TAYLOR" citation_global_level_id="44559.001" party2_short="IOWA" line="1" id="133123_3" alternative_keys="['u.s._540_952']" end="31" entry_type="party_key" lookup_key="tayloriowa#1" id1="133123" start="17" party1_short="TAYLOR" citation_local_level_id="1" >TAYLOR v. IOWA</CITATION>
+
+<NAME end="23" start="17" party1_of="133123_3" all_names="TAYLOR" local_name_id="1" id="133123_4" >TAYLOR</NAME>
+
+<NAME end="31" start="27" all_names="IOWA" party2_of="133123_3" local_name_id="2" id="133123_5" >IOWA</NAME>
+
+<DOCKET end="48" entry_type="docket" lookup_key="u.s._540_952" id1="133125" start="41" citation_global_level_id="1099.002" line="1" id="133123_2" citation_local_level_id="0" >03-5703</DOCKET>
+
+<DATE start="90" end="106" id="133123_6" >October 14, 2003</DATE>
+
+<NAME start="184" local_name_id="3" end="194" id="133123_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="234" reporter="N. W. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.w.2d_667_56" id1="Dummy_File_20735" volume="667" start="219" page_number="56" standard_reporter="N.W.2D" citation_global_level_id="84585.001" line="3" id="133123_12" citation_local_level_id="2" >667 N. W. 2d 56</CITATION>
+
+<RELATION theme="133123_1" includes_docket_string="03-5703" includes_docket="133123_2" theme_string="540 U.S. 952" gram_type="apposition" relation_type="asymmetric" id="133123_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 952" X_vs_Y_string="TAYLOR v. IOWA" standard_case="133123_1" X_vs_Y="133123_3" gram_type="pre_nom" relation_type="equivalence" id="133123_7" ></RELATION>
+
+<RELATION theme="133123_3" includes_docket_string="03-5703" includes_docket="133123_2" theme_string="TAYLOR v. IOWA" gram_type="apposition" relation_type="asymmetric" id="133123_10" ></RELATION>
+
+<RELATION theme="133123_3" party1="133123_4" party1_string="TAYLOR" theme_string="TAYLOR v. IOWA" gram_type="infix" relation_type="asymmetric" id="133123_8" ></RELATION>
+
+<RELATION party2="133123_5" theme="133123_3" theme_string="TAYLOR v. IOWA" party2_string="IOWA" gram_type="infix" relation_type="asymmetric" id="133123_9" ></RELATION>
+

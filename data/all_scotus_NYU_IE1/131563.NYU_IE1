@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['beckerohio#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_833" id1="131560" volume="540" start="0" page_number="833" standard_reporter="U.S." citation_global_level_id="985.002" line="1" id="131563_1" citation_local_level_id="0" >540 U.S. 833</CITATION>
+
+<CITATION party2="OHIO" party1="BECKER" citation_global_level_id="7862.001" party2_short="OHIO" line="1" id="131563_3" alternative_keys="['u.s._540_833']" end="31" entry_type="party_key" lookup_key="beckerohio#1" id1="131563" start="17" party1_short="BECKER" citation_local_level_id="1" >BECKER v. OHIO</CITATION>
+
+<NAME end="23" start="17" party1_of="131563_3" all_names="BECKER" local_name_id="1" id="131563_4" >BECKER</NAME>
+
+<NAME end="31" start="27" all_names="OHIO" party2_of="131563_3" local_name_id="2" id="131563_5" >OHIO</NAME>
+
+<DOCKET end="49" entry_type="docket" lookup_key="u.s._540_833" id1="131560" start="41" citation_global_level_id="985.002" line="1" id="131563_2" citation_local_level_id="0" >02-10644</DOCKET>
+
+<DATE start="91" end="106" id="131563_6" >October 6, 2003</DATE>
+
+<NAME start="184" local_name_id="3" end="194" id="131563_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="131563_1" includes_docket_string="02-10644" includes_docket="131563_2" theme_string="540 U.S. 833" gram_type="apposition" relation_type="asymmetric" id="131563_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 833" X_vs_Y_string="BECKER v. OHIO" standard_case="131563_1" X_vs_Y="131563_3" gram_type="pre_nom" relation_type="equivalence" id="131563_7" ></RELATION>
+
+<RELATION theme="131563_3" includes_docket_string="02-10644" includes_docket="131563_2" theme_string="BECKER v. OHIO" gram_type="apposition" relation_type="asymmetric" id="131563_10" ></RELATION>
+
+<RELATION theme="131563_3" party1="131563_4" party1_string="BECKER" theme_string="BECKER v. OHIO" gram_type="infix" relation_type="asymmetric" id="131563_8" ></RELATION>
+
+<RELATION party2="131563_5" theme="131563_3" theme_string="BECKER v. OHIO" party2_string="OHIO" gram_type="infix" relation_type="asymmetric" id="131563_9" ></RELATION>
+

@@ -1,0 +1,36 @@
+<CITATION alternative_keys="['systemseast#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_863" id1="113690" volume="510" start="0" page_number="863" standard_reporter="U.S." citation_global_level_id="2377.002" line="1" id="113689_1" citation_local_level_id="0" >510 U.S. 863</CITATION>
+
+<CITATION party2="Keystone Health Plan East, Inc., et al" party1="Plymouth Healthcare Systems, Inc., et al." citation_global_level_id="2377.005" party2_short="East" line="1" id="113689_3" alternative_keys="['u.s._510_863']" end="100" entry_type="party_key" lookup_key="systemseast#1" id1="113690" start="17" party1_short="Systems" citation_local_level_id="1" >Plymouth Healthcare Systems, Inc., et al. v. Keystone Health Plan East, Inc., et al</CITATION>
+
+<NAME end="58" start="17" party1_of="113689_3" all_names="PLYMOUTH HEALTHCARE SYSTEMS INC" local_name_id="1" id="113689_4" >Plymouth Healthcare Systems, Inc., et al.</NAME>
+
+<ORGANIZATION start="17" end="49" id="113689_7" >Plymouth Healthcare Systems, Inc</ORGANIZATION>
+
+<NAME end="100" start="62" all_names="KEYSTONE HEALTH PLAN EAST INC" party2_of="113689_3" local_name_id="2" id="113689_5" >Keystone Health Plan East, Inc., et al</NAME>
+
+<ORGANIZATION start="62" end="92" id="113689_8" >Keystone Health Plan East, Inc</ORGANIZATION>
+
+<DOCKET end="115" entry_type="docket" lookup_key="u.s._510_863" id1="113690" start="110" citation_global_level_id="2377.002" line="1" id="113689_2" citation_local_level_id="0" >93-75</DOCKET>
+
+<ORGANIZATION start="121" end="151" id="113689_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="157" end="172" id="113689_6" >October 4, 1993</DATE>
+
+<NAME start="194" local_name_id="3" end="211" id="113689_10" all_names="APPEAL FROM THE C" >Appeal from the C</NAME>
+
+<NAME start="219" local_name_id="4" end="222" id="113689_11" all_names="CIR" >Cir</NAME>
+
+<NAME start="249" local_name_id="5" end="259" id="113689_18" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="297" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_993_878" id1="Dummy_File_27107" volume="993" start="284" page_number="878" standard_reporter="F.2D" citation_global_level_id="90957.001" line="3" id="113689_17" citation_local_level_id="2" >993 F. 2d 878</CITATION>
+
+<RELATION theme="113689_1" includes_docket_string="93-75" includes_docket="113689_2" theme_string="510 U.S. 863" gram_type="apposition" relation_type="asymmetric" id="113689_16" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 863" X_vs_Y_string="Plymouth Healthcare Systems, Inc., et al. v. Keystone Health Plan East, Inc., et al" standard_case="113689_1" X_vs_Y="113689_3" gram_type="pre_nom" relation_type="equivalence" id="113689_12" ></RELATION>
+
+<RELATION theme="113689_3" includes_docket_string="93-75" includes_docket="113689_2" theme_string="Plymouth Healthcare Systems, Inc., et al. v. Keystone Health Plan East, Inc., et al" gram_type="apposition" relation_type="asymmetric" id="113689_15" ></RELATION>
+
+<RELATION theme="113689_3" party1="113689_4" party1_string="Plymouth Healthcare Systems, Inc., et al." theme_string="Plymouth Healthcare Systems, Inc., et al. v. Keystone Health Plan East, Inc., et al" gram_type="infix" relation_type="asymmetric" id="113689_13" ></RELATION>
+
+<RELATION party2="113689_5" theme="113689_3" theme_string="Plymouth Healthcare Systems, Inc., et al. v. Keystone Health Plan East, Inc., et al" party2_string="Keystone Health Plan East, Inc., et al" gram_type="infix" relation_type="asymmetric" id="113689_14" ></RELATION>
+

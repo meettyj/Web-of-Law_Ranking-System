@@ -1,0 +1,46 @@
+<CITATION alternative_keys="['goodseagleton#1', 's.ct._83_1866', 'l.ed.2d_10_1043']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._374_496" id1="106665" volume="374" start="0" page_number="496" standard_reporter="U.S." citation_global_level_id="47526.002" line="1" id="106665_1" citation_local_level_id="0" >374 U.S. 496</CITATION>
+
+<CITATION alternative_keys="['u.s._374_496', 'goodseagleton#1', 'l.ed.2d_10_1043']" end="31" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._83_1866" id1="106665" volume="83" start="17" page_number="1866" standard_reporter="S.CT." citation_global_level_id="47526.003" line="1" id="106665_2" citation_local_level_id="1" >83 S. Ct. 1866</CITATION>
+
+<NAME start="20" local_name_id="1" end="25" id="106665_9" all_names="S CT" >S. Ct</NAME>
+
+<DATE start="27" citation_global_level_id="47526.003" end="31" id="106665_7" citation_local_level_id="1" >1866</DATE>
+
+<CITATION alternative_keys="['u.s._374_496', 's.ct._83_1866', 'goodseagleton#1']" end="53" reporter="L. Ed. 2d" entry_type="standard_key" lookup_key="l.ed.2d_10_1043" id1="106665" volume="10" start="36" page_number="1043" standard_reporter="L.ED.2D" citation_global_level_id="47526.004" line="1" id="106665_3" citation_local_level_id="2" >10 L. Ed. 2d 1043</CITATION>
+
+<CITATION party2="EAGLETON, Attorney General of Missouri, et al" party1="CARDINAL SPORTING GOODS CO., Inc., et al." citation_global_level_id="47526.005" party2_short="EAGLETON" line="1" id="106665_4" alternative_keys="['s.ct._83_1866', 'l.ed.2d_10_1043', 'u.s._374_496']" end="148" entry_type="party_key" lookup_key="goodseagleton#1" id1="106665" start="58" party1_short="GOODS" citation_local_level_id="3" >CARDINAL SPORTING GOODS CO., Inc., et al. v. EAGLETON, Attorney General of Missouri, et al</CITATION>
+
+<NAME end="99" start="58" party1_of="106665_4" all_names="CARDINAL SPORTING GOODS CO INC" local_name_id="2" id="106665_5" >CARDINAL SPORTING GOODS CO., Inc., et al.</NAME>
+
+<ORGANIZATION start="58" end="90" id="106665_10" >CARDINAL SPORTING GOODS CO., Inc</ORGANIZATION>
+
+<NAME end="148" start="103" all_names="EAGLETON ATTORNEY GENERAL OF MISSOURI" party2_of="106665_4" local_name_id="3" id="106665_6" >EAGLETON, Attorney General of Missouri, et al</NAME>
+
+<PROFESSION start="113" end="141" id="106665_11" >Attorney General of Missouri</PROFESSION>
+
+<DATE start="206" end="219" id="106665_8" >June 17, 1963</DATE>
+
+<NAME start="231" local_name_id="4" end="245" id="106665_12" all_names="NORMAN DIAMOND" >Norman Diamond</NAME>
+
+<LEGAL_ROLE start="251" end="261" plural="True" id="106665_13" >appellants</LEGAL_ROLE>
+
+<NAME start="269" local_name_id="5" end="287" id="106665_20" all_names="SAMUEL H LIBERMAN" >Samuel H. Liberman</NAME>
+
+<LEGAL_ROLE start="293" end="302" plural="True" id="106665_21" party="party2" >appellees</LEGAL_ROLE>
+
+<NAME start="314" local_name_id="6" end="320" id="106665_22" all_names="CURIAM" >CURIAM</NAME>
+
+<ORGANIZATION start="431" end="496" id="106665_23" >United States District Court for the Eastern District of Missouri</ORGANIZATION>
+
+<RELATION standard_case_string="374 U.S. 496" X_vs_Y_string="CARDINAL SPORTING GOODS CO., Inc., et al. v. EAGLETON, Attorney General of Missouri, et al" standard_case="106665_1" X_vs_Y="106665_4" gram_type="pre_nom" relation_type="equivalence" id="106665_16" ></RELATION>
+
+<RELATION standard_case_string="83 S. Ct. 1866" X_vs_Y_string="CARDINAL SPORTING GOODS CO., Inc., et al. v. EAGLETON, Attorney General of Missouri, et al" standard_case="106665_2" X_vs_Y="106665_4" gram_type="pre_nom" relation_type="equivalence" id="106665_17" ></RELATION>
+
+<RELATION at_date_string="1866" theme="106665_2" at_date="106665_7" theme_string="83 S. Ct. 1866" gram_type="infix" relation_type="asymmetric" id="106665_14" ></RELATION>
+
+<RELATION standard_case_string="10 L. Ed. 2d 1043" X_vs_Y_string="CARDINAL SPORTING GOODS CO., Inc., et al. v. EAGLETON, Attorney General of Missouri, et al" standard_case="106665_3" X_vs_Y="106665_4" gram_type="pre_nom" relation_type="equivalence" id="106665_15" ></RELATION>
+
+<RELATION theme="106665_4" party1="106665_5" party1_string="CARDINAL SPORTING GOODS CO., Inc., et al." theme_string="CARDINAL SPORTING GOODS CO., Inc., et al. v. EAGLETON, Attorney General of Missouri, et al" gram_type="infix" relation_type="asymmetric" id="106665_18" ></RELATION>
+
+<RELATION party2="106665_6" theme="106665_4" theme_string="CARDINAL SPORTING GOODS CO., Inc., et al. v. EAGLETON, Attorney General of Missouri, et al" party2_string="EAGLETON, Attorney General of Missouri, et al" gram_type="infix" relation_type="asymmetric" id="106665_19" ></RELATION>
+

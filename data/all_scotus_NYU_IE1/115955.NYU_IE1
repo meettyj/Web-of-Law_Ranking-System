@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['krugtrust#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1042" id1="115951" volume="510" start="0" page_number="1042" standard_reporter="U.S." citation_global_level_id="3944.002" line="1" id="115955_1" citation_local_level_id="0" >510 U.S. 1042</CITATION>
+
+<CITATION party2="Valley Fidelity Bank &amp; Trust Co. et al" party1="Krug" citation_global_level_id="3944.006" party2_short="Trust" line="1" id="115955_3" alternative_keys="['u.s._510_1042']" end="64" entry_type="party_key" lookup_key="krugtrust#2" id1="115951" start="18" party1_short="Krug" citation_local_level_id="1" >Krug v. Valley Fidelity Bank &amp; Trust Co. et al</CITATION>
+
+<NAME end="22" start="18" party1_of="115955_3" all_names="KRUG" local_name_id="1" id="115955_4" >Krug</NAME>
+
+<NAME end="64" start="26" all_names="VALLEY FIDELITY BANK &amp; TRUST CO" party2_of="115955_3" local_name_id="2" id="115955_5" >Valley Fidelity Bank &amp; Trust Co. et al</NAME>
+
+<DOCKET end="80" entry_type="docket" lookup_key="u.s._510_1042" id1="115951" start="74" citation_global_level_id="3944.002" line="1" id="115955_2" citation_local_level_id="0" >93-606</DOCKET>
+
+<DATE start="122" end="138" id="115955_6" >January 10, 1994</DATE>
+
+<NAME start="216" local_name_id="3" end="226" id="115955_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="264" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_999_540" id1="Dummy_File_175567" volume="999" start="251" page_number="540" standard_reporter="F.2D" citation_global_level_id="239417.001" line="3" id="115955_12" citation_local_level_id="2" >999 F. 2d 540</CITATION>
+
+<RELATION theme="115955_1" includes_docket_string="93-606" includes_docket="115955_2" theme_string="510 U.S. 1042" gram_type="apposition" relation_type="asymmetric" id="115955_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1042" X_vs_Y_string="Krug v. Valley Fidelity Bank &amp; Trust Co. et al" standard_case="115955_1" X_vs_Y="115955_3" gram_type="pre_nom" relation_type="equivalence" id="115955_7" ></RELATION>
+
+<RELATION theme="115955_3" includes_docket_string="93-606" includes_docket="115955_2" theme_string="Krug v. Valley Fidelity Bank &amp; Trust Co. et al" gram_type="apposition" relation_type="asymmetric" id="115955_10" ></RELATION>
+
+<RELATION theme="115955_3" party1="115955_4" party1_string="Krug" theme_string="Krug v. Valley Fidelity Bank &amp; Trust Co. et al" gram_type="infix" relation_type="asymmetric" id="115955_8" ></RELATION>
+
+<RELATION party2="115955_5" theme="115955_3" theme_string="Krug v. Valley Fidelity Bank &amp; Trust Co. et al" party2_string="Valley Fidelity Bank &amp; Trust Co. et al" gram_type="infix" relation_type="asymmetric" id="115955_9" ></RELATION>
+

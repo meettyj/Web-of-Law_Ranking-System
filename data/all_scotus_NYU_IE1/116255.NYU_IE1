@@ -1,0 +1,42 @@
+<CITATION alternative_keys="['tennesseemiddlebrooks#4']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1064" id1="116260" volume="510" start="0" page_number="1064" standard_reporter="U.S." citation_global_level_id="1869.002" line="1" id="116255_1" citation_local_level_id="0" >510 U.S. 1064</CITATION>
+
+<CITATION party2="Middlebrooks" party1="Tennessee" citation_global_level_id="50872.001" party2_short="Middlebrooks" line="1" id="116255_3" alternative_keys="['u.s._510_1064']" end="43" entry_type="party_key" lookup_key="tennesseemiddlebrooks#4" id1="116255" start="18" party1_short="Tennessee" citation_local_level_id="1" >Tennessee v. Middlebrooks</CITATION>
+
+<NAME end="27" start="18" party1_of="116255_3" all_names="TENNESSEE" local_name_id="1" id="116255_5" >Tennessee</NAME>
+
+<NAME end="43" start="31" all_names="MIDDLEBROOKS" party2_of="116255_3" local_name_id="2" id="116255_6" >Middlebrooks</NAME>
+
+<CITATION party2="Evans" party1="Tennessee" citation_global_level_id="100302.001" party2_short="Evans" line="1" id="116255_4" end="67" no_current_file="True" entry_type="party_key" lookup_key="tennesseeevans#1" id1="Dummy_File_36452" start="49" party1_short="Tennessee" citation_local_level_id="2" >Tennessee v. Evans</CITATION>
+
+<NAME end="58" start="49" party1_of="116255_4" all_names="TENNESSEE" local_name_id="1" id="116255_7" >Tennessee</NAME>
+
+<NAME end="67" start="62" all_names="EVANS	JONATHAN VAUGHN EVANS	CERTIORARI AS TO JONATHAN VAUGHN EVANS" party2_of="116255_4" local_name_id="3" id="116255_8" >Evans</NAME>
+
+<DOCKET end="83" entry_type="docket" lookup_key="tennesseemiddlebrooks#4" id1="116255" start="77" citation_global_level_id="50872.001" line="1" id="116255_2" citation_local_level_id="1" >92-989</DOCKET>
+
+<DATE start="125" end="141" id="116255_9" >January 10, 1994</DATE>
+
+<LEGAL_ROLE start="219" local_name_id="3" end="239" id="116255_18" name="Jonathan Vaughn Evans" >Motion of respondent</LEGAL_ROLE>
+
+<NAME start="240" local_name_id="3" end="261" id="116255_19" all_names="EVANS	JONATHAN VAUGHN EVANS	CERTIORARI AS TO JONATHAN VAUGHN EVANS" >Jonathan Vaughn Evans</NAME>
+
+<NAME start="310" local_name_id="3" end="348" id="116255_20" all_names="EVANS	JONATHAN VAUGHN EVANS	CERTIORARI AS TO JONATHAN VAUGHN EVANS" >Certiorari as to Jonathan Vaughn Evans</NAME>
+
+<CITATION end="401" reporter="S.W.2d" entry_type="standard_key" no_current_file="True" lookup_key="s.w.2d_838_185" id1="Dummy_File_180744" volume="838" start="373" page_number="185" standard_reporter="S.W.2D" citation_global_level_id="244594.001" line="3" id="116255_17" citation_local_level_id="3" >838 S.W.2d 185 (second case)</CITATION>
+
+<RELATION standard_case_string="510 U.S. 1064" X_vs_Y_string="Tennessee v. Middlebrooks" standard_case="116255_1" X_vs_Y="116255_3" gram_type="pre_nom" relation_type="equivalence" id="116255_10" ></RELATION>
+
+<RELATION theme="116255_3" includes_docket_string="92-989" includes_docket="116255_2" theme_string="Tennessee v. Middlebrooks" gram_type="apposition" relation_type="asymmetric" id="116255_16" ></RELATION>
+
+<RELATION theme="116255_3" party1="116255_5" party1_string="Tennessee" theme_string="Tennessee v. Middlebrooks" gram_type="infix" relation_type="asymmetric" id="116255_11" ></RELATION>
+
+<RELATION party2="116255_6" theme="116255_3" theme_string="Tennessee v. Middlebrooks" party2_string="Middlebrooks" gram_type="infix" relation_type="asymmetric" id="116255_12" ></RELATION>
+
+<RELATION theme="116255_4" includes_docket_string="92-989" includes_docket="116255_2" theme_string="Tennessee v. Evans" gram_type="apposition" relation_type="asymmetric" id="116255_15" ></RELATION>
+
+<RELATION theme="116255_4" party1="116255_7" party1_string="Tennessee" theme_string="Tennessee v. Evans" gram_type="infix" relation_type="asymmetric" id="116255_13" ></RELATION>
+
+<RELATION party2="116255_8" theme="116255_4" theme_string="Tennessee v. Evans" party2_string="Evans" gram_type="infix" relation_type="asymmetric" id="116255_14" ></RELATION>
+
+<RELATION theme="116255_19" legal_role="116255_18" id="116255_21" theme_string="Jonathan Vaughn Evans" gram_type="pre_nom" relation_type="asymmetric" legal_role_string="Motion of respondent" ></RELATION>
+

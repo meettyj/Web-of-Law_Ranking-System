@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['greenlindsey#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1202" id1="117709" volume="510" start="0" page_number="1202" standard_reporter="U.S." citation_global_level_id="6628.002" line="1" id="117700_1" citation_local_level_id="0" >510 U.S. 1202</CITATION>
+
+<CITATION party2="Lindsey" party1="Green" citation_global_level_id="21499.001" party2_short="Lindsey" line="1" id="117700_3" alternative_keys="['u.s._510_1202']" end="34" entry_type="party_key" lookup_key="greenlindsey#1" id1="117700" start="18" party1_short="Green" citation_local_level_id="1" >Green v. Lindsey</CITATION>
+
+<NAME end="23" start="18" party1_of="117700_3" all_names="GREEN" local_name_id="1" id="117700_4" >Green</NAME>
+
+<NAME end="34" start="27" all_names="LINDSEY" party2_of="117700_3" local_name_id="2" id="117700_5" >Lindsey</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="u.s._510_1202" id1="117709" start="44" citation_global_level_id="6628.002" line="1" id="117700_2" citation_local_level_id="0" >93-7660</DOCKET>
+
+<DATE start="93" end="107" id="117700_6" >March 21, 1994</DATE>
+
+<NAME start="184" local_name_id="3" end="194" id="117700_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="231" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_9_1537" id1="Dummy_File_28750" volume="9" start="219" page_number="1537" standard_reporter="F.3D" citation_global_level_id="92600.001" line="3" id="117700_12" citation_local_level_id="2" >9 F. 3d 1537</CITATION>
+
+<RELATION theme="117700_1" includes_docket_string="93-7660" includes_docket="117700_2" theme_string="510 U.S. 1202" gram_type="apposition" relation_type="asymmetric" id="117700_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1202" X_vs_Y_string="Green v. Lindsey" standard_case="117700_1" X_vs_Y="117700_3" gram_type="pre_nom" relation_type="equivalence" id="117700_7" ></RELATION>
+
+<RELATION theme="117700_3" includes_docket_string="93-7660" includes_docket="117700_2" theme_string="Green v. Lindsey" gram_type="apposition" relation_type="asymmetric" id="117700_10" ></RELATION>
+
+<RELATION theme="117700_3" party1="117700_4" party1_string="Green" theme_string="Green v. Lindsey" gram_type="infix" relation_type="asymmetric" id="117700_8" ></RELATION>
+
+<RELATION party2="117700_5" theme="117700_3" theme_string="Green v. Lindsey" party2_string="Lindsey" gram_type="infix" relation_type="asymmetric" id="117700_9" ></RELATION>
+

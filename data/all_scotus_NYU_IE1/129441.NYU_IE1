@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['malonepayne#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1018" id1="129438" volume="538" start="0" page_number="1018" standard_reporter="U.S." citation_global_level_id="6614.002" line="1" id="129441_1" citation_local_level_id="0" >538 U.S. 1018</CITATION>
+
+<CITATION party2="PAYNE" party1="MALONE" citation_global_level_id="21457.001" party2_short="PAYNE" line="1" id="129441_3" alternative_keys="['u.s._538_1018']" end="33" entry_type="party_key" lookup_key="malonepayne#1" id1="129441" start="18" party1_short="MALONE" citation_local_level_id="1" >MALONE v. PAYNE</CITATION>
+
+<NAME end="24" start="18" party1_of="129441_3" all_names="MALONE" local_name_id="1" id="129441_4" >MALONE</NAME>
+
+<NAME end="33" start="28" all_names="PAYNE" party2_of="129441_3" local_name_id="2" id="129441_5" >PAYNE</NAME>
+
+<DOCKET end="50" entry_type="docket" lookup_key="u.s._538_1018" id1="129438" start="43" citation_global_level_id="6614.002" line="1" id="129441_2" citation_local_level_id="0" >02-9628</DOCKET>
+
+<DATE start="92" end="103" id="129441_6" >May 5, 2003</DATE>
+
+<NAME start="232" local_name_id="3" end="235" id="129441_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="129441_1" includes_docket_string="02-9628" includes_docket="129441_2" theme_string="538 U.S. 1018" gram_type="apposition" relation_type="asymmetric" id="129441_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1018" X_vs_Y_string="MALONE v. PAYNE" standard_case="129441_1" X_vs_Y="129441_3" gram_type="pre_nom" relation_type="equivalence" id="129441_7" ></RELATION>
+
+<RELATION theme="129441_3" includes_docket_string="02-9628" includes_docket="129441_2" theme_string="MALONE v. PAYNE" gram_type="apposition" relation_type="asymmetric" id="129441_10" ></RELATION>
+
+<RELATION theme="129441_3" party1="129441_4" party1_string="MALONE" theme_string="MALONE v. PAYNE" gram_type="infix" relation_type="asymmetric" id="129441_8" ></RELATION>
+
+<RELATION party2="129441_5" theme="129441_3" theme_string="MALONE v. PAYNE" party2_string="PAYNE" gram_type="infix" relation_type="asymmetric" id="129441_9" ></RELATION>
+

@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['weatherspooncurtis#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_987" id1="133574" volume="540" start="0" page_number="987" standard_reporter="U.S." citation_global_level_id="9225.002" line="1" id="133564_1" citation_local_level_id="0" >540 U.S. 987</CITATION>
+
+<CITATION party2="CURTIS, WARDEN" party1="WEATHERSPOON" citation_global_level_id="9225.008" party2_short="CURTIS" line="1" id="133564_3" alternative_keys="['u.s._540_987']" end="47" entry_type="party_key" lookup_key="weatherspooncurtis#1" id1="133574" start="17" party1_short="WEATHERSPOON" citation_local_level_id="1" >WEATHERSPOON v. CURTIS, WARDEN</CITATION>
+
+<NAME end="29" start="17" party1_of="133564_3" all_names="WEATHERSPOON" local_name_id="1" id="133564_4" >WEATHERSPOON</NAME>
+
+<NAME end="47" start="33" all_names="CURTIS WARDEN" party2_of="133564_3" local_name_id="2" id="133564_5" >CURTIS, WARDEN</NAME>
+
+<DOCKET end="64" entry_type="docket" lookup_key="u.s._540_987" id1="133574" start="57" citation_global_level_id="9225.002" line="1" id="133564_2" citation_local_level_id="0" >03-6097</DOCKET>
+
+<DATE start="106" end="122" id="133564_6" >November 3, 2003</DATE>
+
+<NAME start="200" local_name_id="3" end="210" id="133564_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="133564_1" includes_docket_string="03-6097" includes_docket="133564_2" theme_string="540 U.S. 987" gram_type="apposition" relation_type="asymmetric" id="133564_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 987" X_vs_Y_string="WEATHERSPOON v. CURTIS, WARDEN" standard_case="133564_1" X_vs_Y="133564_3" gram_type="pre_nom" relation_type="equivalence" id="133564_7" ></RELATION>
+
+<RELATION theme="133564_3" includes_docket_string="03-6097" includes_docket="133564_2" theme_string="WEATHERSPOON v. CURTIS, WARDEN" gram_type="apposition" relation_type="asymmetric" id="133564_10" ></RELATION>
+
+<RELATION theme="133564_3" party1="133564_4" party1_string="WEATHERSPOON" theme_string="WEATHERSPOON v. CURTIS, WARDEN" gram_type="infix" relation_type="asymmetric" id="133564_8" ></RELATION>
+
+<RELATION party2="133564_5" theme="133564_3" theme_string="WEATHERSPOON v. CURTIS, WARDEN" party2_string="CURTIS, WARDEN" gram_type="infix" relation_type="asymmetric" id="133564_9" ></RELATION>
+

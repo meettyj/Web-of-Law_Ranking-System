@@ -1,0 +1,40 @@
+<CITATION alternative_keys="['servicesgas#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_817" id1="131359" volume="540" start="0" page_number="817" standard_reporter="U.S." citation_global_level_id="4415.002" line="1" id="131361_1" citation_local_level_id="0" >540 U.S. 817</CITATION>
+
+<CITATION party2="INDIANA GAS CO., INC., ET AL" party1="MIDWEST GAS SERVICES, INC., ET AL." citation_global_level_id="4415.004" party2_short="GAS" line="1" id="131361_3" alternative_keys="['u.s._540_817']" end="83" entry_type="party_key" lookup_key="servicesgas#2" id1="131359" start="17" party1_short="SERVICES" citation_local_level_id="1" >MIDWEST GAS SERVICES, INC., ET AL. v. INDIANA GAS CO., INC., ET AL</CITATION>
+
+<NAME end="51" start="17" party1_of="131361_3" all_names="MIDWEST GAS SERVICES INC" local_name_id="1" id="131361_4" >MIDWEST GAS SERVICES, INC., ET AL.</NAME>
+
+<ORGANIZATION start="17" end="42" id="131361_8" >MIDWEST GAS SERVICES, INC</ORGANIZATION>
+
+<NAME end="83" start="55" all_names="INDIANA GAS CO INC" party2_of="131361_3" local_name_id="2" id="131361_5" >INDIANA GAS CO., INC., ET AL</NAME>
+
+<ORGANIZATION start="55" end="75" id="131361_9" >INDIANA GAS CO., INC</ORGANIZATION>
+
+<DOCKET end="100" entry_type="docket" lookup_key="u.s._540_817" id1="131359" start="93" citation_global_level_id="4415.002" line="1" id="131361_2" citation_local_level_id="0" >02-1713</DOCKET>
+
+<DATE start="96" end="100" id="131361_6" >1713</DATE>
+
+<ORGANIZATION start="106" end="136" id="131361_10" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="142" end="157" id="131361_7" >October 6, 2003</DATE>
+
+<NAME start="179" local_name_id="3" end="196" id="131361_11" all_names="APPEAL FROM THE C" >Appeal from the C</NAME>
+
+<NAME start="205" local_name_id="4" end="208" id="131361_12" all_names="CIR" >Cir</NAME>
+
+<NAME start="235" local_name_id="5" end="245" id="131361_20" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="283" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_317_703" id1="Dummy_File_169188" volume="317" start="270" page_number="703" standard_reporter="F.3D" citation_global_level_id="233038.001" line="3" id="131361_19" citation_local_level_id="2" >317 F. 3d 703</CITATION>
+
+<RELATION theme="131361_1" includes_docket_string="02-1713" includes_docket="131361_2" theme_string="540 U.S. 817" gram_type="apposition" relation_type="asymmetric" id="131361_17" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 817" X_vs_Y_string="MIDWEST GAS SERVICES, INC., ET AL. v. INDIANA GAS CO., INC., ET AL" standard_case="131361_1" X_vs_Y="131361_3" gram_type="pre_nom" relation_type="equivalence" id="131361_13" ></RELATION>
+
+<RELATION theme="131361_3" includes_docket_string="02-1713" includes_docket="131361_2" theme_string="MIDWEST GAS SERVICES, INC., ET AL. v. INDIANA GAS CO., INC., ET AL" gram_type="apposition" relation_type="asymmetric" id="131361_16" ></RELATION>
+
+<RELATION theme="131361_3" party1="131361_4" party1_string="MIDWEST GAS SERVICES, INC., ET AL." theme_string="MIDWEST GAS SERVICES, INC., ET AL. v. INDIANA GAS CO., INC., ET AL" gram_type="infix" relation_type="asymmetric" id="131361_14" ></RELATION>
+
+<RELATION party2="131361_5" theme="131361_3" theme_string="MIDWEST GAS SERVICES, INC., ET AL. v. INDIANA GAS CO., INC., ET AL" party2_string="INDIANA GAS CO., INC., ET AL" gram_type="infix" relation_type="asymmetric" id="131361_15" ></RELATION>
+
+<RELATION at_date_string="1713" theme="131361_2" at_date="131361_6" theme_string="02-1713" gram_type="infix" relation_type="asymmetric" id="131361_18" ></RELATION>
+

@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['rigdonstates#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_911" id1="118631" volume="535" start="0" page_number="911" standard_reporter="U.S." citation_global_level_id="9822.002" line="1" id="118631_1" citation_local_level_id="0" >535 U.S. 911</CITATION>
+
+<CITATION party2="UNITED STATES" party1="RIGDON" citation_global_level_id="9822.001" party2_short="STATES" line="2" id="118631_2" alternative_keys="['u.s._535_911']" end="40" entry_type="party_key" lookup_key="rigdonstates#1" id1="118631" start="17" party1_short="RIGDON" citation_local_level_id="1" >RIGDON v. UNITED STATES</CITATION>
+
+<NAME end="23" start="17" party1_of="118631_2" all_names="RIGDON" local_name_id="1" id="118631_3" >RIGDON</NAME>
+
+<NAME end="40" start="27" all_names="UNITED STATES" party2_of="118631_2" local_name_id="2" id="118631_4" >UNITED STATES</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="rigdonstates#1" id1="118631" start="50" citation_global_level_id="9822.001" line="3" id="118631_7" citation_local_level_id="1" >01-8132</DOCKET>
+
+<DATE start="103" citation_global_level_id="9822.001" end="116" id="118631_8" citation_local_level_id="1" >March 4, 2002</DATE>
+
+<NAME start="148" local_name_id="3" end="151" id="118631_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="118631_2" party1="118631_3" party1_string="RIGDON" theme_string="RIGDON v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="118631_5" ></RELATION>
+
+<RELATION party2="118631_4" theme="118631_2" theme_string="RIGDON v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="118631_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 911" X_vs_Y_string="RIGDON v. UNITED STATES" standard_case="118631_1" X_vs_Y="118631_2" gram_type="multi_line" relation_type="equivalence" id="118631_9" ></RELATION>
+
+<RELATION at_date_string="March 4, 2002" theme="118631_2" at_date="118631_8" theme_string="RIGDON v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="118631_11" ></RELATION>
+
+<RELATION theme="118631_2" includes_docket_string="01-8132" includes_docket="118631_7" theme_string="RIGDON v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="118631_10" ></RELATION>
+

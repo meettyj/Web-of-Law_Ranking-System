@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['ronwinupham#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_945" id1="114733" volume="510" start="0" page_number="945" standard_reporter="U.S." citation_global_level_id="10281.002" line="1" id="114731_1" citation_local_level_id="0" >510 U.S. 945</CITATION>
+
+<CITATION party2="Smith Barney, Harris Upham &amp; Co., Inc., et al" party1="Ronwin" citation_global_level_id="10281.005" party2_short="Upham" line="1" id="114731_3" alternative_keys="['u.s._510_945']" end="72" entry_type="party_key" lookup_key="ronwinupham#2" id1="114733" start="17" party1_short="Ronwin" citation_local_level_id="1" >Ronwin v. Smith Barney, Harris Upham &amp; Co., Inc., et al</CITATION>
+
+<NAME end="23" start="17" party1_of="114731_3" all_names="RONWIN" local_name_id="1" id="114731_4" >Ronwin</NAME>
+
+<NAME end="72" start="27" all_names="SMITH BARNEY HARRIS UPHAM &amp; CO INC" party2_of="114731_3" local_name_id="2" id="114731_5" >Smith Barney, Harris Upham &amp; Co., Inc., et al</NAME>
+
+<DOCKET end="88" entry_type="docket" lookup_key="u.s._510_945" id1="114733" start="82" citation_global_level_id="10281.002" line="1" id="114731_2" citation_local_level_id="0" >93-257</DOCKET>
+
+<DATE start="130" end="146" id="114731_6" >November 1, 1993</DATE>
+
+<NAME start="224" local_name_id="3" end="234" id="114731_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="273" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_996_1221" id1="Dummy_File_133345" volume="996" start="259" page_number="1221" standard_reporter="F.2D" citation_global_level_id="197195.001" line="3" id="114731_12" citation_local_level_id="2" >996 F. 2d 1221</CITATION>
+
+<RELATION theme="114731_1" includes_docket_string="93-257" includes_docket="114731_2" theme_string="510 U.S. 945" gram_type="apposition" relation_type="asymmetric" id="114731_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 945" X_vs_Y_string="Ronwin v. Smith Barney, Harris Upham &amp; Co., Inc., et al" standard_case="114731_1" X_vs_Y="114731_3" gram_type="pre_nom" relation_type="equivalence" id="114731_7" ></RELATION>
+
+<RELATION theme="114731_3" includes_docket_string="93-257" includes_docket="114731_2" theme_string="Ronwin v. Smith Barney, Harris Upham &amp; Co., Inc., et al" gram_type="apposition" relation_type="asymmetric" id="114731_10" ></RELATION>
+
+<RELATION theme="114731_3" party1="114731_4" party1_string="Ronwin" theme_string="Ronwin v. Smith Barney, Harris Upham &amp; Co., Inc., et al" gram_type="infix" relation_type="asymmetric" id="114731_8" ></RELATION>
+
+<RELATION party2="114731_5" theme="114731_3" theme_string="Ronwin v. Smith Barney, Harris Upham &amp; Co., Inc., et al" party2_string="Smith Barney, Harris Upham &amp; Co., Inc., et al" gram_type="infix" relation_type="asymmetric" id="114731_9" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['larsondorsey#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_843" id1="113422" volume="510" start="0" page_number="843" standard_reporter="U.S." citation_global_level_id="11006.002" line="1" id="113426_1" citation_local_level_id="0" >510 U.S. 843</CITATION>
+
+<CITATION party2="Dorsey, Warden" party1="Larson" citation_global_level_id="11006.005" party2_short="Dorsey" line="1" id="113426_3" alternative_keys="['u.s._510_843']" end="41" entry_type="party_key" lookup_key="larsondorsey#1" id1="113422" start="17" party1_short="Larson" citation_local_level_id="1" >Larson v. Dorsey, Warden</CITATION>
+
+<NAME end="23" start="17" party1_of="113426_3" all_names="LARSON" local_name_id="1" id="113426_4" >Larson</NAME>
+
+<NAME end="41" start="27" all_names="DORSEY WARDEN" party2_of="113426_3" local_name_id="2" id="113426_5" >Dorsey, Warden</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._510_843" id1="113422" start="51" citation_global_level_id="11006.002" line="1" id="113426_2" citation_local_level_id="0" >92-8968</DOCKET>
+
+<DATE start="100" end="115" id="113426_6" >October 4, 1993</DATE>
+
+<NAME start="194" local_name_id="3" end="204" id="113426_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="242" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_989_507" id1="Dummy_File_78264" volume="989" start="229" page_number="507" standard_reporter="F.2D" citation_global_level_id="142114.001" line="3" id="113426_12" citation_local_level_id="2" >989 F. 2d 507</CITATION>
+
+<RELATION theme="113426_1" includes_docket_string="92-8968" includes_docket="113426_2" theme_string="510 U.S. 843" gram_type="apposition" relation_type="asymmetric" id="113426_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 843" X_vs_Y_string="Larson v. Dorsey, Warden" standard_case="113426_1" X_vs_Y="113426_3" gram_type="pre_nom" relation_type="equivalence" id="113426_7" ></RELATION>
+
+<RELATION theme="113426_3" includes_docket_string="92-8968" includes_docket="113426_2" theme_string="Larson v. Dorsey, Warden" gram_type="apposition" relation_type="asymmetric" id="113426_10" ></RELATION>
+
+<RELATION theme="113426_3" party1="113426_4" party1_string="Larson" theme_string="Larson v. Dorsey, Warden" gram_type="infix" relation_type="asymmetric" id="113426_8" ></RELATION>
+
+<RELATION party2="113426_5" theme="113426_3" theme_string="Larson v. Dorsey, Warden" party2_string="Dorsey, Warden" gram_type="infix" relation_type="asymmetric" id="113426_9" ></RELATION>
+

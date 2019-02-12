@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['poncestates#3']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1067" id1="130104" volume="538" start="0" page_number="1067" standard_reporter="U.S." citation_global_level_id="602.002" line="1" id="130103_1" citation_local_level_id="0" >538 U.S. 1067</CITATION>
+
+<CITATION party2="UNITED STATES" party1="BUTRON-PONCE" citation_global_level_id="27408.001" party2_short="STATES" line="1" id="130103_3" alternative_keys="['u.s._538_1067']" end="47" entry_type="party_key" lookup_key="poncestates#3" id1="130103" start="18" party1_short="PONCE" citation_local_level_id="1" >BUTRON-PONCE v. UNITED STATES</CITATION>
+
+<NAME end="30" start="18" party1_of="130103_3" all_names="BUTRON-PONCE" local_name_id="1" id="130103_4" >BUTRON-PONCE</NAME>
+
+<NAME end="47" start="34" all_names="UNITED STATES" party2_of="130103_3" local_name_id="2" id="130103_5" >UNITED STATES</NAME>
+
+<DOCKET end="65" entry_type="docket" lookup_key="u.s._538_1067" id1="130104" start="57" citation_global_level_id="602.002" line="1" id="130103_2" citation_local_level_id="0" >02-10354</DOCKET>
+
+<DATE start="107" end="119" id="130103_6" >May 27, 2003</DATE>
+
+<NAME start="247" local_name_id="3" end="250" id="130103_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="130103_1" includes_docket_string="02-10354" includes_docket="130103_2" theme_string="538 U.S. 1067" gram_type="apposition" relation_type="asymmetric" id="130103_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1067" X_vs_Y_string="BUTRON-PONCE v. UNITED STATES" standard_case="130103_1" X_vs_Y="130103_3" gram_type="pre_nom" relation_type="equivalence" id="130103_7" ></RELATION>
+
+<RELATION theme="130103_3" includes_docket_string="02-10354" includes_docket="130103_2" theme_string="BUTRON-PONCE v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="130103_10" ></RELATION>
+
+<RELATION theme="130103_3" party1="130103_4" party1_string="BUTRON-PONCE" theme_string="BUTRON-PONCE v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="130103_8" ></RELATION>
+
+<RELATION party2="130103_5" theme="130103_3" theme_string="BUTRON-PONCE v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="130103_9" ></RELATION>
+

@@ -1,0 +1,44 @@
+<CITATION alternative_keys="['companyneal#1', 'companychurch#2']" end="19" reporter="U.S." entry_type="standard_key" lookup_key="u.s._174_46" id1="95044" volume="174" start="1" page_number="46" standard_reporter="U.S." citation_global_level_id="57663.002" line="2" id="95044_1" citation_local_level_id="0" >174 U.S. 46 (____)</CITATION>
+
+<CITATION party2="CHURCH" party1="METROPOLITAN RAILWAY COMPANY" citation_global_level_id="57663.001" party2_short="CHURCH" line="5" id="95044_4" alternative_keys="['u.s._174_46', 'companyneal#1']" end="60" entry_type="party_key" lookup_key="companychurch#2" id1="95044" start="20" party1_short="COMPANY" citation_local_level_id="1" >METROPOLITAN RAILWAY COMPANY v. CHURCH</CITATION>
+
+<NAME end="48" start="20" party1_of="95044_4" all_names="METROPOLITAN RAILWAY COMPANY	BRIGHTWOOD RAILWAY COMPANY" local_name_id="1" id="95044_5" >METROPOLITAN RAILWAY COMPANY</NAME>
+
+<NAME end="60" start="54" all_names="CHURCH" party2_of="95044_4" local_name_id="2" id="95044_6" >CHURCH</NAME>
+
+<CITATION party2="O'NEAL" party1="BRIGHTWOOD RAILWAY COMPANY" citation_global_level_id="57663.003" party2_short="NEAL" line="8" id="95044_11" alternative_keys="['companychurch#2', 'u.s._174_46']" end="101" entry_type="party_key" lookup_key="companyneal#1" id1="95044" start="63" party1_short="COMPANY" citation_local_level_id="2" >BRIGHTWOOD RAILWAY COMPANY v. O'NEAL</CITATION>
+
+<NAME end="89" start="63" party1_of="95044_11" all_names="METROPOLITAN RAILWAY COMPANY	BRIGHTWOOD RAILWAY COMPANY" local_name_id="1" id="95044_12" >BRIGHTWOOD RAILWAY COMPANY</NAME>
+
+<NAME end="101" start="95" all_names="O'NEAL	MR RAYMOND A HEISKELL AND MR MJ COLBERT FOR O'NEAL" party2_of="95044_11" local_name_id="3" id="95044_13" >O'NEAL</NAME>
+
+<ORGANIZATION start="118" end="148" id="95044_18" >Supreme Court of United States</ORGANIZATION>
+
+<NAME start="151" local_name_id="4" end="215" id="95044_19" all_names="MR DW BAKER FOR METROPOLITAN RAILWAY CO MR NATHANIEL WILSON" >Mr. D.W. Baker for Metropolitan Railway Co. Mr. Nathaniel Wilson</NAME>
+
+<ORGANIZATION start="191" end="193" id="95044_20" >Co</ORGANIZATION>
+
+<ORGANIZATION start="234" end="266" id="95044_21" >Mr. Ernest L. Schmidt for Church</ORGANIZATION>
+
+<NAME start="268" local_name_id="5" end="308" id="95044_22" all_names="MR HENRY P BLAIR AND MR CORCORAN THOM" >Mr. Henry P. Blair and Mr. Corcoran Thom</NAME>
+
+<ORGANIZATION start="314" end="335" id="95044_23" >Brightwood Railway Co</ORGANIZATION>
+
+<NAME start="364" local_name_id="3" end="419" id="95044_24" all_names="O'NEAL	MR RAYMOND A HEISKELL AND MR MJ COLBERT FOR O'NEAL" >Mr. Raymond A. Heiskell and Mr. M.J. Colbert for O'Neal</NAME>
+
+<ORGANIZATION start="467" end="511" id="95044_25" >Court of Appeals of the District of Columbia</ORGANIZATION>
+
+<PROFESSION start="572" end="579" id="95044_26" >justice</PROFESSION>
+
+<RELATION theme="95044_4" party1="95044_5" party1_string="METROPOLITAN RAILWAY COMPANY" theme_string="METROPOLITAN RAILWAY COMPANY  v.  CHURCH" gram_type="infix" relation_type="asymmetric" id="95044_7" ></RELATION>
+
+<RELATION party2="95044_6" theme="95044_4" theme_string="METROPOLITAN RAILWAY COMPANY  v.  CHURCH" party2_string="CHURCH" gram_type="infix" relation_type="asymmetric" id="95044_8" ></RELATION>
+
+<RELATION theme="95044_11" party1="95044_12" party1_string="BRIGHTWOOD RAILWAY COMPANY" theme_string="BRIGHTWOOD RAILWAY COMPANY  v.  O'NEAL" gram_type="infix" relation_type="asymmetric" id="95044_14" ></RELATION>
+
+<RELATION party2="95044_13" theme="95044_11" theme_string="BRIGHTWOOD RAILWAY COMPANY  v.  O'NEAL" party2_string="O'NEAL" gram_type="infix" relation_type="asymmetric" id="95044_15" ></RELATION>
+
+<RELATION standard_case_string="174 U.S. 46 (____)" X_vs_Y_string="BRIGHTWOOD RAILWAY COMPANY  v.  O'NEAL" standard_case="95044_1" X_vs_Y="95044_11" gram_type="multi_line" relation_type="equivalence" id="95044_17" ></RELATION>
+
+<RELATION standard_case_string="174 U.S. 46 (____)" X_vs_Y_string="METROPOLITAN RAILWAY COMPANY  v.  CHURCH" standard_case="95044_1" X_vs_Y="95044_4" gram_type="multi_line" relation_type="equivalence" id="95044_16" ></RELATION>
+

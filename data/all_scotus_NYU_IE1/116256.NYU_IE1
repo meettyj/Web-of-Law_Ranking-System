@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['marinstates#3']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1064" id1="116260" volume="510" start="0" page_number="1064" standard_reporter="U.S." citation_global_level_id="1869.002" line="1" id="116256_1" citation_local_level_id="0" >510 U.S. 1064</CITATION>
+
+<CITATION party2="United States" party1="Marin" citation_global_level_id="53739.001" party2_short="States" line="1" id="116256_3" alternative_keys="['u.s._510_1064']" end="40" entry_type="party_key" lookup_key="marinstates#3" id1="116256" start="18" party1_short="Marin" citation_local_level_id="1" >Marin v. United States</CITATION>
+
+<NAME end="23" start="18" party1_of="116256_3" all_names="MARIN" local_name_id="1" id="116256_4" >Marin</NAME>
+
+<NAME end="40" start="27" all_names="UNITED STATES" party2_of="116256_3" local_name_id="2" id="116256_5" >United States</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._510_1064" id1="116260" start="50" citation_global_level_id="1869.002" line="1" id="116256_2" citation_local_level_id="0" >93-6965</DOCKET>
+
+<DATE start="99" end="115" id="116256_6" >January 10, 1994</DATE>
+
+<NAME start="193" local_name_id="3" end="203" id="116256_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="239" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_7_679" id1="Dummy_File_232492" volume="7" start="228" page_number="679" standard_reporter="F.3D" citation_global_level_id="296342.001" line="3" id="116256_12" citation_local_level_id="2" >7 F. 3d 679</CITATION>
+
+<RELATION theme="116256_1" includes_docket_string="93-6965" includes_docket="116256_2" theme_string="510 U.S. 1064" gram_type="apposition" relation_type="asymmetric" id="116256_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1064" X_vs_Y_string="Marin v. United States" standard_case="116256_1" X_vs_Y="116256_3" gram_type="pre_nom" relation_type="equivalence" id="116256_7" ></RELATION>
+
+<RELATION theme="116256_3" includes_docket_string="93-6965" includes_docket="116256_2" theme_string="Marin v. United States" gram_type="apposition" relation_type="asymmetric" id="116256_10" ></RELATION>
+
+<RELATION theme="116256_3" party1="116256_4" party1_string="Marin" theme_string="Marin v. United States" gram_type="infix" relation_type="asymmetric" id="116256_8" ></RELATION>
+
+<RELATION party2="116256_5" theme="116256_3" theme_string="Marin v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="116256_9" ></RELATION>
+

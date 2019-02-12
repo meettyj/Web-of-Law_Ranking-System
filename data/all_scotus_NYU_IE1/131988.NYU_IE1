@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['bradenohio#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_865" id1="131986" volume="540" start="0" page_number="865" standard_reporter="U.S." citation_global_level_id="320.002" line="1" id="131988_1" citation_local_level_id="0" >540 U.S. 865</CITATION>
+
+<CITATION party2="OHIO" party1="BRADEN" citation_global_level_id="59013.001" party2_short="OHIO" line="1" id="131988_3" alternative_keys="['u.s._540_865']" end="31" entry_type="party_key" lookup_key="bradenohio#1" id1="131988" start="17" party1_short="BRADEN" citation_local_level_id="1" >BRADEN v. OHIO</CITATION>
+
+<NAME end="23" start="17" party1_of="131988_3" all_names="BRADEN" local_name_id="1" id="131988_4" >BRADEN</NAME>
+
+<NAME end="31" start="27" all_names="OHIO" party2_of="131988_3" local_name_id="2" id="131988_5" >OHIO</NAME>
+
+<DOCKET end="49" entry_type="docket" lookup_key="u.s._540_865" id1="131986" start="41" citation_global_level_id="320.002" line="1" id="131988_2" citation_local_level_id="0" >02-11275</DOCKET>
+
+<DATE start="91" end="106" id="131988_6" >October 6, 2003</DATE>
+
+<NAME start="184" local_name_id="3" end="194" id="131988_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="255" reporter="N. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.e.2d_785_439" id1="Dummy_File_226388" volume="785" start="239" page_number="439" standard_reporter="N.E.2D" citation_global_level_id="290238.001" line="3" id="131988_12" citation_local_level_id="2" >785 N. E. 2d 439</CITATION>
+
+<RELATION theme="131988_1" includes_docket_string="02-11275" includes_docket="131988_2" theme_string="540 U.S. 865" gram_type="apposition" relation_type="asymmetric" id="131988_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 865" X_vs_Y_string="BRADEN v. OHIO" standard_case="131988_1" X_vs_Y="131988_3" gram_type="pre_nom" relation_type="equivalence" id="131988_7" ></RELATION>
+
+<RELATION theme="131988_3" includes_docket_string="02-11275" includes_docket="131988_2" theme_string="BRADEN v. OHIO" gram_type="apposition" relation_type="asymmetric" id="131988_10" ></RELATION>
+
+<RELATION theme="131988_3" party1="131988_4" party1_string="BRADEN" theme_string="BRADEN v. OHIO" gram_type="infix" relation_type="asymmetric" id="131988_8" ></RELATION>
+
+<RELATION party2="131988_5" theme="131988_3" theme_string="BRADEN v. OHIO" party2_string="OHIO" gram_type="infix" relation_type="asymmetric" id="131988_9" ></RELATION>
+

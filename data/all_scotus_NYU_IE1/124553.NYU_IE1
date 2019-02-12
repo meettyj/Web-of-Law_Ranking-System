@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['carrmississippi#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_978" id1="124551" volume="537" start="0" page_number="978" standard_reporter="U.S." citation_global_level_id="3318.002" line="1" id="124553_1" citation_local_level_id="0" >537 U.S. 978</CITATION>
+
+<CITATION party2="MISSISSIPPI" party1="CARR" citation_global_level_id="48686.001" party2_short="MISSISSIPPI" line="1" id="124553_3" alternative_keys="['u.s._537_978']" end="36" entry_type="party_key" lookup_key="carrmississippi#1" id1="124553" start="17" party1_short="CARR" citation_local_level_id="1" >CARR v. MISSISSIPPI</CITATION>
+
+<NAME end="21" start="17" party1_of="124553_3" all_names="CARR" local_name_id="1" id="124553_4" >CARR</NAME>
+
+<NAME end="36" start="25" all_names="MISSISSIPPI" party2_of="124553_3" local_name_id="2" id="124553_5" >MISSISSIPPI</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="u.s._537_978" id1="124551" start="46" citation_global_level_id="3318.002" line="1" id="124553_2" citation_local_level_id="0" >02-5955</DOCKET>
+
+<DATE start="95" end="111" id="124553_6" >October 21, 2002</DATE>
+
+<NAME start="209" local_name_id="3" end="211" id="124553_13" all_names="CT" >Ct</NAME>
+
+<CITATION end="273" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_806_319" id1="Dummy_File_3390" volume="806" start="259" page_number="319" standard_reporter="SO.2D" citation_global_level_id="67240.001" line="3" id="124553_12" citation_local_level_id="2" >806 So. 2d 319</CITATION>
+
+<RELATION theme="124553_1" includes_docket_string="02-5955" includes_docket="124553_2" theme_string="537 U.S. 978" gram_type="apposition" relation_type="asymmetric" id="124553_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 978" X_vs_Y_string="CARR v. MISSISSIPPI" standard_case="124553_1" X_vs_Y="124553_3" gram_type="pre_nom" relation_type="equivalence" id="124553_7" ></RELATION>
+
+<RELATION theme="124553_3" includes_docket_string="02-5955" includes_docket="124553_2" theme_string="CARR v. MISSISSIPPI" gram_type="apposition" relation_type="asymmetric" id="124553_10" ></RELATION>
+
+<RELATION theme="124553_3" party1="124553_4" party1_string="CARR" theme_string="CARR v. MISSISSIPPI" gram_type="infix" relation_type="asymmetric" id="124553_8" ></RELATION>
+
+<RELATION party2="124553_5" theme="124553_3" theme_string="CARR v. MISSISSIPPI" party2_string="MISSISSIPPI" gram_type="infix" relation_type="asymmetric" id="124553_9" ></RELATION>
+

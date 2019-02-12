@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['hicksstraub#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_928" id1="143257" volume="544" start="0" page_number="928" standard_reporter="U.S." citation_global_level_id="390.002" line="1" id="143259_1" citation_local_level_id="0" >544 U.S. 928</CITATION>
+
+<CITATION party2="STRAUB, WARDEN" party1="HICKS" citation_global_level_id="390.005" party2_short="STRAUB" line="2" id="143259_2" alternative_keys="['u.s._544_928']" end="40" entry_type="party_key" lookup_key="hicksstraub#1" id1="143257" start="17" party1_short="HICKS" citation_local_level_id="1" >HICKS v. STRAUB, WARDEN</CITATION>
+
+<NAME end="22" start="17" party1_of="143259_2" all_names="HICKS" local_name_id="1" id="143259_3" >HICKS</NAME>
+
+<NAME end="40" start="26" all_names="STRAUB WARDEN" party2_of="143259_2" local_name_id="2" id="143259_4" >STRAUB, WARDEN</NAME>
+
+<DOCKET alternative_keys="['u.s._544_928']" end="57" entry_type="docket" lookup_key="hicksstraub#1" id1="143257" start="50" citation_global_level_id="390.005" line="3" id="143259_7" citation_local_level_id="1" >04-8172</DOCKET>
+
+<ORGANIZATION start="63" end="93" id="143259_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="99" citation_global_level_id="390.005" end="113" id="143259_9" citation_local_level_id="1" >March 21, 2005</DATE>
+
+<NAME start="145" local_name_id="3" end="148" id="143259_14" all_names="CIR" >Cir</NAME>
+
+<CITATION end="198" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_377_538" id1="Dummy_File_87806" volume="377" start="185" page_number="538" standard_reporter="F.3D" citation_global_level_id="151656.001" line="8" id="143259_13" citation_local_level_id="2" >377 F. 3d 538</CITATION>
+
+<RELATION theme="143259_2" party1="143259_3" party1_string="HICKS" theme_string="HICKS v. STRAUB, WARDEN" gram_type="infix" relation_type="asymmetric" id="143259_5" ></RELATION>
+
+<RELATION party2="143259_4" theme="143259_2" theme_string="HICKS v. STRAUB, WARDEN" party2_string="STRAUB, WARDEN" gram_type="infix" relation_type="asymmetric" id="143259_6" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 928" X_vs_Y_string="HICKS v. STRAUB, WARDEN" standard_case="143259_1" X_vs_Y="143259_2" gram_type="multi_line" relation_type="equivalence" id="143259_10" ></RELATION>
+
+<RELATION at_date_string="March 21, 2005" theme="143259_2" at_date="143259_9" theme_string="HICKS v. STRAUB, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="143259_12" ></RELATION>
+
+<RELATION theme="143259_2" includes_docket_string="04-8172" includes_docket="143259_7" theme_string="HICKS v. STRAUB, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="143259_11" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['doestates#8']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._542_905" id1="137042" volume="542" start="0" page_number="905" standard_reporter="U.S." citation_global_level_id="2477.002" line="1" id="137051_1" citation_local_level_id="0" >542 U.S. 905</CITATION>
+
+<CITATION party2="UNITED STATES" party1="DOE" citation_global_level_id="50447.001" party2_short="STATES" line="2" id="137051_2" alternative_keys="['u.s._542_905']" end="37" entry_type="party_key" lookup_key="doestates#8" id1="125819" start="17" party1_short="DOE" citation_local_level_id="1" >DOE v. UNITED STATES</CITATION>
+
+<NAME end="20" start="17" party1_of="137051_2" all_names="DOE" local_name_id="1" id="137051_3" >DOE</NAME>
+
+<NAME end="37" start="24" all_names="UNITED STATES" party2_of="137051_2" local_name_id="2" id="137051_4" >UNITED STATES</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="doestates#8" id1="125819" start="47" citation_global_level_id="50447.001" line="3" id="137051_7" citation_local_level_id="1" >03-1493</DOCKET>
+
+<ORGANIZATION start="60" end="90" id="137051_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="96" citation_global_level_id="50447.001" end="109" id="137051_9" citation_local_level_id="1" >June 14, 2004</DATE>
+
+<NAME start="141" local_name_id="3" end="144" id="137051_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="137051_2" party1="137051_3" party1_string="DOE" theme_string="DOE v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="137051_5" ></RELATION>
+
+<RELATION party2="137051_4" theme="137051_2" theme_string="DOE v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="137051_6" ></RELATION>
+
+<RELATION standard_case_string="542 U.S. 905" X_vs_Y_string="DOE v. UNITED STATES" standard_case="137051_1" X_vs_Y="137051_2" gram_type="multi_line" relation_type="equivalence" id="137051_10" ></RELATION>
+
+<RELATION at_date_string="June 14, 2004" theme="137051_2" at_date="137051_9" theme_string="DOE v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="137051_12" ></RELATION>
+
+<RELATION theme="137051_2" includes_docket_string="03-1493" includes_docket="137051_7" theme_string="DOE v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="137051_11" ></RELATION>
+

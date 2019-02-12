@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['celianstates#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1063" id1="125584" volume="537" start="0" page_number="1063" standard_reporter="U.S." citation_global_level_id="5364.002" line="1" id="125585_1" citation_local_level_id="0" >537 U.S. 1063</CITATION>
+
+<CITATION party2="UNITED STATES" party1="CELIAN" citation_global_level_id="22426.001" party2_short="STATES" line="1" id="125585_3" alternative_keys="['u.s._537_1063']" end="41" entry_type="party_key" lookup_key="celianstates#1" id1="125585" start="18" party1_short="CELIAN" citation_local_level_id="1" >CELIAN v. UNITED STATES</CITATION>
+
+<NAME end="24" start="18" party1_of="125585_3" all_names="CELIAN" local_name_id="1" id="125585_4" >CELIAN</NAME>
+
+<NAME end="41" start="28" all_names="UNITED STATES" party2_of="125585_3" local_name_id="2" id="125585_5" >UNITED STATES</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._537_1063" id1="125584" start="51" citation_global_level_id="5364.002" line="1" id="125585_2" citation_local_level_id="0" >02-7116</DOCKET>
+
+<DATE start="100" end="116" id="125585_6" >December 2, 2002</DATE>
+
+<NAME start="249" local_name_id="3" end="252" id="125585_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="125585_1" includes_docket_string="02-7116" includes_docket="125585_2" theme_string="537 U.S. 1063" gram_type="apposition" relation_type="asymmetric" id="125585_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1063" X_vs_Y_string="CELIAN v. UNITED STATES" standard_case="125585_1" X_vs_Y="125585_3" gram_type="pre_nom" relation_type="equivalence" id="125585_7" ></RELATION>
+
+<RELATION theme="125585_3" includes_docket_string="02-7116" includes_docket="125585_2" theme_string="CELIAN v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="125585_10" ></RELATION>
+
+<RELATION theme="125585_3" party1="125585_4" party1_string="CELIAN" theme_string="CELIAN v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="125585_8" ></RELATION>
+
+<RELATION party2="125585_5" theme="125585_3" theme_string="CELIAN v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="125585_9" ></RELATION>
+

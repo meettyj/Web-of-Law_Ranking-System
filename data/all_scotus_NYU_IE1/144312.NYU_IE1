@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['sanchezstates#9']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_1009" id1="144323" volume="544" start="0" page_number="1009" standard_reporter="U.S." citation_global_level_id="362.002" line="1" id="144312_1" citation_local_level_id="0" >544 U.S. 1009</CITATION>
+
+<CITATION party2="UNITED STATES" party1="SANCHEZ" citation_global_level_id="21321.001" party2_short="STATES" line="2" id="144312_2" alternative_keys="['u.s._544_1009']" end="42" entry_type="party_key" lookup_key="sanchezstates#9" id1="126196" start="18" party1_short="SANCHEZ" citation_local_level_id="1" >SANCHEZ v. UNITED STATES</CITATION>
+
+<NAME end="25" start="18" party1_of="144312_2" all_names="SANCHEZ" local_name_id="1" id="144312_3" >SANCHEZ</NAME>
+
+<NAME end="42" start="29" all_names="UNITED STATES" party2_of="144312_2" local_name_id="2" id="144312_4" >UNITED STATES</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="sanchezstates#9" id1="126196" start="52" citation_global_level_id="21321.001" line="3" id="144312_7" citation_local_level_id="1" >04-9433</DOCKET>
+
+<ORGANIZATION start="65" end="95" id="144312_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="101" citation_global_level_id="21321.001" end="115" id="144312_9" citation_local_level_id="1" >April 25, 2005</DATE>
+
+<NAME start="147" local_name_id="3" end="150" id="144312_14" all_names="CIR" >Cir</NAME>
+
+<CITATION end="201" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_388_1199" id1="Dummy_File_91089" volume="388" start="187" page_number="1199" standard_reporter="F.3D" citation_global_level_id="154939.001" line="8" id="144312_13" citation_local_level_id="2" >388 F. 3d 1199</CITATION>
+
+<RELATION theme="144312_2" party1="144312_3" party1_string="SANCHEZ" theme_string="SANCHEZ v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="144312_5" ></RELATION>
+
+<RELATION party2="144312_4" theme="144312_2" theme_string="SANCHEZ v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="144312_6" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 1009" X_vs_Y_string="SANCHEZ v. UNITED STATES" standard_case="144312_1" X_vs_Y="144312_2" gram_type="multi_line" relation_type="equivalence" id="144312_10" ></RELATION>
+
+<RELATION at_date_string="April 25, 2005" theme="144312_2" at_date="144312_9" theme_string="SANCHEZ v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="144312_12" ></RELATION>
+
+<RELATION theme="144312_2" includes_docket_string="04-9433" includes_docket="144312_7" theme_string="SANCHEZ v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="144312_11" ></RELATION>
+

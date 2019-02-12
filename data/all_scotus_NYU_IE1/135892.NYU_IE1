@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['holleyjohnson#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_1006" id1="135898" volume="541" start="0" page_number="1006" standard_reporter="U.S." citation_global_level_id="1207.002" line="1" id="135892_1" citation_local_level_id="0" >541 U.S. 1006</CITATION>
+
+<CITATION party2="JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" party1="HOLLEY" citation_global_level_id="1207.003" party2_short="JOHNSON" line="2" id="135892_3" alternative_keys="['u.s._541_1006']" end="81" entry_type="party_key" lookup_key="holleyjohnson#1" id1="135898" start="18" party1_short="HOLLEY" citation_local_level_id="1" >HOLLEY v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS</CITATION>
+
+<NAME end="24" start="18" party1_of="135892_3" all_names="HOLLEY" local_name_id="1" id="135892_4" >HOLLEY</NAME>
+
+<NAME end="81" start="28" all_names="JOHNSON DIRECTOR VIRGINIA DEPARTMENT OF CORRECTIONS" party2_of="135892_3" local_name_id="2" id="135892_5" >JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS</NAME>
+
+<DOCKET alternative_keys="['u.s._541_1006']" end="98" entry_type="docket" lookup_key="holleyjohnson#1" id1="135898" start="91" citation_global_level_id="1207.003" line="2" id="135892_2" citation_local_level_id="1" >03-7059</DOCKET>
+
+<ORGANIZATION start="104" end="134" id="135892_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="140" citation_global_level_id="1207.003" end="154" id="135892_10" citation_local_level_id="1" >April 19, 2004</DATE>
+
+<CITATION end="190" reporter="U. S." entry_type="standard_key" no_current_file="True" lookup_key="u.s._540_1116" id1="Dummy_File_939" volume="540" start="176" page_number="1116" standard_reporter="U.S." citation_global_level_id="64789.001" line="7" id="135892_13" citation_local_level_id="2" >540 U. S. 1116</CITATION>
+
+<NAME start="192" local_name_id="3" end="201" id="135892_14" all_names="PETITIONS" >Petitions</NAME>
+
+<RELATION theme="135892_3" includes_docket_string="03-7059" includes_docket="135892_2" theme_string="HOLLEY v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" gram_type="apposition" relation_type="asymmetric" id="135892_8" ></RELATION>
+
+<RELATION theme="135892_3" party1="135892_4" party1_string="HOLLEY" theme_string="HOLLEY v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" gram_type="infix" relation_type="asymmetric" id="135892_6" ></RELATION>
+
+<RELATION party2="135892_5" theme="135892_3" theme_string="HOLLEY v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" party2_string="JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" gram_type="infix" relation_type="asymmetric" id="135892_7" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 1006" X_vs_Y_string="HOLLEY v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" standard_case="135892_1" X_vs_Y="135892_3" gram_type="multi_line" relation_type="equivalence" id="135892_11" ></RELATION>
+
+<RELATION at_date_string="April 19, 2004" theme="135892_3" at_date="135892_10" theme_string="HOLLEY v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" gram_type="multi_line" relation_type="asymmetric" id="135892_12" ></RELATION>
+

@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['edwardsdobbs#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1063" id1="130046" volume="538" start="0" page_number="1063" standard_reporter="U.S." citation_global_level_id="3398.002" line="1" id="130045_1" citation_local_level_id="0" >538 U.S. 1063</CITATION>
+
+<CITATION party2="DOBBS ET AL" party1="EDWARDS" citation_global_level_id="40031.001" party2_short="DOBBS" line="1" id="130045_3" alternative_keys="['u.s._538_1063']" end="40" entry_type="party_key" lookup_key="edwardsdobbs#1" id1="130045" start="18" party1_short="EDWARDS" citation_local_level_id="1" >EDWARDS v. DOBBS ET AL</CITATION>
+
+<NAME end="25" start="18" party1_of="130045_3" all_names="EDWARDS" local_name_id="1" id="130045_4" >EDWARDS</NAME>
+
+<NAME end="40" start="29" all_names="DOBBS" party2_of="130045_3" local_name_id="2" id="130045_5" >DOBBS ET AL</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._538_1063" id1="130046" start="50" citation_global_level_id="3398.002" line="1" id="130045_2" citation_local_level_id="0" >02-9976</DOCKET>
+
+<DATE start="99" end="111" id="130045_6" >May 27, 2003</DATE>
+
+<NAME start="244" local_name_id="3" end="247" id="130045_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="130045_1" includes_docket_string="02-9976" includes_docket="130045_2" theme_string="538 U.S. 1063" gram_type="apposition" relation_type="asymmetric" id="130045_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1063" X_vs_Y_string="EDWARDS v. DOBBS ET AL" standard_case="130045_1" X_vs_Y="130045_3" gram_type="pre_nom" relation_type="equivalence" id="130045_7" ></RELATION>
+
+<RELATION theme="130045_3" includes_docket_string="02-9976" includes_docket="130045_2" theme_string="EDWARDS v. DOBBS ET AL" gram_type="apposition" relation_type="asymmetric" id="130045_10" ></RELATION>
+
+<RELATION theme="130045_3" party1="130045_4" party1_string="EDWARDS" theme_string="EDWARDS v. DOBBS ET AL" gram_type="infix" relation_type="asymmetric" id="130045_8" ></RELATION>
+
+<RELATION party2="130045_5" theme="130045_3" theme_string="EDWARDS v. DOBBS ET AL" party2_string="DOBBS ET AL" gram_type="infix" relation_type="asymmetric" id="130045_9" ></RELATION>
+

@@ -1,0 +1,46 @@
+<CITATION alternative_keys="['wilsonstate#2', 's.ct._18_949', 'l.ed._42_873']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._169_600" id1="94838" volume="169" start="0" page_number="600" standard_reporter="U.S." citation_global_level_id="21497.002" line="1" id="94837_1" citation_local_level_id="0" >169 U.S. 600</CITATION>
+
+<CITATION alternative_keys="['u.s._169_600', 'wilsonstate#2', 'l.ed._42_873']" end="30" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._18_949" id1="94837" volume="18" start="17" page_number="949" standard_reporter="S.CT." citation_global_level_id="53466.002" line="1" id="94837_2" citation_local_level_id="1" >18 S. Ct. 949</CITATION>
+
+<NAME start="20" local_name_id="1" end="25" id="94837_8" all_names="S CT" >S. Ct</NAME>
+
+<CITATION alternative_keys="['u.s._169_600', 's.ct._18_949', 'wilsonstate#2']" end="48" reporter="L. Ed." entry_type="standard_key" lookup_key="l.ed._42_873" id1="94837" volume="42" start="35" page_number="873" standard_reporter="L.ED." citation_global_level_id="53466.003" line="1" id="94837_3" citation_local_level_id="2" >42 L. Ed. 873</CITATION>
+
+<CITATION party2="STATE OF NORTH CAROLINA" party1="WILSON" citation_global_level_id="53466.001" party2_short="STATE" line="1" id="94837_4" alternative_keys="['u.s._169_600', 's.ct._18_949', 'l.ed._42_873']" end="86" entry_type="party_key" lookup_key="wilsonstate#2" id1="94837" start="53" party1_short="WILSON" citation_local_level_id="3" >WILSON v. STATE OF NORTH CAROLINA</CITATION>
+
+<NAME end="59" start="53" party1_of="94837_4" all_names="WILSON" local_name_id="2" id="94837_5" >WILSON</NAME>
+
+<NAME end="86" start="63" all_names="STATE OF NORTH CAROLINA	NORTH CAROLINA" party2_of="94837_4" local_name_id="3" id="94837_6" >STATE OF NORTH CAROLINA</NAME>
+
+<DATE start="105" end="119" id="94837_7" >March 21, 1898</DATE>
+
+<NAME start="195" local_name_id="4" end="207" id="94837_14" all_names="J C MACRAE" >J. C. MacRae</NAME>
+
+<NAME start="209" local_name_id="5" end="218" id="94837_15" all_names="W H DAY" >W. H. Day</NAME>
+
+<NAME start="227" local_name_id="6" end="235" id="94837_16" all_names="C AVERY" >C. Avery</NAME>
+
+<LEGAL_ROLE start="241" end="250" id="94837_17" >defendant</LEGAL_ROLE>
+
+<NAME start="271" local_name_id="7" end="277" id="94837_18" all_names="CURIAM" >CURIAM</NAME>
+
+<CITATION party2="North Carolina" party1="No. 558 (Wilson" citation_global_level_id="57176.001" party2_short="Carolina" line="7" id="94837_19" end="340" entry_type="party_key" lookup_key="wilsoncarolina#3" id1="131704" start="307" party1_short="Wilson" citation_local_level_id="4" >No. 558 (Wilson v. North Carolina</CITATION>
+
+<NAME end="322" start="307" party1_of="94837_19" all_names="NO 558 (WILSON" local_name_id="8" id="94837_20" >No. 558 (Wilson</NAME>
+
+<NAME end="340" start="326" all_names="STATE OF NORTH CAROLINA	NORTH CAROLINA" party2_of="94837_19" local_name_id="3" id="94837_21" >North Carolina</NAME>
+
+<RELATION standard_case_string="169 U.S. 600" X_vs_Y_string="WILSON v. STATE OF NORTH CAROLINA" standard_case="94837_1" X_vs_Y="94837_4" gram_type="pre_nom" relation_type="equivalence" id="94837_10" ></RELATION>
+
+<RELATION standard_case_string="18 S. Ct. 949" X_vs_Y_string="WILSON v. STATE OF NORTH CAROLINA" standard_case="94837_2" X_vs_Y="94837_4" gram_type="pre_nom" relation_type="equivalence" id="94837_11" ></RELATION>
+
+<RELATION standard_case_string="42 L. Ed. 873" X_vs_Y_string="WILSON v. STATE OF NORTH CAROLINA" standard_case="94837_3" X_vs_Y="94837_4" gram_type="pre_nom" relation_type="equivalence" id="94837_9" ></RELATION>
+
+<RELATION theme="94837_4" party1="94837_5" party1_string="WILSON" theme_string="WILSON v. STATE OF NORTH CAROLINA" gram_type="infix" relation_type="asymmetric" id="94837_12" ></RELATION>
+
+<RELATION party2="94837_6" theme="94837_4" theme_string="WILSON v. STATE OF NORTH CAROLINA" party2_string="STATE OF NORTH CAROLINA" gram_type="infix" relation_type="asymmetric" id="94837_13" ></RELATION>
+
+<RELATION theme="94837_19" party1="94837_20" party1_string="No. 558 (Wilson" theme_string="No. 558 (Wilson v. North Carolina" gram_type="infix" relation_type="asymmetric" id="94837_22" ></RELATION>
+
+<RELATION party2="94837_21" theme="94837_19" theme_string="No. 558 (Wilson v. North Carolina" party2_string="North Carolina" gram_type="infix" relation_type="asymmetric" id="94837_23" ></RELATION>
+

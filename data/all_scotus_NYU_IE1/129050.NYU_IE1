@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['hillcowan#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_989" id1="129043" volume="538" start="0" page_number="989" standard_reporter="U.S." citation_global_level_id="2232.002" line="1" id="129050_1" citation_local_level_id="0" >538 U.S. 989</CITATION>
+
+<CITATION party2="COWAN, WARDEN" party1="HILL" citation_global_level_id="2232.003" party2_short="COWAN" line="1" id="129050_3" alternative_keys="['u.s._538_989']" end="38" entry_type="party_key" lookup_key="hillcowan#1" id1="129043" start="17" party1_short="HILL" citation_local_level_id="1" >HILL v. COWAN, WARDEN</CITATION>
+
+<NAME end="21" start="17" party1_of="129050_3" all_names="HILL" local_name_id="1" id="129050_4" >HILL</NAME>
+
+<NAME end="38" start="25" all_names="COWAN WARDEN" party2_of="129050_3" local_name_id="2" id="129050_5" >COWAN, WARDEN</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._538_989" id1="129043" start="48" citation_global_level_id="2232.002" line="1" id="129050_2" citation_local_level_id="0" >02-9389</DOCKET>
+
+<DATE start="97" end="111" id="129050_6" >April 21, 2003</DATE>
+
+<NAME start="203" local_name_id="3" end="206" id="129050_13" all_names="SUP" >Sup</NAME>
+
+<CITATION end="286" reporter="N. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.e.2d_781_1065" id1="Dummy_File_112755" volume="781" start="269" page_number="1065" standard_reporter="N.E.2D" citation_global_level_id="176605.001" line="3" id="129050_12" citation_local_level_id="2" >781 N. E. 2d 1065</CITATION>
+
+<RELATION theme="129050_1" includes_docket_string="02-9389" includes_docket="129050_2" theme_string="538 U.S. 989" gram_type="apposition" relation_type="asymmetric" id="129050_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 989" X_vs_Y_string="HILL v. COWAN, WARDEN" standard_case="129050_1" X_vs_Y="129050_3" gram_type="pre_nom" relation_type="equivalence" id="129050_7" ></RELATION>
+
+<RELATION theme="129050_3" includes_docket_string="02-9389" includes_docket="129050_2" theme_string="HILL v. COWAN, WARDEN" gram_type="apposition" relation_type="asymmetric" id="129050_10" ></RELATION>
+
+<RELATION theme="129050_3" party1="129050_4" party1_string="HILL" theme_string="HILL v. COWAN, WARDEN" gram_type="infix" relation_type="asymmetric" id="129050_8" ></RELATION>
+
+<RELATION party2="129050_5" theme="129050_3" theme_string="HILL v. COWAN, WARDEN" party2_string="COWAN, WARDEN" gram_type="infix" relation_type="asymmetric" id="129050_9" ></RELATION>
+

@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['smilercalifornia#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_854" id1="131843" volume="540" start="0" page_number="854" standard_reporter="U.S." citation_global_level_id="13905.002" line="1" id="131837_1" citation_local_level_id="0" >540 U.S. 854</CITATION>
+
+<CITATION party2="CALIFORNIA" party1="SMILER" citation_global_level_id="48607.001" party2_short="CALIFORNIA" line="1" id="131837_3" alternative_keys="['u.s._540_854']" end="37" entry_type="party_key" lookup_key="smilercalifornia#1" id1="131837" start="17" party1_short="SMILER" citation_local_level_id="1" >SMILER v. CALIFORNIA</CITATION>
+
+<NAME end="23" start="17" party1_of="131837_3" all_names="SMILER" local_name_id="1" id="131837_4" >SMILER</NAME>
+
+<NAME end="37" start="27" all_names="CALIFORNIA" party2_of="131837_3" local_name_id="2" id="131837_5" >CALIFORNIA</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._540_854" id1="131843" start="47" citation_global_level_id="13905.002" line="1" id="131837_2" citation_local_level_id="0" >02-11100</DOCKET>
+
+<DATE start="97" end="112" id="131837_6" >October 6, 2003</DATE>
+
+<NAME start="205" local_name_id="3" end="215" id="131837_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="131837_1" includes_docket_string="02-11100" includes_docket="131837_2" theme_string="540 U.S. 854" gram_type="apposition" relation_type="asymmetric" id="131837_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 854" X_vs_Y_string="SMILER v. CALIFORNIA" standard_case="131837_1" X_vs_Y="131837_3" gram_type="pre_nom" relation_type="equivalence" id="131837_7" ></RELATION>
+
+<RELATION theme="131837_3" includes_docket_string="02-11100" includes_docket="131837_2" theme_string="SMILER v. CALIFORNIA" gram_type="apposition" relation_type="asymmetric" id="131837_10" ></RELATION>
+
+<RELATION theme="131837_3" party1="131837_4" party1_string="SMILER" theme_string="SMILER v. CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="131837_8" ></RELATION>
+
+<RELATION party2="131837_5" theme="131837_3" theme_string="SMILER v. CALIFORNIA" party2_string="CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="131837_9" ></RELATION>
+

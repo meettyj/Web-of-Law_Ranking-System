@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['rastengelbond#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_911" id1="123682" volume="537" start="0" page_number="911" standard_reporter="U.S." citation_global_level_id="5164.002" line="1" id="123675_1" citation_local_level_id="0" >537 U.S. 911</CITATION>
+
+<CITATION party2="GELBOND" party1="RASTEN" citation_global_level_id="22807.001" party2_short="GELBOND" line="1" id="123675_3" alternative_keys="['u.s._537_911']" end="34" entry_type="party_key" lookup_key="rastengelbond#2" id1="123675" start="17" party1_short="RASTEN" citation_local_level_id="1" >RASTEN v. GELBOND</CITATION>
+
+<NAME end="23" start="17" party1_of="123675_3" all_names="RASTEN" local_name_id="1" id="123675_4" >RASTEN</NAME>
+
+<NAME end="34" start="27" all_names="GELBOND" party2_of="123675_3" local_name_id="2" id="123675_5" >GELBOND</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="u.s._537_911" id1="123682" start="44" citation_global_level_id="5164.002" line="1" id="123675_2" citation_local_level_id="0" >02-5377</DOCKET>
+
+<DATE start="93" end="108" id="123675_6" >October 7, 2002</DATE>
+
+<NAME start="227" local_name_id="3" end="240" id="123675_12" all_names="C A 1ST CIR" >C. A. 1st Cir</NAME>
+
+<NAME start="242" local_name_id="4" end="252" id="123675_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="123675_1" includes_docket_string="02-5377" includes_docket="123675_2" theme_string="537 U.S. 911" gram_type="apposition" relation_type="asymmetric" id="123675_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 911" X_vs_Y_string="RASTEN v. GELBOND" standard_case="123675_1" X_vs_Y="123675_3" gram_type="pre_nom" relation_type="equivalence" id="123675_7" ></RELATION>
+
+<RELATION theme="123675_3" includes_docket_string="02-5377" includes_docket="123675_2" theme_string="RASTEN v. GELBOND" gram_type="apposition" relation_type="asymmetric" id="123675_10" ></RELATION>
+
+<RELATION theme="123675_3" party1="123675_4" party1_string="RASTEN" theme_string="RASTEN v. GELBOND" gram_type="infix" relation_type="asymmetric" id="123675_8" ></RELATION>
+
+<RELATION party2="123675_5" theme="123675_3" theme_string="RASTEN v. GELBOND" party2_string="GELBOND" gram_type="infix" relation_type="asymmetric" id="123675_9" ></RELATION>
+

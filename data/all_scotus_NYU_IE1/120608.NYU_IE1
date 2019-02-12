@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['davisgodwin#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1079" id1="120603" volume="535" start="0" page_number="1079" standard_reporter="U.S." citation_global_level_id="724.002" line="1" id="120608_1" citation_local_level_id="0" >535 U.S. 1079</CITATION>
+
+<CITATION party2="GODWIN, RETIRED JUDGE, CIRCUIT COURT OF VIRGINIA" party1="DAVIS" citation_global_level_id="724.004" party2_short="GODWIN" line="2" id="120608_3" alternative_keys="['u.s._535_1079']" end="75" entry_type="party_key" lookup_key="davisgodwin#1" id1="120603" start="18" party1_short="DAVIS" citation_local_level_id="1" >DAVIS v. GODWIN, RETIRED JUDGE, CIRCUIT COURT OF VIRGINIA</CITATION>
+
+<NAME end="23" start="18" party1_of="120608_3" all_names="DAVIS" local_name_id="1" id="120608_4" >DAVIS</NAME>
+
+<NAME end="75" start="27" all_names="GODWIN RETIRED JUDGE CIRCUIT COURT OF VIRGINIA" party2_of="120608_3" local_name_id="2" id="120608_5" >GODWIN, RETIRED JUDGE, CIRCUIT COURT OF VIRGINIA</NAME>
+
+<DOCKET alternative_keys="['u.s._535_1079']" end="114" entry_type="docket" lookup_key="davisgodwin#1" id1="120603" start="107" citation_global_level_id="724.004" line="2" id="120608_2" citation_local_level_id="1" >01-1412</DOCKET>
+
+<DATE start="160" citation_global_level_id="724.004" end="172" id="120608_8" citation_local_level_id="1" >May 20, 2002</DATE>
+
+<NAME start="194" local_name_id="3" end="197" id="120608_12" all_names="SUP" >Sup</NAME>
+
+<RELATION theme="120608_3" party1="120608_4" party1_string="DAVIS" theme_string="DAVIS v. GODWIN, RETIRED JUDGE, CIRCUIT COURT OF VIRGINIA" gram_type="infix" relation_type="asymmetric" id="120608_6" ></RELATION>
+
+<RELATION party2="120608_5" theme="120608_3" theme_string="DAVIS v. GODWIN, RETIRED JUDGE, CIRCUIT COURT OF VIRGINIA" party2_string="GODWIN, RETIRED JUDGE, CIRCUIT COURT OF VIRGINIA" gram_type="infix" relation_type="asymmetric" id="120608_7" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1079" X_vs_Y_string="DAVIS v. GODWIN, RETIRED JUDGE, CIRCUIT COURT OF VIRGINIA" standard_case="120608_1" X_vs_Y="120608_3" gram_type="multi_line" relation_type="equivalence" id="120608_9" ></RELATION>
+
+<RELATION at_date_string="May 20, 2002" theme="120608_3" at_date="120608_8" theme_string="DAVIS v. GODWIN, RETIRED JUDGE, CIRCUIT COURT OF VIRGINIA" gram_type="multi_line" relation_type="asymmetric" id="120608_11" ></RELATION>
+
+<RELATION theme="120608_3" includes_docket_string="01-1412" includes_docket="120608_2" theme_string="DAVIS v. GODWIN, RETIRED JUDGE, CIRCUIT COURT OF VIRGINIA" gram_type="multi_line" relation_type="asymmetric" id="120608_10" ></RELATION>
+

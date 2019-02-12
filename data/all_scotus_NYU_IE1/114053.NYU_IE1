@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['mcleodmyers#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_889" id1="114047" volume="510" start="0" page_number="889" standard_reporter="U.S." citation_global_level_id="3913.002" line="1" id="114053_1" citation_local_level_id="0" >510 U.S. 889</CITATION>
+
+<CITATION party2="Myers" party1="McLeod" citation_global_level_id="54507.001" party2_short="Myers" line="1" id="114053_3" alternative_keys="['u.s._510_889']" end="32" entry_type="party_key" lookup_key="mcleodmyers#1" id1="114053" start="17" party1_short="McLeod" citation_local_level_id="1" >McLeod v. Myers</CITATION>
+
+<NAME end="23" start="17" party1_of="114053_3" all_names="MCLEOD" local_name_id="1" id="114053_4" >McLeod</NAME>
+
+<NAME end="32" start="27" all_names="MYERS" party2_of="114053_3" local_name_id="2" id="114053_5" >Myers</NAME>
+
+<DOCKET end="49" entry_type="docket" lookup_key="u.s._510_889" id1="114047" start="42" citation_global_level_id="3913.002" line="1" id="114053_2" citation_local_level_id="0" >93-5344</DOCKET>
+
+<DATE start="91" end="106" id="114053_6" >October 4, 1993</DATE>
+
+<NAME start="184" local_name_id="3" end="194" id="114053_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="114053_1" includes_docket_string="93-5344" includes_docket="114053_2" theme_string="510 U.S. 889" gram_type="apposition" relation_type="asymmetric" id="114053_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 889" X_vs_Y_string="McLeod v. Myers" standard_case="114053_1" X_vs_Y="114053_3" gram_type="pre_nom" relation_type="equivalence" id="114053_7" ></RELATION>
+
+<RELATION theme="114053_3" includes_docket_string="93-5344" includes_docket="114053_2" theme_string="McLeod v. Myers" gram_type="apposition" relation_type="asymmetric" id="114053_10" ></RELATION>
+
+<RELATION theme="114053_3" party1="114053_4" party1_string="McLeod" theme_string="McLeod v. Myers" gram_type="infix" relation_type="asymmetric" id="114053_8" ></RELATION>
+
+<RELATION party2="114053_5" theme="114053_3" theme_string="McLeod v. Myers" party2_string="Myers" gram_type="infix" relation_type="asymmetric" id="114053_9" ></RELATION>
+

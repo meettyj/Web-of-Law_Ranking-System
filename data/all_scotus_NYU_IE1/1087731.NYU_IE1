@@ -1,0 +1,40 @@
+<CITATION alternative_keys="['associationassociation#1']" end="20" reporter="U.S." entry_type="standard_key" lookup_key="u.s._102_121" id1="1087731" volume="102" start="1" page_number="121" standard_reporter="U.S." citation_global_level_id="33565.002" line="2" id="1087731_1" citation_local_level_id="0" >102 U.S. 121 (____)</CITATION>
+
+<CITATION party2="INSURANCE ASSOCIATION" party1="BANKING ASSOCIATION" citation_global_level_id="33565.001" party2_short="ASSOCIATION" line="5" id="1087731_4" alternative_keys="['u.s._102_121']" end="67" entry_type="party_key" lookup_key="associationassociation#1" id1="1087731" start="21" party1_short="ASSOCIATION" citation_local_level_id="1" >BANKING ASSOCIATION v. INSURANCE ASSOCIATION</CITATION>
+
+<NAME end="40" start="21" party1_of="1087731_4" all_names="BANKING ASSOCIATION" local_name_id="1" id="1087731_5" >BANKING ASSOCIATION</NAME>
+
+<NAME end="67" start="46" all_names="INSURANCE ASSOCIATION" party2_of="1087731_4" local_name_id="2" id="1087731_6" >INSURANCE ASSOCIATION</NAME>
+
+<ORGANIZATION start="69" end="99" id="1087731_9" >Supreme Court of United States</ORGANIZATION>
+
+<LEGAL_ROLE start="102" end="156" id="1087731_11" >Mr. J.D. Rouse and Mr. William Grant for the appellant</LEGAL_ROLE>
+
+<NAME start="158" local_name_id="3" end="186" id="1087731_12" all_names="MR CHARLES B SINGLETON JR" >Mr. Charles B. Singleton, Jr</NAME>
+
+<NAME start="197" local_name_id="4" end="199" id="1087731_13" all_names="MR" >MR</NAME>
+
+<ORGANIZATION start="377" end="388" id="1087731_18" >association</ORGANIZATION>
+
+<CITATION party2="Blanchard" party1="Gray" citation_global_level_id="44746.001" party2_short="Blanchard" line="11" id="1087731_15" alternative_keys="['u.s._97_564']" end="570" entry_type="party_key" lookup_key="grayblanchard#1" id1="89825" start="553" party1_short="Gray" citation_local_level_id="2" >Gray v. Blanchard</CITATION>
+
+<NAME end="557" start="553" party1_of="1087731_15" all_names="GRAY" local_name_id="5" id="1087731_16" >Gray</NAME>
+
+<NAME end="570" start="561" all_names="BLANCHARD" party2_of="1087731_15" local_name_id="6" id="1087731_17" >Blanchard</NAME>
+
+<CITATION alternative_keys="['grayblanchard#1']" end="583" reporter="U.S." entry_type="standard_key" lookup_key="u.s._97_564" id1="89825" volume="97" start="572" page_number="564" standard_reporter="U.S." citation_global_level_id="44746.002" line="11" id="1087731_14" citation_local_level_id="3" >97 U.S. 564</CITATION>
+
+<NAME start="787" local_name_id="7" end="793" id="1087731_22" all_names="APPEAL" >Appeal</NAME>
+
+<RELATION theme="1087731_4" party1="1087731_5" party1_string="BANKING ASSOCIATION" theme_string="BANKING ASSOCIATION  v.  INSURANCE ASSOCIATION" gram_type="infix" relation_type="asymmetric" id="1087731_7" ></RELATION>
+
+<RELATION party2="1087731_6" theme="1087731_4" theme_string="BANKING ASSOCIATION  v.  INSURANCE ASSOCIATION" party2_string="INSURANCE ASSOCIATION" gram_type="infix" relation_type="asymmetric" id="1087731_8" ></RELATION>
+
+<RELATION standard_case_string="102 U.S. 121 (____)" X_vs_Y_string="BANKING ASSOCIATION  v.  INSURANCE ASSOCIATION" standard_case="1087731_1" X_vs_Y="1087731_4" gram_type="multi_line" relation_type="equivalence" id="1087731_10" ></RELATION>
+
+<RELATION standard_case_string="97 U.S. 564" X_vs_Y_string="Gray v. Blanchard" standard_case="1087731_14" X_vs_Y="1087731_15" gram_type="apposition" relation_type="equivalence" id="1087731_21" ></RELATION>
+
+<RELATION theme="1087731_15" party1="1087731_16" party1_string="Gray" theme_string="Gray v. Blanchard" gram_type="infix" relation_type="asymmetric" id="1087731_19" ></RELATION>
+
+<RELATION party2="1087731_17" theme="1087731_15" theme_string="Gray v. Blanchard" party2_string="Blanchard" gram_type="infix" relation_type="asymmetric" id="1087731_20" ></RELATION>
+

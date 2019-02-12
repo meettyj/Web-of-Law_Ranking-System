@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['clantontrust#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._536_982" id1="122163" volume="536" start="0" page_number="982" standard_reporter="U.S." citation_global_level_id="5281.002" line="1" id="122155_1" citation_local_level_id="0" >536 U.S. 982</CITATION>
+
+<CITATION party2="GREENWOOD TRUST CO" party1="CLANTON" citation_global_level_id="57915.001" party2_short="TRUST" line="2" id="122155_2" alternative_keys="['u.s._536_982']" end="46" entry_type="party_key" lookup_key="clantontrust#2" id1="121003" start="17" party1_short="CLANTON" citation_local_level_id="1" >CLANTON v. GREENWOOD TRUST CO</CITATION>
+
+<NAME end="24" start="17" party1_of="122155_2" all_names="CLANTON" local_name_id="1" id="122155_3" >CLANTON</NAME>
+
+<NAME end="46" start="28" all_names="GREENWOOD TRUST CO" party2_of="122155_2" local_name_id="2" id="122155_4" >GREENWOOD TRUST CO</NAME>
+
+<DOCKET end="63" entry_type="docket" lookup_key="clantontrust#2" id1="121003" start="56" citation_global_level_id="57915.001" line="3" id="122155_7" citation_local_level_id="1" >01-1457</DOCKET>
+
+<DATE start="109" citation_global_level_id="57915.001" end="124" id="122155_8" citation_local_level_id="1" >August 26, 2002</DATE>
+
+<CITATION end="160" reporter="U. S." entry_type="standard_key" lookup_key="u.s._535_1112" id1="121011" volume="535" start="146" page_number="1112" standard_reporter="U.S." citation_global_level_id="3870.002" line="8" id="122155_12" citation_local_level_id="2" >535 U. S. 1112</CITATION>
+
+<NAME start="162" local_name_id="3" end="171" id="122155_13" all_names="PETITIONS" >Petitions</NAME>
+
+<RELATION theme="122155_2" party1="122155_3" party1_string="CLANTON" theme_string="CLANTON v. GREENWOOD TRUST CO" gram_type="infix" relation_type="asymmetric" id="122155_5" ></RELATION>
+
+<RELATION party2="122155_4" theme="122155_2" theme_string="CLANTON v. GREENWOOD TRUST CO" party2_string="GREENWOOD TRUST CO" gram_type="infix" relation_type="asymmetric" id="122155_6" ></RELATION>
+
+<RELATION standard_case_string="536 U.S. 982" X_vs_Y_string="CLANTON v. GREENWOOD TRUST CO" standard_case="122155_1" X_vs_Y="122155_2" gram_type="multi_line" relation_type="equivalence" id="122155_9" ></RELATION>
+
+<RELATION at_date_string="August 26, 2002" theme="122155_2" at_date="122155_8" theme_string="CLANTON v. GREENWOOD TRUST CO" gram_type="multi_line" relation_type="asymmetric" id="122155_11" ></RELATION>
+
+<RELATION theme="122155_2" includes_docket_string="01-1457" includes_docket="122155_7" theme_string="CLANTON v. GREENWOOD TRUST CO" gram_type="multi_line" relation_type="asymmetric" id="122155_10" ></RELATION>
+

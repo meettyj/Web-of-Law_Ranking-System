@@ -1,0 +1,44 @@
+<CITATION alternative_keys="['californiabrown#2', 's.ct._94_1959', 'l.ed.2d_40_300']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._416_950" id1="109037" volume="416" start="0" page_number="950" standard_reporter="U.S." citation_global_level_id="18062.002" line="1" id="109037_1" citation_local_level_id="0" >416 U.S. 950</CITATION>
+
+<CITATION alternative_keys="['u.s._416_950', 'californiabrown#2', 'l.ed.2d_40_300']" end="31" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._94_1959" id1="109037" volume="94" start="17" page_number="1959" standard_reporter="S.CT." citation_global_level_id="18062.003" line="2" id="109037_2" citation_local_level_id="1" >94 S. Ct. 1959</CITATION>
+
+<DATE start="27" citation_global_level_id="18062.003" end="31" id="109037_3" citation_local_level_id="1" >1959</DATE>
+
+<CITATION alternative_keys="['u.s._416_950', 's.ct._94_1959', 'californiabrown#2']" end="52" reporter="L. Ed. 2d" entry_type="standard_key" lookup_key="l.ed.2d_40_300" id1="109037" volume="40" start="36" page_number="300" standard_reporter="L.ED.2D" citation_global_level_id="18062.004" line="3" id="109037_5" citation_local_level_id="2" >40 L. Ed. 2d 300</CITATION>
+
+<CITATION party2="Robert F. BROWN et al" alternative_keys="['u.s._416_950', 's.ct._94_1959', 'l.ed.2d_40_300']" party1="CALIFORNIA," end="105" party1_short="CALIFORNIA" entry_type="party_key" party1_role="petitioner" lookup_key="californiabrown#2" id1="111797" start="57" citation_global_level_id="43941.001" party2_short="BROWN" line="4" id="109037_6" citation_local_level_id="3" >CALIFORNIA, petitioner, v. Robert F. BROWN et al</CITATION>
+
+<NAME end="68" start="57" party1_of="109037_6" all_names="CALIFORNIA" local_name_id="1" id="109037_7" >CALIFORNIA,</NAME>
+
+<LEGAL_ROLE start="69" end="79" id="109037_9" >petitioner</LEGAL_ROLE>
+
+<NAME end="105" start="84" all_names="ROBERT F BROWN" party2_of="109037_6" local_name_id="2" id="109037_8" >Robert F. BROWN et al</NAME>
+
+<DOCKET end="121" entry_type="docket" lookup_key="californiabrown#2" id1="111797" start="115" citation_global_level_id="43941.001" line="5" id="109037_12" citation_local_level_id="3" >73-931</DOCKET>
+
+<ORGANIZATION start="127" end="161" id="109037_13" >Supreme Court of the United States</ORGANIZATION>
+
+<DATE start="166" citation_global_level_id="43941.001" end="180" id="109037_14" citation_local_level_id="3" >April 15, 1974</DATE>
+
+<LEGAL_ROLE start="201" end="222" plural="True" id="109037_20" >Motion of respondents</LEGAL_ROLE>
+
+<NAME start="271" local_name_id="3" end="279" id="109037_21" all_names="PETITION" >Petition</NAME>
+
+<ORGANIZATION start="310" end="337" id="109037_22" >Supreme Court of California</ORGANIZATION>
+
+<RELATION at_date_string="1959" theme="109037_2" at_date="109037_3" theme_string="94 S. Ct. 1959" gram_type="infix" relation_type="asymmetric" id="109037_4" ></RELATION>
+
+<RELATION theme="109037_6" party1="109037_7" party1_string="CALIFORNIA," theme_string="CALIFORNIA, petitioner, v. Robert F. BROWN et al" gram_type="infix" relation_type="asymmetric" id="109037_10" ></RELATION>
+
+<RELATION party2="109037_8" theme="109037_6" theme_string="CALIFORNIA, petitioner, v. Robert F. BROWN et al" party2_string="Robert F. BROWN et al" gram_type="infix" relation_type="asymmetric" id="109037_11" ></RELATION>
+
+<RELATION standard_case_string="416 U.S. 950" X_vs_Y_string="CALIFORNIA, petitioner, v. Robert F. BROWN et al" standard_case="109037_1" X_vs_Y="109037_6" gram_type="multi_line" relation_type="equivalence" id="109037_15" ></RELATION>
+
+<RELATION standard_case_string="94 S. Ct. 1959" X_vs_Y_string="CALIFORNIA, petitioner, v. Robert F. BROWN et al" standard_case="109037_2" X_vs_Y="109037_6" gram_type="multi_line" relation_type="equivalence" id="109037_16" ></RELATION>
+
+<RELATION standard_case_string="40 L. Ed. 2d 300" X_vs_Y_string="CALIFORNIA, petitioner, v. Robert F. BROWN et al" standard_case="109037_5" X_vs_Y="109037_6" gram_type="multi_line" relation_type="equivalence" id="109037_17" ></RELATION>
+
+<RELATION at_date_string="April 15, 1974" theme="109037_6" at_date="109037_14" theme_string="CALIFORNIA, petitioner, v. Robert F. BROWN et al" gram_type="multi_line" relation_type="asymmetric" id="109037_19" ></RELATION>
+
+<RELATION theme="109037_6" includes_docket_string="73-931" includes_docket="109037_12" theme_string="CALIFORNIA, petitioner, v. Robert F. BROWN et al" gram_type="multi_line" relation_type="asymmetric" id="109037_18" ></RELATION>
+

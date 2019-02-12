@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['newtopcourt#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_973" id1="115099" volume="510" start="0" page_number="973" standard_reporter="U.S." citation_global_level_id="2412.002" line="1" id="115108_1" citation_local_level_id="0" >510 U.S. 973</CITATION>
+
+<CITATION party2="San Francisco County Superior Court" party1="Newtop" citation_global_level_id="55390.001" party2_short="Court" line="2" id="115108_2" alternative_keys="['u.s._510_973']" end="62" entry_type="party_key" lookup_key="newtopcourt#1" id1="113353" start="17" party1_short="Newtop" citation_local_level_id="1" >Newtop v. San Francisco County Superior Court</CITATION>
+
+<NAME end="23" start="17" party1_of="115108_2" all_names="NEWTOP" local_name_id="1" id="115108_3" >Newtop</NAME>
+
+<NAME end="62" start="27" all_names="SAN FRANCISCO COUNTY SUPERIOR COURT" party2_of="115108_2" local_name_id="2" id="115108_4" >San Francisco County Superior Court</NAME>
+
+<DOCKET end="93" entry_type="docket" lookup_key="newtopcourt#1" id1="113353" start="86" citation_global_level_id="55390.001" line="3" id="115108_7" citation_local_level_id="1" >92-8864</DOCKET>
+
+<ORGANIZATION start="99" end="129" id="115108_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="135" citation_global_level_id="55390.001" end="151" id="115108_9" citation_local_level_id="1" >November 8, 1993</DATE>
+
+<NAME start="173" local_name_id="3" end="181" id="115108_13" all_names="PETITION" >Petition</NAME>
+
+<RELATION theme="115108_2" party1="115108_3" party1_string="Newtop" theme_string="Newtop v. San Francisco County Superior Court" gram_type="infix" relation_type="asymmetric" id="115108_5" ></RELATION>
+
+<RELATION party2="115108_4" theme="115108_2" theme_string="Newtop v. San Francisco County Superior Court" party2_string="San Francisco County Superior Court" gram_type="infix" relation_type="asymmetric" id="115108_6" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 973" X_vs_Y_string="Newtop v. San Francisco County Superior Court" standard_case="115108_1" X_vs_Y="115108_2" gram_type="multi_line" relation_type="equivalence" id="115108_10" ></RELATION>
+
+<RELATION at_date_string="November 8, 1993" theme="115108_2" at_date="115108_9" theme_string="Newtop v. San Francisco County Superior Court" gram_type="multi_line" relation_type="asymmetric" id="115108_12" ></RELATION>
+
+<RELATION theme="115108_2" includes_docket_string="92-8864" includes_docket="115108_7" theme_string="Newtop v. San Francisco County Superior Court" gram_type="multi_line" relation_type="asymmetric" id="115108_11" ></RELATION>
+

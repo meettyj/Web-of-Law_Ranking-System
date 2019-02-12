@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['millervannatta#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_919" id1="139310" volume="543" start="0" page_number="919" standard_reporter="U.S." citation_global_level_id="4448.002" line="1" id="139311_1" citation_local_level_id="0" >543 U.S. 919</CITATION>
+
+<CITATION party2="VANNATTA, SUPERINTENDENT, MIAMI CORRECTIONAL FACILITY" party1="MILLER" citation_global_level_id="4448.003" party2_short="VANNATTA" line="2" id="139311_3" alternative_keys="['u.s._543_919']" end="80" entry_type="party_key" lookup_key="millervannatta#1" id1="139310" start="17" party1_short="MILLER" citation_local_level_id="1" >MILLER v. VANNATTA, SUPERINTENDENT, MIAMI CORRECTIONAL FACILITY</CITATION>
+
+<NAME end="23" start="17" party1_of="139311_3" all_names="MILLER" local_name_id="1" id="139311_4" >MILLER</NAME>
+
+<NAME end="80" start="27" all_names="VANNATTA SUPERINTENDENT MIAMI CORRECTIONAL FACILITY" party2_of="139311_3" local_name_id="2" id="139311_5" >VANNATTA, SUPERINTENDENT, MIAMI CORRECTIONAL FACILITY</NAME>
+
+<DOCKET alternative_keys="['u.s._543_919']" end="97" entry_type="docket" lookup_key="millervannatta#1" id1="139310" start="90" citation_global_level_id="4448.003" line="2" id="139311_2" citation_local_level_id="1" >04-5093</DOCKET>
+
+<ORGANIZATION start="103" end="133" id="139311_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="139" citation_global_level_id="4448.003" end="154" id="139311_10" citation_local_level_id="1" >October 4, 2004</DATE>
+
+<NAME start="186" local_name_id="3" end="189" id="139311_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="139311_3" includes_docket_string="04-5093" includes_docket="139311_2" theme_string="MILLER v. VANNATTA, SUPERINTENDENT, MIAMI CORRECTIONAL FACILITY" gram_type="apposition" relation_type="asymmetric" id="139311_8" ></RELATION>
+
+<RELATION theme="139311_3" party1="139311_4" party1_string="MILLER" theme_string="MILLER v. VANNATTA, SUPERINTENDENT, MIAMI CORRECTIONAL FACILITY" gram_type="infix" relation_type="asymmetric" id="139311_6" ></RELATION>
+
+<RELATION party2="139311_5" theme="139311_3" theme_string="MILLER v. VANNATTA, SUPERINTENDENT, MIAMI CORRECTIONAL FACILITY" party2_string="VANNATTA, SUPERINTENDENT, MIAMI CORRECTIONAL FACILITY" gram_type="infix" relation_type="asymmetric" id="139311_7" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 919" X_vs_Y_string="MILLER v. VANNATTA, SUPERINTENDENT, MIAMI CORRECTIONAL FACILITY" standard_case="139311_1" X_vs_Y="139311_3" gram_type="multi_line" relation_type="equivalence" id="139311_11" ></RELATION>
+
+<RELATION at_date_string="October 4, 2004" theme="139311_3" at_date="139311_10" theme_string="MILLER v. VANNATTA, SUPERINTENDENT, MIAMI CORRECTIONAL FACILITY" gram_type="multi_line" relation_type="asymmetric" id="139311_12" ></RELATION>
+

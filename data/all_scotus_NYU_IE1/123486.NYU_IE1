@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['cartergibson#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_897" id1="123497" volume="537" start="0" page_number="897" standard_reporter="U.S." citation_global_level_id="2246.002" line="1" id="123486_1" citation_local_level_id="0" >537 U.S. 897</CITATION>
+
+<CITATION party2="GIBSON, WARDEN" party1="CARTER" citation_global_level_id="2246.006" party2_short="GIBSON" line="1" id="123486_3" alternative_keys="['u.s._537_897']" end="41" entry_type="party_key" lookup_key="cartergibson#1" id1="123497" start="17" party1_short="CARTER" citation_local_level_id="1" >CARTER v. GIBSON, WARDEN</CITATION>
+
+<NAME end="23" start="17" party1_of="123486_3" all_names="CARTER" local_name_id="1" id="123486_4" >CARTER</NAME>
+
+<NAME end="41" start="27" all_names="GIBSON WARDEN" party2_of="123486_3" local_name_id="2" id="123486_5" >GIBSON, WARDEN</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._537_897" id1="123497" start="51" citation_global_level_id="2246.002" line="1" id="123486_2" citation_local_level_id="0" >02-5143</DOCKET>
+
+<DATE start="100" end="115" id="123486_6" >October 7, 2002</DATE>
+
+<NAME start="245" local_name_id="3" end="248" id="123486_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="123486_1" includes_docket_string="02-5143" includes_docket="123486_2" theme_string="537 U.S. 897" gram_type="apposition" relation_type="asymmetric" id="123486_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 897" X_vs_Y_string="CARTER v. GIBSON, WARDEN" standard_case="123486_1" X_vs_Y="123486_3" gram_type="pre_nom" relation_type="equivalence" id="123486_7" ></RELATION>
+
+<RELATION theme="123486_3" includes_docket_string="02-5143" includes_docket="123486_2" theme_string="CARTER v. GIBSON, WARDEN" gram_type="apposition" relation_type="asymmetric" id="123486_10" ></RELATION>
+
+<RELATION theme="123486_3" party1="123486_4" party1_string="CARTER" theme_string="CARTER v. GIBSON, WARDEN" gram_type="infix" relation_type="asymmetric" id="123486_8" ></RELATION>
+
+<RELATION party2="123486_5" theme="123486_3" theme_string="CARTER v. GIBSON, WARDEN" party2_string="GIBSON, WARDEN" gram_type="infix" relation_type="asymmetric" id="123486_9" ></RELATION>
+

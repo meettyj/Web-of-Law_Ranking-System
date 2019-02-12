@@ -1,0 +1,36 @@
+<CITATION alternative_keys="['munozstates#8']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1109" id1="141768" volume="543" start="0" page_number="1109" standard_reporter="U.S." citation_global_level_id="181.002" line="1" id="141776_1" citation_local_level_id="0" >543 U.S. 1109</CITATION>
+
+<CITATION party2="UNITED STATES" party1="BOLANOS-MUNOZ ET AL." citation_global_level_id="36943.001" party2_short="STATES" line="2" id="141776_2" alternative_keys="['u.s._543_1109']" end="55" entry_type="party_key" lookup_key="munozstates#8" id1="137189" start="18" party1_short="MUNOZ" citation_local_level_id="1" >BOLANOS-MUNOZ ET AL. v. UNITED STATES</CITATION>
+
+<NAME end="38" start="18" party1_of="141776_2" all_names="BOLANOS-MUNOZ" local_name_id="1" id="141776_3" >BOLANOS-MUNOZ ET AL.</NAME>
+
+<NAME end="55" start="42" all_names="UNITED STATES" party2_of="141776_2" local_name_id="2" id="141776_4" >UNITED STATES</NAME>
+
+<DOCKET end="72" entry_type="docket" lookup_key="munozstates#8" id1="137189" start="65" citation_global_level_id="36943.001" line="3" id="141776_7" citation_local_level_id="1" >04-6378</DOCKET>
+
+<ORGANIZATION start="78" end="108" id="141776_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="114" citation_global_level_id="36943.001" end="130" id="141776_9" citation_local_level_id="1" >January 24, 2005</DATE>
+
+<NAME start="163" local_name_id="3" end="166" id="141776_16" all_names="CIR" >Cir</NAME>
+
+<CITATION party2="Booker" party1="United States" citation_global_level_id="57130.001" party2_short="Booker" line="8" id="141776_13" end="394" entry_type="party_key" lookup_key="statesbooker#4" id1="137703" start="371" party1_short="States" citation_local_level_id="2" >United States v. Booker</CITATION>
+
+<NAME end="384" start="371" party1_of="141776_13" all_names="UNITED STATES" local_name_id="2" id="141776_14" >United States</NAME>
+
+<NAME end="394" start="388" all_names="BOOKER" party2_of="141776_13" local_name_id="4" id="141776_15" >Booker</NAME>
+
+<RELATION theme="141776_2" party1="141776_3" party1_string="BOLANOS-MUNOZ ET AL." theme_string="BOLANOS-MUNOZ ET AL. v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="141776_5" ></RELATION>
+
+<RELATION party2="141776_4" theme="141776_2" theme_string="BOLANOS-MUNOZ ET AL. v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="141776_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1109" X_vs_Y_string="BOLANOS-MUNOZ ET AL. v. UNITED STATES" standard_case="141776_1" X_vs_Y="141776_2" gram_type="multi_line" relation_type="equivalence" id="141776_10" ></RELATION>
+
+<RELATION at_date_string="January 24, 2005" theme="141776_2" at_date="141776_9" theme_string="BOLANOS-MUNOZ ET AL. v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="141776_12" ></RELATION>
+
+<RELATION theme="141776_2" includes_docket_string="04-6378" includes_docket="141776_7" theme_string="BOLANOS-MUNOZ ET AL. v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="141776_11" ></RELATION>
+
+<RELATION theme="141776_13" party1="141776_14" party1_string="United States" theme_string="United States v. Booker" gram_type="infix" relation_type="asymmetric" id="141776_17" ></RELATION>
+
+<RELATION party2="141776_15" theme="141776_13" theme_string="United States v. Booker" party2_string="Booker" gram_type="infix" relation_type="asymmetric" id="141776_18" ></RELATION>
+

@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['morganillinois#3']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_870" id1="132053" volume="540" start="0" page_number="870" standard_reporter="U.S." citation_global_level_id="2860.002" line="1" id="132059_1" citation_local_level_id="0" >540 U.S. 870</CITATION>
+
+<CITATION party2="ILLINOIS" party1="MORGAN" citation_global_level_id="45043.001" party2_short="ILLINOIS" line="1" id="132059_3" alternative_keys="['u.s._540_870']" end="35" entry_type="party_key" lookup_key="morganillinois#3" id1="132059" start="17" party1_short="MORGAN" citation_local_level_id="1" >MORGAN v. ILLINOIS</CITATION>
+
+<NAME end="23" start="17" party1_of="132059_3" all_names="MORGAN" local_name_id="1" id="132059_4" >MORGAN</NAME>
+
+<NAME end="35" start="27" all_names="ILLINOIS" party2_of="132059_3" local_name_id="2" id="132059_5" >ILLINOIS</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="u.s._540_870" id1="132053" start="45" citation_global_level_id="2860.002" line="1" id="132059_2" citation_local_level_id="0" >02-11351</DOCKET>
+
+<DATE start="95" end="110" id="132059_6" >October 6, 2003</DATE>
+
+<NAME start="198" local_name_id="3" end="208" id="132059_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="132059_1" includes_docket_string="02-11351" includes_docket="132059_2" theme_string="540 U.S. 870" gram_type="apposition" relation_type="asymmetric" id="132059_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 870" X_vs_Y_string="MORGAN v. ILLINOIS" standard_case="132059_1" X_vs_Y="132059_3" gram_type="pre_nom" relation_type="equivalence" id="132059_7" ></RELATION>
+
+<RELATION theme="132059_3" includes_docket_string="02-11351" includes_docket="132059_2" theme_string="MORGAN v. ILLINOIS" gram_type="apposition" relation_type="asymmetric" id="132059_10" ></RELATION>
+
+<RELATION theme="132059_3" party1="132059_4" party1_string="MORGAN" theme_string="MORGAN v. ILLINOIS" gram_type="infix" relation_type="asymmetric" id="132059_8" ></RELATION>
+
+<RELATION party2="132059_5" theme="132059_3" theme_string="MORGAN v. ILLINOIS" party2_string="ILLINOIS" gram_type="infix" relation_type="asymmetric" id="132059_9" ></RELATION>
+

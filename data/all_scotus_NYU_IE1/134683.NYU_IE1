@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['pattersonstates#9']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_1085" id1="134688" volume="540" start="0" page_number="1085" standard_reporter="U.S." citation_global_level_id="4958.002" line="1" id="134683_1" citation_local_level_id="0" >540 U.S. 1085</CITATION>
+
+<CITATION party2="UNITED STATES" party1="PATTERSON" citation_global_level_id="33933.001" party2_short="STATES" line="1" id="134683_3" alternative_keys="['u.s._540_1085']" end="44" entry_type="party_key" lookup_key="pattersonstates#9" id1="118745" start="18" party1_short="PATTERSON" citation_local_level_id="1" >PATTERSON v. UNITED STATES</CITATION>
+
+<NAME end="27" start="18" party1_of="134683_3" all_names="PATTERSON" local_name_id="1" id="134683_4" >PATTERSON</NAME>
+
+<NAME end="44" start="31" all_names="UNITED STATES" party2_of="134683_3" local_name_id="2" id="134683_5" >UNITED STATES</NAME>
+
+<DOCKET end="61" entry_type="docket" lookup_key="u.s._540_1085" id1="134688" start="54" citation_global_level_id="4958.002" line="1" id="134683_2" citation_local_level_id="0" >03-7385</DOCKET>
+
+<DATE start="103" end="119" id="134683_6" >December 8, 2003</DATE>
+
+<NAME start="197" local_name_id="3" end="207" id="134683_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="245" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_339_400" id1="Dummy_File_203234" volume="339" start="232" page_number="400" standard_reporter="F.3D" citation_global_level_id="267084.001" line="3" id="134683_12" citation_local_level_id="2" >339 F. 3d 400</CITATION>
+
+<RELATION theme="134683_1" includes_docket_string="03-7385" includes_docket="134683_2" theme_string="540 U.S. 1085" gram_type="apposition" relation_type="asymmetric" id="134683_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 1085" X_vs_Y_string="PATTERSON v. UNITED STATES" standard_case="134683_1" X_vs_Y="134683_3" gram_type="pre_nom" relation_type="equivalence" id="134683_7" ></RELATION>
+
+<RELATION theme="134683_3" includes_docket_string="03-7385" includes_docket="134683_2" theme_string="PATTERSON v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="134683_10" ></RELATION>
+
+<RELATION theme="134683_3" party1="134683_4" party1_string="PATTERSON" theme_string="PATTERSON v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="134683_8" ></RELATION>
+
+<RELATION party2="134683_5" theme="134683_3" theme_string="PATTERSON v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="134683_9" ></RELATION>
+

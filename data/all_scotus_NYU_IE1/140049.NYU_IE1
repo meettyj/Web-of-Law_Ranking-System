@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['assnhealthcare#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_979" id1="140052" volume="543" start="0" page_number="979" standard_reporter="U.S." citation_global_level_id="751.002" line="1" id="140049_1" citation_local_level_id="0" >543 U.S. 979</CITATION>
+
+<CITATION party2="TRIGON HEALTHCARE, INC., ET AL" party1="AMERICAN CHIROPRACTIC ASSN., INC., ET AL." citation_global_level_id="751.01" party2_short="HEALTHCARE" line="2" id="140049_2" alternative_keys="['u.s._543_979']" end="92" entry_type="party_key" lookup_key="assnhealthcare#2" id1="140052" start="17" party1_short="ASSN" citation_local_level_id="1" >AMERICAN CHIROPRACTIC ASSN., INC., ET AL. v. TRIGON HEALTHCARE, INC., ET AL</CITATION>
+
+<NAME end="58" start="17" party1_of="140049_2" all_names="AMERICAN CHIROPRACTIC ASSN INC" local_name_id="1" id="140049_3" >AMERICAN CHIROPRACTIC ASSN., INC., ET AL.</NAME>
+
+<ORGANIZATION start="46" end="49" id="140049_5" >INC</ORGANIZATION>
+
+<NAME end="92" start="62" all_names="TRIGON HEALTHCARE INC" party2_of="140049_2" local_name_id="2" id="140049_4" >TRIGON HEALTHCARE, INC., ET AL</NAME>
+
+<ORGANIZATION start="62" end="84" id="140049_6" >TRIGON HEALTHCARE, INC</ORGANIZATION>
+
+<DOCKET alternative_keys="['u.s._543_979']" end="108" entry_type="docket" lookup_key="assnhealthcare#2" id1="140052" start="102" citation_global_level_id="751.01" line="3" id="140049_9" citation_local_level_id="1" >04-312</DOCKET>
+
+<ORGANIZATION start="114" end="144" id="140049_10" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="150" citation_global_level_id="751.01" end="166" id="140049_11" citation_local_level_id="1" >November 8, 2004</DATE>
+
+<NAME start="198" local_name_id="3" end="201" id="140049_16" all_names="CIR" >Cir</NAME>
+
+<CITATION end="251" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_367_212" id1="Dummy_File_222205" volume="367" start="238" page_number="212" standard_reporter="F.3D" citation_global_level_id="286055.001" line="8" id="140049_15" citation_local_level_id="2" >367 F. 3d 212</CITATION>
+
+<RELATION theme="140049_2" party1="140049_3" party1_string="AMERICAN CHIROPRACTIC ASSN., INC., ET AL." theme_string="AMERICAN CHIROPRACTIC ASSN., INC., ET AL. v. TRIGON HEALTHCARE, INC., ET AL" gram_type="infix" relation_type="asymmetric" id="140049_7" ></RELATION>
+
+<RELATION party2="140049_4" theme="140049_2" theme_string="AMERICAN CHIROPRACTIC ASSN., INC., ET AL. v. TRIGON HEALTHCARE, INC., ET AL" party2_string="TRIGON HEALTHCARE, INC., ET AL" gram_type="infix" relation_type="asymmetric" id="140049_8" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 979" X_vs_Y_string="AMERICAN CHIROPRACTIC ASSN., INC., ET AL. v. TRIGON HEALTHCARE, INC., ET AL" standard_case="140049_1" X_vs_Y="140049_2" gram_type="multi_line" relation_type="equivalence" id="140049_12" ></RELATION>
+
+<RELATION at_date_string="November 8, 2004" theme="140049_2" at_date="140049_11" theme_string="AMERICAN CHIROPRACTIC ASSN., INC., ET AL. v. TRIGON HEALTHCARE, INC., ET AL" gram_type="multi_line" relation_type="asymmetric" id="140049_14" ></RELATION>
+
+<RELATION theme="140049_2" includes_docket_string="04-312" includes_docket="140049_9" theme_string="AMERICAN CHIROPRACTIC ASSN., INC., ET AL. v. TRIGON HEALTHCARE, INC., ET AL" gram_type="multi_line" relation_type="asymmetric" id="140049_13" ></RELATION>
+

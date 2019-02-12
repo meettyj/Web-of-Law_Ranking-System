@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['bankcompany#3']" end="19" reporter="U.S." entry_type="standard_key" lookup_key="u.s._100_43" id1="90010" volume="100" start="1" page_number="43" standard_reporter="U.S." citation_global_level_id="31325.002" line="2" id="1246952_1" citation_local_level_id="0" >100 U.S. 43 (____)</CITATION>
+
+<CITATION party2="INSURANCE COMPANY" party1="NATIONAL BANK" citation_global_level_id="31325.004" party2_short="COMPANY" line="5" id="1246952_4" alternative_keys="['u.s._100_43']" end="56" entry_type="party_key" lookup_key="bankcompany#3" id1="90010" start="20" party1_short="BANK" citation_local_level_id="1" >NATIONAL BANK v. INSURANCE COMPANY</CITATION>
+
+<NAME end="33" start="20" party1_of="1246952_4" all_names="NATIONAL BANK" local_name_id="1" id="1246952_5" >NATIONAL BANK</NAME>
+
+<NAME end="56" start="39" all_names="INSURANCE COMPANY" party2_of="1246952_4" local_name_id="2" id="1246952_6" >INSURANCE COMPANY</NAME>
+
+<ORGANIZATION start="58" end="88" id="1246952_9" >Supreme Court of United States</ORGANIZATION>
+
+<NAME start="91" local_name_id="3" end="113" id="1246952_11" all_names="MR JAMES O BROADHEAD" >Mr. James O. Broadhead</NAME>
+
+<NAME start="140" local_name_id="4" end="156" id="1246952_12" all_names="MR LUCIEN EATON" >Mr. Lucien Eaton</NAME>
+
+<NAME start="166" local_name_id="5" end="168" id="1246952_13" all_names="MR" >MR</NAME>
+
+<PROFESSION start="356" end="363" id="1246952_14" >counsel</PROFESSION>
+
+<RELATION theme="1246952_4" party1="1246952_5" party1_string="NATIONAL BANK" theme_string="NATIONAL BANK  v.  INSURANCE COMPANY" gram_type="infix" relation_type="asymmetric" id="1246952_7" ></RELATION>
+
+<RELATION party2="1246952_6" theme="1246952_4" theme_string="NATIONAL BANK  v.  INSURANCE COMPANY" party2_string="INSURANCE COMPANY" gram_type="infix" relation_type="asymmetric" id="1246952_8" ></RELATION>
+
+<RELATION standard_case_string="100 U.S. 43 (____)" X_vs_Y_string="NATIONAL BANK  v.  INSURANCE COMPANY" standard_case="1246952_1" X_vs_Y="1246952_4" gram_type="multi_line" relation_type="equivalence" id="1246952_10" ></RELATION>
+

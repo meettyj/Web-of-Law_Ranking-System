@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['boydjackson#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_855" id1="131854" volume="540" start="0" page_number="855" standard_reporter="U.S." citation_global_level_id="5511.002" line="1" id="131853_1" citation_local_level_id="0" >540 U.S. 855</CITATION>
+
+<CITATION party2="JACKSON, WARDEN" party1="BOYD" citation_global_level_id="5511.004" party2_short="JACKSON" line="1" id="131853_3" alternative_keys="['u.s._540_855']" end="40" entry_type="party_key" lookup_key="boydjackson#1" id1="131854" start="17" party1_short="BOYD" citation_local_level_id="1" >BOYD v. JACKSON, WARDEN</CITATION>
+
+<NAME end="21" start="17" party1_of="131853_3" all_names="BOYD" local_name_id="1" id="131853_4" >BOYD</NAME>
+
+<NAME end="40" start="25" all_names="JACKSON WARDEN" party2_of="131853_3" local_name_id="2" id="131853_5" >JACKSON, WARDEN</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._540_855" id1="131854" start="50" citation_global_level_id="5511.002" line="1" id="131853_2" citation_local_level_id="0" >02-11104</DOCKET>
+
+<DATE start="100" end="115" id="131853_6" >October 6, 2003</DATE>
+
+<NAME start="193" local_name_id="3" end="203" id="131853_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="131853_1" includes_docket_string="02-11104" includes_docket="131853_2" theme_string="540 U.S. 855" gram_type="apposition" relation_type="asymmetric" id="131853_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 855" X_vs_Y_string="BOYD v. JACKSON, WARDEN" standard_case="131853_1" X_vs_Y="131853_3" gram_type="pre_nom" relation_type="equivalence" id="131853_7" ></RELATION>
+
+<RELATION theme="131853_3" includes_docket_string="02-11104" includes_docket="131853_2" theme_string="BOYD v. JACKSON, WARDEN" gram_type="apposition" relation_type="asymmetric" id="131853_10" ></RELATION>
+
+<RELATION theme="131853_3" party1="131853_4" party1_string="BOYD" theme_string="BOYD v. JACKSON, WARDEN" gram_type="infix" relation_type="asymmetric" id="131853_8" ></RELATION>
+
+<RELATION party2="131853_5" theme="131853_3" theme_string="BOYD v. JACKSON, WARDEN" party2_string="JACKSON, WARDEN" gram_type="infix" relation_type="asymmetric" id="131853_9" ></RELATION>
+

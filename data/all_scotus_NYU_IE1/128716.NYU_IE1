@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['gurulecalifornia#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_964" id1="128724" volume="538" start="0" page_number="964" standard_reporter="U.S." citation_global_level_id="9110.002" line="1" id="128716_1" citation_local_level_id="0" >538 U.S. 964</CITATION>
+
+<CITATION party2="CALIFORNIA" party1="GURULE" citation_global_level_id="38113.001" party2_short="CALIFORNIA" line="1" id="128716_3" alternative_keys="['u.s._538_964']" end="37" entry_type="party_key" lookup_key="gurulecalifornia#1" id1="128716" start="17" party1_short="GURULE" citation_local_level_id="1" >GURULE v. CALIFORNIA</CITATION>
+
+<NAME end="23" start="17" party1_of="128716_3" all_names="GURULE" local_name_id="1" id="128716_4" >GURULE</NAME>
+
+<NAME end="37" start="27" all_names="CALIFORNIA" party2_of="128716_3" local_name_id="2" id="128716_5" >CALIFORNIA</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="u.s._538_964" id1="128724" start="47" citation_global_level_id="9110.002" line="1" id="128716_2" citation_local_level_id="0" >02-8879</DOCKET>
+
+<DATE start="96" end="109" id="128716_6" >April 7, 2003</DATE>
+
+<NAME start="203" local_name_id="3" end="206" id="128716_13" all_names="SUP" >Sup</NAME>
+
+<CITATION end="281" reporter="P. 3d" entry_type="standard_key" no_current_file="True" lookup_key="p.3d_51_224" id1="Dummy_File_139764" volume="51" start="269" page_number="224" standard_reporter="P.3D" citation_global_level_id="203614.001" line="3" id="128716_12" citation_local_level_id="2" >51 P. 3d 224</CITATION>
+
+<RELATION theme="128716_1" includes_docket_string="02-8879" includes_docket="128716_2" theme_string="538 U.S. 964" gram_type="apposition" relation_type="asymmetric" id="128716_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 964" X_vs_Y_string="GURULE v. CALIFORNIA" standard_case="128716_1" X_vs_Y="128716_3" gram_type="pre_nom" relation_type="equivalence" id="128716_7" ></RELATION>
+
+<RELATION theme="128716_3" includes_docket_string="02-8879" includes_docket="128716_2" theme_string="GURULE v. CALIFORNIA" gram_type="apposition" relation_type="asymmetric" id="128716_10" ></RELATION>
+
+<RELATION theme="128716_3" party1="128716_4" party1_string="GURULE" theme_string="GURULE v. CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="128716_8" ></RELATION>
+
+<RELATION party2="128716_5" theme="128716_3" theme_string="GURULE v. CALIFORNIA" party2_string="CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="128716_9" ></RELATION>
+

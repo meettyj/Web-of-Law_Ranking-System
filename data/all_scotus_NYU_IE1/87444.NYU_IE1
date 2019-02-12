@@ -1,0 +1,40 @@
+<CITATION alternative_keys="['briensmith#1', 'black_1_99']" end="18" reporter="U.S." entry_type="standard_key" lookup_key="u.s._66_99" id1="87444" volume="66" start="1" page_number="99" standard_reporter="U.S." citation_global_level_id="18219.002" line="2" id="87444_1" citation_local_level_id="0" >66 U.S. 99 (____)</CITATION>
+
+<CITATION alternative_keys="['u.s._66_99', 'briensmith#1']" end="29" reporter="Black" entry_type="standard_key" lookup_key="black_1_99" id1="87444" volume="1" start="19" page_number="99" standard_reporter="BLACK" citation_global_level_id="18219.003" line="3" id="87444_2" citation_local_level_id="1" >1 Black 99</CITATION>
+
+<CITATION party2="SMITH" party1="O'BRIEN" citation_global_level_id="18219.004" party2_short="SMITH" line="6" id="87444_4" alternative_keys="['black_1_99', 'u.s._66_99']" end="49" entry_type="party_key" lookup_key="briensmith#1" id1="87444" start="30" party1_short="BRIEN" citation_local_level_id="2" >O'BRIEN vs. SMITH</CITATION>
+
+<NAME end="37" start="30" party1_of="87444_4" all_names="O'BRIEN" local_name_id="1" id="87444_5" >O'BRIEN</NAME>
+
+<NAME end="49" start="44" all_names="SMITH" party2_of="87444_4" local_name_id="2" id="87444_6" >SMITH</NAME>
+
+<ORGANIZATION start="51" end="81" id="87444_9" >Supreme Court of United States</ORGANIZATION>
+
+<NAME start="89" local_name_id="3" end="114" id="87444_12" all_names="MR DAVIDGE AND MR INGLE" >Mr. Davidge and Mr. Ingle</NAME>
+
+<LEGAL_ROLE start="120" end="129" id="87444_13" >plaintiff</LEGAL_ROLE>
+
+<NAME start="148" local_name_id="4" end="160" id="87444_14" all_names="MR CARLISLE" >Mr. Carlisle</NAME>
+
+<LEGAL_ROLE start="166" end="175" id="87444_15" >defendant</LEGAL_ROLE>
+
+<PROFESSION start="186" document_level_name_id="5" end="203" id="87444_16" party="TANEY" >Mr. Chief Justice</PROFESSION>
+
+<NAME start="204" local_name_id="5" end="209" id="87444_17" all_names="TANEY" >TANEY</NAME>
+
+<ORGANIZATION start="240" end="253" id="87444_19" >Circuit Court</ORGANIZATION>
+
+<LEGAL_ROLE start="347" end="372" id="87444_20" >counsel for the defendant</LEGAL_ROLE>
+
+<ORGANIZATION start="528" end="557" id="87444_21" >Judgment of the Circuit Court</ORGANIZATION>
+
+<RELATION theme="87444_4" party1="87444_5" party1_string="O'BRIEN" theme_string="O'BRIEN  vs.  SMITH" gram_type="infix" relation_type="asymmetric" id="87444_7" ></RELATION>
+
+<RELATION party2="87444_6" theme="87444_4" theme_string="O'BRIEN  vs.  SMITH" party2_string="SMITH" gram_type="infix" relation_type="asymmetric" id="87444_8" ></RELATION>
+
+<RELATION standard_case_string="66 U.S. 99 (____)" X_vs_Y_string="O'BRIEN  vs.  SMITH" standard_case="87444_1" X_vs_Y="87444_4" gram_type="multi_line" relation_type="equivalence" id="87444_10" ></RELATION>
+
+<RELATION standard_case_string="1 Black 99" X_vs_Y_string="O'BRIEN  vs.  SMITH" standard_case="87444_2" X_vs_Y="87444_4" gram_type="multi_line" relation_type="equivalence" id="87444_11" ></RELATION>
+
+<RELATION theme="87444_17" profession_string="Mr. Chief Justice" theme_string="TANEY" profession="87444_16" gram_type="pre_nom" relation_type="asymmetric" id="87444_18" ></RELATION>
+

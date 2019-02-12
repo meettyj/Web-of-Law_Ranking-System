@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['sumnerstates#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_897" id1="132414" volume="540" start="0" page_number="897" standard_reporter="U.S." citation_global_level_id="3032.002" line="1" id="132418_1" citation_local_level_id="0" >540 U.S. 897</CITATION>
+
+<CITATION party2="UNITED STATES" party1="SUMNER" citation_global_level_id="35997.001" party2_short="STATES" line="1" id="132418_3" alternative_keys="['u.s._540_897']" end="40" entry_type="party_key" lookup_key="sumnerstates#1" id1="132418" start="17" party1_short="SUMNER" citation_local_level_id="1" >SUMNER v. UNITED STATES</CITATION>
+
+<NAME end="23" start="17" party1_of="132418_3" all_names="SUMNER" local_name_id="1" id="132418_4" >SUMNER</NAME>
+
+<NAME end="40" start="27" all_names="UNITED STATES" party2_of="132418_3" local_name_id="2" id="132418_5" >UNITED STATES</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._540_897" id1="132414" start="50" citation_global_level_id="3032.002" line="1" id="132418_2" citation_local_level_id="0" >03-5242</DOCKET>
+
+<DATE start="99" end="114" id="132418_6" >October 6, 2003</DATE>
+
+<NAME start="192" local_name_id="3" end="202" id="132418_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="240" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_325_884" id1="Dummy_File_174366" volume="325" start="227" page_number="884" standard_reporter="F.3D" citation_global_level_id="238216.001" line="3" id="132418_12" citation_local_level_id="2" >325 F. 3d 884</CITATION>
+
+<RELATION theme="132418_1" includes_docket_string="03-5242" includes_docket="132418_2" theme_string="540 U.S. 897" gram_type="apposition" relation_type="asymmetric" id="132418_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 897" X_vs_Y_string="SUMNER v. UNITED STATES" standard_case="132418_1" X_vs_Y="132418_3" gram_type="pre_nom" relation_type="equivalence" id="132418_7" ></RELATION>
+
+<RELATION theme="132418_3" includes_docket_string="03-5242" includes_docket="132418_2" theme_string="SUMNER v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="132418_10" ></RELATION>
+
+<RELATION theme="132418_3" party1="132418_4" party1_string="SUMNER" theme_string="SUMNER v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="132418_8" ></RELATION>
+
+<RELATION party2="132418_5" theme="132418_3" theme_string="SUMNER v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="132418_9" ></RELATION>
+

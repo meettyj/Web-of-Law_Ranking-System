@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['weaverjones#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_943" id1="130671" volume="539" start="0" page_number="943" standard_reporter="U.S." citation_global_level_id="1346.002" line="1" id="130674_1" citation_local_level_id="0" >539 U.S. 943</CITATION>
+
+<CITATION party2="Jones, Warden" party1="Weaver" citation_global_level_id="1887.003" party2_short="Jones" line="1" id="130674_3" alternative_keys="['u.s._539_960']" end="40" entry_type="party_key" lookup_key="weaverjones#1" id1="130873" start="17" party1_short="Weaver" citation_local_level_id="1" >Weaver v. Jones, Warden</CITATION>
+
+<NAME end="23" start="17" party1_of="130674_3" all_names="WEAVER" local_name_id="1" id="130674_4" >Weaver</NAME>
+
+<NAME end="40" start="27" all_names="JONES WARDEN" party2_of="130674_3" local_name_id="2" id="130674_5" >Jones, Warden</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._539_943" id1="130671" start="50" citation_global_level_id="1346.002" line="1" id="130674_2" citation_local_level_id="0" >02-1622</DOCKET>
+
+<DATE start="99" end="112" id="130674_6" >June 23, 2003</DATE>
+
+<NAME start="191" local_name_id="3" end="201" id="130674_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="130674_1" includes_docket_string="02-1622" includes_docket="130674_2" theme_string="539 U.S. 943" gram_type="apposition" relation_type="asymmetric" id="130674_11" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 943" X_vs_Y_string="Weaver v. Jones, Warden" standard_case="130674_1" X_vs_Y="130674_3" gram_type="pre_nom" relation_type="equivalence" id="130674_7" ></RELATION>
+
+<RELATION theme="130674_3" includes_docket_string="02-1622" includes_docket="130674_2" theme_string="Weaver v. Jones, Warden" gram_type="apposition" relation_type="asymmetric" id="130674_10" ></RELATION>
+
+<RELATION theme="130674_3" party1="130674_4" party1_string="Weaver" theme_string="Weaver v. Jones, Warden" gram_type="infix" relation_type="asymmetric" id="130674_8" ></RELATION>
+
+<RELATION party2="130674_5" theme="130674_3" theme_string="Weaver v. Jones, Warden" party2_string="Jones, Warden" gram_type="infix" relation_type="asymmetric" id="130674_9" ></RELATION>
+

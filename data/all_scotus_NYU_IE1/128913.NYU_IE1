@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['raiserstates#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_979" id1="128905" volume="538" start="0" page_number="979" standard_reporter="U.S." citation_global_level_id="3683.002" line="1" id="128913_1" citation_local_level_id="0" >538 U.S. 979</CITATION>
+
+<CITATION party2="UNITED STATES" party1="RAISER" citation_global_level_id="29949.001" party2_short="STATES" line="1" id="128913_3" alternative_keys="['u.s._538_979']" end="40" entry_type="party_key" lookup_key="raiserstates#1" id1="128913" start="17" party1_short="RAISER" citation_local_level_id="1" >RAISER v. UNITED STATES</CITATION>
+
+<NAME end="23" start="17" party1_of="128913_3" all_names="RAISER" local_name_id="1" id="128913_4" >RAISER</NAME>
+
+<NAME end="40" start="27" all_names="UNITED STATES" party2_of="128913_3" local_name_id="2" id="128913_5" >UNITED STATES</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._538_979" id1="128905" start="50" citation_global_level_id="3683.002" line="1" id="128913_2" citation_local_level_id="0" >02-1258</DOCKET>
+
+<DATE start="99" end="113" id="128913_6" >April 21, 2003</DATE>
+
+<NAME start="243" local_name_id="3" end="246" id="128913_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="297" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_325_1182" id1="Dummy_File_150976" volume="325" start="283" page_number="1182" standard_reporter="F.3D" citation_global_level_id="214826.001" line="3" id="128913_12" citation_local_level_id="2" >325 F. 3d 1182</CITATION>
+
+<RELATION theme="128913_1" includes_docket_string="02-1258" includes_docket="128913_2" theme_string="538 U.S. 979" gram_type="apposition" relation_type="asymmetric" id="128913_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 979" X_vs_Y_string="RAISER v. UNITED STATES" standard_case="128913_1" X_vs_Y="128913_3" gram_type="pre_nom" relation_type="equivalence" id="128913_7" ></RELATION>
+
+<RELATION theme="128913_3" includes_docket_string="02-1258" includes_docket="128913_2" theme_string="RAISER v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="128913_10" ></RELATION>
+
+<RELATION theme="128913_3" party1="128913_4" party1_string="RAISER" theme_string="RAISER v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="128913_8" ></RELATION>
+
+<RELATION party2="128913_5" theme="128913_3" theme_string="RAISER v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="128913_9" ></RELATION>
+

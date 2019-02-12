@@ -1,0 +1,50 @@
+<CITATION alternative_keys="['reevesstate#2', 's.ct._78_363', 'l.ed.2d_2_352']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._355_368" id1="105610" volume="355" start="0" page_number="368" standard_reporter="U.S." citation_global_level_id="61855.002" line="1" id="105610_1" citation_local_level_id="0" >355 U.S. 368</CITATION>
+
+<CITATION alternative_keys="['u.s._355_368', 'reevesstate#2', 'l.ed.2d_2_352']" end="30" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._78_363" id1="105610" volume="78" start="17" page_number="363" standard_reporter="S.CT." citation_global_level_id="61855.003" line="1" id="105610_2" citation_local_level_id="1" >78 S. Ct. 363</CITATION>
+
+<NAME start="20" local_name_id="1" end="25" id="105610_9" all_names="S CT" >S. Ct</NAME>
+
+<CITATION alternative_keys="['u.s._355_368', 's.ct._78_363', 'reevesstate#2']" end="50" reporter="L. Ed. 2d" entry_type="standard_key" lookup_key="l.ed.2d_2_352" id1="105610" volume="2" start="35" page_number="352" standard_reporter="L.ED.2D" citation_global_level_id="61855.004" line="1" id="105610_3" citation_local_level_id="2" >2 L. Ed. 2d 352</CITATION>
+
+<CITATION party2="STATE OF ALABAMA" alternative_keys="['s.ct._78_363', 'l.ed.2d_2_352', 'u.s._355_368']" party1="Jeremiah REEVES, Jr.," end="108" party1_short="REEVES" entry_type="party_key" party1_role="petitioner" lookup_key="reevesstate#2" id1="105610" start="55" citation_global_level_id="61855.005" party2_short="STATE" line="1" id="105610_4" citation_local_level_id="3" >Jeremiah REEVES, Jr., petitioner, v. STATE OF ALABAMA</CITATION>
+
+<NAME end="76" start="55" party1_of="105610_4" all_names="JEREMIAH REEVES JR" local_name_id="2" id="105610_5" >Jeremiah REEVES, Jr.,</NAME>
+
+<LEGAL_ROLE start="77" end="87" id="105610_7" >petitioner</LEGAL_ROLE>
+
+<NAME end="108" start="92" all_names="STATE OF ALABAMA" party2_of="105610_4" local_name_id="3" id="105610_6" >STATE OF ALABAMA</NAME>
+
+<DATE start="165" end="181" id="105610_8" >January 13, 1958</DATE>
+
+<NAME start="266" local_name_id="4" end="315" id="105610_15" all_names="MESSRS WILLIAM F THETFORD AND ROBERT B STEWART" >Messrs. William F. Thetford and Robert B. Stewart</NAME>
+
+<NAME start="317" local_name_id="5" end="339" id="105610_16" all_names="MESSRS JOHN PATTERSON" >Messrs. John Patterson</NAME>
+
+<PROFESSION start="341" document_level_name_id="4" end="383" id="105610_17" party="MESSRS WILLIAM F THETFORD AND ROBERT B STEWART" >Atty. Gen. of Alabama and Bernard F. Sykes</PROFESSION>
+
+<PROFESSION start="385" end="400" id="105610_18" >Asst. Atty. Gen</PROFESSION>
+
+<LEGAL_ROLE start="422" end="432" id="105610_19" >respondent</LEGAL_ROLE>
+
+<ORGANIZATION start="469" end="493" id="105610_22" >Supreme Court of Alabama</ORGANIZATION>
+
+<NAME start="505" local_name_id="6" end="511" id="105610_23" all_names="CURIAM" >CURIAM</NAME>
+
+<NAME start="625" local_name_id="7" end="644" id="105610_24" all_names="MR JUSTICE DOUGLAS" >Mr. Justice DOUGLAS</NAME>
+
+<PROFESSION start="629" end="636" id="105610_25" >Justice</PROFESSION>
+
+<RELATION standard_case_string="355 U.S. 368" X_vs_Y_string="Jeremiah REEVES, Jr., petitioner, v. STATE OF ALABAMA" standard_case="105610_1" X_vs_Y="105610_4" gram_type="pre_nom" relation_type="equivalence" id="105610_11" ></RELATION>
+
+<RELATION standard_case_string="78 S. Ct. 363" X_vs_Y_string="Jeremiah REEVES, Jr., petitioner, v. STATE OF ALABAMA" standard_case="105610_2" X_vs_Y="105610_4" gram_type="pre_nom" relation_type="equivalence" id="105610_12" ></RELATION>
+
+<RELATION standard_case_string="2 L. Ed. 2d 352" X_vs_Y_string="Jeremiah REEVES, Jr., petitioner, v. STATE OF ALABAMA" standard_case="105610_3" X_vs_Y="105610_4" gram_type="pre_nom" relation_type="equivalence" id="105610_10" ></RELATION>
+
+<RELATION theme="105610_4" party1="105610_5" party1_string="Jeremiah REEVES, Jr.," theme_string="Jeremiah REEVES, Jr., petitioner, v. STATE OF ALABAMA" gram_type="infix" relation_type="asymmetric" id="105610_13" ></RELATION>
+
+<RELATION party2="105610_6" theme="105610_4" theme_string="Jeremiah REEVES, Jr., petitioner, v. STATE OF ALABAMA" party2_string="STATE OF ALABAMA" gram_type="infix" relation_type="asymmetric" id="105610_14" ></RELATION>
+
+<RELATION theme="105610_15" profession_string="Atty. Gen. of Alabama and Bernard F. Sykes" theme_string="Messrs. William F. Thetford and Robert B. Stewart" profession="105610_17" gram_type="apposition" relation_type="asymmetric" id="105610_21" ></RELATION>
+
+<RELATION theme="105610_16" profession_string="Atty. Gen. of Alabama and Bernard F. Sykes" theme_string="Messrs. John Patterson" profession="105610_17" gram_type="apposition" relation_type="asymmetric" id="105610_20" ></RELATION>
+

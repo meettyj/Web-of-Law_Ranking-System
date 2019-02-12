@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['mccormicklouisiana#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_829" id1="122603" volume="537" start="0" page_number="829" standard_reporter="U.S." citation_global_level_id="5526.002" line="1" id="122596_1" citation_local_level_id="0" >537 U.S. 829</CITATION>
+
+<CITATION party2="LOUISIANA" party1="McCORMICK" citation_global_level_id="60372.001" party2_short="LOUISIANA" line="1" id="122596_3" alternative_keys="['u.s._537_829']" end="39" entry_type="party_key" lookup_key="mccormicklouisiana#1" id1="122596" start="17" party1_short="McCORMICK" citation_local_level_id="1" >McCORMICK v. LOUISIANA</CITATION>
+
+<NAME end="26" start="17" party1_of="122596_3" all_names="MCCORMICK" local_name_id="1" id="122596_4" >McCORMICK</NAME>
+
+<NAME end="39" start="30" all_names="LOUISIANA" party2_of="122596_3" local_name_id="2" id="122596_5" >LOUISIANA</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._537_829" id1="122603" start="49" citation_global_level_id="5526.002" line="1" id="122596_2" citation_local_level_id="0" >01-9910</DOCKET>
+
+<DATE start="98" end="113" id="122596_6" >October 7, 2002</DATE>
+
+<NAME start="246" local_name_id="3" end="248" id="122596_13" all_names="CT" >Ct</NAME>
+
+<CITATION end="318" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_786_981" id1="Dummy_File_88011" volume="786" start="304" page_number="981" standard_reporter="SO.2D" citation_global_level_id="151861.001" line="3" id="122596_12" citation_local_level_id="2" >786 So. 2d 981</CITATION>
+
+<RELATION theme="122596_1" includes_docket_string="01-9910" includes_docket="122596_2" theme_string="537 U.S. 829" gram_type="apposition" relation_type="asymmetric" id="122596_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 829" X_vs_Y_string="McCORMICK v. LOUISIANA" standard_case="122596_1" X_vs_Y="122596_3" gram_type="pre_nom" relation_type="equivalence" id="122596_7" ></RELATION>
+
+<RELATION theme="122596_3" includes_docket_string="01-9910" includes_docket="122596_2" theme_string="McCORMICK v. LOUISIANA" gram_type="apposition" relation_type="asymmetric" id="122596_10" ></RELATION>
+
+<RELATION theme="122596_3" party1="122596_4" party1_string="McCORMICK" theme_string="McCORMICK v. LOUISIANA" gram_type="infix" relation_type="asymmetric" id="122596_8" ></RELATION>
+
+<RELATION party2="122596_5" theme="122596_3" theme_string="McCORMICK v. LOUISIANA" party2_string="LOUISIANA" gram_type="infix" relation_type="asymmetric" id="122596_9" ></RELATION>
+

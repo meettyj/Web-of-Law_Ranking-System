@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['guessstates#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_919" id1="123788" volume="537" start="0" page_number="919" standard_reporter="U.S." citation_global_level_id="692.002" line="1" id="123794_1" citation_local_level_id="0" >537 U.S. 919</CITATION>
+
+<CITATION party2="UNITED STATES" party1="GUESS" citation_global_level_id="21359.001" party2_short="STATES" line="1" id="123794_3" alternative_keys="['u.s._537_919']" end="39" entry_type="party_key" lookup_key="guessstates#1" id1="123794" start="17" party1_short="GUESS" citation_local_level_id="1" >GUESS v. UNITED STATES</CITATION>
+
+<NAME end="22" start="17" party1_of="123794_3" all_names="GUESS" local_name_id="1" id="123794_4" >GUESS</NAME>
+
+<NAME end="39" start="26" all_names="UNITED STATES" party2_of="123794_3" local_name_id="2" id="123794_5" >UNITED STATES</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._537_919" id1="123788" start="49" citation_global_level_id="692.002" line="1" id="123794_2" citation_local_level_id="0" >02-5502</DOCKET>
+
+<DATE start="98" end="113" id="123794_6" >October 7, 2002</DATE>
+
+<NAME start="242" local_name_id="3" end="245" id="123794_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="123794_1" includes_docket_string="02-5502" includes_docket="123794_2" theme_string="537 U.S. 919" gram_type="apposition" relation_type="asymmetric" id="123794_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 919" X_vs_Y_string="GUESS v. UNITED STATES" standard_case="123794_1" X_vs_Y="123794_3" gram_type="pre_nom" relation_type="equivalence" id="123794_7" ></RELATION>
+
+<RELATION theme="123794_3" includes_docket_string="02-5502" includes_docket="123794_2" theme_string="GUESS v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="123794_10" ></RELATION>
+
+<RELATION theme="123794_3" party1="123794_4" party1_string="GUESS" theme_string="GUESS v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="123794_8" ></RELATION>
+
+<RELATION party2="123794_5" theme="123794_3" theme_string="GUESS v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="123794_9" ></RELATION>
+

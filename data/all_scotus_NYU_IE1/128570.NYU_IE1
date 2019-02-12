@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['rigginsflorida#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_952" id1="128569" volume="538" start="0" page_number="952" standard_reporter="U.S." citation_global_level_id="1933.002" line="1" id="128570_1" citation_local_level_id="0" >538 U.S. 952</CITATION>
+
+<CITATION party2="FLORIDA" party1="RIGGINS" citation_global_level_id="20555.001" party2_short="FLORIDA" line="1" id="128570_3" alternative_keys="['u.s._538_952']" end="35" entry_type="party_key" lookup_key="rigginsflorida#1" id1="128570" start="17" party1_short="RIGGINS" citation_local_level_id="1" >RIGGINS v. FLORIDA</CITATION>
+
+<NAME end="24" start="17" party1_of="128570_3" all_names="RIGGINS" local_name_id="1" id="128570_4" >RIGGINS</NAME>
+
+<NAME end="35" start="28" all_names="FLORIDA" party2_of="128570_3" local_name_id="2" id="128570_5" >FLORIDA</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="u.s._538_952" id1="128569" start="45" citation_global_level_id="1933.002" line="1" id="128570_2" citation_local_level_id="0" >02-9078</DOCKET>
+
+<DATE start="94" end="108" id="128570_6" >March 31, 2003</DATE>
+
+<NAME start="233" local_name_id="3" end="237" id="128570_13" all_names="DIST" >Dist</NAME>
+
+<CITATION end="313" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_827_983" id1="Dummy_File_171965" volume="827" start="299" page_number="983" standard_reporter="SO.2D" citation_global_level_id="235815.001" line="3" id="128570_12" citation_local_level_id="2" >827 So. 2d 983</CITATION>
+
+<RELATION theme="128570_1" includes_docket_string="02-9078" includes_docket="128570_2" theme_string="538 U.S. 952" gram_type="apposition" relation_type="asymmetric" id="128570_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 952" X_vs_Y_string="RIGGINS v. FLORIDA" standard_case="128570_1" X_vs_Y="128570_3" gram_type="pre_nom" relation_type="equivalence" id="128570_7" ></RELATION>
+
+<RELATION theme="128570_3" includes_docket_string="02-9078" includes_docket="128570_2" theme_string="RIGGINS v. FLORIDA" gram_type="apposition" relation_type="asymmetric" id="128570_10" ></RELATION>
+
+<RELATION theme="128570_3" party1="128570_4" party1_string="RIGGINS" theme_string="RIGGINS v. FLORIDA" gram_type="infix" relation_type="asymmetric" id="128570_8" ></RELATION>
+
+<RELATION party2="128570_5" theme="128570_3" theme_string="RIGGINS v. FLORIDA" party2_string="FLORIDA" gram_type="infix" relation_type="asymmetric" id="128570_9" ></RELATION>
+

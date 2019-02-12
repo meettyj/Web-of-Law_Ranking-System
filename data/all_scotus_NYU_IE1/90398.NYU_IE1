@@ -1,0 +1,56 @@
+<CITATION alternative_keys="['williamsclaflin#1']" end="20" reporter="U.S." entry_type="standard_key" lookup_key="u.s._103_753" id1="90398" volume="103" start="1" page_number="753" standard_reporter="U.S." citation_global_level_id="52083.002" line="2" id="90398_1" citation_local_level_id="0" >103 U.S. 753 (____)</CITATION>
+
+<CITATION party2="CLAFLIN" party1="WILLIAMS" citation_global_level_id="52083.001" party2_short="CLAFLIN" line="5" id="90398_3" alternative_keys="['u.s._103_753']" end="42" entry_type="party_key" lookup_key="williamsclaflin#1" id1="90398" start="21" party1_short="WILLIAMS" citation_local_level_id="1" >WILLIAMS v. CLAFLIN</CITATION>
+
+<NAME end="29" start="21" party1_of="90398_3" all_names="WILLIAMS" local_name_id="1" id="90398_4" >WILLIAMS</NAME>
+
+<NAME end="42" start="35" all_names="CLAFLIN" party2_of="90398_3" local_name_id="2" id="90398_5" >CLAFLIN</NAME>
+
+<ORGANIZATION start="44" end="74" id="90398_8" >Supreme Court of United States</ORGANIZATION>
+
+<NAME start="77" local_name_id="3" end="120" id="90398_10" all_names="MR GEORGE F EDMUNDS AND MR JAMES LOWNDES" >Mr. George F. Edmunds and Mr. James Lowndes</NAME>
+
+<NAME start="147" local_name_id="4" end="190" id="90398_11" all_names="MR PHILIP PHILLIPS AND MR SAMUEL LORD JR" >Mr. Philip Phillips and Mr. Samuel Lord, Jr</NAME>
+
+<NAME start="216" local_name_id="5" end="218" id="90398_12" all_names="MR" >MR</NAME>
+
+<CITATION party2="McCarter" party1="Jerome" citation_global_level_id="48215.001" party2_short="McCarter" line="11" id="90398_14" alternative_keys="['wall._21_17']" end="297" entry_type="party_key" lookup_key="jeromemccarter#2" id1="88980" start="279" party1_short="Jerome" citation_local_level_id="2" >Jerome v. McCarter</CITATION>
+
+<NAME end="285" start="279" party1_of="90398_14" all_names="JEROME" local_name_id="6" id="90398_15" >Jerome</NAME>
+
+<NAME end="297" start="289" all_names="MCCARTER" party2_of="90398_14" local_name_id="7" id="90398_16" >McCarter</NAME>
+
+<CITATION alternative_keys="['jeromemccarter#2']" end="310" reporter="Wall." entry_type="standard_key" lookup_key="wall._21_17" id1="88980" volume="21" start="299" page_number="17" standard_reporter="WALL." citation_global_level_id="48215.003" line="11" id="90398_13" citation_local_level_id="3" >21 Wall. 17</CITATION>
+
+<PROFESSION start="657" end="664" id="90398_17" >justice</PROFESSION>
+
+<LEGAL_ROLE start="693" end="703" plural="True" id="90398_18" >appellants</LEGAL_ROLE>
+
+<ORGANIZATION start="780" end="787" id="90398_19" >company</ORGANIZATION>
+
+<LEGAL_ROLE start="956" end="965" plural="True" id="90398_20" party="party2" >appellees</LEGAL_ROLE>
+
+<LEGAL_ROLE start="980" end="992" plural="True" id="90398_21" >complainants</LEGAL_ROLE>
+
+<LEGAL_ROLE start="1062" end="1072" plural="True" id="90398_22" >appellants</LEGAL_ROLE>
+
+<LEGAL_ROLE start="1524" end="1534" plural="True" id="90398_23" >appellants</LEGAL_ROLE>
+
+<ORGANIZATION start="1810" end="1815" id="90398_27" >court</ORGANIZATION>
+
+<ORGANIZATION start="1880" end="1885" id="90398_28" >court</ORGANIZATION>
+
+<LEGAL_ROLE start="2061" end="2071" plural="True" id="90398_29" >appellants</LEGAL_ROLE>
+
+<RELATION theme="90398_3" party1="90398_4" party1_string="WILLIAMS" theme_string="WILLIAMS  v.  CLAFLIN" gram_type="infix" relation_type="asymmetric" id="90398_6" ></RELATION>
+
+<RELATION party2="90398_5" theme="90398_3" theme_string="WILLIAMS  v.  CLAFLIN" party2_string="CLAFLIN" gram_type="infix" relation_type="asymmetric" id="90398_7" ></RELATION>
+
+<RELATION standard_case_string="103 U.S. 753 (____)" X_vs_Y_string="WILLIAMS  v.  CLAFLIN" standard_case="90398_1" X_vs_Y="90398_3" gram_type="multi_line" relation_type="equivalence" id="90398_9" ></RELATION>
+
+<RELATION standard_case_string="21 Wall. 17" X_vs_Y_string="Jerome v. McCarter" standard_case="90398_13" X_vs_Y="90398_14" gram_type="apposition" relation_type="equivalence" id="90398_26" ></RELATION>
+
+<RELATION theme="90398_14" party1="90398_15" party1_string="Jerome" theme_string="Jerome v. McCarter" gram_type="infix" relation_type="asymmetric" id="90398_24" ></RELATION>
+
+<RELATION party2="90398_16" theme="90398_14" theme_string="Jerome v. McCarter" party2_string="McCarter" gram_type="infix" relation_type="asymmetric" id="90398_25" ></RELATION>
+

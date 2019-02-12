@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['fargophillips#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_932" id1="130549" volume="539" start="0" page_number="932" standard_reporter="U.S." citation_global_level_id="1003.002" line="1" id="130547_1" citation_local_level_id="0" >539 U.S. 932</CITATION>
+
+<CITATION party2="Phillips, Warden" party1="Fargo" citation_global_level_id="1003.011" party2_short="Phillips" line="1" id="130547_3" alternative_keys="['u.s._539_932']" end="42" entry_type="party_key" lookup_key="fargophillips#1" id1="130549" start="17" party1_short="Fargo" citation_local_level_id="1" >Fargo v. Phillips, Warden</CITATION>
+
+<NAME end="22" start="17" party1_of="130547_3" all_names="FARGO" local_name_id="1" id="130547_4" >Fargo</NAME>
+
+<NAME end="42" start="26" all_names="PHILLIPS WARDEN" party2_of="130547_3" local_name_id="2" id="130547_5" >Phillips, Warden</NAME>
+
+<DOCKET end="60" entry_type="docket" lookup_key="u.s._539_932" id1="130549" start="52" citation_global_level_id="1003.002" line="1" id="130547_2" citation_local_level_id="0" >02-10253</DOCKET>
+
+<DATE start="102" end="115" id="130547_6" >June 16, 2003</DATE>
+
+<NAME start="193" local_name_id="3" end="203" id="130547_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="130547_1" includes_docket_string="02-10253" includes_docket="130547_2" theme_string="539 U.S. 932" gram_type="apposition" relation_type="asymmetric" id="130547_11" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 932" X_vs_Y_string="Fargo v. Phillips, Warden" standard_case="130547_1" X_vs_Y="130547_3" gram_type="pre_nom" relation_type="equivalence" id="130547_7" ></RELATION>
+
+<RELATION theme="130547_3" includes_docket_string="02-10253" includes_docket="130547_2" theme_string="Fargo v. Phillips, Warden" gram_type="apposition" relation_type="asymmetric" id="130547_10" ></RELATION>
+
+<RELATION theme="130547_3" party1="130547_4" party1_string="Fargo" theme_string="Fargo v. Phillips, Warden" gram_type="infix" relation_type="asymmetric" id="130547_8" ></RELATION>
+
+<RELATION party2="130547_5" theme="130547_3" theme_string="Fargo v. Phillips, Warden" party2_string="Phillips, Warden" gram_type="infix" relation_type="asymmetric" id="130547_9" ></RELATION>
+

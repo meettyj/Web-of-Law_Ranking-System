@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['spainmanagement#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_861" id1="123026" volume="537" start="0" page_number="861" standard_reporter="U.S." citation_global_level_id="3623.002" line="1" id="123017_1" citation_local_level_id="0" >537 U.S. 861</CITATION>
+
+<CITATION party2="WASTE MANAGEMENT OF TEXAS, INC" party1="SPAIN" citation_global_level_id="42941.001" party2_short="MANAGEMENT" line="1" id="123017_3" alternative_keys="['u.s._537_861']" end="56" entry_type="party_key" lookup_key="spainmanagement#1" id1="123017" start="17" party1_short="SPAIN" citation_local_level_id="1" >SPAIN v. WASTE MANAGEMENT OF TEXAS, INC</CITATION>
+
+<NAME end="22" start="17" party1_of="123017_3" all_names="SPAIN" local_name_id="1" id="123017_4" >SPAIN</NAME>
+
+<NAME end="56" start="26" all_names="WASTE MANAGEMENT OF TEXAS INC" party2_of="123017_3" local_name_id="2" id="123017_5" >WASTE MANAGEMENT OF TEXAS, INC</NAME>
+
+<DOCKET end="74" entry_type="docket" lookup_key="u.s._537_861" id1="123026" start="66" citation_global_level_id="3623.002" line="1" id="123017_2" citation_local_level_id="0" >01-10743</DOCKET>
+
+<DATE start="116" end="131" id="123017_6" >October 7, 2002</DATE>
+
+<NAME start="247" local_name_id="3" end="249" id="123017_12" all_names="CT" >Ct</NAME>
+
+<RELATION theme="123017_1" includes_docket_string="01-10743" includes_docket="123017_2" theme_string="537 U.S. 861" gram_type="apposition" relation_type="asymmetric" id="123017_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 861" X_vs_Y_string="SPAIN v. WASTE MANAGEMENT OF TEXAS, INC" standard_case="123017_1" X_vs_Y="123017_3" gram_type="pre_nom" relation_type="equivalence" id="123017_7" ></RELATION>
+
+<RELATION theme="123017_3" includes_docket_string="01-10743" includes_docket="123017_2" theme_string="SPAIN v. WASTE MANAGEMENT OF TEXAS, INC" gram_type="apposition" relation_type="asymmetric" id="123017_10" ></RELATION>
+
+<RELATION theme="123017_3" party1="123017_4" party1_string="SPAIN" theme_string="SPAIN v. WASTE MANAGEMENT OF TEXAS, INC" gram_type="infix" relation_type="asymmetric" id="123017_8" ></RELATION>
+
+<RELATION party2="123017_5" theme="123017_3" theme_string="SPAIN v. WASTE MANAGEMENT OF TEXAS, INC" party2_string="WASTE MANAGEMENT OF TEXAS, INC" gram_type="infix" relation_type="asymmetric" id="123017_9" ></RELATION>
+

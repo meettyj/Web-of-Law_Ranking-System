@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['palmerdepartment#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_987" id1="129021" volume="538" start="0" page_number="987" standard_reporter="U.S." citation_global_level_id="1477.002" line="1" id="129013_1" citation_local_level_id="0" >538 U.S. 987</CITATION>
+
+<CITATION party2="DEPARTMENT OF JUSTICE ET AL" party1="PALMER" citation_global_level_id="52238.001" party2_short="DEPARTMENT" line="1" id="129013_3" alternative_keys="['u.s._538_987']" end="54" entry_type="party_key" lookup_key="palmerdepartment#2" id1="129013" start="17" party1_short="PALMER" citation_local_level_id="1" >PALMER v. DEPARTMENT OF JUSTICE ET AL</CITATION>
+
+<NAME end="23" start="17" party1_of="129013_3" all_names="PALMER" local_name_id="1" id="129013_4" >PALMER</NAME>
+
+<NAME end="54" start="27" all_names="DEPARTMENT OF JUSTICE" party2_of="129013_3" local_name_id="2" id="129013_5" >DEPARTMENT OF JUSTICE ET AL</NAME>
+
+<DOCKET end="71" entry_type="docket" lookup_key="u.s._538_987" id1="129021" start="64" citation_global_level_id="1477.002" line="1" id="129013_2" citation_local_level_id="0" >02-9221</DOCKET>
+
+<DATE start="113" end="127" id="129013_6" >April 21, 2003</DATE>
+
+<NAME start="256" local_name_id="3" end="259" id="129013_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="129013_1" includes_docket_string="02-9221" includes_docket="129013_2" theme_string="538 U.S. 987" gram_type="apposition" relation_type="asymmetric" id="129013_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 987" X_vs_Y_string="PALMER v. DEPARTMENT OF JUSTICE ET AL" standard_case="129013_1" X_vs_Y="129013_3" gram_type="pre_nom" relation_type="equivalence" id="129013_7" ></RELATION>
+
+<RELATION theme="129013_3" includes_docket_string="02-9221" includes_docket="129013_2" theme_string="PALMER v. DEPARTMENT OF JUSTICE ET AL" gram_type="apposition" relation_type="asymmetric" id="129013_10" ></RELATION>
+
+<RELATION theme="129013_3" party1="129013_4" party1_string="PALMER" theme_string="PALMER v. DEPARTMENT OF JUSTICE ET AL" gram_type="infix" relation_type="asymmetric" id="129013_8" ></RELATION>
+
+<RELATION party2="129013_5" theme="129013_3" theme_string="PALMER v. DEPARTMENT OF JUSTICE ET AL" party2_string="DEPARTMENT OF JUSTICE ET AL" gram_type="infix" relation_type="asymmetric" id="129013_9" ></RELATION>
+

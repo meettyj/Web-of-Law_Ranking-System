@@ -1,0 +1,52 @@
+<CITATION alternative_keys="['prenticepickersgill#1', 'wall._6_511']" end="19" reporter="U.S." entry_type="standard_key" lookup_key="u.s._73_511" id1="87948" volume="73" start="1" page_number="511" standard_reporter="U.S." citation_global_level_id="58217.002" line="2" id="87948_1" citation_local_level_id="0" >73 U.S. 511 (____)</CITATION>
+
+<CITATION alternative_keys="['u.s._73_511', 'prenticepickersgill#1']" end="31" reporter="Wall." entry_type="standard_key" lookup_key="wall._6_511" id1="87948" volume="6" start="20" page_number="511" standard_reporter="WALL." citation_global_level_id="58217.003" line="3" id="87948_2" citation_local_level_id="1" >6 Wall. 511</CITATION>
+
+<CITATION party2="PICKERSGILL" party1="PRENTICE" citation_global_level_id="58217.001" party2_short="PICKERSGILL" line="6" id="87948_4" alternative_keys="['u.s._73_511', 'wall._6_511']" end="57" entry_type="party_key" lookup_key="prenticepickersgill#1" id1="87948" start="32" party1_short="PRENTICE" citation_local_level_id="2" >PRENTICE v. PICKERSGILL</CITATION>
+
+<NAME end="40" start="32" party1_of="87948_4" all_names="PRENTICE" local_name_id="1" id="87948_5" >PRENTICE</NAME>
+
+<NAME end="57" start="46" all_names="PICKERSGILL" party2_of="87948_4" local_name_id="2" id="87948_6" >PICKERSGILL</NAME>
+
+<ORGANIZATION start="59" end="89" id="87948_9" >Supreme Court of United States</ORGANIZATION>
+
+<NAME start="97" local_name_id="3" end="120" id="87948_12" all_names="MESSRS VEECH AND HENRY" >Messrs. Veech and Henry</NAME>
+
+<LEGAL_ROLE start="143" end="152" id="87948_13" >defendant</LEGAL_ROLE>
+
+<PROFESSION start="167" end="180" id="87948_14" >CHIEF JUSTICE</PROFESSION>
+
+<NAME start="401" local_name_id="4" end="405" id="87948_15" all_names="NOTE" >NOTE</NAME>
+
+<CITATION party2="Bour" party1="The Chicago City Railway Co." citation_global_level_id="255528.001" party2_short="Bour" line="15" id="87948_16" end="482" no_current_file="True" entry_type="party_key" lookup_key="railwaybour#1" id1="Dummy_File_191678" start="446" party1_short="Railway" citation_local_level_id="3" >The Chicago City Railway Co. v. Bour</CITATION>
+
+<NAME end="474" start="446" party1_of="87948_16" all_names="THE CHICAGO CITY RAILWAY CO" local_name_id="5" id="87948_17" >The Chicago City Railway Co.</NAME>
+
+<ORGANIZATION start="450" end="473" id="87948_20" >Chicago City Railway Co</ORGANIZATION>
+
+<NAME end="482" start="478" all_names="BOUR" party2_of="87948_16" local_name_id="6" id="87948_18" >Bour</NAME>
+
+<ORGANIZATION start="533" end="540" id="87948_21" >company</ORGANIZATION>
+
+<ORGANIZATION start="764" end="769" id="87948_22" >court</ORGANIZATION>
+
+<ORGANIZATION start="779" end="784" id="87948_23" >court</ORGANIZATION>
+
+<NAME start="857" local_name_id="7" end="860" id="87948_24" all_names="SEE" >See</NAME>
+
+<CITATION end="878" line="15" id="87948_19" citation_global_level_id="255529.001" name="The Douro, 3" no_current_file="True" entry_type="case_key" lookup_key="the douro 3#1" id1="Dummy_File_191679" start="866" citation_local_level_id="4" >The Douro, 3</CITATION>
+
+<NAME start="879" local_name_id="8" end="886" id="87948_25" all_names="WALLACE" >Wallace</NAME>
+
+<RELATION theme="87948_4" party1="87948_5" party1_string="PRENTICE" theme_string="PRENTICE  v.  PICKERSGILL" gram_type="infix" relation_type="asymmetric" id="87948_7" ></RELATION>
+
+<RELATION party2="87948_6" theme="87948_4" theme_string="PRENTICE  v.  PICKERSGILL" party2_string="PICKERSGILL" gram_type="infix" relation_type="asymmetric" id="87948_8" ></RELATION>
+
+<RELATION standard_case_string="73 U.S. 511 (____)" X_vs_Y_string="PRENTICE  v.  PICKERSGILL" standard_case="87948_1" X_vs_Y="87948_4" gram_type="multi_line" relation_type="equivalence" id="87948_10" ></RELATION>
+
+<RELATION standard_case_string="6 Wall. 511" X_vs_Y_string="PRENTICE  v.  PICKERSGILL" standard_case="87948_2" X_vs_Y="87948_4" gram_type="multi_line" relation_type="equivalence" id="87948_11" ></RELATION>
+
+<RELATION theme="87948_16" party1="87948_17" party1_string="The Chicago City Railway Co." theme_string="The Chicago City Railway Co. v. Bour" gram_type="infix" relation_type="asymmetric" id="87948_26" ></RELATION>
+
+<RELATION party2="87948_18" theme="87948_16" theme_string="The Chicago City Railway Co. v. Bour" party2_string="Bour" gram_type="infix" relation_type="asymmetric" id="87948_27" ></RELATION>
+

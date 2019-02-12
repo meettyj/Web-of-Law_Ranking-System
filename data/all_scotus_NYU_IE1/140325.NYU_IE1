@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['rxjohnston#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1001" id1="140325" volume="543" start="0" page_number="1001" standard_reporter="U.S." citation_global_level_id="5261.002" line="1" id="140325_1" citation_local_level_id="0" >543 U.S. 1001</CITATION>
+
+<CITATION party2="JOHNSTON" party1="CAREMARK RX, INC., FKA MEDPARTNERS, INC." citation_global_level_id="5261.007" party2_short="JOHNSTON" line="2" id="140325_2" alternative_keys="['u.s._543_1001']" end="70" entry_type="party_key" lookup_key="rxjohnston#2" id1="140325" start="18" party1_short="RX" citation_local_level_id="1" >CAREMARK RX, INC., FKA MEDPARTNERS, INC. v. JOHNSTON</CITATION>
+
+<NAME end="58" start="18" party1_of="140325_2" all_names="CAREMARK RX INC FKA MEDPARTNERS INC" local_name_id="1" id="140325_3" >CAREMARK RX, INC., FKA MEDPARTNERS, INC.</NAME>
+
+<ORGANIZATION start="18" end="34" id="140325_5" >CAREMARK RX, INC</ORGANIZATION>
+
+<ORGANIZATION start="37" end="57" id="140325_6" >FKA MEDPARTNERS, INC</ORGANIZATION>
+
+<NAME end="70" start="62" all_names="JOHNSTON" party2_of="140325_2" local_name_id="2" id="140325_4" >JOHNSTON</NAME>
+
+<DOCKET alternative_keys="['u.s._543_1001']" end="86" entry_type="docket" lookup_key="rxjohnston#2" id1="140325" start="80" citation_global_level_id="5261.007" line="3" id="140325_9" citation_local_level_id="1" >04-396</DOCKET>
+
+<ORGANIZATION start="92" end="122" id="140325_10" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="128" citation_global_level_id="5261.007" end="145" id="140325_11" citation_local_level_id="1" >November 29, 2004</DATE>
+
+<NAME start="167" local_name_id="3" end="170" id="140325_15" all_names="SUP" >Sup</NAME>
+
+<RELATION theme="140325_2" party1="140325_3" party1_string="CAREMARK RX, INC., FKA MEDPARTNERS, INC." theme_string="CAREMARK RX, INC., FKA MEDPARTNERS, INC. v. JOHNSTON" gram_type="infix" relation_type="asymmetric" id="140325_7" ></RELATION>
+
+<RELATION party2="140325_4" theme="140325_2" theme_string="CAREMARK RX, INC., FKA MEDPARTNERS, INC. v. JOHNSTON" party2_string="JOHNSTON" gram_type="infix" relation_type="asymmetric" id="140325_8" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1001" X_vs_Y_string="CAREMARK RX, INC., FKA MEDPARTNERS, INC. v. JOHNSTON" standard_case="140325_1" X_vs_Y="140325_2" gram_type="multi_line" relation_type="equivalence" id="140325_12" ></RELATION>
+
+<RELATION at_date_string="November 29, 2004" theme="140325_2" at_date="140325_11" theme_string="CAREMARK RX, INC., FKA MEDPARTNERS, INC. v. JOHNSTON" gram_type="multi_line" relation_type="asymmetric" id="140325_14" ></RELATION>
+
+<RELATION theme="140325_2" includes_docket_string="04-396" includes_docket="140325_9" theme_string="CAREMARK RX, INC., FKA MEDPARTNERS, INC. v. JOHNSTON" gram_type="multi_line" relation_type="asymmetric" id="140325_13" ></RELATION>
+

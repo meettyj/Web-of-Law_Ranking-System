@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['jonesassn#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_820" id1="131392" volume="540" start="0" page_number="820" standard_reporter="U.S." citation_global_level_id="6268.002" line="1" id="131393_1" citation_local_level_id="0" >540 U.S. 820</CITATION>
+
+<CITATION party2="PORT TERMINAL RAILROAD ASSN" party1="JONES" citation_global_level_id="49588.001" party2_short="ASSN" line="1" id="131393_3" alternative_keys="['u.s._540_820']" end="53" entry_type="party_key" lookup_key="jonesassn#2" id1="131393" start="17" party1_short="JONES" citation_local_level_id="1" >JONES v. PORT TERMINAL RAILROAD ASSN</CITATION>
+
+<NAME end="22" start="17" party1_of="131393_3" all_names="JONES" local_name_id="1" id="131393_4" >JONES</NAME>
+
+<NAME end="53" start="26" all_names="PORT TERMINAL RAILROAD ASSN" party2_of="131393_3" local_name_id="2" id="131393_5" >PORT TERMINAL RAILROAD ASSN</NAME>
+
+<DOCKET end="70" entry_type="docket" lookup_key="u.s._540_820" id1="131392" start="63" citation_global_level_id="6268.002" line="1" id="131393_2" citation_local_level_id="0" >02-1769</DOCKET>
+
+<DATE start="66" end="70" id="131393_6" >1769</DATE>
+
+<DATE start="112" end="127" id="131393_7" >October 6, 2003</DATE>
+
+<NAME start="215" local_name_id="3" end="225" id="131393_15" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="265" reporter="S. W. 3d" entry_type="standard_key" no_current_file="True" lookup_key="s.w.3d_82_126" id1="Dummy_File_77376" volume="82" start="250" page_number="126" standard_reporter="S.W.3D" citation_global_level_id="141226.001" line="3" id="131393_14" citation_local_level_id="2" >82 S. W. 3d 126</CITATION>
+
+<RELATION theme="131393_1" includes_docket_string="02-1769" includes_docket="131393_2" theme_string="540 U.S. 820" gram_type="apposition" relation_type="asymmetric" id="131393_12" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 820" X_vs_Y_string="JONES v. PORT TERMINAL RAILROAD ASSN" standard_case="131393_1" X_vs_Y="131393_3" gram_type="pre_nom" relation_type="equivalence" id="131393_8" ></RELATION>
+
+<RELATION theme="131393_3" includes_docket_string="02-1769" includes_docket="131393_2" theme_string="JONES v. PORT TERMINAL RAILROAD ASSN" gram_type="apposition" relation_type="asymmetric" id="131393_11" ></RELATION>
+
+<RELATION party2="131393_5" theme="131393_3" theme_string="JONES v. PORT TERMINAL RAILROAD ASSN" party2_string="PORT TERMINAL RAILROAD ASSN" gram_type="infix" relation_type="asymmetric" id="131393_10" ></RELATION>
+
+<RELATION theme="131393_3" party1="131393_4" party1_string="JONES" theme_string="JONES v. PORT TERMINAL RAILROAD ASSN" gram_type="infix" relation_type="asymmetric" id="131393_9" ></RELATION>
+
+<RELATION at_date_string="1769" theme="131393_2" at_date="131393_6" theme_string="02-1769" gram_type="infix" relation_type="asymmetric" id="131393_13" ></RELATION>
+

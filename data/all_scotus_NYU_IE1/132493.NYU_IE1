@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['salliegeorgia#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_902" id1="132485" volume="540" start="0" page_number="902" standard_reporter="U.S." citation_global_level_id="1771.002" line="1" id="132493_1" citation_local_level_id="0" >540 U.S. 902</CITATION>
+
+<CITATION party2="GEORGIA" party1="SALLIE" citation_global_level_id="52989.001" party2_short="GEORGIA" line="1" id="132493_3" alternative_keys="['u.s._540_902']" end="34" entry_type="party_key" lookup_key="salliegeorgia#1" id1="132493" start="17" party1_short="SALLIE" citation_local_level_id="1" >SALLIE v. GEORGIA</CITATION>
+
+<NAME end="23" start="17" party1_of="132493_3" all_names="SALLIE" local_name_id="1" id="132493_4" >SALLIE</NAME>
+
+<NAME end="34" start="27" all_names="GEORGIA" party2_of="132493_3" local_name_id="2" id="132493_5" >GEORGIA</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="u.s._540_902" id1="132485" start="44" citation_global_level_id="1771.002" line="1" id="132493_2" citation_local_level_id="0" >03-5332</DOCKET>
+
+<DATE start="93" end="108" id="132493_6" >October 6, 2003</DATE>
+
+<NAME start="184" local_name_id="3" end="194" id="132493_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="230" reporter="Ga." entry_type="standard_key" no_current_file="True" lookup_key="ga._276_506" id1="Dummy_File_158603" volume="276" start="219" page_number="506" standard_reporter="GA." citation_global_level_id="222453.001" line="3" id="132493_12" citation_local_level_id="2" >276 Ga. 506</CITATION>
+
+<CITATION end="248" reporter="S. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="s.e.2d_578_444" id1="Dummy_File_158604" volume="578" start="232" page_number="444" standard_reporter="S.E.2D" citation_global_level_id="222454.001" line="3" id="132493_13" citation_local_level_id="3" >578 S. E. 2d 444</CITATION>
+
+<RELATION theme="132493_1" includes_docket_string="03-5332" includes_docket="132493_2" theme_string="540 U.S. 902" gram_type="apposition" relation_type="asymmetric" id="132493_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 902" X_vs_Y_string="SALLIE v. GEORGIA" standard_case="132493_1" X_vs_Y="132493_3" gram_type="pre_nom" relation_type="equivalence" id="132493_7" ></RELATION>
+
+<RELATION theme="132493_3" includes_docket_string="03-5332" includes_docket="132493_2" theme_string="SALLIE v. GEORGIA" gram_type="apposition" relation_type="asymmetric" id="132493_10" ></RELATION>
+
+<RELATION theme="132493_3" party1="132493_4" party1_string="SALLIE" theme_string="SALLIE v. GEORGIA" gram_type="infix" relation_type="asymmetric" id="132493_8" ></RELATION>
+
+<RELATION party2="132493_5" theme="132493_3" theme_string="SALLIE v. GEORGIA" party2_string="GEORGIA" gram_type="infix" relation_type="asymmetric" id="132493_9" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['bluffutah#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1172" id1="126953" volume="537" start="0" page_number="1172" standard_reporter="U.S." citation_global_level_id="821.002" line="1" id="126943_1" citation_local_level_id="0" >537 U.S. 1172</CITATION>
+
+<CITATION party2="UTAH" party1="BLUFF" citation_global_level_id="9344.001" party2_short="UTAH" line="1" id="126943_3" alternative_keys="['u.s._537_1172']" end="31" entry_type="party_key" lookup_key="bluffutah#1" id1="126943" start="18" party1_short="BLUFF" citation_local_level_id="1" >BLUFF v. UTAH</CITATION>
+
+<NAME end="23" start="18" party1_of="126943_3" all_names="BLUFF" local_name_id="1" id="126943_4" >BLUFF</NAME>
+
+<NAME end="31" start="27" all_names="UTAH" party2_of="126943_3" local_name_id="2" id="126943_5" >UTAH</NAME>
+
+<DOCKET end="47" entry_type="docket" lookup_key="u.s._537_1172" id1="126953" start="41" citation_global_level_id="821.002" line="1" id="126943_2" citation_local_level_id="0" >02-849</DOCKET>
+
+<DATE start="89" end="105" id="126943_6" >January 27, 2003</DATE>
+
+<NAME start="193" local_name_id="3" end="196" id="126943_13" all_names="SUP" >Sup</NAME>
+
+<CITATION end="256" reporter="P. 3d" entry_type="standard_key" no_current_file="True" lookup_key="p.3d_52_1210" id1="Dummy_File_25442" volume="52" start="243" page_number="1210" standard_reporter="P.3D" citation_global_level_id="89292.001" line="3" id="126943_12" citation_local_level_id="2" >52 P. 3d 1210</CITATION>
+
+<RELATION theme="126943_1" includes_docket_string="02-849" includes_docket="126943_2" theme_string="537 U.S. 1172" gram_type="apposition" relation_type="asymmetric" id="126943_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1172" X_vs_Y_string="BLUFF v. UTAH" standard_case="126943_1" X_vs_Y="126943_3" gram_type="pre_nom" relation_type="equivalence" id="126943_7" ></RELATION>
+
+<RELATION theme="126943_3" includes_docket_string="02-849" includes_docket="126943_2" theme_string="BLUFF v. UTAH" gram_type="apposition" relation_type="asymmetric" id="126943_10" ></RELATION>
+
+<RELATION theme="126943_3" party1="126943_4" party1_string="BLUFF" theme_string="BLUFF v. UTAH" gram_type="infix" relation_type="asymmetric" id="126943_8" ></RELATION>
+
+<RELATION party2="126943_5" theme="126943_3" theme_string="BLUFF v. UTAH" party2_string="UTAH" gram_type="infix" relation_type="asymmetric" id="126943_9" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['sheltonyork#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_895" id1="114127" volume="510" start="0" page_number="895" standard_reporter="U.S." citation_global_level_id="5395.002" line="1" id="114123_1" citation_local_level_id="0" >510 U.S. 895</CITATION>
+
+<CITATION party2="New York" party1="Shelton" citation_global_level_id="26913.001" party2_short="York" line="1" id="114123_3" alternative_keys="['u.s._510_895']" end="36" entry_type="party_key" lookup_key="sheltonyork#1" id1="114123" start="17" party1_short="Shelton" citation_local_level_id="1" >Shelton v. New York</CITATION>
+
+<NAME end="24" start="17" party1_of="114123_3" all_names="SHELTON" local_name_id="1" id="114123_4" >Shelton</NAME>
+
+<NAME end="36" start="28" all_names="NEW YORK" party2_of="114123_3" local_name_id="2" id="114123_5" >New York</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="u.s._510_895" id1="114127" start="46" citation_global_level_id="5395.002" line="1" id="114123_2" citation_local_level_id="0" >93-5478</DOCKET>
+
+<DATE start="95" end="110" id="114123_6" >October 4, 1993</DATE>
+
+<NAME start="215" local_name_id="3" end="225" id="114123_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="291" reporter="N. Y. S. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.y.s.2d_595_343" id1="Dummy_File_193181" volume="595" start="272" page_number="343" standard_reporter="N.Y.S.2D" citation_global_level_id="257031.001" line="3" id="114123_12" citation_local_level_id="2" >595 N. Y. S. 2d 343</CITATION>
+
+<RELATION theme="114123_1" includes_docket_string="93-5478" includes_docket="114123_2" theme_string="510 U.S. 895" gram_type="apposition" relation_type="asymmetric" id="114123_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 895" X_vs_Y_string="Shelton v. New York" standard_case="114123_1" X_vs_Y="114123_3" gram_type="pre_nom" relation_type="equivalence" id="114123_7" ></RELATION>
+
+<RELATION theme="114123_3" includes_docket_string="93-5478" includes_docket="114123_2" theme_string="Shelton v. New York" gram_type="apposition" relation_type="asymmetric" id="114123_10" ></RELATION>
+
+<RELATION theme="114123_3" party1="114123_4" party1_string="Shelton" theme_string="Shelton v. New York" gram_type="infix" relation_type="asymmetric" id="114123_8" ></RELATION>
+
+<RELATION party2="114123_5" theme="114123_3" theme_string="Shelton v. New York" party2_string="New York" gram_type="infix" relation_type="asymmetric" id="114123_9" ></RELATION>
+

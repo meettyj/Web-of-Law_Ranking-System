@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['brownohio#3']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._542_924" id1="137294" volume="542" start="0" page_number="924" standard_reporter="U.S." citation_global_level_id="1348.002" line="1" id="137290_1" citation_local_level_id="0" >542 U.S. 924</CITATION>
+
+<CITATION party2="OHIO" party1="BROWN" citation_global_level_id="56409.001" party2_short="OHIO" line="2" id="137290_2" alternative_keys="['u.s._542_924']" end="30" entry_type="party_key" lookup_key="brownohio#3" id1="109695" start="17" party1_short="BROWN" citation_local_level_id="1" >BROWN v. OHIO</CITATION>
+
+<NAME end="22" start="17" party1_of="137290_2" all_names="BROWN" local_name_id="1" id="137290_3" >BROWN</NAME>
+
+<NAME end="30" start="26" all_names="OHIO" party2_of="137290_2" local_name_id="2" id="137290_4" >OHIO</NAME>
+
+<DOCKET end="47" entry_type="docket" lookup_key="brownohio#3" id1="109695" start="40" citation_global_level_id="56409.001" line="3" id="137290_7" citation_local_level_id="1" >03-9933</DOCKET>
+
+<ORGANIZATION start="53" end="83" id="137290_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="89" citation_global_level_id="56409.001" end="102" id="137290_9" citation_local_level_id="1" >June 21, 2004</DATE>
+
+<NAME start="124" local_name_id="3" end="126" id="137290_13" all_names="CT" >Ct</NAME>
+
+<RELATION theme="137290_2" party1="137290_3" party1_string="BROWN" theme_string="BROWN v. OHIO" gram_type="infix" relation_type="asymmetric" id="137290_5" ></RELATION>
+
+<RELATION party2="137290_4" theme="137290_2" theme_string="BROWN v. OHIO" party2_string="OHIO" gram_type="infix" relation_type="asymmetric" id="137290_6" ></RELATION>
+
+<RELATION standard_case_string="542 U.S. 924" X_vs_Y_string="BROWN v. OHIO" standard_case="137290_1" X_vs_Y="137290_2" gram_type="multi_line" relation_type="equivalence" id="137290_10" ></RELATION>
+
+<RELATION at_date_string="June 21, 2004" theme="137290_2" at_date="137290_9" theme_string="BROWN v. OHIO" gram_type="multi_line" relation_type="asymmetric" id="137290_12" ></RELATION>
+
+<RELATION theme="137290_2" includes_docket_string="03-9933" includes_docket="137290_7" theme_string="BROWN v. OHIO" gram_type="multi_line" relation_type="asymmetric" id="137290_11" ></RELATION>
+

@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['hicklecorporation#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1193" id1="117584" volume="510" start="0" page_number="1193" standard_reporter="U.S." citation_global_level_id="8366.002" line="1" id="117585_1" citation_local_level_id="0" >510 U.S. 1193</CITATION>
+
+<CITATION party2="American Service Corporation of South Carolina" party1="Hickle" citation_global_level_id="61665.001" party2_short="Corporation" line="1" id="117585_3" alternative_keys="['u.s._510_1193']" end="74" entry_type="party_key" lookup_key="hicklecorporation#1" id1="117585" start="18" party1_short="Hickle" citation_local_level_id="1" >Hickle v. American Service Corporation of South Carolina</CITATION>
+
+<NAME end="24" start="18" party1_of="117585_3" all_names="HICKLE" local_name_id="1" id="117585_4" >Hickle</NAME>
+
+<NAME end="74" start="28" all_names="AMERICAN SERVICE CORPORATION OF SOUTH CAROLINA" party2_of="117585_3" local_name_id="2" id="117585_5" >American Service Corporation of South Carolina</NAME>
+
+<DOCKET end="91" entry_type="docket" lookup_key="u.s._510_1193" id1="117584" start="84" citation_global_level_id="8366.002" line="1" id="117585_2" citation_local_level_id="0" >93-1167</DOCKET>
+
+<DATE start="133" end="147" id="117585_6" >March 21, 1994</DATE>
+
+<NAME start="225" local_name_id="3" end="235" id="117585_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="273" reporter="S. C." entry_type="standard_key" no_current_file="True" lookup_key="s.c._312_520" id1="Dummy_File_130730" volume="312" start="260" page_number="520" standard_reporter="S.C." citation_global_level_id="194580.001" line="3" id="117585_12" citation_local_level_id="2" >312 S. C. 520</CITATION>
+
+<CITATION end="291" reporter="S. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="s.e.2d_435_870" id1="Dummy_File_130731" volume="435" start="275" page_number="870" standard_reporter="S.E.2D" citation_global_level_id="194581.001" line="3" id="117585_13" citation_local_level_id="3" >435 S. E. 2d 870</CITATION>
+
+<RELATION theme="117585_1" includes_docket_string="93-1167" includes_docket="117585_2" theme_string="510 U.S. 1193" gram_type="apposition" relation_type="asymmetric" id="117585_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1193" X_vs_Y_string="Hickle v. American Service Corporation of South Carolina" standard_case="117585_1" X_vs_Y="117585_3" gram_type="pre_nom" relation_type="equivalence" id="117585_7" ></RELATION>
+
+<RELATION theme="117585_3" includes_docket_string="93-1167" includes_docket="117585_2" theme_string="Hickle v. American Service Corporation of South Carolina" gram_type="apposition" relation_type="asymmetric" id="117585_10" ></RELATION>
+
+<RELATION theme="117585_3" party1="117585_4" party1_string="Hickle" theme_string="Hickle v. American Service Corporation of South Carolina" gram_type="infix" relation_type="asymmetric" id="117585_8" ></RELATION>
+
+<RELATION party2="117585_5" theme="117585_3" theme_string="Hickle v. American Service Corporation of South Carolina" party2_string="American Service Corporation of South Carolina" gram_type="infix" relation_type="asymmetric" id="117585_9" ></RELATION>
+

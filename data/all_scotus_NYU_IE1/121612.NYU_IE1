@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['citizensdepartment#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._536_939" id1="121611" volume="536" start="0" page_number="939" standard_reporter="U.S." citation_global_level_id="2954.002" line="1" id="121612_1" citation_local_level_id="0" >536 U.S. 939</CITATION>
+
+<CITATION party2="NEW JERSEY DEPARTMENT OF ENVIRONMENTAL PROTECTION ET AL" party1="SOUTH CAMDEN CITIZENS IN ACTION ET AL." citation_global_level_id="2954.006" party2_short="DEPARTMENT" line="2" id="121612_2" alternative_keys="['u.s._536_939']" end="114" entry_type="party_key" lookup_key="citizensdepartment#1" id1="121611" start="17" party1_short="CITIZENS" citation_local_level_id="1" >SOUTH CAMDEN CITIZENS IN ACTION ET AL. v. NEW JERSEY DEPARTMENT OF ENVIRONMENTAL PROTECTION ET AL</CITATION>
+
+<NAME end="55" start="17" party1_of="121612_2" all_names="SOUTH CAMDEN CITIZENS IN ACTION" local_name_id="1" id="121612_3" >SOUTH CAMDEN CITIZENS IN ACTION ET AL.</NAME>
+
+<NAME end="114" start="59" all_names="NEW JERSEY DEPARTMENT OF ENVIRONMENTAL PROTECTION" party2_of="121612_2" local_name_id="2" id="121612_4" >NEW JERSEY DEPARTMENT OF ENVIRONMENTAL PROTECTION ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._536_939']" end="131" entry_type="docket" lookup_key="citizensdepartment#1" id1="121611" start="124" citation_global_level_id="2954.006" line="3" id="121612_7" citation_local_level_id="1" >01-1547</DOCKET>
+
+<DATE start="177" citation_global_level_id="2954.006" end="190" id="121612_8" citation_local_level_id="1" >June 24, 2002</DATE>
+
+<NAME start="221" local_name_id="3" end="224" id="121612_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="274" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_274_771" id1="Dummy_File_198523" volume="274" start="261" page_number="771" standard_reporter="F.3D" citation_global_level_id="262373.001" line="8" id="121612_12" citation_local_level_id="2" >274 F. 3d 771</CITATION>
+
+<RELATION theme="121612_2" party1="121612_3" party1_string="SOUTH CAMDEN CITIZENS IN ACTION ET AL." theme_string="SOUTH CAMDEN CITIZENS IN ACTION ET AL. v. NEW JERSEY DEPARTMENT OF ENVIRONMENTAL PROTECTION ET AL" gram_type="infix" relation_type="asymmetric" id="121612_5" ></RELATION>
+
+<RELATION party2="121612_4" theme="121612_2" theme_string="SOUTH CAMDEN CITIZENS IN ACTION ET AL. v. NEW JERSEY DEPARTMENT OF ENVIRONMENTAL PROTECTION ET AL" party2_string="NEW JERSEY DEPARTMENT OF ENVIRONMENTAL PROTECTION ET AL" gram_type="infix" relation_type="asymmetric" id="121612_6" ></RELATION>
+
+<RELATION standard_case_string="536 U.S. 939" X_vs_Y_string="SOUTH CAMDEN CITIZENS IN ACTION ET AL. v. NEW JERSEY DEPARTMENT OF ENVIRONMENTAL PROTECTION ET AL" standard_case="121612_1" X_vs_Y="121612_2" gram_type="multi_line" relation_type="equivalence" id="121612_9" ></RELATION>
+
+<RELATION at_date_string="June 24, 2002" theme="121612_2" at_date="121612_8" theme_string="SOUTH CAMDEN CITIZENS IN ACTION ET AL. v. NEW JERSEY DEPARTMENT OF ENVIRONMENTAL PROTECTION ET AL" gram_type="multi_line" relation_type="asymmetric" id="121612_11" ></RELATION>
+
+<RELATION theme="121612_2" includes_docket_string="01-1547" includes_docket="121612_7" theme_string="SOUTH CAMDEN CITIZENS IN ACTION ET AL. v. NEW JERSEY DEPARTMENT OF ENVIRONMENTAL PROTECTION ET AL" gram_type="multi_line" relation_type="asymmetric" id="121612_10" ></RELATION>
+

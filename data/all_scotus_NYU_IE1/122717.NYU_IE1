@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['williamslines#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_838" id1="122708" volume="537" start="0" page_number="838" standard_reporter="U.S." citation_global_level_id="998.002" line="1" id="122717_1" citation_local_level_id="0" >537 U.S. 838</CITATION>
+
+<CITATION party2="GREYHOUND BUS LINES ET AL" party1="WILLIAMS" citation_global_level_id="36640.001" party2_short="LINES" line="1" id="122717_3" alternative_keys="['u.s._537_838']" end="54" entry_type="party_key" lookup_key="williamslines#1" id1="122717" start="17" party1_short="WILLIAMS" citation_local_level_id="1" >WILLIAMS v. GREYHOUND BUS LINES ET AL</CITATION>
+
+<NAME end="25" start="17" party1_of="122717_3" all_names="WILLIAMS" local_name_id="1" id="122717_4" >WILLIAMS</NAME>
+
+<NAME end="54" start="29" all_names="GREYHOUND BUS LINES" party2_of="122717_3" local_name_id="2" id="122717_5" >GREYHOUND BUS LINES ET AL</NAME>
+
+<DOCKET end="72" entry_type="docket" lookup_key="u.s._537_838" id1="122708" start="64" citation_global_level_id="998.002" line="1" id="122717_2" citation_local_level_id="0" >01-10228</DOCKET>
+
+<DATE start="114" end="129" id="122717_6" >October 7, 2002</DATE>
+
+<NAME start="260" local_name_id="3" end="263" id="122717_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="122717_1" includes_docket_string="01-10228" includes_docket="122717_2" theme_string="537 U.S. 838" gram_type="apposition" relation_type="asymmetric" id="122717_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 838" X_vs_Y_string="WILLIAMS v. GREYHOUND BUS LINES ET AL" standard_case="122717_1" X_vs_Y="122717_3" gram_type="pre_nom" relation_type="equivalence" id="122717_7" ></RELATION>
+
+<RELATION theme="122717_3" includes_docket_string="01-10228" includes_docket="122717_2" theme_string="WILLIAMS v. GREYHOUND BUS LINES ET AL" gram_type="apposition" relation_type="asymmetric" id="122717_10" ></RELATION>
+
+<RELATION theme="122717_3" party1="122717_4" party1_string="WILLIAMS" theme_string="WILLIAMS v. GREYHOUND BUS LINES ET AL" gram_type="infix" relation_type="asymmetric" id="122717_8" ></RELATION>
+
+<RELATION party2="122717_5" theme="122717_3" theme_string="WILLIAMS v. GREYHOUND BUS LINES ET AL" party2_string="GREYHOUND BUS LINES ET AL" gram_type="infix" relation_type="asymmetric" id="122717_9" ></RELATION>
+

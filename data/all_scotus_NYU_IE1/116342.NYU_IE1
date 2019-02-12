@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['idahoarnzen#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1071" id1="116346" volume="510" start="0" page_number="1071" standard_reporter="U.S." citation_global_level_id="10088.002" line="1" id="116342_1" citation_local_level_id="0" >510 U.S. 1071</CITATION>
+
+<CITATION party2="Arnzen" party1="Idaho et al." citation_global_level_id="17549.001" party2_short="Arnzen" line="1" id="116342_3" alternative_keys="['u.s._510_1071']" end="40" entry_type="party_key" lookup_key="idahoarnzen#1" id1="116342" start="18" party1_short="Idaho" citation_local_level_id="1" >Idaho et al. v. Arnzen</CITATION>
+
+<NAME end="30" start="18" party1_of="116342_3" all_names="IDAHO" local_name_id="1" id="116342_4" >Idaho et al.</NAME>
+
+<NAME start="18" local_name_id="1" end="23" id="116342_7" all_names="IDAHO" >Idaho</NAME>
+
+<NAME end="40" start="34" all_names="ARNZEN" party2_of="116342_3" local_name_id="2" id="116342_5" >Arnzen</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._510_1071" id1="116346" start="50" citation_global_level_id="10088.002" line="1" id="116342_2" citation_local_level_id="0" >93-575</DOCKET>
+
+<DATE start="98" end="114" id="116342_6" >January 18, 1994</DATE>
+
+<NAME start="193" local_name_id="3" end="203" id="116342_15" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="241" reporter="Idaho" entry_type="standard_key" no_current_file="True" lookup_key="idaho_123_899" id1="Dummy_File_133179" volume="123" start="228" page_number="899" standard_reporter="IDAHO" citation_global_level_id="197029.001" line="3" id="116342_13" citation_local_level_id="2" >123 Idaho 899</CITATION>
+
+<CITATION end="256" reporter="P. 2d" entry_type="standard_key" no_current_file="True" lookup_key="p.2d_854_242" id1="Dummy_File_133180" volume="854" start="243" page_number="242" standard_reporter="P.2D" citation_global_level_id="197030.001" line="3" id="116342_14" citation_local_level_id="3" >854 P. 2d 242</CITATION>
+
+<RELATION theme="116342_1" includes_docket_string="93-575" includes_docket="116342_2" theme_string="510 U.S. 1071" gram_type="apposition" relation_type="asymmetric" id="116342_12" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1071" X_vs_Y_string="Idaho et al. v. Arnzen" standard_case="116342_1" X_vs_Y="116342_3" gram_type="pre_nom" relation_type="equivalence" id="116342_8" ></RELATION>
+
+<RELATION theme="116342_3" includes_docket_string="93-575" includes_docket="116342_2" theme_string="Idaho et al. v. Arnzen" gram_type="apposition" relation_type="asymmetric" id="116342_11" ></RELATION>
+
+<RELATION party2="116342_5" theme="116342_3" theme_string="Idaho et al. v. Arnzen" party2_string="Arnzen" gram_type="infix" relation_type="asymmetric" id="116342_10" ></RELATION>
+
+<RELATION theme="116342_3" party1="116342_4" party1_string="Idaho et al." theme_string="Idaho et al. v. Arnzen" gram_type="infix" relation_type="asymmetric" id="116342_9" ></RELATION>
+

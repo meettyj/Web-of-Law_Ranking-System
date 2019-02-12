@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['alredstates#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_925" id1="123875" volume="537" start="0" page_number="925" standard_reporter="U.S." citation_global_level_id="275.002" line="1" id="123877_1" citation_local_level_id="0" >537 U.S. 925</CITATION>
+
+<CITATION party2="UNITED STATES" party1="CALDERON ALRED" citation_global_level_id="32529.001" party2_short="STATES" line="1" id="123877_3" alternative_keys="['u.s._537_925']" end="48" entry_type="party_key" lookup_key="alredstates#2" id1="123877" start="17" party1_short="ALRED" citation_local_level_id="1" >CALDERON ALRED v. UNITED STATES</CITATION>
+
+<NAME end="31" start="17" party1_of="123877_3" all_names="CALDERON ALRED" local_name_id="1" id="123877_4" >CALDERON ALRED</NAME>
+
+<NAME end="48" start="35" all_names="UNITED STATES" party2_of="123877_3" local_name_id="2" id="123877_5" >UNITED STATES</NAME>
+
+<DOCKET end="65" entry_type="docket" lookup_key="u.s._537_925" id1="123875" start="58" citation_global_level_id="275.002" line="1" id="123877_2" citation_local_level_id="0" >02-5616</DOCKET>
+
+<DATE start="107" end="122" id="123877_6" >October 7, 2002</DATE>
+
+<NAME start="255" local_name_id="3" end="258" id="123877_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="123877_1" includes_docket_string="02-5616" includes_docket="123877_2" theme_string="537 U.S. 925" gram_type="apposition" relation_type="asymmetric" id="123877_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 925" X_vs_Y_string="CALDERON ALRED v. UNITED STATES" standard_case="123877_1" X_vs_Y="123877_3" gram_type="pre_nom" relation_type="equivalence" id="123877_7" ></RELATION>
+
+<RELATION theme="123877_3" includes_docket_string="02-5616" includes_docket="123877_2" theme_string="CALDERON ALRED v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="123877_10" ></RELATION>
+
+<RELATION theme="123877_3" party1="123877_4" party1_string="CALDERON ALRED" theme_string="CALDERON ALRED v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="123877_8" ></RELATION>
+
+<RELATION party2="123877_5" theme="123877_3" theme_string="CALDERON ALRED v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="123877_9" ></RELATION>
+

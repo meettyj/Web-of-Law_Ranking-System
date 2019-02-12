@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['elchahedcity#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_964" id1="139870" volume="543" start="0" page_number="964" standard_reporter="U.S." citation_global_level_id="2634.002" line="1" id="139869_1" citation_local_level_id="0" >543 U.S. 964</CITATION>
+
+<CITATION party2="CITY OF LAS VEGAS, NEVADA, ET AL" party1="ELCHAHED" citation_global_level_id="2634.009" party2_short="CITY" line="2" id="139869_3" alternative_keys="['u.s._543_964']" end="61" entry_type="party_key" lookup_key="elchahedcity#2" id1="139870" start="17" party1_short="ELCHAHED" citation_local_level_id="1" >ELCHAHED v. CITY OF LAS VEGAS, NEVADA, ET AL</CITATION>
+
+<NAME end="25" start="17" party1_of="139869_3" all_names="ELCHAHED" local_name_id="1" id="139869_4" >ELCHAHED</NAME>
+
+<NAME end="61" start="29" all_names="CITY OF LAS VEGAS NEVADA" party2_of="139869_3" local_name_id="2" id="139869_5" >CITY OF LAS VEGAS, NEVADA, ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._543_964']" end="78" entry_type="docket" lookup_key="elchahedcity#2" id1="139870" start="71" citation_global_level_id="2634.009" line="2" id="139869_2" citation_local_level_id="1" >04-6106</DOCKET>
+
+<ORGANIZATION start="84" end="114" id="139869_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="120" citation_global_level_id="2634.009" end="136" id="139869_10" citation_local_level_id="1" >November 1, 2004</DATE>
+
+<NAME start="168" local_name_id="3" end="171" id="139869_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="139869_3" includes_docket_string="04-6106" includes_docket="139869_2" theme_string="ELCHAHED v. CITY OF LAS VEGAS, NEVADA, ET AL" gram_type="apposition" relation_type="asymmetric" id="139869_8" ></RELATION>
+
+<RELATION theme="139869_3" party1="139869_4" party1_string="ELCHAHED" theme_string="ELCHAHED v. CITY OF LAS VEGAS, NEVADA, ET AL" gram_type="infix" relation_type="asymmetric" id="139869_6" ></RELATION>
+
+<RELATION party2="139869_5" theme="139869_3" theme_string="ELCHAHED v. CITY OF LAS VEGAS, NEVADA, ET AL" party2_string="CITY OF LAS VEGAS, NEVADA, ET AL" gram_type="infix" relation_type="asymmetric" id="139869_7" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 964" X_vs_Y_string="ELCHAHED v. CITY OF LAS VEGAS, NEVADA, ET AL" standard_case="139869_1" X_vs_Y="139869_3" gram_type="multi_line" relation_type="equivalence" id="139869_11" ></RELATION>
+
+<RELATION at_date_string="November 1, 2004" theme="139869_3" at_date="139869_10" theme_string="ELCHAHED v. CITY OF LAS VEGAS, NEVADA, ET AL" gram_type="multi_line" relation_type="asymmetric" id="139869_12" ></RELATION>
+

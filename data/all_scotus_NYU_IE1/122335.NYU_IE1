@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['evanscity#3']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_810" id1="122330" volume="537" start="0" page_number="810" standard_reporter="U.S." citation_global_level_id="3501.002" line="1" id="122335_1" citation_local_level_id="0" >537 U.S. 810</CITATION>
+
+<CITATION party2="CITY OF KINGSVILLE, TEXAS" party1="EVANS" citation_global_level_id="50816.001" party2_short="CITY" line="1" id="122335_3" alternative_keys="['u.s._537_810']" end="51" entry_type="party_key" lookup_key="evanscity#3" id1="125131" start="17" party1_short="EVANS" citation_local_level_id="1" >EVANS v. CITY OF KINGSVILLE, TEXAS</CITATION>
+
+<NAME end="22" start="17" party1_of="122335_3" all_names="EVANS" local_name_id="1" id="122335_4" >EVANS</NAME>
+
+<NAME end="51" start="26" all_names="CITY OF KINGSVILLE TEXAS" party2_of="122335_3" local_name_id="2" id="122335_5" >CITY OF KINGSVILLE, TEXAS</NAME>
+
+<DOCKET end="69" entry_type="docket" lookup_key="u.s._537_810" id1="122330" start="61" citation_global_level_id="3501.002" line="1" id="122335_2" citation_local_level_id="0" >01-11015</DOCKET>
+
+<DATE start="111" end="126" id="122335_6" >October 7, 2002</DATE>
+
+<NAME start="255" local_name_id="3" end="258" id="122335_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="122335_1" includes_docket_string="01-11015" includes_docket="122335_2" theme_string="537 U.S. 810" gram_type="apposition" relation_type="asymmetric" id="122335_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 810" X_vs_Y_string="EVANS v. CITY OF KINGSVILLE, TEXAS" standard_case="122335_1" X_vs_Y="122335_3" gram_type="pre_nom" relation_type="equivalence" id="122335_7" ></RELATION>
+
+<RELATION theme="122335_3" includes_docket_string="01-11015" includes_docket="122335_2" theme_string="EVANS v. CITY OF KINGSVILLE, TEXAS" gram_type="apposition" relation_type="asymmetric" id="122335_10" ></RELATION>
+
+<RELATION theme="122335_3" party1="122335_4" party1_string="EVANS" theme_string="EVANS v. CITY OF KINGSVILLE, TEXAS" gram_type="infix" relation_type="asymmetric" id="122335_8" ></RELATION>
+
+<RELATION party2="122335_5" theme="122335_3" theme_string="EVANS v. CITY OF KINGSVILLE, TEXAS" party2_string="CITY OF KINGSVILLE, TEXAS" gram_type="infix" relation_type="asymmetric" id="122335_9" ></RELATION>
+

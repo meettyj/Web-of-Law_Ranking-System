@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['reidstates#7']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._542_913" id1="137156" volume="542" start="0" page_number="913" standard_reporter="U.S." citation_global_level_id="2385.002" line="1" id="137153_1" citation_local_level_id="0" >542 U.S. 913</CITATION>
+
+<CITATION party2="UNITED STATES" party1="REID" citation_global_level_id="63794.001" party2_short="STATES" line="2" id="137153_2" alternative_keys="['u.s._542_913']" end="38" entry_type="party_key" lookup_key="reidstates#7" id1="127214" start="17" party1_short="REID" citation_local_level_id="1" >REID v. UNITED STATES</CITATION>
+
+<NAME end="21" start="17" party1_of="137153_2" all_names="REID" local_name_id="1" id="137153_3" >REID</NAME>
+
+<NAME end="38" start="25" all_names="UNITED STATES" party2_of="137153_2" local_name_id="2" id="137153_4" >UNITED STATES</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="reidstates#7" id1="127214" start="48" citation_global_level_id="63794.001" line="3" id="137153_7" citation_local_level_id="1" >03-10297</DOCKET>
+
+<ORGANIZATION start="62" end="92" id="137153_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="98" citation_global_level_id="63794.001" end="111" id="137153_9" citation_local_level_id="1" >June 14, 2004</DATE>
+
+<NAME start="143" local_name_id="3" end="146" id="137153_14" all_names="CIR" >Cir</NAME>
+
+<CITATION end="196" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_357_574" id1="Dummy_File_207905" volume="357" start="183" page_number="574" standard_reporter="F.3D" citation_global_level_id="271755.001" line="8" id="137153_13" citation_local_level_id="2" >357 F. 3d 574</CITATION>
+
+<RELATION theme="137153_2" party1="137153_3" party1_string="REID" theme_string="REID v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="137153_5" ></RELATION>
+
+<RELATION party2="137153_4" theme="137153_2" theme_string="REID v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="137153_6" ></RELATION>
+
+<RELATION standard_case_string="542 U.S. 913" X_vs_Y_string="REID v. UNITED STATES" standard_case="137153_1" X_vs_Y="137153_2" gram_type="multi_line" relation_type="equivalence" id="137153_10" ></RELATION>
+
+<RELATION at_date_string="June 14, 2004" theme="137153_2" at_date="137153_9" theme_string="REID v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="137153_12" ></RELATION>
+
+<RELATION theme="137153_2" includes_docket_string="03-10297" includes_docket="137153_7" theme_string="REID v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="137153_11" ></RELATION>
+

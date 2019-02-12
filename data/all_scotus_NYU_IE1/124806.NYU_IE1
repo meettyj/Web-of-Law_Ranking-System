@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['smithblue#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1003" id1="124802" volume="537" start="0" page_number="1003" standard_reporter="U.S." citation_global_level_id="5035.002" line="1" id="124806_1" citation_local_level_id="0" >537 U.S. 1003</CITATION>
+
+<CITATION party2="BLUE ET AL" party1="SMITH ET UX." citation_global_level_id="61376.001" party2_short="BLUE" line="1" id="124806_3" alternative_keys="['u.s._537_1003']" end="44" entry_type="party_key" lookup_key="smithblue#1" id1="124806" start="18" party1_short="SMITH" citation_local_level_id="1" >SMITH ET UX. v. BLUE ET AL</CITATION>
+
+<NAME end="30" start="18" party1_of="124806_3" all_names="SMITH UX" local_name_id="1" id="124806_4" >SMITH ET UX.</NAME>
+
+<NAME start="18" local_name_id="1" end="29" id="124806_7" all_names="SMITH UX" >SMITH ET UX</NAME>
+
+<NAME end="44" start="34" all_names="BLUE" party2_of="124806_3" local_name_id="2" id="124806_5" >BLUE ET AL</NAME>
+
+<DOCKET end="60" entry_type="docket" lookup_key="u.s._537_1003" id1="124802" start="54" citation_global_level_id="5035.002" line="1" id="124806_2" citation_local_level_id="0" >02-385</DOCKET>
+
+<ORGANIZATION start="66" end="96" id="124806_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="102" end="118" id="124806_6" >November 4, 2002</DATE>
+
+<ORGANIZATION start="140" end="210" id="124806_9" >CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FIFTH CIRCUIT</ORGANIZATION>
+
+<NAME start="247" local_name_id="3" end="250" id="124806_15" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="124806_1" includes_docket_string="02-385" includes_docket="124806_2" theme_string="537 U.S. 1003" gram_type="apposition" relation_type="asymmetric" id="124806_14" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1003" X_vs_Y_string="SMITH ET UX. v. BLUE ET AL" standard_case="124806_1" X_vs_Y="124806_3" gram_type="pre_nom" relation_type="equivalence" id="124806_10" ></RELATION>
+
+<RELATION theme="124806_3" includes_docket_string="02-385" includes_docket="124806_2" theme_string="SMITH ET UX. v. BLUE ET AL" gram_type="apposition" relation_type="asymmetric" id="124806_13" ></RELATION>
+
+<RELATION theme="124806_3" party1="124806_4" party1_string="SMITH ET UX." theme_string="SMITH ET UX. v. BLUE ET AL" gram_type="infix" relation_type="asymmetric" id="124806_11" ></RELATION>
+
+<RELATION party2="124806_5" theme="124806_3" theme_string="SMITH ET UX. v. BLUE ET AL" party2_string="BLUE ET AL" gram_type="infix" relation_type="asymmetric" id="124806_12" ></RELATION>
+

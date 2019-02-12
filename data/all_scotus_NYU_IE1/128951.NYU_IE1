@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['smithpolunsky#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_982" id1="128954" volume="538" start="0" page_number="982" standard_reporter="U.S." citation_global_level_id="4329.002" line="1" id="128951_1" citation_local_level_id="0" >538 U.S. 982</CITATION>
+
+<CITATION party2="POLUNSKY ET AL" party1="SMITH" citation_global_level_id="17914.001" party2_short="POLUNSKY" line="1" id="128951_3" alternative_keys="['u.s._538_982']" end="40" entry_type="party_key" lookup_key="smithpolunsky#1" id1="128951" start="17" party1_short="SMITH" citation_local_level_id="1" >SMITH v. POLUNSKY ET AL</CITATION>
+
+<NAME end="22" start="17" party1_of="128951_3" all_names="SMITH" local_name_id="1" id="128951_4" >SMITH</NAME>
+
+<NAME end="40" start="26" all_names="POLUNSKY" party2_of="128951_3" local_name_id="2" id="128951_5" >POLUNSKY ET AL</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._538_982" id1="128954" start="50" citation_global_level_id="4329.002" line="1" id="128951_2" citation_local_level_id="0" >02-8994</DOCKET>
+
+<DATE start="99" end="113" id="128951_6" >April 21, 2003</DATE>
+
+<NAME start="242" local_name_id="3" end="245" id="128951_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="128951_1" includes_docket_string="02-8994" includes_docket="128951_2" theme_string="538 U.S. 982" gram_type="apposition" relation_type="asymmetric" id="128951_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 982" X_vs_Y_string="SMITH v. POLUNSKY ET AL" standard_case="128951_1" X_vs_Y="128951_3" gram_type="pre_nom" relation_type="equivalence" id="128951_7" ></RELATION>
+
+<RELATION theme="128951_3" includes_docket_string="02-8994" includes_docket="128951_2" theme_string="SMITH v. POLUNSKY ET AL" gram_type="apposition" relation_type="asymmetric" id="128951_10" ></RELATION>
+
+<RELATION theme="128951_3" party1="128951_4" party1_string="SMITH" theme_string="SMITH v. POLUNSKY ET AL" gram_type="infix" relation_type="asymmetric" id="128951_8" ></RELATION>
+
+<RELATION party2="128951_5" theme="128951_3" theme_string="SMITH v. POLUNSKY ET AL" party2_string="POLUNSKY ET AL" gram_type="infix" relation_type="asymmetric" id="128951_9" ></RELATION>
+

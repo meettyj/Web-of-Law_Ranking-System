@@ -1,0 +1,46 @@
+<CITATION alternative_keys="['speerstates#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1131" id1="126464" volume="537" start="0" page_number="1131" standard_reporter="U.S." citation_global_level_id="3300.002" line="1" id="126464_1" citation_local_level_id="0" >537 U.S. 1131</CITATION>
+
+<CITATION party2="UNITED STATES" party1="SPEER" citation_global_level_id="3300.003" party2_short="STATES" line="1" id="126464_3" alternative_keys="['u.s._537_1131']" end="40" entry_type="party_key" lookup_key="speerstates#1" id1="126464" start="18" party1_short="SPEER" citation_local_level_id="1" >SPEER v. UNITED STATES</CITATION>
+
+<NAME end="23" start="18" party1_of="126464_3" all_names="SPEER" local_name_id="1" id="126464_6" >SPEER</NAME>
+
+<NAME end="40" start="27" all_names="UNITED STATES" party2_of="126464_3" local_name_id="2" id="126464_7" >UNITED STATES</NAME>
+
+<CITATION party2="UNITED STATES" party1="RICHARDSON" citation_global_level_id="58800.001" party2_short="STATES" line="1" id="126464_4" end="69" entry_type="party_key" lookup_key="richardsonstates#9" id1="133722" start="42" party1_short="RICHARDSON" citation_local_level_id="2" >RICHARDSON v. UNITED STATES</CITATION>
+
+<NAME end="52" start="42" party1_of="126464_4" all_names="RICHARDSON" local_name_id="3" id="126464_8" >RICHARDSON</NAME>
+
+<NAME end="69" start="56" all_names="UNITED STATES" party2_of="126464_4" local_name_id="2" id="126464_9" >UNITED STATES</NAME>
+
+<CITATION party2="UNITED STATES" party1="BROOKS" citation_global_level_id="24609.001" party2_short="STATES" line="1" id="126464_5" end="94" entry_type="party_key" lookup_key="brooksstates#9" id1="142924" start="71" party1_short="BROOKS" citation_local_level_id="3" >BROOKS v. UNITED STATES</CITATION>
+
+<NAME end="77" start="71" party1_of="126464_5" all_names="BROOKS" local_name_id="4" id="126464_10" >BROOKS</NAME>
+
+<NAME end="94" start="81" all_names="UNITED STATES" party2_of="126464_5" local_name_id="2" id="126464_11" >UNITED STATES</NAME>
+
+<DOCKET alternative_keys="['u.s._537_1131']" end="111" entry_type="docket" lookup_key="speerstates#1" id1="126464" start="104" citation_global_level_id="3300.003" line="1" id="126464_2" citation_local_level_id="1" >02-7506</DOCKET>
+
+<DATE start="153" end="169" id="126464_12" >January 13, 2003</DATE>
+
+<NAME start="298" local_name_id="5" end="301" id="126464_23" all_names="CIR" >Cir</NAME>
+
+<RELATION standard_case_string="537 U.S. 1131" X_vs_Y_string="SPEER v. UNITED STATES" standard_case="126464_1" X_vs_Y="126464_3" gram_type="pre_nom" relation_type="equivalence" id="126464_13" ></RELATION>
+
+<RELATION theme="126464_3" includes_docket_string="02-7506" includes_docket="126464_2" theme_string="SPEER v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="126464_21" ></RELATION>
+
+<RELATION theme="126464_3" party1="126464_6" party1_string="SPEER" theme_string="SPEER v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="126464_14" ></RELATION>
+
+<RELATION party2="126464_7" theme="126464_3" theme_string="SPEER v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="126464_15" ></RELATION>
+
+<RELATION theme="126464_4" includes_docket_string="02-7506" includes_docket="126464_2" theme_string="RICHARDSON v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="126464_22" ></RELATION>
+
+<RELATION theme="126464_4" party1="126464_8" party1_string="RICHARDSON" theme_string="RICHARDSON v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="126464_16" ></RELATION>
+
+<RELATION party2="126464_9" theme="126464_4" theme_string="RICHARDSON v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="126464_17" ></RELATION>
+
+<RELATION theme="126464_5" includes_docket_string="02-7506" includes_docket="126464_2" theme_string="BROOKS v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="126464_20" ></RELATION>
+
+<RELATION theme="126464_5" party1="126464_10" party1_string="BROOKS" theme_string="BROOKS v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="126464_18" ></RELATION>
+
+<RELATION party2="126464_11" theme="126464_5" theme_string="BROOKS v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="126464_19" ></RELATION>
+

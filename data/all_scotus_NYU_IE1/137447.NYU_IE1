@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['trusteeaskew#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._542_938" id1="137439" volume="542" start="0" page_number="938" standard_reporter="U.S." citation_global_level_id="144.002" line="1" id="137447_1" citation_local_level_id="0" >542 U.S. 938</CITATION>
+
+<CITATION party2="ASKEW" party1="CHASE MANHATTAN BANK, TRUSTEE" citation_global_level_id="44404.001" party2_short="ASKEW" line="2" id="137447_2" alternative_keys="['u.s._542_938']" end="55" entry_type="party_key" lookup_key="trusteeaskew#1" id1="137447" start="17" party1_short="TRUSTEE" citation_local_level_id="1" >CHASE MANHATTAN BANK, TRUSTEE v. ASKEW</CITATION>
+
+<NAME end="46" start="17" party1_of="137447_2" all_names="CHASE MANHATTAN BANK TRUSTEE" local_name_id="1" id="137447_3" >CHASE MANHATTAN BANK, TRUSTEE</NAME>
+
+<ORGANIZATION start="17" end="37" id="137447_5" >CHASE MANHATTAN BANK</ORGANIZATION>
+
+<PROFESSION start="39" end="46" id="137447_6" >TRUSTEE</PROFESSION>
+
+<NAME end="55" start="50" all_names="ASKEW" party2_of="137447_2" local_name_id="2" id="137447_4" >ASKEW</NAME>
+
+<DOCKET end="72" entry_type="docket" lookup_key="trusteeaskew#1" id1="137447" start="65" citation_global_level_id="44404.001" line="3" id="137447_9" citation_local_level_id="1" >03-1467</DOCKET>
+
+<ORGANIZATION start="78" end="108" id="137447_10" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="114" citation_global_level_id="44404.001" end="127" id="137447_11" citation_local_level_id="1" >June 28, 2004</DATE>
+
+<NAME start="149" local_name_id="3" end="152" id="137447_16" all_names="SUP" >Sup</NAME>
+
+<CITATION end="245" reporter="A. 2d" entry_type="standard_key" no_current_file="True" lookup_key="a.2d_832_956" id1="Dummy_File_18046" volume="832" start="232" page_number="956" standard_reporter="A.2D" citation_global_level_id="81896.001" line="8" id="137447_15" citation_local_level_id="2" >832 A. 2d 956</CITATION>
+
+<RELATION theme="137447_2" party1="137447_3" party1_string="CHASE MANHATTAN BANK, TRUSTEE" theme_string="CHASE MANHATTAN BANK, TRUSTEE v. ASKEW" gram_type="infix" relation_type="asymmetric" id="137447_7" ></RELATION>
+
+<RELATION party2="137447_4" theme="137447_2" theme_string="CHASE MANHATTAN BANK, TRUSTEE v. ASKEW" party2_string="ASKEW" gram_type="infix" relation_type="asymmetric" id="137447_8" ></RELATION>
+
+<RELATION standard_case_string="542 U.S. 938" X_vs_Y_string="CHASE MANHATTAN BANK, TRUSTEE v. ASKEW" standard_case="137447_1" X_vs_Y="137447_2" gram_type="multi_line" relation_type="equivalence" id="137447_12" ></RELATION>
+
+<RELATION at_date_string="June 28, 2004" theme="137447_2" at_date="137447_11" theme_string="CHASE MANHATTAN BANK, TRUSTEE v. ASKEW" gram_type="multi_line" relation_type="asymmetric" id="137447_14" ></RELATION>
+
+<RELATION theme="137447_2" includes_docket_string="03-1467" includes_docket="137447_9" theme_string="CHASE MANHATTAN BANK, TRUSTEE v. ASKEW" gram_type="multi_line" relation_type="asymmetric" id="137447_13" ></RELATION>
+

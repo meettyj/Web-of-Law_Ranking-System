@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['orffstates#3']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1118" id1="141916" volume="543" start="0" page_number="1118" standard_reporter="U.S." citation_global_level_id="6488.002" line="1" id="141920_1" citation_local_level_id="0" >543 U.S. 1118</CITATION>
+
+<CITATION party2="UNITED STATES ET AL" party1="ORFF ET AL." citation_global_level_id="60523.001" party2_short="STATES" line="2" id="141920_2" alternative_keys="['u.s._543_1118']" end="52" entry_type="party_key" lookup_key="orffstates#3" id1="799987" start="18" party1_short="ORFF" citation_local_level_id="1" >ORFF ET AL. v. UNITED STATES ET AL</CITATION>
+
+<NAME end="29" start="18" party1_of="141920_2" all_names="ORFF" local_name_id="1" id="141920_3" >ORFF ET AL.</NAME>
+
+<NAME end="52" start="33" all_names="UNITED STATES" party2_of="141920_2" local_name_id="2" id="141920_4" >UNITED STATES ET AL</NAME>
+
+<DOCKET end="69" entry_type="docket" lookup_key="orffstates#3" id1="799987" start="62" citation_global_level_id="60523.001" line="3" id="141920_7" citation_local_level_id="1" >03-1566</DOCKET>
+
+<ORGANIZATION start="75" end="105" id="141920_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="111" citation_global_level_id="60523.001" end="127" id="141920_9" citation_local_level_id="1" >January 24, 2005</DATE>
+
+<NAME start="159" local_name_id="3" end="162" id="141920_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="141920_2" party1="141920_3" party1_string="ORFF ET AL." theme_string="ORFF ET AL. v. UNITED STATES ET AL" gram_type="infix" relation_type="asymmetric" id="141920_5" ></RELATION>
+
+<RELATION party2="141920_4" theme="141920_2" theme_string="ORFF ET AL. v. UNITED STATES ET AL" party2_string="UNITED STATES ET AL" gram_type="infix" relation_type="asymmetric" id="141920_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1118" X_vs_Y_string="ORFF ET AL. v. UNITED STATES ET AL" standard_case="141920_1" X_vs_Y="141920_2" gram_type="multi_line" relation_type="equivalence" id="141920_10" ></RELATION>
+
+<RELATION at_date_string="January 24, 2005" theme="141920_2" at_date="141920_9" theme_string="ORFF ET AL. v. UNITED STATES ET AL" gram_type="multi_line" relation_type="asymmetric" id="141920_12" ></RELATION>
+
+<RELATION theme="141920_2" includes_docket_string="03-1566" includes_docket="141920_7" theme_string="ORFF ET AL. v. UNITED STATES ET AL" gram_type="multi_line" relation_type="asymmetric" id="141920_11" ></RELATION>
+

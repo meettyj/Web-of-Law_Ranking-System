@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['morrowdaimlerchrysler#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1150" id1="142243" volume="543" start="0" page_number="1150" standard_reporter="U.S." citation_global_level_id="545.002" line="1" id="142243_1" citation_local_level_id="0" >543 U.S. 1150</CITATION>
+
+<CITATION party2="DAIMLERCHRYSLER CORP. ET AL" party1="MORROW" citation_global_level_id="545.001" party2_short="DAIMLERCHRYSLER" line="2" id="142243_2" alternative_keys="['u.s._543_1150']" end="55" entry_type="party_key" lookup_key="morrowdaimlerchrysler#1" id1="142243" start="18" party1_short="MORROW" citation_local_level_id="1" >MORROW v. DAIMLERCHRYSLER CORP. ET AL</CITATION>
+
+<NAME end="24" start="18" party1_of="142243_2" all_names="MORROW" local_name_id="1" id="142243_3" >MORROW</NAME>
+
+<NAME end="55" start="28" all_names="DAIMLERCHRYSLER CORP" party2_of="142243_2" local_name_id="2" id="142243_4" >DAIMLERCHRYSLER CORP. ET AL</NAME>
+
+<DOCKET end="71" entry_type="docket" lookup_key="morrowdaimlerchrysler#1" id1="142243" start="65" citation_global_level_id="545.001" line="3" id="142243_7" citation_local_level_id="1" >04-821</DOCKET>
+
+<ORGANIZATION start="77" end="107" id="142243_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="113" citation_global_level_id="545.001" end="130" id="142243_9" citation_local_level_id="1" >February 22, 2005</DATE>
+
+<NAME start="152" local_name_id="3" end="155" id="142243_14" all_names="SUP" >Sup</NAME>
+
+<CITATION end="215" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_895_861" id1="Dummy_File_72257" volume="895" start="201" page_number="861" standard_reporter="SO.2D" citation_global_level_id="136107.001" line="8" id="142243_13" citation_local_level_id="2" >895 So. 2d 861</CITATION>
+
+<RELATION theme="142243_2" party1="142243_3" party1_string="MORROW" theme_string="MORROW v. DAIMLERCHRYSLER CORP. ET AL" gram_type="infix" relation_type="asymmetric" id="142243_5" ></RELATION>
+
+<RELATION party2="142243_4" theme="142243_2" theme_string="MORROW v. DAIMLERCHRYSLER CORP. ET AL" party2_string="DAIMLERCHRYSLER CORP. ET AL" gram_type="infix" relation_type="asymmetric" id="142243_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1150" X_vs_Y_string="MORROW v. DAIMLERCHRYSLER CORP. ET AL" standard_case="142243_1" X_vs_Y="142243_2" gram_type="multi_line" relation_type="equivalence" id="142243_10" ></RELATION>
+
+<RELATION at_date_string="February 22, 2005" theme="142243_2" at_date="142243_9" theme_string="MORROW v. DAIMLERCHRYSLER CORP. ET AL" gram_type="multi_line" relation_type="asymmetric" id="142243_12" ></RELATION>
+
+<RELATION theme="142243_2" includes_docket_string="04-821" includes_docket="142243_7" theme_string="MORROW v. DAIMLERCHRYSLER CORP. ET AL" gram_type="multi_line" relation_type="asymmetric" id="142243_11" ></RELATION>
+

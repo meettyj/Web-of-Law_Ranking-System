@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['voylesstates#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1048" id1="116024" volume="510" start="0" page_number="1048" standard_reporter="U.S." citation_global_level_id="3371.002" line="1" id="116026_1" citation_local_level_id="0" >510 U.S. 1048</CITATION>
+
+<CITATION party2="United States" party1="Voyles" citation_global_level_id="54770.001" party2_short="States" line="1" id="116026_3" alternative_keys="['u.s._510_1048']" end="41" entry_type="party_key" lookup_key="voylesstates#1" id1="116026" start="18" party1_short="Voyles" citation_local_level_id="1" >Voyles v. United States</CITATION>
+
+<NAME end="24" start="18" party1_of="116026_3" all_names="VOYLES" local_name_id="1" id="116026_4" >Voyles</NAME>
+
+<NAME end="41" start="28" all_names="UNITED STATES" party2_of="116026_3" local_name_id="2" id="116026_5" >United States</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._510_1048" id1="116024" start="51" citation_global_level_id="3371.002" line="1" id="116026_2" citation_local_level_id="0" >93-5983</DOCKET>
+
+<DATE start="100" end="116" id="116026_6" >January 10, 1994</DATE>
+
+<NAME start="194" local_name_id="3" end="204" id="116026_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="241" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_995_91" id1="Dummy_File_81012" volume="995" start="229" page_number="91" standard_reporter="F.2D" citation_global_level_id="144862.001" line="3" id="116026_12" citation_local_level_id="2" >995 F. 2d 91</CITATION>
+
+<RELATION theme="116026_1" includes_docket_string="93-5983" includes_docket="116026_2" theme_string="510 U.S. 1048" gram_type="apposition" relation_type="asymmetric" id="116026_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1048" X_vs_Y_string="Voyles v. United States" standard_case="116026_1" X_vs_Y="116026_3" gram_type="pre_nom" relation_type="equivalence" id="116026_7" ></RELATION>
+
+<RELATION theme="116026_3" includes_docket_string="93-5983" includes_docket="116026_2" theme_string="Voyles v. United States" gram_type="apposition" relation_type="asymmetric" id="116026_10" ></RELATION>
+
+<RELATION theme="116026_3" party1="116026_4" party1_string="Voyles" theme_string="Voyles v. United States" gram_type="infix" relation_type="asymmetric" id="116026_8" ></RELATION>
+
+<RELATION party2="116026_5" theme="116026_3" theme_string="Voyles v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="116026_9" ></RELATION>
+

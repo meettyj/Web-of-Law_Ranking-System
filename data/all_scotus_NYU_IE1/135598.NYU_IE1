@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['butlerjail#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_983" id1="135588" volume="541" start="0" page_number="983" standard_reporter="U.S." citation_global_level_id="334.002" line="3" id="135598_2" citation_local_level_id="0" >541 U.S. 983</CITATION>
+
+<CITATION party2="MADISON COUNTY JAIL ET AL" party1="BUTLER" citation_global_level_id="30257.001" party2_short="JAIL" line="3" id="135598_4" alternative_keys="['u.s._541_983']" end="52" entry_type="party_key" lookup_key="butlerjail#1" id1="135598" start="17" party1_short="BUTLER" citation_local_level_id="1" >BUTLER v. MADISON COUNTY JAIL ET AL</CITATION>
+
+<NAME end="23" start="17" party1_of="135598_4" all_names="BUTLER" local_name_id="1" id="135598_5" >BUTLER</NAME>
+
+<NAME end="52" start="27" all_names="MADISON COUNTY JAIL" party2_of="135598_4" local_name_id="2" id="135598_6" >MADISON COUNTY JAIL ET AL</NAME>
+
+<DOCKET end="69" entry_type="docket" lookup_key="u.s._541_983" id1="135588" start="62" citation_global_level_id="334.002" line="3" id="135598_3" citation_local_level_id="0" >03-7130</DOCKET>
+
+<ORGANIZATION start="75" end="105" id="135598_12" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="111" citation_global_level_id="30257.001" end="124" id="135598_13" citation_local_level_id="1" >April 5, 2004</DATE>
+
+<CITATION end="159" reporter="U.S." entry_type="standard_key" no_current_file="True" lookup_key="u.s._540_1119" id1="Dummy_File_154228" volume="540" start="146" page_number="1119" standard_reporter="U.S." citation_global_level_id="218078.001" line="8" id="135598_15" citation_local_level_id="2" >540 U.S. 1119</CITATION>
+
+<NAME start="161" local_name_id="3" end="170" id="135598_16" all_names="PETITIONS" >Petitions</NAME>
+
+<RELATION theme="135598_2" includes_docket_string="03-7130" includes_docket="135598_3" theme_string="541 U.S. 983" gram_type="apposition" relation_type="asymmetric" id="135598_11" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 983" X_vs_Y_string="BUTLER v. MADISON COUNTY JAIL ET AL" standard_case="135598_2" X_vs_Y="135598_4" gram_type="pre_nom" relation_type="equivalence" id="135598_7" ></RELATION>
+
+<RELATION theme="135598_4" includes_docket_string="03-7130" includes_docket="135598_3" theme_string="BUTLER v. MADISON COUNTY JAIL ET AL" gram_type="apposition" relation_type="asymmetric" id="135598_10" ></RELATION>
+
+<RELATION theme="135598_4" party1="135598_5" party1_string="BUTLER" theme_string="BUTLER v. MADISON COUNTY JAIL ET AL" gram_type="infix" relation_type="asymmetric" id="135598_8" ></RELATION>
+
+<RELATION party2="135598_6" theme="135598_4" theme_string="BUTLER v. MADISON COUNTY JAIL ET AL" party2_string="MADISON COUNTY JAIL ET AL" gram_type="infix" relation_type="asymmetric" id="135598_9" ></RELATION>
+
+<RELATION at_date_string="April 5, 2004" theme="135598_4" at_date="135598_13" theme_string="BUTLER v. MADISON COUNTY JAIL ET AL" gram_type="multi_line" relation_type="asymmetric" id="135598_14" ></RELATION>
+

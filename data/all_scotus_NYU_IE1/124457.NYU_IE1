@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['meyerholley#3']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_967" id1="124463" volume="537" start="0" page_number="967" standard_reporter="U.S." citation_global_level_id="9782.002" line="1" id="124457_1" citation_local_level_id="0" >537 U.S. 967</CITATION>
+
+<CITATION party2="HOLLEY ET AL" party1="MEYER" citation_global_level_id="55092.001" party2_short="HOLLEY" line="1" id="124457_3" alternative_keys="['u.s._537_967']" end="38" entry_type="party_key" lookup_key="meyerholley#3" id1="122256" start="17" party1_short="MEYER" citation_local_level_id="1" >MEYER v. HOLLEY ET AL</CITATION>
+
+<NAME end="22" start="17" party1_of="124457_3" all_names="MEYER" local_name_id="1" id="124457_4" >MEYER</NAME>
+
+<NAME end="38" start="26" all_names="HOLLEY" party2_of="124457_3" local_name_id="2" id="124457_5" >HOLLEY ET AL</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._537_967" id1="124463" start="48" citation_global_level_id="9782.002" line="1" id="124457_2" citation_local_level_id="0" >01-1120</DOCKET>
+
+<DATE start="97" end="113" id="124457_6" >October 21, 2002</DATE>
+
+<NAME start="242" local_name_id="3" end="245" id="124457_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="282" reporter="U. S." entry_type="standard_key" lookup_key="u.s._535_1077" id1="120585" volume="535" start="268" page_number="1077" standard_reporter="U.S." citation_global_level_id="447.002" line="3" id="124457_12" citation_local_level_id="2" >535 U. S. 1077</CITATION>
+
+<RELATION theme="124457_1" includes_docket_string="01-1120" includes_docket="124457_2" theme_string="537 U.S. 967" gram_type="apposition" relation_type="asymmetric" id="124457_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 967" X_vs_Y_string="MEYER v. HOLLEY ET AL" standard_case="124457_1" X_vs_Y="124457_3" gram_type="pre_nom" relation_type="equivalence" id="124457_7" ></RELATION>
+
+<RELATION theme="124457_3" includes_docket_string="01-1120" includes_docket="124457_2" theme_string="MEYER v. HOLLEY ET AL" gram_type="apposition" relation_type="asymmetric" id="124457_10" ></RELATION>
+
+<RELATION theme="124457_3" party1="124457_4" party1_string="MEYER" theme_string="MEYER v. HOLLEY ET AL" gram_type="infix" relation_type="asymmetric" id="124457_8" ></RELATION>
+
+<RELATION party2="124457_5" theme="124457_3" theme_string="MEYER v. HOLLEY ET AL" party2_string="HOLLEY ET AL" gram_type="infix" relation_type="asymmetric" id="124457_9" ></RELATION>
+

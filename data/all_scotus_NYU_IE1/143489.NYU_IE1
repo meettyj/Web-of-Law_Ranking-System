@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['alleytennessee#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_950" id1="143495" volume="544" start="0" page_number="950" standard_reporter="U.S." citation_global_level_id="4880.002" line="1" id="143489_1" citation_local_level_id="0" >544 U.S. 950</CITATION>
+
+<CITATION party2="TENNESSEE" party1="ALLEY" citation_global_level_id="21574.001" party2_short="TENNESSEE" line="2" id="143489_2" alternative_keys="['u.s._544_950']" end="35" entry_type="party_key" lookup_key="alleytennessee#1" id1="143489" start="17" party1_short="ALLEY" citation_local_level_id="1" >ALLEY v. TENNESSEE</CITATION>
+
+<NAME end="22" start="17" party1_of="143489_2" all_names="ALLEY" local_name_id="1" id="143489_3" >ALLEY</NAME>
+
+<NAME end="35" start="26" all_names="TENNESSEE" party2_of="143489_2" local_name_id="2" id="143489_4" >TENNESSEE</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="alleytennessee#1" id1="143489" start="45" citation_global_level_id="21574.001" line="3" id="143489_7" citation_local_level_id="1" >04-7718</DOCKET>
+
+<ORGANIZATION start="58" end="88" id="143489_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="94" citation_global_level_id="21574.001" end="108" id="143489_9" citation_local_level_id="1" >March 28, 2005</DATE>
+
+<NAME start="130" local_name_id="3" end="132" id="143489_13" all_names="CT" >Ct</NAME>
+
+<RELATION theme="143489_2" party1="143489_3" party1_string="ALLEY" theme_string="ALLEY v. TENNESSEE" gram_type="infix" relation_type="asymmetric" id="143489_5" ></RELATION>
+
+<RELATION party2="143489_4" theme="143489_2" theme_string="ALLEY v. TENNESSEE" party2_string="TENNESSEE" gram_type="infix" relation_type="asymmetric" id="143489_6" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 950" X_vs_Y_string="ALLEY v. TENNESSEE" standard_case="143489_1" X_vs_Y="143489_2" gram_type="multi_line" relation_type="equivalence" id="143489_10" ></RELATION>
+
+<RELATION at_date_string="March 28, 2005" theme="143489_2" at_date="143489_9" theme_string="ALLEY v. TENNESSEE" gram_type="multi_line" relation_type="asymmetric" id="143489_12" ></RELATION>
+
+<RELATION theme="143489_2" includes_docket_string="04-7718" includes_docket="143489_7" theme_string="ALLEY v. TENNESSEE" gram_type="multi_line" relation_type="asymmetric" id="143489_11" ></RELATION>
+

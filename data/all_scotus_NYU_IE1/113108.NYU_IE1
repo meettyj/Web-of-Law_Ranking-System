@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['nogarnett#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_819" id1="113107" volume="510" start="0" page_number="819" standard_reporter="U.S." citation_global_level_id="18885.002" line="1" id="113108_1" citation_local_level_id="0" >510 U.S. 819</CITATION>
+
+<CITATION party2="Garnett, By and Through His Next Friend, Smith, et al" party1="Renton School District No. 403 et al." citation_global_level_id="18885.007" party2_short="Garnett" line="1" id="113108_3" alternative_keys="['u.s._510_819']" end="111" entry_type="party_key" lookup_key="nogarnett#2" id1="113107" start="17" party1_short="No" citation_local_level_id="1" >Renton School District No. 403 et al. v. Garnett, By and Through His Next Friend, Smith, et al</CITATION>
+
+<NAME end="54" start="17" party1_of="113108_3" all_names="RENTON SCHOOL DISTRICT NO 403" local_name_id="1" id="113108_4" >Renton School District No. 403 et al.</NAME>
+
+<ORGANIZATION start="17" end="39" id="113108_8" >Renton School District</ORGANIZATION>
+
+<NAME end="111" start="58" all_names="GARNETT BY AND THROUGH HIS NEXT FRIEND SMITH" party2_of="113108_3" local_name_id="2" id="113108_5" >Garnett, By and Through His Next Friend, Smith, et al</NAME>
+
+<DOCKET end="128" entry_type="docket" lookup_key="u.s._510_819" id1="113107" start="121" citation_global_level_id="18885.002" line="1" id="113108_2" citation_local_level_id="0" >92-1890</DOCKET>
+
+<DATE start="124" end="128" id="113108_6" >1890</DATE>
+
+<DATE start="170" end="185" id="113108_7" >October 4, 1993</DATE>
+
+<NAME start="263" local_name_id="3" end="273" id="113108_16" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="311" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_987_641" id1="Dummy_File_178418" volume="987" start="298" page_number="641" standard_reporter="F.2D" citation_global_level_id="242268.001" line="3" id="113108_15" citation_local_level_id="2" >987 F. 2d 641</CITATION>
+
+<RELATION theme="113108_1" includes_docket_string="92-1890" includes_docket="113108_2" theme_string="510 U.S. 819" gram_type="apposition" relation_type="asymmetric" id="113108_13" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 819" X_vs_Y_string="Renton School District No. 403 et al. v. Garnett, By and Through His Next Friend, Smith, et al" standard_case="113108_1" X_vs_Y="113108_3" gram_type="pre_nom" relation_type="equivalence" id="113108_9" ></RELATION>
+
+<RELATION theme="113108_3" includes_docket_string="92-1890" includes_docket="113108_2" theme_string="Renton School District No. 403 et al. v. Garnett, By and Through His Next Friend, Smith, et al" gram_type="apposition" relation_type="asymmetric" id="113108_12" ></RELATION>
+
+<RELATION theme="113108_3" party1="113108_4" party1_string="Renton School District No. 403 et al." theme_string="Renton School District No. 403 et al. v. Garnett, By and Through His Next Friend, Smith, et al" gram_type="infix" relation_type="asymmetric" id="113108_10" ></RELATION>
+
+<RELATION party2="113108_5" theme="113108_3" theme_string="Renton School District No. 403 et al. v. Garnett, By and Through His Next Friend, Smith, et al" party2_string="Garnett, By and Through His Next Friend, Smith, et al" gram_type="infix" relation_type="asymmetric" id="113108_11" ></RELATION>
+
+<RELATION at_date_string="1890" theme="113108_2" at_date="113108_6" theme_string="92-1890" gram_type="infix" relation_type="asymmetric" id="113108_14" ></RELATION>
+

@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['onecity#3']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1081" id1="141352" volume="543" start="0" page_number="1081" standard_reporter="U.S." citation_global_level_id="554.002" line="1" id="141358_1" citation_local_level_id="0" >543 U.S. 1081</CITATION>
+
+<CITATION party2="CITY OF BERKELEY, CALIFORNIA, ET AL" party1="RUI ONE CORP." citation_global_level_id="554.007" party2_short="CITY" line="2" id="141358_2" alternative_keys="['u.s._543_1081']" end="70" entry_type="party_key" lookup_key="onecity#3" id1="141352" start="18" party1_short="ONE" citation_local_level_id="1" >RUI ONE CORP. v. CITY OF BERKELEY, CALIFORNIA, ET AL</CITATION>
+
+<NAME end="31" start="18" party1_of="141358_2" all_names="RUI ONE CORP" local_name_id="1" id="141358_3" >RUI ONE CORP.</NAME>
+
+<ORGANIZATION start="18" end="30" id="141358_5" >RUI ONE CORP</ORGANIZATION>
+
+<NAME end="70" start="35" all_names="CITY OF BERKELEY CALIFORNIA" party2_of="141358_2" local_name_id="2" id="141358_4" >CITY OF BERKELEY, CALIFORNIA, ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._543_1081']" end="86" entry_type="docket" lookup_key="onecity#3" id1="141352" start="80" citation_global_level_id="554.007" line="3" id="141358_8" citation_local_level_id="1" >04-582</DOCKET>
+
+<ORGANIZATION start="92" end="122" id="141358_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="128" citation_global_level_id="554.007" end="144" id="141358_10" citation_local_level_id="1" >January 10, 2005</DATE>
+
+<NAME start="176" local_name_id="3" end="179" id="141358_15" all_names="CIR" >Cir</NAME>
+
+<CITATION end="320" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_371_1137" id1="Dummy_File_149651" volume="371" start="306" page_number="1137" standard_reporter="F.3D" citation_global_level_id="213501.001" line="8" id="141358_14" citation_local_level_id="2" >371 F. 3d 1137</CITATION>
+
+<RELATION theme="141358_2" party1="141358_3" party1_string="RUI ONE CORP." theme_string="RUI ONE CORP. v. CITY OF BERKELEY, CALIFORNIA, ET AL" gram_type="infix" relation_type="asymmetric" id="141358_6" ></RELATION>
+
+<RELATION party2="141358_4" theme="141358_2" theme_string="RUI ONE CORP. v. CITY OF BERKELEY, CALIFORNIA, ET AL" party2_string="CITY OF BERKELEY, CALIFORNIA, ET AL" gram_type="infix" relation_type="asymmetric" id="141358_7" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1081" X_vs_Y_string="RUI ONE CORP. v. CITY OF BERKELEY, CALIFORNIA, ET AL" standard_case="141358_1" X_vs_Y="141358_2" gram_type="multi_line" relation_type="equivalence" id="141358_11" ></RELATION>
+
+<RELATION at_date_string="January 10, 2005" theme="141358_2" at_date="141358_10" theme_string="RUI ONE CORP. v. CITY OF BERKELEY, CALIFORNIA, ET AL" gram_type="multi_line" relation_type="asymmetric" id="141358_13" ></RELATION>
+
+<RELATION theme="141358_2" includes_docket_string="04-582" includes_docket="141358_8" theme_string="RUI ONE CORP. v. CITY OF BERKELEY, CALIFORNIA, ET AL" gram_type="multi_line" relation_type="asymmetric" id="141358_12" ></RELATION>
+

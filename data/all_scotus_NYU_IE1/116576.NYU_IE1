@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['blaircenter#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1093" id1="116564" volume="510" start="0" page_number="1093" standard_reporter="U.S." citation_global_level_id="3277.002" line="1" id="116576_1" citation_local_level_id="0" >510 U.S. 1093</CITATION>
+
+<CITATION party2="Graham Correctional Center et al" party1="Blair" citation_global_level_id="31004.001" party2_short="Center" line="1" id="116576_3" alternative_keys="['u.s._510_1093']" end="59" entry_type="party_key" lookup_key="blaircenter#1" id1="116576" start="18" party1_short="Blair" citation_local_level_id="1" >Blair v. Graham Correctional Center et al</CITATION>
+
+<NAME end="23" start="18" party1_of="116576_3" all_names="BLAIR" local_name_id="1" id="116576_4" >Blair</NAME>
+
+<NAME end="59" start="27" all_names="GRAHAM CORRECTIONAL CENTER" party2_of="116576_3" local_name_id="2" id="116576_5" >Graham Correctional Center et al</NAME>
+
+<DOCKET end="75" entry_type="docket" lookup_key="u.s._510_1093" id1="116564" start="69" citation_global_level_id="3277.002" line="1" id="116576_2" citation_local_level_id="0" >93-849</DOCKET>
+
+<DATE start="117" end="133" id="116576_6" >January 24, 1994</DATE>
+
+<NAME start="211" local_name_id="3" end="221" id="116576_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="257" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_4_996" id1="Dummy_File_2914" volume="4" start="246" page_number="996" standard_reporter="F.3D" citation_global_level_id="66764.001" line="3" id="116576_12" citation_local_level_id="2" >4 F. 3d 996</CITATION>
+
+<RELATION theme="116576_1" includes_docket_string="93-849" includes_docket="116576_2" theme_string="510 U.S. 1093" gram_type="apposition" relation_type="asymmetric" id="116576_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1093" X_vs_Y_string="Blair v. Graham Correctional Center et al" standard_case="116576_1" X_vs_Y="116576_3" gram_type="pre_nom" relation_type="equivalence" id="116576_7" ></RELATION>
+
+<RELATION theme="116576_3" includes_docket_string="93-849" includes_docket="116576_2" theme_string="Blair v. Graham Correctional Center et al" gram_type="apposition" relation_type="asymmetric" id="116576_10" ></RELATION>
+
+<RELATION theme="116576_3" party1="116576_4" party1_string="Blair" theme_string="Blair v. Graham Correctional Center et al" gram_type="infix" relation_type="asymmetric" id="116576_8" ></RELATION>
+
+<RELATION party2="116576_5" theme="116576_3" theme_string="Blair v. Graham Correctional Center et al" party2_string="Graham Correctional Center et al" gram_type="infix" relation_type="asymmetric" id="116576_9" ></RELATION>
+

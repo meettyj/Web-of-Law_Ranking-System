@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['benselassn#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_1018" id1="144412" volume="544" start="0" page_number="1018" standard_reporter="U.S." citation_global_level_id="972.002" line="1" id="144416_1" citation_local_level_id="0" >544 U.S. 1018</CITATION>
+
+<CITATION party2="ALLIED PILOTS ASSN. ET AL" party1="BENSEL ET AL." citation_global_level_id="45558.001" party2_short="ASSN" line="2" id="144416_2" alternative_keys="['u.s._544_1018']" end="60" entry_type="party_key" lookup_key="benselassn#1" id1="144416" start="18" party1_short="BENSEL" citation_local_level_id="1" >BENSEL ET AL. v. ALLIED PILOTS ASSN. ET AL</CITATION>
+
+<NAME end="31" start="18" party1_of="144416_2" all_names="BENSEL" local_name_id="1" id="144416_3" >BENSEL ET AL.</NAME>
+
+<NAME end="60" start="35" all_names="ALLIED PILOTS ASSN" party2_of="144416_2" local_name_id="2" id="144416_4" >ALLIED PILOTS ASSN. ET AL</NAME>
+
+<PROFESSION start="42" end="53" plural="True" id="144416_5" >PILOTS ASSN</PROFESSION>
+
+<DOCKET end="77" entry_type="docket" lookup_key="benselassn#1" id1="144416" start="70" citation_global_level_id="45558.001" line="3" id="144416_8" citation_local_level_id="1" >04-1145</DOCKET>
+
+<ORGANIZATION start="83" end="113" id="144416_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="119" citation_global_level_id="45558.001" end="130" id="144416_10" citation_local_level_id="1" >May 2, 2005</DATE>
+
+<NAME start="161" local_name_id="3" end="164" id="144416_15" all_names="CIR" >Cir</NAME>
+
+<CITATION end="214" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_387_298" id1="Dummy_File_209914" volume="387" start="201" page_number="298" standard_reporter="F.3D" citation_global_level_id="273764.001" line="8" id="144416_14" citation_local_level_id="2" >387 F. 3d 298</CITATION>
+
+<RELATION theme="144416_2" party1="144416_3" party1_string="BENSEL ET AL." theme_string="BENSEL ET AL. v. ALLIED PILOTS ASSN. ET AL" gram_type="infix" relation_type="asymmetric" id="144416_6" ></RELATION>
+
+<RELATION party2="144416_4" theme="144416_2" theme_string="BENSEL ET AL. v. ALLIED PILOTS ASSN. ET AL" party2_string="ALLIED PILOTS ASSN. ET AL" gram_type="infix" relation_type="asymmetric" id="144416_7" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 1018" X_vs_Y_string="BENSEL ET AL. v. ALLIED PILOTS ASSN. ET AL" standard_case="144416_1" X_vs_Y="144416_2" gram_type="multi_line" relation_type="equivalence" id="144416_11" ></RELATION>
+
+<RELATION at_date_string="May 2, 2005" theme="144416_2" at_date="144416_10" theme_string="BENSEL ET AL. v. ALLIED PILOTS ASSN. ET AL" gram_type="multi_line" relation_type="asymmetric" id="144416_13" ></RELATION>
+
+<RELATION theme="144416_2" includes_docket_string="04-1145" includes_docket="144416_8" theme_string="BENSEL ET AL. v. ALLIED PILOTS ASSN. ET AL" gram_type="multi_line" relation_type="asymmetric" id="144416_12" ></RELATION>
+

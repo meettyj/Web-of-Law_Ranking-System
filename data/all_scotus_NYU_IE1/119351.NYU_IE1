@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['singletarystates#4']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_976" id1="119359" volume="535" start="0" page_number="976" standard_reporter="U.S." citation_global_level_id="1839.002" line="1" id="119351_1" citation_local_level_id="0" >535 U.S. 976</CITATION>
+
+<CITATION party2="UNITED STATES" party1="SINGLETARY" citation_global_level_id="36639.001" party2_short="STATES" line="2" id="119351_2" alternative_keys="['u.s._535_976']" end="44" entry_type="party_key" lookup_key="singletarystates#4" id1="144764" start="17" party1_short="SINGLETARY" citation_local_level_id="1" >SINGLETARY v. UNITED STATES</CITATION>
+
+<NAME end="27" start="17" party1_of="119351_2" all_names="SINGLETARY" local_name_id="1" id="119351_3" >SINGLETARY</NAME>
+
+<NAME end="44" start="31" all_names="UNITED STATES" party2_of="119351_2" local_name_id="2" id="119351_4" >UNITED STATES</NAME>
+
+<DOCKET end="61" entry_type="docket" lookup_key="singletarystates#4" id1="144764" start="54" citation_global_level_id="36639.001" line="3" id="119351_7" citation_local_level_id="1" >01-8514</DOCKET>
+
+<DATE start="107" citation_global_level_id="36639.001" end="120" id="119351_8" citation_local_level_id="1" >April 1, 2002</DATE>
+
+<NAME start="151" local_name_id="3" end="154" id="119351_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="204" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_268_196" id1="Dummy_File_192179" volume="268" start="191" page_number="196" standard_reporter="F.3D" citation_global_level_id="256029.001" line="8" id="119351_12" citation_local_level_id="2" >268 F. 3d 196</CITATION>
+
+<RELATION theme="119351_2" party1="119351_3" party1_string="SINGLETARY" theme_string="SINGLETARY v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="119351_5" ></RELATION>
+
+<RELATION party2="119351_4" theme="119351_2" theme_string="SINGLETARY v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="119351_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 976" X_vs_Y_string="SINGLETARY v. UNITED STATES" standard_case="119351_1" X_vs_Y="119351_2" gram_type="multi_line" relation_type="equivalence" id="119351_9" ></RELATION>
+
+<RELATION at_date_string="April 1, 2002" theme="119351_2" at_date="119351_8" theme_string="SINGLETARY v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="119351_11" ></RELATION>
+
+<RELATION theme="119351_2" includes_docket_string="01-8514" includes_docket="119351_7" theme_string="SINGLETARY v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="119351_10" ></RELATION>
+

@@ -1,0 +1,48 @@
+<CITATION alternative_keys="['usawilliams#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_801" id1="131169" volume="540" start="0" page_number="801" standard_reporter="U.S." citation_global_level_id="5985.002" line="1" id="131171_1" citation_local_level_id="0" >540 U.S. 801</CITATION>
+
+<CITATION party2="WILLIAMS, PERSONAL REPRESENTATIVE OF THE ESTATE OF WILLIAMS, DECEASED" party1="PHILIP MORRIS USA INC." citation_global_level_id="51979.001" party2_short="WILLIAMS" line="1" id="131171_3" alternative_keys="['u.s._540_801']" end="112" entry_type="party_key" lookup_key="usawilliams#2" id1="145893" start="17" party1_short="USA" citation_local_level_id="1" >PHILIP MORRIS USA INC. v. WILLIAMS, PERSONAL REPRESENTATIVE OF THE ESTATE OF WILLIAMS, DECEASED</CITATION>
+
+<NAME end="39" start="17" party1_of="131171_3" all_names="PHILIP MORRIS USA INC" local_name_id="1" id="131171_4" >PHILIP MORRIS USA INC.</NAME>
+
+<ORGANIZATION start="17" end="38" id="131171_7" >PHILIP MORRIS USA INC</ORGANIZATION>
+
+<NAME end="112" start="43" all_names="WILLIAMS PERSONAL REPRESENTATIVE OF THE ESTATE OF WILLIAMS DECEASED" party2_of="131171_3" local_name_id="2" id="131171_5" >WILLIAMS, PERSONAL REPRESENTATIVE OF THE ESTATE OF WILLIAMS, DECEASED</NAME>
+
+<DOCKET end="129" entry_type="docket" lookup_key="u.s._540_801" id1="131169" start="122" citation_global_level_id="5985.002" line="1" id="131171_2" citation_local_level_id="0" >02-1553</DOCKET>
+
+<DATE start="171" end="186" id="131171_6" >October 6, 2003</DATE>
+
+<NAME start="263" local_name_id="3" end="273" id="131171_19" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION party2="Campbell" party1="State Farm Mut. Automobile Ins. Co." citation_global_level_id="149571.001" party2_short="Campbell" line="3" id="131171_15" alternative_keys="['u.s._538_408']" end="404" no_current_file="True" entry_type="party_key" lookup_key="inscampbell#2" id1="Dummy_File_85721" start="357" party1_short="Ins" citation_local_level_id="2" >State Farm Mut. Automobile Ins. Co. v. Campbell</CITATION>
+
+<NAME end="392" start="357" party1_of="131171_15" all_names="STATE FARM MUT AUTOMOBILE INS CO" local_name_id="4" id="131171_16" >State Farm Mut. Automobile Ins. Co.</NAME>
+
+<ORGANIZATION start="389" end="391" id="131171_20" >Co</ORGANIZATION>
+
+<NAME end="404" start="396" all_names="CAMPBELL" party2_of="131171_15" local_name_id="5" id="131171_17" >Campbell</NAME>
+
+<CITATION alternative_keys="['inscampbell#2']" end="425" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_408" id1="127910" volume="538" start="406" page_number="408" year="2003" standard_reporter="U.S." citation_global_level_id="1172.002" line="3" id="131171_13" citation_local_level_id="3" >538 U.S. 408 (2003)</CITATION>
+
+<DATE start="420" citation_global_level_id="1172.002" end="424" id="131171_18" citation_local_level_id="3" >2003</DATE>
+
+<CITATION end="473" reporter="P. 3d" entry_type="standard_key" no_current_file="True" lookup_key="p.3d_48_824" id1="Dummy_File_219154" volume="48" start="461" page_number="824" standard_reporter="P.3D" citation_global_level_id="283004.001" line="3" id="131171_14" citation_local_level_id="4" >48 P. 3d 824</CITATION>
+
+<RELATION theme="131171_1" includes_docket_string="02-1553" includes_docket="131171_2" theme_string="540 U.S. 801" gram_type="apposition" relation_type="asymmetric" id="131171_12" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 801" X_vs_Y_string="PHILIP MORRIS USA INC. v. WILLIAMS, PERSONAL REPRESENTATIVE OF THE ESTATE OF WILLIAMS, DECEASED" standard_case="131171_1" X_vs_Y="131171_3" gram_type="pre_nom" relation_type="equivalence" id="131171_8" ></RELATION>
+
+<RELATION theme="131171_3" includes_docket_string="02-1553" includes_docket="131171_2" theme_string="PHILIP MORRIS USA INC. v. WILLIAMS, PERSONAL REPRESENTATIVE OF THE ESTATE OF WILLIAMS, DECEASED" gram_type="apposition" relation_type="asymmetric" id="131171_11" ></RELATION>
+
+<RELATION party2="131171_5" theme="131171_3" theme_string="PHILIP MORRIS USA INC. v. WILLIAMS, PERSONAL REPRESENTATIVE OF THE ESTATE OF WILLIAMS, DECEASED" party2_string="WILLIAMS, PERSONAL REPRESENTATIVE OF THE ESTATE OF WILLIAMS, DECEASED" gram_type="infix" relation_type="asymmetric" id="131171_10" ></RELATION>
+
+<RELATION theme="131171_3" party1="131171_4" party1_string="PHILIP MORRIS USA INC." theme_string="PHILIP MORRIS USA INC. v. WILLIAMS, PERSONAL REPRESENTATIVE OF THE ESTATE OF WILLIAMS, DECEASED" gram_type="infix" relation_type="asymmetric" id="131171_9" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 408 (2003)" X_vs_Y_string="State Farm Mut. Automobile Ins. Co. v. Campbell" standard_case="131171_13" X_vs_Y="131171_15" gram_type="apposition" relation_type="equivalence" id="131171_23" ></RELATION>
+
+<RELATION theme="131171_15" party1="131171_16" party1_string="State Farm Mut. Automobile Ins. Co." theme_string="State Farm Mut. Automobile Ins. Co. v. Campbell" gram_type="infix" relation_type="asymmetric" id="131171_21" ></RELATION>
+
+<RELATION party2="131171_17" theme="131171_15" theme_string="State Farm Mut. Automobile Ins. Co. v. Campbell" party2_string="Campbell" gram_type="infix" relation_type="asymmetric" id="131171_22" ></RELATION>
+
+<RELATION at_date_string="2003" theme="131171_13" at_date="131171_18" theme_string="538 U.S. 408 (2003)" gram_type="infix" relation_type="asymmetric" id="131171_24" ></RELATION>
+

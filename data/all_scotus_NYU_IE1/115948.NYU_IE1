@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['hirshpennsylvania#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1042" id1="115951" volume="510" start="0" page_number="1042" standard_reporter="U.S." citation_global_level_id="3944.002" line="1" id="115948_1" citation_local_level_id="0" >510 U.S. 1042</CITATION>
+
+<CITATION party2="Pennsylvania" party1="Hirsh" citation_global_level_id="23226.001" party2_short="Pennsylvania" line="1" id="115948_3" alternative_keys="['u.s._510_1042']" end="39" entry_type="party_key" lookup_key="hirshpennsylvania#1" id1="115948" start="18" party1_short="Hirsh" citation_local_level_id="1" >Hirsh v. Pennsylvania</CITATION>
+
+<NAME end="23" start="18" party1_of="115948_3" all_names="HIRSH" local_name_id="1" id="115948_4" >Hirsh</NAME>
+
+<NAME end="39" start="27" all_names="PENNSYLVANIA" party2_of="115948_3" local_name_id="2" id="115948_5" >Pennsylvania</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._510_1042" id1="115951" start="49" citation_global_level_id="3944.002" line="1" id="115948_2" citation_local_level_id="0" >93-660</DOCKET>
+
+<DATE start="97" end="113" id="115948_6" >January 10, 1994</DATE>
+
+<NAME start="191" local_name_id="3" end="201" id="115948_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="259" reporter="A. 2d" entry_type="standard_key" no_current_file="True" lookup_key="a.2d_627_202" id1="Dummy_File_101247" volume="627" start="246" page_number="202" standard_reporter="A.2D" citation_global_level_id="165097.001" line="3" id="115948_12" citation_local_level_id="2" >627 A. 2d 202</CITATION>
+
+<RELATION theme="115948_1" includes_docket_string="93-660" includes_docket="115948_2" theme_string="510 U.S. 1042" gram_type="apposition" relation_type="asymmetric" id="115948_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1042" X_vs_Y_string="Hirsh v. Pennsylvania" standard_case="115948_1" X_vs_Y="115948_3" gram_type="pre_nom" relation_type="equivalence" id="115948_7" ></RELATION>
+
+<RELATION theme="115948_3" includes_docket_string="93-660" includes_docket="115948_2" theme_string="Hirsh v. Pennsylvania" gram_type="apposition" relation_type="asymmetric" id="115948_10" ></RELATION>
+
+<RELATION theme="115948_3" party1="115948_4" party1_string="Hirsh" theme_string="Hirsh v. Pennsylvania" gram_type="infix" relation_type="asymmetric" id="115948_8" ></RELATION>
+
+<RELATION party2="115948_5" theme="115948_3" theme_string="Hirsh v. Pennsylvania" party2_string="Pennsylvania" gram_type="infix" relation_type="asymmetric" id="115948_9" ></RELATION>
+

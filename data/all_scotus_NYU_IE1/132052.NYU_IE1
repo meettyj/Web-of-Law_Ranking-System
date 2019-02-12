@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['smithgales#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_870" id1="132053" volume="540" start="0" page_number="870" standard_reporter="U.S." citation_global_level_id="2860.002" line="1" id="132052_1" citation_local_level_id="0" >540 U.S. 870</CITATION>
+
+<CITATION party2="GALES ET AL" party1="SMITH" citation_global_level_id="33682.001" party2_short="GALES" line="1" id="132052_3" alternative_keys="['u.s._540_870']" end="37" entry_type="party_key" lookup_key="smithgales#1" id1="132052" start="17" party1_short="SMITH" citation_local_level_id="1" >SMITH v. GALES ET AL</CITATION>
+
+<NAME end="22" start="17" party1_of="132052_3" all_names="SMITH" local_name_id="1" id="132052_4" >SMITH</NAME>
+
+<NAME end="37" start="26" all_names="GALES" party2_of="132052_3" local_name_id="2" id="132052_5" >GALES ET AL</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._540_870" id1="132053" start="47" citation_global_level_id="2860.002" line="1" id="132052_2" citation_local_level_id="0" >02-11357</DOCKET>
+
+<DATE start="97" end="112" id="132052_6" >October 6, 2003</DATE>
+
+<NAME start="200" local_name_id="3" end="210" id="132052_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="132052_1" includes_docket_string="02-11357" includes_docket="132052_2" theme_string="540 U.S. 870" gram_type="apposition" relation_type="asymmetric" id="132052_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 870" X_vs_Y_string="SMITH v. GALES ET AL" standard_case="132052_1" X_vs_Y="132052_3" gram_type="pre_nom" relation_type="equivalence" id="132052_7" ></RELATION>
+
+<RELATION theme="132052_3" includes_docket_string="02-11357" includes_docket="132052_2" theme_string="SMITH v. GALES ET AL" gram_type="apposition" relation_type="asymmetric" id="132052_10" ></RELATION>
+
+<RELATION theme="132052_3" party1="132052_4" party1_string="SMITH" theme_string="SMITH v. GALES ET AL" gram_type="infix" relation_type="asymmetric" id="132052_8" ></RELATION>
+
+<RELATION party2="132052_5" theme="132052_3" theme_string="SMITH v. GALES ET AL" party2_string="GALES ET AL" gram_type="infix" relation_type="asymmetric" id="132052_9" ></RELATION>
+

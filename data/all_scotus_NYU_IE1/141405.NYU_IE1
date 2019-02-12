@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['austincourt#5']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1084" id1="141417" volume="543" start="0" page_number="1084" standard_reporter="U.S." citation_global_level_id="4431.002" line="1" id="141405_1" citation_local_level_id="0" >543 U.S. 1084</CITATION>
+
+<CITATION party2="SUPERIOR COURT OF CALIFORNIA, SAN DIEGO COUNTY" party1="AUSTIN" citation_global_level_id="647.005" party2_short="COURT" line="2" id="141405_2" alternative_keys="['u.s._543_961']" end="74" entry_type="party_key" lookup_key="austincourt#5" id1="139829" start="18" party1_short="AUSTIN" citation_local_level_id="1" >AUSTIN v. SUPERIOR COURT OF CALIFORNIA, SAN DIEGO COUNTY</CITATION>
+
+<NAME end="24" start="18" party1_of="141405_2" all_names="AUSTIN" local_name_id="1" id="141405_3" >AUSTIN</NAME>
+
+<NAME end="74" start="28" all_names="SUPERIOR COURT OF CALIFORNIA SAN DIEGO COUNTY" party2_of="141405_2" local_name_id="2" id="141405_4" >SUPERIOR COURT OF CALIFORNIA, SAN DIEGO COUNTY</NAME>
+
+<DOCKET alternative_keys="['u.s._543_961']" end="105" entry_type="docket" lookup_key="austincourt#5" id1="139829" start="98" citation_global_level_id="647.005" line="3" id="141405_7" citation_local_level_id="1" >04-5975</DOCKET>
+
+<ORGANIZATION start="111" end="141" id="141405_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="147" citation_global_level_id="647.005" end="163" id="141405_9" citation_local_level_id="1" >January 10, 2005</DATE>
+
+<LEGAL_ROLE start="185" end="195" id="141405_13" >Petitioner</LEGAL_ROLE>
+
+<RELATION theme="141405_2" party1="141405_3" party1_string="AUSTIN" theme_string="AUSTIN v. SUPERIOR COURT OF CALIFORNIA, SAN DIEGO COUNTY" gram_type="infix" relation_type="asymmetric" id="141405_5" ></RELATION>
+
+<RELATION party2="141405_4" theme="141405_2" theme_string="AUSTIN v. SUPERIOR COURT OF CALIFORNIA, SAN DIEGO COUNTY" party2_string="SUPERIOR COURT OF CALIFORNIA, SAN DIEGO COUNTY" gram_type="infix" relation_type="asymmetric" id="141405_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1084" X_vs_Y_string="AUSTIN v. SUPERIOR COURT OF CALIFORNIA, SAN DIEGO COUNTY" standard_case="141405_1" X_vs_Y="141405_2" gram_type="multi_line" relation_type="equivalence" id="141405_10" ></RELATION>
+
+<RELATION at_date_string="January 10, 2005" theme="141405_2" at_date="141405_9" theme_string="AUSTIN v. SUPERIOR COURT OF CALIFORNIA, SAN DIEGO COUNTY" gram_type="multi_line" relation_type="asymmetric" id="141405_12" ></RELATION>
+
+<RELATION theme="141405_2" includes_docket_string="04-5975" includes_docket="141405_7" theme_string="AUSTIN v. SUPERIOR COURT OF CALIFORNIA, SAN DIEGO COUNTY" gram_type="multi_line" relation_type="asymmetric" id="141405_11" ></RELATION>
+

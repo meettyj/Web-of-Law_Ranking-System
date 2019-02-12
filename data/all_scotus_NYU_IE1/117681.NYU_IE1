@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['cloutierillinois#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1200" id1="117673" volume="510" start="0" page_number="1200" standard_reporter="U.S." citation_global_level_id="270.002" line="1" id="117681_1" citation_local_level_id="0" >510 U.S. 1200</CITATION>
+
+<CITATION party2="Illinois" party1="Cloutier" citation_global_level_id="52692.001" party2_short="Illinois" line="1" id="117681_3" alternative_keys="['u.s._510_1200']" end="38" entry_type="party_key" lookup_key="cloutierillinois#1" id1="117681" start="18" party1_short="Cloutier" citation_local_level_id="1" >Cloutier v. Illinois</CITATION>
+
+<NAME end="26" start="18" party1_of="117681_3" all_names="CLOUTIER" local_name_id="1" id="117681_4" >Cloutier</NAME>
+
+<NAME end="38" start="30" all_names="ILLINOIS" party2_of="117681_3" local_name_id="2" id="117681_5" >Illinois</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._510_1200" id1="117673" start="48" citation_global_level_id="270.002" line="1" id="117681_2" citation_local_level_id="0" >93-7592</DOCKET>
+
+<DATE start="97" end="111" id="117681_6" >March 21, 1994</DATE>
+
+<NAME start="188" local_name_id="3" end="198" id="117681_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="256" reporter="N. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.e.2d_622_774" id1="Dummy_File_88094" volume="622" start="240" page_number="774" standard_reporter="N.E.2D" citation_global_level_id="151944.001" line="3" id="117681_12" citation_local_level_id="2" >622 N. E. 2d 774</CITATION>
+
+<RELATION theme="117681_1" includes_docket_string="93-7592" includes_docket="117681_2" theme_string="510 U.S. 1200" gram_type="apposition" relation_type="asymmetric" id="117681_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1200" X_vs_Y_string="Cloutier v. Illinois" standard_case="117681_1" X_vs_Y="117681_3" gram_type="pre_nom" relation_type="equivalence" id="117681_7" ></RELATION>
+
+<RELATION theme="117681_3" includes_docket_string="93-7592" includes_docket="117681_2" theme_string="Cloutier v. Illinois" gram_type="apposition" relation_type="asymmetric" id="117681_10" ></RELATION>
+
+<RELATION theme="117681_3" party1="117681_4" party1_string="Cloutier" theme_string="Cloutier v. Illinois" gram_type="infix" relation_type="asymmetric" id="117681_8" ></RELATION>
+
+<RELATION party2="117681_5" theme="117681_3" theme_string="Cloutier v. Illinois" party2_string="Illinois" gram_type="infix" relation_type="asymmetric" id="117681_9" ></RELATION>
+

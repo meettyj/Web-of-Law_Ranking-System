@@ -1,0 +1,40 @@
+<CITATION alternative_keys="['healthinsurance#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_827" id1="113210" volume="510" start="0" page_number="827" standard_reporter="U.S." citation_global_level_id="1857.002" line="1" id="113207_1" citation_local_level_id="0" >510 U.S. 827</CITATION>
+
+<CITATION party2="Developers Insurance Co. et al" party1="Carpenters Health and Welfare Trust Fund for California et al." citation_global_level_id="11592.001" party2_short="Insurance" line="1" id="113207_3" alternative_keys="['u.s._510_827']" end="113" entry_type="party_key" lookup_key="healthinsurance#1" id1="113207" start="17" party1_short="Health" citation_local_level_id="1" >Carpenters Health and Welfare Trust Fund for California et al. v. Developers Insurance Co. et al</CITATION>
+
+<NAME end="79" start="17" party1_of="113207_3" all_names="CARPENTERS HEALTH AND WELFARE TRUST FUND FOR CALIFORNIA" local_name_id="1" id="113207_4" >Carpenters Health and Welfare Trust Fund for California et al.</NAME>
+
+<ORGANIZATION start="17" end="72" id="113207_8" >Carpenters Health and Welfare Trust Fund for California</ORGANIZATION>
+
+<NAME end="113" start="83" all_names="DEVELOPERS INSURANCE CO" party2_of="113207_3" local_name_id="2" id="113207_5" >Developers Insurance Co. et al</NAME>
+
+<ORGANIZATION start="83" end="106" id="113207_9" >Developers Insurance Co</ORGANIZATION>
+
+<DOCKET end="130" entry_type="docket" lookup_key="u.s._510_827" id1="113210" start="123" citation_global_level_id="1857.002" line="1" id="113207_2" citation_local_level_id="0" >92-2033</DOCKET>
+
+<DATE start="126" end="130" id="113207_6" >2033</DATE>
+
+<ORGANIZATION start="136" end="166" id="113207_10" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="172" end="187" id="113207_7" >October 4, 1993</DATE>
+
+<NAME start="209" local_name_id="3" end="227" id="113207_11" all_names="APPEAL FROM THE CT" >Appeal from the Ct</NAME>
+
+<NAME start="229" local_name_id="4" end="232" id="113207_12" all_names="APP" >App</NAME>
+
+<NAME start="280" local_name_id="5" end="290" id="113207_20" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="357" reporter="Cal. Rptr. 2d" entry_type="standard_key" no_current_file="True" lookup_key="cal.rptr.2d_15_85" id1="Dummy_File_70257" volume="15" start="338" page_number="85" standard_reporter="CAL.RPTR.2D" citation_global_level_id="134107.001" line="3" id="113207_19" citation_local_level_id="2" >15 Cal. Rptr. 2d 85</CITATION>
+
+<RELATION theme="113207_1" includes_docket_string="92-2033" includes_docket="113207_2" theme_string="510 U.S. 827" gram_type="apposition" relation_type="asymmetric" id="113207_17" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 827" X_vs_Y_string="Carpenters Health and Welfare Trust Fund for California et al. v. Developers Insurance Co. et al" standard_case="113207_1" X_vs_Y="113207_3" gram_type="pre_nom" relation_type="equivalence" id="113207_13" ></RELATION>
+
+<RELATION theme="113207_3" includes_docket_string="92-2033" includes_docket="113207_2" theme_string="Carpenters Health and Welfare Trust Fund for California et al. v. Developers Insurance Co. et al" gram_type="apposition" relation_type="asymmetric" id="113207_16" ></RELATION>
+
+<RELATION theme="113207_3" party1="113207_4" party1_string="Carpenters Health and Welfare Trust Fund for California et al." theme_string="Carpenters Health and Welfare Trust Fund for California et al. v. Developers Insurance Co. et al" gram_type="infix" relation_type="asymmetric" id="113207_14" ></RELATION>
+
+<RELATION party2="113207_5" theme="113207_3" theme_string="Carpenters Health and Welfare Trust Fund for California et al. v. Developers Insurance Co. et al" party2_string="Developers Insurance Co. et al" gram_type="infix" relation_type="asymmetric" id="113207_15" ></RELATION>
+
+<RELATION at_date_string="2033" theme="113207_2" at_date="113207_6" theme_string="92-2033" gram_type="infix" relation_type="asymmetric" id="113207_18" ></RELATION>
+

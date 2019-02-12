@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['dandostates#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_917" id1="123762" volume="537" start="0" page_number="917" standard_reporter="U.S." citation_global_level_id="98.002" line="1" id="123767_1" citation_local_level_id="0" >537 U.S. 917</CITATION>
+
+<CITATION party2="UNITED STATES" party1="DANDO" citation_global_level_id="63791.001" party2_short="STATES" line="1" id="123767_3" alternative_keys="['u.s._537_917']" end="39" entry_type="party_key" lookup_key="dandostates#1" id1="123767" start="17" party1_short="DANDO" citation_local_level_id="1" >DANDO v. UNITED STATES</CITATION>
+
+<NAME end="22" start="17" party1_of="123767_3" all_names="DANDO" local_name_id="1" id="123767_4" >DANDO</NAME>
+
+<NAME end="39" start="26" all_names="UNITED STATES" party2_of="123767_3" local_name_id="2" id="123767_5" >UNITED STATES</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._537_917" id1="123762" start="49" citation_global_level_id="98.002" line="1" id="123767_2" citation_local_level_id="0" >02-5461</DOCKET>
+
+<DATE start="98" end="113" id="123767_6" >October 7, 2002</DATE>
+
+<NAME start="243" local_name_id="3" end="246" id="123767_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="296" reporter="F.3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_287_1007" id1="Dummy_File_164541" volume="287" start="283" page_number="1007" standard_reporter="F.3D" citation_global_level_id="228391.001" line="3" id="123767_12" citation_local_level_id="2" >287 F.3d 1007</CITATION>
+
+<RELATION theme="123767_1" includes_docket_string="02-5461" includes_docket="123767_2" theme_string="537 U.S. 917" gram_type="apposition" relation_type="asymmetric" id="123767_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 917" X_vs_Y_string="DANDO v. UNITED STATES" standard_case="123767_1" X_vs_Y="123767_3" gram_type="pre_nom" relation_type="equivalence" id="123767_7" ></RELATION>
+
+<RELATION theme="123767_3" includes_docket_string="02-5461" includes_docket="123767_2" theme_string="DANDO v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="123767_10" ></RELATION>
+
+<RELATION theme="123767_3" party1="123767_4" party1_string="DANDO" theme_string="DANDO v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="123767_8" ></RELATION>
+
+<RELATION party2="123767_5" theme="123767_3" theme_string="DANDO v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="123767_9" ></RELATION>
+

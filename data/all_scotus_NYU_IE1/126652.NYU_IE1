@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['brownjersey#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1144" id1="126652" volume="537" start="0" page_number="1144" standard_reporter="U.S." citation_global_level_id="702.002" line="1" id="126652_1" citation_local_level_id="0" >537 U.S. 1144</CITATION>
+
+<CITATION party2="NEW JERSEY" party1="BROWN" citation_global_level_id="6828.001" party2_short="JERSEY" line="1" id="126652_3" alternative_keys="['u.s._537_1144']" end="37" entry_type="party_key" lookup_key="brownjersey#2" id1="95114" start="18" party1_short="BROWN" citation_local_level_id="1" >BROWN v. NEW JERSEY</CITATION>
+
+<NAME end="23" start="18" party1_of="126652_3" all_names="BROWN" local_name_id="1" id="126652_4" >BROWN</NAME>
+
+<NAME end="37" start="27" all_names="NEW JERSEY" party2_of="126652_3" local_name_id="2" id="126652_5" >NEW JERSEY</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="u.s._537_1144" id1="126652" start="47" citation_global_level_id="702.002" line="1" id="126652_2" citation_local_level_id="0" >02-7873</DOCKET>
+
+<DATE start="96" end="112" id="126652_6" >January 13, 2003</DATE>
+
+<NAME start="227" local_name_id="3" end="232" id="126652_12" all_names="SUPER" >Super</NAME>
+
+<RELATION theme="126652_1" includes_docket_string="02-7873" includes_docket="126652_2" theme_string="537 U.S. 1144" gram_type="apposition" relation_type="asymmetric" id="126652_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1144" X_vs_Y_string="BROWN v. NEW JERSEY" standard_case="126652_1" X_vs_Y="126652_3" gram_type="pre_nom" relation_type="equivalence" id="126652_7" ></RELATION>
+
+<RELATION theme="126652_3" includes_docket_string="02-7873" includes_docket="126652_2" theme_string="BROWN v. NEW JERSEY" gram_type="apposition" relation_type="asymmetric" id="126652_10" ></RELATION>
+
+<RELATION theme="126652_3" party1="126652_4" party1_string="BROWN" theme_string="BROWN v. NEW JERSEY" gram_type="infix" relation_type="asymmetric" id="126652_8" ></RELATION>
+
+<RELATION party2="126652_5" theme="126652_3" theme_string="BROWN v. NEW JERSEY" party2_string="NEW JERSEY" gram_type="infix" relation_type="asymmetric" id="126652_9" ></RELATION>
+

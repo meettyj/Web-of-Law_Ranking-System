@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['vasquezpennsylvania#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1055" id1="125479" volume="537" start="0" page_number="1055" standard_reporter="U.S." citation_global_level_id="2445.002" line="1" id="125473_1" citation_local_level_id="0" >537 U.S. 1055</CITATION>
+
+<CITATION party2="PENNSYLVANIA" party1="VASQUEZ" citation_global_level_id="32911.001" party2_short="PENNSYLVANIA" line="1" id="125473_3" alternative_keys="['u.s._537_1055']" end="41" entry_type="party_key" lookup_key="vasquezpennsylvania#1" id1="125473" start="18" party1_short="VASQUEZ" citation_local_level_id="1" >VASQUEZ v. PENNSYLVANIA</CITATION>
+
+<NAME end="25" start="18" party1_of="125473_3" all_names="VASQUEZ" local_name_id="1" id="125473_4" >VASQUEZ</NAME>
+
+<NAME end="41" start="29" all_names="PENNSYLVANIA" party2_of="125473_3" local_name_id="2" id="125473_5" >PENNSYLVANIA</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._537_1055" id1="125479" start="51" citation_global_level_id="2445.002" line="1" id="125473_2" citation_local_level_id="0" >02-6674</DOCKET>
+
+<DATE start="100" end="116" id="125473_6" >December 2, 2002</DATE>
+
+<NAME start="213" local_name_id="3" end="218" id="125473_13" all_names="SUPER" >Super</NAME>
+
+<CITATION end="277" reporter="A. 2d" entry_type="standard_key" no_current_file="True" lookup_key="a.2d_797_1027" id1="Dummy_File_142958" volume="797" start="263" page_number="1027" standard_reporter="A.2D" citation_global_level_id="206808.001" line="3" id="125473_12" citation_local_level_id="2" >797 A. 2d 1027</CITATION>
+
+<RELATION theme="125473_1" includes_docket_string="02-6674" includes_docket="125473_2" theme_string="537 U.S. 1055" gram_type="apposition" relation_type="asymmetric" id="125473_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1055" X_vs_Y_string="VASQUEZ v. PENNSYLVANIA" standard_case="125473_1" X_vs_Y="125473_3" gram_type="pre_nom" relation_type="equivalence" id="125473_7" ></RELATION>
+
+<RELATION theme="125473_3" includes_docket_string="02-6674" includes_docket="125473_2" theme_string="VASQUEZ v. PENNSYLVANIA" gram_type="apposition" relation_type="asymmetric" id="125473_10" ></RELATION>
+
+<RELATION theme="125473_3" party1="125473_4" party1_string="VASQUEZ" theme_string="VASQUEZ v. PENNSYLVANIA" gram_type="infix" relation_type="asymmetric" id="125473_8" ></RELATION>
+
+<RELATION party2="125473_5" theme="125473_3" theme_string="VASQUEZ v. PENNSYLVANIA" party2_string="PENNSYLVANIA" gram_type="infix" relation_type="asymmetric" id="125473_9" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['boonetexas#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1006" id1="124843" volume="537" start="0" page_number="1006" standard_reporter="U.S." citation_global_level_id="6421.002" line="1" id="124842_1" citation_local_level_id="0" >537 U.S. 1006</CITATION>
+
+<CITATION party2="TEXAS" party1="BOONE" citation_global_level_id="43219.001" party2_short="TEXAS" line="1" id="124842_3" alternative_keys="['u.s._537_1006']" end="32" entry_type="party_key" lookup_key="boonetexas#1" id1="124842" start="18" party1_short="BOONE" citation_local_level_id="1" >BOONE v. TEXAS</CITATION>
+
+<NAME end="23" start="18" party1_of="124842_3" all_names="BOONE" local_name_id="1" id="124842_4" >BOONE</NAME>
+
+<NAME end="32" start="27" all_names="TEXAS" party2_of="124842_3" local_name_id="2" id="124842_5" >TEXAS</NAME>
+
+<DOCKET end="49" entry_type="docket" lookup_key="u.s._537_1006" id1="124843" start="42" citation_global_level_id="6421.002" line="1" id="124842_2" citation_local_level_id="0" >02-6145</DOCKET>
+
+<DATE start="91" end="107" id="124842_6" >November 4, 2002</DATE>
+
+<NAME start="227" local_name_id="3" end="229" id="124842_13" all_names="CT" >Ct</NAME>
+
+<CITATION end="303" reporter="S. W. 3d" entry_type="standard_key" no_current_file="True" lookup_key="s.w.3d_60_231" id1="Dummy_File_120452" volume="60" start="288" page_number="231" standard_reporter="S.W.3D" citation_global_level_id="184302.001" line="3" id="124842_12" citation_local_level_id="2" >60 S. W. 3d 231</CITATION>
+
+<RELATION theme="124842_1" includes_docket_string="02-6145" includes_docket="124842_2" theme_string="537 U.S. 1006" gram_type="apposition" relation_type="asymmetric" id="124842_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1006" X_vs_Y_string="BOONE v. TEXAS" standard_case="124842_1" X_vs_Y="124842_3" gram_type="pre_nom" relation_type="equivalence" id="124842_7" ></RELATION>
+
+<RELATION theme="124842_3" includes_docket_string="02-6145" includes_docket="124842_2" theme_string="BOONE v. TEXAS" gram_type="apposition" relation_type="asymmetric" id="124842_10" ></RELATION>
+
+<RELATION theme="124842_3" party1="124842_4" party1_string="BOONE" theme_string="BOONE v. TEXAS" gram_type="infix" relation_type="asymmetric" id="124842_8" ></RELATION>
+
+<RELATION party2="124842_5" theme="124842_3" theme_string="BOONE v. TEXAS" party2_string="TEXAS" gram_type="infix" relation_type="asymmetric" id="124842_9" ></RELATION>
+

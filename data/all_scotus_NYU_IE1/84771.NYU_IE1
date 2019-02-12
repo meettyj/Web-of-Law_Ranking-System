@@ -1,0 +1,46 @@
+<CITATION alternative_keys="['stateshooe#2', 'cranch_1_318', 'l.ed._2_121']" end="10" reporter="U.S." entry_type="standard_key" lookup_key="u.s._5_318" id1="84771" volume="5" start="0" page_number="318" standard_reporter="U.S." citation_global_level_id="23590.002" line="1" id="84771_1" citation_local_level_id="0" >5 U.S. 318</CITATION>
+
+<CITATION alternative_keys="['u.s._5_318', 'stateshooe#2', 'l.ed._2_121']" end="27" reporter="Cranch" entry_type="standard_key" lookup_key="cranch_1_318" id1="84771" volume="1" start="15" page_number="318" standard_reporter="CRANCH" citation_global_level_id="23590.003" line="1" id="84771_2" citation_local_level_id="1" >1 Cranch 318</CITATION>
+
+<NAME start="17" local_name_id="1" end="39" id="84771_8" all_names="CRANCH 318 2 L ED" >Cranch 318 2 L. Ed</NAME>
+
+<CITATION alternative_keys="['u.s._5_318', 'cranch_1_318', 'stateshooe#2']" end="44" reporter="L. Ed." entry_type="standard_key" lookup_key="l.ed._2_121" id1="84771" volume="2" start="32" page_number="121" standard_reporter="L.ED." citation_global_level_id="23590.004" line="1" id="84771_3" citation_local_level_id="2" >2 L. Ed. 121</CITATION>
+
+<CITATION party2="R. T. HOOE and others" party1="The UNITED STATES" citation_global_level_id="47816.001" party2_short="HOOE" line="1" id="84771_4" alternative_keys="['u.s._5_318', 'cranch_1_318', 'l.ed._2_121']" end="91" entry_type="party_key" lookup_key="stateshooe#2" id1="84796" start="49" party1_short="STATES" citation_local_level_id="3" >The UNITED STATES v. R. T. HOOE and others</CITATION>
+
+<NAME end="66" start="49" party1_of="84771_4" all_names="THE UNITED STATES" local_name_id="2" id="84771_5" >The UNITED STATES</NAME>
+
+<NAME end="91" start="70" all_names="R T HOOE AND OTHERS" party2_of="84771_4" local_name_id="3" id="84771_6" >R. T. HOOE and others</NAME>
+
+<DATE start="112" end="116" id="84771_7" >1803</DATE>
+
+<DATE start="373" end="386" id="84771_14" >February 1801</DATE>
+
+<NAME start="415" local_name_id="4" end="423" id="84771_15" all_names="COLUMBIA" >Columbia</NAME>
+
+<ORGANIZATION start="699" end="725" id="84771_16" >court of the United States</ORGANIZATION>
+
+<CITATION party2="The Brig Perseverance" party1="Jennings" citation_global_level_id="22101.001" party2_short="Perseverance" line="6" id="84771_18" alternative_keys="['dallas_3_337']" end="800" entry_type="party_key" lookup_key="jenningsperseverance#1" id1="84690" start="767" party1_short="Jennings" citation_local_level_id="4" >Jennings v. The Brig Perseverance</CITATION>
+
+<NAME end="775" start="767" party1_of="84771_18" all_names="JENNINGS" local_name_id="5" id="84771_19" >Jennings</NAME>
+
+<NAME end="800" start="779" all_names="THE BRIG PERSEVERANCE" party2_of="84771_18" local_name_id="6" id="84771_20" >The Brig Perseverance</NAME>
+
+<CITATION alternative_keys="['jenningsperseverance#1']" end="815" reporter="Dallas" entry_type="standard_key" lookup_key="dallas_3_337" id1="84690" volume="3" start="802" page_number="337" standard_reporter="DALLAS" citation_global_level_id="22101.006" line="6" id="84771_17" citation_local_level_id="5" >3 Dallas, 337</CITATION>
+
+<RELATION standard_case_string="5 U.S. 318" X_vs_Y_string="The UNITED STATES v. R. T. HOOE and others" standard_case="84771_1" X_vs_Y="84771_4" gram_type="pre_nom" relation_type="equivalence" id="84771_10" ></RELATION>
+
+<RELATION standard_case_string="1 Cranch 318" X_vs_Y_string="The UNITED STATES v. R. T. HOOE and others" standard_case="84771_2" X_vs_Y="84771_4" gram_type="pre_nom" relation_type="equivalence" id="84771_11" ></RELATION>
+
+<RELATION standard_case_string="2 L. Ed. 121" X_vs_Y_string="The UNITED STATES v. R. T. HOOE and others" standard_case="84771_3" X_vs_Y="84771_4" gram_type="pre_nom" relation_type="equivalence" id="84771_9" ></RELATION>
+
+<RELATION theme="84771_4" party1="84771_5" party1_string="The UNITED STATES" theme_string="The UNITED STATES v. R. T. HOOE and others" gram_type="infix" relation_type="asymmetric" id="84771_12" ></RELATION>
+
+<RELATION party2="84771_6" theme="84771_4" theme_string="The UNITED STATES v. R. T. HOOE and others" party2_string="R. T. HOOE and others" gram_type="infix" relation_type="asymmetric" id="84771_13" ></RELATION>
+
+<RELATION standard_case_string="3 Dallas, 337" X_vs_Y_string="Jennings v. The Brig Perseverance" standard_case="84771_17" X_vs_Y="84771_18" gram_type="apposition" relation_type="equivalence" id="84771_23" ></RELATION>
+
+<RELATION theme="84771_18" party1="84771_19" party1_string="Jennings" theme_string="Jennings v. The Brig Perseverance" gram_type="infix" relation_type="asymmetric" id="84771_21" ></RELATION>
+
+<RELATION party2="84771_20" theme="84771_18" theme_string="Jennings v. The Brig Perseverance" party2_string="The Brig Perseverance" gram_type="infix" relation_type="asymmetric" id="84771_22" ></RELATION>
+

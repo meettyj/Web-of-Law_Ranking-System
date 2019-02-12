@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['robinsonstates#9']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_975" id1="140006" volume="543" start="0" page_number="975" standard_reporter="U.S." citation_global_level_id="3187.002" line="1" id="140001_1" citation_local_level_id="0" >543 U.S. 975</CITATION>
+
+<CITATION party2="UNITED STATES" party1="ROBINSON" citation_global_level_id="11378.001" party2_short="STATES" line="2" id="140001_2" alternative_keys="['u.s._543_975']" end="42" entry_type="party_key" lookup_key="robinsonstates#9" id1="106557" start="17" party1_short="ROBINSON" citation_local_level_id="1" >ROBINSON v. UNITED STATES</CITATION>
+
+<NAME end="25" start="17" party1_of="140001_2" all_names="ROBINSON" local_name_id="1" id="140001_3" >ROBINSON</NAME>
+
+<NAME end="42" start="29" all_names="UNITED STATES" party2_of="140001_2" local_name_id="2" id="140001_4" >UNITED STATES</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="robinsonstates#9" id1="106557" start="52" citation_global_level_id="11378.001" line="3" id="140001_7" citation_local_level_id="1" >04-6610</DOCKET>
+
+<ORGANIZATION start="65" end="95" id="140001_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="101" citation_global_level_id="11378.001" end="117" id="140001_9" citation_local_level_id="1" >November 1, 2004</DATE>
+
+<NAME start="149" local_name_id="3" end="152" id="140001_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="140001_2" party1="140001_3" party1_string="ROBINSON" theme_string="ROBINSON v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="140001_5" ></RELATION>
+
+<RELATION party2="140001_4" theme="140001_2" theme_string="ROBINSON v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="140001_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 975" X_vs_Y_string="ROBINSON v. UNITED STATES" standard_case="140001_1" X_vs_Y="140001_2" gram_type="multi_line" relation_type="equivalence" id="140001_10" ></RELATION>
+
+<RELATION at_date_string="November 1, 2004" theme="140001_2" at_date="140001_9" theme_string="ROBINSON v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="140001_12" ></RELATION>
+
+<RELATION theme="140001_2" includes_docket_string="04-6610" includes_docket="140001_7" theme_string="ROBINSON v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="140001_11" ></RELATION>
+

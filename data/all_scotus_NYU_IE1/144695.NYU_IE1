@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['jacksonarkansas#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_1039" id1="144707" volume="544" start="0" page_number="1039" standard_reporter="U.S." citation_global_level_id="7029.002" line="1" id="144695_1" citation_local_level_id="0" >544 U.S. 1039</CITATION>
+
+<CITATION party2="ARKANSAS" party1="JACKSON" citation_global_level_id="12062.001" party2_short="ARKANSAS" line="2" id="144695_2" alternative_keys="['u.s._544_1039']" end="37" entry_type="party_key" lookup_key="jacksonarkansas#1" id1="144695" start="18" party1_short="JACKSON" citation_local_level_id="1" >JACKSON v. ARKANSAS</CITATION>
+
+<NAME end="25" start="18" party1_of="144695_2" all_names="JACKSON" local_name_id="1" id="144695_3" >JACKSON</NAME>
+
+<NAME end="37" start="29" all_names="ARKANSAS" party2_of="144695_2" local_name_id="2" id="144695_4" >ARKANSAS</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="jacksonarkansas#1" id1="144695" start="47" citation_global_level_id="12062.001" line="3" id="144695_7" citation_local_level_id="1" >04-9141</DOCKET>
+
+<ORGANIZATION start="60" end="90" id="144695_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="96" citation_global_level_id="12062.001" end="108" id="144695_9" citation_local_level_id="1" >May 16, 2005</DATE>
+
+<NAME start="130" local_name_id="3" end="133" id="144695_13" all_names="SUP" >Sup</NAME>
+
+<RELATION theme="144695_2" party1="144695_3" party1_string="JACKSON" theme_string="JACKSON v. ARKANSAS" gram_type="infix" relation_type="asymmetric" id="144695_5" ></RELATION>
+
+<RELATION party2="144695_4" theme="144695_2" theme_string="JACKSON v. ARKANSAS" party2_string="ARKANSAS" gram_type="infix" relation_type="asymmetric" id="144695_6" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 1039" X_vs_Y_string="JACKSON v. ARKANSAS" standard_case="144695_1" X_vs_Y="144695_2" gram_type="multi_line" relation_type="equivalence" id="144695_10" ></RELATION>
+
+<RELATION at_date_string="May 16, 2005" theme="144695_2" at_date="144695_9" theme_string="JACKSON v. ARKANSAS" gram_type="multi_line" relation_type="asymmetric" id="144695_12" ></RELATION>
+
+<RELATION theme="144695_2" includes_docket_string="04-9141" includes_docket="144695_7" theme_string="JACKSON v. ARKANSAS" gram_type="multi_line" relation_type="asymmetric" id="144695_11" ></RELATION>
+

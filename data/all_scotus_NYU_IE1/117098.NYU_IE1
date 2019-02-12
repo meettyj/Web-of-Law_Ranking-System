@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['murphyjones#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1135" id1="117105" volume="510" start="0" page_number="1135" standard_reporter="U.S." citation_global_level_id="3740.002" line="1" id="117098_1" citation_local_level_id="0" >510 U.S. 1135</CITATION>
+
+<CITATION party2="Jones, Warden" party1="Murphy" citation_global_level_id="3740.005" party2_short="Jones" line="1" id="117098_3" alternative_keys="['u.s._510_1135']" end="41" entry_type="party_key" lookup_key="murphyjones#1" id1="117105" start="18" party1_short="Murphy" citation_local_level_id="1" >Murphy v. Jones, Warden</CITATION>
+
+<NAME end="24" start="18" party1_of="117098_3" all_names="MURPHY" local_name_id="1" id="117098_4" >Murphy</NAME>
+
+<NAME end="41" start="28" all_names="JONES WARDEN" party2_of="117098_3" local_name_id="2" id="117098_5" >Jones, Warden</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._510_1135" id1="117105" start="51" citation_global_level_id="3740.002" line="1" id="117098_2" citation_local_level_id="0" >93-7390</DOCKET>
+
+<DATE start="100" end="117" id="117098_6" >February 22, 1994</DATE>
+
+<NAME start="196" local_name_id="3" end="206" id="117098_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="245" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_998_1020" id1="Dummy_File_23238" volume="998" start="231" page_number="1020" standard_reporter="F.2D" citation_global_level_id="87088.001" line="3" id="117098_12" citation_local_level_id="2" >998 F. 2d 1020</CITATION>
+
+<RELATION theme="117098_1" includes_docket_string="93-7390" includes_docket="117098_2" theme_string="510 U.S. 1135" gram_type="apposition" relation_type="asymmetric" id="117098_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1135" X_vs_Y_string="Murphy v. Jones, Warden" standard_case="117098_1" X_vs_Y="117098_3" gram_type="pre_nom" relation_type="equivalence" id="117098_7" ></RELATION>
+
+<RELATION theme="117098_3" includes_docket_string="93-7390" includes_docket="117098_2" theme_string="Murphy v. Jones, Warden" gram_type="apposition" relation_type="asymmetric" id="117098_10" ></RELATION>
+
+<RELATION theme="117098_3" party1="117098_4" party1_string="Murphy" theme_string="Murphy v. Jones, Warden" gram_type="infix" relation_type="asymmetric" id="117098_8" ></RELATION>
+
+<RELATION party2="117098_5" theme="117098_3" theme_string="Murphy v. Jones, Warden" party2_string="Jones, Warden" gram_type="infix" relation_type="asymmetric" id="117098_9" ></RELATION>
+

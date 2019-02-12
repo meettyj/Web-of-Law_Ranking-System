@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['taxservice#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1053" id1="120257" volume="535" start="0" page_number="1053" standard_reporter="U.S." citation_global_level_id="465.002" line="1" id="120258_1" citation_local_level_id="0" >535 U.S. 1053</CITATION>
+
+<CITATION party2="INTERNAL REVENUE SERVICE ET AL" party1="COMPRO-TAX, INC., ET AL." citation_global_level_id="465.004" party2_short="SERVICE" line="2" id="120258_2" alternative_keys="['u.s._535_1053']" end="76" entry_type="party_key" lookup_key="taxservice#2" id1="120257" start="18" party1_short="TAX" citation_local_level_id="1" >COMPRO-TAX, INC., ET AL. v. INTERNAL REVENUE SERVICE ET AL</CITATION>
+
+<NAME end="42" start="18" party1_of="120258_2" all_names="COMPRO-TAX INC" local_name_id="1" id="120258_3" >COMPRO-TAX, INC., ET AL.</NAME>
+
+<ORGANIZATION start="18" end="33" id="120258_5" >COMPRO-TAX, INC</ORGANIZATION>
+
+<NAME end="76" start="46" all_names="INTERNAL REVENUE SERVICE" party2_of="120258_2" local_name_id="2" id="120258_4" >INTERNAL REVENUE SERVICE ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._535_1053']" end="93" entry_type="docket" lookup_key="taxservice#2" id1="120257" start="86" citation_global_level_id="465.004" line="3" id="120258_8" citation_local_level_id="1" >01-1160</DOCKET>
+
+<DATE start="139" citation_global_level_id="465.004" end="151" id="120258_9" citation_local_level_id="1" >May 13, 2002</DATE>
+
+<NAME start="183" local_name_id="3" end="186" id="120258_14" all_names="CIR" >Cir</NAME>
+
+<CITATION end="237" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_273_1095" id1="Dummy_File_163404" volume="273" start="223" page_number="1095" standard_reporter="F.3D" citation_global_level_id="227254.001" line="8" id="120258_13" citation_local_level_id="2" >273 F. 3d 1095</CITATION>
+
+<RELATION theme="120258_2" party1="120258_3" party1_string="COMPRO-TAX, INC., ET AL." theme_string="COMPRO-TAX, INC., ET AL. v. INTERNAL REVENUE SERVICE ET AL" gram_type="infix" relation_type="asymmetric" id="120258_6" ></RELATION>
+
+<RELATION party2="120258_4" theme="120258_2" theme_string="COMPRO-TAX, INC., ET AL. v. INTERNAL REVENUE SERVICE ET AL" party2_string="INTERNAL REVENUE SERVICE ET AL" gram_type="infix" relation_type="asymmetric" id="120258_7" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1053" X_vs_Y_string="COMPRO-TAX, INC., ET AL. v. INTERNAL REVENUE SERVICE ET AL" standard_case="120258_1" X_vs_Y="120258_2" gram_type="multi_line" relation_type="equivalence" id="120258_10" ></RELATION>
+
+<RELATION at_date_string="May 13, 2002" theme="120258_2" at_date="120258_9" theme_string="COMPRO-TAX, INC., ET AL. v. INTERNAL REVENUE SERVICE ET AL" gram_type="multi_line" relation_type="asymmetric" id="120258_12" ></RELATION>
+
+<RELATION theme="120258_2" includes_docket_string="01-1160" includes_docket="120258_8" theme_string="COMPRO-TAX, INC., ET AL. v. INTERNAL REVENUE SERVICE ET AL" gram_type="multi_line" relation_type="asymmetric" id="120258_11" ></RELATION>
+

@@ -1,0 +1,48 @@
+<CITATION alternative_keys="['eganvermont#1', 'egangorczyk#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_960" id1="119141" volume="535" start="0" page_number="960" standard_reporter="U.S." citation_global_level_id="2100.002" line="1" id="119138_1" citation_local_level_id="0" >535 U.S. 960</CITATION>
+
+<CITATION party2="GORCZYK" party1="EGAN" citation_global_level_id="35057.001" party2_short="GORCZYK" line="2" id="119138_3" alternative_keys="['u.s._535_960', 'eganvermont#1']" end="32" entry_type="party_key" lookup_key="egangorczyk#1" id1="119138" start="17" party1_short="EGAN" citation_local_level_id="1" >EGAN v. GORCZYK</CITATION>
+
+<NAME end="21" start="17" party1_of="119138_3" all_names="EGAN" local_name_id="1" id="119138_5" >EGAN</NAME>
+
+<NAME end="32" start="25" all_names="GORCZYK" party2_of="119138_3" local_name_id="2" id="119138_6" >GORCZYK</NAME>
+
+<CITATION party2="VERMONT" party1="EGAN" citation_global_level_id="2100.013" party2_short="VERMONT" line="2" id="119138_4" alternative_keys="['egangorczyk#1', 'u.s._535_960']" end="53" entry_type="party_key" lookup_key="eganvermont#1" id1="119141" start="38" party1_short="EGAN" citation_local_level_id="2" >EGAN v. VERMONT</CITATION>
+
+<NAME end="42" start="38" party1_of="119138_4" all_names="EGAN" local_name_id="1" id="119138_7" >EGAN</NAME>
+
+<NAME end="53" start="46" all_names="VERMONT" party2_of="119138_4" local_name_id="3" id="119138_8" >VERMONT</NAME>
+
+<DOCKET alternative_keys="['egangorczyk#1', 'u.s._535_960']" end="70" entry_type="docket" lookup_key="eganvermont#1" id1="119141" start="63" citation_global_level_id="2100.013" line="2" id="119138_2" citation_local_level_id="2" >01-7946</DOCKET>
+
+<DATE start="116" citation_global_level_id="35057.001" end="130" id="119138_14" citation_local_level_id="1" >March 25, 2002</DATE>
+
+<NAME start="152" local_name_id="4" end="155" id="119138_24" all_names="SUP" >Sup</NAME>
+
+<CITATION end="211" reporter="Vt." entry_type="standard_key" no_current_file="True" lookup_key="vt._172_641" id1="Dummy_File_152500" volume="172" start="200" page_number="641" standard_reporter="VT." citation_global_level_id="216350.001" line="7" id="119138_20" citation_local_level_id="3" >172 Vt. 641</CITATION>
+
+<CITATION end="243" reporter="A.2d" entry_type="standard_key" no_current_file="True" lookup_key="a.2d_777_1284" id1="Dummy_File_152501" volume="777" start="213" page_number="1284" standard_reporter="A.2D" citation_global_level_id="216351.001" line="7" id="119138_21" citation_local_level_id="4" >777 A.2d 1284 (first judgment)</CITATION>
+
+<CITATION end="256" reporter="Vt." entry_type="standard_key" no_current_file="True" lookup_key="vt._172_642" id1="Dummy_File_152502" volume="172" start="245" page_number="642" standard_reporter="VT." citation_global_level_id="216352.001" line="7" id="119138_22" citation_local_level_id="5" >172 Vt. 642</CITATION>
+
+<CITATION end="288" reporter="A.2d" entry_type="standard_key" no_current_file="True" lookup_key="a.2d_785_190" id1="Dummy_File_152503" volume="785" start="258" page_number="190" standard_reporter="A.2D" citation_global_level_id="216353.001" line="7" id="119138_23" citation_local_level_id="6" >785 A.2d 190 (second judgment)</CITATION>
+
+<RELATION party2="119138_6" theme="119138_3" theme_string="EGAN v. GORCZYK" party2_string="GORCZYK" gram_type="infix" relation_type="asymmetric" id="119138_10" ></RELATION>
+
+<RELATION theme="119138_3" party1="119138_5" party1_string="EGAN" theme_string="EGAN v. GORCZYK" gram_type="infix" relation_type="asymmetric" id="119138_9" ></RELATION>
+
+<RELATION theme="119138_4" includes_docket_string="01-7946" includes_docket="119138_2" theme_string="EGAN v. VERMONT" gram_type="apposition" relation_type="asymmetric" id="119138_13" ></RELATION>
+
+<RELATION theme="119138_4" party1="119138_7" party1_string="EGAN" theme_string="EGAN v. VERMONT" gram_type="infix" relation_type="asymmetric" id="119138_11" ></RELATION>
+
+<RELATION party2="119138_8" theme="119138_4" theme_string="EGAN v. VERMONT" party2_string="VERMONT" gram_type="infix" relation_type="asymmetric" id="119138_12" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 960" X_vs_Y_string="EGAN v. VERMONT" standard_case="119138_1" X_vs_Y="119138_4" gram_type="multi_line" relation_type="equivalence" id="119138_18" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 960" X_vs_Y_string="EGAN v. GORCZYK" standard_case="119138_1" X_vs_Y="119138_3" gram_type="multi_line" relation_type="equivalence" id="119138_15" ></RELATION>
+
+<RELATION at_date_string="March 25, 2002" theme="119138_3" at_date="119138_14" theme_string="EGAN v. GORCZYK" gram_type="multi_line" relation_type="asymmetric" id="119138_17" ></RELATION>
+
+<RELATION theme="119138_3" includes_docket_string="01-7946" includes_docket="119138_2" theme_string="EGAN v. GORCZYK" gram_type="multi_line" relation_type="asymmetric" id="119138_16" ></RELATION>
+
+<RELATION at_date_string="March 25, 2002" theme="119138_4" at_date="119138_14" theme_string="EGAN v. VERMONT" gram_type="multi_line" relation_type="asymmetric" id="119138_19" ></RELATION>
+

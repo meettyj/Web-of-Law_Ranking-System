@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['kamaehawaii#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_905" id1="134809" volume="541" start="0" page_number="905" standard_reporter="U.S." citation_global_level_id="5778.002" line="1" id="134817_1" citation_local_level_id="0" >541 U.S. 905</CITATION>
+
+<CITATION party2="HAWAII" party1="KAMAE" citation_global_level_id="50986.001" party2_short="HAWAII" line="2" id="134817_2" alternative_keys="['u.s._541_905']" end="32" entry_type="party_key" lookup_key="kamaehawaii#1" id1="134817" start="17" party1_short="KAMAE" citation_local_level_id="1" >KAMAE v. HAWAII</CITATION>
+
+<NAME end="22" start="17" party1_of="134817_2" all_names="KAMAE" local_name_id="1" id="134817_3" >KAMAE</NAME>
+
+<NAME end="32" start="26" all_names="HAWAII" party2_of="134817_2" local_name_id="2" id="134817_4" >HAWAII</NAME>
+
+<DOCKET end="49" entry_type="docket" lookup_key="kamaehawaii#1" id1="134817" start="42" citation_global_level_id="50986.001" line="3" id="134817_7" citation_local_level_id="1" >03-7399</DOCKET>
+
+<ORGANIZATION start="55" end="85" id="134817_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="91" citation_global_level_id="50986.001" end="104" id="134817_9" citation_local_level_id="1" >March 8, 2004</DATE>
+
+<NAME start="126" local_name_id="3" end="129" id="134817_13" all_names="SUP" >Sup</NAME>
+
+<RELATION theme="134817_2" party1="134817_3" party1_string="KAMAE" theme_string="KAMAE v. HAWAII" gram_type="infix" relation_type="asymmetric" id="134817_5" ></RELATION>
+
+<RELATION party2="134817_4" theme="134817_2" theme_string="KAMAE v. HAWAII" party2_string="HAWAII" gram_type="infix" relation_type="asymmetric" id="134817_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 905" X_vs_Y_string="KAMAE v. HAWAII" standard_case="134817_1" X_vs_Y="134817_2" gram_type="multi_line" relation_type="equivalence" id="134817_10" ></RELATION>
+
+<RELATION at_date_string="March 8, 2004" theme="134817_2" at_date="134817_9" theme_string="KAMAE v. HAWAII" gram_type="multi_line" relation_type="asymmetric" id="134817_12" ></RELATION>
+
+<RELATION theme="134817_2" includes_docket_string="03-7399" includes_docket="134817_7" theme_string="KAMAE v. HAWAII" gram_type="multi_line" relation_type="asymmetric" id="134817_11" ></RELATION>
+

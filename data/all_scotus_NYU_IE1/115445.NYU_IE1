@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['parkernevada#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1000" id1="115449" volume="510" start="0" page_number="1000" standard_reporter="U.S." citation_global_level_id="4379.002" line="2" id="115445_1" citation_local_level_id="0" >510 U.S. 1000</CITATION>
+
+<CITATION party2="Nevada" party1="Parker" citation_global_level_id="10847.001" party2_short="Nevada" line="2" id="115445_3" alternative_keys="['u.s._510_1000']" end="34" entry_type="party_key" lookup_key="parkernevada#1" id1="115445" start="18" party1_short="Parker" citation_local_level_id="1" >Parker v. Nevada</CITATION>
+
+<NAME end="24" start="18" party1_of="115445_3" all_names="PARKER" local_name_id="1" id="115445_4" >Parker</NAME>
+
+<NAME end="34" start="28" all_names="NEVADA" party2_of="115445_3" local_name_id="2" id="115445_5" >Nevada</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="u.s._510_1000" id1="115449" start="44" citation_global_level_id="4379.002" line="2" id="115445_2" citation_local_level_id="0" >93-6399</DOCKET>
+
+<DATE start="93" end="110" id="115445_6" >November 29, 1993</DATE>
+
+<NAME start="187" local_name_id="3" end="197" id="115445_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="250" reporter="P. 2d" entry_type="standard_key" no_current_file="True" lookup_key="p.2d_849_1062" id1="Dummy_File_5214" volume="849" start="236" page_number="1062" standard_reporter="P.2D" citation_global_level_id="69064.001" line="3" id="115445_12" citation_local_level_id="2" >849 P. 2d 1062</CITATION>
+
+<RELATION theme="115445_1" includes_docket_string="93-6399" includes_docket="115445_2" theme_string="510 U.S. 1000" gram_type="apposition" relation_type="asymmetric" id="115445_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1000" X_vs_Y_string="Parker v. Nevada" standard_case="115445_1" X_vs_Y="115445_3" gram_type="pre_nom" relation_type="equivalence" id="115445_7" ></RELATION>
+
+<RELATION theme="115445_3" includes_docket_string="93-6399" includes_docket="115445_2" theme_string="Parker v. Nevada" gram_type="apposition" relation_type="asymmetric" id="115445_10" ></RELATION>
+
+<RELATION theme="115445_3" party1="115445_4" party1_string="Parker" theme_string="Parker v. Nevada" gram_type="infix" relation_type="asymmetric" id="115445_8" ></RELATION>
+
+<RELATION party2="115445_5" theme="115445_3" theme_string="Parker v. Nevada" party2_string="Nevada" gram_type="infix" relation_type="asymmetric" id="115445_9" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['masonerthurman#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1028" id1="115832" volume="510" start="0" page_number="1028" standard_reporter="U.S." citation_global_level_id="3606.002" line="1" id="115825_1" citation_local_level_id="0" >510 U.S. 1028</CITATION>
+
+<CITATION party2="Thurman, Warden" party1="Masoner" citation_global_level_id="3606.006" party2_short="Thurman" line="1" id="115825_3" alternative_keys="['u.s._510_1028']" end="44" entry_type="party_key" lookup_key="masonerthurman#1" id1="115832" start="18" party1_short="Masoner" citation_local_level_id="1" >Masoner v. Thurman, Warden</CITATION>
+
+<NAME end="25" start="18" party1_of="115825_3" all_names="MASONER" local_name_id="1" id="115825_4" >Masoner</NAME>
+
+<NAME end="44" start="29" all_names="THURMAN WARDEN" party2_of="115825_3" local_name_id="2" id="115825_5" >Thurman, Warden</NAME>
+
+<DOCKET end="61" entry_type="docket" lookup_key="u.s._510_1028" id1="115832" start="54" citation_global_level_id="3606.002" line="1" id="115825_2" citation_local_level_id="0" >93-6491</DOCKET>
+
+<DATE start="103" end="120" id="115825_6" >December 13, 1993</DATE>
+
+<NAME start="198" local_name_id="3" end="208" id="115825_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="247" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_996_1003" id1="Dummy_File_108259" volume="996" start="233" page_number="1003" standard_reporter="F.2D" citation_global_level_id="172109.001" line="3" id="115825_12" citation_local_level_id="2" >996 F. 2d 1003</CITATION>
+
+<RELATION theme="115825_1" includes_docket_string="93-6491" includes_docket="115825_2" theme_string="510 U.S. 1028" gram_type="apposition" relation_type="asymmetric" id="115825_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1028" X_vs_Y_string="Masoner v. Thurman, Warden" standard_case="115825_1" X_vs_Y="115825_3" gram_type="pre_nom" relation_type="equivalence" id="115825_7" ></RELATION>
+
+<RELATION theme="115825_3" includes_docket_string="93-6491" includes_docket="115825_2" theme_string="Masoner v. Thurman, Warden" gram_type="apposition" relation_type="asymmetric" id="115825_10" ></RELATION>
+
+<RELATION theme="115825_3" party1="115825_4" party1_string="Masoner" theme_string="Masoner v. Thurman, Warden" gram_type="infix" relation_type="asymmetric" id="115825_8" ></RELATION>
+
+<RELATION party2="115825_5" theme="115825_3" theme_string="Masoner v. Thurman, Warden" party2_string="Thurman, Warden" gram_type="infix" relation_type="asymmetric" id="115825_9" ></RELATION>
+

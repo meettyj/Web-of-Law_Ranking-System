@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['phippswilson#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1072" id1="116356" volume="510" start="0" page_number="1072" standard_reporter="U.S." citation_global_level_id="5548.002" line="1" id="116355_1" citation_local_level_id="0" >510 U.S. 1072</CITATION>
+
+<CITATION party2="Wilson" party1="Phipps" citation_global_level_id="44068.001" party2_short="Wilson" line="1" id="116355_3" alternative_keys="['u.s._510_1072']" end="34" entry_type="party_key" lookup_key="phippswilson#1" id1="116355" start="18" party1_short="Phipps" citation_local_level_id="1" >Phipps v. Wilson</CITATION>
+
+<NAME end="24" start="18" party1_of="116355_3" all_names="PHIPPS" local_name_id="1" id="116355_4" >Phipps</NAME>
+
+<NAME end="34" start="28" all_names="WILSON" party2_of="116355_3" local_name_id="2" id="116355_5" >Wilson</NAME>
+
+<DOCKET end="50" entry_type="docket" lookup_key="u.s._510_1072" id1="116356" start="44" citation_global_level_id="5548.002" line="1" id="116355_2" citation_local_level_id="0" >93-691</DOCKET>
+
+<DATE start="92" end="108" id="116355_6" >January 18, 1994</DATE>
+
+<NAME start="185" local_name_id="3" end="195" id="116355_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="236" reporter="N. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.e.2d_610_851" id1="Dummy_File_205101" volume="610" start="220" page_number="851" standard_reporter="N.E.2D" citation_global_level_id="268951.001" line="3" id="116355_12" citation_local_level_id="2" >610 N. E. 2d 851</CITATION>
+
+<RELATION theme="116355_1" includes_docket_string="93-691" includes_docket="116355_2" theme_string="510 U.S. 1072" gram_type="apposition" relation_type="asymmetric" id="116355_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1072" X_vs_Y_string="Phipps v. Wilson" standard_case="116355_1" X_vs_Y="116355_3" gram_type="pre_nom" relation_type="equivalence" id="116355_7" ></RELATION>
+
+<RELATION theme="116355_3" includes_docket_string="93-691" includes_docket="116355_2" theme_string="Phipps v. Wilson" gram_type="apposition" relation_type="asymmetric" id="116355_10" ></RELATION>
+
+<RELATION theme="116355_3" party1="116355_4" party1_string="Phipps" theme_string="Phipps v. Wilson" gram_type="infix" relation_type="asymmetric" id="116355_8" ></RELATION>
+
+<RELATION party2="116355_5" theme="116355_3" theme_string="Phipps v. Wilson" party2_string="Wilson" gram_type="infix" relation_type="asymmetric" id="116355_9" ></RELATION>
+

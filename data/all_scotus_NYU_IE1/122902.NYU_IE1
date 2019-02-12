@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['crawfordharrison#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_852" id1="122902" volume="537" start="0" page_number="852" standard_reporter="U.S." citation_global_level_id="1803.002" line="1" id="122902_1" citation_local_level_id="0" >537 U.S. 852</CITATION>
+
+<CITATION party2="HARRISON ET AL" party1="CRAWFORD" citation_global_level_id="8646.001" party2_short="HARRISON" line="1" id="122902_3" alternative_keys="['u.s._537_852']" end="43" entry_type="party_key" lookup_key="crawfordharrison#2" id1="125295" start="17" party1_short="CRAWFORD" citation_local_level_id="1" >CRAWFORD v. HARRISON ET AL</CITATION>
+
+<NAME end="25" start="17" party1_of="122902_3" all_names="CRAWFORD" local_name_id="1" id="122902_4" >CRAWFORD</NAME>
+
+<NAME end="43" start="29" all_names="HARRISON" party2_of="122902_3" local_name_id="2" id="122902_5" >HARRISON ET AL</NAME>
+
+<DOCKET end="61" entry_type="docket" lookup_key="u.s._537_852" id1="122902" start="53" citation_global_level_id="1803.002" line="1" id="122902_2" citation_local_level_id="0" >01-10609</DOCKET>
+
+<DATE start="103" end="118" id="122902_6" >October 7, 2002</DATE>
+
+<NAME start="238" local_name_id="3" end="253" id="122902_12" all_names="C A D C CIR" >C. A. D. C. Cir</NAME>
+
+<NAME start="255" local_name_id="4" end="265" id="122902_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="122902_1" includes_docket_string="01-10609" includes_docket="122902_2" theme_string="537 U.S. 852" gram_type="apposition" relation_type="asymmetric" id="122902_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 852" X_vs_Y_string="CRAWFORD v. HARRISON ET AL" standard_case="122902_1" X_vs_Y="122902_3" gram_type="pre_nom" relation_type="equivalence" id="122902_7" ></RELATION>
+
+<RELATION theme="122902_3" includes_docket_string="01-10609" includes_docket="122902_2" theme_string="CRAWFORD v. HARRISON ET AL" gram_type="apposition" relation_type="asymmetric" id="122902_10" ></RELATION>
+
+<RELATION theme="122902_3" party1="122902_4" party1_string="CRAWFORD" theme_string="CRAWFORD v. HARRISON ET AL" gram_type="infix" relation_type="asymmetric" id="122902_8" ></RELATION>
+
+<RELATION party2="122902_5" theme="122902_3" theme_string="CRAWFORD v. HARRISON ET AL" party2_string="HARRISON ET AL" gram_type="infix" relation_type="asymmetric" id="122902_9" ></RELATION>
+

@@ -1,0 +1,44 @@
+<CITATION alternative_keys="['coheacalifornia#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_970" id1="135433" volume="541" start="0" page_number="970" standard_reporter="U.S." citation_global_level_id="4398.002" line="1" id="135428_1" citation_local_level_id="0" >541 U.S. 970</CITATION>
+
+<CITATION party2="CALIFORNIA" party1="COHEA" citation_global_level_id="21113.001" party2_short="CALIFORNIA" line="2" id="135428_2" alternative_keys="['u.s._541_970']" end="36" entry_type="party_key" lookup_key="coheacalifornia#1" id1="135428" start="17" party1_short="COHEA" citation_local_level_id="1" >COHEA v. CALIFORNIA</CITATION>
+
+<NAME end="22" start="17" party1_of="135428_2" all_names="COHEA" local_name_id="1" id="135428_3" >COHEA</NAME>
+
+<NAME end="36" start="26" all_names="CALIFORNIA" party2_of="135428_2" local_name_id="2" id="135428_4" >CALIFORNIA</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="coheacalifornia#1" id1="135428" start="46" citation_global_level_id="21113.001" line="3" id="135428_7" citation_local_level_id="1" >03-8771</DOCKET>
+
+<ORGANIZATION start="59" end="89" id="135428_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="95" citation_global_level_id="21113.001" end="108" id="135428_9" citation_local_level_id="1" >April 5, 2004</DATE>
+
+<NAME start="130" local_name_id="3" end="133" id="135428_18" all_names="SUP" >Sup</NAME>
+
+<CITATION party2="District of Columbia Court of Appeals" party1="Martin" citation_global_level_id="51848.001" party2_short="District" line="8" id="135428_14" alternative_keys="['u.s._506_1']" end="588" entry_type="party_key" lookup_key="martindistrict#2" id1="112790" start="541" party1_short="Martin" citation_local_level_id="2" >Martin v. District of Columbia Court of Appeals</CITATION>
+
+<NAME end="547" start="541" party1_of="135428_14" all_names="MARTIN" local_name_id="4" id="135428_15" >Martin</NAME>
+
+<NAME end="588" start="551" all_names="DISTRICT OF COLUMBIA COURT OF APPEALS" party2_of="135428_14" local_name_id="5" id="135428_16" >District of Columbia Court of Appeals</NAME>
+
+<CITATION alternative_keys="['martindistrict#2']" end="607" reporter="U.S." entry_type="standard_key" lookup_key="u.s._506_1" id1="112790" volume="506" start="590" page_number="1" year="1992" standard_reporter="U.S." citation_global_level_id="51848.002" line="8" id="135428_13" citation_local_level_id="3" >506 U.S. 1 (1992)</CITATION>
+
+<DATE start="602" citation_global_level_id="51848.002" end="606" id="135428_17" citation_local_level_id="3" >1992</DATE>
+
+<RELATION theme="135428_2" party1="135428_3" party1_string="COHEA" theme_string="COHEA v. CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="135428_5" ></RELATION>
+
+<RELATION party2="135428_4" theme="135428_2" theme_string="COHEA v. CALIFORNIA" party2_string="CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="135428_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 970" X_vs_Y_string="COHEA v. CALIFORNIA" standard_case="135428_1" X_vs_Y="135428_2" gram_type="multi_line" relation_type="equivalence" id="135428_10" ></RELATION>
+
+<RELATION at_date_string="April 5, 2004" theme="135428_2" at_date="135428_9" theme_string="COHEA v. CALIFORNIA" gram_type="multi_line" relation_type="asymmetric" id="135428_12" ></RELATION>
+
+<RELATION theme="135428_2" includes_docket_string="03-8771" includes_docket="135428_7" theme_string="COHEA v. CALIFORNIA" gram_type="multi_line" relation_type="asymmetric" id="135428_11" ></RELATION>
+
+<RELATION standard_case_string="506 U.S. 1 (1992)" X_vs_Y_string="Martin v. District of Columbia Court of Appeals" standard_case="135428_13" X_vs_Y="135428_14" gram_type="apposition" relation_type="equivalence" id="135428_21" ></RELATION>
+
+<RELATION theme="135428_14" party1="135428_15" party1_string="Martin" theme_string="Martin v. District of Columbia Court of Appeals" gram_type="infix" relation_type="asymmetric" id="135428_19" ></RELATION>
+
+<RELATION party2="135428_16" theme="135428_14" theme_string="Martin v. District of Columbia Court of Appeals" party2_string="District of Columbia Court of Appeals" gram_type="infix" relation_type="asymmetric" id="135428_20" ></RELATION>
+
+<RELATION at_date_string="1992" theme="135428_13" at_date="135428_17" theme_string="506 U.S. 1 (1992)" gram_type="infix" relation_type="asymmetric" id="135428_22" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['headstates#3']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_957" id1="114896" volume="510" start="0" page_number="957" standard_reporter="U.S." citation_global_level_id="4111.002" line="1" id="114894_1" citation_local_level_id="0" >510 U.S. 957</CITATION>
+
+<CITATION party2="United States" party1="Head" citation_global_level_id="41877.001" party2_short="States" line="1" id="114894_3" alternative_keys="['u.s._510_957']" end="38" entry_type="party_key" lookup_key="headstates#3" id1="138530" start="17" party1_short="Head" citation_local_level_id="1" >Head v. United States</CITATION>
+
+<NAME end="21" start="17" party1_of="114894_3" all_names="HEAD" local_name_id="1" id="114894_4" >Head</NAME>
+
+<NAME end="38" start="25" all_names="UNITED STATES" party2_of="114894_3" local_name_id="2" id="114894_5" >United States</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._510_957" id1="114896" start="48" citation_global_level_id="4111.002" line="1" id="114894_2" citation_local_level_id="0" >93-6150</DOCKET>
+
+<DATE start="97" end="113" id="114894_6" >November 1, 1993</DATE>
+
+<NAME start="191" local_name_id="3" end="201" id="114894_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="240" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_996_1228" id1="Dummy_File_27863" volume="996" start="226" page_number="1228" standard_reporter="F.2D" citation_global_level_id="91713.001" line="3" id="114894_12" citation_local_level_id="2" >996 F. 2d 1228</CITATION>
+
+<RELATION theme="114894_1" includes_docket_string="93-6150" includes_docket="114894_2" theme_string="510 U.S. 957" gram_type="apposition" relation_type="asymmetric" id="114894_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 957" X_vs_Y_string="Head v. United States" standard_case="114894_1" X_vs_Y="114894_3" gram_type="pre_nom" relation_type="equivalence" id="114894_7" ></RELATION>
+
+<RELATION theme="114894_3" includes_docket_string="93-6150" includes_docket="114894_2" theme_string="Head v. United States" gram_type="apposition" relation_type="asymmetric" id="114894_10" ></RELATION>
+
+<RELATION theme="114894_3" party1="114894_4" party1_string="Head" theme_string="Head v. United States" gram_type="infix" relation_type="asymmetric" id="114894_8" ></RELATION>
+
+<RELATION party2="114894_5" theme="114894_3" theme_string="Head v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="114894_9" ></RELATION>
+

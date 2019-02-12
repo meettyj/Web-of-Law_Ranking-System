@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['griffinstates#9']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_1018" id1="136062" volume="541" start="0" page_number="1018" standard_reporter="U.S." citation_global_level_id="1515.002" line="1" id="136053_1" citation_local_level_id="0" >541 U.S. 1018</CITATION>
+
+<CITATION party2="UNITED STATES" party1="GRIFFIN" citation_global_level_id="56327.001" party2_short="STATES" line="2" id="136053_2" alternative_keys="['u.s._541_1018']" end="42" entry_type="party_key" lookup_key="griffinstates#9" id1="142839" start="18" party1_short="GRIFFIN" citation_local_level_id="1" >GRIFFIN v. UNITED STATES</CITATION>
+
+<NAME end="25" start="18" party1_of="136053_2" all_names="GRIFFIN" local_name_id="1" id="136053_3" >GRIFFIN</NAME>
+
+<NAME end="42" start="29" all_names="UNITED STATES" party2_of="136053_2" local_name_id="2" id="136053_4" >UNITED STATES</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="griffinstates#9" id1="142839" start="52" citation_global_level_id="56327.001" line="3" id="136053_7" citation_local_level_id="1" >03-9550</DOCKET>
+
+<ORGANIZATION start="65" end="95" id="136053_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="101" citation_global_level_id="56327.001" end="115" id="136053_9" citation_local_level_id="1" >April 26, 2004</DATE>
+
+<NAME start="148" local_name_id="3" end="151" id="136053_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="136053_2" party1="136053_3" party1_string="GRIFFIN" theme_string="GRIFFIN v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="136053_5" ></RELATION>
+
+<RELATION party2="136053_4" theme="136053_2" theme_string="GRIFFIN v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="136053_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 1018" X_vs_Y_string="GRIFFIN v. UNITED STATES" standard_case="136053_1" X_vs_Y="136053_2" gram_type="multi_line" relation_type="equivalence" id="136053_10" ></RELATION>
+
+<RELATION at_date_string="April 26, 2004" theme="136053_2" at_date="136053_9" theme_string="GRIFFIN v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="136053_12" ></RELATION>
+
+<RELATION theme="136053_2" includes_docket_string="03-9550" includes_docket="136053_7" theme_string="GRIFFIN v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="136053_11" ></RELATION>
+

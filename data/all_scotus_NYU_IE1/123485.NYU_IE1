@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['holmesbank#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_897" id1="123497" volume="537" start="0" page_number="897" standard_reporter="U.S." citation_global_level_id="2246.002" line="1" id="123485_1" citation_local_level_id="0" >537 U.S. 897</CITATION>
+
+<CITATION party2="PEOPLES STATE BANK" party1="LATTIER-HOLMES" citation_global_level_id="34599.001" party2_short="BANK" line="1" id="123485_3" alternative_keys="['u.s._537_897']" end="53" entry_type="party_key" lookup_key="holmesbank#1" id1="123485" start="17" party1_short="HOLMES" citation_local_level_id="1" >LATTIER-HOLMES v. PEOPLES STATE BANK</CITATION>
+
+<NAME end="31" start="17" party1_of="123485_3" all_names="LATTIER-HOLMES" local_name_id="1" id="123485_4" >LATTIER-HOLMES</NAME>
+
+<NAME end="53" start="35" all_names="PEOPLES STATE BANK" party2_of="123485_3" local_name_id="2" id="123485_5" >PEOPLES STATE BANK</NAME>
+
+<DOCKET end="70" entry_type="docket" lookup_key="u.s._537_897" id1="123497" start="63" citation_global_level_id="2246.002" line="1" id="123485_2" citation_local_level_id="0" >02-5148</DOCKET>
+
+<DATE start="112" end="127" id="123485_6" >October 7, 2002</DATE>
+
+<NAME start="246" local_name_id="3" end="248" id="123485_13" all_names="CT" >Ct</NAME>
+
+<CITATION end="316" reporter="So.2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_796_176" id1="Dummy_File_151683" volume="796" start="303" page_number="176" standard_reporter="SO.2D" citation_global_level_id="215533.001" line="3" id="123485_12" citation_local_level_id="2" >796 So.2d 176</CITATION>
+
+<RELATION theme="123485_1" includes_docket_string="02-5148" includes_docket="123485_2" theme_string="537 U.S. 897" gram_type="apposition" relation_type="asymmetric" id="123485_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 897" X_vs_Y_string="LATTIER-HOLMES v. PEOPLES STATE BANK" standard_case="123485_1" X_vs_Y="123485_3" gram_type="pre_nom" relation_type="equivalence" id="123485_7" ></RELATION>
+
+<RELATION theme="123485_3" includes_docket_string="02-5148" includes_docket="123485_2" theme_string="LATTIER-HOLMES v. PEOPLES STATE BANK" gram_type="apposition" relation_type="asymmetric" id="123485_10" ></RELATION>
+
+<RELATION theme="123485_3" party1="123485_4" party1_string="LATTIER-HOLMES" theme_string="LATTIER-HOLMES v. PEOPLES STATE BANK" gram_type="infix" relation_type="asymmetric" id="123485_8" ></RELATION>
+
+<RELATION party2="123485_5" theme="123485_3" theme_string="LATTIER-HOLMES v. PEOPLES STATE BANK" party2_string="PEOPLES STATE BANK" gram_type="infix" relation_type="asymmetric" id="123485_9" ></RELATION>
+

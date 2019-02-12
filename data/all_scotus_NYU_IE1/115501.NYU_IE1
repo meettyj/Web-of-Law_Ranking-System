@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['gaffneyarizona#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1004" id1="115503" volume="510" start="0" page_number="1004" standard_reporter="U.S." citation_global_level_id="7385.002" line="1" id="115501_1" citation_local_level_id="0" >510 U.S. 1004</CITATION>
+
+<CITATION party2="Arizona" party1="Gaffney" citation_global_level_id="45300.001" party2_short="Arizona" line="1" id="115501_3" alternative_keys="['u.s._510_1004']" end="36" entry_type="party_key" lookup_key="gaffneyarizona#1" id1="115501" start="18" party1_short="Gaffney" citation_local_level_id="1" >Gaffney v. Arizona</CITATION>
+
+<NAME end="25" start="18" party1_of="115501_3" all_names="GAFFNEY" local_name_id="1" id="115501_4" >Gaffney</NAME>
+
+<NAME end="36" start="29" all_names="ARIZONA" party2_of="115501_3" local_name_id="2" id="115501_5" >Arizona</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="u.s._510_1004" id1="115503" start="46" citation_global_level_id="7385.002" line="1" id="115501_2" citation_local_level_id="0" >93-6407</DOCKET>
+
+<DATE start="95" end="112" id="115501_6" >November 29, 1993</DATE>
+
+<NAME start="190" local_name_id="3" end="200" id="115501_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="115501_1" includes_docket_string="93-6407" includes_docket="115501_2" theme_string="510 U.S. 1004" gram_type="apposition" relation_type="asymmetric" id="115501_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1004" X_vs_Y_string="Gaffney v. Arizona" standard_case="115501_1" X_vs_Y="115501_3" gram_type="pre_nom" relation_type="equivalence" id="115501_7" ></RELATION>
+
+<RELATION theme="115501_3" includes_docket_string="93-6407" includes_docket="115501_2" theme_string="Gaffney v. Arizona" gram_type="apposition" relation_type="asymmetric" id="115501_10" ></RELATION>
+
+<RELATION theme="115501_3" party1="115501_4" party1_string="Gaffney" theme_string="Gaffney v. Arizona" gram_type="infix" relation_type="asymmetric" id="115501_8" ></RELATION>
+
+<RELATION party2="115501_5" theme="115501_3" theme_string="Gaffney v. Arizona" party2_string="Arizona" gram_type="infix" relation_type="asymmetric" id="115501_9" ></RELATION>
+

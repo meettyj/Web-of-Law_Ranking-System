@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['jonesdelgado#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_925" id1="139368" volume="543" start="0" page_number="925" standard_reporter="U.S." citation_global_level_id="7815.002" line="1" id="139365_1" citation_local_level_id="0" >543 U.S. 925</CITATION>
+
+<CITATION party2="DELGADO" party1="JONES" citation_global_level_id="27145.001" party2_short="DELGADO" line="2" id="139365_2" alternative_keys="['u.s._543_925']" end="33" entry_type="party_key" lookup_key="jonesdelgado#1" id1="139365" start="17" party1_short="JONES" citation_local_level_id="1" >JONES v. DELGADO</CITATION>
+
+<NAME end="22" start="17" party1_of="139365_2" all_names="JONES" local_name_id="1" id="139365_3" >JONES</NAME>
+
+<NAME end="33" start="26" all_names="DELGADO" party2_of="139365_2" local_name_id="2" id="139365_4" >DELGADO</NAME>
+
+<DOCKET end="48" entry_type="docket" lookup_key="jonesdelgado#1" id1="139365" start="43" citation_global_level_id="27145.001" line="3" id="139365_7" citation_local_level_id="1" >04-24</DOCKET>
+
+<ORGANIZATION start="54" end="84" id="139365_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="90" citation_global_level_id="27145.001" end="106" id="139365_9" citation_local_level_id="1" >October 12, 2004</DATE>
+
+<NAME start="138" local_name_id="3" end="141" id="139365_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="139365_2" party1="139365_3" party1_string="JONES" theme_string="JONES v. DELGADO" gram_type="infix" relation_type="asymmetric" id="139365_5" ></RELATION>
+
+<RELATION party2="139365_4" theme="139365_2" theme_string="JONES v. DELGADO" party2_string="DELGADO" gram_type="infix" relation_type="asymmetric" id="139365_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 925" X_vs_Y_string="JONES v. DELGADO" standard_case="139365_1" X_vs_Y="139365_2" gram_type="multi_line" relation_type="equivalence" id="139365_10" ></RELATION>
+
+<RELATION at_date_string="October 12, 2004" theme="139365_2" at_date="139365_9" theme_string="JONES v. DELGADO" gram_type="multi_line" relation_type="asymmetric" id="139365_12" ></RELATION>
+
+<RELATION theme="139365_2" includes_docket_string="04-24" includes_docket="139365_7" theme_string="JONES v. DELGADO" gram_type="multi_line" relation_type="asymmetric" id="139365_11" ></RELATION>
+

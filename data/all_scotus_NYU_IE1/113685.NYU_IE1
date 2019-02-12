@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['longalabama#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_862" id1="113679" volume="510" start="0" page_number="862" standard_reporter="U.S." citation_global_level_id="391.002" line="1" id="113685_1" citation_local_level_id="0" >510 U.S. 862</CITATION>
+
+<CITATION party2="Alabama" party1="Long" citation_global_level_id="54940.001" party2_short="Alabama" line="1" id="113685_3" alternative_keys="['u.s._510_862']" end="32" entry_type="party_key" lookup_key="longalabama#2" id1="113685" start="17" party1_short="Long" citation_local_level_id="1" >Long v. Alabama</CITATION>
+
+<NAME end="21" start="17" party1_of="113685_3" all_names="LONG" local_name_id="1" id="113685_4" >Long</NAME>
+
+<NAME end="32" start="25" all_names="ALABAMA" party2_of="113685_3" local_name_id="2" id="113685_5" >Alabama</NAME>
+
+<DOCKET end="47" entry_type="docket" lookup_key="u.s._510_862" id1="113679" start="42" citation_global_level_id="391.002" line="1" id="113685_2" citation_local_level_id="0" >93-65</DOCKET>
+
+<DATE start="89" end="104" id="113685_6" >October 4, 1993</DATE>
+
+<NAME start="187" local_name_id="3" end="197" id="113685_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="236" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_615_114" id1="Dummy_File_200422" volume="615" start="222" page_number="114" standard_reporter="SO.2D" citation_global_level_id="264272.001" line="3" id="113685_12" citation_local_level_id="2" >615 So. 2d 114</CITATION>
+
+<RELATION theme="113685_1" includes_docket_string="93-65" includes_docket="113685_2" theme_string="510 U.S. 862" gram_type="apposition" relation_type="asymmetric" id="113685_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 862" X_vs_Y_string="Long v. Alabama" standard_case="113685_1" X_vs_Y="113685_3" gram_type="pre_nom" relation_type="equivalence" id="113685_7" ></RELATION>
+
+<RELATION theme="113685_3" includes_docket_string="93-65" includes_docket="113685_2" theme_string="Long v. Alabama" gram_type="apposition" relation_type="asymmetric" id="113685_10" ></RELATION>
+
+<RELATION theme="113685_3" party1="113685_4" party1_string="Long" theme_string="Long v. Alabama" gram_type="infix" relation_type="asymmetric" id="113685_8" ></RELATION>
+
+<RELATION party2="113685_5" theme="113685_3" theme_string="Long v. Alabama" party2_string="Alabama" gram_type="infix" relation_type="asymmetric" id="113685_9" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['johnsonhendricks#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1022" id1="129495" volume="538" start="0" page_number="1022" standard_reporter="U.S." citation_global_level_id="5719.002" line="1" id="129499_1" citation_local_level_id="0" >538 U.S. 1022</CITATION>
+
+<CITATION party2="HENDRICKS, ADMINISTRATOR, NEW JERSEY STATE PRISON, ET AL" party1="JOHNSON" citation_global_level_id="5719.003" party2_short="HENDRICKS" line="1" id="129499_3" alternative_keys="['u.s._538_1022']" end="85" entry_type="party_key" lookup_key="johnsonhendricks#1" id1="129495" start="18" party1_short="JOHNSON" citation_local_level_id="1" >JOHNSON v. HENDRICKS, ADMINISTRATOR, NEW JERSEY STATE PRISON, ET AL</CITATION>
+
+<NAME end="25" start="18" party1_of="129499_3" all_names="JOHNSON" local_name_id="1" id="129499_4" >JOHNSON</NAME>
+
+<NAME end="85" start="29" all_names="HENDRICKS ADMINISTRATOR NEW JERSEY STATE PRISON" party2_of="129499_3" local_name_id="2" id="129499_5" >HENDRICKS, ADMINISTRATOR, NEW JERSEY STATE PRISON, ET AL</NAME>
+
+<DOCKET end="102" entry_type="docket" lookup_key="u.s._538_1022" id1="129495" start="95" citation_global_level_id="5719.002" line="1" id="129499_2" citation_local_level_id="0" >02-9777</DOCKET>
+
+<DATE start="144" end="155" id="129499_6" >May 5, 2003</DATE>
+
+<NAME start="283" local_name_id="3" end="286" id="129499_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="336" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_314_159" id1="Dummy_File_18377" volume="314" start="323" page_number="159" standard_reporter="F.3D" citation_global_level_id="82227.001" line="3" id="129499_12" citation_local_level_id="2" >314 F. 3d 159</CITATION>
+
+<RELATION theme="129499_1" includes_docket_string="02-9777" includes_docket="129499_2" theme_string="538 U.S. 1022" gram_type="apposition" relation_type="asymmetric" id="129499_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1022" X_vs_Y_string="JOHNSON v. HENDRICKS, ADMINISTRATOR, NEW JERSEY STATE PRISON, ET AL" standard_case="129499_1" X_vs_Y="129499_3" gram_type="pre_nom" relation_type="equivalence" id="129499_7" ></RELATION>
+
+<RELATION theme="129499_3" includes_docket_string="02-9777" includes_docket="129499_2" theme_string="JOHNSON v. HENDRICKS, ADMINISTRATOR, NEW JERSEY STATE PRISON, ET AL" gram_type="apposition" relation_type="asymmetric" id="129499_10" ></RELATION>
+
+<RELATION theme="129499_3" party1="129499_4" party1_string="JOHNSON" theme_string="JOHNSON v. HENDRICKS, ADMINISTRATOR, NEW JERSEY STATE PRISON, ET AL" gram_type="infix" relation_type="asymmetric" id="129499_8" ></RELATION>
+
+<RELATION party2="129499_5" theme="129499_3" theme_string="JOHNSON v. HENDRICKS, ADMINISTRATOR, NEW JERSEY STATE PRISON, ET AL" party2_string="HENDRICKS, ADMINISTRATOR, NEW JERSEY STATE PRISON, ET AL" gram_type="infix" relation_type="asymmetric" id="129499_9" ></RELATION>
+

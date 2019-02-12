@@ -1,0 +1,42 @@
+<CITATION alternative_keys="['lovellcochran#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_1058" id1="144973" volume="544" start="0" page_number="1058" standard_reporter="U.S." citation_global_level_id="1236.002" line="1" id="144964_1" citation_local_level_id="0" >544 U.S. 1058</CITATION>
+
+<CITATION party2="COCHRAN ET UX" party1="LOVELL ET AL." citation_global_level_id="61493.001" party2_short="COCHRAN" line="1" id="144964_4" alternative_keys="['u.s._544_1058']" end="48" entry_type="party_key" lookup_key="lovellcochran#1" id1="144964" start="18" party1_short="LOVELL" citation_local_level_id="1" >LOVELL ET AL. v. COCHRAN ET UX</CITATION>
+
+<NAME end="31" start="18" party1_of="144964_4" all_names="LOVELL" local_name_id="1" id="144964_5" >LOVELL ET AL.</NAME>
+
+<NAME start="18" local_name_id="1" end="30" id="144964_8" all_names="LOVELL" >LOVELL ET AL</NAME>
+
+<NAME end="48" start="35" all_names="COCHRAN UX" party2_of="144964_4" local_name_id="2" id="144964_6" >COCHRAN ET UX</NAME>
+
+<DOCKET end="64" entry_type="docket" lookup_key="u.s._544_1058" id1="144973" start="58" citation_global_level_id="1236.002" line="1" id="144964_3" citation_local_level_id="0" >04-166</DOCKET>
+
+<ORGANIZATION start="70" end="100" id="144964_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="106" end="118" id="144964_7" >May 31, 2005</DATE>
+
+<NAME start="149" local_name_id="3" end="152" id="144964_10" all_names="CIR" >Cir</NAME>
+
+<CITATION end="183" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_359_263" id1="Dummy_File_225555" volume="359" start="170" page_number="263" standard_reporter="F.3D" citation_global_level_id="289405.001" line="1" id="144964_2" citation_local_level_id="2" >359 F. 3d 263</CITATION>
+
+<NAME start="210" local_name_id="4" end="220" id="144964_19" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION party2="Livestock Marketing Assn" party1="Johanns" citation_global_level_id="34431.001" party2_short="Assn" line="3" id="144964_16" end="341" entry_type="party_key" lookup_key="johannsassn#1" id1="142895" start="306" party1_short="Johanns" citation_local_level_id="3" >Johanns v. Livestock Marketing Assn</CITATION>
+
+<NAME end="313" start="306" party1_of="144964_16" all_names="JOHANNS" local_name_id="5" id="144964_17" >Johanns</NAME>
+
+<NAME end="341" start="317" all_names="LIVESTOCK MARKETING ASSN" party2_of="144964_16" local_name_id="6" id="144964_18" >Livestock Marketing Assn</NAME>
+
+<RELATION theme="144964_1" includes_docket_string="04-166" includes_docket="144964_3" theme_string="544 U.S. 1058" gram_type="apposition" relation_type="asymmetric" id="144964_15" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 1058" X_vs_Y_string="LOVELL ET AL. v. COCHRAN ET UX" standard_case="144964_1" X_vs_Y="144964_4" gram_type="pre_nom" relation_type="equivalence" id="144964_11" ></RELATION>
+
+<RELATION theme="144964_4" includes_docket_string="04-166" includes_docket="144964_3" theme_string="LOVELL ET AL. v. COCHRAN ET UX" gram_type="apposition" relation_type="asymmetric" id="144964_14" ></RELATION>
+
+<RELATION theme="144964_4" party1="144964_5" party1_string="LOVELL ET AL." theme_string="LOVELL ET AL. v. COCHRAN ET UX" gram_type="infix" relation_type="asymmetric" id="144964_12" ></RELATION>
+
+<RELATION party2="144964_6" theme="144964_4" theme_string="LOVELL ET AL. v. COCHRAN ET UX" party2_string="COCHRAN ET UX" gram_type="infix" relation_type="asymmetric" id="144964_13" ></RELATION>
+
+<RELATION theme="144964_16" party1="144964_17" party1_string="Johanns" theme_string="Johanns v. Livestock Marketing Assn" gram_type="infix" relation_type="asymmetric" id="144964_20" ></RELATION>
+
+<RELATION party2="144964_18" theme="144964_16" theme_string="Johanns v. Livestock Marketing Assn" party2_string="Livestock Marketing Assn" gram_type="infix" relation_type="asymmetric" id="144964_21" ></RELATION>
+

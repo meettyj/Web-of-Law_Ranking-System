@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['parksstates#4']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1061" id1="125554" volume="537" start="0" page_number="1061" standard_reporter="U.S." citation_global_level_id="1266.002" line="1" id="125558_1" citation_local_level_id="0" >537 U.S. 1061</CITATION>
+
+<CITATION party2="UNITED STATES" party1="PARKS" citation_global_level_id="39061.001" party2_short="STATES" line="1" id="125558_3" alternative_keys="['u.s._537_1061']" end="40" entry_type="party_key" lookup_key="parksstates#4" id1="144483" start="18" party1_short="PARKS" citation_local_level_id="1" >PARKS v. UNITED STATES</CITATION>
+
+<NAME end="23" start="18" party1_of="125558_3" all_names="PARKS" local_name_id="1" id="125558_4" >PARKS</NAME>
+
+<NAME end="40" start="27" all_names="UNITED STATES" party2_of="125558_3" local_name_id="2" id="125558_5" >UNITED STATES</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._537_1061" id1="125554" start="50" citation_global_level_id="1266.002" line="1" id="125558_2" citation_local_level_id="0" >02-7036</DOCKET>
+
+<DATE start="99" end="115" id="125558_6" >December 2, 2002</DATE>
+
+<NAME start="244" local_name_id="3" end="247" id="125558_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="298" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_285_1133" id1="Dummy_File_136009" volume="285" start="284" page_number="1133" standard_reporter="F.3D" citation_global_level_id="199859.001" line="3" id="125558_12" citation_local_level_id="2" >285 F. 3d 1133</CITATION>
+
+<RELATION theme="125558_1" includes_docket_string="02-7036" includes_docket="125558_2" theme_string="537 U.S. 1061" gram_type="apposition" relation_type="asymmetric" id="125558_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1061" X_vs_Y_string="PARKS v. UNITED STATES" standard_case="125558_1" X_vs_Y="125558_3" gram_type="pre_nom" relation_type="equivalence" id="125558_7" ></RELATION>
+
+<RELATION theme="125558_3" includes_docket_string="02-7036" includes_docket="125558_2" theme_string="PARKS v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="125558_10" ></RELATION>
+
+<RELATION theme="125558_3" party1="125558_4" party1_string="PARKS" theme_string="PARKS v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="125558_8" ></RELATION>
+
+<RELATION party2="125558_5" theme="125558_3" theme_string="PARKS v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="125558_9" ></RELATION>
+

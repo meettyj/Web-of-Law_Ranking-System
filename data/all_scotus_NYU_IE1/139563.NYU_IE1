@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['pharmaceuticalskroger#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_939" id1="139557" volume="543" start="0" page_number="939" standard_reporter="U.S." citation_global_level_id="3878.002" line="1" id="139563_1" citation_local_level_id="0" >543 U.S. 939</CITATION>
+
+<CITATION party2="KROGER CO. ET AL" party1="ANDRX PHARMACEUTICALS, INC." citation_global_level_id="38739.001" party2_short="KROGER" line="2" id="139563_2" alternative_keys="['u.s._543_939']" end="64" entry_type="party_key" lookup_key="pharmaceuticalskroger#1" id1="139563" start="17" party1_short="PHARMACEUTICALS" citation_local_level_id="1" >ANDRX PHARMACEUTICALS, INC. v. KROGER CO. ET AL</CITATION>
+
+<NAME end="44" start="17" party1_of="139563_2" all_names="ANDRX PHARMACEUTICALS INC" local_name_id="1" id="139563_3" >ANDRX PHARMACEUTICALS, INC.</NAME>
+
+<ORGANIZATION start="17" end="43" id="139563_5" >ANDRX PHARMACEUTICALS, INC</ORGANIZATION>
+
+<NAME end="64" start="48" all_names="KROGER CO" party2_of="139563_2" local_name_id="2" id="139563_4" >KROGER CO. ET AL</NAME>
+
+<DOCKET end="80" entry_type="docket" lookup_key="pharmaceuticalskroger#1" id1="139563" start="74" citation_global_level_id="38739.001" line="3" id="139563_8" citation_local_level_id="1" >03-779</DOCKET>
+
+<ORGANIZATION start="86" end="116" id="139563_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="122" citation_global_level_id="38739.001" end="138" id="139563_10" citation_local_level_id="1" >October 12, 2004</DATE>
+
+<NAME start="170" local_name_id="3" end="173" id="139563_15" all_names="CIR" >Cir</NAME>
+
+<CITATION end="508" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_332_896" id1="Dummy_File_203215" volume="332" start="495" page_number="896" standard_reporter="F.3D" citation_global_level_id="267065.001" line="8" id="139563_14" citation_local_level_id="2" >332 F. 3d 896</CITATION>
+
+<RELATION theme="139563_2" party1="139563_3" party1_string="ANDRX PHARMACEUTICALS, INC." theme_string="ANDRX PHARMACEUTICALS, INC. v. KROGER CO. ET AL" gram_type="infix" relation_type="asymmetric" id="139563_6" ></RELATION>
+
+<RELATION party2="139563_4" theme="139563_2" theme_string="ANDRX PHARMACEUTICALS, INC. v. KROGER CO. ET AL" party2_string="KROGER CO. ET AL" gram_type="infix" relation_type="asymmetric" id="139563_7" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 939" X_vs_Y_string="ANDRX PHARMACEUTICALS, INC. v. KROGER CO. ET AL" standard_case="139563_1" X_vs_Y="139563_2" gram_type="multi_line" relation_type="equivalence" id="139563_11" ></RELATION>
+
+<RELATION at_date_string="October 12, 2004" theme="139563_2" at_date="139563_10" theme_string="ANDRX PHARMACEUTICALS, INC. v. KROGER CO. ET AL" gram_type="multi_line" relation_type="asymmetric" id="139563_13" ></RELATION>
+
+<RELATION theme="139563_2" includes_docket_string="03-779" includes_docket="139563_8" theme_string="ANDRX PHARMACEUTICALS, INC. v. KROGER CO. ET AL" gram_type="multi_line" relation_type="asymmetric" id="139563_12" ></RELATION>
+

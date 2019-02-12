@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['starrcattell#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_1052" id1="136407" volume="541" start="0" page_number="1052" standard_reporter="U.S." citation_global_level_id="4283.002" line="1" id="136408_1" citation_local_level_id="0" >541 U.S. 1052</CITATION>
+
+<CITATION party2="CATTELL, WARDEN" party1="STARR" citation_global_level_id="4283.008" party2_short="CATTELL" line="2" id="136408_2" alternative_keys="['u.s._541_1052']" end="42" entry_type="party_key" lookup_key="starrcattell#1" id1="136407" start="18" party1_short="STARR" citation_local_level_id="1" >STARR v. CATTELL, WARDEN</CITATION>
+
+<NAME end="23" start="18" party1_of="136408_2" all_names="STARR" local_name_id="1" id="136408_3" >STARR</NAME>
+
+<NAME end="42" start="27" all_names="CATTELL WARDEN" party2_of="136408_2" local_name_id="2" id="136408_4" >CATTELL, WARDEN</NAME>
+
+<DOCKET alternative_keys="['u.s._541_1052']" end="59" entry_type="docket" lookup_key="starrcattell#1" id1="136407" start="52" citation_global_level_id="4283.008" line="3" id="136408_7" citation_local_level_id="1" >03-9640</DOCKET>
+
+<ORGANIZATION start="65" end="95" id="136408_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="101" citation_global_level_id="4283.008" end="113" id="136408_9" citation_local_level_id="1" >May 17, 2004</DATE>
+
+<NAME start="135" local_name_id="3" end="140" id="136408_13" all_names="SUPER" >Super</NAME>
+
+<RELATION theme="136408_2" party1="136408_3" party1_string="STARR" theme_string="STARR v. CATTELL, WARDEN" gram_type="infix" relation_type="asymmetric" id="136408_5" ></RELATION>
+
+<RELATION party2="136408_4" theme="136408_2" theme_string="STARR v. CATTELL, WARDEN" party2_string="CATTELL, WARDEN" gram_type="infix" relation_type="asymmetric" id="136408_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 1052" X_vs_Y_string="STARR v. CATTELL, WARDEN" standard_case="136408_1" X_vs_Y="136408_2" gram_type="multi_line" relation_type="equivalence" id="136408_10" ></RELATION>
+
+<RELATION at_date_string="May 17, 2004" theme="136408_2" at_date="136408_9" theme_string="STARR v. CATTELL, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="136408_12" ></RELATION>
+
+<RELATION theme="136408_2" includes_docket_string="03-9640" includes_docket="136408_7" theme_string="STARR v. CATTELL, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="136408_11" ></RELATION>
+

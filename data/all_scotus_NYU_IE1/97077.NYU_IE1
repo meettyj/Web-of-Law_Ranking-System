@@ -1,0 +1,54 @@
+<CITATION alternative_keys="['loganbank#3']" end="20" reporter="U.S." entry_type="standard_key" lookup_key="u.s._214_500" id1="97077" volume="214" start="1" page_number="500" year="1909" standard_reporter="U.S." citation_global_level_id="35419.002" line="2" id="97077_1" citation_local_level_id="0" >214 U.S. 500 (1909)</CITATION>
+
+<DATE start="15" citation_global_level_id="35419.002" end="19" id="97077_2" citation_local_level_id="0" >1909</DATE>
+
+<CITATION party2="FARMERS' DEPOSIT NATIONAL BANK OF PITTSBURGH" party1="LOGAN" citation_global_level_id="35419.003" party2_short="BANK" line="5" id="97077_5" alternative_keys="['u.s._214_500']" end="76" entry_type="party_key" lookup_key="loganbank#3" id1="97077" start="21" party1_short="LOGAN" citation_local_level_id="1" >LOGAN v. FARMERS' DEPOSIT NATIONAL BANK OF PITTSBURGH</CITATION>
+
+<NAME end="26" start="21" party1_of="97077_5" all_names="LOGAN" local_name_id="1" id="97077_6" >LOGAN</NAME>
+
+<NAME end="76" start="32" all_names="FARMERS' DEPOSIT NATIONAL BANK OF PITTSBURGH" party2_of="97077_5" local_name_id="2" id="97077_7" >FARMERS' DEPOSIT NATIONAL BANK OF PITTSBURGH</NAME>
+
+<ORGANIZATION start="87" end="117" id="97077_11" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="129" end="143" id="97077_12" >April 19, 1909</DATE>
+
+<NAME start="145" local_name_id="3" end="152" id="97077_14" all_names="DECIDED" >Decided</NAME>
+
+<DATE start="153" end="167" id="97077_13" >April 26, 1909</DATE>
+
+<ORGANIZATION start="169" end="232" id="97077_15" >APPEAL FROM THE CIRCUIT COURT OF APPEALS FOR THE FOURTH CIRCUIT</ORGANIZATION>
+
+<NAME start="234" local_name_id="4" end="240" id="97077_16" all_names="MOTION" >Motion</NAME>
+
+<LEGAL_ROLE start="263" end="316" plural="True" id="97077_17" >Mr. B.M. Ambler and Mr. A. Leo Weil for the appellees</LEGAL_ROLE>
+
+<LEGAL_ROLE start="348" end="390" plural="True" id="97077_18" >Mr. Hector M. Hitchings for the appellants</LEGAL_ROLE>
+
+<NAME start="418" local_name_id="5" end="424" id="97077_19" all_names="CURIAM" >Curiam</NAME>
+
+<NAME start="426" local_name_id="6" end="432" id="97077_24" all_names="APPEAL" >Appeal</NAME>
+
+<CITATION party2="Arts" party1="Coder, Trustee," citation_global_level_id="39632.001" party2_short="Arts" line="15" id="97077_21" alternative_keys="['u.s._213_223']" end="507" entry_type="party_key" lookup_key="coderarts#1" id1="97010" start="484" party1_short="Coder" citation_local_level_id="2" >Coder, Trustee, v. Arts</CITATION>
+
+<NAME end="499" start="484" party1_of="97077_21" all_names="CODER TRUSTEE" local_name_id="7" id="97077_22" >Coder, Trustee,</NAME>
+
+<PROFESSION start="491" end="498" id="97077_25" >Trustee</PROFESSION>
+
+<NAME end="507" start="503" all_names="ARTS" party2_of="97077_21" local_name_id="8" id="97077_23" >Arts</NAME>
+
+<CITATION alternative_keys="['coderarts#1']" end="521" reporter="U.S." entry_type="standard_key" lookup_key="u.s._213_223" id1="97010" volume="213" start="509" page_number="223" standard_reporter="U.S." citation_global_level_id="39632.002" line="15" id="97077_20" citation_local_level_id="3" >213 U.S. 223</CITATION>
+
+<RELATION at_date_string="1909" theme="97077_1" at_date="97077_2" theme_string="214 U.S. 500 (1909)" gram_type="infix" relation_type="asymmetric" id="97077_3" ></RELATION>
+
+<RELATION theme="97077_5" party1="97077_6" party1_string="LOGAN" theme_string="LOGAN  v.  FARMERS' DEPOSIT NATIONAL BANK OF PITTSBURGH" gram_type="infix" relation_type="asymmetric" id="97077_8" ></RELATION>
+
+<RELATION party2="97077_7" theme="97077_5" theme_string="LOGAN  v.  FARMERS' DEPOSIT NATIONAL BANK OF PITTSBURGH" party2_string="FARMERS' DEPOSIT NATIONAL BANK OF PITTSBURGH" gram_type="infix" relation_type="asymmetric" id="97077_9" ></RELATION>
+
+<RELATION standard_case_string="214 U.S. 500 (1909)" X_vs_Y_string="LOGAN  v.  FARMERS' DEPOSIT NATIONAL BANK OF PITTSBURGH" standard_case="97077_1" X_vs_Y="97077_5" gram_type="multi_line" relation_type="equivalence" id="97077_10" ></RELATION>
+
+<RELATION standard_case_string="213 U.S. 223" X_vs_Y_string="Coder, Trustee, v. Arts" standard_case="97077_20" X_vs_Y="97077_21" gram_type="apposition" relation_type="equivalence" id="97077_28" ></RELATION>
+
+<RELATION theme="97077_21" party1="97077_22" party1_string="Coder, Trustee," theme_string="Coder, Trustee, v. Arts" gram_type="infix" relation_type="asymmetric" id="97077_26" ></RELATION>
+
+<RELATION party2="97077_23" theme="97077_21" theme_string="Coder, Trustee, v. Arts" party2_string="Arts" gram_type="infix" relation_type="asymmetric" id="97077_27" ></RELATION>
+

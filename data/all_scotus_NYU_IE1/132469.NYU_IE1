@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['ellismullin#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_900" id1="132463" volume="540" start="0" page_number="900" standard_reporter="U.S." citation_global_level_id="3486.002" line="1" id="132469_1" citation_local_level_id="0" >540 U.S. 900</CITATION>
+
+<CITATION party2="MULLIN, WARDEN" party1="ELLIS" citation_global_level_id="3486.007" party2_short="MULLIN" line="1" id="132469_3" alternative_keys="['u.s._540_900']" end="40" entry_type="party_key" lookup_key="ellismullin#1" id1="132463" start="17" party1_short="ELLIS" citation_local_level_id="1" >ELLIS v. MULLIN, WARDEN</CITATION>
+
+<NAME end="22" start="17" party1_of="132469_3" all_names="ELLIS" local_name_id="1" id="132469_4" >ELLIS</NAME>
+
+<NAME end="40" start="26" all_names="MULLIN WARDEN" party2_of="132469_3" local_name_id="2" id="132469_5" >MULLIN, WARDEN</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._540_900" id1="132463" start="50" citation_global_level_id="3486.002" line="1" id="132469_2" citation_local_level_id="0" >03-5298</DOCKET>
+
+<DATE start="99" end="114" id="132469_6" >October 6, 2003</DATE>
+
+<NAME start="193" local_name_id="3" end="203" id="132469_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="132469_1" includes_docket_string="03-5298" includes_docket="132469_2" theme_string="540 U.S. 900" gram_type="apposition" relation_type="asymmetric" id="132469_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 900" X_vs_Y_string="ELLIS v. MULLIN, WARDEN" standard_case="132469_1" X_vs_Y="132469_3" gram_type="pre_nom" relation_type="equivalence" id="132469_7" ></RELATION>
+
+<RELATION theme="132469_3" includes_docket_string="03-5298" includes_docket="132469_2" theme_string="ELLIS v. MULLIN, WARDEN" gram_type="apposition" relation_type="asymmetric" id="132469_10" ></RELATION>
+
+<RELATION theme="132469_3" party1="132469_4" party1_string="ELLIS" theme_string="ELLIS v. MULLIN, WARDEN" gram_type="infix" relation_type="asymmetric" id="132469_8" ></RELATION>
+
+<RELATION party2="132469_5" theme="132469_3" theme_string="ELLIS v. MULLIN, WARDEN" party2_string="MULLIN, WARDEN" gram_type="infix" relation_type="asymmetric" id="132469_9" ></RELATION>
+

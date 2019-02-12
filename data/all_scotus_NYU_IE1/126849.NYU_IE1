@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['richardsrose#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1164" id1="126851" volume="537" start="0" page_number="1164" standard_reporter="U.S." citation_global_level_id="529.002" line="1" id="126849_1" citation_local_level_id="0" >537 U.S. 1164</CITATION>
+
+<CITATION party2="ROSE" party1="RICHARDS" citation_global_level_id="17737.001" party2_short="ROSE" line="1" id="126849_3" alternative_keys="['u.s._537_1164']" end="34" entry_type="party_key" lookup_key="richardsrose#1" id1="126849" start="18" party1_short="RICHARDS" citation_local_level_id="1" >RICHARDS v. ROSE</CITATION>
+
+<NAME end="26" start="18" party1_of="126849_3" all_names="RICHARDS" local_name_id="1" id="126849_4" >RICHARDS</NAME>
+
+<NAME end="34" start="30" all_names="ROSE" party2_of="126849_3" local_name_id="2" id="126849_5" >ROSE</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="u.s._537_1164" id1="126851" start="44" citation_global_level_id="529.002" line="1" id="126849_2" citation_local_level_id="0" >02-7544</DOCKET>
+
+<DATE start="93" end="109" id="126849_6" >January 21, 2003</DATE>
+
+<NAME start="203" local_name_id="3" end="206" id="126849_12" all_names="SUP" >Sup</NAME>
+
+<RELATION theme="126849_1" includes_docket_string="02-7544" includes_docket="126849_2" theme_string="537 U.S. 1164" gram_type="apposition" relation_type="asymmetric" id="126849_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1164" X_vs_Y_string="RICHARDS v. ROSE" standard_case="126849_1" X_vs_Y="126849_3" gram_type="pre_nom" relation_type="equivalence" id="126849_7" ></RELATION>
+
+<RELATION theme="126849_3" includes_docket_string="02-7544" includes_docket="126849_2" theme_string="RICHARDS v. ROSE" gram_type="apposition" relation_type="asymmetric" id="126849_10" ></RELATION>
+
+<RELATION theme="126849_3" party1="126849_4" party1_string="RICHARDS" theme_string="RICHARDS v. ROSE" gram_type="infix" relation_type="asymmetric" id="126849_8" ></RELATION>
+
+<RELATION party2="126849_5" theme="126849_3" theme_string="RICHARDS v. ROSE" party2_string="ROSE" gram_type="infix" relation_type="asymmetric" id="126849_9" ></RELATION>
+

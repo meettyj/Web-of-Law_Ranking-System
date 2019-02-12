@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['ivymississippi#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_948" id1="128511" volume="538" start="0" page_number="948" standard_reporter="U.S." citation_global_level_id="2345.002" line="1" id="128513_1" citation_local_level_id="0" >538 U.S. 948</CITATION>
+
+<CITATION party2="MISSISSIPPI" party1="IVY" citation_global_level_id="52729.001" party2_short="MISSISSIPPI" line="1" id="128513_3" alternative_keys="['u.s._538_948']" end="35" entry_type="party_key" lookup_key="ivymississippi#1" id1="128513" start="17" party1_short="IVY" citation_local_level_id="1" >IVY v. MISSISSIPPI</CITATION>
+
+<NAME end="20" start="17" party1_of="128513_3" all_names="IVY" local_name_id="1" id="128513_4" >IVY</NAME>
+
+<NAME end="35" start="24" all_names="MISSISSIPPI" party2_of="128513_3" local_name_id="2" id="128513_5" >MISSISSIPPI</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="u.s._538_948" id1="128511" start="45" citation_global_level_id="2345.002" line="1" id="128513_2" citation_local_level_id="0" >02-8662</DOCKET>
+
+<DATE start="94" end="108" id="128513_6" >March 31, 2003</DATE>
+
+<NAME start="203" local_name_id="3" end="206" id="128513_12" all_names="SUP" >Sup</NAME>
+
+<RELATION theme="128513_1" includes_docket_string="02-8662" includes_docket="128513_2" theme_string="538 U.S. 948" gram_type="apposition" relation_type="asymmetric" id="128513_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 948" X_vs_Y_string="IVY v. MISSISSIPPI" standard_case="128513_1" X_vs_Y="128513_3" gram_type="pre_nom" relation_type="equivalence" id="128513_7" ></RELATION>
+
+<RELATION theme="128513_3" includes_docket_string="02-8662" includes_docket="128513_2" theme_string="IVY v. MISSISSIPPI" gram_type="apposition" relation_type="asymmetric" id="128513_10" ></RELATION>
+
+<RELATION theme="128513_3" party1="128513_4" party1_string="IVY" theme_string="IVY v. MISSISSIPPI" gram_type="infix" relation_type="asymmetric" id="128513_8" ></RELATION>
+
+<RELATION party2="128513_5" theme="128513_3" theme_string="IVY v. MISSISSIPPI" party2_string="MISSISSIPPI" gram_type="infix" relation_type="asymmetric" id="128513_9" ></RELATION>
+

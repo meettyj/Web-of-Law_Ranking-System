@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['acevesknowles#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_881" id1="138801" volume="543" start="0" page_number="881" standard_reporter="U.S." citation_global_level_id="100.002" line="1" id="138801_1" citation_local_level_id="0" >543 U.S. 881</CITATION>
+
+<CITATION party2="KNOWLES, WARDEN, ET AL" party1="ABREU ACEVES" citation_global_level_id="100.003" party2_short="KNOWLES" line="2" id="138801_2" alternative_keys="['u.s._543_881']" end="55" entry_type="party_key" lookup_key="acevesknowles#1" id1="138801" start="17" party1_short="ACEVES" citation_local_level_id="1" >ABREU ACEVES v. KNOWLES, WARDEN, ET AL</CITATION>
+
+<NAME end="29" start="17" party1_of="138801_2" all_names="ABREU ACEVES" local_name_id="1" id="138801_3" >ABREU ACEVES</NAME>
+
+<NAME end="55" start="33" all_names="KNOWLES WARDEN" party2_of="138801_2" local_name_id="2" id="138801_4" >KNOWLES, WARDEN, ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._543_881']" end="72" entry_type="docket" lookup_key="acevesknowles#1" id1="138801" start="65" citation_global_level_id="100.003" line="3" id="138801_7" citation_local_level_id="1" >04-5068</DOCKET>
+
+<ORGANIZATION start="78" end="108" id="138801_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="114" citation_global_level_id="100.003" end="129" id="138801_9" citation_local_level_id="1" >October 4, 2004</DATE>
+
+<NAME start="161" local_name_id="3" end="164" id="138801_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="138801_2" party1="138801_3" party1_string="ABREU ACEVES" theme_string="ABREU ACEVES v. KNOWLES, WARDEN, ET AL" gram_type="infix" relation_type="asymmetric" id="138801_5" ></RELATION>
+
+<RELATION party2="138801_4" theme="138801_2" theme_string="ABREU ACEVES v. KNOWLES, WARDEN, ET AL" party2_string="KNOWLES, WARDEN, ET AL" gram_type="infix" relation_type="asymmetric" id="138801_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 881" X_vs_Y_string="ABREU ACEVES v. KNOWLES, WARDEN, ET AL" standard_case="138801_1" X_vs_Y="138801_2" gram_type="multi_line" relation_type="equivalence" id="138801_10" ></RELATION>
+
+<RELATION at_date_string="October 4, 2004" theme="138801_2" at_date="138801_9" theme_string="ABREU ACEVES v. KNOWLES, WARDEN, ET AL" gram_type="multi_line" relation_type="asymmetric" id="138801_12" ></RELATION>
+
+<RELATION theme="138801_2" includes_docket_string="04-5068" includes_docket="138801_7" theme_string="ABREU ACEVES v. KNOWLES, WARDEN, ET AL" gram_type="multi_line" relation_type="asymmetric" id="138801_11" ></RELATION>
+

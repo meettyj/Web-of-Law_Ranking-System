@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['cityessence#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_947" id1="124170" volume="537" start="0" page_number="947" standard_reporter="U.S." citation_global_level_id="652.002" line="1" id="124176_1" citation_local_level_id="0" >537 U.S. 947</CITATION>
+
+<CITATION party2="ESSENCE, INC., DBA THE BARE ESSENCE, ET AL" party1="CITY OF FEDERAL HEIGHTS" citation_global_level_id="652.004" party2_short="ESSENCE" line="1" id="124176_3" alternative_keys="['u.s._537_947']" end="86" entry_type="party_key" lookup_key="cityessence#2" id1="124170" start="17" party1_short="CITY" citation_local_level_id="1" >CITY OF FEDERAL HEIGHTS v. ESSENCE, INC., DBA THE BARE ESSENCE, ET AL</CITATION>
+
+<NAME end="40" start="17" party1_of="124176_3" all_names="CITY OF FEDERAL HEIGHTS" local_name_id="1" id="124176_4" >CITY OF FEDERAL HEIGHTS</NAME>
+
+<NAME end="86" start="44" all_names="ESSENCE INC DBA THE BARE ESSENCE" party2_of="124176_3" local_name_id="2" id="124176_5" >ESSENCE, INC., DBA THE BARE ESSENCE, ET AL</NAME>
+
+<DOCKET end="101" entry_type="docket" lookup_key="u.s._537_947" id1="124170" start="96" citation_global_level_id="652.002" line="1" id="124176_2" citation_local_level_id="0" >02-66</DOCKET>
+
+<DATE start="143" end="159" id="124176_6" >October 15, 2002</DATE>
+
+<NAME start="289" local_name_id="3" end="292" id="124176_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="343" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_285_1272" id1="Dummy_File_49084" volume="285" start="329" page_number="1272" standard_reporter="F.3D" citation_global_level_id="112934.001" line="3" id="124176_12" citation_local_level_id="2" >285 F. 3d 1272</CITATION>
+
+<RELATION theme="124176_1" includes_docket_string="02-66" includes_docket="124176_2" theme_string="537 U.S. 947" gram_type="apposition" relation_type="asymmetric" id="124176_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 947" X_vs_Y_string="CITY OF FEDERAL HEIGHTS v. ESSENCE, INC., DBA THE BARE ESSENCE, ET AL" standard_case="124176_1" X_vs_Y="124176_3" gram_type="pre_nom" relation_type="equivalence" id="124176_7" ></RELATION>
+
+<RELATION theme="124176_3" includes_docket_string="02-66" includes_docket="124176_2" theme_string="CITY OF FEDERAL HEIGHTS v. ESSENCE, INC., DBA THE BARE ESSENCE, ET AL" gram_type="apposition" relation_type="asymmetric" id="124176_10" ></RELATION>
+
+<RELATION theme="124176_3" party1="124176_4" party1_string="CITY OF FEDERAL HEIGHTS" theme_string="CITY OF FEDERAL HEIGHTS v. ESSENCE, INC., DBA THE BARE ESSENCE, ET AL" gram_type="infix" relation_type="asymmetric" id="124176_8" ></RELATION>
+
+<RELATION party2="124176_5" theme="124176_3" theme_string="CITY OF FEDERAL HEIGHTS v. ESSENCE, INC., DBA THE BARE ESSENCE, ET AL" party2_string="ESSENCE, INC., DBA THE BARE ESSENCE, ET AL" gram_type="infix" relation_type="asymmetric" id="124176_9" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['cooperstates#9']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1083" id1="125845" volume="537" start="0" page_number="1083" standard_reporter="U.S." citation_global_level_id="183.002" line="1" id="125841_1" citation_local_level_id="0" >537 U.S. 1083</CITATION>
+
+<CITATION party2="UNITED STATES" party1="COOPER" citation_global_level_id="41250.001" party2_short="STATES" line="2" id="125841_2" alternative_keys="['u.s._537_1083']" end="41" entry_type="party_key" lookup_key="cooperstates#9" id1="101509" start="18" party1_short="COOPER" citation_local_level_id="1" >COOPER v. UNITED STATES</CITATION>
+
+<NAME end="24" start="18" party1_of="125841_2" all_names="COOPER" local_name_id="1" id="125841_3" >COOPER</NAME>
+
+<NAME end="41" start="28" all_names="UNITED STATES" party2_of="125841_2" local_name_id="2" id="125841_4" >UNITED STATES</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="cooperstates#9" id1="101509" start="50" citation_global_level_id="41250.001" line="3" id="125841_7" citation_local_level_id="1" >01-10545</DOCKET>
+
+<ORGANIZATION start="64" end="94" id="125841_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="100" citation_global_level_id="41250.001" end="116" id="125841_9" citation_local_level_id="1" >December 9, 2002</DATE>
+
+<NAME start="152" local_name_id="3" end="160" id="125841_13" all_names="PETITION" >Petition</NAME>
+
+<RELATION theme="125841_2" party1="125841_3" party1_string="COOPER" theme_string="COOPER v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="125841_5" ></RELATION>
+
+<RELATION party2="125841_4" theme="125841_2" theme_string="COOPER v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="125841_6" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1083" X_vs_Y_string="COOPER v. UNITED STATES" standard_case="125841_1" X_vs_Y="125841_2" gram_type="multi_line" relation_type="equivalence" id="125841_10" ></RELATION>
+
+<RELATION at_date_string="December 9, 2002" theme="125841_2" at_date="125841_9" theme_string="COOPER v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="125841_12" ></RELATION>
+
+<RELATION theme="125841_2" includes_docket_string="01-10545" includes_docket="125841_7" theme_string="COOPER v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="125841_11" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['evansstates#9']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_927" id1="114529" volume="510" start="0" page_number="927" standard_reporter="U.S." citation_global_level_id="4412.002" line="1" id="114538_1" citation_local_level_id="0" >510 U.S. 927</CITATION>
+
+<CITATION party2="United States" party1="Evans" citation_global_level_id="29136.001" party2_short="States" line="1" id="114538_3" alternative_keys="['u.s._510_927']" end="39" entry_type="party_key" lookup_key="evansstates#9" id1="129823" start="17" party1_short="Evans" citation_local_level_id="1" >Evans v. United States</CITATION>
+
+<NAME end="22" start="17" party1_of="114538_3" all_names="EVANS" local_name_id="1" id="114538_4" >Evans</NAME>
+
+<NAME end="39" start="26" all_names="UNITED STATES" party2_of="114538_3" local_name_id="2" id="114538_5" >United States</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._510_927" id1="114529" start="49" citation_global_level_id="4412.002" line="1" id="114538_2" citation_local_level_id="0" >93-5914</DOCKET>
+
+<DATE start="98" end="114" id="114538_6" >October 12, 1993</DATE>
+
+<NAME start="192" local_name_id="3" end="202" id="114538_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="240" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_994_317" id1="Dummy_File_146829" volume="994" start="227" page_number="317" standard_reporter="F.2D" citation_global_level_id="210679.001" line="3" id="114538_12" citation_local_level_id="2" >994 F. 2d 317</CITATION>
+
+<RELATION theme="114538_1" includes_docket_string="93-5914" includes_docket="114538_2" theme_string="510 U.S. 927" gram_type="apposition" relation_type="asymmetric" id="114538_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 927" X_vs_Y_string="Evans v. United States" standard_case="114538_1" X_vs_Y="114538_3" gram_type="pre_nom" relation_type="equivalence" id="114538_7" ></RELATION>
+
+<RELATION theme="114538_3" includes_docket_string="93-5914" includes_docket="114538_2" theme_string="Evans v. United States" gram_type="apposition" relation_type="asymmetric" id="114538_10" ></RELATION>
+
+<RELATION theme="114538_3" party1="114538_4" party1_string="Evans" theme_string="Evans v. United States" gram_type="infix" relation_type="asymmetric" id="114538_8" ></RELATION>
+
+<RELATION party2="114538_5" theme="114538_3" theme_string="Evans v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="114538_9" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['thomasflorida#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_922" id1="114463" volume="510" start="0" page_number="922" standard_reporter="U.S." citation_global_level_id="84.002" line="1" id="114458_1" citation_local_level_id="0" >510 U.S. 922</CITATION>
+
+<CITATION party2="Florida" party1="Thomas" citation_global_level_id="37109.001" party2_short="Florida" line="1" id="114458_3" alternative_keys="['u.s._510_922']" end="34" entry_type="party_key" lookup_key="thomasflorida#2" id1="114458" start="17" party1_short="Thomas" citation_local_level_id="1" >Thomas v. Florida</CITATION>
+
+<NAME end="23" start="17" party1_of="114458_3" all_names="THOMAS" local_name_id="1" id="114458_4" >Thomas</NAME>
+
+<NAME end="34" start="27" all_names="FLORIDA" party2_of="114458_3" local_name_id="2" id="114458_5" >Florida</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="u.s._510_922" id1="114463" start="44" citation_global_level_id="84.002" line="1" id="114458_2" citation_local_level_id="0" >93-5641</DOCKET>
+
+<DATE start="93" end="109" id="114458_6" >October 12, 1993</DATE>
+
+<NAME start="186" local_name_id="3" end="196" id="114458_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="235" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_618_155" id1="Dummy_File_198155" volume="618" start="221" page_number="155" standard_reporter="SO.2D" citation_global_level_id="262005.001" line="3" id="114458_12" citation_local_level_id="2" >618 So. 2d 155</CITATION>
+
+<RELATION theme="114458_1" includes_docket_string="93-5641" includes_docket="114458_2" theme_string="510 U.S. 922" gram_type="apposition" relation_type="asymmetric" id="114458_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 922" X_vs_Y_string="Thomas v. Florida" standard_case="114458_1" X_vs_Y="114458_3" gram_type="pre_nom" relation_type="equivalence" id="114458_7" ></RELATION>
+
+<RELATION theme="114458_3" includes_docket_string="93-5641" includes_docket="114458_2" theme_string="Thomas v. Florida" gram_type="apposition" relation_type="asymmetric" id="114458_10" ></RELATION>
+
+<RELATION theme="114458_3" party1="114458_4" party1_string="Thomas" theme_string="Thomas v. Florida" gram_type="infix" relation_type="asymmetric" id="114458_8" ></RELATION>
+
+<RELATION party2="114458_5" theme="114458_3" theme_string="Thomas v. Florida" party2_string="Florida" gram_type="infix" relation_type="asymmetric" id="114458_9" ></RELATION>
+

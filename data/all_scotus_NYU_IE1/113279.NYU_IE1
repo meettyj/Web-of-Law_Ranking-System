@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['qureshihospital#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_832" id1="113269" volume="510" start="0" page_number="832" standard_reporter="U.S." citation_global_level_id="312.002" line="1" id="113279_1" citation_local_level_id="0" >510 U.S. 832</CITATION>
+
+<CITATION party2="Alexandria Hospital et al" party1="Qureshi" citation_global_level_id="51360.001" party2_short="Hospital" line="1" id="113279_3" alternative_keys="['u.s._510_832']" end="53" entry_type="party_key" lookup_key="qureshihospital#1" id1="113279" start="17" party1_short="Qureshi" citation_local_level_id="1" >Qureshi v. Alexandria Hospital et al</CITATION>
+
+<NAME end="24" start="17" party1_of="113279_3" all_names="QURESHI" local_name_id="1" id="113279_4" >Qureshi</NAME>
+
+<NAME end="53" start="28" all_names="ALEXANDRIA HOSPITAL" party2_of="113279_3" local_name_id="2" id="113279_5" >Alexandria Hospital et al</NAME>
+
+<DOCKET end="70" entry_type="docket" lookup_key="u.s._510_832" id1="113269" start="63" citation_global_level_id="312.002" line="1" id="113279_2" citation_local_level_id="0" >92-8643</DOCKET>
+
+<DATE start="112" end="127" id="113279_6" >October 4, 1993</DATE>
+
+<NAME start="205" local_name_id="3" end="215" id="113279_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="253" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_980_727" id1="Dummy_File_134370" volume="980" start="240" page_number="727" standard_reporter="F.2D" citation_global_level_id="198220.001" line="3" id="113279_12" citation_local_level_id="2" >980 F. 2d 727</CITATION>
+
+<RELATION theme="113279_1" includes_docket_string="92-8643" includes_docket="113279_2" theme_string="510 U.S. 832" gram_type="apposition" relation_type="asymmetric" id="113279_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 832" X_vs_Y_string="Qureshi v. Alexandria Hospital et al" standard_case="113279_1" X_vs_Y="113279_3" gram_type="pre_nom" relation_type="equivalence" id="113279_7" ></RELATION>
+
+<RELATION theme="113279_3" includes_docket_string="92-8643" includes_docket="113279_2" theme_string="Qureshi v. Alexandria Hospital et al" gram_type="apposition" relation_type="asymmetric" id="113279_10" ></RELATION>
+
+<RELATION theme="113279_3" party1="113279_4" party1_string="Qureshi" theme_string="Qureshi v. Alexandria Hospital et al" gram_type="infix" relation_type="asymmetric" id="113279_8" ></RELATION>
+
+<RELATION party2="113279_5" theme="113279_3" theme_string="Qureshi v. Alexandria Hospital et al" party2_string="Alexandria Hospital et al" gram_type="infix" relation_type="asymmetric" id="113279_9" ></RELATION>
+

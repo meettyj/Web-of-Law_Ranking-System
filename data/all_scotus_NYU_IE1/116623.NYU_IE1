@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['josephcannon#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1097" id1="116621" volume="510" start="0" page_number="1097" standard_reporter="U.S." citation_global_level_id="4576.002" line="1" id="116623_1" citation_local_level_id="0" >510 U.S. 1097</CITATION>
+
+<CITATION party2="Cannon et al" party1="Joseph" citation_global_level_id="32698.001" party2_short="Cannon" line="1" id="116623_3" alternative_keys="['u.s._510_1097']" end="40" entry_type="party_key" lookup_key="josephcannon#1" id1="116623" start="18" party1_short="Joseph" citation_local_level_id="1" >Joseph v. Cannon et al</CITATION>
+
+<NAME end="24" start="18" party1_of="116623_3" all_names="JOSEPH" local_name_id="1" id="116623_4" >Joseph</NAME>
+
+<NAME end="40" start="28" all_names="CANNON" party2_of="116623_3" local_name_id="2" id="116623_5" >Cannon et al</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._510_1097" id1="116621" start="50" citation_global_level_id="4576.002" line="1" id="116623_2" citation_local_level_id="0" >93-6963</DOCKET>
+
+<DATE start="99" end="115" id="116623_6" >January 24, 1994</DATE>
+
+<NAME start="201" local_name_id="3" end="211" id="116623_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="250" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_609_838" id1="Dummy_File_153285" volume="609" start="236" page_number="838" standard_reporter="SO.2D" citation_global_level_id="217135.001" line="3" id="116623_12" citation_local_level_id="2" >609 So. 2d 838</CITATION>
+
+<RELATION theme="116623_1" includes_docket_string="93-6963" includes_docket="116623_2" theme_string="510 U.S. 1097" gram_type="apposition" relation_type="asymmetric" id="116623_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1097" X_vs_Y_string="Joseph v. Cannon et al" standard_case="116623_1" X_vs_Y="116623_3" gram_type="pre_nom" relation_type="equivalence" id="116623_7" ></RELATION>
+
+<RELATION theme="116623_3" includes_docket_string="93-6963" includes_docket="116623_2" theme_string="Joseph v. Cannon et al" gram_type="apposition" relation_type="asymmetric" id="116623_10" ></RELATION>
+
+<RELATION theme="116623_3" party1="116623_4" party1_string="Joseph" theme_string="Joseph v. Cannon et al" gram_type="infix" relation_type="asymmetric" id="116623_8" ></RELATION>
+
+<RELATION party2="116623_5" theme="116623_3" theme_string="Joseph v. Cannon et al" party2_string="Cannon et al" gram_type="infix" relation_type="asymmetric" id="116623_9" ></RELATION>
+

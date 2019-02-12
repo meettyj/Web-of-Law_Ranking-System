@@ -1,0 +1,42 @@
+<CITATION alternative_keys="['cityfund#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_961" id1="114942" volume="510" start="0" page_number="961" standard_reporter="U.S." citation_global_level_id="732.002" line="1" id="114947_1" citation_local_level_id="0" >510 U.S. 961</CITATION>
+
+<CITATION party2="Environmental Defense Fund et al" party1="City of Chicago et al." citation_global_level_id="46248.001" party2_short="Fund" line="1" id="114947_4" alternative_keys="['u.s._510_961']" end="75" entry_type="party_key" lookup_key="cityfund#2" id1="115576" start="17" party1_short="City" citation_local_level_id="1" >City of Chicago et al. v. Environmental Defense Fund et al</CITATION>
+
+<NAME end="39" start="17" party1_of="114947_4" all_names="CITY OF CHICAGO" local_name_id="1" id="114947_5" >City of Chicago et al.</NAME>
+
+<NAME start="17" local_name_id="1" end="32" id="114947_8" all_names="CITY OF CHICAGO" >City of Chicago</NAME>
+
+<NAME end="75" start="43" all_names="ENVIRONMENTAL DEFENSE FUND" party2_of="114947_4" local_name_id="2" id="114947_6" >Environmental Defense Fund et al</NAME>
+
+<ORGANIZATION start="43" end="69" id="114947_9" >Environmental Defense Fund</ORGANIZATION>
+
+<DOCKET end="92" entry_type="docket" lookup_key="u.s._510_961" id1="114942" start="85" citation_global_level_id="732.002" line="1" id="114947_3" citation_local_level_id="0" >92-1639</DOCKET>
+
+<ORGANIZATION start="98" end="128" id="114947_10" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="134" end="150" id="114947_7" >November 8, 1993</DATE>
+
+<NAME start="172" local_name_id="3" end="189" id="114947_11" all_names="APPEAL FROM THE C" >Appeal from the C</NAME>
+
+<NAME start="198" local_name_id="4" end="201" id="114947_12" all_names="CIR" >Cir</NAME>
+
+<CITATION end="237" reporter="U. S." entry_type="standard_key" no_current_file="True" lookup_key="u.s._509_903" id1="Dummy_File_16068" volume="509" start="224" page_number="903" standard_reporter="U.S." citation_global_level_id="79918.001" line="1" id="114947_2" citation_local_level_id="2" >509 U. S. 903</CITATION>
+
+<PROFESSION start="265" end="296" id="114947_18" >Motion of the Solicitor General</PROFESSION>
+
+<LEGAL_ROLE start="430" end="441" plural="True" id="114947_19" >petitioners</LEGAL_ROLE>
+
+<LEGAL_ROLE start="458" end="469" plural="True" id="114947_20" >respondents</LEGAL_ROLE>
+
+<PROFESSION start="494" end="511" id="114947_21" >Solicitor General</PROFESSION>
+
+<RELATION theme="114947_1" includes_docket_string="92-1639" includes_docket="114947_3" theme_string="510 U.S. 961" gram_type="apposition" relation_type="asymmetric" id="114947_17" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 961" X_vs_Y_string="City of Chicago et al. v. Environmental Defense Fund et al" standard_case="114947_1" X_vs_Y="114947_4" gram_type="pre_nom" relation_type="equivalence" id="114947_13" ></RELATION>
+
+<RELATION theme="114947_4" includes_docket_string="92-1639" includes_docket="114947_3" theme_string="City of Chicago et al. v. Environmental Defense Fund et al" gram_type="apposition" relation_type="asymmetric" id="114947_16" ></RELATION>
+
+<RELATION theme="114947_4" party1="114947_5" party1_string="City of Chicago et al." theme_string="City of Chicago et al. v. Environmental Defense Fund et al" gram_type="infix" relation_type="asymmetric" id="114947_14" ></RELATION>
+
+<RELATION party2="114947_6" theme="114947_4" theme_string="City of Chicago et al. v. Environmental Defense Fund et al" party2_string="Environmental Defense Fund et al" gram_type="infix" relation_type="asymmetric" id="114947_15" ></RELATION>
+

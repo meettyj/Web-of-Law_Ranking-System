@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['graysonsecretary#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_824" id1="131443" volume="540" start="0" page_number="824" standard_reporter="U.S." citation_global_level_id="4134.002" line="1" id="131452_1" citation_local_level_id="0" >540 U.S. 824</CITATION>
+
+<CITATION party2="SNOW, SECRETARY OF THE TREASURY" party1="GRAYSON" citation_global_level_id="31073.001" party2_short="SECRETARY" line="1" id="131452_3" alternative_keys="['u.s._540_824']" end="59" entry_type="party_key" lookup_key="graysonsecretary#1" id1="131452" start="17" party1_short="GRAYSON" citation_local_level_id="1" >GRAYSON v. SNOW, SECRETARY OF THE TREASURY</CITATION>
+
+<NAME end="24" start="17" party1_of="131452_3" all_names="GRAYSON" local_name_id="1" id="131452_4" >GRAYSON</NAME>
+
+<NAME end="59" start="28" all_names="SNOW SECRETARY OF THE TREASURY" party2_of="131452_3" local_name_id="2" id="131452_5" >SNOW, SECRETARY OF THE TREASURY</NAME>
+
+<DOCKET end="76" entry_type="docket" lookup_key="u.s._540_824" id1="131443" start="69" citation_global_level_id="4134.002" line="1" id="131452_2" citation_local_level_id="0" >02-1837</DOCKET>
+
+<DATE start="72" end="76" id="131452_6" >1837</DATE>
+
+<DATE start="118" end="133" id="131452_7" >October 6, 2003</DATE>
+
+<NAME start="211" local_name_id="3" end="221" id="131452_15" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="259" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_308_808" id1="Dummy_File_70259" volume="308" start="246" page_number="808" standard_reporter="F.3D" citation_global_level_id="134109.001" line="3" id="131452_14" citation_local_level_id="2" >308 F. 3d 808</CITATION>
+
+<RELATION theme="131452_1" includes_docket_string="02-1837" includes_docket="131452_2" theme_string="540 U.S. 824" gram_type="apposition" relation_type="asymmetric" id="131452_12" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 824" X_vs_Y_string="GRAYSON v. SNOW, SECRETARY OF THE TREASURY" standard_case="131452_1" X_vs_Y="131452_3" gram_type="pre_nom" relation_type="equivalence" id="131452_8" ></RELATION>
+
+<RELATION theme="131452_3" includes_docket_string="02-1837" includes_docket="131452_2" theme_string="GRAYSON v. SNOW, SECRETARY OF THE TREASURY" gram_type="apposition" relation_type="asymmetric" id="131452_11" ></RELATION>
+
+<RELATION party2="131452_5" theme="131452_3" theme_string="GRAYSON v. SNOW, SECRETARY OF THE TREASURY" party2_string="SNOW, SECRETARY OF THE TREASURY" gram_type="infix" relation_type="asymmetric" id="131452_10" ></RELATION>
+
+<RELATION theme="131452_3" party1="131452_4" party1_string="GRAYSON" theme_string="GRAYSON v. SNOW, SECRETARY OF THE TREASURY" gram_type="infix" relation_type="asymmetric" id="131452_9" ></RELATION>
+
+<RELATION at_date_string="1837" theme="131452_2" at_date="131452_6" theme_string="02-1837" gram_type="infix" relation_type="asymmetric" id="131452_13" ></RELATION>
+

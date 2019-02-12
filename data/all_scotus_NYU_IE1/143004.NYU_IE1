@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['shankvirginia#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_909" id1="143006" volume="544" start="0" page_number="909" standard_reporter="U.S." citation_global_level_id="5096.002" line="1" id="143004_1" citation_local_level_id="0" >544 U.S. 909</CITATION>
+
+<CITATION party2="VIRGINIA" party1="SHANK" citation_global_level_id="56084.001" party2_short="VIRGINIA" line="2" id="143004_3" alternative_keys="['u.s._544_909']" end="34" entry_type="party_key" lookup_key="shankvirginia#1" id1="143004" start="17" party1_short="SHANK" citation_local_level_id="1" >SHANK v. VIRGINIA</CITATION>
+
+<NAME end="22" start="17" party1_of="143004_3" all_names="SHANK" local_name_id="1" id="143004_4" >SHANK</NAME>
+
+<NAME end="34" start="26" all_names="VIRGINIA" party2_of="143004_3" local_name_id="2" id="143004_5" >VIRGINIA</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="shankvirginia#1" id1="143004" start="44" citation_global_level_id="56084.001" line="2" id="143004_2" citation_local_level_id="1" >04-8021</DOCKET>
+
+<ORGANIZATION start="57" end="87" id="143004_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="93" citation_global_level_id="56084.001" end="106" id="143004_10" citation_local_level_id="1" >March 7, 2005</DATE>
+
+<NAME start="128" local_name_id="3" end="131" id="143004_13" all_names="SUP" >Sup</NAME>
+
+<RELATION theme="143004_3" includes_docket_string="04-8021" includes_docket="143004_2" theme_string="SHANK v. VIRGINIA" gram_type="apposition" relation_type="asymmetric" id="143004_8" ></RELATION>
+
+<RELATION theme="143004_3" party1="143004_4" party1_string="SHANK" theme_string="SHANK v. VIRGINIA" gram_type="infix" relation_type="asymmetric" id="143004_6" ></RELATION>
+
+<RELATION party2="143004_5" theme="143004_3" theme_string="SHANK v. VIRGINIA" party2_string="VIRGINIA" gram_type="infix" relation_type="asymmetric" id="143004_7" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 909" X_vs_Y_string="SHANK v. VIRGINIA" standard_case="143004_1" X_vs_Y="143004_3" gram_type="multi_line" relation_type="equivalence" id="143004_11" ></RELATION>
+
+<RELATION at_date_string="March 7, 2005" theme="143004_3" at_date="143004_10" theme_string="SHANK v. VIRGINIA" gram_type="multi_line" relation_type="asymmetric" id="143004_12" ></RELATION>
+

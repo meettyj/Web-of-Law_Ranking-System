@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['harkerindustries#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_886" id1="114002" volume="510" start="0" page_number="886" standard_reporter="U.S." citation_global_level_id="18.002" line="1" id="114004_1" citation_local_level_id="0" >510 U.S. 886</CITATION>
+
+<CITATION party2="State Use Industries et al" party1="Harker" citation_global_level_id="62365.001" party2_short="Industries" line="1" id="114004_3" alternative_keys="['u.s._510_886']" end="53" entry_type="party_key" lookup_key="harkerindustries#1" id1="114004" start="17" party1_short="Harker" citation_local_level_id="1" >Harker v. State Use Industries et al</CITATION>
+
+<NAME end="23" start="17" party1_of="114004_3" all_names="HARKER" local_name_id="1" id="114004_4" >Harker</NAME>
+
+<NAME end="53" start="27" all_names="STATE USE INDUSTRIES" party2_of="114004_3" local_name_id="2" id="114004_5" >State Use Industries et al</NAME>
+
+<DOCKET end="70" entry_type="docket" lookup_key="u.s._510_886" id1="114002" start="63" citation_global_level_id="18.002" line="1" id="114004_2" citation_local_level_id="0" >93-5298</DOCKET>
+
+<DATE start="112" end="127" id="114004_6" >October 4, 1993</DATE>
+
+<NAME start="205" local_name_id="3" end="215" id="114004_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="253" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_990_131" id1="Dummy_File_70634" volume="990" start="240" page_number="131" standard_reporter="F.2D" citation_global_level_id="134484.001" line="3" id="114004_12" citation_local_level_id="2" >990 F. 2d 131</CITATION>
+
+<RELATION theme="114004_1" includes_docket_string="93-5298" includes_docket="114004_2" theme_string="510 U.S. 886" gram_type="apposition" relation_type="asymmetric" id="114004_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 886" X_vs_Y_string="Harker v. State Use Industries et al" standard_case="114004_1" X_vs_Y="114004_3" gram_type="pre_nom" relation_type="equivalence" id="114004_7" ></RELATION>
+
+<RELATION theme="114004_3" includes_docket_string="93-5298" includes_docket="114004_2" theme_string="Harker v. State Use Industries et al" gram_type="apposition" relation_type="asymmetric" id="114004_10" ></RELATION>
+
+<RELATION theme="114004_3" party1="114004_4" party1_string="Harker" theme_string="Harker v. State Use Industries et al" gram_type="infix" relation_type="asymmetric" id="114004_8" ></RELATION>
+
+<RELATION party2="114004_5" theme="114004_3" theme_string="Harker v. State Use Industries et al" party2_string="State Use Industries et al" gram_type="infix" relation_type="asymmetric" id="114004_9" ></RELATION>
+

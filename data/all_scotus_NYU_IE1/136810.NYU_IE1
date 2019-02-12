@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['emersonstates#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_1081" id1="136807" volume="541" start="0" page_number="1081" standard_reporter="U.S." citation_global_level_id="535.002" line="1" id="136810_1" citation_local_level_id="0" >541 U.S. 1081</CITATION>
+
+<CITATION party2="UNITED STATES" party1="EMERSON" citation_global_level_id="58134.001" party2_short="STATES" line="2" id="136810_2" alternative_keys="['u.s._541_1081']" end="42" entry_type="party_key" lookup_key="emersonstates#2" id1="121234" start="18" party1_short="EMERSON" citation_local_level_id="1" >EMERSON v. UNITED STATES</CITATION>
+
+<NAME end="25" start="18" party1_of="136810_2" all_names="EMERSON" local_name_id="1" id="136810_3" >EMERSON</NAME>
+
+<NAME end="42" start="29" all_names="UNITED STATES" party2_of="136810_2" local_name_id="2" id="136810_4" >UNITED STATES</NAME>
+
+<DOCKET end="60" entry_type="docket" lookup_key="emersonstates#2" id1="121234" start="52" citation_global_level_id="58134.001" line="3" id="136810_7" citation_local_level_id="1" >03-10042</DOCKET>
+
+<ORGANIZATION start="66" end="96" id="136810_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="102" citation_global_level_id="58134.001" end="114" id="136810_9" citation_local_level_id="1" >June 1, 2004</DATE>
+
+<NAME start="146" local_name_id="3" end="149" id="136810_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="136810_2" party1="136810_3" party1_string="EMERSON" theme_string="EMERSON v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="136810_5" ></RELATION>
+
+<RELATION party2="136810_4" theme="136810_2" theme_string="EMERSON v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="136810_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 1081" X_vs_Y_string="EMERSON v. UNITED STATES" standard_case="136810_1" X_vs_Y="136810_2" gram_type="multi_line" relation_type="equivalence" id="136810_10" ></RELATION>
+
+<RELATION at_date_string="June 1, 2004" theme="136810_2" at_date="136810_9" theme_string="EMERSON v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="136810_12" ></RELATION>
+
+<RELATION theme="136810_2" includes_docket_string="03-10042" includes_docket="136810_7" theme_string="EMERSON v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="136810_11" ></RELATION>
+

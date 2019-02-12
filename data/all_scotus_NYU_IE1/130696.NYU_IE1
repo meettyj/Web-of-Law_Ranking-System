@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['drywallcommissioner#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_944" id1="130683" volume="539" start="0" page_number="944" standard_reporter="U.S." citation_global_level_id="2673.002" line="1" id="130696_1" citation_local_level_id="0" >539 U.S. 944</CITATION>
+
+<CITATION party2="Commissioner of Internal Revenue" party1="Yeagle Drywall Co., Inc." citation_global_level_id="2673.005" party2_short="Commissioner" line="1" id="130696_3" alternative_keys="['u.s._539_944']" end="77" entry_type="party_key" lookup_key="drywallcommissioner#2" id1="130683" start="17" party1_short="Drywall" citation_local_level_id="1" >Yeagle Drywall Co., Inc. v. Commissioner of Internal Revenue</CITATION>
+
+<NAME end="41" start="17" party1_of="130696_3" all_names="YEAGLE DRYWALL CO INC" local_name_id="1" id="130696_4" >Yeagle Drywall Co., Inc.</NAME>
+
+<ORGANIZATION start="17" end="40" id="130696_7" >Yeagle Drywall Co., Inc</ORGANIZATION>
+
+<NAME end="77" start="45" all_names="COMMISSIONER OF INTERNAL REVENUE" party2_of="130696_3" local_name_id="2" id="130696_5" >Commissioner of Internal Revenue</NAME>
+
+<DOCKET end="94" entry_type="docket" lookup_key="u.s._539_944" id1="130683" start="87" citation_global_level_id="2673.002" line="1" id="130696_2" citation_local_level_id="0" >02-1682</DOCKET>
+
+<DATE start="136" end="149" id="130696_6" >June 23, 2003</DATE>
+
+<NAME start="226" local_name_id="3" end="236" id="130696_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="130696_1" includes_docket_string="02-1682" includes_docket="130696_2" theme_string="539 U.S. 944" gram_type="apposition" relation_type="asymmetric" id="130696_12" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 944" X_vs_Y_string="Yeagle Drywall Co., Inc. v. Commissioner of Internal Revenue" standard_case="130696_1" X_vs_Y="130696_3" gram_type="pre_nom" relation_type="equivalence" id="130696_8" ></RELATION>
+
+<RELATION theme="130696_3" includes_docket_string="02-1682" includes_docket="130696_2" theme_string="Yeagle Drywall Co., Inc. v. Commissioner of Internal Revenue" gram_type="apposition" relation_type="asymmetric" id="130696_11" ></RELATION>
+
+<RELATION party2="130696_5" theme="130696_3" theme_string="Yeagle Drywall Co., Inc. v. Commissioner of Internal Revenue" party2_string="Commissioner of Internal Revenue" gram_type="infix" relation_type="asymmetric" id="130696_10" ></RELATION>
+
+<RELATION theme="130696_3" party1="130696_4" party1_string="Yeagle Drywall Co., Inc." theme_string="Yeagle Drywall Co., Inc. v. Commissioner of Internal Revenue" gram_type="infix" relation_type="asymmetric" id="130696_9" ></RELATION>
+

@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['cartercarolina#3']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1083" id1="125845" volume="537" start="0" page_number="1083" standard_reporter="U.S." citation_global_level_id="183.002" line="1" id="125849_1" citation_local_level_id="0" >537 U.S. 1083</CITATION>
+
+<CITATION party2="NORTH CAROLINA" party1="CARTER" citation_global_level_id="45287.001" party2_short="CAROLINA" line="1" id="125849_4" alternative_keys="['u.s._537_1083']" end="42" entry_type="party_key" lookup_key="cartercarolina#3" id1="141034" start="18" party1_short="CARTER" citation_local_level_id="1" >CARTER v. NORTH CAROLINA</CITATION>
+
+<NAME end="24" start="18" party1_of="125849_4" all_names="CARTER" local_name_id="1" id="125849_5" >CARTER</NAME>
+
+<NAME end="42" start="28" all_names="NORTH CAROLINA" party2_of="125849_4" local_name_id="2" id="125849_6" >NORTH CAROLINA</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="u.s._537_1083" id1="125845" start="52" citation_global_level_id="183.002" line="1" id="125849_3" citation_local_level_id="0" >02-7864</DOCKET>
+
+<CITATION end="67" reporter="A" entry_type="standard_key" no_current_file="True" lookup_key="a._02_478" id1="Dummy_File_172243" volume="02" start="61" page_number="478" standard_reporter="A." citation_global_level_id="236093.001" line="1" id="125849_2" citation_local_level_id="2" >02A478</CITATION>
+
+<DATE start="110" end="126" id="125849_7" >December 9, 2002</DATE>
+
+<NAME start="224" local_name_id="3" end="227" id="125849_15" all_names="SUP" >Sup</NAME>
+
+<CITATION end="417" reporter="N. C." entry_type="standard_key" no_current_file="True" lookup_key="n.c._356_617" id1="Dummy_File_172244" volume="356" start="404" page_number="617" standard_reporter="N.C." citation_global_level_id="236094.001" line="3" id="125849_13" citation_local_level_id="3" >356 N. C. 617</CITATION>
+
+<CITATION end="435" reporter="S. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="s.e.2d_574_468" id1="Dummy_File_172245" volume="574" start="419" page_number="468" standard_reporter="S.E.2D" citation_global_level_id="236095.001" line="3" id="125849_14" citation_local_level_id="4" >574 S. E. 2d 468</CITATION>
+
+<RELATION theme="125849_1" includes_docket_string="02-7864" includes_docket="125849_3" theme_string="537 U.S. 1083" gram_type="apposition" relation_type="asymmetric" id="125849_12" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1083" X_vs_Y_string="CARTER v. NORTH CAROLINA" standard_case="125849_1" X_vs_Y="125849_4" gram_type="pre_nom" relation_type="equivalence" id="125849_8" ></RELATION>
+
+<RELATION theme="125849_4" includes_docket_string="02-7864" includes_docket="125849_3" theme_string="CARTER v. NORTH CAROLINA" gram_type="apposition" relation_type="asymmetric" id="125849_11" ></RELATION>
+
+<RELATION party2="125849_6" theme="125849_4" theme_string="CARTER v. NORTH CAROLINA" party2_string="NORTH CAROLINA" gram_type="infix" relation_type="asymmetric" id="125849_10" ></RELATION>
+
+<RELATION theme="125849_4" party1="125849_5" party1_string="CARTER" theme_string="CARTER v. NORTH CAROLINA" gram_type="infix" relation_type="asymmetric" id="125849_9" ></RELATION>
+

@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['mooredepartment#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_832" id1="113269" volume="510" start="0" page_number="832" standard_reporter="U.S." citation_global_level_id="312.002" line="1" id="113280_1" citation_local_level_id="0" >510 U.S. 832</CITATION>
+
+<CITATION party2="Department of the Treasury" party1="Moore" citation_global_level_id="1871.001" party2_short="Department" line="1" id="113280_3" alternative_keys="['u.s._510_832']" end="52" entry_type="party_key" lookup_key="mooredepartment#2" id1="113280" start="17" party1_short="Moore" citation_local_level_id="1" >Moore v. Department of the Treasury</CITATION>
+
+<NAME end="22" start="17" party1_of="113280_3" all_names="MOORE" local_name_id="1" id="113280_4" >Moore</NAME>
+
+<NAME end="52" start="26" all_names="DEPARTMENT OF THE TREASURY" party2_of="113280_3" local_name_id="2" id="113280_5" >Department of the Treasury</NAME>
+
+<DOCKET end="69" entry_type="docket" lookup_key="u.s._510_832" id1="113269" start="62" citation_global_level_id="312.002" line="1" id="113280_2" citation_local_level_id="0" >92-8625</DOCKET>
+
+<DATE start="111" end="126" id="113280_6" >October 4, 1993</DATE>
+
+<NAME start="205" local_name_id="3" end="215" id="113280_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="113280_1" includes_docket_string="92-8625" includes_docket="113280_2" theme_string="510 U.S. 832" gram_type="apposition" relation_type="asymmetric" id="113280_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 832" X_vs_Y_string="Moore v. Department of the Treasury" standard_case="113280_1" X_vs_Y="113280_3" gram_type="pre_nom" relation_type="equivalence" id="113280_7" ></RELATION>
+
+<RELATION theme="113280_3" includes_docket_string="92-8625" includes_docket="113280_2" theme_string="Moore v. Department of the Treasury" gram_type="apposition" relation_type="asymmetric" id="113280_10" ></RELATION>
+
+<RELATION theme="113280_3" party1="113280_4" party1_string="Moore" theme_string="Moore v. Department of the Treasury" gram_type="infix" relation_type="asymmetric" id="113280_8" ></RELATION>
+
+<RELATION party2="113280_5" theme="113280_3" theme_string="Moore v. Department of the Treasury" party2_string="Department of the Treasury" gram_type="infix" relation_type="asymmetric" id="113280_9" ></RELATION>
+

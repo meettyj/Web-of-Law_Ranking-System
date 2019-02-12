@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['newmanrowley#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1178" id1="142645" volume="543" start="0" page_number="1178" standard_reporter="U.S." citation_global_level_id="1385.002" line="1" id="142645_1" citation_local_level_id="0" >543 U.S. 1178</CITATION>
+
+<CITATION party2="ROWLEY, SUPERINTENDENT, MISSOURI EASTERN CORRECTIONAL CENTER" party1="NEWMAN" citation_global_level_id="1385.005" party2_short="ROWLEY" line="2" id="142645_2" alternative_keys="['u.s._543_1178']" end="88" entry_type="party_key" lookup_key="newmanrowley#1" id1="142645" start="18" party1_short="NEWMAN" citation_local_level_id="1" >NEWMAN v. ROWLEY, SUPERINTENDENT, MISSOURI EASTERN CORRECTIONAL CENTER</CITATION>
+
+<NAME end="24" start="18" party1_of="142645_2" all_names="NEWMAN" local_name_id="1" id="142645_3" >NEWMAN</NAME>
+
+<NAME end="88" start="28" all_names="ROWLEY SUPERINTENDENT MISSOURI EASTERN CORRECTIONAL CENTER" party2_of="142645_2" local_name_id="2" id="142645_4" >ROWLEY, SUPERINTENDENT, MISSOURI EASTERN CORRECTIONAL CENTER</NAME>
+
+<DOCKET alternative_keys="['u.s._543_1178']" end="105" entry_type="docket" lookup_key="newmanrowley#1" id1="142645" start="98" citation_global_level_id="1385.005" line="3" id="142645_7" citation_local_level_id="1" >04-5951</DOCKET>
+
+<ORGANIZATION start="111" end="141" id="142645_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="147" citation_global_level_id="1385.005" end="164" id="142645_9" citation_local_level_id="1" >February 22, 2005</DATE>
+
+<NAME start="186" local_name_id="3" end="195" id="142645_13" all_names="PETITIONS" >Petitions</NAME>
+
+<RELATION theme="142645_2" party1="142645_3" party1_string="NEWMAN" theme_string="NEWMAN v. ROWLEY, SUPERINTENDENT, MISSOURI EASTERN CORRECTIONAL CENTER" gram_type="infix" relation_type="asymmetric" id="142645_5" ></RELATION>
+
+<RELATION party2="142645_4" theme="142645_2" theme_string="NEWMAN v. ROWLEY, SUPERINTENDENT, MISSOURI EASTERN CORRECTIONAL CENTER" party2_string="ROWLEY, SUPERINTENDENT, MISSOURI EASTERN CORRECTIONAL CENTER" gram_type="infix" relation_type="asymmetric" id="142645_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1178" X_vs_Y_string="NEWMAN v. ROWLEY, SUPERINTENDENT, MISSOURI EASTERN CORRECTIONAL CENTER" standard_case="142645_1" X_vs_Y="142645_2" gram_type="multi_line" relation_type="equivalence" id="142645_10" ></RELATION>
+
+<RELATION at_date_string="February 22, 2005" theme="142645_2" at_date="142645_9" theme_string="NEWMAN v. ROWLEY, SUPERINTENDENT, MISSOURI EASTERN CORRECTIONAL CENTER" gram_type="multi_line" relation_type="asymmetric" id="142645_12" ></RELATION>
+
+<RELATION theme="142645_2" includes_docket_string="04-5951" includes_docket="142645_7" theme_string="NEWMAN v. ROWLEY, SUPERINTENDENT, MISSOURI EASTERN CORRECTIONAL CENTER" gram_type="multi_line" relation_type="asymmetric" id="142645_11" ></RELATION>
+

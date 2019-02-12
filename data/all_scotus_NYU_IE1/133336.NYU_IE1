@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['darksmullin#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_968" id1="133329" volume="540" start="0" page_number="968" standard_reporter="U.S." citation_global_level_id="2807.002" line="1" id="133336_1" citation_local_level_id="0" >540 U.S. 968</CITATION>
+
+<CITATION party2="MULLIN, WARDEN" party1="DARKS" citation_global_level_id="2807.004" party2_short="MULLIN" line="1" id="133336_3" alternative_keys="['u.s._540_968']" end="40" entry_type="party_key" lookup_key="darksmullin#1" id1="133329" start="17" party1_short="DARKS" citation_local_level_id="1" >DARKS v. MULLIN, WARDEN</CITATION>
+
+<NAME end="22" start="17" party1_of="133336_3" all_names="DARKS" local_name_id="1" id="133336_4" >DARKS</NAME>
+
+<NAME end="40" start="26" all_names="MULLIN WARDEN" party2_of="133336_3" local_name_id="2" id="133336_5" >MULLIN, WARDEN</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._540_968" id1="133329" start="50" citation_global_level_id="2807.002" line="1" id="133336_2" citation_local_level_id="0" >03-5873</DOCKET>
+
+<DATE start="99" end="115" id="133336_6" >October 20, 2003</DATE>
+
+<NAME start="194" local_name_id="3" end="204" id="133336_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="243" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_327_1001" id1="Dummy_File_73715" volume="327" start="229" page_number="1001" standard_reporter="F.3D" citation_global_level_id="137565.001" line="3" id="133336_12" citation_local_level_id="2" >327 F. 3d 1001</CITATION>
+
+<RELATION theme="133336_1" includes_docket_string="03-5873" includes_docket="133336_2" theme_string="540 U.S. 968" gram_type="apposition" relation_type="asymmetric" id="133336_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 968" X_vs_Y_string="DARKS v. MULLIN, WARDEN" standard_case="133336_1" X_vs_Y="133336_3" gram_type="pre_nom" relation_type="equivalence" id="133336_7" ></RELATION>
+
+<RELATION theme="133336_3" includes_docket_string="03-5873" includes_docket="133336_2" theme_string="DARKS v. MULLIN, WARDEN" gram_type="apposition" relation_type="asymmetric" id="133336_10" ></RELATION>
+
+<RELATION theme="133336_3" party1="133336_4" party1_string="DARKS" theme_string="DARKS v. MULLIN, WARDEN" gram_type="infix" relation_type="asymmetric" id="133336_8" ></RELATION>
+
+<RELATION party2="133336_5" theme="133336_3" theme_string="DARKS v. MULLIN, WARDEN" party2_string="MULLIN, WARDEN" gram_type="infix" relation_type="asymmetric" id="133336_9" ></RELATION>
+

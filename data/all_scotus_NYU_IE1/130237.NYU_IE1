@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['purnellillinois#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_907" id1="130248" volume="539" start="0" page_number="907" standard_reporter="U.S." citation_global_level_id="15620.002" line="1" id="130237_1" citation_local_level_id="0" >539 U.S. 907</CITATION>
+
+<CITATION party2="Illinois" party1="Purnell" citation_global_level_id="32858.001" party2_short="Illinois" line="1" id="130237_3" alternative_keys="['u.s._539_907']" end="36" entry_type="party_key" lookup_key="purnellillinois#1" id1="130237" start="17" party1_short="Purnell" citation_local_level_id="1" >Purnell v. Illinois</CITATION>
+
+<NAME end="24" start="17" party1_of="130237_3" all_names="PURNELL" local_name_id="1" id="130237_4" >Purnell</NAME>
+
+<NAME end="36" start="28" all_names="ILLINOIS" party2_of="130237_3" local_name_id="2" id="130237_5" >Illinois</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="u.s._539_907" id1="130248" start="46" citation_global_level_id="15620.002" line="1" id="130237_2" citation_local_level_id="0" >02-10256</DOCKET>
+
+<DATE start="96" end="108" id="130237_6" >June 2, 2003</DATE>
+
+<NAME start="195" local_name_id="3" end="205" id="130237_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="130237_1" includes_docket_string="02-10256" includes_docket="130237_2" theme_string="539 U.S. 907" gram_type="apposition" relation_type="asymmetric" id="130237_11" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 907" X_vs_Y_string="Purnell v. Illinois" standard_case="130237_1" X_vs_Y="130237_3" gram_type="pre_nom" relation_type="equivalence" id="130237_7" ></RELATION>
+
+<RELATION theme="130237_3" includes_docket_string="02-10256" includes_docket="130237_2" theme_string="Purnell v. Illinois" gram_type="apposition" relation_type="asymmetric" id="130237_10" ></RELATION>
+
+<RELATION theme="130237_3" party1="130237_4" party1_string="Purnell" theme_string="Purnell v. Illinois" gram_type="infix" relation_type="asymmetric" id="130237_8" ></RELATION>
+
+<RELATION party2="130237_5" theme="130237_3" theme_string="Purnell v. Illinois" party2_string="Illinois" gram_type="infix" relation_type="asymmetric" id="130237_9" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['brooksalabama#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_932" id1="128298" volume="538" start="0" page_number="932" standard_reporter="U.S." citation_global_level_id="3460.002" line="1" id="128302_1" citation_local_level_id="0" >538 U.S. 932</CITATION>
+
+<CITATION party2="ALABAMA" party1="BROOKS" citation_global_level_id="62832.001" party2_short="ALABAMA" line="1" id="128302_3" alternative_keys="['u.s._538_932']" end="34" entry_type="party_key" lookup_key="brooksalabama#2" id1="3177196" start="17" party1_short="BROOKS" citation_local_level_id="1" >BROOKS v. ALABAMA</CITATION>
+
+<NAME end="23" start="17" party1_of="128302_3" all_names="BROOKS" local_name_id="1" id="128302_4" >BROOKS</NAME>
+
+<NAME end="34" start="27" all_names="ALABAMA" party2_of="128302_3" local_name_id="2" id="128302_5" >ALABAMA</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="u.s._538_932" id1="128298" start="44" citation_global_level_id="3460.002" line="1" id="128302_2" citation_local_level_id="0" >02-8639</DOCKET>
+
+<DATE start="93" end="107" id="128302_6" >March 24, 2003</DATE>
+
+<NAME start="210" local_name_id="3" end="212" id="128302_13" all_names="CT" >Ct</NAME>
+
+<CITATION end="279" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_845_849" id1="Dummy_File_149983" volume="845" start="265" page_number="849" standard_reporter="SO.2D" citation_global_level_id="213833.001" line="3" id="128302_12" citation_local_level_id="2" >845 So. 2d 849</CITATION>
+
+<RELATION theme="128302_1" includes_docket_string="02-8639" includes_docket="128302_2" theme_string="538 U.S. 932" gram_type="apposition" relation_type="asymmetric" id="128302_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 932" X_vs_Y_string="BROOKS v. ALABAMA" standard_case="128302_1" X_vs_Y="128302_3" gram_type="pre_nom" relation_type="equivalence" id="128302_7" ></RELATION>
+
+<RELATION theme="128302_3" includes_docket_string="02-8639" includes_docket="128302_2" theme_string="BROOKS v. ALABAMA" gram_type="apposition" relation_type="asymmetric" id="128302_10" ></RELATION>
+
+<RELATION theme="128302_3" party1="128302_4" party1_string="BROOKS" theme_string="BROOKS v. ALABAMA" gram_type="infix" relation_type="asymmetric" id="128302_8" ></RELATION>
+
+<RELATION party2="128302_5" theme="128302_3" theme_string="BROOKS v. ALABAMA" party2_string="ALABAMA" gram_type="infix" relation_type="asymmetric" id="128302_9" ></RELATION>
+

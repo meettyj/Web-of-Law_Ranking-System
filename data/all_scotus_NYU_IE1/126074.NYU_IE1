@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['insurancecampbell#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1102" id1="126069" volume="537" start="0" page_number="1102" standard_reporter="U.S." citation_global_level_id="3116.002" line="1" id="126074_1" citation_local_level_id="0" >537 U.S. 1102</CITATION>
+
+<CITATION party2="CAMPBELL ET AL" party1="STATE FARM MUTUAL AUTOMOBILE INSURANCE CO." citation_global_level_id="48972.001" party2_short="CAMPBELL" line="1" id="126074_3" alternative_keys="['u.s._537_1102']" end="78" entry_type="party_key" lookup_key="insurancecampbell#2" id1="138699" start="18" party1_short="INSURANCE" citation_local_level_id="1" >STATE FARM MUTUAL AUTOMOBILE INSURANCE CO. v. CAMPBELL ET AL</CITATION>
+
+<NAME end="60" start="18" party1_of="126074_3" all_names="STATE FARM MUTUAL AUTOMOBILE INSURANCE CO" local_name_id="1" id="126074_4" >STATE FARM MUTUAL AUTOMOBILE INSURANCE CO.</NAME>
+
+<ORGANIZATION start="18" end="59" id="126074_7" >STATE FARM MUTUAL AUTOMOBILE INSURANCE CO</ORGANIZATION>
+
+<NAME end="78" start="64" all_names="CAMPBELL" party2_of="126074_3" local_name_id="2" id="126074_5" >CAMPBELL ET AL</NAME>
+
+<DOCKET end="95" entry_type="docket" lookup_key="u.s._537_1102" id1="126069" start="88" citation_global_level_id="3116.002" line="1" id="126074_2" citation_local_level_id="0" >01-1289</DOCKET>
+
+<DATE start="137" end="153" id="126074_6" >January 13, 2003</DATE>
+
+<NAME start="241" local_name_id="3" end="244" id="126074_14" all_names="SUP" >Sup</NAME>
+
+<CITATION end="289" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1111" id1="120995" volume="535" start="276" page_number="1111" standard_reporter="U.S." citation_global_level_id="2686.002" line="3" id="126074_13" citation_local_level_id="2" >535 U.S. 1111</CITATION>
+
+<RELATION theme="126074_1" includes_docket_string="01-1289" includes_docket="126074_2" theme_string="537 U.S. 1102" gram_type="apposition" relation_type="asymmetric" id="126074_12" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1102" X_vs_Y_string="STATE FARM MUTUAL AUTOMOBILE INSURANCE CO. v. CAMPBELL ET AL" standard_case="126074_1" X_vs_Y="126074_3" gram_type="pre_nom" relation_type="equivalence" id="126074_8" ></RELATION>
+
+<RELATION theme="126074_3" includes_docket_string="01-1289" includes_docket="126074_2" theme_string="STATE FARM MUTUAL AUTOMOBILE INSURANCE CO. v. CAMPBELL ET AL" gram_type="apposition" relation_type="asymmetric" id="126074_11" ></RELATION>
+
+<RELATION party2="126074_5" theme="126074_3" theme_string="STATE FARM MUTUAL AUTOMOBILE INSURANCE CO. v. CAMPBELL ET AL" party2_string="CAMPBELL ET AL" gram_type="infix" relation_type="asymmetric" id="126074_10" ></RELATION>
+
+<RELATION theme="126074_3" party1="126074_4" party1_string="STATE FARM MUTUAL AUTOMOBILE INSURANCE CO." theme_string="STATE FARM MUTUAL AUTOMOBILE INSURANCE CO. v. CAMPBELL ET AL" gram_type="infix" relation_type="asymmetric" id="126074_9" ></RELATION>
+

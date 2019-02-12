@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['boldtnewton#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1173" id1="142581" volume="543" start="0" page_number="1173" standard_reporter="U.S." citation_global_level_id="8386.002" line="1" id="142569_1" citation_local_level_id="0" >543 U.S. 1173</CITATION>
+
+<CITATION party2="NEWTON" party1="BOLDT" citation_global_level_id="17089.001" party2_short="NEWTON" line="2" id="142569_2" alternative_keys="['u.s._543_1173']" end="33" entry_type="party_key" lookup_key="boldtnewton#1" id1="142569" start="18" party1_short="BOLDT" citation_local_level_id="1" >BOLDT v. NEWTON</CITATION>
+
+<NAME end="23" start="18" party1_of="142569_2" all_names="BOLDT" local_name_id="1" id="142569_3" >BOLDT</NAME>
+
+<NAME end="33" start="27" all_names="NEWTON" party2_of="142569_2" local_name_id="2" id="142569_4" >NEWTON</NAME>
+
+<DOCKET end="50" entry_type="docket" lookup_key="boldtnewton#1" id1="142569" start="43" citation_global_level_id="17089.001" line="3" id="142569_7" citation_local_level_id="1" >04-8083</DOCKET>
+
+<ORGANIZATION start="56" end="86" id="142569_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="92" citation_global_level_id="17089.001" end="109" id="142569_9" citation_local_level_id="1" >February 22, 2005</DATE>
+
+<NAME start="131" local_name_id="3" end="133" id="142569_14" all_names="CT" >Ct</NAME>
+
+<CITATION end="210" reporter="P. 3d" entry_type="standard_key" no_current_file="True" lookup_key="p.3d_86_49" id1="Dummy_File_237927" volume="86" start="199" page_number="49" standard_reporter="P.3D" citation_global_level_id="301777.001" line="8" id="142569_13" citation_local_level_id="2" >86 P. 3d 49</CITATION>
+
+<RELATION theme="142569_2" party1="142569_3" party1_string="BOLDT" theme_string="BOLDT v. NEWTON" gram_type="infix" relation_type="asymmetric" id="142569_5" ></RELATION>
+
+<RELATION party2="142569_4" theme="142569_2" theme_string="BOLDT v. NEWTON" party2_string="NEWTON" gram_type="infix" relation_type="asymmetric" id="142569_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1173" X_vs_Y_string="BOLDT v. NEWTON" standard_case="142569_1" X_vs_Y="142569_2" gram_type="multi_line" relation_type="equivalence" id="142569_10" ></RELATION>
+
+<RELATION at_date_string="February 22, 2005" theme="142569_2" at_date="142569_9" theme_string="BOLDT v. NEWTON" gram_type="multi_line" relation_type="asymmetric" id="142569_12" ></RELATION>
+
+<RELATION theme="142569_2" includes_docket_string="04-8083" includes_docket="142569_7" theme_string="BOLDT v. NEWTON" gram_type="multi_line" relation_type="asymmetric" id="142569_11" ></RELATION>
+

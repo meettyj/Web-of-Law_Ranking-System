@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['catogeneral#3']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1005" id1="115508" volume="510" start="0" page_number="1005" standard_reporter="U.S." citation_global_level_id="5152.002" line="1" id="115514_1" citation_local_level_id="0" >510 U.S. 1005</CITATION>
+
+<CITATION party2="Morales, Attorney General of Texas, et al" party1="Cato" citation_global_level_id="16551.007" party2_short="General" line="2" id="115514_2" alternative_keys="['u.s._510_859']" end="67" entry_type="party_key" lookup_key="catogeneral#3" id1="113640" start="18" party1_short="Cato" citation_local_level_id="1" >Cato v. Morales, Attorney General of Texas, et al</CITATION>
+
+<NAME end="22" start="18" party1_of="115514_2" all_names="CATO" local_name_id="1" id="115514_3" >Cato</NAME>
+
+<NAME end="67" start="26" all_names="MORALES ATTORNEY GENERAL OF TEXAS" party2_of="115514_2" local_name_id="2" id="115514_4" >Morales, Attorney General of Texas, et al</NAME>
+
+<DOCKET alternative_keys="['u.s._510_859']" end="99" entry_type="docket" lookup_key="catogeneral#3" id1="113640" start="92" citation_global_level_id="16551.007" line="3" id="115514_7" citation_local_level_id="1" >92-9235</DOCKET>
+
+<ORGANIZATION start="105" end="135" id="115514_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="141" citation_global_level_id="16551.007" end="158" id="115514_9" citation_local_level_id="1" >November 29, 1993</DATE>
+
+<NAME start="180" local_name_id="3" end="188" id="115514_13" all_names="PETITION" >Petition</NAME>
+
+<RELATION theme="115514_2" party1="115514_3" party1_string="Cato" theme_string="Cato v. Morales, Attorney General of Texas, et al" gram_type="infix" relation_type="asymmetric" id="115514_5" ></RELATION>
+
+<RELATION party2="115514_4" theme="115514_2" theme_string="Cato v. Morales, Attorney General of Texas, et al" party2_string="Morales, Attorney General of Texas, et al" gram_type="infix" relation_type="asymmetric" id="115514_6" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1005" X_vs_Y_string="Cato v. Morales, Attorney General of Texas, et al" standard_case="115514_1" X_vs_Y="115514_2" gram_type="multi_line" relation_type="equivalence" id="115514_10" ></RELATION>
+
+<RELATION at_date_string="November 29, 1993" theme="115514_2" at_date="115514_9" theme_string="Cato v. Morales, Attorney General of Texas, et al" gram_type="multi_line" relation_type="asymmetric" id="115514_12" ></RELATION>
+
+<RELATION theme="115514_2" includes_docket_string="92-9235" includes_docket="115514_7" theme_string="Cato v. Morales, Attorney General of Texas, et al" gram_type="multi_line" relation_type="asymmetric" id="115514_11" ></RELATION>
+

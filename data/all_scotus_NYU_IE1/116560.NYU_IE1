@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['inteltechnology#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1092" id1="116555" volume="510" start="0" page_number="1092" standard_reporter="U.S." citation_global_level_id="2599.002" line="1" id="116560_1" citation_local_level_id="0" >510 U.S. 1092</CITATION>
+
+<CITATION party2="ULSI System Technology, Inc" party1="Intel Corp." citation_global_level_id="31589.001" party2_short="Technology" line="1" id="116560_3" alternative_keys="['u.s._510_1092']" end="60" entry_type="party_key" lookup_key="inteltechnology#1" id1="116560" start="18" party1_short="Intel" citation_local_level_id="1" >Intel Corp. v. ULSI System Technology, Inc</CITATION>
+
+<NAME end="29" start="18" party1_of="116560_3" all_names="INTEL CORP" local_name_id="1" id="116560_4" >Intel Corp.</NAME>
+
+<ORGANIZATION start="18" end="28" id="116560_7" >Intel Corp</ORGANIZATION>
+
+<NAME end="60" start="33" all_names="ULSI SYSTEM TECHNOLOGY INC" party2_of="116560_3" local_name_id="2" id="116560_5" >ULSI System Technology, Inc</NAME>
+
+<DOCKET end="76" entry_type="docket" lookup_key="u.s._510_1092" id1="116555" start="70" citation_global_level_id="2599.002" line="1" id="116560_2" citation_local_level_id="0" >93-829</DOCKET>
+
+<DATE start="118" end="134" id="116560_6" >January 24, 1994</DATE>
+
+<NAME start="213" local_name_id="3" end="223" id="116560_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="262" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_995_1566" id1="Dummy_File_216939" volume="995" start="248" page_number="1566" standard_reporter="F.2D" citation_global_level_id="280789.001" line="3" id="116560_13" citation_local_level_id="2" >995 F. 2d 1566</CITATION>
+
+<RELATION theme="116560_1" includes_docket_string="93-829" includes_docket="116560_2" theme_string="510 U.S. 1092" gram_type="apposition" relation_type="asymmetric" id="116560_12" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1092" X_vs_Y_string="Intel Corp. v. ULSI System Technology, Inc" standard_case="116560_1" X_vs_Y="116560_3" gram_type="pre_nom" relation_type="equivalence" id="116560_8" ></RELATION>
+
+<RELATION theme="116560_3" includes_docket_string="93-829" includes_docket="116560_2" theme_string="Intel Corp. v. ULSI System Technology, Inc" gram_type="apposition" relation_type="asymmetric" id="116560_11" ></RELATION>
+
+<RELATION party2="116560_5" theme="116560_3" theme_string="Intel Corp. v. ULSI System Technology, Inc" party2_string="ULSI System Technology, Inc" gram_type="infix" relation_type="asymmetric" id="116560_10" ></RELATION>
+
+<RELATION theme="116560_3" party1="116560_4" party1_string="Intel Corp." theme_string="Intel Corp. v. ULSI System Technology, Inc" gram_type="infix" relation_type="asymmetric" id="116560_9" ></RELATION>
+

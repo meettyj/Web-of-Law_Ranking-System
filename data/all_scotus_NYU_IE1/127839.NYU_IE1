@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['johnsonstates#9']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1242" id1="127845" volume="537" start="0" page_number="1242" standard_reporter="U.S." citation_global_level_id="2015.002" line="1" id="127839_1" citation_local_level_id="0" >537 U.S. 1242</CITATION>
+
+<CITATION party2="UNITED STATES" party1="JOHNSON ET AL." citation_global_level_id="12071.001" party2_short="STATES" line="1" id="127839_3" alternative_keys="['u.s._537_1242']" end="49" entry_type="party_key" lookup_key="johnsonstates#9" id1="2812210" start="18" party1_short="JOHNSON" citation_local_level_id="1" >JOHNSON ET AL. v. UNITED STATES</CITATION>
+
+<NAME end="32" start="18" party1_of="127839_3" all_names="JOHNSON" local_name_id="1" id="127839_4" >JOHNSON ET AL.</NAME>
+
+<NAME start="18" local_name_id="1" end="31" id="127839_7" all_names="JOHNSON" >JOHNSON ET AL</NAME>
+
+<NAME end="49" start="36" all_names="UNITED STATES" party2_of="127839_3" local_name_id="2" id="127839_5" >UNITED STATES</NAME>
+
+<DOCKET end="66" entry_type="docket" lookup_key="u.s._537_1242" id1="127845" start="59" citation_global_level_id="2015.002" line="1" id="127839_2" citation_local_level_id="0" >02-8796</DOCKET>
+
+<ORGANIZATION start="72" end="102" id="127839_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="108" end="121" id="127839_6" >March 3, 2003</DATE>
+
+<ORGANIZATION start="143" end="213" id="127839_9" >CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT</ORGANIZATION>
+
+<NAME start="250" local_name_id="3" end="253" id="127839_16" all_names="CIR" >Cir</NAME>
+
+<CITATION end="303" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_297_845" id1="Dummy_File_38979" volume="297" start="290" page_number="845" standard_reporter="F.3D" citation_global_level_id="102829.001" line="3" id="127839_15" citation_local_level_id="2" >297 F. 3d 845</CITATION>
+
+<RELATION theme="127839_1" includes_docket_string="02-8796" includes_docket="127839_2" theme_string="537 U.S. 1242" gram_type="apposition" relation_type="asymmetric" id="127839_14" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1242" X_vs_Y_string="JOHNSON ET AL. v. UNITED STATES" standard_case="127839_1" X_vs_Y="127839_3" gram_type="pre_nom" relation_type="equivalence" id="127839_10" ></RELATION>
+
+<RELATION theme="127839_3" includes_docket_string="02-8796" includes_docket="127839_2" theme_string="JOHNSON ET AL. v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="127839_13" ></RELATION>
+
+<RELATION theme="127839_3" party1="127839_4" party1_string="JOHNSON ET AL." theme_string="JOHNSON ET AL. v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="127839_11" ></RELATION>
+
+<RELATION party2="127839_5" theme="127839_3" theme_string="JOHNSON ET AL. v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="127839_12" ></RELATION>
+

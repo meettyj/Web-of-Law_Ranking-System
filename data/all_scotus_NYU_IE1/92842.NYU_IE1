@@ -1,0 +1,50 @@
+<CITATION alternative_keys="['irwinunion#1']" end="20" reporter="U.S." entry_type="standard_key" lookup_key="u.s._136_578" id1="92842" volume="136" start="1" page_number="578" year="1890" standard_reporter="U.S." citation_global_level_id="10610.002" line="2" id="92842_1" citation_local_level_id="0" >136 U.S. 578 (1890)</CITATION>
+
+<DATE start="15" citation_global_level_id="10610.002" end="19" id="92842_2" citation_local_level_id="0" >1890</DATE>
+
+<CITATION party2="SAN FRANCISCO SAVINGS UNION" party1="IRWIN" citation_global_level_id="10610.001" party2_short="UNION" line="5" id="92842_5" alternative_keys="['u.s._136_578']" end="59" entry_type="party_key" lookup_key="irwinunion#1" id1="92842" start="21" party1_short="IRWIN" citation_local_level_id="1" >IRWIN v. SAN FRANCISCO SAVINGS UNION</CITATION>
+
+<NAME end="26" start="21" party1_of="92842_5" all_names="IRWIN" local_name_id="1" id="92842_6" >IRWIN</NAME>
+
+<NAME end="59" start="32" all_names="SAN FRANCISCO SAVINGS UNION" party2_of="92842_5" local_name_id="2" id="92842_7" >SAN FRANCISCO SAVINGS UNION</NAME>
+
+<ORGANIZATION start="70" end="100" id="92842_11" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="112" end="128" id="92842_12" >January 23, 1890</DATE>
+
+<NAME start="130" local_name_id="3" end="137" id="92842_14" all_names="DECIDED" >Decided</NAME>
+
+<DATE start="138" end="154" id="92842_13" >February 3, 1890</DATE>
+
+<ORGANIZATION start="156" end="243" id="92842_15" >ERROR TO THE CIRCUIT COURT OF THE UNITED STATES FOR THE NORTHERN DISTRICT OF CALIFORNIA</ORGANIZATION>
+
+<LEGAL_ROLE start="250" end="300" id="92842_16" >Mr. Assistant Attorney General Maury for plaintiff</LEGAL_ROLE>
+
+<LEGAL_ROLE start="311" end="346" plural="True" id="92842_17" >Mr. George A. Nourse for defendants</LEGAL_ROLE>
+
+<NAME start="366" local_name_id="4" end="372" id="92842_18" all_names="CURIAM" >CURIAM</NAME>
+
+<LEGAL_ROLE start="392" end="413" id="92842_23" >counsel for plaintiff</LEGAL_ROLE>
+
+<CITATION party2="Roseberry" party1="Wright" citation_global_level_id="40731.001" party2_short="Roseberry" line="14" id="92842_20" alternative_keys="['u.s._121_488']" end="472" entry_type="party_key" lookup_key="wrightroseberry#1" id1="91943" start="453" party1_short="Wright" citation_local_level_id="2" >Wright v. Roseberry</CITATION>
+
+<NAME end="459" start="453" party1_of="92842_20" all_names="WRIGHT" local_name_id="5" id="92842_21" >Wright</NAME>
+
+<NAME end="472" start="463" all_names="ROSEBERRY" party2_of="92842_20" local_name_id="6" id="92842_22" >Roseberry</NAME>
+
+<CITATION alternative_keys="['wrightroseberry#1']" end="486" reporter="U.S." entry_type="standard_key" lookup_key="u.s._121_488" id1="91943" volume="121" start="474" page_number="488" standard_reporter="U.S." citation_global_level_id="40731.002" line="14" id="92842_19" citation_local_level_id="3" >121 U.S. 488</CITATION>
+
+<RELATION at_date_string="1890" theme="92842_1" at_date="92842_2" theme_string="136 U.S. 578 (1890)" gram_type="infix" relation_type="asymmetric" id="92842_3" ></RELATION>
+
+<RELATION theme="92842_5" party1="92842_6" party1_string="IRWIN" theme_string="IRWIN  v.  SAN FRANCISCO SAVINGS UNION" gram_type="infix" relation_type="asymmetric" id="92842_8" ></RELATION>
+
+<RELATION party2="92842_7" theme="92842_5" theme_string="IRWIN  v.  SAN FRANCISCO SAVINGS UNION" party2_string="SAN FRANCISCO SAVINGS UNION" gram_type="infix" relation_type="asymmetric" id="92842_9" ></RELATION>
+
+<RELATION standard_case_string="136 U.S. 578 (1890)" X_vs_Y_string="IRWIN  v.  SAN FRANCISCO SAVINGS UNION" standard_case="92842_1" X_vs_Y="92842_5" gram_type="multi_line" relation_type="equivalence" id="92842_10" ></RELATION>
+
+<RELATION standard_case_string="121 U.S. 488" X_vs_Y_string="Wright v. Roseberry" standard_case="92842_19" X_vs_Y="92842_20" gram_type="apposition" relation_type="equivalence" id="92842_26" ></RELATION>
+
+<RELATION theme="92842_20" party1="92842_21" party1_string="Wright" theme_string="Wright v. Roseberry" gram_type="infix" relation_type="asymmetric" id="92842_24" ></RELATION>
+
+<RELATION party2="92842_22" theme="92842_20" theme_string="Wright v. Roseberry" party2_string="Roseberry" gram_type="infix" relation_type="asymmetric" id="92842_25" ></RELATION>
+

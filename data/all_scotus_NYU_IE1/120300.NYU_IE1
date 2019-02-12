@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['paulinedepartment#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1057" id1="120306" volume="535" start="0" page_number="1057" standard_reporter="U.S." citation_global_level_id="3194.002" line="1" id="120300_1" citation_local_level_id="0" >535 U.S. 1057</CITATION>
+
+<CITATION party2="IOWA DEPARTMENT OF TRANSPORTATION" party1="PAULINE CO., INC., ET AL." citation_global_level_id="3194.004" party2_short="DEPARTMENT" line="2" id="120300_2" alternative_keys="['u.s._535_1057']" end="80" entry_type="party_key" lookup_key="paulinedepartment#2" id1="120306" start="18" party1_short="PAULINE" citation_local_level_id="1" >PAULINE CO., INC., ET AL. v. IOWA DEPARTMENT OF TRANSPORTATION</CITATION>
+
+<NAME end="43" start="18" party1_of="120300_2" all_names="PAULINE CO INC" local_name_id="1" id="120300_3" >PAULINE CO., INC., ET AL.</NAME>
+
+<ORGANIZATION start="18" end="34" id="120300_5" >PAULINE CO., INC</ORGANIZATION>
+
+<NAME end="80" start="47" all_names="IOWA DEPARTMENT OF TRANSPORTATION" party2_of="120300_2" local_name_id="2" id="120300_4" >IOWA DEPARTMENT OF TRANSPORTATION</NAME>
+
+<DOCKET alternative_keys="['u.s._535_1057']" end="97" entry_type="docket" lookup_key="paulinedepartment#2" id1="120306" start="90" citation_global_level_id="3194.004" line="3" id="120300_8" citation_local_level_id="1" >01-1394</DOCKET>
+
+<DATE start="143" citation_global_level_id="3194.004" end="155" id="120300_9" citation_local_level_id="1" >May 13, 2002</DATE>
+
+<NAME start="177" local_name_id="3" end="180" id="120300_14" all_names="SUP" >Sup</NAME>
+
+<CITATION end="243" reporter="N. W. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.w.2d_637_191" id1="Dummy_File_76615" volume="637" start="227" page_number="191" standard_reporter="N.W.2D" citation_global_level_id="140465.001" line="8" id="120300_13" citation_local_level_id="2" >637 N. W. 2d 191</CITATION>
+
+<RELATION theme="120300_2" party1="120300_3" party1_string="PAULINE CO., INC., ET AL." theme_string="PAULINE CO., INC., ET AL. v. IOWA DEPARTMENT OF TRANSPORTATION" gram_type="infix" relation_type="asymmetric" id="120300_6" ></RELATION>
+
+<RELATION party2="120300_4" theme="120300_2" theme_string="PAULINE CO., INC., ET AL. v. IOWA DEPARTMENT OF TRANSPORTATION" party2_string="IOWA DEPARTMENT OF TRANSPORTATION" gram_type="infix" relation_type="asymmetric" id="120300_7" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1057" X_vs_Y_string="PAULINE CO., INC., ET AL. v. IOWA DEPARTMENT OF TRANSPORTATION" standard_case="120300_1" X_vs_Y="120300_2" gram_type="multi_line" relation_type="equivalence" id="120300_10" ></RELATION>
+
+<RELATION at_date_string="May 13, 2002" theme="120300_2" at_date="120300_9" theme_string="PAULINE CO., INC., ET AL. v. IOWA DEPARTMENT OF TRANSPORTATION" gram_type="multi_line" relation_type="asymmetric" id="120300_12" ></RELATION>
+
+<RELATION theme="120300_2" includes_docket_string="01-1394" includes_docket="120300_8" theme_string="PAULINE CO., INC., ET AL. v. IOWA DEPARTMENT OF TRANSPORTATION" gram_type="multi_line" relation_type="asymmetric" id="120300_11" ></RELATION>
+

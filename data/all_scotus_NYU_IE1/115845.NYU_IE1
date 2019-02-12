@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['nicolstates#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1029" id1="115846" volume="510" start="0" page_number="1029" standard_reporter="U.S." citation_global_level_id="318.002" line="1" id="115845_1" citation_local_level_id="0" >510 U.S. 1029</CITATION>
+
+<CITATION party2="United States" party1="Nicol" citation_global_level_id="37029.001" party2_short="States" line="1" id="115845_3" alternative_keys="['u.s._510_1029']" end="40" entry_type="party_key" lookup_key="nicolstates#1" id1="115845" start="18" party1_short="Nicol" citation_local_level_id="1" >Nicol v. United States</CITATION>
+
+<NAME end="23" start="18" party1_of="115845_3" all_names="NICOL" local_name_id="1" id="115845_4" >Nicol</NAME>
+
+<NAME end="40" start="27" all_names="UNITED STATES" party2_of="115845_3" local_name_id="2" id="115845_5" >United States</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._510_1029" id1="115846" start="50" citation_global_level_id="318.002" line="1" id="115845_2" citation_local_level_id="0" >93-6696</DOCKET>
+
+<DATE start="99" end="116" id="115845_6" >December 13, 1993</DATE>
+
+<NAME start="194" local_name_id="3" end="204" id="115845_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="241" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_2_1159" id1="Dummy_File_87176" volume="2" start="229" page_number="1159" standard_reporter="F.3D" citation_global_level_id="151026.001" line="3" id="115845_12" citation_local_level_id="2" >2 F. 3d 1159</CITATION>
+
+<RELATION theme="115845_1" includes_docket_string="93-6696" includes_docket="115845_2" theme_string="510 U.S. 1029" gram_type="apposition" relation_type="asymmetric" id="115845_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1029" X_vs_Y_string="Nicol v. United States" standard_case="115845_1" X_vs_Y="115845_3" gram_type="pre_nom" relation_type="equivalence" id="115845_7" ></RELATION>
+
+<RELATION theme="115845_3" includes_docket_string="93-6696" includes_docket="115845_2" theme_string="Nicol v. United States" gram_type="apposition" relation_type="asymmetric" id="115845_10" ></RELATION>
+
+<RELATION theme="115845_3" party1="115845_4" party1_string="Nicol" theme_string="Nicol v. United States" gram_type="infix" relation_type="asymmetric" id="115845_8" ></RELATION>
+
+<RELATION party2="115845_5" theme="115845_3" theme_string="Nicol v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="115845_9" ></RELATION>
+

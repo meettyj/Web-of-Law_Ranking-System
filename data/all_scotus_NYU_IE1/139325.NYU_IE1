@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['smithcourt#7']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_921" id1="139323" volume="543" start="0" page_number="921" standard_reporter="U.S." citation_global_level_id="10551.002" line="1" id="139325_1" citation_local_level_id="0" >543 U.S. 921</CITATION>
+
+<CITATION party2="GRIMES, JUDGE, COURT OF COMMON PLEAS" party1="SMITH" citation_global_level_id="14357.004" party2_short="COURT" line="2" id="139325_2" alternative_keys="['u.s._543_998']" end="62" entry_type="party_key" lookup_key="smithcourt#7" id1="140289" start="17" party1_short="SMITH" citation_local_level_id="1" >SMITH v. GRIMES, JUDGE, COURT OF COMMON PLEAS</CITATION>
+
+<NAME end="22" start="17" party1_of="139325_2" all_names="SMITH" local_name_id="1" id="139325_3" >SMITH</NAME>
+
+<NAME end="62" start="26" all_names="GRIMES JUDGE COURT OF COMMON PLEAS" party2_of="139325_2" local_name_id="2" id="139325_4" >GRIMES, JUDGE, COURT OF COMMON PLEAS</NAME>
+
+<DOCKET alternative_keys="['u.s._543_998']" end="126" entry_type="docket" lookup_key="smithcourt#7" id1="140289" start="119" citation_global_level_id="14357.004" line="3" id="139325_7" citation_local_level_id="1" >04-5726</DOCKET>
+
+<ORGANIZATION start="132" end="162" id="139325_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="168" citation_global_level_id="14357.004" end="184" id="139325_9" citation_local_level_id="1" >October 12, 2004</DATE>
+
+<NAME start="215" local_name_id="3" end="218" id="139325_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="139325_2" party1="139325_3" party1_string="SMITH" theme_string="SMITH v. GRIMES, JUDGE, COURT OF COMMON PLEAS" gram_type="infix" relation_type="asymmetric" id="139325_5" ></RELATION>
+
+<RELATION party2="139325_4" theme="139325_2" theme_string="SMITH v. GRIMES, JUDGE, COURT OF COMMON PLEAS" party2_string="GRIMES, JUDGE, COURT OF COMMON PLEAS" gram_type="infix" relation_type="asymmetric" id="139325_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 921" X_vs_Y_string="SMITH v. GRIMES, JUDGE, COURT OF COMMON PLEAS" standard_case="139325_1" X_vs_Y="139325_2" gram_type="multi_line" relation_type="equivalence" id="139325_10" ></RELATION>
+
+<RELATION at_date_string="October 12, 2004" theme="139325_2" at_date="139325_9" theme_string="SMITH v. GRIMES, JUDGE, COURT OF COMMON PLEAS" gram_type="multi_line" relation_type="asymmetric" id="139325_12" ></RELATION>
+
+<RELATION theme="139325_2" includes_docket_string="04-5726" includes_docket="139325_7" theme_string="SMITH v. GRIMES, JUDGE, COURT OF COMMON PLEAS" gram_type="multi_line" relation_type="asymmetric" id="139325_11" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['ricksnickels#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1056" id1="125492" volume="537" start="0" page_number="1056" standard_reporter="U.S." citation_global_level_id="1797.002" line="1" id="125493_1" citation_local_level_id="0" >537 U.S. 1056</CITATION>
+
+<CITATION party2="NICKELS ET AL" party1="RICKS" citation_global_level_id="8146.001" party2_short="NICKELS" line="1" id="125493_3" alternative_keys="['u.s._537_1056']" end="40" entry_type="party_key" lookup_key="ricksnickels#1" id1="125493" start="18" party1_short="RICKS" citation_local_level_id="1" >RICKS v. NICKELS ET AL</CITATION>
+
+<NAME end="23" start="18" party1_of="125493_3" all_names="RICKS" local_name_id="1" id="125493_4" >RICKS</NAME>
+
+<NAME end="40" start="27" all_names="NICKELS" party2_of="125493_3" local_name_id="2" id="125493_5" >NICKELS ET AL</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._537_1056" id1="125492" start="50" citation_global_level_id="1797.002" line="1" id="125493_2" citation_local_level_id="0" >02-6720</DOCKET>
+
+<DATE start="99" end="115" id="125493_6" >December 2, 2002</DATE>
+
+<NAME start="245" local_name_id="3" end="248" id="125493_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="299" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_295_1124" id1="Dummy_File_63056" volume="295" start="285" page_number="1124" standard_reporter="F.3D" citation_global_level_id="126906.001" line="3" id="125493_12" citation_local_level_id="2" >295 F. 3d 1124</CITATION>
+
+<RELATION theme="125493_1" includes_docket_string="02-6720" includes_docket="125493_2" theme_string="537 U.S. 1056" gram_type="apposition" relation_type="asymmetric" id="125493_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1056" X_vs_Y_string="RICKS v. NICKELS ET AL" standard_case="125493_1" X_vs_Y="125493_3" gram_type="pre_nom" relation_type="equivalence" id="125493_7" ></RELATION>
+
+<RELATION theme="125493_3" includes_docket_string="02-6720" includes_docket="125493_2" theme_string="RICKS v. NICKELS ET AL" gram_type="apposition" relation_type="asymmetric" id="125493_10" ></RELATION>
+
+<RELATION theme="125493_3" party1="125493_4" party1_string="RICKS" theme_string="RICKS v. NICKELS ET AL" gram_type="infix" relation_type="asymmetric" id="125493_8" ></RELATION>
+
+<RELATION party2="125493_5" theme="125493_3" theme_string="RICKS v. NICKELS ET AL" party2_string="NICKELS ET AL" gram_type="infix" relation_type="asymmetric" id="125493_9" ></RELATION>
+

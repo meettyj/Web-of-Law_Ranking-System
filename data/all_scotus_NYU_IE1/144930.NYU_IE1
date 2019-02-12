@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['smithstates#9']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_1056" id1="144927" volume="544" start="0" page_number="1056" standard_reporter="U.S." citation_global_level_id="4689.002" line="1" id="144930_1" citation_local_level_id="0" >544 U.S. 1056</CITATION>
+
+<CITATION party2="UNITED STATES" party1="SMITH" citation_global_level_id="7101.001" party2_short="STATES" line="2" id="144930_2" alternative_keys="['u.s._544_1056']" end="40" entry_type="party_key" lookup_key="smithstates#9" id1="124024" start="18" party1_short="SMITH" citation_local_level_id="1" >SMITH v. UNITED STATES</CITATION>
+
+<NAME end="23" start="18" party1_of="144930_2" all_names="SMITH" local_name_id="1" id="144930_3" >SMITH</NAME>
+
+<NAME end="40" start="27" all_names="UNITED STATES" party2_of="144930_2" local_name_id="2" id="144930_4" >UNITED STATES</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="smithstates#9" id1="124024" start="50" citation_global_level_id="7101.001" line="3" id="144930_7" citation_local_level_id="1" >04-9816</DOCKET>
+
+<ORGANIZATION start="63" end="93" id="144930_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="99" citation_global_level_id="7101.001" end="111" id="144930_9" citation_local_level_id="1" >May 23, 2005</DATE>
+
+<NAME start="143" local_name_id="3" end="146" id="144930_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="144930_2" party1="144930_3" party1_string="SMITH" theme_string="SMITH v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="144930_5" ></RELATION>
+
+<RELATION party2="144930_4" theme="144930_2" theme_string="SMITH v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="144930_6" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 1056" X_vs_Y_string="SMITH v. UNITED STATES" standard_case="144930_1" X_vs_Y="144930_2" gram_type="multi_line" relation_type="equivalence" id="144930_10" ></RELATION>
+
+<RELATION at_date_string="May 23, 2005" theme="144930_2" at_date="144930_9" theme_string="SMITH v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="144930_12" ></RELATION>
+
+<RELATION theme="144930_2" includes_docket_string="04-9816" includes_docket="144930_7" theme_string="SMITH v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="144930_11" ></RELATION>
+

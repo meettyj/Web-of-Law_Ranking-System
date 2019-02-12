@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['sanchezlovelace#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_879" id1="113915" volume="510" start="0" page_number="879" standard_reporter="U.S." citation_global_level_id="2316.002" line="1" id="113902_1" citation_local_level_id="0" >510 U.S. 879</CITATION>
+
+<CITATION party2="Lovelace" party1="Sanchez" citation_global_level_id="39396.001" party2_short="Lovelace" line="1" id="113902_3" alternative_keys="['u.s._510_879']" end="36" entry_type="party_key" lookup_key="sanchezlovelace#1" id1="113902" start="17" party1_short="Sanchez" citation_local_level_id="1" >Sanchez v. Lovelace</CITATION>
+
+<NAME end="24" start="17" party1_of="113902_3" all_names="SANCHEZ" local_name_id="1" id="113902_4" >Sanchez</NAME>
+
+<NAME end="36" start="28" all_names="LOVELACE" party2_of="113902_3" local_name_id="2" id="113902_5" >Lovelace</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="u.s._510_879" id1="113915" start="46" citation_global_level_id="2316.002" line="1" id="113902_2" citation_local_level_id="0" >93-5155</DOCKET>
+
+<DATE start="95" end="110" id="113902_6" >October 4, 1993</DATE>
+
+<NAME start="188" local_name_id="3" end="198" id="113902_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="113902_1" includes_docket_string="93-5155" includes_docket="113902_2" theme_string="510 U.S. 879" gram_type="apposition" relation_type="asymmetric" id="113902_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 879" X_vs_Y_string="Sanchez v. Lovelace" standard_case="113902_1" X_vs_Y="113902_3" gram_type="pre_nom" relation_type="equivalence" id="113902_7" ></RELATION>
+
+<RELATION theme="113902_3" includes_docket_string="93-5155" includes_docket="113902_2" theme_string="Sanchez v. Lovelace" gram_type="apposition" relation_type="asymmetric" id="113902_10" ></RELATION>
+
+<RELATION theme="113902_3" party1="113902_4" party1_string="Sanchez" theme_string="Sanchez v. Lovelace" gram_type="infix" relation_type="asymmetric" id="113902_8" ></RELATION>
+
+<RELATION party2="113902_5" theme="113902_3" theme_string="Sanchez v. Lovelace" party2_string="Lovelace" gram_type="infix" relation_type="asymmetric" id="113902_9" ></RELATION>
+

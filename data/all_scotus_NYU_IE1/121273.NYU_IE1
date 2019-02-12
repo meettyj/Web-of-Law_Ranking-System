@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['mordowanecconnecticut#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._536_910" id1="121279" volume="536" start="0" page_number="910" standard_reporter="U.S." citation_global_level_id="2012.002" line="1" id="121273_1" citation_local_level_id="0" >536 U.S. 910</CITATION>
+
+<CITATION party2="CONNECTICUT" party1="MORDOWANEC" citation_global_level_id="60479.001" party2_short="CONNECTICUT" line="2" id="121273_2" alternative_keys="['u.s._536_910']" end="42" entry_type="party_key" lookup_key="mordowanecconnecticut#1" id1="121273" start="17" party1_short="MORDOWANEC" citation_local_level_id="1" >MORDOWANEC v. CONNECTICUT</CITATION>
+
+<NAME end="27" start="17" party1_of="121273_2" all_names="MORDOWANEC" local_name_id="1" id="121273_3" >MORDOWANEC</NAME>
+
+<NAME end="42" start="31" all_names="CONNECTICUT" party2_of="121273_2" local_name_id="2" id="121273_4" >CONNECTICUT</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="mordowanecconnecticut#1" id1="121273" start="52" citation_global_level_id="60479.001" line="3" id="121273_7" citation_local_level_id="1" >01-9627</DOCKET>
+
+<DATE start="105" citation_global_level_id="60479.001" end="118" id="121273_8" citation_local_level_id="1" >June 10, 2002</DATE>
+
+<NAME start="140" local_name_id="3" end="143" id="121273_14" all_names="SUP" >Sup</NAME>
+
+<CITATION end="202" reporter="Conn." entry_type="standard_key" no_current_file="True" lookup_key="conn._259_94" id1="Dummy_File_181058" volume="259" start="190" page_number="94" standard_reporter="CONN." citation_global_level_id="244908.001" line="8" id="121273_12" citation_local_level_id="2" >259 Conn. 94</CITATION>
+
+<CITATION end="216" reporter="A. 2d" entry_type="standard_key" no_current_file="True" lookup_key="a.2d_788_48" id1="Dummy_File_181059" volume="788" start="204" page_number="48" standard_reporter="A.2D" citation_global_level_id="244909.001" line="8" id="121273_13" citation_local_level_id="3" >788 A. 2d 48</CITATION>
+
+<RELATION theme="121273_2" party1="121273_3" party1_string="MORDOWANEC" theme_string="MORDOWANEC v. CONNECTICUT" gram_type="infix" relation_type="asymmetric" id="121273_5" ></RELATION>
+
+<RELATION party2="121273_4" theme="121273_2" theme_string="MORDOWANEC v. CONNECTICUT" party2_string="CONNECTICUT" gram_type="infix" relation_type="asymmetric" id="121273_6" ></RELATION>
+
+<RELATION standard_case_string="536 U.S. 910" X_vs_Y_string="MORDOWANEC v. CONNECTICUT" standard_case="121273_1" X_vs_Y="121273_2" gram_type="multi_line" relation_type="equivalence" id="121273_9" ></RELATION>
+
+<RELATION at_date_string="June 10, 2002" theme="121273_2" at_date="121273_8" theme_string="MORDOWANEC v. CONNECTICUT" gram_type="multi_line" relation_type="asymmetric" id="121273_11" ></RELATION>
+
+<RELATION theme="121273_2" includes_docket_string="01-9627" includes_docket="121273_7" theme_string="MORDOWANEC v. CONNECTICUT" gram_type="multi_line" relation_type="asymmetric" id="121273_10" ></RELATION>
+

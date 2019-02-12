@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['andersonsowders#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_903" id1="139096" volume="543" start="0" page_number="903" standard_reporter="U.S." citation_global_level_id="3477.002" line="1" id="139090_1" citation_local_level_id="0" >543 U.S. 903</CITATION>
+
+<CITATION party2="SOWDERS, WARDEN, ET AL" party1="ANDERSON" citation_global_level_id="3477.005" party2_short="SOWDERS" line="2" id="139090_2" alternative_keys="['u.s._543_903']" end="51" entry_type="party_key" lookup_key="andersonsowders#1" id1="139096" start="17" party1_short="ANDERSON" citation_local_level_id="1" >ANDERSON v. SOWDERS, WARDEN, ET AL</CITATION>
+
+<NAME end="25" start="17" party1_of="139090_2" all_names="ANDERSON" local_name_id="1" id="139090_3" >ANDERSON</NAME>
+
+<NAME end="51" start="29" all_names="SOWDERS WARDEN" party2_of="139090_2" local_name_id="2" id="139090_4" >SOWDERS, WARDEN, ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._543_903']" end="68" entry_type="docket" lookup_key="andersonsowders#1" id1="139096" start="61" citation_global_level_id="3477.005" line="3" id="139090_7" citation_local_level_id="1" >04-5496</DOCKET>
+
+<ORGANIZATION start="74" end="104" id="139090_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="110" citation_global_level_id="3477.005" end="125" id="139090_9" citation_local_level_id="1" >October 4, 2004</DATE>
+
+<NAME start="157" local_name_id="3" end="160" id="139090_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="139090_2" party1="139090_3" party1_string="ANDERSON" theme_string="ANDERSON v. SOWDERS, WARDEN, ET AL" gram_type="infix" relation_type="asymmetric" id="139090_5" ></RELATION>
+
+<RELATION party2="139090_4" theme="139090_2" theme_string="ANDERSON v. SOWDERS, WARDEN, ET AL" party2_string="SOWDERS, WARDEN, ET AL" gram_type="infix" relation_type="asymmetric" id="139090_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 903" X_vs_Y_string="ANDERSON v. SOWDERS, WARDEN, ET AL" standard_case="139090_1" X_vs_Y="139090_2" gram_type="multi_line" relation_type="equivalence" id="139090_10" ></RELATION>
+
+<RELATION at_date_string="October 4, 2004" theme="139090_2" at_date="139090_9" theme_string="ANDERSON v. SOWDERS, WARDEN, ET AL" gram_type="multi_line" relation_type="asymmetric" id="139090_12" ></RELATION>
+
+<RELATION theme="139090_2" includes_docket_string="04-5496" includes_docket="139090_7" theme_string="ANDERSON v. SOWDERS, WARDEN, ET AL" gram_type="multi_line" relation_type="asymmetric" id="139090_11" ></RELATION>
+

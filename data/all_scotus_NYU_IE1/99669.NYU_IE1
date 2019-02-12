@@ -1,0 +1,40 @@
+<CITATION alternative_keys="['statestate#54', 's.ct._41_146', 'l.ed._65_270']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._254_280" id1="99669" volume="254" start="0" page_number="280" standard_reporter="U.S." citation_global_level_id="40620.002" line="1" id="99669_1" citation_local_level_id="0" >254 U.S. 280</CITATION>
+
+<CITATION alternative_keys="['u.s._254_280', 'statestate#54', 'l.ed._65_270']" end="30" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._41_146" id1="99669" volume="41" start="17" page_number="146" standard_reporter="S.CT." citation_global_level_id="40620.003" line="1" id="99669_2" citation_local_level_id="1" >41 S. Ct. 146</CITATION>
+
+<NAME start="20" local_name_id="1" end="25" id="99669_9" all_names="S CT" >S. Ct</NAME>
+
+<CITATION alternative_keys="['u.s._254_280', 's.ct._41_146', 'statestate#54']" end="48" reporter="L. Ed." entry_type="standard_key" lookup_key="l.ed._65_270" id1="99669" volume="65" start="35" page_number="270" standard_reporter="L.ED." citation_global_level_id="40620.004" line="1" id="99669_3" citation_local_level_id="2" >65 L. Ed. 270</CITATION>
+
+<CITATION party2="The STATE OF TEXAS" alternative_keys="['u.s._254_280', 's.ct._41_146', 'l.ed._65_270']" party1="The STATE OF OKLAHOMA," end="110" party1_short="STATE" entry_type="party_key" party1_role="complainant" lookup_key="statestate#54" id1="100244" start="53" citation_global_level_id="46277.001" party2_short="STATE" line="1" id="99669_4" citation_local_level_id="3" >The STATE OF OKLAHOMA, complainant, v. The STATE OF TEXAS</CITATION>
+
+<NAME end="75" start="53" party1_of="99669_4" all_names="THE STATE OF OKLAHOMA" local_name_id="2" id="99669_5" >The STATE OF OKLAHOMA,</NAME>
+
+<LEGAL_ROLE start="76" end="87" id="99669_7" >complainant</LEGAL_ROLE>
+
+<NAME end="110" start="92" all_names="THE STATE OF TEXAS	STATE OF TEXAS" party2_of="99669_4" local_name_id="3" id="99669_6" >The STATE OF TEXAS</NAME>
+
+<DATE start="177" end="193" id="99669_8" >December 6, 1920</DATE>
+
+<NAME start="306" local_name_id="4" end="326" id="99669_15" all_names="MESSRS C W TAYLOR" >Messrs. C. W. Taylor</NAME>
+
+<NAME start="331" local_name_id="5" end="342" id="99669_16" all_names="AUSTIN TEX" >Austin, Tex</NAME>
+
+<NAME start="349" local_name_id="6" end="386" id="99669_17" all_names="ORVILLE BULLINGTON AND A H CARRIGAN" >Orville Bullington and A. H. Carrigan</NAME>
+
+<NAME start="396" local_name_id="7" end="414" id="99669_18" all_names="WICHITA FALLS TEX" >Wichita Falls, Tex</NAME>
+
+<NAME start="421" local_name_id="3" end="435" id="99669_19" all_names="THE STATE OF TEXAS	STATE OF TEXAS" >State of Texas</NAME>
+
+<NAME start="462" local_name_id="8" end="467" id="99669_20" all_names="ORDER" >Order</NAME>
+
+<RELATION standard_case_string="254 U.S. 280" X_vs_Y_string="The STATE OF OKLAHOMA, complainant, v. The STATE OF TEXAS" standard_case="99669_1" X_vs_Y="99669_4" gram_type="pre_nom" relation_type="equivalence" id="99669_11" ></RELATION>
+
+<RELATION standard_case_string="41 S. Ct. 146" X_vs_Y_string="The STATE OF OKLAHOMA, complainant, v. The STATE OF TEXAS" standard_case="99669_2" X_vs_Y="99669_4" gram_type="pre_nom" relation_type="equivalence" id="99669_12" ></RELATION>
+
+<RELATION standard_case_string="65 L. Ed. 270" X_vs_Y_string="The STATE OF OKLAHOMA, complainant, v. The STATE OF TEXAS" standard_case="99669_3" X_vs_Y="99669_4" gram_type="pre_nom" relation_type="equivalence" id="99669_10" ></RELATION>
+
+<RELATION theme="99669_4" party1="99669_5" party1_string="The STATE OF OKLAHOMA," theme_string="The STATE OF OKLAHOMA, complainant, v. The STATE OF TEXAS" gram_type="infix" relation_type="asymmetric" id="99669_13" ></RELATION>
+
+<RELATION party2="99669_6" theme="99669_4" theme_string="The STATE OF OKLAHOMA, complainant, v. The STATE OF TEXAS" party2_string="The STATE OF TEXAS" gram_type="infix" relation_type="asymmetric" id="99669_14" ></RELATION>
+

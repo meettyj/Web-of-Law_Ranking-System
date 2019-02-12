@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['healthcarepharmacal#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_1019" id1="144426" volume="544" start="0" page_number="1019" standard_reporter="U.S." citation_global_level_id="6269.002" line="1" id="144425_1" citation_local_level_id="0" >544 U.S. 1019</CITATION>
+
+<CITATION party2="HI-TECH PHARMACAL CO., INC" party1="MEDPOINTE HEALTHCARE, INC." citation_global_level_id="6269.006" party2_short="PHARMACAL" line="2" id="144425_2" alternative_keys="['u.s._544_1019']" end="74" entry_type="party_key" lookup_key="healthcarepharmacal#2" id1="144426" start="18" party1_short="HEALTHCARE" citation_local_level_id="1" >MEDPOINTE HEALTHCARE, INC. v. HI-TECH PHARMACAL CO., INC</CITATION>
+
+<NAME end="44" start="18" party1_of="144425_2" all_names="MEDPOINTE HEALTHCARE INC" local_name_id="1" id="144425_3" >MEDPOINTE HEALTHCARE, INC.</NAME>
+
+<ORGANIZATION start="18" end="43" id="144425_5" >MEDPOINTE HEALTHCARE, INC</ORGANIZATION>
+
+<NAME end="74" start="48" all_names="HI-TECH PHARMACAL CO INC" party2_of="144425_2" local_name_id="2" id="144425_4" >HI-TECH PHARMACAL CO., INC</NAME>
+
+<DOCKET alternative_keys="['u.s._544_1019']" end="91" entry_type="docket" lookup_key="healthcarepharmacal#2" id1="144426" start="84" citation_global_level_id="6269.006" line="3" id="144425_8" citation_local_level_id="1" >04-1251</DOCKET>
+
+<ORGANIZATION start="97" end="127" id="144425_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="133" citation_global_level_id="6269.006" end="144" id="144425_10" citation_local_level_id="1" >May 2, 2005</DATE>
+
+<NAME start="166" local_name_id="3" end="175" id="144425_14" all_names="C A FED" >C. A. Fed</NAME>
+
+<NAME start="177" local_name_id="4" end="180" id="144425_15" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="144425_2" party1="144425_3" party1_string="MEDPOINTE HEALTHCARE, INC." theme_string="MEDPOINTE HEALTHCARE, INC. v. HI-TECH PHARMACAL CO., INC" gram_type="infix" relation_type="asymmetric" id="144425_6" ></RELATION>
+
+<RELATION party2="144425_4" theme="144425_2" theme_string="MEDPOINTE HEALTHCARE, INC. v. HI-TECH PHARMACAL CO., INC" party2_string="HI-TECH PHARMACAL CO., INC" gram_type="infix" relation_type="asymmetric" id="144425_7" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 1019" X_vs_Y_string="MEDPOINTE HEALTHCARE, INC. v. HI-TECH PHARMACAL CO., INC" standard_case="144425_1" X_vs_Y="144425_2" gram_type="multi_line" relation_type="equivalence" id="144425_11" ></RELATION>
+
+<RELATION at_date_string="May 2, 2005" theme="144425_2" at_date="144425_10" theme_string="MEDPOINTE HEALTHCARE, INC. v. HI-TECH PHARMACAL CO., INC" gram_type="multi_line" relation_type="asymmetric" id="144425_13" ></RELATION>
+
+<RELATION theme="144425_2" includes_docket_string="04-1251" includes_docket="144425_8" theme_string="MEDPOINTE HEALTHCARE, INC. v. HI-TECH PHARMACAL CO., INC" gram_type="multi_line" relation_type="asymmetric" id="144425_12" ></RELATION>
+

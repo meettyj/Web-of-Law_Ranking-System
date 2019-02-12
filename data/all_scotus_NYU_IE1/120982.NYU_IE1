@@ -1,0 +1,40 @@
+<CITATION alternative_keys="['martinloral#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1109" id1="120986" volume="535" start="0" page_number="1109" standard_reporter="U.S." citation_global_level_id="1316.002" line="1" id="120982_1" citation_local_level_id="0" >535 U.S. 1109</CITATION>
+
+<CITATION party2="SPACE SYSTEMS/LORAL, INC" party1="LOCKHEED MARTIN CORP." citation_global_level_id="1316.006" party2_short="LORAL" line="2" id="120982_2" alternative_keys="['u.s._535_1109']" end="67" entry_type="party_key" lookup_key="martinloral#1" id1="120986" start="18" party1_short="MARTIN" citation_local_level_id="1" >LOCKHEED MARTIN CORP. v. SPACE SYSTEMS/LORAL, INC</CITATION>
+
+<NAME end="39" start="18" party1_of="120982_2" all_names="LOCKHEED MARTIN CORP" local_name_id="1" id="120982_3" >LOCKHEED MARTIN CORP.</NAME>
+
+<ORGANIZATION start="18" end="38" id="120982_5" >LOCKHEED MARTIN CORP</ORGANIZATION>
+
+<NAME end="67" start="43" all_names="SPACE SYSTEMS/LORAL INC" party2_of="120982_2" local_name_id="2" id="120982_4" >SPACE SYSTEMS/LORAL, INC</NAME>
+
+<DOCKET alternative_keys="['u.s._535_1109']" end="83" entry_type="docket" lookup_key="martinloral#1" id1="120986" start="77" citation_global_level_id="1316.006" line="3" id="120982_8" citation_local_level_id="1" >01-506</DOCKET>
+
+<DATE start="129" citation_global_level_id="1316.006" end="141" id="120982_9" citation_local_level_id="1" >June 3, 2002</DATE>
+
+<NAME start="163" local_name_id="3" end="172" id="120982_17" all_names="C A FED" >C. A. Fed</NAME>
+
+<NAME start="174" local_name_id="4" end="177" id="120982_18" all_names="CIR" >Cir</NAME>
+
+<CITATION party2="Shoketsu Kinzoku Kogyo Kabushiki Co" party1="Festo Corp." citation_global_level_id="17904.001" party2_short="Kabushiki" line="8" id="120982_14" end="323" entry_type="party_key" lookup_key="festokabushiki#2" id1="135651" start="273" party1_short="Festo" citation_local_level_id="2" >Festo Corp. v. Shoketsu Kinzoku Kogyo Kabushiki Co</CITATION>
+
+<NAME end="284" start="273" party1_of="120982_14" all_names="FESTO CORP" local_name_id="5" id="120982_15" >Festo Corp.</NAME>
+
+<NAME end="323" start="288" all_names="SHOKETSU KINZOKU KOGYO KABUSHIKI CO" party2_of="120982_14" local_name_id="6" id="120982_16" >Shoketsu Kinzoku Kogyo Kabushiki Co</NAME>
+
+<CITATION end="370" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_249_1314" id1="Dummy_File_187282" volume="249" start="356" page_number="1314" standard_reporter="F.3D" citation_global_level_id="251132.001" line="8" id="120982_13" citation_local_level_id="3" >249 F. 3d 1314</CITATION>
+
+<RELATION theme="120982_2" party1="120982_3" party1_string="LOCKHEED MARTIN CORP." theme_string="LOCKHEED MARTIN CORP. v. SPACE SYSTEMS/LORAL, INC" gram_type="infix" relation_type="asymmetric" id="120982_6" ></RELATION>
+
+<RELATION party2="120982_4" theme="120982_2" theme_string="LOCKHEED MARTIN CORP. v. SPACE SYSTEMS/LORAL, INC" party2_string="SPACE SYSTEMS/LORAL, INC" gram_type="infix" relation_type="asymmetric" id="120982_7" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1109" X_vs_Y_string="LOCKHEED MARTIN CORP. v. SPACE SYSTEMS/LORAL, INC" standard_case="120982_1" X_vs_Y="120982_2" gram_type="multi_line" relation_type="equivalence" id="120982_10" ></RELATION>
+
+<RELATION at_date_string="June 3, 2002" theme="120982_2" at_date="120982_9" theme_string="LOCKHEED MARTIN CORP. v. SPACE SYSTEMS/LORAL, INC" gram_type="multi_line" relation_type="asymmetric" id="120982_12" ></RELATION>
+
+<RELATION theme="120982_2" includes_docket_string="01-506" includes_docket="120982_8" theme_string="LOCKHEED MARTIN CORP. v. SPACE SYSTEMS/LORAL, INC" gram_type="multi_line" relation_type="asymmetric" id="120982_11" ></RELATION>
+
+<RELATION theme="120982_14" party1="120982_15" party1_string="Festo Corp." theme_string="Festo Corp. v. Shoketsu Kinzoku Kogyo Kabushiki Co" gram_type="infix" relation_type="asymmetric" id="120982_19" ></RELATION>
+
+<RELATION party2="120982_16" theme="120982_14" theme_string="Festo Corp. v. Shoketsu Kinzoku Kogyo Kabushiki Co" party2_string="Shoketsu Kinzoku Kogyo Kabushiki Co" gram_type="infix" relation_type="asymmetric" id="120982_20" ></RELATION>
+

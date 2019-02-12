@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['brownisland#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_928" id1="123915" volume="537" start="0" page_number="928" standard_reporter="U.S." citation_global_level_id="3963.002" line="1" id="123924_1" citation_local_level_id="0" >537 U.S. 928</CITATION>
+
+<CITATION party2="RHODE ISLAND" party1="BROWN" citation_global_level_id="51054.001" party2_short="ISLAND" line="1" id="123924_3" alternative_keys="['u.s._537_928']" end="38" entry_type="party_key" lookup_key="brownisland#1" id1="123924" start="17" party1_short="BROWN" citation_local_level_id="1" >BROWN v. RHODE ISLAND</CITATION>
+
+<NAME end="22" start="17" party1_of="123924_3" all_names="BROWN" local_name_id="1" id="123924_4" >BROWN</NAME>
+
+<NAME end="38" start="26" all_names="RHODE ISLAND" party2_of="123924_3" local_name_id="2" id="123924_5" >RHODE ISLAND</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._537_928" id1="123915" start="48" citation_global_level_id="3963.002" line="1" id="123924_2" citation_local_level_id="0" >02-5696</DOCKET>
+
+<DATE start="97" end="112" id="123924_6" >October 7, 2002</DATE>
+
+<NAME start="231" local_name_id="3" end="244" id="123924_12" all_names="C A 1ST CIR" >C. A. 1st Cir</NAME>
+
+<NAME start="246" local_name_id="4" end="256" id="123924_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="123924_1" includes_docket_string="02-5696" includes_docket="123924_2" theme_string="537 U.S. 928" gram_type="apposition" relation_type="asymmetric" id="123924_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 928" X_vs_Y_string="BROWN v. RHODE ISLAND" standard_case="123924_1" X_vs_Y="123924_3" gram_type="pre_nom" relation_type="equivalence" id="123924_7" ></RELATION>
+
+<RELATION theme="123924_3" includes_docket_string="02-5696" includes_docket="123924_2" theme_string="BROWN v. RHODE ISLAND" gram_type="apposition" relation_type="asymmetric" id="123924_10" ></RELATION>
+
+<RELATION theme="123924_3" party1="123924_4" party1_string="BROWN" theme_string="BROWN v. RHODE ISLAND" gram_type="infix" relation_type="asymmetric" id="123924_8" ></RELATION>
+
+<RELATION party2="123924_5" theme="123924_3" theme_string="BROWN v. RHODE ISLAND" party2_string="RHODE ISLAND" gram_type="infix" relation_type="asymmetric" id="123924_9" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['jaynetexas#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_1062" id1="145019" volume="544" start="0" page_number="1062" standard_reporter="U.S." citation_global_level_id="1174.002" line="1" id="145015_1" citation_local_level_id="0" >544 U.S. 1062</CITATION>
+
+<CITATION party2="TEXAS" party1="JAYNE" citation_global_level_id="60786.001" party2_short="TEXAS" line="2" id="145015_2" alternative_keys="['u.s._544_1062']" end="32" entry_type="party_key" lookup_key="jaynetexas#1" id1="145015" start="18" party1_short="JAYNE" citation_local_level_id="1" >JAYNE v. TEXAS</CITATION>
+
+<NAME end="23" start="18" party1_of="145015_2" all_names="JAYNE" local_name_id="1" id="145015_3" >JAYNE</NAME>
+
+<NAME end="32" start="27" all_names="TEXAS" party2_of="145015_2" local_name_id="2" id="145015_4" >TEXAS</NAME>
+
+<DOCKET end="49" entry_type="docket" lookup_key="jaynetexas#1" id1="145015" start="42" citation_global_level_id="60786.001" line="3" id="145015_7" citation_local_level_id="1" >04-7520</DOCKET>
+
+<ORGANIZATION start="55" end="85" id="145015_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="91" citation_global_level_id="60786.001" end="103" id="145015_9" citation_local_level_id="1" >May 31, 2005</DATE>
+
+<NAME start="125" local_name_id="3" end="127" id="145015_13" all_names="CT" >Ct</NAME>
+
+<RELATION theme="145015_2" party1="145015_3" party1_string="JAYNE" theme_string="JAYNE v. TEXAS" gram_type="infix" relation_type="asymmetric" id="145015_5" ></RELATION>
+
+<RELATION party2="145015_4" theme="145015_2" theme_string="JAYNE v. TEXAS" party2_string="TEXAS" gram_type="infix" relation_type="asymmetric" id="145015_6" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 1062" X_vs_Y_string="JAYNE v. TEXAS" standard_case="145015_1" X_vs_Y="145015_2" gram_type="multi_line" relation_type="equivalence" id="145015_10" ></RELATION>
+
+<RELATION at_date_string="May 31, 2005" theme="145015_2" at_date="145015_9" theme_string="JAYNE v. TEXAS" gram_type="multi_line" relation_type="asymmetric" id="145015_12" ></RELATION>
+
+<RELATION theme="145015_2" includes_docket_string="04-7520" includes_docket="145015_7" theme_string="JAYNE v. TEXAS" gram_type="multi_line" relation_type="asymmetric" id="145015_11" ></RELATION>
+

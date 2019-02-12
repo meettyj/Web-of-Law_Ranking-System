@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['hutsellsayre#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1119" id1="116862" volume="510" start="0" page_number="1119" standard_reporter="U.S." citation_global_level_id="599.002" line="1" id="116863_1" citation_local_level_id="0" >510 U.S. 1119</CITATION>
+
+<CITATION party2="Sayre" party1="Hutsell" citation_global_level_id="52581.001" party2_short="Sayre" line="1" id="116863_3" alternative_keys="['u.s._510_1119']" end="34" entry_type="party_key" lookup_key="hutsellsayre#1" id1="116863" start="18" party1_short="Hutsell" citation_local_level_id="1" >Hutsell v. Sayre</CITATION>
+
+<NAME end="25" start="18" party1_of="116863_3" all_names="HUTSELL" local_name_id="1" id="116863_4" >Hutsell</NAME>
+
+<NAME end="34" start="29" all_names="SAYRE" party2_of="116863_3" local_name_id="2" id="116863_5" >Sayre</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="u.s._510_1119" id1="116862" start="44" citation_global_level_id="599.002" line="1" id="116863_2" citation_local_level_id="0" >93-1096</DOCKET>
+
+<DATE start="93" end="110" id="116863_6" >February 22, 1994</DATE>
+
+<NAME start="188" local_name_id="3" end="198" id="116863_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION alternative_keys="['hutsellsayre#1']" end="234" reporter="F. 3d" entry_type="standard_key" lookup_key="f.3d_5_996" id1="116863" volume="5" start="223" page_number="996" standard_reporter="F.3D" citation_global_level_id="52581.002" line="3" id="116863_12" citation_local_level_id="2" >5 F. 3d 996</CITATION>
+
+<RELATION theme="116863_1" includes_docket_string="93-1096" includes_docket="116863_2" theme_string="510 U.S. 1119" gram_type="apposition" relation_type="asymmetric" id="116863_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1119" X_vs_Y_string="Hutsell v. Sayre" standard_case="116863_1" X_vs_Y="116863_3" gram_type="pre_nom" relation_type="equivalence" id="116863_7" ></RELATION>
+
+<RELATION theme="116863_3" includes_docket_string="93-1096" includes_docket="116863_2" theme_string="Hutsell v. Sayre" gram_type="apposition" relation_type="asymmetric" id="116863_10" ></RELATION>
+
+<RELATION theme="116863_3" party1="116863_4" party1_string="Hutsell" theme_string="Hutsell v. Sayre" gram_type="infix" relation_type="asymmetric" id="116863_8" ></RELATION>
+
+<RELATION party2="116863_5" theme="116863_3" theme_string="Hutsell v. Sayre" party2_string="Sayre" gram_type="infix" relation_type="asymmetric" id="116863_9" ></RELATION>
+

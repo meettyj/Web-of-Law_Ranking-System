@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['wisewashington#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1209" id1="127393" volume="537" start="0" page_number="1209" standard_reporter="U.S." citation_global_level_id="8226.002" line="1" id="127389_1" citation_local_level_id="0" >537 U.S. 1209</CITATION>
+
+<CITATION party2="WASHINGTON" party1="WISE" citation_global_level_id="9670.001" party2_short="WASHINGTON" line="1" id="127389_3" alternative_keys="['u.s._537_1209']" end="36" entry_type="party_key" lookup_key="wisewashington#1" id1="127389" start="18" party1_short="WISE" citation_local_level_id="1" >WISE v. WASHINGTON</CITATION>
+
+<NAME end="22" start="18" party1_of="127389_3" all_names="WISE" local_name_id="1" id="127389_4" >WISE</NAME>
+
+<NAME end="36" start="26" all_names="WASHINGTON" party2_of="127389_3" local_name_id="2" id="127389_5" >WASHINGTON</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="u.s._537_1209" id1="127393" start="46" citation_global_level_id="8226.002" line="1" id="127389_2" citation_local_level_id="0" >02-8148</DOCKET>
+
+<DATE start="95" end="112" id="127389_6" >February 24, 2003</DATE>
+
+<NAME start="228" local_name_id="3" end="230" id="127389_12" all_names="CT" >Ct</NAME>
+
+<RELATION theme="127389_1" includes_docket_string="02-8148" includes_docket="127389_2" theme_string="537 U.S. 1209" gram_type="apposition" relation_type="asymmetric" id="127389_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1209" X_vs_Y_string="WISE v. WASHINGTON" standard_case="127389_1" X_vs_Y="127389_3" gram_type="pre_nom" relation_type="equivalence" id="127389_7" ></RELATION>
+
+<RELATION theme="127389_3" includes_docket_string="02-8148" includes_docket="127389_2" theme_string="WISE v. WASHINGTON" gram_type="apposition" relation_type="asymmetric" id="127389_10" ></RELATION>
+
+<RELATION theme="127389_3" party1="127389_4" party1_string="WISE" theme_string="WISE v. WASHINGTON" gram_type="infix" relation_type="asymmetric" id="127389_8" ></RELATION>
+
+<RELATION party2="127389_5" theme="127389_3" theme_string="WISE v. WASHINGTON" party2_string="WASHINGTON" gram_type="infix" relation_type="asymmetric" id="127389_9" ></RELATION>
+

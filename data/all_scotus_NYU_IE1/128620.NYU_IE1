@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['earvinstates#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_955" id1="128610" volume="538" start="0" page_number="955" standard_reporter="U.S." citation_global_level_id="1540.002" line="1" id="128620_1" citation_local_level_id="0" >538 U.S. 955</CITATION>
+
+<CITATION party2="UNITED STATES" party1="EARVIN" citation_global_level_id="61588.001" party2_short="STATES" line="1" id="128620_3" alternative_keys="['u.s._538_955']" end="40" entry_type="party_key" lookup_key="earvinstates#1" id1="128620" start="17" party1_short="EARVIN" citation_local_level_id="1" >EARVIN v. UNITED STATES</CITATION>
+
+<NAME end="23" start="17" party1_of="128620_3" all_names="EARVIN" local_name_id="1" id="128620_4" >EARVIN</NAME>
+
+<NAME end="40" start="27" all_names="UNITED STATES" party2_of="128620_3" local_name_id="2" id="128620_5" >UNITED STATES</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._538_955" id1="128610" start="50" citation_global_level_id="1540.002" line="1" id="128620_2" citation_local_level_id="0" >02-9213</DOCKET>
+
+<DATE start="99" end="113" id="128620_6" >March 31, 2003</DATE>
+
+<NAME start="244" local_name_id="3" end="247" id="128620_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="128620_1" includes_docket_string="02-9213" includes_docket="128620_2" theme_string="538 U.S. 955" gram_type="apposition" relation_type="asymmetric" id="128620_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 955" X_vs_Y_string="EARVIN v. UNITED STATES" standard_case="128620_1" X_vs_Y="128620_3" gram_type="pre_nom" relation_type="equivalence" id="128620_7" ></RELATION>
+
+<RELATION theme="128620_3" includes_docket_string="02-9213" includes_docket="128620_2" theme_string="EARVIN v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="128620_10" ></RELATION>
+
+<RELATION theme="128620_3" party1="128620_4" party1_string="EARVIN" theme_string="EARVIN v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="128620_8" ></RELATION>
+
+<RELATION party2="128620_5" theme="128620_3" theme_string="EARVIN v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="128620_9" ></RELATION>
+

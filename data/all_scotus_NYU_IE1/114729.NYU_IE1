@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['blankstynstates#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_945" id1="114733" volume="510" start="0" page_number="945" standard_reporter="U.S." citation_global_level_id="10281.002" line="1" id="114729_1" citation_local_level_id="0" >510 U.S. 945</CITATION>
+
+<CITATION party2="United States" party1="Blankstyn" citation_global_level_id="55676.001" party2_short="States" line="1" id="114729_3" alternative_keys="['u.s._510_945']" end="43" entry_type="party_key" lookup_key="blankstynstates#1" id1="114729" start="17" party1_short="Blankstyn" citation_local_level_id="1" >Blankstyn v. United States</CITATION>
+
+<NAME end="26" start="17" party1_of="114729_3" all_names="BLANKSTYN" local_name_id="1" id="114729_4" >Blankstyn</NAME>
+
+<NAME end="43" start="30" all_names="UNITED STATES" party2_of="114729_3" local_name_id="2" id="114729_5" >United States</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="u.s._510_945" id1="114733" start="53" citation_global_level_id="10281.002" line="1" id="114729_2" citation_local_level_id="0" >93-209</DOCKET>
+
+<DATE start="101" end="117" id="114729_6" >November 1, 1993</DATE>
+
+<NAME start="195" local_name_id="3" end="205" id="114729_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="243" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_988_117" id1="Dummy_File_42579" volume="988" start="230" page_number="117" standard_reporter="F.2D" citation_global_level_id="106429.001" line="3" id="114729_12" citation_local_level_id="2" >988 F. 2d 117</CITATION>
+
+<RELATION theme="114729_1" includes_docket_string="93-209" includes_docket="114729_2" theme_string="510 U.S. 945" gram_type="apposition" relation_type="asymmetric" id="114729_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 945" X_vs_Y_string="Blankstyn v. United States" standard_case="114729_1" X_vs_Y="114729_3" gram_type="pre_nom" relation_type="equivalence" id="114729_7" ></RELATION>
+
+<RELATION theme="114729_3" includes_docket_string="93-209" includes_docket="114729_2" theme_string="Blankstyn v. United States" gram_type="apposition" relation_type="asymmetric" id="114729_10" ></RELATION>
+
+<RELATION theme="114729_3" party1="114729_4" party1_string="Blankstyn" theme_string="Blankstyn v. United States" gram_type="infix" relation_type="asymmetric" id="114729_8" ></RELATION>
+
+<RELATION party2="114729_5" theme="114729_3" theme_string="Blankstyn v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="114729_9" ></RELATION>
+

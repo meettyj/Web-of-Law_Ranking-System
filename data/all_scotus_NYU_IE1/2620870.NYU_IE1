@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['bellbeveridge#1', 'dall_4_272']" end="18" reporter="U.S." entry_type="standard_key" lookup_key="u.s._4_272" id1="2620870" volume="4" start="1" page_number="272" standard_reporter="U.S." citation_global_level_id="62975.002" line="2" id="2620870_1" citation_local_level_id="0" >4 U.S. 272 (____)</CITATION>
+
+<CITATION alternative_keys="['u.s._4_272', 'bellbeveridge#1']" end="30" reporter="Dall" entry_type="standard_key" lookup_key="dall_4_272" id1="2620870" volume="4" start="19" page_number="272" standard_reporter="DALL" citation_global_level_id="62975.003" line="3" id="2620870_2" citation_local_level_id="1" >4 Dall. 272</CITATION>
+
+<CITATION party2="Beveridge" party1="Bell" citation_global_level_id="62975.001" party2_short="Beveridge" line="6" id="2620870_4" alternative_keys="['u.s._4_272', 'dall_4_272']" end="54" entry_type="party_key" lookup_key="bellbeveridge#1" id1="2620870" start="31" party1_short="Bell" citation_local_level_id="2" >Bell versus Beveridge</CITATION>
+
+<NAME end="35" start="31" party1_of="2620870_4" all_names="BELL" local_name_id="1" id="2620870_5" >Bell</NAME>
+
+<NAME end="54" start="45" all_names="BEVERIDGE" party2_of="2620870_4" local_name_id="2" id="2620870_6" >Beveridge</NAME>
+
+<ORGANIZATION start="56" end="86" id="2620870_9" >Supreme Court of United States</ORGANIZATION>
+
+<ORGANIZATION start="98" end="103" id="2620870_12" >COURT</ORGANIZATION>
+
+<LEGAL_ROLE start="260" end="269" id="2620870_13" >plaintiff</LEGAL_ROLE>
+
+<FAMILY start="476" end="484" id="2620870_14" >relative</FAMILY>
+
+<ORGANIZATION start="818" end="823" id="2620870_15" >Court</ORGANIZATION>
+
+<LEGAL_ROLE start="845" end="854" id="2620870_16" >plaintiff</LEGAL_ROLE>
+
+<NAME start="864" local_name_id="3" end="868" id="2620870_17" all_names="JURY" >Jury</NAME>
+
+<RELATION theme="2620870_4" party1="2620870_5" party1_string="Bell" theme_string="Bell  versus  Beveridge" gram_type="infix" relation_type="asymmetric" id="2620870_7" ></RELATION>
+
+<RELATION party2="2620870_6" theme="2620870_4" theme_string="Bell  versus  Beveridge" party2_string="Beveridge" gram_type="infix" relation_type="asymmetric" id="2620870_8" ></RELATION>
+
+<RELATION standard_case_string="4 U.S. 272 (____)" X_vs_Y_string="Bell  versus  Beveridge" standard_case="2620870_1" X_vs_Y="2620870_4" gram_type="multi_line" relation_type="equivalence" id="2620870_10" ></RELATION>
+
+<RELATION standard_case_string="4 Dall. 272" X_vs_Y_string="Bell  versus  Beveridge" standard_case="2620870_2" X_vs_Y="2620870_4" gram_type="multi_line" relation_type="equivalence" id="2620870_11" ></RELATION>
+

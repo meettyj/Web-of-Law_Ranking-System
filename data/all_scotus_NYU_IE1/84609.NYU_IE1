@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['hollingsworthhamelin#1', 'dall_1_151', 'l.ed._1_77']" end="10" reporter="U.S." entry_type="standard_key" lookup_key="u.s._1_151" id1="84609" volume="1" start="0" page_number="151" standard_reporter="U.S." citation_global_level_id="13390.002" line="1" id="84609_1" citation_local_level_id="0" >1 U.S. 151</CITATION>
+
+<CITATION alternative_keys="['u.s._1_151', 'hollingsworthhamelin#1', 'l.ed._1_77']" end="26" reporter="Dall" entry_type="standard_key" lookup_key="dall_1_151" id1="84609" volume="1" start="15" page_number="151" standard_reporter="DALL" citation_global_level_id="13390.003" line="1" id="84609_2" citation_local_level_id="1" >1 Dall. 151</CITATION>
+
+<NAME start="17" local_name_id="1" end="21" id="84609_9" all_names="DALL" >Dall</NAME>
+
+<CITATION alternative_keys="['u.s._1_151', 'dall_1_151', 'hollingsworthhamelin#1']" end="42" reporter="L. Ed." entry_type="standard_key" lookup_key="l.ed._1_77" id1="84609" volume="1" start="31" page_number="77" standard_reporter="L.ED." citation_global_level_id="13390.004" line="1" id="84609_3" citation_local_level_id="2" >1 L. Ed. 77</CITATION>
+
+<CITATION party2="Hamelin" party1="Hollingsworth" citation_global_level_id="13390.001" party2_short="Hamelin" line="1" id="84609_4" alternative_keys="['u.s._1_151', 'dall_1_151', 'l.ed._1_77']" end="71" entry_type="party_key" lookup_key="hollingsworthhamelin#1" id1="84609" start="47" party1_short="Hollingsworth" citation_local_level_id="3" >Hollingsworth v. Hamelin</CITATION>
+
+<NAME end="60" start="47" party1_of="84609_4" all_names="HOLLINGSWORTH" local_name_id="2" id="84609_5" >Hollingsworth</NAME>
+
+<NAME end="71" start="64" all_names="HAMELIN" party2_of="84609_4" local_name_id="3" id="84609_6" >Hamelin</NAME>
+
+<DATE start="153" end="157" id="84609_7" >1785</DATE>
+
+<DATE start="1045" end="1058" id="84609_8" >February 1785</DATE>
+
+<ORGANIZATION start="1181" end="1186" id="84609_15" >Court</ORGANIZATION>
+
+<NAME start="1234" local_name_id="4" end="1246" id="84609_16" all_names="COMMONWEALTH" >Commonwealth</NAME>
+
+<RELATION standard_case_string="1 U.S. 151" X_vs_Y_string="Hollingsworth v. Hamelin" standard_case="84609_1" X_vs_Y="84609_4" gram_type="pre_nom" relation_type="equivalence" id="84609_11" ></RELATION>
+
+<RELATION standard_case_string="1 Dall. 151" X_vs_Y_string="Hollingsworth v. Hamelin" standard_case="84609_2" X_vs_Y="84609_4" gram_type="pre_nom" relation_type="equivalence" id="84609_12" ></RELATION>
+
+<RELATION standard_case_string="1 L. Ed. 77" X_vs_Y_string="Hollingsworth v. Hamelin" standard_case="84609_3" X_vs_Y="84609_4" gram_type="pre_nom" relation_type="equivalence" id="84609_10" ></RELATION>
+
+<RELATION theme="84609_4" party1="84609_5" party1_string="Hollingsworth" theme_string="Hollingsworth v. Hamelin" gram_type="infix" relation_type="asymmetric" id="84609_13" ></RELATION>
+
+<RELATION party2="84609_6" theme="84609_4" theme_string="Hollingsworth v. Hamelin" party2_string="Hamelin" gram_type="infix" relation_type="asymmetric" id="84609_14" ></RELATION>
+

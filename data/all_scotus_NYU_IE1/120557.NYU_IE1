@@ -1,0 +1,36 @@
+<CITATION alternative_keys="['montgomerymaryland#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1075" id1="120561" volume="535" start="0" page_number="1075" standard_reporter="U.S." citation_global_level_id="5272.002" line="1" id="120557_1" citation_local_level_id="0" >535 U.S. 1075</CITATION>
+
+<CITATION party2="MARYLAND ET AL" party1="MONTGOMERY" citation_global_level_id="34752.001" party2_short="MARYLAND" line="2" id="120557_2" alternative_keys="['u.s._535_1075']" end="46" entry_type="party_key" lookup_key="montgomerymaryland#1" id1="120557" start="18" party1_short="MONTGOMERY" citation_local_level_id="1" >MONTGOMERY v. MARYLAND ET AL</CITATION>
+
+<NAME end="28" start="18" party1_of="120557_2" all_names="MONTGOMERY" local_name_id="1" id="120557_3" >MONTGOMERY</NAME>
+
+<NAME end="46" start="32" all_names="MARYLAND" party2_of="120557_2" local_name_id="2" id="120557_4" >MARYLAND ET AL</NAME>
+
+<DOCKET end="63" entry_type="docket" lookup_key="montgomerymaryland#1" id1="120557" start="56" citation_global_level_id="34752.001" line="3" id="120557_7" citation_local_level_id="1" >01-1079</DOCKET>
+
+<DATE start="109" citation_global_level_id="34752.001" end="121" id="120557_8" citation_local_level_id="1" >May 20, 2002</DATE>
+
+<NAME start="153" local_name_id="3" end="156" id="120557_16" all_names="CIR" >Cir</NAME>
+
+<CITATION party2="Board of Regents of Univ. System of Ga" party1="Lapides" citation_global_level_id="39898.001" party2_short="Board" line="8" id="120557_13" end="301" entry_type="party_key" lookup_key="lapidesboard#1" id1="118504" start="252" party1_short="Lapides" citation_local_level_id="2" >Lapides v. Board of Regents of Univ. System of Ga</CITATION>
+
+<NAME end="259" start="252" party1_of="120557_13" all_names="LAPIDES" local_name_id="4" id="120557_14" >Lapides</NAME>
+
+<NAME end="301" start="263" all_names="BOARD OF REGENTS OF UNIV SYSTEM OF GA" party2_of="120557_13" local_name_id="5" id="120557_15" >Board of Regents of Univ. System of Ga</NAME>
+
+<CITATION end="347" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_266_334" id1="Dummy_File_141279" volume="266" start="334" page_number="334" standard_reporter="F.3D" citation_global_level_id="205129.001" line="8" id="120557_12" citation_local_level_id="3" >266 F. 3d 334</CITATION>
+
+<RELATION theme="120557_2" party1="120557_3" party1_string="MONTGOMERY" theme_string="MONTGOMERY v. MARYLAND ET AL" gram_type="infix" relation_type="asymmetric" id="120557_5" ></RELATION>
+
+<RELATION party2="120557_4" theme="120557_2" theme_string="MONTGOMERY v. MARYLAND ET AL" party2_string="MARYLAND ET AL" gram_type="infix" relation_type="asymmetric" id="120557_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1075" X_vs_Y_string="MONTGOMERY v. MARYLAND ET AL" standard_case="120557_1" X_vs_Y="120557_2" gram_type="multi_line" relation_type="equivalence" id="120557_9" ></RELATION>
+
+<RELATION at_date_string="May 20, 2002" theme="120557_2" at_date="120557_8" theme_string="MONTGOMERY v. MARYLAND ET AL" gram_type="multi_line" relation_type="asymmetric" id="120557_11" ></RELATION>
+
+<RELATION theme="120557_2" includes_docket_string="01-1079" includes_docket="120557_7" theme_string="MONTGOMERY v. MARYLAND ET AL" gram_type="multi_line" relation_type="asymmetric" id="120557_10" ></RELATION>
+
+<RELATION theme="120557_13" party1="120557_14" party1_string="Lapides" theme_string="Lapides v. Board of Regents of Univ. System of Ga" gram_type="infix" relation_type="asymmetric" id="120557_17" ></RELATION>
+
+<RELATION party2="120557_15" theme="120557_13" theme_string="Lapides v. Board of Regents of Univ. System of Ga" party2_string="Board of Regents of Univ. System of Ga" gram_type="infix" relation_type="asymmetric" id="120557_18" ></RELATION>
+

@@ -1,0 +1,62 @@
+<CITATION end="17" reporter="U.S." entry_type="standard_key" no_current_file="True" lookup_key="u.s._8_46" id1="Dummy_File_238909" volume="8" start="1" page_number="46" standard_reporter="U.S." citation_global_level_id="302759.001" line="2" id="84837_1" citation_local_level_id="0" >8 U.S. 46 (____)</CITATION>
+
+<CITATION alternative_keys="['montaletmurray#2']" end="29" reporter="Cranch" entry_type="standard_key" lookup_key="cranch_4_46" id1="84837" volume="4" start="18" page_number="46" standard_reporter="CRANCH" citation_global_level_id="34837.002" line="3" id="84837_2" citation_local_level_id="1" >4 Cranch 46</CITATION>
+
+<NAME start="30" local_name_id="1" end="38" id="84837_4" all_names="MONTALET" >MONTALET</NAME>
+
+<ORGANIZATION start="55" end="85" id="84837_5" >Supreme Court of United States</ORGANIZATION>
+
+<NAME start="92" local_name_id="2" end="100" id="84837_6" all_names="PB KEY	KEY" >P.B. Key</NAME>
+
+<LEGAL_ROLE start="106" end="115" id="84837_7" >defendant</LEGAL_ROLE>
+
+<ORGANIZATION start="130" end="135" id="84837_8" >Court</ORGANIZATION>
+
+<ORGANIZATION start="172" end="199" plural="True" id="84837_9" >courts of the United States</ORGANIZATION>
+
+<NAME start="246" local_name_id="2" end="249" id="84837_10" all_names="PB KEY	KEY" >Key</NAME>
+
+<NAME start="381" local_name_id="3" end="389" id="84837_11" all_names="MARSHALL" >MARSHALL</NAME>
+
+<NAME start="391" local_name_id="4" end="396" id="84837_12" all_names="CH J" >Ch. J</NAME>
+
+<ORGANIZATION start="591" end="596" id="84837_13" >court</ORGANIZATION>
+
+<NAME start="598" local_name_id="5" end="606" id="84837_17" all_names="JUDGMENT" >Judgment</NAME>
+
+<CITATION party2="Jackson" party1="Winchester" citation_global_level_id="297077.003" party2_short="Jackson" line="13" id="84837_14" alternative_keys="['cranch_3_515']" end="702" no_current_file="True" entry_type="party_key" lookup_key="winchesterjackson#2" id1="Dummy_File_233227" start="681" party1_short="Winchester" citation_local_level_id="2" >Winchester v. Jackson</CITATION>
+
+<NAME end="691" start="681" party1_of="84837_14" all_names="WINCHESTER" local_name_id="6" id="84837_15" >Winchester</NAME>
+
+<NAME end="702" start="695" all_names="JACKSON" party2_of="84837_14" local_name_id="7" id="84837_16" >Jackson</NAME>
+
+<NAME start="718" local_name_id="8" end="722" id="84837_18" all_names="ANTE" >Ante</NAME>
+
+<ORGANIZATION start="777" end="782" id="84837_21" >Court</ORGANIZATION>
+
+<PROFESSION start="802" end="809" id="84837_22" >general</PROFESSION>
+
+<PROFESSION start="828" end="833" id="84837_23" >clerk</PROFESSION>
+
+<NAME start="1018" local_name_id="9" end="1023" id="84837_24" all_names="NOTES" >NOTES</NAME>
+
+<NAME start="1029" local_name_id="10" end="1036" id="84837_25" all_names="PRESENT" >Present</NAME>
+
+<NAME start="1038" local_name_id="3" end="1046" id="84837_26" all_names="MARSHALL" >Marshall</NAME>
+
+<PROFESSION start="1048" document_level_name_id="10" end="1061" id="84837_27" party="PRESENT" >Chief Justice</PROFESSION>
+
+<NAME start="1063" local_name_id="11" end="1073" id="84837_28" all_names="WASHINGTON" >Washington</NAME>
+
+<PROFESSION end="1107" document_level_name_id="11" start="1075" party="WASHINGTON" plural="True" id="84837_29" >Johnson and Livingston, Justices</PROFESSION>
+
+<RELATION theme="84837_14" party1="84837_15" party1_string="Winchester" theme_string="Winchester v. Jackson" gram_type="infix" relation_type="asymmetric" id="84837_19" ></RELATION>
+
+<RELATION party2="84837_16" theme="84837_14" theme_string="Winchester v. Jackson" party2_string="Jackson" gram_type="infix" relation_type="asymmetric" id="84837_20" ></RELATION>
+
+<RELATION theme="84837_25" profession_string="Chief Justice" theme_string="Present" profession="84837_27" gram_type="apposition" relation_type="asymmetric" id="84837_31" ></RELATION>
+
+<RELATION theme="84837_26" profession_string="Chief Justice" theme_string="Marshall" profession="84837_27" gram_type="apposition" relation_type="asymmetric" id="84837_30" ></RELATION>
+
+<RELATION theme="84837_28" profession_string="Johnson and Livingston, Justices" theme_string="Washington" profession="84837_29" gram_type="apposition" relation_type="asymmetric" id="84837_32" ></RELATION>
+

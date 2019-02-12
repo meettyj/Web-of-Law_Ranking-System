@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['austinlinahan#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_982" id1="115224" volume="510" start="0" page_number="982" standard_reporter="U.S." citation_global_level_id="2022.002" line="1" id="115210_1" citation_local_level_id="0" >510 U.S. 982</CITATION>
+
+<CITATION party2="Linahan, Warden" party1="Austin" citation_global_level_id="2022.003" party2_short="Linahan" line="1" id="115210_3" alternative_keys="['u.s._510_982']" end="42" entry_type="party_key" lookup_key="austinlinahan#1" id1="115224" start="17" party1_short="Austin" citation_local_level_id="1" >Austin v. Linahan, Warden</CITATION>
+
+<NAME end="23" start="17" party1_of="115210_3" all_names="AUSTIN" local_name_id="1" id="115210_4" >Austin</NAME>
+
+<NAME end="42" start="27" all_names="LINAHAN WARDEN" party2_of="115210_3" local_name_id="2" id="115210_5" >Linahan, Warden</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="u.s._510_982" id1="115224" start="52" citation_global_level_id="2022.002" line="1" id="115210_2" citation_local_level_id="0" >93-6205</DOCKET>
+
+<DATE start="101" end="118" id="115210_6" >November 15, 1993</DATE>
+
+<NAME start="197" local_name_id="3" end="207" id="115210_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="246" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_993_1555" id1="Dummy_File_136284" volume="993" start="232" page_number="1555" standard_reporter="F.2D" citation_global_level_id="200134.001" line="3" id="115210_12" citation_local_level_id="2" >993 F. 2d 1555</CITATION>
+
+<RELATION theme="115210_1" includes_docket_string="93-6205" includes_docket="115210_2" theme_string="510 U.S. 982" gram_type="apposition" relation_type="asymmetric" id="115210_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 982" X_vs_Y_string="Austin v. Linahan, Warden" standard_case="115210_1" X_vs_Y="115210_3" gram_type="pre_nom" relation_type="equivalence" id="115210_7" ></RELATION>
+
+<RELATION theme="115210_3" includes_docket_string="93-6205" includes_docket="115210_2" theme_string="Austin v. Linahan, Warden" gram_type="apposition" relation_type="asymmetric" id="115210_10" ></RELATION>
+
+<RELATION theme="115210_3" party1="115210_4" party1_string="Austin" theme_string="Austin v. Linahan, Warden" gram_type="infix" relation_type="asymmetric" id="115210_8" ></RELATION>
+
+<RELATION party2="115210_5" theme="115210_3" theme_string="Austin v. Linahan, Warden" party2_string="Linahan, Warden" gram_type="infix" relation_type="asymmetric" id="115210_9" ></RELATION>
+

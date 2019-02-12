@@ -1,0 +1,44 @@
+<CITATION alternative_keys="['gorestates#6']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_958" id1="143614" volume="544" start="0" page_number="958" standard_reporter="U.S." citation_global_level_id="1267.002" line="1" id="143603_1" citation_local_level_id="0" >544 U.S. 958</CITATION>
+
+<CITATION party2="UNITED STATES" party1="GORE" citation_global_level_id="60549.001" party2_short="STATES" line="2" id="143603_2" alternative_keys="['u.s._544_958']" end="38" entry_type="party_key" lookup_key="gorestates#6" id1="144121" start="17" party1_short="GORE" citation_local_level_id="1" >GORE v. UNITED STATES</CITATION>
+
+<NAME end="21" start="17" party1_of="143603_2" all_names="GORE" local_name_id="1" id="143603_3" >GORE</NAME>
+
+<NAME end="38" start="25" all_names="UNITED STATES" party2_of="143603_2" local_name_id="2" id="143603_4" >UNITED STATES</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="gorestates#6" id1="144121" start="48" citation_global_level_id="60549.001" line="3" id="143603_7" citation_local_level_id="1" >04-1154</DOCKET>
+
+<ORGANIZATION start="61" end="91" id="143603_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="97" citation_global_level_id="60549.001" end="110" id="143603_9" citation_local_level_id="1" >April 4, 2005</DATE>
+
+<NAME start="142" local_name_id="3" end="145" id="143603_18" all_names="CIR" >Cir</NAME>
+
+<CITATION party2="Booker" party1="United States" citation_global_level_id="57130.001" party2_short="Booker" line="8" id="143603_14" alternative_keys="['u.s._543_220']" end="302" entry_type="party_key" lookup_key="statesbooker#4" id1="137703" start="279" party1_short="States" citation_local_level_id="2" >United States v. Booker</CITATION>
+
+<NAME end="292" start="279" party1_of="143603_14" all_names="UNITED STATES" local_name_id="2" id="143603_15" >United States</NAME>
+
+<NAME end="302" start="296" all_names="BOOKER" party2_of="143603_14" local_name_id="4" id="143603_16" >Booker</NAME>
+
+<CITATION alternative_keys="['statesbooker#4']" end="323" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_220" id1="145930" volume="543" start="304" page_number="220" year="2005" standard_reporter="U.S." citation_global_level_id="3524.003" line="8" id="143603_13" citation_local_level_id="3" >543 U.S. 220 (2005)</CITATION>
+
+<DATE start="318" citation_global_level_id="3524.003" end="322" id="143603_17" citation_local_level_id="3" >2005</DATE>
+
+<RELATION theme="143603_2" party1="143603_3" party1_string="GORE" theme_string="GORE v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="143603_5" ></RELATION>
+
+<RELATION party2="143603_4" theme="143603_2" theme_string="GORE v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="143603_6" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 958" X_vs_Y_string="GORE v. UNITED STATES" standard_case="143603_1" X_vs_Y="143603_2" gram_type="multi_line" relation_type="equivalence" id="143603_10" ></RELATION>
+
+<RELATION at_date_string="April 4, 2005" theme="143603_2" at_date="143603_9" theme_string="GORE v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="143603_12" ></RELATION>
+
+<RELATION theme="143603_2" includes_docket_string="04-1154" includes_docket="143603_7" theme_string="GORE v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="143603_11" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 220 (2005)" X_vs_Y_string="United States v. Booker" standard_case="143603_13" X_vs_Y="143603_14" gram_type="apposition" relation_type="equivalence" id="143603_21" ></RELATION>
+
+<RELATION theme="143603_14" party1="143603_15" party1_string="United States" theme_string="United States v. Booker" gram_type="infix" relation_type="asymmetric" id="143603_19" ></RELATION>
+
+<RELATION party2="143603_16" theme="143603_14" theme_string="United States v. Booker" party2_string="Booker" gram_type="infix" relation_type="asymmetric" id="143603_20" ></RELATION>
+
+<RELATION at_date_string="2005" theme="143603_13" at_date="143603_17" theme_string="543 U.S. 220 (2005)" gram_type="infix" relation_type="asymmetric" id="143603_22" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['fontenottexas#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1193" id1="117584" volume="510" start="0" page_number="1193" standard_reporter="U.S." citation_global_level_id="8366.002" line="1" id="117586_1" citation_local_level_id="0" >510 U.S. 1193</CITATION>
+
+<CITATION party2="Texas et al" party1="Fontenot" citation_global_level_id="54265.001" party2_short="Texas" line="1" id="117586_3" alternative_keys="['u.s._510_1193']" end="41" entry_type="party_key" lookup_key="fontenottexas#1" id1="117586" start="18" party1_short="Fontenot" citation_local_level_id="1" >Fontenot v. Texas et al</CITATION>
+
+<NAME end="26" start="18" party1_of="117586_3" all_names="FONTENOT" local_name_id="1" id="117586_4" >Fontenot</NAME>
+
+<NAME end="41" start="30" all_names="TEXAS" party2_of="117586_3" local_name_id="2" id="117586_5" >Texas et al</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._510_1193" id1="117584" start="51" citation_global_level_id="8366.002" line="1" id="117586_2" citation_local_level_id="0" >93-1176</DOCKET>
+
+<DATE start="100" end="114" id="117586_6" >March 21, 1994</DATE>
+
+<NAME start="192" local_name_id="3" end="202" id="117586_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="238" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_4_991" id1="Dummy_File_130072" volume="4" start="227" page_number="991" standard_reporter="F.3D" citation_global_level_id="193922.001" line="3" id="117586_12" citation_local_level_id="2" >4 F. 3d 991</CITATION>
+
+<RELATION theme="117586_1" includes_docket_string="93-1176" includes_docket="117586_2" theme_string="510 U.S. 1193" gram_type="apposition" relation_type="asymmetric" id="117586_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1193" X_vs_Y_string="Fontenot v. Texas et al" standard_case="117586_1" X_vs_Y="117586_3" gram_type="pre_nom" relation_type="equivalence" id="117586_7" ></RELATION>
+
+<RELATION theme="117586_3" includes_docket_string="93-1176" includes_docket="117586_2" theme_string="Fontenot v. Texas et al" gram_type="apposition" relation_type="asymmetric" id="117586_10" ></RELATION>
+
+<RELATION theme="117586_3" party1="117586_4" party1_string="Fontenot" theme_string="Fontenot v. Texas et al" gram_type="infix" relation_type="asymmetric" id="117586_8" ></RELATION>
+
+<RELATION party2="117586_5" theme="117586_3" theme_string="Fontenot v. Texas et al" party2_string="Texas et al" gram_type="infix" relation_type="asymmetric" id="117586_9" ></RELATION>
+

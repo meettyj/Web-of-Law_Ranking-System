@@ -1,0 +1,40 @@
+<CITATION alternative_keys="['wolffcompany#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_827" id1="113210" volume="510" start="0" page_number="827" standard_reporter="U.S." citation_global_level_id="1857.002" line="1" id="113203_1" citation_local_level_id="0" >510 U.S. 827</CITATION>
+
+<CITATION party2="Life Insurance Company of North America et al" party1="Wolff et al." citation_global_level_id="38487.001" party2_short="Company" line="1" id="113203_3" alternative_keys="['u.s._510_827']" end="78" entry_type="party_key" lookup_key="wolffcompany#1" id1="113203" start="17" party1_short="Wolff" citation_local_level_id="1" >Wolff et al. v. Life Insurance Company of North America et al</CITATION>
+
+<NAME end="29" start="17" party1_of="113203_3" all_names="WOLFF" local_name_id="1" id="113203_4" >Wolff et al.</NAME>
+
+<NAME start="17" local_name_id="1" end="22" id="113203_8" all_names="WOLFF" >Wolff</NAME>
+
+<NAME end="78" start="33" all_names="LIFE INSURANCE COMPANY OF NORTH AMERICA" party2_of="113203_3" local_name_id="2" id="113203_5" >Life Insurance Company of North America et al</NAME>
+
+<ORGANIZATION start="33" end="72" id="113203_9" >Life Insurance Company of North America</ORGANIZATION>
+
+<DOCKET end="95" entry_type="docket" lookup_key="u.s._510_827" id1="113210" start="88" citation_global_level_id="1857.002" line="1" id="113203_2" citation_local_level_id="0" >92-2037</DOCKET>
+
+<DATE start="91" end="95" id="113203_6" >2037</DATE>
+
+<ORGANIZATION start="101" end="131" id="113203_10" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="137" end="152" id="113203_7" >October 4, 1993</DATE>
+
+<NAME start="174" local_name_id="3" end="191" id="113203_11" all_names="APPEAL FROM THE C" >Appeal from the C</NAME>
+
+<NAME start="200" local_name_id="4" end="203" id="113203_12" all_names="CIR" >Cir</NAME>
+
+<NAME start="230" local_name_id="5" end="240" id="113203_20" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="278" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_989_501" id1="Dummy_File_26896" volume="989" start="265" page_number="501" standard_reporter="F.2D" citation_global_level_id="90746.001" line="3" id="113203_19" citation_local_level_id="2" >989 F. 2d 501</CITATION>
+
+<RELATION theme="113203_1" includes_docket_string="92-2037" includes_docket="113203_2" theme_string="510 U.S. 827" gram_type="apposition" relation_type="asymmetric" id="113203_17" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 827" X_vs_Y_string="Wolff et al. v. Life Insurance Company of North America et al" standard_case="113203_1" X_vs_Y="113203_3" gram_type="pre_nom" relation_type="equivalence" id="113203_13" ></RELATION>
+
+<RELATION theme="113203_3" includes_docket_string="92-2037" includes_docket="113203_2" theme_string="Wolff et al. v. Life Insurance Company of North America et al" gram_type="apposition" relation_type="asymmetric" id="113203_16" ></RELATION>
+
+<RELATION theme="113203_3" party1="113203_4" party1_string="Wolff et al." theme_string="Wolff et al. v. Life Insurance Company of North America et al" gram_type="infix" relation_type="asymmetric" id="113203_14" ></RELATION>
+
+<RELATION party2="113203_5" theme="113203_3" theme_string="Wolff et al. v. Life Insurance Company of North America et al" party2_string="Life Insurance Company of North America et al" gram_type="infix" relation_type="asymmetric" id="113203_15" ></RELATION>
+
+<RELATION at_date_string="2037" theme="113203_2" at_date="113203_6" theme_string="92-2037" gram_type="infix" relation_type="asymmetric" id="113203_18" ></RELATION>
+

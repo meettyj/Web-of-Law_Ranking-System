@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['chorneyweingarten#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1200" id1="117673" volume="510" start="0" page_number="1200" standard_reporter="U.S." citation_global_level_id="270.002" line="1" id="117673_1" citation_local_level_id="0" >510 U.S. 1200</CITATION>
+
+<CITATION party2="Weingarten et al" party1="Chorney" citation_global_level_id="270.001" party2_short="Weingarten" line="1" id="117673_3" alternative_keys="['u.s._510_1200']" end="45" entry_type="party_key" lookup_key="chorneyweingarten#1" id1="117673" start="18" party1_short="Chorney" citation_local_level_id="1" >Chorney v. Weingarten et al</CITATION>
+
+<NAME end="25" start="18" party1_of="117673_3" all_names="CHORNEY" local_name_id="1" id="117673_4" >Chorney</NAME>
+
+<NAME end="45" start="29" all_names="WEINGARTEN" party2_of="117673_3" local_name_id="2" id="117673_5" >Weingarten et al</NAME>
+
+<DOCKET end="62" entry_type="docket" lookup_key="u.s._510_1200" id1="117673" start="55" citation_global_level_id="270.002" line="1" id="117673_2" citation_local_level_id="0" >93-7566</DOCKET>
+
+<DATE start="104" end="118" id="117673_6" >March 21, 1994</DATE>
+
+<NAME start="196" local_name_id="3" end="206" id="117673_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="242" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_7_218" id1="Dummy_File_100144" volume="7" start="231" page_number="218" standard_reporter="F.3D" citation_global_level_id="163994.001" line="3" id="117673_12" citation_local_level_id="2" >7 F. 3d 218</CITATION>
+
+<RELATION theme="117673_1" includes_docket_string="93-7566" includes_docket="117673_2" theme_string="510 U.S. 1200" gram_type="apposition" relation_type="asymmetric" id="117673_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1200" X_vs_Y_string="Chorney v. Weingarten et al" standard_case="117673_1" X_vs_Y="117673_3" gram_type="pre_nom" relation_type="equivalence" id="117673_7" ></RELATION>
+
+<RELATION theme="117673_3" includes_docket_string="93-7566" includes_docket="117673_2" theme_string="Chorney v. Weingarten et al" gram_type="apposition" relation_type="asymmetric" id="117673_10" ></RELATION>
+
+<RELATION theme="117673_3" party1="117673_4" party1_string="Chorney" theme_string="Chorney v. Weingarten et al" gram_type="infix" relation_type="asymmetric" id="117673_8" ></RELATION>
+
+<RELATION party2="117673_5" theme="117673_3" theme_string="Chorney v. Weingarten et al" party2_string="Weingarten et al" gram_type="infix" relation_type="asymmetric" id="117673_9" ></RELATION>
+

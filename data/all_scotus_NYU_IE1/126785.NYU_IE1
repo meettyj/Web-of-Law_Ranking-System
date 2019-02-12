@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['macklincity#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1159" id1="126776" volume="537" start="0" page_number="1159" standard_reporter="U.S." citation_global_level_id="1920.002" line="1" id="126785_1" citation_local_level_id="0" >537 U.S. 1159</CITATION>
+
+<CITATION party2="CITY OF NEW ORLEANS, LOUISIANA, ET AL" party1="MACKLIN" citation_global_level_id="1920.008" party2_short="CITY" line="1" id="126785_3" alternative_keys="['u.s._537_1159']" end="66" entry_type="party_key" lookup_key="macklincity#2" id1="126776" start="18" party1_short="MACKLIN" citation_local_level_id="1" >MACKLIN v. CITY OF NEW ORLEANS, LOUISIANA, ET AL</CITATION>
+
+<NAME end="25" start="18" party1_of="126785_3" all_names="MACKLIN" local_name_id="1" id="126785_4" >MACKLIN</NAME>
+
+<NAME end="66" start="29" all_names="CITY OF NEW ORLEANS LOUISIANA" party2_of="126785_3" local_name_id="2" id="126785_5" >CITY OF NEW ORLEANS, LOUISIANA, ET AL</NAME>
+
+<DOCKET end="82" entry_type="docket" lookup_key="u.s._537_1159" id1="126776" start="76" citation_global_level_id="1920.002" line="1" id="126785_2" citation_local_level_id="0" >02-741</DOCKET>
+
+<DATE start="124" end="140" id="126785_6" >January 21, 2003</DATE>
+
+<NAME start="269" local_name_id="3" end="272" id="126785_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="321" reporter="F.3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_293_237" id1="Dummy_File_228559" volume="293" start="309" page_number="237" standard_reporter="F.3D" citation_global_level_id="292409.001" line="3" id="126785_12" citation_local_level_id="2" >293 F.3d 237</CITATION>
+
+<RELATION theme="126785_1" includes_docket_string="02-741" includes_docket="126785_2" theme_string="537 U.S. 1159" gram_type="apposition" relation_type="asymmetric" id="126785_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1159" X_vs_Y_string="MACKLIN v. CITY OF NEW ORLEANS, LOUISIANA, ET AL" standard_case="126785_1" X_vs_Y="126785_3" gram_type="pre_nom" relation_type="equivalence" id="126785_7" ></RELATION>
+
+<RELATION theme="126785_3" includes_docket_string="02-741" includes_docket="126785_2" theme_string="MACKLIN v. CITY OF NEW ORLEANS, LOUISIANA, ET AL" gram_type="apposition" relation_type="asymmetric" id="126785_10" ></RELATION>
+
+<RELATION theme="126785_3" party1="126785_4" party1_string="MACKLIN" theme_string="MACKLIN v. CITY OF NEW ORLEANS, LOUISIANA, ET AL" gram_type="infix" relation_type="asymmetric" id="126785_8" ></RELATION>
+
+<RELATION party2="126785_5" theme="126785_3" theme_string="MACKLIN v. CITY OF NEW ORLEANS, LOUISIANA, ET AL" party2_string="CITY OF NEW ORLEANS, LOUISIANA, ET AL" gram_type="infix" relation_type="asymmetric" id="126785_9" ></RELATION>
+

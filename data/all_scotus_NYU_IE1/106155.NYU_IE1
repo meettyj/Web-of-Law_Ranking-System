@@ -1,0 +1,54 @@
+<CITATION alternative_keys="['bankstate#2', 's.ct._81_357', 'l.ed.2d_5_363']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._364_630" id1="106155" volume="364" start="0" page_number="630" standard_reporter="U.S." citation_global_level_id="53617.002" line="1" id="106155_1" citation_local_level_id="0" >364 U.S. 630</CITATION>
+
+<CITATION alternative_keys="['u.s._364_630', 'bankstate#2', 'l.ed.2d_5_363']" end="30" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._81_357" id1="106155" volume="81" start="17" page_number="357" standard_reporter="S.CT." citation_global_level_id="53617.003" line="1" id="106155_2" citation_local_level_id="1" >81 S. Ct. 357</CITATION>
+
+<NAME start="20" local_name_id="1" end="25" id="106155_8" all_names="S CT" >S. Ct</NAME>
+
+<CITATION alternative_keys="['u.s._364_630', 's.ct._81_357', 'bankstate#2']" end="50" reporter="L. Ed. 2d" entry_type="standard_key" lookup_key="l.ed.2d_5_363" id1="106155" volume="5" start="35" page_number="363" standard_reporter="L.ED.2D" citation_global_level_id="53617.004" line="1" id="106155_3" citation_local_level_id="2" >5 L. Ed. 2d 363</CITATION>
+
+<CITATION party2="STATE OF PENNSYLVANIA" party1="RIDGWAY NATIONAL BANK et al." citation_global_level_id="53617.001" party2_short="STATE" line="1" id="106155_4" alternative_keys="['u.s._364_630', 's.ct._81_357', 'l.ed.2d_5_363']" end="108" entry_type="party_key" lookup_key="bankstate#2" id1="106155" start="55" party1_short="BANK" citation_local_level_id="3" >RIDGWAY NATIONAL BANK et al. v. STATE OF PENNSYLVANIA</CITATION>
+
+<NAME end="83" start="55" party1_of="106155_4" all_names="RIDGWAY NATIONAL BANK" local_name_id="2" id="106155_5" >RIDGWAY NATIONAL BANK et al.</NAME>
+
+<ORGANIZATION start="55" end="76" id="106155_9" >RIDGWAY NATIONAL BANK</ORGANIZATION>
+
+<NAME end="108" start="87" all_names="STATE OF PENNSYLVANIA" party2_of="106155_4" local_name_id="3" id="106155_6" >STATE OF PENNSYLVANIA</NAME>
+
+<DATE start="166" end="181" id="106155_7" >January 9, 1961</DATE>
+
+<NAME start="193" local_name_id="4" end="228" id="106155_10" all_names="WILLIAM I CROSBY AND B R COPPOLO" >William I. Crosby and B. R. Coppolo</NAME>
+
+<LEGAL_ROLE start="234" end="244" plural="True" id="106155_11" >appellants</LEGAL_ROLE>
+
+<NAME start="252" local_name_id="5" end="266" id="106155_17" all_names="ANNE X ALPERN" >Anne X. Alpern</NAME>
+
+<PROFESSION start="268" document_level_name_id="5" end="294" id="106155_18" party="ANNE X ALPERN" >Atty. Gen. of Pennsylvania</PROFESSION>
+
+<NAME start="296" local_name_id="6" end="309" id="106155_19" all_names="JOHN SULLIVAN" >John Sullivan</NAME>
+
+<PROFESSION start="311" document_level_name_id="6" end="327" id="106155_20" party="JOHN SULLIVAN" >Deputy Atty. Gen</PROFESSION>
+
+<NAME start="334" local_name_id="7" end="351" id="106155_21" all_names="ROBERT C DERRICK" >Robert C. Derrick</NAME>
+
+<PROFESSION start="353" document_level_name_id="7" end="368" id="106155_22" party="ROBERT C DERRICK" >Asst. Atty. Gen</PROFESSION>
+
+<LEGAL_ROLE start="375" end="383" id="106155_23" party="party2" >appellee</LEGAL_ROLE>
+
+<NAME start="395" local_name_id="8" end="401" id="106155_27" all_names="CURIAM" >CURIAM</NAME>
+
+<RELATION standard_case_string="364 U.S. 630" X_vs_Y_string="RIDGWAY NATIONAL BANK et al. v. STATE OF PENNSYLVANIA" standard_case="106155_1" X_vs_Y="106155_4" gram_type="pre_nom" relation_type="equivalence" id="106155_13" ></RELATION>
+
+<RELATION standard_case_string="81 S. Ct. 357" X_vs_Y_string="RIDGWAY NATIONAL BANK et al. v. STATE OF PENNSYLVANIA" standard_case="106155_2" X_vs_Y="106155_4" gram_type="pre_nom" relation_type="equivalence" id="106155_14" ></RELATION>
+
+<RELATION standard_case_string="5 L. Ed. 2d 363" X_vs_Y_string="RIDGWAY NATIONAL BANK et al. v. STATE OF PENNSYLVANIA" standard_case="106155_3" X_vs_Y="106155_4" gram_type="pre_nom" relation_type="equivalence" id="106155_12" ></RELATION>
+
+<RELATION theme="106155_4" party1="106155_5" party1_string="RIDGWAY NATIONAL BANK et al." theme_string="RIDGWAY NATIONAL BANK et al. v. STATE OF PENNSYLVANIA" gram_type="infix" relation_type="asymmetric" id="106155_15" ></RELATION>
+
+<RELATION party2="106155_6" theme="106155_4" theme_string="RIDGWAY NATIONAL BANK et al. v. STATE OF PENNSYLVANIA" party2_string="STATE OF PENNSYLVANIA" gram_type="infix" relation_type="asymmetric" id="106155_16" ></RELATION>
+
+<RELATION theme="106155_17" profession_string="Atty. Gen. of Pennsylvania" theme_string="Anne X. Alpern" profession="106155_18" gram_type="apposition" relation_type="asymmetric" id="106155_24" ></RELATION>
+
+<RELATION theme="106155_19" profession_string="Deputy Atty. Gen" theme_string="John Sullivan" profession="106155_20" gram_type="apposition" relation_type="asymmetric" id="106155_25" ></RELATION>
+
+<RELATION theme="106155_21" profession_string="Asst. Atty. Gen" theme_string="Robert C. Derrick" profession="106155_22" gram_type="apposition" relation_type="asymmetric" id="106155_26" ></RELATION>
+

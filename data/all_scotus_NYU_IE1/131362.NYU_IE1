@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['dellarizona#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_818" id1="131370" volume="540" start="0" page_number="818" standard_reporter="U.S." citation_global_level_id="12791.002" line="1" id="131362_1" citation_local_level_id="0" >540 U.S. 818</CITATION>
+
+<CITATION party2="ARIZONA" party1="O'DELL ET AL." citation_global_level_id="12791.005" party2_short="ARIZONA" line="1" id="131362_3" alternative_keys="['u.s._540_818']" end="41" entry_type="party_key" lookup_key="dellarizona#1" id1="131370" start="17" party1_short="DELL" citation_local_level_id="1" >O'DELL ET AL. v. ARIZONA</CITATION>
+
+<NAME end="30" start="17" party1_of="131362_3" all_names="O'DELL" local_name_id="1" id="131362_4" >O'DELL ET AL.</NAME>
+
+<NAME start="17" local_name_id="1" end="29" id="131362_8" all_names="O'DELL" >O'DELL ET AL</NAME>
+
+<NAME end="41" start="34" all_names="ARIZONA" party2_of="131362_3" local_name_id="2" id="131362_5" >ARIZONA</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._540_818" id1="131370" start="51" citation_global_level_id="12791.002" line="1" id="131362_2" citation_local_level_id="0" >02-1719</DOCKET>
+
+<DATE start="54" end="58" id="131362_6" >1719</DATE>
+
+<DATE start="100" end="115" id="131362_7" >October 6, 2003</DATE>
+
+<NAME start="193" local_name_id="3" end="203" id="131362_16" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="256" reporter="P. 3d" entry_type="standard_key" no_current_file="True" lookup_key="p.3d_46_1074" id1="Dummy_File_211425" volume="46" start="243" page_number="1074" standard_reporter="P.3D" citation_global_level_id="275275.001" line="3" id="131362_15" citation_local_level_id="2" >46 P. 3d 1074</CITATION>
+
+<RELATION theme="131362_1" includes_docket_string="02-1719" includes_docket="131362_2" theme_string="540 U.S. 818" gram_type="apposition" relation_type="asymmetric" id="131362_13" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 818" X_vs_Y_string="O'DELL ET AL. v. ARIZONA" standard_case="131362_1" X_vs_Y="131362_3" gram_type="pre_nom" relation_type="equivalence" id="131362_9" ></RELATION>
+
+<RELATION theme="131362_3" includes_docket_string="02-1719" includes_docket="131362_2" theme_string="O'DELL ET AL. v. ARIZONA" gram_type="apposition" relation_type="asymmetric" id="131362_12" ></RELATION>
+
+<RELATION theme="131362_3" party1="131362_4" party1_string="O'DELL ET AL." theme_string="O'DELL ET AL. v. ARIZONA" gram_type="infix" relation_type="asymmetric" id="131362_10" ></RELATION>
+
+<RELATION party2="131362_5" theme="131362_3" theme_string="O'DELL ET AL. v. ARIZONA" party2_string="ARIZONA" gram_type="infix" relation_type="asymmetric" id="131362_11" ></RELATION>
+
+<RELATION at_date_string="1719" theme="131362_2" at_date="131362_6" theme_string="02-1719" gram_type="infix" relation_type="asymmetric" id="131362_14" ></RELATION>
+

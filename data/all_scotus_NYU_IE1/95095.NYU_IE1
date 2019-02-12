@@ -1,0 +1,44 @@
+<CITATION alternative_keys="['rycampbell#2', 's.ct._19_873', 'l.ed._43_1147']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._174_718" id1="95095" volume="174" start="0" page_number="718" standard_reporter="U.S." citation_global_level_id="18489.002" line="1" id="95095_1" citation_local_level_id="0" >174 U.S. 718</CITATION>
+
+<CITATION alternative_keys="['u.s._174_718', 'rycampbell#2', 'l.ed._43_1147']" end="30" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._19_873" id1="94958" volume="19" start="17" page_number="873" standard_reporter="S.CT." citation_global_level_id="1817.003" line="1" id="95095_2" citation_local_level_id="1" >19 S. Ct. 873</CITATION>
+
+<NAME start="20" local_name_id="1" end="25" id="95095_8" all_names="S CT" >S. Ct</NAME>
+
+<CITATION alternative_keys="['u.s._174_718', 's.ct._19_873', 'rycampbell#2']" end="49" reporter="L. Ed." entry_type="standard_key" lookup_key="l.ed._43_1147" id1="95095" volume="43" start="35" page_number="1147" standard_reporter="L.ED." citation_global_level_id="18489.003" line="1" id="95095_3" citation_local_level_id="2" >43 L. Ed. 1147</CITATION>
+
+<CITATION party2="CAMPBELL" party1="CHICAGO, R. I. &amp; P. RY. CO." citation_global_level_id="18489.004" party2_short="CAMPBELL" line="1" id="95095_4" alternative_keys="['s.ct._19_873', 'l.ed._43_1147', 'u.s._174_718']" end="93" entry_type="party_key" lookup_key="rycampbell#2" id1="95095" start="54" party1_short="RY" citation_local_level_id="3" >CHICAGO, R. I. &amp; P. RY. CO. v. CAMPBELL</CITATION>
+
+<NAME end="81" start="54" party1_of="95095_4" all_names="CHICAGO R I &amp; P RY CO" local_name_id="2" id="95095_5" >CHICAGO, R. I. &amp; P. RY. CO.</NAME>
+
+<ORGANIZATION start="78" end="80" id="95095_9" >CO</ORGANIZATION>
+
+<NAME end="93" start="85" all_names="CAMPBELL" party2_of="95095_4" local_name_id="3" id="95095_6" >CAMPBELL</NAME>
+
+<DATE start="112" end="124" id="95095_7" >May 22, 1899</DATE>
+
+<NAME start="194" local_name_id="4" end="213" id="95095_15" all_names="MR JUSTICE MCKENNA" >Mr. Justice McKENNA</NAME>
+
+<PROFESSION start="198" end="205" id="95095_16" >Justice</PROFESSION>
+
+<CITATION party2="Strum" party1="No. 236 (Railway Co." citation_global_level_id="182910.001" party2_short="Strum" line="6" id="95095_17" end="325" no_current_file="True" entry_type="party_key" lookup_key="railwaystrum#1" id1="Dummy_File_119060" start="296" party1_short="Railway" citation_local_level_id="4" >No. 236 (Railway Co. v. Strum</CITATION>
+
+<NAME end="316" start="296" party1_of="95095_17" all_names="NO 236 (RAILWAY CO" local_name_id="5" id="95095_18" >No. 236 (Railway Co.</NAME>
+
+<ORGANIZATION start="305" end="315" id="95095_20" >Railway Co</ORGANIZATION>
+
+<NAME end="325" start="320" all_names="STRUM" party2_of="95095_17" local_name_id="6" id="95095_19" >Strum</NAME>
+
+<RELATION standard_case_string="174 U.S. 718" X_vs_Y_string="CHICAGO, R. I. &amp; P. RY. CO. v. CAMPBELL" standard_case="95095_1" X_vs_Y="95095_4" gram_type="pre_nom" relation_type="equivalence" id="95095_11" ></RELATION>
+
+<RELATION standard_case_string="19 S. Ct. 873" X_vs_Y_string="CHICAGO, R. I. &amp; P. RY. CO. v. CAMPBELL" standard_case="95095_2" X_vs_Y="95095_4" gram_type="pre_nom" relation_type="equivalence" id="95095_12" ></RELATION>
+
+<RELATION standard_case_string="43 L. Ed. 1147" X_vs_Y_string="CHICAGO, R. I. &amp; P. RY. CO. v. CAMPBELL" standard_case="95095_3" X_vs_Y="95095_4" gram_type="pre_nom" relation_type="equivalence" id="95095_10" ></RELATION>
+
+<RELATION theme="95095_4" party1="95095_5" party1_string="CHICAGO, R. I. &amp; P. RY. CO." theme_string="CHICAGO, R. I. &amp; P. RY. CO. v. CAMPBELL" gram_type="infix" relation_type="asymmetric" id="95095_13" ></RELATION>
+
+<RELATION party2="95095_6" theme="95095_4" theme_string="CHICAGO, R. I. &amp; P. RY. CO. v. CAMPBELL" party2_string="CAMPBELL" gram_type="infix" relation_type="asymmetric" id="95095_14" ></RELATION>
+
+<RELATION theme="95095_17" party1="95095_18" party1_string="No. 236 (Railway Co." theme_string="No. 236 (Railway Co. v. Strum" gram_type="infix" relation_type="asymmetric" id="95095_21" ></RELATION>
+
+<RELATION party2="95095_19" theme="95095_17" theme_string="No. 236 (Railway Co. v. Strum" party2_string="Strum" gram_type="infix" relation_type="asymmetric" id="95095_22" ></RELATION>
+

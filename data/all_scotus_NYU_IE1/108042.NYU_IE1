@@ -1,0 +1,36 @@
+<CITATION alternative_keys="['statefinch#1', 's.ct._90_747', 'l.ed.2d_24_744']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._396_552" id1="108042" volume="396" start="0" page_number="552" standard_reporter="U.S." citation_global_level_id="29036.002" line="1" id="108042_1" citation_local_level_id="0" >396 U.S. 552</CITATION>
+
+<CITATION alternative_keys="['u.s._396_552', 'statefinch#1', 'l.ed.2d_24_744']" end="30" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._90_747" id1="108042" volume="90" start="17" page_number="747" standard_reporter="S.CT." citation_global_level_id="29036.003" line="1" id="108042_2" citation_local_level_id="1" >90 S. Ct. 747</CITATION>
+
+<NAME start="20" local_name_id="1" end="25" id="108042_9" all_names="S CT" >S. Ct</NAME>
+
+<CITATION alternative_keys="['u.s._396_552', 's.ct._90_747', 'statefinch#1']" end="51" reporter="L. Ed. 2d" entry_type="standard_key" lookup_key="l.ed.2d_24_744" id1="108042" volume="24" start="35" page_number="744" standard_reporter="L.ED.2D" citation_global_level_id="29036.004" line="1" id="108042_3" citation_local_level_id="2" >24 L. Ed. 2d 744</CITATION>
+
+<CITATION party2="Robert FINCH, as Secretary of the United States  Department of Health, Education, and Welfare, and  John N. Mitchell, as Attorney General of the  United States" alternative_keys="['s.ct._90_747', 'l.ed.2d_24_744', 'u.s._396_552']" party1="State of ALABAMA," end="247" party1_short="State" entry_type="party_key" party1_role="plaintiff" lookup_key="statefinch#1" id1="108042" start="56" citation_global_level_id="29036.005" party2_short="FINCH" line="1" id="108042_4" citation_local_level_id="3" >State of ALABAMA, plaintiff, v. Robert FINCH, as Secretary of the United States Department of Health, Education, and Welfare, and John N. Mitchell, as Attorney General of the United States</CITATION>
+
+<NAME end="73" start="56" party1_of="108042_4" all_names="STATE OF ALABAMA" local_name_id="2" id="108042_5" >State of ALABAMA,</NAME>
+
+<LEGAL_ROLE start="74" end="83" id="108042_7" >plaintiff</LEGAL_ROLE>
+
+<NAME end="247" start="88" all_names="ROBERT FINCH AS SECRETARY OF THE UNITED STATES DEPARTMENT OF HEALTH EDUCATION AND WELFARE AND JOHN N MITCHELL AS ATTORNEY GENERAL OF THE UNITED STATES" party2_of="108042_4" local_name_id="3" id="108042_6" >Robert FINCH, as Secretary of the United States Department of Health, Education, and Welfare, and John N. Mitchell, as Attorney General of the United States</NAME>
+
+<DATE start="314" end="330" id="108042_8" >February 2, 1970</DATE>
+
+<NAME start="496" local_name_id="4" end="502" id="108042_15" all_names="CURIAM" >CURIAM</NAME>
+
+<ORGANIZATION start="685" end="690" id="108042_16" >Court</ORGANIZATION>
+
+<LEGAL_ROLE start="857" end="867" plural="True" id="108042_17" >defendants</LEGAL_ROLE>
+
+<ORGANIZATION start="929" end="934" id="108042_18" >Court</ORGANIZATION>
+
+<RELATION standard_case_string="396 U.S. 552" X_vs_Y_string="State of ALABAMA, plaintiff, v. Robert FINCH, as Secretary of the United States  Department of Health, Education, and Welfare, and  John N. Mitchell, as Attorney General of the  United States" standard_case="108042_1" X_vs_Y="108042_4" gram_type="pre_nom" relation_type="equivalence" id="108042_11" ></RELATION>
+
+<RELATION standard_case_string="90 S. Ct. 747" X_vs_Y_string="State of ALABAMA, plaintiff, v. Robert FINCH, as Secretary of the United States  Department of Health, Education, and Welfare, and  John N. Mitchell, as Attorney General of the  United States" standard_case="108042_2" X_vs_Y="108042_4" gram_type="pre_nom" relation_type="equivalence" id="108042_12" ></RELATION>
+
+<RELATION standard_case_string="24 L. Ed. 2d 744" X_vs_Y_string="State of ALABAMA, plaintiff, v. Robert FINCH, as Secretary of the United States  Department of Health, Education, and Welfare, and  John N. Mitchell, as Attorney General of the  United States" standard_case="108042_3" X_vs_Y="108042_4" gram_type="pre_nom" relation_type="equivalence" id="108042_10" ></RELATION>
+
+<RELATION theme="108042_4" party1="108042_5" party1_string="State of ALABAMA," theme_string="State of ALABAMA, plaintiff, v. Robert FINCH, as Secretary of the United States  Department of Health, Education, and Welfare, and  John N. Mitchell, as Attorney General of the  United States" gram_type="infix" relation_type="asymmetric" id="108042_13" ></RELATION>
+
+<RELATION party2="108042_6" theme="108042_4" theme_string="State of ALABAMA, plaintiff, v. Robert FINCH, as Secretary of the United States  Department of Health, Education, and Welfare, and  John N. Mitchell, as Attorney General of the  United States" party2_string="Robert FINCH, as Secretary of the United States  Department of Health, Education, and Welfare, and  John N. Mitchell, as Attorney General of the  United States" gram_type="infix" relation_type="asymmetric" id="108042_14" ></RELATION>
+

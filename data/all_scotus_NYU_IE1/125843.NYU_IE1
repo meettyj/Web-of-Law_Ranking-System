@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['stiggersmortgage#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1083" id1="125845" volume="537" start="0" page_number="1083" standard_reporter="U.S." citation_global_level_id="183.002" line="1" id="125843_1" citation_local_level_id="0" >537 U.S. 1083</CITATION>
+
+<CITATION party2="FLEET MORTGAGE CORP" party1="STIGGERS" citation_global_level_id="26973.001" party2_short="MORTGAGE" line="2" id="125843_2" alternative_keys="['u.s._537_1083']" end="49" entry_type="party_key" lookup_key="stiggersmortgage#2" id1="125843" start="18" party1_short="STIGGERS" citation_local_level_id="1" >STIGGERS v. FLEET MORTGAGE CORP</CITATION>
+
+<NAME end="26" start="18" party1_of="125843_2" all_names="STIGGERS" local_name_id="1" id="125843_3" >STIGGERS</NAME>
+
+<NAME end="49" start="30" all_names="FLEET MORTGAGE CORP" party2_of="125843_2" local_name_id="2" id="125843_4" >FLEET MORTGAGE CORP</NAME>
+
+<DOCKET end="67" entry_type="docket" lookup_key="stiggersmortgage#2" id1="125843" start="59" citation_global_level_id="26973.001" line="3" id="125843_7" citation_local_level_id="1" >01-10527</DOCKET>
+
+<ORGANIZATION start="73" end="103" id="125843_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="109" citation_global_level_id="26973.001" end="125" id="125843_9" citation_local_level_id="1" >December 9, 2002</DATE>
+
+<NAME start="161" local_name_id="3" end="169" id="125843_13" all_names="PETITION" >Petition</NAME>
+
+<RELATION theme="125843_2" party1="125843_3" party1_string="STIGGERS" theme_string="STIGGERS v. FLEET MORTGAGE CORP" gram_type="infix" relation_type="asymmetric" id="125843_5" ></RELATION>
+
+<RELATION party2="125843_4" theme="125843_2" theme_string="STIGGERS v. FLEET MORTGAGE CORP" party2_string="FLEET MORTGAGE CORP" gram_type="infix" relation_type="asymmetric" id="125843_6" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1083" X_vs_Y_string="STIGGERS v. FLEET MORTGAGE CORP" standard_case="125843_1" X_vs_Y="125843_2" gram_type="multi_line" relation_type="equivalence" id="125843_10" ></RELATION>
+
+<RELATION at_date_string="December 9, 2002" theme="125843_2" at_date="125843_9" theme_string="STIGGERS v. FLEET MORTGAGE CORP" gram_type="multi_line" relation_type="asymmetric" id="125843_12" ></RELATION>
+
+<RELATION theme="125843_2" includes_docket_string="01-10527" includes_docket="125843_7" theme_string="STIGGERS v. FLEET MORTGAGE CORP" gram_type="multi_line" relation_type="asymmetric" id="125843_11" ></RELATION>
+

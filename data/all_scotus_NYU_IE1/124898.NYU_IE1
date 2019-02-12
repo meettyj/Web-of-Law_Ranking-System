@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['holmescarolina#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1010" id1="124900" volume="537" start="0" page_number="1010" standard_reporter="U.S." citation_global_level_id="13380.002" line="1" id="124898_1" citation_local_level_id="0" >537 U.S. 1010</CITATION>
+
+<CITATION party2="NORTH CAROLINA" party1="HOLMES" citation_global_level_id="35289.001" party2_short="CAROLINA" line="1" id="124898_3" alternative_keys="['u.s._537_1010']" end="42" entry_type="party_key" lookup_key="holmescarolina#2" id1="124898" start="18" party1_short="HOLMES" citation_local_level_id="1" >HOLMES v. NORTH CAROLINA</CITATION>
+
+<NAME end="24" start="18" party1_of="124898_3" all_names="HOLMES" local_name_id="1" id="124898_4" >HOLMES</NAME>
+
+<NAME end="42" start="28" all_names="NORTH CAROLINA" party2_of="124898_3" local_name_id="2" id="124898_5" >NORTH CAROLINA</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="u.s._537_1010" id1="124900" start="52" citation_global_level_id="13380.002" line="1" id="124898_2" citation_local_level_id="0" >02-6483</DOCKET>
+
+<DATE start="101" end="117" id="124898_6" >November 4, 2002</DATE>
+
+<NAME start="215" local_name_id="3" end="218" id="124898_14" all_names="SUP" >Sup</NAME>
+
+<CITATION end="278" reporter="N. C." entry_type="standard_key" no_current_file="True" lookup_key="n.c._355_719" id1="Dummy_File_212030" volume="355" start="265" page_number="719" standard_reporter="N.C." citation_global_level_id="275880.001" line="3" id="124898_12" citation_local_level_id="2" >355 N. C. 719</CITATION>
+
+<CITATION end="296" reporter="S. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="s.e.2d_565_154" id1="Dummy_File_212031" volume="565" start="280" page_number="154" standard_reporter="S.E.2D" citation_global_level_id="275881.001" line="3" id="124898_13" citation_local_level_id="3" >565 S. E. 2d 154</CITATION>
+
+<RELATION theme="124898_1" includes_docket_string="02-6483" includes_docket="124898_2" theme_string="537 U.S. 1010" gram_type="apposition" relation_type="asymmetric" id="124898_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1010" X_vs_Y_string="HOLMES v. NORTH CAROLINA" standard_case="124898_1" X_vs_Y="124898_3" gram_type="pre_nom" relation_type="equivalence" id="124898_7" ></RELATION>
+
+<RELATION theme="124898_3" includes_docket_string="02-6483" includes_docket="124898_2" theme_string="HOLMES v. NORTH CAROLINA" gram_type="apposition" relation_type="asymmetric" id="124898_10" ></RELATION>
+
+<RELATION theme="124898_3" party1="124898_4" party1_string="HOLMES" theme_string="HOLMES v. NORTH CAROLINA" gram_type="infix" relation_type="asymmetric" id="124898_8" ></RELATION>
+
+<RELATION party2="124898_5" theme="124898_3" theme_string="HOLMES v. NORTH CAROLINA" party2_string="NORTH CAROLINA" gram_type="infix" relation_type="asymmetric" id="124898_9" ></RELATION>
+

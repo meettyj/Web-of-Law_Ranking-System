@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['georgiaashcroft#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_956" id1="130830" volume="539" start="0" page_number="956" standard_reporter="U.S." citation_global_level_id="956.002" line="1" id="130826_1" citation_local_level_id="0" >539 U.S. 956</CITATION>
+
+<CITATION party2="Ashcroft, Attorney General, et al" party1="Georgia" citation_global_level_id="956.005" party2_short="Ashcroft" line="1" id="130826_3" alternative_keys="['l.ed.2d_156_428', 's.ct._123_2498', 'u.s._539_461', 'u.s._537_1151', 'u.s._538_973', 'u.s._539_956']" end="61" no_current_file="True" entry_type="party_key" lookup_key="georgiaashcroft#1" id1="130830" start="17" party1_short="Georgia" citation_local_level_id="1" >Georgia v. Ashcroft, Attorney General, et al</CITATION>
+
+<NAME end="24" start="17" party1_of="130826_3" all_names="GEORGIA" local_name_id="1" id="130826_4" >Georgia</NAME>
+
+<NAME end="61" start="28" all_names="ASHCROFT ATTORNEY GENERAL" party2_of="130826_3" local_name_id="2" id="130826_5" >Ashcroft, Attorney General, et al</NAME>
+
+<DOCKET end="77" entry_type="docket" lookup_key="u.s._539_956" id1="130830" start="71" citation_global_level_id="956.002" line="1" id="130826_2" citation_local_level_id="0" >02-182</DOCKET>
+
+<DATE start="119" end="132" id="130826_6" >June 27, 2003</DATE>
+
+<NAME start="208" local_name_id="3" end="216" id="130826_13" all_names="PROBABLE" >Probable</NAME>
+
+<CITATION end="251" reporter="U. S." entry_type="standard_key" lookup_key="u.s._537_1151" id1="126764" volume="537" start="237" page_number="1151" standard_reporter="U.S." citation_global_level_id="16905.002" line="3" id="130826_12" citation_local_level_id="2" >537 U. S. 1151</CITATION>
+
+<LEGAL_ROLE start="254" end="273" id="130826_14" >Motion of appellant</LEGAL_ROLE>
+
+<RELATION theme="130826_1" includes_docket_string="02-182" includes_docket="130826_2" theme_string="539 U.S. 956" gram_type="apposition" relation_type="asymmetric" id="130826_11" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 956" X_vs_Y_string="Georgia v. Ashcroft, Attorney General, et al" standard_case="130826_1" X_vs_Y="130826_3" gram_type="pre_nom" relation_type="equivalence" id="130826_7" ></RELATION>
+
+<RELATION theme="130826_3" includes_docket_string="02-182" includes_docket="130826_2" theme_string="Georgia v. Ashcroft, Attorney General, et al" gram_type="apposition" relation_type="asymmetric" id="130826_10" ></RELATION>
+
+<RELATION theme="130826_3" party1="130826_4" party1_string="Georgia" theme_string="Georgia v. Ashcroft, Attorney General, et al" gram_type="infix" relation_type="asymmetric" id="130826_8" ></RELATION>
+
+<RELATION party2="130826_5" theme="130826_3" theme_string="Georgia v. Ashcroft, Attorney General, et al" party2_string="Ashcroft, Attorney General, et al" gram_type="infix" relation_type="asymmetric" id="130826_9" ></RELATION>
+

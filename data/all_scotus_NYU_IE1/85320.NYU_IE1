@@ -1,0 +1,52 @@
+<CITATION alternative_keys="['youngbryan#1', 'wheat._6_146']" end="19" reporter="U.S." entry_type="standard_key" lookup_key="u.s._19_146" id1="85320" volume="19" start="1" page_number="146" year="1821" standard_reporter="U.S." citation_global_level_id="1275.002" line="2" id="85320_1" citation_local_level_id="0" >19 U.S. 146 (1821)</CITATION>
+
+<DATE start="14" citation_global_level_id="1275.002" end="18" id="85320_2" citation_local_level_id="0" >1821</DATE>
+
+<CITATION alternative_keys="['u.s._19_146', 'youngbryan#1']" end="32" reporter="Wheat." entry_type="standard_key" lookup_key="wheat._6_146" id1="85320" volume="6" start="20" page_number="146" standard_reporter="WHEAT." citation_global_level_id="1275.003" line="3" id="85320_4" citation_local_level_id="1" >6 Wheat. 146</CITATION>
+
+<CITATION party2="BRYAN et al" party1="YOUNG" citation_global_level_id="1275.001" party2_short="BRYAN" line="6" id="85320_6" alternative_keys="['u.s._19_146', 'wheat._6_146']" end="55" entry_type="party_key" lookup_key="youngbryan#1" id1="85320" start="33" party1_short="YOUNG" citation_local_level_id="2" >YOUNG v. BRYAN et al</CITATION>
+
+<NAME end="38" start="33" party1_of="85320_6" all_names="YOUNG" local_name_id="1" id="85320_7" >YOUNG</NAME>
+
+<NAME end="55" start="44" all_names="BRYAN" party2_of="85320_6" local_name_id="2" id="85320_8" >BRYAN et al</NAME>
+
+<ORGANIZATION start="57" end="87" id="85320_11" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="89" citation_global_level_id="1275.001" end="106" id="85320_12" citation_local_level_id="2" >February 22, 1821</DATE>
+
+<NAME start="113" local_name_id="3" end="122" id="85320_13" all_names="MR EATON" >Mr. Eaton</NAME>
+
+<LEGAL_ROLE start="132" end="141" id="85320_14" >plaintiff</LEGAL_ROLE>
+
+<PROFESSION start="152" end="164" id="85320_18" >Mr. Sergeant</PROFESSION>
+
+<PROFESSION start="179" document_level_name_id="4" end="196" id="85320_19" party="MARSHALL" >Mr. Chief Justice</PROFESSION>
+
+<NAME start="197" local_name_id="4" end="205" id="85320_20" all_names="MARSHALL" >MARSHALL</NAME>
+
+<ORGANIZATION start="235" end="240" id="85320_21" >Court</ORGANIZATION>
+
+<ORGANIZATION start="276" end="289" id="85320_22" >Circuit Court</ORGANIZATION>
+
+<NAME start="609" local_name_id="5" end="614" id="85320_23" all_names="STATE" >State</NAME>
+
+<ORGANIZATION start="667" end="680" id="85320_24" >Circuit Court</ORGANIZATION>
+
+<LEGAL_ROLE start="729" end="738" id="85320_25" >plaintiff</LEGAL_ROLE>
+
+<NAME start="902" local_name_id="6" end="910" id="85320_27" all_names="JUDGMENT" >Judgment</NAME>
+
+<RELATION at_date_string="1821" theme="85320_1" at_date="85320_2" theme_string="19 U.S. 146 (1821)" gram_type="infix" relation_type="asymmetric" id="85320_3" ></RELATION>
+
+<RELATION party2="85320_8" theme="85320_6" theme_string="YOUNG  v.  BRYAN et al" party2_string="BRYAN et al" gram_type="infix" relation_type="asymmetric" id="85320_10" ></RELATION>
+
+<RELATION theme="85320_6" party1="85320_7" party1_string="YOUNG" theme_string="YOUNG  v.  BRYAN et al" gram_type="infix" relation_type="asymmetric" id="85320_9" ></RELATION>
+
+<RELATION standard_case_string="19 U.S. 146 (1821)" X_vs_Y_string="YOUNG  v.  BRYAN et al" standard_case="85320_1" X_vs_Y="85320_6" gram_type="multi_line" relation_type="equivalence" id="85320_15" ></RELATION>
+
+<RELATION standard_case_string="6 Wheat. 146" X_vs_Y_string="YOUNG  v.  BRYAN et al" standard_case="85320_4" X_vs_Y="85320_6" gram_type="multi_line" relation_type="equivalence" id="85320_16" ></RELATION>
+
+<RELATION at_date_string="February 22, 1821" theme="85320_6" at_date="85320_12" theme_string="YOUNG  v.  BRYAN et al" gram_type="multi_line" relation_type="asymmetric" id="85320_17" ></RELATION>
+
+<RELATION theme="85320_20" profession_string="Mr. Chief Justice" theme_string="MARSHALL" profession="85320_19" gram_type="pre_nom" relation_type="asymmetric" id="85320_26" ></RELATION>
+

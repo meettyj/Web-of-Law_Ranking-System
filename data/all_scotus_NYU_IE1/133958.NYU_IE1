@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['mandacinastates#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_1018" id1="133949" volume="540" start="0" page_number="1018" standard_reporter="U.S." citation_global_level_id="10715.002" line="1" id="133958_1" citation_local_level_id="0" >540 U.S. 1018</CITATION>
+
+<CITATION party2="UNITED STATES" party1="MANDACINA" citation_global_level_id="13329.001" party2_short="STATES" line="1" id="133958_3" alternative_keys="['u.s._540_1018']" end="44" entry_type="party_key" lookup_key="mandacinastates#1" id1="133958" start="18" party1_short="MANDACINA" citation_local_level_id="1" >MANDACINA v. UNITED STATES</CITATION>
+
+<NAME end="27" start="18" party1_of="133958_3" all_names="MANDACINA" local_name_id="1" id="133958_4" >MANDACINA</NAME>
+
+<NAME end="44" start="31" all_names="UNITED STATES" party2_of="133958_3" local_name_id="2" id="133958_5" >UNITED STATES</NAME>
+
+<DOCKET end="60" entry_type="docket" lookup_key="u.s._540_1018" id1="133949" start="54" citation_global_level_id="10715.002" line="1" id="133958_2" citation_local_level_id="0" >03-600</DOCKET>
+
+<DATE start="102" end="119" id="133958_6" >November 17, 2003</DATE>
+
+<NAME start="197" local_name_id="3" end="207" id="133958_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION alternative_keys="['mandacinastates#1']" end="245" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_328_995" id1="133958" volume="328" start="232" page_number="995" standard_reporter="F.3D" citation_global_level_id="13329.002" line="3" id="133958_12" citation_local_level_id="2" >328 F. 3d 995</CITATION>
+
+<RELATION theme="133958_1" includes_docket_string="03-600" includes_docket="133958_2" theme_string="540 U.S. 1018" gram_type="apposition" relation_type="asymmetric" id="133958_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 1018" X_vs_Y_string="MANDACINA v. UNITED STATES" standard_case="133958_1" X_vs_Y="133958_3" gram_type="pre_nom" relation_type="equivalence" id="133958_7" ></RELATION>
+
+<RELATION theme="133958_3" includes_docket_string="03-600" includes_docket="133958_2" theme_string="MANDACINA v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="133958_10" ></RELATION>
+
+<RELATION theme="133958_3" party1="133958_4" party1_string="MANDACINA" theme_string="MANDACINA v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="133958_8" ></RELATION>
+
+<RELATION party2="133958_5" theme="133958_3" theme_string="MANDACINA v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="133958_9" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['christopheret#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1125" id1="116953" volume="510" start="0" page_number="1125" standard_reporter="U.S." citation_global_level_id="6435.002" line="1" id="116962_1" citation_local_level_id="0" >510 U.S. 1125</CITATION>
+
+<CITATION party2="Wade et al" party1="Christopher" citation_global_level_id="6435.006" party2_short="et" line="1" id="116962_3" alternative_keys="['u.s._510_1125']" end="43" entry_type="party_key" lookup_key="christopheret#1" id1="116953" start="18" party1_short="Christopher" citation_local_level_id="1" >Christopher v. Wade et al</CITATION>
+
+<NAME end="29" start="18" party1_of="116962_3" all_names="CHRISTOPHER" local_name_id="1" id="116962_4" >Christopher</NAME>
+
+<NAME end="43" start="33" all_names="WADE" party2_of="116962_3" local_name_id="2" id="116962_5" >Wade et al</NAME>
+
+<DOCKET end="60" entry_type="docket" lookup_key="u.s._510_1125" id1="116953" start="53" citation_global_level_id="6435.002" line="1" id="116962_2" citation_local_level_id="0" >93-7109</DOCKET>
+
+<DATE start="102" end="119" id="116962_6" >February 22, 1994</DATE>
+
+<NAME start="197" local_name_id="3" end="207" id="116962_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="243" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_5_531" id1="Dummy_File_26573" volume="5" start="232" page_number="531" standard_reporter="F.3D" citation_global_level_id="90423.001" line="3" id="116962_12" citation_local_level_id="2" >5 F. 3d 531</CITATION>
+
+<RELATION theme="116962_1" includes_docket_string="93-7109" includes_docket="116962_2" theme_string="510 U.S. 1125" gram_type="apposition" relation_type="asymmetric" id="116962_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1125" X_vs_Y_string="Christopher v. Wade et al" standard_case="116962_1" X_vs_Y="116962_3" gram_type="pre_nom" relation_type="equivalence" id="116962_7" ></RELATION>
+
+<RELATION theme="116962_3" includes_docket_string="93-7109" includes_docket="116962_2" theme_string="Christopher v. Wade et al" gram_type="apposition" relation_type="asymmetric" id="116962_10" ></RELATION>
+
+<RELATION theme="116962_3" party1="116962_4" party1_string="Christopher" theme_string="Christopher v. Wade et al" gram_type="infix" relation_type="asymmetric" id="116962_8" ></RELATION>
+
+<RELATION party2="116962_5" theme="116962_3" theme_string="Christopher v. Wade et al" party2_string="Wade et al" gram_type="infix" relation_type="asymmetric" id="116962_9" ></RELATION>
+

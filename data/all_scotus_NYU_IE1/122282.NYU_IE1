@@ -1,0 +1,36 @@
+<CITATION alternative_keys="['doppstates#1', 'a._02_146']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_803" id1="122284" volume="537" start="0" page_number="803" standard_reporter="U.S." citation_global_level_id="660.002" line="1" id="122282_1" citation_local_level_id="0" >537 U.S. 803</CITATION>
+
+<CITATION party2="UNITED STATES" party1="DOPP ET AL." citation_global_level_id="57195.001" party2_short="STATES" line="2" id="122282_2" alternative_keys="['u.s._537_803', 'a._02_146']" end="45" entry_type="party_key" lookup_key="doppstates#1" id1="122282" start="17" party1_short="DOPP" citation_local_level_id="1" >DOPP ET AL. v. UNITED STATES</CITATION>
+
+<NAME end="28" start="17" party1_of="122282_2" all_names="DOPP" local_name_id="1" id="122282_3" >DOPP ET AL.</NAME>
+
+<NAME end="45" start="32" all_names="UNITED STATES" party2_of="122282_2" local_name_id="2" id="122282_4" >UNITED STATES</NAME>
+
+<CITATION alternative_keys="['u.s._537_803', 'doppstates#1']" end="61" reporter="A" entry_type="standard_key" lookup_key="a._02_146" id1="122282" volume="02" start="55" page_number="146" standard_reporter="A." citation_global_level_id="57195.002" line="3" id="122282_7" citation_local_level_id="2" >02A146</CITATION>
+
+<ORGANIZATION start="67" end="97" id="122282_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="103" citation_global_level_id="57195.001" end="118" id="122282_9" citation_local_level_id="1" >October 7, 2002</DATE>
+
+<NAME start="140" local_name_id="3" end="151" id="122282_13" all_names="APPLICATION" >Application</NAME>
+
+<ORGANIZATION start="189" end="241" id="122282_14" >United States Court of Appeals for the Tenth Circuit</ORGANIZATION>
+
+<PROFESSION start="256" document_level_name_id="4" end="263" id="122282_15" party="SCALIA" >JUSTICE</PROFESSION>
+
+<NAME start="264" local_name_id="4" end="270" id="122282_16" all_names="SCALIA" >SCALIA</NAME>
+
+<ORGANIZATION start="291" end="296" id="122282_17" >Court</ORGANIZATION>
+
+<RELATION theme="122282_2" party1="122282_3" party1_string="DOPP ET AL." theme_string="DOPP ET AL. v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="122282_5" ></RELATION>
+
+<RELATION party2="122282_4" theme="122282_2" theme_string="DOPP ET AL. v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="122282_6" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 803" X_vs_Y_string="DOPP ET AL. v. UNITED STATES" standard_case="122282_1" X_vs_Y="122282_2" gram_type="multi_line" relation_type="equivalence" id="122282_10" ></RELATION>
+
+<RELATION at_date_string="October 7, 2002" theme="122282_2" at_date="122282_9" theme_string="DOPP ET AL. v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="122282_12" ></RELATION>
+
+<RELATION standard_case_string="02A146" X_vs_Y_string="DOPP ET AL. v. UNITED STATES" standard_case="122282_7" X_vs_Y="122282_2" gram_type="multi_line" relation_type="equivalence" id="122282_11" ></RELATION>
+
+<RELATION theme="122282_16" profession_string="JUSTICE" theme_string="SCALIA" profession="122282_15" gram_type="pre_nom" relation_type="asymmetric" id="122282_18" ></RELATION>
+

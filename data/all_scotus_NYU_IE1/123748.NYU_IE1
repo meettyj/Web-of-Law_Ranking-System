@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['moromoro#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_916" id1="123754" volume="537" start="0" page_number="916" standard_reporter="U.S." citation_global_level_id="8944.002" line="1" id="123748_1" citation_local_level_id="0" >537 U.S. 916</CITATION>
+
+<CITATION party2="MORO" party1="MORO" citation_global_level_id="20722.001" party2_short="MORO" line="1" id="123748_3" alternative_keys="['u.s._537_916']" end="29" entry_type="party_key" lookup_key="moromoro#1" id1="123748" start="17" party1_short="MORO" citation_local_level_id="1" >MORO v. MORO</CITATION>
+
+<NAME end="21" start="17" party1_of="123748_3" all_names="MORO" local_name_id="1" id="123748_4" >MORO</NAME>
+
+<NAME end="29" start="25" all_names="MORO" party2_of="123748_3" local_name_id="1" id="123748_5" >MORO</NAME>
+
+<DOCKET end="46" entry_type="docket" lookup_key="u.s._537_916" id1="123754" start="39" citation_global_level_id="8944.002" line="1" id="123748_2" citation_local_level_id="0" >02-5453</DOCKET>
+
+<DATE start="88" end="103" id="123748_6" >October 7, 2002</DATE>
+
+<NAME start="220" local_name_id="2" end="223" id="123748_12" all_names="APP" >App</NAME>
+
+<RELATION theme="123748_1" includes_docket_string="02-5453" includes_docket="123748_2" theme_string="537 U.S. 916" gram_type="apposition" relation_type="asymmetric" id="123748_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 916" X_vs_Y_string="MORO v. MORO" standard_case="123748_1" X_vs_Y="123748_3" gram_type="pre_nom" relation_type="equivalence" id="123748_7" ></RELATION>
+
+<RELATION theme="123748_3" includes_docket_string="02-5453" includes_docket="123748_2" theme_string="MORO v. MORO" gram_type="apposition" relation_type="asymmetric" id="123748_10" ></RELATION>
+
+<RELATION theme="123748_3" party1="123748_4" party1_string="MORO" theme_string="MORO v. MORO" gram_type="infix" relation_type="asymmetric" id="123748_8" ></RELATION>
+
+<RELATION party2="123748_5" theme="123748_3" theme_string="MORO v. MORO" party2_string="MORO" gram_type="infix" relation_type="asymmetric" id="123748_9" ></RELATION>
+

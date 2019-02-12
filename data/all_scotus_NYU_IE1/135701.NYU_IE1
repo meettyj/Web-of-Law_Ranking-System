@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['morrowlindsey#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_992" id1="135703" volume="541" start="0" page_number="992" standard_reporter="U.S." citation_global_level_id="8017.002" line="1" id="135701_1" citation_local_level_id="0" >541 U.S. 992</CITATION>
+
+<CITATION party2="LINDSEY, WARDEN" party1="MORROW" citation_global_level_id="8017.009" party2_short="LINDSEY" line="2" id="135701_2" alternative_keys="['u.s._541_992']" end="42" entry_type="party_key" lookup_key="morrowlindsey#1" id1="135703" start="17" party1_short="MORROW" citation_local_level_id="1" >MORROW v. LINDSEY, WARDEN</CITATION>
+
+<NAME end="23" start="17" party1_of="135701_2" all_names="MORROW" local_name_id="1" id="135701_3" >MORROW</NAME>
+
+<NAME end="42" start="27" all_names="LINDSEY WARDEN" party2_of="135701_2" local_name_id="2" id="135701_4" >LINDSEY, WARDEN</NAME>
+
+<DOCKET alternative_keys="['u.s._541_992']" end="59" entry_type="docket" lookup_key="morrowlindsey#1" id1="135703" start="52" citation_global_level_id="8017.009" line="3" id="135701_7" citation_local_level_id="1" >03-8834</DOCKET>
+
+<ORGANIZATION start="65" end="95" id="135701_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="101" citation_global_level_id="8017.009" end="115" id="135701_9" citation_local_level_id="1" >April 19, 2004</DATE>
+
+<NAME start="147" local_name_id="3" end="150" id="135701_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="135701_2" party1="135701_3" party1_string="MORROW" theme_string="MORROW v. LINDSEY, WARDEN" gram_type="infix" relation_type="asymmetric" id="135701_5" ></RELATION>
+
+<RELATION party2="135701_4" theme="135701_2" theme_string="MORROW v. LINDSEY, WARDEN" party2_string="LINDSEY, WARDEN" gram_type="infix" relation_type="asymmetric" id="135701_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 992" X_vs_Y_string="MORROW v. LINDSEY, WARDEN" standard_case="135701_1" X_vs_Y="135701_2" gram_type="multi_line" relation_type="equivalence" id="135701_10" ></RELATION>
+
+<RELATION at_date_string="April 19, 2004" theme="135701_2" at_date="135701_9" theme_string="MORROW v. LINDSEY, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="135701_12" ></RELATION>
+
+<RELATION theme="135701_2" includes_docket_string="03-8834" includes_docket="135701_7" theme_string="MORROW v. LINDSEY, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="135701_11" ></RELATION>
+

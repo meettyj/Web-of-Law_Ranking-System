@@ -1,0 +1,74 @@
+<CITATION alternative_keys="['barneswilliams#1', 'wheat._11_415']" end="19" reporter="U.S." entry_type="standard_key" lookup_key="u.s._24_415" id1="85505" volume="24" start="1" page_number="415" standard_reporter="U.S." citation_global_level_id="52952.002" line="2" id="85505_1" citation_local_level_id="0" >24 U.S. 415 (____)</CITATION>
+
+<CITATION alternative_keys="['u.s._24_415', 'barneswilliams#1']" end="33" reporter="Wheat." entry_type="standard_key" lookup_key="wheat._11_415" id1="85505" volume="11" start="20" page_number="415" standard_reporter="WHEAT." citation_global_level_id="52952.003" line="3" id="85505_2" citation_local_level_id="1" >11 Wheat. 415</CITATION>
+
+<CITATION party2="WILLIAMS" party1="BARNES and Others" citation_global_level_id="52952.001" party2_short="WILLIAMS" line="6" id="85505_4" alternative_keys="['u.s._24_415', 'wheat._11_415']" end="70" entry_type="party_key" lookup_key="barneswilliams#1" id1="85505" start="34" party1_short="BARNES" citation_local_level_id="2" >BARNES and Others against WILLIAMS</CITATION>
+
+<NAME end="51" start="34" party1_of="85505_4" all_names="BARNES AND OTHERS" local_name_id="1" id="85505_5" >BARNES and Others</NAME>
+
+<NAME end="70" start="62" all_names="WILLIAMS" party2_of="85505_4" local_name_id="2" id="85505_6" >WILLIAMS</NAME>
+
+<ORGANIZATION start="72" end="102" id="85505_9" >Supreme Court of United States</ORGANIZATION>
+
+<NAME start="129" local_name_id="3" end="162" id="85505_12" all_names="MR WICKLIFFE AND *416 MR TALBOT" >Mr. Wickliffe and *416 Mr. Talbot</NAME>
+
+<LEGAL_ROLE start="172" end="182" plural="True" id="85505_13" >plaintiffs</LEGAL_ROLE>
+
+<NAME start="191" local_name_id="4" end="216" id="85505_14" all_names="MR WHITE AND MR ISAACKS" >Mr. White and Mr. Isaacks</NAME>
+
+<LEGAL_ROLE start="226" end="235" id="85505_15" >defendant</LEGAL_ROLE>
+
+<PROFESSION start="237" document_level_name_id="5" end="254" id="85505_16" party="MARSHALL" >Mr. Chief Justice</PROFESSION>
+
+<NAME start="255" local_name_id="5" end="263" id="85505_17" all_names="MARSHALL" >MARSHALL</NAME>
+
+<ORGANIZATION start="405" end="410" id="85505_18" >Court</ORGANIZATION>
+
+<LEGAL_ROLE start="458" end="468" plural="True" id="85505_19" >plaintiffs</LEGAL_ROLE>
+
+<ORGANIZATION start="652" end="657" id="85505_20" >Court</ORGANIZATION>
+
+<ORGANIZATION start="795" end="800" id="85505_21" >Court</ORGANIZATION>
+
+<LEGAL_ROLE start="1020" end="1029" id="85505_22" >plaintiff</LEGAL_ROLE>
+
+<NAME start="1031" local_name_id="6" end="1033" id="85505_23" all_names="SO" >So</NAME>
+
+<LEGAL_ROLE start="1045" end="1054" id="85505_24" >defendant</LEGAL_ROLE>
+
+<ORGANIZATION start="1155" end="1160" id="85505_25" >Court</ORGANIZATION>
+
+<LEGAL_ROLE start="1246" end="1255" id="85505_26" >plaintiff</LEGAL_ROLE>
+
+<LEGAL_ROLE start="1260" end="1269" id="85505_27" >defendant</LEGAL_ROLE>
+
+<NAME start="1301" local_name_id="7" end="1306" id="85505_28" all_names="STATE" >State</NAME>
+
+<NAME start="1355" local_name_id="8" end="1364" id="85505_29" all_names="D BARNES" >D. Barnes</NAME>
+
+<LEGAL_ROLE start="1377" end="1387" plural="True" id="85505_30" >plaintiffs</LEGAL_ROLE>
+
+<NAME start="1403" local_name_id="9" end="1421" id="85505_31" all_names="STATE OF TENNESSEE" >State of Tennessee</NAME>
+
+<LEGAL_ROLE start="1587" end="1596" id="85505_32" >defendant</LEGAL_ROLE>
+
+<NAME start="1598" local_name_id="2" end="1606" id="85505_33" all_names="WILLIAMS" >Williams</NAME>
+
+<NAME start="1629" local_name_id="7" end="1634" id="85505_34" all_names="STATE" >State</NAME>
+
+<ORGANIZATION start="1703" end="1708" id="85505_35" >Court</ORGANIZATION>
+
+<ORGANIZATION start="1764" end="1791" id="85505_36" >Judges of the Circuit Court</ORGANIZATION>
+
+<ORGANIZATION start="1841" end="1846" id="85505_37" >Court</ORGANIZATION>
+
+<RELATION theme="85505_4" party1="85505_5" party1_string="BARNES and Others" theme_string="BARNES and Others  against  WILLIAMS" gram_type="infix" relation_type="asymmetric" id="85505_7" ></RELATION>
+
+<RELATION party2="85505_6" theme="85505_4" theme_string="BARNES and Others  against  WILLIAMS" party2_string="WILLIAMS" gram_type="infix" relation_type="asymmetric" id="85505_8" ></RELATION>
+
+<RELATION standard_case_string="24 U.S. 415 (____)" X_vs_Y_string="BARNES and Others  against  WILLIAMS" standard_case="85505_1" X_vs_Y="85505_4" gram_type="multi_line" relation_type="equivalence" id="85505_10" ></RELATION>
+
+<RELATION standard_case_string="11 Wheat. 415" X_vs_Y_string="BARNES and Others  against  WILLIAMS" standard_case="85505_2" X_vs_Y="85505_4" gram_type="multi_line" relation_type="equivalence" id="85505_11" ></RELATION>
+
+<RELATION theme="85505_17" profession_string="Mr. Chief Justice" theme_string="MARSHALL" profession="85505_16" gram_type="pre_nom" relation_type="asymmetric" id="85505_38" ></RELATION>
+

@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['dellwashington#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1201" id1="117690" volume="510" start="0" page_number="1201" standard_reporter="U.S." citation_global_level_id="5672.002" line="1" id="117695_1" citation_local_level_id="0" >510 U.S. 1201</CITATION>
+
+<CITATION party2="Washington" party1="O'Dell" citation_global_level_id="5672.004" party2_short="Washington" line="1" id="117695_3" alternative_keys="['u.s._510_1201']" end="38" entry_type="party_key" lookup_key="dellwashington#1" id1="117690" start="18" party1_short="Dell" citation_local_level_id="1" >O'Dell v. Washington</CITATION>
+
+<NAME end="24" start="18" party1_of="117695_3" all_names="O'DELL" local_name_id="1" id="117695_4" >O'Dell</NAME>
+
+<NAME end="38" start="28" all_names="WASHINGTON" party2_of="117695_3" local_name_id="2" id="117695_5" >Washington</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._510_1201" id1="117690" start="48" citation_global_level_id="5672.002" line="1" id="117695_2" citation_local_level_id="0" >93-7630</DOCKET>
+
+<DATE start="97" end="111" id="117695_6" >March 21, 1994</DATE>
+
+<NAME start="189" local_name_id="3" end="199" id="117695_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="241" reporter="Wash. App." entry_type="standard_key" no_current_file="True" lookup_key="wash.app._70_560" id1="Dummy_File_30832" volume="70" start="224" page_number="560" standard_reporter="WASH.APP." citation_global_level_id="94682.001" line="3" id="117695_12" citation_local_level_id="2" >70 Wash. App. 560</CITATION>
+
+<CITATION end="257" reporter="P. 2d" entry_type="standard_key" no_current_file="True" lookup_key="p.2d_854_1096" id1="Dummy_File_30833" volume="854" start="243" page_number="1096" standard_reporter="P.2D" citation_global_level_id="94683.001" line="3" id="117695_13" citation_local_level_id="3" >854 P. 2d 1096</CITATION>
+
+<RELATION theme="117695_1" includes_docket_string="93-7630" includes_docket="117695_2" theme_string="510 U.S. 1201" gram_type="apposition" relation_type="asymmetric" id="117695_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1201" X_vs_Y_string="O'Dell v. Washington" standard_case="117695_1" X_vs_Y="117695_3" gram_type="pre_nom" relation_type="equivalence" id="117695_7" ></RELATION>
+
+<RELATION theme="117695_3" includes_docket_string="93-7630" includes_docket="117695_2" theme_string="O'Dell v. Washington" gram_type="apposition" relation_type="asymmetric" id="117695_10" ></RELATION>
+
+<RELATION theme="117695_3" party1="117695_4" party1_string="O'Dell" theme_string="O'Dell v. Washington" gram_type="infix" relation_type="asymmetric" id="117695_8" ></RELATION>
+
+<RELATION party2="117695_5" theme="117695_3" theme_string="O'Dell v. Washington" party2_string="Washington" gram_type="infix" relation_type="asymmetric" id="117695_9" ></RELATION>
+

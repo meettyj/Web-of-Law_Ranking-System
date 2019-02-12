@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['jonestate#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1144" id1="126652" volume="537" start="0" page_number="1144" standard_reporter="U.S." citation_global_level_id="702.002" line="1" id="126644_1" citation_local_level_id="0" >537 U.S. 1144</CITATION>
+
+<CITATION party2="TATE, WARDEN" party1="JONES" citation_global_level_id="702.004" party2_short="TATE" line="1" id="126644_3" alternative_keys="['u.s._537_1144']" end="39" entry_type="party_key" lookup_key="jonestate#1" id1="126652" start="18" party1_short="JONES" citation_local_level_id="1" >JONES v. TATE, WARDEN</CITATION>
+
+<NAME end="23" start="18" party1_of="126644_3" all_names="JONES" local_name_id="1" id="126644_4" >JONES</NAME>
+
+<NAME end="39" start="27" all_names="TATE WARDEN" party2_of="126644_3" local_name_id="2" id="126644_5" >TATE, WARDEN</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._537_1144" id1="126652" start="49" citation_global_level_id="702.002" line="1" id="126644_2" citation_local_level_id="0" >02-7881</DOCKET>
+
+<DATE start="98" end="114" id="126644_6" >January 13, 2003</DATE>
+
+<NAME start="243" local_name_id="3" end="246" id="126644_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="126644_1" includes_docket_string="02-7881" includes_docket="126644_2" theme_string="537 U.S. 1144" gram_type="apposition" relation_type="asymmetric" id="126644_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1144" X_vs_Y_string="JONES v. TATE, WARDEN" standard_case="126644_1" X_vs_Y="126644_3" gram_type="pre_nom" relation_type="equivalence" id="126644_7" ></RELATION>
+
+<RELATION theme="126644_3" includes_docket_string="02-7881" includes_docket="126644_2" theme_string="JONES v. TATE, WARDEN" gram_type="apposition" relation_type="asymmetric" id="126644_10" ></RELATION>
+
+<RELATION theme="126644_3" party1="126644_4" party1_string="JONES" theme_string="JONES v. TATE, WARDEN" gram_type="infix" relation_type="asymmetric" id="126644_8" ></RELATION>
+
+<RELATION party2="126644_5" theme="126644_3" theme_string="JONES v. TATE, WARDEN" party2_string="TATE, WARDEN" gram_type="infix" relation_type="asymmetric" id="126644_9" ></RELATION>
+

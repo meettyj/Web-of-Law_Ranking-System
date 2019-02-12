@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['burgessoregon#4']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_1067" id1="136594" volume="541" start="0" page_number="1067" standard_reporter="U.S." citation_global_level_id="11441.002" line="1" id="136601_1" citation_local_level_id="0" >541 U.S. 1067</CITATION>
+
+<CITATION party2="OREGON" party1="BURGESS" citation_global_level_id="45066.001" party2_short="OREGON" line="2" id="136601_2" alternative_keys="['u.s._541_1067']" end="35" entry_type="party_key" lookup_key="burgessoregon#4" id1="136744" start="18" party1_short="BURGESS" citation_local_level_id="1" >BURGESS v. OREGON</CITATION>
+
+<NAME end="25" start="18" party1_of="136601_2" all_names="BURGESS" local_name_id="1" id="136601_3" >BURGESS</NAME>
+
+<NAME end="35" start="29" all_names="OREGON" party2_of="136601_2" local_name_id="2" id="136601_4" >OREGON</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="burgessoregon#4" id1="136744" start="45" citation_global_level_id="45066.001" line="3" id="136601_7" citation_local_level_id="1" >03-9531</DOCKET>
+
+<ORGANIZATION start="58" end="88" id="136601_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="94" citation_global_level_id="45066.001" end="106" id="136601_9" citation_local_level_id="1" >May 24, 2004</DATE>
+
+<NAME start="128" local_name_id="3" end="130" id="136601_13" all_names="CT" >Ct</NAME>
+
+<RELATION theme="136601_2" party1="136601_3" party1_string="BURGESS" theme_string="BURGESS v. OREGON" gram_type="infix" relation_type="asymmetric" id="136601_5" ></RELATION>
+
+<RELATION party2="136601_4" theme="136601_2" theme_string="BURGESS v. OREGON" party2_string="OREGON" gram_type="infix" relation_type="asymmetric" id="136601_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 1067" X_vs_Y_string="BURGESS v. OREGON" standard_case="136601_1" X_vs_Y="136601_2" gram_type="multi_line" relation_type="equivalence" id="136601_10" ></RELATION>
+
+<RELATION at_date_string="May 24, 2004" theme="136601_2" at_date="136601_9" theme_string="BURGESS v. OREGON" gram_type="multi_line" relation_type="asymmetric" id="136601_12" ></RELATION>
+
+<RELATION theme="136601_2" includes_docket_string="03-9531" includes_docket="136601_7" theme_string="BURGESS v. OREGON" gram_type="multi_line" relation_type="asymmetric" id="136601_11" ></RELATION>
+

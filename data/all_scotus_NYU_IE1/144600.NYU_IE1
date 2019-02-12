@@ -1,0 +1,42 @@
+<CITATION alternative_keys="['clancycomcast#1', 'clancyt#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_1032" id1="144609" volume="544" start="0" page_number="1032" standard_reporter="U.S." citation_global_level_id="8787.002" line="1" id="144600_1" citation_local_level_id="0" >544 U.S. 1032</CITATION>
+
+<CITATION party2="AT&amp;T CORP" party1="CLANCY" citation_global_level_id="8787.01" party2_short="T" line="2" id="144600_2" alternative_keys="['clancycomcast#1', 'u.s._544_1032']" end="37" entry_type="party_key" lookup_key="clancyt#1" id1="144609" start="18" party1_short="CLANCY" citation_local_level_id="1" >CLANCY v. AT&amp;T CORP</CITATION>
+
+<NAME end="24" start="18" party1_of="144600_2" all_names="CLANCY" local_name_id="1" id="144600_4" >CLANCY</NAME>
+
+<NAME end="37" start="28" all_names="AT&amp;T CORP" party2_of="144600_2" local_name_id="2" id="144600_5" >AT&amp;T CORP</NAME>
+
+<CITATION party2="COMCAST CORP. ET AL" party1="CLANCY" citation_global_level_id="8787.009" party2_short="COMCAST" line="2" id="144600_3" alternative_keys="['clancyt#1', 'u.s._544_1032']" end="73" entry_type="party_key" lookup_key="clancycomcast#1" id1="144609" start="44" party1_short="CLANCY" citation_local_level_id="2" >CLANCY v. COMCAST CORP. ET AL</CITATION>
+
+<NAME end="50" start="44" party1_of="144600_3" all_names="CLANCY" local_name_id="1" id="144600_6" >CLANCY</NAME>
+
+<NAME end="73" start="54" all_names="COMCAST CORP" party2_of="144600_3" local_name_id="3" id="144600_7" >COMCAST CORP. ET AL</NAME>
+
+<DOCKET alternative_keys="['clancycomcast#1', 'u.s._544_1032']" end="90" entry_type="docket" lookup_key="clancyt#1" id1="144609" start="83" citation_global_level_id="8787.01" line="3" id="144600_12" citation_local_level_id="1" >04-1205</DOCKET>
+
+<ORGANIZATION start="96" end="126" id="144600_13" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="132" citation_global_level_id="8787.01" end="144" id="144600_14" citation_local_level_id="1" >May 16, 2005</DATE>
+
+<NAME start="166" local_name_id="4" end="168" id="144600_21" all_names="CT" >Ct</NAME>
+
+<RELATION theme="144600_2" party1="144600_4" party1_string="CLANCY" theme_string="CLANCY v. AT&amp;T CORP" gram_type="infix" relation_type="asymmetric" id="144600_8" ></RELATION>
+
+<RELATION party2="144600_5" theme="144600_2" theme_string="CLANCY v. AT&amp;T CORP" party2_string="AT&amp;T CORP" gram_type="infix" relation_type="asymmetric" id="144600_9" ></RELATION>
+
+<RELATION theme="144600_3" party1="144600_6" party1_string="CLANCY" theme_string="CLANCY v. COMCAST CORP. ET AL" gram_type="infix" relation_type="asymmetric" id="144600_10" ></RELATION>
+
+<RELATION party2="144600_7" theme="144600_3" theme_string="CLANCY v. COMCAST CORP. ET AL" party2_string="COMCAST CORP. ET AL" gram_type="infix" relation_type="asymmetric" id="144600_11" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 1032" X_vs_Y_string="CLANCY v. COMCAST CORP. ET AL" standard_case="144600_1" X_vs_Y="144600_3" gram_type="multi_line" relation_type="equivalence" id="144600_18" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 1032" X_vs_Y_string="CLANCY v. AT&amp;T CORP" standard_case="144600_1" X_vs_Y="144600_2" gram_type="multi_line" relation_type="equivalence" id="144600_15" ></RELATION>
+
+<RELATION at_date_string="May 16, 2005" theme="144600_2" at_date="144600_14" theme_string="CLANCY v. AT&amp;T CORP" gram_type="multi_line" relation_type="asymmetric" id="144600_17" ></RELATION>
+
+<RELATION theme="144600_2" includes_docket_string="04-1205" includes_docket="144600_12" theme_string="CLANCY v. AT&amp;T CORP" gram_type="multi_line" relation_type="asymmetric" id="144600_16" ></RELATION>
+
+<RELATION at_date_string="May 16, 2005" theme="144600_3" at_date="144600_14" theme_string="CLANCY v. COMCAST CORP. ET AL" gram_type="multi_line" relation_type="asymmetric" id="144600_20" ></RELATION>
+
+<RELATION theme="144600_3" includes_docket_string="04-1205" includes_docket="144600_12" theme_string="CLANCY v. COMCAST CORP. ET AL" gram_type="multi_line" relation_type="asymmetric" id="144600_19" ></RELATION>
+

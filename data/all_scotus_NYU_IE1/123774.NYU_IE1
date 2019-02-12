@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['corellialabama#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_918" id1="123784" volume="537" start="0" page_number="918" standard_reporter="U.S." citation_global_level_id="8937.002" line="1" id="123774_1" citation_local_level_id="0" >537 U.S. 918</CITATION>
+
+<CITATION party2="ALABAMA" party1="CORELLI" citation_global_level_id="50606.001" party2_short="ALABAMA" line="1" id="123774_3" alternative_keys="['u.s._537_918']" end="35" entry_type="party_key" lookup_key="corellialabama#1" id1="123774" start="17" party1_short="CORELLI" citation_local_level_id="1" >CORELLI v. ALABAMA</CITATION>
+
+<NAME end="24" start="17" party1_of="123774_3" all_names="CORELLI" local_name_id="1" id="123774_4" >CORELLI</NAME>
+
+<NAME end="35" start="28" all_names="ALABAMA" party2_of="123774_3" local_name_id="2" id="123774_5" >ALABAMA</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="u.s._537_918" id1="123784" start="45" citation_global_level_id="8937.002" line="1" id="123774_2" citation_local_level_id="0" >02-5490</DOCKET>
+
+<DATE start="94" end="109" id="123774_6" >October 7, 2002</DATE>
+
+<NAME start="212" local_name_id="3" end="214" id="123774_13" all_names="CT" >Ct</NAME>
+
+<CITATION end="282" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_854_1216" id1="Dummy_File_131611" volume="854" start="267" page_number="1216" standard_reporter="SO.2D" citation_global_level_id="195461.001" line="3" id="123774_12" citation_local_level_id="2" >854 So. 2d 1216</CITATION>
+
+<RELATION theme="123774_1" includes_docket_string="02-5490" includes_docket="123774_2" theme_string="537 U.S. 918" gram_type="apposition" relation_type="asymmetric" id="123774_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 918" X_vs_Y_string="CORELLI v. ALABAMA" standard_case="123774_1" X_vs_Y="123774_3" gram_type="pre_nom" relation_type="equivalence" id="123774_7" ></RELATION>
+
+<RELATION theme="123774_3" includes_docket_string="02-5490" includes_docket="123774_2" theme_string="CORELLI v. ALABAMA" gram_type="apposition" relation_type="asymmetric" id="123774_10" ></RELATION>
+
+<RELATION theme="123774_3" party1="123774_4" party1_string="CORELLI" theme_string="CORELLI v. ALABAMA" gram_type="infix" relation_type="asymmetric" id="123774_8" ></RELATION>
+
+<RELATION party2="123774_5" theme="123774_3" theme_string="CORELLI v. ALABAMA" party2_string="ALABAMA" gram_type="infix" relation_type="asymmetric" id="123774_9" ></RELATION>
+

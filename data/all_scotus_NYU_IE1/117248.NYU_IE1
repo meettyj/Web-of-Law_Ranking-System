@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['heuerstates#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1164" id1="117252" volume="510" start="0" page_number="1164" standard_reporter="U.S." citation_global_level_id="6535.002" line="1" id="117248_1" citation_local_level_id="0" >510 U.S. 1164</CITATION>
+
+<CITATION party2="United States" party1="Heuer" citation_global_level_id="45373.001" party2_short="States" line="1" id="117248_3" alternative_keys="['u.s._510_1164']" end="40" entry_type="party_key" lookup_key="heuerstates#1" id1="117248" start="18" party1_short="Heuer" citation_local_level_id="1" >Heuer v. United States</CITATION>
+
+<NAME end="23" start="18" party1_of="117248_3" all_names="HEUER" local_name_id="1" id="117248_4" >Heuer</NAME>
+
+<NAME end="40" start="27" all_names="UNITED STATES" party2_of="117248_3" local_name_id="2" id="117248_5" >United States</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._510_1164" id1="117252" start="50" citation_global_level_id="6535.002" line="1" id="117248_2" citation_local_level_id="0" >93-1099</DOCKET>
+
+<DATE start="99" end="116" id="117248_6" >February 28, 1994</DATE>
+
+<NAME start="194" local_name_id="3" end="204" id="117248_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="240" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_4_723" id1="Dummy_File_148432" volume="4" start="229" page_number="723" standard_reporter="F.3D" citation_global_level_id="212282.001" line="3" id="117248_12" citation_local_level_id="2" >4 F. 3d 723</CITATION>
+
+<RELATION theme="117248_1" includes_docket_string="93-1099" includes_docket="117248_2" theme_string="510 U.S. 1164" gram_type="apposition" relation_type="asymmetric" id="117248_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1164" X_vs_Y_string="Heuer v. United States" standard_case="117248_1" X_vs_Y="117248_3" gram_type="pre_nom" relation_type="equivalence" id="117248_7" ></RELATION>
+
+<RELATION theme="117248_3" includes_docket_string="93-1099" includes_docket="117248_2" theme_string="Heuer v. United States" gram_type="apposition" relation_type="asymmetric" id="117248_10" ></RELATION>
+
+<RELATION theme="117248_3" party1="117248_4" party1_string="Heuer" theme_string="Heuer v. United States" gram_type="infix" relation_type="asymmetric" id="117248_8" ></RELATION>
+
+<RELATION party2="117248_5" theme="117248_3" theme_string="Heuer v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="117248_9" ></RELATION>
+

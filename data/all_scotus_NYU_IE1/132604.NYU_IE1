@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['simmonsduncan#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_911" id1="132614" volume="540" start="0" page_number="911" standard_reporter="U.S." citation_global_level_id="9584.002" line="1" id="132604_1" citation_local_level_id="0" >540 U.S. 911</CITATION>
+
+<CITATION party2="DUNCAN, WARDEN" party1="SIMMONS" citation_global_level_id="9584.003" party2_short="DUNCAN" line="1" id="132604_3" alternative_keys="['u.s._540_911']" end="42" entry_type="party_key" lookup_key="simmonsduncan#1" id1="132614" start="17" party1_short="SIMMONS" citation_local_level_id="1" >SIMMONS v. DUNCAN, WARDEN</CITATION>
+
+<NAME end="24" start="17" party1_of="132604_3" all_names="SIMMONS" local_name_id="1" id="132604_4" >SIMMONS</NAME>
+
+<NAME end="42" start="28" all_names="DUNCAN WARDEN" party2_of="132604_3" local_name_id="2" id="132604_5" >DUNCAN, WARDEN</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="u.s._540_911" id1="132614" start="52" citation_global_level_id="9584.002" line="1" id="132604_2" citation_local_level_id="0" >03-5477</DOCKET>
+
+<DATE start="101" end="116" id="132604_6" >October 6, 2003</DATE>
+
+<NAME start="194" local_name_id="3" end="204" id="132604_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="132604_1" includes_docket_string="03-5477" includes_docket="132604_2" theme_string="540 U.S. 911" gram_type="apposition" relation_type="asymmetric" id="132604_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 911" X_vs_Y_string="SIMMONS v. DUNCAN, WARDEN" standard_case="132604_1" X_vs_Y="132604_3" gram_type="pre_nom" relation_type="equivalence" id="132604_7" ></RELATION>
+
+<RELATION theme="132604_3" includes_docket_string="03-5477" includes_docket="132604_2" theme_string="SIMMONS v. DUNCAN, WARDEN" gram_type="apposition" relation_type="asymmetric" id="132604_10" ></RELATION>
+
+<RELATION theme="132604_3" party1="132604_4" party1_string="SIMMONS" theme_string="SIMMONS v. DUNCAN, WARDEN" gram_type="infix" relation_type="asymmetric" id="132604_8" ></RELATION>
+
+<RELATION party2="132604_5" theme="132604_3" theme_string="SIMMONS v. DUNCAN, WARDEN" party2_string="DUNCAN, WARDEN" gram_type="infix" relation_type="asymmetric" id="132604_9" ></RELATION>
+

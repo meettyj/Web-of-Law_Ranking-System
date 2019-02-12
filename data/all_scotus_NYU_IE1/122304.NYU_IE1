@@ -1,0 +1,42 @@
+<CITATION alternative_keys="['wardencone#4']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_807" id1="122299" volume="537" start="0" page_number="807" standard_reporter="U.S." citation_global_level_id="6479.002" line="1" id="122304_1" citation_local_level_id="0" >537 U.S. 807</CITATION>
+
+<CITATION party2="CONE" party1="BELL, WARDEN" citation_global_level_id="47051.001" party2_short="CONE" line="2" id="122304_2" alternative_keys="['u.s._537_807']" end="37" entry_type="party_key" lookup_key="wardencone#4" id1="143402" start="17" party1_short="WARDEN" citation_local_level_id="1" >BELL, WARDEN v. CONE</CITATION>
+
+<NAME end="29" start="17" party1_of="122304_2" all_names="BELL WARDEN" local_name_id="1" id="122304_3" >BELL, WARDEN</NAME>
+
+<PROFESSION start="23" end="29" id="122304_5" >WARDEN</PROFESSION>
+
+<NAME end="37" start="33" all_names="CONE" party2_of="122304_2" local_name_id="2" id="122304_4" >CONE</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="wardencone#4" id1="143402" start="47" citation_global_level_id="47051.001" line="3" id="122304_8" citation_local_level_id="1" >01-400</DOCKET>
+
+<ORGANIZATION start="59" end="89" id="122304_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="95" citation_global_level_id="47051.001" end="110" id="122304_10" citation_local_level_id="1" >October 7, 2002</DATE>
+
+<CITATION end="144" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_685" id1="118509" volume="535" start="132" page_number="685" standard_reporter="U.S." citation_global_level_id="43640.002" line="8" id="122304_14" citation_local_level_id="2" >535 U.S. 685</CITATION>
+
+<LEGAL_ROLE start="146" end="166" id="122304_15" >Motion of respondent</LEGAL_ROLE>
+
+<PROFESSION start="191" end="198" id="122304_16" >counsel</PROFESSION>
+
+<ORGANIZATION start="240" end="245" id="122304_17" >Court</ORGANIZATION>
+
+<PROFESSION start="261" end="269" id="122304_18" >attorney</PROFESSION>
+
+<PROFESSION start="289" document_level_name_id="3" end="297" id="122304_19" party="COMPENSATION STATUTE" >Attorney</PROFESSION>
+
+<NAME start="298" local_name_id="3" end="318" id="122304_20" all_names="COMPENSATION STATUTE" >Compensation Statute</NAME>
+
+<RELATION theme="122304_2" party1="122304_3" party1_string="BELL, WARDEN" theme_string="BELL, WARDEN v. CONE" gram_type="infix" relation_type="asymmetric" id="122304_6" ></RELATION>
+
+<RELATION party2="122304_4" theme="122304_2" theme_string="BELL, WARDEN v. CONE" party2_string="CONE" gram_type="infix" relation_type="asymmetric" id="122304_7" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 807" X_vs_Y_string="BELL, WARDEN v. CONE" standard_case="122304_1" X_vs_Y="122304_2" gram_type="multi_line" relation_type="equivalence" id="122304_11" ></RELATION>
+
+<RELATION at_date_string="October 7, 2002" theme="122304_2" at_date="122304_10" theme_string="BELL, WARDEN v. CONE" gram_type="multi_line" relation_type="asymmetric" id="122304_13" ></RELATION>
+
+<RELATION theme="122304_2" includes_docket_string="01-400" includes_docket="122304_8" theme_string="BELL, WARDEN v. CONE" gram_type="multi_line" relation_type="asymmetric" id="122304_12" ></RELATION>
+
+<RELATION theme="122304_20" profession_string="Attorney" theme_string="Compensation Statute" profession="122304_19" gram_type="pre_nom" relation_type="asymmetric" id="122304_21" ></RELATION>
+

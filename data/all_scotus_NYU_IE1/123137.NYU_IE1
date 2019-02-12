@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['mcphersongeorgia#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_870" id1="123130" volume="537" start="0" page_number="870" standard_reporter="U.S." citation_global_level_id="1206.002" line="1" id="123137_1" citation_local_level_id="0" >537 U.S. 870</CITATION>
+
+<CITATION party2="GEORGIA" party1="McPHERSON" citation_global_level_id="48748.001" party2_short="GEORGIA" line="1" id="123137_3" alternative_keys="['u.s._537_870']" end="37" entry_type="party_key" lookup_key="mcphersongeorgia#2" id1="123137" start="17" party1_short="McPHERSON" citation_local_level_id="1" >McPHERSON v. GEORGIA</CITATION>
+
+<NAME end="26" start="17" party1_of="123137_3" all_names="MCPHERSON" local_name_id="1" id="123137_4" >McPHERSON</NAME>
+
+<NAME end="37" start="30" all_names="GEORGIA" party2_of="123137_3" local_name_id="2" id="123137_5" >GEORGIA</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._537_870" id1="123130" start="47" citation_global_level_id="1206.002" line="1" id="123137_2" citation_local_level_id="0" >01-10906</DOCKET>
+
+<DATE start="97" end="112" id="123137_6" >October 7, 2002</DATE>
+
+<NAME start="203" local_name_id="3" end="206" id="123137_14" all_names="SUP" >Sup</NAME>
+
+<CITATION end="262" reporter="Ga." entry_type="standard_key" no_current_file="True" lookup_key="ga._274_444" id1="Dummy_File_86208" volume="274" start="251" page_number="444" standard_reporter="GA." citation_global_level_id="150058.001" line="3" id="123137_12" citation_local_level_id="2" >274 Ga. 444</CITATION>
+
+<CITATION end="280" reporter="S. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="s.e.2d_553_569" id1="Dummy_File_86209" volume="553" start="264" page_number="569" standard_reporter="S.E.2D" citation_global_level_id="150059.001" line="3" id="123137_13" citation_local_level_id="3" >553 S. E. 2d 569</CITATION>
+
+<RELATION theme="123137_1" includes_docket_string="01-10906" includes_docket="123137_2" theme_string="537 U.S. 870" gram_type="apposition" relation_type="asymmetric" id="123137_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 870" X_vs_Y_string="McPHERSON v. GEORGIA" standard_case="123137_1" X_vs_Y="123137_3" gram_type="pre_nom" relation_type="equivalence" id="123137_7" ></RELATION>
+
+<RELATION theme="123137_3" includes_docket_string="01-10906" includes_docket="123137_2" theme_string="McPHERSON v. GEORGIA" gram_type="apposition" relation_type="asymmetric" id="123137_10" ></RELATION>
+
+<RELATION theme="123137_3" party1="123137_4" party1_string="McPHERSON" theme_string="McPHERSON v. GEORGIA" gram_type="infix" relation_type="asymmetric" id="123137_8" ></RELATION>
+
+<RELATION party2="123137_5" theme="123137_3" theme_string="McPHERSON v. GEORGIA" party2_string="GEORGIA" gram_type="infix" relation_type="asymmetric" id="123137_9" ></RELATION>
+

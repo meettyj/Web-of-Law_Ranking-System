@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['riccardopolitz#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._536_925" id1="121437" volume="536" start="0" page_number="925" standard_reporter="U.S." citation_global_level_id="4565.002" line="1" id="121433_1" citation_local_level_id="0" >536 U.S. 925</CITATION>
+
+<CITATION party2="POLITZ" party1="RICCARDO ET UX." citation_global_level_id="37972.001" party2_short="POLITZ" line="2" id="121433_2" alternative_keys="['u.s._536_925']" end="42" entry_type="party_key" lookup_key="riccardopolitz#1" id1="121433" start="17" party1_short="RICCARDO" citation_local_level_id="1" >RICCARDO ET UX. v. POLITZ</CITATION>
+
+<NAME end="32" start="17" party1_of="121433_2" all_names="RICCARDO UX" local_name_id="1" id="121433_3" >RICCARDO ET UX.</NAME>
+
+<NAME end="42" start="36" all_names="POLITZ" party2_of="121433_2" local_name_id="2" id="121433_4" >POLITZ</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="riccardopolitz#1" id1="121433" start="52" citation_global_level_id="37972.001" line="3" id="121433_7" citation_local_level_id="1" >01-9570</DOCKET>
+
+<DATE start="105" citation_global_level_id="37972.001" end="118" id="121433_8" citation_local_level_id="1" >June 17, 2002</DATE>
+
+<NAME start="140" local_name_id="3" end="145" id="121433_13" all_names="SUPER" >Super</NAME>
+
+<CITATION end="204" reporter="A. 2d" entry_type="standard_key" no_current_file="True" lookup_key="a.2d_779_1230" id1="Dummy_File_84715" volume="779" start="190" page_number="1230" standard_reporter="A.2D" citation_global_level_id="148565.001" line="8" id="121433_12" citation_local_level_id="2" >779 A. 2d 1230</CITATION>
+
+<RELATION theme="121433_2" party1="121433_3" party1_string="RICCARDO ET UX." theme_string="RICCARDO ET UX. v. POLITZ" gram_type="infix" relation_type="asymmetric" id="121433_5" ></RELATION>
+
+<RELATION party2="121433_4" theme="121433_2" theme_string="RICCARDO ET UX. v. POLITZ" party2_string="POLITZ" gram_type="infix" relation_type="asymmetric" id="121433_6" ></RELATION>
+
+<RELATION standard_case_string="536 U.S. 925" X_vs_Y_string="RICCARDO ET UX. v. POLITZ" standard_case="121433_1" X_vs_Y="121433_2" gram_type="multi_line" relation_type="equivalence" id="121433_9" ></RELATION>
+
+<RELATION at_date_string="June 17, 2002" theme="121433_2" at_date="121433_8" theme_string="RICCARDO ET UX. v. POLITZ" gram_type="multi_line" relation_type="asymmetric" id="121433_11" ></RELATION>
+
+<RELATION theme="121433_2" includes_docket_string="01-9570" includes_docket="121433_7" theme_string="RICCARDO ET UX. v. POLITZ" gram_type="multi_line" relation_type="asymmetric" id="121433_10" ></RELATION>
+

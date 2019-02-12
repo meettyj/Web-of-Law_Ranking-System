@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['uzancredit#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_1044" id1="144773" volume="544" start="0" page_number="1044" standard_reporter="U.S." citation_global_level_id="1762.002" line="1" id="144770_1" citation_local_level_id="0" >544 U.S. 1044</CITATION>
+
+<CITATION party2="MOTOROLA CREDIT CORP. ET AL" party1="UZAN ET AL." citation_global_level_id="45401.001" party2_short="CREDIT" line="2" id="144770_2" alternative_keys="['u.s._544_1044']" end="60" entry_type="party_key" lookup_key="uzancredit#1" id1="144770" start="18" party1_short="UZAN" citation_local_level_id="1" >UZAN ET AL. v. MOTOROLA CREDIT CORP. ET AL</CITATION>
+
+<NAME end="29" start="18" party1_of="144770_2" all_names="UZAN" local_name_id="1" id="144770_3" >UZAN ET AL.</NAME>
+
+<NAME end="60" start="33" all_names="MOTOROLA CREDIT CORP" party2_of="144770_2" local_name_id="2" id="144770_4" >MOTOROLA CREDIT CORP. ET AL</NAME>
+
+<ORGANIZATION start="49" end="53" id="144770_5" >CORP</ORGANIZATION>
+
+<DOCKET end="77" entry_type="docket" lookup_key="uzancredit#1" id1="144770" start="70" citation_global_level_id="45401.001" line="3" id="144770_8" citation_local_level_id="1" >04-1255</DOCKET>
+
+<ORGANIZATION start="83" end="113" id="144770_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="119" citation_global_level_id="45401.001" end="131" id="144770_10" citation_local_level_id="1" >May 16, 2005</DATE>
+
+<NAME start="162" local_name_id="3" end="165" id="144770_15" all_names="CIR" >Cir</NAME>
+
+<CITATION end="292" reporter="F.3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_388_39" id1="Dummy_File_188494" volume="388" start="281" page_number="39" standard_reporter="F.3D" citation_global_level_id="252344.001" line="8" id="144770_14" citation_local_level_id="2" >388 F.3d 39</CITATION>
+
+<RELATION theme="144770_2" party1="144770_3" party1_string="UZAN ET AL." theme_string="UZAN ET AL. v. MOTOROLA CREDIT CORP. ET AL" gram_type="infix" relation_type="asymmetric" id="144770_6" ></RELATION>
+
+<RELATION party2="144770_4" theme="144770_2" theme_string="UZAN ET AL. v. MOTOROLA CREDIT CORP. ET AL" party2_string="MOTOROLA CREDIT CORP. ET AL" gram_type="infix" relation_type="asymmetric" id="144770_7" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 1044" X_vs_Y_string="UZAN ET AL. v. MOTOROLA CREDIT CORP. ET AL" standard_case="144770_1" X_vs_Y="144770_2" gram_type="multi_line" relation_type="equivalence" id="144770_11" ></RELATION>
+
+<RELATION at_date_string="May 16, 2005" theme="144770_2" at_date="144770_10" theme_string="UZAN ET AL. v. MOTOROLA CREDIT CORP. ET AL" gram_type="multi_line" relation_type="asymmetric" id="144770_13" ></RELATION>
+
+<RELATION theme="144770_2" includes_docket_string="04-1255" includes_docket="144770_8" theme_string="UZAN ET AL. v. MOTOROLA CREDIT CORP. ET AL" gram_type="multi_line" relation_type="asymmetric" id="144770_12" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['thompsonalabama#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_976" id1="115140" volume="510" start="0" page_number="976" standard_reporter="U.S." citation_global_level_id="11255.002" line="1" id="115136_1" citation_local_level_id="0" >510 U.S. 976</CITATION>
+
+<CITATION party2="Alabama" party1="Thompson" citation_global_level_id="21850.001" party2_short="Alabama" line="1" id="115136_3" alternative_keys="['u.s._510_976']" end="36" entry_type="party_key" lookup_key="thompsonalabama#1" id1="115136" start="17" party1_short="Thompson" citation_local_level_id="1" >Thompson v. Alabama</CITATION>
+
+<NAME end="25" start="17" party1_of="115136_3" all_names="THOMPSON" local_name_id="1" id="115136_4" >Thompson</NAME>
+
+<NAME end="36" start="29" all_names="ALABAMA" party2_of="115136_3" local_name_id="2" id="115136_5" >Alabama</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="u.s._510_976" id1="115140" start="46" citation_global_level_id="11255.002" line="1" id="115136_2" citation_local_level_id="0" >92-9098</DOCKET>
+
+<DATE start="95" end="112" id="115136_6" >November 15, 1993</DATE>
+
+<NAME start="195" local_name_id="3" end="205" id="115136_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="244" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_615_129" id1="Dummy_File_113921" volume="615" start="230" page_number="129" standard_reporter="SO.2D" citation_global_level_id="177771.001" line="3" id="115136_12" citation_local_level_id="2" >615 So. 2d 129</CITATION>
+
+<RELATION theme="115136_1" includes_docket_string="92-9098" includes_docket="115136_2" theme_string="510 U.S. 976" gram_type="apposition" relation_type="asymmetric" id="115136_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 976" X_vs_Y_string="Thompson v. Alabama" standard_case="115136_1" X_vs_Y="115136_3" gram_type="pre_nom" relation_type="equivalence" id="115136_7" ></RELATION>
+
+<RELATION theme="115136_3" includes_docket_string="92-9098" includes_docket="115136_2" theme_string="Thompson v. Alabama" gram_type="apposition" relation_type="asymmetric" id="115136_10" ></RELATION>
+
+<RELATION theme="115136_3" party1="115136_4" party1_string="Thompson" theme_string="Thompson v. Alabama" gram_type="infix" relation_type="asymmetric" id="115136_8" ></RELATION>
+
+<RELATION party2="115136_5" theme="115136_3" theme_string="Thompson v. Alabama" party2_string="Alabama" gram_type="infix" relation_type="asymmetric" id="115136_9" ></RELATION>
+

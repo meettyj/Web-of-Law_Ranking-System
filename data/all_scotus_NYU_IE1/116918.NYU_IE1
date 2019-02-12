@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['steenquality#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1122" id1="116919" volume="510" start="0" page_number="1122" standard_reporter="U.S." citation_global_level_id="4657.002" line="1" id="116918_1" citation_local_level_id="0" >510 U.S. 1122</CITATION>
+
+<CITATION party2="Central Quality et al" party1="Steen" citation_global_level_id="62106.001" party2_short="Quality" line="1" id="116918_3" alternative_keys="['u.s._510_1122']" end="48" entry_type="party_key" lookup_key="steenquality#1" id1="116918" start="18" party1_short="Steen" citation_local_level_id="1" >Steen v. Central Quality et al</CITATION>
+
+<NAME end="23" start="18" party1_of="116918_3" all_names="STEEN" local_name_id="1" id="116918_4" >Steen</NAME>
+
+<NAME end="48" start="27" all_names="CENTRAL QUALITY" party2_of="116918_3" local_name_id="2" id="116918_5" >Central Quality et al</NAME>
+
+<DOCKET end="65" entry_type="docket" lookup_key="u.s._510_1122" id1="116919" start="58" citation_global_level_id="4657.002" line="1" id="116918_2" citation_local_level_id="0" >93-6987</DOCKET>
+
+<DATE start="107" end="124" id="116918_6" >February 22, 1994</DATE>
+
+<NAME start="202" local_name_id="3" end="212" id="116918_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="251" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_993_1547" id1="Dummy_File_16487" volume="993" start="237" page_number="1547" standard_reporter="F.2D" citation_global_level_id="80337.001" line="3" id="116918_12" citation_local_level_id="2" >993 F. 2d 1547</CITATION>
+
+<RELATION theme="116918_1" includes_docket_string="93-6987" includes_docket="116918_2" theme_string="510 U.S. 1122" gram_type="apposition" relation_type="asymmetric" id="116918_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1122" X_vs_Y_string="Steen v. Central Quality et al" standard_case="116918_1" X_vs_Y="116918_3" gram_type="pre_nom" relation_type="equivalence" id="116918_7" ></RELATION>
+
+<RELATION theme="116918_3" includes_docket_string="93-6987" includes_docket="116918_2" theme_string="Steen v. Central Quality et al" gram_type="apposition" relation_type="asymmetric" id="116918_10" ></RELATION>
+
+<RELATION theme="116918_3" party1="116918_4" party1_string="Steen" theme_string="Steen v. Central Quality et al" gram_type="infix" relation_type="asymmetric" id="116918_8" ></RELATION>
+
+<RELATION party2="116918_5" theme="116918_3" theme_string="Steen v. Central Quality et al" party2_string="Central Quality et al" gram_type="infix" relation_type="asymmetric" id="116918_9" ></RELATION>
+

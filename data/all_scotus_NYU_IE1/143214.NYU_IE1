@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['erwintexas#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_925" id1="143221" volume="544" start="0" page_number="925" standard_reporter="U.S." citation_global_level_id="3242.002" line="1" id="143214_1" citation_local_level_id="0" >544 U.S. 925</CITATION>
+
+<CITATION party2="SMITH, SHERIFF, SMITH COUNTY, TEXAS, ET AL" party1="ERWIN" citation_global_level_id="3242.005" party2_short="TEXAS" line="2" id="143214_2" alternative_keys="['u.s._544_925']" end="68" entry_type="party_key" lookup_key="erwintexas#2" id1="143221" start="17" party1_short="ERWIN" citation_local_level_id="1" >ERWIN v. SMITH, SHERIFF, SMITH COUNTY, TEXAS, ET AL</CITATION>
+
+<NAME end="22" start="17" party1_of="143214_2" all_names="ERWIN" local_name_id="1" id="143214_3" >ERWIN</NAME>
+
+<NAME end="68" start="26" all_names="SMITH SHERIFF SMITH COUNTY TEXAS" party2_of="143214_2" local_name_id="2" id="143214_4" >SMITH, SHERIFF, SMITH COUNTY, TEXAS, ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._544_925']" end="85" entry_type="docket" lookup_key="erwintexas#2" id1="143221" start="78" citation_global_level_id="3242.005" line="3" id="143214_7" citation_local_level_id="1" >04-8096</DOCKET>
+
+<ORGANIZATION start="91" end="121" id="143214_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="127" citation_global_level_id="3242.005" end="141" id="143214_9" citation_local_level_id="1" >March 21, 2005</DATE>
+
+<NAME start="173" local_name_id="3" end="176" id="143214_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="143214_2" party1="143214_3" party1_string="ERWIN" theme_string="ERWIN v. SMITH, SHERIFF, SMITH COUNTY, TEXAS, ET AL" gram_type="infix" relation_type="asymmetric" id="143214_5" ></RELATION>
+
+<RELATION party2="143214_4" theme="143214_2" theme_string="ERWIN v. SMITH, SHERIFF, SMITH COUNTY, TEXAS, ET AL" party2_string="SMITH, SHERIFF, SMITH COUNTY, TEXAS, ET AL" gram_type="infix" relation_type="asymmetric" id="143214_6" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 925" X_vs_Y_string="ERWIN v. SMITH, SHERIFF, SMITH COUNTY, TEXAS, ET AL" standard_case="143214_1" X_vs_Y="143214_2" gram_type="multi_line" relation_type="equivalence" id="143214_10" ></RELATION>
+
+<RELATION at_date_string="March 21, 2005" theme="143214_2" at_date="143214_9" theme_string="ERWIN v. SMITH, SHERIFF, SMITH COUNTY, TEXAS, ET AL" gram_type="multi_line" relation_type="asymmetric" id="143214_12" ></RELATION>
+
+<RELATION theme="143214_2" includes_docket_string="04-8096" includes_docket="143214_7" theme_string="ERWIN v. SMITH, SHERIFF, SMITH COUNTY, TEXAS, ET AL" gram_type="multi_line" relation_type="asymmetric" id="143214_11" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['bestorstates#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_976" id1="131024" volume="539" start="0" page_number="976" standard_reporter="U.S." citation_global_level_id="30.003" line="1" id="131025_1" citation_local_level_id="0" >539 U.S. 976</CITATION>
+
+<CITATION party2="United States" party1="Bestor" citation_global_level_id="62203.001" party2_short="States" line="2" id="131025_2" alternative_keys="['u.s._539_976']" end="40" entry_type="party_key" lookup_key="bestorstates#1" id1="130204" start="17" party1_short="Bestor" citation_local_level_id="1" >Bestor v. United States</CITATION>
+
+<NAME end="23" start="17" party1_of="131025_2" all_names="BESTOR" local_name_id="1" id="131025_3" >Bestor</NAME>
+
+<NAME end="40" start="27" all_names="UNITED STATES" party2_of="131025_2" local_name_id="2" id="131025_4" >United States</NAME>
+
+<DOCKET end="71" entry_type="docket" lookup_key="bestorstates#1" id1="130204" start="64" citation_global_level_id="62203.001" line="3" id="131025_7" citation_local_level_id="1" >02-1539</DOCKET>
+
+<ORGANIZATION start="77" end="107" id="131025_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="113" citation_global_level_id="62203.001" end="127" id="131025_9" citation_local_level_id="1" >August 4, 2003</DATE>
+
+<NAME start="149" local_name_id="3" end="157" id="131025_13" all_names="PETITION" >Petition</NAME>
+
+<RELATION theme="131025_2" party1="131025_3" party1_string="Bestor" theme_string="Bestor v. United States" gram_type="infix" relation_type="asymmetric" id="131025_5" ></RELATION>
+
+<RELATION party2="131025_4" theme="131025_2" theme_string="Bestor v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="131025_6" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 976" X_vs_Y_string="Bestor v. United States" standard_case="131025_1" X_vs_Y="131025_2" gram_type="multi_line" relation_type="equivalence" id="131025_10" ></RELATION>
+
+<RELATION at_date_string="August 4, 2003" theme="131025_2" at_date="131025_9" theme_string="Bestor v. United States" gram_type="multi_line" relation_type="asymmetric" id="131025_12" ></RELATION>
+
+<RELATION theme="131025_2" includes_docket_string="02-1539" includes_docket="131025_7" theme_string="Bestor v. United States" gram_type="multi_line" relation_type="asymmetric" id="131025_11" ></RELATION>
+

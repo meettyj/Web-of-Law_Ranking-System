@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['kingabrams#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1178" id1="117424" volume="510" start="0" page_number="1178" standard_reporter="U.S." citation_global_level_id="906.002" line="1" id="117425_1" citation_local_level_id="0" >510 U.S. 1178</CITATION>
+
+<CITATION party2="Abrams et al" party1="King" citation_global_level_id="28274.001" party2_short="Abrams" line="1" id="117425_3" alternative_keys="['u.s._510_1178']" end="38" entry_type="party_key" lookup_key="kingabrams#1" id1="117425" start="18" party1_short="King" citation_local_level_id="1" >King v. Abrams et al</CITATION>
+
+<NAME end="22" start="18" party1_of="117425_3" all_names="KING" local_name_id="1" id="117425_4" >King</NAME>
+
+<NAME end="38" start="26" all_names="ABRAMS" party2_of="117425_3" local_name_id="2" id="117425_5" >Abrams et al</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._510_1178" id1="117424" start="48" citation_global_level_id="906.002" line="1" id="117425_2" citation_local_level_id="0" >93-1169</DOCKET>
+
+<DATE start="97" end="110" id="117425_6" >March 7, 1994</DATE>
+
+<NAME start="187" local_name_id="3" end="197" id="117425_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="234" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_9_1537" id1="Dummy_File_28750" volume="9" start="222" page_number="1537" standard_reporter="F.3D" citation_global_level_id="92600.001" line="3" id="117425_12" citation_local_level_id="2" >9 F. 3d 1537</CITATION>
+
+<RELATION theme="117425_1" includes_docket_string="93-1169" includes_docket="117425_2" theme_string="510 U.S. 1178" gram_type="apposition" relation_type="asymmetric" id="117425_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1178" X_vs_Y_string="King v. Abrams et al" standard_case="117425_1" X_vs_Y="117425_3" gram_type="pre_nom" relation_type="equivalence" id="117425_7" ></RELATION>
+
+<RELATION theme="117425_3" includes_docket_string="93-1169" includes_docket="117425_2" theme_string="King v. Abrams et al" gram_type="apposition" relation_type="asymmetric" id="117425_10" ></RELATION>
+
+<RELATION theme="117425_3" party1="117425_4" party1_string="King" theme_string="King v. Abrams et al" gram_type="infix" relation_type="asymmetric" id="117425_8" ></RELATION>
+
+<RELATION party2="117425_5" theme="117425_3" theme_string="King v. Abrams et al" party2_string="Abrams et al" gram_type="infix" relation_type="asymmetric" id="117425_9" ></RELATION>
+

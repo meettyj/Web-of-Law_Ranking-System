@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['pottswarden#4']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_943" id1="135060" volume="541" start="0" page_number="943" standard_reporter="U.S." citation_global_level_id="8120.002" line="1" id="135063_1" citation_local_level_id="0" >541 U.S. 943</CITATION>
+
+<CITATION party2="ROSE, WARDEN" party1="POTTS" citation_global_level_id="59475.001" party2_short="WARDEN" line="2" id="135063_2" alternative_keys="['u.s._541_943']" end="38" entry_type="party_key" lookup_key="pottswarden#4" id1="135063" start="17" party1_short="POTTS" citation_local_level_id="1" >POTTS v. ROSE, WARDEN</CITATION>
+
+<NAME end="22" start="17" party1_of="135063_2" all_names="POTTS" local_name_id="1" id="135063_3" >POTTS</NAME>
+
+<NAME end="38" start="26" all_names="ROSE WARDEN" party2_of="135063_2" local_name_id="2" id="135063_4" >ROSE, WARDEN</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="pottswarden#4" id1="135063" start="48" citation_global_level_id="59475.001" line="3" id="135063_7" citation_local_level_id="1" >03-8357</DOCKET>
+
+<ORGANIZATION start="61" end="91" id="135063_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="97" citation_global_level_id="59475.001" end="111" id="135063_9" citation_local_level_id="1" >March 22, 2004</DATE>
+
+<NAME start="133" local_name_id="3" end="136" id="135063_14" all_names="SUP" >Sup</NAME>
+
+<CITATION end="220" reporter="N. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.e.2d_769_935" id1="Dummy_File_203205" volume="769" start="204" page_number="935" standard_reporter="N.E.2D" citation_global_level_id="267055.001" line="8" id="135063_13" citation_local_level_id="2" >769 N. E. 2d 935</CITATION>
+
+<RELATION theme="135063_2" party1="135063_3" party1_string="POTTS" theme_string="POTTS v. ROSE, WARDEN" gram_type="infix" relation_type="asymmetric" id="135063_5" ></RELATION>
+
+<RELATION party2="135063_4" theme="135063_2" theme_string="POTTS v. ROSE, WARDEN" party2_string="ROSE, WARDEN" gram_type="infix" relation_type="asymmetric" id="135063_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 943" X_vs_Y_string="POTTS v. ROSE, WARDEN" standard_case="135063_1" X_vs_Y="135063_2" gram_type="multi_line" relation_type="equivalence" id="135063_10" ></RELATION>
+
+<RELATION at_date_string="March 22, 2004" theme="135063_2" at_date="135063_9" theme_string="POTTS v. ROSE, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="135063_12" ></RELATION>
+
+<RELATION theme="135063_2" includes_docket_string="03-8357" includes_docket="135063_7" theme_string="POTTS v. ROSE, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="135063_11" ></RELATION>
+

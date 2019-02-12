@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['authoritymccummings#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_991" id1="115319" volume="510" start="0" page_number="991" standard_reporter="U.S." citation_global_level_id="11496.002" line="1" id="115315_1" citation_local_level_id="0" >510 U.S. 991</CITATION>
+
+<CITATION party2="McCummings" party1="New York City Transit Authority" citation_global_level_id="28303.001" party2_short="McCummings" line="1" id="115315_3" alternative_keys="['u.s._510_991']" end="62" entry_type="party_key" lookup_key="authoritymccummings#1" id1="115315" start="17" party1_short="Authority" citation_local_level_id="1" >New York City Transit Authority v. McCummings</CITATION>
+
+<NAME end="48" start="17" party1_of="115315_3" all_names="NEW YORK CITY TRANSIT AUTHORITY" local_name_id="1" id="115315_4" >New York City Transit Authority</NAME>
+
+<NAME end="62" start="52" all_names="MCCUMMINGS" party2_of="115315_3" local_name_id="2" id="115315_5" >McCummings</NAME>
+
+<DOCKET end="78" entry_type="docket" lookup_key="u.s._510_991" id1="115319" start="72" citation_global_level_id="11496.002" line="1" id="115315_2" citation_local_level_id="0" >93-400</DOCKET>
+
+<DATE start="120" end="137" id="115315_6" >November 29, 1993</DATE>
+
+<NAME start="215" local_name_id="3" end="225" id="115315_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="283" reporter="N. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.e.2d_613_559" id1="Dummy_File_215700" volume="613" start="267" page_number="559" standard_reporter="N.E.2D" citation_global_level_id="279550.001" line="3" id="115315_12" citation_local_level_id="2" >613 N. E. 2d 559</CITATION>
+
+<RELATION theme="115315_1" includes_docket_string="93-400" includes_docket="115315_2" theme_string="510 U.S. 991" gram_type="apposition" relation_type="asymmetric" id="115315_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 991" X_vs_Y_string="New York City Transit Authority v. McCummings" standard_case="115315_1" X_vs_Y="115315_3" gram_type="pre_nom" relation_type="equivalence" id="115315_7" ></RELATION>
+
+<RELATION theme="115315_3" includes_docket_string="93-400" includes_docket="115315_2" theme_string="New York City Transit Authority v. McCummings" gram_type="apposition" relation_type="asymmetric" id="115315_10" ></RELATION>
+
+<RELATION theme="115315_3" party1="115315_4" party1_string="New York City Transit Authority" theme_string="New York City Transit Authority v. McCummings" gram_type="infix" relation_type="asymmetric" id="115315_8" ></RELATION>
+
+<RELATION party2="115315_5" theme="115315_3" theme_string="New York City Transit Authority v. McCummings" party2_string="McCummings" gram_type="infix" relation_type="asymmetric" id="115315_9" ></RELATION>
+

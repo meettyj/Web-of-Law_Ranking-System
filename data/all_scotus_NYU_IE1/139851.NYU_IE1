@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['manningwarden#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_963" id1="139863" volume="543" start="0" page_number="963" standard_reporter="U.S." citation_global_level_id="313.002" line="1" id="139851_1" citation_local_level_id="0" >543 U.S. 963</CITATION>
+
+<CITATION party2="HAMLET, WARDEN" party1="MANNING" citation_global_level_id="17054.001" party2_short="WARDEN" line="2" id="139851_2" alternative_keys="['u.s._543_963']" end="42" entry_type="party_key" lookup_key="manningwarden#1" id1="139851" start="17" party1_short="MANNING" citation_local_level_id="1" >MANNING v. HAMLET, WARDEN</CITATION>
+
+<NAME end="24" start="17" party1_of="139851_2" all_names="MANNING" local_name_id="1" id="139851_3" >MANNING</NAME>
+
+<NAME end="42" start="28" all_names="HAMLET WARDEN" party2_of="139851_2" local_name_id="2" id="139851_4" >HAMLET, WARDEN</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="manningwarden#1" id1="139851" start="52" citation_global_level_id="17054.001" line="3" id="139851_7" citation_local_level_id="1" >04-6055</DOCKET>
+
+<ORGANIZATION start="65" end="95" id="139851_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="101" citation_global_level_id="17054.001" end="117" id="139851_9" citation_local_level_id="1" >November 1, 2004</DATE>
+
+<NAME start="149" local_name_id="3" end="152" id="139851_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="139851_2" party1="139851_3" party1_string="MANNING" theme_string="MANNING v. HAMLET, WARDEN" gram_type="infix" relation_type="asymmetric" id="139851_5" ></RELATION>
+
+<RELATION party2="139851_4" theme="139851_2" theme_string="MANNING v. HAMLET, WARDEN" party2_string="HAMLET, WARDEN" gram_type="infix" relation_type="asymmetric" id="139851_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 963" X_vs_Y_string="MANNING v. HAMLET, WARDEN" standard_case="139851_1" X_vs_Y="139851_2" gram_type="multi_line" relation_type="equivalence" id="139851_10" ></RELATION>
+
+<RELATION at_date_string="November 1, 2004" theme="139851_2" at_date="139851_9" theme_string="MANNING v. HAMLET, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="139851_12" ></RELATION>
+
+<RELATION theme="139851_2" includes_docket_string="04-6055" includes_docket="139851_7" theme_string="MANNING v. HAMLET, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="139851_11" ></RELATION>
+

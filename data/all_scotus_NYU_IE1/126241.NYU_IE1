@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['padillaflorida#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1115" id1="126241" volume="537" start="0" page_number="1115" standard_reporter="U.S." citation_global_level_id="5347.002" line="1" id="126241_1" citation_local_level_id="0" >537 U.S. 1115</CITATION>
+
+<CITATION party2="FLORIDA" party1="PADILLA" citation_global_level_id="5347.001" party2_short="FLORIDA" line="1" id="126241_3" alternative_keys="['u.s._537_1115']" end="36" entry_type="party_key" lookup_key="padillaflorida#1" id1="126241" start="18" party1_short="PADILLA" citation_local_level_id="1" >PADILLA v. FLORIDA</CITATION>
+
+<NAME end="25" start="18" party1_of="126241_3" all_names="PADILLA" local_name_id="1" id="126241_4" >PADILLA</NAME>
+
+<NAME end="36" start="29" all_names="FLORIDA" party2_of="126241_3" local_name_id="2" id="126241_5" >FLORIDA</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="u.s._537_1115" id1="126241" start="46" citation_global_level_id="5347.002" line="1" id="126241_2" citation_local_level_id="0" >02-6917</DOCKET>
+
+<DATE start="95" end="111" id="126241_6" >January 13, 2003</DATE>
+
+<NAME start="236" local_name_id="3" end="240" id="126241_13" all_names="DIST" >Dist</NAME>
+
+<CITATION end="316" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_818_522" id1="Dummy_File_119984" volume="818" start="302" page_number="522" standard_reporter="SO.2D" citation_global_level_id="183834.001" line="3" id="126241_12" citation_local_level_id="2" >818 So. 2d 522</CITATION>
+
+<RELATION theme="126241_1" includes_docket_string="02-6917" includes_docket="126241_2" theme_string="537 U.S. 1115" gram_type="apposition" relation_type="asymmetric" id="126241_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1115" X_vs_Y_string="PADILLA v. FLORIDA" standard_case="126241_1" X_vs_Y="126241_3" gram_type="pre_nom" relation_type="equivalence" id="126241_7" ></RELATION>
+
+<RELATION theme="126241_3" includes_docket_string="02-6917" includes_docket="126241_2" theme_string="PADILLA v. FLORIDA" gram_type="apposition" relation_type="asymmetric" id="126241_10" ></RELATION>
+
+<RELATION theme="126241_3" party1="126241_4" party1_string="PADILLA" theme_string="PADILLA v. FLORIDA" gram_type="infix" relation_type="asymmetric" id="126241_8" ></RELATION>
+
+<RELATION party2="126241_5" theme="126241_3" theme_string="PADILLA v. FLORIDA" party2_string="FLORIDA" gram_type="infix" relation_type="asymmetric" id="126241_9" ></RELATION>
+

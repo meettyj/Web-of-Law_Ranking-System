@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['cooperstates#9']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_822" id1="138019" volume="543" start="0" page_number="822" standard_reporter="U.S." citation_global_level_id="64.002" line="1" id="138020_1" citation_local_level_id="0" >543 U.S. 822</CITATION>
+
+<CITATION party2="UNITED STATES" alternative_keys="['u.s._543_822']" party1="COOPER, AKA SEALED" end="64" party1_short="COOPER" entry_type="party_key" party1_role="defendant" lookup_key="cooperstates#9" id1="101509" start="17" citation_global_level_id="41250.001" party2_short="STATES" line="2" id="138020_2" citation_local_level_id="1" >COOPER, AKA SEALED DEFENDANT 1 v. UNITED STATES</CITATION>
+
+<NAME end="35" start="17" party1_of="138020_2" all_names="COOPER AKA SEALED" local_name_id="1" id="138020_3" >COOPER, AKA SEALED</NAME>
+
+<LEGAL_ROLE start="25" end="45" id="138020_6" >AKA SEALED DEFENDANT</LEGAL_ROLE>
+
+<LEGAL_ROLE start="36" end="45" id="138020_5" >DEFENDANT</LEGAL_ROLE>
+
+<NAME end="64" start="51" all_names="UNITED STATES" party2_of="138020_2" local_name_id="2" id="138020_4" >UNITED STATES</NAME>
+
+<DOCKET end="81" entry_type="docket" lookup_key="cooperstates#9" id1="101509" start="74" citation_global_level_id="41250.001" line="3" id="138020_9" citation_local_level_id="1" >03-8805</DOCKET>
+
+<ORGANIZATION start="87" end="117" id="138020_10" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="123" citation_global_level_id="41250.001" end="138" id="138020_11" citation_local_level_id="1" >October 4, 2004</DATE>
+
+<NAME start="170" local_name_id="3" end="173" id="138020_15" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="138020_2" party1="138020_3" party1_string="COOPER, AKA SEALED" theme_string="COOPER, AKA SEALED DEFENDANT 1 v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="138020_7" ></RELATION>
+
+<RELATION party2="138020_4" theme="138020_2" theme_string="COOPER, AKA SEALED DEFENDANT 1 v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="138020_8" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 822" X_vs_Y_string="COOPER, AKA SEALED DEFENDANT 1 v. UNITED STATES" standard_case="138020_1" X_vs_Y="138020_2" gram_type="multi_line" relation_type="equivalence" id="138020_12" ></RELATION>
+
+<RELATION at_date_string="October 4, 2004" theme="138020_2" at_date="138020_11" theme_string="COOPER, AKA SEALED DEFENDANT 1 v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="138020_14" ></RELATION>
+
+<RELATION theme="138020_2" includes_docket_string="03-8805" includes_docket="138020_9" theme_string="COOPER, AKA SEALED DEFENDANT 1 v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="138020_13" ></RELATION>
+

@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['faisonjefferson#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_930" id1="128270" volume="538" start="0" page_number="930" standard_reporter="U.S." citation_global_level_id="5460.002" line="1" id="128277_1" citation_local_level_id="0" >538 U.S. 930</CITATION>
+
+<CITATION party2="JEFFERSON ET AL" party1="FAISON" citation_global_level_id="41138.001" party2_short="JEFFERSON" line="1" id="128277_3" alternative_keys="['u.s._538_930']" end="42" entry_type="party_key" lookup_key="faisonjefferson#1" id1="128277" start="17" party1_short="FAISON" citation_local_level_id="1" >FAISON v. JEFFERSON ET AL</CITATION>
+
+<NAME end="23" start="17" party1_of="128277_3" all_names="FAISON" local_name_id="1" id="128277_4" >FAISON</NAME>
+
+<NAME end="42" start="27" all_names="JEFFERSON" party2_of="128277_3" local_name_id="2" id="128277_5" >JEFFERSON ET AL</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="u.s._538_930" id1="128270" start="52" citation_global_level_id="5460.002" line="1" id="128277_2" citation_local_level_id="0" >02-8567</DOCKET>
+
+<DATE start="101" end="115" id="128277_6" >March 24, 2003</DATE>
+
+<NAME start="248" local_name_id="3" end="251" id="128277_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="128277_1" includes_docket_string="02-8567" includes_docket="128277_2" theme_string="538 U.S. 930" gram_type="apposition" relation_type="asymmetric" id="128277_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 930" X_vs_Y_string="FAISON v. JEFFERSON ET AL" standard_case="128277_1" X_vs_Y="128277_3" gram_type="pre_nom" relation_type="equivalence" id="128277_7" ></RELATION>
+
+<RELATION theme="128277_3" includes_docket_string="02-8567" includes_docket="128277_2" theme_string="FAISON v. JEFFERSON ET AL" gram_type="apposition" relation_type="asymmetric" id="128277_10" ></RELATION>
+
+<RELATION theme="128277_3" party1="128277_4" party1_string="FAISON" theme_string="FAISON v. JEFFERSON ET AL" gram_type="infix" relation_type="asymmetric" id="128277_8" ></RELATION>
+
+<RELATION party2="128277_5" theme="128277_3" theme_string="FAISON v. JEFFERSON ET AL" party2_string="JEFFERSON ET AL" gram_type="infix" relation_type="asymmetric" id="128277_9" ></RELATION>
+

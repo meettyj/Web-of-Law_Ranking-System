@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['kellystates#9']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_910" id1="130285" volume="539" start="0" page_number="910" standard_reporter="U.S." citation_global_level_id="1684.002" line="1" id="130289_1" citation_local_level_id="0" >539 U.S. 910</CITATION>
+
+<CITATION party2="United States" party1="Kelly" citation_global_level_id="45850.001" party2_short="States" line="1" id="130289_3" alternative_keys="['u.s._539_910']" end="39" entry_type="party_key" lookup_key="kellystates#9" id1="143261" start="17" party1_short="Kelly" citation_local_level_id="1" >Kelly v. United States</CITATION>
+
+<NAME end="22" start="17" party1_of="130289_3" all_names="KELLY" local_name_id="1" id="130289_4" >Kelly</NAME>
+
+<NAME end="39" start="26" all_names="UNITED STATES" party2_of="130289_3" local_name_id="2" id="130289_5" >United States</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._539_910" id1="130285" start="49" citation_global_level_id="1684.002" line="1" id="130289_2" citation_local_level_id="0" >02-10497</DOCKET>
+
+<DATE start="99" end="111" id="130289_6" >June 2, 2003</DATE>
+
+<NAME start="189" local_name_id="3" end="199" id="130289_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="130289_1" includes_docket_string="02-10497" includes_docket="130289_2" theme_string="539 U.S. 910" gram_type="apposition" relation_type="asymmetric" id="130289_11" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 910" X_vs_Y_string="Kelly v. United States" standard_case="130289_1" X_vs_Y="130289_3" gram_type="pre_nom" relation_type="equivalence" id="130289_7" ></RELATION>
+
+<RELATION theme="130289_3" includes_docket_string="02-10497" includes_docket="130289_2" theme_string="Kelly v. United States" gram_type="apposition" relation_type="asymmetric" id="130289_10" ></RELATION>
+
+<RELATION theme="130289_3" party1="130289_4" party1_string="Kelly" theme_string="Kelly v. United States" gram_type="infix" relation_type="asymmetric" id="130289_8" ></RELATION>
+
+<RELATION party2="130289_5" theme="130289_3" theme_string="Kelly v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="130289_9" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['hallwarden#6']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_924" id1="132773" volume="540" start="0" page_number="924" standard_reporter="U.S." citation_global_level_id="2523.002" line="1" id="132772_1" citation_local_level_id="0" >540 U.S. 924</CITATION>
+
+<CITATION party2="HEAD, WARDEN" party1="HALL" citation_global_level_id="47822.001" party2_short="WARDEN" line="1" id="132772_3" alternative_keys="['u.s._540_924']" end="37" entry_type="party_key" lookup_key="hallwarden#6" id1="132772" start="17" party1_short="HALL" citation_local_level_id="1" >HALL v. HEAD, WARDEN</CITATION>
+
+<NAME end="21" start="17" party1_of="132772_3" all_names="HALL" local_name_id="1" id="132772_4" >HALL</NAME>
+
+<NAME end="37" start="25" all_names="HEAD WARDEN" party2_of="132772_3" local_name_id="2" id="132772_5" >HEAD, WARDEN</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="u.s._540_924" id1="132773" start="47" citation_global_level_id="2523.002" line="1" id="132772_2" citation_local_level_id="0" >03-5741</DOCKET>
+
+<DATE start="96" end="111" id="132772_6" >October 6, 2003</DATE>
+
+<NAME start="190" local_name_id="3" end="200" id="132772_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="238" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_310_683" id1="Dummy_File_17373" volume="310" start="225" page_number="683" standard_reporter="F.3D" citation_global_level_id="81223.001" line="3" id="132772_12" citation_local_level_id="2" >310 F. 3d 683</CITATION>
+
+<RELATION theme="132772_1" includes_docket_string="03-5741" includes_docket="132772_2" theme_string="540 U.S. 924" gram_type="apposition" relation_type="asymmetric" id="132772_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 924" X_vs_Y_string="HALL v. HEAD, WARDEN" standard_case="132772_1" X_vs_Y="132772_3" gram_type="pre_nom" relation_type="equivalence" id="132772_7" ></RELATION>
+
+<RELATION theme="132772_3" includes_docket_string="03-5741" includes_docket="132772_2" theme_string="HALL v. HEAD, WARDEN" gram_type="apposition" relation_type="asymmetric" id="132772_10" ></RELATION>
+
+<RELATION theme="132772_3" party1="132772_4" party1_string="HALL" theme_string="HALL v. HEAD, WARDEN" gram_type="infix" relation_type="asymmetric" id="132772_8" ></RELATION>
+
+<RELATION party2="132772_5" theme="132772_3" theme_string="HALL v. HEAD, WARDEN" party2_string="HEAD, WARDEN" gram_type="infix" relation_type="asymmetric" id="132772_9" ></RELATION>
+

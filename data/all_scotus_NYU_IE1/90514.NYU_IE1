@@ -1,0 +1,42 @@
+<CITATION alternative_keys="['refiningray#2', 'u.s._104_657', 'l.ed._26_882']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._104_657" id1="90514" volume="104" start="0" page_number="657" standard_reporter="U.S." citation_global_level_id="51926.002" line="1" id="90514_1" citation_local_level_id="0" >104 U.S. 657</CITATION>
+
+<CITATION alternative_keys="['u.s._104_657', 'refiningray#2', 'l.ed._26_882']" end="29" reporter="U.S." entry_type="standard_key" lookup_key="u.s._104_657" id1="90514" volume="104" start="17" page_number="657" standard_reporter="U.S." citation_global_level_id="51926.002" line="1" id="90514_2" citation_local_level_id="1" >104 U.S. 657</CITATION>
+
+<NAME start="21" local_name_id="1" end="42" id="90514_11" all_names="US 657 26 L ED" >U.S. 657 26 L. Ed</NAME>
+
+<CITATION alternative_keys="['u.s._104_657', 'refiningray#2']" end="47" reporter="L. Ed." entry_type="standard_key" lookup_key="l.ed._26_882" id1="90514" volume="26" start="34" page_number="882" standard_reporter="L.ED." citation_global_level_id="51926.003" line="1" id="90514_3" citation_local_level_id="2" >26 L. Ed. 882</CITATION>
+
+<CITATION party2="RAY" party1="St. Louis Smelting &amp; Refining Co." citation_global_level_id="51926.004" party2_short="RAY" line="1" id="90514_4" alternative_keys="['u.s._104_657', 'l.ed._26_882', 'u.s._104_657']" end="92" entry_type="party_key" lookup_key="refiningray#2" id1="90514" start="52" party1_short="Refining" citation_local_level_id="3" >St. Louis Smelting &amp; Refining Co. v. RAY</CITATION>
+
+<NAME end="85" start="52" party1_of="90514_4" all_names="ST LOUIS SMELTING &amp; REFINING CO" local_name_id="2" id="90514_6" >St. Louis Smelting &amp; Refining Co.</NAME>
+
+<NAME end="92" start="89" all_names="RAY" party2_of="90514_4" local_name_id="3" id="90514_7" >RAY</NAME>
+
+<DATE start="111" end="115" id="90514_10" >1881</DATE>
+
+<CITATION party2="Ray" party1="NOTE.—Smelting Company" citation_global_level_id="245886.001" party2_short="Ray" line="1" id="90514_5" end="156" no_current_file="True" entry_type="party_key" lookup_key="companyray#2" id1="Dummy_File_182036" start="127" party1_short="Company" citation_local_level_id="4" >NOTE.—Smelting Company v. Ray</CITATION>
+
+<NAME end="149" start="127" party1_of="90514_5" all_names="NOTE—SMELTING COMPANY" local_name_id="4" id="90514_8" >NOTE.—Smelting Company</NAME>
+
+<NAME end="156" start="153" all_names="RAY" party2_of="90514_5" local_name_id="3" id="90514_9" >Ray</NAME>
+
+<NAME start="405" local_name_id="5" end="407" id="90514_20" all_names="MR" >MR</NAME>
+
+<NAME start="605" local_name_id="5" end="607" id="90514_21" all_names="MR" >MR</NAME>
+
+<RELATION standard_case_string="104 U.S. 657" X_vs_Y_string="St. Louis Smelting &amp; Refining Co. v. RAY" standard_case="90514_1" X_vs_Y="90514_4" gram_type="pre_nom" relation_type="equivalence" id="90514_13" ></RELATION>
+
+<RELATION standard_case_string="104 U.S. 657" X_vs_Y_string="St. Louis Smelting &amp; Refining Co. v. RAY" standard_case="90514_2" X_vs_Y="90514_4" gram_type="pre_nom" relation_type="equivalence" id="90514_14" ></RELATION>
+
+<RELATION standard_case_string="26 L. Ed. 882" X_vs_Y_string="St. Louis Smelting &amp; Refining Co. v. RAY" standard_case="90514_3" X_vs_Y="90514_4" gram_type="pre_nom" relation_type="equivalence" id="90514_12" ></RELATION>
+
+<RELATION theme="90514_4" party1="90514_6" party1_string="St. Louis Smelting &amp; Refining Co." theme_string="St. Louis Smelting &amp; Refining Co. v. RAY" gram_type="infix" relation_type="asymmetric" id="90514_15" ></RELATION>
+
+<RELATION party2="90514_7" theme="90514_4" theme_string="St. Louis Smelting &amp; Refining Co. v. RAY" party2_string="RAY" gram_type="infix" relation_type="asymmetric" id="90514_16" ></RELATION>
+
+<RELATION at_date_string="1881" theme="90514_5" at_date="90514_10" theme_string="NOTE.—Smelting Company v. Ray" gram_type="pre_nom" relation_type="asymmetric" id="90514_17" ></RELATION>
+
+<RELATION theme="90514_5" party1="90514_8" party1_string="NOTE.—Smelting Company" theme_string="NOTE.—Smelting Company v. Ray" gram_type="infix" relation_type="asymmetric" id="90514_18" ></RELATION>
+
+<RELATION party2="90514_9" theme="90514_5" theme_string="NOTE.—Smelting Company v. Ray" party2_string="Ray" gram_type="infix" relation_type="asymmetric" id="90514_19" ></RELATION>
+

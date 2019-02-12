@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['callarmanstates#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1072" id1="120519" volume="535" start="0" page_number="1072" standard_reporter="U.S." citation_global_level_id="10960.002" line="1" id="120514_1" citation_local_level_id="0" >535 U.S. 1072</CITATION>
+
+<CITATION party2="UNITED STATES" party1="CALLARMAN" citation_global_level_id="43630.001" party2_short="STATES" line="2" id="120514_2" alternative_keys="['u.s._535_1072']" end="44" entry_type="party_key" lookup_key="callarmanstates#1" id1="120514" start="18" party1_short="CALLARMAN" citation_local_level_id="1" >CALLARMAN v. UNITED STATES</CITATION>
+
+<NAME end="27" start="18" party1_of="120514_2" all_names="CALLARMAN" local_name_id="1" id="120514_3" >CALLARMAN</NAME>
+
+<NAME end="44" start="31" all_names="UNITED STATES" party2_of="120514_2" local_name_id="2" id="120514_4" >UNITED STATES</NAME>
+
+<DOCKET end="61" entry_type="docket" lookup_key="callarmanstates#1" id1="120514" start="54" citation_global_level_id="43630.001" line="3" id="120514_7" citation_local_level_id="1" >01-9603</DOCKET>
+
+<DATE start="107" citation_global_level_id="43630.001" end="119" id="120514_8" citation_local_level_id="1" >May 13, 2002</DATE>
+
+<NAME start="152" local_name_id="3" end="155" id="120514_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="206" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_273_1284" id1="Dummy_File_38871" volume="273" start="192" page_number="1284" standard_reporter="F.3D" citation_global_level_id="102721.001" line="8" id="120514_12" citation_local_level_id="2" >273 F. 3d 1284</CITATION>
+
+<RELATION theme="120514_2" party1="120514_3" party1_string="CALLARMAN" theme_string="CALLARMAN v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="120514_5" ></RELATION>
+
+<RELATION party2="120514_4" theme="120514_2" theme_string="CALLARMAN v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="120514_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1072" X_vs_Y_string="CALLARMAN v. UNITED STATES" standard_case="120514_1" X_vs_Y="120514_2" gram_type="multi_line" relation_type="equivalence" id="120514_9" ></RELATION>
+
+<RELATION at_date_string="May 13, 2002" theme="120514_2" at_date="120514_8" theme_string="CALLARMAN v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="120514_11" ></RELATION>
+
+<RELATION theme="120514_2" includes_docket_string="01-9603" includes_docket="120514_7" theme_string="CALLARMAN v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="120514_10" ></RELATION>
+

@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['goodmancollege#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1055" id1="141000" volume="543" start="0" page_number="1055" standard_reporter="U.S." citation_global_level_id="14785.002" line="1" id="140999_1" citation_local_level_id="0" >543 U.S. 1055</CITATION>
+
+<CITATION party2="BOWDOIN COLLEGE" party1="GOODMAN" citation_global_level_id="35571.001" party2_short="COLLEGE" line="2" id="140999_2" alternative_keys="['u.s._543_1055']" end="44" entry_type="party_key" lookup_key="goodmancollege#1" id1="140999" start="18" party1_short="GOODMAN" citation_local_level_id="1" >GOODMAN v. BOWDOIN COLLEGE</CITATION>
+
+<NAME end="25" start="18" party1_of="140999_2" all_names="GOODMAN" local_name_id="1" id="140999_3" >GOODMAN</NAME>
+
+<NAME end="44" start="29" all_names="BOWDOIN COLLEGE" party2_of="140999_2" local_name_id="2" id="140999_4" >BOWDOIN COLLEGE</NAME>
+
+<DOCKET end="60" entry_type="docket" lookup_key="goodmancollege#1" id1="140999" start="54" citation_global_level_id="35571.001" line="3" id="140999_7" citation_local_level_id="1" >04-678</DOCKET>
+
+<ORGANIZATION start="66" end="96" id="140999_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="102" citation_global_level_id="35571.001" end="118" id="140999_9" citation_local_level_id="1" >January 10, 2005</DATE>
+
+<NAME start="140" local_name_id="3" end="153" id="140999_14" all_names="C A 1ST CIR" >C. A. 1st Cir</NAME>
+
+<NAME start="155" local_name_id="4" end="165" id="140999_15" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="202" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_380_33" id1="Dummy_File_215819" volume="380" start="190" page_number="33" standard_reporter="F.3D" citation_global_level_id="279669.001" line="8" id="140999_13" citation_local_level_id="2" >380 F. 3d 33</CITATION>
+
+<RELATION theme="140999_2" party1="140999_3" party1_string="GOODMAN" theme_string="GOODMAN v. BOWDOIN COLLEGE" gram_type="infix" relation_type="asymmetric" id="140999_5" ></RELATION>
+
+<RELATION party2="140999_4" theme="140999_2" theme_string="GOODMAN v. BOWDOIN COLLEGE" party2_string="BOWDOIN COLLEGE" gram_type="infix" relation_type="asymmetric" id="140999_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1055" X_vs_Y_string="GOODMAN v. BOWDOIN COLLEGE" standard_case="140999_1" X_vs_Y="140999_2" gram_type="multi_line" relation_type="equivalence" id="140999_10" ></RELATION>
+
+<RELATION at_date_string="January 10, 2005" theme="140999_2" at_date="140999_9" theme_string="GOODMAN v. BOWDOIN COLLEGE" gram_type="multi_line" relation_type="asymmetric" id="140999_12" ></RELATION>
+
+<RELATION theme="140999_2" includes_docket_string="04-678" includes_docket="140999_7" theme_string="GOODMAN v. BOWDOIN COLLEGE" gram_type="multi_line" relation_type="asymmetric" id="140999_11" ></RELATION>
+

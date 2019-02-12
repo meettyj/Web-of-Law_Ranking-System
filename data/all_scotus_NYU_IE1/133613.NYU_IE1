@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['smithvirginia#3']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_990" id1="133616" volume="540" start="0" page_number="990" standard_reporter="U.S." citation_global_level_id="8796.002" line="1" id="133613_1" citation_local_level_id="0" >540 U.S. 990</CITATION>
+
+<CITATION party2="WEST VIRGINIA" party1="SMITH" citation_global_level_id="58664.001" party2_short="VIRGINIA" line="1" id="133613_3" alternative_keys="['u.s._540_990']" end="39" entry_type="party_key" lookup_key="smithvirginia#3" id1="144249" start="17" party1_short="SMITH" citation_local_level_id="1" >SMITH v. WEST VIRGINIA</CITATION>
+
+<NAME end="22" start="17" party1_of="133613_3" all_names="SMITH" local_name_id="1" id="133613_4" >SMITH</NAME>
+
+<NAME end="39" start="26" all_names="WEST VIRGINIA" party2_of="133613_3" local_name_id="2" id="133613_5" >WEST VIRGINIA</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._540_990" id1="133616" start="49" citation_global_level_id="8796.002" line="1" id="133613_2" citation_local_level_id="0" >03-6192</DOCKET>
+
+<DATE start="98" end="114" id="133613_6" >November 3, 2003</DATE>
+
+<NAME start="209" local_name_id="3" end="219" id="133613_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="133613_1" includes_docket_string="03-6192" includes_docket="133613_2" theme_string="540 U.S. 990" gram_type="apposition" relation_type="asymmetric" id="133613_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 990" X_vs_Y_string="SMITH v. WEST VIRGINIA" standard_case="133613_1" X_vs_Y="133613_3" gram_type="pre_nom" relation_type="equivalence" id="133613_7" ></RELATION>
+
+<RELATION theme="133613_3" includes_docket_string="03-6192" includes_docket="133613_2" theme_string="SMITH v. WEST VIRGINIA" gram_type="apposition" relation_type="asymmetric" id="133613_10" ></RELATION>
+
+<RELATION theme="133613_3" party1="133613_4" party1_string="SMITH" theme_string="SMITH v. WEST VIRGINIA" gram_type="infix" relation_type="asymmetric" id="133613_8" ></RELATION>
+
+<RELATION party2="133613_5" theme="133613_3" theme_string="SMITH v. WEST VIRGINIA" party2_string="WEST VIRGINIA" gram_type="infix" relation_type="asymmetric" id="133613_9" ></RELATION>
+

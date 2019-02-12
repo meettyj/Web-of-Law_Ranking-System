@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['champagneidaho#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1133" id1="126486" volume="537" start="0" page_number="1133" standard_reporter="U.S." citation_global_level_id="8895.002" line="1" id="126492_1" citation_local_level_id="0" >537 U.S. 1133</CITATION>
+
+<CITATION party2="IDAHO" party1="CHAMPAGNE" citation_global_level_id="58209.001" party2_short="IDAHO" line="1" id="126492_3" alternative_keys="['u.s._537_1133']" end="36" entry_type="party_key" lookup_key="champagneidaho#1" id1="126492" start="18" party1_short="CHAMPAGNE" citation_local_level_id="1" >CHAMPAGNE v. IDAHO</CITATION>
+
+<NAME end="27" start="18" party1_of="126492_3" all_names="CHAMPAGNE" local_name_id="1" id="126492_4" >CHAMPAGNE</NAME>
+
+<NAME end="36" start="31" all_names="IDAHO" party2_of="126492_3" local_name_id="2" id="126492_5" >IDAHO</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="u.s._537_1133" id1="126486" start="46" citation_global_level_id="8895.002" line="1" id="126492_2" citation_local_level_id="0" >02-7550</DOCKET>
+
+<DATE start="95" end="111" id="126492_6" >January 13, 2003</DATE>
+
+<NAME start="203" local_name_id="3" end="205" id="126492_14" all_names="CT" >Ct</NAME>
+
+<CITATION end="267" reporter="Idaho" entry_type="standard_key" no_current_file="True" lookup_key="idaho_137_677" id1="Dummy_File_20481" volume="137" start="254" page_number="677" standard_reporter="IDAHO" citation_global_level_id="84331.001" line="3" id="126492_12" citation_local_level_id="2" >137 Idaho 677</CITATION>
+
+<CITATION end="281" reporter="P. 3d" entry_type="standard_key" no_current_file="True" lookup_key="p.3d_52_321" id1="Dummy_File_20482" volume="52" start="269" page_number="321" standard_reporter="P.3D" citation_global_level_id="84332.001" line="3" id="126492_13" citation_local_level_id="3" >52 P. 3d 321</CITATION>
+
+<RELATION theme="126492_1" includes_docket_string="02-7550" includes_docket="126492_2" theme_string="537 U.S. 1133" gram_type="apposition" relation_type="asymmetric" id="126492_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1133" X_vs_Y_string="CHAMPAGNE v. IDAHO" standard_case="126492_1" X_vs_Y="126492_3" gram_type="pre_nom" relation_type="equivalence" id="126492_7" ></RELATION>
+
+<RELATION theme="126492_3" includes_docket_string="02-7550" includes_docket="126492_2" theme_string="CHAMPAGNE v. IDAHO" gram_type="apposition" relation_type="asymmetric" id="126492_10" ></RELATION>
+
+<RELATION theme="126492_3" party1="126492_4" party1_string="CHAMPAGNE" theme_string="CHAMPAGNE v. IDAHO" gram_type="infix" relation_type="asymmetric" id="126492_8" ></RELATION>
+
+<RELATION party2="126492_5" theme="126492_3" theme_string="CHAMPAGNE v. IDAHO" party2_string="IDAHO" gram_type="infix" relation_type="asymmetric" id="126492_9" ></RELATION>
+

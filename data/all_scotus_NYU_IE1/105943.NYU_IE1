@@ -1,0 +1,46 @@
+<CITATION alternative_keys="['friedbergboard#1', 's.ct._80_63', 'l.ed.2d_4_50']" end="10" reporter="U.S." entry_type="standard_key" lookup_key="u.s._361_2" id1="105943" volume="361" start="0" page_number="2" standard_reporter="U.S." citation_global_level_id="23645.002" line="1" id="105943_1" citation_local_level_id="0" >361 U.S. 2</CITATION>
+
+<CITATION alternative_keys="['u.s._361_2', 'friedbergboard#1', 'l.ed.2d_4_50']" end="27" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._80_63" id1="105943" volume="80" start="15" page_number="63" standard_reporter="S.CT." citation_global_level_id="23645.003" line="1" id="105943_2" citation_local_level_id="1" >80 S. Ct. 63</CITATION>
+
+<NAME start="18" local_name_id="1" end="23" id="105943_8" all_names="S CT" >S. Ct</NAME>
+
+<CITATION alternative_keys="['u.s._361_2', 's.ct._80_63', 'friedbergboard#1']" end="46" reporter="L. Ed. 2d" entry_type="standard_key" lookup_key="l.ed.2d_4_50" id1="105943" volume="4" start="32" page_number="50" standard_reporter="L.ED.2D" citation_global_level_id="23645.004" line="1" id="105943_3" citation_local_level_id="2" >4 L. Ed. 2d 50</CITATION>
+
+<CITATION party2="PENNSYLVANIA LABOR RELATIONS BOARD" party1="Irving J. FRIEDBERG et al." citation_global_level_id="23645.005" party2_short="BOARD" line="1" id="105943_4" alternative_keys="['s.ct._80_63', 'l.ed.2d_4_50', 'u.s._361_2']" end="115" entry_type="party_key" lookup_key="friedbergboard#1" id1="105943" start="51" party1_short="FRIEDBERG" citation_local_level_id="3" >Irving J. FRIEDBERG et al. v. PENNSYLVANIA LABOR RELATIONS BOARD</CITATION>
+
+<NAME end="77" start="51" party1_of="105943_4" all_names="IRVING J FRIEDBERG" local_name_id="2" id="105943_5" >Irving J. FRIEDBERG et al.</NAME>
+
+<NAME end="115" start="81" all_names="PENNSYLVANIA LABOR RELATIONS BOARD" party2_of="105943_4" local_name_id="3" id="105943_6" >PENNSYLVANIA LABOR RELATIONS BOARD</NAME>
+
+<DATE start="173" end="189" id="105943_7" >October 12, 1959</DATE>
+
+<NAME start="201" local_name_id="4" end="241" id="105943_9" all_names="MESSRS SAMUEL HANDLER AND ARTHUR BERMAN" >Messrs. Samuel Handler and Arthur Berman</NAME>
+
+<LEGAL_ROLE start="247" end="257" plural="True" id="105943_10" >appellants</LEGAL_ROLE>
+
+<NAME start="265" local_name_id="5" end="279" id="105943_16" all_names="ANNE X ALPERN" >Anne X. Alpern</NAME>
+
+<PROFESSION start="281" document_level_name_id="5" end="307" id="105943_17" party="ANNE X ALPERN" >Atty. Gen. of Pennsylvania</PROFESSION>
+
+<NAME start="313" local_name_id="6" end="331" id="105943_18" all_names="MR HARRY J RUBIN" >Mr. Harry J. Rubin</NAME>
+
+<PROFESSION start="333" document_level_name_id="6" end="349" id="105943_19" party="MR HARRY J RUBIN" >Deputy Atty. Gen</PROFESSION>
+
+<LEGAL_ROLE start="356" end="364" id="105943_20" party="party2" >appellee</LEGAL_ROLE>
+
+<NAME start="376" local_name_id="7" end="382" id="105943_23" all_names="CURIAM" >CURIAM</NAME>
+
+<RELATION standard_case_string="361 U.S. 2" X_vs_Y_string="Irving J. FRIEDBERG et al. v. PENNSYLVANIA LABOR RELATIONS BOARD" standard_case="105943_1" X_vs_Y="105943_4" gram_type="pre_nom" relation_type="equivalence" id="105943_12" ></RELATION>
+
+<RELATION standard_case_string="80 S. Ct. 63" X_vs_Y_string="Irving J. FRIEDBERG et al. v. PENNSYLVANIA LABOR RELATIONS BOARD" standard_case="105943_2" X_vs_Y="105943_4" gram_type="pre_nom" relation_type="equivalence" id="105943_13" ></RELATION>
+
+<RELATION standard_case_string="4 L. Ed. 2d 50" X_vs_Y_string="Irving J. FRIEDBERG et al. v. PENNSYLVANIA LABOR RELATIONS BOARD" standard_case="105943_3" X_vs_Y="105943_4" gram_type="pre_nom" relation_type="equivalence" id="105943_11" ></RELATION>
+
+<RELATION theme="105943_4" party1="105943_5" party1_string="Irving J. FRIEDBERG et al." theme_string="Irving J. FRIEDBERG et al. v. PENNSYLVANIA LABOR RELATIONS BOARD" gram_type="infix" relation_type="asymmetric" id="105943_14" ></RELATION>
+
+<RELATION party2="105943_6" theme="105943_4" theme_string="Irving J. FRIEDBERG et al. v. PENNSYLVANIA LABOR RELATIONS BOARD" party2_string="PENNSYLVANIA LABOR RELATIONS BOARD" gram_type="infix" relation_type="asymmetric" id="105943_15" ></RELATION>
+
+<RELATION theme="105943_16" profession_string="Atty. Gen. of Pennsylvania" theme_string="Anne X. Alpern" profession="105943_17" gram_type="apposition" relation_type="asymmetric" id="105943_21" ></RELATION>
+
+<RELATION theme="105943_18" profession_string="Deputy Atty. Gen" theme_string="Mr. Harry J. Rubin" profession="105943_19" gram_type="apposition" relation_type="asymmetric" id="105943_22" ></RELATION>
+

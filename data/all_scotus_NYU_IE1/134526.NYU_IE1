@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['computerapex#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_1073" id1="134522" volume="540" start="0" page_number="1073" standard_reporter="U.S." citation_global_level_id="216.002" line="1" id="134526_1" citation_local_level_id="0" >540 U.S. 1073</CITATION>
+
+<CITATION party2="APEX, INC" party1="RARITAN COMPUTER, INC." citation_global_level_id="2444.001" party2_short="APEX" line="1" id="134526_3" alternative_keys="['u.s._540_1073']" end="53" entry_type="party_key" lookup_key="computerapex#1" id1="134526" start="18" party1_short="COMPUTER" citation_local_level_id="1" >RARITAN COMPUTER, INC. v. APEX, INC</CITATION>
+
+<NAME end="40" start="18" party1_of="134526_3" all_names="RARITAN COMPUTER INC" local_name_id="1" id="134526_4" >RARITAN COMPUTER, INC.</NAME>
+
+<ORGANIZATION start="18" end="39" id="134526_7" >RARITAN COMPUTER, INC</ORGANIZATION>
+
+<NAME end="53" start="44" all_names="APEX INC" party2_of="134526_3" local_name_id="2" id="134526_5" >APEX, INC</NAME>
+
+<DOCKET end="69" entry_type="docket" lookup_key="u.s._540_1073" id1="134522" start="63" citation_global_level_id="216.002" line="1" id="134526_2" citation_local_level_id="0" >03-326</DOCKET>
+
+<DATE start="111" end="127" id="134526_6" >December 8, 2003</DATE>
+
+<NAME start="206" local_name_id="3" end="216" id="134526_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="255" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_325_1364" id1="Dummy_File_182851" volume="325" start="241" page_number="1364" standard_reporter="F.3D" citation_global_level_id="246701.001" line="3" id="134526_13" citation_local_level_id="2" >325 F. 3d 1364</CITATION>
+
+<RELATION theme="134526_1" includes_docket_string="03-326" includes_docket="134526_2" theme_string="540 U.S. 1073" gram_type="apposition" relation_type="asymmetric" id="134526_12" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 1073" X_vs_Y_string="RARITAN COMPUTER, INC. v. APEX, INC" standard_case="134526_1" X_vs_Y="134526_3" gram_type="pre_nom" relation_type="equivalence" id="134526_8" ></RELATION>
+
+<RELATION theme="134526_3" includes_docket_string="03-326" includes_docket="134526_2" theme_string="RARITAN COMPUTER, INC. v. APEX, INC" gram_type="apposition" relation_type="asymmetric" id="134526_11" ></RELATION>
+
+<RELATION party2="134526_5" theme="134526_3" theme_string="RARITAN COMPUTER, INC. v. APEX, INC" party2_string="APEX, INC" gram_type="infix" relation_type="asymmetric" id="134526_10" ></RELATION>
+
+<RELATION theme="134526_3" party1="134526_4" party1_string="RARITAN COMPUTER, INC." theme_string="RARITAN COMPUTER, INC. v. APEX, INC" gram_type="infix" relation_type="asymmetric" id="134526_9" ></RELATION>
+

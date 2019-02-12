@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['grahamstates#9']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1026" id1="120002" volume="535" start="0" page_number="1026" standard_reporter="U.S." citation_global_level_id="1732.002" line="1" id="120002_1" citation_local_level_id="0" >535 U.S. 1026</CITATION>
+
+<CITATION party2="UNITED STATES" party1="GRAHAM" citation_global_level_id="26001.001" party2_short="STATES" line="2" id="120002_2" alternative_keys="['u.s._535_1026']" end="41" entry_type="party_key" lookup_key="grahamstates#9" id1="133653" start="18" party1_short="GRAHAM" citation_local_level_id="1" >GRAHAM v. UNITED STATES</CITATION>
+
+<NAME end="24" start="18" party1_of="120002_2" all_names="GRAHAM" local_name_id="1" id="120002_3" >GRAHAM</NAME>
+
+<NAME end="41" start="28" all_names="UNITED STATES" party2_of="120002_2" local_name_id="2" id="120002_4" >UNITED STATES</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="grahamstates#9" id1="133653" start="51" citation_global_level_id="26001.001" line="3" id="120002_7" citation_local_level_id="1" >01-9063</DOCKET>
+
+<DATE start="104" citation_global_level_id="26001.001" end="118" id="120002_8" citation_local_level_id="1" >April 22, 2002</DATE>
+
+<NAME start="150" local_name_id="3" end="153" id="120002_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="203" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_275_490" id1="Dummy_File_130971" volume="275" start="190" page_number="490" standard_reporter="F.3D" citation_global_level_id="194821.001" line="8" id="120002_12" citation_local_level_id="2" >275 F. 3d 490</CITATION>
+
+<RELATION theme="120002_2" party1="120002_3" party1_string="GRAHAM" theme_string="GRAHAM v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="120002_5" ></RELATION>
+
+<RELATION party2="120002_4" theme="120002_2" theme_string="GRAHAM v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="120002_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1026" X_vs_Y_string="GRAHAM v. UNITED STATES" standard_case="120002_1" X_vs_Y="120002_2" gram_type="multi_line" relation_type="equivalence" id="120002_9" ></RELATION>
+
+<RELATION at_date_string="April 22, 2002" theme="120002_2" at_date="120002_8" theme_string="GRAHAM v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="120002_11" ></RELATION>
+
+<RELATION theme="120002_2" includes_docket_string="01-9063" includes_docket="120002_7" theme_string="GRAHAM v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="120002_10" ></RELATION>
+

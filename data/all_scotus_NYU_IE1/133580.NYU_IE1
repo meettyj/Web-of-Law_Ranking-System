@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['hawkinscalifornia#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_988" id1="133591" volume="540" start="0" page_number="988" standard_reporter="U.S." citation_global_level_id="10571.002" line="1" id="133580_1" citation_local_level_id="0" >540 U.S. 988</CITATION>
+
+<CITATION party2="CALIFORNIA" party1="HAWKINS" citation_global_level_id="33405.001" party2_short="CALIFORNIA" line="1" id="133580_3" alternative_keys="['u.s._540_988']" end="38" entry_type="party_key" lookup_key="hawkinscalifornia#2" id1="127126" start="17" party1_short="HAWKINS" citation_local_level_id="1" >HAWKINS v. CALIFORNIA</CITATION>
+
+<NAME end="24" start="17" party1_of="133580_3" all_names="HAWKINS" local_name_id="1" id="133580_4" >HAWKINS</NAME>
+
+<NAME end="38" start="28" all_names="CALIFORNIA" party2_of="133580_3" local_name_id="2" id="133580_5" >CALIFORNIA</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._540_988" id1="133591" start="48" citation_global_level_id="10571.002" line="1" id="133580_2" citation_local_level_id="0" >03-6139</DOCKET>
+
+<DATE start="97" end="113" id="133580_6" >November 3, 2003</DATE>
+
+<NAME start="190" local_name_id="3" end="200" id="133580_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="133580_1" includes_docket_string="03-6139" includes_docket="133580_2" theme_string="540 U.S. 988" gram_type="apposition" relation_type="asymmetric" id="133580_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 988" X_vs_Y_string="HAWKINS v. CALIFORNIA" standard_case="133580_1" X_vs_Y="133580_3" gram_type="pre_nom" relation_type="equivalence" id="133580_7" ></RELATION>
+
+<RELATION theme="133580_3" includes_docket_string="03-6139" includes_docket="133580_2" theme_string="HAWKINS v. CALIFORNIA" gram_type="apposition" relation_type="asymmetric" id="133580_10" ></RELATION>
+
+<RELATION theme="133580_3" party1="133580_4" party1_string="HAWKINS" theme_string="HAWKINS v. CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="133580_8" ></RELATION>
+
+<RELATION party2="133580_5" theme="133580_3" theme_string="HAWKINS v. CALIFORNIA" party2_string="CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="133580_9" ></RELATION>
+

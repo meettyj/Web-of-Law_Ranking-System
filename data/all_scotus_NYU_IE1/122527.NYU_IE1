@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['vonderheidellc#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_824" id1="122538" volume="537" start="0" page_number="824" standard_reporter="U.S." citation_global_level_id="480.002" line="1" id="122527_1" citation_local_level_id="0" >537 U.S. 824</CITATION>
+
+<CITATION party2="CAVALRY INVESTMENTS, LLC" party1="VONDERHEIDE" citation_global_level_id="40736.001" party2_short="LLC" line="1" id="122527_3" alternative_keys="['u.s._537_824']" end="56" entry_type="party_key" lookup_key="vonderheidellc#1" id1="122527" start="17" party1_short="VONDERHEIDE" citation_local_level_id="1" >VONDERHEIDE v. CAVALRY INVESTMENTS, LLC</CITATION>
+
+<NAME end="28" start="17" party1_of="122527_3" all_names="VONDERHEIDE" local_name_id="1" id="122527_4" >VONDERHEIDE</NAME>
+
+<NAME end="56" start="32" all_names="CAVALRY INVESTMENTS LLC" party2_of="122527_3" local_name_id="2" id="122527_5" >CAVALRY INVESTMENTS, LLC</NAME>
+
+<DOCKET end="73" entry_type="docket" lookup_key="u.s._537_824" id1="122538" start="66" citation_global_level_id="480.002" line="1" id="122527_2" citation_local_level_id="0" >01-1833</DOCKET>
+
+<DATE start="69" end="73" id="122527_6" >1833</DATE>
+
+<DATE start="115" end="130" id="122527_7" >October 7, 2002</DATE>
+
+<NAME start="238" local_name_id="3" end="240" id="122527_14" all_names="CT" >Ct</NAME>
+
+<RELATION theme="122527_1" includes_docket_string="01-1833" includes_docket="122527_2" theme_string="537 U.S. 824" gram_type="apposition" relation_type="asymmetric" id="122527_12" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 824" X_vs_Y_string="VONDERHEIDE v. CAVALRY INVESTMENTS, LLC" standard_case="122527_1" X_vs_Y="122527_3" gram_type="pre_nom" relation_type="equivalence" id="122527_8" ></RELATION>
+
+<RELATION theme="122527_3" includes_docket_string="01-1833" includes_docket="122527_2" theme_string="VONDERHEIDE v. CAVALRY INVESTMENTS, LLC" gram_type="apposition" relation_type="asymmetric" id="122527_11" ></RELATION>
+
+<RELATION party2="122527_5" theme="122527_3" theme_string="VONDERHEIDE v. CAVALRY INVESTMENTS, LLC" party2_string="CAVALRY INVESTMENTS, LLC" gram_type="infix" relation_type="asymmetric" id="122527_10" ></RELATION>
+
+<RELATION theme="122527_3" party1="122527_4" party1_string="VONDERHEIDE" theme_string="VONDERHEIDE v. CAVALRY INVESTMENTS, LLC" gram_type="infix" relation_type="asymmetric" id="122527_9" ></RELATION>
+
+<RELATION at_date_string="1833" theme="122527_2" at_date="122527_6" theme_string="01-1833" gram_type="infix" relation_type="asymmetric" id="122527_13" ></RELATION>
+

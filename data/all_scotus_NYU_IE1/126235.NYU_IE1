@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['smalleystates#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1114" id1="126230" volume="537" start="0" page_number="1114" standard_reporter="U.S." citation_global_level_id="3791.002" line="1" id="126235_1" citation_local_level_id="0" >537 U.S. 1114</CITATION>
+
+<CITATION party2="UNITED STATES" party1="SMALLEY" citation_global_level_id="24717.001" party2_short="STATES" line="1" id="126235_3" alternative_keys="['u.s._537_1114']" end="42" entry_type="party_key" lookup_key="smalleystates#1" id1="126235" start="18" party1_short="SMALLEY" citation_local_level_id="1" >SMALLEY v. UNITED STATES</CITATION>
+
+<NAME end="25" start="18" party1_of="126235_3" all_names="SMALLEY" local_name_id="1" id="126235_4" >SMALLEY</NAME>
+
+<NAME end="42" start="29" all_names="UNITED STATES" party2_of="126235_3" local_name_id="2" id="126235_5" >UNITED STATES</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="u.s._537_1114" id1="126230" start="52" citation_global_level_id="3791.002" line="1" id="126235_2" citation_local_level_id="0" >02-6693</DOCKET>
+
+<DATE start="101" end="117" id="126235_6" >January 13, 2003</DATE>
+
+<NAME start="247" local_name_id="3" end="250" id="126235_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="301" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_294_1030" id1="Dummy_File_193096" volume="294" start="287" page_number="1030" standard_reporter="F.3D" citation_global_level_id="256946.001" line="3" id="126235_12" citation_local_level_id="2" >294 F. 3d 1030</CITATION>
+
+<RELATION theme="126235_1" includes_docket_string="02-6693" includes_docket="126235_2" theme_string="537 U.S. 1114" gram_type="apposition" relation_type="asymmetric" id="126235_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1114" X_vs_Y_string="SMALLEY v. UNITED STATES" standard_case="126235_1" X_vs_Y="126235_3" gram_type="pre_nom" relation_type="equivalence" id="126235_7" ></RELATION>
+
+<RELATION theme="126235_3" includes_docket_string="02-6693" includes_docket="126235_2" theme_string="SMALLEY v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="126235_10" ></RELATION>
+
+<RELATION theme="126235_3" party1="126235_4" party1_string="SMALLEY" theme_string="SMALLEY v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="126235_8" ></RELATION>
+
+<RELATION party2="126235_5" theme="126235_3" theme_string="SMALLEY v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="126235_9" ></RELATION>
+

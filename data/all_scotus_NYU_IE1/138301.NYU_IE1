@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['veilleuxcattell#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_843" id1="138309" volume="543" start="0" page_number="843" standard_reporter="U.S." citation_global_level_id="4754.002" line="1" id="138301_1" citation_local_level_id="0" >543 U.S. 843</CITATION>
+
+<CITATION party2="CATTELL, WARDEN" party1="VEILLEUX" citation_global_level_id="4754.005" party2_short="CATTELL" line="2" id="138301_2" alternative_keys="['u.s._543_843']" end="44" entry_type="party_key" lookup_key="veilleuxcattell#1" id1="138309" start="17" party1_short="VEILLEUX" citation_local_level_id="1" >VEILLEUX v. CATTELL, WARDEN</CITATION>
+
+<NAME end="25" start="17" party1_of="138301_2" all_names="VEILLEUX" local_name_id="1" id="138301_3" >VEILLEUX</NAME>
+
+<NAME end="44" start="29" all_names="CATTELL WARDEN" party2_of="138301_2" local_name_id="2" id="138301_4" >CATTELL, WARDEN</NAME>
+
+<DOCKET alternative_keys="['u.s._543_843']" end="62" entry_type="docket" lookup_key="veilleuxcattell#1" id1="138309" start="54" citation_global_level_id="4754.005" line="3" id="138301_7" citation_local_level_id="1" >03-10667</DOCKET>
+
+<ORGANIZATION start="68" end="98" id="138301_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="104" citation_global_level_id="4754.005" end="119" id="138301_9" citation_local_level_id="1" >October 4, 2004</DATE>
+
+<NAME start="141" local_name_id="3" end="154" id="138301_13" all_names="C A 1ST CIR" >C. A. 1st Cir</NAME>
+
+<NAME start="156" local_name_id="4" end="166" id="138301_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="138301_2" party1="138301_3" party1_string="VEILLEUX" theme_string="VEILLEUX v. CATTELL, WARDEN" gram_type="infix" relation_type="asymmetric" id="138301_5" ></RELATION>
+
+<RELATION party2="138301_4" theme="138301_2" theme_string="VEILLEUX v. CATTELL, WARDEN" party2_string="CATTELL, WARDEN" gram_type="infix" relation_type="asymmetric" id="138301_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 843" X_vs_Y_string="VEILLEUX v. CATTELL, WARDEN" standard_case="138301_1" X_vs_Y="138301_2" gram_type="multi_line" relation_type="equivalence" id="138301_10" ></RELATION>
+
+<RELATION at_date_string="October 4, 2004" theme="138301_2" at_date="138301_9" theme_string="VEILLEUX v. CATTELL, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="138301_12" ></RELATION>
+
+<RELATION theme="138301_2" includes_docket_string="03-10667" includes_docket="138301_7" theme_string="VEILLEUX v. CATTELL, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="138301_11" ></RELATION>
+

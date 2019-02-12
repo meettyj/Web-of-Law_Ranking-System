@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['villarrealstates#7']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_926" id1="114519" volume="510" start="0" page_number="926" standard_reporter="U.S." citation_global_level_id="1091.002" line="1" id="114510_1" citation_local_level_id="0" >510 U.S. 926</CITATION>
+
+<CITATION party2="United States" party1="Villarreal" citation_global_level_id="57434.001" party2_short="States" line="1" id="114510_3" alternative_keys="['u.s._510_926']" end="44" entry_type="party_key" lookup_key="villarrealstates#7" id1="116012" start="17" party1_short="Villarreal" citation_local_level_id="1" >Villarreal v. United States</CITATION>
+
+<NAME end="27" start="17" party1_of="114510_3" all_names="VILLARREAL" local_name_id="1" id="114510_4" >Villarreal</NAME>
+
+<NAME end="44" start="31" all_names="UNITED STATES" party2_of="114510_3" local_name_id="2" id="114510_5" >United States</NAME>
+
+<DOCKET end="61" entry_type="docket" lookup_key="u.s._510_926" id1="114519" start="54" citation_global_level_id="1091.002" line="1" id="114510_2" citation_local_level_id="0" >93-5832</DOCKET>
+
+<DATE start="103" end="119" id="114510_6" >October 12, 1993</DATE>
+
+<NAME start="197" local_name_id="3" end="207" id="114510_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="245" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_995_221" id1="Dummy_File_55048" volume="995" start="232" page_number="221" standard_reporter="F.2D" citation_global_level_id="118898.001" line="3" id="114510_12" citation_local_level_id="2" >995 F. 2d 221</CITATION>
+
+<RELATION theme="114510_1" includes_docket_string="93-5832" includes_docket="114510_2" theme_string="510 U.S. 926" gram_type="apposition" relation_type="asymmetric" id="114510_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 926" X_vs_Y_string="Villarreal v. United States" standard_case="114510_1" X_vs_Y="114510_3" gram_type="pre_nom" relation_type="equivalence" id="114510_7" ></RELATION>
+
+<RELATION theme="114510_3" includes_docket_string="93-5832" includes_docket="114510_2" theme_string="Villarreal v. United States" gram_type="apposition" relation_type="asymmetric" id="114510_10" ></RELATION>
+
+<RELATION theme="114510_3" party1="114510_4" party1_string="Villarreal" theme_string="Villarreal v. United States" gram_type="infix" relation_type="asymmetric" id="114510_8" ></RELATION>
+
+<RELATION party2="114510_5" theme="114510_3" theme_string="Villarreal v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="114510_9" ></RELATION>
+

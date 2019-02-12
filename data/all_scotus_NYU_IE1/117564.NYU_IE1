@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['mixonidaho#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1192" id1="117569" volume="510" start="0" page_number="1192" standard_reporter="U.S." citation_global_level_id="6337.002" line="1" id="117564_1" citation_local_level_id="0" >510 U.S. 1192</CITATION>
+
+<CITATION party2="Franklin County, Idaho, et al" party1="Mixon" citation_global_level_id="6337.004" party2_short="Idaho" line="1" id="117564_3" alternative_keys="['u.s._510_1192']" end="56" entry_type="party_key" lookup_key="mixonidaho#2" id1="117569" start="18" party1_short="Mixon" citation_local_level_id="1" >Mixon v. Franklin County, Idaho, et al</CITATION>
+
+<NAME end="23" start="18" party1_of="117564_3" all_names="MIXON" local_name_id="1" id="117564_4" >Mixon</NAME>
+
+<NAME end="56" start="27" all_names="FRANKLIN COUNTY IDAHO" party2_of="117564_3" local_name_id="2" id="117564_5" >Franklin County, Idaho, et al</NAME>
+
+<DOCKET end="73" entry_type="docket" lookup_key="u.s._510_1192" id1="117569" start="66" citation_global_level_id="6337.002" line="1" id="117564_2" citation_local_level_id="0" >93-1153</DOCKET>
+
+<DATE start="115" end="129" id="117564_6" >March 21, 1994</DATE>
+
+<NAME start="207" local_name_id="3" end="217" id="117564_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="253" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_5_538" id1="Dummy_File_173273" volume="5" start="242" page_number="538" standard_reporter="F.3D" citation_global_level_id="237123.001" line="3" id="117564_12" citation_local_level_id="2" >5 F. 3d 538</CITATION>
+
+<RELATION theme="117564_1" includes_docket_string="93-1153" includes_docket="117564_2" theme_string="510 U.S. 1192" gram_type="apposition" relation_type="asymmetric" id="117564_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1192" X_vs_Y_string="Mixon v. Franklin County, Idaho, et al" standard_case="117564_1" X_vs_Y="117564_3" gram_type="pre_nom" relation_type="equivalence" id="117564_7" ></RELATION>
+
+<RELATION theme="117564_3" includes_docket_string="93-1153" includes_docket="117564_2" theme_string="Mixon v. Franklin County, Idaho, et al" gram_type="apposition" relation_type="asymmetric" id="117564_10" ></RELATION>
+
+<RELATION theme="117564_3" party1="117564_4" party1_string="Mixon" theme_string="Mixon v. Franklin County, Idaho, et al" gram_type="infix" relation_type="asymmetric" id="117564_8" ></RELATION>
+
+<RELATION party2="117564_5" theme="117564_3" theme_string="Mixon v. Franklin County, Idaho, et al" party2_string="Franklin County, Idaho, et al" gram_type="infix" relation_type="asymmetric" id="117564_9" ></RELATION>
+

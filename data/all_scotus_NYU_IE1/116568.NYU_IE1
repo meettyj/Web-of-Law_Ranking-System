@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['eisenbartwisconsin#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1093" id1="116564" volume="510" start="0" page_number="1093" standard_reporter="U.S." citation_global_level_id="3277.002" line="1" id="116568_1" citation_local_level_id="0" >510 U.S. 1093</CITATION>
+
+<CITATION party2="Wisconsin et al" party1="Eisenbart" citation_global_level_id="55432.001" party2_short="Wisconsin" line="1" id="116568_3" alternative_keys="['u.s._510_1093']" end="46" entry_type="party_key" lookup_key="eisenbartwisconsin#1" id1="116568" start="18" party1_short="Eisenbart" citation_local_level_id="1" >Eisenbart v. Wisconsin et al</CITATION>
+
+<NAME end="27" start="18" party1_of="116568_3" all_names="EISENBART" local_name_id="1" id="116568_4" >Eisenbart</NAME>
+
+<NAME end="46" start="31" all_names="WISCONSIN" party2_of="116568_3" local_name_id="2" id="116568_5" >Wisconsin et al</NAME>
+
+<DOCKET end="62" entry_type="docket" lookup_key="u.s._510_1093" id1="116564" start="56" citation_global_level_id="3277.002" line="1" id="116568_2" citation_local_level_id="0" >93-859</DOCKET>
+
+<DATE start="104" end="120" id="116568_6" >January 24, 1994</DATE>
+
+<NAME start="198" local_name_id="3" end="208" id="116568_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="247" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_993_1549" id1="Dummy_File_58358" volume="993" start="233" page_number="1549" standard_reporter="F.2D" citation_global_level_id="122208.001" line="3" id="116568_12" citation_local_level_id="2" >993 F. 2d 1549</CITATION>
+
+<RELATION theme="116568_1" includes_docket_string="93-859" includes_docket="116568_2" theme_string="510 U.S. 1093" gram_type="apposition" relation_type="asymmetric" id="116568_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1093" X_vs_Y_string="Eisenbart v. Wisconsin et al" standard_case="116568_1" X_vs_Y="116568_3" gram_type="pre_nom" relation_type="equivalence" id="116568_7" ></RELATION>
+
+<RELATION theme="116568_3" includes_docket_string="93-859" includes_docket="116568_2" theme_string="Eisenbart v. Wisconsin et al" gram_type="apposition" relation_type="asymmetric" id="116568_10" ></RELATION>
+
+<RELATION theme="116568_3" party1="116568_4" party1_string="Eisenbart" theme_string="Eisenbart v. Wisconsin et al" gram_type="infix" relation_type="asymmetric" id="116568_8" ></RELATION>
+
+<RELATION party2="116568_5" theme="116568_3" theme_string="Eisenbart v. Wisconsin et al" party2_string="Wisconsin et al" gram_type="infix" relation_type="asymmetric" id="116568_9" ></RELATION>
+

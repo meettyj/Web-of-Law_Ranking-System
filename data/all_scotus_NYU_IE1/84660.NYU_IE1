@@ -1,0 +1,38 @@
+<CITATION alternative_keys="['ingrahamgibbs#1', 'dall_2_219', 'l.ed._1_356']" end="10" reporter="U.S." entry_type="standard_key" lookup_key="u.s._2_219" id1="84660" volume="2" start="0" page_number="219" standard_reporter="U.S." citation_global_level_id="27797.002" line="1" id="84660_1" citation_local_level_id="0" >2 U.S. 219</CITATION>
+
+<CITATION alternative_keys="['u.s._2_219', 'ingrahamgibbs#1', 'l.ed._1_356']" end="26" reporter="Dall" entry_type="standard_key" lookup_key="dall_2_219" id1="84660" volume="2" start="15" page_number="219" standard_reporter="DALL" citation_global_level_id="27797.003" line="2" id="84660_2" citation_local_level_id="1" >2 Dall. 219</CITATION>
+
+<CITATION alternative_keys="['u.s._2_219', 'dall_2_219', 'ingrahamgibbs#1']" end="43" reporter="L. Ed." entry_type="standard_key" lookup_key="l.ed._1_356" id1="84660" volume="1" start="31" page_number="356" standard_reporter="L.ED." citation_global_level_id="27797.004" line="3" id="84660_3" citation_local_level_id="2" >1 L. Ed. 356</CITATION>
+
+<CITATION party2="Gibbs" party1="Ingraham" citation_global_level_id="27797.001" party2_short="Gibbs" line="4" id="84660_4" alternative_keys="['u.s._2_219', 'dall_2_219', 'l.ed._1_356']" end="65" entry_type="party_key" lookup_key="ingrahamgibbs#1" id1="84660" start="48" party1_short="Ingraham" citation_local_level_id="3" >Ingraham v. Gibbs</CITATION>
+
+<NAME end="56" start="48" party1_of="84660_4" all_names="INGRAHAM" local_name_id="1" id="84660_5" >Ingraham</NAME>
+
+<NAME end="65" start="60" all_names="GIBBS" party2_of="84660_4" local_name_id="2" id="84660_6" >Gibbs</NAME>
+
+<ORGANIZATION start="70" end="99" id="84660_9" >Supreme Court of Pennsylvania</ORGANIZATION>
+
+<NAME start="104" local_name_id="3" end="116" id="84660_11" all_names="JANUARY TERM" >January Term</NAME>
+
+<DATE start="118" citation_global_level_id="27797.001" end="122" id="84660_10" citation_local_level_id="3" >1794</DATE>
+
+<NAME start="146" local_name_id="4" end="150" id="84660_16" all_names="JURY" >Jury</NAME>
+
+<ORGANIZATION start="196" end="201" id="84660_17" >Court</ORGANIZATION>
+
+<NAME start="338" local_name_id="5" end="345" id="84660_18" all_names="DOLLARS" >Dollars</NAME>
+
+<ORGANIZATION start="354" end="382" plural="True" id="84660_19" >State Courts of Pennsylvania</ORGANIZATION>
+
+<RELATION theme="84660_4" party1="84660_5" party1_string="Ingraham" theme_string="Ingraham v. Gibbs" gram_type="infix" relation_type="asymmetric" id="84660_7" ></RELATION>
+
+<RELATION party2="84660_6" theme="84660_4" theme_string="Ingraham v. Gibbs" party2_string="Gibbs" gram_type="infix" relation_type="asymmetric" id="84660_8" ></RELATION>
+
+<RELATION standard_case_string="2 U.S. 219" X_vs_Y_string="Ingraham v. Gibbs" standard_case="84660_1" X_vs_Y="84660_4" gram_type="multi_line" relation_type="equivalence" id="84660_12" ></RELATION>
+
+<RELATION standard_case_string="2 Dall. 219" X_vs_Y_string="Ingraham v. Gibbs" standard_case="84660_2" X_vs_Y="84660_4" gram_type="multi_line" relation_type="equivalence" id="84660_13" ></RELATION>
+
+<RELATION standard_case_string="1 L. Ed. 356" X_vs_Y_string="Ingraham v. Gibbs" standard_case="84660_3" X_vs_Y="84660_4" gram_type="multi_line" relation_type="equivalence" id="84660_14" ></RELATION>
+
+<RELATION at_date_string="1794" theme="84660_4" at_date="84660_10" theme_string="Ingraham v. Gibbs" gram_type="multi_line" relation_type="asymmetric" id="84660_15" ></RELATION>
+

@@ -1,0 +1,74 @@
+<CITATION alternative_keys="['bankomaha#2']" end="19" reporter="U.S." entry_type="standard_key" lookup_key="u.s._96_737" id1="89760" volume="96" start="1" page_number="737" year="1877" standard_reporter="U.S." citation_global_level_id="28284.002" line="2" id="89760_1" citation_local_level_id="0" >96 U.S. 737 (1877)</CITATION>
+
+<DATE start="14" citation_global_level_id="28284.002" end="18" id="89760_2" citation_local_level_id="0" >1877</DATE>
+
+<CITATION party2="OMAHA" party1="NATIONAL BANK" citation_global_level_id="28284.001" party2_short="OMAHA" line="5" id="89760_6" alternative_keys="['u.s._96_737']" end="44" entry_type="party_key" lookup_key="bankomaha#2" id1="89760" start="20" party1_short="BANK" citation_local_level_id="1" >NATIONAL BANK v. OMAHA</CITATION>
+
+<NAME end="33" start="20" party1_of="89760_6" all_names="NATIONAL BANK" local_name_id="1" id="89760_7" >NATIONAL BANK</NAME>
+
+<NAME end="44" start="39" all_names="OMAHA" party2_of="89760_6" local_name_id="2" id="89760_8" >OMAHA</NAME>
+
+<ORGANIZATION start="46" end="76" id="89760_11" >Supreme Court of United States</ORGANIZATION>
+
+<LEGAL_ROLE start="79" end="115" id="89760_13" >Mr. J.M. Woolworth for the appellant</LEGAL_ROLE>
+
+<PROFESSION start="120" end="127" id="89760_14" >counsel</PROFESSION>
+
+<LEGAL_ROLE start="145" end="153" id="89760_15" party="party2" >appellee</LEGAL_ROLE>
+
+<NAME start="155" local_name_id="3" end="157" id="89760_16" all_names="MR" >MR</NAME>
+
+<DATE start="252" end="265" id="89760_17" >Nov. 13, 1874</DATE>
+
+<LEGAL_ROLE start="329" end="340" id="89760_18" >complainant</LEGAL_ROLE>
+
+<PROFESSION start="349" end="358" id="89760_19" >solicitor</PROFESSION>
+
+<ORGANIZATION start="383" end="417" id="89760_20" >Supreme Court of the United States</ORGANIZATION>
+
+<DATE start="509" end="523" id="89760_21" >Sept. 30, 1875</DATE>
+
+<PROFESSION start="573" end="578" id="89760_22" >clerk</PROFESSION>
+
+<ORGANIZATION start="676" end="698" id="89760_23" >court by the appellees</ORGANIZATION>
+
+<CITATION party2="Railroad Company" party1="Sage" citation_global_level_id="43351.003" party2_short="Company" line="14" id="89760_24" alternative_keys="['u.s._93_412']" end="764" entry_type="party_key" lookup_key="sagecompany#1" id1="89395" start="740" party1_short="Sage" citation_local_level_id="2" >Sage v. Railroad Company</CITATION>
+
+<NAME end="744" start="740" party1_of="89760_24" all_names="SAGE" local_name_id="4" id="89760_26" >Sage</NAME>
+
+<NAME end="764" start="748" all_names="RAILROAD COMPANY" party2_of="89760_24" local_name_id="5" id="89760_27" >Railroad Company</NAME>
+
+<ORGANIZATION start="831" end="836" id="89760_30" >court</ORGANIZATION>
+
+<CITATION party2="Edrington" party1="O'Reilly" citation_global_level_id="17307.004" party2_short="Edrington" line="14" id="89760_25" alternative_keys="['l.ed._24_659', 'u.s._96_724']" end="1115" no_current_file="True" entry_type="party_key" lookup_key="reillyedrington#1" id1="89758" start="1094" party1_short="Reilly" citation_local_level_id="3" >O'Reilly v. Edrington</CITATION>
+
+<NAME end="1102" start="1094" party1_of="89760_25" all_names="O'REILLY" local_name_id="6" id="89760_28" >O'Reilly</NAME>
+
+<NAME end="1115" start="1106" all_names="EDRINGTON" party2_of="89760_25" local_name_id="7" id="89760_29" >Edrington</NAME>
+
+<PROFESSION start="1205" end="1210" id="89760_31" >judge</PROFESSION>
+
+<PROFESSION start="1214" end="1221" id="89760_32" >justice</PROFESSION>
+
+<NAME start="1223" local_name_id="8" end="1225" id="89760_33" all_names="HE" >He</NAME>
+
+<PROFESSION start="1260" end="1265" id="89760_34" >clerk</PROFESSION>
+
+<NAME start="1268" local_name_id="9" end="1274" id="89760_39" all_names="APPEAL" >Appeal</NAME>
+
+<RELATION at_date_string="1877" theme="89760_1" at_date="89760_2" theme_string="96 U.S. 737 (1877)" gram_type="infix" relation_type="asymmetric" id="89760_3" ></RELATION>
+
+<RELATION party2="89760_8" theme="89760_6" theme_string="NATIONAL BANK  v.  OMAHA" party2_string="OMAHA" gram_type="infix" relation_type="asymmetric" id="89760_10" ></RELATION>
+
+<RELATION theme="89760_6" party1="89760_7" party1_string="NATIONAL BANK" theme_string="NATIONAL BANK  v.  OMAHA" gram_type="infix" relation_type="asymmetric" id="89760_9" ></RELATION>
+
+<RELATION standard_case_string="96 U.S. 737 (1877)" X_vs_Y_string="NATIONAL BANK  v.  OMAHA" standard_case="89760_1" X_vs_Y="89760_6" gram_type="multi_line" relation_type="equivalence" id="89760_12" ></RELATION>
+
+<RELATION theme="89760_24" party1="89760_26" party1_string="Sage" theme_string="Sage v. Railroad Company" gram_type="infix" relation_type="asymmetric" id="89760_35" ></RELATION>
+
+<RELATION party2="89760_27" theme="89760_24" theme_string="Sage v. Railroad Company" party2_string="Railroad Company" gram_type="infix" relation_type="asymmetric" id="89760_36" ></RELATION>
+
+<RELATION theme="89760_25" party1="89760_28" party1_string="O'Reilly" theme_string="O'Reilly v. Edrington" gram_type="infix" relation_type="asymmetric" id="89760_37" ></RELATION>
+
+<RELATION party2="89760_29" theme="89760_25" theme_string="O'Reilly v. Edrington" party2_string="Edrington" gram_type="infix" relation_type="asymmetric" id="89760_38" ></RELATION>
+

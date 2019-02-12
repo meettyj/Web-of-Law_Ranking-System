@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['branchsmith#4']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._536_981" id1="122145" volume="536" start="0" page_number="981" standard_reporter="U.S." citation_global_level_id="1241.002" line="1" id="122151_1" citation_local_level_id="0" >536 U.S. 981</CITATION>
+
+<CITATION party2="SMITH ET AL" party1="BRANCH ET AL." citation_global_level_id="43105.001" party2_short="SMITH" line="2" id="122151_2" alternative_keys="['u.s._536_981']" end="45" entry_type="party_key" lookup_key="branchsmith#4" id1="122151" start="17" party1_short="BRANCH" citation_local_level_id="1" >BRANCH ET AL. v. SMITH ET AL</CITATION>
+
+<NAME end="30" start="17" party1_of="122151_2" all_names="BRANCH" local_name_id="1" id="122151_3" >BRANCH ET AL.</NAME>
+
+<NAME end="45" start="34" all_names="SMITH" party2_of="122151_2" local_name_id="2" id="122151_4" >SMITH ET AL</NAME>
+
+<DOCKET end="62" entry_type="docket" lookup_key="branchsmith#4" id1="122151" start="55" citation_global_level_id="43105.001" line="3" id="122151_7" citation_local_level_id="1" >01-1437</DOCKET>
+
+<DATE start="108" citation_global_level_id="43105.001" end="123" id="122151_8" citation_local_level_id="1" >August 26, 2002</DATE>
+
+<NAME start="145" local_name_id="3" end="161" id="122151_12" all_names="D C S D MISS" >D. C. S. D. Miss</NAME>
+
+<NAME start="164" local_name_id="4" end="172" id="122151_13" all_names="PROBABLE" >Probable</NAME>
+
+<NAME start="208" local_name_id="5" end="238" id="122151_14" all_names="MOTION OF NATIONALIST MOVEMENT" >Motion of Nationalist Movement</NAME>
+
+<RELATION theme="122151_2" party1="122151_3" party1_string="BRANCH ET AL." theme_string="BRANCH ET AL. v. SMITH ET AL" gram_type="infix" relation_type="asymmetric" id="122151_5" ></RELATION>
+
+<RELATION party2="122151_4" theme="122151_2" theme_string="BRANCH ET AL. v. SMITH ET AL" party2_string="SMITH ET AL" gram_type="infix" relation_type="asymmetric" id="122151_6" ></RELATION>
+
+<RELATION standard_case_string="536 U.S. 981" X_vs_Y_string="BRANCH ET AL. v. SMITH ET AL" standard_case="122151_1" X_vs_Y="122151_2" gram_type="multi_line" relation_type="equivalence" id="122151_9" ></RELATION>
+
+<RELATION at_date_string="August 26, 2002" theme="122151_2" at_date="122151_8" theme_string="BRANCH ET AL. v. SMITH ET AL" gram_type="multi_line" relation_type="asymmetric" id="122151_11" ></RELATION>
+
+<RELATION theme="122151_2" includes_docket_string="01-1437" includes_docket="122151_7" theme_string="BRANCH ET AL. v. SMITH ET AL" gram_type="multi_line" relation_type="asymmetric" id="122151_10" ></RELATION>
+

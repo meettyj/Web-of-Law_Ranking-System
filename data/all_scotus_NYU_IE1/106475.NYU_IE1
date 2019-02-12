@@ -1,0 +1,40 @@
+<CITATION alternative_keys="['bartoncourt#1', 's.ct._83_52', 'l.ed.2d_9_50']" end="11" reporter="U.S." entry_type="standard_key" lookup_key="u.s._371_15" id1="106475" volume="371" start="0" page_number="15" standard_reporter="U.S." citation_global_level_id="9245.002" line="1" id="106475_1" citation_local_level_id="0" >371 U.S. 15</CITATION>
+
+<CITATION alternative_keys="['u.s._371_15', 'bartoncourt#1', 'l.ed.2d_9_50']" end="28" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._83_52" id1="106475" volume="83" start="16" page_number="52" standard_reporter="S.CT." citation_global_level_id="9245.003" line="1" id="106475_2" citation_local_level_id="1" >83 S. Ct. 52</CITATION>
+
+<NAME start="19" local_name_id="1" end="24" id="106475_8" all_names="S CT" >S. Ct</NAME>
+
+<CITATION alternative_keys="['u.s._371_15', 's.ct._83_52', 'bartoncourt#1']" end="47" reporter="L. Ed. 2d" entry_type="standard_key" lookup_key="l.ed.2d_9_50" id1="106475" volume="9" start="33" page_number="50" standard_reporter="L.ED.2D" citation_global_level_id="9245.004" line="1" id="106475_3" citation_local_level_id="2" >9 L. Ed. 2d 50</CITATION>
+
+<CITATION party2="DISTRICT COURT OF IOWA" party1="Kenneth BARTON" citation_global_level_id="9245.001" party2_short="COURT" line="1" id="106475_4" alternative_keys="['u.s._371_15', 's.ct._83_52', 'l.ed.2d_9_50']" end="92" entry_type="party_key" lookup_key="bartoncourt#1" id1="106475" start="52" party1_short="BARTON" citation_local_level_id="3" >Kenneth BARTON v. DISTRICT COURT OF IOWA</CITATION>
+
+<NAME end="66" start="52" party1_of="106475_4" all_names="KENNETH BARTON" local_name_id="2" id="106475_5" >Kenneth BARTON</NAME>
+
+<NAME end="92" start="70" all_names="DISTRICT COURT OF IOWA" party2_of="106475_4" local_name_id="3" id="106475_6" >DISTRICT COURT OF IOWA</NAME>
+
+<DATE start="160" end="175" id="106475_7" >October 8, 1962</DATE>
+
+<NAME start="209" local_name_id="4" end="221" id="106475_14" all_names="EVAN HULTMAN" >Evan Hultman</NAME>
+
+<PROFESSION start="223" document_level_name_id="4" end="241" id="106475_15" party="EVAN HULTMAN" >Atty. Gen. of Iowa</PROFESSION>
+
+<LEGAL_ROLE start="247" end="255" id="106475_16" party="party2" >appellee</LEGAL_ROLE>
+
+<NAME start="267" local_name_id="5" end="273" id="106475_18" all_names="CURIAM" >CURIAM</NAME>
+
+<NAME start="496" local_name_id="6" end="516" id="106475_19" all_names="MR JUSTICE GOLDBERG" >Mr. Justice GOLDBERG</NAME>
+
+<PROFESSION start="500" end="507" id="106475_20" >Justice</PROFESSION>
+
+<RELATION standard_case_string="371 U.S. 15" X_vs_Y_string="Kenneth BARTON v. DISTRICT COURT OF IOWA" standard_case="106475_1" X_vs_Y="106475_4" gram_type="pre_nom" relation_type="equivalence" id="106475_10" ></RELATION>
+
+<RELATION standard_case_string="83 S. Ct. 52" X_vs_Y_string="Kenneth BARTON v. DISTRICT COURT OF IOWA" standard_case="106475_2" X_vs_Y="106475_4" gram_type="pre_nom" relation_type="equivalence" id="106475_11" ></RELATION>
+
+<RELATION standard_case_string="9 L. Ed. 2d 50" X_vs_Y_string="Kenneth BARTON v. DISTRICT COURT OF IOWA" standard_case="106475_3" X_vs_Y="106475_4" gram_type="pre_nom" relation_type="equivalence" id="106475_9" ></RELATION>
+
+<RELATION theme="106475_4" party1="106475_5" party1_string="Kenneth BARTON" theme_string="Kenneth BARTON v. DISTRICT COURT OF IOWA" gram_type="infix" relation_type="asymmetric" id="106475_12" ></RELATION>
+
+<RELATION party2="106475_6" theme="106475_4" theme_string="Kenneth BARTON v. DISTRICT COURT OF IOWA" party2_string="DISTRICT COURT OF IOWA" gram_type="infix" relation_type="asymmetric" id="106475_13" ></RELATION>
+
+<RELATION theme="106475_14" profession_string="Atty. Gen. of Iowa" theme_string="Evan Hultman" profession="106475_15" gram_type="apposition" relation_type="asymmetric" id="106475_17" ></RELATION>
+

@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['typlanet#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_869" id1="138645" volume="543" start="0" page_number="869" standard_reporter="U.S." citation_global_level_id="232.002" line="1" id="138642_1" citation_local_level_id="0" >543 U.S. 869</CITATION>
+
+<CITATION party2="PEACEABLE PLANET, INC" party1="TY, INC., ET AL." citation_global_level_id="232.006" party2_short="PLANET" line="2" id="138642_2" alternative_keys="['u.s._543_869']" end="58" entry_type="party_key" lookup_key="typlanet#2" id1="138645" start="17" party1_short="TY" citation_local_level_id="1" >TY, INC., ET AL. v. PEACEABLE PLANET, INC</CITATION>
+
+<NAME end="33" start="17" party1_of="138642_2" all_names="TY INC" local_name_id="1" id="138642_3" >TY, INC., ET AL.</NAME>
+
+<ORGANIZATION start="17" end="24" id="138642_5" >TY, INC</ORGANIZATION>
+
+<NAME end="58" start="37" all_names="PEACEABLE PLANET INC" party2_of="138642_2" local_name_id="2" id="138642_4" >PEACEABLE PLANET, INC</NAME>
+
+<DOCKET alternative_keys="['u.s._543_869']" end="73" entry_type="docket" lookup_key="typlanet#2" id1="138645" start="68" citation_global_level_id="232.006" line="3" id="138642_8" citation_local_level_id="1" >04-17</DOCKET>
+
+<ORGANIZATION start="79" end="109" id="138642_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="115" citation_global_level_id="232.006" end="130" id="138642_10" citation_local_level_id="1" >October 4, 2004</DATE>
+
+<NAME start="162" local_name_id="3" end="165" id="138642_15" all_names="CIR" >Cir</NAME>
+
+<CITATION end="215" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_362_986" id1="Dummy_File_130137" volume="362" start="202" page_number="986" standard_reporter="F.3D" citation_global_level_id="193987.001" line="8" id="138642_14" citation_local_level_id="2" >362 F. 3d 986</CITATION>
+
+<RELATION theme="138642_2" party1="138642_3" party1_string="TY, INC., ET AL." theme_string="TY, INC., ET AL. v. PEACEABLE PLANET, INC" gram_type="infix" relation_type="asymmetric" id="138642_6" ></RELATION>
+
+<RELATION party2="138642_4" theme="138642_2" theme_string="TY, INC., ET AL. v. PEACEABLE PLANET, INC" party2_string="PEACEABLE PLANET, INC" gram_type="infix" relation_type="asymmetric" id="138642_7" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 869" X_vs_Y_string="TY, INC., ET AL. v. PEACEABLE PLANET, INC" standard_case="138642_1" X_vs_Y="138642_2" gram_type="multi_line" relation_type="equivalence" id="138642_11" ></RELATION>
+
+<RELATION at_date_string="October 4, 2004" theme="138642_2" at_date="138642_10" theme_string="TY, INC., ET AL. v. PEACEABLE PLANET, INC" gram_type="multi_line" relation_type="asymmetric" id="138642_13" ></RELATION>
+
+<RELATION theme="138642_2" includes_docket_string="04-17" includes_docket="138642_8" theme_string="TY, INC., ET AL. v. PEACEABLE PLANET, INC" gram_type="multi_line" relation_type="asymmetric" id="138642_12" ></RELATION>
+

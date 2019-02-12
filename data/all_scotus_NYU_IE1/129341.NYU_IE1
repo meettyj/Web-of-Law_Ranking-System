@@ -1,0 +1,42 @@
+<CITATION alternative_keys="['weberhoang#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1010" id1="129338" volume="538" start="0" page_number="1010" standard_reporter="U.S." citation_global_level_id="2052.002" line="1" id="129341_1" citation_local_level_id="0" >538 U.S. 1010</CITATION>
+
+<CITATION party2="PHU CHAN HOANG ET AL" party1="WEBER, INTERIM DISTRICT DIRECTOR, BUREAU OF IMMIGRATION AND CUSTOMS ENFORCEMENT" citation_global_level_id="2052.003" party2_short="HOANG" line="1" id="129341_3" alternative_keys="['u.s._538_1010']" end="121" entry_type="party_key" lookup_key="weberhoang#1" id1="129338" start="18" party1_short="WEBER" citation_local_level_id="1" >WEBER, INTERIM DISTRICT DIRECTOR, BUREAU OF IMMIGRATION AND CUSTOMS ENFORCEMENT v. PHU CHAN HOANG ET AL</CITATION>
+
+<NAME end="97" start="18" party1_of="129341_3" all_names="WEBER INTERIM DISTRICT DIRECTOR BUREAU OF IMMIGRATION AND CUSTOMS ENFORCEMENT" local_name_id="1" id="129341_4" >WEBER, INTERIM DISTRICT DIRECTOR, BUREAU OF IMMIGRATION AND CUSTOMS ENFORCEMENT</NAME>
+
+<NAME start="18" local_name_id="2" end="23" id="129341_7" all_names="WEBER" >WEBER</NAME>
+
+<PROFESSION start="25" end="50" id="129341_8" >INTERIM DISTRICT DIRECTOR</PROFESSION>
+
+<ORGANIZATION start="52" end="97" id="129341_9" >BUREAU OF IMMIGRATION AND CUSTOMS ENFORCEMENT</ORGANIZATION>
+
+<NAME end="121" start="101" all_names="PHU CHAN HOANG" party2_of="129341_3" local_name_id="3" id="129341_5" >PHU CHAN HOANG ET AL</NAME>
+
+<DOCKET end="138" entry_type="docket" lookup_key="u.s._538_1010" id1="129338" start="131" citation_global_level_id="2052.002" line="1" id="129341_2" citation_local_level_id="0" >01-1616</DOCKET>
+
+<DATE start="180" end="191" id="129341_6" >May 5, 2003</DATE>
+
+<NAME start="321" local_name_id="4" end="324" id="129341_19" all_names="CIR" >Cir</NAME>
+
+<CITATION party2="Kim" party1="Demore" citation_global_level_id="43602.001" party2_short="Kim" line="3" id="129341_16" end="433" entry_type="party_key" lookup_key="demorekim#1" id1="127916" start="420" party1_short="Demore" citation_local_level_id="2" >Demore v. Kim</CITATION>
+
+<NAME end="426" start="420" party1_of="129341_16" all_names="DEMORE" local_name_id="5" id="129341_17" >Demore</NAME>
+
+<NAME end="433" start="430" all_names="KIM" party2_of="129341_16" local_name_id="6" id="129341_18" >Kim</NAME>
+
+<CITATION alternative_keys="['hoangcomfort#1']" end="479" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_282_1247" id1="Dummy_File_46837" volume="282" start="465" page_number="1247" standard_reporter="F.3D" citation_global_level_id="110687.003" line="3" id="129341_15" citation_local_level_id="3" >282 F. 3d 1247</CITATION>
+
+<RELATION theme="129341_1" includes_docket_string="01-1616" includes_docket="129341_2" theme_string="538 U.S. 1010" gram_type="apposition" relation_type="asymmetric" id="129341_14" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1010" X_vs_Y_string="WEBER, INTERIM DISTRICT DIRECTOR, BUREAU OF IMMIGRATION AND CUSTOMS ENFORCEMENT v. PHU CHAN HOANG ET AL" standard_case="129341_1" X_vs_Y="129341_3" gram_type="pre_nom" relation_type="equivalence" id="129341_10" ></RELATION>
+
+<RELATION theme="129341_3" includes_docket_string="01-1616" includes_docket="129341_2" theme_string="WEBER, INTERIM DISTRICT DIRECTOR, BUREAU OF IMMIGRATION AND CUSTOMS ENFORCEMENT v. PHU CHAN HOANG ET AL" gram_type="apposition" relation_type="asymmetric" id="129341_13" ></RELATION>
+
+<RELATION theme="129341_3" party1="129341_4" party1_string="WEBER, INTERIM DISTRICT DIRECTOR, BUREAU OF IMMIGRATION AND CUSTOMS ENFORCEMENT" theme_string="WEBER, INTERIM DISTRICT DIRECTOR, BUREAU OF IMMIGRATION AND CUSTOMS ENFORCEMENT v. PHU CHAN HOANG ET AL" gram_type="infix" relation_type="asymmetric" id="129341_11" ></RELATION>
+
+<RELATION party2="129341_5" theme="129341_3" theme_string="WEBER, INTERIM DISTRICT DIRECTOR, BUREAU OF IMMIGRATION AND CUSTOMS ENFORCEMENT v. PHU CHAN HOANG ET AL" party2_string="PHU CHAN HOANG ET AL" gram_type="infix" relation_type="asymmetric" id="129341_12" ></RELATION>
+
+<RELATION theme="129341_16" party1="129341_17" party1_string="Demore" theme_string="Demore v. Kim" gram_type="infix" relation_type="asymmetric" id="129341_20" ></RELATION>
+
+<RELATION party2="129341_18" theme="129341_16" theme_string="Demore v. Kim" party2_string="Kim" gram_type="infix" relation_type="asymmetric" id="129341_21" ></RELATION>
+

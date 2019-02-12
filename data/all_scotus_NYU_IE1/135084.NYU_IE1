@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['broadesmullin#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_944" id1="135078" volume="541" start="0" page_number="944" standard_reporter="U.S." citation_global_level_id="4417.002" line="1" id="135084_1" citation_local_level_id="0" >541 U.S. 944</CITATION>
+
+<CITATION party2="MULLIN, WARDEN" party1="BROADES" citation_global_level_id="4417.004" party2_short="MULLIN" line="2" id="135084_2" alternative_keys="['u.s._541_944']" end="42" entry_type="party_key" lookup_key="broadesmullin#1" id1="135078" start="17" party1_short="BROADES" citation_local_level_id="1" >BROADES v. MULLIN, WARDEN</CITATION>
+
+<NAME end="24" start="17" party1_of="135084_2" all_names="BROADES" local_name_id="1" id="135084_3" >BROADES</NAME>
+
+<NAME end="42" start="28" all_names="MULLIN WARDEN" party2_of="135084_2" local_name_id="2" id="135084_4" >MULLIN, WARDEN</NAME>
+
+<DOCKET alternative_keys="['u.s._541_944']" end="59" entry_type="docket" lookup_key="broadesmullin#1" id1="135078" start="52" citation_global_level_id="4417.004" line="3" id="135084_7" citation_local_level_id="1" >03-8383</DOCKET>
+
+<ORGANIZATION start="65" end="95" id="135084_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="101" citation_global_level_id="4417.004" end="115" id="135084_9" citation_local_level_id="1" >March 22, 2004</DATE>
+
+<NAME start="148" local_name_id="3" end="151" id="135084_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="135084_2" party1="135084_3" party1_string="BROADES" theme_string="BROADES v. MULLIN, WARDEN" gram_type="infix" relation_type="asymmetric" id="135084_5" ></RELATION>
+
+<RELATION party2="135084_4" theme="135084_2" theme_string="BROADES v. MULLIN, WARDEN" party2_string="MULLIN, WARDEN" gram_type="infix" relation_type="asymmetric" id="135084_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 944" X_vs_Y_string="BROADES v. MULLIN, WARDEN" standard_case="135084_1" X_vs_Y="135084_2" gram_type="multi_line" relation_type="equivalence" id="135084_10" ></RELATION>
+
+<RELATION at_date_string="March 22, 2004" theme="135084_2" at_date="135084_9" theme_string="BROADES v. MULLIN, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="135084_12" ></RELATION>
+
+<RELATION theme="135084_2" includes_docket_string="03-8383" includes_docket="135084_7" theme_string="BROADES v. MULLIN, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="135084_11" ></RELATION>
+

@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['owenmassachusetts#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_1001" id1="144202" volume="544" start="0" page_number="1001" standard_reporter="U.S." citation_global_level_id="1291.002" line="1" id="144200_1" citation_local_level_id="0" >544 U.S. 1001</CITATION>
+
+<CITATION party2="MASSACHUSETTS" party1="OWEN" citation_global_level_id="29470.001" party2_short="MASSACHUSETTS" line="2" id="144200_2" alternative_keys="['u.s._544_1001']" end="39" entry_type="party_key" lookup_key="owenmassachusetts#1" id1="144200" start="18" party1_short="OWEN" citation_local_level_id="1" >OWEN v. MASSACHUSETTS</CITATION>
+
+<NAME end="22" start="18" party1_of="144200_2" all_names="OWEN" local_name_id="1" id="144200_3" >OWEN</NAME>
+
+<NAME end="39" start="26" all_names="MASSACHUSETTS" party2_of="144200_2" local_name_id="2" id="144200_4" >MASSACHUSETTS</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="owenmassachusetts#1" id1="144200" start="49" citation_global_level_id="29470.001" line="3" id="144200_7" citation_local_level_id="1" >04-8748</DOCKET>
+
+<ORGANIZATION start="62" end="92" id="144200_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="98" citation_global_level_id="29470.001" end="112" id="144200_9" citation_local_level_id="1" >April 25, 2005</DATE>
+
+<NAME start="134" local_name_id="3" end="137" id="144200_14" all_names="APP" >App</NAME>
+
+<CITATION end="220" reporter="N. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.e.2d_813_1284" id1="Dummy_File_233159" volume="813" start="203" page_number="1284" standard_reporter="N.E.2D" citation_global_level_id="297009.001" line="8" id="144200_13" citation_local_level_id="2" >813 N. E. 2d 1284</CITATION>
+
+<RELATION theme="144200_2" party1="144200_3" party1_string="OWEN" theme_string="OWEN v. MASSACHUSETTS" gram_type="infix" relation_type="asymmetric" id="144200_5" ></RELATION>
+
+<RELATION party2="144200_4" theme="144200_2" theme_string="OWEN v. MASSACHUSETTS" party2_string="MASSACHUSETTS" gram_type="infix" relation_type="asymmetric" id="144200_6" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 1001" X_vs_Y_string="OWEN v. MASSACHUSETTS" standard_case="144200_1" X_vs_Y="144200_2" gram_type="multi_line" relation_type="equivalence" id="144200_10" ></RELATION>
+
+<RELATION at_date_string="April 25, 2005" theme="144200_2" at_date="144200_9" theme_string="OWEN v. MASSACHUSETTS" gram_type="multi_line" relation_type="asymmetric" id="144200_12" ></RELATION>
+
+<RELATION theme="144200_2" includes_docket_string="04-8748" includes_docket="144200_7" theme_string="OWEN v. MASSACHUSETTS" gram_type="multi_line" relation_type="asymmetric" id="144200_11" ></RELATION>
+

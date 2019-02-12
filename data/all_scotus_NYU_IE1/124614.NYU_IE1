@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['zuluagamassachusetts#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_982" id1="124604" volume="537" start="0" page_number="982" standard_reporter="U.S." citation_global_level_id="6624.002" line="1" id="124614_1" citation_local_level_id="0" >537 U.S. 982</CITATION>
+
+<CITATION party2="MASSACHUSETTS" party1="ZULUAGA" citation_global_level_id="8613.001" party2_short="MASSACHUSETTS" line="1" id="124614_3" alternative_keys="['u.s._537_982']" end="41" entry_type="party_key" lookup_key="zuluagamassachusetts#1" id1="124614" start="17" party1_short="ZULUAGA" citation_local_level_id="1" >ZULUAGA v. MASSACHUSETTS</CITATION>
+
+<NAME end="24" start="17" party1_of="124614_3" all_names="ZULUAGA" local_name_id="1" id="124614_4" >ZULUAGA</NAME>
+
+<NAME end="41" start="28" all_names="MASSACHUSETTS" party2_of="124614_3" local_name_id="2" id="124614_5" >MASSACHUSETTS</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._537_982" id1="124604" start="51" citation_global_level_id="6624.002" line="1" id="124614_2" citation_local_level_id="0" >02-6301</DOCKET>
+
+<DATE start="100" end="116" id="124614_6" >October 21, 2002</DATE>
+
+<NAME start="215" local_name_id="3" end="218" id="124614_13" all_names="APP" >App</NAME>
+
+<CITATION end="301" reporter="N. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.e.2d_760_814" id1="Dummy_File_133518" volume="760" start="285" page_number="814" standard_reporter="N.E.2D" citation_global_level_id="197368.001" line="3" id="124614_12" citation_local_level_id="2" >760 N. E. 2d 814</CITATION>
+
+<RELATION theme="124614_1" includes_docket_string="02-6301" includes_docket="124614_2" theme_string="537 U.S. 982" gram_type="apposition" relation_type="asymmetric" id="124614_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 982" X_vs_Y_string="ZULUAGA v. MASSACHUSETTS" standard_case="124614_1" X_vs_Y="124614_3" gram_type="pre_nom" relation_type="equivalence" id="124614_7" ></RELATION>
+
+<RELATION theme="124614_3" includes_docket_string="02-6301" includes_docket="124614_2" theme_string="ZULUAGA v. MASSACHUSETTS" gram_type="apposition" relation_type="asymmetric" id="124614_10" ></RELATION>
+
+<RELATION theme="124614_3" party1="124614_4" party1_string="ZULUAGA" theme_string="ZULUAGA v. MASSACHUSETTS" gram_type="infix" relation_type="asymmetric" id="124614_8" ></RELATION>
+
+<RELATION party2="124614_5" theme="124614_3" theme_string="ZULUAGA v. MASSACHUSETTS" party2_string="MASSACHUSETTS" gram_type="infix" relation_type="asymmetric" id="124614_9" ></RELATION>
+

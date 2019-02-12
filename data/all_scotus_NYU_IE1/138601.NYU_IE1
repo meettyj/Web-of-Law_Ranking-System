@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['jonesoffice#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_865" id1="138601" volume="543" start="0" page_number="865" standard_reporter="U.S." citation_global_level_id="2569.002" line="1" id="138601_1" citation_local_level_id="0" >543 U.S. 865</CITATION>
+
+<CITATION party2="FLORENCE COUNTY TAX ASSESSOR OFFICE" party1="JONES" citation_global_level_id="2569.001" party2_short="OFFICE" line="2" id="138601_2" alternative_keys="['u.s._543_865']" end="61" entry_type="party_key" lookup_key="jonesoffice#1" id1="138601" start="17" party1_short="JONES" citation_local_level_id="1" >JONES v. FLORENCE COUNTY TAX ASSESSOR OFFICE</CITATION>
+
+<NAME end="22" start="17" party1_of="138601_2" all_names="JONES" local_name_id="1" id="138601_3" >JONES</NAME>
+
+<NAME end="61" start="26" all_names="FLORENCE COUNTY TAX ASSESSOR OFFICE" party2_of="138601_2" local_name_id="2" id="138601_4" >FLORENCE COUNTY TAX ASSESSOR OFFICE</NAME>
+
+<DOCKET end="79" entry_type="docket" lookup_key="jonesoffice#1" id1="138601" start="71" citation_global_level_id="2569.001" line="3" id="138601_7" citation_local_level_id="1" >03-11050</DOCKET>
+
+<ORGANIZATION start="85" end="115" id="138601_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="121" citation_global_level_id="2569.001" end="136" id="138601_9" citation_local_level_id="1" >October 4, 2004</DATE>
+
+<NAME start="168" local_name_id="3" end="171" id="138601_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="138601_2" party1="138601_3" party1_string="JONES" theme_string="JONES v. FLORENCE COUNTY TAX ASSESSOR OFFICE" gram_type="infix" relation_type="asymmetric" id="138601_5" ></RELATION>
+
+<RELATION party2="138601_4" theme="138601_2" theme_string="JONES v. FLORENCE COUNTY TAX ASSESSOR OFFICE" party2_string="FLORENCE COUNTY TAX ASSESSOR OFFICE" gram_type="infix" relation_type="asymmetric" id="138601_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 865" X_vs_Y_string="JONES v. FLORENCE COUNTY TAX ASSESSOR OFFICE" standard_case="138601_1" X_vs_Y="138601_2" gram_type="multi_line" relation_type="equivalence" id="138601_10" ></RELATION>
+
+<RELATION at_date_string="October 4, 2004" theme="138601_2" at_date="138601_9" theme_string="JONES v. FLORENCE COUNTY TAX ASSESSOR OFFICE" gram_type="multi_line" relation_type="asymmetric" id="138601_12" ></RELATION>
+
+<RELATION theme="138601_2" includes_docket_string="03-11050" includes_docket="138601_7" theme_string="JONES v. FLORENCE COUNTY TAX ASSESSOR OFFICE" gram_type="multi_line" relation_type="asymmetric" id="138601_11" ></RELATION>
+

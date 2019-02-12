@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['blaneyvirginia#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_838" id1="122708" volume="537" start="0" page_number="838" standard_reporter="U.S." citation_global_level_id="998.002" line="1" id="122708_1" citation_local_level_id="0" >537 U.S. 838</CITATION>
+
+<CITATION party2="VIRGINIA" party1="BLANEY" citation_global_level_id="998.001" party2_short="VIRGINIA" line="1" id="122708_3" alternative_keys="['u.s._537_838']" end="35" entry_type="party_key" lookup_key="blaneyvirginia#1" id1="122708" start="17" party1_short="BLANEY" citation_local_level_id="1" >BLANEY v. VIRGINIA</CITATION>
+
+<NAME end="23" start="17" party1_of="122708_3" all_names="BLANEY" local_name_id="1" id="122708_4" >BLANEY</NAME>
+
+<NAME end="35" start="27" all_names="VIRGINIA" party2_of="122708_3" local_name_id="2" id="122708_5" >VIRGINIA</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="u.s._537_838" id1="122708" start="45" citation_global_level_id="998.002" line="1" id="122708_2" citation_local_level_id="0" >01-10219</DOCKET>
+
+<DATE start="95" end="110" id="122708_6" >October 7, 2002</DATE>
+
+<NAME start="202" local_name_id="3" end="205" id="122708_12" all_names="SUP" >Sup</NAME>
+
+<RELATION theme="122708_1" includes_docket_string="01-10219" includes_docket="122708_2" theme_string="537 U.S. 838" gram_type="apposition" relation_type="asymmetric" id="122708_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 838" X_vs_Y_string="BLANEY v. VIRGINIA" standard_case="122708_1" X_vs_Y="122708_3" gram_type="pre_nom" relation_type="equivalence" id="122708_7" ></RELATION>
+
+<RELATION theme="122708_3" includes_docket_string="01-10219" includes_docket="122708_2" theme_string="BLANEY v. VIRGINIA" gram_type="apposition" relation_type="asymmetric" id="122708_10" ></RELATION>
+
+<RELATION theme="122708_3" party1="122708_4" party1_string="BLANEY" theme_string="BLANEY v. VIRGINIA" gram_type="infix" relation_type="asymmetric" id="122708_8" ></RELATION>
+
+<RELATION party2="122708_5" theme="122708_3" theme_string="BLANEY v. VIRGINIA" party2_string="VIRGINIA" gram_type="infix" relation_type="asymmetric" id="122708_9" ></RELATION>
+

@@ -1,0 +1,36 @@
+<CITATION alternative_keys="['companybooraem#1', 's.ct._30_574', 'l.ed._54_636']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._216_604" id1="97208" volume="216" start="0" page_number="604" standard_reporter="U.S." citation_global_level_id="56032.002" line="1" id="97208_1" citation_local_level_id="0" >216 U.S. 604</CITATION>
+
+<CITATION alternative_keys="['u.s._216_604', 'companybooraem#1', 'l.ed._54_636']" end="30" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._30_574" id1="97208" volume="30" start="17" page_number="574" standard_reporter="S.CT." citation_global_level_id="56032.003" line="1" id="97208_2" citation_local_level_id="1" >30 S. Ct. 574</CITATION>
+
+<NAME start="20" local_name_id="1" end="25" id="97208_9" all_names="S CT" >S. Ct</NAME>
+
+<CITATION alternative_keys="['u.s._216_604', 's.ct._30_574', 'companybooraem#1']" end="48" reporter="L. Ed." entry_type="standard_key" lookup_key="l.ed._54_636" id1="97210" volume="54" start="35" page_number="636" standard_reporter="L.ED." citation_global_level_id="44543.004" line="1" id="97208_3" citation_local_level_id="2" >54 L. Ed. 636</CITATION>
+
+<CITATION party2="THEODORE B. BOORAEM, Receiver" alternative_keys="['s.ct._30_574', 'l.ed._54_636', 'u.s._216_604']" party1="HUDSON OIL &amp; SUPPLY COMPANY," end="125" party1_short="COMPANY" entry_type="party_key" party1_role="appellant" lookup_key="companybooraem#1" id1="97208" start="53" citation_global_level_id="56032.004" party2_short="BOORAEM" line="1" id="97208_4" citation_local_level_id="3" >HUDSON OIL &amp; SUPPLY COMPANY, Appellant, v. THEODORE B. BOORAEM, Receiver</CITATION>
+
+<NAME end="81" start="53" party1_of="97208_4" all_names="HUDSON OIL &amp; SUPPLY COMPANY" local_name_id="2" id="97208_5" >HUDSON OIL &amp; SUPPLY COMPANY,</NAME>
+
+<ORGANIZATION start="53" end="80" id="97208_10" >HUDSON OIL &amp; SUPPLY COMPANY</ORGANIZATION>
+
+<LEGAL_ROLE start="82" end="91" id="97208_7" party="party1" >Appellant</LEGAL_ROLE>
+
+<NAME end="125" start="96" all_names="THEODORE B BOORAEM RECEIVER" party2_of="97208_4" local_name_id="3" id="97208_6" >THEODORE B. BOORAEM, Receiver</NAME>
+
+<DATE start="188" end="205" id="97208_8" >February 28, 1910</DATE>
+
+<LEGAL_ROLE start="303" end="337" id="97208_16" >Mr. De Lagnel Berier for appellant</LEGAL_ROLE>
+
+<LEGAL_ROLE start="364" end="419" id="97208_17" >Messrs. George S. Silzer and Robert Adrain for appellee</LEGAL_ROLE>
+
+<NAME start="446" local_name_id="4" end="452" id="97208_18" all_names="DECREE" >Decree</NAME>
+
+<RELATION standard_case_string="216 U.S. 604" X_vs_Y_string="HUDSON OIL &amp; SUPPLY COMPANY, Appellant, v. THEODORE B. BOORAEM, Receiver" standard_case="97208_1" X_vs_Y="97208_4" gram_type="pre_nom" relation_type="equivalence" id="97208_12" ></RELATION>
+
+<RELATION standard_case_string="30 S. Ct. 574" X_vs_Y_string="HUDSON OIL &amp; SUPPLY COMPANY, Appellant, v. THEODORE B. BOORAEM, Receiver" standard_case="97208_2" X_vs_Y="97208_4" gram_type="pre_nom" relation_type="equivalence" id="97208_13" ></RELATION>
+
+<RELATION standard_case_string="54 L. Ed. 636" X_vs_Y_string="HUDSON OIL &amp; SUPPLY COMPANY, Appellant, v. THEODORE B. BOORAEM, Receiver" standard_case="97208_3" X_vs_Y="97208_4" gram_type="pre_nom" relation_type="equivalence" id="97208_11" ></RELATION>
+
+<RELATION theme="97208_4" party1="97208_5" party1_string="HUDSON OIL &amp; SUPPLY COMPANY," theme_string="HUDSON OIL &amp; SUPPLY COMPANY, Appellant, v. THEODORE B. BOORAEM, Receiver" gram_type="infix" relation_type="asymmetric" id="97208_14" ></RELATION>
+
+<RELATION party2="97208_6" theme="97208_4" theme_string="HUDSON OIL &amp; SUPPLY COMPANY, Appellant, v. THEODORE B. BOORAEM, Receiver" party2_string="THEODORE B. BOORAEM, Receiver" gram_type="infix" relation_type="asymmetric" id="97208_15" ></RELATION>
+

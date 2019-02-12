@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['reedyvirginia#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_882" id1="138815" volume="543" start="0" page_number="882" standard_reporter="U.S." citation_global_level_id="7742.002" line="1" id="138809_1" citation_local_level_id="0" >543 U.S. 882</CITATION>
+
+<CITATION party2="VIRGINIA" party1="REEDY" citation_global_level_id="20289.001" party2_short="VIRGINIA" line="2" id="138809_3" alternative_keys="['u.s._543_882']" end="34" entry_type="party_key" lookup_key="reedyvirginia#1" id1="138809" start="17" party1_short="REEDY" citation_local_level_id="1" >REEDY v. VIRGINIA</CITATION>
+
+<NAME end="22" start="17" party1_of="138809_3" all_names="REEDY" local_name_id="1" id="138809_4" >REEDY</NAME>
+
+<NAME end="34" start="26" all_names="VIRGINIA" party2_of="138809_3" local_name_id="2" id="138809_5" >VIRGINIA</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="reedyvirginia#1" id1="138809" start="44" citation_global_level_id="20289.001" line="2" id="138809_2" citation_local_level_id="1" >04-5102</DOCKET>
+
+<ORGANIZATION start="57" end="87" id="138809_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="93" citation_global_level_id="20289.001" end="108" id="138809_10" citation_local_level_id="1" >October 4, 2004</DATE>
+
+<NAME start="130" local_name_id="3" end="133" id="138809_13" all_names="SUP" >Sup</NAME>
+
+<RELATION theme="138809_3" includes_docket_string="04-5102" includes_docket="138809_2" theme_string="REEDY v. VIRGINIA" gram_type="apposition" relation_type="asymmetric" id="138809_8" ></RELATION>
+
+<RELATION theme="138809_3" party1="138809_4" party1_string="REEDY" theme_string="REEDY v. VIRGINIA" gram_type="infix" relation_type="asymmetric" id="138809_6" ></RELATION>
+
+<RELATION party2="138809_5" theme="138809_3" theme_string="REEDY v. VIRGINIA" party2_string="VIRGINIA" gram_type="infix" relation_type="asymmetric" id="138809_7" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 882" X_vs_Y_string="REEDY v. VIRGINIA" standard_case="138809_1" X_vs_Y="138809_3" gram_type="multi_line" relation_type="equivalence" id="138809_11" ></RELATION>
+
+<RELATION at_date_string="October 4, 2004" theme="138809_3" at_date="138809_10" theme_string="REEDY v. VIRGINIA" gram_type="multi_line" relation_type="asymmetric" id="138809_12" ></RELATION>
+

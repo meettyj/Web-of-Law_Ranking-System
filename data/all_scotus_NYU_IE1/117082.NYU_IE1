@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['boydcody#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1134" id1="117096" volume="510" start="0" page_number="1134" standard_reporter="U.S." citation_global_level_id="10946.002" line="1" id="117082_1" citation_local_level_id="0" >510 U.S. 1134</CITATION>
+
+<CITATION party2="Cody, Warden" party1="Boyd" citation_global_level_id="10946.003" party2_short="Cody" line="1" id="117082_3" alternative_keys="['u.s._510_1134']" end="38" entry_type="party_key" lookup_key="boydcody#1" id1="117096" start="18" party1_short="Boyd" citation_local_level_id="1" >Boyd v. Cody, Warden</CITATION>
+
+<NAME end="22" start="18" party1_of="117082_3" all_names="BOYD" local_name_id="1" id="117082_4" >Boyd</NAME>
+
+<NAME end="38" start="26" all_names="CODY WARDEN" party2_of="117082_3" local_name_id="2" id="117082_5" >Cody, Warden</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._510_1134" id1="117096" start="48" citation_global_level_id="10946.002" line="1" id="117082_2" citation_local_level_id="0" >93-7332</DOCKET>
+
+<DATE start="97" end="114" id="117082_6" >February 22, 1994</DATE>
+
+<NAME start="193" local_name_id="3" end="203" id="117082_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="240" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_13_404" id1="Dummy_File_161113" volume="13" start="228" page_number="404" standard_reporter="F.3D" citation_global_level_id="224963.001" line="3" id="117082_12" citation_local_level_id="2" >13 F. 3d 404</CITATION>
+
+<RELATION theme="117082_1" includes_docket_string="93-7332" includes_docket="117082_2" theme_string="510 U.S. 1134" gram_type="apposition" relation_type="asymmetric" id="117082_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1134" X_vs_Y_string="Boyd v. Cody, Warden" standard_case="117082_1" X_vs_Y="117082_3" gram_type="pre_nom" relation_type="equivalence" id="117082_7" ></RELATION>
+
+<RELATION theme="117082_3" includes_docket_string="93-7332" includes_docket="117082_2" theme_string="Boyd v. Cody, Warden" gram_type="apposition" relation_type="asymmetric" id="117082_10" ></RELATION>
+
+<RELATION theme="117082_3" party1="117082_4" party1_string="Boyd" theme_string="Boyd v. Cody, Warden" gram_type="infix" relation_type="asymmetric" id="117082_8" ></RELATION>
+
+<RELATION party2="117082_5" theme="117082_3" theme_string="Boyd v. Cody, Warden" party2_string="Cody, Warden" gram_type="infix" relation_type="asymmetric" id="117082_9" ></RELATION>
+

@@ -1,0 +1,56 @@
+<CITATION alternative_keys="['companybrown#6']" end="20" reporter="U.S." entry_type="standard_key" lookup_key="u.s._155_488" id1="94056" volume="155" start="1" page_number="488" year="1894" standard_reporter="U.S." citation_global_level_id="2276.002" line="2" id="94056_1" citation_local_level_id="0" >155 U.S. 488 (1894)</CITATION>
+
+<DATE start="15" citation_global_level_id="2276.002" end="19" id="94056_2" citation_local_level_id="0" >1894</DATE>
+
+<CITATION party2="BROWN" party1="EAST LAKE LAND COMPANY" citation_global_level_id="2276.003" party2_short="BROWN" line="5" id="94056_6" alternative_keys="['u.s._155_488']" end="54" entry_type="party_key" lookup_key="companybrown#6" id1="94056" start="21" party1_short="COMPANY" citation_local_level_id="1" >EAST LAKE LAND COMPANY v. BROWN</CITATION>
+
+<NAME end="43" start="21" party1_of="94056_6" all_names="EAST LAKE LAND COMPANY" local_name_id="1" id="94056_7" >EAST LAKE LAND COMPANY</NAME>
+
+<ORGANIZATION start="26" end="43" id="94056_9" >LAKE LAND COMPANY</ORGANIZATION>
+
+<NAME end="54" start="49" all_names="BROWN" party2_of="94056_6" local_name_id="2" id="94056_8" >BROWN</NAME>
+
+<ORGANIZATION start="65" end="95" id="94056_13" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="107" end="124" id="94056_14" >December 14, 1894</DATE>
+
+<NAME start="126" local_name_id="3" end="133" id="94056_16" all_names="DECIDED" >Decided</NAME>
+
+<DATE start="134" end="151" id="94056_15" >December 17, 1894</DATE>
+
+<ORGANIZATION start="153" end="237" id="94056_17" >ERROR TO THE CIRCUIT COURT OF THE UNITED STATES FOR THE NORTHERN DISTRICT OF ALABAMA</ORGANIZATION>
+
+<LEGAL_ROLE start="244" end="276" id="94056_18" >Mr. John T. Morgan for plaintiff</LEGAL_ROLE>
+
+<LEGAL_ROLE start="287" end="316" id="94056_19" >Mr. D.P. Bestor for defendant</LEGAL_ROLE>
+
+<PROFESSION start="331" end="344" id="94056_20" >CHIEF JUSTICE</PROFESSION>
+
+<ORGANIZATION start="442" end="466" id="94056_25" >City Court of Birmingham</ORGANIZATION>
+
+<NAME start="478" local_name_id="4" end="487" id="94056_26" all_names="JEFFERSON" >Jefferson</NAME>
+
+<NAME start="489" local_name_id="5" end="496" id="94056_27" all_names="ALABAMA" >Alabama</NAME>
+
+<CITATION party2="Waterworth" party1="Chappell" citation_global_level_id="16049.001" party2_short="Waterworth" line="14" id="94056_22" alternative_keys="['u.s._155_102']" end="540" entry_type="party_key" lookup_key="chappellwaterworth#1" id1="94019" start="518" party1_short="Chappell" citation_local_level_id="2" >Chappell v. Waterworth</CITATION>
+
+<NAME end="526" start="518" party1_of="94056_22" all_names="CHAPPELL" local_name_id="6" id="94056_23" >Chappell</NAME>
+
+<NAME end="540" start="530" all_names="WATERWORTH" party2_of="94056_22" local_name_id="7" id="94056_24" >Waterworth</NAME>
+
+<CITATION alternative_keys="['chappellwaterworth#1']" end="554" reporter="U.S." entry_type="standard_key" lookup_key="u.s._155_102" id1="94019" volume="155" start="542" page_number="102" standard_reporter="U.S." citation_global_level_id="16049.002" line="14" id="94056_21" citation_local_level_id="3" >155 U.S. 102</CITATION>
+
+<RELATION at_date_string="1894" theme="94056_1" at_date="94056_2" theme_string="155 U.S. 488 (1894)" gram_type="infix" relation_type="asymmetric" id="94056_3" ></RELATION>
+
+<RELATION theme="94056_6" party1="94056_7" party1_string="EAST LAKE LAND COMPANY" theme_string="EAST LAKE LAND COMPANY  v.  BROWN" gram_type="infix" relation_type="asymmetric" id="94056_10" ></RELATION>
+
+<RELATION party2="94056_8" theme="94056_6" theme_string="EAST LAKE LAND COMPANY  v.  BROWN" party2_string="BROWN" gram_type="infix" relation_type="asymmetric" id="94056_11" ></RELATION>
+
+<RELATION standard_case_string="155 U.S. 488 (1894)" X_vs_Y_string="EAST LAKE LAND COMPANY  v.  BROWN" standard_case="94056_1" X_vs_Y="94056_6" gram_type="multi_line" relation_type="equivalence" id="94056_12" ></RELATION>
+
+<RELATION standard_case_string="155 U.S. 102" X_vs_Y_string="Chappell v. Waterworth" standard_case="94056_21" X_vs_Y="94056_22" gram_type="apposition" relation_type="equivalence" id="94056_30" ></RELATION>
+
+<RELATION theme="94056_22" party1="94056_23" party1_string="Chappell" theme_string="Chappell v. Waterworth" gram_type="infix" relation_type="asymmetric" id="94056_28" ></RELATION>
+
+<RELATION party2="94056_24" theme="94056_22" theme_string="Chappell v. Waterworth" party2_string="Waterworth" gram_type="infix" relation_type="asymmetric" id="94056_29" ></RELATION>
+

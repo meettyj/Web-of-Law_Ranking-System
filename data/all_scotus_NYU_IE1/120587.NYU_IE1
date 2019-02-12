@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['pimpergeorgia#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1078" id1="120591" volume="535" start="0" page_number="1078" standard_reporter="U.S." citation_global_level_id="3382.002" line="1" id="120587_1" citation_local_level_id="0" >535 U.S. 1078</CITATION>
+
+<CITATION party2="GEORGIA EX REL. SIMPSON, ACTING DISTRICT ATTORNEY, ROME JUDICIAL DISTRICT" party1="PIMPER ET UX." citation_global_level_id="3382.007" party2_short="GEORGIA" line="2" id="120587_2" alternative_keys="['u.s._535_1078']" end="108" entry_type="party_key" lookup_key="pimpergeorgia#2" id1="120591" start="18" party1_short="PIMPER" citation_local_level_id="1" >PIMPER ET UX. v. GEORGIA EX REL. SIMPSON, ACTING DISTRICT ATTORNEY, ROME JUDICIAL DISTRICT</CITATION>
+
+<NAME end="31" start="18" party1_of="120587_2" all_names="PIMPER UX" local_name_id="1" id="120587_3" >PIMPER ET UX.</NAME>
+
+<NAME end="108" start="35" all_names="GEORGIA EX REL SIMPSON ACTING DISTRICT ATTORNEY ROME JUDICIAL DISTRICT" party2_of="120587_2" local_name_id="2" id="120587_4" >GEORGIA EX REL. SIMPSON, ACTING DISTRICT ATTORNEY, ROME JUDICIAL DISTRICT</NAME>
+
+<PROFESSION start="60" end="84" id="120587_5" >ACTING DISTRICT ATTORNEY</PROFESSION>
+
+<DOCKET alternative_keys="['u.s._535_1078']" end="125" entry_type="docket" lookup_key="pimpergeorgia#2" id1="120591" start="118" citation_global_level_id="3382.007" line="3" id="120587_8" citation_local_level_id="1" >01-1371</DOCKET>
+
+<DATE start="171" citation_global_level_id="3382.007" end="183" id="120587_9" citation_local_level_id="1" >May 20, 2002</DATE>
+
+<NAME start="205" local_name_id="3" end="208" id="120587_15" all_names="SUP" >Sup</NAME>
+
+<CITATION end="264" reporter="Ga." entry_type="standard_key" no_current_file="True" lookup_key="ga._274_624" id1="Dummy_File_193531" volume="274" start="253" page_number="624" standard_reporter="GA." citation_global_level_id="257381.001" line="8" id="120587_13" citation_local_level_id="2" >274 Ga. 624</CITATION>
+
+<CITATION end="282" reporter="S. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="s.e.2d_555_459" id1="Dummy_File_193532" volume="555" start="266" page_number="459" standard_reporter="S.E.2D" citation_global_level_id="257382.001" line="8" id="120587_14" citation_local_level_id="3" >555 S. E. 2d 459</CITATION>
+
+<RELATION theme="120587_2" party1="120587_3" party1_string="PIMPER ET UX." theme_string="PIMPER ET UX. v. GEORGIA EX REL. SIMPSON, ACTING DISTRICT ATTORNEY, ROME JUDICIAL DISTRICT" gram_type="infix" relation_type="asymmetric" id="120587_6" ></RELATION>
+
+<RELATION party2="120587_4" theme="120587_2" theme_string="PIMPER ET UX. v. GEORGIA EX REL. SIMPSON, ACTING DISTRICT ATTORNEY, ROME JUDICIAL DISTRICT" party2_string="GEORGIA EX REL. SIMPSON, ACTING DISTRICT ATTORNEY, ROME JUDICIAL DISTRICT" gram_type="infix" relation_type="asymmetric" id="120587_7" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1078" X_vs_Y_string="PIMPER ET UX. v. GEORGIA EX REL. SIMPSON, ACTING DISTRICT ATTORNEY, ROME JUDICIAL DISTRICT" standard_case="120587_1" X_vs_Y="120587_2" gram_type="multi_line" relation_type="equivalence" id="120587_10" ></RELATION>
+
+<RELATION at_date_string="May 20, 2002" theme="120587_2" at_date="120587_9" theme_string="PIMPER ET UX. v. GEORGIA EX REL. SIMPSON, ACTING DISTRICT ATTORNEY, ROME JUDICIAL DISTRICT" gram_type="multi_line" relation_type="asymmetric" id="120587_12" ></RELATION>
+
+<RELATION theme="120587_2" includes_docket_string="01-1371" includes_docket="120587_8" theme_string="PIMPER ET UX. v. GEORGIA EX REL. SIMPSON, ACTING DISTRICT ATTORNEY, ROME JUDICIAL DISTRICT" gram_type="multi_line" relation_type="asymmetric" id="120587_11" ></RELATION>
+

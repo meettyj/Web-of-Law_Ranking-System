@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['hardawaydepartment#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_820" id1="113112" volume="510" start="0" page_number="820" standard_reporter="U.S." citation_global_level_id="4473.002" line="1" id="113119_1" citation_local_level_id="0" >510 U.S. 820</CITATION>
+
+<CITATION party2="United States Department of the Army Corps of Engineers" party1="Hardaway Co." citation_global_level_id="49037.001" party2_short="Department" line="1" id="113119_3" alternative_keys="['u.s._510_820']" end="88" entry_type="party_key" lookup_key="hardawaydepartment#1" id1="113119" start="17" party1_short="Hardaway" citation_local_level_id="1" >Hardaway Co. v. United States Department of the Army Corps of Engineers</CITATION>
+
+<NAME end="29" start="17" party1_of="113119_3" all_names="HARDAWAY CO" local_name_id="1" id="113119_4" >Hardaway Co.</NAME>
+
+<ORGANIZATION start="17" end="28" id="113119_8" >Hardaway Co</ORGANIZATION>
+
+<NAME end="88" start="33" all_names="UNITED STATES DEPARTMENT OF THE ARMY CORPS OF ENGINEERS" party2_of="113119_3" local_name_id="2" id="113119_5" >United States Department of the Army Corps of Engineers</NAME>
+
+<DOCKET end="105" entry_type="docket" lookup_key="u.s._510_820" id1="113112" start="98" citation_global_level_id="4473.002" line="1" id="113119_2" citation_local_level_id="0" >92-1906</DOCKET>
+
+<DATE start="101" end="105" id="113119_6" >1906</DATE>
+
+<DATE start="147" end="162" id="113119_7" >October 4, 1993</DATE>
+
+<NAME start="241" local_name_id="3" end="251" id="113119_16" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="290" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_980_1415" id1="Dummy_File_50627" volume="980" start="276" page_number="1415" standard_reporter="F.2D" citation_global_level_id="114477.001" line="3" id="113119_15" citation_local_level_id="2" >980 F. 2d 1415</CITATION>
+
+<RELATION theme="113119_1" includes_docket_string="92-1906" includes_docket="113119_2" theme_string="510 U.S. 820" gram_type="apposition" relation_type="asymmetric" id="113119_13" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 820" X_vs_Y_string="Hardaway Co. v. United States Department of the Army Corps of Engineers" standard_case="113119_1" X_vs_Y="113119_3" gram_type="pre_nom" relation_type="equivalence" id="113119_9" ></RELATION>
+
+<RELATION theme="113119_3" includes_docket_string="92-1906" includes_docket="113119_2" theme_string="Hardaway Co. v. United States Department of the Army Corps of Engineers" gram_type="apposition" relation_type="asymmetric" id="113119_12" ></RELATION>
+
+<RELATION theme="113119_3" party1="113119_4" party1_string="Hardaway Co." theme_string="Hardaway Co. v. United States Department of the Army Corps of Engineers" gram_type="infix" relation_type="asymmetric" id="113119_10" ></RELATION>
+
+<RELATION party2="113119_5" theme="113119_3" theme_string="Hardaway Co. v. United States Department of the Army Corps of Engineers" party2_string="United States Department of the Army Corps of Engineers" gram_type="infix" relation_type="asymmetric" id="113119_11" ></RELATION>
+
+<RELATION at_date_string="1906" theme="113119_2" at_date="113119_6" theme_string="92-1906" gram_type="infix" relation_type="asymmetric" id="113119_14" ></RELATION>
+

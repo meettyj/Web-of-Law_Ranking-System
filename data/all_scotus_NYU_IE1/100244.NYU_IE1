@@ -1,0 +1,58 @@
+<CITATION alternative_keys="['statestate#54', 's.ct._43_701', 'l.ed._67_1094']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._262_505" id1="100244" volume="262" start="0" page_number="505" standard_reporter="U.S." citation_global_level_id="46277.002" line="1" id="100244_1" citation_local_level_id="0" >262 U.S. 505</CITATION>
+
+<CITATION alternative_keys="['u.s._262_505', 'statestate#54', 'l.ed._67_1094']" end="30" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._43_701" id1="100244" volume="43" start="17" page_number="701" standard_reporter="S.CT." citation_global_level_id="46277.003" line="2" id="100244_2" citation_local_level_id="1" >43 S. Ct. 701</CITATION>
+
+<CITATION alternative_keys="['u.s._262_505', 's.ct._43_701', 'statestate#54']" end="49" reporter="L. Ed." entry_type="standard_key" lookup_key="l.ed._67_1094" id1="100244" volume="67" start="35" page_number="1094" standard_reporter="L.ED." citation_global_level_id="46277.004" line="3" id="100244_3" citation_local_level_id="2" >67 L. Ed. 1094</CITATION>
+
+<CITATION party2="The STATE OF TEXAS" alternative_keys="['u.s._262_505', 's.ct._43_701', 'l.ed._67_1094']" party1="The STATE OF OKLAHOMA," end="122" party1_short="STATE" entry_type="party_key" party1_role="complainant" lookup_key="statestate#54" id="100244_4" start="54" citation_global_level_id="46277.001" party2_short="STATE" line="4" id1="100244" party2_role="defendant" citation_local_level_id="3" >The STATE OF OKLAHOMA, complainant, v. The STATE OF TEXAS, defendant</CITATION>
+
+<NAME end="76" start="54" party1_of="100244_4" all_names="THE STATE OF OKLAHOMA" local_name_id="1" id="100244_5" >The STATE OF OKLAHOMA,</NAME>
+
+<LEGAL_ROLE start="77" end="88" id="100244_7" >complainant</LEGAL_ROLE>
+
+<NAME end="111" start="93" all_names="THE STATE OF TEXAS" party2_of="100244_4" local_name_id="2" id="100244_6" >The STATE OF TEXAS</NAME>
+
+<LEGAL_ROLE start="113" end="122" id="100244_8" >defendant</LEGAL_ROLE>
+
+<CITATION end="142" line="4" id="100244_9" alternative_keys="['u.s._194_194']" citation_global_level_id="2168.003" name="The United  States" no_current_file="True" entry_type="case_key" lookup_key="the united states#1" id1="96079" start="124" citation_local_level_id="4" >The United States</CITATION>
+
+<ORGANIZATION start="182" end="216" id="100244_16" >Supreme Court of the United States</ORGANIZATION>
+
+<DATE start="221" end="233" id="100244_17" >June 4, 1923</DATE>
+
+<PROFESSION start="258" end="271" plural="True" id="100244_20" >commissioners</PROFESSION>
+
+<NAME start="363" local_name_id="3" end="391" id="100244_21" all_names="STATES OF TEXAS AND OKLAHOMA" >States of Texas and Oklahoma</NAME>
+
+<ORGANIZATION start="415" end="432" id="100244_22" >bank of Red River</ORGANIZATION>
+
+<NAME start="571" local_name_id="4" end="576" id="100244_23" all_names="STATE" >State</NAME>
+
+<ORGANIZATION start="604" end="608" id="100244_24" >bank</ORGANIZATION>
+
+<PROFESSION start="764" end="777" plural="True" id="100244_25" >commissioners</PROFESSION>
+
+<DATE start="844" end="858" id="100244_18" >March 12, 1923</DATE>
+
+<NAME start="870" local_name_id="5" end="880" id="100244_26" all_names="SUPPLEMENT" >Supplement</NAME>
+
+<DATE start="902" end="914" id="100244_19" >June 5, 1922</DATE>
+
+<PROFESSION start="1046" end="1059" plural="True" id="100244_27" >commissioners</PROFESSION>
+
+<PROFESSION start="1249" end="1262" plural="True" id="100244_28" >commissioners</PROFESSION>
+
+<ORGANIZATION start="1313" end="1318" id="100244_29" >court</ORGANIZATION>
+
+<RELATION theme="100244_4" party1="100244_5" party1_string="The STATE OF OKLAHOMA," theme_string="The STATE OF OKLAHOMA, complainant, v. The STATE OF TEXAS, defendant" gram_type="infix" relation_type="asymmetric" id="100244_10" ></RELATION>
+
+<RELATION party2="100244_6" theme="100244_4" theme_string="The STATE OF OKLAHOMA, complainant, v. The STATE OF TEXAS, defendant" party2_string="The STATE OF TEXAS" gram_type="infix" relation_type="asymmetric" id="100244_11" ></RELATION>
+
+<RELATION standard_case_string="262 U.S. 505" X_vs_Y_string="The STATE OF OKLAHOMA, complainant, v. The STATE OF TEXAS, defendant" standard_case="100244_1" X_vs_Y="100244_4" gram_type="multi_line" relation_type="equivalence" id="100244_13" ></RELATION>
+
+<RELATION standard_case_string="43 S. Ct. 701" X_vs_Y_string="The STATE OF OKLAHOMA, complainant, v. The STATE OF TEXAS, defendant" standard_case="100244_2" X_vs_Y="100244_4" gram_type="multi_line" relation_type="equivalence" id="100244_14" ></RELATION>
+
+<RELATION standard_case_string="67 L. Ed. 1094" X_vs_Y_string="The STATE OF OKLAHOMA, complainant, v. The STATE OF TEXAS, defendant" standard_case="100244_3" X_vs_Y="100244_4" gram_type="multi_line" relation_type="equivalence" id="100244_15" ></RELATION>
+
+<RELATION case_citation_other="100244_9" id="100244_12" X_vs_Y_string="The STATE OF OKLAHOMA, complainant, v. The STATE OF TEXAS, defendant" X_vs_Y="100244_4" gram_type="multi_line" relation_type="equivalence" case_citation_other_string="The United  States" ></RELATION>
+

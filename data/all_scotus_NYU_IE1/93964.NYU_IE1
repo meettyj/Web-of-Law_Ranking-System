@@ -1,0 +1,44 @@
+<CITATION alternative_keys="['rogerscounty#1', 's.ct._14_1209', 'l.ed._18_75']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._154_547" id1="93964" volume="154" start="0" page_number="547" standard_reporter="U.S." citation_global_level_id="677.002" line="1" id="93964_1" citation_local_level_id="0" >154 U.S. 547</CITATION>
+
+<CITATION alternative_keys="['u.s._154_547', 'rogerscounty#1', 'l.ed._18_75']" end="31" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._14_1209" id1="93964" volume="14" start="17" page_number="1209" standard_reporter="S.CT." citation_global_level_id="677.003" line="1" id="93964_2" citation_local_level_id="1" >14 S. Ct. 1209</CITATION>
+
+<NAME start="20" local_name_id="1" end="25" id="93964_8" all_names="S CT" >S. Ct</NAME>
+
+<CITATION alternative_keys="['u.s._154_547', 's.ct._14_1209', 'rogerscounty#1']" end="48" reporter="L. Ed." entry_type="standard_key" lookup_key="l.ed._18_75" id1="93964" volume="18" start="36" page_number="75" standard_reporter="L.ED." citation_global_level_id="677.004" line="1" id="93964_3" citation_local_level_id="2" >18 L. Ed. 75</CITATION>
+
+<CITATION party2="LEE COUNTY" party1="EVANS ROGERS" citation_global_level_id="677.001" party2_short="COUNTY" line="1" id="93964_4" alternative_keys="['u.s._154_547', 's.ct._14_1209', 'l.ed._18_75']" end="79" entry_type="party_key" lookup_key="rogerscounty#1" id1="93964" start="53" party1_short="ROGERS" citation_local_level_id="3" >EVANS ROGERS v. LEE COUNTY</CITATION>
+
+<NAME end="65" start="53" party1_of="93964_4" all_names="EVANS ROGERS	ROGERS" local_name_id="2" id="93964_5" >EVANS ROGERS</NAME>
+
+<NAME end="79" start="69" all_names="LEE COUNTY" party2_of="93964_4" local_name_id="3" id="93964_6" >LEE COUNTY</NAME>
+
+<DATE start="97" end="113" id="93964_7" >January 22, 1866</DATE>
+
+<CITATION party2="City of Keokuk" party1="Rogers" citation_global_level_id="60516.001" party2_short="City" line="3" id="93964_14" end="503" entry_type="party_key" lookup_key="rogerscity#1" id1="93963" start="479" party1_short="Rogers" citation_local_level_id="4" >Rogers v. City of Keokuk</CITATION>
+
+<NAME end="485" start="479" party1_of="93964_14" all_names="EVANS ROGERS	ROGERS" local_name_id="2" id="93964_15" >Rogers</NAME>
+
+<NAME end="503" start="489" all_names="CITY OF KEOKUK" party2_of="93964_14" local_name_id="4" id="93964_16" >City of Keokuk</NAME>
+
+<NAME start="663" local_name_id="5" end="673" id="93964_19" all_names="F A DICK" >F. A. Dick</NAME>
+
+<LEGAL_ROLE start="679" end="688" id="93964_20" >plaintiff</LEGAL_ROLE>
+
+<NAME start="724" local_name_id="6" end="734" id="93964_21" all_names="J C HALL" >J. C. Hall</NAME>
+
+<LEGAL_ROLE start="740" end="749" id="93964_22" >defendant</LEGAL_ROLE>
+
+<RELATION standard_case_string="154 U.S. 547" X_vs_Y_string="EVANS ROGERS v. LEE COUNTY" standard_case="93964_1" X_vs_Y="93964_4" gram_type="pre_nom" relation_type="equivalence" id="93964_10" ></RELATION>
+
+<RELATION standard_case_string="14 S. Ct. 1209" X_vs_Y_string="EVANS ROGERS v. LEE COUNTY" standard_case="93964_2" X_vs_Y="93964_4" gram_type="pre_nom" relation_type="equivalence" id="93964_11" ></RELATION>
+
+<RELATION standard_case_string="18 L. Ed. 75" X_vs_Y_string="EVANS ROGERS v. LEE COUNTY" standard_case="93964_3" X_vs_Y="93964_4" gram_type="pre_nom" relation_type="equivalence" id="93964_9" ></RELATION>
+
+<RELATION theme="93964_4" party1="93964_5" party1_string="EVANS ROGERS" theme_string="EVANS ROGERS v. LEE COUNTY" gram_type="infix" relation_type="asymmetric" id="93964_12" ></RELATION>
+
+<RELATION party2="93964_6" theme="93964_4" theme_string="EVANS ROGERS v. LEE COUNTY" party2_string="LEE COUNTY" gram_type="infix" relation_type="asymmetric" id="93964_13" ></RELATION>
+
+<RELATION theme="93964_14" party1="93964_15" party1_string="Rogers" theme_string="Rogers v. City of Keokuk" gram_type="infix" relation_type="asymmetric" id="93964_17" ></RELATION>
+
+<RELATION party2="93964_16" theme="93964_14" theme_string="Rogers v. City of Keokuk" party2_string="City of Keokuk" gram_type="infix" relation_type="asymmetric" id="93964_18" ></RELATION>
+

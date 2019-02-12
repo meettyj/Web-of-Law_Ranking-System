@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['ervincalifornia#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_930" id1="130525" volume="539" start="0" page_number="930" standard_reporter="U.S." citation_global_level_id="1057.002" line="1" id="130529_1" citation_local_level_id="0" >539 U.S. 930</CITATION>
+
+<CITATION party2="California" party1="Ervin" citation_global_level_id="44173.001" party2_short="California" line="1" id="130529_3" alternative_keys="['u.s._539_930']" end="36" entry_type="party_key" lookup_key="ervincalifornia#1" id1="130529" start="17" party1_short="Ervin" citation_local_level_id="1" >Ervin v. California</CITATION>
+
+<NAME end="22" start="17" party1_of="130529_3" all_names="ERVIN" local_name_id="1" id="130529_4" >Ervin</NAME>
+
+<NAME end="36" start="26" all_names="CALIFORNIA" party2_of="130529_3" local_name_id="2" id="130529_5" >California</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="u.s._539_930" id1="130525" start="46" citation_global_level_id="1057.002" line="1" id="130529_2" citation_local_level_id="0" >02-10104</DOCKET>
+
+<DATE start="96" end="109" id="130529_6" >June 16, 2003</DATE>
+
+<NAME start="201" local_name_id="3" end="211" id="130529_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="130529_1" includes_docket_string="02-10104" includes_docket="130529_2" theme_string="539 U.S. 930" gram_type="apposition" relation_type="asymmetric" id="130529_11" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 930" X_vs_Y_string="Ervin v. California" standard_case="130529_1" X_vs_Y="130529_3" gram_type="pre_nom" relation_type="equivalence" id="130529_7" ></RELATION>
+
+<RELATION theme="130529_3" includes_docket_string="02-10104" includes_docket="130529_2" theme_string="Ervin v. California" gram_type="apposition" relation_type="asymmetric" id="130529_10" ></RELATION>
+
+<RELATION theme="130529_3" party1="130529_4" party1_string="Ervin" theme_string="Ervin v. California" gram_type="infix" relation_type="asymmetric" id="130529_8" ></RELATION>
+
+<RELATION party2="130529_5" theme="130529_3" theme_string="Ervin v. California" party2_string="California" gram_type="infix" relation_type="asymmetric" id="130529_9" ></RELATION>
+

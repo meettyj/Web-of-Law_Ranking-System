@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['lynchohio#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_955" id1="133163" volume="540" start="0" page_number="955" standard_reporter="U.S." citation_global_level_id="6449.002" line="1" id="133171_1" citation_local_level_id="0" >540 U.S. 955</CITATION>
+
+<CITATION party2="OHIO" party1="LYNCH" citation_global_level_id="57868.001" party2_short="OHIO" line="1" id="133171_3" alternative_keys="['u.s._540_955']" end="30" entry_type="party_key" lookup_key="lynchohio#1" id1="133171" start="17" party1_short="LYNCH" citation_local_level_id="1" >LYNCH v. OHIO</CITATION>
+
+<NAME end="22" start="17" party1_of="133171_3" all_names="LYNCH" local_name_id="1" id="133171_4" >LYNCH</NAME>
+
+<NAME end="30" start="26" all_names="OHIO" party2_of="133171_3" local_name_id="2" id="133171_5" >OHIO</NAME>
+
+<DOCKET end="47" entry_type="docket" lookup_key="u.s._540_955" id1="133163" start="40" citation_global_level_id="6449.002" line="1" id="133171_2" citation_local_level_id="0" >03-5801</DOCKET>
+
+<DATE start="89" end="105" id="133171_6" >October 14, 2003</DATE>
+
+<NAME start="183" local_name_id="3" end="193" id="133171_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="255" reporter="N. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.e.2d_787_1185" id1="Dummy_File_189891" volume="787" start="238" page_number="1185" standard_reporter="N.E.2D" citation_global_level_id="253741.001" line="3" id="133171_12" citation_local_level_id="2" >787 N. E. 2d 1185</CITATION>
+
+<RELATION theme="133171_1" includes_docket_string="03-5801" includes_docket="133171_2" theme_string="540 U.S. 955" gram_type="apposition" relation_type="asymmetric" id="133171_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 955" X_vs_Y_string="LYNCH v. OHIO" standard_case="133171_1" X_vs_Y="133171_3" gram_type="pre_nom" relation_type="equivalence" id="133171_7" ></RELATION>
+
+<RELATION theme="133171_3" includes_docket_string="03-5801" includes_docket="133171_2" theme_string="LYNCH v. OHIO" gram_type="apposition" relation_type="asymmetric" id="133171_10" ></RELATION>
+
+<RELATION theme="133171_3" party1="133171_4" party1_string="LYNCH" theme_string="LYNCH v. OHIO" gram_type="infix" relation_type="asymmetric" id="133171_8" ></RELATION>
+
+<RELATION party2="133171_5" theme="133171_3" theme_string="LYNCH v. OHIO" party2_string="OHIO" gram_type="infix" relation_type="asymmetric" id="133171_9" ></RELATION>
+

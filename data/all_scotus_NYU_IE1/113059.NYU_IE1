@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['petroleumline#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_815" id1="113056" volume="510" start="0" page_number="815" standard_reporter="U.S." citation_global_level_id="1931.002" line="1" id="113059_1" citation_local_level_id="0" >510 U.S. 815</CITATION>
+
+<CITATION party2="Memphis Barge Line, Inc" party1="MAPCO Petroleum, Inc." citation_global_level_id="4732.001" party2_short="Line" line="1" id="113059_3" alternative_keys="['u.s._510_815']" end="65" entry_type="party_key" lookup_key="petroleumline#1" id1="113059" start="17" party1_short="Petroleum" citation_local_level_id="1" >MAPCO Petroleum, Inc. v. Memphis Barge Line, Inc</CITATION>
+
+<NAME end="38" start="17" party1_of="113059_3" all_names="MAPCO PETROLEUM INC" local_name_id="1" id="113059_4" >MAPCO Petroleum, Inc.</NAME>
+
+<ORGANIZATION start="17" end="37" id="113059_8" >MAPCO Petroleum, Inc</ORGANIZATION>
+
+<NAME end="65" start="42" all_names="MEMPHIS BARGE LINE INC" party2_of="113059_3" local_name_id="2" id="113059_5" >Memphis Barge Line, Inc</NAME>
+
+<DOCKET end="82" entry_type="docket" lookup_key="u.s._510_815" id1="113056" start="75" citation_global_level_id="1931.002" line="1" id="113059_2" citation_local_level_id="0" >92-1824</DOCKET>
+
+<DATE start="78" end="82" id="113059_6" >1824</DATE>
+
+<DATE start="124" end="139" id="113059_7" >October 4, 1993</DATE>
+
+<NAME start="217" local_name_id="3" end="227" id="113059_16" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="268" reporter="S. W. 2d" entry_type="standard_key" no_current_file="True" lookup_key="s.w.2d_849_312" id1="Dummy_File_109608" volume="849" start="252" page_number="312" standard_reporter="S.W.2D" citation_global_level_id="173458.001" line="3" id="113059_15" citation_local_level_id="2" >849 S. W. 2d 312</CITATION>
+
+<RELATION theme="113059_1" includes_docket_string="92-1824" includes_docket="113059_2" theme_string="510 U.S. 815" gram_type="apposition" relation_type="asymmetric" id="113059_13" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 815" X_vs_Y_string="MAPCO Petroleum, Inc. v. Memphis Barge Line, Inc" standard_case="113059_1" X_vs_Y="113059_3" gram_type="pre_nom" relation_type="equivalence" id="113059_9" ></RELATION>
+
+<RELATION theme="113059_3" includes_docket_string="92-1824" includes_docket="113059_2" theme_string="MAPCO Petroleum, Inc. v. Memphis Barge Line, Inc" gram_type="apposition" relation_type="asymmetric" id="113059_12" ></RELATION>
+
+<RELATION theme="113059_3" party1="113059_4" party1_string="MAPCO Petroleum, Inc." theme_string="MAPCO Petroleum, Inc. v. Memphis Barge Line, Inc" gram_type="infix" relation_type="asymmetric" id="113059_10" ></RELATION>
+
+<RELATION party2="113059_5" theme="113059_3" theme_string="MAPCO Petroleum, Inc. v. Memphis Barge Line, Inc" party2_string="Memphis Barge Line, Inc" gram_type="infix" relation_type="asymmetric" id="113059_11" ></RELATION>
+
+<RELATION at_date_string="1824" theme="113059_2" at_date="113059_6" theme_string="92-1824" gram_type="infix" relation_type="asymmetric" id="113059_14" ></RELATION>
+

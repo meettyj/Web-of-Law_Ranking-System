@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['toscokeeper#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_924" id1="130450" volume="539" start="0" page_number="924" standard_reporter="U.S." citation_global_level_id="7615.002" line="1" id="130453_1" citation_local_level_id="0" >539 U.S. 924</CITATION>
+
+<CITATION party2="San Francisco Bay-Keeper, Inc" party1="Tosco Corp. et al." citation_global_level_id="7615.003" party2_short="Keeper" line="1" id="130453_3" alternative_keys="['u.s._539_924']" end="68" entry_type="party_key" lookup_key="toscokeeper#2" id1="130450" start="17" party1_short="Tosco" citation_local_level_id="1" >Tosco Corp. et al. v. San Francisco Bay-Keeper, Inc</CITATION>
+
+<NAME end="35" start="17" party1_of="130453_3" all_names="TOSCO CORP" local_name_id="1" id="130453_4" >Tosco Corp. et al.</NAME>
+
+<ORGANIZATION start="17" end="27" id="130453_7" >Tosco Corp</ORGANIZATION>
+
+<NAME end="68" start="39" all_names="SAN FRANCISCO BAY-KEEPER INC" party2_of="130453_3" local_name_id="2" id="130453_5" >San Francisco Bay-Keeper, Inc</NAME>
+
+<DOCKET end="85" entry_type="docket" lookup_key="u.s._539_924" id1="130450" start="78" citation_global_level_id="7615.002" line="1" id="130453_2" citation_local_level_id="0" >02-1388</DOCKET>
+
+<DATE start="127" end="140" id="130453_6" >June 12, 2003</DATE>
+
+<NAME start="218" local_name_id="3" end="228" id="130453_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<ORGANIZATION start="250" end="255" id="130453_15" >Court</ORGANIZATION>
+
+<NAME start="258" local_name_id="4" end="277" id="130453_16" all_names="RULE 461 REPORTED" >Rule 46.1. Reported</NAME>
+
+<CITATION end="299" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_309_1153" id1="Dummy_File_81500" volume="309" start="285" page_number="1153" standard_reporter="F.3D" citation_global_level_id="145350.001" line="3" id="130453_13" citation_local_level_id="2" >309 F. 3d 1153</CITATION>
+
+<RELATION theme="130453_1" includes_docket_string="02-1388" includes_docket="130453_2" theme_string="539 U.S. 924" gram_type="apposition" relation_type="asymmetric" id="130453_12" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 924" X_vs_Y_string="Tosco Corp. et al. v. San Francisco Bay-Keeper, Inc" standard_case="130453_1" X_vs_Y="130453_3" gram_type="pre_nom" relation_type="equivalence" id="130453_8" ></RELATION>
+
+<RELATION theme="130453_3" includes_docket_string="02-1388" includes_docket="130453_2" theme_string="Tosco Corp. et al. v. San Francisco Bay-Keeper, Inc" gram_type="apposition" relation_type="asymmetric" id="130453_11" ></RELATION>
+
+<RELATION party2="130453_5" theme="130453_3" theme_string="Tosco Corp. et al. v. San Francisco Bay-Keeper, Inc" party2_string="San Francisco Bay-Keeper, Inc" gram_type="infix" relation_type="asymmetric" id="130453_10" ></RELATION>
+
+<RELATION theme="130453_3" party1="130453_4" party1_string="Tosco Corp. et al." theme_string="Tosco Corp. et al. v. San Francisco Bay-Keeper, Inc" gram_type="infix" relation_type="asymmetric" id="130453_9" ></RELATION>
+

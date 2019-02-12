@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['seinfeldbartz#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_939" id1="132990" volume="540" start="0" page_number="939" standard_reporter="U.S." citation_global_level_id="11511.002" line="1" id="132985_1" citation_local_level_id="0" >540 U.S. 939</CITATION>
+
+<CITATION party2="BARTZ ET AL" party1="SEINFELD" citation_global_level_id="15956.001" party2_short="BARTZ" line="1" id="132985_3" alternative_keys="['u.s._540_939']" end="40" entry_type="party_key" lookup_key="seinfeldbartz#1" id1="132985" start="17" party1_short="SEINFELD" citation_local_level_id="1" >SEINFELD v. BARTZ ET AL</CITATION>
+
+<NAME end="25" start="17" party1_of="132985_3" all_names="SEINFELD" local_name_id="1" id="132985_4" >SEINFELD</NAME>
+
+<NAME end="40" start="29" all_names="BARTZ" party2_of="132985_3" local_name_id="2" id="132985_5" >BARTZ ET AL</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._540_939" id1="132990" start="50" citation_global_level_id="11511.002" line="1" id="132985_2" citation_local_level_id="0" >02-1779</DOCKET>
+
+<DATE start="53" end="57" id="132985_6" >1779</DATE>
+
+<DATE start="99" end="114" id="132985_7" >October 6, 2003</DATE>
+
+<NAME start="192" local_name_id="3" end="202" id="132985_15" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="319" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_322_693" id1="Dummy_File_51941" volume="322" start="306" page_number="693" standard_reporter="F.3D" citation_global_level_id="115791.001" line="3" id="132985_14" citation_local_level_id="2" >322 F. 3d 693</CITATION>
+
+<RELATION theme="132985_1" includes_docket_string="02-1779" includes_docket="132985_2" theme_string="540 U.S. 939" gram_type="apposition" relation_type="asymmetric" id="132985_12" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 939" X_vs_Y_string="SEINFELD v. BARTZ ET AL" standard_case="132985_1" X_vs_Y="132985_3" gram_type="pre_nom" relation_type="equivalence" id="132985_8" ></RELATION>
+
+<RELATION theme="132985_3" includes_docket_string="02-1779" includes_docket="132985_2" theme_string="SEINFELD v. BARTZ ET AL" gram_type="apposition" relation_type="asymmetric" id="132985_11" ></RELATION>
+
+<RELATION party2="132985_5" theme="132985_3" theme_string="SEINFELD v. BARTZ ET AL" party2_string="BARTZ ET AL" gram_type="infix" relation_type="asymmetric" id="132985_10" ></RELATION>
+
+<RELATION theme="132985_3" party1="132985_4" party1_string="SEINFELD" theme_string="SEINFELD v. BARTZ ET AL" gram_type="infix" relation_type="asymmetric" id="132985_9" ></RELATION>
+
+<RELATION at_date_string="1779" theme="132985_2" at_date="132985_6" theme_string="02-1779" gram_type="infix" relation_type="asymmetric" id="132985_13" ></RELATION>
+

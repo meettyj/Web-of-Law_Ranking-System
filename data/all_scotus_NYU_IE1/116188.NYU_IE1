@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['kiddstates#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1059" id1="116183" volume="510" start="0" page_number="1059" standard_reporter="U.S." citation_global_level_id="5824.002" line="1" id="116188_1" citation_local_level_id="0" >510 U.S. 1059</CITATION>
+
+<CITATION party2="United States" party1="Kidd" citation_global_level_id="29809.001" party2_short="States" line="1" id="116188_3" alternative_keys="['u.s._510_1059']" end="39" entry_type="party_key" lookup_key="kiddstates#1" id1="116188" start="18" party1_short="Kidd" citation_local_level_id="1" >Kidd v. United States</CITATION>
+
+<NAME end="22" start="18" party1_of="116188_3" all_names="KIDD" local_name_id="1" id="116188_4" >Kidd</NAME>
+
+<NAME end="39" start="26" all_names="UNITED STATES" party2_of="116188_3" local_name_id="2" id="116188_5" >United States</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._510_1059" id1="116183" start="49" citation_global_level_id="5824.002" line="1" id="116188_2" citation_local_level_id="0" >93-6787</DOCKET>
+
+<DATE start="98" end="114" id="116188_6" >January 10, 1994</DATE>
+
+<NAME start="192" local_name_id="3" end="202" id="116188_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="238" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_9_110" id1="Dummy_File_15497" volume="9" start="227" page_number="110" standard_reporter="F.3D" citation_global_level_id="79347.001" line="3" id="116188_12" citation_local_level_id="2" >9 F. 3d 110</CITATION>
+
+<RELATION theme="116188_1" includes_docket_string="93-6787" includes_docket="116188_2" theme_string="510 U.S. 1059" gram_type="apposition" relation_type="asymmetric" id="116188_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1059" X_vs_Y_string="Kidd v. United States" standard_case="116188_1" X_vs_Y="116188_3" gram_type="pre_nom" relation_type="equivalence" id="116188_7" ></RELATION>
+
+<RELATION theme="116188_3" includes_docket_string="93-6787" includes_docket="116188_2" theme_string="Kidd v. United States" gram_type="apposition" relation_type="asymmetric" id="116188_10" ></RELATION>
+
+<RELATION theme="116188_3" party1="116188_4" party1_string="Kidd" theme_string="Kidd v. United States" gram_type="infix" relation_type="asymmetric" id="116188_8" ></RELATION>
+
+<RELATION party2="116188_5" theme="116188_3" theme_string="Kidd v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="116188_9" ></RELATION>
+

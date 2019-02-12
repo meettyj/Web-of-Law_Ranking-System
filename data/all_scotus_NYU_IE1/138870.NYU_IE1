@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['bartonruechel#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_886" id1="138877" volume="543" start="0" page_number="886" standard_reporter="U.S." citation_global_level_id="2643.002" line="1" id="138870_1" citation_local_level_id="0" >543 U.S. 886</CITATION>
+
+<CITATION party2="RUECHEL" party1="BARTON" citation_global_level_id="57378.001" party2_short="RUECHEL" line="2" id="138870_2" alternative_keys="['u.s._543_886']" end="34" entry_type="party_key" lookup_key="bartonruechel#1" id1="138870" start="17" party1_short="BARTON" citation_local_level_id="1" >BARTON v. RUECHEL</CITATION>
+
+<NAME end="23" start="17" party1_of="138870_2" all_names="BARTON" local_name_id="1" id="138870_3" >BARTON</NAME>
+
+<NAME end="34" start="27" all_names="RUECHEL" party2_of="138870_2" local_name_id="2" id="138870_4" >RUECHEL</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="bartonruechel#1" id1="138870" start="44" citation_global_level_id="57378.001" line="3" id="138870_7" citation_local_level_id="1" >04-5177</DOCKET>
+
+<ORGANIZATION start="57" end="87" id="138870_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="93" citation_global_level_id="57378.001" end="108" id="138870_9" citation_local_level_id="1" >October 4, 2004</DATE>
+
+<NAME start="140" local_name_id="3" end="143" id="138870_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="138870_2" party1="138870_3" party1_string="BARTON" theme_string="BARTON v. RUECHEL" gram_type="infix" relation_type="asymmetric" id="138870_5" ></RELATION>
+
+<RELATION party2="138870_4" theme="138870_2" theme_string="BARTON v. RUECHEL" party2_string="RUECHEL" gram_type="infix" relation_type="asymmetric" id="138870_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 886" X_vs_Y_string="BARTON v. RUECHEL" standard_case="138870_1" X_vs_Y="138870_2" gram_type="multi_line" relation_type="equivalence" id="138870_10" ></RELATION>
+
+<RELATION at_date_string="October 4, 2004" theme="138870_2" at_date="138870_9" theme_string="BARTON v. RUECHEL" gram_type="multi_line" relation_type="asymmetric" id="138870_12" ></RELATION>
+
+<RELATION theme="138870_2" includes_docket_string="04-5177" includes_docket="138870_7" theme_string="BARTON v. RUECHEL" gram_type="multi_line" relation_type="asymmetric" id="138870_11" ></RELATION>
+

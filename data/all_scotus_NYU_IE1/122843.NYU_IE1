@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['bradleyoklahoma#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_847" id1="122835" volume="537" start="0" page_number="847" standard_reporter="U.S." citation_global_level_id="4487.002" line="1" id="122843_1" citation_local_level_id="0" >537 U.S. 847</CITATION>
+
+<CITATION party2="OKLAHOMA" party1="BRADLEY" citation_global_level_id="28226.001" party2_short="OKLAHOMA" line="1" id="122843_3" alternative_keys="['u.s._537_847']" end="36" entry_type="party_key" lookup_key="bradleyoklahoma#1" id1="122843" start="17" party1_short="BRADLEY" citation_local_level_id="1" >BRADLEY v. OKLAHOMA</CITATION>
+
+<NAME end="24" start="17" party1_of="122843_3" all_names="BRADLEY" local_name_id="1" id="122843_4" >BRADLEY</NAME>
+
+<NAME end="36" start="28" all_names="OKLAHOMA" party2_of="122843_3" local_name_id="2" id="122843_5" >OKLAHOMA</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="u.s._537_847" id1="122835" start="46" citation_global_level_id="4487.002" line="1" id="122843_2" citation_local_level_id="0" >01-10509</DOCKET>
+
+<DATE start="96" end="111" id="122843_6" >October 7, 2002</DATE>
+
+<NAME start="215" local_name_id="3" end="217" id="122843_12" all_names="CT" >Ct</NAME>
+
+<RELATION theme="122843_1" includes_docket_string="01-10509" includes_docket="122843_2" theme_string="537 U.S. 847" gram_type="apposition" relation_type="asymmetric" id="122843_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 847" X_vs_Y_string="BRADLEY v. OKLAHOMA" standard_case="122843_1" X_vs_Y="122843_3" gram_type="pre_nom" relation_type="equivalence" id="122843_7" ></RELATION>
+
+<RELATION theme="122843_3" includes_docket_string="01-10509" includes_docket="122843_2" theme_string="BRADLEY v. OKLAHOMA" gram_type="apposition" relation_type="asymmetric" id="122843_10" ></RELATION>
+
+<RELATION theme="122843_3" party1="122843_4" party1_string="BRADLEY" theme_string="BRADLEY v. OKLAHOMA" gram_type="infix" relation_type="asymmetric" id="122843_8" ></RELATION>
+
+<RELATION party2="122843_5" theme="122843_3" theme_string="BRADLEY v. OKLAHOMA" party2_string="OKLAHOMA" gram_type="infix" relation_type="asymmetric" id="122843_9" ></RELATION>
+

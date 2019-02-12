@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['lanestates#5']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_818" id1="131370" volume="540" start="0" page_number="818" standard_reporter="U.S." citation_global_level_id="12791.002" line="1" id="131369_1" citation_local_level_id="0" >540 U.S. 818</CITATION>
+
+<CITATION party2="UNITED STATES" party1="LANE" citation_global_level_id="62751.001" party2_short="STATES" line="1" id="131369_3" alternative_keys="['u.s._540_818']" end="38" entry_type="party_key" lookup_key="lanestates#5" id1="98732" start="17" party1_short="LANE" citation_local_level_id="1" >LANE v. UNITED STATES</CITATION>
+
+<NAME end="21" start="17" party1_of="131369_3" all_names="LANE" local_name_id="1" id="131369_4" >LANE</NAME>
+
+<NAME end="38" start="25" all_names="UNITED STATES" party2_of="131369_3" local_name_id="2" id="131369_5" >UNITED STATES</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._540_818" id1="131370" start="48" citation_global_level_id="12791.002" line="1" id="131369_2" citation_local_level_id="0" >02-1725</DOCKET>
+
+<DATE start="51" end="55" id="131369_6" >1725</DATE>
+
+<DATE start="97" end="112" id="131369_7" >October 6, 2003</DATE>
+
+<NAME start="190" local_name_id="3" end="200" id="131369_15" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="238" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_323_568" id1="Dummy_File_109607" volume="323" start="225" page_number="568" standard_reporter="F.3D" citation_global_level_id="173457.001" line="3" id="131369_14" citation_local_level_id="2" >323 F. 3d 568</CITATION>
+
+<RELATION theme="131369_1" includes_docket_string="02-1725" includes_docket="131369_2" theme_string="540 U.S. 818" gram_type="apposition" relation_type="asymmetric" id="131369_12" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 818" X_vs_Y_string="LANE v. UNITED STATES" standard_case="131369_1" X_vs_Y="131369_3" gram_type="pre_nom" relation_type="equivalence" id="131369_8" ></RELATION>
+
+<RELATION theme="131369_3" includes_docket_string="02-1725" includes_docket="131369_2" theme_string="LANE v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="131369_11" ></RELATION>
+
+<RELATION party2="131369_5" theme="131369_3" theme_string="LANE v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="131369_10" ></RELATION>
+
+<RELATION theme="131369_3" party1="131369_4" party1_string="LANE" theme_string="LANE v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="131369_9" ></RELATION>
+
+<RELATION at_date_string="1725" theme="131369_2" at_date="131369_6" theme_string="02-1725" gram_type="infix" relation_type="asymmetric" id="131369_13" ></RELATION>
+

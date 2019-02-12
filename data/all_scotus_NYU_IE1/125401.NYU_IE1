@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['silvanevada#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1050" id1="125407" volume="537" start="0" page_number="1050" standard_reporter="U.S." citation_global_level_id="5516.002" line="1" id="125401_1" citation_local_level_id="0" >537 U.S. 1050</CITATION>
+
+<CITATION party2="NEVADA" party1="SILVA" citation_global_level_id="37471.001" party2_short="NEVADA" line="1" id="125401_3" alternative_keys="['u.s._537_1050']" end="33" entry_type="party_key" lookup_key="silvanevada#1" id1="125401" start="18" party1_short="SILVA" citation_local_level_id="1" >SILVA v. NEVADA</CITATION>
+
+<NAME end="23" start="18" party1_of="125401_3" all_names="SILVA" local_name_id="1" id="125401_4" >SILVA</NAME>
+
+<NAME end="33" start="27" all_names="NEVADA" party2_of="125401_3" local_name_id="2" id="125401_5" >NEVADA</NAME>
+
+<DOCKET end="50" entry_type="docket" lookup_key="u.s._537_1050" id1="125407" start="43" citation_global_level_id="5516.002" line="1" id="125401_2" citation_local_level_id="0" >02-6459</DOCKET>
+
+<DATE start="92" end="108" id="125401_6" >December 2, 2002</DATE>
+
+<NAME start="198" local_name_id="3" end="201" id="125401_12" all_names="SUP" >Sup</NAME>
+
+<RELATION theme="125401_1" includes_docket_string="02-6459" includes_docket="125401_2" theme_string="537 U.S. 1050" gram_type="apposition" relation_type="asymmetric" id="125401_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1050" X_vs_Y_string="SILVA v. NEVADA" standard_case="125401_1" X_vs_Y="125401_3" gram_type="pre_nom" relation_type="equivalence" id="125401_7" ></RELATION>
+
+<RELATION theme="125401_3" includes_docket_string="02-6459" includes_docket="125401_2" theme_string="SILVA v. NEVADA" gram_type="apposition" relation_type="asymmetric" id="125401_10" ></RELATION>
+
+<RELATION theme="125401_3" party1="125401_4" party1_string="SILVA" theme_string="SILVA v. NEVADA" gram_type="infix" relation_type="asymmetric" id="125401_8" ></RELATION>
+
+<RELATION party2="125401_5" theme="125401_3" theme_string="SILVA v. NEVADA" party2_string="NEVADA" gram_type="infix" relation_type="asymmetric" id="125401_9" ></RELATION>
+

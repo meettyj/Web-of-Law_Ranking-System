@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['ninocasterline#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_922" id1="130430" volume="539" start="0" page_number="922" standard_reporter="U.S." citation_global_level_id="208.002" line="1" id="130432_1" citation_local_level_id="0" >539 U.S. 922</CITATION>
+
+<CITATION party2="Casterline, Warden" party1="Nino" citation_global_level_id="208.003" party2_short="Casterline" line="1" id="130432_3" alternative_keys="['u.s._539_922']" end="43" entry_type="party_key" lookup_key="ninocasterline#1" id1="130430" start="17" party1_short="Nino" citation_local_level_id="1" >Nino v. Casterline, Warden</CITATION>
+
+<NAME end="21" start="17" party1_of="130432_3" all_names="NINO" local_name_id="1" id="130432_4" >Nino</NAME>
+
+<NAME end="43" start="25" all_names="CASTERLINE WARDEN" party2_of="130432_3" local_name_id="2" id="130432_5" >Casterline, Warden</NAME>
+
+<DOCKET end="61" entry_type="docket" lookup_key="u.s._539_922" id1="130430" start="53" citation_global_level_id="208.002" line="1" id="130432_2" citation_local_level_id="0" >02-10563</DOCKET>
+
+<DATE start="103" end="115" id="130432_6" >June 9, 2003</DATE>
+
+<NAME start="193" local_name_id="3" end="203" id="130432_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="130432_1" includes_docket_string="02-10563" includes_docket="130432_2" theme_string="539 U.S. 922" gram_type="apposition" relation_type="asymmetric" id="130432_11" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 922" X_vs_Y_string="Nino v. Casterline, Warden" standard_case="130432_1" X_vs_Y="130432_3" gram_type="pre_nom" relation_type="equivalence" id="130432_7" ></RELATION>
+
+<RELATION theme="130432_3" includes_docket_string="02-10563" includes_docket="130432_2" theme_string="Nino v. Casterline, Warden" gram_type="apposition" relation_type="asymmetric" id="130432_10" ></RELATION>
+
+<RELATION theme="130432_3" party1="130432_4" party1_string="Nino" theme_string="Nino v. Casterline, Warden" gram_type="infix" relation_type="asymmetric" id="130432_8" ></RELATION>
+
+<RELATION party2="130432_5" theme="130432_3" theme_string="Nino v. Casterline, Warden" party2_string="Casterline, Warden" gram_type="infix" relation_type="asymmetric" id="130432_9" ></RELATION>
+

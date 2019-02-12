@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['cookflorida#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_930" id1="139436" volume="543" start="0" page_number="930" standard_reporter="U.S." citation_global_level_id="492.002" line="3" id="139433_2" citation_local_level_id="0" >543 U.S. 930</CITATION>
+
+<CITATION party2="FLORIDA" party1="COOK" citation_global_level_id="31888.001" party2_short="FLORIDA" line="3" id="139433_4" alternative_keys="['u.s._543_930']" end="32" entry_type="party_key" lookup_key="cookflorida#1" id1="139433" start="17" party1_short="COOK" citation_local_level_id="1" >COOK v. FLORIDA</CITATION>
+
+<NAME end="21" start="17" party1_of="139433_4" all_names="COOK" local_name_id="1" id="139433_5" >COOK</NAME>
+
+<NAME end="32" start="25" all_names="FLORIDA" party2_of="139433_4" local_name_id="2" id="139433_6" >FLORIDA</NAME>
+
+<DOCKET end="49" entry_type="docket" lookup_key="u.s._543_930" id1="139436" start="42" citation_global_level_id="492.002" line="3" id="139433_3" citation_local_level_id="0" >04-5657</DOCKET>
+
+<ORGANIZATION start="55" end="85" id="139433_12" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="91" citation_global_level_id="31888.001" end="107" id="139433_13" citation_local_level_id="1" >October 12, 2004</DATE>
+
+<NAME start="140" local_name_id="3" end="143" id="139433_15" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="139433_2" includes_docket_string="04-5657" includes_docket="139433_3" theme_string="543 U.S. 930" gram_type="apposition" relation_type="asymmetric" id="139433_11" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 930" X_vs_Y_string="COOK v. FLORIDA" standard_case="139433_2" X_vs_Y="139433_4" gram_type="pre_nom" relation_type="equivalence" id="139433_7" ></RELATION>
+
+<RELATION theme="139433_4" includes_docket_string="04-5657" includes_docket="139433_3" theme_string="COOK v. FLORIDA" gram_type="apposition" relation_type="asymmetric" id="139433_10" ></RELATION>
+
+<RELATION theme="139433_4" party1="139433_5" party1_string="COOK" theme_string="COOK v. FLORIDA" gram_type="infix" relation_type="asymmetric" id="139433_8" ></RELATION>
+
+<RELATION party2="139433_6" theme="139433_4" theme_string="COOK v. FLORIDA" party2_string="FLORIDA" gram_type="infix" relation_type="asymmetric" id="139433_9" ></RELATION>
+
+<RELATION at_date_string="October 12, 2004" theme="139433_4" at_date="139433_13" theme_string="COOK v. FLORIDA" gram_type="multi_line" relation_type="asymmetric" id="139433_14" ></RELATION>
+

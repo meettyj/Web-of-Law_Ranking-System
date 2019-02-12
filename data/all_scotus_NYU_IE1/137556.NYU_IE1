@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['hurstdelaware#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._542_946" id1="137549" volume="542" start="0" page_number="946" standard_reporter="U.S." citation_global_level_id="238.002" line="1" id="137556_1" citation_local_level_id="0" >542 U.S. 946</CITATION>
+
+<CITATION party2="DELAWARE" party1="HURST" citation_global_level_id="41777.001" party2_short="DELAWARE" line="1" id="137556_3" alternative_keys="['u.s._542_946']" end="34" entry_type="party_key" lookup_key="hurstdelaware#2" id1="136152" start="17" party1_short="HURST" citation_local_level_id="1" >HURST v. DELAWARE</CITATION>
+
+<NAME end="22" start="17" party1_of="137556_3" all_names="HURST" local_name_id="1" id="137556_4" >HURST</NAME>
+
+<NAME end="34" start="26" all_names="DELAWARE" party2_of="137556_3" local_name_id="2" id="137556_5" >DELAWARE</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="u.s._542_946" id1="137549" start="44" citation_global_level_id="238.002" line="1" id="137556_2" citation_local_level_id="0" >03-9223</DOCKET>
+
+<DATE start="93" end="106" id="137556_6" >June 28, 2004</DATE>
+
+<CITATION end="214" reporter="U. S." entry_type="standard_key" lookup_key="u.s._541_1033" id1="136150" volume="541" start="200" page_number="1033" standard_reporter="U.S." citation_global_level_id="753.002" line="3" id="137556_12" citation_local_level_id="2" >541 U. S. 1033</CITATION>
+
+<RELATION theme="137556_1" includes_docket_string="03-9223" includes_docket="137556_2" theme_string="542 U.S. 946" gram_type="apposition" relation_type="asymmetric" id="137556_11" ></RELATION>
+
+<RELATION standard_case_string="542 U.S. 946" X_vs_Y_string="HURST v. DELAWARE" standard_case="137556_1" X_vs_Y="137556_3" gram_type="pre_nom" relation_type="equivalence" id="137556_7" ></RELATION>
+
+<RELATION theme="137556_3" includes_docket_string="03-9223" includes_docket="137556_2" theme_string="HURST v. DELAWARE" gram_type="apposition" relation_type="asymmetric" id="137556_10" ></RELATION>
+
+<RELATION theme="137556_3" party1="137556_4" party1_string="HURST" theme_string="HURST v. DELAWARE" gram_type="infix" relation_type="asymmetric" id="137556_8" ></RELATION>
+
+<RELATION party2="137556_5" theme="137556_3" theme_string="HURST v. DELAWARE" party2_string="DELAWARE" gram_type="infix" relation_type="asymmetric" id="137556_9" ></RELATION>
+

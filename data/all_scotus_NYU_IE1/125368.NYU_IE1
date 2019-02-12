@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['drewtexas#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1047" id1="125366" volume="537" start="0" page_number="1047" standard_reporter="U.S." citation_global_level_id="2149.002" line="1" id="125368_1" citation_local_level_id="0" >537 U.S. 1047</CITATION>
+
+<CITATION party2="TEXAS" party1="DREW" citation_global_level_id="56624.001" party2_short="TEXAS" line="1" id="125368_3" alternative_keys="['u.s._537_1047']" end="31" entry_type="party_key" lookup_key="drewtexas#1" id1="125368" start="18" party1_short="DREW" citation_local_level_id="1" >DREW v. TEXAS</CITATION>
+
+<NAME end="22" start="18" party1_of="125368_3" all_names="DREW" local_name_id="1" id="125368_4" >DREW</NAME>
+
+<NAME end="31" start="26" all_names="TEXAS" party2_of="125368_3" local_name_id="2" id="125368_5" >TEXAS</NAME>
+
+<DOCKET end="47" entry_type="docket" lookup_key="u.s._537_1047" id1="125366" start="41" citation_global_level_id="2149.002" line="1" id="125368_2" citation_local_level_id="0" >02-499</DOCKET>
+
+<DATE start="89" end="105" id="125368_6" >December 2, 2002</DATE>
+
+<NAME start="218" local_name_id="3" end="220" id="125368_13" all_names="CT" >Ct</NAME>
+
+<CITATION end="294" reporter="S. W. 3d" entry_type="standard_key" no_current_file="True" lookup_key="s.w.3d_76_436" id1="Dummy_File_28148" volume="76" start="279" page_number="436" standard_reporter="S.W.3D" citation_global_level_id="91998.001" line="3" id="125368_12" citation_local_level_id="2" >76 S. W. 3d 436</CITATION>
+
+<RELATION theme="125368_1" includes_docket_string="02-499" includes_docket="125368_2" theme_string="537 U.S. 1047" gram_type="apposition" relation_type="asymmetric" id="125368_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1047" X_vs_Y_string="DREW v. TEXAS" standard_case="125368_1" X_vs_Y="125368_3" gram_type="pre_nom" relation_type="equivalence" id="125368_7" ></RELATION>
+
+<RELATION theme="125368_3" includes_docket_string="02-499" includes_docket="125368_2" theme_string="DREW v. TEXAS" gram_type="apposition" relation_type="asymmetric" id="125368_10" ></RELATION>
+
+<RELATION theme="125368_3" party1="125368_4" party1_string="DREW" theme_string="DREW v. TEXAS" gram_type="infix" relation_type="asymmetric" id="125368_8" ></RELATION>
+
+<RELATION party2="125368_5" theme="125368_3" theme_string="DREW v. TEXAS" party2_string="TEXAS" gram_type="infix" relation_type="asymmetric" id="125368_9" ></RELATION>
+

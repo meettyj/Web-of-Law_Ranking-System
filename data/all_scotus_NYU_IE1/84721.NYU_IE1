@@ -1,0 +1,54 @@
+<CITATION alternative_keys="['wagonersame#1', 'beissellsholl#1', 'dall_4_211']" end="18" reporter="U.S." entry_type="standard_key" lookup_key="u.s._4_211" id1="84721" volume="4" start="1" page_number="211" standard_reporter="U.S." citation_global_level_id="36300.002" line="2" id="84721_1" citation_local_level_id="0" >4 U.S. 211 (____)</CITATION>
+
+<CITATION alternative_keys="['u.s._4_211', 'wagonersame#1', 'beissellsholl#1']" end="30" reporter="Dall" entry_type="standard_key" lookup_key="dall_4_211" id1="84721" volume="4" start="19" page_number="211" standard_reporter="DALL" citation_global_level_id="36300.003" line="3" id="84721_2" citation_local_level_id="1" >4 Dall. 211</CITATION>
+
+<CITATION party2="Sholl" party1="Beissell" citation_global_level_id="36300.001" party2_short="Sholl" line="6" id="84721_4" alternative_keys="['u.s._4_211', 'dall_4_211', 'wagonersame#1']" end="54" entry_type="party_key" lookup_key="beissellsholl#1" id1="84721" start="31" party1_short="Beissell" citation_local_level_id="2" >Beissell versus Sholl</CITATION>
+
+<NAME end="39" start="31" party1_of="84721_4" all_names="BEISSELL" local_name_id="1" id="84721_5" >Beissell</NAME>
+
+<NAME end="54" start="49" all_names="SHOLL" party2_of="84721_4" local_name_id="2" id="84721_6" >Sholl</NAME>
+
+<CITATION party2="Same" party1="Wagoner" citation_global_level_id="36300.004" party2_short="Same" line="9" id="84721_10" alternative_keys="['beissellsholl#1', 'dall_4_211', 'u.s._4_211']" end="83" entry_type="party_key" lookup_key="wagonersame#1" id1="84721" start="62" party1_short="Wagoner" citation_local_level_id="3" >Wagoner versus Same</CITATION>
+
+<NAME end="69" start="62" party1_of="84721_10" all_names="WAGONER" local_name_id="3" id="84721_11" >Wagoner</NAME>
+
+<NAME end="83" start="79" all_names="SAME" party2_of="84721_10" local_name_id="4" id="84721_12" >Same</NAME>
+
+<ORGANIZATION start="85" end="115" id="84721_15" >Supreme Court of United States</ORGANIZATION>
+
+<NAME start="118" local_name_id="5" end="122" id="84721_20" all_names="CASE" >CASE</NAME>
+
+<ORGANIZATION start="158" end="163" id="84721_21" >COURT</ORGANIZATION>
+
+<PROFESSION start="203" end="210" id="84721_22" >general</PROFESSION>
+
+<NAME start="602" local_name_id="6" end="607" id="84721_23" all_names="NOTES" >NOTES</NAME>
+
+<NAME start="615" local_name_id="7" end="620" id="84721_25" all_names="TRIED" >Tried</NAME>
+
+<ORGANIZATION start="628" end="641" id="84721_26" >Circuit Court</ORGANIZATION>
+
+<NAME start="643" local_name_id="8" end="654" id="84721_27" all_names="NORTHAMPTON" >Northampton</NAME>
+
+<DATE start="663" end="672" id="84721_24" >June 1800</DATE>
+
+<NAME start="681" local_name_id="9" end="688" id="84721_28" all_names="SHIPPEN" >SHIPPEN</NAME>
+
+<NAME start="690" local_name_id="10" end="705" id="84721_29" all_names="CJ AND YEATES" >C.J. and YEATES</NAME>
+
+<RELATION theme="84721_4" party1="84721_5" party1_string="Beissell" theme_string="Beissell  versus  Sholl" gram_type="infix" relation_type="asymmetric" id="84721_7" ></RELATION>
+
+<RELATION party2="84721_6" theme="84721_4" theme_string="Beissell  versus  Sholl" party2_string="Sholl" gram_type="infix" relation_type="asymmetric" id="84721_8" ></RELATION>
+
+<RELATION theme="84721_10" party1="84721_11" party1_string="Wagoner" theme_string="Wagoner  versus  Same" gram_type="infix" relation_type="asymmetric" id="84721_13" ></RELATION>
+
+<RELATION party2="84721_12" theme="84721_10" theme_string="Wagoner  versus  Same" party2_string="Same" gram_type="infix" relation_type="asymmetric" id="84721_14" ></RELATION>
+
+<RELATION standard_case_string="4 U.S. 211 (____)" X_vs_Y_string="Wagoner  versus  Same" standard_case="84721_1" X_vs_Y="84721_10" gram_type="multi_line" relation_type="equivalence" id="84721_18" ></RELATION>
+
+<RELATION standard_case_string="4 U.S. 211 (____)" X_vs_Y_string="Beissell  versus  Sholl" standard_case="84721_1" X_vs_Y="84721_4" gram_type="multi_line" relation_type="equivalence" id="84721_16" ></RELATION>
+
+<RELATION standard_case_string="4 Dall. 211" X_vs_Y_string="Wagoner  versus  Same" standard_case="84721_2" X_vs_Y="84721_10" gram_type="multi_line" relation_type="equivalence" id="84721_19" ></RELATION>
+
+<RELATION standard_case_string="4 Dall. 211" X_vs_Y_string="Beissell  versus  Sholl" standard_case="84721_2" X_vs_Y="84721_4" gram_type="multi_line" relation_type="equivalence" id="84721_17" ></RELATION>
+

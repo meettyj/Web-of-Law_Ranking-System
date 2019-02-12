@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['mooreindiana#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1014" id1="129375" volume="538" start="0" page_number="1014" standard_reporter="U.S." citation_global_level_id="8980.002" line="1" id="129377_1" citation_local_level_id="0" >538 U.S. 1014</CITATION>
+
+<CITATION party2="INDIANA" party1="MOORE" citation_global_level_id="46038.001" party2_short="INDIANA" line="1" id="129377_3" alternative_keys="['u.s._538_1014']" end="34" entry_type="party_key" lookup_key="mooreindiana#1" id1="129377" start="18" party1_short="MOORE" citation_local_level_id="1" >MOORE v. INDIANA</CITATION>
+
+<NAME end="23" start="18" party1_of="129377_3" all_names="MOORE" local_name_id="1" id="129377_4" >MOORE</NAME>
+
+<NAME end="34" start="27" all_names="INDIANA" party2_of="129377_3" local_name_id="2" id="129377_5" >INDIANA</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="u.s._538_1014" id1="129375" start="44" citation_global_level_id="8980.002" line="1" id="129377_2" citation_local_level_id="0" >02-9254</DOCKET>
+
+<DATE start="93" end="104" id="129377_6" >May 5, 2003</DATE>
+
+<NAME start="195" local_name_id="3" end="198" id="129377_13" all_names="SUP" >Sup</NAME>
+
+<CITATION end="259" reporter="N. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.e.2d_771_46" id1="Dummy_File_236961" volume="771" start="244" page_number="46" standard_reporter="N.E.2D" citation_global_level_id="300811.001" line="3" id="129377_12" citation_local_level_id="2" >771 N. E. 2d 46</CITATION>
+
+<RELATION theme="129377_1" includes_docket_string="02-9254" includes_docket="129377_2" theme_string="538 U.S. 1014" gram_type="apposition" relation_type="asymmetric" id="129377_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1014" X_vs_Y_string="MOORE v. INDIANA" standard_case="129377_1" X_vs_Y="129377_3" gram_type="pre_nom" relation_type="equivalence" id="129377_7" ></RELATION>
+
+<RELATION theme="129377_3" includes_docket_string="02-9254" includes_docket="129377_2" theme_string="MOORE v. INDIANA" gram_type="apposition" relation_type="asymmetric" id="129377_10" ></RELATION>
+
+<RELATION theme="129377_3" party1="129377_4" party1_string="MOORE" theme_string="MOORE v. INDIANA" gram_type="infix" relation_type="asymmetric" id="129377_8" ></RELATION>
+
+<RELATION party2="129377_5" theme="129377_3" theme_string="MOORE v. INDIANA" party2_string="INDIANA" gram_type="infix" relation_type="asymmetric" id="129377_9" ></RELATION>
+

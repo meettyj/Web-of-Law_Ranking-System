@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['cruzstates#9']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_1013" id1="144352" volume="544" start="0" page_number="1013" standard_reporter="U.S." citation_global_level_id="16524.002" line="1" id="144357_1" citation_local_level_id="0" >544 U.S. 1013</CITATION>
+
+<CITATION party2="UNITED STATES" party1="CRUZ" citation_global_level_id="26079.001" party2_short="STATES" line="2" id="144357_2" alternative_keys="['u.s._544_1013']" end="39" entry_type="party_key" lookup_key="cruzstates#9" id1="130580" start="18" party1_short="CRUZ" citation_local_level_id="1" >CRUZ v. UNITED STATES</CITATION>
+
+<NAME end="22" start="18" party1_of="144357_2" all_names="CRUZ" local_name_id="1" id="144357_3" >CRUZ</NAME>
+
+<NAME end="39" start="26" all_names="UNITED STATES" party2_of="144357_2" local_name_id="2" id="144357_4" >UNITED STATES</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="cruzstates#9" id1="130580" start="49" citation_global_level_id="26079.001" line="3" id="144357_7" citation_local_level_id="1" >04-7904</DOCKET>
+
+<ORGANIZATION start="62" end="92" id="144357_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="98" citation_global_level_id="26079.001" end="109" id="144357_9" citation_local_level_id="1" >May 2, 2005</DATE>
+
+<NAME start="141" local_name_id="3" end="144" id="144357_14" all_names="CIR" >Cir</NAME>
+
+<CITATION end="175" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_388_150" id1="Dummy_File_224272" volume="388" start="162" page_number="150" standard_reporter="F.3D" citation_global_level_id="288122.001" line="8" id="144357_13" citation_local_level_id="2" >388 F. 3d 150</CITATION>
+
+<RELATION theme="144357_2" party1="144357_3" party1_string="CRUZ" theme_string="CRUZ v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="144357_5" ></RELATION>
+
+<RELATION party2="144357_4" theme="144357_2" theme_string="CRUZ v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="144357_6" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 1013" X_vs_Y_string="CRUZ v. UNITED STATES" standard_case="144357_1" X_vs_Y="144357_2" gram_type="multi_line" relation_type="equivalence" id="144357_10" ></RELATION>
+
+<RELATION at_date_string="May 2, 2005" theme="144357_2" at_date="144357_9" theme_string="CRUZ v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="144357_12" ></RELATION>
+
+<RELATION theme="144357_2" includes_docket_string="04-7904" includes_docket="144357_7" theme_string="CRUZ v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="144357_11" ></RELATION>
+

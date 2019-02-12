@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['busanetpennsylvania#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_869" id1="132041" volume="540" start="0" page_number="869" standard_reporter="U.S." citation_global_level_id="3947.002" line="1" id="132037_1" citation_local_level_id="0" >540 U.S. 869</CITATION>
+
+<CITATION party2="PENNSYLVANIA" party1="BUSANET" citation_global_level_id="14759.001" party2_short="PENNSYLVANIA" line="1" id="132037_3" alternative_keys="['u.s._540_869']" end="40" entry_type="party_key" lookup_key="busanetpennsylvania#1" id1="132037" start="17" party1_short="BUSANET" citation_local_level_id="1" >BUSANET v. PENNSYLVANIA</CITATION>
+
+<NAME end="24" start="17" party1_of="132037_3" all_names="BUSANET" local_name_id="1" id="132037_4" >BUSANET</NAME>
+
+<NAME end="40" start="28" all_names="PENNSYLVANIA" party2_of="132037_3" local_name_id="2" id="132037_5" >PENNSYLVANIA</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._540_869" id1="132041" start="50" citation_global_level_id="3947.002" line="1" id="132037_2" citation_local_level_id="0" >02-11336</DOCKET>
+
+<DATE start="100" end="115" id="132037_6" >October 6, 2003</DATE>
+
+<NAME start="191" local_name_id="3" end="201" id="132037_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="253" reporter="A. 2d" entry_type="standard_key" no_current_file="True" lookup_key="a.2d_817_1060" id1="Dummy_File_216897" volume="817" start="239" page_number="1060" standard_reporter="A.2D" citation_global_level_id="280747.001" line="3" id="132037_12" citation_local_level_id="2" >817 A. 2d 1060</CITATION>
+
+<RELATION theme="132037_1" includes_docket_string="02-11336" includes_docket="132037_2" theme_string="540 U.S. 869" gram_type="apposition" relation_type="asymmetric" id="132037_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 869" X_vs_Y_string="BUSANET v. PENNSYLVANIA" standard_case="132037_1" X_vs_Y="132037_3" gram_type="pre_nom" relation_type="equivalence" id="132037_7" ></RELATION>
+
+<RELATION theme="132037_3" includes_docket_string="02-11336" includes_docket="132037_2" theme_string="BUSANET v. PENNSYLVANIA" gram_type="apposition" relation_type="asymmetric" id="132037_10" ></RELATION>
+
+<RELATION theme="132037_3" party1="132037_4" party1_string="BUSANET" theme_string="BUSANET v. PENNSYLVANIA" gram_type="infix" relation_type="asymmetric" id="132037_8" ></RELATION>
+
+<RELATION party2="132037_5" theme="132037_3" theme_string="BUSANET v. PENNSYLVANIA" party2_string="PENNSYLVANIA" gram_type="infix" relation_type="asymmetric" id="132037_9" ></RELATION>
+

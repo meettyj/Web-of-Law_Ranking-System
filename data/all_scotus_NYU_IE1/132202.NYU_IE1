@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['crawfordstates#9']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_881" id1="132200" volume="540" start="0" page_number="881" standard_reporter="U.S." citation_global_level_id="978.002" line="1" id="132202_1" citation_local_level_id="0" >540 U.S. 881</CITATION>
+
+<CITATION party2="UNITED STATES" party1="CRAWFORD" citation_global_level_id="38459.001" party2_short="STATES" line="1" id="132202_3" alternative_keys="['u.s._540_881']" end="42" entry_type="party_key" lookup_key="crawfordstates#9" id1="118934" start="17" party1_short="CRAWFORD" citation_local_level_id="1" >CRAWFORD v. UNITED STATES</CITATION>
+
+<NAME end="25" start="17" party1_of="132202_3" all_names="CRAWFORD" local_name_id="1" id="132202_4" >CRAWFORD</NAME>
+
+<NAME end="42" start="29" all_names="UNITED STATES" party2_of="132202_3" local_name_id="2" id="132202_5" >UNITED STATES</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="u.s._540_881" id1="132200" start="52" citation_global_level_id="978.002" line="1" id="132202_2" citation_local_level_id="0" >03-5839</DOCKET>
+
+<DATE start="101" end="116" id="132202_6" >October 6, 2003</DATE>
+
+<NAME start="193" local_name_id="3" end="203" id="132202_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="241" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_329_131" id1="Dummy_File_140765" volume="329" start="228" page_number="131" standard_reporter="F.3D" citation_global_level_id="204615.001" line="3" id="132202_12" citation_local_level_id="2" >329 F. 3d 131</CITATION>
+
+<RELATION theme="132202_1" includes_docket_string="03-5839" includes_docket="132202_2" theme_string="540 U.S. 881" gram_type="apposition" relation_type="asymmetric" id="132202_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 881" X_vs_Y_string="CRAWFORD v. UNITED STATES" standard_case="132202_1" X_vs_Y="132202_3" gram_type="pre_nom" relation_type="equivalence" id="132202_7" ></RELATION>
+
+<RELATION theme="132202_3" includes_docket_string="03-5839" includes_docket="132202_2" theme_string="CRAWFORD v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="132202_10" ></RELATION>
+
+<RELATION theme="132202_3" party1="132202_4" party1_string="CRAWFORD" theme_string="CRAWFORD v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="132202_8" ></RELATION>
+
+<RELATION party2="132202_5" theme="132202_3" theme_string="CRAWFORD v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="132202_9" ></RELATION>
+

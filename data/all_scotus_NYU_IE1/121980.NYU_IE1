@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['lepestates#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._536_968" id1="121977" volume="536" start="0" page_number="968" standard_reporter="U.S." citation_global_level_id="683.002" line="1" id="121980_1" citation_local_level_id="0" >536 U.S. 968</CITATION>
+
+<CITATION party2="UNITED STATES" party1="GOMEZ-LEPE" citation_global_level_id="41631.001" party2_short="STATES" line="2" id="121980_2" alternative_keys="['u.s._536_968']" end="44" entry_type="party_key" lookup_key="lepestates#1" id1="121980" start="17" party1_short="LEPE" citation_local_level_id="1" >GOMEZ-LEPE v. UNITED STATES</CITATION>
+
+<NAME end="27" start="17" party1_of="121980_2" all_names="GOMEZ-LEPE" local_name_id="1" id="121980_3" >GOMEZ-LEPE</NAME>
+
+<NAME end="44" start="31" all_names="UNITED STATES" party2_of="121980_2" local_name_id="2" id="121980_4" >UNITED STATES</NAME>
+
+<DOCKET end="62" entry_type="docket" lookup_key="lepestates#1" id1="121980" start="54" citation_global_level_id="41631.001" line="3" id="121980_7" citation_local_level_id="1" >01-10419</DOCKET>
+
+<DATE start="108" citation_global_level_id="41631.001" end="121" id="121980_8" citation_local_level_id="1" >June 28, 2002</DATE>
+
+<NAME start="153" local_name_id="3" end="156" id="121980_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="121980_2" party1="121980_3" party1_string="GOMEZ-LEPE" theme_string="GOMEZ-LEPE v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="121980_5" ></RELATION>
+
+<RELATION party2="121980_4" theme="121980_2" theme_string="GOMEZ-LEPE v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="121980_6" ></RELATION>
+
+<RELATION standard_case_string="536 U.S. 968" X_vs_Y_string="GOMEZ-LEPE v. UNITED STATES" standard_case="121980_1" X_vs_Y="121980_2" gram_type="multi_line" relation_type="equivalence" id="121980_9" ></RELATION>
+
+<RELATION at_date_string="June 28, 2002" theme="121980_2" at_date="121980_8" theme_string="GOMEZ-LEPE v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="121980_11" ></RELATION>
+
+<RELATION theme="121980_2" includes_docket_string="01-10419" includes_docket="121980_7" theme_string="GOMEZ-LEPE v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="121980_10" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['marshallstates#9']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_957" id1="114896" volume="510" start="0" page_number="957" standard_reporter="U.S." citation_global_level_id="4111.002" line="1" id="114901_1" citation_local_level_id="0" >510 U.S. 957</CITATION>
+
+<CITATION party2="United States" party1="Marshall" citation_global_level_id="47246.001" party2_short="States" line="1" id="114901_3" alternative_keys="['u.s._510_957']" end="42" entry_type="party_key" lookup_key="marshallstates#9" id1="125801" start="17" party1_short="Marshall" citation_local_level_id="1" >Marshall v. United States</CITATION>
+
+<NAME end="25" start="17" party1_of="114901_3" all_names="MARSHALL" local_name_id="1" id="114901_4" >Marshall</NAME>
+
+<NAME end="42" start="29" all_names="UNITED STATES" party2_of="114901_3" local_name_id="2" id="114901_5" >United States</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="u.s._510_957" id1="114896" start="52" citation_global_level_id="4111.002" line="1" id="114901_2" citation_local_level_id="0" >93-6140</DOCKET>
+
+<DATE start="101" end="117" id="114901_6" >November 1, 1993</DATE>
+
+<NAME start="195" local_name_id="3" end="205" id="114901_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="244" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_996_1213" id1="Dummy_File_127501" volume="996" start="230" page_number="1213" standard_reporter="F.2D" citation_global_level_id="191351.001" line="3" id="114901_12" citation_local_level_id="2" >996 F. 2d 1213</CITATION>
+
+<RELATION theme="114901_1" includes_docket_string="93-6140" includes_docket="114901_2" theme_string="510 U.S. 957" gram_type="apposition" relation_type="asymmetric" id="114901_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 957" X_vs_Y_string="Marshall v. United States" standard_case="114901_1" X_vs_Y="114901_3" gram_type="pre_nom" relation_type="equivalence" id="114901_7" ></RELATION>
+
+<RELATION theme="114901_3" includes_docket_string="93-6140" includes_docket="114901_2" theme_string="Marshall v. United States" gram_type="apposition" relation_type="asymmetric" id="114901_10" ></RELATION>
+
+<RELATION theme="114901_3" party1="114901_4" party1_string="Marshall" theme_string="Marshall v. United States" gram_type="infix" relation_type="asymmetric" id="114901_8" ></RELATION>
+
+<RELATION party2="114901_5" theme="114901_3" theme_string="Marshall v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="114901_9" ></RELATION>
+

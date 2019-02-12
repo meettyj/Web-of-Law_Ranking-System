@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['boykinmineta#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_928" id1="139408" volume="543" start="0" page_number="928" standard_reporter="U.S." citation_global_level_id="3383.002" line="1" id="139411_1" citation_local_level_id="0" >543 U.S. 928</CITATION>
+
+<CITATION party2="MINETA, SECRETARY OF TRANSPORTATION" party1="BOYKIN" citation_global_level_id="3383.005" party2_short="MINETA" line="2" id="139411_2" alternative_keys="['u.s._543_928']" end="62" entry_type="party_key" lookup_key="boykinmineta#1" id1="139408" start="17" party1_short="BOYKIN" citation_local_level_id="1" >BOYKIN v. MINETA, SECRETARY OF TRANSPORTATION</CITATION>
+
+<NAME end="23" start="17" party1_of="139411_2" all_names="BOYKIN" local_name_id="1" id="139411_3" >BOYKIN</NAME>
+
+<NAME end="62" start="27" all_names="MINETA SECRETARY OF TRANSPORTATION" party2_of="139411_2" local_name_id="2" id="139411_4" >MINETA, SECRETARY OF TRANSPORTATION</NAME>
+
+<DOCKET alternative_keys="['u.s._543_928']" end="78" entry_type="docket" lookup_key="boykinmineta#1" id1="139408" start="72" citation_global_level_id="3383.005" line="3" id="139411_7" citation_local_level_id="1" >04-365</DOCKET>
+
+<ORGANIZATION start="84" end="114" id="139411_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="120" citation_global_level_id="3383.005" end="136" id="139411_9" citation_local_level_id="1" >October 12, 2004</DATE>
+
+<NAME start="168" local_name_id="3" end="171" id="139411_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="139411_2" party1="139411_3" party1_string="BOYKIN" theme_string="BOYKIN v. MINETA, SECRETARY OF TRANSPORTATION" gram_type="infix" relation_type="asymmetric" id="139411_5" ></RELATION>
+
+<RELATION party2="139411_4" theme="139411_2" theme_string="BOYKIN v. MINETA, SECRETARY OF TRANSPORTATION" party2_string="MINETA, SECRETARY OF TRANSPORTATION" gram_type="infix" relation_type="asymmetric" id="139411_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 928" X_vs_Y_string="BOYKIN v. MINETA, SECRETARY OF TRANSPORTATION" standard_case="139411_1" X_vs_Y="139411_2" gram_type="multi_line" relation_type="equivalence" id="139411_10" ></RELATION>
+
+<RELATION at_date_string="October 12, 2004" theme="139411_2" at_date="139411_9" theme_string="BOYKIN v. MINETA, SECRETARY OF TRANSPORTATION" gram_type="multi_line" relation_type="asymmetric" id="139411_12" ></RELATION>
+
+<RELATION theme="139411_2" includes_docket_string="04-365" includes_docket="139411_7" theme_string="BOYKIN v. MINETA, SECRETARY OF TRANSPORTATION" gram_type="multi_line" relation_type="asymmetric" id="139411_11" ></RELATION>
+

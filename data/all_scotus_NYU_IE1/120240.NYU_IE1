@@ -1,0 +1,38 @@
+<CITATION alternative_keys="['kellytown#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1052" id1="120244" volume="535" start="0" page_number="1052" standard_reporter="U.S." citation_global_level_id="377.002" line="1" id="120240_1" citation_local_level_id="0" >535 U.S. 1052</CITATION>
+
+<CITATION party2="TOWN OF CHELMSFORD" party1="KELLY" citation_global_level_id="38962.001" party2_short="TOWN" line="2" id="120240_2" alternative_keys="['u.s._535_1052']" end="45" entry_type="party_key" lookup_key="kellytown#2" id1="121914" start="18" party1_short="KELLY" citation_local_level_id="1" >KELLY v. TOWN OF CHELMSFORD</CITATION>
+
+<NAME end="23" start="18" party1_of="120240_2" all_names="KELLY" local_name_id="1" id="120240_3" >KELLY</NAME>
+
+<NAME end="45" start="27" all_names="TOWN OF CHELMSFORD" party2_of="120240_2" local_name_id="2" id="120240_4" >TOWN OF CHELMSFORD</NAME>
+
+<DOCKET end="62" entry_type="docket" lookup_key="kellytown#2" id1="121914" start="55" citation_global_level_id="38962.001" line="3" id="120240_7" citation_local_level_id="1" >01-8895</DOCKET>
+
+<DATE start="108" citation_global_level_id="38962.001" end="120" id="120240_8" citation_local_level_id="1" >May 13, 2002</DATE>
+
+<NAME start="142" local_name_id="3" end="155" id="120240_13" all_names="C A 1ST CIR" >C. A. 1st Cir</NAME>
+
+<LEGAL_ROLE start="157" local_name_id="3" end="181" id="120240_14" name="C. A. 1st Cir" >Motion of petitioner for</LEGAL_ROLE>
+
+<LEGAL_ROLE start="225" end="235" id="120240_15" >Petitioner</LEGAL_ROLE>
+
+<DATE start="253" end="265" id="120240_12" >June 3, 2002</DATE>
+
+<NAME start="317" local_name_id="4" end="321" id="120240_16" all_names="RULE" >Rule</NAME>
+
+<NAME start="372" local_name_id="5" end="394" id="120240_17" all_names="RULE 331 OF THE RULES" >Rule 33.1 of the Rules</NAME>
+
+<ORGANIZATION start="403" end="408" id="120240_18" >Court</ORGANIZATION>
+
+<RELATION theme="120240_2" party1="120240_3" party1_string="KELLY" theme_string="KELLY v. TOWN OF CHELMSFORD" gram_type="infix" relation_type="asymmetric" id="120240_5" ></RELATION>
+
+<RELATION party2="120240_4" theme="120240_2" theme_string="KELLY v. TOWN OF CHELMSFORD" party2_string="TOWN OF CHELMSFORD" gram_type="infix" relation_type="asymmetric" id="120240_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1052" X_vs_Y_string="KELLY v. TOWN OF CHELMSFORD" standard_case="120240_1" X_vs_Y="120240_2" gram_type="multi_line" relation_type="equivalence" id="120240_9" ></RELATION>
+
+<RELATION at_date_string="May 13, 2002" theme="120240_2" at_date="120240_8" theme_string="KELLY v. TOWN OF CHELMSFORD" gram_type="multi_line" relation_type="asymmetric" id="120240_11" ></RELATION>
+
+<RELATION theme="120240_2" includes_docket_string="01-8895" includes_docket="120240_7" theme_string="KELLY v. TOWN OF CHELMSFORD" gram_type="multi_line" relation_type="asymmetric" id="120240_10" ></RELATION>
+
+<RELATION theme="120240_13" legal_role="120240_14" id="120240_19" theme_string="C. A. 1st Cir" gram_type="apposition" relation_type="asymmetric" legal_role_string="Motion of petitioner for" ></RELATION>
+

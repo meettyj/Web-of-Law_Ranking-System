@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['jeffersondepartment#2', 'taylorproperties#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_984" id1="119440" volume="535" start="0" page_number="984" standard_reporter="U.S." citation_global_level_id="42360.002" line="1" id="119438_1" citation_local_level_id="0" >535 U.S. 984</CITATION>
+
+<CITATION party2="GOLDEN AGE PROPERTIES ET AL" party1="TAYLOR" citation_global_level_id="42360.005" party2_short="PROPERTIES" line="2" id="119438_2" alternative_keys="['jeffersondepartment#2', 'u.s._535_984']" end="54" entry_type="party_key" lookup_key="taylorproperties#2" id1="119440" start="17" party1_short="TAYLOR" citation_local_level_id="1" >TAYLOR v. GOLDEN AGE PROPERTIES ET AL</CITATION>
+
+<NAME end="23" start="17" party1_of="119438_2" all_names="TAYLOR" local_name_id="1" id="119438_4" >TAYLOR</NAME>
+
+<NAME end="54" start="27" all_names="GOLDEN AGE PROPERTIES" party2_of="119438_2" local_name_id="2" id="119438_5" >GOLDEN AGE PROPERTIES ET AL</NAME>
+
+<CITATION party2="MISSOURI DEPARTMENT OF SOCIAL SERVICES" party1="JEFFERSON" citation_global_level_id="42360.004" party2_short="DEPARTMENT" line="2" id="119438_3" alternative_keys="['taylorproperties#2', 'u.s._535_984']" end="111" entry_type="party_key" lookup_key="jeffersondepartment#2" id1="119440" start="60" party1_short="JEFFERSON" citation_local_level_id="2" >JEFFERSON v. MISSOURI DEPARTMENT OF SOCIAL SERVICES</CITATION>
+
+<NAME end="69" start="60" party1_of="119438_3" all_names="JEFFERSON" local_name_id="3" id="119438_6" >JEFFERSON</NAME>
+
+<NAME end="111" start="73" all_names="MISSOURI DEPARTMENT OF SOCIAL SERVICES" party2_of="119438_3" local_name_id="4" id="119438_7" >MISSOURI DEPARTMENT OF SOCIAL SERVICES</NAME>
+
+<DATE start="187" end="201" id="119438_14" >April 15, 2002</DATE>
+
+<NAME start="223" local_name_id="5" end="230" id="119438_15" all_names="MOTIONS" >Motions</NAME>
+
+<PROFESSION start="245" end="250" id="119438_16" >Clerk</PROFESSION>
+
+<RELATION theme="119438_2" party1="119438_4" party1_string="TAYLOR" theme_string="TAYLOR v. GOLDEN AGE PROPERTIES ET AL" gram_type="infix" relation_type="asymmetric" id="119438_8" ></RELATION>
+
+<RELATION party2="119438_5" theme="119438_2" theme_string="TAYLOR v. GOLDEN AGE PROPERTIES ET AL" party2_string="GOLDEN AGE PROPERTIES ET AL" gram_type="infix" relation_type="asymmetric" id="119438_9" ></RELATION>
+
+<RELATION theme="119438_3" party1="119438_6" party1_string="JEFFERSON" theme_string="JEFFERSON v. MISSOURI DEPARTMENT OF SOCIAL SERVICES" gram_type="infix" relation_type="asymmetric" id="119438_10" ></RELATION>
+
+<RELATION party2="119438_7" theme="119438_3" theme_string="JEFFERSON v. MISSOURI DEPARTMENT OF SOCIAL SERVICES" party2_string="MISSOURI DEPARTMENT OF SOCIAL SERVICES" gram_type="infix" relation_type="asymmetric" id="119438_11" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 984" X_vs_Y_string="JEFFERSON v. MISSOURI DEPARTMENT OF SOCIAL SERVICES" standard_case="119438_1" X_vs_Y="119438_3" gram_type="multi_line" relation_type="equivalence" id="119438_13" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 984" X_vs_Y_string="TAYLOR v. GOLDEN AGE PROPERTIES ET AL" standard_case="119438_1" X_vs_Y="119438_2" gram_type="multi_line" relation_type="equivalence" id="119438_12" ></RELATION>
+

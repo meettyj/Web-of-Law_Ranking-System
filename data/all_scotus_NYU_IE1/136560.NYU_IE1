@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['byrdservices#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_1064" id1="136553" volume="541" start="0" page_number="1064" standard_reporter="U.S." citation_global_level_id="5731.002" line="1" id="136560_1" citation_local_level_id="0" >541 U.S. 1064</CITATION>
+
+<CITATION party2="NORTH CAROLINA STATE UNIVERSITY, UNIVERSITY TEMPORARY SERVICES" party1="BYRD" citation_global_level_id="5731.005" party2_short="SERVICES" line="2" id="136560_2" alternative_keys="['u.s._541_1064']" end="88" entry_type="party_key" lookup_key="byrdservices#1" id1="136553" start="18" party1_short="BYRD" citation_local_level_id="1" >BYRD v. NORTH CAROLINA STATE UNIVERSITY, UNIVERSITY TEMPORARY SERVICES</CITATION>
+
+<NAME end="22" start="18" party1_of="136560_2" all_names="BYRD" local_name_id="1" id="136560_3" >BYRD</NAME>
+
+<NAME end="88" start="26" all_names="NORTH CAROLINA STATE UNIVERSITY UNIVERSITY TEMPORARY SERVICES" party2_of="136560_2" local_name_id="2" id="136560_4" >NORTH CAROLINA STATE UNIVERSITY, UNIVERSITY TEMPORARY SERVICES</NAME>
+
+<DOCKET alternative_keys="['u.s._541_1064']" end="105" entry_type="docket" lookup_key="byrdservices#1" id1="136553" start="98" citation_global_level_id="5731.005" line="3" id="136560_7" citation_local_level_id="1" >03-7223</DOCKET>
+
+<ORGANIZATION start="111" end="141" id="136560_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="147" citation_global_level_id="5731.005" end="159" id="136560_9" citation_local_level_id="1" >May 24, 2004</DATE>
+
+<NAME start="191" local_name_id="3" end="194" id="136560_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="136560_2" party1="136560_3" party1_string="BYRD" theme_string="BYRD v. NORTH CAROLINA STATE UNIVERSITY, UNIVERSITY TEMPORARY SERVICES" gram_type="infix" relation_type="asymmetric" id="136560_5" ></RELATION>
+
+<RELATION party2="136560_4" theme="136560_2" theme_string="BYRD v. NORTH CAROLINA STATE UNIVERSITY, UNIVERSITY TEMPORARY SERVICES" party2_string="NORTH CAROLINA STATE UNIVERSITY, UNIVERSITY TEMPORARY SERVICES" gram_type="infix" relation_type="asymmetric" id="136560_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 1064" X_vs_Y_string="BYRD v. NORTH CAROLINA STATE UNIVERSITY, UNIVERSITY TEMPORARY SERVICES" standard_case="136560_1" X_vs_Y="136560_2" gram_type="multi_line" relation_type="equivalence" id="136560_10" ></RELATION>
+
+<RELATION at_date_string="May 24, 2004" theme="136560_2" at_date="136560_9" theme_string="BYRD v. NORTH CAROLINA STATE UNIVERSITY, UNIVERSITY TEMPORARY SERVICES" gram_type="multi_line" relation_type="asymmetric" id="136560_12" ></RELATION>
+
+<RELATION theme="136560_2" includes_docket_string="03-7223" includes_docket="136560_7" theme_string="BYRD v. NORTH CAROLINA STATE UNIVERSITY, UNIVERSITY TEMPORARY SERVICES" gram_type="multi_line" relation_type="asymmetric" id="136560_11" ></RELATION>
+

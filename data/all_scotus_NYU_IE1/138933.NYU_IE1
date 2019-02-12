@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['jacksonvirginia#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_891" id1="138938" volume="543" start="0" page_number="891" standard_reporter="U.S." citation_global_level_id="709.002" line="1" id="138933_1" citation_local_level_id="0" >543 U.S. 891</CITATION>
+
+<CITATION party2="VIRGINIA" party1="JACKSON" citation_global_level_id="27906.001" party2_short="VIRGINIA" line="2" id="138933_3" alternative_keys="['u.s._543_891']" end="36" entry_type="party_key" lookup_key="jacksonvirginia#2" id1="138933" start="17" party1_short="JACKSON" citation_local_level_id="1" >JACKSON v. VIRGINIA</CITATION>
+
+<NAME end="24" start="17" party1_of="138933_3" all_names="JACKSON" local_name_id="1" id="138933_4" >JACKSON</NAME>
+
+<NAME end="36" start="28" all_names="VIRGINIA" party2_of="138933_3" local_name_id="2" id="138933_5" >VIRGINIA</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="jacksonvirginia#2" id1="138933" start="46" citation_global_level_id="27906.001" line="2" id="138933_2" citation_local_level_id="1" >04-5279</DOCKET>
+
+<ORGANIZATION start="59" end="89" id="138933_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="95" citation_global_level_id="27906.001" end="110" id="138933_10" citation_local_level_id="1" >October 4, 2004</DATE>
+
+<NAME start="132" local_name_id="3" end="135" id="138933_15" all_names="SUP" >Sup</NAME>
+
+<CITATION end="191" reporter="Va." entry_type="standard_key" no_current_file="True" lookup_key="va._267_178" id1="Dummy_File_58589" volume="267" start="180" page_number="178" standard_reporter="VA." citation_global_level_id="122439.001" line="7" id="138933_13" citation_local_level_id="2" >267 Va. 178</CITATION>
+
+<CITATION end="209" reporter="S. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="s.e.2d_590_520" id1="Dummy_File_58590" volume="590" start="193" page_number="520" standard_reporter="S.E.2D" citation_global_level_id="122440.001" line="7" id="138933_14" citation_local_level_id="3" >590 S. E. 2d 520</CITATION>
+
+<RELATION theme="138933_3" includes_docket_string="04-5279" includes_docket="138933_2" theme_string="JACKSON v. VIRGINIA" gram_type="apposition" relation_type="asymmetric" id="138933_8" ></RELATION>
+
+<RELATION theme="138933_3" party1="138933_4" party1_string="JACKSON" theme_string="JACKSON v. VIRGINIA" gram_type="infix" relation_type="asymmetric" id="138933_6" ></RELATION>
+
+<RELATION party2="138933_5" theme="138933_3" theme_string="JACKSON v. VIRGINIA" party2_string="VIRGINIA" gram_type="infix" relation_type="asymmetric" id="138933_7" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 891" X_vs_Y_string="JACKSON v. VIRGINIA" standard_case="138933_1" X_vs_Y="138933_3" gram_type="multi_line" relation_type="equivalence" id="138933_11" ></RELATION>
+
+<RELATION at_date_string="October 4, 2004" theme="138933_3" at_date="138933_10" theme_string="JACKSON v. VIRGINIA" gram_type="multi_line" relation_type="asymmetric" id="138933_12" ></RELATION>
+

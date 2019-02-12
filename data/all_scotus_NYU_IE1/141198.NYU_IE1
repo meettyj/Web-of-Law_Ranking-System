@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['mageelavan#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1069" id1="141196" volume="543" start="0" page_number="1069" standard_reporter="U.S." citation_global_level_id="2151.002" line="1" id="141198_1" citation_local_level_id="0" >543 U.S. 1069</CITATION>
+
+<CITATION party2="LAVAN, SUPERINTENDENT, STATE CORRECTIONAL INSTITUTION AT DALLAS, ET AL" party1="MAGEE" citation_global_level_id="2151.006" party2_short="LAVAN" line="2" id="141198_2" alternative_keys="['u.s._543_1069']" end="97" entry_type="party_key" lookup_key="mageelavan#1" id1="141196" start="18" party1_short="MAGEE" citation_local_level_id="1" >MAGEE v. LAVAN, SUPERINTENDENT, STATE CORRECTIONAL INSTITUTION AT DALLAS, ET AL</CITATION>
+
+<NAME end="23" start="18" party1_of="141198_2" all_names="MAGEE" local_name_id="1" id="141198_3" >MAGEE</NAME>
+
+<NAME end="97" start="27" all_names="LAVAN SUPERINTENDENT STATE CORRECTIONAL INSTITUTION AT DALLAS" party2_of="141198_2" local_name_id="2" id="141198_4" >LAVAN, SUPERINTENDENT, STATE CORRECTIONAL INSTITUTION AT DALLAS, ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._543_1069']" end="114" entry_type="docket" lookup_key="mageelavan#1" id1="141196" start="107" citation_global_level_id="2151.006" line="3" id="141198_7" citation_local_level_id="1" >04-7150</DOCKET>
+
+<ORGANIZATION start="120" end="150" id="141198_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="156" citation_global_level_id="2151.006" end="172" id="141198_9" citation_local_level_id="1" >January 10, 2005</DATE>
+
+<NAME start="203" local_name_id="3" end="206" id="141198_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="141198_2" party1="141198_3" party1_string="MAGEE" theme_string="MAGEE v. LAVAN, SUPERINTENDENT, STATE CORRECTIONAL INSTITUTION AT DALLAS, ET AL" gram_type="infix" relation_type="asymmetric" id="141198_5" ></RELATION>
+
+<RELATION party2="141198_4" theme="141198_2" theme_string="MAGEE v. LAVAN, SUPERINTENDENT, STATE CORRECTIONAL INSTITUTION AT DALLAS, ET AL" party2_string="LAVAN, SUPERINTENDENT, STATE CORRECTIONAL INSTITUTION AT DALLAS, ET AL" gram_type="infix" relation_type="asymmetric" id="141198_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1069" X_vs_Y_string="MAGEE v. LAVAN, SUPERINTENDENT, STATE CORRECTIONAL INSTITUTION AT DALLAS, ET AL" standard_case="141198_1" X_vs_Y="141198_2" gram_type="multi_line" relation_type="equivalence" id="141198_10" ></RELATION>
+
+<RELATION at_date_string="January 10, 2005" theme="141198_2" at_date="141198_9" theme_string="MAGEE v. LAVAN, SUPERINTENDENT, STATE CORRECTIONAL INSTITUTION AT DALLAS, ET AL" gram_type="multi_line" relation_type="asymmetric" id="141198_12" ></RELATION>
+
+<RELATION theme="141198_2" includes_docket_string="04-7150" includes_docket="141198_7" theme_string="MAGEE v. LAVAN, SUPERINTENDENT, STATE CORRECTIONAL INSTITUTION AT DALLAS, ET AL" gram_type="multi_line" relation_type="asymmetric" id="141198_11" ></RELATION>
+

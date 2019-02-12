@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['klingensteinmaryland#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_918" id1="114395" volume="510" start="0" page_number="918" standard_reporter="U.S." citation_global_level_id="802.002" line="1" id="114404_1" citation_local_level_id="0" >510 U.S. 918</CITATION>
+
+<CITATION party2="Maryland" party1="Klingenstein" citation_global_level_id="51819.001" party2_short="Maryland" line="1" id="114404_3" alternative_keys="['u.s._510_918']" end="41" entry_type="party_key" lookup_key="klingensteinmaryland#1" id1="114404" start="17" party1_short="Klingenstein" citation_local_level_id="1" >Klingenstein v. Maryland</CITATION>
+
+<NAME end="29" start="17" party1_of="114404_3" all_names="KLINGENSTEIN" local_name_id="1" id="114404_4" >Klingenstein</NAME>
+
+<NAME end="41" start="33" all_names="MARYLAND" party2_of="114404_3" local_name_id="2" id="114404_5" >Maryland</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._510_918" id1="114395" start="51" citation_global_level_id="802.002" line="1" id="114404_2" citation_local_level_id="0" >93-396</DOCKET>
+
+<DATE start="99" end="115" id="114404_6" >October 12, 1993</DATE>
+
+<NAME start="191" local_name_id="3" end="201" id="114404_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="237" reporter="Md." entry_type="standard_key" no_current_file="True" lookup_key="md._330_402" id1="Dummy_File_228865" volume="330" start="226" page_number="402" standard_reporter="MD." citation_global_level_id="292715.001" line="3" id="114404_12" citation_local_level_id="2" >330 Md. 402</CITATION>
+
+<CITATION end="252" reporter="A. 2d" entry_type="standard_key" no_current_file="True" lookup_key="a.2d_624_532" id1="Dummy_File_228866" volume="624" start="239" page_number="532" standard_reporter="A.2D" citation_global_level_id="292716.001" line="3" id="114404_13" citation_local_level_id="3" >624 A. 2d 532</CITATION>
+
+<RELATION theme="114404_1" includes_docket_string="93-396" includes_docket="114404_2" theme_string="510 U.S. 918" gram_type="apposition" relation_type="asymmetric" id="114404_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 918" X_vs_Y_string="Klingenstein v. Maryland" standard_case="114404_1" X_vs_Y="114404_3" gram_type="pre_nom" relation_type="equivalence" id="114404_7" ></RELATION>
+
+<RELATION theme="114404_3" includes_docket_string="93-396" includes_docket="114404_2" theme_string="Klingenstein v. Maryland" gram_type="apposition" relation_type="asymmetric" id="114404_10" ></RELATION>
+
+<RELATION theme="114404_3" party1="114404_4" party1_string="Klingenstein" theme_string="Klingenstein v. Maryland" gram_type="infix" relation_type="asymmetric" id="114404_8" ></RELATION>
+
+<RELATION party2="114404_5" theme="114404_3" theme_string="Klingenstein v. Maryland" party2_string="Maryland" gram_type="infix" relation_type="asymmetric" id="114404_9" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['leevirginia#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_1053" id1="144891" volume="544" start="0" page_number="1053" standard_reporter="U.S." citation_global_level_id="340.002" line="1" id="144894_1" citation_local_level_id="0" >544 U.S. 1053</CITATION>
+
+<CITATION party2="VIRGINIA" party1="LEE" citation_global_level_id="32317.001" party2_short="VIRGINIA" line="2" id="144894_3" alternative_keys="['u.s._544_1053']" end="33" entry_type="party_key" lookup_key="leevirginia#1" id1="144894" start="18" party1_short="LEE" citation_local_level_id="1" >LEE v. VIRGINIA</CITATION>
+
+<NAME end="21" start="18" party1_of="144894_3" all_names="LEE" local_name_id="1" id="144894_4" >LEE</NAME>
+
+<NAME end="33" start="25" all_names="VIRGINIA" party2_of="144894_3" local_name_id="2" id="144894_5" >VIRGINIA</NAME>
+
+<DOCKET end="50" entry_type="docket" lookup_key="leevirginia#1" id1="144894" start="43" citation_global_level_id="32317.001" line="2" id="144894_2" citation_local_level_id="1" >04-9328</DOCKET>
+
+<ORGANIZATION start="56" end="86" id="144894_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="92" citation_global_level_id="32317.001" end="104" id="144894_10" citation_local_level_id="1" >May 23, 2005</DATE>
+
+<NAME start="126" local_name_id="3" end="129" id="144894_13" all_names="SUP" >Sup</NAME>
+
+<RELATION theme="144894_3" includes_docket_string="04-9328" includes_docket="144894_2" theme_string="LEE v. VIRGINIA" gram_type="apposition" relation_type="asymmetric" id="144894_8" ></RELATION>
+
+<RELATION theme="144894_3" party1="144894_4" party1_string="LEE" theme_string="LEE v. VIRGINIA" gram_type="infix" relation_type="asymmetric" id="144894_6" ></RELATION>
+
+<RELATION party2="144894_5" theme="144894_3" theme_string="LEE v. VIRGINIA" party2_string="VIRGINIA" gram_type="infix" relation_type="asymmetric" id="144894_7" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 1053" X_vs_Y_string="LEE v. VIRGINIA" standard_case="144894_1" X_vs_Y="144894_3" gram_type="multi_line" relation_type="equivalence" id="144894_11" ></RELATION>
+
+<RELATION at_date_string="May 23, 2005" theme="144894_3" at_date="144894_10" theme_string="LEE v. VIRGINIA" gram_type="multi_line" relation_type="asymmetric" id="144894_12" ></RELATION>
+

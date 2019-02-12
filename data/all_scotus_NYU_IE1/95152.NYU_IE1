@@ -1,0 +1,34 @@
+<CITATION alternative_keys="['companycompany#36', 's.ct._20_1031', 'l.ed._44_337']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._175_724" id1="95153" volume="175" start="0" page_number="724" standard_reporter="U.S." citation_global_level_id="33790.002" line="1" id="95152_1" citation_local_level_id="0" >175 U.S. 724</CITATION>
+
+<CITATION alternative_keys="['u.s._175_724', 'companycompany#36', 'l.ed._44_337']" end="31" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._20_1031" id1="95157" volume="20" start="17" page_number="1031" standard_reporter="S.CT." citation_global_level_id="5846.003" line="2" id="95152_2" citation_local_level_id="1" >20 S. Ct. 1031</CITATION>
+
+<CITATION alternative_keys="['u.s._175_724', 's.ct._20_1031', 'companycompany#36']" end="49" reporter="L. Ed." entry_type="standard_key" lookup_key="l.ed._44_337" id1="95151" volume="44" start="36" page_number="337" standard_reporter="L.ED." citation_global_level_id="8965.004" line="3" id="95152_3" citation_local_level_id="2" >44 L. Ed. 337</CITATION>
+
+<CITATION party2="BANCROFT-WHITNEY COMPANY et al" alternative_keys="['s.ct._20_1031', 'l.ed._44_337', 'u.s._175_724']" party1="PACIFIC COAST STEAMSHIP COMPANY," end="132" party1_short="COMPANY" entry_type="party_key" party1_role="petitioner" lookup_key="companycompany#36" id1="95153" start="54" citation_global_level_id="33790.003" party2_short="COMPANY" line="4" id="95152_4" citation_local_level_id="3" >PACIFIC COAST STEAMSHIP COMPANY, Petitioner, v. BANCROFT-WHITNEY COMPANY et al</CITATION>
+
+<NAME end="86" start="54" party1_of="95152_4" all_names="PACIFIC COAST STEAMSHIP COMPANY" local_name_id="1" id="95152_5" >PACIFIC COAST STEAMSHIP COMPANY,</NAME>
+
+<ORGANIZATION start="54" end="85" id="95152_8" >PACIFIC COAST STEAMSHIP COMPANY</ORGANIZATION>
+
+<LEGAL_ROLE start="87" end="97" id="95152_7" >Petitioner</LEGAL_ROLE>
+
+<NAME end="132" start="102" all_names="BANCROFT-WHITNEY COMPANY" party2_of="95152_4" local_name_id="2" id="95152_6" >BANCROFT-WHITNEY COMPANY et al</NAME>
+
+<DATE start="151" end="167" id="95152_14" >October 16, 1899</DATE>
+
+<NAME start="214" local_name_id="3" end="241" id="95152_15" all_names="SEE 36 C C A 135 94 FED" >See 36 C. C. A. 135, 94 Fed</NAME>
+
+<PROFESSION start="243" document_level_name_id="3" end="246" id="95152_16" party="SEE 36 C C A 135 94 FED" >Rep</PROFESSION>
+
+<RELATION party2="95152_6" theme="95152_4" theme_string="PACIFIC COAST STEAMSHIP COMPANY, Petitioner, v. BANCROFT-WHITNEY COMPANY et al" party2_string="BANCROFT-WHITNEY COMPANY et al" gram_type="infix" relation_type="asymmetric" id="95152_10" ></RELATION>
+
+<RELATION theme="95152_4" party1="95152_5" party1_string="PACIFIC COAST STEAMSHIP COMPANY," theme_string="PACIFIC COAST STEAMSHIP COMPANY, Petitioner, v. BANCROFT-WHITNEY COMPANY et al" gram_type="infix" relation_type="asymmetric" id="95152_9" ></RELATION>
+
+<RELATION standard_case_string="175 U.S. 724" X_vs_Y_string="PACIFIC COAST STEAMSHIP COMPANY, Petitioner, v. BANCROFT-WHITNEY COMPANY et al" standard_case="95152_1" X_vs_Y="95152_4" gram_type="multi_line" relation_type="equivalence" id="95152_11" ></RELATION>
+
+<RELATION standard_case_string="20 S. Ct. 1031" X_vs_Y_string="PACIFIC COAST STEAMSHIP COMPANY, Petitioner, v. BANCROFT-WHITNEY COMPANY et al" standard_case="95152_2" X_vs_Y="95152_4" gram_type="multi_line" relation_type="equivalence" id="95152_12" ></RELATION>
+
+<RELATION standard_case_string="44 L. Ed. 337" X_vs_Y_string="PACIFIC COAST STEAMSHIP COMPANY, Petitioner, v. BANCROFT-WHITNEY COMPANY et al" standard_case="95152_3" X_vs_Y="95152_4" gram_type="multi_line" relation_type="equivalence" id="95152_13" ></RELATION>
+
+<RELATION theme="95152_15" profession_string="Rep" theme_string="See 36 C. C. A. 135, 94 Fed" profession="95152_16" gram_type="apposition" relation_type="asymmetric" id="95152_17" ></RELATION>
+

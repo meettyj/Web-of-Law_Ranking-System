@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['texasjackson#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_810" id1="131258" volume="540" start="0" page_number="810" standard_reporter="U.S." citation_global_level_id="3589.002" line="1" id="131260_1" citation_local_level_id="0" >540 U.S. 810</CITATION>
+
+<CITATION party2="JACKSON" party1="TEXAS" citation_global_level_id="21895.001" party2_short="JACKSON" line="1" id="131260_3" alternative_keys="['u.s._540_810']" end="33" entry_type="party_key" lookup_key="texasjackson#1" id1="131260" start="17" party1_short="TEXAS" citation_local_level_id="1" >TEXAS v. JACKSON</CITATION>
+
+<NAME end="22" start="17" party1_of="131260_3" all_names="TEXAS" local_name_id="1" id="131260_4" >TEXAS</NAME>
+
+<NAME end="33" start="26" all_names="JACKSON" party2_of="131260_3" local_name_id="2" id="131260_5" >JACKSON</NAME>
+
+<DOCKET end="50" entry_type="docket" lookup_key="u.s._540_810" id1="131258" start="43" citation_global_level_id="3589.002" line="1" id="131260_2" citation_local_level_id="0" >02-1094</DOCKET>
+
+<DATE start="92" end="107" id="131260_6" >October 6, 2003</DATE>
+
+<NAME start="196" local_name_id="3" end="206" id="131260_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="246" reporter="S. W. 3d" entry_type="standard_key" no_current_file="True" lookup_key="s.w.3d_75_653" id1="Dummy_File_31708" volume="75" start="231" page_number="653" standard_reporter="S.W.3D" citation_global_level_id="95558.001" line="3" id="131260_12" citation_local_level_id="2" >75 S. W. 3d 653</CITATION>
+
+<RELATION theme="131260_1" includes_docket_string="02-1094" includes_docket="131260_2" theme_string="540 U.S. 810" gram_type="apposition" relation_type="asymmetric" id="131260_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 810" X_vs_Y_string="TEXAS v. JACKSON" standard_case="131260_1" X_vs_Y="131260_3" gram_type="pre_nom" relation_type="equivalence" id="131260_7" ></RELATION>
+
+<RELATION theme="131260_3" includes_docket_string="02-1094" includes_docket="131260_2" theme_string="TEXAS v. JACKSON" gram_type="apposition" relation_type="asymmetric" id="131260_10" ></RELATION>
+
+<RELATION theme="131260_3" party1="131260_4" party1_string="TEXAS" theme_string="TEXAS v. JACKSON" gram_type="infix" relation_type="asymmetric" id="131260_8" ></RELATION>
+
+<RELATION party2="131260_5" theme="131260_3" theme_string="TEXAS v. JACKSON" party2_string="JACKSON" gram_type="infix" relation_type="asymmetric" id="131260_9" ></RELATION>
+

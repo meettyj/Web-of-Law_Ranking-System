@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['wardenwarden#1', 'dennismeadows#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_968" id1="119250" volume="535" start="0" page_number="968" standard_reporter="U.S." citation_global_level_id="16661.002" line="1" id="119252_1" citation_local_level_id="0" >535 U.S. 968</CITATION>
+
+<CITATION party2="MEADOWS" party1="DENNIS" citation_global_level_id="16661.004" party2_short="MEADOWS" line="2" id="119252_2" alternative_keys="['wardenwarden#1', 'u.s._535_968']" end="34" entry_type="party_key" lookup_key="dennismeadows#1" id1="119250" start="17" party1_short="DENNIS" citation_local_level_id="1" >DENNIS v. MEADOWS</CITATION>
+
+<NAME end="23" start="17" party1_of="119252_2" all_names="DENNIS" local_name_id="1" id="119252_4" >DENNIS</NAME>
+
+<NAME end="34" start="27" all_names="MEADOWS" party2_of="119252_2" local_name_id="2" id="119252_5" >MEADOWS</NAME>
+
+<CITATION party2="ROE, WARDEN" party1="WARDEN; and GENTERY" citation_global_level_id="16661.003" party2_short="WARDEN" line="2" id="119252_3" alternative_keys="['dennismeadows#1', 'u.s._535_968']" end="70" entry_type="party_key" lookup_key="wardenwarden#1" id1="119250" start="36" party1_short="WARDEN" citation_local_level_id="2" >WARDEN; and GENTERY v. ROE, WARDEN</CITATION>
+
+<NAME end="55" start="36" party1_of="119252_3" all_names="WARDEN; AND GENTERY" local_name_id="3" id="119252_6" >WARDEN; and GENTERY</NAME>
+
+<NAME end="70" start="59" all_names="ROE WARDEN" party2_of="119252_3" local_name_id="4" id="119252_7" >ROE, WARDEN</NAME>
+
+<DATE start="146" end="159" id="119252_14" >April 1, 2002</DATE>
+
+<NAME start="181" local_name_id="5" end="188" id="119252_15" all_names="MOTIONS" >Motions</NAME>
+
+<PROFESSION start="203" end="208" id="119252_16" >Clerk</PROFESSION>
+
+<RELATION theme="119252_2" party1="119252_4" party1_string="DENNIS" theme_string="DENNIS v. MEADOWS" gram_type="infix" relation_type="asymmetric" id="119252_8" ></RELATION>
+
+<RELATION party2="119252_5" theme="119252_2" theme_string="DENNIS v. MEADOWS" party2_string="MEADOWS" gram_type="infix" relation_type="asymmetric" id="119252_9" ></RELATION>
+
+<RELATION theme="119252_3" party1="119252_6" party1_string="WARDEN; and GENTERY" theme_string="WARDEN; and GENTERY v. ROE, WARDEN" gram_type="infix" relation_type="asymmetric" id="119252_10" ></RELATION>
+
+<RELATION party2="119252_7" theme="119252_3" theme_string="WARDEN; and GENTERY v. ROE, WARDEN" party2_string="ROE, WARDEN" gram_type="infix" relation_type="asymmetric" id="119252_11" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 968" X_vs_Y_string="WARDEN; and GENTERY v. ROE, WARDEN" standard_case="119252_1" X_vs_Y="119252_3" gram_type="multi_line" relation_type="equivalence" id="119252_13" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 968" X_vs_Y_string="DENNIS v. MEADOWS" standard_case="119252_1" X_vs_Y="119252_2" gram_type="multi_line" relation_type="equivalence" id="119252_12" ></RELATION>
+

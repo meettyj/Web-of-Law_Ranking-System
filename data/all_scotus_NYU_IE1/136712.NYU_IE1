@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['ballcrosby#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_1075" id1="136718" volume="541" start="0" page_number="1075" standard_reporter="U.S." citation_global_level_id="1037.002" line="1" id="136712_1" citation_local_level_id="0" >541 U.S. 1075</CITATION>
+
+<CITATION party2="CROSBY, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS, ET AL" party1="BALL" citation_global_level_id="1358.005" party2_short="CROSBY" line="2" id="136712_2" alternative_keys="['u.s._542_962']" end="85" entry_type="party_key" lookup_key="ballcrosby#1" id1="137687" start="18" party1_short="BALL" citation_local_level_id="1" >BALL v. CROSBY, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS, ET AL</CITATION>
+
+<NAME end="22" start="18" party1_of="136712_2" all_names="BALL" local_name_id="1" id="136712_3" >BALL</NAME>
+
+<NAME end="85" start="26" all_names="CROSBY SECRETARY FLORIDA DEPARTMENT OF CORRECTIONS" party2_of="136712_2" local_name_id="2" id="136712_4" >CROSBY, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS, ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._542_962']" end="102" entry_type="docket" lookup_key="ballcrosby#1" id1="137687" start="95" citation_global_level_id="1358.005" line="3" id="136712_7" citation_local_level_id="1" >03-9563</DOCKET>
+
+<ORGANIZATION start="108" end="138" id="136712_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="144" citation_global_level_id="1358.005" end="156" id="136712_9" citation_local_level_id="1" >June 1, 2004</DATE>
+
+<NAME start="189" local_name_id="3" end="192" id="136712_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="136712_2" party1="136712_3" party1_string="BALL" theme_string="BALL v. CROSBY, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS, ET AL" gram_type="infix" relation_type="asymmetric" id="136712_5" ></RELATION>
+
+<RELATION party2="136712_4" theme="136712_2" theme_string="BALL v. CROSBY, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS, ET AL" party2_string="CROSBY, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS, ET AL" gram_type="infix" relation_type="asymmetric" id="136712_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 1075" X_vs_Y_string="BALL v. CROSBY, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS, ET AL" standard_case="136712_1" X_vs_Y="136712_2" gram_type="multi_line" relation_type="equivalence" id="136712_10" ></RELATION>
+
+<RELATION at_date_string="June 1, 2004" theme="136712_2" at_date="136712_9" theme_string="BALL v. CROSBY, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS, ET AL" gram_type="multi_line" relation_type="asymmetric" id="136712_12" ></RELATION>
+
+<RELATION theme="136712_2" includes_docket_string="03-9563" includes_docket="136712_7" theme_string="BALL v. CROSBY, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS, ET AL" gram_type="multi_line" relation_type="asymmetric" id="136712_11" ></RELATION>
+

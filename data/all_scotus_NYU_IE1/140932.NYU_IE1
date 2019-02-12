@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['chirongenentech#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1050" id1="140933" volume="543" start="0" page_number="1050" standard_reporter="U.S." citation_global_level_id="35.002" line="1" id="140932_1" citation_local_level_id="0" >543 U.S. 1050</CITATION>
+
+<CITATION party2="GENENTECH, INC" party1="CHIRON CORP." citation_global_level_id="10136.001" party2_short="GENENTECH" line="2" id="140932_2" alternative_keys="['u.s._543_1050']" end="48" entry_type="party_key" lookup_key="chirongenentech#1" id1="140932" start="18" party1_short="CHIRON" citation_local_level_id="1" >CHIRON CORP. v. GENENTECH, INC</CITATION>
+
+<NAME end="30" start="18" party1_of="140932_2" all_names="CHIRON CORP" local_name_id="1" id="140932_3" >CHIRON CORP.</NAME>
+
+<ORGANIZATION start="18" end="29" id="140932_5" >CHIRON CORP</ORGANIZATION>
+
+<NAME end="48" start="34" all_names="GENENTECH INC" party2_of="140932_2" local_name_id="2" id="140932_4" >GENENTECH, INC</NAME>
+
+<DOCKET end="64" entry_type="docket" lookup_key="chirongenentech#1" id1="140932" start="58" citation_global_level_id="10136.001" line="3" id="140932_8" citation_local_level_id="1" >04-477</DOCKET>
+
+<ORGANIZATION start="70" end="100" id="140932_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="106" citation_global_level_id="10136.001" end="122" id="140932_10" citation_local_level_id="1" >January 10, 2005</DATE>
+
+<NAME start="144" local_name_id="3" end="153" id="140932_15" all_names="C A FED" >C. A. Fed</NAME>
+
+<NAME start="155" local_name_id="4" end="158" id="140932_16" all_names="CIR" >Cir</NAME>
+
+<CITATION end="209" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_363_1247" id1="Dummy_File_131509" volume="363" start="195" page_number="1247" standard_reporter="F.3D" citation_global_level_id="195359.001" line="8" id="140932_14" citation_local_level_id="2" >363 F. 3d 1247</CITATION>
+
+<RELATION theme="140932_2" party1="140932_3" party1_string="CHIRON CORP." theme_string="CHIRON CORP. v. GENENTECH, INC" gram_type="infix" relation_type="asymmetric" id="140932_6" ></RELATION>
+
+<RELATION party2="140932_4" theme="140932_2" theme_string="CHIRON CORP. v. GENENTECH, INC" party2_string="GENENTECH, INC" gram_type="infix" relation_type="asymmetric" id="140932_7" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1050" X_vs_Y_string="CHIRON CORP. v. GENENTECH, INC" standard_case="140932_1" X_vs_Y="140932_2" gram_type="multi_line" relation_type="equivalence" id="140932_11" ></RELATION>
+
+<RELATION at_date_string="January 10, 2005" theme="140932_2" at_date="140932_10" theme_string="CHIRON CORP. v. GENENTECH, INC" gram_type="multi_line" relation_type="asymmetric" id="140932_13" ></RELATION>
+
+<RELATION theme="140932_2" includes_docket_string="04-477" includes_docket="140932_8" theme_string="CHIRON CORP. v. GENENTECH, INC" gram_type="multi_line" relation_type="asymmetric" id="140932_12" ></RELATION>
+

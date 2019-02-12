@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['baileycalifornia#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1064" id1="130055" volume="538" start="0" page_number="1064" standard_reporter="U.S." citation_global_level_id="2781.002" line="1" id="130056_1" citation_local_level_id="0" >538 U.S. 1064</CITATION>
+
+<CITATION party2="CALIFORNIA" party1="BAILEY" citation_global_level_id="59891.001" party2_short="CALIFORNIA" line="1" id="130056_3" alternative_keys="['u.s._538_1064']" end="38" entry_type="party_key" lookup_key="baileycalifornia#1" id1="130056" start="18" party1_short="BAILEY" citation_local_level_id="1" >BAILEY v. CALIFORNIA</CITATION>
+
+<NAME end="24" start="18" party1_of="130056_3" all_names="BAILEY" local_name_id="1" id="130056_4" >BAILEY</NAME>
+
+<NAME end="38" start="28" all_names="CALIFORNIA" party2_of="130056_3" local_name_id="2" id="130056_5" >CALIFORNIA</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._538_1064" id1="130055" start="48" citation_global_level_id="2781.002" line="1" id="130056_2" citation_local_level_id="0" >02-10040</DOCKET>
+
+<DATE start="98" end="110" id="130056_6" >May 27, 2003</DATE>
+
+<NAME start="241" local_name_id="3" end="243" id="130056_12" all_names="CT" >Ct</NAME>
+
+<RELATION theme="130056_1" includes_docket_string="02-10040" includes_docket="130056_2" theme_string="538 U.S. 1064" gram_type="apposition" relation_type="asymmetric" id="130056_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1064" X_vs_Y_string="BAILEY v. CALIFORNIA" standard_case="130056_1" X_vs_Y="130056_3" gram_type="pre_nom" relation_type="equivalence" id="130056_7" ></RELATION>
+
+<RELATION theme="130056_3" includes_docket_string="02-10040" includes_docket="130056_2" theme_string="BAILEY v. CALIFORNIA" gram_type="apposition" relation_type="asymmetric" id="130056_10" ></RELATION>
+
+<RELATION theme="130056_3" party1="130056_4" party1_string="BAILEY" theme_string="BAILEY v. CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="130056_8" ></RELATION>
+
+<RELATION party2="130056_5" theme="130056_3" theme_string="BAILEY v. CALIFORNIA" party2_string="CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="130056_9" ></RELATION>
+

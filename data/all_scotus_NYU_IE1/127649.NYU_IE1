@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['reyesstates#9', 'u.s._534_917']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1227" id1="127654" volume="537" start="0" page_number="1227" standard_reporter="U.S." citation_global_level_id="41.002" line="1" id="127649_1" citation_local_level_id="0" >537 U.S. 1227</CITATION>
+
+<CITATION party2="UNITED STATES" party1="REYES" citation_global_level_id="34900.001" party2_short="STATES" line="2" id="127649_3" alternative_keys="['u.s._537_1227', 'u.s._534_917']" end="40" entry_type="party_key" lookup_key="reyesstates#9" id1="118746" start="18" party1_short="REYES" citation_local_level_id="1" >REYES v. UNITED STATES</CITATION>
+
+<NAME end="23" start="18" party1_of="127649_3" all_names="REYES" local_name_id="1" id="127649_4" >REYES</NAME>
+
+<NAME end="40" start="27" all_names="UNITED STATES" party2_of="127649_3" local_name_id="2" id="127649_5" >UNITED STATES</NAME>
+
+<CITATION alternative_keys="['u.s._537_1227', 'reyesstates#9']" end="55" reporter="U. S." entry_type="standard_key" lookup_key="u.s._534_917" id1="127649" volume="534" start="42" page_number="917" standard_reporter="U.S." citation_global_level_id="37271.002" line="2" id="127649_2" citation_local_level_id="2" >534 U. S. 917</CITATION>
+
+<DOCKET end="72" entry_type="docket" lookup_key="reyesstates#9" id1="118746" start="65" citation_global_level_id="34900.001" line="3" id="127649_9" citation_local_level_id="1" >01-5344</DOCKET>
+
+<ORGANIZATION start="78" end="108" id="127649_10" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="114" citation_global_level_id="34900.001" end="131" id="127649_11" citation_local_level_id="1" >February 24, 2003</DATE>
+
+<NAME start="153" local_name_id="3" end="161" id="127649_15" all_names="PETITION" >Petition</NAME>
+
+<RELATION standard_case_string="534 U. S. 917" X_vs_Y_string="REYES v. UNITED STATES" standard_case="127649_2" X_vs_Y="127649_3" gram_type="apposition" relation_type="equivalence" id="127649_8" ></RELATION>
+
+<RELATION theme="127649_3" party1="127649_4" party1_string="REYES" theme_string="REYES v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="127649_6" ></RELATION>
+
+<RELATION party2="127649_5" theme="127649_3" theme_string="REYES v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="127649_7" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1227" X_vs_Y_string="REYES v. UNITED STATES" standard_case="127649_1" X_vs_Y="127649_3" gram_type="multi_line" relation_type="equivalence" id="127649_12" ></RELATION>
+
+<RELATION at_date_string="February 24, 2003" theme="127649_3" at_date="127649_11" theme_string="REYES v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="127649_14" ></RELATION>
+
+<RELATION theme="127649_3" includes_docket_string="01-5344" includes_docket="127649_9" theme_string="REYES v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="127649_13" ></RELATION>
+

@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['wendtwakefield#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_905" id1="130208" volume="539" start="0" page_number="905" standard_reporter="U.S." citation_global_level_id="2078.002" line="1" id="130210_1" citation_local_level_id="0" >539 U.S. 905</CITATION>
+
+<CITATION party2="Wakefield" party1="Wendt" citation_global_level_id="42314.001" party2_short="Wakefield" line="1" id="130210_3" alternative_keys="['u.s._539_905']" end="35" entry_type="party_key" lookup_key="wendtwakefield#1" id1="130210" start="17" party1_short="Wendt" citation_local_level_id="1" >Wendt v. Wakefield</CITATION>
+
+<NAME end="22" start="17" party1_of="130210_3" all_names="WENDT" local_name_id="1" id="130210_4" >Wendt</NAME>
+
+<NAME end="35" start="26" all_names="WAKEFIELD" party2_of="130210_3" local_name_id="2" id="130210_5" >Wakefield</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="u.s._539_905" id1="130208" start="45" citation_global_level_id="2078.002" line="1" id="130210_2" citation_local_level_id="0" >02-9811</DOCKET>
+
+<DATE start="94" end="106" id="130210_6" >June 2, 2003</DATE>
+
+<NAME start="184" local_name_id="3" end="194" id="130210_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="130210_1" includes_docket_string="02-9811" includes_docket="130210_2" theme_string="539 U.S. 905" gram_type="apposition" relation_type="asymmetric" id="130210_11" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 905" X_vs_Y_string="Wendt v. Wakefield" standard_case="130210_1" X_vs_Y="130210_3" gram_type="pre_nom" relation_type="equivalence" id="130210_7" ></RELATION>
+
+<RELATION theme="130210_3" includes_docket_string="02-9811" includes_docket="130210_2" theme_string="Wendt v. Wakefield" gram_type="apposition" relation_type="asymmetric" id="130210_10" ></RELATION>
+
+<RELATION theme="130210_3" party1="130210_4" party1_string="Wendt" theme_string="Wendt v. Wakefield" gram_type="infix" relation_type="asymmetric" id="130210_8" ></RELATION>
+
+<RELATION party2="130210_5" theme="130210_3" theme_string="Wendt v. Wakefield" party2_string="Wakefield" gram_type="infix" relation_type="asymmetric" id="130210_9" ></RELATION>
+

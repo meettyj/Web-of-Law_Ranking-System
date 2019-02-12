@@ -1,0 +1,40 @@
+<CITATION alternative_keys="['tennesseemiddlebrooks#4']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1008" id1="115578" volume="510" start="0" page_number="1008" standard_reporter="U.S." citation_global_level_id="1827.002" line="1" id="115577_1" citation_local_level_id="0" >510 U.S. 1008</CITATION>
+
+<CITATION party2="Middlebrooks" party1="Tennessee" citation_global_level_id="50872.001" party2_short="Middlebrooks" line="1" id="115577_4" alternative_keys="['u.s._510_1008']" end="43" entry_type="party_key" lookup_key="tennesseemiddlebrooks#4" id1="116255" start="18" party1_short="Tennessee" citation_local_level_id="1" >Tennessee v. Middlebrooks</CITATION>
+
+<NAME end="27" start="18" party1_of="115577_4" all_names="TENNESSEE" local_name_id="1" id="115577_6" >Tennessee</NAME>
+
+<NAME end="43" start="31" all_names="MIDDLEBROOKS	DONALD MIDDLEBROOKS" party2_of="115577_4" local_name_id="2" id="115577_7" >Middlebrooks</NAME>
+
+<CITATION party2="Evans" party1="Tennessee" citation_global_level_id="100302.001" party2_short="Evans" line="1" id="115577_5" end="67" no_current_file="True" entry_type="party_key" lookup_key="tennesseeevans#1" id1="Dummy_File_36452" start="49" party1_short="Tennessee" citation_local_level_id="2" >Tennessee v. Evans</CITATION>
+
+<NAME end="58" start="49" party1_of="115577_5" all_names="TENNESSEE" local_name_id="1" id="115577_8" >Tennessee</NAME>
+
+<NAME end="67" start="62" all_names="EVANS" party2_of="115577_5" local_name_id="3" id="115577_9" >Evans</NAME>
+
+<DOCKET end="83" entry_type="docket" lookup_key="tennesseemiddlebrooks#4" id1="116255" start="77" citation_global_level_id="50872.001" line="1" id="115577_3" citation_local_level_id="1" >92-989</DOCKET>
+
+<DATE start="125" end="141" id="115577_10" >December 6, 1993</DATE>
+
+<CITATION end="229" reporter="U. S." entry_type="standard_key" no_current_file="True" lookup_key="u.s._507_1028" id1="Dummy_File_36453" volume="507" start="215" page_number="1028" standard_reporter="U.S." citation_global_level_id="100303.001" line="1" id="115577_2" citation_local_level_id="3" >507 U. S. 1028</CITATION>
+
+<LEGAL_ROLE start="257" local_name_id="2" end="277" id="115577_18" name="Donald Middlebrooks" >Motion of respondent</LEGAL_ROLE>
+
+<NAME start="278" local_name_id="2" end="297" id="115577_19" all_names="MIDDLEBROOKS	DONALD MIDDLEBROOKS" >Donald Middlebrooks</NAME>
+
+<RELATION standard_case_string="510 U.S. 1008" X_vs_Y_string="Tennessee v. Middlebrooks" standard_case="115577_1" X_vs_Y="115577_4" gram_type="pre_nom" relation_type="equivalence" id="115577_11" ></RELATION>
+
+<RELATION theme="115577_4" includes_docket_string="92-989" includes_docket="115577_3" theme_string="Tennessee v. Middlebrooks" gram_type="apposition" relation_type="asymmetric" id="115577_17" ></RELATION>
+
+<RELATION theme="115577_4" party1="115577_6" party1_string="Tennessee" theme_string="Tennessee v. Middlebrooks" gram_type="infix" relation_type="asymmetric" id="115577_12" ></RELATION>
+
+<RELATION party2="115577_7" theme="115577_4" theme_string="Tennessee v. Middlebrooks" party2_string="Middlebrooks" gram_type="infix" relation_type="asymmetric" id="115577_13" ></RELATION>
+
+<RELATION theme="115577_5" includes_docket_string="92-989" includes_docket="115577_3" theme_string="Tennessee v. Evans" gram_type="apposition" relation_type="asymmetric" id="115577_16" ></RELATION>
+
+<RELATION theme="115577_5" party1="115577_8" party1_string="Tennessee" theme_string="Tennessee v. Evans" gram_type="infix" relation_type="asymmetric" id="115577_14" ></RELATION>
+
+<RELATION party2="115577_9" theme="115577_5" theme_string="Tennessee v. Evans" party2_string="Evans" gram_type="infix" relation_type="asymmetric" id="115577_15" ></RELATION>
+
+<RELATION theme="115577_19" legal_role="115577_18" id="115577_20" theme_string="Donald Middlebrooks" gram_type="pre_nom" relation_type="asymmetric" legal_role_string="Motion of respondent" ></RELATION>
+

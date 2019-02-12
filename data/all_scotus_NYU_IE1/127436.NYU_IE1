@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['kovachevichauthority#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1212" id1="127442" volume="537" start="0" page_number="1212" standard_reporter="U.S." citation_global_level_id="143.002" line="1" id="127436_1" citation_local_level_id="0" >537 U.S. 1212</CITATION>
+
+<CITATION party2="NEW YORK CITY HOUSING AUTHORITY" party1="KOVACHEVICH" citation_global_level_id="11624.001" party2_short="AUTHORITY" line="1" id="127436_3" alternative_keys="['u.s._537_1212']" end="64" entry_type="party_key" lookup_key="kovachevichauthority#1" id1="127436" start="18" party1_short="KOVACHEVICH" citation_local_level_id="1" >KOVACHEVICH v. NEW YORK CITY HOUSING AUTHORITY</CITATION>
+
+<NAME end="29" start="18" party1_of="127436_3" all_names="KOVACHEVICH" local_name_id="1" id="127436_4" >KOVACHEVICH</NAME>
+
+<NAME end="64" start="33" all_names="NEW YORK CITY HOUSING AUTHORITY" party2_of="127436_3" local_name_id="2" id="127436_5" >NEW YORK CITY HOUSING AUTHORITY</NAME>
+
+<DOCKET end="81" entry_type="docket" lookup_key="u.s._537_1212" id1="127442" start="74" citation_global_level_id="143.002" line="1" id="127436_2" citation_local_level_id="0" >02-8202</DOCKET>
+
+<DATE start="123" end="140" id="127436_6" >February 24, 2003</DATE>
+
+<NAME start="254" local_name_id="3" end="256" id="127436_13" all_names="CT" >Ct</NAME>
+
+<CITATION end="337" reporter="N. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.e.2d_775_1289" id1="Dummy_File_154990" volume="775" start="320" page_number="1289" standard_reporter="N.E.2D" citation_global_level_id="218840.001" line="3" id="127436_12" citation_local_level_id="2" >775 N. E. 2d 1289</CITATION>
+
+<RELATION theme="127436_1" includes_docket_string="02-8202" includes_docket="127436_2" theme_string="537 U.S. 1212" gram_type="apposition" relation_type="asymmetric" id="127436_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1212" X_vs_Y_string="KOVACHEVICH v. NEW YORK CITY HOUSING AUTHORITY" standard_case="127436_1" X_vs_Y="127436_3" gram_type="pre_nom" relation_type="equivalence" id="127436_7" ></RELATION>
+
+<RELATION theme="127436_3" includes_docket_string="02-8202" includes_docket="127436_2" theme_string="KOVACHEVICH v. NEW YORK CITY HOUSING AUTHORITY" gram_type="apposition" relation_type="asymmetric" id="127436_10" ></RELATION>
+
+<RELATION theme="127436_3" party1="127436_4" party1_string="KOVACHEVICH" theme_string="KOVACHEVICH v. NEW YORK CITY HOUSING AUTHORITY" gram_type="infix" relation_type="asymmetric" id="127436_8" ></RELATION>
+
+<RELATION party2="127436_5" theme="127436_3" theme_string="KOVACHEVICH v. NEW YORK CITY HOUSING AUTHORITY" party2_string="NEW YORK CITY HOUSING AUTHORITY" gram_type="infix" relation_type="asymmetric" id="127436_9" ></RELATION>
+

@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['princestates#6']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_980" id1="135563" volume="541" start="0" page_number="980" standard_reporter="U.S." citation_global_level_id="6577.002" line="3" id="135559_2" citation_local_level_id="0" >541 U.S. 980</CITATION>
+
+<CITATION party2="UNITED STATES" party1="PRINCE" citation_global_level_id="40532.001" party2_short="STATES" line="3" id="135559_4" alternative_keys="['u.s._541_980']" end="40" entry_type="party_key" lookup_key="princestates#6" id1="105448" start="17" party1_short="PRINCE" citation_local_level_id="1" >PRINCE v. UNITED STATES</CITATION>
+
+<NAME end="23" start="17" party1_of="135559_4" all_names="PRINCE" local_name_id="1" id="135559_5" >PRINCE</NAME>
+
+<NAME end="40" start="27" all_names="UNITED STATES" party2_of="135559_4" local_name_id="2" id="135559_6" >UNITED STATES</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._541_980" id1="135563" start="50" citation_global_level_id="6577.002" line="3" id="135559_3" citation_local_level_id="0" >03-9212</DOCKET>
+
+<ORGANIZATION start="63" end="93" id="135559_12" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="99" citation_global_level_id="40532.001" end="112" id="135559_13" citation_local_level_id="1" >April 5, 2004</DATE>
+
+<NAME start="144" local_name_id="3" end="147" id="135559_15" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="135559_2" includes_docket_string="03-9212" includes_docket="135559_3" theme_string="541 U.S. 980" gram_type="apposition" relation_type="asymmetric" id="135559_11" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 980" X_vs_Y_string="PRINCE v. UNITED STATES" standard_case="135559_2" X_vs_Y="135559_4" gram_type="pre_nom" relation_type="equivalence" id="135559_7" ></RELATION>
+
+<RELATION theme="135559_4" includes_docket_string="03-9212" includes_docket="135559_3" theme_string="PRINCE v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="135559_10" ></RELATION>
+
+<RELATION theme="135559_4" party1="135559_5" party1_string="PRINCE" theme_string="PRINCE v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="135559_8" ></RELATION>
+
+<RELATION party2="135559_6" theme="135559_4" theme_string="PRINCE v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="135559_9" ></RELATION>
+
+<RELATION at_date_string="April 5, 2004" theme="135559_4" at_date="135559_13" theme_string="PRINCE v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="135559_14" ></RELATION>
+

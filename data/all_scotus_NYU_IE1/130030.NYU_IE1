@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['campbellillinois#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1062" id1="130017" volume="538" start="0" page_number="1062" standard_reporter="U.S." citation_global_level_id="5728.002" line="1" id="130030_1" citation_local_level_id="0" >538 U.S. 1062</CITATION>
+
+<CITATION party2="ILLINOIS" party1="CAMPBELL" citation_global_level_id="6545.001" party2_short="ILLINOIS" line="1" id="130030_3" alternative_keys="['u.s._538_1062']" end="38" entry_type="party_key" lookup_key="campbellillinois#2" id1="138179" start="18" party1_short="CAMPBELL" citation_local_level_id="1" >CAMPBELL v. ILLINOIS</CITATION>
+
+<NAME end="26" start="18" party1_of="130030_3" all_names="CAMPBELL" local_name_id="1" id="130030_4" >CAMPBELL</NAME>
+
+<NAME end="38" start="30" all_names="ILLINOIS" party2_of="130030_3" local_name_id="2" id="130030_5" >ILLINOIS</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._538_1062" id1="130017" start="48" citation_global_level_id="5728.002" line="1" id="130030_2" citation_local_level_id="0" >02-9778</DOCKET>
+
+<DATE start="97" end="109" id="130030_6" >May 27, 2003</DATE>
+
+<NAME start="227" local_name_id="3" end="230" id="130030_13" all_names="APP" >App</NAME>
+
+<CITATION end="325" reporter="N. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.e.2d_773_776" id1="Dummy_File_28515" volume="773" start="309" page_number="776" standard_reporter="N.E.2D" citation_global_level_id="92365.001" line="3" id="130030_12" citation_local_level_id="2" >773 N. E. 2d 776</CITATION>
+
+<RELATION theme="130030_1" includes_docket_string="02-9778" includes_docket="130030_2" theme_string="538 U.S. 1062" gram_type="apposition" relation_type="asymmetric" id="130030_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1062" X_vs_Y_string="CAMPBELL v. ILLINOIS" standard_case="130030_1" X_vs_Y="130030_3" gram_type="pre_nom" relation_type="equivalence" id="130030_7" ></RELATION>
+
+<RELATION theme="130030_3" includes_docket_string="02-9778" includes_docket="130030_2" theme_string="CAMPBELL v. ILLINOIS" gram_type="apposition" relation_type="asymmetric" id="130030_10" ></RELATION>
+
+<RELATION theme="130030_3" party1="130030_4" party1_string="CAMPBELL" theme_string="CAMPBELL v. ILLINOIS" gram_type="infix" relation_type="asymmetric" id="130030_8" ></RELATION>
+
+<RELATION party2="130030_5" theme="130030_3" theme_string="CAMPBELL v. ILLINOIS" party2_string="ILLINOIS" gram_type="infix" relation_type="asymmetric" id="130030_9" ></RELATION>
+

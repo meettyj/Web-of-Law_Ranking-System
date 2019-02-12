@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['weddellnevada#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1001" id1="124768" volume="537" start="0" page_number="1001" standard_reporter="U.S." citation_global_level_id="212.002" line="1" id="124769_1" citation_local_level_id="0" >537 U.S. 1001</CITATION>
+
+<CITATION party2="NEVADA" party1="WEDDELL" citation_global_level_id="49314.001" party2_short="NEVADA" line="1" id="124769_3" alternative_keys="['u.s._537_1001']" end="35" entry_type="party_key" lookup_key="weddellnevada#1" id1="124769" start="18" party1_short="WEDDELL" citation_local_level_id="1" >WEDDELL v. NEVADA</CITATION>
+
+<NAME end="25" start="18" party1_of="124769_3" all_names="WEDDELL" local_name_id="1" id="124769_4" >WEDDELL</NAME>
+
+<NAME end="35" start="29" all_names="NEVADA" party2_of="124769_3" local_name_id="2" id="124769_5" >NEVADA</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="u.s._537_1001" id1="124768" start="45" citation_global_level_id="212.002" line="1" id="124769_2" citation_local_level_id="0" >02-307</DOCKET>
+
+<DATE start="93" end="109" id="124769_6" >November 4, 2002</DATE>
+
+<NAME start="199" local_name_id="3" end="202" id="124769_13" all_names="SUP" >Sup</NAME>
+
+<CITATION end="274" reporter="P. 3d" entry_type="standard_key" no_current_file="True" lookup_key="p.3d_43_987" id1="Dummy_File_34729" volume="43" start="262" page_number="987" standard_reporter="P.3D" citation_global_level_id="98579.001" line="3" id="124769_12" citation_local_level_id="2" >43 P. 3d 987</CITATION>
+
+<RELATION theme="124769_1" includes_docket_string="02-307" includes_docket="124769_2" theme_string="537 U.S. 1001" gram_type="apposition" relation_type="asymmetric" id="124769_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1001" X_vs_Y_string="WEDDELL v. NEVADA" standard_case="124769_1" X_vs_Y="124769_3" gram_type="pre_nom" relation_type="equivalence" id="124769_7" ></RELATION>
+
+<RELATION theme="124769_3" includes_docket_string="02-307" includes_docket="124769_2" theme_string="WEDDELL v. NEVADA" gram_type="apposition" relation_type="asymmetric" id="124769_10" ></RELATION>
+
+<RELATION theme="124769_3" party1="124769_4" party1_string="WEDDELL" theme_string="WEDDELL v. NEVADA" gram_type="infix" relation_type="asymmetric" id="124769_8" ></RELATION>
+
+<RELATION party2="124769_5" theme="124769_3" theme_string="WEDDELL v. NEVADA" party2_string="NEVADA" gram_type="infix" relation_type="asymmetric" id="124769_9" ></RELATION>
+

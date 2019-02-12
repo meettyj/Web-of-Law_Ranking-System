@@ -1,0 +1,38 @@
+<CITATION alternative_keys="['motorromo#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1028" id1="129573" volume="538" start="0" page_number="1028" standard_reporter="U.S." citation_global_level_id="1899.002" line="1" id="129569_1" citation_local_level_id="0" >538 U.S. 1028</CITATION>
+
+<CITATION party2="RAMON ROMO ET AL" party1="FORD MOTOR CO." citation_global_level_id="10678.001" party2_short="ROMO" line="1" id="129569_3" alternative_keys="['u.s._538_1028']" end="52" entry_type="party_key" lookup_key="motorromo#1" id1="129569" start="18" party1_short="MOTOR" citation_local_level_id="1" >FORD MOTOR CO. v. RAMON ROMO ET AL</CITATION>
+
+<NAME end="32" start="18" party1_of="129569_3" all_names="FORD MOTOR CO" local_name_id="1" id="129569_4" >FORD MOTOR CO.</NAME>
+
+<ORGANIZATION start="18" end="31" id="129569_7" >FORD MOTOR CO</ORGANIZATION>
+
+<NAME end="52" start="36" all_names="RAMON ROMO" party2_of="129569_3" local_name_id="2" id="129569_5" >RAMON ROMO ET AL</NAME>
+
+<DOCKET end="69" entry_type="docket" lookup_key="u.s._538_1028" id1="129573" start="62" citation_global_level_id="1899.002" line="1" id="129569_2" citation_local_level_id="0" >02-1097</DOCKET>
+
+<DATE start="111" end="123" id="129569_6" >May 19, 2003</DATE>
+
+<NAME start="253" local_name_id="3" end="255" id="129569_17" all_names="CT" >Ct</NAME>
+
+<CITATION party2="Campbell" party1="State Farm Mut. Automobile Ins. Co." citation_global_level_id="149571.001" party2_short="Campbell" line="3" id="129569_14" end="424" no_current_file="True" entry_type="party_key" lookup_key="inscampbell#2" id1="Dummy_File_85721" start="377" party1_short="Ins" citation_local_level_id="2" >State Farm Mut. Automobile Ins. Co. v. Campbell</CITATION>
+
+<NAME end="412" start="377" party1_of="129569_14" all_names="STATE FARM MUT AUTOMOBILE INS CO" local_name_id="4" id="129569_15" >State Farm Mut. Automobile Ins. Co.</NAME>
+
+<NAME end="424" start="416" all_names="CAMPBELL" party2_of="129569_14" local_name_id="5" id="129569_16" >Campbell</NAME>
+
+<CITATION end="500" reporter="Cal. Rptr. 2d" entry_type="standard_key" no_current_file="True" lookup_key="cal.rptr.2d_122_139" id1="Dummy_File_85722" volume="122" start="479" page_number="139" standard_reporter="CAL.RPTR.2D" citation_global_level_id="149572.001" line="3" id="129569_13" citation_local_level_id="3" >122 Cal. Rptr. 2d 139</CITATION>
+
+<RELATION theme="129569_1" includes_docket_string="02-1097" includes_docket="129569_2" theme_string="538 U.S. 1028" gram_type="apposition" relation_type="asymmetric" id="129569_12" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1028" X_vs_Y_string="FORD MOTOR CO. v. RAMON ROMO ET AL" standard_case="129569_1" X_vs_Y="129569_3" gram_type="pre_nom" relation_type="equivalence" id="129569_8" ></RELATION>
+
+<RELATION theme="129569_3" includes_docket_string="02-1097" includes_docket="129569_2" theme_string="FORD MOTOR CO. v. RAMON ROMO ET AL" gram_type="apposition" relation_type="asymmetric" id="129569_11" ></RELATION>
+
+<RELATION party2="129569_5" theme="129569_3" theme_string="FORD MOTOR CO. v. RAMON ROMO ET AL" party2_string="RAMON ROMO ET AL" gram_type="infix" relation_type="asymmetric" id="129569_10" ></RELATION>
+
+<RELATION theme="129569_3" party1="129569_4" party1_string="FORD MOTOR CO." theme_string="FORD MOTOR CO. v. RAMON ROMO ET AL" gram_type="infix" relation_type="asymmetric" id="129569_9" ></RELATION>
+
+<RELATION theme="129569_14" party1="129569_15" party1_string="State Farm Mut. Automobile Ins. Co." theme_string="State Farm Mut. Automobile Ins. Co. v. Campbell" gram_type="infix" relation_type="asymmetric" id="129569_18" ></RELATION>
+
+<RELATION party2="129569_16" theme="129569_14" theme_string="State Farm Mut. Automobile Ins. Co. v. Campbell" party2_string="Campbell" gram_type="infix" relation_type="asymmetric" id="129569_19" ></RELATION>
+

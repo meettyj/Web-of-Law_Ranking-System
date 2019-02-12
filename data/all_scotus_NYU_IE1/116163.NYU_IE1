@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['kurylczykmichigan#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1058" id1="116174" volume="510" start="0" page_number="1058" standard_reporter="U.S." citation_global_level_id="1720.002" line="1" id="116163_1" citation_local_level_id="0" >510 U.S. 1058</CITATION>
+
+<CITATION party2="Michigan" party1="Kurylczyk" citation_global_level_id="43273.001" party2_short="Michigan" line="1" id="116163_3" alternative_keys="['u.s._510_1058']" end="39" entry_type="party_key" lookup_key="kurylczykmichigan#1" id1="116163" start="18" party1_short="Kurylczyk" citation_local_level_id="1" >Kurylczyk v. Michigan</CITATION>
+
+<NAME end="27" start="18" party1_of="116163_3" all_names="KURYLCZYK" local_name_id="1" id="116163_4" >Kurylczyk</NAME>
+
+<NAME end="39" start="31" all_names="MICHIGAN" party2_of="116163_3" local_name_id="2" id="116163_5" >Michigan</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._510_1058" id1="116174" start="49" citation_global_level_id="1720.002" line="1" id="116163_2" citation_local_level_id="0" >93-6765</DOCKET>
+
+<DATE start="98" end="114" id="116163_6" >January 10, 1994</DATE>
+
+<NAME start="192" local_name_id="3" end="202" id="116163_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="240" reporter="Mich." entry_type="standard_key" no_current_file="True" lookup_key="mich._443_289" id1="Dummy_File_69198" volume="443" start="227" page_number="289" standard_reporter="MICH." citation_global_level_id="133048.001" line="3" id="116163_12" citation_local_level_id="2" >443 Mich. 289</CITATION>
+
+<CITATION end="258" reporter="N. W. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.w.2d_505_528" id1="Dummy_File_69199" volume="505" start="242" page_number="528" standard_reporter="N.W.2D" citation_global_level_id="133049.001" line="3" id="116163_13" citation_local_level_id="3" >505 N. W. 2d 528</CITATION>
+
+<RELATION theme="116163_1" includes_docket_string="93-6765" includes_docket="116163_2" theme_string="510 U.S. 1058" gram_type="apposition" relation_type="asymmetric" id="116163_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1058" X_vs_Y_string="Kurylczyk v. Michigan" standard_case="116163_1" X_vs_Y="116163_3" gram_type="pre_nom" relation_type="equivalence" id="116163_7" ></RELATION>
+
+<RELATION theme="116163_3" includes_docket_string="93-6765" includes_docket="116163_2" theme_string="Kurylczyk v. Michigan" gram_type="apposition" relation_type="asymmetric" id="116163_10" ></RELATION>
+
+<RELATION theme="116163_3" party1="116163_4" party1_string="Kurylczyk" theme_string="Kurylczyk v. Michigan" gram_type="infix" relation_type="asymmetric" id="116163_8" ></RELATION>
+
+<RELATION party2="116163_5" theme="116163_3" theme_string="Kurylczyk v. Michigan" party2_string="Michigan" gram_type="infix" relation_type="asymmetric" id="116163_9" ></RELATION>
+

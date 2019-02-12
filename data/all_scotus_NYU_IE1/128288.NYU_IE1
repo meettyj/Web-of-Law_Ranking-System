@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['bowlingkentucky#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_931" id1="128283" volume="538" start="0" page_number="931" standard_reporter="U.S." citation_global_level_id="704.002" line="1" id="128288_1" citation_local_level_id="0" >538 U.S. 931</CITATION>
+
+<CITATION party2="KENTUCKY" party1="BOWLING" citation_global_level_id="30546.001" party2_short="KENTUCKY" line="1" id="128288_3" alternative_keys="['u.s._538_931']" end="36" entry_type="party_key" lookup_key="bowlingkentucky#2" id1="1991851" start="17" party1_short="BOWLING" citation_local_level_id="1" >BOWLING v. KENTUCKY</CITATION>
+
+<NAME end="24" start="17" party1_of="128288_3" all_names="BOWLING" local_name_id="1" id="128288_4" >BOWLING</NAME>
+
+<NAME end="36" start="28" all_names="KENTUCKY" party2_of="128288_3" local_name_id="2" id="128288_5" >KENTUCKY</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="u.s._538_931" id1="128283" start="46" citation_global_level_id="704.002" line="1" id="128288_2" citation_local_level_id="0" >02-8619</DOCKET>
+
+<DATE start="95" end="109" id="128288_6" >March 24, 2003</DATE>
+
+<NAME start="201" local_name_id="3" end="204" id="128288_13" all_names="SUP" >Sup</NAME>
+
+<CITATION end="264" reporter="S. W. 3d" entry_type="standard_key" no_current_file="True" lookup_key="s.w.3d_80_405" id1="Dummy_File_20095" volume="80" start="249" page_number="405" standard_reporter="S.W.3D" citation_global_level_id="83945.001" line="3" id="128288_12" citation_local_level_id="2" >80 S. W. 3d 405</CITATION>
+
+<RELATION theme="128288_1" includes_docket_string="02-8619" includes_docket="128288_2" theme_string="538 U.S. 931" gram_type="apposition" relation_type="asymmetric" id="128288_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 931" X_vs_Y_string="BOWLING v. KENTUCKY" standard_case="128288_1" X_vs_Y="128288_3" gram_type="pre_nom" relation_type="equivalence" id="128288_7" ></RELATION>
+
+<RELATION theme="128288_3" includes_docket_string="02-8619" includes_docket="128288_2" theme_string="BOWLING v. KENTUCKY" gram_type="apposition" relation_type="asymmetric" id="128288_10" ></RELATION>
+
+<RELATION theme="128288_3" party1="128288_4" party1_string="BOWLING" theme_string="BOWLING v. KENTUCKY" gram_type="infix" relation_type="asymmetric" id="128288_8" ></RELATION>
+
+<RELATION party2="128288_5" theme="128288_3" theme_string="BOWLING v. KENTUCKY" party2_string="KENTUCKY" gram_type="infix" relation_type="asymmetric" id="128288_9" ></RELATION>
+

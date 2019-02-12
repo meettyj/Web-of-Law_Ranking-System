@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['statesbanks#5']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_974" id1="131013" volume="539" start="0" page_number="974" standard_reporter="U.S." citation_global_level_id="1324.002" line="1" id="131012_1" citation_local_level_id="0" >539 U.S. 974</CITATION>
+
+<CITATION party2="Banks" party1="United States" citation_global_level_id="48832.001" party2_short="Banks" line="1" id="131012_4" alternative_keys="['u.s._539_974']" end="39" entry_type="party_key" lookup_key="statesbanks#5" id1="131012" start="17" party1_short="States" citation_local_level_id="1" >United States v. Banks</CITATION>
+
+<NAME end="30" start="17" party1_of="131012_4" all_names="UNITED STATES" local_name_id="1" id="131012_5" >United States</NAME>
+
+<NAME end="39" start="34" all_names="BANKS" party2_of="131012_4" local_name_id="2" id="131012_6" >Banks</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._539_974" id1="131013" start="49" citation_global_level_id="1324.002" line="1" id="131012_3" citation_local_level_id="0" >02-473</DOCKET>
+
+<DATE start="97" end="111" id="131012_7" >August 4, 2003</DATE>
+
+<CITATION end="199" reporter="U. S." entry_type="standard_key" lookup_key="u.s._537_1187" id1="127105" volume="537" start="185" page_number="1187" standard_reporter="U.S." citation_global_level_id="5470.002" line="1" id="131012_2" citation_local_level_id="2" >537 U. S. 1187</CITATION>
+
+<PROFESSION start="227" end="258" id="131012_13" >Motion of the Solicitor General</PROFESSION>
+
+<NAME start="268" local_name_id="3" end="284" id="131012_14" all_names="DAVID B SALMONS" >David B. Salmons</NAME>
+
+<RELATION theme="131012_1" includes_docket_string="02-473" includes_docket="131012_3" theme_string="539 U.S. 974" gram_type="apposition" relation_type="asymmetric" id="131012_12" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 974" X_vs_Y_string="United States v. Banks" standard_case="131012_1" X_vs_Y="131012_4" gram_type="pre_nom" relation_type="equivalence" id="131012_8" ></RELATION>
+
+<RELATION theme="131012_4" includes_docket_string="02-473" includes_docket="131012_3" theme_string="United States v. Banks" gram_type="apposition" relation_type="asymmetric" id="131012_11" ></RELATION>
+
+<RELATION party2="131012_6" theme="131012_4" theme_string="United States v. Banks" party2_string="Banks" gram_type="infix" relation_type="asymmetric" id="131012_10" ></RELATION>
+
+<RELATION theme="131012_4" party1="131012_5" party1_string="United States" theme_string="United States v. Banks" gram_type="infix" relation_type="asymmetric" id="131012_9" ></RELATION>
+

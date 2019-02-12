@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['hookercastro#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_832" id1="138146" volume="543" start="0" page_number="832" standard_reporter="U.S." citation_global_level_id="2029.002" line="1" id="138152_1" citation_local_level_id="0" >543 U.S. 832</CITATION>
+
+<CITATION party2="CASTRO, WARDEN" party1="HOOKER" citation_global_level_id="2029.008" party2_short="CASTRO" line="2" id="138152_2" alternative_keys="['u.s._543_832']" end="41" entry_type="party_key" lookup_key="hookercastro#1" id1="138146" start="17" party1_short="HOOKER" citation_local_level_id="1" >HOOKER v. CASTRO, WARDEN</CITATION>
+
+<NAME end="23" start="17" party1_of="138152_2" all_names="HOOKER" local_name_id="1" id="138152_3" >HOOKER</NAME>
+
+<NAME end="41" start="27" all_names="CASTRO WARDEN" party2_of="138152_2" local_name_id="2" id="138152_4" >CASTRO, WARDEN</NAME>
+
+<DOCKET alternative_keys="['u.s._543_832']" end="59" entry_type="docket" lookup_key="hookercastro#1" id1="138146" start="51" citation_global_level_id="2029.008" line="3" id="138152_7" citation_local_level_id="1" >03-10382</DOCKET>
+
+<ORGANIZATION start="65" end="95" id="138152_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="101" citation_global_level_id="2029.008" end="116" id="138152_9" citation_local_level_id="1" >October 4, 2004</DATE>
+
+<NAME start="148" local_name_id="3" end="151" id="138152_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="138152_2" party1="138152_3" party1_string="HOOKER" theme_string="HOOKER v. CASTRO, WARDEN" gram_type="infix" relation_type="asymmetric" id="138152_5" ></RELATION>
+
+<RELATION party2="138152_4" theme="138152_2" theme_string="HOOKER v. CASTRO, WARDEN" party2_string="CASTRO, WARDEN" gram_type="infix" relation_type="asymmetric" id="138152_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 832" X_vs_Y_string="HOOKER v. CASTRO, WARDEN" standard_case="138152_1" X_vs_Y="138152_2" gram_type="multi_line" relation_type="equivalence" id="138152_10" ></RELATION>
+
+<RELATION at_date_string="October 4, 2004" theme="138152_2" at_date="138152_9" theme_string="HOOKER v. CASTRO, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="138152_12" ></RELATION>
+
+<RELATION theme="138152_2" includes_docket_string="03-10382" includes_docket="138152_7" theme_string="HOOKER v. CASTRO, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="138152_11" ></RELATION>
+

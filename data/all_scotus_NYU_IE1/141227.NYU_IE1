@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['hubbartknapp#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1071" id1="141223" volume="543" start="0" page_number="1071" standard_reporter="U.S." citation_global_level_id="9615.002" line="1" id="141227_1" citation_local_level_id="0" >543 U.S. 1071</CITATION>
+
+<CITATION party2="KNAPP ET AL" party1="HUBBART" citation_global_level_id="16379.001" party2_short="KNAPP" line="2" id="141227_2" alternative_keys="['u.s._543_1071']" end="40" entry_type="party_key" lookup_key="hubbartknapp#1" id1="141227" start="18" party1_short="HUBBART" citation_local_level_id="1" >HUBBART v. KNAPP ET AL</CITATION>
+
+<NAME end="25" start="18" party1_of="141227_2" all_names="HUBBART" local_name_id="1" id="141227_3" >HUBBART</NAME>
+
+<NAME end="40" start="29" all_names="KNAPP" party2_of="141227_2" local_name_id="2" id="141227_4" >KNAPP ET AL</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="hubbartknapp#1" id1="141227" start="50" citation_global_level_id="16379.001" line="3" id="141227_7" citation_local_level_id="1" >04-7208</DOCKET>
+
+<ORGANIZATION start="63" end="93" id="141227_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="99" citation_global_level_id="16379.001" end="115" id="141227_9" citation_local_level_id="1" >January 10, 2005</DATE>
+
+<NAME start="147" local_name_id="3" end="150" id="141227_14" all_names="CIR" >Cir</NAME>
+
+<CITATION end="200" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_379_773" id1="Dummy_File_227047" volume="379" start="187" page_number="773" standard_reporter="F.3D" citation_global_level_id="290897.001" line="8" id="141227_13" citation_local_level_id="2" >379 F. 3d 773</CITATION>
+
+<RELATION theme="141227_2" party1="141227_3" party1_string="HUBBART" theme_string="HUBBART v. KNAPP ET AL" gram_type="infix" relation_type="asymmetric" id="141227_5" ></RELATION>
+
+<RELATION party2="141227_4" theme="141227_2" theme_string="HUBBART v. KNAPP ET AL" party2_string="KNAPP ET AL" gram_type="infix" relation_type="asymmetric" id="141227_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1071" X_vs_Y_string="HUBBART v. KNAPP ET AL" standard_case="141227_1" X_vs_Y="141227_2" gram_type="multi_line" relation_type="equivalence" id="141227_10" ></RELATION>
+
+<RELATION at_date_string="January 10, 2005" theme="141227_2" at_date="141227_9" theme_string="HUBBART v. KNAPP ET AL" gram_type="multi_line" relation_type="asymmetric" id="141227_12" ></RELATION>
+
+<RELATION theme="141227_2" includes_docket_string="04-7208" includes_docket="141227_7" theme_string="HUBBART v. KNAPP ET AL" gram_type="multi_line" relation_type="asymmetric" id="141227_11" ></RELATION>
+

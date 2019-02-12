@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['nicklassonarizona#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_926" id1="128220" volume="538" start="0" page_number="926" standard_reporter="U.S." citation_global_level_id="11553.002" line="1" id="128219_1" citation_local_level_id="0" >538 U.S. 926</CITATION>
+
+<CITATION party2="ARIZONA" party1="NICKLASSON" citation_global_level_id="19056.001" party2_short="ARIZONA" line="1" id="128219_3" alternative_keys="['u.s._538_926']" end="38" entry_type="party_key" lookup_key="nicklassonarizona#1" id1="128219" start="17" party1_short="NICKLASSON" citation_local_level_id="1" >NICKLASSON v. ARIZONA</CITATION>
+
+<NAME end="27" start="17" party1_of="128219_3" all_names="NICKLASSON" local_name_id="1" id="128219_4" >NICKLASSON</NAME>
+
+<NAME end="38" start="31" all_names="ARIZONA" party2_of="128219_3" local_name_id="2" id="128219_5" >ARIZONA</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._538_926" id1="128220" start="48" citation_global_level_id="11553.002" line="1" id="128219_2" citation_local_level_id="0" >02-7409</DOCKET>
+
+<DATE start="97" end="111" id="128219_6" >March 24, 2003</DATE>
+
+<NAME start="218" local_name_id="3" end="223" id="128219_12" all_names="SUPER" >Super</NAME>
+
+<RELATION theme="128219_1" includes_docket_string="02-7409" includes_docket="128219_2" theme_string="538 U.S. 926" gram_type="apposition" relation_type="asymmetric" id="128219_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 926" X_vs_Y_string="NICKLASSON v. ARIZONA" standard_case="128219_1" X_vs_Y="128219_3" gram_type="pre_nom" relation_type="equivalence" id="128219_7" ></RELATION>
+
+<RELATION theme="128219_3" includes_docket_string="02-7409" includes_docket="128219_2" theme_string="NICKLASSON v. ARIZONA" gram_type="apposition" relation_type="asymmetric" id="128219_10" ></RELATION>
+
+<RELATION theme="128219_3" party1="128219_4" party1_string="NICKLASSON" theme_string="NICKLASSON v. ARIZONA" gram_type="infix" relation_type="asymmetric" id="128219_8" ></RELATION>
+
+<RELATION party2="128219_5" theme="128219_3" theme_string="NICKLASSON v. ARIZONA" party2_string="ARIZONA" gram_type="infix" relation_type="asymmetric" id="128219_9" ></RELATION>
+

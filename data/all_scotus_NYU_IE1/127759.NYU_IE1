@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['hendersonwarden#4']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1236" id1="127758" volume="537" start="0" page_number="1236" standard_reporter="U.S." citation_global_level_id="3811.002" line="1" id="127759_1" citation_local_level_id="0" >537 U.S. 1236</CITATION>
+
+<CITATION party2="WALLS, WARDEN" party1="HENDERSON" citation_global_level_id="42171.001" party2_short="WARDEN" line="1" id="127759_3" alternative_keys="['u.s._537_1236']" end="44" entry_type="party_key" lookup_key="hendersonwarden#4" id1="127759" start="18" party1_short="HENDERSON" citation_local_level_id="1" >HENDERSON v. WALLS, WARDEN</CITATION>
+
+<NAME end="27" start="18" party1_of="127759_3" all_names="HENDERSON" local_name_id="1" id="127759_4" >HENDERSON</NAME>
+
+<NAME end="44" start="31" all_names="WALLS WARDEN" party2_of="127759_3" local_name_id="2" id="127759_5" >WALLS, WARDEN</NAME>
+
+<DOCKET end="61" entry_type="docket" lookup_key="u.s._537_1236" id1="127758" start="54" citation_global_level_id="3811.002" line="1" id="127759_2" citation_local_level_id="0" >02-8251</DOCKET>
+
+<DATE start="103" end="116" id="127759_6" >March 3, 2003</DATE>
+
+<NAME start="247" local_name_id="3" end="250" id="127759_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="300" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_296_541" id1="Dummy_File_17017" volume="296" start="287" page_number="541" standard_reporter="F.3D" citation_global_level_id="80867.001" line="3" id="127759_12" citation_local_level_id="2" >296 F. 3d 541</CITATION>
+
+<RELATION theme="127759_1" includes_docket_string="02-8251" includes_docket="127759_2" theme_string="537 U.S. 1236" gram_type="apposition" relation_type="asymmetric" id="127759_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1236" X_vs_Y_string="HENDERSON v. WALLS, WARDEN" standard_case="127759_1" X_vs_Y="127759_3" gram_type="pre_nom" relation_type="equivalence" id="127759_7" ></RELATION>
+
+<RELATION theme="127759_3" includes_docket_string="02-8251" includes_docket="127759_2" theme_string="HENDERSON v. WALLS, WARDEN" gram_type="apposition" relation_type="asymmetric" id="127759_10" ></RELATION>
+
+<RELATION theme="127759_3" party1="127759_4" party1_string="HENDERSON" theme_string="HENDERSON v. WALLS, WARDEN" gram_type="infix" relation_type="asymmetric" id="127759_8" ></RELATION>
+
+<RELATION party2="127759_5" theme="127759_3" theme_string="HENDERSON v. WALLS, WARDEN" party2_string="WALLS, WARDEN" gram_type="infix" relation_type="asymmetric" id="127759_9" ></RELATION>
+

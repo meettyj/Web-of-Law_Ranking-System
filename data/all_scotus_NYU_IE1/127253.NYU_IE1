@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['buchananwashington#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1198" id1="127251" volume="537" start="0" page_number="1198" standard_reporter="U.S." citation_global_level_id="8811.002" line="1" id="127253_1" citation_local_level_id="0" >537 U.S. 1198</CITATION>
+
+<CITATION party2="WASHINGTON" party1="BUCHANAN" citation_global_level_id="56036.001" party2_short="WASHINGTON" line="1" id="127253_3" alternative_keys="['u.s._537_1198']" end="40" entry_type="party_key" lookup_key="buchananwashington#1" id1="127253" start="18" party1_short="BUCHANAN" citation_local_level_id="1" >BUCHANAN v. WASHINGTON</CITATION>
+
+<NAME end="26" start="18" party1_of="127253_3" all_names="BUCHANAN" local_name_id="1" id="127253_4" >BUCHANAN</NAME>
+
+<NAME end="40" start="30" all_names="WASHINGTON" party2_of="127253_3" local_name_id="2" id="127253_5" >WASHINGTON</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._537_1198" id1="127251" start="50" citation_global_level_id="8811.002" line="1" id="127253_2" citation_local_level_id="0" >02-7807</DOCKET>
+
+<DATE start="99" end="116" id="127253_6" >February 24, 2003</DATE>
+
+<NAME start="213" local_name_id="3" end="215" id="127253_13" all_names="CT" >Ct</NAME>
+
+<CITATION end="282" reporter="Wash. App." entry_type="standard_key" no_current_file="True" lookup_key="wash.app._110_1031" id1="Dummy_File_49715" volume="110" start="263" page_number="1031" standard_reporter="WASH.APP." citation_global_level_id="113565.001" line="3" id="127253_12" citation_local_level_id="2" >110 Wash. App. 1031</CITATION>
+
+<RELATION theme="127253_1" includes_docket_string="02-7807" includes_docket="127253_2" theme_string="537 U.S. 1198" gram_type="apposition" relation_type="asymmetric" id="127253_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1198" X_vs_Y_string="BUCHANAN v. WASHINGTON" standard_case="127253_1" X_vs_Y="127253_3" gram_type="pre_nom" relation_type="equivalence" id="127253_7" ></RELATION>
+
+<RELATION theme="127253_3" includes_docket_string="02-7807" includes_docket="127253_2" theme_string="BUCHANAN v. WASHINGTON" gram_type="apposition" relation_type="asymmetric" id="127253_10" ></RELATION>
+
+<RELATION theme="127253_3" party1="127253_4" party1_string="BUCHANAN" theme_string="BUCHANAN v. WASHINGTON" gram_type="infix" relation_type="asymmetric" id="127253_8" ></RELATION>
+
+<RELATION party2="127253_5" theme="127253_3" theme_string="BUCHANAN v. WASHINGTON" party2_string="WASHINGTON" gram_type="infix" relation_type="asymmetric" id="127253_9" ></RELATION>
+

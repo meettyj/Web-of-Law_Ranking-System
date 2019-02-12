@@ -1,0 +1,58 @@
+<CITATION alternative_keys="['busbyharris#1', 's.ct._82_1167', 'l.ed.2d_8_398']" end="11" reporter="U.S." entry_type="standard_key" lookup_key="u.s._370_48" id1="106420" volume="370" start="0" page_number="48" standard_reporter="U.S." citation_global_level_id="44946.002" line="1" id="106420_1" citation_local_level_id="0" >370 U.S. 48</CITATION>
+
+<CITATION alternative_keys="['u.s._370_48', 'busbyharris#1', 'l.ed.2d_8_398']" end="30" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._82_1167" id1="106420" volume="82" start="16" page_number="1167" standard_reporter="S.CT." citation_global_level_id="44946.003" line="1" id="106420_2" citation_local_level_id="1" >82 S. Ct. 1167</CITATION>
+
+<NAME start="19" local_name_id="1" end="24" id="106420_8" all_names="S CT" >S. Ct</NAME>
+
+<CITATION alternative_keys="['u.s._370_48', 's.ct._82_1167', 'busbyharris#1']" end="50" reporter="L. Ed. 2d" entry_type="standard_key" lookup_key="l.ed.2d_8_398" id1="106420" volume="8" start="35" page_number="398" standard_reporter="L.ED.2D" citation_global_level_id="44946.004" line="1" id="106420_3" citation_local_level_id="2" >8 L. Ed. 2d 398</CITATION>
+
+<CITATION party2="Hon. George B. HARRIS, Judge" party1="Thomas BUSBY et al." citation_global_level_id="44946.005" party2_short="HARRIS" line="1" id="106420_4" alternative_keys="['s.ct._82_1167', 'l.ed.2d_8_398', 'u.s._370_48']" end="106" entry_type="party_key" lookup_key="busbyharris#1" id1="106420" start="55" party1_short="BUSBY" citation_local_level_id="3" >Thomas BUSBY et al. v. Hon. George B. HARRIS, Judge</CITATION>
+
+<NAME end="74" start="55" party1_of="106420_4" all_names="THOMAS BUSBY" local_name_id="2" id="106420_5" >Thomas BUSBY et al.</NAME>
+
+<NAME end="106" start="78" all_names="HON GEORGE B HARRIS JUDGE" party2_of="106420_4" local_name_id="3" id="106420_6" >Hon. George B. HARRIS, Judge</NAME>
+
+<PROFESSION start="78" end="81" id="106420_9" >Hon</PROFESSION>
+
+<PROFESSION start="101" end="106" id="106420_10" >Judge</PROFESSION>
+
+<NAME start="134" local_name_id="4" end="138" id="106420_11" all_names="MISC" >Misc</NAME>
+
+<DATE start="183" end="195" id="106420_7" >May 28, 1962</DATE>
+
+<PROFESSION start="234" document_level_name_id="5" end="251" id="106420_17" party="COX" >Solicitor General</PROFESSION>
+
+<NAME start="252" local_name_id="5" end="255" id="106420_18" all_names="COX" >Cox</NAME>
+
+<PROFESSION start="257" document_level_name_id="5" end="283" id="106420_19" party="COX" >Assistant Attorney General</PROFESSION>
+
+<NAME start="284" local_name_id="6" end="292" id="106420_20" all_names="MARSHALL" >Marshall</NAME>
+
+<NAME start="294" local_name_id="7" end="335" id="106420_21" all_names="HAROLD H GREENE AND HOWARD A GLICKSTEIN" >Harold H. Greene and Howard A. Glickstein</NAME>
+
+<LEGAL_ROLE start="341" end="352" plural="True" id="106420_22" >respondents</LEGAL_ROLE>
+
+<ORGANIZATION start="402" end="454" id="106420_26" >United States Court of Appeals for the Ninth Circuit</ORGANIZATION>
+
+<NAME start="466" local_name_id="8" end="472" id="106420_27" all_names="CURIAM" >CURIAM</NAME>
+
+<NAME start="894" local_name_id="9" end="917" id="106420_28" all_names="MR JUSTICE FRANKFURTER" >Mr. Justice FRANKFURTER</NAME>
+
+<PROFESSION start="898" end="905" id="106420_29" >Justice</PROFESSION>
+
+<RELATION standard_case_string="370 U.S. 48" X_vs_Y_string="Thomas BUSBY et al. v. Hon. George B. HARRIS, Judge" standard_case="106420_1" X_vs_Y="106420_4" gram_type="pre_nom" relation_type="equivalence" id="106420_13" ></RELATION>
+
+<RELATION standard_case_string="82 S. Ct. 1167" X_vs_Y_string="Thomas BUSBY et al. v. Hon. George B. HARRIS, Judge" standard_case="106420_2" X_vs_Y="106420_4" gram_type="pre_nom" relation_type="equivalence" id="106420_14" ></RELATION>
+
+<RELATION standard_case_string="8 L. Ed. 2d 398" X_vs_Y_string="Thomas BUSBY et al. v. Hon. George B. HARRIS, Judge" standard_case="106420_3" X_vs_Y="106420_4" gram_type="pre_nom" relation_type="equivalence" id="106420_12" ></RELATION>
+
+<RELATION theme="106420_4" party1="106420_5" party1_string="Thomas BUSBY et al." theme_string="Thomas BUSBY et al. v. Hon. George B. HARRIS, Judge" gram_type="infix" relation_type="asymmetric" id="106420_15" ></RELATION>
+
+<RELATION party2="106420_6" theme="106420_4" theme_string="Thomas BUSBY et al. v. Hon. George B. HARRIS, Judge" party2_string="Hon. George B. HARRIS, Judge" gram_type="infix" relation_type="asymmetric" id="106420_16" ></RELATION>
+
+<RELATION theme="106420_18" profession_string="Solicitor General" theme_string="Cox" profession="106420_17" gram_type="pre_nom" relation_type="asymmetric" id="106420_23" ></RELATION>
+
+<RELATION theme="106420_18" profession_string="Assistant Attorney General" theme_string="Cox" profession="106420_19" gram_type="apposition" relation_type="asymmetric" id="106420_24" ></RELATION>
+
+<RELATION theme="106420_20" profession_string="Assistant Attorney General" theme_string="Marshall" profession="106420_19" gram_type="pre_nom" relation_type="asymmetric" id="106420_25" ></RELATION>
+

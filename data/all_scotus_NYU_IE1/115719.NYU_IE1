@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['bundickstates#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1019" id1="115720" volume="510" start="0" page_number="1019" standard_reporter="U.S." citation_global_level_id="3972.002" line="1" id="115719_1" citation_local_level_id="0" >510 U.S. 1019</CITATION>
+
+<CITATION party2="United States" party1="Bundick" citation_global_level_id="49906.001" party2_short="States" line="1" id="115719_3" alternative_keys="['u.s._510_1019']" end="42" entry_type="party_key" lookup_key="bundickstates#1" id1="115719" start="18" party1_short="Bundick" citation_local_level_id="1" >Bundick v. United States</CITATION>
+
+<NAME end="25" start="18" party1_of="115719_3" all_names="BUNDICK" local_name_id="1" id="115719_4" >Bundick</NAME>
+
+<NAME end="42" start="29" all_names="UNITED STATES" party2_of="115719_3" local_name_id="2" id="115719_5" >United States</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="u.s._510_1019" id1="115720" start="52" citation_global_level_id="3972.002" line="1" id="115719_2" citation_local_level_id="0" >93-6678</DOCKET>
+
+<DATE start="101" end="117" id="115719_6" >December 6, 1993</DATE>
+
+<NAME start="195" local_name_id="3" end="205" id="115719_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="244" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_993_1539" id1="Dummy_File_5946" volume="993" start="230" page_number="1539" standard_reporter="F.2D" citation_global_level_id="69796.001" line="3" id="115719_12" citation_local_level_id="2" >993 F. 2d 1539</CITATION>
+
+<RELATION theme="115719_1" includes_docket_string="93-6678" includes_docket="115719_2" theme_string="510 U.S. 1019" gram_type="apposition" relation_type="asymmetric" id="115719_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1019" X_vs_Y_string="Bundick v. United States" standard_case="115719_1" X_vs_Y="115719_3" gram_type="pre_nom" relation_type="equivalence" id="115719_7" ></RELATION>
+
+<RELATION theme="115719_3" includes_docket_string="93-6678" includes_docket="115719_2" theme_string="Bundick v. United States" gram_type="apposition" relation_type="asymmetric" id="115719_10" ></RELATION>
+
+<RELATION theme="115719_3" party1="115719_4" party1_string="Bundick" theme_string="Bundick v. United States" gram_type="infix" relation_type="asymmetric" id="115719_8" ></RELATION>
+
+<RELATION party2="115719_5" theme="115719_3" theme_string="Bundick v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="115719_9" ></RELATION>
+

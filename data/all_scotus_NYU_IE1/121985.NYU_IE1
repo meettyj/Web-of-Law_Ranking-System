@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['thompsonstates#9']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._536_968" id1="121977" volume="536" start="0" page_number="968" standard_reporter="U.S." citation_global_level_id="683.002" line="1" id="121985_1" citation_local_level_id="0" >536 U.S. 968</CITATION>
+
+<CITATION party2="UNITED STATES" party1="THOMPSON" citation_global_level_id="27244.001" party2_short="STATES" line="2" id="121985_2" alternative_keys="['u.s._536_968']" end="42" entry_type="party_key" lookup_key="thompsonstates#9" id1="105016" start="17" party1_short="THOMPSON" citation_local_level_id="1" >THOMPSON v. UNITED STATES</CITATION>
+
+<NAME end="25" start="17" party1_of="121985_2" all_names="THOMPSON" local_name_id="1" id="121985_3" >THOMPSON</NAME>
+
+<NAME end="42" start="29" all_names="UNITED STATES" party2_of="121985_2" local_name_id="2" id="121985_4" >UNITED STATES</NAME>
+
+<DOCKET end="60" entry_type="docket" lookup_key="thompsonstates#9" id1="105016" start="52" citation_global_level_id="27244.001" line="3" id="121985_7" citation_local_level_id="1" >01-10278</DOCKET>
+
+<DATE start="106" citation_global_level_id="27244.001" end="119" id="121985_8" citation_local_level_id="1" >June 28, 2002</DATE>
+
+<NAME start="150" local_name_id="3" end="153" id="121985_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="203" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_276_582" id1="Dummy_File_79301" volume="276" start="190" page_number="582" standard_reporter="F.3D" citation_global_level_id="143151.001" line="8" id="121985_12" citation_local_level_id="2" >276 F. 3d 582</CITATION>
+
+<RELATION theme="121985_2" party1="121985_3" party1_string="THOMPSON" theme_string="THOMPSON v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="121985_5" ></RELATION>
+
+<RELATION party2="121985_4" theme="121985_2" theme_string="THOMPSON v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="121985_6" ></RELATION>
+
+<RELATION standard_case_string="536 U.S. 968" X_vs_Y_string="THOMPSON v. UNITED STATES" standard_case="121985_1" X_vs_Y="121985_2" gram_type="multi_line" relation_type="equivalence" id="121985_9" ></RELATION>
+
+<RELATION at_date_string="June 28, 2002" theme="121985_2" at_date="121985_8" theme_string="THOMPSON v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="121985_11" ></RELATION>
+
+<RELATION theme="121985_2" includes_docket_string="01-10278" includes_docket="121985_7" theme_string="THOMPSON v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="121985_10" ></RELATION>
+

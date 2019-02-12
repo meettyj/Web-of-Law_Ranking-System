@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['warrenstates#9']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_881" id1="132200" volume="540" start="0" page_number="881" standard_reporter="U.S." citation_global_level_id="978.002" line="1" id="132201_1" citation_local_level_id="0" >540 U.S. 881</CITATION>
+
+<CITATION party2="UNITED STATES" party1="WARREN" citation_global_level_id="48245.001" party2_short="STATES" line="1" id="132201_3" alternative_keys="['u.s._540_881']" end="40" entry_type="party_key" lookup_key="warrenstates#9" id1="104861" start="17" party1_short="WARREN" citation_local_level_id="1" >WARREN v. UNITED STATES</CITATION>
+
+<NAME end="23" start="17" party1_of="132201_3" all_names="WARREN" local_name_id="1" id="132201_4" >WARREN</NAME>
+
+<NAME end="40" start="27" all_names="UNITED STATES" party2_of="132201_3" local_name_id="2" id="132201_5" >UNITED STATES</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._540_881" id1="132200" start="50" citation_global_level_id="978.002" line="1" id="132201_2" citation_local_level_id="0" >03-231</DOCKET>
+
+<DATE start="98" end="113" id="132201_6" >October 6, 2003</DATE>
+
+<NAME start="190" local_name_id="3" end="200" id="132201_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="238" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_329_131" id1="Dummy_File_140765" volume="329" start="225" page_number="131" standard_reporter="F.3D" citation_global_level_id="204615.001" line="3" id="132201_12" citation_local_level_id="2" >329 F. 3d 131</CITATION>
+
+<RELATION theme="132201_1" includes_docket_string="03-231" includes_docket="132201_2" theme_string="540 U.S. 881" gram_type="apposition" relation_type="asymmetric" id="132201_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 881" X_vs_Y_string="WARREN v. UNITED STATES" standard_case="132201_1" X_vs_Y="132201_3" gram_type="pre_nom" relation_type="equivalence" id="132201_7" ></RELATION>
+
+<RELATION theme="132201_3" includes_docket_string="03-231" includes_docket="132201_2" theme_string="WARREN v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="132201_10" ></RELATION>
+
+<RELATION theme="132201_3" party1="132201_4" party1_string="WARREN" theme_string="WARREN v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="132201_8" ></RELATION>
+
+<RELATION party2="132201_5" theme="132201_3" theme_string="WARREN v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="132201_9" ></RELATION>
+

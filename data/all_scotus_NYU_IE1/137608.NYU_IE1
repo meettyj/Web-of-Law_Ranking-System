@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['dulisseservice#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._542_957" id1="137619" volume="542" start="0" page_number="957" standard_reporter="U.S." citation_global_level_id="3019.002" line="1" id="137608_1" citation_local_level_id="0" >542 U.S. 957</CITATION>
+
+<CITATION party2="CENTRAL PENN PROPERTY SERVICE, INC" party1="DULISSE" citation_global_level_id="33384.001" party2_short="SERVICE" line="1" id="137608_3" alternative_keys="['u.s._542_957']" end="62" entry_type="party_key" lookup_key="dulisseservice#2" id1="136903" start="17" party1_short="DULISSE" citation_local_level_id="1" >DULISSE v. CENTRAL PENN PROPERTY SERVICE, INC</CITATION>
+
+<NAME end="24" start="17" party1_of="137608_3" all_names="DULISSE" local_name_id="1" id="137608_4" >DULISSE</NAME>
+
+<NAME end="62" start="28" all_names="CENTRAL PENN PROPERTY SERVICE INC" party2_of="137608_3" local_name_id="2" id="137608_5" >CENTRAL PENN PROPERTY SERVICE, INC</NAME>
+
+<DOCKET end="79" entry_type="docket" lookup_key="u.s._542_957" id1="137619" start="72" citation_global_level_id="3019.002" line="1" id="137608_2" citation_local_level_id="0" >03-9657</DOCKET>
+
+<DATE start="121" end="135" id="137608_6" >August 2, 2004</DATE>
+
+<CITATION end="243" reporter="U. S." entry_type="standard_key" lookup_key="u.s._541_1088" id1="136898" volume="541" start="229" page_number="1088" standard_reporter="U.S." citation_global_level_id="149.002" line="3" id="137608_12" citation_local_level_id="2" >541 U. S. 1088</CITATION>
+
+<RELATION theme="137608_1" includes_docket_string="03-9657" includes_docket="137608_2" theme_string="542 U.S. 957" gram_type="apposition" relation_type="asymmetric" id="137608_11" ></RELATION>
+
+<RELATION standard_case_string="542 U.S. 957" X_vs_Y_string="DULISSE v. CENTRAL PENN PROPERTY SERVICE, INC" standard_case="137608_1" X_vs_Y="137608_3" gram_type="pre_nom" relation_type="equivalence" id="137608_7" ></RELATION>
+
+<RELATION theme="137608_3" includes_docket_string="03-9657" includes_docket="137608_2" theme_string="DULISSE v. CENTRAL PENN PROPERTY SERVICE, INC" gram_type="apposition" relation_type="asymmetric" id="137608_10" ></RELATION>
+
+<RELATION theme="137608_3" party1="137608_4" party1_string="DULISSE" theme_string="DULISSE v. CENTRAL PENN PROPERTY SERVICE, INC" gram_type="infix" relation_type="asymmetric" id="137608_8" ></RELATION>
+
+<RELATION party2="137608_5" theme="137608_3" theme_string="DULISSE v. CENTRAL PENN PROPERTY SERVICE, INC" party2_string="CENTRAL PENN PROPERTY SERVICE, INC" gram_type="infix" relation_type="asymmetric" id="137608_9" ></RELATION>
+

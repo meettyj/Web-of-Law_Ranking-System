@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['williamsonmichigan#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1039" id1="120161" volume="535" start="0" page_number="1039" standard_reporter="U.S." citation_global_level_id="3843.002" line="1" id="120161_1" citation_local_level_id="0" >535 U.S. 1039</CITATION>
+
+<CITATION party2="MICHIGAN" party1="WILLIAMSON" citation_global_level_id="3843.001" party2_short="MICHIGAN" line="2" id="120161_2" alternative_keys="['u.s._535_1039']" end="40" entry_type="party_key" lookup_key="williamsonmichigan#1" id1="120161" start="18" party1_short="WILLIAMSON" citation_local_level_id="1" >WILLIAMSON v. MICHIGAN</CITATION>
+
+<NAME end="28" start="18" party1_of="120161_2" all_names="WILLIAMSON" local_name_id="1" id="120161_3" >WILLIAMSON</NAME>
+
+<NAME end="40" start="32" all_names="MICHIGAN" party2_of="120161_2" local_name_id="2" id="120161_4" >MICHIGAN</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="williamsonmichigan#1" id1="120161" start="50" citation_global_level_id="3843.001" line="3" id="120161_7" citation_local_level_id="1" >01-8706</DOCKET>
+
+<DATE start="103" citation_global_level_id="3843.001" end="117" id="120161_8" citation_local_level_id="1" >April 29, 2002</DATE>
+
+<NAME start="139" local_name_id="3" end="142" id="120161_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="120161_2" party1="120161_3" party1_string="WILLIAMSON" theme_string="WILLIAMSON v. MICHIGAN" gram_type="infix" relation_type="asymmetric" id="120161_5" ></RELATION>
+
+<RELATION party2="120161_4" theme="120161_2" theme_string="WILLIAMSON v. MICHIGAN" party2_string="MICHIGAN" gram_type="infix" relation_type="asymmetric" id="120161_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1039" X_vs_Y_string="WILLIAMSON v. MICHIGAN" standard_case="120161_1" X_vs_Y="120161_2" gram_type="multi_line" relation_type="equivalence" id="120161_9" ></RELATION>
+
+<RELATION at_date_string="April 29, 2002" theme="120161_2" at_date="120161_8" theme_string="WILLIAMSON v. MICHIGAN" gram_type="multi_line" relation_type="asymmetric" id="120161_11" ></RELATION>
+
+<RELATION theme="120161_2" includes_docket_string="01-8706" includes_docket="120161_7" theme_string="WILLIAMSON v. MICHIGAN" gram_type="multi_line" relation_type="asymmetric" id="120161_10" ></RELATION>
+

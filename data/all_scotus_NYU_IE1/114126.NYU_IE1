@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['grahamrollins#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_895" id1="114127" volume="510" start="0" page_number="895" standard_reporter="U.S." citation_global_level_id="5395.002" line="1" id="114126_1" citation_local_level_id="0" >510 U.S. 895</CITATION>
+
+<CITATION party2="Rollins, Warden" party1="Graham" citation_global_level_id="5395.008" party2_short="Rollins" line="1" id="114126_3" alternative_keys="['u.s._510_895']" end="42" entry_type="party_key" lookup_key="grahamrollins#1" id1="114127" start="17" party1_short="Graham" citation_local_level_id="1" >Graham v. Rollins, Warden</CITATION>
+
+<NAME end="23" start="17" party1_of="114126_3" all_names="GRAHAM" local_name_id="1" id="114126_4" >Graham</NAME>
+
+<NAME end="42" start="27" all_names="ROLLINS WARDEN" party2_of="114126_3" local_name_id="2" id="114126_5" >Rollins, Warden</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="u.s._510_895" id1="114127" start="52" citation_global_level_id="5395.002" line="1" id="114126_2" citation_local_level_id="0" >93-5475</DOCKET>
+
+<DATE start="101" end="116" id="114126_6" >October 4, 1993</DATE>
+
+<NAME start="194" local_name_id="3" end="204" id="114126_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="242" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_989_492" id1="Dummy_File_64947" volume="989" start="229" page_number="492" standard_reporter="F.2D" citation_global_level_id="128797.001" line="3" id="114126_12" citation_local_level_id="2" >989 F. 2d 492</CITATION>
+
+<RELATION theme="114126_1" includes_docket_string="93-5475" includes_docket="114126_2" theme_string="510 U.S. 895" gram_type="apposition" relation_type="asymmetric" id="114126_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 895" X_vs_Y_string="Graham v. Rollins, Warden" standard_case="114126_1" X_vs_Y="114126_3" gram_type="pre_nom" relation_type="equivalence" id="114126_7" ></RELATION>
+
+<RELATION theme="114126_3" includes_docket_string="93-5475" includes_docket="114126_2" theme_string="Graham v. Rollins, Warden" gram_type="apposition" relation_type="asymmetric" id="114126_10" ></RELATION>
+
+<RELATION theme="114126_3" party1="114126_4" party1_string="Graham" theme_string="Graham v. Rollins, Warden" gram_type="infix" relation_type="asymmetric" id="114126_8" ></RELATION>
+
+<RELATION party2="114126_5" theme="114126_3" theme_string="Graham v. Rollins, Warden" party2_string="Rollins, Warden" gram_type="infix" relation_type="asymmetric" id="114126_9" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['lostates#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_903" id1="114238" volume="510" start="0" page_number="903" standard_reporter="U.S." citation_global_level_id="1084.002" line="1" id="114250_1" citation_local_level_id="0" >510 U.S. 903</CITATION>
+
+<CITATION party2="United States" party1="Hai Van Lo" citation_global_level_id="56984.001" party2_short="States" line="1" id="114250_3" alternative_keys="['u.s._510_903']" end="44" entry_type="party_key" lookup_key="lostates#1" id1="114250" start="17" party1_short="Lo" citation_local_level_id="1" >Hai Van Lo v. United States</CITATION>
+
+<NAME end="27" start="17" party1_of="114250_3" all_names="HAI VAN LO" local_name_id="1" id="114250_4" >Hai Van Lo</NAME>
+
+<NAME end="44" start="31" all_names="UNITED STATES" party2_of="114250_3" local_name_id="2" id="114250_5" >United States</NAME>
+
+<DOCKET end="61" entry_type="docket" lookup_key="u.s._510_903" id1="114238" start="54" citation_global_level_id="1084.002" line="1" id="114250_2" citation_local_level_id="0" >93-5736</DOCKET>
+
+<DATE start="103" end="118" id="114250_6" >October 4, 1993</DATE>
+
+<NAME start="196" local_name_id="3" end="206" id="114250_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="244" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_999_545" id1="Dummy_File_79884" volume="999" start="231" page_number="545" standard_reporter="F.2D" citation_global_level_id="143734.001" line="3" id="114250_12" citation_local_level_id="2" >999 F. 2d 545</CITATION>
+
+<RELATION theme="114250_1" includes_docket_string="93-5736" includes_docket="114250_2" theme_string="510 U.S. 903" gram_type="apposition" relation_type="asymmetric" id="114250_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 903" X_vs_Y_string="Hai Van Lo v. United States" standard_case="114250_1" X_vs_Y="114250_3" gram_type="pre_nom" relation_type="equivalence" id="114250_7" ></RELATION>
+
+<RELATION theme="114250_3" includes_docket_string="93-5736" includes_docket="114250_2" theme_string="Hai Van Lo v. United States" gram_type="apposition" relation_type="asymmetric" id="114250_10" ></RELATION>
+
+<RELATION theme="114250_3" party1="114250_4" party1_string="Hai Van Lo" theme_string="Hai Van Lo v. United States" gram_type="infix" relation_type="asymmetric" id="114250_8" ></RELATION>
+
+<RELATION party2="114250_5" theme="114250_3" theme_string="Hai Van Lo v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="114250_9" ></RELATION>
+

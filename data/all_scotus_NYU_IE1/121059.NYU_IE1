@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['rausovaughn#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1116" id1="121071" volume="535" start="0" page_number="1116" standard_reporter="U.S." citation_global_level_id="1028.002" line="1" id="121059_1" citation_local_level_id="0" >535 U.S. 1116</CITATION>
+
+<CITATION party2="VAUGHN, SUPERINTENDENT, STATE CORRECTIONAL INSTITUTION AT GRATERFORD" party1="RAUSO" citation_global_level_id="1028.005" party2_short="VAUGHN" line="2" id="121059_3" alternative_keys="['u.s._535_1116']" end="95" entry_type="party_key" lookup_key="rausovaughn#1" id1="121071" start="18" party1_short="RAUSO" citation_local_level_id="1" >RAUSO v. VAUGHN, SUPERINTENDENT, STATE CORRECTIONAL INSTITUTION AT GRATERFORD</CITATION>
+
+<NAME end="23" start="18" party1_of="121059_3" all_names="RAUSO" local_name_id="1" id="121059_4" >RAUSO</NAME>
+
+<NAME end="95" start="27" all_names="VAUGHN SUPERINTENDENT STATE CORRECTIONAL INSTITUTION AT GRATERFORD" party2_of="121059_3" local_name_id="2" id="121059_5" >VAUGHN, SUPERINTENDENT, STATE CORRECTIONAL INSTITUTION AT GRATERFORD</NAME>
+
+<DOCKET alternative_keys="['u.s._535_1116']" end="112" entry_type="docket" lookup_key="rausovaughn#1" id1="121071" start="105" citation_global_level_id="1028.005" line="2" id="121059_2" citation_local_level_id="1" >01-9396</DOCKET>
+
+<DATE start="158" citation_global_level_id="1028.005" end="170" id="121059_9" citation_local_level_id="1" >June 3, 2002</DATE>
+
+<NAME start="201" local_name_id="3" end="204" id="121059_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="121059_3" includes_docket_string="01-9396" includes_docket="121059_2" theme_string="RAUSO v. VAUGHN, SUPERINTENDENT, STATE CORRECTIONAL INSTITUTION AT GRATERFORD" gram_type="apposition" relation_type="asymmetric" id="121059_8" ></RELATION>
+
+<RELATION theme="121059_3" party1="121059_4" party1_string="RAUSO" theme_string="RAUSO v. VAUGHN, SUPERINTENDENT, STATE CORRECTIONAL INSTITUTION AT GRATERFORD" gram_type="infix" relation_type="asymmetric" id="121059_6" ></RELATION>
+
+<RELATION party2="121059_5" theme="121059_3" theme_string="RAUSO v. VAUGHN, SUPERINTENDENT, STATE CORRECTIONAL INSTITUTION AT GRATERFORD" party2_string="VAUGHN, SUPERINTENDENT, STATE CORRECTIONAL INSTITUTION AT GRATERFORD" gram_type="infix" relation_type="asymmetric" id="121059_7" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1116" X_vs_Y_string="RAUSO v. VAUGHN, SUPERINTENDENT, STATE CORRECTIONAL INSTITUTION AT GRATERFORD" standard_case="121059_1" X_vs_Y="121059_3" gram_type="multi_line" relation_type="equivalence" id="121059_10" ></RELATION>
+
+<RELATION at_date_string="June 3, 2002" theme="121059_3" at_date="121059_9" theme_string="RAUSO v. VAUGHN, SUPERINTENDENT, STATE CORRECTIONAL INSTITUTION AT GRATERFORD" gram_type="multi_line" relation_type="asymmetric" id="121059_11" ></RELATION>
+

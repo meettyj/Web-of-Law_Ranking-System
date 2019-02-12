@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['tayloredgar#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1015" id1="129401" volume="538" start="0" page_number="1015" standard_reporter="U.S." citation_global_level_id="2360.002" line="1" id="129391_1" citation_local_level_id="0" >538 U.S. 1015</CITATION>
+
+<CITATION party2="EDGAR ET AL" party1="TAYLOR" citation_global_level_id="6230.001" party2_short="EDGAR" line="1" id="129391_3" alternative_keys="['u.s._538_1015']" end="39" entry_type="party_key" lookup_key="tayloredgar#1" id1="129391" start="18" party1_short="TAYLOR" citation_local_level_id="1" >TAYLOR v. EDGAR ET AL</CITATION>
+
+<NAME end="24" start="18" party1_of="129391_3" all_names="TAYLOR" local_name_id="1" id="129391_4" >TAYLOR</NAME>
+
+<NAME end="39" start="28" all_names="EDGAR" party2_of="129391_3" local_name_id="2" id="129391_5" >EDGAR ET AL</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._538_1015" id1="129401" start="49" citation_global_level_id="2360.002" line="1" id="129391_2" citation_local_level_id="0" >02-9324</DOCKET>
+
+<DATE start="98" end="109" id="129391_6" >May 5, 2003</DATE>
+
+<NAME start="240" local_name_id="3" end="243" id="129391_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="129391_1" includes_docket_string="02-9324" includes_docket="129391_2" theme_string="538 U.S. 1015" gram_type="apposition" relation_type="asymmetric" id="129391_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1015" X_vs_Y_string="TAYLOR v. EDGAR ET AL" standard_case="129391_1" X_vs_Y="129391_3" gram_type="pre_nom" relation_type="equivalence" id="129391_7" ></RELATION>
+
+<RELATION theme="129391_3" includes_docket_string="02-9324" includes_docket="129391_2" theme_string="TAYLOR v. EDGAR ET AL" gram_type="apposition" relation_type="asymmetric" id="129391_10" ></RELATION>
+
+<RELATION theme="129391_3" party1="129391_4" party1_string="TAYLOR" theme_string="TAYLOR v. EDGAR ET AL" gram_type="infix" relation_type="asymmetric" id="129391_8" ></RELATION>
+
+<RELATION party2="129391_5" theme="129391_3" theme_string="TAYLOR v. EDGAR ET AL" party2_string="EDGAR ET AL" gram_type="infix" relation_type="asymmetric" id="129391_9" ></RELATION>
+

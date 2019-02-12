@@ -1,0 +1,48 @@
+<CITATION alternative_keys="['financedirector#2', 's.ct._83_41', 'l.ed.2d_9_49']" end="11" reporter="U.S." entry_type="standard_key" lookup_key="u.s._371_13" id1="106473" volume="371" start="0" page_number="13" standard_reporter="U.S." citation_global_level_id="5426.002" line="1" id="106473_1" citation_local_level_id="0" >371 U.S. 13</CITATION>
+
+<CITATION alternative_keys="['u.s._371_13', 'financedirector#2', 'l.ed.2d_9_49']" end="28" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._83_41" id1="106473" volume="83" start="16" page_number="41" standard_reporter="S.CT." citation_global_level_id="5426.003" line="1" id="106473_2" citation_local_level_id="1" >83 S. Ct. 41</CITATION>
+
+<NAME start="19" local_name_id="1" end="24" id="106473_8" all_names="S CT" >S. Ct</NAME>
+
+<CITATION alternative_keys="['u.s._371_13', 's.ct._83_41', 'financedirector#2']" end="47" reporter="L. Ed. 2d" entry_type="standard_key" lookup_key="l.ed.2d_9_49" id1="106473" volume="9" start="33" page_number="49" standard_reporter="L.ED.2D" citation_global_level_id="5426.004" line="1" id="106473_3" citation_local_level_id="2" >9 L. Ed. 2d 49</CITATION>
+
+<CITATION party2="DIRECTOR OF DIVISION OF TAXATION, DEPARTMENT OF  TREASURY OF NEW JERSEY" party1="HOUSEHOLD FINANCE CORP." citation_global_level_id="5426.005" party2_short="DIRECTOR" line="1" id="106473_4" alternative_keys="['s.ct._83_41', 'l.ed.2d_9_49', 'u.s._371_13']" end="150" entry_type="party_key" lookup_key="financedirector#2" id1="106473" start="52" party1_short="FINANCE" citation_local_level_id="3" >HOUSEHOLD FINANCE CORP. v. DIRECTOR OF DIVISION OF TAXATION, DEPARTMENT OF TREASURY OF NEW JERSEY</CITATION>
+
+<NAME end="75" start="52" party1_of="106473_4" all_names="HOUSEHOLD FINANCE CORP" local_name_id="2" id="106473_5" >HOUSEHOLD FINANCE CORP.</NAME>
+
+<ORGANIZATION start="52" end="74" id="106473_9" >HOUSEHOLD FINANCE CORP</ORGANIZATION>
+
+<NAME end="150" start="79" all_names="DIRECTOR OF DIVISION OF TAXATION DEPARTMENT OF TREASURY OF NEW JERSEY" party2_of="106473_4" local_name_id="3" id="106473_6" >DIRECTOR OF DIVISION OF TAXATION, DEPARTMENT OF TREASURY OF NEW JERSEY</NAME>
+
+<DATE start="208" end="223" id="106473_7" >October 8, 1962</DATE>
+
+<NAME start="271" local_name_id="4" end="286" id="106473_15" all_names="ARTHUR J SILLS" >Arthur J. Sills</NAME>
+
+<PROFESSION start="288" document_level_name_id="4" end="312" id="106473_16" party="ARTHUR J SILLS" >Atty. Gen. of New Jersey</PROFESSION>
+
+<NAME start="318" local_name_id="5" end="333" id="106473_17" all_names="ALAN B HANDLER" >Alan B. Handler</NAME>
+
+<PROFESSION start="335" document_level_name_id="5" end="351" id="106473_18" party="ALAN B HANDLER" >Deputy Atty. Gen</PROFESSION>
+
+<LEGAL_ROLE start="358" end="366" id="106473_19" party="party2" >appellee</LEGAL_ROLE>
+
+<NAME start="378" local_name_id="6" end="384" id="106473_22" all_names="CURIAM" >CURIAM</NAME>
+
+<NAME start="607" local_name_id="7" end="627" id="106473_23" all_names="MR JUSTICE GOLDBERG" >Mr. Justice GOLDBERG</NAME>
+
+<PROFESSION start="611" end="618" id="106473_24" >Justice</PROFESSION>
+
+<RELATION standard_case_string="371 U.S. 13" X_vs_Y_string="HOUSEHOLD FINANCE CORP. v. DIRECTOR OF DIVISION OF TAXATION, DEPARTMENT OF  TREASURY OF NEW JERSEY" standard_case="106473_1" X_vs_Y="106473_4" gram_type="pre_nom" relation_type="equivalence" id="106473_11" ></RELATION>
+
+<RELATION standard_case_string="83 S. Ct. 41" X_vs_Y_string="HOUSEHOLD FINANCE CORP. v. DIRECTOR OF DIVISION OF TAXATION, DEPARTMENT OF  TREASURY OF NEW JERSEY" standard_case="106473_2" X_vs_Y="106473_4" gram_type="pre_nom" relation_type="equivalence" id="106473_12" ></RELATION>
+
+<RELATION standard_case_string="9 L. Ed. 2d 49" X_vs_Y_string="HOUSEHOLD FINANCE CORP. v. DIRECTOR OF DIVISION OF TAXATION, DEPARTMENT OF  TREASURY OF NEW JERSEY" standard_case="106473_3" X_vs_Y="106473_4" gram_type="pre_nom" relation_type="equivalence" id="106473_10" ></RELATION>
+
+<RELATION theme="106473_4" party1="106473_5" party1_string="HOUSEHOLD FINANCE CORP." theme_string="HOUSEHOLD FINANCE CORP. v. DIRECTOR OF DIVISION OF TAXATION, DEPARTMENT OF  TREASURY OF NEW JERSEY" gram_type="infix" relation_type="asymmetric" id="106473_13" ></RELATION>
+
+<RELATION party2="106473_6" theme="106473_4" theme_string="HOUSEHOLD FINANCE CORP. v. DIRECTOR OF DIVISION OF TAXATION, DEPARTMENT OF  TREASURY OF NEW JERSEY" party2_string="DIRECTOR OF DIVISION OF TAXATION, DEPARTMENT OF  TREASURY OF NEW JERSEY" gram_type="infix" relation_type="asymmetric" id="106473_14" ></RELATION>
+
+<RELATION theme="106473_15" profession_string="Atty. Gen. of New Jersey" theme_string="Arthur J. Sills" profession="106473_16" gram_type="apposition" relation_type="asymmetric" id="106473_20" ></RELATION>
+
+<RELATION theme="106473_17" profession_string="Deputy Atty. Gen" theme_string="Alan B. Handler" profession="106473_18" gram_type="apposition" relation_type="asymmetric" id="106473_21" ></RELATION>
+

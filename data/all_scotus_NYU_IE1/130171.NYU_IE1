@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['donatostates#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_902" id1="130176" volume="539" start="0" page_number="902" standard_reporter="U.S." citation_global_level_id="4211.002" line="1" id="130171_1" citation_local_level_id="0" >539 U.S. 902</CITATION>
+
+<CITATION party2="United States" party1="Donato" citation_global_level_id="20951.001" party2_short="States" line="1" id="130171_3" alternative_keys="['u.s._539_902']" end="40" entry_type="party_key" lookup_key="donatostates#2" id1="106733" start="17" party1_short="Donato" citation_local_level_id="1" >Donato v. United States</CITATION>
+
+<NAME end="23" start="17" party1_of="130171_3" all_names="DONATO" local_name_id="1" id="130171_4" >Donato</NAME>
+
+<NAME end="40" start="27" all_names="UNITED STATES" party2_of="130171_3" local_name_id="2" id="130171_5" >United States</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._539_902" id1="130176" start="50" citation_global_level_id="4211.002" line="1" id="130171_2" citation_local_level_id="0" >02-1191</DOCKET>
+
+<DATE start="99" end="111" id="130171_6" >June 2, 2003</DATE>
+
+<NAME start="188" local_name_id="3" end="198" id="130171_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="237" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_306_1217" id1="Dummy_File_152161" volume="306" start="223" page_number="1217" standard_reporter="F.3D" citation_global_level_id="216011.001" line="3" id="130171_12" citation_local_level_id="2" >306 F. 3d 1217</CITATION>
+
+<RELATION theme="130171_1" includes_docket_string="02-1191" includes_docket="130171_2" theme_string="539 U.S. 902" gram_type="apposition" relation_type="asymmetric" id="130171_11" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 902" X_vs_Y_string="Donato v. United States" standard_case="130171_1" X_vs_Y="130171_3" gram_type="pre_nom" relation_type="equivalence" id="130171_7" ></RELATION>
+
+<RELATION theme="130171_3" includes_docket_string="02-1191" includes_docket="130171_2" theme_string="Donato v. United States" gram_type="apposition" relation_type="asymmetric" id="130171_10" ></RELATION>
+
+<RELATION theme="130171_3" party1="130171_4" party1_string="Donato" theme_string="Donato v. United States" gram_type="infix" relation_type="asymmetric" id="130171_8" ></RELATION>
+
+<RELATION party2="130171_5" theme="130171_3" theme_string="Donato v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="130171_9" ></RELATION>
+

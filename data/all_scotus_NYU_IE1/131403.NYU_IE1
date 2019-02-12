@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['nwangwaexpress#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_821" id1="131409" volume="540" start="0" page_number="821" standard_reporter="U.S." citation_global_level_id="5467.002" line="1" id="131403_1" citation_local_level_id="0" >540 U.S. 821</CITATION>
+
+<CITATION party2="FEDERAL EXPRESS CORP" party1="NWANGWA" citation_global_level_id="35131.001" party2_short="EXPRESS" line="1" id="131403_3" alternative_keys="['u.s._540_821']" end="48" entry_type="party_key" lookup_key="nwangwaexpress#1" id1="131403" start="17" party1_short="NWANGWA" citation_local_level_id="1" >NWANGWA v. FEDERAL EXPRESS CORP</CITATION>
+
+<NAME end="24" start="17" party1_of="131403_3" all_names="NWANGWA" local_name_id="1" id="131403_4" >NWANGWA</NAME>
+
+<NAME end="48" start="28" all_names="FEDERAL EXPRESS CORP" party2_of="131403_3" local_name_id="2" id="131403_5" >FEDERAL EXPRESS CORP</NAME>
+
+<DOCKET end="65" entry_type="docket" lookup_key="u.s._540_821" id1="131409" start="58" citation_global_level_id="5467.002" line="1" id="131403_2" citation_local_level_id="0" >02-1790</DOCKET>
+
+<DATE start="61" end="65" id="131403_6" >1790</DATE>
+
+<DATE start="107" end="122" id="131403_7" >October 6, 2003</DATE>
+
+<NAME start="200" local_name_id="3" end="210" id="131403_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="131403_1" includes_docket_string="02-1790" includes_docket="131403_2" theme_string="540 U.S. 821" gram_type="apposition" relation_type="asymmetric" id="131403_12" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 821" X_vs_Y_string="NWANGWA v. FEDERAL EXPRESS CORP" standard_case="131403_1" X_vs_Y="131403_3" gram_type="pre_nom" relation_type="equivalence" id="131403_8" ></RELATION>
+
+<RELATION theme="131403_3" includes_docket_string="02-1790" includes_docket="131403_2" theme_string="NWANGWA v. FEDERAL EXPRESS CORP" gram_type="apposition" relation_type="asymmetric" id="131403_11" ></RELATION>
+
+<RELATION party2="131403_5" theme="131403_3" theme_string="NWANGWA v. FEDERAL EXPRESS CORP" party2_string="FEDERAL EXPRESS CORP" gram_type="infix" relation_type="asymmetric" id="131403_10" ></RELATION>
+
+<RELATION theme="131403_3" party1="131403_4" party1_string="NWANGWA" theme_string="NWANGWA v. FEDERAL EXPRESS CORP" gram_type="infix" relation_type="asymmetric" id="131403_9" ></RELATION>
+
+<RELATION at_date_string="1790" theme="131403_2" at_date="131403_6" theme_string="02-1790" gram_type="infix" relation_type="asymmetric" id="131403_13" ></RELATION>
+

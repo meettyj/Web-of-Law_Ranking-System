@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['insuranceconstruction#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_817" id1="113079" volume="510" start="0" page_number="817" standard_reporter="U.S." citation_global_level_id="5251.002" line="1" id="113084_1" citation_local_level_id="0" >510 U.S. 817</CITATION>
+
+<CITATION party2="Corman Construction, Inc., et al" party1="Commonwealth Land Title Insurance Co." citation_global_level_id="5251.003" party2_short="Construction" line="1" id="113084_3" alternative_keys="['u.s._510_817']" end="90" entry_type="party_key" lookup_key="insuranceconstruction#1" id1="113079" start="17" party1_short="Insurance" citation_local_level_id="1" >Commonwealth Land Title Insurance Co. v. Corman Construction, Inc., et al</CITATION>
+
+<NAME end="54" start="17" party1_of="113084_3" all_names="COMMONWEALTH LAND TITLE INSURANCE CO" local_name_id="1" id="113084_4" >Commonwealth Land Title Insurance Co.</NAME>
+
+<ORGANIZATION start="17" end="53" id="113084_8" >Commonwealth Land Title Insurance Co</ORGANIZATION>
+
+<NAME end="90" start="58" all_names="CORMAN CONSTRUCTION INC" party2_of="113084_3" local_name_id="2" id="113084_5" >Corman Construction, Inc., et al</NAME>
+
+<DOCKET end="107" entry_type="docket" lookup_key="u.s._510_817" id1="113079" start="100" citation_global_level_id="5251.002" line="1" id="113084_2" citation_local_level_id="0" >92-1871</DOCKET>
+
+<DATE start="103" end="107" id="113084_6" >1871</DATE>
+
+<DATE start="149" end="164" id="113084_7" >October 4, 1993</DATE>
+
+<NAME start="240" local_name_id="3" end="250" id="113084_15" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="113084_1" includes_docket_string="92-1871" includes_docket="113084_2" theme_string="510 U.S. 817" gram_type="apposition" relation_type="asymmetric" id="113084_13" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 817" X_vs_Y_string="Commonwealth Land Title Insurance Co. v. Corman Construction, Inc., et al" standard_case="113084_1" X_vs_Y="113084_3" gram_type="pre_nom" relation_type="equivalence" id="113084_9" ></RELATION>
+
+<RELATION theme="113084_3" includes_docket_string="92-1871" includes_docket="113084_2" theme_string="Commonwealth Land Title Insurance Co. v. Corman Construction, Inc., et al" gram_type="apposition" relation_type="asymmetric" id="113084_12" ></RELATION>
+
+<RELATION theme="113084_3" party1="113084_4" party1_string="Commonwealth Land Title Insurance Co." theme_string="Commonwealth Land Title Insurance Co. v. Corman Construction, Inc., et al" gram_type="infix" relation_type="asymmetric" id="113084_10" ></RELATION>
+
+<RELATION party2="113084_5" theme="113084_3" theme_string="Commonwealth Land Title Insurance Co. v. Corman Construction, Inc., et al" party2_string="Corman Construction, Inc., et al" gram_type="infix" relation_type="asymmetric" id="113084_11" ></RELATION>
+
+<RELATION at_date_string="1871" theme="113084_2" at_date="113084_6" theme_string="92-1871" gram_type="infix" relation_type="asymmetric" id="113084_14" ></RELATION>
+

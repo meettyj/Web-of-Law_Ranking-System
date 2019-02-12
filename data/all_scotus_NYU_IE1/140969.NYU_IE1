@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['fishingnugget#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1053" id1="140969" volume="543" start="0" page_number="1053" standard_reporter="U.S." citation_global_level_id="17031.002" line="1" id="140969_1" citation_local_level_id="0" >543 U.S. 1053</CITATION>
+
+<CITATION party2="GOLDEN NUGGET, INC., ET AL" party1="CHESAPEAKE BAY FISHING CO., L. C." citation_global_level_id="17031.008" party2_short="NUGGET" line="2" id="140969_2" alternative_keys="['u.s._543_1053']" end="81" entry_type="party_key" lookup_key="fishingnugget#2" id1="140969" start="18" party1_short="FISHING" citation_local_level_id="1" >CHESAPEAKE BAY FISHING CO., L. C. v. GOLDEN NUGGET, INC., ET AL</CITATION>
+
+<NAME end="51" start="18" party1_of="140969_2" all_names="CHESAPEAKE BAY FISHING CO L C" local_name_id="1" id="140969_3" >CHESAPEAKE BAY FISHING CO., L. C.</NAME>
+
+<ORGANIZATION start="18" end="43" id="140969_5" >CHESAPEAKE BAY FISHING CO</ORGANIZATION>
+
+<NAME end="81" start="55" all_names="GOLDEN NUGGET INC" party2_of="140969_2" local_name_id="2" id="140969_4" >GOLDEN NUGGET, INC., ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._543_1053']" end="97" entry_type="docket" lookup_key="fishingnugget#2" id1="140969" start="91" citation_global_level_id="17031.008" line="3" id="140969_8" citation_local_level_id="1" >04-573</DOCKET>
+
+<ORGANIZATION start="103" end="133" id="140969_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="139" citation_global_level_id="17031.008" end="155" id="140969_10" citation_local_level_id="1" >January 10, 2005</DATE>
+
+<NAME start="187" local_name_id="3" end="190" id="140969_14" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="140969_2" party1="140969_3" party1_string="CHESAPEAKE BAY FISHING CO., L. C." theme_string="CHESAPEAKE BAY FISHING CO., L. C. v. GOLDEN NUGGET, INC., ET AL" gram_type="infix" relation_type="asymmetric" id="140969_6" ></RELATION>
+
+<RELATION party2="140969_4" theme="140969_2" theme_string="CHESAPEAKE BAY FISHING CO., L. C. v. GOLDEN NUGGET, INC., ET AL" party2_string="GOLDEN NUGGET, INC., ET AL" gram_type="infix" relation_type="asymmetric" id="140969_7" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1053" X_vs_Y_string="CHESAPEAKE BAY FISHING CO., L. C. v. GOLDEN NUGGET, INC., ET AL" standard_case="140969_1" X_vs_Y="140969_2" gram_type="multi_line" relation_type="equivalence" id="140969_11" ></RELATION>
+
+<RELATION at_date_string="January 10, 2005" theme="140969_2" at_date="140969_10" theme_string="CHESAPEAKE BAY FISHING CO., L. C. v. GOLDEN NUGGET, INC., ET AL" gram_type="multi_line" relation_type="asymmetric" id="140969_13" ></RELATION>
+
+<RELATION theme="140969_2" includes_docket_string="04-573" includes_docket="140969_8" theme_string="CHESAPEAKE BAY FISHING CO., L. C. v. GOLDEN NUGGET, INC., ET AL" gram_type="multi_line" relation_type="asymmetric" id="140969_12" ></RELATION>
+

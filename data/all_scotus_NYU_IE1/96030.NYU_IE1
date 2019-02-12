@@ -1,0 +1,46 @@
+<CITATION alternative_keys="['companyweckey#1', 's.ct._24_431', 'l.ed._48_674']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._193_188" id1="96030" volume="193" start="0" page_number="188" standard_reporter="U.S." citation_global_level_id="42424.002" line="1" id="96030_1" citation_local_level_id="0" >193 U.S. 188</CITATION>
+
+<CITATION alternative_keys="['u.s._193_188', 'companyweckey#1', 'l.ed._48_674']" end="30" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._24_431" id1="96030" volume="24" start="17" page_number="431" standard_reporter="S.CT." citation_global_level_id="42424.003" line="1" id="96030_2" citation_local_level_id="1" >24 S. Ct. 431</CITATION>
+
+<NAME start="20" local_name_id="1" end="25" id="96030_9" all_names="S CT" >S. Ct</NAME>
+
+<CITATION alternative_keys="['u.s._193_188', 's.ct._24_431', 'companyweckey#1']" end="48" reporter="L. Ed." entry_type="standard_key" lookup_key="l.ed._48_674" id1="96030" volume="48" start="35" page_number="674" standard_reporter="L.ED." citation_global_level_id="42424.004" line="1" id="96030_3" citation_local_level_id="2" >48 L. Ed. 674</CITATION>
+
+<CITATION party2="HENRY WECKEY et al" alternative_keys="['s.ct._24_431', 'l.ed._48_674', 'u.s._193_188']" party1="SECURITY LAND &amp; EXPLORATION COMPANY," end="126" party1_short="COMPANY" entry_type="party_key" party1_role="plff in err." lookup_key="companyweckey#1" id1="96030" start="53" citation_global_level_id="42424.005" party2_short="WECKEY" line="1" id="96030_4" citation_local_level_id="3" >SECURITY LAND &amp; EXPLORATION COMPANY, Plff. in Err., v. HENRY WECKEY et al</CITATION>
+
+<LEGAL_ROLE start="53" end="94" id="96030_10" >SECURITY LAND &amp; EXPLORATION COMPANY, Plff</LEGAL_ROLE>
+
+<NAME end="89" start="53" party1_of="96030_4" all_names="SECURITY LAND &amp; EXPLORATION COMPANY" local_name_id="2" id="96030_5" >SECURITY LAND &amp; EXPLORATION COMPANY,</NAME>
+
+<NAME end="126" start="108" all_names="HENRY WECKEY" party2_of="96030_4" local_name_id="3" id="96030_6" >HENRY WECKEY et al</NAME>
+
+<DATE start="152" end="168" id="96030_7" >January 19, 1904</DATE>
+
+<DATE start="182" end="199" id="96030_8" >February 29, 1904</DATE>
+
+<NAME start="320" local_name_id="4" end="346" id="96030_16" all_names="MESSRS JOHN R VAN DERLIP" >Messrs. John R. Van Derlip</NAME>
+
+<NAME start="348" local_name_id="5" end="360" id="96030_17" all_names="R R BRIGGS" >R. R. Briggs</NAME>
+
+<LEGAL_ROLE start="366" end="397" plural="True" id="96030_18" >George P. Wilson for defendants</LEGAL_ROLE>
+
+<NAME start="433" local_name_id="6" end="452" id="96030_19" all_names="MR JUSTICE PECKHAM" >Mr. Justice Peckham</NAME>
+
+<PROFESSION start="437" end="444" id="96030_20" >Justice</PROFESSION>
+
+<ORGANIZATION start="482" end="487" id="96030_21" >court</ORGANIZATION>
+
+<PROFESSION start="653" end="660" id="96030_22" >counsel</PROFESSION>
+
+<NAME start="720" local_name_id="7" end="728" id="96030_23" all_names="JUDGMENT" >Judgment</NAME>
+
+<RELATION standard_case_string="193 U.S. 188" X_vs_Y_string="SECURITY LAND &amp; EXPLORATION COMPANY, Plff. in Err., v. HENRY WECKEY et al" standard_case="96030_1" X_vs_Y="96030_4" gram_type="pre_nom" relation_type="equivalence" id="96030_12" ></RELATION>
+
+<RELATION standard_case_string="24 S. Ct. 431" X_vs_Y_string="SECURITY LAND &amp; EXPLORATION COMPANY, Plff. in Err., v. HENRY WECKEY et al" standard_case="96030_2" X_vs_Y="96030_4" gram_type="pre_nom" relation_type="equivalence" id="96030_13" ></RELATION>
+
+<RELATION standard_case_string="48 L. Ed. 674" X_vs_Y_string="SECURITY LAND &amp; EXPLORATION COMPANY, Plff. in Err., v. HENRY WECKEY et al" standard_case="96030_3" X_vs_Y="96030_4" gram_type="pre_nom" relation_type="equivalence" id="96030_11" ></RELATION>
+
+<RELATION theme="96030_4" party1="96030_5" party1_string="SECURITY LAND &amp; EXPLORATION COMPANY," theme_string="SECURITY LAND &amp; EXPLORATION COMPANY, Plff. in Err., v. HENRY WECKEY et al" gram_type="infix" relation_type="asymmetric" id="96030_14" ></RELATION>
+
+<RELATION party2="96030_6" theme="96030_4" theme_string="SECURITY LAND &amp; EXPLORATION COMPANY, Plff. in Err., v. HENRY WECKEY et al" party2_string="HENRY WECKEY et al" gram_type="infix" relation_type="asymmetric" id="96030_15" ></RELATION>
+

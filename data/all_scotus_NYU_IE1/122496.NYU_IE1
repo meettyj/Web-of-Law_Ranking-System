@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['dorsettuniversity#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_821" id1="122496" volume="537" start="0" page_number="821" standard_reporter="U.S." citation_global_level_id="2789.002" line="1" id="122496_1" citation_local_level_id="0" >537 U.S. 821</CITATION>
+
+<CITATION party2="LOUISIANA TECH UNIVERSITY ET AL" party1="DORSETT" citation_global_level_id="2789.001" party2_short="UNIVERSITY" line="1" id="122496_3" alternative_keys="['u.s._537_821']" end="59" entry_type="party_key" lookup_key="dorsettuniversity#1" id1="122496" start="17" party1_short="DORSETT" citation_local_level_id="1" >DORSETT v. LOUISIANA TECH UNIVERSITY ET AL</CITATION>
+
+<NAME end="24" start="17" party1_of="122496_3" all_names="DORSETT" local_name_id="1" id="122496_4" >DORSETT</NAME>
+
+<NAME end="59" start="28" all_names="LOUISIANA TECH UNIVERSITY" party2_of="122496_3" local_name_id="2" id="122496_5" >LOUISIANA TECH UNIVERSITY ET AL</NAME>
+
+<DOCKET end="76" entry_type="docket" lookup_key="u.s._537_821" id1="122496" start="69" citation_global_level_id="2789.002" line="1" id="122496_2" citation_local_level_id="0" >01-1788</DOCKET>
+
+<DATE start="72" end="76" id="122496_6" >1788</DATE>
+
+<DATE start="118" end="133" id="122496_7" >October 7, 2002</DATE>
+
+<NAME start="262" local_name_id="3" end="265" id="122496_14" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="122496_1" includes_docket_string="01-1788" includes_docket="122496_2" theme_string="537 U.S. 821" gram_type="apposition" relation_type="asymmetric" id="122496_12" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 821" X_vs_Y_string="DORSETT v. LOUISIANA TECH UNIVERSITY ET AL" standard_case="122496_1" X_vs_Y="122496_3" gram_type="pre_nom" relation_type="equivalence" id="122496_8" ></RELATION>
+
+<RELATION theme="122496_3" includes_docket_string="01-1788" includes_docket="122496_2" theme_string="DORSETT v. LOUISIANA TECH UNIVERSITY ET AL" gram_type="apposition" relation_type="asymmetric" id="122496_11" ></RELATION>
+
+<RELATION party2="122496_5" theme="122496_3" theme_string="DORSETT v. LOUISIANA TECH UNIVERSITY ET AL" party2_string="LOUISIANA TECH UNIVERSITY ET AL" gram_type="infix" relation_type="asymmetric" id="122496_10" ></RELATION>
+
+<RELATION theme="122496_3" party1="122496_4" party1_string="DORSETT" theme_string="DORSETT v. LOUISIANA TECH UNIVERSITY ET AL" gram_type="infix" relation_type="asymmetric" id="122496_9" ></RELATION>
+
+<RELATION at_date_string="1788" theme="122496_2" at_date="122496_6" theme_string="01-1788" gram_type="infix" relation_type="asymmetric" id="122496_13" ></RELATION>
+

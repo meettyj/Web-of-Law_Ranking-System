@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['brookswarden#10', 'u.s._538_1001']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_954" id1="130814" volume="539" start="0" page_number="954" standard_reporter="U.S." citation_global_level_id="27251.002" line="1" id="130813_1" citation_local_level_id="0" >539 U.S. 954</CITATION>
+
+<CITATION party2="Walls, Warden" party1="Brooks" citation_global_level_id="45361.001" party2_short="Warden" line="2" id="130813_3" alternative_keys="['u.s._539_954', 'u.s._538_1001']" end="40" entry_type="party_key" lookup_key="brookswarden#10" id1="130813" start="17" party1_short="Brooks" citation_local_level_id="1" >Brooks v. Walls, Warden</CITATION>
+
+<NAME end="23" start="17" party1_of="130813_3" all_names="BROOKS" local_name_id="1" id="130813_4" >Brooks</NAME>
+
+<NAME end="40" start="27" all_names="WALLS WARDEN" party2_of="130813_3" local_name_id="2" id="130813_5" >Walls, Warden</NAME>
+
+<CITATION alternative_keys="['u.s._539_954', 'brookswarden#10']" end="56" reporter="U. S." entry_type="standard_key" lookup_key="u.s._538_1001" id1="129223" volume="538" start="42" page_number="1001" standard_reporter="U.S." citation_global_level_id="694.002" line="2" id="130813_2" citation_local_level_id="2" >538 U. S. 1001</CITATION>
+
+<DOCKET end="73" entry_type="docket" lookup_key="brookswarden#10" id1="130813" start="66" citation_global_level_id="45361.001" line="3" id="130813_9" citation_local_level_id="1" >02-7612</DOCKET>
+
+<ORGANIZATION start="79" end="109" id="130813_10" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="115" citation_global_level_id="45361.001" end="128" id="130813_11" citation_local_level_id="1" >June 23, 2003</DATE>
+
+<NAME start="150" local_name_id="3" end="159" id="130813_15" all_names="PETITIONS" >Petitions</NAME>
+
+<RELATION standard_case_string="538 U. S. 1001" X_vs_Y_string="Brooks v. Walls, Warden" standard_case="130813_2" X_vs_Y="130813_3" gram_type="apposition" relation_type="equivalence" id="130813_8" ></RELATION>
+
+<RELATION theme="130813_3" party1="130813_4" party1_string="Brooks" theme_string="Brooks v. Walls, Warden" gram_type="infix" relation_type="asymmetric" id="130813_6" ></RELATION>
+
+<RELATION party2="130813_5" theme="130813_3" theme_string="Brooks v. Walls, Warden" party2_string="Walls, Warden" gram_type="infix" relation_type="asymmetric" id="130813_7" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 954" X_vs_Y_string="Brooks v. Walls, Warden" standard_case="130813_1" X_vs_Y="130813_3" gram_type="multi_line" relation_type="equivalence" id="130813_12" ></RELATION>
+
+<RELATION at_date_string="June 23, 2003" theme="130813_3" at_date="130813_11" theme_string="Brooks v. Walls, Warden" gram_type="multi_line" relation_type="asymmetric" id="130813_14" ></RELATION>
+
+<RELATION theme="130813_3" includes_docket_string="02-7612" includes_docket="130813_9" theme_string="Brooks v. Walls, Warden" gram_type="multi_line" relation_type="asymmetric" id="130813_13" ></RELATION>
+

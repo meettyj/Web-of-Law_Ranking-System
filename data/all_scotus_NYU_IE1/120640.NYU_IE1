@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['manleydepartment#3']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1082" id1="120647" volume="535" start="0" page_number="1082" standard_reporter="U.S." citation_global_level_id="5768.002" line="1" id="120640_1" citation_local_level_id="0" >535 U.S. 1082</CITATION>
+
+<CITATION party2="MONROE COUNTY SHERIFF'S DEPARTMENT ET AL" party1="MANLEY" citation_global_level_id="5768.007" party2_short="DEPARTMENT" line="2" id="120640_2" alternative_keys="['u.s._535_1082']" end="68" entry_type="party_key" lookup_key="manleydepartment#3" id1="120647" start="18" party1_short="MANLEY" citation_local_level_id="1" >MANLEY v. MONROE COUNTY SHERIFF'S DEPARTMENT ET AL</CITATION>
+
+<NAME end="24" start="18" party1_of="120640_2" all_names="MANLEY" local_name_id="1" id="120640_3" >MANLEY</NAME>
+
+<NAME end="68" start="28" all_names="MONROE COUNTY SHERIFF'S DEPARTMENT" party2_of="120640_2" local_name_id="2" id="120640_4" >MONROE COUNTY SHERIFF'S DEPARTMENT ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._535_1082']" end="85" entry_type="docket" lookup_key="manleydepartment#3" id1="120647" start="78" citation_global_level_id="5768.007" line="3" id="120640_7" citation_local_level_id="1" >01-9071</DOCKET>
+
+<DATE start="131" citation_global_level_id="5768.007" end="143" id="120640_8" citation_local_level_id="1" >May 20, 2002</DATE>
+
+<NAME start="165" local_name_id="3" end="167" id="120640_13" all_names="CT" >Ct</NAME>
+
+<CITATION end="231" reporter="N. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.e.2d_756_1095" id1="Dummy_File_81490" volume="756" start="214" page_number="1095" standard_reporter="N.E.2D" citation_global_level_id="145340.001" line="8" id="120640_12" citation_local_level_id="2" >756 N. E. 2d 1095</CITATION>
+
+<RELATION theme="120640_2" party1="120640_3" party1_string="MANLEY" theme_string="MANLEY v. MONROE COUNTY SHERIFF'S DEPARTMENT ET AL" gram_type="infix" relation_type="asymmetric" id="120640_5" ></RELATION>
+
+<RELATION party2="120640_4" theme="120640_2" theme_string="MANLEY v. MONROE COUNTY SHERIFF'S DEPARTMENT ET AL" party2_string="MONROE COUNTY SHERIFF'S DEPARTMENT ET AL" gram_type="infix" relation_type="asymmetric" id="120640_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1082" X_vs_Y_string="MANLEY v. MONROE COUNTY SHERIFF'S DEPARTMENT ET AL" standard_case="120640_1" X_vs_Y="120640_2" gram_type="multi_line" relation_type="equivalence" id="120640_9" ></RELATION>
+
+<RELATION at_date_string="May 20, 2002" theme="120640_2" at_date="120640_8" theme_string="MANLEY v. MONROE COUNTY SHERIFF'S DEPARTMENT ET AL" gram_type="multi_line" relation_type="asymmetric" id="120640_11" ></RELATION>
+
+<RELATION theme="120640_2" includes_docket_string="01-9071" includes_docket="120640_7" theme_string="MANLEY v. MONROE COUNTY SHERIFF'S DEPARTMENT ET AL" gram_type="multi_line" relation_type="asymmetric" id="120640_10" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['cooperparole#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1053" id1="116093" volume="510" start="0" page_number="1053" standard_reporter="U.S." citation_global_level_id="5816.002" line="1" id="116096_1" citation_local_level_id="0" >510 U.S. 1053</CITATION>
+
+<CITATION party2="Parole and Probation Commission et al" party1="Cooper" citation_global_level_id="26378.001" party2_short="Parole" line="1" id="116096_3" alternative_keys="['u.s._510_1053']" end="65" entry_type="party_key" lookup_key="cooperparole#1" id1="116096" start="18" party1_short="Cooper" citation_local_level_id="1" >Cooper v. Parole and Probation Commission et al</CITATION>
+
+<NAME end="24" start="18" party1_of="116096_3" all_names="COOPER" local_name_id="1" id="116096_4" >Cooper</NAME>
+
+<NAME end="65" start="28" all_names="PAROLE AND PROBATION COMMISSION" party2_of="116096_3" local_name_id="2" id="116096_5" >Parole and Probation Commission et al</NAME>
+
+<DOCKET end="82" entry_type="docket" lookup_key="u.s._510_1053" id1="116093" start="75" citation_global_level_id="5816.002" line="1" id="116096_2" citation_local_level_id="0" >93-6616</DOCKET>
+
+<DATE start="124" end="140" id="116096_6" >January 10, 1994</DATE>
+
+<NAME start="217" local_name_id="3" end="227" id="116096_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="266" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_626_204" id1="Dummy_File_203233" volume="626" start="252" page_number="204" standard_reporter="SO.2D" citation_global_level_id="267083.001" line="3" id="116096_12" citation_local_level_id="2" >626 So. 2d 204</CITATION>
+
+<RELATION theme="116096_1" includes_docket_string="93-6616" includes_docket="116096_2" theme_string="510 U.S. 1053" gram_type="apposition" relation_type="asymmetric" id="116096_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1053" X_vs_Y_string="Cooper v. Parole and Probation Commission et al" standard_case="116096_1" X_vs_Y="116096_3" gram_type="pre_nom" relation_type="equivalence" id="116096_7" ></RELATION>
+
+<RELATION theme="116096_3" includes_docket_string="93-6616" includes_docket="116096_2" theme_string="Cooper v. Parole and Probation Commission et al" gram_type="apposition" relation_type="asymmetric" id="116096_10" ></RELATION>
+
+<RELATION theme="116096_3" party1="116096_4" party1_string="Cooper" theme_string="Cooper v. Parole and Probation Commission et al" gram_type="infix" relation_type="asymmetric" id="116096_8" ></RELATION>
+
+<RELATION party2="116096_5" theme="116096_3" theme_string="Cooper v. Parole and Probation Commission et al" party2_string="Parole and Probation Commission et al" gram_type="infix" relation_type="asymmetric" id="116096_9" ></RELATION>
+

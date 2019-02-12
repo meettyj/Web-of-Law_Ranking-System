@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['chambersstern#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._536_940" id1="121622" volume="536" start="0" page_number="940" standard_reporter="U.S." citation_global_level_id="1685.002" line="1" id="121623_1" citation_local_level_id="0" >536 U.S. 940</CITATION>
+
+<CITATION party2="STERN ET AL" party1="CHAMBERS" citation_global_level_id="30364.001" party2_short="STERN" line="2" id="121623_2" alternative_keys="['u.s._536_940']" end="40" entry_type="party_key" lookup_key="chambersstern#1" id1="121623" start="17" party1_short="CHAMBERS" citation_local_level_id="1" >CHAMBERS v. STERN ET AL</CITATION>
+
+<NAME end="25" start="17" party1_of="121623_2" all_names="CHAMBERS" local_name_id="1" id="121623_3" >CHAMBERS</NAME>
+
+<NAME end="40" start="29" all_names="STERN" party2_of="121623_2" local_name_id="2" id="121623_4" >STERN ET AL</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="chambersstern#1" id1="121623" start="50" citation_global_level_id="30364.001" line="3" id="121623_7" citation_local_level_id="1" >01-1564</DOCKET>
+
+<DATE start="103" citation_global_level_id="30364.001" end="116" id="121623_8" citation_local_level_id="1" >June 24, 2002</DATE>
+
+<NAME start="138" local_name_id="3" end="141" id="121623_13" all_names="SUP" >Sup</NAME>
+
+<CITATION end="216" reporter="S. W. 3d" entry_type="standard_key" no_current_file="True" lookup_key="s.w.3d_64_737" id1="Dummy_File_205088" volume="64" start="201" page_number="737" standard_reporter="S.W.3D" citation_global_level_id="268938.001" line="8" id="121623_12" citation_local_level_id="2" >64 S. W. 3d 737</CITATION>
+
+<RELATION theme="121623_2" party1="121623_3" party1_string="CHAMBERS" theme_string="CHAMBERS v. STERN ET AL" gram_type="infix" relation_type="asymmetric" id="121623_5" ></RELATION>
+
+<RELATION party2="121623_4" theme="121623_2" theme_string="CHAMBERS v. STERN ET AL" party2_string="STERN ET AL" gram_type="infix" relation_type="asymmetric" id="121623_6" ></RELATION>
+
+<RELATION standard_case_string="536 U.S. 940" X_vs_Y_string="CHAMBERS v. STERN ET AL" standard_case="121623_1" X_vs_Y="121623_2" gram_type="multi_line" relation_type="equivalence" id="121623_9" ></RELATION>
+
+<RELATION at_date_string="June 24, 2002" theme="121623_2" at_date="121623_8" theme_string="CHAMBERS v. STERN ET AL" gram_type="multi_line" relation_type="asymmetric" id="121623_11" ></RELATION>
+
+<RELATION theme="121623_2" includes_docket_string="01-1564" includes_docket="121623_7" theme_string="CHAMBERS v. STERN ET AL" gram_type="multi_line" relation_type="asymmetric" id="121623_10" ></RELATION>
+

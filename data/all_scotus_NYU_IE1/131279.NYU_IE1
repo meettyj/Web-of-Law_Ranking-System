@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['bookercity#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_811" id1="131277" volume="540" start="0" page_number="811" standard_reporter="U.S." citation_global_level_id="1173.002" line="1" id="131279_1" citation_local_level_id="0" >540 U.S. 811</CITATION>
+
+<CITATION party2="CITY OF ST. LOUIS, MISSOURI, ET AL" party1="BOOKER" citation_global_level_id="1173.006" party2_short="CITY" line="1" id="131279_3" alternative_keys="['u.s._540_811']" end="61" entry_type="party_key" lookup_key="bookercity#2" id1="131277" start="17" party1_short="BOOKER" citation_local_level_id="1" >BOOKER v. CITY OF ST. LOUIS, MISSOURI, ET AL</CITATION>
+
+<NAME end="23" start="17" party1_of="131279_3" all_names="BOOKER" local_name_id="1" id="131279_4" >BOOKER</NAME>
+
+<NAME end="61" start="27" all_names="CITY OF ST LOUIS MISSOURI" party2_of="131279_3" local_name_id="2" id="131279_5" >CITY OF ST. LOUIS, MISSOURI, ET AL</NAME>
+
+<DOCKET end="78" entry_type="docket" lookup_key="u.s._540_811" id1="131277" start="71" citation_global_level_id="1173.002" line="1" id="131279_2" citation_local_level_id="0" >02-1511</DOCKET>
+
+<DATE start="120" end="135" id="131279_6" >October 6, 2003</DATE>
+
+<NAME start="213" local_name_id="3" end="223" id="131279_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="261" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_309_464" id1="Dummy_File_126592" volume="309" start="248" page_number="464" standard_reporter="F.3D" citation_global_level_id="190442.001" line="3" id="131279_12" citation_local_level_id="2" >309 F. 3d 464</CITATION>
+
+<RELATION theme="131279_1" includes_docket_string="02-1511" includes_docket="131279_2" theme_string="540 U.S. 811" gram_type="apposition" relation_type="asymmetric" id="131279_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 811" X_vs_Y_string="BOOKER v. CITY OF ST. LOUIS, MISSOURI, ET AL" standard_case="131279_1" X_vs_Y="131279_3" gram_type="pre_nom" relation_type="equivalence" id="131279_7" ></RELATION>
+
+<RELATION theme="131279_3" includes_docket_string="02-1511" includes_docket="131279_2" theme_string="BOOKER v. CITY OF ST. LOUIS, MISSOURI, ET AL" gram_type="apposition" relation_type="asymmetric" id="131279_10" ></RELATION>
+
+<RELATION theme="131279_3" party1="131279_4" party1_string="BOOKER" theme_string="BOOKER v. CITY OF ST. LOUIS, MISSOURI, ET AL" gram_type="infix" relation_type="asymmetric" id="131279_8" ></RELATION>
+
+<RELATION party2="131279_5" theme="131279_3" theme_string="BOOKER v. CITY OF ST. LOUIS, MISSOURI, ET AL" party2_string="CITY OF ST. LOUIS, MISSOURI, ET AL" gram_type="infix" relation_type="asymmetric" id="131279_9" ></RELATION>
+

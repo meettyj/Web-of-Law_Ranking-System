@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['duncancain#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_829" id1="122603" volume="537" start="0" page_number="829" standard_reporter="U.S." citation_global_level_id="5526.002" line="1" id="122601_1" citation_local_level_id="0" >537 U.S. 829</CITATION>
+
+<CITATION party2="CAIN, WARDEN" party1="DUNCAN" citation_global_level_id="5526.003" party2_short="CAIN" line="1" id="122601_3" alternative_keys="['u.s._537_829']" end="39" entry_type="party_key" lookup_key="duncancain#1" id1="122603" start="17" party1_short="DUNCAN" citation_local_level_id="1" >DUNCAN v. CAIN, WARDEN</CITATION>
+
+<NAME end="23" start="17" party1_of="122601_3" all_names="DUNCAN" local_name_id="1" id="122601_4" >DUNCAN</NAME>
+
+<NAME end="39" start="27" all_names="CAIN WARDEN" party2_of="122601_3" local_name_id="2" id="122601_5" >CAIN, WARDEN</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._537_829" id1="122603" start="49" citation_global_level_id="5526.002" line="1" id="122601_2" citation_local_level_id="0" >01-9827</DOCKET>
+
+<DATE start="98" end="113" id="122601_6" >October 7, 2002</DATE>
+
+<NAME start="242" local_name_id="3" end="245" id="122601_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="295" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_278_537" id1="Dummy_File_43264" volume="278" start="282" page_number="537" standard_reporter="F.3D" citation_global_level_id="107114.001" line="3" id="122601_12" citation_local_level_id="2" >278 F. 3d 537</CITATION>
+
+<RELATION theme="122601_1" includes_docket_string="01-9827" includes_docket="122601_2" theme_string="537 U.S. 829" gram_type="apposition" relation_type="asymmetric" id="122601_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 829" X_vs_Y_string="DUNCAN v. CAIN, WARDEN" standard_case="122601_1" X_vs_Y="122601_3" gram_type="pre_nom" relation_type="equivalence" id="122601_7" ></RELATION>
+
+<RELATION theme="122601_3" includes_docket_string="01-9827" includes_docket="122601_2" theme_string="DUNCAN v. CAIN, WARDEN" gram_type="apposition" relation_type="asymmetric" id="122601_10" ></RELATION>
+
+<RELATION theme="122601_3" party1="122601_4" party1_string="DUNCAN" theme_string="DUNCAN v. CAIN, WARDEN" gram_type="infix" relation_type="asymmetric" id="122601_8" ></RELATION>
+
+<RELATION party2="122601_5" theme="122601_3" theme_string="DUNCAN v. CAIN, WARDEN" party2_string="CAIN, WARDEN" gram_type="infix" relation_type="asymmetric" id="122601_9" ></RELATION>
+

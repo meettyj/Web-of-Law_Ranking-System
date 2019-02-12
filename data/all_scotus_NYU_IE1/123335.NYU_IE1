@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['titanicvessel#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_885" id1="123332" volume="537" start="0" page_number="885" standard_reporter="U.S." citation_global_level_id="1013.002" line="1" id="123335_1" citation_local_level_id="0" >537 U.S. 885</CITATION>
+
+<CITATION party2="THE WRECKED AND ABANDONED VESSEL ET AL" party1="R. M. S. TITANIC, INC." citation_global_level_id="1013.004" party2_short="VESSEL" line="1" id="123335_3" alternative_keys="['u.s._537_885']" end="81" entry_type="party_key" lookup_key="titanicvessel#2" id1="123332" start="17" party1_short="TITANIC" citation_local_level_id="1" >R. M. S. TITANIC, INC. v. THE WRECKED AND ABANDONED VESSEL ET AL</CITATION>
+
+<NAME end="39" start="17" party1_of="123335_3" all_names="R M S TITANIC INC" local_name_id="1" id="123335_4" >R. M. S. TITANIC, INC.</NAME>
+
+<ORGANIZATION start="17" end="38" id="123335_7" >R. M. S. TITANIC, INC</ORGANIZATION>
+
+<NAME end="81" start="43" all_names="THE WRECKED AND ABANDONED VESSEL" party2_of="123335_3" local_name_id="2" id="123335_5" >THE WRECKED AND ABANDONED VESSEL ET AL</NAME>
+
+<DOCKET end="97" entry_type="docket" lookup_key="u.s._537_885" id1="123332" start="91" citation_global_level_id="1013.002" line="1" id="123335_2" citation_local_level_id="0" >02-128</DOCKET>
+
+<DATE start="139" end="154" id="123335_6" >October 7, 2002</DATE>
+
+<NAME start="284" local_name_id="3" end="287" id="123335_14" all_names="CIR" >Cir</NAME>
+
+<CITATION end="337" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_286_194" id1="Dummy_File_108277" volume="286" start="324" page_number="194" standard_reporter="F.3D" citation_global_level_id="172127.001" line="3" id="123335_13" citation_local_level_id="2" >286 F. 3d 194</CITATION>
+
+<RELATION theme="123335_1" includes_docket_string="02-128" includes_docket="123335_2" theme_string="537 U.S. 885" gram_type="apposition" relation_type="asymmetric" id="123335_12" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 885" X_vs_Y_string="R. M. S. TITANIC, INC. v. THE WRECKED AND ABANDONED VESSEL ET AL" standard_case="123335_1" X_vs_Y="123335_3" gram_type="pre_nom" relation_type="equivalence" id="123335_8" ></RELATION>
+
+<RELATION theme="123335_3" includes_docket_string="02-128" includes_docket="123335_2" theme_string="R. M. S. TITANIC, INC. v. THE WRECKED AND ABANDONED VESSEL ET AL" gram_type="apposition" relation_type="asymmetric" id="123335_11" ></RELATION>
+
+<RELATION party2="123335_5" theme="123335_3" theme_string="R. M. S. TITANIC, INC. v. THE WRECKED AND ABANDONED VESSEL ET AL" party2_string="THE WRECKED AND ABANDONED VESSEL ET AL" gram_type="infix" relation_type="asymmetric" id="123335_10" ></RELATION>
+
+<RELATION theme="123335_3" party1="123335_4" party1_string="R. M. S. TITANIC, INC." theme_string="R. M. S. TITANIC, INC. v. THE WRECKED AND ABANDONED VESSEL ET AL" gram_type="infix" relation_type="asymmetric" id="123335_9" ></RELATION>
+

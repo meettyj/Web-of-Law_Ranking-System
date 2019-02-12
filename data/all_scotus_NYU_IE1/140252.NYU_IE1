@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['powellstates#9']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_994" id1="140248" volume="543" start="0" page_number="994" standard_reporter="U.S." citation_global_level_id="1439.002" line="1" id="140252_1" citation_local_level_id="0" >543 U.S. 994</CITATION>
+
+<CITATION party2="UNITED STATES" party1="POWELL" citation_global_level_id="30360.001" party2_short="STATES" line="2" id="140252_2" alternative_keys="['u.s._543_994']" end="40" entry_type="party_key" lookup_key="powellstates#9" id1="125825" start="17" party1_short="POWELL" citation_local_level_id="1" >POWELL v. UNITED STATES</CITATION>
+
+<NAME end="23" start="17" party1_of="140252_2" all_names="POWELL" local_name_id="1" id="140252_3" >POWELL</NAME>
+
+<NAME end="40" start="27" all_names="UNITED STATES" party2_of="140252_2" local_name_id="2" id="140252_4" >UNITED STATES</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="powellstates#9" id1="125825" start="50" citation_global_level_id="30360.001" line="3" id="140252_7" citation_local_level_id="1" >04-6860</DOCKET>
+
+<ORGANIZATION start="63" end="93" id="140252_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="99" citation_global_level_id="30360.001" end="116" id="140252_9" citation_local_level_id="1" >November 15, 2004</DATE>
+
+<NAME start="149" local_name_id="3" end="152" id="140252_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="140252_2" party1="140252_3" party1_string="POWELL" theme_string="POWELL v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="140252_5" ></RELATION>
+
+<RELATION party2="140252_4" theme="140252_2" theme_string="POWELL v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="140252_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 994" X_vs_Y_string="POWELL v. UNITED STATES" standard_case="140252_1" X_vs_Y="140252_2" gram_type="multi_line" relation_type="equivalence" id="140252_10" ></RELATION>
+
+<RELATION at_date_string="November 15, 2004" theme="140252_2" at_date="140252_9" theme_string="POWELL v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="140252_12" ></RELATION>
+
+<RELATION theme="140252_2" includes_docket_string="04-6860" includes_docket="140252_7" theme_string="POWELL v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="140252_11" ></RELATION>
+

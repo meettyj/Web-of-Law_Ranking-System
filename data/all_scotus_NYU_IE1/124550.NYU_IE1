@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['kingwashington#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_978" id1="124551" volume="537" start="0" page_number="978" standard_reporter="U.S." citation_global_level_id="3318.002" line="1" id="124550_1" citation_local_level_id="0" >537 U.S. 978</CITATION>
+
+<CITATION party2="WASHINGTON" party1="KING" citation_global_level_id="11302.001" party2_short="WASHINGTON" line="1" id="124550_3" alternative_keys="['u.s._537_978']" end="35" entry_type="party_key" lookup_key="kingwashington#1" id1="124550" start="17" party1_short="KING" citation_local_level_id="1" >KING v. WASHINGTON</CITATION>
+
+<NAME end="21" start="17" party1_of="124550_3" all_names="KING" local_name_id="1" id="124550_4" >KING</NAME>
+
+<NAME end="35" start="25" all_names="WASHINGTON" party2_of="124550_3" local_name_id="2" id="124550_5" >WASHINGTON</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="u.s._537_978" id1="124551" start="45" citation_global_level_id="3318.002" line="1" id="124550_2" citation_local_level_id="0" >02-5933</DOCKET>
+
+<DATE start="94" end="110" id="124550_6" >October 21, 2002</DATE>
+
+<NAME start="207" local_name_id="3" end="209" id="124550_12" all_names="CT" >Ct</NAME>
+
+<RELATION theme="124550_1" includes_docket_string="02-5933" includes_docket="124550_2" theme_string="537 U.S. 978" gram_type="apposition" relation_type="asymmetric" id="124550_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 978" X_vs_Y_string="KING v. WASHINGTON" standard_case="124550_1" X_vs_Y="124550_3" gram_type="pre_nom" relation_type="equivalence" id="124550_7" ></RELATION>
+
+<RELATION theme="124550_3" includes_docket_string="02-5933" includes_docket="124550_2" theme_string="KING v. WASHINGTON" gram_type="apposition" relation_type="asymmetric" id="124550_10" ></RELATION>
+
+<RELATION theme="124550_3" party1="124550_4" party1_string="KING" theme_string="KING v. WASHINGTON" gram_type="infix" relation_type="asymmetric" id="124550_8" ></RELATION>
+
+<RELATION party2="124550_5" theme="124550_3" theme_string="KING v. WASHINGTON" party2_string="WASHINGTON" gram_type="infix" relation_type="asymmetric" id="124550_9" ></RELATION>
+

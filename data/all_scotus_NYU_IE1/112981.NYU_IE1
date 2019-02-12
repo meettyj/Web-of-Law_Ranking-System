@@ -1,0 +1,42 @@
+<CITATION alternative_keys="['in re routt#2']" end="12" name="In re Routt" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_808" id1="112982" volume="510" start="0" page_number="808" standard_reporter="U.S." citation_global_level_id="26750.002" line="1" id="112981_1" citation_local_level_id="0" >510 U.S. 808</CITATION>
+
+<CITATION end="28" line="1" id="112981_5" alternative_keys="['u.s._510_808']" citation_global_level_id="38506.001" name="In re Routt" entry_type="case_key" lookup_key="in re routt#2" id1="115275" start="17" citation_local_level_id="1" >In re Routt</CITATION>
+
+<NAME start="17" local_name_id="1" end="19" id="112981_6" all_names="IN" >In</NAME>
+
+<DOCKET end="45" entry_type="docket" lookup_key="u.s._510_808" id1="112982" start="38" citation_global_level_id="26750.002" line="1" id="112981_2" citation_local_level_id="0" >93-5204</DOCKET>
+
+<DATE start="87" end="102" id="112981_3" >October 4, 1993</DATE>
+
+<DATE start="211" end="227" id="112981_4" >October 25, 1993</DATE>
+
+<PROFESSION start="376" document_level_name_id="2" end="383" id="112981_10" party="STEVENS" >JUSTICE</PROFESSION>
+
+<NAME start="384" local_name_id="2" end="391" id="112981_11" all_names="STEVENS" >STEVENS</NAME>
+
+<CITATION party2="Herald Co" party1="Brown" citation_global_level_id="37290.001" party2_short="Herald" line="6" id="112981_14" alternative_keys="['u.s._464_928']" end="477" entry_type="party_key" lookup_key="brownherald#1" id1="111075" start="459" party1_short="Brown" citation_local_level_id="2" >Brown v. Herald Co</CITATION>
+
+<NAME end="464" start="459" party1_of="112981_14" all_names="BROWN" local_name_id="3" id="112981_15" >Brown</NAME>
+
+<NAME end="477" start="468" all_names="HERALD CO" party2_of="112981_14" local_name_id="4" id="112981_16" >Herald Co</NAME>
+
+<CITATION alternative_keys="['brownherald#1']" end="499" reporter="U.S." entry_type="standard_key" lookup_key="u.s._464_928" id1="111075" volume="464" start="480" page_number="928" year="1983" standard_reporter="U.S." citation_global_level_id="37290.002" line="6" id="112981_13" citation_local_level_id="3" >464 U.S. 928 (1983)</CITATION>
+
+<DATE start="494" citation_global_level_id="37290.002" end="498" id="112981_17" citation_local_level_id="3" >1983</DATE>
+
+<RELATION theme="112981_1" includes_docket_string="93-5204" includes_docket="112981_2" theme_string="510 U.S. 808" gram_type="apposition" relation_type="asymmetric" id="112981_9" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 808" case_citation_other="112981_5" case_citation_other_string="In re Routt" standard_case="112981_1" gram_type="pre_nom" relation_type="equivalence" id="112981_7" ></RELATION>
+
+<RELATION theme="112981_5" includes_docket_string="93-5204" includes_docket="112981_2" theme_string="In re Routt" gram_type="apposition" relation_type="asymmetric" id="112981_8" ></RELATION>
+
+<RELATION theme="112981_11" profession_string="JUSTICE" theme_string="STEVENS" profession="112981_10" gram_type="pre_nom" relation_type="asymmetric" id="112981_12" ></RELATION>
+
+<RELATION standard_case_string="464 U.S. 928 (1983)" X_vs_Y_string="Brown v. Herald Co" standard_case="112981_13" X_vs_Y="112981_14" gram_type="apposition" relation_type="equivalence" id="112981_20" ></RELATION>
+
+<RELATION theme="112981_14" party1="112981_15" party1_string="Brown" theme_string="Brown v. Herald Co" gram_type="infix" relation_type="asymmetric" id="112981_18" ></RELATION>
+
+<RELATION party2="112981_16" theme="112981_14" theme_string="Brown v. Herald Co" party2_string="Herald Co" gram_type="infix" relation_type="asymmetric" id="112981_19" ></RELATION>
+
+<RELATION at_date_string="1983" theme="112981_13" at_date="112981_17" theme_string="464 U.S. 928 (1983)" gram_type="infix" relation_type="asymmetric" id="112981_21" ></RELATION>
+

@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['sextonkemna#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1150" id1="126746" volume="537" start="0" page_number="1150" standard_reporter="U.S." citation_global_level_id="146.002" line="1" id="126762_1" citation_local_level_id="0" >537 U.S. 1150</CITATION>
+
+<CITATION party2="KEMNA, SUPERINTENDENT, CROSSROADS CORRECTIONAL CENTER" party1="SEXTON" citation_global_level_id="118.006" party2_short="KEMNA" line="2" id="126762_2" alternative_keys="['u.s._537_886']" end="81" entry_type="party_key" lookup_key="sextonkemna#1" id1="123349" start="18" party1_short="SEXTON" citation_local_level_id="1" >SEXTON v. KEMNA, SUPERINTENDENT, CROSSROADS CORRECTIONAL CENTER</CITATION>
+
+<NAME end="24" start="18" party1_of="126762_2" all_names="SEXTON" local_name_id="1" id="126762_3" >SEXTON</NAME>
+
+<NAME end="81" start="28" all_names="KEMNA SUPERINTENDENT CROSSROADS CORRECTIONAL CENTER" party2_of="126762_2" local_name_id="2" id="126762_4" >KEMNA, SUPERINTENDENT, CROSSROADS CORRECTIONAL CENTER</NAME>
+
+<DOCKET alternative_keys="['u.s._537_886']" end="111" entry_type="docket" lookup_key="sextonkemna#1" id1="123349" start="105" citation_global_level_id="118.006" line="3" id="126762_7" citation_local_level_id="1" >02-154</DOCKET>
+
+<ORGANIZATION start="117" end="147" id="126762_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="153" citation_global_level_id="118.006" end="169" id="126762_9" citation_local_level_id="1" >January 13, 2003</DATE>
+
+<LEGAL_ROLE start="191" end="212" plural="True" id="126762_13" >Motion of petitioners</LEGAL_ROLE>
+
+<NAME start="276" local_name_id="3" end="284" id="126762_14" all_names="PETITION" >Petition</NAME>
+
+<RELATION theme="126762_2" party1="126762_3" party1_string="SEXTON" theme_string="SEXTON v. KEMNA, SUPERINTENDENT, CROSSROADS CORRECTIONAL CENTER" gram_type="infix" relation_type="asymmetric" id="126762_5" ></RELATION>
+
+<RELATION party2="126762_4" theme="126762_2" theme_string="SEXTON v. KEMNA, SUPERINTENDENT, CROSSROADS CORRECTIONAL CENTER" party2_string="KEMNA, SUPERINTENDENT, CROSSROADS CORRECTIONAL CENTER" gram_type="infix" relation_type="asymmetric" id="126762_6" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1150" X_vs_Y_string="SEXTON v. KEMNA, SUPERINTENDENT, CROSSROADS CORRECTIONAL CENTER" standard_case="126762_1" X_vs_Y="126762_2" gram_type="multi_line" relation_type="equivalence" id="126762_10" ></RELATION>
+
+<RELATION at_date_string="January 13, 2003" theme="126762_2" at_date="126762_9" theme_string="SEXTON v. KEMNA, SUPERINTENDENT, CROSSROADS CORRECTIONAL CENTER" gram_type="multi_line" relation_type="asymmetric" id="126762_12" ></RELATION>
+
+<RELATION theme="126762_2" includes_docket_string="02-154" includes_docket="126762_7" theme_string="SEXTON v. KEMNA, SUPERINTENDENT, CROSSROADS CORRECTIONAL CENTER" gram_type="multi_line" relation_type="asymmetric" id="126762_11" ></RELATION>
+

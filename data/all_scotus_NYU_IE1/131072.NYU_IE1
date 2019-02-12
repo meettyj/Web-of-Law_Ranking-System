@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['crawfordwashington#5']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_982" id1="131073" volume="539" start="0" page_number="982" standard_reporter="U.S." citation_global_level_id="6086.002" line="1" id="131072_1" citation_local_level_id="0" >539 U.S. 982</CITATION>
+
+<CITATION party2="Washington" party1="Crawford" citation_global_level_id="49280.001" party2_short="Washington" line="1" id="131072_3" alternative_keys="['u.s._539_982']" end="39" entry_type="party_key" lookup_key="crawfordwashington#5" id1="131211" start="17" party1_short="Crawford" citation_local_level_id="1" >Crawford v. Washington</CITATION>
+
+<NAME end="25" start="17" party1_of="131072_3" all_names="CRAWFORD" local_name_id="1" id="131072_4" >Crawford</NAME>
+
+<NAME end="39" start="29" all_names="WASHINGTON" party2_of="131072_3" local_name_id="2" id="131072_5" >Washington</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._539_982" id1="131073" start="49" citation_global_level_id="6086.002" line="1" id="131072_2" citation_local_level_id="0" >02-9410</DOCKET>
+
+<DATE start="98" end="113" id="131072_6" >August 25, 2003</DATE>
+
+<ORGANIZATION start="227" end="286" id="131072_12" >Motions of National Association of Criminal Defense Lawyers</ORGANIZATION>
+
+<NAME start="298" local_name_id="3" end="314" id="131072_13" all_names="SHERMAN J CLARK" >Sherman J. Clark</NAME>
+
+<RELATION theme="131072_1" includes_docket_string="02-9410" includes_docket="131072_2" theme_string="539 U.S. 982" gram_type="apposition" relation_type="asymmetric" id="131072_11" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 982" X_vs_Y_string="Crawford v. Washington" standard_case="131072_1" X_vs_Y="131072_3" gram_type="pre_nom" relation_type="equivalence" id="131072_7" ></RELATION>
+
+<RELATION theme="131072_3" includes_docket_string="02-9410" includes_docket="131072_2" theme_string="Crawford v. Washington" gram_type="apposition" relation_type="asymmetric" id="131072_10" ></RELATION>
+
+<RELATION theme="131072_3" party1="131072_4" party1_string="Crawford" theme_string="Crawford v. Washington" gram_type="infix" relation_type="asymmetric" id="131072_8" ></RELATION>
+
+<RELATION party2="131072_5" theme="131072_3" theme_string="Crawford v. Washington" party2_string="Washington" gram_type="infix" relation_type="asymmetric" id="131072_9" ></RELATION>
+

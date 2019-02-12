@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['holmesbank#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1149" id1="126721" volume="537" start="0" page_number="1149" standard_reporter="U.S." citation_global_level_id="479.002" line="1" id="126734_1" citation_local_level_id="0" >537 U.S. 1149</CITATION>
+
+<CITATION party2="PEOPLES STATE BANK" party1="LATTIER-HOLMES" citation_global_level_id="34599.001" party2_short="BANK" line="2" id="126734_2" alternative_keys="['u.s._537_1149']" end="54" entry_type="party_key" lookup_key="holmesbank#1" id1="123485" start="18" party1_short="HOLMES" citation_local_level_id="1" >LATTIER-HOLMES v. PEOPLES STATE BANK</CITATION>
+
+<NAME end="32" start="18" party1_of="126734_2" all_names="LATTIER-HOLMES" local_name_id="1" id="126734_3" >LATTIER-HOLMES</NAME>
+
+<NAME end="54" start="36" all_names="PEOPLES STATE BANK" party2_of="126734_2" local_name_id="2" id="126734_4" >PEOPLES STATE BANK</NAME>
+
+<DOCKET end="85" entry_type="docket" lookup_key="holmesbank#1" id1="123485" start="78" citation_global_level_id="34599.001" line="3" id="126734_7" citation_local_level_id="1" >02-5148</DOCKET>
+
+<ORGANIZATION start="91" end="121" id="126734_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="127" citation_global_level_id="34599.001" end="143" id="126734_9" citation_local_level_id="1" >January 13, 2003</DATE>
+
+<NAME start="165" local_name_id="3" end="173" id="126734_13" all_names="PETITION" >Petition</NAME>
+
+<RELATION theme="126734_2" party1="126734_3" party1_string="LATTIER-HOLMES" theme_string="LATTIER-HOLMES v. PEOPLES STATE BANK" gram_type="infix" relation_type="asymmetric" id="126734_5" ></RELATION>
+
+<RELATION party2="126734_4" theme="126734_2" theme_string="LATTIER-HOLMES v. PEOPLES STATE BANK" party2_string="PEOPLES STATE BANK" gram_type="infix" relation_type="asymmetric" id="126734_6" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1149" X_vs_Y_string="LATTIER-HOLMES v. PEOPLES STATE BANK" standard_case="126734_1" X_vs_Y="126734_2" gram_type="multi_line" relation_type="equivalence" id="126734_10" ></RELATION>
+
+<RELATION at_date_string="January 13, 2003" theme="126734_2" at_date="126734_9" theme_string="LATTIER-HOLMES v. PEOPLES STATE BANK" gram_type="multi_line" relation_type="asymmetric" id="126734_12" ></RELATION>
+
+<RELATION theme="126734_2" includes_docket_string="02-5148" includes_docket="126734_7" theme_string="LATTIER-HOLMES v. PEOPLES STATE BANK" gram_type="multi_line" relation_type="asymmetric" id="126734_11" ></RELATION>
+

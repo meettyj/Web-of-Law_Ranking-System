@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['romneyinsurance#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_848" id1="122848" volume="537" start="0" page_number="848" standard_reporter="U.S." citation_global_level_id="679.002" line="1" id="122850_1" citation_local_level_id="0" >537 U.S. 848</CITATION>
+
+<CITATION party2="ALLSTATE INSURANCE CO. ET AL" party1="ROMNEY" citation_global_level_id="8185.001" party2_short="INSURANCE" line="1" id="122850_3" alternative_keys="['u.s._537_848']" end="55" entry_type="party_key" lookup_key="romneyinsurance#1" id1="122850" start="17" party1_short="ROMNEY" citation_local_level_id="1" >ROMNEY v. ALLSTATE INSURANCE CO. ET AL</CITATION>
+
+<NAME end="23" start="17" party1_of="122850_3" all_names="ROMNEY" local_name_id="1" id="122850_4" >ROMNEY</NAME>
+
+<NAME end="55" start="27" all_names="ALLSTATE INSURANCE CO" party2_of="122850_3" local_name_id="2" id="122850_5" >ALLSTATE INSURANCE CO. ET AL</NAME>
+
+<DOCKET end="73" entry_type="docket" lookup_key="u.s._537_848" id1="122848" start="65" citation_global_level_id="679.002" line="1" id="122850_2" citation_local_level_id="0" >01-10544</DOCKET>
+
+<DATE start="115" end="130" id="122850_6" >October 7, 2002</DATE>
+
+<NAME start="254" local_name_id="3" end="256" id="122850_12" all_names="CT" >Ct</NAME>
+
+<RELATION theme="122850_1" includes_docket_string="01-10544" includes_docket="122850_2" theme_string="537 U.S. 848" gram_type="apposition" relation_type="asymmetric" id="122850_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 848" X_vs_Y_string="ROMNEY v. ALLSTATE INSURANCE CO. ET AL" standard_case="122850_1" X_vs_Y="122850_3" gram_type="pre_nom" relation_type="equivalence" id="122850_7" ></RELATION>
+
+<RELATION theme="122850_3" includes_docket_string="01-10544" includes_docket="122850_2" theme_string="ROMNEY v. ALLSTATE INSURANCE CO. ET AL" gram_type="apposition" relation_type="asymmetric" id="122850_10" ></RELATION>
+
+<RELATION theme="122850_3" party1="122850_4" party1_string="ROMNEY" theme_string="ROMNEY v. ALLSTATE INSURANCE CO. ET AL" gram_type="infix" relation_type="asymmetric" id="122850_8" ></RELATION>
+
+<RELATION party2="122850_5" theme="122850_3" theme_string="ROMNEY v. ALLSTATE INSURANCE CO. ET AL" party2_string="ALLSTATE INSURANCE CO. ET AL" gram_type="infix" relation_type="asymmetric" id="122850_9" ></RELATION>
+

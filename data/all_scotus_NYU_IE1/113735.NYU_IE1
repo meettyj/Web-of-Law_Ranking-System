@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['greeneexchange#3']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_866" id1="113729" volume="510" start="0" page_number="866" standard_reporter="U.S." citation_global_level_id="16176.002" line="1" id="113735_1" citation_local_level_id="0" >510 U.S. 866</CITATION>
+
+<CITATION party2="New York Stock Exchange, Inc., et al" party1="Greene" citation_global_level_id="6140.003" party2_short="Exchange" line="1" id="113735_3" alternative_keys="['u.s._510_985']" end="63" entry_type="party_key" lookup_key="greeneexchange#3" id1="115262" start="17" party1_short="Greene" citation_local_level_id="1" >Greene v. New York Stock Exchange, Inc., et al</CITATION>
+
+<NAME end="23" start="17" party1_of="113735_3" all_names="GREENE" local_name_id="1" id="113735_4" >Greene</NAME>
+
+<NAME end="63" start="27" all_names="NEW YORK STOCK EXCHANGE INC" party2_of="113735_3" local_name_id="2" id="113735_5" >New York Stock Exchange, Inc., et al</NAME>
+
+<DOCKET end="79" entry_type="docket" lookup_key="u.s._510_866" id1="113729" start="73" citation_global_level_id="16176.002" line="1" id="113735_2" citation_local_level_id="0" >93-151</DOCKET>
+
+<DATE start="121" end="136" id="113735_6" >October 4, 1993</DATE>
+
+<NAME start="213" local_name_id="3" end="223" id="113735_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="262" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_993_1534" id1="Dummy_File_85519" volume="993" start="248" page_number="1534" standard_reporter="F.2D" citation_global_level_id="149369.001" line="3" id="113735_12" citation_local_level_id="2" >993 F. 2d 1534</CITATION>
+
+<RELATION theme="113735_1" includes_docket_string="93-151" includes_docket="113735_2" theme_string="510 U.S. 866" gram_type="apposition" relation_type="asymmetric" id="113735_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 866" X_vs_Y_string="Greene v. New York Stock Exchange, Inc., et al" standard_case="113735_1" X_vs_Y="113735_3" gram_type="pre_nom" relation_type="equivalence" id="113735_7" ></RELATION>
+
+<RELATION theme="113735_3" includes_docket_string="93-151" includes_docket="113735_2" theme_string="Greene v. New York Stock Exchange, Inc., et al" gram_type="apposition" relation_type="asymmetric" id="113735_10" ></RELATION>
+
+<RELATION theme="113735_3" party1="113735_4" party1_string="Greene" theme_string="Greene v. New York Stock Exchange, Inc., et al" gram_type="infix" relation_type="asymmetric" id="113735_8" ></RELATION>
+
+<RELATION party2="113735_5" theme="113735_3" theme_string="Greene v. New York Stock Exchange, Inc., et al" party2_string="New York Stock Exchange, Inc., et al" gram_type="infix" relation_type="asymmetric" id="113735_9" ></RELATION>
+

@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['jonesjohnson#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_959" id1="133228" volume="540" start="0" page_number="959" standard_reporter="U.S." citation_global_level_id="4140.002" line="1" id="133228_1" citation_local_level_id="0" >540 U.S. 959</CITATION>
+
+<CITATION party2="JOHNSON, SUPERINTENDENT, STATE CORRECTIONAL INSTITUTION AT PITTSBURGH, ET AL" party1="JONES" citation_global_level_id="4140.003" party2_short="JOHNSON" line="1" id="133228_3" alternative_keys="['u.s._540_959']" end="102" entry_type="party_key" lookup_key="jonesjohnson#2" id1="133228" start="17" party1_short="JONES" citation_local_level_id="1" >JONES v. JOHNSON, SUPERINTENDENT, STATE CORRECTIONAL INSTITUTION AT PITTSBURGH, ET AL</CITATION>
+
+<NAME end="22" start="17" party1_of="133228_3" all_names="JONES" local_name_id="1" id="133228_4" >JONES</NAME>
+
+<NAME end="102" start="26" all_names="JOHNSON SUPERINTENDENT STATE CORRECTIONAL INSTITUTION AT PITTSBURGH" party2_of="133228_3" local_name_id="2" id="133228_5" >JOHNSON, SUPERINTENDENT, STATE CORRECTIONAL INSTITUTION AT PITTSBURGH, ET AL</NAME>
+
+<DOCKET end="119" entry_type="docket" lookup_key="u.s._540_959" id1="133228" start="112" citation_global_level_id="4140.002" line="1" id="133228_2" citation_local_level_id="0" >03-6063</DOCKET>
+
+<DATE start="161" end="177" id="133228_6" >October 14, 2003</DATE>
+
+<NAME start="254" local_name_id="3" end="264" id="133228_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="133228_1" includes_docket_string="03-6063" includes_docket="133228_2" theme_string="540 U.S. 959" gram_type="apposition" relation_type="asymmetric" id="133228_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 959" X_vs_Y_string="JONES v. JOHNSON, SUPERINTENDENT, STATE CORRECTIONAL INSTITUTION AT PITTSBURGH, ET AL" standard_case="133228_1" X_vs_Y="133228_3" gram_type="pre_nom" relation_type="equivalence" id="133228_7" ></RELATION>
+
+<RELATION theme="133228_3" includes_docket_string="03-6063" includes_docket="133228_2" theme_string="JONES v. JOHNSON, SUPERINTENDENT, STATE CORRECTIONAL INSTITUTION AT PITTSBURGH, ET AL" gram_type="apposition" relation_type="asymmetric" id="133228_10" ></RELATION>
+
+<RELATION theme="133228_3" party1="133228_4" party1_string="JONES" theme_string="JONES v. JOHNSON, SUPERINTENDENT, STATE CORRECTIONAL INSTITUTION AT PITTSBURGH, ET AL" gram_type="infix" relation_type="asymmetric" id="133228_8" ></RELATION>
+
+<RELATION party2="133228_5" theme="133228_3" theme_string="JONES v. JOHNSON, SUPERINTENDENT, STATE CORRECTIONAL INSTITUTION AT PITTSBURGH, ET AL" party2_string="JOHNSON, SUPERINTENDENT, STATE CORRECTIONAL INSTITUTION AT PITTSBURGH, ET AL" gram_type="infix" relation_type="asymmetric" id="133228_9" ></RELATION>
+

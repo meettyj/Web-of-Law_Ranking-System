@@ -1,0 +1,34 @@
+<CITATION alternative_keys="['clarkebazadone#1', 'cranch_1_212']" end="18" reporter="U.S." entry_type="standard_key" lookup_key="u.s._5_212" id1="84762" volume="5" start="1" page_number="212" standard_reporter="U.S." citation_global_level_id="52044.002" line="2" id="84762_1" citation_local_level_id="0" >5 U.S. 212 (____)</CITATION>
+
+<CITATION alternative_keys="['u.s._5_212', 'clarkebazadone#1']" end="31" reporter="Cranch" entry_type="standard_key" lookup_key="cranch_1_212" id1="84762" volume="1" start="19" page_number="212" standard_reporter="CRANCH" citation_global_level_id="52044.003" line="3" id="84762_2" citation_local_level_id="1" >1 Cranch 212</CITATION>
+
+<CITATION party2="BAZADONE" party1="CLARKE" citation_global_level_id="52044.001" party2_short="BAZADONE" line="6" id="84762_4" alternative_keys="['u.s._5_212', 'cranch_1_212']" end="52" entry_type="party_key" lookup_key="clarkebazadone#1" id1="84762" start="32" party1_short="CLARKE" citation_local_level_id="2" >CLARKE v. BAZADONE</CITATION>
+
+<NAME end="38" start="32" party1_of="84762_4" all_names="CLARKE" local_name_id="1" id="84762_5" >CLARKE</NAME>
+
+<NAME end="52" start="44" all_names="BAZADONE" party2_of="84762_4" local_name_id="2" id="84762_6" >BAZADONE</NAME>
+
+<ORGANIZATION start="54" end="84" id="84762_9" >Supreme Court of United States</ORGANIZATION>
+
+<NAME start="87" local_name_id="3" end="92" id="84762_12" all_names="MASON" >Mason</NAME>
+
+<LEGAL_ROLE start="102" end="111" id="84762_13" >plaintiff</LEGAL_ROLE>
+
+<NAME start="122" local_name_id="4" end="126" id="84762_14" all_names="WRIT" >WRIT</NAME>
+
+<ORGANIZATION start="143" end="156" id="84762_15" >general court</ORGANIZATION>
+
+<NAME start="198" local_name_id="5" end="202" id="84762_16" all_names="OHIO" >Ohio</NAME>
+
+<ORGANIZATION start="209" end="214" id="84762_17" >court</ORGANIZATION>
+
+<ORGANIZATION start="539" end="565" id="84762_18" >court of the United States</ORGANIZATION>
+
+<RELATION theme="84762_4" party1="84762_5" party1_string="CLARKE" theme_string="CLARKE  v.  BAZADONE" gram_type="infix" relation_type="asymmetric" id="84762_7" ></RELATION>
+
+<RELATION party2="84762_6" theme="84762_4" theme_string="CLARKE  v.  BAZADONE" party2_string="BAZADONE" gram_type="infix" relation_type="asymmetric" id="84762_8" ></RELATION>
+
+<RELATION standard_case_string="5 U.S. 212 (____)" X_vs_Y_string="CLARKE  v.  BAZADONE" standard_case="84762_1" X_vs_Y="84762_4" gram_type="multi_line" relation_type="equivalence" id="84762_10" ></RELATION>
+
+<RELATION standard_case_string="1 Cranch 212" X_vs_Y_string="CLARKE  v.  BAZADONE" standard_case="84762_2" X_vs_Y="84762_4" gram_type="multi_line" relation_type="equivalence" id="84762_11" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['lawsonmississippi#3']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_953" id1="119041" volume="535" start="0" page_number="953" standard_reporter="U.S." citation_global_level_id="5888.002" line="1" id="119047_1" citation_local_level_id="0" >535 U.S. 953</CITATION>
+
+<CITATION party2="MISSISSIPPI ET AL" party1="LAWSON" citation_global_level_id="49582.001" party2_short="MISSISSIPPI" line="2" id="119047_2" alternative_keys="['u.s._535_953']" end="44" entry_type="party_key" lookup_key="lawsonmississippi#3" id1="119047" start="17" party1_short="LAWSON" citation_local_level_id="1" >LAWSON v. MISSISSIPPI ET AL</CITATION>
+
+<NAME end="23" start="17" party1_of="119047_2" all_names="LAWSON" local_name_id="1" id="119047_3" >LAWSON</NAME>
+
+<NAME end="44" start="27" all_names="MISSISSIPPI" party2_of="119047_2" local_name_id="2" id="119047_4" >MISSISSIPPI ET AL</NAME>
+
+<DOCKET end="61" entry_type="docket" lookup_key="lawsonmississippi#3" id1="119047" start="54" citation_global_level_id="49582.001" line="3" id="119047_7" citation_local_level_id="1" >01-7785</DOCKET>
+
+<DATE start="107" citation_global_level_id="49582.001" end="121" id="119047_8" citation_local_level_id="1" >March 25, 2002</DATE>
+
+<NAME start="143" local_name_id="3" end="145" id="119047_13" all_names="CT" >Ct</NAME>
+
+<CITATION end="310" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_784_983" id1="Dummy_File_141507" volume="784" start="296" page_number="983" standard_reporter="SO.2D" citation_global_level_id="205357.001" line="8" id="119047_12" citation_local_level_id="2" >784 So. 2d 983</CITATION>
+
+<RELATION theme="119047_2" party1="119047_3" party1_string="LAWSON" theme_string="LAWSON v. MISSISSIPPI ET AL" gram_type="infix" relation_type="asymmetric" id="119047_5" ></RELATION>
+
+<RELATION party2="119047_4" theme="119047_2" theme_string="LAWSON v. MISSISSIPPI ET AL" party2_string="MISSISSIPPI ET AL" gram_type="infix" relation_type="asymmetric" id="119047_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 953" X_vs_Y_string="LAWSON v. MISSISSIPPI ET AL" standard_case="119047_1" X_vs_Y="119047_2" gram_type="multi_line" relation_type="equivalence" id="119047_9" ></RELATION>
+
+<RELATION at_date_string="March 25, 2002" theme="119047_2" at_date="119047_8" theme_string="LAWSON v. MISSISSIPPI ET AL" gram_type="multi_line" relation_type="asymmetric" id="119047_11" ></RELATION>
+
+<RELATION theme="119047_2" includes_docket_string="01-7785" includes_docket="119047_7" theme_string="LAWSON v. MISSISSIPPI ET AL" gram_type="multi_line" relation_type="asymmetric" id="119047_10" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['burtonmissouri#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_872" id1="123153" volume="537" start="0" page_number="872" standard_reporter="U.S." citation_global_level_id="5397.002" line="1" id="123153_1" citation_local_level_id="0" >537 U.S. 872</CITATION>
+
+<CITATION party2="MISSOURI" party1="BURTON" citation_global_level_id="5397.001" party2_short="MISSOURI" line="1" id="123153_3" alternative_keys="['u.s._537_872']" end="35" entry_type="party_key" lookup_key="burtonmissouri#1" id1="123153" start="17" party1_short="BURTON" citation_local_level_id="1" >BURTON v. MISSOURI</CITATION>
+
+<NAME end="23" start="17" party1_of="123153_3" all_names="BURTON" local_name_id="1" id="123153_4" >BURTON</NAME>
+
+<NAME end="35" start="27" all_names="MISSOURI" party2_of="123153_3" local_name_id="2" id="123153_5" >MISSOURI</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="u.s._537_872" id1="123153" start="45" citation_global_level_id="5397.002" line="1" id="123153_2" citation_local_level_id="0" >01-10938</DOCKET>
+
+<DATE start="95" end="110" id="123153_6" >October 7, 2002</DATE>
+
+<NAME start="223" local_name_id="3" end="225" id="123153_13" all_names="CT" >Ct</NAME>
+
+<CITATION end="301" reporter="S. W. 3d" entry_type="standard_key" no_current_file="True" lookup_key="s.w.3d_68_490" id1="Dummy_File_76357" volume="68" start="286" page_number="490" standard_reporter="S.W.3D" citation_global_level_id="140207.001" line="3" id="123153_12" citation_local_level_id="2" >68 S. W. 3d 490</CITATION>
+
+<RELATION theme="123153_1" includes_docket_string="01-10938" includes_docket="123153_2" theme_string="537 U.S. 872" gram_type="apposition" relation_type="asymmetric" id="123153_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 872" X_vs_Y_string="BURTON v. MISSOURI" standard_case="123153_1" X_vs_Y="123153_3" gram_type="pre_nom" relation_type="equivalence" id="123153_7" ></RELATION>
+
+<RELATION theme="123153_3" includes_docket_string="01-10938" includes_docket="123153_2" theme_string="BURTON v. MISSOURI" gram_type="apposition" relation_type="asymmetric" id="123153_10" ></RELATION>
+
+<RELATION theme="123153_3" party1="123153_4" party1_string="BURTON" theme_string="BURTON v. MISSOURI" gram_type="infix" relation_type="asymmetric" id="123153_8" ></RELATION>
+
+<RELATION party2="123153_5" theme="123153_3" theme_string="BURTON v. MISSOURI" party2_string="MISSOURI" gram_type="infix" relation_type="asymmetric" id="123153_9" ></RELATION>
+

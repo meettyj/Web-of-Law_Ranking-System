@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['settoongros#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_955" id1="139755" volume="543" start="0" page_number="955" standard_reporter="U.S." citation_global_level_id="4038.002" line="1" id="139752_1" citation_local_level_id="0" >543 U.S. 955</CITATION>
+
+<CITATION party2="GROS" party1="FRED SETTOON, INC." citation_global_level_id="55685.001" party2_short="GROS" line="2" id="139752_2" alternative_keys="['u.s._543_955']" end="43" entry_type="party_key" lookup_key="settoongros#1" id1="139752" start="17" party1_short="SETTOON" citation_local_level_id="1" >FRED SETTOON, INC. v. GROS</CITATION>
+
+<NAME end="35" start="17" party1_of="139752_2" all_names="FRED SETTOON INC" local_name_id="1" id="139752_3" >FRED SETTOON, INC.</NAME>
+
+<ORGANIZATION start="17" end="34" id="139752_5" >FRED SETTOON, INC</ORGANIZATION>
+
+<NAME end="43" start="39" all_names="GROS" party2_of="139752_2" local_name_id="2" id="139752_4" >GROS</NAME>
+
+<DOCKET end="60" entry_type="docket" lookup_key="settoongros#1" id1="139752" start="53" citation_global_level_id="55685.001" line="3" id="139752_8" citation_local_level_id="1" >03-1699</DOCKET>
+
+<ORGANIZATION start="66" end="96" id="139752_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="102" citation_global_level_id="55685.001" end="118" id="139752_10" citation_local_level_id="1" >November 1, 2004</DATE>
+
+<NAME start="140" local_name_id="3" end="142" id="139752_15" all_names="CT" >Ct</NAME>
+
+<CITATION end="211" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_865_143" id1="Dummy_File_165446" volume="865" start="197" page_number="143" standard_reporter="SO.2D" citation_global_level_id="229296.001" line="8" id="139752_14" citation_local_level_id="2" >865 So. 2d 143</CITATION>
+
+<RELATION theme="139752_2" party1="139752_3" party1_string="FRED SETTOON, INC." theme_string="FRED SETTOON, INC. v. GROS" gram_type="infix" relation_type="asymmetric" id="139752_6" ></RELATION>
+
+<RELATION party2="139752_4" theme="139752_2" theme_string="FRED SETTOON, INC. v. GROS" party2_string="GROS" gram_type="infix" relation_type="asymmetric" id="139752_7" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 955" X_vs_Y_string="FRED SETTOON, INC. v. GROS" standard_case="139752_1" X_vs_Y="139752_2" gram_type="multi_line" relation_type="equivalence" id="139752_11" ></RELATION>
+
+<RELATION at_date_string="November 1, 2004" theme="139752_2" at_date="139752_10" theme_string="FRED SETTOON, INC. v. GROS" gram_type="multi_line" relation_type="asymmetric" id="139752_13" ></RELATION>
+
+<RELATION theme="139752_2" includes_docket_string="03-1699" includes_docket="139752_8" theme_string="FRED SETTOON, INC. v. GROS" gram_type="multi_line" relation_type="asymmetric" id="139752_12" ></RELATION>
+

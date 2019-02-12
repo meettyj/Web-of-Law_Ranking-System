@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['suoncarey#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_927" id1="143250" volume="544" start="0" page_number="927" standard_reporter="U.S." citation_global_level_id="2559.002" line="1" id="143250_1" citation_local_level_id="0" >544 U.S. 927</CITATION>
+
+<CITATION party2="CAREY, WARDEN, ET AL" party1="KAMSAN SUON" citation_global_level_id="2559.005" party2_short="CAREY" line="2" id="143250_2" alternative_keys="['u.s._544_927']" end="52" entry_type="party_key" lookup_key="suoncarey#1" id1="143250" start="17" party1_short="SUON" citation_local_level_id="1" >KAMSAN SUON v. CAREY, WARDEN, ET AL</CITATION>
+
+<NAME end="28" start="17" party1_of="143250_2" all_names="KAMSAN SUON" local_name_id="1" id="143250_3" >KAMSAN SUON</NAME>
+
+<NAME end="52" start="32" all_names="CAREY WARDEN" party2_of="143250_2" local_name_id="2" id="143250_4" >CAREY, WARDEN, ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._544_927']" end="69" entry_type="docket" lookup_key="suoncarey#1" id1="143250" start="62" citation_global_level_id="2559.005" line="3" id="143250_7" citation_local_level_id="1" >04-8140</DOCKET>
+
+<ORGANIZATION start="75" end="105" id="143250_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="111" citation_global_level_id="2559.005" end="125" id="143250_9" citation_local_level_id="1" >March 21, 2005</DATE>
+
+<NAME start="157" local_name_id="3" end="160" id="143250_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="143250_2" party1="143250_3" party1_string="KAMSAN SUON" theme_string="KAMSAN SUON v. CAREY, WARDEN, ET AL" gram_type="infix" relation_type="asymmetric" id="143250_5" ></RELATION>
+
+<RELATION party2="143250_4" theme="143250_2" theme_string="KAMSAN SUON v. CAREY, WARDEN, ET AL" party2_string="CAREY, WARDEN, ET AL" gram_type="infix" relation_type="asymmetric" id="143250_6" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 927" X_vs_Y_string="KAMSAN SUON v. CAREY, WARDEN, ET AL" standard_case="143250_1" X_vs_Y="143250_2" gram_type="multi_line" relation_type="equivalence" id="143250_10" ></RELATION>
+
+<RELATION at_date_string="March 21, 2005" theme="143250_2" at_date="143250_9" theme_string="KAMSAN SUON v. CAREY, WARDEN, ET AL" gram_type="multi_line" relation_type="asymmetric" id="143250_12" ></RELATION>
+
+<RELATION theme="143250_2" includes_docket_string="04-8140" includes_docket="143250_7" theme_string="KAMSAN SUON v. CAREY, WARDEN, ET AL" gram_type="multi_line" relation_type="asymmetric" id="143250_11" ></RELATION>
+

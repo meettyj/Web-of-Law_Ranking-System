@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['davisjohnson#3']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_1007" id1="135908" volume="541" start="0" page_number="1007" standard_reporter="U.S." citation_global_level_id="6009.002" line="1" id="135913_1" citation_local_level_id="0" >541 U.S. 1007</CITATION>
+
+<CITATION party2="JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" party1="DAVIS" citation_global_level_id="6009.006" party2_short="JOHNSON" line="2" id="135913_3" alternative_keys="['u.s._541_1007']" end="80" entry_type="party_key" lookup_key="davisjohnson#3" id1="135908" start="18" party1_short="DAVIS" citation_local_level_id="1" >DAVIS v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS</CITATION>
+
+<NAME end="23" start="18" party1_of="135913_3" all_names="DAVIS" local_name_id="1" id="135913_4" >DAVIS</NAME>
+
+<NAME end="80" start="27" all_names="JOHNSON DIRECTOR VIRGINIA DEPARTMENT OF CORRECTIONS" party2_of="135913_3" local_name_id="2" id="135913_5" >JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS</NAME>
+
+<DOCKET alternative_keys="['u.s._541_1007']" end="97" entry_type="docket" lookup_key="davisjohnson#3" id1="135908" start="90" citation_global_level_id="6009.006" line="2" id="135913_2" citation_local_level_id="1" >03-8286</DOCKET>
+
+<ORGANIZATION start="103" end="133" id="135913_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="139" citation_global_level_id="6009.006" end="153" id="135913_10" citation_local_level_id="1" >April 19, 2004</DATE>
+
+<CITATION end="189" reporter="U. S." entry_type="standard_key" no_current_file="True" lookup_key="u.s._540_1224" id1="Dummy_File_37226" volume="540" start="175" page_number="1224" standard_reporter="U.S." citation_global_level_id="101076.001" line="7" id="135913_13" citation_local_level_id="2" >540 U. S. 1224</CITATION>
+
+<NAME start="191" local_name_id="3" end="200" id="135913_14" all_names="PETITIONS" >Petitions</NAME>
+
+<RELATION theme="135913_3" includes_docket_string="03-8286" includes_docket="135913_2" theme_string="DAVIS v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" gram_type="apposition" relation_type="asymmetric" id="135913_8" ></RELATION>
+
+<RELATION theme="135913_3" party1="135913_4" party1_string="DAVIS" theme_string="DAVIS v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" gram_type="infix" relation_type="asymmetric" id="135913_6" ></RELATION>
+
+<RELATION party2="135913_5" theme="135913_3" theme_string="DAVIS v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" party2_string="JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" gram_type="infix" relation_type="asymmetric" id="135913_7" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 1007" X_vs_Y_string="DAVIS v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" standard_case="135913_1" X_vs_Y="135913_3" gram_type="multi_line" relation_type="equivalence" id="135913_11" ></RELATION>
+
+<RELATION at_date_string="April 19, 2004" theme="135913_3" at_date="135913_10" theme_string="DAVIS v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" gram_type="multi_line" relation_type="asymmetric" id="135913_12" ></RELATION>
+

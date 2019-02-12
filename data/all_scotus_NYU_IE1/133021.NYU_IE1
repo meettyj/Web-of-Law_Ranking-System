@@ -1,0 +1,48 @@
+<CITATION alternative_keys="['cityc#3']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_944" id1="133031" volume="540" start="0" page_number="944" standard_reporter="U.S." citation_global_level_id="1251.002" line="1" id="133021_1" citation_local_level_id="0" >540 U.S. 944</CITATION>
+
+<CITATION party2="Z. J. GIFTS D-4, L. L. C., DBA CHRISTAL'S" party1="CITY OF LITTLETON, COLORADO" citation_global_level_id="27783.003" party2_short="C" line="1" id="133021_3" alternative_keys="['u.s._541_774']" end="89" entry_type="party_key" lookup_key="cityc#3" id1="134752" start="17" party1_short="CITY" citation_local_level_id="1" >CITY OF LITTLETON, COLORADO v. Z. J. GIFTS D-4, L. L. C., DBA CHRISTAL'S</CITATION>
+
+<NAME end="44" start="17" party1_of="133021_3" all_names="CITY OF LITTLETON COLORADO" local_name_id="1" id="133021_4" >CITY OF LITTLETON, COLORADO</NAME>
+
+<NAME start="17" local_name_id="2" end="34" id="133021_7" all_names="CITY OF LITTLETON" >CITY OF LITTLETON</NAME>
+
+<NAME end="89" start="48" all_names="Z J GIFTS D-4 L L C DBA CHRISTAL'S" party2_of="133021_3" local_name_id="3" id="133021_5" >Z. J. GIFTS D-4, L. L. C., DBA CHRISTAL'S</NAME>
+
+<DOCKET end="106" entry_type="docket" lookup_key="u.s._540_944" id1="133031" start="99" citation_global_level_id="1251.002" line="1" id="133021_2" citation_local_level_id="0" >02-1609</DOCKET>
+
+<DATE start="148" end="164" id="133021_6" >October 14, 2003</DATE>
+
+<NAME start="243" local_name_id="4" end="253" id="133021_19" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION party2="Dallas" party1="FW/PBS, Inc." citation_global_level_id="16500.003" party2_short="Dallas" line="3" id="133021_15" alternative_keys="['u.s._493_215']" end="381" entry_type="party_key" lookup_key="pbsdallas#1" id1="112348" start="359" party1_short="PBS" citation_local_level_id="2" >FW/PBS, Inc. v. Dallas</CITATION>
+
+<NAME end="371" start="359" party1_of="133021_15" all_names="FW/PBS INC" local_name_id="5" id="133021_16" >FW/PBS, Inc.</NAME>
+
+<ORGANIZATION start="359" end="370" id="133021_20" >FW/PBS, Inc</ORGANIZATION>
+
+<NAME end="381" start="375" all_names="DALLAS" party2_of="133021_15" local_name_id="6" id="133021_17" >Dallas</NAME>
+
+<CITATION alternative_keys="['pbsdallas#1']" end="402" reporter="U.S." entry_type="standard_key" lookup_key="u.s._493_215" id1="112348" volume="493" start="383" page_number="215" year="1990" standard_reporter="U.S." citation_global_level_id="16500.002" line="3" id="133021_13" citation_local_level_id="3" >493 U.S. 215 (1990)</CITATION>
+
+<DATE start="397" citation_global_level_id="16500.002" end="401" id="133021_18" citation_local_level_id="3" >1990</DATE>
+
+<CITATION end="525" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_311_1220" id1="Dummy_File_74345" volume="311" start="511" page_number="1220" standard_reporter="F.3D" citation_global_level_id="138195.001" line="3" id="133021_14" citation_local_level_id="4" >311 F. 3d 1220</CITATION>
+
+<RELATION theme="133021_1" includes_docket_string="02-1609" includes_docket="133021_2" theme_string="540 U.S. 944" gram_type="apposition" relation_type="asymmetric" id="133021_12" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 944" X_vs_Y_string="CITY OF LITTLETON, COLORADO v. Z. J. GIFTS D-4, L. L. C., DBA CHRISTAL'S" standard_case="133021_1" X_vs_Y="133021_3" gram_type="pre_nom" relation_type="equivalence" id="133021_8" ></RELATION>
+
+<RELATION theme="133021_3" includes_docket_string="02-1609" includes_docket="133021_2" theme_string="CITY OF LITTLETON, COLORADO v. Z. J. GIFTS D-4, L. L. C., DBA CHRISTAL'S" gram_type="apposition" relation_type="asymmetric" id="133021_11" ></RELATION>
+
+<RELATION party2="133021_5" theme="133021_3" theme_string="CITY OF LITTLETON, COLORADO v. Z. J. GIFTS D-4, L. L. C., DBA CHRISTAL'S" party2_string="Z. J. GIFTS D-4, L. L. C., DBA CHRISTAL'S" gram_type="infix" relation_type="asymmetric" id="133021_10" ></RELATION>
+
+<RELATION theme="133021_3" party1="133021_4" party1_string="CITY OF LITTLETON, COLORADO" theme_string="CITY OF LITTLETON, COLORADO v. Z. J. GIFTS D-4, L. L. C., DBA CHRISTAL'S" gram_type="infix" relation_type="asymmetric" id="133021_9" ></RELATION>
+
+<RELATION standard_case_string="493 U.S. 215 (1990)" X_vs_Y_string="FW/PBS, Inc. v. Dallas" standard_case="133021_13" X_vs_Y="133021_15" gram_type="apposition" relation_type="equivalence" id="133021_23" ></RELATION>
+
+<RELATION theme="133021_15" party1="133021_16" party1_string="FW/PBS, Inc." theme_string="FW/PBS, Inc. v. Dallas" gram_type="infix" relation_type="asymmetric" id="133021_21" ></RELATION>
+
+<RELATION party2="133021_17" theme="133021_15" theme_string="FW/PBS, Inc. v. Dallas" party2_string="Dallas" gram_type="infix" relation_type="asymmetric" id="133021_22" ></RELATION>
+
+<RELATION at_date_string="1990" theme="133021_13" at_date="133021_18" theme_string="493 U.S. 215 (1990)" gram_type="infix" relation_type="asymmetric" id="133021_24" ></RELATION>
+

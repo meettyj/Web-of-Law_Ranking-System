@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['connorsystem#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_879" id1="123254" volume="537" start="0" page_number="879" standard_reporter="U.S." citation_global_level_id="7868.002" line="1" id="123254_1" citation_local_level_id="0" >537 U.S. 879</CITATION>
+
+<CITATION party2="CALIFORNIA TEACHERS' RETIREMENT SYSTEM ET AL" party1="O'CONNOR" citation_global_level_id="7868.005" party2_short="SYSTEM" line="1" id="123254_3" alternative_keys="['u.s._537_879']" end="73" entry_type="party_key" lookup_key="connorsystem#1" id1="123254" start="17" party1_short="CONNOR" citation_local_level_id="1" >O'CONNOR v. CALIFORNIA TEACHERS' RETIREMENT SYSTEM ET AL</CITATION>
+
+<NAME end="25" start="17" party1_of="123254_3" all_names="O'CONNOR" local_name_id="1" id="123254_4" >O'CONNOR</NAME>
+
+<NAME end="73" start="29" all_names="CALIFORNIA TEACHERS' RETIREMENT SYSTEM" party2_of="123254_3" local_name_id="2" id="123254_5" >CALIFORNIA TEACHERS' RETIREMENT SYSTEM ET AL</NAME>
+
+<DOCKET end="88" entry_type="docket" lookup_key="u.s._537_879" id1="123254" start="83" citation_global_level_id="7868.002" line="1" id="123254_2" citation_local_level_id="0" >02-17</DOCKET>
+
+<DATE start="130" end="145" id="123254_6" >October 7, 2002</DATE>
+
+<NAME start="274" local_name_id="3" end="277" id="123254_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="123254_1" includes_docket_string="02-17" includes_docket="123254_2" theme_string="537 U.S. 879" gram_type="apposition" relation_type="asymmetric" id="123254_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 879" X_vs_Y_string="O'CONNOR v. CALIFORNIA TEACHERS' RETIREMENT SYSTEM ET AL" standard_case="123254_1" X_vs_Y="123254_3" gram_type="pre_nom" relation_type="equivalence" id="123254_7" ></RELATION>
+
+<RELATION theme="123254_3" includes_docket_string="02-17" includes_docket="123254_2" theme_string="O'CONNOR v. CALIFORNIA TEACHERS' RETIREMENT SYSTEM ET AL" gram_type="apposition" relation_type="asymmetric" id="123254_10" ></RELATION>
+
+<RELATION theme="123254_3" party1="123254_4" party1_string="O'CONNOR" theme_string="O'CONNOR v. CALIFORNIA TEACHERS' RETIREMENT SYSTEM ET AL" gram_type="infix" relation_type="asymmetric" id="123254_8" ></RELATION>
+
+<RELATION party2="123254_5" theme="123254_3" theme_string="O'CONNOR v. CALIFORNIA TEACHERS' RETIREMENT SYSTEM ET AL" party2_string="CALIFORNIA TEACHERS' RETIREMENT SYSTEM ET AL" gram_type="infix" relation_type="asymmetric" id="123254_9" ></RELATION>
+

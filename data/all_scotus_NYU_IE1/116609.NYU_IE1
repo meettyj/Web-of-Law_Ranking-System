@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['corethersbonding#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1096" id1="116613" volume="510" start="0" page_number="1096" standard_reporter="U.S." citation_global_level_id="7917.002" line="1" id="116609_1" citation_local_level_id="0" >510 U.S. 1096</CITATION>
+
+<CITATION party2="Atlas Bonding Co. et al" party1="Corethers" citation_global_level_id="55438.001" party2_short="Bonding" line="1" id="116609_3" alternative_keys="['u.s._510_1096']" end="54" entry_type="party_key" lookup_key="corethersbonding#2" id1="116609" start="18" party1_short="Corethers" citation_local_level_id="1" >Corethers v. Atlas Bonding Co. et al</CITATION>
+
+<NAME end="27" start="18" party1_of="116609_3" all_names="CORETHERS" local_name_id="1" id="116609_4" >Corethers</NAME>
+
+<NAME end="54" start="31" all_names="ATLAS BONDING CO" party2_of="116609_3" local_name_id="2" id="116609_5" >Atlas Bonding Co. et al</NAME>
+
+<DOCKET end="71" entry_type="docket" lookup_key="u.s._510_1096" id1="116613" start="64" citation_global_level_id="7917.002" line="1" id="116609_2" citation_local_level_id="0" >93-6854</DOCKET>
+
+<DATE start="113" end="129" id="116609_6" >January 24, 1994</DATE>
+
+<NAME start="207" local_name_id="3" end="217" id="116609_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="253" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_7_232" id1="Dummy_File_103842" volume="7" start="242" page_number="232" standard_reporter="F.3D" citation_global_level_id="167692.001" line="3" id="116609_12" citation_local_level_id="2" >7 F. 3d 232</CITATION>
+
+<RELATION theme="116609_1" includes_docket_string="93-6854" includes_docket="116609_2" theme_string="510 U.S. 1096" gram_type="apposition" relation_type="asymmetric" id="116609_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1096" X_vs_Y_string="Corethers v. Atlas Bonding Co. et al" standard_case="116609_1" X_vs_Y="116609_3" gram_type="pre_nom" relation_type="equivalence" id="116609_7" ></RELATION>
+
+<RELATION theme="116609_3" includes_docket_string="93-6854" includes_docket="116609_2" theme_string="Corethers v. Atlas Bonding Co. et al" gram_type="apposition" relation_type="asymmetric" id="116609_10" ></RELATION>
+
+<RELATION theme="116609_3" party1="116609_4" party1_string="Corethers" theme_string="Corethers v. Atlas Bonding Co. et al" gram_type="infix" relation_type="asymmetric" id="116609_8" ></RELATION>
+
+<RELATION party2="116609_5" theme="116609_3" theme_string="Corethers v. Atlas Bonding Co. et al" party2_string="Atlas Bonding Co. et al" gram_type="infix" relation_type="asymmetric" id="116609_9" ></RELATION>
+

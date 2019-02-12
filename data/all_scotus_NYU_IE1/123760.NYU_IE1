@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['twyfordohio#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_917" id1="123762" volume="537" start="0" page_number="917" standard_reporter="U.S." citation_global_level_id="98.002" line="1" id="123760_1" citation_local_level_id="0" >537 U.S. 917</CITATION>
+
+<CITATION party2="OHIO" party1="TWYFORD" citation_global_level_id="41890.001" party2_short="OHIO" line="1" id="123760_3" alternative_keys="['u.s._537_917']" end="32" entry_type="party_key" lookup_key="twyfordohio#1" id1="123760" start="17" party1_short="TWYFORD" citation_local_level_id="1" >TWYFORD v. OHIO</CITATION>
+
+<NAME end="24" start="17" party1_of="123760_3" all_names="TWYFORD" local_name_id="1" id="123760_4" >TWYFORD</NAME>
+
+<NAME end="32" start="28" all_names="OHIO" party2_of="123760_3" local_name_id="2" id="123760_5" >OHIO</NAME>
+
+<DOCKET end="49" entry_type="docket" lookup_key="u.s._537_917" id1="123762" start="42" citation_global_level_id="98.002" line="1" id="123760_2" citation_local_level_id="0" >02-5470</DOCKET>
+
+<DATE start="91" end="106" id="123760_6" >October 7, 2002</DATE>
+
+<NAME start="194" local_name_id="3" end="197" id="123760_13" all_names="SUP" >Sup</NAME>
+
+<CITATION end="280" reporter="N. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.e.2d_763_122" id1="Dummy_File_9786" volume="763" start="264" page_number="122" standard_reporter="N.E.2D" citation_global_level_id="73636.001" line="3" id="123760_12" citation_local_level_id="2" >763 N. E. 2d 122</CITATION>
+
+<RELATION theme="123760_1" includes_docket_string="02-5470" includes_docket="123760_2" theme_string="537 U.S. 917" gram_type="apposition" relation_type="asymmetric" id="123760_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 917" X_vs_Y_string="TWYFORD v. OHIO" standard_case="123760_1" X_vs_Y="123760_3" gram_type="pre_nom" relation_type="equivalence" id="123760_7" ></RELATION>
+
+<RELATION theme="123760_3" includes_docket_string="02-5470" includes_docket="123760_2" theme_string="TWYFORD v. OHIO" gram_type="apposition" relation_type="asymmetric" id="123760_10" ></RELATION>
+
+<RELATION theme="123760_3" party1="123760_4" party1_string="TWYFORD" theme_string="TWYFORD v. OHIO" gram_type="infix" relation_type="asymmetric" id="123760_8" ></RELATION>
+
+<RELATION party2="123760_5" theme="123760_3" theme_string="TWYFORD v. OHIO" party2_string="OHIO" gram_type="infix" relation_type="asymmetric" id="123760_9" ></RELATION>
+

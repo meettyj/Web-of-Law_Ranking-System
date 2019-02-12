@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['schroederdistrict#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_974" id1="124500" volume="537" start="0" page_number="974" standard_reporter="U.S." citation_global_level_id="3863.002" line="1" id="124500_1" citation_local_level_id="0" >537 U.S. 974</CITATION>
+
+<CITATION party2="HAMILTON SCHOOL DISTRICT ET AL" party1="SCHROEDER" citation_global_level_id="3863.001" party2_short="DISTRICT" line="1" id="124500_3" alternative_keys="['u.s._537_974']" end="60" entry_type="party_key" lookup_key="schroederdistrict#1" id1="124500" start="17" party1_short="SCHROEDER" citation_local_level_id="1" >SCHROEDER v. HAMILTON SCHOOL DISTRICT ET AL</CITATION>
+
+<NAME end="26" start="17" party1_of="124500_3" all_names="SCHROEDER" local_name_id="1" id="124500_4" >SCHROEDER</NAME>
+
+<NAME end="60" start="30" all_names="HAMILTON SCHOOL DISTRICT" party2_of="124500_3" local_name_id="2" id="124500_5" >HAMILTON SCHOOL DISTRICT ET AL</NAME>
+
+<DOCKET end="76" entry_type="docket" lookup_key="u.s._537_974" id1="124500" start="70" citation_global_level_id="3863.002" line="1" id="124500_2" citation_local_level_id="0" >02-254</DOCKET>
+
+<DATE start="118" end="134" id="124500_6" >October 21, 2002</DATE>
+
+<NAME start="265" local_name_id="3" end="268" id="124500_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="318" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_282_946" id1="Dummy_File_154346" volume="282" start="305" page_number="946" standard_reporter="F.3D" citation_global_level_id="218196.001" line="3" id="124500_12" citation_local_level_id="2" >282 F. 3d 946</CITATION>
+
+<RELATION theme="124500_1" includes_docket_string="02-254" includes_docket="124500_2" theme_string="537 U.S. 974" gram_type="apposition" relation_type="asymmetric" id="124500_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 974" X_vs_Y_string="SCHROEDER v. HAMILTON SCHOOL DISTRICT ET AL" standard_case="124500_1" X_vs_Y="124500_3" gram_type="pre_nom" relation_type="equivalence" id="124500_7" ></RELATION>
+
+<RELATION theme="124500_3" includes_docket_string="02-254" includes_docket="124500_2" theme_string="SCHROEDER v. HAMILTON SCHOOL DISTRICT ET AL" gram_type="apposition" relation_type="asymmetric" id="124500_10" ></RELATION>
+
+<RELATION theme="124500_3" party1="124500_4" party1_string="SCHROEDER" theme_string="SCHROEDER v. HAMILTON SCHOOL DISTRICT ET AL" gram_type="infix" relation_type="asymmetric" id="124500_8" ></RELATION>
+
+<RELATION party2="124500_5" theme="124500_3" theme_string="SCHROEDER v. HAMILTON SCHOOL DISTRICT ET AL" party2_string="HAMILTON SCHOOL DISTRICT ET AL" gram_type="infix" relation_type="asymmetric" id="124500_9" ></RELATION>
+

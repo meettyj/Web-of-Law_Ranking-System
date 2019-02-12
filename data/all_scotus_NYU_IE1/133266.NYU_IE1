@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['bondstates#4']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_962" id1="133270" volume="540" start="0" page_number="962" standard_reporter="U.S." citation_global_level_id="4708.002" line="1" id="133266_1" citation_local_level_id="0" >540 U.S. 962</CITATION>
+
+<CITATION party2="UNITED STATES" party1="BOND" citation_global_level_id="54068.001" party2_short="STATES" line="1" id="133266_3" alternative_keys="['u.s._540_962']" end="38" entry_type="party_key" lookup_key="bondstates#4" id1="218927" start="17" party1_short="BOND" citation_local_level_id="1" >BOND v. UNITED STATES</CITATION>
+
+<NAME end="21" start="17" party1_of="133266_3" all_names="BOND" local_name_id="1" id="133266_4" >BOND</NAME>
+
+<NAME end="38" start="25" all_names="UNITED STATES" party2_of="133266_3" local_name_id="2" id="133266_5" >UNITED STATES</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._540_962" id1="133270" start="48" citation_global_level_id="4708.002" line="1" id="133266_2" citation_local_level_id="0" >03-6235</DOCKET>
+
+<DATE start="97" end="113" id="133266_6" >October 14, 2003</DATE>
+
+<NAME start="191" local_name_id="3" end="201" id="133266_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="133266_1" includes_docket_string="03-6235" includes_docket="133266_2" theme_string="540 U.S. 962" gram_type="apposition" relation_type="asymmetric" id="133266_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 962" X_vs_Y_string="BOND v. UNITED STATES" standard_case="133266_1" X_vs_Y="133266_3" gram_type="pre_nom" relation_type="equivalence" id="133266_7" ></RELATION>
+
+<RELATION theme="133266_3" includes_docket_string="03-6235" includes_docket="133266_2" theme_string="BOND v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="133266_10" ></RELATION>
+
+<RELATION theme="133266_3" party1="133266_4" party1_string="BOND" theme_string="BOND v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="133266_8" ></RELATION>
+
+<RELATION party2="133266_5" theme="133266_3" theme_string="BOND v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="133266_9" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['lottstates#4']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_936" id1="128369" volume="538" start="0" page_number="936" standard_reporter="U.S." citation_global_level_id="5522.002" line="1" id="128360_1" citation_local_level_id="0" >538 U.S. 936</CITATION>
+
+<CITATION party2="UNITED STATES" party1="LOTT" citation_global_level_id="62492.001" party2_short="STATES" line="1" id="128360_3" alternative_keys="['u.s._538_936']" end="38" entry_type="party_key" lookup_key="lottstates#4" id1="106277" start="17" party1_short="LOTT" citation_local_level_id="1" >LOTT v. UNITED STATES</CITATION>
+
+<NAME end="21" start="17" party1_of="128360_3" all_names="LOTT" local_name_id="1" id="128360_4" >LOTT</NAME>
+
+<NAME end="38" start="25" all_names="UNITED STATES" party2_of="128360_3" local_name_id="2" id="128360_5" >UNITED STATES</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._538_936" id1="128369" start="48" citation_global_level_id="5522.002" line="1" id="128360_2" citation_local_level_id="0" >02-8948</DOCKET>
+
+<DATE start="97" end="111" id="128360_6" >March 24, 2003</DATE>
+
+<NAME start="241" local_name_id="3" end="244" id="128360_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="295" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_310_1231" id1="Dummy_File_140855" volume="310" start="281" page_number="1231" standard_reporter="F.3D" citation_global_level_id="204705.001" line="3" id="128360_12" citation_local_level_id="2" >310 F. 3d 1231</CITATION>
+
+<RELATION theme="128360_1" includes_docket_string="02-8948" includes_docket="128360_2" theme_string="538 U.S. 936" gram_type="apposition" relation_type="asymmetric" id="128360_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 936" X_vs_Y_string="LOTT v. UNITED STATES" standard_case="128360_1" X_vs_Y="128360_3" gram_type="pre_nom" relation_type="equivalence" id="128360_7" ></RELATION>
+
+<RELATION theme="128360_3" includes_docket_string="02-8948" includes_docket="128360_2" theme_string="LOTT v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="128360_10" ></RELATION>
+
+<RELATION theme="128360_3" party1="128360_4" party1_string="LOTT" theme_string="LOTT v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="128360_8" ></RELATION>
+
+<RELATION party2="128360_5" theme="128360_3" theme_string="LOTT v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="128360_9" ></RELATION>
+

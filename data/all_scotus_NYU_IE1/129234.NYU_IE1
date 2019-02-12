@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['veasleygeorgia#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1002" id1="129232" volume="538" start="0" page_number="1002" standard_reporter="U.S." citation_global_level_id="3880.002" line="1" id="129234_1" citation_local_level_id="0" >538 U.S. 1002</CITATION>
+
+<CITATION party2="GEORGIA" party1="VEASLEY" citation_global_level_id="29239.001" party2_short="GEORGIA" line="1" id="129234_3" alternative_keys="['u.s._538_1002']" end="36" entry_type="party_key" lookup_key="veasleygeorgia#1" id1="129234" start="18" party1_short="VEASLEY" citation_local_level_id="1" >VEASLEY v. GEORGIA</CITATION>
+
+<NAME end="25" start="18" party1_of="129234_3" all_names="VEASLEY" local_name_id="1" id="129234_4" >VEASLEY</NAME>
+
+<NAME end="36" start="29" all_names="GEORGIA" party2_of="129234_3" local_name_id="2" id="129234_5" >GEORGIA</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="u.s._538_1002" id1="129232" start="46" citation_global_level_id="3880.002" line="1" id="129234_2" citation_local_level_id="0" >02-9191</DOCKET>
+
+<DATE start="95" end="109" id="129234_6" >April 28, 2003</DATE>
+
+<NAME start="200" local_name_id="3" end="203" id="129234_14" all_names="SUP" >Sup</NAME>
+
+<CITATION end="259" reporter="Ga." entry_type="standard_key" no_current_file="True" lookup_key="ga._275_516" id1="Dummy_File_188657" volume="275" start="248" page_number="516" standard_reporter="GA." citation_global_level_id="252507.001" line="3" id="129234_12" citation_local_level_id="2" >275 Ga. 516</CITATION>
+
+<CITATION end="277" reporter="S. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="s.e.2d_570_298" id1="Dummy_File_188658" volume="570" start="261" page_number="298" standard_reporter="S.E.2D" citation_global_level_id="252508.001" line="3" id="129234_13" citation_local_level_id="3" >570 S. E. 2d 298</CITATION>
+
+<RELATION theme="129234_1" includes_docket_string="02-9191" includes_docket="129234_2" theme_string="538 U.S. 1002" gram_type="apposition" relation_type="asymmetric" id="129234_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1002" X_vs_Y_string="VEASLEY v. GEORGIA" standard_case="129234_1" X_vs_Y="129234_3" gram_type="pre_nom" relation_type="equivalence" id="129234_7" ></RELATION>
+
+<RELATION theme="129234_3" includes_docket_string="02-9191" includes_docket="129234_2" theme_string="VEASLEY v. GEORGIA" gram_type="apposition" relation_type="asymmetric" id="129234_10" ></RELATION>
+
+<RELATION theme="129234_3" party1="129234_4" party1_string="VEASLEY" theme_string="VEASLEY v. GEORGIA" gram_type="infix" relation_type="asymmetric" id="129234_8" ></RELATION>
+
+<RELATION party2="129234_5" theme="129234_3" theme_string="VEASLEY v. GEORGIA" party2_string="GEORGIA" gram_type="infix" relation_type="asymmetric" id="129234_9" ></RELATION>
+

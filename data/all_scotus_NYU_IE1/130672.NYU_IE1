@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['commissionsystem#3']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_943" id1="130671" volume="539" start="0" page_number="943" standard_reporter="U.S." citation_global_level_id="1346.002" line="1" id="130672_1" citation_local_level_id="0" >539 U.S. 943</CITATION>
+
+<CITATION party2="Lincoln Electric System et al" party1="Nebraska Public Service Commission" citation_global_level_id="1346.003" party2_short="System" line="1" id="130672_3" alternative_keys="['u.s._539_943']" end="84" entry_type="party_key" lookup_key="commissionsystem#3" id1="130671" start="17" party1_short="Commission" citation_local_level_id="1" >Nebraska Public Service Commission v. Lincoln Electric System et al</CITATION>
+
+<NAME end="51" start="17" party1_of="130672_3" all_names="NEBRASKA PUBLIC SERVICE COMMISSION" local_name_id="1" id="130672_4" >Nebraska Public Service Commission</NAME>
+
+<NAME end="84" start="55" all_names="LINCOLN ELECTRIC SYSTEM" party2_of="130672_3" local_name_id="2" id="130672_5" >Lincoln Electric System et al</NAME>
+
+<DOCKET end="101" entry_type="docket" lookup_key="u.s._539_943" id1="130671" start="94" citation_global_level_id="1346.002" line="1" id="130672_2" citation_local_level_id="0" >02-1599</DOCKET>
+
+<DATE start="143" end="156" id="130672_6" >June 23, 2003</DATE>
+
+<NAME start="233" local_name_id="3" end="243" id="130672_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="297" reporter="N. W. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.w.2d_655_363" id1="Dummy_File_46079" volume="655" start="281" page_number="363" standard_reporter="N.W.2D" citation_global_level_id="109929.001" line="3" id="130672_12" citation_local_level_id="2" >655 N. W. 2d 363</CITATION>
+
+<RELATION theme="130672_1" includes_docket_string="02-1599" includes_docket="130672_2" theme_string="539 U.S. 943" gram_type="apposition" relation_type="asymmetric" id="130672_11" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 943" X_vs_Y_string="Nebraska Public Service Commission v. Lincoln Electric System et al" standard_case="130672_1" X_vs_Y="130672_3" gram_type="pre_nom" relation_type="equivalence" id="130672_7" ></RELATION>
+
+<RELATION theme="130672_3" includes_docket_string="02-1599" includes_docket="130672_2" theme_string="Nebraska Public Service Commission v. Lincoln Electric System et al" gram_type="apposition" relation_type="asymmetric" id="130672_10" ></RELATION>
+
+<RELATION theme="130672_3" party1="130672_4" party1_string="Nebraska Public Service Commission" theme_string="Nebraska Public Service Commission v. Lincoln Electric System et al" gram_type="infix" relation_type="asymmetric" id="130672_8" ></RELATION>
+
+<RELATION party2="130672_5" theme="130672_3" theme_string="Nebraska Public Service Commission v. Lincoln Electric System et al" party2_string="Lincoln Electric System et al" gram_type="infix" relation_type="asymmetric" id="130672_9" ></RELATION>
+

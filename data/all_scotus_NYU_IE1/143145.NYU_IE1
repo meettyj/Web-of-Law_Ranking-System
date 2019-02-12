@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['agpaul#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_919" id1="143142" volume="544" start="0" page_number="919" standard_reporter="U.S." citation_global_level_id="1595.002" line="1" id="143145_1" citation_local_level_id="0" >544 U.S. 919</CITATION>
+
+<CITATION party2="PAUL" party1="BAYER AG ET AL." citation_global_level_id="3907.001" party2_short="PAUL" line="2" id="143145_2" alternative_keys="['u.s._544_919']" end="40" entry_type="party_key" lookup_key="agpaul#1" id1="143145" start="17" party1_short="AG" citation_local_level_id="1" >BAYER AG ET AL. v. PAUL</CITATION>
+
+<NAME end="32" start="17" party1_of="143145_2" all_names="BAYER AG" local_name_id="1" id="143145_3" >BAYER AG ET AL.</NAME>
+
+<NAME end="40" start="36" all_names="PAUL" party2_of="143145_2" local_name_id="2" id="143145_4" >PAUL</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="agpaul#1" id1="143145" start="50" citation_global_level_id="3907.001" line="3" id="143145_7" citation_local_level_id="1" >04-559</DOCKET>
+
+<ORGANIZATION start="62" end="92" id="143145_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="98" citation_global_level_id="3907.001" end="112" id="143145_9" citation_local_level_id="1" >March 21, 2005</DATE>
+
+<NAME start="145" local_name_id="3" end="148" id="143145_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="143145_2" party1="143145_3" party1_string="BAYER AG ET AL." theme_string="BAYER AG ET AL. v. PAUL" gram_type="infix" relation_type="asymmetric" id="143145_5" ></RELATION>
+
+<RELATION party2="143145_4" theme="143145_2" theme_string="BAYER AG ET AL. v. PAUL" party2_string="PAUL" gram_type="infix" relation_type="asymmetric" id="143145_6" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 919" X_vs_Y_string="BAYER AG ET AL. v. PAUL" standard_case="143145_1" X_vs_Y="143145_2" gram_type="multi_line" relation_type="equivalence" id="143145_10" ></RELATION>
+
+<RELATION at_date_string="March 21, 2005" theme="143145_2" at_date="143145_9" theme_string="BAYER AG ET AL. v. PAUL" gram_type="multi_line" relation_type="asymmetric" id="143145_12" ></RELATION>
+
+<RELATION theme="143145_2" includes_docket_string="04-559" includes_docket="143145_7" theme_string="BAYER AG ET AL. v. PAUL" gram_type="multi_line" relation_type="asymmetric" id="143145_11" ></RELATION>
+

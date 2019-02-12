@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['millbrookibp#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_884" id1="123321" volume="537" start="0" page_number="884" standard_reporter="U.S." citation_global_level_id="4340.002" line="1" id="123318_1" citation_local_level_id="0" >537 U.S. 884</CITATION>
+
+<CITATION party2="IBP, INC" party1="MILLBROOK" citation_global_level_id="29079.001" party2_short="IBP" line="1" id="123318_3" alternative_keys="['u.s._537_884']" end="38" entry_type="party_key" lookup_key="millbrookibp#1" id1="123318" start="17" party1_short="MILLBROOK" citation_local_level_id="1" >MILLBROOK v. IBP, INC</CITATION>
+
+<NAME end="26" start="17" party1_of="123318_3" all_names="MILLBROOK" local_name_id="1" id="123318_4" >MILLBROOK</NAME>
+
+<NAME end="38" start="30" all_names="IBP INC" party2_of="123318_3" local_name_id="2" id="123318_5" >IBP, INC</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="u.s._537_884" id1="123321" start="48" citation_global_level_id="4340.002" line="1" id="123318_2" citation_local_level_id="0" >02-120</DOCKET>
+
+<DATE start="96" end="111" id="123318_6" >October 7, 2002</DATE>
+
+<NAME start="242" local_name_id="3" end="245" id="123318_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="296" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_280_1169" id1="Dummy_File_203206" volume="280" start="282" page_number="1169" standard_reporter="F.3D" citation_global_level_id="267056.001" line="3" id="123318_12" citation_local_level_id="2" >280 F. 3d 1169</CITATION>
+
+<RELATION theme="123318_1" includes_docket_string="02-120" includes_docket="123318_2" theme_string="537 U.S. 884" gram_type="apposition" relation_type="asymmetric" id="123318_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 884" X_vs_Y_string="MILLBROOK v. IBP, INC" standard_case="123318_1" X_vs_Y="123318_3" gram_type="pre_nom" relation_type="equivalence" id="123318_7" ></RELATION>
+
+<RELATION theme="123318_3" includes_docket_string="02-120" includes_docket="123318_2" theme_string="MILLBROOK v. IBP, INC" gram_type="apposition" relation_type="asymmetric" id="123318_10" ></RELATION>
+
+<RELATION theme="123318_3" party1="123318_4" party1_string="MILLBROOK" theme_string="MILLBROOK v. IBP, INC" gram_type="infix" relation_type="asymmetric" id="123318_8" ></RELATION>
+
+<RELATION party2="123318_5" theme="123318_3" theme_string="MILLBROOK v. IBP, INC" party2_string="IBP, INC" gram_type="infix" relation_type="asymmetric" id="123318_9" ></RELATION>
+

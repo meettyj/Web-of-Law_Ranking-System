@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['maxwellmonsanto#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_860" id1="113655" volume="510" start="0" page_number="860" standard_reporter="U.S." citation_global_level_id="237.002" line="1" id="113657_1" citation_local_level_id="0" >510 U.S. 860</CITATION>
+
+<CITATION party2="Monsanto Co. et al" party1="Maxwell" citation_global_level_id="8099.001" party2_short="Monsanto" line="1" id="113657_3" alternative_keys="['u.s._510_860']" end="46" entry_type="party_key" lookup_key="maxwellmonsanto#1" id1="113657" start="17" party1_short="Maxwell" citation_local_level_id="1" >Maxwell v. Monsanto Co. et al</CITATION>
+
+<NAME end="24" start="17" party1_of="113657_3" all_names="MAXWELL" local_name_id="1" id="113657_4" >Maxwell</NAME>
+
+<NAME end="46" start="28" all_names="MONSANTO CO" party2_of="113657_3" local_name_id="2" id="113657_5" >Monsanto Co. et al</NAME>
+
+<DOCKET end="61" entry_type="docket" lookup_key="u.s._510_860" id1="113655" start="56" citation_global_level_id="237.002" line="1" id="113657_2" citation_local_level_id="0" >93-23</DOCKET>
+
+<DATE start="103" end="118" id="113657_6" >October 4, 1993</DATE>
+
+<NAME start="196" local_name_id="3" end="206" id="113657_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="245" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_986_1419" id1="Dummy_File_116807" volume="986" start="231" page_number="1419" standard_reporter="F.2D" citation_global_level_id="180657.001" line="3" id="113657_12" citation_local_level_id="2" >986 F. 2d 1419</CITATION>
+
+<RELATION theme="113657_1" includes_docket_string="93-23" includes_docket="113657_2" theme_string="510 U.S. 860" gram_type="apposition" relation_type="asymmetric" id="113657_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 860" X_vs_Y_string="Maxwell v. Monsanto Co. et al" standard_case="113657_1" X_vs_Y="113657_3" gram_type="pre_nom" relation_type="equivalence" id="113657_7" ></RELATION>
+
+<RELATION theme="113657_3" includes_docket_string="93-23" includes_docket="113657_2" theme_string="Maxwell v. Monsanto Co. et al" gram_type="apposition" relation_type="asymmetric" id="113657_10" ></RELATION>
+
+<RELATION theme="113657_3" party1="113657_4" party1_string="Maxwell" theme_string="Maxwell v. Monsanto Co. et al" gram_type="infix" relation_type="asymmetric" id="113657_8" ></RELATION>
+
+<RELATION party2="113657_5" theme="113657_3" theme_string="Maxwell v. Monsanto Co. et al" party2_string="Monsanto Co. et al" gram_type="infix" relation_type="asymmetric" id="113657_9" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['corporationhood#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_986" id1="131136" volume="539" start="0" page_number="986" standard_reporter="U.S." citation_global_level_id="2538.002" line="1" id="131131_1" citation_local_level_id="0" >539 U.S. 986</CITATION>
+
+<CITATION party2="Hood" party1="Tennessee Student Assistance Corporation" citation_global_level_id="33546.001" party2_short="Hood" line="1" id="131131_3" alternative_keys="['u.s._539_986']" end="65" entry_type="party_key" lookup_key="corporationhood#2" id1="134741" start="17" party1_short="Corporation" citation_local_level_id="1" >Tennessee Student Assistance Corporation v. Hood</CITATION>
+
+<NAME end="57" start="17" party1_of="131131_3" all_names="TENNESSEE STUDENT ASSISTANCE CORPORATION" local_name_id="1" id="131131_4" >Tennessee Student Assistance Corporation</NAME>
+
+<NAME end="65" start="61" all_names="HOOD" party2_of="131131_3" local_name_id="2" id="131131_5" >Hood</NAME>
+
+<DOCKET end="82" entry_type="docket" lookup_key="u.s._539_986" id1="131136" start="75" citation_global_level_id="2538.002" line="1" id="131131_2" citation_local_level_id="0" >02-1606</DOCKET>
+
+<DATE start="124" end="142" id="131131_6" >September 30, 2003</DATE>
+
+<NAME start="220" local_name_id="3" end="230" id="131131_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="269" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_319_755" id1="Dummy_File_109177" volume="319" start="256" page_number="755" standard_reporter="F.3D" citation_global_level_id="173027.001" line="3" id="131131_12" citation_local_level_id="2" >319 F. 3d 755</CITATION>
+
+<RELATION theme="131131_1" includes_docket_string="02-1606" includes_docket="131131_2" theme_string="539 U.S. 986" gram_type="apposition" relation_type="asymmetric" id="131131_11" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 986" X_vs_Y_string="Tennessee Student Assistance Corporation v. Hood" standard_case="131131_1" X_vs_Y="131131_3" gram_type="pre_nom" relation_type="equivalence" id="131131_7" ></RELATION>
+
+<RELATION theme="131131_3" includes_docket_string="02-1606" includes_docket="131131_2" theme_string="Tennessee Student Assistance Corporation v. Hood" gram_type="apposition" relation_type="asymmetric" id="131131_10" ></RELATION>
+
+<RELATION theme="131131_3" party1="131131_4" party1_string="Tennessee Student Assistance Corporation" theme_string="Tennessee Student Assistance Corporation v. Hood" gram_type="infix" relation_type="asymmetric" id="131131_8" ></RELATION>
+
+<RELATION party2="131131_5" theme="131131_3" theme_string="Tennessee Student Assistance Corporation v. Hood" party2_string="Hood" gram_type="infix" relation_type="asymmetric" id="131131_9" ></RELATION>
+

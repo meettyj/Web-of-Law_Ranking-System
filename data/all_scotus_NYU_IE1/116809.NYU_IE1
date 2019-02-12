@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['landrominnesota#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1114" id1="116801" volume="510" start="0" page_number="1114" standard_reporter="U.S." citation_global_level_id="25378.002" line="1" id="116809_1" citation_local_level_id="0" >510 U.S. 1114</CITATION>
+
+<CITATION party2="Minnesota" party1="Landro" citation_global_level_id="52341.001" party2_short="Minnesota" line="1" id="116809_3" alternative_keys="['u.s._510_1114']" end="37" entry_type="party_key" lookup_key="landrominnesota#1" id1="116809" start="18" party1_short="Landro" citation_local_level_id="1" >Landro v. Minnesota</CITATION>
+
+<NAME end="24" start="18" party1_of="116809_3" all_names="LANDRO" local_name_id="1" id="116809_4" >Landro</NAME>
+
+<NAME end="37" start="28" all_names="MINNESOTA" party2_of="116809_3" local_name_id="2" id="116809_5" >Minnesota</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="u.s._510_1114" id1="116801" start="47" citation_global_level_id="25378.002" line="1" id="116809_2" citation_local_level_id="0" >93-934</DOCKET>
+
+<DATE start="95" end="112" id="116809_6" >February 22, 1994</DATE>
+
+<NAME start="190" local_name_id="3" end="200" id="116809_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="241" reporter="N. W. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.w.2d_504_741" id1="Dummy_File_190013" volume="504" start="225" page_number="741" standard_reporter="N.W.2D" citation_global_level_id="253863.001" line="3" id="116809_12" citation_local_level_id="2" >504 N. W. 2d 741</CITATION>
+
+<RELATION theme="116809_1" includes_docket_string="93-934" includes_docket="116809_2" theme_string="510 U.S. 1114" gram_type="apposition" relation_type="asymmetric" id="116809_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1114" X_vs_Y_string="Landro v. Minnesota" standard_case="116809_1" X_vs_Y="116809_3" gram_type="pre_nom" relation_type="equivalence" id="116809_7" ></RELATION>
+
+<RELATION theme="116809_3" includes_docket_string="93-934" includes_docket="116809_2" theme_string="Landro v. Minnesota" gram_type="apposition" relation_type="asymmetric" id="116809_10" ></RELATION>
+
+<RELATION theme="116809_3" party1="116809_4" party1_string="Landro" theme_string="Landro v. Minnesota" gram_type="infix" relation_type="asymmetric" id="116809_8" ></RELATION>
+
+<RELATION party2="116809_5" theme="116809_3" theme_string="Landro v. Minnesota" party2_string="Minnesota" gram_type="infix" relation_type="asymmetric" id="116809_9" ></RELATION>
+

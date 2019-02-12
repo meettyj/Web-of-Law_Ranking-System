@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['aechazabal#3']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_925" id1="118662" volume="535" start="0" page_number="925" standard_reporter="U.S." citation_global_level_id="1176.002" line="1" id="118656_1" citation_local_level_id="0" >535 U.S. 925</CITATION>
+
+<CITATION party2="ECHAZABAL" party1="CHEVRON U. S. A. INC." citation_global_level_id="1176.003" party2_short="ECHAZABAL" line="2" id="118656_2" alternative_keys="['u.s._535_925']" end="51" entry_type="party_key" lookup_key="aechazabal#3" id1="118662" start="17" party1_short="A" citation_local_level_id="1" >CHEVRON U. S. A. INC. v. ECHAZABAL</CITATION>
+
+<NAME end="38" start="17" party1_of="118656_2" all_names="CHEVRON U S A INC" local_name_id="1" id="118656_3" >CHEVRON U. S. A. INC.</NAME>
+
+<ORGANIZATION start="17" end="37" id="118656_5" >CHEVRON U. S. A. INC</ORGANIZATION>
+
+<NAME end="51" start="42" all_names="ECHAZABAL" party2_of="118656_2" local_name_id="2" id="118656_4" >ECHAZABAL</NAME>
+
+<DOCKET alternative_keys="['u.s._535_925']" end="68" entry_type="docket" lookup_key="aechazabal#3" id1="118662" start="61" citation_global_level_id="1176.003" line="3" id="118656_8" citation_local_level_id="1" >00-1406</DOCKET>
+
+<DATE start="114" citation_global_level_id="1176.003" end="128" id="118656_9" citation_local_level_id="1" >March 18, 2002</DATE>
+
+<NAME start="160" local_name_id="3" end="163" id="118656_14" all_names="CIR" >Cir</NAME>
+
+<CITATION end="199" reporter="U. S." entry_type="standard_key" no_current_file="True" lookup_key="u.s._534_991" id1="Dummy_File_18867" volume="534" start="186" page_number="991" standard_reporter="U.S." citation_global_level_id="82717.001" line="8" id="118656_13" citation_local_level_id="2" >534 U. S. 991</CITATION>
+
+<RELATION theme="118656_2" party1="118656_3" party1_string="CHEVRON U. S. A. INC." theme_string="CHEVRON U. S. A. INC. v. ECHAZABAL" gram_type="infix" relation_type="asymmetric" id="118656_6" ></RELATION>
+
+<RELATION party2="118656_4" theme="118656_2" theme_string="CHEVRON U. S. A. INC. v. ECHAZABAL" party2_string="ECHAZABAL" gram_type="infix" relation_type="asymmetric" id="118656_7" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 925" X_vs_Y_string="CHEVRON U. S. A. INC. v. ECHAZABAL" standard_case="118656_1" X_vs_Y="118656_2" gram_type="multi_line" relation_type="equivalence" id="118656_10" ></RELATION>
+
+<RELATION at_date_string="March 18, 2002" theme="118656_2" at_date="118656_9" theme_string="CHEVRON U. S. A. INC. v. ECHAZABAL" gram_type="multi_line" relation_type="asymmetric" id="118656_12" ></RELATION>
+
+<RELATION theme="118656_2" includes_docket_string="00-1406" includes_docket="118656_8" theme_string="CHEVRON U. S. A. INC. v. ECHAZABAL" gram_type="multi_line" relation_type="asymmetric" id="118656_11" ></RELATION>
+

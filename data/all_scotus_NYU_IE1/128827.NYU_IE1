@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['perots#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_971" id1="128831" volume="538" start="0" page_number="971" standard_reporter="U.S." citation_global_level_id="9982.002" line="1" id="128827_1" citation_local_level_id="0" >538 U.S. 971</CITATION>
+
+<CITATION party2="McDONALD'S CORP. ET AL" party1="PEROT" citation_global_level_id="9982.003" party2_short="S" line="1" id="128827_3" alternative_keys="['u.s._538_971']" end="48" entry_type="party_key" lookup_key="perots#1" id1="128831" start="17" party1_short="PEROT" citation_local_level_id="1" >PEROT v. McDONALD'S CORP. ET AL</CITATION>
+
+<NAME end="22" start="17" party1_of="128827_3" all_names="PEROT" local_name_id="1" id="128827_4" >PEROT</NAME>
+
+<NAME end="48" start="26" all_names="MCDONALD'S CORP" party2_of="128827_3" local_name_id="2" id="128827_5" >McDONALD'S CORP. ET AL</NAME>
+
+<DOCKET end="65" entry_type="docket" lookup_key="u.s._538_971" id1="128831" start="58" citation_global_level_id="9982.002" line="1" id="128827_2" citation_local_level_id="0" >02-1143</DOCKET>
+
+<DATE start="107" end="120" id="128827_6" >April 7, 2003</DATE>
+
+<NAME start="249" local_name_id="3" end="252" id="128827_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="128827_1" includes_docket_string="02-1143" includes_docket="128827_2" theme_string="538 U.S. 971" gram_type="apposition" relation_type="asymmetric" id="128827_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 971" X_vs_Y_string="PEROT v. McDONALD'S CORP. ET AL" standard_case="128827_1" X_vs_Y="128827_3" gram_type="pre_nom" relation_type="equivalence" id="128827_7" ></RELATION>
+
+<RELATION theme="128827_3" includes_docket_string="02-1143" includes_docket="128827_2" theme_string="PEROT v. McDONALD'S CORP. ET AL" gram_type="apposition" relation_type="asymmetric" id="128827_10" ></RELATION>
+
+<RELATION theme="128827_3" party1="128827_4" party1_string="PEROT" theme_string="PEROT v. McDONALD'S CORP. ET AL" gram_type="infix" relation_type="asymmetric" id="128827_8" ></RELATION>
+
+<RELATION party2="128827_5" theme="128827_3" theme_string="PEROT v. McDONALD'S CORP. ET AL" party2_string="McDONALD'S CORP. ET AL" gram_type="infix" relation_type="asymmetric" id="128827_9" ></RELATION>
+

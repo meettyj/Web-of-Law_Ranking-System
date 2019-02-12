@@ -1,0 +1,50 @@
+<CITATION alternative_keys="['etcommunications#1', 'commissioncommunications#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._536_955" id1="121806" volume="536" start="0" page_number="955" standard_reporter="U.S." citation_global_level_id="1860.002" line="1" id="121808_1" citation_local_level_id="0" >536 U.S. 955</CITATION>
+
+<CITATION party2="NEXTWAVE PERSONAL COMMUNICATIONS INC" party1="FEDERAL COMMUNICATIONS COMMISSION" citation_global_level_id="1860.004" party2_short="COMMUNICATIONS" line="2" id="121808_2" alternative_keys="['etcommunications#1', 'u.s._536_955']" end="90" entry_type="party_key" lookup_key="commissioncommunications#1" id1="121806" start="17" party1_short="COMMISSION" citation_local_level_id="1" >FEDERAL COMMUNICATIONS COMMISSION v. NEXTWAVE PERSONAL COMMUNICATIONS INC</CITATION>
+
+<NAME end="50" start="17" party1_of="121808_2" all_names="FEDERAL COMMUNICATIONS COMMISSION" local_name_id="1" id="121808_4" >FEDERAL COMMUNICATIONS COMMISSION</NAME>
+
+<NAME end="90" start="54" all_names="NEXTWAVE PERSONAL COMMUNICATIONS INC" party2_of="121808_2" local_name_id="2" id="121808_5" >NEXTWAVE PERSONAL COMMUNICATIONS INC</NAME>
+
+<CITATION party2="NEXTWAVE PERSONAL COMMUNICATIONS INC. ET AL" party1="ET AL.; and ARCTIC SLOPE REGIONAL CORP. ET AL." citation_global_level_id="1860.003" party2_short="COMMUNICATIONS" line="2" id="121808_3" alternative_keys="['commissioncommunications#1', 'u.s._536_955']" end="185" entry_type="party_key" lookup_key="etcommunications#1" id1="121806" start="92" party1_short="ET" citation_local_level_id="2" >ET AL.; and ARCTIC SLOPE REGIONAL CORP. ET AL. v. NEXTWAVE PERSONAL COMMUNICATIONS INC. ET AL</CITATION>
+
+<NAME end="138" start="92" party1_of="121808_3" all_names="AL; AND ARCTIC SLOPE REGIONAL CORP" local_name_id="3" id="121808_6" >ET AL.; and ARCTIC SLOPE REGIONAL CORP. ET AL.</NAME>
+
+<NAME end="185" start="142" all_names="NEXTWAVE PERSONAL COMMUNICATIONS INC" party2_of="121808_3" local_name_id="2" id="121808_7" >NEXTWAVE PERSONAL COMMUNICATIONS INC. ET AL</NAME>
+
+<DOCKET alternative_keys="['etcommunications#1', 'u.s._536_955']" end="201" entry_type="docket" lookup_key="commissioncommunications#1" id1="121806" start="195" citation_global_level_id="1860.004" line="3" id="121808_12" citation_local_level_id="1" >01-653</DOCKET>
+
+<DOCKET alternative_keys="['etcommunications#1', 'u.s._536_955']" end="217" entry_type="docket" lookup_key="commissioncommunications#1" id1="121806" start="211" citation_global_level_id="1860.004" line="4" id="121808_13" citation_local_level_id="1" >01-657</DOCKET>
+
+<DATE start="263" end="276" id="121808_20" >June 28, 2002</DATE>
+
+<NAME start="298" local_name_id="4" end="313" id="121808_22" all_names="C A D C CIR" >C. A. D. C. Cir</NAME>
+
+<NAME start="316" local_name_id="5" end="326" id="121808_23" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="349" reporter="U. S." entry_type="standard_key" lookup_key="u.s._535_904" id1="118537" volume="535" start="336" page_number="904" standard_reporter="U.S." citation_global_level_id="3953.002" line="9" id="121808_21" citation_local_level_id="3" >535 U. S. 904</CITATION>
+
+<PROFESSION start="352" end="390" id="121808_24" >Motion of the Acting Solicitor General</PROFESSION>
+
+<ORGANIZATION start="421" end="480" id="121808_25" >Motion of Creditors of NextWave Personal Communications Inc</ORGANIZATION>
+
+<RELATION theme="121808_2" party1="121808_4" party1_string="FEDERAL COMMUNICATIONS COMMISSION" theme_string="FEDERAL COMMUNICATIONS COMMISSION v. NEXTWAVE PERSONAL COMMUNICATIONS INC" gram_type="infix" relation_type="asymmetric" id="121808_8" ></RELATION>
+
+<RELATION party2="121808_5" theme="121808_2" theme_string="FEDERAL COMMUNICATIONS COMMISSION v. NEXTWAVE PERSONAL COMMUNICATIONS INC" party2_string="NEXTWAVE PERSONAL COMMUNICATIONS INC" gram_type="infix" relation_type="asymmetric" id="121808_9" ></RELATION>
+
+<RELATION theme="121808_3" party1="121808_6" party1_string="ET AL.; and ARCTIC SLOPE REGIONAL CORP. ET AL." theme_string="ET AL.; and ARCTIC SLOPE REGIONAL CORP. ET AL. v. NEXTWAVE PERSONAL COMMUNICATIONS INC. ET AL" gram_type="infix" relation_type="asymmetric" id="121808_10" ></RELATION>
+
+<RELATION party2="121808_7" theme="121808_3" theme_string="ET AL.; and ARCTIC SLOPE REGIONAL CORP. ET AL. v. NEXTWAVE PERSONAL COMMUNICATIONS INC. ET AL" party2_string="NEXTWAVE PERSONAL COMMUNICATIONS INC. ET AL" gram_type="infix" relation_type="asymmetric" id="121808_11" ></RELATION>
+
+<RELATION standard_case_string="536 U.S. 955" X_vs_Y_string="ET AL.; and ARCTIC SLOPE REGIONAL CORP. ET AL. v. NEXTWAVE PERSONAL COMMUNICATIONS INC. ET AL" standard_case="121808_1" X_vs_Y="121808_3" gram_type="multi_line" relation_type="equivalence" id="121808_17" ></RELATION>
+
+<RELATION standard_case_string="536 U.S. 955" X_vs_Y_string="FEDERAL COMMUNICATIONS COMMISSION v. NEXTWAVE PERSONAL COMMUNICATIONS INC" standard_case="121808_1" X_vs_Y="121808_2" gram_type="multi_line" relation_type="equivalence" id="121808_14" ></RELATION>
+
+<RELATION theme="121808_2" includes_docket_string="01-657" includes_docket="121808_13" theme_string="FEDERAL COMMUNICATIONS COMMISSION v. NEXTWAVE PERSONAL COMMUNICATIONS INC" gram_type="multi_line" relation_type="asymmetric" id="121808_16" ></RELATION>
+
+<RELATION theme="121808_2" includes_docket_string="01-653" includes_docket="121808_12" theme_string="FEDERAL COMMUNICATIONS COMMISSION v. NEXTWAVE PERSONAL COMMUNICATIONS INC" gram_type="multi_line" relation_type="asymmetric" id="121808_15" ></RELATION>
+
+<RELATION theme="121808_3" includes_docket_string="01-657" includes_docket="121808_13" theme_string="ET AL.; and ARCTIC SLOPE REGIONAL CORP. ET AL. v. NEXTWAVE PERSONAL COMMUNICATIONS INC. ET AL" gram_type="multi_line" relation_type="asymmetric" id="121808_19" ></RELATION>
+
+<RELATION theme="121808_3" includes_docket_string="01-653" includes_docket="121808_12" theme_string="ET AL.; and ARCTIC SLOPE REGIONAL CORP. ET AL. v. NEXTWAVE PERSONAL COMMUNICATIONS INC. ET AL" gram_type="multi_line" relation_type="asymmetric" id="121808_18" ></RELATION>
+

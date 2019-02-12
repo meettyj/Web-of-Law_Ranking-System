@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['servicestates#10']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1050" id1="140933" volume="543" start="0" page_number="1050" standard_reporter="U.S." citation_global_level_id="35.002" line="1" id="140930_1" citation_local_level_id="0" >543 U.S. 1050</CITATION>
+
+<CITATION party2="UNITED STATES ET AL" party1="LIFESTAR AMBULANCE SERVICE, INC., ET AL." citation_global_level_id="35.008" party2_short="STATES" line="2" id="140930_2" alternative_keys="['u.s._543_1050']" end="81" entry_type="party_key" lookup_key="servicestates#10" id1="140933" start="18" party1_short="SERVICE" citation_local_level_id="1" >LIFESTAR AMBULANCE SERVICE, INC., ET AL. v. UNITED STATES ET AL</CITATION>
+
+<NAME end="58" start="18" party1_of="140930_2" all_names="LIFESTAR AMBULANCE SERVICE INC" local_name_id="1" id="140930_3" >LIFESTAR AMBULANCE SERVICE, INC., ET AL.</NAME>
+
+<ORGANIZATION start="18" end="49" id="140930_5" >LIFESTAR AMBULANCE SERVICE, INC</ORGANIZATION>
+
+<NAME end="81" start="62" all_names="UNITED STATES" party2_of="140930_2" local_name_id="2" id="140930_4" >UNITED STATES ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._543_1050']" end="97" entry_type="docket" lookup_key="servicestates#10" id1="140933" start="91" citation_global_level_id="35.008" line="3" id="140930_8" citation_local_level_id="1" >04-430</DOCKET>
+
+<ORGANIZATION start="103" end="133" id="140930_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="139" citation_global_level_id="35.008" end="155" id="140930_10" citation_local_level_id="1" >January 10, 2005</DATE>
+
+<NAME start="188" local_name_id="3" end="191" id="140930_15" all_names="CIR" >Cir</NAME>
+
+<CITATION end="242" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_365_1293" id1="Dummy_File_206251" volume="365" start="228" page_number="1293" standard_reporter="F.3D" citation_global_level_id="270101.001" line="8" id="140930_14" citation_local_level_id="2" >365 F. 3d 1293</CITATION>
+
+<RELATION theme="140930_2" party1="140930_3" party1_string="LIFESTAR AMBULANCE SERVICE, INC., ET AL." theme_string="LIFESTAR AMBULANCE SERVICE, INC., ET AL. v. UNITED STATES ET AL" gram_type="infix" relation_type="asymmetric" id="140930_6" ></RELATION>
+
+<RELATION party2="140930_4" theme="140930_2" theme_string="LIFESTAR AMBULANCE SERVICE, INC., ET AL. v. UNITED STATES ET AL" party2_string="UNITED STATES ET AL" gram_type="infix" relation_type="asymmetric" id="140930_7" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1050" X_vs_Y_string="LIFESTAR AMBULANCE SERVICE, INC., ET AL. v. UNITED STATES ET AL" standard_case="140930_1" X_vs_Y="140930_2" gram_type="multi_line" relation_type="equivalence" id="140930_11" ></RELATION>
+
+<RELATION at_date_string="January 10, 2005" theme="140930_2" at_date="140930_10" theme_string="LIFESTAR AMBULANCE SERVICE, INC., ET AL. v. UNITED STATES ET AL" gram_type="multi_line" relation_type="asymmetric" id="140930_13" ></RELATION>
+
+<RELATION theme="140930_2" includes_docket_string="04-430" includes_docket="140930_8" theme_string="LIFESTAR AMBULANCE SERVICE, INC., ET AL. v. UNITED STATES ET AL" gram_type="multi_line" relation_type="asymmetric" id="140930_12" ></RELATION>
+

@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['reeddees#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_935" id1="118781" volume="535" start="0" page_number="935" standard_reporter="U.S." citation_global_level_id="6569.002" line="1" id="118786_1" citation_local_level_id="0" >535 U.S. 935</CITATION>
+
+<CITATION party2="DEES, WARDEN, ET AL" party1="VAN REED" citation_global_level_id="6569.007" party2_short="DEES" line="2" id="118786_2" alternative_keys="['u.s._535_935']" end="48" entry_type="party_key" lookup_key="reeddees#1" id1="118781" start="17" party1_short="REED" citation_local_level_id="1" >VAN REED v. DEES, WARDEN, ET AL</CITATION>
+
+<NAME end="25" start="17" party1_of="118786_2" all_names="VAN REED" local_name_id="1" id="118786_3" >VAN REED</NAME>
+
+<NAME end="48" start="29" all_names="DEES WARDEN" party2_of="118786_2" local_name_id="2" id="118786_4" >DEES, WARDEN, ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._535_935']" end="65" entry_type="docket" lookup_key="reeddees#1" id1="118781" start="58" citation_global_level_id="6569.007" line="3" id="118786_7" citation_local_level_id="1" >01-7626</DOCKET>
+
+<DATE start="111" citation_global_level_id="6569.007" end="125" id="118786_8" citation_local_level_id="1" >March 18, 2002</DATE>
+
+<NAME start="158" local_name_id="3" end="161" id="118786_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="118786_2" party1="118786_3" party1_string="VAN REED" theme_string="VAN REED v. DEES, WARDEN, ET AL" gram_type="infix" relation_type="asymmetric" id="118786_5" ></RELATION>
+
+<RELATION party2="118786_4" theme="118786_2" theme_string="VAN REED v. DEES, WARDEN, ET AL" party2_string="DEES, WARDEN, ET AL" gram_type="infix" relation_type="asymmetric" id="118786_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 935" X_vs_Y_string="VAN REED v. DEES, WARDEN, ET AL" standard_case="118786_1" X_vs_Y="118786_2" gram_type="multi_line" relation_type="equivalence" id="118786_9" ></RELATION>
+
+<RELATION at_date_string="March 18, 2002" theme="118786_2" at_date="118786_8" theme_string="VAN REED v. DEES, WARDEN, ET AL" gram_type="multi_line" relation_type="asymmetric" id="118786_11" ></RELATION>
+
+<RELATION theme="118786_2" includes_docket_string="01-7626" includes_docket="118786_7" theme_string="VAN REED v. DEES, WARDEN, ET AL" gram_type="multi_line" relation_type="asymmetric" id="118786_10" ></RELATION>
+

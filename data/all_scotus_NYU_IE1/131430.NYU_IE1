@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['mayerwest#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_823" id1="131436" volume="540" start="0" page_number="823" standard_reporter="U.S." citation_global_level_id="4818.002" line="1" id="131430_1" citation_local_level_id="0" >540 U.S. 823</CITATION>
+
+<CITATION party2="NEXTEL WEST CORP., DBA NEXTEL COMMUNICATIONS" party1="MAYER" citation_global_level_id="4818.008" party2_short="WEST" line="1" id="131430_3" alternative_keys="['u.s._540_823']" end="70" entry_type="party_key" lookup_key="mayerwest#2" id1="131436" start="17" party1_short="MAYER" citation_local_level_id="1" >MAYER v. NEXTEL WEST CORP., DBA NEXTEL COMMUNICATIONS</CITATION>
+
+<NAME end="22" start="17" party1_of="131430_3" all_names="MAYER" local_name_id="1" id="131430_4" >MAYER</NAME>
+
+<NAME end="70" start="26" all_names="NEXTEL WEST CORP DBA NEXTEL COMMUNICATIONS" party2_of="131430_3" local_name_id="2" id="131430_5" >NEXTEL WEST CORP., DBA NEXTEL COMMUNICATIONS</NAME>
+
+<DOCKET end="87" entry_type="docket" lookup_key="u.s._540_823" id1="131436" start="80" citation_global_level_id="4818.002" line="1" id="131430_2" citation_local_level_id="0" >02-1817</DOCKET>
+
+<DATE start="83" end="87" id="131430_6" >1817</DATE>
+
+<DATE start="129" end="144" id="131430_7" >October 6, 2003</DATE>
+
+<NAME start="222" local_name_id="3" end="232" id="131430_15" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="270" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_318_803" id1="Dummy_File_149609" volume="318" start="257" page_number="803" standard_reporter="F.3D" citation_global_level_id="213459.001" line="3" id="131430_14" citation_local_level_id="2" >318 F. 3d 803</CITATION>
+
+<RELATION theme="131430_1" includes_docket_string="02-1817" includes_docket="131430_2" theme_string="540 U.S. 823" gram_type="apposition" relation_type="asymmetric" id="131430_12" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 823" X_vs_Y_string="MAYER v. NEXTEL WEST CORP., DBA NEXTEL COMMUNICATIONS" standard_case="131430_1" X_vs_Y="131430_3" gram_type="pre_nom" relation_type="equivalence" id="131430_8" ></RELATION>
+
+<RELATION theme="131430_3" includes_docket_string="02-1817" includes_docket="131430_2" theme_string="MAYER v. NEXTEL WEST CORP., DBA NEXTEL COMMUNICATIONS" gram_type="apposition" relation_type="asymmetric" id="131430_11" ></RELATION>
+
+<RELATION party2="131430_5" theme="131430_3" theme_string="MAYER v. NEXTEL WEST CORP., DBA NEXTEL COMMUNICATIONS" party2_string="NEXTEL WEST CORP., DBA NEXTEL COMMUNICATIONS" gram_type="infix" relation_type="asymmetric" id="131430_10" ></RELATION>
+
+<RELATION theme="131430_3" party1="131430_4" party1_string="MAYER" theme_string="MAYER v. NEXTEL WEST CORP., DBA NEXTEL COMMUNICATIONS" gram_type="infix" relation_type="asymmetric" id="131430_9" ></RELATION>
+
+<RELATION at_date_string="1817" theme="131430_2" at_date="131430_6" theme_string="02-1817" gram_type="infix" relation_type="asymmetric" id="131430_13" ></RELATION>
+

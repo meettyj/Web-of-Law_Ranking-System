@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['hagerstates#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_962" id1="124379" volume="537" start="0" page_number="962" standard_reporter="U.S." citation_global_level_id="5259.002" line="1" id="124383_1" citation_local_level_id="0" >537 U.S. 962</CITATION>
+
+<CITATION party2="UNITED STATES" party1="HAGER" citation_global_level_id="40258.001" party2_short="STATES" line="1" id="124383_3" alternative_keys="['u.s._537_962']" end="39" entry_type="party_key" lookup_key="hagerstates#2" id1="138341" start="17" party1_short="HAGER" citation_local_level_id="1" >HAGER v. UNITED STATES</CITATION>
+
+<NAME end="22" start="17" party1_of="124383_3" all_names="HAGER" local_name_id="1" id="124383_4" >HAGER</NAME>
+
+<NAME end="39" start="26" all_names="UNITED STATES" party2_of="124383_3" local_name_id="2" id="124383_5" >UNITED STATES</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._537_962" id1="124379" start="49" citation_global_level_id="5259.002" line="1" id="124383_2" citation_local_level_id="0" >02-6167</DOCKET>
+
+<DATE start="98" end="114" id="124383_6" >October 15, 2002</DATE>
+
+<NAME start="244" local_name_id="3" end="247" id="124383_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="297" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_288_136" id1="Dummy_File_193670" volume="288" start="284" page_number="136" standard_reporter="F.3D" citation_global_level_id="257520.001" line="3" id="124383_12" citation_local_level_id="2" >288 F. 3d 136</CITATION>
+
+<RELATION theme="124383_1" includes_docket_string="02-6167" includes_docket="124383_2" theme_string="537 U.S. 962" gram_type="apposition" relation_type="asymmetric" id="124383_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 962" X_vs_Y_string="HAGER v. UNITED STATES" standard_case="124383_1" X_vs_Y="124383_3" gram_type="pre_nom" relation_type="equivalence" id="124383_7" ></RELATION>
+
+<RELATION theme="124383_3" includes_docket_string="02-6167" includes_docket="124383_2" theme_string="HAGER v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="124383_10" ></RELATION>
+
+<RELATION theme="124383_3" party1="124383_4" party1_string="HAGER" theme_string="HAGER v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="124383_8" ></RELATION>
+
+<RELATION party2="124383_5" theme="124383_3" theme_string="HAGER v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="124383_9" ></RELATION>
+

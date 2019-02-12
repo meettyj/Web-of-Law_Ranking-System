@@ -1,0 +1,38 @@
+<CITATION alternative_keys="['pricerbutler#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_820" id1="131392" volume="540" start="0" page_number="820" standard_reporter="U.S." citation_global_level_id="6268.002" line="1" id="131396_1" citation_local_level_id="0" >540 U.S. 820</CITATION>
+
+<CITATION party2="BUTLER ET UX" party1="PRICER ET AL." citation_global_level_id="36017.001" party2_short="BUTLER" line="1" id="131396_3" alternative_keys="['u.s._540_820']" end="46" entry_type="party_key" lookup_key="pricerbutler#2" id1="131396" start="17" party1_short="PRICER" citation_local_level_id="1" >PRICER ET AL. v. BUTLER ET UX</CITATION>
+
+<NAME end="30" start="17" party1_of="131396_3" all_names="PRICER" local_name_id="1" id="131396_4" >PRICER ET AL.</NAME>
+
+<NAME start="17" local_name_id="1" end="29" id="131396_8" all_names="PRICER" >PRICER ET AL</NAME>
+
+<NAME end="46" start="34" all_names="BUTLER UX" party2_of="131396_3" local_name_id="2" id="131396_5" >BUTLER ET UX</NAME>
+
+<PROFESSION start="34" end="40" id="131396_9" >BUTLER</PROFESSION>
+
+<DOCKET end="63" entry_type="docket" lookup_key="u.s._540_820" id1="131392" start="56" citation_global_level_id="6268.002" line="1" id="131396_2" citation_local_level_id="0" >02-1760</DOCKET>
+
+<DATE start="59" end="63" id="131396_6" >1760</DATE>
+
+<ORGANIZATION start="69" end="99" id="131396_10" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="105" end="120" id="131396_7" >October 6, 2003</DATE>
+
+<NAME start="142" local_name_id="3" end="161" id="131396_11" all_names="APPEAL FROM THE SUP" >Appeal from the Sup</NAME>
+
+<NAME start="163" local_name_id="4" end="165" id="131396_12" all_names="CT" >Ct</NAME>
+
+<NAME start="196" local_name_id="5" end="206" id="131396_19" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="131396_1" includes_docket_string="02-1760" includes_docket="131396_2" theme_string="540 U.S. 820" gram_type="apposition" relation_type="asymmetric" id="131396_17" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 820" X_vs_Y_string="PRICER ET AL. v. BUTLER ET UX" standard_case="131396_1" X_vs_Y="131396_3" gram_type="pre_nom" relation_type="equivalence" id="131396_13" ></RELATION>
+
+<RELATION theme="131396_3" includes_docket_string="02-1760" includes_docket="131396_2" theme_string="PRICER ET AL. v. BUTLER ET UX" gram_type="apposition" relation_type="asymmetric" id="131396_16" ></RELATION>
+
+<RELATION theme="131396_3" party1="131396_4" party1_string="PRICER ET AL." theme_string="PRICER ET AL. v. BUTLER ET UX" gram_type="infix" relation_type="asymmetric" id="131396_14" ></RELATION>
+
+<RELATION party2="131396_5" theme="131396_3" theme_string="PRICER ET AL. v. BUTLER ET UX" party2_string="BUTLER ET UX" gram_type="infix" relation_type="asymmetric" id="131396_15" ></RELATION>
+
+<RELATION at_date_string="1760" theme="131396_2" at_date="131396_6" theme_string="02-1760" gram_type="infix" relation_type="asymmetric" id="131396_18" ></RELATION>
+

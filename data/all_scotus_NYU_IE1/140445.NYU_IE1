@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['purandajohnson#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1010" id1="140442" volume="543" start="0" page_number="1010" standard_reporter="U.S." citation_global_level_id="2775.002" line="1" id="140445_1" citation_local_level_id="0" >543 U.S. 1010</CITATION>
+
+<CITATION party2="JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" party1="PURANDA" citation_global_level_id="2775.012" party2_short="JOHNSON" line="2" id="140445_3" alternative_keys="['u.s._543_1010']" end="82" entry_type="party_key" lookup_key="purandajohnson#1" id1="140442" start="18" party1_short="PURANDA" citation_local_level_id="1" >PURANDA v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS</CITATION>
+
+<NAME end="25" start="18" party1_of="140445_3" all_names="PURANDA" local_name_id="1" id="140445_4" >PURANDA</NAME>
+
+<NAME end="82" start="29" all_names="JOHNSON DIRECTOR VIRGINIA DEPARTMENT OF CORRECTIONS" party2_of="140445_3" local_name_id="2" id="140445_5" >JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS</NAME>
+
+<DOCKET alternative_keys="['u.s._543_1010']" end="99" entry_type="docket" lookup_key="purandajohnson#1" id1="140442" start="92" citation_global_level_id="2775.012" line="2" id="140445_2" citation_local_level_id="1" >04-6725</DOCKET>
+
+<ORGANIZATION start="105" end="135" id="140445_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="141" citation_global_level_id="2775.012" end="158" id="140445_10" citation_local_level_id="1" >November 29, 2004</DATE>
+
+<NAME start="190" local_name_id="3" end="193" id="140445_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="140445_3" includes_docket_string="04-6725" includes_docket="140445_2" theme_string="PURANDA v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" gram_type="apposition" relation_type="asymmetric" id="140445_8" ></RELATION>
+
+<RELATION theme="140445_3" party1="140445_4" party1_string="PURANDA" theme_string="PURANDA v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" gram_type="infix" relation_type="asymmetric" id="140445_6" ></RELATION>
+
+<RELATION party2="140445_5" theme="140445_3" theme_string="PURANDA v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" party2_string="JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" gram_type="infix" relation_type="asymmetric" id="140445_7" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1010" X_vs_Y_string="PURANDA v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" standard_case="140445_1" X_vs_Y="140445_3" gram_type="multi_line" relation_type="equivalence" id="140445_11" ></RELATION>
+
+<RELATION at_date_string="November 29, 2004" theme="140445_3" at_date="140445_10" theme_string="PURANDA v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" gram_type="multi_line" relation_type="asymmetric" id="140445_12" ></RELATION>
+

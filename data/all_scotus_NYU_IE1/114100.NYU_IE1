@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['carrollgross#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_893" id1="114101" volume="510" start="0" page_number="893" standard_reporter="U.S." citation_global_level_id="3783.002" line="1" id="114100_1" citation_local_level_id="0" >510 U.S. 893</CITATION>
+
+<CITATION party2="Gross et al" party1="Carroll" citation_global_level_id="53795.001" party2_short="Gross" line="1" id="114100_3" alternative_keys="['u.s._510_893']" end="39" entry_type="party_key" lookup_key="carrollgross#1" id1="114100" start="17" party1_short="Carroll" citation_local_level_id="1" >Carroll v. Gross et al</CITATION>
+
+<NAME end="24" start="17" party1_of="114100_3" all_names="CARROLL" local_name_id="1" id="114100_4" >Carroll</NAME>
+
+<NAME end="39" start="28" all_names="GROSS" party2_of="114100_3" local_name_id="2" id="114100_5" >Gross et al</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._510_893" id1="114101" start="49" citation_global_level_id="3783.002" line="1" id="114100_2" citation_local_level_id="0" >93-5424</DOCKET>
+
+<DATE start="98" end="113" id="114100_6" >October 4, 1993</DATE>
+
+<NAME start="192" local_name_id="3" end="202" id="114100_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="240" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_984_392" id1="Dummy_File_82372" volume="984" start="227" page_number="392" standard_reporter="F.2D" citation_global_level_id="146222.001" line="3" id="114100_12" citation_local_level_id="2" >984 F. 2d 392</CITATION>
+
+<RELATION theme="114100_1" includes_docket_string="93-5424" includes_docket="114100_2" theme_string="510 U.S. 893" gram_type="apposition" relation_type="asymmetric" id="114100_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 893" X_vs_Y_string="Carroll v. Gross et al" standard_case="114100_1" X_vs_Y="114100_3" gram_type="pre_nom" relation_type="equivalence" id="114100_7" ></RELATION>
+
+<RELATION theme="114100_3" includes_docket_string="93-5424" includes_docket="114100_2" theme_string="Carroll v. Gross et al" gram_type="apposition" relation_type="asymmetric" id="114100_10" ></RELATION>
+
+<RELATION theme="114100_3" party1="114100_4" party1_string="Carroll" theme_string="Carroll v. Gross et al" gram_type="infix" relation_type="asymmetric" id="114100_8" ></RELATION>
+
+<RELATION party2="114100_5" theme="114100_3" theme_string="Carroll v. Gross et al" party2_string="Gross et al" gram_type="infix" relation_type="asymmetric" id="114100_9" ></RELATION>
+

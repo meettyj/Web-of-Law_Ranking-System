@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['bowlermaine#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1057" id1="120306" volume="535" start="0" page_number="1057" standard_reporter="U.S." citation_global_level_id="3194.002" line="1" id="120308_1" citation_local_level_id="0" >535 U.S. 1057</CITATION>
+
+<CITATION party2="MAINE ET AL" party1="BOWLER" citation_global_level_id="39166.001" party2_short="MAINE" line="2" id="120308_2" alternative_keys="['u.s._535_1057']" end="39" entry_type="party_key" lookup_key="bowlermaine#1" id1="120308" start="18" party1_short="BOWLER" citation_local_level_id="1" >BOWLER v. MAINE ET AL</CITATION>
+
+<NAME end="24" start="18" party1_of="120308_2" all_names="BOWLER" local_name_id="1" id="120308_3" >BOWLER</NAME>
+
+<NAME end="39" start="28" all_names="MAINE" party2_of="120308_2" local_name_id="2" id="120308_4" >MAINE ET AL</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="bowlermaine#1" id1="120308" start="49" citation_global_level_id="39166.001" line="3" id="120308_7" citation_local_level_id="1" >01-1419</DOCKET>
+
+<DATE start="102" citation_global_level_id="39166.001" end="114" id="120308_8" citation_local_level_id="1" >May 13, 2002</DATE>
+
+<NAME start="136" local_name_id="3" end="149" id="120308_12" all_names="C A 1ST CIR" >C. A. 1st Cir</NAME>
+
+<NAME start="151" local_name_id="4" end="161" id="120308_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="120308_2" party1="120308_3" party1_string="BOWLER" theme_string="BOWLER v. MAINE ET AL" gram_type="infix" relation_type="asymmetric" id="120308_5" ></RELATION>
+
+<RELATION party2="120308_4" theme="120308_2" theme_string="BOWLER v. MAINE ET AL" party2_string="MAINE ET AL" gram_type="infix" relation_type="asymmetric" id="120308_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1057" X_vs_Y_string="BOWLER v. MAINE ET AL" standard_case="120308_1" X_vs_Y="120308_2" gram_type="multi_line" relation_type="equivalence" id="120308_9" ></RELATION>
+
+<RELATION at_date_string="May 13, 2002" theme="120308_2" at_date="120308_8" theme_string="BOWLER v. MAINE ET AL" gram_type="multi_line" relation_type="asymmetric" id="120308_11" ></RELATION>
+
+<RELATION theme="120308_2" includes_docket_string="01-1419" includes_docket="120308_7" theme_string="BOWLER v. MAINE ET AL" gram_type="multi_line" relation_type="asymmetric" id="120308_10" ></RELATION>
+

@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['milessondergard#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_814" id1="113041" volume="510" start="0" page_number="814" standard_reporter="U.S." citation_global_level_id="15485.002" line="1" id="113046_1" citation_local_level_id="0" >510 U.S. 814</CITATION>
+
+<CITATION party2="Sondergard" party1="Miles, Inc." citation_global_level_id="26560.001" party2_short="Sondergard" line="1" id="113046_3" alternative_keys="['u.s._510_814']" end="42" entry_type="party_key" lookup_key="milessondergard#1" id1="113046" start="17" party1_short="Miles" citation_local_level_id="1" >Miles, Inc. v. Sondergard</CITATION>
+
+<NAME end="28" start="17" party1_of="113046_3" all_names="MILES INC" local_name_id="1" id="113046_4" >Miles, Inc.</NAME>
+
+<ORGANIZATION start="17" end="27" id="113046_8" >Miles, Inc</ORGANIZATION>
+
+<NAME end="42" start="32" all_names="SONDERGARD" party2_of="113046_3" local_name_id="2" id="113046_5" >Sondergard</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="u.s._510_814" id1="113041" start="52" citation_global_level_id="15485.002" line="1" id="113046_2" citation_local_level_id="0" >92-1817</DOCKET>
+
+<DATE start="55" end="59" id="113046_6" >1817</DATE>
+
+<DATE start="101" end="116" id="113046_7" >October 4, 1993</DATE>
+
+<NAME start="194" local_name_id="3" end="204" id="113046_16" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="243" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_985_1389" id1="Dummy_File_212248" volume="985" start="229" page_number="1389" standard_reporter="F.2D" citation_global_level_id="276098.001" line="3" id="113046_15" citation_local_level_id="2" >985 F. 2d 1389</CITATION>
+
+<RELATION theme="113046_1" includes_docket_string="92-1817" includes_docket="113046_2" theme_string="510 U.S. 814" gram_type="apposition" relation_type="asymmetric" id="113046_13" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 814" X_vs_Y_string="Miles, Inc. v. Sondergard" standard_case="113046_1" X_vs_Y="113046_3" gram_type="pre_nom" relation_type="equivalence" id="113046_9" ></RELATION>
+
+<RELATION theme="113046_3" includes_docket_string="92-1817" includes_docket="113046_2" theme_string="Miles, Inc. v. Sondergard" gram_type="apposition" relation_type="asymmetric" id="113046_12" ></RELATION>
+
+<RELATION theme="113046_3" party1="113046_4" party1_string="Miles, Inc." theme_string="Miles, Inc. v. Sondergard" gram_type="infix" relation_type="asymmetric" id="113046_10" ></RELATION>
+
+<RELATION party2="113046_5" theme="113046_3" theme_string="Miles, Inc. v. Sondergard" party2_string="Sondergard" gram_type="infix" relation_type="asymmetric" id="113046_11" ></RELATION>
+
+<RELATION at_date_string="1817" theme="113046_2" at_date="113046_6" theme_string="92-1817" gram_type="infix" relation_type="asymmetric" id="113046_14" ></RELATION>
+

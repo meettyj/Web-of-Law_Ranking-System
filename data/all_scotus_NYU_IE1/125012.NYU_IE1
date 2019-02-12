@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['machulasovercamp#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1019" id1="125014" volume="537" start="0" page_number="1019" standard_reporter="U.S." citation_global_level_id="1714.002" line="1" id="125012_1" citation_local_level_id="0" >537 U.S. 1019</CITATION>
+
+<CITATION party2="OVERCAMP" party1="MACHULAS" citation_global_level_id="25093.001" party2_short="OVERCAMP" line="1" id="125012_3" alternative_keys="['u.s._537_1019']" end="38" entry_type="party_key" lookup_key="machulasovercamp#1" id1="125012" start="18" party1_short="MACHULAS" citation_local_level_id="1" >MACHULAS v. OVERCAMP</CITATION>
+
+<NAME end="26" start="18" party1_of="125012_3" all_names="MACHULAS" local_name_id="1" id="125012_4" >MACHULAS</NAME>
+
+<NAME end="38" start="30" all_names="OVERCAMP" party2_of="125012_3" local_name_id="2" id="125012_5" >OVERCAMP</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="u.s._537_1019" id1="125014" start="48" citation_global_level_id="1714.002" line="1" id="125012_2" citation_local_level_id="0" >02-382</DOCKET>
+
+<DATE start="96" end="113" id="125012_6" >November 12, 2002</DATE>
+
+<NAME start="205" local_name_id="3" end="208" id="125012_13" all_names="SUP" >Sup</NAME>
+
+<CITATION end="267" reporter="A. 2d" entry_type="standard_key" no_current_file="True" lookup_key="a.2d_790_476" id1="Dummy_File_218291" volume="790" start="254" page_number="476" standard_reporter="A.2D" citation_global_level_id="282141.001" line="3" id="125012_12" citation_local_level_id="2" >790 A. 2d 476</CITATION>
+
+<RELATION theme="125012_1" includes_docket_string="02-382" includes_docket="125012_2" theme_string="537 U.S. 1019" gram_type="apposition" relation_type="asymmetric" id="125012_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1019" X_vs_Y_string="MACHULAS v. OVERCAMP" standard_case="125012_1" X_vs_Y="125012_3" gram_type="pre_nom" relation_type="equivalence" id="125012_7" ></RELATION>
+
+<RELATION theme="125012_3" includes_docket_string="02-382" includes_docket="125012_2" theme_string="MACHULAS v. OVERCAMP" gram_type="apposition" relation_type="asymmetric" id="125012_10" ></RELATION>
+
+<RELATION theme="125012_3" party1="125012_4" party1_string="MACHULAS" theme_string="MACHULAS v. OVERCAMP" gram_type="infix" relation_type="asymmetric" id="125012_8" ></RELATION>
+
+<RELATION party2="125012_5" theme="125012_3" theme_string="MACHULAS v. OVERCAMP" party2_string="OVERCAMP" gram_type="infix" relation_type="asymmetric" id="125012_9" ></RELATION>
+

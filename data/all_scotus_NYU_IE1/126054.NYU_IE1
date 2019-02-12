@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['palacecosta#4']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1099" id1="126053" volume="537" start="0" page_number="1099" standard_reporter="U.S." citation_global_level_id="17765.002" line="1" id="126054_1" citation_local_level_id="0" >537 U.S. 1099</CITATION>
+
+<CITATION party2="COSTA" party1="DESERT PALACE, INC., DBA CAESARS PALACE HOTEL &amp; CASINO" citation_global_level_id="17765.006" party2_short="COSTA" line="1" id="126054_3" alternative_keys="['u.s._537_1099']" end="81" entry_type="party_key" lookup_key="palacecosta#4" id1="126053" start="18" party1_short="PALACE" citation_local_level_id="1" >DESERT PALACE, INC., DBA CAESARS PALACE HOTEL &amp; CASINO v. COSTA</CITATION>
+
+<NAME end="72" start="18" party1_of="126054_3" all_names="DESERT PALACE INC DBA CAESARS PALACE HOTEL &amp; CASINO" local_name_id="1" id="126054_4" >DESERT PALACE, INC., DBA CAESARS PALACE HOTEL &amp; CASINO</NAME>
+
+<ORGANIZATION start="18" end="36" id="126054_7" >DESERT PALACE, INC</ORGANIZATION>
+
+<NAME end="81" start="76" all_names="COSTA" party2_of="126054_3" local_name_id="2" id="126054_5" >COSTA</NAME>
+
+<DOCKET end="97" entry_type="docket" lookup_key="u.s._537_1099" id1="126053" start="91" citation_global_level_id="17765.002" line="1" id="126054_2" citation_local_level_id="0" >02-679</DOCKET>
+
+<DATE start="139" end="155" id="126054_6" >January 10, 2003</DATE>
+
+<NAME start="284" local_name_id="3" end="287" id="126054_14" all_names="CIR" >Cir</NAME>
+
+<CITATION end="337" reporter="F.3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_299_838" id1="Dummy_File_106457" volume="299" start="325" page_number="838" standard_reporter="F.3D" citation_global_level_id="170307.001" line="3" id="126054_13" citation_local_level_id="2" >299 F.3d 838</CITATION>
+
+<RELATION theme="126054_1" includes_docket_string="02-679" includes_docket="126054_2" theme_string="537 U.S. 1099" gram_type="apposition" relation_type="asymmetric" id="126054_12" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1099" X_vs_Y_string="DESERT PALACE, INC., DBA CAESARS PALACE HOTEL &amp; CASINO v. COSTA" standard_case="126054_1" X_vs_Y="126054_3" gram_type="pre_nom" relation_type="equivalence" id="126054_8" ></RELATION>
+
+<RELATION theme="126054_3" includes_docket_string="02-679" includes_docket="126054_2" theme_string="DESERT PALACE, INC., DBA CAESARS PALACE HOTEL &amp; CASINO v. COSTA" gram_type="apposition" relation_type="asymmetric" id="126054_11" ></RELATION>
+
+<RELATION party2="126054_5" theme="126054_3" theme_string="DESERT PALACE, INC., DBA CAESARS PALACE HOTEL &amp; CASINO v. COSTA" party2_string="COSTA" gram_type="infix" relation_type="asymmetric" id="126054_10" ></RELATION>
+
+<RELATION theme="126054_3" party1="126054_4" party1_string="DESERT PALACE, INC., DBA CAESARS PALACE HOTEL &amp; CASINO" theme_string="DESERT PALACE, INC., DBA CAESARS PALACE HOTEL &amp; CASINO v. COSTA" gram_type="infix" relation_type="asymmetric" id="126054_9" ></RELATION>
+

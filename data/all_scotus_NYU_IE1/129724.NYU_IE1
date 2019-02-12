@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['scanlondouglas#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1040" id1="129724" volume="538" start="0" page_number="1040" standard_reporter="U.S." citation_global_level_id="3964.002" line="1" id="129724_1" citation_local_level_id="0" >538 U.S. 1040</CITATION>
+
+<CITATION party2="DOUGLAS" party1="SCANLON" citation_global_level_id="3964.001" party2_short="DOUGLAS" line="1" id="129724_3" alternative_keys="['u.s._538_1040']" end="36" entry_type="party_key" lookup_key="scanlondouglas#1" id1="129724" start="18" party1_short="SCANLON" citation_local_level_id="1" >SCANLON v. DOUGLAS</CITATION>
+
+<NAME end="25" start="18" party1_of="129724_3" all_names="SCANLON" local_name_id="1" id="129724_4" >SCANLON</NAME>
+
+<NAME end="36" start="29" all_names="DOUGLAS" party2_of="129724_3" local_name_id="2" id="129724_5" >DOUGLAS</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="u.s._538_1040" id1="129724" start="46" citation_global_level_id="3964.002" line="1" id="129724_2" citation_local_level_id="0" >02-9636</DOCKET>
+
+<DATE start="95" end="107" id="129724_6" >May 19, 2003</DATE>
+
+<NAME start="237" local_name_id="3" end="240" id="129724_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="129724_1" includes_docket_string="02-9636" includes_docket="129724_2" theme_string="538 U.S. 1040" gram_type="apposition" relation_type="asymmetric" id="129724_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1040" X_vs_Y_string="SCANLON v. DOUGLAS" standard_case="129724_1" X_vs_Y="129724_3" gram_type="pre_nom" relation_type="equivalence" id="129724_7" ></RELATION>
+
+<RELATION theme="129724_3" includes_docket_string="02-9636" includes_docket="129724_2" theme_string="SCANLON v. DOUGLAS" gram_type="apposition" relation_type="asymmetric" id="129724_10" ></RELATION>
+
+<RELATION theme="129724_3" party1="129724_4" party1_string="SCANLON" theme_string="SCANLON v. DOUGLAS" gram_type="infix" relation_type="asymmetric" id="129724_8" ></RELATION>
+
+<RELATION party2="129724_5" theme="129724_3" theme_string="SCANLON v. DOUGLAS" party2_string="DOUGLAS" gram_type="infix" relation_type="asymmetric" id="129724_9" ></RELATION>
+

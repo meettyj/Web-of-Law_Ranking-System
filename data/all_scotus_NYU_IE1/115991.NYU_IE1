@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['californialucero#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1045" id1="115991" volume="510" start="0" page_number="1045" standard_reporter="U.S." citation_global_level_id="648.002" line="1" id="115991_1" citation_local_level_id="0" >510 U.S. 1045</CITATION>
+
+<CITATION party2="Abogado Lucero et al" party1="California" citation_global_level_id="648.001" party2_short="Lucero" line="1" id="115991_3" alternative_keys="['u.s._510_1045']" end="52" entry_type="party_key" lookup_key="californialucero#1" id1="115991" start="18" party1_short="California" citation_local_level_id="1" >California v. Abogado Lucero et al</CITATION>
+
+<NAME end="28" start="18" party1_of="115991_3" all_names="CALIFORNIA" local_name_id="1" id="115991_4" >California</NAME>
+
+<NAME end="52" start="32" all_names="ABOGADO LUCERO" party2_of="115991_3" local_name_id="2" id="115991_5" >Abogado Lucero et al</NAME>
+
+<DOCKET end="68" entry_type="docket" lookup_key="u.s._510_1045" id1="115991" start="62" citation_global_level_id="648.002" line="1" id="115991_2" citation_local_level_id="0" >93-727</DOCKET>
+
+<DATE start="110" end="126" id="115991_6" >January 10, 1994</DATE>
+
+<NAME start="218" local_name_id="3" end="228" id="115991_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="115991_1" includes_docket_string="93-727" includes_docket="115991_2" theme_string="510 U.S. 1045" gram_type="apposition" relation_type="asymmetric" id="115991_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1045" X_vs_Y_string="California v. Abogado Lucero et al" standard_case="115991_1" X_vs_Y="115991_3" gram_type="pre_nom" relation_type="equivalence" id="115991_7" ></RELATION>
+
+<RELATION theme="115991_3" includes_docket_string="93-727" includes_docket="115991_2" theme_string="California v. Abogado Lucero et al" gram_type="apposition" relation_type="asymmetric" id="115991_10" ></RELATION>
+
+<RELATION theme="115991_3" party1="115991_4" party1_string="California" theme_string="California v. Abogado Lucero et al" gram_type="infix" relation_type="asymmetric" id="115991_8" ></RELATION>
+
+<RELATION party2="115991_5" theme="115991_3" theme_string="California v. Abogado Lucero et al" party2_string="Abogado Lucero et al" gram_type="infix" relation_type="asymmetric" id="115991_9" ></RELATION>
+

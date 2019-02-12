@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['wardenhouse#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_937" id1="130619" volume="539" start="0" page_number="937" standard_reporter="U.S." citation_global_level_id="1806.002" line="1" id="130613_1" citation_local_level_id="0" >539 U.S. 937</CITATION>
+
+<CITATION party2="House" party1="Bell, Warden" citation_global_level_id="23009.001" party2_short="House" line="1" id="130613_3" alternative_keys="['u.s._539_937']" end="38" entry_type="party_key" lookup_key="wardenhouse#1" id1="130613" start="17" party1_short="Warden" citation_local_level_id="1" >Bell, Warden v. House</CITATION>
+
+<NAME end="29" start="17" party1_of="130613_3" all_names="BELL WARDEN" local_name_id="1" id="130613_4" >Bell, Warden</NAME>
+
+<NAME start="17" local_name_id="2" end="21" id="130613_7" all_names="BELL" >Bell</NAME>
+
+<PROFESSION start="23" end="29" id="130613_8" >Warden</PROFESSION>
+
+<NAME end="38" start="33" all_names="HOUSE" party2_of="130613_3" local_name_id="3" id="130613_5" >House</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._539_937" id1="130619" start="48" citation_global_level_id="1806.002" line="1" id="130613_2" citation_local_level_id="0" >02-1425</DOCKET>
+
+<DATE start="97" end="110" id="130613_6" >June 16, 2003</DATE>
+
+<LEGAL_ROLE start="188" end="208" id="130613_15" >Motion of respondent</LEGAL_ROLE>
+
+<NAME start="257" local_name_id="4" end="267" id="130613_16" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION alternative_keys="['housebell#1']" end="305" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_311_767" id1="145648" volume="311" start="292" page_number="767" standard_reporter="F.3D" citation_global_level_id="34140.002" line="3" id="130613_14" citation_local_level_id="2" >311 F. 3d 767</CITATION>
+
+<RELATION theme="130613_1" includes_docket_string="02-1425" includes_docket="130613_2" theme_string="539 U.S. 937" gram_type="apposition" relation_type="asymmetric" id="130613_13" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 937" X_vs_Y_string="Bell, Warden v. House" standard_case="130613_1" X_vs_Y="130613_3" gram_type="pre_nom" relation_type="equivalence" id="130613_9" ></RELATION>
+
+<RELATION theme="130613_3" includes_docket_string="02-1425" includes_docket="130613_2" theme_string="Bell, Warden v. House" gram_type="apposition" relation_type="asymmetric" id="130613_12" ></RELATION>
+
+<RELATION theme="130613_3" party1="130613_4" party1_string="Bell, Warden" theme_string="Bell, Warden v. House" gram_type="infix" relation_type="asymmetric" id="130613_10" ></RELATION>
+
+<RELATION party2="130613_5" theme="130613_3" theme_string="Bell, Warden v. House" party2_string="House" gram_type="infix" relation_type="asymmetric" id="130613_11" ></RELATION>
+

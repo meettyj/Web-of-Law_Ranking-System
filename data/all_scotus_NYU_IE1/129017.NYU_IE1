@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['jolleytexas#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_987" id1="129021" volume="538" start="0" page_number="987" standard_reporter="U.S." citation_global_level_id="1477.002" line="1" id="129017_1" citation_local_level_id="0" >538 U.S. 987</CITATION>
+
+<CITATION party2="TEXAS" party1="JOLLEY" citation_global_level_id="37023.001" party2_short="TEXAS" line="1" id="129017_3" alternative_keys="['u.s._538_987']" end="32" entry_type="party_key" lookup_key="jolleytexas#1" id1="129017" start="17" party1_short="JOLLEY" citation_local_level_id="1" >JOLLEY v. TEXAS</CITATION>
+
+<NAME end="23" start="17" party1_of="129017_3" all_names="JOLLEY" local_name_id="1" id="129017_4" >JOLLEY</NAME>
+
+<NAME end="32" start="27" all_names="TEXAS" party2_of="129017_3" local_name_id="2" id="129017_5" >TEXAS</NAME>
+
+<DOCKET end="49" entry_type="docket" lookup_key="u.s._538_987" id1="129021" start="42" citation_global_level_id="1477.002" line="1" id="129017_2" citation_local_level_id="0" >02-9172</DOCKET>
+
+<DATE start="91" end="105" id="129017_6" >April 21, 2003</DATE>
+
+<NAME start="221" local_name_id="3" end="223" id="129017_12" all_names="CT" >Ct</NAME>
+
+<RELATION theme="129017_1" includes_docket_string="02-9172" includes_docket="129017_2" theme_string="538 U.S. 987" gram_type="apposition" relation_type="asymmetric" id="129017_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 987" X_vs_Y_string="JOLLEY v. TEXAS" standard_case="129017_1" X_vs_Y="129017_3" gram_type="pre_nom" relation_type="equivalence" id="129017_7" ></RELATION>
+
+<RELATION theme="129017_3" includes_docket_string="02-9172" includes_docket="129017_2" theme_string="JOLLEY v. TEXAS" gram_type="apposition" relation_type="asymmetric" id="129017_10" ></RELATION>
+
+<RELATION theme="129017_3" party1="129017_4" party1_string="JOLLEY" theme_string="JOLLEY v. TEXAS" gram_type="infix" relation_type="asymmetric" id="129017_8" ></RELATION>
+
+<RELATION party2="129017_5" theme="129017_3" theme_string="JOLLEY v. TEXAS" party2_string="TEXAS" gram_type="infix" relation_type="asymmetric" id="129017_9" ></RELATION>
+

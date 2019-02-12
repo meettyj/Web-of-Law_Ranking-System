@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['holifieldmississippi#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_957" id1="133197" volume="540" start="0" page_number="957" standard_reporter="U.S." citation_global_level_id="2926.002" line="1" id="133194_1" citation_local_level_id="0" >540 U.S. 957</CITATION>
+
+<CITATION party2="MISSISSIPPI" party1="HOLIFIELD" citation_global_level_id="30828.001" party2_short="MISSISSIPPI" line="1" id="133194_3" alternative_keys="['u.s._540_957']" end="41" entry_type="party_key" lookup_key="holifieldmississippi#1" id1="133194" start="17" party1_short="HOLIFIELD" citation_local_level_id="1" >HOLIFIELD v. MISSISSIPPI</CITATION>
+
+<NAME end="26" start="17" party1_of="133194_3" all_names="HOLIFIELD" local_name_id="1" id="133194_4" >HOLIFIELD</NAME>
+
+<NAME end="41" start="30" all_names="MISSISSIPPI" party2_of="133194_3" local_name_id="2" id="133194_5" >MISSISSIPPI</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._540_957" id1="133197" start="51" citation_global_level_id="2926.002" line="1" id="133194_2" citation_local_level_id="0" >03-5884</DOCKET>
+
+<DATE start="100" end="116" id="133194_6" >October 14, 2003</DATE>
+
+<NAME start="194" local_name_id="3" end="204" id="133194_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="243" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_847_866" id1="Dummy_File_70365" volume="847" start="229" page_number="866" standard_reporter="SO.2D" citation_global_level_id="134215.001" line="3" id="133194_12" citation_local_level_id="2" >847 So. 2d 866</CITATION>
+
+<RELATION theme="133194_1" includes_docket_string="03-5884" includes_docket="133194_2" theme_string="540 U.S. 957" gram_type="apposition" relation_type="asymmetric" id="133194_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 957" X_vs_Y_string="HOLIFIELD v. MISSISSIPPI" standard_case="133194_1" X_vs_Y="133194_3" gram_type="pre_nom" relation_type="equivalence" id="133194_7" ></RELATION>
+
+<RELATION theme="133194_3" includes_docket_string="03-5884" includes_docket="133194_2" theme_string="HOLIFIELD v. MISSISSIPPI" gram_type="apposition" relation_type="asymmetric" id="133194_10" ></RELATION>
+
+<RELATION theme="133194_3" party1="133194_4" party1_string="HOLIFIELD" theme_string="HOLIFIELD v. MISSISSIPPI" gram_type="infix" relation_type="asymmetric" id="133194_8" ></RELATION>
+
+<RELATION party2="133194_5" theme="133194_3" theme_string="HOLIFIELD v. MISSISSIPPI" party2_string="MISSISSIPPI" gram_type="infix" relation_type="asymmetric" id="133194_9" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['smithjones#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_973" id1="135457" volume="541" start="0" page_number="973" standard_reporter="U.S." citation_global_level_id="1100.002" line="1" id="135461_1" citation_local_level_id="0" >541 U.S. 973</CITATION>
+
+<CITATION party2="JONES ET AL" party1="SMITH" citation_global_level_id="3208.001" party2_short="JONES" line="2" id="135461_2" alternative_keys="['u.s._541_973']" end="37" entry_type="party_key" lookup_key="smithjones#1" id1="135461" start="17" party1_short="SMITH" citation_local_level_id="1" >SMITH v. JONES ET AL</CITATION>
+
+<NAME end="22" start="17" party1_of="135461_2" all_names="SMITH" local_name_id="1" id="135461_3" >SMITH</NAME>
+
+<NAME end="37" start="26" all_names="JONES" party2_of="135461_2" local_name_id="2" id="135461_4" >JONES ET AL</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="smithjones#1" id1="135461" start="47" citation_global_level_id="3208.001" line="3" id="135461_7" citation_local_level_id="1" >03-948</DOCKET>
+
+<ORGANIZATION start="59" end="89" id="135461_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="95" citation_global_level_id="3208.001" end="108" id="135461_9" citation_local_level_id="1" >April 5, 2004</DATE>
+
+<NAME start="141" local_name_id="3" end="144" id="135461_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="135461_2" party1="135461_3" party1_string="SMITH" theme_string="SMITH v. JONES ET AL" gram_type="infix" relation_type="asymmetric" id="135461_5" ></RELATION>
+
+<RELATION party2="135461_4" theme="135461_2" theme_string="SMITH v. JONES ET AL" party2_string="JONES ET AL" gram_type="infix" relation_type="asymmetric" id="135461_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 973" X_vs_Y_string="SMITH v. JONES ET AL" standard_case="135461_1" X_vs_Y="135461_2" gram_type="multi_line" relation_type="equivalence" id="135461_10" ></RELATION>
+
+<RELATION at_date_string="April 5, 2004" theme="135461_2" at_date="135461_9" theme_string="SMITH v. JONES ET AL" gram_type="multi_line" relation_type="asymmetric" id="135461_12" ></RELATION>
+
+<RELATION theme="135461_2" includes_docket_string="03-948" includes_docket="135461_7" theme_string="SMITH v. JONES ET AL" gram_type="multi_line" relation_type="asymmetric" id="135461_11" ></RELATION>
+

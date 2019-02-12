@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['williamscourt#6']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1023" id1="140629" volume="543" start="0" page_number="1023" standard_reporter="U.S." citation_global_level_id="6906.002" line="1" id="140626_1" citation_local_level_id="0" >543 U.S. 1023</CITATION>
+
+<CITATION party2="SUPERIOR COURT OF CALIFORNIA, VENTURA COUNTY" party1="WILLIAMS" citation_global_level_id="6906.006" party2_short="COURT" line="2" id="140626_3" alternative_keys="['u.s._543_1023']" end="74" entry_type="party_key" lookup_key="williamscourt#6" id1="140629" start="18" party1_short="WILLIAMS" citation_local_level_id="1" >WILLIAMS v. SUPERIOR COURT OF CALIFORNIA, VENTURA COUNTY</CITATION>
+
+<NAME end="26" start="18" party1_of="140626_3" all_names="WILLIAMS" local_name_id="1" id="140626_4" >WILLIAMS</NAME>
+
+<NAME end="74" start="30" all_names="SUPERIOR COURT OF CALIFORNIA VENTURA COUNTY" party2_of="140626_3" local_name_id="2" id="140626_5" >SUPERIOR COURT OF CALIFORNIA, VENTURA COUNTY</NAME>
+
+<DOCKET alternative_keys="['u.s._543_1023']" end="91" entry_type="docket" lookup_key="williamscourt#6" id1="140629" start="84" citation_global_level_id="6906.006" line="2" id="140626_2" citation_local_level_id="1" >04-6565</DOCKET>
+
+<ORGANIZATION start="97" end="127" id="140626_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="133" citation_global_level_id="6906.006" end="149" id="140626_10" citation_local_level_id="1" >December 6, 2004</DATE>
+
+<NAME start="171" local_name_id="3" end="173" id="140626_13" all_names="CT" >Ct</NAME>
+
+<RELATION theme="140626_3" includes_docket_string="04-6565" includes_docket="140626_2" theme_string="WILLIAMS v. SUPERIOR COURT OF CALIFORNIA, VENTURA COUNTY" gram_type="apposition" relation_type="asymmetric" id="140626_8" ></RELATION>
+
+<RELATION theme="140626_3" party1="140626_4" party1_string="WILLIAMS" theme_string="WILLIAMS v. SUPERIOR COURT OF CALIFORNIA, VENTURA COUNTY" gram_type="infix" relation_type="asymmetric" id="140626_6" ></RELATION>
+
+<RELATION party2="140626_5" theme="140626_3" theme_string="WILLIAMS v. SUPERIOR COURT OF CALIFORNIA, VENTURA COUNTY" party2_string="SUPERIOR COURT OF CALIFORNIA, VENTURA COUNTY" gram_type="infix" relation_type="asymmetric" id="140626_7" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1023" X_vs_Y_string="WILLIAMS v. SUPERIOR COURT OF CALIFORNIA, VENTURA COUNTY" standard_case="140626_1" X_vs_Y="140626_3" gram_type="multi_line" relation_type="equivalence" id="140626_11" ></RELATION>
+
+<RELATION at_date_string="December 6, 2004" theme="140626_3" at_date="140626_10" theme_string="WILLIAMS v. SUPERIOR COURT OF CALIFORNIA, VENTURA COUNTY" gram_type="multi_line" relation_type="asymmetric" id="140626_12" ></RELATION>
+

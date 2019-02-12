@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['andersonworkers#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1056" id1="141015" volume="543" start="0" page_number="1056" standard_reporter="U.S." citation_global_level_id="1117.002" line="1" id="141012_1" citation_local_level_id="0" >543 U.S. 1056</CITATION>
+
+<CITATION party2="INTERNATIONAL UNION, UNITED PLANT GUARD WORKERS OF AMERICA, ET AL" party1="ANDERSON ET AL." citation_global_level_id="1117.005" party2_short="WORKERS" line="2" id="141012_2" alternative_keys="['u.s._543_1056']" end="102" entry_type="party_key" lookup_key="andersonworkers#1" id1="141015" start="18" party1_short="ANDERSON" citation_local_level_id="1" >ANDERSON ET AL. v. INTERNATIONAL UNION, UNITED PLANT GUARD WORKERS OF AMERICA, ET AL</CITATION>
+
+<NAME end="33" start="18" party1_of="141012_2" all_names="ANDERSON" local_name_id="1" id="141012_3" >ANDERSON ET AL.</NAME>
+
+<NAME end="102" start="37" all_names="INTERNATIONAL UNION UNITED PLANT GUARD WORKERS OF AMERICA" party2_of="141012_2" local_name_id="2" id="141012_4" >INTERNATIONAL UNION, UNITED PLANT GUARD WORKERS OF AMERICA, ET AL</NAME>
+
+<ORGANIZATION start="37" end="56" id="141012_5" >INTERNATIONAL UNION</ORGANIZATION>
+
+<DOCKET alternative_keys="['u.s._543_1056']" end="118" entry_type="docket" lookup_key="andersonworkers#1" id1="141015" start="112" citation_global_level_id="1117.005" line="3" id="141012_8" citation_local_level_id="1" >04-756</DOCKET>
+
+<ORGANIZATION start="124" end="154" id="141012_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="160" citation_global_level_id="1117.005" end="176" id="141012_10" citation_local_level_id="1" >January 10, 2005</DATE>
+
+<NAME start="208" local_name_id="3" end="211" id="141012_15" all_names="CIR" >Cir</NAME>
+
+<CITATION end="261" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_370_542" id1="Dummy_File_186472" volume="370" start="248" page_number="542" standard_reporter="F.3D" citation_global_level_id="250322.001" line="8" id="141012_14" citation_local_level_id="2" >370 F. 3d 542</CITATION>
+
+<RELATION theme="141012_2" party1="141012_3" party1_string="ANDERSON ET AL." theme_string="ANDERSON ET AL. v. INTERNATIONAL UNION, UNITED PLANT GUARD WORKERS OF AMERICA, ET AL" gram_type="infix" relation_type="asymmetric" id="141012_6" ></RELATION>
+
+<RELATION party2="141012_4" theme="141012_2" theme_string="ANDERSON ET AL. v. INTERNATIONAL UNION, UNITED PLANT GUARD WORKERS OF AMERICA, ET AL" party2_string="INTERNATIONAL UNION, UNITED PLANT GUARD WORKERS OF AMERICA, ET AL" gram_type="infix" relation_type="asymmetric" id="141012_7" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1056" X_vs_Y_string="ANDERSON ET AL. v. INTERNATIONAL UNION, UNITED PLANT GUARD WORKERS OF AMERICA, ET AL" standard_case="141012_1" X_vs_Y="141012_2" gram_type="multi_line" relation_type="equivalence" id="141012_11" ></RELATION>
+
+<RELATION at_date_string="January 10, 2005" theme="141012_2" at_date="141012_10" theme_string="ANDERSON ET AL. v. INTERNATIONAL UNION, UNITED PLANT GUARD WORKERS OF AMERICA, ET AL" gram_type="multi_line" relation_type="asymmetric" id="141012_13" ></RELATION>
+
+<RELATION theme="141012_2" includes_docket_string="04-756" includes_docket="141012_8" theme_string="ANDERSON ET AL. v. INTERNATIONAL UNION, UNITED PLANT GUARD WORKERS OF AMERICA, ET AL" gram_type="multi_line" relation_type="asymmetric" id="141012_12" ></RELATION>
+

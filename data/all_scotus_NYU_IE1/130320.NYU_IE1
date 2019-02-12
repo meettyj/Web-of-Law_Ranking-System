@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['adamscity#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_914" id1="130322" volume="539" start="0" page_number="914" standard_reporter="U.S." citation_global_level_id="1919.002" line="1" id="130320_1" citation_local_level_id="0" >539 U.S. 914</CITATION>
+
+<CITATION party2="City of Auburn, Indiana" party1="Adams" citation_global_level_id="25184.001" party2_short="City" line="1" id="130320_3" alternative_keys="['u.s._539_914']" end="49" entry_type="party_key" lookup_key="adamscity#1" id1="130320" start="17" party1_short="Adams" citation_local_level_id="1" >Adams v. City of Auburn, Indiana</CITATION>
+
+<NAME end="22" start="17" party1_of="130320_3" all_names="ADAMS" local_name_id="1" id="130320_4" >Adams</NAME>
+
+<NAME end="49" start="26" all_names="CITY OF AUBURN INDIANA" party2_of="130320_3" local_name_id="2" id="130320_5" >City of Auburn, Indiana</NAME>
+
+<DOCKET end="66" entry_type="docket" lookup_key="u.s._539_914" id1="130322" start="59" citation_global_level_id="1919.002" line="1" id="130320_2" citation_local_level_id="0" >02-1342</DOCKET>
+
+<DATE start="108" end="120" id="130320_6" >June 9, 2003</DATE>
+
+<NAME start="198" local_name_id="3" end="208" id="130320_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="130320_1" includes_docket_string="02-1342" includes_docket="130320_2" theme_string="539 U.S. 914" gram_type="apposition" relation_type="asymmetric" id="130320_11" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 914" X_vs_Y_string="Adams v. City of Auburn, Indiana" standard_case="130320_1" X_vs_Y="130320_3" gram_type="pre_nom" relation_type="equivalence" id="130320_7" ></RELATION>
+
+<RELATION theme="130320_3" includes_docket_string="02-1342" includes_docket="130320_2" theme_string="Adams v. City of Auburn, Indiana" gram_type="apposition" relation_type="asymmetric" id="130320_10" ></RELATION>
+
+<RELATION theme="130320_3" party1="130320_4" party1_string="Adams" theme_string="Adams v. City of Auburn, Indiana" gram_type="infix" relation_type="asymmetric" id="130320_8" ></RELATION>
+
+<RELATION party2="130320_5" theme="130320_3" theme_string="Adams v. City of Auburn, Indiana" party2_string="City of Auburn, Indiana" gram_type="infix" relation_type="asymmetric" id="130320_9" ></RELATION>
+

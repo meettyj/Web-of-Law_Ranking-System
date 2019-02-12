@@ -1,0 +1,58 @@
+<CITATION alternative_keys="['californiacounty#2', 'wolfecounty#1', 'wolfemahle#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_951" id1="143499" volume="544" start="0" page_number="951" standard_reporter="U.S." citation_global_level_id="4190.002" line="1" id="143500_1" citation_local_level_id="0" >544 U.S. 951</CITATION>
+
+<CITATION party2="MAHLE" party1="WOLFE" citation_global_level_id="4190.011" party2_short="MAHLE" line="2" id="143500_2" alternative_keys="['californiacounty#2', 'wolfecounty#1', 'u.s._544_951']" end="31" entry_type="party_key" lookup_key="wolfemahle#1" id1="143499" start="17" party1_short="WOLFE" citation_local_level_id="1" >WOLFE v. MAHLE</CITATION>
+
+<NAME end="22" start="17" party1_of="143500_2" all_names="WOLFE	CALIFORNIA AL; AND WOLFE" local_name_id="1" id="143500_5" >WOLFE</NAME>
+
+<NAME end="31" start="26" all_names="MAHLE" party2_of="143500_2" local_name_id="2" id="143500_6" >MAHLE</NAME>
+
+<CITATION party2="SACRAMENTO COUNTY" party1="WOLFE" citation_global_level_id="4190.01" party2_short="COUNTY" line="2" id="143500_3" alternative_keys="['californiacounty#2', 'wolfemahle#1', 'u.s._544_951']" end="59" entry_type="party_key" lookup_key="wolfecounty#1" id1="143499" start="33" party1_short="WOLFE" citation_local_level_id="2" >WOLFE v. SACRAMENTO COUNTY</CITATION>
+
+<NAME end="38" start="33" party1_of="143500_3" all_names="WOLFE	CALIFORNIA AL; AND WOLFE" local_name_id="1" id="143500_7" >WOLFE</NAME>
+
+<NAME end="59" start="42" all_names="SACRAMENTO COUNTY" party2_of="143500_3" local_name_id="3" id="143500_8" >SACRAMENTO COUNTY</NAME>
+
+<CITATION party2="SACRAMENTO COUNTY BAR ASSN. ET AL" party1="CALIFORNIA, ET AL.; and WOLFE" citation_global_level_id="4190.009" party2_short="COUNTY" line="2" id="143500_4" alternative_keys="['wolfecounty#1', 'wolfemahle#1', 'u.s._544_951']" end="127" no_current_file="True" entry_type="party_key" lookup_key="californiacounty#2" id1="143499" start="61" party1_short="CALIFORNIA" citation_local_level_id="3" >CALIFORNIA, ET AL.; and WOLFE v. SACRAMENTO COUNTY BAR ASSN. ET AL</CITATION>
+
+<NAME end="90" start="61" party1_of="143500_4" all_names="WOLFE	CALIFORNIA AL; AND WOLFE" local_name_id="1" id="143500_9" >CALIFORNIA, ET AL.; and WOLFE</NAME>
+
+<NAME end="127" start="94" all_names="SACRAMENTO COUNTY BAR ASSN" party2_of="143500_4" local_name_id="4" id="143500_10" >SACRAMENTO COUNTY BAR ASSN. ET AL</NAME>
+
+<DOCKET alternative_keys="['californiacounty#2', 'wolfecounty#1', 'u.s._544_951']" end="144" entry_type="docket" lookup_key="wolfemahle#1" id1="143499" start="137" citation_global_level_id="4190.011" line="3" id="143500_17" citation_local_level_id="1" >04-8287</DOCKET>
+
+<ORGANIZATION start="150" end="180" id="143500_18" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="186" citation_global_level_id="4190.011" end="200" id="143500_19" citation_local_level_id="1" >March 28, 2005</DATE>
+
+<NAME start="222" local_name_id="5" end="224" id="143500_29" all_names="CT" >Ct</NAME>
+
+<RELATION theme="143500_2" party1="143500_5" party1_string="WOLFE" theme_string="WOLFE v. MAHLE" gram_type="infix" relation_type="asymmetric" id="143500_11" ></RELATION>
+
+<RELATION party2="143500_6" theme="143500_2" theme_string="WOLFE v. MAHLE" party2_string="MAHLE" gram_type="infix" relation_type="asymmetric" id="143500_12" ></RELATION>
+
+<RELATION theme="143500_3" party1="143500_7" party1_string="WOLFE" theme_string="WOLFE v. SACRAMENTO COUNTY" gram_type="infix" relation_type="asymmetric" id="143500_13" ></RELATION>
+
+<RELATION party2="143500_8" theme="143500_3" theme_string="WOLFE v. SACRAMENTO COUNTY" party2_string="SACRAMENTO COUNTY" gram_type="infix" relation_type="asymmetric" id="143500_14" ></RELATION>
+
+<RELATION theme="143500_4" party1="143500_9" party1_string="CALIFORNIA, ET AL.; and WOLFE" theme_string="CALIFORNIA, ET AL.; and WOLFE v. SACRAMENTO COUNTY BAR ASSN. ET AL" gram_type="infix" relation_type="asymmetric" id="143500_15" ></RELATION>
+
+<RELATION party2="143500_10" theme="143500_4" theme_string="CALIFORNIA, ET AL.; and WOLFE v. SACRAMENTO COUNTY BAR ASSN. ET AL" party2_string="SACRAMENTO COUNTY BAR ASSN. ET AL" gram_type="infix" relation_type="asymmetric" id="143500_16" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 951" X_vs_Y_string="CALIFORNIA, ET AL.; and WOLFE v. SACRAMENTO COUNTY BAR ASSN. ET AL" standard_case="143500_1" X_vs_Y="143500_4" gram_type="multi_line" relation_type="equivalence" id="143500_26" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 951" X_vs_Y_string="WOLFE v. SACRAMENTO COUNTY" standard_case="143500_1" X_vs_Y="143500_3" gram_type="multi_line" relation_type="equivalence" id="143500_23" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 951" X_vs_Y_string="WOLFE v. MAHLE" standard_case="143500_1" X_vs_Y="143500_2" gram_type="multi_line" relation_type="equivalence" id="143500_20" ></RELATION>
+
+<RELATION at_date_string="March 28, 2005" theme="143500_2" at_date="143500_19" theme_string="WOLFE v. MAHLE" gram_type="multi_line" relation_type="asymmetric" id="143500_22" ></RELATION>
+
+<RELATION theme="143500_2" includes_docket_string="04-8287" includes_docket="143500_17" theme_string="WOLFE v. MAHLE" gram_type="multi_line" relation_type="asymmetric" id="143500_21" ></RELATION>
+
+<RELATION at_date_string="March 28, 2005" theme="143500_3" at_date="143500_19" theme_string="WOLFE v. SACRAMENTO COUNTY" gram_type="multi_line" relation_type="asymmetric" id="143500_25" ></RELATION>
+
+<RELATION theme="143500_3" includes_docket_string="04-8287" includes_docket="143500_17" theme_string="WOLFE v. SACRAMENTO COUNTY" gram_type="multi_line" relation_type="asymmetric" id="143500_24" ></RELATION>
+
+<RELATION at_date_string="March 28, 2005" theme="143500_4" at_date="143500_19" theme_string="CALIFORNIA, ET AL.; and WOLFE v. SACRAMENTO COUNTY BAR ASSN. ET AL" gram_type="multi_line" relation_type="asymmetric" id="143500_28" ></RELATION>
+
+<RELATION theme="143500_4" includes_docket_string="04-8287" includes_docket="143500_17" theme_string="CALIFORNIA, ET AL.; and WOLFE v. SACRAMENTO COUNTY BAR ASSN. ET AL" gram_type="multi_line" relation_type="asymmetric" id="143500_27" ></RELATION>
+

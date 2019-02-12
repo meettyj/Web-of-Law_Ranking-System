@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['younghoffman#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_837" id1="113346" volume="510" start="0" page_number="837" standard_reporter="U.S." citation_global_level_id="4764.002" line="1" id="113336_1" citation_local_level_id="0" >510 U.S. 837</CITATION>
+
+<CITATION party2="Hoffman" party1="Young" citation_global_level_id="11468.001" party2_short="Hoffman" line="1" id="113336_3" alternative_keys="['u.s._510_837']" end="33" entry_type="party_key" lookup_key="younghoffman#1" id1="113336" start="17" party1_short="Young" citation_local_level_id="1" >Young v. Hoffman</CITATION>
+
+<NAME end="22" start="17" party1_of="113336_3" all_names="YOUNG" local_name_id="1" id="113336_4" >Young</NAME>
+
+<NAME end="33" start="26" all_names="HOFFMAN" party2_of="113336_3" local_name_id="2" id="113336_5" >Hoffman</NAME>
+
+<DOCKET end="50" entry_type="docket" lookup_key="u.s._510_837" id1="113346" start="43" citation_global_level_id="4764.002" line="1" id="113336_2" citation_local_level_id="0" >92-8834</DOCKET>
+
+<DATE start="92" end="107" id="113336_6" >October 4, 1993</DATE>
+
+<NAME start="184" local_name_id="3" end="194" id="113336_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="233" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_970_1154" id1="Dummy_File_107890" volume="970" start="219" page_number="1154" standard_reporter="F.2D" citation_global_level_id="171740.001" line="3" id="113336_12" citation_local_level_id="2" >970 F. 2d 1154</CITATION>
+
+<RELATION theme="113336_1" includes_docket_string="92-8834" includes_docket="113336_2" theme_string="510 U.S. 837" gram_type="apposition" relation_type="asymmetric" id="113336_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 837" X_vs_Y_string="Young v. Hoffman" standard_case="113336_1" X_vs_Y="113336_3" gram_type="pre_nom" relation_type="equivalence" id="113336_7" ></RELATION>
+
+<RELATION theme="113336_3" includes_docket_string="92-8834" includes_docket="113336_2" theme_string="Young v. Hoffman" gram_type="apposition" relation_type="asymmetric" id="113336_10" ></RELATION>
+
+<RELATION theme="113336_3" party1="113336_4" party1_string="Young" theme_string="Young v. Hoffman" gram_type="infix" relation_type="asymmetric" id="113336_8" ></RELATION>
+
+<RELATION party2="113336_5" theme="113336_3" theme_string="Young v. Hoffman" party2_string="Hoffman" gram_type="infix" relation_type="asymmetric" id="113336_9" ></RELATION>
+

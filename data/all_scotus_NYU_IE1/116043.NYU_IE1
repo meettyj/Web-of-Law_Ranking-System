@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['steenservice#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1049" id1="116045" volume="510" start="0" page_number="1049" standard_reporter="U.S." citation_global_level_id="11113.002" line="1" id="116043_1" citation_local_level_id="0" >510 U.S. 1049</CITATION>
+
+<CITATION party2="United States Postal Service" party1="Steen" citation_global_level_id="41611.001" party2_short="Service" line="1" id="116043_3" alternative_keys="['u.s._510_1049']" end="55" entry_type="party_key" lookup_key="steenservice#1" id1="116043" start="18" party1_short="Steen" citation_local_level_id="1" >Steen v. United States Postal Service</CITATION>
+
+<NAME end="23" start="18" party1_of="116043_3" all_names="STEEN" local_name_id="1" id="116043_4" >Steen</NAME>
+
+<NAME end="55" start="27" all_names="UNITED STATES POSTAL SERVICE" party2_of="116043_3" local_name_id="2" id="116043_5" >United States Postal Service</NAME>
+
+<DOCKET end="72" entry_type="docket" lookup_key="u.s._510_1049" id1="116045" start="65" citation_global_level_id="11113.002" line="1" id="116043_2" citation_local_level_id="0" >93-6122</DOCKET>
+
+<DATE start="114" end="130" id="116043_6" >January 10, 1994</DATE>
+
+<NAME start="208" local_name_id="3" end="218" id="116043_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="257" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_996_1217" id1="Dummy_File_34056" volume="996" start="243" page_number="1217" standard_reporter="F.2D" citation_global_level_id="97906.001" line="3" id="116043_12" citation_local_level_id="2" >996 F. 2d 1217</CITATION>
+
+<RELATION theme="116043_1" includes_docket_string="93-6122" includes_docket="116043_2" theme_string="510 U.S. 1049" gram_type="apposition" relation_type="asymmetric" id="116043_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1049" X_vs_Y_string="Steen v. United States Postal Service" standard_case="116043_1" X_vs_Y="116043_3" gram_type="pre_nom" relation_type="equivalence" id="116043_7" ></RELATION>
+
+<RELATION theme="116043_3" includes_docket_string="93-6122" includes_docket="116043_2" theme_string="Steen v. United States Postal Service" gram_type="apposition" relation_type="asymmetric" id="116043_10" ></RELATION>
+
+<RELATION theme="116043_3" party1="116043_4" party1_string="Steen" theme_string="Steen v. United States Postal Service" gram_type="infix" relation_type="asymmetric" id="116043_8" ></RELATION>
+
+<RELATION party2="116043_5" theme="116043_3" theme_string="Steen v. United States Postal Service" party2_string="United States Postal Service" gram_type="infix" relation_type="asymmetric" id="116043_9" ></RELATION>
+

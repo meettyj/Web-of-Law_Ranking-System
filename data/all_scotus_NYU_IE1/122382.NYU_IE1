@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['banka#7']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_813" id1="122388" volume="537" start="0" page_number="813" standard_reporter="U.S." citation_global_level_id="1152.002" line="1" id="122382_1" citation_local_level_id="0" >537 U.S. 813</CITATION>
+
+<CITATION party2="FIRST CITY, TEXAS-HOUSTON, N. A" party1="RAFIDAIN BANK" citation_global_level_id="1152.006" party2_short="A" line="1" id="122382_3" alternative_keys="['u.s._537_813']" end="65" entry_type="party_key" lookup_key="banka#7" id1="122388" start="17" party1_short="BANK" citation_local_level_id="1" >RAFIDAIN BANK v. FIRST CITY, TEXAS-HOUSTON, N. A</CITATION>
+
+<NAME end="30" start="17" party1_of="122382_3" all_names="RAFIDAIN BANK" local_name_id="1" id="122382_4" >RAFIDAIN BANK</NAME>
+
+<NAME end="65" start="34" all_names="FIRST CITY TEXAS-HOUSTON N A" party2_of="122382_3" local_name_id="2" id="122382_5" >FIRST CITY, TEXAS-HOUSTON, N. A</NAME>
+
+<DOCKET end="82" entry_type="docket" lookup_key="u.s._537_813" id1="122388" start="75" citation_global_level_id="1152.002" line="1" id="122382_2" citation_local_level_id="0" >01-1626</DOCKET>
+
+<DATE start="124" end="139" id="122382_6" >October 7, 2002</DATE>
+
+<NAME start="268" local_name_id="3" end="271" id="122382_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="320" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_281_48" id1="Dummy_File_151868" volume="281" start="308" page_number="48" standard_reporter="F.3D" citation_global_level_id="215718.001" line="3" id="122382_12" citation_local_level_id="2" >281 F. 3d 48</CITATION>
+
+<RELATION theme="122382_1" includes_docket_string="01-1626" includes_docket="122382_2" theme_string="537 U.S. 813" gram_type="apposition" relation_type="asymmetric" id="122382_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 813" X_vs_Y_string="RAFIDAIN BANK v. FIRST CITY, TEXAS-HOUSTON, N. A" standard_case="122382_1" X_vs_Y="122382_3" gram_type="pre_nom" relation_type="equivalence" id="122382_7" ></RELATION>
+
+<RELATION theme="122382_3" includes_docket_string="01-1626" includes_docket="122382_2" theme_string="RAFIDAIN BANK v. FIRST CITY, TEXAS-HOUSTON, N. A" gram_type="apposition" relation_type="asymmetric" id="122382_10" ></RELATION>
+
+<RELATION theme="122382_3" party1="122382_4" party1_string="RAFIDAIN BANK" theme_string="RAFIDAIN BANK v. FIRST CITY, TEXAS-HOUSTON, N. A" gram_type="infix" relation_type="asymmetric" id="122382_8" ></RELATION>
+
+<RELATION party2="122382_5" theme="122382_3" theme_string="RAFIDAIN BANK v. FIRST CITY, TEXAS-HOUSTON, N. A" party2_string="FIRST CITY, TEXAS-HOUSTON, N. A" gram_type="infix" relation_type="asymmetric" id="122382_9" ></RELATION>
+

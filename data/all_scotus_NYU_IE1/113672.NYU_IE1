@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['davisalexander#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_861" id1="113672" volume="510" start="0" page_number="861" standard_reporter="U.S." citation_global_level_id="2136.002" line="1" id="113672_1" citation_local_level_id="0" >510 U.S. 861</CITATION>
+
+<CITATION party2="Alexander et al" party1="Davis" citation_global_level_id="25831.001" party2_short="Alexander" line="1" id="113672_3" alternative_keys="['u.s._510_861']" end="41" entry_type="party_key" lookup_key="davisalexander#2" id1="100724" start="17" party1_short="Davis" citation_local_level_id="1" >Davis v. Alexander et al</CITATION>
+
+<NAME end="22" start="17" party1_of="113672_3" all_names="DAVIS" local_name_id="1" id="113672_4" >Davis</NAME>
+
+<NAME end="41" start="26" all_names="ALEXANDER" party2_of="113672_3" local_name_id="2" id="113672_5" >Alexander et al</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._510_861" id1="113672" start="51" citation_global_level_id="2136.002" line="1" id="113672_2" citation_local_level_id="0" >93-36</DOCKET>
+
+<DATE start="98" end="113" id="113672_6" >October 4, 1993</DATE>
+
+<NAME start="191" local_name_id="3" end="201" id="113672_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="239" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_978_714" id1="Dummy_File_32240" volume="978" start="226" page_number="714" standard_reporter="F.2D" citation_global_level_id="96090.001" line="3" id="113672_12" citation_local_level_id="2" >978 F. 2d 714</CITATION>
+
+<RELATION theme="113672_1" includes_docket_string="93-36" includes_docket="113672_2" theme_string="510 U.S. 861" gram_type="apposition" relation_type="asymmetric" id="113672_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 861" X_vs_Y_string="Davis v. Alexander et al" standard_case="113672_1" X_vs_Y="113672_3" gram_type="pre_nom" relation_type="equivalence" id="113672_7" ></RELATION>
+
+<RELATION theme="113672_3" includes_docket_string="93-36" includes_docket="113672_2" theme_string="Davis v. Alexander et al" gram_type="apposition" relation_type="asymmetric" id="113672_10" ></RELATION>
+
+<RELATION theme="113672_3" party1="113672_4" party1_string="Davis" theme_string="Davis v. Alexander et al" gram_type="infix" relation_type="asymmetric" id="113672_8" ></RELATION>
+
+<RELATION party2="113672_5" theme="113672_3" theme_string="Davis v. Alexander et al" party2_string="Alexander et al" gram_type="infix" relation_type="asymmetric" id="113672_9" ></RELATION>
+

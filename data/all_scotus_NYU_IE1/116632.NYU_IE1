@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['keithmarkley#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1098" id1="116640" volume="510" start="0" page_number="1098" standard_reporter="U.S." citation_global_level_id="29868.002" line="1" id="116632_1" citation_local_level_id="0" >510 U.S. 1098</CITATION>
+
+<CITATION party2="Markley" party1="Keith" citation_global_level_id="30707.001" party2_short="Markley" line="1" id="116632_3" alternative_keys="['u.s._510_1098']" end="34" entry_type="party_key" lookup_key="keithmarkley#1" id1="116632" start="18" party1_short="Keith" citation_local_level_id="1" >Keith v. Markley</CITATION>
+
+<NAME end="23" start="18" party1_of="116632_3" all_names="KEITH" local_name_id="1" id="116632_4" >Keith</NAME>
+
+<NAME end="34" start="27" all_names="MARKLEY" party2_of="116632_3" local_name_id="2" id="116632_5" >Markley</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="u.s._510_1098" id1="116640" start="44" citation_global_level_id="29868.002" line="1" id="116632_2" citation_local_level_id="0" >93-6985</DOCKET>
+
+<DATE start="93" end="109" id="116632_6" >January 24, 1994</DATE>
+
+<NAME start="188" local_name_id="3" end="198" id="116632_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="236" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_983_236" id1="Dummy_File_21869" volume="983" start="223" page_number="236" standard_reporter="F.2D" citation_global_level_id="85719.001" line="3" id="116632_12" citation_local_level_id="2" >983 F. 2d 236</CITATION>
+
+<RELATION theme="116632_1" includes_docket_string="93-6985" includes_docket="116632_2" theme_string="510 U.S. 1098" gram_type="apposition" relation_type="asymmetric" id="116632_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1098" X_vs_Y_string="Keith v. Markley" standard_case="116632_1" X_vs_Y="116632_3" gram_type="pre_nom" relation_type="equivalence" id="116632_7" ></RELATION>
+
+<RELATION theme="116632_3" includes_docket_string="93-6985" includes_docket="116632_2" theme_string="Keith v. Markley" gram_type="apposition" relation_type="asymmetric" id="116632_10" ></RELATION>
+
+<RELATION theme="116632_3" party1="116632_4" party1_string="Keith" theme_string="Keith v. Markley" gram_type="infix" relation_type="asymmetric" id="116632_8" ></RELATION>
+
+<RELATION party2="116632_5" theme="116632_3" theme_string="Keith v. Markley" party2_string="Markley" gram_type="infix" relation_type="asymmetric" id="116632_9" ></RELATION>
+

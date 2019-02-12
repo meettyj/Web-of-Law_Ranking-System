@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['paymanabdrabbo#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_990" id1="135681" volume="541" start="0" page_number="990" standard_reporter="U.S." citation_global_level_id="3017.002" line="1" id="135675_1" citation_local_level_id="0" >541 U.S. 990</CITATION>
+
+<CITATION party2="ABDRABBO ET AL" party1="PAYMAN" citation_global_level_id="56066.001" party2_short="ABDRABBO" line="2" id="135675_2" alternative_keys="['u.s._541_990']" end="41" entry_type="party_key" lookup_key="paymanabdrabbo#1" id1="135675" start="17" party1_short="PAYMAN" citation_local_level_id="1" >PAYMAN v. ABDRABBO ET AL</CITATION>
+
+<NAME end="23" start="17" party1_of="135675_2" all_names="PAYMAN" local_name_id="1" id="135675_3" >PAYMAN</NAME>
+
+<NAME end="41" start="27" all_names="ABDRABBO" party2_of="135675_2" local_name_id="2" id="135675_4" >ABDRABBO ET AL</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="paymanabdrabbo#1" id1="135675" start="51" citation_global_level_id="56066.001" line="3" id="135675_7" citation_local_level_id="1" >03-1312</DOCKET>
+
+<ORGANIZATION start="64" end="94" id="135675_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="100" citation_global_level_id="56066.001" end="114" id="135675_9" citation_local_level_id="1" >April 19, 2004</DATE>
+
+<NAME start="146" local_name_id="3" end="149" id="135675_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="135675_2" party1="135675_3" party1_string="PAYMAN" theme_string="PAYMAN v. ABDRABBO ET AL" gram_type="infix" relation_type="asymmetric" id="135675_5" ></RELATION>
+
+<RELATION party2="135675_4" theme="135675_2" theme_string="PAYMAN v. ABDRABBO ET AL" party2_string="ABDRABBO ET AL" gram_type="infix" relation_type="asymmetric" id="135675_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 990" X_vs_Y_string="PAYMAN v. ABDRABBO ET AL" standard_case="135675_1" X_vs_Y="135675_2" gram_type="multi_line" relation_type="equivalence" id="135675_10" ></RELATION>
+
+<RELATION at_date_string="April 19, 2004" theme="135675_2" at_date="135675_9" theme_string="PAYMAN v. ABDRABBO ET AL" gram_type="multi_line" relation_type="asymmetric" id="135675_12" ></RELATION>
+
+<RELATION theme="135675_2" includes_docket_string="03-1312" includes_docket="135675_7" theme_string="PAYMAN v. ABDRABBO ET AL" gram_type="multi_line" relation_type="asymmetric" id="135675_11" ></RELATION>
+

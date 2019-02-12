@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['stellycain#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_973" id1="119313" volume="535" start="0" page_number="973" standard_reporter="U.S." citation_global_level_id="2332.002" line="1" id="119314_1" citation_local_level_id="0" >535 U.S. 973</CITATION>
+
+<CITATION party2="CAIN, WARDEN" party1="STELLY" citation_global_level_id="2332.009" party2_short="CAIN" line="2" id="119314_2" alternative_keys="['u.s._535_973']" end="39" entry_type="party_key" lookup_key="stellycain#1" id1="119313" start="17" party1_short="STELLY" citation_local_level_id="1" >STELLY v. CAIN, WARDEN</CITATION>
+
+<NAME end="23" start="17" party1_of="119314_2" all_names="STELLY" local_name_id="1" id="119314_3" >STELLY</NAME>
+
+<NAME end="39" start="27" all_names="CAIN WARDEN" party2_of="119314_2" local_name_id="2" id="119314_4" >CAIN, WARDEN</NAME>
+
+<DOCKET alternative_keys="['u.s._535_973']" end="56" entry_type="docket" lookup_key="stellycain#1" id1="119313" start="49" citation_global_level_id="2332.009" line="3" id="119314_7" citation_local_level_id="1" >01-7969</DOCKET>
+
+<DATE start="102" citation_global_level_id="2332.009" end="115" id="119314_8" citation_local_level_id="1" >April 1, 2002</DATE>
+
+<NAME start="147" local_name_id="3" end="150" id="119314_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="119314_2" party1="119314_3" party1_string="STELLY" theme_string="STELLY v. CAIN, WARDEN" gram_type="infix" relation_type="asymmetric" id="119314_5" ></RELATION>
+
+<RELATION party2="119314_4" theme="119314_2" theme_string="STELLY v. CAIN, WARDEN" party2_string="CAIN, WARDEN" gram_type="infix" relation_type="asymmetric" id="119314_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 973" X_vs_Y_string="STELLY v. CAIN, WARDEN" standard_case="119314_1" X_vs_Y="119314_2" gram_type="multi_line" relation_type="equivalence" id="119314_9" ></RELATION>
+
+<RELATION at_date_string="April 1, 2002" theme="119314_2" at_date="119314_8" theme_string="STELLY v. CAIN, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="119314_11" ></RELATION>
+
+<RELATION theme="119314_2" includes_docket_string="01-7969" includes_docket="119314_7" theme_string="STELLY v. CAIN, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="119314_10" ></RELATION>
+

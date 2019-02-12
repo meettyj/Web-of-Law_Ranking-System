@@ -1,0 +1,34 @@
+<CITATION alternative_keys="['jonescarolina#5']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_980" id1="131053" volume="539" start="0" page_number="980" standard_reporter="U.S." citation_global_level_id="3429.002" line="1" id="131049_1" citation_local_level_id="0" >539 U.S. 980</CITATION>
+
+<CITATION party2="North Carolina" party1="Jones" citation_global_level_id="57314.001" party2_short="Carolina" line="1" id="131049_4" alternative_keys="['u.s._539_980']" end="40" entry_type="party_key" lookup_key="jonescarolina#5" id1="140636" start="17" party1_short="Jones" citation_local_level_id="1" >Jones v. North Carolina</CITATION>
+
+<NAME end="22" start="17" party1_of="131049_4" all_names="JONES" local_name_id="1" id="131049_5" >Jones</NAME>
+
+<NAME end="40" start="26" all_names="NORTH CAROLINA" party2_of="131049_4" local_name_id="2" id="131049_6" >North Carolina</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._539_980" id1="131053" start="50" citation_global_level_id="3429.002" line="1" id="131049_3" citation_local_level_id="0" >03-5943</DOCKET>
+
+<CITATION end="65" reporter="A" entry_type="standard_key" no_current_file="True" lookup_key="a._03_142" id1="Dummy_File_50291" volume="03" start="59" page_number="142" standard_reporter="A." citation_global_level_id="114141.001" line="1" id="131049_2" citation_local_level_id="2" >03A142</CITATION>
+
+<DATE start="108" end="123" id="131049_7" >August 21, 2003</DATE>
+
+<NAME start="201" local_name_id="3" end="212" id="131049_15" all_names="APPLICATION" >Application</NAME>
+
+<PROFESSION start="274" end="287" id="131049_16" >Chief Justice</PROFESSION>
+
+<ORGANIZATION start="316" end="321" id="131049_17" >Court</ORGANIZATION>
+
+<CITATION end="379" reporter="N. C." entry_type="standard_key" no_current_file="True" lookup_key="n.c._357_465" id1="Dummy_File_50292" volume="357" start="366" page_number="465" standard_reporter="N.C." citation_global_level_id="114142.001" line="3" id="131049_13" citation_local_level_id="3" >357 N. C. 465</CITATION>
+
+<CITATION end="397" reporter="S. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="s.e.2d_584_296" id1="Dummy_File_50293" volume="584" start="381" page_number="296" standard_reporter="S.E.2D" citation_global_level_id="114143.001" line="3" id="131049_14" citation_local_level_id="4" >584 S. E. 2d 296</CITATION>
+
+<RELATION theme="131049_1" includes_docket_string="03-5943" includes_docket="131049_3" theme_string="539 U.S. 980" gram_type="apposition" relation_type="asymmetric" id="131049_12" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 980" X_vs_Y_string="Jones v. North Carolina" standard_case="131049_1" X_vs_Y="131049_4" gram_type="pre_nom" relation_type="equivalence" id="131049_8" ></RELATION>
+
+<RELATION theme="131049_4" includes_docket_string="03-5943" includes_docket="131049_3" theme_string="Jones v. North Carolina" gram_type="apposition" relation_type="asymmetric" id="131049_11" ></RELATION>
+
+<RELATION party2="131049_6" theme="131049_4" theme_string="Jones v. North Carolina" party2_string="North Carolina" gram_type="infix" relation_type="asymmetric" id="131049_10" ></RELATION>
+
+<RELATION theme="131049_4" party1="131049_5" party1_string="Jones" theme_string="Jones v. North Carolina" gram_type="infix" relation_type="asymmetric" id="131049_9" ></RELATION>
+

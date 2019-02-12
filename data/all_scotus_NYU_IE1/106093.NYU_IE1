@@ -1,0 +1,42 @@
+<CITATION alternative_keys="['nopennsylvania#1', 's.ct._80_1596', 'l.ed.2d_4_1521']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._363_720" id1="106093" volume="363" start="0" page_number="720" standard_reporter="U.S." citation_global_level_id="56909.002" line="1" id="106093_1" citation_local_level_id="0" >363 U.S. 720</CITATION>
+
+<CITATION alternative_keys="['u.s._363_720', 'nopennsylvania#1', 'l.ed.2d_4_1521']" end="31" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._80_1596" id1="106093" volume="80" start="17" page_number="1596" standard_reporter="S.CT." citation_global_level_id="56909.003" line="1" id="106093_2" citation_local_level_id="1" >80 S. Ct. 1596</CITATION>
+
+<NAME start="20" local_name_id="1" end="25" id="106093_8" all_names="S CT" >S. Ct</NAME>
+
+<CITATION alternative_keys="['u.s._363_720', 's.ct._80_1596', 'nopennsylvania#1']" end="52" reporter="L. Ed. 2d" entry_type="standard_key" lookup_key="l.ed.2d_4_1521" id1="106093" volume="4" start="36" page_number="1521" standard_reporter="L.ED.2D" citation_global_level_id="56909.004" line="1" id="106093_3" citation_local_level_id="2" >4 L. Ed. 2d 1521</CITATION>
+
+<CITATION party2="PENNSYLVANIA" party1="AMERICAN LEGION POST NO. 51" citation_global_level_id="56909.001" party2_short="PENNSYLVANIA" line="1" id="106093_4" alternative_keys="['u.s._363_720', 's.ct._80_1596', 'l.ed.2d_4_1521']" end="100" entry_type="party_key" lookup_key="nopennsylvania#1" id1="106093" start="57" party1_short="NO" citation_local_level_id="3" >AMERICAN LEGION POST NO. 51 v. PENNSYLVANIA</CITATION>
+
+<NAME end="84" start="57" party1_of="106093_4" all_names="AMERICAN LEGION POST NO 51" local_name_id="2" id="106093_5" >AMERICAN LEGION POST NO. 51</NAME>
+
+<NAME end="100" start="88" all_names="PENNSYLVANIA" party2_of="106093_4" local_name_id="3" id="106093_6" >PENNSYLVANIA</NAME>
+
+<DATE start="158" end="171" id="106093_7" >June 20, 1960</DATE>
+
+<NAME start="228" local_name_id="4" end="242" id="106093_14" all_names="ANNE X ALPERN" >Anne X. Alpern</NAME>
+
+<PROFESSION start="244" document_level_name_id="4" end="270" id="106093_15" party="ANNE X ALPERN" >Atty. Gen. of Pennsylvania</PROFESSION>
+
+<NAME start="276" local_name_id="5" end="299" id="106093_16" all_names="MR FRANK P LAWLEY JR" >Mr. Frank P. Lawley, Jr</NAME>
+
+<PROFESSION start="302" document_level_name_id="5" end="318" id="106093_17" party="MR FRANK P LAWLEY JR" >Deputy Atty. Gen</PROFESSION>
+
+<LEGAL_ROLE start="325" end="333" id="106093_18" party="party2" >appellee</LEGAL_ROLE>
+
+<NAME start="345" local_name_id="6" end="351" id="106093_21" all_names="CURIAM" >CURIAM</NAME>
+
+<RELATION standard_case_string="363 U.S. 720" X_vs_Y_string="AMERICAN LEGION POST NO. 51 v. PENNSYLVANIA" standard_case="106093_1" X_vs_Y="106093_4" gram_type="pre_nom" relation_type="equivalence" id="106093_10" ></RELATION>
+
+<RELATION standard_case_string="80 S. Ct. 1596" X_vs_Y_string="AMERICAN LEGION POST NO. 51 v. PENNSYLVANIA" standard_case="106093_2" X_vs_Y="106093_4" gram_type="pre_nom" relation_type="equivalence" id="106093_11" ></RELATION>
+
+<RELATION standard_case_string="4 L. Ed. 2d 1521" X_vs_Y_string="AMERICAN LEGION POST NO. 51 v. PENNSYLVANIA" standard_case="106093_3" X_vs_Y="106093_4" gram_type="pre_nom" relation_type="equivalence" id="106093_9" ></RELATION>
+
+<RELATION theme="106093_4" party1="106093_5" party1_string="AMERICAN LEGION POST NO. 51" theme_string="AMERICAN LEGION POST NO. 51 v. PENNSYLVANIA" gram_type="infix" relation_type="asymmetric" id="106093_12" ></RELATION>
+
+<RELATION party2="106093_6" theme="106093_4" theme_string="AMERICAN LEGION POST NO. 51 v. PENNSYLVANIA" party2_string="PENNSYLVANIA" gram_type="infix" relation_type="asymmetric" id="106093_13" ></RELATION>
+
+<RELATION theme="106093_14" profession_string="Atty. Gen. of Pennsylvania" theme_string="Anne X. Alpern" profession="106093_15" gram_type="apposition" relation_type="asymmetric" id="106093_19" ></RELATION>
+
+<RELATION theme="106093_16" profession_string="Deputy Atty. Gen" theme_string="Mr. Frank P. Lawley, Jr" profession="106093_17" gram_type="apposition" relation_type="asymmetric" id="106093_20" ></RELATION>
+

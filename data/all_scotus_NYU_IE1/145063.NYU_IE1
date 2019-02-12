@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['estradawarden#3']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_1065" id1="145054" volume="544" start="0" page_number="1065" standard_reporter="U.S." citation_global_level_id="1056.002" line="1" id="145063_1" citation_local_level_id="0" >544 U.S. 1065</CITATION>
+
+<CITATION party2="HAMLET, WARDEN" party1="ESTRADA" citation_global_level_id="53674.001" party2_short="WARDEN" line="2" id="145063_2" alternative_keys="['u.s._544_1065']" end="43" entry_type="party_key" lookup_key="estradawarden#3" id1="145063" start="18" party1_short="ESTRADA" citation_local_level_id="1" >ESTRADA v. HAMLET, WARDEN</CITATION>
+
+<NAME end="25" start="18" party1_of="145063_2" all_names="ESTRADA" local_name_id="1" id="145063_3" >ESTRADA</NAME>
+
+<NAME end="43" start="29" all_names="HAMLET WARDEN" party2_of="145063_2" local_name_id="2" id="145063_4" >HAMLET, WARDEN</NAME>
+
+<DOCKET end="60" entry_type="docket" lookup_key="estradawarden#3" id1="145063" start="53" citation_global_level_id="53674.001" line="3" id="145063_7" citation_local_level_id="1" >04-9478</DOCKET>
+
+<ORGANIZATION start="66" end="96" id="145063_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="102" citation_global_level_id="53674.001" end="114" id="145063_9" citation_local_level_id="1" >May 31, 2005</DATE>
+
+<NAME start="146" local_name_id="3" end="149" id="145063_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="145063_2" party1="145063_3" party1_string="ESTRADA" theme_string="ESTRADA v. HAMLET, WARDEN" gram_type="infix" relation_type="asymmetric" id="145063_5" ></RELATION>
+
+<RELATION party2="145063_4" theme="145063_2" theme_string="ESTRADA v. HAMLET, WARDEN" party2_string="HAMLET, WARDEN" gram_type="infix" relation_type="asymmetric" id="145063_6" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 1065" X_vs_Y_string="ESTRADA v. HAMLET, WARDEN" standard_case="145063_1" X_vs_Y="145063_2" gram_type="multi_line" relation_type="equivalence" id="145063_10" ></RELATION>
+
+<RELATION at_date_string="May 31, 2005" theme="145063_2" at_date="145063_9" theme_string="ESTRADA v. HAMLET, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="145063_12" ></RELATION>
+
+<RELATION theme="145063_2" includes_docket_string="04-9478" includes_docket="145063_7" theme_string="ESTRADA v. HAMLET, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="145063_11" ></RELATION>
+

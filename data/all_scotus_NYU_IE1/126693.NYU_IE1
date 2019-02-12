@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['alabamamoffitt#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1147" id1="126695" volume="537" start="0" page_number="1147" standard_reporter="U.S." citation_global_level_id="10525.002" line="1" id="126693_1" citation_local_level_id="0" >537 U.S. 1147</CITATION>
+
+<CITATION party2="MOFFITT" party1="ALABAMA" citation_global_level_id="60820.001" party2_short="MOFFITT" line="1" id="126693_3" alternative_keys="['u.s._537_1147']" end="36" entry_type="party_key" lookup_key="alabamamoffitt#1" id1="126693" start="18" party1_short="ALABAMA" citation_local_level_id="1" >ALABAMA v. MOFFITT</CITATION>
+
+<NAME end="25" start="18" party1_of="126693_3" all_names="ALABAMA" local_name_id="1" id="126693_4" >ALABAMA</NAME>
+
+<NAME end="36" start="29" all_names="MOFFITT" party2_of="126693_3" local_name_id="2" id="126693_5" >MOFFITT</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="u.s._537_1147" id1="126695" start="46" citation_global_level_id="10525.002" line="1" id="126693_2" citation_local_level_id="0" >02-327</DOCKET>
+
+<DATE start="94" end="110" id="126693_6" >January 13, 2003</DATE>
+
+<NAME start="201" local_name_id="3" end="204" id="126693_13" all_names="SUP" >Sup</NAME>
+
+<CITATION end="333" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_844_531" id1="Dummy_File_132054" volume="844" start="319" page_number="531" standard_reporter="SO.2D" citation_global_level_id="195904.001" line="3" id="126693_12" citation_local_level_id="2" >844 So. 2d 531</CITATION>
+
+<RELATION theme="126693_1" includes_docket_string="02-327" includes_docket="126693_2" theme_string="537 U.S. 1147" gram_type="apposition" relation_type="asymmetric" id="126693_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1147" X_vs_Y_string="ALABAMA v. MOFFITT" standard_case="126693_1" X_vs_Y="126693_3" gram_type="pre_nom" relation_type="equivalence" id="126693_7" ></RELATION>
+
+<RELATION theme="126693_3" includes_docket_string="02-327" includes_docket="126693_2" theme_string="ALABAMA v. MOFFITT" gram_type="apposition" relation_type="asymmetric" id="126693_10" ></RELATION>
+
+<RELATION theme="126693_3" party1="126693_4" party1_string="ALABAMA" theme_string="ALABAMA v. MOFFITT" gram_type="infix" relation_type="asymmetric" id="126693_8" ></RELATION>
+
+<RELATION party2="126693_5" theme="126693_3" theme_string="ALABAMA v. MOFFITT" party2_string="MOFFITT" gram_type="infix" relation_type="asymmetric" id="126693_9" ></RELATION>
+

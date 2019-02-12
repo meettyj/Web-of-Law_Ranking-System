@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['lordmorgan#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_830" id1="138121" volume="543" start="0" page_number="830" standard_reporter="U.S." citation_global_level_id="254.002" line="1" id="138124_1" citation_local_level_id="0" >543 U.S. 830</CITATION>
+
+<CITATION party2="MORGAN, SUPERINTENDENT, WASHINGTON STATE PENITENTIARY" party1="LORD" citation_global_level_id="254.006" party2_short="MORGAN" line="2" id="138124_2" alternative_keys="['u.s._543_830']" end="78" entry_type="party_key" lookup_key="lordmorgan#1" id1="138121" start="17" party1_short="LORD" citation_local_level_id="1" >LORD v. MORGAN, SUPERINTENDENT, WASHINGTON STATE PENITENTIARY</CITATION>
+
+<NAME end="21" start="17" party1_of="138124_2" all_names="LORD" local_name_id="1" id="138124_3" >LORD</NAME>
+
+<NAME end="78" start="25" all_names="MORGAN SUPERINTENDENT WASHINGTON STATE PENITENTIARY" party2_of="138124_2" local_name_id="2" id="138124_4" >MORGAN, SUPERINTENDENT, WASHINGTON STATE PENITENTIARY</NAME>
+
+<DOCKET alternative_keys="['u.s._543_830']" end="96" entry_type="docket" lookup_key="lordmorgan#1" id1="138121" start="88" citation_global_level_id="254.006" line="3" id="138124_7" citation_local_level_id="1" >03-10304</DOCKET>
+
+<ORGANIZATION start="102" end="132" id="138124_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="138" citation_global_level_id="254.006" end="153" id="138124_9" citation_local_level_id="1" >October 4, 2004</DATE>
+
+<NAME start="185" local_name_id="3" end="188" id="138124_14" all_names="CIR" >Cir</NAME>
+
+<CITATION end="239" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_347_1091" id1="Dummy_File_55429" volume="347" start="225" page_number="1091" standard_reporter="F.3D" citation_global_level_id="119279.001" line="8" id="138124_13" citation_local_level_id="2" >347 F. 3d 1091</CITATION>
+
+<RELATION theme="138124_2" party1="138124_3" party1_string="LORD" theme_string="LORD v. MORGAN, SUPERINTENDENT, WASHINGTON STATE PENITENTIARY" gram_type="infix" relation_type="asymmetric" id="138124_5" ></RELATION>
+
+<RELATION party2="138124_4" theme="138124_2" theme_string="LORD v. MORGAN, SUPERINTENDENT, WASHINGTON STATE PENITENTIARY" party2_string="MORGAN, SUPERINTENDENT, WASHINGTON STATE PENITENTIARY" gram_type="infix" relation_type="asymmetric" id="138124_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 830" X_vs_Y_string="LORD v. MORGAN, SUPERINTENDENT, WASHINGTON STATE PENITENTIARY" standard_case="138124_1" X_vs_Y="138124_2" gram_type="multi_line" relation_type="equivalence" id="138124_10" ></RELATION>
+
+<RELATION at_date_string="October 4, 2004" theme="138124_2" at_date="138124_9" theme_string="LORD v. MORGAN, SUPERINTENDENT, WASHINGTON STATE PENITENTIARY" gram_type="multi_line" relation_type="asymmetric" id="138124_12" ></RELATION>
+
+<RELATION theme="138124_2" includes_docket_string="03-10304" includes_docket="138124_7" theme_string="LORD v. MORGAN, SUPERINTENDENT, WASHINGTON STATE PENITENTIARY" gram_type="multi_line" relation_type="asymmetric" id="138124_11" ></RELATION>
+

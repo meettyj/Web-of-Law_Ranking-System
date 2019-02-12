@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['hancezant#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_920" id1="114431" volume="510" start="0" page_number="920" standard_reporter="U.S." citation_global_level_id="4362.002" line="1" id="114429_1" citation_local_level_id="0" >510 U.S. 920</CITATION>
+
+<CITATION party2="Zant, Warden" party1="Hance" citation_global_level_id="1848.003" party2_short="Zant" line="1" id="114429_3" alternative_keys="['u.s._510_1020']" end="38" entry_type="party_key" lookup_key="hancezant#1" id1="115745" start="17" party1_short="Hance" citation_local_level_id="1" >Hance v. Zant, Warden</CITATION>
+
+<NAME end="22" start="17" party1_of="114429_3" all_names="HANCE" local_name_id="1" id="114429_4" >Hance</NAME>
+
+<NAME end="38" start="26" all_names="ZANT WARDEN" party2_of="114429_3" local_name_id="2" id="114429_5" >Zant, Warden</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._510_920" id1="114431" start="48" citation_global_level_id="4362.002" line="1" id="114429_2" citation_local_level_id="0" >93-5549</DOCKET>
+
+<DATE start="97" end="113" id="114429_6" >October 12, 1993</DATE>
+
+<NAME start="192" local_name_id="3" end="202" id="114429_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="241" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_981_1180" id1="Dummy_File_108401" volume="981" start="227" page_number="1180" standard_reporter="F.2D" citation_global_level_id="172251.001" line="3" id="114429_12" citation_local_level_id="2" >981 F. 2d 1180</CITATION>
+
+<RELATION theme="114429_1" includes_docket_string="93-5549" includes_docket="114429_2" theme_string="510 U.S. 920" gram_type="apposition" relation_type="asymmetric" id="114429_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 920" X_vs_Y_string="Hance v. Zant, Warden" standard_case="114429_1" X_vs_Y="114429_3" gram_type="pre_nom" relation_type="equivalence" id="114429_7" ></RELATION>
+
+<RELATION theme="114429_3" includes_docket_string="93-5549" includes_docket="114429_2" theme_string="Hance v. Zant, Warden" gram_type="apposition" relation_type="asymmetric" id="114429_10" ></RELATION>
+
+<RELATION theme="114429_3" party1="114429_4" party1_string="Hance" theme_string="Hance v. Zant, Warden" gram_type="infix" relation_type="asymmetric" id="114429_8" ></RELATION>
+
+<RELATION party2="114429_5" theme="114429_3" theme_string="Hance v. Zant, Warden" party2_string="Zant, Warden" gram_type="infix" relation_type="asymmetric" id="114429_9" ></RELATION>
+

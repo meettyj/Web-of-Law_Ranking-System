@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['ottkaiser#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1063" id1="120385" volume="535" start="0" page_number="1063" standard_reporter="U.S." citation_global_level_id="172.002" line="1" id="120393_1" citation_local_level_id="0" >535 U.S. 1063</CITATION>
+
+<CITATION party2="KAISER, WARDEN" party1="OTT" citation_global_level_id="172.012" party2_short="KAISER" line="2" id="120393_2" alternative_keys="['u.s._535_1063']" end="39" entry_type="party_key" lookup_key="ottkaiser#1" id1="120385" start="18" party1_short="OTT" citation_local_level_id="1" >OTT v. KAISER, WARDEN</CITATION>
+
+<NAME end="21" start="18" party1_of="120393_2" all_names="OTT" local_name_id="1" id="120393_3" >OTT</NAME>
+
+<NAME end="39" start="25" all_names="KAISER WARDEN" party2_of="120393_2" local_name_id="2" id="120393_4" >KAISER, WARDEN</NAME>
+
+<DOCKET alternative_keys="['u.s._535_1063']" end="56" entry_type="docket" lookup_key="ottkaiser#1" id1="120385" start="49" citation_global_level_id="172.012" line="3" id="120393_7" citation_local_level_id="1" >01-8939</DOCKET>
+
+<DATE start="102" citation_global_level_id="172.012" end="114" id="120393_8" citation_local_level_id="1" >May 13, 2002</DATE>
+
+<NAME start="147" local_name_id="3" end="150" id="120393_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="120393_2" party1="120393_3" party1_string="OTT" theme_string="OTT v. KAISER, WARDEN" gram_type="infix" relation_type="asymmetric" id="120393_5" ></RELATION>
+
+<RELATION party2="120393_4" theme="120393_2" theme_string="OTT v. KAISER, WARDEN" party2_string="KAISER, WARDEN" gram_type="infix" relation_type="asymmetric" id="120393_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1063" X_vs_Y_string="OTT v. KAISER, WARDEN" standard_case="120393_1" X_vs_Y="120393_2" gram_type="multi_line" relation_type="equivalence" id="120393_9" ></RELATION>
+
+<RELATION at_date_string="May 13, 2002" theme="120393_2" at_date="120393_8" theme_string="OTT v. KAISER, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="120393_11" ></RELATION>
+
+<RELATION theme="120393_2" includes_docket_string="01-8939" includes_docket="120393_7" theme_string="OTT v. KAISER, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="120393_10" ></RELATION>
+

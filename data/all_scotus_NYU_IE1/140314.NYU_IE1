@@ -1,0 +1,34 @@
+<CITATION alternative_keys="['nxivminstitute#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1000" id1="140311" volume="543" start="0" page_number="1000" standard_reporter="U.S." citation_global_level_id="12205.002" line="1" id="140314_1" citation_local_level_id="0" >543 U.S. 1000</CITATION>
+
+<CITATION party2="ROSS INSTITUTE ET AL" party1="NXIVM CORP. ET AL." citation_global_level_id="24916.001" party2_short="INSTITUTE" line="2" id="140314_2" alternative_keys="['u.s._543_1000']" end="60" entry_type="party_key" lookup_key="nxivminstitute#1" id1="140314" start="18" party1_short="NXIVM" citation_local_level_id="1" >NXIVM CORP. ET AL. v. ROSS INSTITUTE ET AL</CITATION>
+
+<NAME end="36" start="18" party1_of="140314_2" all_names="NXIVM CORP" local_name_id="1" id="140314_3" >NXIVM CORP. ET AL.</NAME>
+
+<NAME start="18" local_name_id="1" end="35" id="140314_5" all_names="NXIVM CORP" >NXIVM CORP. ET AL</NAME>
+
+<ORGANIZATION start="24" end="28" id="140314_6" >CORP</ORGANIZATION>
+
+<NAME end="60" start="40" all_names="ROSS INSTITUTE" party2_of="140314_2" local_name_id="2" id="140314_4" >ROSS INSTITUTE ET AL</NAME>
+
+<ORGANIZATION start="45" end="54" id="140314_7" >INSTITUTE</ORGANIZATION>
+
+<DOCKET end="76" entry_type="docket" lookup_key="nxivminstitute#1" id1="140314" start="70" citation_global_level_id="24916.001" line="3" id="140314_10" citation_local_level_id="1" >04-233</DOCKET>
+
+<ORGANIZATION start="82" end="112" id="140314_11" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="118" citation_global_level_id="24916.001" end="135" id="140314_12" citation_local_level_id="1" >November 29, 2004</DATE>
+
+<NAME start="166" local_name_id="3" end="169" id="140314_17" all_names="CIR" >Cir</NAME>
+
+<CITATION end="219" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_364_471" id1="Dummy_File_143765" volume="364" start="206" page_number="471" standard_reporter="F.3D" citation_global_level_id="207615.001" line="8" id="140314_16" citation_local_level_id="2" >364 F. 3d 471</CITATION>
+
+<RELATION theme="140314_2" party1="140314_3" party1_string="NXIVM CORP. ET AL." theme_string="NXIVM CORP. ET AL. v. ROSS INSTITUTE ET AL" gram_type="infix" relation_type="asymmetric" id="140314_8" ></RELATION>
+
+<RELATION party2="140314_4" theme="140314_2" theme_string="NXIVM CORP. ET AL. v. ROSS INSTITUTE ET AL" party2_string="ROSS INSTITUTE ET AL" gram_type="infix" relation_type="asymmetric" id="140314_9" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1000" X_vs_Y_string="NXIVM CORP. ET AL. v. ROSS INSTITUTE ET AL" standard_case="140314_1" X_vs_Y="140314_2" gram_type="multi_line" relation_type="equivalence" id="140314_13" ></RELATION>
+
+<RELATION at_date_string="November 29, 2004" theme="140314_2" at_date="140314_12" theme_string="NXIVM CORP. ET AL. v. ROSS INSTITUTE ET AL" gram_type="multi_line" relation_type="asymmetric" id="140314_15" ></RELATION>
+
+<RELATION theme="140314_2" includes_docket_string="04-233" includes_docket="140314_10" theme_string="NXIVM CORP. ET AL. v. ROSS INSTITUTE ET AL" gram_type="multi_line" relation_type="asymmetric" id="140314_14" ></RELATION>
+

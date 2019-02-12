@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['rodriguezgailor#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1178" id1="142645" volume="543" start="0" page_number="1178" standard_reporter="U.S." citation_global_level_id="1385.002" line="1" id="142649_1" citation_local_level_id="0" >543 U.S. 1178</CITATION>
+
+<CITATION party2="GAILOR ET AL" party1="RODRIGUEZ" citation_global_level_id="42480.001" party2_short="GAILOR" line="2" id="142649_2" alternative_keys="['u.s._543_1178']" end="43" entry_type="party_key" lookup_key="rodriguezgailor#2" id1="140060" start="18" party1_short="RODRIGUEZ" citation_local_level_id="1" >RODRIGUEZ v. GAILOR ET AL</CITATION>
+
+<NAME end="27" start="18" party1_of="142649_2" all_names="RODRIGUEZ" local_name_id="1" id="142649_3" >RODRIGUEZ</NAME>
+
+<NAME end="43" start="31" all_names="GAILOR" party2_of="142649_2" local_name_id="2" id="142649_4" >GAILOR ET AL</NAME>
+
+<DOCKET end="60" entry_type="docket" lookup_key="rodriguezgailor#2" id1="140060" start="53" citation_global_level_id="42480.001" line="3" id="142649_7" citation_local_level_id="1" >04-6168</DOCKET>
+
+<ORGANIZATION start="66" end="96" id="142649_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="102" citation_global_level_id="42480.001" end="119" id="142649_9" citation_local_level_id="1" >February 22, 2005</DATE>
+
+<NAME start="141" local_name_id="3" end="150" id="142649_13" all_names="PETITIONS" >Petitions</NAME>
+
+<RELATION theme="142649_2" party1="142649_3" party1_string="RODRIGUEZ" theme_string="RODRIGUEZ v. GAILOR ET AL" gram_type="infix" relation_type="asymmetric" id="142649_5" ></RELATION>
+
+<RELATION party2="142649_4" theme="142649_2" theme_string="RODRIGUEZ v. GAILOR ET AL" party2_string="GAILOR ET AL" gram_type="infix" relation_type="asymmetric" id="142649_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1178" X_vs_Y_string="RODRIGUEZ v. GAILOR ET AL" standard_case="142649_1" X_vs_Y="142649_2" gram_type="multi_line" relation_type="equivalence" id="142649_10" ></RELATION>
+
+<RELATION at_date_string="February 22, 2005" theme="142649_2" at_date="142649_9" theme_string="RODRIGUEZ v. GAILOR ET AL" gram_type="multi_line" relation_type="asymmetric" id="142649_12" ></RELATION>
+
+<RELATION theme="142649_2" includes_docket_string="04-6168" includes_docket="142649_7" theme_string="RODRIGUEZ v. GAILOR ET AL" gram_type="multi_line" relation_type="asymmetric" id="142649_11" ></RELATION>
+

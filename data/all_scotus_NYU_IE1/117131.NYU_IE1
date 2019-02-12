@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['zanderstates#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1137" id1="117132" volume="510" start="0" page_number="1137" standard_reporter="U.S." citation_global_level_id="7686.002" line="1" id="117131_1" citation_local_level_id="0" >510 U.S. 1137</CITATION>
+
+<CITATION party2="United States" party1="Zander" citation_global_level_id="32526.001" party2_short="States" line="1" id="117131_3" alternative_keys="['u.s._510_1137']" end="41" entry_type="party_key" lookup_key="zanderstates#1" id1="117131" start="18" party1_short="Zander" citation_local_level_id="1" >Zander v. United States</CITATION>
+
+<NAME end="24" start="18" party1_of="117131_3" all_names="ZANDER" local_name_id="1" id="117131_4" >Zander</NAME>
+
+<NAME end="41" start="28" all_names="UNITED STATES" party2_of="117131_3" local_name_id="2" id="117131_5" >United States</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._510_1137" id1="117132" start="51" citation_global_level_id="7686.002" line="1" id="117131_2" citation_local_level_id="0" >93-7474</DOCKET>
+
+<DATE start="100" end="117" id="117131_6" >February 22, 1994</DATE>
+
+<NAME start="195" local_name_id="3" end="205" id="117131_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="240" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_8_33" id1="Dummy_File_52996" volume="8" start="230" page_number="33" standard_reporter="F.3D" citation_global_level_id="116846.001" line="3" id="117131_12" citation_local_level_id="2" >8 F. 3d 33</CITATION>
+
+<RELATION theme="117131_1" includes_docket_string="93-7474" includes_docket="117131_2" theme_string="510 U.S. 1137" gram_type="apposition" relation_type="asymmetric" id="117131_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1137" X_vs_Y_string="Zander v. United States" standard_case="117131_1" X_vs_Y="117131_3" gram_type="pre_nom" relation_type="equivalence" id="117131_7" ></RELATION>
+
+<RELATION theme="117131_3" includes_docket_string="93-7474" includes_docket="117131_2" theme_string="Zander v. United States" gram_type="apposition" relation_type="asymmetric" id="117131_10" ></RELATION>
+
+<RELATION theme="117131_3" party1="117131_4" party1_string="Zander" theme_string="Zander v. United States" gram_type="infix" relation_type="asymmetric" id="117131_8" ></RELATION>
+
+<RELATION party2="117131_5" theme="117131_3" theme_string="Zander v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="117131_9" ></RELATION>
+

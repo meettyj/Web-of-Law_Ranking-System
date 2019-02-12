@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['johnsonlouisiana#3']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_909" id1="128008" volume="538" start="0" page_number="909" standard_reporter="U.S." citation_global_level_id="1216.002" line="1" id="128003_1" citation_local_level_id="0" >538 U.S. 909</CITATION>
+
+<CITATION party2="LOUISIANA" party1="JOHNSON" citation_global_level_id="46956.001" party2_short="LOUISIANA" line="1" id="128003_3" alternative_keys="['u.s._538_909']" end="37" entry_type="party_key" lookup_key="johnsonlouisiana#3" id1="108538" start="17" party1_short="JOHNSON" citation_local_level_id="1" >JOHNSON v. LOUISIANA</CITATION>
+
+<NAME end="24" start="17" party1_of="128003_3" all_names="JOHNSON" local_name_id="1" id="128003_4" >JOHNSON</NAME>
+
+<NAME end="37" start="28" all_names="LOUISIANA" party2_of="128003_3" local_name_id="2" id="128003_5" >LOUISIANA</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="u.s._538_909" id1="128008" start="47" citation_global_level_id="1216.002" line="1" id="128003_2" citation_local_level_id="0" >02-6235</DOCKET>
+
+<DATE start="96" end="110" id="128003_6" >March 10, 2003</DATE>
+
+<NAME start="229" local_name_id="3" end="231" id="128003_13" all_names="CT" >Ct</NAME>
+
+<CITATION end="301" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_786_981" id1="Dummy_File_88011" volume="786" start="287" page_number="981" standard_reporter="SO.2D" citation_global_level_id="151861.001" line="3" id="128003_12" citation_local_level_id="2" >786 So. 2d 981</CITATION>
+
+<RELATION theme="128003_1" includes_docket_string="02-6235" includes_docket="128003_2" theme_string="538 U.S. 909" gram_type="apposition" relation_type="asymmetric" id="128003_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 909" X_vs_Y_string="JOHNSON v. LOUISIANA" standard_case="128003_1" X_vs_Y="128003_3" gram_type="pre_nom" relation_type="equivalence" id="128003_7" ></RELATION>
+
+<RELATION theme="128003_3" includes_docket_string="02-6235" includes_docket="128003_2" theme_string="JOHNSON v. LOUISIANA" gram_type="apposition" relation_type="asymmetric" id="128003_10" ></RELATION>
+
+<RELATION theme="128003_3" party1="128003_4" party1_string="JOHNSON" theme_string="JOHNSON v. LOUISIANA" gram_type="infix" relation_type="asymmetric" id="128003_8" ></RELATION>
+
+<RELATION party2="128003_5" theme="128003_3" theme_string="JOHNSON v. LOUISIANA" party2_string="LOUISIANA" gram_type="infix" relation_type="asymmetric" id="128003_9" ></RELATION>
+

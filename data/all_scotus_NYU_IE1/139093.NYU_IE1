@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['lucasdavis#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_903" id1="139096" volume="543" start="0" page_number="903" standard_reporter="U.S." citation_global_level_id="3477.002" line="1" id="139093_1" citation_local_level_id="0" >543 U.S. 903</CITATION>
+
+<CITATION party2="DAVIS, DIRECTOR, TEXAS DEPARTMENT OF PUBLIC SAFETY, ET AL" party1="LUCAS" citation_global_level_id="3477.004" party2_short="DAVIS" line="2" id="139093_2" alternative_keys="['u.s._543_903']" end="83" entry_type="party_key" lookup_key="lucasdavis#1" id1="139096" start="17" party1_short="LUCAS" citation_local_level_id="1" >LUCAS v. DAVIS, DIRECTOR, TEXAS DEPARTMENT OF PUBLIC SAFETY, ET AL</CITATION>
+
+<NAME end="22" start="17" party1_of="139093_2" all_names="LUCAS" local_name_id="1" id="139093_3" >LUCAS</NAME>
+
+<NAME end="83" start="26" all_names="DAVIS DIRECTOR TEXAS DEPARTMENT OF PUBLIC SAFETY" party2_of="139093_2" local_name_id="2" id="139093_4" >DAVIS, DIRECTOR, TEXAS DEPARTMENT OF PUBLIC SAFETY, ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._543_903']" end="100" entry_type="docket" lookup_key="lucasdavis#1" id1="139096" start="93" citation_global_level_id="3477.004" line="3" id="139093_7" citation_local_level_id="1" >04-5494</DOCKET>
+
+<ORGANIZATION start="106" end="136" id="139093_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="142" citation_global_level_id="3477.004" end="157" id="139093_9" citation_local_level_id="1" >October 4, 2004</DATE>
+
+<NAME start="189" local_name_id="3" end="192" id="139093_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="139093_2" party1="139093_3" party1_string="LUCAS" theme_string="LUCAS v. DAVIS, DIRECTOR, TEXAS DEPARTMENT OF PUBLIC SAFETY, ET AL" gram_type="infix" relation_type="asymmetric" id="139093_5" ></RELATION>
+
+<RELATION party2="139093_4" theme="139093_2" theme_string="LUCAS v. DAVIS, DIRECTOR, TEXAS DEPARTMENT OF PUBLIC SAFETY, ET AL" party2_string="DAVIS, DIRECTOR, TEXAS DEPARTMENT OF PUBLIC SAFETY, ET AL" gram_type="infix" relation_type="asymmetric" id="139093_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 903" X_vs_Y_string="LUCAS v. DAVIS, DIRECTOR, TEXAS DEPARTMENT OF PUBLIC SAFETY, ET AL" standard_case="139093_1" X_vs_Y="139093_2" gram_type="multi_line" relation_type="equivalence" id="139093_10" ></RELATION>
+
+<RELATION at_date_string="October 4, 2004" theme="139093_2" at_date="139093_9" theme_string="LUCAS v. DAVIS, DIRECTOR, TEXAS DEPARTMENT OF PUBLIC SAFETY, ET AL" gram_type="multi_line" relation_type="asymmetric" id="139093_12" ></RELATION>
+
+<RELATION theme="139093_2" includes_docket_string="04-5494" includes_docket="139093_7" theme_string="LUCAS v. DAVIS, DIRECTOR, TEXAS DEPARTMENT OF PUBLIC SAFETY, ET AL" gram_type="multi_line" relation_type="asymmetric" id="139093_11" ></RELATION>
+

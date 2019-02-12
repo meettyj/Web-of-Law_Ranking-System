@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['hodgescalifornia#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1057" id1="125498" volume="537" start="0" page_number="1057" standard_reporter="U.S." citation_global_level_id="4406.002" line="1" id="125508_1" citation_local_level_id="0" >537 U.S. 1057</CITATION>
+
+<CITATION party2="CALIFORNIA" party1="HODGES" citation_global_level_id="54455.001" party2_short="CALIFORNIA" line="1" id="125508_3" alternative_keys="['u.s._537_1057']" end="38" entry_type="party_key" lookup_key="hodgescalifornia#1" id1="125508" start="18" party1_short="HODGES" citation_local_level_id="1" >HODGES v. CALIFORNIA</CITATION>
+
+<NAME end="24" start="18" party1_of="125508_3" all_names="HODGES" local_name_id="1" id="125508_4" >HODGES</NAME>
+
+<NAME end="38" start="28" all_names="CALIFORNIA" party2_of="125508_3" local_name_id="2" id="125508_5" >CALIFORNIA</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._537_1057" id1="125498" start="48" citation_global_level_id="4406.002" line="1" id="125508_2" citation_local_level_id="0" >02-6758</DOCKET>
+
+<DATE start="97" end="113" id="125508_6" >December 2, 2002</DATE>
+
+<NAME start="244" local_name_id="3" end="246" id="125508_12" all_names="CT" >Ct</NAME>
+
+<RELATION theme="125508_1" includes_docket_string="02-6758" includes_docket="125508_2" theme_string="537 U.S. 1057" gram_type="apposition" relation_type="asymmetric" id="125508_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1057" X_vs_Y_string="HODGES v. CALIFORNIA" standard_case="125508_1" X_vs_Y="125508_3" gram_type="pre_nom" relation_type="equivalence" id="125508_7" ></RELATION>
+
+<RELATION theme="125508_3" includes_docket_string="02-6758" includes_docket="125508_2" theme_string="HODGES v. CALIFORNIA" gram_type="apposition" relation_type="asymmetric" id="125508_10" ></RELATION>
+
+<RELATION theme="125508_3" party1="125508_4" party1_string="HODGES" theme_string="HODGES v. CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="125508_8" ></RELATION>
+
+<RELATION party2="125508_5" theme="125508_3" theme_string="HODGES v. CALIFORNIA" party2_string="CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="125508_9" ></RELATION>
+

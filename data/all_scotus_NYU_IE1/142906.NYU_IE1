@@ -1,0 +1,44 @@
+<CITATION alternative_keys="['capetillodretke#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_901" id1="142905" volume="544" start="0" page_number="901" standard_reporter="U.S." citation_global_level_id="1367.002" line="1" id="142906_1" citation_local_level_id="0" >544 U.S. 901</CITATION>
+
+<CITATION party2="DRETKE, DIRECTOR, TEXAS DEPARTMENT OF CRIMINAL JUSTICE, CORRECTIONAL INSTITUTIONS DIVISION" party1="CAPETILLO" citation_global_level_id="1367.004" party2_short="DRETKE" line="2" id="142906_2" alternative_keys="['u.s._544_901']" end="120" entry_type="party_key" lookup_key="capetillodretke#1" id1="142905" start="17" party1_short="CAPETILLO" citation_local_level_id="1" >CAPETILLO v. DRETKE, DIRECTOR, TEXAS DEPARTMENT OF CRIMINAL JUSTICE, CORRECTIONAL INSTITUTIONS DIVISION</CITATION>
+
+<NAME end="26" start="17" party1_of="142906_2" all_names="CAPETILLO" local_name_id="1" id="142906_3" >CAPETILLO</NAME>
+
+<NAME end="120" start="30" all_names="DRETKE DIRECTOR TEXAS DEPARTMENT OF CRIMINAL JUSTICE CORRECTIONAL INSTITUTIONS DIVISION" party2_of="142906_2" local_name_id="2" id="142906_4" >DRETKE, DIRECTOR, TEXAS DEPARTMENT OF CRIMINAL JUSTICE, CORRECTIONAL INSTITUTIONS DIVISION</NAME>
+
+<DOCKET alternative_keys="['u.s._544_901']" end="137" entry_type="docket" lookup_key="capetillodretke#1" id1="142905" start="130" citation_global_level_id="1367.004" line="3" id="142906_7" citation_local_level_id="1" >03-8067</DOCKET>
+
+<ORGANIZATION start="143" end="173" id="142906_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="179" citation_global_level_id="1367.004" end="192" id="142906_9" citation_local_level_id="1" >March 7, 2005</DATE>
+
+<NAME start="224" local_name_id="3" end="227" id="142906_18" all_names="CIR" >Cir</NAME>
+
+<CITATION party2="Simmons" party1="Roper" citation_global_level_id="40778.001" party2_short="Simmons" line="8" id="142906_14" alternative_keys="['u.s._543_551']" end="445" entry_type="party_key" lookup_key="ropersimmons#3" id1="128182" start="429" party1_short="Roper" citation_local_level_id="2" >Roper v. Simmons</CITATION>
+
+<NAME end="434" start="429" party1_of="142906_14" all_names="ROPER" local_name_id="4" id="142906_15" >Roper</NAME>
+
+<NAME end="445" start="438" all_names="SIMMONS" party2_of="142906_14" local_name_id="5" id="142906_16" >Simmons</NAME>
+
+<CITATION alternative_keys="['ropersimmons#3']" end="466" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_551" id1="2959732" volume="543" start="447" page_number="551" year="2005" standard_reporter="U.S." citation_global_level_id="2148.003" line="8" id="142906_13" citation_local_level_id="3" >543 U.S. 551 (2005)</CITATION>
+
+<DATE start="461" citation_global_level_id="2148.003" end="465" id="142906_17" citation_local_level_id="3" >2005</DATE>
+
+<RELATION theme="142906_2" party1="142906_3" party1_string="CAPETILLO" theme_string="CAPETILLO v. DRETKE, DIRECTOR, TEXAS DEPARTMENT OF CRIMINAL JUSTICE, CORRECTIONAL INSTITUTIONS DIVISION" gram_type="infix" relation_type="asymmetric" id="142906_5" ></RELATION>
+
+<RELATION party2="142906_4" theme="142906_2" theme_string="CAPETILLO v. DRETKE, DIRECTOR, TEXAS DEPARTMENT OF CRIMINAL JUSTICE, CORRECTIONAL INSTITUTIONS DIVISION" party2_string="DRETKE, DIRECTOR, TEXAS DEPARTMENT OF CRIMINAL JUSTICE, CORRECTIONAL INSTITUTIONS DIVISION" gram_type="infix" relation_type="asymmetric" id="142906_6" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 901" X_vs_Y_string="CAPETILLO v. DRETKE, DIRECTOR, TEXAS DEPARTMENT OF CRIMINAL JUSTICE, CORRECTIONAL INSTITUTIONS DIVISION" standard_case="142906_1" X_vs_Y="142906_2" gram_type="multi_line" relation_type="equivalence" id="142906_10" ></RELATION>
+
+<RELATION at_date_string="March 7, 2005" theme="142906_2" at_date="142906_9" theme_string="CAPETILLO v. DRETKE, DIRECTOR, TEXAS DEPARTMENT OF CRIMINAL JUSTICE, CORRECTIONAL INSTITUTIONS DIVISION" gram_type="multi_line" relation_type="asymmetric" id="142906_12" ></RELATION>
+
+<RELATION theme="142906_2" includes_docket_string="03-8067" includes_docket="142906_7" theme_string="CAPETILLO v. DRETKE, DIRECTOR, TEXAS DEPARTMENT OF CRIMINAL JUSTICE, CORRECTIONAL INSTITUTIONS DIVISION" gram_type="multi_line" relation_type="asymmetric" id="142906_11" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 551 (2005)" X_vs_Y_string="Roper v. Simmons" standard_case="142906_13" X_vs_Y="142906_14" gram_type="apposition" relation_type="equivalence" id="142906_21" ></RELATION>
+
+<RELATION theme="142906_14" party1="142906_15" party1_string="Roper" theme_string="Roper v. Simmons" gram_type="infix" relation_type="asymmetric" id="142906_19" ></RELATION>
+
+<RELATION party2="142906_16" theme="142906_14" theme_string="Roper v. Simmons" party2_string="Simmons" gram_type="infix" relation_type="asymmetric" id="142906_20" ></RELATION>
+
+<RELATION at_date_string="2005" theme="142906_13" at_date="142906_17" theme_string="543 U.S. 551 (2005)" gram_type="infix" relation_type="asymmetric" id="142906_22" ></RELATION>
+

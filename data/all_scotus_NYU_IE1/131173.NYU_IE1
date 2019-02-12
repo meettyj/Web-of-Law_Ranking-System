@@ -1,0 +1,56 @@
+<CITATION alternative_keys="['electronicsgarcia#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_801" id1="131169" volume="540" start="0" page_number="801" standard_reporter="U.S." citation_global_level_id="5985.002" line="1" id="131173_1" citation_local_level_id="0" >540 U.S. 801</CITATION>
+
+<CITATION party2="GARCIA ET AL" party1="HUGHES ELECTRONICS CORP., INC., ET AL." citation_global_level_id="5985.005" party2_short="GARCIA" line="1" id="131173_3" alternative_keys="['u.s._540_801']" end="71" entry_type="party_key" lookup_key="electronicsgarcia#2" id1="131169" start="17" party1_short="ELECTRONICS" citation_local_level_id="1" >HUGHES ELECTRONICS CORP., INC., ET AL. v. GARCIA ET AL</CITATION>
+
+<NAME end="55" start="17" party1_of="131173_3" all_names="HUGHES ELECTRONICS CORP INC" local_name_id="1" id="131173_4" >HUGHES ELECTRONICS CORP., INC., ET AL.</NAME>
+
+<ORGANIZATION start="17" end="46" id="131173_8" >HUGHES ELECTRONICS CORP., INC</ORGANIZATION>
+
+<NAME end="71" start="59" all_names="GARCIA" party2_of="131173_3" local_name_id="2" id="131173_5" >GARCIA ET AL</NAME>
+
+<DOCKET end="88" entry_type="docket" lookup_key="u.s._540_801" id1="131169" start="81" citation_global_level_id="5985.002" line="1" id="131173_2" citation_local_level_id="0" >02-1752</DOCKET>
+
+<DATE start="84" end="88" id="131173_6" >1752</DATE>
+
+<ORGANIZATION start="94" end="124" id="131173_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="130" end="145" id="131173_7" >October 6, 2003</DATE>
+
+<NAME start="167" local_name_id="3" end="185" id="131173_10" all_names="APPEAL FROM THE CT" >Appeal from the Ct</NAME>
+
+<NAME start="187" local_name_id="4" end="190" id="131173_11" all_names="APP" >App</NAME>
+
+<NAME start="237" local_name_id="5" end="247" id="131173_23" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION party2="Bazzle" party1="Green Tree Financial Corp." citation_global_level_id="62261.001" party2_short="Bazzle" line="3" id="131173_19" alternative_keys="['u.s._539_444']" end="367" entry_type="party_key" lookup_key="financialbazzle#3" id1="127952" start="331" party1_short="Financial" citation_local_level_id="2" >Green Tree Financial Corp. v. Bazzle</CITATION>
+
+<NAME end="357" start="331" party1_of="131173_19" all_names="GREEN TREE FINANCIAL CORP" local_name_id="6" id="131173_20" >Green Tree Financial Corp.</NAME>
+
+<ORGANIZATION start="331" end="356" id="131173_24" >Green Tree Financial Corp</ORGANIZATION>
+
+<NAME end="367" start="361" all_names="BAZZLE" party2_of="131173_19" local_name_id="7" id="131173_21" >Bazzle</NAME>
+
+<CITATION alternative_keys="['financialbazzle#3']" end="388" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_444" id1="130157" volume="539" start="369" page_number="444" year="2003" standard_reporter="U.S." citation_global_level_id="45473.002" line="3" id="131173_18" citation_local_level_id="3" >539 U.S. 444 (2003)</CITATION>
+
+<DATE start="383" citation_global_level_id="45473.002" end="387" id="131173_22" citation_local_level_id="3" >2003</DATE>
+
+<RELATION theme="131173_1" includes_docket_string="02-1752" includes_docket="131173_2" theme_string="540 U.S. 801" gram_type="apposition" relation_type="asymmetric" id="131173_16" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 801" X_vs_Y_string="HUGHES ELECTRONICS CORP., INC., ET AL. v. GARCIA ET AL" standard_case="131173_1" X_vs_Y="131173_3" gram_type="pre_nom" relation_type="equivalence" id="131173_12" ></RELATION>
+
+<RELATION theme="131173_3" includes_docket_string="02-1752" includes_docket="131173_2" theme_string="HUGHES ELECTRONICS CORP., INC., ET AL. v. GARCIA ET AL" gram_type="apposition" relation_type="asymmetric" id="131173_15" ></RELATION>
+
+<RELATION theme="131173_3" party1="131173_4" party1_string="HUGHES ELECTRONICS CORP., INC., ET AL." theme_string="HUGHES ELECTRONICS CORP., INC., ET AL. v. GARCIA ET AL" gram_type="infix" relation_type="asymmetric" id="131173_13" ></RELATION>
+
+<RELATION party2="131173_5" theme="131173_3" theme_string="HUGHES ELECTRONICS CORP., INC., ET AL. v. GARCIA ET AL" party2_string="GARCIA ET AL" gram_type="infix" relation_type="asymmetric" id="131173_14" ></RELATION>
+
+<RELATION at_date_string="1752" theme="131173_2" at_date="131173_6" theme_string="02-1752" gram_type="infix" relation_type="asymmetric" id="131173_17" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 444 (2003)" X_vs_Y_string="Green Tree Financial Corp. v. Bazzle" standard_case="131173_18" X_vs_Y="131173_19" gram_type="apposition" relation_type="equivalence" id="131173_27" ></RELATION>
+
+<RELATION theme="131173_19" party1="131173_20" party1_string="Green Tree Financial Corp." theme_string="Green Tree Financial Corp. v. Bazzle" gram_type="infix" relation_type="asymmetric" id="131173_25" ></RELATION>
+
+<RELATION party2="131173_21" theme="131173_19" theme_string="Green Tree Financial Corp. v. Bazzle" party2_string="Bazzle" gram_type="infix" relation_type="asymmetric" id="131173_26" ></RELATION>
+
+<RELATION at_date_string="2003" theme="131173_18" at_date="131173_22" theme_string="539 U.S. 444 (2003)" gram_type="infix" relation_type="asymmetric" id="131173_28" ></RELATION>
+

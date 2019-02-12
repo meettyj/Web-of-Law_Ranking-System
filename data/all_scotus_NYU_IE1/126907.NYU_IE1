@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['incparks#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1168" id1="126912" volume="537" start="0" page_number="1168" standard_reporter="U.S." citation_global_level_id="6183.002" line="1" id="126907_1" citation_local_level_id="0" >537 U.S. 1168</CITATION>
+
+<CITATION party2="PARKS" party1="LOCATING, INC." citation_global_level_id="34430.001" party2_short="PARKS" line="1" id="126907_3" alternative_keys="['u.s._537_1168']" end="41" entry_type="party_key" lookup_key="incparks#1" id1="126907" start="18" party1_short="INC" citation_local_level_id="1" >LOCATING, INC. v. PARKS</CITATION>
+
+<NAME end="32" start="18" party1_of="126907_3" all_names="LOCATING INC" local_name_id="1" id="126907_4" >LOCATING, INC.</NAME>
+
+<ORGANIZATION start="18" end="31" id="126907_7" >LOCATING, INC</ORGANIZATION>
+
+<NAME end="41" start="36" all_names="PARKS" party2_of="126907_3" local_name_id="2" id="126907_5" >PARKS</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._537_1168" id1="126912" start="51" citation_global_level_id="6183.002" line="1" id="126907_2" citation_local_level_id="0" >02-810</DOCKET>
+
+<DATE start="99" end="115" id="126907_6" >January 22, 2003</DATE>
+
+<NAME start="244" local_name_id="3" end="247" id="126907_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="126907_1" includes_docket_string="02-810" includes_docket="126907_2" theme_string="537 U.S. 1168" gram_type="apposition" relation_type="asymmetric" id="126907_12" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1168" X_vs_Y_string="LOCATING, INC. v. PARKS" standard_case="126907_1" X_vs_Y="126907_3" gram_type="pre_nom" relation_type="equivalence" id="126907_8" ></RELATION>
+
+<RELATION theme="126907_3" includes_docket_string="02-810" includes_docket="126907_2" theme_string="LOCATING, INC. v. PARKS" gram_type="apposition" relation_type="asymmetric" id="126907_11" ></RELATION>
+
+<RELATION party2="126907_5" theme="126907_3" theme_string="LOCATING, INC. v. PARKS" party2_string="PARKS" gram_type="infix" relation_type="asymmetric" id="126907_10" ></RELATION>
+
+<RELATION theme="126907_3" party1="126907_4" party1_string="LOCATING, INC." theme_string="LOCATING, INC. v. PARKS" gram_type="infix" relation_type="asymmetric" id="126907_9" ></RELATION>
+

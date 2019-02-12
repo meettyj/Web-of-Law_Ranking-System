@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['denardobarrans#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_928" id1="130501" volume="539" start="0" page_number="928" standard_reporter="U.S." citation_global_level_id="4690.002" line="1" id="130500_1" citation_local_level_id="0" >539 U.S. 928</CITATION>
+
+<CITATION party2="Barrans et al" party1="DeNardo" citation_global_level_id="31783.001" party2_short="Barrans" line="1" id="130500_3" alternative_keys="['u.s._539_928']" end="41" entry_type="party_key" lookup_key="denardobarrans#1" id1="130500" start="17" party1_short="DeNardo" citation_local_level_id="1" >DeNardo v. Barrans et al</CITATION>
+
+<NAME end="24" start="17" party1_of="130500_3" all_names="DENARDO" local_name_id="1" id="130500_4" >DeNardo</NAME>
+
+<NAME end="41" start="28" all_names="BARRANS" party2_of="130500_3" local_name_id="2" id="130500_5" >Barrans et al</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._539_928" id1="130501" start="51" citation_global_level_id="4690.002" line="1" id="130500_2" citation_local_level_id="0" >02-1588</DOCKET>
+
+<DATE start="100" end="113" id="130500_6" >June 16, 2003</DATE>
+
+<NAME start="193" local_name_id="3" end="203" id="130500_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="240" reporter="P. 3d" entry_type="standard_key" no_current_file="True" lookup_key="p.3d_59_266" id1="Dummy_File_226326" volume="59" start="228" page_number="266" standard_reporter="P.3D" citation_global_level_id="290176.001" line="3" id="130500_12" citation_local_level_id="2" >59 P. 3d 266</CITATION>
+
+<RELATION theme="130500_1" includes_docket_string="02-1588" includes_docket="130500_2" theme_string="539 U.S. 928" gram_type="apposition" relation_type="asymmetric" id="130500_11" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 928" X_vs_Y_string="DeNardo v. Barrans et al" standard_case="130500_1" X_vs_Y="130500_3" gram_type="pre_nom" relation_type="equivalence" id="130500_7" ></RELATION>
+
+<RELATION theme="130500_3" includes_docket_string="02-1588" includes_docket="130500_2" theme_string="DeNardo v. Barrans et al" gram_type="apposition" relation_type="asymmetric" id="130500_10" ></RELATION>
+
+<RELATION theme="130500_3" party1="130500_4" party1_string="DeNardo" theme_string="DeNardo v. Barrans et al" gram_type="infix" relation_type="asymmetric" id="130500_8" ></RELATION>
+
+<RELATION party2="130500_5" theme="130500_3" theme_string="DeNardo v. Barrans et al" party2_string="Barrans et al" gram_type="infix" relation_type="asymmetric" id="130500_9" ></RELATION>
+

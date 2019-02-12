@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['fisherpennsylvania#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_906" id1="118566" volume="535" start="0" page_number="906" standard_reporter="U.S." citation_global_level_id="1464.002" line="1" id="118559_1" citation_local_level_id="0" >535 U.S. 906</CITATION>
+
+<CITATION party2="PENNSYLVANIA" party1="FISHER" citation_global_level_id="37581.001" party2_short="PENNSYLVANIA" line="2" id="118559_2" alternative_keys="['u.s._535_906']" end="39" entry_type="party_key" lookup_key="fisherpennsylvania#1" id1="118559" start="17" party1_short="FISHER" citation_local_level_id="1" >FISHER v. PENNSYLVANIA</CITATION>
+
+<NAME end="23" start="17" party1_of="118559_2" all_names="FISHER" local_name_id="1" id="118559_3" >FISHER</NAME>
+
+<NAME end="39" start="27" all_names="PENNSYLVANIA" party2_of="118559_2" local_name_id="2" id="118559_4" >PENNSYLVANIA</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="fisherpennsylvania#1" id1="118559" start="49" citation_global_level_id="37581.001" line="3" id="118559_7" citation_local_level_id="1" >01-7062</DOCKET>
+
+<DATE start="102" citation_global_level_id="37581.001" end="115" id="118559_8" citation_local_level_id="1" >March 4, 2002</DATE>
+
+<NAME start="137" local_name_id="3" end="140" id="118559_13" all_names="SUP" >Sup</NAME>
+
+<CITATION end="212" reporter="A. 2d" entry_type="standard_key" no_current_file="True" lookup_key="a.2d_769_1116" id1="Dummy_File_123921" volume="769" start="198" page_number="1116" standard_reporter="A.2D" citation_global_level_id="187771.001" line="8" id="118559_12" citation_local_level_id="2" >769 A. 2d 1116</CITATION>
+
+<RELATION theme="118559_2" party1="118559_3" party1_string="FISHER" theme_string="FISHER v. PENNSYLVANIA" gram_type="infix" relation_type="asymmetric" id="118559_5" ></RELATION>
+
+<RELATION party2="118559_4" theme="118559_2" theme_string="FISHER v. PENNSYLVANIA" party2_string="PENNSYLVANIA" gram_type="infix" relation_type="asymmetric" id="118559_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 906" X_vs_Y_string="FISHER v. PENNSYLVANIA" standard_case="118559_1" X_vs_Y="118559_2" gram_type="multi_line" relation_type="equivalence" id="118559_9" ></RELATION>
+
+<RELATION at_date_string="March 4, 2002" theme="118559_2" at_date="118559_8" theme_string="FISHER v. PENNSYLVANIA" gram_type="multi_line" relation_type="asymmetric" id="118559_11" ></RELATION>
+
+<RELATION theme="118559_2" includes_docket_string="01-7062" includes_docket="118559_7" theme_string="FISHER v. PENNSYLVANIA" gram_type="multi_line" relation_type="asymmetric" id="118559_10" ></RELATION>
+

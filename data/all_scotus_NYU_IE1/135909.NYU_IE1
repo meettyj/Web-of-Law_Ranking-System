@@ -1,0 +1,40 @@
+<CITATION alternative_keys="['bagleylott#1', 'a._03_879']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_1007" id1="135908" volume="541" start="0" page_number="1007" standard_reporter="U.S." citation_global_level_id="6009.002" line="1" id="135909_1" citation_local_level_id="0" >541 U.S. 1007</CITATION>
+
+<CITATION party2="LOTT" party1="BAGLEY, WARDEN" citation_global_level_id="6009.003" party2_short="LOTT" line="2" id="135909_2" alternative_keys="['a._03_879', 'u.s._541_1007']" end="40" entry_type="party_key" lookup_key="bagleylott#1" id1="135908" start="18" party1_short="BAGLEY" citation_local_level_id="1" >BAGLEY, WARDEN v. LOTT</CITATION>
+
+<NAME end="32" start="18" party1_of="135909_2" all_names="BAGLEY WARDEN" local_name_id="1" id="135909_3" >BAGLEY, WARDEN</NAME>
+
+<PROFESSION start="26" end="32" id="135909_5" >WARDEN</PROFESSION>
+
+<NAME end="40" start="36" all_names="LOTT" party2_of="135909_2" local_name_id="2" id="135909_4" >LOTT</NAME>
+
+<CITATION alternative_keys="['u.s._541_1007', 'bagleylott#1']" end="56" reporter="A" entry_type="standard_key" lookup_key="a._03_879" id1="135909" volume="03" start="50" page_number="879" standard_reporter="A." citation_global_level_id="18900.002" line="3" id="135909_8" citation_local_level_id="2" >03A879</CITATION>
+
+<ORGANIZATION start="62" end="92" id="135909_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="98" citation_global_level_id="6009.003" end="112" id="135909_10" citation_local_level_id="1" >April 23, 2004</DATE>
+
+<NAME start="134" local_name_id="3" end="145" id="135909_15" all_names="APPLICATION" >Application</NAME>
+
+<ORGANIZATION start="214" end="266" id="135909_16" >United States Court of Appeals for the Sixth Circuit</ORGANIZATION>
+
+<DATE start="270" end="284" id="135909_14" >April 22, 2004</DATE>
+
+<PROFESSION start="299" document_level_name_id="4" end="306" id="135909_17" party="STEVENS" >JUSTICE</PROFESSION>
+
+<NAME start="307" local_name_id="4" end="314" id="135909_18" all_names="STEVENS" >STEVENS</NAME>
+
+<ORGANIZATION start="343" end="348" id="135909_19" >Court</ORGANIZATION>
+
+<RELATION theme="135909_2" party1="135909_3" party1_string="BAGLEY, WARDEN" theme_string="BAGLEY, WARDEN v. LOTT" gram_type="infix" relation_type="asymmetric" id="135909_6" ></RELATION>
+
+<RELATION party2="135909_4" theme="135909_2" theme_string="BAGLEY, WARDEN v. LOTT" party2_string="LOTT" gram_type="infix" relation_type="asymmetric" id="135909_7" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 1007" X_vs_Y_string="BAGLEY, WARDEN v. LOTT" standard_case="135909_1" X_vs_Y="135909_2" gram_type="multi_line" relation_type="equivalence" id="135909_11" ></RELATION>
+
+<RELATION at_date_string="April 23, 2004" theme="135909_2" at_date="135909_10" theme_string="BAGLEY, WARDEN v. LOTT" gram_type="multi_line" relation_type="asymmetric" id="135909_13" ></RELATION>
+
+<RELATION standard_case_string="03A879" X_vs_Y_string="BAGLEY, WARDEN v. LOTT" standard_case="135909_8" X_vs_Y="135909_2" gram_type="multi_line" relation_type="equivalence" id="135909_12" ></RELATION>
+
+<RELATION theme="135909_18" profession_string="JUSTICE" theme_string="STEVENS" profession="135909_17" gram_type="pre_nom" relation_type="asymmetric" id="135909_20" ></RELATION>
+

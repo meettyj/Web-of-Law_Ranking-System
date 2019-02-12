@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['dorenbosgalvin#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_998" id1="135789" volume="541" start="0" page_number="998" standard_reporter="U.S." citation_global_level_id="551.002" line="1" id="135783_1" citation_local_level_id="0" >541 U.S. 998</CITATION>
+
+<CITATION party2="GALVIN" party1="DORENBOS" citation_global_level_id="53711.001" party2_short="GALVIN" line="2" id="135783_2" alternative_keys="['u.s._541_998']" end="35" entry_type="party_key" lookup_key="dorenbosgalvin#1" id1="135783" start="17" party1_short="DORENBOS" citation_local_level_id="1" >DORENBOS v. GALVIN</CITATION>
+
+<NAME end="25" start="17" party1_of="135783_2" all_names="DORENBOS" local_name_id="1" id="135783_3" >DORENBOS</NAME>
+
+<NAME end="35" start="29" all_names="GALVIN" party2_of="135783_2" local_name_id="2" id="135783_4" >GALVIN</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="dorenbosgalvin#1" id1="135783" start="45" citation_global_level_id="53711.001" line="3" id="135783_7" citation_local_level_id="1" >03-9135</DOCKET>
+
+<ORGANIZATION start="58" end="88" id="135783_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="94" citation_global_level_id="53711.001" end="108" id="135783_9" citation_local_level_id="1" >April 19, 2004</DATE>
+
+<NAME start="140" local_name_id="3" end="143" id="135783_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="135783_2" party1="135783_3" party1_string="DORENBOS" theme_string="DORENBOS v. GALVIN" gram_type="infix" relation_type="asymmetric" id="135783_5" ></RELATION>
+
+<RELATION party2="135783_4" theme="135783_2" theme_string="DORENBOS v. GALVIN" party2_string="GALVIN" gram_type="infix" relation_type="asymmetric" id="135783_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 998" X_vs_Y_string="DORENBOS v. GALVIN" standard_case="135783_1" X_vs_Y="135783_2" gram_type="multi_line" relation_type="equivalence" id="135783_10" ></RELATION>
+
+<RELATION at_date_string="April 19, 2004" theme="135783_2" at_date="135783_9" theme_string="DORENBOS v. GALVIN" gram_type="multi_line" relation_type="asymmetric" id="135783_12" ></RELATION>
+
+<RELATION theme="135783_2" includes_docket_string="03-9135" includes_docket="135783_7" theme_string="DORENBOS v. GALVIN" gram_type="multi_line" relation_type="asymmetric" id="135783_11" ></RELATION>
+

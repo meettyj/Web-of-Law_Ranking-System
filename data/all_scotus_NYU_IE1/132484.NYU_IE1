@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['phanfinn#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_902" id1="132485" volume="540" start="0" page_number="902" standard_reporter="U.S." citation_global_level_id="1771.002" line="1" id="132484_1" citation_local_level_id="0" >540 U.S. 902</CITATION>
+
+<CITATION party2="FINN, WARDEN" party1="PHAN" citation_global_level_id="1771.004" party2_short="FINN" line="1" id="132484_3" alternative_keys="['u.s._540_902']" end="37" entry_type="party_key" lookup_key="phanfinn#1" id1="132485" start="17" party1_short="PHAN" citation_local_level_id="1" >PHAN v. FINN, WARDEN</CITATION>
+
+<NAME end="21" start="17" party1_of="132484_3" all_names="PHAN" local_name_id="1" id="132484_4" >PHAN</NAME>
+
+<NAME end="37" start="25" all_names="FINN WARDEN" party2_of="132484_3" local_name_id="2" id="132484_5" >FINN, WARDEN</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="u.s._540_902" id1="132485" start="47" citation_global_level_id="1771.002" line="1" id="132484_2" citation_local_level_id="0" >03-5322</DOCKET>
+
+<DATE start="96" end="111" id="132484_6" >October 6, 2003</DATE>
+
+<NAME start="189" local_name_id="3" end="199" id="132484_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="132484_1" includes_docket_string="03-5322" includes_docket="132484_2" theme_string="540 U.S. 902" gram_type="apposition" relation_type="asymmetric" id="132484_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 902" X_vs_Y_string="PHAN v. FINN, WARDEN" standard_case="132484_1" X_vs_Y="132484_3" gram_type="pre_nom" relation_type="equivalence" id="132484_7" ></RELATION>
+
+<RELATION theme="132484_3" includes_docket_string="03-5322" includes_docket="132484_2" theme_string="PHAN v. FINN, WARDEN" gram_type="apposition" relation_type="asymmetric" id="132484_10" ></RELATION>
+
+<RELATION theme="132484_3" party1="132484_4" party1_string="PHAN" theme_string="PHAN v. FINN, WARDEN" gram_type="infix" relation_type="asymmetric" id="132484_8" ></RELATION>
+
+<RELATION party2="132484_5" theme="132484_3" theme_string="PHAN v. FINN, WARDEN" party2_string="FINN, WARDEN" gram_type="infix" relation_type="asymmetric" id="132484_9" ></RELATION>
+

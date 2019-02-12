@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['wolgastboard#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_936" id1="134967" volume="541" start="0" page_number="936" standard_reporter="U.S." citation_global_level_id="2471.002" line="1" id="134970_1" citation_local_level_id="0" >541 U.S. 936</CITATION>
+
+<CITATION party2="NATIONAL LABOR RELATIONS BOARD" party1="WOLGAST CORP." citation_global_level_id="2544.001" party2_short="BOARD" line="2" id="134970_2" alternative_keys="['u.s._541_936']" end="64" entry_type="party_key" lookup_key="wolgastboard#1" id1="134970" start="17" party1_short="WOLGAST" citation_local_level_id="1" >WOLGAST CORP. v. NATIONAL LABOR RELATIONS BOARD</CITATION>
+
+<NAME end="30" start="17" party1_of="134970_2" all_names="WOLGAST CORP" local_name_id="1" id="134970_3" >WOLGAST CORP.</NAME>
+
+<ORGANIZATION start="17" end="29" id="134970_5" >WOLGAST CORP</ORGANIZATION>
+
+<NAME end="64" start="34" all_names="NATIONAL LABOR RELATIONS BOARD" party2_of="134970_2" local_name_id="2" id="134970_4" >NATIONAL LABOR RELATIONS BOARD</NAME>
+
+<DOCKET end="80" entry_type="docket" lookup_key="wolgastboard#1" id1="134970" start="74" citation_global_level_id="2544.001" line="3" id="134970_8" citation_local_level_id="1" >03-883</DOCKET>
+
+<ORGANIZATION start="86" end="116" id="134970_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="122" citation_global_level_id="2544.001" end="136" id="134970_10" citation_local_level_id="1" >March 22, 2004</DATE>
+
+<NAME start="168" local_name_id="3" end="171" id="134970_15" all_names="CIR" >Cir</NAME>
+
+<CITATION end="221" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_349_250" id1="Dummy_File_72752" volume="349" start="208" page_number="250" standard_reporter="F.3D" citation_global_level_id="136602.001" line="8" id="134970_14" citation_local_level_id="2" >349 F. 3d 250</CITATION>
+
+<RELATION theme="134970_2" party1="134970_3" party1_string="WOLGAST CORP." theme_string="WOLGAST CORP. v. NATIONAL LABOR RELATIONS BOARD" gram_type="infix" relation_type="asymmetric" id="134970_6" ></RELATION>
+
+<RELATION party2="134970_4" theme="134970_2" theme_string="WOLGAST CORP. v. NATIONAL LABOR RELATIONS BOARD" party2_string="NATIONAL LABOR RELATIONS BOARD" gram_type="infix" relation_type="asymmetric" id="134970_7" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 936" X_vs_Y_string="WOLGAST CORP. v. NATIONAL LABOR RELATIONS BOARD" standard_case="134970_1" X_vs_Y="134970_2" gram_type="multi_line" relation_type="equivalence" id="134970_11" ></RELATION>
+
+<RELATION at_date_string="March 22, 2004" theme="134970_2" at_date="134970_10" theme_string="WOLGAST CORP. v. NATIONAL LABOR RELATIONS BOARD" gram_type="multi_line" relation_type="asymmetric" id="134970_13" ></RELATION>
+
+<RELATION theme="134970_2" includes_docket_string="03-883" includes_docket="134970_8" theme_string="WOLGAST CORP. v. NATIONAL LABOR RELATIONS BOARD" gram_type="multi_line" relation_type="asymmetric" id="134970_12" ></RELATION>
+

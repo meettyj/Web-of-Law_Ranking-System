@@ -1,0 +1,42 @@
+<CITATION alternative_keys="['fordjourcalifornia#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1014" id1="119846" volume="535" start="0" page_number="1014" standard_reporter="U.S." citation_global_level_id="19676.002" line="1" id="119845_1" citation_local_level_id="0" >535 U.S. 1014</CITATION>
+
+<CITATION party2="CALIFORNIA" party1="FORDJOUR" citation_global_level_id="26073.001" party2_short="CALIFORNIA" line="2" id="119845_2" alternative_keys="['u.s._535_1014']" end="40" entry_type="party_key" lookup_key="fordjourcalifornia#1" id1="119845" start="18" party1_short="FORDJOUR" citation_local_level_id="1" >FORDJOUR v. CALIFORNIA</CITATION>
+
+<NAME end="26" start="18" party1_of="119845_2" all_names="FORDJOUR" local_name_id="1" id="119845_3" >FORDJOUR</NAME>
+
+<NAME end="40" start="30" all_names="CALIFORNIA" party2_of="119845_2" local_name_id="2" id="119845_4" >CALIFORNIA</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="fordjourcalifornia#1" id1="119845" start="50" citation_global_level_id="26073.001" line="3" id="119845_7" citation_local_level_id="1" >01-8496</DOCKET>
+
+<DATE start="103" citation_global_level_id="26073.001" end="117" id="119845_8" citation_local_level_id="1" >April 22, 2002</DATE>
+
+<NAME start="139" local_name_id="3" end="142" id="119845_17" all_names="SUP" >Sup</NAME>
+
+<CITATION party2="District of Columbia Court of Appeals" party1="Martin" citation_global_level_id="51848.001" party2_short="District" line="8" id="119845_13" alternative_keys="['u.s._506_1']" end="597" entry_type="party_key" lookup_key="martindistrict#2" id1="112790" start="550" party1_short="Martin" citation_local_level_id="2" >Martin v. District of Columbia Court of Appeals</CITATION>
+
+<NAME end="556" start="550" party1_of="119845_13" all_names="MARTIN" local_name_id="4" id="119845_14" >Martin</NAME>
+
+<NAME end="597" start="560" all_names="DISTRICT OF COLUMBIA COURT OF APPEALS" party2_of="119845_13" local_name_id="5" id="119845_15" >District of Columbia Court of Appeals</NAME>
+
+<CITATION alternative_keys="['martindistrict#2']" end="616" reporter="U.S." entry_type="standard_key" lookup_key="u.s._506_1" id1="112790" volume="506" start="599" page_number="1" year="1992" standard_reporter="U.S." citation_global_level_id="51848.002" line="8" id="119845_12" citation_local_level_id="3" >506 U.S. 1 (1992)</CITATION>
+
+<DATE start="611" citation_global_level_id="51848.002" end="615" id="119845_16" citation_local_level_id="3" >1992</DATE>
+
+<RELATION theme="119845_2" party1="119845_3" party1_string="FORDJOUR" theme_string="FORDJOUR v. CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="119845_5" ></RELATION>
+
+<RELATION party2="119845_4" theme="119845_2" theme_string="FORDJOUR v. CALIFORNIA" party2_string="CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="119845_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1014" X_vs_Y_string="FORDJOUR v. CALIFORNIA" standard_case="119845_1" X_vs_Y="119845_2" gram_type="multi_line" relation_type="equivalence" id="119845_9" ></RELATION>
+
+<RELATION at_date_string="April 22, 2002" theme="119845_2" at_date="119845_8" theme_string="FORDJOUR v. CALIFORNIA" gram_type="multi_line" relation_type="asymmetric" id="119845_11" ></RELATION>
+
+<RELATION theme="119845_2" includes_docket_string="01-8496" includes_docket="119845_7" theme_string="FORDJOUR v. CALIFORNIA" gram_type="multi_line" relation_type="asymmetric" id="119845_10" ></RELATION>
+
+<RELATION standard_case_string="506 U.S. 1 (1992)" X_vs_Y_string="Martin v. District of Columbia Court of Appeals" standard_case="119845_12" X_vs_Y="119845_13" gram_type="apposition" relation_type="equivalence" id="119845_20" ></RELATION>
+
+<RELATION theme="119845_13" party1="119845_14" party1_string="Martin" theme_string="Martin v. District of Columbia Court of Appeals" gram_type="infix" relation_type="asymmetric" id="119845_18" ></RELATION>
+
+<RELATION party2="119845_15" theme="119845_13" theme_string="Martin v. District of Columbia Court of Appeals" party2_string="District of Columbia Court of Appeals" gram_type="infix" relation_type="asymmetric" id="119845_19" ></RELATION>
+
+<RELATION at_date_string="1992" theme="119845_12" at_date="119845_16" theme_string="506 U.S. 1 (1992)" gram_type="infix" relation_type="asymmetric" id="119845_21" ></RELATION>
+

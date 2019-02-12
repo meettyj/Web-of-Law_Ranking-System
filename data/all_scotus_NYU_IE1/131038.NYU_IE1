@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['mcconnellcommission#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_979" id1="131046" volume="539" start="0" page_number="979" standard_reporter="U.S." citation_global_level_id="9131.002" line="1" id="131038_1" citation_local_level_id="0" >539 U.S. 979</CITATION>
+
+<CITATION party2="Federal Election Commission et al" party1="McConnell, United States Senator, et al." citation_global_level_id="32558.009" party2_short="Commission" line="2" id="131038_2" alternative_keys="['u.s._540_93']" end="94" entry_type="party_key" lookup_key="mcconnellcommission#1" id1="145630" start="17" party1_short="McConnell" citation_local_level_id="1" >McConnell, United States Senator, et al. v. Federal Election Commission et al</CITATION>
+
+<NAME end="57" start="17" party1_of="131038_2" all_names="MCCONNELL UNITED STATES SENATOR" local_name_id="1" id="131038_3" >McConnell, United States Senator, et al.</NAME>
+
+<PROFESSION start="28" end="49" id="131038_5" >United States Senator</PROFESSION>
+
+<NAME end="94" start="61" all_names="FEDERAL ELECTION COMMISSION" party2_of="131038_2" local_name_id="2" id="131038_4" >Federal Election Commission et al</NAME>
+
+<ORGANIZATION start="61" end="88" id="131038_6" >Federal Election Commission</ORGANIZATION>
+
+<DOCKET alternative_keys="['u.s._540_93']" end="111" entry_type="docket" lookup_key="mcconnellcommission#1" id1="145630" start="104" citation_global_level_id="32558.009" line="3" id="131038_9" citation_local_level_id="1" >02-1674</DOCKET>
+
+<ORGANIZATION start="117" end="147" id="131038_10" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="153" citation_global_level_id="32558.009" end="168" id="131038_11" citation_local_level_id="1" >August 19, 2003</DATE>
+
+<ORGANIZATION start="190" end="254" id="131038_16" >Motion of the National Rifle Association and the Paul plaintiffs</ORGANIZATION>
+
+<DATE start="282" end="296" id="131038_15" >August 4, 2003</DATE>
+
+<RELATION theme="131038_2" party1="131038_3" party1_string="McConnell, United States Senator, et al." theme_string="McConnell, United States Senator, et al. v. Federal Election Commission et al" gram_type="infix" relation_type="asymmetric" id="131038_7" ></RELATION>
+
+<RELATION party2="131038_4" theme="131038_2" theme_string="McConnell, United States Senator, et al. v. Federal Election Commission et al" party2_string="Federal Election Commission et al" gram_type="infix" relation_type="asymmetric" id="131038_8" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 979" X_vs_Y_string="McConnell, United States Senator, et al. v. Federal Election Commission et al" standard_case="131038_1" X_vs_Y="131038_2" gram_type="multi_line" relation_type="equivalence" id="131038_12" ></RELATION>
+
+<RELATION at_date_string="August 19, 2003" theme="131038_2" at_date="131038_11" theme_string="McConnell, United States Senator, et al. v. Federal Election Commission et al" gram_type="multi_line" relation_type="asymmetric" id="131038_14" ></RELATION>
+
+<RELATION theme="131038_2" includes_docket_string="02-1674" includes_docket="131038_9" theme_string="McConnell, United States Senator, et al. v. Federal Election Commission et al" gram_type="multi_line" relation_type="asymmetric" id="131038_13" ></RELATION>
+

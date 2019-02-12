@@ -1,0 +1,42 @@
+<CITATION alternative_keys="['gallostates#2', 'floresstates#8']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._542_906" id1="137062" volume="542" start="0" page_number="906" standard_reporter="U.S." citation_global_level_id="638.002" line="1" id="137067_1" citation_local_level_id="0" >542 U.S. 906</CITATION>
+
+<CITATION party2="UNITED STATES" party1="AGUILERA-DE FLORES" citation_global_level_id="11439.001" party2_short="STATES" line="2" id="137067_2" alternative_keys="['u.s._542_906', 'gallostates#2']" end="52" entry_type="party_key" lookup_key="floresstates#8" id1="113135" start="17" party1_short="FLORES" citation_local_level_id="1" >AGUILERA-DE FLORES v. UNITED STATES</CITATION>
+
+<NAME end="35" start="17" party1_of="137067_2" all_names="AGUILERA-DE FLORES" local_name_id="1" id="137067_4" >AGUILERA-DE FLORES</NAME>
+
+<NAME end="52" start="39" all_names="UNITED STATES" party2_of="137067_2" local_name_id="2" id="137067_5" >UNITED STATES</NAME>
+
+<CITATION party2="UNITED STATES" party1="JALOMO-GALLO" citation_global_level_id="63257.001" party2_short="STATES" line="2" id="137067_3" alternative_keys="['u.s._542_906', 'floresstates#8']" end="87" entry_type="party_key" lookup_key="gallostates#2" id1="122455" start="58" party1_short="GALLO" citation_local_level_id="2" >JALOMO-GALLO v. UNITED STATES</CITATION>
+
+<NAME end="70" start="58" party1_of="137067_3" all_names="JALOMO-GALLO" local_name_id="3" id="137067_6" >JALOMO-GALLO</NAME>
+
+<NAME end="87" start="74" all_names="UNITED STATES" party2_of="137067_3" local_name_id="2" id="137067_7" >UNITED STATES</NAME>
+
+<DOCKET end="104" entry_type="docket" lookup_key="floresstates#8" id1="113135" start="97" citation_global_level_id="11439.001" line="3" id="137067_12" citation_local_level_id="1" >03-9351</DOCKET>
+
+<ORGANIZATION start="110" end="140" id="137067_13" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="146" citation_global_level_id="11439.001" end="159" id="137067_14" citation_local_level_id="1" >June 14, 2004</DATE>
+
+<NAME start="191" local_name_id="4" end="194" id="137067_21" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="137067_2" party1="137067_4" party1_string="AGUILERA-DE FLORES" theme_string="AGUILERA-DE FLORES v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="137067_8" ></RELATION>
+
+<RELATION party2="137067_5" theme="137067_2" theme_string="AGUILERA-DE FLORES v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="137067_9" ></RELATION>
+
+<RELATION theme="137067_3" party1="137067_6" party1_string="JALOMO-GALLO" theme_string="JALOMO-GALLO v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="137067_10" ></RELATION>
+
+<RELATION party2="137067_7" theme="137067_3" theme_string="JALOMO-GALLO v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="137067_11" ></RELATION>
+
+<RELATION standard_case_string="542 U.S. 906" X_vs_Y_string="JALOMO-GALLO v. UNITED STATES" standard_case="137067_1" X_vs_Y="137067_3" gram_type="multi_line" relation_type="equivalence" id="137067_18" ></RELATION>
+
+<RELATION standard_case_string="542 U.S. 906" X_vs_Y_string="AGUILERA-DE FLORES v. UNITED STATES" standard_case="137067_1" X_vs_Y="137067_2" gram_type="multi_line" relation_type="equivalence" id="137067_15" ></RELATION>
+
+<RELATION at_date_string="June 14, 2004" theme="137067_2" at_date="137067_14" theme_string="AGUILERA-DE FLORES v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="137067_17" ></RELATION>
+
+<RELATION theme="137067_2" includes_docket_string="03-9351" includes_docket="137067_12" theme_string="AGUILERA-DE FLORES v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="137067_16" ></RELATION>
+
+<RELATION at_date_string="June 14, 2004" theme="137067_3" at_date="137067_14" theme_string="JALOMO-GALLO v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="137067_20" ></RELATION>
+
+<RELATION theme="137067_3" includes_docket_string="03-9351" includes_docket="137067_12" theme_string="JALOMO-GALLO v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="137067_19" ></RELATION>
+

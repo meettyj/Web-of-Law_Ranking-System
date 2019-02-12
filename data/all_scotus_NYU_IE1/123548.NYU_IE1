@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['fostertexas#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_901" id1="123549" volume="537" start="0" page_number="901" standard_reporter="U.S." citation_global_level_id="3552.002" line="1" id="123548_1" citation_local_level_id="0" >537 U.S. 901</CITATION>
+
+<CITATION party2="TEXAS" party1="FOSTER" citation_global_level_id="51494.001" party2_short="TEXAS" line="1" id="123548_3" alternative_keys="['u.s._537_901']" end="32" entry_type="party_key" lookup_key="fostertexas#1" id1="123548" start="17" party1_short="FOSTER" citation_local_level_id="1" >FOSTER v. TEXAS</CITATION>
+
+<NAME end="23" start="17" party1_of="123548_3" all_names="FOSTER" local_name_id="1" id="123548_4" >FOSTER</NAME>
+
+<NAME end="32" start="27" all_names="TEXAS" party2_of="123548_3" local_name_id="2" id="123548_5" >TEXAS</NAME>
+
+<DOCKET end="49" entry_type="docket" lookup_key="u.s._537_901" id1="123549" start="42" citation_global_level_id="3552.002" line="1" id="123548_2" citation_local_level_id="0" >02-5202</DOCKET>
+
+<DATE start="91" end="106" id="123548_6" >October 7, 2002</DATE>
+
+<NAME start="207" local_name_id="3" end="209" id="123548_12" all_names="CT" >Ct</NAME>
+
+<RELATION theme="123548_1" includes_docket_string="02-5202" includes_docket="123548_2" theme_string="537 U.S. 901" gram_type="apposition" relation_type="asymmetric" id="123548_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 901" X_vs_Y_string="FOSTER v. TEXAS" standard_case="123548_1" X_vs_Y="123548_3" gram_type="pre_nom" relation_type="equivalence" id="123548_7" ></RELATION>
+
+<RELATION theme="123548_3" includes_docket_string="02-5202" includes_docket="123548_2" theme_string="FOSTER v. TEXAS" gram_type="apposition" relation_type="asymmetric" id="123548_10" ></RELATION>
+
+<RELATION theme="123548_3" party1="123548_4" party1_string="FOSTER" theme_string="FOSTER v. TEXAS" gram_type="infix" relation_type="asymmetric" id="123548_8" ></RELATION>
+
+<RELATION party2="123548_5" theme="123548_3" theme_string="FOSTER v. TEXAS" party2_string="TEXAS" gram_type="infix" relation_type="asymmetric" id="123548_9" ></RELATION>
+

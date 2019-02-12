@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['developmentsfsb#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_945" id1="114733" volume="510" start="0" page_number="945" standard_reporter="U.S." citation_global_level_id="10281.002" line="1" id="114724_1" citation_local_level_id="0" >510 U.S. 945</CITATION>
+
+<CITATION party2="First Gibraltar Bank, FSB" party1="Lake Forest Developments" citation_global_level_id="10281.007" party2_short="FSB" line="1" id="114724_3" alternative_keys="['u.s._510_945']" end="70" entry_type="party_key" lookup_key="developmentsfsb#1" id1="114733" start="17" party1_short="Developments" citation_local_level_id="1" >Lake Forest Developments v. First Gibraltar Bank, FSB</CITATION>
+
+<NAME end="41" start="17" party1_of="114724_3" all_names="LAKE FOREST DEVELOPMENTS" local_name_id="1" id="114724_4" >Lake Forest Developments</NAME>
+
+<NAME end="70" start="45" all_names="FIRST GIBRALTAR BANK FSB" party2_of="114724_3" local_name_id="2" id="114724_5" >First Gibraltar Bank, FSB</NAME>
+
+<DOCKET end="86" entry_type="docket" lookup_key="u.s._510_945" id1="114733" start="80" citation_global_level_id="10281.002" line="1" id="114724_2" citation_local_level_id="0" >93-338</DOCKET>
+
+<DATE start="128" end="144" id="114724_6" >November 1, 1993</DATE>
+
+<NAME start="222" local_name_id="3" end="232" id="114724_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="270" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_989_197" id1="Dummy_File_140539" volume="989" start="257" page_number="197" standard_reporter="F.2D" citation_global_level_id="204389.001" line="3" id="114724_12" citation_local_level_id="2" >989 F. 2d 197</CITATION>
+
+<RELATION theme="114724_1" includes_docket_string="93-338" includes_docket="114724_2" theme_string="510 U.S. 945" gram_type="apposition" relation_type="asymmetric" id="114724_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 945" X_vs_Y_string="Lake Forest Developments v. First Gibraltar Bank, FSB" standard_case="114724_1" X_vs_Y="114724_3" gram_type="pre_nom" relation_type="equivalence" id="114724_7" ></RELATION>
+
+<RELATION theme="114724_3" includes_docket_string="93-338" includes_docket="114724_2" theme_string="Lake Forest Developments v. First Gibraltar Bank, FSB" gram_type="apposition" relation_type="asymmetric" id="114724_10" ></RELATION>
+
+<RELATION theme="114724_3" party1="114724_4" party1_string="Lake Forest Developments" theme_string="Lake Forest Developments v. First Gibraltar Bank, FSB" gram_type="infix" relation_type="asymmetric" id="114724_8" ></RELATION>
+
+<RELATION party2="114724_5" theme="114724_3" theme_string="Lake Forest Developments v. First Gibraltar Bank, FSB" party2_string="First Gibraltar Bank, FSB" gram_type="infix" relation_type="asymmetric" id="114724_9" ></RELATION>
+

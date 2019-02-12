@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['williamsjones#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_977" id1="124532" volume="537" start="0" page_number="977" standard_reporter="U.S." citation_global_level_id="810.002" line="1" id="124536_1" citation_local_level_id="0" >537 U.S. 977</CITATION>
+
+<CITATION party2="JONES, WARDEN" party1="WILLIAMS" citation_global_level_id="810.007" party2_short="JONES" line="1" id="124536_3" alternative_keys="['u.s._544_965', 'u.s._537_977']" end="42" no_current_file="True" entry_type="party_key" lookup_key="williamsjones#1" id1="124532" start="17" party1_short="WILLIAMS" citation_local_level_id="1" >WILLIAMS v. JONES, WARDEN</CITATION>
+
+<NAME end="25" start="17" party1_of="124536_3" all_names="WILLIAMS" local_name_id="1" id="124536_4" >WILLIAMS</NAME>
+
+<NAME end="42" start="29" all_names="JONES WARDEN" party2_of="124536_3" local_name_id="2" id="124536_5" >JONES, WARDEN</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="u.s._537_977" id1="124532" start="52" citation_global_level_id="810.002" line="1" id="124536_2" citation_local_level_id="0" >02-5909</DOCKET>
+
+<DATE start="101" end="117" id="124536_6" >October 21, 2002</DATE>
+
+<NAME start="246" local_name_id="3" end="249" id="124536_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="124536_1" includes_docket_string="02-5909" includes_docket="124536_2" theme_string="537 U.S. 977" gram_type="apposition" relation_type="asymmetric" id="124536_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 977" X_vs_Y_string="WILLIAMS v. JONES, WARDEN" standard_case="124536_1" X_vs_Y="124536_3" gram_type="pre_nom" relation_type="equivalence" id="124536_7" ></RELATION>
+
+<RELATION theme="124536_3" includes_docket_string="02-5909" includes_docket="124536_2" theme_string="WILLIAMS v. JONES, WARDEN" gram_type="apposition" relation_type="asymmetric" id="124536_10" ></RELATION>
+
+<RELATION theme="124536_3" party1="124536_4" party1_string="WILLIAMS" theme_string="WILLIAMS v. JONES, WARDEN" gram_type="infix" relation_type="asymmetric" id="124536_8" ></RELATION>
+
+<RELATION party2="124536_5" theme="124536_3" theme_string="WILLIAMS v. JONES, WARDEN" party2_string="JONES, WARDEN" gram_type="infix" relation_type="asymmetric" id="124536_9" ></RELATION>
+

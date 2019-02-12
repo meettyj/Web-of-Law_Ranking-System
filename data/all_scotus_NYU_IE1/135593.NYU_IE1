@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['kendrickstates#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_983" id1="135588" volume="541" start="0" page_number="983" standard_reporter="U.S." citation_global_level_id="334.002" line="1" id="135593_1" citation_local_level_id="0" >541 U.S. 983</CITATION>
+
+<CITATION party2="UNITED STATES" party1="KENDRICK" citation_global_level_id="2841.001" party2_short="STATES" line="2" id="135593_2" alternative_keys="['u.s._541_983']" end="42" entry_type="party_key" lookup_key="kendrickstates#1" id1="135593" start="17" party1_short="KENDRICK" citation_local_level_id="1" >KENDRICK v. UNITED STATES</CITATION>
+
+<NAME end="25" start="17" party1_of="135593_2" all_names="KENDRICK" local_name_id="1" id="135593_3" >KENDRICK</NAME>
+
+<NAME end="42" start="29" all_names="UNITED STATES" party2_of="135593_2" local_name_id="2" id="135593_4" >UNITED STATES</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="kendrickstates#1" id1="135593" start="52" citation_global_level_id="2841.001" line="3" id="135593_7" citation_local_level_id="1" >03-7627</DOCKET>
+
+<ORGANIZATION start="65" end="95" id="135593_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="101" citation_global_level_id="2841.001" end="114" id="135593_9" citation_local_level_id="1" >April 5, 2004</DATE>
+
+<CITATION end="149" reporter="U.S." entry_type="standard_key" no_current_file="True" lookup_key="u.s._540_1133" id1="Dummy_File_80259" volume="540" start="136" page_number="1133" standard_reporter="U.S." citation_global_level_id="144109.001" line="8" id="135593_13" citation_local_level_id="2" >540 U.S. 1133</CITATION>
+
+<NAME start="151" local_name_id="3" end="160" id="135593_14" all_names="PETITIONS" >Petitions</NAME>
+
+<RELATION theme="135593_2" party1="135593_3" party1_string="KENDRICK" theme_string="KENDRICK v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="135593_5" ></RELATION>
+
+<RELATION party2="135593_4" theme="135593_2" theme_string="KENDRICK v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="135593_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 983" X_vs_Y_string="KENDRICK v. UNITED STATES" standard_case="135593_1" X_vs_Y="135593_2" gram_type="multi_line" relation_type="equivalence" id="135593_10" ></RELATION>
+
+<RELATION at_date_string="April 5, 2004" theme="135593_2" at_date="135593_9" theme_string="KENDRICK v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="135593_12" ></RELATION>
+
+<RELATION theme="135593_2" includes_docket_string="03-7627" includes_docket="135593_7" theme_string="KENDRICK v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="135593_11" ></RELATION>
+

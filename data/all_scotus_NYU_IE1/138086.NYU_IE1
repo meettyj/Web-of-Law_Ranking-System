@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['senatorvaladez#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_827" id1="138088" volume="543" start="0" page_number="827" standard_reporter="U.S." citation_global_level_id="760.002" line="3" id="138086_2" citation_local_level_id="0" >543 U.S. 827</CITATION>
+
+<CITATION party2="VALADEZ, WARDEN" party1="SENATOR" citation_global_level_id="760.01" party2_short="VALADEZ" line="3" id="138086_4" alternative_keys="['u.s._543_827']" end="43" entry_type="party_key" lookup_key="senatorvaladez#1" id1="138088" start="17" party1_short="SENATOR" citation_local_level_id="1" >SENATOR v. VALADEZ, WARDEN</CITATION>
+
+<NAME end="24" start="17" party1_of="138086_4" all_names="SENATOR" local_name_id="1" id="138086_5" >SENATOR</NAME>
+
+<NAME end="43" start="28" all_names="VALADEZ WARDEN" party2_of="138086_4" local_name_id="2" id="138086_6" >VALADEZ, WARDEN</NAME>
+
+<DOCKET end="61" entry_type="docket" lookup_key="u.s._543_827" id1="138088" start="53" citation_global_level_id="760.002" line="3" id="138086_3" citation_local_level_id="0" >03-10184</DOCKET>
+
+<DATE start="103" end="118" id="138086_12" >October 4, 2004</DATE>
+
+<NAME start="150" local_name_id="3" end="153" id="138086_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="138086_2" includes_docket_string="03-10184" includes_docket="138086_3" theme_string="543 U.S. 827" gram_type="apposition" relation_type="asymmetric" id="138086_11" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 827" X_vs_Y_string="SENATOR v. VALADEZ, WARDEN" standard_case="138086_2" X_vs_Y="138086_4" gram_type="pre_nom" relation_type="equivalence" id="138086_7" ></RELATION>
+
+<RELATION theme="138086_4" includes_docket_string="03-10184" includes_docket="138086_3" theme_string="SENATOR v. VALADEZ, WARDEN" gram_type="apposition" relation_type="asymmetric" id="138086_10" ></RELATION>
+
+<RELATION theme="138086_4" party1="138086_5" party1_string="SENATOR" theme_string="SENATOR v. VALADEZ, WARDEN" gram_type="infix" relation_type="asymmetric" id="138086_8" ></RELATION>
+
+<RELATION party2="138086_6" theme="138086_4" theme_string="SENATOR v. VALADEZ, WARDEN" party2_string="VALADEZ, WARDEN" gram_type="infix" relation_type="asymmetric" id="138086_9" ></RELATION>
+

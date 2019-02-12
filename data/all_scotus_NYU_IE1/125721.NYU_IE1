@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['sloanchristy#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1071" id1="125712" volume="537" start="0" page_number="1071" standard_reporter="U.S." citation_global_level_id="2203.002" line="1" id="125721_1" citation_local_level_id="0" >537 U.S. 1071</CITATION>
+
+<CITATION party2="CHRISTY ET AL" party1="SLOAN" citation_global_level_id="61712.001" party2_short="CHRISTY" line="1" id="125721_3" alternative_keys="['u.s._537_1071']" end="40" entry_type="party_key" lookup_key="sloanchristy#1" id1="125721" start="18" party1_short="SLOAN" citation_local_level_id="1" >SLOAN v. CHRISTY ET AL</CITATION>
+
+<NAME end="23" start="18" party1_of="125721_3" all_names="SLOAN" local_name_id="1" id="125721_4" >SLOAN</NAME>
+
+<NAME end="40" start="27" all_names="CHRISTY" party2_of="125721_3" local_name_id="2" id="125721_5" >CHRISTY ET AL</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._537_1071" id1="125712" start="50" citation_global_level_id="2203.002" line="1" id="125721_2" citation_local_level_id="0" >02-519</DOCKET>
+
+<DATE start="98" end="114" id="125721_6" >December 9, 2002</DATE>
+
+<NAME start="242" local_name_id="3" end="245" id="125721_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="125721_1" includes_docket_string="02-519" includes_docket="125721_2" theme_string="537 U.S. 1071" gram_type="apposition" relation_type="asymmetric" id="125721_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1071" X_vs_Y_string="SLOAN v. CHRISTY ET AL" standard_case="125721_1" X_vs_Y="125721_3" gram_type="pre_nom" relation_type="equivalence" id="125721_7" ></RELATION>
+
+<RELATION theme="125721_3" includes_docket_string="02-519" includes_docket="125721_2" theme_string="SLOAN v. CHRISTY ET AL" gram_type="apposition" relation_type="asymmetric" id="125721_10" ></RELATION>
+
+<RELATION theme="125721_3" party1="125721_4" party1_string="SLOAN" theme_string="SLOAN v. CHRISTY ET AL" gram_type="infix" relation_type="asymmetric" id="125721_8" ></RELATION>
+
+<RELATION party2="125721_5" theme="125721_3" theme_string="SLOAN v. CHRISTY ET AL" party2_string="CHRISTY ET AL" gram_type="infix" relation_type="asymmetric" id="125721_9" ></RELATION>
+

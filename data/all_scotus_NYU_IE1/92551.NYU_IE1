@@ -1,0 +1,62 @@
+<CITATION alternative_keys="['marshallstates#9', 's.ct._9_794', 'l.ed._33_215']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._131_391" id1="92551" volume="131" start="0" page_number="391" standard_reporter="U.S." citation_global_level_id="16076.002" line="1" id="92551_1" citation_local_level_id="0" >131 U.S. 391</CITATION>
+
+<CITATION alternative_keys="['u.s._131_391', 'marshallstates#9', 'l.ed._33_215']" end="29" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._9_794" id1="92559" volume="9" start="17" page_number="794" standard_reporter="S.CT." citation_global_level_id="11289.003" line="2" id="92551_2" citation_local_level_id="1" >9 S. Ct. 794</CITATION>
+
+<CITATION alternative_keys="['u.s._131_391', 's.ct._9_794', 'marshallstates#9']" end="47" reporter="L. Ed." entry_type="standard_key" lookup_key="l.ed._33_215" id1="92551" volume="33" start="34" page_number="215" standard_reporter="L.ED." citation_global_level_id="16076.003" line="3" id="92551_3" citation_local_level_id="2" >33 L. Ed. 215</CITATION>
+
+<CITATION party2="UNITED STATES" party1="MARSHALL et al." citation_global_level_id="47246.001" party2_short="STATES" line="4" id="92551_4" alternative_keys="['u.s._131_391', 's.ct._9_794', 'l.ed._33_215']" end="84" entry_type="party_key" lookup_key="marshallstates#9" id1="125801" start="52" party1_short="MARSHALL" citation_local_level_id="3" >MARSHALL et al. v. UNITED STATES</CITATION>
+
+<NAME end="67" start="52" party1_of="92551_4" all_names="MARSHALL" local_name_id="1" id="92551_5" >MARSHALL et al.</NAME>
+
+<NAME end="84" start="71" all_names="UNITED STATES" party2_of="92551_4" local_name_id="2" id="92551_6" >UNITED STATES</NAME>
+
+<DATE start="90" citation_global_level_id="47246.001" end="107" id="92551_9" citation_local_level_id="3" >November 19, 1888</DATE>
+
+<PROFESSION start="121" end="136" id="92551_14" >Asst. Atty. Gen</PROFESSION>
+
+<NAME start="138" local_name_id="3" end="144" id="92551_15" all_names="HOWARD" >Howard</NAME>
+
+<NAME start="154" local_name_id="2" end="167" id="92551_16" all_names="UNITED STATES" >United States</NAME>
+
+<NAME start="175" local_name_id="4" end="188" id="92551_17" all_names="W D DAVIDGE" >W. D. Davidge</NAME>
+
+<LEGAL_ROLE start="194" end="204" plural="True" id="92551_18" >appellants</LEGAL_ROLE>
+
+<PROFESSION start="212" document_level_name_id="5" end="229" id="92551_20" party="FULLER" >Mr. Chief Justice</PROFESSION>
+
+<NAME start="230" local_name_id="5" end="236" id="92551_21" all_names="FULLER" >FULLER</NAME>
+
+<DATE start="253" end="267" id="92551_19" >November, 1888</DATE>
+
+<ORGANIZATION start="302" end="307" id="92551_22" >court</ORGANIZATION>
+
+<NAME start="342" local_name_id="6" end="360" id="92551_23" all_names="MR JUSTICE HARLAN" >Mr. Justice HARLAN</NAME>
+
+<PROFESSION start="346" end="353" id="92551_24" >Justice</PROFESSION>
+
+<ORGANIZATION start="383" end="388" id="92551_25" >court</ORGANIZATION>
+
+<ORGANIZATION start="460" end="465" id="92551_26" >court</ORGANIZATION>
+
+<NAME start="499" local_name_id="6" end="517" id="92551_28" all_names="MR JUSTICE HARLAN" >Mr. Justice HARLAN</NAME>
+
+<PROFESSION start="503" end="510" id="92551_29" >Justice</PROFESSION>
+
+<ORGANIZATION start="622" end="627" id="92551_30" >court</ORGANIZATION>
+
+<NAME start="665" local_name_id="7" end="676" id="92551_31" all_names="PUBLICATION" >Publication</NAME>
+
+<RELATION theme="92551_4" party1="92551_5" party1_string="MARSHALL et al." theme_string="MARSHALL et al. v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="92551_7" ></RELATION>
+
+<RELATION party2="92551_6" theme="92551_4" theme_string="MARSHALL et al. v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="92551_8" ></RELATION>
+
+<RELATION standard_case_string="131 U.S. 391" X_vs_Y_string="MARSHALL et al. v. UNITED STATES" standard_case="92551_1" X_vs_Y="92551_4" gram_type="multi_line" relation_type="equivalence" id="92551_10" ></RELATION>
+
+<RELATION standard_case_string="9 S. Ct. 794" X_vs_Y_string="MARSHALL et al. v. UNITED STATES" standard_case="92551_2" X_vs_Y="92551_4" gram_type="multi_line" relation_type="equivalence" id="92551_11" ></RELATION>
+
+<RELATION standard_case_string="33 L. Ed. 215" X_vs_Y_string="MARSHALL et al. v. UNITED STATES" standard_case="92551_3" X_vs_Y="92551_4" gram_type="multi_line" relation_type="equivalence" id="92551_12" ></RELATION>
+
+<RELATION at_date_string="November 19, 1888" theme="92551_4" at_date="92551_9" theme_string="MARSHALL et al. v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="92551_13" ></RELATION>
+
+<RELATION theme="92551_21" profession_string="Mr. Chief Justice" theme_string="FULLER" profession="92551_20" gram_type="pre_nom" relation_type="asymmetric" id="92551_27" ></RELATION>
+

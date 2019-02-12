@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['harrisondistrict#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_826" id1="122562" volume="537" start="0" page_number="826" standard_reporter="U.S." citation_global_level_id="5745.002" line="1" id="122560_1" citation_local_level_id="0" >537 U.S. 826</CITATION>
+
+<CITATION party2="RACINE UNIFIED SCHOOL DISTRICT ET AL" party1="VARGAS-HARRISON" citation_global_level_id="15915.001" party2_short="DISTRICT" line="1" id="122560_3" alternative_keys="['u.s._537_826']" end="72" entry_type="party_key" lookup_key="harrisondistrict#1" id1="122560" start="17" party1_short="HARRISON" citation_local_level_id="1" >VARGAS-HARRISON v. RACINE UNIFIED SCHOOL DISTRICT ET AL</CITATION>
+
+<NAME end="32" start="17" party1_of="122560_3" all_names="VARGAS-HARRISON" local_name_id="1" id="122560_4" >VARGAS-HARRISON</NAME>
+
+<NAME end="72" start="36" all_names="RACINE UNIFIED SCHOOL DISTRICT" party2_of="122560_3" local_name_id="2" id="122560_5" >RACINE UNIFIED SCHOOL DISTRICT ET AL</NAME>
+
+<DOCKET end="89" entry_type="docket" lookup_key="u.s._537_826" id1="122562" start="82" citation_global_level_id="5745.002" line="1" id="122560_2" citation_local_level_id="0" >01-1874</DOCKET>
+
+<DATE start="85" end="89" id="122560_6" >1874</DATE>
+
+<DATE start="131" end="146" id="122560_7" >October 7, 2002</DATE>
+
+<NAME start="277" local_name_id="3" end="280" id="122560_15" all_names="CIR" >Cir</NAME>
+
+<CITATION end="330" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_272_964" id1="Dummy_File_155167" volume="272" start="317" page_number="964" standard_reporter="F.3D" citation_global_level_id="219017.001" line="3" id="122560_14" citation_local_level_id="2" >272 F. 3d 964</CITATION>
+
+<RELATION theme="122560_1" includes_docket_string="01-1874" includes_docket="122560_2" theme_string="537 U.S. 826" gram_type="apposition" relation_type="asymmetric" id="122560_12" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 826" X_vs_Y_string="VARGAS-HARRISON v. RACINE UNIFIED SCHOOL DISTRICT ET AL" standard_case="122560_1" X_vs_Y="122560_3" gram_type="pre_nom" relation_type="equivalence" id="122560_8" ></RELATION>
+
+<RELATION theme="122560_3" includes_docket_string="01-1874" includes_docket="122560_2" theme_string="VARGAS-HARRISON v. RACINE UNIFIED SCHOOL DISTRICT ET AL" gram_type="apposition" relation_type="asymmetric" id="122560_11" ></RELATION>
+
+<RELATION party2="122560_5" theme="122560_3" theme_string="VARGAS-HARRISON v. RACINE UNIFIED SCHOOL DISTRICT ET AL" party2_string="RACINE UNIFIED SCHOOL DISTRICT ET AL" gram_type="infix" relation_type="asymmetric" id="122560_10" ></RELATION>
+
+<RELATION theme="122560_3" party1="122560_4" party1_string="VARGAS-HARRISON" theme_string="VARGAS-HARRISON v. RACINE UNIFIED SCHOOL DISTRICT ET AL" gram_type="infix" relation_type="asymmetric" id="122560_9" ></RELATION>
+
+<RELATION at_date_string="1874" theme="122560_2" at_date="122560_6" theme_string="01-1874" gram_type="infix" relation_type="asymmetric" id="122560_13" ></RELATION>
+

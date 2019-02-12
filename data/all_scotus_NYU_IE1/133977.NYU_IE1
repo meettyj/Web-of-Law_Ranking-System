@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['footecain#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_1020" id1="133980" volume="540" start="0" page_number="1020" standard_reporter="U.S." citation_global_level_id="62.002" line="1" id="133977_1" citation_local_level_id="0" >540 U.S. 1020</CITATION>
+
+<CITATION party2="CAIN, WARDEN" party1="FOOTE" citation_global_level_id="62.004" party2_short="CAIN" line="1" id="133977_3" alternative_keys="['u.s._540_1020']" end="39" entry_type="party_key" lookup_key="footecain#1" id1="133980" start="18" party1_short="FOOTE" citation_local_level_id="1" >FOOTE v. CAIN, WARDEN</CITATION>
+
+<NAME end="23" start="18" party1_of="133977_3" all_names="FOOTE" local_name_id="1" id="133977_4" >FOOTE</NAME>
+
+<NAME end="39" start="27" all_names="CAIN WARDEN" party2_of="133977_3" local_name_id="2" id="133977_5" >CAIN, WARDEN</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._540_1020" id1="133980" start="49" citation_global_level_id="62.002" line="1" id="133977_2" citation_local_level_id="0" >03-6312</DOCKET>
+
+<DATE start="98" end="115" id="133977_6" >November 17, 2003</DATE>
+
+<NAME start="193" local_name_id="3" end="203" id="133977_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="133977_1" includes_docket_string="03-6312" includes_docket="133977_2" theme_string="540 U.S. 1020" gram_type="apposition" relation_type="asymmetric" id="133977_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 1020" X_vs_Y_string="FOOTE v. CAIN, WARDEN" standard_case="133977_1" X_vs_Y="133977_3" gram_type="pre_nom" relation_type="equivalence" id="133977_7" ></RELATION>
+
+<RELATION theme="133977_3" includes_docket_string="03-6312" includes_docket="133977_2" theme_string="FOOTE v. CAIN, WARDEN" gram_type="apposition" relation_type="asymmetric" id="133977_10" ></RELATION>
+
+<RELATION theme="133977_3" party1="133977_4" party1_string="FOOTE" theme_string="FOOTE v. CAIN, WARDEN" gram_type="infix" relation_type="asymmetric" id="133977_8" ></RELATION>
+
+<RELATION party2="133977_5" theme="133977_3" theme_string="FOOTE v. CAIN, WARDEN" party2_string="CAIN, WARDEN" gram_type="infix" relation_type="asymmetric" id="133977_9" ></RELATION>
+

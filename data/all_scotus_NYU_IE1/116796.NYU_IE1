@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['nelsonhouse#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1113" id1="116791" volume="510" start="0" page_number="1113" standard_reporter="U.S." citation_global_level_id="1589.002" line="1" id="116796_1" citation_local_level_id="0" >510 U.S. 1113</CITATION>
+
+<CITATION party2="Harper House, Inc" party1="Thomas Nelson, Inc., et al." citation_global_level_id="1589.004" party2_short="House" line="1" id="116796_3" alternative_keys="['u.s._510_1113']" end="66" entry_type="party_key" lookup_key="nelsonhouse#2" id1="116791" start="18" party1_short="Nelson" citation_local_level_id="1" >Thomas Nelson, Inc., et al. v. Harper House, Inc</CITATION>
+
+<NAME end="45" start="18" party1_of="116796_3" all_names="THOMAS NELSON INC" local_name_id="1" id="116796_4" >Thomas Nelson, Inc., et al.</NAME>
+
+<ORGANIZATION start="18" end="36" id="116796_7" >Thomas Nelson, Inc</ORGANIZATION>
+
+<NAME end="66" start="49" all_names="HARPER HOUSE INC" party2_of="116796_3" local_name_id="2" id="116796_5" >Harper House, Inc</NAME>
+
+<DOCKET end="82" entry_type="docket" lookup_key="u.s._510_1113" id1="116791" start="76" citation_global_level_id="1589.002" line="1" id="116796_2" citation_local_level_id="0" >93-916</DOCKET>
+
+<DATE start="124" end="141" id="116796_6" >February 22, 1994</DATE>
+
+<NAME start="219" local_name_id="3" end="229" id="116796_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="265" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_5_536" id1="Dummy_File_50897" volume="5" start="254" page_number="536" standard_reporter="F.3D" citation_global_level_id="114747.001" line="3" id="116796_13" citation_local_level_id="2" >5 F. 3d 536</CITATION>
+
+<RELATION theme="116796_1" includes_docket_string="93-916" includes_docket="116796_2" theme_string="510 U.S. 1113" gram_type="apposition" relation_type="asymmetric" id="116796_12" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1113" X_vs_Y_string="Thomas Nelson, Inc., et al. v. Harper House, Inc" standard_case="116796_1" X_vs_Y="116796_3" gram_type="pre_nom" relation_type="equivalence" id="116796_8" ></RELATION>
+
+<RELATION theme="116796_3" includes_docket_string="93-916" includes_docket="116796_2" theme_string="Thomas Nelson, Inc., et al. v. Harper House, Inc" gram_type="apposition" relation_type="asymmetric" id="116796_11" ></RELATION>
+
+<RELATION party2="116796_5" theme="116796_3" theme_string="Thomas Nelson, Inc., et al. v. Harper House, Inc" party2_string="Harper House, Inc" gram_type="infix" relation_type="asymmetric" id="116796_10" ></RELATION>
+
+<RELATION theme="116796_3" party1="116796_4" party1_string="Thomas Nelson, Inc., et al." theme_string="Thomas Nelson, Inc., et al. v. Harper House, Inc" gram_type="infix" relation_type="asymmetric" id="116796_9" ></RELATION>
+

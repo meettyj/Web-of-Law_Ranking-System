@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['wilkinsjakeway#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1033" id1="129615" volume="538" start="0" page_number="1033" standard_reporter="U.S." citation_global_level_id="7358.002" line="1" id="129624_1" citation_local_level_id="0" >538 U.S. 1033</CITATION>
+
+<CITATION party2="JAKEWAY ET AL" party1="WILKINS" citation_global_level_id="24975.001" party2_short="JAKEWAY" line="1" id="129624_3" alternative_keys="['u.s._538_1033']" end="42" entry_type="party_key" lookup_key="wilkinsjakeway#1" id1="129624" start="18" party1_short="WILKINS" citation_local_level_id="1" >WILKINS v. JAKEWAY ET AL</CITATION>
+
+<NAME end="25" start="18" party1_of="129624_3" all_names="WILKINS" local_name_id="1" id="129624_4" >WILKINS</NAME>
+
+<NAME end="42" start="29" all_names="JAKEWAY" party2_of="129624_3" local_name_id="2" id="129624_5" >JAKEWAY ET AL</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="u.s._538_1033" id1="129615" start="52" citation_global_level_id="7358.002" line="1" id="129624_2" citation_local_level_id="0" >02-1332</DOCKET>
+
+<DATE start="101" end="113" id="129624_6" >May 19, 2003</DATE>
+
+<NAME start="242" local_name_id="3" end="245" id="129624_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="129624_1" includes_docket_string="02-1332" includes_docket="129624_2" theme_string="538 U.S. 1033" gram_type="apposition" relation_type="asymmetric" id="129624_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1033" X_vs_Y_string="WILKINS v. JAKEWAY ET AL" standard_case="129624_1" X_vs_Y="129624_3" gram_type="pre_nom" relation_type="equivalence" id="129624_7" ></RELATION>
+
+<RELATION theme="129624_3" includes_docket_string="02-1332" includes_docket="129624_2" theme_string="WILKINS v. JAKEWAY ET AL" gram_type="apposition" relation_type="asymmetric" id="129624_10" ></RELATION>
+
+<RELATION theme="129624_3" party1="129624_4" party1_string="WILKINS" theme_string="WILKINS v. JAKEWAY ET AL" gram_type="infix" relation_type="asymmetric" id="129624_8" ></RELATION>
+
+<RELATION party2="129624_5" theme="129624_3" theme_string="WILKINS v. JAKEWAY ET AL" party2_string="JAKEWAY ET AL" gram_type="infix" relation_type="asymmetric" id="129624_9" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['rochesabo#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_953" id1="114846" volume="510" start="0" page_number="953" standard_reporter="U.S." citation_global_level_id="841.002" line="1" id="114838_1" citation_local_level_id="0" >510 U.S. 953</CITATION>
+
+<CITATION party2="Sabo" party1="Roche" citation_global_level_id="50461.001" party2_short="Sabo" line="1" id="114838_3" alternative_keys="['u.s._510_953']" end="30" entry_type="party_key" lookup_key="rochesabo#1" id1="114838" start="17" party1_short="Roche" citation_local_level_id="1" >Roche v. Sabo</CITATION>
+
+<NAME end="22" start="17" party1_of="114838_3" all_names="ROCHE" local_name_id="1" id="114838_4" >Roche</NAME>
+
+<NAME end="30" start="26" all_names="SABO" party2_of="114838_3" local_name_id="2" id="114838_5" >Sabo</NAME>
+
+<DOCKET end="47" entry_type="docket" lookup_key="u.s._510_953" id1="114846" start="40" citation_global_level_id="841.002" line="1" id="114838_2" citation_local_level_id="0" >93-5934</DOCKET>
+
+<DATE start="89" end="105" id="114838_6" >November 1, 1993</DATE>
+
+<NAME start="183" local_name_id="3" end="193" id="114838_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="246" reporter="P. 2d" entry_type="standard_key" no_current_file="True" lookup_key="p.2d_853_1258" id1="Dummy_File_145147" volume="853" start="232" page_number="1258" standard_reporter="P.2D" citation_global_level_id="208997.001" line="3" id="114838_12" citation_local_level_id="2" >853 P. 2d 1258</CITATION>
+
+<RELATION theme="114838_1" includes_docket_string="93-5934" includes_docket="114838_2" theme_string="510 U.S. 953" gram_type="apposition" relation_type="asymmetric" id="114838_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 953" X_vs_Y_string="Roche v. Sabo" standard_case="114838_1" X_vs_Y="114838_3" gram_type="pre_nom" relation_type="equivalence" id="114838_7" ></RELATION>
+
+<RELATION theme="114838_3" includes_docket_string="93-5934" includes_docket="114838_2" theme_string="Roche v. Sabo" gram_type="apposition" relation_type="asymmetric" id="114838_10" ></RELATION>
+
+<RELATION theme="114838_3" party1="114838_4" party1_string="Roche" theme_string="Roche v. Sabo" gram_type="infix" relation_type="asymmetric" id="114838_8" ></RELATION>
+
+<RELATION party2="114838_5" theme="114838_3" theme_string="Roche v. Sabo" party2_string="Sabo" gram_type="infix" relation_type="asymmetric" id="114838_9" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['mauweehelling#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_992" id1="140225" volume="543" start="0" page_number="992" standard_reporter="U.S." citation_global_level_id="1001.002" line="1" id="140225_1" citation_local_level_id="0" >543 U.S. 992</CITATION>
+
+<CITATION party2="HELLING, WARDEN" party1="MAUWEE" citation_global_level_id="1001.006" party2_short="HELLING" line="2" id="140225_2" alternative_keys="['u.s._543_992']" end="42" entry_type="party_key" lookup_key="mauweehelling#1" id1="140225" start="17" party1_short="MAUWEE" citation_local_level_id="1" >MAUWEE v. HELLING, WARDEN</CITATION>
+
+<NAME end="23" start="17" party1_of="140225_2" all_names="MAUWEE" local_name_id="1" id="140225_3" >MAUWEE</NAME>
+
+<NAME end="42" start="27" all_names="HELLING WARDEN" party2_of="140225_2" local_name_id="2" id="140225_4" >HELLING, WARDEN</NAME>
+
+<DOCKET alternative_keys="['u.s._543_992']" end="59" entry_type="docket" lookup_key="mauweehelling#1" id1="140225" start="52" citation_global_level_id="1001.006" line="3" id="140225_7" citation_local_level_id="1" >04-6601</DOCKET>
+
+<ORGANIZATION start="65" end="95" id="140225_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="101" citation_global_level_id="1001.006" end="118" id="140225_9" citation_local_level_id="1" >November 15, 2004</DATE>
+
+<NAME start="150" local_name_id="3" end="153" id="140225_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="140225_2" party1="140225_3" party1_string="MAUWEE" theme_string="MAUWEE v. HELLING, WARDEN" gram_type="infix" relation_type="asymmetric" id="140225_5" ></RELATION>
+
+<RELATION party2="140225_4" theme="140225_2" theme_string="MAUWEE v. HELLING, WARDEN" party2_string="HELLING, WARDEN" gram_type="infix" relation_type="asymmetric" id="140225_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 992" X_vs_Y_string="MAUWEE v. HELLING, WARDEN" standard_case="140225_1" X_vs_Y="140225_2" gram_type="multi_line" relation_type="equivalence" id="140225_10" ></RELATION>
+
+<RELATION at_date_string="November 15, 2004" theme="140225_2" at_date="140225_9" theme_string="MAUWEE v. HELLING, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="140225_12" ></RELATION>
+
+<RELATION theme="140225_2" includes_docket_string="04-6601" includes_docket="140225_7" theme_string="MAUWEE v. HELLING, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="140225_11" ></RELATION>
+

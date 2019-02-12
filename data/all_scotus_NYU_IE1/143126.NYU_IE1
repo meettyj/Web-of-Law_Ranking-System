@@ -1,0 +1,46 @@
+<CITATION alternative_keys="['jacksonstates#9']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_917" id1="143121" volume="544" start="0" page_number="917" standard_reporter="U.S." citation_global_level_id="6212.002" line="1" id="143126_1" citation_local_level_id="0" >544 U.S. 917</CITATION>
+
+<CITATION party2="UNITED STATES" party1="JACKSON" citation_global_level_id="10373.001" party2_short="STATES" line="2" id="143126_2" alternative_keys="['u.s._544_917']" end="41" entry_type="party_key" lookup_key="jacksonstates#9" id1="145099" start="17" party1_short="JACKSON" citation_local_level_id="1" >JACKSON v. UNITED STATES</CITATION>
+
+<NAME end="24" start="17" party1_of="143126_2" all_names="JACKSON" local_name_id="1" id="143126_3" >JACKSON</NAME>
+
+<NAME end="41" start="28" all_names="UNITED STATES" party2_of="143126_2" local_name_id="2" id="143126_4" >UNITED STATES</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="jacksonstates#9" id1="145099" start="51" citation_global_level_id="10373.001" line="3" id="143126_7" citation_local_level_id="1" >04-8604</DOCKET>
+
+<ORGANIZATION start="64" end="94" id="143126_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="100" citation_global_level_id="10373.001" end="114" id="143126_9" citation_local_level_id="1" >March 21, 2005</DATE>
+
+<NAME start="146" local_name_id="3" end="149" id="143126_19" all_names="CIR" >Cir</NAME>
+
+<CITATION end="180" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_390_393" id1="Dummy_File_205100" volume="390" start="167" page_number="393" standard_reporter="F.3D" citation_global_level_id="268950.001" line="8" id="143126_13" citation_local_level_id="2" >390 F. 3d 393</CITATION>
+
+<CITATION party2="Booker" party1="United States" citation_global_level_id="57130.001" party2_short="Booker" line="8" id="143126_15" alternative_keys="['u.s._543_220']" end="372" entry_type="party_key" lookup_key="statesbooker#4" id1="137703" start="349" party1_short="States" citation_local_level_id="3" >United States v. Booker</CITATION>
+
+<NAME end="362" start="349" party1_of="143126_15" all_names="UNITED STATES" local_name_id="2" id="143126_16" >United States</NAME>
+
+<NAME end="372" start="366" all_names="BOOKER" party2_of="143126_15" local_name_id="4" id="143126_17" >Booker</NAME>
+
+<CITATION alternative_keys="['statesbooker#4']" end="393" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_220" id1="145930" volume="543" start="374" page_number="220" year="2005" standard_reporter="U.S." citation_global_level_id="3524.003" line="8" id="143126_14" citation_local_level_id="4" >543 U.S. 220 (2005)</CITATION>
+
+<DATE start="388" citation_global_level_id="3524.003" end="392" id="143126_18" citation_local_level_id="4" >2005</DATE>
+
+<RELATION theme="143126_2" party1="143126_3" party1_string="JACKSON" theme_string="JACKSON v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="143126_5" ></RELATION>
+
+<RELATION party2="143126_4" theme="143126_2" theme_string="JACKSON v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="143126_6" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 917" X_vs_Y_string="JACKSON v. UNITED STATES" standard_case="143126_1" X_vs_Y="143126_2" gram_type="multi_line" relation_type="equivalence" id="143126_10" ></RELATION>
+
+<RELATION at_date_string="March 21, 2005" theme="143126_2" at_date="143126_9" theme_string="JACKSON v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="143126_12" ></RELATION>
+
+<RELATION theme="143126_2" includes_docket_string="04-8604" includes_docket="143126_7" theme_string="JACKSON v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="143126_11" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 220 (2005)" X_vs_Y_string="United States v. Booker" standard_case="143126_14" X_vs_Y="143126_15" gram_type="apposition" relation_type="equivalence" id="143126_22" ></RELATION>
+
+<RELATION theme="143126_15" party1="143126_16" party1_string="United States" theme_string="United States v. Booker" gram_type="infix" relation_type="asymmetric" id="143126_20" ></RELATION>
+
+<RELATION party2="143126_17" theme="143126_15" theme_string="United States v. Booker" party2_string="Booker" gram_type="infix" relation_type="asymmetric" id="143126_21" ></RELATION>
+
+<RELATION at_date_string="2005" theme="143126_14" at_date="143126_18" theme_string="543 U.S. 220 (2005)" gram_type="infix" relation_type="asymmetric" id="143126_23" ></RELATION>
+

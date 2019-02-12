@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['robinswisconsin#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1003" id1="124802" volume="537" start="0" page_number="1003" standard_reporter="U.S." citation_global_level_id="5035.002" line="1" id="124801_1" citation_local_level_id="0" >537 U.S. 1003</CITATION>
+
+<CITATION party2="WISCONSIN" party1="ROBINS" citation_global_level_id="40714.001" party2_short="WISCONSIN" line="1" id="124801_3" alternative_keys="['u.s._537_1003']" end="37" entry_type="party_key" lookup_key="robinswisconsin#1" id1="124801" start="18" party1_short="ROBINS" citation_local_level_id="1" >ROBINS v. WISCONSIN</CITATION>
+
+<NAME end="24" start="18" party1_of="124801_3" all_names="ROBINS" local_name_id="1" id="124801_4" >ROBINS</NAME>
+
+<NAME end="37" start="28" all_names="WISCONSIN" party2_of="124801_3" local_name_id="2" id="124801_5" >WISCONSIN</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="u.s._537_1003" id1="124802" start="47" citation_global_level_id="5035.002" line="1" id="124801_2" citation_local_level_id="0" >02-472</DOCKET>
+
+<DATE start="95" end="111" id="124801_6" >November 4, 2002</DATE>
+
+<NAME start="204" local_name_id="3" end="207" id="124801_13" all_names="SUP" >Sup</NAME>
+
+<CITATION end="286" reporter="N. W. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.w.2d_646_287" id1="Dummy_File_186056" volume="646" start="270" page_number="287" standard_reporter="N.W.2D" citation_global_level_id="249906.001" line="3" id="124801_12" citation_local_level_id="2" >646 N. W. 2d 287</CITATION>
+
+<RELATION theme="124801_1" includes_docket_string="02-472" includes_docket="124801_2" theme_string="537 U.S. 1003" gram_type="apposition" relation_type="asymmetric" id="124801_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1003" X_vs_Y_string="ROBINS v. WISCONSIN" standard_case="124801_1" X_vs_Y="124801_3" gram_type="pre_nom" relation_type="equivalence" id="124801_7" ></RELATION>
+
+<RELATION theme="124801_3" includes_docket_string="02-472" includes_docket="124801_2" theme_string="ROBINS v. WISCONSIN" gram_type="apposition" relation_type="asymmetric" id="124801_10" ></RELATION>
+
+<RELATION theme="124801_3" party1="124801_4" party1_string="ROBINS" theme_string="ROBINS v. WISCONSIN" gram_type="infix" relation_type="asymmetric" id="124801_8" ></RELATION>
+
+<RELATION party2="124801_5" theme="124801_3" theme_string="ROBINS v. WISCONSIN" party2_string="WISCONSIN" gram_type="infix" relation_type="asymmetric" id="124801_9" ></RELATION>
+

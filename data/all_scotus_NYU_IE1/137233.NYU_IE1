@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['savagegeorgia#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._542_920" id1="137237" volume="542" start="0" page_number="920" standard_reporter="U.S." citation_global_level_id="579.002" line="1" id="137233_1" citation_local_level_id="0" >542 U.S. 920</CITATION>
+
+<CITATION party2="GEORGIA" party1="SAVAGE" citation_global_level_id="22847.001" party2_short="GEORGIA" line="1" id="137233_3" alternative_keys="['u.s._542_920']" end="34" entry_type="party_key" lookup_key="savagegeorgia#1" id1="137233" start="17" party1_short="SAVAGE" citation_local_level_id="1" >SAVAGE v. GEORGIA</CITATION>
+
+<NAME end="23" start="17" party1_of="137233_3" all_names="SAVAGE" local_name_id="1" id="137233_4" >SAVAGE</NAME>
+
+<NAME end="34" start="27" all_names="GEORGIA" party2_of="137233_3" local_name_id="2" id="137233_5" >GEORGIA</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="u.s._542_920" id1="137237" start="44" citation_global_level_id="579.002" line="1" id="137233_2" citation_local_level_id="0" >03-1460</DOCKET>
+
+<DATE start="93" end="106" id="137233_6" >June 21, 2004</DATE>
+
+<NAME start="204" local_name_id="3" end="206" id="137233_13" all_names="GA" >Ga</NAME>
+
+<CITATION end="234" reporter="S. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="s.e.2d_587_294" id1="Dummy_File_2923" volume="587" start="218" page_number="294" standard_reporter="S.E.2D" citation_global_level_id="66773.001" line="3" id="137233_12" citation_local_level_id="2" >587 S. E. 2d 294</CITATION>
+
+<RELATION theme="137233_1" includes_docket_string="03-1460" includes_docket="137233_2" theme_string="542 U.S. 920" gram_type="apposition" relation_type="asymmetric" id="137233_11" ></RELATION>
+
+<RELATION standard_case_string="542 U.S. 920" X_vs_Y_string="SAVAGE v. GEORGIA" standard_case="137233_1" X_vs_Y="137233_3" gram_type="pre_nom" relation_type="equivalence" id="137233_7" ></RELATION>
+
+<RELATION theme="137233_3" includes_docket_string="03-1460" includes_docket="137233_2" theme_string="SAVAGE v. GEORGIA" gram_type="apposition" relation_type="asymmetric" id="137233_10" ></RELATION>
+
+<RELATION theme="137233_3" party1="137233_4" party1_string="SAVAGE" theme_string="SAVAGE v. GEORGIA" gram_type="infix" relation_type="asymmetric" id="137233_8" ></RELATION>
+
+<RELATION party2="137233_5" theme="137233_3" theme_string="SAVAGE v. GEORGIA" party2_string="GEORGIA" gram_type="infix" relation_type="asymmetric" id="137233_9" ></RELATION>
+

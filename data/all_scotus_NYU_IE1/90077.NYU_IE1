@@ -1,0 +1,38 @@
+<CITATION alternative_keys="['naglerutledge#1', 'u.s._100_675', 'l.ed._25_772']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._100_675" id1="90077" volume="100" start="0" page_number="675" standard_reporter="U.S." citation_global_level_id="34470.002" line="1" id="90077_1" citation_local_level_id="0" >100 U.S. 675</CITATION>
+
+<CITATION alternative_keys="['u.s._100_675', 'naglerutledge#1', 'l.ed._25_772']" end="29" reporter="U.S." entry_type="standard_key" lookup_key="u.s._100_675" id1="90077" volume="100" start="17" page_number="675" standard_reporter="U.S." citation_global_level_id="34470.002" line="1" id="90077_2" citation_local_level_id="1" >100 U.S. 675</CITATION>
+
+<NAME start="21" local_name_id="1" end="42" id="90077_8" all_names="US 675 25 L ED" >U.S. 675 25 L. Ed</NAME>
+
+<CITATION alternative_keys="['u.s._100_675', 'naglerutledge#1']" end="47" reporter="L. Ed." entry_type="standard_key" lookup_key="l.ed._25_772" id1="90077" volume="25" start="34" page_number="772" standard_reporter="L.ED." citation_global_level_id="34470.003" line="1" id="90077_3" citation_local_level_id="2" >25 L. Ed. 772</CITATION>
+
+<CITATION party2="RUTLEDGE" party1="NAGLE" citation_global_level_id="34470.001" party2_short="RUTLEDGE" line="1" id="90077_4" alternative_keys="['u.s._100_675', 'l.ed._25_772']" end="69" entry_type="party_key" lookup_key="naglerutledge#1" id1="90077" start="52" party1_short="NAGLE" citation_local_level_id="3" >NAGLE v. RUTLEDGE</CITATION>
+
+<NAME end="57" start="52" party1_of="90077_4" all_names="NAGLE" local_name_id="2" id="90077_5" >NAGLE</NAME>
+
+<NAME end="69" start="61" all_names="RUTLEDGE" party2_of="90077_4" local_name_id="3" id="90077_6" >RUTLEDGE</NAME>
+
+<DATE start="89" end="93" id="90077_7" >1879</DATE>
+
+<ORGANIZATION start="238" end="243" id="90077_14" >court</ORGANIZATION>
+
+<LEGAL_ROLE start="251" end="290" id="90077_15" >Mr. Edward P. Johnson for the defendant</LEGAL_ROLE>
+
+<NAME start="333" local_name_id="4" end="349" id="90077_16" all_names="MR W R STEELE" >Mr. W. R. Steele</NAME>
+
+<NAME start="365" local_name_id="5" end="367" id="90077_19" all_names="MR" >MR</NAME>
+
+<DATE start="1014" end="1024" id="90077_17" >June, 1872</DATE>
+
+<DATE start="1058" end="1071" id="90077_18" >July 26, 1876</DATE>
+
+<RELATION standard_case_string="100 U.S. 675" X_vs_Y_string="NAGLE v. RUTLEDGE" standard_case="90077_1" X_vs_Y="90077_4" gram_type="pre_nom" relation_type="equivalence" id="90077_10" ></RELATION>
+
+<RELATION standard_case_string="100 U.S. 675" X_vs_Y_string="NAGLE v. RUTLEDGE" standard_case="90077_2" X_vs_Y="90077_4" gram_type="pre_nom" relation_type="equivalence" id="90077_11" ></RELATION>
+
+<RELATION standard_case_string="25 L. Ed. 772" X_vs_Y_string="NAGLE v. RUTLEDGE" standard_case="90077_3" X_vs_Y="90077_4" gram_type="pre_nom" relation_type="equivalence" id="90077_9" ></RELATION>
+
+<RELATION theme="90077_4" party1="90077_5" party1_string="NAGLE" theme_string="NAGLE v. RUTLEDGE" gram_type="infix" relation_type="asymmetric" id="90077_12" ></RELATION>
+
+<RELATION party2="90077_6" theme="90077_4" theme_string="NAGLE v. RUTLEDGE" party2_string="RUTLEDGE" gram_type="infix" relation_type="asymmetric" id="90077_13" ></RELATION>
+

@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['broomesashcroft#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1034" id1="140780" volume="543" start="0" page_number="1034" standard_reporter="U.S." citation_global_level_id="1569.002" line="1" id="140776_1" citation_local_level_id="0" >543 U.S. 1034</CITATION>
+
+<CITATION party2="ASHCROFT, ATTORNEY GENERAL, ET AL" party1="BROOMES ET AL." citation_global_level_id="1569.005" party2_short="ASHCROFT" line="2" id="140776_2" alternative_keys="['f.3d_358_1251', 'u.s._543_1034']" end="69" no_current_file="True" entry_type="party_key" lookup_key="broomesashcroft#1" id1="140780" start="18" party1_short="BROOMES" citation_local_level_id="1" >BROOMES ET AL. v. ASHCROFT, ATTORNEY GENERAL, ET AL</CITATION>
+
+<NAME end="32" start="18" party1_of="140776_2" all_names="BROOMES" local_name_id="1" id="140776_3" >BROOMES ET AL.</NAME>
+
+<NAME end="69" start="36" all_names="ASHCROFT ATTORNEY GENERAL" party2_of="140776_2" local_name_id="2" id="140776_4" >ASHCROFT, ATTORNEY GENERAL, ET AL</NAME>
+
+<PROFESSION start="46" end="62" id="140776_5" >ATTORNEY GENERAL</PROFESSION>
+
+<DOCKET alternative_keys="['f.3d_358_1251', 'u.s._543_1034']" end="87" no_current_file="True" entry_type="docket" lookup_key="broomesashcroft#1" id1="140780" start="79" citation_global_level_id="1569.005" line="3" id="140776_8" citation_local_level_id="1" >03-10858</DOCKET>
+
+<ORGANIZATION start="93" end="123" id="140776_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="129" citation_global_level_id="1569.005" end="146" id="140776_10" citation_local_level_id="1" >December 13, 2004</DATE>
+
+<NAME start="179" local_name_id="3" end="182" id="140776_15" all_names="CIR" >Cir</NAME>
+
+<CITATION alternative_keys="['broomesashcroft#1']" end="233" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_358_1251" id1="Dummy_File_44024" volume="358" start="219" page_number="1251" standard_reporter="F.3D" citation_global_level_id="107874.003" line="8" id="140776_14" citation_local_level_id="2" >358 F. 3d 1251</CITATION>
+
+<RELATION theme="140776_2" party1="140776_3" party1_string="BROOMES ET AL." theme_string="BROOMES ET AL. v. ASHCROFT, ATTORNEY GENERAL, ET AL" gram_type="infix" relation_type="asymmetric" id="140776_6" ></RELATION>
+
+<RELATION party2="140776_4" theme="140776_2" theme_string="BROOMES ET AL. v. ASHCROFT, ATTORNEY GENERAL, ET AL" party2_string="ASHCROFT, ATTORNEY GENERAL, ET AL" gram_type="infix" relation_type="asymmetric" id="140776_7" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1034" X_vs_Y_string="BROOMES ET AL. v. ASHCROFT, ATTORNEY GENERAL, ET AL" standard_case="140776_1" X_vs_Y="140776_2" gram_type="multi_line" relation_type="equivalence" id="140776_11" ></RELATION>
+
+<RELATION at_date_string="December 13, 2004" theme="140776_2" at_date="140776_10" theme_string="BROOMES ET AL. v. ASHCROFT, ATTORNEY GENERAL, ET AL" gram_type="multi_line" relation_type="asymmetric" id="140776_13" ></RELATION>
+
+<RELATION theme="140776_2" includes_docket_string="03-10858" includes_docket="140776_8" theme_string="BROOMES ET AL. v. ASHCROFT, ATTORNEY GENERAL, ET AL" gram_type="multi_line" relation_type="asymmetric" id="140776_12" ></RELATION>
+

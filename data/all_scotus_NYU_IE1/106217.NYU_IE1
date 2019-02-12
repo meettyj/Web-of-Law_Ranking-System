@@ -1,0 +1,36 @@
+<CITATION alternative_keys="['statescompany#2', 's.ct._81_826', 'l.ed.2d_5_822']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._365_858" id1="106217" volume="365" start="0" page_number="858" standard_reporter="U.S." citation_global_level_id="24430.002" line="1" id="106217_1" citation_local_level_id="0" >365 U.S. 858</CITATION>
+
+<CITATION alternative_keys="['u.s._365_858', 'statescompany#2', 'l.ed.2d_5_822']" end="30" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._81_826" id1="106217" volume="81" start="17" page_number="826" standard_reporter="S.CT." citation_global_level_id="24430.003" line="1" id="106217_2" citation_local_level_id="1" >81 S. Ct. 826</CITATION>
+
+<NAME start="20" local_name_id="1" end="25" id="106217_9" all_names="S CT" >S. Ct</NAME>
+
+<CITATION alternative_keys="['u.s._365_858', 's.ct._81_826', 'statescompany#2']" end="50" reporter="L. Ed. 2d" entry_type="standard_key" lookup_key="l.ed.2d_5_822" id1="106217" volume="5" start="35" page_number="822" standard_reporter="L.ED.2D" citation_global_level_id="24430.004" line="1" id="106217_3" citation_local_level_id="2" >5 L. Ed. 2d 822</CITATION>
+
+<CITATION party2="UNION CENTRAL LIFE INSURANCE COMPANY" alternative_keys="['u.s._365_858', 's.ct._81_826', 'l.ed.2d_5_822']" party1="UNITED STATES," end="121" party1_short="STATES" entry_type="party_key" party1_role="petitioner" lookup_key="statescompany#2" id1="106217" start="55" citation_global_level_id="24430.001" party2_short="COMPANY" line="1" id="106217_4" citation_local_level_id="3" >UNITED STATES, petitioner, v. UNION CENTRAL LIFE INSURANCE COMPANY</CITATION>
+
+<NAME end="69" start="55" party1_of="106217_4" all_names="UNITED STATES" local_name_id="2" id="106217_5" >UNITED STATES,</NAME>
+
+<LEGAL_ROLE start="70" end="80" id="106217_7" >petitioner</LEGAL_ROLE>
+
+<NAME end="121" start="85" all_names="UNION CENTRAL LIFE INSURANCE COMPANY" party2_of="106217_4" local_name_id="3" id="106217_6" >UNION CENTRAL LIFE INSURANCE COMPANY</NAME>
+
+<DATE start="179" end="193" id="106217_8" >March 27, 1961</DATE>
+
+<PROFESSION start="336" end="353" id="106217_15" >H. William Butler</PROFESSION>
+
+<LEGAL_ROLE start="359" end="369" id="106217_16" >respondent</LEGAL_ROLE>
+
+<NAME start="396" local_name_id="4" end="404" id="106217_17" all_names="PETITION" >Petition</NAME>
+
+<ORGANIZATION start="435" end="460" id="106217_18" >Supreme Court of Michigan</ORGANIZATION>
+
+<RELATION standard_case_string="365 U.S. 858" X_vs_Y_string="UNITED STATES, petitioner, v. UNION CENTRAL LIFE INSURANCE COMPANY" standard_case="106217_1" X_vs_Y="106217_4" gram_type="pre_nom" relation_type="equivalence" id="106217_11" ></RELATION>
+
+<RELATION standard_case_string="81 S. Ct. 826" X_vs_Y_string="UNITED STATES, petitioner, v. UNION CENTRAL LIFE INSURANCE COMPANY" standard_case="106217_2" X_vs_Y="106217_4" gram_type="pre_nom" relation_type="equivalence" id="106217_12" ></RELATION>
+
+<RELATION standard_case_string="5 L. Ed. 2d 822" X_vs_Y_string="UNITED STATES, petitioner, v. UNION CENTRAL LIFE INSURANCE COMPANY" standard_case="106217_3" X_vs_Y="106217_4" gram_type="pre_nom" relation_type="equivalence" id="106217_10" ></RELATION>
+
+<RELATION theme="106217_4" party1="106217_5" party1_string="UNITED STATES," theme_string="UNITED STATES, petitioner, v. UNION CENTRAL LIFE INSURANCE COMPANY" gram_type="infix" relation_type="asymmetric" id="106217_13" ></RELATION>
+
+<RELATION party2="106217_6" theme="106217_4" theme_string="UNITED STATES, petitioner, v. UNION CENTRAL LIFE INSURANCE COMPANY" party2_string="UNION CENTRAL LIFE INSURANCE COMPANY" gram_type="infix" relation_type="asymmetric" id="106217_14" ></RELATION>
+

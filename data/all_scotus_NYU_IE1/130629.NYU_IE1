@@ -1,0 +1,76 @@
+<CITATION alternative_keys="['paulcommission#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_939" id1="130628" volume="539" start="0" page_number="939" standard_reporter="U.S." citation_global_level_id="3025.002" line="1" id="130629_1" citation_local_level_id="0" >539 U.S. 939</CITATION>
+
+<CITATION party2="Federal Election Commission et al" party1="Paul, United States Congressman, et al." citation_global_level_id="9131.004" party2_short="Commission" line="1" id="130629_3" alternative_keys="['u.s._539_979']" end="93" entry_type="party_key" lookup_key="paulcommission#1" id1="131046" start="17" party1_short="Paul" citation_local_level_id="1" >Paul, United States Congressman, et al. v. Federal Election Commission et al</CITATION>
+
+<NAME end="56" start="17" party1_of="130629_3" all_names="PAUL UNITED STATES CONGRESSMAN" local_name_id="1" id="130629_4" >Paul, United States Congressman, et al.</NAME>
+
+<NAME start="17" local_name_id="2" end="21" id="130629_8" all_names="PAUL" >Paul</NAME>
+
+<PROFESSION start="23" end="48" id="130629_9" >United States Congressman</PROFESSION>
+
+<NAME end="93" start="60" all_names="FEDERAL ELECTION COMMISSION" party2_of="130629_3" local_name_id="3" id="130629_5" >Federal Election Commission et al</NAME>
+
+<ORGANIZATION start="60" end="87" id="130629_10" >Federal Election Commission</ORGANIZATION>
+
+<DOCKET end="110" entry_type="docket" lookup_key="u.s._539_939" id1="130628" start="103" citation_global_level_id="3025.002" line="1" id="130629_2" citation_local_level_id="0" >02-1747</DOCKET>
+
+<DATE start="106" end="110" id="130629_6" >1747</DATE>
+
+<ORGANIZATION start="116" end="146" id="130629_11" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="152" end="165" id="130629_7" >June 19, 2003</DATE>
+
+<NAME start="187" local_name_id="4" end="213" id="130629_12" all_names="APPEAL FROM THE D C D C" >Appeal from the D. C. D. C</NAME>
+
+<NAME start="216" local_name_id="5" end="224" id="130629_13" all_names="PROBABLE" >Probable</NAME>
+
+<NAME start="285" local_name_id="6" end="291" id="130629_27" all_names="BRIEFS" >Briefs</NAME>
+
+<LEGAL_ROLE start="316" end="326" plural="True" id="130629_28" >plaintiffs</LEGAL_ROLE>
+
+<ORGANIZATION start="334" end="348" id="130629_29" >District Court</ORGANIZATION>
+
+<LEGAL_ROLE start="450" end="460" plural="True" id="130629_30" >plaintiffs</LEGAL_ROLE>
+
+<DOCKET entry_type="docket" line="3" end="475" id="130629_20" start="468" >02-1674</DOCKET>
+
+<LEGAL_ROLE start="550" end="560" plural="True" id="130629_31" >plaintiffs</LEGAL_ROLE>
+
+<DOCKET entry_type="docket" line="3" end="576" id="130629_21" start="569" >02-1727</DOCKET>
+
+<DATE start="572" end="576" id="130629_24" >1727</DATE>
+
+<DOCKET entry_type="docket" line="3" end="585" id="130629_22" start="578" >02-1733</DOCKET>
+
+<DATE start="581" end="585" id="130629_25" >1733</DATE>
+
+<DOCKET entry_type="docket" line="3" end="594" id="130629_23" start="587" >02-1753</DOCKET>
+
+<DATE start="590" end="594" id="130629_26" >1753</DATE>
+
+<PROFESSION start="662" end="679" id="130629_32" >Solicitor General</PROFESSION>
+
+<RELATION theme="130629_1" includes_docket_string="02-1747" includes_docket="130629_2" theme_string="539 U.S. 939" gram_type="apposition" relation_type="asymmetric" id="130629_18" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 939" X_vs_Y_string="Paul, United States Congressman, et al. v. Federal Election Commission et al" standard_case="130629_1" X_vs_Y="130629_3" gram_type="pre_nom" relation_type="equivalence" id="130629_14" ></RELATION>
+
+<RELATION theme="130629_3" includes_docket_string="02-1747" includes_docket="130629_2" theme_string="Paul, United States Congressman, et al. v. Federal Election Commission et al" gram_type="apposition" relation_type="asymmetric" id="130629_17" ></RELATION>
+
+<RELATION theme="130629_3" party1="130629_4" party1_string="Paul, United States Congressman, et al." theme_string="Paul, United States Congressman, et al. v. Federal Election Commission et al" gram_type="infix" relation_type="asymmetric" id="130629_15" ></RELATION>
+
+<RELATION party2="130629_5" theme="130629_3" theme_string="Paul, United States Congressman, et al. v. Federal Election Commission et al" party2_string="Federal Election Commission et al" gram_type="infix" relation_type="asymmetric" id="130629_16" ></RELATION>
+
+<RELATION at_date_string="1747" theme="130629_2" at_date="130629_6" theme_string="02-1747" gram_type="infix" relation_type="asymmetric" id="130629_19" ></RELATION>
+
+<RELATION at_date_string="1727" theme="130629_21" at_date="130629_24" theme_string="02-1727" gram_type="infix" relation_type="asymmetric" id="130629_33" ></RELATION>
+
+<RELATION at_date_string="1727" theme="130629_23" at_date="130629_24" theme_string="02-1753" gram_type="indirect_infix" relation_type="asymmetric" id="130629_36" ></RELATION>
+
+<RELATION at_date_string="1727" theme="130629_22" at_date="130629_24" theme_string="02-1733" gram_type="indirect_infix" relation_type="asymmetric" id="130629_34" ></RELATION>
+
+<RELATION at_date_string="1733" theme="130629_22" at_date="130629_25" theme_string="02-1733" gram_type="infix" relation_type="asymmetric" id="130629_35" ></RELATION>
+
+<RELATION at_date_string="1733" theme="130629_23" at_date="130629_25" theme_string="02-1753" gram_type="indirect_infix" relation_type="asymmetric" id="130629_37" ></RELATION>
+
+<RELATION at_date_string="1753" theme="130629_23" at_date="130629_26" theme_string="02-1753" gram_type="infix" relation_type="asymmetric" id="130629_38" ></RELATION>
+

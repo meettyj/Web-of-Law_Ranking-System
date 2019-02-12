@@ -1,0 +1,58 @@
+<CITATION alternative_keys="['richardotakar#2', 'johnkirchner#1', 's.ct._115_2599', 's.ct._115_2600']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._515_1152" id1="117970" volume="515" start="0" page_number="1152" standard_reporter="U.S." citation_global_level_id="36386.002" line="1" id="117970_1" citation_local_level_id="0" >515 U.S. 1152</CITATION>
+
+<CITATION alternative_keys="['u.s._515_1152', 'richardotakar#2', 'johnkirchner#1', 's.ct._115_2600']" end="29" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._115_2599" id1="117970" volume="115" start="14" page_number="2599" standard_reporter="S.CT." citation_global_level_id="36386.003" line="1" id="117970_2" citation_local_level_id="1" >115 S. Ct. 2599</CITATION>
+
+<NAME start="18" local_name_id="1" end="23" id="117970_4" all_names="S CT" >S. Ct</NAME>
+
+<CITATION alternative_keys="['u.s._515_1152', 's.ct._115_2599', 'richardotakar#2', 'johnkirchner#1']" end="45" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._115_2600" id1="117970" volume="115" start="30" page_number="2600" standard_reporter="S.CT." citation_global_level_id="36386.004" line="1" id="117970_3" citation_local_level_id="2" >115 S. Ct. 2600</CITATION>
+
+<CITATION party2="KIRCHNER" party1="DOE, JOHN AND JANE DOE" citation_global_level_id="36386.006" party2_short="KIRCHNER" line="2" id="117970_5" alternative_keys="['richardotakar#2', 's.ct._115_2599', 's.ct._115_2600', 'u.s._515_1152']" end="86" entry_type="party_key" lookup_key="johnkirchner#1" id1="117970" start="51" party1_short="JOHN" citation_local_level_id="3" >DOE, JOHN AND JANE DOE v. KIRCHNER</CITATION>
+
+<NAME end="73" start="51" party1_of="117970_5" all_names="DOE JOHN AND JANE DOE" local_name_id="2" id="117970_7" >DOE, JOHN AND JANE DOE</NAME>
+
+<NAME end="86" start="78" all_names="KIRCHNER" party2_of="117970_5" local_name_id="3" id="117970_8" >KIRCHNER</NAME>
+
+<CITATION party2="KIRCHNER, OTAKAR, ET AL" party1="OTAKAR BABY RICHARD, A MINOR, BY HIS GUARDIAN AD LITEM, EDWARD J. O'CONNELL" citation_global_level_id="36386.005" party2_short="OTAKAR" line="2" id="117970_6" alternative_keys="['johnkirchner#1', 's.ct._115_2599', 's.ct._115_2600', 'u.s._515_1152']" end="191" entry_type="party_key" lookup_key="richardotakar#2" id1="117970" start="88" party1_short="RICHARD" citation_local_level_id="4" >OTAKAR BABY RICHARD, A MINOR, BY HIS GUARDIAN AD LITEM, EDWARD J. O'CONNELL v. KIRCHNER, OTAKAR, ET AL</CITATION>
+
+<NAME end="163" start="88" party1_of="117970_6" all_names="OTAKAR BABY RICHARD A MINOR BY HIS GUARDIAN AD LITEM EDWARD J O'CONNELL" local_name_id="4" id="117970_9" >OTAKAR BABY RICHARD, A MINOR, BY HIS GUARDIAN AD LITEM, EDWARD J. O'CONNELL</NAME>
+
+<NAME end="191" start="168" all_names="KIRCHNER OTAKAR" party2_of="117970_6" local_name_id="5" id="117970_10" >KIRCHNER, OTAKAR, ET AL</NAME>
+
+<DATE start="257" end="270" id="117970_21" >June 19, 1995</DATE>
+
+<NAME start="272" local_name_id="6" end="279" id="117970_22" all_names="DECIDED" >Decided</NAME>
+
+<ORGANIZATION start="313" end="334" id="117970_24" >Yale University Child</ORGANIZATION>
+
+<NAME start="335" local_name_id="7" end="340" id="117970_25" all_names="STUDY" >Study</NAME>
+
+<ORGANIZATION start="341" end="347" id="117970_26" >Center</ORGANIZATION>
+
+<NAME start="424" local_name_id="8" end="457" id="117970_27" all_names="GOVERNOR OF THE STATE OF ILLINOIS" >Governor of the State of Illinois</NAME>
+
+<NAME start="527" local_name_id="9" end="537" id="117970_28" all_names="PAUL SIMON" >Paul Simon</NAME>
+
+<ORGANIZATION start="614" end="651" id="117970_29" >Catholic Adoptive Parents Association</ORGANIZATION>
+
+<DOCKET entry_type="docket" line="8" end="709" id="117970_23" start="702" >94-9087</DOCKET>
+
+<RELATION theme="117970_5" party1="117970_7" party1_string="DOE, JOHN AND JANE DOE" theme_string="DOE, JOHN AND JANE DOE v.  KIRCHNER" gram_type="infix" relation_type="asymmetric" id="117970_11" ></RELATION>
+
+<RELATION party2="117970_8" theme="117970_5" theme_string="DOE, JOHN AND JANE DOE v.  KIRCHNER" party2_string="KIRCHNER" gram_type="infix" relation_type="asymmetric" id="117970_12" ></RELATION>
+
+<RELATION theme="117970_6" party1="117970_9" party1_string="OTAKAR BABY RICHARD, A MINOR, BY HIS GUARDIAN AD LITEM, EDWARD J. O'CONNELL" theme_string="OTAKAR BABY RICHARD, A MINOR, BY HIS GUARDIAN AD LITEM, EDWARD J. O'CONNELL v.  KIRCHNER, OTAKAR, ET AL" gram_type="infix" relation_type="asymmetric" id="117970_13" ></RELATION>
+
+<RELATION party2="117970_10" theme="117970_6" theme_string="OTAKAR BABY RICHARD, A MINOR, BY HIS GUARDIAN AD LITEM, EDWARD J. O'CONNELL v.  KIRCHNER, OTAKAR, ET AL" party2_string="KIRCHNER, OTAKAR, ET AL" gram_type="infix" relation_type="asymmetric" id="117970_14" ></RELATION>
+
+<RELATION standard_case_string="515 U.S. 1152" X_vs_Y_string="OTAKAR BABY RICHARD, A MINOR, BY HIS GUARDIAN AD LITEM, EDWARD J. O'CONNELL v.  KIRCHNER, OTAKAR, ET AL" standard_case="117970_1" X_vs_Y="117970_6" gram_type="multi_line" relation_type="equivalence" id="117970_18" ></RELATION>
+
+<RELATION standard_case_string="515 U.S. 1152" X_vs_Y_string="DOE, JOHN AND JANE DOE v.  KIRCHNER" standard_case="117970_1" X_vs_Y="117970_5" gram_type="multi_line" relation_type="equivalence" id="117970_15" ></RELATION>
+
+<RELATION standard_case_string="115 S. Ct. 2599" X_vs_Y_string="OTAKAR BABY RICHARD, A MINOR, BY HIS GUARDIAN AD LITEM, EDWARD J. O'CONNELL v.  KIRCHNER, OTAKAR, ET AL" standard_case="117970_2" X_vs_Y="117970_6" gram_type="multi_line" relation_type="equivalence" id="117970_19" ></RELATION>
+
+<RELATION standard_case_string="115 S. Ct. 2599" X_vs_Y_string="DOE, JOHN AND JANE DOE v.  KIRCHNER" standard_case="117970_2" X_vs_Y="117970_5" gram_type="multi_line" relation_type="equivalence" id="117970_16" ></RELATION>
+
+<RELATION standard_case_string="115 S. Ct. 2600" X_vs_Y_string="OTAKAR BABY RICHARD, A MINOR, BY HIS GUARDIAN AD LITEM, EDWARD J. O'CONNELL v.  KIRCHNER, OTAKAR, ET AL" standard_case="117970_3" X_vs_Y="117970_6" gram_type="multi_line" relation_type="equivalence" id="117970_20" ></RELATION>
+
+<RELATION standard_case_string="115 S. Ct. 2600" X_vs_Y_string="DOE, JOHN AND JANE DOE v.  KIRCHNER" standard_case="117970_3" X_vs_Y="117970_5" gram_type="multi_line" relation_type="equivalence" id="117970_17" ></RELATION>
+

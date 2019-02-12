@@ -1,0 +1,36 @@
+<CITATION alternative_keys="['martycourt#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1019" id1="125014" volume="537" start="0" page_number="1019" standard_reporter="U.S." citation_global_level_id="1714.002" line="1" id="125018_1" citation_local_level_id="0" >537 U.S. 1019</CITATION>
+
+<CITATION party2="SUPREME COURT OF LOUISIANA" party1="MARTY ET AL." citation_global_level_id="20602.001" party2_short="COURT" line="1" id="125018_3" alternative_keys="['u.s._537_1019']" end="60" entry_type="party_key" lookup_key="martycourt#1" id1="125018" start="18" party1_short="MARTY" citation_local_level_id="1" >MARTY ET AL. v. SUPREME COURT OF LOUISIANA</CITATION>
+
+<NAME end="30" start="18" party1_of="125018_3" all_names="MARTY" local_name_id="1" id="125018_5" >MARTY ET AL.</NAME>
+
+<NAME start="18" local_name_id="1" end="29" id="125018_10" all_names="MARTY" >MARTY ET AL</NAME>
+
+<NAME end="60" start="34" all_names="SUPREME COURT OF LOUISIANA" party2_of="125018_3" local_name_id="2" id="125018_6" >SUPREME COURT OF LOUISIANA</NAME>
+
+<CITATION party2="SUPREME COURT OF LOUISIANA" party1="ROYOT" citation_global_level_id="109456.001" party2_short="COURT" line="1" id="125018_4" end="101" no_current_file="True" entry_type="party_key" lookup_key="royotcourt#1" id1="Dummy_File_45606" start="66" party1_short="ROYOT" citation_local_level_id="2" >ROYOT v. SUPREME COURT OF LOUISIANA</CITATION>
+
+<NAME end="71" start="66" party1_of="125018_4" all_names="ROYOT" local_name_id="3" id="125018_7" >ROYOT</NAME>
+
+<NAME end="101" start="75" all_names="SUPREME COURT OF LOUISIANA" party2_of="125018_4" local_name_id="2" id="125018_8" >SUPREME COURT OF LOUISIANA</NAME>
+
+<DOCKET end="117" no_current_file="True" entry_type="docket" lookup_key="royotcourt#1" id1="Dummy_File_45606" start="111" citation_global_level_id="109456.001" line="1" id="125018_2" citation_local_level_id="2" >02-461</DOCKET>
+
+<DATE start="159" end="176" id="125018_9" >November 12, 2002</DATE>
+
+<NAME start="269" local_name_id="4" end="272" id="125018_18" all_names="SUP" >Sup</NAME>
+
+<CITATION end="331" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_819_278" id1="Dummy_File_45607" volume="819" start="317" page_number="278" standard_reporter="SO.2D" citation_global_level_id="109457.001" line="3" id="125018_17" citation_local_level_id="3" >819 So. 2d 278</CITATION>
+
+<RELATION standard_case_string="537 U.S. 1019" X_vs_Y_string="MARTY ET AL. v. SUPREME COURT OF LOUISIANA" standard_case="125018_1" X_vs_Y="125018_3" gram_type="pre_nom" relation_type="equivalence" id="125018_11" ></RELATION>
+
+<RELATION theme="125018_3" party1="125018_5" party1_string="MARTY ET AL." theme_string="MARTY ET AL. v. SUPREME COURT OF LOUISIANA" gram_type="infix" relation_type="asymmetric" id="125018_12" ></RELATION>
+
+<RELATION party2="125018_6" theme="125018_3" theme_string="MARTY ET AL. v. SUPREME COURT OF LOUISIANA" party2_string="SUPREME COURT OF LOUISIANA" gram_type="infix" relation_type="asymmetric" id="125018_13" ></RELATION>
+
+<RELATION theme="125018_4" includes_docket_string="02-461" includes_docket="125018_2" theme_string="ROYOT v. SUPREME COURT OF LOUISIANA" gram_type="apposition" relation_type="asymmetric" id="125018_16" ></RELATION>
+
+<RELATION theme="125018_4" party1="125018_7" party1_string="ROYOT" theme_string="ROYOT v. SUPREME COURT OF LOUISIANA" gram_type="infix" relation_type="asymmetric" id="125018_14" ></RELATION>
+
+<RELATION party2="125018_8" theme="125018_4" theme_string="ROYOT v. SUPREME COURT OF LOUISIANA" party2_string="SUPREME COURT OF LOUISIANA" gram_type="infix" relation_type="asymmetric" id="125018_15" ></RELATION>
+

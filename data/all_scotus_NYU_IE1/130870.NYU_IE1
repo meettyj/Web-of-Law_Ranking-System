@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['nagelwisconsin#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_960" id1="130873" volume="539" start="0" page_number="960" standard_reporter="U.S." citation_global_level_id="1887.002" line="1" id="130870_1" citation_local_level_id="0" >539 U.S. 960</CITATION>
+
+<CITATION party2="Wisconsin" party1="Nagel" citation_global_level_id="19342.001" party2_short="Wisconsin" line="1" id="130870_3" alternative_keys="['u.s._539_960']" end="35" entry_type="party_key" lookup_key="nagelwisconsin#1" id1="130870" start="17" party1_short="Nagel" citation_local_level_id="1" >Nagel v. Wisconsin</CITATION>
+
+<NAME end="22" start="17" party1_of="130870_3" all_names="NAGEL" local_name_id="1" id="130870_4" >Nagel</NAME>
+
+<NAME end="35" start="26" all_names="WISCONSIN" party2_of="130870_3" local_name_id="2" id="130870_5" >Wisconsin</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="u.s._539_960" id1="130873" start="45" citation_global_level_id="1887.002" line="1" id="130870_2" citation_local_level_id="0" >02-1714</DOCKET>
+
+<DATE start="48" end="52" id="130870_6" >1714</DATE>
+
+<DATE start="94" end="107" id="130870_7" >June 27, 2003</DATE>
+
+<NAME start="184" local_name_id="3" end="194" id="130870_15" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="251" reporter="N. W. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.w.2d_654_95" id1="Dummy_File_40483" volume="654" start="236" page_number="95" standard_reporter="N.W.2D" citation_global_level_id="104333.001" line="3" id="130870_14" citation_local_level_id="2" >654 N. W. 2d 95</CITATION>
+
+<RELATION theme="130870_1" includes_docket_string="02-1714" includes_docket="130870_2" theme_string="539 U.S. 960" gram_type="apposition" relation_type="asymmetric" id="130870_12" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 960" X_vs_Y_string="Nagel v. Wisconsin" standard_case="130870_1" X_vs_Y="130870_3" gram_type="pre_nom" relation_type="equivalence" id="130870_8" ></RELATION>
+
+<RELATION theme="130870_3" includes_docket_string="02-1714" includes_docket="130870_2" theme_string="Nagel v. Wisconsin" gram_type="apposition" relation_type="asymmetric" id="130870_11" ></RELATION>
+
+<RELATION party2="130870_5" theme="130870_3" theme_string="Nagel v. Wisconsin" party2_string="Wisconsin" gram_type="infix" relation_type="asymmetric" id="130870_10" ></RELATION>
+
+<RELATION theme="130870_3" party1="130870_4" party1_string="Nagel" theme_string="Nagel v. Wisconsin" gram_type="infix" relation_type="asymmetric" id="130870_9" ></RELATION>
+
+<RELATION at_date_string="1714" theme="130870_2" at_date="130870_6" theme_string="02-1714" gram_type="infix" relation_type="asymmetric" id="130870_13" ></RELATION>
+

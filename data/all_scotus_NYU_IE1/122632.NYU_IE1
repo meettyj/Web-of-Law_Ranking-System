@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['carterindiana#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_831" id1="122626" volume="537" start="0" page_number="831" standard_reporter="U.S." citation_global_level_id="6215.002" line="1" id="122632_1" citation_local_level_id="0" >537 U.S. 831</CITATION>
+
+<CITATION party2="INDIANA" party1="CARTER" citation_global_level_id="47576.001" party2_short="INDIANA" line="1" id="122632_3" alternative_keys="['u.s._537_831']" end="34" entry_type="party_key" lookup_key="carterindiana#1" id1="122632" start="17" party1_short="CARTER" citation_local_level_id="1" >CARTER v. INDIANA</CITATION>
+
+<NAME end="23" start="17" party1_of="122632_3" all_names="CARTER" local_name_id="1" id="122632_4" >CARTER</NAME>
+
+<NAME end="34" start="27" all_names="INDIANA" party2_of="122632_3" local_name_id="2" id="122632_5" >INDIANA</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="u.s._537_831" id1="122626" start="44" citation_global_level_id="6215.002" line="1" id="122632_2" citation_local_level_id="0" >01-10000</DOCKET>
+
+<DATE start="94" end="109" id="122632_6" >October 7, 2002</DATE>
+
+<NAME start="200" local_name_id="3" end="203" id="122632_13" all_names="SUP" >Sup</NAME>
+
+<CITATION end="262" reporter="N.E.2d" entry_type="standard_key" no_current_file="True" lookup_key="n.e.2d_754_877" id1="Dummy_File_160227" volume="754" start="248" page_number="877" standard_reporter="N.E.2D" citation_global_level_id="224077.001" line="3" id="122632_12" citation_local_level_id="2" >754 N.E.2d 877</CITATION>
+
+<RELATION theme="122632_1" includes_docket_string="01-10000" includes_docket="122632_2" theme_string="537 U.S. 831" gram_type="apposition" relation_type="asymmetric" id="122632_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 831" X_vs_Y_string="CARTER v. INDIANA" standard_case="122632_1" X_vs_Y="122632_3" gram_type="pre_nom" relation_type="equivalence" id="122632_7" ></RELATION>
+
+<RELATION theme="122632_3" includes_docket_string="01-10000" includes_docket="122632_2" theme_string="CARTER v. INDIANA" gram_type="apposition" relation_type="asymmetric" id="122632_10" ></RELATION>
+
+<RELATION theme="122632_3" party1="122632_4" party1_string="CARTER" theme_string="CARTER v. INDIANA" gram_type="infix" relation_type="asymmetric" id="122632_8" ></RELATION>
+
+<RELATION party2="122632_5" theme="122632_3" theme_string="CARTER v. INDIANA" party2_string="INDIANA" gram_type="infix" relation_type="asymmetric" id="122632_9" ></RELATION>
+

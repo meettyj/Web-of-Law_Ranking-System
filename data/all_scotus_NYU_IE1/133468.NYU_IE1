@@ -1,0 +1,36 @@
+<CITATION alternative_keys="['smithmissouri#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_978" id1="133467" volume="540" start="0" page_number="978" standard_reporter="U.S." citation_global_level_id="16888.002" line="1" id="133468_1" citation_local_level_id="0" >540 U.S. 978</CITATION>
+
+<CITATION party2="MISSOURI" party1="SMITH" citation_global_level_id="49064.001" party2_short="MISSOURI" line="1" id="133468_4" alternative_keys="['u.s._540_978']" end="34" entry_type="party_key" lookup_key="smithmissouri#2" id1="128520" start="17" party1_short="SMITH" citation_local_level_id="1" >SMITH v. MISSOURI</CITATION>
+
+<NAME end="22" start="17" party1_of="133468_4" all_names="SMITH" local_name_id="1" id="133468_5" >SMITH</NAME>
+
+<NAME end="34" start="26" all_names="MISSOURI" party2_of="133468_4" local_name_id="2" id="133468_6" >MISSOURI</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="u.s._540_978" id1="133467" start="44" citation_global_level_id="16888.002" line="1" id="133468_3" citation_local_level_id="0" >03-6728</DOCKET>
+
+<CITATION end="59" reporter="A" entry_type="standard_key" no_current_file="True" lookup_key="a._03_324" id1="Dummy_File_92481" volume="03" start="53" page_number="324" standard_reporter="A." citation_global_level_id="156331.001" line="1" id="133468_2" citation_local_level_id="2" >03A324</CITATION>
+
+<DATE start="102" end="118" id="133468_7" >October 23, 2003</DATE>
+
+<NAME start="194" local_name_id="3" end="205" id="133468_14" all_names="APPLICATION" >Application</NAME>
+
+<PROFESSION start="263" document_level_name_id="4" end="270" id="133468_15" party="THOMAS" >JUSTICE</PROFESSION>
+
+<NAME start="271" local_name_id="4" end="277" id="133468_16" all_names="THOMAS" >THOMAS</NAME>
+
+<ORGANIZATION start="306" end="311" id="133468_17" >Court</ORGANIZATION>
+
+<CITATION end="372" reporter="S. W. 3d" entry_type="standard_key" no_current_file="True" lookup_key="s.w.3d_100_805" id1="Dummy_File_92482" volume="100" start="356" page_number="805" standard_reporter="S.W.3D" citation_global_level_id="156332.001" line="3" id="133468_13" citation_local_level_id="3" >100 S. W. 3d 805</CITATION>
+
+<RELATION theme="133468_1" includes_docket_string="03-6728" includes_docket="133468_3" theme_string="540 U.S. 978" gram_type="apposition" relation_type="asymmetric" id="133468_12" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 978" X_vs_Y_string="SMITH v. MISSOURI" standard_case="133468_1" X_vs_Y="133468_4" gram_type="pre_nom" relation_type="equivalence" id="133468_8" ></RELATION>
+
+<RELATION theme="133468_4" includes_docket_string="03-6728" includes_docket="133468_3" theme_string="SMITH v. MISSOURI" gram_type="apposition" relation_type="asymmetric" id="133468_11" ></RELATION>
+
+<RELATION party2="133468_6" theme="133468_4" theme_string="SMITH v. MISSOURI" party2_string="MISSOURI" gram_type="infix" relation_type="asymmetric" id="133468_10" ></RELATION>
+
+<RELATION theme="133468_4" party1="133468_5" party1_string="SMITH" theme_string="SMITH v. MISSOURI" gram_type="infix" relation_type="asymmetric" id="133468_9" ></RELATION>
+
+<RELATION theme="133468_16" profession_string="JUSTICE" theme_string="THOMAS" profession="133468_15" gram_type="pre_nom" relation_type="asymmetric" id="133468_18" ></RELATION>
+

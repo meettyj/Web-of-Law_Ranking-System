@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['departmentholloway#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_976" id1="140011" volume="543" start="0" page_number="976" standard_reporter="U.S." citation_global_level_id="3630.002" line="1" id="140019_1" citation_local_level_id="0" >543 U.S. 976</CITATION>
+
+<CITATION party2="HOLLOWAY" party1="BEARD, SECRETARY, PENNSYLVANIA DEPARTMENT OF CORRECTIONS, ET AL." citation_global_level_id="3630.004" party2_short="HOLLOWAY" line="2" id="140019_2" alternative_keys="['u.s._543_976']" end="93" entry_type="party_key" lookup_key="departmentholloway#2" id1="140011" start="17" party1_short="DEPARTMENT" citation_local_level_id="1" >BEARD, SECRETARY, PENNSYLVANIA DEPARTMENT OF CORRECTIONS, ET AL. v. HOLLOWAY</CITATION>
+
+<NAME end="81" start="17" party1_of="140019_2" all_names="BEARD SECRETARY PENNSYLVANIA DEPARTMENT OF CORRECTIONS" local_name_id="1" id="140019_3" >BEARD, SECRETARY, PENNSYLVANIA DEPARTMENT OF CORRECTIONS, ET AL.</NAME>
+
+<PROFESSION start="24" end="33" id="140019_5" >SECRETARY</PROFESSION>
+
+<ORGANIZATION start="35" end="73" id="140019_6" >PENNSYLVANIA DEPARTMENT OF CORRECTIONS</ORGANIZATION>
+
+<NAME end="93" start="85" all_names="HOLLOWAY" party2_of="140019_2" local_name_id="2" id="140019_4" >HOLLOWAY</NAME>
+
+<DOCKET alternative_keys="['u.s._543_976']" end="109" entry_type="docket" lookup_key="departmentholloway#2" id1="140011" start="103" citation_global_level_id="3630.004" line="3" id="140019_9" citation_local_level_id="1" >04-101</DOCKET>
+
+<ORGANIZATION start="115" end="145" id="140019_10" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="151" citation_global_level_id="3630.004" end="167" id="140019_11" citation_local_level_id="1" >November 1, 2004</DATE>
+
+<NAME start="198" local_name_id="3" end="201" id="140019_16" all_names="CIR" >Cir</NAME>
+
+<CITATION alternative_keys="['hollowayhorn#1']" end="320" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_355_707" id1="Dummy_File_48200" volume="355" start="307" page_number="707" standard_reporter="F.3D" citation_global_level_id="112050.003" line="8" id="140019_15" citation_local_level_id="2" >355 F. 3d 707</CITATION>
+
+<RELATION theme="140019_2" party1="140019_3" party1_string="BEARD, SECRETARY, PENNSYLVANIA DEPARTMENT OF CORRECTIONS, ET AL." theme_string="BEARD, SECRETARY, PENNSYLVANIA DEPARTMENT OF CORRECTIONS, ET AL. v. HOLLOWAY" gram_type="infix" relation_type="asymmetric" id="140019_7" ></RELATION>
+
+<RELATION party2="140019_4" theme="140019_2" theme_string="BEARD, SECRETARY, PENNSYLVANIA DEPARTMENT OF CORRECTIONS, ET AL. v. HOLLOWAY" party2_string="HOLLOWAY" gram_type="infix" relation_type="asymmetric" id="140019_8" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 976" X_vs_Y_string="BEARD, SECRETARY, PENNSYLVANIA DEPARTMENT OF CORRECTIONS, ET AL. v. HOLLOWAY" standard_case="140019_1" X_vs_Y="140019_2" gram_type="multi_line" relation_type="equivalence" id="140019_12" ></RELATION>
+
+<RELATION at_date_string="November 1, 2004" theme="140019_2" at_date="140019_11" theme_string="BEARD, SECRETARY, PENNSYLVANIA DEPARTMENT OF CORRECTIONS, ET AL. v. HOLLOWAY" gram_type="multi_line" relation_type="asymmetric" id="140019_14" ></RELATION>
+
+<RELATION theme="140019_2" includes_docket_string="04-101" includes_docket="140019_9" theme_string="BEARD, SECRETARY, PENNSYLVANIA DEPARTMENT OF CORRECTIONS, ET AL. v. HOLLOWAY" gram_type="multi_line" relation_type="asymmetric" id="140019_13" ></RELATION>
+

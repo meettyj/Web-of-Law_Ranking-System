@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['citybank#9']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1069" id1="130123" volume="538" start="0" page_number="1069" standard_reporter="U.S." citation_global_level_id="449.002" line="1" id="130129_1" citation_local_level_id="0" >538 U.S. 1069</CITATION>
+
+<CITATION party2="BANK OF AMERICA ET AL" party1="CITY AND COUNTY OF SAN FRANCISCO, CALIFORNIA, ET AL." citation_global_level_id="449.003" party2_short="BANK" line="1" id="130129_3" alternative_keys="['u.s._538_1069']" end="95" entry_type="party_key" lookup_key="citybank#9" id1="130123" start="18" party1_short="CITY" citation_local_level_id="1" >CITY AND COUNTY OF SAN FRANCISCO, CALIFORNIA, ET AL. v. BANK OF AMERICA ET AL</CITATION>
+
+<NAME end="70" start="18" party1_of="130129_3" all_names="CITY AND COUNTY OF SAN FRANCISCO CALIFORNIA" local_name_id="1" id="130129_4" >CITY AND COUNTY OF SAN FRANCISCO, CALIFORNIA, ET AL.</NAME>
+
+<NAME start="18" local_name_id="2" end="50" id="130129_7" all_names="CITY AND COUNTY OF SAN FRANCISCO" >CITY AND COUNTY OF SAN FRANCISCO</NAME>
+
+<NAME end="95" start="74" all_names="BANK OF AMERICA" party2_of="130129_3" local_name_id="3" id="130129_5" >BANK OF AMERICA ET AL</NAME>
+
+<DOCKET end="112" entry_type="docket" lookup_key="u.s._538_1069" id1="130123" start="105" citation_global_level_id="449.002" line="1" id="130129_2" citation_local_level_id="0" >02-1404</DOCKET>
+
+<ORGANIZATION start="118" end="148" id="130129_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="154" end="166" id="130129_6" >May 27, 2003</DATE>
+
+<ORGANIZATION start="188" end="258" id="130129_9" >CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT</ORGANIZATION>
+
+<NAME start="294" local_name_id="4" end="297" id="130129_16" all_names="CIR" >Cir</NAME>
+
+<CITATION end="425" reporter="F.3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_309_551" id1="Dummy_File_19925" volume="309" start="413" page_number="551" standard_reporter="F.3D" citation_global_level_id="83775.001" line="3" id="130129_15" citation_local_level_id="2" >309 F.3d 551</CITATION>
+
+<RELATION theme="130129_1" includes_docket_string="02-1404" includes_docket="130129_2" theme_string="538 U.S. 1069" gram_type="apposition" relation_type="asymmetric" id="130129_14" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1069" X_vs_Y_string="CITY AND COUNTY OF SAN FRANCISCO, CALIFORNIA, ET AL. v. BANK OF AMERICA ET AL" standard_case="130129_1" X_vs_Y="130129_3" gram_type="pre_nom" relation_type="equivalence" id="130129_10" ></RELATION>
+
+<RELATION theme="130129_3" includes_docket_string="02-1404" includes_docket="130129_2" theme_string="CITY AND COUNTY OF SAN FRANCISCO, CALIFORNIA, ET AL. v. BANK OF AMERICA ET AL" gram_type="apposition" relation_type="asymmetric" id="130129_13" ></RELATION>
+
+<RELATION theme="130129_3" party1="130129_4" party1_string="CITY AND COUNTY OF SAN FRANCISCO, CALIFORNIA, ET AL." theme_string="CITY AND COUNTY OF SAN FRANCISCO, CALIFORNIA, ET AL. v. BANK OF AMERICA ET AL" gram_type="infix" relation_type="asymmetric" id="130129_11" ></RELATION>
+
+<RELATION party2="130129_5" theme="130129_3" theme_string="CITY AND COUNTY OF SAN FRANCISCO, CALIFORNIA, ET AL. v. BANK OF AMERICA ET AL" party2_string="BANK OF AMERICA ET AL" gram_type="infix" relation_type="asymmetric" id="130129_12" ></RELATION>
+

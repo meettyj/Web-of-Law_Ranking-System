@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['euryyoung#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_943" id1="128449" volume="538" start="0" page_number="943" standard_reporter="U.S." citation_global_level_id="8039.002" line="1" id="128445_1" citation_local_level_id="0" >538 U.S. 943</CITATION>
+
+<CITATION party2="YOUNG" party1="EURY" citation_global_level_id="37064.001" party2_short="YOUNG" line="1" id="128445_3" alternative_keys="['u.s._538_943']" end="30" entry_type="party_key" lookup_key="euryyoung#1" id1="128445" start="17" party1_short="EURY" citation_local_level_id="1" >EURY v. YOUNG</CITATION>
+
+<NAME end="21" start="17" party1_of="128445_3" all_names="EURY" local_name_id="1" id="128445_4" >EURY</NAME>
+
+<NAME end="30" start="25" all_names="YOUNG" party2_of="128445_3" local_name_id="2" id="128445_5" >YOUNG</NAME>
+
+<DOCKET end="47" entry_type="docket" lookup_key="u.s._538_943" id1="128449" start="40" citation_global_level_id="8039.002" line="1" id="128445_2" citation_local_level_id="0" >02-8792</DOCKET>
+
+<DATE start="89" end="103" id="128445_6" >March 31, 2003</DATE>
+
+<NAME start="233" local_name_id="3" end="236" id="128445_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="128445_1" includes_docket_string="02-8792" includes_docket="128445_2" theme_string="538 U.S. 943" gram_type="apposition" relation_type="asymmetric" id="128445_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 943" X_vs_Y_string="EURY v. YOUNG" standard_case="128445_1" X_vs_Y="128445_3" gram_type="pre_nom" relation_type="equivalence" id="128445_7" ></RELATION>
+
+<RELATION theme="128445_3" includes_docket_string="02-8792" includes_docket="128445_2" theme_string="EURY v. YOUNG" gram_type="apposition" relation_type="asymmetric" id="128445_10" ></RELATION>
+
+<RELATION theme="128445_3" party1="128445_4" party1_string="EURY" theme_string="EURY v. YOUNG" gram_type="infix" relation_type="asymmetric" id="128445_8" ></RELATION>
+
+<RELATION party2="128445_5" theme="128445_3" theme_string="EURY v. YOUNG" party2_string="YOUNG" gram_type="infix" relation_type="asymmetric" id="128445_9" ></RELATION>
+

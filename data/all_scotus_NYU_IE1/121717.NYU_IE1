@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['phelpsstates#4']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._536_947" id1="121723" volume="536" start="0" page_number="947" standard_reporter="U.S." citation_global_level_id="13867.002" line="1" id="121717_1" citation_local_level_id="0" >536 U.S. 947</CITATION>
+
+<CITATION party2="UNITED STATES" party1="PHELPS" citation_global_level_id="54699.001" party2_short="STATES" line="2" id="121717_2" alternative_keys="['u.s._536_947']" end="40" entry_type="party_key" lookup_key="phelpsstates#4" id1="121717" start="17" party1_short="PHELPS" citation_local_level_id="1" >PHELPS v. UNITED STATES</CITATION>
+
+<NAME end="23" start="17" party1_of="121717_2" all_names="PHELPS" local_name_id="1" id="121717_3" >PHELPS</NAME>
+
+<NAME end="40" start="27" all_names="UNITED STATES" party2_of="121717_2" local_name_id="2" id="121717_4" >UNITED STATES</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="phelpsstates#4" id1="121717" start="50" citation_global_level_id="54699.001" line="3" id="121717_7" citation_local_level_id="1" >01-10311</DOCKET>
+
+<DATE start="104" citation_global_level_id="54699.001" end="117" id="121717_8" citation_local_level_id="1" >June 24, 2002</DATE>
+
+<NAME start="149" local_name_id="3" end="152" id="121717_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="203" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_283_1176" id1="Dummy_File_103931" volume="283" start="189" page_number="1176" standard_reporter="F.3D" citation_global_level_id="167781.001" line="8" id="121717_12" citation_local_level_id="2" >283 F. 3d 1176</CITATION>
+
+<RELATION theme="121717_2" party1="121717_3" party1_string="PHELPS" theme_string="PHELPS v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="121717_5" ></RELATION>
+
+<RELATION party2="121717_4" theme="121717_2" theme_string="PHELPS v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="121717_6" ></RELATION>
+
+<RELATION standard_case_string="536 U.S. 947" X_vs_Y_string="PHELPS v. UNITED STATES" standard_case="121717_1" X_vs_Y="121717_2" gram_type="multi_line" relation_type="equivalence" id="121717_9" ></RELATION>
+
+<RELATION at_date_string="June 24, 2002" theme="121717_2" at_date="121717_8" theme_string="PHELPS v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="121717_11" ></RELATION>
+
+<RELATION theme="121717_2" includes_docket_string="01-10311" includes_docket="121717_7" theme_string="PHELPS v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="121717_10" ></RELATION>
+

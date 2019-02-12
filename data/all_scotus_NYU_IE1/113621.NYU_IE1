@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['boydstates#9']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_858" id1="113621" volume="510" start="0" page_number="858" standard_reporter="U.S." citation_global_level_id="7617.002" line="1" id="113621_1" citation_local_level_id="0" >510 U.S. 858</CITATION>
+
+<CITATION party2="United States" party1="Boyd" citation_global_level_id="58495.001" party2_short="States" line="1" id="113621_3" alternative_keys="['u.s._510_858']" end="38" entry_type="party_key" lookup_key="boydstates#9" id1="124424" start="17" party1_short="Boyd" citation_local_level_id="1" >Boyd v. United States</CITATION>
+
+<NAME end="21" start="17" party1_of="113621_3" all_names="BOYD" local_name_id="1" id="113621_4" >Boyd</NAME>
+
+<NAME end="38" start="25" all_names="UNITED STATES" party2_of="113621_3" local_name_id="2" id="113621_5" >United States</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._510_858" id1="113621" start="48" citation_global_level_id="7617.002" line="1" id="113621_2" citation_local_level_id="0" >92-9221</DOCKET>
+
+<DATE start="97" end="112" id="113621_6" >October 4, 1993</DATE>
+
+<NAME start="190" local_name_id="3" end="200" id="113621_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="238" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_991_796" id1="Dummy_File_14925" volume="991" start="225" page_number="796" standard_reporter="F.2D" citation_global_level_id="78775.001" line="3" id="113621_12" citation_local_level_id="2" >991 F. 2d 796</CITATION>
+
+<RELATION theme="113621_1" includes_docket_string="92-9221" includes_docket="113621_2" theme_string="510 U.S. 858" gram_type="apposition" relation_type="asymmetric" id="113621_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 858" X_vs_Y_string="Boyd v. United States" standard_case="113621_1" X_vs_Y="113621_3" gram_type="pre_nom" relation_type="equivalence" id="113621_7" ></RELATION>
+
+<RELATION theme="113621_3" includes_docket_string="92-9221" includes_docket="113621_2" theme_string="Boyd v. United States" gram_type="apposition" relation_type="asymmetric" id="113621_10" ></RELATION>
+
+<RELATION theme="113621_3" party1="113621_4" party1_string="Boyd" theme_string="Boyd v. United States" gram_type="infix" relation_type="asymmetric" id="113621_8" ></RELATION>
+
+<RELATION party2="113621_5" theme="113621_3" theme_string="Boyd v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="113621_9" ></RELATION>
+

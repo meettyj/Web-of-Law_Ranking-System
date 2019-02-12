@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['gillettedelmore#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_932" id1="114587" volume="510" start="0" page_number="932" standard_reporter="U.S." citation_global_level_id="4186.002" line="1" id="114580_1" citation_local_level_id="0" >510 U.S. 932</CITATION>
+
+<CITATION party2="Delmore et al" party1="Gillette" citation_global_level_id="59986.001" party2_short="Delmore" line="1" id="114580_3" alternative_keys="['u.s._510_932']" end="42" entry_type="party_key" lookup_key="gillettedelmore#1" id1="114580" start="17" party1_short="Gillette" citation_local_level_id="1" >Gillette v. Delmore et al</CITATION>
+
+<NAME end="25" start="17" party1_of="114580_3" all_names="GILLETTE" local_name_id="1" id="114580_4" >Gillette</NAME>
+
+<NAME end="42" start="29" all_names="DELMORE" party2_of="114580_3" local_name_id="2" id="114580_5" >Delmore et al</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._510_932" id1="114587" start="52" citation_global_level_id="4186.002" line="1" id="114580_2" citation_local_level_id="0" >93-315</DOCKET>
+
+<DATE start="100" end="116" id="114580_6" >October 18, 1993</DATE>
+
+<NAME start="194" local_name_id="3" end="204" id="114580_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="243" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_979_1342" id1="Dummy_File_201016" volume="979" start="229" page_number="1342" standard_reporter="F.2D" citation_global_level_id="264866.001" line="3" id="114580_12" citation_local_level_id="2" >979 F. 2d 1342</CITATION>
+
+<RELATION theme="114580_1" includes_docket_string="93-315" includes_docket="114580_2" theme_string="510 U.S. 932" gram_type="apposition" relation_type="asymmetric" id="114580_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 932" X_vs_Y_string="Gillette v. Delmore et al" standard_case="114580_1" X_vs_Y="114580_3" gram_type="pre_nom" relation_type="equivalence" id="114580_7" ></RELATION>
+
+<RELATION theme="114580_3" includes_docket_string="93-315" includes_docket="114580_2" theme_string="Gillette v. Delmore et al" gram_type="apposition" relation_type="asymmetric" id="114580_10" ></RELATION>
+
+<RELATION theme="114580_3" party1="114580_4" party1_string="Gillette" theme_string="Gillette v. Delmore et al" gram_type="infix" relation_type="asymmetric" id="114580_8" ></RELATION>
+
+<RELATION party2="114580_5" theme="114580_3" theme_string="Gillette v. Delmore et al" party2_string="Delmore et al" gram_type="infix" relation_type="asymmetric" id="114580_9" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['mosleystates#5']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1078" id1="141308" volume="543" start="0" page_number="1078" standard_reporter="U.S." citation_global_level_id="1441.002" line="1" id="141310_1" citation_local_level_id="0" >543 U.S. 1078</CITATION>
+
+<CITATION party2="UNITED STATES" party1="MOSLEY" citation_global_level_id="58215.001" party2_short="STATES" line="2" id="141310_2" alternative_keys="['u.s._543_1078']" end="41" entry_type="party_key" lookup_key="mosleystates#5" id1="141636" start="18" party1_short="MOSLEY" citation_local_level_id="1" >MOSLEY v. UNITED STATES</CITATION>
+
+<NAME end="24" start="18" party1_of="141310_2" all_names="MOSLEY" local_name_id="1" id="141310_3" >MOSLEY</NAME>
+
+<NAME end="41" start="28" all_names="UNITED STATES" party2_of="141310_2" local_name_id="2" id="141310_4" >UNITED STATES</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="mosleystates#5" id1="141636" start="51" citation_global_level_id="58215.001" line="3" id="141310_7" citation_local_level_id="1" >04-7527</DOCKET>
+
+<ORGANIZATION start="64" end="94" id="141310_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="100" citation_global_level_id="58215.001" end="116" id="141310_9" citation_local_level_id="1" >January 10, 2005</DATE>
+
+<NAME start="148" local_name_id="3" end="151" id="141310_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="141310_2" party1="141310_3" party1_string="MOSLEY" theme_string="MOSLEY v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="141310_5" ></RELATION>
+
+<RELATION party2="141310_4" theme="141310_2" theme_string="MOSLEY v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="141310_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1078" X_vs_Y_string="MOSLEY v. UNITED STATES" standard_case="141310_1" X_vs_Y="141310_2" gram_type="multi_line" relation_type="equivalence" id="141310_10" ></RELATION>
+
+<RELATION at_date_string="January 10, 2005" theme="141310_2" at_date="141310_9" theme_string="MOSLEY v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="141310_12" ></RELATION>
+
+<RELATION theme="141310_2" includes_docket_string="04-7527" includes_docket="141310_7" theme_string="MOSLEY v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="141310_11" ></RELATION>
+

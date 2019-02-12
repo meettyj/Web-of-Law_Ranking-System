@@ -1,0 +1,38 @@
+<CITATION alternative_keys="['motorestate#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1028" id1="129573" volume="538" start="0" page_number="1028" standard_reporter="U.S." citation_global_level_id="1899.002" line="1" id="129568_1" citation_local_level_id="0" >538 U.S. 1028</CITATION>
+
+<CITATION party2="ESTATE OF SMITH ET AL" party1="FORD MOTOR CO." citation_global_level_id="33811.001" party2_short="ESTATE" line="1" id="129568_3" alternative_keys="['u.s._538_1028']" end="57" entry_type="party_key" lookup_key="motorestate#1" id1="129568" start="18" party1_short="MOTOR" citation_local_level_id="1" >FORD MOTOR CO. v. ESTATE OF SMITH ET AL</CITATION>
+
+<NAME end="32" start="18" party1_of="129568_3" all_names="FORD MOTOR CO" local_name_id="1" id="129568_4" >FORD MOTOR CO.</NAME>
+
+<ORGANIZATION start="18" end="31" id="129568_7" >FORD MOTOR CO</ORGANIZATION>
+
+<NAME end="57" start="36" all_names="ESTATE OF SMITH" party2_of="129568_3" local_name_id="2" id="129568_5" >ESTATE OF SMITH ET AL</NAME>
+
+<DOCKET end="74" entry_type="docket" lookup_key="u.s._538_1028" id1="129573" start="67" citation_global_level_id="1899.002" line="1" id="129568_2" citation_local_level_id="0" >02-1096</DOCKET>
+
+<DATE start="116" end="128" id="129568_6" >May 19, 2003</DATE>
+
+<NAME start="220" local_name_id="3" end="223" id="129568_17" all_names="SUP" >Sup</NAME>
+
+<CITATION party2="Campbell" party1="State Farm Mut. Automobile Ins. Co." citation_global_level_id="149571.001" party2_short="Campbell" line="3" id="129568_14" end="374" no_current_file="True" entry_type="party_key" lookup_key="inscampbell#2" id1="Dummy_File_85721" start="327" party1_short="Ins" citation_local_level_id="2" >State Farm Mut. Automobile Ins. Co. v. Campbell</CITATION>
+
+<NAME end="362" start="327" party1_of="129568_14" all_names="STATE FARM MUT AUTOMOBILE INS CO" local_name_id="4" id="129568_15" >State Farm Mut. Automobile Ins. Co.</NAME>
+
+<NAME end="374" start="366" all_names="CAMPBELL" party2_of="129568_14" local_name_id="5" id="129568_16" >Campbell</NAME>
+
+<CITATION end="421" reporter="S. W. 3d" entry_type="standard_key" no_current_file="True" lookup_key="s.w.3d_83_483" id1="Dummy_File_93123" volume="83" start="406" page_number="483" standard_reporter="S.W.3D" citation_global_level_id="156973.001" line="3" id="129568_13" citation_local_level_id="3" >83 S. W. 3d 483</CITATION>
+
+<RELATION theme="129568_1" includes_docket_string="02-1096" includes_docket="129568_2" theme_string="538 U.S. 1028" gram_type="apposition" relation_type="asymmetric" id="129568_12" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1028" X_vs_Y_string="FORD MOTOR CO. v. ESTATE OF SMITH ET AL" standard_case="129568_1" X_vs_Y="129568_3" gram_type="pre_nom" relation_type="equivalence" id="129568_8" ></RELATION>
+
+<RELATION theme="129568_3" includes_docket_string="02-1096" includes_docket="129568_2" theme_string="FORD MOTOR CO. v. ESTATE OF SMITH ET AL" gram_type="apposition" relation_type="asymmetric" id="129568_11" ></RELATION>
+
+<RELATION party2="129568_5" theme="129568_3" theme_string="FORD MOTOR CO. v. ESTATE OF SMITH ET AL" party2_string="ESTATE OF SMITH ET AL" gram_type="infix" relation_type="asymmetric" id="129568_10" ></RELATION>
+
+<RELATION theme="129568_3" party1="129568_4" party1_string="FORD MOTOR CO." theme_string="FORD MOTOR CO. v. ESTATE OF SMITH ET AL" gram_type="infix" relation_type="asymmetric" id="129568_9" ></RELATION>
+
+<RELATION theme="129568_14" party1="129568_15" party1_string="State Farm Mut. Automobile Ins. Co." theme_string="State Farm Mut. Automobile Ins. Co. v. Campbell" gram_type="infix" relation_type="asymmetric" id="129568_18" ></RELATION>
+
+<RELATION party2="129568_16" theme="129568_14" theme_string="State Farm Mut. Automobile Ins. Co. v. Campbell" party2_string="Campbell" gram_type="infix" relation_type="asymmetric" id="129568_19" ></RELATION>
+

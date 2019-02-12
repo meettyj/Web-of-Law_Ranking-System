@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['peanutbass#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_886" id1="123349" volume="537" start="0" page_number="886" standard_reporter="U.S." citation_global_level_id="118.002" line="1" id="123346_1" citation_local_level_id="0" >537 U.S. 886</CITATION>
+
+<CITATION party2="BASS ET AL" party1="GOLDEN PEANUT CO." citation_global_level_id="6480.001" party2_short="BASS" line="1" id="123346_3" alternative_keys="['u.s._537_886']" end="48" entry_type="party_key" lookup_key="peanutbass#1" id1="123346" start="17" party1_short="PEANUT" citation_local_level_id="1" >GOLDEN PEANUT CO. v. BASS ET AL</CITATION>
+
+<NAME end="34" start="17" party1_of="123346_3" all_names="GOLDEN PEANUT CO" local_name_id="1" id="123346_4" >GOLDEN PEANUT CO.</NAME>
+
+<ORGANIZATION start="17" end="33" id="123346_7" >GOLDEN PEANUT CO</ORGANIZATION>
+
+<NAME end="48" start="38" all_names="BASS" party2_of="123346_3" local_name_id="2" id="123346_5" >BASS ET AL</NAME>
+
+<DOCKET end="64" entry_type="docket" lookup_key="u.s._537_886" id1="123349" start="58" citation_global_level_id="118.002" line="1" id="123346_2" citation_local_level_id="0" >02-169</DOCKET>
+
+<DATE start="106" end="121" id="123346_6" >October 7, 2002</DATE>
+
+<NAME start="212" local_name_id="3" end="215" id="123346_15" all_names="SUP" >Sup</NAME>
+
+<CITATION end="271" reporter="Ga." entry_type="standard_key" no_current_file="True" lookup_key="ga._275_145" id1="Dummy_File_145227" volume="275" start="260" page_number="145" standard_reporter="GA." citation_global_level_id="209077.001" line="3" id="123346_13" citation_local_level_id="2" >275 Ga. 145</CITATION>
+
+<CITATION end="289" reporter="S. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="s.e.2d_563_116" id1="Dummy_File_145228" volume="563" start="273" page_number="116" standard_reporter="S.E.2D" citation_global_level_id="209078.001" line="3" id="123346_14" citation_local_level_id="3" >563 S. E. 2d 116</CITATION>
+
+<RELATION theme="123346_1" includes_docket_string="02-169" includes_docket="123346_2" theme_string="537 U.S. 886" gram_type="apposition" relation_type="asymmetric" id="123346_12" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 886" X_vs_Y_string="GOLDEN PEANUT CO. v. BASS ET AL" standard_case="123346_1" X_vs_Y="123346_3" gram_type="pre_nom" relation_type="equivalence" id="123346_8" ></RELATION>
+
+<RELATION theme="123346_3" includes_docket_string="02-169" includes_docket="123346_2" theme_string="GOLDEN PEANUT CO. v. BASS ET AL" gram_type="apposition" relation_type="asymmetric" id="123346_11" ></RELATION>
+
+<RELATION party2="123346_5" theme="123346_3" theme_string="GOLDEN PEANUT CO. v. BASS ET AL" party2_string="BASS ET AL" gram_type="infix" relation_type="asymmetric" id="123346_10" ></RELATION>
+
+<RELATION theme="123346_3" party1="123346_4" party1_string="GOLDEN PEANUT CO." theme_string="GOLDEN PEANUT CO. v. BASS ET AL" gram_type="infix" relation_type="asymmetric" id="123346_9" ></RELATION>
+

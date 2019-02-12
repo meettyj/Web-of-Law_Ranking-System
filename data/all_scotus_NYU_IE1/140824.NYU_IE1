@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['evansstates#9']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1037" id1="140818" volume="543" start="0" page_number="1037" standard_reporter="U.S." citation_global_level_id="472.002" line="1" id="140824_1" citation_local_level_id="0" >543 U.S. 1037</CITATION>
+
+<CITATION party2="UNITED STATES" party1="EVANS" citation_global_level_id="29136.001" party2_short="STATES" line="2" id="140824_2" alternative_keys="['u.s._543_1037']" end="40" entry_type="party_key" lookup_key="evansstates#9" id1="129823" start="18" party1_short="EVANS" citation_local_level_id="1" >EVANS v. UNITED STATES</CITATION>
+
+<NAME end="23" start="18" party1_of="140824_2" all_names="EVANS" local_name_id="1" id="140824_3" >EVANS</NAME>
+
+<NAME end="40" start="27" all_names="UNITED STATES" party2_of="140824_2" local_name_id="2" id="140824_4" >UNITED STATES</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="evansstates#9" id1="129823" start="50" citation_global_level_id="29136.001" line="3" id="140824_7" citation_local_level_id="1" >04-7155</DOCKET>
+
+<ORGANIZATION start="63" end="93" id="140824_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="99" citation_global_level_id="29136.001" end="116" id="140824_9" citation_local_level_id="1" >December 13, 2004</DATE>
+
+<NAME start="149" local_name_id="3" end="152" id="140824_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="140824_2" party1="140824_3" party1_string="EVANS" theme_string="EVANS v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="140824_5" ></RELATION>
+
+<RELATION party2="140824_4" theme="140824_2" theme_string="EVANS v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="140824_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1037" X_vs_Y_string="EVANS v. UNITED STATES" standard_case="140824_1" X_vs_Y="140824_2" gram_type="multi_line" relation_type="equivalence" id="140824_10" ></RELATION>
+
+<RELATION at_date_string="December 13, 2004" theme="140824_2" at_date="140824_9" theme_string="EVANS v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="140824_12" ></RELATION>
+
+<RELATION theme="140824_2" includes_docket_string="04-7155" includes_docket="140824_7" theme_string="EVANS v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="140824_11" ></RELATION>
+

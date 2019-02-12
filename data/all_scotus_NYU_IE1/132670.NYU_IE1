@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['haneykansas#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_916" id1="132669" volume="540" start="0" page_number="916" standard_reporter="U.S." citation_global_level_id="8196.002" line="1" id="132670_1" citation_local_level_id="0" >540 U.S. 916</CITATION>
+
+<CITATION party2="KANSAS" party1="HANEY" citation_global_level_id="46067.001" party2_short="KANSAS" line="1" id="132670_3" alternative_keys="['u.s._540_916']" end="32" entry_type="party_key" lookup_key="haneykansas#1" id1="132670" start="17" party1_short="HANEY" citation_local_level_id="1" >HANEY v. KANSAS</CITATION>
+
+<NAME end="22" start="17" party1_of="132670_3" all_names="HANEY" local_name_id="1" id="132670_4" >HANEY</NAME>
+
+<NAME end="32" start="26" all_names="KANSAS" party2_of="132670_3" local_name_id="2" id="132670_5" >KANSAS</NAME>
+
+<DOCKET end="49" entry_type="docket" lookup_key="u.s._540_916" id1="132669" start="42" citation_global_level_id="8196.002" line="1" id="132670_2" citation_local_level_id="0" >03-5558</DOCKET>
+
+<DATE start="91" end="106" id="132670_6" >October 6, 2003</DATE>
+
+<NAME start="183" local_name_id="3" end="193" id="132670_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="230" reporter="P. 3d" entry_type="standard_key" no_current_file="True" lookup_key="p.3d_67_155" id1="Dummy_File_132844" volume="67" start="218" page_number="155" standard_reporter="P.3D" citation_global_level_id="196694.001" line="3" id="132670_12" citation_local_level_id="2" >67 P. 3d 155</CITATION>
+
+<RELATION theme="132670_1" includes_docket_string="03-5558" includes_docket="132670_2" theme_string="540 U.S. 916" gram_type="apposition" relation_type="asymmetric" id="132670_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 916" X_vs_Y_string="HANEY v. KANSAS" standard_case="132670_1" X_vs_Y="132670_3" gram_type="pre_nom" relation_type="equivalence" id="132670_7" ></RELATION>
+
+<RELATION theme="132670_3" includes_docket_string="03-5558" includes_docket="132670_2" theme_string="HANEY v. KANSAS" gram_type="apposition" relation_type="asymmetric" id="132670_10" ></RELATION>
+
+<RELATION theme="132670_3" party1="132670_4" party1_string="HANEY" theme_string="HANEY v. KANSAS" gram_type="infix" relation_type="asymmetric" id="132670_8" ></RELATION>
+
+<RELATION party2="132670_5" theme="132670_3" theme_string="HANEY v. KANSAS" party2_string="KANSAS" gram_type="infix" relation_type="asymmetric" id="132670_9" ></RELATION>
+

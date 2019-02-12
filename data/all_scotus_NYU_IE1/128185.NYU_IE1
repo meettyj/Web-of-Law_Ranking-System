@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['gurarymed#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_923" id1="128174" volume="538" start="0" page_number="923" standard_reporter="U.S." citation_global_level_id="39.002" line="1" id="128185_1" citation_local_level_id="0" >538 U.S. 923</CITATION>
+
+<CITATION party2="NU-TECH BIO-MED, INC" party1="GURARY" citation_global_level_id="39.008" party2_short="MED" line="1" id="128185_3" alternative_keys="['u.s._538_923']" end="47" entry_type="party_key" lookup_key="gurarymed#2" id1="128174" start="17" party1_short="GURARY" citation_local_level_id="1" >GURARY v. NU-TECH BIO-MED, INC</CITATION>
+
+<NAME end="23" start="17" party1_of="128185_3" all_names="GURARY" local_name_id="1" id="128185_4" >GURARY</NAME>
+
+<NAME end="47" start="27" all_names="NU-TECH BIO-MED INC" party2_of="128185_3" local_name_id="2" id="128185_5" >NU-TECH BIO-MED, INC</NAME>
+
+<DOCKET end="64" entry_type="docket" lookup_key="u.s._538_923" id1="128174" start="57" citation_global_level_id="39.002" line="1" id="128185_2" citation_local_level_id="0" >02-1069</DOCKET>
+
+<DATE start="106" end="120" id="128185_6" >March 24, 2003</DATE>
+
+<NAME start="249" local_name_id="3" end="252" id="128185_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="302" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_303_212" id1="Dummy_File_166867" volume="303" start="289" page_number="212" standard_reporter="F.3D" citation_global_level_id="230717.001" line="3" id="128185_12" citation_local_level_id="2" >303 F. 3d 212</CITATION>
+
+<RELATION theme="128185_1" includes_docket_string="02-1069" includes_docket="128185_2" theme_string="538 U.S. 923" gram_type="apposition" relation_type="asymmetric" id="128185_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 923" X_vs_Y_string="GURARY v. NU-TECH BIO-MED, INC" standard_case="128185_1" X_vs_Y="128185_3" gram_type="pre_nom" relation_type="equivalence" id="128185_7" ></RELATION>
+
+<RELATION theme="128185_3" includes_docket_string="02-1069" includes_docket="128185_2" theme_string="GURARY v. NU-TECH BIO-MED, INC" gram_type="apposition" relation_type="asymmetric" id="128185_10" ></RELATION>
+
+<RELATION theme="128185_3" party1="128185_4" party1_string="GURARY" theme_string="GURARY v. NU-TECH BIO-MED, INC" gram_type="infix" relation_type="asymmetric" id="128185_8" ></RELATION>
+
+<RELATION party2="128185_5" theme="128185_3" theme_string="GURARY v. NU-TECH BIO-MED, INC" party2_string="NU-TECH BIO-MED, INC" gram_type="infix" relation_type="asymmetric" id="128185_9" ></RELATION>
+

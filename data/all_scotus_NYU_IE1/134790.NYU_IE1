@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['colladostates#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_904" id1="134789" volume="541" start="0" page_number="904" standard_reporter="U.S." citation_global_level_id="1479.002" line="1" id="134790_1" citation_local_level_id="0" >541 U.S. 904</CITATION>
+
+<CITATION party2="UNITED STATES" party1="COLLADO" citation_global_level_id="28722.001" party2_short="STATES" line="2" id="134790_2" alternative_keys="['u.s._541_904']" end="41" entry_type="party_key" lookup_key="colladostates#1" id1="134790" start="17" party1_short="COLLADO" citation_local_level_id="1" >COLLADO v. UNITED STATES</CITATION>
+
+<NAME end="24" start="17" party1_of="134790_2" all_names="COLLADO" local_name_id="1" id="134790_3" >COLLADO</NAME>
+
+<NAME end="41" start="28" all_names="UNITED STATES" party2_of="134790_2" local_name_id="2" id="134790_4" >UNITED STATES</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="colladostates#1" id1="134790" start="51" citation_global_level_id="28722.001" line="3" id="134790_7" citation_local_level_id="1" >03-1130</DOCKET>
+
+<ORGANIZATION start="64" end="94" id="134790_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="100" citation_global_level_id="28722.001" end="113" id="134790_9" citation_local_level_id="1" >March 8, 2004</DATE>
+
+<NAME start="144" local_name_id="3" end="147" id="134790_14" all_names="CIR" >Cir</NAME>
+
+<CITATION end="197" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_348_323" id1="Dummy_File_178763" volume="348" start="184" page_number="323" standard_reporter="F.3D" citation_global_level_id="242613.001" line="8" id="134790_13" citation_local_level_id="2" >348 F. 3d 323</CITATION>
+
+<RELATION theme="134790_2" party1="134790_3" party1_string="COLLADO" theme_string="COLLADO v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="134790_5" ></RELATION>
+
+<RELATION party2="134790_4" theme="134790_2" theme_string="COLLADO v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="134790_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 904" X_vs_Y_string="COLLADO v. UNITED STATES" standard_case="134790_1" X_vs_Y="134790_2" gram_type="multi_line" relation_type="equivalence" id="134790_10" ></RELATION>
+
+<RELATION at_date_string="March 8, 2004" theme="134790_2" at_date="134790_9" theme_string="COLLADO v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="134790_12" ></RELATION>
+
+<RELATION theme="134790_2" includes_docket_string="03-1130" includes_docket="134790_7" theme_string="COLLADO v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="134790_11" ></RELATION>
+

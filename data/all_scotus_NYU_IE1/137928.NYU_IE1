@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['circledepartment#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_815" id1="137920" volume="543" start="0" page_number="815" standard_reporter="U.S." citation_global_level_id="4630.002" line="1" id="137928_1" citation_local_level_id="0" >543 U.S. 815</CITATION>
+
+<CITATION party2="GEORGIA DEPARTMENT OF REVENUE ET AL" party1="BLUE CIRCLE, INC." citation_global_level_id="15240.001" party2_short="DEPARTMENT" line="2" id="137928_2" alternative_keys="['u.s._543_815']" end="73" entry_type="party_key" lookup_key="circledepartment#1" id1="137928" start="17" party1_short="CIRCLE" citation_local_level_id="1" >BLUE CIRCLE, INC. v. GEORGIA DEPARTMENT OF REVENUE ET AL</CITATION>
+
+<NAME end="34" start="17" party1_of="137928_2" all_names="BLUE CIRCLE INC" local_name_id="1" id="137928_3" >BLUE CIRCLE, INC.</NAME>
+
+<ORGANIZATION start="17" end="33" id="137928_5" >BLUE CIRCLE, INC</ORGANIZATION>
+
+<NAME end="73" start="38" all_names="GEORGIA DEPARTMENT OF REVENUE" party2_of="137928_2" local_name_id="2" id="137928_4" >GEORGIA DEPARTMENT OF REVENUE ET AL</NAME>
+
+<DOCKET end="90" entry_type="docket" lookup_key="circledepartment#1" id1="137928" start="83" citation_global_level_id="15240.001" line="3" id="137928_8" citation_local_level_id="1" >03-1603</DOCKET>
+
+<ORGANIZATION start="96" end="126" id="137928_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="132" citation_global_level_id="15240.001" end="147" id="137928_10" citation_local_level_id="1" >October 4, 2004</DATE>
+
+<NAME start="169" local_name_id="3" end="171" id="137928_14" all_names="CT" >Ct</NAME>
+
+<RELATION theme="137928_2" party1="137928_3" party1_string="BLUE CIRCLE, INC." theme_string="BLUE CIRCLE, INC. v. GEORGIA DEPARTMENT OF REVENUE ET AL" gram_type="infix" relation_type="asymmetric" id="137928_6" ></RELATION>
+
+<RELATION party2="137928_4" theme="137928_2" theme_string="BLUE CIRCLE, INC. v. GEORGIA DEPARTMENT OF REVENUE ET AL" party2_string="GEORGIA DEPARTMENT OF REVENUE ET AL" gram_type="infix" relation_type="asymmetric" id="137928_7" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 815" X_vs_Y_string="BLUE CIRCLE, INC. v. GEORGIA DEPARTMENT OF REVENUE ET AL" standard_case="137928_1" X_vs_Y="137928_2" gram_type="multi_line" relation_type="equivalence" id="137928_11" ></RELATION>
+
+<RELATION at_date_string="October 4, 2004" theme="137928_2" at_date="137928_10" theme_string="BLUE CIRCLE, INC. v. GEORGIA DEPARTMENT OF REVENUE ET AL" gram_type="multi_line" relation_type="asymmetric" id="137928_13" ></RELATION>
+
+<RELATION theme="137928_2" includes_docket_string="03-1603" includes_docket="137928_8" theme_string="BLUE CIRCLE, INC. v. GEORGIA DEPARTMENT OF REVENUE ET AL" gram_type="multi_line" relation_type="asymmetric" id="137928_12" ></RELATION>
+

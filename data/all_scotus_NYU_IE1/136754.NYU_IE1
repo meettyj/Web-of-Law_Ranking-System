@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['justicecalifornia#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_1078" id1="136752" volume="541" start="0" page_number="1078" standard_reporter="U.S." citation_global_level_id="1962.002" line="3" id="136754_2" citation_local_level_id="0" >541 U.S. 1078</CITATION>
+
+<CITATION party2="CALIFORNIA" party1="JUSTICE" citation_global_level_id="27635.001" party2_short="CALIFORNIA" line="3" id="136754_4" alternative_keys="['u.s._541_1078']" end="39" entry_type="party_key" lookup_key="justicecalifornia#1" id1="136754" start="18" party1_short="JUSTICE" citation_local_level_id="1" >JUSTICE v. CALIFORNIA</CITATION>
+
+<NAME end="25" start="18" party1_of="136754_4" all_names="JUSTICE" local_name_id="1" id="136754_5" >JUSTICE</NAME>
+
+<NAME end="39" start="29" all_names="CALIFORNIA" party2_of="136754_4" local_name_id="2" id="136754_6" >CALIFORNIA</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._541_1078" id1="136752" start="49" citation_global_level_id="1962.002" line="3" id="136754_3" citation_local_level_id="0" >03-9822</DOCKET>
+
+<ORGANIZATION start="62" end="92" id="136754_12" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="98" citation_global_level_id="27635.001" end="110" id="136754_13" citation_local_level_id="1" >June 1, 2004</DATE>
+
+<NAME start="132" local_name_id="3" end="135" id="136754_15" all_names="SUP" >Sup</NAME>
+
+<RELATION theme="136754_2" includes_docket_string="03-9822" includes_docket="136754_3" theme_string="541 U.S. 1078" gram_type="apposition" relation_type="asymmetric" id="136754_11" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 1078" X_vs_Y_string="JUSTICE v. CALIFORNIA" standard_case="136754_2" X_vs_Y="136754_4" gram_type="pre_nom" relation_type="equivalence" id="136754_7" ></RELATION>
+
+<RELATION theme="136754_4" includes_docket_string="03-9822" includes_docket="136754_3" theme_string="JUSTICE v. CALIFORNIA" gram_type="apposition" relation_type="asymmetric" id="136754_10" ></RELATION>
+
+<RELATION theme="136754_4" party1="136754_5" party1_string="JUSTICE" theme_string="JUSTICE v. CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="136754_8" ></RELATION>
+
+<RELATION party2="136754_6" theme="136754_4" theme_string="JUSTICE v. CALIFORNIA" party2_string="CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="136754_9" ></RELATION>
+
+<RELATION at_date_string="June 1, 2004" theme="136754_4" at_date="136754_13" theme_string="JUSTICE v. CALIFORNIA" gram_type="multi_line" relation_type="asymmetric" id="136754_14" ></RELATION>
+

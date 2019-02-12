@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['jamesyork#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1077" id1="116434" volume="510" start="0" page_number="1077" standard_reporter="U.S." citation_global_level_id="368.002" line="1" id="116427_1" citation_local_level_id="0" >510 U.S. 1077</CITATION>
+
+<CITATION party2="New York" party1="James" citation_global_level_id="59600.001" party2_short="York" line="1" id="116427_3" alternative_keys="['u.s._510_1077']" end="35" entry_type="party_key" lookup_key="jamesyork#1" id1="116427" start="18" party1_short="James" citation_local_level_id="1" >James v. New York</CITATION>
+
+<NAME end="23" start="18" party1_of="116427_3" all_names="JAMES" local_name_id="1" id="116427_4" >James</NAME>
+
+<NAME end="35" start="27" all_names="NEW YORK" party2_of="116427_3" local_name_id="2" id="116427_5" >New York</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="u.s._510_1077" id1="116434" start="45" citation_global_level_id="368.002" line="1" id="116427_2" citation_local_level_id="0" >93-6827</DOCKET>
+
+<DATE start="94" end="110" id="116427_6" >January 18, 1994</DATE>
+
+<NAME start="215" local_name_id="3" end="225" id="116427_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="291" reporter="N. Y. S. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.y.s.2d_594_499" id1="Dummy_File_185588" volume="594" start="272" page_number="499" standard_reporter="N.Y.S.2D" citation_global_level_id="249438.001" line="3" id="116427_12" citation_local_level_id="2" >594 N. Y. S. 2d 499</CITATION>
+
+<RELATION theme="116427_1" includes_docket_string="93-6827" includes_docket="116427_2" theme_string="510 U.S. 1077" gram_type="apposition" relation_type="asymmetric" id="116427_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1077" X_vs_Y_string="James v. New York" standard_case="116427_1" X_vs_Y="116427_3" gram_type="pre_nom" relation_type="equivalence" id="116427_7" ></RELATION>
+
+<RELATION theme="116427_3" includes_docket_string="93-6827" includes_docket="116427_2" theme_string="James v. New York" gram_type="apposition" relation_type="asymmetric" id="116427_10" ></RELATION>
+
+<RELATION theme="116427_3" party1="116427_4" party1_string="James" theme_string="James v. New York" gram_type="infix" relation_type="asymmetric" id="116427_8" ></RELATION>
+
+<RELATION party2="116427_5" theme="116427_3" theme_string="James v. New York" party2_string="New York" gram_type="infix" relation_type="asymmetric" id="116427_9" ></RELATION>
+

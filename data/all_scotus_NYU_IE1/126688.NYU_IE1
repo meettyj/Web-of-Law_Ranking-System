@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['weekesfleming#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1146" id1="126680" volume="537" start="0" page_number="1146" standard_reporter="U.S." citation_global_level_id="8978.002" line="1" id="126688_1" citation_local_level_id="0" >537 U.S. 1146</CITATION>
+
+<CITATION party2="FLEMING, WARDEN" party1="WEEKES" citation_global_level_id="8978.004" party2_short="FLEMING" line="1" id="126688_3" alternative_keys="['u.s._537_1146']" end="43" entry_type="party_key" lookup_key="weekesfleming#1" id1="126680" start="18" party1_short="WEEKES" citation_local_level_id="1" >WEEKES v. FLEMING, WARDEN</CITATION>
+
+<NAME end="24" start="18" party1_of="126688_3" all_names="WEEKES" local_name_id="1" id="126688_4" >WEEKES</NAME>
+
+<NAME end="43" start="28" all_names="FLEMING WARDEN" party2_of="126688_3" local_name_id="2" id="126688_5" >FLEMING, WARDEN</NAME>
+
+<DOCKET end="60" entry_type="docket" lookup_key="u.s._537_1146" id1="126680" start="53" citation_global_level_id="8978.002" line="1" id="126688_2" citation_local_level_id="0" >02-7961</DOCKET>
+
+<DATE start="102" end="118" id="126688_6" >January 13, 2003</DATE>
+
+<NAME start="248" local_name_id="3" end="251" id="126688_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="302" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_301_1175" id1="Dummy_File_184693" volume="301" start="288" page_number="1175" standard_reporter="F.3D" citation_global_level_id="248543.001" line="3" id="126688_12" citation_local_level_id="2" >301 F. 3d 1175</CITATION>
+
+<RELATION theme="126688_1" includes_docket_string="02-7961" includes_docket="126688_2" theme_string="537 U.S. 1146" gram_type="apposition" relation_type="asymmetric" id="126688_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1146" X_vs_Y_string="WEEKES v. FLEMING, WARDEN" standard_case="126688_1" X_vs_Y="126688_3" gram_type="pre_nom" relation_type="equivalence" id="126688_7" ></RELATION>
+
+<RELATION theme="126688_3" includes_docket_string="02-7961" includes_docket="126688_2" theme_string="WEEKES v. FLEMING, WARDEN" gram_type="apposition" relation_type="asymmetric" id="126688_10" ></RELATION>
+
+<RELATION theme="126688_3" party1="126688_4" party1_string="WEEKES" theme_string="WEEKES v. FLEMING, WARDEN" gram_type="infix" relation_type="asymmetric" id="126688_8" ></RELATION>
+
+<RELATION party2="126688_5" theme="126688_3" theme_string="WEEKES v. FLEMING, WARDEN" party2_string="FLEMING, WARDEN" gram_type="infix" relation_type="asymmetric" id="126688_9" ></RELATION>
+

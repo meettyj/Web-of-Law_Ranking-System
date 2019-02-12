@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['williamskarr#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1127" id1="126415" volume="537" start="0" page_number="1127" standard_reporter="U.S." citation_global_level_id="5291.002" line="1" id="126407_1" citation_local_level_id="0" >537 U.S. 1127</CITATION>
+
+<CITATION party2="KARR ET AL" party1="WILLIAMS" citation_global_level_id="19823.001" party2_short="KARR" line="1" id="126407_3" alternative_keys="['u.s._537_1127']" end="40" entry_type="party_key" lookup_key="williamskarr#1" id1="126407" start="18" party1_short="WILLIAMS" citation_local_level_id="1" >WILLIAMS v. KARR ET AL</CITATION>
+
+<NAME end="26" start="18" party1_of="126407_3" all_names="WILLIAMS" local_name_id="1" id="126407_4" >WILLIAMS</NAME>
+
+<NAME end="40" start="30" all_names="KARR" party2_of="126407_3" local_name_id="2" id="126407_5" >KARR ET AL</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._537_1127" id1="126415" start="50" citation_global_level_id="5291.002" line="1" id="126407_2" citation_local_level_id="0" >02-7341</DOCKET>
+
+<DATE start="99" end="115" id="126407_6" >January 13, 2003</DATE>
+
+<NAME start="207" local_name_id="3" end="210" id="126407_13" all_names="SUP" >Sup</NAME>
+
+<CITATION end="269" reporter="P. 3d" entry_type="standard_key" no_current_file="True" lookup_key="p.3d_50_910" id1="Dummy_File_152243" volume="50" start="257" page_number="910" standard_reporter="P.3D" citation_global_level_id="216093.001" line="3" id="126407_12" citation_local_level_id="2" >50 P. 3d 910</CITATION>
+
+<RELATION theme="126407_1" includes_docket_string="02-7341" includes_docket="126407_2" theme_string="537 U.S. 1127" gram_type="apposition" relation_type="asymmetric" id="126407_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1127" X_vs_Y_string="WILLIAMS v. KARR ET AL" standard_case="126407_1" X_vs_Y="126407_3" gram_type="pre_nom" relation_type="equivalence" id="126407_7" ></RELATION>
+
+<RELATION theme="126407_3" includes_docket_string="02-7341" includes_docket="126407_2" theme_string="WILLIAMS v. KARR ET AL" gram_type="apposition" relation_type="asymmetric" id="126407_10" ></RELATION>
+
+<RELATION theme="126407_3" party1="126407_4" party1_string="WILLIAMS" theme_string="WILLIAMS v. KARR ET AL" gram_type="infix" relation_type="asymmetric" id="126407_8" ></RELATION>
+
+<RELATION party2="126407_5" theme="126407_3" theme_string="WILLIAMS v. KARR ET AL" party2_string="KARR ET AL" gram_type="infix" relation_type="asymmetric" id="126407_9" ></RELATION>
+

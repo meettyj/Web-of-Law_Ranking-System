@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['unisysboard#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_812" id1="131287" volume="540" start="0" page_number="812" standard_reporter="U.S." citation_global_level_id="792.002" line="1" id="131295_1" citation_local_level_id="0" >540 U.S. 812</CITATION>
+
+<CITATION party2="PENNSYLVANIA BOARD OF FINANCE AND REVENUE" party1="UNISYS CORP." citation_global_level_id="44466.001" party2_short="BOARD" line="1" id="131295_3" alternative_keys="['u.s._540_812']" end="74" entry_type="party_key" lookup_key="unisysboard#1" id1="131295" start="17" party1_short="UNISYS" citation_local_level_id="1" >UNISYS CORP. v. PENNSYLVANIA BOARD OF FINANCE AND REVENUE</CITATION>
+
+<NAME end="29" start="17" party1_of="131295_3" all_names="UNISYS CORP" local_name_id="1" id="131295_4" >UNISYS CORP.</NAME>
+
+<ORGANIZATION start="17" end="28" id="131295_7" >UNISYS CORP</ORGANIZATION>
+
+<NAME end="74" start="33" all_names="PENNSYLVANIA BOARD OF FINANCE AND REVENUE" party2_of="131295_3" local_name_id="2" id="131295_5" >PENNSYLVANIA BOARD OF FINANCE AND REVENUE</NAME>
+
+<DOCKET end="91" entry_type="docket" lookup_key="u.s._540_812" id1="131287" start="84" citation_global_level_id="792.002" line="1" id="131295_2" citation_local_level_id="0" >02-1543</DOCKET>
+
+<DATE start="133" end="148" id="131295_6" >October 6, 2003</DATE>
+
+<NAME start="224" local_name_id="3" end="234" id="131295_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="285" reporter="A. 2d" entry_type="standard_key" no_current_file="True" lookup_key="a.2d_812_448" id1="Dummy_File_233780" volume="812" start="272" page_number="448" standard_reporter="A.2D" citation_global_level_id="297630.001" line="3" id="131295_13" citation_local_level_id="2" >812 A. 2d 448</CITATION>
+
+<RELATION theme="131295_1" includes_docket_string="02-1543" includes_docket="131295_2" theme_string="540 U.S. 812" gram_type="apposition" relation_type="asymmetric" id="131295_12" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 812" X_vs_Y_string="UNISYS CORP. v. PENNSYLVANIA BOARD OF FINANCE AND REVENUE" standard_case="131295_1" X_vs_Y="131295_3" gram_type="pre_nom" relation_type="equivalence" id="131295_8" ></RELATION>
+
+<RELATION theme="131295_3" includes_docket_string="02-1543" includes_docket="131295_2" theme_string="UNISYS CORP. v. PENNSYLVANIA BOARD OF FINANCE AND REVENUE" gram_type="apposition" relation_type="asymmetric" id="131295_11" ></RELATION>
+
+<RELATION party2="131295_5" theme="131295_3" theme_string="UNISYS CORP. v. PENNSYLVANIA BOARD OF FINANCE AND REVENUE" party2_string="PENNSYLVANIA BOARD OF FINANCE AND REVENUE" gram_type="infix" relation_type="asymmetric" id="131295_10" ></RELATION>
+
+<RELATION theme="131295_3" party1="131295_4" party1_string="UNISYS CORP." theme_string="UNISYS CORP. v. PENNSYLVANIA BOARD OF FINANCE AND REVENUE" gram_type="infix" relation_type="asymmetric" id="131295_9" ></RELATION>
+

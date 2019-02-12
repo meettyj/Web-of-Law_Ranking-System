@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['peacocksmith#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_933" id1="139476" volume="543" start="0" page_number="933" standard_reporter="U.S." citation_global_level_id="2651.002" line="1" id="139470_1" citation_local_level_id="0" >543 U.S. 933</CITATION>
+
+<CITATION party2="SMITH ET AL" party1="PEACOCK" citation_global_level_id="21566.001" party2_short="SMITH" line="2" id="139470_2" alternative_keys="['u.s._543_933']" end="39" entry_type="party_key" lookup_key="peacocksmith#1" id1="139470" start="17" party1_short="PEACOCK" citation_local_level_id="1" >PEACOCK v. SMITH ET AL</CITATION>
+
+<NAME end="24" start="17" party1_of="139470_2" all_names="PEACOCK" local_name_id="1" id="139470_3" >PEACOCK</NAME>
+
+<NAME end="39" start="28" all_names="SMITH" party2_of="139470_2" local_name_id="2" id="139470_4" >SMITH ET AL</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="peacocksmith#1" id1="139470" start="49" citation_global_level_id="21566.001" line="3" id="139470_7" citation_local_level_id="1" >04-5757</DOCKET>
+
+<ORGANIZATION start="62" end="92" id="139470_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="98" citation_global_level_id="21566.001" end="114" id="139470_9" citation_local_level_id="1" >October 12, 2004</DATE>
+
+<NAME start="146" local_name_id="3" end="149" id="139470_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="139470_2" party1="139470_3" party1_string="PEACOCK" theme_string="PEACOCK v. SMITH ET AL" gram_type="infix" relation_type="asymmetric" id="139470_5" ></RELATION>
+
+<RELATION party2="139470_4" theme="139470_2" theme_string="PEACOCK v. SMITH ET AL" party2_string="SMITH ET AL" gram_type="infix" relation_type="asymmetric" id="139470_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 933" X_vs_Y_string="PEACOCK v. SMITH ET AL" standard_case="139470_1" X_vs_Y="139470_2" gram_type="multi_line" relation_type="equivalence" id="139470_10" ></RELATION>
+
+<RELATION at_date_string="October 12, 2004" theme="139470_2" at_date="139470_9" theme_string="PEACOCK v. SMITH ET AL" gram_type="multi_line" relation_type="asymmetric" id="139470_12" ></RELATION>
+
+<RELATION theme="139470_2" includes_docket_string="04-5757" includes_docket="139470_7" theme_string="PEACOCK v. SMITH ET AL" gram_type="multi_line" relation_type="asymmetric" id="139470_11" ></RELATION>
+

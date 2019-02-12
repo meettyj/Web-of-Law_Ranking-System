@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['rousecapital#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_903" id1="130188" volume="539" start="0" page_number="903" standard_reporter="U.S." citation_global_level_id="358.002" line="1" id="130185_1" citation_local_level_id="0" >539 U.S. 903</CITATION>
+
+<CITATION party2="Ocean View Capital, Inc., et al" party1="Credit Lyonnais Rouse, Ltd." citation_global_level_id="358.005" party2_short="Capital" line="1" id="130185_3" alternative_keys="['u.s._539_903']" end="79" entry_type="party_key" lookup_key="rousecapital#2" id1="130188" start="17" party1_short="Rouse" citation_local_level_id="1" >Credit Lyonnais Rouse, Ltd. v. Ocean View Capital, Inc., et al</CITATION>
+
+<NAME end="44" start="17" party1_of="130185_3" all_names="CREDIT LYONNAIS ROUSE LTD" local_name_id="1" id="130185_4" >Credit Lyonnais Rouse, Ltd.</NAME>
+
+<ORGANIZATION start="17" end="43" id="130185_7" >Credit Lyonnais Rouse, Ltd</ORGANIZATION>
+
+<NAME end="79" start="48" all_names="OCEAN VIEW CAPITAL INC" party2_of="130185_3" local_name_id="2" id="130185_5" >Ocean View Capital, Inc., et al</NAME>
+
+<DOCKET end="96" entry_type="docket" lookup_key="u.s._539_903" id1="130188" start="89" citation_global_level_id="358.002" line="1" id="130185_2" citation_local_level_id="0" >02-1417</DOCKET>
+
+<DATE start="138" end="150" id="130185_6" >June 2, 2003</DATE>
+
+<NAME start="228" local_name_id="3" end="238" id="130185_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="276" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_306_469" id1="Dummy_File_20984" volume="306" start="263" page_number="469" standard_reporter="F.3D" citation_global_level_id="84834.001" line="3" id="130185_13" citation_local_level_id="2" >306 F. 3d 469</CITATION>
+
+<RELATION theme="130185_1" includes_docket_string="02-1417" includes_docket="130185_2" theme_string="539 U.S. 903" gram_type="apposition" relation_type="asymmetric" id="130185_12" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 903" X_vs_Y_string="Credit Lyonnais Rouse, Ltd. v. Ocean View Capital, Inc., et al" standard_case="130185_1" X_vs_Y="130185_3" gram_type="pre_nom" relation_type="equivalence" id="130185_8" ></RELATION>
+
+<RELATION theme="130185_3" includes_docket_string="02-1417" includes_docket="130185_2" theme_string="Credit Lyonnais Rouse, Ltd. v. Ocean View Capital, Inc., et al" gram_type="apposition" relation_type="asymmetric" id="130185_11" ></RELATION>
+
+<RELATION party2="130185_5" theme="130185_3" theme_string="Credit Lyonnais Rouse, Ltd. v. Ocean View Capital, Inc., et al" party2_string="Ocean View Capital, Inc., et al" gram_type="infix" relation_type="asymmetric" id="130185_10" ></RELATION>
+
+<RELATION theme="130185_3" party1="130185_4" party1_string="Credit Lyonnais Rouse, Ltd." theme_string="Credit Lyonnais Rouse, Ltd. v. Ocean View Capital, Inc., et al" gram_type="infix" relation_type="asymmetric" id="130185_9" ></RELATION>
+

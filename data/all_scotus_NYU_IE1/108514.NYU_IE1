@@ -1,0 +1,54 @@
+<CITATION alternative_keys="['lenhardstates#1', 's.ct._92_1296', 'l.ed.2d_31_477']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._405_1013" id1="108514" volume="405" start="0" page_number="1013" standard_reporter="U.S." citation_global_level_id="2041.002" line="1" id="108514_1" citation_local_level_id="0" >405 U.S. 1013</CITATION>
+
+<CITATION alternative_keys="['u.s._405_1013', 'lenhardstates#1', 'l.ed.2d_31_477']" end="32" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._92_1296" id1="108514" volume="92" start="18" page_number="1296" standard_reporter="S.CT." citation_global_level_id="2041.003" line="1" id="108514_2" citation_local_level_id="1" >92 S. Ct. 1296</CITATION>
+
+<NAME start="21" local_name_id="1" end="26" id="108514_9" all_names="S CT" >S. Ct</NAME>
+
+<CITATION alternative_keys="['u.s._405_1013', 's.ct._92_1296', 'lenhardstates#1']" end="53" reporter="L. Ed. 2d" entry_type="standard_key" lookup_key="l.ed.2d_31_477" id1="108514" volume="31" start="37" page_number="477" standard_reporter="L.ED.2D" citation_global_level_id="2041.004" line="1" id="108514_3" citation_local_level_id="2" >31 L. Ed. 2d 477</CITATION>
+
+<CITATION party2="UNITED STATES" party1="Leslie John LENHARD" citation_global_level_id="2041.001" party2_short="STATES" line="1" id="108514_5" alternative_keys="['u.s._405_1013', 's.ct._92_1296', 'l.ed.2d_31_477']" end="94" entry_type="party_key" lookup_key="lenhardstates#1" id1="108514" start="58" party1_short="LENHARD" citation_local_level_id="3" >Leslie John LENHARD v. UNITED STATES</CITATION>
+
+<NAME end="77" start="58" party1_of="108514_5" all_names="LESLIE JOHN LENHARD" local_name_id="2" id="108514_6" >Leslie John LENHARD</NAME>
+
+<NAME end="94" start="81" all_names="UNITED STATES	MEMORANDUM FOR THE UNITED STATES" party2_of="108514_5" local_name_id="3" id="108514_7" >UNITED STATES</NAME>
+
+<DOCKET end="111" entry_type="docket" lookup_key="u.s._405_1013" id1="108514" start="104" citation_global_level_id="2041.002" line="1" id="108514_4" citation_local_level_id="0" >71-5840</DOCKET>
+
+<DATE start="156" end="170" id="108514_8" >March 27, 1972</DATE>
+
+<NAME start="320" local_name_id="3" end="352" id="108514_21" all_names="UNITED STATES	MEMORANDUM FOR THE UNITED STATES" >Memorandum for the United States</NAME>
+
+<DATE start="426" end="442" id="108514_20" >February 1, 1972</DATE>
+
+<PROFESSION start="448" end="465" id="108514_22" >Solicitor General</PROFESSION>
+
+<NAME start="533" local_name_id="3" end="546" id="108514_23" all_names="UNITED STATES	MEMORANDUM FOR THE UNITED STATES" >United States</NAME>
+
+<ORGANIZATION start="554" end="607" id="108514_24" >United States Court of Appeals for the Second Circuit</ORGANIZATION>
+
+<ORGANIZATION start="671" end="687" id="108514_25" >Court of Appeals</ORGANIZATION>
+
+<ORGANIZATION start="716" end="721" id="108514_26" >court</ORGANIZATION>
+
+<PROFESSION start="785" end="802" id="108514_27" >Solicitor General</PROFESSION>
+
+<RELATION theme="108514_1" includes_docket_string="71-5840" includes_docket="108514_4" theme_string="405 U.S. 1013" gram_type="apposition" relation_type="asymmetric" id="108514_17" ></RELATION>
+
+<RELATION standard_case_string="405 U.S. 1013" X_vs_Y_string="Leslie John LENHARD v. UNITED STATES" standard_case="108514_1" X_vs_Y="108514_5" gram_type="pre_nom" relation_type="equivalence" id="108514_11" ></RELATION>
+
+<RELATION theme="108514_2" includes_docket_string="71-5840" includes_docket="108514_4" theme_string="92 S. Ct. 1296" gram_type="apposition" relation_type="asymmetric" id="108514_18" ></RELATION>
+
+<RELATION standard_case_string="92 S. Ct. 1296" X_vs_Y_string="Leslie John LENHARD v. UNITED STATES" standard_case="108514_2" X_vs_Y="108514_5" gram_type="pre_nom" relation_type="equivalence" id="108514_12" ></RELATION>
+
+<RELATION theme="108514_3" includes_docket_string="71-5840" includes_docket="108514_4" theme_string="31 L. Ed. 2d 477" gram_type="apposition" relation_type="asymmetric" id="108514_16" ></RELATION>
+
+<RELATION standard_case_string="31 L. Ed. 2d 477" X_vs_Y_string="Leslie John LENHARD v. UNITED STATES" standard_case="108514_3" X_vs_Y="108514_5" gram_type="pre_nom" relation_type="equivalence" id="108514_10" ></RELATION>
+
+<RELATION theme="108514_5" includes_docket_string="71-5840" includes_docket="108514_4" theme_string="Leslie John LENHARD v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="108514_15" ></RELATION>
+
+<RELATION theme="108514_5" party1="108514_6" party1_string="Leslie John LENHARD" theme_string="Leslie John LENHARD v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="108514_13" ></RELATION>
+
+<RELATION party2="108514_7" theme="108514_5" theme_string="Leslie John LENHARD v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="108514_14" ></RELATION>
+
+<RELATION at_date_string="March 27, 1972" theme="108514_4" at_date="108514_8" theme_string="71-5840" gram_type="pre_nom" relation_type="asymmetric" id="108514_19" ></RELATION>
+

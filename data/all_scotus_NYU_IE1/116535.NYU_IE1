@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['grafstates#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1085" id1="116529" volume="510" start="0" page_number="1085" standard_reporter="U.S." citation_global_level_id="2380.002" line="1" id="116535_1" citation_local_level_id="0" >510 U.S. 1085</CITATION>
+
+<CITATION party2="United States" party1="Graf" citation_global_level_id="29506.001" party2_short="States" line="1" id="116535_3" alternative_keys="['u.s._510_1085']" end="39" entry_type="party_key" lookup_key="grafstates#1" id1="116535" start="18" party1_short="Graf" citation_local_level_id="1" >Graf v. United States</CITATION>
+
+<NAME end="22" start="18" party1_of="116535_3" all_names="GRAF" local_name_id="1" id="116535_4" >Graf</NAME>
+
+<NAME end="39" start="26" all_names="UNITED STATES" party2_of="116535_3" local_name_id="2" id="116535_5" >United States</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._510_1085" id1="116529" start="49" citation_global_level_id="2380.002" line="1" id="116535_2" citation_local_level_id="0" >92-1102</DOCKET>
+
+<DATE start="98" end="114" id="116535_6" >January 24, 1994</DATE>
+
+<NAME start="191" local_name_id="3" end="201" id="116535_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="238" reporter="M. J." entry_type="standard_key" no_current_file="True" lookup_key="m.j._35_450" id1="Dummy_File_102489" volume="35" start="226" page_number="450" standard_reporter="M.J." citation_global_level_id="166339.001" line="3" id="116535_12" citation_local_level_id="2" >35 M. J. 450</CITATION>
+
+<RELATION theme="116535_1" includes_docket_string="92-1102" includes_docket="116535_2" theme_string="510 U.S. 1085" gram_type="apposition" relation_type="asymmetric" id="116535_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1085" X_vs_Y_string="Graf v. United States" standard_case="116535_1" X_vs_Y="116535_3" gram_type="pre_nom" relation_type="equivalence" id="116535_7" ></RELATION>
+
+<RELATION theme="116535_3" includes_docket_string="92-1102" includes_docket="116535_2" theme_string="Graf v. United States" gram_type="apposition" relation_type="asymmetric" id="116535_10" ></RELATION>
+
+<RELATION theme="116535_3" party1="116535_4" party1_string="Graf" theme_string="Graf v. United States" gram_type="infix" relation_type="asymmetric" id="116535_8" ></RELATION>
+
+<RELATION party2="116535_5" theme="116535_3" theme_string="Graf v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="116535_9" ></RELATION>
+

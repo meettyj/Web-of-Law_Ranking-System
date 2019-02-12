@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['deversstates#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1078" id1="116440" volume="510" start="0" page_number="1078" standard_reporter="U.S." citation_global_level_id="2615.002" line="1" id="116454_1" citation_local_level_id="0" >510 U.S. 1078</CITATION>
+
+<CITATION party2="United States" party1="Devers" citation_global_level_id="7088.001" party2_short="States" line="1" id="116454_3" alternative_keys="['u.s._510_1078']" end="41" entry_type="party_key" lookup_key="deversstates#1" id1="116454" start="18" party1_short="Devers" citation_local_level_id="1" >Devers v. United States</CITATION>
+
+<NAME end="24" start="18" party1_of="116454_3" all_names="DEVERS" local_name_id="1" id="116454_4" >Devers</NAME>
+
+<NAME end="41" start="28" all_names="UNITED STATES" party2_of="116454_3" local_name_id="2" id="116454_5" >United States</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="deversstates#1" id1="116454" start="50" citation_global_level_id="7088.001" line="1" id="116454_2" citation_local_level_id="1" >93-6978</DOCKET>
+
+<DATE start="99" end="115" id="116454_6" >January 18, 1994</DATE>
+
+<NAME start="193" local_name_id="3" end="203" id="116454_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="239" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_4_990" id1="Dummy_File_148843" volume="4" start="228" page_number="990" standard_reporter="F.3D" citation_global_level_id="212693.001" line="3" id="116454_11" citation_local_level_id="2" >4 F. 3d 990</CITATION>
+
+<RELATION standard_case_string="510 U.S. 1078" X_vs_Y_string="Devers v. United States" standard_case="116454_1" X_vs_Y="116454_3" gram_type="pre_nom" relation_type="equivalence" id="116454_7" ></RELATION>
+
+<RELATION theme="116454_3" includes_docket_string="93-6978" includes_docket="116454_2" theme_string="Devers v. United States" gram_type="pre_nom" relation_type="asymmetric" id="116454_10" ></RELATION>
+
+<RELATION theme="116454_3" party1="116454_4" party1_string="Devers" theme_string="Devers v. United States" gram_type="infix" relation_type="asymmetric" id="116454_8" ></RELATION>
+
+<RELATION party2="116454_5" theme="116454_3" theme_string="Devers v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="116454_9" ></RELATION>
+

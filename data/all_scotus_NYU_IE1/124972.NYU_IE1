@@ -1,0 +1,36 @@
+<CITATION alternative_keys="['immigrationchen#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1016" id1="124969" volume="537" start="0" page_number="1016" standard_reporter="U.S." citation_global_level_id="3156.002" line="1" id="124972_1" citation_local_level_id="0" >537 U.S. 1016</CITATION>
+
+<CITATION party2="YI QUAN CHEN" party1="IMMIGRATION AND NATURALIZATION SERVICE" citation_global_level_id="3156.005" party2_short="CHEN" line="1" id="124972_3" alternative_keys="['u.s._537_1016']" end="72" entry_type="party_key" lookup_key="immigrationchen#1" id1="124969" start="18" party1_short="IMMIGRATION" citation_local_level_id="1" >IMMIGRATION AND NATURALIZATION SERVICE v. YI QUAN CHEN</CITATION>
+
+<NAME end="56" start="18" party1_of="124972_3" all_names="IMMIGRATION AND NATURALIZATION SERVICE" local_name_id="1" id="124972_4" >IMMIGRATION AND NATURALIZATION SERVICE</NAME>
+
+<NAME end="72" start="60" all_names="YI QUAN CHEN" party2_of="124972_3" local_name_id="2" id="124972_5" >YI QUAN CHEN</NAME>
+
+<DOCKET end="87" entry_type="docket" lookup_key="u.s._537_1016" id1="124969" start="82" citation_global_level_id="3156.002" line="1" id="124972_2" citation_local_level_id="0" >02-25</DOCKET>
+
+<DATE start="129" end="146" id="124972_6" >November 12, 2002</DATE>
+
+<NAME start="275" local_name_id="3" end="278" id="124972_16" all_names="CIR" >Cir</NAME>
+
+<CITATION party2="Orlando Ventura" party1="INS" citation_global_level_id="12441.001" party2_short="Ventura" line="3" id="124972_13" end="396" entry_type="party_key" lookup_key="insventura#1" id1="122242" start="374" party1_short="INS" citation_local_level_id="2" >INS v. Orlando Ventura</CITATION>
+
+<NAME end="377" start="374" party1_of="124972_13" all_names="INS" local_name_id="4" id="124972_14" >INS</NAME>
+
+<NAME end="396" start="381" all_names="ORLANDO VENTURA" party2_of="124972_13" local_name_id="5" id="124972_15" >Orlando Ventura</NAME>
+
+<CITATION end="441" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_266_1094" id1="Dummy_File_219303" volume="266" start="427" page_number="1094" standard_reporter="F.3D" citation_global_level_id="283153.001" line="3" id="124972_12" citation_local_level_id="3" >266 F. 3d 1094</CITATION>
+
+<RELATION theme="124972_1" includes_docket_string="02-25" includes_docket="124972_2" theme_string="537 U.S. 1016" gram_type="apposition" relation_type="asymmetric" id="124972_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1016" X_vs_Y_string="IMMIGRATION AND NATURALIZATION SERVICE v. YI QUAN CHEN" standard_case="124972_1" X_vs_Y="124972_3" gram_type="pre_nom" relation_type="equivalence" id="124972_7" ></RELATION>
+
+<RELATION theme="124972_3" includes_docket_string="02-25" includes_docket="124972_2" theme_string="IMMIGRATION AND NATURALIZATION SERVICE v. YI QUAN CHEN" gram_type="apposition" relation_type="asymmetric" id="124972_10" ></RELATION>
+
+<RELATION theme="124972_3" party1="124972_4" party1_string="IMMIGRATION AND NATURALIZATION SERVICE" theme_string="IMMIGRATION AND NATURALIZATION SERVICE v. YI QUAN CHEN" gram_type="infix" relation_type="asymmetric" id="124972_8" ></RELATION>
+
+<RELATION party2="124972_5" theme="124972_3" theme_string="IMMIGRATION AND NATURALIZATION SERVICE v. YI QUAN CHEN" party2_string="YI QUAN CHEN" gram_type="infix" relation_type="asymmetric" id="124972_9" ></RELATION>
+
+<RELATION theme="124972_13" party1="124972_14" party1_string="INS" theme_string="INS v. Orlando Ventura" gram_type="infix" relation_type="asymmetric" id="124972_17" ></RELATION>
+
+<RELATION party2="124972_15" theme="124972_13" theme_string="INS v. Orlando Ventura" party2_string="Orlando Ventura" gram_type="infix" relation_type="asymmetric" id="124972_18" ></RELATION>
+

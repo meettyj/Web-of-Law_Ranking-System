@@ -1,0 +1,42 @@
+<CITATION alternative_keys="['bankcity#2', 'u.s._173_662']" end="13" reporter="L. Ed." entry_type="standard_key" lookup_key="l.ed._43_850" id1="95040" volume="43" start="0" page_number="850" standard_reporter="L.ED." citation_global_level_id="33195.002" line="1" id="95040_1" citation_local_level_id="0" >43 L. Ed. 850</CITATION>
+
+<CITATION alternative_keys="['l.ed._43_850', 'bankcity#2']" end="30" reporter="U.S." entry_type="standard_key" lookup_key="u.s._173_662" id1="95040" volume="173" start="18" page_number="662" standard_reporter="U.S." citation_global_level_id="33195.003" line="1" id="95040_2" citation_local_level_id="1" >173 U.S. 662</CITATION>
+
+<CITATION party2="CITY OF OWENSBORO et al" party1="DEPOSIT BANK OF OWENSBORO" citation_global_level_id="33195.001" party2_short="CITY" line="1" id="95040_3" alternative_keys="['l.ed._43_850', 'u.s._173_662']" end="87" entry_type="party_key" lookup_key="bankcity#2" id1="95040" start="35" party1_short="BANK" citation_local_level_id="2" >DEPOSIT BANK OF OWENSBORO v. CITY OF OWENSBORO et al</CITATION>
+
+<NAME end="60" start="35" party1_of="95040_3" all_names="DEPOSIT BANK OF OWENSBORO	CITY OF OWENSBORO" local_name_id="1" id="95040_4" >DEPOSIT BANK OF OWENSBORO</NAME>
+
+<NAME end="87" start="64" all_names="DEPOSIT BANK OF OWENSBORO	CITY OF OWENSBORO" party2_of="95040_3" local_name_id="1" id="95040_5" >CITY OF OWENSBORO et al</NAME>
+
+<DATE start="106" end="119" id="95040_6" >April 3, 1899</DATE>
+
+<DATE start="334" end="338" id="95040_7" >1893</DATE>
+
+<DATE start="343" end="347" id="95040_8" >1894</DATE>
+
+<DATE start="595" end="599" id="95040_9" >1856</DATE>
+
+<ORGANIZATION start="694" end="708" id="95040_15" >Kentucky court</ORGANIZATION>
+
+<CITATION end="806" reporter="S. W." entry_type="standard_key" no_current_file="True" lookup_key="s.w._39_1030" id1="Dummy_File_177190" volume="39" start="793" page_number="1030" standard_reporter="S.W." citation_global_level_id="241040.001" line="3" id="95040_14" citation_local_level_id="3" >39 S. W. 1030</CITATION>
+
+<CITATION party2="City of Owensboro" party1="Citizens' Sav. Bank" citation_global_level_id="62839.005" party2_short="City" line="6" id="95040_16" alternative_keys="['u.s._173_636']" end="913" entry_type="party_key" lookup_key="bankcity#12" id1="95039" start="873" party1_short="Bank" citation_local_level_id="4" >Citizens' Sav. Bank v. City of Owensboro</CITATION>
+
+<NAME end="892" start="873" party1_of="95040_16" all_names="CITIZENS' SAV BANK" local_name_id="2" id="95040_17" >Citizens' Sav. Bank</NAME>
+
+<ORGANIZATION start="888" end="892" id="95040_19" >Bank</ORGANIZATION>
+
+<NAME end="913" start="896" all_names="DEPOSIT BANK OF OWENSBORO	CITY OF OWENSBORO" party2_of="95040_16" local_name_id="1" id="95040_18" >City of Owensboro</NAME>
+
+<RELATION standard_case_string="43 L. Ed. 850" X_vs_Y_string="DEPOSIT BANK OF OWENSBORO v. CITY OF OWENSBORO et al" standard_case="95040_1" X_vs_Y="95040_3" gram_type="pre_nom" relation_type="equivalence" id="95040_11" ></RELATION>
+
+<RELATION standard_case_string="173 U.S. 662" X_vs_Y_string="DEPOSIT BANK OF OWENSBORO v. CITY OF OWENSBORO et al" standard_case="95040_2" X_vs_Y="95040_3" gram_type="pre_nom" relation_type="equivalence" id="95040_10" ></RELATION>
+
+<RELATION theme="95040_3" party1="95040_4" party1_string="DEPOSIT BANK OF OWENSBORO" theme_string="DEPOSIT BANK OF OWENSBORO v. CITY OF OWENSBORO et al" gram_type="infix" relation_type="asymmetric" id="95040_12" ></RELATION>
+
+<RELATION party2="95040_5" theme="95040_3" theme_string="DEPOSIT BANK OF OWENSBORO v. CITY OF OWENSBORO et al" party2_string="CITY OF OWENSBORO et al" gram_type="infix" relation_type="asymmetric" id="95040_13" ></RELATION>
+
+<RELATION theme="95040_16" party1="95040_17" party1_string="Citizens' Sav. Bank" theme_string="Citizens' Sav. Bank v. City of Owensboro" gram_type="infix" relation_type="asymmetric" id="95040_20" ></RELATION>
+
+<RELATION party2="95040_18" theme="95040_16" theme_string="Citizens' Sav. Bank v. City of Owensboro" party2_string="City of Owensboro" gram_type="infix" relation_type="asymmetric" id="95040_21" ></RELATION>
+

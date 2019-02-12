@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['augbornestates#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1017" id1="115686" volume="510" start="0" page_number="1017" standard_reporter="U.S." citation_global_level_id="8216.002" line="1" id="115685_1" citation_local_level_id="0" >510 U.S. 1017</CITATION>
+
+<CITATION party2="United States" party1="Augborne" citation_global_level_id="29864.001" party2_short="States" line="1" id="115685_3" alternative_keys="['u.s._510_1017']" end="43" entry_type="party_key" lookup_key="augbornestates#1" id1="115685" start="18" party1_short="Augborne" citation_local_level_id="1" >Augborne v. United States</CITATION>
+
+<NAME end="26" start="18" party1_of="115685_3" all_names="AUGBORNE" local_name_id="1" id="115685_4" >Augborne</NAME>
+
+<NAME end="43" start="30" all_names="UNITED STATES" party2_of="115685_3" local_name_id="2" id="115685_5" >United States</NAME>
+
+<DOCKET end="60" entry_type="docket" lookup_key="u.s._510_1017" id1="115686" start="53" citation_global_level_id="8216.002" line="1" id="115685_2" citation_local_level_id="0" >93-6558</DOCKET>
+
+<DATE start="102" end="118" id="115685_6" >December 6, 1993</DATE>
+
+<NAME start="196" local_name_id="3" end="206" id="115685_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="243" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_2_1158" id1="Dummy_File_18094" volume="2" start="231" page_number="1158" standard_reporter="F.3D" citation_global_level_id="81944.001" line="3" id="115685_12" citation_local_level_id="2" >2 F. 3d 1158</CITATION>
+
+<RELATION theme="115685_1" includes_docket_string="93-6558" includes_docket="115685_2" theme_string="510 U.S. 1017" gram_type="apposition" relation_type="asymmetric" id="115685_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1017" X_vs_Y_string="Augborne v. United States" standard_case="115685_1" X_vs_Y="115685_3" gram_type="pre_nom" relation_type="equivalence" id="115685_7" ></RELATION>
+
+<RELATION theme="115685_3" includes_docket_string="93-6558" includes_docket="115685_2" theme_string="Augborne v. United States" gram_type="apposition" relation_type="asymmetric" id="115685_10" ></RELATION>
+
+<RELATION theme="115685_3" party1="115685_4" party1_string="Augborne" theme_string="Augborne v. United States" gram_type="infix" relation_type="asymmetric" id="115685_8" ></RELATION>
+
+<RELATION party2="115685_5" theme="115685_3" theme_string="Augborne v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="115685_9" ></RELATION>
+

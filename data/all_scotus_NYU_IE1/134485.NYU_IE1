@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['johnsonstates#9']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_1070" id1="134474" volume="540" start="0" page_number="1070" standard_reporter="U.S." citation_global_level_id="3204.002" line="1" id="134485_1" citation_local_level_id="0" >540 U.S. 1070</CITATION>
+
+<CITATION party2="UNITED STATES" party1="JOHNSON" citation_global_level_id="12071.001" party2_short="STATES" line="2" id="134485_2" alternative_keys="['u.s._540_1070']" end="42" entry_type="party_key" lookup_key="johnsonstates#9" id1="2812210" start="18" party1_short="JOHNSON" citation_local_level_id="1" >JOHNSON v. UNITED STATES</CITATION>
+
+<NAME end="25" start="18" party1_of="134485_2" all_names="JOHNSON" local_name_id="1" id="134485_3" >JOHNSON</NAME>
+
+<NAME end="42" start="29" all_names="UNITED STATES" party2_of="134485_2" local_name_id="2" id="134485_4" >UNITED STATES</NAME>
+
+<DOCKET end="73" entry_type="docket" lookup_key="johnsonstates#9" id1="2812210" start="66" citation_global_level_id="12071.001" line="3" id="134485_7" citation_local_level_id="1" >03-5246</DOCKET>
+
+<ORGANIZATION start="79" end="109" id="134485_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="115" citation_global_level_id="12071.001" end="131" id="134485_9" citation_local_level_id="1" >December 1, 2003</DATE>
+
+<NAME start="153" local_name_id="3" end="161" id="134485_13" all_names="PETITION" >Petition</NAME>
+
+<RELATION theme="134485_2" party1="134485_3" party1_string="JOHNSON" theme_string="JOHNSON v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="134485_5" ></RELATION>
+
+<RELATION party2="134485_4" theme="134485_2" theme_string="JOHNSON v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="134485_6" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 1070" X_vs_Y_string="JOHNSON v. UNITED STATES" standard_case="134485_1" X_vs_Y="134485_2" gram_type="multi_line" relation_type="equivalence" id="134485_10" ></RELATION>
+
+<RELATION at_date_string="December 1, 2003" theme="134485_2" at_date="134485_9" theme_string="JOHNSON v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="134485_12" ></RELATION>
+
+<RELATION theme="134485_2" includes_docket_string="03-5246" includes_docket="134485_7" theme_string="JOHNSON v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="134485_11" ></RELATION>
+

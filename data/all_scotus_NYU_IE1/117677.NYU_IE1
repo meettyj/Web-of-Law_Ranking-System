@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['burtonmichigan#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1200" id1="117673" volume="510" start="0" page_number="1200" standard_reporter="U.S." citation_global_level_id="270.002" line="1" id="117677_1" citation_local_level_id="0" >510 U.S. 1200</CITATION>
+
+<CITATION party2="Michigan" party1="Burton" citation_global_level_id="52270.001" party2_short="Michigan" line="1" id="117677_3" alternative_keys="['u.s._510_1200']" end="36" entry_type="party_key" lookup_key="burtonmichigan#1" id1="117677" start="18" party1_short="Burton" citation_local_level_id="1" >Burton v. Michigan</CITATION>
+
+<NAME end="24" start="18" party1_of="117677_3" all_names="BURTON" local_name_id="1" id="117677_4" >Burton</NAME>
+
+<NAME end="36" start="28" all_names="MICHIGAN" party2_of="117677_3" local_name_id="2" id="117677_5" >Michigan</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="u.s._510_1200" id1="117673" start="46" citation_global_level_id="270.002" line="1" id="117677_2" citation_local_level_id="0" >93-7587</DOCKET>
+
+<DATE start="95" end="109" id="117677_6" >March 21, 1994</DATE>
+
+<NAME start="187" local_name_id="3" end="197" id="117677_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="117677_1" includes_docket_string="93-7587" includes_docket="117677_2" theme_string="510 U.S. 1200" gram_type="apposition" relation_type="asymmetric" id="117677_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1200" X_vs_Y_string="Burton v. Michigan" standard_case="117677_1" X_vs_Y="117677_3" gram_type="pre_nom" relation_type="equivalence" id="117677_7" ></RELATION>
+
+<RELATION theme="117677_3" includes_docket_string="93-7587" includes_docket="117677_2" theme_string="Burton v. Michigan" gram_type="apposition" relation_type="asymmetric" id="117677_10" ></RELATION>
+
+<RELATION theme="117677_3" party1="117677_4" party1_string="Burton" theme_string="Burton v. Michigan" gram_type="infix" relation_type="asymmetric" id="117677_8" ></RELATION>
+
+<RELATION party2="117677_5" theme="117677_3" theme_string="Burton v. Michigan" party2_string="Michigan" gram_type="infix" relation_type="asymmetric" id="117677_9" ></RELATION>
+

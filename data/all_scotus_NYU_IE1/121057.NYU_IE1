@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['quatrevingtcain#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1115" id1="121054" volume="535" start="0" page_number="1115" standard_reporter="U.S." citation_global_level_id="157.002" line="1" id="121057_1" citation_local_level_id="0" >535 U.S. 1115</CITATION>
+
+<CITATION party2="CAIN, WARDEN" party1="QUATREVINGT" citation_global_level_id="157.005" party2_short="CAIN" line="2" id="121057_2" alternative_keys="['u.s._535_1115']" end="45" entry_type="party_key" lookup_key="quatrevingtcain#1" id1="121054" start="18" party1_short="QUATREVINGT" citation_local_level_id="1" >QUATREVINGT v. CAIN, WARDEN</CITATION>
+
+<NAME end="29" start="18" party1_of="121057_2" all_names="QUATREVINGT" local_name_id="1" id="121057_3" >QUATREVINGT</NAME>
+
+<NAME end="45" start="33" all_names="CAIN WARDEN" party2_of="121057_2" local_name_id="2" id="121057_4" >CAIN, WARDEN</NAME>
+
+<DOCKET alternative_keys="['u.s._535_1115']" end="62" entry_type="docket" lookup_key="quatrevingtcain#1" id1="121054" start="55" citation_global_level_id="157.005" line="3" id="121057_7" citation_local_level_id="1" >01-9361</DOCKET>
+
+<DATE start="108" citation_global_level_id="157.005" end="120" id="121057_8" citation_local_level_id="1" >June 3, 2002</DATE>
+
+<NAME start="152" local_name_id="3" end="155" id="121057_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="206" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_277_1374" id1="Dummy_File_148328" volume="277" start="192" page_number="1374" standard_reporter="F.3D" citation_global_level_id="212178.001" line="8" id="121057_12" citation_local_level_id="2" >277 F. 3d 1374</CITATION>
+
+<RELATION theme="121057_2" party1="121057_3" party1_string="QUATREVINGT" theme_string="QUATREVINGT v. CAIN, WARDEN" gram_type="infix" relation_type="asymmetric" id="121057_5" ></RELATION>
+
+<RELATION party2="121057_4" theme="121057_2" theme_string="QUATREVINGT v. CAIN, WARDEN" party2_string="CAIN, WARDEN" gram_type="infix" relation_type="asymmetric" id="121057_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1115" X_vs_Y_string="QUATREVINGT v. CAIN, WARDEN" standard_case="121057_1" X_vs_Y="121057_2" gram_type="multi_line" relation_type="equivalence" id="121057_9" ></RELATION>
+
+<RELATION at_date_string="June 3, 2002" theme="121057_2" at_date="121057_8" theme_string="QUATREVINGT v. CAIN, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="121057_11" ></RELATION>
+
+<RELATION theme="121057_2" includes_docket_string="01-9361" includes_docket="121057_7" theme_string="QUATREVINGT v. CAIN, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="121057_10" ></RELATION>
+

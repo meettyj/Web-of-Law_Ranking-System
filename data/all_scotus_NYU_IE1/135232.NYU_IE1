@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['whitestates#9']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_955" id1="135235" volume="541" start="0" page_number="955" standard_reporter="U.S." citation_global_level_id="609.002" line="1" id="135232_1" citation_local_level_id="0" >541 U.S. 955</CITATION>
+
+<CITATION party2="UNITED STATES" party1="WHITE" citation_global_level_id="19899.001" party2_short="STATES" line="2" id="135232_2" alternative_keys="['u.s._541_955']" end="39" entry_type="party_key" lookup_key="whitestates#9" id1="118936" start="17" party1_short="WHITE" citation_local_level_id="1" >WHITE v. UNITED STATES</CITATION>
+
+<NAME end="22" start="17" party1_of="135232_2" all_names="WHITE" local_name_id="1" id="135232_3" >WHITE</NAME>
+
+<NAME end="39" start="26" all_names="UNITED STATES" party2_of="135232_2" local_name_id="2" id="135232_4" >UNITED STATES</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="whitestates#9" id1="118936" start="49" citation_global_level_id="19899.001" line="3" id="135232_7" citation_local_level_id="1" >03-8947</DOCKET>
+
+<ORGANIZATION start="62" end="92" id="135232_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="98" citation_global_level_id="19899.001" end="112" id="135232_9" citation_local_level_id="1" >March 22, 2004</DATE>
+
+<NAME start="144" local_name_id="3" end="147" id="135232_14" all_names="CIR" >Cir</NAME>
+
+<CITATION end="197" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_341_673" id1="Dummy_File_143985" volume="341" start="184" page_number="673" standard_reporter="F.3D" citation_global_level_id="207835.001" line="8" id="135232_13" citation_local_level_id="2" >341 F. 3d 673</CITATION>
+
+<RELATION theme="135232_2" party1="135232_3" party1_string="WHITE" theme_string="WHITE v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="135232_5" ></RELATION>
+
+<RELATION party2="135232_4" theme="135232_2" theme_string="WHITE v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="135232_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 955" X_vs_Y_string="WHITE v. UNITED STATES" standard_case="135232_1" X_vs_Y="135232_2" gram_type="multi_line" relation_type="equivalence" id="135232_10" ></RELATION>
+
+<RELATION at_date_string="March 22, 2004" theme="135232_2" at_date="135232_9" theme_string="WHITE v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="135232_12" ></RELATION>
+
+<RELATION theme="135232_2" includes_docket_string="03-8947" includes_docket="135232_7" theme_string="WHITE v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="135232_11" ></RELATION>
+

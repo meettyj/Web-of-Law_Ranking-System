@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['insurancecapital#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._542_919" id1="137223" volume="542" start="0" page_number="919" standard_reporter="U.S." citation_global_level_id="10029.002" line="1" id="137222_1" citation_local_level_id="0" >542 U.S. 919</CITATION>
+
+<CITATION party2="BANKVEST CAPITAL CORP" party1="EAGLE INSURANCE CO. ET AL." citation_global_level_id="10849.001" party2_short="CAPITAL" line="1" id="137222_3" alternative_keys="['u.s._542_919']" end="68" entry_type="party_key" lookup_key="insurancecapital#1" id1="137222" start="17" party1_short="INSURANCE" citation_local_level_id="1" >EAGLE INSURANCE CO. ET AL. v. BANKVEST CAPITAL CORP</CITATION>
+
+<NAME end="43" start="17" party1_of="137222_3" all_names="EAGLE INSURANCE CO" local_name_id="1" id="137222_4" >EAGLE INSURANCE CO. ET AL.</NAME>
+
+<ORGANIZATION start="17" end="42" id="137222_7" >EAGLE INSURANCE CO. ET AL</ORGANIZATION>
+
+<ORGANIZATION start="33" end="35" id="137222_8" >CO</ORGANIZATION>
+
+<NAME end="68" start="47" all_names="BANKVEST CAPITAL CORP" party2_of="137222_3" local_name_id="2" id="137222_5" >BANKVEST CAPITAL CORP</NAME>
+
+<DOCKET end="85" entry_type="docket" lookup_key="u.s._542_919" id1="137223" start="78" citation_global_level_id="10029.002" line="1" id="137222_2" citation_local_level_id="0" >03-1442</DOCKET>
+
+<DATE start="127" end="140" id="137222_6" >June 21, 2004</DATE>
+
+<CITATION end="249" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_360_291" id1="Dummy_File_221572" volume="360" start="236" page_number="291" standard_reporter="F.3D" citation_global_level_id="285422.001" line="3" id="137222_14" citation_local_level_id="2" >360 F. 3d 291</CITATION>
+
+<RELATION theme="137222_1" includes_docket_string="03-1442" includes_docket="137222_2" theme_string="542 U.S. 919" gram_type="apposition" relation_type="asymmetric" id="137222_13" ></RELATION>
+
+<RELATION standard_case_string="542 U.S. 919" X_vs_Y_string="EAGLE INSURANCE CO. ET AL. v. BANKVEST CAPITAL CORP" standard_case="137222_1" X_vs_Y="137222_3" gram_type="pre_nom" relation_type="equivalence" id="137222_9" ></RELATION>
+
+<RELATION theme="137222_3" includes_docket_string="03-1442" includes_docket="137222_2" theme_string="EAGLE INSURANCE CO. ET AL. v. BANKVEST CAPITAL CORP" gram_type="apposition" relation_type="asymmetric" id="137222_12" ></RELATION>
+
+<RELATION theme="137222_3" party1="137222_4" party1_string="EAGLE INSURANCE CO. ET AL." theme_string="EAGLE INSURANCE CO. ET AL. v. BANKVEST CAPITAL CORP" gram_type="infix" relation_type="asymmetric" id="137222_10" ></RELATION>
+
+<RELATION party2="137222_5" theme="137222_3" theme_string="EAGLE INSURANCE CO. ET AL. v. BANKVEST CAPITAL CORP" party2_string="BANKVEST CAPITAL CORP" gram_type="infix" relation_type="asymmetric" id="137222_11" ></RELATION>
+

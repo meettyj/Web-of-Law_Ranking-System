@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['catonmaze#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_967" id1="115020" volume="510" start="0" page_number="967" standard_reporter="U.S." citation_global_level_id="5052.002" line="1" id="115013_1" citation_local_level_id="0" >510 U.S. 967</CITATION>
+
+<CITATION party2="Maze et al" party1="Caton" citation_global_level_id="6895.001" party2_short="Maze" line="1" id="115013_3" alternative_keys="['u.s._510_967']" end="36" entry_type="party_key" lookup_key="catonmaze#1" id1="115013" start="17" party1_short="Caton" citation_local_level_id="1" >Caton v. Maze et al</CITATION>
+
+<NAME end="22" start="17" party1_of="115013_3" all_names="CATON" local_name_id="1" id="115013_4" >Caton</NAME>
+
+<NAME end="36" start="26" all_names="MAZE" party2_of="115013_3" local_name_id="2" id="115013_5" >Maze et al</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="u.s._510_967" id1="115020" start="46" citation_global_level_id="5052.002" line="1" id="115013_2" citation_local_level_id="0" >93-5984</DOCKET>
+
+<DATE start="95" end="111" id="115013_6" >November 8, 1993</DATE>
+
+<NAME start="189" local_name_id="3" end="199" id="115013_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="237" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_995_881" id1="Dummy_File_36786" volume="995" start="224" page_number="881" standard_reporter="F.2D" citation_global_level_id="100636.001" line="3" id="115013_12" citation_local_level_id="2" >995 F. 2d 881</CITATION>
+
+<RELATION theme="115013_1" includes_docket_string="93-5984" includes_docket="115013_2" theme_string="510 U.S. 967" gram_type="apposition" relation_type="asymmetric" id="115013_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 967" X_vs_Y_string="Caton v. Maze et al" standard_case="115013_1" X_vs_Y="115013_3" gram_type="pre_nom" relation_type="equivalence" id="115013_7" ></RELATION>
+
+<RELATION theme="115013_3" includes_docket_string="93-5984" includes_docket="115013_2" theme_string="Caton v. Maze et al" gram_type="apposition" relation_type="asymmetric" id="115013_10" ></RELATION>
+
+<RELATION theme="115013_3" party1="115013_4" party1_string="Caton" theme_string="Caton v. Maze et al" gram_type="infix" relation_type="asymmetric" id="115013_8" ></RELATION>
+
+<RELATION party2="115013_5" theme="115013_3" theme_string="Caton v. Maze et al" party2_string="Maze et al" gram_type="infix" relation_type="asymmetric" id="115013_9" ></RELATION>
+

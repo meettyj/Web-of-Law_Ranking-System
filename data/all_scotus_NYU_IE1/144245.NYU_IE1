@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['petraliaohio#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_1004" id1="144246" volume="544" start="0" page_number="1004" standard_reporter="U.S." citation_global_level_id="1623.002" line="1" id="144245_1" citation_local_level_id="0" >544 U.S. 1004</CITATION>
+
+<CITATION party2="OHIO" party1="PETRALIA" citation_global_level_id="24967.001" party2_short="OHIO" line="2" id="144245_2" alternative_keys="['u.s._544_1004']" end="34" entry_type="party_key" lookup_key="petraliaohio#1" id1="144245" start="18" party1_short="PETRALIA" citation_local_level_id="1" >PETRALIA v. OHIO</CITATION>
+
+<NAME end="26" start="18" party1_of="144245_2" all_names="PETRALIA" local_name_id="1" id="144245_3" >PETRALIA</NAME>
+
+<NAME end="34" start="30" all_names="OHIO" party2_of="144245_2" local_name_id="2" id="144245_4" >OHIO</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="petraliaohio#1" id1="144245" start="44" citation_global_level_id="24967.001" line="3" id="144245_7" citation_local_level_id="1" >04-8825</DOCKET>
+
+<ORGANIZATION start="57" end="87" id="144245_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="93" citation_global_level_id="24967.001" end="107" id="144245_9" citation_local_level_id="1" >April 25, 2005</DATE>
+
+<NAME start="129" local_name_id="3" end="131" id="144245_13" all_names="CT" >Ct</NAME>
+
+<RELATION theme="144245_2" party1="144245_3" party1_string="PETRALIA" theme_string="PETRALIA v. OHIO" gram_type="infix" relation_type="asymmetric" id="144245_5" ></RELATION>
+
+<RELATION party2="144245_4" theme="144245_2" theme_string="PETRALIA v. OHIO" party2_string="OHIO" gram_type="infix" relation_type="asymmetric" id="144245_6" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 1004" X_vs_Y_string="PETRALIA v. OHIO" standard_case="144245_1" X_vs_Y="144245_2" gram_type="multi_line" relation_type="equivalence" id="144245_10" ></RELATION>
+
+<RELATION at_date_string="April 25, 2005" theme="144245_2" at_date="144245_9" theme_string="PETRALIA v. OHIO" gram_type="multi_line" relation_type="asymmetric" id="144245_12" ></RELATION>
+
+<RELATION theme="144245_2" includes_docket_string="04-8825" includes_docket="144245_7" theme_string="PETRALIA v. OHIO" gram_type="multi_line" relation_type="asymmetric" id="144245_11" ></RELATION>
+

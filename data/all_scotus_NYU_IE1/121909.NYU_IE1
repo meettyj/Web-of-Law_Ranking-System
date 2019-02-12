@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['hertzflorida#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._536_963" id1="121901" volume="536" start="0" page_number="963" standard_reporter="U.S." citation_global_level_id="3253.002" line="1" id="121909_1" citation_local_level_id="0" >536 U.S. 963</CITATION>
+
+<CITATION party2="FLORIDA" party1="HERTZ" citation_global_level_id="59806.001" party2_short="FLORIDA" line="2" id="121909_2" alternative_keys="['u.s._536_963']" end="33" entry_type="party_key" lookup_key="hertzflorida#1" id1="121909" start="17" party1_short="HERTZ" citation_local_level_id="1" >HERTZ v. FLORIDA</CITATION>
+
+<NAME end="22" start="17" party1_of="121909_2" all_names="HERTZ" local_name_id="1" id="121909_3" >HERTZ</NAME>
+
+<NAME end="33" start="26" all_names="FLORIDA" party2_of="121909_2" local_name_id="2" id="121909_4" >FLORIDA</NAME>
+
+<DOCKET end="50" entry_type="docket" lookup_key="hertzflorida#1" id1="121909" start="43" citation_global_level_id="59806.001" line="3" id="121909_7" citation_local_level_id="1" >01-9154</DOCKET>
+
+<DATE start="96" citation_global_level_id="59806.001" end="109" id="121909_8" citation_local_level_id="1" >June 28, 2002</DATE>
+
+<NAME start="131" local_name_id="3" end="134" id="121909_13" all_names="SUP" >Sup</NAME>
+
+<CITATION end="194" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_803_629" id1="Dummy_File_92158" volume="803" start="180" page_number="629" standard_reporter="SO.2D" citation_global_level_id="156008.001" line="8" id="121909_12" citation_local_level_id="2" >803 So. 2d 629</CITATION>
+
+<RELATION theme="121909_2" party1="121909_3" party1_string="HERTZ" theme_string="HERTZ v. FLORIDA" gram_type="infix" relation_type="asymmetric" id="121909_5" ></RELATION>
+
+<RELATION party2="121909_4" theme="121909_2" theme_string="HERTZ v. FLORIDA" party2_string="FLORIDA" gram_type="infix" relation_type="asymmetric" id="121909_6" ></RELATION>
+
+<RELATION standard_case_string="536 U.S. 963" X_vs_Y_string="HERTZ v. FLORIDA" standard_case="121909_1" X_vs_Y="121909_2" gram_type="multi_line" relation_type="equivalence" id="121909_9" ></RELATION>
+
+<RELATION at_date_string="June 28, 2002" theme="121909_2" at_date="121909_8" theme_string="HERTZ v. FLORIDA" gram_type="multi_line" relation_type="asymmetric" id="121909_11" ></RELATION>
+
+<RELATION theme="121909_2" includes_docket_string="01-9154" includes_docket="121909_7" theme_string="HERTZ v. FLORIDA" gram_type="multi_line" relation_type="asymmetric" id="121909_10" ></RELATION>
+

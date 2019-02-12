@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['stantonjersey#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_903" id1="132498" volume="540" start="0" page_number="903" standard_reporter="U.S." citation_global_level_id="6146.002" line="1" id="132501_1" citation_local_level_id="0" >540 U.S. 903</CITATION>
+
+<CITATION party2="NEW JERSEY" party1="STANTON" citation_global_level_id="20249.001" party2_short="JERSEY" line="1" id="132501_3" alternative_keys="['u.s._540_903']" end="38" entry_type="party_key" lookup_key="stantonjersey#1" id1="132501" start="17" party1_short="STANTON" citation_local_level_id="1" >STANTON v. NEW JERSEY</CITATION>
+
+<NAME end="24" start="17" party1_of="132501_3" all_names="STANTON" local_name_id="1" id="132501_4" >STANTON</NAME>
+
+<NAME end="38" start="28" all_names="NEW JERSEY" party2_of="132501_3" local_name_id="2" id="132501_5" >NEW JERSEY</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._540_903" id1="132498" start="48" citation_global_level_id="6146.002" line="1" id="132501_2" citation_local_level_id="0" >03-5346</DOCKET>
+
+<DATE start="97" end="112" id="132501_6" >October 6, 2003</DATE>
+
+<NAME start="190" local_name_id="3" end="200" id="132501_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="237" reporter="N. J." entry_type="standard_key" no_current_file="True" lookup_key="n.j._176_75" id1="Dummy_File_170983" volume="176" start="225" page_number="75" standard_reporter="N.J." citation_global_level_id="234833.001" line="3" id="132501_12" citation_local_level_id="2" >176 N. J. 75</CITATION>
+
+<CITATION end="252" reporter="A. 2d" entry_type="standard_key" no_current_file="True" lookup_key="a.2d_820_637" id1="Dummy_File_170984" volume="820" start="239" page_number="637" standard_reporter="A.2D" citation_global_level_id="234834.001" line="3" id="132501_13" citation_local_level_id="3" >820 A. 2d 637</CITATION>
+
+<RELATION theme="132501_1" includes_docket_string="03-5346" includes_docket="132501_2" theme_string="540 U.S. 903" gram_type="apposition" relation_type="asymmetric" id="132501_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 903" X_vs_Y_string="STANTON v. NEW JERSEY" standard_case="132501_1" X_vs_Y="132501_3" gram_type="pre_nom" relation_type="equivalence" id="132501_7" ></RELATION>
+
+<RELATION theme="132501_3" includes_docket_string="03-5346" includes_docket="132501_2" theme_string="STANTON v. NEW JERSEY" gram_type="apposition" relation_type="asymmetric" id="132501_10" ></RELATION>
+
+<RELATION theme="132501_3" party1="132501_4" party1_string="STANTON" theme_string="STANTON v. NEW JERSEY" gram_type="infix" relation_type="asymmetric" id="132501_8" ></RELATION>
+
+<RELATION party2="132501_5" theme="132501_3" theme_string="STANTON v. NEW JERSEY" party2_string="NEW JERSEY" gram_type="infix" relation_type="asymmetric" id="132501_9" ></RELATION>
+

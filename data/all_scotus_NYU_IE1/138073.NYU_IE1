@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['holsapplevirginia#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_826" id1="138067" volume="543" start="0" page_number="826" standard_reporter="U.S." citation_global_level_id="2949.002" line="1" id="138073_1" citation_local_level_id="0" >543 U.S. 826</CITATION>
+
+<CITATION party2="VIRGINIA" party1="HOLSAPPLE" citation_global_level_id="42621.001" party2_short="VIRGINIA" line="2" id="138073_3" alternative_keys="['u.s._543_826']" end="38" entry_type="party_key" lookup_key="holsapplevirginia#1" id1="138073" start="17" party1_short="HOLSAPPLE" citation_local_level_id="1" >HOLSAPPLE v. VIRGINIA</CITATION>
+
+<NAME end="26" start="17" party1_of="138073_3" all_names="HOLSAPPLE" local_name_id="1" id="138073_4" >HOLSAPPLE</NAME>
+
+<NAME end="38" start="30" all_names="VIRGINIA" party2_of="138073_3" local_name_id="2" id="138073_5" >VIRGINIA</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="holsapplevirginia#1" id1="138073" start="48" citation_global_level_id="42621.001" line="2" id="138073_2" citation_local_level_id="1" >03-10135</DOCKET>
+
+<ORGANIZATION start="62" end="92" id="138073_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="98" citation_global_level_id="42621.001" end="113" id="138073_10" citation_local_level_id="1" >October 4, 2004</DATE>
+
+<NAME start="135" local_name_id="3" end="138" id="138073_15" all_names="SUP" >Sup</NAME>
+
+<CITATION end="194" reporter="Va." entry_type="standard_key" no_current_file="True" lookup_key="va._266_593" id1="Dummy_File_83458" volume="266" start="183" page_number="593" standard_reporter="VA." citation_global_level_id="147308.001" line="7" id="138073_13" citation_local_level_id="2" >266 Va. 593</CITATION>
+
+<CITATION end="212" reporter="S. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="s.e.2d_587_561" id1="Dummy_File_83459" volume="587" start="196" page_number="561" standard_reporter="S.E.2D" citation_global_level_id="147309.001" line="7" id="138073_14" citation_local_level_id="3" >587 S. E. 2d 561</CITATION>
+
+<RELATION theme="138073_3" includes_docket_string="03-10135" includes_docket="138073_2" theme_string="HOLSAPPLE v. VIRGINIA" gram_type="apposition" relation_type="asymmetric" id="138073_8" ></RELATION>
+
+<RELATION theme="138073_3" party1="138073_4" party1_string="HOLSAPPLE" theme_string="HOLSAPPLE v. VIRGINIA" gram_type="infix" relation_type="asymmetric" id="138073_6" ></RELATION>
+
+<RELATION party2="138073_5" theme="138073_3" theme_string="HOLSAPPLE v. VIRGINIA" party2_string="VIRGINIA" gram_type="infix" relation_type="asymmetric" id="138073_7" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 826" X_vs_Y_string="HOLSAPPLE v. VIRGINIA" standard_case="138073_1" X_vs_Y="138073_3" gram_type="multi_line" relation_type="equivalence" id="138073_11" ></RELATION>
+
+<RELATION at_date_string="October 4, 2004" theme="138073_3" at_date="138073_10" theme_string="HOLSAPPLE v. VIRGINIA" gram_type="multi_line" relation_type="asymmetric" id="138073_12" ></RELATION>
+

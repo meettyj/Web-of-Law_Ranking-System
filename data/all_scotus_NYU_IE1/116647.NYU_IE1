@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['danielstates#6']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1099" id1="116657" volume="510" start="0" page_number="1099" standard_reporter="U.S." citation_global_level_id="4430.002" line="1" id="116647_1" citation_local_level_id="0" >510 U.S. 1099</CITATION>
+
+<CITATION party2="United States" party1="Daniel" citation_global_level_id="57118.001" party2_short="States" line="1" id="116647_3" alternative_keys="['u.s._510_1099']" end="41" entry_type="party_key" lookup_key="danielstates#6" id1="117031" start="18" party1_short="Daniel" citation_local_level_id="1" >Daniel v. United States</CITATION>
+
+<NAME end="24" start="18" party1_of="116647_3" all_names="DANIEL" local_name_id="1" id="116647_4" >Daniel</NAME>
+
+<NAME end="41" start="28" all_names="UNITED STATES" party2_of="116647_3" local_name_id="2" id="116647_5" >United States</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._510_1099" id1="116657" start="51" citation_global_level_id="4430.002" line="1" id="116647_2" citation_local_level_id="0" >93-7142</DOCKET>
+
+<DATE start="100" end="116" id="116647_6" >January 24, 1994</DATE>
+
+<NAME start="194" local_name_id="3" end="204" id="116647_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="241" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_5_1495" id1="Dummy_File_5583" volume="5" start="229" page_number="1495" standard_reporter="F.3D" citation_global_level_id="69433.001" line="3" id="116647_12" citation_local_level_id="2" >5 F. 3d 1495</CITATION>
+
+<RELATION theme="116647_1" includes_docket_string="93-7142" includes_docket="116647_2" theme_string="510 U.S. 1099" gram_type="apposition" relation_type="asymmetric" id="116647_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1099" X_vs_Y_string="Daniel v. United States" standard_case="116647_1" X_vs_Y="116647_3" gram_type="pre_nom" relation_type="equivalence" id="116647_7" ></RELATION>
+
+<RELATION theme="116647_3" includes_docket_string="93-7142" includes_docket="116647_2" theme_string="Daniel v. United States" gram_type="apposition" relation_type="asymmetric" id="116647_10" ></RELATION>
+
+<RELATION theme="116647_3" party1="116647_4" party1_string="Daniel" theme_string="Daniel v. United States" gram_type="infix" relation_type="asymmetric" id="116647_8" ></RELATION>
+
+<RELATION party2="116647_5" theme="116647_3" theme_string="Daniel v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="116647_9" ></RELATION>
+

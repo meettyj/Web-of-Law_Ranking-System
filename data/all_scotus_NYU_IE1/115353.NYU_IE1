@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['knightgovernment#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_994" id1="115348" volume="510" start="0" page_number="994" standard_reporter="U.S." citation_global_level_id="2845.002" line="1" id="115353_1" citation_local_level_id="0" >510 U.S. 994</CITATION>
+
+<CITATION party2="Government of the Virgin Islands" party1="Knight" citation_global_level_id="25222.001" party2_short="Government" line="1" id="115353_3" alternative_keys="['u.s._510_994']" end="59" entry_type="party_key" lookup_key="knightgovernment#1" id1="115353" start="17" party1_short="Knight" citation_local_level_id="1" >Knight v. Government of the Virgin Islands</CITATION>
+
+<NAME end="23" start="17" party1_of="115353_3" all_names="KNIGHT" local_name_id="1" id="115353_4" >Knight</NAME>
+
+<NAME end="59" start="27" all_names="GOVERNMENT OF THE VIRGIN ISLANDS" party2_of="115353_3" local_name_id="2" id="115353_5" >Government of the Virgin Islands</NAME>
+
+<DOCKET end="76" entry_type="docket" lookup_key="u.s._510_994" id1="115348" start="69" citation_global_level_id="2845.002" line="1" id="115353_2" citation_local_level_id="0" >93-5171</DOCKET>
+
+<DATE start="118" end="135" id="115353_6" >November 29, 1993</DATE>
+
+<NAME start="212" local_name_id="3" end="222" id="115353_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="260" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_989_619" id1="Dummy_File_40479" volume="989" start="247" page_number="619" standard_reporter="F.2D" citation_global_level_id="104329.001" line="3" id="115353_12" citation_local_level_id="2" >989 F. 2d 619</CITATION>
+
+<RELATION theme="115353_1" includes_docket_string="93-5171" includes_docket="115353_2" theme_string="510 U.S. 994" gram_type="apposition" relation_type="asymmetric" id="115353_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 994" X_vs_Y_string="Knight v. Government of the Virgin Islands" standard_case="115353_1" X_vs_Y="115353_3" gram_type="pre_nom" relation_type="equivalence" id="115353_7" ></RELATION>
+
+<RELATION theme="115353_3" includes_docket_string="93-5171" includes_docket="115353_2" theme_string="Knight v. Government of the Virgin Islands" gram_type="apposition" relation_type="asymmetric" id="115353_10" ></RELATION>
+
+<RELATION theme="115353_3" party1="115353_4" party1_string="Knight" theme_string="Knight v. Government of the Virgin Islands" gram_type="infix" relation_type="asymmetric" id="115353_8" ></RELATION>
+
+<RELATION party2="115353_5" theme="115353_3" theme_string="Knight v. Government of the Virgin Islands" party2_string="Government of the Virgin Islands" gram_type="infix" relation_type="asymmetric" id="115353_9" ></RELATION>
+

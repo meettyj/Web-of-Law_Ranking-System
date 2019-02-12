@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['cubiewarden#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1039" id1="129709" volume="538" start="0" page_number="1039" standard_reporter="U.S." citation_global_level_id="12384.002" line="1" id="129700_1" citation_local_level_id="0" >538 U.S. 1039</CITATION>
+
+<CITATION party2="WALLS, WARDEN" party1="CUBIE" citation_global_level_id="46646.001" party2_short="WARDEN" line="1" id="129700_3" alternative_keys="['u.s._538_1039']" end="40" entry_type="party_key" lookup_key="cubiewarden#1" id1="129700" start="18" party1_short="CUBIE" citation_local_level_id="1" >CUBIE v. WALLS, WARDEN</CITATION>
+
+<NAME end="23" start="18" party1_of="129700_3" all_names="CUBIE" local_name_id="1" id="129700_4" >CUBIE</NAME>
+
+<NAME end="40" start="27" all_names="WALLS WARDEN" party2_of="129700_3" local_name_id="2" id="129700_5" >WALLS, WARDEN</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._538_1039" id1="129709" start="50" citation_global_level_id="12384.002" line="1" id="129700_2" citation_local_level_id="0" >02-9559</DOCKET>
+
+<DATE start="99" end="111" id="129700_6" >May 19, 2003</DATE>
+
+<NAME start="242" local_name_id="3" end="245" id="129700_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="129700_1" includes_docket_string="02-9559" includes_docket="129700_2" theme_string="538 U.S. 1039" gram_type="apposition" relation_type="asymmetric" id="129700_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1039" X_vs_Y_string="CUBIE v. WALLS, WARDEN" standard_case="129700_1" X_vs_Y="129700_3" gram_type="pre_nom" relation_type="equivalence" id="129700_7" ></RELATION>
+
+<RELATION theme="129700_3" includes_docket_string="02-9559" includes_docket="129700_2" theme_string="CUBIE v. WALLS, WARDEN" gram_type="apposition" relation_type="asymmetric" id="129700_10" ></RELATION>
+
+<RELATION theme="129700_3" party1="129700_4" party1_string="CUBIE" theme_string="CUBIE v. WALLS, WARDEN" gram_type="infix" relation_type="asymmetric" id="129700_8" ></RELATION>
+
+<RELATION party2="129700_5" theme="129700_3" theme_string="CUBIE v. WALLS, WARDEN" party2_string="WALLS, WARDEN" gram_type="infix" relation_type="asymmetric" id="129700_9" ></RELATION>
+

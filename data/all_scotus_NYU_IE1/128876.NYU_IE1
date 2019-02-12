@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['securitiesedwards#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_976" id1="128872" volume="538" start="0" page_number="976" standard_reporter="U.S." citation_global_level_id="8279.002" line="1" id="128876_1" citation_local_level_id="0" >538 U.S. 976</CITATION>
+
+<CITATION party2="EDWARDS" party1="SECURITIES AND EXCHANGE COMMISSION" citation_global_level_id="56161.001" party2_short="EDWARDS" line="1" id="128876_3" alternative_keys="['u.s._538_976']" end="62" entry_type="party_key" lookup_key="securitiesedwards#2" id1="128876" start="17" party1_short="SECURITIES" citation_local_level_id="1" >SECURITIES AND EXCHANGE COMMISSION v. EDWARDS</CITATION>
+
+<NAME end="51" start="17" party1_of="128876_3" all_names="SECURITIES AND EXCHANGE COMMISSION" local_name_id="1" id="128876_4" >SECURITIES AND EXCHANGE COMMISSION</NAME>
+
+<NAME end="62" start="55" all_names="EDWARDS" party2_of="128876_3" local_name_id="2" id="128876_5" >EDWARDS</NAME>
+
+<DOCKET end="79" entry_type="docket" lookup_key="u.s._538_976" id1="128872" start="72" citation_global_level_id="8279.002" line="1" id="128876_2" citation_local_level_id="0" >02-1196</DOCKET>
+
+<DATE start="121" end="135" id="128876_6" >April 21, 2003</DATE>
+
+<NAME start="268" local_name_id="3" end="271" id="128876_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="549" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_300_1281" id1="Dummy_File_10853" volume="300" start="535" page_number="1281" standard_reporter="F.3D" citation_global_level_id="74703.001" line="3" id="128876_12" citation_local_level_id="2" >300 F. 3d 1281</CITATION>
+
+<RELATION theme="128876_1" includes_docket_string="02-1196" includes_docket="128876_2" theme_string="538 U.S. 976" gram_type="apposition" relation_type="asymmetric" id="128876_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 976" X_vs_Y_string="SECURITIES AND EXCHANGE COMMISSION v. EDWARDS" standard_case="128876_1" X_vs_Y="128876_3" gram_type="pre_nom" relation_type="equivalence" id="128876_7" ></RELATION>
+
+<RELATION theme="128876_3" includes_docket_string="02-1196" includes_docket="128876_2" theme_string="SECURITIES AND EXCHANGE COMMISSION v. EDWARDS" gram_type="apposition" relation_type="asymmetric" id="128876_10" ></RELATION>
+
+<RELATION theme="128876_3" party1="128876_4" party1_string="SECURITIES AND EXCHANGE COMMISSION" theme_string="SECURITIES AND EXCHANGE COMMISSION v. EDWARDS" gram_type="infix" relation_type="asymmetric" id="128876_8" ></RELATION>
+
+<RELATION party2="128876_5" theme="128876_3" theme_string="SECURITIES AND EXCHANGE COMMISSION v. EDWARDS" party2_string="EDWARDS" gram_type="infix" relation_type="asymmetric" id="128876_9" ></RELATION>
+

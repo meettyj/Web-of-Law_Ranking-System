@@ -1,0 +1,46 @@
+<CITATION alternative_keys="['statestate#83', 's.ct._45_609', 'l.ed._69_1057']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._268_472" id1="100691" volume="268" start="0" page_number="472" standard_reporter="U.S." citation_global_level_id="55273.002" line="1" id="100691_1" citation_local_level_id="0" >268 U.S. 472</CITATION>
+
+<CITATION alternative_keys="['u.s._268_472', 'statestate#83', 'l.ed._69_1057']" end="30" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._45_609" id1="100691" volume="45" start="17" page_number="609" standard_reporter="S.CT." citation_global_level_id="55273.003" line="1" id="100691_2" citation_local_level_id="1" >45 S. Ct. 609</CITATION>
+
+<NAME start="20" local_name_id="1" end="25" id="100691_10" all_names="S CT" >S. Ct</NAME>
+
+<CITATION alternative_keys="['u.s._268_472', 's.ct._45_609', 'statestate#83']" end="49" reporter="L. Ed." entry_type="standard_key" lookup_key="l.ed._69_1057" id1="100691" volume="69" start="35" page_number="1057" standard_reporter="L.ED." citation_global_level_id="55273.004" line="1" id="100691_3" citation_local_level_id="2" >69 L. Ed. 1057</CITATION>
+
+<CITATION party2="STATE OF TEXAS, Defendant (UNITED STATES, Intervener" alternative_keys="['s.ct._45_609', 'l.ed._69_1057', 'u.s._268_472']" party1="STATE OF OKLAHOMA," end="141" party1_short="STATE" entry_type="party_key" party1_role="complainant" lookup_key="statestate#83" id="100691_4" start="54" citation_global_level_id="55273.005" party2_short="STATE" line="1" id1="100691" party2_role="defendant" citation_local_level_id="3" >STATE OF OKLAHOMA, Complainant, v. STATE OF TEXAS, Defendant (UNITED STATES, Intervener</CITATION>
+
+<NAME end="72" start="54" party1_of="100691_4" all_names="STATE OF OKLAHOMA" local_name_id="2" id="100691_5" >STATE OF OKLAHOMA,</NAME>
+
+<LEGAL_ROLE start="73" end="84" id="100691_7" >Complainant</LEGAL_ROLE>
+
+<NAME end="141" start="89" all_names="STATE OF TEXAS DEFENDANT (UNITED STATES INTERVENER" party2_of="100691_4" local_name_id="3" id="100691_6" >STATE OF TEXAS, Defendant (UNITED STATES, Intervener</NAME>
+
+<LEGAL_ROLE start="105" end="114" id="100691_8" >Defendant</LEGAL_ROLE>
+
+<DATE start="199" end="211" id="100691_9" >June 1, 1925</DATE>
+
+<NAME start="300" local_name_id="4" end="306" id="100691_16" all_names="MASSRS" >Massrs</NAME>
+
+<NAME start="448" local_name_id="5" end="454" id="100691_17" all_names="CURIAM" >CURIAM</NAME>
+
+<ORGANIZATION start="897" end="902" id="100691_18" >court</ORGANIZATION>
+
+<ORGANIZATION start="1064" end="1102" id="100691_19" >Security Storage Company of Washington</ORGANIZATION>
+
+<NAME start="1104" local_name_id="6" end="1108" id="100691_20" all_names="D C" >D. C</NAME>
+
+<ORGANIZATION start="1155" end="1173" id="100691_21" >clerk of the court</ORGANIZATION>
+
+<NAME start="1203" local_name_id="7" end="1206" id="100691_22" all_names="MAY" >May</NAME>
+
+<ORGANIZATION start="1629" end="1634" id="100691_23" >court</ORGANIZATION>
+
+<RELATION standard_case_string="268 U.S. 472" X_vs_Y_string="STATE OF OKLAHOMA, Complainant, v. STATE OF TEXAS, Defendant (UNITED STATES, Intervener" standard_case="100691_1" X_vs_Y="100691_4" gram_type="pre_nom" relation_type="equivalence" id="100691_12" ></RELATION>
+
+<RELATION standard_case_string="45 S. Ct. 609" X_vs_Y_string="STATE OF OKLAHOMA, Complainant, v. STATE OF TEXAS, Defendant (UNITED STATES, Intervener" standard_case="100691_2" X_vs_Y="100691_4" gram_type="pre_nom" relation_type="equivalence" id="100691_13" ></RELATION>
+
+<RELATION standard_case_string="69 L. Ed. 1057" X_vs_Y_string="STATE OF OKLAHOMA, Complainant, v. STATE OF TEXAS, Defendant (UNITED STATES, Intervener" standard_case="100691_3" X_vs_Y="100691_4" gram_type="pre_nom" relation_type="equivalence" id="100691_11" ></RELATION>
+
+<RELATION theme="100691_4" party1="100691_5" party1_string="STATE OF OKLAHOMA," theme_string="STATE OF OKLAHOMA, Complainant, v. STATE OF TEXAS, Defendant (UNITED STATES, Intervener" gram_type="infix" relation_type="asymmetric" id="100691_14" ></RELATION>
+
+<RELATION party2="100691_6" theme="100691_4" theme_string="STATE OF OKLAHOMA, Complainant, v. STATE OF TEXAS, Defendant (UNITED STATES, Intervener" party2_string="STATE OF TEXAS, Defendant (UNITED STATES, Intervener" gram_type="infix" relation_type="asymmetric" id="100691_15" ></RELATION>
+

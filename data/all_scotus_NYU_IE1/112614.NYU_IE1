@@ -1,0 +1,34 @@
+<CITATION alternative_keys="['thakkardebevoise#1', 's.ct._111_2279', 'l.ed.2d_114_730']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._500_962" id1="112614" volume="500" start="0" page_number="962" standard_reporter="U.S." citation_global_level_id="4381.002" line="1" id="112614_1" citation_local_level_id="0" >500 U.S. 962</CITATION>
+
+<CITATION alternative_keys="['u.s._500_962', 'thakkardebevoise#1', 'l.ed.2d_114_730']" end="32" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._111_2279" id1="112614" volume="111" start="17" page_number="2279" standard_reporter="S.CT." citation_global_level_id="4381.003" line="2" id="112614_2" citation_local_level_id="1" >111 S. Ct. 2279</CITATION>
+
+<CITATION alternative_keys="['u.s._500_962', 's.ct._111_2279', 'thakkardebevoise#1']" end="54" reporter="L. Ed. 2d" entry_type="standard_key" lookup_key="l.ed.2d_114_730" id1="112614" volume="114" start="37" page_number="730" standard_reporter="L.ED.2D" citation_global_level_id="4381.004" line="3" id="112614_3" citation_local_level_id="2" >114 L. Ed. 2d 730</CITATION>
+
+<CITATION party2="Dickinson DEBEVOISE" alternative_keys="['u.s._500_962', 's.ct._111_2279', 'l.ed.2d_114_730']" party1="Rajesh THAKKAR," end="109" party1_short="THAKKAR" entry_type="party_key" party1_role="petitioner" lookup_key="thakkardebevoise#1" id1="112614" start="59" citation_global_level_id="4381.001" party2_short="DEBEVOISE" line="4" id="112614_4" citation_local_level_id="3" >Rajesh THAKKAR, petitioner, v. Dickinson DEBEVOISE</CITATION>
+
+<NAME end="74" start="59" party1_of="112614_4" all_names="RAJESH THAKKAR" local_name_id="1" id="112614_5" >Rajesh THAKKAR,</NAME>
+
+<LEGAL_ROLE start="75" end="85" id="112614_7" >petitioner</LEGAL_ROLE>
+
+<NAME end="109" start="90" all_names="DICKINSON DEBEVOISE" party2_of="112614_4" local_name_id="2" id="112614_6" >Dickinson DEBEVOISE</NAME>
+
+<DOCKET end="125" entry_type="docket" lookup_key="thakkardebevoise#1" id1="112614" start="118" citation_global_level_id="4381.001" line="5" id="112614_10" citation_local_level_id="3" >90-7333</DOCKET>
+
+<ORGANIZATION start="130" end="164" id="112614_11" >Supreme Court of the United States</ORGANIZATION>
+
+<DATE start="169" citation_global_level_id="4381.001" end="181" id="112614_12" citation_local_level_id="3" >June 3, 1991</DATE>
+
+<RELATION theme="112614_4" party1="112614_5" party1_string="Rajesh THAKKAR," theme_string="Rajesh THAKKAR, petitioner, v. Dickinson DEBEVOISE" gram_type="infix" relation_type="asymmetric" id="112614_8" ></RELATION>
+
+<RELATION party2="112614_6" theme="112614_4" theme_string="Rajesh THAKKAR, petitioner, v. Dickinson DEBEVOISE" party2_string="Dickinson DEBEVOISE" gram_type="infix" relation_type="asymmetric" id="112614_9" ></RELATION>
+
+<RELATION standard_case_string="500 U.S. 962" X_vs_Y_string="Rajesh THAKKAR, petitioner, v. Dickinson DEBEVOISE" standard_case="112614_1" X_vs_Y="112614_4" gram_type="multi_line" relation_type="equivalence" id="112614_13" ></RELATION>
+
+<RELATION standard_case_string="111 S. Ct. 2279" X_vs_Y_string="Rajesh THAKKAR, petitioner, v. Dickinson DEBEVOISE" standard_case="112614_2" X_vs_Y="112614_4" gram_type="multi_line" relation_type="equivalence" id="112614_14" ></RELATION>
+
+<RELATION standard_case_string="114 L. Ed. 2d 730" X_vs_Y_string="Rajesh THAKKAR, petitioner, v. Dickinson DEBEVOISE" standard_case="112614_3" X_vs_Y="112614_4" gram_type="multi_line" relation_type="equivalence" id="112614_15" ></RELATION>
+
+<RELATION at_date_string="June 3, 1991" theme="112614_4" at_date="112614_12" theme_string="Rajesh THAKKAR, petitioner, v. Dickinson DEBEVOISE" gram_type="multi_line" relation_type="asymmetric" id="112614_17" ></RELATION>
+
+<RELATION theme="112614_4" includes_docket_string="90-7333" includes_docket="112614_10" theme_string="Rajesh THAKKAR, petitioner, v. Dickinson DEBEVOISE" gram_type="multi_line" relation_type="asymmetric" id="112614_16" ></RELATION>
+

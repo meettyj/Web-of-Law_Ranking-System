@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['byrdcubbage#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_982" id1="115224" volume="510" start="0" page_number="982" standard_reporter="U.S." citation_global_level_id="2022.002" line="1" id="115219_1" citation_local_level_id="0" >510 U.S. 982</CITATION>
+
+<CITATION party2="Cubbage" party1="Byrd" citation_global_level_id="14672.001" party2_short="Cubbage" line="1" id="115219_3" alternative_keys="['u.s._510_982']" end="32" entry_type="party_key" lookup_key="byrdcubbage#1" id1="115219" start="17" party1_short="Byrd" citation_local_level_id="1" >Byrd v. Cubbage</CITATION>
+
+<NAME end="21" start="17" party1_of="115219_3" all_names="BYRD" local_name_id="1" id="115219_4" >Byrd</NAME>
+
+<NAME end="32" start="25" all_names="CUBBAGE" party2_of="115219_3" local_name_id="2" id="115219_5" >Cubbage</NAME>
+
+<DOCKET end="49" entry_type="docket" lookup_key="u.s._510_982" id1="115224" start="42" citation_global_level_id="2022.002" line="1" id="115219_2" citation_local_level_id="0" >93-6204</DOCKET>
+
+<DATE start="91" end="108" id="115219_6" >November 15, 1993</DATE>
+
+<NAME start="185" local_name_id="3" end="195" id="115219_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="234" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_998_1002" id1="Dummy_File_20883" volume="998" start="220" page_number="1002" standard_reporter="F.2D" citation_global_level_id="84733.001" line="3" id="115219_12" citation_local_level_id="2" >998 F. 2d 1002</CITATION>
+
+<RELATION theme="115219_1" includes_docket_string="93-6204" includes_docket="115219_2" theme_string="510 U.S. 982" gram_type="apposition" relation_type="asymmetric" id="115219_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 982" X_vs_Y_string="Byrd v. Cubbage" standard_case="115219_1" X_vs_Y="115219_3" gram_type="pre_nom" relation_type="equivalence" id="115219_7" ></RELATION>
+
+<RELATION theme="115219_3" includes_docket_string="93-6204" includes_docket="115219_2" theme_string="Byrd v. Cubbage" gram_type="apposition" relation_type="asymmetric" id="115219_10" ></RELATION>
+
+<RELATION theme="115219_3" party1="115219_4" party1_string="Byrd" theme_string="Byrd v. Cubbage" gram_type="infix" relation_type="asymmetric" id="115219_8" ></RELATION>
+
+<RELATION party2="115219_5" theme="115219_3" theme_string="Byrd v. Cubbage" party2_string="Cubbage" gram_type="infix" relation_type="asymmetric" id="115219_9" ></RELATION>
+

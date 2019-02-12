@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['doppkansas#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1117" id1="126266" volume="537" start="0" page_number="1117" standard_reporter="U.S." citation_global_level_id="8469.002" line="1" id="126265_1" citation_local_level_id="0" >537 U.S. 1117</CITATION>
+
+<CITATION party2="LABETTE COUNTY, KANSAS, ET AL" party1="DOPP" citation_global_level_id="8469.004" party2_short="KANSAS" line="1" id="126265_3" alternative_keys="['u.s._537_1117']" end="55" entry_type="party_key" lookup_key="doppkansas#2" id1="126266" start="18" party1_short="DOPP" citation_local_level_id="1" >DOPP v. LABETTE COUNTY, KANSAS, ET AL</CITATION>
+
+<NAME end="22" start="18" party1_of="126265_3" all_names="DOPP" local_name_id="1" id="126265_4" >DOPP</NAME>
+
+<NAME end="55" start="26" all_names="LABETTE COUNTY KANSAS" party2_of="126265_3" local_name_id="2" id="126265_5" >LABETTE COUNTY, KANSAS, ET AL</NAME>
+
+<DOCKET end="72" entry_type="docket" lookup_key="u.s._537_1117" id1="126266" start="65" citation_global_level_id="8469.002" line="1" id="126265_2" citation_local_level_id="0" >02-6988</DOCKET>
+
+<DATE start="114" end="130" id="126265_6" >January 13, 2003</DATE>
+
+<NAME start="223" local_name_id="3" end="225" id="126265_13" all_names="CT" >Ct</NAME>
+
+<CITATION end="305" reporter="P. 3d" entry_type="standard_key" no_current_file="True" lookup_key="p.3d_45_403" id1="Dummy_File_117470" volume="45" start="293" page_number="403" standard_reporter="P.3D" citation_global_level_id="181320.001" line="3" id="126265_12" citation_local_level_id="2" >45 P. 3d 403</CITATION>
+
+<RELATION theme="126265_1" includes_docket_string="02-6988" includes_docket="126265_2" theme_string="537 U.S. 1117" gram_type="apposition" relation_type="asymmetric" id="126265_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1117" X_vs_Y_string="DOPP v. LABETTE COUNTY, KANSAS, ET AL" standard_case="126265_1" X_vs_Y="126265_3" gram_type="pre_nom" relation_type="equivalence" id="126265_7" ></RELATION>
+
+<RELATION theme="126265_3" includes_docket_string="02-6988" includes_docket="126265_2" theme_string="DOPP v. LABETTE COUNTY, KANSAS, ET AL" gram_type="apposition" relation_type="asymmetric" id="126265_10" ></RELATION>
+
+<RELATION theme="126265_3" party1="126265_4" party1_string="DOPP" theme_string="DOPP v. LABETTE COUNTY, KANSAS, ET AL" gram_type="infix" relation_type="asymmetric" id="126265_8" ></RELATION>
+
+<RELATION party2="126265_5" theme="126265_3" theme_string="DOPP v. LABETTE COUNTY, KANSAS, ET AL" party2_string="LABETTE COUNTY, KANSAS, ET AL" gram_type="infix" relation_type="asymmetric" id="126265_9" ></RELATION>
+

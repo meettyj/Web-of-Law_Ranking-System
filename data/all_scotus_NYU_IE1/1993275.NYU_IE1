@@ -1,0 +1,24 @@
+<DATE start="2" end="6" id="1993275_1" >2006</DATE>
+
+<CITATION party2="GENENTECH, INC., ET AL" party1="MEdIMMUNE, INC." citation_global_level_id="13198.004" party2_short="GENENTECH" line="5" id="1993275_3" alternative_keys="['u.s._549_118', 's.ct._127_764']" end="51" entry_type="party_key" lookup_key="medimmunegenentech#3" id1="145767" start="8" party1_short="MEdIMMUNE" citation_local_level_id="0" >MEdIMMUNE, INC. v. GENENTECH, INC., ET AL</CITATION>
+
+<NAME end="23" start="8" party1_of="1993275_3" all_names="MEDIMMUNE INC" local_name_id="1" id="1993275_4" >MEdIMMUNE, INC.</NAME>
+
+<ORGANIZATION start="8" end="22" id="1993275_6" >MEdIMMUNE, INC</ORGANIZATION>
+
+<NAME end="51" start="29" all_names="GENENTECH INC" party2_of="1993275_3" local_name_id="2" id="1993275_5" >GENENTECH, INC., ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._549_118', 's.ct._127_764']" end="63" entry_type="docket" lookup_key="medimmunegenentech#3" id1="145767" start="57" citation_global_level_id="13198.004" line="6" id="1993275_9" citation_local_level_id="0" >05-608</DOCKET>
+
+<ORGANIZATION start="64" end="94" id="1993275_10" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="96" citation_global_level_id="13198.004" end="113" id="1993275_11" citation_local_level_id="0" >February 21, 2006</DATE>
+
+<RELATION theme="1993275_3" party1="1993275_4" party1_string="MEdIMMUNE, INC." theme_string="MEdIMMUNE, INC.  v.  GENENTECH, INC., ET AL" gram_type="infix" relation_type="asymmetric" id="1993275_7" ></RELATION>
+
+<RELATION party2="1993275_5" theme="1993275_3" theme_string="MEdIMMUNE, INC.  v.  GENENTECH, INC., ET AL" party2_string="GENENTECH, INC., ET AL" gram_type="infix" relation_type="asymmetric" id="1993275_8" ></RELATION>
+
+<RELATION at_date_string="February 21, 2006" theme="1993275_3" at_date="1993275_11" theme_string="MEdIMMUNE, INC.  v.  GENENTECH, INC., ET AL" gram_type="multi_line" relation_type="asymmetric" id="1993275_13" ></RELATION>
+
+<RELATION theme="1993275_3" includes_docket_string="05-608" includes_docket="1993275_9" theme_string="MEdIMMUNE, INC.  v.  GENENTECH, INC., ET AL" gram_type="multi_line" relation_type="asymmetric" id="1993275_12" ></RELATION>
+

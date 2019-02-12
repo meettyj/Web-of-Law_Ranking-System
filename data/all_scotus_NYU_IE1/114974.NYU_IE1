@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['uppa#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_964" id1="114976" volume="510" start="0" page_number="964" standard_reporter="U.S." citation_global_level_id="2742.002" line="1" id="114974_1" citation_local_level_id="0" >510 U.S. 964</CITATION>
+
+<CITATION party2="Mellon Bank, N. A" party1="Upp" citation_global_level_id="2742.006" party2_short="A" line="1" id="114974_3" alternative_keys="['u.s._510_964']" end="41" entry_type="party_key" lookup_key="uppa#2" id1="114976" start="17" party1_short="Upp" citation_local_level_id="1" >Upp v. Mellon Bank, N. A</CITATION>
+
+<NAME end="20" start="17" party1_of="114974_3" all_names="UPP" local_name_id="1" id="114974_4" >Upp</NAME>
+
+<NAME end="41" start="24" all_names="MELLON BANK N A" party2_of="114974_3" local_name_id="2" id="114974_5" >Mellon Bank, N. A</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._510_964" id1="114976" start="51" citation_global_level_id="2742.002" line="1" id="114974_2" citation_local_level_id="0" >93-410</DOCKET>
+
+<DATE start="99" end="115" id="114974_6" >November 8, 1993</DATE>
+
+<NAME start="192" local_name_id="3" end="202" id="114974_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="241" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_994_1039" id1="Dummy_File_113608" volume="994" start="227" page_number="1039" standard_reporter="F.2D" citation_global_level_id="177458.001" line="3" id="114974_12" citation_local_level_id="2" >994 F. 2d 1039</CITATION>
+
+<RELATION theme="114974_1" includes_docket_string="93-410" includes_docket="114974_2" theme_string="510 U.S. 964" gram_type="apposition" relation_type="asymmetric" id="114974_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 964" X_vs_Y_string="Upp v. Mellon Bank, N. A" standard_case="114974_1" X_vs_Y="114974_3" gram_type="pre_nom" relation_type="equivalence" id="114974_7" ></RELATION>
+
+<RELATION theme="114974_3" includes_docket_string="93-410" includes_docket="114974_2" theme_string="Upp v. Mellon Bank, N. A" gram_type="apposition" relation_type="asymmetric" id="114974_10" ></RELATION>
+
+<RELATION theme="114974_3" party1="114974_4" party1_string="Upp" theme_string="Upp v. Mellon Bank, N. A" gram_type="infix" relation_type="asymmetric" id="114974_8" ></RELATION>
+
+<RELATION party2="114974_5" theme="114974_3" theme_string="Upp v. Mellon Bank, N. A" party2_string="Mellon Bank, N. A" gram_type="infix" relation_type="asymmetric" id="114974_9" ></RELATION>
+

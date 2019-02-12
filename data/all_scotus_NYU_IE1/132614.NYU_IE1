@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['spearandraschko#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_911" id1="132614" volume="540" start="0" page_number="911" standard_reporter="U.S." citation_global_level_id="9584.002" line="1" id="132614_1" citation_local_level_id="0" >540 U.S. 911</CITATION>
+
+<CITATION party2="ANDRASCHKO" party1="SPEAR" citation_global_level_id="9584.001" party2_short="ANDRASCHKO" line="1" id="132614_3" alternative_keys="['u.s._540_911']" end="36" entry_type="party_key" lookup_key="spearandraschko#1" id1="132614" start="17" party1_short="SPEAR" citation_local_level_id="1" >SPEAR v. ANDRASCHKO</CITATION>
+
+<NAME end="22" start="17" party1_of="132614_3" all_names="SPEAR" local_name_id="1" id="132614_4" >SPEAR</NAME>
+
+<NAME end="36" start="26" all_names="ANDRASCHKO" party2_of="132614_3" local_name_id="2" id="132614_5" >ANDRASCHKO</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="u.s._540_911" id1="132614" start="46" citation_global_level_id="9584.002" line="1" id="132614_2" citation_local_level_id="0" >03-5480</DOCKET>
+
+<DATE start="95" end="110" id="132614_6" >October 6, 2003</DATE>
+
+<NAME start="189" local_name_id="3" end="199" id="132614_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="132614_1" includes_docket_string="03-5480" includes_docket="132614_2" theme_string="540 U.S. 911" gram_type="apposition" relation_type="asymmetric" id="132614_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 911" X_vs_Y_string="SPEAR v. ANDRASCHKO" standard_case="132614_1" X_vs_Y="132614_3" gram_type="pre_nom" relation_type="equivalence" id="132614_7" ></RELATION>
+
+<RELATION theme="132614_3" includes_docket_string="03-5480" includes_docket="132614_2" theme_string="SPEAR v. ANDRASCHKO" gram_type="apposition" relation_type="asymmetric" id="132614_10" ></RELATION>
+
+<RELATION theme="132614_3" party1="132614_4" party1_string="SPEAR" theme_string="SPEAR v. ANDRASCHKO" gram_type="infix" relation_type="asymmetric" id="132614_8" ></RELATION>
+
+<RELATION party2="132614_5" theme="132614_3" theme_string="SPEAR v. ANDRASCHKO" party2_string="ANDRASCHKO" gram_type="infix" relation_type="asymmetric" id="132614_9" ></RELATION>
+

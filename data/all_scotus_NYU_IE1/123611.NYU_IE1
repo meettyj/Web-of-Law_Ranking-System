@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['howardholt#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_906" id1="123615" volume="537" start="0" page_number="906" standard_reporter="U.S." citation_global_level_id="1514.002" line="1" id="123611_1" citation_local_level_id="0" >537 U.S. 906</CITATION>
+
+<CITATION party2="WARDEN HOLT" party1="HOWARD" citation_global_level_id="14986.001" party2_short="HOLT" line="1" id="123611_3" alternative_keys="['u.s._537_906']" end="38" entry_type="party_key" lookup_key="howardholt#1" id1="123611" start="17" party1_short="HOWARD" citation_local_level_id="1" >HOWARD v. WARDEN HOLT</CITATION>
+
+<NAME end="23" start="17" party1_of="123611_3" all_names="HOWARD" local_name_id="1" id="123611_4" >HOWARD</NAME>
+
+<NAME end="38" start="27" all_names="WARDEN HOLT" party2_of="123611_3" local_name_id="2" id="123611_5" >WARDEN HOLT</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._537_906" id1="123615" start="48" citation_global_level_id="1514.002" line="1" id="123611_2" citation_local_level_id="0" >02-5288</DOCKET>
+
+<DATE start="97" end="112" id="123611_6" >October 7, 2002</DATE>
+
+<NAME start="242" local_name_id="3" end="245" id="123611_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="123611_1" includes_docket_string="02-5288" includes_docket="123611_2" theme_string="537 U.S. 906" gram_type="apposition" relation_type="asymmetric" id="123611_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 906" X_vs_Y_string="HOWARD v. WARDEN HOLT" standard_case="123611_1" X_vs_Y="123611_3" gram_type="pre_nom" relation_type="equivalence" id="123611_7" ></RELATION>
+
+<RELATION theme="123611_3" includes_docket_string="02-5288" includes_docket="123611_2" theme_string="HOWARD v. WARDEN HOLT" gram_type="apposition" relation_type="asymmetric" id="123611_10" ></RELATION>
+
+<RELATION theme="123611_3" party1="123611_4" party1_string="HOWARD" theme_string="HOWARD v. WARDEN HOLT" gram_type="infix" relation_type="asymmetric" id="123611_8" ></RELATION>
+
+<RELATION party2="123611_5" theme="123611_3" theme_string="HOWARD v. WARDEN HOLT" party2_string="WARDEN HOLT" gram_type="infix" relation_type="asymmetric" id="123611_9" ></RELATION>
+

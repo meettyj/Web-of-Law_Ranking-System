@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['dawnstates#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1183" id1="117494" volume="510" start="0" page_number="1183" standard_reporter="U.S." citation_global_level_id="1422.002" line="1" id="117504_1" citation_local_level_id="0" >510 U.S. 1183</CITATION>
+
+<CITATION party2="United States" party1="Dawn" citation_global_level_id="14979.001" party2_short="States" line="1" id="117504_3" alternative_keys="['u.s._510_1183']" end="39" entry_type="party_key" lookup_key="dawnstates#1" id1="117504" start="18" party1_short="Dawn" citation_local_level_id="1" >Dawn v. United States</CITATION>
+
+<NAME end="22" start="18" party1_of="117504_3" all_names="DAWN" local_name_id="1" id="117504_4" >Dawn</NAME>
+
+<NAME end="39" start="26" all_names="UNITED STATES" party2_of="117504_3" local_name_id="2" id="117504_5" >United States</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._510_1183" id1="117494" start="49" citation_global_level_id="1422.002" line="1" id="117504_2" citation_local_level_id="0" >93-7712</DOCKET>
+
+<DATE start="98" end="111" id="117504_6" >March 7, 1994</DATE>
+
+<NAME start="189" local_name_id="3" end="199" id="117504_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="237" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_12_1100" id1="Dummy_File_49467" volume="12" start="224" page_number="1100" standard_reporter="F.3D" citation_global_level_id="113317.001" line="3" id="117504_12" citation_local_level_id="2" >12 F. 3d 1100</CITATION>
+
+<RELATION theme="117504_1" includes_docket_string="93-7712" includes_docket="117504_2" theme_string="510 U.S. 1183" gram_type="apposition" relation_type="asymmetric" id="117504_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1183" X_vs_Y_string="Dawn v. United States" standard_case="117504_1" X_vs_Y="117504_3" gram_type="pre_nom" relation_type="equivalence" id="117504_7" ></RELATION>
+
+<RELATION theme="117504_3" includes_docket_string="93-7712" includes_docket="117504_2" theme_string="Dawn v. United States" gram_type="apposition" relation_type="asymmetric" id="117504_10" ></RELATION>
+
+<RELATION theme="117504_3" party1="117504_4" party1_string="Dawn" theme_string="Dawn v. United States" gram_type="infix" relation_type="asymmetric" id="117504_8" ></RELATION>
+
+<RELATION party2="117504_5" theme="117504_3" theme_string="Dawn v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="117504_9" ></RELATION>
+

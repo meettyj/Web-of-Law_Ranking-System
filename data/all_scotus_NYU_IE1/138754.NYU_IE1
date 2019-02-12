@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['mearsflorida#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_878" id1="138763" volume="543" start="0" page_number="878" standard_reporter="U.S." citation_global_level_id="11639.002" line="1" id="138754_1" citation_local_level_id="0" >543 U.S. 878</CITATION>
+
+<CITATION party2="FLORIDA" party1="MEARS" citation_global_level_id="27248.001" party2_short="FLORIDA" line="2" id="138754_2" alternative_keys="['u.s._543_878']" end="33" entry_type="party_key" lookup_key="mearsflorida#1" id1="138754" start="17" party1_short="MEARS" citation_local_level_id="1" >MEARS v. FLORIDA</CITATION>
+
+<NAME end="22" start="17" party1_of="138754_2" all_names="MEARS" local_name_id="1" id="138754_3" >MEARS</NAME>
+
+<NAME end="33" start="26" all_names="FLORIDA" party2_of="138754_2" local_name_id="2" id="138754_4" >FLORIDA</NAME>
+
+<DOCKET end="50" entry_type="docket" lookup_key="mearsflorida#1" id1="138754" start="43" citation_global_level_id="27248.001" line="3" id="138754_7" citation_local_level_id="1" >04-5018</DOCKET>
+
+<ORGANIZATION start="56" end="86" id="138754_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="92" citation_global_level_id="27248.001" end="107" id="138754_9" citation_local_level_id="1" >October 4, 2004</DATE>
+
+<NAME start="129" local_name_id="3" end="132" id="138754_14" all_names="SUP" >Sup</NAME>
+
+<CITATION end="193" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_874_1192" id1="Dummy_File_177999" volume="874" start="178" page_number="1192" standard_reporter="SO.2D" citation_global_level_id="241849.001" line="8" id="138754_13" citation_local_level_id="2" >874 So. 2d 1192</CITATION>
+
+<RELATION theme="138754_2" party1="138754_3" party1_string="MEARS" theme_string="MEARS v. FLORIDA" gram_type="infix" relation_type="asymmetric" id="138754_5" ></RELATION>
+
+<RELATION party2="138754_4" theme="138754_2" theme_string="MEARS v. FLORIDA" party2_string="FLORIDA" gram_type="infix" relation_type="asymmetric" id="138754_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 878" X_vs_Y_string="MEARS v. FLORIDA" standard_case="138754_1" X_vs_Y="138754_2" gram_type="multi_line" relation_type="equivalence" id="138754_10" ></RELATION>
+
+<RELATION at_date_string="October 4, 2004" theme="138754_2" at_date="138754_9" theme_string="MEARS v. FLORIDA" gram_type="multi_line" relation_type="asymmetric" id="138754_12" ></RELATION>
+
+<RELATION theme="138754_2" includes_docket_string="04-5018" includes_docket="138754_7" theme_string="MEARS v. FLORIDA" gram_type="multi_line" relation_type="asymmetric" id="138754_11" ></RELATION>
+

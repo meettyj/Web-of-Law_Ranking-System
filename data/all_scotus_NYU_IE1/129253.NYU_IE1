@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['swigerohio#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1003" id1="129240" volume="538" start="0" page_number="1003" standard_reporter="U.S." citation_global_level_id="780.002" line="1" id="129253_1" citation_local_level_id="0" >538 U.S. 1003</CITATION>
+
+<CITATION party2="OHIO" party1="SWIGER" citation_global_level_id="27359.001" party2_short="OHIO" line="1" id="129253_3" alternative_keys="['u.s._538_1003']" end="32" entry_type="party_key" lookup_key="swigerohio#1" id1="129253" start="18" party1_short="SWIGER" citation_local_level_id="1" >SWIGER v. OHIO</CITATION>
+
+<NAME end="24" start="18" party1_of="129253_3" all_names="SWIGER" local_name_id="1" id="129253_4" >SWIGER</NAME>
+
+<NAME end="32" start="28" all_names="OHIO" party2_of="129253_3" local_name_id="2" id="129253_5" >OHIO</NAME>
+
+<DOCKET end="49" entry_type="docket" lookup_key="u.s._538_1003" id1="129240" start="42" citation_global_level_id="780.002" line="1" id="129253_2" citation_local_level_id="0" >02-9240</DOCKET>
+
+<DATE start="91" end="105" id="129253_6" >April 28, 2003</DATE>
+
+<NAME start="233" local_name_id="3" end="236" id="129253_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="129253_1" includes_docket_string="02-9240" includes_docket="129253_2" theme_string="538 U.S. 1003" gram_type="apposition" relation_type="asymmetric" id="129253_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1003" X_vs_Y_string="SWIGER v. OHIO" standard_case="129253_1" X_vs_Y="129253_3" gram_type="pre_nom" relation_type="equivalence" id="129253_7" ></RELATION>
+
+<RELATION theme="129253_3" includes_docket_string="02-9240" includes_docket="129253_2" theme_string="SWIGER v. OHIO" gram_type="apposition" relation_type="asymmetric" id="129253_10" ></RELATION>
+
+<RELATION theme="129253_3" party1="129253_4" party1_string="SWIGER" theme_string="SWIGER v. OHIO" gram_type="infix" relation_type="asymmetric" id="129253_8" ></RELATION>
+
+<RELATION party2="129253_5" theme="129253_3" theme_string="SWIGER v. OHIO" party2_string="OHIO" gram_type="infix" relation_type="asymmetric" id="129253_9" ></RELATION>
+

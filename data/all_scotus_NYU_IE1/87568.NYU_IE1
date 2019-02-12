@@ -1,0 +1,58 @@
+<CITATION alternative_keys="['gelpckecity#1', 'l.ed._17_530', 'wall._1_220']" end="11" reporter="U.S." entry_type="standard_key" lookup_key="u.s._68_220" id1="2620915" volume="68" start="0" page_number="220" standard_reporter="U.S." citation_global_level_id="19443.002" line="1" id="87568_1" citation_local_level_id="0" >68 U.S. 220</CITATION>
+
+<CITATION alternative_keys="['u.s._68_220', 'gelpckecity#1', 'wall._1_220']" end="29" reporter="L. Ed." entry_type="standard_key" lookup_key="l.ed._17_530" id1="87568" volume="17" start="16" page_number="530" standard_reporter="L.ED." citation_global_level_id="24848.002" line="1" id="87568_2" citation_local_level_id="1" >17 L. Ed. 530</CITATION>
+
+<NAME start="19" local_name_id="1" end="24" id="87568_12" all_names="L ED" >L. Ed</NAME>
+
+<CITATION alternative_keys="['u.s._68_220', 'l.ed._17_530', 'gelpckecity#1']" end="45" reporter="Wall." entry_type="standard_key" lookup_key="wall._1_220" id1="2620915" volume="1" start="34" page_number="220" standard_reporter="WALL." citation_global_level_id="19443.003" line="1" id="87568_3" citation_local_level_id="2" >1 Wall. 220</CITATION>
+
+<CITATION party2="City of Dubuque" party1="Gelpcke" citation_global_level_id="24848.001" party2_short="City" line="1" id="87568_4" alternative_keys="['u.s._68_220', 'l.ed._17_530', 'wall._1_220']" end="76" entry_type="party_key" lookup_key="gelpckecity#1" id1="87568" start="50" party1_short="Gelpcke" citation_local_level_id="3" >Gelpcke v. City of Dubuque</CITATION>
+
+<NAME end="57" start="50" party1_of="87568_4" all_names="GELPCKE" local_name_id="2" id="87568_5" >Gelpcke</NAME>
+
+<NAME end="76" start="61" all_names="CITY OF DUBUQUE" party2_of="87568_4" local_name_id="3" id="87568_6" >City of Dubuque</NAME>
+
+<DATE start="96" end="100" id="87568_7" >1863</DATE>
+
+<DATE start="235" end="250" id="87568_8" >September, 1855</DATE>
+
+<DATE start="304" end="317" id="87568_9" >January, 1857</DATE>
+
+<DATE start="527" end="544" id="87568_10" >February 24, 1847</DATE>
+
+<DATE start="627" end="640" id="87568_11" >January, 1855</DATE>
+
+<NAME start="1196" local_name_id="4" end="1214" id="87568_22" all_names="MR JUSTICE SWAYNE" >Mr. JUSTICE SWAYNE</NAME>
+
+<PROFESSION start="1200" end="1207" id="87568_23" >JUSTICE</PROFESSION>
+
+<ORGANIZATION start="1330" end="1335" id="87568_24" >court</ORGANIZATION>
+
+<CITATION party2="Babbitt" party1="United States" citation_global_level_id="38701.001" party2_short="Babbitt" line="2" id="87568_19" alternative_keys="['black_1_61']" end="1600" entry_type="party_key" lookup_key="statesbabbitt#2" id1="90528" start="1576" party1_short="States" citation_local_level_id="4" >United States v. Babbitt</CITATION>
+
+<NAME end="1589" start="1576" party1_of="87568_19" all_names="UNITED STATES" local_name_id="5" id="87568_20" >United States</NAME>
+
+<NAME end="1600" start="1593" all_names="BABBITT" party2_of="87568_19" local_name_id="6" id="87568_21" >Babbitt</NAME>
+
+<CITATION alternative_keys="['churchwardreports#1', 'statesbabbit#1']" end="1613" reporter="Black" entry_type="standard_key" lookup_key="black_1_61" id1="87438" volume="1" start="1602" page_number="61" standard_reporter="BLACK" citation_global_level_id="11005.004" line="2" id="87568_18" citation_local_level_id="5" >1 Black, 61</CITATION>
+
+<CITATION end="1798" line="4" id="87568_28" citation_global_level_id="175470.001" name="JUDGMENT REVERSED AND CASE" no_current_file="True" entry_type="case_key" lookup_key="judgment reversed and case#1" id1="Dummy_File_111620" start="1772" citation_local_level_id="6" >JUDGMENT REVERSED AND CASE</CITATION>
+
+<NAME start="1799" local_name_id="7" end="1807" id="87568_29" all_names="REMANDED" >REMANDED</NAME>
+
+<RELATION standard_case_string="68 U.S. 220" X_vs_Y_string="Gelpcke v. City of Dubuque" standard_case="87568_1" X_vs_Y="87568_4" gram_type="pre_nom" relation_type="equivalence" id="87568_14" ></RELATION>
+
+<RELATION standard_case_string="17 L. Ed. 530" X_vs_Y_string="Gelpcke v. City of Dubuque" standard_case="87568_2" X_vs_Y="87568_4" gram_type="pre_nom" relation_type="equivalence" id="87568_15" ></RELATION>
+
+<RELATION standard_case_string="1 Wall. 220" X_vs_Y_string="Gelpcke v. City of Dubuque" standard_case="87568_3" X_vs_Y="87568_4" gram_type="pre_nom" relation_type="equivalence" id="87568_13" ></RELATION>
+
+<RELATION theme="87568_4" party1="87568_5" party1_string="Gelpcke" theme_string="Gelpcke v. City of Dubuque" gram_type="infix" relation_type="asymmetric" id="87568_16" ></RELATION>
+
+<RELATION party2="87568_6" theme="87568_4" theme_string="Gelpcke v. City of Dubuque" party2_string="City of Dubuque" gram_type="infix" relation_type="asymmetric" id="87568_17" ></RELATION>
+
+<RELATION standard_case_string="1 Black, 61" X_vs_Y_string="United States v. Babbitt" standard_case="87568_18" X_vs_Y="87568_19" gram_type="apposition" relation_type="equivalence" id="87568_27" ></RELATION>
+
+<RELATION theme="87568_19" party1="87568_20" party1_string="United States" theme_string="United States v. Babbitt" gram_type="infix" relation_type="asymmetric" id="87568_25" ></RELATION>
+
+<RELATION party2="87568_21" theme="87568_19" theme_string="United States v. Babbitt" party2_string="Babbitt" gram_type="infix" relation_type="asymmetric" id="87568_26" ></RELATION>
+

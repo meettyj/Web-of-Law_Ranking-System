@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['fonsecastates#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_959" id1="114929" volume="510" start="0" page_number="959" standard_reporter="U.S." citation_global_level_id="2965.002" line="1" id="114929_1" citation_local_level_id="0" >510 U.S. 959</CITATION>
+
+<CITATION party2="United States" party1="Fonseca" citation_global_level_id="50031.001" party2_short="States" line="1" id="114929_3" alternative_keys="['u.s._510_959']" end="41" entry_type="party_key" lookup_key="fonsecastates#2" id1="140268" start="17" party1_short="Fonseca" citation_local_level_id="1" >Fonseca v. United States</CITATION>
+
+<NAME end="24" start="17" party1_of="114929_3" all_names="FONSECA" local_name_id="1" id="114929_4" >Fonseca</NAME>
+
+<NAME end="41" start="28" all_names="UNITED STATES" party2_of="114929_3" local_name_id="2" id="114929_5" >United States</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._510_959" id1="114929" start="51" citation_global_level_id="2965.002" line="1" id="114929_2" citation_local_level_id="0" >93-6240</DOCKET>
+
+<DATE start="100" end="116" id="114929_6" >November 1, 1993</DATE>
+
+<NAME start="194" local_name_id="3" end="204" id="114929_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="243" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_998_1010" id1="Dummy_File_88665" volume="998" start="229" page_number="1010" standard_reporter="F.2D" citation_global_level_id="152515.001" line="3" id="114929_12" citation_local_level_id="2" >998 F. 2d 1010</CITATION>
+
+<RELATION theme="114929_1" includes_docket_string="93-6240" includes_docket="114929_2" theme_string="510 U.S. 959" gram_type="apposition" relation_type="asymmetric" id="114929_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 959" X_vs_Y_string="Fonseca v. United States" standard_case="114929_1" X_vs_Y="114929_3" gram_type="pre_nom" relation_type="equivalence" id="114929_7" ></RELATION>
+
+<RELATION theme="114929_3" includes_docket_string="93-6240" includes_docket="114929_2" theme_string="Fonseca v. United States" gram_type="apposition" relation_type="asymmetric" id="114929_10" ></RELATION>
+
+<RELATION theme="114929_3" party1="114929_4" party1_string="Fonseca" theme_string="Fonseca v. United States" gram_type="infix" relation_type="asymmetric" id="114929_8" ></RELATION>
+
+<RELATION party2="114929_5" theme="114929_3" theme_string="Fonseca v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="114929_9" ></RELATION>
+

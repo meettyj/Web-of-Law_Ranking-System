@@ -1,0 +1,36 @@
+<CITATION alternative_keys="['mentostates#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1014" id1="119846" volume="535" start="0" page_number="1014" standard_reporter="U.S." citation_global_level_id="19676.002" line="1" id="119848_1" citation_local_level_id="0" >535 U.S. 1014</CITATION>
+
+<CITATION party2="UNITED STATES" party1="MENTO" citation_global_level_id="24260.001" party2_short="STATES" line="2" id="119848_2" alternative_keys="['u.s._535_1014']" end="40" entry_type="party_key" lookup_key="mentostates#1" id1="119848" start="18" party1_short="MENTO" citation_local_level_id="1" >MENTO v. UNITED STATES</CITATION>
+
+<NAME end="23" start="18" party1_of="119848_2" all_names="MENTO" local_name_id="1" id="119848_3" >MENTO</NAME>
+
+<NAME end="40" start="27" all_names="UNITED STATES" party2_of="119848_2" local_name_id="2" id="119848_4" >UNITED STATES</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="mentostates#1" id1="119848" start="50" citation_global_level_id="24260.001" line="3" id="119848_7" citation_local_level_id="1" >00-8114</DOCKET>
+
+<DATE start="103" citation_global_level_id="24260.001" end="117" id="119848_8" citation_local_level_id="1" >April 22, 2002</DATE>
+
+<NAME start="149" local_name_id="3" end="152" id="119848_16" all_names="CIR" >Cir</NAME>
+
+<CITATION party2="Free Speech Coalition" party1="Ashcroft" citation_global_level_id="941.001" party2_short="Coalition" line="8" id="119848_13" end="350" entry_type="party_key" lookup_key="ashcroftcoalition#1" id1="118496" start="317" party1_short="Ashcroft" citation_local_level_id="2" >Ashcroft v. Free Speech Coalition</CITATION>
+
+<NAME end="325" start="317" party1_of="119848_13" all_names="ASHCROFT" local_name_id="4" id="119848_14" >Ashcroft</NAME>
+
+<NAME end="350" start="329" all_names="FREE SPEECH COALITION" party2_of="119848_13" local_name_id="5" id="119848_15" >Free Speech Coalition</NAME>
+
+<CITATION alternative_keys="['statesmento#1']" end="395" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_231_912" id1="Dummy_File_129090" volume="231" start="382" page_number="912" standard_reporter="F.3D" citation_global_level_id="192940.003" line="8" id="119848_12" citation_local_level_id="3" >231 F. 3d 912</CITATION>
+
+<RELATION theme="119848_2" party1="119848_3" party1_string="MENTO" theme_string="MENTO v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="119848_5" ></RELATION>
+
+<RELATION party2="119848_4" theme="119848_2" theme_string="MENTO v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="119848_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1014" X_vs_Y_string="MENTO v. UNITED STATES" standard_case="119848_1" X_vs_Y="119848_2" gram_type="multi_line" relation_type="equivalence" id="119848_9" ></RELATION>
+
+<RELATION at_date_string="April 22, 2002" theme="119848_2" at_date="119848_8" theme_string="MENTO v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="119848_11" ></RELATION>
+
+<RELATION theme="119848_2" includes_docket_string="00-8114" includes_docket="119848_7" theme_string="MENTO v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="119848_10" ></RELATION>
+
+<RELATION theme="119848_13" party1="119848_14" party1_string="Ashcroft" theme_string="Ashcroft v. Free Speech Coalition" gram_type="infix" relation_type="asymmetric" id="119848_17" ></RELATION>
+
+<RELATION party2="119848_15" theme="119848_13" theme_string="Ashcroft v. Free Speech Coalition" party2_string="Free Speech Coalition" gram_type="infix" relation_type="asymmetric" id="119848_18" ></RELATION>
+

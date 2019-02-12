@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['morgandepartment#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_941" id1="133004" volume="540" start="0" page_number="941" standard_reporter="U.S." citation_global_level_id="11224.003" line="1" id="133002_1" citation_local_level_id="0" >540 U.S. 941</CITATION>
+
+<CITATION party2="TENNESSEE DEPARTMENT OF CORRECTION ET AL" party1="MORGAN" citation_global_level_id="43961.001" party2_short="DEPARTMENT" line="1" id="133002_3" alternative_keys="['u.s._540_941']" end="67" entry_type="party_key" lookup_key="morgandepartment#2" id1="133002" start="17" party1_short="MORGAN" citation_local_level_id="1" >MORGAN v. TENNESSEE DEPARTMENT OF CORRECTION ET AL</CITATION>
+
+<NAME end="23" start="17" party1_of="133002_3" all_names="MORGAN" local_name_id="1" id="133002_4" >MORGAN</NAME>
+
+<NAME end="67" start="27" all_names="TENNESSEE DEPARTMENT OF CORRECTION" party2_of="133002_3" local_name_id="2" id="133002_5" >TENNESSEE DEPARTMENT OF CORRECTION ET AL</NAME>
+
+<DOCKET end="84" entry_type="docket" lookup_key="u.s._540_941" id1="133004" start="77" citation_global_level_id="11224.003" line="1" id="133002_2" citation_local_level_id="0" >03-5587</DOCKET>
+
+<DATE start="126" end="141" id="133002_6" >October 6, 2003</DATE>
+
+<NAME start="219" local_name_id="3" end="229" id="133002_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="133002_1" includes_docket_string="03-5587" includes_docket="133002_2" theme_string="540 U.S. 941" gram_type="apposition" relation_type="asymmetric" id="133002_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 941" X_vs_Y_string="MORGAN v. TENNESSEE DEPARTMENT OF CORRECTION ET AL" standard_case="133002_1" X_vs_Y="133002_3" gram_type="pre_nom" relation_type="equivalence" id="133002_7" ></RELATION>
+
+<RELATION theme="133002_3" includes_docket_string="03-5587" includes_docket="133002_2" theme_string="MORGAN v. TENNESSEE DEPARTMENT OF CORRECTION ET AL" gram_type="apposition" relation_type="asymmetric" id="133002_10" ></RELATION>
+
+<RELATION theme="133002_3" party1="133002_4" party1_string="MORGAN" theme_string="MORGAN v. TENNESSEE DEPARTMENT OF CORRECTION ET AL" gram_type="infix" relation_type="asymmetric" id="133002_8" ></RELATION>
+
+<RELATION party2="133002_5" theme="133002_3" theme_string="MORGAN v. TENNESSEE DEPARTMENT OF CORRECTION ET AL" party2_string="TENNESSEE DEPARTMENT OF CORRECTION ET AL" gram_type="infix" relation_type="asymmetric" id="133002_9" ></RELATION>
+

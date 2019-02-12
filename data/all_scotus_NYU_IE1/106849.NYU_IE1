@@ -1,0 +1,48 @@
+<CITATION alternative_keys="['associationwashington#1', 's.ct._84_1642', 'l.ed.2d_12_734']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._377_532" id1="106849" volume="377" start="0" page_number="532" standard_reporter="U.S." citation_global_level_id="24032.002" line="1" id="106849_1" citation_local_level_id="0" >377 U.S. 532</CITATION>
+
+<CITATION alternative_keys="['u.s._377_532', 'associationwashington#1', 'l.ed.2d_12_734']" end="31" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._84_1642" id1="106849" volume="84" start="17" page_number="1642" standard_reporter="S.CT." citation_global_level_id="24032.003" line="1" id="106849_2" citation_local_level_id="1" >84 S. Ct. 1642</CITATION>
+
+<NAME start="20" local_name_id="1" end="25" id="106849_8" all_names="S CT" >S. Ct</NAME>
+
+<CITATION alternative_keys="['u.s._377_532', 's.ct._84_1642', 'associationwashington#1']" end="52" reporter="L. Ed. 2d" entry_type="standard_key" lookup_key="l.ed.2d_12_734" id1="106849" volume="12" start="36" page_number="734" standard_reporter="L.ED.2D" citation_global_level_id="24032.004" line="1" id="106849_3" citation_local_level_id="2" >12 L. Ed. 2d 734</CITATION>
+
+<CITATION party2="WASHINGTON" party1="TACOMA ASSOCIATION OF CREDIT MEN" citation_global_level_id="24032.001" party2_short="WASHINGTON" line="1" id="106849_4" alternative_keys="['u.s._377_532', 's.ct._84_1642', 'l.ed.2d_12_734']" end="103" entry_type="party_key" lookup_key="associationwashington#1" id1="106849" start="57" party1_short="ASSOCIATION" citation_local_level_id="3" >TACOMA ASSOCIATION OF CREDIT MEN v. WASHINGTON</CITATION>
+
+<NAME end="89" start="57" party1_of="106849_4" all_names="TACOMA ASSOCIATION OF CREDIT MEN" local_name_id="2" id="106849_5" >TACOMA ASSOCIATION OF CREDIT MEN</NAME>
+
+<NAME end="103" start="93" all_names="WASHINGTON" party2_of="106849_4" local_name_id="3" id="106849_6" >WASHINGTON</NAME>
+
+<DATE start="161" end="173" id="106849_7" >June 8, 1964</DATE>
+
+<NAME start="224" local_name_id="4" end="241" id="106849_14" all_names="JOHN J O'CONNELL" >John J. O'Connell</NAME>
+
+<PROFESSION start="243" document_level_name_id="4" end="267" id="106849_15" party="JOHN J O'CONNELL" >Atty. Gen. of Washington</PROFESSION>
+
+<NAME start="273" local_name_id="5" end="307" id="106849_16" all_names="JAMES A FURBER AND HENRY W WAGER" >James A. Furber and Henry W. Wager</NAME>
+
+<PROFESSION start="309" document_level_name_id="5" end="313" id="106849_17" party="JAMES A FURBER AND HENRY W WAGER" >Asst</PROFESSION>
+
+<NAME start="315" local_name_id="6" end="320" id="106849_18" all_names="ATTYS" >Attys</NAME>
+
+<PROFESSION start="322" document_level_name_id="6" end="325" id="106849_19" party="ATTYS" >Gen</PROFESSION>
+
+<LEGAL_ROLE start="332" end="340" id="106849_20" party="party2" >appellee</LEGAL_ROLE>
+
+<NAME start="352" local_name_id="7" end="358" id="106849_24" all_names="CURIAM" >CURIAM</NAME>
+
+<RELATION standard_case_string="377 U.S. 532" X_vs_Y_string="TACOMA ASSOCIATION OF CREDIT MEN v. WASHINGTON" standard_case="106849_1" X_vs_Y="106849_4" gram_type="pre_nom" relation_type="equivalence" id="106849_10" ></RELATION>
+
+<RELATION standard_case_string="84 S. Ct. 1642" X_vs_Y_string="TACOMA ASSOCIATION OF CREDIT MEN v. WASHINGTON" standard_case="106849_2" X_vs_Y="106849_4" gram_type="pre_nom" relation_type="equivalence" id="106849_11" ></RELATION>
+
+<RELATION standard_case_string="12 L. Ed. 2d 734" X_vs_Y_string="TACOMA ASSOCIATION OF CREDIT MEN v. WASHINGTON" standard_case="106849_3" X_vs_Y="106849_4" gram_type="pre_nom" relation_type="equivalence" id="106849_9" ></RELATION>
+
+<RELATION theme="106849_4" party1="106849_5" party1_string="TACOMA ASSOCIATION OF CREDIT MEN" theme_string="TACOMA ASSOCIATION OF CREDIT MEN v. WASHINGTON" gram_type="infix" relation_type="asymmetric" id="106849_12" ></RELATION>
+
+<RELATION party2="106849_6" theme="106849_4" theme_string="TACOMA ASSOCIATION OF CREDIT MEN v. WASHINGTON" party2_string="WASHINGTON" gram_type="infix" relation_type="asymmetric" id="106849_13" ></RELATION>
+
+<RELATION theme="106849_14" profession_string="Atty. Gen. of Washington" theme_string="John J. O'Connell" profession="106849_15" gram_type="apposition" relation_type="asymmetric" id="106849_21" ></RELATION>
+
+<RELATION theme="106849_16" profession_string="Asst" theme_string="James A. Furber and Henry W. Wager" profession="106849_17" gram_type="apposition" relation_type="asymmetric" id="106849_22" ></RELATION>
+
+<RELATION theme="106849_18" profession_string="Gen" theme_string="Attys" profession="106849_19" gram_type="apposition" relation_type="asymmetric" id="106849_23" ></RELATION>
+

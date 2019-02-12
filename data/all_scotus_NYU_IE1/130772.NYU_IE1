@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['guevarastates#5']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_950" id1="130767" volume="539" start="0" page_number="950" standard_reporter="U.S." citation_global_level_id="3847.002" line="1" id="130772_1" citation_local_level_id="0" >539 U.S. 950</CITATION>
+
+<CITATION party2="United States" party1="Guevara" citation_global_level_id="59678.001" party2_short="States" line="1" id="130772_3" alternative_keys="['u.s._539_950']" end="41" entry_type="party_key" lookup_key="guevarastates#5" id1="141627" start="17" party1_short="Guevara" citation_local_level_id="1" >Guevara v. United States</CITATION>
+
+<NAME end="24" start="17" party1_of="130772_3" all_names="GUEVARA" local_name_id="1" id="130772_4" >Guevara</NAME>
+
+<NAME end="41" start="28" all_names="UNITED STATES" party2_of="130772_3" local_name_id="2" id="130772_5" >United States</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="u.s._539_950" id1="130767" start="51" citation_global_level_id="3847.002" line="1" id="130772_2" citation_local_level_id="0" >02-10710</DOCKET>
+
+<DATE start="101" end="114" id="130772_6" >June 23, 2003</DATE>
+
+<NAME start="192" local_name_id="3" end="202" id="130772_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="130772_1" includes_docket_string="02-10710" includes_docket="130772_2" theme_string="539 U.S. 950" gram_type="apposition" relation_type="asymmetric" id="130772_11" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 950" X_vs_Y_string="Guevara v. United States" standard_case="130772_1" X_vs_Y="130772_3" gram_type="pre_nom" relation_type="equivalence" id="130772_7" ></RELATION>
+
+<RELATION theme="130772_3" includes_docket_string="02-10710" includes_docket="130772_2" theme_string="Guevara v. United States" gram_type="apposition" relation_type="asymmetric" id="130772_10" ></RELATION>
+
+<RELATION theme="130772_3" party1="130772_4" party1_string="Guevara" theme_string="Guevara v. United States" gram_type="infix" relation_type="asymmetric" id="130772_8" ></RELATION>
+
+<RELATION party2="130772_5" theme="130772_3" theme_string="Guevara v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="130772_9" ></RELATION>
+

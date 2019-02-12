@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['nikekasky#5']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1099" id1="126053" volume="537" start="0" page_number="1099" standard_reporter="U.S." citation_global_level_id="17765.002" line="1" id="126055_1" citation_local_level_id="0" >537 U.S. 1099</CITATION>
+
+<CITATION party2="KASKY" party1="NIKE, INC., ET AL." citation_global_level_id="17765.003" party2_short="KASKY" line="1" id="126055_3" alternative_keys="['u.s._537_1099']" end="45" entry_type="party_key" lookup_key="nikekasky#5" id1="126053" start="18" party1_short="NIKE" citation_local_level_id="1" >NIKE, INC., ET AL. v. KASKY</CITATION>
+
+<NAME end="36" start="18" party1_of="126055_3" all_names="NIKE INC" local_name_id="1" id="126055_4" >NIKE, INC., ET AL.</NAME>
+
+<ORGANIZATION start="18" end="27" id="126055_7" >NIKE, INC</ORGANIZATION>
+
+<NAME end="45" start="40" all_names="KASKY" party2_of="126055_3" local_name_id="2" id="126055_5" >KASKY</NAME>
+
+<DOCKET end="61" entry_type="docket" lookup_key="u.s._537_1099" id1="126053" start="55" citation_global_level_id="17765.002" line="1" id="126055_2" citation_local_level_id="0" >02-575</DOCKET>
+
+<DATE start="103" end="119" id="126055_6" >January 10, 2003</DATE>
+
+<NAME start="213" local_name_id="3" end="216" id="126055_14" all_names="SUP" >Sup</NAME>
+
+<CITATION end="755" reporter="P.3d" entry_type="standard_key" no_current_file="True" lookup_key="p.3d_45_243" id1="Dummy_File_32716" volume="45" start="744" page_number="243" standard_reporter="P.3D" citation_global_level_id="96566.001" line="3" id="126055_13" citation_local_level_id="2" >45 P.3d 243</CITATION>
+
+<RELATION theme="126055_1" includes_docket_string="02-575" includes_docket="126055_2" theme_string="537 U.S. 1099" gram_type="apposition" relation_type="asymmetric" id="126055_12" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1099" X_vs_Y_string="NIKE, INC., ET AL. v. KASKY" standard_case="126055_1" X_vs_Y="126055_3" gram_type="pre_nom" relation_type="equivalence" id="126055_8" ></RELATION>
+
+<RELATION theme="126055_3" includes_docket_string="02-575" includes_docket="126055_2" theme_string="NIKE, INC., ET AL. v. KASKY" gram_type="apposition" relation_type="asymmetric" id="126055_11" ></RELATION>
+
+<RELATION party2="126055_5" theme="126055_3" theme_string="NIKE, INC., ET AL. v. KASKY" party2_string="KASKY" gram_type="infix" relation_type="asymmetric" id="126055_10" ></RELATION>
+
+<RELATION theme="126055_3" party1="126055_4" party1_string="NIKE, INC., ET AL." theme_string="NIKE, INC., ET AL. v. KASKY" gram_type="infix" relation_type="asymmetric" id="126055_9" ></RELATION>
+

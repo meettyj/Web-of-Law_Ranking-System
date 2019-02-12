@@ -1,0 +1,44 @@
+<CITATION alternative_keys="['nabelektexas#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_930" id1="134930" volume="541" start="0" page_number="930" standard_reporter="U.S." citation_global_level_id="8403.002" line="1" id="134932_1" citation_local_level_id="0" >541 U.S. 930</CITATION>
+
+<CITATION party2="TEXAS" party1="NABELEK" citation_global_level_id="17633.001" party2_short="TEXAS" line="2" id="134932_2" alternative_keys="['u.s._541_930']" end="33" entry_type="party_key" lookup_key="nabelektexas#2" id1="136529" start="17" party1_short="NABELEK" citation_local_level_id="1" >NABELEK v. TEXAS</CITATION>
+
+<NAME end="24" start="17" party1_of="134932_2" all_names="NABELEK" local_name_id="1" id="134932_3" >NABELEK</NAME>
+
+<NAME end="33" start="28" all_names="TEXAS" party2_of="134932_2" local_name_id="2" id="134932_4" >TEXAS</NAME>
+
+<DOCKET end="50" entry_type="docket" lookup_key="nabelektexas#2" id1="136529" start="43" citation_global_level_id="17633.001" line="3" id="134932_7" citation_local_level_id="1" >03-8381</DOCKET>
+
+<ORGANIZATION start="56" end="86" id="134932_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="92" citation_global_level_id="17633.001" end="106" id="134932_9" citation_local_level_id="1" >March 22, 2004</DATE>
+
+<NAME start="128" local_name_id="3" end="130" id="134932_18" all_names="CT" >Ct</NAME>
+
+<CITATION party2="District of Columbia Court of Appeals" party1="Martin" citation_global_level_id="51848.001" party2_short="District" line="8" id="134932_14" alternative_keys="['u.s._506_1']" end="592" entry_type="party_key" lookup_key="martindistrict#2" id1="112790" start="545" party1_short="Martin" citation_local_level_id="2" >Martin v. District of Columbia Court of Appeals</CITATION>
+
+<NAME end="551" start="545" party1_of="134932_14" all_names="MARTIN" local_name_id="4" id="134932_15" >Martin</NAME>
+
+<NAME end="592" start="555" all_names="DISTRICT OF COLUMBIA COURT OF APPEALS" party2_of="134932_14" local_name_id="5" id="134932_16" >District of Columbia Court of Appeals</NAME>
+
+<CITATION alternative_keys="['martindistrict#2']" end="611" reporter="U.S." entry_type="standard_key" lookup_key="u.s._506_1" id1="112790" volume="506" start="594" page_number="1" year="1992" standard_reporter="U.S." citation_global_level_id="51848.002" line="8" id="134932_13" citation_local_level_id="3" >506 U.S. 1 (1992)</CITATION>
+
+<DATE start="606" citation_global_level_id="51848.002" end="610" id="134932_17" citation_local_level_id="3" >1992</DATE>
+
+<RELATION theme="134932_2" party1="134932_3" party1_string="NABELEK" theme_string="NABELEK v. TEXAS" gram_type="infix" relation_type="asymmetric" id="134932_5" ></RELATION>
+
+<RELATION party2="134932_4" theme="134932_2" theme_string="NABELEK v. TEXAS" party2_string="TEXAS" gram_type="infix" relation_type="asymmetric" id="134932_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 930" X_vs_Y_string="NABELEK v. TEXAS" standard_case="134932_1" X_vs_Y="134932_2" gram_type="multi_line" relation_type="equivalence" id="134932_10" ></RELATION>
+
+<RELATION at_date_string="March 22, 2004" theme="134932_2" at_date="134932_9" theme_string="NABELEK v. TEXAS" gram_type="multi_line" relation_type="asymmetric" id="134932_12" ></RELATION>
+
+<RELATION theme="134932_2" includes_docket_string="03-8381" includes_docket="134932_7" theme_string="NABELEK v. TEXAS" gram_type="multi_line" relation_type="asymmetric" id="134932_11" ></RELATION>
+
+<RELATION standard_case_string="506 U.S. 1 (1992)" X_vs_Y_string="Martin v. District of Columbia Court of Appeals" standard_case="134932_13" X_vs_Y="134932_14" gram_type="apposition" relation_type="equivalence" id="134932_21" ></RELATION>
+
+<RELATION theme="134932_14" party1="134932_15" party1_string="Martin" theme_string="Martin v. District of Columbia Court of Appeals" gram_type="infix" relation_type="asymmetric" id="134932_19" ></RELATION>
+
+<RELATION party2="134932_16" theme="134932_14" theme_string="Martin v. District of Columbia Court of Appeals" party2_string="District of Columbia Court of Appeals" gram_type="infix" relation_type="asymmetric" id="134932_20" ></RELATION>
+
+<RELATION at_date_string="1992" theme="134932_13" at_date="134932_17" theme_string="506 U.S. 1 (1992)" gram_type="infix" relation_type="asymmetric" id="134932_22" ></RELATION>
+

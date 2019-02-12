@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['dorseywarden#4']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1000" id1="119644" volume="535" start="0" page_number="1000" standard_reporter="U.S." citation_global_level_id="5242.002" line="1" id="119652_1" citation_local_level_id="0" >535 U.S. 1000</CITATION>
+
+<CITATION party2="CHAPMAN, WARDEN, ET AL" party1="DORSEY" citation_global_level_id="5242.008" party2_short="WARDEN" line="2" id="119652_2" alternative_keys="['u.s._535_1000']" end="50" entry_type="party_key" lookup_key="dorseywarden#4" id1="119644" start="18" party1_short="DORSEY" citation_local_level_id="1" >DORSEY v. CHAPMAN, WARDEN, ET AL</CITATION>
+
+<NAME end="24" start="18" party1_of="119652_2" all_names="DORSEY" local_name_id="1" id="119652_3" >DORSEY</NAME>
+
+<NAME end="50" start="28" all_names="CHAPMAN WARDEN" party2_of="119652_2" local_name_id="2" id="119652_4" >CHAPMAN, WARDEN, ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._535_1000']" end="67" entry_type="docket" lookup_key="dorseywarden#4" id1="119644" start="60" citation_global_level_id="5242.008" line="3" id="119652_7" citation_local_level_id="1" >01-8383</DOCKET>
+
+<DATE start="113" citation_global_level_id="5242.008" end="127" id="119652_8" citation_local_level_id="1" >April 15, 2002</DATE>
+
+<NAME start="160" local_name_id="3" end="163" id="119652_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="214" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_262_1181" id1="Dummy_File_200068" volume="262" start="200" page_number="1181" standard_reporter="F.3D" citation_global_level_id="263918.001" line="8" id="119652_12" citation_local_level_id="2" >262 F. 3d 1181</CITATION>
+
+<RELATION theme="119652_2" party1="119652_3" party1_string="DORSEY" theme_string="DORSEY v. CHAPMAN, WARDEN, ET AL" gram_type="infix" relation_type="asymmetric" id="119652_5" ></RELATION>
+
+<RELATION party2="119652_4" theme="119652_2" theme_string="DORSEY v. CHAPMAN, WARDEN, ET AL" party2_string="CHAPMAN, WARDEN, ET AL" gram_type="infix" relation_type="asymmetric" id="119652_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1000" X_vs_Y_string="DORSEY v. CHAPMAN, WARDEN, ET AL" standard_case="119652_1" X_vs_Y="119652_2" gram_type="multi_line" relation_type="equivalence" id="119652_9" ></RELATION>
+
+<RELATION at_date_string="April 15, 2002" theme="119652_2" at_date="119652_8" theme_string="DORSEY v. CHAPMAN, WARDEN, ET AL" gram_type="multi_line" relation_type="asymmetric" id="119652_11" ></RELATION>
+
+<RELATION theme="119652_2" includes_docket_string="01-8383" includes_docket="119652_7" theme_string="DORSEY v. CHAPMAN, WARDEN, ET AL" gram_type="multi_line" relation_type="asymmetric" id="119652_10" ></RELATION>
+

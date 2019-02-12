@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['bellgeneral#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1000" id1="129203" volume="538" start="0" page_number="1000" standard_reporter="U.S." citation_global_level_id="3570.002" line="1" id="129204_1" citation_local_level_id="0" >538 U.S. 1000</CITATION>
+
+<CITATION party2="POTTER, POSTMASTER GENERAL" party1="BELL" citation_global_level_id="24607.001" party2_short="GENERAL" line="1" id="129204_3" alternative_keys="['u.s._538_1000']" end="52" entry_type="party_key" lookup_key="bellgeneral#1" id1="129204" start="18" party1_short="BELL" citation_local_level_id="1" >BELL v. POTTER, POSTMASTER GENERAL</CITATION>
+
+<NAME end="22" start="18" party1_of="129204_3" all_names="BELL" local_name_id="1" id="129204_4" >BELL</NAME>
+
+<NAME end="52" start="26" all_names="POTTER POSTMASTER GENERAL" party2_of="129204_3" local_name_id="2" id="129204_5" >POTTER, POSTMASTER GENERAL</NAME>
+
+<DOCKET end="69" entry_type="docket" lookup_key="u.s._538_1000" id1="129203" start="62" citation_global_level_id="3570.002" line="1" id="129204_2" citation_local_level_id="0" >02-1385</DOCKET>
+
+<DATE start="111" end="125" id="129204_6" >April 28, 2003</DATE>
+
+<NAME start="256" local_name_id="3" end="259" id="129204_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="129204_1" includes_docket_string="02-1385" includes_docket="129204_2" theme_string="538 U.S. 1000" gram_type="apposition" relation_type="asymmetric" id="129204_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1000" X_vs_Y_string="BELL v. POTTER, POSTMASTER GENERAL" standard_case="129204_1" X_vs_Y="129204_3" gram_type="pre_nom" relation_type="equivalence" id="129204_7" ></RELATION>
+
+<RELATION theme="129204_3" includes_docket_string="02-1385" includes_docket="129204_2" theme_string="BELL v. POTTER, POSTMASTER GENERAL" gram_type="apposition" relation_type="asymmetric" id="129204_10" ></RELATION>
+
+<RELATION theme="129204_3" party1="129204_4" party1_string="BELL" theme_string="BELL v. POTTER, POSTMASTER GENERAL" gram_type="infix" relation_type="asymmetric" id="129204_8" ></RELATION>
+
+<RELATION party2="129204_5" theme="129204_3" theme_string="BELL v. POTTER, POSTMASTER GENERAL" party2_string="POTTER, POSTMASTER GENERAL" gram_type="infix" relation_type="asymmetric" id="129204_9" ></RELATION>
+

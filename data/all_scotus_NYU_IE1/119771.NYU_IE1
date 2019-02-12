@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['cruzstates#7']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1009" id1="119782" volume="535" start="0" page_number="1009" standard_reporter="U.S." citation_global_level_id="11421.002" line="1" id="119771_1" citation_local_level_id="0" >535 U.S. 1009</CITATION>
+
+<CITATION party2="UNITED STATES" party1="GARCIA-CRUZ" citation_global_level_id="22885.001" party2_short="STATES" line="2" id="119771_2" alternative_keys="['u.s._535_1009']" end="46" entry_type="party_key" lookup_key="cruzstates#7" id1="144357" start="18" party1_short="CRUZ" citation_local_level_id="1" >GARCIA-CRUZ v. UNITED STATES</CITATION>
+
+<NAME end="29" start="18" party1_of="119771_2" all_names="GARCIA-CRUZ" local_name_id="1" id="119771_3" >GARCIA-CRUZ</NAME>
+
+<NAME end="46" start="33" all_names="UNITED STATES" party2_of="119771_2" local_name_id="2" id="119771_4" >UNITED STATES</NAME>
+
+<DOCKET end="63" entry_type="docket" lookup_key="cruzstates#7" id1="144357" start="56" citation_global_level_id="22885.001" line="3" id="119771_7" citation_local_level_id="1" >01-8992</DOCKET>
+
+<DATE start="109" citation_global_level_id="22885.001" end="123" id="119771_8" citation_local_level_id="1" >April 15, 2002</DATE>
+
+<NAME start="155" local_name_id="3" end="158" id="119771_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="209" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_275_1082" id1="Dummy_File_31520" volume="275" start="195" page_number="1082" standard_reporter="F.3D" citation_global_level_id="95370.001" line="8" id="119771_12" citation_local_level_id="2" >275 F. 3d 1082</CITATION>
+
+<RELATION theme="119771_2" party1="119771_3" party1_string="GARCIA-CRUZ" theme_string="GARCIA-CRUZ v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="119771_5" ></RELATION>
+
+<RELATION party2="119771_4" theme="119771_2" theme_string="GARCIA-CRUZ v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="119771_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1009" X_vs_Y_string="GARCIA-CRUZ v. UNITED STATES" standard_case="119771_1" X_vs_Y="119771_2" gram_type="multi_line" relation_type="equivalence" id="119771_9" ></RELATION>
+
+<RELATION at_date_string="April 15, 2002" theme="119771_2" at_date="119771_8" theme_string="GARCIA-CRUZ v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="119771_11" ></RELATION>
+
+<RELATION theme="119771_2" includes_docket_string="01-8992" includes_docket="119771_7" theme_string="GARCIA-CRUZ v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="119771_10" ></RELATION>
+

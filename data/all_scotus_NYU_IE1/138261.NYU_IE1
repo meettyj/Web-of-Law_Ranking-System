@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['brittonlehman#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_840" id1="138260" volume="543" start="0" page_number="840" standard_reporter="U.S." citation_global_level_id="1523.002" line="1" id="138261_1" citation_local_level_id="0" >543 U.S. 840</CITATION>
+
+<CITATION party2="LEHMAN, SECRETARY, WASHINGTON DEPARTMENT OF CORRECTIONS" party1="BRITTON" citation_global_level_id="1523.005" party2_short="LEHMAN" line="2" id="138261_2" alternative_keys="['u.s._543_840']" end="83" entry_type="party_key" lookup_key="brittonlehman#1" id1="138260" start="17" party1_short="BRITTON" citation_local_level_id="1" >BRITTON v. LEHMAN, SECRETARY, WASHINGTON DEPARTMENT OF CORRECTIONS</CITATION>
+
+<NAME end="24" start="17" party1_of="138261_2" all_names="BRITTON" local_name_id="1" id="138261_3" >BRITTON</NAME>
+
+<NAME end="83" start="28" all_names="LEHMAN SECRETARY WASHINGTON DEPARTMENT OF CORRECTIONS" party2_of="138261_2" local_name_id="2" id="138261_4" >LEHMAN, SECRETARY, WASHINGTON DEPARTMENT OF CORRECTIONS</NAME>
+
+<DOCKET alternative_keys="['u.s._543_840']" end="101" entry_type="docket" lookup_key="brittonlehman#1" id1="138260" start="93" citation_global_level_id="1523.005" line="3" id="138261_7" citation_local_level_id="1" >03-10592</DOCKET>
+
+<ORGANIZATION start="107" end="137" id="138261_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="143" citation_global_level_id="1523.005" end="158" id="138261_9" citation_local_level_id="1" >October 4, 2004</DATE>
+
+<NAME start="190" local_name_id="3" end="193" id="138261_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="138261_2" party1="138261_3" party1_string="BRITTON" theme_string="BRITTON v. LEHMAN, SECRETARY, WASHINGTON DEPARTMENT OF CORRECTIONS" gram_type="infix" relation_type="asymmetric" id="138261_5" ></RELATION>
+
+<RELATION party2="138261_4" theme="138261_2" theme_string="BRITTON v. LEHMAN, SECRETARY, WASHINGTON DEPARTMENT OF CORRECTIONS" party2_string="LEHMAN, SECRETARY, WASHINGTON DEPARTMENT OF CORRECTIONS" gram_type="infix" relation_type="asymmetric" id="138261_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 840" X_vs_Y_string="BRITTON v. LEHMAN, SECRETARY, WASHINGTON DEPARTMENT OF CORRECTIONS" standard_case="138261_1" X_vs_Y="138261_2" gram_type="multi_line" relation_type="equivalence" id="138261_10" ></RELATION>
+
+<RELATION at_date_string="October 4, 2004" theme="138261_2" at_date="138261_9" theme_string="BRITTON v. LEHMAN, SECRETARY, WASHINGTON DEPARTMENT OF CORRECTIONS" gram_type="multi_line" relation_type="asymmetric" id="138261_12" ></RELATION>
+
+<RELATION theme="138261_2" includes_docket_string="03-10592" includes_docket="138261_7" theme_string="BRITTON v. LEHMAN, SECRETARY, WASHINGTON DEPARTMENT OF CORRECTIONS" gram_type="multi_line" relation_type="asymmetric" id="138261_11" ></RELATION>
+

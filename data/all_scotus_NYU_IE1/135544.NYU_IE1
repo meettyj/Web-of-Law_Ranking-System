@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['cyrcrosby#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_979" id1="135541" volume="541" start="0" page_number="979" standard_reporter="U.S." citation_global_level_id="1656.002" line="1" id="135544_1" citation_local_level_id="0" >541 U.S. 979</CITATION>
+
+<CITATION party2="CROSBY, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS, ET AL" party1="CYR" citation_global_level_id="1656.003" party2_short="CROSBY" line="2" id="135544_2" alternative_keys="['u.s._541_979']" end="83" entry_type="party_key" lookup_key="cyrcrosby#1" id1="135541" start="17" party1_short="CYR" citation_local_level_id="1" >CYR v. CROSBY, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS, ET AL</CITATION>
+
+<NAME end="20" start="17" party1_of="135544_2" all_names="CYR" local_name_id="1" id="135544_3" >CYR</NAME>
+
+<NAME end="83" start="24" all_names="CROSBY SECRETARY FLORIDA DEPARTMENT OF CORRECTIONS" party2_of="135544_2" local_name_id="2" id="135544_4" >CROSBY, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS, ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._541_979']" end="100" entry_type="docket" lookup_key="cyrcrosby#1" id1="135541" start="93" citation_global_level_id="1656.003" line="3" id="135544_7" citation_local_level_id="1" >03-8949</DOCKET>
+
+<ORGANIZATION start="106" end="136" id="135544_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="142" citation_global_level_id="1656.003" end="155" id="135544_9" citation_local_level_id="1" >April 5, 2004</DATE>
+
+<NAME start="188" local_name_id="3" end="191" id="135544_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="135544_2" party1="135544_3" party1_string="CYR" theme_string="CYR v. CROSBY, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS, ET AL" gram_type="infix" relation_type="asymmetric" id="135544_5" ></RELATION>
+
+<RELATION party2="135544_4" theme="135544_2" theme_string="CYR v. CROSBY, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS, ET AL" party2_string="CROSBY, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS, ET AL" gram_type="infix" relation_type="asymmetric" id="135544_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 979" X_vs_Y_string="CYR v. CROSBY, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS, ET AL" standard_case="135544_1" X_vs_Y="135544_2" gram_type="multi_line" relation_type="equivalence" id="135544_10" ></RELATION>
+
+<RELATION at_date_string="April 5, 2004" theme="135544_2" at_date="135544_9" theme_string="CYR v. CROSBY, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS, ET AL" gram_type="multi_line" relation_type="asymmetric" id="135544_12" ></RELATION>
+
+<RELATION theme="135544_2" includes_docket_string="03-8949" includes_docket="135544_7" theme_string="CYR v. CROSBY, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS, ET AL" gram_type="multi_line" relation_type="asymmetric" id="135544_11" ></RELATION>
+

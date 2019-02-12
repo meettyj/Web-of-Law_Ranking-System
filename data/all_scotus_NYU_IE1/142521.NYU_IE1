@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['mckeestates#4']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1169" id1="142515" volume="543" start="0" page_number="1169" standard_reporter="U.S." citation_global_level_id="2824.002" line="1" id="142521_1" citation_local_level_id="0" >543 U.S. 1169</CITATION>
+
+<CITATION party2="UNITED STATES" party1="McKEE" citation_global_level_id="62052.001" party2_short="STATES" line="2" id="142521_2" alternative_keys="['u.s._543_1169']" end="40" entry_type="party_key" lookup_key="mckeestates#4" id1="116429" start="18" party1_short="McKEE" citation_local_level_id="1" >McKEE v. UNITED STATES</CITATION>
+
+<NAME end="23" start="18" party1_of="142521_2" all_names="MCKEE" local_name_id="1" id="142521_3" >McKEE</NAME>
+
+<NAME end="40" start="27" all_names="UNITED STATES" party2_of="142521_2" local_name_id="2" id="142521_4" >UNITED STATES</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="mckeestates#4" id1="116429" start="50" citation_global_level_id="62052.001" line="3" id="142521_7" citation_local_level_id="1" >04-7909</DOCKET>
+
+<ORGANIZATION start="63" end="93" id="142521_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="99" citation_global_level_id="62052.001" end="116" id="142521_9" citation_local_level_id="1" >February 22, 2005</DATE>
+
+<NAME start="148" local_name_id="3" end="151" id="142521_14" all_names="CIR" >Cir</NAME>
+
+<CITATION end="201" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_389_697" id1="Dummy_File_61032" volume="389" start="188" page_number="697" standard_reporter="F.3D" citation_global_level_id="124882.001" line="8" id="142521_13" citation_local_level_id="2" >389 F. 3d 697</CITATION>
+
+<RELATION theme="142521_2" party1="142521_3" party1_string="McKEE" theme_string="McKEE v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="142521_5" ></RELATION>
+
+<RELATION party2="142521_4" theme="142521_2" theme_string="McKEE v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="142521_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1169" X_vs_Y_string="McKEE v. UNITED STATES" standard_case="142521_1" X_vs_Y="142521_2" gram_type="multi_line" relation_type="equivalence" id="142521_10" ></RELATION>
+
+<RELATION at_date_string="February 22, 2005" theme="142521_2" at_date="142521_9" theme_string="McKEE v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="142521_12" ></RELATION>
+
+<RELATION theme="142521_2" includes_docket_string="04-7909" includes_docket="142521_7" theme_string="McKEE v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="142521_11" ></RELATION>
+

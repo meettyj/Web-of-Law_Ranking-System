@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['senestates#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_944" id1="118904" volume="535" start="0" page_number="944" standard_reporter="U.S." citation_global_level_id="206.002" line="1" id="118908_1" citation_local_level_id="0" >535 U.S. 944</CITATION>
+
+<CITATION party2="UNITED STATES" party1="SENE" citation_global_level_id="56572.001" party2_short="STATES" line="2" id="118908_2" alternative_keys="['u.s._535_944']" end="38" entry_type="party_key" lookup_key="senestates#1" id1="118908" start="17" party1_short="SENE" citation_local_level_id="1" >SENE v. UNITED STATES</CITATION>
+
+<NAME end="21" start="17" party1_of="118908_2" all_names="SENE" local_name_id="1" id="118908_3" >SENE</NAME>
+
+<NAME end="38" start="25" all_names="UNITED STATES" party2_of="118908_2" local_name_id="2" id="118908_4" >UNITED STATES</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="senestates#1" id1="118908" start="48" citation_global_level_id="56572.001" line="3" id="118908_7" citation_local_level_id="1" >01-8213</DOCKET>
+
+<DATE start="101" citation_global_level_id="56572.001" end="115" id="118908_8" citation_local_level_id="1" >March 18, 2002</DATE>
+
+<NAME start="147" local_name_id="3" end="150" id="118908_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="118908_2" party1="118908_3" party1_string="SENE" theme_string="SENE v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="118908_5" ></RELATION>
+
+<RELATION party2="118908_4" theme="118908_2" theme_string="SENE v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="118908_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 944" X_vs_Y_string="SENE v. UNITED STATES" standard_case="118908_1" X_vs_Y="118908_2" gram_type="multi_line" relation_type="equivalence" id="118908_9" ></RELATION>
+
+<RELATION at_date_string="March 18, 2002" theme="118908_2" at_date="118908_8" theme_string="SENE v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="118908_11" ></RELATION>
+
+<RELATION theme="118908_2" includes_docket_string="01-8213" includes_docket="118908_7" theme_string="SENE v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="118908_10" ></RELATION>
+

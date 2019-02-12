@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['investmentbrunjes#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_998" id1="129178" volume="538" start="0" page_number="998" standard_reporter="U.S." citation_global_level_id="31.002" line="1" id="129175_1" citation_local_level_id="0" >538 U.S. 998</CITATION>
+
+<CITATION party2="BRUNJES ET AL" party1="WALMAR INVESTMENT CO." citation_global_level_id="386.001" party2_short="BRUNJES" line="1" id="129175_3" alternative_keys="['u.s._538_998']" end="55" entry_type="party_key" lookup_key="investmentbrunjes#1" id1="129175" start="17" party1_short="INVESTMENT" citation_local_level_id="1" >WALMAR INVESTMENT CO. v. BRUNJES ET AL</CITATION>
+
+<NAME end="38" start="17" party1_of="129175_3" all_names="WALMAR INVESTMENT CO" local_name_id="1" id="129175_4" >WALMAR INVESTMENT CO.</NAME>
+
+<ORGANIZATION start="17" end="37" id="129175_7" >WALMAR INVESTMENT CO</ORGANIZATION>
+
+<NAME end="55" start="42" all_names="BRUNJES" party2_of="129175_3" local_name_id="2" id="129175_5" >BRUNJES ET AL</NAME>
+
+<DOCKET end="72" entry_type="docket" lookup_key="u.s._538_998" id1="129178" start="65" citation_global_level_id="31.002" line="1" id="129175_2" citation_local_level_id="0" >02-1220</DOCKET>
+
+<DATE start="114" end="128" id="129175_6" >April 28, 2003</DATE>
+
+<NAME start="240" local_name_id="3" end="242" id="129175_14" all_names="CT" >Ct</NAME>
+
+<CITATION end="318" reporter="S. W. 3d" entry_type="standard_key" no_current_file="True" lookup_key="s.w.3d_87_349" id1="Dummy_File_53343" volume="87" start="303" page_number="349" standard_reporter="S.W.3D" citation_global_level_id="117193.001" line="3" id="129175_13" citation_local_level_id="2" >87 S. W. 3d 349</CITATION>
+
+<RELATION theme="129175_1" includes_docket_string="02-1220" includes_docket="129175_2" theme_string="538 U.S. 998" gram_type="apposition" relation_type="asymmetric" id="129175_12" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 998" X_vs_Y_string="WALMAR INVESTMENT CO. v. BRUNJES ET AL" standard_case="129175_1" X_vs_Y="129175_3" gram_type="pre_nom" relation_type="equivalence" id="129175_8" ></RELATION>
+
+<RELATION theme="129175_3" includes_docket_string="02-1220" includes_docket="129175_2" theme_string="WALMAR INVESTMENT CO. v. BRUNJES ET AL" gram_type="apposition" relation_type="asymmetric" id="129175_11" ></RELATION>
+
+<RELATION party2="129175_5" theme="129175_3" theme_string="WALMAR INVESTMENT CO. v. BRUNJES ET AL" party2_string="BRUNJES ET AL" gram_type="infix" relation_type="asymmetric" id="129175_10" ></RELATION>
+
+<RELATION theme="129175_3" party1="129175_4" party1_string="WALMAR INVESTMENT CO." theme_string="WALMAR INVESTMENT CO. v. BRUNJES ET AL" gram_type="infix" relation_type="asymmetric" id="129175_9" ></RELATION>
+

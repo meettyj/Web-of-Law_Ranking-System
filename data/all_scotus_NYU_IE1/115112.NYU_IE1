@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['owensashley#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_973" id1="115099" volume="510" start="0" page_number="973" standard_reporter="U.S." citation_global_level_id="2412.002" line="1" id="115112_1" citation_local_level_id="0" >510 U.S. 973</CITATION>
+
+<CITATION party2="Ashley" party1="Owens" citation_global_level_id="30253.001" party2_short="Ashley" line="2" id="115112_2" alternative_keys="['u.s._510_973']" end="32" entry_type="party_key" lookup_key="owensashley#1" id1="113563" start="17" party1_short="Owens" citation_local_level_id="1" >Owens v. Ashley</CITATION>
+
+<NAME end="22" start="17" party1_of="115112_2" all_names="OWENS" local_name_id="1" id="115112_3" >Owens</NAME>
+
+<NAME end="32" start="26" all_names="ASHLEY" party2_of="115112_2" local_name_id="2" id="115112_4" >Ashley</NAME>
+
+<DOCKET end="63" entry_type="docket" lookup_key="owensashley#1" id1="113563" start="56" citation_global_level_id="30253.001" line="3" id="115112_7" citation_local_level_id="1" >92-9145</DOCKET>
+
+<ORGANIZATION start="69" end="99" id="115112_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="105" citation_global_level_id="30253.001" end="121" id="115112_9" citation_local_level_id="1" >November 8, 1993</DATE>
+
+<NAME start="143" local_name_id="3" end="151" id="115112_13" all_names="PETITION" >Petition</NAME>
+
+<RELATION theme="115112_2" party1="115112_3" party1_string="Owens" theme_string="Owens v. Ashley" gram_type="infix" relation_type="asymmetric" id="115112_5" ></RELATION>
+
+<RELATION party2="115112_4" theme="115112_2" theme_string="Owens v. Ashley" party2_string="Ashley" gram_type="infix" relation_type="asymmetric" id="115112_6" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 973" X_vs_Y_string="Owens v. Ashley" standard_case="115112_1" X_vs_Y="115112_2" gram_type="multi_line" relation_type="equivalence" id="115112_10" ></RELATION>
+
+<RELATION at_date_string="November 8, 1993" theme="115112_2" at_date="115112_9" theme_string="Owens v. Ashley" gram_type="multi_line" relation_type="asymmetric" id="115112_12" ></RELATION>
+
+<RELATION theme="115112_2" includes_docket_string="92-9145" includes_docket="115112_7" theme_string="Owens v. Ashley" gram_type="multi_line" relation_type="asymmetric" id="115112_11" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['shookmontana#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_815" id1="131334" volume="540" start="0" page_number="815" standard_reporter="U.S." citation_global_level_id="4600.002" line="1" id="131326_1" citation_local_level_id="0" >540 U.S. 815</CITATION>
+
+<CITATION party2="MONTANA" party1="SHOOK" citation_global_level_id="50059.001" party2_short="MONTANA" line="1" id="131326_3" alternative_keys="['u.s._540_815']" end="33" entry_type="party_key" lookup_key="shookmontana#1" id1="131326" start="17" party1_short="SHOOK" citation_local_level_id="1" >SHOOK v. MONTANA</CITATION>
+
+<NAME end="22" start="17" party1_of="131326_3" all_names="SHOOK" local_name_id="1" id="131326_4" >SHOOK</NAME>
+
+<NAME end="33" start="26" all_names="MONTANA" party2_of="131326_3" local_name_id="2" id="131326_5" >MONTANA</NAME>
+
+<DOCKET end="50" entry_type="docket" lookup_key="u.s._540_815" id1="131334" start="43" citation_global_level_id="4600.002" line="1" id="131326_2" citation_local_level_id="0" >02-1658</DOCKET>
+
+<DATE start="92" end="107" id="131326_6" >October 6, 2003</DATE>
+
+<NAME start="185" local_name_id="3" end="195" id="131326_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="247" reporter="P. 3d" entry_type="standard_key" no_current_file="True" lookup_key="p.3d_67_863" id1="Dummy_File_154635" volume="67" start="235" page_number="863" standard_reporter="P.3D" citation_global_level_id="218485.001" line="3" id="131326_12" citation_local_level_id="2" >67 P. 3d 863</CITATION>
+
+<RELATION theme="131326_1" includes_docket_string="02-1658" includes_docket="131326_2" theme_string="540 U.S. 815" gram_type="apposition" relation_type="asymmetric" id="131326_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 815" X_vs_Y_string="SHOOK v. MONTANA" standard_case="131326_1" X_vs_Y="131326_3" gram_type="pre_nom" relation_type="equivalence" id="131326_7" ></RELATION>
+
+<RELATION theme="131326_3" includes_docket_string="02-1658" includes_docket="131326_2" theme_string="SHOOK v. MONTANA" gram_type="apposition" relation_type="asymmetric" id="131326_10" ></RELATION>
+
+<RELATION theme="131326_3" party1="131326_4" party1_string="SHOOK" theme_string="SHOOK v. MONTANA" gram_type="infix" relation_type="asymmetric" id="131326_8" ></RELATION>
+
+<RELATION party2="131326_5" theme="131326_3" theme_string="SHOOK v. MONTANA" party2_string="MONTANA" gram_type="infix" relation_type="asymmetric" id="131326_9" ></RELATION>
+

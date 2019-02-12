@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['bonecarolina#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_940" id1="118861" volume="535" start="0" page_number="940" standard_reporter="U.S." citation_global_level_id="2049.002" line="1" id="118857_1" citation_local_level_id="0" >535 U.S. 940</CITATION>
+
+<CITATION party2="NORTH CAROLINA" party1="BONE" citation_global_level_id="12528.001" party2_short="CAROLINA" line="2" id="118857_2" alternative_keys="['u.s._535_940']" end="39" entry_type="party_key" lookup_key="bonecarolina#1" id1="118857" start="17" party1_short="BONE" citation_local_level_id="1" >BONE v. NORTH CAROLINA</CITATION>
+
+<NAME end="21" start="17" party1_of="118857_2" all_names="BONE" local_name_id="1" id="118857_3" >BONE</NAME>
+
+<NAME end="39" start="25" all_names="NORTH CAROLINA" party2_of="118857_2" local_name_id="2" id="118857_4" >NORTH CAROLINA</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="bonecarolina#1" id1="118857" start="49" citation_global_level_id="12528.001" line="3" id="118857_7" citation_local_level_id="1" >01-7777</DOCKET>
+
+<DATE start="102" citation_global_level_id="12528.001" end="116" id="118857_8" citation_local_level_id="1" >March 18, 2002</DATE>
+
+<NAME start="138" local_name_id="3" end="141" id="118857_14" all_names="SUP" >Sup</NAME>
+
+<CITATION end="199" reporter="N. C." entry_type="standard_key" no_current_file="True" lookup_key="n.c._354_1" id1="Dummy_File_236203" volume="354" start="188" page_number="1" standard_reporter="N.C." citation_global_level_id="300053.001" line="8" id="118857_12" citation_local_level_id="2" >354 N. C. 1</CITATION>
+
+<CITATION end="217" reporter="S. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="s.e.2d_550_482" id1="Dummy_File_236204" volume="550" start="201" page_number="482" standard_reporter="S.E.2D" citation_global_level_id="300054.001" line="8" id="118857_13" citation_local_level_id="3" >550 S. E. 2d 482</CITATION>
+
+<RELATION theme="118857_2" party1="118857_3" party1_string="BONE" theme_string="BONE v. NORTH CAROLINA" gram_type="infix" relation_type="asymmetric" id="118857_5" ></RELATION>
+
+<RELATION party2="118857_4" theme="118857_2" theme_string="BONE v. NORTH CAROLINA" party2_string="NORTH CAROLINA" gram_type="infix" relation_type="asymmetric" id="118857_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 940" X_vs_Y_string="BONE v. NORTH CAROLINA" standard_case="118857_1" X_vs_Y="118857_2" gram_type="multi_line" relation_type="equivalence" id="118857_9" ></RELATION>
+
+<RELATION at_date_string="March 18, 2002" theme="118857_2" at_date="118857_8" theme_string="BONE v. NORTH CAROLINA" gram_type="multi_line" relation_type="asymmetric" id="118857_11" ></RELATION>
+
+<RELATION theme="118857_2" includes_docket_string="01-7777" includes_docket="118857_7" theme_string="BONE v. NORTH CAROLINA" gram_type="multi_line" relation_type="asymmetric" id="118857_10" ></RELATION>
+

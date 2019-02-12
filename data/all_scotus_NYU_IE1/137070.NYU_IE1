@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['jacksonjohnson#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._542_907" id1="137076" volume="542" start="0" page_number="907" standard_reporter="U.S." citation_global_level_id="5419.002" line="1" id="137070_1" citation_local_level_id="0" >542 U.S. 907</CITATION>
+
+<CITATION party2="JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" party1="JACKSON" citation_global_level_id="9225.009" party2_short="JOHNSON" line="2" id="137070_3" alternative_keys="['u.s._542_907', 'u.s._540_987']" end="81" no_current_file="True" entry_type="party_key" lookup_key="jacksonjohnson#1" id1="133574" start="17" party1_short="JACKSON" citation_local_level_id="1" >JACKSON v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS</CITATION>
+
+<NAME end="24" start="17" party1_of="137070_3" all_names="JACKSON" local_name_id="1" id="137070_4" >JACKSON</NAME>
+
+<NAME end="81" start="28" all_names="JOHNSON DIRECTOR VIRGINIA DEPARTMENT OF CORRECTIONS" party2_of="137070_3" local_name_id="2" id="137070_5" >JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS</NAME>
+
+<DOCKET alternative_keys="['u.s._542_907', 'u.s._540_987']" end="98" no_current_file="True" entry_type="docket" lookup_key="jacksonjohnson#1" id1="133574" start="91" citation_global_level_id="9225.009" line="2" id="137070_2" citation_local_level_id="1" >03-9795</DOCKET>
+
+<ORGANIZATION start="104" end="134" id="137070_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="140" citation_global_level_id="5419.009" end="153" id="137070_10" citation_local_level_id="1" >June 14, 2004</DATE>
+
+<NAME start="185" local_name_id="3" end="188" id="137070_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="137070_3" includes_docket_string="03-9795" includes_docket="137070_2" theme_string="JACKSON v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" gram_type="apposition" relation_type="asymmetric" id="137070_8" ></RELATION>
+
+<RELATION theme="137070_3" party1="137070_4" party1_string="JACKSON" theme_string="JACKSON v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" gram_type="infix" relation_type="asymmetric" id="137070_6" ></RELATION>
+
+<RELATION party2="137070_5" theme="137070_3" theme_string="JACKSON v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" party2_string="JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" gram_type="infix" relation_type="asymmetric" id="137070_7" ></RELATION>
+
+<RELATION standard_case_string="542 U.S. 907" X_vs_Y_string="JACKSON v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" standard_case="137070_1" X_vs_Y="137070_3" gram_type="multi_line" relation_type="equivalence" id="137070_11" ></RELATION>
+
+<RELATION at_date_string="June 14, 2004" theme="137070_3" at_date="137070_10" theme_string="JACKSON v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" gram_type="multi_line" relation_type="asymmetric" id="137070_12" ></RELATION>
+

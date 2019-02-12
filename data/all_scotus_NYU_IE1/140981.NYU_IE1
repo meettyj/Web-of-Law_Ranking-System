@@ -1,0 +1,34 @@
+<CITATION alternative_keys="['rullanfeliciano#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1054" id1="140989" volume="543" start="0" page_number="1054" standard_reporter="U.S." citation_global_level_id="164.002" line="1" id="140981_1" citation_local_level_id="0" >543 U.S. 1054</CITATION>
+
+<CITATION party2="MORALES FELICIANO ET AL" party1="RULLAN, SECRETARY, PUERTO RICO DEPARTMENT OF HEALTH, ET AL." citation_global_level_id="164.003" party2_short="FELICIANO" line="2" id="140981_2" alternative_keys="['u.s._543_1054']" end="104" entry_type="party_key" lookup_key="rullanfeliciano#1" id1="140989" start="18" party1_short="RULLAN" citation_local_level_id="1" >RULLAN, SECRETARY, PUERTO RICO DEPARTMENT OF HEALTH, ET AL. v. MORALES FELICIANO ET AL</CITATION>
+
+<NAME end="77" start="18" party1_of="140981_2" all_names="RULLAN SECRETARY PUERTO RICO DEPARTMENT OF HEALTH" local_name_id="1" id="140981_3" >RULLAN, SECRETARY, PUERTO RICO DEPARTMENT OF HEALTH, ET AL.</NAME>
+
+<PROFESSION start="26" end="35" id="140981_5" >SECRETARY</PROFESSION>
+
+<ORGANIZATION start="37" end="69" id="140981_6" >PUERTO RICO DEPARTMENT OF HEALTH</ORGANIZATION>
+
+<NAME end="104" start="81" all_names="MORALES FELICIANO" party2_of="140981_2" local_name_id="2" id="140981_4" >MORALES FELICIANO ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._543_1054']" end="120" entry_type="docket" lookup_key="rullanfeliciano#1" id1="140989" start="114" citation_global_level_id="164.003" line="3" id="140981_9" citation_local_level_id="1" >04-630</DOCKET>
+
+<ORGANIZATION start="126" end="156" id="140981_10" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="162" citation_global_level_id="164.003" end="178" id="140981_11" citation_local_level_id="1" >January 10, 2005</DATE>
+
+<NAME start="200" local_name_id="3" end="213" id="140981_16" all_names="C A 1ST CIR" >C. A. 1st Cir</NAME>
+
+<NAME start="215" local_name_id="4" end="225" id="140981_17" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="262" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_378_42" id1="Dummy_File_37829" volume="378" start="250" page_number="42" standard_reporter="F.3D" citation_global_level_id="101679.001" line="8" id="140981_15" citation_local_level_id="2" >378 F. 3d 42</CITATION>
+
+<RELATION theme="140981_2" party1="140981_3" party1_string="RULLAN, SECRETARY, PUERTO RICO DEPARTMENT OF HEALTH, ET AL." theme_string="RULLAN, SECRETARY, PUERTO RICO DEPARTMENT OF HEALTH, ET AL. v. MORALES FELICIANO ET AL" gram_type="infix" relation_type="asymmetric" id="140981_7" ></RELATION>
+
+<RELATION party2="140981_4" theme="140981_2" theme_string="RULLAN, SECRETARY, PUERTO RICO DEPARTMENT OF HEALTH, ET AL. v. MORALES FELICIANO ET AL" party2_string="MORALES FELICIANO ET AL" gram_type="infix" relation_type="asymmetric" id="140981_8" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1054" X_vs_Y_string="RULLAN, SECRETARY, PUERTO RICO DEPARTMENT OF HEALTH, ET AL. v. MORALES FELICIANO ET AL" standard_case="140981_1" X_vs_Y="140981_2" gram_type="multi_line" relation_type="equivalence" id="140981_12" ></RELATION>
+
+<RELATION at_date_string="January 10, 2005" theme="140981_2" at_date="140981_11" theme_string="RULLAN, SECRETARY, PUERTO RICO DEPARTMENT OF HEALTH, ET AL. v. MORALES FELICIANO ET AL" gram_type="multi_line" relation_type="asymmetric" id="140981_14" ></RELATION>
+
+<RELATION theme="140981_2" includes_docket_string="04-630" includes_docket="140981_9" theme_string="RULLAN, SECRETARY, PUERTO RICO DEPARTMENT OF HEALTH, ET AL. v. MORALES FELICIANO ET AL" gram_type="multi_line" relation_type="asymmetric" id="140981_13" ></RELATION>
+

@@ -1,0 +1,48 @@
+<CITATION alternative_keys="['johnsonvirginia#4']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_901" id1="142905" volume="544" start="0" page_number="901" standard_reporter="U.S." citation_global_level_id="1367.002" line="1" id="142904_1" citation_local_level_id="0" >544 U.S. 901</CITATION>
+
+<CITATION party2="VIRGINIA" party1="JOHNSON" citation_global_level_id="52023.001" party2_short="VIRGINIA" line="2" id="142904_3" alternative_keys="['u.s._544_901']" end="36" entry_type="party_key" lookup_key="johnsonvirginia#4" id1="110606" start="17" party1_short="JOHNSON" citation_local_level_id="1" >JOHNSON v. VIRGINIA</CITATION>
+
+<NAME end="24" start="17" party1_of="142904_3" all_names="JOHNSON" local_name_id="1" id="142904_4" >JOHNSON</NAME>
+
+<NAME end="36" start="28" all_names="VIRGINIA" party2_of="142904_3" local_name_id="2" id="142904_5" >VIRGINIA</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="johnsonvirginia#4" id1="110606" start="46" citation_global_level_id="52023.001" line="2" id="142904_2" citation_local_level_id="1" >03-10877</DOCKET>
+
+<ORGANIZATION start="60" end="90" id="142904_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="96" citation_global_level_id="52023.001" end="109" id="142904_10" citation_local_level_id="1" >March 7, 2005</DATE>
+
+<NAME start="131" local_name_id="3" end="134" id="142904_20" all_names="SUP" >Sup</NAME>
+
+<CITATION end="170" reporter="Va." entry_type="standard_key" no_current_file="True" lookup_key="va._267_53" id1="Dummy_File_60183" volume="267" start="160" page_number="53" standard_reporter="VA." citation_global_level_id="124033.002" line="7" id="142904_13" citation_local_level_id="2" >267 Va. 53</CITATION>
+
+<CITATION end="187" reporter="S. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="s.e.2d_591_47" id1="Dummy_File_60183" volume="591" start="172" page_number="47" standard_reporter="S.E.2D" citation_global_level_id="124033.001" line="7" id="142904_14" citation_local_level_id="3" >591 S. E. 2d 47</CITATION>
+
+<CITATION party2="Simmons" party1="Roper" citation_global_level_id="40778.001" party2_short="Simmons" line="7" id="142904_16" alternative_keys="['u.s._543_551']" end="370" entry_type="party_key" lookup_key="ropersimmons#3" id1="128182" start="354" party1_short="Roper" citation_local_level_id="4" >Roper v. Simmons</CITATION>
+
+<NAME end="359" start="354" party1_of="142904_16" all_names="ROPER" local_name_id="4" id="142904_17" >Roper</NAME>
+
+<NAME end="370" start="363" all_names="SIMMONS" party2_of="142904_16" local_name_id="5" id="142904_18" >Simmons</NAME>
+
+<CITATION alternative_keys="['ropersimmons#3']" end="391" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_551" id1="2959732" volume="543" start="372" page_number="551" year="2005" standard_reporter="U.S." citation_global_level_id="2148.003" line="7" id="142904_15" citation_local_level_id="5" >543 U.S. 551 (2005)</CITATION>
+
+<DATE start="386" citation_global_level_id="2148.003" end="390" id="142904_19" citation_local_level_id="5" >2005</DATE>
+
+<RELATION theme="142904_3" includes_docket_string="03-10877" includes_docket="142904_2" theme_string="JOHNSON v. VIRGINIA" gram_type="apposition" relation_type="asymmetric" id="142904_8" ></RELATION>
+
+<RELATION theme="142904_3" party1="142904_4" party1_string="JOHNSON" theme_string="JOHNSON v. VIRGINIA" gram_type="infix" relation_type="asymmetric" id="142904_6" ></RELATION>
+
+<RELATION party2="142904_5" theme="142904_3" theme_string="JOHNSON v. VIRGINIA" party2_string="VIRGINIA" gram_type="infix" relation_type="asymmetric" id="142904_7" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 901" X_vs_Y_string="JOHNSON v. VIRGINIA" standard_case="142904_1" X_vs_Y="142904_3" gram_type="multi_line" relation_type="equivalence" id="142904_11" ></RELATION>
+
+<RELATION at_date_string="March 7, 2005" theme="142904_3" at_date="142904_10" theme_string="JOHNSON v. VIRGINIA" gram_type="multi_line" relation_type="asymmetric" id="142904_12" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 551 (2005)" X_vs_Y_string="Roper v. Simmons" standard_case="142904_15" X_vs_Y="142904_16" gram_type="apposition" relation_type="equivalence" id="142904_23" ></RELATION>
+
+<RELATION theme="142904_16" party1="142904_17" party1_string="Roper" theme_string="Roper v. Simmons" gram_type="infix" relation_type="asymmetric" id="142904_21" ></RELATION>
+
+<RELATION party2="142904_18" theme="142904_16" theme_string="Roper v. Simmons" party2_string="Simmons" gram_type="infix" relation_type="asymmetric" id="142904_22" ></RELATION>
+
+<RELATION at_date_string="2005" theme="142904_15" at_date="142904_19" theme_string="543 U.S. 551 (2005)" gram_type="infix" relation_type="asymmetric" id="142904_24" ></RELATION>
+

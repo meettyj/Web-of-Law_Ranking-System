@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['kennedyna#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_995" id1="140259" volume="543" start="0" page_number="995" standard_reporter="U.S." citation_global_level_id="6934.002" line="1" id="140264_1" citation_local_level_id="0" >543 U.S. 995</CITATION>
+
+<CITATION party2="CHASE MANHATTAN BANK, USA, NA, ET AL" party1="KENNEDY ET UX." citation_global_level_id="6934.004" party2_short="NA" line="2" id="140264_2" alternative_keys="['u.s._543_995']" end="71" entry_type="party_key" lookup_key="kennedyna#2" id1="140259" start="17" party1_short="KENNEDY" citation_local_level_id="1" >KENNEDY ET UX. v. CHASE MANHATTAN BANK, USA, NA, ET AL</CITATION>
+
+<NAME end="31" start="17" party1_of="140264_2" all_names="KENNEDY UX" local_name_id="1" id="140264_3" >KENNEDY ET UX.</NAME>
+
+<NAME end="71" start="35" all_names="CHASE MANHATTAN BANK USA NA" party2_of="140264_2" local_name_id="2" id="140264_4" >CHASE MANHATTAN BANK, USA, NA, ET AL</NAME>
+
+<ORGANIZATION start="35" end="55" id="140264_5" >CHASE MANHATTAN BANK</ORGANIZATION>
+
+<DOCKET alternative_keys="['u.s._543_995']" end="87" entry_type="docket" lookup_key="kennedyna#2" id1="140259" start="81" citation_global_level_id="6934.004" line="3" id="140264_8" citation_local_level_id="1" >04-354</DOCKET>
+
+<ORGANIZATION start="93" end="123" id="140264_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="129" citation_global_level_id="6934.004" end="146" id="140264_10" citation_local_level_id="1" >November 15, 2004</DATE>
+
+<NAME start="178" local_name_id="3" end="181" id="140264_15" all_names="CIR" >Cir</NAME>
+
+<CITATION end="310" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_369_833" id1="Dummy_File_210365" volume="369" start="297" page_number="833" standard_reporter="F.3D" citation_global_level_id="274215.001" line="8" id="140264_14" citation_local_level_id="2" >369 F. 3d 833</CITATION>
+
+<RELATION theme="140264_2" party1="140264_3" party1_string="KENNEDY ET UX." theme_string="KENNEDY ET UX. v. CHASE MANHATTAN BANK, USA, NA, ET AL" gram_type="infix" relation_type="asymmetric" id="140264_6" ></RELATION>
+
+<RELATION party2="140264_4" theme="140264_2" theme_string="KENNEDY ET UX. v. CHASE MANHATTAN BANK, USA, NA, ET AL" party2_string="CHASE MANHATTAN BANK, USA, NA, ET AL" gram_type="infix" relation_type="asymmetric" id="140264_7" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 995" X_vs_Y_string="KENNEDY ET UX. v. CHASE MANHATTAN BANK, USA, NA, ET AL" standard_case="140264_1" X_vs_Y="140264_2" gram_type="multi_line" relation_type="equivalence" id="140264_11" ></RELATION>
+
+<RELATION at_date_string="November 15, 2004" theme="140264_2" at_date="140264_10" theme_string="KENNEDY ET UX. v. CHASE MANHATTAN BANK, USA, NA, ET AL" gram_type="multi_line" relation_type="asymmetric" id="140264_13" ></RELATION>
+
+<RELATION theme="140264_2" includes_docket_string="04-354" includes_docket="140264_8" theme_string="KENNEDY ET UX. v. CHASE MANHATTAN BANK, USA, NA, ET AL" gram_type="multi_line" relation_type="asymmetric" id="140264_12" ></RELATION>
+

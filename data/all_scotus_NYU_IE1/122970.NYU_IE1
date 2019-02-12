@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['jacksonlouisiana#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_857" id1="122966" volume="537" start="0" page_number="857" standard_reporter="U.S." citation_global_level_id="5789.002" line="1" id="122970_1" citation_local_level_id="0" >537 U.S. 857</CITATION>
+
+<CITATION party2="LOUISIANA" party1="JACKSON ET AL." citation_global_level_id="34936.001" party2_short="LOUISIANA" line="1" id="122970_3" alternative_keys="['u.s._537_857']" end="44" entry_type="party_key" lookup_key="jacksonlouisiana#2" id1="122970" start="17" party1_short="JACKSON" citation_local_level_id="1" >JACKSON ET AL. v. LOUISIANA</CITATION>
+
+<NAME end="31" start="17" party1_of="122970_3" all_names="JACKSON" local_name_id="1" id="122970_4" >JACKSON ET AL.</NAME>
+
+<NAME start="17" local_name_id="1" end="30" id="122970_7" all_names="JACKSON" >JACKSON ET AL</NAME>
+
+<NAME end="44" start="35" all_names="LOUISIANA" party2_of="122970_3" local_name_id="2" id="122970_5" >LOUISIANA</NAME>
+
+<DOCKET end="62" entry_type="docket" lookup_key="u.s._537_857" id1="122966" start="54" citation_global_level_id="5789.002" line="1" id="122970_2" citation_local_level_id="0" >01-10692</DOCKET>
+
+<DATE start="104" end="119" id="122970_6" >October 7, 2002</DATE>
+
+<NAME start="231" local_name_id="3" end="233" id="122970_14" all_names="CT" >Ct</NAME>
+
+<CITATION end="303" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_793_571" id1="Dummy_File_66689" volume="793" start="289" page_number="571" standard_reporter="SO.2D" citation_global_level_id="130539.001" line="3" id="122970_13" citation_local_level_id="2" >793 So. 2d 571</CITATION>
+
+<RELATION theme="122970_1" includes_docket_string="01-10692" includes_docket="122970_2" theme_string="537 U.S. 857" gram_type="apposition" relation_type="asymmetric" id="122970_12" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 857" X_vs_Y_string="JACKSON ET AL. v. LOUISIANA" standard_case="122970_1" X_vs_Y="122970_3" gram_type="pre_nom" relation_type="equivalence" id="122970_8" ></RELATION>
+
+<RELATION theme="122970_3" includes_docket_string="01-10692" includes_docket="122970_2" theme_string="JACKSON ET AL. v. LOUISIANA" gram_type="apposition" relation_type="asymmetric" id="122970_11" ></RELATION>
+
+<RELATION party2="122970_5" theme="122970_3" theme_string="JACKSON ET AL. v. LOUISIANA" party2_string="LOUISIANA" gram_type="infix" relation_type="asymmetric" id="122970_10" ></RELATION>
+
+<RELATION theme="122970_3" party1="122970_4" party1_string="JACKSON ET AL." theme_string="JACKSON ET AL. v. LOUISIANA" gram_type="infix" relation_type="asymmetric" id="122970_9" ></RELATION>
+

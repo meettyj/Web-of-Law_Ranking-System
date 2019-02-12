@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['howardarkansas#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1051" id1="125417" volume="537" start="0" page_number="1051" standard_reporter="U.S." citation_global_level_id="4155.002" line="1" id="125425_1" citation_local_level_id="0" >537 U.S. 1051</CITATION>
+
+<CITATION party2="ARKANSAS" party1="HOWARD" citation_global_level_id="53570.001" party2_short="ARKANSAS" line="1" id="125425_3" alternative_keys="['u.s._537_1051']" end="36" entry_type="party_key" lookup_key="howardarkansas#1" id1="125425" start="18" party1_short="HOWARD" citation_local_level_id="1" >HOWARD v. ARKANSAS</CITATION>
+
+<NAME end="24" start="18" party1_of="125425_3" all_names="HOWARD" local_name_id="1" id="125425_4" >HOWARD</NAME>
+
+<NAME end="36" start="28" all_names="ARKANSAS" party2_of="125425_3" local_name_id="2" id="125425_5" >ARKANSAS</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="u.s._537_1051" id1="125417" start="46" citation_global_level_id="4155.002" line="1" id="125425_2" citation_local_level_id="0" >02-6564</DOCKET>
+
+<DATE start="95" end="111" id="125425_6" >December 2, 2002</DATE>
+
+<NAME start="204" local_name_id="3" end="207" id="125425_13" all_names="SUP" >Sup</NAME>
+
+<CITATION end="282" reporter="S. W. 3d" entry_type="standard_key" no_current_file="True" lookup_key="s.w.3d_79_273" id1="Dummy_File_22390" volume="79" start="267" page_number="273" standard_reporter="S.W.3D" citation_global_level_id="86240.001" line="3" id="125425_12" citation_local_level_id="2" >79 S. W. 3d 273</CITATION>
+
+<RELATION theme="125425_1" includes_docket_string="02-6564" includes_docket="125425_2" theme_string="537 U.S. 1051" gram_type="apposition" relation_type="asymmetric" id="125425_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1051" X_vs_Y_string="HOWARD v. ARKANSAS" standard_case="125425_1" X_vs_Y="125425_3" gram_type="pre_nom" relation_type="equivalence" id="125425_7" ></RELATION>
+
+<RELATION theme="125425_3" includes_docket_string="02-6564" includes_docket="125425_2" theme_string="HOWARD v. ARKANSAS" gram_type="apposition" relation_type="asymmetric" id="125425_10" ></RELATION>
+
+<RELATION theme="125425_3" party1="125425_4" party1_string="HOWARD" theme_string="HOWARD v. ARKANSAS" gram_type="infix" relation_type="asymmetric" id="125425_8" ></RELATION>
+
+<RELATION party2="125425_5" theme="125425_3" theme_string="HOWARD v. ARKANSAS" party2_string="ARKANSAS" gram_type="infix" relation_type="asymmetric" id="125425_9" ></RELATION>
+

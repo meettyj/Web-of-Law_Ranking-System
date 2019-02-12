@@ -1,0 +1,34 @@
+<CITATION alternative_keys="['burkecarolina#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1067" id1="141174" volume="543" start="0" page_number="1067" standard_reporter="U.S." citation_global_level_id="2957.002" line="1" id="141166_1" citation_local_level_id="0" >543 U.S. 1067</CITATION>
+
+<CITATION party2="NORTH CAROLINA" party1="BURKE" citation_global_level_id="38864.001" party2_short="CAROLINA" line="2" id="141166_2" alternative_keys="['u.s._543_1067']" end="41" entry_type="party_key" lookup_key="burkecarolina#1" id1="141166" start="18" party1_short="BURKE" citation_local_level_id="1" >BURKE v. NORTH CAROLINA</CITATION>
+
+<NAME end="23" start="18" party1_of="141166_2" all_names="BURKE" local_name_id="1" id="141166_3" >BURKE</NAME>
+
+<NAME end="41" start="27" all_names="NORTH CAROLINA" party2_of="141166_2" local_name_id="2" id="141166_4" >NORTH CAROLINA</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="burkecarolina#1" id1="141166" start="51" citation_global_level_id="38864.001" line="3" id="141166_7" citation_local_level_id="1" >04-7104</DOCKET>
+
+<ORGANIZATION start="64" end="94" id="141166_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="100" citation_global_level_id="38864.001" end="116" id="141166_9" citation_local_level_id="1" >January 10, 2005</DATE>
+
+<PROFESSION start="138" end="141" id="141166_13" >Gen</PROFESSION>
+
+<NAME start="143" local_name_id="3" end="145" id="141166_14" all_names="CT" >Ct</NAME>
+
+<PROFESSION start="147" document_level_name_id="3" end="161" id="141166_15" party="CT" >Justice, Super</PROFESSION>
+
+<NAME start="163" local_name_id="3" end="165" id="141166_16" all_names="CT" >Ct</NAME>
+
+<RELATION theme="141166_2" party1="141166_3" party1_string="BURKE" theme_string="BURKE v. NORTH CAROLINA" gram_type="infix" relation_type="asymmetric" id="141166_5" ></RELATION>
+
+<RELATION party2="141166_4" theme="141166_2" theme_string="BURKE v. NORTH CAROLINA" party2_string="NORTH CAROLINA" gram_type="infix" relation_type="asymmetric" id="141166_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1067" X_vs_Y_string="BURKE v. NORTH CAROLINA" standard_case="141166_1" X_vs_Y="141166_2" gram_type="multi_line" relation_type="equivalence" id="141166_10" ></RELATION>
+
+<RELATION at_date_string="January 10, 2005" theme="141166_2" at_date="141166_9" theme_string="BURKE v. NORTH CAROLINA" gram_type="multi_line" relation_type="asymmetric" id="141166_12" ></RELATION>
+
+<RELATION theme="141166_2" includes_docket_string="04-7104" includes_docket="141166_7" theme_string="BURKE v. NORTH CAROLINA" gram_type="multi_line" relation_type="asymmetric" id="141166_11" ></RELATION>
+
+<RELATION theme="141166_14" profession_string="Justice, Super" theme_string="Ct" profession="141166_15" gram_type="apposition" relation_type="asymmetric" id="141166_17" ></RELATION>
+

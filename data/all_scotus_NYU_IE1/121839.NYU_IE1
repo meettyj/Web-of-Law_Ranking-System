@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['energystates#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._536_958" id1="121843" volume="536" start="0" page_number="958" standard_reporter="U.S." citation_global_level_id="2483.002" line="1" id="121839_1" citation_local_level_id="0" >536 U.S. 958</CITATION>
+
+<CITATION party2="UNITED STATES" party1="RITH ENERGY, INC." citation_global_level_id="6553.001" party2_short="STATES" line="2" id="121839_2" alternative_keys="['u.s._536_958']" end="51" entry_type="party_key" lookup_key="energystates#1" id1="121839" start="17" party1_short="ENERGY" citation_local_level_id="1" >RITH ENERGY, INC. v. UNITED STATES</CITATION>
+
+<NAME end="34" start="17" party1_of="121839_2" all_names="RITH ENERGY INC" local_name_id="1" id="121839_3" >RITH ENERGY, INC.</NAME>
+
+<ORGANIZATION start="17" end="33" id="121839_5" >RITH ENERGY, INC</ORGANIZATION>
+
+<NAME end="51" start="38" all_names="UNITED STATES" party2_of="121839_2" local_name_id="2" id="121839_4" >UNITED STATES</NAME>
+
+<DOCKET end="68" entry_type="docket" lookup_key="energystates#1" id1="121839" start="61" citation_global_level_id="6553.001" line="3" id="121839_8" citation_local_level_id="1" >01-1145</DOCKET>
+
+<DATE start="114" citation_global_level_id="6553.001" end="127" id="121839_9" citation_local_level_id="1" >June 28, 2002</DATE>
+
+<NAME start="149" local_name_id="3" end="158" id="121839_14" all_names="C A FED" >C. A. Fed</NAME>
+
+<NAME start="160" local_name_id="4" end="163" id="121839_15" all_names="CIR" >Cir</NAME>
+
+<CITATION end="214" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_247_1355" id1="Dummy_File_211356" volume="247" start="200" page_number="1355" standard_reporter="F.3D" citation_global_level_id="275206.001" line="8" id="121839_13" citation_local_level_id="2" >247 F. 3d 1355</CITATION>
+
+<RELATION theme="121839_2" party1="121839_3" party1_string="RITH ENERGY, INC." theme_string="RITH ENERGY, INC. v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="121839_6" ></RELATION>
+
+<RELATION party2="121839_4" theme="121839_2" theme_string="RITH ENERGY, INC. v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="121839_7" ></RELATION>
+
+<RELATION standard_case_string="536 U.S. 958" X_vs_Y_string="RITH ENERGY, INC. v. UNITED STATES" standard_case="121839_1" X_vs_Y="121839_2" gram_type="multi_line" relation_type="equivalence" id="121839_10" ></RELATION>
+
+<RELATION at_date_string="June 28, 2002" theme="121839_2" at_date="121839_9" theme_string="RITH ENERGY, INC. v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="121839_12" ></RELATION>
+
+<RELATION theme="121839_2" includes_docket_string="01-1145" includes_docket="121839_8" theme_string="RITH ENERGY, INC. v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="121839_11" ></RELATION>
+

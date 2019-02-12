@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['fullerstates#6']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_969" id1="143753" volume="544" start="0" page_number="969" standard_reporter="U.S." citation_global_level_id="2088.002" line="1" id="143756_1" citation_local_level_id="0" >544 U.S. 969</CITATION>
+
+<CITATION party2="UNITED STATES" party1="FULLER" citation_global_level_id="52945.001" party2_short="STATES" line="2" id="143756_2" alternative_keys="['u.s._544_969']" end="40" entry_type="party_key" lookup_key="fullerstates#6" id1="144278" start="17" party1_short="FULLER" citation_local_level_id="1" >FULLER v. UNITED STATES</CITATION>
+
+<NAME end="23" start="17" party1_of="143756_2" all_names="FULLER" local_name_id="1" id="143756_3" >FULLER</NAME>
+
+<NAME end="40" start="27" all_names="UNITED STATES" party2_of="143756_2" local_name_id="2" id="143756_4" >UNITED STATES</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="fullerstates#6" id1="144278" start="50" citation_global_level_id="52945.001" line="3" id="143756_7" citation_local_level_id="1" >04-7309</DOCKET>
+
+<ORGANIZATION start="63" end="93" id="143756_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="99" citation_global_level_id="52945.001" end="112" id="143756_9" citation_local_level_id="1" >April 4, 2005</DATE>
+
+<CITATION end="147" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1073" id1="141243" volume="543" start="134" page_number="1073" standard_reporter="U.S." citation_global_level_id="7074.002" line="8" id="143756_13" citation_local_level_id="2" >543 U.S. 1073</CITATION>
+
+<NAME start="149" local_name_id="3" end="157" id="143756_14" all_names="PETITION" >Petition</NAME>
+
+<RELATION theme="143756_2" party1="143756_3" party1_string="FULLER" theme_string="FULLER v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="143756_5" ></RELATION>
+
+<RELATION party2="143756_4" theme="143756_2" theme_string="FULLER v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="143756_6" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 969" X_vs_Y_string="FULLER v. UNITED STATES" standard_case="143756_1" X_vs_Y="143756_2" gram_type="multi_line" relation_type="equivalence" id="143756_10" ></RELATION>
+
+<RELATION at_date_string="April 4, 2005" theme="143756_2" at_date="143756_9" theme_string="FULLER v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="143756_12" ></RELATION>
+
+<RELATION theme="143756_2" includes_docket_string="04-7309" includes_docket="143756_7" theme_string="FULLER v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="143756_11" ></RELATION>
+

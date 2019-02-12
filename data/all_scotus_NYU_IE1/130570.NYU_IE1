@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['augustestates#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_933" id1="130561" volume="539" start="0" page_number="933" standard_reporter="U.S." citation_global_level_id="389.002" line="1" id="130570_1" citation_local_level_id="0" >539 U.S. 933</CITATION>
+
+<CITATION party2="United States" party1="Auguste" citation_global_level_id="20185.001" party2_short="States" line="1" id="130570_3" alternative_keys="['u.s._539_933']" end="41" entry_type="party_key" lookup_key="augustestates#1" id1="130570" start="17" party1_short="Auguste" citation_local_level_id="1" >Auguste v. United States</CITATION>
+
+<NAME end="24" start="17" party1_of="130570_3" all_names="AUGUSTE" local_name_id="1" id="130570_4" >Auguste</NAME>
+
+<NAME end="41" start="28" all_names="UNITED STATES" party2_of="130570_3" local_name_id="2" id="130570_5" >United States</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="u.s._539_933" id1="130561" start="51" citation_global_level_id="389.002" line="1" id="130570_2" citation_local_level_id="0" >02-10596</DOCKET>
+
+<DATE start="101" end="114" id="130570_6" >June 16, 2003</DATE>
+
+<NAME start="193" local_name_id="3" end="203" id="130570_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="242" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_313_1278" id1="Dummy_File_2205" volume="313" start="228" page_number="1278" standard_reporter="F.3D" citation_global_level_id="66055.001" line="3" id="130570_12" citation_local_level_id="2" >313 F. 3d 1278</CITATION>
+
+<RELATION theme="130570_1" includes_docket_string="02-10596" includes_docket="130570_2" theme_string="539 U.S. 933" gram_type="apposition" relation_type="asymmetric" id="130570_11" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 933" X_vs_Y_string="Auguste v. United States" standard_case="130570_1" X_vs_Y="130570_3" gram_type="pre_nom" relation_type="equivalence" id="130570_7" ></RELATION>
+
+<RELATION theme="130570_3" includes_docket_string="02-10596" includes_docket="130570_2" theme_string="Auguste v. United States" gram_type="apposition" relation_type="asymmetric" id="130570_10" ></RELATION>
+
+<RELATION theme="130570_3" party1="130570_4" party1_string="Auguste" theme_string="Auguste v. United States" gram_type="infix" relation_type="asymmetric" id="130570_8" ></RELATION>
+
+<RELATION party2="130570_5" theme="130570_3" theme_string="Auguste v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="130570_9" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['resendeztexas#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_931" id1="123964" volume="537" start="0" page_number="931" standard_reporter="U.S." citation_global_level_id="2688.002" line="1" id="123959_1" citation_local_level_id="0" >537 U.S. 931</CITATION>
+
+<CITATION party2="TEXAS" party1="RESENDEZ" citation_global_level_id="24322.001" party2_short="TEXAS" line="1" id="123959_3" alternative_keys="['u.s._537_931']" end="34" entry_type="party_key" lookup_key="resendeztexas#1" id1="123959" start="17" party1_short="RESENDEZ" citation_local_level_id="1" >RESENDEZ v. TEXAS</CITATION>
+
+<NAME end="25" start="17" party1_of="123959_3" all_names="RESENDEZ" local_name_id="1" id="123959_4" >RESENDEZ</NAME>
+
+<NAME end="34" start="29" all_names="TEXAS" party2_of="123959_3" local_name_id="2" id="123959_5" >TEXAS</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="u.s._537_931" id1="123964" start="44" citation_global_level_id="2688.002" line="1" id="123959_2" citation_local_level_id="0" >02-5776</DOCKET>
+
+<DATE start="93" end="108" id="123959_6" >October 7, 2002</DATE>
+
+<NAME start="216" local_name_id="3" end="218" id="123959_13" all_names="CT" >Ct</NAME>
+
+<CITATION end="289" reporter="S.W.3d" entry_type="standard_key" no_current_file="True" lookup_key="s.w.3d_50_84" id1="Dummy_File_31711" volume="50" start="277" page_number="84" standard_reporter="S.W.3D" citation_global_level_id="95561.001" line="3" id="123959_12" citation_local_level_id="2" >50 S.W.3d 84</CITATION>
+
+<RELATION theme="123959_1" includes_docket_string="02-5776" includes_docket="123959_2" theme_string="537 U.S. 931" gram_type="apposition" relation_type="asymmetric" id="123959_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 931" X_vs_Y_string="RESENDEZ v. TEXAS" standard_case="123959_1" X_vs_Y="123959_3" gram_type="pre_nom" relation_type="equivalence" id="123959_7" ></RELATION>
+
+<RELATION theme="123959_3" includes_docket_string="02-5776" includes_docket="123959_2" theme_string="RESENDEZ v. TEXAS" gram_type="apposition" relation_type="asymmetric" id="123959_10" ></RELATION>
+
+<RELATION theme="123959_3" party1="123959_4" party1_string="RESENDEZ" theme_string="RESENDEZ v. TEXAS" gram_type="infix" relation_type="asymmetric" id="123959_8" ></RELATION>
+
+<RELATION party2="123959_5" theme="123959_3" theme_string="RESENDEZ v. TEXAS" party2_string="TEXAS" gram_type="infix" relation_type="asymmetric" id="123959_9" ></RELATION>
+

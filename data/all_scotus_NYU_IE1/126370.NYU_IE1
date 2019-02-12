@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['farnamcalifornia#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1124" id1="126370" volume="537" start="0" page_number="1124" standard_reporter="U.S." citation_global_level_id="4193.002" line="1" id="126370_1" citation_local_level_id="0" >537 U.S. 1124</CITATION>
+
+<CITATION party2="CALIFORNIA" party1="FARNAM" citation_global_level_id="4193.001" party2_short="CALIFORNIA" line="1" id="126370_3" alternative_keys="['u.s._537_1124']" end="38" entry_type="party_key" lookup_key="farnamcalifornia#1" id1="126370" start="18" party1_short="FARNAM" citation_local_level_id="1" >FARNAM v. CALIFORNIA</CITATION>
+
+<NAME end="24" start="18" party1_of="126370_3" all_names="FARNAM" local_name_id="1" id="126370_4" >FARNAM</NAME>
+
+<NAME end="38" start="28" all_names="CALIFORNIA" party2_of="126370_3" local_name_id="2" id="126370_5" >CALIFORNIA</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._537_1124" id1="126370" start="48" citation_global_level_id="4193.002" line="1" id="126370_2" citation_local_level_id="0" >02-7245</DOCKET>
+
+<DATE start="97" end="113" id="126370_6" >January 13, 2003</DATE>
+
+<NAME start="207" local_name_id="3" end="210" id="126370_13" all_names="SUP" >Sup</NAME>
+
+<CITATION end="285" reporter="P. 3d" entry_type="standard_key" no_current_file="True" lookup_key="p.3d_47_988" id1="Dummy_File_182631" volume="47" start="273" page_number="988" standard_reporter="P.3D" citation_global_level_id="246481.001" line="3" id="126370_12" citation_local_level_id="2" >47 P. 3d 988</CITATION>
+
+<RELATION theme="126370_1" includes_docket_string="02-7245" includes_docket="126370_2" theme_string="537 U.S. 1124" gram_type="apposition" relation_type="asymmetric" id="126370_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1124" X_vs_Y_string="FARNAM v. CALIFORNIA" standard_case="126370_1" X_vs_Y="126370_3" gram_type="pre_nom" relation_type="equivalence" id="126370_7" ></RELATION>
+
+<RELATION theme="126370_3" includes_docket_string="02-7245" includes_docket="126370_2" theme_string="FARNAM v. CALIFORNIA" gram_type="apposition" relation_type="asymmetric" id="126370_10" ></RELATION>
+
+<RELATION theme="126370_3" party1="126370_4" party1_string="FARNAM" theme_string="FARNAM v. CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="126370_8" ></RELATION>
+
+<RELATION party2="126370_5" theme="126370_3" theme_string="FARNAM v. CALIFORNIA" party2_string="CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="126370_9" ></RELATION>
+

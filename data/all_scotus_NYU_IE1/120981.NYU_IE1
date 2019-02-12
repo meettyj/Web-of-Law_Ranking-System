@@ -1,0 +1,38 @@
+<CITATION alternative_keys="['productsmanufacturing#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1109" id1="120986" volume="535" start="0" page_number="1109" standard_reporter="U.S." citation_global_level_id="1316.002" line="1" id="120981_1" citation_local_level_id="0" >535 U.S. 1109</CITATION>
+
+<CITATION party2="DAINIPPON SCREEN MANUFACTURING CO., LTD., ET AL" party1="CREO PRODUCTS INC." citation_global_level_id="17970.001" party2_short="MANUFACTURING" line="2" id="120981_2" alternative_keys="['u.s._535_1109']" end="87" entry_type="party_key" lookup_key="productsmanufacturing#1" id1="120981" start="18" party1_short="PRODUCTS" citation_local_level_id="1" >CREO PRODUCTS INC. v. DAINIPPON SCREEN MANUFACTURING CO., LTD., ET AL</CITATION>
+
+<NAME end="36" start="18" party1_of="120981_2" all_names="CREO PRODUCTS INC" local_name_id="1" id="120981_3" >CREO PRODUCTS INC.</NAME>
+
+<ORGANIZATION start="18" end="35" id="120981_5" >CREO PRODUCTS INC</ORGANIZATION>
+
+<NAME end="87" start="40" all_names="DAINIPPON SCREEN MANUFACTURING CO LTD" party2_of="120981_2" local_name_id="2" id="120981_4" >DAINIPPON SCREEN MANUFACTURING CO., LTD., ET AL</NAME>
+
+<DOCKET end="103" entry_type="docket" lookup_key="productsmanufacturing#1" id1="120981" start="97" citation_global_level_id="17970.001" line="3" id="120981_8" citation_local_level_id="1" >01-269</DOCKET>
+
+<DATE start="149" citation_global_level_id="17970.001" end="161" id="120981_9" citation_local_level_id="1" >June 3, 2002</DATE>
+
+<NAME start="183" local_name_id="3" end="192" id="120981_16" all_names="C A FED" >C. A. Fed</NAME>
+
+<NAME start="194" local_name_id="4" end="197" id="120981_17" all_names="CIR" >Cir</NAME>
+
+<CITATION party2="Shoketsu Kinzoku Kogyo Kabushiki Co" party1="Festo Corp." citation_global_level_id="17904.001" party2_short="Kabushiki" line="8" id="120981_13" end="343" entry_type="party_key" lookup_key="festokabushiki#2" id1="135651" start="293" party1_short="Festo" citation_local_level_id="2" >Festo Corp. v. Shoketsu Kinzoku Kogyo Kabushiki Co</CITATION>
+
+<NAME end="304" start="293" party1_of="120981_13" all_names="FESTO CORP" local_name_id="5" id="120981_14" >Festo Corp.</NAME>
+
+<NAME end="343" start="308" all_names="SHOKETSU KINZOKU KOGYO KABUSHIKI CO" party2_of="120981_13" local_name_id="6" id="120981_15" >Shoketsu Kinzoku Kogyo Kabushiki Co</NAME>
+
+<RELATION theme="120981_2" party1="120981_3" party1_string="CREO PRODUCTS INC." theme_string="CREO PRODUCTS INC. v. DAINIPPON SCREEN MANUFACTURING CO., LTD., ET AL" gram_type="infix" relation_type="asymmetric" id="120981_6" ></RELATION>
+
+<RELATION party2="120981_4" theme="120981_2" theme_string="CREO PRODUCTS INC. v. DAINIPPON SCREEN MANUFACTURING CO., LTD., ET AL" party2_string="DAINIPPON SCREEN MANUFACTURING CO., LTD., ET AL" gram_type="infix" relation_type="asymmetric" id="120981_7" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1109" X_vs_Y_string="CREO PRODUCTS INC. v. DAINIPPON SCREEN MANUFACTURING CO., LTD., ET AL" standard_case="120981_1" X_vs_Y="120981_2" gram_type="multi_line" relation_type="equivalence" id="120981_10" ></RELATION>
+
+<RELATION at_date_string="June 3, 2002" theme="120981_2" at_date="120981_9" theme_string="CREO PRODUCTS INC. v. DAINIPPON SCREEN MANUFACTURING CO., LTD., ET AL" gram_type="multi_line" relation_type="asymmetric" id="120981_12" ></RELATION>
+
+<RELATION theme="120981_2" includes_docket_string="01-269" includes_docket="120981_8" theme_string="CREO PRODUCTS INC. v. DAINIPPON SCREEN MANUFACTURING CO., LTD., ET AL" gram_type="multi_line" relation_type="asymmetric" id="120981_11" ></RELATION>
+
+<RELATION theme="120981_13" party1="120981_14" party1_string="Festo Corp." theme_string="Festo Corp. v. Shoketsu Kinzoku Kogyo Kabushiki Co" gram_type="infix" relation_type="asymmetric" id="120981_18" ></RELATION>
+
+<RELATION party2="120981_15" theme="120981_13" theme_string="Festo Corp. v. Shoketsu Kinzoku Kogyo Kabushiki Co" party2_string="Shoketsu Kinzoku Kogyo Kabushiki Co" gram_type="infix" relation_type="asymmetric" id="120981_19" ></RELATION>
+

@@ -1,0 +1,36 @@
+<CITATION alternative_keys="['fogertyholdings#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1120" id1="141938" volume="543" start="0" page_number="1120" standard_reporter="U.S." citation_global_level_id="606.002" line="1" id="141945_1" citation_local_level_id="0" >543 U.S. 1120</CITATION>
+
+<CITATION party2="MGM GROUP HOLDINGS CORP., INC., DBA MGM UNIVERSAL MUSIC GROUP, INC., ET AL" party1="FOGERTY ET AL." citation_global_level_id="606.009" party2_short="HOLDINGS" line="2" id="141945_2" alternative_keys="['u.s._543_1120']" end="110" entry_type="party_key" lookup_key="fogertyholdings#2" id1="141938" start="18" party1_short="FOGERTY" citation_local_level_id="1" >FOGERTY ET AL. v. MGM GROUP HOLDINGS CORP., INC., DBA MGM UNIVERSAL MUSIC GROUP, INC., ET AL</CITATION>
+
+<NAME end="32" start="18" party1_of="141945_2" all_names="FOGERTY" local_name_id="1" id="141945_3" >FOGERTY ET AL.</NAME>
+
+<NAME end="110" start="36" all_names="MGM GROUP HOLDINGS CORP INC DBA MGM UNIVERSAL MUSIC GROUP INC" party2_of="141945_2" local_name_id="2" id="141945_4" >MGM GROUP HOLDINGS CORP., INC., DBA MGM UNIVERSAL MUSIC GROUP, INC., ET AL</NAME>
+
+<NAME start="36" local_name_id="3" end="54" id="141945_5" all_names="MGM GROUP HOLDINGS" >MGM GROUP HOLDINGS</NAME>
+
+<ORGANIZATION start="40" end="45" id="141945_6" >GROUP</ORGANIZATION>
+
+<ORGANIZATION start="55" end="65" id="141945_7" >CORP., INC</ORGANIZATION>
+
+<ORGANIZATION start="68" end="102" id="141945_8" >DBA MGM UNIVERSAL MUSIC GROUP, INC</ORGANIZATION>
+
+<DOCKET alternative_keys="['u.s._543_1120']" end="126" entry_type="docket" lookup_key="fogertyholdings#2" id1="141938" start="120" citation_global_level_id="606.009" line="3" id="141945_11" citation_local_level_id="1" >04-598</DOCKET>
+
+<ORGANIZATION start="132" end="162" id="141945_12" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="168" citation_global_level_id="606.009" end="184" id="141945_13" citation_local_level_id="1" >January 24, 2005</DATE>
+
+<NAME start="216" local_name_id="4" end="219" id="141945_18" all_names="CIR" >Cir</NAME>
+
+<CITATION end="268" reporter="F.3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_379_348" id1="Dummy_File_194560" volume="379" start="256" page_number="348" standard_reporter="F.3D" citation_global_level_id="258410.001" line="8" id="141945_17" citation_local_level_id="2" >379 F.3d 348</CITATION>
+
+<RELATION party2="141945_4" theme="141945_2" theme_string="FOGERTY ET AL. v. MGM GROUP HOLDINGS CORP., INC., DBA MGM UNIVERSAL MUSIC GROUP, INC., ET AL" party2_string="MGM GROUP HOLDINGS CORP., INC., DBA MGM UNIVERSAL MUSIC GROUP, INC., ET AL" gram_type="infix" relation_type="asymmetric" id="141945_10" ></RELATION>
+
+<RELATION theme="141945_2" party1="141945_3" party1_string="FOGERTY ET AL." theme_string="FOGERTY ET AL. v. MGM GROUP HOLDINGS CORP., INC., DBA MGM UNIVERSAL MUSIC GROUP, INC., ET AL" gram_type="infix" relation_type="asymmetric" id="141945_9" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1120" X_vs_Y_string="FOGERTY ET AL. v. MGM GROUP HOLDINGS CORP., INC., DBA MGM UNIVERSAL MUSIC GROUP, INC., ET AL" standard_case="141945_1" X_vs_Y="141945_2" gram_type="multi_line" relation_type="equivalence" id="141945_14" ></RELATION>
+
+<RELATION at_date_string="January 24, 2005" theme="141945_2" at_date="141945_13" theme_string="FOGERTY ET AL. v. MGM GROUP HOLDINGS CORP., INC., DBA MGM UNIVERSAL MUSIC GROUP, INC., ET AL" gram_type="multi_line" relation_type="asymmetric" id="141945_16" ></RELATION>
+
+<RELATION theme="141945_2" includes_docket_string="04-598" includes_docket="141945_11" theme_string="FOGERTY ET AL. v. MGM GROUP HOLDINGS CORP., INC., DBA MGM UNIVERSAL MUSIC GROUP, INC., ET AL" gram_type="multi_line" relation_type="asymmetric" id="141945_15" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['airlinesdepartment#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1054" id1="120268" volume="535" start="0" page_number="1054" standard_reporter="U.S." citation_global_level_id="2404.002" line="1" id="120261_1" citation_local_level_id="0" >535 U.S. 1054</CITATION>
+
+<CITATION party2="MICHIGAN DEPARTMENT OF TREASURY, REVENUE DIVISION" party1="ZANTOP INTERNATIONAL AIRLINES, INC." citation_global_level_id="2404.008" party2_short="DEPARTMENT" line="2" id="120261_2" alternative_keys="['u.s._535_1054']" end="106" entry_type="party_key" lookup_key="airlinesdepartment#1" id1="120268" start="18" party1_short="AIRLINES" citation_local_level_id="1" >ZANTOP INTERNATIONAL AIRLINES, INC. v. MICHIGAN DEPARTMENT OF TREASURY, REVENUE DIVISION</CITATION>
+
+<NAME end="53" start="18" party1_of="120261_2" all_names="ZANTOP INTERNATIONAL AIRLINES INC" local_name_id="1" id="120261_3" >ZANTOP INTERNATIONAL AIRLINES, INC.</NAME>
+
+<ORGANIZATION start="18" end="52" id="120261_5" >ZANTOP INTERNATIONAL AIRLINES, INC</ORGANIZATION>
+
+<NAME end="106" start="57" all_names="MICHIGAN DEPARTMENT OF TREASURY REVENUE DIVISION" party2_of="120261_2" local_name_id="2" id="120261_4" >MICHIGAN DEPARTMENT OF TREASURY, REVENUE DIVISION</NAME>
+
+<DOCKET alternative_keys="['u.s._535_1054']" end="123" entry_type="docket" lookup_key="airlinesdepartment#1" id1="120268" start="116" citation_global_level_id="2404.008" line="3" id="120261_8" citation_local_level_id="1" >01-1284</DOCKET>
+
+<DATE start="169" citation_global_level_id="2404.008" end="181" id="120261_9" citation_local_level_id="1" >May 13, 2002</DATE>
+
+<NAME start="203" local_name_id="3" end="205" id="120261_13" all_names="CT" >Ct</NAME>
+
+<RELATION theme="120261_2" party1="120261_3" party1_string="ZANTOP INTERNATIONAL AIRLINES, INC." theme_string="ZANTOP INTERNATIONAL AIRLINES, INC. v. MICHIGAN DEPARTMENT OF TREASURY, REVENUE DIVISION" gram_type="infix" relation_type="asymmetric" id="120261_6" ></RELATION>
+
+<RELATION party2="120261_4" theme="120261_2" theme_string="ZANTOP INTERNATIONAL AIRLINES, INC. v. MICHIGAN DEPARTMENT OF TREASURY, REVENUE DIVISION" party2_string="MICHIGAN DEPARTMENT OF TREASURY, REVENUE DIVISION" gram_type="infix" relation_type="asymmetric" id="120261_7" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1054" X_vs_Y_string="ZANTOP INTERNATIONAL AIRLINES, INC. v. MICHIGAN DEPARTMENT OF TREASURY, REVENUE DIVISION" standard_case="120261_1" X_vs_Y="120261_2" gram_type="multi_line" relation_type="equivalence" id="120261_10" ></RELATION>
+
+<RELATION at_date_string="May 13, 2002" theme="120261_2" at_date="120261_9" theme_string="ZANTOP INTERNATIONAL AIRLINES, INC. v. MICHIGAN DEPARTMENT OF TREASURY, REVENUE DIVISION" gram_type="multi_line" relation_type="asymmetric" id="120261_12" ></RELATION>
+
+<RELATION theme="120261_2" includes_docket_string="01-1284" includes_docket="120261_8" theme_string="ZANTOP INTERNATIONAL AIRLINES, INC. v. MICHIGAN DEPARTMENT OF TREASURY, REVENUE DIVISION" gram_type="multi_line" relation_type="asymmetric" id="120261_11" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['brownservice#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_912" id1="143057" volume="544" start="0" page_number="912" standard_reporter="U.S." citation_global_level_id="6815.002" line="1" id="143058_1" citation_local_level_id="0" >544 U.S. 912</CITATION>
+
+<CITATION party2="INTERNAL REVENUE SERVICE ET AL" party1="BROWN" citation_global_level_id="63002.001" party2_short="SERVICE" line="2" id="143058_2" alternative_keys="['u.s._544_912']" end="56" entry_type="party_key" lookup_key="brownservice#2" id1="143058" start="17" party1_short="BROWN" citation_local_level_id="1" >BROWN v. INTERNAL REVENUE SERVICE ET AL</CITATION>
+
+<NAME end="22" start="17" party1_of="143058_2" all_names="BROWN" local_name_id="1" id="143058_3" >BROWN</NAME>
+
+<NAME end="56" start="26" all_names="INTERNAL REVENUE SERVICE" party2_of="143058_2" local_name_id="2" id="143058_4" >INTERNAL REVENUE SERVICE ET AL</NAME>
+
+<DOCKET end="73" entry_type="docket" lookup_key="brownservice#2" id1="143058" start="66" citation_global_level_id="63002.001" line="3" id="143058_7" citation_local_level_id="1" >04-8472</DOCKET>
+
+<ORGANIZATION start="79" end="109" id="143058_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="115" citation_global_level_id="63002.001" end="128" id="143058_9" citation_local_level_id="1" >March 7, 2005</DATE>
+
+<NAME start="160" local_name_id="3" end="163" id="143058_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="143058_2" party1="143058_3" party1_string="BROWN" theme_string="BROWN v. INTERNAL REVENUE SERVICE ET AL" gram_type="infix" relation_type="asymmetric" id="143058_5" ></RELATION>
+
+<RELATION party2="143058_4" theme="143058_2" theme_string="BROWN v. INTERNAL REVENUE SERVICE ET AL" party2_string="INTERNAL REVENUE SERVICE ET AL" gram_type="infix" relation_type="asymmetric" id="143058_6" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 912" X_vs_Y_string="BROWN v. INTERNAL REVENUE SERVICE ET AL" standard_case="143058_1" X_vs_Y="143058_2" gram_type="multi_line" relation_type="equivalence" id="143058_10" ></RELATION>
+
+<RELATION at_date_string="March 7, 2005" theme="143058_2" at_date="143058_9" theme_string="BROWN v. INTERNAL REVENUE SERVICE ET AL" gram_type="multi_line" relation_type="asymmetric" id="143058_12" ></RELATION>
+
+<RELATION theme="143058_2" includes_docket_string="04-8472" includes_docket="143058_7" theme_string="BROWN v. INTERNAL REVENUE SERVICE ET AL" gram_type="multi_line" relation_type="asymmetric" id="143058_11" ></RELATION>
+

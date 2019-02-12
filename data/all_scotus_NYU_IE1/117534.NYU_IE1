@@ -1,0 +1,38 @@
+<CITATION alternative_keys="['airlinesnorris#4']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1189" id1="117533" volume="510" start="0" page_number="1189" standard_reporter="U.S." citation_global_level_id="1616.002" line="1" id="117534_1" citation_local_level_id="0" >510 U.S. 1189</CITATION>
+
+<CITATION party2="Norris" party1="Hawaiian Airlines, Inc." citation_global_level_id="46625.001" party2_short="Norris" line="1" id="117534_3" alternative_keys="['u.s._510_1189']" end="51" entry_type="party_key" lookup_key="airlinesnorris#4" id1="112961" start="18" party1_short="Airlines" citation_local_level_id="1" >Hawaiian Airlines, Inc. v. Norris</CITATION>
+
+<NAME end="41" start="18" party1_of="117534_3" all_names="HAWAIIAN AIRLINES INC" local_name_id="1" id="117534_5" >Hawaiian Airlines, Inc.</NAME>
+
+<ORGANIZATION start="18" end="40" id="117534_11" >Hawaiian Airlines, Inc</ORGANIZATION>
+
+<NAME end="51" start="45" all_names="NORRIS" party2_of="117534_3" local_name_id="2" id="117534_6" >Norris</NAME>
+
+<CITATION party2="Norris" party1="Finazzo et al." citation_global_level_id="70036.001" party2_short="Norris" line="1" id="117534_4" end="81" no_current_file="True" entry_type="party_key" lookup_key="finazzonorris#1" id1="Dummy_File_6186" start="57" party1_short="Finazzo" citation_local_level_id="2" >Finazzo et al. v. Norris</CITATION>
+
+<NAME end="71" start="57" party1_of="117534_4" all_names="FINAZZO" local_name_id="3" id="117534_7" >Finazzo et al.</NAME>
+
+<NAME end="81" start="75" all_names="NORRIS" party2_of="117534_4" local_name_id="2" id="117534_8" >Norris</NAME>
+
+<DOCKET end="98" no_current_file="True" entry_type="docket" lookup_key="finazzonorris#1" id1="Dummy_File_6186" start="91" citation_global_level_id="70036.001" line="1" id="117534_2" citation_local_level_id="2" >92-2058</DOCKET>
+
+<DATE start="94" end="98" id="117534_9" >2058</DATE>
+
+<DATE start="140" end="154" id="117534_10" >March 21, 1994</DATE>
+
+<PROFESSION start="268" end="299" id="117534_19" >Motion of the Solicitor General</PROFESSION>
+
+<RELATION standard_case_string="510 U.S. 1189" X_vs_Y_string="Hawaiian Airlines, Inc. v. Norris" standard_case="117534_1" X_vs_Y="117534_3" gram_type="pre_nom" relation_type="equivalence" id="117534_12" ></RELATION>
+
+<RELATION theme="117534_3" party1="117534_5" party1_string="Hawaiian Airlines, Inc." theme_string="Hawaiian Airlines, Inc. v. Norris" gram_type="infix" relation_type="asymmetric" id="117534_13" ></RELATION>
+
+<RELATION party2="117534_6" theme="117534_3" theme_string="Hawaiian Airlines, Inc. v. Norris" party2_string="Norris" gram_type="infix" relation_type="asymmetric" id="117534_14" ></RELATION>
+
+<RELATION theme="117534_4" includes_docket_string="92-2058" includes_docket="117534_2" theme_string="Finazzo et al. v. Norris" gram_type="apposition" relation_type="asymmetric" id="117534_17" ></RELATION>
+
+<RELATION theme="117534_4" party1="117534_7" party1_string="Finazzo et al." theme_string="Finazzo et al. v. Norris" gram_type="infix" relation_type="asymmetric" id="117534_15" ></RELATION>
+
+<RELATION party2="117534_8" theme="117534_4" theme_string="Finazzo et al. v. Norris" party2_string="Norris" gram_type="infix" relation_type="asymmetric" id="117534_16" ></RELATION>
+
+<RELATION at_date_string="2058" theme="117534_2" at_date="117534_9" theme_string="92-2058" gram_type="infix" relation_type="asymmetric" id="117534_18" ></RELATION>
+

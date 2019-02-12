@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['goodwindepartment#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_817" id1="113079" volume="510" start="0" page_number="817" standard_reporter="U.S." citation_global_level_id="5251.002" line="1" id="113079_1" citation_local_level_id="0" >510 U.S. 817</CITATION>
+
+<CITATION party2="Department of the Treasury" party1="Goodwin" citation_global_level_id="5251.001" party2_short="Department" line="1" id="113079_3" alternative_keys="['u.s._510_817']" end="54" entry_type="party_key" lookup_key="goodwindepartment#1" id1="113079" start="17" party1_short="Goodwin" citation_local_level_id="1" >Goodwin v. Department of the Treasury</CITATION>
+
+<NAME end="24" start="17" party1_of="113079_3" all_names="GOODWIN" local_name_id="1" id="113079_4" >Goodwin</NAME>
+
+<NAME end="54" start="28" all_names="DEPARTMENT OF THE TREASURY" party2_of="113079_3" local_name_id="2" id="113079_5" >Department of the Treasury</NAME>
+
+<DOCKET end="71" entry_type="docket" lookup_key="u.s._510_817" id1="113079" start="64" citation_global_level_id="5251.002" line="1" id="113079_2" citation_local_level_id="0" >92-1866</DOCKET>
+
+<DATE start="67" end="71" id="113079_6" >1866</DATE>
+
+<DATE start="113" end="128" id="113079_7" >October 4, 1993</DATE>
+
+<NAME start="207" local_name_id="3" end="217" id="113079_15" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="255" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_983_226" id1="Dummy_File_237115" volume="983" start="242" page_number="226" standard_reporter="F.2D" citation_global_level_id="300965.001" line="3" id="113079_14" citation_local_level_id="2" >983 F. 2d 226</CITATION>
+
+<RELATION theme="113079_1" includes_docket_string="92-1866" includes_docket="113079_2" theme_string="510 U.S. 817" gram_type="apposition" relation_type="asymmetric" id="113079_12" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 817" X_vs_Y_string="Goodwin v. Department of the Treasury" standard_case="113079_1" X_vs_Y="113079_3" gram_type="pre_nom" relation_type="equivalence" id="113079_8" ></RELATION>
+
+<RELATION theme="113079_3" includes_docket_string="92-1866" includes_docket="113079_2" theme_string="Goodwin v. Department of the Treasury" gram_type="apposition" relation_type="asymmetric" id="113079_11" ></RELATION>
+
+<RELATION party2="113079_5" theme="113079_3" theme_string="Goodwin v. Department of the Treasury" party2_string="Department of the Treasury" gram_type="infix" relation_type="asymmetric" id="113079_10" ></RELATION>
+
+<RELATION theme="113079_3" party1="113079_4" party1_string="Goodwin" theme_string="Goodwin v. Department of the Treasury" gram_type="infix" relation_type="asymmetric" id="113079_9" ></RELATION>
+
+<RELATION at_date_string="1866" theme="113079_2" at_date="113079_6" theme_string="92-1866" gram_type="infix" relation_type="asymmetric" id="113079_13" ></RELATION>
+

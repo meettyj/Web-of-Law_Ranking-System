@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['kingkemna#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_934" id1="118779" volume="535" start="0" page_number="934" standard_reporter="U.S." citation_global_level_id="1478.002" line="3" id="118778_2" citation_local_level_id="0" >535 U.S. 934</CITATION>
+
+<CITATION party2="KEMNA, SUPERINTENDENT, CROSSROADS CORRECTIONAL CENTER" party1="KING" citation_global_level_id="1478.006" party2_short="KEMNA" line="3" id="118778_4" alternative_keys="['f.3d_266_816', 'u.s._535_934']" end="78" no_current_file="True" entry_type="party_key" lookup_key="kingkemna#1" id1="118779" start="17" party1_short="KING" citation_local_level_id="1" >KING v. KEMNA, SUPERINTENDENT, CROSSROADS CORRECTIONAL CENTER</CITATION>
+
+<NAME end="21" start="17" party1_of="118778_4" all_names="KING" local_name_id="1" id="118778_5" >KING</NAME>
+
+<NAME end="78" start="25" all_names="KEMNA SUPERINTENDENT CROSSROADS CORRECTIONAL CENTER" party2_of="118778_4" local_name_id="2" id="118778_6" >KEMNA, SUPERINTENDENT, CROSSROADS CORRECTIONAL CENTER</NAME>
+
+<DOCKET end="95" entry_type="docket" lookup_key="u.s._535_934" id1="118779" start="88" citation_global_level_id="1478.002" line="3" id="118778_3" citation_local_level_id="0" >01-7548</DOCKET>
+
+<DATE start="141" citation_global_level_id="1478.006" end="155" id="118778_12" citation_local_level_id="1" >March 18, 2002</DATE>
+
+<NAME start="187" local_name_id="3" end="190" id="118778_15" all_names="CIR" >Cir</NAME>
+
+<CITATION alternative_keys="['kingkemna#1']" end="240" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_266_816" id1="Dummy_File_143636" volume="266" start="227" page_number="816" standard_reporter="F.3D" citation_global_level_id="207486.003" line="8" id="118778_14" citation_local_level_id="2" >266 F. 3d 816</CITATION>
+
+<RELATION theme="118778_2" includes_docket_string="01-7548" includes_docket="118778_3" theme_string="535 U.S. 934" gram_type="apposition" relation_type="asymmetric" id="118778_11" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 934" X_vs_Y_string="KING v. KEMNA, SUPERINTENDENT, CROSSROADS CORRECTIONAL CENTER" standard_case="118778_2" X_vs_Y="118778_4" gram_type="pre_nom" relation_type="equivalence" id="118778_7" ></RELATION>
+
+<RELATION theme="118778_4" includes_docket_string="01-7548" includes_docket="118778_3" theme_string="KING v. KEMNA, SUPERINTENDENT, CROSSROADS CORRECTIONAL CENTER" gram_type="apposition" relation_type="asymmetric" id="118778_10" ></RELATION>
+
+<RELATION theme="118778_4" party1="118778_5" party1_string="KING" theme_string="KING v. KEMNA, SUPERINTENDENT, CROSSROADS CORRECTIONAL CENTER" gram_type="infix" relation_type="asymmetric" id="118778_8" ></RELATION>
+
+<RELATION party2="118778_6" theme="118778_4" theme_string="KING v. KEMNA, SUPERINTENDENT, CROSSROADS CORRECTIONAL CENTER" party2_string="KEMNA, SUPERINTENDENT, CROSSROADS CORRECTIONAL CENTER" gram_type="infix" relation_type="asymmetric" id="118778_9" ></RELATION>
+
+<RELATION at_date_string="March 18, 2002" theme="118778_4" at_date="118778_12" theme_string="KING v. KEMNA, SUPERINTENDENT, CROSSROADS CORRECTIONAL CENTER" gram_type="multi_line" relation_type="asymmetric" id="118778_13" ></RELATION>
+

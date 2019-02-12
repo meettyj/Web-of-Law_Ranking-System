@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['houstonstates#6']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_900" id1="123526" volume="537" start="0" page_number="900" standard_reporter="U.S." citation_global_level_id="7875.002" line="1" id="123537_1" citation_local_level_id="0" >537 U.S. 900</CITATION>
+
+<CITATION party2="UNITED STATES" party1="HOUSTON" citation_global_level_id="59528.001" party2_short="STATES" line="1" id="123537_3" alternative_keys="['u.s._537_900']" end="41" entry_type="party_key" lookup_key="houstonstates#6" id1="141798" start="17" party1_short="HOUSTON" citation_local_level_id="1" >HOUSTON v. UNITED STATES</CITATION>
+
+<NAME end="24" start="17" party1_of="123537_3" all_names="HOUSTON" local_name_id="1" id="123537_4" >HOUSTON</NAME>
+
+<NAME end="41" start="28" all_names="UNITED STATES" party2_of="123537_3" local_name_id="2" id="123537_5" >UNITED STATES</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._537_900" id1="123526" start="51" citation_global_level_id="7875.002" line="1" id="123537_2" citation_local_level_id="0" >02-5197</DOCKET>
+
+<DATE start="100" end="115" id="123537_6" >October 7, 2002</DATE>
+
+<NAME start="244" local_name_id="3" end="247" id="123537_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="123537_1" includes_docket_string="02-5197" includes_docket="123537_2" theme_string="537 U.S. 900" gram_type="apposition" relation_type="asymmetric" id="123537_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 900" X_vs_Y_string="HOUSTON v. UNITED STATES" standard_case="123537_1" X_vs_Y="123537_3" gram_type="pre_nom" relation_type="equivalence" id="123537_7" ></RELATION>
+
+<RELATION theme="123537_3" includes_docket_string="02-5197" includes_docket="123537_2" theme_string="HOUSTON v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="123537_10" ></RELATION>
+
+<RELATION theme="123537_3" party1="123537_4" party1_string="HOUSTON" theme_string="HOUSTON v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="123537_8" ></RELATION>
+
+<RELATION party2="123537_5" theme="123537_3" theme_string="HOUSTON v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="123537_9" ></RELATION>
+

@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['drugpharmaceuticals#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_939" id1="139557" volume="543" start="0" page_number="939" standard_reporter="U.S." citation_global_level_id="3878.002" line="1" id="139566_1" citation_local_level_id="0" >543 U.S. 939</CITATION>
+
+<CITATION party2="GENEVA PHARMACEUTICALS, INC" party1="VALLEY DRUG CO. ET AL." citation_global_level_id="12840.001" party2_short="PHARMACEUTICALS" line="2" id="139566_2" alternative_keys="['u.s._543_939']" end="70" entry_type="party_key" lookup_key="drugpharmaceuticals#1" id1="139566" start="17" party1_short="DRUG" citation_local_level_id="1" >VALLEY DRUG CO. ET AL. v. GENEVA PHARMACEUTICALS, INC</CITATION>
+
+<NAME end="39" start="17" party1_of="139566_2" all_names="VALLEY DRUG CO" local_name_id="1" id="139566_3" >VALLEY DRUG CO. ET AL.</NAME>
+
+<NAME start="17" local_name_id="1" end="38" id="139566_5" all_names="VALLEY DRUG CO" >VALLEY DRUG CO. ET AL</NAME>
+
+<ORGANIZATION start="29" end="31" id="139566_6" >CO</ORGANIZATION>
+
+<NAME end="70" start="43" all_names="GENEVA PHARMACEUTICALS INC" party2_of="139566_2" local_name_id="2" id="139566_4" >GENEVA PHARMACEUTICALS, INC</NAME>
+
+<DOCKET end="87" entry_type="docket" lookup_key="drugpharmaceuticals#1" id1="139566" start="80" citation_global_level_id="12840.001" line="3" id="139566_9" citation_local_level_id="1" >03-1175</DOCKET>
+
+<ORGANIZATION start="93" end="123" id="139566_10" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="129" citation_global_level_id="12840.001" end="145" id="139566_11" citation_local_level_id="1" >October 12, 2004</DATE>
+
+<NAME start="178" local_name_id="3" end="181" id="139566_16" all_names="CIR" >Cir</NAME>
+
+<CITATION alternative_keys="['drugpharmaceuticals#1']" end="315" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_344_1294" id1="139566" volume="344" start="301" page_number="1294" standard_reporter="F.3D" citation_global_level_id="12840.002" line="8" id="139566_15" citation_local_level_id="2" >344 F. 3d 1294</CITATION>
+
+<RELATION theme="139566_2" party1="139566_3" party1_string="VALLEY DRUG CO. ET AL." theme_string="VALLEY DRUG CO. ET AL. v. GENEVA PHARMACEUTICALS, INC" gram_type="infix" relation_type="asymmetric" id="139566_7" ></RELATION>
+
+<RELATION party2="139566_4" theme="139566_2" theme_string="VALLEY DRUG CO. ET AL. v. GENEVA PHARMACEUTICALS, INC" party2_string="GENEVA PHARMACEUTICALS, INC" gram_type="infix" relation_type="asymmetric" id="139566_8" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 939" X_vs_Y_string="VALLEY DRUG CO. ET AL. v. GENEVA PHARMACEUTICALS, INC" standard_case="139566_1" X_vs_Y="139566_2" gram_type="multi_line" relation_type="equivalence" id="139566_12" ></RELATION>
+
+<RELATION at_date_string="October 12, 2004" theme="139566_2" at_date="139566_11" theme_string="VALLEY DRUG CO. ET AL. v. GENEVA PHARMACEUTICALS, INC" gram_type="multi_line" relation_type="asymmetric" id="139566_14" ></RELATION>
+
+<RELATION theme="139566_2" includes_docket_string="03-1175" includes_docket="139566_9" theme_string="VALLEY DRUG CO. ET AL. v. GENEVA PHARMACEUTICALS, INC" gram_type="multi_line" relation_type="asymmetric" id="139566_13" ></RELATION>
+

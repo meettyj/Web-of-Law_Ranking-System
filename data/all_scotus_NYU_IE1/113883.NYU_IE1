@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['alcalacalifornia#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_877" id1="113880" volume="510" start="0" page_number="877" standard_reporter="U.S." citation_global_level_id="11801.002" line="1" id="113883_1" citation_local_level_id="0" >510 U.S. 877</CITATION>
+
+<CITATION party2="California" party1="Alcala" citation_global_level_id="44328.001" party2_short="California" line="1" id="113883_3" alternative_keys="['u.s._510_877']" end="37" entry_type="party_key" lookup_key="alcalacalifornia#1" id1="113883" start="17" party1_short="Alcala" citation_local_level_id="1" >Alcala v. California</CITATION>
+
+<NAME end="23" start="17" party1_of="113883_3" all_names="ALCALA" local_name_id="1" id="113883_4" >Alcala</NAME>
+
+<NAME end="37" start="27" all_names="CALIFORNIA" party2_of="113883_3" local_name_id="2" id="113883_5" >California</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="u.s._510_877" id1="113880" start="47" citation_global_level_id="11801.002" line="1" id="113883_2" citation_local_level_id="0" >93-5130</DOCKET>
+
+<DATE start="96" end="111" id="113883_6" >October 4, 1993</DATE>
+
+<NAME start="188" local_name_id="3" end="198" id="113883_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="253" reporter="P. 2d" entry_type="standard_key" no_current_file="True" lookup_key="p.2d_842_1192" id1="Dummy_File_194135" volume="842" start="239" page_number="1192" standard_reporter="P.2D" citation_global_level_id="257985.001" line="3" id="113883_12" citation_local_level_id="2" >842 P. 2d 1192</CITATION>
+
+<RELATION theme="113883_1" includes_docket_string="93-5130" includes_docket="113883_2" theme_string="510 U.S. 877" gram_type="apposition" relation_type="asymmetric" id="113883_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 877" X_vs_Y_string="Alcala v. California" standard_case="113883_1" X_vs_Y="113883_3" gram_type="pre_nom" relation_type="equivalence" id="113883_7" ></RELATION>
+
+<RELATION theme="113883_3" includes_docket_string="93-5130" includes_docket="113883_2" theme_string="Alcala v. California" gram_type="apposition" relation_type="asymmetric" id="113883_10" ></RELATION>
+
+<RELATION theme="113883_3" party1="113883_4" party1_string="Alcala" theme_string="Alcala v. California" gram_type="infix" relation_type="asymmetric" id="113883_8" ></RELATION>
+
+<RELATION party2="113883_5" theme="113883_3" theme_string="Alcala v. California" party2_string="California" gram_type="infix" relation_type="asymmetric" id="113883_9" ></RELATION>
+

@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['systemstelegenix#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1058" id1="129962" volume="538" start="0" page_number="1058" standard_reporter="U.S." citation_global_level_id="2124.002" line="1" id="129965_1" citation_local_level_id="0" >538 U.S. 1058</CITATION>
+
+<CITATION party2="TELEGENIX, INC" party1="TEXAS DIGITAL SYSTEMS, INC." citation_global_level_id="31306.001" party2_short="TELEGENIX" line="1" id="129965_3" alternative_keys="['u.s._538_1058']" end="63" entry_type="party_key" lookup_key="systemstelegenix#1" id1="129965" start="18" party1_short="SYSTEMS" citation_local_level_id="1" >TEXAS DIGITAL SYSTEMS, INC. v. TELEGENIX, INC</CITATION>
+
+<NAME end="45" start="18" party1_of="129965_3" all_names="TEXAS DIGITAL SYSTEMS INC" local_name_id="1" id="129965_4" >TEXAS DIGITAL SYSTEMS, INC.</NAME>
+
+<ORGANIZATION start="18" end="44" id="129965_7" >TEXAS DIGITAL SYSTEMS, INC</ORGANIZATION>
+
+<NAME end="63" start="49" all_names="TELEGENIX INC" party2_of="129965_3" local_name_id="2" id="129965_5" >TELEGENIX, INC</NAME>
+
+<DOCKET end="80" entry_type="docket" lookup_key="u.s._538_1058" id1="129962" start="73" citation_global_level_id="2124.002" line="1" id="129965_2" citation_local_level_id="0" >02-1484</DOCKET>
+
+<DATE start="122" end="134" id="129965_6" >May 27, 2003</DATE>
+
+<NAME start="255" local_name_id="3" end="263" id="129965_14" all_names="CA FED" >C.A. Fed</NAME>
+
+<NAME start="265" local_name_id="4" end="268" id="129965_15" all_names="CIR" >Cir</NAME>
+
+<CITATION end="318" reporter="F.3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_308_1193" id1="Dummy_File_168527" volume="308" start="305" page_number="1193" standard_reporter="F.3D" citation_global_level_id="232377.001" line="3" id="129965_13" citation_local_level_id="2" >308 F.3d 1193</CITATION>
+
+<RELATION theme="129965_1" includes_docket_string="02-1484" includes_docket="129965_2" theme_string="538 U.S. 1058" gram_type="apposition" relation_type="asymmetric" id="129965_12" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1058" X_vs_Y_string="TEXAS DIGITAL SYSTEMS, INC. v. TELEGENIX, INC" standard_case="129965_1" X_vs_Y="129965_3" gram_type="pre_nom" relation_type="equivalence" id="129965_8" ></RELATION>
+
+<RELATION theme="129965_3" includes_docket_string="02-1484" includes_docket="129965_2" theme_string="TEXAS DIGITAL SYSTEMS, INC. v. TELEGENIX, INC" gram_type="apposition" relation_type="asymmetric" id="129965_11" ></RELATION>
+
+<RELATION party2="129965_5" theme="129965_3" theme_string="TEXAS DIGITAL SYSTEMS, INC. v. TELEGENIX, INC" party2_string="TELEGENIX, INC" gram_type="infix" relation_type="asymmetric" id="129965_10" ></RELATION>
+
+<RELATION theme="129965_3" party1="129965_4" party1_string="TEXAS DIGITAL SYSTEMS, INC." theme_string="TEXAS DIGITAL SYSTEMS, INC. v. TELEGENIX, INC" gram_type="infix" relation_type="asymmetric" id="129965_9" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['moonwarden#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1245" id1="127882" volume="537" start="0" page_number="1245" standard_reporter="U.S." citation_global_level_id="2425.002" line="1" id="127876_1" citation_local_level_id="0" >537 U.S. 1245</CITATION>
+
+<CITATION party2="HEAD, WARDEN" party1="MOON" citation_global_level_id="41537.001" party2_short="WARDEN" line="2" id="127876_2" alternative_keys="['u.s._537_1245']" end="38" entry_type="party_key" lookup_key="moonwarden#1" id1="126374" start="18" party1_short="MOON" citation_local_level_id="1" >MOON v. HEAD, WARDEN</CITATION>
+
+<NAME end="22" start="18" party1_of="127876_2" all_names="MOON" local_name_id="1" id="127876_3" >MOON</NAME>
+
+<NAME end="38" start="26" all_names="HEAD WARDEN" party2_of="127876_2" local_name_id="2" id="127876_4" >HEAD, WARDEN</NAME>
+
+<DOCKET end="70" entry_type="docket" lookup_key="moonwarden#1" id1="126374" start="63" citation_global_level_id="41537.001" line="3" id="127876_7" citation_local_level_id="1" >02-7260</DOCKET>
+
+<ORGANIZATION start="76" end="106" id="127876_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="112" citation_global_level_id="41537.001" end="125" id="127876_9" citation_local_level_id="1" >March 3, 2003</DATE>
+
+<NAME start="147" local_name_id="3" end="155" id="127876_13" all_names="PETITION" >Petition</NAME>
+
+<RELATION theme="127876_2" party1="127876_3" party1_string="MOON" theme_string="MOON v. HEAD, WARDEN" gram_type="infix" relation_type="asymmetric" id="127876_5" ></RELATION>
+
+<RELATION party2="127876_4" theme="127876_2" theme_string="MOON v. HEAD, WARDEN" party2_string="HEAD, WARDEN" gram_type="infix" relation_type="asymmetric" id="127876_6" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1245" X_vs_Y_string="MOON v. HEAD, WARDEN" standard_case="127876_1" X_vs_Y="127876_2" gram_type="multi_line" relation_type="equivalence" id="127876_10" ></RELATION>
+
+<RELATION at_date_string="March 3, 2003" theme="127876_2" at_date="127876_9" theme_string="MOON v. HEAD, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="127876_12" ></RELATION>
+
+<RELATION theme="127876_2" includes_docket_string="02-7260" includes_docket="127876_7" theme_string="MOON v. HEAD, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="127876_11" ></RELATION>
+

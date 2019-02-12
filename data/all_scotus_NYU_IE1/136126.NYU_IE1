@@ -1,0 +1,58 @@
+<CITATION alternative_keys="['nolascostates#1', 'hernandezstates#8', 'belasquezstates#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_1031" id1="136126" volume="541" start="0" page_number="1031" standard_reporter="U.S." citation_global_level_id="16889.002" line="1" id="136126_1" citation_local_level_id="0" >541 U.S. 1031</CITATION>
+
+<CITATION party2="UNITED STATES" party1="CAMPOS-BELASQUEZ" citation_global_level_id="16889.005" party2_short="STATES" line="2" id="136126_2" alternative_keys="['nolascostates#1', 'hernandezstates#8', 'u.s._541_1031']" end="51" entry_type="party_key" lookup_key="belasquezstates#1" id1="136126" start="18" party1_short="BELASQUEZ" citation_local_level_id="1" >CAMPOS-BELASQUEZ v. UNITED STATES</CITATION>
+
+<NAME end="34" start="18" party1_of="136126_2" all_names="CAMPOS-BELASQUEZ" local_name_id="1" id="136126_5" >CAMPOS-BELASQUEZ</NAME>
+
+<NAME end="51" start="38" all_names="UNITED STATES" party2_of="136126_2" local_name_id="2" id="136126_6" >UNITED STATES</NAME>
+
+<CITATION party2="UNITED STATES" party1="CARAPIA-HERNANDEZ" citation_global_level_id="3320.001" party2_short="STATES" line="2" id="136126_3" alternative_keys="['u.s._541_1031', 'belasquezstates#1', 'nolascostates#1']" end="87" entry_type="party_key" lookup_key="hernandezstates#8" id1="133643" start="53" party1_short="HERNANDEZ" citation_local_level_id="2" >CARAPIA-HERNANDEZ v. UNITED STATES</CITATION>
+
+<NAME end="70" start="53" party1_of="136126_3" all_names="CARAPIA-HERNANDEZ" local_name_id="3" id="136126_7" >CARAPIA-HERNANDEZ</NAME>
+
+<NAME end="87" start="74" all_names="UNITED STATES" party2_of="136126_3" local_name_id="2" id="136126_8" >UNITED STATES</NAME>
+
+<CITATION party2="UNITED STATES" party1="NOLASCO" citation_global_level_id="16889.004" party2_short="STATES" line="2" id="136126_4" alternative_keys="['hernandezstates#8', 'belasquezstates#1', 'u.s._541_1031']" end="113" entry_type="party_key" lookup_key="nolascostates#1" id1="136126" start="89" party1_short="NOLASCO" citation_local_level_id="3" >NOLASCO v. UNITED STATES</CITATION>
+
+<NAME end="96" start="89" party1_of="136126_4" all_names="NOLASCO" local_name_id="4" id="136126_9" >NOLASCO</NAME>
+
+<NAME end="113" start="100" all_names="UNITED STATES" party2_of="136126_4" local_name_id="2" id="136126_10" >UNITED STATES</NAME>
+
+<DOCKET alternative_keys="['nolascostates#1', 'hernandezstates#8', 'u.s._541_1031']" end="130" entry_type="docket" lookup_key="belasquezstates#1" id1="136126" start="123" citation_global_level_id="16889.005" line="3" id="136126_17" citation_local_level_id="1" >03-8709</DOCKET>
+
+<ORGANIZATION start="136" end="166" id="136126_18" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="172" citation_global_level_id="16889.005" end="183" id="136126_19" citation_local_level_id="1" >May 3, 2004</DATE>
+
+<NAME start="215" local_name_id="5" end="218" id="136126_29" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="136126_2" party1="136126_5" party1_string="CAMPOS-BELASQUEZ" theme_string="CAMPOS-BELASQUEZ v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="136126_11" ></RELATION>
+
+<RELATION party2="136126_6" theme="136126_2" theme_string="CAMPOS-BELASQUEZ v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="136126_12" ></RELATION>
+
+<RELATION theme="136126_3" party1="136126_7" party1_string="CARAPIA-HERNANDEZ" theme_string="CARAPIA-HERNANDEZ v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="136126_13" ></RELATION>
+
+<RELATION party2="136126_8" theme="136126_3" theme_string="CARAPIA-HERNANDEZ v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="136126_14" ></RELATION>
+
+<RELATION theme="136126_4" party1="136126_9" party1_string="NOLASCO" theme_string="NOLASCO v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="136126_15" ></RELATION>
+
+<RELATION party2="136126_10" theme="136126_4" theme_string="NOLASCO v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="136126_16" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 1031" X_vs_Y_string="NOLASCO v. UNITED STATES" standard_case="136126_1" X_vs_Y="136126_4" gram_type="multi_line" relation_type="equivalence" id="136126_26" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 1031" X_vs_Y_string="CARAPIA-HERNANDEZ v. UNITED STATES" standard_case="136126_1" X_vs_Y="136126_3" gram_type="multi_line" relation_type="equivalence" id="136126_23" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 1031" X_vs_Y_string="CAMPOS-BELASQUEZ v. UNITED STATES" standard_case="136126_1" X_vs_Y="136126_2" gram_type="multi_line" relation_type="equivalence" id="136126_20" ></RELATION>
+
+<RELATION at_date_string="May 3, 2004" theme="136126_2" at_date="136126_19" theme_string="CAMPOS-BELASQUEZ v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="136126_22" ></RELATION>
+
+<RELATION theme="136126_2" includes_docket_string="03-8709" includes_docket="136126_17" theme_string="CAMPOS-BELASQUEZ v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="136126_21" ></RELATION>
+
+<RELATION at_date_string="May 3, 2004" theme="136126_3" at_date="136126_19" theme_string="CARAPIA-HERNANDEZ v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="136126_25" ></RELATION>
+
+<RELATION theme="136126_3" includes_docket_string="03-8709" includes_docket="136126_17" theme_string="CARAPIA-HERNANDEZ v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="136126_24" ></RELATION>
+
+<RELATION at_date_string="May 3, 2004" theme="136126_4" at_date="136126_19" theme_string="NOLASCO v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="136126_28" ></RELATION>
+
+<RELATION theme="136126_4" includes_docket_string="03-8709" includes_docket="136126_17" theme_string="NOLASCO v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="136126_27" ></RELATION>
+

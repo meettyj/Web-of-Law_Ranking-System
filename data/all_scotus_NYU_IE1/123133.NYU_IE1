@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['putmanwarden#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_870" id1="123130" volume="537" start="0" page_number="870" standard_reporter="U.S." citation_global_level_id="1206.002" line="1" id="123133_1" citation_local_level_id="0" >537 U.S. 870</CITATION>
+
+<CITATION party2="HEAD, WARDEN" party1="PUTMAN" citation_global_level_id="59567.001" party2_short="WARDEN" line="1" id="123133_3" alternative_keys="['u.s._537_870']" end="39" entry_type="party_key" lookup_key="putmanwarden#1" id1="123133" start="17" party1_short="PUTMAN" citation_local_level_id="1" >PUTMAN v. HEAD, WARDEN</CITATION>
+
+<NAME end="23" start="17" party1_of="123133_3" all_names="PUTMAN" local_name_id="1" id="123133_4" >PUTMAN</NAME>
+
+<NAME end="39" start="27" all_names="HEAD WARDEN" party2_of="123133_3" local_name_id="2" id="123133_5" >HEAD, WARDEN</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._537_870" id1="123130" start="49" citation_global_level_id="1206.002" line="1" id="123133_2" citation_local_level_id="0" >01-10914</DOCKET>
+
+<DATE start="99" end="114" id="123133_6" >October 7, 2002</DATE>
+
+<NAME start="247" local_name_id="3" end="250" id="123133_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="301" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_268_1223" id1="Dummy_File_121283" volume="268" start="287" page_number="1223" standard_reporter="F.3D" citation_global_level_id="185133.001" line="3" id="123133_12" citation_local_level_id="2" >268 F. 3d 1223</CITATION>
+
+<RELATION theme="123133_1" includes_docket_string="01-10914" includes_docket="123133_2" theme_string="537 U.S. 870" gram_type="apposition" relation_type="asymmetric" id="123133_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 870" X_vs_Y_string="PUTMAN v. HEAD, WARDEN" standard_case="123133_1" X_vs_Y="123133_3" gram_type="pre_nom" relation_type="equivalence" id="123133_7" ></RELATION>
+
+<RELATION theme="123133_3" includes_docket_string="01-10914" includes_docket="123133_2" theme_string="PUTMAN v. HEAD, WARDEN" gram_type="apposition" relation_type="asymmetric" id="123133_10" ></RELATION>
+
+<RELATION theme="123133_3" party1="123133_4" party1_string="PUTMAN" theme_string="PUTMAN v. HEAD, WARDEN" gram_type="infix" relation_type="asymmetric" id="123133_8" ></RELATION>
+
+<RELATION party2="123133_5" theme="123133_3" theme_string="PUTMAN v. HEAD, WARDEN" party2_string="HEAD, WARDEN" gram_type="infix" relation_type="asymmetric" id="123133_9" ></RELATION>
+

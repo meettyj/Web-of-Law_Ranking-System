@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['samplevirginia#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_908" id1="142995" volume="544" start="0" page_number="908" standard_reporter="U.S." citation_global_level_id="244.002" line="1" id="142991_1" citation_local_level_id="0" >544 U.S. 908</CITATION>
+
+<CITATION party2="VIRGINIA" party1="SAMPLE" citation_global_level_id="4513.001" party2_short="VIRGINIA" line="2" id="142991_3" alternative_keys="['u.s._544_908']" end="35" entry_type="party_key" lookup_key="samplevirginia#1" id1="142991" start="17" party1_short="SAMPLE" citation_local_level_id="1" >SAMPLE v. VIRGINIA</CITATION>
+
+<NAME end="23" start="17" party1_of="142991_3" all_names="SAMPLE" local_name_id="1" id="142991_4" >SAMPLE</NAME>
+
+<NAME end="35" start="27" all_names="VIRGINIA" party2_of="142991_3" local_name_id="2" id="142991_5" >VIRGINIA</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="samplevirginia#1" id1="142991" start="45" citation_global_level_id="4513.001" line="2" id="142991_2" citation_local_level_id="1" >04-7968</DOCKET>
+
+<ORGANIZATION start="58" end="88" id="142991_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="94" citation_global_level_id="4513.001" end="107" id="142991_10" citation_local_level_id="1" >March 7, 2005</DATE>
+
+<NAME start="129" local_name_id="3" end="132" id="142991_13" all_names="SUP" >Sup</NAME>
+
+<RELATION theme="142991_3" includes_docket_string="04-7968" includes_docket="142991_2" theme_string="SAMPLE v. VIRGINIA" gram_type="apposition" relation_type="asymmetric" id="142991_8" ></RELATION>
+
+<RELATION theme="142991_3" party1="142991_4" party1_string="SAMPLE" theme_string="SAMPLE v. VIRGINIA" gram_type="infix" relation_type="asymmetric" id="142991_6" ></RELATION>
+
+<RELATION party2="142991_5" theme="142991_3" theme_string="SAMPLE v. VIRGINIA" party2_string="VIRGINIA" gram_type="infix" relation_type="asymmetric" id="142991_7" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 908" X_vs_Y_string="SAMPLE v. VIRGINIA" standard_case="142991_1" X_vs_Y="142991_3" gram_type="multi_line" relation_type="equivalence" id="142991_11" ></RELATION>
+
+<RELATION at_date_string="March 7, 2005" theme="142991_3" at_date="142991_10" theme_string="SAMPLE v. VIRGINIA" gram_type="multi_line" relation_type="asymmetric" id="142991_12" ></RELATION>
+

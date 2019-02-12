@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['lancegeorgia#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1050" id1="125407" volume="537" start="0" page_number="1050" standard_reporter="U.S." citation_global_level_id="5516.002" line="1" id="125410_1" citation_local_level_id="0" >537 U.S. 1050</CITATION>
+
+<CITATION party2="GEORGIA" party1="LANCE" citation_global_level_id="18686.001" party2_short="GEORGIA" line="1" id="125410_3" alternative_keys="['u.s._537_1050']" end="34" entry_type="party_key" lookup_key="lancegeorgia#1" id1="125410" start="18" party1_short="LANCE" citation_local_level_id="1" >LANCE v. GEORGIA</CITATION>
+
+<NAME end="23" start="18" party1_of="125410_3" all_names="LANCE" local_name_id="1" id="125410_4" >LANCE</NAME>
+
+<NAME end="34" start="27" all_names="GEORGIA" party2_of="125410_3" local_name_id="2" id="125410_5" >GEORGIA</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="u.s._537_1050" id1="125407" start="44" citation_global_level_id="5516.002" line="1" id="125410_2" citation_local_level_id="0" >02-6058</DOCKET>
+
+<DATE start="93" end="109" id="125410_6" >December 2, 2002</DATE>
+
+<NAME start="200" local_name_id="3" end="203" id="125410_14" all_names="SUP" >Sup</NAME>
+
+<CITATION end="258" reporter="Ga." entry_type="standard_key" no_current_file="True" lookup_key="ga._275_11" id1="Dummy_File_118733" volume="275" start="248" page_number="11" standard_reporter="GA." citation_global_level_id="182583.001" line="3" id="125410_12" citation_local_level_id="2" >275 Ga. 11</CITATION>
+
+<CITATION end="276" reporter="S. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="s.e.2d_560_663" id1="Dummy_File_118734" volume="560" start="260" page_number="663" standard_reporter="S.E.2D" citation_global_level_id="182584.001" line="3" id="125410_13" citation_local_level_id="3" >560 S. E. 2d 663</CITATION>
+
+<RELATION theme="125410_1" includes_docket_string="02-6058" includes_docket="125410_2" theme_string="537 U.S. 1050" gram_type="apposition" relation_type="asymmetric" id="125410_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1050" X_vs_Y_string="LANCE v. GEORGIA" standard_case="125410_1" X_vs_Y="125410_3" gram_type="pre_nom" relation_type="equivalence" id="125410_7" ></RELATION>
+
+<RELATION theme="125410_3" includes_docket_string="02-6058" includes_docket="125410_2" theme_string="LANCE v. GEORGIA" gram_type="apposition" relation_type="asymmetric" id="125410_10" ></RELATION>
+
+<RELATION theme="125410_3" party1="125410_4" party1_string="LANCE" theme_string="LANCE v. GEORGIA" gram_type="infix" relation_type="asymmetric" id="125410_8" ></RELATION>
+
+<RELATION party2="125410_5" theme="125410_3" theme_string="LANCE v. GEORGIA" party2_string="GEORGIA" gram_type="infix" relation_type="asymmetric" id="125410_9" ></RELATION>
+

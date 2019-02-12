@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['williamsjohnson#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_999" id1="140294" volume="543" start="0" page_number="999" standard_reporter="U.S." citation_global_level_id="8030.002" line="1" id="140300_1" citation_local_level_id="0" >543 U.S. 999</CITATION>
+
+<CITATION party2="JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" party1="WILLIAMS" citation_global_level_id="58126.001" party2_short="JOHNSON" line="2" id="140300_3" alternative_keys="['u.s._543_999']" end="82" entry_type="party_key" lookup_key="williamsjohnson#2" id1="2681535" start="17" party1_short="WILLIAMS" citation_local_level_id="1" >WILLIAMS v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS</CITATION>
+
+<NAME end="25" start="17" party1_of="140300_3" all_names="WILLIAMS" local_name_id="1" id="140300_4" >WILLIAMS</NAME>
+
+<NAME end="82" start="29" all_names="JOHNSON DIRECTOR VIRGINIA DEPARTMENT OF CORRECTIONS" party2_of="140300_3" local_name_id="2" id="140300_5" >JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS</NAME>
+
+<DOCKET end="100" entry_type="docket" lookup_key="williamsjohnson#2" id1="2681535" start="92" citation_global_level_id="58126.001" line="2" id="140300_2" citation_local_level_id="1" >03-11040</DOCKET>
+
+<ORGANIZATION start="106" end="136" id="140300_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="142" citation_global_level_id="58126.001" end="159" id="140300_10" citation_local_level_id="1" >November 29, 2004</DATE>
+
+<NAME start="191" local_name_id="3" end="194" id="140300_14" all_names="CIR" >Cir</NAME>
+
+<CITATION end="244" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_364_235" id1="Dummy_File_217142" volume="364" start="231" page_number="235" standard_reporter="F.3D" citation_global_level_id="280992.001" line="7" id="140300_13" citation_local_level_id="2" >364 F. 3d 235</CITATION>
+
+<RELATION theme="140300_3" includes_docket_string="03-11040" includes_docket="140300_2" theme_string="WILLIAMS v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" gram_type="apposition" relation_type="asymmetric" id="140300_8" ></RELATION>
+
+<RELATION theme="140300_3" party1="140300_4" party1_string="WILLIAMS" theme_string="WILLIAMS v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" gram_type="infix" relation_type="asymmetric" id="140300_6" ></RELATION>
+
+<RELATION party2="140300_5" theme="140300_3" theme_string="WILLIAMS v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" party2_string="JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" gram_type="infix" relation_type="asymmetric" id="140300_7" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 999" X_vs_Y_string="WILLIAMS v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" standard_case="140300_1" X_vs_Y="140300_3" gram_type="multi_line" relation_type="equivalence" id="140300_11" ></RELATION>
+
+<RELATION at_date_string="November 29, 2004" theme="140300_3" at_date="140300_10" theme_string="WILLIAMS v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" gram_type="multi_line" relation_type="asymmetric" id="140300_12" ></RELATION>
+

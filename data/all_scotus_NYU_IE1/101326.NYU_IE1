@@ -1,0 +1,52 @@
+<CITATION alternative_keys="['slighstates#1', 'griggstates#1', 's.ct._48_600', 'u.s._277_582', 'l.ed._72_998']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._277_578" id1="101326" volume="277" start="0" page_number="578" standard_reporter="U.S." citation_global_level_id="14846.002" line="1" id="101326_1" citation_local_level_id="0" >277 U.S. 578</CITATION>
+
+<CITATION alternative_keys="['u.s._277_578', 'slighstates#1', 'griggstates#1', 'u.s._277_582', 'l.ed._72_998']" end="30" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._48_600" id1="101326" volume="48" start="17" page_number="600" standard_reporter="S.CT." citation_global_level_id="14846.003" line="2" id="101326_2" citation_local_level_id="1" >48 S. Ct. 600</CITATION>
+
+<CITATION alternative_keys="['u.s._277_578', 's.ct._48_600', 'slighstates#1', 'griggstates#1', 'l.ed._72_998']" end="47" reporter="U.S." entry_type="standard_key" lookup_key="u.s._277_582" id1="101326" volume="277" start="35" page_number="582" standard_reporter="U.S." citation_global_level_id="14846.004" line="3" id="101326_3" citation_local_level_id="2" >277 U.S. 582</CITATION>
+
+<CITATION alternative_keys="['u.s._277_578', 's.ct._48_600', 'u.s._277_582', 'slighstates#1', 'griggstates#1']" end="65" reporter="L. Ed." entry_type="standard_key" lookup_key="l.ed._72_998" id1="101326" volume="72" start="52" page_number="998" standard_reporter="L.ED." citation_global_level_id="14846.005" line="4" id="101326_4" citation_local_level_id="3" >72 L. Ed. 998</CITATION>
+
+<CITATION party2="The UNITED STATES of America" alternative_keys="['u.s._277_578', 's.ct._48_600', 'u.s._277_582', 'l.ed._72_998', 'slighstates#1']" party1="James Walter GRIGG," end="133" party1_short="GRIGG" entry_type="party_key" party1_role="petitioner" lookup_key="griggstates#1" id1="101326" start="70" citation_global_level_id="14846.001" party2_short="STATES" line="5" id="101326_5" citation_local_level_id="4" >James Walter GRIGG, petitioner, v. The UNITED STATES of America</CITATION>
+
+<NAME end="89" start="70" party1_of="101326_5" all_names="JAMES WALTER GRIGG" local_name_id="1" id="101326_7" >James Walter GRIGG,</NAME>
+
+<LEGAL_ROLE start="90" end="100" id="101326_9" >petitioner</LEGAL_ROLE>
+
+<NAME end="133" start="105" all_names="THE UNITED STATES OF AMERICA" party2_of="101326_5" local_name_id="2" id="101326_8" >The UNITED STATES of America</NAME>
+
+<CITATION party2="The UNITED STATES of America" alternative_keys="['griggstates#1', 's.ct._48_600', 'u.s._277_582', 'l.ed._72_998', 'u.s._277_578']" party1="Sidney B. SLIGH," end="199" party1_short="SLIGH" entry_type="party_key" party1_role="petitioner" lookup_key="slighstates#1" id1="101326" start="137" citation_global_level_id="14846.006" party2_short="STATES" line="5" id="101326_6" citation_local_level_id="5" >Sidney B. SLIGH, petitioner, v. The UNITED STATES of America</CITATION>
+
+<NAME end="153" start="137" party1_of="101326_6" all_names="SIDNEY B SLIGH" local_name_id="3" id="101326_10" >Sidney B. SLIGH,</NAME>
+
+<LEGAL_ROLE start="154" end="164" id="101326_12" >petitioner</LEGAL_ROLE>
+
+<NAME end="199" start="171" all_names="THE UNITED STATES OF AMERICA" party2_of="101326_6" local_name_id="2" id="101326_11" >The UNITED STATES of America</NAME>
+
+<ORGANIZATION start="231" end="265" id="101326_25" >Supreme Court of the United States</ORGANIZATION>
+
+<DATE start="270" end="282" id="101326_26" >June 4, 1928</DATE>
+
+<RELATION theme="101326_5" party1="101326_7" party1_string="James Walter GRIGG," theme_string="James Walter GRIGG, petitioner, v. The UNITED STATES of America" gram_type="infix" relation_type="asymmetric" id="101326_13" ></RELATION>
+
+<RELATION party2="101326_8" theme="101326_5" theme_string="James Walter GRIGG, petitioner, v. The UNITED STATES of America" party2_string="The UNITED STATES of America" gram_type="infix" relation_type="asymmetric" id="101326_14" ></RELATION>
+
+<RELATION theme="101326_6" party1="101326_10" party1_string="Sidney B. SLIGH," theme_string="Sidney B. SLIGH, petitioner,  v.  The UNITED STATES of America" gram_type="infix" relation_type="asymmetric" id="101326_15" ></RELATION>
+
+<RELATION party2="101326_11" theme="101326_6" theme_string="Sidney B. SLIGH, petitioner,  v.  The UNITED STATES of America" party2_string="The UNITED STATES of America" gram_type="infix" relation_type="asymmetric" id="101326_16" ></RELATION>
+
+<RELATION standard_case_string="277 U.S. 578" X_vs_Y_string="Sidney B. SLIGH, petitioner,  v.  The UNITED STATES of America" standard_case="101326_1" X_vs_Y="101326_6" gram_type="multi_line" relation_type="equivalence" id="101326_21" ></RELATION>
+
+<RELATION standard_case_string="277 U.S. 578" X_vs_Y_string="James Walter GRIGG, petitioner, v. The UNITED STATES of America" standard_case="101326_1" X_vs_Y="101326_5" gram_type="multi_line" relation_type="equivalence" id="101326_17" ></RELATION>
+
+<RELATION standard_case_string="48 S. Ct. 600" X_vs_Y_string="Sidney B. SLIGH, petitioner,  v.  The UNITED STATES of America" standard_case="101326_2" X_vs_Y="101326_6" gram_type="multi_line" relation_type="equivalence" id="101326_22" ></RELATION>
+
+<RELATION standard_case_string="48 S. Ct. 600" X_vs_Y_string="James Walter GRIGG, petitioner, v. The UNITED STATES of America" standard_case="101326_2" X_vs_Y="101326_5" gram_type="multi_line" relation_type="equivalence" id="101326_18" ></RELATION>
+
+<RELATION standard_case_string="277 U.S. 582" X_vs_Y_string="Sidney B. SLIGH, petitioner,  v.  The UNITED STATES of America" standard_case="101326_3" X_vs_Y="101326_6" gram_type="multi_line" relation_type="equivalence" id="101326_23" ></RELATION>
+
+<RELATION standard_case_string="277 U.S. 582" X_vs_Y_string="James Walter GRIGG, petitioner, v. The UNITED STATES of America" standard_case="101326_3" X_vs_Y="101326_5" gram_type="multi_line" relation_type="equivalence" id="101326_19" ></RELATION>
+
+<RELATION standard_case_string="72 L. Ed. 998" X_vs_Y_string="Sidney B. SLIGH, petitioner,  v.  The UNITED STATES of America" standard_case="101326_4" X_vs_Y="101326_6" gram_type="multi_line" relation_type="equivalence" id="101326_24" ></RELATION>
+
+<RELATION standard_case_string="72 L. Ed. 998" X_vs_Y_string="James Walter GRIGG, petitioner, v. The UNITED STATES of America" standard_case="101326_4" X_vs_Y="101326_5" gram_type="multi_line" relation_type="equivalence" id="101326_20" ></RELATION>
+

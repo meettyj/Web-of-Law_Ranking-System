@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['allensecurities#3']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1095" id1="116596" volume="510" start="0" page_number="1095" standard_reporter="U.S." citation_global_level_id="1508.002" line="1" id="116600_1" citation_local_level_id="0" >510 U.S. 1095</CITATION>
+
+<CITATION party2="New York Life Securities, Inc., et al" party1="Allen" citation_global_level_id="1508.003" party2_short="Securities" line="1" id="116600_3" alternative_keys="['u.s._510_1095']" end="64" entry_type="party_key" lookup_key="allensecurities#3" id1="116596" start="18" party1_short="Allen" citation_local_level_id="1" >Allen v. New York Life Securities, Inc., et al</CITATION>
+
+<NAME end="23" start="18" party1_of="116600_3" all_names="ALLEN" local_name_id="1" id="116600_4" >Allen</NAME>
+
+<NAME end="64" start="27" all_names="NEW YORK LIFE SECURITIES INC" party2_of="116600_3" local_name_id="2" id="116600_5" >New York Life Securities, Inc., et al</NAME>
+
+<DOCKET end="81" entry_type="docket" lookup_key="u.s._510_1095" id1="116596" start="74" citation_global_level_id="1508.002" line="1" id="116600_2" citation_local_level_id="0" >93-6811</DOCKET>
+
+<DATE start="123" end="139" id="116600_6" >January 24, 1994</DATE>
+
+<NAME start="217" local_name_id="3" end="227" id="116600_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="266" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_998_1014" id1="Dummy_File_15498" volume="998" start="252" page_number="1014" standard_reporter="F.2D" citation_global_level_id="79348.001" line="3" id="116600_12" citation_local_level_id="2" >998 F. 2d 1014</CITATION>
+
+<RELATION theme="116600_1" includes_docket_string="93-6811" includes_docket="116600_2" theme_string="510 U.S. 1095" gram_type="apposition" relation_type="asymmetric" id="116600_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1095" X_vs_Y_string="Allen v. New York Life Securities, Inc., et al" standard_case="116600_1" X_vs_Y="116600_3" gram_type="pre_nom" relation_type="equivalence" id="116600_7" ></RELATION>
+
+<RELATION theme="116600_3" includes_docket_string="93-6811" includes_docket="116600_2" theme_string="Allen v. New York Life Securities, Inc., et al" gram_type="apposition" relation_type="asymmetric" id="116600_10" ></RELATION>
+
+<RELATION theme="116600_3" party1="116600_4" party1_string="Allen" theme_string="Allen v. New York Life Securities, Inc., et al" gram_type="infix" relation_type="asymmetric" id="116600_8" ></RELATION>
+
+<RELATION party2="116600_5" theme="116600_3" theme_string="Allen v. New York Life Securities, Inc., et al" party2_string="New York Life Securities, Inc., et al" gram_type="infix" relation_type="asymmetric" id="116600_9" ></RELATION>
+

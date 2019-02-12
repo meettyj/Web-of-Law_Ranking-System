@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['runningeaglearizona#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1015" id1="115656" volume="510" start="0" page_number="1015" standard_reporter="U.S." citation_global_level_id="6149.002" line="1" id="115657_1" citation_local_level_id="0" >510 U.S. 1015</CITATION>
+
+<CITATION party2="Arizona" party1="RunningEagle" citation_global_level_id="60451.001" party2_short="Arizona" line="1" id="115657_3" alternative_keys="['u.s._510_1015']" end="41" entry_type="party_key" lookup_key="runningeaglearizona#1" id1="115657" start="18" party1_short="RunningEagle" citation_local_level_id="1" >RunningEagle v. Arizona</CITATION>
+
+<NAME end="30" start="18" party1_of="115657_3" all_names="RUNNINGEAGLE" local_name_id="1" id="115657_4" >RunningEagle</NAME>
+
+<NAME end="41" start="34" all_names="ARIZONA" party2_of="115657_3" local_name_id="2" id="115657_5" >Arizona</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._510_1015" id1="115656" start="51" citation_global_level_id="6149.002" line="1" id="115657_2" citation_local_level_id="0" >93-6316</DOCKET>
+
+<DATE start="100" end="116" id="115657_6" >December 6, 1993</DATE>
+
+<NAME start="194" local_name_id="3" end="204" id="115657_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="256" reporter="P. 2d" entry_type="standard_key" no_current_file="True" lookup_key="p.2d_859_169" id1="Dummy_File_140596" volume="859" start="243" page_number="169" standard_reporter="P.2D" citation_global_level_id="204446.001" line="3" id="115657_12" citation_local_level_id="2" >859 P. 2d 169</CITATION>
+
+<RELATION theme="115657_1" includes_docket_string="93-6316" includes_docket="115657_2" theme_string="510 U.S. 1015" gram_type="apposition" relation_type="asymmetric" id="115657_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1015" X_vs_Y_string="RunningEagle v. Arizona" standard_case="115657_1" X_vs_Y="115657_3" gram_type="pre_nom" relation_type="equivalence" id="115657_7" ></RELATION>
+
+<RELATION theme="115657_3" includes_docket_string="93-6316" includes_docket="115657_2" theme_string="RunningEagle v. Arizona" gram_type="apposition" relation_type="asymmetric" id="115657_10" ></RELATION>
+
+<RELATION theme="115657_3" party1="115657_4" party1_string="RunningEagle" theme_string="RunningEagle v. Arizona" gram_type="infix" relation_type="asymmetric" id="115657_8" ></RELATION>
+
+<RELATION party2="115657_5" theme="115657_3" theme_string="RunningEagle v. Arizona" party2_string="Arizona" gram_type="infix" relation_type="asymmetric" id="115657_9" ></RELATION>
+

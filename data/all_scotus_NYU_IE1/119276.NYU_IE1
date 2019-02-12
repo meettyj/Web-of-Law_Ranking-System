@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['urbineauthority#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_971" id1="119276" volume="535" start="0" page_number="971" standard_reporter="U.S." citation_global_level_id="756.002" line="1" id="119276_1" citation_local_level_id="0" >535 U.S. 971</CITATION>
+
+<CITATION party2="PIEDMONT TRIAD AIRPORT AUTHORITY" party1="URBINE" citation_global_level_id="756.001" party2_short="AUTHORITY" line="2" id="119276_2" alternative_keys="['u.s._535_971']" end="59" entry_type="party_key" lookup_key="urbineauthority#1" id1="119276" start="17" party1_short="URBINE" citation_local_level_id="1" >URBINE v. PIEDMONT TRIAD AIRPORT AUTHORITY</CITATION>
+
+<NAME end="23" start="17" party1_of="119276_2" all_names="URBINE" local_name_id="1" id="119276_3" >URBINE</NAME>
+
+<NAME end="59" start="27" all_names="PIEDMONT TRIAD AIRPORT AUTHORITY" party2_of="119276_2" local_name_id="2" id="119276_4" >PIEDMONT TRIAD AIRPORT AUTHORITY</NAME>
+
+<DOCKET end="76" entry_type="docket" lookup_key="urbineauthority#1" id1="119276" start="69" citation_global_level_id="756.001" line="3" id="119276_7" citation_local_level_id="1" >01-1096</DOCKET>
+
+<DATE start="122" citation_global_level_id="756.001" end="135" id="119276_8" citation_local_level_id="1" >April 1, 2002</DATE>
+
+<NAME start="157" local_name_id="3" end="160" id="119276_14" all_names="SUP" >Sup</NAME>
+
+<CITATION end="220" reporter="N. C." entry_type="standard_key" no_current_file="True" lookup_key="n.c._354_336" id1="Dummy_File_90597" volume="354" start="207" page_number="336" standard_reporter="N.C." citation_global_level_id="154447.001" line="8" id="119276_12" citation_local_level_id="2" >354 N. C. 336</CITATION>
+
+<CITATION end="238" reporter="S. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="s.e.2d_554_331" id1="Dummy_File_90598" volume="554" start="222" page_number="331" standard_reporter="S.E.2D" citation_global_level_id="154448.001" line="8" id="119276_13" citation_local_level_id="3" >554 S. E. 2d 331</CITATION>
+
+<RELATION theme="119276_2" party1="119276_3" party1_string="URBINE" theme_string="URBINE v. PIEDMONT TRIAD AIRPORT AUTHORITY" gram_type="infix" relation_type="asymmetric" id="119276_5" ></RELATION>
+
+<RELATION party2="119276_4" theme="119276_2" theme_string="URBINE v. PIEDMONT TRIAD AIRPORT AUTHORITY" party2_string="PIEDMONT TRIAD AIRPORT AUTHORITY" gram_type="infix" relation_type="asymmetric" id="119276_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 971" X_vs_Y_string="URBINE v. PIEDMONT TRIAD AIRPORT AUTHORITY" standard_case="119276_1" X_vs_Y="119276_2" gram_type="multi_line" relation_type="equivalence" id="119276_9" ></RELATION>
+
+<RELATION at_date_string="April 1, 2002" theme="119276_2" at_date="119276_8" theme_string="URBINE v. PIEDMONT TRIAD AIRPORT AUTHORITY" gram_type="multi_line" relation_type="asymmetric" id="119276_11" ></RELATION>
+
+<RELATION theme="119276_2" includes_docket_string="01-1096" includes_docket="119276_7" theme_string="URBINE v. PIEDMONT TRIAD AIRPORT AUTHORITY" gram_type="multi_line" relation_type="asymmetric" id="119276_10" ></RELATION>
+

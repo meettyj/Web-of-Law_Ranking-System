@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['foremangriffith#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_1042" id1="136267" volume="541" start="0" page_number="1042" standard_reporter="U.S." citation_global_level_id="4231.002" line="3" id="136269_2" citation_local_level_id="0" >541 U.S. 1042</CITATION>
+
+<CITATION party2="GRIFFITH ET AL" party1="FOREMAN" citation_global_level_id="17400.001" party2_short="GRIFFITH" line="3" id="136269_4" alternative_keys="['u.s._541_1042']" end="43" entry_type="party_key" lookup_key="foremangriffith#1" id1="136269" start="18" party1_short="FOREMAN" citation_local_level_id="1" >FOREMAN v. GRIFFITH ET AL</CITATION>
+
+<NAME end="25" start="18" party1_of="136269_4" all_names="FOREMAN" local_name_id="1" id="136269_5" >FOREMAN</NAME>
+
+<NAME end="43" start="29" all_names="GRIFFITH" party2_of="136269_4" local_name_id="2" id="136269_6" >GRIFFITH ET AL</NAME>
+
+<DOCKET end="60" entry_type="docket" lookup_key="u.s._541_1042" id1="136267" start="53" citation_global_level_id="4231.002" line="3" id="136269_3" citation_local_level_id="0" >03-1279</DOCKET>
+
+<ORGANIZATION start="66" end="96" id="136269_12" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="102" citation_global_level_id="17400.001" end="114" id="136269_13" citation_local_level_id="1" >May 17, 2004</DATE>
+
+<NAME start="146" local_name_id="3" end="149" id="136269_15" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="136269_2" includes_docket_string="03-1279" includes_docket="136269_3" theme_string="541 U.S. 1042" gram_type="apposition" relation_type="asymmetric" id="136269_11" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 1042" X_vs_Y_string="FOREMAN v. GRIFFITH ET AL" standard_case="136269_2" X_vs_Y="136269_4" gram_type="pre_nom" relation_type="equivalence" id="136269_7" ></RELATION>
+
+<RELATION theme="136269_4" includes_docket_string="03-1279" includes_docket="136269_3" theme_string="FOREMAN v. GRIFFITH ET AL" gram_type="apposition" relation_type="asymmetric" id="136269_10" ></RELATION>
+
+<RELATION theme="136269_4" party1="136269_5" party1_string="FOREMAN" theme_string="FOREMAN v. GRIFFITH ET AL" gram_type="infix" relation_type="asymmetric" id="136269_8" ></RELATION>
+
+<RELATION party2="136269_6" theme="136269_4" theme_string="FOREMAN v. GRIFFITH ET AL" party2_string="GRIFFITH ET AL" gram_type="infix" relation_type="asymmetric" id="136269_9" ></RELATION>
+
+<RELATION at_date_string="May 17, 2004" theme="136269_4" at_date="136269_13" theme_string="FOREMAN v. GRIFFITH ET AL" gram_type="multi_line" relation_type="asymmetric" id="136269_14" ></RELATION>
+

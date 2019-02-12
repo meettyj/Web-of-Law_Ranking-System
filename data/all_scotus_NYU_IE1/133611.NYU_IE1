@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['hillcourt#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_990" id1="133616" volume="540" start="0" page_number="990" standard_reporter="U.S." citation_global_level_id="8796.002" line="1" id="133611_1" citation_local_level_id="0" >540 U.S. 990</CITATION>
+
+<CITATION party2="UNITED STATES SUPREME COURT" party1="HILL" citation_global_level_id="39785.001" party2_short="COURT" line="1" id="133611_3" alternative_keys="['u.s._540_990']" end="52" entry_type="party_key" lookup_key="hillcourt#2" id1="133611" start="17" party1_short="HILL" citation_local_level_id="1" >HILL v. UNITED STATES SUPREME COURT</CITATION>
+
+<NAME end="21" start="17" party1_of="133611_3" all_names="HILL" local_name_id="1" id="133611_4" >HILL</NAME>
+
+<NAME end="52" start="25" all_names="UNITED STATES SUPREME COURT" party2_of="133611_3" local_name_id="2" id="133611_5" >UNITED STATES SUPREME COURT</NAME>
+
+<DOCKET end="69" entry_type="docket" lookup_key="u.s._540_990" id1="133616" start="62" citation_global_level_id="8796.002" line="1" id="133611_2" citation_local_level_id="0" >03-6207</DOCKET>
+
+<DATE start="111" end="127" id="133611_6" >November 3, 2003</DATE>
+
+<NAME start="205" local_name_id="3" end="215" id="133611_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="133611_1" includes_docket_string="03-6207" includes_docket="133611_2" theme_string="540 U.S. 990" gram_type="apposition" relation_type="asymmetric" id="133611_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 990" X_vs_Y_string="HILL v. UNITED STATES SUPREME COURT" standard_case="133611_1" X_vs_Y="133611_3" gram_type="pre_nom" relation_type="equivalence" id="133611_7" ></RELATION>
+
+<RELATION theme="133611_3" includes_docket_string="03-6207" includes_docket="133611_2" theme_string="HILL v. UNITED STATES SUPREME COURT" gram_type="apposition" relation_type="asymmetric" id="133611_10" ></RELATION>
+
+<RELATION theme="133611_3" party1="133611_4" party1_string="HILL" theme_string="HILL v. UNITED STATES SUPREME COURT" gram_type="infix" relation_type="asymmetric" id="133611_8" ></RELATION>
+
+<RELATION party2="133611_5" theme="133611_3" theme_string="HILL v. UNITED STATES SUPREME COURT" party2_string="UNITED STATES SUPREME COURT" gram_type="infix" relation_type="asymmetric" id="133611_9" ></RELATION>
+

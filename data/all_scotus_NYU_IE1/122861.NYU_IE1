@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['robinsonreish#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_849" id1="122861" volume="537" start="0" page_number="849" standard_reporter="U.S." citation_global_level_id="9237.002" line="1" id="122861_1" citation_local_level_id="0" >537 U.S. 849</CITATION>
+
+<CITATION party2="REISH, WARDEN" party1="ROBINSON" citation_global_level_id="9237.006" party2_short="REISH" line="1" id="122861_3" alternative_keys="['u.s._537_849']" end="42" entry_type="party_key" lookup_key="robinsonreish#1" id1="122861" start="17" party1_short="ROBINSON" citation_local_level_id="1" >ROBINSON v. REISH, WARDEN</CITATION>
+
+<NAME end="25" start="17" party1_of="122861_3" all_names="ROBINSON" local_name_id="1" id="122861_4" >ROBINSON</NAME>
+
+<NAME end="42" start="29" all_names="REISH WARDEN" party2_of="122861_3" local_name_id="2" id="122861_5" >REISH, WARDEN</NAME>
+
+<DOCKET end="60" entry_type="docket" lookup_key="u.s._537_849" id1="122861" start="52" citation_global_level_id="9237.002" line="1" id="122861_2" citation_local_level_id="0" >01-10549</DOCKET>
+
+<DATE start="102" end="117" id="122861_6" >October 7, 2002</DATE>
+
+<NAME start="244" local_name_id="3" end="247" id="122861_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="296" reporter="F.3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_281_223" id1="Dummy_File_118372" volume="281" start="284" page_number="223" standard_reporter="F.3D" citation_global_level_id="182222.001" line="3" id="122861_12" citation_local_level_id="2" >281 F.3d 223</CITATION>
+
+<RELATION theme="122861_1" includes_docket_string="01-10549" includes_docket="122861_2" theme_string="537 U.S. 849" gram_type="apposition" relation_type="asymmetric" id="122861_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 849" X_vs_Y_string="ROBINSON v. REISH, WARDEN" standard_case="122861_1" X_vs_Y="122861_3" gram_type="pre_nom" relation_type="equivalence" id="122861_7" ></RELATION>
+
+<RELATION theme="122861_3" includes_docket_string="01-10549" includes_docket="122861_2" theme_string="ROBINSON v. REISH, WARDEN" gram_type="apposition" relation_type="asymmetric" id="122861_10" ></RELATION>
+
+<RELATION theme="122861_3" party1="122861_4" party1_string="ROBINSON" theme_string="ROBINSON v. REISH, WARDEN" gram_type="infix" relation_type="asymmetric" id="122861_8" ></RELATION>
+
+<RELATION party2="122861_5" theme="122861_3" theme_string="ROBINSON v. REISH, WARDEN" party2_string="REISH, WARDEN" gram_type="infix" relation_type="asymmetric" id="122861_9" ></RELATION>
+

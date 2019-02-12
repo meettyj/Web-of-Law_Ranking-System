@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['bennafieldstates#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_961" id1="124376" volume="537" start="0" page_number="961" standard_reporter="U.S." citation_global_level_id="2396.002" line="1" id="124376_1" citation_local_level_id="0" >537 U.S. 961</CITATION>
+
+<CITATION party2="UNITED STATES" party1="BENNAFIELD" citation_global_level_id="52897.001" party2_short="STATES" line="1" id="124376_3" alternative_keys="['u.s._537_961']" end="44" entry_type="party_key" lookup_key="bennafieldstates#2" id1="132324" start="17" party1_short="BENNAFIELD" citation_local_level_id="1" >BENNAFIELD v. UNITED STATES</CITATION>
+
+<NAME end="27" start="17" party1_of="124376_3" all_names="BENNAFIELD" local_name_id="1" id="124376_4" >BENNAFIELD</NAME>
+
+<NAME end="44" start="31" all_names="UNITED STATES" party2_of="124376_3" local_name_id="2" id="124376_5" >UNITED STATES</NAME>
+
+<DOCKET end="61" entry_type="docket" lookup_key="u.s._537_961" id1="124376" start="54" citation_global_level_id="2396.002" line="1" id="124376_2" citation_local_level_id="0" >02-6132</DOCKET>
+
+<DATE start="103" end="119" id="124376_6" >October 15, 2002</DATE>
+
+<NAME start="249" local_name_id="3" end="252" id="124376_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="302" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_287_320" id1="Dummy_File_76492" volume="287" start="289" page_number="320" standard_reporter="F.3D" citation_global_level_id="140342.001" line="3" id="124376_12" citation_local_level_id="2" >287 F. 3d 320</CITATION>
+
+<RELATION theme="124376_1" includes_docket_string="02-6132" includes_docket="124376_2" theme_string="537 U.S. 961" gram_type="apposition" relation_type="asymmetric" id="124376_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 961" X_vs_Y_string="BENNAFIELD v. UNITED STATES" standard_case="124376_1" X_vs_Y="124376_3" gram_type="pre_nom" relation_type="equivalence" id="124376_7" ></RELATION>
+
+<RELATION theme="124376_3" includes_docket_string="02-6132" includes_docket="124376_2" theme_string="BENNAFIELD v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="124376_10" ></RELATION>
+
+<RELATION theme="124376_3" party1="124376_4" party1_string="BENNAFIELD" theme_string="BENNAFIELD v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="124376_8" ></RELATION>
+
+<RELATION party2="124376_5" theme="124376_3" theme_string="BENNAFIELD v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="124376_9" ></RELATION>
+

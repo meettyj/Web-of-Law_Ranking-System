@@ -1,0 +1,56 @@
+<CITATION alternative_keys="['geyermichel#1', 'dall_3_285']" end="18" reporter="U.S." entry_type="standard_key" lookup_key="u.s._3_285" id1="2218550" volume="3" start="1" page_number="285" standard_reporter="U.S." citation_global_level_id="60420.002" line="2" id="2218550_1" citation_local_level_id="0" >3 U.S. 285 (____)</CITATION>
+
+<CITATION alternative_keys="['u.s._3_285', 'geyermichel#1']" end="30" reporter="Dall" entry_type="standard_key" lookup_key="dall_3_285" id1="2218550" volume="3" start="19" page_number="285" standard_reporter="DALL" citation_global_level_id="60420.003" line="3" id="2218550_2" citation_local_level_id="1" >3 Dall. 285</CITATION>
+
+<CITATION party2="MICHEL, et al" party1="GEYER, et al." citation_global_level_id="60420.001" party2_short="MICHEL" line="6" id="2218550_4" alternative_keys="['u.s._3_285', 'dall_3_285']" end="67" entry_type="party_key" lookup_key="geyermichel#1" id1="2218550" start="31" party1_short="GEYER" citation_local_level_id="2" >GEYER, et al. versus MICHEL, et al</CITATION>
+
+<NAME end="44" start="31" party1_of="2218550_4" all_names="GEYER" local_name_id="1" id="2218550_5" >GEYER, et al.</NAME>
+
+<NAME end="67" start="54" all_names="MICHEL" party2_of="2218550_4" local_name_id="2" id="2218550_6" >MICHEL, et al</NAME>
+
+<NAME start="82" local_name_id="3" end="95" id="2218550_7" all_names="DEN ONZEKEREN" >DEN ONZEKEREN</NAME>
+
+<ORGANIZATION start="97" end="127" id="2218550_10" >Supreme Court of United States</ORGANIZATION>
+
+<NAME start="162" local_name_id="4" end="180" id="2218550_13" all_names="TILGHMAN AND LEWIS" >Tilghman and Lewis</NAME>
+
+<LEGAL_ROLE start="190" end="200" plural="True" id="2218550_14" >Plaintiffs</LEGAL_ROLE>
+
+<NAME start="218" local_name_id="5" end="227" id="2218550_15" all_names="INGERSOLL" >Ingersoll</NAME>
+
+<NAME start="229" local_name_id="6" end="235" id="2218550_16" all_names="DALLAS" >Dallas</NAME>
+
+<NAME start="241" local_name_id="7" end="251" id="2218550_17" all_names="DU PONCEAU" >Du Ponceau</NAME>
+
+<LEGAL_ROLE start="261" end="270" id="2218550_18" >Defendant</LEGAL_ROLE>
+
+<ORGANIZATION start="297" end="302" id="2218550_19" >COURT</ORGANIZATION>
+
+<ORGANIZATION start="355" end="368" id="2218550_20" >Circuit Court</ORGANIZATION>
+
+<PROFESSION start="399" end="405" plural="True" id="2218550_21" >Judges</PROFESSION>
+
+<ORGANIZATION start="457" end="470" id="2218550_22" >Circuit Court</ORGANIZATION>
+
+<NAME start="481" local_name_id="8" end="486" id="2218550_23" all_names="NOTES" >NOTES</NAME>
+
+<NAME start="492" local_name_id="9" end="495" id="2218550_27" all_names="SEE" >See</NAME>
+
+<CITATION party2="the Ph" party1="Moodie" citation_global_level_id="160723.001" party2_short="Ph" line="13" id="2218550_24" end="522" no_current_file="True" entry_type="party_key" lookup_key="moodieph#1" id1="Dummy_File_96873" start="502" party1_short="Moodie" citation_local_level_id="3" >Moodie versus the Ph</CITATION>
+
+<NAME end="508" start="502" party1_of="2218550_24" all_names="MOODIE" local_name_id="10" id="2218550_25" >Moodie</NAME>
+
+<NAME end="522" start="516" all_names="THE PH" party2_of="2218550_24" local_name_id="11" id="2218550_26" >the Ph</NAME>
+
+<RELATION theme="2218550_4" party1="2218550_5" party1_string="GEYER, et al." theme_string="GEYER, et al.  versus  MICHEL, et al" gram_type="infix" relation_type="asymmetric" id="2218550_8" ></RELATION>
+
+<RELATION party2="2218550_6" theme="2218550_4" theme_string="GEYER, et al.  versus  MICHEL, et al" party2_string="MICHEL, et al" gram_type="infix" relation_type="asymmetric" id="2218550_9" ></RELATION>
+
+<RELATION standard_case_string="3 U.S. 285 (____)" X_vs_Y_string="GEYER, et al.  versus  MICHEL, et al" standard_case="2218550_1" X_vs_Y="2218550_4" gram_type="multi_line" relation_type="equivalence" id="2218550_11" ></RELATION>
+
+<RELATION standard_case_string="3 Dall. 285" X_vs_Y_string="GEYER, et al.  versus  MICHEL, et al" standard_case="2218550_2" X_vs_Y="2218550_4" gram_type="multi_line" relation_type="equivalence" id="2218550_12" ></RELATION>
+
+<RELATION theme="2218550_24" party1="2218550_25" party1_string="Moodie" theme_string="Moodie versus the Ph" gram_type="infix" relation_type="asymmetric" id="2218550_28" ></RELATION>
+
+<RELATION party2="2218550_26" theme="2218550_24" theme_string="Moodie versus the Ph" party2_string="the Ph" gram_type="infix" relation_type="asymmetric" id="2218550_29" ></RELATION>
+

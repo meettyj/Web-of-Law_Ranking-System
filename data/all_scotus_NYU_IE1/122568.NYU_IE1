@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['edwardstrust#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_827" id1="122577" volume="537" start="0" page_number="827" standard_reporter="U.S." citation_global_level_id="4107.002" line="1" id="122568_1" citation_local_level_id="0" >537 U.S. 827</CITATION>
+
+<CITATION party2="ACADIA REALTY TRUST, INC., ET AL" party1="EDWARDS ET VIR" citation_global_level_id="4107.005" party2_short="TRUST" line="1" id="122568_3" alternative_keys="['u.s._537_827']" end="67" entry_type="party_key" lookup_key="edwardstrust#2" id1="122577" start="17" party1_short="EDWARDS" citation_local_level_id="1" >EDWARDS ET VIR v. ACADIA REALTY TRUST, INC., ET AL</CITATION>
+
+<NAME end="31" start="17" party1_of="122568_3" all_names="EDWARDS VIR" local_name_id="1" id="122568_4" >EDWARDS ET VIR</NAME>
+
+<NAME end="67" start="35" all_names="ACADIA REALTY TRUST INC" party2_of="122568_3" local_name_id="2" id="122568_5" >ACADIA REALTY TRUST, INC., ET AL</NAME>
+
+<DOCKET end="84" entry_type="docket" lookup_key="u.s._537_827" id1="122577" start="77" citation_global_level_id="4107.002" line="1" id="122568_2" citation_local_level_id="0" >01-1886</DOCKET>
+
+<DATE start="80" end="84" id="122568_6" >1886</DATE>
+
+<DATE start="126" end="141" id="122568_7" >October 7, 2002</DATE>
+
+<NAME start="274" local_name_id="3" end="277" id="122568_14" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="122568_1" includes_docket_string="01-1886" includes_docket="122568_2" theme_string="537 U.S. 827" gram_type="apposition" relation_type="asymmetric" id="122568_12" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 827" X_vs_Y_string="EDWARDS ET VIR v. ACADIA REALTY TRUST, INC., ET AL" standard_case="122568_1" X_vs_Y="122568_3" gram_type="pre_nom" relation_type="equivalence" id="122568_8" ></RELATION>
+
+<RELATION theme="122568_3" includes_docket_string="01-1886" includes_docket="122568_2" theme_string="EDWARDS ET VIR v. ACADIA REALTY TRUST, INC., ET AL" gram_type="apposition" relation_type="asymmetric" id="122568_11" ></RELATION>
+
+<RELATION party2="122568_5" theme="122568_3" theme_string="EDWARDS ET VIR v. ACADIA REALTY TRUST, INC., ET AL" party2_string="ACADIA REALTY TRUST, INC., ET AL" gram_type="infix" relation_type="asymmetric" id="122568_10" ></RELATION>
+
+<RELATION theme="122568_3" party1="122568_4" party1_string="EDWARDS ET VIR" theme_string="EDWARDS ET VIR v. ACADIA REALTY TRUST, INC., ET AL" gram_type="infix" relation_type="asymmetric" id="122568_9" ></RELATION>
+
+<RELATION at_date_string="1886" theme="122568_2" at_date="122568_6" theme_string="01-1886" gram_type="infix" relation_type="asymmetric" id="122568_13" ></RELATION>
+

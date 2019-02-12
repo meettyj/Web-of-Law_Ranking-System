@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['mooremississippi#4']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1063" id1="116246" volume="510" start="0" page_number="1063" standard_reporter="U.S." citation_global_level_id="3266.002" line="1" id="116250_1" citation_local_level_id="0" >510 U.S. 1063</CITATION>
+
+<CITATION party2="Mississippi" party1="Moore" citation_global_level_id="57896.001" party2_short="Mississippi" line="1" id="116250_3" alternative_keys="['u.s._510_1063']" end="38" entry_type="party_key" lookup_key="mooremississippi#4" id1="116250" start="18" party1_short="Moore" citation_local_level_id="1" >Moore v. Mississippi</CITATION>
+
+<NAME end="23" start="18" party1_of="116250_3" all_names="MOORE" local_name_id="1" id="116250_4" >Moore</NAME>
+
+<NAME end="38" start="27" all_names="MISSISSIPPI" party2_of="116250_3" local_name_id="2" id="116250_5" >Mississippi</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._510_1063" id1="116246" start="48" citation_global_level_id="3266.002" line="1" id="116250_2" citation_local_level_id="0" >93-6929</DOCKET>
+
+<DATE start="97" end="113" id="116250_6" >January 10, 1994</DATE>
+
+<NAME start="191" local_name_id="3" end="201" id="116250_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="116250_1" includes_docket_string="93-6929" includes_docket="116250_2" theme_string="510 U.S. 1063" gram_type="apposition" relation_type="asymmetric" id="116250_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1063" X_vs_Y_string="Moore v. Mississippi" standard_case="116250_1" X_vs_Y="116250_3" gram_type="pre_nom" relation_type="equivalence" id="116250_7" ></RELATION>
+
+<RELATION theme="116250_3" includes_docket_string="93-6929" includes_docket="116250_2" theme_string="Moore v. Mississippi" gram_type="apposition" relation_type="asymmetric" id="116250_10" ></RELATION>
+
+<RELATION theme="116250_3" party1="116250_4" party1_string="Moore" theme_string="Moore v. Mississippi" gram_type="infix" relation_type="asymmetric" id="116250_8" ></RELATION>
+
+<RELATION party2="116250_5" theme="116250_3" theme_string="Moore v. Mississippi" party2_string="Mississippi" gram_type="infix" relation_type="asymmetric" id="116250_9" ></RELATION>
+

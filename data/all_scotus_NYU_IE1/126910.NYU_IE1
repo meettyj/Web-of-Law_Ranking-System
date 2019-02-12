@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['hasandepartment#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1168" id1="126912" volume="537" start="0" page_number="1168" standard_reporter="U.S." citation_global_level_id="6183.002" line="1" id="126910_1" citation_local_level_id="0" >537 U.S. 1168</CITATION>
+
+<CITATION party2="DEPARTMENT OF LABOR ET AL" party1="HASAN" citation_global_level_id="19207.001" party2_short="DEPARTMENT" line="1" id="126910_3" alternative_keys="['u.s._537_1168']" end="52" entry_type="party_key" lookup_key="hasandepartment#1" id1="126910" start="18" party1_short="HASAN" citation_local_level_id="1" >HASAN v. DEPARTMENT OF LABOR ET AL</CITATION>
+
+<NAME end="23" start="18" party1_of="126910_3" all_names="HASAN" local_name_id="1" id="126910_4" >HASAN</NAME>
+
+<NAME end="52" start="27" all_names="DEPARTMENT OF LABOR" party2_of="126910_3" local_name_id="2" id="126910_5" >DEPARTMENT OF LABOR ET AL</NAME>
+
+<DOCKET end="68" entry_type="docket" lookup_key="u.s._537_1168" id1="126912" start="62" citation_global_level_id="6183.002" line="1" id="126910_2" citation_local_level_id="0" >02-592</DOCKET>
+
+<DATE start="110" end="126" id="126910_6" >January 21, 2003</DATE>
+
+<NAME start="256" local_name_id="3" end="259" id="126910_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="388" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_298_914" id1="Dummy_File_221604" volume="298" start="375" page_number="914" standard_reporter="F.3D" citation_global_level_id="285454.001" line="3" id="126910_12" citation_local_level_id="2" >298 F. 3d 914</CITATION>
+
+<RELATION theme="126910_1" includes_docket_string="02-592" includes_docket="126910_2" theme_string="537 U.S. 1168" gram_type="apposition" relation_type="asymmetric" id="126910_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1168" X_vs_Y_string="HASAN v. DEPARTMENT OF LABOR ET AL" standard_case="126910_1" X_vs_Y="126910_3" gram_type="pre_nom" relation_type="equivalence" id="126910_7" ></RELATION>
+
+<RELATION theme="126910_3" includes_docket_string="02-592" includes_docket="126910_2" theme_string="HASAN v. DEPARTMENT OF LABOR ET AL" gram_type="apposition" relation_type="asymmetric" id="126910_10" ></RELATION>
+
+<RELATION theme="126910_3" party1="126910_4" party1_string="HASAN" theme_string="HASAN v. DEPARTMENT OF LABOR ET AL" gram_type="infix" relation_type="asymmetric" id="126910_8" ></RELATION>
+
+<RELATION party2="126910_5" theme="126910_3" theme_string="HASAN v. DEPARTMENT OF LABOR ET AL" party2_string="DEPARTMENT OF LABOR ET AL" gram_type="infix" relation_type="asymmetric" id="126910_9" ></RELATION>
+

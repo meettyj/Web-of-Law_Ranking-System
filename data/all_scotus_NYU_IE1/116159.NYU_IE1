@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['molandstates#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1057" id1="116150" volume="510" start="0" page_number="1057" standard_reporter="U.S." citation_global_level_id="3892.002" line="1" id="116159_1" citation_local_level_id="0" >510 U.S. 1057</CITATION>
+
+<CITATION party2="United States" party1="Moland" citation_global_level_id="42221.001" party2_short="States" line="1" id="116159_3" alternative_keys="['u.s._510_1057']" end="41" entry_type="party_key" lookup_key="molandstates#1" id1="116159" start="18" party1_short="Moland" citation_local_level_id="1" >Moland v. United States</CITATION>
+
+<NAME end="24" start="18" party1_of="116159_3" all_names="MOLAND" local_name_id="1" id="116159_4" >Moland</NAME>
+
+<NAME end="41" start="28" all_names="UNITED STATES" party2_of="116159_3" local_name_id="2" id="116159_5" >United States</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._510_1057" id1="116150" start="51" citation_global_level_id="3892.002" line="1" id="116159_2" citation_local_level_id="0" >93-6742</DOCKET>
+
+<DATE start="100" end="116" id="116159_6" >January 10, 1994</DATE>
+
+<NAME start="195" local_name_id="3" end="205" id="116159_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="243" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_996_259" id1="Dummy_File_109511" volume="996" start="230" page_number="259" standard_reporter="F.2D" citation_global_level_id="173361.001" line="3" id="116159_12" citation_local_level_id="2" >996 F. 2d 259</CITATION>
+
+<RELATION theme="116159_1" includes_docket_string="93-6742" includes_docket="116159_2" theme_string="510 U.S. 1057" gram_type="apposition" relation_type="asymmetric" id="116159_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1057" X_vs_Y_string="Moland v. United States" standard_case="116159_1" X_vs_Y="116159_3" gram_type="pre_nom" relation_type="equivalence" id="116159_7" ></RELATION>
+
+<RELATION theme="116159_3" includes_docket_string="93-6742" includes_docket="116159_2" theme_string="Moland v. United States" gram_type="apposition" relation_type="asymmetric" id="116159_10" ></RELATION>
+
+<RELATION theme="116159_3" party1="116159_4" party1_string="Moland" theme_string="Moland v. United States" gram_type="infix" relation_type="asymmetric" id="116159_8" ></RELATION>
+
+<RELATION party2="116159_5" theme="116159_3" theme_string="Moland v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="116159_9" ></RELATION>
+

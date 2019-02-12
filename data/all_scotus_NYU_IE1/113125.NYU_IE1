@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['aitsoncampbell#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_821" id1="113135" volume="510" start="0" page_number="821" standard_reporter="U.S." citation_global_level_id="11439.002" line="1" id="113125_1" citation_local_level_id="0" >510 U.S. 821</CITATION>
+
+<CITATION party2="Campbell et al" party1="Aitson" citation_global_level_id="26429.001" party2_short="Campbell" line="1" id="113125_3" alternative_keys="['u.s._510_821']" end="41" entry_type="party_key" lookup_key="aitsoncampbell#1" id1="113125" start="17" party1_short="Aitson" citation_local_level_id="1" >Aitson v. Campbell et al</CITATION>
+
+<NAME end="23" start="17" party1_of="113125_3" all_names="AITSON" local_name_id="1" id="113125_4" >Aitson</NAME>
+
+<NAME end="41" start="27" all_names="CAMPBELL" party2_of="113125_3" local_name_id="2" id="113125_5" >Campbell et al</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._510_821" id1="113135" start="51" citation_global_level_id="11439.002" line="1" id="113125_2" citation_local_level_id="0" >92-1921</DOCKET>
+
+<DATE start="54" end="58" id="113125_6" >1921</DATE>
+
+<DATE start="100" end="115" id="113125_7" >October 4, 1993</DATE>
+
+<NAME start="194" local_name_id="3" end="204" id="113125_15" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="242" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_989_507" id1="Dummy_File_78264" volume="989" start="229" page_number="507" standard_reporter="F.2D" citation_global_level_id="142114.001" line="3" id="113125_14" citation_local_level_id="2" >989 F. 2d 507</CITATION>
+
+<RELATION theme="113125_1" includes_docket_string="92-1921" includes_docket="113125_2" theme_string="510 U.S. 821" gram_type="apposition" relation_type="asymmetric" id="113125_12" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 821" X_vs_Y_string="Aitson v. Campbell et al" standard_case="113125_1" X_vs_Y="113125_3" gram_type="pre_nom" relation_type="equivalence" id="113125_8" ></RELATION>
+
+<RELATION theme="113125_3" includes_docket_string="92-1921" includes_docket="113125_2" theme_string="Aitson v. Campbell et al" gram_type="apposition" relation_type="asymmetric" id="113125_11" ></RELATION>
+
+<RELATION party2="113125_5" theme="113125_3" theme_string="Aitson v. Campbell et al" party2_string="Campbell et al" gram_type="infix" relation_type="asymmetric" id="113125_10" ></RELATION>
+
+<RELATION theme="113125_3" party1="113125_4" party1_string="Aitson" theme_string="Aitson v. Campbell et al" gram_type="infix" relation_type="asymmetric" id="113125_9" ></RELATION>
+
+<RELATION at_date_string="1921" theme="113125_2" at_date="113125_6" theme_string="92-1921" gram_type="infix" relation_type="asymmetric" id="113125_13" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['moorecain#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1236" id1="127758" volume="537" start="0" page_number="1236" standard_reporter="U.S." citation_global_level_id="3811.002" line="1" id="127757_1" citation_local_level_id="0" >537 U.S. 1236</CITATION>
+
+<CITATION party2="CAIN, WARDEN" party1="MOORE" citation_global_level_id="3811.005" party2_short="CAIN" line="1" id="127757_3" alternative_keys="['u.s._537_1236']" end="39" entry_type="party_key" lookup_key="moorecain#1" id1="127758" start="18" party1_short="MOORE" citation_local_level_id="1" >MOORE v. CAIN, WARDEN</CITATION>
+
+<NAME end="23" start="18" party1_of="127757_3" all_names="MOORE" local_name_id="1" id="127757_4" >MOORE</NAME>
+
+<NAME end="39" start="27" all_names="CAIN WARDEN" party2_of="127757_3" local_name_id="2" id="127757_5" >CAIN, WARDEN</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._537_1236" id1="127758" start="49" citation_global_level_id="3811.002" line="1" id="127757_2" citation_local_level_id="0" >02-8228</DOCKET>
+
+<DATE start="98" end="111" id="127757_6" >March 3, 2003</DATE>
+
+<NAME start="240" local_name_id="3" end="243" id="127757_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="293" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_298_361" id1="Dummy_File_96022" volume="298" start="280" page_number="361" standard_reporter="F.3D" citation_global_level_id="159872.001" line="3" id="127757_12" citation_local_level_id="2" >298 F. 3d 361</CITATION>
+
+<RELATION theme="127757_1" includes_docket_string="02-8228" includes_docket="127757_2" theme_string="537 U.S. 1236" gram_type="apposition" relation_type="asymmetric" id="127757_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1236" X_vs_Y_string="MOORE v. CAIN, WARDEN" standard_case="127757_1" X_vs_Y="127757_3" gram_type="pre_nom" relation_type="equivalence" id="127757_7" ></RELATION>
+
+<RELATION theme="127757_3" includes_docket_string="02-8228" includes_docket="127757_2" theme_string="MOORE v. CAIN, WARDEN" gram_type="apposition" relation_type="asymmetric" id="127757_10" ></RELATION>
+
+<RELATION theme="127757_3" party1="127757_4" party1_string="MOORE" theme_string="MOORE v. CAIN, WARDEN" gram_type="infix" relation_type="asymmetric" id="127757_8" ></RELATION>
+
+<RELATION party2="127757_5" theme="127757_3" theme_string="MOORE v. CAIN, WARDEN" party2_string="CAIN, WARDEN" gram_type="infix" relation_type="asymmetric" id="127757_9" ></RELATION>
+

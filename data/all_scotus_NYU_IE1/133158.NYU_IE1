@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['cartwrightpersons#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_955" id1="133163" volume="540" start="0" page_number="955" standard_reporter="U.S." citation_global_level_id="6449.002" line="1" id="133158_1" citation_local_level_id="0" >540 U.S. 955</CITATION>
+
+<CITATION party2="PERSONS" party1="CARTWRIGHT" citation_global_level_id="38603.001" party2_short="PERSONS" line="1" id="133158_3" alternative_keys="['u.s._540_955']" end="38" entry_type="party_key" lookup_key="cartwrightpersons#1" id1="133158" start="17" party1_short="CARTWRIGHT" citation_local_level_id="1" >CARTWRIGHT v. PERSONS</CITATION>
+
+<NAME end="27" start="17" party1_of="133158_3" all_names="CARTWRIGHT" local_name_id="1" id="133158_4" >CARTWRIGHT</NAME>
+
+<NAME end="38" start="31" all_names="PERSONS" party2_of="133158_3" local_name_id="2" id="133158_5" >PERSONS</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._540_955" id1="133163" start="48" citation_global_level_id="6449.002" line="1" id="133158_2" citation_local_level_id="0" >03-5795</DOCKET>
+
+<DATE start="97" end="113" id="133158_6" >October 14, 2003</DATE>
+
+<NAME start="190" local_name_id="3" end="200" id="133158_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="239" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_883_270" id1="Dummy_File_45365" volume="883" start="225" page_number="270" standard_reporter="SO.2D" citation_global_level_id="109215.001" line="3" id="133158_12" citation_local_level_id="2" >883 So. 2d 270</CITATION>
+
+<RELATION theme="133158_1" includes_docket_string="03-5795" includes_docket="133158_2" theme_string="540 U.S. 955" gram_type="apposition" relation_type="asymmetric" id="133158_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 955" X_vs_Y_string="CARTWRIGHT v. PERSONS" standard_case="133158_1" X_vs_Y="133158_3" gram_type="pre_nom" relation_type="equivalence" id="133158_7" ></RELATION>
+
+<RELATION theme="133158_3" includes_docket_string="03-5795" includes_docket="133158_2" theme_string="CARTWRIGHT v. PERSONS" gram_type="apposition" relation_type="asymmetric" id="133158_10" ></RELATION>
+
+<RELATION theme="133158_3" party1="133158_4" party1_string="CARTWRIGHT" theme_string="CARTWRIGHT v. PERSONS" gram_type="infix" relation_type="asymmetric" id="133158_8" ></RELATION>
+
+<RELATION party2="133158_5" theme="133158_3" theme_string="CARTWRIGHT v. PERSONS" party2_string="PERSONS" gram_type="infix" relation_type="asymmetric" id="133158_9" ></RELATION>
+

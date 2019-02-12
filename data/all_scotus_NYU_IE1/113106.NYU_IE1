@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['agangeorgia#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_819" id1="113107" volume="510" start="0" page_number="819" standard_reporter="U.S." citation_global_level_id="18885.002" line="1" id="113106_1" citation_local_level_id="0" >510 U.S. 819</CITATION>
+
+<CITATION party2="Georgia" party1="Agan" citation_global_level_id="25363.001" party2_short="Georgia" line="1" id="113106_3" alternative_keys="['u.s._510_819']" end="32" entry_type="party_key" lookup_key="agangeorgia#1" id1="113106" start="17" party1_short="Agan" citation_local_level_id="1" >Agan v. Georgia</CITATION>
+
+<NAME end="21" start="17" party1_of="113106_3" all_names="AGAN" local_name_id="1" id="113106_4" >Agan</NAME>
+
+<NAME end="32" start="25" all_names="GEORGIA" party2_of="113106_3" local_name_id="2" id="113106_5" >Georgia</NAME>
+
+<DOCKET end="49" entry_type="docket" lookup_key="u.s._510_819" id1="113107" start="42" citation_global_level_id="18885.002" line="1" id="113106_2" citation_local_level_id="0" >92-1903</DOCKET>
+
+<DATE start="45" end="49" id="113106_6" >1903</DATE>
+
+<DATE start="91" end="106" id="113106_7" >October 4, 1993</DATE>
+
+<NAME start="182" local_name_id="3" end="192" id="113106_16" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="228" reporter="Ga." entry_type="standard_key" no_current_file="True" lookup_key="ga._262_783" id1="Dummy_File_189045" volume="262" start="217" page_number="783" standard_reporter="GA." citation_global_level_id="252895.001" line="3" id="113106_14" citation_local_level_id="2" >262 Ga. 783</CITATION>
+
+<CITATION end="246" reporter="S. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="s.e.2d_426_552" id1="Dummy_File_189046" volume="426" start="230" page_number="552" standard_reporter="S.E.2D" citation_global_level_id="252896.001" line="3" id="113106_15" citation_local_level_id="3" >426 S. E. 2d 552</CITATION>
+
+<RELATION theme="113106_1" includes_docket_string="92-1903" includes_docket="113106_2" theme_string="510 U.S. 819" gram_type="apposition" relation_type="asymmetric" id="113106_12" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 819" X_vs_Y_string="Agan v. Georgia" standard_case="113106_1" X_vs_Y="113106_3" gram_type="pre_nom" relation_type="equivalence" id="113106_8" ></RELATION>
+
+<RELATION theme="113106_3" includes_docket_string="92-1903" includes_docket="113106_2" theme_string="Agan v. Georgia" gram_type="apposition" relation_type="asymmetric" id="113106_11" ></RELATION>
+
+<RELATION party2="113106_5" theme="113106_3" theme_string="Agan v. Georgia" party2_string="Georgia" gram_type="infix" relation_type="asymmetric" id="113106_10" ></RELATION>
+
+<RELATION theme="113106_3" party1="113106_4" party1_string="Agan" theme_string="Agan v. Georgia" gram_type="infix" relation_type="asymmetric" id="113106_9" ></RELATION>
+
+<RELATION at_date_string="1903" theme="113106_2" at_date="113106_6" theme_string="92-1903" gram_type="infix" relation_type="asymmetric" id="113106_13" ></RELATION>
+

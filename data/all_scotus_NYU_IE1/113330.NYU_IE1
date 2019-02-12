@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['ackerennebraska#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_836" id1="113331" volume="510" start="0" page_number="836" standard_reporter="U.S." citation_global_level_id="2131.002" line="1" id="113330_1" citation_local_level_id="0" >510 U.S. 836</CITATION>
+
+<CITATION party2="Nebraska" party1="Van Ackeren" citation_global_level_id="58009.001" party2_short="Nebraska" line="1" id="113330_3" alternative_keys="['u.s._510_836']" end="40" entry_type="party_key" lookup_key="ackerennebraska#1" id1="113330" start="17" party1_short="Ackeren" citation_local_level_id="1" >Van Ackeren v. Nebraska</CITATION>
+
+<NAME end="28" start="17" party1_of="113330_3" all_names="VAN ACKEREN" local_name_id="1" id="113330_4" >Van Ackeren</NAME>
+
+<NAME end="40" start="32" all_names="NEBRASKA" party2_of="113330_3" local_name_id="2" id="113330_5" >Nebraska</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._510_836" id1="113331" start="50" citation_global_level_id="2131.002" line="1" id="113330_2" citation_local_level_id="0" >92-8806</DOCKET>
+
+<DATE start="99" end="114" id="113330_6" >October 4, 1993</DATE>
+
+<NAME start="191" local_name_id="3" end="201" id="113330_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="256" reporter="N. W. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.w.2d_495_630" id1="Dummy_File_223002" volume="495" start="240" page_number="630" standard_reporter="N.W.2D" citation_global_level_id="286852.001" line="3" id="113330_12" citation_local_level_id="2" >495 N. W. 2d 630</CITATION>
+
+<RELATION theme="113330_1" includes_docket_string="92-8806" includes_docket="113330_2" theme_string="510 U.S. 836" gram_type="apposition" relation_type="asymmetric" id="113330_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 836" X_vs_Y_string="Van Ackeren v. Nebraska" standard_case="113330_1" X_vs_Y="113330_3" gram_type="pre_nom" relation_type="equivalence" id="113330_7" ></RELATION>
+
+<RELATION theme="113330_3" includes_docket_string="92-8806" includes_docket="113330_2" theme_string="Van Ackeren v. Nebraska" gram_type="apposition" relation_type="asymmetric" id="113330_10" ></RELATION>
+
+<RELATION theme="113330_3" party1="113330_4" party1_string="Van Ackeren" theme_string="Van Ackeren v. Nebraska" gram_type="infix" relation_type="asymmetric" id="113330_8" ></RELATION>
+
+<RELATION party2="113330_5" theme="113330_3" theme_string="Van Ackeren v. Nebraska" party2_string="Nebraska" gram_type="infix" relation_type="asymmetric" id="113330_9" ></RELATION>
+

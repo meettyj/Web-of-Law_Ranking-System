@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['fugatewarden#2', 'a._01_980']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._536_935" id1="121582" volume="536" start="0" page_number="935" standard_reporter="U.S." citation_global_level_id="4707.002" line="1" id="121584_1" citation_local_level_id="0" >536 U.S. 935</CITATION>
+
+<CITATION party2="HEAD, WARDEN" party1="FUGATE" citation_global_level_id="22628.001" party2_short="WARDEN" line="2" id="121584_2" alternative_keys="['u.s._536_935', 'a._01_980']" end="39" entry_type="party_key" lookup_key="fugatewarden#2" id1="120923" start="17" party1_short="FUGATE" citation_local_level_id="1" >FUGATE v. HEAD, WARDEN</CITATION>
+
+<NAME end="23" start="17" party1_of="121584_2" all_names="FUGATE" local_name_id="1" id="121584_3" >FUGATE</NAME>
+
+<NAME end="39" start="27" all_names="HEAD WARDEN" party2_of="121584_2" local_name_id="2" id="121584_4" >HEAD, WARDEN</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="fugatewarden#2" id1="120923" start="49" citation_global_level_id="22628.001" line="3" id="121584_8" citation_local_level_id="1" >01-10810</DOCKET>
+
+<CITATION alternative_keys="['u.s._536_935', 'fugatewarden#2']" end="65" reporter="A" entry_type="standard_key" lookup_key="a._01_980" id1="121584" volume="01" start="59" page_number="980" standard_reporter="A." citation_global_level_id="16341.002" line="3" id="121584_7" citation_local_level_id="2" >01A980</CITATION>
+
+<DATE start="112" citation_global_level_id="22628.001" end="125" id="121584_9" citation_local_level_id="1" >June 18, 2002</DATE>
+
+<NAME start="147" local_name_id="3" end="150" id="121584_14" all_names="SUP" >Sup</NAME>
+
+<RELATION theme="121584_2" party1="121584_3" party1_string="FUGATE" theme_string="FUGATE v. HEAD, WARDEN" gram_type="infix" relation_type="asymmetric" id="121584_5" ></RELATION>
+
+<RELATION party2="121584_4" theme="121584_2" theme_string="FUGATE v. HEAD, WARDEN" party2_string="HEAD, WARDEN" gram_type="infix" relation_type="asymmetric" id="121584_6" ></RELATION>
+
+<RELATION standard_case_string="536 U.S. 935" X_vs_Y_string="FUGATE v. HEAD, WARDEN" standard_case="121584_1" X_vs_Y="121584_2" gram_type="multi_line" relation_type="equivalence" id="121584_10" ></RELATION>
+
+<RELATION at_date_string="June 18, 2002" theme="121584_2" at_date="121584_9" theme_string="FUGATE v. HEAD, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="121584_13" ></RELATION>
+
+<RELATION standard_case_string="01A980" X_vs_Y_string="FUGATE v. HEAD, WARDEN" standard_case="121584_7" X_vs_Y="121584_2" gram_type="multi_line" relation_type="equivalence" id="121584_11" ></RELATION>
+
+<RELATION theme="121584_2" includes_docket_string="01-10810" includes_docket="121584_8" theme_string="FUGATE v. HEAD, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="121584_12" ></RELATION>
+

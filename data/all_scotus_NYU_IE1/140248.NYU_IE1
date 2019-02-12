@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['cortezstates#5']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_994" id1="140248" volume="543" start="0" page_number="994" standard_reporter="U.S." citation_global_level_id="1439.002" line="1" id="140248_1" citation_local_level_id="0" >543 U.S. 994</CITATION>
+
+<CITATION party2="UNITED STATES" party1="MADRID-CORTEZ" citation_global_level_id="43109.001" party2_short="STATES" line="2" id="140248_2" alternative_keys="['u.s._543_994']" end="47" entry_type="party_key" lookup_key="cortezstates#5" id1="124036" start="17" party1_short="CORTEZ" citation_local_level_id="1" >MADRID-CORTEZ v. UNITED STATES</CITATION>
+
+<NAME end="30" start="17" party1_of="140248_2" all_names="MADRID-CORTEZ" local_name_id="1" id="140248_3" >MADRID-CORTEZ</NAME>
+
+<NAME end="47" start="34" all_names="UNITED STATES" party2_of="140248_2" local_name_id="2" id="140248_4" >UNITED STATES</NAME>
+
+<DOCKET end="64" entry_type="docket" lookup_key="cortezstates#5" id1="124036" start="57" citation_global_level_id="43109.001" line="3" id="140248_7" citation_local_level_id="1" >04-6852</DOCKET>
+
+<ORGANIZATION start="70" end="100" id="140248_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="106" citation_global_level_id="43109.001" end="123" id="140248_9" citation_local_level_id="1" >November 15, 2004</DATE>
+
+<NAME start="155" local_name_id="3" end="158" id="140248_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="140248_2" party1="140248_3" party1_string="MADRID-CORTEZ" theme_string="MADRID-CORTEZ v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="140248_5" ></RELATION>
+
+<RELATION party2="140248_4" theme="140248_2" theme_string="MADRID-CORTEZ v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="140248_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 994" X_vs_Y_string="MADRID-CORTEZ v. UNITED STATES" standard_case="140248_1" X_vs_Y="140248_2" gram_type="multi_line" relation_type="equivalence" id="140248_10" ></RELATION>
+
+<RELATION at_date_string="November 15, 2004" theme="140248_2" at_date="140248_9" theme_string="MADRID-CORTEZ v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="140248_12" ></RELATION>
+
+<RELATION theme="140248_2" includes_docket_string="04-6852" includes_docket="140248_7" theme_string="MADRID-CORTEZ v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="140248_11" ></RELATION>
+

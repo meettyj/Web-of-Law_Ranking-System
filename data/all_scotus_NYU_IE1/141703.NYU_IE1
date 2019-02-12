@@ -1,0 +1,36 @@
+<CITATION alternative_keys="['kachimbostates#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1105" id1="141711" volume="543" start="0" page_number="1105" standard_reporter="U.S." citation_global_level_id="13906.002" line="1" id="141703_1" citation_local_level_id="0" >543 U.S. 1105</CITATION>
+
+<CITATION party2="UNITED STATES" party1="MURILLO KACHIMBO, AKA AKHIN MURILLO" citation_global_level_id="17137.001" party2_short="STATES" line="2" id="141703_2" alternative_keys="['u.s._543_1105']" end="70" entry_type="party_key" lookup_key="kachimbostates#1" id1="141703" start="18" party1_short="KACHIMBO" citation_local_level_id="1" >MURILLO KACHIMBO, AKA AKHIN MURILLO v. UNITED STATES</CITATION>
+
+<NAME end="53" start="18" party1_of="141703_2" all_names="MURILLO KACHIMBO AKA AKHIN MURILLO" local_name_id="1" id="141703_3" >MURILLO KACHIMBO, AKA AKHIN MURILLO</NAME>
+
+<NAME end="70" start="57" all_names="UNITED STATES" party2_of="141703_2" local_name_id="2" id="141703_4" >UNITED STATES</NAME>
+
+<DOCKET end="87" entry_type="docket" lookup_key="kachimbostates#1" id1="141703" start="80" citation_global_level_id="17137.001" line="3" id="141703_7" citation_local_level_id="1" >04-5699</DOCKET>
+
+<ORGANIZATION start="93" end="123" id="141703_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="129" citation_global_level_id="17137.001" end="145" id="141703_9" citation_local_level_id="1" >January 24, 2005</DATE>
+
+<NAME start="178" local_name_id="3" end="181" id="141703_16" all_names="CIR" >Cir</NAME>
+
+<CITATION party2="Booker" party1="United States" citation_global_level_id="57130.001" party2_short="Booker" line="8" id="141703_13" end="408" entry_type="party_key" lookup_key="statesbooker#4" id1="137703" start="385" party1_short="States" citation_local_level_id="2" >United States v. Booker</CITATION>
+
+<NAME end="398" start="385" party1_of="141703_13" all_names="UNITED STATES" local_name_id="2" id="141703_14" >United States</NAME>
+
+<NAME end="408" start="402" all_names="BOOKER" party2_of="141703_13" local_name_id="4" id="141703_15" >Booker</NAME>
+
+<RELATION theme="141703_2" party1="141703_3" party1_string="MURILLO KACHIMBO, AKA AKHIN MURILLO" theme_string="MURILLO KACHIMBO, AKA AKHIN MURILLO v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="141703_5" ></RELATION>
+
+<RELATION party2="141703_4" theme="141703_2" theme_string="MURILLO KACHIMBO, AKA AKHIN MURILLO v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="141703_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1105" X_vs_Y_string="MURILLO KACHIMBO, AKA AKHIN MURILLO v. UNITED STATES" standard_case="141703_1" X_vs_Y="141703_2" gram_type="multi_line" relation_type="equivalence" id="141703_10" ></RELATION>
+
+<RELATION at_date_string="January 24, 2005" theme="141703_2" at_date="141703_9" theme_string="MURILLO KACHIMBO, AKA AKHIN MURILLO v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="141703_12" ></RELATION>
+
+<RELATION theme="141703_2" includes_docket_string="04-5699" includes_docket="141703_7" theme_string="MURILLO KACHIMBO, AKA AKHIN MURILLO v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="141703_11" ></RELATION>
+
+<RELATION theme="141703_13" party1="141703_14" party1_string="United States" theme_string="United States v. Booker" gram_type="infix" relation_type="asymmetric" id="141703_17" ></RELATION>
+
+<RELATION party2="141703_15" theme="141703_13" theme_string="United States v. Booker" party2_string="Booker" gram_type="infix" relation_type="asymmetric" id="141703_18" ></RELATION>
+

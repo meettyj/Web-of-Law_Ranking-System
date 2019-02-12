@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['ramseyillinois#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_889" id1="132314" volume="540" start="0" page_number="889" standard_reporter="U.S." citation_global_level_id="2123.002" line="1" id="132314_1" citation_local_level_id="0" >540 U.S. 889</CITATION>
+
+<CITATION party2="ILLINOIS" party1="RAMSEY" citation_global_level_id="47738.001" party2_short="ILLINOIS" line="1" id="132314_3" alternative_keys="['u.s._540_889']" end="35" entry_type="party_key" lookup_key="ramseyillinois#2" id1="124518" start="17" party1_short="RAMSEY" citation_local_level_id="1" >RAMSEY v. ILLINOIS</CITATION>
+
+<NAME end="23" start="17" party1_of="132314_3" all_names="RAMSEY" local_name_id="1" id="132314_4" >RAMSEY</NAME>
+
+<NAME end="35" start="27" all_names="ILLINOIS" party2_of="132314_3" local_name_id="2" id="132314_5" >ILLINOIS</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="u.s._540_889" id1="132314" start="45" citation_global_level_id="2123.002" line="1" id="132314_2" citation_local_level_id="0" >03-5110</DOCKET>
+
+<DATE start="94" end="109" id="132314_6" >October 6, 2003</DATE>
+
+<NAME start="197" local_name_id="3" end="207" id="132314_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="132314_1" includes_docket_string="03-5110" includes_docket="132314_2" theme_string="540 U.S. 889" gram_type="apposition" relation_type="asymmetric" id="132314_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 889" X_vs_Y_string="RAMSEY v. ILLINOIS" standard_case="132314_1" X_vs_Y="132314_3" gram_type="pre_nom" relation_type="equivalence" id="132314_7" ></RELATION>
+
+<RELATION theme="132314_3" includes_docket_string="03-5110" includes_docket="132314_2" theme_string="RAMSEY v. ILLINOIS" gram_type="apposition" relation_type="asymmetric" id="132314_10" ></RELATION>
+
+<RELATION theme="132314_3" party1="132314_4" party1_string="RAMSEY" theme_string="RAMSEY v. ILLINOIS" gram_type="infix" relation_type="asymmetric" id="132314_8" ></RELATION>
+
+<RELATION party2="132314_5" theme="132314_3" theme_string="RAMSEY v. ILLINOIS" party2_string="ILLINOIS" gram_type="infix" relation_type="asymmetric" id="132314_9" ></RELATION>
+

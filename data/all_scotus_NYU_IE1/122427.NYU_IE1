@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['montescity#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_816" id1="122435" volume="537" start="0" page_number="816" standard_reporter="U.S." citation_global_level_id="188.002" line="1" id="122427_1" citation_local_level_id="0" >537 U.S. 816</CITATION>
+
+<CITATION party2="CITY OF HOUSTON" party1="MONTES" citation_global_level_id="3890.001" party2_short="CITY" line="1" id="122427_3" alternative_keys="['u.s._537_816']" end="42" entry_type="party_key" lookup_key="montescity#1" id1="122427" start="17" party1_short="MONTES" citation_local_level_id="1" >MONTES v. CITY OF HOUSTON</CITATION>
+
+<NAME end="23" start="17" party1_of="122427_3" all_names="MONTES" local_name_id="1" id="122427_4" >MONTES</NAME>
+
+<NAME end="42" start="27" all_names="CITY OF HOUSTON" party2_of="122427_3" local_name_id="2" id="122427_5" >CITY OF HOUSTON</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="u.s._537_816" id1="122435" start="52" citation_global_level_id="188.002" line="1" id="122427_2" citation_local_level_id="0" >01-1691</DOCKET>
+
+<DATE start="101" end="116" id="122427_6" >October 7, 2002</DATE>
+
+<NAME start="205" local_name_id="3" end="208" id="122427_13" all_names="SUP" >Sup</NAME>
+
+<CITATION end="269" reporter="S. W. 3d" entry_type="standard_key" no_current_file="True" lookup_key="s.w.3d_66_267" id1="Dummy_File_197166" volume="66" start="254" page_number="267" standard_reporter="S.W.3D" citation_global_level_id="261016.001" line="3" id="122427_12" citation_local_level_id="2" >66 S. W. 3d 267</CITATION>
+
+<RELATION theme="122427_1" includes_docket_string="01-1691" includes_docket="122427_2" theme_string="537 U.S. 816" gram_type="apposition" relation_type="asymmetric" id="122427_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 816" X_vs_Y_string="MONTES v. CITY OF HOUSTON" standard_case="122427_1" X_vs_Y="122427_3" gram_type="pre_nom" relation_type="equivalence" id="122427_7" ></RELATION>
+
+<RELATION theme="122427_3" includes_docket_string="01-1691" includes_docket="122427_2" theme_string="MONTES v. CITY OF HOUSTON" gram_type="apposition" relation_type="asymmetric" id="122427_10" ></RELATION>
+
+<RELATION theme="122427_3" party1="122427_4" party1_string="MONTES" theme_string="MONTES v. CITY OF HOUSTON" gram_type="infix" relation_type="asymmetric" id="122427_8" ></RELATION>
+
+<RELATION party2="122427_5" theme="122427_3" theme_string="MONTES v. CITY OF HOUSTON" party2_string="CITY OF HOUSTON" gram_type="infix" relation_type="asymmetric" id="122427_9" ></RELATION>
+

@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['stahlpharmaceuticals#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_824" id1="122538" volume="537" start="0" page_number="824" standard_reporter="U.S." citation_global_level_id="480.002" line="1" id="122532_1" citation_local_level_id="0" >537 U.S. 824</CITATION>
+
+<CITATION party2="NOVARTIS PHARMACEUTICALS CORP" party1="STAHL" citation_global_level_id="4571.001" party2_short="PHARMACEUTICALS" line="1" id="122532_3" alternative_keys="['u.s._537_824']" end="55" entry_type="party_key" lookup_key="stahlpharmaceuticals#1" id1="122532" start="17" party1_short="STAHL" citation_local_level_id="1" >STAHL v. NOVARTIS PHARMACEUTICALS CORP</CITATION>
+
+<NAME end="22" start="17" party1_of="122532_3" all_names="STAHL" local_name_id="1" id="122532_4" >STAHL</NAME>
+
+<NAME end="55" start="26" all_names="NOVARTIS PHARMACEUTICALS CORP" party2_of="122532_3" local_name_id="2" id="122532_5" >NOVARTIS PHARMACEUTICALS CORP</NAME>
+
+<DOCKET end="72" entry_type="docket" lookup_key="u.s._537_824" id1="122538" start="65" citation_global_level_id="480.002" line="1" id="122532_2" citation_local_level_id="0" >01-1835</DOCKET>
+
+<DATE start="68" end="72" id="122532_6" >1835</DATE>
+
+<DATE start="114" end="129" id="122532_7" >October 7, 2002</DATE>
+
+<NAME start="258" local_name_id="3" end="261" id="122532_15" all_names="CIR" >Cir</NAME>
+
+<CITATION alternative_keys="['stahlpharmaceuticals#1']" end="311" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_283_254" id1="122532" volume="283" start="298" page_number="254" standard_reporter="F.3D" citation_global_level_id="4571.002" line="3" id="122532_14" citation_local_level_id="2" >283 F. 3d 254</CITATION>
+
+<RELATION theme="122532_1" includes_docket_string="01-1835" includes_docket="122532_2" theme_string="537 U.S. 824" gram_type="apposition" relation_type="asymmetric" id="122532_12" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 824" X_vs_Y_string="STAHL v. NOVARTIS PHARMACEUTICALS CORP" standard_case="122532_1" X_vs_Y="122532_3" gram_type="pre_nom" relation_type="equivalence" id="122532_8" ></RELATION>
+
+<RELATION theme="122532_3" includes_docket_string="01-1835" includes_docket="122532_2" theme_string="STAHL v. NOVARTIS PHARMACEUTICALS CORP" gram_type="apposition" relation_type="asymmetric" id="122532_11" ></RELATION>
+
+<RELATION party2="122532_5" theme="122532_3" theme_string="STAHL v. NOVARTIS PHARMACEUTICALS CORP" party2_string="NOVARTIS PHARMACEUTICALS CORP" gram_type="infix" relation_type="asymmetric" id="122532_10" ></RELATION>
+
+<RELATION theme="122532_3" party1="122532_4" party1_string="STAHL" theme_string="STAHL v. NOVARTIS PHARMACEUTICALS CORP" gram_type="infix" relation_type="asymmetric" id="122532_9" ></RELATION>
+
+<RELATION at_date_string="1835" theme="122532_2" at_date="122532_6" theme_string="01-1835" gram_type="infix" relation_type="asymmetric" id="122532_13" ></RELATION>
+

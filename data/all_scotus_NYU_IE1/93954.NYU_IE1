@@ -1,0 +1,58 @@
+<CITATION alternative_keys="['statesw#5', 's.ct._14_1211', 'l.ed._38_1087']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._154_532" id1="93954" volume="154" start="0" page_number="532" standard_reporter="U.S." citation_global_level_id="52344.002" line="1" id="93954_1" citation_local_level_id="0" >154 U.S. 532</CITATION>
+
+<CITATION alternative_keys="['u.s._154_532', 'statesw#5', 'l.ed._38_1087']" end="31" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._14_1211" id1="94008" volume="14" start="17" page_number="1211" standard_reporter="S.CT." citation_global_level_id="39660.003" line="1" id="93954_2" citation_local_level_id="1" >14 S. Ct. 1211</CITATION>
+
+<NAME start="20" local_name_id="1" end="25" id="93954_11" all_names="S CT" >S. Ct</NAME>
+
+<CITATION alternative_keys="['u.s._154_532', 's.ct._14_1211', 'statesw#5']" end="50" reporter="L. Ed." entry_type="standard_key" lookup_key="l.ed._38_1087" id1="93953" volume="38" start="36" page_number="1087" standard_reporter="L.ED." citation_global_level_id="46128.004" line="1" id="93954_3" citation_local_level_id="2" >38 L. Ed. 1087</CITATION>
+
+<CITATION party2="EDWARD W" party1="UNITED STATES" citation_global_level_id="52344.003" party2_short="W" line="1" id="93954_4" alternative_keys="['s.ct._14_1211', 'l.ed._38_1087', 'u.s._154_532']" end="80" entry_type="party_key" lookup_key="statesw#5" id1="93954" start="55" party1_short="STATES" citation_local_level_id="3" >UNITED STATES v. EDWARD W</CITATION>
+
+<NAME end="68" start="55" party1_of="93954_4" all_names="UNITED STATES	CARRERE UNITED STATES" local_name_id="2" id="93954_6" >UNITED STATES</NAME>
+
+<NAME end="80" start="72" all_names="EDWARD W" party2_of="93954_4" local_name_id="3" id="93954_7" >EDWARD W</NAME>
+
+<CITATION party2="JOSEPH GRAFTON et ux" party1="CARRERE et al.  UNITED STATES" citation_global_level_id="278891.001" party2_short="GRAFTON" line="1" id="93954_5" end="137" no_current_file="True" entry_type="party_key" lookup_key="carreregrafton#1" id1="Dummy_File_215041" start="82" party1_short="CARRERE" citation_local_level_id="4" >CARRERE et al. UNITED STATES v. JOSEPH GRAFTON et ux</CITATION>
+
+<NAME end="111" start="82" party1_of="93954_5" all_names="UNITED STATES	CARRERE UNITED STATES" local_name_id="2" id="93954_8" >CARRERE et al. UNITED STATES</NAME>
+
+<NAME end="137" start="117" all_names="JOSEPH GRAFTON UX" party2_of="93954_5" local_name_id="4" id="93954_9" >JOSEPH GRAFTON et ux</NAME>
+
+<DATE start="163" end="176" id="93954_10" >March 3, 1853</DATE>
+
+<PROFESSION start="240" document_level_name_id="5" end="257" id="93954_23" party="TANEY" >Mr. Chief Justice</PROFESSION>
+
+<NAME start="258" local_name_id="5" end="263" id="93954_24" all_names="TANEY" >TANEY</NAME>
+
+<ORGANIZATION start="293" end="298" id="93954_25" >court</ORGANIZATION>
+
+<CITATION party2="City of Philadelphia" party1="U. S." citation_global_level_id="277272.001" party2_short="City" line="2" id="93954_20" end="527" no_current_file="True" entry_type="party_key" lookup_key="scity#4" id1="Dummy_File_213422" start="498" party1_short="S" citation_local_level_id="5" >U. S. v. City of Philadelphia</CITATION>
+
+<NAME end="503" start="498" party1_of="93954_20" all_names="U S" local_name_id="6" id="93954_21" >U. S.</NAME>
+
+<NAME end="527" start="507" all_names="CITY OF PHILADELPHIA" party2_of="93954_20" local_name_id="7" id="93954_22" >City of Philadelphia</NAME>
+
+<CITATION end="552" reporter="How." entry_type="standard_key" lookup_key="how._11_609" id1="86665" volume="11" start="541" page_number="609" standard_reporter="HOW." citation_global_level_id="13560.003" line="2" id="93954_19" citation_local_level_id="6" >11 How. 609</CITATION>
+
+<ORGANIZATION start="847" end="852" id="93954_29" >court</ORGANIZATION>
+
+<RELATION standard_case_string="154 U.S. 532" X_vs_Y_string="UNITED STATES v. EDWARD W" standard_case="93954_1" X_vs_Y="93954_4" gram_type="pre_nom" relation_type="equivalence" id="93954_13" ></RELATION>
+
+<RELATION standard_case_string="14 S. Ct. 1211" X_vs_Y_string="UNITED STATES v. EDWARD W" standard_case="93954_2" X_vs_Y="93954_4" gram_type="pre_nom" relation_type="equivalence" id="93954_14" ></RELATION>
+
+<RELATION standard_case_string="38 L. Ed. 1087" X_vs_Y_string="UNITED STATES v. EDWARD W" standard_case="93954_3" X_vs_Y="93954_4" gram_type="pre_nom" relation_type="equivalence" id="93954_12" ></RELATION>
+
+<RELATION theme="93954_4" party1="93954_6" party1_string="UNITED STATES" theme_string="UNITED STATES v. EDWARD W" gram_type="infix" relation_type="asymmetric" id="93954_15" ></RELATION>
+
+<RELATION party2="93954_7" theme="93954_4" theme_string="UNITED STATES v. EDWARD W" party2_string="EDWARD W" gram_type="infix" relation_type="asymmetric" id="93954_16" ></RELATION>
+
+<RELATION theme="93954_5" party1="93954_8" party1_string="CARRERE et al.  UNITED STATES" theme_string="CARRERE et al.  UNITED STATES  v.  JOSEPH GRAFTON et ux" gram_type="infix" relation_type="asymmetric" id="93954_17" ></RELATION>
+
+<RELATION party2="93954_9" theme="93954_5" theme_string="CARRERE et al.  UNITED STATES  v.  JOSEPH GRAFTON et ux" party2_string="JOSEPH GRAFTON et ux" gram_type="infix" relation_type="asymmetric" id="93954_18" ></RELATION>
+
+<RELATION theme="93954_24" profession_string="Mr. Chief Justice" theme_string="TANEY" profession="93954_23" gram_type="pre_nom" relation_type="asymmetric" id="93954_26" ></RELATION>
+
+<RELATION theme="93954_20" party1="93954_21" party1_string="U. S." theme_string="U. S. v. City of Philadelphia" gram_type="infix" relation_type="asymmetric" id="93954_27" ></RELATION>
+
+<RELATION party2="93954_22" theme="93954_20" theme_string="U. S. v. City of Philadelphia" party2_string="City of Philadelphia" gram_type="infix" relation_type="asymmetric" id="93954_28" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['diazgiurbino#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_890" id1="138926" volume="543" start="0" page_number="890" standard_reporter="U.S." citation_global_level_id="1039.002" line="1" id="138924_1" citation_local_level_id="0" >543 U.S. 890</CITATION>
+
+<CITATION party2="GIURBINO, WARDEN" party1="DIAZ" citation_global_level_id="1039.004" party2_short="GIURBINO" line="2" id="138924_2" alternative_keys="['u.s._543_890']" end="41" entry_type="party_key" lookup_key="diazgiurbino#1" id1="138926" start="17" party1_short="DIAZ" citation_local_level_id="1" >DIAZ v. GIURBINO, WARDEN</CITATION>
+
+<NAME end="21" start="17" party1_of="138924_2" all_names="DIAZ" local_name_id="1" id="138924_3" >DIAZ</NAME>
+
+<NAME end="41" start="25" all_names="GIURBINO WARDEN" party2_of="138924_2" local_name_id="2" id="138924_4" >GIURBINO, WARDEN</NAME>
+
+<DOCKET alternative_keys="['u.s._543_890']" end="58" entry_type="docket" lookup_key="diazgiurbino#1" id1="138926" start="51" citation_global_level_id="1039.004" line="3" id="138924_7" citation_local_level_id="1" >04-5255</DOCKET>
+
+<ORGANIZATION start="64" end="94" id="138924_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="100" citation_global_level_id="1039.004" end="115" id="138924_9" citation_local_level_id="1" >October 4, 2004</DATE>
+
+<NAME start="147" local_name_id="3" end="150" id="138924_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="138924_2" party1="138924_3" party1_string="DIAZ" theme_string="DIAZ v. GIURBINO, WARDEN" gram_type="infix" relation_type="asymmetric" id="138924_5" ></RELATION>
+
+<RELATION party2="138924_4" theme="138924_2" theme_string="DIAZ v. GIURBINO, WARDEN" party2_string="GIURBINO, WARDEN" gram_type="infix" relation_type="asymmetric" id="138924_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 890" X_vs_Y_string="DIAZ v. GIURBINO, WARDEN" standard_case="138924_1" X_vs_Y="138924_2" gram_type="multi_line" relation_type="equivalence" id="138924_10" ></RELATION>
+
+<RELATION at_date_string="October 4, 2004" theme="138924_2" at_date="138924_9" theme_string="DIAZ v. GIURBINO, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="138924_12" ></RELATION>
+
+<RELATION theme="138924_2" includes_docket_string="04-5255" includes_docket="138924_7" theme_string="DIAZ v. GIURBINO, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="138924_11" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['airlinesgroup#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_956" id1="139769" volume="543" start="0" page_number="956" standard_reporter="U.S." citation_global_level_id="1397.002" line="1" id="139763_1" citation_local_level_id="0" >543 U.S. 956</CITATION>
+
+<CITATION party2="MGM PRODUCTIONS GROUP, INC" party1="AEROFLOT RUSSIAN AIRLINES" citation_global_level_id="26398.001" party2_short="GROUP" line="2" id="139763_2" alternative_keys="['u.s._543_956']" end="72" entry_type="party_key" lookup_key="airlinesgroup#1" id1="139763" start="17" party1_short="AIRLINES" citation_local_level_id="1" >AEROFLOT RUSSIAN AIRLINES v. MGM PRODUCTIONS GROUP, INC</CITATION>
+
+<NAME end="42" start="17" party1_of="139763_2" all_names="AEROFLOT RUSSIAN AIRLINES" local_name_id="1" id="139763_3" >AEROFLOT RUSSIAN AIRLINES</NAME>
+
+<NAME end="72" start="46" all_names="MGM PRODUCTIONS GROUP INC" party2_of="139763_2" local_name_id="2" id="139763_4" >MGM PRODUCTIONS GROUP, INC</NAME>
+
+<DOCKET end="88" entry_type="docket" lookup_key="airlinesgroup#1" id1="139763" start="82" citation_global_level_id="26398.001" line="3" id="139763_7" citation_local_level_id="1" >04-146</DOCKET>
+
+<ORGANIZATION start="94" end="124" id="139763_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="130" citation_global_level_id="26398.001" end="146" id="139763_9" citation_local_level_id="1" >November 1, 2004</DATE>
+
+<NAME start="177" local_name_id="3" end="180" id="139763_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="139763_2" party1="139763_3" party1_string="AEROFLOT RUSSIAN AIRLINES" theme_string="AEROFLOT RUSSIAN AIRLINES v. MGM PRODUCTIONS GROUP, INC" gram_type="infix" relation_type="asymmetric" id="139763_5" ></RELATION>
+
+<RELATION party2="139763_4" theme="139763_2" theme_string="AEROFLOT RUSSIAN AIRLINES v. MGM PRODUCTIONS GROUP, INC" party2_string="MGM PRODUCTIONS GROUP, INC" gram_type="infix" relation_type="asymmetric" id="139763_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 956" X_vs_Y_string="AEROFLOT RUSSIAN AIRLINES v. MGM PRODUCTIONS GROUP, INC" standard_case="139763_1" X_vs_Y="139763_2" gram_type="multi_line" relation_type="equivalence" id="139763_10" ></RELATION>
+
+<RELATION at_date_string="November 1, 2004" theme="139763_2" at_date="139763_9" theme_string="AEROFLOT RUSSIAN AIRLINES v. MGM PRODUCTIONS GROUP, INC" gram_type="multi_line" relation_type="asymmetric" id="139763_12" ></RELATION>
+
+<RELATION theme="139763_2" includes_docket_string="04-146" includes_docket="139763_7" theme_string="AEROFLOT RUSSIAN AIRLINES v. MGM PRODUCTIONS GROUP, INC" gram_type="multi_line" relation_type="asymmetric" id="139763_11" ></RELATION>
+

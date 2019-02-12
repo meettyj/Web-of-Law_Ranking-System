@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['arizonatucker#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_1000" id1="133745" volume="540" start="0" page_number="1000" standard_reporter="U.S." citation_global_level_id="8140.002" line="1" id="133746_1" citation_local_level_id="0" >540 U.S. 1000</CITATION>
+
+<CITATION party2="TUCKER" party1="ARIZONA" citation_global_level_id="46648.001" party2_short="TUCKER" line="1" id="133746_3" alternative_keys="['u.s._540_1000']" end="35" entry_type="party_key" lookup_key="arizonatucker#1" id1="133746" start="18" party1_short="ARIZONA" citation_local_level_id="1" >ARIZONA v. TUCKER</CITATION>
+
+<NAME end="25" start="18" party1_of="133746_3" all_names="ARIZONA" local_name_id="1" id="133746_4" >ARIZONA</NAME>
+
+<NAME end="35" start="29" all_names="TUCKER" party2_of="133746_3" local_name_id="2" id="133746_5" >TUCKER</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="u.s._540_1000" id1="133745" start="45" citation_global_level_id="8140.002" line="1" id="133746_2" citation_local_level_id="0" >03-200</DOCKET>
+
+<DATE start="93" end="109" id="133746_6" >November 3, 2003</DATE>
+
+<LEGAL_ROLE start="187" end="207" id="133746_13" >Motion of respondent</LEGAL_ROLE>
+
+<NAME start="256" local_name_id="3" end="266" id="133746_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="318" reporter="P. 3d" entry_type="standard_key" no_current_file="True" lookup_key="p.3d_68_110" id1="Dummy_File_184643" volume="68" start="306" page_number="110" standard_reporter="P.3D" citation_global_level_id="248493.001" line="3" id="133746_12" citation_local_level_id="2" >68 P. 3d 110</CITATION>
+
+<RELATION theme="133746_1" includes_docket_string="03-200" includes_docket="133746_2" theme_string="540 U.S. 1000" gram_type="apposition" relation_type="asymmetric" id="133746_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 1000" X_vs_Y_string="ARIZONA v. TUCKER" standard_case="133746_1" X_vs_Y="133746_3" gram_type="pre_nom" relation_type="equivalence" id="133746_7" ></RELATION>
+
+<RELATION theme="133746_3" includes_docket_string="03-200" includes_docket="133746_2" theme_string="ARIZONA v. TUCKER" gram_type="apposition" relation_type="asymmetric" id="133746_10" ></RELATION>
+
+<RELATION theme="133746_3" party1="133746_4" party1_string="ARIZONA" theme_string="ARIZONA v. TUCKER" gram_type="infix" relation_type="asymmetric" id="133746_8" ></RELATION>
+
+<RELATION party2="133746_5" theme="133746_3" theme_string="ARIZONA v. TUCKER" party2_string="TUCKER" gram_type="infix" relation_type="asymmetric" id="133746_9" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['schmitzwisconsin#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_844" id1="113440" volume="510" start="0" page_number="844" standard_reporter="U.S." citation_global_level_id="3624.002" line="1" id="113440_1" citation_local_level_id="0" >510 U.S. 844</CITATION>
+
+<CITATION party2="Wisconsin" party1="Schmitz" citation_global_level_id="3624.001" party2_short="Wisconsin" line="1" id="113440_3" alternative_keys="['u.s._510_844']" end="37" entry_type="party_key" lookup_key="schmitzwisconsin#1" id1="113440" start="17" party1_short="Schmitz" citation_local_level_id="1" >Schmitz v. Wisconsin</CITATION>
+
+<NAME end="24" start="17" party1_of="113440_3" all_names="SCHMITZ" local_name_id="1" id="113440_4" >Schmitz</NAME>
+
+<NAME end="37" start="28" all_names="WISCONSIN" party2_of="113440_3" local_name_id="2" id="113440_5" >Wisconsin</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="u.s._510_844" id1="113440" start="47" citation_global_level_id="3624.002" line="1" id="113440_2" citation_local_level_id="0" >92-8995</DOCKET>
+
+<DATE start="96" end="111" id="113440_6" >October 4, 1993</DATE>
+
+<NAME start="188" local_name_id="3" end="198" id="113440_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="256" reporter="N. W. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.w.2d_498_912" id1="Dummy_File_97451" volume="498" start="240" page_number="912" standard_reporter="N.W.2D" citation_global_level_id="161301.001" line="3" id="113440_12" citation_local_level_id="2" >498 N. W. 2d 912</CITATION>
+
+<RELATION theme="113440_1" includes_docket_string="92-8995" includes_docket="113440_2" theme_string="510 U.S. 844" gram_type="apposition" relation_type="asymmetric" id="113440_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 844" X_vs_Y_string="Schmitz v. Wisconsin" standard_case="113440_1" X_vs_Y="113440_3" gram_type="pre_nom" relation_type="equivalence" id="113440_7" ></RELATION>
+
+<RELATION theme="113440_3" includes_docket_string="92-8995" includes_docket="113440_2" theme_string="Schmitz v. Wisconsin" gram_type="apposition" relation_type="asymmetric" id="113440_10" ></RELATION>
+
+<RELATION theme="113440_3" party1="113440_4" party1_string="Schmitz" theme_string="Schmitz v. Wisconsin" gram_type="infix" relation_type="asymmetric" id="113440_8" ></RELATION>
+
+<RELATION party2="113440_5" theme="113440_3" theme_string="Schmitz v. Wisconsin" party2_string="Wisconsin" gram_type="infix" relation_type="asymmetric" id="113440_9" ></RELATION>
+

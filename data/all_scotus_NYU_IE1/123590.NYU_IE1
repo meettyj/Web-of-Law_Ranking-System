@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['penkrumsfeld#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_904" id1="123580" volume="537" start="0" page_number="904" standard_reporter="U.S." citation_global_level_id="2644.002" line="1" id="123590_1" citation_local_level_id="0" >537 U.S. 904</CITATION>
+
+<CITATION party2="RUMSFELD, SECRETARY OF DEFENSE" party1="PENK" citation_global_level_id="2644.004" party2_short="RUMSFELD" line="1" id="123590_3" alternative_keys="['u.s._537_904']" end="55" entry_type="party_key" lookup_key="penkrumsfeld#1" id1="123580" start="17" party1_short="PENK" citation_local_level_id="1" >PENK v. RUMSFELD, SECRETARY OF DEFENSE</CITATION>
+
+<NAME end="21" start="17" party1_of="123590_3" all_names="PENK" local_name_id="1" id="123590_4" >PENK</NAME>
+
+<NAME end="55" start="25" all_names="RUMSFELD SECRETARY OF DEFENSE" party2_of="123590_3" local_name_id="2" id="123590_5" >RUMSFELD, SECRETARY OF DEFENSE</NAME>
+
+<DOCKET end="72" entry_type="docket" lookup_key="u.s._537_904" id1="123580" start="65" citation_global_level_id="2644.002" line="1" id="123590_2" citation_local_level_id="0" >02-5260</DOCKET>
+
+<DATE start="114" end="129" id="123590_6" >October 7, 2002</DATE>
+
+<NAME start="259" local_name_id="3" end="262" id="123590_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="123590_1" includes_docket_string="02-5260" includes_docket="123590_2" theme_string="537 U.S. 904" gram_type="apposition" relation_type="asymmetric" id="123590_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 904" X_vs_Y_string="PENK v. RUMSFELD, SECRETARY OF DEFENSE" standard_case="123590_1" X_vs_Y="123590_3" gram_type="pre_nom" relation_type="equivalence" id="123590_7" ></RELATION>
+
+<RELATION theme="123590_3" includes_docket_string="02-5260" includes_docket="123590_2" theme_string="PENK v. RUMSFELD, SECRETARY OF DEFENSE" gram_type="apposition" relation_type="asymmetric" id="123590_10" ></RELATION>
+
+<RELATION theme="123590_3" party1="123590_4" party1_string="PENK" theme_string="PENK v. RUMSFELD, SECRETARY OF DEFENSE" gram_type="infix" relation_type="asymmetric" id="123590_8" ></RELATION>
+
+<RELATION party2="123590_5" theme="123590_3" theme_string="PENK v. RUMSFELD, SECRETARY OF DEFENSE" party2_string="RUMSFELD, SECRETARY OF DEFENSE" gram_type="infix" relation_type="asymmetric" id="123590_9" ></RELATION>
+

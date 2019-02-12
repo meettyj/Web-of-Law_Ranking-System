@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['plcmotorola#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_950" id1="124225" volume="537" start="0" page_number="950" standard_reporter="U.S." citation_global_level_id="1649.002" line="1" id="124223_1" citation_local_level_id="0" >537 U.S. 950</CITATION>
+
+<CITATION party2="MOTOROLA, INC" party1="HUGH SYMONS GROUP, PLC" citation_global_level_id="52752.001" party2_short="MOTOROLA" line="1" id="124223_3" alternative_keys="['u.s._537_950']" end="56" entry_type="party_key" lookup_key="plcmotorola#1" id1="124223" start="17" party1_short="PLC" citation_local_level_id="1" >HUGH SYMONS GROUP, PLC v. MOTOROLA, INC</CITATION>
+
+<NAME end="39" start="17" party1_of="124223_3" all_names="HUGH SYMONS GROUP PLC" local_name_id="1" id="124223_4" >HUGH SYMONS GROUP, PLC</NAME>
+
+<ORGANIZATION start="17" end="34" id="124223_7" >HUGH SYMONS GROUP</ORGANIZATION>
+
+<NAME end="56" start="43" all_names="MOTOROLA INC" party2_of="124223_3" local_name_id="2" id="124223_5" >MOTOROLA, INC</NAME>
+
+<DOCKET end="72" entry_type="docket" lookup_key="u.s._537_950" id1="124225" start="66" citation_global_level_id="1649.002" line="1" id="124223_2" citation_local_level_id="0" >02-313</DOCKET>
+
+<DATE start="114" end="130" id="124223_6" >October 15, 2002</DATE>
+
+<NAME start="259" local_name_id="3" end="262" id="124223_14" all_names="CIR" >Cir</NAME>
+
+<CITATION end="312" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_292_466" id1="Dummy_File_159059" volume="292" start="299" page_number="466" standard_reporter="F.3D" citation_global_level_id="222909.001" line="3" id="124223_13" citation_local_level_id="2" >292 F. 3d 466</CITATION>
+
+<RELATION theme="124223_1" includes_docket_string="02-313" includes_docket="124223_2" theme_string="537 U.S. 950" gram_type="apposition" relation_type="asymmetric" id="124223_12" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 950" X_vs_Y_string="HUGH SYMONS GROUP, PLC v. MOTOROLA, INC" standard_case="124223_1" X_vs_Y="124223_3" gram_type="pre_nom" relation_type="equivalence" id="124223_8" ></RELATION>
+
+<RELATION theme="124223_3" includes_docket_string="02-313" includes_docket="124223_2" theme_string="HUGH SYMONS GROUP, PLC v. MOTOROLA, INC" gram_type="apposition" relation_type="asymmetric" id="124223_11" ></RELATION>
+
+<RELATION party2="124223_5" theme="124223_3" theme_string="HUGH SYMONS GROUP, PLC v. MOTOROLA, INC" party2_string="MOTOROLA, INC" gram_type="infix" relation_type="asymmetric" id="124223_10" ></RELATION>
+
+<RELATION theme="124223_3" party1="124223_4" party1_string="HUGH SYMONS GROUP, PLC" theme_string="HUGH SYMONS GROUP, PLC v. MOTOROLA, INC" gram_type="infix" relation_type="asymmetric" id="124223_9" ></RELATION>
+

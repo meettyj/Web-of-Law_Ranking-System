@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['rossistates#3']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_969" id1="128801" volume="538" start="0" page_number="969" standard_reporter="U.S." citation_global_level_id="2723.002" line="1" id="128800_1" citation_local_level_id="0" >538 U.S. 969</CITATION>
+
+<CITATION party2="UNITED STATES" party1="ROSSI" citation_global_level_id="55207.001" party2_short="STATES" line="1" id="128800_3" alternative_keys="['u.s._538_969']" end="39" entry_type="party_key" lookup_key="rossistates#3" id1="102071" start="17" party1_short="ROSSI" citation_local_level_id="1" >ROSSI v. UNITED STATES</CITATION>
+
+<NAME end="22" start="17" party1_of="128800_3" all_names="ROSSI" local_name_id="1" id="128800_4" >ROSSI</NAME>
+
+<NAME end="39" start="26" all_names="UNITED STATES" party2_of="128800_3" local_name_id="2" id="128800_5" >UNITED STATES</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._538_969" id1="128801" start="49" citation_global_level_id="2723.002" line="1" id="128800_2" citation_local_level_id="0" >02-9328</DOCKET>
+
+<DATE start="98" end="111" id="128800_6" >April 7, 2003</DATE>
+
+<NAME start="240" local_name_id="3" end="243" id="128800_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="128800_1" includes_docket_string="02-9328" includes_docket="128800_2" theme_string="538 U.S. 969" gram_type="apposition" relation_type="asymmetric" id="128800_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 969" X_vs_Y_string="ROSSI v. UNITED STATES" standard_case="128800_1" X_vs_Y="128800_3" gram_type="pre_nom" relation_type="equivalence" id="128800_7" ></RELATION>
+
+<RELATION theme="128800_3" includes_docket_string="02-9328" includes_docket="128800_2" theme_string="ROSSI v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="128800_10" ></RELATION>
+
+<RELATION theme="128800_3" party1="128800_4" party1_string="ROSSI" theme_string="ROSSI v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="128800_8" ></RELATION>
+
+<RELATION party2="128800_5" theme="128800_3" theme_string="ROSSI v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="128800_9" ></RELATION>
+

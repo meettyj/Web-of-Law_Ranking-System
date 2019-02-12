@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['thurmancurran#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_852" id1="113557" volume="510" start="0" page_number="852" standard_reporter="U.S." citation_global_level_id="78.002" line="1" id="113548_1" citation_local_level_id="0" >510 U.S. 852</CITATION>
+
+<CITATION party2="Curran, Attorney General of Maryland" party1="Thurman" citation_global_level_id="78.006" party2_short="Curran" line="1" id="113548_3" alternative_keys="['u.s._510_852']" end="64" entry_type="party_key" lookup_key="thurmancurran#1" id1="113557" start="17" party1_short="Thurman" citation_local_level_id="1" >Thurman v. Curran, Attorney General of Maryland</CITATION>
+
+<NAME end="24" start="17" party1_of="113548_3" all_names="THURMAN" local_name_id="1" id="113548_4" >Thurman</NAME>
+
+<NAME end="64" start="28" all_names="CURRAN ATTORNEY GENERAL OF MARYLAND" party2_of="113548_3" local_name_id="2" id="113548_5" >Curran, Attorney General of Maryland</NAME>
+
+<DOCKET end="81" entry_type="docket" lookup_key="u.s._510_852" id1="113557" start="74" citation_global_level_id="78.002" line="1" id="113548_2" citation_local_level_id="0" >92-9133</DOCKET>
+
+<DATE start="123" end="138" id="113548_6" >October 4, 1993</DATE>
+
+<NAME start="216" local_name_id="3" end="226" id="113548_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="265" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_986_1415" id1="Dummy_File_9589" volume="986" start="251" page_number="1415" standard_reporter="F.2D" citation_global_level_id="73439.001" line="3" id="113548_12" citation_local_level_id="2" >986 F. 2d 1415</CITATION>
+
+<RELATION theme="113548_1" includes_docket_string="92-9133" includes_docket="113548_2" theme_string="510 U.S. 852" gram_type="apposition" relation_type="asymmetric" id="113548_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 852" X_vs_Y_string="Thurman v. Curran, Attorney General of Maryland" standard_case="113548_1" X_vs_Y="113548_3" gram_type="pre_nom" relation_type="equivalence" id="113548_7" ></RELATION>
+
+<RELATION theme="113548_3" includes_docket_string="92-9133" includes_docket="113548_2" theme_string="Thurman v. Curran, Attorney General of Maryland" gram_type="apposition" relation_type="asymmetric" id="113548_10" ></RELATION>
+
+<RELATION theme="113548_3" party1="113548_4" party1_string="Thurman" theme_string="Thurman v. Curran, Attorney General of Maryland" gram_type="infix" relation_type="asymmetric" id="113548_8" ></RELATION>
+
+<RELATION party2="113548_5" theme="113548_3" theme_string="Thurman v. Curran, Attorney General of Maryland" party2_string="Curran, Attorney General of Maryland" gram_type="infix" relation_type="asymmetric" id="113548_9" ></RELATION>
+

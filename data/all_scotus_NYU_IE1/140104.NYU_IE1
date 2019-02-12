@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['terrystates#4']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_983" id1="140115" volume="543" start="0" page_number="983" standard_reporter="U.S." citation_global_level_id="7364.002" line="1" id="140104_1" citation_local_level_id="0" >543 U.S. 983</CITATION>
+
+<CITATION party2="UNITED STATES" party1="TERRY" citation_global_level_id="55614.001" party2_short="STATES" line="2" id="140104_2" alternative_keys="['u.s._543_983']" end="39" entry_type="party_key" lookup_key="terrystates#4" id1="137348" start="17" party1_short="TERRY" citation_local_level_id="1" >TERRY v. UNITED STATES</CITATION>
+
+<NAME end="22" start="17" party1_of="140104_2" all_names="TERRY" local_name_id="1" id="140104_3" >TERRY</NAME>
+
+<NAME end="39" start="26" all_names="UNITED STATES" party2_of="140104_2" local_name_id="2" id="140104_4" >UNITED STATES</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="terrystates#4" id1="137348" start="49" citation_global_level_id="55614.001" line="3" id="140104_7" citation_local_level_id="1" >04-6709</DOCKET>
+
+<ORGANIZATION start="62" end="92" id="140104_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="98" citation_global_level_id="55614.001" end="114" id="140104_9" citation_local_level_id="1" >November 8, 2004</DATE>
+
+<NAME start="146" local_name_id="3" end="149" id="140104_14" all_names="CIR" >Cir</NAME>
+
+<CITATION end="198" reporter="F.3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_366_312" id1="Dummy_File_65310" volume="366" start="186" page_number="312" standard_reporter="F.3D" citation_global_level_id="129160.001" line="8" id="140104_13" citation_local_level_id="2" >366 F.3d 312</CITATION>
+
+<RELATION theme="140104_2" party1="140104_3" party1_string="TERRY" theme_string="TERRY v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="140104_5" ></RELATION>
+
+<RELATION party2="140104_4" theme="140104_2" theme_string="TERRY v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="140104_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 983" X_vs_Y_string="TERRY v. UNITED STATES" standard_case="140104_1" X_vs_Y="140104_2" gram_type="multi_line" relation_type="equivalence" id="140104_10" ></RELATION>
+
+<RELATION at_date_string="November 8, 2004" theme="140104_2" at_date="140104_9" theme_string="TERRY v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="140104_12" ></RELATION>
+
+<RELATION theme="140104_2" includes_docket_string="04-6709" includes_docket="140104_7" theme_string="TERRY v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="140104_11" ></RELATION>
+

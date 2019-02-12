@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['simpsonillinois#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_991" id1="119524" volume="535" start="0" page_number="991" standard_reporter="U.S." citation_global_level_id="4171.002" line="1" id="119521_1" citation_local_level_id="0" >535 U.S. 991</CITATION>
+
+<CITATION party2="ILLINOIS" party1="SIMPSON" citation_global_level_id="23697.001" party2_short="ILLINOIS" line="2" id="119521_2" alternative_keys="['u.s._535_991']" end="36" entry_type="party_key" lookup_key="simpsonillinois#1" id1="119521" start="17" party1_short="SIMPSON" citation_local_level_id="1" >SIMPSON v. ILLINOIS</CITATION>
+
+<NAME end="24" start="17" party1_of="119521_2" all_names="SIMPSON" local_name_id="1" id="119521_3" >SIMPSON</NAME>
+
+<NAME end="36" start="28" all_names="ILLINOIS" party2_of="119521_2" local_name_id="2" id="119521_4" >ILLINOIS</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="simpsonillinois#1" id1="119521" start="46" citation_global_level_id="23697.001" line="3" id="119521_7" citation_local_level_id="1" >01-7582</DOCKET>
+
+<DATE start="99" citation_global_level_id="23697.001" end="113" id="119521_8" citation_local_level_id="1" >April 15, 2002</DATE>
+
+<NAME start="135" local_name_id="3" end="138" id="119521_12" all_names="SUP" >Sup</NAME>
+
+<RELATION theme="119521_2" party1="119521_3" party1_string="SIMPSON" theme_string="SIMPSON v. ILLINOIS" gram_type="infix" relation_type="asymmetric" id="119521_5" ></RELATION>
+
+<RELATION party2="119521_4" theme="119521_2" theme_string="SIMPSON v. ILLINOIS" party2_string="ILLINOIS" gram_type="infix" relation_type="asymmetric" id="119521_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 991" X_vs_Y_string="SIMPSON v. ILLINOIS" standard_case="119521_1" X_vs_Y="119521_2" gram_type="multi_line" relation_type="equivalence" id="119521_9" ></RELATION>
+
+<RELATION at_date_string="April 15, 2002" theme="119521_2" at_date="119521_8" theme_string="SIMPSON v. ILLINOIS" gram_type="multi_line" relation_type="asymmetric" id="119521_11" ></RELATION>
+
+<RELATION theme="119521_2" includes_docket_string="01-7582" includes_docket="119521_7" theme_string="SIMPSON v. ILLINOIS" gram_type="multi_line" relation_type="asymmetric" id="119521_10" ></RELATION>
+

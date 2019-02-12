@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['ricewarden#4']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_1021" id1="133997" volume="540" start="0" page_number="1021" standard_reporter="U.S." citation_global_level_id="603.002" line="1" id="133986_1" citation_local_level_id="0" >540 U.S. 1021</CITATION>
+
+<CITATION party2="CHAMPION, WARDEN" party1="RICE" citation_global_level_id="48162.001" party2_short="WARDEN" line="1" id="133986_3" alternative_keys="['u.s._540_1021']" end="42" entry_type="party_key" lookup_key="ricewarden#4" id1="133986" start="18" party1_short="RICE" citation_local_level_id="1" >RICE v. CHAMPION, WARDEN</CITATION>
+
+<NAME end="22" start="18" party1_of="133986_3" all_names="RICE" local_name_id="1" id="133986_4" >RICE</NAME>
+
+<NAME end="42" start="26" all_names="CHAMPION WARDEN" party2_of="133986_3" local_name_id="2" id="133986_5" >CHAMPION, WARDEN</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="u.s._540_1021" id1="133997" start="52" citation_global_level_id="603.002" line="1" id="133986_2" citation_local_level_id="0" >03-6390</DOCKET>
+
+<DATE start="101" end="118" id="133986_6" >November 17, 2003</DATE>
+
+<NAME start="197" local_name_id="3" end="207" id="133986_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="133986_1" includes_docket_string="03-6390" includes_docket="133986_2" theme_string="540 U.S. 1021" gram_type="apposition" relation_type="asymmetric" id="133986_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 1021" X_vs_Y_string="RICE v. CHAMPION, WARDEN" standard_case="133986_1" X_vs_Y="133986_3" gram_type="pre_nom" relation_type="equivalence" id="133986_7" ></RELATION>
+
+<RELATION theme="133986_3" includes_docket_string="03-6390" includes_docket="133986_2" theme_string="RICE v. CHAMPION, WARDEN" gram_type="apposition" relation_type="asymmetric" id="133986_10" ></RELATION>
+
+<RELATION theme="133986_3" party1="133986_4" party1_string="RICE" theme_string="RICE v. CHAMPION, WARDEN" gram_type="infix" relation_type="asymmetric" id="133986_8" ></RELATION>
+
+<RELATION party2="133986_5" theme="133986_3" theme_string="RICE v. CHAMPION, WARDEN" party2_string="CHAMPION, WARDEN" gram_type="infix" relation_type="asymmetric" id="133986_9" ></RELATION>
+

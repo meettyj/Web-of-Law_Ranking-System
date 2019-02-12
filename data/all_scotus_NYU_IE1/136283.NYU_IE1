@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['greyjersey#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_1043" id1="136291" volume="541" start="0" page_number="1043" standard_reporter="U.S." citation_global_level_id="2555.002" line="1" id="136283_1" citation_local_level_id="0" >541 U.S. 1043</CITATION>
+
+<CITATION party2="NEW JERSEY ET AL" party1="GREY" citation_global_level_id="8031.001" party2_short="JERSEY" line="2" id="136283_2" alternative_keys="['u.s._541_1043']" end="42" entry_type="party_key" lookup_key="greyjersey#1" id1="136283" start="18" party1_short="GREY" citation_local_level_id="1" >GREY v. NEW JERSEY ET AL</CITATION>
+
+<NAME end="22" start="18" party1_of="136283_2" all_names="GREY" local_name_id="1" id="136283_3" >GREY</NAME>
+
+<NAME end="42" start="26" all_names="NEW JERSEY" party2_of="136283_2" local_name_id="2" id="136283_4" >NEW JERSEY ET AL</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="greyjersey#1" id1="136283" start="52" citation_global_level_id="8031.001" line="3" id="136283_7" citation_local_level_id="1" >03-1325</DOCKET>
+
+<ORGANIZATION start="65" end="95" id="136283_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="101" citation_global_level_id="8031.001" end="113" id="136283_9" citation_local_level_id="1" >May 17, 2004</DATE>
+
+<NAME start="144" local_name_id="3" end="147" id="136283_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="136283_2" party1="136283_3" party1_string="GREY" theme_string="GREY v. NEW JERSEY ET AL" gram_type="infix" relation_type="asymmetric" id="136283_5" ></RELATION>
+
+<RELATION party2="136283_4" theme="136283_2" theme_string="GREY v. NEW JERSEY ET AL" party2_string="NEW JERSEY ET AL" gram_type="infix" relation_type="asymmetric" id="136283_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 1043" X_vs_Y_string="GREY v. NEW JERSEY ET AL" standard_case="136283_1" X_vs_Y="136283_2" gram_type="multi_line" relation_type="equivalence" id="136283_10" ></RELATION>
+
+<RELATION at_date_string="May 17, 2004" theme="136283_2" at_date="136283_9" theme_string="GREY v. NEW JERSEY ET AL" gram_type="multi_line" relation_type="asymmetric" id="136283_12" ></RELATION>
+
+<RELATION theme="136283_2" includes_docket_string="03-1325" includes_docket="136283_7" theme_string="GREY v. NEW JERSEY ET AL" gram_type="multi_line" relation_type="asymmetric" id="136283_11" ></RELATION>
+

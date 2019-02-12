@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['urenastates#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._536_969" id1="121992" volume="536" start="0" page_number="969" standard_reporter="U.S." citation_global_level_id="2417.002" line="1" id="122001_1" citation_local_level_id="0" >536 U.S. 969</CITATION>
+
+<CITATION party2="UNITED STATES" party1="URENA" citation_global_level_id="15804.001" party2_short="STATES" line="2" id="122001_2" alternative_keys="['u.s._536_969']" end="39" entry_type="party_key" lookup_key="urenastates#1" id1="122001" start="17" party1_short="URENA" citation_local_level_id="1" >URENA v. UNITED STATES</CITATION>
+
+<NAME end="22" start="17" party1_of="122001_2" all_names="URENA" local_name_id="1" id="122001_3" >URENA</NAME>
+
+<NAME end="39" start="26" all_names="UNITED STATES" party2_of="122001_2" local_name_id="2" id="122001_4" >UNITED STATES</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="urenastates#1" id1="122001" start="49" citation_global_level_id="15804.001" line="3" id="122001_7" citation_local_level_id="1" >01-10432</DOCKET>
+
+<DATE start="103" citation_global_level_id="15804.001" end="116" id="122001_8" citation_local_level_id="1" >June 28, 2002</DATE>
+
+<NAME start="147" local_name_id="3" end="150" id="122001_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="122001_2" party1="122001_3" party1_string="URENA" theme_string="URENA v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="122001_5" ></RELATION>
+
+<RELATION party2="122001_4" theme="122001_2" theme_string="URENA v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="122001_6" ></RELATION>
+
+<RELATION standard_case_string="536 U.S. 969" X_vs_Y_string="URENA v. UNITED STATES" standard_case="122001_1" X_vs_Y="122001_2" gram_type="multi_line" relation_type="equivalence" id="122001_9" ></RELATION>
+
+<RELATION at_date_string="June 28, 2002" theme="122001_2" at_date="122001_8" theme_string="URENA v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="122001_11" ></RELATION>
+
+<RELATION theme="122001_2" includes_docket_string="01-10432" includes_docket="122001_7" theme_string="URENA v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="122001_10" ></RELATION>
+

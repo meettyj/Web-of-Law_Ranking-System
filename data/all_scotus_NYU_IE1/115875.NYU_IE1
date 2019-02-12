@@ -1,0 +1,44 @@
+<CITATION alternative_keys="['fontroyowens#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1033" id1="115874" volume="510" start="0" page_number="1033" standard_reporter="U.S." citation_global_level_id="16857.002" line="1" id="115875_1" citation_local_level_id="0" >510 U.S. 1033</CITATION>
+
+<CITATION party2="Owens et al" party1="Fontroy" citation_global_level_id="40453.001" party2_short="Owens" line="1" id="115875_3" alternative_keys="['u.s._510_1033']" end="40" entry_type="party_key" lookup_key="fontroyowens#2" id1="115875" start="18" party1_short="Fontroy" citation_local_level_id="1" >Fontroy v. Owens et al</CITATION>
+
+<NAME end="25" start="18" party1_of="115875_3" all_names="FONTROY" local_name_id="1" id="115875_4" >Fontroy</NAME>
+
+<NAME end="40" start="29" all_names="OWENS" party2_of="115875_3" local_name_id="2" id="115875_5" >Owens et al</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._510_1033" id1="115874" start="50" citation_global_level_id="16857.002" line="1" id="115875_2" citation_local_level_id="0" >93-281</DOCKET>
+
+<DATE start="98" end="114" id="115875_6" >January 10, 1994</DATE>
+
+<NAME start="191" local_name_id="3" end="201" id="115875_18" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION party2="McKinney" party1="Helling" citation_global_level_id="28924.001" party2_short="McKinney" line="3" id="115875_14" alternative_keys="['u.s._509_25']" end="304" entry_type="party_key" lookup_key="hellingmckinney#1" id1="112888" start="285" party1_short="Helling" citation_local_level_id="2" >Helling v. McKinney</CITATION>
+
+<NAME end="292" start="285" party1_of="115875_14" all_names="HELLING" local_name_id="4" id="115875_15" >Helling</NAME>
+
+<NAME end="304" start="296" all_names="MCKINNEY" party2_of="115875_14" local_name_id="5" id="115875_16" >McKinney</NAME>
+
+<CITATION alternative_keys="['hellingmckinney#1']" end="324" reporter="U.S." entry_type="standard_key" lookup_key="u.s._509_25" id1="112888" volume="509" start="306" page_number="25" year="1993" standard_reporter="U.S." citation_global_level_id="28924.002" line="3" id="115875_12" citation_local_level_id="3" >509 U.S. 25 (1993)</CITATION>
+
+<DATE start="319" citation_global_level_id="28924.002" end="323" id="115875_17" citation_local_level_id="3" >1993</DATE>
+
+<CITATION end="355" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_989_486" id1="Dummy_File_208984" volume="989" start="342" page_number="486" standard_reporter="F.2D" citation_global_level_id="272834.001" line="3" id="115875_13" citation_local_level_id="4" >989 F. 2d 486</CITATION>
+
+<RELATION theme="115875_1" includes_docket_string="93-281" includes_docket="115875_2" theme_string="510 U.S. 1033" gram_type="apposition" relation_type="asymmetric" id="115875_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1033" X_vs_Y_string="Fontroy v. Owens et al" standard_case="115875_1" X_vs_Y="115875_3" gram_type="pre_nom" relation_type="equivalence" id="115875_7" ></RELATION>
+
+<RELATION theme="115875_3" includes_docket_string="93-281" includes_docket="115875_2" theme_string="Fontroy v. Owens et al" gram_type="apposition" relation_type="asymmetric" id="115875_10" ></RELATION>
+
+<RELATION theme="115875_3" party1="115875_4" party1_string="Fontroy" theme_string="Fontroy v. Owens et al" gram_type="infix" relation_type="asymmetric" id="115875_8" ></RELATION>
+
+<RELATION party2="115875_5" theme="115875_3" theme_string="Fontroy v. Owens et al" party2_string="Owens et al" gram_type="infix" relation_type="asymmetric" id="115875_9" ></RELATION>
+
+<RELATION standard_case_string="509 U.S. 25 (1993)" X_vs_Y_string="Helling v. McKinney" standard_case="115875_12" X_vs_Y="115875_14" gram_type="apposition" relation_type="equivalence" id="115875_21" ></RELATION>
+
+<RELATION theme="115875_14" party1="115875_15" party1_string="Helling" theme_string="Helling v. McKinney" gram_type="infix" relation_type="asymmetric" id="115875_19" ></RELATION>
+
+<RELATION party2="115875_16" theme="115875_14" theme_string="Helling v. McKinney" party2_string="McKinney" gram_type="infix" relation_type="asymmetric" id="115875_20" ></RELATION>
+
+<RELATION at_date_string="1993" theme="115875_12" at_date="115875_17" theme_string="509 U.S. 25 (1993)" gram_type="infix" relation_type="asymmetric" id="115875_22" ></RELATION>
+

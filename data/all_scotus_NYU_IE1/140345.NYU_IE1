@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['mottcommittee#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1003" id1="140345" volume="543" start="0" page_number="1003" standard_reporter="U.S." citation_global_level_id="2320.002" line="1" id="140345_1" citation_local_level_id="0" >543 U.S. 1003</CITATION>
+
+<CITATION party2="GRIEVANCE COMMITTEE FOR THE TENTH JUDICIAL DISTRICT" party1="MOTT" citation_global_level_id="2320.001" party2_short="COMMITTEE" line="2" id="140345_2" alternative_keys="['u.s._543_1003']" end="77" entry_type="party_key" lookup_key="mottcommittee#1" id1="140345" start="18" party1_short="MOTT" citation_local_level_id="1" >MOTT v. GRIEVANCE COMMITTEE FOR THE TENTH JUDICIAL DISTRICT</CITATION>
+
+<NAME end="22" start="18" party1_of="140345_2" all_names="MOTT" local_name_id="1" id="140345_3" >MOTT</NAME>
+
+<NAME end="77" start="26" all_names="GRIEVANCE COMMITTEE FOR THE TENTH JUDICIAL DISTRICT" party2_of="140345_2" local_name_id="2" id="140345_4" >GRIEVANCE COMMITTEE FOR THE TENTH JUDICIAL DISTRICT</NAME>
+
+<DOCKET end="93" entry_type="docket" lookup_key="mottcommittee#1" id1="140345" start="87" citation_global_level_id="2320.001" line="3" id="140345_7" citation_local_level_id="1" >04-436</DOCKET>
+
+<ORGANIZATION start="99" end="129" id="140345_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="135" citation_global_level_id="2320.001" end="152" id="140345_9" citation_local_level_id="1" >November 29, 2004</DATE>
+
+<NAME start="174" local_name_id="3" end="177" id="140345_14" all_names="APP" >App</NAME>
+
+<CITATION end="291" reporter="N. Y. S. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.y.s.2d_765_383" id1="Dummy_File_103563" volume="765" start="272" page_number="383" standard_reporter="N.Y.S.2D" citation_global_level_id="167413.001" line="8" id="140345_13" citation_local_level_id="2" >765 N. Y. S. 2d 383</CITATION>
+
+<RELATION theme="140345_2" party1="140345_3" party1_string="MOTT" theme_string="MOTT v. GRIEVANCE COMMITTEE FOR THE TENTH JUDICIAL DISTRICT" gram_type="infix" relation_type="asymmetric" id="140345_5" ></RELATION>
+
+<RELATION party2="140345_4" theme="140345_2" theme_string="MOTT v. GRIEVANCE COMMITTEE FOR THE TENTH JUDICIAL DISTRICT" party2_string="GRIEVANCE COMMITTEE FOR THE TENTH JUDICIAL DISTRICT" gram_type="infix" relation_type="asymmetric" id="140345_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1003" X_vs_Y_string="MOTT v. GRIEVANCE COMMITTEE FOR THE TENTH JUDICIAL DISTRICT" standard_case="140345_1" X_vs_Y="140345_2" gram_type="multi_line" relation_type="equivalence" id="140345_10" ></RELATION>
+
+<RELATION at_date_string="November 29, 2004" theme="140345_2" at_date="140345_9" theme_string="MOTT v. GRIEVANCE COMMITTEE FOR THE TENTH JUDICIAL DISTRICT" gram_type="multi_line" relation_type="asymmetric" id="140345_12" ></RELATION>
+
+<RELATION theme="140345_2" includes_docket_string="04-436" includes_docket="140345_7" theme_string="MOTT v. GRIEVANCE COMMITTEE FOR THE TENTH JUDICIAL DISTRICT" gram_type="multi_line" relation_type="asymmetric" id="140345_11" ></RELATION>
+

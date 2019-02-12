@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['whiteflorida#4']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_877" id1="113880" volume="510" start="0" page_number="877" standard_reporter="U.S." citation_global_level_id="11801.002" line="1" id="113888_1" citation_local_level_id="0" >510 U.S. 877</CITATION>
+
+<CITATION party2="Florida" party1="White" citation_global_level_id="38377.001" party2_short="Florida" line="1" id="113888_3" alternative_keys="['u.s._510_877']" end="33" entry_type="party_key" lookup_key="whiteflorida#4" id1="110803" start="17" party1_short="White" citation_local_level_id="1" >White v. Florida</CITATION>
+
+<NAME end="22" start="17" party1_of="113888_3" all_names="WHITE" local_name_id="1" id="113888_4" >White</NAME>
+
+<NAME end="33" start="26" all_names="FLORIDA" party2_of="113888_3" local_name_id="2" id="113888_5" >Florida</NAME>
+
+<DOCKET end="50" entry_type="docket" lookup_key="u.s._510_877" id1="113880" start="43" citation_global_level_id="11801.002" line="1" id="113888_2" citation_local_level_id="0" >93-5120</DOCKET>
+
+<DATE start="92" end="107" id="113888_6" >October 4, 1993</DATE>
+
+<NAME start="184" local_name_id="3" end="194" id="113888_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="232" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_616_21" id1="Dummy_File_92786" volume="616" start="219" page_number="21" standard_reporter="SO.2D" citation_global_level_id="156636.001" line="3" id="113888_12" citation_local_level_id="2" >616 So. 2d 21</CITATION>
+
+<RELATION theme="113888_1" includes_docket_string="93-5120" includes_docket="113888_2" theme_string="510 U.S. 877" gram_type="apposition" relation_type="asymmetric" id="113888_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 877" X_vs_Y_string="White v. Florida" standard_case="113888_1" X_vs_Y="113888_3" gram_type="pre_nom" relation_type="equivalence" id="113888_7" ></RELATION>
+
+<RELATION theme="113888_3" includes_docket_string="93-5120" includes_docket="113888_2" theme_string="White v. Florida" gram_type="apposition" relation_type="asymmetric" id="113888_10" ></RELATION>
+
+<RELATION theme="113888_3" party1="113888_4" party1_string="White" theme_string="White v. Florida" gram_type="infix" relation_type="asymmetric" id="113888_8" ></RELATION>
+
+<RELATION party2="113888_5" theme="113888_3" theme_string="White v. Florida" party2_string="Florida" gram_type="infix" relation_type="asymmetric" id="113888_9" ></RELATION>
+

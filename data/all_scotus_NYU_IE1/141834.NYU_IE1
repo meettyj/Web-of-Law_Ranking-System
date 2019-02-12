@@ -1,0 +1,38 @@
+<CITATION alternative_keys="['thornstates#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1112" id1="141838" volume="543" start="0" page_number="1112" standard_reporter="U.S." citation_global_level_id="1110.002" line="1" id="141834_1" citation_local_level_id="0" >543 U.S. 1112</CITATION>
+
+<CITATION party2="UNITED STATES" party1="THORN" citation_global_level_id="60473.001" party2_short="STATES" line="2" id="141834_2" alternative_keys="['u.s._543_1112']" end="40" entry_type="party_key" lookup_key="thornstates#2" id1="130048" start="18" party1_short="THORN" citation_local_level_id="1" >THORN v. UNITED STATES</CITATION>
+
+<NAME end="23" start="18" party1_of="141834_2" all_names="THORN" local_name_id="1" id="141834_3" >THORN</NAME>
+
+<NAME end="40" start="27" all_names="UNITED STATES" party2_of="141834_2" local_name_id="2" id="141834_4" >UNITED STATES</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="thornstates#2" id1="130048" start="50" citation_global_level_id="60473.001" line="3" id="141834_7" citation_local_level_id="1" >04-7135</DOCKET>
+
+<ORGANIZATION start="63" end="93" id="141834_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="99" citation_global_level_id="60473.001" end="115" id="141834_9" citation_local_level_id="1" >January 24, 2005</DATE>
+
+<NAME start="146" local_name_id="3" end="149" id="141834_17" all_names="CIR" >Cir</NAME>
+
+<CITATION end="180" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_375_679" id1="Dummy_File_180733" volume="375" start="167" page_number="679" standard_reporter="F.3D" citation_global_level_id="244583.001" line="8" id="141834_13" citation_local_level_id="2" >375 F. 3d 679</CITATION>
+
+<CITATION party2="Booker" party1="United States" citation_global_level_id="57130.001" party2_short="Booker" line="8" id="141834_14" end="372" entry_type="party_key" lookup_key="statesbooker#4" id1="137703" start="349" party1_short="States" citation_local_level_id="3" >United States v. Booker</CITATION>
+
+<NAME end="362" start="349" party1_of="141834_14" all_names="UNITED STATES" local_name_id="2" id="141834_15" >United States</NAME>
+
+<NAME end="372" start="366" all_names="BOOKER" party2_of="141834_14" local_name_id="4" id="141834_16" >Booker</NAME>
+
+<RELATION theme="141834_2" party1="141834_3" party1_string="THORN" theme_string="THORN v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="141834_5" ></RELATION>
+
+<RELATION party2="141834_4" theme="141834_2" theme_string="THORN v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="141834_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1112" X_vs_Y_string="THORN v. UNITED STATES" standard_case="141834_1" X_vs_Y="141834_2" gram_type="multi_line" relation_type="equivalence" id="141834_10" ></RELATION>
+
+<RELATION at_date_string="January 24, 2005" theme="141834_2" at_date="141834_9" theme_string="THORN v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="141834_12" ></RELATION>
+
+<RELATION theme="141834_2" includes_docket_string="04-7135" includes_docket="141834_7" theme_string="THORN v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="141834_11" ></RELATION>
+
+<RELATION theme="141834_14" party1="141834_15" party1_string="United States" theme_string="United States v. Booker" gram_type="infix" relation_type="asymmetric" id="141834_18" ></RELATION>
+
+<RELATION party2="141834_16" theme="141834_14" theme_string="United States v. Booker" party2_string="Booker" gram_type="infix" relation_type="asymmetric" id="141834_19" ></RELATION>
+

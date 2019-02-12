@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['fostercrosby#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_911" id1="139214" volume="543" start="0" page_number="911" standard_reporter="U.S." citation_global_level_id="1254.002" line="1" id="139213_1" citation_local_level_id="0" >543 U.S. 911</CITATION>
+
+<CITATION party2="CROSBY, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS" party1="FOSTER" citation_global_level_id="1254.005" party2_short="CROSBY" line="2" id="139213_2" alternative_keys="['u.s._543_911']" end="79" entry_type="party_key" lookup_key="fostercrosby#1" id1="139214" start="17" party1_short="FOSTER" citation_local_level_id="1" >FOSTER v. CROSBY, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS</CITATION>
+
+<NAME end="23" start="17" party1_of="139213_2" all_names="FOSTER" local_name_id="1" id="139213_3" >FOSTER</NAME>
+
+<NAME end="79" start="27" all_names="CROSBY SECRETARY FLORIDA DEPARTMENT OF CORRECTIONS" party2_of="139213_2" local_name_id="2" id="139213_4" >CROSBY, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS</NAME>
+
+<PROFESSION start="35" end="44" id="139213_5" >SECRETARY</PROFESSION>
+
+<ORGANIZATION start="46" end="79" id="139213_6" >FLORIDA DEPARTMENT OF CORRECTIONS</ORGANIZATION>
+
+<DOCKET alternative_keys="['u.s._543_911']" end="96" entry_type="docket" lookup_key="fostercrosby#1" id1="139214" start="89" citation_global_level_id="1254.005" line="3" id="139213_9" citation_local_level_id="1" >04-5787</DOCKET>
+
+<ORGANIZATION start="102" end="132" id="139213_10" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="138" citation_global_level_id="1254.005" end="153" id="139213_11" citation_local_level_id="1" >October 4, 2004</DATE>
+
+<NAME start="186" local_name_id="3" end="189" id="139213_15" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="139213_2" party1="139213_3" party1_string="FOSTER" theme_string="FOSTER v. CROSBY, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS" gram_type="infix" relation_type="asymmetric" id="139213_7" ></RELATION>
+
+<RELATION party2="139213_4" theme="139213_2" theme_string="FOSTER v. CROSBY, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS" party2_string="CROSBY, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS" gram_type="infix" relation_type="asymmetric" id="139213_8" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 911" X_vs_Y_string="FOSTER v. CROSBY, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS" standard_case="139213_1" X_vs_Y="139213_2" gram_type="multi_line" relation_type="equivalence" id="139213_12" ></RELATION>
+
+<RELATION at_date_string="October 4, 2004" theme="139213_2" at_date="139213_11" theme_string="FOSTER v. CROSBY, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS" gram_type="multi_line" relation_type="asymmetric" id="139213_14" ></RELATION>
+
+<RELATION theme="139213_2" includes_docket_string="04-5787" includes_docket="139213_9" theme_string="FOSTER v. CROSBY, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS" gram_type="multi_line" relation_type="asymmetric" id="139213_13" ></RELATION>
+

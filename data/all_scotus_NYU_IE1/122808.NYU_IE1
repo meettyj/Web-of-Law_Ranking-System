@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['harrisillinois#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_845" id1="122810" volume="537" start="0" page_number="845" standard_reporter="U.S." citation_global_level_id="5095.002" line="1" id="122808_1" citation_local_level_id="0" >537 U.S. 845</CITATION>
+
+<CITATION party2="ILLINOIS" party1="HARRIS" citation_global_level_id="35841.001" party2_short="ILLINOIS" line="1" id="122808_3" alternative_keys="['u.s._537_845']" end="35" entry_type="party_key" lookup_key="harrisillinois#2" id1="133650" start="17" party1_short="HARRIS" citation_local_level_id="1" >HARRIS v. ILLINOIS</CITATION>
+
+<NAME end="23" start="17" party1_of="122808_3" all_names="HARRIS" local_name_id="1" id="122808_4" >HARRIS</NAME>
+
+<NAME end="35" start="27" all_names="ILLINOIS" party2_of="122808_3" local_name_id="2" id="122808_5" >ILLINOIS</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="u.s._537_845" id1="122810" start="45" citation_global_level_id="5095.002" line="1" id="122808_2" citation_local_level_id="0" >01-10443</DOCKET>
+
+<DATE start="95" end="110" id="122808_6" >October 7, 2002</DATE>
+
+<NAME start="228" local_name_id="3" end="231" id="122808_12" all_names="APP" >App</NAME>
+
+<RELATION theme="122808_1" includes_docket_string="01-10443" includes_docket="122808_2" theme_string="537 U.S. 845" gram_type="apposition" relation_type="asymmetric" id="122808_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 845" X_vs_Y_string="HARRIS v. ILLINOIS" standard_case="122808_1" X_vs_Y="122808_3" gram_type="pre_nom" relation_type="equivalence" id="122808_7" ></RELATION>
+
+<RELATION theme="122808_3" includes_docket_string="01-10443" includes_docket="122808_2" theme_string="HARRIS v. ILLINOIS" gram_type="apposition" relation_type="asymmetric" id="122808_10" ></RELATION>
+
+<RELATION theme="122808_3" party1="122808_4" party1_string="HARRIS" theme_string="HARRIS v. ILLINOIS" gram_type="infix" relation_type="asymmetric" id="122808_8" ></RELATION>
+
+<RELATION party2="122808_5" theme="122808_3" theme_string="HARRIS v. ILLINOIS" party2_string="ILLINOIS" gram_type="infix" relation_type="asymmetric" id="122808_9" ></RELATION>
+

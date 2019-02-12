@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['barefieldstates#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1225" id1="127628" volume="537" start="0" page_number="1225" standard_reporter="U.S." citation_global_level_id="656.002" line="1" id="127616_1" citation_local_level_id="0" >537 U.S. 1225</CITATION>
+
+<CITATION party2="UNITED STATES" party1="BAREFIELD" citation_global_level_id="31005.001" party2_short="STATES" line="1" id="127616_3" alternative_keys="['u.s._537_1225']" end="44" entry_type="party_key" lookup_key="barefieldstates#1" id1="127616" start="18" party1_short="BAREFIELD" citation_local_level_id="1" >BAREFIELD v. UNITED STATES</CITATION>
+
+<NAME end="27" start="18" party1_of="127616_3" all_names="BAREFIELD" local_name_id="1" id="127616_4" >BAREFIELD</NAME>
+
+<NAME end="44" start="31" all_names="UNITED STATES" party2_of="127616_3" local_name_id="2" id="127616_5" >UNITED STATES</NAME>
+
+<DOCKET end="61" entry_type="docket" lookup_key="u.s._537_1225" id1="127628" start="54" citation_global_level_id="656.002" line="1" id="127616_2" citation_local_level_id="0" >02-8621</DOCKET>
+
+<DATE start="103" end="120" id="127616_6" >February 24, 2003</DATE>
+
+<NAME start="249" local_name_id="3" end="252" id="127616_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="127616_1" includes_docket_string="02-8621" includes_docket="127616_2" theme_string="537 U.S. 1225" gram_type="apposition" relation_type="asymmetric" id="127616_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1225" X_vs_Y_string="BAREFIELD v. UNITED STATES" standard_case="127616_1" X_vs_Y="127616_3" gram_type="pre_nom" relation_type="equivalence" id="127616_7" ></RELATION>
+
+<RELATION theme="127616_3" includes_docket_string="02-8621" includes_docket="127616_2" theme_string="BAREFIELD v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="127616_10" ></RELATION>
+
+<RELATION theme="127616_3" party1="127616_4" party1_string="BAREFIELD" theme_string="BAREFIELD v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="127616_8" ></RELATION>
+
+<RELATION party2="127616_5" theme="127616_3" theme_string="BAREFIELD v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="127616_9" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['palmerjohnson#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._542_921" id1="137252" volume="542" start="0" page_number="921" standard_reporter="U.S." citation_global_level_id="1380.002" line="1" id="137259_1" citation_local_level_id="0" >542 U.S. 921</CITATION>
+
+<CITATION party2="JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" party1="PALMER" citation_global_level_id="1380.007" party2_short="JOHNSON" line="2" id="137259_3" alternative_keys="['u.s._542_921']" end="80" entry_type="party_key" lookup_key="palmerjohnson#1" id1="137252" start="17" party1_short="PALMER" citation_local_level_id="1" >PALMER v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS</CITATION>
+
+<NAME end="23" start="17" party1_of="137259_3" all_names="PALMER" local_name_id="1" id="137259_4" >PALMER</NAME>
+
+<NAME end="80" start="27" all_names="JOHNSON DIRECTOR VIRGINIA DEPARTMENT OF CORRECTIONS" party2_of="137259_3" local_name_id="2" id="137259_5" >JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS</NAME>
+
+<DOCKET alternative_keys="['u.s._542_921']" end="97" entry_type="docket" lookup_key="palmerjohnson#1" id1="137252" start="90" citation_global_level_id="1380.007" line="2" id="137259_2" citation_local_level_id="1" >03-9840</DOCKET>
+
+<ORGANIZATION start="103" end="133" id="137259_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="139" citation_global_level_id="1380.007" end="152" id="137259_10" citation_local_level_id="1" >June 21, 2004</DATE>
+
+<NAME start="184" local_name_id="3" end="187" id="137259_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="137259_3" includes_docket_string="03-9840" includes_docket="137259_2" theme_string="PALMER v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" gram_type="apposition" relation_type="asymmetric" id="137259_8" ></RELATION>
+
+<RELATION theme="137259_3" party1="137259_4" party1_string="PALMER" theme_string="PALMER v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" gram_type="infix" relation_type="asymmetric" id="137259_6" ></RELATION>
+
+<RELATION party2="137259_5" theme="137259_3" theme_string="PALMER v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" party2_string="JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" gram_type="infix" relation_type="asymmetric" id="137259_7" ></RELATION>
+
+<RELATION standard_case_string="542 U.S. 921" X_vs_Y_string="PALMER v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" standard_case="137259_1" X_vs_Y="137259_3" gram_type="multi_line" relation_type="equivalence" id="137259_11" ></RELATION>
+
+<RELATION at_date_string="June 21, 2004" theme="137259_3" at_date="137259_10" theme_string="PALMER v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" gram_type="multi_line" relation_type="asymmetric" id="137259_12" ></RELATION>
+

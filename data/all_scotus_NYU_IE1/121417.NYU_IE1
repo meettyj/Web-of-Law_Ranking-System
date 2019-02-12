@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['michiganschwesing#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._536_923" id1="121414" volume="536" start="0" page_number="923" standard_reporter="U.S." citation_global_level_id="2743.002" line="1" id="121417_1" citation_local_level_id="0" >536 U.S. 923</CITATION>
+
+<CITATION party2="SCHWESING" party1="MICHIGAN" citation_global_level_id="51154.001" party2_short="SCHWESING" line="2" id="121417_2" alternative_keys="['u.s._536_923']" end="38" entry_type="party_key" lookup_key="michiganschwesing#1" id1="121417" start="17" party1_short="MICHIGAN" citation_local_level_id="1" >MICHIGAN v. SCHWESING</CITATION>
+
+<NAME end="25" start="17" party1_of="121417_2" all_names="MICHIGAN" local_name_id="1" id="121417_3" >MICHIGAN</NAME>
+
+<NAME end="38" start="29" all_names="SCHWESING" party2_of="121417_2" local_name_id="2" id="121417_4" >SCHWESING</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="michiganschwesing#1" id1="121417" start="48" citation_global_level_id="51154.001" line="3" id="121417_7" citation_local_level_id="1" >01-1540</DOCKET>
+
+<DATE start="101" citation_global_level_id="51154.001" end="114" id="121417_8" citation_local_level_id="1" >June 17, 2002</DATE>
+
+<NAME start="136" local_name_id="3" end="138" id="121417_12" all_names="CT" >Ct</NAME>
+
+<RELATION theme="121417_2" party1="121417_3" party1_string="MICHIGAN" theme_string="MICHIGAN v. SCHWESING" gram_type="infix" relation_type="asymmetric" id="121417_5" ></RELATION>
+
+<RELATION party2="121417_4" theme="121417_2" theme_string="MICHIGAN v. SCHWESING" party2_string="SCHWESING" gram_type="infix" relation_type="asymmetric" id="121417_6" ></RELATION>
+
+<RELATION standard_case_string="536 U.S. 923" X_vs_Y_string="MICHIGAN v. SCHWESING" standard_case="121417_1" X_vs_Y="121417_2" gram_type="multi_line" relation_type="equivalence" id="121417_9" ></RELATION>
+
+<RELATION at_date_string="June 17, 2002" theme="121417_2" at_date="121417_8" theme_string="MICHIGAN v. SCHWESING" gram_type="multi_line" relation_type="asymmetric" id="121417_11" ></RELATION>
+
+<RELATION theme="121417_2" includes_docket_string="01-1540" includes_docket="121417_7" theme_string="MICHIGAN v. SCHWESING" gram_type="multi_line" relation_type="asymmetric" id="121417_10" ></RELATION>
+

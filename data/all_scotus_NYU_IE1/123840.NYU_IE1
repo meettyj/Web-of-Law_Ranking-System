@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['lewislouisiana#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_922" id1="123832" volume="537" start="0" page_number="922" standard_reporter="U.S." citation_global_level_id="5643.002" line="1" id="123840_1" citation_local_level_id="0" >537 U.S. 922</CITATION>
+
+<CITATION party2="LOUISIANA" party1="LEWIS" citation_global_level_id="23058.001" party2_short="LOUISIANA" line="1" id="123840_3" alternative_keys="['u.s._537_922']" end="35" entry_type="party_key" lookup_key="lewislouisiana#1" id1="123840" start="17" party1_short="LEWIS" citation_local_level_id="1" >LEWIS v. LOUISIANA</CITATION>
+
+<NAME end="22" start="17" party1_of="123840_3" all_names="LEWIS" local_name_id="1" id="123840_4" >LEWIS</NAME>
+
+<NAME end="35" start="26" all_names="LOUISIANA" party2_of="123840_3" local_name_id="2" id="123840_5" >LOUISIANA</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="u.s._537_922" id1="123832" start="45" citation_global_level_id="5643.002" line="1" id="123840_2" citation_local_level_id="0" >02-5545</DOCKET>
+
+<DATE start="94" end="109" id="123840_6" >October 7, 2002</DATE>
+
+<NAME start="202" local_name_id="3" end="205" id="123840_13" all_names="SUP" >Sup</NAME>
+
+<CITATION end="264" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_815_818" id1="Dummy_File_164845" volume="815" start="250" page_number="818" standard_reporter="SO.2D" citation_global_level_id="228695.001" line="3" id="123840_12" citation_local_level_id="2" >815 So. 2d 818</CITATION>
+
+<RELATION theme="123840_1" includes_docket_string="02-5545" includes_docket="123840_2" theme_string="537 U.S. 922" gram_type="apposition" relation_type="asymmetric" id="123840_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 922" X_vs_Y_string="LEWIS v. LOUISIANA" standard_case="123840_1" X_vs_Y="123840_3" gram_type="pre_nom" relation_type="equivalence" id="123840_7" ></RELATION>
+
+<RELATION theme="123840_3" includes_docket_string="02-5545" includes_docket="123840_2" theme_string="LEWIS v. LOUISIANA" gram_type="apposition" relation_type="asymmetric" id="123840_10" ></RELATION>
+
+<RELATION theme="123840_3" party1="123840_4" party1_string="LEWIS" theme_string="LEWIS v. LOUISIANA" gram_type="infix" relation_type="asymmetric" id="123840_8" ></RELATION>
+
+<RELATION party2="123840_5" theme="123840_3" theme_string="LEWIS v. LOUISIANA" party2_string="LOUISIANA" gram_type="infix" relation_type="asymmetric" id="123840_9" ></RELATION>
+

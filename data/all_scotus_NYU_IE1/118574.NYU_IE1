@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['reyesgarcia#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_907" id1="118582" volume="535" start="0" page_number="907" standard_reporter="U.S." citation_global_level_id="740.002" line="1" id="118574_1" citation_local_level_id="0" >535 U.S. 907</CITATION>
+
+<CITATION party2="GARCIA, WARDEN" party1="REYES" citation_global_level_id="740.005" party2_short="GARCIA" line="2" id="118574_2" alternative_keys="['u.s._535_907']" end="40" entry_type="party_key" lookup_key="reyesgarcia#1" id1="118582" start="17" party1_short="REYES" citation_local_level_id="1" >REYES v. GARCIA, WARDEN</CITATION>
+
+<NAME end="22" start="17" party1_of="118574_2" all_names="REYES" local_name_id="1" id="118574_3" >REYES</NAME>
+
+<NAME end="40" start="26" all_names="GARCIA WARDEN" party2_of="118574_2" local_name_id="2" id="118574_4" >GARCIA, WARDEN</NAME>
+
+<DOCKET alternative_keys="['u.s._535_907']" end="57" entry_type="docket" lookup_key="reyesgarcia#1" id1="118582" start="50" citation_global_level_id="740.005" line="3" id="118574_7" citation_local_level_id="1" >01-7486</DOCKET>
+
+<DATE start="103" citation_global_level_id="740.005" end="116" id="118574_8" citation_local_level_id="1" >March 4, 2002</DATE>
+
+<NAME start="148" local_name_id="3" end="151" id="118574_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="118574_2" party1="118574_3" party1_string="REYES" theme_string="REYES v. GARCIA, WARDEN" gram_type="infix" relation_type="asymmetric" id="118574_5" ></RELATION>
+
+<RELATION party2="118574_4" theme="118574_2" theme_string="REYES v. GARCIA, WARDEN" party2_string="GARCIA, WARDEN" gram_type="infix" relation_type="asymmetric" id="118574_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 907" X_vs_Y_string="REYES v. GARCIA, WARDEN" standard_case="118574_1" X_vs_Y="118574_2" gram_type="multi_line" relation_type="equivalence" id="118574_9" ></RELATION>
+
+<RELATION at_date_string="March 4, 2002" theme="118574_2" at_date="118574_8" theme_string="REYES v. GARCIA, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="118574_11" ></RELATION>
+
+<RELATION theme="118574_2" includes_docket_string="01-7486" includes_docket="118574_7" theme_string="REYES v. GARCIA, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="118574_10" ></RELATION>
+

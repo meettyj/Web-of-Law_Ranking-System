@@ -1,0 +1,40 @@
+<CITATION alternative_keys="['schonschon#1', 's.ct._79_70', 'l.ed.2d_3_45']" end="11" reporter="U.S." entry_type="standard_key" lookup_key="u.s._358_41" id1="105774" volume="358" start="0" page_number="41" standard_reporter="U.S." citation_global_level_id="13616.002" line="1" id="105774_1" citation_local_level_id="0" >358 U.S. 41</CITATION>
+
+<CITATION alternative_keys="['u.s._358_41', 'schonschon#1', 'l.ed.2d_3_45']" end="28" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._79_70" id1="105774" volume="79" start="16" page_number="70" standard_reporter="S.CT." citation_global_level_id="13616.003" line="1" id="105774_2" citation_local_level_id="1" >79 S. Ct. 70</CITATION>
+
+<NAME start="19" local_name_id="1" end="24" id="105774_9" all_names="S CT" >S. Ct</NAME>
+
+<CITATION alternative_keys="['u.s._358_41', 's.ct._79_70', 'schonschon#1']" end="47" reporter="L. Ed. 2d" entry_type="standard_key" lookup_key="l.ed.2d_3_45" id1="105774" volume="3" start="33" page_number="45" standard_reporter="L.ED.2D" citation_global_level_id="13616.004" line="1" id="105774_3" citation_local_level_id="2" >3 L. Ed. 2d 45</CITATION>
+
+<CITATION party2="Emanuel E. SCHON, Individually, and as Executor of the  Estate of Emma Schon, Deceased" alternative_keys="['s.ct._79_70', 'l.ed.2d_3_45', 'u.s._358_41']" party1="Arthur A. SCHON," end="169" party1_short="SCHON" entry_type="party_key" party1_role="appellant" lookup_key="schonschon#1" id1="105774" start="52" citation_global_level_id="13616.005" party2_short="SCHON" line="1" id="105774_4" citation_local_level_id="3" >Arthur A. SCHON, appellant, v. Emanuel E. SCHON, Individually, and as Executor of the Estate of Emma Schon, Deceased</CITATION>
+
+<NAME end="68" start="52" party1_of="105774_4" all_names="ARTHUR A SCHON" local_name_id="2" id="105774_5" >Arthur A. SCHON,</NAME>
+
+<LEGAL_ROLE start="69" end="78" id="105774_7" party="party1" >appellant</LEGAL_ROLE>
+
+<NAME end="169" start="83" all_names="EMANUEL E SCHON INDIVIDUALLY AND AS EXECUTOR OF THE ESTATE OF EMMA SCHON DECEASED" party2_of="105774_4" local_name_id="3" id="105774_6" >Emanuel E. SCHON, Individually, and as Executor of the Estate of Emma Schon, Deceased</NAME>
+
+<DATE start="232" end="248" id="105774_8" >October 13, 1958</DATE>
+
+<NAME start="291" local_name_id="4" end="314" id="105774_15" all_names="MR SANFORD M SWERDLIN" >Mr. Sanford M. Swerdlin</NAME>
+
+<LEGAL_ROLE start="320" end="328" id="105774_16" party="party2" >appellee</LEGAL_ROLE>
+
+<NAME start="340" local_name_id="5" end="346" id="105774_17" all_names="CURIAM" >CURIAM</NAME>
+
+<NAME start="395" local_name_id="6" end="411" id="105774_18" all_names="STATE OF FLORIDA" >State of Florida</NAME>
+
+<LEGAL_ROLE end="431" name="State of Florida" start="423" party="party2" local_name_id="6" id="105774_19" >appellee</LEGAL_ROLE>
+
+<RELATION standard_case_string="358 U.S. 41" X_vs_Y_string="Arthur A. SCHON, appellant, v. Emanuel E. SCHON, Individually, and as Executor of the  Estate of Emma Schon, Deceased" standard_case="105774_1" X_vs_Y="105774_4" gram_type="pre_nom" relation_type="equivalence" id="105774_11" ></RELATION>
+
+<RELATION standard_case_string="79 S. Ct. 70" X_vs_Y_string="Arthur A. SCHON, appellant, v. Emanuel E. SCHON, Individually, and as Executor of the  Estate of Emma Schon, Deceased" standard_case="105774_2" X_vs_Y="105774_4" gram_type="pre_nom" relation_type="equivalence" id="105774_12" ></RELATION>
+
+<RELATION standard_case_string="3 L. Ed. 2d 45" X_vs_Y_string="Arthur A. SCHON, appellant, v. Emanuel E. SCHON, Individually, and as Executor of the  Estate of Emma Schon, Deceased" standard_case="105774_3" X_vs_Y="105774_4" gram_type="pre_nom" relation_type="equivalence" id="105774_10" ></RELATION>
+
+<RELATION theme="105774_4" party1="105774_5" party1_string="Arthur A. SCHON," theme_string="Arthur A. SCHON, appellant, v. Emanuel E. SCHON, Individually, and as Executor of the  Estate of Emma Schon, Deceased" gram_type="infix" relation_type="asymmetric" id="105774_13" ></RELATION>
+
+<RELATION party2="105774_6" theme="105774_4" theme_string="Arthur A. SCHON, appellant, v. Emanuel E. SCHON, Individually, and as Executor of the  Estate of Emma Schon, Deceased" party2_string="Emanuel E. SCHON, Individually, and as Executor of the  Estate of Emma Schon, Deceased" gram_type="infix" relation_type="asymmetric" id="105774_14" ></RELATION>
+
+<RELATION theme="105774_18" legal_role="105774_19" id="105774_20" theme_string="State of Florida" gram_type="as_predication" relation_type="asymmetric" legal_role_string="appellee" ></RELATION>
+

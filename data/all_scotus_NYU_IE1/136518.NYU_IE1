@@ -1,0 +1,38 @@
+<CITATION alternative_keys="['rendondepartment#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_1059" id1="136517" volume="541" start="0" page_number="1059" standard_reporter="U.S." citation_global_level_id="5629.002" line="1" id="136518_1" citation_local_level_id="0" >541 U.S. 1059</CITATION>
+
+<CITATION party2="FLORIDA DEPARTMENT OF HIGHWAY SAFETY AND MOTOR VEHICLES ET AL" party1="RENDON ET AL." citation_global_level_id="51973.001" party2_short="DEPARTMENT" line="2" id="136518_3" alternative_keys="['u.s._541_1059']" end="96" entry_type="party_key" lookup_key="rendondepartment#1" id1="136518" start="18" party1_short="RENDON" citation_local_level_id="1" >RENDON ET AL. v. FLORIDA DEPARTMENT OF HIGHWAY SAFETY AND MOTOR VEHICLES ET AL</CITATION>
+
+<NAME end="31" start="18" party1_of="136518_3" all_names="RENDON" local_name_id="1" id="136518_4" >RENDON ET AL.</NAME>
+
+<NAME end="96" start="35" all_names="FLORIDA DEPARTMENT OF HIGHWAY SAFETY AND MOTOR VEHICLES" party2_of="136518_3" local_name_id="2" id="136518_5" >FLORIDA DEPARTMENT OF HIGHWAY SAFETY AND MOTOR VEHICLES ET AL</NAME>
+
+<DOCKET end="112" entry_type="docket" lookup_key="rendondepartment#1" id1="136518" start="106" citation_global_level_id="51973.001" line="2" id="136518_2" citation_local_level_id="1" >03-559</DOCKET>
+
+<ORGANIZATION start="118" end="148" id="136518_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="154" citation_global_level_id="51973.001" end="166" id="136518_10" citation_local_level_id="1" >May 24, 2004</DATE>
+
+<NAME start="188" local_name_id="3" end="192" id="136518_17" all_names="DIST" >Dist</NAME>
+
+<CITATION party2="Lane" party1="Tennessee" citation_global_level_id="47542.001" party2_short="Lane" line="7" id="136518_14" end="329" entry_type="party_key" lookup_key="tennesseelane#4" id1="134510" start="312" party1_short="Tennessee" citation_local_level_id="2" >Tennessee v. Lane</CITATION>
+
+<NAME end="321" start="312" party1_of="136518_14" all_names="TENNESSEE" local_name_id="4" id="136518_15" >Tennessee</NAME>
+
+<NAME end="329" start="325" all_names="LANE" party2_of="136518_14" local_name_id="5" id="136518_16" >Lane</NAME>
+
+<CITATION end="375" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_832_141" id1="Dummy_File_230766" volume="832" start="361" page_number="141" standard_reporter="SO.2D" citation_global_level_id="294616.001" line="7" id="136518_13" citation_local_level_id="3" >832 So. 2d 141</CITATION>
+
+<RELATION theme="136518_3" includes_docket_string="03-559" includes_docket="136518_2" theme_string="RENDON ET AL. v. FLORIDA DEPARTMENT OF HIGHWAY SAFETY AND MOTOR VEHICLES ET AL" gram_type="apposition" relation_type="asymmetric" id="136518_8" ></RELATION>
+
+<RELATION theme="136518_3" party1="136518_4" party1_string="RENDON ET AL." theme_string="RENDON ET AL. v. FLORIDA DEPARTMENT OF HIGHWAY SAFETY AND MOTOR VEHICLES ET AL" gram_type="infix" relation_type="asymmetric" id="136518_6" ></RELATION>
+
+<RELATION party2="136518_5" theme="136518_3" theme_string="RENDON ET AL. v. FLORIDA DEPARTMENT OF HIGHWAY SAFETY AND MOTOR VEHICLES ET AL" party2_string="FLORIDA DEPARTMENT OF HIGHWAY SAFETY AND MOTOR VEHICLES ET AL" gram_type="infix" relation_type="asymmetric" id="136518_7" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 1059" X_vs_Y_string="RENDON ET AL. v. FLORIDA DEPARTMENT OF HIGHWAY SAFETY AND MOTOR VEHICLES ET AL" standard_case="136518_1" X_vs_Y="136518_3" gram_type="multi_line" relation_type="equivalence" id="136518_11" ></RELATION>
+
+<RELATION at_date_string="May 24, 2004" theme="136518_3" at_date="136518_10" theme_string="RENDON ET AL. v. FLORIDA DEPARTMENT OF HIGHWAY SAFETY AND MOTOR VEHICLES ET AL" gram_type="multi_line" relation_type="asymmetric" id="136518_12" ></RELATION>
+
+<RELATION theme="136518_14" party1="136518_15" party1_string="Tennessee" theme_string="Tennessee v. Lane" gram_type="infix" relation_type="asymmetric" id="136518_18" ></RELATION>
+
+<RELATION party2="136518_16" theme="136518_14" theme_string="Tennessee v. Lane" party2_string="Lane" gram_type="infix" relation_type="asymmetric" id="136518_19" ></RELATION>
+

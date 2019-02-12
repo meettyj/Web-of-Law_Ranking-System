@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['hallstates#9']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1078" id1="141308" volume="543" start="0" page_number="1078" standard_reporter="U.S." citation_global_level_id="1441.002" line="1" id="141318_1" citation_local_level_id="0" >543 U.S. 1078</CITATION>
+
+<CITATION party2="UNITED STATES" party1="HALL" citation_global_level_id="8047.001" party2_short="STATES" line="2" id="141318_2" alternative_keys="['u.s._543_1078']" end="39" entry_type="party_key" lookup_key="hallstates#9" id1="143064" start="18" party1_short="HALL" citation_local_level_id="1" >HALL v. UNITED STATES</CITATION>
+
+<NAME end="22" start="18" party1_of="141318_2" all_names="HALL" local_name_id="1" id="141318_3" >HALL</NAME>
+
+<NAME end="39" start="26" all_names="UNITED STATES" party2_of="141318_2" local_name_id="2" id="141318_4" >UNITED STATES</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="hallstates#9" id1="143064" start="49" citation_global_level_id="8047.001" line="3" id="141318_7" citation_local_level_id="1" >04-7511</DOCKET>
+
+<ORGANIZATION start="62" end="92" id="141318_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="98" citation_global_level_id="8047.001" end="114" id="141318_9" citation_local_level_id="1" >January 10, 2005</DATE>
+
+<NAME start="136" local_name_id="3" end="151" id="141318_14" all_names="C A D C CIR" >C. A. D. C. Cir</NAME>
+
+<NAME start="153" local_name_id="4" end="163" id="141318_15" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="202" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_370_1204" id1="Dummy_File_107373" volume="370" start="188" page_number="1204" standard_reporter="F.3D" citation_global_level_id="171223.001" line="8" id="141318_13" citation_local_level_id="2" >370 F. 3d 1204</CITATION>
+
+<RELATION theme="141318_2" party1="141318_3" party1_string="HALL" theme_string="HALL v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="141318_5" ></RELATION>
+
+<RELATION party2="141318_4" theme="141318_2" theme_string="HALL v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="141318_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1078" X_vs_Y_string="HALL v. UNITED STATES" standard_case="141318_1" X_vs_Y="141318_2" gram_type="multi_line" relation_type="equivalence" id="141318_10" ></RELATION>
+
+<RELATION at_date_string="January 10, 2005" theme="141318_2" at_date="141318_9" theme_string="HALL v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="141318_12" ></RELATION>
+
+<RELATION theme="141318_2" includes_docket_string="04-7511" includes_docket="141318_7" theme_string="HALL v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="141318_11" ></RELATION>
+

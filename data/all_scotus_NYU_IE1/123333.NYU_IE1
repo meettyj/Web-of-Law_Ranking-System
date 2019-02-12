@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['marxbancorp#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_885" id1="123332" volume="537" start="0" page_number="885" standard_reporter="U.S." citation_global_level_id="1013.002" line="1" id="123333_1" citation_local_level_id="0" >537 U.S. 885</CITATION>
+
+<CITATION party2="MERIDIAN BANCORP, INC., ET AL" party1="MARX" citation_global_level_id="1013.005" party2_short="BANCORP" line="1" id="123333_3" alternative_keys="['u.s._537_885']" end="54" entry_type="party_key" lookup_key="marxbancorp#2" id1="123332" start="17" party1_short="MARX" citation_local_level_id="1" >MARX v. MERIDIAN BANCORP, INC., ET AL</CITATION>
+
+<NAME end="21" start="17" party1_of="123333_3" all_names="MARX" local_name_id="1" id="123333_4" >MARX</NAME>
+
+<NAME end="54" start="25" all_names="MERIDIAN BANCORP INC" party2_of="123333_3" local_name_id="2" id="123333_5" >MERIDIAN BANCORP, INC., ET AL</NAME>
+
+<DOCKET end="70" entry_type="docket" lookup_key="u.s._537_885" id1="123332" start="64" citation_global_level_id="1013.002" line="1" id="123333_2" citation_local_level_id="0" >02-152</DOCKET>
+
+<DATE start="112" end="127" id="123333_6" >October 7, 2002</DATE>
+
+<NAME start="255" local_name_id="3" end="258" id="123333_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="123333_1" includes_docket_string="02-152" includes_docket="123333_2" theme_string="537 U.S. 885" gram_type="apposition" relation_type="asymmetric" id="123333_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 885" X_vs_Y_string="MARX v. MERIDIAN BANCORP, INC., ET AL" standard_case="123333_1" X_vs_Y="123333_3" gram_type="pre_nom" relation_type="equivalence" id="123333_7" ></RELATION>
+
+<RELATION theme="123333_3" includes_docket_string="02-152" includes_docket="123333_2" theme_string="MARX v. MERIDIAN BANCORP, INC., ET AL" gram_type="apposition" relation_type="asymmetric" id="123333_10" ></RELATION>
+
+<RELATION theme="123333_3" party1="123333_4" party1_string="MARX" theme_string="MARX v. MERIDIAN BANCORP, INC., ET AL" gram_type="infix" relation_type="asymmetric" id="123333_8" ></RELATION>
+
+<RELATION party2="123333_5" theme="123333_3" theme_string="MARX v. MERIDIAN BANCORP, INC., ET AL" party2_string="MERIDIAN BANCORP, INC., ET AL" gram_type="infix" relation_type="asymmetric" id="123333_9" ></RELATION>
+

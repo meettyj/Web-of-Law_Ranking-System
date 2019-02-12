@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['israelflorida#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_931" id1="130530" volume="539" start="0" page_number="931" standard_reporter="U.S." citation_global_level_id="2200.002" line="1" id="130535_1" citation_local_level_id="0" >539 U.S. 931</CITATION>
+
+<CITATION party2="Florida" party1="Israel" citation_global_level_id="53785.001" party2_short="Florida" line="1" id="130535_3" alternative_keys="['u.s._539_931']" end="34" entry_type="party_key" lookup_key="israelflorida#1" id1="130535" start="17" party1_short="Israel" citation_local_level_id="1" >Israel v. Florida</CITATION>
+
+<NAME end="23" start="17" party1_of="130535_3" all_names="ISRAEL" local_name_id="1" id="130535_4" >Israel</NAME>
+
+<NAME end="34" start="27" all_names="FLORIDA" party2_of="130535_3" local_name_id="2" id="130535_5" >Florida</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="u.s._539_931" id1="130530" start="44" citation_global_level_id="2200.002" line="1" id="130535_2" citation_local_level_id="0" >02-10141</DOCKET>
+
+<DATE start="94" end="107" id="130535_6" >June 16, 2003</DATE>
+
+<NAME start="184" local_name_id="3" end="194" id="130535_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="233" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_837_381" id1="Dummy_File_2318" volume="837" start="219" page_number="381" standard_reporter="SO.2D" citation_global_level_id="66168.001" line="3" id="130535_12" citation_local_level_id="2" >837 So. 2d 381</CITATION>
+
+<RELATION theme="130535_1" includes_docket_string="02-10141" includes_docket="130535_2" theme_string="539 U.S. 931" gram_type="apposition" relation_type="asymmetric" id="130535_11" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 931" X_vs_Y_string="Israel v. Florida" standard_case="130535_1" X_vs_Y="130535_3" gram_type="pre_nom" relation_type="equivalence" id="130535_7" ></RELATION>
+
+<RELATION theme="130535_3" includes_docket_string="02-10141" includes_docket="130535_2" theme_string="Israel v. Florida" gram_type="apposition" relation_type="asymmetric" id="130535_10" ></RELATION>
+
+<RELATION theme="130535_3" party1="130535_4" party1_string="Israel" theme_string="Israel v. Florida" gram_type="infix" relation_type="asymmetric" id="130535_8" ></RELATION>
+
+<RELATION party2="130535_5" theme="130535_3" theme_string="Israel v. Florida" party2_string="Florida" gram_type="infix" relation_type="asymmetric" id="130535_9" ></RELATION>
+

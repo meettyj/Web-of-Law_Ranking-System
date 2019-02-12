@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['grosnickembriano#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1112" id1="116783" volume="510" start="0" page_number="1112" standard_reporter="U.S." citation_global_level_id="3891.002" line="1" id="116784_1" citation_local_level_id="0" >510 U.S. 1112</CITATION>
+
+<CITATION party2="Embriano" party1="Grosnick" citation_global_level_id="35815.001" party2_short="Embriano" line="1" id="116784_3" alternative_keys="['u.s._510_1112']" end="38" entry_type="party_key" lookup_key="grosnickembriano#1" id1="116784" start="18" party1_short="Grosnick" citation_local_level_id="1" >Grosnick v. Embriano</CITATION>
+
+<NAME end="26" start="18" party1_of="116784_3" all_names="GROSNICK" local_name_id="1" id="116784_4" >Grosnick</NAME>
+
+<NAME end="38" start="30" all_names="EMBRIANO" party2_of="116784_3" local_name_id="2" id="116784_5" >Embriano</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="u.s._510_1112" id1="116783" start="48" citation_global_level_id="3891.002" line="1" id="116784_2" citation_local_level_id="0" >93-898</DOCKET>
+
+<DATE start="96" end="113" id="116784_6" >February 22, 1994</DATE>
+
+<NAME start="191" local_name_id="3" end="201" id="116784_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="239" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_999_590" id1="Dummy_File_171768" volume="999" start="226" page_number="590" standard_reporter="F.2D" citation_global_level_id="235618.001" line="3" id="116784_12" citation_local_level_id="2" >999 F. 2d 590</CITATION>
+
+<RELATION theme="116784_1" includes_docket_string="93-898" includes_docket="116784_2" theme_string="510 U.S. 1112" gram_type="apposition" relation_type="asymmetric" id="116784_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1112" X_vs_Y_string="Grosnick v. Embriano" standard_case="116784_1" X_vs_Y="116784_3" gram_type="pre_nom" relation_type="equivalence" id="116784_7" ></RELATION>
+
+<RELATION theme="116784_3" includes_docket_string="93-898" includes_docket="116784_2" theme_string="Grosnick v. Embriano" gram_type="apposition" relation_type="asymmetric" id="116784_10" ></RELATION>
+
+<RELATION theme="116784_3" party1="116784_4" party1_string="Grosnick" theme_string="Grosnick v. Embriano" gram_type="infix" relation_type="asymmetric" id="116784_8" ></RELATION>
+
+<RELATION party2="116784_5" theme="116784_3" theme_string="Grosnick v. Embriano" party2_string="Embriano" gram_type="infix" relation_type="asymmetric" id="116784_9" ></RELATION>
+

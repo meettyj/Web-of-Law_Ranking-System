@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['lairhorn#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_965" id1="130932" volume="539" start="0" page_number="965" standard_reporter="U.S." citation_global_level_id="9103.002" line="1" id="130945_1" citation_local_level_id="0" >539 U.S. 965</CITATION>
+
+<CITATION party2="Horn et al" party1="Lair" citation_global_level_id="11354.001" party2_short="Horn" line="1" id="130945_3" alternative_keys="['u.s._539_965']" end="35" entry_type="party_key" lookup_key="lairhorn#1" id1="130945" start="17" party1_short="Lair" citation_local_level_id="1" >Lair v. Horn et al</CITATION>
+
+<NAME end="21" start="17" party1_of="130945_3" all_names="LAIR" local_name_id="1" id="130945_4" >Lair</NAME>
+
+<NAME end="35" start="25" all_names="HORN" party2_of="130945_3" local_name_id="2" id="130945_5" >Horn et al</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="u.s._539_965" id1="130932" start="45" citation_global_level_id="9103.002" line="1" id="130945_2" citation_local_level_id="0" >02-10576</DOCKET>
+
+<DATE start="95" end="108" id="130945_6" >June 27, 2003</DATE>
+
+<NAME start="197" local_name_id="3" end="207" id="130945_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="130945_1" includes_docket_string="02-10576" includes_docket="130945_2" theme_string="539 U.S. 965" gram_type="apposition" relation_type="asymmetric" id="130945_11" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 965" X_vs_Y_string="Lair v. Horn et al" standard_case="130945_1" X_vs_Y="130945_3" gram_type="pre_nom" relation_type="equivalence" id="130945_7" ></RELATION>
+
+<RELATION theme="130945_3" includes_docket_string="02-10576" includes_docket="130945_2" theme_string="Lair v. Horn et al" gram_type="apposition" relation_type="asymmetric" id="130945_10" ></RELATION>
+
+<RELATION theme="130945_3" party1="130945_4" party1_string="Lair" theme_string="Lair v. Horn et al" gram_type="infix" relation_type="asymmetric" id="130945_8" ></RELATION>
+
+<RELATION party2="130945_5" theme="130945_3" theme_string="Lair v. Horn et al" party2_string="Horn et al" gram_type="infix" relation_type="asymmetric" id="130945_9" ></RELATION>
+

@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['gleasonohio#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_825" id1="113185" volume="510" start="0" page_number="825" standard_reporter="U.S." citation_global_level_id="3458.002" line="1" id="113187_1" citation_local_level_id="0" >510 U.S. 825</CITATION>
+
+<CITATION party2="Ohio" party1="Gleason" citation_global_level_id="11233.001" party2_short="Ohio" line="1" id="113187_3" alternative_keys="['u.s._510_825']" end="32" entry_type="party_key" lookup_key="gleasonohio#1" id1="113187" start="17" party1_short="Gleason" citation_local_level_id="1" >Gleason v. Ohio</CITATION>
+
+<NAME end="24" start="17" party1_of="113187_3" all_names="GLEASON" local_name_id="1" id="113187_4" >Gleason</NAME>
+
+<NAME end="32" start="28" all_names="OHIO" party2_of="113187_3" local_name_id="2" id="113187_5" >Ohio</NAME>
+
+<DOCKET end="49" entry_type="docket" lookup_key="u.s._510_825" id1="113185" start="42" citation_global_level_id="3458.002" line="1" id="113187_2" citation_local_level_id="0" >92-2005</DOCKET>
+
+<DATE start="45" end="49" id="113187_6" >2005</DATE>
+
+<DATE start="91" end="106" id="113187_7" >October 4, 1993</DATE>
+
+<NAME start="199" local_name_id="3" end="209" id="113187_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="113187_1" includes_docket_string="92-2005" includes_docket="113187_2" theme_string="510 U.S. 825" gram_type="apposition" relation_type="asymmetric" id="113187_12" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 825" X_vs_Y_string="Gleason v. Ohio" standard_case="113187_1" X_vs_Y="113187_3" gram_type="pre_nom" relation_type="equivalence" id="113187_8" ></RELATION>
+
+<RELATION theme="113187_3" includes_docket_string="92-2005" includes_docket="113187_2" theme_string="Gleason v. Ohio" gram_type="apposition" relation_type="asymmetric" id="113187_11" ></RELATION>
+
+<RELATION party2="113187_5" theme="113187_3" theme_string="Gleason v. Ohio" party2_string="Ohio" gram_type="infix" relation_type="asymmetric" id="113187_10" ></RELATION>
+
+<RELATION theme="113187_3" party1="113187_4" party1_string="Gleason" theme_string="Gleason v. Ohio" gram_type="infix" relation_type="asymmetric" id="113187_9" ></RELATION>
+
+<RELATION at_date_string="2005" theme="113187_2" at_date="113187_6" theme_string="92-2005" gram_type="infix" relation_type="asymmetric" id="113187_13" ></RELATION>
+

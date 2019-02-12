@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['taylordepartment#4']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_967" id1="115020" volume="510" start="0" page_number="967" standard_reporter="U.S." citation_global_level_id="5052.002" line="1" id="115018_1" citation_local_level_id="0" >510 U.S. 967</CITATION>
+
+<CITATION party2="Michigan Department of Corrections et al" party1="Taylor" citation_global_level_id="7680.001" party2_short="Department" line="1" id="115018_3" alternative_keys="['u.s._510_967']" end="67" entry_type="party_key" lookup_key="taylordepartment#4" id1="115018" start="17" party1_short="Taylor" citation_local_level_id="1" >Taylor v. Michigan Department of Corrections et al</CITATION>
+
+<NAME end="23" start="17" party1_of="115018_3" all_names="TAYLOR" local_name_id="1" id="115018_4" >Taylor</NAME>
+
+<NAME end="67" start="27" all_names="MICHIGAN DEPARTMENT OF CORRECTIONS" party2_of="115018_3" local_name_id="2" id="115018_5" >Michigan Department of Corrections et al</NAME>
+
+<DOCKET end="84" entry_type="docket" lookup_key="u.s._510_967" id1="115020" start="77" citation_global_level_id="5052.002" line="1" id="115018_2" citation_local_level_id="0" >93-5965</DOCKET>
+
+<DATE start="126" end="142" id="115018_6" >November 8, 1993</DATE>
+
+<NAME start="220" local_name_id="3" end="230" id="115018_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="269" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_996_1217" id1="Dummy_File_34056" volume="996" start="255" page_number="1217" standard_reporter="F.2D" citation_global_level_id="97906.001" line="3" id="115018_12" citation_local_level_id="2" >996 F. 2d 1217</CITATION>
+
+<RELATION theme="115018_1" includes_docket_string="93-5965" includes_docket="115018_2" theme_string="510 U.S. 967" gram_type="apposition" relation_type="asymmetric" id="115018_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 967" X_vs_Y_string="Taylor v. Michigan Department of Corrections et al" standard_case="115018_1" X_vs_Y="115018_3" gram_type="pre_nom" relation_type="equivalence" id="115018_7" ></RELATION>
+
+<RELATION theme="115018_3" includes_docket_string="93-5965" includes_docket="115018_2" theme_string="Taylor v. Michigan Department of Corrections et al" gram_type="apposition" relation_type="asymmetric" id="115018_10" ></RELATION>
+
+<RELATION theme="115018_3" party1="115018_4" party1_string="Taylor" theme_string="Taylor v. Michigan Department of Corrections et al" gram_type="infix" relation_type="asymmetric" id="115018_8" ></RELATION>
+
+<RELATION party2="115018_5" theme="115018_3" theme_string="Taylor v. Michigan Department of Corrections et al" party2_string="Michigan Department of Corrections et al" gram_type="infix" relation_type="asymmetric" id="115018_9" ></RELATION>
+

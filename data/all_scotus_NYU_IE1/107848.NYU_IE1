@@ -1,0 +1,52 @@
+<CITATION alternative_keys="['davismississippi#3', 's.ct._89_149', 'l.ed.2d_21_93']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._393_821" id1="107848" volume="393" start="0" page_number="821" standard_reporter="U.S." citation_global_level_id="34194.002" line="1" id="107848_1" citation_local_level_id="0" >393 U.S. 821</CITATION>
+
+<CITATION alternative_keys="['u.s._393_821', 'davismississippi#3', 'l.ed.2d_21_93']" end="30" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._89_149" id1="107848" volume="89" start="17" page_number="149" standard_reporter="S.CT." citation_global_level_id="34194.003" line="1" id="107848_2" citation_local_level_id="1" >89 S. Ct. 149</CITATION>
+
+<NAME start="20" local_name_id="1" end="25" id="107848_9" all_names="S CT" >S. Ct</NAME>
+
+<CITATION alternative_keys="['u.s._393_821', 's.ct._89_149', 'davismississippi#3']" end="50" reporter="L. Ed. 2d" entry_type="standard_key" lookup_key="l.ed.2d_21_93" id1="107849" volume="21" start="35" page_number="93" standard_reporter="L.ED.2D" citation_global_level_id="10988.004" line="1" id="107848_3" citation_local_level_id="2" >21 L. Ed. 2d 93</CITATION>
+
+<CITATION party2="MISSISSIPPI" alternative_keys="['u.s._393_821', 's.ct._89_149', 'l.ed.2d_21_93']" party1="John DAVIS," end="93" party1_short="DAVIS" entry_type="party_key" party1_role="petitioner" lookup_key="davismississippi#3" id1="131499" start="55" citation_global_level_id="51259.001" party2_short="MISSISSIPPI" line="1" id="107848_4" citation_local_level_id="3" >John DAVIS, petitioner, v. MISSISSIPPI</CITATION>
+
+<NAME end="66" start="55" party1_of="107848_4" all_names="JOHN DAVIS" local_name_id="2" id="107848_5" >John DAVIS,</NAME>
+
+<LEGAL_ROLE start="67" end="77" id="107848_7" >petitioner</LEGAL_ROLE>
+
+<NAME end="93" start="82" all_names="MISSISSIPPI" party2_of="107848_4" local_name_id="3" id="107848_6" >MISSISSIPPI</NAME>
+
+<DATE start="156" end="172" id="107848_8" >October 14, 1968</DATE>
+
+<NAME start="290" local_name_id="4" end="306" id="107848_15" all_names="JOE T PATTERSON" >Joe T. Patterson</NAME>
+
+<PROFESSION start="308" document_level_name_id="4" end="333" id="107848_16" party="JOE T PATTERSON" >Atty. Gen. of Mississippi</PROFESSION>
+
+<NAME start="339" local_name_id="5" end="359" id="107848_17" all_names="G GARLAND LYELL JR" >G. Garland Lyell, Jr</NAME>
+
+<PROFESSION start="362" document_level_name_id="5" end="377" id="107848_18" party="G GARLAND LYELL JR" >Asst. Atty. Gen</PROFESSION>
+
+<LEGAL_ROLE start="384" end="394" id="107848_19" >respondent</LEGAL_ROLE>
+
+<LEGAL_ROLE start="700" end="710" id="107848_22" >petitioner</LEGAL_ROLE>
+
+<LEGAL_ROLE start="780" end="790" id="107848_23" >petitioner</LEGAL_ROLE>
+
+<LEGAL_ROLE start="818" end="828" id="107848_24" >petitioner</LEGAL_ROLE>
+
+<NAME start="853" local_name_id="6" end="885" id="107848_25" all_names="FOURTH AND FOURTEENTH AMENDMENTS" >Fourth and Fourteenth Amendments</NAME>
+
+<NAME start="888" local_name_id="7" end="892" id="107848_26" all_names="CASE" >Case</NAME>
+
+<RELATION standard_case_string="393 U.S. 821" X_vs_Y_string="John DAVIS, petitioner, v. MISSISSIPPI" standard_case="107848_1" X_vs_Y="107848_4" gram_type="pre_nom" relation_type="equivalence" id="107848_11" ></RELATION>
+
+<RELATION standard_case_string="89 S. Ct. 149" X_vs_Y_string="John DAVIS, petitioner, v. MISSISSIPPI" standard_case="107848_2" X_vs_Y="107848_4" gram_type="pre_nom" relation_type="equivalence" id="107848_12" ></RELATION>
+
+<RELATION standard_case_string="21 L. Ed. 2d 93" X_vs_Y_string="John DAVIS, petitioner, v. MISSISSIPPI" standard_case="107848_3" X_vs_Y="107848_4" gram_type="pre_nom" relation_type="equivalence" id="107848_10" ></RELATION>
+
+<RELATION theme="107848_4" party1="107848_5" party1_string="John DAVIS," theme_string="John DAVIS, petitioner, v. MISSISSIPPI" gram_type="infix" relation_type="asymmetric" id="107848_13" ></RELATION>
+
+<RELATION party2="107848_6" theme="107848_4" theme_string="John DAVIS, petitioner, v. MISSISSIPPI" party2_string="MISSISSIPPI" gram_type="infix" relation_type="asymmetric" id="107848_14" ></RELATION>
+
+<RELATION theme="107848_15" profession_string="Atty. Gen. of Mississippi" theme_string="Joe T. Patterson" profession="107848_16" gram_type="apposition" relation_type="asymmetric" id="107848_20" ></RELATION>
+
+<RELATION theme="107848_17" profession_string="Asst. Atty. Gen" theme_string="G. Garland Lyell, Jr" profession="107848_18" gram_type="apposition" relation_type="asymmetric" id="107848_21" ></RELATION>
+

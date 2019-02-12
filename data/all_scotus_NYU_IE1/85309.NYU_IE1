@@ -1,0 +1,56 @@
+<CITATION alternative_keys="['stateslancaster#1', 'wheat._5_198']" end="19" reporter="U.S." entry_type="standard_key" lookup_key="u.s._18_198" id1="85309" volume="18" start="1" page_number="198" standard_reporter="U.S." citation_global_level_id="17543.002" line="2" id="85309_1" citation_local_level_id="0" >18 U.S. 198 (____)</CITATION>
+
+<CITATION alternative_keys="['u.s._18_198', 'stateslancaster#1']" end="32" reporter="Wheat." entry_type="standard_key" lookup_key="wheat._5_198" id1="85309" volume="5" start="20" page_number="198" standard_reporter="WHEAT." citation_global_level_id="17543.003" line="3" id="85309_2" citation_local_level_id="1" >5 Wheat. 198</CITATION>
+
+<CITATION party2="LANCASTER" party1="UNITED STATES" citation_global_level_id="17543.001" party2_short="LANCASTER" line="6" id="85309_4" alternative_keys="['u.s._18_198', 'wheat._5_198']" end="61" entry_type="party_key" lookup_key="stateslancaster#1" id1="85309" start="33" party1_short="STATES" citation_local_level_id="2" >UNITED STATES v. LANCASTER</CITATION>
+
+<NAME end="46" start="33" party1_of="85309_4" all_names="UNITED STATES" local_name_id="1" id="85309_5" >UNITED STATES</NAME>
+
+<NAME end="61" start="52" all_names="LANCASTER" party2_of="85309_4" local_name_id="2" id="85309_6" >LANCASTER</NAME>
+
+<ORGANIZATION start="63" end="93" id="85309_9" >Supreme Court of United States</ORGANIZATION>
+
+<NAME start="96" local_name_id="3" end="101" id="85309_13" all_names="MARCH" >March</NAME>
+
+<DATE start="108" end="112" id="85309_12" >1820</DATE>
+
+<NAME start="138" local_name_id="4" end="152" id="85309_14" all_names="CJ INGERSOLL" >C.J. Ingersoll</NAME>
+
+<LEGAL_ROLE start="162" end="172" plural="True" id="85309_15" >plaintiffs</LEGAL_ROLE>
+
+<PROFESSION start="181" end="189" id="85309_16" >Sergeant</PROFESSION>
+
+<LEGAL_ROLE start="199" end="208" id="85309_17" >defendant</LEGAL_ROLE>
+
+<NAME start="215" local_name_id="3" end="220" id="85309_18" all_names="MARCH" >March</NAME>
+
+<NAME start="516" local_name_id="5" end="524" id="85309_19" all_names="JUDGMENT" >JUDGMENT</NAME>
+
+<NAME start="884" local_name_id="6" end="889" id="85309_20" all_names="NOTES" >NOTES</NAME>
+
+<ORGANIZATION start="936" end="941" id="85309_25" >court</ORGANIZATION>
+
+<ORGANIZATION start="1016" end="1021" id="85309_26" >court</ORGANIZATION>
+
+<CITATION party2="Barker" party1="United States" citation_global_level_id="57268.001" party2_short="Barker" line="13" id="85309_22" alternative_keys="['wheat._2_395']" end="1063" entry_type="party_key" lookup_key="statesbarker#2" id1="85545" start="1040" party1_short="States" citation_local_level_id="3" >United States v. Barker</CITATION>
+
+<NAME end="1053" start="1040" party1_of="85309_22" all_names="UNITED STATES" local_name_id="1" id="85309_23" >United States</NAME>
+
+<NAME end="1063" start="1057" all_names="BARKER" party2_of="85309_22" local_name_id="7" id="85309_24" >Barker</NAME>
+
+<CITATION alternative_keys="['statesbarker#2']" end="1077" reporter="Wheat." entry_type="standard_key" lookup_key="wheat._2_395" id1="85211" volume="2" start="1065" page_number="395" standard_reporter="WHEAT." citation_global_level_id="41385.004" line="13" id="85309_21" citation_local_level_id="4" >2 Wheat. 395</CITATION>
+
+<RELATION theme="85309_4" party1="85309_5" party1_string="UNITED STATES" theme_string="UNITED STATES  v.  LANCASTER" gram_type="infix" relation_type="asymmetric" id="85309_7" ></RELATION>
+
+<RELATION party2="85309_6" theme="85309_4" theme_string="UNITED STATES  v.  LANCASTER" party2_string="LANCASTER" gram_type="infix" relation_type="asymmetric" id="85309_8" ></RELATION>
+
+<RELATION standard_case_string="18 U.S. 198 (____)" X_vs_Y_string="UNITED STATES  v.  LANCASTER" standard_case="85309_1" X_vs_Y="85309_4" gram_type="multi_line" relation_type="equivalence" id="85309_10" ></RELATION>
+
+<RELATION standard_case_string="5 Wheat. 198" X_vs_Y_string="UNITED STATES  v.  LANCASTER" standard_case="85309_2" X_vs_Y="85309_4" gram_type="multi_line" relation_type="equivalence" id="85309_11" ></RELATION>
+
+<RELATION standard_case_string="2 Wheat. 395" X_vs_Y_string="United States v. Barker" standard_case="85309_21" X_vs_Y="85309_22" gram_type="apposition" relation_type="equivalence" id="85309_29" ></RELATION>
+
+<RELATION theme="85309_22" party1="85309_23" party1_string="United States" theme_string="United States v. Barker" gram_type="infix" relation_type="asymmetric" id="85309_27" ></RELATION>
+
+<RELATION party2="85309_24" theme="85309_22" theme_string="United States v. Barker" party2_string="Barker" gram_type="infix" relation_type="asymmetric" id="85309_28" ></RELATION>
+

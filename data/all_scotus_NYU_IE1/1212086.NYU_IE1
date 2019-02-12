@@ -1,0 +1,42 @@
+<DATE start="2" end="6" id="1212086_1" >2006</DATE>
+
+<CITATION party2="UNITED STATES" party1="JAMAL R. SAMPSON" citation_global_level_id="58113.001" party2_short="STATES" line="5" id="1212086_3" end="43" entry_type="party_key" lookup_key="sampsonstates#6" id1="1212086" start="8" party1_short="SAMPSON" citation_local_level_id="0" >JAMAL R. SAMPSON v. UNITED STATES</CITATION>
+
+<NAME end="24" start="8" party1_of="1212086_3" all_names="JAMAL R SAMPSON" local_name_id="1" id="1212086_4" >JAMAL R. SAMPSON</NAME>
+
+<NAME end="43" start="30" all_names="UNITED STATES" party2_of="1212086_3" local_name_id="2" id="1212086_5" >UNITED STATES</NAME>
+
+<CITATION party2="UNITED STATES" party1="ERIC T. FRANKLIN" citation_global_level_id="43006.001" party2_short="STATES" line="8" id="1212086_9" end="80" entry_type="party_key" lookup_key="franklinstates#7" id1="97202" start="45" party1_short="FRANKLIN" citation_local_level_id="1" >ERIC T. FRANKLIN v. UNITED STATES</CITATION>
+
+<NAME end="61" start="45" party1_of="1212086_9" all_names="ERIC T FRANKLIN" local_name_id="3" id="1212086_10" >ERIC T. FRANKLIN</NAME>
+
+<NAME end="80" start="67" all_names="UNITED STATES" party2_of="1212086_9" local_name_id="2" id="1212086_11" >UNITED STATES</NAME>
+
+<DOCKET end="93" entry_type="docket" lookup_key="sampsonstates#6" id1="1212086" start="86" citation_global_level_id="58113.001" line="9" id="1212086_14" citation_local_level_id="0" >05-9351</DOCKET>
+
+<DOCKET end="102" entry_type="docket" lookup_key="sampsonstates#6" id1="1212086" start="95" citation_global_level_id="58113.001" line="9" id="1212086_15" citation_local_level_id="0" >05-9423</DOCKET>
+
+<ORGANIZATION start="104" end="134" id="1212086_16" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="136" citation_global_level_id="58113.001" end="149" id="1212086_17" citation_local_level_id="0" >June 12, 2006</DATE>
+
+<RELATION theme="1212086_3" party1="1212086_4" party1_string="JAMAL R. SAMPSON" theme_string="JAMAL R. SAMPSON  v.  UNITED STATES" gram_type="infix" relation_type="asymmetric" id="1212086_6" ></RELATION>
+
+<RELATION party2="1212086_5" theme="1212086_3" theme_string="JAMAL R. SAMPSON  v.  UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="1212086_7" ></RELATION>
+
+<RELATION theme="1212086_9" party1="1212086_10" party1_string="ERIC T. FRANKLIN" theme_string="ERIC T. FRANKLIN  v.  UNITED STATES" gram_type="infix" relation_type="asymmetric" id="1212086_12" ></RELATION>
+
+<RELATION party2="1212086_11" theme="1212086_9" theme_string="ERIC T. FRANKLIN  v.  UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="1212086_13" ></RELATION>
+
+<RELATION at_date_string="June 12, 2006" theme="1212086_3" at_date="1212086_17" theme_string="JAMAL R. SAMPSON  v.  UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="1212086_20" ></RELATION>
+
+<RELATION theme="1212086_3" includes_docket_string="05-9423" includes_docket="1212086_15" theme_string="JAMAL R. SAMPSON  v.  UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="1212086_19" ></RELATION>
+
+<RELATION theme="1212086_3" includes_docket_string="05-9351" includes_docket="1212086_14" theme_string="JAMAL R. SAMPSON  v.  UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="1212086_18" ></RELATION>
+
+<RELATION at_date_string="June 12, 2006" theme="1212086_9" at_date="1212086_17" theme_string="ERIC T. FRANKLIN  v.  UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="1212086_23" ></RELATION>
+
+<RELATION theme="1212086_9" includes_docket_string="05-9423" includes_docket="1212086_15" theme_string="ERIC T. FRANKLIN  v.  UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="1212086_22" ></RELATION>
+
+<RELATION theme="1212086_9" includes_docket_string="05-9351" includes_docket="1212086_14" theme_string="ERIC T. FRANKLIN  v.  UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="1212086_21" ></RELATION>
+

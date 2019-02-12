@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['marshallstates#9']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_960" id1="119141" volume="535" start="0" page_number="960" standard_reporter="U.S." citation_global_level_id="2100.002" line="1" id="119132_1" citation_local_level_id="0" >535 U.S. 960</CITATION>
+
+<CITATION party2="UNITED STATES" party1="MARSHALL" citation_global_level_id="47246.001" party2_short="STATES" line="2" id="119132_2" alternative_keys="['u.s._535_960']" end="42" entry_type="party_key" lookup_key="marshallstates#9" id1="125801" start="17" party1_short="MARSHALL" citation_local_level_id="1" >MARSHALL v. UNITED STATES</CITATION>
+
+<NAME end="25" start="17" party1_of="119132_2" all_names="MARSHALL" local_name_id="1" id="119132_3" >MARSHALL</NAME>
+
+<NAME end="42" start="29" all_names="UNITED STATES" party2_of="119132_2" local_name_id="2" id="119132_4" >UNITED STATES</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="marshallstates#9" id1="125801" start="52" citation_global_level_id="47246.001" line="3" id="119132_7" citation_local_level_id="1" >01-7956</DOCKET>
+
+<DATE start="105" citation_global_level_id="47246.001" end="119" id="119132_8" citation_local_level_id="1" >March 25, 2002</DATE>
+
+<NAME start="151" local_name_id="3" end="154" id="119132_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="119132_2" party1="119132_3" party1_string="MARSHALL" theme_string="MARSHALL v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="119132_5" ></RELATION>
+
+<RELATION party2="119132_4" theme="119132_2" theme_string="MARSHALL v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="119132_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 960" X_vs_Y_string="MARSHALL v. UNITED STATES" standard_case="119132_1" X_vs_Y="119132_2" gram_type="multi_line" relation_type="equivalence" id="119132_9" ></RELATION>
+
+<RELATION at_date_string="March 25, 2002" theme="119132_2" at_date="119132_8" theme_string="MARSHALL v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="119132_11" ></RELATION>
+
+<RELATION theme="119132_2" includes_docket_string="01-7956" includes_docket="119132_7" theme_string="MARSHALL v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="119132_10" ></RELATION>
+

@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['smithelo#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_948" id1="128511" volume="538" start="0" page_number="948" standard_reporter="U.S." citation_global_level_id="2345.002" line="1" id="128511_1" citation_local_level_id="0" >538 U.S. 948</CITATION>
+
+<CITATION party2="ELO, WARDEN" party1="SMITH" citation_global_level_id="7648.004" party2_short="ELO" line="1" id="128511_3" alternative_keys="['u.s._541_1065']" end="37" entry_type="party_key" lookup_key="smithelo#1" id1="136567" start="17" party1_short="SMITH" citation_local_level_id="1" >SMITH v. ELO, WARDEN</CITATION>
+
+<NAME end="22" start="17" party1_of="128511_3" all_names="SMITH" local_name_id="1" id="128511_4" >SMITH</NAME>
+
+<NAME end="37" start="26" all_names="ELO WARDEN" party2_of="128511_3" local_name_id="2" id="128511_5" >ELO, WARDEN</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="u.s._538_948" id1="128511" start="47" citation_global_level_id="2345.002" line="1" id="128511_2" citation_local_level_id="0" >02-8657</DOCKET>
+
+<DATE start="96" end="110" id="128511_6" >March 31, 2003</DATE>
+
+<NAME start="239" local_name_id="3" end="242" id="128511_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="128511_1" includes_docket_string="02-8657" includes_docket="128511_2" theme_string="538 U.S. 948" gram_type="apposition" relation_type="asymmetric" id="128511_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 948" X_vs_Y_string="SMITH v. ELO, WARDEN" standard_case="128511_1" X_vs_Y="128511_3" gram_type="pre_nom" relation_type="equivalence" id="128511_7" ></RELATION>
+
+<RELATION theme="128511_3" includes_docket_string="02-8657" includes_docket="128511_2" theme_string="SMITH v. ELO, WARDEN" gram_type="apposition" relation_type="asymmetric" id="128511_10" ></RELATION>
+
+<RELATION theme="128511_3" party1="128511_4" party1_string="SMITH" theme_string="SMITH v. ELO, WARDEN" gram_type="infix" relation_type="asymmetric" id="128511_8" ></RELATION>
+
+<RELATION party2="128511_5" theme="128511_3" theme_string="SMITH v. ELO, WARDEN" party2_string="ELO, WARDEN" gram_type="infix" relation_type="asymmetric" id="128511_9" ></RELATION>
+

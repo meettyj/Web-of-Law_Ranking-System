@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['bankszetela#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1226" id1="127638" volume="537" start="0" page_number="1226" standard_reporter="U.S." citation_global_level_id="430.002" line="1" id="127635_1" citation_local_level_id="0" >537 U.S. 1226</CITATION>
+
+<CITATION party2="SZETELA" party1="DISCOVER BANK" citation_global_level_id="20468.001" party2_short="SZETELA" line="1" id="127635_3" alternative_keys="['u.s._537_1226']" end="42" entry_type="party_key" lookup_key="bankszetela#1" id1="127635" start="18" party1_short="BANK" citation_local_level_id="1" >DISCOVER BANK v. SZETELA</CITATION>
+
+<NAME end="31" start="18" party1_of="127635_3" all_names="DISCOVER BANK" local_name_id="1" id="127635_4" >DISCOVER BANK</NAME>
+
+<NAME end="42" start="35" all_names="SZETELA" party2_of="127635_3" local_name_id="2" id="127635_5" >SZETELA</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._537_1226" id1="127638" start="52" citation_global_level_id="430.002" line="1" id="127635_2" citation_local_level_id="0" >02-829</DOCKET>
+
+<DATE start="100" end="117" id="127635_6" >February 24, 2003</DATE>
+
+<NAME start="248" local_name_id="3" end="250" id="127635_13" all_names="CT" >Ct</NAME>
+
+<CITATION end="454" reporter="Cal. Rptr. 2d" entry_type="standard_key" no_current_file="True" lookup_key="cal.rptr.2d_118_862" id1="Dummy_File_117925" volume="118" start="433" page_number="862" standard_reporter="CAL.RPTR.2D" citation_global_level_id="181775.001" line="3" id="127635_12" citation_local_level_id="2" >118 Cal. Rptr. 2d 862</CITATION>
+
+<RELATION theme="127635_1" includes_docket_string="02-829" includes_docket="127635_2" theme_string="537 U.S. 1226" gram_type="apposition" relation_type="asymmetric" id="127635_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1226" X_vs_Y_string="DISCOVER BANK v. SZETELA" standard_case="127635_1" X_vs_Y="127635_3" gram_type="pre_nom" relation_type="equivalence" id="127635_7" ></RELATION>
+
+<RELATION theme="127635_3" includes_docket_string="02-829" includes_docket="127635_2" theme_string="DISCOVER BANK v. SZETELA" gram_type="apposition" relation_type="asymmetric" id="127635_10" ></RELATION>
+
+<RELATION theme="127635_3" party1="127635_4" party1_string="DISCOVER BANK" theme_string="DISCOVER BANK v. SZETELA" gram_type="infix" relation_type="asymmetric" id="127635_8" ></RELATION>
+
+<RELATION party2="127635_5" theme="127635_3" theme_string="DISCOVER BANK v. SZETELA" party2_string="SZETELA" gram_type="infix" relation_type="asymmetric" id="127635_9" ></RELATION>
+

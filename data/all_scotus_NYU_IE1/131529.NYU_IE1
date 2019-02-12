@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['taubmancalifornia#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_831" id1="131536" volume="540" start="0" page_number="831" standard_reporter="U.S." citation_global_level_id="8010.002" line="1" id="131529_1" citation_local_level_id="0" >540 U.S. 831</CITATION>
+
+<CITATION party2="CALIFORNIA" party1="TAUBMAN" citation_global_level_id="31617.001" party2_short="CALIFORNIA" line="1" id="131529_3" alternative_keys="['u.s._540_831']" end="38" entry_type="party_key" lookup_key="taubmancalifornia#1" id1="131529" start="17" party1_short="TAUBMAN" citation_local_level_id="1" >TAUBMAN v. CALIFORNIA</CITATION>
+
+<NAME end="24" start="17" party1_of="131529_3" all_names="TAUBMAN" local_name_id="1" id="131529_4" >TAUBMAN</NAME>
+
+<NAME end="38" start="28" all_names="CALIFORNIA" party2_of="131529_3" local_name_id="2" id="131529_5" >CALIFORNIA</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._540_831" id1="131536" start="48" citation_global_level_id="8010.002" line="1" id="131529_2" citation_local_level_id="0" >02-10578</DOCKET>
+
+<DATE start="98" end="113" id="131529_6" >October 6, 2003</DATE>
+
+<NAME start="205" local_name_id="3" end="215" id="131529_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="131529_1" includes_docket_string="02-10578" includes_docket="131529_2" theme_string="540 U.S. 831" gram_type="apposition" relation_type="asymmetric" id="131529_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 831" X_vs_Y_string="TAUBMAN v. CALIFORNIA" standard_case="131529_1" X_vs_Y="131529_3" gram_type="pre_nom" relation_type="equivalence" id="131529_7" ></RELATION>
+
+<RELATION theme="131529_3" includes_docket_string="02-10578" includes_docket="131529_2" theme_string="TAUBMAN v. CALIFORNIA" gram_type="apposition" relation_type="asymmetric" id="131529_10" ></RELATION>
+
+<RELATION theme="131529_3" party1="131529_4" party1_string="TAUBMAN" theme_string="TAUBMAN v. CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="131529_8" ></RELATION>
+
+<RELATION party2="131529_5" theme="131529_3" theme_string="TAUBMAN v. CALIFORNIA" party2_string="CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="131529_9" ></RELATION>
+

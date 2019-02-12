@@ -1,0 +1,60 @@
+<DATE start="2" end="6" id="1330864_1" >2008</DATE>
+
+<CITATION party2="LUNGISILE NTSEBEZA, ET AL" party1="AM. ISUZU MOTORS, INC., ET AL." citation_global_level_id="258077.001" party2_short="NTSEBEZA" line="5" id="1330864_4" end="69" no_current_file="True" entry_type="party_key" lookup_key="motorsntsebeza#2" id1="Dummy_File_194227" start="8" party1_short="MOTORS" citation_local_level_id="0" >AM. ISUZU MOTORS, INC., ET AL. v. LUNGISILE NTSEBEZA, ET AL</CITATION>
+
+<NAME end="38" start="8" party1_of="1330864_4" all_names="AM ISUZU MOTORS INC" local_name_id="1" id="1330864_5" >AM. ISUZU MOTORS, INC., ET AL.</NAME>
+
+<ORGANIZATION start="12" end="29" id="1330864_7" >ISUZU MOTORS, INC</ORGANIZATION>
+
+<NAME end="69" start="44" all_names="LUNGISILE NTSEBEZA" party2_of="1330864_4" local_name_id="2" id="1330864_6" >LUNGISILE NTSEBEZA, ET AL</NAME>
+
+<DOCKET end="81" no_current_file="True" entry_type="docket" lookup_key="motorsntsebeza#2" id1="Dummy_File_194227" start="75" citation_global_level_id="258077.001" line="6" id="1330864_10" citation_local_level_id="0" >07-919</DOCKET>
+
+<ORGANIZATION start="82" end="112" id="1330864_11" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="114" citation_global_level_id="258077.001" end="126" id="1330864_12" citation_local_level_id="0" >May 12, 2008</DATE>
+
+<ORGANIZATION start="141" end="146" id="1330864_15" >Court</ORGANIZATION>
+
+<NAME start="166" local_name_id="3" end="171" id="1330864_16" all_names="USC" >U.S.C</NAME>
+
+<PROFESSION start="215" end="223" plural="True" id="1330864_17" >Justices</PROFESSION>
+
+<ORGANIZATION start="300" end="317" id="1330864_18" >Term of the Court</ORGANIZATION>
+
+<NAME start="353" local_name_id="3" end="358" id="1330864_19" all_names="USC" >U.S.C</NAME>
+
+<ORGANIZATION start="417" end="422" id="1330864_20" >Court</ORGANIZATION>
+
+<ORGANIZATION start="475" end="480" id="1330864_21" >court</ORGANIZATION>
+
+<ORGANIZATION start="586" end="610" id="1330864_22" >Court. The Chief Justice</ORGANIZATION>
+
+<PROFESSION start="612" document_level_name_id="4" end="619" id="1330864_23" party="KENNEDY" >Justice</PROFESSION>
+
+<NAME start="620" local_name_id="4" end="627" id="1330864_24" all_names="KENNEDY" >Kennedy</NAME>
+
+<PROFESSION start="629" document_level_name_id="4" end="636" id="1330864_25" party="KENNEDY" >Justice</PROFESSION>
+
+<NAME start="637" local_name_id="5" end="643" id="1330864_26" all_names="BREYER" >Breyer</NAME>
+
+<PROFESSION start="649" document_level_name_id="4" end="656" id="1330864_27" party="KENNEDY" >Justice</PROFESSION>
+
+<NAME start="657" local_name_id="6" end="662" id="1330864_28" all_names="ALITO" >Alito</NAME>
+
+<RELATION theme="1330864_4" party1="1330864_5" party1_string="AM. ISUZU MOTORS, INC., ET AL." theme_string="AM. ISUZU MOTORS, INC., ET AL.  v.  LUNGISILE NTSEBEZA, ET AL" gram_type="infix" relation_type="asymmetric" id="1330864_8" ></RELATION>
+
+<RELATION party2="1330864_6" theme="1330864_4" theme_string="AM. ISUZU MOTORS, INC., ET AL.  v.  LUNGISILE NTSEBEZA, ET AL" party2_string="LUNGISILE NTSEBEZA, ET AL" gram_type="infix" relation_type="asymmetric" id="1330864_9" ></RELATION>
+
+<RELATION at_date_string="May 12, 2008" theme="1330864_4" at_date="1330864_12" theme_string="AM. ISUZU MOTORS, INC., ET AL.  v.  LUNGISILE NTSEBEZA, ET AL" gram_type="multi_line" relation_type="asymmetric" id="1330864_14" ></RELATION>
+
+<RELATION theme="1330864_4" includes_docket_string="07-919" includes_docket="1330864_10" theme_string="AM. ISUZU MOTORS, INC., ET AL.  v.  LUNGISILE NTSEBEZA, ET AL" gram_type="multi_line" relation_type="asymmetric" id="1330864_13" ></RELATION>
+
+<RELATION theme="1330864_24" profession_string="Justice" theme_string="Kennedy" profession="1330864_23" gram_type="pre_nom" relation_type="asymmetric" id="1330864_29" ></RELATION>
+
+<RELATION theme="1330864_24" profession_string="Justice" theme_string="Kennedy" profession="1330864_25" gram_type="apposition" relation_type="asymmetric" id="1330864_30" ></RELATION>
+
+<RELATION theme="1330864_26" profession_string="Justice" theme_string="Breyer" profession="1330864_25" gram_type="pre_nom" relation_type="asymmetric" id="1330864_31" ></RELATION>
+
+<RELATION theme="1330864_28" profession_string="Justice" theme_string="Alito" profession="1330864_27" gram_type="pre_nom" relation_type="asymmetric" id="1330864_32" ></RELATION>
+

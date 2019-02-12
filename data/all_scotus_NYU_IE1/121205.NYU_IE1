@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['riverabank#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._536_905" id1="121203" volume="536" start="0" page_number="905" standard_reporter="U.S." citation_global_level_id="7422.002" line="1" id="121205_1" citation_local_level_id="0" >536 U.S. 905</CITATION>
+
+<CITATION party2="CHASE MANHATTAN BANK ET AL" party1="CABALLERO RIVERA ET AL." citation_global_level_id="26198.001" party2_short="BANK" line="2" id="121205_2" alternative_keys="['u.s._536_905']" end="70" entry_type="party_key" lookup_key="riverabank#1" id1="121205" start="17" party1_short="RIVERA" citation_local_level_id="1" >CABALLERO RIVERA ET AL. v. CHASE MANHATTAN BANK ET AL</CITATION>
+
+<NAME end="40" start="17" party1_of="121205_2" all_names="CABALLERO RIVERA" local_name_id="1" id="121205_3" >CABALLERO RIVERA ET AL.</NAME>
+
+<NAME end="70" start="44" all_names="CHASE MANHATTAN BANK" party2_of="121205_2" local_name_id="2" id="121205_4" >CHASE MANHATTAN BANK ET AL</NAME>
+
+<ORGANIZATION start="60" end="64" id="121205_5" >BANK</ORGANIZATION>
+
+<DOCKET end="87" entry_type="docket" lookup_key="riverabank#1" id1="121205" start="80" citation_global_level_id="26198.001" line="3" id="121205_8" citation_local_level_id="1" >01-1497</DOCKET>
+
+<DATE start="133" citation_global_level_id="26198.001" end="146" id="121205_9" citation_local_level_id="1" >June 10, 2002</DATE>
+
+<NAME start="168" local_name_id="3" end="181" id="121205_14" all_names="C A 1ST CIR" >C. A. 1st Cir</NAME>
+
+<NAME start="183" local_name_id="4" end="193" id="121205_15" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="230" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_276_85" id1="Dummy_File_113866" volume="276" start="218" page_number="85" standard_reporter="F.3D" citation_global_level_id="177716.001" line="8" id="121205_13" citation_local_level_id="2" >276 F. 3d 85</CITATION>
+
+<RELATION theme="121205_2" party1="121205_3" party1_string="CABALLERO RIVERA ET AL." theme_string="CABALLERO RIVERA ET AL. v. CHASE MANHATTAN BANK ET AL" gram_type="infix" relation_type="asymmetric" id="121205_6" ></RELATION>
+
+<RELATION party2="121205_4" theme="121205_2" theme_string="CABALLERO RIVERA ET AL. v. CHASE MANHATTAN BANK ET AL" party2_string="CHASE MANHATTAN BANK ET AL" gram_type="infix" relation_type="asymmetric" id="121205_7" ></RELATION>
+
+<RELATION standard_case_string="536 U.S. 905" X_vs_Y_string="CABALLERO RIVERA ET AL. v. CHASE MANHATTAN BANK ET AL" standard_case="121205_1" X_vs_Y="121205_2" gram_type="multi_line" relation_type="equivalence" id="121205_10" ></RELATION>
+
+<RELATION at_date_string="June 10, 2002" theme="121205_2" at_date="121205_9" theme_string="CABALLERO RIVERA ET AL. v. CHASE MANHATTAN BANK ET AL" gram_type="multi_line" relation_type="asymmetric" id="121205_12" ></RELATION>
+
+<RELATION theme="121205_2" includes_docket_string="01-1497" includes_docket="121205_8" theme_string="CABALLERO RIVERA ET AL. v. CHASE MANHATTAN BANK ET AL" gram_type="multi_line" relation_type="asymmetric" id="121205_11" ></RELATION>
+

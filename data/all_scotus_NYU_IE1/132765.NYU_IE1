@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['gossagewashington#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_923" id1="132771" volume="540" start="0" page_number="923" standard_reporter="U.S." citation_global_level_id="7702.002" line="1" id="132765_1" citation_local_level_id="0" >540 U.S. 923</CITATION>
+
+<CITATION party2="WASHINGTON" party1="GOSSAGE" citation_global_level_id="46672.001" party2_short="WASHINGTON" line="1" id="132765_3" alternative_keys="['u.s._540_923']" end="38" entry_type="party_key" lookup_key="gossagewashington#1" id1="132765" start="17" party1_short="GOSSAGE" citation_local_level_id="1" >GOSSAGE v. WASHINGTON</CITATION>
+
+<NAME end="24" start="17" party1_of="132765_3" all_names="GOSSAGE" local_name_id="1" id="132765_4" >GOSSAGE</NAME>
+
+<NAME end="38" start="28" all_names="WASHINGTON" party2_of="132765_3" local_name_id="2" id="132765_5" >WASHINGTON</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._540_923" id1="132771" start="48" citation_global_level_id="7702.002" line="1" id="132765_2" citation_local_level_id="0" >03-5699</DOCKET>
+
+<DATE start="97" end="112" id="132765_6" >October 6, 2003</DATE>
+
+<NAME start="190" local_name_id="3" end="200" id="132765_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="243" reporter="Wash. App." entry_type="standard_key" no_current_file="True" lookup_key="wash.app._112_412" id1="Dummy_File_201858" volume="112" start="225" page_number="412" standard_reporter="WASH.APP." citation_global_level_id="265708.001" line="3" id="132765_12" citation_local_level_id="2" >112 Wash. App. 412</CITATION>
+
+<CITATION end="257" reporter="P. 3d" entry_type="standard_key" no_current_file="True" lookup_key="p.3d_49_927" id1="Dummy_File_201859" volume="49" start="245" page_number="927" standard_reporter="P.3D" citation_global_level_id="265709.001" line="3" id="132765_13" citation_local_level_id="3" >49 P. 3d 927</CITATION>
+
+<RELATION theme="132765_1" includes_docket_string="03-5699" includes_docket="132765_2" theme_string="540 U.S. 923" gram_type="apposition" relation_type="asymmetric" id="132765_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 923" X_vs_Y_string="GOSSAGE v. WASHINGTON" standard_case="132765_1" X_vs_Y="132765_3" gram_type="pre_nom" relation_type="equivalence" id="132765_7" ></RELATION>
+
+<RELATION theme="132765_3" includes_docket_string="03-5699" includes_docket="132765_2" theme_string="GOSSAGE v. WASHINGTON" gram_type="apposition" relation_type="asymmetric" id="132765_10" ></RELATION>
+
+<RELATION theme="132765_3" party1="132765_4" party1_string="GOSSAGE" theme_string="GOSSAGE v. WASHINGTON" gram_type="infix" relation_type="asymmetric" id="132765_8" ></RELATION>
+
+<RELATION party2="132765_5" theme="132765_3" theme_string="GOSSAGE v. WASHINGTON" party2_string="WASHINGTON" gram_type="infix" relation_type="asymmetric" id="132765_9" ></RELATION>
+

@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['mabrywarden#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_862" id1="131939" volume="540" start="0" page_number="862" standard_reporter="U.S." citation_global_level_id="642.002" line="1" id="131944_1" citation_local_level_id="0" >540 U.S. 862</CITATION>
+
+<CITATION party2="SMITH, WARDEN" party1="MABRY" citation_global_level_id="32242.001" party2_short="WARDEN" line="1" id="131944_3" alternative_keys="['u.s._540_862']" end="39" entry_type="party_key" lookup_key="mabrywarden#1" id1="131944" start="17" party1_short="MABRY" citation_local_level_id="1" >MABRY v. SMITH, WARDEN</CITATION>
+
+<NAME end="22" start="17" party1_of="131944_3" all_names="MABRY" local_name_id="1" id="131944_4" >MABRY</NAME>
+
+<NAME end="39" start="26" all_names="SMITH WARDEN" party2_of="131944_3" local_name_id="2" id="131944_5" >SMITH, WARDEN</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._540_862" id1="131939" start="49" citation_global_level_id="642.002" line="1" id="131944_2" citation_local_level_id="0" >02-11219</DOCKET>
+
+<DATE start="99" end="114" id="131944_6" >October 6, 2003</DATE>
+
+<NAME start="192" local_name_id="3" end="202" id="131944_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="131944_1" includes_docket_string="02-11219" includes_docket="131944_2" theme_string="540 U.S. 862" gram_type="apposition" relation_type="asymmetric" id="131944_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 862" X_vs_Y_string="MABRY v. SMITH, WARDEN" standard_case="131944_1" X_vs_Y="131944_3" gram_type="pre_nom" relation_type="equivalence" id="131944_7" ></RELATION>
+
+<RELATION theme="131944_3" includes_docket_string="02-11219" includes_docket="131944_2" theme_string="MABRY v. SMITH, WARDEN" gram_type="apposition" relation_type="asymmetric" id="131944_10" ></RELATION>
+
+<RELATION theme="131944_3" party1="131944_4" party1_string="MABRY" theme_string="MABRY v. SMITH, WARDEN" gram_type="infix" relation_type="asymmetric" id="131944_8" ></RELATION>
+
+<RELATION party2="131944_5" theme="131944_3" theme_string="MABRY v. SMITH, WARDEN" party2_string="SMITH, WARDEN" gram_type="infix" relation_type="asymmetric" id="131944_9" ></RELATION>
+

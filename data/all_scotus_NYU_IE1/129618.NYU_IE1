@@ -1,0 +1,34 @@
+<CITATION alternative_keys="['thomasonmonsanto#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1033" id1="129615" volume="538" start="0" page_number="1033" standard_reporter="U.S." citation_global_level_id="7358.002" line="1" id="129618_1" citation_local_level_id="0" >538 U.S. 1033</CITATION>
+
+<CITATION party2="MONSANTO CO. ET AL" party1="THOMASON ET AL." citation_global_level_id="8152.001" party2_short="MONSANTO" line="1" id="129618_3" alternative_keys="['u.s._538_1033']" end="55" entry_type="party_key" lookup_key="thomasonmonsanto#1" id1="129618" start="18" party1_short="THOMASON" citation_local_level_id="1" >THOMASON ET AL. v. MONSANTO CO. ET AL</CITATION>
+
+<NAME end="33" start="18" party1_of="129618_3" all_names="THOMASON" local_name_id="1" id="129618_4" >THOMASON ET AL.</NAME>
+
+<NAME start="18" local_name_id="1" end="32" id="129618_7" all_names="THOMASON" >THOMASON ET AL</NAME>
+
+<NAME end="55" start="37" all_names="MONSANTO CO" party2_of="129618_3" local_name_id="2" id="129618_5" >MONSANTO CO. ET AL</NAME>
+
+<ORGANIZATION start="46" end="48" id="129618_8" >CO</ORGANIZATION>
+
+<DOCKET end="72" entry_type="docket" lookup_key="u.s._538_1033" id1="129615" start="65" citation_global_level_id="7358.002" line="1" id="129618_2" citation_local_level_id="0" >02-1336</DOCKET>
+
+<ORGANIZATION start="78" end="108" id="129618_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="114" end="126" id="129618_6" >May 19, 2003</DATE>
+
+<ORGANIZATION start="148" end="220" id="129618_10" >CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FEDERAL CIRCUIT</ORGANIZATION>
+
+<NAME start="247" local_name_id="3" end="256" id="129618_16" all_names="C A FED" >C. A. Fed</NAME>
+
+<NAME start="258" local_name_id="4" end="261" id="129618_17" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="129618_1" includes_docket_string="02-1336" includes_docket="129618_2" theme_string="538 U.S. 1033" gram_type="apposition" relation_type="asymmetric" id="129618_15" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1033" X_vs_Y_string="THOMASON ET AL. v. MONSANTO CO. ET AL" standard_case="129618_1" X_vs_Y="129618_3" gram_type="pre_nom" relation_type="equivalence" id="129618_11" ></RELATION>
+
+<RELATION theme="129618_3" includes_docket_string="02-1336" includes_docket="129618_2" theme_string="THOMASON ET AL. v. MONSANTO CO. ET AL" gram_type="apposition" relation_type="asymmetric" id="129618_14" ></RELATION>
+
+<RELATION theme="129618_3" party1="129618_4" party1_string="THOMASON ET AL." theme_string="THOMASON ET AL. v. MONSANTO CO. ET AL" gram_type="infix" relation_type="asymmetric" id="129618_12" ></RELATION>
+
+<RELATION party2="129618_5" theme="129618_3" theme_string="THOMASON ET AL. v. MONSANTO CO. ET AL" party2_string="MONSANTO CO. ET AL" gram_type="infix" relation_type="asymmetric" id="129618_13" ></RELATION>
+

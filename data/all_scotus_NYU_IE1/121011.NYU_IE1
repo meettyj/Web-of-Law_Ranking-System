@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['etgarcy#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1112" id1="121011" volume="535" start="0" page_number="1112" standard_reporter="U.S." citation_global_level_id="3870.002" line="1" id="121011_1" citation_local_level_id="0" >535 U.S. 1112</CITATION>
+
+<CITATION party2="GARCY, SUPERINTENDENT, LIVERMORE VALLEY JOINT SCHOOL DISTRICT, ET AL" party1="FOSTER ET AL." citation_global_level_id="3870.004" party2_short="GARCY" line="2" id="121011_3" alternative_keys="['u.s._535_1112']" end="103" entry_type="party_key" lookup_key="etgarcy#1" id1="121011" start="18" party1_short="ET" citation_local_level_id="1" >FOSTER ET AL. v. GARCY, SUPERINTENDENT, LIVERMORE VALLEY JOINT SCHOOL DISTRICT, ET AL</CITATION>
+
+<NAME end="31" start="18" party1_of="121011_3" all_names="FOSTER" local_name_id="1" id="121011_4" >FOSTER ET AL.</NAME>
+
+<NAME end="103" start="35" all_names="GARCY SUPERINTENDENT LIVERMORE VALLEY JOINT SCHOOL DISTRICT	LIVERMORE VALLEY JOINT SCHOOL DISTRICT" party2_of="121011_3" local_name_id="2" id="121011_5" >GARCY, SUPERINTENDENT, LIVERMORE VALLEY JOINT SCHOOL DISTRICT, ET AL</NAME>
+
+<PROFESSION start="42" end="56" id="121011_6" >SUPERINTENDENT</PROFESSION>
+
+<NAME start="58" local_name_id="2" end="96" id="121011_7" all_names="GARCY SUPERINTENDENT LIVERMORE VALLEY JOINT SCHOOL DISTRICT	LIVERMORE VALLEY JOINT SCHOOL DISTRICT" >LIVERMORE VALLEY JOINT SCHOOL DISTRICT</NAME>
+
+<ORGANIZATION start="81" end="87" id="121011_8" >SCHOOL</ORGANIZATION>
+
+<DOCKET alternative_keys="['u.s._535_1112']" end="120" entry_type="docket" lookup_key="etgarcy#1" id1="121011" start="113" citation_global_level_id="3870.004" line="2" id="121011_2" citation_local_level_id="1" >01-1307</DOCKET>
+
+<DATE start="166" citation_global_level_id="3870.004" end="178" id="121011_12" citation_local_level_id="1" >June 3, 2002</DATE>
+
+<NAME start="210" local_name_id="3" end="213" id="121011_16" all_names="CIR" >Cir</NAME>
+
+<CITATION end="263" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_268_689" id1="Dummy_File_113749" volume="268" start="250" page_number="689" standard_reporter="F.3D" citation_global_level_id="177599.001" line="7" id="121011_15" citation_local_level_id="2" >268 F. 3d 689</CITATION>
+
+<RELATION theme="121011_3" includes_docket_string="01-1307" includes_docket="121011_2" theme_string="FOSTER ET AL. v. GARCY, SUPERINTENDENT, LIVERMORE VALLEY JOINT SCHOOL DISTRICT, ET AL" gram_type="apposition" relation_type="asymmetric" id="121011_11" ></RELATION>
+
+<RELATION party2="121011_5" theme="121011_3" theme_string="FOSTER ET AL. v. GARCY, SUPERINTENDENT, LIVERMORE VALLEY JOINT SCHOOL DISTRICT, ET AL" party2_string="GARCY, SUPERINTENDENT, LIVERMORE VALLEY JOINT SCHOOL DISTRICT, ET AL" gram_type="infix" relation_type="asymmetric" id="121011_10" ></RELATION>
+
+<RELATION theme="121011_3" party1="121011_4" party1_string="FOSTER ET AL." theme_string="FOSTER ET AL. v. GARCY, SUPERINTENDENT, LIVERMORE VALLEY JOINT SCHOOL DISTRICT, ET AL" gram_type="infix" relation_type="asymmetric" id="121011_9" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1112" X_vs_Y_string="FOSTER ET AL. v. GARCY, SUPERINTENDENT, LIVERMORE VALLEY JOINT SCHOOL DISTRICT, ET AL" standard_case="121011_1" X_vs_Y="121011_3" gram_type="multi_line" relation_type="equivalence" id="121011_13" ></RELATION>
+
+<RELATION at_date_string="June 3, 2002" theme="121011_3" at_date="121011_12" theme_string="FOSTER ET AL. v. GARCY, SUPERINTENDENT, LIVERMORE VALLEY JOINT SCHOOL DISTRICT, ET AL" gram_type="multi_line" relation_type="asymmetric" id="121011_14" ></RELATION>
+

@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['nicholsoncarolina#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_845" id1="122810" volume="537" start="0" page_number="845" standard_reporter="U.S." citation_global_level_id="5095.002" line="1" id="122812_1" citation_local_level_id="0" >537 U.S. 845</CITATION>
+
+<CITATION party2="NORTH CAROLINA" party1="NICHOLSON" citation_global_level_id="50699.001" party2_short="CAROLINA" line="1" id="122812_3" alternative_keys="['u.s._537_845']" end="44" entry_type="party_key" lookup_key="nicholsoncarolina#1" id1="122812" start="17" party1_short="NICHOLSON" citation_local_level_id="1" >NICHOLSON v. NORTH CAROLINA</CITATION>
+
+<NAME end="26" start="17" party1_of="122812_3" all_names="NICHOLSON" local_name_id="1" id="122812_4" >NICHOLSON</NAME>
+
+<NAME end="44" start="30" all_names="NORTH CAROLINA" party2_of="122812_3" local_name_id="2" id="122812_5" >NORTH CAROLINA</NAME>
+
+<DOCKET end="62" entry_type="docket" lookup_key="u.s._537_845" id1="122810" start="54" citation_global_level_id="5095.002" line="1" id="122812_2" citation_local_level_id="0" >01-10444</DOCKET>
+
+<DATE start="104" end="119" id="122812_6" >October 7, 2002</DATE>
+
+<NAME start="217" local_name_id="3" end="220" id="122812_14" all_names="SUP" >Sup</NAME>
+
+<CITATION end="278" reporter="N. C." entry_type="standard_key" no_current_file="True" lookup_key="n.c._355_1" id1="Dummy_File_208208" volume="355" start="267" page_number="1" standard_reporter="N.C." citation_global_level_id="272058.001" line="3" id="122812_12" citation_local_level_id="2" >355 N. C. 1</CITATION>
+
+<CITATION end="296" reporter="S. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="s.e.2d_558_109" id1="Dummy_File_208209" volume="558" start="280" page_number="109" standard_reporter="S.E.2D" citation_global_level_id="272059.001" line="3" id="122812_13" citation_local_level_id="3" >558 S. E. 2d 109</CITATION>
+
+<RELATION theme="122812_1" includes_docket_string="01-10444" includes_docket="122812_2" theme_string="537 U.S. 845" gram_type="apposition" relation_type="asymmetric" id="122812_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 845" X_vs_Y_string="NICHOLSON v. NORTH CAROLINA" standard_case="122812_1" X_vs_Y="122812_3" gram_type="pre_nom" relation_type="equivalence" id="122812_7" ></RELATION>
+
+<RELATION theme="122812_3" includes_docket_string="01-10444" includes_docket="122812_2" theme_string="NICHOLSON v. NORTH CAROLINA" gram_type="apposition" relation_type="asymmetric" id="122812_10" ></RELATION>
+
+<RELATION theme="122812_3" party1="122812_4" party1_string="NICHOLSON" theme_string="NICHOLSON v. NORTH CAROLINA" gram_type="infix" relation_type="asymmetric" id="122812_8" ></RELATION>
+
+<RELATION party2="122812_5" theme="122812_3" theme_string="NICHOLSON v. NORTH CAROLINA" party2_string="NORTH CAROLINA" gram_type="infix" relation_type="asymmetric" id="122812_9" ></RELATION>
+

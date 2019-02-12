@@ -1,0 +1,40 @@
+<CITATION alternative_keys="['wardenbelmontes#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_945" id1="143425" volume="544" start="0" page_number="945" standard_reporter="U.S." citation_global_level_id="381.002" line="1" id="143416_1" citation_local_level_id="0" >544 U.S. 945</CITATION>
+
+<CITATION party2="BELMONTES" party1="BROWN, WARDEN" citation_global_level_id="14955.001" party2_short="BELMONTES" line="2" id="143416_2" alternative_keys="['u.s._544_945']" end="43" entry_type="party_key" lookup_key="wardenbelmontes#1" id1="143416" start="17" party1_short="WARDEN" citation_local_level_id="1" >BROWN, WARDEN v. BELMONTES</CITATION>
+
+<NAME end="30" start="17" party1_of="143416_2" all_names="BROWN WARDEN" local_name_id="1" id="143416_3" >BROWN, WARDEN</NAME>
+
+<PROFESSION start="24" end="30" id="143416_5" >WARDEN</PROFESSION>
+
+<NAME end="43" start="34" all_names="BELMONTES" party2_of="143416_2" local_name_id="2" id="143416_4" >BELMONTES</NAME>
+
+<DOCKET end="60" entry_type="docket" lookup_key="wardenbelmontes#1" id1="143416" start="53" citation_global_level_id="14955.001" line="3" id="143416_8" citation_local_level_id="1" >03-1503</DOCKET>
+
+<ORGANIZATION start="66" end="96" id="143416_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="102" citation_global_level_id="14955.001" end="116" id="143416_10" citation_local_level_id="1" >March 28, 2005</DATE>
+
+<NAME start="148" local_name_id="3" end="151" id="143416_18" all_names="CIR" >Cir</NAME>
+
+<CITATION party2="Payton" party1="Brown" citation_global_level_id="12478.001" party2_short="Payton" line="8" id="143416_15" end="331" entry_type="party_key" lookup_key="brownpayton#1" id1="142880" start="316" party1_short="Brown" citation_local_level_id="2" >Brown v. Payton</CITATION>
+
+<NAME end="321" start="316" party1_of="143416_15" all_names="BROWN" local_name_id="4" id="143416_16" >Brown</NAME>
+
+<NAME end="331" start="325" all_names="PAYTON" party2_of="143416_15" local_name_id="5" id="143416_17" >Payton</NAME>
+
+<CITATION alternative_keys="['belmonteswoodford#1']" end="376" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_350_861" id1="Dummy_File_68572" volume="350" start="363" page_number="861" standard_reporter="F.3D" citation_global_level_id="132422.003" line="8" id="143416_14" citation_local_level_id="3" >350 F. 3d 861</CITATION>
+
+<RELATION theme="143416_2" party1="143416_3" party1_string="BROWN, WARDEN" theme_string="BROWN, WARDEN v. BELMONTES" gram_type="infix" relation_type="asymmetric" id="143416_6" ></RELATION>
+
+<RELATION party2="143416_4" theme="143416_2" theme_string="BROWN, WARDEN v. BELMONTES" party2_string="BELMONTES" gram_type="infix" relation_type="asymmetric" id="143416_7" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 945" X_vs_Y_string="BROWN, WARDEN v. BELMONTES" standard_case="143416_1" X_vs_Y="143416_2" gram_type="multi_line" relation_type="equivalence" id="143416_11" ></RELATION>
+
+<RELATION at_date_string="March 28, 2005" theme="143416_2" at_date="143416_10" theme_string="BROWN, WARDEN v. BELMONTES" gram_type="multi_line" relation_type="asymmetric" id="143416_13" ></RELATION>
+
+<RELATION theme="143416_2" includes_docket_string="03-1503" includes_docket="143416_8" theme_string="BROWN, WARDEN v. BELMONTES" gram_type="multi_line" relation_type="asymmetric" id="143416_12" ></RELATION>
+
+<RELATION theme="143416_15" party1="143416_16" party1_string="Brown" theme_string="Brown v. Payton" gram_type="infix" relation_type="asymmetric" id="143416_19" ></RELATION>
+
+<RELATION party2="143416_17" theme="143416_15" theme_string="Brown v. Payton" party2_string="Payton" gram_type="infix" relation_type="asymmetric" id="143416_20" ></RELATION>
+

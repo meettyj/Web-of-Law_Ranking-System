@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['chapmanlemaster#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_980" id1="128916" volume="538" start="0" page_number="980" standard_reporter="U.S." citation_global_level_id="1802.002" line="1" id="128922_1" citation_local_level_id="0" >538 U.S. 980</CITATION>
+
+<CITATION party2="LEMASTER, WARDEN, ET AL" party1="CHAPMAN" citation_global_level_id="1802.005" party2_short="LEMASTER" line="1" id="128922_3" alternative_keys="['u.s._538_980']" end="51" entry_type="party_key" lookup_key="chapmanlemaster#1" id1="128916" start="17" party1_short="CHAPMAN" citation_local_level_id="1" >CHAPMAN v. LEMASTER, WARDEN, ET AL</CITATION>
+
+<NAME end="24" start="17" party1_of="128922_3" all_names="CHAPMAN" local_name_id="1" id="128922_4" >CHAPMAN</NAME>
+
+<NAME end="51" start="28" all_names="LEMASTER WARDEN" party2_of="128922_3" local_name_id="2" id="128922_5" >LEMASTER, WARDEN, ET AL</NAME>
+
+<DOCKET end="68" entry_type="docket" lookup_key="u.s._538_980" id1="128916" start="61" citation_global_level_id="1802.002" line="1" id="128922_2" citation_local_level_id="0" >02-7859</DOCKET>
+
+<DATE start="110" end="124" id="128922_6" >April 21, 2003</DATE>
+
+<NAME start="254" local_name_id="3" end="257" id="128922_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="308" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_302_1189" id1="Dummy_File_56184" volume="302" start="294" page_number="1189" standard_reporter="F.3D" citation_global_level_id="120034.001" line="3" id="128922_12" citation_local_level_id="2" >302 F. 3d 1189</CITATION>
+
+<RELATION theme="128922_1" includes_docket_string="02-7859" includes_docket="128922_2" theme_string="538 U.S. 980" gram_type="apposition" relation_type="asymmetric" id="128922_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 980" X_vs_Y_string="CHAPMAN v. LEMASTER, WARDEN, ET AL" standard_case="128922_1" X_vs_Y="128922_3" gram_type="pre_nom" relation_type="equivalence" id="128922_7" ></RELATION>
+
+<RELATION theme="128922_3" includes_docket_string="02-7859" includes_docket="128922_2" theme_string="CHAPMAN v. LEMASTER, WARDEN, ET AL" gram_type="apposition" relation_type="asymmetric" id="128922_10" ></RELATION>
+
+<RELATION theme="128922_3" party1="128922_4" party1_string="CHAPMAN" theme_string="CHAPMAN v. LEMASTER, WARDEN, ET AL" gram_type="infix" relation_type="asymmetric" id="128922_8" ></RELATION>
+
+<RELATION party2="128922_5" theme="128922_3" theme_string="CHAPMAN v. LEMASTER, WARDEN, ET AL" party2_string="LEMASTER, WARDEN, ET AL" gram_type="infix" relation_type="asymmetric" id="128922_9" ></RELATION>
+

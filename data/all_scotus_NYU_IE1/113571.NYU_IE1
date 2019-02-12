@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['bustillostates#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_854" id1="113574" volume="510" start="0" page_number="854" standard_reporter="U.S." citation_global_level_id="6155.002" line="1" id="113571_1" citation_local_level_id="0" >510 U.S. 854</CITATION>
+
+<CITATION party2="United States" party1="Bustillo" citation_global_level_id="15979.001" party2_short="States" line="1" id="113571_3" alternative_keys="['u.s._510_854']" end="42" entry_type="party_key" lookup_key="bustillostates#1" id1="113571" start="17" party1_short="Bustillo" citation_local_level_id="1" >Bustillo v. United States</CITATION>
+
+<NAME end="25" start="17" party1_of="113571_3" all_names="BUSTILLO" local_name_id="1" id="113571_4" >Bustillo</NAME>
+
+<NAME end="42" start="29" all_names="UNITED STATES" party2_of="113571_3" local_name_id="2" id="113571_5" >United States</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="u.s._510_854" id1="113574" start="52" citation_global_level_id="6155.002" line="1" id="113571_2" citation_local_level_id="0" >92-9151</DOCKET>
+
+<DATE start="101" end="116" id="113571_6" >October 4, 1993</DATE>
+
+<NAME start="194" local_name_id="3" end="204" id="113571_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="243" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_990_1261" id1="Dummy_File_27197" volume="990" start="229" page_number="1261" standard_reporter="F.2D" citation_global_level_id="91047.001" line="3" id="113571_12" citation_local_level_id="2" >990 F. 2d 1261</CITATION>
+
+<RELATION theme="113571_1" includes_docket_string="92-9151" includes_docket="113571_2" theme_string="510 U.S. 854" gram_type="apposition" relation_type="asymmetric" id="113571_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 854" X_vs_Y_string="Bustillo v. United States" standard_case="113571_1" X_vs_Y="113571_3" gram_type="pre_nom" relation_type="equivalence" id="113571_7" ></RELATION>
+
+<RELATION theme="113571_3" includes_docket_string="92-9151" includes_docket="113571_2" theme_string="Bustillo v. United States" gram_type="apposition" relation_type="asymmetric" id="113571_10" ></RELATION>
+
+<RELATION theme="113571_3" party1="113571_4" party1_string="Bustillo" theme_string="Bustillo v. United States" gram_type="infix" relation_type="asymmetric" id="113571_8" ></RELATION>
+
+<RELATION party2="113571_5" theme="113571_3" theme_string="Bustillo v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="113571_9" ></RELATION>
+

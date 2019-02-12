@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['portillostates#5']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1057" id1="141020" volume="543" start="0" page_number="1057" standard_reporter="U.S." citation_global_level_id="3860.002" line="1" id="141023_1" citation_local_level_id="0" >543 U.S. 1057</CITATION>
+
+<CITATION party2="UNITED STATES" party1="PORTILLO" citation_global_level_id="60995.001" party2_short="STATES" line="2" id="141023_2" alternative_keys="['u.s._543_1057']" end="43" entry_type="party_key" lookup_key="portillostates#5" id1="120697" start="18" party1_short="PORTILLO" citation_local_level_id="1" >PORTILLO v. UNITED STATES</CITATION>
+
+<NAME end="26" start="18" party1_of="141023_2" all_names="PORTILLO" local_name_id="1" id="141023_3" >PORTILLO</NAME>
+
+<NAME end="43" start="30" all_names="UNITED STATES" party2_of="141023_2" local_name_id="2" id="141023_4" >UNITED STATES</NAME>
+
+<DOCKET end="60" entry_type="docket" lookup_key="portillostates#5" id1="120697" start="53" citation_global_level_id="60995.001" line="3" id="141023_7" citation_local_level_id="1" >04-6046</DOCKET>
+
+<ORGANIZATION start="66" end="96" id="141023_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="102" citation_global_level_id="60995.001" end="118" id="141023_9" citation_local_level_id="1" >January 10, 2005</DATE>
+
+<NAME start="151" local_name_id="3" end="154" id="141023_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="141023_2" party1="141023_3" party1_string="PORTILLO" theme_string="PORTILLO v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="141023_5" ></RELATION>
+
+<RELATION party2="141023_4" theme="141023_2" theme_string="PORTILLO v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="141023_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1057" X_vs_Y_string="PORTILLO v. UNITED STATES" standard_case="141023_1" X_vs_Y="141023_2" gram_type="multi_line" relation_type="equivalence" id="141023_10" ></RELATION>
+
+<RELATION at_date_string="January 10, 2005" theme="141023_2" at_date="141023_9" theme_string="PORTILLO v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="141023_12" ></RELATION>
+
+<RELATION theme="141023_2" includes_docket_string="04-6046" includes_docket="141023_7" theme_string="PORTILLO v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="141023_11" ></RELATION>
+

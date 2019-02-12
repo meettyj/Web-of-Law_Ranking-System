@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['oilrovell#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_872" id1="138680" volume="543" start="0" page_number="872" standard_reporter="U.S." citation_global_level_id="7111.002" line="1" id="138678_1" citation_local_level_id="0" >543 U.S. 872</CITATION>
+
+<CITATION party2="ROVELL" party1="ADCO OIL CO." citation_global_level_id="15048.001" party2_short="ROVELL" line="2" id="138678_2" alternative_keys="['u.s._543_872']" end="39" entry_type="party_key" lookup_key="oilrovell#1" id1="138678" start="17" party1_short="OIL" citation_local_level_id="1" >ADCO OIL CO. v. ROVELL</CITATION>
+
+<NAME end="29" start="17" party1_of="138678_2" all_names="ADCO OIL CO" local_name_id="1" id="138678_3" >ADCO OIL CO.</NAME>
+
+<ORGANIZATION start="17" end="28" id="138678_5" >ADCO OIL CO</ORGANIZATION>
+
+<NAME end="39" start="33" all_names="ROVELL" party2_of="138678_2" local_name_id="2" id="138678_4" >ROVELL</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="oilrovell#1" id1="138678" start="49" citation_global_level_id="15048.001" line="3" id="138678_8" citation_local_level_id="1" >04-80</DOCKET>
+
+<ORGANIZATION start="60" end="90" id="138678_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="96" citation_global_level_id="15048.001" end="111" id="138678_10" citation_local_level_id="1" >October 4, 2004</DATE>
+
+<NAME start="143" local_name_id="3" end="146" id="138678_15" all_names="CIR" >Cir</NAME>
+
+<CITATION end="196" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_357_664" id1="Dummy_File_215148" volume="357" start="183" page_number="664" standard_reporter="F.3D" citation_global_level_id="278998.001" line="8" id="138678_14" citation_local_level_id="2" >357 F. 3d 664</CITATION>
+
+<RELATION theme="138678_2" party1="138678_3" party1_string="ADCO OIL CO." theme_string="ADCO OIL CO. v. ROVELL" gram_type="infix" relation_type="asymmetric" id="138678_6" ></RELATION>
+
+<RELATION party2="138678_4" theme="138678_2" theme_string="ADCO OIL CO. v. ROVELL" party2_string="ROVELL" gram_type="infix" relation_type="asymmetric" id="138678_7" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 872" X_vs_Y_string="ADCO OIL CO. v. ROVELL" standard_case="138678_1" X_vs_Y="138678_2" gram_type="multi_line" relation_type="equivalence" id="138678_11" ></RELATION>
+
+<RELATION at_date_string="October 4, 2004" theme="138678_2" at_date="138678_10" theme_string="ADCO OIL CO. v. ROVELL" gram_type="multi_line" relation_type="asymmetric" id="138678_13" ></RELATION>
+
+<RELATION theme="138678_2" includes_docket_string="04-80" includes_docket="138678_8" theme_string="ADCO OIL CO. v. ROVELL" gram_type="multi_line" relation_type="asymmetric" id="138678_12" ></RELATION>
+

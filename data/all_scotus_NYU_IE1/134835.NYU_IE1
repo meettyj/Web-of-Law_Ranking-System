@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['williamsjersey#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_907" id1="134838" volume="541" start="0" page_number="907" standard_reporter="U.S." citation_global_level_id="1637.002" line="1" id="134835_1" citation_local_level_id="0" >541 U.S. 907</CITATION>
+
+<CITATION party2="NEW JERSEY" party1="WILLIAMS" citation_global_level_id="22036.001" party2_short="JERSEY" line="2" id="134835_2" alternative_keys="['u.s._541_907']" end="39" entry_type="party_key" lookup_key="williamsjersey#1" id1="134835" start="17" party1_short="WILLIAMS" citation_local_level_id="1" >WILLIAMS v. NEW JERSEY</CITATION>
+
+<NAME end="25" start="17" party1_of="134835_2" all_names="WILLIAMS" local_name_id="1" id="134835_3" >WILLIAMS</NAME>
+
+<NAME end="39" start="29" all_names="NEW JERSEY" party2_of="134835_2" local_name_id="2" id="134835_4" >NEW JERSEY</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="williamsjersey#1" id1="134835" start="49" citation_global_level_id="22036.001" line="3" id="134835_7" citation_local_level_id="1" >03-8205</DOCKET>
+
+<ORGANIZATION start="62" end="92" id="134835_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="98" citation_global_level_id="22036.001" end="111" id="134835_9" citation_local_level_id="1" >March 8, 2004</DATE>
+
+<NAME start="133" local_name_id="3" end="138" id="134835_13" all_names="SUPER" >Super</NAME>
+
+<RELATION theme="134835_2" party1="134835_3" party1_string="WILLIAMS" theme_string="WILLIAMS v. NEW JERSEY" gram_type="infix" relation_type="asymmetric" id="134835_5" ></RELATION>
+
+<RELATION party2="134835_4" theme="134835_2" theme_string="WILLIAMS v. NEW JERSEY" party2_string="NEW JERSEY" gram_type="infix" relation_type="asymmetric" id="134835_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 907" X_vs_Y_string="WILLIAMS v. NEW JERSEY" standard_case="134835_1" X_vs_Y="134835_2" gram_type="multi_line" relation_type="equivalence" id="134835_10" ></RELATION>
+
+<RELATION at_date_string="March 8, 2004" theme="134835_2" at_date="134835_9" theme_string="WILLIAMS v. NEW JERSEY" gram_type="multi_line" relation_type="asymmetric" id="134835_12" ></RELATION>
+
+<RELATION theme="134835_2" includes_docket_string="03-8205" includes_docket="134835_7" theme_string="WILLIAMS v. NEW JERSEY" gram_type="multi_line" relation_type="asymmetric" id="134835_11" ></RELATION>
+

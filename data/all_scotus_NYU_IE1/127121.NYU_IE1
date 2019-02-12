@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['asteraster#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1189" id1="127127" volume="537" start="0" page_number="1189" standard_reporter="U.S." citation_global_level_id="1487.002" line="1" id="127121_1" citation_local_level_id="0" >537 U.S. 1189</CITATION>
+
+<CITATION party2="ASTER" party1="ASTER" citation_global_level_id="22633.001" party2_short="ASTER" line="1" id="127121_3" alternative_keys="['u.s._537_1189']" end="32" entry_type="party_key" lookup_key="asteraster#1" id1="127121" start="18" party1_short="ASTER" citation_local_level_id="1" >ASTER v. ASTER</CITATION>
+
+<NAME end="23" start="18" party1_of="127121_3" all_names="ASTER" local_name_id="1" id="127121_4" >ASTER</NAME>
+
+<NAME end="32" start="27" all_names="ASTER" party2_of="127121_3" local_name_id="1" id="127121_5" >ASTER</NAME>
+
+<DOCKET end="48" entry_type="docket" lookup_key="u.s._537_1189" id1="127127" start="42" citation_global_level_id="1487.002" line="1" id="127121_2" citation_local_level_id="0" >02-823</DOCKET>
+
+<DATE start="90" end="107" id="127121_6" >February 24, 2003</DATE>
+
+<NAME start="237" local_name_id="2" end="239" id="127121_12" all_names="CT" >Ct</NAME>
+
+<RELATION theme="127121_1" includes_docket_string="02-823" includes_docket="127121_2" theme_string="537 U.S. 1189" gram_type="apposition" relation_type="asymmetric" id="127121_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1189" X_vs_Y_string="ASTER v. ASTER" standard_case="127121_1" X_vs_Y="127121_3" gram_type="pre_nom" relation_type="equivalence" id="127121_7" ></RELATION>
+
+<RELATION theme="127121_3" includes_docket_string="02-823" includes_docket="127121_2" theme_string="ASTER v. ASTER" gram_type="apposition" relation_type="asymmetric" id="127121_10" ></RELATION>
+
+<RELATION theme="127121_3" party1="127121_4" party1_string="ASTER" theme_string="ASTER v. ASTER" gram_type="infix" relation_type="asymmetric" id="127121_8" ></RELATION>
+
+<RELATION party2="127121_5" theme="127121_3" theme_string="ASTER v. ASTER" party2_string="ASTER" gram_type="infix" relation_type="asymmetric" id="127121_9" ></RELATION>
+

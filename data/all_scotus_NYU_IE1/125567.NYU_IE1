@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['beckerstates#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1061" id1="125554" volume="537" start="0" page_number="1061" standard_reporter="U.S." citation_global_level_id="1266.002" line="1" id="125567_1" citation_local_level_id="0" >537 U.S. 1061</CITATION>
+
+<CITATION party2="UNITED STATES" party1="BECKER" citation_global_level_id="43495.001" party2_short="STATES" line="1" id="125567_3" alternative_keys="['u.s._537_1061']" end="41" entry_type="party_key" lookup_key="beckerstates#1" id1="125567" start="18" party1_short="BECKER" citation_local_level_id="1" >BECKER v. UNITED STATES</CITATION>
+
+<NAME end="24" start="18" party1_of="125567_3" all_names="BECKER" local_name_id="1" id="125567_4" >BECKER</NAME>
+
+<NAME end="41" start="28" all_names="UNITED STATES" party2_of="125567_3" local_name_id="2" id="125567_5" >UNITED STATES</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._537_1061" id1="125554" start="51" citation_global_level_id="1266.002" line="1" id="125567_2" citation_local_level_id="0" >02-7037</DOCKET>
+
+<DATE start="100" end="116" id="125567_6" >December 2, 2002</DATE>
+
+<NAME start="249" local_name_id="3" end="252" id="125567_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="125567_1" includes_docket_string="02-7037" includes_docket="125567_2" theme_string="537 U.S. 1061" gram_type="apposition" relation_type="asymmetric" id="125567_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1061" X_vs_Y_string="BECKER v. UNITED STATES" standard_case="125567_1" X_vs_Y="125567_3" gram_type="pre_nom" relation_type="equivalence" id="125567_7" ></RELATION>
+
+<RELATION theme="125567_3" includes_docket_string="02-7037" includes_docket="125567_2" theme_string="BECKER v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="125567_10" ></RELATION>
+
+<RELATION theme="125567_3" party1="125567_4" party1_string="BECKER" theme_string="BECKER v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="125567_8" ></RELATION>
+
+<RELATION party2="125567_5" theme="125567_3" theme_string="BECKER v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="125567_9" ></RELATION>
+

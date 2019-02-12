@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['williamsflorida#9']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1000" id1="115449" volume="510" start="0" page_number="1000" standard_reporter="U.S." citation_global_level_id="4379.002" line="1" id="115439_1" citation_local_level_id="0" >510 U.S. 1000</CITATION>
+
+<CITATION party2="Florida" party1="Williams" citation_global_level_id="52888.001" party2_short="Florida" line="1" id="115439_3" alternative_keys="['u.s._510_1000']" end="37" entry_type="party_key" lookup_key="williamsflorida#9" id1="115439" start="18" party1_short="Williams" citation_local_level_id="1" >Williams v. Florida</CITATION>
+
+<NAME end="26" start="18" party1_of="115439_3" all_names="WILLIAMS" local_name_id="1" id="115439_4" >Williams</NAME>
+
+<NAME end="37" start="30" all_names="FLORIDA" party2_of="115439_3" local_name_id="2" id="115439_5" >Florida</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="u.s._510_1000" id1="115449" start="47" citation_global_level_id="4379.002" line="1" id="115439_2" citation_local_level_id="0" >93-6404</DOCKET>
+
+<DATE start="96" end="113" id="115439_6" >November 29, 1993</DATE>
+
+<NAME start="190" local_name_id="3" end="200" id="115439_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="239" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_622_456" id1="Dummy_File_105656" volume="622" start="225" page_number="456" standard_reporter="SO.2D" citation_global_level_id="169506.001" line="3" id="115439_12" citation_local_level_id="2" >622 So. 2d 456</CITATION>
+
+<RELATION theme="115439_1" includes_docket_string="93-6404" includes_docket="115439_2" theme_string="510 U.S. 1000" gram_type="apposition" relation_type="asymmetric" id="115439_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1000" X_vs_Y_string="Williams v. Florida" standard_case="115439_1" X_vs_Y="115439_3" gram_type="pre_nom" relation_type="equivalence" id="115439_7" ></RELATION>
+
+<RELATION theme="115439_3" includes_docket_string="93-6404" includes_docket="115439_2" theme_string="Williams v. Florida" gram_type="apposition" relation_type="asymmetric" id="115439_10" ></RELATION>
+
+<RELATION theme="115439_3" party1="115439_4" party1_string="Williams" theme_string="Williams v. Florida" gram_type="infix" relation_type="asymmetric" id="115439_8" ></RELATION>
+
+<RELATION party2="115439_5" theme="115439_3" theme_string="Williams v. Florida" party2_string="Florida" gram_type="infix" relation_type="asymmetric" id="115439_9" ></RELATION>
+

@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['enterprisesfitch#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_989" id1="135659" volume="541" start="0" page_number="989" standard_reporter="U.S." citation_global_level_id="6532.002" line="1" id="135665_1" citation_local_level_id="0" >541 U.S. 989</CITATION>
+
+<CITATION party2="FITCH ET AL" party1="MOUNTAIN ENTERPRISES, INC." citation_global_level_id="21977.001" party2_short="FITCH" line="2" id="135665_2" alternative_keys="['u.s._541_989']" end="58" entry_type="party_key" lookup_key="enterprisesfitch#1" id1="135665" start="17" party1_short="ENTERPRISES" citation_local_level_id="1" >MOUNTAIN ENTERPRISES, INC. v. FITCH ET AL</CITATION>
+
+<NAME end="43" start="17" party1_of="135665_2" all_names="MOUNTAIN ENTERPRISES INC" local_name_id="1" id="135665_3" >MOUNTAIN ENTERPRISES, INC.</NAME>
+
+<ORGANIZATION start="17" end="42" id="135665_5" >MOUNTAIN ENTERPRISES, INC</ORGANIZATION>
+
+<NAME end="58" start="47" all_names="FITCH" party2_of="135665_2" local_name_id="2" id="135665_4" >FITCH ET AL</NAME>
+
+<DOCKET end="75" entry_type="docket" lookup_key="enterprisesfitch#1" id1="135665" start="68" citation_global_level_id="21977.001" line="3" id="135665_8" citation_local_level_id="1" >03-1223</DOCKET>
+
+<ORGANIZATION start="81" end="111" id="135665_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="117" citation_global_level_id="21977.001" end="131" id="135665_10" citation_local_level_id="1" >April 19, 2004</DATE>
+
+<NAME start="153" local_name_id="3" end="156" id="135665_14" all_names="SUP" >Sup</NAME>
+
+<RELATION theme="135665_2" party1="135665_3" party1_string="MOUNTAIN ENTERPRISES, INC." theme_string="MOUNTAIN ENTERPRISES, INC. v. FITCH ET AL" gram_type="infix" relation_type="asymmetric" id="135665_6" ></RELATION>
+
+<RELATION party2="135665_4" theme="135665_2" theme_string="MOUNTAIN ENTERPRISES, INC. v. FITCH ET AL" party2_string="FITCH ET AL" gram_type="infix" relation_type="asymmetric" id="135665_7" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 989" X_vs_Y_string="MOUNTAIN ENTERPRISES, INC. v. FITCH ET AL" standard_case="135665_1" X_vs_Y="135665_2" gram_type="multi_line" relation_type="equivalence" id="135665_11" ></RELATION>
+
+<RELATION at_date_string="April 19, 2004" theme="135665_2" at_date="135665_10" theme_string="MOUNTAIN ENTERPRISES, INC. v. FITCH ET AL" gram_type="multi_line" relation_type="asymmetric" id="135665_13" ></RELATION>
+
+<RELATION theme="135665_2" includes_docket_string="03-1223" includes_docket="135665_8" theme_string="MOUNTAIN ENTERPRISES, INC. v. FITCH ET AL" gram_type="multi_line" relation_type="asymmetric" id="135665_12" ></RELATION>
+

@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['barnescarolina#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_946" id1="114743" volume="510" start="0" page_number="946" standard_reporter="U.S." citation_global_level_id="2537.002" line="1" id="114737_1" citation_local_level_id="0" >510 U.S. 946</CITATION>
+
+<CITATION party2="North Carolina" party1="Barnes" citation_global_level_id="28685.001" party2_short="Carolina" line="1" id="114737_3" alternative_keys="['u.s._510_946']" end="41" entry_type="party_key" lookup_key="barnescarolina#2" id1="106683" start="17" party1_short="Barnes" citation_local_level_id="1" >Barnes v. North Carolina</CITATION>
+
+<NAME end="23" start="17" party1_of="114737_3" all_names="BARNES" local_name_id="1" id="114737_4" >Barnes</NAME>
+
+<NAME end="41" start="27" all_names="NORTH CAROLINA" party2_of="114737_3" local_name_id="2" id="114737_5" >North Carolina</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._510_946" id1="114743" start="51" citation_global_level_id="2537.002" line="1" id="114737_2" citation_local_level_id="0" >93-371</DOCKET>
+
+<DATE start="99" end="115" id="114737_6" >November 1, 1993</DATE>
+
+<NAME start="193" local_name_id="3" end="203" id="114737_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="241" reporter="N. C." entry_type="standard_key" no_current_file="True" lookup_key="n.c._333_666" id1="Dummy_File_72042" volume="333" start="228" page_number="666" standard_reporter="N.C." citation_global_level_id="135892.001" line="3" id="114737_12" citation_local_level_id="2" >333 N. C. 666</CITATION>
+
+<CITATION end="259" reporter="S. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="s.e.2d_430_223" id1="Dummy_File_72043" volume="430" start="243" page_number="223" standard_reporter="S.E.2D" citation_global_level_id="135893.001" line="3" id="114737_13" citation_local_level_id="3" >430 S. E. 2d 223</CITATION>
+
+<RELATION theme="114737_1" includes_docket_string="93-371" includes_docket="114737_2" theme_string="510 U.S. 946" gram_type="apposition" relation_type="asymmetric" id="114737_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 946" X_vs_Y_string="Barnes v. North Carolina" standard_case="114737_1" X_vs_Y="114737_3" gram_type="pre_nom" relation_type="equivalence" id="114737_7" ></RELATION>
+
+<RELATION theme="114737_3" includes_docket_string="93-371" includes_docket="114737_2" theme_string="Barnes v. North Carolina" gram_type="apposition" relation_type="asymmetric" id="114737_10" ></RELATION>
+
+<RELATION theme="114737_3" party1="114737_4" party1_string="Barnes" theme_string="Barnes v. North Carolina" gram_type="infix" relation_type="asymmetric" id="114737_8" ></RELATION>
+
+<RELATION party2="114737_5" theme="114737_3" theme_string="Barnes v. North Carolina" party2_string="North Carolina" gram_type="infix" relation_type="asymmetric" id="114737_9" ></RELATION>
+

@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['nolendepartment#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1021" id1="125046" volume="537" start="0" page_number="1021" standard_reporter="U.S." citation_global_level_id="720.002" line="1" id="125039_1" citation_local_level_id="0" >537 U.S. 1021</CITATION>
+
+<CITATION party2="MINDEN POLICE DEPARTMENT ET AL" party1="NOLEN" citation_global_level_id="57954.001" party2_short="DEPARTMENT" line="1" id="125039_3" alternative_keys="['u.s._537_1021']" end="57" entry_type="party_key" lookup_key="nolendepartment#1" id1="125039" start="18" party1_short="NOLEN" citation_local_level_id="1" >NOLEN v. MINDEN POLICE DEPARTMENT ET AL</CITATION>
+
+<NAME end="23" start="18" party1_of="125039_3" all_names="NOLEN" local_name_id="1" id="125039_4" >NOLEN</NAME>
+
+<NAME end="57" start="27" all_names="MINDEN POLICE DEPARTMENT" party2_of="125039_3" local_name_id="2" id="125039_5" >MINDEN POLICE DEPARTMENT ET AL</NAME>
+
+<DOCKET end="74" entry_type="docket" lookup_key="u.s._537_1021" id1="125046" start="67" citation_global_level_id="720.002" line="1" id="125039_2" citation_local_level_id="0" >02-6534</DOCKET>
+
+<DATE start="116" end="133" id="125039_6" >November 12, 2002</DATE>
+
+<NAME start="262" local_name_id="3" end="265" id="125039_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="125039_1" includes_docket_string="02-6534" includes_docket="125039_2" theme_string="537 U.S. 1021" gram_type="apposition" relation_type="asymmetric" id="125039_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1021" X_vs_Y_string="NOLEN v. MINDEN POLICE DEPARTMENT ET AL" standard_case="125039_1" X_vs_Y="125039_3" gram_type="pre_nom" relation_type="equivalence" id="125039_7" ></RELATION>
+
+<RELATION theme="125039_3" includes_docket_string="02-6534" includes_docket="125039_2" theme_string="NOLEN v. MINDEN POLICE DEPARTMENT ET AL" gram_type="apposition" relation_type="asymmetric" id="125039_10" ></RELATION>
+
+<RELATION theme="125039_3" party1="125039_4" party1_string="NOLEN" theme_string="NOLEN v. MINDEN POLICE DEPARTMENT ET AL" gram_type="infix" relation_type="asymmetric" id="125039_8" ></RELATION>
+
+<RELATION party2="125039_5" theme="125039_3" theme_string="NOLEN v. MINDEN POLICE DEPARTMENT ET AL" party2_string="MINDEN POLICE DEPARTMENT ET AL" gram_type="infix" relation_type="asymmetric" id="125039_9" ></RELATION>
+

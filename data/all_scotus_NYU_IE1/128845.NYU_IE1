@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['bramblettwarden#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_973" id1="128848" volume="538" start="0" page_number="973" standard_reporter="U.S." citation_global_level_id="18663.002" line="1" id="128845_1" citation_local_level_id="0" >538 U.S. 973</CITATION>
+
+<CITATION party2="TRUE, WARDEN" party1="BRAMBLETT" citation_global_level_id="41736.001" party2_short="WARDEN" line="1" id="128845_4" alternative_keys="['u.s._538_973']" end="42" entry_type="party_key" lookup_key="bramblettwarden#1" id1="128845" start="17" party1_short="BRAMBLETT" citation_local_level_id="1" >BRAMBLETT v. TRUE, WARDEN</CITATION>
+
+<NAME end="26" start="17" party1_of="128845_4" all_names="BRAMBLETT" local_name_id="1" id="128845_5" >BRAMBLETT</NAME>
+
+<NAME end="42" start="30" all_names="TRUE WARDEN" party2_of="128845_4" local_name_id="2" id="128845_6" >TRUE, WARDEN</NAME>
+
+<DOCKET end="60" entry_type="docket" lookup_key="u.s._538_973" id1="128848" start="52" citation_global_level_id="18663.002" line="1" id="128845_3" citation_local_level_id="0" >02-10026</DOCKET>
+
+<CITATION end="68" reporter="A" entry_type="standard_key" no_current_file="True" lookup_key="a._02_869" id1="Dummy_File_65921" volume="02" start="62" page_number="869" standard_reporter="A." citation_global_level_id="129771.001" line="1" id="128845_2" citation_local_level_id="2" >02A869</CITATION>
+
+<DATE start="111" end="124" id="128845_7" >April 9, 2003</DATE>
+
+<NAME start="216" local_name_id="3" end="219" id="128845_13" all_names="SUP" >Sup</NAME>
+
+<RELATION theme="128845_1" includes_docket_string="02-10026" includes_docket="128845_3" theme_string="538 U.S. 973" gram_type="apposition" relation_type="asymmetric" id="128845_12" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 973" X_vs_Y_string="BRAMBLETT v. TRUE, WARDEN" standard_case="128845_1" X_vs_Y="128845_4" gram_type="pre_nom" relation_type="equivalence" id="128845_8" ></RELATION>
+
+<RELATION theme="128845_4" includes_docket_string="02-10026" includes_docket="128845_3" theme_string="BRAMBLETT v. TRUE, WARDEN" gram_type="apposition" relation_type="asymmetric" id="128845_11" ></RELATION>
+
+<RELATION party2="128845_6" theme="128845_4" theme_string="BRAMBLETT v. TRUE, WARDEN" party2_string="TRUE, WARDEN" gram_type="infix" relation_type="asymmetric" id="128845_10" ></RELATION>
+
+<RELATION theme="128845_4" party1="128845_5" party1_string="BRAMBLETT" theme_string="BRAMBLETT v. TRUE, WARDEN" gram_type="infix" relation_type="asymmetric" id="128845_9" ></RELATION>
+

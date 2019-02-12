@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['beygeorgia#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._542_957" id1="137619" volume="542" start="0" page_number="957" standard_reporter="U.S." citation_global_level_id="3019.002" line="1" id="137612_1" citation_local_level_id="0" >542 U.S. 957</CITATION>
+
+<CITATION party2="GEORGIA" party1="BRYANT-BEY" citation_global_level_id="35499.001" party2_short="GEORGIA" line="1" id="137612_3" alternative_keys="['u.s._542_957']" end="38" entry_type="party_key" lookup_key="beygeorgia#2" id1="137612" start="17" party1_short="BEY" citation_local_level_id="1" >BRYANT-BEY v. GEORGIA</CITATION>
+
+<NAME end="27" start="17" party1_of="137612_3" all_names="BRYANT-BEY" local_name_id="1" id="137612_4" >BRYANT-BEY</NAME>
+
+<NAME end="38" start="31" all_names="GEORGIA" party2_of="137612_3" local_name_id="2" id="137612_5" >GEORGIA</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._542_957" id1="137619" start="48" citation_global_level_id="3019.002" line="1" id="137612_2" citation_local_level_id="0" >03-9710</DOCKET>
+
+<DATE start="97" end="111" id="137612_6" >August 2, 2004</DATE>
+
+<CITATION end="219" reporter="U. S." entry_type="standard_key" lookup_key="u.s._541_1089" id1="136916" volume="541" start="205" page_number="1089" standard_reporter="U.S." citation_global_level_id="3821.002" line="3" id="137612_12" citation_local_level_id="2" >541 U. S. 1089</CITATION>
+
+<RELATION theme="137612_1" includes_docket_string="03-9710" includes_docket="137612_2" theme_string="542 U.S. 957" gram_type="apposition" relation_type="asymmetric" id="137612_11" ></RELATION>
+
+<RELATION standard_case_string="542 U.S. 957" X_vs_Y_string="BRYANT-BEY v. GEORGIA" standard_case="137612_1" X_vs_Y="137612_3" gram_type="pre_nom" relation_type="equivalence" id="137612_7" ></RELATION>
+
+<RELATION theme="137612_3" includes_docket_string="03-9710" includes_docket="137612_2" theme_string="BRYANT-BEY v. GEORGIA" gram_type="apposition" relation_type="asymmetric" id="137612_10" ></RELATION>
+
+<RELATION theme="137612_3" party1="137612_4" party1_string="BRYANT-BEY" theme_string="BRYANT-BEY v. GEORGIA" gram_type="infix" relation_type="asymmetric" id="137612_8" ></RELATION>
+
+<RELATION party2="137612_5" theme="137612_3" theme_string="BRYANT-BEY v. GEORGIA" party2_string="GEORGIA" gram_type="infix" relation_type="asymmetric" id="137612_9" ></RELATION>
+

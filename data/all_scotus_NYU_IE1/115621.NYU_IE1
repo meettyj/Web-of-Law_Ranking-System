@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['relinfrank#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1012" id1="115621" volume="510" start="0" page_number="1012" standard_reporter="U.S." citation_global_level_id="399.002" line="1" id="115621_1" citation_local_level_id="0" >510 U.S. 1012</CITATION>
+
+<CITATION party2="Frank" party1="Relin" citation_global_level_id="399.001" party2_short="Frank" line="1" id="115621_3" alternative_keys="['u.s._510_1012']" end="32" entry_type="party_key" lookup_key="relinfrank#1" id1="115621" start="18" party1_short="Relin" citation_local_level_id="1" >Relin v. Frank</CITATION>
+
+<NAME end="23" start="18" party1_of="115621_3" all_names="RELIN" local_name_id="1" id="115621_4" >Relin</NAME>
+
+<NAME end="32" start="27" all_names="FRANK" party2_of="115621_3" local_name_id="2" id="115621_5" >Frank</NAME>
+
+<DOCKET end="48" entry_type="docket" lookup_key="u.s._510_1012" id1="115621" start="42" citation_global_level_id="399.002" line="1" id="115621_2" citation_local_level_id="0" >93-654</DOCKET>
+
+<DATE start="90" end="106" id="115621_6" >December 6, 1993</DATE>
+
+<NAME start="183" local_name_id="3" end="193" id="115621_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="230" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_1_1317" id1="Dummy_File_145639" volume="1" start="218" page_number="1317" standard_reporter="F.3D" citation_global_level_id="209489.001" line="3" id="115621_12" citation_local_level_id="2" >1 F. 3d 1317</CITATION>
+
+<RELATION theme="115621_1" includes_docket_string="93-654" includes_docket="115621_2" theme_string="510 U.S. 1012" gram_type="apposition" relation_type="asymmetric" id="115621_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1012" X_vs_Y_string="Relin v. Frank" standard_case="115621_1" X_vs_Y="115621_3" gram_type="pre_nom" relation_type="equivalence" id="115621_7" ></RELATION>
+
+<RELATION theme="115621_3" includes_docket_string="93-654" includes_docket="115621_2" theme_string="Relin v. Frank" gram_type="apposition" relation_type="asymmetric" id="115621_10" ></RELATION>
+
+<RELATION theme="115621_3" party1="115621_4" party1_string="Relin" theme_string="Relin v. Frank" gram_type="infix" relation_type="asymmetric" id="115621_8" ></RELATION>
+
+<RELATION party2="115621_5" theme="115621_3" theme_string="Relin v. Frank" party2_string="Frank" gram_type="infix" relation_type="asymmetric" id="115621_9" ></RELATION>
+

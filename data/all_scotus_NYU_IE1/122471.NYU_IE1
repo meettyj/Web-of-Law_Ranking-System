@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['councildepartment#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_819" id1="122475" volume="537" start="0" page_number="819" standard_reporter="U.S." citation_global_level_id="3388.002" line="1" id="122471_1" citation_local_level_id="0" >537 U.S. 819</CITATION>
+
+<CITATION party2="CONNECTICUT DEPARTMENT OF PUBLIC UTILITY CONTROL ET AL" party1="COX CABLE ADVISORY COUNCIL" citation_global_level_id="3388.004" party2_short="DEPARTMENT" line="1" id="122471_3" alternative_keys="['u.s._537_819']" end="101" entry_type="party_key" lookup_key="councildepartment#2" id1="122475" start="17" party1_short="COUNCIL" citation_local_level_id="1" >COX CABLE ADVISORY COUNCIL v. CONNECTICUT DEPARTMENT OF PUBLIC UTILITY CONTROL ET AL</CITATION>
+
+<NAME end="43" start="17" party1_of="122471_3" all_names="COX CABLE ADVISORY COUNCIL" local_name_id="1" id="122471_4" >COX CABLE ADVISORY COUNCIL</NAME>
+
+<NAME end="101" start="47" all_names="CONNECTICUT DEPARTMENT OF PUBLIC UTILITY CONTROL" party2_of="122471_3" local_name_id="2" id="122471_5" >CONNECTICUT DEPARTMENT OF PUBLIC UTILITY CONTROL ET AL</NAME>
+
+<DOCKET end="118" entry_type="docket" lookup_key="u.s._537_819" id1="122475" start="111" citation_global_level_id="3388.002" line="1" id="122471_2" citation_local_level_id="0" >01-1738</DOCKET>
+
+<DATE start="114" end="118" id="122471_6" >1738</DATE>
+
+<DATE start="160" end="175" id="122471_7" >October 7, 2002</DATE>
+
+<NAME start="270" local_name_id="3" end="273" id="122471_16" all_names="SUP" >Sup</NAME>
+
+<CITATION end="332" reporter="Conn." entry_type="standard_key" no_current_file="True" lookup_key="conn._259_56" id1="Dummy_File_156149" volume="259" start="320" page_number="56" standard_reporter="CONN." citation_global_level_id="219999.001" line="3" id="122471_14" citation_local_level_id="2" >259 Conn. 56</CITATION>
+
+<CITATION end="346" reporter="A. 2d" entry_type="standard_key" no_current_file="True" lookup_key="a.2d_788_29" id1="Dummy_File_156150" volume="788" start="334" page_number="29" standard_reporter="A.2D" citation_global_level_id="220000.001" line="3" id="122471_15" citation_local_level_id="3" >788 A. 2d 29</CITATION>
+
+<RELATION theme="122471_1" includes_docket_string="01-1738" includes_docket="122471_2" theme_string="537 U.S. 819" gram_type="apposition" relation_type="asymmetric" id="122471_12" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 819" X_vs_Y_string="COX CABLE ADVISORY COUNCIL v. CONNECTICUT DEPARTMENT OF PUBLIC UTILITY CONTROL ET AL" standard_case="122471_1" X_vs_Y="122471_3" gram_type="pre_nom" relation_type="equivalence" id="122471_8" ></RELATION>
+
+<RELATION theme="122471_3" includes_docket_string="01-1738" includes_docket="122471_2" theme_string="COX CABLE ADVISORY COUNCIL v. CONNECTICUT DEPARTMENT OF PUBLIC UTILITY CONTROL ET AL" gram_type="apposition" relation_type="asymmetric" id="122471_11" ></RELATION>
+
+<RELATION party2="122471_5" theme="122471_3" theme_string="COX CABLE ADVISORY COUNCIL v. CONNECTICUT DEPARTMENT OF PUBLIC UTILITY CONTROL ET AL" party2_string="CONNECTICUT DEPARTMENT OF PUBLIC UTILITY CONTROL ET AL" gram_type="infix" relation_type="asymmetric" id="122471_10" ></RELATION>
+
+<RELATION theme="122471_3" party1="122471_4" party1_string="COX CABLE ADVISORY COUNCIL" theme_string="COX CABLE ADVISORY COUNCIL v. CONNECTICUT DEPARTMENT OF PUBLIC UTILITY CONTROL ET AL" gram_type="infix" relation_type="asymmetric" id="122471_9" ></RELATION>
+
+<RELATION at_date_string="1738" theme="122471_2" at_date="122471_6" theme_string="01-1738" gram_type="infix" relation_type="asymmetric" id="122471_13" ></RELATION>
+

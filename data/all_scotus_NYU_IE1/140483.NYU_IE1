@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['jeffersonstates#4']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1013" id1="140487" volume="543" start="0" page_number="1013" standard_reporter="U.S." citation_global_level_id="690.002" line="1" id="140483_1" citation_local_level_id="0" >543 U.S. 1013</CITATION>
+
+<CITATION party2="UNITED STATES" party1="JEFFERSON" citation_global_level_id="54938.001" party2_short="STATES" line="2" id="140483_2" alternative_keys="['u.s._543_1013']" end="44" entry_type="party_key" lookup_key="jeffersonstates#4" id1="132678" start="18" party1_short="JEFFERSON" citation_local_level_id="1" >JEFFERSON v. UNITED STATES</CITATION>
+
+<NAME end="27" start="18" party1_of="140483_2" all_names="JEFFERSON" local_name_id="1" id="140483_3" >JEFFERSON</NAME>
+
+<NAME end="44" start="31" all_names="UNITED STATES" party2_of="140483_2" local_name_id="2" id="140483_4" >UNITED STATES</NAME>
+
+<DOCKET end="61" entry_type="docket" lookup_key="jeffersonstates#4" id1="132678" start="54" citation_global_level_id="54938.001" line="3" id="140483_7" citation_local_level_id="1" >04-6976</DOCKET>
+
+<ORGANIZATION start="67" end="97" id="140483_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="103" citation_global_level_id="54938.001" end="120" id="140483_9" citation_local_level_id="1" >November 29, 2004</DATE>
+
+<NAME start="152" local_name_id="3" end="155" id="140483_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="140483_2" party1="140483_3" party1_string="JEFFERSON" theme_string="JEFFERSON v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="140483_5" ></RELATION>
+
+<RELATION party2="140483_4" theme="140483_2" theme_string="JEFFERSON v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="140483_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1013" X_vs_Y_string="JEFFERSON v. UNITED STATES" standard_case="140483_1" X_vs_Y="140483_2" gram_type="multi_line" relation_type="equivalence" id="140483_10" ></RELATION>
+
+<RELATION at_date_string="November 29, 2004" theme="140483_2" at_date="140483_9" theme_string="JEFFERSON v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="140483_12" ></RELATION>
+
+<RELATION theme="140483_2" includes_docket_string="04-6976" includes_docket="140483_7" theme_string="JEFFERSON v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="140483_11" ></RELATION>
+

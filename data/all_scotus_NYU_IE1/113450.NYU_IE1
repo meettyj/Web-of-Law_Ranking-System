@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['colonstates#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_845" id1="113457" volume="510" start="0" page_number="845" standard_reporter="U.S." citation_global_level_id="9630.002" line="1" id="113450_1" citation_local_level_id="0" >510 U.S. 845</CITATION>
+
+<CITATION party2="United States" party1="Berrios-Colon" citation_global_level_id="4557.001" party2_short="States" line="1" id="113450_3" alternative_keys="['u.s._510_845']" end="47" entry_type="party_key" lookup_key="colonstates#2" id1="123791" start="17" party1_short="Colon" citation_local_level_id="1" >Berrios-Colon v. United States</CITATION>
+
+<NAME end="30" start="17" party1_of="113450_3" all_names="BERRIOS-COLON" local_name_id="1" id="113450_4" >Berrios-Colon</NAME>
+
+<NAME end="47" start="34" all_names="UNITED STATES" party2_of="113450_3" local_name_id="2" id="113450_5" >United States</NAME>
+
+<DOCKET end="64" entry_type="docket" lookup_key="u.s._510_845" id1="113457" start="57" citation_global_level_id="9630.002" line="1" id="113450_2" citation_local_level_id="0" >92-9015</DOCKET>
+
+<DATE start="106" end="121" id="113450_6" >October 4, 1993</DATE>
+
+<NAME start="199" local_name_id="3" end="209" id="113450_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="247" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_989_485" id1="Dummy_File_45873" volume="989" start="234" page_number="485" standard_reporter="F.2D" citation_global_level_id="109723.001" line="3" id="113450_12" citation_local_level_id="2" >989 F. 2d 485</CITATION>
+
+<RELATION theme="113450_1" includes_docket_string="92-9015" includes_docket="113450_2" theme_string="510 U.S. 845" gram_type="apposition" relation_type="asymmetric" id="113450_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 845" X_vs_Y_string="Berrios-Colon v. United States" standard_case="113450_1" X_vs_Y="113450_3" gram_type="pre_nom" relation_type="equivalence" id="113450_7" ></RELATION>
+
+<RELATION theme="113450_3" includes_docket_string="92-9015" includes_docket="113450_2" theme_string="Berrios-Colon v. United States" gram_type="apposition" relation_type="asymmetric" id="113450_10" ></RELATION>
+
+<RELATION theme="113450_3" party1="113450_4" party1_string="Berrios-Colon" theme_string="Berrios-Colon v. United States" gram_type="infix" relation_type="asymmetric" id="113450_8" ></RELATION>
+
+<RELATION party2="113450_5" theme="113450_3" theme_string="Berrios-Colon v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="113450_9" ></RELATION>
+

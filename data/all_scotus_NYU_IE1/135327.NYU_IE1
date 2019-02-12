@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['ochoajamrog#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_962" id1="135324" volume="541" start="0" page_number="962" standard_reporter="U.S." citation_global_level_id="3057.002" line="1" id="135327_1" citation_local_level_id="0" >541 U.S. 962</CITATION>
+
+<CITATION party2="JAMROG, WARDEN" party1="OCHOA" citation_global_level_id="3057.006" party2_short="JAMROG" line="2" id="135327_2" alternative_keys="['u.s._541_962']" end="40" entry_type="party_key" lookup_key="ochoajamrog#1" id1="135324" start="17" party1_short="OCHOA" citation_local_level_id="1" >OCHOA v. JAMROG, WARDEN</CITATION>
+
+<NAME end="22" start="17" party1_of="135327_2" all_names="OCHOA" local_name_id="1" id="135327_3" >OCHOA</NAME>
+
+<NAME end="40" start="26" all_names="JAMROG WARDEN" party2_of="135327_2" local_name_id="2" id="135327_4" >JAMROG, WARDEN</NAME>
+
+<DOCKET alternative_keys="['u.s._541_962']" end="57" entry_type="docket" lookup_key="ochoajamrog#1" id1="135324" start="50" citation_global_level_id="3057.006" line="3" id="135327_7" citation_local_level_id="1" >03-8607</DOCKET>
+
+<ORGANIZATION start="63" end="93" id="135327_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="99" citation_global_level_id="3057.006" end="113" id="135327_9" citation_local_level_id="1" >March 29, 2004</DATE>
+
+<NAME start="145" local_name_id="3" end="148" id="135327_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="135327_2" party1="135327_3" party1_string="OCHOA" theme_string="OCHOA v. JAMROG, WARDEN" gram_type="infix" relation_type="asymmetric" id="135327_5" ></RELATION>
+
+<RELATION party2="135327_4" theme="135327_2" theme_string="OCHOA v. JAMROG, WARDEN" party2_string="JAMROG, WARDEN" gram_type="infix" relation_type="asymmetric" id="135327_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 962" X_vs_Y_string="OCHOA v. JAMROG, WARDEN" standard_case="135327_1" X_vs_Y="135327_2" gram_type="multi_line" relation_type="equivalence" id="135327_10" ></RELATION>
+
+<RELATION at_date_string="March 29, 2004" theme="135327_2" at_date="135327_9" theme_string="OCHOA v. JAMROG, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="135327_12" ></RELATION>
+
+<RELATION theme="135327_2" includes_docket_string="03-8607" includes_docket="135327_7" theme_string="OCHOA v. JAMROG, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="135327_11" ></RELATION>
+

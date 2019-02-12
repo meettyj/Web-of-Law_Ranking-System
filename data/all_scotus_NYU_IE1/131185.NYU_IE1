@@ -1,0 +1,58 @@
+<CITATION alternative_keys="['greennadeau#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_803" id1="131187" volume="540" start="0" page_number="803" standard_reporter="U.S." citation_global_level_id="15621.002" line="1" id="131185_1" citation_local_level_id="0" >540 U.S. 803</CITATION>
+
+<CITATION party2="NADEAU ET AL" party1="GREEN" citation_global_level_id="18069.001" party2_short="NADEAU" line="1" id="131185_3" alternative_keys="['u.s._540_803']" end="38" entry_type="party_key" lookup_key="greennadeau#1" id1="131185" start="17" party1_short="GREEN" citation_local_level_id="1" >GREEN v. NADEAU ET AL</CITATION>
+
+<NAME end="22" start="17" party1_of="131185_3" all_names="GREEN" local_name_id="1" id="131185_4" >GREEN</NAME>
+
+<NAME end="38" start="26" all_names="NADEAU" party2_of="131185_3" local_name_id="2" id="131185_5" >NADEAU ET AL</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._540_803" id1="131187" start="48" citation_global_level_id="15621.002" line="1" id="131185_2" citation_local_level_id="0" >03-5164</DOCKET>
+
+<DATE start="97" end="112" id="131185_6" >October 6, 2003</DATE>
+
+<LEGAL_ROLE start="190" end="210" id="131185_17" >Motion of petitioner</LEGAL_ROLE>
+
+<NAME start="284" local_name_id="3" end="287" id="131185_18" all_names="SEE	RULE 331 SEE" >See</NAME>
+
+<ORGANIZATION start="293" end="298" id="131185_19" >Court</ORGANIZATION>
+
+<LEGAL_ROLE start="301" end="325" id="131185_20" >Rule 39.8. As petitioner</LEGAL_ROLE>
+
+<ORGANIZATION start="353" end="358" id="131185_21" >Court</ORGANIZATION>
+
+<PROFESSION start="374" end="379" id="131185_22" >Clerk</PROFESSION>
+
+<LEGAL_ROLE start="456" end="466" id="131185_23" >petitioner</LEGAL_ROLE>
+
+<NAME start="504" local_name_id="4" end="508" id="131185_24" all_names="RULE" >Rule</NAME>
+
+<NAME start="572" local_name_id="3" end="586" id="131185_25" all_names="SEE	RULE 331 SEE" >Rule 33.1. See</NAME>
+
+<CITATION party2="District of Columbia Court of Appeals" party1="Martin" citation_global_level_id="51848.001" party2_short="District" line="3" id="131185_13" alternative_keys="['u.s._506_1']" end="634" entry_type="party_key" lookup_key="martindistrict#2" id1="112790" start="587" party1_short="Martin" citation_local_level_id="2" >Martin v. District of Columbia Court of Appeals</CITATION>
+
+<NAME end="593" start="587" party1_of="131185_13" all_names="MARTIN" local_name_id="5" id="131185_14" >Martin</NAME>
+
+<NAME end="634" start="597" all_names="DISTRICT OF COLUMBIA COURT OF APPEALS" party2_of="131185_13" local_name_id="6" id="131185_15" >District of Columbia Court of Appeals</NAME>
+
+<CITATION alternative_keys="['martindistrict#2']" end="653" reporter="U.S." entry_type="standard_key" lookup_key="u.s._506_1" id1="112790" volume="506" start="636" page_number="1" year="1992" standard_reporter="U.S." citation_global_level_id="51848.002" line="3" id="131185_12" citation_local_level_id="3" >506 U.S. 1 (1992)</CITATION>
+
+<DATE start="648" citation_global_level_id="51848.002" end="652" id="131185_16" citation_local_level_id="3" >1992</DATE>
+
+<RELATION theme="131185_1" includes_docket_string="03-5164" includes_docket="131185_2" theme_string="540 U.S. 803" gram_type="apposition" relation_type="asymmetric" id="131185_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 803" X_vs_Y_string="GREEN v. NADEAU ET AL" standard_case="131185_1" X_vs_Y="131185_3" gram_type="pre_nom" relation_type="equivalence" id="131185_7" ></RELATION>
+
+<RELATION theme="131185_3" includes_docket_string="03-5164" includes_docket="131185_2" theme_string="GREEN v. NADEAU ET AL" gram_type="apposition" relation_type="asymmetric" id="131185_10" ></RELATION>
+
+<RELATION theme="131185_3" party1="131185_4" party1_string="GREEN" theme_string="GREEN v. NADEAU ET AL" gram_type="infix" relation_type="asymmetric" id="131185_8" ></RELATION>
+
+<RELATION party2="131185_5" theme="131185_3" theme_string="GREEN v. NADEAU ET AL" party2_string="NADEAU ET AL" gram_type="infix" relation_type="asymmetric" id="131185_9" ></RELATION>
+
+<RELATION standard_case_string="506 U.S. 1 (1992)" X_vs_Y_string="Martin v. District of Columbia Court of Appeals" standard_case="131185_12" X_vs_Y="131185_13" gram_type="apposition" relation_type="equivalence" id="131185_28" ></RELATION>
+
+<RELATION theme="131185_13" party1="131185_14" party1_string="Martin" theme_string="Martin v. District of Columbia Court of Appeals" gram_type="infix" relation_type="asymmetric" id="131185_26" ></RELATION>
+
+<RELATION party2="131185_15" theme="131185_13" theme_string="Martin v. District of Columbia Court of Appeals" party2_string="District of Columbia Court of Appeals" gram_type="infix" relation_type="asymmetric" id="131185_27" ></RELATION>
+
+<RELATION at_date_string="1992" theme="131185_12" at_date="131185_16" theme_string="506 U.S. 1 (1992)" gram_type="infix" relation_type="asymmetric" id="131185_29" ></RELATION>
+

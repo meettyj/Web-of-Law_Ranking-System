@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['nealstates#5']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_936" id1="132946" volume="540" start="0" page_number="936" standard_reporter="U.S." citation_global_level_id="1345.002" line="1" id="132960_1" citation_local_level_id="0" >540 U.S. 936</CITATION>
+
+<CITATION party2="UNITED STATES" party1="NEAL" citation_global_level_id="58546.001" party2_short="STATES" line="1" id="132960_3" alternative_keys="['u.s._540_936']" end="38" entry_type="party_key" lookup_key="nealstates#5" id1="123176" start="17" party1_short="NEAL" citation_local_level_id="1" >NEAL v. UNITED STATES</CITATION>
+
+<NAME end="21" start="17" party1_of="132960_3" all_names="NEAL" local_name_id="1" id="132960_4" >NEAL</NAME>
+
+<NAME end="38" start="25" all_names="UNITED STATES" party2_of="132960_3" local_name_id="2" id="132960_5" >UNITED STATES</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._540_936" id1="132946" start="48" citation_global_level_id="1345.002" line="1" id="132960_2" citation_local_level_id="0" >03-6102</DOCKET>
+
+<DATE start="97" end="112" id="132960_6" >October 6, 2003</DATE>
+
+<NAME start="190" local_name_id="3" end="200" id="132960_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="238" reporter="A. 2d" entry_type="standard_key" no_current_file="True" lookup_key="a.2d_821_362" id1="Dummy_File_213648" volume="821" start="225" page_number="362" standard_reporter="A.2D" citation_global_level_id="277498.001" line="3" id="132960_12" citation_local_level_id="2" >821 A. 2d 362</CITATION>
+
+<RELATION theme="132960_1" includes_docket_string="03-6102" includes_docket="132960_2" theme_string="540 U.S. 936" gram_type="apposition" relation_type="asymmetric" id="132960_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 936" X_vs_Y_string="NEAL v. UNITED STATES" standard_case="132960_1" X_vs_Y="132960_3" gram_type="pre_nom" relation_type="equivalence" id="132960_7" ></RELATION>
+
+<RELATION theme="132960_3" includes_docket_string="03-6102" includes_docket="132960_2" theme_string="NEAL v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="132960_10" ></RELATION>
+
+<RELATION theme="132960_3" party1="132960_4" party1_string="NEAL" theme_string="NEAL v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="132960_8" ></RELATION>
+
+<RELATION party2="132960_5" theme="132960_3" theme_string="NEAL v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="132960_9" ></RELATION>
+

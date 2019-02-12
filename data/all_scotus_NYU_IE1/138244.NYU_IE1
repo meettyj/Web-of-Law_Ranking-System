@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['jacksonsimmons#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_839" id1="138245" volume="543" start="0" page_number="839" standard_reporter="U.S." citation_global_level_id="6674.002" line="1" id="138244_1" citation_local_level_id="0" >543 U.S. 839</CITATION>
+
+<CITATION party2="SIMMONS ET AL" party1="JACKSON" citation_global_level_id="62633.001" party2_short="SIMMONS" line="2" id="138244_2" alternative_keys="['u.s._543_839']" end="41" entry_type="party_key" lookup_key="jacksonsimmons#1" id1="138244" start="17" party1_short="JACKSON" citation_local_level_id="1" >JACKSON v. SIMMONS ET AL</CITATION>
+
+<NAME end="24" start="17" party1_of="138244_2" all_names="JACKSON" local_name_id="1" id="138244_3" >JACKSON</NAME>
+
+<NAME end="41" start="28" all_names="SIMMONS" party2_of="138244_2" local_name_id="2" id="138244_4" >SIMMONS ET AL</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="jacksonsimmons#1" id1="138244" start="51" citation_global_level_id="62633.001" line="3" id="138244_7" citation_local_level_id="1" >03-10569</DOCKET>
+
+<ORGANIZATION start="65" end="95" id="138244_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="101" citation_global_level_id="62633.001" end="116" id="138244_9" citation_local_level_id="1" >October 4, 2004</DATE>
+
+<NAME start="149" local_name_id="3" end="152" id="138244_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="138244_2" party1="138244_3" party1_string="JACKSON" theme_string="JACKSON v. SIMMONS ET AL" gram_type="infix" relation_type="asymmetric" id="138244_5" ></RELATION>
+
+<RELATION party2="138244_4" theme="138244_2" theme_string="JACKSON v. SIMMONS ET AL" party2_string="SIMMONS ET AL" gram_type="infix" relation_type="asymmetric" id="138244_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 839" X_vs_Y_string="JACKSON v. SIMMONS ET AL" standard_case="138244_1" X_vs_Y="138244_2" gram_type="multi_line" relation_type="equivalence" id="138244_10" ></RELATION>
+
+<RELATION at_date_string="October 4, 2004" theme="138244_2" at_date="138244_9" theme_string="JACKSON v. SIMMONS ET AL" gram_type="multi_line" relation_type="asymmetric" id="138244_12" ></RELATION>
+
+<RELATION theme="138244_2" includes_docket_string="03-10569" includes_docket="138244_7" theme_string="JACKSON v. SIMMONS ET AL" gram_type="multi_line" relation_type="asymmetric" id="138244_11" ></RELATION>
+

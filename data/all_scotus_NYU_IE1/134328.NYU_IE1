@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['loopertennessee#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_1060" id1="134328" volume="540" start="0" page_number="1060" standard_reporter="U.S." citation_global_level_id="4577.002" line="1" id="134328_1" citation_local_level_id="0" >540 U.S. 1060</CITATION>
+
+<CITATION party2="TENNESSEE" party1="LOOPER" citation_global_level_id="4577.001" party2_short="TENNESSEE" line="1" id="134328_3" alternative_keys="['u.s._540_1060']" end="37" entry_type="party_key" lookup_key="loopertennessee#1" id1="134328" start="18" party1_short="LOOPER" citation_local_level_id="1" >LOOPER v. TENNESSEE</CITATION>
+
+<NAME end="24" start="18" party1_of="134328_3" all_names="LOOPER" local_name_id="1" id="134328_4" >LOOPER</NAME>
+
+<NAME end="37" start="28" all_names="TENNESSEE" party2_of="134328_3" local_name_id="2" id="134328_5" >TENNESSEE</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="u.s._540_1060" id1="134328" start="47" citation_global_level_id="4577.002" line="1" id="134328_2" citation_local_level_id="0" >03-6846</DOCKET>
+
+<DATE start="96" end="112" id="134328_6" >December 1, 2003</DATE>
+
+<NAME start="196" local_name_id="3" end="206" id="134328_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="247" reporter="S. W. 3d" entry_type="standard_key" no_current_file="True" lookup_key="s.w.3d_118_386" id1="Dummy_File_218161" volume="118" start="231" page_number="386" standard_reporter="S.W.3D" citation_global_level_id="282011.001" line="3" id="134328_12" citation_local_level_id="2" >118 S. W. 3d 386</CITATION>
+
+<RELATION theme="134328_1" includes_docket_string="03-6846" includes_docket="134328_2" theme_string="540 U.S. 1060" gram_type="apposition" relation_type="asymmetric" id="134328_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 1060" X_vs_Y_string="LOOPER v. TENNESSEE" standard_case="134328_1" X_vs_Y="134328_3" gram_type="pre_nom" relation_type="equivalence" id="134328_7" ></RELATION>
+
+<RELATION theme="134328_3" includes_docket_string="03-6846" includes_docket="134328_2" theme_string="LOOPER v. TENNESSEE" gram_type="apposition" relation_type="asymmetric" id="134328_10" ></RELATION>
+
+<RELATION theme="134328_3" party1="134328_4" party1_string="LOOPER" theme_string="LOOPER v. TENNESSEE" gram_type="infix" relation_type="asymmetric" id="134328_8" ></RELATION>
+
+<RELATION party2="134328_5" theme="134328_3" theme_string="LOOPER v. TENNESSEE" party2_string="TENNESSEE" gram_type="infix" relation_type="asymmetric" id="134328_9" ></RELATION>
+

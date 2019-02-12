@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['tradinginsurance#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1119" id1="141925" volume="543" start="0" page_number="1119" standard_reporter="U.S." citation_global_level_id="9346.002" line="1" id="141924_1" citation_local_level_id="0" >543 U.S. 1119</CITATION>
+
+<CITATION party2="GULF INSURANCE CO. ET AL" party1="BAYOIL SUPPLY &amp; TRADING LTD." citation_global_level_id="9346.004" party2_short="INSURANCE" line="2" id="141924_2" alternative_keys="['u.s._543_1119']" end="74" entry_type="party_key" lookup_key="tradinginsurance#2" id1="141925" start="18" party1_short="TRADING" citation_local_level_id="1" >BAYOIL SUPPLY &amp; TRADING LTD. v. GULF INSURANCE CO. ET AL</CITATION>
+
+<NAME end="46" start="18" party1_of="141924_2" all_names="BAYOIL SUPPLY &amp; TRADING LTD" local_name_id="1" id="141924_3" >BAYOIL SUPPLY &amp; TRADING LTD.</NAME>
+
+<ORGANIZATION start="18" end="45" id="141924_5" >BAYOIL SUPPLY &amp; TRADING LTD</ORGANIZATION>
+
+<NAME end="74" start="50" all_names="GULF INSURANCE CO" party2_of="141924_2" local_name_id="2" id="141924_4" >GULF INSURANCE CO. ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._543_1119']" end="90" entry_type="docket" lookup_key="tradinginsurance#2" id1="141925" start="84" citation_global_level_id="9346.004" line="3" id="141924_8" citation_local_level_id="1" >04-540</DOCKET>
+
+<ORGANIZATION start="96" end="126" id="141924_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="132" citation_global_level_id="9346.004" end="148" id="141924_10" citation_local_level_id="1" >January 24, 2005</DATE>
+
+<NAME start="180" local_name_id="3" end="183" id="141924_14" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="141924_2" party1="141924_3" party1_string="BAYOIL SUPPLY &amp; TRADING LTD." theme_string="BAYOIL SUPPLY &amp; TRADING LTD. v. GULF INSURANCE CO. ET AL" gram_type="infix" relation_type="asymmetric" id="141924_6" ></RELATION>
+
+<RELATION party2="141924_4" theme="141924_2" theme_string="BAYOIL SUPPLY &amp; TRADING LTD. v. GULF INSURANCE CO. ET AL" party2_string="GULF INSURANCE CO. ET AL" gram_type="infix" relation_type="asymmetric" id="141924_7" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1119" X_vs_Y_string="BAYOIL SUPPLY &amp; TRADING LTD. v. GULF INSURANCE CO. ET AL" standard_case="141924_1" X_vs_Y="141924_2" gram_type="multi_line" relation_type="equivalence" id="141924_11" ></RELATION>
+
+<RELATION at_date_string="January 24, 2005" theme="141924_2" at_date="141924_10" theme_string="BAYOIL SUPPLY &amp; TRADING LTD. v. GULF INSURANCE CO. ET AL" gram_type="multi_line" relation_type="asymmetric" id="141924_13" ></RELATION>
+
+<RELATION theme="141924_2" includes_docket_string="04-540" includes_docket="141924_8" theme_string="BAYOIL SUPPLY &amp; TRADING LTD. v. GULF INSURANCE CO. ET AL" gram_type="multi_line" relation_type="asymmetric" id="141924_12" ></RELATION>
+

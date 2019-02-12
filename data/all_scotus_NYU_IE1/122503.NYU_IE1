@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['enterprisescounty#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_822" id1="122510" volume="537" start="0" page_number="822" standard_reporter="U.S." citation_global_level_id="14674.002" line="1" id="122503_1" citation_local_level_id="0" >537 U.S. 822</CITATION>
+
+<CITATION party2="WASHINGTON COUNTY ET AL" party1="A. G. G. ENTERPRISES, INC." citation_global_level_id="14674.005" party2_short="COUNTY" line="1" id="122503_3" alternative_keys="['u.s._537_822']" end="70" entry_type="party_key" lookup_key="enterprisescounty#2" id1="122510" start="17" party1_short="ENTERPRISES" citation_local_level_id="1" >A. G. G. ENTERPRISES, INC. v. WASHINGTON COUNTY ET AL</CITATION>
+
+<NAME end="43" start="17" party1_of="122503_3" all_names="A G G ENTERPRISES INC" local_name_id="1" id="122503_4" >A. G. G. ENTERPRISES, INC.</NAME>
+
+<ORGANIZATION start="17" end="42" id="122503_8" >A. G. G. ENTERPRISES, INC</ORGANIZATION>
+
+<NAME end="70" start="47" all_names="WASHINGTON COUNTY" party2_of="122503_3" local_name_id="2" id="122503_5" >WASHINGTON COUNTY ET AL</NAME>
+
+<DOCKET end="87" entry_type="docket" lookup_key="u.s._537_822" id1="122510" start="80" citation_global_level_id="14674.002" line="1" id="122503_2" citation_local_level_id="0" >01-1805</DOCKET>
+
+<DATE start="83" end="87" id="122503_6" >1805</DATE>
+
+<DATE start="129" end="144" id="122503_7" >October 7, 2002</DATE>
+
+<NAME start="273" local_name_id="3" end="276" id="122503_16" all_names="CIR" >Cir</NAME>
+
+<CITATION end="327" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_281_1324" id1="Dummy_File_161873" volume="281" start="313" page_number="1324" standard_reporter="F.3D" citation_global_level_id="225723.001" line="3" id="122503_15" citation_local_level_id="2" >281 F. 3d 1324</CITATION>
+
+<RELATION theme="122503_1" includes_docket_string="01-1805" includes_docket="122503_2" theme_string="537 U.S. 822" gram_type="apposition" relation_type="asymmetric" id="122503_13" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 822" X_vs_Y_string="A. G. G. ENTERPRISES, INC. v. WASHINGTON COUNTY ET AL" standard_case="122503_1" X_vs_Y="122503_3" gram_type="pre_nom" relation_type="equivalence" id="122503_9" ></RELATION>
+
+<RELATION theme="122503_3" includes_docket_string="01-1805" includes_docket="122503_2" theme_string="A. G. G. ENTERPRISES, INC. v. WASHINGTON COUNTY ET AL" gram_type="apposition" relation_type="asymmetric" id="122503_12" ></RELATION>
+
+<RELATION theme="122503_3" party1="122503_4" party1_string="A. G. G. ENTERPRISES, INC." theme_string="A. G. G. ENTERPRISES, INC. v. WASHINGTON COUNTY ET AL" gram_type="infix" relation_type="asymmetric" id="122503_10" ></RELATION>
+
+<RELATION party2="122503_5" theme="122503_3" theme_string="A. G. G. ENTERPRISES, INC. v. WASHINGTON COUNTY ET AL" party2_string="WASHINGTON COUNTY ET AL" gram_type="infix" relation_type="asymmetric" id="122503_11" ></RELATION>
+
+<RELATION at_date_string="1805" theme="122503_2" at_date="122503_6" theme_string="01-1805" gram_type="infix" relation_type="asymmetric" id="122503_14" ></RELATION>
+

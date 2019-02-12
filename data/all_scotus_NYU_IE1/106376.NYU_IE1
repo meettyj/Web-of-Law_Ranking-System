@@ -1,0 +1,40 @@
+<CITATION alternative_keys="['smithbennett#2', 's.ct._82_879', 'l.ed.2d_8_6']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._369_425" id1="106376" volume="369" start="0" page_number="425" standard_reporter="U.S." citation_global_level_id="51487.002" line="1" id="106376_1" citation_local_level_id="0" >369 U.S. 425</CITATION>
+
+<CITATION alternative_keys="['u.s._369_425', 'smithbennett#2', 'l.ed.2d_8_6']" end="30" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._82_879" id1="106376" volume="82" start="17" page_number="879" standard_reporter="S.CT." citation_global_level_id="51487.003" line="1" id="106376_2" citation_local_level_id="1" >82 S. Ct. 879</CITATION>
+
+<NAME start="20" local_name_id="1" end="25" id="106376_8" all_names="S CT" >S. Ct</NAME>
+
+<CITATION alternative_keys="['u.s._369_425', 's.ct._82_879', 'smithbennett#2']" end="48" reporter="L. Ed. 2d" entry_type="standard_key" lookup_key="l.ed.2d_8_6" id1="106376" volume="8" start="35" page_number="6" standard_reporter="L.ED.2D" citation_global_level_id="51487.004" line="1" id="106376_3" citation_local_level_id="2" >8 L. Ed. 2d 6</CITATION>
+
+<CITATION party2="BENNETT" party1="SMITH et al." citation_global_level_id="51487.001" party2_short="BENNETT" line="1" id="106376_4" alternative_keys="['u.s._369_425', 's.ct._82_879', 'l.ed.2d_8_6']" end="76" entry_type="party_key" lookup_key="smithbennett#2" id1="106376" start="53" party1_short="SMITH" citation_local_level_id="3" >SMITH et al. v. BENNETT</CITATION>
+
+<NAME end="65" start="53" party1_of="106376_4" all_names="SMITH" local_name_id="2" id="106376_5" >SMITH et al.</NAME>
+
+<NAME end="76" start="69" all_names="BENNETT" party2_of="106376_4" local_name_id="3" id="106376_6" >BENNETT</NAME>
+
+<DATE start="140" end="154" id="106376_7" >April 16, 1962</DATE>
+
+<NAME start="192" local_name_id="4" end="204" id="106376_14" all_names="EVAN HULTMAN" >Evan Hultman</NAME>
+
+<PROFESSION start="206" document_level_name_id="4" end="224" id="106376_15" party="EVAN HULTMAN" >Atty. Gen. of Iowa</PROFESSION>
+
+<LEGAL_ROLE start="230" end="238" id="106376_16" party="party2" >appellee</LEGAL_ROLE>
+
+<NAME start="250" local_name_id="5" end="256" id="106376_18" all_names="CURIAM" >CURIAM</NAME>
+
+<NAME start="479" local_name_id="6" end="524" id="106376_19" all_names="MR JUSTICE FRANKFURTER AND MR JUSTICE WHITE" >Mr. Justice FRANKFURTER and Mr. Justice WHITE</NAME>
+
+<PROFESSION start="511" end="518" id="106376_20" >Justice</PROFESSION>
+
+<RELATION standard_case_string="369 U.S. 425" X_vs_Y_string="SMITH et al. v. BENNETT" standard_case="106376_1" X_vs_Y="106376_4" gram_type="pre_nom" relation_type="equivalence" id="106376_10" ></RELATION>
+
+<RELATION standard_case_string="82 S. Ct. 879" X_vs_Y_string="SMITH et al. v. BENNETT" standard_case="106376_2" X_vs_Y="106376_4" gram_type="pre_nom" relation_type="equivalence" id="106376_11" ></RELATION>
+
+<RELATION standard_case_string="8 L. Ed. 2d 6" X_vs_Y_string="SMITH et al. v. BENNETT" standard_case="106376_3" X_vs_Y="106376_4" gram_type="pre_nom" relation_type="equivalence" id="106376_9" ></RELATION>
+
+<RELATION theme="106376_4" party1="106376_5" party1_string="SMITH et al." theme_string="SMITH et al. v. BENNETT" gram_type="infix" relation_type="asymmetric" id="106376_12" ></RELATION>
+
+<RELATION party2="106376_6" theme="106376_4" theme_string="SMITH et al. v. BENNETT" party2_string="BENNETT" gram_type="infix" relation_type="asymmetric" id="106376_13" ></RELATION>
+
+<RELATION theme="106376_14" profession_string="Atty. Gen. of Iowa" theme_string="Evan Hultman" profession="106376_15" gram_type="apposition" relation_type="asymmetric" id="106376_17" ></RELATION>
+

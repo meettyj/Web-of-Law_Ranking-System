@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['wileystates#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1011" id1="115608" volume="510" start="0" page_number="1011" standard_reporter="U.S." citation_global_level_id="1007.002" line="1" id="115611_1" citation_local_level_id="0" >510 U.S. 1011</CITATION>
+
+<CITATION party2="United States" party1="Wiley" citation_global_level_id="1135.001" party2_short="States" line="1" id="115611_3" alternative_keys="['u.s._510_1011']" end="40" entry_type="party_key" lookup_key="wileystates#1" id1="115611" start="18" party1_short="Wiley" citation_local_level_id="1" >Wiley v. United States</CITATION>
+
+<NAME end="23" start="18" party1_of="115611_3" all_names="WILEY" local_name_id="1" id="115611_4" >Wiley</NAME>
+
+<NAME end="40" start="27" all_names="UNITED STATES" party2_of="115611_3" local_name_id="2" id="115611_5" >United States</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._510_1011" id1="115608" start="50" citation_global_level_id="1007.002" line="1" id="115611_2" citation_local_level_id="0" >93-506</DOCKET>
+
+<DATE start="98" end="114" id="115611_6" >December 6, 1993</DATE>
+
+<NAME start="192" local_name_id="3" end="202" id="115611_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="240" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_997_378" id1="Dummy_File_227669" volume="997" start="227" page_number="378" standard_reporter="F.2D" citation_global_level_id="291519.001" line="3" id="115611_12" citation_local_level_id="2" >997 F. 2d 378</CITATION>
+
+<RELATION theme="115611_1" includes_docket_string="93-506" includes_docket="115611_2" theme_string="510 U.S. 1011" gram_type="apposition" relation_type="asymmetric" id="115611_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1011" X_vs_Y_string="Wiley v. United States" standard_case="115611_1" X_vs_Y="115611_3" gram_type="pre_nom" relation_type="equivalence" id="115611_7" ></RELATION>
+
+<RELATION theme="115611_3" includes_docket_string="93-506" includes_docket="115611_2" theme_string="Wiley v. United States" gram_type="apposition" relation_type="asymmetric" id="115611_10" ></RELATION>
+
+<RELATION theme="115611_3" party1="115611_4" party1_string="Wiley" theme_string="Wiley v. United States" gram_type="infix" relation_type="asymmetric" id="115611_8" ></RELATION>
+
+<RELATION party2="115611_5" theme="115611_3" theme_string="Wiley v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="115611_9" ></RELATION>
+

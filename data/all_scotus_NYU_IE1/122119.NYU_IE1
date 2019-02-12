@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['mccoyindiana#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._536_978" id1="122124" volume="536" start="0" page_number="978" standard_reporter="U.S." citation_global_level_id="2096.002" line="1" id="122119_1" citation_local_level_id="0" >536 U.S. 978</CITATION>
+
+<CITATION party2="INDIANA" party1="MCCOY" citation_global_level_id="45902.001" party2_short="INDIANA" line="2" id="122119_2" alternative_keys="['u.s._536_978']" end="33" entry_type="party_key" lookup_key="mccoyindiana#2" id1="121446" start="17" party1_short="MCCOY" citation_local_level_id="1" >MCCOY v. INDIANA</CITATION>
+
+<NAME end="22" start="17" party1_of="122119_2" all_names="MCCOY" local_name_id="1" id="122119_3" >MCCOY</NAME>
+
+<NAME end="33" start="26" all_names="INDIANA" party2_of="122119_2" local_name_id="2" id="122119_4" >INDIANA</NAME>
+
+<DOCKET end="50" entry_type="docket" lookup_key="mccoyindiana#2" id1="121446" start="43" citation_global_level_id="45902.001" line="3" id="122119_7" citation_local_level_id="1" >01-9566</DOCKET>
+
+<DATE start="96" citation_global_level_id="45902.001" end="110" id="122119_8" citation_local_level_id="1" >August 5, 2002</DATE>
+
+<NAME start="132" local_name_id="3" end="141" id="122119_12" all_names="PETITIONS" >Petitions</NAME>
+
+<RELATION theme="122119_2" party1="122119_3" party1_string="MCCOY" theme_string="MCCOY v. INDIANA" gram_type="infix" relation_type="asymmetric" id="122119_5" ></RELATION>
+
+<RELATION party2="122119_4" theme="122119_2" theme_string="MCCOY v. INDIANA" party2_string="INDIANA" gram_type="infix" relation_type="asymmetric" id="122119_6" ></RELATION>
+
+<RELATION standard_case_string="536 U.S. 978" X_vs_Y_string="MCCOY v. INDIANA" standard_case="122119_1" X_vs_Y="122119_2" gram_type="multi_line" relation_type="equivalence" id="122119_9" ></RELATION>
+
+<RELATION at_date_string="August 5, 2002" theme="122119_2" at_date="122119_8" theme_string="MCCOY v. INDIANA" gram_type="multi_line" relation_type="asymmetric" id="122119_11" ></RELATION>
+
+<RELATION theme="122119_2" includes_docket_string="01-9566" includes_docket="122119_7" theme_string="MCCOY v. INDIANA" gram_type="multi_line" relation_type="asymmetric" id="122119_10" ></RELATION>
+

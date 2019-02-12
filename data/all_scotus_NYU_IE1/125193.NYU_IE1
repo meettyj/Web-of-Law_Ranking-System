@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['mcclainwarden#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1033" id1="125195" volume="537" start="0" page_number="1033" standard_reporter="U.S." citation_global_level_id="5600.002" line="1" id="125193_1" citation_local_level_id="0" >537 U.S. 1033</CITATION>
+
+<CITATION party2="HEAD, WARDEN" party1="McCLAIN" citation_global_level_id="60681.001" party2_short="WARDEN" line="1" id="125193_3" alternative_keys="['u.s._537_1033']" end="41" entry_type="party_key" lookup_key="mcclainwarden#1" id1="125193" start="18" party1_short="McCLAIN" citation_local_level_id="1" >McCLAIN v. HEAD, WARDEN</CITATION>
+
+<NAME end="25" start="18" party1_of="125193_3" all_names="MCCLAIN" local_name_id="1" id="125193_4" >McCLAIN</NAME>
+
+<NAME end="41" start="29" all_names="HEAD WARDEN" party2_of="125193_3" local_name_id="2" id="125193_5" >HEAD, WARDEN</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._537_1033" id1="125195" start="51" citation_global_level_id="5600.002" line="1" id="125193_2" citation_local_level_id="0" >02-6392</DOCKET>
+
+<DATE start="100" end="117" id="125193_6" >November 18, 2002</DATE>
+
+<NAME start="208" local_name_id="3" end="211" id="125193_12" all_names="SUP" >Sup</NAME>
+
+<RELATION theme="125193_1" includes_docket_string="02-6392" includes_docket="125193_2" theme_string="537 U.S. 1033" gram_type="apposition" relation_type="asymmetric" id="125193_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1033" X_vs_Y_string="McCLAIN v. HEAD, WARDEN" standard_case="125193_1" X_vs_Y="125193_3" gram_type="pre_nom" relation_type="equivalence" id="125193_7" ></RELATION>
+
+<RELATION theme="125193_3" includes_docket_string="02-6392" includes_docket="125193_2" theme_string="McCLAIN v. HEAD, WARDEN" gram_type="apposition" relation_type="asymmetric" id="125193_10" ></RELATION>
+
+<RELATION theme="125193_3" party1="125193_4" party1_string="McCLAIN" theme_string="McCLAIN v. HEAD, WARDEN" gram_type="infix" relation_type="asymmetric" id="125193_8" ></RELATION>
+
+<RELATION party2="125193_5" theme="125193_3" theme_string="McCLAIN v. HEAD, WARDEN" party2_string="HEAD, WARDEN" gram_type="infix" relation_type="asymmetric" id="125193_9" ></RELATION>
+

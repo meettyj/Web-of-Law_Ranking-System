@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['stidhamflorida#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_899" id1="139058" volume="543" start="0" page_number="899" standard_reporter="U.S." citation_global_level_id="4159.002" line="1" id="139056_1" citation_local_level_id="0" >543 U.S. 899</CITATION>
+
+<CITATION party2="FLORIDA" party1="STIDHAM" citation_global_level_id="6325.001" party2_short="FLORIDA" line="2" id="139056_2" alternative_keys="['u.s._543_899']" end="35" entry_type="party_key" lookup_key="stidhamflorida#1" id1="139056" start="17" party1_short="STIDHAM" citation_local_level_id="1" >STIDHAM v. FLORIDA</CITATION>
+
+<NAME end="24" start="17" party1_of="139056_2" all_names="STIDHAM" local_name_id="1" id="139056_3" >STIDHAM</NAME>
+
+<NAME end="35" start="28" all_names="FLORIDA" party2_of="139056_2" local_name_id="2" id="139056_4" >FLORIDA</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="stidhamflorida#1" id1="139056" start="45" citation_global_level_id="6325.001" line="3" id="139056_7" citation_local_level_id="1" >04-5421</DOCKET>
+
+<ORGANIZATION start="58" end="88" id="139056_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="94" citation_global_level_id="6325.001" end="109" id="139056_9" citation_local_level_id="1" >October 4, 2004</DATE>
+
+<NAME start="131" local_name_id="3" end="134" id="139056_14" all_names="SUP" >Sup</NAME>
+
+<CITATION end="195" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_874_1193" id1="Dummy_File_225829" volume="874" start="180" page_number="1193" standard_reporter="SO.2D" citation_global_level_id="289679.001" line="8" id="139056_13" citation_local_level_id="2" >874 So. 2d 1193</CITATION>
+
+<RELATION theme="139056_2" party1="139056_3" party1_string="STIDHAM" theme_string="STIDHAM v. FLORIDA" gram_type="infix" relation_type="asymmetric" id="139056_5" ></RELATION>
+
+<RELATION party2="139056_4" theme="139056_2" theme_string="STIDHAM v. FLORIDA" party2_string="FLORIDA" gram_type="infix" relation_type="asymmetric" id="139056_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 899" X_vs_Y_string="STIDHAM v. FLORIDA" standard_case="139056_1" X_vs_Y="139056_2" gram_type="multi_line" relation_type="equivalence" id="139056_10" ></RELATION>
+
+<RELATION at_date_string="October 4, 2004" theme="139056_2" at_date="139056_9" theme_string="STIDHAM v. FLORIDA" gram_type="multi_line" relation_type="asymmetric" id="139056_12" ></RELATION>
+
+<RELATION theme="139056_2" includes_docket_string="04-5421" includes_docket="139056_7" theme_string="STIDHAM v. FLORIDA" gram_type="multi_line" relation_type="asymmetric" id="139056_11" ></RELATION>
+

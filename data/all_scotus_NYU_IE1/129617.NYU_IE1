@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['friedmangroup#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1033" id1="129615" volume="538" start="0" page_number="1033" standard_reporter="U.S." citation_global_level_id="7358.002" line="1" id="129617_1" citation_local_level_id="0" >538 U.S. 1033</CITATION>
+
+<CITATION party2="SOUTHERN CALIFORNIA PERMANENTE MEDICAL GROUP ET AL" party1="FRIEDMAN" citation_global_level_id="7358.005" party2_short="GROUP" line="1" id="129617_3" alternative_keys="['u.s._538_1033']" end="80" entry_type="party_key" lookup_key="friedmangroup#1" id1="129615" start="18" party1_short="FRIEDMAN" citation_local_level_id="1" >FRIEDMAN v. SOUTHERN CALIFORNIA PERMANENTE MEDICAL GROUP ET AL</CITATION>
+
+<NAME end="26" start="18" party1_of="129617_3" all_names="FRIEDMAN" local_name_id="1" id="129617_4" >FRIEDMAN</NAME>
+
+<NAME end="80" start="30" all_names="SOUTHERN CALIFORNIA PERMANENTE MEDICAL GROUP" party2_of="129617_3" local_name_id="2" id="129617_5" >SOUTHERN CALIFORNIA PERMANENTE MEDICAL GROUP ET AL</NAME>
+
+<DOCKET end="97" entry_type="docket" lookup_key="u.s._538_1033" id1="129615" start="90" citation_global_level_id="7358.002" line="1" id="129617_2" citation_local_level_id="0" >02-1340</DOCKET>
+
+<DATE start="139" end="151" id="129617_6" >May 19, 2003</DATE>
+
+<NAME start="282" local_name_id="3" end="284" id="129617_13" all_names="CT" >Ct</NAME>
+
+<CITATION end="389" reporter="Cal. Rptr. 2d" entry_type="standard_key" no_current_file="True" lookup_key="cal.rptr.2d_125_663" id1="Dummy_File_212114" volume="125" start="368" page_number="663" standard_reporter="CAL.RPTR.2D" citation_global_level_id="275964.001" line="3" id="129617_12" citation_local_level_id="2" >125 Cal. Rptr. 2d 663</CITATION>
+
+<RELATION theme="129617_1" includes_docket_string="02-1340" includes_docket="129617_2" theme_string="538 U.S. 1033" gram_type="apposition" relation_type="asymmetric" id="129617_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1033" X_vs_Y_string="FRIEDMAN v. SOUTHERN CALIFORNIA PERMANENTE MEDICAL GROUP ET AL" standard_case="129617_1" X_vs_Y="129617_3" gram_type="pre_nom" relation_type="equivalence" id="129617_7" ></RELATION>
+
+<RELATION theme="129617_3" includes_docket_string="02-1340" includes_docket="129617_2" theme_string="FRIEDMAN v. SOUTHERN CALIFORNIA PERMANENTE MEDICAL GROUP ET AL" gram_type="apposition" relation_type="asymmetric" id="129617_10" ></RELATION>
+
+<RELATION theme="129617_3" party1="129617_4" party1_string="FRIEDMAN" theme_string="FRIEDMAN v. SOUTHERN CALIFORNIA PERMANENTE MEDICAL GROUP ET AL" gram_type="infix" relation_type="asymmetric" id="129617_8" ></RELATION>
+
+<RELATION party2="129617_5" theme="129617_3" theme_string="FRIEDMAN v. SOUTHERN CALIFORNIA PERMANENTE MEDICAL GROUP ET AL" party2_string="SOUTHERN CALIFORNIA PERMANENTE MEDICAL GROUP ET AL" gram_type="infix" relation_type="asymmetric" id="129617_9" ></RELATION>
+

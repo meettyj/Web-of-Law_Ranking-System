@@ -1,0 +1,42 @@
+<CITATION alternative_keys="['ibarrastates#4', 'benitezstates#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_899" id1="139058" volume="543" start="0" page_number="899" standard_reporter="U.S." citation_global_level_id="4159.002" line="1" id="139054_1" citation_local_level_id="0" >543 U.S. 899</CITATION>
+
+<CITATION party2="UNITED STATES" party1="BENITEZ-BENITEZ" citation_global_level_id="21295.001" party2_short="STATES" line="2" id="139054_2" alternative_keys="['u.s._543_899', 'ibarrastates#4']" end="49" entry_type="party_key" lookup_key="benitezstates#2" id1="122903" start="17" party1_short="BENITEZ" citation_local_level_id="1" >BENITEZ-BENITEZ v. UNITED STATES</CITATION>
+
+<NAME end="32" start="17" party1_of="139054_2" all_names="BENITEZ-BENITEZ" local_name_id="1" id="139054_4" >BENITEZ-BENITEZ</NAME>
+
+<NAME end="49" start="36" all_names="UNITED STATES" party2_of="139054_2" local_name_id="2" id="139054_5" >UNITED STATES</NAME>
+
+<CITATION party2="UNITED STATES" party1="RAMIREZ-IBARRA, AKA ROSARIO, AKA RAMIREZ, AKA CRUZ ROSARIO" citation_global_level_id="52267.001" party2_short="STATES" line="2" id="139054_3" alternative_keys="['u.s._543_899', 'benitezstates#2']" end="130" entry_type="party_key" lookup_key="ibarrastates#4" id1="117756" start="55" party1_short="IBARRA" citation_local_level_id="2" >RAMIREZ-IBARRA, AKA ROSARIO, AKA RAMIREZ, AKA CRUZ ROSARIO v. UNITED STATES</CITATION>
+
+<NAME end="113" start="55" party1_of="139054_3" all_names="RAMIREZ-IBARRA AKA ROSARIO AKA RAMIREZ AKA CRUZ ROSARIO" local_name_id="3" id="139054_6" >RAMIREZ-IBARRA, AKA ROSARIO, AKA RAMIREZ, AKA CRUZ ROSARIO</NAME>
+
+<NAME end="130" start="117" all_names="UNITED STATES" party2_of="139054_3" local_name_id="2" id="139054_7" >UNITED STATES</NAME>
+
+<DOCKET end="147" entry_type="docket" lookup_key="benitezstates#2" id1="122903" start="140" citation_global_level_id="21295.001" line="3" id="139054_12" citation_local_level_id="1" >04-5428</DOCKET>
+
+<ORGANIZATION start="153" end="183" id="139054_13" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="189" citation_global_level_id="21295.001" end="204" id="139054_14" citation_local_level_id="1" >October 4, 2004</DATE>
+
+<NAME start="236" local_name_id="4" end="239" id="139054_21" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="139054_2" party1="139054_4" party1_string="BENITEZ-BENITEZ" theme_string="BENITEZ-BENITEZ v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="139054_8" ></RELATION>
+
+<RELATION party2="139054_5" theme="139054_2" theme_string="BENITEZ-BENITEZ v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="139054_9" ></RELATION>
+
+<RELATION theme="139054_3" party1="139054_6" party1_string="RAMIREZ-IBARRA, AKA ROSARIO, AKA RAMIREZ, AKA CRUZ ROSARIO" theme_string="RAMIREZ-IBARRA, AKA ROSARIO, AKA RAMIREZ, AKA CRUZ ROSARIO v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="139054_10" ></RELATION>
+
+<RELATION party2="139054_7" theme="139054_3" theme_string="RAMIREZ-IBARRA, AKA ROSARIO, AKA RAMIREZ, AKA CRUZ ROSARIO v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="139054_11" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 899" X_vs_Y_string="RAMIREZ-IBARRA, AKA ROSARIO, AKA RAMIREZ, AKA CRUZ ROSARIO v. UNITED STATES" standard_case="139054_1" X_vs_Y="139054_3" gram_type="multi_line" relation_type="equivalence" id="139054_18" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 899" X_vs_Y_string="BENITEZ-BENITEZ v. UNITED STATES" standard_case="139054_1" X_vs_Y="139054_2" gram_type="multi_line" relation_type="equivalence" id="139054_15" ></RELATION>
+
+<RELATION at_date_string="October 4, 2004" theme="139054_2" at_date="139054_14" theme_string="BENITEZ-BENITEZ v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="139054_17" ></RELATION>
+
+<RELATION theme="139054_2" includes_docket_string="04-5428" includes_docket="139054_12" theme_string="BENITEZ-BENITEZ v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="139054_16" ></RELATION>
+
+<RELATION at_date_string="October 4, 2004" theme="139054_3" at_date="139054_14" theme_string="RAMIREZ-IBARRA, AKA ROSARIO, AKA RAMIREZ, AKA CRUZ ROSARIO v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="139054_20" ></RELATION>
+
+<RELATION theme="139054_3" includes_docket_string="04-5428" includes_docket="139054_12" theme_string="RAMIREZ-IBARRA, AKA ROSARIO, AKA RAMIREZ, AKA CRUZ ROSARIO v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="139054_19" ></RELATION>
+

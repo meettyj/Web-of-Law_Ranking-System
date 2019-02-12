@@ -1,0 +1,38 @@
+<CITATION alternative_keys="['donovanstates#4']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1069" id1="116326" volume="510" start="0" page_number="1069" standard_reporter="U.S." citation_global_level_id="25702.002" line="1" id="116328_1" citation_local_level_id="0" >510 U.S. 1069</CITATION>
+
+<CITATION party2="United States" party1="Donovan" citation_global_level_id="50705.001" party2_short="States" line="1" id="116328_3" alternative_keys="['u.s._510_1069']" end="42" entry_type="party_key" lookup_key="donovanstates#4" id1="116328" start="18" party1_short="Donovan" citation_local_level_id="1" >Donovan v. United States</CITATION>
+
+<NAME end="25" start="18" party1_of="116328_3" all_names="DONOVAN" local_name_id="1" id="116328_4" >Donovan</NAME>
+
+<NAME end="42" start="29" all_names="UNITED STATES" party2_of="116328_3" local_name_id="2" id="116328_5" >United States</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="u.s._510_1069" id1="116326" start="52" citation_global_level_id="25702.002" line="1" id="116328_2" citation_local_level_id="0" >92-8218</DOCKET>
+
+<DATE start="101" end="117" id="116328_6" >January 18, 1994</DATE>
+
+<LEGAL_ROLE start="195" end="215" id="116328_16" >Motion of petitioner</LEGAL_ROLE>
+
+<NAME start="264" local_name_id="3" end="274" id="116328_17" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION party2="United States" party1="Ratzlaf" citation_global_level_id="49463.001" party2_short="States" line="3" id="116328_13" end="382" entry_type="party_key" lookup_key="ratzlafstates#1" id1="112919" start="358" party1_short="Ratzlaf" citation_local_level_id="2" >Ratzlaf v. United States</CITATION>
+
+<NAME end="365" start="358" party1_of="116328_13" all_names="RATZLAF" local_name_id="4" id="116328_14" >Ratzlaf</NAME>
+
+<NAME end="382" start="369" all_names="UNITED STATES" party2_of="116328_13" local_name_id="2" id="116328_15" >United States</NAME>
+
+<CITATION end="427" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_984_493" id1="Dummy_File_101625" volume="984" start="414" page_number="493" standard_reporter="F.2D" citation_global_level_id="165475.001" line="3" id="116328_12" citation_local_level_id="3" >984 F. 2d 493</CITATION>
+
+<RELATION theme="116328_1" includes_docket_string="92-8218" includes_docket="116328_2" theme_string="510 U.S. 1069" gram_type="apposition" relation_type="asymmetric" id="116328_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1069" X_vs_Y_string="Donovan v. United States" standard_case="116328_1" X_vs_Y="116328_3" gram_type="pre_nom" relation_type="equivalence" id="116328_7" ></RELATION>
+
+<RELATION theme="116328_3" includes_docket_string="92-8218" includes_docket="116328_2" theme_string="Donovan v. United States" gram_type="apposition" relation_type="asymmetric" id="116328_10" ></RELATION>
+
+<RELATION theme="116328_3" party1="116328_4" party1_string="Donovan" theme_string="Donovan v. United States" gram_type="infix" relation_type="asymmetric" id="116328_8" ></RELATION>
+
+<RELATION party2="116328_5" theme="116328_3" theme_string="Donovan v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="116328_9" ></RELATION>
+
+<RELATION theme="116328_13" party1="116328_14" party1_string="Ratzlaf" theme_string="Ratzlaf v. United States" gram_type="infix" relation_type="asymmetric" id="116328_18" ></RELATION>
+
+<RELATION party2="116328_15" theme="116328_13" theme_string="Ratzlaf v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="116328_19" ></RELATION>
+

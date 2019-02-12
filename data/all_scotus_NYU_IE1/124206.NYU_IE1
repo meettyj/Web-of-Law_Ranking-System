@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['schneidercounty#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_949" id1="124205" volume="537" start="0" page_number="949" standard_reporter="U.S." citation_global_level_id="2777.002" line="1" id="124206_1" citation_local_level_id="0" >537 U.S. 949</CITATION>
+
+<CITATION party2="COUNTY OF SAN DIEGO ET AL" party1="SCHNEIDER" citation_global_level_id="60483.001" party2_short="COUNTY" line="1" id="124206_3" alternative_keys="['u.s._537_949']" end="55" entry_type="party_key" lookup_key="schneidercounty#1" id1="124206" start="17" party1_short="SCHNEIDER" citation_local_level_id="1" >SCHNEIDER v. COUNTY OF SAN DIEGO ET AL</CITATION>
+
+<NAME end="26" start="17" party1_of="124206_3" all_names="SCHNEIDER" local_name_id="1" id="124206_4" >SCHNEIDER</NAME>
+
+<NAME end="55" start="30" all_names="COUNTY OF SAN DIEGO" party2_of="124206_3" local_name_id="2" id="124206_5" >COUNTY OF SAN DIEGO ET AL</NAME>
+
+<DOCKET end="71" entry_type="docket" lookup_key="u.s._537_949" id1="124205" start="65" citation_global_level_id="2777.002" line="1" id="124206_2" citation_local_level_id="0" >02-244</DOCKET>
+
+<DATE start="113" end="129" id="124206_6" >October 15, 2002</DATE>
+
+<NAME start="258" local_name_id="3" end="261" id="124206_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="124206_1" includes_docket_string="02-244" includes_docket="124206_2" theme_string="537 U.S. 949" gram_type="apposition" relation_type="asymmetric" id="124206_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 949" X_vs_Y_string="SCHNEIDER v. COUNTY OF SAN DIEGO ET AL" standard_case="124206_1" X_vs_Y="124206_3" gram_type="pre_nom" relation_type="equivalence" id="124206_7" ></RELATION>
+
+<RELATION theme="124206_3" includes_docket_string="02-244" includes_docket="124206_2" theme_string="SCHNEIDER v. COUNTY OF SAN DIEGO ET AL" gram_type="apposition" relation_type="asymmetric" id="124206_10" ></RELATION>
+
+<RELATION theme="124206_3" party1="124206_4" party1_string="SCHNEIDER" theme_string="SCHNEIDER v. COUNTY OF SAN DIEGO ET AL" gram_type="infix" relation_type="asymmetric" id="124206_8" ></RELATION>
+
+<RELATION party2="124206_5" theme="124206_3" theme_string="SCHNEIDER v. COUNTY OF SAN DIEGO ET AL" party2_string="COUNTY OF SAN DIEGO ET AL" gram_type="infix" relation_type="asymmetric" id="124206_9" ></RELATION>
+

@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['nixonleague#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_1015" id1="133919" volume="540" start="0" page_number="1015" standard_reporter="U.S." citation_global_level_id="11646.002" line="1" id="133913_1" citation_local_level_id="0" >540 U.S. 1015</CITATION>
+
+<CITATION party2="MISSOURI MUNICIPAL LEAGUE ET AL" party1="NIXON, ATTORNEY GENERAL OF MISSOURI" citation_global_level_id="14377.001" party2_short="LEAGUE" line="1" id="133913_4" alternative_keys="['u.s._540_1015']" end="88" entry_type="party_key" lookup_key="nixonleague#1" id1="134728" start="18" party1_short="NIXON" citation_local_level_id="1" >NIXON, ATTORNEY GENERAL OF MISSOURI v. MISSOURI MUNICIPAL LEAGUE ET AL</CITATION>
+
+<NAME end="53" start="18" party1_of="133913_4" all_names="NIXON ATTORNEY GENERAL OF MISSOURI" local_name_id="1" id="133913_5" >NIXON, ATTORNEY GENERAL OF MISSOURI</NAME>
+
+<NAME start="18" local_name_id="2" end="23" id="133913_8" all_names="NIXON" >NIXON</NAME>
+
+<PROFESSION start="25" end="53" id="133913_9" >ATTORNEY GENERAL OF MISSOURI</PROFESSION>
+
+<NAME end="88" start="57" all_names="MISSOURI MUNICIPAL LEAGUE" party2_of="133913_4" local_name_id="3" id="133913_6" >MISSOURI MUNICIPAL LEAGUE ET AL</NAME>
+
+<DOCKET end="105" entry_type="docket" lookup_key="u.s._540_1015" id1="133919" start="98" citation_global_level_id="11646.002" line="1" id="133913_3" citation_local_level_id="0" >02-1238</DOCKET>
+
+<DATE start="147" end="164" id="133913_7" >November 17, 2003</DATE>
+
+<CITATION end="251" reporter="U. S." entry_type="standard_key" lookup_key="u.s._539_941" id1="130653" volume="539" start="238" page_number="941" standard_reporter="U.S." citation_global_level_id="5554.002" line="1" id="133913_2" citation_local_level_id="2" >539 U. S. 941</CITATION>
+
+<PROFESSION start="279" end="310" id="133913_15" >Motion of the Solicitor General</PROFESSION>
+
+<RELATION theme="133913_1" includes_docket_string="02-1238" includes_docket="133913_3" theme_string="540 U.S. 1015" gram_type="apposition" relation_type="asymmetric" id="133913_14" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 1015" X_vs_Y_string="NIXON, ATTORNEY GENERAL OF MISSOURI v. MISSOURI MUNICIPAL LEAGUE ET AL" standard_case="133913_1" X_vs_Y="133913_4" gram_type="pre_nom" relation_type="equivalence" id="133913_10" ></RELATION>
+
+<RELATION theme="133913_4" includes_docket_string="02-1238" includes_docket="133913_3" theme_string="NIXON, ATTORNEY GENERAL OF MISSOURI v. MISSOURI MUNICIPAL LEAGUE ET AL" gram_type="apposition" relation_type="asymmetric" id="133913_13" ></RELATION>
+
+<RELATION theme="133913_4" party1="133913_5" party1_string="NIXON, ATTORNEY GENERAL OF MISSOURI" theme_string="NIXON, ATTORNEY GENERAL OF MISSOURI v. MISSOURI MUNICIPAL LEAGUE ET AL" gram_type="infix" relation_type="asymmetric" id="133913_11" ></RELATION>
+
+<RELATION party2="133913_6" theme="133913_4" theme_string="NIXON, ATTORNEY GENERAL OF MISSOURI v. MISSOURI MUNICIPAL LEAGUE ET AL" party2_string="MISSOURI MUNICIPAL LEAGUE ET AL" gram_type="infix" relation_type="asymmetric" id="133913_12" ></RELATION>
+

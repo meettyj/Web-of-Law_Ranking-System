@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['lawsoncrosby#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_1038" id1="136223" volume="541" start="0" page_number="1038" standard_reporter="U.S." citation_global_level_id="782.002" line="1" id="136225_1" citation_local_level_id="0" >541 U.S. 1038</CITATION>
+
+<CITATION party2="CROSBY, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS, ET AL" party1="LAWSON" citation_global_level_id="782.005" party2_short="CROSBY" line="2" id="136225_2" alternative_keys="['u.s._541_1038']" end="87" entry_type="party_key" lookup_key="lawsoncrosby#1" id1="136223" start="18" party1_short="LAWSON" citation_local_level_id="1" >LAWSON v. CROSBY, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS, ET AL</CITATION>
+
+<NAME end="24" start="18" party1_of="136225_2" all_names="LAWSON" local_name_id="1" id="136225_3" >LAWSON</NAME>
+
+<NAME end="87" start="28" all_names="CROSBY SECRETARY FLORIDA DEPARTMENT OF CORRECTIONS" party2_of="136225_2" local_name_id="2" id="136225_4" >CROSBY, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS, ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._541_1038']" end="105" entry_type="docket" lookup_key="lawsoncrosby#1" id1="136223" start="98" citation_global_level_id="782.005" line="3" id="136225_7" citation_local_level_id="1" >03-8439</DOCKET>
+
+<ORGANIZATION start="111" end="141" id="136225_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="147" citation_global_level_id="782.005" end="158" id="136225_9" citation_local_level_id="1" >May 3, 2004</DATE>
+
+<CITATION end="193" reporter="U.S." entry_type="standard_key" no_current_file="True" lookup_key="u.s._540_1208" id1="Dummy_File_58067" volume="540" start="180" page_number="1208" standard_reporter="U.S." citation_global_level_id="121917.001" line="8" id="136225_13" citation_local_level_id="2" >540 U.S. 1208</CITATION>
+
+<NAME start="195" local_name_id="3" end="204" id="136225_14" all_names="PETITIONS" >Petitions</NAME>
+
+<RELATION theme="136225_2" party1="136225_3" party1_string="LAWSON" theme_string="LAWSON v. CROSBY, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS, ET AL" gram_type="infix" relation_type="asymmetric" id="136225_5" ></RELATION>
+
+<RELATION party2="136225_4" theme="136225_2" theme_string="LAWSON v. CROSBY, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS, ET AL" party2_string="CROSBY, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS, ET AL" gram_type="infix" relation_type="asymmetric" id="136225_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 1038" X_vs_Y_string="LAWSON v. CROSBY, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS, ET AL" standard_case="136225_1" X_vs_Y="136225_2" gram_type="multi_line" relation_type="equivalence" id="136225_10" ></RELATION>
+
+<RELATION at_date_string="May 3, 2004" theme="136225_2" at_date="136225_9" theme_string="LAWSON v. CROSBY, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS, ET AL" gram_type="multi_line" relation_type="asymmetric" id="136225_12" ></RELATION>
+
+<RELATION theme="136225_2" includes_docket_string="03-8439" includes_docket="136225_7" theme_string="LAWSON v. CROSBY, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS, ET AL" gram_type="multi_line" relation_type="asymmetric" id="136225_11" ></RELATION>
+

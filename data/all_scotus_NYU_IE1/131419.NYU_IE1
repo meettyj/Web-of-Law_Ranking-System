@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['sheppardbeerman#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_822" id1="131425" volume="540" start="0" page_number="822" standard_reporter="U.S." citation_global_level_id="9693.002" line="1" id="131419_1" citation_local_level_id="0" >540 U.S. 822</CITATION>
+
+<CITATION party2="BEERMAN, JUSTICE, SUPREME COURT OF NEW YORK" party1="SHEPPARD" citation_global_level_id="9693.008" party2_short="BEERMAN" line="1" id="131419_3" alternative_keys="['u.s._540_822']" end="72" entry_type="party_key" lookup_key="sheppardbeerman#1" id1="131425" start="17" party1_short="SHEPPARD" citation_local_level_id="1" >SHEPPARD v. BEERMAN, JUSTICE, SUPREME COURT OF NEW YORK</CITATION>
+
+<NAME end="25" start="17" party1_of="131419_3" all_names="SHEPPARD" local_name_id="1" id="131419_4" >SHEPPARD</NAME>
+
+<NAME end="72" start="29" all_names="BEERMAN JUSTICE SUPREME COURT OF NEW YORK" party2_of="131419_3" local_name_id="2" id="131419_5" >BEERMAN, JUSTICE, SUPREME COURT OF NEW YORK</NAME>
+
+<DOCKET end="89" entry_type="docket" lookup_key="u.s._540_822" id1="131425" start="82" citation_global_level_id="9693.002" line="1" id="131419_2" citation_local_level_id="0" >02-1798</DOCKET>
+
+<DATE start="85" end="89" id="131419_6" >1798</DATE>
+
+<DATE start="131" end="146" id="131419_7" >October 6, 2003</DATE>
+
+<NAME start="223" local_name_id="3" end="233" id="131419_15" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="270" reporter="F.3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_317_351" id1="Dummy_File_235368" volume="317" start="258" page_number="351" standard_reporter="F.3D" citation_global_level_id="299218.001" line="3" id="131419_14" citation_local_level_id="2" >317 F.3d 351</CITATION>
+
+<RELATION theme="131419_1" includes_docket_string="02-1798" includes_docket="131419_2" theme_string="540 U.S. 822" gram_type="apposition" relation_type="asymmetric" id="131419_12" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 822" X_vs_Y_string="SHEPPARD v. BEERMAN, JUSTICE, SUPREME COURT OF NEW YORK" standard_case="131419_1" X_vs_Y="131419_3" gram_type="pre_nom" relation_type="equivalence" id="131419_8" ></RELATION>
+
+<RELATION theme="131419_3" includes_docket_string="02-1798" includes_docket="131419_2" theme_string="SHEPPARD v. BEERMAN, JUSTICE, SUPREME COURT OF NEW YORK" gram_type="apposition" relation_type="asymmetric" id="131419_11" ></RELATION>
+
+<RELATION party2="131419_5" theme="131419_3" theme_string="SHEPPARD v. BEERMAN, JUSTICE, SUPREME COURT OF NEW YORK" party2_string="BEERMAN, JUSTICE, SUPREME COURT OF NEW YORK" gram_type="infix" relation_type="asymmetric" id="131419_10" ></RELATION>
+
+<RELATION theme="131419_3" party1="131419_4" party1_string="SHEPPARD" theme_string="SHEPPARD v. BEERMAN, JUSTICE, SUPREME COURT OF NEW YORK" gram_type="infix" relation_type="asymmetric" id="131419_9" ></RELATION>
+
+<RELATION at_date_string="1798" theme="131419_2" at_date="131419_6" theme_string="02-1798" gram_type="infix" relation_type="asymmetric" id="131419_13" ></RELATION>
+

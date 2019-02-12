@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['brockwilson#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_909" id1="134875" volume="541" start="0" page_number="909" standard_reporter="U.S." citation_global_level_id="11604.002" line="1" id="134866_1" citation_local_level_id="0" >541 U.S. 909</CITATION>
+
+<CITATION party2="WILSON, SUPERINTENDENT, MISSISSIPPI STATE PENITENTIARY" party1="VON BROCK" citation_global_level_id="11604.003" party2_short="WILSON" line="2" id="134866_2" alternative_keys="['u.s._541_909']" end="84" entry_type="party_key" lookup_key="brockwilson#1" id1="134875" start="17" party1_short="BROCK" citation_local_level_id="1" >VON BROCK v. WILSON, SUPERINTENDENT, MISSISSIPPI STATE PENITENTIARY</CITATION>
+
+<NAME end="26" start="17" party1_of="134866_2" all_names="VON BROCK" local_name_id="1" id="134866_3" >VON BROCK</NAME>
+
+<NAME end="84" start="30" all_names="WILSON SUPERINTENDENT MISSISSIPPI STATE PENITENTIARY" party2_of="134866_2" local_name_id="2" id="134866_4" >WILSON, SUPERINTENDENT, MISSISSIPPI STATE PENITENTIARY</NAME>
+
+<DOCKET alternative_keys="['u.s._541_909']" end="101" entry_type="docket" lookup_key="brockwilson#1" id1="134875" start="94" citation_global_level_id="11604.003" line="3" id="134866_7" citation_local_level_id="1" >03-8448</DOCKET>
+
+<ORGANIZATION start="107" end="137" id="134866_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="143" citation_global_level_id="11604.003" end="156" id="134866_9" citation_local_level_id="1" >March 8, 2004</DATE>
+
+<NAME start="188" local_name_id="3" end="191" id="134866_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="134866_2" party1="134866_3" party1_string="VON BROCK" theme_string="VON BROCK v. WILSON, SUPERINTENDENT, MISSISSIPPI STATE PENITENTIARY" gram_type="infix" relation_type="asymmetric" id="134866_5" ></RELATION>
+
+<RELATION party2="134866_4" theme="134866_2" theme_string="VON BROCK v. WILSON, SUPERINTENDENT, MISSISSIPPI STATE PENITENTIARY" party2_string="WILSON, SUPERINTENDENT, MISSISSIPPI STATE PENITENTIARY" gram_type="infix" relation_type="asymmetric" id="134866_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 909" X_vs_Y_string="VON BROCK v. WILSON, SUPERINTENDENT, MISSISSIPPI STATE PENITENTIARY" standard_case="134866_1" X_vs_Y="134866_2" gram_type="multi_line" relation_type="equivalence" id="134866_10" ></RELATION>
+
+<RELATION at_date_string="March 8, 2004" theme="134866_2" at_date="134866_9" theme_string="VON BROCK v. WILSON, SUPERINTENDENT, MISSISSIPPI STATE PENITENTIARY" gram_type="multi_line" relation_type="asymmetric" id="134866_12" ></RELATION>
+
+<RELATION theme="134866_2" includes_docket_string="03-8448" includes_docket="134866_7" theme_string="VON BROCK v. WILSON, SUPERINTENDENT, MISSISSIPPI STATE PENITENTIARY" gram_type="multi_line" relation_type="asymmetric" id="134866_11" ></RELATION>
+

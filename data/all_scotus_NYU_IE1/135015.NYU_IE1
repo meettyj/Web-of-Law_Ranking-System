@@ -1,0 +1,34 @@
+<CITATION alternative_keys="['insuranceindustries#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_939" id1="135006" volume="541" start="0" page_number="939" standard_reporter="U.S." citation_global_level_id="1401.002" line="1" id="135015_1" citation_local_level_id="0" >541 U.S. 939</CITATION>
+
+<CITATION party2="PG] TERRA INDUSTRIES, INC., ET AL" party1="NATIONAL UNION FIRE INSURANCE CO. OF PITTSBURGH" citation_global_level_id="1401.003" party2_short="INDUSTRIES" line="2" id="135015_3" alternative_keys="['u.s._541_939']" end="102" entry_type="party_key" lookup_key="insuranceindustries#1" id1="135006" start="17" party1_short="INSURANCE" citation_local_level_id="1" >NATIONAL UNION FIRE INSURANCE CO. OF PITTSBURGH v. [PG] TERRA INDUSTRIES, INC., ET AL</CITATION>
+
+<NAME end="64" start="17" party1_of="135015_3" all_names="NATIONAL UNION FIRE INSURANCE CO OF PITTSBURGH" local_name_id="1" id="135015_4" >NATIONAL UNION FIRE INSURANCE CO. OF PITTSBURGH</NAME>
+
+<NAME start="17" local_name_id="2" end="46" id="135015_6" all_names="NATIONAL UNION FIRE INSURANCE" >NATIONAL UNION FIRE INSURANCE</NAME>
+
+<ORGANIZATION start="26" end="31" id="135015_7" >UNION</ORGANIZATION>
+
+<ORGANIZATION start="47" end="64" id="135015_8" >CO. OF PITTSBURGH</ORGANIZATION>
+
+<NAME end="102" start="69" all_names="PG] TERRA INDUSTRIES INC" party2_of="135015_3" local_name_id="3" id="135015_5" >PG] TERRA INDUSTRIES, INC., ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._541_939']" end="119" entry_type="docket" lookup_key="insuranceindustries#1" id1="135006" start="112" citation_global_level_id="1401.003" line="2" id="135015_2" citation_local_level_id="1" >03-1157</DOCKET>
+
+<ORGANIZATION start="125" end="155" id="135015_12" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="161" citation_global_level_id="1401.003" end="175" id="135015_13" citation_local_level_id="1" >March 22, 2004</DATE>
+
+<NAME start="207" local_name_id="4" end="210" id="135015_17" all_names="CIR" >Cir</NAME>
+
+<CITATION end="261" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_346_1160" id1="Dummy_File_33543" volume="346" start="247" page_number="1160" standard_reporter="F.3D" citation_global_level_id="97393.001" line="7" id="135015_16" citation_local_level_id="2" >346 F. 3d 1160</CITATION>
+
+<RELATION theme="135015_3" includes_docket_string="03-1157" includes_docket="135015_2" theme_string="NATIONAL UNION FIRE INSURANCE CO. OF PITTSBURGH v. [PG] TERRA INDUSTRIES, INC., ET AL" gram_type="apposition" relation_type="asymmetric" id="135015_11" ></RELATION>
+
+<RELATION party2="135015_5" theme="135015_3" theme_string="NATIONAL UNION FIRE INSURANCE CO. OF PITTSBURGH v. [PG] TERRA INDUSTRIES, INC., ET AL" party2_string="PG] TERRA INDUSTRIES, INC., ET AL" gram_type="infix" relation_type="asymmetric" id="135015_10" ></RELATION>
+
+<RELATION theme="135015_3" party1="135015_4" party1_string="NATIONAL UNION FIRE INSURANCE CO. OF PITTSBURGH" theme_string="NATIONAL UNION FIRE INSURANCE CO. OF PITTSBURGH v. [PG] TERRA INDUSTRIES, INC., ET AL" gram_type="infix" relation_type="asymmetric" id="135015_9" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 939" X_vs_Y_string="NATIONAL UNION FIRE INSURANCE CO. OF PITTSBURGH v. [PG] TERRA INDUSTRIES, INC., ET AL" standard_case="135015_1" X_vs_Y="135015_3" gram_type="multi_line" relation_type="equivalence" id="135015_14" ></RELATION>
+
+<RELATION at_date_string="March 22, 2004" theme="135015_3" at_date="135015_13" theme_string="NATIONAL UNION FIRE INSURANCE CO. OF PITTSBURGH v. [PG] TERRA INDUSTRIES, INC., ET AL" gram_type="multi_line" relation_type="asymmetric" id="135015_15" ></RELATION>
+

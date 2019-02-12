@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['knightstates#6']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1221" id1="127567" volume="537" start="0" page_number="1221" standard_reporter="U.S." citation_global_level_id="10334.002" line="1" id="127567_1" citation_local_level_id="0" >537 U.S. 1221</CITATION>
+
+<CITATION party2="UNITED STATES" party1="KNIGHT" citation_global_level_id="59975.001" party2_short="STATES" line="1" id="127567_3" alternative_keys="['u.s._537_1221']" end="41" entry_type="party_key" lookup_key="knightstates#6" id1="137456" start="18" party1_short="KNIGHT" citation_local_level_id="1" >KNIGHT v. UNITED STATES</CITATION>
+
+<NAME end="24" start="18" party1_of="127567_3" all_names="KNIGHT" local_name_id="1" id="127567_4" >KNIGHT</NAME>
+
+<NAME end="41" start="28" all_names="UNITED STATES" party2_of="127567_3" local_name_id="2" id="127567_5" >UNITED STATES</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._537_1221" id1="127567" start="51" citation_global_level_id="10334.002" line="1" id="127567_2" citation_local_level_id="0" >02-8471</DOCKET>
+
+<DATE start="100" end="117" id="127567_6" >February 24, 2003</DATE>
+
+<NAME start="247" local_name_id="3" end="250" id="127567_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="127567_1" includes_docket_string="02-8471" includes_docket="127567_2" theme_string="537 U.S. 1221" gram_type="apposition" relation_type="asymmetric" id="127567_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1221" X_vs_Y_string="KNIGHT v. UNITED STATES" standard_case="127567_1" X_vs_Y="127567_3" gram_type="pre_nom" relation_type="equivalence" id="127567_7" ></RELATION>
+
+<RELATION theme="127567_3" includes_docket_string="02-8471" includes_docket="127567_2" theme_string="KNIGHT v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="127567_10" ></RELATION>
+
+<RELATION theme="127567_3" party1="127567_4" party1_string="KNIGHT" theme_string="KNIGHT v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="127567_8" ></RELATION>
+
+<RELATION party2="127567_5" theme="127567_3" theme_string="KNIGHT v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="127567_9" ></RELATION>
+

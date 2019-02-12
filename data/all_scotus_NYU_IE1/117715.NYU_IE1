@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['snellcity#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1203" id1="117723" volume="510" start="0" page_number="1203" standard_reporter="U.S." citation_global_level_id="488.002" line="1" id="117715_1" citation_local_level_id="0" >510 U.S. 1203</CITATION>
+
+<CITATION party2="City and County of Denver et al" party1="Snell" citation_global_level_id="18046.001" party2_short="City" line="1" id="117715_3" alternative_keys="['u.s._510_1203']" end="58" entry_type="party_key" lookup_key="snellcity#1" id1="117715" start="18" party1_short="Snell" citation_local_level_id="1" >Snell v. City and County of Denver et al</CITATION>
+
+<NAME end="23" start="18" party1_of="117715_3" all_names="SNELL" local_name_id="1" id="117715_4" >Snell</NAME>
+
+<NAME end="58" start="27" all_names="CITY AND COUNTY OF DENVER" party2_of="117715_3" local_name_id="2" id="117715_5" >City and County of Denver et al</NAME>
+
+<DOCKET end="75" entry_type="docket" lookup_key="u.s._510_1203" id1="117723" start="68" citation_global_level_id="488.002" line="1" id="117715_2" citation_local_level_id="0" >93-7810</DOCKET>
+
+<DATE start="117" end="131" id="117715_6" >March 21, 1994</DATE>
+
+<NAME start="210" local_name_id="3" end="220" id="117715_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="258" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_999_548" id1="Dummy_File_124078" volume="999" start="245" page_number="548" standard_reporter="F.2D" citation_global_level_id="187928.001" line="3" id="117715_12" citation_local_level_id="2" >999 F. 2d 548</CITATION>
+
+<RELATION theme="117715_1" includes_docket_string="93-7810" includes_docket="117715_2" theme_string="510 U.S. 1203" gram_type="apposition" relation_type="asymmetric" id="117715_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1203" X_vs_Y_string="Snell v. City and County of Denver et al" standard_case="117715_1" X_vs_Y="117715_3" gram_type="pre_nom" relation_type="equivalence" id="117715_7" ></RELATION>
+
+<RELATION theme="117715_3" includes_docket_string="93-7810" includes_docket="117715_2" theme_string="Snell v. City and County of Denver et al" gram_type="apposition" relation_type="asymmetric" id="117715_10" ></RELATION>
+
+<RELATION theme="117715_3" party1="117715_4" party1_string="Snell" theme_string="Snell v. City and County of Denver et al" gram_type="infix" relation_type="asymmetric" id="117715_8" ></RELATION>
+
+<RELATION party2="117715_5" theme="117715_3" theme_string="Snell v. City and County of Denver et al" party2_string="City and County of Denver et al" gram_type="infix" relation_type="asymmetric" id="117715_9" ></RELATION>
+

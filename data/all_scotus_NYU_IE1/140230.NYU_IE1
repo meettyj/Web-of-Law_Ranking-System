@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['johnsonstates#9']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_993" id1="140231" volume="543" start="0" page_number="993" standard_reporter="U.S." citation_global_level_id="837.002" line="1" id="140230_1" citation_local_level_id="0" >543 U.S. 993</CITATION>
+
+<CITATION party2="UNITED STATES" party1="JOHNSON" citation_global_level_id="12071.001" party2_short="STATES" line="2" id="140230_2" alternative_keys="['u.s._543_993']" end="41" entry_type="party_key" lookup_key="johnsonstates#9" id1="2812210" start="17" party1_short="JOHNSON" citation_local_level_id="1" >JOHNSON v. UNITED STATES</CITATION>
+
+<NAME end="24" start="17" party1_of="140230_2" all_names="JOHNSON" local_name_id="1" id="140230_3" >JOHNSON</NAME>
+
+<NAME end="41" start="28" all_names="UNITED STATES" party2_of="140230_2" local_name_id="2" id="140230_4" >UNITED STATES</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="johnsonstates#9" id1="2812210" start="51" citation_global_level_id="12071.001" line="3" id="140230_7" citation_local_level_id="1" >04-6800</DOCKET>
+
+<ORGANIZATION start="64" end="94" id="140230_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="100" citation_global_level_id="12071.001" end="117" id="140230_9" citation_local_level_id="1" >November 15, 2004</DATE>
+
+<NAME start="149" local_name_id="3" end="152" id="140230_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="140230_2" party1="140230_3" party1_string="JOHNSON" theme_string="JOHNSON v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="140230_5" ></RELATION>
+
+<RELATION party2="140230_4" theme="140230_2" theme_string="JOHNSON v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="140230_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 993" X_vs_Y_string="JOHNSON v. UNITED STATES" standard_case="140230_1" X_vs_Y="140230_2" gram_type="multi_line" relation_type="equivalence" id="140230_10" ></RELATION>
+
+<RELATION at_date_string="November 15, 2004" theme="140230_2" at_date="140230_9" theme_string="JOHNSON v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="140230_12" ></RELATION>
+
+<RELATION theme="140230_2" includes_docket_string="04-6800" includes_docket="140230_7" theme_string="JOHNSON v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="140230_11" ></RELATION>
+

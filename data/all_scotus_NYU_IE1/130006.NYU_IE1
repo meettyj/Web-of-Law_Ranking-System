@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['williamsairlines#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1061" id1="130011" volume="538" start="0" page_number="1061" standard_reporter="U.S." citation_global_level_id="13084.002" line="1" id="130006_1" citation_local_level_id="0" >538 U.S. 1061</CITATION>
+
+<CITATION party2="NORTHWEST AIRLINES, INC" party1="WILLIAMS" citation_global_level_id="38613.001" party2_short="AIRLINES" line="1" id="130006_3" alternative_keys="['u.s._538_1061']" end="53" entry_type="party_key" lookup_key="williamsairlines#1" id1="130006" start="18" party1_short="WILLIAMS" citation_local_level_id="1" >WILLIAMS v. NORTHWEST AIRLINES, INC</CITATION>
+
+<NAME end="26" start="18" party1_of="130006_3" all_names="WILLIAMS" local_name_id="1" id="130006_4" >WILLIAMS</NAME>
+
+<NAME end="53" start="30" all_names="NORTHWEST AIRLINES INC" party2_of="130006_3" local_name_id="2" id="130006_5" >NORTHWEST AIRLINES, INC</NAME>
+
+<DOCKET end="70" entry_type="docket" lookup_key="u.s._538_1061" id1="130011" start="63" citation_global_level_id="13084.002" line="1" id="130006_2" citation_local_level_id="0" >02-9742</DOCKET>
+
+<DATE start="112" end="124" id="130006_6" >May 27, 2003</DATE>
+
+<NAME start="253" local_name_id="3" end="256" id="130006_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="130006_1" includes_docket_string="02-9742" includes_docket="130006_2" theme_string="538 U.S. 1061" gram_type="apposition" relation_type="asymmetric" id="130006_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1061" X_vs_Y_string="WILLIAMS v. NORTHWEST AIRLINES, INC" standard_case="130006_1" X_vs_Y="130006_3" gram_type="pre_nom" relation_type="equivalence" id="130006_7" ></RELATION>
+
+<RELATION theme="130006_3" includes_docket_string="02-9742" includes_docket="130006_2" theme_string="WILLIAMS v. NORTHWEST AIRLINES, INC" gram_type="apposition" relation_type="asymmetric" id="130006_10" ></RELATION>
+
+<RELATION theme="130006_3" party1="130006_4" party1_string="WILLIAMS" theme_string="WILLIAMS v. NORTHWEST AIRLINES, INC" gram_type="infix" relation_type="asymmetric" id="130006_8" ></RELATION>
+
+<RELATION party2="130006_5" theme="130006_3" theme_string="WILLIAMS v. NORTHWEST AIRLINES, INC" party2_string="NORTHWEST AIRLINES, INC" gram_type="infix" relation_type="asymmetric" id="130006_9" ></RELATION>
+

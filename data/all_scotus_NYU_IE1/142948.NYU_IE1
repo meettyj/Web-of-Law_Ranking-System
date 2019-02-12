@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['dairydepartment#3']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_904" id1="142939" volume="544" start="0" page_number="904" standard_reporter="U.S." citation_global_level_id="17011.002" line="1" id="142948_1" citation_local_level_id="0" >544 U.S. 904</CITATION>
+
+<CITATION party2="DEPARTMENT OF AGRICULTURE" party1="LAMERS DAIRY, INC." citation_global_level_id="49983.001" party2_short="DEPARTMENT" line="2" id="142948_2" alternative_keys="['u.s._544_904']" end="64" entry_type="party_key" lookup_key="dairydepartment#3" id1="142948" start="17" party1_short="DAIRY" citation_local_level_id="1" >LAMERS DAIRY, INC. v. DEPARTMENT OF AGRICULTURE</CITATION>
+
+<NAME end="35" start="17" party1_of="142948_2" all_names="LAMERS DAIRY INC" local_name_id="1" id="142948_3" >LAMERS DAIRY, INC.</NAME>
+
+<ORGANIZATION start="17" end="34" id="142948_5" >LAMERS DAIRY, INC</ORGANIZATION>
+
+<NAME end="64" start="39" all_names="DEPARTMENT OF AGRICULTURE" party2_of="142948_2" local_name_id="2" id="142948_4" >DEPARTMENT OF AGRICULTURE</NAME>
+
+<DOCKET end="80" entry_type="docket" lookup_key="dairydepartment#3" id1="142948" start="74" citation_global_level_id="49983.001" line="3" id="142948_8" citation_local_level_id="1" >04-766</DOCKET>
+
+<ORGANIZATION start="86" end="116" id="142948_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="122" citation_global_level_id="49983.001" end="135" id="142948_10" citation_local_level_id="1" >March 7, 2005</DATE>
+
+<NAME start="167" local_name_id="3" end="170" id="142948_15" all_names="CIR" >Cir</NAME>
+
+<CITATION end="220" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_379_466" id1="Dummy_File_179921" volume="379" start="207" page_number="466" standard_reporter="F.3D" citation_global_level_id="243771.001" line="8" id="142948_14" citation_local_level_id="2" >379 F. 3d 466</CITATION>
+
+<RELATION theme="142948_2" party1="142948_3" party1_string="LAMERS DAIRY, INC." theme_string="LAMERS DAIRY, INC. v. DEPARTMENT OF AGRICULTURE" gram_type="infix" relation_type="asymmetric" id="142948_6" ></RELATION>
+
+<RELATION party2="142948_4" theme="142948_2" theme_string="LAMERS DAIRY, INC. v. DEPARTMENT OF AGRICULTURE" party2_string="DEPARTMENT OF AGRICULTURE" gram_type="infix" relation_type="asymmetric" id="142948_7" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 904" X_vs_Y_string="LAMERS DAIRY, INC. v. DEPARTMENT OF AGRICULTURE" standard_case="142948_1" X_vs_Y="142948_2" gram_type="multi_line" relation_type="equivalence" id="142948_11" ></RELATION>
+
+<RELATION at_date_string="March 7, 2005" theme="142948_2" at_date="142948_10" theme_string="LAMERS DAIRY, INC. v. DEPARTMENT OF AGRICULTURE" gram_type="multi_line" relation_type="asymmetric" id="142948_13" ></RELATION>
+
+<RELATION theme="142948_2" includes_docket_string="04-766" includes_docket="142948_8" theme_string="LAMERS DAIRY, INC. v. DEPARTMENT OF AGRICULTURE" gram_type="multi_line" relation_type="asymmetric" id="142948_12" ></RELATION>
+

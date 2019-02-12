@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['jamesangelone#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_997" id1="119605" volume="535" start="0" page_number="997" standard_reporter="U.S." citation_global_level_id="139.002" line="1" id="119610_1" citation_local_level_id="0" >535 U.S. 997</CITATION>
+
+<CITATION party2="ANGELONE, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" party1="JAMES" citation_global_level_id="139.006" party2_short="ANGELONE" line="2" id="119610_3" alternative_keys="['u.s._535_997']" end="80" entry_type="party_key" lookup_key="jamesangelone#1" id1="119605" start="17" party1_short="JAMES" citation_local_level_id="1" >JAMES v. ANGELONE, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS</CITATION>
+
+<NAME end="22" start="17" party1_of="119610_3" all_names="JAMES" local_name_id="1" id="119610_4" >JAMES</NAME>
+
+<NAME end="80" start="26" all_names="ANGELONE DIRECTOR VIRGINIA DEPARTMENT OF CORRECTIONS" party2_of="119610_3" local_name_id="2" id="119610_5" >ANGELONE, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS</NAME>
+
+<DOCKET alternative_keys="['u.s._535_997']" end="97" entry_type="docket" lookup_key="jamesangelone#1" id1="119605" start="90" citation_global_level_id="139.006" line="2" id="119610_2" citation_local_level_id="1" >01-8260</DOCKET>
+
+<DATE start="143" citation_global_level_id="139.006" end="157" id="119610_9" citation_local_level_id="1" >April 15, 2002</DATE>
+
+<NAME start="189" local_name_id="3" end="192" id="119610_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="119610_3" includes_docket_string="01-8260" includes_docket="119610_2" theme_string="JAMES v. ANGELONE, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" gram_type="apposition" relation_type="asymmetric" id="119610_8" ></RELATION>
+
+<RELATION theme="119610_3" party1="119610_4" party1_string="JAMES" theme_string="JAMES v. ANGELONE, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" gram_type="infix" relation_type="asymmetric" id="119610_6" ></RELATION>
+
+<RELATION party2="119610_5" theme="119610_3" theme_string="JAMES v. ANGELONE, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" party2_string="ANGELONE, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" gram_type="infix" relation_type="asymmetric" id="119610_7" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 997" X_vs_Y_string="JAMES v. ANGELONE, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" standard_case="119610_1" X_vs_Y="119610_3" gram_type="multi_line" relation_type="equivalence" id="119610_10" ></RELATION>
+
+<RELATION at_date_string="April 15, 2002" theme="119610_3" at_date="119610_9" theme_string="JAMES v. ANGELONE, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" gram_type="multi_line" relation_type="asymmetric" id="119610_11" ></RELATION>
+

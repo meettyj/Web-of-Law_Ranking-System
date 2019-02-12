@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['jimenezdepartment#4']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_957" id1="124321" volume="537" start="0" page_number="957" standard_reporter="U.S." citation_global_level_id="5198.002" line="1" id="124313_1" citation_local_level_id="0" >537 U.S. 957</CITATION>
+
+<CITATION party2="BEARD, SECRETARY, PENNSYLVANIA DEPARTMENT OF CORRECTIONS, ET AL" party1="JIMENEZ" citation_global_level_id="5198.004" party2_short="DEPARTMENT" line="1" id="124313_3" alternative_keys="['u.s._537_957']" end="91" entry_type="party_key" lookup_key="jimenezdepartment#4" id1="124321" start="17" party1_short="JIMENEZ" citation_local_level_id="1" >JIMENEZ v. BEARD, SECRETARY, PENNSYLVANIA DEPARTMENT OF CORRECTIONS, ET AL</CITATION>
+
+<NAME end="24" start="17" party1_of="124313_3" all_names="JIMENEZ" local_name_id="1" id="124313_4" >JIMENEZ</NAME>
+
+<NAME end="91" start="28" all_names="BEARD SECRETARY PENNSYLVANIA DEPARTMENT OF CORRECTIONS" party2_of="124313_3" local_name_id="2" id="124313_5" >BEARD, SECRETARY, PENNSYLVANIA DEPARTMENT OF CORRECTIONS, ET AL</NAME>
+
+<DOCKET end="108" entry_type="docket" lookup_key="u.s._537_957" id1="124321" start="101" citation_global_level_id="5198.002" line="1" id="124313_2" citation_local_level_id="0" >02-5843</DOCKET>
+
+<DATE start="150" end="166" id="124313_6" >October 15, 2002</DATE>
+
+<NAME start="294" local_name_id="3" end="297" id="124313_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="347" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_263_158" id1="Dummy_File_7871" volume="263" start="334" page_number="158" standard_reporter="F.3D" citation_global_level_id="71721.001" line="3" id="124313_12" citation_local_level_id="2" >263 F. 3d 158</CITATION>
+
+<RELATION theme="124313_1" includes_docket_string="02-5843" includes_docket="124313_2" theme_string="537 U.S. 957" gram_type="apposition" relation_type="asymmetric" id="124313_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 957" X_vs_Y_string="JIMENEZ v. BEARD, SECRETARY, PENNSYLVANIA DEPARTMENT OF CORRECTIONS, ET AL" standard_case="124313_1" X_vs_Y="124313_3" gram_type="pre_nom" relation_type="equivalence" id="124313_7" ></RELATION>
+
+<RELATION theme="124313_3" includes_docket_string="02-5843" includes_docket="124313_2" theme_string="JIMENEZ v. BEARD, SECRETARY, PENNSYLVANIA DEPARTMENT OF CORRECTIONS, ET AL" gram_type="apposition" relation_type="asymmetric" id="124313_10" ></RELATION>
+
+<RELATION theme="124313_3" party1="124313_4" party1_string="JIMENEZ" theme_string="JIMENEZ v. BEARD, SECRETARY, PENNSYLVANIA DEPARTMENT OF CORRECTIONS, ET AL" gram_type="infix" relation_type="asymmetric" id="124313_8" ></RELATION>
+
+<RELATION party2="124313_5" theme="124313_3" theme_string="JIMENEZ v. BEARD, SECRETARY, PENNSYLVANIA DEPARTMENT OF CORRECTIONS, ET AL" party2_string="BEARD, SECRETARY, PENNSYLVANIA DEPARTMENT OF CORRECTIONS, ET AL" gram_type="infix" relation_type="asymmetric" id="124313_9" ></RELATION>
+

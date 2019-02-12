@@ -1,0 +1,44 @@
+<CITATION alternative_keys="['nevadastates#1', 'districtstates#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1096" id1="120815" volume="535" start="0" page_number="1096" standard_reporter="U.S." citation_global_level_id="10204.002" line="1" id="120811_1" citation_local_level_id="0" >535 U.S. 1096</CITATION>
+
+<CITATION party2="UNITED STATES ET AL" party1="TRUCKEE-CARSON IRRIGATION DISTRICT" citation_global_level_id="19130.001" party2_short="STATES" line="2" id="120811_2" alternative_keys="['u.s._535_1096', 'nevadastates#1']" end="75" entry_type="party_key" lookup_key="districtstates#2" id1="120811" start="18" party1_short="DISTRICT" citation_local_level_id="1" >TRUCKEE-CARSON IRRIGATION DISTRICT v. UNITED STATES ET AL</CITATION>
+
+<NAME end="52" start="18" party1_of="120811_2" all_names="TRUCKEE-CARSON IRRIGATION DISTRICT" local_name_id="1" id="120811_4" >TRUCKEE-CARSON IRRIGATION DISTRICT</NAME>
+
+<NAME end="75" start="56" all_names="UNITED STATES" party2_of="120811_2" local_name_id="2" id="120811_5" >UNITED STATES ET AL</NAME>
+
+<CITATION party2="UNITED STATES ET AL" party1="NEVADA ET AL." citation_global_level_id="9216.001" party2_short="STATES" line="2" id="120811_3" alternative_keys="['u.s._535_1096', 'districtstates#2']" end="118" entry_type="party_key" lookup_key="nevadastates#1" id1="110994" start="82" party1_short="NEVADA" citation_local_level_id="2" >NEVADA ET AL. v. UNITED STATES ET AL</CITATION>
+
+<NAME end="95" start="82" party1_of="120811_3" all_names="NEVADA" local_name_id="3" id="120811_6" >NEVADA ET AL.</NAME>
+
+<NAME end="118" start="99" all_names="UNITED STATES" party2_of="120811_3" local_name_id="2" id="120811_7" >UNITED STATES ET AL</NAME>
+
+<DOCKET end="135" entry_type="docket" lookup_key="districtstates#2" id1="120811" start="128" citation_global_level_id="19130.001" line="3" id="120811_12" citation_local_level_id="1" >01-1224</DOCKET>
+
+<DOCKET end="152" entry_type="docket" lookup_key="districtstates#2" id1="120811" start="145" citation_global_level_id="19130.001" line="4" id="120811_13" citation_local_level_id="1" >01-1226</DOCKET>
+
+<DATE start="198" end="210" id="120811_20" >May 28, 2002</DATE>
+
+<NAME start="242" local_name_id="4" end="245" id="120811_22" all_names="CIR" >Cir</NAME>
+
+<CITATION end="295" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_256_935" id1="Dummy_File_37457" volume="256" start="282" page_number="935" standard_reporter="F.3D" citation_global_level_id="101307.001" line="9" id="120811_21" citation_local_level_id="3" >256 F. 3d 935</CITATION>
+
+<RELATION theme="120811_2" party1="120811_4" party1_string="TRUCKEE-CARSON IRRIGATION DISTRICT" theme_string="TRUCKEE-CARSON IRRIGATION DISTRICT v. UNITED STATES ET AL" gram_type="infix" relation_type="asymmetric" id="120811_8" ></RELATION>
+
+<RELATION party2="120811_5" theme="120811_2" theme_string="TRUCKEE-CARSON IRRIGATION DISTRICT v. UNITED STATES ET AL" party2_string="UNITED STATES ET AL" gram_type="infix" relation_type="asymmetric" id="120811_9" ></RELATION>
+
+<RELATION theme="120811_3" party1="120811_6" party1_string="NEVADA ET AL." theme_string="NEVADA ET AL. v. UNITED STATES ET AL" gram_type="infix" relation_type="asymmetric" id="120811_10" ></RELATION>
+
+<RELATION party2="120811_7" theme="120811_3" theme_string="NEVADA ET AL. v. UNITED STATES ET AL" party2_string="UNITED STATES ET AL" gram_type="infix" relation_type="asymmetric" id="120811_11" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1096" X_vs_Y_string="NEVADA ET AL. v. UNITED STATES ET AL" standard_case="120811_1" X_vs_Y="120811_3" gram_type="multi_line" relation_type="equivalence" id="120811_17" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1096" X_vs_Y_string="TRUCKEE-CARSON IRRIGATION DISTRICT v. UNITED STATES ET AL" standard_case="120811_1" X_vs_Y="120811_2" gram_type="multi_line" relation_type="equivalence" id="120811_14" ></RELATION>
+
+<RELATION theme="120811_2" includes_docket_string="01-1226" includes_docket="120811_13" theme_string="TRUCKEE-CARSON IRRIGATION DISTRICT v. UNITED STATES ET AL" gram_type="multi_line" relation_type="asymmetric" id="120811_16" ></RELATION>
+
+<RELATION theme="120811_2" includes_docket_string="01-1224" includes_docket="120811_12" theme_string="TRUCKEE-CARSON IRRIGATION DISTRICT v. UNITED STATES ET AL" gram_type="multi_line" relation_type="asymmetric" id="120811_15" ></RELATION>
+
+<RELATION theme="120811_3" includes_docket_string="01-1226" includes_docket="120811_13" theme_string="NEVADA ET AL. v. UNITED STATES ET AL" gram_type="multi_line" relation_type="asymmetric" id="120811_19" ></RELATION>
+
+<RELATION theme="120811_3" includes_docket_string="01-1224" includes_docket="120811_12" theme_string="NEVADA ET AL. v. UNITED STATES ET AL" gram_type="multi_line" relation_type="asymmetric" id="120811_18" ></RELATION>
+

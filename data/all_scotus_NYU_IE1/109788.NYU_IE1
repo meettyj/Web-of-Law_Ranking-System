@@ -1,0 +1,38 @@
+<CITATION alternative_keys="['nathanielestelle#2', 's.ct._98_775', 'l.ed.2d_54_786']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._434_1038" id1="109788" volume="434" start="0" page_number="1038" standard_reporter="U.S." citation_global_level_id="36383.002" line="1" id="109788_1" citation_local_level_id="0" >434 U.S. 1038</CITATION>
+
+<CITATION alternative_keys="['u.s._434_1038', 'nathanielestelle#2', 'l.ed.2d_54_786']" end="31" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._98_775" id1="109788" volume="98" start="18" page_number="775" standard_reporter="S.CT." citation_global_level_id="36383.003" line="2" id="109788_2" citation_local_level_id="1" >98 S. Ct. 775</CITATION>
+
+<CITATION alternative_keys="['u.s._434_1038', 's.ct._98_775', 'nathanielestelle#2']" end="52" reporter="L. Ed. 2d" entry_type="standard_key" lookup_key="l.ed.2d_54_786" id1="109788" volume="54" start="36" page_number="786" standard_reporter="L.ED.2D" citation_global_level_id="36383.004" line="3" id="109788_3" citation_local_level_id="2" >54 L. Ed. 2d 786</CITATION>
+
+<CITATION party2="W. J. ESTELLE, Jr., Director, Texas Department  of Corrections" alternative_keys="['s.ct._98_775', 'l.ed.2d_54_786', 'u.s._434_1038']" party1="Arthur J. NATHANIEL," end="155" party1_short="NATHANIEL" entry_type="party_key" party1_role="petitioner" lookup_key="nathanielestelle#2" id1="109788" start="57" citation_global_level_id="36383.005" party2_short="ESTELLE" line="4" id="109788_4" citation_local_level_id="3" >Arthur J. NATHANIEL, petitioner, v. W. J. ESTELLE, Jr., Director, Texas Department of Corrections</CITATION>
+
+<NAME end="77" start="57" party1_of="109788_4" all_names="ARTHUR J NATHANIEL" local_name_id="1" id="109788_5" >Arthur J. NATHANIEL,</NAME>
+
+<LEGAL_ROLE start="78" end="88" id="109788_7" >petitioner</LEGAL_ROLE>
+
+<NAME end="155" start="93" all_names="W J ESTELLE JR DIRECTOR TEXAS DEPARTMENT OF CORRECTIONS" party2_of="109788_4" local_name_id="2" id="109788_6" >W. J. ESTELLE, Jr., Director, Texas Department of Corrections</NAME>
+
+<DOCKET alternative_keys="['s.ct._98_775', 'l.ed.2d_54_786', 'u.s._434_1038']" end="171" entry_type="docket" lookup_key="nathanielestelle#2" id1="109788" start="164" citation_global_level_id="36383.005" line="5" id="109788_10" citation_local_level_id="3" >77-5738</DOCKET>
+
+<ORGANIZATION start="176" end="210" id="109788_11" >Supreme Court of the United States</ORGANIZATION>
+
+<DATE start="215" citation_global_level_id="36383.005" end="231" id="109788_12" citation_local_level_id="3" >January 16, 1978</DATE>
+
+<NAME start="243" local_name_id="3" end="251" id="109788_18" all_names="PETITION" >Petition</NAME>
+
+<ORGANIZATION start="282" end="334" id="109788_19" >United States Court of Appeals for the Fifth Circuit</ORGANIZATION>
+
+<RELATION theme="109788_4" party1="109788_5" party1_string="Arthur J. NATHANIEL," theme_string="Arthur J. NATHANIEL, petitioner, v. W. J. ESTELLE, Jr., Director, Texas Department  of Corrections" gram_type="infix" relation_type="asymmetric" id="109788_8" ></RELATION>
+
+<RELATION party2="109788_6" theme="109788_4" theme_string="Arthur J. NATHANIEL, petitioner, v. W. J. ESTELLE, Jr., Director, Texas Department  of Corrections" party2_string="W. J. ESTELLE, Jr., Director, Texas Department  of Corrections" gram_type="infix" relation_type="asymmetric" id="109788_9" ></RELATION>
+
+<RELATION standard_case_string="434 U.S. 1038" X_vs_Y_string="Arthur J. NATHANIEL, petitioner, v. W. J. ESTELLE, Jr., Director, Texas Department  of Corrections" standard_case="109788_1" X_vs_Y="109788_4" gram_type="multi_line" relation_type="equivalence" id="109788_13" ></RELATION>
+
+<RELATION standard_case_string="98 S. Ct. 775" X_vs_Y_string="Arthur J. NATHANIEL, petitioner, v. W. J. ESTELLE, Jr., Director, Texas Department  of Corrections" standard_case="109788_2" X_vs_Y="109788_4" gram_type="multi_line" relation_type="equivalence" id="109788_14" ></RELATION>
+
+<RELATION standard_case_string="54 L. Ed. 2d 786" X_vs_Y_string="Arthur J. NATHANIEL, petitioner, v. W. J. ESTELLE, Jr., Director, Texas Department  of Corrections" standard_case="109788_3" X_vs_Y="109788_4" gram_type="multi_line" relation_type="equivalence" id="109788_15" ></RELATION>
+
+<RELATION at_date_string="January 16, 1978" theme="109788_4" at_date="109788_12" theme_string="Arthur J. NATHANIEL, petitioner, v. W. J. ESTELLE, Jr., Director, Texas Department  of Corrections" gram_type="multi_line" relation_type="asymmetric" id="109788_17" ></RELATION>
+
+<RELATION theme="109788_4" includes_docket_string="77-5738" includes_docket="109788_10" theme_string="Arthur J. NATHANIEL, petitioner, v. W. J. ESTELLE, Jr., Director, Texas Department  of Corrections" gram_type="multi_line" relation_type="asymmetric" id="109788_16" ></RELATION>
+

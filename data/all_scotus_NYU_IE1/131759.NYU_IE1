@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['browncenter#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_848" id1="131766" volume="540" start="0" page_number="848" standard_reporter="U.S." citation_global_level_id="913.002" line="1" id="131759_1" citation_local_level_id="0" >540 U.S. 848</CITATION>
+
+<CITATION party2="SEARS AUTOMOTIVE CENTER ET AL" party1="BROWN" citation_global_level_id="36357.001" party2_short="CENTER" line="1" id="131759_3" alternative_keys="['u.s._540_848']" end="55" entry_type="party_key" lookup_key="browncenter#1" id1="131759" start="17" party1_short="BROWN" citation_local_level_id="1" >BROWN v. SEARS AUTOMOTIVE CENTER ET AL</CITATION>
+
+<NAME end="22" start="17" party1_of="131759_3" all_names="BROWN" local_name_id="1" id="131759_4" >BROWN</NAME>
+
+<NAME end="55" start="26" all_names="SEARS AUTOMOTIVE CENTER" party2_of="131759_3" local_name_id="2" id="131759_5" >SEARS AUTOMOTIVE CENTER ET AL</NAME>
+
+<DOCKET end="73" entry_type="docket" lookup_key="u.s._540_848" id1="131766" start="65" citation_global_level_id="913.002" line="1" id="131759_2" citation_local_level_id="0" >02-11004</DOCKET>
+
+<DATE start="115" end="130" id="131759_6" >October 6, 2003</DATE>
+
+<NAME start="208" local_name_id="3" end="218" id="131759_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="131759_1" includes_docket_string="02-11004" includes_docket="131759_2" theme_string="540 U.S. 848" gram_type="apposition" relation_type="asymmetric" id="131759_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 848" X_vs_Y_string="BROWN v. SEARS AUTOMOTIVE CENTER ET AL" standard_case="131759_1" X_vs_Y="131759_3" gram_type="pre_nom" relation_type="equivalence" id="131759_7" ></RELATION>
+
+<RELATION theme="131759_3" includes_docket_string="02-11004" includes_docket="131759_2" theme_string="BROWN v. SEARS AUTOMOTIVE CENTER ET AL" gram_type="apposition" relation_type="asymmetric" id="131759_10" ></RELATION>
+
+<RELATION theme="131759_3" party1="131759_4" party1_string="BROWN" theme_string="BROWN v. SEARS AUTOMOTIVE CENTER ET AL" gram_type="infix" relation_type="asymmetric" id="131759_8" ></RELATION>
+
+<RELATION party2="131759_5" theme="131759_3" theme_string="BROWN v. SEARS AUTOMOTIVE CENTER ET AL" party2_string="SEARS AUTOMOTIVE CENTER ET AL" gram_type="infix" relation_type="asymmetric" id="131759_9" ></RELATION>
+

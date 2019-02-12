@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['smithbarrow#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_1005" id1="133797" volume="540" start="0" page_number="1005" standard_reporter="U.S." citation_global_level_id="426.002" line="1" id="133786_1" citation_local_level_id="0" >540 U.S. 1005</CITATION>
+
+<CITATION party2="BARROW" party1="SMITH" citation_global_level_id="19408.001" party2_short="BARROW" line="1" id="133786_3" alternative_keys="['u.s._540_1005']" end="33" entry_type="party_key" lookup_key="smithbarrow#1" id1="133786" start="18" party1_short="SMITH" citation_local_level_id="1" >SMITH v. BARROW</CITATION>
+
+<NAME end="23" start="18" party1_of="133786_3" all_names="SMITH" local_name_id="1" id="133786_4" >SMITH</NAME>
+
+<NAME end="33" start="27" all_names="BARROW" party2_of="133786_3" local_name_id="2" id="133786_5" >BARROW</NAME>
+
+<DOCKET end="49" entry_type="docket" lookup_key="u.s._540_1005" id1="133797" start="43" citation_global_level_id="426.002" line="1" id="133786_2" citation_local_level_id="0" >03-499</DOCKET>
+
+<DATE start="91" end="108" id="133786_6" >November 10, 2003</DATE>
+
+<NAME start="186" local_name_id="3" end="196" id="133786_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="234" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_332_844" id1="Dummy_File_152377" volume="332" start="221" page_number="844" standard_reporter="F.3D" citation_global_level_id="216227.001" line="3" id="133786_12" citation_local_level_id="2" >332 F. 3d 844</CITATION>
+
+<RELATION theme="133786_1" includes_docket_string="03-499" includes_docket="133786_2" theme_string="540 U.S. 1005" gram_type="apposition" relation_type="asymmetric" id="133786_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 1005" X_vs_Y_string="SMITH v. BARROW" standard_case="133786_1" X_vs_Y="133786_3" gram_type="pre_nom" relation_type="equivalence" id="133786_7" ></RELATION>
+
+<RELATION theme="133786_3" includes_docket_string="03-499" includes_docket="133786_2" theme_string="SMITH v. BARROW" gram_type="apposition" relation_type="asymmetric" id="133786_10" ></RELATION>
+
+<RELATION theme="133786_3" party1="133786_4" party1_string="SMITH" theme_string="SMITH v. BARROW" gram_type="infix" relation_type="asymmetric" id="133786_8" ></RELATION>
+
+<RELATION party2="133786_5" theme="133786_3" theme_string="SMITH v. BARROW" party2_string="BARROW" gram_type="infix" relation_type="asymmetric" id="133786_9" ></RELATION>
+

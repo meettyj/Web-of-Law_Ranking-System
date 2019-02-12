@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['doestates#8']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_975" id1="140006" volume="543" start="0" page_number="975" standard_reporter="U.S." citation_global_level_id="3187.002" line="1" id="140009_1" citation_local_level_id="0" >543 U.S. 975</CITATION>
+
+<CITATION party2="UNITED STATES" party1="DOE" citation_global_level_id="50447.001" party2_short="STATES" line="2" id="140009_2" alternative_keys="['u.s._543_975']" end="37" entry_type="party_key" lookup_key="doestates#8" id1="125819" start="17" party1_short="DOE" citation_local_level_id="1" >DOE v. UNITED STATES</CITATION>
+
+<NAME end="20" start="17" party1_of="140009_2" all_names="DOE" local_name_id="1" id="140009_3" >DOE</NAME>
+
+<NAME end="37" start="24" all_names="UNITED STATES" party2_of="140009_2" local_name_id="2" id="140009_4" >UNITED STATES</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="doestates#8" id1="125819" start="47" citation_global_level_id="50447.001" line="3" id="140009_7" citation_local_level_id="1" >04-6620</DOCKET>
+
+<ORGANIZATION start="60" end="90" id="140009_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="96" citation_global_level_id="50447.001" end="112" id="140009_9" citation_local_level_id="1" >November 1, 2004</DATE>
+
+<NAME start="143" local_name_id="3" end="146" id="140009_14" all_names="CIR" >Cir</NAME>
+
+<CITATION end="196" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_365_150" id1="Dummy_File_138771" volume="365" start="183" page_number="150" standard_reporter="F.3D" citation_global_level_id="202621.001" line="8" id="140009_13" citation_local_level_id="2" >365 F. 3d 150</CITATION>
+
+<RELATION theme="140009_2" party1="140009_3" party1_string="DOE" theme_string="DOE v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="140009_5" ></RELATION>
+
+<RELATION party2="140009_4" theme="140009_2" theme_string="DOE v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="140009_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 975" X_vs_Y_string="DOE v. UNITED STATES" standard_case="140009_1" X_vs_Y="140009_2" gram_type="multi_line" relation_type="equivalence" id="140009_10" ></RELATION>
+
+<RELATION at_date_string="November 1, 2004" theme="140009_2" at_date="140009_9" theme_string="DOE v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="140009_12" ></RELATION>
+
+<RELATION theme="140009_2" includes_docket_string="04-6620" includes_docket="140009_7" theme_string="DOE v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="140009_11" ></RELATION>
+

@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['mitchelldepartment#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._542_960" id1="137664" volume="542" start="0" page_number="960" standard_reporter="U.S." citation_global_level_id="695.002" line="1" id="137650_1" citation_local_level_id="0" >542 U.S. 960</CITATION>
+
+<CITATION party2="DEPARTMENT OF COMMERCE" party1="MITCHELL" citation_global_level_id="19507.001" party2_short="DEPARTMENT" line="1" id="137650_3" alternative_keys="['u.s._542_960']" end="51" entry_type="party_key" lookup_key="mitchelldepartment#2" id1="137650" start="17" party1_short="MITCHELL" citation_local_level_id="1" >MITCHELL v. DEPARTMENT OF COMMERCE</CITATION>
+
+<NAME end="25" start="17" party1_of="137650_3" all_names="MITCHELL" local_name_id="1" id="137650_4" >MITCHELL</NAME>
+
+<NAME end="51" start="29" all_names="DEPARTMENT OF COMMERCE" party2_of="137650_3" local_name_id="2" id="137650_5" >DEPARTMENT OF COMMERCE</NAME>
+
+<DOCKET end="68" entry_type="docket" lookup_key="u.s._542_960" id1="137664" start="61" citation_global_level_id="695.002" line="1" id="137650_2" citation_local_level_id="0" >03-9889</DOCKET>
+
+<DATE start="110" end="125" id="137650_6" >August 23, 2004</DATE>
+
+<CITATION end="233" reporter="U. S." entry_type="standard_key" lookup_key="u.s._541_1079" id1="136767" volume="541" start="219" page_number="1079" standard_reporter="U.S." citation_global_level_id="2268.002" line="3" id="137650_12" citation_local_level_id="2" >541 U. S. 1079</CITATION>
+
+<RELATION theme="137650_1" includes_docket_string="03-9889" includes_docket="137650_2" theme_string="542 U.S. 960" gram_type="apposition" relation_type="asymmetric" id="137650_11" ></RELATION>
+
+<RELATION standard_case_string="542 U.S. 960" X_vs_Y_string="MITCHELL v. DEPARTMENT OF COMMERCE" standard_case="137650_1" X_vs_Y="137650_3" gram_type="pre_nom" relation_type="equivalence" id="137650_7" ></RELATION>
+
+<RELATION theme="137650_3" includes_docket_string="03-9889" includes_docket="137650_2" theme_string="MITCHELL v. DEPARTMENT OF COMMERCE" gram_type="apposition" relation_type="asymmetric" id="137650_10" ></RELATION>
+
+<RELATION theme="137650_3" party1="137650_4" party1_string="MITCHELL" theme_string="MITCHELL v. DEPARTMENT OF COMMERCE" gram_type="infix" relation_type="asymmetric" id="137650_8" ></RELATION>
+
+<RELATION party2="137650_5" theme="137650_3" theme_string="MITCHELL v. DEPARTMENT OF COMMERCE" party2_string="DEPARTMENT OF COMMERCE" gram_type="infix" relation_type="asymmetric" id="137650_9" ></RELATION>
+

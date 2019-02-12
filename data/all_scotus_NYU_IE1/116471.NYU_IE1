@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['rockmanstates#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1080" id1="116472" volume="510" start="0" page_number="1080" standard_reporter="U.S." citation_global_level_id="210.002" line="1" id="116471_1" citation_local_level_id="0" >510 U.S. 1080</CITATION>
+
+<CITATION party2="United States" party1="Rockman" citation_global_level_id="62049.001" party2_short="States" line="1" id="116471_3" alternative_keys="['u.s._510_1080']" end="42" entry_type="party_key" lookup_key="rockmanstates#1" id1="116471" start="18" party1_short="Rockman" citation_local_level_id="1" >Rockman v. United States</CITATION>
+
+<NAME end="25" start="18" party1_of="116471_3" all_names="ROCKMAN" local_name_id="1" id="116471_4" >Rockman</NAME>
+
+<NAME end="42" start="29" all_names="UNITED STATES" party2_of="116471_3" local_name_id="2" id="116471_5" >United States</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="u.s._510_1080" id1="116472" start="52" citation_global_level_id="210.002" line="1" id="116471_2" citation_local_level_id="0" >93-7094</DOCKET>
+
+<DATE start="101" end="117" id="116471_6" >January 18, 1994</DATE>
+
+<NAME start="196" local_name_id="3" end="206" id="116471_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="244" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_993_811" id1="Dummy_File_205783" volume="993" start="231" page_number="811" standard_reporter="F.2D" citation_global_level_id="269633.001" line="3" id="116471_12" citation_local_level_id="2" >993 F. 2d 811</CITATION>
+
+<RELATION theme="116471_1" includes_docket_string="93-7094" includes_docket="116471_2" theme_string="510 U.S. 1080" gram_type="apposition" relation_type="asymmetric" id="116471_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1080" X_vs_Y_string="Rockman v. United States" standard_case="116471_1" X_vs_Y="116471_3" gram_type="pre_nom" relation_type="equivalence" id="116471_7" ></RELATION>
+
+<RELATION theme="116471_3" includes_docket_string="93-7094" includes_docket="116471_2" theme_string="Rockman v. United States" gram_type="apposition" relation_type="asymmetric" id="116471_10" ></RELATION>
+
+<RELATION theme="116471_3" party1="116471_4" party1_string="Rockman" theme_string="Rockman v. United States" gram_type="infix" relation_type="asymmetric" id="116471_8" ></RELATION>
+
+<RELATION party2="116471_5" theme="116471_3" theme_string="Rockman v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="116471_9" ></RELATION>
+

@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['gutierreztexas#4']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1050" id1="116052" volume="510" start="0" page_number="1050" standard_reporter="U.S." citation_global_level_id="1627.002" line="1" id="116049_1" citation_local_level_id="0" >510 U.S. 1050</CITATION>
+
+<CITATION party2="Texas" party1="Gutierrez" citation_global_level_id="45546.001" party2_short="Texas" line="1" id="116049_3" alternative_keys="['u.s._510_1050']" end="36" entry_type="party_key" lookup_key="gutierreztexas#4" id1="114450" start="18" party1_short="Gutierrez" citation_local_level_id="1" >Gutierrez v. Texas</CITATION>
+
+<NAME end="27" start="18" party1_of="116049_3" all_names="GUTIERREZ" local_name_id="1" id="116049_4" >Gutierrez</NAME>
+
+<NAME end="36" start="31" all_names="TEXAS" party2_of="116049_3" local_name_id="2" id="116049_5" >Texas</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="u.s._510_1050" id1="116052" start="46" citation_global_level_id="1627.002" line="1" id="116049_2" citation_local_level_id="0" >93-6325</DOCKET>
+
+<DATE start="95" end="111" id="116049_6" >January 10, 1994</DATE>
+
+<NAME start="194" local_name_id="3" end="204" id="116049_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="116049_1" includes_docket_string="93-6325" includes_docket="116049_2" theme_string="510 U.S. 1050" gram_type="apposition" relation_type="asymmetric" id="116049_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1050" X_vs_Y_string="Gutierrez v. Texas" standard_case="116049_1" X_vs_Y="116049_3" gram_type="pre_nom" relation_type="equivalence" id="116049_7" ></RELATION>
+
+<RELATION theme="116049_3" includes_docket_string="93-6325" includes_docket="116049_2" theme_string="Gutierrez v. Texas" gram_type="apposition" relation_type="asymmetric" id="116049_10" ></RELATION>
+
+<RELATION theme="116049_3" party1="116049_4" party1_string="Gutierrez" theme_string="Gutierrez v. Texas" gram_type="infix" relation_type="asymmetric" id="116049_8" ></RELATION>
+
+<RELATION party2="116049_5" theme="116049_3" theme_string="Gutierrez v. Texas" party2_string="Texas" gram_type="infix" relation_type="asymmetric" id="116049_9" ></RELATION>
+

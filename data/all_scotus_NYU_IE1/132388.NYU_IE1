@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['conahanflorida#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_895" id1="132397" volume="540" start="0" page_number="895" standard_reporter="U.S." citation_global_level_id="1434.002" line="1" id="132388_1" citation_local_level_id="0" >540 U.S. 895</CITATION>
+
+<CITATION party2="FLORIDA" party1="CONAHAN" citation_global_level_id="2524.001" party2_short="FLORIDA" line="1" id="132388_3" alternative_keys="['u.s._540_895']" end="35" entry_type="party_key" lookup_key="conahanflorida#1" id1="132388" start="17" party1_short="CONAHAN" citation_local_level_id="1" >CONAHAN v. FLORIDA</CITATION>
+
+<NAME end="24" start="17" party1_of="132388_3" all_names="CONAHAN" local_name_id="1" id="132388_4" >CONAHAN</NAME>
+
+<NAME end="35" start="28" all_names="FLORIDA" party2_of="132388_3" local_name_id="2" id="132388_5" >FLORIDA</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="u.s._540_895" id1="132397" start="45" citation_global_level_id="1434.002" line="1" id="132388_2" citation_local_level_id="0" >03-5209</DOCKET>
+
+<DATE start="94" end="109" id="132388_6" >October 6, 2003</DATE>
+
+<NAME start="186" local_name_id="3" end="196" id="132388_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="235" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_844_629" id1="Dummy_File_117023" volume="844" start="221" page_number="629" standard_reporter="SO.2D" citation_global_level_id="180873.001" line="3" id="132388_12" citation_local_level_id="2" >844 So. 2d 629</CITATION>
+
+<RELATION theme="132388_1" includes_docket_string="03-5209" includes_docket="132388_2" theme_string="540 U.S. 895" gram_type="apposition" relation_type="asymmetric" id="132388_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 895" X_vs_Y_string="CONAHAN v. FLORIDA" standard_case="132388_1" X_vs_Y="132388_3" gram_type="pre_nom" relation_type="equivalence" id="132388_7" ></RELATION>
+
+<RELATION theme="132388_3" includes_docket_string="03-5209" includes_docket="132388_2" theme_string="CONAHAN v. FLORIDA" gram_type="apposition" relation_type="asymmetric" id="132388_10" ></RELATION>
+
+<RELATION theme="132388_3" party1="132388_4" party1_string="CONAHAN" theme_string="CONAHAN v. FLORIDA" gram_type="infix" relation_type="asymmetric" id="132388_8" ></RELATION>
+
+<RELATION party2="132388_5" theme="132388_3" theme_string="CONAHAN v. FLORIDA" party2_string="FLORIDA" gram_type="infix" relation_type="asymmetric" id="132388_9" ></RELATION>
+

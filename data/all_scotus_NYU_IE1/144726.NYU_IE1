@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['morganwalsh#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_1041" id1="144734" volume="544" start="0" page_number="1041" standard_reporter="U.S." citation_global_level_id="1716.002" line="1" id="144726_1" citation_local_level_id="0" >544 U.S. 1041</CITATION>
+
+<CITATION party2="WALSH, SUPERINTENDENT, SULLIVAN CORRECTIONAL FACILITY" party1="MORGAN" citation_global_level_id="1716.003" party2_short="WALSH" line="2" id="144726_2" alternative_keys="['u.s._544_1041']" end="81" entry_type="party_key" lookup_key="morganwalsh#1" id1="144734" start="18" party1_short="MORGAN" citation_local_level_id="1" >MORGAN v. WALSH, SUPERINTENDENT, SULLIVAN CORRECTIONAL FACILITY</CITATION>
+
+<NAME end="24" start="18" party1_of="144726_2" all_names="MORGAN" local_name_id="1" id="144726_3" >MORGAN</NAME>
+
+<NAME end="81" start="28" all_names="WALSH SUPERINTENDENT SULLIVAN CORRECTIONAL FACILITY" party2_of="144726_2" local_name_id="2" id="144726_4" >WALSH, SUPERINTENDENT, SULLIVAN CORRECTIONAL FACILITY</NAME>
+
+<DOCKET alternative_keys="['u.s._544_1041']" end="98" entry_type="docket" lookup_key="morganwalsh#1" id1="144734" start="91" citation_global_level_id="1716.003" line="3" id="144726_7" citation_local_level_id="1" >04-9505</DOCKET>
+
+<ORGANIZATION start="104" end="134" id="144726_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="140" citation_global_level_id="1716.003" end="152" id="144726_9" citation_local_level_id="1" >May 16, 2005</DATE>
+
+<NAME start="183" local_name_id="3" end="186" id="144726_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="144726_2" party1="144726_3" party1_string="MORGAN" theme_string="MORGAN v. WALSH, SUPERINTENDENT, SULLIVAN CORRECTIONAL FACILITY" gram_type="infix" relation_type="asymmetric" id="144726_5" ></RELATION>
+
+<RELATION party2="144726_4" theme="144726_2" theme_string="MORGAN v. WALSH, SUPERINTENDENT, SULLIVAN CORRECTIONAL FACILITY" party2_string="WALSH, SUPERINTENDENT, SULLIVAN CORRECTIONAL FACILITY" gram_type="infix" relation_type="asymmetric" id="144726_6" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 1041" X_vs_Y_string="MORGAN v. WALSH, SUPERINTENDENT, SULLIVAN CORRECTIONAL FACILITY" standard_case="144726_1" X_vs_Y="144726_2" gram_type="multi_line" relation_type="equivalence" id="144726_10" ></RELATION>
+
+<RELATION at_date_string="May 16, 2005" theme="144726_2" at_date="144726_9" theme_string="MORGAN v. WALSH, SUPERINTENDENT, SULLIVAN CORRECTIONAL FACILITY" gram_type="multi_line" relation_type="asymmetric" id="144726_12" ></RELATION>
+
+<RELATION theme="144726_2" includes_docket_string="04-9505" includes_docket="144726_7" theme_string="MORGAN v. WALSH, SUPERINTENDENT, SULLIVAN CORRECTIONAL FACILITY" gram_type="multi_line" relation_type="asymmetric" id="144726_11" ></RELATION>
+

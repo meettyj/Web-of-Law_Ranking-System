@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['nationenergy#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_871" id1="138664" volume="543" start="0" page_number="871" standard_reporter="U.S." citation_global_level_id="3846.002" line="1" id="138666_1" citation_local_level_id="0" >543 U.S. 871</CITATION>
+
+<CITATION party2="KRYSTAL ENERGY CO., INC" party1="NAVAJO NATION" citation_global_level_id="3846.004" party2_short="ENERGY" line="2" id="138666_2" alternative_keys="['u.s._543_871']" end="57" entry_type="party_key" lookup_key="nationenergy#2" id1="138664" start="17" party1_short="NATION" citation_local_level_id="1" >NAVAJO NATION v. KRYSTAL ENERGY CO., INC</CITATION>
+
+<NAME end="30" start="17" party1_of="138666_2" all_names="NAVAJO NATION" local_name_id="1" id="138666_3" >NAVAJO NATION</NAME>
+
+<NAME end="57" start="34" all_names="KRYSTAL ENERGY CO INC" party2_of="138666_2" local_name_id="2" id="138666_4" >KRYSTAL ENERGY CO., INC</NAME>
+
+<DOCKET alternative_keys="['u.s._543_871']" end="72" entry_type="docket" lookup_key="nationenergy#2" id1="138664" start="67" citation_global_level_id="3846.004" line="3" id="138666_7" citation_local_level_id="1" >04-45</DOCKET>
+
+<ORGANIZATION start="78" end="108" id="138666_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="114" citation_global_level_id="3846.004" end="129" id="138666_9" citation_local_level_id="1" >October 4, 2004</DATE>
+
+<NAME start="161" local_name_id="3" end="164" id="138666_14" all_names="CIR" >Cir</NAME>
+
+<CITATION end="215" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_357_1055" id1="Dummy_File_46117" volume="357" start="201" page_number="1055" standard_reporter="F.3D" citation_global_level_id="109967.001" line="8" id="138666_13" citation_local_level_id="2" >357 F. 3d 1055</CITATION>
+
+<RELATION theme="138666_2" party1="138666_3" party1_string="NAVAJO NATION" theme_string="NAVAJO NATION v. KRYSTAL ENERGY CO., INC" gram_type="infix" relation_type="asymmetric" id="138666_5" ></RELATION>
+
+<RELATION party2="138666_4" theme="138666_2" theme_string="NAVAJO NATION v. KRYSTAL ENERGY CO., INC" party2_string="KRYSTAL ENERGY CO., INC" gram_type="infix" relation_type="asymmetric" id="138666_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 871" X_vs_Y_string="NAVAJO NATION v. KRYSTAL ENERGY CO., INC" standard_case="138666_1" X_vs_Y="138666_2" gram_type="multi_line" relation_type="equivalence" id="138666_10" ></RELATION>
+
+<RELATION at_date_string="October 4, 2004" theme="138666_2" at_date="138666_9" theme_string="NAVAJO NATION v. KRYSTAL ENERGY CO., INC" gram_type="multi_line" relation_type="asymmetric" id="138666_12" ></RELATION>
+
+<RELATION theme="138666_2" includes_docket_string="04-45" includes_docket="138666_7" theme_string="NAVAJO NATION v. KRYSTAL ENERGY CO., INC" gram_type="multi_line" relation_type="asymmetric" id="138666_11" ></RELATION>
+

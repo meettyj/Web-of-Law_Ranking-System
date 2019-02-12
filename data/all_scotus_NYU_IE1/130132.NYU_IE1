@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['sciallahospital#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1069" id1="130123" volume="538" start="0" page_number="1069" standard_reporter="U.S." citation_global_level_id="449.002" line="1" id="130132_1" citation_local_level_id="0" >538 U.S. 1069</CITATION>
+
+<CITATION party2="PASCACK VALLEY HOSPITAL" party1="SCIALLA" citation_global_level_id="25134.001" party2_short="HOSPITAL" line="2" id="130132_2" alternative_keys="['u.s._538_1069']" end="52" entry_type="party_key" lookup_key="sciallahospital#1" id1="128217" start="18" party1_short="SCIALLA" citation_local_level_id="1" >SCIALLA v. PASCACK VALLEY HOSPITAL</CITATION>
+
+<NAME end="25" start="18" party1_of="130132_2" all_names="SCIALLA" local_name_id="1" id="130132_3" >SCIALLA</NAME>
+
+<NAME end="52" start="29" all_names="PASCACK VALLEY HOSPITAL" party2_of="130132_2" local_name_id="2" id="130132_4" >PASCACK VALLEY HOSPITAL</NAME>
+
+<DOCKET end="83" entry_type="docket" lookup_key="sciallahospital#1" id1="128217" start="76" citation_global_level_id="25134.001" line="3" id="130132_7" citation_local_level_id="1" >02-8422</DOCKET>
+
+<ORGANIZATION start="89" end="119" id="130132_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="125" citation_global_level_id="25134.001" end="137" id="130132_9" citation_local_level_id="1" >May 27, 2003</DATE>
+
+<NAME start="159" local_name_id="3" end="167" id="130132_13" all_names="PETITION" >Petition</NAME>
+
+<RELATION theme="130132_2" party1="130132_3" party1_string="SCIALLA" theme_string="SCIALLA v. PASCACK VALLEY HOSPITAL" gram_type="infix" relation_type="asymmetric" id="130132_5" ></RELATION>
+
+<RELATION party2="130132_4" theme="130132_2" theme_string="SCIALLA v. PASCACK VALLEY HOSPITAL" party2_string="PASCACK VALLEY HOSPITAL" gram_type="infix" relation_type="asymmetric" id="130132_6" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1069" X_vs_Y_string="SCIALLA v. PASCACK VALLEY HOSPITAL" standard_case="130132_1" X_vs_Y="130132_2" gram_type="multi_line" relation_type="equivalence" id="130132_10" ></RELATION>
+
+<RELATION at_date_string="May 27, 2003" theme="130132_2" at_date="130132_9" theme_string="SCIALLA v. PASCACK VALLEY HOSPITAL" gram_type="multi_line" relation_type="asymmetric" id="130132_12" ></RELATION>
+
+<RELATION theme="130132_2" includes_docket_string="02-8422" includes_docket="130132_7" theme_string="SCIALLA v. PASCACK VALLEY HOSPITAL" gram_type="multi_line" relation_type="asymmetric" id="130132_11" ></RELATION>
+

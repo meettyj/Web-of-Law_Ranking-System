@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['electricboard#3']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_883" id1="123308" volume="537" start="0" page_number="883" standard_reporter="U.S." citation_global_level_id="3433.002" line="1" id="123298_1" citation_local_level_id="0" >537 U.S. 883</CITATION>
+
+<CITATION party2="PENNSYLVANIA WORKERS' COMPENSATION APPEAL BOARD ET AL" party1="WESTINGHOUSE ELECTRIC CORP." citation_global_level_id="3433.003" party2_short="BOARD" line="1" id="123298_3" alternative_keys="['u.s._537_883']" end="101" entry_type="party_key" lookup_key="electricboard#3" id1="123308" start="17" party1_short="ELECTRIC" citation_local_level_id="1" >WESTINGHOUSE ELECTRIC CORP. v. PENNSYLVANIA WORKERS' COMPENSATION APPEAL BOARD ET AL</CITATION>
+
+<NAME end="44" start="17" party1_of="123298_3" all_names="WESTINGHOUSE ELECTRIC CORP" local_name_id="1" id="123298_4" >WESTINGHOUSE ELECTRIC CORP.</NAME>
+
+<ORGANIZATION start="17" end="43" id="123298_7" >WESTINGHOUSE ELECTRIC CORP</ORGANIZATION>
+
+<NAME end="101" start="48" all_names="PENNSYLVANIA WORKERS' COMPENSATION APPEAL BOARD" party2_of="123298_3" local_name_id="2" id="123298_5" >PENNSYLVANIA WORKERS' COMPENSATION APPEAL BOARD ET AL</NAME>
+
+<DOCKET end="116" entry_type="docket" lookup_key="u.s._537_883" id1="123308" start="111" citation_global_level_id="3433.002" line="1" id="123298_2" citation_local_level_id="0" >02-92</DOCKET>
+
+<DATE start="158" end="173" id="123298_6" >October 7, 2002</DATE>
+
+<NAME start="274" local_name_id="3" end="279" id="123298_13" all_names="COMMW" >Commw</NAME>
+
+<RELATION theme="123298_1" includes_docket_string="02-92" includes_docket="123298_2" theme_string="537 U.S. 883" gram_type="apposition" relation_type="asymmetric" id="123298_12" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 883" X_vs_Y_string="WESTINGHOUSE ELECTRIC CORP. v. PENNSYLVANIA WORKERS' COMPENSATION APPEAL BOARD ET AL" standard_case="123298_1" X_vs_Y="123298_3" gram_type="pre_nom" relation_type="equivalence" id="123298_8" ></RELATION>
+
+<RELATION theme="123298_3" includes_docket_string="02-92" includes_docket="123298_2" theme_string="WESTINGHOUSE ELECTRIC CORP. v. PENNSYLVANIA WORKERS' COMPENSATION APPEAL BOARD ET AL" gram_type="apposition" relation_type="asymmetric" id="123298_11" ></RELATION>
+
+<RELATION party2="123298_5" theme="123298_3" theme_string="WESTINGHOUSE ELECTRIC CORP. v. PENNSYLVANIA WORKERS' COMPENSATION APPEAL BOARD ET AL" party2_string="PENNSYLVANIA WORKERS' COMPENSATION APPEAL BOARD ET AL" gram_type="infix" relation_type="asymmetric" id="123298_10" ></RELATION>
+
+<RELATION theme="123298_3" party1="123298_4" party1_string="WESTINGHOUSE ELECTRIC CORP." theme_string="WESTINGHOUSE ELECTRIC CORP. v. PENNSYLVANIA WORKERS' COMPENSATION APPEAL BOARD ET AL" gram_type="infix" relation_type="asymmetric" id="123298_9" ></RELATION>
+

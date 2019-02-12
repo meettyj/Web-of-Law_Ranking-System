@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['gruborgrubor#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_912" id1="128057" volume="538" start="0" page_number="912" standard_reporter="U.S." citation_global_level_id="1014.002" line="1" id="128057_1" citation_local_level_id="0" >538 U.S. 912</CITATION>
+
+<CITATION party2="GRUBOR" party1="GRUBOR" citation_global_level_id="1014.001" party2_short="GRUBOR" line="1" id="128057_3" alternative_keys="['u.s._538_912']" end="33" entry_type="party_key" lookup_key="gruborgrubor#1" id1="128057" start="17" party1_short="GRUBOR" citation_local_level_id="1" >GRUBOR v. GRUBOR</CITATION>
+
+<NAME end="23" start="17" party1_of="128057_3" all_names="GRUBOR" local_name_id="1" id="128057_4" >GRUBOR</NAME>
+
+<NAME end="33" start="27" all_names="GRUBOR" party2_of="128057_3" local_name_id="1" id="128057_5" >GRUBOR</NAME>
+
+<DOCKET end="50" entry_type="docket" lookup_key="u.s._538_912" id1="128057" start="43" citation_global_level_id="1014.002" line="1" id="128057_2" citation_local_level_id="0" >02-8386</DOCKET>
+
+<DATE start="92" end="106" id="128057_6" >March 10, 2003</DATE>
+
+<NAME start="203" local_name_id="2" end="208" id="128057_13" all_names="SUPER" >Super</NAME>
+
+<CITATION end="266" reporter="A. 2d" entry_type="standard_key" no_current_file="True" lookup_key="a.2d_797_378" id1="Dummy_File_175117" volume="797" start="253" page_number="378" standard_reporter="A.2D" citation_global_level_id="238967.001" line="3" id="128057_12" citation_local_level_id="2" >797 A. 2d 378</CITATION>
+
+<RELATION theme="128057_1" includes_docket_string="02-8386" includes_docket="128057_2" theme_string="538 U.S. 912" gram_type="apposition" relation_type="asymmetric" id="128057_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 912" X_vs_Y_string="GRUBOR v. GRUBOR" standard_case="128057_1" X_vs_Y="128057_3" gram_type="pre_nom" relation_type="equivalence" id="128057_7" ></RELATION>
+
+<RELATION theme="128057_3" includes_docket_string="02-8386" includes_docket="128057_2" theme_string="GRUBOR v. GRUBOR" gram_type="apposition" relation_type="asymmetric" id="128057_10" ></RELATION>
+
+<RELATION theme="128057_3" party1="128057_4" party1_string="GRUBOR" theme_string="GRUBOR v. GRUBOR" gram_type="infix" relation_type="asymmetric" id="128057_8" ></RELATION>
+
+<RELATION party2="128057_5" theme="128057_3" theme_string="GRUBOR v. GRUBOR" party2_string="GRUBOR" gram_type="infix" relation_type="asymmetric" id="128057_9" ></RELATION>
+

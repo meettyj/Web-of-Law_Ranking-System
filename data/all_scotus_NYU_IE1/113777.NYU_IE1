@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['jatoimeier#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_869" id1="113780" volume="510" start="0" page_number="869" standard_reporter="U.S." citation_global_level_id="21240.002" line="1" id="113777_1" citation_local_level_id="0" >510 U.S. 869</CITATION>
+
+<CITATION party2="Meier" party1="Jatoi" citation_global_level_id="53667.001" party2_short="Meier" line="1" id="113777_3" alternative_keys="['u.s._510_869']" end="31" entry_type="party_key" lookup_key="jatoimeier#1" id1="113777" start="17" party1_short="Jatoi" citation_local_level_id="1" >Jatoi v. Meier</CITATION>
+
+<NAME end="22" start="17" party1_of="113777_3" all_names="JATOI" local_name_id="1" id="113777_4" >Jatoi</NAME>
+
+<NAME end="31" start="26" all_names="MEIER" party2_of="113777_3" local_name_id="2" id="113777_5" >Meier</NAME>
+
+<DOCKET end="47" entry_type="docket" lookup_key="u.s._510_869" id1="113780" start="41" citation_global_level_id="21240.002" line="1" id="113777_2" citation_local_level_id="0" >93-211</DOCKET>
+
+<DATE start="89" end="104" id="113777_6" >October 4, 1993</DATE>
+
+<NAME start="182" local_name_id="3" end="192" id="113777_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="231" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_990_1253" id1="Dummy_File_3846" volume="990" start="217" page_number="1253" standard_reporter="F.2D" citation_global_level_id="67696.001" line="3" id="113777_12" citation_local_level_id="2" >990 F. 2d 1253</CITATION>
+
+<RELATION theme="113777_1" includes_docket_string="93-211" includes_docket="113777_2" theme_string="510 U.S. 869" gram_type="apposition" relation_type="asymmetric" id="113777_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 869" X_vs_Y_string="Jatoi v. Meier" standard_case="113777_1" X_vs_Y="113777_3" gram_type="pre_nom" relation_type="equivalence" id="113777_7" ></RELATION>
+
+<RELATION theme="113777_3" includes_docket_string="93-211" includes_docket="113777_2" theme_string="Jatoi v. Meier" gram_type="apposition" relation_type="asymmetric" id="113777_10" ></RELATION>
+
+<RELATION theme="113777_3" party1="113777_4" party1_string="Jatoi" theme_string="Jatoi v. Meier" gram_type="infix" relation_type="asymmetric" id="113777_8" ></RELATION>
+
+<RELATION party2="113777_5" theme="113777_3" theme_string="Jatoi v. Meier" party2_string="Meier" gram_type="infix" relation_type="asymmetric" id="113777_9" ></RELATION>
+

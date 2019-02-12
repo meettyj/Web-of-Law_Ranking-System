@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['hammstates#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._536_913" id1="121322" volume="536" start="0" page_number="913" standard_reporter="U.S." citation_global_level_id="1232.002" line="1" id="121323_1" citation_local_level_id="0" >536 U.S. 913</CITATION>
+
+<CITATION party2="UNITED STATES" party1="HAMM" citation_global_level_id="50435.001" party2_short="STATES" line="2" id="121323_2" alternative_keys="['u.s._536_913']" end="38" entry_type="party_key" lookup_key="hammstates#2" id1="122198" start="17" party1_short="HAMM" citation_local_level_id="1" >HAMM v. UNITED STATES</CITATION>
+
+<NAME end="21" start="17" party1_of="121323_2" all_names="HAMM" local_name_id="1" id="121323_3" >HAMM</NAME>
+
+<NAME end="38" start="25" all_names="UNITED STATES" party2_of="121323_2" local_name_id="2" id="121323_4" >UNITED STATES</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="hammstates#2" id1="122198" start="48" citation_global_level_id="50435.001" line="3" id="121323_7" citation_local_level_id="1" >01-10071</DOCKET>
+
+<DATE start="102" citation_global_level_id="50435.001" end="115" id="121323_8" citation_local_level_id="1" >June 10, 2002</DATE>
+
+<NAME start="148" local_name_id="3" end="151" id="121323_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="202" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_269_1247" id1="Dummy_File_143207" volume="269" start="188" page_number="1247" standard_reporter="F.3D" citation_global_level_id="207057.001" line="8" id="121323_12" citation_local_level_id="2" >269 F. 3d 1247</CITATION>
+
+<RELATION theme="121323_2" party1="121323_3" party1_string="HAMM" theme_string="HAMM v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="121323_5" ></RELATION>
+
+<RELATION party2="121323_4" theme="121323_2" theme_string="HAMM v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="121323_6" ></RELATION>
+
+<RELATION standard_case_string="536 U.S. 913" X_vs_Y_string="HAMM v. UNITED STATES" standard_case="121323_1" X_vs_Y="121323_2" gram_type="multi_line" relation_type="equivalence" id="121323_9" ></RELATION>
+
+<RELATION at_date_string="June 10, 2002" theme="121323_2" at_date="121323_8" theme_string="HAMM v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="121323_11" ></RELATION>
+
+<RELATION theme="121323_2" includes_docket_string="01-10071" includes_docket="121323_7" theme_string="HAMM v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="121323_10" ></RELATION>
+

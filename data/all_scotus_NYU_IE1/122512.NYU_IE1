@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['tradingfactory#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_822" id1="122510" volume="537" start="0" page_number="822" standard_reporter="U.S." citation_global_level_id="14674.002" line="1" id="122512_1" citation_local_level_id="0" >537 U.S. 822</CITATION>
+
+<CITATION party2="OJSC &quot;NOVOKUZNETSKY ALUMINUM FACTORY&quot; ET AL" party1="BASE METAL TRADING, LTD." citation_global_level_id="14674.006" party2_short="FACTORY" line="1" id="122512_3" alternative_keys="['u.s._537_822']" end="88" entry_type="party_key" lookup_key="tradingfactory#2" id1="122510" start="17" party1_short="TRADING" citation_local_level_id="1" >BASE METAL TRADING, LTD. v. OJSC &quot;NOVOKUZNETSKY ALUMINUM FACTORY&quot; ET AL</CITATION>
+
+<NAME end="41" start="17" party1_of="122512_3" all_names="BASE METAL TRADING LTD" local_name_id="1" id="122512_4" >BASE METAL TRADING, LTD.</NAME>
+
+<ORGANIZATION start="17" end="40" id="122512_8" >BASE METAL TRADING, LTD</ORGANIZATION>
+
+<NAME end="88" start="45" all_names="OJSC &quot;NOVOKUZNETSKY ALUMINUM FACTORY&quot;" party2_of="122512_3" local_name_id="2" id="122512_5" >OJSC &quot;NOVOKUZNETSKY ALUMINUM FACTORY&quot; ET AL</NAME>
+
+<DOCKET end="105" entry_type="docket" lookup_key="u.s._537_822" id1="122510" start="98" citation_global_level_id="14674.002" line="1" id="122512_2" citation_local_level_id="0" >01-1796</DOCKET>
+
+<DATE start="101" end="105" id="122512_6" >1796</DATE>
+
+<DATE start="147" end="162" id="122512_7" >October 7, 2002</DATE>
+
+<NAME start="292" local_name_id="3" end="295" id="122512_16" all_names="CIR" >Cir</NAME>
+
+<CITATION alternative_keys="['trierwelierholding#1', 'f.3d_90_1523']" end="345" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_283_208" id1="Dummy_File_117312" volume="283" start="332" page_number="208" standard_reporter="F.3D" citation_global_level_id="181162.004" line="3" id="122512_15" citation_local_level_id="2" >283 F. 3d 208</CITATION>
+
+<RELATION theme="122512_1" includes_docket_string="01-1796" includes_docket="122512_2" theme_string="537 U.S. 822" gram_type="apposition" relation_type="asymmetric" id="122512_13" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 822" X_vs_Y_string="BASE METAL TRADING, LTD. v. OJSC &quot;NOVOKUZNETSKY ALUMINUM FACTORY&quot; ET AL" standard_case="122512_1" X_vs_Y="122512_3" gram_type="pre_nom" relation_type="equivalence" id="122512_9" ></RELATION>
+
+<RELATION theme="122512_3" includes_docket_string="01-1796" includes_docket="122512_2" theme_string="BASE METAL TRADING, LTD. v. OJSC &quot;NOVOKUZNETSKY ALUMINUM FACTORY&quot; ET AL" gram_type="apposition" relation_type="asymmetric" id="122512_12" ></RELATION>
+
+<RELATION theme="122512_3" party1="122512_4" party1_string="BASE METAL TRADING, LTD." theme_string="BASE METAL TRADING, LTD. v. OJSC &quot;NOVOKUZNETSKY ALUMINUM FACTORY&quot; ET AL" gram_type="infix" relation_type="asymmetric" id="122512_10" ></RELATION>
+
+<RELATION party2="122512_5" theme="122512_3" theme_string="BASE METAL TRADING, LTD. v. OJSC &quot;NOVOKUZNETSKY ALUMINUM FACTORY&quot; ET AL" party2_string="OJSC &quot;NOVOKUZNETSKY ALUMINUM FACTORY&quot; ET AL" gram_type="infix" relation_type="asymmetric" id="122512_11" ></RELATION>
+
+<RELATION at_date_string="1796" theme="122512_2" at_date="122512_6" theme_string="01-1796" gram_type="infix" relation_type="asymmetric" id="122512_14" ></RELATION>
+

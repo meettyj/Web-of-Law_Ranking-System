@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['grantcenter#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1198" id1="117648" volume="510" start="0" page_number="1198" standard_reporter="U.S." citation_global_level_id="18067.002" line="1" id="117646_1" citation_local_level_id="0" >510 U.S. 1198</CITATION>
+
+<CITATION party2="Kaiser Permanente Medical Center et al" party1="Grant" citation_global_level_id="48248.001" party2_short="Center" line="1" id="117646_3" alternative_keys="['u.s._510_1198']" end="65" entry_type="party_key" lookup_key="grantcenter#1" id1="117646" start="18" party1_short="Grant" citation_local_level_id="1" >Grant v. Kaiser Permanente Medical Center et al</CITATION>
+
+<NAME end="23" start="18" party1_of="117646_3" all_names="GRANT" local_name_id="1" id="117646_4" >Grant</NAME>
+
+<NAME end="65" start="27" all_names="KAISER PERMANENTE MEDICAL CENTER" party2_of="117646_3" local_name_id="2" id="117646_5" >Kaiser Permanente Medical Center et al</NAME>
+
+<DOCKET end="82" entry_type="docket" lookup_key="u.s._510_1198" id1="117648" start="75" citation_global_level_id="18067.002" line="1" id="117646_2" citation_local_level_id="0" >93-6830</DOCKET>
+
+<DATE start="124" end="138" id="117646_6" >March 21, 1994</DATE>
+
+<NAME start="216" local_name_id="3" end="226" id="117646_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="264" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_999_543" id1="Dummy_File_25022" volume="999" start="251" page_number="543" standard_reporter="F.2D" citation_global_level_id="88872.001" line="3" id="117646_12" citation_local_level_id="2" >999 F. 2d 543</CITATION>
+
+<RELATION theme="117646_1" includes_docket_string="93-6830" includes_docket="117646_2" theme_string="510 U.S. 1198" gram_type="apposition" relation_type="asymmetric" id="117646_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1198" X_vs_Y_string="Grant v. Kaiser Permanente Medical Center et al" standard_case="117646_1" X_vs_Y="117646_3" gram_type="pre_nom" relation_type="equivalence" id="117646_7" ></RELATION>
+
+<RELATION theme="117646_3" includes_docket_string="93-6830" includes_docket="117646_2" theme_string="Grant v. Kaiser Permanente Medical Center et al" gram_type="apposition" relation_type="asymmetric" id="117646_10" ></RELATION>
+
+<RELATION theme="117646_3" party1="117646_4" party1_string="Grant" theme_string="Grant v. Kaiser Permanente Medical Center et al" gram_type="infix" relation_type="asymmetric" id="117646_8" ></RELATION>
+
+<RELATION party2="117646_5" theme="117646_3" theme_string="Grant v. Kaiser Permanente Medical Center et al" party2_string="Kaiser Permanente Medical Center et al" gram_type="infix" relation_type="asymmetric" id="117646_9" ></RELATION>
+

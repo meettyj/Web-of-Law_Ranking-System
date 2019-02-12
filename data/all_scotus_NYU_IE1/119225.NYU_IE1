@@ -1,0 +1,42 @@
+<CITATION alternative_keys="['boswelluniversity#1', 'boswellboard#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_966" id1="119228" volume="535" start="0" page_number="966" standard_reporter="U.S." citation_global_level_id="1069.002" line="1" id="119225_1" citation_local_level_id="0" >535 U.S. 966</CITATION>
+
+<CITATION party2="BOARD OF TRUSTEES OF TEXAS CHRISTIAN UNIVERSITY ET AL" party1="BOSWELL" citation_global_level_id="13833.001" party2_short="BOARD" line="2" id="119225_2" alternative_keys="['u.s._535_966', 'boswelluniversity#1']" end="81" entry_type="party_key" lookup_key="boswellboard#1" id1="119225" start="17" party1_short="BOSWELL" citation_local_level_id="1" >BOSWELL v. BOARD OF TRUSTEES OF TEXAS CHRISTIAN UNIVERSITY ET AL</CITATION>
+
+<NAME end="24" start="17" party1_of="119225_2" all_names="BOSWELL" local_name_id="1" id="119225_4" >BOSWELL</NAME>
+
+<NAME end="81" start="28" all_names="BOARD OF TRUSTEES OF TEXAS CHRISTIAN UNIVERSITY	TEXAS CHRISTIAN UNIVERSITY" party2_of="119225_2" local_name_id="2" id="119225_5" >BOARD OF TRUSTEES OF TEXAS CHRISTIAN UNIVERSITY ET AL</NAME>
+
+<CITATION party2="TEXAS CHRISTIAN UNIVERSITY ET AL" party1="BOSWELL" citation_global_level_id="1069.006" party2_short="UNIVERSITY" line="2" id="119225_3" alternative_keys="['boswellboard#1', 'u.s._535_966']" end="131" entry_type="party_key" lookup_key="boswelluniversity#1" id1="119228" start="88" party1_short="BOSWELL" citation_local_level_id="2" >BOSWELL v. TEXAS CHRISTIAN UNIVERSITY ET AL</CITATION>
+
+<NAME end="95" start="88" party1_of="119225_3" all_names="BOSWELL" local_name_id="1" id="119225_6" >BOSWELL</NAME>
+
+<NAME end="131" start="99" all_names="BOARD OF TRUSTEES OF TEXAS CHRISTIAN UNIVERSITY	TEXAS CHRISTIAN UNIVERSITY" party2_of="119225_3" local_name_id="2" id="119225_7" >TEXAS CHRISTIAN UNIVERSITY ET AL</NAME>
+
+<DOCKET end="148" entry_type="docket" lookup_key="boswellboard#1" id1="119225" start="141" citation_global_level_id="13833.001" line="3" id="119225_12" citation_local_level_id="1" >01-1103</DOCKET>
+
+<DATE start="194" citation_global_level_id="13833.001" end="208" id="119225_13" citation_local_level_id="1" >March 25, 2002</DATE>
+
+<NAME start="240" local_name_id="3" end="243" id="119225_21" all_names="CIR" >Cir</NAME>
+
+<CITATION end="373" reporter="F.3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_263_162" id1="Dummy_File_200604" volume="263" start="344" page_number="162" standard_reporter="F.3D" citation_global_level_id="264454.001" line="8" id="119225_20" citation_local_level_id="3" >263 F.3d 162 (first judgment)</CITATION>
+
+<RELATION theme="119225_2" party1="119225_4" party1_string="BOSWELL" theme_string="BOSWELL v. BOARD OF TRUSTEES OF TEXAS CHRISTIAN UNIVERSITY ET AL" gram_type="infix" relation_type="asymmetric" id="119225_8" ></RELATION>
+
+<RELATION party2="119225_5" theme="119225_2" theme_string="BOSWELL v. BOARD OF TRUSTEES OF TEXAS CHRISTIAN UNIVERSITY ET AL" party2_string="BOARD OF TRUSTEES OF TEXAS CHRISTIAN UNIVERSITY ET AL" gram_type="infix" relation_type="asymmetric" id="119225_9" ></RELATION>
+
+<RELATION theme="119225_3" party1="119225_6" party1_string="BOSWELL" theme_string="BOSWELL v. TEXAS CHRISTIAN UNIVERSITY ET AL" gram_type="infix" relation_type="asymmetric" id="119225_10" ></RELATION>
+
+<RELATION party2="119225_7" theme="119225_3" theme_string="BOSWELL v. TEXAS CHRISTIAN UNIVERSITY ET AL" party2_string="TEXAS CHRISTIAN UNIVERSITY ET AL" gram_type="infix" relation_type="asymmetric" id="119225_11" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 966" X_vs_Y_string="BOSWELL v. TEXAS CHRISTIAN UNIVERSITY ET AL" standard_case="119225_1" X_vs_Y="119225_3" gram_type="multi_line" relation_type="equivalence" id="119225_17" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 966" X_vs_Y_string="BOSWELL v. BOARD OF TRUSTEES OF TEXAS CHRISTIAN UNIVERSITY ET AL" standard_case="119225_1" X_vs_Y="119225_2" gram_type="multi_line" relation_type="equivalence" id="119225_14" ></RELATION>
+
+<RELATION at_date_string="March 25, 2002" theme="119225_2" at_date="119225_13" theme_string="BOSWELL v. BOARD OF TRUSTEES OF TEXAS CHRISTIAN UNIVERSITY ET AL" gram_type="multi_line" relation_type="asymmetric" id="119225_16" ></RELATION>
+
+<RELATION theme="119225_2" includes_docket_string="01-1103" includes_docket="119225_12" theme_string="BOSWELL v. BOARD OF TRUSTEES OF TEXAS CHRISTIAN UNIVERSITY ET AL" gram_type="multi_line" relation_type="asymmetric" id="119225_15" ></RELATION>
+
+<RELATION at_date_string="March 25, 2002" theme="119225_3" at_date="119225_13" theme_string="BOSWELL v. TEXAS CHRISTIAN UNIVERSITY ET AL" gram_type="multi_line" relation_type="asymmetric" id="119225_19" ></RELATION>
+
+<RELATION theme="119225_3" includes_docket_string="01-1103" includes_docket="119225_12" theme_string="BOSWELL v. TEXAS CHRISTIAN UNIVERSITY ET AL" gram_type="multi_line" relation_type="asymmetric" id="119225_18" ></RELATION>
+

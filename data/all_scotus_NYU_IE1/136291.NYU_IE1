@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['robinettinsurance#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_1043" id1="136291" volume="541" start="0" page_number="1043" standard_reporter="U.S." citation_global_level_id="2555.002" line="1" id="136291_1" citation_local_level_id="0" >541 U.S. 1043</CITATION>
+
+<CITATION party2="STATE FARM MUTUAL AUTOMOBILE INSURANCE CO. ET AL" party1="ROBINETT" citation_global_level_id="2555.001" party2_short="INSURANCE" line="2" id="136291_2" alternative_keys="['u.s._541_1043']" end="78" entry_type="party_key" lookup_key="robinettinsurance#1" id1="136291" start="18" party1_short="ROBINETT" citation_local_level_id="1" >ROBINETT v. STATE FARM MUTUAL AUTOMOBILE INSURANCE CO. ET AL</CITATION>
+
+<NAME end="26" start="18" party1_of="136291_2" all_names="ROBINETT" local_name_id="1" id="136291_3" >ROBINETT</NAME>
+
+<NAME end="78" start="30" all_names="STATE FARM MUTUAL AUTOMOBILE INSURANCE CO" party2_of="136291_2" local_name_id="2" id="136291_4" >STATE FARM MUTUAL AUTOMOBILE INSURANCE CO. ET AL</NAME>
+
+<DOCKET end="95" entry_type="docket" lookup_key="robinettinsurance#1" id1="136291" start="88" citation_global_level_id="2555.001" line="3" id="136291_7" citation_local_level_id="1" >03-1306</DOCKET>
+
+<ORGANIZATION start="101" end="131" id="136291_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="137" citation_global_level_id="2555.001" end="149" id="136291_9" citation_local_level_id="1" >May 17, 2004</DATE>
+
+<NAME start="181" local_name_id="3" end="184" id="136291_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="136291_2" party1="136291_3" party1_string="ROBINETT" theme_string="ROBINETT v. STATE FARM MUTUAL AUTOMOBILE INSURANCE CO. ET AL" gram_type="infix" relation_type="asymmetric" id="136291_5" ></RELATION>
+
+<RELATION party2="136291_4" theme="136291_2" theme_string="ROBINETT v. STATE FARM MUTUAL AUTOMOBILE INSURANCE CO. ET AL" party2_string="STATE FARM MUTUAL AUTOMOBILE INSURANCE CO. ET AL" gram_type="infix" relation_type="asymmetric" id="136291_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 1043" X_vs_Y_string="ROBINETT v. STATE FARM MUTUAL AUTOMOBILE INSURANCE CO. ET AL" standard_case="136291_1" X_vs_Y="136291_2" gram_type="multi_line" relation_type="equivalence" id="136291_10" ></RELATION>
+
+<RELATION at_date_string="May 17, 2004" theme="136291_2" at_date="136291_9" theme_string="ROBINETT v. STATE FARM MUTUAL AUTOMOBILE INSURANCE CO. ET AL" gram_type="multi_line" relation_type="asymmetric" id="136291_12" ></RELATION>
+
+<RELATION theme="136291_2" includes_docket_string="03-1306" includes_docket="136291_7" theme_string="ROBINETT v. STATE FARM MUTUAL AUTOMOBILE INSURANCE CO. ET AL" gram_type="multi_line" relation_type="asymmetric" id="136291_11" ></RELATION>
+

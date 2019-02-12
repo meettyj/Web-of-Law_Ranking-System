@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['chapmanpennsylvania#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1178" id1="142645" volume="543" start="0" page_number="1178" standard_reporter="U.S." citation_global_level_id="1385.002" line="1" id="142647_1" citation_local_level_id="0" >543 U.S. 1178</CITATION>
+
+<CITATION party2="PENNSYLVANIA ET AL" party1="CHAPMAN" citation_global_level_id="48791.001" party2_short="PENNSYLVANIA" line="2" id="142647_2" alternative_keys="['u.s._543_1178']" end="47" entry_type="party_key" lookup_key="chapmanpennsylvania#2" id1="142647" start="18" party1_short="CHAPMAN" citation_local_level_id="1" >CHAPMAN v. PENNSYLVANIA ET AL</CITATION>
+
+<NAME end="25" start="18" party1_of="142647_2" all_names="CHAPMAN" local_name_id="1" id="142647_3" >CHAPMAN</NAME>
+
+<NAME end="47" start="29" all_names="PENNSYLVANIA" party2_of="142647_2" local_name_id="2" id="142647_4" >PENNSYLVANIA ET AL</NAME>
+
+<DOCKET end="65" entry_type="docket" lookup_key="chapmanpennsylvania#2" id1="142647" start="57" citation_global_level_id="48791.001" line="3" id="142647_7" citation_local_level_id="1" >03-10445</DOCKET>
+
+<ORGANIZATION start="71" end="101" id="142647_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="107" citation_global_level_id="48791.001" end="124" id="142647_9" citation_local_level_id="1" >February 22, 2005</DATE>
+
+<NAME start="146" local_name_id="3" end="155" id="142647_13" all_names="PETITIONS" >Petitions</NAME>
+
+<RELATION theme="142647_2" party1="142647_3" party1_string="CHAPMAN" theme_string="CHAPMAN v. PENNSYLVANIA ET AL" gram_type="infix" relation_type="asymmetric" id="142647_5" ></RELATION>
+
+<RELATION party2="142647_4" theme="142647_2" theme_string="CHAPMAN v. PENNSYLVANIA ET AL" party2_string="PENNSYLVANIA ET AL" gram_type="infix" relation_type="asymmetric" id="142647_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1178" X_vs_Y_string="CHAPMAN v. PENNSYLVANIA ET AL" standard_case="142647_1" X_vs_Y="142647_2" gram_type="multi_line" relation_type="equivalence" id="142647_10" ></RELATION>
+
+<RELATION at_date_string="February 22, 2005" theme="142647_2" at_date="142647_9" theme_string="CHAPMAN v. PENNSYLVANIA ET AL" gram_type="multi_line" relation_type="asymmetric" id="142647_12" ></RELATION>
+
+<RELATION theme="142647_2" includes_docket_string="03-10445" includes_docket="142647_7" theme_string="CHAPMAN v. PENNSYLVANIA ET AL" gram_type="multi_line" relation_type="asymmetric" id="142647_11" ></RELATION>
+

@@ -1,0 +1,42 @@
+<CITATION alternative_keys="['friedmanbarney#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_822" id1="131425" volume="540" start="0" page_number="822" standard_reporter="U.S." citation_global_level_id="9693.002" line="1" id="131422_1" citation_local_level_id="0" >540 U.S. 822</CITATION>
+
+<CITATION party2="SALOMON/SMITH BARNEY, INC., ET AL" party1="FRIEDMAN ET AL., TRUSTEES UNDER THE WILL OF MEISEL ET UX." citation_global_level_id="35915.001" party2_short="BARNEY" line="1" id="131422_3" alternative_keys="['u.s._540_822']" end="111" entry_type="party_key" lookup_key="friedmanbarney#1" id1="131422" start="17" party1_short="FRIEDMAN" citation_local_level_id="1" >FRIEDMAN ET AL., TRUSTEES UNDER THE WILL OF MEISEL ET UX. v. SALOMON/SMITH BARNEY, INC., ET AL</CITATION>
+
+<NAME end="74" start="17" party1_of="131422_3" all_names="FRIEDMAN TRUSTEES UNDER THE WILL OF MEISEL UX" local_name_id="1" id="131422_4" >FRIEDMAN ET AL., TRUSTEES UNDER THE WILL OF MEISEL ET UX.</NAME>
+
+<NAME start="17" local_name_id="2" end="31" id="131422_8" all_names="FRIEDMAN" >FRIEDMAN ET AL</NAME>
+
+<PROFESSION start="34" end="73" plural="True" id="131422_9" >TRUSTEES UNDER THE WILL OF MEISEL ET UX</PROFESSION>
+
+<NAME end="111" start="78" all_names="SALOMON/SMITH BARNEY INC" party2_of="131422_3" local_name_id="3" id="131422_5" >SALOMON/SMITH BARNEY, INC., ET AL</NAME>
+
+<ORGANIZATION start="78" end="103" id="131422_10" >SALOMON/SMITH BARNEY, INC</ORGANIZATION>
+
+<DOCKET end="128" entry_type="docket" lookup_key="u.s._540_822" id1="131425" start="121" citation_global_level_id="9693.002" line="1" id="131422_2" citation_local_level_id="0" >02-1808</DOCKET>
+
+<DATE start="124" end="128" id="131422_6" >1808</DATE>
+
+<ORGANIZATION start="134" end="164" id="131422_11" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="170" end="185" id="131422_7" >October 6, 2003</DATE>
+
+<NAME start="207" local_name_id="4" end="224" id="131422_12" all_names="APPEAL FROM THE C" >Appeal from the C</NAME>
+
+<NAME start="232" local_name_id="5" end="235" id="131422_13" all_names="CIR" >Cir</NAME>
+
+<NAME start="262" local_name_id="6" end="272" id="131422_21" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="310" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_313_796" id1="Dummy_File_142495" volume="313" start="297" page_number="796" standard_reporter="F.3D" citation_global_level_id="206345.001" line="3" id="131422_20" citation_local_level_id="2" >313 F. 3d 796</CITATION>
+
+<RELATION theme="131422_1" includes_docket_string="02-1808" includes_docket="131422_2" theme_string="540 U.S. 822" gram_type="apposition" relation_type="asymmetric" id="131422_18" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 822" X_vs_Y_string="FRIEDMAN ET AL., TRUSTEES UNDER THE WILL OF MEISEL ET UX. v. SALOMON/SMITH BARNEY, INC., ET AL" standard_case="131422_1" X_vs_Y="131422_3" gram_type="pre_nom" relation_type="equivalence" id="131422_14" ></RELATION>
+
+<RELATION theme="131422_3" includes_docket_string="02-1808" includes_docket="131422_2" theme_string="FRIEDMAN ET AL., TRUSTEES UNDER THE WILL OF MEISEL ET UX. v. SALOMON/SMITH BARNEY, INC., ET AL" gram_type="apposition" relation_type="asymmetric" id="131422_17" ></RELATION>
+
+<RELATION theme="131422_3" party1="131422_4" party1_string="FRIEDMAN ET AL., TRUSTEES UNDER THE WILL OF MEISEL ET UX." theme_string="FRIEDMAN ET AL., TRUSTEES UNDER THE WILL OF MEISEL ET UX. v. SALOMON/SMITH BARNEY, INC., ET AL" gram_type="infix" relation_type="asymmetric" id="131422_15" ></RELATION>
+
+<RELATION party2="131422_5" theme="131422_3" theme_string="FRIEDMAN ET AL., TRUSTEES UNDER THE WILL OF MEISEL ET UX. v. SALOMON/SMITH BARNEY, INC., ET AL" party2_string="SALOMON/SMITH BARNEY, INC., ET AL" gram_type="infix" relation_type="asymmetric" id="131422_16" ></RELATION>
+
+<RELATION at_date_string="1808" theme="131422_2" at_date="131422_6" theme_string="02-1808" gram_type="infix" relation_type="asymmetric" id="131422_19" ></RELATION>
+

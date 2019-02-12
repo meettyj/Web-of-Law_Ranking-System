@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['legacycenters#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_865" id1="113717" volume="510" start="0" page_number="865" standard_reporter="U.S." citation_global_level_id="2528.002" line="1" id="113724_1" citation_local_level_id="0" >510 U.S. 865</CITATION>
+
+<CITATION party2="Channel Home Centers, Inc. et al" party1="Legacy, Ltd." citation_global_level_id="2528.005" party2_short="Centers" line="1" id="113724_3" alternative_keys="['u.s._510_865']" end="65" entry_type="party_key" lookup_key="legacycenters#2" id1="113717" start="17" party1_short="Legacy" citation_local_level_id="1" >Legacy, Ltd. v. Channel Home Centers, Inc. et al</CITATION>
+
+<NAME end="29" start="17" party1_of="113724_3" all_names="LEGACY LTD" local_name_id="1" id="113724_4" >Legacy, Ltd.</NAME>
+
+<ORGANIZATION start="17" end="28" id="113724_7" >Legacy, Ltd</ORGANIZATION>
+
+<NAME end="65" start="33" all_names="CHANNEL HOME CENTERS INC" party2_of="113724_3" local_name_id="2" id="113724_5" >Channel Home Centers, Inc. et al</NAME>
+
+<DOCKET end="81" entry_type="docket" lookup_key="u.s._510_865" id1="113717" start="75" citation_global_level_id="2528.002" line="1" id="113724_2" citation_local_level_id="0" >93-114</DOCKET>
+
+<DATE start="123" end="138" id="113724_6" >October 4, 1993</DATE>
+
+<NAME start="215" local_name_id="3" end="225" id="113724_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="263" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_989_682" id1="Dummy_File_63516" volume="989" start="250" page_number="682" standard_reporter="F.2D" citation_global_level_id="127366.001" line="3" id="113724_13" citation_local_level_id="2" >989 F. 2d 682</CITATION>
+
+<RELATION theme="113724_1" includes_docket_string="93-114" includes_docket="113724_2" theme_string="510 U.S. 865" gram_type="apposition" relation_type="asymmetric" id="113724_12" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 865" X_vs_Y_string="Legacy, Ltd. v. Channel Home Centers, Inc. et al" standard_case="113724_1" X_vs_Y="113724_3" gram_type="pre_nom" relation_type="equivalence" id="113724_8" ></RELATION>
+
+<RELATION theme="113724_3" includes_docket_string="93-114" includes_docket="113724_2" theme_string="Legacy, Ltd. v. Channel Home Centers, Inc. et al" gram_type="apposition" relation_type="asymmetric" id="113724_11" ></RELATION>
+
+<RELATION party2="113724_5" theme="113724_3" theme_string="Legacy, Ltd. v. Channel Home Centers, Inc. et al" party2_string="Channel Home Centers, Inc. et al" gram_type="infix" relation_type="asymmetric" id="113724_10" ></RELATION>
+
+<RELATION theme="113724_3" party1="113724_4" party1_string="Legacy, Ltd." theme_string="Legacy, Ltd. v. Channel Home Centers, Inc. et al" gram_type="infix" relation_type="asymmetric" id="113724_9" ></RELATION>
+

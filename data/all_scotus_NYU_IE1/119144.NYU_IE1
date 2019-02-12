@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['washingtontrust#4']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_960" id1="119141" volume="535" start="0" page_number="960" standard_reporter="U.S." citation_global_level_id="2100.002" line="1" id="119144_1" citation_local_level_id="0" >535 U.S. 960</CITATION>
+
+<CITATION party2="STATE STREET BANK &amp; TRUST CO. ET AL" party1="WASHINGTON" citation_global_level_id="2100.004" party2_short="TRUST" line="2" id="119144_2" alternative_keys="['u.s._535_960']" end="66" entry_type="party_key" lookup_key="washingtontrust#4" id1="119141" start="17" party1_short="WASHINGTON" citation_local_level_id="1" >WASHINGTON v. STATE STREET BANK &amp; TRUST CO. ET AL</CITATION>
+
+<NAME end="27" start="17" party1_of="119144_2" all_names="WASHINGTON" local_name_id="1" id="119144_3" >WASHINGTON</NAME>
+
+<NAME end="66" start="31" all_names="STATE STREET BANK &amp; TRUST CO" party2_of="119144_2" local_name_id="2" id="119144_4" >STATE STREET BANK &amp; TRUST CO. ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._535_960']" end="83" entry_type="docket" lookup_key="washingtontrust#4" id1="119141" start="76" citation_global_level_id="2100.004" line="3" id="119144_7" citation_local_level_id="1" >01-7951</DOCKET>
+
+<DATE start="129" citation_global_level_id="2100.004" end="143" id="119144_8" citation_local_level_id="1" >March 25, 2002</DATE>
+
+<NAME start="165" local_name_id="3" end="178" id="119144_12" all_names="C A 1ST CIR" >C. A. 1st Cir</NAME>
+
+<NAME start="180" local_name_id="4" end="190" id="119144_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="119144_2" party1="119144_3" party1_string="WASHINGTON" theme_string="WASHINGTON v. STATE STREET BANK &amp; TRUST CO. ET AL" gram_type="infix" relation_type="asymmetric" id="119144_5" ></RELATION>
+
+<RELATION party2="119144_4" theme="119144_2" theme_string="WASHINGTON v. STATE STREET BANK &amp; TRUST CO. ET AL" party2_string="STATE STREET BANK &amp; TRUST CO. ET AL" gram_type="infix" relation_type="asymmetric" id="119144_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 960" X_vs_Y_string="WASHINGTON v. STATE STREET BANK &amp; TRUST CO. ET AL" standard_case="119144_1" X_vs_Y="119144_2" gram_type="multi_line" relation_type="equivalence" id="119144_9" ></RELATION>
+
+<RELATION at_date_string="March 25, 2002" theme="119144_2" at_date="119144_8" theme_string="WASHINGTON v. STATE STREET BANK &amp; TRUST CO. ET AL" gram_type="multi_line" relation_type="asymmetric" id="119144_11" ></RELATION>
+
+<RELATION theme="119144_2" includes_docket_string="01-7951" includes_docket="119144_7" theme_string="WASHINGTON v. STATE STREET BANK &amp; TRUST CO. ET AL" gram_type="multi_line" relation_type="asymmetric" id="119144_10" ></RELATION>
+

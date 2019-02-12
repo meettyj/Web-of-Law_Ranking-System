@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['byrdwalls#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_920" id1="123801" volume="537" start="0" page_number="920" standard_reporter="U.S." citation_global_level_id="2157.002" line="1" id="123810_1" citation_local_level_id="0" >537 U.S. 920</CITATION>
+
+<CITATION party2="WALLS" party1="BYRD" citation_global_level_id="25932.001" party2_short="WALLS" line="1" id="123810_3" alternative_keys="['u.s._537_920']" end="30" entry_type="party_key" lookup_key="byrdwalls#1" id1="123810" start="17" party1_short="BYRD" citation_local_level_id="1" >BYRD v. WALLS</CITATION>
+
+<NAME end="21" start="17" party1_of="123810_3" all_names="BYRD" local_name_id="1" id="123810_4" >BYRD</NAME>
+
+<NAME end="30" start="25" all_names="WALLS" party2_of="123810_3" local_name_id="2" id="123810_5" >WALLS</NAME>
+
+<DOCKET end="47" entry_type="docket" lookup_key="u.s._537_920" id1="123801" start="40" citation_global_level_id="2157.002" line="1" id="123810_2" citation_local_level_id="0" >02-5515</DOCKET>
+
+<DATE start="89" end="104" id="123810_6" >October 7, 2002</DATE>
+
+<NAME start="235" local_name_id="3" end="238" id="123810_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="123810_1" includes_docket_string="02-5515" includes_docket="123810_2" theme_string="537 U.S. 920" gram_type="apposition" relation_type="asymmetric" id="123810_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 920" X_vs_Y_string="BYRD v. WALLS" standard_case="123810_1" X_vs_Y="123810_3" gram_type="pre_nom" relation_type="equivalence" id="123810_7" ></RELATION>
+
+<RELATION theme="123810_3" includes_docket_string="02-5515" includes_docket="123810_2" theme_string="BYRD v. WALLS" gram_type="apposition" relation_type="asymmetric" id="123810_10" ></RELATION>
+
+<RELATION theme="123810_3" party1="123810_4" party1_string="BYRD" theme_string="BYRD v. WALLS" gram_type="infix" relation_type="asymmetric" id="123810_8" ></RELATION>
+
+<RELATION party2="123810_5" theme="123810_3" theme_string="BYRD v. WALLS" party2_string="WALLS" gram_type="infix" relation_type="asymmetric" id="123810_9" ></RELATION>
+

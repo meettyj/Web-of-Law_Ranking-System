@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['diazrichards#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_851" id1="113541" volume="510" start="0" page_number="851" standard_reporter="U.S." citation_global_level_id="2297.002" line="1" id="113531_1" citation_local_level_id="0" >510 U.S. 851</CITATION>
+
+<CITATION party2="Richards et al" party1="Diaz" citation_global_level_id="29439.001" party2_short="Richards" line="1" id="113531_3" alternative_keys="['u.s._510_851']" end="39" entry_type="party_key" lookup_key="diazrichards#1" id1="113531" start="17" party1_short="Diaz" citation_local_level_id="1" >Diaz v. Richards et al</CITATION>
+
+<NAME end="21" start="17" party1_of="113531_3" all_names="DIAZ" local_name_id="1" id="113531_4" >Diaz</NAME>
+
+<NAME end="39" start="25" all_names="RICHARDS" party2_of="113531_3" local_name_id="2" id="113531_5" >Richards et al</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._510_851" id1="113541" start="49" citation_global_level_id="2297.002" line="1" id="113531_2" citation_local_level_id="0" >92-9104</DOCKET>
+
+<DATE start="98" end="113" id="113531_6" >October 4, 1993</DATE>
+
+<NAME start="191" local_name_id="3" end="201" id="113531_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="240" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_983_1072" id1="Dummy_File_221487" volume="983" start="226" page_number="1072" standard_reporter="F.2D" citation_global_level_id="285337.001" line="3" id="113531_12" citation_local_level_id="2" >983 F. 2d 1072</CITATION>
+
+<RELATION theme="113531_1" includes_docket_string="92-9104" includes_docket="113531_2" theme_string="510 U.S. 851" gram_type="apposition" relation_type="asymmetric" id="113531_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 851" X_vs_Y_string="Diaz v. Richards et al" standard_case="113531_1" X_vs_Y="113531_3" gram_type="pre_nom" relation_type="equivalence" id="113531_7" ></RELATION>
+
+<RELATION theme="113531_3" includes_docket_string="92-9104" includes_docket="113531_2" theme_string="Diaz v. Richards et al" gram_type="apposition" relation_type="asymmetric" id="113531_10" ></RELATION>
+
+<RELATION theme="113531_3" party1="113531_4" party1_string="Diaz" theme_string="Diaz v. Richards et al" gram_type="infix" relation_type="asymmetric" id="113531_8" ></RELATION>
+
+<RELATION party2="113531_5" theme="113531_3" theme_string="Diaz v. Richards et al" party2_string="Richards et al" gram_type="infix" relation_type="asymmetric" id="113531_9" ></RELATION>
+

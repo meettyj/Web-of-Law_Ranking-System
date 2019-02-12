@@ -1,0 +1,50 @@
+<CITATION alternative_keys="['hydecompany#2']" end="20" reporter="U.S." entry_type="standard_key" lookup_key="u.s._157_654" id1="94175" volume="157" start="1" page_number="654" standard_reporter="U.S." citation_global_level_id="3853.002" line="2" id="94175_1" citation_local_level_id="0" >157 U.S. 654 (____)</CITATION>
+
+<CITATION party2="CONTINENTAL TRUST COMPANY" party1="HYDE" citation_global_level_id="3853.003" party2_short="COMPANY" line="5" id="94175_3" alternative_keys="['u.s._157_654']" end="56" entry_type="party_key" lookup_key="hydecompany#2" id1="94175" start="21" party1_short="HYDE" citation_local_level_id="1" >HYDE v. CONTINENTAL TRUST COMPANY</CITATION>
+
+<NAME end="25" start="21" party1_of="94175_3" all_names="HYDE" local_name_id="1" id="94175_4" >HYDE</NAME>
+
+<NAME end="56" start="31" all_names="CONTINENTAL TRUST COMPANY	FARMERS' LOAN &amp; TRUST COMPANY	FARMERS' LOAN AND TRUST COMPANY" party2_of="94175_3" local_name_id="2" id="94175_5" >CONTINENTAL TRUST COMPANY</NAME>
+
+<ORGANIZATION start="67" end="97" id="94175_9" >Supreme Court of United States</ORGANIZATION>
+
+<ORGANIZATION start="100" end="188" id="94175_10" >Appeal from the Circuit Court of the United States for the Southern District of New York</ORGANIZATION>
+
+<CITATION end="207" line="10" id="94175_11" citation_global_level_id="67259.001" name="THE CHIEF JUSTICE" no_current_file="True" entry_type="case_key" lookup_key="the chief justice#1" id1="Dummy_File_3409" start="190" citation_local_level_id="2" >THE CHIEF JUSTICE</CITATION>
+
+<PROFESSION start="194" end="207" id="94175_12" >CHIEF JUSTICE</PROFESSION>
+
+<NAME start="316" local_name_id="3" end="322" id="94175_13" all_names="DECREE" >Decree</NAME>
+
+<NAME start="351" local_name_id="4" end="368" id="94175_17" all_names="MR JUSTICE FIELD" >MR. JUSTICE FIELD</NAME>
+
+<PROFESSION start="355" end="362" id="94175_18" >JUSTICE</PROFESSION>
+
+<CITATION party2="Farmers' Loan &amp; Trust Company" party1="Pollock" citation_global_level_id="26047.005" party2_short="Company" line="13" id="94175_14" alternative_keys="['u.s._157_429']" end="449" entry_type="party_key" lookup_key="pollockcompany#2" id1="94174" start="409" party1_short="Pollock" citation_local_level_id="3" >Pollock v. Farmers' Loan &amp; Trust Company</CITATION>
+
+<NAME end="416" start="409" party1_of="94175_14" all_names="POLLOCK" local_name_id="5" id="94175_15" >Pollock</NAME>
+
+<NAME end="449" start="420" all_names="CONTINENTAL TRUST COMPANY	FARMERS' LOAN &amp; TRUST COMPANY	FARMERS' LOAN AND TRUST COMPANY" party2_of="94175_14" local_name_id="2" id="94175_16" >Farmers' Loan &amp; Trust Company</NAME>
+
+<NAME start="451" local_name_id="6" end="453" id="94175_24" all_names="MR" >MR</NAME>
+
+<CITATION party2="Farmers' Loan and Trust Company" party1="Pollock" citation_global_level_id="26047.006" party2_short="Loan" line="14" id="94175_21" alternative_keys="['u.s._157_429']" end="627" entry_type="party_key" lookup_key="pollockloan#1" id1="94174" start="585" party1_short="Pollock" citation_local_level_id="4" >Pollock v. Farmers' Loan and Trust Company</CITATION>
+
+<NAME end="592" start="585" party1_of="94175_21" all_names="POLLOCK" local_name_id="5" id="94175_22" >Pollock</NAME>
+
+<NAME end="627" start="596" all_names="CONTINENTAL TRUST COMPANY	FARMERS' LOAN &amp; TRUST COMPANY	FARMERS' LOAN AND TRUST COMPANY" party2_of="94175_21" local_name_id="2" id="94175_23" >Farmers' Loan and Trust Company</NAME>
+
+<RELATION theme="94175_3" party1="94175_4" party1_string="HYDE" theme_string="HYDE  v.  CONTINENTAL TRUST COMPANY" gram_type="infix" relation_type="asymmetric" id="94175_6" ></RELATION>
+
+<RELATION party2="94175_5" theme="94175_3" theme_string="HYDE  v.  CONTINENTAL TRUST COMPANY" party2_string="CONTINENTAL TRUST COMPANY" gram_type="infix" relation_type="asymmetric" id="94175_7" ></RELATION>
+
+<RELATION standard_case_string="157 U.S. 654 (____)" X_vs_Y_string="HYDE  v.  CONTINENTAL TRUST COMPANY" standard_case="94175_1" X_vs_Y="94175_3" gram_type="multi_line" relation_type="equivalence" id="94175_8" ></RELATION>
+
+<RELATION theme="94175_14" party1="94175_15" party1_string="Pollock" theme_string="Pollock v. Farmers' Loan &amp; Trust Company" gram_type="infix" relation_type="asymmetric" id="94175_19" ></RELATION>
+
+<RELATION party2="94175_16" theme="94175_14" theme_string="Pollock v. Farmers' Loan &amp; Trust Company" party2_string="Farmers' Loan &amp; Trust Company" gram_type="infix" relation_type="asymmetric" id="94175_20" ></RELATION>
+
+<RELATION theme="94175_21" party1="94175_22" party1_string="Pollock" theme_string="Pollock v. Farmers' Loan and Trust Company" gram_type="infix" relation_type="asymmetric" id="94175_25" ></RELATION>
+
+<RELATION party2="94175_23" theme="94175_21" theme_string="Pollock v. Farmers' Loan and Trust Company" party2_string="Farmers' Loan and Trust Company" gram_type="infix" relation_type="asymmetric" id="94175_26" ></RELATION>
+

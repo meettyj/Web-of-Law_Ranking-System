@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['kellyvirginia#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_959" id1="139807" volume="543" start="0" page_number="959" standard_reporter="U.S." citation_global_level_id="864.002" line="1" id="139798_1" citation_local_level_id="0" >543 U.S. 959</CITATION>
+
+<CITATION party2="VIRGINIA" party1="KELLY" citation_global_level_id="36549.001" party2_short="VIRGINIA" line="2" id="139798_3" alternative_keys="['u.s._543_959']" end="34" entry_type="party_key" lookup_key="kellyvirginia#1" id1="139798" start="17" party1_short="KELLY" citation_local_level_id="1" >KELLY v. VIRGINIA</CITATION>
+
+<NAME end="22" start="17" party1_of="139798_3" all_names="KELLY" local_name_id="1" id="139798_4" >KELLY</NAME>
+
+<NAME end="34" start="26" all_names="VIRGINIA" party2_of="139798_3" local_name_id="2" id="139798_5" >VIRGINIA</NAME>
+
+<DOCKET end="50" entry_type="docket" lookup_key="kellyvirginia#1" id1="139798" start="44" citation_global_level_id="36549.001" line="2" id="139798_2" citation_local_level_id="1" >04-353</DOCKET>
+
+<ORGANIZATION start="56" end="86" id="139798_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="92" citation_global_level_id="36549.001" end="108" id="139798_10" citation_local_level_id="1" >November 1, 2004</DATE>
+
+<NAME start="130" local_name_id="3" end="133" id="139798_13" all_names="SUP" >Sup</NAME>
+
+<RELATION theme="139798_3" includes_docket_string="04-353" includes_docket="139798_2" theme_string="KELLY v. VIRGINIA" gram_type="apposition" relation_type="asymmetric" id="139798_8" ></RELATION>
+
+<RELATION theme="139798_3" party1="139798_4" party1_string="KELLY" theme_string="KELLY v. VIRGINIA" gram_type="infix" relation_type="asymmetric" id="139798_6" ></RELATION>
+
+<RELATION party2="139798_5" theme="139798_3" theme_string="KELLY v. VIRGINIA" party2_string="VIRGINIA" gram_type="infix" relation_type="asymmetric" id="139798_7" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 959" X_vs_Y_string="KELLY v. VIRGINIA" standard_case="139798_1" X_vs_Y="139798_3" gram_type="multi_line" relation_type="equivalence" id="139798_11" ></RELATION>
+
+<RELATION at_date_string="November 1, 2004" theme="139798_3" at_date="139798_10" theme_string="KELLY v. VIRGINIA" gram_type="multi_line" relation_type="asymmetric" id="139798_12" ></RELATION>
+

@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['mcmahondistrict#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_824" id1="131443" volume="540" start="0" page_number="824" standard_reporter="U.S." citation_global_level_id="4134.002" line="1" id="131448_1" citation_local_level_id="0" >540 U.S. 824</CITATION>
+
+<CITATION party2="ALBANY UNIFIED SCHOOL DISTRICT ET AL" party1="McMAHON" citation_global_level_id="58691.001" party2_short="DISTRICT" line="1" id="131448_3" alternative_keys="['u.s._540_824']" end="64" entry_type="party_key" lookup_key="mcmahondistrict#2" id1="131448" start="17" party1_short="McMAHON" citation_local_level_id="1" >McMAHON v. ALBANY UNIFIED SCHOOL DISTRICT ET AL</CITATION>
+
+<NAME end="24" start="17" party1_of="131448_3" all_names="MCMAHON" local_name_id="1" id="131448_4" >McMAHON</NAME>
+
+<NAME end="64" start="28" all_names="ALBANY UNIFIED SCHOOL DISTRICT" party2_of="131448_3" local_name_id="2" id="131448_5" >ALBANY UNIFIED SCHOOL DISTRICT ET AL</NAME>
+
+<DOCKET end="81" entry_type="docket" lookup_key="u.s._540_824" id1="131443" start="74" citation_global_level_id="4134.002" line="1" id="131448_2" citation_local_level_id="0" >02-1832</DOCKET>
+
+<DATE start="77" end="81" id="131448_6" >1832</DATE>
+
+<DATE start="123" end="138" id="131448_7" >October 6, 2003</DATE>
+
+<NAME start="231" local_name_id="3" end="241" id="131448_15" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="311" reporter="Cal. Rptr. 2d" entry_type="standard_key" no_current_file="True" lookup_key="cal.rptr.2d_129_184" id1="Dummy_File_203281" volume="129" start="290" page_number="184" standard_reporter="CAL.RPTR.2D" citation_global_level_id="267131.001" line="3" id="131448_14" citation_local_level_id="2" >129 Cal. Rptr. 2d 184</CITATION>
+
+<RELATION theme="131448_1" includes_docket_string="02-1832" includes_docket="131448_2" theme_string="540 U.S. 824" gram_type="apposition" relation_type="asymmetric" id="131448_12" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 824" X_vs_Y_string="McMAHON v. ALBANY UNIFIED SCHOOL DISTRICT ET AL" standard_case="131448_1" X_vs_Y="131448_3" gram_type="pre_nom" relation_type="equivalence" id="131448_8" ></RELATION>
+
+<RELATION theme="131448_3" includes_docket_string="02-1832" includes_docket="131448_2" theme_string="McMAHON v. ALBANY UNIFIED SCHOOL DISTRICT ET AL" gram_type="apposition" relation_type="asymmetric" id="131448_11" ></RELATION>
+
+<RELATION party2="131448_5" theme="131448_3" theme_string="McMAHON v. ALBANY UNIFIED SCHOOL DISTRICT ET AL" party2_string="ALBANY UNIFIED SCHOOL DISTRICT ET AL" gram_type="infix" relation_type="asymmetric" id="131448_10" ></RELATION>
+
+<RELATION theme="131448_3" party1="131448_4" party1_string="McMAHON" theme_string="McMAHON v. ALBANY UNIFIED SCHOOL DISTRICT ET AL" gram_type="infix" relation_type="asymmetric" id="131448_9" ></RELATION>
+
+<RELATION at_date_string="1832" theme="131448_2" at_date="131448_6" theme_string="02-1832" gram_type="infix" relation_type="asymmetric" id="131448_13" ></RELATION>
+

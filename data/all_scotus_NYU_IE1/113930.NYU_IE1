@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['kochwisconsin#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_880" id1="113923" volume="510" start="0" page_number="880" standard_reporter="U.S." citation_global_level_id="3202.002" line="1" id="113930_1" citation_local_level_id="0" >510 U.S. 880</CITATION>
+
+<CITATION party2="Wisconsin" party1="Koch" citation_global_level_id="55696.001" party2_short="Wisconsin" line="1" id="113930_3" alternative_keys="['u.s._510_880']" end="34" entry_type="party_key" lookup_key="kochwisconsin#1" id1="113930" start="17" party1_short="Koch" citation_local_level_id="1" >Koch v. Wisconsin</CITATION>
+
+<NAME end="21" start="17" party1_of="113930_3" all_names="KOCH" local_name_id="1" id="113930_4" >Koch</NAME>
+
+<NAME end="34" start="25" all_names="WISCONSIN" party2_of="113930_3" local_name_id="2" id="113930_5" >Wisconsin</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="u.s._510_880" id1="113923" start="44" citation_global_level_id="3202.002" line="1" id="113930_2" citation_local_level_id="0" >93-5174</DOCKET>
+
+<DATE start="93" end="108" id="113930_6" >October 4, 1993</DATE>
+
+<NAME start="185" local_name_id="3" end="195" id="113930_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="253" reporter="N. W. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.w.2d_499_152" id1="Dummy_File_188664" volume="499" start="237" page_number="152" standard_reporter="N.W.2D" citation_global_level_id="252514.001" line="3" id="113930_12" citation_local_level_id="2" >499 N. W. 2d 152</CITATION>
+
+<RELATION theme="113930_1" includes_docket_string="93-5174" includes_docket="113930_2" theme_string="510 U.S. 880" gram_type="apposition" relation_type="asymmetric" id="113930_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 880" X_vs_Y_string="Koch v. Wisconsin" standard_case="113930_1" X_vs_Y="113930_3" gram_type="pre_nom" relation_type="equivalence" id="113930_7" ></RELATION>
+
+<RELATION theme="113930_3" includes_docket_string="93-5174" includes_docket="113930_2" theme_string="Koch v. Wisconsin" gram_type="apposition" relation_type="asymmetric" id="113930_10" ></RELATION>
+
+<RELATION theme="113930_3" party1="113930_4" party1_string="Koch" theme_string="Koch v. Wisconsin" gram_type="infix" relation_type="asymmetric" id="113930_8" ></RELATION>
+
+<RELATION party2="113930_5" theme="113930_3" theme_string="Koch v. Wisconsin" party2_string="Wisconsin" gram_type="infix" relation_type="asymmetric" id="113930_9" ></RELATION>
+

@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['besinghawthorne#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_821" id1="113135" volume="510" start="0" page_number="821" standard_reporter="U.S." citation_global_level_id="11439.002" line="1" id="113137_1" citation_local_level_id="0" >510 U.S. 821</CITATION>
+
+<CITATION party2="Hawthorne" party1="Besing et al." citation_global_level_id="50918.001" party2_short="Hawthorne" line="1" id="113137_3" alternative_keys="['u.s._510_821']" end="43" entry_type="party_key" lookup_key="besinghawthorne#1" id1="113137" start="17" party1_short="Besing" citation_local_level_id="1" >Besing et al. v. Hawthorne</CITATION>
+
+<NAME end="30" start="17" party1_of="113137_3" all_names="BESING" local_name_id="1" id="113137_4" >Besing et al.</NAME>
+
+<NAME start="17" local_name_id="1" end="23" id="113137_8" all_names="BESING" >Besing</NAME>
+
+<NAME end="43" start="34" all_names="HAWTHORNE" party2_of="113137_3" local_name_id="2" id="113137_5" >Hawthorne</NAME>
+
+<DOCKET end="60" entry_type="docket" lookup_key="u.s._510_821" id1="113135" start="53" citation_global_level_id="11439.002" line="1" id="113137_2" citation_local_level_id="0" >92-1932</DOCKET>
+
+<DATE start="56" end="60" id="113137_6" >1932</DATE>
+
+<DATE start="102" end="117" id="113137_7" >October 4, 1993</DATE>
+
+<NAME start="195" local_name_id="3" end="205" id="113137_16" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="244" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_981_1488" id1="Dummy_File_234171" volume="981" start="230" page_number="1488" standard_reporter="F.2D" citation_global_level_id="298021.001" line="3" id="113137_15" citation_local_level_id="2" >981 F. 2d 1488</CITATION>
+
+<RELATION theme="113137_1" includes_docket_string="92-1932" includes_docket="113137_2" theme_string="510 U.S. 821" gram_type="apposition" relation_type="asymmetric" id="113137_13" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 821" X_vs_Y_string="Besing et al. v. Hawthorne" standard_case="113137_1" X_vs_Y="113137_3" gram_type="pre_nom" relation_type="equivalence" id="113137_9" ></RELATION>
+
+<RELATION theme="113137_3" includes_docket_string="92-1932" includes_docket="113137_2" theme_string="Besing et al. v. Hawthorne" gram_type="apposition" relation_type="asymmetric" id="113137_12" ></RELATION>
+
+<RELATION theme="113137_3" party1="113137_4" party1_string="Besing et al." theme_string="Besing et al. v. Hawthorne" gram_type="infix" relation_type="asymmetric" id="113137_10" ></RELATION>
+
+<RELATION party2="113137_5" theme="113137_3" theme_string="Besing et al. v. Hawthorne" party2_string="Hawthorne" gram_type="infix" relation_type="asymmetric" id="113137_11" ></RELATION>
+
+<RELATION at_date_string="1932" theme="113137_2" at_date="113137_6" theme_string="92-1932" gram_type="infix" relation_type="asymmetric" id="113137_14" ></RELATION>
+

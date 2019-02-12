@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['burghartlandau#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1196" id1="117619" volume="510" start="0" page_number="1196" standard_reporter="U.S." citation_global_level_id="1280.002" line="1" id="117619_1" citation_local_level_id="0" >510 U.S. 1196</CITATION>
+
+<CITATION party2="Landau et al" party1="Burghart" citation_global_level_id="1280.001" party2_short="Landau" line="1" id="117619_3" alternative_keys="['u.s._510_1196']" end="42" entry_type="party_key" lookup_key="burghartlandau#1" id1="117619" start="18" party1_short="Burghart" citation_local_level_id="1" >Burghart v. Landau et al</CITATION>
+
+<NAME end="26" start="18" party1_of="117619_3" all_names="BURGHART" local_name_id="1" id="117619_4" >Burghart</NAME>
+
+<NAME end="42" start="30" all_names="LANDAU" party2_of="117619_3" local_name_id="2" id="117619_5" >Landau et al</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="u.s._510_1196" id1="117619" start="52" citation_global_level_id="1280.002" line="1" id="117619_2" citation_local_level_id="0" >93-1228</DOCKET>
+
+<DATE start="101" end="115" id="117619_6" >March 21, 1994</DATE>
+
+<NAME start="192" local_name_id="3" end="202" id="117619_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="239" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_9_1538" id1="Dummy_File_16927" volume="9" start="227" page_number="1538" standard_reporter="F.3D" citation_global_level_id="80777.001" line="3" id="117619_12" citation_local_level_id="2" >9 F. 3d 1538</CITATION>
+
+<RELATION theme="117619_1" includes_docket_string="93-1228" includes_docket="117619_2" theme_string="510 U.S. 1196" gram_type="apposition" relation_type="asymmetric" id="117619_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1196" X_vs_Y_string="Burghart v. Landau et al" standard_case="117619_1" X_vs_Y="117619_3" gram_type="pre_nom" relation_type="equivalence" id="117619_7" ></RELATION>
+
+<RELATION theme="117619_3" includes_docket_string="93-1228" includes_docket="117619_2" theme_string="Burghart v. Landau et al" gram_type="apposition" relation_type="asymmetric" id="117619_10" ></RELATION>
+
+<RELATION theme="117619_3" party1="117619_4" party1_string="Burghart" theme_string="Burghart v. Landau et al" gram_type="infix" relation_type="asymmetric" id="117619_8" ></RELATION>
+
+<RELATION party2="117619_5" theme="117619_3" theme_string="Burghart v. Landau et al" party2_string="Landau et al" gram_type="infix" relation_type="asymmetric" id="117619_9" ></RELATION>
+

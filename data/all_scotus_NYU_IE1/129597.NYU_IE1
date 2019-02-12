@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['missouriseibert#3']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1031" id1="129592" volume="538" start="0" page_number="1031" standard_reporter="U.S." citation_global_level_id="201.002" line="1" id="129597_1" citation_local_level_id="0" >538 U.S. 1031</CITATION>
+
+<CITATION party2="SEIBERT" party1="MISSOURI" citation_global_level_id="58172.001" party2_short="SEIBERT" line="1" id="129597_3" alternative_keys="['u.s._538_1031']" end="37" entry_type="party_key" lookup_key="missouriseibert#3" id1="133480" start="18" party1_short="MISSOURI" citation_local_level_id="1" >MISSOURI v. SEIBERT</CITATION>
+
+<NAME end="26" start="18" party1_of="129597_3" all_names="MISSOURI" local_name_id="1" id="129597_4" >MISSOURI</NAME>
+
+<NAME end="37" start="30" all_names="SEIBERT" party2_of="129597_3" local_name_id="2" id="129597_5" >SEIBERT</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="u.s._538_1031" id1="129592" start="47" citation_global_level_id="201.002" line="1" id="129597_2" citation_local_level_id="0" >02-1371</DOCKET>
+
+<DATE start="96" end="108" id="129597_6" >May 19, 2003</DATE>
+
+<NAME start="199" local_name_id="3" end="202" id="129597_13" all_names="SUP" >Sup</NAME>
+
+<CITATION end="332" reporter="S. W. 3d" entry_type="standard_key" no_current_file="True" lookup_key="s.w.3d_93_700" id1="Dummy_File_139232" volume="93" start="317" page_number="700" standard_reporter="S.W.3D" citation_global_level_id="203082.001" line="3" id="129597_12" citation_local_level_id="2" >93 S. W. 3d 700</CITATION>
+
+<RELATION theme="129597_1" includes_docket_string="02-1371" includes_docket="129597_2" theme_string="538 U.S. 1031" gram_type="apposition" relation_type="asymmetric" id="129597_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1031" X_vs_Y_string="MISSOURI v. SEIBERT" standard_case="129597_1" X_vs_Y="129597_3" gram_type="pre_nom" relation_type="equivalence" id="129597_7" ></RELATION>
+
+<RELATION theme="129597_3" includes_docket_string="02-1371" includes_docket="129597_2" theme_string="MISSOURI v. SEIBERT" gram_type="apposition" relation_type="asymmetric" id="129597_10" ></RELATION>
+
+<RELATION theme="129597_3" party1="129597_4" party1_string="MISSOURI" theme_string="MISSOURI v. SEIBERT" gram_type="infix" relation_type="asymmetric" id="129597_8" ></RELATION>
+
+<RELATION party2="129597_5" theme="129597_3" theme_string="MISSOURI v. SEIBERT" party2_string="SEIBERT" gram_type="infix" relation_type="asymmetric" id="129597_9" ></RELATION>
+

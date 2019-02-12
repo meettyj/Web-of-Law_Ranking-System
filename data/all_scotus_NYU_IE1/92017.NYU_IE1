@@ -1,0 +1,46 @@
+<CITATION alternative_keys="['statesmississippi#1', 'statesalabama#3']" end="19" reporter="U.S." entry_type="standard_key" lookup_key="u.s._123_39" id1="92017" volume="123" start="1" page_number="39" standard_reporter="U.S." citation_global_level_id="62010.002" line="2" id="92017_1" citation_local_level_id="0" >123 U.S. 39 (____)</CITATION>
+
+<CITATION party2="ALABAMA" party1="UNITED STATES" citation_global_level_id="62010.001" party2_short="ALABAMA" line="5" id="92017_3" alternative_keys="['u.s._123_39', 'statesmississippi#1']" end="46" entry_type="party_key" lookup_key="statesalabama#3" id1="92017" start="20" party1_short="STATES" citation_local_level_id="1" >UNITED STATES v. ALABAMA</CITATION>
+
+<NAME end="33" start="20" party1_of="92017_3" all_names="UNITED STATES	THE UNITED STATES" local_name_id="1" id="92017_4" >UNITED STATES</NAME>
+
+<NAME end="46" start="39" all_names="ALABAMA" party2_of="92017_3" local_name_id="2" id="92017_5" >ALABAMA</NAME>
+
+<CITATION party2="MISSISSIPPI" party1="UNITED STATES" citation_global_level_id="17620.001" party2_short="MISSISSIPPI" line="8" id="92017_9" alternative_keys="['u.s._123_39', 'statesalabama#3']" end="79" entry_type="party_key" lookup_key="statesmississippi#1" id1="106992" start="49" party1_short="STATES" citation_local_level_id="2" >UNITED STATES v. MISSISSIPPI</CITATION>
+
+<NAME end="62" start="49" party1_of="92017_9" all_names="UNITED STATES	THE UNITED STATES" local_name_id="1" id="92017_10" >UNITED STATES</NAME>
+
+<NAME end="79" start="68" all_names="MISSISSIPPI" party2_of="92017_9" local_name_id="3" id="92017_11" >MISSISSIPPI</NAME>
+
+<ORGANIZATION start="81" end="111" id="92017_14" >Supreme Court of United States</ORGANIZATION>
+
+<ORGANIZATION start="114" end="146" id="92017_17" >Appeals from the Court of Claims</ORGANIZATION>
+
+<LEGAL_ROLE start="148" end="203" id="92017_18" >Mr. Attorney General and Mr. Heber J. May for appellant</LEGAL_ROLE>
+
+<LEGAL_ROLE start="218" end="249" id="92017_19" >Mr. Van H. Manning for appellee</LEGAL_ROLE>
+
+<NAME start="264" local_name_id="4" end="266" id="92017_20" all_names="MR" >MR</NAME>
+
+<CITATION party2="The State of Louisiana" party1="The United States" citation_global_level_id="7781.001" party2_short="State" line="15" id="92017_21" end="408" entry_type="party_key" lookup_key="statesstate#3" id1="108387" start="365" party1_short="States" citation_local_level_id="3" >The United States v. The State of Louisiana</CITATION>
+
+<NAME end="382" start="365" party1_of="92017_21" all_names="UNITED STATES	THE UNITED STATES" local_name_id="1" id="92017_22" >The United States</NAME>
+
+<NAME end="408" start="386" all_names="THE STATE OF LOUISIANA" party2_of="92017_21" local_name_id="5" id="92017_23" >The State of Louisiana</NAME>
+
+<RELATION theme="92017_3" party1="92017_4" party1_string="UNITED STATES" theme_string="UNITED STATES  v.  ALABAMA" gram_type="infix" relation_type="asymmetric" id="92017_6" ></RELATION>
+
+<RELATION party2="92017_5" theme="92017_3" theme_string="UNITED STATES  v.  ALABAMA" party2_string="ALABAMA" gram_type="infix" relation_type="asymmetric" id="92017_7" ></RELATION>
+
+<RELATION theme="92017_9" party1="92017_10" party1_string="UNITED STATES" theme_string="UNITED STATES  v.  MISSISSIPPI" gram_type="infix" relation_type="asymmetric" id="92017_12" ></RELATION>
+
+<RELATION party2="92017_11" theme="92017_9" theme_string="UNITED STATES  v.  MISSISSIPPI" party2_string="MISSISSIPPI" gram_type="infix" relation_type="asymmetric" id="92017_13" ></RELATION>
+
+<RELATION standard_case_string="123 U.S. 39 (____)" X_vs_Y_string="UNITED STATES  v.  MISSISSIPPI" standard_case="92017_1" X_vs_Y="92017_9" gram_type="multi_line" relation_type="equivalence" id="92017_16" ></RELATION>
+
+<RELATION standard_case_string="123 U.S. 39 (____)" X_vs_Y_string="UNITED STATES  v.  ALABAMA" standard_case="92017_1" X_vs_Y="92017_3" gram_type="multi_line" relation_type="equivalence" id="92017_15" ></RELATION>
+
+<RELATION theme="92017_21" party1="92017_22" party1_string="The United States" theme_string="The United States v. The State of Louisiana" gram_type="infix" relation_type="asymmetric" id="92017_24" ></RELATION>
+
+<RELATION party2="92017_23" theme="92017_21" theme_string="The United States v. The State of Louisiana" party2_string="The State of Louisiana" gram_type="infix" relation_type="asymmetric" id="92017_25" ></RELATION>
+

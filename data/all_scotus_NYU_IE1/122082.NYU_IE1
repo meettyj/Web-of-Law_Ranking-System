@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['spanagelservices#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._536_976" id1="122065" volume="536" start="0" page_number="976" standard_reporter="U.S." citation_global_level_id="3506.002" line="1" id="122082_1" citation_local_level_id="0" >536 U.S. 976</CITATION>
+
+<CITATION party2="SUPPORTIVE CARE SERVICES, INC" party1="SPANAGEL" citation_global_level_id="57196.001" party2_short="SERVICES" line="2" id="122082_2" alternative_keys="['u.s._536_976']" end="58" entry_type="party_key" lookup_key="spanagelservices#2" id1="120592" start="17" party1_short="SPANAGEL" citation_local_level_id="1" >SPANAGEL v. SUPPORTIVE CARE SERVICES, INC</CITATION>
+
+<NAME end="25" start="17" party1_of="122082_2" all_names="SPANAGEL" local_name_id="1" id="122082_3" >SPANAGEL</NAME>
+
+<NAME end="58" start="29" all_names="SUPPORTIVE CARE SERVICES INC" party2_of="122082_2" local_name_id="2" id="122082_4" >SUPPORTIVE CARE SERVICES, INC</NAME>
+
+<DOCKET end="75" entry_type="docket" lookup_key="spanagelservices#2" id1="120592" start="68" citation_global_level_id="57196.001" line="3" id="122082_7" citation_local_level_id="1" >01-1379</DOCKET>
+
+<DATE start="121" citation_global_level_id="57196.001" end="135" id="122082_8" citation_local_level_id="1" >August 5, 2002</DATE>
+
+<CITATION end="171" reporter="U. S." entry_type="standard_key" lookup_key="u.s._535_1078" id1="120591" volume="535" start="157" page_number="1078" standard_reporter="U.S." citation_global_level_id="3382.002" line="8" id="122082_12" citation_local_level_id="2" >535 U. S. 1078</CITATION>
+
+<NAME start="173" local_name_id="3" end="182" id="122082_13" all_names="PETITIONS" >Petitions</NAME>
+
+<RELATION theme="122082_2" party1="122082_3" party1_string="SPANAGEL" theme_string="SPANAGEL v. SUPPORTIVE CARE SERVICES, INC" gram_type="infix" relation_type="asymmetric" id="122082_5" ></RELATION>
+
+<RELATION party2="122082_4" theme="122082_2" theme_string="SPANAGEL v. SUPPORTIVE CARE SERVICES, INC" party2_string="SUPPORTIVE CARE SERVICES, INC" gram_type="infix" relation_type="asymmetric" id="122082_6" ></RELATION>
+
+<RELATION standard_case_string="536 U.S. 976" X_vs_Y_string="SPANAGEL v. SUPPORTIVE CARE SERVICES, INC" standard_case="122082_1" X_vs_Y="122082_2" gram_type="multi_line" relation_type="equivalence" id="122082_9" ></RELATION>
+
+<RELATION at_date_string="August 5, 2002" theme="122082_2" at_date="122082_8" theme_string="SPANAGEL v. SUPPORTIVE CARE SERVICES, INC" gram_type="multi_line" relation_type="asymmetric" id="122082_11" ></RELATION>
+
+<RELATION theme="122082_2" includes_docket_string="01-1379" includes_docket="122082_7" theme_string="SPANAGEL v. SUPPORTIVE CARE SERVICES, INC" gram_type="multi_line" relation_type="asymmetric" id="122082_10" ></RELATION>
+

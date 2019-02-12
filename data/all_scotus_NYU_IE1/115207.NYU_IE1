@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['hillburd#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_981" id1="115197" volume="510" start="0" page_number="981" standard_reporter="U.S." citation_global_level_id="1309.002" line="1" id="115207_1" citation_local_level_id="0" >510 U.S. 981</CITATION>
+
+<CITATION party2="Burd" party1="Hill" citation_global_level_id="43166.001" party2_short="Burd" line="1" id="115207_3" alternative_keys="['u.s._510_981']" end="29" entry_type="party_key" lookup_key="hillburd#1" id1="115207" start="17" party1_short="Hill" citation_local_level_id="1" >Hill v. Burd</CITATION>
+
+<NAME end="21" start="17" party1_of="115207_3" all_names="HILL" local_name_id="1" id="115207_4" >Hill</NAME>
+
+<NAME end="29" start="25" all_names="BURD" party2_of="115207_3" local_name_id="2" id="115207_5" >Burd</NAME>
+
+<DOCKET end="46" entry_type="docket" lookup_key="u.s._510_981" id1="115197" start="39" citation_global_level_id="1309.002" line="1" id="115207_2" citation_local_level_id="0" >93-6154</DOCKET>
+
+<DATE start="88" end="105" id="115207_6" >November 15, 1993</DATE>
+
+<NAME start="182" local_name_id="3" end="192" id="115207_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="228" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_6_779" id1="Dummy_File_59215" volume="6" start="217" page_number="779" standard_reporter="F.3D" citation_global_level_id="123065.001" line="3" id="115207_12" citation_local_level_id="2" >6 F. 3d 779</CITATION>
+
+<RELATION theme="115207_1" includes_docket_string="93-6154" includes_docket="115207_2" theme_string="510 U.S. 981" gram_type="apposition" relation_type="asymmetric" id="115207_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 981" X_vs_Y_string="Hill v. Burd" standard_case="115207_1" X_vs_Y="115207_3" gram_type="pre_nom" relation_type="equivalence" id="115207_7" ></RELATION>
+
+<RELATION theme="115207_3" includes_docket_string="93-6154" includes_docket="115207_2" theme_string="Hill v. Burd" gram_type="apposition" relation_type="asymmetric" id="115207_10" ></RELATION>
+
+<RELATION theme="115207_3" party1="115207_4" party1_string="Hill" theme_string="Hill v. Burd" gram_type="infix" relation_type="asymmetric" id="115207_8" ></RELATION>
+
+<RELATION party2="115207_5" theme="115207_3" theme_string="Hill v. Burd" party2_string="Burd" gram_type="infix" relation_type="asymmetric" id="115207_9" ></RELATION>
+

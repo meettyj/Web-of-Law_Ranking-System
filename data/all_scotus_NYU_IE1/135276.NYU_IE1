@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['diagnosticsab#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_959" id1="135286" volume="541" start="0" page_number="959" standard_reporter="U.S." citation_global_level_id="1664.002" line="1" id="135276_1" citation_local_level_id="0" >541 U.S. 959</CITATION>
+
+<CITATION party2="ELEKTA AB ET AL" party1="MEDICAL INSTRUMENTATION &amp; DIAGNOSTICS CORP." citation_global_level_id="1664.004" party2_short="AB" line="2" id="135276_2" alternative_keys="['u.s._541_959']" end="79" entry_type="party_key" lookup_key="diagnosticsab#1" id1="135286" start="17" party1_short="DIAGNOSTICS" citation_local_level_id="1" >MEDICAL INSTRUMENTATION &amp; DIAGNOSTICS CORP. v. ELEKTA AB ET AL</CITATION>
+
+<NAME end="60" start="17" party1_of="135276_2" all_names="MEDICAL INSTRUMENTATION &amp; DIAGNOSTICS CORP" local_name_id="1" id="135276_3" >MEDICAL INSTRUMENTATION &amp; DIAGNOSTICS CORP.</NAME>
+
+<ORGANIZATION start="17" end="59" id="135276_5" >MEDICAL INSTRUMENTATION &amp; DIAGNOSTICS CORP</ORGANIZATION>
+
+<NAME end="79" start="64" all_names="ELEKTA AB" party2_of="135276_2" local_name_id="2" id="135276_4" >ELEKTA AB ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._541_959']" end="96" entry_type="docket" lookup_key="diagnosticsab#1" id1="135286" start="89" citation_global_level_id="1664.004" line="3" id="135276_8" citation_local_level_id="1" >03-1067</DOCKET>
+
+<ORGANIZATION start="102" end="132" id="135276_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="138" citation_global_level_id="1664.004" end="152" id="135276_10" citation_local_level_id="1" >March 29, 2004</DATE>
+
+<NAME start="174" local_name_id="3" end="183" id="135276_15" all_names="C A FED" >C. A. Fed</NAME>
+
+<NAME start="185" local_name_id="4" end="188" id="135276_16" all_names="CIR" >Cir</NAME>
+
+<CITATION end="239" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_344_1205" id1="Dummy_File_51592" volume="344" start="225" page_number="1205" standard_reporter="F.3D" citation_global_level_id="115442.001" line="8" id="135276_14" citation_local_level_id="2" >344 F. 3d 1205</CITATION>
+
+<RELATION theme="135276_2" party1="135276_3" party1_string="MEDICAL INSTRUMENTATION &amp; DIAGNOSTICS CORP." theme_string="MEDICAL INSTRUMENTATION &amp; DIAGNOSTICS CORP. v. ELEKTA AB ET AL" gram_type="infix" relation_type="asymmetric" id="135276_6" ></RELATION>
+
+<RELATION party2="135276_4" theme="135276_2" theme_string="MEDICAL INSTRUMENTATION &amp; DIAGNOSTICS CORP. v. ELEKTA AB ET AL" party2_string="ELEKTA AB ET AL" gram_type="infix" relation_type="asymmetric" id="135276_7" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 959" X_vs_Y_string="MEDICAL INSTRUMENTATION &amp; DIAGNOSTICS CORP. v. ELEKTA AB ET AL" standard_case="135276_1" X_vs_Y="135276_2" gram_type="multi_line" relation_type="equivalence" id="135276_11" ></RELATION>
+
+<RELATION at_date_string="March 29, 2004" theme="135276_2" at_date="135276_10" theme_string="MEDICAL INSTRUMENTATION &amp; DIAGNOSTICS CORP. v. ELEKTA AB ET AL" gram_type="multi_line" relation_type="asymmetric" id="135276_13" ></RELATION>
+
+<RELATION theme="135276_2" includes_docket_string="03-1067" includes_docket="135276_8" theme_string="MEDICAL INSTRUMENTATION &amp; DIAGNOSTICS CORP. v. ELEKTA AB ET AL" gram_type="multi_line" relation_type="asymmetric" id="135276_12" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['zhangrentals#3']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_985" id1="143983" volume="544" start="0" page_number="985" standard_reporter="U.S." citation_global_level_id="3535.002" line="1" id="143980_1" citation_local_level_id="0" >544 U.S. 985</CITATION>
+
+<CITATION party2="APEX HOME &amp; BUSINESS RENTALS, INC" party1="ZHANG" citation_global_level_id="3535.006" party2_short="RENTALS" line="2" id="143980_2" alternative_keys="['u.s._544_985']" end="59" entry_type="party_key" lookup_key="zhangrentals#3" id1="143983" start="17" party1_short="ZHANG" citation_local_level_id="1" >ZHANG v. APEX HOME &amp; BUSINESS RENTALS, INC</CITATION>
+
+<NAME end="22" start="17" party1_of="143980_2" all_names="ZHANG" local_name_id="1" id="143980_3" >ZHANG</NAME>
+
+<NAME end="59" start="26" all_names="APEX HOME &amp; BUSINESS RENTALS INC" party2_of="143980_2" local_name_id="2" id="143980_4" >APEX HOME &amp; BUSINESS RENTALS, INC</NAME>
+
+<DOCKET alternative_keys="['u.s._544_985']" end="76" entry_type="docket" lookup_key="zhangrentals#3" id1="143983" start="69" citation_global_level_id="3535.006" line="3" id="143980_7" citation_local_level_id="1" >04-8696</DOCKET>
+
+<ORGANIZATION start="82" end="112" id="143980_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="118" citation_global_level_id="3535.006" end="132" id="143980_9" citation_local_level_id="1" >April 18, 2005</DATE>
+
+<NAME start="154" local_name_id="3" end="157" id="143980_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="143980_2" party1="143980_3" party1_string="ZHANG" theme_string="ZHANG v. APEX HOME &amp; BUSINESS RENTALS, INC" gram_type="infix" relation_type="asymmetric" id="143980_5" ></RELATION>
+
+<RELATION party2="143980_4" theme="143980_2" theme_string="ZHANG v. APEX HOME &amp; BUSINESS RENTALS, INC" party2_string="APEX HOME &amp; BUSINESS RENTALS, INC" gram_type="infix" relation_type="asymmetric" id="143980_6" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 985" X_vs_Y_string="ZHANG v. APEX HOME &amp; BUSINESS RENTALS, INC" standard_case="143980_1" X_vs_Y="143980_2" gram_type="multi_line" relation_type="equivalence" id="143980_10" ></RELATION>
+
+<RELATION at_date_string="April 18, 2005" theme="143980_2" at_date="143980_9" theme_string="ZHANG v. APEX HOME &amp; BUSINESS RENTALS, INC" gram_type="multi_line" relation_type="asymmetric" id="143980_12" ></RELATION>
+
+<RELATION theme="143980_2" includes_docket_string="04-8696" includes_docket="143980_7" theme_string="ZHANG v. APEX HOME &amp; BUSINESS RENTALS, INC" gram_type="multi_line" relation_type="asymmetric" id="143980_11" ></RELATION>
+

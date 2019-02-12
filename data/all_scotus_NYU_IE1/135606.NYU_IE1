@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['riddickjohnson#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_984" id1="135610" volume="541" start="0" page_number="984" standard_reporter="U.S." citation_global_level_id="341.002" line="1" id="135606_1" citation_local_level_id="0" >541 U.S. 984</CITATION>
+
+<CITATION party2="JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" party1="RIDDICK" citation_global_level_id="341.005" party2_short="JOHNSON" line="2" id="135606_3" alternative_keys="['u.s._541_984']" end="81" entry_type="party_key" lookup_key="riddickjohnson#1" id1="135610" start="17" party1_short="RIDDICK" citation_local_level_id="1" >RIDDICK v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS</CITATION>
+
+<NAME end="24" start="17" party1_of="135606_3" all_names="RIDDICK" local_name_id="1" id="135606_4" >RIDDICK</NAME>
+
+<NAME end="81" start="28" all_names="JOHNSON DIRECTOR VIRGINIA DEPARTMENT OF CORRECTIONS" party2_of="135606_3" local_name_id="2" id="135606_5" >JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS</NAME>
+
+<DOCKET alternative_keys="['u.s._541_984']" end="98" entry_type="docket" lookup_key="riddickjohnson#1" id1="135610" start="91" citation_global_level_id="341.005" line="2" id="135606_2" citation_local_level_id="1" >03-7890</DOCKET>
+
+<ORGANIZATION start="104" end="134" id="135606_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="140" citation_global_level_id="341.005" end="153" id="135606_10" citation_local_level_id="1" >April 5, 2004</DATE>
+
+<CITATION end="189" reporter="U. S." entry_type="standard_key" no_current_file="True" lookup_key="u.s._540_1192" id1="Dummy_File_157102" volume="540" start="175" page_number="1192" standard_reporter="U.S." citation_global_level_id="220952.001" line="7" id="135606_13" citation_local_level_id="2" >540 U. S. 1192</CITATION>
+
+<NAME start="191" local_name_id="3" end="200" id="135606_14" all_names="PETITIONS" >Petitions</NAME>
+
+<RELATION theme="135606_3" includes_docket_string="03-7890" includes_docket="135606_2" theme_string="RIDDICK v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" gram_type="apposition" relation_type="asymmetric" id="135606_8" ></RELATION>
+
+<RELATION theme="135606_3" party1="135606_4" party1_string="RIDDICK" theme_string="RIDDICK v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" gram_type="infix" relation_type="asymmetric" id="135606_6" ></RELATION>
+
+<RELATION party2="135606_5" theme="135606_3" theme_string="RIDDICK v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" party2_string="JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" gram_type="infix" relation_type="asymmetric" id="135606_7" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 984" X_vs_Y_string="RIDDICK v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" standard_case="135606_1" X_vs_Y="135606_3" gram_type="multi_line" relation_type="equivalence" id="135606_11" ></RELATION>
+
+<RELATION at_date_string="April 5, 2004" theme="135606_3" at_date="135606_10" theme_string="RIDDICK v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" gram_type="multi_line" relation_type="asymmetric" id="135606_12" ></RELATION>
+

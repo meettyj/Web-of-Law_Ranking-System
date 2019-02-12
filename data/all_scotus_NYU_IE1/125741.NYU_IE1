@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['lawleycalifornia#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1073" id1="125744" volume="537" start="0" page_number="1073" standard_reporter="U.S." citation_global_level_id="2820.002" line="1" id="125741_1" citation_local_level_id="0" >537 U.S. 1073</CITATION>
+
+<CITATION party2="CALIFORNIA" party1="LAWLEY" citation_global_level_id="51111.001" party2_short="CALIFORNIA" line="1" id="125741_3" alternative_keys="['u.s._537_1073']" end="38" entry_type="party_key" lookup_key="lawleycalifornia#1" id1="125741" start="18" party1_short="LAWLEY" citation_local_level_id="1" >LAWLEY v. CALIFORNIA</CITATION>
+
+<NAME end="24" start="18" party1_of="125741_3" all_names="LAWLEY" local_name_id="1" id="125741_4" >LAWLEY</NAME>
+
+<NAME end="38" start="28" all_names="CALIFORNIA" party2_of="125741_3" local_name_id="2" id="125741_5" >CALIFORNIA</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._537_1073" id1="125744" start="48" citation_global_level_id="2820.002" line="1" id="125741_2" citation_local_level_id="0" >02-5920</DOCKET>
+
+<DATE start="97" end="113" id="125741_6" >December 9, 2002</DATE>
+
+<NAME start="207" local_name_id="3" end="210" id="125741_13" all_names="SUP" >Sup</NAME>
+
+<CITATION end="285" reporter="P. 3d" entry_type="standard_key" no_current_file="True" lookup_key="p.3d_38_461" id1="Dummy_File_7676" volume="38" start="273" page_number="461" standard_reporter="P.3D" citation_global_level_id="71526.001" line="3" id="125741_12" citation_local_level_id="2" >38 P. 3d 461</CITATION>
+
+<RELATION theme="125741_1" includes_docket_string="02-5920" includes_docket="125741_2" theme_string="537 U.S. 1073" gram_type="apposition" relation_type="asymmetric" id="125741_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1073" X_vs_Y_string="LAWLEY v. CALIFORNIA" standard_case="125741_1" X_vs_Y="125741_3" gram_type="pre_nom" relation_type="equivalence" id="125741_7" ></RELATION>
+
+<RELATION theme="125741_3" includes_docket_string="02-5920" includes_docket="125741_2" theme_string="LAWLEY v. CALIFORNIA" gram_type="apposition" relation_type="asymmetric" id="125741_10" ></RELATION>
+
+<RELATION theme="125741_3" party1="125741_4" party1_string="LAWLEY" theme_string="LAWLEY v. CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="125741_8" ></RELATION>
+
+<RELATION party2="125741_5" theme="125741_3" theme_string="LAWLEY v. CALIFORNIA" party2_string="CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="125741_9" ></RELATION>
+

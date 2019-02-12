@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['haileygeorgia#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1048" id1="116024" volume="510" start="0" page_number="1048" standard_reporter="U.S." citation_global_level_id="3371.002" line="1" id="116023_1" citation_local_level_id="0" >510 U.S. 1048</CITATION>
+
+<CITATION party2="Georgia" party1="Hailey" citation_global_level_id="25313.001" party2_short="Georgia" line="1" id="116023_3" alternative_keys="['u.s._510_1048']" end="35" entry_type="party_key" lookup_key="haileygeorgia#1" id1="116023" start="18" party1_short="Hailey" citation_local_level_id="1" >Hailey v. Georgia</CITATION>
+
+<NAME end="24" start="18" party1_of="116023_3" all_names="HAILEY" local_name_id="1" id="116023_4" >Hailey</NAME>
+
+<NAME end="35" start="28" all_names="GEORGIA" party2_of="116023_3" local_name_id="2" id="116023_5" >Georgia</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="u.s._510_1048" id1="116024" start="45" citation_global_level_id="3371.002" line="1" id="116023_2" citation_local_level_id="0" >93-6021</DOCKET>
+
+<DATE start="94" end="110" id="116023_6" >January 10, 1994</DATE>
+
+<NAME start="186" local_name_id="3" end="196" id="116023_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="232" reporter="Ga." entry_type="standard_key" no_current_file="True" lookup_key="ga._263_210" id1="Dummy_File_85063" volume="263" start="221" page_number="210" standard_reporter="GA." citation_global_level_id="148913.001" line="3" id="116023_12" citation_local_level_id="2" >263 Ga. 210</CITATION>
+
+<CITATION end="250" reporter="S. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="s.e.2d_429_917" id1="Dummy_File_85064" volume="429" start="234" page_number="917" standard_reporter="S.E.2D" citation_global_level_id="148914.001" line="3" id="116023_13" citation_local_level_id="3" >429 S. E. 2d 917</CITATION>
+
+<RELATION theme="116023_1" includes_docket_string="93-6021" includes_docket="116023_2" theme_string="510 U.S. 1048" gram_type="apposition" relation_type="asymmetric" id="116023_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1048" X_vs_Y_string="Hailey v. Georgia" standard_case="116023_1" X_vs_Y="116023_3" gram_type="pre_nom" relation_type="equivalence" id="116023_7" ></RELATION>
+
+<RELATION theme="116023_3" includes_docket_string="93-6021" includes_docket="116023_2" theme_string="Hailey v. Georgia" gram_type="apposition" relation_type="asymmetric" id="116023_10" ></RELATION>
+
+<RELATION theme="116023_3" party1="116023_4" party1_string="Hailey" theme_string="Hailey v. Georgia" gram_type="infix" relation_type="asymmetric" id="116023_8" ></RELATION>
+
+<RELATION party2="116023_5" theme="116023_3" theme_string="Hailey v. Georgia" party2_string="Georgia" gram_type="infix" relation_type="asymmetric" id="116023_9" ></RELATION>
+

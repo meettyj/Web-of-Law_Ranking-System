@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['darbycain#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_910" id1="128031" volume="538" start="0" page_number="910" standard_reporter="U.S." citation_global_level_id="2018.002" line="1" id="128022_1" citation_local_level_id="0" >538 U.S. 910</CITATION>
+
+<CITATION party2="CAIN, WARDEN" party1="DARBY" citation_global_level_id="2018.005" party2_short="CAIN" line="1" id="128022_3" alternative_keys="['u.s._538_910']" end="38" entry_type="party_key" lookup_key="darbycain#1" id1="128031" start="17" party1_short="DARBY" citation_local_level_id="1" >DARBY v. CAIN, WARDEN</CITATION>
+
+<NAME end="22" start="17" party1_of="128022_3" all_names="DARBY" local_name_id="1" id="128022_4" >DARBY</NAME>
+
+<NAME end="38" start="26" all_names="CAIN WARDEN" party2_of="128022_3" local_name_id="2" id="128022_5" >CAIN, WARDEN</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._538_910" id1="128031" start="48" citation_global_level_id="2018.002" line="1" id="128022_2" citation_local_level_id="0" >02-8290</DOCKET>
+
+<DATE start="97" end="111" id="128022_6" >March 10, 2003</DATE>
+
+<NAME start="240" local_name_id="3" end="243" id="128022_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="128022_1" includes_docket_string="02-8290" includes_docket="128022_2" theme_string="538 U.S. 910" gram_type="apposition" relation_type="asymmetric" id="128022_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 910" X_vs_Y_string="DARBY v. CAIN, WARDEN" standard_case="128022_1" X_vs_Y="128022_3" gram_type="pre_nom" relation_type="equivalence" id="128022_7" ></RELATION>
+
+<RELATION theme="128022_3" includes_docket_string="02-8290" includes_docket="128022_2" theme_string="DARBY v. CAIN, WARDEN" gram_type="apposition" relation_type="asymmetric" id="128022_10" ></RELATION>
+
+<RELATION theme="128022_3" party1="128022_4" party1_string="DARBY" theme_string="DARBY v. CAIN, WARDEN" gram_type="infix" relation_type="asymmetric" id="128022_8" ></RELATION>
+
+<RELATION party2="128022_5" theme="128022_3" theme_string="DARBY v. CAIN, WARDEN" party2_string="CAIN, WARDEN" gram_type="infix" relation_type="asymmetric" id="128022_9" ></RELATION>
+

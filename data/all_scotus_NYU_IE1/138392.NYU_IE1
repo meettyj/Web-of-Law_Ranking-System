@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['bosticdwyer#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_850" id1="138392" volume="543" start="0" page_number="850" standard_reporter="U.S." citation_global_level_id="1717.002" line="1" id="138392_1" citation_local_level_id="0" >543 U.S. 850</CITATION>
+
+<CITATION party2="DWYER, SUPERINTENDENT, SOUTHEAST CORRECTIONAL CENTER" party1="BOSTIC" citation_global_level_id="1717.007" party2_short="DWYER" line="2" id="138392_2" alternative_keys="['u.s._543_850']" end="79" entry_type="party_key" lookup_key="bosticdwyer#1" id1="138392" start="17" party1_short="BOSTIC" citation_local_level_id="1" >BOSTIC v. DWYER, SUPERINTENDENT, SOUTHEAST CORRECTIONAL CENTER</CITATION>
+
+<NAME end="23" start="17" party1_of="138392_2" all_names="BOSTIC" local_name_id="1" id="138392_3" >BOSTIC</NAME>
+
+<NAME end="79" start="27" all_names="DWYER SUPERINTENDENT SOUTHEAST CORRECTIONAL CENTER" party2_of="138392_2" local_name_id="2" id="138392_4" >DWYER, SUPERINTENDENT, SOUTHEAST CORRECTIONAL CENTER</NAME>
+
+<DOCKET alternative_keys="['u.s._543_850']" end="97" entry_type="docket" lookup_key="bosticdwyer#1" id1="138392" start="89" citation_global_level_id="1717.007" line="3" id="138392_7" citation_local_level_id="1" >03-10781</DOCKET>
+
+<ORGANIZATION start="103" end="133" id="138392_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="139" citation_global_level_id="1717.007" end="154" id="138392_9" citation_local_level_id="1" >October 4, 2004</DATE>
+
+<NAME start="186" local_name_id="3" end="189" id="138392_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="138392_2" party1="138392_3" party1_string="BOSTIC" theme_string="BOSTIC v. DWYER, SUPERINTENDENT, SOUTHEAST CORRECTIONAL CENTER" gram_type="infix" relation_type="asymmetric" id="138392_5" ></RELATION>
+
+<RELATION party2="138392_4" theme="138392_2" theme_string="BOSTIC v. DWYER, SUPERINTENDENT, SOUTHEAST CORRECTIONAL CENTER" party2_string="DWYER, SUPERINTENDENT, SOUTHEAST CORRECTIONAL CENTER" gram_type="infix" relation_type="asymmetric" id="138392_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 850" X_vs_Y_string="BOSTIC v. DWYER, SUPERINTENDENT, SOUTHEAST CORRECTIONAL CENTER" standard_case="138392_1" X_vs_Y="138392_2" gram_type="multi_line" relation_type="equivalence" id="138392_10" ></RELATION>
+
+<RELATION at_date_string="October 4, 2004" theme="138392_2" at_date="138392_9" theme_string="BOSTIC v. DWYER, SUPERINTENDENT, SOUTHEAST CORRECTIONAL CENTER" gram_type="multi_line" relation_type="asymmetric" id="138392_12" ></RELATION>
+
+<RELATION theme="138392_2" includes_docket_string="03-10781" includes_docket="138392_7" theme_string="BOSTIC v. DWYER, SUPERINTENDENT, SOUTHEAST CORRECTIONAL CENTER" gram_type="multi_line" relation_type="asymmetric" id="138392_11" ></RELATION>
+

@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['cityhertz#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1111" id1="116764" volume="510" start="0" page_number="1111" standard_reporter="U.S." citation_global_level_id="2441.002" line="1" id="116773_1" citation_local_level_id="0" >510 U.S. 1111</CITATION>
+
+<CITATION party2="Hertz Corp" party1="City of New York et al." citation_global_level_id="54066.001" party2_short="Hertz" line="1" id="116773_3" alternative_keys="['u.s._510_1111']" end="55" entry_type="party_key" lookup_key="cityhertz#1" id1="116773" start="18" party1_short="City" citation_local_level_id="1" >City of New York et al. v. Hertz Corp</CITATION>
+
+<NAME end="41" start="18" party1_of="116773_3" all_names="CITY OF NEW YORK" local_name_id="1" id="116773_4" >City of New York et al.</NAME>
+
+<NAME start="18" local_name_id="1" end="34" id="116773_7" all_names="CITY OF NEW YORK" >City of New York</NAME>
+
+<NAME end="55" start="45" all_names="HERTZ CORP" party2_of="116773_3" local_name_id="2" id="116773_5" >Hertz Corp</NAME>
+
+<DOCKET end="71" entry_type="docket" lookup_key="u.s._510_1111" id1="116764" start="65" citation_global_level_id="2441.002" line="1" id="116773_2" citation_local_level_id="0" >93-841</DOCKET>
+
+<DATE start="113" end="130" id="116773_6" >February 22, 1994</DATE>
+
+<NAME start="207" local_name_id="3" end="217" id="116773_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="253" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_1_121" id1="Dummy_File_58522" volume="1" start="242" page_number="121" standard_reporter="F.3D" citation_global_level_id="122372.001" line="3" id="116773_13" citation_local_level_id="2" >1 F. 3d 121</CITATION>
+
+<RELATION theme="116773_1" includes_docket_string="93-841" includes_docket="116773_2" theme_string="510 U.S. 1111" gram_type="apposition" relation_type="asymmetric" id="116773_12" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1111" X_vs_Y_string="City of New York et al. v. Hertz Corp" standard_case="116773_1" X_vs_Y="116773_3" gram_type="pre_nom" relation_type="equivalence" id="116773_8" ></RELATION>
+
+<RELATION theme="116773_3" includes_docket_string="93-841" includes_docket="116773_2" theme_string="City of New York et al. v. Hertz Corp" gram_type="apposition" relation_type="asymmetric" id="116773_11" ></RELATION>
+
+<RELATION party2="116773_5" theme="116773_3" theme_string="City of New York et al. v. Hertz Corp" party2_string="Hertz Corp" gram_type="infix" relation_type="asymmetric" id="116773_10" ></RELATION>
+
+<RELATION theme="116773_3" party1="116773_4" party1_string="City of New York et al." theme_string="City of New York et al. v. Hertz Corp" gram_type="infix" relation_type="asymmetric" id="116773_9" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['pharmhatcher#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_841" id1="113391" volume="510" start="0" page_number="841" standard_reporter="U.S." citation_global_level_id="3229.002" line="1" id="113396_1" citation_local_level_id="0" >510 U.S. 841</CITATION>
+
+<CITATION party2="Hatcher, Warden, et al" party1="Pharm" citation_global_level_id="3229.005" party2_short="Hatcher" line="1" id="113396_3" alternative_keys="['u.s._510_841']" end="48" entry_type="party_key" lookup_key="pharmhatcher#1" id1="113391" start="17" party1_short="Pharm" citation_local_level_id="1" >Pharm v. Hatcher, Warden, et al</CITATION>
+
+<NAME end="22" start="17" party1_of="113396_3" all_names="PHARM" local_name_id="1" id="113396_4" >Pharm</NAME>
+
+<NAME end="48" start="26" all_names="HATCHER WARDEN" party2_of="113396_3" local_name_id="2" id="113396_5" >Hatcher, Warden, et al</NAME>
+
+<DOCKET end="65" entry_type="docket" lookup_key="u.s._510_841" id1="113391" start="58" citation_global_level_id="3229.002" line="1" id="113396_2" citation_local_level_id="0" >92-8929</DOCKET>
+
+<DATE start="107" end="122" id="113396_6" >October 4, 1993</DATE>
+
+<NAME start="200" local_name_id="3" end="210" id="113396_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="248" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_984_783" id1="Dummy_File_126420" volume="984" start="235" page_number="783" standard_reporter="F.2D" citation_global_level_id="190270.001" line="3" id="113396_12" citation_local_level_id="2" >984 F. 2d 783</CITATION>
+
+<RELATION theme="113396_1" includes_docket_string="92-8929" includes_docket="113396_2" theme_string="510 U.S. 841" gram_type="apposition" relation_type="asymmetric" id="113396_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 841" X_vs_Y_string="Pharm v. Hatcher, Warden, et al" standard_case="113396_1" X_vs_Y="113396_3" gram_type="pre_nom" relation_type="equivalence" id="113396_7" ></RELATION>
+
+<RELATION theme="113396_3" includes_docket_string="92-8929" includes_docket="113396_2" theme_string="Pharm v. Hatcher, Warden, et al" gram_type="apposition" relation_type="asymmetric" id="113396_10" ></RELATION>
+
+<RELATION theme="113396_3" party1="113396_4" party1_string="Pharm" theme_string="Pharm v. Hatcher, Warden, et al" gram_type="infix" relation_type="asymmetric" id="113396_8" ></RELATION>
+
+<RELATION party2="113396_5" theme="113396_3" theme_string="Pharm v. Hatcher, Warden, et al" party2_string="Hatcher, Warden, et al" gram_type="infix" relation_type="asymmetric" id="113396_9" ></RELATION>
+

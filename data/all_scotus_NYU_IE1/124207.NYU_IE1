@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['ww#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_949" id1="124205" volume="537" start="0" page_number="949" standard_reporter="U.S." citation_global_level_id="2777.002" line="1" id="124207_1" citation_local_level_id="0" >537 U.S. 949</CITATION>
+
+<CITATION party2="TERRY W" party1="FRAN W. ET VIR" citation_global_level_id="33265.001" party2_short="W" line="1" id="124207_3" alternative_keys="['u.s._537_949']" end="42" entry_type="party_key" lookup_key="ww#1" id1="124207" start="17" party1_short="W" citation_local_level_id="1" >FRAN W. ET VIR v. TERRY W</CITATION>
+
+<NAME end="31" start="17" party1_of="124207_3" all_names="FRAN W VIR" local_name_id="1" id="124207_4" >FRAN W. ET VIR</NAME>
+
+<NAME end="42" start="35" all_names="TERRY W" party2_of="124207_3" local_name_id="2" id="124207_5" >TERRY W</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._537_949" id1="124205" start="52" citation_global_level_id="2777.002" line="1" id="124207_2" citation_local_level_id="0" >02-276</DOCKET>
+
+<DATE start="100" end="116" id="124207_6" >October 15, 2002</DATE>
+
+<NAME start="240" local_name_id="3" end="242" id="124207_13" all_names="CT" >Ct</NAME>
+
+<CITATION end="347" reporter="Cal. Rptr. 2d" entry_type="standard_key" no_current_file="True" lookup_key="cal.rptr.2d_118_42" id1="Dummy_File_124538" volume="118" start="327" page_number="42" standard_reporter="CAL.RPTR.2D" citation_global_level_id="188388.001" line="3" id="124207_12" citation_local_level_id="2" >118 Cal. Rptr. 2d 42</CITATION>
+
+<RELATION theme="124207_1" includes_docket_string="02-276" includes_docket="124207_2" theme_string="537 U.S. 949" gram_type="apposition" relation_type="asymmetric" id="124207_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 949" X_vs_Y_string="FRAN W. ET VIR v. TERRY W" standard_case="124207_1" X_vs_Y="124207_3" gram_type="pre_nom" relation_type="equivalence" id="124207_7" ></RELATION>
+
+<RELATION theme="124207_3" includes_docket_string="02-276" includes_docket="124207_2" theme_string="FRAN W. ET VIR v. TERRY W" gram_type="apposition" relation_type="asymmetric" id="124207_10" ></RELATION>
+
+<RELATION theme="124207_3" party1="124207_4" party1_string="FRAN W. ET VIR" theme_string="FRAN W. ET VIR v. TERRY W" gram_type="infix" relation_type="asymmetric" id="124207_8" ></RELATION>
+
+<RELATION party2="124207_5" theme="124207_3" theme_string="FRAN W. ET VIR v. TERRY W" party2_string="TERRY W" gram_type="infix" relation_type="asymmetric" id="124207_9" ></RELATION>
+

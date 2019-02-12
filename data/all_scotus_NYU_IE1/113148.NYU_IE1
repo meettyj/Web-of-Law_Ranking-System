@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['reytblattcommission#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_822" id1="113149" volume="510" start="0" page_number="822" standard_reporter="U.S." citation_global_level_id="17028.002" line="1" id="113148_1" citation_local_level_id="0" >510 U.S. 822</CITATION>
+
+<CITATION party2="Nuclear Regulatory Commission" party1="Reytblatt" citation_global_level_id="29390.001" party2_short="Commission" line="1" id="113148_3" alternative_keys="['u.s._510_822']" end="59" entry_type="party_key" lookup_key="reytblattcommission#1" id1="113148" start="17" party1_short="Reytblatt" citation_local_level_id="1" >Reytblatt v. Nuclear Regulatory Commission</CITATION>
+
+<NAME end="26" start="17" party1_of="113148_3" all_names="REYTBLATT" local_name_id="1" id="113148_4" >Reytblatt</NAME>
+
+<NAME end="59" start="30" all_names="NUCLEAR REGULATORY COMMISSION" party2_of="113148_3" local_name_id="2" id="113148_5" >Nuclear Regulatory Commission</NAME>
+
+<DOCKET end="76" entry_type="docket" lookup_key="u.s._510_822" id1="113149" start="69" citation_global_level_id="17028.002" line="1" id="113148_2" citation_local_level_id="0" >92-1939</DOCKET>
+
+<DATE start="72" end="76" id="113148_6" >1939</DATE>
+
+<DATE start="118" end="133" id="113148_7" >October 4, 1993</DATE>
+
+<NAME start="211" local_name_id="3" end="221" id="113148_15" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="259" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_989_502" id1="Dummy_File_230828" volume="989" start="246" page_number="502" standard_reporter="F.2D" citation_global_level_id="294678.001" line="3" id="113148_14" citation_local_level_id="2" >989 F. 2d 502</CITATION>
+
+<RELATION theme="113148_1" includes_docket_string="92-1939" includes_docket="113148_2" theme_string="510 U.S. 822" gram_type="apposition" relation_type="asymmetric" id="113148_12" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 822" X_vs_Y_string="Reytblatt v. Nuclear Regulatory Commission" standard_case="113148_1" X_vs_Y="113148_3" gram_type="pre_nom" relation_type="equivalence" id="113148_8" ></RELATION>
+
+<RELATION theme="113148_3" includes_docket_string="92-1939" includes_docket="113148_2" theme_string="Reytblatt v. Nuclear Regulatory Commission" gram_type="apposition" relation_type="asymmetric" id="113148_11" ></RELATION>
+
+<RELATION party2="113148_5" theme="113148_3" theme_string="Reytblatt v. Nuclear Regulatory Commission" party2_string="Nuclear Regulatory Commission" gram_type="infix" relation_type="asymmetric" id="113148_10" ></RELATION>
+
+<RELATION theme="113148_3" party1="113148_4" party1_string="Reytblatt" theme_string="Reytblatt v. Nuclear Regulatory Commission" gram_type="infix" relation_type="asymmetric" id="113148_9" ></RELATION>
+
+<RELATION at_date_string="1939" theme="113148_2" at_date="113148_6" theme_string="92-1939" gram_type="infix" relation_type="asymmetric" id="113148_13" ></RELATION>
+

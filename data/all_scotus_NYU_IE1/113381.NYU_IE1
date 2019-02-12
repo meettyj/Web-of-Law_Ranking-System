@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['maxiecourt#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_840" id1="113383" volume="510" start="0" page_number="840" standard_reporter="U.S." citation_global_level_id="902.002" line="1" id="113381_1" citation_local_level_id="0" >510 U.S. 840</CITATION>
+
+<CITATION party2="Superior Court of Los Angeles" party1="Maxie" citation_global_level_id="40985.001" party2_short="Court" line="1" id="113381_3" alternative_keys="['u.s._510_840']" end="55" entry_type="party_key" lookup_key="maxiecourt#1" id1="113381" start="17" party1_short="Maxie" citation_local_level_id="1" >Maxie v. Superior Court of Los Angeles</CITATION>
+
+<NAME end="22" start="17" party1_of="113381_3" all_names="MAXIE" local_name_id="1" id="113381_4" >Maxie</NAME>
+
+<NAME end="55" start="26" all_names="SUPERIOR COURT OF LOS ANGELES" party2_of="113381_3" local_name_id="2" id="113381_5" >Superior Court of Los Angeles</NAME>
+
+<DOCKET end="72" entry_type="docket" lookup_key="u.s._510_840" id1="113383" start="65" citation_global_level_id="902.002" line="1" id="113381_2" citation_local_level_id="0" >92-8916</DOCKET>
+
+<DATE start="114" end="129" id="113381_6" >October 4, 1993</DATE>
+
+<NAME start="221" local_name_id="3" end="231" id="113381_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="113381_1" includes_docket_string="92-8916" includes_docket="113381_2" theme_string="510 U.S. 840" gram_type="apposition" relation_type="asymmetric" id="113381_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 840" X_vs_Y_string="Maxie v. Superior Court of Los Angeles" standard_case="113381_1" X_vs_Y="113381_3" gram_type="pre_nom" relation_type="equivalence" id="113381_7" ></RELATION>
+
+<RELATION theme="113381_3" includes_docket_string="92-8916" includes_docket="113381_2" theme_string="Maxie v. Superior Court of Los Angeles" gram_type="apposition" relation_type="asymmetric" id="113381_10" ></RELATION>
+
+<RELATION theme="113381_3" party1="113381_4" party1_string="Maxie" theme_string="Maxie v. Superior Court of Los Angeles" gram_type="infix" relation_type="asymmetric" id="113381_8" ></RELATION>
+
+<RELATION party2="113381_5" theme="113381_3" theme_string="Maxie v. Superior Court of Los Angeles" party2_string="Superior Court of Los Angeles" gram_type="infix" relation_type="asymmetric" id="113381_9" ></RELATION>
+

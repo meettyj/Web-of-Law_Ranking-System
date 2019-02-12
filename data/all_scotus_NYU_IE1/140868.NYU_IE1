@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['peoplesstates#3']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1042" id1="140867" volume="543" start="0" page_number="1042" standard_reporter="U.S." citation_global_level_id="758.002" line="1" id="140868_1" citation_local_level_id="0" >543 U.S. 1042</CITATION>
+
+<CITATION party2="UNITED STATES" party1="PEOPLES" citation_global_level_id="60796.001" party2_short="STATES" line="2" id="140868_2" alternative_keys="['u.s._543_1042']" end="42" entry_type="party_key" lookup_key="peoplesstates#3" id1="106917" start="18" party1_short="PEOPLES" citation_local_level_id="1" >PEOPLES v. UNITED STATES</CITATION>
+
+<NAME end="25" start="18" party1_of="140868_2" all_names="PEOPLES" local_name_id="1" id="140868_3" >PEOPLES</NAME>
+
+<NAME end="42" start="29" all_names="UNITED STATES" party2_of="140868_2" local_name_id="2" id="140868_4" >UNITED STATES</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="peoplesstates#3" id1="106917" start="52" citation_global_level_id="60796.001" line="3" id="140868_7" citation_local_level_id="1" >04-5586</DOCKET>
+
+<ORGANIZATION start="65" end="95" id="140868_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="101" citation_global_level_id="60796.001" end="117" id="140868_9" citation_local_level_id="1" >January 10, 2005</DATE>
+
+<NAME start="149" local_name_id="3" end="152" id="140868_14" all_names="CIR" >Cir</NAME>
+
+<CITATION end="232" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_360_892" id1="Dummy_File_183950" volume="360" start="219" page_number="892" standard_reporter="F.3D" citation_global_level_id="247800.001" line="8" id="140868_13" citation_local_level_id="2" >360 F. 3d 892</CITATION>
+
+<RELATION theme="140868_2" party1="140868_3" party1_string="PEOPLES" theme_string="PEOPLES v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="140868_5" ></RELATION>
+
+<RELATION party2="140868_4" theme="140868_2" theme_string="PEOPLES v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="140868_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1042" X_vs_Y_string="PEOPLES v. UNITED STATES" standard_case="140868_1" X_vs_Y="140868_2" gram_type="multi_line" relation_type="equivalence" id="140868_10" ></RELATION>
+
+<RELATION at_date_string="January 10, 2005" theme="140868_2" at_date="140868_9" theme_string="PEOPLES v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="140868_12" ></RELATION>
+
+<RELATION theme="140868_2" includes_docket_string="04-5586" includes_docket="140868_7" theme_string="PEOPLES v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="140868_11" ></RELATION>
+

@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['flyntrumsfeld#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_925" id1="139368" volume="543" start="0" page_number="925" standard_reporter="U.S." citation_global_level_id="7815.002" line="1" id="139360_1" citation_local_level_id="0" >543 U.S. 925</CITATION>
+
+<CITATION party2="RUMSFELD, SECRETARY OF DEFENSE, ET AL" party1="FLYNT ET AL." citation_global_level_id="7815.006" party2_short="RUMSFELD" line="2" id="139360_2" alternative_keys="['u.s._543_925']" end="70" entry_type="party_key" lookup_key="flyntrumsfeld#1" id1="139368" start="17" party1_short="FLYNT" citation_local_level_id="1" >FLYNT ET AL. v. RUMSFELD, SECRETARY OF DEFENSE, ET AL</CITATION>
+
+<NAME end="29" start="17" party1_of="139360_2" all_names="FLYNT" local_name_id="1" id="139360_3" >FLYNT ET AL.</NAME>
+
+<NAME end="70" start="33" all_names="RUMSFELD SECRETARY OF DEFENSE" party2_of="139360_2" local_name_id="2" id="139360_4" >RUMSFELD, SECRETARY OF DEFENSE, ET AL</NAME>
+
+<PROFESSION start="43" end="63" id="139360_5" >SECRETARY OF DEFENSE</PROFESSION>
+
+<DOCKET alternative_keys="['u.s._543_925']" end="85" entry_type="docket" lookup_key="flyntrumsfeld#1" id1="139368" start="80" citation_global_level_id="7815.006" line="3" id="139360_8" citation_local_level_id="1" >04-33</DOCKET>
+
+<ORGANIZATION start="91" end="121" id="139360_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="127" citation_global_level_id="7815.006" end="143" id="139360_10" citation_local_level_id="1" >October 12, 2004</DATE>
+
+<NAME start="165" local_name_id="3" end="180" id="139360_15" all_names="C A D C CIR" >C. A. D. C. Cir</NAME>
+
+<NAME start="182" local_name_id="4" end="192" id="139360_16" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="229" reporter="F.3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_355_697" id1="Dummy_File_162003" volume="355" start="217" page_number="697" standard_reporter="F.3D" citation_global_level_id="225853.001" line="8" id="139360_14" citation_local_level_id="2" >355 F.3d 697</CITATION>
+
+<RELATION theme="139360_2" party1="139360_3" party1_string="FLYNT ET AL." theme_string="FLYNT ET AL. v. RUMSFELD, SECRETARY OF DEFENSE, ET AL" gram_type="infix" relation_type="asymmetric" id="139360_6" ></RELATION>
+
+<RELATION party2="139360_4" theme="139360_2" theme_string="FLYNT ET AL. v. RUMSFELD, SECRETARY OF DEFENSE, ET AL" party2_string="RUMSFELD, SECRETARY OF DEFENSE, ET AL" gram_type="infix" relation_type="asymmetric" id="139360_7" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 925" X_vs_Y_string="FLYNT ET AL. v. RUMSFELD, SECRETARY OF DEFENSE, ET AL" standard_case="139360_1" X_vs_Y="139360_2" gram_type="multi_line" relation_type="equivalence" id="139360_11" ></RELATION>
+
+<RELATION at_date_string="October 12, 2004" theme="139360_2" at_date="139360_10" theme_string="FLYNT ET AL. v. RUMSFELD, SECRETARY OF DEFENSE, ET AL" gram_type="multi_line" relation_type="asymmetric" id="139360_13" ></RELATION>
+
+<RELATION theme="139360_2" includes_docket_string="04-33" includes_docket="139360_8" theme_string="FLYNT ET AL. v. RUMSFELD, SECRETARY OF DEFENSE, ET AL" gram_type="multi_line" relation_type="asymmetric" id="139360_12" ></RELATION>
+

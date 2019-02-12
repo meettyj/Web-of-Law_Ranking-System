@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['higgsstates#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_999" id1="140294" volume="543" start="0" page_number="999" standard_reporter="U.S." citation_global_level_id="8030.002" line="1" id="140296_1" citation_local_level_id="0" >543 U.S. 999</CITATION>
+
+<CITATION party2="UNITED STATES" party1="HIGGS" citation_global_level_id="12057.001" party2_short="STATES" line="2" id="140296_2" alternative_keys="['u.s._543_999']" end="39" entry_type="party_key" lookup_key="higgsstates#1" id1="140296" start="17" party1_short="HIGGS" citation_local_level_id="1" >HIGGS v. UNITED STATES</CITATION>
+
+<NAME end="22" start="17" party1_of="140296_2" all_names="HIGGS" local_name_id="1" id="140296_3" >HIGGS</NAME>
+
+<NAME end="39" start="26" all_names="UNITED STATES" party2_of="140296_2" local_name_id="2" id="140296_4" >UNITED STATES</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="higgsstates#1" id1="140296" start="49" citation_global_level_id="12057.001" line="3" id="140296_7" citation_local_level_id="1" >03-10498</DOCKET>
+
+<ORGANIZATION start="63" end="93" id="140296_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="99" citation_global_level_id="12057.001" end="116" id="140296_9" citation_local_level_id="1" >November 29, 2004</DATE>
+
+<NAME start="148" local_name_id="3" end="151" id="140296_14" all_names="CIR" >Cir</NAME>
+
+<CITATION end="201" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_353_281" id1="Dummy_File_214300" volume="353" start="188" page_number="281" standard_reporter="F.3D" citation_global_level_id="278150.001" line="8" id="140296_13" citation_local_level_id="2" >353 F. 3d 281</CITATION>
+
+<RELATION theme="140296_2" party1="140296_3" party1_string="HIGGS" theme_string="HIGGS v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="140296_5" ></RELATION>
+
+<RELATION party2="140296_4" theme="140296_2" theme_string="HIGGS v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="140296_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 999" X_vs_Y_string="HIGGS v. UNITED STATES" standard_case="140296_1" X_vs_Y="140296_2" gram_type="multi_line" relation_type="equivalence" id="140296_10" ></RELATION>
+
+<RELATION at_date_string="November 29, 2004" theme="140296_2" at_date="140296_9" theme_string="HIGGS v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="140296_12" ></RELATION>
+
+<RELATION theme="140296_2" includes_docket_string="03-10498" includes_docket="140296_7" theme_string="HIGGS v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="140296_11" ></RELATION>
+

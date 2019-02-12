@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['mingoflorida#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1137" id1="117132" volume="510" start="0" page_number="1137" standard_reporter="U.S." citation_global_level_id="7686.002" line="1" id="117128_1" citation_local_level_id="0" >510 U.S. 1137</CITATION>
+
+<CITATION party2="Florida" party1="Mingo" citation_global_level_id="62043.001" party2_short="Florida" line="1" id="117128_3" alternative_keys="['u.s._510_1137']" end="34" entry_type="party_key" lookup_key="mingoflorida#1" id1="117128" start="18" party1_short="Mingo" citation_local_level_id="1" >Mingo v. Florida</CITATION>
+
+<NAME end="23" start="18" party1_of="117128_3" all_names="MINGO" local_name_id="1" id="117128_4" >Mingo</NAME>
+
+<NAME end="34" start="27" all_names="FLORIDA" party2_of="117128_3" local_name_id="2" id="117128_5" >Florida</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="u.s._510_1137" id1="117132" start="44" citation_global_level_id="7686.002" line="1" id="117128_2" citation_local_level_id="0" >93-7467</DOCKET>
+
+<DATE start="93" end="110" id="117128_6" >February 22, 1994</DATE>
+
+<NAME start="204" local_name_id="3" end="214" id="117128_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="253" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_626_259" id1="Dummy_File_162004" volume="626" start="239" page_number="259" standard_reporter="SO.2D" citation_global_level_id="225854.001" line="3" id="117128_12" citation_local_level_id="2" >626 So. 2d 259</CITATION>
+
+<RELATION theme="117128_1" includes_docket_string="93-7467" includes_docket="117128_2" theme_string="510 U.S. 1137" gram_type="apposition" relation_type="asymmetric" id="117128_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1137" X_vs_Y_string="Mingo v. Florida" standard_case="117128_1" X_vs_Y="117128_3" gram_type="pre_nom" relation_type="equivalence" id="117128_7" ></RELATION>
+
+<RELATION theme="117128_3" includes_docket_string="93-7467" includes_docket="117128_2" theme_string="Mingo v. Florida" gram_type="apposition" relation_type="asymmetric" id="117128_10" ></RELATION>
+
+<RELATION theme="117128_3" party1="117128_4" party1_string="Mingo" theme_string="Mingo v. Florida" gram_type="infix" relation_type="asymmetric" id="117128_8" ></RELATION>
+
+<RELATION party2="117128_5" theme="117128_3" theme_string="Mingo v. Florida" party2_string="Florida" gram_type="infix" relation_type="asymmetric" id="117128_9" ></RELATION>
+

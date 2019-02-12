@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['kaplanludwig#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._536_905" id1="121203" volume="536" start="0" page_number="905" standard_reporter="U.S." citation_global_level_id="7422.002" line="1" id="121209_1" citation_local_level_id="0" >536 U.S. 905</CITATION>
+
+<CITATION party2="LUDWIG ET AL" party1="KAPLAN" citation_global_level_id="12282.001" party2_short="LUDWIG" line="2" id="121209_2" alternative_keys="['u.s._536_905']" end="39" entry_type="party_key" lookup_key="kaplanludwig#1" id1="121209" start="17" party1_short="KAPLAN" citation_local_level_id="1" >KAPLAN v. LUDWIG ET AL</CITATION>
+
+<NAME end="23" start="17" party1_of="121209_2" all_names="KAPLAN" local_name_id="1" id="121209_3" >KAPLAN</NAME>
+
+<NAME end="39" start="27" all_names="LUDWIG" party2_of="121209_2" local_name_id="2" id="121209_4" >LUDWIG ET AL</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="kaplanludwig#1" id1="121209" start="49" citation_global_level_id="12282.001" line="3" id="121209_7" citation_local_level_id="1" >01-1485</DOCKET>
+
+<DATE start="102" citation_global_level_id="12282.001" end="115" id="121209_8" citation_local_level_id="1" >June 10, 2002</DATE>
+
+<NAME start="137" local_name_id="3" end="140" id="121209_13" all_names="APP" >App</NAME>
+
+<CITATION end="255" reporter="N. Y. S. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.y.s.2d_730_765" id1="Dummy_File_46118" volume="730" start="236" page_number="765" standard_reporter="N.Y.S.2D" citation_global_level_id="109968.001" line="8" id="121209_12" citation_local_level_id="2" >730 N. Y. S. 2d 765</CITATION>
+
+<RELATION theme="121209_2" party1="121209_3" party1_string="KAPLAN" theme_string="KAPLAN v. LUDWIG ET AL" gram_type="infix" relation_type="asymmetric" id="121209_5" ></RELATION>
+
+<RELATION party2="121209_4" theme="121209_2" theme_string="KAPLAN v. LUDWIG ET AL" party2_string="LUDWIG ET AL" gram_type="infix" relation_type="asymmetric" id="121209_6" ></RELATION>
+
+<RELATION standard_case_string="536 U.S. 905" X_vs_Y_string="KAPLAN v. LUDWIG ET AL" standard_case="121209_1" X_vs_Y="121209_2" gram_type="multi_line" relation_type="equivalence" id="121209_9" ></RELATION>
+
+<RELATION at_date_string="June 10, 2002" theme="121209_2" at_date="121209_8" theme_string="KAPLAN v. LUDWIG ET AL" gram_type="multi_line" relation_type="asymmetric" id="121209_11" ></RELATION>
+
+<RELATION theme="121209_2" includes_docket_string="01-1485" includes_docket="121209_7" theme_string="KAPLAN v. LUDWIG ET AL" gram_type="multi_line" relation_type="asymmetric" id="121209_10" ></RELATION>
+

@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['centeret#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1111" id1="116764" volume="510" start="0" page_number="1111" standard_reporter="U.S." citation_global_level_id="2441.002" line="1" id="116762_1" citation_local_level_id="0" >510 U.S. 1111</CITATION>
+
+<CITATION party2="Browning et al" party1="St. Elizabeth Medical Center" citation_global_level_id="2441.003" party2_short="et" line="1" id="116762_3" alternative_keys="['u.s._510_1111']" end="64" entry_type="party_key" lookup_key="centeret#1" id1="116764" start="18" party1_short="Center" citation_local_level_id="1" >St. Elizabeth Medical Center v. Browning et al</CITATION>
+
+<NAME end="46" start="18" party1_of="116762_3" all_names="ST ELIZABETH MEDICAL CENTER" local_name_id="1" id="116762_4" >St. Elizabeth Medical Center</NAME>
+
+<NAME start="18" local_name_id="2" end="20" id="116762_7" all_names="ST" >St</NAME>
+
+<ORGANIZATION start="22" end="46" id="116762_8" >Elizabeth Medical Center</ORGANIZATION>
+
+<NAME end="64" start="50" all_names="BROWNING" party2_of="116762_3" local_name_id="3" id="116762_5" >Browning et al</NAME>
+
+<DOCKET end="80" entry_type="docket" lookup_key="u.s._510_1111" id1="116764" start="74" citation_global_level_id="2441.002" line="1" id="116762_2" citation_local_level_id="0" >93-832</DOCKET>
+
+<DATE start="122" end="139" id="116762_6" >February 22, 1994</DATE>
+
+<NAME start="217" local_name_id="4" end="227" id="116762_15" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="288" reporter="N. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.e.2d_613_993" id1="Dummy_File_12832" volume="613" start="272" page_number="993" standard_reporter="N.E.2D" citation_global_level_id="76682.001" line="3" id="116762_14" citation_local_level_id="2" >613 N. E. 2d 993</CITATION>
+
+<RELATION theme="116762_1" includes_docket_string="93-832" includes_docket="116762_2" theme_string="510 U.S. 1111" gram_type="apposition" relation_type="asymmetric" id="116762_13" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1111" X_vs_Y_string="St. Elizabeth Medical Center v. Browning et al" standard_case="116762_1" X_vs_Y="116762_3" gram_type="pre_nom" relation_type="equivalence" id="116762_9" ></RELATION>
+
+<RELATION theme="116762_3" includes_docket_string="93-832" includes_docket="116762_2" theme_string="St. Elizabeth Medical Center v. Browning et al" gram_type="apposition" relation_type="asymmetric" id="116762_12" ></RELATION>
+
+<RELATION theme="116762_3" party1="116762_4" party1_string="St. Elizabeth Medical Center" theme_string="St. Elizabeth Medical Center v. Browning et al" gram_type="infix" relation_type="asymmetric" id="116762_10" ></RELATION>
+
+<RELATION party2="116762_5" theme="116762_3" theme_string="St. Elizabeth Medical Center v. Browning et al" party2_string="Browning et al" gram_type="infix" relation_type="asymmetric" id="116762_11" ></RELATION>
+

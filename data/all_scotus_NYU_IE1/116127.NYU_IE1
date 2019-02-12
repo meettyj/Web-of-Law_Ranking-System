@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['colehouston#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1055" id1="116124" volume="510" start="0" page_number="1055" standard_reporter="U.S." citation_global_level_id="1959.002" line="1" id="116127_1" citation_local_level_id="0" >510 U.S. 1055</CITATION>
+
+<CITATION party2="Houston, Warden, et al" party1="Cole" citation_global_level_id="1959.003" party2_short="Houston" line="1" id="116127_3" alternative_keys="['u.s._510_1055']" end="48" entry_type="party_key" lookup_key="colehouston#1" id1="116124" start="18" party1_short="Cole" citation_local_level_id="1" >Cole v. Houston, Warden, et al</CITATION>
+
+<NAME end="22" start="18" party1_of="116127_3" all_names="COLE" local_name_id="1" id="116127_4" >Cole</NAME>
+
+<NAME end="48" start="26" all_names="HOUSTON WARDEN" party2_of="116127_3" local_name_id="2" id="116127_5" >Houston, Warden, et al</NAME>
+
+<DOCKET end="65" entry_type="docket" lookup_key="u.s._510_1055" id1="116124" start="58" citation_global_level_id="1959.002" line="1" id="116127_2" citation_local_level_id="0" >93-6662</DOCKET>
+
+<DATE start="107" end="123" id="116127_6" >January 10, 1994</DATE>
+
+<NAME start="201" local_name_id="3" end="211" id="116127_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="248" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_22_306" id1="Dummy_File_33455" volume="22" start="236" page_number="306" standard_reporter="F.3D" citation_global_level_id="97305.001" line="3" id="116127_12" citation_local_level_id="2" >22 F. 3d 306</CITATION>
+
+<RELATION theme="116127_1" includes_docket_string="93-6662" includes_docket="116127_2" theme_string="510 U.S. 1055" gram_type="apposition" relation_type="asymmetric" id="116127_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1055" X_vs_Y_string="Cole v. Houston, Warden, et al" standard_case="116127_1" X_vs_Y="116127_3" gram_type="pre_nom" relation_type="equivalence" id="116127_7" ></RELATION>
+
+<RELATION theme="116127_3" includes_docket_string="93-6662" includes_docket="116127_2" theme_string="Cole v. Houston, Warden, et al" gram_type="apposition" relation_type="asymmetric" id="116127_10" ></RELATION>
+
+<RELATION theme="116127_3" party1="116127_4" party1_string="Cole" theme_string="Cole v. Houston, Warden, et al" gram_type="infix" relation_type="asymmetric" id="116127_8" ></RELATION>
+
+<RELATION party2="116127_5" theme="116127_3" theme_string="Cole v. Houston, Warden, et al" party2_string="Houston, Warden, et al" gram_type="infix" relation_type="asymmetric" id="116127_9" ></RELATION>
+

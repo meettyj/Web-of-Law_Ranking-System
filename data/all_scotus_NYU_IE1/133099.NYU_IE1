@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['hydetexas#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_950" id1="133096" volume="540" start="0" page_number="950" standard_reporter="U.S." citation_global_level_id="40.002" line="1" id="133099_1" citation_local_level_id="0" >540 U.S. 950</CITATION>
+
+<CITATION party2="TEXAS" party1="HYDE" citation_global_level_id="40954.001" party2_short="TEXAS" line="1" id="133099_3" alternative_keys="['u.s._540_950']" end="30" entry_type="party_key" lookup_key="hydetexas#1" id1="133099" start="17" party1_short="HYDE" citation_local_level_id="1" >HYDE v. TEXAS</CITATION>
+
+<NAME end="21" start="17" party1_of="133099_3" all_names="HYDE" local_name_id="1" id="133099_4" >HYDE</NAME>
+
+<NAME end="30" start="25" all_names="TEXAS" party2_of="133099_3" local_name_id="2" id="133099_5" >TEXAS</NAME>
+
+<DOCKET end="47" entry_type="docket" lookup_key="u.s._540_950" id1="133096" start="40" citation_global_level_id="40.002" line="1" id="133099_2" citation_local_level_id="0" >03-5323</DOCKET>
+
+<DATE start="89" end="105" id="133099_6" >October 14, 2003</DATE>
+
+<NAME start="188" local_name_id="3" end="198" id="133099_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="133099_1" includes_docket_string="03-5323" includes_docket="133099_2" theme_string="540 U.S. 950" gram_type="apposition" relation_type="asymmetric" id="133099_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 950" X_vs_Y_string="HYDE v. TEXAS" standard_case="133099_1" X_vs_Y="133099_3" gram_type="pre_nom" relation_type="equivalence" id="133099_7" ></RELATION>
+
+<RELATION theme="133099_3" includes_docket_string="03-5323" includes_docket="133099_2" theme_string="HYDE v. TEXAS" gram_type="apposition" relation_type="asymmetric" id="133099_10" ></RELATION>
+
+<RELATION theme="133099_3" party1="133099_4" party1_string="HYDE" theme_string="HYDE v. TEXAS" gram_type="infix" relation_type="asymmetric" id="133099_8" ></RELATION>
+
+<RELATION party2="133099_5" theme="133099_3" theme_string="HYDE v. TEXAS" party2_string="TEXAS" gram_type="infix" relation_type="asymmetric" id="133099_9" ></RELATION>
+

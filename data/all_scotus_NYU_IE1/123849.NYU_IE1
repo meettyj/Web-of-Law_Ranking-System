@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['garrettcarolina#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_923" id1="123843" volume="537" start="0" page_number="923" standard_reporter="U.S." citation_global_level_id="2715.002" line="1" id="123849_1" citation_local_level_id="0" >537 U.S. 923</CITATION>
+
+<CITATION party2="SOUTH CAROLINA" party1="GARRETT" citation_global_level_id="48513.001" party2_short="CAROLINA" line="1" id="123849_3" alternative_keys="['u.s._537_923']" end="42" entry_type="party_key" lookup_key="garrettcarolina#1" id1="123849" start="17" party1_short="GARRETT" citation_local_level_id="1" >GARRETT v. SOUTH CAROLINA</CITATION>
+
+<NAME end="24" start="17" party1_of="123849_3" all_names="GARRETT" local_name_id="1" id="123849_4" >GARRETT</NAME>
+
+<NAME end="42" start="28" all_names="SOUTH CAROLINA" party2_of="123849_3" local_name_id="2" id="123849_5" >SOUTH CAROLINA</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="u.s._537_923" id1="123843" start="52" citation_global_level_id="2715.002" line="1" id="123849_2" citation_local_level_id="0" >02-5566</DOCKET>
+
+<DATE start="101" end="116" id="123849_6" >October 7, 2002</DATE>
+
+<NAME start="214" local_name_id="3" end="217" id="123849_12" all_names="SUP" >Sup</NAME>
+
+<RELATION theme="123849_1" includes_docket_string="02-5566" includes_docket="123849_2" theme_string="537 U.S. 923" gram_type="apposition" relation_type="asymmetric" id="123849_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 923" X_vs_Y_string="GARRETT v. SOUTH CAROLINA" standard_case="123849_1" X_vs_Y="123849_3" gram_type="pre_nom" relation_type="equivalence" id="123849_7" ></RELATION>
+
+<RELATION theme="123849_3" includes_docket_string="02-5566" includes_docket="123849_2" theme_string="GARRETT v. SOUTH CAROLINA" gram_type="apposition" relation_type="asymmetric" id="123849_10" ></RELATION>
+
+<RELATION theme="123849_3" party1="123849_4" party1_string="GARRETT" theme_string="GARRETT v. SOUTH CAROLINA" gram_type="infix" relation_type="asymmetric" id="123849_8" ></RELATION>
+
+<RELATION party2="123849_5" theme="123849_3" theme_string="GARRETT v. SOUTH CAROLINA" party2_string="SOUTH CAROLINA" gram_type="infix" relation_type="asymmetric" id="123849_9" ></RELATION>
+

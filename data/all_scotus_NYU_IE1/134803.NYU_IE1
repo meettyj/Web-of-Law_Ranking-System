@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['coarmacfarland#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_905" id1="134809" volume="541" start="0" page_number="905" standard_reporter="U.S." citation_global_level_id="5778.002" line="1" id="134803_1" citation_local_level_id="0" >541 U.S. 905</CITATION>
+
+<CITATION party2="MacFARLAND, ADMINISTRATOR, SOUTH WOODS STATE PRISON, ET AL" party1="COAR" citation_global_level_id="5778.005" party2_short="MacFARLAND" line="2" id="134803_2" alternative_keys="['u.s._541_905']" end="83" entry_type="party_key" lookup_key="coarmacfarland#1" id1="134809" start="17" party1_short="COAR" citation_local_level_id="1" >COAR v. MacFARLAND, ADMINISTRATOR, SOUTH WOODS STATE PRISON, ET AL</CITATION>
+
+<NAME end="21" start="17" party1_of="134803_2" all_names="COAR" local_name_id="1" id="134803_3" >COAR</NAME>
+
+<NAME end="83" start="25" all_names="MACFARLAND ADMINISTRATOR SOUTH WOODS STATE PRISON" party2_of="134803_2" local_name_id="2" id="134803_4" >MacFARLAND, ADMINISTRATOR, SOUTH WOODS STATE PRISON, ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._541_905']" end="100" entry_type="docket" lookup_key="coarmacfarland#1" id1="134809" start="93" citation_global_level_id="5778.005" line="3" id="134803_7" citation_local_level_id="1" >03-8138</DOCKET>
+
+<ORGANIZATION start="106" end="136" id="134803_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="142" citation_global_level_id="5778.005" end="155" id="134803_9" citation_local_level_id="1" >March 8, 2004</DATE>
+
+<NAME start="186" local_name_id="3" end="189" id="134803_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="134803_2" party1="134803_3" party1_string="COAR" theme_string="COAR v. MacFARLAND, ADMINISTRATOR, SOUTH WOODS STATE PRISON, ET AL" gram_type="infix" relation_type="asymmetric" id="134803_5" ></RELATION>
+
+<RELATION party2="134803_4" theme="134803_2" theme_string="COAR v. MacFARLAND, ADMINISTRATOR, SOUTH WOODS STATE PRISON, ET AL" party2_string="MacFARLAND, ADMINISTRATOR, SOUTH WOODS STATE PRISON, ET AL" gram_type="infix" relation_type="asymmetric" id="134803_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 905" X_vs_Y_string="COAR v. MacFARLAND, ADMINISTRATOR, SOUTH WOODS STATE PRISON, ET AL" standard_case="134803_1" X_vs_Y="134803_2" gram_type="multi_line" relation_type="equivalence" id="134803_10" ></RELATION>
+
+<RELATION at_date_string="March 8, 2004" theme="134803_2" at_date="134803_9" theme_string="COAR v. MacFARLAND, ADMINISTRATOR, SOUTH WOODS STATE PRISON, ET AL" gram_type="multi_line" relation_type="asymmetric" id="134803_12" ></RELATION>
+
+<RELATION theme="134803_2" includes_docket_string="03-8138" includes_docket="134803_7" theme_string="COAR v. MacFARLAND, ADMINISTRATOR, SOUTH WOODS STATE PRISON, ET AL" gram_type="multi_line" relation_type="asymmetric" id="134803_11" ></RELATION>
+

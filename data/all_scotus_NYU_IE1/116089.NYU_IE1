@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['gibbsfood#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1052" id1="116082" volume="510" start="0" page_number="1052" standard_reporter="U.S." citation_global_level_id="1532.002" line="1" id="116089_1" citation_local_level_id="0" >510 U.S. 1052</CITATION>
+
+<CITATION party2="Clements Food Co" party1="Gibbs" citation_global_level_id="36108.001" party2_short="Food" line="1" id="116089_3" alternative_keys="['u.s._510_1052']" end="43" entry_type="party_key" lookup_key="gibbsfood#1" id1="116089" start="18" party1_short="Gibbs" citation_local_level_id="1" >Gibbs v. Clements Food Co</CITATION>
+
+<NAME end="23" start="18" party1_of="116089_3" all_names="GIBBS" local_name_id="1" id="116089_4" >Gibbs</NAME>
+
+<NAME end="43" start="27" all_names="CLEMENTS FOOD CO" party2_of="116089_3" local_name_id="2" id="116089_5" >Clements Food Co</NAME>
+
+<DOCKET end="60" entry_type="docket" lookup_key="u.s._510_1052" id1="116082" start="53" citation_global_level_id="1532.002" line="1" id="116089_2" citation_local_level_id="0" >93-6545</DOCKET>
+
+<DATE start="102" end="118" id="116089_6" >January 10, 1994</DATE>
+
+<NAME start="197" local_name_id="3" end="207" id="116089_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="245" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_996_310" id1="Dummy_File_226111" volume="996" start="232" page_number="310" standard_reporter="F.2D" citation_global_level_id="289961.001" line="3" id="116089_12" citation_local_level_id="2" >996 F. 2d 310</CITATION>
+
+<RELATION theme="116089_1" includes_docket_string="93-6545" includes_docket="116089_2" theme_string="510 U.S. 1052" gram_type="apposition" relation_type="asymmetric" id="116089_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1052" X_vs_Y_string="Gibbs v. Clements Food Co" standard_case="116089_1" X_vs_Y="116089_3" gram_type="pre_nom" relation_type="equivalence" id="116089_7" ></RELATION>
+
+<RELATION theme="116089_3" includes_docket_string="93-6545" includes_docket="116089_2" theme_string="Gibbs v. Clements Food Co" gram_type="apposition" relation_type="asymmetric" id="116089_10" ></RELATION>
+
+<RELATION theme="116089_3" party1="116089_4" party1_string="Gibbs" theme_string="Gibbs v. Clements Food Co" gram_type="infix" relation_type="asymmetric" id="116089_8" ></RELATION>
+
+<RELATION party2="116089_5" theme="116089_3" theme_string="Gibbs v. Clements Food Co" party2_string="Clements Food Co" gram_type="infix" relation_type="asymmetric" id="116089_9" ></RELATION>
+

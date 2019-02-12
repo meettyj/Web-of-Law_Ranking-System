@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['mcgeetexas#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_1004" id1="133778" volume="540" start="0" page_number="1004" standard_reporter="U.S." citation_global_level_id="2787.002" line="1" id="133776_1" citation_local_level_id="0" >540 U.S. 1004</CITATION>
+
+<CITATION party2="TEXAS" party1="McGEE" citation_global_level_id="13955.001" party2_short="TEXAS" line="1" id="133776_3" alternative_keys="['u.s._540_1004']" end="32" entry_type="party_key" lookup_key="mcgeetexas#1" id1="133776" start="18" party1_short="McGEE" citation_local_level_id="1" >McGEE v. TEXAS</CITATION>
+
+<NAME end="23" start="18" party1_of="133776_3" all_names="MCGEE" local_name_id="1" id="133776_4" >McGEE</NAME>
+
+<NAME end="32" start="27" all_names="TEXAS" party2_of="133776_3" local_name_id="2" id="133776_5" >TEXAS</NAME>
+
+<DOCKET end="48" entry_type="docket" lookup_key="u.s._540_1004" id1="133778" start="42" citation_global_level_id="2787.002" line="1" id="133776_2" citation_local_level_id="0" >03-363</DOCKET>
+
+<DATE start="90" end="107" id="133776_6" >November 10, 2003</DATE>
+
+<NAME start="190" local_name_id="3" end="200" id="133776_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="241" reporter="S. W. 3d" entry_type="standard_key" no_current_file="True" lookup_key="s.w.3d_105_609" id1="Dummy_File_191737" volume="105" start="225" page_number="609" standard_reporter="S.W.3D" citation_global_level_id="255587.001" line="3" id="133776_12" citation_local_level_id="2" >105 S. W. 3d 609</CITATION>
+
+<RELATION theme="133776_1" includes_docket_string="03-363" includes_docket="133776_2" theme_string="540 U.S. 1004" gram_type="apposition" relation_type="asymmetric" id="133776_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 1004" X_vs_Y_string="McGEE v. TEXAS" standard_case="133776_1" X_vs_Y="133776_3" gram_type="pre_nom" relation_type="equivalence" id="133776_7" ></RELATION>
+
+<RELATION theme="133776_3" includes_docket_string="03-363" includes_docket="133776_2" theme_string="McGEE v. TEXAS" gram_type="apposition" relation_type="asymmetric" id="133776_10" ></RELATION>
+
+<RELATION theme="133776_3" party1="133776_4" party1_string="McGEE" theme_string="McGEE v. TEXAS" gram_type="infix" relation_type="asymmetric" id="133776_8" ></RELATION>
+
+<RELATION party2="133776_5" theme="133776_3" theme_string="McGEE v. TEXAS" party2_string="TEXAS" gram_type="infix" relation_type="asymmetric" id="133776_9" ></RELATION>
+

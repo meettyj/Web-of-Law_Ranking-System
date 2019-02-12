@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['moodypryor#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1098" id1="120838" volume="535" start="0" page_number="1098" standard_reporter="U.S." citation_global_level_id="6713.002" line="1" id="120840_1" citation_local_level_id="0" >535 U.S. 1098</CITATION>
+
+<CITATION party2="PRYOR, ATTORNEY GENERAL OF ALABAMA, ET AL" party1="MOODY" citation_global_level_id="6713.004" party2_short="PRYOR" line="2" id="120840_2" alternative_keys="['u.s._535_1098']" end="68" entry_type="party_key" lookup_key="moodypryor#1" id1="120838" start="18" party1_short="MOODY" citation_local_level_id="1" >MOODY v. PRYOR, ATTORNEY GENERAL OF ALABAMA, ET AL</CITATION>
+
+<NAME end="23" start="18" party1_of="120840_2" all_names="MOODY" local_name_id="1" id="120840_3" >MOODY</NAME>
+
+<NAME end="68" start="27" all_names="PRYOR ATTORNEY GENERAL OF ALABAMA" party2_of="120840_2" local_name_id="2" id="120840_4" >PRYOR, ATTORNEY GENERAL OF ALABAMA, ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._535_1098']" end="85" entry_type="docket" lookup_key="moodypryor#1" id1="120838" start="78" citation_global_level_id="6713.004" line="3" id="120840_7" citation_local_level_id="1" >01-7272</DOCKET>
+
+<DATE start="131" citation_global_level_id="6713.004" end="143" id="120840_8" citation_local_level_id="1" >May 28, 2002</DATE>
+
+<NAME start="176" local_name_id="3" end="179" id="120840_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="120840_2" party1="120840_3" party1_string="MOODY" theme_string="MOODY v. PRYOR, ATTORNEY GENERAL OF ALABAMA, ET AL" gram_type="infix" relation_type="asymmetric" id="120840_5" ></RELATION>
+
+<RELATION party2="120840_4" theme="120840_2" theme_string="MOODY v. PRYOR, ATTORNEY GENERAL OF ALABAMA, ET AL" party2_string="PRYOR, ATTORNEY GENERAL OF ALABAMA, ET AL" gram_type="infix" relation_type="asymmetric" id="120840_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1098" X_vs_Y_string="MOODY v. PRYOR, ATTORNEY GENERAL OF ALABAMA, ET AL" standard_case="120840_1" X_vs_Y="120840_2" gram_type="multi_line" relation_type="equivalence" id="120840_9" ></RELATION>
+
+<RELATION at_date_string="May 28, 2002" theme="120840_2" at_date="120840_8" theme_string="MOODY v. PRYOR, ATTORNEY GENERAL OF ALABAMA, ET AL" gram_type="multi_line" relation_type="asymmetric" id="120840_11" ></RELATION>
+
+<RELATION theme="120840_2" includes_docket_string="01-7272" includes_docket="120840_7" theme_string="MOODY v. PRYOR, ATTORNEY GENERAL OF ALABAMA, ET AL" gram_type="multi_line" relation_type="asymmetric" id="120840_10" ></RELATION>
+

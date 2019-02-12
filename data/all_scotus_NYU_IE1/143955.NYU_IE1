@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['pricereid#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_983" id1="143953" volume="544" start="0" page_number="983" standard_reporter="U.S." citation_global_level_id="4569.002" line="1" id="143955_1" citation_local_level_id="0" >544 U.S. 983</CITATION>
+
+<CITATION party2="REID, SUPERINTENDENT, CENTENNIAL CORRECTIONAL FACILITY, ET AL" party1="PRICE" citation_global_level_id="4569.004" party2_short="REID" line="2" id="143955_2" alternative_keys="['u.s._544_983']" end="87" entry_type="party_key" lookup_key="pricereid#1" id1="143953" start="17" party1_short="PRICE" citation_local_level_id="1" >PRICE v. REID, SUPERINTENDENT, CENTENNIAL CORRECTIONAL FACILITY, ET AL</CITATION>
+
+<NAME end="22" start="17" party1_of="143955_2" all_names="PRICE" local_name_id="1" id="143955_3" >PRICE</NAME>
+
+<NAME end="87" start="26" all_names="REID SUPERINTENDENT CENTENNIAL CORRECTIONAL FACILITY" party2_of="143955_2" local_name_id="2" id="143955_4" >REID, SUPERINTENDENT, CENTENNIAL CORRECTIONAL FACILITY, ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._544_983']" end="104" entry_type="docket" lookup_key="pricereid#1" id1="143953" start="97" citation_global_level_id="4569.004" line="3" id="143955_7" citation_local_level_id="1" >04-8651</DOCKET>
+
+<ORGANIZATION start="110" end="140" id="143955_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="146" citation_global_level_id="4569.004" end="160" id="143955_9" citation_local_level_id="1" >April 18, 2005</DATE>
+
+<NAME start="193" local_name_id="3" end="196" id="143955_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="143955_2" party1="143955_3" party1_string="PRICE" theme_string="PRICE v. REID, SUPERINTENDENT, CENTENNIAL CORRECTIONAL FACILITY, ET AL" gram_type="infix" relation_type="asymmetric" id="143955_5" ></RELATION>
+
+<RELATION party2="143955_4" theme="143955_2" theme_string="PRICE v. REID, SUPERINTENDENT, CENTENNIAL CORRECTIONAL FACILITY, ET AL" party2_string="REID, SUPERINTENDENT, CENTENNIAL CORRECTIONAL FACILITY, ET AL" gram_type="infix" relation_type="asymmetric" id="143955_6" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 983" X_vs_Y_string="PRICE v. REID, SUPERINTENDENT, CENTENNIAL CORRECTIONAL FACILITY, ET AL" standard_case="143955_1" X_vs_Y="143955_2" gram_type="multi_line" relation_type="equivalence" id="143955_10" ></RELATION>
+
+<RELATION at_date_string="April 18, 2005" theme="143955_2" at_date="143955_9" theme_string="PRICE v. REID, SUPERINTENDENT, CENTENNIAL CORRECTIONAL FACILITY, ET AL" gram_type="multi_line" relation_type="asymmetric" id="143955_12" ></RELATION>
+
+<RELATION theme="143955_2" includes_docket_string="04-8651" includes_docket="143955_7" theme_string="PRICE v. REID, SUPERINTENDENT, CENTENNIAL CORRECTIONAL FACILITY, ET AL" gram_type="multi_line" relation_type="asymmetric" id="143955_11" ></RELATION>
+

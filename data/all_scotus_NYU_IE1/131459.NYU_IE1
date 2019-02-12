@@ -1,0 +1,40 @@
+<CITATION alternative_keys="['jonesbank#3']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_825" id1="131461" volume="540" start="0" page_number="825" standard_reporter="U.S." citation_global_level_id="2891.002" line="1" id="131459_1" citation_local_level_id="0" >540 U.S. 825</CITATION>
+
+<CITATION party2="LIBERTY BANK OF COLLINSVILLE, ALABAMA, ET AL" party1="JONES ET AL." citation_global_level_id="2891.005" party2_short="BANK" line="1" id="131459_3" alternative_keys="['u.s._540_825']" end="77" entry_type="party_key" lookup_key="jonesbank#3" id1="131461" start="17" party1_short="JONES" citation_local_level_id="1" >JONES ET AL. v. LIBERTY BANK OF COLLINSVILLE, ALABAMA, ET AL</CITATION>
+
+<NAME end="29" start="17" party1_of="131459_3" all_names="JONES" local_name_id="1" id="131459_4" >JONES ET AL.</NAME>
+
+<NAME start="17" local_name_id="1" end="28" id="131459_8" all_names="JONES" >JONES ET AL</NAME>
+
+<NAME end="77" start="33" all_names="LIBERTY BANK OF COLLINSVILLE ALABAMA" party2_of="131459_3" local_name_id="2" id="131459_5" >LIBERTY BANK OF COLLINSVILLE, ALABAMA, ET AL</NAME>
+
+<ORGANIZATION start="33" end="61" id="131459_9" >LIBERTY BANK OF COLLINSVILLE</ORGANIZATION>
+
+<DOCKET end="94" entry_type="docket" lookup_key="u.s._540_825" id1="131461" start="87" citation_global_level_id="2891.002" line="1" id="131459_2" citation_local_level_id="0" >02-1857</DOCKET>
+
+<DATE start="90" end="94" id="131459_6" >1857</DATE>
+
+<ORGANIZATION start="100" end="130" id="131459_10" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="136" end="151" id="131459_7" >October 6, 2003</DATE>
+
+<NAME start="173" local_name_id="3" end="191" id="131459_11" all_names="APPEAL FROM THE CT" >Appeal from the Ct</NAME>
+
+<NAME start="193" local_name_id="4" end="196" id="131459_12" all_names="CIV" >Civ</NAME>
+
+<NAME start="233" local_name_id="5" end="243" id="131459_20" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="282" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_876_529" id1="Dummy_File_80184" volume="876" start="268" page_number="529" standard_reporter="SO.2D" citation_global_level_id="144034.001" line="3" id="131459_19" citation_local_level_id="2" >876 So. 2d 529</CITATION>
+
+<RELATION theme="131459_1" includes_docket_string="02-1857" includes_docket="131459_2" theme_string="540 U.S. 825" gram_type="apposition" relation_type="asymmetric" id="131459_17" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 825" X_vs_Y_string="JONES ET AL. v. LIBERTY BANK OF COLLINSVILLE, ALABAMA, ET AL" standard_case="131459_1" X_vs_Y="131459_3" gram_type="pre_nom" relation_type="equivalence" id="131459_13" ></RELATION>
+
+<RELATION theme="131459_3" includes_docket_string="02-1857" includes_docket="131459_2" theme_string="JONES ET AL. v. LIBERTY BANK OF COLLINSVILLE, ALABAMA, ET AL" gram_type="apposition" relation_type="asymmetric" id="131459_16" ></RELATION>
+
+<RELATION theme="131459_3" party1="131459_4" party1_string="JONES ET AL." theme_string="JONES ET AL. v. LIBERTY BANK OF COLLINSVILLE, ALABAMA, ET AL" gram_type="infix" relation_type="asymmetric" id="131459_14" ></RELATION>
+
+<RELATION party2="131459_5" theme="131459_3" theme_string="JONES ET AL. v. LIBERTY BANK OF COLLINSVILLE, ALABAMA, ET AL" party2_string="LIBERTY BANK OF COLLINSVILLE, ALABAMA, ET AL" gram_type="infix" relation_type="asymmetric" id="131459_15" ></RELATION>
+
+<RELATION at_date_string="1857" theme="131459_2" at_date="131459_6" theme_string="02-1857" gram_type="infix" relation_type="asymmetric" id="131459_18" ></RELATION>
+

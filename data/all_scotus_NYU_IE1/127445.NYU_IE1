@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['smithillinois#6']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1213" id1="127446" volume="537" start="0" page_number="1213" standard_reporter="U.S." citation_global_level_id="3790.002" line="1" id="127445_1" citation_local_level_id="0" >537 U.S. 1213</CITATION>
+
+<CITATION party2="ILLINOIS" party1="SMITH" citation_global_level_id="63705.001" party2_short="ILLINOIS" line="1" id="127445_3" alternative_keys="['u.s._537_1213']" end="35" entry_type="party_key" lookup_key="smithillinois#6" id1="116633" start="18" party1_short="SMITH" citation_local_level_id="1" >SMITH v. ILLINOIS</CITATION>
+
+<NAME end="23" start="18" party1_of="127445_3" all_names="SMITH" local_name_id="1" id="127445_4" >SMITH</NAME>
+
+<NAME end="35" start="27" all_names="ILLINOIS" party2_of="127445_3" local_name_id="2" id="127445_5" >ILLINOIS</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="u.s._537_1213" id1="127446" start="45" citation_global_level_id="3790.002" line="1" id="127445_2" citation_local_level_id="0" >02-8243</DOCKET>
+
+<DATE start="94" end="111" id="127445_6" >February 24, 2003</DATE>
+
+<NAME start="228" local_name_id="3" end="231" id="127445_12" all_names="APP" >App</NAME>
+
+<RELATION theme="127445_1" includes_docket_string="02-8243" includes_docket="127445_2" theme_string="537 U.S. 1213" gram_type="apposition" relation_type="asymmetric" id="127445_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1213" X_vs_Y_string="SMITH v. ILLINOIS" standard_case="127445_1" X_vs_Y="127445_3" gram_type="pre_nom" relation_type="equivalence" id="127445_7" ></RELATION>
+
+<RELATION theme="127445_3" includes_docket_string="02-8243" includes_docket="127445_2" theme_string="SMITH v. ILLINOIS" gram_type="apposition" relation_type="asymmetric" id="127445_10" ></RELATION>
+
+<RELATION theme="127445_3" party1="127445_4" party1_string="SMITH" theme_string="SMITH v. ILLINOIS" gram_type="infix" relation_type="asymmetric" id="127445_8" ></RELATION>
+
+<RELATION party2="127445_5" theme="127445_3" theme_string="SMITH v. ILLINOIS" party2_string="ILLINOIS" gram_type="infix" relation_type="asymmetric" id="127445_9" ></RELATION>
+

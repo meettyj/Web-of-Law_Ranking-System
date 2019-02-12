@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['moyersystems#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_879" id1="132173" volume="540" start="0" page_number="879" standard_reporter="U.S." citation_global_level_id="4392.002" line="1" id="132180_1" citation_local_level_id="0" >540 U.S. 879</CITATION>
+
+<CITATION party2="HITACHI DATA SYSTEMS, INC" party1="MOYER" citation_global_level_id="19015.001" party2_short="SYSTEMS" line="1" id="132180_3" alternative_keys="['u.s._540_879']" end="51" entry_type="party_key" lookup_key="moyersystems#1" id1="132180" start="17" party1_short="MOYER" citation_local_level_id="1" >MOYER v. HITACHI DATA SYSTEMS, INC</CITATION>
+
+<NAME end="22" start="17" party1_of="132180_3" all_names="MOYER" local_name_id="1" id="132180_4" >MOYER</NAME>
+
+<NAME end="51" start="26" all_names="HITACHI DATA SYSTEMS INC" party2_of="132180_3" local_name_id="2" id="132180_5" >HITACHI DATA SYSTEMS, INC</NAME>
+
+<DOCKET end="67" entry_type="docket" lookup_key="u.s._540_879" id1="132173" start="61" citation_global_level_id="4392.002" line="1" id="132180_2" citation_local_level_id="0" >03-135</DOCKET>
+
+<DATE start="109" end="124" id="132180_6" >October 6, 2003</DATE>
+
+<NAME start="202" local_name_id="3" end="212" id="132180_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="132180_1" includes_docket_string="03-135" includes_docket="132180_2" theme_string="540 U.S. 879" gram_type="apposition" relation_type="asymmetric" id="132180_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 879" X_vs_Y_string="MOYER v. HITACHI DATA SYSTEMS, INC" standard_case="132180_1" X_vs_Y="132180_3" gram_type="pre_nom" relation_type="equivalence" id="132180_7" ></RELATION>
+
+<RELATION theme="132180_3" includes_docket_string="03-135" includes_docket="132180_2" theme_string="MOYER v. HITACHI DATA SYSTEMS, INC" gram_type="apposition" relation_type="asymmetric" id="132180_10" ></RELATION>
+
+<RELATION theme="132180_3" party1="132180_4" party1_string="MOYER" theme_string="MOYER v. HITACHI DATA SYSTEMS, INC" gram_type="infix" relation_type="asymmetric" id="132180_8" ></RELATION>
+
+<RELATION party2="132180_5" theme="132180_3" theme_string="MOYER v. HITACHI DATA SYSTEMS, INC" party2_string="HITACHI DATA SYSTEMS, INC" gram_type="infix" relation_type="asymmetric" id="132180_9" ></RELATION>
+

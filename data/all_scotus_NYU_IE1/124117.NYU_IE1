@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['massachusettsseng#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_942" id1="124116" volume="537" start="0" page_number="942" standard_reporter="U.S." citation_global_level_id="6473.002" line="1" id="124117_1" citation_local_level_id="0" >537 U.S. 942</CITATION>
+
+<CITATION party2="SENG" party1="MASSACHUSETTS" citation_global_level_id="33058.001" party2_short="SENG" line="1" id="124117_3" alternative_keys="['u.s._537_942']" end="38" entry_type="party_key" lookup_key="massachusettsseng#1" id1="124117" start="17" party1_short="MASSACHUSETTS" citation_local_level_id="1" >MASSACHUSETTS v. SENG</CITATION>
+
+<NAME end="30" start="17" party1_of="124117_3" all_names="MASSACHUSETTS" local_name_id="1" id="124117_4" >MASSACHUSETTS</NAME>
+
+<NAME end="38" start="34" all_names="SENG" party2_of="124117_3" local_name_id="2" id="124117_5" >SENG</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="u.s._537_942" id1="124116" start="48" citation_global_level_id="6473.002" line="1" id="124117_2" citation_local_level_id="0" >02-144</DOCKET>
+
+<DATE start="96" end="111" id="124117_6" >October 7, 2002</DATE>
+
+<NAME start="217" local_name_id="3" end="220" id="124117_14" all_names="SUP" >Sup</NAME>
+
+<CITATION end="354" reporter="Mass." entry_type="standard_key" no_current_file="True" lookup_key="mass._436_537" id1="Dummy_File_220781" volume="436" start="341" page_number="537" standard_reporter="MASS." citation_global_level_id="284631.001" line="3" id="124117_12" citation_local_level_id="2" >436 Mass. 537</CITATION>
+
+<CITATION end="372" reporter="N. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.e.2d_766_492" id1="Dummy_File_220782" volume="766" start="356" page_number="492" standard_reporter="N.E.2D" citation_global_level_id="284632.001" line="3" id="124117_13" citation_local_level_id="3" >766 N. E. 2d 492</CITATION>
+
+<RELATION theme="124117_1" includes_docket_string="02-144" includes_docket="124117_2" theme_string="537 U.S. 942" gram_type="apposition" relation_type="asymmetric" id="124117_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 942" X_vs_Y_string="MASSACHUSETTS v. SENG" standard_case="124117_1" X_vs_Y="124117_3" gram_type="pre_nom" relation_type="equivalence" id="124117_7" ></RELATION>
+
+<RELATION theme="124117_3" includes_docket_string="02-144" includes_docket="124117_2" theme_string="MASSACHUSETTS v. SENG" gram_type="apposition" relation_type="asymmetric" id="124117_10" ></RELATION>
+
+<RELATION theme="124117_3" party1="124117_4" party1_string="MASSACHUSETTS" theme_string="MASSACHUSETTS v. SENG" gram_type="infix" relation_type="asymmetric" id="124117_8" ></RELATION>
+
+<RELATION party2="124117_5" theme="124117_3" theme_string="MASSACHUSETTS v. SENG" party2_string="SENG" gram_type="infix" relation_type="asymmetric" id="124117_9" ></RELATION>
+

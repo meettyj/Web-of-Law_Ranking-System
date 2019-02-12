@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['armstrongcommission#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_864" id1="123051" volume="537" start="0" page_number="864" standard_reporter="U.S." citation_global_level_id="1030.002" line="1" id="123062_1" citation_local_level_id="0" >537 U.S. 864</CITATION>
+
+<CITATION party2="COMMODITY FUTURES TRADING COMMISSION ET AL" party1="ARMSTRONG" citation_global_level_id="39179.001" party2_short="COMMISSION" line="1" id="123062_3" alternative_keys="['u.s._537_864']" end="72" entry_type="party_key" lookup_key="armstrongcommission#2" id1="125666" start="17" party1_short="ARMSTRONG" citation_local_level_id="1" >ARMSTRONG v. COMMODITY FUTURES TRADING COMMISSION ET AL</CITATION>
+
+<NAME end="26" start="17" party1_of="123062_3" all_names="ARMSTRONG" local_name_id="1" id="123062_4" >ARMSTRONG</NAME>
+
+<NAME end="72" start="30" all_names="COMMODITY FUTURES TRADING COMMISSION" party2_of="123062_3" local_name_id="2" id="123062_5" >COMMODITY FUTURES TRADING COMMISSION ET AL</NAME>
+
+<DOCKET end="90" entry_type="docket" lookup_key="u.s._537_864" id1="123051" start="82" citation_global_level_id="1030.002" line="1" id="123062_2" citation_local_level_id="0" >01-10803</DOCKET>
+
+<DATE start="132" end="147" id="123062_6" >October 7, 2002</DATE>
+
+<NAME start="276" local_name_id="3" end="279" id="123062_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="329" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_284_404" id1="Dummy_File_83403" volume="284" start="316" page_number="404" standard_reporter="F.3D" citation_global_level_id="147253.001" line="3" id="123062_12" citation_local_level_id="2" >284 F. 3d 404</CITATION>
+
+<RELATION theme="123062_1" includes_docket_string="01-10803" includes_docket="123062_2" theme_string="537 U.S. 864" gram_type="apposition" relation_type="asymmetric" id="123062_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 864" X_vs_Y_string="ARMSTRONG v. COMMODITY FUTURES TRADING COMMISSION ET AL" standard_case="123062_1" X_vs_Y="123062_3" gram_type="pre_nom" relation_type="equivalence" id="123062_7" ></RELATION>
+
+<RELATION theme="123062_3" includes_docket_string="01-10803" includes_docket="123062_2" theme_string="ARMSTRONG v. COMMODITY FUTURES TRADING COMMISSION ET AL" gram_type="apposition" relation_type="asymmetric" id="123062_10" ></RELATION>
+
+<RELATION theme="123062_3" party1="123062_4" party1_string="ARMSTRONG" theme_string="ARMSTRONG v. COMMODITY FUTURES TRADING COMMISSION ET AL" gram_type="infix" relation_type="asymmetric" id="123062_8" ></RELATION>
+
+<RELATION party2="123062_5" theme="123062_3" theme_string="ARMSTRONG v. COMMODITY FUTURES TRADING COMMISSION ET AL" party2_string="COMMODITY FUTURES TRADING COMMISSION ET AL" gram_type="infix" relation_type="asymmetric" id="123062_9" ></RELATION>
+

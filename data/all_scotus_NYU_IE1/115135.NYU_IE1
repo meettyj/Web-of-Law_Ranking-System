@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['moorelilly#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_976" id1="115140" volume="510" start="0" page_number="976" standard_reporter="U.S." citation_global_level_id="11255.002" line="1" id="115135_1" citation_local_level_id="0" >510 U.S. 976</CITATION>
+
+<CITATION party2="Eli Lilly &amp; Co" party1="Moore" citation_global_level_id="11255.004" party2_short="Lilly" line="1" id="115135_3" alternative_keys="['u.s._510_976']" end="40" entry_type="party_key" lookup_key="moorelilly#2" id1="115140" start="17" party1_short="Moore" citation_local_level_id="1" >Moore v. Eli Lilly &amp; Co</CITATION>
+
+<NAME end="22" start="17" party1_of="115135_3" all_names="MOORE" local_name_id="1" id="115135_4" >Moore</NAME>
+
+<NAME end="40" start="26" all_names="ELI LILLY &amp; CO" party2_of="115135_3" local_name_id="2" id="115135_5" >Eli Lilly &amp; Co</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._510_976" id1="115140" start="50" citation_global_level_id="11255.002" line="1" id="115135_2" citation_local_level_id="0" >93-278</DOCKET>
+
+<DATE start="98" end="115" id="115135_6" >November 15, 1993</DATE>
+
+<NAME start="193" local_name_id="3" end="203" id="115135_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="241" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_990_812" id1="Dummy_File_66474" volume="990" start="228" page_number="812" standard_reporter="F.2D" citation_global_level_id="130324.001" line="3" id="115135_12" citation_local_level_id="2" >990 F. 2d 812</CITATION>
+
+<RELATION theme="115135_1" includes_docket_string="93-278" includes_docket="115135_2" theme_string="510 U.S. 976" gram_type="apposition" relation_type="asymmetric" id="115135_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 976" X_vs_Y_string="Moore v. Eli Lilly &amp; Co" standard_case="115135_1" X_vs_Y="115135_3" gram_type="pre_nom" relation_type="equivalence" id="115135_7" ></RELATION>
+
+<RELATION theme="115135_3" includes_docket_string="93-278" includes_docket="115135_2" theme_string="Moore v. Eli Lilly &amp; Co" gram_type="apposition" relation_type="asymmetric" id="115135_10" ></RELATION>
+
+<RELATION theme="115135_3" party1="115135_4" party1_string="Moore" theme_string="Moore v. Eli Lilly &amp; Co" gram_type="infix" relation_type="asymmetric" id="115135_8" ></RELATION>
+
+<RELATION party2="115135_5" theme="115135_3" theme_string="Moore v. Eli Lilly &amp; Co" party2_string="Eli Lilly &amp; Co" gram_type="infix" relation_type="asymmetric" id="115135_9" ></RELATION>
+

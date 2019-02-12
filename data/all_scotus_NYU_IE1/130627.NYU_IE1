@@ -1,0 +1,70 @@
+<CITATION alternative_keys="['assncommission#5']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_939" id1="130628" volume="539" start="0" page_number="939" standard_reporter="U.S." citation_global_level_id="3025.002" line="1" id="130627_1" citation_local_level_id="0" >539 U.S. 939</CITATION>
+
+<CITATION party2="Federal Election Commission et al" party1="National Rifle Assn. et al." citation_global_level_id="41586.001" party2_short="Commission" line="1" id="130627_3" alternative_keys="['u.s._539_939']" end="81" entry_type="party_key" lookup_key="assncommission#5" id1="131066" start="17" party1_short="Assn" citation_local_level_id="1" >National Rifle Assn. et al. v. Federal Election Commission et al</CITATION>
+
+<NAME end="44" start="17" party1_of="130627_3" all_names="NATIONAL RIFLE ASSN" local_name_id="1" id="130627_4" >National Rifle Assn. et al.</NAME>
+
+<NAME start="17" local_name_id="1" end="36" id="130627_7" all_names="NATIONAL RIFLE ASSN" >National Rifle Assn</NAME>
+
+<NAME end="81" start="48" all_names="FEDERAL ELECTION COMMISSION" party2_of="130627_3" local_name_id="2" id="130627_5" >Federal Election Commission et al</NAME>
+
+<ORGANIZATION start="48" end="75" id="130627_8" >Federal Election Commission</ORGANIZATION>
+
+<DOCKET end="98" entry_type="docket" lookup_key="u.s._539_939" id1="130628" start="91" citation_global_level_id="3025.002" line="1" id="130627_2" citation_local_level_id="0" >02-1675</DOCKET>
+
+<ORGANIZATION start="104" end="134" id="130627_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="140" end="153" id="130627_6" >June 19, 2003</DATE>
+
+<NAME start="175" local_name_id="3" end="201" id="130627_10" all_names="APPEAL FROM THE D C D C" >Appeal from the D. C. D. C</NAME>
+
+<NAME start="204" local_name_id="4" end="212" id="130627_11" all_names="PROBABLE" >Probable</NAME>
+
+<NAME start="273" local_name_id="5" end="279" id="130627_24" all_names="BRIEFS" >Briefs</NAME>
+
+<LEGAL_ROLE start="304" end="314" plural="True" id="130627_25" >plaintiffs</LEGAL_ROLE>
+
+<ORGANIZATION start="322" end="336" id="130627_26" >District Court</ORGANIZATION>
+
+<LEGAL_ROLE start="438" end="448" plural="True" id="130627_27" >plaintiffs</LEGAL_ROLE>
+
+<DOCKET entry_type="docket" line="3" end="463" id="130627_17" start="456" >02-1674</DOCKET>
+
+<LEGAL_ROLE start="538" end="548" plural="True" id="130627_28" >plaintiffs</LEGAL_ROLE>
+
+<DOCKET entry_type="docket" line="3" end="564" id="130627_18" start="557" >02-1727</DOCKET>
+
+<DATE start="560" end="564" id="130627_21" >1727</DATE>
+
+<DOCKET entry_type="docket" line="3" end="573" id="130627_19" start="566" >02-1733</DOCKET>
+
+<DATE start="569" end="573" id="130627_22" >1733</DATE>
+
+<DOCKET entry_type="docket" line="3" end="582" id="130627_20" start="575" >02-1753</DOCKET>
+
+<DATE start="578" end="582" id="130627_23" >1753</DATE>
+
+<PROFESSION start="650" end="667" id="130627_29" >Solicitor General</PROFESSION>
+
+<RELATION theme="130627_1" includes_docket_string="02-1675" includes_docket="130627_2" theme_string="539 U.S. 939" gram_type="apposition" relation_type="asymmetric" id="130627_16" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 939" X_vs_Y_string="National Rifle Assn. et al. v. Federal Election Commission et al" standard_case="130627_1" X_vs_Y="130627_3" gram_type="pre_nom" relation_type="equivalence" id="130627_12" ></RELATION>
+
+<RELATION theme="130627_3" includes_docket_string="02-1675" includes_docket="130627_2" theme_string="National Rifle Assn. et al. v. Federal Election Commission et al" gram_type="apposition" relation_type="asymmetric" id="130627_15" ></RELATION>
+
+<RELATION theme="130627_3" party1="130627_4" party1_string="National Rifle Assn. et al." theme_string="National Rifle Assn. et al. v. Federal Election Commission et al" gram_type="infix" relation_type="asymmetric" id="130627_13" ></RELATION>
+
+<RELATION party2="130627_5" theme="130627_3" theme_string="National Rifle Assn. et al. v. Federal Election Commission et al" party2_string="Federal Election Commission et al" gram_type="infix" relation_type="asymmetric" id="130627_14" ></RELATION>
+
+<RELATION at_date_string="1727" theme="130627_18" at_date="130627_21" theme_string="02-1727" gram_type="infix" relation_type="asymmetric" id="130627_30" ></RELATION>
+
+<RELATION at_date_string="1727" theme="130627_20" at_date="130627_21" theme_string="02-1753" gram_type="indirect_infix" relation_type="asymmetric" id="130627_33" ></RELATION>
+
+<RELATION at_date_string="1727" theme="130627_19" at_date="130627_21" theme_string="02-1733" gram_type="indirect_infix" relation_type="asymmetric" id="130627_31" ></RELATION>
+
+<RELATION at_date_string="1733" theme="130627_19" at_date="130627_22" theme_string="02-1733" gram_type="infix" relation_type="asymmetric" id="130627_32" ></RELATION>
+
+<RELATION at_date_string="1733" theme="130627_20" at_date="130627_22" theme_string="02-1753" gram_type="indirect_infix" relation_type="asymmetric" id="130627_34" ></RELATION>
+
+<RELATION at_date_string="1753" theme="130627_20" at_date="130627_23" theme_string="02-1753" gram_type="infix" relation_type="asymmetric" id="130627_35" ></RELATION>
+

@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['renneisenairlines#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_914" id1="114345" volume="510" start="0" page_number="914" standard_reporter="U.S." citation_global_level_id="2970.002" line="1" id="114350_1" citation_local_level_id="0" >510 U.S. 914</CITATION>
+
+<CITATION party2="American Airlines, Inc" party1="Renneisen et al." citation_global_level_id="42748.001" party2_short="Airlines" line="1" id="114350_3" alternative_keys="['u.s._510_914']" end="59" entry_type="party_key" lookup_key="renneisenairlines#1" id1="114350" start="17" party1_short="Renneisen" citation_local_level_id="1" >Renneisen et al. v. American Airlines, Inc</CITATION>
+
+<NAME end="33" start="17" party1_of="114350_3" all_names="RENNEISEN" local_name_id="1" id="114350_4" >Renneisen et al.</NAME>
+
+<NAME start="17" local_name_id="1" end="26" id="114350_7" all_names="RENNEISEN" >Renneisen</NAME>
+
+<NAME end="59" start="37" all_names="AMERICAN AIRLINES INC" party2_of="114350_3" local_name_id="2" id="114350_5" >American Airlines, Inc</NAME>
+
+<DOCKET end="75" entry_type="docket" lookup_key="u.s._510_914" id1="114345" start="69" citation_global_level_id="2970.002" line="1" id="114350_2" citation_local_level_id="0" >93-125</DOCKET>
+
+<DATE start="117" end="133" id="114350_6" >October 12, 1993</DATE>
+
+<NAME start="211" local_name_id="3" end="221" id="114350_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="259" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_990_918" id1="Dummy_File_155665" volume="990" start="246" page_number="918" standard_reporter="F.2D" citation_global_level_id="219515.001" line="3" id="114350_13" citation_local_level_id="2" >990 F. 2d 918</CITATION>
+
+<RELATION theme="114350_1" includes_docket_string="93-125" includes_docket="114350_2" theme_string="510 U.S. 914" gram_type="apposition" relation_type="asymmetric" id="114350_12" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 914" X_vs_Y_string="Renneisen et al. v. American Airlines, Inc" standard_case="114350_1" X_vs_Y="114350_3" gram_type="pre_nom" relation_type="equivalence" id="114350_8" ></RELATION>
+
+<RELATION theme="114350_3" includes_docket_string="93-125" includes_docket="114350_2" theme_string="Renneisen et al. v. American Airlines, Inc" gram_type="apposition" relation_type="asymmetric" id="114350_11" ></RELATION>
+
+<RELATION party2="114350_5" theme="114350_3" theme_string="Renneisen et al. v. American Airlines, Inc" party2_string="American Airlines, Inc" gram_type="infix" relation_type="asymmetric" id="114350_10" ></RELATION>
+
+<RELATION theme="114350_3" party1="114350_4" party1_string="Renneisen et al." theme_string="Renneisen et al. v. American Airlines, Inc" gram_type="infix" relation_type="asymmetric" id="114350_9" ></RELATION>
+

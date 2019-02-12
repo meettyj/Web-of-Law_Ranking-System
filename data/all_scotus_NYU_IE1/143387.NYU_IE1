@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['carolinah#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_943" id1="143387" volume="544" start="0" page_number="943" standard_reporter="U.S." citation_global_level_id="9348.002" line="1" id="143387_1" citation_local_level_id="0" >544 U.S. 943</CITATION>
+
+<CITATION party2="MICHAEL H" party1="SOUTH CAROLINA" citation_global_level_id="9348.001" party2_short="H" line="2" id="143387_2" alternative_keys="['u.s._544_943']" end="44" entry_type="party_key" lookup_key="carolinah#1" id1="143387" start="17" party1_short="CAROLINA" citation_local_level_id="1" >SOUTH CAROLINA v. MICHAEL H</CITATION>
+
+<NAME end="31" start="17" party1_of="143387_2" all_names="SOUTH CAROLINA" local_name_id="1" id="143387_3" >SOUTH CAROLINA</NAME>
+
+<NAME end="44" start="35" all_names="MICHAEL H" party2_of="143387_2" local_name_id="2" id="143387_4" >MICHAEL H</NAME>
+
+<DOCKET end="60" entry_type="docket" lookup_key="carolinah#1" id1="143387" start="54" citation_global_level_id="9348.001" line="3" id="143387_7" citation_local_level_id="1" >04-935</DOCKET>
+
+<ORGANIZATION start="66" end="96" id="143387_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="102" citation_global_level_id="9348.001" end="116" id="143387_9" citation_local_level_id="1" >March 21, 2005</DATE>
+
+<NAME start="138" local_name_id="3" end="141" id="143387_15" all_names="SUP" >Sup</NAME>
+
+<CITATION end="270" reporter="S. C." entry_type="standard_key" no_current_file="True" lookup_key="s.c._360_540" id1="Dummy_File_200712" volume="360" start="257" page_number="540" standard_reporter="S.C." citation_global_level_id="264562.001" line="8" id="143387_13" citation_local_level_id="2" >360 S. C. 540</CITATION>
+
+<CITATION end="288" reporter="S. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="s.e.2d_602_729" id1="Dummy_File_200713" volume="602" start="272" page_number="729" standard_reporter="S.E.2D" citation_global_level_id="264563.001" line="8" id="143387_14" citation_local_level_id="3" >602 S. E. 2d 729</CITATION>
+
+<RELATION theme="143387_2" party1="143387_3" party1_string="SOUTH CAROLINA" theme_string="SOUTH CAROLINA v. MICHAEL H" gram_type="infix" relation_type="asymmetric" id="143387_5" ></RELATION>
+
+<RELATION party2="143387_4" theme="143387_2" theme_string="SOUTH CAROLINA v. MICHAEL H" party2_string="MICHAEL H" gram_type="infix" relation_type="asymmetric" id="143387_6" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 943" X_vs_Y_string="SOUTH CAROLINA v. MICHAEL H" standard_case="143387_1" X_vs_Y="143387_2" gram_type="multi_line" relation_type="equivalence" id="143387_10" ></RELATION>
+
+<RELATION at_date_string="March 21, 2005" theme="143387_2" at_date="143387_9" theme_string="SOUTH CAROLINA v. MICHAEL H" gram_type="multi_line" relation_type="asymmetric" id="143387_12" ></RELATION>
+
+<RELATION theme="143387_2" includes_docket_string="04-935" includes_docket="143387_7" theme_string="SOUTH CAROLINA v. MICHAEL H" gram_type="multi_line" relation_type="asymmetric" id="143387_11" ></RELATION>
+

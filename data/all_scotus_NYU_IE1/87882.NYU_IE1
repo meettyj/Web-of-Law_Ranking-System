@@ -1,0 +1,38 @@
+<CITATION alternative_keys="['haightcompany#1', 'wall._6_15']" end="18" reporter="U.S." entry_type="standard_key" lookup_key="u.s._73_15" id1="87882" volume="73" start="1" page_number="15" standard_reporter="U.S." citation_global_level_id="55856.002" line="2" id="87882_1" citation_local_level_id="0" >73 U.S. 15 (____)</CITATION>
+
+<CITATION alternative_keys="['u.s._73_15', 'haightcompany#1']" end="29" reporter="Wall." entry_type="standard_key" lookup_key="wall._6_15" id1="87882" volume="6" start="19" page_number="15" standard_reporter="WALL." citation_global_level_id="55856.003" line="3" id="87882_2" citation_local_level_id="1" >6 Wall. 15</CITATION>
+
+<CITATION party2="RAILROAD COMPANY" party1="HAIGHT" citation_global_level_id="55856.004" party2_short="COMPANY" line="6" id="87882_4" alternative_keys="['wall._6_15']" end="58" entry_type="party_key" lookup_key="haightcompany#1" id1="87882" start="30" party1_short="HAIGHT" citation_local_level_id="2" >HAIGHT v. RAILROAD COMPANY</CITATION>
+
+<NAME end="36" start="30" party1_of="87882_4" all_names="HAIGHT" local_name_id="1" id="87882_5" >HAIGHT</NAME>
+
+<NAME end="58" start="42" all_names="RAILROAD COMPANY" party2_of="87882_4" local_name_id="2" id="87882_6" >RAILROAD COMPANY</NAME>
+
+<ORGANIZATION start="60" end="90" id="87882_9" >Supreme Court of United States</ORGANIZATION>
+
+<NAME start="97" local_name_id="3" end="105" id="87882_12" all_names="MR KNOX" >Mr. Knox</NAME>
+
+<LEGAL_ROLE start="115" end="124" id="87882_13" >plaintiff</LEGAL_ROLE>
+
+<NAME start="135" local_name_id="4" end="162" id="87882_14" all_names="MESSRS LOWRIE AND MCKNIGHT" >Messrs. Lowrie and McKnight</NAME>
+
+<NAME start="172" local_name_id="5" end="189" id="87882_15" all_names="MR JUSTICE GRIER" >Mr. Justice GRIER</NAME>
+
+<PROFESSION start="176" end="183" id="87882_16" >Justice</PROFESSION>
+
+<ORGANIZATION start="219" end="224" id="87882_17" >court</ORGANIZATION>
+
+<ORGANIZATION start="314" end="340" id="87882_18" >judge of the Circuit Court</ORGANIZATION>
+
+<DATE start="764" end="768" id="87882_19" >1864</DATE>
+
+<NAME start="1132" local_name_id="6" end="1149" id="87882_20" all_names="JUDGMENT AFFIRMED" >JUDGMENT AFFIRMED</NAME>
+
+<RELATION theme="87882_4" party1="87882_5" party1_string="HAIGHT" theme_string="HAIGHT  v.  RAILROAD COMPANY" gram_type="infix" relation_type="asymmetric" id="87882_7" ></RELATION>
+
+<RELATION party2="87882_6" theme="87882_4" theme_string="HAIGHT  v.  RAILROAD COMPANY" party2_string="RAILROAD COMPANY" gram_type="infix" relation_type="asymmetric" id="87882_8" ></RELATION>
+
+<RELATION standard_case_string="73 U.S. 15 (____)" X_vs_Y_string="HAIGHT  v.  RAILROAD COMPANY" standard_case="87882_1" X_vs_Y="87882_4" gram_type="multi_line" relation_type="equivalence" id="87882_10" ></RELATION>
+
+<RELATION standard_case_string="6 Wall. 15" X_vs_Y_string="HAIGHT  v.  RAILROAD COMPANY" standard_case="87882_2" X_vs_Y="87882_4" gram_type="multi_line" relation_type="equivalence" id="87882_11" ></RELATION>
+

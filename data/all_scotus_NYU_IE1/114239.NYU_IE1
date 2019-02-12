@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['roseflorida#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_903" id1="114238" volume="510" start="0" page_number="903" standard_reporter="U.S." citation_global_level_id="1084.002" line="1" id="114239_1" citation_local_level_id="0" >510 U.S. 903</CITATION>
+
+<CITATION party2="Florida" party1="Rose" citation_global_level_id="38131.001" party2_short="Florida" line="1" id="114239_3" alternative_keys="['u.s._510_903']" end="32" entry_type="party_key" lookup_key="roseflorida#2" id1="114239" start="17" party1_short="Rose" citation_local_level_id="1" >Rose v. Florida</CITATION>
+
+<NAME end="21" start="17" party1_of="114239_3" all_names="ROSE" local_name_id="1" id="114239_4" >Rose</NAME>
+
+<NAME end="32" start="25" all_names="FLORIDA" party2_of="114239_3" local_name_id="2" id="114239_5" >Florida</NAME>
+
+<DOCKET end="49" entry_type="docket" lookup_key="u.s._510_903" id1="114238" start="42" citation_global_level_id="1084.002" line="1" id="114239_2" citation_local_level_id="0" >93-5695</DOCKET>
+
+<DATE start="91" end="106" id="114239_6" >October 4, 1993</DATE>
+
+<NAME start="183" local_name_id="3" end="193" id="114239_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="232" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_617_291" id1="Dummy_File_88910" volume="617" start="218" page_number="291" standard_reporter="SO.2D" citation_global_level_id="152760.001" line="3" id="114239_12" citation_local_level_id="2" >617 So. 2d 291</CITATION>
+
+<RELATION theme="114239_1" includes_docket_string="93-5695" includes_docket="114239_2" theme_string="510 U.S. 903" gram_type="apposition" relation_type="asymmetric" id="114239_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 903" X_vs_Y_string="Rose v. Florida" standard_case="114239_1" X_vs_Y="114239_3" gram_type="pre_nom" relation_type="equivalence" id="114239_7" ></RELATION>
+
+<RELATION theme="114239_3" includes_docket_string="93-5695" includes_docket="114239_2" theme_string="Rose v. Florida" gram_type="apposition" relation_type="asymmetric" id="114239_10" ></RELATION>
+
+<RELATION theme="114239_3" party1="114239_4" party1_string="Rose" theme_string="Rose v. Florida" gram_type="infix" relation_type="asymmetric" id="114239_8" ></RELATION>
+
+<RELATION party2="114239_5" theme="114239_3" theme_string="Rose v. Florida" party2_string="Florida" gram_type="infix" relation_type="asymmetric" id="114239_9" ></RELATION>
+

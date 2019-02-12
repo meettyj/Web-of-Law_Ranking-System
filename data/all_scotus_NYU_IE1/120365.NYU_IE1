@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['allenindiana#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1061" id1="120356" volume="535" start="0" page_number="1061" standard_reporter="U.S." citation_global_level_id="4869.002" line="1" id="120365_1" citation_local_level_id="0" >535 U.S. 1061</CITATION>
+
+<CITATION party2="INDIANA" party1="ALLEN" citation_global_level_id="18392.001" party2_short="INDIANA" line="2" id="120365_2" alternative_keys="['u.s._535_1061']" end="34" entry_type="party_key" lookup_key="allenindiana#1" id1="120365" start="18" party1_short="ALLEN" citation_local_level_id="1" >ALLEN v. INDIANA</CITATION>
+
+<NAME end="23" start="18" party1_of="120365_2" all_names="ALLEN" local_name_id="1" id="120365_3" >ALLEN</NAME>
+
+<NAME end="34" start="27" all_names="INDIANA" party2_of="120365_2" local_name_id="2" id="120365_4" >INDIANA</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="allenindiana#1" id1="120365" start="44" citation_global_level_id="18392.001" line="3" id="120365_7" citation_local_level_id="1" >01-8824</DOCKET>
+
+<DATE start="97" citation_global_level_id="18392.001" end="109" id="120365_8" citation_local_level_id="1" >May 13, 2002</DATE>
+
+<NAME start="131" local_name_id="3" end="134" id="120365_13" all_names="SUP" >Sup</NAME>
+
+<CITATION end="197" reporter="N. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.e.2d_749_1158" id1="Dummy_File_117942" volume="749" start="180" page_number="1158" standard_reporter="N.E.2D" citation_global_level_id="181792.001" line="8" id="120365_12" citation_local_level_id="2" >749 N. E. 2d 1158</CITATION>
+
+<RELATION theme="120365_2" party1="120365_3" party1_string="ALLEN" theme_string="ALLEN v. INDIANA" gram_type="infix" relation_type="asymmetric" id="120365_5" ></RELATION>
+
+<RELATION party2="120365_4" theme="120365_2" theme_string="ALLEN v. INDIANA" party2_string="INDIANA" gram_type="infix" relation_type="asymmetric" id="120365_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1061" X_vs_Y_string="ALLEN v. INDIANA" standard_case="120365_1" X_vs_Y="120365_2" gram_type="multi_line" relation_type="equivalence" id="120365_9" ></RELATION>
+
+<RELATION at_date_string="May 13, 2002" theme="120365_2" at_date="120365_8" theme_string="ALLEN v. INDIANA" gram_type="multi_line" relation_type="asymmetric" id="120365_11" ></RELATION>
+
+<RELATION theme="120365_2" includes_docket_string="01-8824" includes_docket="120365_7" theme_string="ALLEN v. INDIANA" gram_type="multi_line" relation_type="asymmetric" id="120365_10" ></RELATION>
+

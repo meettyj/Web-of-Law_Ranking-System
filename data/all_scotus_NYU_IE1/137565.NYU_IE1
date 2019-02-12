@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['barnesstates#9']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._542_947" id1="137563" volume="542" start="0" page_number="947" standard_reporter="U.S." citation_global_level_id="9149.002" line="1" id="137565_1" citation_local_level_id="0" >542 U.S. 947</CITATION>
+
+<CITATION party2="UNITED STATES" party1="BARNES" citation_global_level_id="60566.001" party2_short="STATES" line="1" id="137565_3" alternative_keys="['u.s._542_947']" end="40" entry_type="party_key" lookup_key="barnesstates#9" id1="141325" start="17" party1_short="BARNES" citation_local_level_id="1" >BARNES v. UNITED STATES</CITATION>
+
+<NAME end="23" start="17" party1_of="137565_3" all_names="BARNES" local_name_id="1" id="137565_4" >BARNES</NAME>
+
+<NAME end="40" start="27" all_names="UNITED STATES" party2_of="137565_3" local_name_id="2" id="137565_5" >UNITED STATES</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._542_947" id1="137563" start="50" citation_global_level_id="9149.002" line="1" id="137565_2" citation_local_level_id="0" >03-9340</DOCKET>
+
+<DATE start="99" end="112" id="137565_6" >June 28, 2004</DATE>
+
+<CITATION end="220" reporter="U. S." entry_type="standard_key" lookup_key="u.s._541_1000" id1="135817" volume="541" start="206" page_number="1000" standard_reporter="U.S." citation_global_level_id="6357.002" line="3" id="137565_12" citation_local_level_id="2" >541 U. S. 1000</CITATION>
+
+<RELATION theme="137565_1" includes_docket_string="03-9340" includes_docket="137565_2" theme_string="542 U.S. 947" gram_type="apposition" relation_type="asymmetric" id="137565_11" ></RELATION>
+
+<RELATION standard_case_string="542 U.S. 947" X_vs_Y_string="BARNES v. UNITED STATES" standard_case="137565_1" X_vs_Y="137565_3" gram_type="pre_nom" relation_type="equivalence" id="137565_7" ></RELATION>
+
+<RELATION theme="137565_3" includes_docket_string="03-9340" includes_docket="137565_2" theme_string="BARNES v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="137565_10" ></RELATION>
+
+<RELATION theme="137565_3" party1="137565_4" party1_string="BARNES" theme_string="BARNES v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="137565_8" ></RELATION>
+
+<RELATION party2="137565_5" theme="137565_3" theme_string="BARNES v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="137565_9" ></RELATION>
+

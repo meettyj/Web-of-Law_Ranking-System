@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['baileyohio#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1122" id1="116919" volume="510" start="0" page_number="1122" standard_reporter="U.S." citation_global_level_id="4657.002" line="1" id="116906_1" citation_local_level_id="0" >510 U.S. 1122</CITATION>
+
+<CITATION party2="Ohio" party1="Bailey" citation_global_level_id="52855.001" party2_short="Ohio" line="1" id="116906_3" alternative_keys="['u.s._510_1122']" end="32" entry_type="party_key" lookup_key="baileyohio#1" id1="116906" start="18" party1_short="Bailey" citation_local_level_id="1" >Bailey v. Ohio</CITATION>
+
+<NAME end="24" start="18" party1_of="116906_3" all_names="BAILEY" local_name_id="1" id="116906_4" >Bailey</NAME>
+
+<NAME end="32" start="28" all_names="OHIO" party2_of="116906_3" local_name_id="2" id="116906_5" >Ohio</NAME>
+
+<DOCKET end="49" entry_type="docket" lookup_key="u.s._510_1122" id1="116919" start="42" citation_global_level_id="4657.002" line="1" id="116906_2" citation_local_level_id="0" >93-6882</DOCKET>
+
+<DATE start="91" end="108" id="116906_6" >February 22, 1994</DATE>
+
+<NAME start="205" local_name_id="3" end="215" id="116906_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="116906_1" includes_docket_string="93-6882" includes_docket="116906_2" theme_string="510 U.S. 1122" gram_type="apposition" relation_type="asymmetric" id="116906_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1122" X_vs_Y_string="Bailey v. Ohio" standard_case="116906_1" X_vs_Y="116906_3" gram_type="pre_nom" relation_type="equivalence" id="116906_7" ></RELATION>
+
+<RELATION theme="116906_3" includes_docket_string="93-6882" includes_docket="116906_2" theme_string="Bailey v. Ohio" gram_type="apposition" relation_type="asymmetric" id="116906_10" ></RELATION>
+
+<RELATION theme="116906_3" party1="116906_4" party1_string="Bailey" theme_string="Bailey v. Ohio" gram_type="infix" relation_type="asymmetric" id="116906_8" ></RELATION>
+
+<RELATION party2="116906_5" theme="116906_3" theme_string="Bailey v. Ohio" party2_string="Ohio" gram_type="infix" relation_type="asymmetric" id="116906_9" ></RELATION>
+

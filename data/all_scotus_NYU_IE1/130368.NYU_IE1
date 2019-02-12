@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['mooretexas#7']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_917" id1="130365" volume="539" start="0" page_number="917" standard_reporter="U.S." citation_global_level_id="3767.002" line="1" id="130368_1" citation_local_level_id="0" >539 U.S. 917</CITATION>
+
+<CITATION party2="Texas" party1="Moore" citation_global_level_id="39467.001" party2_short="Texas" line="1" id="130368_3" alternative_keys="['u.s._539_917']" end="31" entry_type="party_key" lookup_key="mooretexas#7" id1="123471" start="17" party1_short="Moore" citation_local_level_id="1" >Moore v. Texas</CITATION>
+
+<NAME end="22" start="17" party1_of="130368_3" all_names="MOORE" local_name_id="1" id="130368_4" >Moore</NAME>
+
+<NAME end="31" start="26" all_names="TEXAS" party2_of="130368_3" local_name_id="2" id="130368_5" >Texas</NAME>
+
+<DOCKET end="48" entry_type="docket" lookup_key="u.s._539_917" id1="130365" start="41" citation_global_level_id="3767.002" line="1" id="130368_2" citation_local_level_id="0" >02-9944</DOCKET>
+
+<DATE start="90" end="102" id="130368_6" >June 9, 2003</DATE>
+
+<NAME start="191" local_name_id="3" end="201" id="130368_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="130368_1" includes_docket_string="02-9944" includes_docket="130368_2" theme_string="539 U.S. 917" gram_type="apposition" relation_type="asymmetric" id="130368_11" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 917" X_vs_Y_string="Moore v. Texas" standard_case="130368_1" X_vs_Y="130368_3" gram_type="pre_nom" relation_type="equivalence" id="130368_7" ></RELATION>
+
+<RELATION theme="130368_3" includes_docket_string="02-9944" includes_docket="130368_2" theme_string="Moore v. Texas" gram_type="apposition" relation_type="asymmetric" id="130368_10" ></RELATION>
+
+<RELATION theme="130368_3" party1="130368_4" party1_string="Moore" theme_string="Moore v. Texas" gram_type="infix" relation_type="asymmetric" id="130368_8" ></RELATION>
+
+<RELATION party2="130368_5" theme="130368_3" theme_string="Moore v. Texas" party2_string="Texas" gram_type="infix" relation_type="asymmetric" id="130368_9" ></RELATION>
+

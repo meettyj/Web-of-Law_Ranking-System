@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['mckinneytennessee#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_926" id1="123889" volume="537" start="0" page_number="926" standard_reporter="U.S." citation_global_level_id="919.002" line="1" id="123889_1" citation_local_level_id="0" >537 U.S. 926</CITATION>
+
+<CITATION party2="TENNESSEE" party1="McKINNEY" citation_global_level_id="919.001" party2_short="TENNESSEE" line="1" id="123889_3" alternative_keys="['u.s._537_926']" end="38" entry_type="party_key" lookup_key="mckinneytennessee#1" id1="123889" start="17" party1_short="McKINNEY" citation_local_level_id="1" >McKINNEY v. TENNESSEE</CITATION>
+
+<NAME end="25" start="17" party1_of="123889_3" all_names="MCKINNEY" local_name_id="1" id="123889_4" >McKINNEY</NAME>
+
+<NAME end="38" start="29" all_names="TENNESSEE" party2_of="123889_3" local_name_id="2" id="123889_5" >TENNESSEE</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._537_926" id1="123889" start="48" citation_global_level_id="919.002" line="1" id="123889_2" citation_local_level_id="0" >02-5631</DOCKET>
+
+<DATE start="97" end="112" id="123889_6" >October 7, 2002</DATE>
+
+<NAME start="205" local_name_id="3" end="208" id="123889_13" all_names="SUP" >Sup</NAME>
+
+<CITATION end="267" reporter="S.W.3d" entry_type="standard_key" no_current_file="True" lookup_key="s.w.3d_74_291" id1="Dummy_File_195338" volume="74" start="254" page_number="291" standard_reporter="S.W.3D" citation_global_level_id="259188.001" line="3" id="123889_12" citation_local_level_id="2" >74 S.W.3d 291</CITATION>
+
+<RELATION theme="123889_1" includes_docket_string="02-5631" includes_docket="123889_2" theme_string="537 U.S. 926" gram_type="apposition" relation_type="asymmetric" id="123889_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 926" X_vs_Y_string="McKINNEY v. TENNESSEE" standard_case="123889_1" X_vs_Y="123889_3" gram_type="pre_nom" relation_type="equivalence" id="123889_7" ></RELATION>
+
+<RELATION theme="123889_3" includes_docket_string="02-5631" includes_docket="123889_2" theme_string="McKINNEY v. TENNESSEE" gram_type="apposition" relation_type="asymmetric" id="123889_10" ></RELATION>
+
+<RELATION theme="123889_3" party1="123889_4" party1_string="McKINNEY" theme_string="McKINNEY v. TENNESSEE" gram_type="infix" relation_type="asymmetric" id="123889_8" ></RELATION>
+
+<RELATION party2="123889_5" theme="123889_3" theme_string="McKINNEY v. TENNESSEE" party2_string="TENNESSEE" gram_type="infix" relation_type="asymmetric" id="123889_9" ></RELATION>
+

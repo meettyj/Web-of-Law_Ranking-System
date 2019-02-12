@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['masonspender#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_905" id1="130208" volume="539" start="0" page_number="905" standard_reporter="U.S." citation_global_level_id="2078.002" line="1" id="130207_1" citation_local_level_id="0" >539 U.S. 905</CITATION>
+
+<CITATION party2="Spender et al" party1="Mason" citation_global_level_id="15293.001" party2_short="Spender" line="1" id="130207_3" alternative_keys="['u.s._539_905']" end="39" entry_type="party_key" lookup_key="masonspender#1" id1="130207" start="17" party1_short="Mason" citation_local_level_id="1" >Mason v. Spender et al</CITATION>
+
+<NAME end="22" start="17" party1_of="130207_3" all_names="MASON" local_name_id="1" id="130207_4" >Mason</NAME>
+
+<NAME end="39" start="26" all_names="SPENDER" party2_of="130207_3" local_name_id="2" id="130207_5" >Spender et al</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._539_905" id1="130208" start="49" citation_global_level_id="2078.002" line="1" id="130207_2" citation_local_level_id="0" >02-9813</DOCKET>
+
+<DATE start="98" end="110" id="130207_6" >June 2, 2003</DATE>
+
+<NAME start="188" local_name_id="3" end="198" id="130207_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="130207_1" includes_docket_string="02-9813" includes_docket="130207_2" theme_string="539 U.S. 905" gram_type="apposition" relation_type="asymmetric" id="130207_11" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 905" X_vs_Y_string="Mason v. Spender et al" standard_case="130207_1" X_vs_Y="130207_3" gram_type="pre_nom" relation_type="equivalence" id="130207_7" ></RELATION>
+
+<RELATION theme="130207_3" includes_docket_string="02-9813" includes_docket="130207_2" theme_string="Mason v. Spender et al" gram_type="apposition" relation_type="asymmetric" id="130207_10" ></RELATION>
+
+<RELATION theme="130207_3" party1="130207_4" party1_string="Mason" theme_string="Mason v. Spender et al" gram_type="infix" relation_type="asymmetric" id="130207_8" ></RELATION>
+
+<RELATION party2="130207_5" theme="130207_3" theme_string="Mason v. Spender et al" party2_string="Spender et al" gram_type="infix" relation_type="asymmetric" id="130207_9" ></RELATION>
+

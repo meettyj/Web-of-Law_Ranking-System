@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['republiccap#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_962" id1="143656" volume="544" start="0" page_number="962" standard_reporter="U.S." citation_global_level_id="1878.002" line="1" id="143660_1" citation_local_level_id="0" >544 U.S. 962</CITATION>
+
+<CITATION party2="AF-CAP, INC" party1="REPUBLIC OF CONGO ET AL." citation_global_level_id="1878.005" party2_short="CAP" line="2" id="143660_2" alternative_keys="['u.s._544_962']" end="56" entry_type="party_key" lookup_key="republiccap#2" id1="143656" start="17" party1_short="REPUBLIC" citation_local_level_id="1" >REPUBLIC OF CONGO ET AL. v. AF-CAP, INC</CITATION>
+
+<NAME end="41" start="17" party1_of="143660_2" all_names="REPUBLIC OF CONGO" local_name_id="1" id="143660_3" >REPUBLIC OF CONGO ET AL.</NAME>
+
+<NAME end="56" start="45" all_names="AF-CAP INC" party2_of="143660_2" local_name_id="2" id="143660_4" >AF-CAP, INC</NAME>
+
+<DOCKET alternative_keys="['u.s._544_962']" end="73" entry_type="docket" lookup_key="republiccap#2" id1="143656" start="66" citation_global_level_id="1878.005" line="3" id="143660_7" citation_local_level_id="1" >04-1043</DOCKET>
+
+<ORGANIZATION start="79" end="109" id="143660_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="115" citation_global_level_id="1878.005" end="128" id="143660_9" citation_local_level_id="1" >April 4, 2005</DATE>
+
+<NAME start="160" local_name_id="3" end="163" id="143660_15" all_names="CIR" >Cir</NAME>
+
+<CITATION end="212" reporter="F.3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_383_361" id1="Dummy_File_147968" volume="383" start="200" page_number="361" standard_reporter="F.3D" citation_global_level_id="211818.001" line="8" id="143660_13" citation_local_level_id="2" >383 F.3d 361</CITATION>
+
+<CITATION end="230" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_389_503" id1="Dummy_File_147969" volume="389" start="217" page_number="503" standard_reporter="F.3D" citation_global_level_id="211819.001" line="8" id="143660_14" citation_local_level_id="3" >389 F. 3d 503</CITATION>
+
+<RELATION theme="143660_2" party1="143660_3" party1_string="REPUBLIC OF CONGO ET AL." theme_string="REPUBLIC OF CONGO ET AL. v. AF-CAP, INC" gram_type="infix" relation_type="asymmetric" id="143660_5" ></RELATION>
+
+<RELATION party2="143660_4" theme="143660_2" theme_string="REPUBLIC OF CONGO ET AL. v. AF-CAP, INC" party2_string="AF-CAP, INC" gram_type="infix" relation_type="asymmetric" id="143660_6" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 962" X_vs_Y_string="REPUBLIC OF CONGO ET AL. v. AF-CAP, INC" standard_case="143660_1" X_vs_Y="143660_2" gram_type="multi_line" relation_type="equivalence" id="143660_10" ></RELATION>
+
+<RELATION at_date_string="April 4, 2005" theme="143660_2" at_date="143660_9" theme_string="REPUBLIC OF CONGO ET AL. v. AF-CAP, INC" gram_type="multi_line" relation_type="asymmetric" id="143660_12" ></RELATION>
+
+<RELATION theme="143660_2" includes_docket_string="04-1043" includes_docket="143660_7" theme_string="REPUBLIC OF CONGO ET AL. v. AF-CAP, INC" gram_type="multi_line" relation_type="asymmetric" id="143660_11" ></RELATION>
+

@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['brooksvirginia#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_922" id1="114463" volume="510" start="0" page_number="922" standard_reporter="U.S." citation_global_level_id="84.002" line="1" id="114463_1" citation_local_level_id="0" >510 U.S. 922</CITATION>
+
+<CITATION party2="Virginia" party1="Brooks" citation_global_level_id="84.001" party2_short="Virginia" line="1" id="114463_3" alternative_keys="['u.s._510_922']" end="35" entry_type="party_key" lookup_key="brooksvirginia#1" id1="114463" start="17" party1_short="Brooks" citation_local_level_id="1" >Brooks v. Virginia</CITATION>
+
+<NAME end="23" start="17" party1_of="114463_3" all_names="BROOKS" local_name_id="1" id="114463_4" >Brooks</NAME>
+
+<NAME end="35" start="27" all_names="VIRGINIA" party2_of="114463_3" local_name_id="2" id="114463_5" >Virginia</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="u.s._510_922" id1="114463" start="45" citation_global_level_id="84.002" line="1" id="114463_2" citation_local_level_id="0" >93-5649</DOCKET>
+
+<DATE start="94" end="110" id="114463_6" >October 12, 1993</DATE>
+
+<NAME start="186" local_name_id="3" end="196" id="114463_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="114463_1" includes_docket_string="93-5649" includes_docket="114463_2" theme_string="510 U.S. 922" gram_type="apposition" relation_type="asymmetric" id="114463_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 922" X_vs_Y_string="Brooks v. Virginia" standard_case="114463_1" X_vs_Y="114463_3" gram_type="pre_nom" relation_type="equivalence" id="114463_7" ></RELATION>
+
+<RELATION theme="114463_3" includes_docket_string="93-5649" includes_docket="114463_2" theme_string="Brooks v. Virginia" gram_type="apposition" relation_type="asymmetric" id="114463_10" ></RELATION>
+
+<RELATION theme="114463_3" party1="114463_4" party1_string="Brooks" theme_string="Brooks v. Virginia" gram_type="infix" relation_type="asymmetric" id="114463_8" ></RELATION>
+
+<RELATION party2="114463_5" theme="114463_3" theme_string="Brooks v. Virginia" party2_string="Virginia" gram_type="infix" relation_type="asymmetric" id="114463_9" ></RELATION>
+

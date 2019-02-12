@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['johnsoncorporation#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1053" id1="129915" volume="538" start="0" page_number="1053" standard_reporter="U.S." citation_global_level_id="121.002" line="1" id="129907_1" citation_local_level_id="0" >538 U.S. 1053</CITATION>
+
+<CITATION party2="FEDERAL HOME LOAN MORTGAGE CORPORATION ET AL" party1="JOHNSON ET AL." citation_global_level_id="63699.001" party2_short="CORPORATION" line="2" id="129907_2" alternative_keys="['u.s._538_1053']" end="80" entry_type="party_key" lookup_key="johnsoncorporation#2" id1="128250" start="18" party1_short="JOHNSON" citation_local_level_id="1" >JOHNSON ET AL. v. FEDERAL HOME LOAN MORTGAGE CORPORATION ET AL</CITATION>
+
+<NAME end="32" start="18" party1_of="129907_2" all_names="JOHNSON" local_name_id="1" id="129907_3" >JOHNSON ET AL.</NAME>
+
+<NAME end="80" start="36" all_names="FEDERAL HOME LOAN MORTGAGE CORPORATION" party2_of="129907_2" local_name_id="2" id="129907_4" >FEDERAL HOME LOAN MORTGAGE CORPORATION ET AL</NAME>
+
+<ORGANIZATION start="63" end="74" id="129907_5" >CORPORATION</ORGANIZATION>
+
+<DOCKET end="112" entry_type="docket" lookup_key="johnsoncorporation#2" id1="128250" start="105" citation_global_level_id="63699.001" line="3" id="129907_8" citation_local_level_id="1" >02-8513</DOCKET>
+
+<ORGANIZATION start="118" end="148" id="129907_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="154" citation_global_level_id="63699.001" end="166" id="129907_10" citation_local_level_id="1" >May 19, 2003</DATE>
+
+<NAME start="188" local_name_id="3" end="196" id="129907_14" all_names="PETITION" >Petition</NAME>
+
+<RELATION theme="129907_2" party1="129907_3" party1_string="JOHNSON ET AL." theme_string="JOHNSON ET AL. v. FEDERAL HOME LOAN MORTGAGE CORPORATION ET AL" gram_type="infix" relation_type="asymmetric" id="129907_6" ></RELATION>
+
+<RELATION party2="129907_4" theme="129907_2" theme_string="JOHNSON ET AL. v. FEDERAL HOME LOAN MORTGAGE CORPORATION ET AL" party2_string="FEDERAL HOME LOAN MORTGAGE CORPORATION ET AL" gram_type="infix" relation_type="asymmetric" id="129907_7" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1053" X_vs_Y_string="JOHNSON ET AL. v. FEDERAL HOME LOAN MORTGAGE CORPORATION ET AL" standard_case="129907_1" X_vs_Y="129907_2" gram_type="multi_line" relation_type="equivalence" id="129907_11" ></RELATION>
+
+<RELATION at_date_string="May 19, 2003" theme="129907_2" at_date="129907_10" theme_string="JOHNSON ET AL. v. FEDERAL HOME LOAN MORTGAGE CORPORATION ET AL" gram_type="multi_line" relation_type="asymmetric" id="129907_13" ></RELATION>
+
+<RELATION theme="129907_2" includes_docket_string="02-8513" includes_docket="129907_8" theme_string="JOHNSON ET AL. v. FEDERAL HOME LOAN MORTGAGE CORPORATION ET AL" gram_type="multi_line" relation_type="asymmetric" id="129907_12" ></RELATION>
+

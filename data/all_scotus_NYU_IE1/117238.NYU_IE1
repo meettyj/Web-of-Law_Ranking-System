@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['fowlinpennsylvania#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1163" id1="117241" volume="510" start="0" page_number="1163" standard_reporter="U.S." citation_global_level_id="865.002" line="1" id="117238_1" citation_local_level_id="0" >510 U.S. 1163</CITATION>
+
+<CITATION party2="Pennsylvania" party1="Fowlin" citation_global_level_id="45382.001" party2_short="Pennsylvania" line="1" id="117238_3" alternative_keys="['u.s._510_1163']" end="40" entry_type="party_key" lookup_key="fowlinpennsylvania#1" id1="117238" start="18" party1_short="Fowlin" citation_local_level_id="1" >Fowlin v. Pennsylvania</CITATION>
+
+<NAME end="24" start="18" party1_of="117238_3" all_names="FOWLIN" local_name_id="1" id="117238_4" >Fowlin</NAME>
+
+<NAME end="40" start="28" all_names="PENNSYLVANIA" party2_of="117238_3" local_name_id="2" id="117238_5" >Pennsylvania</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._510_1163" id1="117241" start="50" citation_global_level_id="865.002" line="1" id="117238_2" citation_local_level_id="0" >93-750</DOCKET>
+
+<DATE start="98" end="115" id="117238_6" >February 28, 1994</DATE>
+
+<NAME start="193" local_name_id="3" end="203" id="117238_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="261" reporter="A. 2d" entry_type="standard_key" no_current_file="True" lookup_key="a.2d_616_714" id1="Dummy_File_78697" volume="616" start="248" page_number="714" standard_reporter="A.2D" citation_global_level_id="142547.001" line="3" id="117238_12" citation_local_level_id="2" >616 A. 2d 714</CITATION>
+
+<RELATION theme="117238_1" includes_docket_string="93-750" includes_docket="117238_2" theme_string="510 U.S. 1163" gram_type="apposition" relation_type="asymmetric" id="117238_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1163" X_vs_Y_string="Fowlin v. Pennsylvania" standard_case="117238_1" X_vs_Y="117238_3" gram_type="pre_nom" relation_type="equivalence" id="117238_7" ></RELATION>
+
+<RELATION theme="117238_3" includes_docket_string="93-750" includes_docket="117238_2" theme_string="Fowlin v. Pennsylvania" gram_type="apposition" relation_type="asymmetric" id="117238_10" ></RELATION>
+
+<RELATION theme="117238_3" party1="117238_4" party1_string="Fowlin" theme_string="Fowlin v. Pennsylvania" gram_type="infix" relation_type="asymmetric" id="117238_8" ></RELATION>
+
+<RELATION party2="117238_5" theme="117238_3" theme_string="Fowlin v. Pennsylvania" party2_string="Pennsylvania" gram_type="infix" relation_type="asymmetric" id="117238_9" ></RELATION>
+

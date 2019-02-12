@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['mckenziejones#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_989" id1="140180" volume="543" start="0" page_number="989" standard_reporter="U.S." citation_global_level_id="1526.002" line="1" id="140184_1" citation_local_level_id="0" >543 U.S. 989</CITATION>
+
+<CITATION party2="JONES, WARDEN" party1="MCKENZIE" citation_global_level_id="1526.008" party2_short="JONES" line="2" id="140184_2" alternative_keys="['u.s._543_989']" end="42" entry_type="party_key" lookup_key="mckenziejones#1" id1="140180" start="17" party1_short="MCKENZIE" citation_local_level_id="1" >MCKENZIE v. JONES, WARDEN</CITATION>
+
+<NAME end="25" start="17" party1_of="140184_2" all_names="MCKENZIE" local_name_id="1" id="140184_3" >MCKENZIE</NAME>
+
+<NAME end="42" start="29" all_names="JONES WARDEN" party2_of="140184_2" local_name_id="2" id="140184_4" >JONES, WARDEN</NAME>
+
+<DOCKET alternative_keys="['u.s._543_989']" end="59" entry_type="docket" lookup_key="mckenziejones#1" id1="140180" start="52" citation_global_level_id="1526.008" line="3" id="140184_7" citation_local_level_id="1" >04-6204</DOCKET>
+
+<ORGANIZATION start="65" end="95" id="140184_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="101" citation_global_level_id="1526.008" end="118" id="140184_9" citation_local_level_id="1" >November 15, 2004</DATE>
+
+<NAME start="150" local_name_id="3" end="153" id="140184_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="140184_2" party1="140184_3" party1_string="MCKENZIE" theme_string="MCKENZIE v. JONES, WARDEN" gram_type="infix" relation_type="asymmetric" id="140184_5" ></RELATION>
+
+<RELATION party2="140184_4" theme="140184_2" theme_string="MCKENZIE v. JONES, WARDEN" party2_string="JONES, WARDEN" gram_type="infix" relation_type="asymmetric" id="140184_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 989" X_vs_Y_string="MCKENZIE v. JONES, WARDEN" standard_case="140184_1" X_vs_Y="140184_2" gram_type="multi_line" relation_type="equivalence" id="140184_10" ></RELATION>
+
+<RELATION at_date_string="November 15, 2004" theme="140184_2" at_date="140184_9" theme_string="MCKENZIE v. JONES, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="140184_12" ></RELATION>
+
+<RELATION theme="140184_2" includes_docket_string="04-6204" includes_docket="140184_7" theme_string="MCKENZIE v. JONES, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="140184_11" ></RELATION>
+

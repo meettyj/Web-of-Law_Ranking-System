@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['dunningcommissioner#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_918" id1="114395" volume="510" start="0" page_number="918" standard_reporter="U.S." citation_global_level_id="802.002" line="1" id="114403_1" citation_local_level_id="0" >510 U.S. 918</CITATION>
+
+<CITATION party2="Commissioner of Internal Revenue" party1="Dunning" citation_global_level_id="63211.001" party2_short="Commissioner" line="1" id="114403_3" alternative_keys="['u.s._510_918']" end="60" entry_type="party_key" lookup_key="dunningcommissioner#2" id1="114403" start="17" party1_short="Dunning" citation_local_level_id="1" >Dunning v. Commissioner of Internal Revenue</CITATION>
+
+<NAME end="24" start="17" party1_of="114403_3" all_names="DUNNING" local_name_id="1" id="114403_4" >Dunning</NAME>
+
+<NAME end="60" start="28" all_names="COMMISSIONER OF INTERNAL REVENUE" party2_of="114403_3" local_name_id="2" id="114403_5" >Commissioner of Internal Revenue</NAME>
+
+<DOCKET end="76" entry_type="docket" lookup_key="u.s._510_918" id1="114395" start="70" citation_global_level_id="802.002" line="1" id="114403_2" citation_local_level_id="0" >93-368</DOCKET>
+
+<DATE start="118" end="134" id="114403_6" >October 12, 1993</DATE>
+
+<NAME start="212" local_name_id="3" end="222" id="114403_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="260" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_991_789" id1="Dummy_File_29470" volume="991" start="247" page_number="789" standard_reporter="F.2D" citation_global_level_id="93320.001" line="3" id="114403_12" citation_local_level_id="2" >991 F. 2d 789</CITATION>
+
+<RELATION theme="114403_1" includes_docket_string="93-368" includes_docket="114403_2" theme_string="510 U.S. 918" gram_type="apposition" relation_type="asymmetric" id="114403_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 918" X_vs_Y_string="Dunning v. Commissioner of Internal Revenue" standard_case="114403_1" X_vs_Y="114403_3" gram_type="pre_nom" relation_type="equivalence" id="114403_7" ></RELATION>
+
+<RELATION theme="114403_3" includes_docket_string="93-368" includes_docket="114403_2" theme_string="Dunning v. Commissioner of Internal Revenue" gram_type="apposition" relation_type="asymmetric" id="114403_10" ></RELATION>
+
+<RELATION theme="114403_3" party1="114403_4" party1_string="Dunning" theme_string="Dunning v. Commissioner of Internal Revenue" gram_type="infix" relation_type="asymmetric" id="114403_8" ></RELATION>
+
+<RELATION party2="114403_5" theme="114403_3" theme_string="Dunning v. Commissioner of Internal Revenue" party2_string="Commissioner of Internal Revenue" gram_type="infix" relation_type="asymmetric" id="114403_9" ></RELATION>
+

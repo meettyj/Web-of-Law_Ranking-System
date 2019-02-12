@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['akersbishop#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._536_941" id1="121641" volume="536" start="0" page_number="941" standard_reporter="U.S." citation_global_level_id="203.002" line="1" id="121641_1" citation_local_level_id="0" >536 U.S. 941</CITATION>
+
+<CITATION party2="BISHOP ET AL" party1="AKERS" citation_global_level_id="42150.001" party2_short="BISHOP" line="2" id="121641_2" alternative_keys="['u.s._536_941']" end="38" entry_type="party_key" lookup_key="akersbishop#2" id1="133306" start="17" party1_short="AKERS" citation_local_level_id="1" >AKERS v. BISHOP ET AL</CITATION>
+
+<NAME end="22" start="17" party1_of="121641_2" all_names="AKERS" local_name_id="1" id="121641_3" >AKERS</NAME>
+
+<NAME end="38" start="26" all_names="BISHOP" party2_of="121641_2" local_name_id="2" id="121641_4" >BISHOP ET AL</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="akersbishop#2" id1="133306" start="48" citation_global_level_id="42150.001" line="3" id="121641_7" citation_local_level_id="1" >01-1619</DOCKET>
+
+<DATE start="101" citation_global_level_id="42150.001" end="114" id="121641_8" citation_local_level_id="1" >June 24, 2002</DATE>
+
+<NAME start="146" local_name_id="3" end="149" id="121641_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="121641_2" party1="121641_3" party1_string="AKERS" theme_string="AKERS v. BISHOP ET AL" gram_type="infix" relation_type="asymmetric" id="121641_5" ></RELATION>
+
+<RELATION party2="121641_4" theme="121641_2" theme_string="AKERS v. BISHOP ET AL" party2_string="BISHOP ET AL" gram_type="infix" relation_type="asymmetric" id="121641_6" ></RELATION>
+
+<RELATION standard_case_string="536 U.S. 941" X_vs_Y_string="AKERS v. BISHOP ET AL" standard_case="121641_1" X_vs_Y="121641_2" gram_type="multi_line" relation_type="equivalence" id="121641_9" ></RELATION>
+
+<RELATION at_date_string="June 24, 2002" theme="121641_2" at_date="121641_8" theme_string="AKERS v. BISHOP ET AL" gram_type="multi_line" relation_type="asymmetric" id="121641_11" ></RELATION>
+
+<RELATION theme="121641_2" includes_docket_string="01-1619" includes_docket="121641_7" theme_string="AKERS v. BISHOP ET AL" gram_type="multi_line" relation_type="asymmetric" id="121641_10" ></RELATION>
+

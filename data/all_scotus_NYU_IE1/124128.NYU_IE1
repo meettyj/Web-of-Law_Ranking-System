@@ -1,0 +1,44 @@
+<CITATION alternative_keys="['dubinbank#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_943" id1="124123" volume="537" start="0" page_number="943" standard_reporter="U.S." citation_global_level_id="10099.002" line="1" id="124128_1" citation_local_level_id="0" >537 U.S. 943</CITATION>
+
+<CITATION party2="BANK OF HAWAII ET AL" party1="DUBIN ET AL." citation_global_level_id="58585.001" party2_short="BANK" line="1" id="124128_3" alternative_keys="['u.s._537_943']" end="53" entry_type="party_key" lookup_key="dubinbank#2" id1="124128" start="17" party1_short="DUBIN" citation_local_level_id="1" >DUBIN ET AL. v. BANK OF HAWAII ET AL</CITATION>
+
+<NAME end="29" start="17" party1_of="124128_3" all_names="DUBIN" local_name_id="1" id="124128_4" >DUBIN ET AL.</NAME>
+
+<NAME start="17" local_name_id="1" end="28" id="124128_7" all_names="DUBIN" >DUBIN ET AL</NAME>
+
+<NAME end="53" start="33" all_names="BANK OF HAWAII" party2_of="124128_3" local_name_id="2" id="124128_5" >BANK OF HAWAII ET AL</NAME>
+
+<DOCKET end="70" entry_type="docket" lookup_key="u.s._537_943" id1="124123" start="63" citation_global_level_id="10099.002" line="1" id="124128_2" citation_local_level_id="0" >01-1666</DOCKET>
+
+<ORGANIZATION start="76" end="106" id="124128_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="112" end="127" id="124128_6" >October 7, 2002</DATE>
+
+<ORGANIZATION start="149" end="219" id="124128_9" >CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT</ORGANIZATION>
+
+<NAME start="256" local_name_id="3" end="259" id="124128_19" all_names="CIR" >Cir</NAME>
+
+<DOCKET entry_type="docket" line="3" end="318" id="124128_15" start="312" >02-317</DOCKET>
+
+<CITATION party2="Bank of Hawaii et al" party1="Dubin et al." citation_global_level_id="58585.001" party2_short="Bank" line="3" id="124128_16" end="356" entry_type="party_key" lookup_key="dubinbank#2" id1="124128" start="320" party1_short="Dubin" citation_local_level_id="2" >Dubin et al. v. Bank of Hawaii et al</CITATION>
+
+<NAME end="332" start="320" party1_of="124128_16" all_names="DUBIN" local_name_id="1" id="124128_17" >Dubin et al.</NAME>
+
+<NAME end="356" start="336" all_names="BANK OF HAWAII" party2_of="124128_16" local_name_id="2" id="124128_18" >Bank of Hawaii et al</NAME>
+
+<RELATION theme="124128_1" includes_docket_string="01-1666" includes_docket="124128_2" theme_string="537 U.S. 943" gram_type="apposition" relation_type="asymmetric" id="124128_14" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 943" X_vs_Y_string="DUBIN ET AL. v. BANK OF HAWAII ET AL" standard_case="124128_1" X_vs_Y="124128_3" gram_type="pre_nom" relation_type="equivalence" id="124128_10" ></RELATION>
+
+<RELATION theme="124128_3" includes_docket_string="01-1666" includes_docket="124128_2" theme_string="DUBIN ET AL. v. BANK OF HAWAII ET AL" gram_type="apposition" relation_type="asymmetric" id="124128_13" ></RELATION>
+
+<RELATION theme="124128_3" party1="124128_4" party1_string="DUBIN ET AL." theme_string="DUBIN ET AL. v. BANK OF HAWAII ET AL" gram_type="infix" relation_type="asymmetric" id="124128_11" ></RELATION>
+
+<RELATION party2="124128_5" theme="124128_3" theme_string="DUBIN ET AL. v. BANK OF HAWAII ET AL" party2_string="BANK OF HAWAII ET AL" gram_type="infix" relation_type="asymmetric" id="124128_12" ></RELATION>
+
+<RELATION theme="124128_16" includes_docket_string="02-317" includes_docket="124128_15" theme_string="Dubin et al. v. Bank of Hawaii et al" gram_type="pre_nom" relation_type="asymmetric" id="124128_20" ></RELATION>
+
+<RELATION theme="124128_16" party1="124128_17" party1_string="Dubin et al." theme_string="Dubin et al. v. Bank of Hawaii et al" gram_type="infix" relation_type="asymmetric" id="124128_21" ></RELATION>
+
+<RELATION party2="124128_18" theme="124128_16" theme_string="Dubin et al. v. Bank of Hawaii et al" party2_string="Bank of Hawaii et al" gram_type="infix" relation_type="asymmetric" id="124128_22" ></RELATION>
+

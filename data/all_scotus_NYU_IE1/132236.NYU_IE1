@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['burnsideflorida#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_884" id1="132242" volume="540" start="0" page_number="884" standard_reporter="U.S." citation_global_level_id="300.002" line="1" id="132236_1" citation_local_level_id="0" >540 U.S. 884</CITATION>
+
+<CITATION party2="FLORIDA" party1="BURNSIDE" citation_global_level_id="36388.001" party2_short="FLORIDA" line="1" id="132236_3" alternative_keys="['u.s._540_884']" end="36" entry_type="party_key" lookup_key="burnsideflorida#1" id1="132236" start="17" party1_short="BURNSIDE" citation_local_level_id="1" >BURNSIDE v. FLORIDA</CITATION>
+
+<NAME end="25" start="17" party1_of="132236_3" all_names="BURNSIDE" local_name_id="1" id="132236_4" >BURNSIDE</NAME>
+
+<NAME end="36" start="29" all_names="FLORIDA" party2_of="132236_3" local_name_id="2" id="132236_5" >FLORIDA</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="u.s._540_884" id1="132242" start="46" citation_global_level_id="300.002" line="1" id="132236_2" citation_local_level_id="0" >03-5044</DOCKET>
+
+<DATE start="95" end="110" id="132236_6" >October 6, 2003</DATE>
+
+<NAME start="187" local_name_id="3" end="197" id="132236_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="236" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_845_887" id1="Dummy_File_144931" volume="845" start="222" page_number="887" standard_reporter="SO.2D" citation_global_level_id="208781.001" line="3" id="132236_12" citation_local_level_id="2" >845 So. 2d 887</CITATION>
+
+<RELATION theme="132236_1" includes_docket_string="03-5044" includes_docket="132236_2" theme_string="540 U.S. 884" gram_type="apposition" relation_type="asymmetric" id="132236_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 884" X_vs_Y_string="BURNSIDE v. FLORIDA" standard_case="132236_1" X_vs_Y="132236_3" gram_type="pre_nom" relation_type="equivalence" id="132236_7" ></RELATION>
+
+<RELATION theme="132236_3" includes_docket_string="03-5044" includes_docket="132236_2" theme_string="BURNSIDE v. FLORIDA" gram_type="apposition" relation_type="asymmetric" id="132236_10" ></RELATION>
+
+<RELATION theme="132236_3" party1="132236_4" party1_string="BURNSIDE" theme_string="BURNSIDE v. FLORIDA" gram_type="infix" relation_type="asymmetric" id="132236_8" ></RELATION>
+
+<RELATION party2="132236_5" theme="132236_3" theme_string="BURNSIDE v. FLORIDA" party2_string="FLORIDA" gram_type="infix" relation_type="asymmetric" id="132236_9" ></RELATION>
+

@@ -1,0 +1,42 @@
+<CITATION alternative_keys="['pricevincent#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_959" id1="128656" volume="538" start="0" page_number="959" standard_reporter="U.S." citation_global_level_id="22964.002" line="1" id="128656_1" citation_local_level_id="0" >538 U.S. 959</CITATION>
+
+<CITATION party2="VINCENT" party1="WARDEN PRICE," citation_global_level_id="22964.001" party2_short="VINCENT" line="1" id="128656_3" alternative_keys="['u.s._538_959']" end="41" entry_type="party_key" lookup_key="pricevincent#1" id1="128656" start="17" party1_short="PRICE" citation_local_level_id="1" >WARDEN PRICE, v. VINCENT</CITATION>
+
+<NAME end="30" start="17" party1_of="128656_3" all_names="WARDEN PRICE" local_name_id="1" id="128656_4" >WARDEN PRICE,</NAME>
+
+<PROFESSION start="17" end="29" id="128656_7" >WARDEN PRICE</PROFESSION>
+
+<PROFESSION start="17" end="23" id="128656_8" >WARDEN</PROFESSION>
+
+<NAME end="41" start="34" all_names="VINCENT" party2_of="128656_3" local_name_id="2" id="128656_5" >VINCENT</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._538_959" id1="128656" start="51" citation_global_level_id="22964.002" line="1" id="128656_2" citation_local_level_id="0" >02-524</DOCKET>
+
+<DATE start="99" end="112" id="128656_6" >April 7, 2003</DATE>
+
+<NAME start="241" local_name_id="3" end="244" id="128656_18" all_names="CIR" >Cir</NAME>
+
+<CITATION party2="Vincent" party1="Jones" citation_global_level_id="17765.005" party2_short="Vincent" line="3" id="128656_15" alternative_keys="['u.s._537_1099']" end="291" entry_type="party_key" lookup_key="jonesvincent#1" id1="126053" start="275" party1_short="Jones" citation_local_level_id="2" >Jones v. Vincent</CITATION>
+
+<NAME end="280" start="275" party1_of="128656_15" all_names="JONES" local_name_id="4" id="128656_16" >Jones</NAME>
+
+<NAME end="291" start="284" all_names="VINCENT" party2_of="128656_15" local_name_id="2" id="128656_17" >Vincent</NAME>
+
+<CITATION alternative_keys="['jonesvincent#1']" end="306" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1099" id1="126053" volume="537" start="293" page_number="1099" standard_reporter="U.S." citation_global_level_id="17765.002" line="3" id="128656_14" citation_local_level_id="3" >537 U.S. 1099</CITATION>
+
+<RELATION theme="128656_1" includes_docket_string="02-524" includes_docket="128656_2" theme_string="538 U.S. 959" gram_type="apposition" relation_type="asymmetric" id="128656_13" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 959" X_vs_Y_string="WARDEN PRICE, v. VINCENT" standard_case="128656_1" X_vs_Y="128656_3" gram_type="pre_nom" relation_type="equivalence" id="128656_9" ></RELATION>
+
+<RELATION theme="128656_3" includes_docket_string="02-524" includes_docket="128656_2" theme_string="WARDEN PRICE, v. VINCENT" gram_type="apposition" relation_type="asymmetric" id="128656_12" ></RELATION>
+
+<RELATION theme="128656_3" party1="128656_4" party1_string="WARDEN PRICE," theme_string="WARDEN PRICE, v. VINCENT" gram_type="infix" relation_type="asymmetric" id="128656_10" ></RELATION>
+
+<RELATION party2="128656_5" theme="128656_3" theme_string="WARDEN PRICE, v. VINCENT" party2_string="VINCENT" gram_type="infix" relation_type="asymmetric" id="128656_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1099" X_vs_Y_string="Jones v. Vincent" standard_case="128656_14" X_vs_Y="128656_15" gram_type="apposition" relation_type="equivalence" id="128656_21" ></RELATION>
+
+<RELATION theme="128656_15" party1="128656_16" party1_string="Jones" theme_string="Jones v. Vincent" gram_type="infix" relation_type="asymmetric" id="128656_19" ></RELATION>
+
+<RELATION party2="128656_17" theme="128656_15" theme_string="Jones v. Vincent" party2_string="Vincent" gram_type="infix" relation_type="asymmetric" id="128656_20" ></RELATION>
+

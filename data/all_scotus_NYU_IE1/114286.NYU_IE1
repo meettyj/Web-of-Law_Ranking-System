@@ -1,0 +1,40 @@
+<CITATION alternative_keys="['meyerlelsz#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_906" id1="114282" volume="510" start="0" page_number="906" standard_reporter="U.S." citation_global_level_id="3295.002" line="1" id="114286_1" citation_local_level_id="0" >510 U.S. 906</CITATION>
+
+<CITATION party2="Lelsz et al" party1="Meyer" citation_global_level_id="61782.001" party2_short="Lelsz" line="1" id="114286_3" alternative_keys="['u.s._510_906']" end="37" entry_type="party_key" lookup_key="meyerlelsz#2" id1="116680" start="17" party1_short="Meyer" citation_local_level_id="1" >Meyer v. Lelsz et al</CITATION>
+
+<NAME end="22" start="17" party1_of="114286_3" all_names="MEYER" local_name_id="1" id="114286_4" >Meyer</NAME>
+
+<NAME end="37" start="26" all_names="LELSZ	JOHN LELSZ" party2_of="114286_3" local_name_id="2" id="114286_5" >Lelsz et al</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="u.s._510_906" id1="114282" start="47" citation_global_level_id="3295.002" line="1" id="114286_2" citation_local_level_id="0" >92-1806</DOCKET>
+
+<DATE start="50" end="54" id="114286_6" >1806</DATE>
+
+<DATE start="96" end="111" id="114286_7" >October 4, 1993</DATE>
+
+<LEGAL_ROLE start="189" end="209" id="114286_15" >Motion of petitioner</LEGAL_ROLE>
+
+<NAME start="243" local_name_id="2" end="253" id="114286_16" all_names="LELSZ	JOHN LELSZ" >John Lelsz</NAME>
+
+<LEGAL_ROLE start="269" end="289" id="114286_17" >Motion of petitioner</LEGAL_ROLE>
+
+<NAME start="312" local_name_id="3" end="325" id="114286_18" all_names="GARTH CORBETT" >Garth Corbett</NAME>
+
+<LEGAL_ROLE start="341" end="361" id="114286_19" >Motion of petitioner</LEGAL_ROLE>
+
+<NAME start="395" local_name_id="4" end="400" id="114286_20" all_names="TEXAS" >Texas</NAME>
+
+<CITATION end="515" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_983_1061" id1="Dummy_File_22744" volume="983" start="501" page_number="1061" standard_reporter="F.2D" citation_global_level_id="86594.001" line="3" id="114286_14" citation_local_level_id="2" >983 F. 2d 1061</CITATION>
+
+<RELATION theme="114286_1" includes_docket_string="92-1806" includes_docket="114286_2" theme_string="510 U.S. 906" gram_type="apposition" relation_type="asymmetric" id="114286_12" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 906" X_vs_Y_string="Meyer v. Lelsz et al" standard_case="114286_1" X_vs_Y="114286_3" gram_type="pre_nom" relation_type="equivalence" id="114286_8" ></RELATION>
+
+<RELATION theme="114286_3" includes_docket_string="92-1806" includes_docket="114286_2" theme_string="Meyer v. Lelsz et al" gram_type="apposition" relation_type="asymmetric" id="114286_11" ></RELATION>
+
+<RELATION party2="114286_5" theme="114286_3" theme_string="Meyer v. Lelsz et al" party2_string="Lelsz et al" gram_type="infix" relation_type="asymmetric" id="114286_10" ></RELATION>
+
+<RELATION theme="114286_3" party1="114286_4" party1_string="Meyer" theme_string="Meyer v. Lelsz et al" gram_type="infix" relation_type="asymmetric" id="114286_9" ></RELATION>
+
+<RELATION at_date_string="1806" theme="114286_2" at_date="114286_6" theme_string="92-1806" gram_type="infix" relation_type="asymmetric" id="114286_13" ></RELATION>
+

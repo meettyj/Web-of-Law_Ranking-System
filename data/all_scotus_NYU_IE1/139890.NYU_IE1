@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['walkervaughn#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_965" id1="139881" volume="543" start="0" page_number="965" standard_reporter="U.S." citation_global_level_id="20541.002" line="1" id="139890_1" citation_local_level_id="0" >543 U.S. 965</CITATION>
+
+<CITATION party2="VAUGHN, WARDEN" party1="WALKER" citation_global_level_id="20541.005" party2_short="VAUGHN" line="2" id="139890_3" alternative_keys="['u.s._543_965']" end="41" entry_type="party_key" lookup_key="walkervaughn#1" id1="139881" start="17" party1_short="WALKER" citation_local_level_id="1" >WALKER v. VAUGHN, WARDEN</CITATION>
+
+<NAME end="23" start="17" party1_of="139890_3" all_names="WALKER" local_name_id="1" id="139890_4" >WALKER</NAME>
+
+<NAME end="41" start="27" all_names="VAUGHN WARDEN" party2_of="139890_3" local_name_id="2" id="139890_5" >VAUGHN, WARDEN</NAME>
+
+<DOCKET alternative_keys="['u.s._543_965']" end="58" entry_type="docket" lookup_key="walkervaughn#1" id1="139881" start="51" citation_global_level_id="20541.005" line="2" id="139890_2" citation_local_level_id="1" >04-6172</DOCKET>
+
+<ORGANIZATION start="64" end="94" id="139890_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="100" citation_global_level_id="20541.005" end="116" id="139890_10" citation_local_level_id="1" >November 1, 2004</DATE>
+
+<NAME start="148" local_name_id="3" end="151" id="139890_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="139890_3" includes_docket_string="04-6172" includes_docket="139890_2" theme_string="WALKER v. VAUGHN, WARDEN" gram_type="apposition" relation_type="asymmetric" id="139890_8" ></RELATION>
+
+<RELATION theme="139890_3" party1="139890_4" party1_string="WALKER" theme_string="WALKER v. VAUGHN, WARDEN" gram_type="infix" relation_type="asymmetric" id="139890_6" ></RELATION>
+
+<RELATION party2="139890_5" theme="139890_3" theme_string="WALKER v. VAUGHN, WARDEN" party2_string="VAUGHN, WARDEN" gram_type="infix" relation_type="asymmetric" id="139890_7" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 965" X_vs_Y_string="WALKER v. VAUGHN, WARDEN" standard_case="139890_1" X_vs_Y="139890_3" gram_type="multi_line" relation_type="equivalence" id="139890_11" ></RELATION>
+
+<RELATION at_date_string="November 1, 2004" theme="139890_3" at_date="139890_10" theme_string="WALKER v. VAUGHN, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="139890_12" ></RELATION>
+

@@ -1,0 +1,36 @@
+<DATE start="2" end="6" id="1490498_1" >2006</DATE>
+
+<CITATION party2="DON W. DAVIS" party1="NORRIS, DIR., AR DOC, ET AL." citation_global_level_id="27361.003" party2_short="DAVIS" line="5" id="1490498_5" alternative_keys="['a._06_7']" end="54" entry_type="party_key" lookup_key="docdavis#1" id1="1490498" start="8" party1_short="DOC" citation_local_level_id="0" >NORRIS, DIR., AR DOC, ET AL. v. DON W. DAVIS</CITATION>
+
+<NAME end="36" start="8" party1_of="1490498_5" all_names="NORRIS DIR AR DOC" local_name_id="1" id="1490498_6" >NORRIS, DIR., AR DOC, ET AL.</NAME>
+
+<NAME end="54" start="42" all_names="DON W DAVIS" party2_of="1490498_5" local_name_id="2" id="1490498_7" >DON W. DAVIS</NAME>
+
+<PROFESSION start="42" end="45" id="1490498_8" >DON</PROFESSION>
+
+<CITATION alternative_keys="['docdavis#1']" end="59" reporter="A" entry_type="standard_key" lookup_key="a._06_7" id1="1490498" volume="06" start="55" page_number="7" standard_reporter="A." citation_global_level_id="27361.002" line="6" id="1490498_11" citation_local_level_id="1" >06A7</CITATION>
+
+<ORGANIZATION start="60" end="90" id="1490498_12" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="92" citation_global_level_id="27361.003" end="104" id="1490498_13" citation_local_level_id="0" >July 5, 2006</DATE>
+
+<ORGANIZATION start="191" end="256" id="1490498_17" >United States District Court for the Eastern District of Arkansas</ORGANIZATION>
+
+<DATE start="260" end="273" id="1490498_16" >June 26, 2006</DATE>
+
+<PROFESSION start="288" document_level_name_id="3" end="295" id="1490498_18" party="ALITO" >Justice</PROFESSION>
+
+<NAME start="296" local_name_id="3" end="301" id="1490498_19" all_names="ALITO" >Alito</NAME>
+
+<ORGANIZATION start="329" end="334" id="1490498_20" >Court</ORGANIZATION>
+
+<RELATION party2="1490498_7" theme="1490498_5" theme_string="NORRIS, DIR., AR DOC, ET AL.  v.  DON W. DAVIS" party2_string="DON W. DAVIS" gram_type="infix" relation_type="asymmetric" id="1490498_10" ></RELATION>
+
+<RELATION theme="1490498_5" party1="1490498_6" party1_string="NORRIS, DIR., AR DOC, ET AL." theme_string="NORRIS, DIR., AR DOC, ET AL.  v.  DON W. DAVIS" gram_type="infix" relation_type="asymmetric" id="1490498_9" ></RELATION>
+
+<RELATION at_date_string="July 5, 2006" theme="1490498_5" at_date="1490498_13" theme_string="NORRIS, DIR., AR DOC, ET AL.  v.  DON W. DAVIS" gram_type="multi_line" relation_type="asymmetric" id="1490498_15" ></RELATION>
+
+<RELATION standard_case_string="06A7" X_vs_Y_string="NORRIS, DIR., AR DOC, ET AL.  v.  DON W. DAVIS" standard_case="1490498_11" X_vs_Y="1490498_5" gram_type="multi_line" relation_type="equivalence" id="1490498_14" ></RELATION>
+
+<RELATION theme="1490498_19" profession_string="Justice" theme_string="Alito" profession="1490498_18" gram_type="pre_nom" relation_type="asymmetric" id="1490498_21" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['mortersbarr#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_1016" id1="133926" volume="540" start="0" page_number="1016" standard_reporter="U.S." citation_global_level_id="3137.002" line="1" id="133924_1" citation_local_level_id="0" >540 U.S. 1016</CITATION>
+
+<CITATION party2="BARR ET AL" party1="MORTERS" citation_global_level_id="14482.001" party2_short="BARR" line="1" id="133924_3" alternative_keys="['u.s._540_1016']" end="39" entry_type="party_key" lookup_key="mortersbarr#1" id1="133924" start="18" party1_short="MORTERS" citation_local_level_id="1" >MORTERS v. BARR ET AL</CITATION>
+
+<NAME end="25" start="18" party1_of="133924_3" all_names="MORTERS" local_name_id="1" id="133924_4" >MORTERS</NAME>
+
+<NAME end="39" start="29" all_names="BARR" party2_of="133924_3" local_name_id="2" id="133924_5" >BARR ET AL</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._540_1016" id1="133926" start="49" citation_global_level_id="3137.002" line="1" id="133924_2" citation_local_level_id="0" >03-369</DOCKET>
+
+<DATE start="97" end="114" id="133924_6" >November 17, 2003</DATE>
+
+<NAME start="191" local_name_id="3" end="201" id="133924_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="259" reporter="N. W. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.w.2d_662_679" id1="Dummy_File_234451" volume="662" start="243" page_number="679" standard_reporter="N.W.2D" citation_global_level_id="298301.001" line="3" id="133924_12" citation_local_level_id="2" >662 N. W. 2d 679</CITATION>
+
+<RELATION theme="133924_1" includes_docket_string="03-369" includes_docket="133924_2" theme_string="540 U.S. 1016" gram_type="apposition" relation_type="asymmetric" id="133924_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 1016" X_vs_Y_string="MORTERS v. BARR ET AL" standard_case="133924_1" X_vs_Y="133924_3" gram_type="pre_nom" relation_type="equivalence" id="133924_7" ></RELATION>
+
+<RELATION theme="133924_3" includes_docket_string="03-369" includes_docket="133924_2" theme_string="MORTERS v. BARR ET AL" gram_type="apposition" relation_type="asymmetric" id="133924_10" ></RELATION>
+
+<RELATION theme="133924_3" party1="133924_4" party1_string="MORTERS" theme_string="MORTERS v. BARR ET AL" gram_type="infix" relation_type="asymmetric" id="133924_8" ></RELATION>
+
+<RELATION party2="133924_5" theme="133924_3" theme_string="MORTERS v. BARR ET AL" party2_string="BARR ET AL" gram_type="infix" relation_type="asymmetric" id="133924_9" ></RELATION>
+

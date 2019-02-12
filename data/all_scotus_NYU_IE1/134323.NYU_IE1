@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['joneshaynes#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_1060" id1="134328" volume="540" start="0" page_number="1060" standard_reporter="U.S." citation_global_level_id="4577.002" line="1" id="134323_1" citation_local_level_id="0" >540 U.S. 1060</CITATION>
+
+<CITATION party2="HAYNES ET AL" party1="JONES" citation_global_level_id="63308.001" party2_short="HAYNES" line="1" id="134323_3" alternative_keys="['u.s._540_1060']" end="39" entry_type="party_key" lookup_key="joneshaynes#1" id1="134323" start="18" party1_short="JONES" citation_local_level_id="1" >JONES v. HAYNES ET AL</CITATION>
+
+<NAME end="23" start="18" party1_of="134323_3" all_names="JONES" local_name_id="1" id="134323_4" >JONES</NAME>
+
+<NAME end="39" start="27" all_names="HAYNES" party2_of="134323_3" local_name_id="2" id="134323_5" >HAYNES ET AL</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._540_1060" id1="134328" start="49" citation_global_level_id="4577.002" line="1" id="134323_2" citation_local_level_id="0" >03-6834</DOCKET>
+
+<DATE start="98" end="114" id="134323_6" >December 1, 2003</DATE>
+
+<NAME start="192" local_name_id="3" end="202" id="134323_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="134323_1" includes_docket_string="03-6834" includes_docket="134323_2" theme_string="540 U.S. 1060" gram_type="apposition" relation_type="asymmetric" id="134323_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 1060" X_vs_Y_string="JONES v. HAYNES ET AL" standard_case="134323_1" X_vs_Y="134323_3" gram_type="pre_nom" relation_type="equivalence" id="134323_7" ></RELATION>
+
+<RELATION theme="134323_3" includes_docket_string="03-6834" includes_docket="134323_2" theme_string="JONES v. HAYNES ET AL" gram_type="apposition" relation_type="asymmetric" id="134323_10" ></RELATION>
+
+<RELATION theme="134323_3" party1="134323_4" party1_string="JONES" theme_string="JONES v. HAYNES ET AL" gram_type="infix" relation_type="asymmetric" id="134323_8" ></RELATION>
+
+<RELATION party2="134323_5" theme="134323_3" theme_string="JONES v. HAYNES ET AL" party2_string="HAYNES ET AL" gram_type="infix" relation_type="asymmetric" id="134323_9" ></RELATION>
+

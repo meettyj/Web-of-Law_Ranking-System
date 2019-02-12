@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['hallbank#1', 's.ct._24_855', 'l.ed._48_843']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._193_676" id1="96060" volume="193" start="0" page_number="676" standard_reporter="U.S." citation_global_level_id="36368.002" line="1" id="96060_1" citation_local_level_id="0" >193 U.S. 676</CITATION>
+
+<CITATION alternative_keys="['u.s._193_676', 'hallbank#1', 'l.ed._48_843']" end="30" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._24_855" id1="96125" volume="24" start="17" page_number="855" standard_reporter="S.CT." citation_global_level_id="7431.003" line="1" id="96060_2" citation_local_level_id="1" >24 S. Ct. 855</CITATION>
+
+<NAME start="20" local_name_id="1" end="25" id="96060_9" all_names="S CT" >S. Ct</NAME>
+
+<CITATION alternative_keys="['u.s._193_676', 's.ct._24_855', 'hallbank#1']" end="48" reporter="L. Ed." entry_type="standard_key" lookup_key="l.ed._48_843" id1="96060" volume="48" start="35" page_number="843" standard_reporter="L.ED." citation_global_level_id="36368.003" line="1" id="96060_3" citation_local_level_id="2" >48 L. Ed. 843</CITATION>
+
+<CITATION party2="FIRST NATIONAL BANK OF BRIDGEPORT et al" alternative_keys="['u.s._193_676', 's.ct._24_855', 'l.ed._48_843']" party1="HELEN POTTS HALL," end="124" party1_short="HALL" entry_type="party_key" party1_role="appellant" lookup_key="hallbank#1" id1="96060" start="53" citation_global_level_id="36368.001" party2_short="BANK" line="1" id="96060_4" citation_local_level_id="3" >HELEN POTTS HALL, Appellant, v. FIRST NATIONAL BANK OF BRIDGEPORT et al</CITATION>
+
+<NAME end="70" start="53" party1_of="96060_4" all_names="HELEN POTTS HALL" local_name_id="2" id="96060_5" >HELEN POTTS HALL,</NAME>
+
+<LEGAL_ROLE start="71" end="80" id="96060_7" party="party1" >Appellant</LEGAL_ROLE>
+
+<NAME end="124" start="85" all_names="FIRST NATIONAL BANK OF BRIDGEPORT" party2_of="96060_4" local_name_id="3" id="96060_6" >FIRST NATIONAL BANK OF BRIDGEPORT et al</NAME>
+
+<DATE start="182" end="195" id="96060_8" >April 4, 1904</DATE>
+
+<LEGAL_ROLE start="277" end="312" plural="True" id="96060_15" >Mr. George P. Carroll for appellees</LEGAL_ROLE>
+
+<RELATION standard_case_string="193 U.S. 676" X_vs_Y_string="HELEN POTTS HALL, Appellant, v. FIRST NATIONAL BANK OF BRIDGEPORT et al" standard_case="96060_1" X_vs_Y="96060_4" gram_type="pre_nom" relation_type="equivalence" id="96060_11" ></RELATION>
+
+<RELATION standard_case_string="24 S. Ct. 855" X_vs_Y_string="HELEN POTTS HALL, Appellant, v. FIRST NATIONAL BANK OF BRIDGEPORT et al" standard_case="96060_2" X_vs_Y="96060_4" gram_type="pre_nom" relation_type="equivalence" id="96060_12" ></RELATION>
+
+<RELATION standard_case_string="48 L. Ed. 843" X_vs_Y_string="HELEN POTTS HALL, Appellant, v. FIRST NATIONAL BANK OF BRIDGEPORT et al" standard_case="96060_3" X_vs_Y="96060_4" gram_type="pre_nom" relation_type="equivalence" id="96060_10" ></RELATION>
+
+<RELATION theme="96060_4" party1="96060_5" party1_string="HELEN POTTS HALL," theme_string="HELEN POTTS HALL, Appellant, v. FIRST NATIONAL BANK OF BRIDGEPORT et al" gram_type="infix" relation_type="asymmetric" id="96060_13" ></RELATION>
+
+<RELATION party2="96060_6" theme="96060_4" theme_string="HELEN POTTS HALL, Appellant, v. FIRST NATIONAL BANK OF BRIDGEPORT et al" party2_string="FIRST NATIONAL BANK OF BRIDGEPORT et al" gram_type="infix" relation_type="asymmetric" id="96060_14" ></RELATION>
+

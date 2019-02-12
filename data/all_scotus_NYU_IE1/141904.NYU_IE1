@@ -1,0 +1,44 @@
+<CITATION alternative_keys="['rideoutstates#3']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1116" id1="141895" volume="543" start="0" page_number="1116" standard_reporter="U.S." citation_global_level_id="1810.002" line="1" id="141904_1" citation_local_level_id="0" >543 U.S. 1116</CITATION>
+
+<CITATION party2="UNITED STATES" party1="RIDEOUT" citation_global_level_id="57565.001" party2_short="STATES" line="2" id="141904_2" alternative_keys="['u.s._543_1116']" end="42" entry_type="party_key" lookup_key="rideoutstates#3" id1="141904" start="18" party1_short="RIDEOUT" citation_local_level_id="1" >RIDEOUT v. UNITED STATES</CITATION>
+
+<NAME end="25" start="18" party1_of="141904_2" all_names="RIDEOUT" local_name_id="1" id="141904_3" >RIDEOUT</NAME>
+
+<NAME end="42" start="29" all_names="UNITED STATES" party2_of="141904_2" local_name_id="2" id="141904_4" >UNITED STATES</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="rideoutstates#3" id1="141904" start="52" citation_global_level_id="57565.001" line="3" id="141904_7" citation_local_level_id="1" >03-9402</DOCKET>
+
+<ORGANIZATION start="65" end="95" id="141904_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="101" citation_global_level_id="57565.001" end="117" id="141904_9" citation_local_level_id="1" >January 24, 2005</DATE>
+
+<CITATION end="151" reporter="U.S." entry_type="standard_key" lookup_key="u.s._542_939" id1="137448" volume="542" start="139" page_number="939" standard_reporter="U.S." citation_global_level_id="2429.002" line="8" id="141904_13" citation_local_level_id="2" >542 U.S. 939</CITATION>
+
+<NAME start="153" local_name_id="3" end="162" id="141904_17" all_names="PETITIONS" >Petitions</NAME>
+
+<NAME start="186" local_name_id="4" end="192" id="141904_18" all_names="ORDERS" >Orders</NAME>
+
+<LEGAL_ROLE start="244" end="266" plural="True" id="141904_19" >Motions of petitioners</LEGAL_ROLE>
+
+<NAME start="315" local_name_id="5" end="325" id="141904_20" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION party2="Booker" party1="United States" citation_global_level_id="57130.001" party2_short="Booker" line="8" id="141904_14" end="434" entry_type="party_key" lookup_key="statesbooker#4" id1="137703" start="411" party1_short="States" citation_local_level_id="3" >United States v. Booker</CITATION>
+
+<NAME end="424" start="411" party1_of="141904_14" all_names="UNITED STATES" local_name_id="2" id="141904_15" >United States</NAME>
+
+<NAME end="434" start="428" all_names="BOOKER" party2_of="141904_14" local_name_id="6" id="141904_16" >Booker</NAME>
+
+<RELATION theme="141904_2" party1="141904_3" party1_string="RIDEOUT" theme_string="RIDEOUT v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="141904_5" ></RELATION>
+
+<RELATION party2="141904_4" theme="141904_2" theme_string="RIDEOUT v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="141904_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1116" X_vs_Y_string="RIDEOUT v. UNITED STATES" standard_case="141904_1" X_vs_Y="141904_2" gram_type="multi_line" relation_type="equivalence" id="141904_10" ></RELATION>
+
+<RELATION at_date_string="January 24, 2005" theme="141904_2" at_date="141904_9" theme_string="RIDEOUT v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="141904_12" ></RELATION>
+
+<RELATION theme="141904_2" includes_docket_string="03-9402" includes_docket="141904_7" theme_string="RIDEOUT v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="141904_11" ></RELATION>
+
+<RELATION theme="141904_14" party1="141904_15" party1_string="United States" theme_string="United States v. Booker" gram_type="infix" relation_type="asymmetric" id="141904_21" ></RELATION>
+
+<RELATION party2="141904_16" theme="141904_14" theme_string="United States v. Booker" party2_string="Booker" gram_type="infix" relation_type="asymmetric" id="141904_22" ></RELATION>
+

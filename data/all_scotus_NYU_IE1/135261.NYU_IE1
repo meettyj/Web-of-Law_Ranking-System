@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['joshuajohnson#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_957" id1="135257" volume="541" start="0" page_number="957" standard_reporter="U.S." citation_global_level_id="7865.002" line="1" id="135261_1" citation_local_level_id="0" >541 U.S. 957</CITATION>
+
+<CITATION party2="JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" party1="JOSHUA" citation_global_level_id="7865.005" party2_short="JOHNSON" line="2" id="135261_3" alternative_keys="['u.s._541_957']" end="80" entry_type="party_key" lookup_key="joshuajohnson#1" id1="135257" start="17" party1_short="JOSHUA" citation_local_level_id="1" >JOSHUA v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS</CITATION>
+
+<NAME end="23" start="17" party1_of="135261_3" all_names="JOSHUA" local_name_id="1" id="135261_4" >JOSHUA</NAME>
+
+<NAME end="80" start="27" all_names="JOHNSON DIRECTOR VIRGINIA DEPARTMENT OF CORRECTIONS" party2_of="135261_3" local_name_id="2" id="135261_5" >JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS</NAME>
+
+<DOCKET alternative_keys="['u.s._541_957']" end="97" entry_type="docket" lookup_key="joshuajohnson#1" id1="135257" start="90" citation_global_level_id="7865.005" line="2" id="135261_2" citation_local_level_id="1" >03-7808</DOCKET>
+
+<ORGANIZATION start="103" end="133" id="135261_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="139" citation_global_level_id="7865.005" end="153" id="135261_10" citation_local_level_id="1" >March 22, 2004</DATE>
+
+<CITATION end="189" reporter="U. S." entry_type="standard_key" no_current_file="True" lookup_key="u.s._540_1165" id1="Dummy_File_51016" volume="540" start="175" page_number="1165" standard_reporter="U.S." citation_global_level_id="114866.001" line="7" id="135261_13" citation_local_level_id="2" >540 U. S. 1165</CITATION>
+
+<NAME start="191" local_name_id="3" end="200" id="135261_14" all_names="PETITIONS" >Petitions</NAME>
+
+<RELATION theme="135261_3" includes_docket_string="03-7808" includes_docket="135261_2" theme_string="JOSHUA v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" gram_type="apposition" relation_type="asymmetric" id="135261_8" ></RELATION>
+
+<RELATION theme="135261_3" party1="135261_4" party1_string="JOSHUA" theme_string="JOSHUA v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" gram_type="infix" relation_type="asymmetric" id="135261_6" ></RELATION>
+
+<RELATION party2="135261_5" theme="135261_3" theme_string="JOSHUA v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" party2_string="JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" gram_type="infix" relation_type="asymmetric" id="135261_7" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 957" X_vs_Y_string="JOSHUA v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" standard_case="135261_1" X_vs_Y="135261_3" gram_type="multi_line" relation_type="equivalence" id="135261_11" ></RELATION>
+
+<RELATION at_date_string="March 22, 2004" theme="135261_3" at_date="135261_10" theme_string="JOSHUA v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" gram_type="multi_line" relation_type="asymmetric" id="135261_12" ></RELATION>
+

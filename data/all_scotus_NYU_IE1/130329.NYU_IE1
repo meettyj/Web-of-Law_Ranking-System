@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['agencypower#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_914" id1="130322" volume="539" start="0" page_number="914" standard_reporter="U.S." citation_global_level_id="1919.002" line="1" id="130329_1" citation_local_level_id="0" >539 U.S. 914</CITATION>
+
+<CITATION party2="Sierra Pacific Power Co. et al" party1="Transmission Agency of Northern California" citation_global_level_id="1919.003" party2_short="Power" line="1" id="130329_3" alternative_keys="['u.s._539_914']" end="93" entry_type="party_key" lookup_key="agencypower#1" id1="130322" start="17" party1_short="Agency" citation_local_level_id="1" >Transmission Agency of Northern California v. Sierra Pacific Power Co. et al</CITATION>
+
+<NAME end="59" start="17" party1_of="130329_3" all_names="TRANSMISSION AGENCY OF NORTHERN CALIFORNIA" local_name_id="1" id="130329_4" >Transmission Agency of Northern California</NAME>
+
+<NAME end="93" start="63" all_names="SIERRA PACIFIC POWER CO" party2_of="130329_3" local_name_id="2" id="130329_5" >Sierra Pacific Power Co. et al</NAME>
+
+<DOCKET end="109" entry_type="docket" lookup_key="u.s._539_914" id1="130322" start="103" citation_global_level_id="1919.002" line="1" id="130329_2" citation_local_level_id="0" >02-529</DOCKET>
+
+<DATE start="151" end="163" id="130329_6" >June 9, 2003</DATE>
+
+<NAME start="241" local_name_id="3" end="251" id="130329_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="289" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_295_918" id1="Dummy_File_28131" volume="295" start="276" page_number="918" standard_reporter="F.3D" citation_global_level_id="91981.001" line="3" id="130329_12" citation_local_level_id="2" >295 F. 3d 918</CITATION>
+
+<RELATION theme="130329_1" includes_docket_string="02-529" includes_docket="130329_2" theme_string="539 U.S. 914" gram_type="apposition" relation_type="asymmetric" id="130329_11" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 914" X_vs_Y_string="Transmission Agency of Northern California v. Sierra Pacific Power Co. et al" standard_case="130329_1" X_vs_Y="130329_3" gram_type="pre_nom" relation_type="equivalence" id="130329_7" ></RELATION>
+
+<RELATION theme="130329_3" includes_docket_string="02-529" includes_docket="130329_2" theme_string="Transmission Agency of Northern California v. Sierra Pacific Power Co. et al" gram_type="apposition" relation_type="asymmetric" id="130329_10" ></RELATION>
+
+<RELATION theme="130329_3" party1="130329_4" party1_string="Transmission Agency of Northern California" theme_string="Transmission Agency of Northern California v. Sierra Pacific Power Co. et al" gram_type="infix" relation_type="asymmetric" id="130329_8" ></RELATION>
+
+<RELATION party2="130329_5" theme="130329_3" theme_string="Transmission Agency of Northern California v. Sierra Pacific Power Co. et al" party2_string="Sierra Pacific Power Co. et al" gram_type="infix" relation_type="asymmetric" id="130329_9" ></RELATION>
+

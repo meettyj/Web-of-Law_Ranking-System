@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['chuwisconsin#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_975" id1="124509" volume="537" start="0" page_number="975" standard_reporter="U.S." citation_global_level_id="3532.002" line="1" id="124508_1" citation_local_level_id="0" >537 U.S. 975</CITATION>
+
+<CITATION party2="WISCONSIN" party1="CHU" citation_global_level_id="57320.001" party2_short="WISCONSIN" line="1" id="124508_3" alternative_keys="['u.s._537_975']" end="33" entry_type="party_key" lookup_key="chuwisconsin#1" id1="124508" start="17" party1_short="CHU" citation_local_level_id="1" >CHU v. WISCONSIN</CITATION>
+
+<NAME end="20" start="17" party1_of="124508_3" all_names="CHU" local_name_id="1" id="124508_4" >CHU</NAME>
+
+<NAME end="33" start="24" all_names="WISCONSIN" party2_of="124508_3" local_name_id="2" id="124508_5" >WISCONSIN</NAME>
+
+<DOCKET end="49" entry_type="docket" lookup_key="u.s._537_975" id1="124509" start="43" citation_global_level_id="3532.002" line="1" id="124508_2" citation_local_level_id="0" >02-356</DOCKET>
+
+<DATE start="91" end="107" id="124508_6" >October 21, 2002</DATE>
+
+<NAME start="203" local_name_id="3" end="205" id="124508_13" all_names="CT" >Ct</NAME>
+
+<CITATION end="285" reporter="N. W. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.w.2d_643_878" id1="Dummy_File_221540" volume="643" start="269" page_number="878" standard_reporter="N.W.2D" citation_global_level_id="285390.001" line="3" id="124508_12" citation_local_level_id="2" >643 N. W. 2d 878</CITATION>
+
+<RELATION theme="124508_1" includes_docket_string="02-356" includes_docket="124508_2" theme_string="537 U.S. 975" gram_type="apposition" relation_type="asymmetric" id="124508_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 975" X_vs_Y_string="CHU v. WISCONSIN" standard_case="124508_1" X_vs_Y="124508_3" gram_type="pre_nom" relation_type="equivalence" id="124508_7" ></RELATION>
+
+<RELATION theme="124508_3" includes_docket_string="02-356" includes_docket="124508_2" theme_string="CHU v. WISCONSIN" gram_type="apposition" relation_type="asymmetric" id="124508_10" ></RELATION>
+
+<RELATION theme="124508_3" party1="124508_4" party1_string="CHU" theme_string="CHU v. WISCONSIN" gram_type="infix" relation_type="asymmetric" id="124508_8" ></RELATION>
+
+<RELATION party2="124508_5" theme="124508_3" theme_string="CHU v. WISCONSIN" party2_string="WISCONSIN" gram_type="infix" relation_type="asymmetric" id="124508_9" ></RELATION>
+

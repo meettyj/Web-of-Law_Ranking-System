@@ -1,0 +1,42 @@
+<CITATION alternative_keys="['courtfeess#2', 'gravesschroeder#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1056" id1="141015" volume="543" start="0" page_number="1056" standard_reporter="U.S." citation_global_level_id="1117.002" line="1" id="141018_1" citation_local_level_id="0" >543 U.S. 1056</CITATION>
+
+<CITATION party2="SCHROEDER" party1="GRAVES" citation_global_level_id="6772.003" party2_short="SCHROEDER" line="2" id="141018_2" alternative_keys="['a._04_255', 'u.s._543_953']" end="37" entry_type="party_key" lookup_key="gravesschroeder#1" id1="139723" start="18" party1_short="GRAVES" citation_local_level_id="1" >GRAVES v. SCHROEDER</CITATION>
+
+<NAME end="24" start="18" party1_of="141018_2" all_names="GRAVES	CHIEF JUDGE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT AL; GRAVES" local_name_id="1" id="141018_4" >GRAVES</NAME>
+
+<NAME end="37" start="28" all_names="SCHROEDER" party2_of="141018_2" local_name_id="2" id="141018_5" >SCHROEDER</NAME>
+
+<CITATION party2="FEESS ET AL" party1="CHIEF JUDGE, UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT, ET AL.; GRAVES" citation_global_level_id="1117.004" party2_short="FEESS" line="2" id="141018_3" alternative_keys="['gravesschroeder#1', 'u.s._543_1056']" end="135" entry_type="party_key" lookup_key="courtfeess#2" id1="141015" start="39" party1_short="COURT" citation_local_level_id="2" >CHIEF JUDGE, UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT, ET AL.; GRAVES v. FEESS ET AL</CITATION>
+
+<NAME end="120" start="39" party1_of="141018_3" all_names="GRAVES	CHIEF JUDGE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT AL; GRAVES" local_name_id="1" id="141018_6" >CHIEF JUDGE, UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT, ET AL.; GRAVES</NAME>
+
+<NAME end="135" start="124" all_names="FEESS" party2_of="141018_3" local_name_id="3" id="141018_7" >FEESS ET AL</NAME>
+
+<DOCKET alternative_keys="['a._04_255', 'u.s._543_953']" end="151" entry_type="docket" lookup_key="gravesschroeder#1" id1="139723" start="145" citation_global_level_id="6772.003" line="3" id="141018_12" citation_local_level_id="1" >04-733</DOCKET>
+
+<ORGANIZATION start="157" end="187" id="141018_13" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="193" citation_global_level_id="6772.003" end="209" id="141018_14" citation_local_level_id="1" >January 10, 2005</DATE>
+
+<NAME start="241" local_name_id="4" end="244" id="141018_21" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="141018_2" party1="141018_4" party1_string="GRAVES" theme_string="GRAVES v. SCHROEDER" gram_type="infix" relation_type="asymmetric" id="141018_8" ></RELATION>
+
+<RELATION party2="141018_5" theme="141018_2" theme_string="GRAVES v. SCHROEDER" party2_string="SCHROEDER" gram_type="infix" relation_type="asymmetric" id="141018_9" ></RELATION>
+
+<RELATION theme="141018_3" party1="141018_6" party1_string="CHIEF JUDGE, UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT, ET AL.; GRAVES" theme_string="CHIEF JUDGE, UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT, ET AL.; GRAVES v. FEESS ET AL" gram_type="infix" relation_type="asymmetric" id="141018_10" ></RELATION>
+
+<RELATION party2="141018_7" theme="141018_3" theme_string="CHIEF JUDGE, UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT, ET AL.; GRAVES v. FEESS ET AL" party2_string="FEESS ET AL" gram_type="infix" relation_type="asymmetric" id="141018_11" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1056" X_vs_Y_string="CHIEF JUDGE, UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT, ET AL.; GRAVES v. FEESS ET AL" standard_case="141018_1" X_vs_Y="141018_3" gram_type="multi_line" relation_type="equivalence" id="141018_18" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1056" X_vs_Y_string="GRAVES v. SCHROEDER" standard_case="141018_1" X_vs_Y="141018_2" gram_type="multi_line" relation_type="equivalence" id="141018_15" ></RELATION>
+
+<RELATION at_date_string="January 10, 2005" theme="141018_2" at_date="141018_14" theme_string="GRAVES v. SCHROEDER" gram_type="multi_line" relation_type="asymmetric" id="141018_17" ></RELATION>
+
+<RELATION theme="141018_2" includes_docket_string="04-733" includes_docket="141018_12" theme_string="GRAVES v. SCHROEDER" gram_type="multi_line" relation_type="asymmetric" id="141018_16" ></RELATION>
+
+<RELATION at_date_string="January 10, 2005" theme="141018_3" at_date="141018_14" theme_string="CHIEF JUDGE, UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT, ET AL.; GRAVES v. FEESS ET AL" gram_type="multi_line" relation_type="asymmetric" id="141018_20" ></RELATION>
+
+<RELATION theme="141018_3" includes_docket_string="04-733" includes_docket="141018_12" theme_string="CHIEF JUDGE, UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT, ET AL.; GRAVES v. FEESS ET AL" gram_type="multi_line" relation_type="asymmetric" id="141018_19" ></RELATION>
+

@@ -1,0 +1,42 @@
+<CITATION alternative_keys="['mcbridedvoskin#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1055" id1="129936" volume="538" start="0" page_number="1055" standard_reporter="U.S." citation_global_level_id="1093.002" line="1" id="129935_1" citation_local_level_id="0" >538 U.S. 1055</CITATION>
+
+<CITATION party2="DVOSKIN ET AL" party1="McBRIDE" citation_global_level_id="50471.001" party2_short="DVOSKIN" line="1" id="129935_3" alternative_keys="['u.s._538_1055']" end="42" entry_type="party_key" lookup_key="mcbridedvoskin#1" id1="129935" start="18" party1_short="McBRIDE" citation_local_level_id="1" >McBRIDE v. DVOSKIN ET AL</CITATION>
+
+<NAME end="25" start="18" party1_of="129935_3" all_names="MCBRIDE" local_name_id="1" id="129935_4" >McBRIDE</NAME>
+
+<NAME end="42" start="29" all_names="DVOSKIN" party2_of="129935_3" local_name_id="2" id="129935_5" >DVOSKIN ET AL</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="u.s._538_1055" id1="129936" start="52" citation_global_level_id="1093.002" line="1" id="129935_2" citation_local_level_id="0" >02-9739</DOCKET>
+
+<DATE start="101" end="113" id="129935_6" >May 27, 2003</DATE>
+
+<NAME start="246" local_name_id="3" end="249" id="129935_17" all_names="CIR" >Cir</NAME>
+
+<CITATION party2="District of Columbia Court of Appeals" party1="Martin" citation_global_level_id="51848.001" party2_short="District" line="3" id="129935_13" alternative_keys="['u.s._506_1']" end="695" entry_type="party_key" lookup_key="martindistrict#2" id1="112790" start="648" party1_short="Martin" citation_local_level_id="2" >Martin v. District of Columbia Court of Appeals</CITATION>
+
+<NAME end="654" start="648" party1_of="129935_13" all_names="MARTIN" local_name_id="4" id="129935_14" >Martin</NAME>
+
+<NAME end="695" start="658" all_names="DISTRICT OF COLUMBIA COURT OF APPEALS" party2_of="129935_13" local_name_id="5" id="129935_15" >District of Columbia Court of Appeals</NAME>
+
+<CITATION alternative_keys="['martindistrict#2']" end="714" reporter="U.S." entry_type="standard_key" lookup_key="u.s._506_1" id1="112790" volume="506" start="697" page_number="1" year="1992" standard_reporter="U.S." citation_global_level_id="51848.002" line="3" id="129935_12" citation_local_level_id="3" >506 U.S. 1 (1992)</CITATION>
+
+<DATE start="709" citation_global_level_id="51848.002" end="713" id="129935_16" citation_local_level_id="3" >1992</DATE>
+
+<RELATION theme="129935_1" includes_docket_string="02-9739" includes_docket="129935_2" theme_string="538 U.S. 1055" gram_type="apposition" relation_type="asymmetric" id="129935_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1055" X_vs_Y_string="McBRIDE v. DVOSKIN ET AL" standard_case="129935_1" X_vs_Y="129935_3" gram_type="pre_nom" relation_type="equivalence" id="129935_7" ></RELATION>
+
+<RELATION theme="129935_3" includes_docket_string="02-9739" includes_docket="129935_2" theme_string="McBRIDE v. DVOSKIN ET AL" gram_type="apposition" relation_type="asymmetric" id="129935_10" ></RELATION>
+
+<RELATION theme="129935_3" party1="129935_4" party1_string="McBRIDE" theme_string="McBRIDE v. DVOSKIN ET AL" gram_type="infix" relation_type="asymmetric" id="129935_8" ></RELATION>
+
+<RELATION party2="129935_5" theme="129935_3" theme_string="McBRIDE v. DVOSKIN ET AL" party2_string="DVOSKIN ET AL" gram_type="infix" relation_type="asymmetric" id="129935_9" ></RELATION>
+
+<RELATION standard_case_string="506 U.S. 1 (1992)" X_vs_Y_string="Martin v. District of Columbia Court of Appeals" standard_case="129935_12" X_vs_Y="129935_13" gram_type="apposition" relation_type="equivalence" id="129935_20" ></RELATION>
+
+<RELATION theme="129935_13" party1="129935_14" party1_string="Martin" theme_string="Martin v. District of Columbia Court of Appeals" gram_type="infix" relation_type="asymmetric" id="129935_18" ></RELATION>
+
+<RELATION party2="129935_15" theme="129935_13" theme_string="Martin v. District of Columbia Court of Appeals" party2_string="District of Columbia Court of Appeals" gram_type="infix" relation_type="asymmetric" id="129935_19" ></RELATION>
+
+<RELATION at_date_string="1992" theme="129935_12" at_date="129935_16" theme_string="506 U.S. 1 (1992)" gram_type="infix" relation_type="asymmetric" id="129935_21" ></RELATION>
+

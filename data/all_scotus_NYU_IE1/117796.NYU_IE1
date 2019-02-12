@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['albrightoliver#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1215" id1="117801" volume="510" start="0" page_number="1215" standard_reporter="U.S." citation_global_level_id="104.002" line="1" id="117796_1" citation_local_level_id="0" >510 U.S. 1215</CITATION>
+
+<CITATION party2="Oliver et al" party1="Albright" citation_global_level_id="10208.001" party2_short="Oliver" line="2" id="117796_2" alternative_keys="['u.s._510_1215']" end="42" entry_type="party_key" lookup_key="albrightoliver#1" id1="112924" start="18" party1_short="Albright" citation_local_level_id="1" >Albright v. Oliver et al</CITATION>
+
+<NAME end="26" start="18" party1_of="117796_2" all_names="ALBRIGHT" local_name_id="1" id="117796_3" >Albright</NAME>
+
+<NAME end="42" start="30" all_names="OLIVER" party2_of="117796_2" local_name_id="2" id="117796_4" >Oliver et al</NAME>
+
+<DOCKET end="73" entry_type="docket" lookup_key="albrightoliver#1" id1="112924" start="67" citation_global_level_id="10208.001" line="3" id="117796_7" citation_local_level_id="1" >92-833</DOCKET>
+
+<ORGANIZATION start="79" end="109" id="117796_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="115" citation_global_level_id="10208.001" end="129" id="117796_9" citation_local_level_id="1" >March 21, 1994</DATE>
+
+<NAME start="151" local_name_id="3" end="159" id="117796_13" all_names="PETITION" >Petition</NAME>
+
+<RELATION theme="117796_2" party1="117796_3" party1_string="Albright" theme_string="Albright v. Oliver et al" gram_type="infix" relation_type="asymmetric" id="117796_5" ></RELATION>
+
+<RELATION party2="117796_4" theme="117796_2" theme_string="Albright v. Oliver et al" party2_string="Oliver et al" gram_type="infix" relation_type="asymmetric" id="117796_6" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1215" X_vs_Y_string="Albright v. Oliver et al" standard_case="117796_1" X_vs_Y="117796_2" gram_type="multi_line" relation_type="equivalence" id="117796_10" ></RELATION>
+
+<RELATION at_date_string="March 21, 1994" theme="117796_2" at_date="117796_9" theme_string="Albright v. Oliver et al" gram_type="multi_line" relation_type="asymmetric" id="117796_12" ></RELATION>
+
+<RELATION theme="117796_2" includes_docket_string="92-833" includes_docket="117796_7" theme_string="Albright v. Oliver et al" gram_type="multi_line" relation_type="asymmetric" id="117796_11" ></RELATION>
+

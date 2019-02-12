@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['restrepostates#5']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1079" id1="116468" volume="510" start="0" page_number="1079" standard_reporter="U.S." citation_global_level_id="2156.002" line="1" id="116470_1" citation_local_level_id="0" >510 U.S. 1079</CITATION>
+
+<CITATION party2="United States" party1="Restrepo" citation_global_level_id="49108.001" party2_short="States" line="1" id="116470_3" alternative_keys="['u.s._510_1079']" end="43" entry_type="party_key" lookup_key="restrepostates#5" id1="114848" start="18" party1_short="Restrepo" citation_local_level_id="1" >Restrepo v. United States</CITATION>
+
+<NAME end="26" start="18" party1_of="116470_3" all_names="RESTREPO" local_name_id="1" id="116470_4" >Restrepo</NAME>
+
+<NAME end="43" start="30" all_names="UNITED STATES" party2_of="116470_3" local_name_id="2" id="116470_5" >United States</NAME>
+
+<DOCKET end="60" entry_type="docket" lookup_key="u.s._510_1079" id1="116468" start="53" citation_global_level_id="2156.002" line="1" id="116470_2" citation_local_level_id="0" >93-7009</DOCKET>
+
+<DATE start="102" end="118" id="116470_6" >January 18, 1994</DATE>
+
+<NAME start="197" local_name_id="3" end="207" id="116470_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="243" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_3_442" id1="Dummy_File_88483" volume="3" start="232" page_number="442" standard_reporter="F.3D" citation_global_level_id="152333.001" line="3" id="116470_12" citation_local_level_id="2" >3 F. 3d 442</CITATION>
+
+<RELATION theme="116470_1" includes_docket_string="93-7009" includes_docket="116470_2" theme_string="510 U.S. 1079" gram_type="apposition" relation_type="asymmetric" id="116470_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1079" X_vs_Y_string="Restrepo v. United States" standard_case="116470_1" X_vs_Y="116470_3" gram_type="pre_nom" relation_type="equivalence" id="116470_7" ></RELATION>
+
+<RELATION theme="116470_3" includes_docket_string="93-7009" includes_docket="116470_2" theme_string="Restrepo v. United States" gram_type="apposition" relation_type="asymmetric" id="116470_10" ></RELATION>
+
+<RELATION theme="116470_3" party1="116470_4" party1_string="Restrepo" theme_string="Restrepo v. United States" gram_type="infix" relation_type="asymmetric" id="116470_8" ></RELATION>
+
+<RELATION party2="116470_5" theme="116470_3" theme_string="Restrepo v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="116470_9" ></RELATION>
+

@@ -1,0 +1,36 @@
+<CITATION alternative_keys="['greenmaynard#1', 'a._02_103']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._536_980" id1="122143" volume="536" start="0" page_number="980" standard_reporter="U.S." citation_global_level_id="7510.002" line="1" id="122143_1" citation_local_level_id="0" >536 U.S. 980</CITATION>
+
+<CITATION party2="MAYNARD, DIRECTOR, SOUTH CAROLINA DEPARTMENT OF CORRECTIONS" party1="GREEN" citation_global_level_id="7510.005" party2_short="MAYNARD" line="2" id="122143_2" alternative_keys="['a._02_103', 'u.s._536_980']" end="85" entry_type="party_key" lookup_key="greenmaynard#1" id1="122143" start="17" party1_short="GREEN" citation_local_level_id="1" >GREEN v. MAYNARD, DIRECTOR, SOUTH CAROLINA DEPARTMENT OF CORRECTIONS</CITATION>
+
+<NAME end="22" start="17" party1_of="122143_2" all_names="GREEN" local_name_id="1" id="122143_3" >GREEN</NAME>
+
+<NAME end="85" start="26" all_names="MAYNARD DIRECTOR SOUTH CAROLINA DEPARTMENT OF CORRECTIONS" party2_of="122143_2" local_name_id="2" id="122143_4" >MAYNARD, DIRECTOR, SOUTH CAROLINA DEPARTMENT OF CORRECTIONS</NAME>
+
+<DOCKET alternative_keys="['a._02_103', 'u.s._536_980']" end="102" entry_type="docket" lookup_key="greenmaynard#1" id1="122143" start="95" citation_global_level_id="7510.005" line="3" id="122143_8" citation_local_level_id="1" >02-5648</DOCKET>
+
+<CITATION alternative_keys="['u.s._536_980', 'greenmaynard#1']" end="110" reporter="A" entry_type="standard_key" lookup_key="a._02_103" id1="122143" volume="02" start="104" page_number="103" standard_reporter="A." citation_global_level_id="7510.003" line="3" id="122143_7" citation_local_level_id="2" >02A103</CITATION>
+
+<DATE start="157" citation_global_level_id="7510.005" end="172" id="122143_9" citation_local_level_id="1" >August 23, 2002</DATE>
+
+<NAME start="194" local_name_id="3" end="205" id="122143_16" all_names="APPLICATION" >Application</NAME>
+
+<PROFESSION start="267" end="280" id="122143_17" >CHIEF JUSTICE</PROFESSION>
+
+<ORGANIZATION start="309" end="314" id="122143_18" >Court</ORGANIZATION>
+
+<CITATION end="372" reporter="S. C." entry_type="standard_key" no_current_file="True" lookup_key="s.c._349_535" id1="Dummy_File_80190" volume="349" start="359" page_number="535" standard_reporter="S.C." citation_global_level_id="144040.001" line="8" id="122143_14" citation_local_level_id="3" >349 S. C. 535</CITATION>
+
+<CITATION end="389" reporter="S. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="s.e.2d_564_83" id1="Dummy_File_80191" volume="564" start="374" page_number="83" standard_reporter="S.E.2D" citation_global_level_id="144041.001" line="8" id="122143_15" citation_local_level_id="4" >564 S. E. 2d 83</CITATION>
+
+<RELATION theme="122143_2" party1="122143_3" party1_string="GREEN" theme_string="GREEN v. MAYNARD, DIRECTOR, SOUTH CAROLINA DEPARTMENT OF CORRECTIONS" gram_type="infix" relation_type="asymmetric" id="122143_5" ></RELATION>
+
+<RELATION party2="122143_4" theme="122143_2" theme_string="GREEN v. MAYNARD, DIRECTOR, SOUTH CAROLINA DEPARTMENT OF CORRECTIONS" party2_string="MAYNARD, DIRECTOR, SOUTH CAROLINA DEPARTMENT OF CORRECTIONS" gram_type="infix" relation_type="asymmetric" id="122143_6" ></RELATION>
+
+<RELATION standard_case_string="536 U.S. 980" X_vs_Y_string="GREEN v. MAYNARD, DIRECTOR, SOUTH CAROLINA DEPARTMENT OF CORRECTIONS" standard_case="122143_1" X_vs_Y="122143_2" gram_type="multi_line" relation_type="equivalence" id="122143_10" ></RELATION>
+
+<RELATION at_date_string="August 23, 2002" theme="122143_2" at_date="122143_9" theme_string="GREEN v. MAYNARD, DIRECTOR, SOUTH CAROLINA DEPARTMENT OF CORRECTIONS" gram_type="multi_line" relation_type="asymmetric" id="122143_13" ></RELATION>
+
+<RELATION standard_case_string="02A103" X_vs_Y_string="GREEN v. MAYNARD, DIRECTOR, SOUTH CAROLINA DEPARTMENT OF CORRECTIONS" standard_case="122143_7" X_vs_Y="122143_2" gram_type="multi_line" relation_type="equivalence" id="122143_11" ></RELATION>
+
+<RELATION theme="122143_2" includes_docket_string="02-5648" includes_docket="122143_8" theme_string="GREEN v. MAYNARD, DIRECTOR, SOUTH CAROLINA DEPARTMENT OF CORRECTIONS" gram_type="multi_line" relation_type="asymmetric" id="122143_12" ></RELATION>
+

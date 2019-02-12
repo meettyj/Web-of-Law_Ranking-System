@@ -1,0 +1,34 @@
+<CITATION alternative_keys="['silvermeats#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1187" id1="127105" volume="537" start="0" page_number="1187" standard_reporter="U.S." citation_global_level_id="5470.002" line="1" id="127098_1" citation_local_level_id="0" >537 U.S. 1187</CITATION>
+
+<CITATION party2="COMMACK SELF-SERVICE KOSHER MEATS, INC., DBA COMMACK KOSHER, ET AL" party1="SILVER ET AL." citation_global_level_id="5470.005" party2_short="MEATS" line="1" id="127098_3" alternative_keys="['u.s._537_1187']" end="101" entry_type="party_key" lookup_key="silvermeats#2" id1="127105" start="18" party1_short="SILVER" citation_local_level_id="1" >SILVER ET AL. v. COMMACK SELF-SERVICE KOSHER MEATS, INC., DBA COMMACK KOSHER, ET AL</CITATION>
+
+<NAME end="31" start="18" party1_of="127098_3" all_names="SILVER" local_name_id="1" id="127098_4" >SILVER ET AL.</NAME>
+
+<NAME start="18" local_name_id="1" end="30" id="127098_7" all_names="SILVER" >SILVER ET AL</NAME>
+
+<NAME end="101" start="35" all_names="COMMACK SELF-SERVICE KOSHER MEATS INC DBA COMMACK KOSHER" party2_of="127098_3" local_name_id="2" id="127098_5" >COMMACK SELF-SERVICE KOSHER MEATS, INC., DBA COMMACK KOSHER, ET AL</NAME>
+
+<ORGANIZATION start="35" end="73" id="127098_8" >COMMACK SELF-SERVICE KOSHER MEATS, INC</ORGANIZATION>
+
+<DOCKET end="117" entry_type="docket" lookup_key="u.s._537_1187" id1="127105" start="111" citation_global_level_id="5470.002" line="1" id="127098_2" citation_local_level_id="0" >02-675</DOCKET>
+
+<ORGANIZATION start="123" end="153" id="127098_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="159" end="176" id="127098_6" >February 24, 2003</DATE>
+
+<ORGANIZATION start="198" end="269" id="127098_10" >CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SECOND CIRCUIT</ORGANIZATION>
+
+<NAME start="305" local_name_id="3" end="308" id="127098_17" all_names="CIR" >Cir</NAME>
+
+<CITATION end="358" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_294_415" id1="Dummy_File_143059" volume="294" start="345" page_number="415" standard_reporter="F.3D" citation_global_level_id="206909.001" line="3" id="127098_16" citation_local_level_id="2" >294 F. 3d 415</CITATION>
+
+<RELATION theme="127098_1" includes_docket_string="02-675" includes_docket="127098_2" theme_string="537 U.S. 1187" gram_type="apposition" relation_type="asymmetric" id="127098_15" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1187" X_vs_Y_string="SILVER ET AL. v. COMMACK SELF-SERVICE KOSHER MEATS, INC., DBA COMMACK KOSHER, ET AL" standard_case="127098_1" X_vs_Y="127098_3" gram_type="pre_nom" relation_type="equivalence" id="127098_11" ></RELATION>
+
+<RELATION theme="127098_3" includes_docket_string="02-675" includes_docket="127098_2" theme_string="SILVER ET AL. v. COMMACK SELF-SERVICE KOSHER MEATS, INC., DBA COMMACK KOSHER, ET AL" gram_type="apposition" relation_type="asymmetric" id="127098_14" ></RELATION>
+
+<RELATION theme="127098_3" party1="127098_4" party1_string="SILVER ET AL." theme_string="SILVER ET AL. v. COMMACK SELF-SERVICE KOSHER MEATS, INC., DBA COMMACK KOSHER, ET AL" gram_type="infix" relation_type="asymmetric" id="127098_12" ></RELATION>
+
+<RELATION party2="127098_5" theme="127098_3" theme_string="SILVER ET AL. v. COMMACK SELF-SERVICE KOSHER MEATS, INC., DBA COMMACK KOSHER, ET AL" party2_string="COMMACK SELF-SERVICE KOSHER MEATS, INC., DBA COMMACK KOSHER, ET AL" gram_type="infix" relation_type="asymmetric" id="127098_13" ></RELATION>
+

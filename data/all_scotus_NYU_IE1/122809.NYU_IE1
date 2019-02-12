@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['pippintexas#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_845" id1="122810" volume="537" start="0" page_number="845" standard_reporter="U.S." citation_global_level_id="5095.002" line="1" id="122809_1" citation_local_level_id="0" >537 U.S. 845</CITATION>
+
+<CITATION party2="TEXAS" party1="PIPPIN" citation_global_level_id="43074.001" party2_short="TEXAS" line="1" id="122809_3" alternative_keys="['u.s._537_845']" end="32" entry_type="party_key" lookup_key="pippintexas#1" id1="122809" start="17" party1_short="PIPPIN" citation_local_level_id="1" >PIPPIN v. TEXAS</CITATION>
+
+<NAME end="23" start="17" party1_of="122809_3" all_names="PIPPIN" local_name_id="1" id="122809_4" >PIPPIN</NAME>
+
+<NAME end="32" start="27" all_names="TEXAS" party2_of="122809_3" local_name_id="2" id="122809_5" >TEXAS</NAME>
+
+<DOCKET end="50" entry_type="docket" lookup_key="u.s._537_845" id1="122810" start="42" citation_global_level_id="5095.002" line="1" id="122809_2" citation_local_level_id="0" >01-10445</DOCKET>
+
+<DATE start="92" end="107" id="122809_6" >October 7, 2002</DATE>
+
+<NAME start="208" local_name_id="3" end="210" id="122809_12" all_names="CT" >Ct</NAME>
+
+<RELATION theme="122809_1" includes_docket_string="01-10445" includes_docket="122809_2" theme_string="537 U.S. 845" gram_type="apposition" relation_type="asymmetric" id="122809_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 845" X_vs_Y_string="PIPPIN v. TEXAS" standard_case="122809_1" X_vs_Y="122809_3" gram_type="pre_nom" relation_type="equivalence" id="122809_7" ></RELATION>
+
+<RELATION theme="122809_3" includes_docket_string="01-10445" includes_docket="122809_2" theme_string="PIPPIN v. TEXAS" gram_type="apposition" relation_type="asymmetric" id="122809_10" ></RELATION>
+
+<RELATION theme="122809_3" party1="122809_4" party1_string="PIPPIN" theme_string="PIPPIN v. TEXAS" gram_type="infix" relation_type="asymmetric" id="122809_8" ></RELATION>
+
+<RELATION party2="122809_5" theme="122809_3" theme_string="PIPPIN v. TEXAS" party2_string="TEXAS" gram_type="infix" relation_type="asymmetric" id="122809_9" ></RELATION>
+

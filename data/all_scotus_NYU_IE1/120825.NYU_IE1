@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['departmentbank#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1097" id1="120824" volume="535" start="0" page_number="1097" standard_reporter="U.S." citation_global_level_id="763.002" line="1" id="120825_1" citation_local_level_id="0" >535 U.S. 1097</CITATION>
+
+<CITATION party2="CHASE BANK OF TEXAS NATIONAL ASSN" party1="FLORIDA DEPARTMENT OF INSURANCE" citation_global_level_id="8770.001" party2_short="BANK" line="2" id="120825_2" alternative_keys="['u.s._535_1097']" end="86" entry_type="party_key" lookup_key="departmentbank#1" id1="120825" start="18" party1_short="DEPARTMENT" citation_local_level_id="1" >FLORIDA DEPARTMENT OF INSURANCE v. CHASE BANK OF TEXAS NATIONAL ASSN</CITATION>
+
+<NAME end="49" start="18" party1_of="120825_2" all_names="FLORIDA DEPARTMENT OF INSURANCE" local_name_id="1" id="120825_3" >FLORIDA DEPARTMENT OF INSURANCE</NAME>
+
+<NAME end="86" start="53" all_names="CHASE BANK OF TEXAS NATIONAL ASSN" party2_of="120825_2" local_name_id="2" id="120825_4" >CHASE BANK OF TEXAS NATIONAL ASSN</NAME>
+
+<DOCKET end="103" entry_type="docket" lookup_key="departmentbank#1" id1="120825" start="96" citation_global_level_id="8770.001" line="3" id="120825_7" citation_local_level_id="1" >01-1472</DOCKET>
+
+<DATE start="149" citation_global_level_id="8770.001" end="161" id="120825_8" citation_local_level_id="1" >May 28, 2002</DATE>
+
+<NAME start="193" local_name_id="3" end="196" id="120825_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="246" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_274_924" id1="Dummy_File_212454" volume="274" start="233" page_number="924" standard_reporter="F.3D" citation_global_level_id="276304.001" line="8" id="120825_12" citation_local_level_id="2" >274 F. 3d 924</CITATION>
+
+<RELATION theme="120825_2" party1="120825_3" party1_string="FLORIDA DEPARTMENT OF INSURANCE" theme_string="FLORIDA DEPARTMENT OF INSURANCE v. CHASE BANK OF TEXAS NATIONAL ASSN" gram_type="infix" relation_type="asymmetric" id="120825_5" ></RELATION>
+
+<RELATION party2="120825_4" theme="120825_2" theme_string="FLORIDA DEPARTMENT OF INSURANCE v. CHASE BANK OF TEXAS NATIONAL ASSN" party2_string="CHASE BANK OF TEXAS NATIONAL ASSN" gram_type="infix" relation_type="asymmetric" id="120825_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1097" X_vs_Y_string="FLORIDA DEPARTMENT OF INSURANCE v. CHASE BANK OF TEXAS NATIONAL ASSN" standard_case="120825_1" X_vs_Y="120825_2" gram_type="multi_line" relation_type="equivalence" id="120825_9" ></RELATION>
+
+<RELATION at_date_string="May 28, 2002" theme="120825_2" at_date="120825_8" theme_string="FLORIDA DEPARTMENT OF INSURANCE v. CHASE BANK OF TEXAS NATIONAL ASSN" gram_type="multi_line" relation_type="asymmetric" id="120825_11" ></RELATION>
+
+<RELATION theme="120825_2" includes_docket_string="01-1472" includes_docket="120825_7" theme_string="FLORIDA DEPARTMENT OF INSURANCE v. CHASE BANK OF TEXAS NATIONAL ASSN" gram_type="multi_line" relation_type="asymmetric" id="120825_10" ></RELATION>
+

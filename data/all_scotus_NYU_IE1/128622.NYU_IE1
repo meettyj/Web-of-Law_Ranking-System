@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['doylestates#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_955" id1="128610" volume="538" start="0" page_number="955" standard_reporter="U.S." citation_global_level_id="1540.002" line="1" id="128622_1" citation_local_level_id="0" >538 U.S. 955</CITATION>
+
+<CITATION party2="UNITED STATES" party1="DOYLE" citation_global_level_id="47467.001" party2_short="STATES" line="1" id="128622_3" alternative_keys="['u.s._538_955']" end="39" entry_type="party_key" lookup_key="doylestates#2" id1="128622" start="17" party1_short="DOYLE" citation_local_level_id="1" >DOYLE v. UNITED STATES</CITATION>
+
+<NAME end="22" start="17" party1_of="128622_3" all_names="DOYLE" local_name_id="1" id="128622_4" >DOYLE</NAME>
+
+<NAME end="39" start="26" all_names="UNITED STATES" party2_of="128622_3" local_name_id="2" id="128622_5" >UNITED STATES</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._538_955" id1="128610" start="49" citation_global_level_id="1540.002" line="1" id="128622_2" citation_local_level_id="0" >02-9219</DOCKET>
+
+<DATE start="98" end="112" id="128622_6" >March 31, 2003</DATE>
+
+<NAME start="243" local_name_id="3" end="246" id="128622_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="128622_1" includes_docket_string="02-9219" includes_docket="128622_2" theme_string="538 U.S. 955" gram_type="apposition" relation_type="asymmetric" id="128622_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 955" X_vs_Y_string="DOYLE v. UNITED STATES" standard_case="128622_1" X_vs_Y="128622_3" gram_type="pre_nom" relation_type="equivalence" id="128622_7" ></RELATION>
+
+<RELATION theme="128622_3" includes_docket_string="02-9219" includes_docket="128622_2" theme_string="DOYLE v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="128622_10" ></RELATION>
+
+<RELATION theme="128622_3" party1="128622_4" party1_string="DOYLE" theme_string="DOYLE v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="128622_8" ></RELATION>
+
+<RELATION party2="128622_5" theme="128622_3" theme_string="DOYLE v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="128622_9" ></RELATION>
+

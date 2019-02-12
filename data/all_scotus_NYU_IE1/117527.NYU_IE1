@@ -1,0 +1,54 @@
+<CITATION alternative_keys="['lambrightarizona#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1185" id1="117521" volume="510" start="0" page_number="1185" standard_reporter="U.S." citation_global_level_id="3735.002" line="1" id="117527_1" citation_local_level_id="0" >510 U.S. 1185</CITATION>
+
+<CITATION party2="Arizona" party1="Lambright" citation_global_level_id="4907.001" party2_short="Arizona" line="1" id="117527_3" alternative_keys="['u.s._510_1185']" end="38" entry_type="party_key" lookup_key="lambrightarizona#1" id1="117527" start="18" party1_short="Lambright" citation_local_level_id="1" >Lambright v. Arizona</CITATION>
+
+<NAME end="27" start="18" party1_of="117527_3" all_names="LAMBRIGHT" local_name_id="1" id="117527_4" >Lambright</NAME>
+
+<NAME end="38" start="31" all_names="ARIZONA" party2_of="117527_3" local_name_id="2" id="117527_5" >Arizona</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._510_1185" id1="117521" start="48" citation_global_level_id="3735.002" line="1" id="117527_2" citation_local_level_id="0" >93-7682</DOCKET>
+
+<DATE start="97" end="110" id="117527_6" >March 7, 1994</DATE>
+
+<NAME start="176" local_name_id="3" end="186" id="117527_18" all_names="CERTIORARI" >Certiorari</NAME>
+
+<DOCKET entry_type="docket" line="2" end="222" id="117527_15" start="215" >93-7039</DOCKET>
+
+<CITATION end="238" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_998_1287" id1="Dummy_File_9591" volume="998" start="224" page_number="1287" standard_reporter="F.2D" citation_global_level_id="73441.001" line="2" id="117527_12" citation_local_level_id="2" >998 F. 2d 1287</CITATION>
+
+<DOCKET entry_type="docket" line="2" end="251" id="117527_16" start="244" >93-7230</DOCKET>
+
+<CITATION end="269" reporter="S. W. 2d" entry_type="standard_key" no_current_file="True" lookup_key="s.w.2d_864_499" id1="Dummy_File_9592" volume="864" start="253" page_number="499" standard_reporter="S.W.2D" citation_global_level_id="73442.001" line="2" id="117527_13" citation_local_level_id="3" >864 S. W. 2d 499</CITATION>
+
+<DOCKET entry_type="docket" line="2" end="282" id="117527_17" start="275" >93-7322</DOCKET>
+
+<CITATION end="320" reporter="N. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.e.2d_616_921" id1="Dummy_File_9593" volume="616" start="304" page_number="921" standard_reporter="N.E.2D" citation_global_level_id="73443.001" line="2" id="117527_14" citation_local_level_id="4" >616 N. E. 2d 921</CITATION>
+
+<PROFESSION start="328" document_level_name_id="4" end="335" id="117527_19" party="BLACKMUN" >JUSTICE</PROFESSION>
+
+<NAME start="336" local_name_id="4" end="344" id="117527_20" all_names="BLACKMUN" >BLACKMUN</NAME>
+
+<NAME start="481" local_name_id="5" end="493" id="117527_25" all_names="CONSTITUTION" >Constitution</NAME>
+
+<CITATION party2="Collins" party1="Callins" citation_global_level_id="410.004" party2_short="Collins" line="7" id="117527_22" alternative_keys="['u.s._510_1141']" end="531" entry_type="party_key" lookup_key="callinscollins#1" id1="117187" start="513" party1_short="Callins" citation_local_level_id="5" >Callins v. Collins</CITATION>
+
+<NAME end="520" start="513" party1_of="117527_22" all_names="CALLINS" local_name_id="6" id="117527_23" >Callins</NAME>
+
+<NAME end="531" start="524" all_names="COLLINS" party2_of="117527_22" local_name_id="7" id="117527_24" >Collins</NAME>
+
+<RELATION theme="117527_1" includes_docket_string="93-7682" includes_docket="117527_2" theme_string="510 U.S. 1185" gram_type="apposition" relation_type="asymmetric" id="117527_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1185" X_vs_Y_string="Lambright v. Arizona" standard_case="117527_1" X_vs_Y="117527_3" gram_type="pre_nom" relation_type="equivalence" id="117527_7" ></RELATION>
+
+<RELATION theme="117527_3" includes_docket_string="93-7682" includes_docket="117527_2" theme_string="Lambright v. Arizona" gram_type="apposition" relation_type="asymmetric" id="117527_10" ></RELATION>
+
+<RELATION theme="117527_3" party1="117527_4" party1_string="Lambright" theme_string="Lambright v. Arizona" gram_type="infix" relation_type="asymmetric" id="117527_8" ></RELATION>
+
+<RELATION party2="117527_5" theme="117527_3" theme_string="Lambright v. Arizona" party2_string="Arizona" gram_type="infix" relation_type="asymmetric" id="117527_9" ></RELATION>
+
+<RELATION theme="117527_20" profession_string="JUSTICE" theme_string="BLACKMUN" profession="117527_19" gram_type="pre_nom" relation_type="asymmetric" id="117527_21" ></RELATION>
+
+<RELATION theme="117527_22" party1="117527_23" party1_string="Callins" theme_string="Callins v. Collins" gram_type="infix" relation_type="asymmetric" id="117527_26" ></RELATION>
+
+<RELATION party2="117527_24" theme="117527_22" theme_string="Callins v. Collins" party2_string="Collins" gram_type="infix" relation_type="asymmetric" id="117527_27" ></RELATION>
+

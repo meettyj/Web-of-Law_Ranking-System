@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['bughbradshaw#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_930" id1="132866" volume="540" start="0" page_number="930" standard_reporter="U.S." citation_global_level_id="1182.002" line="1" id="132858_1" citation_local_level_id="0" >540 U.S. 930</CITATION>
+
+<CITATION party2="BRADSHAW, WARDEN" party1="BUGH" citation_global_level_id="1182.005" party2_short="BRADSHAW" line="1" id="132858_3" alternative_keys="['u.s._540_930']" end="41" entry_type="party_key" lookup_key="bughbradshaw#1" id1="132866" start="17" party1_short="BUGH" citation_local_level_id="1" >BUGH v. BRADSHAW, WARDEN</CITATION>
+
+<NAME end="21" start="17" party1_of="132858_3" all_names="BUGH" local_name_id="1" id="132858_4" >BUGH</NAME>
+
+<NAME end="41" start="25" all_names="BRADSHAW WARDEN" party2_of="132858_3" local_name_id="2" id="132858_5" >BRADSHAW, WARDEN</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._540_930" id1="132866" start="51" citation_global_level_id="1182.002" line="1" id="132858_2" citation_local_level_id="0" >03-5908</DOCKET>
+
+<DATE start="100" end="115" id="132858_6" >October 6, 2003</DATE>
+
+<NAME start="193" local_name_id="3" end="203" id="132858_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="241" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_329_496" id1="Dummy_File_209220" volume="329" start="228" page_number="496" standard_reporter="F.3D" citation_global_level_id="273070.001" line="3" id="132858_12" citation_local_level_id="2" >329 F. 3d 496</CITATION>
+
+<RELATION theme="132858_1" includes_docket_string="03-5908" includes_docket="132858_2" theme_string="540 U.S. 930" gram_type="apposition" relation_type="asymmetric" id="132858_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 930" X_vs_Y_string="BUGH v. BRADSHAW, WARDEN" standard_case="132858_1" X_vs_Y="132858_3" gram_type="pre_nom" relation_type="equivalence" id="132858_7" ></RELATION>
+
+<RELATION theme="132858_3" includes_docket_string="03-5908" includes_docket="132858_2" theme_string="BUGH v. BRADSHAW, WARDEN" gram_type="apposition" relation_type="asymmetric" id="132858_10" ></RELATION>
+
+<RELATION theme="132858_3" party1="132858_4" party1_string="BUGH" theme_string="BUGH v. BRADSHAW, WARDEN" gram_type="infix" relation_type="asymmetric" id="132858_8" ></RELATION>
+
+<RELATION party2="132858_5" theme="132858_3" theme_string="BUGH v. BRADSHAW, WARDEN" party2_string="BRADSHAW, WARDEN" gram_type="infix" relation_type="asymmetric" id="132858_9" ></RELATION>
+

@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['binkleycity#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1194" id1="117597" volume="510" start="0" page_number="1194" standard_reporter="U.S." citation_global_level_id="44.002" line="1" id="117600_1" citation_local_level_id="0" >510 U.S. 1194</CITATION>
+
+<CITATION party2="City of Long Beach et al" party1="Binkley" citation_global_level_id="42017.001" party2_short="City" line="1" id="117600_3" alternative_keys="['u.s._510_1194']" end="53" entry_type="party_key" lookup_key="binkleycity#1" id1="117600" start="18" party1_short="Binkley" citation_local_level_id="1" >Binkley v. City of Long Beach et al</CITATION>
+
+<NAME end="25" start="18" party1_of="117600_3" all_names="BINKLEY" local_name_id="1" id="117600_4" >Binkley</NAME>
+
+<NAME end="53" start="29" all_names="CITY OF LONG BEACH" party2_of="117600_3" local_name_id="2" id="117600_5" >City of Long Beach et al</NAME>
+
+<DOCKET end="70" entry_type="docket" lookup_key="u.s._510_1194" id1="117597" start="63" citation_global_level_id="44.002" line="1" id="117600_2" citation_local_level_id="0" >93-1194</DOCKET>
+
+<DATE start="112" end="126" id="117600_6" >March 21, 1994</DATE>
+
+<NAME start="218" local_name_id="3" end="228" id="117600_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<DATE start="270" end="274" id="117600_13" >1795</DATE>
+
+<CITATION end="296" reporter="Cal. Rptr. 2d" entry_type="standard_key" no_current_file="True" lookup_key="cal.rptr.2d_20_903" id1="Dummy_File_145581" volume="20" start="276" page_number="903" standard_reporter="CAL.RPTR.2D" citation_global_level_id="209431.001" line="3" id="117600_12" citation_local_level_id="2" >20 Cal. Rptr. 2d 903</CITATION>
+
+<RELATION theme="117600_1" includes_docket_string="93-1194" includes_docket="117600_2" theme_string="510 U.S. 1194" gram_type="apposition" relation_type="asymmetric" id="117600_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1194" X_vs_Y_string="Binkley v. City of Long Beach et al" standard_case="117600_1" X_vs_Y="117600_3" gram_type="pre_nom" relation_type="equivalence" id="117600_7" ></RELATION>
+
+<RELATION theme="117600_3" includes_docket_string="93-1194" includes_docket="117600_2" theme_string="Binkley v. City of Long Beach et al" gram_type="apposition" relation_type="asymmetric" id="117600_10" ></RELATION>
+
+<RELATION theme="117600_3" party1="117600_4" party1_string="Binkley" theme_string="Binkley v. City of Long Beach et al" gram_type="infix" relation_type="asymmetric" id="117600_8" ></RELATION>
+
+<RELATION party2="117600_5" theme="117600_3" theme_string="Binkley v. City of Long Beach et al" party2_string="City of Long Beach et al" gram_type="infix" relation_type="asymmetric" id="117600_9" ></RELATION>
+
+<RELATION at_date_string="1795" theme="117600_12" at_date="117600_13" theme_string="20 Cal. Rptr. 2d 903" gram_type="apposition" relation_type="asymmetric" id="117600_15" ></RELATION>
+

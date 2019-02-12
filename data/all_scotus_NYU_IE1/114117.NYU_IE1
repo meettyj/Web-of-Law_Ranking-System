@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['blanchettecstates#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_894" id1="114121" volume="510" start="0" page_number="894" standard_reporter="U.S." citation_global_level_id="591.002" line="1" id="114117_1" citation_local_level_id="0" >510 U.S. 894</CITATION>
+
+<CITATION party2="United States" party1="Blanchettec" citation_global_level_id="9253.001" party2_short="States" line="1" id="114117_3" alternative_keys="['u.s._510_894']" end="45" entry_type="party_key" lookup_key="blanchettecstates#1" id1="114117" start="17" party1_short="Blanchettec" citation_local_level_id="1" >Blanchettec v. United States</CITATION>
+
+<NAME end="28" start="17" party1_of="114117_3" all_names="BLANCHETTEC" local_name_id="1" id="114117_4" >Blanchettec</NAME>
+
+<NAME end="45" start="32" all_names="UNITED STATES" party2_of="114117_3" local_name_id="2" id="114117_5" >United States</NAME>
+
+<DOCKET end="62" entry_type="docket" lookup_key="u.s._510_894" id1="114121" start="55" citation_global_level_id="591.002" line="1" id="114117_2" citation_local_level_id="0" >93-5446</DOCKET>
+
+<DATE start="104" end="119" id="114117_6" >October 4, 1993</DATE>
+
+<NAME start="197" local_name_id="3" end="207" id="114117_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="245" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_993_229" id1="Dummy_File_30819" volume="993" start="232" page_number="229" standard_reporter="F.2D" citation_global_level_id="94669.001" line="3" id="114117_12" citation_local_level_id="2" >993 F. 2d 229</CITATION>
+
+<RELATION theme="114117_1" includes_docket_string="93-5446" includes_docket="114117_2" theme_string="510 U.S. 894" gram_type="apposition" relation_type="asymmetric" id="114117_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 894" X_vs_Y_string="Blanchettec v. United States" standard_case="114117_1" X_vs_Y="114117_3" gram_type="pre_nom" relation_type="equivalence" id="114117_7" ></RELATION>
+
+<RELATION theme="114117_3" includes_docket_string="93-5446" includes_docket="114117_2" theme_string="Blanchettec v. United States" gram_type="apposition" relation_type="asymmetric" id="114117_10" ></RELATION>
+
+<RELATION theme="114117_3" party1="114117_4" party1_string="Blanchettec" theme_string="Blanchettec v. United States" gram_type="infix" relation_type="asymmetric" id="114117_8" ></RELATION>
+
+<RELATION party2="114117_5" theme="114117_3" theme_string="Blanchettec v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="114117_9" ></RELATION>
+

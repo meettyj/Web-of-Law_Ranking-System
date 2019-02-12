@@ -1,0 +1,40 @@
+<CITATION alternative_keys="['stanleyinsurance#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1189" id1="117533" volume="510" start="0" page_number="1189" standard_reporter="U.S." citation_global_level_id="1616.002" line="1" id="117533_1" citation_local_level_id="0" >510 U.S. 1189</CITATION>
+
+<CITATION party2="Pacific Mutual Life Insurance Co. et al" party1="Morgan Stanley &amp; Co. Inc. et al." citation_global_level_id="1616.003" party2_short="Insurance" line="1" id="117533_3" alternative_keys="['u.s._510_1189']" end="93" entry_type="party_key" lookup_key="stanleyinsurance#1" id1="117533" start="18" party1_short="Stanley" citation_local_level_id="1" >Morgan Stanley &amp; Co. Inc. et al. v. Pacific Mutual Life Insurance Co. et al</CITATION>
+
+<NAME end="50" start="18" party1_of="117533_3" all_names="MORGAN STANLEY &amp; CO INC" local_name_id="1" id="117533_4" >Morgan Stanley &amp; Co. Inc. et al.</NAME>
+
+<ORGANIZATION start="18" end="42" id="117533_7" >Morgan Stanley &amp; Co. Inc</ORGANIZATION>
+
+<NAME end="93" start="54" all_names="PACIFIC MUTUAL LIFE INSURANCE CO" party2_of="117533_3" local_name_id="2" id="117533_5" >Pacific Mutual Life Insurance Co. et al</NAME>
+
+<ORGANIZATION start="54" end="86" id="117533_8" >Pacific Mutual Life Insurance Co</ORGANIZATION>
+
+<DOCKET end="109" entry_type="docket" lookup_key="u.s._510_1189" id1="117533" start="103" citation_global_level_id="1616.002" line="1" id="117533_2" citation_local_level_id="0" >93-609</DOCKET>
+
+<ORGANIZATION start="115" end="145" id="117533_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="151" end="165" id="117533_6" >March 21, 1994</DATE>
+
+<NAME start="187" local_name_id="3" end="204" id="117533_10" all_names="APPEAL FROM THE C" >Appeal from the C</NAME>
+
+<NAME start="213" local_name_id="4" end="216" id="117533_11" all_names="CIR" >Cir</NAME>
+
+<LEGAL_ROLE start="280" end="301" plural="True" id="117533_17" >Motion of respondents</LEGAL_ROLE>
+
+<PROFESSION start="332" document_level_name_id="5" end="339" id="117533_18" party="O'CONNOR" >JUSTICE</PROFESSION>
+
+<NAME start="340" local_name_id="5" end="348" id="117533_19" all_names="O'CONNOR" >O'CONNOR</NAME>
+
+<RELATION theme="117533_1" includes_docket_string="93-609" includes_docket="117533_2" theme_string="510 U.S. 1189" gram_type="apposition" relation_type="asymmetric" id="117533_16" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1189" X_vs_Y_string="Morgan Stanley &amp; Co. Inc. et al. v. Pacific Mutual Life Insurance Co. et al" standard_case="117533_1" X_vs_Y="117533_3" gram_type="pre_nom" relation_type="equivalence" id="117533_12" ></RELATION>
+
+<RELATION theme="117533_3" includes_docket_string="93-609" includes_docket="117533_2" theme_string="Morgan Stanley &amp; Co. Inc. et al. v. Pacific Mutual Life Insurance Co. et al" gram_type="apposition" relation_type="asymmetric" id="117533_15" ></RELATION>
+
+<RELATION theme="117533_3" party1="117533_4" party1_string="Morgan Stanley &amp; Co. Inc. et al." theme_string="Morgan Stanley &amp; Co. Inc. et al. v. Pacific Mutual Life Insurance Co. et al" gram_type="infix" relation_type="asymmetric" id="117533_13" ></RELATION>
+
+<RELATION party2="117533_5" theme="117533_3" theme_string="Morgan Stanley &amp; Co. Inc. et al. v. Pacific Mutual Life Insurance Co. et al" party2_string="Pacific Mutual Life Insurance Co. et al" gram_type="infix" relation_type="asymmetric" id="117533_14" ></RELATION>
+
+<RELATION theme="117533_19" profession_string="JUSTICE" theme_string="O'CONNOR" profession="117533_18" gram_type="pre_nom" relation_type="asymmetric" id="117533_20" ></RELATION>
+

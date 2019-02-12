@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['kellysmith#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1011" id1="115608" volume="510" start="0" page_number="1011" standard_reporter="U.S." citation_global_level_id="1007.002" line="1" id="115612_1" citation_local_level_id="0" >510 U.S. 1011</CITATION>
+
+<CITATION party2="Merrill Lynch, Pierce, Fenner &amp; Smith, Inc" party1="Kelly et al." citation_global_level_id="1007.006" party2_short="Smith" line="1" id="115612_3" alternative_keys="['u.s._510_1011']" end="76" entry_type="party_key" lookup_key="kellysmith#2" id1="115608" start="18" party1_short="Kelly" citation_local_level_id="1" >Kelly et al. v. Merrill Lynch, Pierce, Fenner &amp; Smith, Inc</CITATION>
+
+<NAME end="30" start="18" party1_of="115612_3" all_names="KELLY" local_name_id="1" id="115612_4" >Kelly et al.</NAME>
+
+<NAME start="18" local_name_id="1" end="23" id="115612_7" all_names="KELLY" >Kelly</NAME>
+
+<NAME end="76" start="34" all_names="MERRILL LYNCH PIERCE FENNER &amp; SMITH INC" party2_of="115612_3" local_name_id="2" id="115612_5" >Merrill Lynch, Pierce, Fenner &amp; Smith, Inc</NAME>
+
+<DOCKET end="92" entry_type="docket" lookup_key="u.s._510_1011" id1="115608" start="86" citation_global_level_id="1007.002" line="1" id="115612_2" citation_local_level_id="0" >93-486</DOCKET>
+
+<DATE start="134" end="150" id="115612_6" >December 6, 1993</DATE>
+
+<NAME start="229" local_name_id="3" end="239" id="115612_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="278" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_985_1067" id1="Dummy_File_63434" volume="985" start="264" page_number="1067" standard_reporter="F.2D" citation_global_level_id="127284.001" line="3" id="115612_13" citation_local_level_id="2" >985 F. 2d 1067</CITATION>
+
+<RELATION theme="115612_1" includes_docket_string="93-486" includes_docket="115612_2" theme_string="510 U.S. 1011" gram_type="apposition" relation_type="asymmetric" id="115612_12" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1011" X_vs_Y_string="Kelly et al. v. Merrill Lynch, Pierce, Fenner &amp; Smith, Inc" standard_case="115612_1" X_vs_Y="115612_3" gram_type="pre_nom" relation_type="equivalence" id="115612_8" ></RELATION>
+
+<RELATION theme="115612_3" includes_docket_string="93-486" includes_docket="115612_2" theme_string="Kelly et al. v. Merrill Lynch, Pierce, Fenner &amp; Smith, Inc" gram_type="apposition" relation_type="asymmetric" id="115612_11" ></RELATION>
+
+<RELATION party2="115612_5" theme="115612_3" theme_string="Kelly et al. v. Merrill Lynch, Pierce, Fenner &amp; Smith, Inc" party2_string="Merrill Lynch, Pierce, Fenner &amp; Smith, Inc" gram_type="infix" relation_type="asymmetric" id="115612_10" ></RELATION>
+
+<RELATION theme="115612_3" party1="115612_4" party1_string="Kelly et al." theme_string="Kelly et al. v. Merrill Lynch, Pierce, Fenner &amp; Smith, Inc" gram_type="infix" relation_type="asymmetric" id="115612_9" ></RELATION>
+

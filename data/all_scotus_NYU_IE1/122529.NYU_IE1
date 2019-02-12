@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['linesferris#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_824" id1="122538" volume="537" start="0" page_number="824" standard_reporter="U.S." citation_global_level_id="480.002" line="1" id="122529_1" citation_local_level_id="0" >537 U.S. 824</CITATION>
+
+<CITATION party2="FERRIS" party1="DELTA AIR LINES, INC." citation_global_level_id="15823.001" party2_short="FERRIS" line="1" id="122529_3" alternative_keys="['u.s._537_824']" end="48" entry_type="party_key" lookup_key="linesferris#1" id1="122529" start="17" party1_short="LINES" citation_local_level_id="1" >DELTA AIR LINES, INC. v. FERRIS</CITATION>
+
+<NAME end="38" start="17" party1_of="122529_3" all_names="DELTA AIR LINES INC" local_name_id="1" id="122529_4" >DELTA AIR LINES, INC.</NAME>
+
+<ORGANIZATION start="17" end="37" id="122529_8" >DELTA AIR LINES, INC</ORGANIZATION>
+
+<NAME end="48" start="42" all_names="FERRIS" party2_of="122529_3" local_name_id="2" id="122529_5" >FERRIS</NAME>
+
+<DOCKET end="65" entry_type="docket" lookup_key="u.s._537_824" id1="122538" start="58" citation_global_level_id="480.002" line="1" id="122529_2" citation_local_level_id="0" >01-1829</DOCKET>
+
+<DATE start="61" end="65" id="122529_6" >1829</DATE>
+
+<DATE start="107" end="122" id="122529_7" >October 7, 2002</DATE>
+
+<NAME start="251" local_name_id="3" end="254" id="122529_16" all_names="CIR" >Cir</NAME>
+
+<CITATION end="304" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_277_128" id1="Dummy_File_71010" volume="277" start="291" page_number="128" standard_reporter="F.3D" citation_global_level_id="134860.001" line="3" id="122529_15" citation_local_level_id="2" >277 F. 3d 128</CITATION>
+
+<RELATION theme="122529_1" includes_docket_string="01-1829" includes_docket="122529_2" theme_string="537 U.S. 824" gram_type="apposition" relation_type="asymmetric" id="122529_13" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 824" X_vs_Y_string="DELTA AIR LINES, INC. v. FERRIS" standard_case="122529_1" X_vs_Y="122529_3" gram_type="pre_nom" relation_type="equivalence" id="122529_9" ></RELATION>
+
+<RELATION theme="122529_3" includes_docket_string="01-1829" includes_docket="122529_2" theme_string="DELTA AIR LINES, INC. v. FERRIS" gram_type="apposition" relation_type="asymmetric" id="122529_12" ></RELATION>
+
+<RELATION theme="122529_3" party1="122529_4" party1_string="DELTA AIR LINES, INC." theme_string="DELTA AIR LINES, INC. v. FERRIS" gram_type="infix" relation_type="asymmetric" id="122529_10" ></RELATION>
+
+<RELATION party2="122529_5" theme="122529_3" theme_string="DELTA AIR LINES, INC. v. FERRIS" party2_string="FERRIS" gram_type="infix" relation_type="asymmetric" id="122529_11" ></RELATION>
+
+<RELATION at_date_string="1829" theme="122529_2" at_date="122529_6" theme_string="01-1829" gram_type="infix" relation_type="asymmetric" id="122529_14" ></RELATION>
+

@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['hutchparsons#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_832" id1="131554" volume="540" start="0" page_number="832" standard_reporter="U.S." citation_global_level_id="195.002" line="1" id="131548_1" citation_local_level_id="0" >540 U.S. 832</CITATION>
+
+<CITATION party2="PARSONS ET AL" party1="HUTCH" citation_global_level_id="46880.001" party2_short="PARSONS" line="1" id="131548_3" alternative_keys="['u.s._540_832']" end="39" entry_type="party_key" lookup_key="hutchparsons#1" id1="131548" start="17" party1_short="HUTCH" citation_local_level_id="1" >HUTCH v. PARSONS ET AL</CITATION>
+
+<NAME end="22" start="17" party1_of="131548_3" all_names="HUTCH" local_name_id="1" id="131548_4" >HUTCH</NAME>
+
+<NAME end="39" start="26" all_names="PARSONS" party2_of="131548_3" local_name_id="2" id="131548_5" >PARSONS ET AL</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._540_832" id1="131554" start="49" citation_global_level_id="195.002" line="1" id="131548_2" citation_local_level_id="0" >02-10611</DOCKET>
+
+<DATE start="99" end="114" id="131548_6" >October 6, 2003</DATE>
+
+<NAME start="196" local_name_id="3" end="206" id="131548_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="242" reporter="Haw." entry_type="standard_key" no_current_file="True" lookup_key="haw._101_45" id1="Dummy_File_180696" volume="101" start="231" page_number="45" standard_reporter="HAW." citation_global_level_id="244546.001" line="3" id="131548_12" citation_local_level_id="2" >101 Haw. 45</CITATION>
+
+<CITATION end="256" reporter="P. 3d" entry_type="standard_key" no_current_file="True" lookup_key="p.3d_61_556" id1="Dummy_File_180697" volume="61" start="244" page_number="556" standard_reporter="P.3D" citation_global_level_id="244547.001" line="3" id="131548_13" citation_local_level_id="3" >61 P. 3d 556</CITATION>
+
+<RELATION theme="131548_1" includes_docket_string="02-10611" includes_docket="131548_2" theme_string="540 U.S. 832" gram_type="apposition" relation_type="asymmetric" id="131548_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 832" X_vs_Y_string="HUTCH v. PARSONS ET AL" standard_case="131548_1" X_vs_Y="131548_3" gram_type="pre_nom" relation_type="equivalence" id="131548_7" ></RELATION>
+
+<RELATION theme="131548_3" includes_docket_string="02-10611" includes_docket="131548_2" theme_string="HUTCH v. PARSONS ET AL" gram_type="apposition" relation_type="asymmetric" id="131548_10" ></RELATION>
+
+<RELATION theme="131548_3" party1="131548_4" party1_string="HUTCH" theme_string="HUTCH v. PARSONS ET AL" gram_type="infix" relation_type="asymmetric" id="131548_8" ></RELATION>
+
+<RELATION party2="131548_5" theme="131548_3" theme_string="HUTCH v. PARSONS ET AL" party2_string="PARSONS ET AL" gram_type="infix" relation_type="asymmetric" id="131548_9" ></RELATION>
+

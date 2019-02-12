@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['woodsstates#9']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1004" id1="115503" volume="510" start="0" page_number="1004" standard_reporter="U.S." citation_global_level_id="7385.002" line="1" id="115497_1" citation_local_level_id="0" >510 U.S. 1004</CITATION>
+
+<CITATION party2="United States" party1="Woods" citation_global_level_id="52487.001" party2_short="States" line="2" id="115497_2" alternative_keys="['u.s._510_1004']" end="40" entry_type="party_key" lookup_key="woodsstates#9" id1="125271" start="18" party1_short="Woods" citation_local_level_id="1" >Woods v. United States</CITATION>
+
+<NAME end="23" start="18" party1_of="115497_2" all_names="WOODS" local_name_id="1" id="115497_3" >Woods</NAME>
+
+<NAME end="40" start="27" all_names="UNITED STATES" party2_of="115497_2" local_name_id="2" id="115497_4" >United States</NAME>
+
+<DOCKET end="71" entry_type="docket" lookup_key="woodsstates#9" id1="125271" start="64" citation_global_level_id="52487.001" line="3" id="115497_7" citation_local_level_id="1" >92-2027</DOCKET>
+
+<DATE start="67" end="71" id="115497_8" >2027</DATE>
+
+<ORGANIZATION start="77" end="107" id="115497_10" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="113" citation_global_level_id="52487.001" end="130" id="115497_11" citation_local_level_id="1" >November 29, 1993</DATE>
+
+<NAME start="152" local_name_id="3" end="160" id="115497_16" all_names="PETITION" >Petition</NAME>
+
+<RELATION theme="115497_2" party1="115497_3" party1_string="Woods" theme_string="Woods v. United States" gram_type="infix" relation_type="asymmetric" id="115497_5" ></RELATION>
+
+<RELATION party2="115497_4" theme="115497_2" theme_string="Woods v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="115497_6" ></RELATION>
+
+<RELATION at_date_string="2027" theme="115497_7" at_date="115497_8" theme_string="92-2027" gram_type="infix" relation_type="asymmetric" id="115497_9" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1004" X_vs_Y_string="Woods v. United States" standard_case="115497_1" X_vs_Y="115497_2" gram_type="multi_line" relation_type="equivalence" id="115497_12" ></RELATION>
+
+<RELATION at_date_string="November 29, 1993" theme="115497_2" at_date="115497_11" theme_string="Woods v. United States" gram_type="multi_line" relation_type="asymmetric" id="115497_15" ></RELATION>
+
+<RELATION theme="115497_2" includes_docket_string="92-2027" includes_docket="115497_7" theme_string="Woods v. United States" gram_type="multi_line" relation_type="asymmetric" id="115497_13" ></RELATION>
+
+<RELATION at_date_string="2027" theme="115497_2" at_date="115497_8" theme_string="Woods v. United States" gram_type="multi_line" relation_type="asymmetric" id="115497_14" ></RELATION>
+

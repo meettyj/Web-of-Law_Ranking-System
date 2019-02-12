@@ -1,0 +1,64 @@
+<CITATION alternative_keys="['jacowaydenton#1', 's.ct._114_101']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._154_583" id1="93977" volume="154" start="0" page_number="583" standard_reporter="U.S." citation_global_level_id="33596.002" line="1" id="93977_1" citation_local_level_id="0" >154 U.S. 583</CITATION>
+
+<CITATION alternative_keys="['u.s._154_583', 'jacowaydenton#1']" end="31" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._114_101" id1="93977" volume="114" start="17" page_number="101" standard_reporter="S.CT." citation_global_level_id="33596.003" line="1" id="93977_2" citation_local_level_id="1" >114 S. Ct. 101</CITATION>
+
+<NAME start="21" local_name_id="1" end="26" id="93977_8" all_names="S CT" >S. Ct</NAME>
+
+<CITATION party2="DENTON" party1="JACOWAY" citation_global_level_id="33596.001" party2_short="DENTON" line="1" id="93977_3" alternative_keys="['u.s._154_583', 's.ct._114_101']" end="53" entry_type="party_key" lookup_key="jacowaydenton#1" id1="93977" start="36" party1_short="JACOWAY" citation_local_level_id="2" >JACOWAY v. DENTON</CITATION>
+
+<NAME end="43" start="36" party1_of="93977_3" all_names="JACOWAY	WILLIAM D JACOWAY" local_name_id="2" id="93977_4" >JACOWAY</NAME>
+
+<NAME end="53" start="47" all_names="DENTON" party2_of="93977_3" local_name_id="3" id="93977_5" >DENTON</NAME>
+
+<DATE start="81" end="98" id="93977_6" >November 14, 1871</DATE>
+
+<DATE start="112" end="125" id="93977_7" >April 1, 1872</DATE>
+
+<NAME start="179" local_name_id="4" end="181" id="93977_13" all_names="MR" >MR</NAME>
+
+<LEGAL_ROLE start="385" end="394" id="93977_16" >defendant</LEGAL_ROLE>
+
+<ORGANIZATION start="424" end="469" id="93977_17" >Circuit Court of Yell County to the September</ORGANIZATION>
+
+<DATE start="476" end="480" id="93977_14" >1866</DATE>
+
+<NAME start="529" local_name_id="2" end="547" id="93977_18" all_names="JACOWAY	WILLIAM D JACOWAY" >William D. Jacoway</NAME>
+
+<DATE start="573" end="585" id="93977_15" >October 1860</DATE>
+
+<PROFESSION start="747" end="760" id="93977_19" >administrator</PROFESSION>
+
+<NAME start="941" local_name_id="5" end="949" id="93977_21" all_names="ARKANSAS" >Arkansas</NAME>
+
+<DATE start="961" end="965" id="93977_20" >1864</DATE>
+
+<NAME start="1052" local_name_id="6" end="1085" id="93977_22" all_names="CONSTITUTION OF THE UNITED STATES" >Constitution of the United States</NAME>
+
+<LEGAL_ROLE start="1261" end="1270" id="93977_23" >plaintiff</LEGAL_ROLE>
+
+<CITATION party2="Haskell" party1="Sevier" citation_global_level_id="38730.001" party2_short="Haskell" line="14" id="93977_25" alternative_keys="['wall._14_12']" end="1563" entry_type="party_key" lookup_key="sevierhaskell#1" id1="88512" start="1546" party1_short="Sevier" citation_local_level_id="3" >Sevier v. Haskell</CITATION>
+
+<NAME end="1552" start="1546" party1_of="93977_25" all_names="SEVIER" local_name_id="7" id="93977_26" >Sevier</NAME>
+
+<NAME end="1563" start="1556" all_names="HASKELL" party2_of="93977_25" local_name_id="8" id="93977_27" >Haskell</NAME>
+
+<CITATION alternative_keys="['sevierhaskell#1']" end="1576" reporter="Wall." entry_type="standard_key" lookup_key="wall._14_12" id1="88512" volume="14" start="1565" page_number="12" standard_reporter="WALL." citation_global_level_id="38730.003" line="14" id="93977_24" citation_local_level_id="4" >14 Wall. 12</CITATION>
+
+<LEGAL_ROLE start="1791" end="1843" plural="True" id="93977_31" >Mr. A. H. Garland and Mr. P. Phillips for plaintiffs</LEGAL_ROLE>
+
+<LEGAL_ROLE start="1899" end="1908" id="93977_32" >defendant</LEGAL_ROLE>
+
+<RELATION standard_case_string="154 U.S. 583" X_vs_Y_string="JACOWAY v. DENTON" standard_case="93977_1" X_vs_Y="93977_3" gram_type="pre_nom" relation_type="equivalence" id="93977_10" ></RELATION>
+
+<RELATION standard_case_string="114 S. Ct. 101" X_vs_Y_string="JACOWAY v. DENTON" standard_case="93977_2" X_vs_Y="93977_3" gram_type="pre_nom" relation_type="equivalence" id="93977_9" ></RELATION>
+
+<RELATION theme="93977_3" party1="93977_4" party1_string="JACOWAY" theme_string="JACOWAY v. DENTON" gram_type="infix" relation_type="asymmetric" id="93977_11" ></RELATION>
+
+<RELATION party2="93977_5" theme="93977_3" theme_string="JACOWAY v. DENTON" party2_string="DENTON" gram_type="infix" relation_type="asymmetric" id="93977_12" ></RELATION>
+
+<RELATION standard_case_string="14 Wall. 12" X_vs_Y_string="Sevier v. Haskell" standard_case="93977_24" X_vs_Y="93977_25" gram_type="apposition" relation_type="equivalence" id="93977_30" ></RELATION>
+
+<RELATION theme="93977_25" party1="93977_26" party1_string="Sevier" theme_string="Sevier v. Haskell" gram_type="infix" relation_type="asymmetric" id="93977_28" ></RELATION>
+
+<RELATION party2="93977_27" theme="93977_25" theme_string="Sevier v. Haskell" party2_string="Haskell" gram_type="infix" relation_type="asymmetric" id="93977_29" ></RELATION>
+

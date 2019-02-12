@@ -1,0 +1,44 @@
+<CITATION alternative_keys="['boonestates#4', 'odomstates#3']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1058" id1="120313" volume="535" start="0" page_number="1058" standard_reporter="U.S." citation_global_level_id="1737.002" line="1" id="120317_1" citation_local_level_id="0" >535 U.S. 1058</CITATION>
+
+<CITATION party2="UNITED STATES" party1="ODOM" citation_global_level_id="60767.001" party2_short="STATES" line="2" id="120317_2" alternative_keys="['u.s._535_1058', 'boonestates#4']" end="39" entry_type="party_key" lookup_key="odomstates#3" id1="120317" start="18" party1_short="ODOM" citation_local_level_id="1" >ODOM v. UNITED STATES</CITATION>
+
+<NAME end="22" start="18" party1_of="120317_2" all_names="ODOM" local_name_id="1" id="120317_4" >ODOM</NAME>
+
+<NAME end="39" start="26" all_names="UNITED STATES" party2_of="120317_2" local_name_id="2" id="120317_5" >UNITED STATES</NAME>
+
+<CITATION party2="UNITED STATES" party1="BOONE" citation_global_level_id="61640.001" party2_short="STATES" line="2" id="120317_3" alternative_keys="['u.s._535_1058', 'odomstates#3']" end="67" entry_type="party_key" lookup_key="boonestates#4" id1="144917" start="45" party1_short="BOONE" citation_local_level_id="2" >BOONE v. UNITED STATES</CITATION>
+
+<NAME end="50" start="45" party1_of="120317_3" all_names="BOONE" local_name_id="3" id="120317_6" >BOONE</NAME>
+
+<NAME end="67" start="54" all_names="UNITED STATES" party2_of="120317_3" local_name_id="2" id="120317_7" >UNITED STATES</NAME>
+
+<DOCKET end="84" entry_type="docket" lookup_key="odomstates#3" id1="120317" start="77" citation_global_level_id="60767.001" line="3" id="120317_12" citation_local_level_id="1" >01-7663</DOCKET>
+
+<DOCKET end="101" entry_type="docket" lookup_key="odomstates#3" id1="120317" start="94" citation_global_level_id="60767.001" line="4" id="120317_13" citation_local_level_id="1" >01-7799</DOCKET>
+
+<DATE start="147" end="159" id="120317_20" >May 13, 2002</DATE>
+
+<NAME start="192" local_name_id="4" end="195" id="120317_22" all_names="CIR" >Cir</NAME>
+
+<CITATION end="246" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_252_1289" id1="Dummy_File_50232" volume="252" start="232" page_number="1289" standard_reporter="F.3D" citation_global_level_id="114082.001" line="9" id="120317_21" citation_local_level_id="3" >252 F. 3d 1289</CITATION>
+
+<RELATION theme="120317_2" party1="120317_4" party1_string="ODOM" theme_string="ODOM v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="120317_8" ></RELATION>
+
+<RELATION party2="120317_5" theme="120317_2" theme_string="ODOM v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="120317_9" ></RELATION>
+
+<RELATION theme="120317_3" party1="120317_6" party1_string="BOONE" theme_string="BOONE v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="120317_10" ></RELATION>
+
+<RELATION party2="120317_7" theme="120317_3" theme_string="BOONE v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="120317_11" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1058" X_vs_Y_string="BOONE v. UNITED STATES" standard_case="120317_1" X_vs_Y="120317_3" gram_type="multi_line" relation_type="equivalence" id="120317_17" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1058" X_vs_Y_string="ODOM v. UNITED STATES" standard_case="120317_1" X_vs_Y="120317_2" gram_type="multi_line" relation_type="equivalence" id="120317_14" ></RELATION>
+
+<RELATION theme="120317_2" includes_docket_string="01-7799" includes_docket="120317_13" theme_string="ODOM v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="120317_16" ></RELATION>
+
+<RELATION theme="120317_2" includes_docket_string="01-7663" includes_docket="120317_12" theme_string="ODOM v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="120317_15" ></RELATION>
+
+<RELATION theme="120317_3" includes_docket_string="01-7799" includes_docket="120317_13" theme_string="BOONE v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="120317_19" ></RELATION>
+
+<RELATION theme="120317_3" includes_docket_string="01-7663" includes_docket="120317_12" theme_string="BOONE v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="120317_18" ></RELATION>
+

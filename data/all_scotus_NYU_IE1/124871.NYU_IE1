@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['blaycolorado#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1008" id1="124876" volume="537" start="0" page_number="1008" standard_reporter="U.S." citation_global_level_id="3619.002" line="1" id="124871_1" citation_local_level_id="0" >537 U.S. 1008</CITATION>
+
+<CITATION party2="COLORADO" party1="BLAY" citation_global_level_id="30462.001" party2_short="COLORADO" line="2" id="124871_2" alternative_keys="['u.s._537_1008']" end="34" entry_type="party_key" lookup_key="blaycolorado#1" id1="124871" start="18" party1_short="BLAY" citation_local_level_id="1" >BLAY v. COLORADO</CITATION>
+
+<NAME end="22" start="18" party1_of="124871_2" all_names="BLAY" local_name_id="1" id="124871_3" >BLAY</NAME>
+
+<NAME end="34" start="26" all_names="COLORADO" party2_of="124871_2" local_name_id="2" id="124871_4" >COLORADO</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="blaycolorado#1" id1="124871" start="44" citation_global_level_id="30462.001" line="3" id="124871_7" citation_local_level_id="1" >02-6217</DOCKET>
+
+<ORGANIZATION start="57" end="87" id="124871_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="93" citation_global_level_id="30462.001" end="109" id="124871_9" citation_local_level_id="1" >November 4, 2002</DATE>
+
+<ORGANIZATION start="115" end="161" id="124871_10" >CERTIORARI TO THE COURT OF APPEALS OF COLORADO</ORGANIZATION>
+
+<NAME start="182" local_name_id="3" end="184" id="124871_14" all_names="CT" >Ct</NAME>
+
+<RELATION theme="124871_2" party1="124871_3" party1_string="BLAY" theme_string="BLAY v. COLORADO" gram_type="infix" relation_type="asymmetric" id="124871_5" ></RELATION>
+
+<RELATION party2="124871_4" theme="124871_2" theme_string="BLAY v. COLORADO" party2_string="COLORADO" gram_type="infix" relation_type="asymmetric" id="124871_6" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1008" X_vs_Y_string="BLAY v. COLORADO" standard_case="124871_1" X_vs_Y="124871_2" gram_type="multi_line" relation_type="equivalence" id="124871_11" ></RELATION>
+
+<RELATION at_date_string="November 4, 2002" theme="124871_2" at_date="124871_9" theme_string="BLAY v. COLORADO" gram_type="multi_line" relation_type="asymmetric" id="124871_13" ></RELATION>
+
+<RELATION theme="124871_2" includes_docket_string="02-6217" includes_docket="124871_7" theme_string="BLAY v. COLORADO" gram_type="multi_line" relation_type="asymmetric" id="124871_12" ></RELATION>
+

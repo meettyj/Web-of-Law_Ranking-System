@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['insstates#11', 's.ct._6_1001', 'l.ed._30_69']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._118_147" id1="91679" volume="118" start="0" page_number="147" standard_reporter="U.S." citation_global_level_id="3002.002" line="1" id="91679_1" citation_local_level_id="0" >118 U.S. 147</CITATION>
+
+<CITATION alternative_keys="['u.s._118_147', 'insstates#11', 'l.ed._30_69']" end="30" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._6_1001" id1="91679" volume="6" start="17" page_number="1001" standard_reporter="S.CT." citation_global_level_id="3002.003" line="1" id="91679_2" citation_local_level_id="1" >6 S. Ct. 1001</CITATION>
+
+<NAME start="19" local_name_id="1" end="24" id="91679_8" all_names="S CT" >S. Ct</NAME>
+
+<CITATION alternative_keys="['u.s._118_147', 's.ct._6_1001', 'insstates#11']" end="47" reporter="L. Ed." entry_type="standard_key" lookup_key="l.ed._30_69" id1="91679" volume="30" start="35" page_number="69" standard_reporter="L.ED." citation_global_level_id="3002.004" line="1" id="91679_3" citation_local_level_id="2" >30 L. Ed. 69</CITATION>
+
+<CITATION party2="UNITED STATES ex rel. HART.     Filed" party1="SUN MUT. INS. CO." citation_global_level_id="3002.005" party2_short="STATES" line="1" id="91679_4" alternative_keys="['s.ct._6_1001', 'l.ed._30_69', 'u.s._118_147']" end="110" entry_type="party_key" lookup_key="insstates#11" id1="91679" start="52" party1_short="INS" citation_local_level_id="3" >SUN MUT. INS. CO. v. UNITED STATES ex rel. HART. Filed</CITATION>
+
+<NAME end="69" start="52" party1_of="91679_4" all_names="SUN MUT INS CO" local_name_id="2" id="91679_5" >SUN MUT. INS. CO.</NAME>
+
+<NAME end="110" start="73" all_names="UNITED STATES EX REL HART FILED" party2_of="91679_4" local_name_id="3" id="91679_6" >UNITED STATES ex rel. HART. Filed</NAME>
+
+<DATE start="111" citation_global_level_id="3002.005" end="125" id="91679_7" citation_local_level_id="3" >April 19, 1886</DATE>
+
+<ORGANIZATION start="307" end="335" id="91679_15" >Sun Mutual Insurance Company</ORGANIZATION>
+
+<RELATION standard_case_string="118 U.S. 147" X_vs_Y_string="SUN MUT. INS. CO. v. UNITED STATES ex rel. HART.     Filed" standard_case="91679_1" X_vs_Y="91679_4" gram_type="pre_nom" relation_type="equivalence" id="91679_10" ></RELATION>
+
+<RELATION standard_case_string="6 S. Ct. 1001" X_vs_Y_string="SUN MUT. INS. CO. v. UNITED STATES ex rel. HART.     Filed" standard_case="91679_2" X_vs_Y="91679_4" gram_type="pre_nom" relation_type="equivalence" id="91679_11" ></RELATION>
+
+<RELATION standard_case_string="30 L. Ed. 69" X_vs_Y_string="SUN MUT. INS. CO. v. UNITED STATES ex rel. HART.     Filed" standard_case="91679_3" X_vs_Y="91679_4" gram_type="pre_nom" relation_type="equivalence" id="91679_9" ></RELATION>
+
+<RELATION at_date_string="April 19, 1886" theme="91679_4" at_date="91679_7" theme_string="SUN MUT. INS. CO. v. UNITED STATES ex rel. HART.     Filed" gram_type="pre_nom" relation_type="asymmetric" id="91679_14" ></RELATION>
+
+<RELATION theme="91679_4" party1="91679_5" party1_string="SUN MUT. INS. CO." theme_string="SUN MUT. INS. CO. v. UNITED STATES ex rel. HART.     Filed" gram_type="infix" relation_type="asymmetric" id="91679_12" ></RELATION>
+
+<RELATION party2="91679_6" theme="91679_4" theme_string="SUN MUT. INS. CO. v. UNITED STATES ex rel. HART.     Filed" party2_string="UNITED STATES ex rel. HART.     Filed" gram_type="infix" relation_type="asymmetric" id="91679_13" ></RELATION>
+

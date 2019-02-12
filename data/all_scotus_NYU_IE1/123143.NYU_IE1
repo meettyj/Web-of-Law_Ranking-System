@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['millerstates#9']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_871" id1="123147" volume="537" start="0" page_number="871" standard_reporter="U.S." citation_global_level_id="4060.002" line="1" id="123143_1" citation_local_level_id="0" >537 U.S. 871</CITATION>
+
+<CITATION party2="UNITED STATES" party1="MILLER, AKA SMITH" citation_global_level_id="16438.001" party2_short="STATES" line="1" id="123143_3" alternative_keys="['u.s._537_871']" end="51" entry_type="party_key" lookup_key="millerstates#9" id1="128614" start="17" party1_short="MILLER" citation_local_level_id="1" >MILLER, AKA SMITH v. UNITED STATES</CITATION>
+
+<NAME end="34" start="17" party1_of="123143_3" all_names="MILLER AKA SMITH" local_name_id="1" id="123143_4" >MILLER, AKA SMITH</NAME>
+
+<NAME start="17" local_name_id="2" end="23" id="123143_7" all_names="MILLER" >MILLER</NAME>
+
+<NAME end="51" start="38" all_names="UNITED STATES" party2_of="123143_3" local_name_id="3" id="123143_5" >UNITED STATES</NAME>
+
+<DOCKET end="69" entry_type="docket" lookup_key="u.s._537_871" id1="123147" start="61" citation_global_level_id="4060.002" line="1" id="123143_2" citation_local_level_id="0" >01-10922</DOCKET>
+
+<DATE start="111" end="126" id="123143_6" >October 7, 2002</DATE>
+
+<NAME start="256" local_name_id="4" end="259" id="123143_14" all_names="CIR" >Cir</NAME>
+
+<CITATION end="309" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_283_907" id1="Dummy_File_81655" volume="283" start="296" page_number="907" standard_reporter="F.3D" citation_global_level_id="145505.001" line="3" id="123143_13" citation_local_level_id="2" >283 F. 3d 907</CITATION>
+
+<RELATION theme="123143_1" includes_docket_string="01-10922" includes_docket="123143_2" theme_string="537 U.S. 871" gram_type="apposition" relation_type="asymmetric" id="123143_12" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 871" X_vs_Y_string="MILLER, AKA SMITH v. UNITED STATES" standard_case="123143_1" X_vs_Y="123143_3" gram_type="pre_nom" relation_type="equivalence" id="123143_8" ></RELATION>
+
+<RELATION theme="123143_3" includes_docket_string="01-10922" includes_docket="123143_2" theme_string="MILLER, AKA SMITH v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="123143_11" ></RELATION>
+
+<RELATION party2="123143_5" theme="123143_3" theme_string="MILLER, AKA SMITH v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="123143_10" ></RELATION>
+
+<RELATION theme="123143_3" party1="123143_4" party1_string="MILLER, AKA SMITH" theme_string="MILLER, AKA SMITH v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="123143_9" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['stantonmontana#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_981" id1="124597" volume="537" start="0" page_number="981" standard_reporter="U.S." citation_global_level_id="3221.002" line="1" id="124592_1" citation_local_level_id="0" >537 U.S. 981</CITATION>
+
+<CITATION party2="MONTANA" party1="STANTON" citation_global_level_id="39410.001" party2_short="MONTANA" line="1" id="124592_3" alternative_keys="['u.s._537_981']" end="35" entry_type="party_key" lookup_key="stantonmontana#1" id1="124592" start="17" party1_short="STANTON" citation_local_level_id="1" >STANTON v. MONTANA</CITATION>
+
+<NAME end="24" start="17" party1_of="124592_3" all_names="STANTON" local_name_id="1" id="124592_4" >STANTON</NAME>
+
+<NAME end="35" start="28" all_names="MONTANA" party2_of="124592_3" local_name_id="2" id="124592_5" >MONTANA</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="u.s._537_981" id1="124597" start="45" citation_global_level_id="3221.002" line="1" id="124592_2" citation_local_level_id="0" >02-6201</DOCKET>
+
+<DATE start="94" end="110" id="124592_6" >October 21, 2002</DATE>
+
+<NAME start="201" local_name_id="3" end="204" id="124592_13" all_names="SUP" >Sup</NAME>
+
+<CITATION end="278" reporter="P. 3d" entry_type="standard_key" no_current_file="True" lookup_key="p.3d_52_403" id1="Dummy_File_79246" volume="52" start="266" page_number="403" standard_reporter="P.3D" citation_global_level_id="143096.001" line="3" id="124592_12" citation_local_level_id="2" >52 P. 3d 403</CITATION>
+
+<RELATION theme="124592_1" includes_docket_string="02-6201" includes_docket="124592_2" theme_string="537 U.S. 981" gram_type="apposition" relation_type="asymmetric" id="124592_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 981" X_vs_Y_string="STANTON v. MONTANA" standard_case="124592_1" X_vs_Y="124592_3" gram_type="pre_nom" relation_type="equivalence" id="124592_7" ></RELATION>
+
+<RELATION theme="124592_3" includes_docket_string="02-6201" includes_docket="124592_2" theme_string="STANTON v. MONTANA" gram_type="apposition" relation_type="asymmetric" id="124592_10" ></RELATION>
+
+<RELATION theme="124592_3" party1="124592_4" party1_string="STANTON" theme_string="STANTON v. MONTANA" gram_type="infix" relation_type="asymmetric" id="124592_8" ></RELATION>
+
+<RELATION party2="124592_5" theme="124592_3" theme_string="STANTON v. MONTANA" party2_string="MONTANA" gram_type="infix" relation_type="asymmetric" id="124592_9" ></RELATION>
+

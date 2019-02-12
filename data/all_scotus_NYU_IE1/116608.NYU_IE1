@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['snyderfrost#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1096" id1="116613" volume="510" start="0" page_number="1096" standard_reporter="U.S." citation_global_level_id="7917.002" line="1" id="116608_1" citation_local_level_id="0" >510 U.S. 1096</CITATION>
+
+<CITATION party2="Frost et al" party1="Snyder" citation_global_level_id="30071.001" party2_short="Frost" line="1" id="116608_3" alternative_keys="['u.s._510_1096']" end="39" entry_type="party_key" lookup_key="snyderfrost#1" id1="116608" start="18" party1_short="Snyder" citation_local_level_id="1" >Snyder v. Frost et al</CITATION>
+
+<NAME end="24" start="18" party1_of="116608_3" all_names="SNYDER" local_name_id="1" id="116608_4" >Snyder</NAME>
+
+<NAME end="39" start="28" all_names="FROST" party2_of="116608_3" local_name_id="2" id="116608_5" >Frost et al</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._510_1096" id1="116613" start="49" citation_global_level_id="7917.002" line="1" id="116608_2" citation_local_level_id="0" >93-6875</DOCKET>
+
+<DATE start="98" end="114" id="116608_6" >January 24, 1994</DATE>
+
+<NAME start="193" local_name_id="3" end="203" id="116608_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="239" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_3_442" id1="Dummy_File_88483" volume="3" start="228" page_number="442" standard_reporter="F.3D" citation_global_level_id="152333.001" line="3" id="116608_12" citation_local_level_id="2" >3 F. 3d 442</CITATION>
+
+<RELATION theme="116608_1" includes_docket_string="93-6875" includes_docket="116608_2" theme_string="510 U.S. 1096" gram_type="apposition" relation_type="asymmetric" id="116608_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1096" X_vs_Y_string="Snyder v. Frost et al" standard_case="116608_1" X_vs_Y="116608_3" gram_type="pre_nom" relation_type="equivalence" id="116608_7" ></RELATION>
+
+<RELATION theme="116608_3" includes_docket_string="93-6875" includes_docket="116608_2" theme_string="Snyder v. Frost et al" gram_type="apposition" relation_type="asymmetric" id="116608_10" ></RELATION>
+
+<RELATION theme="116608_3" party1="116608_4" party1_string="Snyder" theme_string="Snyder v. Frost et al" gram_type="infix" relation_type="asymmetric" id="116608_8" ></RELATION>
+
+<RELATION party2="116608_5" theme="116608_3" theme_string="Snyder v. Frost et al" party2_string="Frost et al" gram_type="infix" relation_type="asymmetric" id="116608_9" ></RELATION>
+

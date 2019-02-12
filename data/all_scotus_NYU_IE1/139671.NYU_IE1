@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['browndepartment#17']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_947" id1="139668" volume="543" start="0" page_number="947" standard_reporter="U.S." citation_global_level_id="3345.002" line="1" id="139671_1" citation_local_level_id="0" >543 U.S. 947</CITATION>
+
+<CITATION party2="PENNSYLVANIA DEPARTMENT OF CORRECTIONS ET AL" party1="BROWN" citation_global_level_id="49749.001" party2_short="DEPARTMENT" line="2" id="139671_2" alternative_keys="['u.s._543_947']" end="70" entry_type="party_key" lookup_key="browndepartment#17" id1="139671" start="17" party1_short="BROWN" citation_local_level_id="1" >BROWN v. PENNSYLVANIA DEPARTMENT OF CORRECTIONS ET AL</CITATION>
+
+<NAME end="22" start="17" party1_of="139671_2" all_names="BROWN" local_name_id="1" id="139671_3" >BROWN</NAME>
+
+<NAME end="70" start="26" all_names="PENNSYLVANIA DEPARTMENT OF CORRECTIONS" party2_of="139671_2" local_name_id="2" id="139671_4" >PENNSYLVANIA DEPARTMENT OF CORRECTIONS ET AL</NAME>
+
+<DOCKET end="87" entry_type="docket" lookup_key="browndepartment#17" id1="139671" start="80" citation_global_level_id="49749.001" line="3" id="139671_7" citation_local_level_id="1" >04-6085</DOCKET>
+
+<ORGANIZATION start="93" end="123" id="139671_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="129" citation_global_level_id="49749.001" end="145" id="139671_9" citation_local_level_id="1" >October 18, 2004</DATE>
+
+<NAME start="176" local_name_id="3" end="179" id="139671_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="139671_2" party1="139671_3" party1_string="BROWN" theme_string="BROWN v. PENNSYLVANIA DEPARTMENT OF CORRECTIONS ET AL" gram_type="infix" relation_type="asymmetric" id="139671_5" ></RELATION>
+
+<RELATION party2="139671_4" theme="139671_2" theme_string="BROWN v. PENNSYLVANIA DEPARTMENT OF CORRECTIONS ET AL" party2_string="PENNSYLVANIA DEPARTMENT OF CORRECTIONS ET AL" gram_type="infix" relation_type="asymmetric" id="139671_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 947" X_vs_Y_string="BROWN v. PENNSYLVANIA DEPARTMENT OF CORRECTIONS ET AL" standard_case="139671_1" X_vs_Y="139671_2" gram_type="multi_line" relation_type="equivalence" id="139671_10" ></RELATION>
+
+<RELATION at_date_string="October 18, 2004" theme="139671_2" at_date="139671_9" theme_string="BROWN v. PENNSYLVANIA DEPARTMENT OF CORRECTIONS ET AL" gram_type="multi_line" relation_type="asymmetric" id="139671_12" ></RELATION>
+
+<RELATION theme="139671_2" includes_docket_string="04-6085" includes_docket="139671_7" theme_string="BROWN v. PENNSYLVANIA DEPARTMENT OF CORRECTIONS ET AL" gram_type="multi_line" relation_type="asymmetric" id="139671_11" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['fatyashcroft#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._542_924" id1="137294" volume="542" start="0" page_number="924" standard_reporter="U.S." citation_global_level_id="1348.002" line="1" id="137298_1" citation_local_level_id="0" >542 U.S. 924</CITATION>
+
+<CITATION party2="ASHCROFT, ATTORNEY GENERAL" party1="FATY" citation_global_level_id="1348.006" party2_short="ASHCROFT" line="2" id="137298_2" alternative_keys="['u.s._542_924']" end="51" entry_type="party_key" lookup_key="fatyashcroft#1" id1="137294" start="17" party1_short="FATY" citation_local_level_id="1" >FATY v. ASHCROFT, ATTORNEY GENERAL</CITATION>
+
+<NAME end="21" start="17" party1_of="137298_2" all_names="FATY" local_name_id="1" id="137298_3" >FATY</NAME>
+
+<NAME end="51" start="25" all_names="ASHCROFT ATTORNEY GENERAL" party2_of="137298_2" local_name_id="2" id="137298_4" >ASHCROFT, ATTORNEY GENERAL</NAME>
+
+<DOCKET alternative_keys="['u.s._542_924']" end="69" entry_type="docket" lookup_key="fatyashcroft#1" id1="137294" start="61" citation_global_level_id="1348.006" line="3" id="137298_7" citation_local_level_id="1" >03-10101</DOCKET>
+
+<ORGANIZATION start="75" end="105" id="137298_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="111" citation_global_level_id="1348.006" end="124" id="137298_9" citation_local_level_id="1" >June 21, 2004</DATE>
+
+<NAME start="156" local_name_id="3" end="159" id="137298_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="137298_2" party1="137298_3" party1_string="FATY" theme_string="FATY v. ASHCROFT, ATTORNEY GENERAL" gram_type="infix" relation_type="asymmetric" id="137298_5" ></RELATION>
+
+<RELATION party2="137298_4" theme="137298_2" theme_string="FATY v. ASHCROFT, ATTORNEY GENERAL" party2_string="ASHCROFT, ATTORNEY GENERAL" gram_type="infix" relation_type="asymmetric" id="137298_6" ></RELATION>
+
+<RELATION standard_case_string="542 U.S. 924" X_vs_Y_string="FATY v. ASHCROFT, ATTORNEY GENERAL" standard_case="137298_1" X_vs_Y="137298_2" gram_type="multi_line" relation_type="equivalence" id="137298_10" ></RELATION>
+
+<RELATION at_date_string="June 21, 2004" theme="137298_2" at_date="137298_9" theme_string="FATY v. ASHCROFT, ATTORNEY GENERAL" gram_type="multi_line" relation_type="asymmetric" id="137298_12" ></RELATION>
+
+<RELATION theme="137298_2" includes_docket_string="03-10101" includes_docket="137298_7" theme_string="FATY v. ASHCROFT, ATTORNEY GENERAL" gram_type="multi_line" relation_type="asymmetric" id="137298_11" ></RELATION>
+

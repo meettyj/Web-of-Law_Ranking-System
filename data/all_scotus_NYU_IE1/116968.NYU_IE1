@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['aaronstates#3']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1126" id1="116974" volume="510" start="0" page_number="1126" standard_reporter="U.S." citation_global_level_id="9592.002" line="1" id="116968_1" citation_local_level_id="0" >510 U.S. 1126</CITATION>
+
+<CITATION party2="United States" party1="Aaron" citation_global_level_id="43563.001" party2_short="States" line="1" id="116968_3" alternative_keys="['u.s._510_1126']" end="40" entry_type="party_key" lookup_key="aaronstates#3" id1="142700" start="18" party1_short="Aaron" citation_local_level_id="1" >Aaron v. United States</CITATION>
+
+<NAME end="23" start="18" party1_of="116968_3" all_names="AARON" local_name_id="1" id="116968_4" >Aaron</NAME>
+
+<NAME end="40" start="27" all_names="UNITED STATES" party2_of="116968_3" local_name_id="2" id="116968_5" >United States</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._510_1126" id1="116974" start="50" citation_global_level_id="9592.002" line="1" id="116968_2" citation_local_level_id="0" >93-7151</DOCKET>
+
+<DATE start="99" end="116" id="116968_6" >February 22, 1994</DATE>
+
+<NAME start="195" local_name_id="3" end="205" id="116968_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="242" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_5_1497" id1="Dummy_File_44818" volume="5" start="230" page_number="1497" standard_reporter="F.3D" citation_global_level_id="108668.001" line="3" id="116968_12" citation_local_level_id="2" >5 F. 3d 1497</CITATION>
+
+<RELATION theme="116968_1" includes_docket_string="93-7151" includes_docket="116968_2" theme_string="510 U.S. 1126" gram_type="apposition" relation_type="asymmetric" id="116968_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1126" X_vs_Y_string="Aaron v. United States" standard_case="116968_1" X_vs_Y="116968_3" gram_type="pre_nom" relation_type="equivalence" id="116968_7" ></RELATION>
+
+<RELATION theme="116968_3" includes_docket_string="93-7151" includes_docket="116968_2" theme_string="Aaron v. United States" gram_type="apposition" relation_type="asymmetric" id="116968_10" ></RELATION>
+
+<RELATION theme="116968_3" party1="116968_4" party1_string="Aaron" theme_string="Aaron v. United States" gram_type="infix" relation_type="asymmetric" id="116968_8" ></RELATION>
+
+<RELATION party2="116968_5" theme="116968_3" theme_string="Aaron v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="116968_9" ></RELATION>
+

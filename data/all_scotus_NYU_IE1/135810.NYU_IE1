@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['phillipsstates#9']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_1000" id1="135817" volume="541" start="0" page_number="1000" standard_reporter="U.S." citation_global_level_id="6357.002" line="1" id="135810_1" citation_local_level_id="0" >541 U.S. 1000</CITATION>
+
+<CITATION party2="UNITED STATES" party1="PHILLIPS" citation_global_level_id="62274.001" party2_short="STATES" line="2" id="135810_2" alternative_keys="['u.s._541_1000']" end="43" entry_type="party_key" lookup_key="phillipsstates#9" id1="127455" start="18" party1_short="PHILLIPS" citation_local_level_id="1" >PHILLIPS v. UNITED STATES</CITATION>
+
+<NAME end="26" start="18" party1_of="135810_2" all_names="PHILLIPS" local_name_id="1" id="135810_3" >PHILLIPS</NAME>
+
+<NAME end="43" start="30" all_names="UNITED STATES" party2_of="135810_2" local_name_id="2" id="135810_4" >UNITED STATES</NAME>
+
+<DOCKET end="60" entry_type="docket" lookup_key="phillipsstates#9" id1="127455" start="53" citation_global_level_id="62274.001" line="3" id="135810_7" citation_local_level_id="1" >03-9470</DOCKET>
+
+<ORGANIZATION start="66" end="96" id="135810_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="102" citation_global_level_id="62274.001" end="116" id="135810_9" citation_local_level_id="1" >April 19, 2004</DATE>
+
+<NAME start="147" local_name_id="3" end="150" id="135810_14" all_names="CIR" >Cir</NAME>
+
+<CITATION end="200" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_349_138" id1="Dummy_File_45543" volume="349" start="187" page_number="138" standard_reporter="F.3D" citation_global_level_id="109393.001" line="8" id="135810_13" citation_local_level_id="2" >349 F. 3d 138</CITATION>
+
+<RELATION theme="135810_2" party1="135810_3" party1_string="PHILLIPS" theme_string="PHILLIPS v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="135810_5" ></RELATION>
+
+<RELATION party2="135810_4" theme="135810_2" theme_string="PHILLIPS v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="135810_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 1000" X_vs_Y_string="PHILLIPS v. UNITED STATES" standard_case="135810_1" X_vs_Y="135810_2" gram_type="multi_line" relation_type="equivalence" id="135810_10" ></RELATION>
+
+<RELATION at_date_string="April 19, 2004" theme="135810_2" at_date="135810_9" theme_string="PHILLIPS v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="135810_12" ></RELATION>
+
+<RELATION theme="135810_2" includes_docket_string="03-9470" includes_docket="135810_7" theme_string="PHILLIPS v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="135810_11" ></RELATION>
+

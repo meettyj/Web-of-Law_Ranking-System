@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['scanconsultants#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1105" id1="126110" volume="537" start="0" page_number="1105" standard_reporter="U.S." citation_global_level_id="3092.002" line="1" id="126116_1" citation_local_level_id="0" >537 U.S. 1105</CITATION>
+
+<CITATION party2="DIGITAL SERVICE CONSULTANTS, INC" party1="ALS SCAN, INC." citation_global_level_id="6928.001" party2_short="CONSULTANTS" line="1" id="126116_3" alternative_keys="['u.s._537_1105']" end="68" entry_type="party_key" lookup_key="scanconsultants#1" id1="126116" start="18" party1_short="SCAN" citation_local_level_id="1" >ALS SCAN, INC. v. DIGITAL SERVICE CONSULTANTS, INC</CITATION>
+
+<NAME end="32" start="18" party1_of="126116_3" all_names="ALS SCAN INC" local_name_id="1" id="126116_4" >ALS SCAN, INC.</NAME>
+
+<ORGANIZATION start="18" end="31" id="126116_7" >ALS SCAN, INC</ORGANIZATION>
+
+<NAME end="68" start="36" all_names="DIGITAL SERVICE CONSULTANTS INC" party2_of="126116_3" local_name_id="2" id="126116_5" >DIGITAL SERVICE CONSULTANTS, INC</NAME>
+
+<DOCKET end="84" entry_type="docket" lookup_key="u.s._537_1105" id1="126110" start="78" citation_global_level_id="3092.002" line="1" id="126116_2" citation_local_level_id="0" >02-463</DOCKET>
+
+<DATE start="126" end="142" id="126116_6" >January 13, 2003</DATE>
+
+<NAME start="272" local_name_id="3" end="275" id="126116_14" all_names="CIR" >Cir</NAME>
+
+<CITATION end="325" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_293_707" id1="Dummy_File_129541" volume="293" start="312" page_number="707" standard_reporter="F.3D" citation_global_level_id="193391.001" line="3" id="126116_13" citation_local_level_id="2" >293 F. 3d 707</CITATION>
+
+<RELATION theme="126116_1" includes_docket_string="02-463" includes_docket="126116_2" theme_string="537 U.S. 1105" gram_type="apposition" relation_type="asymmetric" id="126116_12" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1105" X_vs_Y_string="ALS SCAN, INC. v. DIGITAL SERVICE CONSULTANTS, INC" standard_case="126116_1" X_vs_Y="126116_3" gram_type="pre_nom" relation_type="equivalence" id="126116_8" ></RELATION>
+
+<RELATION theme="126116_3" includes_docket_string="02-463" includes_docket="126116_2" theme_string="ALS SCAN, INC. v. DIGITAL SERVICE CONSULTANTS, INC" gram_type="apposition" relation_type="asymmetric" id="126116_11" ></RELATION>
+
+<RELATION party2="126116_5" theme="126116_3" theme_string="ALS SCAN, INC. v. DIGITAL SERVICE CONSULTANTS, INC" party2_string="DIGITAL SERVICE CONSULTANTS, INC" gram_type="infix" relation_type="asymmetric" id="126116_10" ></RELATION>
+
+<RELATION theme="126116_3" party1="126116_4" party1_string="ALS SCAN, INC." theme_string="ALS SCAN, INC. v. DIGITAL SERVICE CONSULTANTS, INC" gram_type="infix" relation_type="asymmetric" id="126116_9" ></RELATION>
+

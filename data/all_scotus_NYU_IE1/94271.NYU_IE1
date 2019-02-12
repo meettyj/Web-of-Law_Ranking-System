@@ -1,0 +1,42 @@
+<CITATION alternative_keys="['richardselevator#3', 's.ct._16_53', 'l.ed._40_225']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._159_477" id1="94271" volume="159" start="0" page_number="477" standard_reporter="U.S." citation_global_level_id="30804.002" line="1" id="94271_1" citation_local_level_id="0" >159 U.S. 477</CITATION>
+
+<CITATION alternative_keys="['u.s._159_477', 'richardselevator#3', 'l.ed._40_225']" end="29" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._16_53" id1="94271" volume="16" start="17" page_number="53" standard_reporter="S.CT." citation_global_level_id="30804.003" line="1" id="94271_2" citation_local_level_id="1" >16 S. Ct. 53</CITATION>
+
+<NAME start="20" local_name_id="1" end="25" id="94271_8" all_names="S CT" >S. Ct</NAME>
+
+<CITATION alternative_keys="['u.s._159_477', 's.ct._16_53', 'richardselevator#3']" end="47" reporter="L. Ed." entry_type="standard_key" lookup_key="l.ed._40_225" id1="94271" volume="40" start="34" page_number="225" standard_reporter="L.ED." citation_global_level_id="30804.004" line="1" id="94271_3" citation_local_level_id="2" >40 L. Ed. 225</CITATION>
+
+<CITATION party2="CHASE ELEVATOR CO. et al" party1="RICHARDS" citation_global_level_id="35602.001" party2_short="ELEVATOR" line="1" id="94271_4" alternative_keys="['u.s._159_477', 's.ct._16_53', 'l.ed._40_225']" end="88" entry_type="party_key" lookup_key="richardselevator#3" id1="2620965" start="52" party1_short="RICHARDS" citation_local_level_id="3" >RICHARDS v. CHASE ELEVATOR CO. et al</CITATION>
+
+<NAME end="60" start="52" party1_of="94271_4" all_names="RICHARDS" local_name_id="2" id="94271_5" >RICHARDS</NAME>
+
+<NAME end="88" start="64" all_names="CHASE ELEVATOR CO" party2_of="94271_4" local_name_id="3" id="94271_6" >CHASE ELEVATOR CO. et al</NAME>
+
+<DATE start="122" end="139" id="94271_7" >November 11, 1895</DATE>
+
+<NAME start="259" local_name_id="4" end="276" id="94271_14" all_names="MR JUSTICE BROWN" >Mr. Justice BROWN</NAME>
+
+<PROFESSION start="263" end="270" id="94271_15" >Justice</PROFESSION>
+
+<ORGANIZATION start="306" end="311" id="94271_16" >court</ORGANIZATION>
+
+<CITATION party2="Chicago" party1="Stow" citation_global_level_id="25723.001" party2_short="Chicago" line="8" id="94271_17" end="2777" entry_type="party_key" lookup_key="stowchicago#1" id1="90497" start="2762" party1_short="Stow" citation_local_level_id="4" >Stow v. Chicago</CITATION>
+
+<NAME end="2766" start="2762" party1_of="94271_17" all_names="STOW" local_name_id="5" id="94271_18" >Stow</NAME>
+
+<NAME end="2777" start="2770" all_names="CHICAGO" party2_of="94271_17" local_name_id="6" id="94271_19" >Chicago</NAME>
+
+<RELATION standard_case_string="159 U.S. 477" X_vs_Y_string="RICHARDS v. CHASE ELEVATOR CO. et al" standard_case="94271_1" X_vs_Y="94271_4" gram_type="pre_nom" relation_type="equivalence" id="94271_10" ></RELATION>
+
+<RELATION standard_case_string="16 S. Ct. 53" X_vs_Y_string="RICHARDS v. CHASE ELEVATOR CO. et al" standard_case="94271_2" X_vs_Y="94271_4" gram_type="pre_nom" relation_type="equivalence" id="94271_11" ></RELATION>
+
+<RELATION standard_case_string="40 L. Ed. 225" X_vs_Y_string="RICHARDS v. CHASE ELEVATOR CO. et al" standard_case="94271_3" X_vs_Y="94271_4" gram_type="pre_nom" relation_type="equivalence" id="94271_9" ></RELATION>
+
+<RELATION theme="94271_4" party1="94271_5" party1_string="RICHARDS" theme_string="RICHARDS v. CHASE ELEVATOR CO. et al" gram_type="infix" relation_type="asymmetric" id="94271_12" ></RELATION>
+
+<RELATION party2="94271_6" theme="94271_4" theme_string="RICHARDS v. CHASE ELEVATOR CO. et al" party2_string="CHASE ELEVATOR CO. et al" gram_type="infix" relation_type="asymmetric" id="94271_13" ></RELATION>
+
+<RELATION theme="94271_17" party1="94271_18" party1_string="Stow" theme_string="Stow v. Chicago" gram_type="infix" relation_type="asymmetric" id="94271_20" ></RELATION>
+
+<RELATION party2="94271_19" theme="94271_17" theme_string="Stow v. Chicago" party2_string="Chicago" gram_type="infix" relation_type="asymmetric" id="94271_21" ></RELATION>
+

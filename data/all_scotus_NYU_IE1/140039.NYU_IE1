@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['goforthgas#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_978" id1="140031" volume="543" start="0" page_number="978" standard_reporter="U.S." citation_global_level_id="7637.002" line="1" id="140039_1" citation_local_level_id="0" >543 U.S. 978</CITATION>
+
+<CITATION party2="EAST TENNESSEE NATURAL GAS CO" party1="GOFORTH ET AL." citation_global_level_id="27391.001" party2_short="GAS" line="2" id="140039_2" alternative_keys="['u.s._543_978']" end="64" entry_type="party_key" lookup_key="goforthgas#1" id1="140039" start="17" party1_short="GOFORTH" citation_local_level_id="1" >GOFORTH ET AL. v. EAST TENNESSEE NATURAL GAS CO</CITATION>
+
+<NAME end="31" start="17" party1_of="140039_2" all_names="GOFORTH" local_name_id="1" id="140039_3" >GOFORTH ET AL.</NAME>
+
+<NAME end="64" start="35" all_names="EAST TENNESSEE NATURAL GAS CO" party2_of="140039_2" local_name_id="2" id="140039_4" >EAST TENNESSEE NATURAL GAS CO</NAME>
+
+<ORGANIZATION start="40" end="64" id="140039_5" >TENNESSEE NATURAL GAS CO</ORGANIZATION>
+
+<DOCKET end="80" entry_type="docket" lookup_key="goforthgas#1" id1="140039" start="74" citation_global_level_id="27391.001" line="3" id="140039_8" citation_local_level_id="1" >04-221</DOCKET>
+
+<ORGANIZATION start="86" end="116" id="140039_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="122" citation_global_level_id="27391.001" end="138" id="140039_10" citation_local_level_id="1" >November 8, 2004</DATE>
+
+<NAME start="170" local_name_id="3" end="173" id="140039_15" all_names="CIR" >Cir</NAME>
+
+<CITATION end="223" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_361_808" id1="Dummy_File_6680" volume="361" start="210" page_number="808" standard_reporter="F.3D" citation_global_level_id="70530.001" line="8" id="140039_14" citation_local_level_id="2" >361 F. 3d 808</CITATION>
+
+<RELATION theme="140039_2" party1="140039_3" party1_string="GOFORTH ET AL." theme_string="GOFORTH ET AL. v. EAST TENNESSEE NATURAL GAS CO" gram_type="infix" relation_type="asymmetric" id="140039_6" ></RELATION>
+
+<RELATION party2="140039_4" theme="140039_2" theme_string="GOFORTH ET AL. v. EAST TENNESSEE NATURAL GAS CO" party2_string="EAST TENNESSEE NATURAL GAS CO" gram_type="infix" relation_type="asymmetric" id="140039_7" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 978" X_vs_Y_string="GOFORTH ET AL. v. EAST TENNESSEE NATURAL GAS CO" standard_case="140039_1" X_vs_Y="140039_2" gram_type="multi_line" relation_type="equivalence" id="140039_11" ></RELATION>
+
+<RELATION at_date_string="November 8, 2004" theme="140039_2" at_date="140039_10" theme_string="GOFORTH ET AL. v. EAST TENNESSEE NATURAL GAS CO" gram_type="multi_line" relation_type="asymmetric" id="140039_13" ></RELATION>
+
+<RELATION theme="140039_2" includes_docket_string="04-221" includes_docket="140039_8" theme_string="GOFORTH ET AL. v. EAST TENNESSEE NATURAL GAS CO" gram_type="multi_line" relation_type="asymmetric" id="140039_12" ></RELATION>
+

@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['reichcollins#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1109" id1="116742" volume="510" start="0" page_number="1109" standard_reporter="U.S." citation_global_level_id="32.002" line="1" id="116738_1" citation_local_level_id="0" >510 U.S. 1109</CITATION>
+
+<CITATION party2="Collins, Revenue Commissioner of Georgia, et al" party1="Reich" citation_global_level_id="45595.001" party2_short="Collins" line="1" id="116738_3" alternative_keys="['u.s._510_1109']" end="74" entry_type="party_key" lookup_key="reichcollins#1" id1="117883" start="18" party1_short="Reich" citation_local_level_id="1" >Reich v. Collins, Revenue Commissioner of Georgia, et al</CITATION>
+
+<NAME end="23" start="18" party1_of="116738_3" all_names="REICH" local_name_id="1" id="116738_4" >Reich</NAME>
+
+<NAME end="74" start="27" all_names="COLLINS REVENUE COMMISSIONER OF GEORGIA" party2_of="116738_3" local_name_id="2" id="116738_5" >Collins, Revenue Commissioner of Georgia, et al</NAME>
+
+<DOCKET end="90" entry_type="docket" lookup_key="u.s._510_1109" id1="116742" start="84" citation_global_level_id="32.002" line="1" id="116738_2" citation_local_level_id="0" >93-908</DOCKET>
+
+<DATE start="132" end="149" id="116738_6" >February 22, 1994</DATE>
+
+<NAME start="225" local_name_id="3" end="235" id="116738_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<NAME start="255" local_name_id="4" end="263" id="116738_15" all_names="QUESTION" >Question</NAME>
+
+<CITATION alternative_keys="['s.e.2d_437_320', 'reichcollins#1']" end="320" reporter="Ga." entry_type="standard_key" lookup_key="ga._263_602" id1="117883" volume="263" start="309" page_number="602" standard_reporter="GA." citation_global_level_id="45595.007" line="3" id="116738_12" citation_local_level_id="2" >263 Ga. 602</CITATION>
+
+<CITATION alternative_keys="['ga._263_602', 'reichcollins#1']" end="338" reporter="S. E. 2d" entry_type="standard_key" lookup_key="s.e.2d_437_320" id1="117883" volume="437" start="322" page_number="320" standard_reporter="S.E.2D" citation_global_level_id="45595.006" line="3" id="116738_13" citation_local_level_id="3" >437 S. E. 2d 320</CITATION>
+
+<RELATION theme="116738_1" includes_docket_string="93-908" includes_docket="116738_2" theme_string="510 U.S. 1109" gram_type="apposition" relation_type="asymmetric" id="116738_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1109" X_vs_Y_string="Reich v. Collins, Revenue Commissioner of Georgia, et al" standard_case="116738_1" X_vs_Y="116738_3" gram_type="pre_nom" relation_type="equivalence" id="116738_7" ></RELATION>
+
+<RELATION theme="116738_3" includes_docket_string="93-908" includes_docket="116738_2" theme_string="Reich v. Collins, Revenue Commissioner of Georgia, et al" gram_type="apposition" relation_type="asymmetric" id="116738_10" ></RELATION>
+
+<RELATION theme="116738_3" party1="116738_4" party1_string="Reich" theme_string="Reich v. Collins, Revenue Commissioner of Georgia, et al" gram_type="infix" relation_type="asymmetric" id="116738_8" ></RELATION>
+
+<RELATION party2="116738_5" theme="116738_3" theme_string="Reich v. Collins, Revenue Commissioner of Georgia, et al" party2_string="Collins, Revenue Commissioner of Georgia, et al" gram_type="infix" relation_type="asymmetric" id="116738_9" ></RELATION>
+

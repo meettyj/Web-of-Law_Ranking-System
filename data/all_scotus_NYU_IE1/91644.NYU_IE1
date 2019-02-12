@@ -1,0 +1,44 @@
+<CITATION alternative_keys="['statemontague#2', 'u.s._117_611', 'l.ed._29_1003']" end="12" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._6_914" id1="91644" volume="6" start="0" page_number="914" standard_reporter="S.CT." citation_global_level_id="53206.002" line="1" id="91644_1" citation_local_level_id="0" >6 S. Ct. 914</CITATION>
+
+<CITATION alternative_keys="['s.ct._6_914', 'statemontague#2', 'l.ed._29_1003']" end="29" reporter="U.S." entry_type="standard_key" lookup_key="u.s._117_611" id1="91644" volume="117" start="17" page_number="611" standard_reporter="U.S." citation_global_level_id="53206.003" line="1" id="91644_2" citation_local_level_id="1" >117 U.S. 611</CITATION>
+
+<CITATION alternative_keys="['s.ct._6_914', 'u.s._117_611', 'statemontague#2']" end="48" reporter="L. Ed." entry_type="standard_key" lookup_key="l.ed._29_1003" id1="91644" volume="29" start="34" page_number="1003" standard_reporter="L.ED." citation_global_level_id="53206.004" line="1" id="91644_3" citation_local_level_id="2" >29 L. Ed. 1003</CITATION>
+
+<NAME start="37" local_name_id="1" end="42" id="91644_8" all_names="L ED" >L. Ed</NAME>
+
+<CITATION party2="MONTAGUE and others.     Filed" party1="STATE and others, Trustees, etc.," citation_global_level_id="53206.005" party2_short="MONTAGUE" line="1" id="91644_4" alternative_keys="['u.s._117_611', 'l.ed._29_1003', 's.ct._6_914']" end="120" entry_type="party_key" lookup_key="statemontague#2" id1="91644" start="53" party1_short="STATE" citation_local_level_id="3" >STATE and others, Trustees, etc., v. MONTAGUE and others. Filed</CITATION>
+
+<NAME end="86" start="53" party1_of="91644_4" all_names="STATE AND OTHERS TRUSTEES ETC" local_name_id="2" id="91644_5" >STATE and others, Trustees, etc.,</NAME>
+
+<PROFESSION start="71" end="79" plural="True" id="91644_9" >Trustees</PROFESSION>
+
+<NAME end="120" start="90" all_names="MONTAGUE AND OTHERS FILED" party2_of="91644_4" local_name_id="3" id="91644_6" >MONTAGUE and others. Filed</NAME>
+
+<DATE start="121" citation_global_level_id="53206.005" end="135" id="91644_7" citation_local_level_id="3" >April 12, 1886</DATE>
+
+<NAME start="186" local_name_id="4" end="202" id="91644_16" all_names="XENOPHON WHEELER" >Xenophon Wheeler</NAME>
+
+<LEGAL_ROLE start="208" end="217" plural="True" id="91644_17" party="party2" >appellees</LEGAL_ROLE>
+
+<NAME start="225" local_name_id="5" end="231" id="91644_18" all_names="MILLER" >MILLER</NAME>
+
+<ORGANIZATION start="321" end="326" id="91644_19" >court</ORGANIZATION>
+
+<LEGAL_ROLE start="374" end="384" plural="True" id="91644_20" >plaintiffs</LEGAL_ROLE>
+
+<ORGANIZATION start="493" end="498" id="91644_21" >court</ORGANIZATION>
+
+<ORGANIZATION start="680" end="685" id="91644_22" >court</ORGANIZATION>
+
+<RELATION standard_case_string="6 S. Ct. 914" X_vs_Y_string="STATE and others, Trustees, etc., v. MONTAGUE and others.     Filed" standard_case="91644_1" X_vs_Y="91644_4" gram_type="pre_nom" relation_type="equivalence" id="91644_11" ></RELATION>
+
+<RELATION standard_case_string="117 U.S. 611" X_vs_Y_string="STATE and others, Trustees, etc., v. MONTAGUE and others.     Filed" standard_case="91644_2" X_vs_Y="91644_4" gram_type="pre_nom" relation_type="equivalence" id="91644_12" ></RELATION>
+
+<RELATION standard_case_string="29 L. Ed. 1003" X_vs_Y_string="STATE and others, Trustees, etc., v. MONTAGUE and others.     Filed" standard_case="91644_3" X_vs_Y="91644_4" gram_type="pre_nom" relation_type="equivalence" id="91644_10" ></RELATION>
+
+<RELATION at_date_string="April 12, 1886" theme="91644_4" at_date="91644_7" theme_string="STATE and others, Trustees, etc., v. MONTAGUE and others.     Filed" gram_type="pre_nom" relation_type="asymmetric" id="91644_15" ></RELATION>
+
+<RELATION theme="91644_4" party1="91644_5" party1_string="STATE and others, Trustees, etc.," theme_string="STATE and others, Trustees, etc., v. MONTAGUE and others.     Filed" gram_type="infix" relation_type="asymmetric" id="91644_13" ></RELATION>
+
+<RELATION party2="91644_6" theme="91644_4" theme_string="STATE and others, Trustees, etc., v. MONTAGUE and others.     Filed" party2_string="MONTAGUE and others.     Filed" gram_type="infix" relation_type="asymmetric" id="91644_14" ></RELATION>
+

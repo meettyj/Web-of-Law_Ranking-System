@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['cooperbrothers#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1063" id1="116246" volume="510" start="0" page_number="1063" standard_reporter="U.S." citation_global_level_id="3266.002" line="1" id="116238_1" citation_local_level_id="0" >510 U.S. 1063</CITATION>
+
+<CITATION party2="Salomon Brothers, Inc" party1="Cooper" citation_global_level_id="60241.001" party2_short="Brothers" line="1" id="116238_3" alternative_keys="['u.s._510_1063']" end="49" entry_type="party_key" lookup_key="cooperbrothers#2" id1="116238" start="18" party1_short="Cooper" citation_local_level_id="1" >Cooper v. Salomon Brothers, Inc</CITATION>
+
+<NAME end="24" start="18" party1_of="116238_3" all_names="COOPER" local_name_id="1" id="116238_4" >Cooper</NAME>
+
+<NAME end="49" start="28" all_names="SALOMON BROTHERS INC" party2_of="116238_3" local_name_id="2" id="116238_5" >Salomon Brothers, Inc</NAME>
+
+<DOCKET end="66" entry_type="docket" lookup_key="u.s._510_1063" id1="116246" start="59" citation_global_level_id="3266.002" line="1" id="116238_2" citation_local_level_id="0" >93-6934</DOCKET>
+
+<DATE start="108" end="124" id="116238_6" >January 10, 1994</DATE>
+
+<NAME start="201" local_name_id="3" end="211" id="116238_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="246" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_1_82" id1="Dummy_File_116170" volume="1" start="236" page_number="82" standard_reporter="F.3D" citation_global_level_id="180020.001" line="3" id="116238_12" citation_local_level_id="2" >1 F. 3d 82</CITATION>
+
+<RELATION theme="116238_1" includes_docket_string="93-6934" includes_docket="116238_2" theme_string="510 U.S. 1063" gram_type="apposition" relation_type="asymmetric" id="116238_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1063" X_vs_Y_string="Cooper v. Salomon Brothers, Inc" standard_case="116238_1" X_vs_Y="116238_3" gram_type="pre_nom" relation_type="equivalence" id="116238_7" ></RELATION>
+
+<RELATION theme="116238_3" includes_docket_string="93-6934" includes_docket="116238_2" theme_string="Cooper v. Salomon Brothers, Inc" gram_type="apposition" relation_type="asymmetric" id="116238_10" ></RELATION>
+
+<RELATION theme="116238_3" party1="116238_4" party1_string="Cooper" theme_string="Cooper v. Salomon Brothers, Inc" gram_type="infix" relation_type="asymmetric" id="116238_8" ></RELATION>
+
+<RELATION party2="116238_5" theme="116238_3" theme_string="Cooper v. Salomon Brothers, Inc" party2_string="Salomon Brothers, Inc" gram_type="infix" relation_type="asymmetric" id="116238_9" ></RELATION>
+

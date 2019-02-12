@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['jeffersonrockett#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_1028" id1="136082" volume="541" start="0" page_number="1028" standard_reporter="U.S." citation_global_level_id="7430.002" line="1" id="136086_1" citation_local_level_id="0" >541 U.S. 1028</CITATION>
+
+<CITATION party2="ROCKETT ET AL" party1="JEFFERSON" citation_global_level_id="22472.001" party2_short="ROCKETT" line="2" id="136086_2" alternative_keys="['u.s._541_1028']" end="44" entry_type="party_key" lookup_key="jeffersonrockett#1" id1="136086" start="18" party1_short="JEFFERSON" citation_local_level_id="1" >JEFFERSON v. ROCKETT ET AL</CITATION>
+
+<NAME end="27" start="18" party1_of="136086_2" all_names="JEFFERSON" local_name_id="1" id="136086_3" >JEFFERSON</NAME>
+
+<NAME end="44" start="31" all_names="ROCKETT" party2_of="136086_2" local_name_id="2" id="136086_4" >ROCKETT ET AL</NAME>
+
+<DOCKET end="61" entry_type="docket" lookup_key="jeffersonrockett#1" id1="136086" start="54" citation_global_level_id="22472.001" line="3" id="136086_7" citation_local_level_id="1" >03-8092</DOCKET>
+
+<ORGANIZATION start="67" end="97" id="136086_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="103" citation_global_level_id="22472.001" end="117" id="136086_9" citation_local_level_id="1" >April 26, 2004</DATE>
+
+<CITATION end="153" reporter="U. S." entry_type="standard_key" no_current_file="True" lookup_key="u.s._540_1222" id1="Dummy_File_92418" volume="540" start="139" page_number="1222" standard_reporter="U.S." citation_global_level_id="156268.001" line="8" id="136086_13" citation_local_level_id="2" >540 U. S. 1222</CITATION>
+
+<NAME start="155" local_name_id="3" end="164" id="136086_14" all_names="PETITIONS" >Petitions</NAME>
+
+<RELATION theme="136086_2" party1="136086_3" party1_string="JEFFERSON" theme_string="JEFFERSON v. ROCKETT ET AL" gram_type="infix" relation_type="asymmetric" id="136086_5" ></RELATION>
+
+<RELATION party2="136086_4" theme="136086_2" theme_string="JEFFERSON v. ROCKETT ET AL" party2_string="ROCKETT ET AL" gram_type="infix" relation_type="asymmetric" id="136086_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 1028" X_vs_Y_string="JEFFERSON v. ROCKETT ET AL" standard_case="136086_1" X_vs_Y="136086_2" gram_type="multi_line" relation_type="equivalence" id="136086_10" ></RELATION>
+
+<RELATION at_date_string="April 26, 2004" theme="136086_2" at_date="136086_9" theme_string="JEFFERSON v. ROCKETT ET AL" gram_type="multi_line" relation_type="asymmetric" id="136086_12" ></RELATION>
+
+<RELATION theme="136086_2" includes_docket_string="03-8092" includes_docket="136086_7" theme_string="JEFFERSON v. ROCKETT ET AL" gram_type="multi_line" relation_type="asymmetric" id="136086_11" ></RELATION>
+

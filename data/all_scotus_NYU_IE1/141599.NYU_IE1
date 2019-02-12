@@ -1,0 +1,36 @@
+<CITATION alternative_keys="['chilingirianstates#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1098" id1="141589" volume="543" start="0" page_number="1098" standard_reporter="U.S." citation_global_level_id="6101.002" line="1" id="141599_1" citation_local_level_id="0" >543 U.S. 1098</CITATION>
+
+<CITATION party2="UNITED STATES" party1="CHILINGIRIAN" citation_global_level_id="9797.001" party2_short="STATES" line="2" id="141599_2" alternative_keys="['u.s._543_1098']" end="47" entry_type="party_key" lookup_key="chilingirianstates#2" id1="141599" start="18" party1_short="CHILINGIRIAN" citation_local_level_id="1" >CHILINGIRIAN v. UNITED STATES</CITATION>
+
+<NAME end="30" start="18" party1_of="141599_2" all_names="CHILINGIRIAN" local_name_id="1" id="141599_3" >CHILINGIRIAN</NAME>
+
+<NAME end="47" start="34" all_names="UNITED STATES" party2_of="141599_2" local_name_id="2" id="141599_4" >UNITED STATES</NAME>
+
+<DOCKET end="63" entry_type="docket" lookup_key="chilingirianstates#2" id1="141599" start="57" citation_global_level_id="9797.001" line="3" id="141599_7" citation_local_level_id="1" >04-676</DOCKET>
+
+<ORGANIZATION start="69" end="99" id="141599_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="105" citation_global_level_id="9797.001" end="121" id="141599_9" citation_local_level_id="1" >January 24, 2005</DATE>
+
+<NAME start="153" local_name_id="3" end="156" id="141599_16" all_names="CIR" >Cir</NAME>
+
+<CITATION party2="Booker" party1="United States" citation_global_level_id="57130.001" party2_short="Booker" line="8" id="141599_13" end="312" entry_type="party_key" lookup_key="statesbooker#4" id1="137703" start="289" party1_short="States" citation_local_level_id="2" >United States v. Booker</CITATION>
+
+<NAME end="302" start="289" party1_of="141599_13" all_names="UNITED STATES" local_name_id="2" id="141599_14" >United States</NAME>
+
+<NAME end="312" start="306" all_names="BOOKER" party2_of="141599_13" local_name_id="4" id="141599_15" >Booker</NAME>
+
+<RELATION theme="141599_2" party1="141599_3" party1_string="CHILINGIRIAN" theme_string="CHILINGIRIAN v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="141599_5" ></RELATION>
+
+<RELATION party2="141599_4" theme="141599_2" theme_string="CHILINGIRIAN v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="141599_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1098" X_vs_Y_string="CHILINGIRIAN v. UNITED STATES" standard_case="141599_1" X_vs_Y="141599_2" gram_type="multi_line" relation_type="equivalence" id="141599_10" ></RELATION>
+
+<RELATION at_date_string="January 24, 2005" theme="141599_2" at_date="141599_9" theme_string="CHILINGIRIAN v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="141599_12" ></RELATION>
+
+<RELATION theme="141599_2" includes_docket_string="04-676" includes_docket="141599_7" theme_string="CHILINGIRIAN v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="141599_11" ></RELATION>
+
+<RELATION theme="141599_13" party1="141599_14" party1_string="United States" theme_string="United States v. Booker" gram_type="infix" relation_type="asymmetric" id="141599_17" ></RELATION>
+
+<RELATION party2="141599_15" theme="141599_13" theme_string="United States v. Booker" party2_string="Booker" gram_type="infix" relation_type="asymmetric" id="141599_18" ></RELATION>
+

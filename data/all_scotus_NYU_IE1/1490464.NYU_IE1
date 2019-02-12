@@ -1,0 +1,44 @@
+<CITATION alternative_keys="['browntexas#3', 'a._06_70']" end="20" reporter="U.S." entry_type="standard_key" lookup_key="u.s._548_928" id1="1490309" volume="548" start="1" page_number="928" year="2006" standard_reporter="U.S." citation_global_level_id="2152.002" line="2" id="1490464_1" citation_local_level_id="0" >548 U.S. 928 (2006)</CITATION>
+
+<DATE start="15" citation_global_level_id="2152.002" end="19" id="1490464_2" citation_local_level_id="0" >2006</DATE>
+
+<CITATION party2="TEXAS" party1="BROWN" citation_global_level_id="57926.001" party2_short="TEXAS" line="5" id="1490464_5" alternative_keys="['u.s._548_928', 'a._06_70']" end="37" entry_type="party_key" lookup_key="browntexas#3" id1="1490464" start="21" party1_short="BROWN" citation_local_level_id="1" >BROWN v. TEXAS</CITATION>
+
+<NAME end="26" start="21" party1_of="1490464_5" all_names="BROWN" local_name_id="1" id="1490464_6" >BROWN</NAME>
+
+<NAME end="37" start="32" all_names="TEXAS" party2_of="1490464_5" local_name_id="2" id="1490464_7" >TEXAS</NAME>
+
+<DOCKET end="50" entry_type="docket" lookup_key="browntexas#3" id1="1490464" start="43" citation_global_level_id="57926.001" line="6" id="1490464_11" citation_local_level_id="1" >06-5356</DOCKET>
+
+<CITATION alternative_keys="['u.s._548_928', 'browntexas#3']" end="57" reporter="A" entry_type="standard_key" lookup_key="a._06_70" id1="1490464" volume="06" start="52" page_number="70" standard_reporter="A." citation_global_level_id="57926.002" line="6" id="1490464_10" citation_local_level_id="2" >06A70</CITATION>
+
+<ORGANIZATION start="60" end="90" id="1490464_12" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="92" citation_global_level_id="57926.001" end="105" id="1490464_13" citation_local_level_id="1" >July 19, 2006</DATE>
+
+<NAME start="107" local_name_id="3" end="118" id="1490464_14" all_names="APPLICATION" >Application</NAME>
+
+<PROFESSION start="176" document_level_name_id="4" end="183" id="1490464_15" party="SCALIA" >JUSTICE</PROFESSION>
+
+<NAME start="184" local_name_id="4" end="190" id="1490464_16" all_names="SCALIA" >SCALIA</NAME>
+
+<ORGANIZATION start="219" end="224" id="1490464_17" >Court</ORGANIZATION>
+
+<NAME start="234" local_name_id="5" end="244" id="1490464_18" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION at_date_string="2006" theme="1490464_1" at_date="1490464_2" theme_string="548 U.S. 928 (2006)" gram_type="infix" relation_type="asymmetric" id="1490464_3" ></RELATION>
+
+<RELATION theme="1490464_5" party1="1490464_6" party1_string="BROWN" theme_string="BROWN  v.  TEXAS" gram_type="infix" relation_type="asymmetric" id="1490464_8" ></RELATION>
+
+<RELATION party2="1490464_7" theme="1490464_5" theme_string="BROWN  v.  TEXAS" party2_string="TEXAS" gram_type="infix" relation_type="asymmetric" id="1490464_9" ></RELATION>
+
+<RELATION theme="1490464_16" profession_string="JUSTICE" theme_string="SCALIA" profession="1490464_15" gram_type="pre_nom" relation_type="asymmetric" id="1490464_19" ></RELATION>
+
+<RELATION standard_case_string="548 U.S. 928 (2006)" X_vs_Y_string="BROWN  v.  TEXAS" standard_case="1490464_1" X_vs_Y="1490464_5" gram_type="multi_line" relation_type="equivalence" id="1490464_20" ></RELATION>
+
+<RELATION at_date_string="July 19, 2006" theme="1490464_5" at_date="1490464_13" theme_string="BROWN  v.  TEXAS" gram_type="multi_line" relation_type="asymmetric" id="1490464_23" ></RELATION>
+
+<RELATION standard_case_string="06A70" X_vs_Y_string="BROWN  v.  TEXAS" standard_case="1490464_10" X_vs_Y="1490464_5" gram_type="multi_line" relation_type="equivalence" id="1490464_21" ></RELATION>
+
+<RELATION theme="1490464_5" includes_docket_string="06-5356" includes_docket="1490464_11" theme_string="BROWN  v.  TEXAS" gram_type="multi_line" relation_type="asymmetric" id="1490464_22" ></RELATION>
+

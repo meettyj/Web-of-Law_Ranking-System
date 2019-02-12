@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['reyesmcelroy#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1057" id1="141020" volume="543" start="0" page_number="1057" standard_reporter="U.S." citation_global_level_id="3860.002" line="1" id="141030_1" citation_local_level_id="0" >543 U.S. 1057</CITATION>
+
+<CITATION party2="McELROY" party1="REYES" citation_global_level_id="7496.001" party2_short="McELROY" line="2" id="141030_2" alternative_keys="['u.s._543_1057']" end="34" entry_type="party_key" lookup_key="reyesmcelroy#1" id1="141030" start="18" party1_short="REYES" citation_local_level_id="1" >REYES v. McELROY</CITATION>
+
+<NAME end="23" start="18" party1_of="141030_2" all_names="REYES" local_name_id="1" id="141030_3" >REYES</NAME>
+
+<NAME end="34" start="27" all_names="MCELROY" party2_of="141030_2" local_name_id="2" id="141030_4" >McELROY</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="reyesmcelroy#1" id1="141030" start="44" citation_global_level_id="7496.001" line="3" id="141030_7" citation_local_level_id="1" >04-5983</DOCKET>
+
+<ORGANIZATION start="57" end="87" id="141030_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="93" citation_global_level_id="7496.001" end="109" id="141030_9" citation_local_level_id="1" >January 10, 2005</DATE>
+
+<NAME start="140" local_name_id="3" end="143" id="141030_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="141030_2" party1="141030_3" party1_string="REYES" theme_string="REYES v. McELROY" gram_type="infix" relation_type="asymmetric" id="141030_5" ></RELATION>
+
+<RELATION party2="141030_4" theme="141030_2" theme_string="REYES v. McELROY" party2_string="McELROY" gram_type="infix" relation_type="asymmetric" id="141030_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1057" X_vs_Y_string="REYES v. McELROY" standard_case="141030_1" X_vs_Y="141030_2" gram_type="multi_line" relation_type="equivalence" id="141030_10" ></RELATION>
+
+<RELATION at_date_string="January 10, 2005" theme="141030_2" at_date="141030_9" theme_string="REYES v. McELROY" gram_type="multi_line" relation_type="asymmetric" id="141030_12" ></RELATION>
+
+<RELATION theme="141030_2" includes_docket_string="04-5983" includes_docket="141030_7" theme_string="REYES v. McELROY" gram_type="multi_line" relation_type="asymmetric" id="141030_11" ></RELATION>
+

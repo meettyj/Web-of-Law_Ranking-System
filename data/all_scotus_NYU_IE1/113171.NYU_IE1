@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['merasstates#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_824" id1="113168" volume="510" start="0" page_number="824" standard_reporter="U.S." citation_global_level_id="507.002" line="1" id="113171_1" citation_local_level_id="0" >510 U.S. 824</CITATION>
+
+<CITATION party2="United States" party1="Herrera-Meras" citation_global_level_id="55531.001" party2_short="States" line="1" id="113171_3" alternative_keys="['u.s._510_824']" end="47" entry_type="party_key" lookup_key="merasstates#1" id1="113171" start="17" party1_short="Meras" citation_local_level_id="1" >Herrera-Meras v. United States</CITATION>
+
+<NAME end="30" start="17" party1_of="113171_3" all_names="HERRERA-MERAS" local_name_id="1" id="113171_4" >Herrera-Meras</NAME>
+
+<NAME end="47" start="34" all_names="UNITED STATES" party2_of="113171_3" local_name_id="2" id="113171_5" >United States</NAME>
+
+<DOCKET end="64" entry_type="docket" lookup_key="u.s._510_824" id1="113168" start="57" citation_global_level_id="507.002" line="1" id="113171_2" citation_local_level_id="0" >92-1985</DOCKET>
+
+<DATE start="60" end="64" id="113171_6" >1985</DATE>
+
+<DATE start="106" end="121" id="113171_7" >October 4, 1993</DATE>
+
+<NAME start="199" local_name_id="3" end="209" id="113171_15" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="247" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_985_575" id1="Dummy_File_41504" volume="985" start="234" page_number="575" standard_reporter="F.2D" citation_global_level_id="105354.001" line="3" id="113171_14" citation_local_level_id="2" >985 F. 2d 575</CITATION>
+
+<RELATION theme="113171_1" includes_docket_string="92-1985" includes_docket="113171_2" theme_string="510 U.S. 824" gram_type="apposition" relation_type="asymmetric" id="113171_12" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 824" X_vs_Y_string="Herrera-Meras v. United States" standard_case="113171_1" X_vs_Y="113171_3" gram_type="pre_nom" relation_type="equivalence" id="113171_8" ></RELATION>
+
+<RELATION theme="113171_3" includes_docket_string="92-1985" includes_docket="113171_2" theme_string="Herrera-Meras v. United States" gram_type="apposition" relation_type="asymmetric" id="113171_11" ></RELATION>
+
+<RELATION party2="113171_5" theme="113171_3" theme_string="Herrera-Meras v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="113171_10" ></RELATION>
+
+<RELATION theme="113171_3" party1="113171_4" party1_string="Herrera-Meras" theme_string="Herrera-Meras v. United States" gram_type="infix" relation_type="asymmetric" id="113171_9" ></RELATION>
+
+<RELATION at_date_string="1985" theme="113171_2" at_date="113171_6" theme_string="92-1985" gram_type="infix" relation_type="asymmetric" id="113171_13" ></RELATION>
+

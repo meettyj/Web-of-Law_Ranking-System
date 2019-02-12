@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['branchberghuis#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._542_942" id1="137490" volume="542" start="0" page_number="942" standard_reporter="U.S." citation_global_level_id="9502.002" line="1" id="137502_1" citation_local_level_id="0" >542 U.S. 942</CITATION>
+
+<CITATION party2="BERGHUIS, WARDEN" party1="BRANCH" citation_global_level_id="9502.007" party2_short="BERGHUIS" line="2" id="137502_2" alternative_keys="['u.s._542_942']" end="43" entry_type="party_key" lookup_key="branchberghuis#1" id1="137490" start="17" party1_short="BRANCH" citation_local_level_id="1" >BRANCH v. BERGHUIS, WARDEN</CITATION>
+
+<NAME end="23" start="17" party1_of="137502_2" all_names="BRANCH" local_name_id="1" id="137502_3" >BRANCH</NAME>
+
+<NAME end="43" start="27" all_names="BERGHUIS WARDEN" party2_of="137502_2" local_name_id="2" id="137502_4" >BERGHUIS, WARDEN</NAME>
+
+<DOCKET alternative_keys="['u.s._542_942']" end="61" entry_type="docket" lookup_key="branchberghuis#1" id1="137490" start="53" citation_global_level_id="9502.007" line="3" id="137502_7" citation_local_level_id="1" >03-10032</DOCKET>
+
+<ORGANIZATION start="67" end="97" id="137502_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="103" citation_global_level_id="9502.007" end="116" id="137502_9" citation_local_level_id="1" >June 28, 2004</DATE>
+
+<NAME start="148" local_name_id="3" end="151" id="137502_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="137502_2" party1="137502_3" party1_string="BRANCH" theme_string="BRANCH v. BERGHUIS, WARDEN" gram_type="infix" relation_type="asymmetric" id="137502_5" ></RELATION>
+
+<RELATION party2="137502_4" theme="137502_2" theme_string="BRANCH v. BERGHUIS, WARDEN" party2_string="BERGHUIS, WARDEN" gram_type="infix" relation_type="asymmetric" id="137502_6" ></RELATION>
+
+<RELATION standard_case_string="542 U.S. 942" X_vs_Y_string="BRANCH v. BERGHUIS, WARDEN" standard_case="137502_1" X_vs_Y="137502_2" gram_type="multi_line" relation_type="equivalence" id="137502_10" ></RELATION>
+
+<RELATION at_date_string="June 28, 2004" theme="137502_2" at_date="137502_9" theme_string="BRANCH v. BERGHUIS, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="137502_12" ></RELATION>
+
+<RELATION theme="137502_2" includes_docket_string="03-10032" includes_docket="137502_7" theme_string="BRANCH v. BERGHUIS, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="137502_11" ></RELATION>
+

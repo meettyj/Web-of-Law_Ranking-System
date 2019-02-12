@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['insurancesaklad#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1184" id1="117516" volume="510" start="0" page_number="1184" standard_reporter="U.S." citation_global_level_id="7707.002" line="1" id="117507_1" citation_local_level_id="0" >510 U.S. 1184</CITATION>
+
+<CITATION party2="Saklad" party1="Standard Insurance Co." citation_global_level_id="42271.001" party2_short="Saklad" line="1" id="117507_3" alternative_keys="['u.s._510_1184']" end="50" entry_type="party_key" lookup_key="insurancesaklad#1" id1="117507" start="18" party1_short="Insurance" citation_local_level_id="1" >Standard Insurance Co. v. Saklad</CITATION>
+
+<NAME end="40" start="18" party1_of="117507_3" all_names="STANDARD INSURANCE CO" local_name_id="1" id="117507_4" >Standard Insurance Co.</NAME>
+
+<ORGANIZATION start="18" end="39" id="117507_7" >Standard Insurance Co</ORGANIZATION>
+
+<NAME end="50" start="44" all_names="SAKLAD" party2_of="117507_3" local_name_id="2" id="117507_5" >Saklad</NAME>
+
+<DOCKET end="66" entry_type="docket" lookup_key="u.s._510_1184" id1="117516" start="60" citation_global_level_id="7707.002" line="1" id="117507_2" citation_local_level_id="0" >93-799</DOCKET>
+
+<DATE start="108" end="121" id="117507_6" >March 7, 1994</DATE>
+
+<ORGANIZATION start="262" end="287" id="117507_14" >Council of Life Insurance</ORGANIZATION>
+
+<NAME start="345" local_name_id="3" end="355" id="117507_15" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="412" reporter="P. 2d" entry_type="standard_key" no_current_file="True" lookup_key="p.2d_849_1150" id1="Dummy_File_42360" volume="849" start="398" page_number="1150" standard_reporter="P.2D" citation_global_level_id="106210.001" line="3" id="117507_13" citation_local_level_id="2" >849 P. 2d 1150</CITATION>
+
+<RELATION theme="117507_1" includes_docket_string="93-799" includes_docket="117507_2" theme_string="510 U.S. 1184" gram_type="apposition" relation_type="asymmetric" id="117507_12" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1184" X_vs_Y_string="Standard Insurance Co. v. Saklad" standard_case="117507_1" X_vs_Y="117507_3" gram_type="pre_nom" relation_type="equivalence" id="117507_8" ></RELATION>
+
+<RELATION theme="117507_3" includes_docket_string="93-799" includes_docket="117507_2" theme_string="Standard Insurance Co. v. Saklad" gram_type="apposition" relation_type="asymmetric" id="117507_11" ></RELATION>
+
+<RELATION party2="117507_5" theme="117507_3" theme_string="Standard Insurance Co. v. Saklad" party2_string="Saklad" gram_type="infix" relation_type="asymmetric" id="117507_10" ></RELATION>
+
+<RELATION theme="117507_3" party1="117507_4" party1_string="Standard Insurance Co." theme_string="Standard Insurance Co. v. Saklad" gram_type="infix" relation_type="asymmetric" id="117507_9" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['thompsontexas#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_899" id1="132445" volume="540" start="0" page_number="899" standard_reporter="U.S." citation_global_level_id="1697.002" line="1" id="132450_1" citation_local_level_id="0" >540 U.S. 899</CITATION>
+
+<CITATION party2="TEXAS" party1="THOMPSON" citation_global_level_id="32102.001" party2_short="TEXAS" line="1" id="132450_3" alternative_keys="['u.s._540_899']" end="34" entry_type="party_key" lookup_key="thompsontexas#1" id1="132450" start="17" party1_short="THOMPSON" citation_local_level_id="1" >THOMPSON v. TEXAS</CITATION>
+
+<NAME end="25" start="17" party1_of="132450_3" all_names="THOMPSON" local_name_id="1" id="132450_4" >THOMPSON</NAME>
+
+<NAME end="34" start="29" all_names="TEXAS" party2_of="132450_3" local_name_id="2" id="132450_5" >TEXAS</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="u.s._540_899" id1="132445" start="44" citation_global_level_id="1697.002" line="1" id="132450_2" citation_local_level_id="0" >03-5274</DOCKET>
+
+<DATE start="93" end="108" id="132450_6" >October 6, 2003</DATE>
+
+<NAME start="191" local_name_id="3" end="201" id="132450_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="240" reporter="S. W. 3d" entry_type="standard_key" no_current_file="True" lookup_key="s.w.3d_93_16" id1="Dummy_File_212690" volume="93" start="226" page_number="16" standard_reporter="S.W.3D" citation_global_level_id="276540.001" line="3" id="132450_12" citation_local_level_id="2" >93 S. W. 3d 16</CITATION>
+
+<RELATION theme="132450_1" includes_docket_string="03-5274" includes_docket="132450_2" theme_string="540 U.S. 899" gram_type="apposition" relation_type="asymmetric" id="132450_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 899" X_vs_Y_string="THOMPSON v. TEXAS" standard_case="132450_1" X_vs_Y="132450_3" gram_type="pre_nom" relation_type="equivalence" id="132450_7" ></RELATION>
+
+<RELATION theme="132450_3" includes_docket_string="03-5274" includes_docket="132450_2" theme_string="THOMPSON v. TEXAS" gram_type="apposition" relation_type="asymmetric" id="132450_10" ></RELATION>
+
+<RELATION theme="132450_3" party1="132450_4" party1_string="THOMPSON" theme_string="THOMPSON v. TEXAS" gram_type="infix" relation_type="asymmetric" id="132450_8" ></RELATION>
+
+<RELATION party2="132450_5" theme="132450_3" theme_string="THOMPSON v. TEXAS" party2_string="TEXAS" gram_type="infix" relation_type="asymmetric" id="132450_9" ></RELATION>
+

@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['wynterkollus#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_922" id1="132747" volume="540" start="0" page_number="922" standard_reporter="U.S." citation_global_level_id="5065.002" line="1" id="132750_1" citation_local_level_id="0" >540 U.S. 922</CITATION>
+
+<CITATION party2="KOLLUS" party1="WYNTER" citation_global_level_id="34243.001" party2_short="KOLLUS" line="1" id="132750_3" alternative_keys="['u.s._540_922']" end="33" entry_type="party_key" lookup_key="wynterkollus#1" id1="132750" start="17" party1_short="WYNTER" citation_local_level_id="1" >WYNTER v. KOLLUS</CITATION>
+
+<NAME end="23" start="17" party1_of="132750_3" all_names="WYNTER" local_name_id="1" id="132750_4" >WYNTER</NAME>
+
+<NAME end="33" start="27" all_names="KOLLUS" party2_of="132750_3" local_name_id="2" id="132750_5" >KOLLUS</NAME>
+
+<DOCKET end="50" entry_type="docket" lookup_key="u.s._540_922" id1="132747" start="43" citation_global_level_id="5065.002" line="1" id="132750_2" citation_local_level_id="0" >03-5666</DOCKET>
+
+<DATE start="92" end="107" id="132750_6" >October 6, 2003</DATE>
+
+<NAME start="185" local_name_id="3" end="195" id="132750_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="132750_1" includes_docket_string="03-5666" includes_docket="132750_2" theme_string="540 U.S. 922" gram_type="apposition" relation_type="asymmetric" id="132750_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 922" X_vs_Y_string="WYNTER v. KOLLUS" standard_case="132750_1" X_vs_Y="132750_3" gram_type="pre_nom" relation_type="equivalence" id="132750_7" ></RELATION>
+
+<RELATION theme="132750_3" includes_docket_string="03-5666" includes_docket="132750_2" theme_string="WYNTER v. KOLLUS" gram_type="apposition" relation_type="asymmetric" id="132750_10" ></RELATION>
+
+<RELATION theme="132750_3" party1="132750_4" party1_string="WYNTER" theme_string="WYNTER v. KOLLUS" gram_type="infix" relation_type="asymmetric" id="132750_8" ></RELATION>
+
+<RELATION party2="132750_5" theme="132750_3" theme_string="WYNTER v. KOLLUS" party2_string="KOLLUS" gram_type="infix" relation_type="asymmetric" id="132750_9" ></RELATION>
+

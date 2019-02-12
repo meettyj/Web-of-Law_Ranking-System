@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['evansevans#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1116" id1="121071" volume="535" start="0" page_number="1116" standard_reporter="U.S." citation_global_level_id="1028.002" line="1" id="121063_1" citation_local_level_id="0" >535 U.S. 1116</CITATION>
+
+<CITATION party2="EVANS" party1="EVANS" citation_global_level_id="24871.001" party2_short="EVANS" line="2" id="121063_2" alternative_keys="['u.s._535_1116']" end="32" entry_type="party_key" lookup_key="evansevans#1" id1="121063" start="18" party1_short="EVANS" citation_local_level_id="1" >EVANS v. EVANS</CITATION>
+
+<NAME end="23" start="18" party1_of="121063_2" all_names="EVANS" local_name_id="1" id="121063_3" >EVANS</NAME>
+
+<NAME end="32" start="27" all_names="EVANS" party2_of="121063_2" local_name_id="1" id="121063_4" >EVANS</NAME>
+
+<DOCKET end="49" entry_type="docket" lookup_key="evansevans#1" id1="121063" start="42" citation_global_level_id="24871.001" line="3" id="121063_7" citation_local_level_id="1" >01-9404</DOCKET>
+
+<DATE start="95" citation_global_level_id="24871.001" end="107" id="121063_8" citation_local_level_id="1" >June 3, 2002</DATE>
+
+<NAME start="129" local_name_id="2" end="132" id="121063_13" all_names="SUP" >Sup</NAME>
+
+<CITATION end="216" reporter="N. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.e.2d_757_775" id1="Dummy_File_206811" volume="757" start="200" page_number="775" standard_reporter="N.E.2D" citation_global_level_id="270661.001" line="8" id="121063_12" citation_local_level_id="2" >757 N. E. 2d 775</CITATION>
+
+<RELATION theme="121063_2" party1="121063_3" party1_string="EVANS" theme_string="EVANS v. EVANS" gram_type="infix" relation_type="asymmetric" id="121063_5" ></RELATION>
+
+<RELATION party2="121063_4" theme="121063_2" theme_string="EVANS v. EVANS" party2_string="EVANS" gram_type="infix" relation_type="asymmetric" id="121063_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1116" X_vs_Y_string="EVANS v. EVANS" standard_case="121063_1" X_vs_Y="121063_2" gram_type="multi_line" relation_type="equivalence" id="121063_9" ></RELATION>
+
+<RELATION at_date_string="June 3, 2002" theme="121063_2" at_date="121063_8" theme_string="EVANS v. EVANS" gram_type="multi_line" relation_type="asymmetric" id="121063_11" ></RELATION>
+
+<RELATION theme="121063_2" includes_docket_string="01-9404" includes_docket="121063_7" theme_string="EVANS v. EVANS" gram_type="multi_line" relation_type="asymmetric" id="121063_10" ></RELATION>
+

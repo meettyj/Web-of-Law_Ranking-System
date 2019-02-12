@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['messinalabatt#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_907" id1="127983" volume="538" start="0" page_number="907" standard_reporter="U.S." citation_global_level_id="1175.002" line="1" id="127977_1" citation_local_level_id="0" >538 U.S. 907</CITATION>
+
+<CITATION party2="JOHN LABATT LTD. ET AL" party1="MESSINA" citation_global_level_id="9848.001" party2_short="LABATT" line="1" id="127977_3" alternative_keys="['u.s._538_907']" end="50" entry_type="party_key" lookup_key="messinalabatt#1" id1="127977" start="17" party1_short="MESSINA" citation_local_level_id="1" >MESSINA v. JOHN LABATT LTD. ET AL</CITATION>
+
+<NAME end="24" start="17" party1_of="127977_3" all_names="MESSINA" local_name_id="1" id="127977_4" >MESSINA</NAME>
+
+<NAME end="50" start="28" all_names="JOHN LABATT LTD" party2_of="127977_3" local_name_id="2" id="127977_5" >JOHN LABATT LTD. ET AL</NAME>
+
+<DOCKET end="67" entry_type="docket" lookup_key="u.s._538_907" id1="127983" start="60" citation_global_level_id="1175.002" line="1" id="127977_2" citation_local_level_id="0" >02-1001</DOCKET>
+
+<DATE start="109" end="123" id="127977_6" >March 10, 2003</DATE>
+
+<NAME start="254" local_name_id="3" end="257" id="127977_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="307" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_299_635" id1="Dummy_File_209919" volume="299" start="294" page_number="635" standard_reporter="F.3D" citation_global_level_id="273769.001" line="3" id="127977_12" citation_local_level_id="2" >299 F. 3d 635</CITATION>
+
+<RELATION theme="127977_1" includes_docket_string="02-1001" includes_docket="127977_2" theme_string="538 U.S. 907" gram_type="apposition" relation_type="asymmetric" id="127977_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 907" X_vs_Y_string="MESSINA v. JOHN LABATT LTD. ET AL" standard_case="127977_1" X_vs_Y="127977_3" gram_type="pre_nom" relation_type="equivalence" id="127977_7" ></RELATION>
+
+<RELATION theme="127977_3" includes_docket_string="02-1001" includes_docket="127977_2" theme_string="MESSINA v. JOHN LABATT LTD. ET AL" gram_type="apposition" relation_type="asymmetric" id="127977_10" ></RELATION>
+
+<RELATION theme="127977_3" party1="127977_4" party1_string="MESSINA" theme_string="MESSINA v. JOHN LABATT LTD. ET AL" gram_type="infix" relation_type="asymmetric" id="127977_8" ></RELATION>
+
+<RELATION party2="127977_5" theme="127977_3" theme_string="MESSINA v. JOHN LABATT LTD. ET AL" party2_string="JOHN LABATT LTD. ET AL" gram_type="infix" relation_type="asymmetric" id="127977_9" ></RELATION>
+

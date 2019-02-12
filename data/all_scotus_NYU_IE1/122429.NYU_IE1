@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['oilenergy#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_816" id1="122435" volume="537" start="0" page_number="816" standard_reporter="U.S." citation_global_level_id="188.002" line="1" id="122429_1" citation_local_level_id="0" >537 U.S. 816</CITATION>
+
+<CITATION party2="HESS ENERGY, INC" party1="LIGHTNING OIL CO., LTD." citation_global_level_id="188.005" party2_short="ENERGY" line="1" id="122429_3" alternative_keys="['u.s._537_816']" end="60" entry_type="party_key" lookup_key="oilenergy#2" id1="122435" start="17" party1_short="OIL" citation_local_level_id="1" >LIGHTNING OIL CO., LTD. v. HESS ENERGY, INC</CITATION>
+
+<NAME end="40" start="17" party1_of="122429_3" all_names="LIGHTNING OIL CO LTD" local_name_id="1" id="122429_4" >LIGHTNING OIL CO., LTD.</NAME>
+
+<ORGANIZATION start="17" end="39" id="122429_7" >LIGHTNING OIL CO., LTD</ORGANIZATION>
+
+<NAME end="60" start="44" all_names="HESS ENERGY INC" party2_of="122429_3" local_name_id="2" id="122429_5" >HESS ENERGY, INC</NAME>
+
+<DOCKET end="77" entry_type="docket" lookup_key="u.s._537_816" id1="122435" start="70" citation_global_level_id="188.002" line="1" id="122429_2" citation_local_level_id="0" >01-1682</DOCKET>
+
+<DATE start="119" end="134" id="122429_6" >October 7, 2002</DATE>
+
+<NAME start="264" local_name_id="3" end="267" id="122429_14" all_names="CIR" >Cir</NAME>
+
+<CITATION end="317" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_276_646" id1="Dummy_File_96554" volume="276" start="304" page_number="646" standard_reporter="F.3D" citation_global_level_id="160404.001" line="3" id="122429_13" citation_local_level_id="2" >276 F. 3d 646</CITATION>
+
+<RELATION theme="122429_1" includes_docket_string="01-1682" includes_docket="122429_2" theme_string="537 U.S. 816" gram_type="apposition" relation_type="asymmetric" id="122429_12" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 816" X_vs_Y_string="LIGHTNING OIL CO., LTD. v. HESS ENERGY, INC" standard_case="122429_1" X_vs_Y="122429_3" gram_type="pre_nom" relation_type="equivalence" id="122429_8" ></RELATION>
+
+<RELATION theme="122429_3" includes_docket_string="01-1682" includes_docket="122429_2" theme_string="LIGHTNING OIL CO., LTD. v. HESS ENERGY, INC" gram_type="apposition" relation_type="asymmetric" id="122429_11" ></RELATION>
+
+<RELATION party2="122429_5" theme="122429_3" theme_string="LIGHTNING OIL CO., LTD. v. HESS ENERGY, INC" party2_string="HESS ENERGY, INC" gram_type="infix" relation_type="asymmetric" id="122429_10" ></RELATION>
+
+<RELATION theme="122429_3" party1="122429_4" party1_string="LIGHTNING OIL CO., LTD." theme_string="LIGHTNING OIL CO., LTD. v. HESS ENERGY, INC" gram_type="infix" relation_type="asymmetric" id="122429_9" ></RELATION>
+

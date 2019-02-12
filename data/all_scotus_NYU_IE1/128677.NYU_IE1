@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['testcommissioner#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_961" id1="128674" volume="538" start="0" page_number="961" standard_reporter="U.S." citation_global_level_id="1361.002" line="1" id="128677_1" citation_local_level_id="0" >538 U.S. 961</CITATION>
+
+<CITATION party2="COMMISSIONER OF INTERNAL REVENUE" party1="TEST ET AL." citation_global_level_id="45498.001" party2_short="COMMISSIONER" line="1" id="128677_3" alternative_keys="['u.s._538_961']" end="64" entry_type="party_key" lookup_key="testcommissioner#1" id1="128677" start="17" party1_short="TEST" citation_local_level_id="1" >TEST ET AL. v. COMMISSIONER OF INTERNAL REVENUE</CITATION>
+
+<NAME end="28" start="17" party1_of="128677_3" all_names="TEST" local_name_id="1" id="128677_4" >TEST ET AL.</NAME>
+
+<NAME start="17" local_name_id="1" end="27" id="128677_7" all_names="TEST" >TEST ET AL</NAME>
+
+<NAME end="64" start="32" all_names="COMMISSIONER OF INTERNAL REVENUE" party2_of="128677_3" local_name_id="2" id="128677_5" >COMMISSIONER OF INTERNAL REVENUE</NAME>
+
+<DOCKET end="81" entry_type="docket" lookup_key="u.s._538_961" id1="128674" start="74" citation_global_level_id="1361.002" line="1" id="128677_2" citation_local_level_id="0" >02-1170</DOCKET>
+
+<ORGANIZATION start="87" end="117" id="128677_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="123" end="136" id="128677_6" >April 7, 2003</DATE>
+
+<ORGANIZATION start="158" end="228" id="128677_9" >CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT</ORGANIZATION>
+
+<NAME start="265" local_name_id="3" end="268" id="128677_15" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="128677_1" includes_docket_string="02-1170" includes_docket="128677_2" theme_string="538 U.S. 961" gram_type="apposition" relation_type="asymmetric" id="128677_14" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 961" X_vs_Y_string="TEST ET AL. v. COMMISSIONER OF INTERNAL REVENUE" standard_case="128677_1" X_vs_Y="128677_3" gram_type="pre_nom" relation_type="equivalence" id="128677_10" ></RELATION>
+
+<RELATION theme="128677_3" includes_docket_string="02-1170" includes_docket="128677_2" theme_string="TEST ET AL. v. COMMISSIONER OF INTERNAL REVENUE" gram_type="apposition" relation_type="asymmetric" id="128677_13" ></RELATION>
+
+<RELATION theme="128677_3" party1="128677_4" party1_string="TEST ET AL." theme_string="TEST ET AL. v. COMMISSIONER OF INTERNAL REVENUE" gram_type="infix" relation_type="asymmetric" id="128677_11" ></RELATION>
+
+<RELATION party2="128677_5" theme="128677_3" theme_string="TEST ET AL. v. COMMISSIONER OF INTERNAL REVENUE" party2_string="COMMISSIONER OF INTERNAL REVENUE" gram_type="infix" relation_type="asymmetric" id="128677_12" ></RELATION>
+

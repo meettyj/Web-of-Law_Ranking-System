@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['mcburrowspennsylvania#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_829" id1="131512" volume="540" start="0" page_number="829" standard_reporter="U.S." citation_global_level_id="1812.002" line="1" id="131504_1" citation_local_level_id="0" >540 U.S. 829</CITATION>
+
+<CITATION party2="PENNSYLVANIA" party1="McBURROWS" citation_global_level_id="13298.001" party2_short="PENNSYLVANIA" line="1" id="131504_3" alternative_keys="['u.s._540_829']" end="42" entry_type="party_key" lookup_key="mcburrowspennsylvania#1" id1="131504" start="17" party1_short="McBURROWS" citation_local_level_id="1" >McBURROWS v. PENNSYLVANIA</CITATION>
+
+<NAME end="26" start="17" party1_of="131504_3" all_names="MCBURROWS" local_name_id="1" id="131504_4" >McBURROWS</NAME>
+
+<NAME end="42" start="30" all_names="PENNSYLVANIA" party2_of="131504_3" local_name_id="2" id="131504_5" >PENNSYLVANIA</NAME>
+
+<DOCKET end="60" entry_type="docket" lookup_key="u.s._540_829" id1="131512" start="52" citation_global_level_id="1812.002" line="1" id="131504_2" citation_local_level_id="0" >02-10499</DOCKET>
+
+<DATE start="102" end="117" id="131504_6" >October 6, 2003</DATE>
+
+<NAME start="195" local_name_id="3" end="205" id="131504_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="243" reporter="A. 2d" entry_type="standard_key" no_current_file="True" lookup_key="a.2d_779_509" id1="Dummy_File_181793" volume="779" start="230" page_number="509" standard_reporter="A.2D" citation_global_level_id="245643.001" line="3" id="131504_12" citation_local_level_id="2" >779 A. 2d 509</CITATION>
+
+<RELATION theme="131504_1" includes_docket_string="02-10499" includes_docket="131504_2" theme_string="540 U.S. 829" gram_type="apposition" relation_type="asymmetric" id="131504_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 829" X_vs_Y_string="McBURROWS v. PENNSYLVANIA" standard_case="131504_1" X_vs_Y="131504_3" gram_type="pre_nom" relation_type="equivalence" id="131504_7" ></RELATION>
+
+<RELATION theme="131504_3" includes_docket_string="02-10499" includes_docket="131504_2" theme_string="McBURROWS v. PENNSYLVANIA" gram_type="apposition" relation_type="asymmetric" id="131504_10" ></RELATION>
+
+<RELATION theme="131504_3" party1="131504_4" party1_string="McBURROWS" theme_string="McBURROWS v. PENNSYLVANIA" gram_type="infix" relation_type="asymmetric" id="131504_8" ></RELATION>
+
+<RELATION party2="131504_5" theme="131504_3" theme_string="McBURROWS v. PENNSYLVANIA" party2_string="PENNSYLVANIA" gram_type="infix" relation_type="asymmetric" id="131504_9" ></RELATION>
+

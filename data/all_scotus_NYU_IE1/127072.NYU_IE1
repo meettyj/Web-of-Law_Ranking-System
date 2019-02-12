@@ -1,0 +1,42 @@
+<CITATION alternative_keys="['widnercrosby#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1182" id1="127073" volume="537" start="0" page_number="1182" standard_reporter="U.S." citation_global_level_id="15232.002" line="1" id="127072_1" citation_local_level_id="0" >537 U.S. 1182</CITATION>
+
+<CITATION party2="CROSBY, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS" party1="WIDNER" citation_global_level_id="896.004" party2_short="CROSBY" line="1" id="127072_3" alternative_keys="['u.s._544_987']" end="80" entry_type="party_key" lookup_key="widnercrosby#1" id1="144002" start="18" party1_short="WIDNER" citation_local_level_id="1" >WIDNER v. CROSBY, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS</CITATION>
+
+<NAME end="24" start="18" party1_of="127072_3" all_names="WIDNER" local_name_id="1" id="127072_4" >WIDNER</NAME>
+
+<NAME end="80" start="28" all_names="CROSBY SECRETARY FLORIDA DEPARTMENT OF CORRECTIONS" party2_of="127072_3" local_name_id="2" id="127072_5" >CROSBY, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS</NAME>
+
+<DOCKET end="97" entry_type="docket" lookup_key="u.s._537_1182" id1="127073" start="90" citation_global_level_id="15232.002" line="1" id="127072_2" citation_local_level_id="0" >02-6671</DOCKET>
+
+<DATE start="139" end="156" id="127072_6" >February 24, 2003</DATE>
+
+<NAME start="289" local_name_id="3" end="292" id="127072_17" all_names="CIR" >Cir</NAME>
+
+<CITATION party2="Saffold" party1="Carey" citation_global_level_id="31061.001" party2_short="Saffold" line="3" id="127072_13" alternative_keys="['u.s._536_214']" end="473" entry_type="party_key" lookup_key="careysaffold#1" id1="121154" start="457" party1_short="Carey" citation_local_level_id="2" >Carey v. Saffold</CITATION>
+
+<NAME end="462" start="457" party1_of="127072_13" all_names="CAREY" local_name_id="4" id="127072_14" >Carey</NAME>
+
+<NAME end="473" start="466" all_names="SAFFOLD" party2_of="127072_13" local_name_id="5" id="127072_15" >Saffold</NAME>
+
+<CITATION alternative_keys="['careysaffold#1']" end="494" reporter="U.S." entry_type="standard_key" lookup_key="u.s._536_214" id1="145924" volume="536" start="475" page_number="214" year="2002" standard_reporter="U.S." citation_global_level_id="9152.003" line="3" id="127072_12" citation_local_level_id="3" >536 U.S. 214 (2002)</CITATION>
+
+<DATE start="489" citation_global_level_id="9152.003" end="493" id="127072_16" citation_local_level_id="3" >2002</DATE>
+
+<RELATION theme="127072_1" includes_docket_string="02-6671" includes_docket="127072_2" theme_string="537 U.S. 1182" gram_type="apposition" relation_type="asymmetric" id="127072_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1182" X_vs_Y_string="WIDNER v. CROSBY, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS" standard_case="127072_1" X_vs_Y="127072_3" gram_type="pre_nom" relation_type="equivalence" id="127072_7" ></RELATION>
+
+<RELATION theme="127072_3" includes_docket_string="02-6671" includes_docket="127072_2" theme_string="WIDNER v. CROSBY, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS" gram_type="apposition" relation_type="asymmetric" id="127072_10" ></RELATION>
+
+<RELATION theme="127072_3" party1="127072_4" party1_string="WIDNER" theme_string="WIDNER v. CROSBY, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS" gram_type="infix" relation_type="asymmetric" id="127072_8" ></RELATION>
+
+<RELATION party2="127072_5" theme="127072_3" theme_string="WIDNER v. CROSBY, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS" party2_string="CROSBY, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS" gram_type="infix" relation_type="asymmetric" id="127072_9" ></RELATION>
+
+<RELATION standard_case_string="536 U.S. 214 (2002)" X_vs_Y_string="Carey v. Saffold" standard_case="127072_12" X_vs_Y="127072_13" gram_type="apposition" relation_type="equivalence" id="127072_20" ></RELATION>
+
+<RELATION theme="127072_13" party1="127072_14" party1_string="Carey" theme_string="Carey v. Saffold" gram_type="infix" relation_type="asymmetric" id="127072_18" ></RELATION>
+
+<RELATION party2="127072_15" theme="127072_13" theme_string="Carey v. Saffold" party2_string="Saffold" gram_type="infix" relation_type="asymmetric" id="127072_19" ></RELATION>
+
+<RELATION at_date_string="2002" theme="127072_12" at_date="127072_16" theme_string="536 U.S. 214 (2002)" gram_type="infix" relation_type="asymmetric" id="127072_21" ></RELATION>
+

@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['banertennessee#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_999" id1="144181" volume="544" start="0" page_number="999" standard_reporter="U.S." citation_global_level_id="4096.002" line="1" id="144176_1" citation_local_level_id="0" >544 U.S. 999</CITATION>
+
+<CITATION party2="TENNESSEE" party1="O'BANER" citation_global_level_id="4096.009" party2_short="TENNESSEE" line="2" id="144176_2" alternative_keys="['u.s._544_999']" end="37" entry_type="party_key" lookup_key="banertennessee#1" id1="144181" start="17" party1_short="BANER" citation_local_level_id="1" >O'BANER v. TENNESSEE</CITATION>
+
+<NAME end="24" start="17" party1_of="144176_2" all_names="O'BANER" local_name_id="1" id="144176_3" >O'BANER</NAME>
+
+<NAME end="37" start="28" all_names="TENNESSEE" party2_of="144176_2" local_name_id="2" id="144176_4" >TENNESSEE</NAME>
+
+<DOCKET alternative_keys="['u.s._544_999']" end="54" entry_type="docket" lookup_key="banertennessee#1" id1="144181" start="47" citation_global_level_id="4096.009" line="3" id="144176_7" citation_local_level_id="1" >04-1124</DOCKET>
+
+<ORGANIZATION start="60" end="90" id="144176_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="96" citation_global_level_id="4096.009" end="110" id="144176_9" citation_local_level_id="1" >April 25, 2005</DATE>
+
+<NAME start="132" local_name_id="3" end="134" id="144176_14" all_names="CT" >Ct</NAME>
+
+<CITATION end="204" reporter="S. W. 3d" entry_type="standard_key" no_current_file="True" lookup_key="s.w.3d_159_605" id1="Dummy_File_230407" volume="159" start="188" page_number="605" standard_reporter="S.W.3D" citation_global_level_id="294257.001" line="8" id="144176_13" citation_local_level_id="2" >159 S. W. 3d 605</CITATION>
+
+<RELATION theme="144176_2" party1="144176_3" party1_string="O'BANER" theme_string="O'BANER v. TENNESSEE" gram_type="infix" relation_type="asymmetric" id="144176_5" ></RELATION>
+
+<RELATION party2="144176_4" theme="144176_2" theme_string="O'BANER v. TENNESSEE" party2_string="TENNESSEE" gram_type="infix" relation_type="asymmetric" id="144176_6" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 999" X_vs_Y_string="O'BANER v. TENNESSEE" standard_case="144176_1" X_vs_Y="144176_2" gram_type="multi_line" relation_type="equivalence" id="144176_10" ></RELATION>
+
+<RELATION at_date_string="April 25, 2005" theme="144176_2" at_date="144176_9" theme_string="O'BANER v. TENNESSEE" gram_type="multi_line" relation_type="asymmetric" id="144176_12" ></RELATION>
+
+<RELATION theme="144176_2" includes_docket_string="04-1124" includes_docket="144176_7" theme_string="O'BANER v. TENNESSEE" gram_type="multi_line" relation_type="asymmetric" id="144176_11" ></RELATION>
+

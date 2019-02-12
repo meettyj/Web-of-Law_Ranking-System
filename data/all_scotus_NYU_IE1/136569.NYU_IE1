@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['albatexas#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_1065" id1="136567" volume="541" start="0" page_number="1065" standard_reporter="U.S." citation_global_level_id="7648.002" line="1" id="136569_1" citation_local_level_id="0" >541 U.S. 1065</CITATION>
+
+<CITATION party2="TEXAS" party1="AVALOS ALBA" citation_global_level_id="12599.001" party2_short="TEXAS" line="2" id="136569_2" alternative_keys="['u.s._541_1065']" end="38" entry_type="party_key" lookup_key="albatexas#2" id1="136569" start="18" party1_short="ALBA" citation_local_level_id="1" >AVALOS ALBA v. TEXAS</CITATION>
+
+<NAME end="29" start="18" party1_of="136569_2" all_names="AVALOS ALBA" local_name_id="1" id="136569_3" >AVALOS ALBA</NAME>
+
+<NAME end="38" start="33" all_names="TEXAS" party2_of="136569_2" local_name_id="2" id="136569_4" >TEXAS</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="albatexas#2" id1="136569" start="48" citation_global_level_id="12599.001" line="3" id="136569_7" citation_local_level_id="1" >03-8985</DOCKET>
+
+<ORGANIZATION start="61" end="91" id="136569_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="97" citation_global_level_id="12599.001" end="109" id="136569_9" citation_local_level_id="1" >May 24, 2004</DATE>
+
+<NAME start="131" local_name_id="3" end="133" id="136569_13" all_names="CT" >Ct</NAME>
+
+<RELATION theme="136569_2" party1="136569_3" party1_string="AVALOS ALBA" theme_string="AVALOS ALBA v. TEXAS" gram_type="infix" relation_type="asymmetric" id="136569_5" ></RELATION>
+
+<RELATION party2="136569_4" theme="136569_2" theme_string="AVALOS ALBA v. TEXAS" party2_string="TEXAS" gram_type="infix" relation_type="asymmetric" id="136569_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 1065" X_vs_Y_string="AVALOS ALBA v. TEXAS" standard_case="136569_1" X_vs_Y="136569_2" gram_type="multi_line" relation_type="equivalence" id="136569_10" ></RELATION>
+
+<RELATION at_date_string="May 24, 2004" theme="136569_2" at_date="136569_9" theme_string="AVALOS ALBA v. TEXAS" gram_type="multi_line" relation_type="asymmetric" id="136569_12" ></RELATION>
+
+<RELATION theme="136569_2" includes_docket_string="03-8985" includes_docket="136569_7" theme_string="AVALOS ALBA v. TEXAS" gram_type="multi_line" relation_type="asymmetric" id="136569_11" ></RELATION>
+

@@ -1,0 +1,40 @@
+<CITATION alternative_keys="['mcgrathchia#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_902" id1="127937" volume="538" start="0" page_number="902" standard_reporter="U.S." citation_global_level_id="2382.002" line="1" id="127938_1" citation_local_level_id="0" >538 U.S. 902</CITATION>
+
+<CITATION party2="CHIA" party1="McGRATH, WARDEN, ET AL." citation_global_level_id="35195.003" party2_short="CHIA" line="1" id="127938_3" alternative_keys="['u.s._537_996']" end="48" entry_type="party_key" lookup_key="mcgrathchia#1" id1="124725" start="17" party1_short="McGRATH" citation_local_level_id="1" >McGRATH, WARDEN, ET AL. v. CHIA</CITATION>
+
+<NAME end="40" start="17" party1_of="127938_3" all_names="MCGRATH WARDEN" local_name_id="1" id="127938_4" >McGRATH, WARDEN, ET AL.</NAME>
+
+<NAME start="17" local_name_id="2" end="24" id="127938_7" all_names="MCGRATH" >McGRATH</NAME>
+
+<PROFESSION start="26" end="32" id="127938_8" >WARDEN</PROFESSION>
+
+<NAME end="48" start="44" all_names="CHIA" party2_of="127938_3" local_name_id="3" id="127938_5" >CHIA</NAME>
+
+<DOCKET end="64" entry_type="docket" lookup_key="u.s._538_902" id1="127937" start="58" citation_global_level_id="2382.002" line="1" id="127938_2" citation_local_level_id="0" >02-127</DOCKET>
+
+<DATE start="106" end="120" id="127938_6" >March 10, 2003</DATE>
+
+<NAME start="249" local_name_id="4" end="252" id="127938_18" all_names="CIR" >Cir</NAME>
+
+<CITATION party2="Andrade" party1="Lockyer" citation_global_level_id="36014.001" party2_short="Andrade" line="3" id="127938_15" end="366" entry_type="party_key" lookup_key="lockyerandrade#1" id1="127898" start="348" party1_short="Lockyer" citation_local_level_id="2" >Lockyer v. Andrade</CITATION>
+
+<NAME end="355" start="348" party1_of="127938_15" all_names="LOCKYER" local_name_id="5" id="127938_16" >Lockyer</NAME>
+
+<NAME end="366" start="359" all_names="ANDRADE" party2_of="127938_15" local_name_id="6" id="127938_17" >Andrade</NAME>
+
+<CITATION end="411" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_281_1032" id1="Dummy_File_130183" volume="281" start="397" page_number="1032" standard_reporter="F.3D" citation_global_level_id="194033.001" line="3" id="127938_14" citation_local_level_id="3" >281 F. 3d 1032</CITATION>
+
+<RELATION theme="127938_1" includes_docket_string="02-127" includes_docket="127938_2" theme_string="538 U.S. 902" gram_type="apposition" relation_type="asymmetric" id="127938_13" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 902" X_vs_Y_string="McGRATH, WARDEN, ET AL. v. CHIA" standard_case="127938_1" X_vs_Y="127938_3" gram_type="pre_nom" relation_type="equivalence" id="127938_9" ></RELATION>
+
+<RELATION theme="127938_3" includes_docket_string="02-127" includes_docket="127938_2" theme_string="McGRATH, WARDEN, ET AL. v. CHIA" gram_type="apposition" relation_type="asymmetric" id="127938_12" ></RELATION>
+
+<RELATION theme="127938_3" party1="127938_4" party1_string="McGRATH, WARDEN, ET AL." theme_string="McGRATH, WARDEN, ET AL. v. CHIA" gram_type="infix" relation_type="asymmetric" id="127938_10" ></RELATION>
+
+<RELATION party2="127938_5" theme="127938_3" theme_string="McGRATH, WARDEN, ET AL. v. CHIA" party2_string="CHIA" gram_type="infix" relation_type="asymmetric" id="127938_11" ></RELATION>
+
+<RELATION theme="127938_15" party1="127938_16" party1_string="Lockyer" theme_string="Lockyer v. Andrade" gram_type="infix" relation_type="asymmetric" id="127938_19" ></RELATION>
+
+<RELATION party2="127938_17" theme="127938_15" theme_string="Lockyer v. Andrade" party2_string="Andrade" gram_type="infix" relation_type="asymmetric" id="127938_20" ></RELATION>
+

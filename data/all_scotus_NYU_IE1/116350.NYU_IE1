@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['williscity#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1071" id1="116346" volume="510" start="0" page_number="1071" standard_reporter="U.S." citation_global_level_id="10088.002" line="1" id="116350_1" citation_local_level_id="0" >510 U.S. 1071</CITATION>
+
+<CITATION party2="City of Chicago" party1="Willis" citation_global_level_id="28213.001" party2_short="City" line="1" id="116350_3" alternative_keys="['u.s._510_1071']" end="43" entry_type="party_key" lookup_key="williscity#2" id1="116350" start="18" party1_short="Willis" citation_local_level_id="1" >Willis v. City of Chicago</CITATION>
+
+<NAME end="24" start="18" party1_of="116350_3" all_names="WILLIS" local_name_id="1" id="116350_4" >Willis</NAME>
+
+<NAME end="43" start="28" all_names="CITY OF CHICAGO" party2_of="116350_3" local_name_id="2" id="116350_5" >City of Chicago</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="u.s._510_1071" id1="116346" start="53" citation_global_level_id="10088.002" line="1" id="116350_2" citation_local_level_id="0" >93-875</DOCKET>
+
+<DATE start="101" end="117" id="116350_6" >January 18, 1994</DATE>
+
+<NAME start="195" local_name_id="3" end="205" id="116350_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="243" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_999_284" id1="Dummy_File_4657" volume="999" start="230" page_number="284" standard_reporter="F.2D" citation_global_level_id="68507.001" line="3" id="116350_12" citation_local_level_id="2" >999 F. 2d 284</CITATION>
+
+<RELATION theme="116350_1" includes_docket_string="93-875" includes_docket="116350_2" theme_string="510 U.S. 1071" gram_type="apposition" relation_type="asymmetric" id="116350_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1071" X_vs_Y_string="Willis v. City of Chicago" standard_case="116350_1" X_vs_Y="116350_3" gram_type="pre_nom" relation_type="equivalence" id="116350_7" ></RELATION>
+
+<RELATION theme="116350_3" includes_docket_string="93-875" includes_docket="116350_2" theme_string="Willis v. City of Chicago" gram_type="apposition" relation_type="asymmetric" id="116350_10" ></RELATION>
+
+<RELATION theme="116350_3" party1="116350_4" party1_string="Willis" theme_string="Willis v. City of Chicago" gram_type="infix" relation_type="asymmetric" id="116350_8" ></RELATION>
+
+<RELATION party2="116350_5" theme="116350_3" theme_string="Willis v. City of Chicago" party2_string="City of Chicago" gram_type="infix" relation_type="asymmetric" id="116350_9" ></RELATION>
+

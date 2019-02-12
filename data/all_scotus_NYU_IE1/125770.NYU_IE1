@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['thompsonbouchard#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1075" id1="125773" volume="537" start="0" page_number="1075" standard_reporter="U.S." citation_global_level_id="2405.002" line="1" id="125770_1" citation_local_level_id="0" >537 U.S. 1075</CITATION>
+
+<CITATION party2="BOUCHARD, WARDEN" party1="THOMPSON" citation_global_level_id="2405.013" party2_short="BOUCHARD" line="1" id="125770_3" alternative_keys="['u.s._537_1075']" end="46" entry_type="party_key" lookup_key="thompsonbouchard#1" id1="125773" start="18" party1_short="THOMPSON" citation_local_level_id="1" >THOMPSON v. BOUCHARD, WARDEN</CITATION>
+
+<NAME end="26" start="18" party1_of="125770_3" all_names="THOMPSON" local_name_id="1" id="125770_4" >THOMPSON</NAME>
+
+<NAME end="46" start="30" all_names="BOUCHARD WARDEN" party2_of="125770_3" local_name_id="2" id="125770_5" >BOUCHARD, WARDEN</NAME>
+
+<DOCKET end="63" entry_type="docket" lookup_key="u.s._537_1075" id1="125773" start="56" citation_global_level_id="2405.002" line="1" id="125770_2" citation_local_level_id="0" >02-6818</DOCKET>
+
+<DATE start="105" end="121" id="125770_6" >December 9, 2002</DATE>
+
+<NAME start="250" local_name_id="3" end="253" id="125770_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="125770_1" includes_docket_string="02-6818" includes_docket="125770_2" theme_string="537 U.S. 1075" gram_type="apposition" relation_type="asymmetric" id="125770_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1075" X_vs_Y_string="THOMPSON v. BOUCHARD, WARDEN" standard_case="125770_1" X_vs_Y="125770_3" gram_type="pre_nom" relation_type="equivalence" id="125770_7" ></RELATION>
+
+<RELATION theme="125770_3" includes_docket_string="02-6818" includes_docket="125770_2" theme_string="THOMPSON v. BOUCHARD, WARDEN" gram_type="apposition" relation_type="asymmetric" id="125770_10" ></RELATION>
+
+<RELATION theme="125770_3" party1="125770_4" party1_string="THOMPSON" theme_string="THOMPSON v. BOUCHARD, WARDEN" gram_type="infix" relation_type="asymmetric" id="125770_8" ></RELATION>
+
+<RELATION party2="125770_5" theme="125770_3" theme_string="THOMPSON v. BOUCHARD, WARDEN" party2_string="BOUCHARD, WARDEN" gram_type="infix" relation_type="asymmetric" id="125770_9" ></RELATION>
+

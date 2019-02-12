@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['mitchellcity#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_823" id1="131436" volume="540" start="0" page_number="823" standard_reporter="U.S." citation_global_level_id="4818.002" line="1" id="131439_1" citation_local_level_id="0" >540 U.S. 823</CITATION>
+
+<CITATION party2="CITY OF HOUSTON, TEXAS, ET AL" party1="MITCHELL" citation_global_level_id="4818.004" party2_short="CITY" line="1" id="131439_3" alternative_keys="['u.s._540_823']" end="58" entry_type="party_key" lookup_key="mitchellcity#2" id1="131436" start="17" party1_short="MITCHELL" citation_local_level_id="1" >MITCHELL v. CITY OF HOUSTON, TEXAS, ET AL</CITATION>
+
+<NAME end="25" start="17" party1_of="131439_3" all_names="MITCHELL" local_name_id="1" id="131439_4" >MITCHELL</NAME>
+
+<NAME end="58" start="29" all_names="CITY OF HOUSTON TEXAS" party2_of="131439_3" local_name_id="2" id="131439_5" >CITY OF HOUSTON, TEXAS, ET AL</NAME>
+
+<DOCKET end="75" entry_type="docket" lookup_key="u.s._540_823" id1="131436" start="68" citation_global_level_id="4818.002" line="1" id="131439_2" citation_local_level_id="0" >02-1825</DOCKET>
+
+<DATE start="71" end="75" id="131439_6" >1825</DATE>
+
+<DATE start="117" end="132" id="131439_7" >October 6, 2003</DATE>
+
+<NAME start="210" local_name_id="3" end="220" id="131439_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="131439_1" includes_docket_string="02-1825" includes_docket="131439_2" theme_string="540 U.S. 823" gram_type="apposition" relation_type="asymmetric" id="131439_12" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 823" X_vs_Y_string="MITCHELL v. CITY OF HOUSTON, TEXAS, ET AL" standard_case="131439_1" X_vs_Y="131439_3" gram_type="pre_nom" relation_type="equivalence" id="131439_8" ></RELATION>
+
+<RELATION theme="131439_3" includes_docket_string="02-1825" includes_docket="131439_2" theme_string="MITCHELL v. CITY OF HOUSTON, TEXAS, ET AL" gram_type="apposition" relation_type="asymmetric" id="131439_11" ></RELATION>
+
+<RELATION party2="131439_5" theme="131439_3" theme_string="MITCHELL v. CITY OF HOUSTON, TEXAS, ET AL" party2_string="CITY OF HOUSTON, TEXAS, ET AL" gram_type="infix" relation_type="asymmetric" id="131439_10" ></RELATION>
+
+<RELATION theme="131439_3" party1="131439_4" party1_string="MITCHELL" theme_string="MITCHELL v. CITY OF HOUSTON, TEXAS, ET AL" gram_type="infix" relation_type="asymmetric" id="131439_9" ></RELATION>
+
+<RELATION at_date_string="1825" theme="131439_2" at_date="131439_6" theme_string="02-1825" gram_type="infix" relation_type="asymmetric" id="131439_13" ></RELATION>
+

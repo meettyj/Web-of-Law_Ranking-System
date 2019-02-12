@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['sklarinsurance#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1126" id1="126395" volume="537" start="0" page_number="1126" standard_reporter="U.S." citation_global_level_id="16073.002" line="1" id="126400_1" citation_local_level_id="0" >537 U.S. 1126</CITATION>
+
+<CITATION party2="NEW YORK LIFE INSURANCE CO" party1="SKLAR" citation_global_level_id="52579.001" party2_short="INSURANCE" line="1" id="126400_3" alternative_keys="['u.s._537_1126']" end="53" entry_type="party_key" lookup_key="sklarinsurance#2" id1="126400" start="18" party1_short="SKLAR" citation_local_level_id="1" >SKLAR v. NEW YORK LIFE INSURANCE CO</CITATION>
+
+<NAME end="23" start="18" party1_of="126400_3" all_names="SKLAR" local_name_id="1" id="126400_4" >SKLAR</NAME>
+
+<NAME end="53" start="27" all_names="NEW YORK LIFE INSURANCE CO" party2_of="126400_3" local_name_id="2" id="126400_5" >NEW YORK LIFE INSURANCE CO</NAME>
+
+<DOCKET end="70" entry_type="docket" lookup_key="u.s._537_1126" id1="126395" start="63" citation_global_level_id="16073.002" line="1" id="126400_2" citation_local_level_id="0" >02-7303</DOCKET>
+
+<DATE start="112" end="128" id="126400_6" >January 13, 2003</DATE>
+
+<NAME start="257" local_name_id="3" end="260" id="126400_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="126400_1" includes_docket_string="02-7303" includes_docket="126400_2" theme_string="537 U.S. 1126" gram_type="apposition" relation_type="asymmetric" id="126400_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1126" X_vs_Y_string="SKLAR v. NEW YORK LIFE INSURANCE CO" standard_case="126400_1" X_vs_Y="126400_3" gram_type="pre_nom" relation_type="equivalence" id="126400_7" ></RELATION>
+
+<RELATION theme="126400_3" includes_docket_string="02-7303" includes_docket="126400_2" theme_string="SKLAR v. NEW YORK LIFE INSURANCE CO" gram_type="apposition" relation_type="asymmetric" id="126400_10" ></RELATION>
+
+<RELATION theme="126400_3" party1="126400_4" party1_string="SKLAR" theme_string="SKLAR v. NEW YORK LIFE INSURANCE CO" gram_type="infix" relation_type="asymmetric" id="126400_8" ></RELATION>
+
+<RELATION party2="126400_5" theme="126400_3" theme_string="SKLAR v. NEW YORK LIFE INSURANCE CO" party2_string="NEW YORK LIFE INSURANCE CO" gram_type="infix" relation_type="asymmetric" id="126400_9" ></RELATION>
+

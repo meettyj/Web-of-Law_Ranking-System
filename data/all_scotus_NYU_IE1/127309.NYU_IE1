@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['hillvirginia#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1202" id1="127301" volume="537" start="0" page_number="1202" standard_reporter="U.S." citation_global_level_id="2563.002" line="1" id="127309_1" citation_local_level_id="0" >537 U.S. 1202</CITATION>
+
+<CITATION party2="VIRGINIA" party1="HILL" citation_global_level_id="38267.001" party2_short="VIRGINIA" line="1" id="127309_3" alternative_keys="['u.s._537_1202']" end="34" entry_type="party_key" lookup_key="hillvirginia#1" id1="127309" start="18" party1_short="HILL" citation_local_level_id="1" >HILL v. VIRGINIA</CITATION>
+
+<NAME end="22" start="18" party1_of="127309_3" all_names="HILL" local_name_id="1" id="127309_4" >HILL</NAME>
+
+<NAME end="34" start="26" all_names="VIRGINIA" party2_of="127309_3" local_name_id="2" id="127309_5" >VIRGINIA</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="u.s._537_1202" id1="127301" start="44" citation_global_level_id="2563.002" line="1" id="127309_2" citation_local_level_id="0" >02-7968</DOCKET>
+
+<DATE start="93" end="110" id="127309_6" >February 24, 2003</DATE>
+
+<NAME start="202" local_name_id="3" end="205" id="127309_14" all_names="SUP" >Sup</NAME>
+
+<CITATION end="261" reporter="Va." entry_type="standard_key" no_current_file="True" lookup_key="va._264_315" id1="Dummy_File_95249" volume="264" start="250" page_number="315" standard_reporter="VA." citation_global_level_id="159099.001" line="3" id="127309_12" citation_local_level_id="2" >264 Va. 315</CITATION>
+
+<CITATION end="279" reporter="S. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="s.e.2d_568_673" id1="Dummy_File_95250" volume="568" start="263" page_number="673" standard_reporter="S.E.2D" citation_global_level_id="159100.001" line="3" id="127309_13" citation_local_level_id="3" >568 S. E. 2d 673</CITATION>
+
+<RELATION theme="127309_1" includes_docket_string="02-7968" includes_docket="127309_2" theme_string="537 U.S. 1202" gram_type="apposition" relation_type="asymmetric" id="127309_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1202" X_vs_Y_string="HILL v. VIRGINIA" standard_case="127309_1" X_vs_Y="127309_3" gram_type="pre_nom" relation_type="equivalence" id="127309_7" ></RELATION>
+
+<RELATION theme="127309_3" includes_docket_string="02-7968" includes_docket="127309_2" theme_string="HILL v. VIRGINIA" gram_type="apposition" relation_type="asymmetric" id="127309_10" ></RELATION>
+
+<RELATION theme="127309_3" party1="127309_4" party1_string="HILL" theme_string="HILL v. VIRGINIA" gram_type="infix" relation_type="asymmetric" id="127309_8" ></RELATION>
+
+<RELATION party2="127309_5" theme="127309_3" theme_string="HILL v. VIRGINIA" party2_string="VIRGINIA" gram_type="infix" relation_type="asymmetric" id="127309_9" ></RELATION>
+

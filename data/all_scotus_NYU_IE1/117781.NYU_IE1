@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['buchnerstates#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1207" id1="117782" volume="510" start="0" page_number="1207" standard_reporter="U.S." citation_global_level_id="9599.002" line="1" id="117781_1" citation_local_level_id="0" >510 U.S. 1207</CITATION>
+
+<CITATION party2="United States" party1="Buchner" citation_global_level_id="62742.001" party2_short="States" line="1" id="117781_3" alternative_keys="['u.s._510_1207']" end="42" entry_type="party_key" lookup_key="buchnerstates#1" id1="117781" start="18" party1_short="Buchner" citation_local_level_id="1" >Buchner v. United States</CITATION>
+
+<NAME end="25" start="18" party1_of="117781_3" all_names="BUCHNER" local_name_id="1" id="117781_4" >Buchner</NAME>
+
+<NAME end="42" start="29" all_names="UNITED STATES" party2_of="117781_3" local_name_id="2" id="117781_5" >United States</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="u.s._510_1207" id1="117782" start="52" citation_global_level_id="9599.002" line="1" id="117781_2" citation_local_level_id="0" >93-7968</DOCKET>
+
+<DATE start="101" end="115" id="117781_6" >March 21, 1994</DATE>
+
+<NAME start="193" local_name_id="3" end="203" id="117781_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="240" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_7_1149" id1="Dummy_File_121746" volume="7" start="228" page_number="1149" standard_reporter="F.3D" citation_global_level_id="185596.001" line="3" id="117781_12" citation_local_level_id="2" >7 F. 3d 1149</CITATION>
+
+<RELATION theme="117781_1" includes_docket_string="93-7968" includes_docket="117781_2" theme_string="510 U.S. 1207" gram_type="apposition" relation_type="asymmetric" id="117781_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1207" X_vs_Y_string="Buchner v. United States" standard_case="117781_1" X_vs_Y="117781_3" gram_type="pre_nom" relation_type="equivalence" id="117781_7" ></RELATION>
+
+<RELATION theme="117781_3" includes_docket_string="93-7968" includes_docket="117781_2" theme_string="Buchner v. United States" gram_type="apposition" relation_type="asymmetric" id="117781_10" ></RELATION>
+
+<RELATION theme="117781_3" party1="117781_4" party1_string="Buchner" theme_string="Buchner v. United States" gram_type="infix" relation_type="asymmetric" id="117781_8" ></RELATION>
+
+<RELATION party2="117781_5" theme="117781_3" theme_string="Buchner v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="117781_9" ></RELATION>
+

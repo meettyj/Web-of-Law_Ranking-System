@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['robinsonmanufacturing#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_827" id1="113210" volume="510" start="0" page_number="827" standard_reporter="U.S." citation_global_level_id="1857.002" line="1" id="113210_1" citation_local_level_id="0" >510 U.S. 827</CITATION>
+
+<CITATION party2="Central Brass Manufacturing Co. et al" party1="Robinson" citation_global_level_id="1857.001" party2_short="Manufacturing" line="1" id="113210_3" alternative_keys="['u.s._510_827']" end="66" entry_type="party_key" lookup_key="robinsonmanufacturing#1" id1="113210" start="17" party1_short="Robinson" citation_local_level_id="1" >Robinson v. Central Brass Manufacturing Co. et al</CITATION>
+
+<NAME end="25" start="17" party1_of="113210_3" all_names="ROBINSON" local_name_id="1" id="113210_4" >Robinson</NAME>
+
+<NAME end="66" start="29" all_names="CENTRAL BRASS MANUFACTURING CO" party2_of="113210_3" local_name_id="2" id="113210_5" >Central Brass Manufacturing Co. et al</NAME>
+
+<DOCKET end="83" entry_type="docket" lookup_key="u.s._510_827" id1="113210" start="76" citation_global_level_id="1857.002" line="1" id="113210_2" citation_local_level_id="0" >92-2042</DOCKET>
+
+<DATE start="79" end="83" id="113210_6" >2042</DATE>
+
+<DATE start="125" end="140" id="113210_7" >October 4, 1993</DATE>
+
+<NAME start="218" local_name_id="3" end="228" id="113210_15" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="267" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_987_1235" id1="Dummy_File_222571" volume="987" start="253" page_number="1235" standard_reporter="F.2D" citation_global_level_id="286421.001" line="3" id="113210_14" citation_local_level_id="2" >987 F. 2d 1235</CITATION>
+
+<RELATION theme="113210_1" includes_docket_string="92-2042" includes_docket="113210_2" theme_string="510 U.S. 827" gram_type="apposition" relation_type="asymmetric" id="113210_12" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 827" X_vs_Y_string="Robinson v. Central Brass Manufacturing Co. et al" standard_case="113210_1" X_vs_Y="113210_3" gram_type="pre_nom" relation_type="equivalence" id="113210_8" ></RELATION>
+
+<RELATION theme="113210_3" includes_docket_string="92-2042" includes_docket="113210_2" theme_string="Robinson v. Central Brass Manufacturing Co. et al" gram_type="apposition" relation_type="asymmetric" id="113210_11" ></RELATION>
+
+<RELATION party2="113210_5" theme="113210_3" theme_string="Robinson v. Central Brass Manufacturing Co. et al" party2_string="Central Brass Manufacturing Co. et al" gram_type="infix" relation_type="asymmetric" id="113210_10" ></RELATION>
+
+<RELATION theme="113210_3" party1="113210_4" party1_string="Robinson" theme_string="Robinson v. Central Brass Manufacturing Co. et al" gram_type="infix" relation_type="asymmetric" id="113210_9" ></RELATION>
+
+<RELATION at_date_string="2042" theme="113210_2" at_date="113210_6" theme_string="92-2042" gram_type="infix" relation_type="asymmetric" id="113210_13" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['schurzarizona#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1026" id1="115805" volume="510" start="0" page_number="1026" standard_reporter="U.S." citation_global_level_id="762.002" line="1" id="115806_1" citation_local_level_id="0" >510 U.S. 1026</CITATION>
+
+<CITATION party2="Arizona" party1="Schurz" citation_global_level_id="19445.001" party2_short="Arizona" line="1" id="115806_3" alternative_keys="['u.s._510_1026']" end="35" entry_type="party_key" lookup_key="schurzarizona#1" id1="115806" start="18" party1_short="Schurz" citation_local_level_id="1" >Schurz v. Arizona</CITATION>
+
+<NAME end="24" start="18" party1_of="115806_3" all_names="SCHURZ" local_name_id="1" id="115806_4" >Schurz</NAME>
+
+<NAME end="35" start="28" all_names="ARIZONA" party2_of="115806_3" local_name_id="2" id="115806_5" >Arizona</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="u.s._510_1026" id1="115805" start="45" citation_global_level_id="762.002" line="1" id="115806_2" citation_local_level_id="0" >93-6393</DOCKET>
+
+<DATE start="94" end="111" id="115806_6" >December 13, 1993</DATE>
+
+<NAME start="189" local_name_id="3" end="199" id="115806_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="251" reporter="P. 2d" entry_type="standard_key" no_current_file="True" lookup_key="p.2d_859_156" id1="Dummy_File_187258" volume="859" start="238" page_number="156" standard_reporter="P.2D" citation_global_level_id="251108.001" line="3" id="115806_12" citation_local_level_id="2" >859 P. 2d 156</CITATION>
+
+<RELATION theme="115806_1" includes_docket_string="93-6393" includes_docket="115806_2" theme_string="510 U.S. 1026" gram_type="apposition" relation_type="asymmetric" id="115806_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1026" X_vs_Y_string="Schurz v. Arizona" standard_case="115806_1" X_vs_Y="115806_3" gram_type="pre_nom" relation_type="equivalence" id="115806_7" ></RELATION>
+
+<RELATION theme="115806_3" includes_docket_string="93-6393" includes_docket="115806_2" theme_string="Schurz v. Arizona" gram_type="apposition" relation_type="asymmetric" id="115806_10" ></RELATION>
+
+<RELATION theme="115806_3" party1="115806_4" party1_string="Schurz" theme_string="Schurz v. Arizona" gram_type="infix" relation_type="asymmetric" id="115806_8" ></RELATION>
+
+<RELATION party2="115806_5" theme="115806_3" theme_string="Schurz v. Arizona" party2_string="Arizona" gram_type="infix" relation_type="asymmetric" id="115806_9" ></RELATION>
+

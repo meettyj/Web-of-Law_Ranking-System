@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['turnerkapture#1', 'u.s._539_933']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_963" id1="133276" volume="540" start="0" page_number="963" standard_reporter="U.S." citation_global_level_id="3985.002" line="1" id="133275_1" citation_local_level_id="0" >540 U.S. 963</CITATION>
+
+<CITATION party2="KAPTURE, WARDEN, ET AL" party1="TURNER" citation_global_level_id="11836.001" party2_short="KAPTURE" line="2" id="133275_3" alternative_keys="['u.s._540_963', 'u.s._539_933']" end="49" entry_type="party_key" lookup_key="turnerkapture#1" id1="133275" start="17" party1_short="TURNER" citation_local_level_id="1" >TURNER v. KAPTURE, WARDEN, ET AL</CITATION>
+
+<NAME end="23" start="17" party1_of="133275_3" all_names="TURNER" local_name_id="1" id="133275_4" >TURNER</NAME>
+
+<NAME end="49" start="27" all_names="KAPTURE WARDEN" party2_of="133275_3" local_name_id="2" id="133275_5" >KAPTURE, WARDEN, ET AL</NAME>
+
+<CITATION alternative_keys="['u.s._540_963', 'turnerkapture#1']" end="64" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_933" id1="130561" volume="539" start="52" page_number="933" standard_reporter="U.S." citation_global_level_id="389.002" line="2" id="133275_2" citation_local_level_id="2" >539 U.S. 933</CITATION>
+
+<DOCKET end="82" entry_type="docket" lookup_key="turnerkapture#1" id1="133275" start="74" citation_global_level_id="11836.001" line="3" id="133275_9" citation_local_level_id="1" >02-10412</DOCKET>
+
+<ORGANIZATION start="88" end="118" id="133275_10" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="124" citation_global_level_id="11836.001" end="140" id="133275_11" citation_local_level_id="1" >October 14, 2003</DATE>
+
+<NAME start="162" local_name_id="3" end="170" id="133275_15" all_names="PETITION" >Petition</NAME>
+
+<RELATION standard_case_string="539 U.S. 933" X_vs_Y_string="TURNER v. KAPTURE, WARDEN, ET AL" standard_case="133275_2" X_vs_Y="133275_3" gram_type="apposition" relation_type="equivalence" id="133275_8" ></RELATION>
+
+<RELATION theme="133275_3" party1="133275_4" party1_string="TURNER" theme_string="TURNER v. KAPTURE, WARDEN, ET AL" gram_type="infix" relation_type="asymmetric" id="133275_6" ></RELATION>
+
+<RELATION party2="133275_5" theme="133275_3" theme_string="TURNER v. KAPTURE, WARDEN, ET AL" party2_string="KAPTURE, WARDEN, ET AL" gram_type="infix" relation_type="asymmetric" id="133275_7" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 963" X_vs_Y_string="TURNER v. KAPTURE, WARDEN, ET AL" standard_case="133275_1" X_vs_Y="133275_3" gram_type="multi_line" relation_type="equivalence" id="133275_12" ></RELATION>
+
+<RELATION at_date_string="October 14, 2003" theme="133275_3" at_date="133275_11" theme_string="TURNER v. KAPTURE, WARDEN, ET AL" gram_type="multi_line" relation_type="asymmetric" id="133275_14" ></RELATION>
+
+<RELATION theme="133275_3" includes_docket_string="02-10412" includes_docket="133275_9" theme_string="TURNER v. KAPTURE, WARDEN, ET AL" gram_type="multi_line" relation_type="asymmetric" id="133275_13" ></RELATION>
+

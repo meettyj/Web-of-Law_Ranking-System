@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['longleystates#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_913" id1="139236" volume="543" start="0" page_number="913" standard_reporter="U.S." citation_global_level_id="141.002" line="1" id="139243_1" citation_local_level_id="0" >543 U.S. 913</CITATION>
+
+<CITATION party2="UNITED STATES" party1="LONGLEY" citation_global_level_id="27736.001" party2_short="STATES" line="2" id="139243_2" alternative_keys="['u.s._543_913']" end="41" entry_type="party_key" lookup_key="longleystates#2" id1="139243" start="17" party1_short="LONGLEY" citation_local_level_id="1" >LONGLEY v. UNITED STATES</CITATION>
+
+<NAME end="24" start="17" party1_of="139243_2" all_names="LONGLEY" local_name_id="1" id="139243_3" >LONGLEY</NAME>
+
+<NAME end="41" start="28" all_names="UNITED STATES" party2_of="139243_2" local_name_id="2" id="139243_4" >UNITED STATES</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="longleystates#2" id1="139243" start="51" citation_global_level_id="27736.001" line="3" id="139243_7" citation_local_level_id="1" >04-5880</DOCKET>
+
+<ORGANIZATION start="64" end="94" id="139243_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="100" citation_global_level_id="27736.001" end="115" id="139243_9" citation_local_level_id="1" >October 4, 2004</DATE>
+
+<NAME start="147" local_name_id="3" end="150" id="139243_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="139243_2" party1="139243_3" party1_string="LONGLEY" theme_string="LONGLEY v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="139243_5" ></RELATION>
+
+<RELATION party2="139243_4" theme="139243_2" theme_string="LONGLEY v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="139243_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 913" X_vs_Y_string="LONGLEY v. UNITED STATES" standard_case="139243_1" X_vs_Y="139243_2" gram_type="multi_line" relation_type="equivalence" id="139243_10" ></RELATION>
+
+<RELATION at_date_string="October 4, 2004" theme="139243_2" at_date="139243_9" theme_string="LONGLEY v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="139243_12" ></RELATION>
+
+<RELATION theme="139243_2" includes_docket_string="04-5880" includes_docket="139243_7" theme_string="LONGLEY v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="139243_11" ></RELATION>
+

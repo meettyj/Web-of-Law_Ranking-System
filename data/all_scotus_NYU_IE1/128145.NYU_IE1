@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['breuerconcrete#4']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_920" id1="128140" volume="538" start="0" page_number="920" standard_reporter="U.S." citation_global_level_id="993.002" line="1" id="128145_1" citation_local_level_id="0" >538 U.S. 920</CITATION>
+
+<CITATION party2="JIM'S CONCRETE OF BREVARD, INC" party1="BREUER" citation_global_level_id="17765.007" party2_short="CONCRETE" line="1" id="128145_3" alternative_keys="['u.s._537_1099']" end="57" entry_type="party_key" lookup_key="breuerconcrete#4" id1="126053" start="17" party1_short="BREUER" citation_local_level_id="1" >BREUER v. JIM'S CONCRETE OF BREVARD, INC</CITATION>
+
+<NAME end="23" start="17" party1_of="128145_3" all_names="BREUER" local_name_id="1" id="128145_4" >BREUER</NAME>
+
+<NAME end="57" start="27" all_names="JIM'S CONCRETE OF BREVARD INC" party2_of="128145_3" local_name_id="2" id="128145_5" >JIM'S CONCRETE OF BREVARD, INC</NAME>
+
+<DOCKET end="73" entry_type="docket" lookup_key="u.s._538_920" id1="128140" start="67" citation_global_level_id="993.002" line="1" id="128145_2" citation_local_level_id="0" >02-337</DOCKET>
+
+<DATE start="115" end="129" id="128145_6" >March 24, 2003</DATE>
+
+<NAME start="262" local_name_id="3" end="265" id="128145_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="302" reporter="U. S." entry_type="standard_key" lookup_key="u.s._537_1099" id1="126053" volume="537" start="288" page_number="1099" standard_reporter="U.S." citation_global_level_id="17765.002" line="3" id="128145_12" citation_local_level_id="2" >537 U. S. 1099</CITATION>
+
+<RELATION theme="128145_1" includes_docket_string="02-337" includes_docket="128145_2" theme_string="538 U.S. 920" gram_type="apposition" relation_type="asymmetric" id="128145_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 920" X_vs_Y_string="BREUER v. JIM'S CONCRETE OF BREVARD, INC" standard_case="128145_1" X_vs_Y="128145_3" gram_type="pre_nom" relation_type="equivalence" id="128145_7" ></RELATION>
+
+<RELATION theme="128145_3" includes_docket_string="02-337" includes_docket="128145_2" theme_string="BREUER v. JIM'S CONCRETE OF BREVARD, INC" gram_type="apposition" relation_type="asymmetric" id="128145_10" ></RELATION>
+
+<RELATION theme="128145_3" party1="128145_4" party1_string="BREUER" theme_string="BREUER v. JIM'S CONCRETE OF BREVARD, INC" gram_type="infix" relation_type="asymmetric" id="128145_8" ></RELATION>
+
+<RELATION party2="128145_5" theme="128145_3" theme_string="BREUER v. JIM'S CONCRETE OF BREVARD, INC" party2_string="JIM'S CONCRETE OF BREVARD, INC" gram_type="infix" relation_type="asymmetric" id="128145_9" ></RELATION>
+

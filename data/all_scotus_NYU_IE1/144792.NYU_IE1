@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['rutherfordstates#4']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_1045" id1="144777" volume="544" start="0" page_number="1045" standard_reporter="U.S." citation_global_level_id="52.002" line="1" id="144792_1" citation_local_level_id="0" >544 U.S. 1045</CITATION>
+
+<CITATION party2="UNITED STATES" party1="RUTHERFORD" citation_global_level_id="62041.001" party2_short="STATES" line="2" id="144792_2" alternative_keys="['u.s._544_1045']" end="45" entry_type="party_key" lookup_key="rutherfordstates#4" id1="125563" start="18" party1_short="RUTHERFORD" citation_local_level_id="1" >RUTHERFORD v. UNITED STATES</CITATION>
+
+<NAME end="28" start="18" party1_of="144792_2" all_names="RUTHERFORD" local_name_id="1" id="144792_3" >RUTHERFORD</NAME>
+
+<NAME end="45" start="32" all_names="UNITED STATES" party2_of="144792_2" local_name_id="2" id="144792_4" >UNITED STATES</NAME>
+
+<DOCKET end="62" entry_type="docket" lookup_key="rutherfordstates#4" id1="125563" start="55" citation_global_level_id="62041.001" line="3" id="144792_7" citation_local_level_id="1" >04-8351</DOCKET>
+
+<ORGANIZATION start="68" end="98" id="144792_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="104" citation_global_level_id="62041.001" end="116" id="144792_9" citation_local_level_id="1" >May 16, 2005</DATE>
+
+<NAME start="138" local_name_id="3" end="146" id="144792_13" all_names="PETITION" >Petition</NAME>
+
+<RELATION theme="144792_2" party1="144792_3" party1_string="RUTHERFORD" theme_string="RUTHERFORD v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="144792_5" ></RELATION>
+
+<RELATION party2="144792_4" theme="144792_2" theme_string="RUTHERFORD v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="144792_6" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 1045" X_vs_Y_string="RUTHERFORD v. UNITED STATES" standard_case="144792_1" X_vs_Y="144792_2" gram_type="multi_line" relation_type="equivalence" id="144792_10" ></RELATION>
+
+<RELATION at_date_string="May 16, 2005" theme="144792_2" at_date="144792_9" theme_string="RUTHERFORD v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="144792_12" ></RELATION>
+
+<RELATION theme="144792_2" includes_docket_string="04-8351" includes_docket="144792_7" theme_string="RUTHERFORD v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="144792_11" ></RELATION>
+

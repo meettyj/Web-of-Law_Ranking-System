@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['kanestates#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_823" id1="138026" volume="543" start="0" page_number="823" standard_reporter="U.S." citation_global_level_id="7107.002" line="1" id="138025_1" citation_local_level_id="0" >543 U.S. 823</CITATION>
+
+<CITATION party2="UNITED STATES" party1="O'KANE" citation_global_level_id="7107.004" party2_short="STATES" line="2" id="138025_2" alternative_keys="['u.s._543_823']" end="40" entry_type="party_key" lookup_key="kanestates#1" id1="138026" start="17" party1_short="KANE" citation_local_level_id="1" >O'KANE v. UNITED STATES</CITATION>
+
+<NAME end="23" start="17" party1_of="138025_2" all_names="O'KANE" local_name_id="1" id="138025_3" >O'KANE</NAME>
+
+<NAME end="40" start="27" all_names="UNITED STATES" party2_of="138025_2" local_name_id="2" id="138025_4" >UNITED STATES</NAME>
+
+<DOCKET alternative_keys="['u.s._543_823']" end="58" entry_type="docket" lookup_key="kanestates#1" id1="138026" start="50" citation_global_level_id="7107.004" line="3" id="138025_7" citation_local_level_id="1" >03-10010</DOCKET>
+
+<ORGANIZATION start="64" end="94" id="138025_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="100" citation_global_level_id="7107.004" end="115" id="138025_9" citation_local_level_id="1" >October 4, 2004</DATE>
+
+<NAME start="146" local_name_id="3" end="149" id="138025_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="138025_2" party1="138025_3" party1_string="O'KANE" theme_string="O'KANE v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="138025_5" ></RELATION>
+
+<RELATION party2="138025_4" theme="138025_2" theme_string="O'KANE v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="138025_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 823" X_vs_Y_string="O'KANE v. UNITED STATES" standard_case="138025_1" X_vs_Y="138025_2" gram_type="multi_line" relation_type="equivalence" id="138025_10" ></RELATION>
+
+<RELATION at_date_string="October 4, 2004" theme="138025_2" at_date="138025_9" theme_string="O'KANE v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="138025_12" ></RELATION>
+
+<RELATION theme="138025_2" includes_docket_string="03-10010" includes_docket="138025_7" theme_string="O'KANE v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="138025_11" ></RELATION>
+

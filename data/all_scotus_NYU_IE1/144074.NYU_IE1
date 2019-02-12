@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['tolbertstates#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_991" id1="144067" volume="544" start="0" page_number="991" standard_reporter="U.S." citation_global_level_id="125.002" line="1" id="144074_1" citation_local_level_id="0" >544 U.S. 991</CITATION>
+
+<CITATION party2="UNITED STATES" party1="TOLBERT" citation_global_level_id="46996.001" party2_short="STATES" line="2" id="144074_2" alternative_keys="['u.s._544_991']" end="41" entry_type="party_key" lookup_key="tolbertstates#1" id1="144074" start="17" party1_short="TOLBERT" citation_local_level_id="1" >TOLBERT v. UNITED STATES</CITATION>
+
+<NAME end="24" start="17" party1_of="144074_2" all_names="TOLBERT" local_name_id="1" id="144074_3" >TOLBERT</NAME>
+
+<NAME end="41" start="28" all_names="UNITED STATES" party2_of="144074_2" local_name_id="2" id="144074_4" >UNITED STATES</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="tolbertstates#1" id1="144074" start="51" citation_global_level_id="46996.001" line="3" id="144074_7" citation_local_level_id="1" >04-9234</DOCKET>
+
+<ORGANIZATION start="64" end="94" id="144074_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="100" citation_global_level_id="46996.001" end="114" id="144074_9" citation_local_level_id="1" >April 18, 2005</DATE>
+
+<NAME start="146" local_name_id="3" end="149" id="144074_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="144074_2" party1="144074_3" party1_string="TOLBERT" theme_string="TOLBERT v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="144074_5" ></RELATION>
+
+<RELATION party2="144074_4" theme="144074_2" theme_string="TOLBERT v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="144074_6" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 991" X_vs_Y_string="TOLBERT v. UNITED STATES" standard_case="144074_1" X_vs_Y="144074_2" gram_type="multi_line" relation_type="equivalence" id="144074_10" ></RELATION>
+
+<RELATION at_date_string="April 18, 2005" theme="144074_2" at_date="144074_9" theme_string="TOLBERT v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="144074_12" ></RELATION>
+
+<RELATION theme="144074_2" includes_docket_string="04-9234" includes_docket="144074_7" theme_string="TOLBERT v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="144074_11" ></RELATION>
+

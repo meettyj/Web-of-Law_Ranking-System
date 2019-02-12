@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['waterscollot#1', 'dall_2_247']" end="18" reporter="U.S." entry_type="standard_key" lookup_key="u.s._2_247" id1="84665" volume="2" start="1" page_number="247" standard_reporter="U.S." citation_global_level_id="50972.002" line="2" id="84665_1" citation_local_level_id="0" >2 U.S. 247 (____)</CITATION>
+
+<CITATION alternative_keys="['u.s._2_247', 'waterscollot#1']" end="30" reporter="Dall" entry_type="standard_key" lookup_key="dall_2_247" id1="84665" volume="2" start="19" page_number="247" standard_reporter="DALL" citation_global_level_id="50972.003" line="3" id="84665_2" citation_local_level_id="1" >2 Dall. 247</CITATION>
+
+<CITATION party2="COLLOT" party1="WATERS" citation_global_level_id="50972.001" party2_short="COLLOT" line="6" id="84665_4" alternative_keys="['u.s._2_247', 'dall_2_247']" end="53" entry_type="party_key" lookup_key="waterscollot#1" id1="84665" start="31" party1_short="WATERS" citation_local_level_id="2" >WATERS versus COLLOT</CITATION>
+
+<NAME end="37" start="31" party1_of="84665_4" all_names="WATERS" local_name_id="1" id="84665_5" >WATERS</NAME>
+
+<NAME end="53" start="47" all_names="COLLOT" party2_of="84665_4" local_name_id="2" id="84665_6" >COLLOT</NAME>
+
+<ORGANIZATION start="55" end="85" id="84665_9" >Supreme Court of United States</ORGANIZATION>
+
+<ORGANIZATION start="100" end="105" id="84665_12" >COURT</ORGANIZATION>
+
+<NAME start="624" local_name_id="3" end="629" id="84665_13" all_names="NOTES" >NOTES</NAME>
+
+<LEGAL_ROLE start="639" end="648" id="84665_14" >defendant</LEGAL_ROLE>
+
+<PROFESSION start="681" end="701" id="84665_15" >government of France</PROFESSION>
+
+<PROFESSION start="765" end="783" id="84665_16" >Federal government</PROFESSION>
+
+<LEGAL_ROLE start="806" end="815" id="84665_17" >plaintiff</LEGAL_ROLE>
+
+<RELATION theme="84665_4" party1="84665_5" party1_string="WATERS" theme_string="WATERS  versus  COLLOT" gram_type="infix" relation_type="asymmetric" id="84665_7" ></RELATION>
+
+<RELATION party2="84665_6" theme="84665_4" theme_string="WATERS  versus  COLLOT" party2_string="COLLOT" gram_type="infix" relation_type="asymmetric" id="84665_8" ></RELATION>
+
+<RELATION standard_case_string="2 U.S. 247 (____)" X_vs_Y_string="WATERS  versus  COLLOT" standard_case="84665_1" X_vs_Y="84665_4" gram_type="multi_line" relation_type="equivalence" id="84665_10" ></RELATION>
+
+<RELATION standard_case_string="2 Dall. 247" X_vs_Y_string="WATERS  versus  COLLOT" standard_case="84665_2" X_vs_Y="84665_4" gram_type="multi_line" relation_type="equivalence" id="84665_11" ></RELATION>
+

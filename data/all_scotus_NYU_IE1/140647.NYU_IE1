@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['lewisgaspar#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1024" id1="140643" volume="543" start="0" page_number="1024" standard_reporter="U.S." citation_global_level_id="4520.002" line="1" id="140647_1" citation_local_level_id="0" >543 U.S. 1024</CITATION>
+
+<CITATION party2="GASPAR" party1="LEWIS" citation_global_level_id="7997.001" party2_short="GASPAR" line="2" id="140647_2" alternative_keys="['u.s._543_1024']" end="33" entry_type="party_key" lookup_key="lewisgaspar#1" id1="140647" start="18" party1_short="LEWIS" citation_local_level_id="1" >LEWIS v. GASPAR</CITATION>
+
+<NAME end="23" start="18" party1_of="140647_2" all_names="LEWIS" local_name_id="1" id="140647_3" >LEWIS</NAME>
+
+<NAME end="33" start="27" all_names="GASPAR" party2_of="140647_2" local_name_id="2" id="140647_4" >GASPAR</NAME>
+
+<DOCKET end="50" entry_type="docket" lookup_key="lewisgaspar#1" id1="140647" start="43" citation_global_level_id="7997.001" line="3" id="140647_7" citation_local_level_id="1" >04-6615</DOCKET>
+
+<ORGANIZATION start="56" end="86" id="140647_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="92" citation_global_level_id="7997.001" end="108" id="140647_9" citation_local_level_id="1" >December 6, 2004</DATE>
+
+<NAME start="140" local_name_id="3" end="143" id="140647_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="140647_2" party1="140647_3" party1_string="LEWIS" theme_string="LEWIS v. GASPAR" gram_type="infix" relation_type="asymmetric" id="140647_5" ></RELATION>
+
+<RELATION party2="140647_4" theme="140647_2" theme_string="LEWIS v. GASPAR" party2_string="GASPAR" gram_type="infix" relation_type="asymmetric" id="140647_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1024" X_vs_Y_string="LEWIS v. GASPAR" standard_case="140647_1" X_vs_Y="140647_2" gram_type="multi_line" relation_type="equivalence" id="140647_10" ></RELATION>
+
+<RELATION at_date_string="December 6, 2004" theme="140647_2" at_date="140647_9" theme_string="LEWIS v. GASPAR" gram_type="multi_line" relation_type="asymmetric" id="140647_12" ></RELATION>
+
+<RELATION theme="140647_2" includes_docket_string="04-6615" includes_docket="140647_7" theme_string="LEWIS v. GASPAR" gram_type="multi_line" relation_type="asymmetric" id="140647_11" ></RELATION>
+

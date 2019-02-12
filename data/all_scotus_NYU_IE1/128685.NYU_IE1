@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['colomboconnell#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_961" id1="128674" volume="538" start="0" page_number="961" standard_reporter="U.S." citation_global_level_id="1361.002" line="1" id="128685_1" citation_local_level_id="0" >538 U.S. 961</CITATION>
+
+<CITATION party2="O'CONNELL" party1="COLOMBO" citation_global_level_id="1361.006" party2_short="CONNELL" line="1" id="128685_3" alternative_keys="['u.s._538_961']" end="37" entry_type="party_key" lookup_key="colomboconnell#1" id1="128674" start="17" party1_short="COLOMBO" citation_local_level_id="1" >COLOMBO v. O'CONNELL</CITATION>
+
+<NAME end="24" start="17" party1_of="128685_3" all_names="COLOMBO" local_name_id="1" id="128685_4" >COLOMBO</NAME>
+
+<NAME end="37" start="28" all_names="O'CONNELL" party2_of="128685_3" local_name_id="2" id="128685_5" >O'CONNELL</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="u.s._538_961" id1="128674" start="47" citation_global_level_id="1361.002" line="1" id="128685_2" citation_local_level_id="0" >02-1156</DOCKET>
+
+<DATE start="96" end="109" id="128685_6" >April 7, 2003</DATE>
+
+<NAME start="238" local_name_id="3" end="241" id="128685_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="291" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_310_115" id1="Dummy_File_156890" volume="310" start="278" page_number="115" standard_reporter="F.3D" citation_global_level_id="220740.001" line="3" id="128685_12" citation_local_level_id="2" >310 F. 3d 115</CITATION>
+
+<RELATION theme="128685_1" includes_docket_string="02-1156" includes_docket="128685_2" theme_string="538 U.S. 961" gram_type="apposition" relation_type="asymmetric" id="128685_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 961" X_vs_Y_string="COLOMBO v. O'CONNELL" standard_case="128685_1" X_vs_Y="128685_3" gram_type="pre_nom" relation_type="equivalence" id="128685_7" ></RELATION>
+
+<RELATION theme="128685_3" includes_docket_string="02-1156" includes_docket="128685_2" theme_string="COLOMBO v. O'CONNELL" gram_type="apposition" relation_type="asymmetric" id="128685_10" ></RELATION>
+
+<RELATION theme="128685_3" party1="128685_4" party1_string="COLOMBO" theme_string="COLOMBO v. O'CONNELL" gram_type="infix" relation_type="asymmetric" id="128685_8" ></RELATION>
+
+<RELATION party2="128685_5" theme="128685_3" theme_string="COLOMBO v. O'CONNELL" party2_string="O'CONNELL" gram_type="infix" relation_type="asymmetric" id="128685_9" ></RELATION>
+

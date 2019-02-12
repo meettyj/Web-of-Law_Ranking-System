@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['coloradomiller#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_1082" id1="136813" volume="541" start="0" page_number="1082" standard_reporter="U.S." citation_global_level_id="4742.002" line="1" id="136820_1" citation_local_level_id="0" >541 U.S. 1082</CITATION>
+
+<CITATION party2="MILLER" party1="COLORADO" citation_global_level_id="29046.001" party2_short="MILLER" line="2" id="136820_2" alternative_keys="['u.s._541_1082']" end="36" entry_type="party_key" lookup_key="coloradomiller#1" id1="136820" start="18" party1_short="COLORADO" citation_local_level_id="1" >COLORADO v. MILLER</CITATION>
+
+<NAME end="26" start="18" party1_of="136820_2" all_names="COLORADO" local_name_id="1" id="136820_3" >COLORADO</NAME>
+
+<NAME end="36" start="30" all_names="MILLER" party2_of="136820_2" local_name_id="2" id="136820_4" >MILLER</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="coloradomiller#1" id1="136820" start="46" citation_global_level_id="29046.001" line="3" id="136820_7" citation_local_level_id="1" >03-836</DOCKET>
+
+<ORGANIZATION start="58" end="88" id="136820_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="94" citation_global_level_id="29046.001" end="106" id="136820_9" citation_local_level_id="1" >June 1, 2004</DATE>
+
+<NAME start="128" local_name_id="3" end="131" id="136820_14" all_names="SUP" >Sup</NAME>
+
+<CITATION end="260" reporter="P. 3d" entry_type="standard_key" no_current_file="True" lookup_key="p.3d_75_1108" id1="Dummy_File_181867" volume="75" start="247" page_number="1108" standard_reporter="P.3D" citation_global_level_id="245717.001" line="8" id="136820_13" citation_local_level_id="2" >75 P. 3d 1108</CITATION>
+
+<RELATION theme="136820_2" party1="136820_3" party1_string="COLORADO" theme_string="COLORADO v. MILLER" gram_type="infix" relation_type="asymmetric" id="136820_5" ></RELATION>
+
+<RELATION party2="136820_4" theme="136820_2" theme_string="COLORADO v. MILLER" party2_string="MILLER" gram_type="infix" relation_type="asymmetric" id="136820_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 1082" X_vs_Y_string="COLORADO v. MILLER" standard_case="136820_1" X_vs_Y="136820_2" gram_type="multi_line" relation_type="equivalence" id="136820_10" ></RELATION>
+
+<RELATION at_date_string="June 1, 2004" theme="136820_2" at_date="136820_9" theme_string="COLORADO v. MILLER" gram_type="multi_line" relation_type="asymmetric" id="136820_12" ></RELATION>
+
+<RELATION theme="136820_2" includes_docket_string="03-836" includes_docket="136820_7" theme_string="COLORADO v. MILLER" gram_type="multi_line" relation_type="asymmetric" id="136820_11" ></RELATION>
+

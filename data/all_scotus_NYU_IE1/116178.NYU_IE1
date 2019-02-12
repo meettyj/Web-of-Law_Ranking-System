@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['garrettjones#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1059" id1="116183" volume="510" start="0" page_number="1059" standard_reporter="U.S." citation_global_level_id="5824.002" line="1" id="116178_1" citation_local_level_id="0" >510 U.S. 1059</CITATION>
+
+<CITATION party2="Jones, Warden, et al" party1="Garrett" citation_global_level_id="5824.004" party2_short="Jones" line="1" id="116178_3" alternative_keys="['u.s._510_1059']" end="49" entry_type="party_key" lookup_key="garrettjones#1" id1="116183" start="18" party1_short="Garrett" citation_local_level_id="1" >Garrett v. Jones, Warden, et al</CITATION>
+
+<NAME end="25" start="18" party1_of="116178_3" all_names="GARRETT" local_name_id="1" id="116178_4" >Garrett</NAME>
+
+<NAME end="49" start="29" all_names="JONES WARDEN" party2_of="116178_3" local_name_id="2" id="116178_5" >Jones, Warden, et al</NAME>
+
+<DOCKET end="66" entry_type="docket" lookup_key="u.s._510_1059" id1="116183" start="59" citation_global_level_id="5824.002" line="1" id="116178_2" citation_local_level_id="0" >93-6785</DOCKET>
+
+<DATE start="108" end="124" id="116178_6" >January 10, 1994</DATE>
+
+<NAME start="203" local_name_id="3" end="213" id="116178_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="252" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_992_1548" id1="Dummy_File_27344" volume="992" start="238" page_number="1548" standard_reporter="F.2D" citation_global_level_id="91194.001" line="3" id="116178_12" citation_local_level_id="2" >992 F. 2d 1548</CITATION>
+
+<RELATION theme="116178_1" includes_docket_string="93-6785" includes_docket="116178_2" theme_string="510 U.S. 1059" gram_type="apposition" relation_type="asymmetric" id="116178_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1059" X_vs_Y_string="Garrett v. Jones, Warden, et al" standard_case="116178_1" X_vs_Y="116178_3" gram_type="pre_nom" relation_type="equivalence" id="116178_7" ></RELATION>
+
+<RELATION theme="116178_3" includes_docket_string="93-6785" includes_docket="116178_2" theme_string="Garrett v. Jones, Warden, et al" gram_type="apposition" relation_type="asymmetric" id="116178_10" ></RELATION>
+
+<RELATION theme="116178_3" party1="116178_4" party1_string="Garrett" theme_string="Garrett v. Jones, Warden, et al" gram_type="infix" relation_type="asymmetric" id="116178_8" ></RELATION>
+
+<RELATION party2="116178_5" theme="116178_3" theme_string="Garrett v. Jones, Warden, et al" party2_string="Jones, Warden, et al" gram_type="infix" relation_type="asymmetric" id="116178_9" ></RELATION>
+

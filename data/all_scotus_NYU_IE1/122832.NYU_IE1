@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['ballbaker#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_847" id1="122835" volume="537" start="0" page_number="847" standard_reporter="U.S." citation_global_level_id="4487.002" line="1" id="122832_1" citation_local_level_id="0" >537 U.S. 847</CITATION>
+
+<CITATION party2="BAKER ET AL" party1="BALL" citation_global_level_id="37420.001" party2_short="BAKER" line="1" id="122832_3" alternative_keys="['u.s._537_847']" end="36" entry_type="party_key" lookup_key="ballbaker#1" id1="122832" start="17" party1_short="BALL" citation_local_level_id="1" >BALL v. BAKER ET AL</CITATION>
+
+<NAME end="21" start="17" party1_of="122832_3" all_names="BALL" local_name_id="1" id="122832_4" >BALL</NAME>
+
+<NAME end="36" start="25" all_names="BAKER" party2_of="122832_3" local_name_id="2" id="122832_5" >BAKER ET AL</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="u.s._537_847" id1="122835" start="46" citation_global_level_id="4487.002" line="1" id="122832_2" citation_local_level_id="0" >01-10505</DOCKET>
+
+<DATE start="96" end="111" id="122832_6" >October 7, 2002</DATE>
+
+<NAME start="244" local_name_id="3" end="247" id="122832_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="297" reporter="F.3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_277_1377" id1="Dummy_File_11400" volume="277" start="284" page_number="1377" standard_reporter="F.3D" citation_global_level_id="75250.001" line="3" id="122832_12" citation_local_level_id="2" >277 F.3d 1377</CITATION>
+
+<RELATION theme="122832_1" includes_docket_string="01-10505" includes_docket="122832_2" theme_string="537 U.S. 847" gram_type="apposition" relation_type="asymmetric" id="122832_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 847" X_vs_Y_string="BALL v. BAKER ET AL" standard_case="122832_1" X_vs_Y="122832_3" gram_type="pre_nom" relation_type="equivalence" id="122832_7" ></RELATION>
+
+<RELATION theme="122832_3" includes_docket_string="01-10505" includes_docket="122832_2" theme_string="BALL v. BAKER ET AL" gram_type="apposition" relation_type="asymmetric" id="122832_10" ></RELATION>
+
+<RELATION theme="122832_3" party1="122832_4" party1_string="BALL" theme_string="BALL v. BAKER ET AL" gram_type="infix" relation_type="asymmetric" id="122832_8" ></RELATION>
+
+<RELATION party2="122832_5" theme="122832_3" theme_string="BALL v. BAKER ET AL" party2_string="BAKER ET AL" gram_type="infix" relation_type="asymmetric" id="122832_9" ></RELATION>
+

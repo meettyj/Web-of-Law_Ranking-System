@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['thomasstates#9']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_964" id1="119197" volume="535" start="0" page_number="964" standard_reporter="U.S." citation_global_level_id="1185.002" line="1" id="119194_1" citation_local_level_id="0" >535 U.S. 964</CITATION>
+
+<CITATION party2="UNITED STATES" party1="THOMAS" citation_global_level_id="10736.001" party2_short="STATES" line="2" id="119194_2" alternative_keys="['u.s._535_964']" end="40" entry_type="party_key" lookup_key="thomasstates#9" id1="121923" start="17" party1_short="THOMAS" citation_local_level_id="1" >THOMAS v. UNITED STATES</CITATION>
+
+<NAME end="23" start="17" party1_of="119194_2" all_names="THOMAS" local_name_id="1" id="119194_3" >THOMAS</NAME>
+
+<NAME end="40" start="27" all_names="UNITED STATES" party2_of="119194_2" local_name_id="2" id="119194_4" >UNITED STATES</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="thomasstates#9" id1="121923" start="50" citation_global_level_id="10736.001" line="3" id="119194_7" citation_local_level_id="1" >01-8539</DOCKET>
+
+<DATE start="103" citation_global_level_id="10736.001" end="117" id="119194_8" citation_local_level_id="1" >March 25, 2002</DATE>
+
+<NAME start="150" local_name_id="3" end="153" id="119194_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="119194_2" party1="119194_3" party1_string="THOMAS" theme_string="THOMAS v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="119194_5" ></RELATION>
+
+<RELATION party2="119194_4" theme="119194_2" theme_string="THOMAS v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="119194_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 964" X_vs_Y_string="THOMAS v. UNITED STATES" standard_case="119194_1" X_vs_Y="119194_2" gram_type="multi_line" relation_type="equivalence" id="119194_9" ></RELATION>
+
+<RELATION at_date_string="March 25, 2002" theme="119194_2" at_date="119194_8" theme_string="THOMAS v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="119194_11" ></RELATION>
+
+<RELATION theme="119194_2" includes_docket_string="01-8539" includes_docket="119194_7" theme_string="THOMAS v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="119194_10" ></RELATION>
+

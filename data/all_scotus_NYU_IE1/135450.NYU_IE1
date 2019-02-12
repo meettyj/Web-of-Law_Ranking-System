@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['associatescorps#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_972" id1="135445" volume="541" start="0" page_number="972" standard_reporter="U.S." citation_global_level_id="6831.002" line="1" id="135450_1" citation_local_level_id="0" >541 U.S. 972</CITATION>
+
+<CITATION party2="UNITED STATES ARMY CORPS OF ENGINEERS" party1="NEWDUNN ASSOCIATES, LLP, ET AL." citation_global_level_id="6831.005" party2_short="CORPS" line="2" id="135450_2" alternative_keys="['u.s._541_972']" end="89" entry_type="party_key" lookup_key="associatescorps#2" id1="135445" start="17" party1_short="ASSOCIATES" citation_local_level_id="1" >NEWDUNN ASSOCIATES, LLP, ET AL. v. UNITED STATES ARMY CORPS OF ENGINEERS</CITATION>
+
+<NAME end="48" start="17" party1_of="135450_2" all_names="NEWDUNN ASSOCIATES LLP" local_name_id="1" id="135450_3" >NEWDUNN ASSOCIATES, LLP, ET AL.</NAME>
+
+<PROFESSION start="17" end="40" plural="True" id="135450_5" >NEWDUNN ASSOCIATES, LLP</PROFESSION>
+
+<NAME end="89" start="52" all_names="UNITED STATES ARMY CORPS OF ENGINEERS" party2_of="135450_2" local_name_id="2" id="135450_4" >UNITED STATES ARMY CORPS OF ENGINEERS</NAME>
+
+<DOCKET alternative_keys="['u.s._541_972']" end="105" entry_type="docket" lookup_key="associatescorps#2" id1="135445" start="99" citation_global_level_id="6831.005" line="3" id="135450_8" citation_local_level_id="1" >03-637</DOCKET>
+
+<ORGANIZATION start="111" end="141" id="135450_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="147" citation_global_level_id="6831.005" end="160" id="135450_10" citation_local_level_id="1" >April 5, 2004</DATE>
+
+<NAME start="192" local_name_id="3" end="195" id="135450_15" all_names="CIR" >Cir</NAME>
+
+<CITATION alternative_keys="['treacyassoc#1']" end="245" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_344_407" id1="Dummy_File_51750" volume="344" start="232" page_number="407" standard_reporter="F.3D" citation_global_level_id="115600.003" line="8" id="135450_14" citation_local_level_id="2" >344 F. 3d 407</CITATION>
+
+<RELATION theme="135450_2" party1="135450_3" party1_string="NEWDUNN ASSOCIATES, LLP, ET AL." theme_string="NEWDUNN ASSOCIATES, LLP, ET AL. v. UNITED STATES ARMY CORPS OF ENGINEERS" gram_type="infix" relation_type="asymmetric" id="135450_6" ></RELATION>
+
+<RELATION party2="135450_4" theme="135450_2" theme_string="NEWDUNN ASSOCIATES, LLP, ET AL. v. UNITED STATES ARMY CORPS OF ENGINEERS" party2_string="UNITED STATES ARMY CORPS OF ENGINEERS" gram_type="infix" relation_type="asymmetric" id="135450_7" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 972" X_vs_Y_string="NEWDUNN ASSOCIATES, LLP, ET AL. v. UNITED STATES ARMY CORPS OF ENGINEERS" standard_case="135450_1" X_vs_Y="135450_2" gram_type="multi_line" relation_type="equivalence" id="135450_11" ></RELATION>
+
+<RELATION at_date_string="April 5, 2004" theme="135450_2" at_date="135450_10" theme_string="NEWDUNN ASSOCIATES, LLP, ET AL. v. UNITED STATES ARMY CORPS OF ENGINEERS" gram_type="multi_line" relation_type="asymmetric" id="135450_13" ></RELATION>
+
+<RELATION theme="135450_2" includes_docket_string="03-637" includes_docket="135450_8" theme_string="NEWDUNN ASSOCIATES, LLP, ET AL. v. UNITED STATES ARMY CORPS OF ENGINEERS" gram_type="multi_line" relation_type="asymmetric" id="135450_12" ></RELATION>
+

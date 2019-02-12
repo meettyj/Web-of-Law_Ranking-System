@@ -1,0 +1,44 @@
+<DATE start="2" end="6" id="1290773_1" >2008</DATE>
+
+<CITATION party2="IDAHO" party1="PAUL E. RHOADES" citation_global_level_id="4061.001" party2_short="IDAHO" line="5" id="1290773_3" end="34" entry_type="party_key" lookup_key="rhoadesidaho#1" id1="1290773" start="8" party1_short="RHOADES" citation_local_level_id="0" >PAUL E. RHOADES v. IDAHO</CITATION>
+
+<NAME end="23" start="8" party1_of="1290773_3" all_names="PAUL E RHOADES" local_name_id="1" id="1290773_4" >PAUL E. RHOADES</NAME>
+
+<NAME end="34" start="29" all_names="IDAHO" party2_of="1290773_3" local_name_id="2" id="1290773_5" >IDAHO</NAME>
+
+<DOCKET end="47" entry_type="docket" lookup_key="rhoadesidaho#1" id1="1290773" start="39" citation_global_level_id="4061.001" line="6" id="1290773_8" citation_local_level_id="0" >06-10446</DOCKET>
+
+<ORGANIZATION start="48" end="78" id="1290773_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="80" citation_global_level_id="4061.001" end="97" id="1290773_10" citation_local_level_id="0" >February 25, 2008</DATE>
+
+<LEGAL_ROLE start="114" end="124" id="1290773_18" >petitioner</LEGAL_ROLE>
+
+<ORGANIZATION start="275" end="297" id="1290773_19" >Supreme Court of Idaho</ORGANIZATION>
+
+<CITATION party2="Minnesota" party1="Danforth" citation_global_level_id="35280.001" party2_short="Minnesota" line="10" id="1290773_14" alternative_keys="['u.s._552____']" end="357" entry_type="party_key" lookup_key="danforthminnesota#1" id1="145832" start="336" party1_short="Danforth" citation_local_level_id="1" >Danforth v. Minnesota</CITATION>
+
+<NAME end="344" start="336" party1_of="1290773_14" all_names="DANFORTH" local_name_id="3" id="1290773_15" >Danforth</NAME>
+
+<NAME end="357" start="348" all_names="MINNESOTA" party2_of="1290773_14" local_name_id="4" id="1290773_16" >Minnesota</NAME>
+
+<CITATION alternative_keys="['danforthminnesota#1']" end="378" reporter="U.S." entry_type="standard_key" lookup_key="u.s._552____" id1="145930" volume="552" start="359" page_number="___" year="2008" standard_reporter="U.S." citation_global_level_id="3524.006" line="10" id="1290773_13" citation_local_level_id="2" >552 U.S. ___ (2008)</CITATION>
+
+<DATE start="373" citation_global_level_id="3524.006" end="377" id="1290773_17" citation_local_level_id="2" >2008</DATE>
+
+<RELATION theme="1290773_3" party1="1290773_4" party1_string="PAUL E. RHOADES" theme_string="PAUL E. RHOADES  v.  IDAHO" gram_type="infix" relation_type="asymmetric" id="1290773_6" ></RELATION>
+
+<RELATION party2="1290773_5" theme="1290773_3" theme_string="PAUL E. RHOADES  v.  IDAHO" party2_string="IDAHO" gram_type="infix" relation_type="asymmetric" id="1290773_7" ></RELATION>
+
+<RELATION at_date_string="February 25, 2008" theme="1290773_3" at_date="1290773_10" theme_string="PAUL E. RHOADES  v.  IDAHO" gram_type="multi_line" relation_type="asymmetric" id="1290773_12" ></RELATION>
+
+<RELATION theme="1290773_3" includes_docket_string="06-10446" includes_docket="1290773_8" theme_string="PAUL E. RHOADES  v.  IDAHO" gram_type="multi_line" relation_type="asymmetric" id="1290773_11" ></RELATION>
+
+<RELATION standard_case_string="552 U.S. ___ (2008)" X_vs_Y_string="Danforth v. Minnesota" standard_case="1290773_13" X_vs_Y="1290773_14" gram_type="apposition" relation_type="equivalence" id="1290773_22" ></RELATION>
+
+<RELATION theme="1290773_14" party1="1290773_15" party1_string="Danforth" theme_string="Danforth v. Minnesota" gram_type="infix" relation_type="asymmetric" id="1290773_20" ></RELATION>
+
+<RELATION party2="1290773_16" theme="1290773_14" theme_string="Danforth v. Minnesota" party2_string="Minnesota" gram_type="infix" relation_type="asymmetric" id="1290773_21" ></RELATION>
+
+<RELATION at_date_string="2008" theme="1290773_13" at_date="1290773_17" theme_string="552 U.S. ___ (2008)" gram_type="infix" relation_type="asymmetric" id="1290773_23" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['hawkinsoklahoma#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_1014" id1="136003" volume="541" start="0" page_number="1014" standard_reporter="U.S." citation_global_level_id="2922.002" line="1" id="135994_1" citation_local_level_id="0" >541 U.S. 1014</CITATION>
+
+<CITATION party2="OKLAHOMA" party1="HAWKINS" citation_global_level_id="39750.001" party2_short="OKLAHOMA" line="2" id="135994_2" alternative_keys="['u.s._541_1014']" end="37" entry_type="party_key" lookup_key="hawkinsoklahoma#1" id1="135994" start="18" party1_short="HAWKINS" citation_local_level_id="1" >HAWKINS v. OKLAHOMA</CITATION>
+
+<NAME end="25" start="18" party1_of="135994_2" all_names="HAWKINS" local_name_id="1" id="135994_3" >HAWKINS</NAME>
+
+<NAME end="37" start="29" all_names="OKLAHOMA" party2_of="135994_2" local_name_id="2" id="135994_4" >OKLAHOMA</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="hawkinsoklahoma#1" id1="135994" start="47" citation_global_level_id="39750.001" line="3" id="135994_7" citation_local_level_id="1" >03-9121</DOCKET>
+
+<ORGANIZATION start="60" end="90" id="135994_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="96" citation_global_level_id="39750.001" end="110" id="135994_9" citation_local_level_id="1" >April 26, 2004</DATE>
+
+<NAME start="132" local_name_id="3" end="134" id="135994_13" all_names="CT" >Ct</NAME>
+
+<RELATION theme="135994_2" party1="135994_3" party1_string="HAWKINS" theme_string="HAWKINS v. OKLAHOMA" gram_type="infix" relation_type="asymmetric" id="135994_5" ></RELATION>
+
+<RELATION party2="135994_4" theme="135994_2" theme_string="HAWKINS v. OKLAHOMA" party2_string="OKLAHOMA" gram_type="infix" relation_type="asymmetric" id="135994_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 1014" X_vs_Y_string="HAWKINS v. OKLAHOMA" standard_case="135994_1" X_vs_Y="135994_2" gram_type="multi_line" relation_type="equivalence" id="135994_10" ></RELATION>
+
+<RELATION at_date_string="April 26, 2004" theme="135994_2" at_date="135994_9" theme_string="HAWKINS v. OKLAHOMA" gram_type="multi_line" relation_type="asymmetric" id="135994_12" ></RELATION>
+
+<RELATION theme="135994_2" includes_docket_string="03-9121" includes_docket="135994_7" theme_string="HAWKINS v. OKLAHOMA" gram_type="multi_line" relation_type="asymmetric" id="135994_11" ></RELATION>
+

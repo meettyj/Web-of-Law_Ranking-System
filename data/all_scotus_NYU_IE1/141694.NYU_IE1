@@ -1,0 +1,36 @@
+<CITATION alternative_keys="['leewrightstates#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1104" id1="141690" volume="543" start="0" page_number="1104" standard_reporter="U.S." citation_global_level_id="7337.002" line="1" id="141694_1" citation_local_level_id="0" >543 U.S. 1104</CITATION>
+
+<CITATION party2="UNITED STATES" party1="LEEWRIGHT" citation_global_level_id="49520.001" party2_short="STATES" line="2" id="141694_2" alternative_keys="['u.s._543_1104']" end="44" entry_type="party_key" lookup_key="leewrightstates#1" id1="141694" start="18" party1_short="LEEWRIGHT" citation_local_level_id="1" >LEEWRIGHT v. UNITED STATES</CITATION>
+
+<NAME end="27" start="18" party1_of="141694_2" all_names="LEEWRIGHT" local_name_id="1" id="141694_3" >LEEWRIGHT</NAME>
+
+<NAME end="44" start="31" all_names="UNITED STATES" party2_of="141694_2" local_name_id="2" id="141694_4" >UNITED STATES</NAME>
+
+<DOCKET end="61" entry_type="docket" lookup_key="leewrightstates#1" id1="141694" start="54" citation_global_level_id="49520.001" line="3" id="141694_7" citation_local_level_id="1" >04-5634</DOCKET>
+
+<ORGANIZATION start="67" end="97" id="141694_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="103" citation_global_level_id="49520.001" end="119" id="141694_9" citation_local_level_id="1" >January 24, 2005</DATE>
+
+<NAME start="151" local_name_id="3" end="154" id="141694_16" all_names="CIR" >Cir</NAME>
+
+<CITATION party2="Booker" party1="United States" citation_global_level_id="57130.001" party2_short="Booker" line="8" id="141694_13" end="381" entry_type="party_key" lookup_key="statesbooker#4" id1="137703" start="358" party1_short="States" citation_local_level_id="2" >United States v. Booker</CITATION>
+
+<NAME end="371" start="358" party1_of="141694_13" all_names="UNITED STATES" local_name_id="2" id="141694_14" >United States</NAME>
+
+<NAME end="381" start="375" all_names="BOOKER" party2_of="141694_13" local_name_id="4" id="141694_15" >Booker</NAME>
+
+<RELATION theme="141694_2" party1="141694_3" party1_string="LEEWRIGHT" theme_string="LEEWRIGHT v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="141694_5" ></RELATION>
+
+<RELATION party2="141694_4" theme="141694_2" theme_string="LEEWRIGHT v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="141694_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1104" X_vs_Y_string="LEEWRIGHT v. UNITED STATES" standard_case="141694_1" X_vs_Y="141694_2" gram_type="multi_line" relation_type="equivalence" id="141694_10" ></RELATION>
+
+<RELATION at_date_string="January 24, 2005" theme="141694_2" at_date="141694_9" theme_string="LEEWRIGHT v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="141694_12" ></RELATION>
+
+<RELATION theme="141694_2" includes_docket_string="04-5634" includes_docket="141694_7" theme_string="LEEWRIGHT v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="141694_11" ></RELATION>
+
+<RELATION theme="141694_13" party1="141694_14" party1_string="United States" theme_string="United States v. Booker" gram_type="infix" relation_type="asymmetric" id="141694_17" ></RELATION>
+
+<RELATION party2="141694_15" theme="141694_13" theme_string="United States v. Booker" party2_string="Booker" gram_type="infix" relation_type="asymmetric" id="141694_18" ></RELATION>
+

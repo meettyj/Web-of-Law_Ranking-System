@@ -1,0 +1,36 @@
+<CITATION alternative_keys="['diahmanagement#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_951" id1="114810" volume="510" start="0" page_number="951" standard_reporter="U.S." citation_global_level_id="2376.002" line="1" id="114808_1" citation_local_level_id="0" >510 U.S. 951</CITATION>
+
+<CITATION party2="Applied Risk Management et al" party1="O'Diah" citation_global_level_id="2376.006" party2_short="Management" line="1" id="114808_3" alternative_keys="['u.s._510_951']" end="56" entry_type="party_key" lookup_key="diahmanagement#1" id1="114810" start="17" party1_short="Diah" citation_local_level_id="1" >O'Diah v. Applied Risk Management et al</CITATION>
+
+<NAME end="23" start="17" party1_of="114808_3" all_names="O'DIAH" local_name_id="1" id="114808_5" >O'Diah</NAME>
+
+<NAME end="56" start="27" all_names="APPLIED RISK MANAGEMENT" party2_of="114808_3" local_name_id="2" id="114808_6" >Applied Risk Management et al</NAME>
+
+<CITATION party2="California Workers' Compensation Appeals Board et al" party1="O'Diah" citation_global_level_id="299250.001" party2_short="Board" line="1" id="114808_4" end="120" no_current_file="True" entry_type="party_key" lookup_key="diahboard#1" id1="Dummy_File_235400" start="58" party1_short="Diah" citation_local_level_id="2" >O'Diah v. California Workers' Compensation Appeals Board et al</CITATION>
+
+<NAME end="64" start="58" party1_of="114808_4" all_names="O'DIAH" local_name_id="1" id="114808_7" >O'Diah</NAME>
+
+<NAME end="120" start="68" all_names="CALIFORNIA WORKERS' COMPENSATION APPEALS BOARD" party2_of="114808_4" local_name_id="3" id="114808_8" >California Workers' Compensation Appeals Board et al</NAME>
+
+<DOCKET alternative_keys="['u.s._510_951']" end="137" entry_type="docket" lookup_key="diahmanagement#1" id1="114810" start="130" citation_global_level_id="2376.006" line="1" id="114808_2" citation_local_level_id="1" >93-5866</DOCKET>
+
+<DATE start="179" end="195" id="114808_9" >November 1, 1993</DATE>
+
+<NAME start="273" local_name_id="4" end="283" id="114808_18" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="321" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_995_232" id1="Dummy_File_11318" volume="995" start="308" page_number="232" standard_reporter="F.2D" citation_global_level_id="75168.001" line="3" id="114808_17" citation_local_level_id="3" >995 F. 2d 232</CITATION>
+
+<RELATION standard_case_string="510 U.S. 951" X_vs_Y_string="O'Diah v. Applied Risk Management et al" standard_case="114808_1" X_vs_Y="114808_3" gram_type="pre_nom" relation_type="equivalence" id="114808_10" ></RELATION>
+
+<RELATION theme="114808_3" includes_docket_string="93-5866" includes_docket="114808_2" theme_string="O'Diah v. Applied Risk Management et al" gram_type="apposition" relation_type="asymmetric" id="114808_16" ></RELATION>
+
+<RELATION theme="114808_3" party1="114808_5" party1_string="O'Diah" theme_string="O'Diah v. Applied Risk Management et al" gram_type="infix" relation_type="asymmetric" id="114808_11" ></RELATION>
+
+<RELATION party2="114808_6" theme="114808_3" theme_string="O'Diah v. Applied Risk Management et al" party2_string="Applied Risk Management et al" gram_type="infix" relation_type="asymmetric" id="114808_12" ></RELATION>
+
+<RELATION theme="114808_4" includes_docket_string="93-5866" includes_docket="114808_2" theme_string="O'Diah v. California Workers' Compensation Appeals Board et al" gram_type="apposition" relation_type="asymmetric" id="114808_15" ></RELATION>
+
+<RELATION theme="114808_4" party1="114808_7" party1_string="O'Diah" theme_string="O'Diah v. California Workers' Compensation Appeals Board et al" gram_type="infix" relation_type="asymmetric" id="114808_13" ></RELATION>
+
+<RELATION party2="114808_8" theme="114808_4" theme_string="O'Diah v. California Workers' Compensation Appeals Board et al" party2_string="California Workers' Compensation Appeals Board et al" gram_type="infix" relation_type="asymmetric" id="114808_14" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['leekscunningham#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1014" id1="115650" volume="510" start="0" page_number="1014" standard_reporter="U.S." citation_global_level_id="1433.002" line="1" id="115644_1" citation_local_level_id="0" >510 U.S. 1014</CITATION>
+
+<CITATION party2="Cunningham et al" party1="Leeks" citation_global_level_id="3284.001" party2_short="Cunningham" line="1" id="115644_3" alternative_keys="['u.s._510_1014']" end="43" entry_type="party_key" lookup_key="leekscunningham#1" id1="115644" start="18" party1_short="Leeks" citation_local_level_id="1" >Leeks v. Cunningham et al</CITATION>
+
+<NAME end="23" start="18" party1_of="115644_3" all_names="LEEKS" local_name_id="1" id="115644_4" >Leeks</NAME>
+
+<NAME end="43" start="27" all_names="CUNNINGHAM" party2_of="115644_3" local_name_id="2" id="115644_5" >Cunningham et al</NAME>
+
+<DOCKET end="60" entry_type="docket" lookup_key="u.s._510_1014" id1="115650" start="53" citation_global_level_id="1433.002" line="1" id="115644_2" citation_local_level_id="0" >93-6281</DOCKET>
+
+<DATE start="102" end="118" id="115644_6" >December 6, 1993</DATE>
+
+<NAME start="197" local_name_id="3" end="207" id="115644_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="246" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_997_1330" id1="Dummy_File_152242" volume="997" start="232" page_number="1330" standard_reporter="F.2D" citation_global_level_id="216092.001" line="3" id="115644_12" citation_local_level_id="2" >997 F. 2d 1330</CITATION>
+
+<RELATION theme="115644_1" includes_docket_string="93-6281" includes_docket="115644_2" theme_string="510 U.S. 1014" gram_type="apposition" relation_type="asymmetric" id="115644_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1014" X_vs_Y_string="Leeks v. Cunningham et al" standard_case="115644_1" X_vs_Y="115644_3" gram_type="pre_nom" relation_type="equivalence" id="115644_7" ></RELATION>
+
+<RELATION theme="115644_3" includes_docket_string="93-6281" includes_docket="115644_2" theme_string="Leeks v. Cunningham et al" gram_type="apposition" relation_type="asymmetric" id="115644_10" ></RELATION>
+
+<RELATION theme="115644_3" party1="115644_4" party1_string="Leeks" theme_string="Leeks v. Cunningham et al" gram_type="infix" relation_type="asymmetric" id="115644_8" ></RELATION>
+
+<RELATION party2="115644_5" theme="115644_3" theme_string="Leeks v. Cunningham et al" party2_string="Cunningham et al" gram_type="infix" relation_type="asymmetric" id="115644_9" ></RELATION>
+

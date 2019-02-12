@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['hernandezswope#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._536_969" id1="121992" volume="536" start="0" page_number="969" standard_reporter="U.S." citation_global_level_id="2417.002" line="1" id="121997_1" citation_local_level_id="0" >536 U.S. 969</CITATION>
+
+<CITATION party2="SWOPE, WARDEN" party1="HERNANDEZ" citation_global_level_id="2417.005" party2_short="SWOPE" line="2" id="121997_2" alternative_keys="['u.s._536_969']" end="43" entry_type="party_key" lookup_key="hernandezswope#1" id1="121992" start="17" party1_short="HERNANDEZ" citation_local_level_id="1" >HERNANDEZ v. SWOPE, WARDEN</CITATION>
+
+<NAME end="26" start="17" party1_of="121997_2" all_names="HERNANDEZ" local_name_id="1" id="121997_3" >HERNANDEZ</NAME>
+
+<NAME end="43" start="30" all_names="SWOPE WARDEN" party2_of="121997_2" local_name_id="2" id="121997_4" >SWOPE, WARDEN</NAME>
+
+<DOCKET alternative_keys="['u.s._536_969']" end="61" entry_type="docket" lookup_key="hernandezswope#1" id1="121992" start="53" citation_global_level_id="2417.005" line="3" id="121997_7" citation_local_level_id="1" >01-10438</DOCKET>
+
+<DATE start="107" citation_global_level_id="2417.005" end="120" id="121997_8" citation_local_level_id="1" >June 28, 2002</DATE>
+
+<NAME start="153" local_name_id="3" end="156" id="121997_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="207" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_281_1286" id1="Dummy_File_106481" volume="281" start="193" page_number="1286" standard_reporter="F.3D" citation_global_level_id="170331.001" line="8" id="121997_12" citation_local_level_id="2" >281 F. 3d 1286</CITATION>
+
+<RELATION theme="121997_2" party1="121997_3" party1_string="HERNANDEZ" theme_string="HERNANDEZ v. SWOPE, WARDEN" gram_type="infix" relation_type="asymmetric" id="121997_5" ></RELATION>
+
+<RELATION party2="121997_4" theme="121997_2" theme_string="HERNANDEZ v. SWOPE, WARDEN" party2_string="SWOPE, WARDEN" gram_type="infix" relation_type="asymmetric" id="121997_6" ></RELATION>
+
+<RELATION standard_case_string="536 U.S. 969" X_vs_Y_string="HERNANDEZ v. SWOPE, WARDEN" standard_case="121997_1" X_vs_Y="121997_2" gram_type="multi_line" relation_type="equivalence" id="121997_9" ></RELATION>
+
+<RELATION at_date_string="June 28, 2002" theme="121997_2" at_date="121997_8" theme_string="HERNANDEZ v. SWOPE, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="121997_11" ></RELATION>
+
+<RELATION theme="121997_2" includes_docket_string="01-10438" includes_docket="121997_7" theme_string="HERNANDEZ v. SWOPE, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="121997_10" ></RELATION>
+

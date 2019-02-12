@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['talonsecretary#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1082" id1="116499" volume="510" start="0" page_number="1082" standard_reporter="U.S." citation_global_level_id="1329.002" line="1" id="116501_1" citation_local_level_id="0" >510 U.S. 1082</CITATION>
+
+<CITATION party2="Brown, Secretary of Veterans Affairs" party1="Talon" citation_global_level_id="4617.001" party2_short="Secretary" line="2" id="116501_2" alternative_keys="['u.s._510_1082']" end="63" entry_type="party_key" lookup_key="talonsecretary#1" id1="115828" start="18" party1_short="Talon" citation_local_level_id="1" >Talon v. Brown, Secretary of Veterans Affairs</CITATION>
+
+<NAME end="23" start="18" party1_of="116501_2" all_names="TALON" local_name_id="1" id="116501_3" >Talon</NAME>
+
+<NAME end="63" start="27" all_names="BROWN SECRETARY OF VETERANS AFFAIRS" party2_of="116501_2" local_name_id="2" id="116501_4" >Brown, Secretary of Veterans Affairs</NAME>
+
+<DOCKET end="95" entry_type="docket" lookup_key="talonsecretary#1" id1="115828" start="88" citation_global_level_id="4617.001" line="3" id="116501_7" citation_local_level_id="1" >93-6480</DOCKET>
+
+<ORGANIZATION start="101" end="131" id="116501_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="137" citation_global_level_id="4617.001" end="153" id="116501_9" citation_local_level_id="1" >January 18, 1994</DATE>
+
+<NAME start="175" local_name_id="3" end="183" id="116501_13" all_names="PETITION" >Petition</NAME>
+
+<RELATION theme="116501_2" party1="116501_3" party1_string="Talon" theme_string="Talon v. Brown, Secretary of Veterans Affairs" gram_type="infix" relation_type="asymmetric" id="116501_5" ></RELATION>
+
+<RELATION party2="116501_4" theme="116501_2" theme_string="Talon v. Brown, Secretary of Veterans Affairs" party2_string="Brown, Secretary of Veterans Affairs" gram_type="infix" relation_type="asymmetric" id="116501_6" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1082" X_vs_Y_string="Talon v. Brown, Secretary of Veterans Affairs" standard_case="116501_1" X_vs_Y="116501_2" gram_type="multi_line" relation_type="equivalence" id="116501_10" ></RELATION>
+
+<RELATION at_date_string="January 18, 1994" theme="116501_2" at_date="116501_9" theme_string="Talon v. Brown, Secretary of Veterans Affairs" gram_type="multi_line" relation_type="asymmetric" id="116501_12" ></RELATION>
+
+<RELATION theme="116501_2" includes_docket_string="93-6480" includes_docket="116501_7" theme_string="Talon v. Brown, Secretary of Veterans Affairs" gram_type="multi_line" relation_type="asymmetric" id="116501_11" ></RELATION>
+

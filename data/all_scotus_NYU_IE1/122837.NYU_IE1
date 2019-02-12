@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['stiggersmortgage#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_847" id1="122835" volume="537" start="0" page_number="847" standard_reporter="U.S." citation_global_level_id="4487.002" line="1" id="122837_1" citation_local_level_id="0" >537 U.S. 847</CITATION>
+
+<CITATION party2="FLEET MORTGAGE CORP" party1="STIGGERS" citation_global_level_id="26973.001" party2_short="MORTGAGE" line="1" id="122837_3" alternative_keys="['u.s._537_847']" end="48" entry_type="party_key" lookup_key="stiggersmortgage#2" id1="125843" start="17" party1_short="STIGGERS" citation_local_level_id="1" >STIGGERS v. FLEET MORTGAGE CORP</CITATION>
+
+<NAME end="25" start="17" party1_of="122837_3" all_names="STIGGERS" local_name_id="1" id="122837_4" >STIGGERS</NAME>
+
+<NAME end="48" start="29" all_names="FLEET MORTGAGE CORP" party2_of="122837_3" local_name_id="2" id="122837_5" >FLEET MORTGAGE CORP</NAME>
+
+<DOCKET end="66" entry_type="docket" lookup_key="u.s._537_847" id1="122835" start="58" citation_global_level_id="4487.002" line="1" id="122837_2" citation_local_level_id="0" >01-10527</DOCKET>
+
+<DATE start="108" end="123" id="122837_6" >October 7, 2002</DATE>
+
+<NAME start="239" local_name_id="3" end="241" id="122837_12" all_names="CT" >Ct</NAME>
+
+<RELATION theme="122837_1" includes_docket_string="01-10527" includes_docket="122837_2" theme_string="537 U.S. 847" gram_type="apposition" relation_type="asymmetric" id="122837_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 847" X_vs_Y_string="STIGGERS v. FLEET MORTGAGE CORP" standard_case="122837_1" X_vs_Y="122837_3" gram_type="pre_nom" relation_type="equivalence" id="122837_7" ></RELATION>
+
+<RELATION theme="122837_3" includes_docket_string="01-10527" includes_docket="122837_2" theme_string="STIGGERS v. FLEET MORTGAGE CORP" gram_type="apposition" relation_type="asymmetric" id="122837_10" ></RELATION>
+
+<RELATION theme="122837_3" party1="122837_4" party1_string="STIGGERS" theme_string="STIGGERS v. FLEET MORTGAGE CORP" gram_type="infix" relation_type="asymmetric" id="122837_8" ></RELATION>
+
+<RELATION party2="122837_5" theme="122837_3" theme_string="STIGGERS v. FLEET MORTGAGE CORP" party2_string="FLEET MORTGAGE CORP" gram_type="infix" relation_type="asymmetric" id="122837_9" ></RELATION>
+

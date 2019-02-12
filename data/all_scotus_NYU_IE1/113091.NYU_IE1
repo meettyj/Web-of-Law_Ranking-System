@@ -1,0 +1,38 @@
+<CITATION alternative_keys="['centersurety#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_818" id1="113092" volume="510" start="0" page_number="818" standard_reporter="U.S." citation_global_level_id="9697.002" line="1" id="113091_1" citation_local_level_id="0" >510 U.S. 818</CITATION>
+
+<CITATION party2="Aetna Casualty &amp; Surety Co. et al" party1="Sandy River Nursing Care Center et al." citation_global_level_id="9697.006" party2_short="Surety" line="1" id="113091_3" alternative_keys="['u.s._510_818']" end="92" entry_type="party_key" lookup_key="centersurety#1" id1="113092" start="17" party1_short="Center" citation_local_level_id="1" >Sandy River Nursing Care Center et al. v. Aetna Casualty &amp; Surety Co. et al</CITATION>
+
+<NAME end="55" start="17" party1_of="113091_3" all_names="SANDY RIVER NURSING CARE CENTER" local_name_id="1" id="113091_4" >Sandy River Nursing Care Center et al.</NAME>
+
+<ORGANIZATION start="17" end="48" id="113091_8" >Sandy River Nursing Care Center</ORGANIZATION>
+
+<NAME end="92" start="59" all_names="AETNA CASUALTY &amp; SURETY CO" party2_of="113091_3" local_name_id="2" id="113091_5" >Aetna Casualty &amp; Surety Co. et al</NAME>
+
+<ORGANIZATION start="59" end="85" id="113091_9" >Aetna Casualty &amp; Surety Co</ORGANIZATION>
+
+<DOCKET end="109" entry_type="docket" lookup_key="u.s._510_818" id1="113092" start="102" citation_global_level_id="9697.002" line="1" id="113091_2" citation_local_level_id="0" >92-1874</DOCKET>
+
+<DATE start="105" end="109" id="113091_6" >1874</DATE>
+
+<ORGANIZATION start="115" end="145" id="113091_10" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="151" end="166" id="113091_7" >October 4, 1993</DATE>
+
+<NAME start="188" local_name_id="3" end="217" id="113091_11" all_names="APPEAL FROM THE C A 1ST CIR" >Appeal from the C. A. 1st Cir</NAME>
+
+<NAME start="244" local_name_id="4" end="254" id="113091_19" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="293" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_985_1138" id1="Dummy_File_84523" volume="985" start="279" page_number="1138" standard_reporter="F.2D" citation_global_level_id="148373.001" line="3" id="113091_18" citation_local_level_id="2" >985 F. 2d 1138</CITATION>
+
+<RELATION theme="113091_1" includes_docket_string="92-1874" includes_docket="113091_2" theme_string="510 U.S. 818" gram_type="apposition" relation_type="asymmetric" id="113091_16" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 818" X_vs_Y_string="Sandy River Nursing Care Center et al. v. Aetna Casualty &amp; Surety Co. et al" standard_case="113091_1" X_vs_Y="113091_3" gram_type="pre_nom" relation_type="equivalence" id="113091_12" ></RELATION>
+
+<RELATION theme="113091_3" includes_docket_string="92-1874" includes_docket="113091_2" theme_string="Sandy River Nursing Care Center et al. v. Aetna Casualty &amp; Surety Co. et al" gram_type="apposition" relation_type="asymmetric" id="113091_15" ></RELATION>
+
+<RELATION theme="113091_3" party1="113091_4" party1_string="Sandy River Nursing Care Center et al." theme_string="Sandy River Nursing Care Center et al. v. Aetna Casualty &amp; Surety Co. et al" gram_type="infix" relation_type="asymmetric" id="113091_13" ></RELATION>
+
+<RELATION party2="113091_5" theme="113091_3" theme_string="Sandy River Nursing Care Center et al. v. Aetna Casualty &amp; Surety Co. et al" party2_string="Aetna Casualty &amp; Surety Co. et al" gram_type="infix" relation_type="asymmetric" id="113091_14" ></RELATION>
+
+<RELATION at_date_string="1874" theme="113091_2" at_date="113091_6" theme_string="92-1874" gram_type="infix" relation_type="asymmetric" id="113091_17" ></RELATION>
+

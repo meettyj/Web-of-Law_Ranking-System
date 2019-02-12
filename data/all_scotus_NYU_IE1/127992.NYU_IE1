@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['millertelephone#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_908" id1="127999" volume="538" start="0" page_number="908" standard_reporter="U.S." citation_global_level_id="6196.002" line="1" id="127992_1" citation_local_level_id="0" >538 U.S. 908</CITATION>
+
+<CITATION party2="SOUTHWESTERN BELL TELEPHONE CO" party1="MILLER" citation_global_level_id="43216.001" party2_short="TELEPHONE" line="1" id="127992_3" alternative_keys="['u.s._538_908']" end="57" entry_type="party_key" lookup_key="millertelephone#1" id1="127992" start="17" party1_short="MILLER" citation_local_level_id="1" >MILLER v. SOUTHWESTERN BELL TELEPHONE CO</CITATION>
+
+<NAME end="23" start="17" party1_of="127992_3" all_names="MILLER" local_name_id="1" id="127992_4" >MILLER</NAME>
+
+<NAME end="57" start="27" all_names="SOUTHWESTERN BELL TELEPHONE CO" party2_of="127992_3" local_name_id="2" id="127992_5" >SOUTHWESTERN BELL TELEPHONE CO</NAME>
+
+<DOCKET end="74" entry_type="docket" lookup_key="u.s._538_908" id1="127999" start="67" citation_global_level_id="6196.002" line="1" id="127992_2" citation_local_level_id="0" >02-1026</DOCKET>
+
+<DATE start="116" end="130" id="127992_6" >March 10, 2003</DATE>
+
+<NAME start="259" local_name_id="3" end="262" id="127992_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="127992_1" includes_docket_string="02-1026" includes_docket="127992_2" theme_string="538 U.S. 908" gram_type="apposition" relation_type="asymmetric" id="127992_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 908" X_vs_Y_string="MILLER v. SOUTHWESTERN BELL TELEPHONE CO" standard_case="127992_1" X_vs_Y="127992_3" gram_type="pre_nom" relation_type="equivalence" id="127992_7" ></RELATION>
+
+<RELATION theme="127992_3" includes_docket_string="02-1026" includes_docket="127992_2" theme_string="MILLER v. SOUTHWESTERN BELL TELEPHONE CO" gram_type="apposition" relation_type="asymmetric" id="127992_10" ></RELATION>
+
+<RELATION theme="127992_3" party1="127992_4" party1_string="MILLER" theme_string="MILLER v. SOUTHWESTERN BELL TELEPHONE CO" gram_type="infix" relation_type="asymmetric" id="127992_8" ></RELATION>
+
+<RELATION party2="127992_5" theme="127992_3" theme_string="MILLER v. SOUTHWESTERN BELL TELEPHONE CO" party2_string="SOUTHWESTERN BELL TELEPHONE CO" gram_type="infix" relation_type="asymmetric" id="127992_9" ></RELATION>
+

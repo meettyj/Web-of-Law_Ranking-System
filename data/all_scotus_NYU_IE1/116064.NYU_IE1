@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['frenchbeard#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1051" id1="116074" volume="510" start="0" page_number="1051" standard_reporter="U.S." citation_global_level_id="2933.002" line="1" id="116064_1" citation_local_level_id="0" >510 U.S. 1051</CITATION>
+
+<CITATION party2="Beard et al" party1="French" citation_global_level_id="9091.001" party2_short="Beard" line="1" id="116064_3" alternative_keys="['u.s._510_1051']" end="39" entry_type="party_key" lookup_key="frenchbeard#1" id1="116064" start="18" party1_short="French" citation_local_level_id="1" >French v. Beard et al</CITATION>
+
+<NAME end="24" start="18" party1_of="116064_3" all_names="FRENCH" local_name_id="1" id="116064_4" >French</NAME>
+
+<NAME end="39" start="28" all_names="BEARD" party2_of="116064_3" local_name_id="2" id="116064_5" >Beard et al</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._510_1051" id1="116074" start="49" citation_global_level_id="2933.002" line="1" id="116064_2" citation_local_level_id="0" >93-6501</DOCKET>
+
+<DATE start="98" end="114" id="116064_6" >January 10, 1994</DATE>
+
+<NAME start="192" local_name_id="3" end="202" id="116064_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="240" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_993_160" id1="Dummy_File_229978" volume="993" start="227" page_number="160" standard_reporter="F.2D" citation_global_level_id="293828.001" line="3" id="116064_12" citation_local_level_id="2" >993 F. 2d 160</CITATION>
+
+<RELATION theme="116064_1" includes_docket_string="93-6501" includes_docket="116064_2" theme_string="510 U.S. 1051" gram_type="apposition" relation_type="asymmetric" id="116064_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1051" X_vs_Y_string="French v. Beard et al" standard_case="116064_1" X_vs_Y="116064_3" gram_type="pre_nom" relation_type="equivalence" id="116064_7" ></RELATION>
+
+<RELATION theme="116064_3" includes_docket_string="93-6501" includes_docket="116064_2" theme_string="French v. Beard et al" gram_type="apposition" relation_type="asymmetric" id="116064_10" ></RELATION>
+
+<RELATION theme="116064_3" party1="116064_4" party1_string="French" theme_string="French v. Beard et al" gram_type="infix" relation_type="asymmetric" id="116064_8" ></RELATION>
+
+<RELATION party2="116064_5" theme="116064_3" theme_string="French v. Beard et al" party2_string="Beard et al" gram_type="infix" relation_type="asymmetric" id="116064_9" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['brownli#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_908" id1="127999" volume="538" start="0" page_number="908" standard_reporter="U.S." citation_global_level_id="6196.002" line="1" id="127991_1" citation_local_level_id="0" >538 U.S. 908</CITATION>
+
+<CITATION party2="LI ET AL" party1="BROWN" citation_global_level_id="28260.001" party2_short="LI" line="1" id="127991_3" alternative_keys="['u.s._538_908']" end="34" entry_type="party_key" lookup_key="brownli#1" id1="127991" start="17" party1_short="BROWN" citation_local_level_id="1" >BROWN v. LI ET AL</CITATION>
+
+<NAME end="22" start="17" party1_of="127991_3" all_names="BROWN" local_name_id="1" id="127991_4" >BROWN</NAME>
+
+<NAME end="34" start="26" all_names="LI" party2_of="127991_3" local_name_id="2" id="127991_5" >LI ET AL</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="u.s._538_908" id1="127999" start="44" citation_global_level_id="6196.002" line="1" id="127991_2" citation_local_level_id="0" >02-1039</DOCKET>
+
+<DATE start="93" end="107" id="127991_6" >March 10, 2003</DATE>
+
+<NAME start="236" local_name_id="3" end="239" id="127991_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="289" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_308_939" id1="Dummy_File_158293" volume="308" start="276" page_number="939" standard_reporter="F.3D" citation_global_level_id="222143.001" line="3" id="127991_12" citation_local_level_id="2" >308 F. 3d 939</CITATION>
+
+<RELATION theme="127991_1" includes_docket_string="02-1039" includes_docket="127991_2" theme_string="538 U.S. 908" gram_type="apposition" relation_type="asymmetric" id="127991_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 908" X_vs_Y_string="BROWN v. LI ET AL" standard_case="127991_1" X_vs_Y="127991_3" gram_type="pre_nom" relation_type="equivalence" id="127991_7" ></RELATION>
+
+<RELATION theme="127991_3" includes_docket_string="02-1039" includes_docket="127991_2" theme_string="BROWN v. LI ET AL" gram_type="apposition" relation_type="asymmetric" id="127991_10" ></RELATION>
+
+<RELATION theme="127991_3" party1="127991_4" party1_string="BROWN" theme_string="BROWN v. LI ET AL" gram_type="infix" relation_type="asymmetric" id="127991_8" ></RELATION>
+
+<RELATION party2="127991_5" theme="127991_3" theme_string="BROWN v. LI ET AL" party2_string="LI ET AL" gram_type="infix" relation_type="asymmetric" id="127991_9" ></RELATION>
+

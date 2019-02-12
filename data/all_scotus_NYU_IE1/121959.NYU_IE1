@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['lermaarizona#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._536_966" id1="121949" volume="536" start="0" page_number="966" standard_reporter="U.S." citation_global_level_id="405.002" line="1" id="121959_1" citation_local_level_id="0" >536 U.S. 966</CITATION>
+
+<CITATION party2="ARIZONA" party1="BLANCO LERMA" citation_global_level_id="17984.001" party2_short="ARIZONA" line="2" id="121959_2" alternative_keys="['u.s._536_966']" end="40" entry_type="party_key" lookup_key="lermaarizona#1" id1="121959" start="17" party1_short="LERMA" citation_local_level_id="1" >BLANCO LERMA v. ARIZONA</CITATION>
+
+<NAME end="29" start="17" party1_of="121959_2" all_names="BLANCO LERMA" local_name_id="1" id="121959_3" >BLANCO LERMA</NAME>
+
+<NAME end="40" start="33" all_names="ARIZONA" party2_of="121959_2" local_name_id="2" id="121959_4" >ARIZONA</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="lermaarizona#1" id1="121959" start="50" citation_global_level_id="17984.001" line="3" id="121959_7" citation_local_level_id="1" >01-9933</DOCKET>
+
+<DATE start="103" citation_global_level_id="17984.001" end="116" id="121959_8" citation_local_level_id="1" >June 28, 2002</DATE>
+
+<NAME start="138" local_name_id="3" end="140" id="121959_12" all_names="CT" >Ct</NAME>
+
+<RELATION theme="121959_2" party1="121959_3" party1_string="BLANCO LERMA" theme_string="BLANCO LERMA v. ARIZONA" gram_type="infix" relation_type="asymmetric" id="121959_5" ></RELATION>
+
+<RELATION party2="121959_4" theme="121959_2" theme_string="BLANCO LERMA v. ARIZONA" party2_string="ARIZONA" gram_type="infix" relation_type="asymmetric" id="121959_6" ></RELATION>
+
+<RELATION standard_case_string="536 U.S. 966" X_vs_Y_string="BLANCO LERMA v. ARIZONA" standard_case="121959_1" X_vs_Y="121959_2" gram_type="multi_line" relation_type="equivalence" id="121959_9" ></RELATION>
+
+<RELATION at_date_string="June 28, 2002" theme="121959_2" at_date="121959_8" theme_string="BLANCO LERMA v. ARIZONA" gram_type="multi_line" relation_type="asymmetric" id="121959_11" ></RELATION>
+
+<RELATION theme="121959_2" includes_docket_string="01-9933" includes_docket="121959_7" theme_string="BLANCO LERMA v. ARIZONA" gram_type="multi_line" relation_type="asymmetric" id="121959_10" ></RELATION>
+

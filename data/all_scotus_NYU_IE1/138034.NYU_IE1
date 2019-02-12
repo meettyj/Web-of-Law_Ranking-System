@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['colonnastates#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_823" id1="138026" volume="543" start="0" page_number="823" standard_reporter="U.S." citation_global_level_id="7107.002" line="1" id="138034_1" citation_local_level_id="0" >543 U.S. 823</CITATION>
+
+<CITATION party2="UNITED STATES" party1="COLONNA" citation_global_level_id="23152.001" party2_short="STATES" line="2" id="138034_2" alternative_keys="['u.s._543_823']" end="41" entry_type="party_key" lookup_key="colonnastates#1" id1="138034" start="17" party1_short="COLONNA" citation_local_level_id="1" >COLONNA v. UNITED STATES</CITATION>
+
+<NAME end="24" start="17" party1_of="138034_2" all_names="COLONNA" local_name_id="1" id="138034_3" >COLONNA</NAME>
+
+<NAME end="41" start="28" all_names="UNITED STATES" party2_of="138034_2" local_name_id="2" id="138034_4" >UNITED STATES</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="colonnastates#1" id1="138034" start="51" citation_global_level_id="23152.001" line="3" id="138034_7" citation_local_level_id="1" >03-9876</DOCKET>
+
+<ORGANIZATION start="64" end="94" id="138034_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="100" citation_global_level_id="23152.001" end="115" id="138034_9" citation_local_level_id="1" >October 4, 2004</DATE>
+
+<NAME start="148" local_name_id="3" end="151" id="138034_14" all_names="CIR" >Cir</NAME>
+
+<CITATION end="202" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_360_1169" id1="Dummy_File_42722" volume="360" start="188" page_number="1169" standard_reporter="F.3D" citation_global_level_id="106572.001" line="8" id="138034_13" citation_local_level_id="2" >360 F. 3d 1169</CITATION>
+
+<RELATION theme="138034_2" party1="138034_3" party1_string="COLONNA" theme_string="COLONNA v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="138034_5" ></RELATION>
+
+<RELATION party2="138034_4" theme="138034_2" theme_string="COLONNA v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="138034_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 823" X_vs_Y_string="COLONNA v. UNITED STATES" standard_case="138034_1" X_vs_Y="138034_2" gram_type="multi_line" relation_type="equivalence" id="138034_10" ></RELATION>
+
+<RELATION at_date_string="October 4, 2004" theme="138034_2" at_date="138034_9" theme_string="COLONNA v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="138034_12" ></RELATION>
+
+<RELATION theme="138034_2" includes_docket_string="03-9876" includes_docket="138034_7" theme_string="COLONNA v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="138034_11" ></RELATION>
+

@@ -1,0 +1,36 @@
+<CITATION alternative_keys="['cellularcommission#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_1096" id1="136972" volume="541" start="0" page_number="1096" standard_reporter="U.S." citation_global_level_id="226.002" line="1" id="136977_1" citation_local_level_id="0" >541 U.S. 1096</CITATION>
+
+<CITATION party2="FEDERAL COMMUNICATIONS COMMISSION" party1="RANGER CELLULAR ET AL." citation_global_level_id="9231.003" party2_short="COMMISSION" line="2" id="136977_2" alternative_keys="['u.s._541_987']" end="77" entry_type="party_key" lookup_key="cellularcommission#1" id1="135641" start="18" party1_short="CELLULAR" citation_local_level_id="1" >RANGER CELLULAR ET AL. v. FEDERAL COMMUNICATIONS COMMISSION</CITATION>
+
+<NAME end="40" start="18" party1_of="136977_2" all_names="RANGER CELLULAR" local_name_id="1" id="136977_3" >RANGER CELLULAR ET AL.</NAME>
+
+<NAME end="77" start="44" all_names="FEDERAL COMMUNICATIONS COMMISSION" party2_of="136977_2" local_name_id="2" id="136977_4" >FEDERAL COMMUNICATIONS COMMISSION</NAME>
+
+<DOCKET alternative_keys="['u.s._541_987']" end="94" entry_type="docket" lookup_key="cellularcommission#1" id1="135641" start="87" citation_global_level_id="9231.003" line="3" id="136977_7" citation_local_level_id="1" >03-1502</DOCKET>
+
+<ORGANIZATION start="100" end="130" id="136977_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="136" citation_global_level_id="9231.003" end="148" id="136977_9" citation_local_level_id="1" >June 7, 2004</DATE>
+
+<NAME start="170" local_name_id="3" end="185" id="136977_14" all_names="C A D C CIR" >C. A. D. C. Cir</NAME>
+
+<LEGAL_ROLE end="212" name="C. A. D. C. Cir" start="187" local_name_id="4" plural="True" id="136977_15" >Motion of petitioners for</LEGAL_ROLE>
+
+<NAME start="278" local_name_id="5" end="288" id="136977_16" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="327" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_348_1044" id1="Dummy_File_162011" volume="348" start="313" page_number="1044" standard_reporter="F.3D" citation_global_level_id="225861.001" line="8" id="136977_13" citation_local_level_id="2" >348 F. 3d 1044</CITATION>
+
+<RELATION theme="136977_2" party1="136977_3" party1_string="RANGER CELLULAR ET AL." theme_string="RANGER CELLULAR ET AL. v. FEDERAL COMMUNICATIONS COMMISSION" gram_type="infix" relation_type="asymmetric" id="136977_5" ></RELATION>
+
+<RELATION party2="136977_4" theme="136977_2" theme_string="RANGER CELLULAR ET AL. v. FEDERAL COMMUNICATIONS COMMISSION" party2_string="FEDERAL COMMUNICATIONS COMMISSION" gram_type="infix" relation_type="asymmetric" id="136977_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 1096" X_vs_Y_string="RANGER CELLULAR ET AL. v. FEDERAL COMMUNICATIONS COMMISSION" standard_case="136977_1" X_vs_Y="136977_2" gram_type="multi_line" relation_type="equivalence" id="136977_10" ></RELATION>
+
+<RELATION at_date_string="June 7, 2004" theme="136977_2" at_date="136977_9" theme_string="RANGER CELLULAR ET AL. v. FEDERAL COMMUNICATIONS COMMISSION" gram_type="multi_line" relation_type="asymmetric" id="136977_12" ></RELATION>
+
+<RELATION theme="136977_2" includes_docket_string="03-1502" includes_docket="136977_7" theme_string="RANGER CELLULAR ET AL. v. FEDERAL COMMUNICATIONS COMMISSION" gram_type="multi_line" relation_type="asymmetric" id="136977_11" ></RELATION>
+
+<RELATION theme="136977_14" legal_role="136977_15" id="136977_17" theme_string="C. A. D. C. Cir" gram_type="apposition" relation_type="asymmetric" legal_role_string="Motion of petitioners for" ></RELATION>
+
+<NAME local_name_id="4" from="from_legal_role" name="C A D C CIR" >C A D C CIR</NAME>
+

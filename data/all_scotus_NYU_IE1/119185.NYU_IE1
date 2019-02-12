@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['bemanstates#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_963" id1="119177" volume="535" start="0" page_number="963" standard_reporter="U.S." citation_global_level_id="5773.002" line="1" id="119185_1" citation_local_level_id="0" >535 U.S. 963</CITATION>
+
+<CITATION party2="UNITED STATES" party1="BEMAN" citation_global_level_id="9537.001" party2_short="STATES" line="2" id="119185_2" alternative_keys="['u.s._535_963']" end="39" entry_type="party_key" lookup_key="bemanstates#1" id1="119185" start="17" party1_short="BEMAN" citation_local_level_id="1" >BEMAN v. UNITED STATES</CITATION>
+
+<NAME end="22" start="17" party1_of="119185_2" all_names="BEMAN" local_name_id="1" id="119185_3" >BEMAN</NAME>
+
+<NAME end="39" start="26" all_names="UNITED STATES" party2_of="119185_2" local_name_id="2" id="119185_4" >UNITED STATES</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="bemanstates#1" id1="119185" start="49" citation_global_level_id="9537.001" line="3" id="119185_7" citation_local_level_id="1" >01-8518</DOCKET>
+
+<DATE start="102" citation_global_level_id="9537.001" end="116" id="119185_8" citation_local_level_id="1" >March 25, 2002</DATE>
+
+<NAME start="148" local_name_id="3" end="151" id="119185_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="202" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_275_1080" id1="Dummy_File_16475" volume="275" start="188" page_number="1080" standard_reporter="F.3D" citation_global_level_id="80325.001" line="8" id="119185_12" citation_local_level_id="2" >275 F. 3d 1080</CITATION>
+
+<RELATION theme="119185_2" party1="119185_3" party1_string="BEMAN" theme_string="BEMAN v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="119185_5" ></RELATION>
+
+<RELATION party2="119185_4" theme="119185_2" theme_string="BEMAN v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="119185_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 963" X_vs_Y_string="BEMAN v. UNITED STATES" standard_case="119185_1" X_vs_Y="119185_2" gram_type="multi_line" relation_type="equivalence" id="119185_9" ></RELATION>
+
+<RELATION at_date_string="March 25, 2002" theme="119185_2" at_date="119185_8" theme_string="BEMAN v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="119185_11" ></RELATION>
+
+<RELATION theme="119185_2" includes_docket_string="01-8518" includes_docket="119185_7" theme_string="BEMAN v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="119185_10" ></RELATION>
+

@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['penrytexas#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1016" id1="129404" volume="538" start="0" page_number="1016" standard_reporter="U.S." citation_global_level_id="277.002" line="1" id="129415_1" citation_local_level_id="0" >538 U.S. 1016</CITATION>
+
+<CITATION party2="TEXAS" party1="PENRY" citation_global_level_id="32824.001" party2_short="TEXAS" line="1" id="129415_3" alternative_keys="['u.s._538_1016']" end="32" entry_type="party_key" lookup_key="penrytexas#1" id1="129415" start="18" party1_short="PENRY" citation_local_level_id="1" >PENRY v. TEXAS</CITATION>
+
+<NAME end="23" start="18" party1_of="129415_3" all_names="PENRY" local_name_id="1" id="129415_4" >PENRY</NAME>
+
+<NAME end="32" start="27" all_names="TEXAS" party2_of="129415_3" local_name_id="2" id="129415_5" >TEXAS</NAME>
+
+<DOCKET end="49" entry_type="docket" lookup_key="u.s._538_1016" id1="129404" start="42" citation_global_level_id="277.002" line="1" id="129415_2" citation_local_level_id="0" >02-9354</DOCKET>
+
+<DATE start="91" end="102" id="129415_6" >May 5, 2003</DATE>
+
+<NAME start="203" local_name_id="3" end="205" id="129415_12" all_names="CT" >Ct</NAME>
+
+<RELATION theme="129415_1" includes_docket_string="02-9354" includes_docket="129415_2" theme_string="538 U.S. 1016" gram_type="apposition" relation_type="asymmetric" id="129415_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1016" X_vs_Y_string="PENRY v. TEXAS" standard_case="129415_1" X_vs_Y="129415_3" gram_type="pre_nom" relation_type="equivalence" id="129415_7" ></RELATION>
+
+<RELATION theme="129415_3" includes_docket_string="02-9354" includes_docket="129415_2" theme_string="PENRY v. TEXAS" gram_type="apposition" relation_type="asymmetric" id="129415_10" ></RELATION>
+
+<RELATION theme="129415_3" party1="129415_4" party1_string="PENRY" theme_string="PENRY v. TEXAS" gram_type="infix" relation_type="asymmetric" id="129415_8" ></RELATION>
+
+<RELATION party2="129415_5" theme="129415_3" theme_string="PENRY v. TEXAS" party2_string="TEXAS" gram_type="infix" relation_type="asymmetric" id="129415_9" ></RELATION>
+

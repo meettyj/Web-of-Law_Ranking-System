@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['crawfordwashington#5']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_914" id1="130322" volume="539" start="0" page_number="914" standard_reporter="U.S." citation_global_level_id="1919.002" line="1" id="130328_1" citation_local_level_id="0" >539 U.S. 914</CITATION>
+
+<CITATION party2="Washington" party1="Crawford" citation_global_level_id="49280.001" party2_short="Washington" line="1" id="130328_3" alternative_keys="['u.s._539_914']" end="39" entry_type="party_key" lookup_key="crawfordwashington#5" id1="131211" start="17" party1_short="Crawford" citation_local_level_id="1" >Crawford v. Washington</CITATION>
+
+<NAME end="25" start="17" party1_of="130328_3" all_names="CRAWFORD" local_name_id="1" id="130328_4" >Crawford</NAME>
+
+<NAME end="39" start="29" all_names="WASHINGTON" party2_of="130328_3" local_name_id="2" id="130328_5" >Washington</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._539_914" id1="130322" start="49" citation_global_level_id="1919.002" line="1" id="130328_2" citation_local_level_id="0" >02-9410</DOCKET>
+
+<DATE start="98" end="110" id="130328_6" >June 9, 2003</DATE>
+
+<LEGAL_ROLE start="188" end="208" id="130328_14" >Motion of petitioner</LEGAL_ROLE>
+
+<NAME start="257" local_name_id="3" end="267" id="130328_15" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="309" reporter="Wash. 2d" entry_type="standard_key" no_current_file="True" lookup_key="wash.2d_147_424" id1="Dummy_File_52623" volume="147" start="293" page_number="424" standard_reporter="WASH.2D" citation_global_level_id="116473.001" line="3" id="130328_12" citation_local_level_id="2" >147 Wash. 2d 424</CITATION>
+
+<CITATION end="323" reporter="P. 3d" entry_type="standard_key" no_current_file="True" lookup_key="p.3d_54_656" id1="Dummy_File_52624" volume="54" start="311" page_number="656" standard_reporter="P.3D" citation_global_level_id="116474.001" line="3" id="130328_13" citation_local_level_id="3" >54 P. 3d 656</CITATION>
+
+<RELATION theme="130328_1" includes_docket_string="02-9410" includes_docket="130328_2" theme_string="539 U.S. 914" gram_type="apposition" relation_type="asymmetric" id="130328_11" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 914" X_vs_Y_string="Crawford v. Washington" standard_case="130328_1" X_vs_Y="130328_3" gram_type="pre_nom" relation_type="equivalence" id="130328_7" ></RELATION>
+
+<RELATION theme="130328_3" includes_docket_string="02-9410" includes_docket="130328_2" theme_string="Crawford v. Washington" gram_type="apposition" relation_type="asymmetric" id="130328_10" ></RELATION>
+
+<RELATION theme="130328_3" party1="130328_4" party1_string="Crawford" theme_string="Crawford v. Washington" gram_type="infix" relation_type="asymmetric" id="130328_8" ></RELATION>
+
+<RELATION party2="130328_5" theme="130328_3" theme_string="Crawford v. Washington" party2_string="Washington" gram_type="infix" relation_type="asymmetric" id="130328_9" ></RELATION>
+

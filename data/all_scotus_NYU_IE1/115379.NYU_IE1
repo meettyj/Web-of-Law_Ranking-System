@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['moorheadtexas#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_996" id1="115390" volume="510" start="0" page_number="996" standard_reporter="U.S." citation_global_level_id="6585.002" line="1" id="115379_1" citation_local_level_id="0" >510 U.S. 996</CITATION>
+
+<CITATION party2="Texas" party1="Moorhead" citation_global_level_id="22621.001" party2_short="Texas" line="1" id="115379_3" alternative_keys="['u.s._510_996']" end="34" entry_type="party_key" lookup_key="moorheadtexas#1" id1="115379" start="17" party1_short="Moorhead" citation_local_level_id="1" >Moorhead v. Texas</CITATION>
+
+<NAME end="25" start="17" party1_of="115379_3" all_names="MOORHEAD" local_name_id="1" id="115379_4" >Moorhead</NAME>
+
+<NAME end="34" start="29" all_names="TEXAS" party2_of="115379_3" local_name_id="2" id="115379_5" >Texas</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="u.s._510_996" id1="115390" start="44" citation_global_level_id="6585.002" line="1" id="115379_2" citation_local_level_id="0" >93-6183</DOCKET>
+
+<DATE start="93" end="110" id="115379_6" >November 29, 1993</DATE>
+
+<NAME start="193" local_name_id="3" end="203" id="115379_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="115379_1" includes_docket_string="93-6183" includes_docket="115379_2" theme_string="510 U.S. 996" gram_type="apposition" relation_type="asymmetric" id="115379_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 996" X_vs_Y_string="Moorhead v. Texas" standard_case="115379_1" X_vs_Y="115379_3" gram_type="pre_nom" relation_type="equivalence" id="115379_7" ></RELATION>
+
+<RELATION theme="115379_3" includes_docket_string="93-6183" includes_docket="115379_2" theme_string="Moorhead v. Texas" gram_type="apposition" relation_type="asymmetric" id="115379_10" ></RELATION>
+
+<RELATION theme="115379_3" party1="115379_4" party1_string="Moorhead" theme_string="Moorhead v. Texas" gram_type="infix" relation_type="asymmetric" id="115379_8" ></RELATION>
+
+<RELATION party2="115379_5" theme="115379_3" theme_string="Moorhead v. Texas" party2_string="Texas" gram_type="infix" relation_type="asymmetric" id="115379_9" ></RELATION>
+

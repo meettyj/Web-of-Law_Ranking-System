@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['graystates#9']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1107" id1="120956" volume="535" start="0" page_number="1107" standard_reporter="U.S." citation_global_level_id="69.002" line="1" id="120954_1" citation_local_level_id="0" >535 U.S. 1107</CITATION>
+
+<CITATION party2="UNITED STATES" party1="GRAY" citation_global_level_id="58014.001" party2_short="STATES" line="2" id="120954_2" alternative_keys="['u.s._535_1107']" end="39" entry_type="party_key" lookup_key="graystates#9" id1="142734" start="18" party1_short="GRAY" citation_local_level_id="1" >GRAY v. UNITED STATES</CITATION>
+
+<NAME end="22" start="18" party1_of="120954_2" all_names="GRAY" local_name_id="1" id="120954_3" >GRAY</NAME>
+
+<NAME end="39" start="26" all_names="UNITED STATES" party2_of="120954_2" local_name_id="2" id="120954_4" >UNITED STATES</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="graystates#9" id1="142734" start="49" citation_global_level_id="58014.001" line="3" id="120954_7" citation_local_level_id="1" >01-9878</DOCKET>
+
+<DATE start="102" citation_global_level_id="58014.001" end="114" id="120954_8" citation_local_level_id="1" >May 28, 2002</DATE>
+
+<NAME start="146" local_name_id="3" end="149" id="120954_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="120954_2" party1="120954_3" party1_string="GRAY" theme_string="GRAY v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="120954_5" ></RELATION>
+
+<RELATION party2="120954_4" theme="120954_2" theme_string="GRAY v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="120954_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1107" X_vs_Y_string="GRAY v. UNITED STATES" standard_case="120954_1" X_vs_Y="120954_2" gram_type="multi_line" relation_type="equivalence" id="120954_9" ></RELATION>
+
+<RELATION at_date_string="May 28, 2002" theme="120954_2" at_date="120954_8" theme_string="GRAY v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="120954_11" ></RELATION>
+
+<RELATION theme="120954_2" includes_docket_string="01-9878" includes_docket="120954_7" theme_string="GRAY v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="120954_10" ></RELATION>
+

@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['schillinginsurance#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_958" id1="114919" volume="510" start="0" page_number="958" standard_reporter="U.S." citation_global_level_id="323.002" line="1" id="114914_1" citation_local_level_id="0" >510 U.S. 958</CITATION>
+
+<CITATION party2="GRE Insurance Co. et al" party1="Schilling" citation_global_level_id="53989.001" party2_short="Insurance" line="1" id="114914_3" alternative_keys="['u.s._510_958']" end="53" entry_type="party_key" lookup_key="schillinginsurance#1" id1="114914" start="17" party1_short="Schilling" citation_local_level_id="1" >Schilling v. GRE Insurance Co. et al</CITATION>
+
+<NAME end="26" start="17" party1_of="114914_3" all_names="SCHILLING" local_name_id="1" id="114914_4" >Schilling</NAME>
+
+<NAME end="53" start="30" all_names="GRE INSURANCE CO" party2_of="114914_3" local_name_id="2" id="114914_5" >GRE Insurance Co. et al</NAME>
+
+<DOCKET end="70" entry_type="docket" lookup_key="u.s._510_958" id1="114919" start="63" citation_global_level_id="323.002" line="1" id="114914_2" citation_local_level_id="0" >93-6229</DOCKET>
+
+<DATE start="112" end="128" id="114914_6" >November 1, 1993</DATE>
+
+<NAME start="223" local_name_id="3" end="233" id="114914_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="114914_1" includes_docket_string="93-6229" includes_docket="114914_2" theme_string="510 U.S. 958" gram_type="apposition" relation_type="asymmetric" id="114914_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 958" X_vs_Y_string="Schilling v. GRE Insurance Co. et al" standard_case="114914_1" X_vs_Y="114914_3" gram_type="pre_nom" relation_type="equivalence" id="114914_7" ></RELATION>
+
+<RELATION theme="114914_3" includes_docket_string="93-6229" includes_docket="114914_2" theme_string="Schilling v. GRE Insurance Co. et al" gram_type="apposition" relation_type="asymmetric" id="114914_10" ></RELATION>
+
+<RELATION theme="114914_3" party1="114914_4" party1_string="Schilling" theme_string="Schilling v. GRE Insurance Co. et al" gram_type="infix" relation_type="asymmetric" id="114914_8" ></RELATION>
+
+<RELATION party2="114914_5" theme="114914_3" theme_string="Schilling v. GRE Insurance Co. et al" party2_string="GRE Insurance Co. et al" gram_type="infix" relation_type="asymmetric" id="114914_9" ></RELATION>
+

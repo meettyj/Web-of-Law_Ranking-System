@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['mcgonegalohio#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._536_961" id1="121881" volume="536" start="0" page_number="961" standard_reporter="U.S." citation_global_level_id="15510.002" line="1" id="121881_1" citation_local_level_id="0" >536 U.S. 961</CITATION>
+
+<CITATION party2="OHIO" party1="McGONEGAL" citation_global_level_id="15510.001" party2_short="OHIO" line="2" id="121881_2" alternative_keys="['u.s._536_961']" end="34" entry_type="party_key" lookup_key="mcgonegalohio#1" id1="121881" start="17" party1_short="McGONEGAL" citation_local_level_id="1" >McGONEGAL v. OHIO</CITATION>
+
+<NAME end="26" start="17" party1_of="121881_2" all_names="MCGONEGAL" local_name_id="1" id="121881_3" >McGONEGAL</NAME>
+
+<NAME end="34" start="30" all_names="OHIO" party2_of="121881_2" local_name_id="2" id="121881_4" >OHIO</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="mcgonegalohio#1" id1="121881" start="44" citation_global_level_id="15510.001" line="3" id="121881_7" citation_local_level_id="1" >01-1777</DOCKET>
+
+<DATE start="47" end="51" id="121881_8" >1777</DATE>
+
+<DATE start="97" citation_global_level_id="15510.001" end="110" id="121881_10" citation_local_level_id="1" >June 28, 2002</DATE>
+
+<NAME start="132" local_name_id="3" end="134" id="121881_15" all_names="CT" >Ct</NAME>
+
+<RELATION theme="121881_2" party1="121881_3" party1_string="McGONEGAL" theme_string="McGONEGAL v. OHIO" gram_type="infix" relation_type="asymmetric" id="121881_5" ></RELATION>
+
+<RELATION party2="121881_4" theme="121881_2" theme_string="McGONEGAL v. OHIO" party2_string="OHIO" gram_type="infix" relation_type="asymmetric" id="121881_6" ></RELATION>
+
+<RELATION at_date_string="1777" theme="121881_7" at_date="121881_8" theme_string="01-1777" gram_type="infix" relation_type="asymmetric" id="121881_9" ></RELATION>
+
+<RELATION standard_case_string="536 U.S. 961" X_vs_Y_string="McGONEGAL v. OHIO" standard_case="121881_1" X_vs_Y="121881_2" gram_type="multi_line" relation_type="equivalence" id="121881_11" ></RELATION>
+
+<RELATION at_date_string="June 28, 2002" theme="121881_2" at_date="121881_10" theme_string="McGONEGAL v. OHIO" gram_type="multi_line" relation_type="asymmetric" id="121881_14" ></RELATION>
+
+<RELATION theme="121881_2" includes_docket_string="01-1777" includes_docket="121881_7" theme_string="McGONEGAL v. OHIO" gram_type="multi_line" relation_type="asymmetric" id="121881_12" ></RELATION>
+
+<RELATION at_date_string="1777" theme="121881_2" at_date="121881_8" theme_string="McGONEGAL v. OHIO" gram_type="multi_line" relation_type="asymmetric" id="121881_13" ></RELATION>
+

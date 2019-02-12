@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['rosstexas#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_875" id1="132119" volume="540" start="0" page_number="875" standard_reporter="U.S." citation_global_level_id="2739.002" line="1" id="132126_1" citation_local_level_id="0" >540 U.S. 875</CITATION>
+
+<CITATION party2="TEXAS" party1="ROSS" citation_global_level_id="17511.001" party2_short="TEXAS" line="1" id="132126_3" alternative_keys="['u.s._540_875']" end="30" entry_type="party_key" lookup_key="rosstexas#2" id1="132126" start="17" party1_short="ROSS" citation_local_level_id="1" >ROSS v. TEXAS</CITATION>
+
+<NAME end="21" start="17" party1_of="132126_3" all_names="ROSS" local_name_id="1" id="132126_4" >ROSS</NAME>
+
+<NAME end="30" start="25" all_names="TEXAS" party2_of="132126_3" local_name_id="2" id="132126_5" >TEXAS</NAME>
+
+<DOCKET end="45" entry_type="docket" lookup_key="u.s._540_875" id1="132119" start="40" citation_global_level_id="2739.002" line="1" id="132126_2" citation_local_level_id="0" >03-49</DOCKET>
+
+<DATE start="87" end="102" id="132126_6" >October 6, 2003</DATE>
+
+<NAME start="189" local_name_id="3" end="199" id="132126_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="132126_1" includes_docket_string="03-49" includes_docket="132126_2" theme_string="540 U.S. 875" gram_type="apposition" relation_type="asymmetric" id="132126_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 875" X_vs_Y_string="ROSS v. TEXAS" standard_case="132126_1" X_vs_Y="132126_3" gram_type="pre_nom" relation_type="equivalence" id="132126_7" ></RELATION>
+
+<RELATION theme="132126_3" includes_docket_string="03-49" includes_docket="132126_2" theme_string="ROSS v. TEXAS" gram_type="apposition" relation_type="asymmetric" id="132126_10" ></RELATION>
+
+<RELATION theme="132126_3" party1="132126_4" party1_string="ROSS" theme_string="ROSS v. TEXAS" gram_type="infix" relation_type="asymmetric" id="132126_8" ></RELATION>
+
+<RELATION party2="132126_5" theme="132126_3" theme_string="ROSS v. TEXAS" party2_string="TEXAS" gram_type="infix" relation_type="asymmetric" id="132126_9" ></RELATION>
+

@@ -1,0 +1,42 @@
+<DATE start="2" end="6" id="1861713_1" >2006</DATE>
+
+<CITATION party2="U. S., EX REL. HAIGHT" party1="CATHOLIC HEALTHCARE WEST, ET AL." citation_global_level_id="66822.001" party2_short="S" line="5" id="1861713_4" end="67" no_current_file="True" entry_type="party_key" lookup_key="wests#1" id1="Dummy_File_2972" start="8" party1_short="WEST" citation_local_level_id="0" >CATHOLIC HEALTHCARE WEST, ET AL. v. U. S., EX REL. HAIGHT</CITATION>
+
+<NAME end="40" start="8" party1_of="1861713_4" all_names="CATHOLIC HEALTHCARE WEST" local_name_id="1" id="1861713_5" >CATHOLIC HEALTHCARE WEST, ET AL.</NAME>
+
+<NAME end="67" start="46" all_names="U S EX REL HAIGHT" party2_of="1861713_4" local_name_id="2" id="1861713_6" >U. S., EX REL. HAIGHT</NAME>
+
+<CITATION party2="CATHOLIC HEALTHCARE WEST" party1="U. S., EX REL. HAIGHT, ET AL." citation_global_level_id="66823.001" party2_short="WEST" line="8" id="1861713_13" end="128" no_current_file="True" entry_type="party_key" lookup_key="swest#1" id1="Dummy_File_2973" start="69" party1_short="S" citation_local_level_id="1" >U. S., EX REL. HAIGHT, ET AL. v. CATHOLIC HEALTHCARE WEST</CITATION>
+
+<NAME end="98" start="69" party1_of="1861713_13" all_names="U S EX REL HAIGHT" local_name_id="2" id="1861713_14" >U. S., EX REL. HAIGHT, ET AL.</NAME>
+
+<NAME end="128" start="104" all_names="CATHOLIC HEALTHCARE WEST" party2_of="1861713_13" local_name_id="1" id="1861713_15" >CATHOLIC HEALTHCARE WEST</NAME>
+
+<DOCKET end="140" no_current_file="True" entry_type="docket" lookup_key="wests#1" id1="Dummy_File_2972" start="134" citation_global_level_id="66822.001" line="9" id="1861713_18" citation_local_level_id="0" >06-282</DOCKET>
+
+<DOCKET end="148" no_current_file="True" entry_type="docket" lookup_key="wests#1" id1="Dummy_File_2972" start="142" citation_global_level_id="66822.001" line="9" id="1861713_19" citation_local_level_id="0" >06-473</DOCKET>
+
+<ORGANIZATION start="150" end="180" id="1861713_20" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="182" citation_global_level_id="66822.001" end="198" id="1861713_21" citation_local_level_id="0" >December 4, 2006</DATE>
+
+<RELATION theme="1861713_4" party1="1861713_5" party1_string="CATHOLIC HEALTHCARE WEST, ET AL." theme_string="CATHOLIC HEALTHCARE WEST, ET AL.  v.  U. S., EX REL. HAIGHT" gram_type="infix" relation_type="asymmetric" id="1861713_7" ></RELATION>
+
+<RELATION party2="1861713_6" theme="1861713_4" theme_string="CATHOLIC HEALTHCARE WEST, ET AL.  v.  U. S., EX REL. HAIGHT" party2_string="U. S., EX REL. HAIGHT" gram_type="infix" relation_type="asymmetric" id="1861713_8" ></RELATION>
+
+<RELATION theme="1861713_13" party1="1861713_14" party1_string="U. S., EX REL. HAIGHT, ET AL." theme_string="U. S., EX REL. HAIGHT, ET AL.  v.  CATHOLIC HEALTHCARE WEST" gram_type="infix" relation_type="asymmetric" id="1861713_16" ></RELATION>
+
+<RELATION party2="1861713_15" theme="1861713_13" theme_string="U. S., EX REL. HAIGHT, ET AL.  v.  CATHOLIC HEALTHCARE WEST" party2_string="CATHOLIC HEALTHCARE WEST" gram_type="infix" relation_type="asymmetric" id="1861713_17" ></RELATION>
+
+<RELATION at_date_string="December 4, 2006" theme="1861713_4" at_date="1861713_21" theme_string="CATHOLIC HEALTHCARE WEST, ET AL.  v.  U. S., EX REL. HAIGHT" gram_type="multi_line" relation_type="asymmetric" id="1861713_24" ></RELATION>
+
+<RELATION theme="1861713_4" includes_docket_string="06-473" includes_docket="1861713_19" theme_string="CATHOLIC HEALTHCARE WEST, ET AL.  v.  U. S., EX REL. HAIGHT" gram_type="multi_line" relation_type="asymmetric" id="1861713_23" ></RELATION>
+
+<RELATION theme="1861713_4" includes_docket_string="06-282" includes_docket="1861713_18" theme_string="CATHOLIC HEALTHCARE WEST, ET AL.  v.  U. S., EX REL. HAIGHT" gram_type="multi_line" relation_type="asymmetric" id="1861713_22" ></RELATION>
+
+<RELATION at_date_string="December 4, 2006" theme="1861713_13" at_date="1861713_21" theme_string="U. S., EX REL. HAIGHT, ET AL.  v.  CATHOLIC HEALTHCARE WEST" gram_type="multi_line" relation_type="asymmetric" id="1861713_27" ></RELATION>
+
+<RELATION theme="1861713_13" includes_docket_string="06-473" includes_docket="1861713_19" theme_string="U. S., EX REL. HAIGHT, ET AL.  v.  CATHOLIC HEALTHCARE WEST" gram_type="multi_line" relation_type="asymmetric" id="1861713_26" ></RELATION>
+
+<RELATION theme="1861713_13" includes_docket_string="06-282" includes_docket="1861713_18" theme_string="U. S., EX REL. HAIGHT, ET AL.  v.  CATHOLIC HEALTHCARE WEST" gram_type="multi_line" relation_type="asymmetric" id="1861713_25" ></RELATION>
+

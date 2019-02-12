@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['chavezmexico#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_861" id1="131930" volume="540" start="0" page_number="861" standard_reporter="U.S." citation_global_level_id="4924.002" line="1" id="131931_1" citation_local_level_id="0" >540 U.S. 861</CITATION>
+
+<CITATION party2="NEW MEXICO" party1="CHAVEZ" citation_global_level_id="27411.001" party2_short="MEXICO" line="1" id="131931_3" alternative_keys="['u.s._540_861']" end="37" entry_type="party_key" lookup_key="chavezmexico#1" id1="131931" start="17" party1_short="CHAVEZ" citation_local_level_id="1" >CHAVEZ v. NEW MEXICO</CITATION>
+
+<NAME end="23" start="17" party1_of="131931_3" all_names="CHAVEZ" local_name_id="1" id="131931_4" >CHAVEZ</NAME>
+
+<NAME end="37" start="27" all_names="NEW MEXICO" party2_of="131931_3" local_name_id="2" id="131931_5" >NEW MEXICO</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._540_861" id1="131930" start="47" citation_global_level_id="4924.002" line="1" id="131931_2" citation_local_level_id="0" >02-11215</DOCKET>
+
+<DATE start="97" end="112" id="131931_6" >October 6, 2003</DATE>
+
+<NAME start="190" local_name_id="3" end="200" id="131931_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="131931_1" includes_docket_string="02-11215" includes_docket="131931_2" theme_string="540 U.S. 861" gram_type="apposition" relation_type="asymmetric" id="131931_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 861" X_vs_Y_string="CHAVEZ v. NEW MEXICO" standard_case="131931_1" X_vs_Y="131931_3" gram_type="pre_nom" relation_type="equivalence" id="131931_7" ></RELATION>
+
+<RELATION theme="131931_3" includes_docket_string="02-11215" includes_docket="131931_2" theme_string="CHAVEZ v. NEW MEXICO" gram_type="apposition" relation_type="asymmetric" id="131931_10" ></RELATION>
+
+<RELATION theme="131931_3" party1="131931_4" party1_string="CHAVEZ" theme_string="CHAVEZ v. NEW MEXICO" gram_type="infix" relation_type="asymmetric" id="131931_8" ></RELATION>
+
+<RELATION party2="131931_5" theme="131931_3" theme_string="CHAVEZ v. NEW MEXICO" party2_string="NEW MEXICO" gram_type="infix" relation_type="asymmetric" id="131931_9" ></RELATION>
+

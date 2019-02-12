@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['woodruffoklahoma#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_934" id1="114608" volume="510" start="0" page_number="934" standard_reporter="U.S." citation_global_level_id="1576.002" line="1" id="114614_1" citation_local_level_id="0" >510 U.S. 934</CITATION>
+
+<CITATION party2="Oklahoma" party1="Woodruff" citation_global_level_id="19306.001" party2_short="Oklahoma" line="1" id="114614_3" alternative_keys="['u.s._510_934']" end="37" entry_type="party_key" lookup_key="woodruffoklahoma#1" id1="114614" start="17" party1_short="Woodruff" citation_local_level_id="1" >Woodruff v. Oklahoma</CITATION>
+
+<NAME end="25" start="17" party1_of="114614_3" all_names="WOODRUFF" local_name_id="1" id="114614_4" >Woodruff</NAME>
+
+<NAME end="37" start="29" all_names="OKLAHOMA" party2_of="114614_3" local_name_id="2" id="114614_5" >Oklahoma</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="u.s._510_934" id1="114608" start="47" citation_global_level_id="1576.002" line="1" id="114614_2" citation_local_level_id="0" >93-5642</DOCKET>
+
+<DATE start="96" end="112" id="114614_6" >October 18, 1993</DATE>
+
+<NAME start="196" local_name_id="3" end="206" id="114614_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="245" reporter="P. 2d" entry_type="standard_key" no_current_file="True" lookup_key="p.2d_846_1124" id1="Dummy_File_194233" volume="846" start="231" page_number="1124" standard_reporter="P.2D" citation_global_level_id="258083.001" line="3" id="114614_12" citation_local_level_id="2" >846 P. 2d 1124</CITATION>
+
+<RELATION theme="114614_1" includes_docket_string="93-5642" includes_docket="114614_2" theme_string="510 U.S. 934" gram_type="apposition" relation_type="asymmetric" id="114614_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 934" X_vs_Y_string="Woodruff v. Oklahoma" standard_case="114614_1" X_vs_Y="114614_3" gram_type="pre_nom" relation_type="equivalence" id="114614_7" ></RELATION>
+
+<RELATION theme="114614_3" includes_docket_string="93-5642" includes_docket="114614_2" theme_string="Woodruff v. Oklahoma" gram_type="apposition" relation_type="asymmetric" id="114614_10" ></RELATION>
+
+<RELATION theme="114614_3" party1="114614_4" party1_string="Woodruff" theme_string="Woodruff v. Oklahoma" gram_type="infix" relation_type="asymmetric" id="114614_8" ></RELATION>
+
+<RELATION party2="114614_5" theme="114614_3" theme_string="Woodruff v. Oklahoma" party2_string="Oklahoma" gram_type="infix" relation_type="asymmetric" id="114614_9" ></RELATION>
+

@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['investmentscity#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_928" id1="114541" volume="510" start="0" page_number="928" standard_reporter="U.S." citation_global_level_id="1983.002" line="1" id="114552_1" citation_local_level_id="0" >510 U.S. 928</CITATION>
+
+<CITATION party2="City and County of San Francisco" party1="Golden Gates Heights Investments" citation_global_level_id="7048.001" party2_short="City" line="1" id="114552_3" alternative_keys="['u.s._510_928']" end="85" entry_type="party_key" lookup_key="investmentscity#1" id1="114552" start="17" party1_short="Investments" citation_local_level_id="1" >Golden Gates Heights Investments v. City and County of San Francisco</CITATION>
+
+<NAME end="49" start="17" party1_of="114552_3" all_names="GOLDEN GATES HEIGHTS INVESTMENTS" local_name_id="1" id="114552_4" >Golden Gates Heights Investments</NAME>
+
+<NAME end="85" start="53" all_names="CITY AND COUNTY OF SAN FRANCISCO" party2_of="114552_3" local_name_id="2" id="114552_5" >City and County of San Francisco</NAME>
+
+<DOCKET end="101" entry_type="docket" lookup_key="u.s._510_928" id1="114541" start="95" citation_global_level_id="1983.002" line="1" id="114552_2" citation_local_level_id="0" >93-274</DOCKET>
+
+<DATE start="143" end="159" id="114552_6" >October 12, 1993</DATE>
+
+<ORGANIZATION start="252" end="286" id="114552_13" >Motion of Pacific Legal Foundation</ORGANIZATION>
+
+<NAME start="339" local_name_id="3" end="349" id="114552_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="417" reporter="Cal. Rptr. 2d" entry_type="standard_key" no_current_file="True" lookup_key="cal.rptr.2d_18_467" id1="Dummy_File_129332" volume="18" start="397" page_number="467" standard_reporter="CAL.RPTR.2D" citation_global_level_id="193182.001" line="3" id="114552_12" citation_local_level_id="2" >18 Cal. Rptr. 2d 467</CITATION>
+
+<RELATION theme="114552_1" includes_docket_string="93-274" includes_docket="114552_2" theme_string="510 U.S. 928" gram_type="apposition" relation_type="asymmetric" id="114552_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 928" X_vs_Y_string="Golden Gates Heights Investments v. City and County of San Francisco" standard_case="114552_1" X_vs_Y="114552_3" gram_type="pre_nom" relation_type="equivalence" id="114552_7" ></RELATION>
+
+<RELATION theme="114552_3" includes_docket_string="93-274" includes_docket="114552_2" theme_string="Golden Gates Heights Investments v. City and County of San Francisco" gram_type="apposition" relation_type="asymmetric" id="114552_10" ></RELATION>
+
+<RELATION theme="114552_3" party1="114552_4" party1_string="Golden Gates Heights Investments" theme_string="Golden Gates Heights Investments v. City and County of San Francisco" gram_type="infix" relation_type="asymmetric" id="114552_8" ></RELATION>
+
+<RELATION party2="114552_5" theme="114552_3" theme_string="Golden Gates Heights Investments v. City and County of San Francisco" party2_string="City and County of San Francisco" gram_type="infix" relation_type="asymmetric" id="114552_9" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['moorekeane#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1127" id1="142029" volume="543" start="0" page_number="1127" standard_reporter="U.S." citation_global_level_id="102.002" line="1" id="142030_1" citation_local_level_id="0" >543 U.S. 1127</CITATION>
+
+<CITATION party2="KEANE, SUPERINTENDENT, SING SING CORRECTIONAL FACILITY" party1="MOORE" citation_global_level_id="102.007" party2_short="KEANE" line="2" id="142030_2" alternative_keys="['u.s._543_1127']" end="81" entry_type="party_key" lookup_key="moorekeane#1" id1="142029" start="18" party1_short="MOORE" citation_local_level_id="1" >MOORE v. KEANE, SUPERINTENDENT, SING SING CORRECTIONAL FACILITY</CITATION>
+
+<NAME end="23" start="18" party1_of="142030_2" all_names="MOORE" local_name_id="1" id="142030_3" >MOORE</NAME>
+
+<NAME end="81" start="27" all_names="KEANE SUPERINTENDENT SING SING CORRECTIONAL FACILITY" party2_of="142030_2" local_name_id="2" id="142030_4" >KEANE, SUPERINTENDENT, SING SING CORRECTIONAL FACILITY</NAME>
+
+<DOCKET alternative_keys="['u.s._543_1127']" end="98" entry_type="docket" lookup_key="moorekeane#1" id1="142029" start="91" citation_global_level_id="102.007" line="3" id="142030_7" citation_local_level_id="1" >04-7493</DOCKET>
+
+<ORGANIZATION start="104" end="134" id="142030_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="140" citation_global_level_id="102.007" end="156" id="142030_9" citation_local_level_id="1" >January 24, 2005</DATE>
+
+<NAME start="187" local_name_id="3" end="190" id="142030_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="142030_2" party1="142030_3" party1_string="MOORE" theme_string="MOORE v. KEANE, SUPERINTENDENT, SING SING CORRECTIONAL FACILITY" gram_type="infix" relation_type="asymmetric" id="142030_5" ></RELATION>
+
+<RELATION party2="142030_4" theme="142030_2" theme_string="MOORE v. KEANE, SUPERINTENDENT, SING SING CORRECTIONAL FACILITY" party2_string="KEANE, SUPERINTENDENT, SING SING CORRECTIONAL FACILITY" gram_type="infix" relation_type="asymmetric" id="142030_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1127" X_vs_Y_string="MOORE v. KEANE, SUPERINTENDENT, SING SING CORRECTIONAL FACILITY" standard_case="142030_1" X_vs_Y="142030_2" gram_type="multi_line" relation_type="equivalence" id="142030_10" ></RELATION>
+
+<RELATION at_date_string="January 24, 2005" theme="142030_2" at_date="142030_9" theme_string="MOORE v. KEANE, SUPERINTENDENT, SING SING CORRECTIONAL FACILITY" gram_type="multi_line" relation_type="asymmetric" id="142030_12" ></RELATION>
+
+<RELATION theme="142030_2" includes_docket_string="04-7493" includes_docket="142030_7" theme_string="MOORE v. KEANE, SUPERINTENDENT, SING SING CORRECTIONAL FACILITY" gram_type="multi_line" relation_type="asymmetric" id="142030_11" ></RELATION>
+

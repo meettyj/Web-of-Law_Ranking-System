@@ -1,0 +1,44 @@
+<CITATION alternative_keys="['banklee#5', 's.ct._36_284', 'l.ed._60_489']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._239_659" id1="98628" volume="239" start="0" page_number="659" standard_reporter="U.S." citation_global_level_id="2087.002" line="1" id="98628_1" citation_local_level_id="0" >239 U.S. 659</CITATION>
+
+<CITATION alternative_keys="['u.s._239_659', 'banklee#5', 'l.ed._60_489']" end="30" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._36_284" id1="98628" volume="36" start="17" page_number="284" standard_reporter="S.CT." citation_global_level_id="2087.003" line="2" id="98628_2" citation_local_level_id="1" >36 S. Ct. 284</CITATION>
+
+<CITATION alternative_keys="['u.s._239_659', 's.ct._36_284', 'banklee#5']" end="48" reporter="L. Ed." entry_type="standard_key" lookup_key="l.ed._60_489" id1="98628" volume="60" start="35" page_number="489" standard_reporter="L.ED." citation_global_level_id="2087.004" line="3" id="98628_3" citation_local_level_id="2" >60 L. Ed. 489</CITATION>
+
+<CITATION party2="MAGGIE I. LEE" alternative_keys="['s.ct._36_284', 'l.ed._60_489', 'u.s._239_659']" party1="COON RAPIDS NATIONAL BANK et al.," end="124" party1_short="BANK" entry_type="party_key" party1_role="plaintiffs in error" lookup_key="banklee#5" id1="98628" start="53" citation_global_level_id="2087.005" party2_short="LEE" line="4" id="98628_4" citation_local_level_id="3" >COON RAPIDS NATIONAL BANK et al., Plaintiffs in Error, v. MAGGIE I. LEE</CITATION>
+
+<NAME end="86" start="53" party1_of="98628_4" all_names="COON RAPIDS NATIONAL BANK" local_name_id="1" id="98628_5" >COON RAPIDS NATIONAL BANK et al.,</NAME>
+
+<ORGANIZATION start="53" end="78" id="98628_8" >COON RAPIDS NATIONAL BANK</ORGANIZATION>
+
+<LEGAL_ROLE start="87" end="106" id="98628_7" >Plaintiffs in Error</LEGAL_ROLE>
+
+<LEGAL_ROLE start="87" end="97" plural="True" id="98628_9" >Plaintiffs</LEGAL_ROLE>
+
+<NAME end="124" start="111" all_names="MAGGIE I LEE" party2_of="98628_4" local_name_id="2" id="98628_6" >MAGGIE I. LEE</NAME>
+
+<ORGANIZATION start="160" end="194" id="98628_15" >Supreme Court of the United States</ORGANIZATION>
+
+<DATE start="199" end="215" id="98628_16" >January 10, 1916</DATE>
+
+<LEGAL_ROLE start="253" end="263" plural="True" id="98628_17" >plaintiffs</LEGAL_ROLE>
+
+<LEGAL_ROLE start="298" end="352" id="98628_18" >Mr. A. B. Cummins and Mr. O. M. Brockett for defendant</LEGAL_ROLE>
+
+<NAME start="444" local_name_id="3" end="448" id="98628_19" all_names="RULE" >Rule</NAME>
+
+<NAME start="486" local_name_id="4" end="509" id="98628_21" all_names="DEATH OF ANDERVILLE LEE" >Death of Anderville Lee</NAME>
+
+<NAME start="539" local_name_id="2" end="552" id="98628_22" all_names="MAGGIE I LEE" >Maggie I. Lee</NAME>
+
+<DATE start="601" end="617" id="98628_20" >January 10, 1916</DATE>
+
+<RELATION theme="98628_4" party1="98628_5" party1_string="COON RAPIDS NATIONAL BANK et al.," theme_string="COON RAPIDS NATIONAL BANK et al., Plaintiffs in Error, v. MAGGIE I. LEE" gram_type="infix" relation_type="asymmetric" id="98628_10" ></RELATION>
+
+<RELATION party2="98628_6" theme="98628_4" theme_string="COON RAPIDS NATIONAL BANK et al., Plaintiffs in Error, v. MAGGIE I. LEE" party2_string="MAGGIE I. LEE" gram_type="infix" relation_type="asymmetric" id="98628_11" ></RELATION>
+
+<RELATION standard_case_string="239 U.S. 659" X_vs_Y_string="COON RAPIDS NATIONAL BANK et al., Plaintiffs in Error, v. MAGGIE I. LEE" standard_case="98628_1" X_vs_Y="98628_4" gram_type="multi_line" relation_type="equivalence" id="98628_12" ></RELATION>
+
+<RELATION standard_case_string="36 S. Ct. 284" X_vs_Y_string="COON RAPIDS NATIONAL BANK et al., Plaintiffs in Error, v. MAGGIE I. LEE" standard_case="98628_2" X_vs_Y="98628_4" gram_type="multi_line" relation_type="equivalence" id="98628_13" ></RELATION>
+
+<RELATION standard_case_string="60 L. Ed. 489" X_vs_Y_string="COON RAPIDS NATIONAL BANK et al., Plaintiffs in Error, v. MAGGIE I. LEE" standard_case="98628_3" X_vs_Y="98628_4" gram_type="multi_line" relation_type="equivalence" id="98628_14" ></RELATION>
+

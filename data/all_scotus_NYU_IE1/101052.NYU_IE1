@@ -1,0 +1,48 @@
+<CITATION alternative_keys="['ottingergas#3', 's.ct._47_102', 'l.ed._71_884']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._273_772" id1="101052" volume="273" start="0" page_number="772" standard_reporter="U.S." citation_global_level_id="26058.002" line="1" id="101052_1" citation_local_level_id="0" >273 U.S. 772</CITATION>
+
+<CITATION alternative_keys="['u.s._273_772', 'ottingergas#3', 'l.ed._71_884']" end="30" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._47_102" id1="101048" volume="47" start="17" page_number="102" standard_reporter="S.CT." citation_global_level_id="16637.003" line="1" id="101052_2" citation_local_level_id="1" >47 S. Ct. 102</CITATION>
+
+<NAME start="20" local_name_id="1" end="25" id="101052_9" all_names="S CT" >S. Ct</NAME>
+
+<CITATION alternative_keys="['u.s._273_772', 's.ct._47_102', 'ottingergas#3']" end="48" reporter="L. Ed." entry_type="standard_key" lookup_key="l.ed._71_884" id1="101052" volume="71" start="35" page_number="884" standard_reporter="L.ED." citation_global_level_id="26058.003" line="1" id="101052_3" citation_local_level_id="2" >71 L. Ed. 884</CITATION>
+
+<CITATION party2="The BRONX GAS AND ELECTRIC COMPANY" alternative_keys="['u.s._273_772', 's.ct._47_102', 'l.ed._71_884']" party1="Albert OTTINGER, as Attorney General of the State of  New York," end="165" party1_short="OTTINGER" entry_type="party_key" party1_role="appellant" lookup_key="ottingergas#3" id1="101052" start="53" citation_global_level_id="26058.001" party2_short="GAS" line="1" id="101052_4" citation_local_level_id="3" >Albert OTTINGER, as Attorney General of the State of New York, appellant, v. The BRONX GAS AND ELECTRIC COMPANY</CITATION>
+
+<NAME end="116" start="53" party1_of="101052_4" all_names="ALBERT OTTINGER AS ATTORNEY GENERAL OF THE STATE OF NEW YORK" local_name_id="2" id="101052_5" >Albert OTTINGER, as Attorney General of the State of New York,</NAME>
+
+<PROFESSION start="73" end="115" id="101052_10" >Attorney General of the State of New York</PROFESSION>
+
+<LEGAL_ROLE start="117" end="126" id="101052_7" party="party1" >appellant</LEGAL_ROLE>
+
+<NAME end="165" start="131" all_names="THE BRONX GAS AND ELECTRIC COMPANY" party2_of="101052_4" local_name_id="3" id="101052_6" >The BRONX GAS AND ELECTRIC COMPANY</NAME>
+
+<DATE start="223" end="239" id="101052_8" >October 18, 1926</DATE>
+
+<LEGAL_ROLE start="387" end="425" id="101052_16" >Mr. William L. Ransom for the appellee</LEGAL_ROLE>
+
+<CITATION party2="Prendergast" party1="Bronx Gas &amp; Electric Co." citation_global_level_id="73959.005" party2_short="Prendergast" line="6" id="101052_18" alternative_keys="['f._1_2']" end="514" entry_type="party_key" lookup_key="electricprendergast#1" id1="Dummy_File_10109" start="475" party1_short="Electric" citation_local_level_id="4" >Bronx Gas &amp; Electric Co. v. Prendergast</CITATION>
+
+<NAME end="499" start="475" party1_of="101052_18" all_names="BRONX GAS &amp; ELECTRIC CO" local_name_id="4" id="101052_19" >Bronx Gas &amp; Electric Co.</NAME>
+
+<ORGANIZATION start="475" end="498" id="101052_21" >Bronx Gas &amp; Electric Co</ORGANIZATION>
+
+<NAME end="514" start="503" all_names="PRENDERGAST" party2_of="101052_18" local_name_id="5" id="101052_20" >Prendergast</NAME>
+
+<CITATION alternative_keys="['statesschwartz#1', 'trustbaylor#1', 'statesst#1', 'rystates#109', 'woodstates#9']" end="522" reporter="F." entry_type="standard_key" no_current_file="True" lookup_key="f._1_2" id1="121109" volume="1" start="516" page_number="2" standard_reporter="F." citation_global_level_id="30598.006" line="6" id="101052_17" citation_local_level_id="5" >1 F.(2</CITATION>
+
+<RELATION standard_case_string="273 U.S. 772" X_vs_Y_string="Albert OTTINGER, as Attorney General of the State of  New York, appellant, v. The BRONX GAS AND ELECTRIC COMPANY" standard_case="101052_1" X_vs_Y="101052_4" gram_type="pre_nom" relation_type="equivalence" id="101052_12" ></RELATION>
+
+<RELATION standard_case_string="47 S. Ct. 102" X_vs_Y_string="Albert OTTINGER, as Attorney General of the State of  New York, appellant, v. The BRONX GAS AND ELECTRIC COMPANY" standard_case="101052_2" X_vs_Y="101052_4" gram_type="pre_nom" relation_type="equivalence" id="101052_13" ></RELATION>
+
+<RELATION standard_case_string="71 L. Ed. 884" X_vs_Y_string="Albert OTTINGER, as Attorney General of the State of  New York, appellant, v. The BRONX GAS AND ELECTRIC COMPANY" standard_case="101052_3" X_vs_Y="101052_4" gram_type="pre_nom" relation_type="equivalence" id="101052_11" ></RELATION>
+
+<RELATION theme="101052_4" party1="101052_5" party1_string="Albert OTTINGER, as Attorney General of the State of  New York," theme_string="Albert OTTINGER, as Attorney General of the State of  New York, appellant, v. The BRONX GAS AND ELECTRIC COMPANY" gram_type="infix" relation_type="asymmetric" id="101052_14" ></RELATION>
+
+<RELATION party2="101052_6" theme="101052_4" theme_string="Albert OTTINGER, as Attorney General of the State of  New York, appellant, v. The BRONX GAS AND ELECTRIC COMPANY" party2_string="The BRONX GAS AND ELECTRIC COMPANY" gram_type="infix" relation_type="asymmetric" id="101052_15" ></RELATION>
+
+<RELATION standard_case_string="1 F.(2" X_vs_Y_string="Bronx Gas &amp; Electric Co. v. Prendergast" standard_case="101052_17" X_vs_Y="101052_18" gram_type="apposition" relation_type="equivalence" id="101052_24" ></RELATION>
+
+<RELATION theme="101052_18" party1="101052_19" party1_string="Bronx Gas &amp; Electric Co." theme_string="Bronx Gas &amp; Electric Co. v. Prendergast" gram_type="infix" relation_type="asymmetric" id="101052_22" ></RELATION>
+
+<RELATION party2="101052_20" theme="101052_18" theme_string="Bronx Gas &amp; Electric Co. v. Prendergast" party2_string="Prendergast" gram_type="infix" relation_type="asymmetric" id="101052_23" ></RELATION>
+

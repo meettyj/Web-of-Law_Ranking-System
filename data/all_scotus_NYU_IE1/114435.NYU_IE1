@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['polewskycorporation#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_920" id1="114431" volume="510" start="0" page_number="920" standard_reporter="U.S." citation_global_level_id="4362.002" line="1" id="114435_1" citation_local_level_id="0" >510 U.S. 920</CITATION>
+
+<CITATION party2="National Railroad Passenger Corporation" party1="Polewsky" citation_global_level_id="56817.001" party2_short="Corporation" line="1" id="114435_3" alternative_keys="['u.s._510_920']" end="68" entry_type="party_key" lookup_key="polewskycorporation#1" id1="114435" start="17" party1_short="Polewsky" citation_local_level_id="1" >Polewsky v. National Railroad Passenger Corporation</CITATION>
+
+<NAME end="25" start="17" party1_of="114435_3" all_names="POLEWSKY" local_name_id="1" id="114435_4" >Polewsky</NAME>
+
+<NAME end="68" start="29" all_names="NATIONAL RAILROAD PASSENGER CORPORATION" party2_of="114435_3" local_name_id="2" id="114435_5" >National Railroad Passenger Corporation</NAME>
+
+<DOCKET end="85" entry_type="docket" lookup_key="u.s._510_920" id1="114431" start="78" citation_global_level_id="4362.002" line="1" id="114435_2" citation_local_level_id="0" >93-5441</DOCKET>
+
+<DATE start="127" end="143" id="114435_6" >October 12, 1993</DATE>
+
+<NAME start="220" local_name_id="3" end="230" id="114435_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="269" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_993_1532" id1="Dummy_File_14193" volume="993" start="255" page_number="1532" standard_reporter="F.2D" citation_global_level_id="78043.001" line="3" id="114435_12" citation_local_level_id="2" >993 F. 2d 1532</CITATION>
+
+<RELATION theme="114435_1" includes_docket_string="93-5441" includes_docket="114435_2" theme_string="510 U.S. 920" gram_type="apposition" relation_type="asymmetric" id="114435_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 920" X_vs_Y_string="Polewsky v. National Railroad Passenger Corporation" standard_case="114435_1" X_vs_Y="114435_3" gram_type="pre_nom" relation_type="equivalence" id="114435_7" ></RELATION>
+
+<RELATION theme="114435_3" includes_docket_string="93-5441" includes_docket="114435_2" theme_string="Polewsky v. National Railroad Passenger Corporation" gram_type="apposition" relation_type="asymmetric" id="114435_10" ></RELATION>
+
+<RELATION theme="114435_3" party1="114435_4" party1_string="Polewsky" theme_string="Polewsky v. National Railroad Passenger Corporation" gram_type="infix" relation_type="asymmetric" id="114435_8" ></RELATION>
+
+<RELATION party2="114435_5" theme="114435_3" theme_string="Polewsky v. National Railroad Passenger Corporation" party2_string="National Railroad Passenger Corporation" gram_type="infix" relation_type="asymmetric" id="114435_9" ></RELATION>
+

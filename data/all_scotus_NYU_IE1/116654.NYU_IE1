@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['grafftmaxwell#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1099" id1="116657" volume="510" start="0" page_number="1099" standard_reporter="U.S." citation_global_level_id="4430.002" line="1" id="116654_1" citation_local_level_id="0" >510 U.S. 1099</CITATION>
+
+<CITATION party2="Maxwell et al" party1="Grafft" citation_global_level_id="49877.001" party2_short="Maxwell" line="1" id="116654_3" alternative_keys="['u.s._510_1099']" end="41" entry_type="party_key" lookup_key="grafftmaxwell#1" id1="116654" start="18" party1_short="Grafft" citation_local_level_id="1" >Grafft v. Maxwell et al</CITATION>
+
+<NAME end="24" start="18" party1_of="116654_3" all_names="GRAFFT" local_name_id="1" id="116654_4" >Grafft</NAME>
+
+<NAME end="41" start="28" all_names="MAXWELL" party2_of="116654_3" local_name_id="2" id="116654_5" >Maxwell et al</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._510_1099" id1="116657" start="51" citation_global_level_id="4430.002" line="1" id="116654_2" citation_local_level_id="0" >93-7144</DOCKET>
+
+<DATE start="100" end="116" id="116654_6" >January 24, 1994</DATE>
+
+<NAME start="194" local_name_id="3" end="204" id="116654_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="257" reporter="P. 2d" entry_type="standard_key" no_current_file="True" lookup_key="p.2d_861_934" id1="Dummy_File_190895" volume="861" start="244" page_number="934" standard_reporter="P.2D" citation_global_level_id="254745.001" line="3" id="116654_12" citation_local_level_id="2" >861 P. 2d 934</CITATION>
+
+<RELATION theme="116654_1" includes_docket_string="93-7144" includes_docket="116654_2" theme_string="510 U.S. 1099" gram_type="apposition" relation_type="asymmetric" id="116654_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1099" X_vs_Y_string="Grafft v. Maxwell et al" standard_case="116654_1" X_vs_Y="116654_3" gram_type="pre_nom" relation_type="equivalence" id="116654_7" ></RELATION>
+
+<RELATION theme="116654_3" includes_docket_string="93-7144" includes_docket="116654_2" theme_string="Grafft v. Maxwell et al" gram_type="apposition" relation_type="asymmetric" id="116654_10" ></RELATION>
+
+<RELATION theme="116654_3" party1="116654_4" party1_string="Grafft" theme_string="Grafft v. Maxwell et al" gram_type="infix" relation_type="asymmetric" id="116654_8" ></RELATION>
+
+<RELATION party2="116654_5" theme="116654_3" theme_string="Grafft v. Maxwell et al" party2_string="Maxwell et al" gram_type="infix" relation_type="asymmetric" id="116654_9" ></RELATION>
+

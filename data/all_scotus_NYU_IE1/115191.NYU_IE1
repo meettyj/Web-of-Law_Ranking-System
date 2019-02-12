@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['gachotlouisiana#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_980" id1="115193" volume="510" start="0" page_number="980" standard_reporter="U.S." citation_global_level_id="115.002" line="1" id="115191_1" citation_local_level_id="0" >510 U.S. 980</CITATION>
+
+<CITATION party2="Louisiana" party1="Gachot" citation_global_level_id="49303.001" party2_short="Louisiana" line="1" id="115191_3" alternative_keys="['u.s._510_980']" end="36" entry_type="party_key" lookup_key="gachotlouisiana#1" id1="115191" start="17" party1_short="Gachot" citation_local_level_id="1" >Gachot v. Louisiana</CITATION>
+
+<NAME end="23" start="17" party1_of="115191_3" all_names="GACHOT" local_name_id="1" id="115191_4" >Gachot</NAME>
+
+<NAME end="36" start="27" all_names="LOUISIANA" party2_of="115191_3" local_name_id="2" id="115191_5" >Louisiana</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="u.s._510_980" id1="115193" start="46" citation_global_level_id="115.002" line="1" id="115191_2" citation_local_level_id="0" >93-6135</DOCKET>
+
+<DATE start="95" end="112" id="115191_6" >November 15, 1993</DATE>
+
+<NAME start="197" local_name_id="3" end="207" id="115191_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="246" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_609_269" id1="Dummy_File_96185" volume="609" start="232" page_number="269" standard_reporter="SO.2D" citation_global_level_id="160035.001" line="3" id="115191_12" citation_local_level_id="2" >609 So. 2d 269</CITATION>
+
+<RELATION theme="115191_1" includes_docket_string="93-6135" includes_docket="115191_2" theme_string="510 U.S. 980" gram_type="apposition" relation_type="asymmetric" id="115191_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 980" X_vs_Y_string="Gachot v. Louisiana" standard_case="115191_1" X_vs_Y="115191_3" gram_type="pre_nom" relation_type="equivalence" id="115191_7" ></RELATION>
+
+<RELATION theme="115191_3" includes_docket_string="93-6135" includes_docket="115191_2" theme_string="Gachot v. Louisiana" gram_type="apposition" relation_type="asymmetric" id="115191_10" ></RELATION>
+
+<RELATION theme="115191_3" party1="115191_4" party1_string="Gachot" theme_string="Gachot v. Louisiana" gram_type="infix" relation_type="asymmetric" id="115191_8" ></RELATION>
+
+<RELATION party2="115191_5" theme="115191_3" theme_string="Gachot v. Louisiana" party2_string="Louisiana" gram_type="infix" relation_type="asymmetric" id="115191_9" ></RELATION>
+

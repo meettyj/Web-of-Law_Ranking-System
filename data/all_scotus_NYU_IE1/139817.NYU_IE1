@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['vandelftwashington#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_960" id1="139819" volume="543" start="0" page_number="960" standard_reporter="U.S." citation_global_level_id="4268.002" line="1" id="139817_1" citation_local_level_id="0" >543 U.S. 960</CITATION>
+
+<CITATION party2="WASHINGTON" party1="VANDELFT" citation_global_level_id="47242.001" party2_short="WASHINGTON" line="2" id="139817_2" alternative_keys="['u.s._543_960']" end="39" entry_type="party_key" lookup_key="vandelftwashington#1" id1="139817" start="17" party1_short="VANDELFT" citation_local_level_id="1" >VANDELFT v. WASHINGTON</CITATION>
+
+<NAME end="25" start="17" party1_of="139817_2" all_names="VANDELFT" local_name_id="1" id="139817_3" >VANDELFT</NAME>
+
+<NAME end="39" start="29" all_names="WASHINGTON" party2_of="139817_2" local_name_id="2" id="139817_4" >WASHINGTON</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="vandelftwashington#1" id1="139817" start="49" citation_global_level_id="47242.001" line="3" id="139817_7" citation_local_level_id="1" >04-5072</DOCKET>
+
+<ORGANIZATION start="62" end="92" id="139817_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="98" citation_global_level_id="47242.001" end="114" id="139817_9" citation_local_level_id="1" >November 1, 2004</DATE>
+
+<NAME start="136" local_name_id="3" end="138" id="139817_14" all_names="CT" >Ct</NAME>
+
+<CITATION end="205" reporter="Wash. App." entry_type="standard_key" no_current_file="True" lookup_key="wash.app._118_1071" id1="Dummy_File_208207" volume="118" start="186" page_number="1071" standard_reporter="WASH.APP." citation_global_level_id="272057.001" line="8" id="139817_13" citation_local_level_id="2" >118 Wash. App. 1071</CITATION>
+
+<RELATION theme="139817_2" party1="139817_3" party1_string="VANDELFT" theme_string="VANDELFT v. WASHINGTON" gram_type="infix" relation_type="asymmetric" id="139817_5" ></RELATION>
+
+<RELATION party2="139817_4" theme="139817_2" theme_string="VANDELFT v. WASHINGTON" party2_string="WASHINGTON" gram_type="infix" relation_type="asymmetric" id="139817_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 960" X_vs_Y_string="VANDELFT v. WASHINGTON" standard_case="139817_1" X_vs_Y="139817_2" gram_type="multi_line" relation_type="equivalence" id="139817_10" ></RELATION>
+
+<RELATION at_date_string="November 1, 2004" theme="139817_2" at_date="139817_9" theme_string="VANDELFT v. WASHINGTON" gram_type="multi_line" relation_type="asymmetric" id="139817_12" ></RELATION>
+
+<RELATION theme="139817_2" includes_docket_string="04-5072" includes_docket="139817_7" theme_string="VANDELFT v. WASHINGTON" gram_type="multi_line" relation_type="asymmetric" id="139817_11" ></RELATION>
+

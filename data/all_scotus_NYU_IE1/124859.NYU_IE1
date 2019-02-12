@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['taylorwithrow#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1007" id1="124853" volume="537" start="0" page_number="1007" standard_reporter="U.S." citation_global_level_id="12410.002" line="1" id="124859_1" citation_local_level_id="0" >537 U.S. 1007</CITATION>
+
+<CITATION party2="WITHROW, WARDEN" party1="TAYLOR" citation_global_level_id="12410.003" party2_short="WITHROW" line="1" id="124859_3" alternative_keys="['u.s._537_1007']" end="43" entry_type="party_key" lookup_key="taylorwithrow#1" id1="124853" start="18" party1_short="TAYLOR" citation_local_level_id="1" >TAYLOR v. WITHROW, WARDEN</CITATION>
+
+<NAME end="24" start="18" party1_of="124859_3" all_names="TAYLOR" local_name_id="1" id="124859_4" >TAYLOR</NAME>
+
+<NAME end="43" start="28" all_names="WITHROW WARDEN" party2_of="124859_3" local_name_id="2" id="124859_5" >WITHROW, WARDEN</NAME>
+
+<DOCKET end="60" entry_type="docket" lookup_key="u.s._537_1007" id1="124853" start="53" citation_global_level_id="12410.002" line="1" id="124859_2" citation_local_level_id="0" >02-6153</DOCKET>
+
+<DATE start="102" end="118" id="124859_6" >November 4, 2002</DATE>
+
+<NAME start="247" local_name_id="3" end="250" id="124859_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="300" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_288_846" id1="Dummy_File_41483" volume="288" start="287" page_number="846" standard_reporter="F.3D" citation_global_level_id="105333.001" line="3" id="124859_12" citation_local_level_id="2" >288 F. 3d 846</CITATION>
+
+<RELATION theme="124859_1" includes_docket_string="02-6153" includes_docket="124859_2" theme_string="537 U.S. 1007" gram_type="apposition" relation_type="asymmetric" id="124859_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1007" X_vs_Y_string="TAYLOR v. WITHROW, WARDEN" standard_case="124859_1" X_vs_Y="124859_3" gram_type="pre_nom" relation_type="equivalence" id="124859_7" ></RELATION>
+
+<RELATION theme="124859_3" includes_docket_string="02-6153" includes_docket="124859_2" theme_string="TAYLOR v. WITHROW, WARDEN" gram_type="apposition" relation_type="asymmetric" id="124859_10" ></RELATION>
+
+<RELATION theme="124859_3" party1="124859_4" party1_string="TAYLOR" theme_string="TAYLOR v. WITHROW, WARDEN" gram_type="infix" relation_type="asymmetric" id="124859_8" ></RELATION>
+
+<RELATION party2="124859_5" theme="124859_3" theme_string="TAYLOR v. WITHROW, WARDEN" party2_string="WITHROW, WARDEN" gram_type="infix" relation_type="asymmetric" id="124859_9" ></RELATION>
+

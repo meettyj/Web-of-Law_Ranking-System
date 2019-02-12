@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['cousinberry#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_826" id1="131473" volume="540" start="0" page_number="826" standard_reporter="U.S." citation_global_level_id="5421.002" line="1" id="131475_1" citation_local_level_id="0" >540 U.S. 826</CITATION>
+
+<CITATION party2="BERRY ET AL" party1="COUSIN" citation_global_level_id="44120.001" party2_short="BERRY" line="1" id="131475_3" alternative_keys="['u.s._540_826']" end="38" entry_type="party_key" lookup_key="cousinberry#1" id1="131475" start="17" party1_short="COUSIN" citation_local_level_id="1" >COUSIN v. BERRY ET AL</CITATION>
+
+<NAME end="23" start="17" party1_of="131475_3" all_names="COUSIN" local_name_id="1" id="131475_4" >COUSIN</NAME>
+
+<NAME end="38" start="27" all_names="BERRY" party2_of="131475_3" local_name_id="2" id="131475_5" >BERRY ET AL</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._540_826" id1="131473" start="48" citation_global_level_id="5421.002" line="1" id="131475_2" citation_local_level_id="0" >02-1862</DOCKET>
+
+<DATE start="51" end="55" id="131475_6" >1862</DATE>
+
+<DATE start="97" end="112" id="131475_7" >October 6, 2003</DATE>
+
+<NAME start="190" local_name_id="3" end="200" id="131475_15" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="238" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_325_627" id1="Dummy_File_40425" volume="325" start="225" page_number="627" standard_reporter="F.3D" citation_global_level_id="104275.001" line="3" id="131475_14" citation_local_level_id="2" >325 F. 3d 627</CITATION>
+
+<RELATION theme="131475_1" includes_docket_string="02-1862" includes_docket="131475_2" theme_string="540 U.S. 826" gram_type="apposition" relation_type="asymmetric" id="131475_12" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 826" X_vs_Y_string="COUSIN v. BERRY ET AL" standard_case="131475_1" X_vs_Y="131475_3" gram_type="pre_nom" relation_type="equivalence" id="131475_8" ></RELATION>
+
+<RELATION theme="131475_3" includes_docket_string="02-1862" includes_docket="131475_2" theme_string="COUSIN v. BERRY ET AL" gram_type="apposition" relation_type="asymmetric" id="131475_11" ></RELATION>
+
+<RELATION party2="131475_5" theme="131475_3" theme_string="COUSIN v. BERRY ET AL" party2_string="BERRY ET AL" gram_type="infix" relation_type="asymmetric" id="131475_10" ></RELATION>
+
+<RELATION theme="131475_3" party1="131475_4" party1_string="COUSIN" theme_string="COUSIN v. BERRY ET AL" gram_type="infix" relation_type="asymmetric" id="131475_9" ></RELATION>
+
+<RELATION at_date_string="1862" theme="131475_2" at_date="131475_6" theme_string="02-1862" gram_type="infix" relation_type="asymmetric" id="131475_13" ></RELATION>
+

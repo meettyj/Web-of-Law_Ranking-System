@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['etcalifornia#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_948" id1="135136" volume="541" start="0" page_number="948" standard_reporter="U.S." citation_global_level_id="11843.002" line="1" id="135131_1" citation_local_level_id="0" >541 U.S. 948</CITATION>
+
+<CITATION party2="CALIFORNIA" party1="BROWN ET AL." citation_global_level_id="11843.004" party2_short="CALIFORNIA" line="2" id="135131_2" alternative_keys="['u.s._541_948']" end="43" entry_type="party_key" lookup_key="etcalifornia#1" id1="135136" start="17" party1_short="ET" citation_local_level_id="1" >BROWN ET AL. v. CALIFORNIA</CITATION>
+
+<NAME end="29" start="17" party1_of="135131_2" all_names="BROWN" local_name_id="1" id="135131_3" >BROWN ET AL.</NAME>
+
+<NAME end="43" start="33" all_names="CALIFORNIA" party2_of="135131_2" local_name_id="2" id="135131_4" >CALIFORNIA</NAME>
+
+<DOCKET alternative_keys="['u.s._541_948']" end="60" entry_type="docket" lookup_key="etcalifornia#1" id1="135136" start="53" citation_global_level_id="11843.004" line="3" id="135131_7" citation_local_level_id="1" >03-8653</DOCKET>
+
+<ORGANIZATION start="66" end="96" id="135131_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="102" citation_global_level_id="11843.004" end="116" id="135131_9" citation_local_level_id="1" >March 22, 2004</DATE>
+
+<NAME start="138" local_name_id="3" end="140" id="135131_13" all_names="CT" >Ct</NAME>
+
+<RELATION theme="135131_2" party1="135131_3" party1_string="BROWN ET AL." theme_string="BROWN ET AL. v. CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="135131_5" ></RELATION>
+
+<RELATION party2="135131_4" theme="135131_2" theme_string="BROWN ET AL. v. CALIFORNIA" party2_string="CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="135131_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 948" X_vs_Y_string="BROWN ET AL. v. CALIFORNIA" standard_case="135131_1" X_vs_Y="135131_2" gram_type="multi_line" relation_type="equivalence" id="135131_10" ></RELATION>
+
+<RELATION at_date_string="March 22, 2004" theme="135131_2" at_date="135131_9" theme_string="BROWN ET AL. v. CALIFORNIA" gram_type="multi_line" relation_type="asymmetric" id="135131_12" ></RELATION>
+
+<RELATION theme="135131_2" includes_docket_string="03-8653" includes_docket="135131_7" theme_string="BROWN ET AL. v. CALIFORNIA" gram_type="multi_line" relation_type="asymmetric" id="135131_11" ></RELATION>
+

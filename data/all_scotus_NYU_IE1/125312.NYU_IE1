@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['muhammedcommission#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1043" id1="125313" volume="537" start="0" page_number="1043" standard_reporter="U.S." citation_global_level_id="3962.002" line="1" id="125312_1" citation_local_level_id="0" >537 U.S. 1043</CITATION>
+
+<CITATION party2="UNITED STATES PAROLE COMMISSION" party1="STOKES, AKA MUHAMMED" citation_global_level_id="3187.003" party2_short="COMMISSION" line="1" id="125312_3" alternative_keys="['u.s._543_975']" end="73" entry_type="party_key" lookup_key="muhammedcommission#1" id1="140006" start="18" party1_short="MUHAMMED" citation_local_level_id="1" >STOKES, AKA MUHAMMED v. UNITED STATES PAROLE COMMISSION</CITATION>
+
+<NAME end="38" start="18" party1_of="125312_3" all_names="STOKES AKA MUHAMMED" local_name_id="1" id="125312_4" >STOKES, AKA MUHAMMED</NAME>
+
+<NAME start="18" local_name_id="2" end="24" id="125312_7" all_names="STOKES" >STOKES</NAME>
+
+<NAME end="73" start="42" all_names="UNITED STATES PAROLE COMMISSION" party2_of="125312_3" local_name_id="3" id="125312_5" >UNITED STATES PAROLE COMMISSION</NAME>
+
+<DOCKET end="90" entry_type="docket" lookup_key="u.s._537_1043" id1="125313" start="83" citation_global_level_id="3962.002" line="1" id="125312_2" citation_local_level_id="0" >02-6980</DOCKET>
+
+<DATE start="132" end="148" id="125312_6" >December 2, 2002</DATE>
+
+<NAME start="268" local_name_id="4" end="283" id="125312_13" all_names="C A D C CIR" >C. A. D. C. Cir</NAME>
+
+<LEGAL_ROLE start="285" local_name_id="5" end="308" id="125312_14" name="C. A. D. C. Cir" >Motion of petitioner to</LEGAL_ROLE>
+
+<RELATION theme="125312_1" includes_docket_string="02-6980" includes_docket="125312_2" theme_string="537 U.S. 1043" gram_type="apposition" relation_type="asymmetric" id="125312_12" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1043" X_vs_Y_string="STOKES, AKA MUHAMMED v. UNITED STATES PAROLE COMMISSION" standard_case="125312_1" X_vs_Y="125312_3" gram_type="pre_nom" relation_type="equivalence" id="125312_8" ></RELATION>
+
+<RELATION theme="125312_3" includes_docket_string="02-6980" includes_docket="125312_2" theme_string="STOKES, AKA MUHAMMED v. UNITED STATES PAROLE COMMISSION" gram_type="apposition" relation_type="asymmetric" id="125312_11" ></RELATION>
+
+<RELATION party2="125312_5" theme="125312_3" theme_string="STOKES, AKA MUHAMMED v. UNITED STATES PAROLE COMMISSION" party2_string="UNITED STATES PAROLE COMMISSION" gram_type="infix" relation_type="asymmetric" id="125312_10" ></RELATION>
+
+<RELATION theme="125312_3" party1="125312_4" party1_string="STOKES, AKA MUHAMMED" theme_string="STOKES, AKA MUHAMMED v. UNITED STATES PAROLE COMMISSION" gram_type="infix" relation_type="asymmetric" id="125312_9" ></RELATION>
+
+<RELATION theme="125312_13" legal_role="125312_14" id="125312_15" theme_string="C. A. D. C. Cir" gram_type="apposition" relation_type="asymmetric" legal_role_string="Motion of petitioner to" ></RELATION>
+
+<NAME local_name_id="5" from="from_legal_role" name="C A D C CIR" >C A D C CIR</NAME>
+

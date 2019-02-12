@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['balderasstates#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_915" id1="132663" volume="540" start="0" page_number="915" standard_reporter="U.S." citation_global_level_id="6099.002" line="1" id="132664_1" citation_local_level_id="0" >540 U.S. 915</CITATION>
+
+<CITATION party2="UNITED STATES" party1="CARBALLO-BALDERAS" citation_global_level_id="12673.001" party2_short="STATES" line="1" id="132664_3" alternative_keys="['u.s._540_915']" end="51" entry_type="party_key" lookup_key="balderasstates#1" id1="139195" start="17" party1_short="BALDERAS" citation_local_level_id="1" >CARBALLO-BALDERAS v. UNITED STATES</CITATION>
+
+<NAME end="34" start="17" party1_of="132664_3" all_names="CARBALLO-BALDERAS" local_name_id="1" id="132664_5" >CARBALLO-BALDERAS</NAME>
+
+<NAME end="51" start="38" all_names="UNITED STATES" party2_of="132664_3" local_name_id="2" id="132664_6" >UNITED STATES</NAME>
+
+<CITATION party2="UNITED STATES" party1="SANCHEZ-CORTEZ" citation_global_level_id="43109.001" party2_short="STATES" line="1" id="132664_4" end="88" entry_type="party_key" lookup_key="cortezstates#5" id1="124036" start="57" party1_short="CORTEZ" citation_local_level_id="2" >SANCHEZ-CORTEZ v. UNITED STATES</CITATION>
+
+<NAME end="71" start="57" party1_of="132664_4" all_names="SANCHEZ-CORTEZ" local_name_id="3" id="132664_7" >SANCHEZ-CORTEZ</NAME>
+
+<NAME end="88" start="75" all_names="UNITED STATES" party2_of="132664_4" local_name_id="2" id="132664_8" >UNITED STATES</NAME>
+
+<DOCKET end="105" entry_type="docket" lookup_key="cortezstates#5" id1="124036" start="98" citation_global_level_id="43109.001" line="1" id="132664_2" citation_local_level_id="2" >03-5541</DOCKET>
+
+<DATE start="147" end="162" id="132664_9" >October 6, 2003</DATE>
+
+<NAME start="240" local_name_id="4" end="250" id="132664_16" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION standard_case_string="540 U.S. 915" X_vs_Y_string="CARBALLO-BALDERAS v. UNITED STATES" standard_case="132664_1" X_vs_Y="132664_3" gram_type="pre_nom" relation_type="equivalence" id="132664_10" ></RELATION>
+
+<RELATION theme="132664_3" party1="132664_5" party1_string="CARBALLO-BALDERAS" theme_string="CARBALLO-BALDERAS v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="132664_11" ></RELATION>
+
+<RELATION party2="132664_6" theme="132664_3" theme_string="CARBALLO-BALDERAS v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="132664_12" ></RELATION>
+
+<RELATION theme="132664_4" includes_docket_string="03-5541" includes_docket="132664_2" theme_string="SANCHEZ-CORTEZ v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="132664_15" ></RELATION>
+
+<RELATION theme="132664_4" party1="132664_7" party1_string="SANCHEZ-CORTEZ" theme_string="SANCHEZ-CORTEZ v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="132664_13" ></RELATION>
+
+<RELATION party2="132664_8" theme="132664_4" theme_string="SANCHEZ-CORTEZ v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="132664_14" ></RELATION>
+

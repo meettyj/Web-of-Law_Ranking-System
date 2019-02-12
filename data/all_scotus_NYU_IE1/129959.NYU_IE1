@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['millerbrownstein#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1057" id1="129961" volume="538" start="0" page_number="1057" standard_reporter="U.S." citation_global_level_id="1276.002" line="1" id="129959_1" citation_local_level_id="0" >538 U.S. 1057</CITATION>
+
+<CITATION party2="BROWNSTEIN ET AL" party1="MILLER" citation_global_level_id="46075.001" party2_short="BROWNSTEIN" line="1" id="129959_3" alternative_keys="['u.s._538_1057']" end="44" entry_type="party_key" lookup_key="millerbrownstein#1" id1="129959" start="18" party1_short="MILLER" citation_local_level_id="1" >MILLER v. BROWNSTEIN ET AL</CITATION>
+
+<NAME end="24" start="18" party1_of="129959_3" all_names="MILLER" local_name_id="1" id="129959_4" >MILLER</NAME>
+
+<NAME end="44" start="28" all_names="BROWNSTEIN" party2_of="129959_3" local_name_id="2" id="129959_5" >BROWNSTEIN ET AL</NAME>
+
+<DOCKET end="61" entry_type="docket" lookup_key="u.s._538_1057" id1="129961" start="54" citation_global_level_id="1276.002" line="1" id="129959_2" citation_local_level_id="0" >02-1398</DOCKET>
+
+<DATE start="103" end="115" id="129959_6" >May 27, 2003</DATE>
+
+<NAME start="255" local_name_id="3" end="258" id="129959_13" all_names="APP" >App</NAME>
+
+<CITATION end="361" reporter="N.Y.S.2d" entry_type="standard_key" no_current_file="True" lookup_key="n.y.s.2d_736_257" id1="Dummy_File_21702" volume="736" start="345" page_number="257" standard_reporter="N.Y.S.2D" citation_global_level_id="85552.001" line="3" id="129959_12" citation_local_level_id="2" >736 N.Y.S.2d 257</CITATION>
+
+<RELATION theme="129959_1" includes_docket_string="02-1398" includes_docket="129959_2" theme_string="538 U.S. 1057" gram_type="apposition" relation_type="asymmetric" id="129959_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1057" X_vs_Y_string="MILLER v. BROWNSTEIN ET AL" standard_case="129959_1" X_vs_Y="129959_3" gram_type="pre_nom" relation_type="equivalence" id="129959_7" ></RELATION>
+
+<RELATION theme="129959_3" includes_docket_string="02-1398" includes_docket="129959_2" theme_string="MILLER v. BROWNSTEIN ET AL" gram_type="apposition" relation_type="asymmetric" id="129959_10" ></RELATION>
+
+<RELATION theme="129959_3" party1="129959_4" party1_string="MILLER" theme_string="MILLER v. BROWNSTEIN ET AL" gram_type="infix" relation_type="asymmetric" id="129959_8" ></RELATION>
+
+<RELATION party2="129959_5" theme="129959_3" theme_string="MILLER v. BROWNSTEIN ET AL" party2_string="BROWNSTEIN ET AL" gram_type="infix" relation_type="asymmetric" id="129959_9" ></RELATION>
+

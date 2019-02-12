@@ -1,0 +1,52 @@
+<CITATION alternative_keys="['hightwilson#1', 'dall_1_94']" end="17" reporter="U.S." entry_type="standard_key" lookup_key="u.s._1_94" id1="2381620" volume="1" start="1" page_number="94" year="1784" standard_reporter="U.S." citation_global_level_id="40803.002" line="2" id="2381620_1" citation_local_level_id="0" >1 U.S. 94 (1784)</CITATION>
+
+<DATE start="12" citation_global_level_id="40803.002" end="16" id="2381620_2" citation_local_level_id="0" >1784</DATE>
+
+<CITATION alternative_keys="['u.s._1_94', 'hightwilson#1']" end="28" reporter="Dall" entry_type="standard_key" lookup_key="dall_1_94" id1="2381620" volume="1" start="18" page_number="94" standard_reporter="DALL" citation_global_level_id="40803.003" line="3" id="2381620_4" citation_local_level_id="1" >1 Dall. 94</CITATION>
+
+<CITATION party2="WILSON" party1="HIGHT" citation_global_level_id="40803.001" party2_short="WILSON" line="6" id="2381620_6" alternative_keys="['u.s._1_94', 'dall_1_94']" end="50" entry_type="party_key" lookup_key="hightwilson#1" id1="2381620" start="29" party1_short="HIGHT" citation_local_level_id="2" >HIGHT versus WILSON</CITATION>
+
+<NAME end="34" start="29" party1_of="2381620_6" all_names="HIGHT" local_name_id="1" id="2381620_7" >HIGHT</NAME>
+
+<NAME end="50" start="44" all_names="WILSON" party2_of="2381620_6" local_name_id="2" id="2381620_8" >WILSON</NAME>
+
+<ORGANIZATION start="52" end="82" id="2381620_11" >Supreme Court of United States</ORGANIZATION>
+
+<PROFESSION start="89" end="102" id="2381620_14" >CHIEF JUSTICE</PROFESSION>
+
+<NAME start="146" local_name_id="3" end="155" id="2381620_15" all_names="1ST THAT" >1st. That</NAME>
+
+<NAME start="219" local_name_id="4" end="231" id="2381620_16" all_names="COMMONWEALTH" >Commonwealth</NAME>
+
+<NAME start="474" local_name_id="5" end="479" id="2381620_17" all_names="NOTES" >NOTES</NAME>
+
+<NAME start="485" local_name_id="6" end="488" id="2381620_23" all_names="SEE" >See</NAME>
+
+<CITATION party2="Marks" party1="Lewis" end="532" party1_short="Lewis" no_current_file="True" entry_type="party_key" party1_role="appellant" lookup_key="lewismarks#1" id="2381620_18" start="494" citation_global_level_id="275211.001" party2_short="Marks" line="11" id1="Dummy_File_211361" party2_role="appellee" citation_local_level_id="3" >Lewis Appellant versus Marks, Appellee</CITATION>
+
+<LEGAL_ROLE start="494" end="509" id="2381620_24" >Lewis Appellant</LEGAL_ROLE>
+
+<NAME end="499" start="494" party1_of="2381620_18" all_names="LEWIS" local_name_id="7" id="2381620_19" >Lewis</NAME>
+
+<LEGAL_ROLE start="500" end="509" id="2381620_21" party="party1" >Appellant</LEGAL_ROLE>
+
+<LEGAL_ROLE start="517" end="532" id="2381620_25" >Marks, Appellee</LEGAL_ROLE>
+
+<NAME end="522" start="517" all_names="MARKS" party2_of="2381620_18" local_name_id="8" id="2381620_20" >Marks</NAME>
+
+<LEGAL_ROLE start="524" end="532" id="2381620_22" party="party2" >Appellee</LEGAL_ROLE>
+
+<RELATION at_date_string="1784" theme="2381620_1" at_date="2381620_2" theme_string="1 U.S. 94 (1784)" gram_type="infix" relation_type="asymmetric" id="2381620_3" ></RELATION>
+
+<RELATION party2="2381620_8" theme="2381620_6" theme_string="HIGHT  versus  WILSON" party2_string="WILSON" gram_type="infix" relation_type="asymmetric" id="2381620_10" ></RELATION>
+
+<RELATION theme="2381620_6" party1="2381620_7" party1_string="HIGHT" theme_string="HIGHT  versus  WILSON" gram_type="infix" relation_type="asymmetric" id="2381620_9" ></RELATION>
+
+<RELATION standard_case_string="1 U.S. 94 (1784)" X_vs_Y_string="HIGHT  versus  WILSON" standard_case="2381620_1" X_vs_Y="2381620_6" gram_type="multi_line" relation_type="equivalence" id="2381620_12" ></RELATION>
+
+<RELATION standard_case_string="1 Dall. 94" X_vs_Y_string="HIGHT  versus  WILSON" standard_case="2381620_4" X_vs_Y="2381620_6" gram_type="multi_line" relation_type="equivalence" id="2381620_13" ></RELATION>
+
+<RELATION theme="2381620_18" party1="2381620_19" party1_string="Lewis" theme_string="Lewis Appellant versus Marks, Appellee" gram_type="infix" relation_type="asymmetric" id="2381620_26" ></RELATION>
+
+<RELATION party2="2381620_20" theme="2381620_18" theme_string="Lewis Appellant versus Marks, Appellee" party2_string="Marks" gram_type="infix" relation_type="asymmetric" id="2381620_27" ></RELATION>
+

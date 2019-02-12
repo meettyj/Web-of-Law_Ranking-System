@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['liggettdepartment#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1179" id1="117433" volume="510" start="0" page_number="1179" standard_reporter="U.S." citation_global_level_id="7604.002" line="1" id="117437_1" citation_local_level_id="0" >510 U.S. 1179</CITATION>
+
+<CITATION party2="Department of Justice" party1="Liggett" citation_global_level_id="39690.001" party2_short="Department" line="1" id="117437_3" alternative_keys="['u.s._510_1179']" end="50" entry_type="party_key" lookup_key="liggettdepartment#1" id1="117437" start="18" party1_short="Liggett" citation_local_level_id="1" >Liggett v. Department of Justice</CITATION>
+
+<NAME end="25" start="18" party1_of="117437_3" all_names="LIGGETT" local_name_id="1" id="117437_4" >Liggett</NAME>
+
+<NAME end="50" start="29" all_names="DEPARTMENT OF JUSTICE" party2_of="117437_3" local_name_id="2" id="117437_5" >Department of Justice</NAME>
+
+<DOCKET end="67" entry_type="docket" lookup_key="u.s._510_1179" id1="117433" start="60" citation_global_level_id="7604.002" line="1" id="117437_2" citation_local_level_id="0" >93-6857</DOCKET>
+
+<DATE start="109" end="122" id="117437_6" >March 7, 1994</DATE>
+
+<NAME start="201" local_name_id="3" end="211" id="117437_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="247" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_6_787" id1="Dummy_File_45544" volume="6" start="236" page_number="787" standard_reporter="F.3D" citation_global_level_id="109394.001" line="3" id="117437_12" citation_local_level_id="2" >6 F. 3d 787</CITATION>
+
+<RELATION theme="117437_1" includes_docket_string="93-6857" includes_docket="117437_2" theme_string="510 U.S. 1179" gram_type="apposition" relation_type="asymmetric" id="117437_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1179" X_vs_Y_string="Liggett v. Department of Justice" standard_case="117437_1" X_vs_Y="117437_3" gram_type="pre_nom" relation_type="equivalence" id="117437_7" ></RELATION>
+
+<RELATION theme="117437_3" includes_docket_string="93-6857" includes_docket="117437_2" theme_string="Liggett v. Department of Justice" gram_type="apposition" relation_type="asymmetric" id="117437_10" ></RELATION>
+
+<RELATION theme="117437_3" party1="117437_4" party1_string="Liggett" theme_string="Liggett v. Department of Justice" gram_type="infix" relation_type="asymmetric" id="117437_8" ></RELATION>
+
+<RELATION party2="117437_5" theme="117437_3" theme_string="Liggett v. Department of Justice" party2_string="Department of Justice" gram_type="infix" relation_type="asymmetric" id="117437_9" ></RELATION>
+

@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['coburncourt#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_923" id1="143196" volume="544" start="0" page_number="923" standard_reporter="U.S." citation_global_level_id="2002.002" line="1" id="143195_1" citation_local_level_id="0" >544 U.S. 923</CITATION>
+
+<CITATION party2="CIRCUIT COURT OF MISSISSIPPI, WINSTON COUNTY" party1="COBURN ET AL." citation_global_level_id="2002.005" party2_short="COURT" line="2" id="143195_2" alternative_keys="['u.s._544_923']" end="78" entry_type="party_key" lookup_key="coburncourt#2" id1="143196" start="17" party1_short="COBURN" citation_local_level_id="1" >COBURN ET AL. v. CIRCUIT COURT OF MISSISSIPPI, WINSTON COUNTY</CITATION>
+
+<NAME end="30" start="17" party1_of="143195_2" all_names="COBURN" local_name_id="1" id="143195_3" >COBURN ET AL.</NAME>
+
+<NAME end="78" start="34" all_names="CIRCUIT COURT OF MISSISSIPPI WINSTON COUNTY" party2_of="143195_2" local_name_id="2" id="143195_4" >CIRCUIT COURT OF MISSISSIPPI, WINSTON COUNTY</NAME>
+
+<ORGANIZATION start="34" end="62" id="143195_5" >CIRCUIT COURT OF MISSISSIPPI</ORGANIZATION>
+
+<DOCKET alternative_keys="['u.s._544_923']" end="95" entry_type="docket" lookup_key="coburncourt#2" id1="143196" start="88" citation_global_level_id="2002.005" line="3" id="143195_8" citation_local_level_id="1" >04-1022</DOCKET>
+
+<ORGANIZATION start="101" end="131" id="143195_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="137" citation_global_level_id="2002.005" end="151" id="143195_10" citation_local_level_id="1" >March 21, 2005</DATE>
+
+<NAME start="173" local_name_id="3" end="176" id="143195_14" all_names="SUP" >Sup</NAME>
+
+<RELATION theme="143195_2" party1="143195_3" party1_string="COBURN ET AL." theme_string="COBURN ET AL. v. CIRCUIT COURT OF MISSISSIPPI, WINSTON COUNTY" gram_type="infix" relation_type="asymmetric" id="143195_6" ></RELATION>
+
+<RELATION party2="143195_4" theme="143195_2" theme_string="COBURN ET AL. v. CIRCUIT COURT OF MISSISSIPPI, WINSTON COUNTY" party2_string="CIRCUIT COURT OF MISSISSIPPI, WINSTON COUNTY" gram_type="infix" relation_type="asymmetric" id="143195_7" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 923" X_vs_Y_string="COBURN ET AL. v. CIRCUIT COURT OF MISSISSIPPI, WINSTON COUNTY" standard_case="143195_1" X_vs_Y="143195_2" gram_type="multi_line" relation_type="equivalence" id="143195_11" ></RELATION>
+
+<RELATION at_date_string="March 21, 2005" theme="143195_2" at_date="143195_10" theme_string="COBURN ET AL. v. CIRCUIT COURT OF MISSISSIPPI, WINSTON COUNTY" gram_type="multi_line" relation_type="asymmetric" id="143195_13" ></RELATION>
+
+<RELATION theme="143195_2" includes_docket_string="04-1022" includes_docket="143195_8" theme_string="COBURN ET AL. v. CIRCUIT COURT OF MISSISSIPPI, WINSTON COUNTY" gram_type="multi_line" relation_type="asymmetric" id="143195_12" ></RELATION>
+

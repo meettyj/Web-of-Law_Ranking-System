@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['hershipsstate#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1053" id1="116093" volume="510" start="0" page_number="1053" standard_reporter="U.S." citation_global_level_id="5816.002" line="1" id="116102_1" citation_local_level_id="0" >510 U.S. 1053</CITATION>
+
+<CITATION party2="State Bar of California et al" party1="Herships" citation_global_level_id="6226.001" party2_short="State" line="1" id="116102_3" alternative_keys="['u.s._510_1053']" end="59" entry_type="party_key" lookup_key="hershipsstate#1" id1="116102" start="18" party1_short="Herships" citation_local_level_id="1" >Herships v. State Bar of California et al</CITATION>
+
+<NAME end="26" start="18" party1_of="116102_3" all_names="HERSHIPS" local_name_id="1" id="116102_4" >Herships</NAME>
+
+<NAME end="59" start="30" all_names="STATE BAR OF CALIFORNIA" party2_of="116102_3" local_name_id="2" id="116102_5" >State Bar of California et al</NAME>
+
+<DOCKET end="76" entry_type="docket" lookup_key="u.s._510_1053" id1="116093" start="69" citation_global_level_id="5816.002" line="1" id="116102_2" citation_local_level_id="0" >93-6620</DOCKET>
+
+<DATE start="118" end="134" id="116102_6" >January 10, 1994</DATE>
+
+<NAME start="227" local_name_id="3" end="237" id="116102_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="116102_1" includes_docket_string="93-6620" includes_docket="116102_2" theme_string="510 U.S. 1053" gram_type="apposition" relation_type="asymmetric" id="116102_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1053" X_vs_Y_string="Herships v. State Bar of California et al" standard_case="116102_1" X_vs_Y="116102_3" gram_type="pre_nom" relation_type="equivalence" id="116102_7" ></RELATION>
+
+<RELATION theme="116102_3" includes_docket_string="93-6620" includes_docket="116102_2" theme_string="Herships v. State Bar of California et al" gram_type="apposition" relation_type="asymmetric" id="116102_10" ></RELATION>
+
+<RELATION theme="116102_3" party1="116102_4" party1_string="Herships" theme_string="Herships v. State Bar of California et al" gram_type="infix" relation_type="asymmetric" id="116102_8" ></RELATION>
+
+<RELATION party2="116102_5" theme="116102_3" theme_string="Herships v. State Bar of California et al" party2_string="State Bar of California et al" gram_type="infix" relation_type="asymmetric" id="116102_9" ></RELATION>
+

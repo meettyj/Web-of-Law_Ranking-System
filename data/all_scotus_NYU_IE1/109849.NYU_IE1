@@ -1,0 +1,40 @@
+<CITATION alternative_keys="['hearststates#1', 's.ct._98_1656', 'l.ed.2d_56_90']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._435_1000" id1="109849" volume="435" start="0" page_number="1000" standard_reporter="U.S." citation_global_level_id="36727.002" line="1" id="109849_1" citation_local_level_id="0" >435 U.S. 1000</CITATION>
+
+<CITATION alternative_keys="['u.s._435_1000', 'hearststates#1', 'l.ed.2d_56_90']" end="32" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._98_1656" id1="109849" volume="98" start="18" page_number="1656" standard_reporter="S.CT." citation_global_level_id="36727.003" line="1" id="109849_2" citation_local_level_id="1" >98 S. Ct. 1656</CITATION>
+
+<NAME start="21" local_name_id="1" end="26" id="109849_10" all_names="S CT" >S. Ct</NAME>
+
+<CITATION alternative_keys="['u.s._435_1000', 's.ct._98_1656', 'hearststates#1']" end="52" reporter="L. Ed. 2d" entry_type="standard_key" lookup_key="l.ed.2d_56_90" id1="109849" volume="56" start="37" page_number="90" standard_reporter="L.ED.2D" citation_global_level_id="36727.004" line="1" id="109849_3" citation_local_level_id="2" >56 L. Ed. 2d 90</CITATION>
+
+<CITATION party2="UNITED STATES" alternative_keys="['u.s._435_1000', 's.ct._98_1656', 'l.ed.2d_56_90']" party1="Patricia Campbell HEARST," end="111" party1_short="HEARST" entry_type="party_key" party1_role="petitioner" lookup_key="hearststates#1" id1="109849" start="57" citation_global_level_id="36727.001" party2_short="STATES" line="1" id="109849_5" citation_local_level_id="3" >Patricia Campbell HEARST, petitioner, v. UNITED STATES</CITATION>
+
+<NAME end="82" start="57" party1_of="109849_5" all_names="PATRICIA CAMPBELL HEARST" local_name_id="2" id="109849_6" >Patricia Campbell HEARST,</NAME>
+
+<LEGAL_ROLE start="83" end="93" id="109849_8" >petitioner</LEGAL_ROLE>
+
+<NAME end="111" start="98" all_names="UNITED STATES" party2_of="109849_5" local_name_id="3" id="109849_7" >UNITED STATES</NAME>
+
+<DOCKET end="127" entry_type="docket" lookup_key="hearststates#1" id1="109849" start="120" citation_global_level_id="36727.001" line="1" id="109849_4" citation_local_level_id="3" >77-1089</DOCKET>
+
+<DATE start="171" end="185" id="109849_9" >April 24, 1978</DATE>
+
+<NAME start="348" local_name_id="4" end="367" id="109849_18" all_names="MR JUSTICE BRENNAN" >Mr. Justice BRENNAN</NAME>
+
+<PROFESSION start="352" end="359" id="109849_19" >Justice</PROFESSION>
+
+<NAME start="412" local_name_id="5" end="424" id="109849_20" all_names="VII AND VIII" >VII and VIII</NAME>
+
+<RELATION standard_case_string="435 U.S. 1000" X_vs_Y_string="Patricia Campbell HEARST, petitioner, v. UNITED STATES" standard_case="109849_1" X_vs_Y="109849_5" gram_type="pre_nom" relation_type="equivalence" id="109849_12" ></RELATION>
+
+<RELATION standard_case_string="98 S. Ct. 1656" X_vs_Y_string="Patricia Campbell HEARST, petitioner, v. UNITED STATES" standard_case="109849_2" X_vs_Y="109849_5" gram_type="pre_nom" relation_type="equivalence" id="109849_13" ></RELATION>
+
+<RELATION standard_case_string="56 L. Ed. 2d 90" X_vs_Y_string="Patricia Campbell HEARST, petitioner, v. UNITED STATES" standard_case="109849_3" X_vs_Y="109849_5" gram_type="pre_nom" relation_type="equivalence" id="109849_11" ></RELATION>
+
+<RELATION theme="109849_5" includes_docket_string="77-1089" includes_docket="109849_4" theme_string="Patricia Campbell HEARST, petitioner, v. UNITED STATES" gram_type="pre_nom" relation_type="asymmetric" id="109849_16" ></RELATION>
+
+<RELATION theme="109849_5" party1="109849_6" party1_string="Patricia Campbell HEARST," theme_string="Patricia Campbell HEARST, petitioner, v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="109849_14" ></RELATION>
+
+<RELATION party2="109849_7" theme="109849_5" theme_string="Patricia Campbell HEARST, petitioner, v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="109849_15" ></RELATION>
+
+<RELATION at_date_string="April 24, 1978" theme="109849_4" at_date="109849_9" theme_string="77-1089" gram_type="pre_nom" relation_type="asymmetric" id="109849_17" ></RELATION>
+

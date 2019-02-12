@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['smithvirginia#3']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_905" id1="139125" volume="543" start="0" page_number="905" standard_reporter="U.S." citation_global_level_id="204.002" line="1" id="139131_1" citation_local_level_id="0" >543 U.S. 905</CITATION>
+
+<CITATION party2="VIRGINIA" party1="SMITH" citation_global_level_id="58664.001" party2_short="VIRGINIA" line="2" id="139131_3" alternative_keys="['u.s._543_905']" end="34" entry_type="party_key" lookup_key="smithvirginia#3" id1="144249" start="17" party1_short="SMITH" citation_local_level_id="1" >SMITH v. VIRGINIA</CITATION>
+
+<NAME end="22" start="17" party1_of="139131_3" all_names="SMITH" local_name_id="1" id="139131_4" >SMITH</NAME>
+
+<NAME end="34" start="26" all_names="VIRGINIA" party2_of="139131_3" local_name_id="2" id="139131_5" >VIRGINIA</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="smithvirginia#3" id1="144249" start="44" citation_global_level_id="58664.001" line="2" id="139131_2" citation_local_level_id="1" >04-5547</DOCKET>
+
+<ORGANIZATION start="57" end="87" id="139131_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="93" citation_global_level_id="58664.001" end="108" id="139131_10" citation_local_level_id="1" >October 4, 2004</DATE>
+
+<NAME start="130" local_name_id="3" end="133" id="139131_13" all_names="SUP" >Sup</NAME>
+
+<RELATION theme="139131_3" includes_docket_string="04-5547" includes_docket="139131_2" theme_string="SMITH v. VIRGINIA" gram_type="apposition" relation_type="asymmetric" id="139131_8" ></RELATION>
+
+<RELATION theme="139131_3" party1="139131_4" party1_string="SMITH" theme_string="SMITH v. VIRGINIA" gram_type="infix" relation_type="asymmetric" id="139131_6" ></RELATION>
+
+<RELATION party2="139131_5" theme="139131_3" theme_string="SMITH v. VIRGINIA" party2_string="VIRGINIA" gram_type="infix" relation_type="asymmetric" id="139131_7" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 905" X_vs_Y_string="SMITH v. VIRGINIA" standard_case="139131_1" X_vs_Y="139131_3" gram_type="multi_line" relation_type="equivalence" id="139131_11" ></RELATION>
+
+<RELATION at_date_string="October 4, 2004" theme="139131_3" at_date="139131_10" theme_string="SMITH v. VIRGINIA" gram_type="multi_line" relation_type="asymmetric" id="139131_12" ></RELATION>
+

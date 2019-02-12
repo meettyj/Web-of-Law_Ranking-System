@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['okaforstates#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_902" id1="123553" volume="537" start="0" page_number="902" standard_reporter="U.S." citation_global_level_id="2110.002" line="1" id="123559_1" citation_local_level_id="0" >537 U.S. 902</CITATION>
+
+<CITATION party2="UNITED STATES" party1="OKAFOR" citation_global_level_id="51786.001" party2_short="STATES" line="1" id="123559_3" alternative_keys="['u.s._537_902']" end="40" entry_type="party_key" lookup_key="okaforstates#2" id1="123559" start="17" party1_short="OKAFOR" citation_local_level_id="1" >OKAFOR v. UNITED STATES</CITATION>
+
+<NAME end="23" start="17" party1_of="123559_3" all_names="OKAFOR" local_name_id="1" id="123559_4" >OKAFOR</NAME>
+
+<NAME end="40" start="27" all_names="UNITED STATES" party2_of="123559_3" local_name_id="2" id="123559_5" >UNITED STATES</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._537_902" id1="123553" start="50" citation_global_level_id="2110.002" line="1" id="123559_2" citation_local_level_id="0" >02-5233</DOCKET>
+
+<DATE start="99" end="114" id="123559_6" >October 7, 2002</DATE>
+
+<NAME start="242" local_name_id="3" end="245" id="123559_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="123559_1" includes_docket_string="02-5233" includes_docket="123559_2" theme_string="537 U.S. 902" gram_type="apposition" relation_type="asymmetric" id="123559_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 902" X_vs_Y_string="OKAFOR v. UNITED STATES" standard_case="123559_1" X_vs_Y="123559_3" gram_type="pre_nom" relation_type="equivalence" id="123559_7" ></RELATION>
+
+<RELATION theme="123559_3" includes_docket_string="02-5233" includes_docket="123559_2" theme_string="OKAFOR v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="123559_10" ></RELATION>
+
+<RELATION theme="123559_3" party1="123559_4" party1_string="OKAFOR" theme_string="OKAFOR v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="123559_8" ></RELATION>
+
+<RELATION party2="123559_5" theme="123559_3" theme_string="OKAFOR v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="123559_9" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['huddlestonconnor#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1074" id1="141254" volume="543" start="0" page_number="1074" standard_reporter="U.S." citation_global_level_id="1032.002" line="1" id="141263_1" citation_local_level_id="0" >543 U.S. 1074</CITATION>
+
+<CITATION party2="CONNOR, WARDEN" party1="HUDDLESTON" citation_global_level_id="1032.003" party2_short="CONNOR" line="2" id="141263_2" alternative_keys="['u.s._543_1074']" end="46" entry_type="party_key" lookup_key="huddlestonconnor#1" id1="141254" start="18" party1_short="HUDDLESTON" citation_local_level_id="1" >HUDDLESTON v. CONNOR, WARDEN</CITATION>
+
+<NAME end="28" start="18" party1_of="141263_2" all_names="HUDDLESTON" local_name_id="1" id="141263_3" >HUDDLESTON</NAME>
+
+<NAME end="46" start="32" all_names="CONNOR WARDEN" party2_of="141263_2" local_name_id="2" id="141263_4" >CONNOR, WARDEN</NAME>
+
+<DOCKET alternative_keys="['u.s._543_1074']" end="63" entry_type="docket" lookup_key="huddlestonconnor#1" id1="141254" start="56" citation_global_level_id="1032.003" line="3" id="141263_7" citation_local_level_id="1" >04-7332</DOCKET>
+
+<ORGANIZATION start="69" end="99" id="141263_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="105" citation_global_level_id="1032.003" end="121" id="141263_9" citation_local_level_id="1" >January 10, 2005</DATE>
+
+<NAME start="154" local_name_id="3" end="157" id="141263_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="141263_2" party1="141263_3" party1_string="HUDDLESTON" theme_string="HUDDLESTON v. CONNOR, WARDEN" gram_type="infix" relation_type="asymmetric" id="141263_5" ></RELATION>
+
+<RELATION party2="141263_4" theme="141263_2" theme_string="HUDDLESTON v. CONNOR, WARDEN" party2_string="CONNOR, WARDEN" gram_type="infix" relation_type="asymmetric" id="141263_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1074" X_vs_Y_string="HUDDLESTON v. CONNOR, WARDEN" standard_case="141263_1" X_vs_Y="141263_2" gram_type="multi_line" relation_type="equivalence" id="141263_10" ></RELATION>
+
+<RELATION at_date_string="January 10, 2005" theme="141263_2" at_date="141263_9" theme_string="HUDDLESTON v. CONNOR, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="141263_12" ></RELATION>
+
+<RELATION theme="141263_2" includes_docket_string="04-7332" includes_docket="141263_7" theme_string="HUDDLESTON v. CONNOR, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="141263_11" ></RELATION>
+

@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['rodriguezgeorgia#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1046" id1="125345" volume="537" start="0" page_number="1046" standard_reporter="U.S." citation_global_level_id="1550.002" line="1" id="125354_1" citation_local_level_id="0" >537 U.S. 1046</CITATION>
+
+<CITATION party2="GEORGIA" party1="RODRIGUEZ" citation_global_level_id="24257.001" party2_short="GEORGIA" line="1" id="125354_3" alternative_keys="['u.s._537_1046']" end="38" entry_type="party_key" lookup_key="rodriguezgeorgia#1" id1="125354" start="18" party1_short="RODRIGUEZ" citation_local_level_id="1" >RODRIGUEZ v. GEORGIA</CITATION>
+
+<NAME end="27" start="18" party1_of="125354_3" all_names="RODRIGUEZ" local_name_id="1" id="125354_4" >RODRIGUEZ</NAME>
+
+<NAME end="38" start="31" all_names="GEORGIA" party2_of="125354_3" local_name_id="2" id="125354_5" >GEORGIA</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="u.s._537_1046" id1="125345" start="48" citation_global_level_id="1550.002" line="1" id="125354_2" citation_local_level_id="0" >02-486</DOCKET>
+
+<DATE start="96" end="112" id="125354_6" >December 2, 2002</DATE>
+
+<NAME start="203" local_name_id="3" end="206" id="125354_14" all_names="SUP" >Sup</NAME>
+
+<CITATION end="262" reporter="Ga." entry_type="standard_key" no_current_file="True" lookup_key="ga._275_283" id1="Dummy_File_26585" volume="275" start="251" page_number="283" standard_reporter="GA." citation_global_level_id="90435.001" line="3" id="125354_12" citation_local_level_id="2" >275 Ga. 283</CITATION>
+
+<CITATION end="280" reporter="S. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="s.e.2d_565_458" id1="Dummy_File_26586" volume="565" start="264" page_number="458" standard_reporter="S.E.2D" citation_global_level_id="90436.001" line="3" id="125354_13" citation_local_level_id="3" >565 S. E. 2d 458</CITATION>
+
+<RELATION theme="125354_1" includes_docket_string="02-486" includes_docket="125354_2" theme_string="537 U.S. 1046" gram_type="apposition" relation_type="asymmetric" id="125354_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1046" X_vs_Y_string="RODRIGUEZ v. GEORGIA" standard_case="125354_1" X_vs_Y="125354_3" gram_type="pre_nom" relation_type="equivalence" id="125354_7" ></RELATION>
+
+<RELATION theme="125354_3" includes_docket_string="02-486" includes_docket="125354_2" theme_string="RODRIGUEZ v. GEORGIA" gram_type="apposition" relation_type="asymmetric" id="125354_10" ></RELATION>
+
+<RELATION theme="125354_3" party1="125354_4" party1_string="RODRIGUEZ" theme_string="RODRIGUEZ v. GEORGIA" gram_type="infix" relation_type="asymmetric" id="125354_8" ></RELATION>
+
+<RELATION party2="125354_5" theme="125354_3" theme_string="RODRIGUEZ v. GEORGIA" party2_string="GEORGIA" gram_type="infix" relation_type="asymmetric" id="125354_9" ></RELATION>
+

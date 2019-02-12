@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['cobbsduncan#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_1058" id1="136495" volume="541" start="0" page_number="1058" standard_reporter="U.S." citation_global_level_id="221.002" line="1" id="136500_1" citation_local_level_id="0" >541 U.S. 1058</CITATION>
+
+<CITATION party2="DUNCAN, WARDEN" party1="COBBS" citation_global_level_id="9439.003" party2_short="DUNCAN" line="2" id="136500_2" alternative_keys="['u.s._541_908']" end="41" entry_type="party_key" lookup_key="cobbsduncan#1" id1="134852" start="18" party1_short="COBBS" citation_local_level_id="1" >COBBS v. DUNCAN, WARDEN</CITATION>
+
+<NAME end="23" start="18" party1_of="136500_2" all_names="COBBS" local_name_id="1" id="136500_3" >COBBS</NAME>
+
+<NAME end="41" start="27" all_names="DUNCAN WARDEN" party2_of="136500_2" local_name_id="2" id="136500_4" >DUNCAN, WARDEN</NAME>
+
+<DOCKET alternative_keys="['u.s._541_908']" end="58" entry_type="docket" lookup_key="cobbsduncan#1" id1="134852" start="51" citation_global_level_id="9439.003" line="3" id="136500_7" citation_local_level_id="1" >03-8243</DOCKET>
+
+<ORGANIZATION start="64" end="94" id="136500_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="100" citation_global_level_id="9439.003" end="112" id="136500_9" citation_local_level_id="1" >May 17, 2004</DATE>
+
+<NAME start="148" local_name_id="3" end="157" id="136500_13" all_names="PETITIONS" >Petitions</NAME>
+
+<RELATION theme="136500_2" party1="136500_3" party1_string="COBBS" theme_string="COBBS v. DUNCAN, WARDEN" gram_type="infix" relation_type="asymmetric" id="136500_5" ></RELATION>
+
+<RELATION party2="136500_4" theme="136500_2" theme_string="COBBS v. DUNCAN, WARDEN" party2_string="DUNCAN, WARDEN" gram_type="infix" relation_type="asymmetric" id="136500_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 1058" X_vs_Y_string="COBBS v. DUNCAN, WARDEN" standard_case="136500_1" X_vs_Y="136500_2" gram_type="multi_line" relation_type="equivalence" id="136500_10" ></RELATION>
+
+<RELATION at_date_string="May 17, 2004" theme="136500_2" at_date="136500_9" theme_string="COBBS v. DUNCAN, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="136500_12" ></RELATION>
+
+<RELATION theme="136500_2" includes_docket_string="03-8243" includes_docket="136500_7" theme_string="COBBS v. DUNCAN, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="136500_11" ></RELATION>
+

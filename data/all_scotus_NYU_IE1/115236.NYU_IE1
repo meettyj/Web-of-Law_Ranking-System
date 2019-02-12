@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['alfordhuffman#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_983" id1="115234" volume="510" start="0" page_number="983" standard_reporter="U.S." citation_global_level_id="108.002" line="1" id="115236_1" citation_local_level_id="0" >510 U.S. 983</CITATION>
+
+<CITATION party2="Huffman et al" party1="Alford" citation_global_level_id="16550.001" party2_short="Huffman" line="1" id="115236_3" alternative_keys="['u.s._510_983']" end="40" entry_type="party_key" lookup_key="alfordhuffman#1" id1="115236" start="17" party1_short="Alford" citation_local_level_id="1" >Alford v. Huffman et al</CITATION>
+
+<NAME end="23" start="17" party1_of="115236_3" all_names="ALFORD" local_name_id="1" id="115236_4" >Alford</NAME>
+
+<NAME end="40" start="27" all_names="HUFFMAN" party2_of="115236_3" local_name_id="2" id="115236_5" >Huffman et al</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._510_983" id1="115234" start="50" citation_global_level_id="108.002" line="1" id="115236_2" citation_local_level_id="0" >93-6339</DOCKET>
+
+<DATE start="99" end="116" id="115236_6" >November 15, 1993</DATE>
+
+<NAME start="194" local_name_id="3" end="204" id="115236_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="243" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_996_1223" id1="Dummy_File_78140" volume="996" start="229" page_number="1223" standard_reporter="F.2D" citation_global_level_id="141990.001" line="3" id="115236_12" citation_local_level_id="2" >996 F. 2d 1223</CITATION>
+
+<RELATION theme="115236_1" includes_docket_string="93-6339" includes_docket="115236_2" theme_string="510 U.S. 983" gram_type="apposition" relation_type="asymmetric" id="115236_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 983" X_vs_Y_string="Alford v. Huffman et al" standard_case="115236_1" X_vs_Y="115236_3" gram_type="pre_nom" relation_type="equivalence" id="115236_7" ></RELATION>
+
+<RELATION theme="115236_3" includes_docket_string="93-6339" includes_docket="115236_2" theme_string="Alford v. Huffman et al" gram_type="apposition" relation_type="asymmetric" id="115236_10" ></RELATION>
+
+<RELATION theme="115236_3" party1="115236_4" party1_string="Alford" theme_string="Alford v. Huffman et al" gram_type="infix" relation_type="asymmetric" id="115236_8" ></RELATION>
+
+<RELATION party2="115236_5" theme="115236_3" theme_string="Alford v. Huffman et al" party2_string="Huffman et al" gram_type="infix" relation_type="asymmetric" id="115236_9" ></RELATION>
+

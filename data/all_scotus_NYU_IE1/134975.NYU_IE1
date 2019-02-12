@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['desouzauniversity#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_936" id1="134967" volume="541" start="0" page_number="936" standard_reporter="U.S." citation_global_level_id="2471.002" line="1" id="134975_1" citation_local_level_id="0" >541 U.S. 936</CITATION>
+
+<CITATION party2="UNIVERSITY OF CALIFORNIA, DAVIS MEDICAL CENTER, ET AL" party1="DESOUZA" citation_global_level_id="2471.003" party2_short="UNIVERSITY" line="2" id="134975_2" alternative_keys="['u.s._541_936']" end="81" entry_type="party_key" lookup_key="desouzauniversity#2" id1="134967" start="17" party1_short="DESOUZA" citation_local_level_id="1" >DESOUZA v. UNIVERSITY OF CALIFORNIA, DAVIS MEDICAL CENTER, ET AL</CITATION>
+
+<NAME end="24" start="17" party1_of="134975_2" all_names="DESOUZA" local_name_id="1" id="134975_3" >DESOUZA</NAME>
+
+<NAME end="81" start="28" all_names="UNIVERSITY OF CALIFORNIA DAVIS MEDICAL CENTER" party2_of="134975_2" local_name_id="2" id="134975_4" >UNIVERSITY OF CALIFORNIA, DAVIS MEDICAL CENTER, ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._541_936']" end="98" entry_type="docket" lookup_key="desouzauniversity#2" id1="134967" start="91" citation_global_level_id="2471.003" line="3" id="134975_7" citation_local_level_id="1" >03-1002</DOCKET>
+
+<ORGANIZATION start="104" end="134" id="134975_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="140" citation_global_level_id="2471.003" end="154" id="134975_9" citation_local_level_id="1" >March 22, 2004</DATE>
+
+<NAME start="176" local_name_id="3" end="178" id="134975_13" all_names="CT" >Ct</NAME>
+
+<RELATION theme="134975_2" party1="134975_3" party1_string="DESOUZA" theme_string="DESOUZA v. UNIVERSITY OF CALIFORNIA, DAVIS MEDICAL CENTER, ET AL" gram_type="infix" relation_type="asymmetric" id="134975_5" ></RELATION>
+
+<RELATION party2="134975_4" theme="134975_2" theme_string="DESOUZA v. UNIVERSITY OF CALIFORNIA, DAVIS MEDICAL CENTER, ET AL" party2_string="UNIVERSITY OF CALIFORNIA, DAVIS MEDICAL CENTER, ET AL" gram_type="infix" relation_type="asymmetric" id="134975_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 936" X_vs_Y_string="DESOUZA v. UNIVERSITY OF CALIFORNIA, DAVIS MEDICAL CENTER, ET AL" standard_case="134975_1" X_vs_Y="134975_2" gram_type="multi_line" relation_type="equivalence" id="134975_10" ></RELATION>
+
+<RELATION at_date_string="March 22, 2004" theme="134975_2" at_date="134975_9" theme_string="DESOUZA v. UNIVERSITY OF CALIFORNIA, DAVIS MEDICAL CENTER, ET AL" gram_type="multi_line" relation_type="asymmetric" id="134975_12" ></RELATION>
+
+<RELATION theme="134975_2" includes_docket_string="03-1002" includes_docket="134975_7" theme_string="DESOUZA v. UNIVERSITY OF CALIFORNIA, DAVIS MEDICAL CENTER, ET AL" gram_type="multi_line" relation_type="asymmetric" id="134975_11" ></RELATION>
+

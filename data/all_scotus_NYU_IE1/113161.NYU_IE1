@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['erricoflorida#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_823" id1="113153" volume="510" start="0" page_number="823" standard_reporter="U.S." citation_global_level_id="4678.002" line="1" id="113161_1" citation_local_level_id="0" >510 U.S. 823</CITATION>
+
+<CITATION party2="Florida" party1="Errico" citation_global_level_id="15757.001" party2_short="Florida" line="1" id="113161_3" alternative_keys="['u.s._510_823']" end="34" entry_type="party_key" lookup_key="erricoflorida#1" id1="113161" start="17" party1_short="Errico" citation_local_level_id="1" >Errico v. Florida</CITATION>
+
+<NAME end="23" start="17" party1_of="113161_3" all_names="ERRICO" local_name_id="1" id="113161_4" >Errico</NAME>
+
+<NAME end="34" start="27" all_names="FLORIDA" party2_of="113161_3" local_name_id="2" id="113161_5" >Florida</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="u.s._510_823" id1="113153" start="44" citation_global_level_id="4678.002" line="1" id="113161_2" citation_local_level_id="0" >92-1966</DOCKET>
+
+<DATE start="47" end="51" id="113161_6" >1966</DATE>
+
+<DATE start="93" end="108" id="113161_7" >October 4, 1993</DATE>
+
+<NAME start="202" local_name_id="3" end="212" id="113161_15" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="251" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_608_930" id1="Dummy_File_197395" volume="608" start="237" page_number="930" standard_reporter="SO.2D" citation_global_level_id="261245.001" line="3" id="113161_14" citation_local_level_id="2" >608 So. 2d 930</CITATION>
+
+<RELATION theme="113161_1" includes_docket_string="92-1966" includes_docket="113161_2" theme_string="510 U.S. 823" gram_type="apposition" relation_type="asymmetric" id="113161_12" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 823" X_vs_Y_string="Errico v. Florida" standard_case="113161_1" X_vs_Y="113161_3" gram_type="pre_nom" relation_type="equivalence" id="113161_8" ></RELATION>
+
+<RELATION theme="113161_3" includes_docket_string="92-1966" includes_docket="113161_2" theme_string="Errico v. Florida" gram_type="apposition" relation_type="asymmetric" id="113161_11" ></RELATION>
+
+<RELATION party2="113161_5" theme="113161_3" theme_string="Errico v. Florida" party2_string="Florida" gram_type="infix" relation_type="asymmetric" id="113161_10" ></RELATION>
+
+<RELATION theme="113161_3" party1="113161_4" party1_string="Errico" theme_string="Errico v. Florida" gram_type="infix" relation_type="asymmetric" id="113161_9" ></RELATION>
+
+<RELATION at_date_string="1966" theme="113161_2" at_date="113161_6" theme_string="92-1966" gram_type="infix" relation_type="asymmetric" id="113161_13" ></RELATION>
+

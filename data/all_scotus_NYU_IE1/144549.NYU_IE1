@@ -1,0 +1,46 @@
+<CITATION alternative_keys="['floridarabb#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_1028" id1="144550" volume="544" start="0" page_number="1028" standard_reporter="U.S." citation_global_level_id="24982.002" line="1" id="144549_1" citation_local_level_id="0" >544 U.S. 1028</CITATION>
+
+<CITATION party2="RABB" party1="FLORIDA" citation_global_level_id="26052.001" party2_short="RABB" line="2" id="144549_2" alternative_keys="['u.s._544_1028']" end="33" entry_type="party_key" lookup_key="floridarabb#2" id1="144549" start="18" party1_short="FLORIDA" citation_local_level_id="1" >FLORIDA v. RABB</CITATION>
+
+<NAME end="25" start="18" party1_of="144549_2" all_names="FLORIDA" local_name_id="1" id="144549_3" >FLORIDA</NAME>
+
+<NAME end="33" start="29" all_names="RABB" party2_of="144549_2" local_name_id="2" id="144549_4" >RABB</NAME>
+
+<DOCKET end="49" entry_type="docket" lookup_key="floridarabb#2" id1="144549" start="43" citation_global_level_id="26052.001" line="3" id="144549_7" citation_local_level_id="1" >04-914</DOCKET>
+
+<ORGANIZATION start="55" end="85" id="144549_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="91" citation_global_level_id="26052.001" end="103" id="144549_9" citation_local_level_id="1" >May 16, 2005</DATE>
+
+<NAME start="125" local_name_id="3" end="129" id="144549_19" all_names="DIST" >Dist</NAME>
+
+<CITATION party2="Caballes" party1="Illinois" citation_global_level_id="55982.001" party2_short="Caballes" line="8" id="144549_15" alternative_keys="['u.s._543_405']" end="270" entry_type="party_key" lookup_key="illinoiscaballes#4" id1="135444" start="250" party1_short="Illinois" citation_local_level_id="2" >Illinois v. Caballes</CITATION>
+
+<NAME end="258" start="250" party1_of="144549_15" all_names="ILLINOIS" local_name_id="4" id="144549_16" >Illinois</NAME>
+
+<NAME end="270" start="262" all_names="CABALLES" party2_of="144549_15" local_name_id="5" id="144549_17" >Caballes</NAME>
+
+<CITATION alternative_keys="['illinoiscaballes#4']" end="291" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_405" id1="137742" volume="543" start="272" page_number="405" year="2005" standard_reporter="U.S." citation_global_level_id="21047.002" line="8" id="144549_13" citation_local_level_id="3" >543 U.S. 405 (2005)</CITATION>
+
+<DATE start="286" citation_global_level_id="21047.002" end="290" id="144549_18" citation_local_level_id="3" >2005</DATE>
+
+<CITATION end="323" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_881_587" id1="Dummy_File_209127" volume="881" start="309" page_number="587" standard_reporter="SO.2D" citation_global_level_id="272977.001" line="8" id="144549_14" citation_local_level_id="4" >881 So. 2d 587</CITATION>
+
+<RELATION theme="144549_2" party1="144549_3" party1_string="FLORIDA" theme_string="FLORIDA v. RABB" gram_type="infix" relation_type="asymmetric" id="144549_5" ></RELATION>
+
+<RELATION party2="144549_4" theme="144549_2" theme_string="FLORIDA v. RABB" party2_string="RABB" gram_type="infix" relation_type="asymmetric" id="144549_6" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 1028" X_vs_Y_string="FLORIDA v. RABB" standard_case="144549_1" X_vs_Y="144549_2" gram_type="multi_line" relation_type="equivalence" id="144549_10" ></RELATION>
+
+<RELATION at_date_string="May 16, 2005" theme="144549_2" at_date="144549_9" theme_string="FLORIDA v. RABB" gram_type="multi_line" relation_type="asymmetric" id="144549_12" ></RELATION>
+
+<RELATION theme="144549_2" includes_docket_string="04-914" includes_docket="144549_7" theme_string="FLORIDA v. RABB" gram_type="multi_line" relation_type="asymmetric" id="144549_11" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 405 (2005)" X_vs_Y_string="Illinois v. Caballes" standard_case="144549_13" X_vs_Y="144549_15" gram_type="apposition" relation_type="equivalence" id="144549_22" ></RELATION>
+
+<RELATION theme="144549_15" party1="144549_16" party1_string="Illinois" theme_string="Illinois v. Caballes" gram_type="infix" relation_type="asymmetric" id="144549_20" ></RELATION>
+
+<RELATION party2="144549_17" theme="144549_15" theme_string="Illinois v. Caballes" party2_string="Caballes" gram_type="infix" relation_type="asymmetric" id="144549_21" ></RELATION>
+
+<RELATION at_date_string="2005" theme="144549_13" at_date="144549_18" theme_string="543 U.S. 405 (2005)" gram_type="infix" relation_type="asymmetric" id="144549_23" ></RELATION>
+

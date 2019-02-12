@@ -1,0 +1,38 @@
+<CITATION alternative_keys="['beachemvirginia#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1039" id1="115918" volume="510" start="0" page_number="1039" standard_reporter="U.S." citation_global_level_id="9516.002" line="1" id="115916_1" citation_local_level_id="0" >510 U.S. 1039</CITATION>
+
+<CITATION party2="Virginia" party1="Beachem" citation_global_level_id="50020.001" party2_short="Virginia" line="1" id="115916_3" alternative_keys="['u.s._510_1039']" end="37" entry_type="party_key" lookup_key="beachemvirginia#2" id1="116949" start="18" party1_short="Beachem" citation_local_level_id="1" >Beachem v. Virginia</CITATION>
+
+<NAME end="25" start="18" party1_of="115916_3" all_names="BEACHEM" local_name_id="1" id="115916_4" >Beachem</NAME>
+
+<NAME end="37" start="29" all_names="VIRGINIA" party2_of="115916_3" local_name_id="2" id="115916_5" >Virginia</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="u.s._510_1039" id1="115918" start="47" citation_global_level_id="9516.002" line="1" id="115916_2" citation_local_level_id="0" >93-7074</DOCKET>
+
+<DATE start="96" end="112" id="115916_6" >January 10, 1994</DATE>
+
+<LEGAL_ROLE start="190" end="210" id="115916_16" >Motion of petitioner</LEGAL_ROLE>
+
+<DOCKET entry_type="docket" line="3" end="256" id="115916_12" start="249" >93-5418</DOCKET>
+
+<CITATION party2="Farley, Superintendent, Indiana State Prison, et al. [certiorari" party1="Reed" citation_global_level_id="50240.001" party2_short="Farley" line="3" id="115916_13" end="330" entry_type="party_key" lookup_key="reedfarley#1" id1="117860" start="258" party1_short="Reed" citation_local_level_id="2" >Reed v. Farley, Superintendent, Indiana State Prison, et al. [certiorari</CITATION>
+
+<NAME end="262" start="258" party1_of="115916_13" all_names="REED" local_name_id="3" id="115916_14" >Reed</NAME>
+
+<NAME end="330" start="266" all_names="FARLEY SUPERINTENDENT INDIANA STATE PRISON [CERTIORARI" party2_of="115916_13" local_name_id="4" id="115916_15" >Farley, Superintendent, Indiana State Prison, et al. [certiorari</NAME>
+
+<RELATION theme="115916_1" includes_docket_string="93-7074" includes_docket="115916_2" theme_string="510 U.S. 1039" gram_type="apposition" relation_type="asymmetric" id="115916_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1039" X_vs_Y_string="Beachem v. Virginia" standard_case="115916_1" X_vs_Y="115916_3" gram_type="pre_nom" relation_type="equivalence" id="115916_7" ></RELATION>
+
+<RELATION theme="115916_3" includes_docket_string="93-7074" includes_docket="115916_2" theme_string="Beachem v. Virginia" gram_type="apposition" relation_type="asymmetric" id="115916_10" ></RELATION>
+
+<RELATION theme="115916_3" party1="115916_4" party1_string="Beachem" theme_string="Beachem v. Virginia" gram_type="infix" relation_type="asymmetric" id="115916_8" ></RELATION>
+
+<RELATION party2="115916_5" theme="115916_3" theme_string="Beachem v. Virginia" party2_string="Virginia" gram_type="infix" relation_type="asymmetric" id="115916_9" ></RELATION>
+
+<RELATION theme="115916_13" includes_docket_string="93-5418" includes_docket="115916_12" theme_string="Reed v. Farley, Superintendent, Indiana State Prison, et al. [certiorari" gram_type="pre_nom" relation_type="asymmetric" id="115916_17" ></RELATION>
+
+<RELATION theme="115916_13" party1="115916_14" party1_string="Reed" theme_string="Reed v. Farley, Superintendent, Indiana State Prison, et al. [certiorari" gram_type="infix" relation_type="asymmetric" id="115916_18" ></RELATION>
+
+<RELATION party2="115916_15" theme="115916_13" theme_string="Reed v. Farley, Superintendent, Indiana State Prison, et al. [certiorari" party2_string="Farley, Superintendent, Indiana State Prison, et al. [certiorari" gram_type="infix" relation_type="asymmetric" id="115916_19" ></RELATION>
+

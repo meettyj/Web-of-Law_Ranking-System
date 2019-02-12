@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['larsoncalifornia#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1121" id1="126330" volume="537" start="0" page_number="1121" standard_reporter="U.S." citation_global_level_id="7959.002" line="1" id="126331_1" citation_local_level_id="0" >537 U.S. 1121</CITATION>
+
+<CITATION party2="CALIFORNIA" party1="LARSON" citation_global_level_id="58256.001" party2_short="CALIFORNIA" line="1" id="126331_3" alternative_keys="['u.s._537_1121']" end="38" entry_type="party_key" lookup_key="larsoncalifornia#1" id1="126331" start="18" party1_short="LARSON" citation_local_level_id="1" >LARSON v. CALIFORNIA</CITATION>
+
+<NAME end="24" start="18" party1_of="126331_3" all_names="LARSON" local_name_id="1" id="126331_4" >LARSON</NAME>
+
+<NAME end="38" start="28" all_names="CALIFORNIA" party2_of="126331_3" local_name_id="2" id="126331_5" >CALIFORNIA</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._537_1121" id1="126330" start="48" citation_global_level_id="7959.002" line="1" id="126331_2" citation_local_level_id="0" >02-7159</DOCKET>
+
+<DATE start="97" end="113" id="126331_6" >January 13, 2003</DATE>
+
+<NAME start="244" local_name_id="3" end="246" id="126331_12" all_names="CT" >Ct</NAME>
+
+<RELATION theme="126331_1" includes_docket_string="02-7159" includes_docket="126331_2" theme_string="537 U.S. 1121" gram_type="apposition" relation_type="asymmetric" id="126331_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1121" X_vs_Y_string="LARSON v. CALIFORNIA" standard_case="126331_1" X_vs_Y="126331_3" gram_type="pre_nom" relation_type="equivalence" id="126331_7" ></RELATION>
+
+<RELATION theme="126331_3" includes_docket_string="02-7159" includes_docket="126331_2" theme_string="LARSON v. CALIFORNIA" gram_type="apposition" relation_type="asymmetric" id="126331_10" ></RELATION>
+
+<RELATION theme="126331_3" party1="126331_4" party1_string="LARSON" theme_string="LARSON v. CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="126331_8" ></RELATION>
+
+<RELATION party2="126331_5" theme="126331_3" theme_string="LARSON v. CALIFORNIA" party2_string="CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="126331_9" ></RELATION>
+

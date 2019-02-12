@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['cookvirginia#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1067" id1="141174" volume="543" start="0" page_number="1067" standard_reporter="U.S." citation_global_level_id="2957.002" line="3" id="141174_2" citation_local_level_id="0" >543 U.S. 1067</CITATION>
+
+<CITATION party2="VIRGINIA" party1="COOK" citation_global_level_id="2957.001" party2_short="VIRGINIA" line="3" id="141174_4" alternative_keys="['u.s._543_1067']" end="34" entry_type="party_key" lookup_key="cookvirginia#1" id1="141174" start="18" party1_short="COOK" citation_local_level_id="1" >COOK v. VIRGINIA</CITATION>
+
+<NAME end="22" start="18" party1_of="141174_4" all_names="COOK" local_name_id="1" id="141174_5" >COOK</NAME>
+
+<NAME end="34" start="26" all_names="VIRGINIA" party2_of="141174_4" local_name_id="2" id="141174_6" >VIRGINIA</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="u.s._543_1067" id1="141174" start="44" citation_global_level_id="2957.002" line="3" id="141174_3" citation_local_level_id="0" >04-7088</DOCKET>
+
+<DATE start="93" end="109" id="141174_12" >January 10, 2005</DATE>
+
+<NAME start="141" local_name_id="3" end="144" id="141174_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="141174_2" includes_docket_string="04-7088" includes_docket="141174_3" theme_string="543 U.S. 1067" gram_type="apposition" relation_type="asymmetric" id="141174_11" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1067" X_vs_Y_string="COOK v. VIRGINIA" standard_case="141174_2" X_vs_Y="141174_4" gram_type="pre_nom" relation_type="equivalence" id="141174_7" ></RELATION>
+
+<RELATION theme="141174_4" includes_docket_string="04-7088" includes_docket="141174_3" theme_string="COOK v. VIRGINIA" gram_type="apposition" relation_type="asymmetric" id="141174_10" ></RELATION>
+
+<RELATION theme="141174_4" party1="141174_5" party1_string="COOK" theme_string="COOK v. VIRGINIA" gram_type="infix" relation_type="asymmetric" id="141174_8" ></RELATION>
+
+<RELATION party2="141174_6" theme="141174_4" theme_string="COOK v. VIRGINIA" party2_string="VIRGINIA" gram_type="infix" relation_type="asymmetric" id="141174_9" ></RELATION>
+

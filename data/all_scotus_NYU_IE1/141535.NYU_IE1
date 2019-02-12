@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['hortonallen#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1093" id1="141527" volume="543" start="0" page_number="1093" standard_reporter="U.S." citation_global_level_id="8221.002" line="1" id="141535_1" citation_local_level_id="0" >543 U.S. 1093</CITATION>
+
+<CITATION party2="ALLEN, SUPERINTENDENT, STATE CORRECTIONAL INSTITUTION AT CEDAR JUNCTION, ET AL" party1="HORTON" citation_global_level_id="8221.003" party2_short="ALLEN" line="2" id="141535_2" alternative_keys="['u.s._543_1093']" end="106" entry_type="party_key" lookup_key="hortonallen#1" id1="141527" start="18" party1_short="HORTON" citation_local_level_id="1" >HORTON v. ALLEN, SUPERINTENDENT, STATE CORRECTIONAL INSTITUTION AT CEDAR JUNCTION, ET AL</CITATION>
+
+<NAME end="24" start="18" party1_of="141535_2" all_names="HORTON" local_name_id="1" id="141535_3" >HORTON</NAME>
+
+<NAME end="106" start="28" all_names="ALLEN SUPERINTENDENT STATE CORRECTIONAL INSTITUTION AT CEDAR JUNCTION" party2_of="141535_2" local_name_id="2" id="141535_4" >ALLEN, SUPERINTENDENT, STATE CORRECTIONAL INSTITUTION AT CEDAR JUNCTION, ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._543_1093']" end="123" entry_type="docket" lookup_key="hortonallen#1" id1="141527" start="116" citation_global_level_id="8221.003" line="3" id="141535_7" citation_local_level_id="1" >04-7278</DOCKET>
+
+<ORGANIZATION start="129" end="159" id="141535_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="165" citation_global_level_id="8221.003" end="181" id="141535_9" citation_local_level_id="1" >January 18, 2005</DATE>
+
+<NAME start="203" local_name_id="3" end="216" id="141535_14" all_names="C A 1ST CIR" >C. A. 1st Cir</NAME>
+
+<NAME start="218" local_name_id="4" end="228" id="141535_15" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="265" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_370_75" id1="Dummy_File_37901" volume="370" start="253" page_number="75" standard_reporter="F.3D" citation_global_level_id="101751.001" line="8" id="141535_13" citation_local_level_id="2" >370 F. 3d 75</CITATION>
+
+<RELATION theme="141535_2" party1="141535_3" party1_string="HORTON" theme_string="HORTON v. ALLEN, SUPERINTENDENT, STATE CORRECTIONAL INSTITUTION AT CEDAR JUNCTION, ET AL" gram_type="infix" relation_type="asymmetric" id="141535_5" ></RELATION>
+
+<RELATION party2="141535_4" theme="141535_2" theme_string="HORTON v. ALLEN, SUPERINTENDENT, STATE CORRECTIONAL INSTITUTION AT CEDAR JUNCTION, ET AL" party2_string="ALLEN, SUPERINTENDENT, STATE CORRECTIONAL INSTITUTION AT CEDAR JUNCTION, ET AL" gram_type="infix" relation_type="asymmetric" id="141535_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1093" X_vs_Y_string="HORTON v. ALLEN, SUPERINTENDENT, STATE CORRECTIONAL INSTITUTION AT CEDAR JUNCTION, ET AL" standard_case="141535_1" X_vs_Y="141535_2" gram_type="multi_line" relation_type="equivalence" id="141535_10" ></RELATION>
+
+<RELATION at_date_string="January 18, 2005" theme="141535_2" at_date="141535_9" theme_string="HORTON v. ALLEN, SUPERINTENDENT, STATE CORRECTIONAL INSTITUTION AT CEDAR JUNCTION, ET AL" gram_type="multi_line" relation_type="asymmetric" id="141535_12" ></RELATION>
+
+<RELATION theme="141535_2" includes_docket_string="04-7278" includes_docket="141535_7" theme_string="HORTON v. ALLEN, SUPERINTENDENT, STATE CORRECTIONAL INSTITUTION AT CEDAR JUNCTION, ET AL" gram_type="multi_line" relation_type="asymmetric" id="141535_11" ></RELATION>
+

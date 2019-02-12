@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['krajewskiwisconsin#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1089" id1="125908" volume="537" start="0" page_number="1089" standard_reporter="U.S." citation_global_level_id="2489.002" line="1" id="125908_1" citation_local_level_id="0" >537 U.S. 1089</CITATION>
+
+<CITATION party2="WISCONSIN" party1="KRAJEWSKI" citation_global_level_id="2489.001" party2_short="WISCONSIN" line="1" id="125908_3" alternative_keys="['u.s._537_1089']" end="40" entry_type="party_key" lookup_key="krajewskiwisconsin#1" id1="125908" start="18" party1_short="KRAJEWSKI" citation_local_level_id="1" >KRAJEWSKI v. WISCONSIN</CITATION>
+
+<NAME end="27" start="18" party1_of="125908_3" all_names="KRAJEWSKI" local_name_id="1" id="125908_4" >KRAJEWSKI</NAME>
+
+<NAME end="40" start="31" all_names="WISCONSIN" party2_of="125908_3" local_name_id="2" id="125908_5" >WISCONSIN</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._537_1089" id1="125908" start="50" citation_global_level_id="2489.002" line="1" id="125908_2" citation_local_level_id="0" >02-719</DOCKET>
+
+<DATE start="98" end="115" id="125908_6" >December 16, 2002</DATE>
+
+<NAME start="208" local_name_id="3" end="211" id="125908_13" all_names="SUP" >Sup</NAME>
+
+<CITATION end="289" reporter="N. W. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.w.2d_648_385" id1="Dummy_File_119980" volume="648" start="273" page_number="385" standard_reporter="N.W.2D" citation_global_level_id="183830.001" line="3" id="125908_12" citation_local_level_id="2" >648 N. W. 2d 385</CITATION>
+
+<RELATION theme="125908_1" includes_docket_string="02-719" includes_docket="125908_2" theme_string="537 U.S. 1089" gram_type="apposition" relation_type="asymmetric" id="125908_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1089" X_vs_Y_string="KRAJEWSKI v. WISCONSIN" standard_case="125908_1" X_vs_Y="125908_3" gram_type="pre_nom" relation_type="equivalence" id="125908_7" ></RELATION>
+
+<RELATION theme="125908_3" includes_docket_string="02-719" includes_docket="125908_2" theme_string="KRAJEWSKI v. WISCONSIN" gram_type="apposition" relation_type="asymmetric" id="125908_10" ></RELATION>
+
+<RELATION theme="125908_3" party1="125908_4" party1_string="KRAJEWSKI" theme_string="KRAJEWSKI v. WISCONSIN" gram_type="infix" relation_type="asymmetric" id="125908_8" ></RELATION>
+
+<RELATION party2="125908_5" theme="125908_3" theme_string="KRAJEWSKI v. WISCONSIN" party2_string="WISCONSIN" gram_type="infix" relation_type="asymmetric" id="125908_9" ></RELATION>
+

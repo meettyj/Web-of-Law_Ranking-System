@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['thompsoncolorado#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1077" id1="120585" volume="535" start="0" page_number="1077" standard_reporter="U.S." citation_global_level_id="447.002" line="1" id="120578_1" citation_local_level_id="0" >535 U.S. 1077</CITATION>
+
+<CITATION party2="COLORADO ET AL" party1="THOMPSON ET AL." citation_global_level_id="34612.001" party2_short="COLORADO" line="2" id="120578_2" alternative_keys="['u.s._535_1077']" end="51" entry_type="party_key" lookup_key="thompsoncolorado#1" id1="120578" start="18" party1_short="THOMPSON" citation_local_level_id="1" >THOMPSON ET AL. v. COLORADO ET AL</CITATION>
+
+<NAME end="33" start="18" party1_of="120578_2" all_names="THOMPSON" local_name_id="1" id="120578_3" >THOMPSON ET AL.</NAME>
+
+<NAME end="51" start="37" all_names="COLORADO" party2_of="120578_2" local_name_id="2" id="120578_4" >COLORADO ET AL</NAME>
+
+<DOCKET end="68" entry_type="docket" lookup_key="thompsoncolorado#1" id1="120578" start="61" citation_global_level_id="34612.001" line="3" id="120578_7" citation_local_level_id="1" >01-1024</DOCKET>
+
+<DATE start="114" citation_global_level_id="34612.001" end="126" id="120578_8" citation_local_level_id="1" >May 20, 2002</DATE>
+
+<NAME start="159" local_name_id="3" end="162" id="120578_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="213" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_278_1020" id1="Dummy_File_182089" volume="278" start="199" page_number="1020" standard_reporter="F.3D" citation_global_level_id="245939.001" line="8" id="120578_12" citation_local_level_id="2" >278 F. 3d 1020</CITATION>
+
+<RELATION theme="120578_2" party1="120578_3" party1_string="THOMPSON ET AL." theme_string="THOMPSON ET AL. v. COLORADO ET AL" gram_type="infix" relation_type="asymmetric" id="120578_5" ></RELATION>
+
+<RELATION party2="120578_4" theme="120578_2" theme_string="THOMPSON ET AL. v. COLORADO ET AL" party2_string="COLORADO ET AL" gram_type="infix" relation_type="asymmetric" id="120578_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1077" X_vs_Y_string="THOMPSON ET AL. v. COLORADO ET AL" standard_case="120578_1" X_vs_Y="120578_2" gram_type="multi_line" relation_type="equivalence" id="120578_9" ></RELATION>
+
+<RELATION at_date_string="May 20, 2002" theme="120578_2" at_date="120578_8" theme_string="THOMPSON ET AL. v. COLORADO ET AL" gram_type="multi_line" relation_type="asymmetric" id="120578_11" ></RELATION>
+
+<RELATION theme="120578_2" includes_docket_string="01-1024" includes_docket="120578_7" theme_string="THOMPSON ET AL. v. COLORADO ET AL" gram_type="multi_line" relation_type="asymmetric" id="120578_10" ></RELATION>
+

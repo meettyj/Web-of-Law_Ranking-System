@@ -1,0 +1,40 @@
+<CITATION alternative_keys="['softwarecommunications#2', 'u.s._549_1096']" end="22" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._127_836" id1="1862380" volume="127" start="1" page_number="836" year="2006" standard_reporter="S.CT." citation_global_level_id="7473.002" line="2" id="1862380_1" citation_local_level_id="0" >127 S. Ct. 836 (2006)</CITATION>
+
+<DATE start="17" citation_global_level_id="7473.002" end="21" id="1862380_2" citation_local_level_id="0" >2006</DATE>
+
+<CITATION alternative_keys="['s.ct._127_836', 'softwarecommunications#2']" end="36" reporter="U.S." entry_type="standard_key" lookup_key="u.s._549_1096" id1="1862380" volume="549" start="23" page_number="1096" standard_reporter="U.S." citation_global_level_id="7473.003" line="3" id="1862380_4" citation_local_level_id="1" >549 U.S. 1096</CITATION>
+
+<CITATION party2="M2 COMMUNICATIONS, INC" alternative_keys="['u.s._549_1096', 's.ct._127_836']" party1="M2 SOFTWARE, INC.," end="95" party1_short="SOFTWARE" entry_type="party_key" party1_role="petitioner" lookup_key="softwarecommunications#2" id1="1862380" start="37" citation_global_level_id="7473.004" party2_short="COMMUNICATIONS" line="6" id="1862380_8" citation_local_level_id="2" >M2 SOFTWARE, INC., petitioner, v. M2 COMMUNICATIONS, INC</CITATION>
+
+<NAME end="55" start="37" party1_of="1862380_8" all_names="M2 SOFTWARE INC" local_name_id="1" id="1862380_9" >M2 SOFTWARE, INC.,</NAME>
+
+<ORGANIZATION start="37" end="53" id="1862380_12" >M2 SOFTWARE, INC</ORGANIZATION>
+
+<LEGAL_ROLE start="56" end="66" id="1862380_11" >petitioner</LEGAL_ROLE>
+
+<NAME end="95" start="73" all_names="M2 COMMUNICATIONS INC" party2_of="1862380_8" local_name_id="2" id="1862380_10" >M2 COMMUNICATIONS, INC</NAME>
+
+<DOCKET alternative_keys="['u.s._549_1096', 's.ct._127_836']" end="107" entry_type="docket" lookup_key="softwarecommunications#2" id1="1862380" start="101" citation_global_level_id="7473.004" line="7" id="1862380_15" citation_local_level_id="2" >06-515</DOCKET>
+
+<ORGANIZATION start="109" end="139" id="1862380_16" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="141" citation_global_level_id="7473.004" end="158" id="1862380_17" citation_local_level_id="2" >December 11, 2006</DATE>
+
+<NAME start="160" local_name_id="3" end="168" id="1862380_18" all_names="PETITION" >Petition</NAME>
+
+<ORGANIZATION start="199" end="253" id="1862380_19" >United States Court of Appeals for the Federal Circuit</ORGANIZATION>
+
+<RELATION at_date_string="2006" theme="1862380_1" at_date="1862380_2" theme_string="127 S. Ct. 836 (2006)" gram_type="infix" relation_type="asymmetric" id="1862380_3" ></RELATION>
+
+<RELATION theme="1862380_8" party1="1862380_9" party1_string="M2 SOFTWARE, INC.," theme_string="M2 SOFTWARE, INC., petitioner,  v.  M2 COMMUNICATIONS, INC" gram_type="infix" relation_type="asymmetric" id="1862380_13" ></RELATION>
+
+<RELATION party2="1862380_10" theme="1862380_8" theme_string="M2 SOFTWARE, INC., petitioner,  v.  M2 COMMUNICATIONS, INC" party2_string="M2 COMMUNICATIONS, INC" gram_type="infix" relation_type="asymmetric" id="1862380_14" ></RELATION>
+
+<RELATION standard_case_string="127 S. Ct. 836 (2006)" X_vs_Y_string="M2 SOFTWARE, INC., petitioner,  v.  M2 COMMUNICATIONS, INC" standard_case="1862380_1" X_vs_Y="1862380_8" gram_type="multi_line" relation_type="equivalence" id="1862380_20" ></RELATION>
+
+<RELATION standard_case_string="549 U.S. 1096" X_vs_Y_string="M2 SOFTWARE, INC., petitioner,  v.  M2 COMMUNICATIONS, INC" standard_case="1862380_4" X_vs_Y="1862380_8" gram_type="multi_line" relation_type="equivalence" id="1862380_21" ></RELATION>
+
+<RELATION at_date_string="December 11, 2006" theme="1862380_8" at_date="1862380_17" theme_string="M2 SOFTWARE, INC., petitioner,  v.  M2 COMMUNICATIONS, INC" gram_type="multi_line" relation_type="asymmetric" id="1862380_23" ></RELATION>
+
+<RELATION theme="1862380_8" includes_docket_string="06-515" includes_docket="1862380_15" theme_string="M2 SOFTWARE, INC., petitioner,  v.  M2 COMMUNICATIONS, INC" gram_type="multi_line" relation_type="asymmetric" id="1862380_22" ></RELATION>
+

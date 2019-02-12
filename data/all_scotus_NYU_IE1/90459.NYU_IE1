@@ -1,0 +1,62 @@
+<CITATION alternative_keys="['sagewyncoop#1']" end="20" reporter="U.S." entry_type="standard_key" lookup_key="u.s._104_319" id1="90459" volume="104" start="1" page_number="319" standard_reporter="U.S." citation_global_level_id="37538.002" line="2" id="90459_1" citation_local_level_id="0" >104 U.S. 319 (____)</CITATION>
+
+<CITATION party2="WYNCOOP" party1="SAGE" citation_global_level_id="37538.001" party2_short="WYNCOOP" line="5" id="90459_3" alternative_keys="['u.s._104_319']" end="38" entry_type="party_key" lookup_key="sagewyncoop#1" id1="90459" start="21" party1_short="SAGE" citation_local_level_id="1" >SAGE v. WYNCOOP</CITATION>
+
+<NAME end="25" start="21" party1_of="90459_3" all_names="SAGE	GARDNER SAGE" local_name_id="1" id="90459_4" >SAGE</NAME>
+
+<NAME end="38" start="31" all_names="WYNCOOP" party2_of="90459_3" local_name_id="2" id="90459_5" >WYNCOOP</NAME>
+
+<ORGANIZATION start="40" end="70" id="90459_8" >Supreme Court of United States</ORGANIZATION>
+
+<LEGAL_ROLE start="101" end="142" id="90459_10" >Mr. Aaron J. Vanderpoel for the appellant</LEGAL_ROLE>
+
+<LEGAL_ROLE start="151" end="189" id="90459_11" >Mr. George N. Kennedy for the appellee</LEGAL_ROLE>
+
+<NAME start="191" local_name_id="3" end="193" id="90459_12" all_names="MR" >MR</NAME>
+
+<LEGAL_ROLE start="325" end="334" id="90459_13" party="party1" >appellant</LEGAL_ROLE>
+
+<LEGAL_ROLE start="468" end="477" id="90459_14" party="party1" >appellant</LEGAL_ROLE>
+
+<CITATION party2="City Bank" party1="Wilson" citation_global_level_id="44629.001" party2_short="Bank" line="11" id="90459_16" alternative_keys="['wall._17_473']" end="570" entry_type="party_key" lookup_key="wilsonbank#1" id1="88759" start="551" party1_short="Wilson" citation_local_level_id="2" >Wilson v. City Bank</CITATION>
+
+<NAME end="557" start="551" party1_of="90459_16" all_names="WILSON" local_name_id="4" id="90459_17" >Wilson</NAME>
+
+<NAME end="570" start="561" all_names="CITY BANK" party2_of="90459_16" local_name_id="5" id="90459_18" >City Bank</NAME>
+
+<CITATION alternative_keys="['wilsonbank#1']" end="589" paragraph_number="487" reporter="Wall." entry_type="standard_key" lookup_key="wall._17_473" id1="88759" volume="17" start="572" page_number="473" standard_reporter="WALL." citation_global_level_id="44629.003" line="11" id="90459_15" citation_local_level_id="3" >17 Wall. 473, 487</CITATION>
+
+<FAMILY start="912" end="915" id="90459_19" >son</FAMILY>
+
+<LEGAL_ROLE start="929" end="951" id="90459_20" >agent of the appellant</LEGAL_ROLE>
+
+<NAME start="1008" local_name_id="6" end="1014" id="90459_21" all_names="EUROPE" >Europe</NAME>
+
+<PROFESSION start="1031" end="1039" id="90459_22" >attorney</PROFESSION>
+
+<NAME start="1162" local_name_id="1" end="1174" id="90459_23" all_names="SAGE	GARDNER SAGE" >Gardner Sage</NAME>
+
+<PROFESSION start="1181" end="1187" id="90459_24" >client</PROFESSION>
+
+<PROFESSION start="1435" end="1442" id="90459_25" >sheriff</PROFESSION>
+
+<PROFESSION start="1524" end="1529" id="90459_26" >clerk</PROFESSION>
+
+<ORGANIZATION start="1546" end="1551" id="90459_27" >court</ORGANIZATION>
+
+<PROFESSION start="1640" end="1647" id="90459_28" >sheriff</PROFESSION>
+
+<NAME start="2023" local_name_id="7" end="2029" id="90459_32" all_names="DECREE" >Decree</NAME>
+
+<RELATION theme="90459_3" party1="90459_4" party1_string="SAGE" theme_string="SAGE  v.  WYNCOOP" gram_type="infix" relation_type="asymmetric" id="90459_6" ></RELATION>
+
+<RELATION party2="90459_5" theme="90459_3" theme_string="SAGE  v.  WYNCOOP" party2_string="WYNCOOP" gram_type="infix" relation_type="asymmetric" id="90459_7" ></RELATION>
+
+<RELATION standard_case_string="104 U.S. 319 (____)" X_vs_Y_string="SAGE  v.  WYNCOOP" standard_case="90459_1" X_vs_Y="90459_3" gram_type="multi_line" relation_type="equivalence" id="90459_9" ></RELATION>
+
+<RELATION standard_case_string="17 Wall. 473, 487" X_vs_Y_string="Wilson v. City Bank" standard_case="90459_15" X_vs_Y="90459_16" gram_type="apposition" relation_type="equivalence" id="90459_31" ></RELATION>
+
+<RELATION theme="90459_16" party1="90459_17" party1_string="Wilson" theme_string="Wilson v. City Bank" gram_type="infix" relation_type="asymmetric" id="90459_29" ></RELATION>
+
+<RELATION party2="90459_18" theme="90459_16" theme_string="Wilson v. City Bank" party2_string="City Bank" gram_type="infix" relation_type="asymmetric" id="90459_30" ></RELATION>
+

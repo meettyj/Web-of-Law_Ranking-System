@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['gaithergomez#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_903" id1="123575" volume="537" start="0" page_number="903" standard_reporter="U.S." citation_global_level_id="119.002" line="1" id="123574_1" citation_local_level_id="0" >537 U.S. 903</CITATION>
+
+<CITATION party2="GOMEZ ET AL" party1="GAITHER" citation_global_level_id="26322.001" party2_short="GOMEZ" line="1" id="123574_3" alternative_keys="['u.s._537_903']" end="39" entry_type="party_key" lookup_key="gaithergomez#1" id1="123574" start="17" party1_short="GAITHER" citation_local_level_id="1" >GAITHER v. GOMEZ ET AL</CITATION>
+
+<NAME end="24" start="17" party1_of="123574_3" all_names="GAITHER" local_name_id="1" id="123574_4" >GAITHER</NAME>
+
+<NAME end="39" start="28" all_names="GOMEZ" party2_of="123574_3" local_name_id="2" id="123574_5" >GOMEZ ET AL</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._537_903" id1="123575" start="49" citation_global_level_id="119.002" line="1" id="123574_2" citation_local_level_id="0" >02-5245</DOCKET>
+
+<DATE start="98" end="113" id="123574_6" >October 7, 2002</DATE>
+
+<NAME start="242" local_name_id="3" end="245" id="123574_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="123574_1" includes_docket_string="02-5245" includes_docket="123574_2" theme_string="537 U.S. 903" gram_type="apposition" relation_type="asymmetric" id="123574_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 903" X_vs_Y_string="GAITHER v. GOMEZ ET AL" standard_case="123574_1" X_vs_Y="123574_3" gram_type="pre_nom" relation_type="equivalence" id="123574_7" ></RELATION>
+
+<RELATION theme="123574_3" includes_docket_string="02-5245" includes_docket="123574_2" theme_string="GAITHER v. GOMEZ ET AL" gram_type="apposition" relation_type="asymmetric" id="123574_10" ></RELATION>
+
+<RELATION theme="123574_3" party1="123574_4" party1_string="GAITHER" theme_string="GAITHER v. GOMEZ ET AL" gram_type="infix" relation_type="asymmetric" id="123574_8" ></RELATION>
+
+<RELATION party2="123574_5" theme="123574_3" theme_string="GAITHER v. GOMEZ ET AL" party2_string="GOMEZ ET AL" gram_type="infix" relation_type="asymmetric" id="123574_9" ></RELATION>
+

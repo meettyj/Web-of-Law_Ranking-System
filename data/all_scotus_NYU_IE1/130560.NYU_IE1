@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['conleycalifornia#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_933" id1="130561" volume="539" start="0" page_number="933" standard_reporter="U.S." citation_global_level_id="389.002" line="1" id="130560_1" citation_local_level_id="0" >539 U.S. 933</CITATION>
+
+<CITATION party2="California" party1="Conley" citation_global_level_id="21656.001" party2_short="California" line="1" id="130560_3" alternative_keys="['u.s._539_933']" end="37" entry_type="party_key" lookup_key="conleycalifornia#1" id1="130560" start="17" party1_short="Conley" citation_local_level_id="1" >Conley v. California</CITATION>
+
+<NAME end="23" start="17" party1_of="130560_3" all_names="CONLEY" local_name_id="1" id="130560_4" >Conley</NAME>
+
+<NAME end="37" start="27" all_names="CALIFORNIA" party2_of="130560_3" local_name_id="2" id="130560_5" >California</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._539_933" id1="130561" start="47" citation_global_level_id="389.002" line="1" id="130560_2" citation_local_level_id="0" >02-10387</DOCKET>
+
+<DATE start="97" end="110" id="130560_6" >June 16, 2003</DATE>
+
+<NAME start="202" local_name_id="3" end="212" id="130560_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="130560_1" includes_docket_string="02-10387" includes_docket="130560_2" theme_string="539 U.S. 933" gram_type="apposition" relation_type="asymmetric" id="130560_11" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 933" X_vs_Y_string="Conley v. California" standard_case="130560_1" X_vs_Y="130560_3" gram_type="pre_nom" relation_type="equivalence" id="130560_7" ></RELATION>
+
+<RELATION theme="130560_3" includes_docket_string="02-10387" includes_docket="130560_2" theme_string="Conley v. California" gram_type="apposition" relation_type="asymmetric" id="130560_10" ></RELATION>
+
+<RELATION theme="130560_3" party1="130560_4" party1_string="Conley" theme_string="Conley v. California" gram_type="infix" relation_type="asymmetric" id="130560_8" ></RELATION>
+
+<RELATION party2="130560_5" theme="130560_3" theme_string="Conley v. California" party2_string="California" gram_type="infix" relation_type="asymmetric" id="130560_9" ></RELATION>
+

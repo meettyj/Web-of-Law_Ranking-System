@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['companyhuth#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1233" id1="127724" volume="537" start="0" page_number="1233" standard_reporter="U.S." citation_global_level_id="8471.002" line="1" id="127716_1" citation_local_level_id="0" >537 U.S. 1233</CITATION>
+
+<CITATION party2="HUTH" party1="HARTFORD INSURANCE COMPANY OF THE MIDWEST" citation_global_level_id="9315.001" party2_short="HUTH" line="1" id="127716_3" alternative_keys="['u.s._537_1233']" end="67" entry_type="party_key" lookup_key="companyhuth#1" id1="127716" start="18" party1_short="COMPANY" citation_local_level_id="1" >HARTFORD INSURANCE COMPANY OF THE MIDWEST v. HUTH</CITATION>
+
+<NAME end="59" start="18" party1_of="127716_3" all_names="HARTFORD INSURANCE COMPANY OF THE MIDWEST" local_name_id="1" id="127716_4" >HARTFORD INSURANCE COMPANY OF THE MIDWEST</NAME>
+
+<NAME end="67" start="63" all_names="HUTH" party2_of="127716_3" local_name_id="2" id="127716_5" >HUTH</NAME>
+
+<DOCKET end="83" entry_type="docket" lookup_key="u.s._537_1233" id1="127724" start="77" citation_global_level_id="8471.002" line="1" id="127716_2" citation_local_level_id="0" >02-988</DOCKET>
+
+<DATE start="125" end="138" id="127716_6" >March 3, 2003</DATE>
+
+<NAME start="267" local_name_id="3" end="270" id="127716_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="320" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_298_800" id1="Dummy_File_227566" volume="298" start="307" page_number="800" standard_reporter="F.3D" citation_global_level_id="291416.001" line="3" id="127716_12" citation_local_level_id="2" >298 F. 3d 800</CITATION>
+
+<RELATION theme="127716_1" includes_docket_string="02-988" includes_docket="127716_2" theme_string="537 U.S. 1233" gram_type="apposition" relation_type="asymmetric" id="127716_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1233" X_vs_Y_string="HARTFORD INSURANCE COMPANY OF THE MIDWEST v. HUTH" standard_case="127716_1" X_vs_Y="127716_3" gram_type="pre_nom" relation_type="equivalence" id="127716_7" ></RELATION>
+
+<RELATION theme="127716_3" includes_docket_string="02-988" includes_docket="127716_2" theme_string="HARTFORD INSURANCE COMPANY OF THE MIDWEST v. HUTH" gram_type="apposition" relation_type="asymmetric" id="127716_10" ></RELATION>
+
+<RELATION theme="127716_3" party1="127716_4" party1_string="HARTFORD INSURANCE COMPANY OF THE MIDWEST" theme_string="HARTFORD INSURANCE COMPANY OF THE MIDWEST v. HUTH" gram_type="infix" relation_type="asymmetric" id="127716_8" ></RELATION>
+
+<RELATION party2="127716_5" theme="127716_3" theme_string="HARTFORD INSURANCE COMPANY OF THE MIDWEST v. HUTH" party2_string="HUTH" gram_type="infix" relation_type="asymmetric" id="127716_9" ></RELATION>
+

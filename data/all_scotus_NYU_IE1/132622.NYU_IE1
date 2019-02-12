@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['myricksystem#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_912" id1="132618" volume="540" start="0" page_number="912" standard_reporter="U.S." citation_global_level_id="8231.002" line="1" id="132622_1" citation_local_level_id="0" >540 U.S. 912</CITATION>
+
+<CITATION party2="NEW YORK CITY EMPLOYEES' RETIREMENT SYSTEM" party1="MYRICK" citation_global_level_id="55401.001" party2_short="SYSTEM" line="1" id="132622_3" alternative_keys="['u.s._540_912']" end="69" entry_type="party_key" lookup_key="myricksystem#1" id1="132622" start="17" party1_short="MYRICK" citation_local_level_id="1" >MYRICK v. NEW YORK CITY EMPLOYEES' RETIREMENT SYSTEM</CITATION>
+
+<NAME end="23" start="17" party1_of="132622_3" all_names="MYRICK" local_name_id="1" id="132622_4" >MYRICK</NAME>
+
+<NAME end="69" start="27" all_names="NEW YORK CITY EMPLOYEES' RETIREMENT SYSTEM" party2_of="132622_3" local_name_id="2" id="132622_5" >NEW YORK CITY EMPLOYEES' RETIREMENT SYSTEM</NAME>
+
+<DOCKET end="86" entry_type="docket" lookup_key="u.s._540_912" id1="132618" start="79" citation_global_level_id="8231.002" line="1" id="132622_2" citation_local_level_id="0" >03-5495</DOCKET>
+
+<DATE start="128" end="143" id="132622_6" >October 6, 2003</DATE>
+
+<NAME start="220" local_name_id="3" end="230" id="132622_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="132622_1" includes_docket_string="03-5495" includes_docket="132622_2" theme_string="540 U.S. 912" gram_type="apposition" relation_type="asymmetric" id="132622_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 912" X_vs_Y_string="MYRICK v. NEW YORK CITY EMPLOYEES' RETIREMENT SYSTEM" standard_case="132622_1" X_vs_Y="132622_3" gram_type="pre_nom" relation_type="equivalence" id="132622_7" ></RELATION>
+
+<RELATION theme="132622_3" includes_docket_string="03-5495" includes_docket="132622_2" theme_string="MYRICK v. NEW YORK CITY EMPLOYEES' RETIREMENT SYSTEM" gram_type="apposition" relation_type="asymmetric" id="132622_10" ></RELATION>
+
+<RELATION theme="132622_3" party1="132622_4" party1_string="MYRICK" theme_string="MYRICK v. NEW YORK CITY EMPLOYEES' RETIREMENT SYSTEM" gram_type="infix" relation_type="asymmetric" id="132622_8" ></RELATION>
+
+<RELATION party2="132622_5" theme="132622_3" theme_string="MYRICK v. NEW YORK CITY EMPLOYEES' RETIREMENT SYSTEM" party2_string="NEW YORK CITY EMPLOYEES' RETIREMENT SYSTEM" gram_type="infix" relation_type="asymmetric" id="132622_9" ></RELATION>
+

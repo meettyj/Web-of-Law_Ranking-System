@@ -1,0 +1,38 @@
+<CITATION alternative_keys="['committeecommission#4']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_979" id1="131046" volume="539" start="0" page_number="979" standard_reporter="U.S." citation_global_level_id="9131.002" line="1" id="131043_1" citation_local_level_id="0" >539 U.S. 979</CITATION>
+
+<CITATION party2="Federal Election Commission et al" party1="Republican National Committee et al." citation_global_level_id="3025.008" party2_short="Commission" line="2" id="131043_2" alternative_keys="['u.s._539_912', 'u.s._539_979', 'u.s._539_974', 'u.s._539_981', 'u.s._539_939']" end="90" no_current_file="True" entry_type="party_key" lookup_key="committeecommission#4" id1="130628" start="17" party1_short="Committee" citation_local_level_id="1" >Republican National Committee et al. v. Federal Election Commission et al</CITATION>
+
+<NAME end="53" start="17" party1_of="131043_2" all_names="REPUBLICAN NATIONAL COMMITTEE" local_name_id="1" id="131043_3" >Republican National Committee et al.</NAME>
+
+<ORGANIZATION start="17" end="46" id="131043_5" >Republican National Committee</ORGANIZATION>
+
+<NAME end="90" start="57" all_names="FEDERAL ELECTION COMMISSION" party2_of="131043_2" local_name_id="2" id="131043_4" >Federal Election Commission et al</NAME>
+
+<ORGANIZATION start="57" end="84" id="131043_6" >Federal Election Commission</ORGANIZATION>
+
+<DOCKET alternative_keys="['u.s._539_912', 'u.s._539_979', 'u.s._539_974', 'u.s._539_981', 'u.s._539_939']" end="107" no_current_file="True" entry_type="docket" lookup_key="committeecommission#4" id1="130628" start="100" citation_global_level_id="3025.008" line="3" id="131043_9" citation_local_level_id="1" >02-1727</DOCKET>
+
+<DATE start="103" end="107" id="131043_10" >1727</DATE>
+
+<ORGANIZATION start="113" end="143" id="131043_12" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="149" citation_global_level_id="9131.006" end="164" id="131043_13" citation_local_level_id="1" >August 19, 2003</DATE>
+
+<ORGANIZATION start="186" end="250" id="131043_19" >Motion of the National Rifle Association and the Paul plaintiffs</ORGANIZATION>
+
+<DATE start="278" end="292" id="131043_18" >August 4, 2003</DATE>
+
+<RELATION theme="131043_2" party1="131043_3" party1_string="Republican National Committee et al." theme_string="Republican National Committee et al. v. Federal Election Commission et al" gram_type="infix" relation_type="asymmetric" id="131043_7" ></RELATION>
+
+<RELATION party2="131043_4" theme="131043_2" theme_string="Republican National Committee et al. v. Federal Election Commission et al" party2_string="Federal Election Commission et al" gram_type="infix" relation_type="asymmetric" id="131043_8" ></RELATION>
+
+<RELATION at_date_string="1727" theme="131043_9" at_date="131043_10" theme_string="02-1727" gram_type="infix" relation_type="asymmetric" id="131043_11" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 979" X_vs_Y_string="Republican National Committee et al. v. Federal Election Commission et al" standard_case="131043_1" X_vs_Y="131043_2" gram_type="multi_line" relation_type="equivalence" id="131043_14" ></RELATION>
+
+<RELATION at_date_string="August 19, 2003" theme="131043_2" at_date="131043_13" theme_string="Republican National Committee et al. v. Federal Election Commission et al" gram_type="multi_line" relation_type="asymmetric" id="131043_17" ></RELATION>
+
+<RELATION theme="131043_2" includes_docket_string="02-1727" includes_docket="131043_9" theme_string="Republican National Committee et al. v. Federal Election Commission et al" gram_type="multi_line" relation_type="asymmetric" id="131043_15" ></RELATION>
+
+<RELATION at_date_string="1727" theme="131043_2" at_date="131043_10" theme_string="Republican National Committee et al. v. Federal Election Commission et al" gram_type="multi_line" relation_type="asymmetric" id="131043_16" ></RELATION>
+

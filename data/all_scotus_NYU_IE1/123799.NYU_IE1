@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['youngpatrick#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_920" id1="123801" volume="537" start="0" page_number="920" standard_reporter="U.S." citation_global_level_id="2157.002" line="1" id="123799_1" citation_local_level_id="0" >537 U.S. 920</CITATION>
+
+<CITATION party2="PATRICK ET AL" party1="YOUNG" citation_global_level_id="61503.001" party2_short="PATRICK" line="1" id="123799_3" alternative_keys="['u.s._537_920']" end="39" entry_type="party_key" lookup_key="youngpatrick#1" id1="123799" start="17" party1_short="YOUNG" citation_local_level_id="1" >YOUNG v. PATRICK ET AL</CITATION>
+
+<NAME end="22" start="17" party1_of="123799_3" all_names="YOUNG" local_name_id="1" id="123799_4" >YOUNG</NAME>
+
+<NAME end="39" start="26" all_names="PATRICK" party2_of="123799_3" local_name_id="2" id="123799_5" >PATRICK ET AL</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._537_920" id1="123801" start="49" citation_global_level_id="2157.002" line="1" id="123799_2" citation_local_level_id="0" >02-5521</DOCKET>
+
+<DATE start="98" end="113" id="123799_6" >October 7, 2002</DATE>
+
+<NAME start="242" local_name_id="3" end="245" id="123799_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="123799_1" includes_docket_string="02-5521" includes_docket="123799_2" theme_string="537 U.S. 920" gram_type="apposition" relation_type="asymmetric" id="123799_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 920" X_vs_Y_string="YOUNG v. PATRICK ET AL" standard_case="123799_1" X_vs_Y="123799_3" gram_type="pre_nom" relation_type="equivalence" id="123799_7" ></RELATION>
+
+<RELATION theme="123799_3" includes_docket_string="02-5521" includes_docket="123799_2" theme_string="YOUNG v. PATRICK ET AL" gram_type="apposition" relation_type="asymmetric" id="123799_10" ></RELATION>
+
+<RELATION theme="123799_3" party1="123799_4" party1_string="YOUNG" theme_string="YOUNG v. PATRICK ET AL" gram_type="infix" relation_type="asymmetric" id="123799_8" ></RELATION>
+
+<RELATION party2="123799_5" theme="123799_3" theme_string="YOUNG v. PATRICK ET AL" party2_string="PATRICK ET AL" gram_type="infix" relation_type="asymmetric" id="123799_9" ></RELATION>
+

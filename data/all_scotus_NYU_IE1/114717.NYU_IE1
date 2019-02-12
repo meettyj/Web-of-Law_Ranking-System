@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['toddillinois#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_944" id1="114717" volume="510" start="0" page_number="944" standard_reporter="U.S." citation_global_level_id="9375.002" line="1" id="114717_1" citation_local_level_id="0" >510 U.S. 944</CITATION>
+
+<CITATION party2="Illinois" party1="Todd" citation_global_level_id="9375.001" party2_short="Illinois" line="1" id="114717_3" alternative_keys="['u.s._510_944']" end="33" entry_type="party_key" lookup_key="toddillinois#1" id1="114717" start="17" party1_short="Todd" citation_local_level_id="1" >Todd v. Illinois</CITATION>
+
+<NAME end="21" start="17" party1_of="114717_3" all_names="TODD" local_name_id="1" id="114717_4" >Todd</NAME>
+
+<NAME end="33" start="25" all_names="ILLINOIS" party2_of="114717_3" local_name_id="2" id="114717_5" >Illinois</NAME>
+
+<DOCKET end="50" entry_type="docket" lookup_key="u.s._510_944" id1="114717" start="43" citation_global_level_id="9375.002" line="1" id="114717_2" citation_local_level_id="0" >92-8566</DOCKET>
+
+<DATE start="92" end="108" id="114717_6" >November 1, 1993</DATE>
+
+<NAME start="185" local_name_id="3" end="195" id="114717_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="253" reporter="N. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.e.2d_607_1189" id1="Dummy_File_30791" volume="607" start="236" page_number="1189" standard_reporter="N.E.2D" citation_global_level_id="94641.001" line="3" id="114717_12" citation_local_level_id="2" >607 N. E. 2d 1189</CITATION>
+
+<RELATION theme="114717_1" includes_docket_string="92-8566" includes_docket="114717_2" theme_string="510 U.S. 944" gram_type="apposition" relation_type="asymmetric" id="114717_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 944" X_vs_Y_string="Todd v. Illinois" standard_case="114717_1" X_vs_Y="114717_3" gram_type="pre_nom" relation_type="equivalence" id="114717_7" ></RELATION>
+
+<RELATION theme="114717_3" includes_docket_string="92-8566" includes_docket="114717_2" theme_string="Todd v. Illinois" gram_type="apposition" relation_type="asymmetric" id="114717_10" ></RELATION>
+
+<RELATION theme="114717_3" party1="114717_4" party1_string="Todd" theme_string="Todd v. Illinois" gram_type="infix" relation_type="asymmetric" id="114717_8" ></RELATION>
+
+<RELATION party2="114717_5" theme="114717_3" theme_string="Todd v. Illinois" party2_string="Illinois" gram_type="infix" relation_type="asymmetric" id="114717_9" ></RELATION>
+

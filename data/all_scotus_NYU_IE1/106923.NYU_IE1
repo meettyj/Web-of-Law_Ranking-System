@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['gagerkasdon#1', 's.ct._85_120', 'l.ed.2d_13_24']" end="11" reporter="U.S." entry_type="standard_key" lookup_key="u.s._379_13" id1="106923" volume="379" start="0" page_number="13" standard_reporter="U.S." citation_global_level_id="40331.002" line="1" id="106923_1" citation_local_level_id="0" >379 U.S. 13</CITATION>
+
+<CITATION alternative_keys="['u.s._379_13', 'gagerkasdon#1', 'l.ed.2d_13_24']" end="29" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._85_120" id1="106923" volume="85" start="16" page_number="120" standard_reporter="S.CT." citation_global_level_id="40331.003" line="1" id="106923_2" citation_local_level_id="1" >85 S. Ct. 120</CITATION>
+
+<NAME start="19" local_name_id="1" end="24" id="106923_8" all_names="S CT" >S. Ct</NAME>
+
+<CITATION alternative_keys="['u.s._379_13', 's.ct._85_120', 'gagerkasdon#1']" end="49" reporter="L. Ed. 2d" entry_type="standard_key" lookup_key="l.ed.2d_13_24" id1="106923" volume="13" start="34" page_number="24" standard_reporter="L.ED.2D" citation_global_level_id="40331.004" line="1" id="106923_3" citation_local_level_id="2" >13 L. Ed. 2d 24</CITATION>
+
+<CITATION party2="Lawrence KASDON" party1="John Chapman GAGER" citation_global_level_id="40331.001" party2_short="KASDON" line="1" id="106923_4" alternative_keys="['u.s._379_13', 's.ct._85_120', 'l.ed.2d_13_24']" end="91" entry_type="party_key" lookup_key="gagerkasdon#1" id1="106923" start="54" party1_short="GAGER" citation_local_level_id="3" >John Chapman GAGER v. Lawrence KASDON</CITATION>
+
+<NAME end="72" start="54" party1_of="106923_4" all_names="JOHN CHAPMAN GAGER" local_name_id="2" id="106923_5" >John Chapman GAGER</NAME>
+
+<NAME end="91" start="76" all_names="LAWRENCE KASDON" party2_of="106923_4" local_name_id="3" id="106923_6" >Lawrence KASDON</NAME>
+
+<DATE start="155" end="171" id="106923_7" >October 12, 1964</DATE>
+
+<NAME start="217" local_name_id="4" end="230" id="106923_14" all_names="HILLEL ABRAMS" >Hillel Abrams</NAME>
+
+<LEGAL_ROLE start="236" end="244" id="106923_15" party="party2" >appellee</LEGAL_ROLE>
+
+<NAME start="256" local_name_id="5" end="262" id="106923_16" all_names="CURIAM" >CURIAM</NAME>
+
+<RELATION standard_case_string="379 U.S. 13" X_vs_Y_string="John Chapman GAGER v. Lawrence KASDON" standard_case="106923_1" X_vs_Y="106923_4" gram_type="pre_nom" relation_type="equivalence" id="106923_10" ></RELATION>
+
+<RELATION standard_case_string="85 S. Ct. 120" X_vs_Y_string="John Chapman GAGER v. Lawrence KASDON" standard_case="106923_2" X_vs_Y="106923_4" gram_type="pre_nom" relation_type="equivalence" id="106923_11" ></RELATION>
+
+<RELATION standard_case_string="13 L. Ed. 2d 24" X_vs_Y_string="John Chapman GAGER v. Lawrence KASDON" standard_case="106923_3" X_vs_Y="106923_4" gram_type="pre_nom" relation_type="equivalence" id="106923_9" ></RELATION>
+
+<RELATION theme="106923_4" party1="106923_5" party1_string="John Chapman GAGER" theme_string="John Chapman GAGER v. Lawrence KASDON" gram_type="infix" relation_type="asymmetric" id="106923_12" ></RELATION>
+
+<RELATION party2="106923_6" theme="106923_4" theme_string="John Chapman GAGER v. Lawrence KASDON" party2_string="Lawrence KASDON" gram_type="infix" relation_type="asymmetric" id="106923_13" ></RELATION>
+

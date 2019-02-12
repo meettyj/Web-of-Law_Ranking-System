@@ -1,0 +1,34 @@
+<CITATION alternative_keys="['joneshoward#1', 's.ct._107_1620', 'l.ed.2d_94_803']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._480_952" id1="111854" volume="480" start="0" page_number="952" standard_reporter="U.S." citation_global_level_id="15645.002" line="1" id="111854_1" citation_local_level_id="0" >480 U.S. 952</CITATION>
+
+<CITATION alternative_keys="['u.s._480_952', 'joneshoward#1', 'l.ed.2d_94_803']" end="32" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._107_1620" id1="111854" volume="107" start="17" page_number="1620" standard_reporter="S.CT." citation_global_level_id="15645.003" line="2" id="111854_2" citation_local_level_id="1" >107 S. Ct. 1620</CITATION>
+
+<CITATION alternative_keys="['u.s._480_952', 's.ct._107_1620', 'joneshoward#1']" end="53" reporter="L. Ed. 2d" entry_type="standard_key" lookup_key="l.ed.2d_94_803" id1="111854" volume="94" start="37" page_number="803" standard_reporter="L.ED.2D" citation_global_level_id="15645.004" line="3" id="111854_3" citation_local_level_id="2" >94 L. Ed. 2d 803</CITATION>
+
+<CITATION party2="William Murphy HOWARD, et al" alternative_keys="['u.s._480_952', 's.ct._107_1620', 'l.ed.2d_94_803']" party1="Daniel Henderson JONES," end="125" party1_short="JONES" entry_type="party_key" party1_role="petitioner" lookup_key="joneshoward#1" id1="111854" start="58" citation_global_level_id="15645.001" party2_short="HOWARD" line="4" id="111854_4" citation_local_level_id="3" >Daniel Henderson JONES, petitioner, v. William Murphy HOWARD, et al</CITATION>
+
+<NAME end="81" start="58" party1_of="111854_4" all_names="DANIEL HENDERSON JONES" local_name_id="1" id="111854_5" >Daniel Henderson JONES,</NAME>
+
+<LEGAL_ROLE start="82" end="92" id="111854_7" >petitioner</LEGAL_ROLE>
+
+<NAME end="125" start="97" all_names="WILLIAM MURPHY HOWARD" party2_of="111854_4" local_name_id="2" id="111854_6" >William Murphy HOWARD, et al</NAME>
+
+<DOCKET end="141" entry_type="docket" lookup_key="joneshoward#1" id1="111854" start="134" citation_global_level_id="15645.001" line="5" id="111854_10" citation_local_level_id="3" >86-6119</DOCKET>
+
+<ORGANIZATION start="146" end="180" id="111854_11" >Supreme Court of the United States</ORGANIZATION>
+
+<DATE start="185" citation_global_level_id="15645.001" end="199" id="111854_12" citation_local_level_id="3" >March 30, 1987</DATE>
+
+<RELATION theme="111854_4" party1="111854_5" party1_string="Daniel Henderson JONES," theme_string="Daniel Henderson JONES, petitioner, v. William Murphy HOWARD, et al" gram_type="infix" relation_type="asymmetric" id="111854_8" ></RELATION>
+
+<RELATION party2="111854_6" theme="111854_4" theme_string="Daniel Henderson JONES, petitioner, v. William Murphy HOWARD, et al" party2_string="William Murphy HOWARD, et al" gram_type="infix" relation_type="asymmetric" id="111854_9" ></RELATION>
+
+<RELATION standard_case_string="480 U.S. 952" X_vs_Y_string="Daniel Henderson JONES, petitioner, v. William Murphy HOWARD, et al" standard_case="111854_1" X_vs_Y="111854_4" gram_type="multi_line" relation_type="equivalence" id="111854_13" ></RELATION>
+
+<RELATION standard_case_string="107 S. Ct. 1620" X_vs_Y_string="Daniel Henderson JONES, petitioner, v. William Murphy HOWARD, et al" standard_case="111854_2" X_vs_Y="111854_4" gram_type="multi_line" relation_type="equivalence" id="111854_14" ></RELATION>
+
+<RELATION standard_case_string="94 L. Ed. 2d 803" X_vs_Y_string="Daniel Henderson JONES, petitioner, v. William Murphy HOWARD, et al" standard_case="111854_3" X_vs_Y="111854_4" gram_type="multi_line" relation_type="equivalence" id="111854_15" ></RELATION>
+
+<RELATION at_date_string="March 30, 1987" theme="111854_4" at_date="111854_12" theme_string="Daniel Henderson JONES, petitioner, v. William Murphy HOWARD, et al" gram_type="multi_line" relation_type="asymmetric" id="111854_17" ></RELATION>
+
+<RELATION theme="111854_4" includes_docket_string="86-6119" includes_docket="111854_10" theme_string="Daniel Henderson JONES, petitioner, v. William Murphy HOWARD, et al" gram_type="multi_line" relation_type="asymmetric" id="111854_16" ></RELATION>
+

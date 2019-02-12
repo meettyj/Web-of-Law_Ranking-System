@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['martinezcalifornia#3']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1198" id1="127251" volume="537" start="0" page_number="1198" standard_reporter="U.S." citation_global_level_id="8811.002" line="1" id="127246_1" citation_local_level_id="0" >537 U.S. 1198</CITATION>
+
+<CITATION party2="CALIFORNIA" party1="MARTINEZ" citation_global_level_id="56994.001" party2_short="CALIFORNIA" line="1" id="127246_3" alternative_keys="['u.s._537_1198']" end="40" entry_type="party_key" lookup_key="martinezcalifornia#3" id1="110169" start="18" party1_short="MARTINEZ" citation_local_level_id="1" >MARTINEZ v. CALIFORNIA</CITATION>
+
+<NAME end="26" start="18" party1_of="127246_3" all_names="MARTINEZ" local_name_id="1" id="127246_4" >MARTINEZ</NAME>
+
+<NAME end="40" start="30" all_names="CALIFORNIA" party2_of="127246_3" local_name_id="2" id="127246_5" >CALIFORNIA</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._537_1198" id1="127251" start="50" citation_global_level_id="8811.002" line="1" id="127246_2" citation_local_level_id="0" >02-7824</DOCKET>
+
+<DATE start="99" end="116" id="127246_6" >February 24, 2003</DATE>
+
+<NAME start="247" local_name_id="3" end="249" id="127246_12" all_names="CT" >Ct</NAME>
+
+<RELATION theme="127246_1" includes_docket_string="02-7824" includes_docket="127246_2" theme_string="537 U.S. 1198" gram_type="apposition" relation_type="asymmetric" id="127246_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1198" X_vs_Y_string="MARTINEZ v. CALIFORNIA" standard_case="127246_1" X_vs_Y="127246_3" gram_type="pre_nom" relation_type="equivalence" id="127246_7" ></RELATION>
+
+<RELATION theme="127246_3" includes_docket_string="02-7824" includes_docket="127246_2" theme_string="MARTINEZ v. CALIFORNIA" gram_type="apposition" relation_type="asymmetric" id="127246_10" ></RELATION>
+
+<RELATION theme="127246_3" party1="127246_4" party1_string="MARTINEZ" theme_string="MARTINEZ v. CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="127246_8" ></RELATION>
+
+<RELATION party2="127246_5" theme="127246_3" theme_string="MARTINEZ v. CALIFORNIA" party2_string="CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="127246_9" ></RELATION>
+

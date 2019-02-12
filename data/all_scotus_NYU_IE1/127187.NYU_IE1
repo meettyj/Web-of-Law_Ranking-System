@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['shawmaryland#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1194" id1="127189" volume="537" start="0" page_number="1194" standard_reporter="U.S." citation_global_level_id="573.002" line="1" id="127187_1" citation_local_level_id="0" >537 U.S. 1194</CITATION>
+
+<CITATION party2="MARYLAND" party1="SHAW" citation_global_level_id="60637.001" party2_short="MARYLAND" line="1" id="127187_3" alternative_keys="['u.s._537_1194']" end="34" entry_type="party_key" lookup_key="shawmaryland#1" id1="127187" start="18" party1_short="SHAW" citation_local_level_id="1" >SHAW v. MARYLAND</CITATION>
+
+<NAME end="22" start="18" party1_of="127187_3" all_names="SHAW" local_name_id="1" id="127187_4" >SHAW</NAME>
+
+<NAME end="34" start="26" all_names="MARYLAND" party2_of="127187_3" local_name_id="2" id="127187_5" >MARYLAND</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="u.s._537_1194" id1="127189" start="44" citation_global_level_id="573.002" line="1" id="127187_2" citation_local_level_id="0" >02-1030</DOCKET>
+
+<DATE start="93" end="110" id="127187_6" >February 24, 2003</DATE>
+
+<NAME start="205" local_name_id="3" end="207" id="127187_14" all_names="CT" >Ct</NAME>
+
+<CITATION end="264" reporter="Md." entry_type="standard_key" no_current_file="True" lookup_key="md._370_648" id1="Dummy_File_93134" volume="370" start="253" page_number="648" standard_reporter="MD." citation_global_level_id="156984.001" line="3" id="127187_12" citation_local_level_id="2" >370 Md. 648</CITATION>
+
+<CITATION end="280" reporter="A. 2d" entry_type="standard_key" no_current_file="True" lookup_key="a.2d_805_1086" id1="Dummy_File_93135" volume="805" start="266" page_number="1086" standard_reporter="A.2D" citation_global_level_id="156985.001" line="3" id="127187_13" citation_local_level_id="3" >805 A. 2d 1086</CITATION>
+
+<RELATION theme="127187_1" includes_docket_string="02-1030" includes_docket="127187_2" theme_string="537 U.S. 1194" gram_type="apposition" relation_type="asymmetric" id="127187_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1194" X_vs_Y_string="SHAW v. MARYLAND" standard_case="127187_1" X_vs_Y="127187_3" gram_type="pre_nom" relation_type="equivalence" id="127187_7" ></RELATION>
+
+<RELATION theme="127187_3" includes_docket_string="02-1030" includes_docket="127187_2" theme_string="SHAW v. MARYLAND" gram_type="apposition" relation_type="asymmetric" id="127187_10" ></RELATION>
+
+<RELATION theme="127187_3" party1="127187_4" party1_string="SHAW" theme_string="SHAW v. MARYLAND" gram_type="infix" relation_type="asymmetric" id="127187_8" ></RELATION>
+
+<RELATION party2="127187_5" theme="127187_3" theme_string="SHAW v. MARYLAND" party2_string="MARYLAND" gram_type="infix" relation_type="asymmetric" id="127187_9" ></RELATION>
+

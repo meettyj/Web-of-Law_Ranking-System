@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['persikuniversity#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._542_916" id1="137194" volume="542" start="0" page_number="916" standard_reporter="U.S." citation_global_level_id="173.002" line="1" id="137196_1" citation_local_level_id="0" >542 U.S. 916</CITATION>
+
+<CITATION party2="COLORADO STATE UNIVERSITY" party1="PERSIK" citation_global_level_id="39727.001" party2_short="UNIVERSITY" line="1" id="137196_3" alternative_keys="['u.s._542_916']" end="52" entry_type="party_key" lookup_key="persikuniversity#2" id1="137196" start="17" party1_short="PERSIK" citation_local_level_id="1" >PERSIK v. COLORADO STATE UNIVERSITY</CITATION>
+
+<NAME end="23" start="17" party1_of="137196_3" all_names="PERSIK" local_name_id="1" id="137196_4" >PERSIK</NAME>
+
+<NAME end="52" start="27" all_names="COLORADO STATE UNIVERSITY" party2_of="137196_3" local_name_id="2" id="137196_5" >COLORADO STATE UNIVERSITY</NAME>
+
+<DOCKET end="69" entry_type="docket" lookup_key="u.s._542_916" id1="137194" start="62" citation_global_level_id="173.002" line="1" id="137196_2" citation_local_level_id="0" >03-1278</DOCKET>
+
+<DATE start="111" end="124" id="137196_6" >June 14, 2004</DATE>
+
+<CITATION end="232" reporter="U. S." entry_type="standard_key" lookup_key="u.s._541_990" id1="135681" volume="541" start="219" page_number="990" standard_reporter="U.S." citation_global_level_id="3017.002" line="3" id="137196_12" citation_local_level_id="2" >541 U. S. 990</CITATION>
+
+<RELATION theme="137196_1" includes_docket_string="03-1278" includes_docket="137196_2" theme_string="542 U.S. 916" gram_type="apposition" relation_type="asymmetric" id="137196_11" ></RELATION>
+
+<RELATION standard_case_string="542 U.S. 916" X_vs_Y_string="PERSIK v. COLORADO STATE UNIVERSITY" standard_case="137196_1" X_vs_Y="137196_3" gram_type="pre_nom" relation_type="equivalence" id="137196_7" ></RELATION>
+
+<RELATION theme="137196_3" includes_docket_string="03-1278" includes_docket="137196_2" theme_string="PERSIK v. COLORADO STATE UNIVERSITY" gram_type="apposition" relation_type="asymmetric" id="137196_10" ></RELATION>
+
+<RELATION theme="137196_3" party1="137196_4" party1_string="PERSIK" theme_string="PERSIK v. COLORADO STATE UNIVERSITY" gram_type="infix" relation_type="asymmetric" id="137196_8" ></RELATION>
+
+<RELATION party2="137196_5" theme="137196_3" theme_string="PERSIK v. COLORADO STATE UNIVERSITY" party2_string="COLORADO STATE UNIVERSITY" gram_type="infix" relation_type="asymmetric" id="137196_9" ></RELATION>
+

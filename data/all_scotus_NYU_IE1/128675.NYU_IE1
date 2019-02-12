@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['cityinsurance#4']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_961" id1="128674" volume="538" start="0" page_number="961" standard_reporter="U.S." citation_global_level_id="1361.002" line="1" id="128675_1" citation_local_level_id="0" >538 U.S. 961</CITATION>
+
+<CITATION party2="FIREMAN'S FUND INSURANCE CO. ET AL" party1="CITY OF LODI, CALIFORNIA" citation_global_level_id="1361.004" party2_short="INSURANCE" line="1" id="128675_3" alternative_keys="['u.s._538_961']" end="79" entry_type="party_key" lookup_key="cityinsurance#4" id1="128674" start="17" party1_short="CITY" citation_local_level_id="1" >CITY OF LODI, CALIFORNIA v. FIREMAN'S FUND INSURANCE CO. ET AL</CITATION>
+
+<NAME end="41" start="17" party1_of="128675_3" all_names="CITY OF LODI CALIFORNIA" local_name_id="1" id="128675_4" >CITY OF LODI, CALIFORNIA</NAME>
+
+<NAME start="17" local_name_id="2" end="29" id="128675_7" all_names="CITY OF LODI" >CITY OF LODI</NAME>
+
+<NAME end="79" start="45" all_names="FIREMAN'S FUND INSURANCE CO" party2_of="128675_3" local_name_id="3" id="128675_5" >FIREMAN'S FUND INSURANCE CO. ET AL</NAME>
+
+<DOCKET end="96" entry_type="docket" lookup_key="u.s._538_961" id1="128674" start="89" citation_global_level_id="1361.002" line="1" id="128675_2" citation_local_level_id="0" >02-1169</DOCKET>
+
+<DATE start="138" end="151" id="128675_6" >April 7, 2003</DATE>
+
+<NAME start="280" local_name_id="4" end="283" id="128675_14" all_names="CIR" >Cir</NAME>
+
+<CITATION end="333" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_302_928" id1="Dummy_File_44808" volume="302" start="320" page_number="928" standard_reporter="F.3D" citation_global_level_id="108658.001" line="3" id="128675_13" citation_local_level_id="2" >302 F. 3d 928</CITATION>
+
+<RELATION theme="128675_1" includes_docket_string="02-1169" includes_docket="128675_2" theme_string="538 U.S. 961" gram_type="apposition" relation_type="asymmetric" id="128675_12" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 961" X_vs_Y_string="CITY OF LODI, CALIFORNIA v. FIREMAN'S FUND INSURANCE CO. ET AL" standard_case="128675_1" X_vs_Y="128675_3" gram_type="pre_nom" relation_type="equivalence" id="128675_8" ></RELATION>
+
+<RELATION theme="128675_3" includes_docket_string="02-1169" includes_docket="128675_2" theme_string="CITY OF LODI, CALIFORNIA v. FIREMAN'S FUND INSURANCE CO. ET AL" gram_type="apposition" relation_type="asymmetric" id="128675_11" ></RELATION>
+
+<RELATION party2="128675_5" theme="128675_3" theme_string="CITY OF LODI, CALIFORNIA v. FIREMAN'S FUND INSURANCE CO. ET AL" party2_string="FIREMAN'S FUND INSURANCE CO. ET AL" gram_type="infix" relation_type="asymmetric" id="128675_10" ></RELATION>
+
+<RELATION theme="128675_3" party1="128675_4" party1_string="CITY OF LODI, CALIFORNIA" theme_string="CITY OF LODI, CALIFORNIA v. FIREMAN'S FUND INSURANCE CO. ET AL" gram_type="infix" relation_type="asymmetric" id="128675_9" ></RELATION>
+

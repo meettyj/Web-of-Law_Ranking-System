@@ -1,0 +1,58 @@
+<CITATION alternative_keys="['blairgray#1']" end="20" reporter="U.S." entry_type="standard_key" lookup_key="u.s._104_769" id1="90529" volume="104" start="1" page_number="769" standard_reporter="U.S." citation_global_level_id="14278.002" line="2" id="90529_1" citation_local_level_id="0" >104 U.S. 769 (____)</CITATION>
+
+<CITATION party2="GRAY" party1="BLAIR" citation_global_level_id="14278.001" party2_short="GRAY" line="5" id="90529_3" alternative_keys="['u.s._104_769']" end="36" entry_type="party_key" lookup_key="blairgray#1" id1="90529" start="21" party1_short="BLAIR" citation_local_level_id="1" >BLAIR v. GRAY</CITATION>
+
+<NAME end="26" start="21" party1_of="90529_3" all_names="BLAIR" local_name_id="1" id="90529_4" >BLAIR</NAME>
+
+<NAME end="36" start="32" all_names="GRAY" party2_of="90529_3" local_name_id="2" id="90529_5" >GRAY</NAME>
+
+<ORGANIZATION start="38" end="68" id="90529_8" >Supreme Court of United States</ORGANIZATION>
+
+<LEGAL_ROLE start="71" end="102" id="90529_10" >Mr. E.A. Otis for the plaintiff</LEGAL_ROLE>
+
+<NAME start="113" local_name_id="3" end="130" id="90529_11" all_names="MR FRANCIS KALES" >Mr. Francis Kales</NAME>
+
+<NAME start="140" local_name_id="4" end="142" id="90529_12" all_names="MR" >MR</NAME>
+
+<ORGANIZATION start="219" end="261" id="90529_13" >Republic Life Insurance Company of Chicago</ORGANIZATION>
+
+<NAME start="296" local_name_id="5" end="300" id="90529_14" all_names="SECT" >SECT</NAME>
+
+<LEGAL_ROLE start="662" end="671" id="90529_15" >defendant</LEGAL_ROLE>
+
+<NAME start="673" local_name_id="2" end="677" id="90529_16" all_names="GRAY" >Gray</NAME>
+
+<ORGANIZATION start="726" end="733" id="90529_17" >company</ORGANIZATION>
+
+<NAME start="735" local_name_id="6" end="737" id="90529_18" all_names="HE" >He</NAME>
+
+<ORGANIZATION start="799" end="806" id="90529_19" >company</ORGANIZATION>
+
+<ORGANIZATION start="1021" end="1028" id="90529_20" >company</ORGANIZATION>
+
+<CITATION party2="the defendant" party1="This suit was at law by a policy-holder of the company," end="1134" party1_short="was" no_current_file="True" entry_type="party_key" lookup_key="wasdefendant#1" id="90529_21" start="1057" citation_global_level_id="110911.001" party2_short="defendant" line="14" id1="Dummy_File_47061" party2_role="defendant" citation_local_level_id="2" >This suit was at law by a policy-holder of the company, against the defendant</CITATION>
+
+<NAME end="1112" start="1057" party1_of="90529_21" all_names="THIS SUIT WAS AT LAW BY A POLICY-HOLDER OF THE COMPANY" local_name_id="7" id="90529_22" >This suit was at law by a policy-holder of the company,</NAME>
+
+<ORGANIZATION start="1104" end="1111" id="90529_25" >company</ORGANIZATION>
+
+<NAME end="1134" start="1121" all_names="THE DEFENDANT" party2_of="90529_21" local_name_id="8" id="90529_23" >the defendant</NAME>
+
+<LEGAL_ROLE start="1125" end="1134" id="90529_24" >defendant</LEGAL_ROLE>
+
+<ORGANIZATION start="1284" end="1291" id="90529_26" >company</ORGANIZATION>
+
+<ORGANIZATION start="1448" end="1466" plural="True" id="90529_27" >courts of Illinois</ORGANIZATION>
+
+<NAME start="1723" local_name_id="9" end="1731" id="90529_30" all_names="JUDGMENT" >Judgment</NAME>
+
+<RELATION theme="90529_3" party1="90529_4" party1_string="BLAIR" theme_string="BLAIR  v.  GRAY" gram_type="infix" relation_type="asymmetric" id="90529_6" ></RELATION>
+
+<RELATION party2="90529_5" theme="90529_3" theme_string="BLAIR  v.  GRAY" party2_string="GRAY" gram_type="infix" relation_type="asymmetric" id="90529_7" ></RELATION>
+
+<RELATION standard_case_string="104 U.S. 769 (____)" X_vs_Y_string="BLAIR  v.  GRAY" standard_case="90529_1" X_vs_Y="90529_3" gram_type="multi_line" relation_type="equivalence" id="90529_9" ></RELATION>
+
+<RELATION theme="90529_21" party1="90529_22" party1_string="This suit was at law by a policy-holder of the company," theme_string="This suit was at law by a policy-holder of the company, against the defendant" gram_type="infix" relation_type="asymmetric" id="90529_28" ></RELATION>
+
+<RELATION party2="90529_23" theme="90529_21" theme_string="This suit was at law by a policy-holder of the company, against the defendant" party2_string="the defendant" gram_type="infix" relation_type="asymmetric" id="90529_29" ></RELATION>
+

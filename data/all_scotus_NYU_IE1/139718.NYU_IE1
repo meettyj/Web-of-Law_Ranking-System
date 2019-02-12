@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['armasstates#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_951" id1="139715" volume="543" start="0" page_number="951" standard_reporter="U.S." citation_global_level_id="13656.002" line="1" id="139718_1" citation_local_level_id="0" >543 U.S. 951</CITATION>
+
+<CITATION party2="UNITED STATES" party1="ERNESTO ARMAS" citation_global_level_id="15456.001" party2_short="STATES" line="2" id="139718_2" alternative_keys="['u.s._543_951']" end="47" entry_type="party_key" lookup_key="armasstates#1" id1="139718" start="17" party1_short="ARMAS" citation_local_level_id="1" >ERNESTO ARMAS v. UNITED STATES</CITATION>
+
+<NAME end="30" start="17" party1_of="139718_2" all_names="ERNESTO ARMAS" local_name_id="1" id="139718_3" >ERNESTO ARMAS</NAME>
+
+<NAME end="47" start="34" all_names="UNITED STATES" party2_of="139718_2" local_name_id="2" id="139718_4" >UNITED STATES</NAME>
+
+<DOCKET end="64" entry_type="docket" lookup_key="armasstates#1" id1="139718" start="57" citation_global_level_id="15456.001" line="3" id="139718_7" citation_local_level_id="1" >04-6408</DOCKET>
+
+<ORGANIZATION start="70" end="100" id="139718_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="106" citation_global_level_id="15456.001" end="122" id="139718_9" citation_local_level_id="1" >October 18, 2004</DATE>
+
+<NAME start="155" local_name_id="3" end="158" id="139718_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="139718_2" party1="139718_3" party1_string="ERNESTO ARMAS" theme_string="ERNESTO ARMAS v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="139718_5" ></RELATION>
+
+<RELATION party2="139718_4" theme="139718_2" theme_string="ERNESTO ARMAS v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="139718_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 951" X_vs_Y_string="ERNESTO ARMAS v. UNITED STATES" standard_case="139718_1" X_vs_Y="139718_2" gram_type="multi_line" relation_type="equivalence" id="139718_10" ></RELATION>
+
+<RELATION at_date_string="October 18, 2004" theme="139718_2" at_date="139718_9" theme_string="ERNESTO ARMAS v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="139718_12" ></RELATION>
+
+<RELATION theme="139718_2" includes_docket_string="04-6408" includes_docket="139718_7" theme_string="ERNESTO ARMAS v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="139718_11" ></RELATION>
+

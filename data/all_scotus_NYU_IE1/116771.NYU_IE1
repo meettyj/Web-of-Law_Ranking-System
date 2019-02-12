@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['ricocorporation#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1111" id1="116764" volume="510" start="0" page_number="1111" standard_reporter="U.S." citation_global_level_id="2441.002" line="1" id="116771_1" citation_local_level_id="0" >510 U.S. 1111</CITATION>
+
+<CITATION party2="Federal Deposit Insurance Corporation" party1="Banco Cooperativo de Puerto Rico" citation_global_level_id="2441.005" party2_short="Corporation" line="1" id="116771_3" alternative_keys="['u.s._510_1111']" end="91" entry_type="party_key" lookup_key="ricocorporation#1" id1="116764" start="18" party1_short="Rico" citation_local_level_id="1" >Banco Cooperativo de Puerto Rico v. Federal Deposit Insurance Corporation</CITATION>
+
+<NAME end="50" start="18" party1_of="116771_3" all_names="BANCO COOPERATIVO DE PUERTO RICO" local_name_id="1" id="116771_4" >Banco Cooperativo de Puerto Rico</NAME>
+
+<NAME end="91" start="54" all_names="FEDERAL DEPOSIT INSURANCE CORPORATION" party2_of="116771_3" local_name_id="2" id="116771_5" >Federal Deposit Insurance Corporation</NAME>
+
+<DOCKET end="107" entry_type="docket" lookup_key="u.s._510_1111" id1="116764" start="101" citation_global_level_id="2441.002" line="1" id="116771_2" citation_local_level_id="0" >93-822</DOCKET>
+
+<DATE start="149" end="166" id="116771_6" >February 22, 1994</DATE>
+
+<NAME start="244" local_name_id="3" end="254" id="116771_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="292" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_996_493" id1="Dummy_File_83887" volume="996" start="279" page_number="493" standard_reporter="F.2D" citation_global_level_id="147737.001" line="3" id="116771_12" citation_local_level_id="2" >996 F. 2d 493</CITATION>
+
+<RELATION theme="116771_1" includes_docket_string="93-822" includes_docket="116771_2" theme_string="510 U.S. 1111" gram_type="apposition" relation_type="asymmetric" id="116771_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1111" X_vs_Y_string="Banco Cooperativo de Puerto Rico v. Federal Deposit Insurance Corporation" standard_case="116771_1" X_vs_Y="116771_3" gram_type="pre_nom" relation_type="equivalence" id="116771_7" ></RELATION>
+
+<RELATION theme="116771_3" includes_docket_string="93-822" includes_docket="116771_2" theme_string="Banco Cooperativo de Puerto Rico v. Federal Deposit Insurance Corporation" gram_type="apposition" relation_type="asymmetric" id="116771_10" ></RELATION>
+
+<RELATION theme="116771_3" party1="116771_4" party1_string="Banco Cooperativo de Puerto Rico" theme_string="Banco Cooperativo de Puerto Rico v. Federal Deposit Insurance Corporation" gram_type="infix" relation_type="asymmetric" id="116771_8" ></RELATION>
+
+<RELATION party2="116771_5" theme="116771_3" theme_string="Banco Cooperativo de Puerto Rico v. Federal Deposit Insurance Corporation" party2_string="Federal Deposit Insurance Corporation" gram_type="infix" relation_type="asymmetric" id="116771_9" ></RELATION>
+

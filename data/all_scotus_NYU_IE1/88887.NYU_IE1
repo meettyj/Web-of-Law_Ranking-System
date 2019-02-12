@@ -1,0 +1,36 @@
+<CITATION alternative_keys="['mayorlindsey#1', 'l.ed._22_180', 'wall._19_485']" end="11" reporter="U.S." entry_type="standard_key" lookup_key="u.s._86_485" id1="88887" volume="86" start="0" page_number="485" standard_reporter="U.S." citation_global_level_id="34178.002" line="1" id="88887_1" citation_local_level_id="0" >86 U.S. 485</CITATION>
+
+<CITATION alternative_keys="['u.s._86_485', 'mayorlindsey#1', 'wall._19_485']" end="29" reporter="L. Ed." entry_type="standard_key" lookup_key="l.ed._22_180" id1="88887" volume="22" start="16" page_number="180" standard_reporter="L.ED." citation_global_level_id="34178.003" line="1" id="88887_2" citation_local_level_id="1" >22 L. Ed. 180</CITATION>
+
+<NAME start="19" local_name_id="1" end="24" id="88887_8" all_names="L ED" >L. Ed</NAME>
+
+<CITATION alternative_keys="['u.s._86_485', 'l.ed._22_180', 'mayorlindsey#1']" end="46" reporter="Wall." entry_type="standard_key" lookup_key="wall._19_485" id1="88887" volume="19" start="34" page_number="485" standard_reporter="WALL." citation_global_level_id="34178.004" line="1" id="88887_3" citation_local_level_id="2" >19 Wall. 485</CITATION>
+
+<CITATION party2="LINDSEY" party1="THE MAYOR" citation_global_level_id="34178.001" party2_short="LINDSEY" line="1" id="88887_4" alternative_keys="['u.s._86_485', 'l.ed._22_180', 'wall._19_485']" end="71" entry_type="party_key" lookup_key="mayorlindsey#1" id1="88887" start="51" party1_short="MAYOR" citation_local_level_id="3" >THE MAYOR v. LINDSEY</CITATION>
+
+<NAME end="60" start="51" party1_of="88887_4" all_names="THE MAYOR" local_name_id="2" id="88887_5" >THE MAYOR</NAME>
+
+<NAME end="71" start="64" all_names="LINDSEY" party2_of="88887_4" local_name_id="3" id="88887_6" >LINDSEY</NAME>
+
+<DATE start="91" end="95" id="88887_7" >1873</DATE>
+
+<NAME start="803" local_name_id="4" end="822" id="88887_14" all_names="MR JUSTICE BRADLEY" >Mr. Justice BRADLEY</NAME>
+
+<PROFESSION start="807" end="814" id="88887_15" >Justice</PROFESSION>
+
+<ORGANIZATION start="854" end="859" id="88887_16" >court</ORGANIZATION>
+
+<NAME start="861" local_name_id="5" end="889" id="88887_17" all_names="REVERSING THE JUDGMENT BELOW" >REVERSING THE JUDGMENT BELOW</NAME>
+
+<NAME start="943" local_name_id="6" end="957" id="88887_18" all_names="VENIRE DE NOVO" >VENIRE DE NOVO</NAME>
+
+<RELATION standard_case_string="86 U.S. 485" X_vs_Y_string="THE MAYOR v. LINDSEY" standard_case="88887_1" X_vs_Y="88887_4" gram_type="pre_nom" relation_type="equivalence" id="88887_10" ></RELATION>
+
+<RELATION standard_case_string="22 L. Ed. 180" X_vs_Y_string="THE MAYOR v. LINDSEY" standard_case="88887_2" X_vs_Y="88887_4" gram_type="pre_nom" relation_type="equivalence" id="88887_11" ></RELATION>
+
+<RELATION standard_case_string="19 Wall. 485" X_vs_Y_string="THE MAYOR v. LINDSEY" standard_case="88887_3" X_vs_Y="88887_4" gram_type="pre_nom" relation_type="equivalence" id="88887_9" ></RELATION>
+
+<RELATION theme="88887_4" party1="88887_5" party1_string="THE MAYOR" theme_string="THE MAYOR v. LINDSEY" gram_type="infix" relation_type="asymmetric" id="88887_12" ></RELATION>
+
+<RELATION party2="88887_6" theme="88887_4" theme_string="THE MAYOR v. LINDSEY" party2_string="LINDSEY" gram_type="infix" relation_type="asymmetric" id="88887_13" ></RELATION>
+

@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['centersnowden#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1090" id1="120764" volume="535" start="0" page_number="1090" standard_reporter="U.S." citation_global_level_id="2674.002" line="1" id="120766_1" citation_local_level_id="0" >535 U.S. 1090</CITATION>
+
+<CITATION party2="SNOWDEN ET AL" party1="WASHINGTON HOSPITAL CENTER ET AL." citation_global_level_id="28323.001" party2_short="SNOWDEN" line="2" id="120766_2" alternative_keys="['u.s._535_1090']" end="68" entry_type="party_key" lookup_key="centersnowden#1" id1="120766" start="18" party1_short="CENTER" citation_local_level_id="1" >WASHINGTON HOSPITAL CENTER ET AL. v. SNOWDEN ET AL</CITATION>
+
+<NAME end="51" start="18" party1_of="120766_2" all_names="WASHINGTON HOSPITAL CENTER" local_name_id="1" id="120766_3" >WASHINGTON HOSPITAL CENTER ET AL.</NAME>
+
+<ORGANIZATION start="18" end="44" id="120766_5" >WASHINGTON HOSPITAL CENTER</ORGANIZATION>
+
+<NAME end="68" start="55" all_names="SNOWDEN" party2_of="120766_2" local_name_id="2" id="120766_4" >SNOWDEN ET AL</NAME>
+
+<DOCKET end="85" entry_type="docket" lookup_key="centersnowden#1" id1="120766" start="78" citation_global_level_id="28323.001" line="3" id="120766_8" citation_local_level_id="1" >01-1191</DOCKET>
+
+<DATE start="131" citation_global_level_id="28323.001" end="143" id="120766_9" citation_local_level_id="1" >May 20, 2002</DATE>
+
+<NAME start="165" local_name_id="3" end="180" id="120766_14" all_names="C A D C CIR" >C. A. D. C. Cir</NAME>
+
+<NAME start="182" local_name_id="4" end="192" id="120766_15" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="309" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_253_725" id1="Dummy_File_200833" volume="253" start="296" page_number="725" standard_reporter="F.3D" citation_global_level_id="264683.001" line="8" id="120766_13" citation_local_level_id="2" >253 F. 3d 725</CITATION>
+
+<RELATION theme="120766_2" party1="120766_3" party1_string="WASHINGTON HOSPITAL CENTER ET AL." theme_string="WASHINGTON HOSPITAL CENTER ET AL. v. SNOWDEN ET AL" gram_type="infix" relation_type="asymmetric" id="120766_6" ></RELATION>
+
+<RELATION party2="120766_4" theme="120766_2" theme_string="WASHINGTON HOSPITAL CENTER ET AL. v. SNOWDEN ET AL" party2_string="SNOWDEN ET AL" gram_type="infix" relation_type="asymmetric" id="120766_7" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1090" X_vs_Y_string="WASHINGTON HOSPITAL CENTER ET AL. v. SNOWDEN ET AL" standard_case="120766_1" X_vs_Y="120766_2" gram_type="multi_line" relation_type="equivalence" id="120766_10" ></RELATION>
+
+<RELATION at_date_string="May 20, 2002" theme="120766_2" at_date="120766_9" theme_string="WASHINGTON HOSPITAL CENTER ET AL. v. SNOWDEN ET AL" gram_type="multi_line" relation_type="asymmetric" id="120766_12" ></RELATION>
+
+<RELATION theme="120766_2" includes_docket_string="01-1191" includes_docket="120766_8" theme_string="WASHINGTON HOSPITAL CENTER ET AL. v. SNOWDEN ET AL" gram_type="multi_line" relation_type="asymmetric" id="120766_11" ></RELATION>
+

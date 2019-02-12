@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['legrandecarolina#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1202" id1="127301" volume="537" start="0" page_number="1202" standard_reporter="U.S." citation_global_level_id="2563.002" line="1" id="127302_1" citation_local_level_id="0" >537 U.S. 1202</CITATION>
+
+<CITATION party2="NORTH CAROLINA" party1="LEGRANDE" citation_global_level_id="33877.001" party2_short="CAROLINA" line="1" id="127302_3" alternative_keys="['u.s._537_1202']" end="44" entry_type="party_key" lookup_key="legrandecarolina#2" id1="126441" start="18" party1_short="LEGRANDE" citation_local_level_id="1" >LEGRANDE v. NORTH CAROLINA</CITATION>
+
+<NAME end="26" start="18" party1_of="127302_3" all_names="LEGRANDE" local_name_id="1" id="127302_4" >LEGRANDE</NAME>
+
+<NAME end="44" start="30" all_names="NORTH CAROLINA" party2_of="127302_3" local_name_id="2" id="127302_5" >NORTH CAROLINA</NAME>
+
+<DOCKET end="61" entry_type="docket" lookup_key="u.s._537_1202" id1="127301" start="54" citation_global_level_id="2563.002" line="1" id="127302_2" citation_local_level_id="0" >02-7969</DOCKET>
+
+<DATE start="103" end="120" id="127302_6" >February 24, 2003</DATE>
+
+<PROFESSION start="267" end="270" id="127302_12" >Gen</PROFESSION>
+
+<NAME start="272" local_name_id="3" end="274" id="127302_13" all_names="CT" >Ct</NAME>
+
+<PROFESSION start="276" document_level_name_id="3" end="290" id="127302_14" party="CT" >Justice, Super</PROFESSION>
+
+<NAME start="292" local_name_id="3" end="294" id="127302_15" all_names="CT" >Ct</NAME>
+
+<RELATION theme="127302_1" includes_docket_string="02-7969" includes_docket="127302_2" theme_string="537 U.S. 1202" gram_type="apposition" relation_type="asymmetric" id="127302_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1202" X_vs_Y_string="LEGRANDE v. NORTH CAROLINA" standard_case="127302_1" X_vs_Y="127302_3" gram_type="pre_nom" relation_type="equivalence" id="127302_7" ></RELATION>
+
+<RELATION theme="127302_3" includes_docket_string="02-7969" includes_docket="127302_2" theme_string="LEGRANDE v. NORTH CAROLINA" gram_type="apposition" relation_type="asymmetric" id="127302_10" ></RELATION>
+
+<RELATION theme="127302_3" party1="127302_4" party1_string="LEGRANDE" theme_string="LEGRANDE v. NORTH CAROLINA" gram_type="infix" relation_type="asymmetric" id="127302_8" ></RELATION>
+
+<RELATION party2="127302_5" theme="127302_3" theme_string="LEGRANDE v. NORTH CAROLINA" party2_string="NORTH CAROLINA" gram_type="infix" relation_type="asymmetric" id="127302_9" ></RELATION>
+
+<RELATION theme="127302_13" profession_string="Justice, Super" theme_string="Ct" profession="127302_14" gram_type="apposition" relation_type="asymmetric" id="127302_16" ></RELATION>
+

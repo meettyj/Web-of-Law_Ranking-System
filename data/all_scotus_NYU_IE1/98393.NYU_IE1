@@ -1,0 +1,38 @@
+<CITATION alternative_keys="['companycompany#217', 's.ct._33_326', 'l.ed._57_382']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._236_614" id1="98393" volume="236" start="0" page_number="614" standard_reporter="U.S." citation_global_level_id="33220.002" line="1" id="98393_1" citation_local_level_id="0" >236 U.S. 614</CITATION>
+
+<CITATION alternative_keys="['u.s._236_614', 'companycompany#217', 'l.ed._57_382']" end="30" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._33_326" id1="98393" volume="33" start="17" page_number="326" standard_reporter="S.CT." citation_global_level_id="33220.003" line="1" id="98393_2" citation_local_level_id="1" >33 S. Ct. 326</CITATION>
+
+<NAME start="20" local_name_id="1" end="25" id="98393_9" all_names="S CT" >S. Ct</NAME>
+
+<CITATION alternative_keys="['u.s._236_614', 's.ct._33_326', 'companycompany#217']" end="48" reporter="L. Ed." entry_type="standard_key" lookup_key="l.ed._57_382" id1="98393" volume="57" start="35" page_number="382" standard_reporter="L.ED." citation_global_level_id="33220.004" line="1" id="98393_3" citation_local_level_id="2" >57 L. Ed. 382</CITATION>
+
+<CITATION party2="BEMIS CAR BOX COMPANY" alternative_keys="['s.ct._33_326', 'l.ed._57_382', 'u.s._236_614']" party1="J. G. BRILL COMPANY," end="110" party1_short="COMPANY" entry_type="party_key" party1_role="petitioner" lookup_key="companycompany#217" id1="98393" start="53" citation_global_level_id="33220.005" party2_short="COMPANY" line="1" id="98393_4" citation_local_level_id="3" >J. G. BRILL COMPANY, Petitioner, v. BEMIS CAR BOX COMPANY</CITATION>
+
+<NAME end="73" start="53" party1_of="98393_4" all_names="J G BRILL COMPANY" local_name_id="2" id="98393_5" >J. G. BRILL COMPANY,</NAME>
+
+<ORGANIZATION start="53" end="72" id="98393_10" >J. G. BRILL COMPANY</ORGANIZATION>
+
+<LEGAL_ROLE start="74" end="84" id="98393_7" >Petitioner</LEGAL_ROLE>
+
+<NAME end="110" start="89" all_names="BEMIS CAR BOX COMPANY" party2_of="98393_4" local_name_id="3" id="98393_6" >BEMIS CAR BOX COMPANY</NAME>
+
+<DATE start="168" end="184" id="98393_8" >January 13, 1913</DATE>
+
+<NAME start="284" local_name_id="4" end="307" id="98393_16" all_names="MESSRS JOHN G JOHNSON" >Messrs. John G. Johnson</NAME>
+
+<NAME start="309" local_name_id="5" end="323" id="98393_17" all_names="HENRY P BROWN" >Henry P. Brown</NAME>
+
+<NAME start="329" local_name_id="6" end="343" id="98393_18" all_names="ANTONIO KNAUTH" >Antonio Knauth</NAME>
+
+<LEGAL_ROLE start="349" end="359" id="98393_19" >respondent</LEGAL_ROLE>
+
+<RELATION standard_case_string="236 U.S. 614" X_vs_Y_string="J. G. BRILL COMPANY, Petitioner, v. BEMIS CAR BOX COMPANY" standard_case="98393_1" X_vs_Y="98393_4" gram_type="pre_nom" relation_type="equivalence" id="98393_12" ></RELATION>
+
+<RELATION standard_case_string="33 S. Ct. 326" X_vs_Y_string="J. G. BRILL COMPANY, Petitioner, v. BEMIS CAR BOX COMPANY" standard_case="98393_2" X_vs_Y="98393_4" gram_type="pre_nom" relation_type="equivalence" id="98393_13" ></RELATION>
+
+<RELATION standard_case_string="57 L. Ed. 382" X_vs_Y_string="J. G. BRILL COMPANY, Petitioner, v. BEMIS CAR BOX COMPANY" standard_case="98393_3" X_vs_Y="98393_4" gram_type="pre_nom" relation_type="equivalence" id="98393_11" ></RELATION>
+
+<RELATION theme="98393_4" party1="98393_5" party1_string="J. G. BRILL COMPANY," theme_string="J. G. BRILL COMPANY, Petitioner, v. BEMIS CAR BOX COMPANY" gram_type="infix" relation_type="asymmetric" id="98393_14" ></RELATION>
+
+<RELATION party2="98393_6" theme="98393_4" theme_string="J. G. BRILL COMPANY, Petitioner, v. BEMIS CAR BOX COMPANY" party2_string="BEMIS CAR BOX COMPANY" gram_type="infix" relation_type="asymmetric" id="98393_15" ></RELATION>
+

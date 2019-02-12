@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['austintennessee#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1001" id1="129223" volume="538" start="0" page_number="1001" standard_reporter="U.S." citation_global_level_id="694.002" line="1" id="129211_1" citation_local_level_id="0" >538 U.S. 1001</CITATION>
+
+<CITATION party2="TENNESSEE" party1="AUSTIN" citation_global_level_id="63512.001" party2_short="TENNESSEE" line="1" id="129211_3" alternative_keys="['u.s._538_1001']" end="37" entry_type="party_key" lookup_key="austintennessee#2" id1="129211" start="18" party1_short="AUSTIN" citation_local_level_id="1" >AUSTIN v. TENNESSEE</CITATION>
+
+<NAME end="24" start="18" party1_of="129211_3" all_names="AUSTIN" local_name_id="1" id="129211_4" >AUSTIN</NAME>
+
+<NAME end="37" start="28" all_names="TENNESSEE" party2_of="129211_3" local_name_id="2" id="129211_5" >TENNESSEE</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="u.s._538_1001" id1="129223" start="47" citation_global_level_id="694.002" line="1" id="129211_2" citation_local_level_id="0" >02-8623</DOCKET>
+
+<DATE start="96" end="110" id="129211_6" >April 28, 2003</DATE>
+
+<NAME start="203" local_name_id="3" end="206" id="129211_13" all_names="SUP" >Sup</NAME>
+
+<CITATION end="268" reporter="S. W. 3d" entry_type="standard_key" no_current_file="True" lookup_key="s.w.3d_87_447" id1="Dummy_File_53526" volume="87" start="253" page_number="447" standard_reporter="S.W.3D" citation_global_level_id="117376.001" line="3" id="129211_12" citation_local_level_id="2" >87 S. W. 3d 447</CITATION>
+
+<RELATION theme="129211_1" includes_docket_string="02-8623" includes_docket="129211_2" theme_string="538 U.S. 1001" gram_type="apposition" relation_type="asymmetric" id="129211_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1001" X_vs_Y_string="AUSTIN v. TENNESSEE" standard_case="129211_1" X_vs_Y="129211_3" gram_type="pre_nom" relation_type="equivalence" id="129211_7" ></RELATION>
+
+<RELATION theme="129211_3" includes_docket_string="02-8623" includes_docket="129211_2" theme_string="AUSTIN v. TENNESSEE" gram_type="apposition" relation_type="asymmetric" id="129211_10" ></RELATION>
+
+<RELATION theme="129211_3" party1="129211_4" party1_string="AUSTIN" theme_string="AUSTIN v. TENNESSEE" gram_type="infix" relation_type="asymmetric" id="129211_8" ></RELATION>
+
+<RELATION party2="129211_5" theme="129211_3" theme_string="AUSTIN v. TENNESSEE" party2_string="TENNESSEE" gram_type="infix" relation_type="asymmetric" id="129211_9" ></RELATION>
+

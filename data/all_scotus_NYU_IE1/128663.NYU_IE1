@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['gobbigobbi#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_959" id1="128656" volume="538" start="0" page_number="959" standard_reporter="U.S." citation_global_level_id="22964.002" line="1" id="128663_1" citation_local_level_id="0" >538 U.S. 959</CITATION>
+
+<CITATION party2="GOBBI" party1="GOBBI" citation_global_level_id="39864.001" party2_short="GOBBI" line="1" id="128663_3" alternative_keys="['u.s._538_959']" end="31" entry_type="party_key" lookup_key="gobbigobbi#2" id1="127089" start="17" party1_short="GOBBI" citation_local_level_id="1" >GOBBI v. GOBBI</CITATION>
+
+<NAME end="22" start="17" party1_of="128663_3" all_names="GOBBI" local_name_id="1" id="128663_4" >GOBBI</NAME>
+
+<NAME end="31" start="26" all_names="GOBBI" party2_of="128663_3" local_name_id="1" id="128663_5" >GOBBI</NAME>
+
+<DOCKET end="48" entry_type="docket" lookup_key="u.s._538_959" id1="128656" start="41" citation_global_level_id="22964.002" line="1" id="128663_2" citation_local_level_id="0" >02-8064</DOCKET>
+
+<DATE start="90" end="103" id="128663_6" >April 7, 2003</DATE>
+
+<NAME start="233" local_name_id="2" end="236" id="128663_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="346" reporter="U. S." entry_type="standard_key" lookup_key="u.s._537_1186" id1="127096" volume="537" start="332" page_number="1186" standard_reporter="U.S." citation_global_level_id="4244.002" line="3" id="128663_12" citation_local_level_id="2" >537 U. S. 1186</CITATION>
+
+<RELATION theme="128663_1" includes_docket_string="02-8064" includes_docket="128663_2" theme_string="538 U.S. 959" gram_type="apposition" relation_type="asymmetric" id="128663_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 959" X_vs_Y_string="GOBBI v. GOBBI" standard_case="128663_1" X_vs_Y="128663_3" gram_type="pre_nom" relation_type="equivalence" id="128663_7" ></RELATION>
+
+<RELATION theme="128663_3" includes_docket_string="02-8064" includes_docket="128663_2" theme_string="GOBBI v. GOBBI" gram_type="apposition" relation_type="asymmetric" id="128663_10" ></RELATION>
+
+<RELATION theme="128663_3" party1="128663_4" party1_string="GOBBI" theme_string="GOBBI v. GOBBI" gram_type="infix" relation_type="asymmetric" id="128663_8" ></RELATION>
+
+<RELATION party2="128663_5" theme="128663_3" theme_string="GOBBI v. GOBBI" party2_string="GOBBI" gram_type="infix" relation_type="asymmetric" id="128663_9" ></RELATION>
+

@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['switzersmith#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._536_966" id1="121949" volume="536" start="0" page_number="966" standard_reporter="U.S." citation_global_level_id="405.002" line="1" id="121948_1" citation_local_level_id="0" >536 U.S. 966</CITATION>
+
+<CITATION party2="SMITH ET AL" party1="SWITZER" citation_global_level_id="21746.001" party2_short="SMITH" line="2" id="121948_2" alternative_keys="['u.s._536_966']" end="39" entry_type="party_key" lookup_key="switzersmith#1" id1="121948" start="17" party1_short="SWITZER" citation_local_level_id="1" >SWITZER v. SMITH ET AL</CITATION>
+
+<NAME end="24" start="17" party1_of="121948_2" all_names="SWITZER" local_name_id="1" id="121948_3" >SWITZER</NAME>
+
+<NAME end="39" start="28" all_names="SMITH" party2_of="121948_2" local_name_id="2" id="121948_4" >SMITH ET AL</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="switzersmith#1" id1="121948" start="49" citation_global_level_id="21746.001" line="3" id="121948_7" citation_local_level_id="1" >01-9936</DOCKET>
+
+<DATE start="102" citation_global_level_id="21746.001" end="115" id="121948_8" citation_local_level_id="1" >June 28, 2002</DATE>
+
+<NAME start="137" local_name_id="3" end="140" id="121948_12" all_names="SUP" >Sup</NAME>
+
+<RELATION theme="121948_2" party1="121948_3" party1_string="SWITZER" theme_string="SWITZER v. SMITH ET AL" gram_type="infix" relation_type="asymmetric" id="121948_5" ></RELATION>
+
+<RELATION party2="121948_4" theme="121948_2" theme_string="SWITZER v. SMITH ET AL" party2_string="SMITH ET AL" gram_type="infix" relation_type="asymmetric" id="121948_6" ></RELATION>
+
+<RELATION standard_case_string="536 U.S. 966" X_vs_Y_string="SWITZER v. SMITH ET AL" standard_case="121948_1" X_vs_Y="121948_2" gram_type="multi_line" relation_type="equivalence" id="121948_9" ></RELATION>
+
+<RELATION at_date_string="June 28, 2002" theme="121948_2" at_date="121948_8" theme_string="SWITZER v. SMITH ET AL" gram_type="multi_line" relation_type="asymmetric" id="121948_11" ></RELATION>
+
+<RELATION theme="121948_2" includes_docket_string="01-9936" includes_docket="121948_7" theme_string="SWITZER v. SMITH ET AL" gram_type="multi_line" relation_type="asymmetric" id="121948_10" ></RELATION>
+

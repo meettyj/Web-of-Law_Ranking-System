@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['noestates#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_931" id1="132883" volume="540" start="0" page_number="931" standard_reporter="U.S." citation_global_level_id="14519.002" line="1" id="132879_1" citation_local_level_id="0" >540 U.S. 931</CITATION>
+
+<CITATION party2="UNITED STATES" party1="NOE" citation_global_level_id="34359.001" party2_short="STATES" line="1" id="132879_3" alternative_keys="['u.s._540_931']" end="37" entry_type="party_key" lookup_key="noestates#1" id1="132879" start="17" party1_short="NOE" citation_local_level_id="1" >NOE v. UNITED STATES</CITATION>
+
+<NAME end="20" start="17" party1_of="132879_3" all_names="NOE" local_name_id="1" id="132879_4" >NOE</NAME>
+
+<NAME end="37" start="24" all_names="UNITED STATES" party2_of="132879_3" local_name_id="2" id="132879_5" >UNITED STATES</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="u.s._540_931" id1="132883" start="47" citation_global_level_id="14519.002" line="1" id="132879_2" citation_local_level_id="0" >03-5909</DOCKET>
+
+<DATE start="96" end="111" id="132879_6" >October 6, 2003</DATE>
+
+<NAME start="189" local_name_id="3" end="199" id="132879_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="132879_1" includes_docket_string="03-5909" includes_docket="132879_2" theme_string="540 U.S. 931" gram_type="apposition" relation_type="asymmetric" id="132879_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 931" X_vs_Y_string="NOE v. UNITED STATES" standard_case="132879_1" X_vs_Y="132879_3" gram_type="pre_nom" relation_type="equivalence" id="132879_7" ></RELATION>
+
+<RELATION theme="132879_3" includes_docket_string="03-5909" includes_docket="132879_2" theme_string="NOE v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="132879_10" ></RELATION>
+
+<RELATION theme="132879_3" party1="132879_4" party1_string="NOE" theme_string="NOE v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="132879_8" ></RELATION>
+
+<RELATION party2="132879_5" theme="132879_3" theme_string="NOE v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="132879_9" ></RELATION>
+

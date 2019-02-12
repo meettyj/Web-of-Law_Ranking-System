@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['vollbrechtwisconsin#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_923" id1="114474" volume="510" start="0" page_number="923" standard_reporter="U.S." citation_global_level_id="5819.002" line="1" id="114472_1" citation_local_level_id="0" >510 U.S. 923</CITATION>
+
+<CITATION party2="Wisconsin" party1="Vollbrecht" citation_global_level_id="12709.001" party2_short="Wisconsin" line="1" id="114472_3" alternative_keys="['u.s._510_923']" end="40" entry_type="party_key" lookup_key="vollbrechtwisconsin#1" id1="114472" start="17" party1_short="Vollbrecht" citation_local_level_id="1" >Vollbrecht v. Wisconsin</CITATION>
+
+<NAME end="27" start="17" party1_of="114472_3" all_names="VOLLBRECHT" local_name_id="1" id="114472_4" >Vollbrecht</NAME>
+
+<NAME end="40" start="31" all_names="WISCONSIN" party2_of="114472_3" local_name_id="2" id="114472_5" >Wisconsin</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._510_923" id1="114474" start="50" citation_global_level_id="5819.002" line="1" id="114472_2" citation_local_level_id="0" >93-5725</DOCKET>
+
+<DATE start="99" end="115" id="114472_6" >October 12, 1993</DATE>
+
+<NAME start="192" local_name_id="3" end="202" id="114472_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="260" reporter="N. W. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.w.2d_502_283" id1="Dummy_File_186981" volume="502" start="244" page_number="283" standard_reporter="N.W.2D" citation_global_level_id="250831.001" line="3" id="114472_12" citation_local_level_id="2" >502 N. W. 2d 283</CITATION>
+
+<RELATION theme="114472_1" includes_docket_string="93-5725" includes_docket="114472_2" theme_string="510 U.S. 923" gram_type="apposition" relation_type="asymmetric" id="114472_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 923" X_vs_Y_string="Vollbrecht v. Wisconsin" standard_case="114472_1" X_vs_Y="114472_3" gram_type="pre_nom" relation_type="equivalence" id="114472_7" ></RELATION>
+
+<RELATION theme="114472_3" includes_docket_string="93-5725" includes_docket="114472_2" theme_string="Vollbrecht v. Wisconsin" gram_type="apposition" relation_type="asymmetric" id="114472_10" ></RELATION>
+
+<RELATION theme="114472_3" party1="114472_4" party1_string="Vollbrecht" theme_string="Vollbrecht v. Wisconsin" gram_type="infix" relation_type="asymmetric" id="114472_8" ></RELATION>
+
+<RELATION party2="114472_5" theme="114472_3" theme_string="Vollbrecht v. Wisconsin" party2_string="Wisconsin" gram_type="infix" relation_type="asymmetric" id="114472_9" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['kevorkianmichigan#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_881" id1="123273" volume="537" start="0" page_number="881" standard_reporter="U.S." citation_global_level_id="3584.002" line="1" id="123277_1" citation_local_level_id="0" >537 U.S. 881</CITATION>
+
+<CITATION party2="MICHIGAN" party1="KEVORKIAN" citation_global_level_id="57325.001" party2_short="MICHIGAN" line="1" id="123277_3" alternative_keys="['u.s._537_881']" end="38" entry_type="party_key" lookup_key="kevorkianmichigan#1" id1="123277" start="17" party1_short="KEVORKIAN" citation_local_level_id="1" >KEVORKIAN v. MICHIGAN</CITATION>
+
+<NAME end="26" start="17" party1_of="123277_3" all_names="KEVORKIAN" local_name_id="1" id="123277_4" >KEVORKIAN</NAME>
+
+<NAME end="38" start="30" all_names="MICHIGAN" party2_of="123277_3" local_name_id="2" id="123277_5" >MICHIGAN</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="u.s._537_881" id1="123273" start="48" citation_global_level_id="3584.002" line="1" id="123277_2" citation_local_level_id="0" >02-48</DOCKET>
+
+<DATE start="95" end="110" id="123277_6" >October 7, 2002</DATE>
+
+<NAME start="205" local_name_id="3" end="207" id="123277_13" all_names="CT" >Ct</NAME>
+
+<CITATION end="291" reporter="N. W. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.w.2d_639_291" id1="Dummy_File_193197" volume="639" start="275" page_number="291" standard_reporter="N.W.2D" citation_global_level_id="257047.001" line="3" id="123277_12" citation_local_level_id="2" >639 N. W. 2d 291</CITATION>
+
+<RELATION theme="123277_1" includes_docket_string="02-48" includes_docket="123277_2" theme_string="537 U.S. 881" gram_type="apposition" relation_type="asymmetric" id="123277_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 881" X_vs_Y_string="KEVORKIAN v. MICHIGAN" standard_case="123277_1" X_vs_Y="123277_3" gram_type="pre_nom" relation_type="equivalence" id="123277_7" ></RELATION>
+
+<RELATION theme="123277_3" includes_docket_string="02-48" includes_docket="123277_2" theme_string="KEVORKIAN v. MICHIGAN" gram_type="apposition" relation_type="asymmetric" id="123277_10" ></RELATION>
+
+<RELATION theme="123277_3" party1="123277_4" party1_string="KEVORKIAN" theme_string="KEVORKIAN v. MICHIGAN" gram_type="infix" relation_type="asymmetric" id="123277_8" ></RELATION>
+
+<RELATION party2="123277_5" theme="123277_3" theme_string="KEVORKIAN v. MICHIGAN" party2_string="MICHIGAN" gram_type="infix" relation_type="asymmetric" id="123277_9" ></RELATION>
+

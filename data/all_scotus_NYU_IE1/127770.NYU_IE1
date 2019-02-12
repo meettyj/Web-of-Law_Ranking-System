@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['yellenmueller#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1237" id1="127777" volume="537" start="0" page_number="1237" standard_reporter="U.S." citation_global_level_id="3102.002" line="1" id="127770_1" citation_local_level_id="0" >537 U.S. 1237</CITATION>
+
+<CITATION party2="MUELLER ET AL" party1="YELLEN" citation_global_level_id="61347.001" party2_short="MUELLER" line="1" id="127770_3" alternative_keys="['u.s._537_1237']" end="41" entry_type="party_key" lookup_key="yellenmueller#1" id1="127770" start="18" party1_short="YELLEN" citation_local_level_id="1" >YELLEN v. MUELLER ET AL</CITATION>
+
+<NAME end="24" start="18" party1_of="127770_3" all_names="YELLEN" local_name_id="1" id="127770_4" >YELLEN</NAME>
+
+<NAME end="41" start="28" all_names="MUELLER" party2_of="127770_3" local_name_id="2" id="127770_5" >MUELLER ET AL</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._537_1237" id1="127777" start="51" citation_global_level_id="3102.002" line="1" id="127770_2" citation_local_level_id="0" >02-8343</DOCKET>
+
+<DATE start="100" end="113" id="127770_6" >March 3, 2003</DATE>
+
+<NAME start="242" local_name_id="3" end="245" id="127770_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="127770_1" includes_docket_string="02-8343" includes_docket="127770_2" theme_string="537 U.S. 1237" gram_type="apposition" relation_type="asymmetric" id="127770_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1237" X_vs_Y_string="YELLEN v. MUELLER ET AL" standard_case="127770_1" X_vs_Y="127770_3" gram_type="pre_nom" relation_type="equivalence" id="127770_7" ></RELATION>
+
+<RELATION theme="127770_3" includes_docket_string="02-8343" includes_docket="127770_2" theme_string="YELLEN v. MUELLER ET AL" gram_type="apposition" relation_type="asymmetric" id="127770_10" ></RELATION>
+
+<RELATION theme="127770_3" party1="127770_4" party1_string="YELLEN" theme_string="YELLEN v. MUELLER ET AL" gram_type="infix" relation_type="asymmetric" id="127770_8" ></RELATION>
+
+<RELATION party2="127770_5" theme="127770_3" theme_string="YELLEN v. MUELLER ET AL" party2_string="MUELLER ET AL" gram_type="infix" relation_type="asymmetric" id="127770_9" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['watsonlighting#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1193" id1="127170" volume="537" start="0" page_number="1193" standard_reporter="U.S." citation_global_level_id="9328.002" line="1" id="127180_1" citation_local_level_id="0" >537 U.S. 1193</CITATION>
+
+<CITATION party2="LITHONIA LIGHTING, DBA HI-TEK GROUP, ET AL" party1="WATSON" citation_global_level_id="9328.006" party2_short="LIGHTING" line="1" id="127180_3" alternative_keys="['u.s._537_1193']" end="70" entry_type="party_key" lookup_key="watsonlighting#2" id1="127170" start="18" party1_short="WATSON" citation_local_level_id="1" >WATSON v. LITHONIA LIGHTING, DBA HI-TEK GROUP, ET AL</CITATION>
+
+<NAME end="24" start="18" party1_of="127180_3" all_names="WATSON" local_name_id="1" id="127180_4" >WATSON</NAME>
+
+<NAME end="70" start="28" all_names="LITHONIA LIGHTING DBA HI-TEK GROUP" party2_of="127180_3" local_name_id="2" id="127180_5" >LITHONIA LIGHTING, DBA HI-TEK GROUP, ET AL</NAME>
+
+<DOCKET end="86" entry_type="docket" lookup_key="u.s._537_1193" id1="127170" start="80" citation_global_level_id="9328.002" line="1" id="127180_2" citation_local_level_id="0" >02-959</DOCKET>
+
+<DATE start="128" end="145" id="127180_6" >February 24, 2003</DATE>
+
+<NAME start="276" local_name_id="3" end="279" id="127180_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="329" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_304_749" id1="Dummy_File_144605" volume="304" start="316" page_number="749" standard_reporter="F.3D" citation_global_level_id="208455.001" line="3" id="127180_12" citation_local_level_id="2" >304 F. 3d 749</CITATION>
+
+<RELATION theme="127180_1" includes_docket_string="02-959" includes_docket="127180_2" theme_string="537 U.S. 1193" gram_type="apposition" relation_type="asymmetric" id="127180_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1193" X_vs_Y_string="WATSON v. LITHONIA LIGHTING, DBA HI-TEK GROUP, ET AL" standard_case="127180_1" X_vs_Y="127180_3" gram_type="pre_nom" relation_type="equivalence" id="127180_7" ></RELATION>
+
+<RELATION theme="127180_3" includes_docket_string="02-959" includes_docket="127180_2" theme_string="WATSON v. LITHONIA LIGHTING, DBA HI-TEK GROUP, ET AL" gram_type="apposition" relation_type="asymmetric" id="127180_10" ></RELATION>
+
+<RELATION theme="127180_3" party1="127180_4" party1_string="WATSON" theme_string="WATSON v. LITHONIA LIGHTING, DBA HI-TEK GROUP, ET AL" gram_type="infix" relation_type="asymmetric" id="127180_8" ></RELATION>
+
+<RELATION party2="127180_5" theme="127180_3" theme_string="WATSON v. LITHONIA LIGHTING, DBA HI-TEK GROUP, ET AL" party2_string="LITHONIA LIGHTING, DBA HI-TEK GROUP, ET AL" gram_type="infix" relation_type="asymmetric" id="127180_9" ></RELATION>
+

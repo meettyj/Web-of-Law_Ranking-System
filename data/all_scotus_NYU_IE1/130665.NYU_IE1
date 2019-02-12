@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['nelsoncoleman#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_942" id1="130663" volume="539" start="0" page_number="942" standard_reporter="U.S." citation_global_level_id="2446.002" line="1" id="130665_1" citation_local_level_id="0" >539 U.S. 942</CITATION>
+
+<CITATION party2="Coleman" party1="Nelson" citation_global_level_id="20635.001" party2_short="Coleman" line="1" id="130665_3" alternative_keys="['u.s._539_942']" end="34" entry_type="party_key" lookup_key="nelsoncoleman#1" id1="130665" start="17" party1_short="Nelson" citation_local_level_id="1" >Nelson v. Coleman</CITATION>
+
+<NAME end="23" start="17" party1_of="130665_3" all_names="NELSON" local_name_id="1" id="130665_4" >Nelson</NAME>
+
+<NAME end="34" start="27" all_names="COLEMAN" party2_of="130665_3" local_name_id="2" id="130665_5" >Coleman</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="u.s._539_942" id1="130663" start="44" citation_global_level_id="2446.002" line="1" id="130665_2" citation_local_level_id="0" >02-1533</DOCKET>
+
+<DATE start="93" end="106" id="130665_6" >June 23, 2003</DATE>
+
+<NAME start="183" local_name_id="3" end="193" id="130665_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="232" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_881_549" id1="Dummy_File_19251" volume="881" start="218" page_number="549" standard_reporter="SO.2D" citation_global_level_id="83101.001" line="3" id="130665_12" citation_local_level_id="2" >881 So. 2d 549</CITATION>
+
+<RELATION theme="130665_1" includes_docket_string="02-1533" includes_docket="130665_2" theme_string="539 U.S. 942" gram_type="apposition" relation_type="asymmetric" id="130665_11" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 942" X_vs_Y_string="Nelson v. Coleman" standard_case="130665_1" X_vs_Y="130665_3" gram_type="pre_nom" relation_type="equivalence" id="130665_7" ></RELATION>
+
+<RELATION theme="130665_3" includes_docket_string="02-1533" includes_docket="130665_2" theme_string="Nelson v. Coleman" gram_type="apposition" relation_type="asymmetric" id="130665_10" ></RELATION>
+
+<RELATION theme="130665_3" party1="130665_4" party1_string="Nelson" theme_string="Nelson v. Coleman" gram_type="infix" relation_type="asymmetric" id="130665_8" ></RELATION>
+
+<RELATION party2="130665_5" theme="130665_3" theme_string="Nelson v. Coleman" party2_string="Coleman" gram_type="infix" relation_type="asymmetric" id="130665_9" ></RELATION>
+

@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['trujillowilliams#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._536_946" id1="121707" volume="536" start="0" page_number="946" standard_reporter="U.S." citation_global_level_id="7595.002" line="1" id="121706_1" citation_local_level_id="0" >536 U.S. 946</CITATION>
+
+<CITATION party2="WILLIAMS, WARDEN, ET AL" party1="TRUJILLO" citation_global_level_id="7595.007" party2_short="WILLIAMS" line="2" id="121706_2" alternative_keys="['u.s._536_946']" end="52" entry_type="party_key" lookup_key="trujillowilliams#1" id1="121707" start="17" party1_short="TRUJILLO" citation_local_level_id="1" >TRUJILLO v. WILLIAMS, WARDEN, ET AL</CITATION>
+
+<NAME end="25" start="17" party1_of="121706_2" all_names="TRUJILLO" local_name_id="1" id="121706_3" >TRUJILLO</NAME>
+
+<NAME end="52" start="29" all_names="WILLIAMS WARDEN" party2_of="121706_2" local_name_id="2" id="121706_4" >WILLIAMS, WARDEN, ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._536_946']" end="69" entry_type="docket" lookup_key="trujillowilliams#1" id1="121707" start="62" citation_global_level_id="7595.007" line="3" id="121706_7" citation_local_level_id="1" >01-9848</DOCKET>
+
+<DATE start="115" citation_global_level_id="7595.007" end="128" id="121706_8" citation_local_level_id="1" >June 24, 2002</DATE>
+
+<NAME start="161" local_name_id="3" end="164" id="121706_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="121706_2" party1="121706_3" party1_string="TRUJILLO" theme_string="TRUJILLO v. WILLIAMS, WARDEN, ET AL" gram_type="infix" relation_type="asymmetric" id="121706_5" ></RELATION>
+
+<RELATION party2="121706_4" theme="121706_2" theme_string="TRUJILLO v. WILLIAMS, WARDEN, ET AL" party2_string="WILLIAMS, WARDEN, ET AL" gram_type="infix" relation_type="asymmetric" id="121706_6" ></RELATION>
+
+<RELATION standard_case_string="536 U.S. 946" X_vs_Y_string="TRUJILLO v. WILLIAMS, WARDEN, ET AL" standard_case="121706_1" X_vs_Y="121706_2" gram_type="multi_line" relation_type="equivalence" id="121706_9" ></RELATION>
+
+<RELATION at_date_string="June 24, 2002" theme="121706_2" at_date="121706_8" theme_string="TRUJILLO v. WILLIAMS, WARDEN, ET AL" gram_type="multi_line" relation_type="asymmetric" id="121706_11" ></RELATION>
+
+<RELATION theme="121706_2" includes_docket_string="01-9848" includes_docket="121706_7" theme_string="TRUJILLO v. WILLIAMS, WARDEN, ET AL" gram_type="multi_line" relation_type="asymmetric" id="121706_10" ></RELATION>
+

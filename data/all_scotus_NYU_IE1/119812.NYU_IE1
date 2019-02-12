@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['palmerstates#5']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1012" id1="119822" volume="535" start="0" page_number="1012" standard_reporter="U.S." citation_global_level_id="6686.002" line="1" id="119812_1" citation_local_level_id="0" >535 U.S. 1012</CITATION>
+
+<CITATION party2="UNITED STATES" party1="PALMER" citation_global_level_id="57789.001" party2_short="STATES" line="2" id="119812_2" alternative_keys="['u.s._535_1012']" end="41" entry_type="party_key" lookup_key="palmerstates#5" id1="128377" start="18" party1_short="PALMER" citation_local_level_id="1" >PALMER v. UNITED STATES</CITATION>
+
+<NAME end="24" start="18" party1_of="119812_2" all_names="PALMER" local_name_id="1" id="119812_3" >PALMER</NAME>
+
+<NAME end="41" start="28" all_names="UNITED STATES" party2_of="119812_2" local_name_id="2" id="119812_4" >UNITED STATES</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="palmerstates#5" id1="128377" start="51" citation_global_level_id="57789.001" line="3" id="119812_7" citation_local_level_id="1" >01-1355</DOCKET>
+
+<DATE start="104" citation_global_level_id="57789.001" end="118" id="119812_8" citation_local_level_id="1" >April 15, 2002</DATE>
+
+<NAME start="150" local_name_id="3" end="153" id="119812_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="295" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_248_569" id1="Dummy_File_100630" volume="248" start="282" page_number="569" standard_reporter="F.3D" citation_global_level_id="164480.001" line="8" id="119812_12" citation_local_level_id="2" >248 F. 3d 569</CITATION>
+
+<RELATION theme="119812_2" party1="119812_3" party1_string="PALMER" theme_string="PALMER v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="119812_5" ></RELATION>
+
+<RELATION party2="119812_4" theme="119812_2" theme_string="PALMER v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="119812_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1012" X_vs_Y_string="PALMER v. UNITED STATES" standard_case="119812_1" X_vs_Y="119812_2" gram_type="multi_line" relation_type="equivalence" id="119812_9" ></RELATION>
+
+<RELATION at_date_string="April 15, 2002" theme="119812_2" at_date="119812_8" theme_string="PALMER v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="119812_11" ></RELATION>
+
+<RELATION theme="119812_2" includes_docket_string="01-1355" includes_docket="119812_7" theme_string="PALMER v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="119812_10" ></RELATION>
+

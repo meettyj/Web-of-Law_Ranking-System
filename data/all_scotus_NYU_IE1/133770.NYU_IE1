@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['shepardcavalieri#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_1003" id1="133764" volume="540" start="0" page_number="1003" standard_reporter="U.S." citation_global_level_id="7245.002" line="1" id="133770_1" citation_local_level_id="0" >540 U.S. 1003</CITATION>
+
+<CITATION party2="CAVALIERI, AS PLENARY GUARDIAN OF THE ESTATE OF CAVALIERI, A DISABLED PERSON" party1="SHEPARD" citation_global_level_id="7245.005" party2_short="CAVALIERI" line="1" id="133770_3" alternative_keys="['u.s._540_1003']" end="105" entry_type="party_key" lookup_key="shepardcavalieri#2" id1="133764" start="18" party1_short="SHEPARD" citation_local_level_id="1" >SHEPARD v. CAVALIERI, AS PLENARY GUARDIAN OF THE ESTATE OF CAVALIERI, A DISABLED PERSON</CITATION>
+
+<NAME end="25" start="18" party1_of="133770_3" all_names="SHEPARD" local_name_id="1" id="133770_4" >SHEPARD</NAME>
+
+<NAME end="105" start="29" all_names="CAVALIERI AS PLENARY GUARDIAN OF THE ESTATE OF CAVALIERI A DISABLED PERSON" party2_of="133770_3" local_name_id="2" id="133770_5" >CAVALIERI, AS PLENARY GUARDIAN OF THE ESTATE OF CAVALIERI, A DISABLED PERSON</NAME>
+
+<DOCKET end="122" entry_type="docket" lookup_key="u.s._540_1003" id1="133764" start="115" citation_global_level_id="7245.002" line="1" id="133770_2" citation_local_level_id="0" >02-1843</DOCKET>
+
+<DATE start="118" end="122" id="133770_6" >1843</DATE>
+
+<DATE start="164" end="181" id="133770_7" >November 10, 2003</DATE>
+
+<NAME start="259" local_name_id="3" end="269" id="133770_15" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="307" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_321_616" id1="Dummy_File_116878" volume="321" start="294" page_number="616" standard_reporter="F.3D" citation_global_level_id="180728.001" line="3" id="133770_14" citation_local_level_id="2" >321 F. 3d 616</CITATION>
+
+<RELATION theme="133770_1" includes_docket_string="02-1843" includes_docket="133770_2" theme_string="540 U.S. 1003" gram_type="apposition" relation_type="asymmetric" id="133770_12" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 1003" X_vs_Y_string="SHEPARD v. CAVALIERI, AS PLENARY GUARDIAN OF THE ESTATE OF CAVALIERI, A DISABLED PERSON" standard_case="133770_1" X_vs_Y="133770_3" gram_type="pre_nom" relation_type="equivalence" id="133770_8" ></RELATION>
+
+<RELATION theme="133770_3" includes_docket_string="02-1843" includes_docket="133770_2" theme_string="SHEPARD v. CAVALIERI, AS PLENARY GUARDIAN OF THE ESTATE OF CAVALIERI, A DISABLED PERSON" gram_type="apposition" relation_type="asymmetric" id="133770_11" ></RELATION>
+
+<RELATION party2="133770_5" theme="133770_3" theme_string="SHEPARD v. CAVALIERI, AS PLENARY GUARDIAN OF THE ESTATE OF CAVALIERI, A DISABLED PERSON" party2_string="CAVALIERI, AS PLENARY GUARDIAN OF THE ESTATE OF CAVALIERI, A DISABLED PERSON" gram_type="infix" relation_type="asymmetric" id="133770_10" ></RELATION>
+
+<RELATION theme="133770_3" party1="133770_4" party1_string="SHEPARD" theme_string="SHEPARD v. CAVALIERI, AS PLENARY GUARDIAN OF THE ESTATE OF CAVALIERI, A DISABLED PERSON" gram_type="infix" relation_type="asymmetric" id="133770_9" ></RELATION>
+
+<RELATION at_date_string="1843" theme="133770_2" at_date="133770_6" theme_string="02-1843" gram_type="infix" relation_type="asymmetric" id="133770_13" ></RELATION>
+

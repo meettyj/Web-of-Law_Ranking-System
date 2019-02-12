@@ -1,0 +1,36 @@
+<CITATION alternative_keys="['associatesassociates#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_945" id1="114733" volume="510" start="0" page_number="945" standard_reporter="U.S." citation_global_level_id="10281.002" line="1" id="114721_1" citation_local_level_id="0" >510 U.S. 945</CITATION>
+
+<CITATION party2="Sperber Adams Associates et al" party1="JEM Management Associates Corp. et al." citation_global_level_id="10281.003" party2_short="Associates" line="1" id="114721_3" alternative_keys="['u.s._510_945']" end="89" entry_type="party_key" lookup_key="associatesassociates#2" id1="114733" start="17" party1_short="Associates" citation_local_level_id="1" >JEM Management Associates Corp. et al. v. Sperber Adams Associates et al</CITATION>
+
+<NAME end="55" start="17" party1_of="114721_3" all_names="JEM MANAGEMENT ASSOCIATES CORP" local_name_id="1" id="114721_4" >JEM Management Associates Corp. et al.</NAME>
+
+<ORGANIZATION start="17" end="47" id="114721_7" >JEM Management Associates Corp</ORGANIZATION>
+
+<NAME end="89" start="59" all_names="SPERBER ADAMS ASSOCIATES" party2_of="114721_3" local_name_id="2" id="114721_5" >Sperber Adams Associates et al</NAME>
+
+<PROFESSION start="59" end="83" plural="True" id="114721_8" >Sperber Adams Associates</PROFESSION>
+
+<DOCKET end="105" entry_type="docket" lookup_key="u.s._510_945" id1="114733" start="99" citation_global_level_id="10281.002" line="1" id="114721_2" citation_local_level_id="0" >93-293</DOCKET>
+
+<ORGANIZATION start="111" end="141" id="114721_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="147" end="163" id="114721_6" >November 1, 1993</DATE>
+
+<NAME start="185" local_name_id="3" end="202" id="114721_10" all_names="APPEAL FROM THE C" >Appeal from the C</NAME>
+
+<NAME start="210" local_name_id="4" end="213" id="114721_11" all_names="CIR" >Cir</NAME>
+
+<NAME start="240" local_name_id="5" end="250" id="114721_18" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="287" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_989_93" id1="Dummy_File_70786" volume="989" start="275" page_number="93" standard_reporter="F.2D" citation_global_level_id="134636.001" line="3" id="114721_17" citation_local_level_id="2" >989 F. 2d 93</CITATION>
+
+<RELATION theme="114721_1" includes_docket_string="93-293" includes_docket="114721_2" theme_string="510 U.S. 945" gram_type="apposition" relation_type="asymmetric" id="114721_16" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 945" X_vs_Y_string="JEM Management Associates Corp. et al. v. Sperber Adams Associates et al" standard_case="114721_1" X_vs_Y="114721_3" gram_type="pre_nom" relation_type="equivalence" id="114721_12" ></RELATION>
+
+<RELATION theme="114721_3" includes_docket_string="93-293" includes_docket="114721_2" theme_string="JEM Management Associates Corp. et al. v. Sperber Adams Associates et al" gram_type="apposition" relation_type="asymmetric" id="114721_15" ></RELATION>
+
+<RELATION theme="114721_3" party1="114721_4" party1_string="JEM Management Associates Corp. et al." theme_string="JEM Management Associates Corp. et al. v. Sperber Adams Associates et al" gram_type="infix" relation_type="asymmetric" id="114721_13" ></RELATION>
+
+<RELATION party2="114721_5" theme="114721_3" theme_string="JEM Management Associates Corp. et al. v. Sperber Adams Associates et al" party2_string="Sperber Adams Associates et al" gram_type="infix" relation_type="asymmetric" id="114721_14" ></RELATION>
+

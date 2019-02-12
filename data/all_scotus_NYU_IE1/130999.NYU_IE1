@@ -1,0 +1,36 @@
+<CITATION alternative_keys="['noelnorris#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_972" id1="130999" volume="539" start="0" page_number="972" standard_reporter="U.S." citation_global_level_id="60775.002" line="1" id="130999_1" citation_local_level_id="0" >539 U.S. 972</CITATION>
+
+<CITATION party2="Norris, Director, Arkansas Department of Correction" party1="Noel" citation_global_level_id="60775.003" party2_short="Norris" line="1" id="130999_4" alternative_keys="['u.s._539_972']" end="76" entry_type="party_key" lookup_key="noelnorris#1" id1="130999" start="17" party1_short="Noel" citation_local_level_id="1" >Noel v. Norris, Director, Arkansas Department of Correction</CITATION>
+
+<NAME end="21" start="17" party1_of="130999_4" all_names="NOEL" local_name_id="1" id="130999_5" >Noel</NAME>
+
+<NAME end="76" start="25" all_names="NORRIS DIRECTOR ARKANSAS DEPARTMENT OF CORRECTION" party2_of="130999_4" local_name_id="2" id="130999_6" >Norris, Director, Arkansas Department of Correction</NAME>
+
+<DOCKET end="93" entry_type="docket" lookup_key="u.s._539_972" id1="130999" start="86" citation_global_level_id="60775.002" line="1" id="130999_3" citation_local_level_id="0" >03-5224</DOCKET>
+
+<CITATION end="100" reporter="A" entry_type="standard_key" no_current_file="True" lookup_key="a._03_36" id1="Dummy_File_62110" volume="03" start="95" page_number="36" standard_reporter="A." citation_global_level_id="125960.001" line="1" id="130999_2" citation_local_level_id="2" >03A36</CITATION>
+
+<DATE start="143" end="155" id="130999_7" >July 9, 2003</DATE>
+
+<NAME start="232" local_name_id="3" end="243" id="130999_14" all_names="APPLICATION" >Application</NAME>
+
+<PROFESSION start="301" document_level_name_id="4" end="308" id="130999_15" party="THOMAS" >JUSTICE</PROFESSION>
+
+<NAME start="309" local_name_id="4" end="315" id="130999_16" all_names="THOMAS" >THOMAS</NAME>
+
+<ORGANIZATION start="344" end="349" id="130999_17" >Court</ORGANIZATION>
+
+<CITATION end="424" reporter="S. W. 3d" entry_type="standard_key" no_current_file="True" lookup_key="s.w.3d_120_599" id1="Dummy_File_62111" volume="120" start="408" page_number="599" standard_reporter="S.W.3D" citation_global_level_id="125961.001" line="3" id="130999_13" citation_local_level_id="3" >120 S. W. 3d 599</CITATION>
+
+<RELATION theme="130999_1" includes_docket_string="03-5224" includes_docket="130999_3" theme_string="539 U.S. 972" gram_type="apposition" relation_type="asymmetric" id="130999_12" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 972" X_vs_Y_string="Noel v. Norris, Director, Arkansas Department of Correction" standard_case="130999_1" X_vs_Y="130999_4" gram_type="pre_nom" relation_type="equivalence" id="130999_8" ></RELATION>
+
+<RELATION theme="130999_4" includes_docket_string="03-5224" includes_docket="130999_3" theme_string="Noel v. Norris, Director, Arkansas Department of Correction" gram_type="apposition" relation_type="asymmetric" id="130999_11" ></RELATION>
+
+<RELATION party2="130999_6" theme="130999_4" theme_string="Noel v. Norris, Director, Arkansas Department of Correction" party2_string="Norris, Director, Arkansas Department of Correction" gram_type="infix" relation_type="asymmetric" id="130999_10" ></RELATION>
+
+<RELATION theme="130999_4" party1="130999_5" party1_string="Noel" theme_string="Noel v. Norris, Director, Arkansas Department of Correction" gram_type="infix" relation_type="asymmetric" id="130999_9" ></RELATION>
+
+<RELATION theme="130999_16" profession_string="JUSTICE" theme_string="THOMAS" profession="130999_15" gram_type="pre_nom" relation_type="asymmetric" id="130999_18" ></RELATION>
+

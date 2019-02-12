@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['mettsdepartment#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._536_977" id1="122098" volume="536" start="0" page_number="977" standard_reporter="U.S." citation_global_level_id="67.002" line="1" id="122113_1" citation_local_level_id="0" >536 U.S. 977</CITATION>
+
+<CITATION party2="NORTH CAROLINA DEPARTMENT OF REVENUE" party1="METTS" citation_global_level_id="26868.001" party2_short="DEPARTMENT" line="2" id="122113_2" alternative_keys="['u.s._536_977']" end="62" entry_type="party_key" lookup_key="mettsdepartment#2" id1="122113" start="17" party1_short="METTS" citation_local_level_id="1" >METTS v. NORTH CAROLINA DEPARTMENT OF REVENUE</CITATION>
+
+<NAME end="22" start="17" party1_of="122113_2" all_names="METTS" local_name_id="1" id="122113_3" >METTS</NAME>
+
+<NAME end="62" start="26" all_names="NORTH CAROLINA DEPARTMENT OF REVENUE" party2_of="122113_2" local_name_id="2" id="122113_4" >NORTH CAROLINA DEPARTMENT OF REVENUE</NAME>
+
+<DOCKET end="79" entry_type="docket" lookup_key="mettsdepartment#2" id1="122113" start="72" citation_global_level_id="26868.001" line="3" id="122113_7" citation_local_level_id="1" >01-8911</DOCKET>
+
+<DATE start="125" citation_global_level_id="26868.001" end="139" id="122113_8" citation_local_level_id="1" >August 5, 2002</DATE>
+
+<CITATION end="175" reporter="U. S." entry_type="standard_key" lookup_key="u.s._535_1062" id1="120376" volume="535" start="161" page_number="1062" standard_reporter="U.S." citation_global_level_id="876.002" line="8" id="122113_12" citation_local_level_id="2" >535 U. S. 1062</CITATION>
+
+<NAME start="177" local_name_id="3" end="186" id="122113_13" all_names="PETITIONS" >Petitions</NAME>
+
+<RELATION theme="122113_2" party1="122113_3" party1_string="METTS" theme_string="METTS v. NORTH CAROLINA DEPARTMENT OF REVENUE" gram_type="infix" relation_type="asymmetric" id="122113_5" ></RELATION>
+
+<RELATION party2="122113_4" theme="122113_2" theme_string="METTS v. NORTH CAROLINA DEPARTMENT OF REVENUE" party2_string="NORTH CAROLINA DEPARTMENT OF REVENUE" gram_type="infix" relation_type="asymmetric" id="122113_6" ></RELATION>
+
+<RELATION standard_case_string="536 U.S. 977" X_vs_Y_string="METTS v. NORTH CAROLINA DEPARTMENT OF REVENUE" standard_case="122113_1" X_vs_Y="122113_2" gram_type="multi_line" relation_type="equivalence" id="122113_9" ></RELATION>
+
+<RELATION at_date_string="August 5, 2002" theme="122113_2" at_date="122113_8" theme_string="METTS v. NORTH CAROLINA DEPARTMENT OF REVENUE" gram_type="multi_line" relation_type="asymmetric" id="122113_11" ></RELATION>
+
+<RELATION theme="122113_2" includes_docket_string="01-8911" includes_docket="122113_7" theme_string="METTS v. NORTH CAROLINA DEPARTMENT OF REVENUE" gram_type="multi_line" relation_type="asymmetric" id="122113_10" ></RELATION>
+

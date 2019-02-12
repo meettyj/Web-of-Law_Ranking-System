@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['bougereferrara#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_813" id1="113033" volume="510" start="0" page_number="813" standard_reporter="U.S." citation_global_level_id="1355.002" line="1" id="113030_1" citation_local_level_id="0" >510 U.S. 813</CITATION>
+
+<CITATION party2="Ferrara" party1="Bougere" citation_global_level_id="13163.001" party2_short="Ferrara" line="1" id="113030_3" alternative_keys="['u.s._510_813']" end="35" entry_type="party_key" lookup_key="bougereferrara#1" id1="113030" start="17" party1_short="Bougere" citation_local_level_id="1" >Bougere v. Ferrara</CITATION>
+
+<NAME end="24" start="17" party1_of="113030_3" all_names="BOUGERE" local_name_id="1" id="113030_4" >Bougere</NAME>
+
+<NAME end="35" start="28" all_names="FERRARA" party2_of="113030_3" local_name_id="2" id="113030_5" >Ferrara</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="u.s._510_813" id1="113033" start="45" citation_global_level_id="1355.002" line="1" id="113030_2" citation_local_level_id="0" >92-1743</DOCKET>
+
+<DATE start="48" end="52" id="113030_6" >1743</DATE>
+
+<DATE start="94" end="109" id="113030_7" >October 4, 1993</DATE>
+
+<NAME start="187" local_name_id="3" end="197" id="113030_15" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="235" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_978_193" id1="Dummy_File_170791" volume="978" start="222" page_number="193" standard_reporter="F.2D" citation_global_level_id="234641.001" line="3" id="113030_14" citation_local_level_id="2" >978 F. 2d 193</CITATION>
+
+<RELATION theme="113030_1" includes_docket_string="92-1743" includes_docket="113030_2" theme_string="510 U.S. 813" gram_type="apposition" relation_type="asymmetric" id="113030_12" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 813" X_vs_Y_string="Bougere v. Ferrara" standard_case="113030_1" X_vs_Y="113030_3" gram_type="pre_nom" relation_type="equivalence" id="113030_8" ></RELATION>
+
+<RELATION theme="113030_3" includes_docket_string="92-1743" includes_docket="113030_2" theme_string="Bougere v. Ferrara" gram_type="apposition" relation_type="asymmetric" id="113030_11" ></RELATION>
+
+<RELATION party2="113030_5" theme="113030_3" theme_string="Bougere v. Ferrara" party2_string="Ferrara" gram_type="infix" relation_type="asymmetric" id="113030_10" ></RELATION>
+
+<RELATION theme="113030_3" party1="113030_4" party1_string="Bougere" theme_string="Bougere v. Ferrara" gram_type="infix" relation_type="asymmetric" id="113030_9" ></RELATION>
+
+<RELATION at_date_string="1743" theme="113030_2" at_date="113030_6" theme_string="92-1743" gram_type="infix" relation_type="asymmetric" id="113030_13" ></RELATION>
+

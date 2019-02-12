@@ -1,0 +1,58 @@
+<CITATION alternative_keys="['dumontstates#1']" end="19" reporter="U.S." entry_type="standard_key" lookup_key="u.s._98_142" id1="89857" volume="98" start="1" page_number="142" standard_reporter="U.S." citation_global_level_id="9569.002" line="2" id="89857_1" citation_local_level_id="0" >98 U.S. 142 (____)</CITATION>
+
+<CITATION party2="UNITED STATES" party1="DUMONT" citation_global_level_id="9569.001" party2_short="STATES" line="5" id="89857_3" alternative_keys="['u.s._98_142']" end="45" entry_type="party_key" lookup_key="dumontstates#1" id1="89857" start="20" party1_short="DUMONT" citation_local_level_id="1" >DUMONT v. UNITED STATES</CITATION>
+
+<NAME end="26" start="20" party1_of="89857_3" all_names="DUMONT" local_name_id="1" id="89857_4" >DUMONT</NAME>
+
+<NAME end="45" start="32" all_names="UNITED STATES" party2_of="89857_3" local_name_id="2" id="89857_5" >UNITED STATES</NAME>
+
+<ORGANIZATION start="47" end="77" id="89857_8" >Supreme Court of United States</ORGANIZATION>
+
+<LEGAL_ROLE start="85" end="120" id="89857_10" >Mr. W. Willoughby for the plaintiff</LEGAL_ROLE>
+
+<NAME start="131" local_name_id="3" end="167" id="89857_11" all_names="MR ASSISTANT ATTORNEY-GENERAL SMITH" >Mr. Assistant Attorney-General Smith</NAME>
+
+<PROFESSION start="135" end="144" id="89857_12" >Assistant</PROFESSION>
+
+<NAME start="177" local_name_id="4" end="179" id="89857_13" all_names="MR" >MR</NAME>
+
+<NAME start="735" local_name_id="5" end="742" id="89857_14" all_names="PACIFIC" >Pacific</NAME>
+
+<PROFESSION start="1199" end="1225" id="89857_15" >counsel for the government</PROFESSION>
+
+<NAME start="1429" local_name_id="5" end="1436" id="89857_16" all_names="PACIFIC" >Pacific</NAME>
+
+<PROFESSION start="1548" end="1573" id="89857_17" >Secretary of the Treasury</PROFESSION>
+
+<NAME start="2207" local_name_id="5" end="2214" id="89857_18" all_names="PACIFIC" >Pacific</NAME>
+
+<PROFESSION start="2349" end="2375" id="89857_19" >counsel for the government</PROFESSION>
+
+<ORGANIZATION start="2591" end="2596" id="89857_20" >court</ORGANIZATION>
+
+<ORGANIZATION start="3201" end="3206" id="89857_21" >court</ORGANIZATION>
+
+<LEGAL_ROLE start="3270" end="3279" id="89857_22" >defendant</LEGAL_ROLE>
+
+<ORGANIZATION start="3301" end="3306" id="89857_23" >court</ORGANIZATION>
+
+<LEGAL_ROLE start="3335" end="3344" id="89857_24" >defendant</LEGAL_ROLE>
+
+<PROFESSION start="3373" end="3378" id="89857_25" >judge</PROFESSION>
+
+<LEGAL_ROLE start="3415" local_name_id="6" end="3424" id="89857_26" name="judge" >plaintiff</LEGAL_ROLE>
+
+<LEGAL_ROLE start="3452" end="3461" id="89857_27" >defendant</LEGAL_ROLE>
+
+<ORGANIZATION start="3694" end="3707" id="89857_29" >Circuit Court</ORGANIZATION>
+
+<RELATION theme="89857_3" party1="89857_4" party1_string="DUMONT" theme_string="DUMONT  v.  UNITED STATES" gram_type="infix" relation_type="asymmetric" id="89857_6" ></RELATION>
+
+<RELATION party2="89857_5" theme="89857_3" theme_string="DUMONT  v.  UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="89857_7" ></RELATION>
+
+<RELATION standard_case_string="98 U.S. 142 (____)" X_vs_Y_string="DUMONT  v.  UNITED STATES" standard_case="89857_1" X_vs_Y="89857_3" gram_type="multi_line" relation_type="equivalence" id="89857_9" ></RELATION>
+
+<RELATION theme="89857_25" legal_role="89857_26" id="89857_28" theme_string="judge" gram_type="as_predication" relation_type="asymmetric" legal_role_string="plaintiff" ></RELATION>
+
+<NAME local_name_id="6" from="from_legal_role" name="JUDGE" >JUDGE</NAME>
+

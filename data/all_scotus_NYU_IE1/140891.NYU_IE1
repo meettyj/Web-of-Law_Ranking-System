@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['levyvirginia#3']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1047" id1="140894" volume="543" start="0" page_number="1047" standard_reporter="U.S." citation_global_level_id="7149.002" line="1" id="140891_1" citation_local_level_id="0" >543 U.S. 1047</CITATION>
+
+<CITATION party2="FAIRFAX COUNTY, VIRGINIA, ET AL" party1="LEVY" citation_global_level_id="7149.004" party2_short="VIRGINIA" line="2" id="140891_3" alternative_keys="['u.s._543_1047']" end="57" entry_type="party_key" lookup_key="levyvirginia#3" id1="140894" start="18" party1_short="LEVY" citation_local_level_id="1" >LEVY v. FAIRFAX COUNTY, VIRGINIA, ET AL</CITATION>
+
+<NAME end="22" start="18" party1_of="140891_3" all_names="LEVY" local_name_id="1" id="140891_4" >LEVY</NAME>
+
+<NAME end="57" start="26" all_names="FAIRFAX COUNTY VIRGINIA" party2_of="140891_3" local_name_id="2" id="140891_5" >FAIRFAX COUNTY, VIRGINIA, ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._543_1047']" end="74" entry_type="docket" lookup_key="levyvirginia#3" id1="140894" start="67" citation_global_level_id="7149.004" line="2" id="140891_2" citation_local_level_id="1" >04-6290</DOCKET>
+
+<ORGANIZATION start="80" end="110" id="140891_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="116" citation_global_level_id="7149.004" end="132" id="140891_10" citation_local_level_id="1" >January 10, 2005</DATE>
+
+<NAME start="164" local_name_id="3" end="167" id="140891_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="140891_3" includes_docket_string="04-6290" includes_docket="140891_2" theme_string="LEVY v. FAIRFAX COUNTY, VIRGINIA, ET AL" gram_type="apposition" relation_type="asymmetric" id="140891_8" ></RELATION>
+
+<RELATION theme="140891_3" party1="140891_4" party1_string="LEVY" theme_string="LEVY v. FAIRFAX COUNTY, VIRGINIA, ET AL" gram_type="infix" relation_type="asymmetric" id="140891_6" ></RELATION>
+
+<RELATION party2="140891_5" theme="140891_3" theme_string="LEVY v. FAIRFAX COUNTY, VIRGINIA, ET AL" party2_string="FAIRFAX COUNTY, VIRGINIA, ET AL" gram_type="infix" relation_type="asymmetric" id="140891_7" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1047" X_vs_Y_string="LEVY v. FAIRFAX COUNTY, VIRGINIA, ET AL" standard_case="140891_1" X_vs_Y="140891_3" gram_type="multi_line" relation_type="equivalence" id="140891_11" ></RELATION>
+
+<RELATION at_date_string="January 10, 2005" theme="140891_3" at_date="140891_10" theme_string="LEVY v. FAIRFAX COUNTY, VIRGINIA, ET AL" gram_type="multi_line" relation_type="asymmetric" id="140891_12" ></RELATION>
+

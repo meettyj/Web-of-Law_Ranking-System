@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['nicklesmalley#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_963" id1="139863" volume="543" start="0" page_number="963" standard_reporter="U.S." citation_global_level_id="313.002" line="1" id="139860_1" citation_local_level_id="0" >543 U.S. 963</CITATION>
+
+<CITATION party2="O'MALLEY" party1="NICKLES" citation_global_level_id="313.004" party2_short="MALLEY" line="2" id="139860_2" alternative_keys="['u.s._543_963']" end="36" entry_type="party_key" lookup_key="nicklesmalley#1" id1="139863" start="17" party1_short="NICKLES" citation_local_level_id="1" >NICKLES v. O'MALLEY</CITATION>
+
+<NAME end="24" start="17" party1_of="139860_2" all_names="NICKLES" local_name_id="1" id="139860_3" >NICKLES</NAME>
+
+<NAME end="36" start="28" all_names="O'MALLEY" party2_of="139860_2" local_name_id="2" id="139860_4" >O'MALLEY</NAME>
+
+<DOCKET alternative_keys="['u.s._543_963']" end="53" entry_type="docket" lookup_key="nicklesmalley#1" id1="139863" start="46" citation_global_level_id="313.004" line="3" id="139860_7" citation_local_level_id="1" >04-6047</DOCKET>
+
+<ORGANIZATION start="59" end="89" id="139860_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="95" citation_global_level_id="313.004" end="111" id="139860_9" citation_local_level_id="1" >November 1, 2004</DATE>
+
+<NAME start="143" local_name_id="3" end="146" id="139860_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="139860_2" party1="139860_3" party1_string="NICKLES" theme_string="NICKLES v. O'MALLEY" gram_type="infix" relation_type="asymmetric" id="139860_5" ></RELATION>
+
+<RELATION party2="139860_4" theme="139860_2" theme_string="NICKLES v. O'MALLEY" party2_string="O'MALLEY" gram_type="infix" relation_type="asymmetric" id="139860_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 963" X_vs_Y_string="NICKLES v. O'MALLEY" standard_case="139860_1" X_vs_Y="139860_2" gram_type="multi_line" relation_type="equivalence" id="139860_10" ></RELATION>
+
+<RELATION at_date_string="November 1, 2004" theme="139860_2" at_date="139860_9" theme_string="NICKLES v. O'MALLEY" gram_type="multi_line" relation_type="asymmetric" id="139860_12" ></RELATION>
+
+<RELATION theme="139860_2" includes_docket_string="04-6047" includes_docket="139860_7" theme_string="NICKLES v. O'MALLEY" gram_type="multi_line" relation_type="asymmetric" id="139860_11" ></RELATION>
+

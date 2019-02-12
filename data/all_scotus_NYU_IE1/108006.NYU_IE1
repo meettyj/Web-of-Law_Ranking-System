@@ -1,0 +1,48 @@
+<CITATION alternative_keys="['fostercaldwell#1', 's.ct._90_398', 'l.ed.2d_24_309']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._396_117" id1="108006" volume="396" start="0" page_number="117" standard_reporter="U.S." citation_global_level_id="31074.002" line="1" id="108006_1" citation_local_level_id="0" >396 U.S. 117</CITATION>
+
+<CITATION alternative_keys="['u.s._396_117', 'fostercaldwell#1', 'l.ed.2d_24_309']" end="30" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._90_398" id1="108006" volume="90" start="17" page_number="398" standard_reporter="S.CT." citation_global_level_id="31074.003" line="1" id="108006_2" citation_local_level_id="1" >90 S. Ct. 398</CITATION>
+
+<NAME start="20" local_name_id="1" end="25" id="108006_8" all_names="S CT" >S. Ct</NAME>
+
+<CITATION alternative_keys="['u.s._396_117', 's.ct._90_398', 'fostercaldwell#1']" end="51" reporter="L. Ed. 2d" entry_type="standard_key" lookup_key="l.ed.2d_24_309" id1="108006" volume="24" start="35" page_number="309" standard_reporter="L.ED.2D" citation_global_level_id="31074.004" line="1" id="108006_3" citation_local_level_id="2" >24 L. Ed. 2d 309</CITATION>
+
+<CITATION party2="E. B. CALDWELL, Superintendent" party1="Willie B. FOSTER" citation_global_level_id="31074.005" party2_short="CALDWELL" line="1" id="108006_4" alternative_keys="['s.ct._90_398', 'l.ed.2d_24_309', 'u.s._396_117']" end="106" entry_type="party_key" lookup_key="fostercaldwell#1" id1="108006" start="56" party1_short="FOSTER" citation_local_level_id="3" >Willie B. FOSTER v. E. B. CALDWELL, Superintendent</CITATION>
+
+<NAME end="72" start="56" party1_of="108006_4" all_names="WILLIE B FOSTER" local_name_id="2" id="108006_5" >Willie B. FOSTER</NAME>
+
+<NAME end="106" start="76" all_names="E B CALDWELL SUPERINTENDENT" party2_of="108006_4" local_name_id="3" id="108006_6" >E. B. CALDWELL, Superintendent</NAME>
+
+<DATE start="169" end="185" id="108006_7" >December 8, 1969</DATE>
+
+<NAME start="303" local_name_id="4" end="319" id="108006_14" all_names="ARTHUR K BOLTON" >Arthur K. Bolton</NAME>
+
+<PROFESSION start="321" document_level_name_id="4" end="342" id="108006_15" party="ARTHUR K BOLTON" >Atty. Gen. of Georgia</PROFESSION>
+
+<NAME start="344" local_name_id="5" end="362" id="108006_16" all_names="HAROLD N HILL JR" >Harold N. Hill, Jr</NAME>
+
+<PROFESSION start="365" document_level_name_id="5" end="386" id="108006_17" party="HAROLD N HILL JR" >Exec. Asst. Atty. Gen</PROFESSION>
+
+<NAME start="393" local_name_id="6" end="409" id="108006_18" all_names="MARION O GORDON" >Marion O. Gordon</NAME>
+
+<PROFESSION start="411" document_level_name_id="6" end="426" id="108006_19" party="MARION O GORDON" >Asst. Atty. Gen</PROFESSION>
+
+<LEGAL_ROLE start="433" end="441" id="108006_20" party="party2" >appellee</LEGAL_ROLE>
+
+<NAME start="453" local_name_id="7" end="459" id="108006_24" all_names="CURIAM" >CURIAM</NAME>
+
+<RELATION standard_case_string="396 U.S. 117" X_vs_Y_string="Willie B. FOSTER v. E. B. CALDWELL, Superintendent" standard_case="108006_1" X_vs_Y="108006_4" gram_type="pre_nom" relation_type="equivalence" id="108006_10" ></RELATION>
+
+<RELATION standard_case_string="90 S. Ct. 398" X_vs_Y_string="Willie B. FOSTER v. E. B. CALDWELL, Superintendent" standard_case="108006_2" X_vs_Y="108006_4" gram_type="pre_nom" relation_type="equivalence" id="108006_11" ></RELATION>
+
+<RELATION standard_case_string="24 L. Ed. 2d 309" X_vs_Y_string="Willie B. FOSTER v. E. B. CALDWELL, Superintendent" standard_case="108006_3" X_vs_Y="108006_4" gram_type="pre_nom" relation_type="equivalence" id="108006_9" ></RELATION>
+
+<RELATION theme="108006_4" party1="108006_5" party1_string="Willie B. FOSTER" theme_string="Willie B. FOSTER v. E. B. CALDWELL, Superintendent" gram_type="infix" relation_type="asymmetric" id="108006_12" ></RELATION>
+
+<RELATION party2="108006_6" theme="108006_4" theme_string="Willie B. FOSTER v. E. B. CALDWELL, Superintendent" party2_string="E. B. CALDWELL, Superintendent" gram_type="infix" relation_type="asymmetric" id="108006_13" ></RELATION>
+
+<RELATION theme="108006_14" profession_string="Atty. Gen. of Georgia" theme_string="Arthur K. Bolton" profession="108006_15" gram_type="apposition" relation_type="asymmetric" id="108006_21" ></RELATION>
+
+<RELATION theme="108006_16" profession_string="Exec. Asst. Atty. Gen" theme_string="Harold N. Hill, Jr" profession="108006_17" gram_type="apposition" relation_type="asymmetric" id="108006_22" ></RELATION>
+
+<RELATION theme="108006_18" profession_string="Asst. Atty. Gen" theme_string="Marion O. Gordon" profession="108006_19" gram_type="apposition" relation_type="asymmetric" id="108006_23" ></RELATION>
+

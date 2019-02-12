@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['hunteralabama#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_980" id1="124578" volume="537" start="0" page_number="980" standard_reporter="U.S." citation_global_level_id="12259.002" line="1" id="124583_1" citation_local_level_id="0" >537 U.S. 980</CITATION>
+
+<CITATION party2="ALABAMA" party1="HUNTER" citation_global_level_id="13059.001" party2_short="ALABAMA" line="1" id="124583_3" alternative_keys="['u.s._537_980']" end="34" entry_type="party_key" lookup_key="hunteralabama#1" id1="124583" start="17" party1_short="HUNTER" citation_local_level_id="1" >HUNTER v. ALABAMA</CITATION>
+
+<NAME end="23" start="17" party1_of="124583_3" all_names="HUNTER" local_name_id="1" id="124583_4" >HUNTER</NAME>
+
+<NAME end="34" start="27" all_names="ALABAMA" party2_of="124583_3" local_name_id="2" id="124583_5" >ALABAMA</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="u.s._537_980" id1="124578" start="44" citation_global_level_id="12259.002" line="1" id="124583_2" citation_local_level_id="0" >02-6120</DOCKET>
+
+<DATE start="93" end="109" id="124583_6" >October 21, 2002</DATE>
+
+<NAME start="212" local_name_id="3" end="214" id="124583_13" all_names="CT" >Ct</NAME>
+
+<CITATION end="282" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_854_1217" id1="Dummy_File_106938" volume="854" start="267" page_number="1217" standard_reporter="SO.2D" citation_global_level_id="170788.001" line="3" id="124583_12" citation_local_level_id="2" >854 So. 2d 1217</CITATION>
+
+<RELATION theme="124583_1" includes_docket_string="02-6120" includes_docket="124583_2" theme_string="537 U.S. 980" gram_type="apposition" relation_type="asymmetric" id="124583_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 980" X_vs_Y_string="HUNTER v. ALABAMA" standard_case="124583_1" X_vs_Y="124583_3" gram_type="pre_nom" relation_type="equivalence" id="124583_7" ></RELATION>
+
+<RELATION theme="124583_3" includes_docket_string="02-6120" includes_docket="124583_2" theme_string="HUNTER v. ALABAMA" gram_type="apposition" relation_type="asymmetric" id="124583_10" ></RELATION>
+
+<RELATION theme="124583_3" party1="124583_4" party1_string="HUNTER" theme_string="HUNTER v. ALABAMA" gram_type="infix" relation_type="asymmetric" id="124583_8" ></RELATION>
+
+<RELATION party2="124583_5" theme="124583_3" theme_string="HUNTER v. ALABAMA" party2_string="ALABAMA" gram_type="infix" relation_type="asymmetric" id="124583_9" ></RELATION>
+

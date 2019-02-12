@@ -1,0 +1,50 @@
+<CITATION alternative_keys="['knudsenwashington#2', 's.ct._85_612', 'l.ed.2d_13_551']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._379_649" id1="106972" volume="379" start="0" page_number="649" standard_reporter="U.S." citation_global_level_id="12117.002" line="1" id="106972_1" citation_local_level_id="0" >379 U.S. 649</CITATION>
+
+<CITATION alternative_keys="['u.s._379_649', 'knudsenwashington#2', 'l.ed.2d_13_551']" end="30" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._85_612" id1="106972" volume="85" start="17" page_number="612" standard_reporter="S.CT." citation_global_level_id="12117.003" line="1" id="106972_2" citation_local_level_id="1" >85 S. Ct. 612</CITATION>
+
+<NAME start="20" local_name_id="1" end="25" id="106972_8" all_names="S CT" >S. Ct</NAME>
+
+<CITATION alternative_keys="['u.s._379_649', 's.ct._85_612', 'knudsenwashington#2']" end="51" reporter="L. Ed. 2d" entry_type="standard_key" lookup_key="l.ed.2d_13_551" id1="106972" volume="13" start="35" page_number="551" standard_reporter="L.ED.2D" citation_global_level_id="12117.004" line="1" id="106972_3" citation_local_level_id="2" >13 L. Ed. 2d 551</CITATION>
+
+<CITATION party2="WASHINGTON" party1="MORRISON-KNUDSEN, INC., et al." citation_global_level_id="12117.005" party2_short="WASHINGTON" line="1" id="106972_4" alternative_keys="['s.ct._85_612', 'l.ed.2d_13_551', 'u.s._379_649']" end="100" entry_type="party_key" lookup_key="knudsenwashington#2" id1="106972" start="56" party1_short="KNUDSEN" citation_local_level_id="3" >MORRISON-KNUDSEN, INC., et al. v. WASHINGTON</CITATION>
+
+<NAME end="86" start="56" party1_of="106972_4" all_names="MORRISON-KNUDSEN INC" local_name_id="2" id="106972_5" >MORRISON-KNUDSEN, INC., et al.</NAME>
+
+<ORGANIZATION start="56" end="77" id="106972_9" >MORRISON-KNUDSEN, INC</ORGANIZATION>
+
+<NAME end="100" start="90" all_names="WASHINGTON" party2_of="106972_4" local_name_id="3" id="106972_6" >WASHINGTON</NAME>
+
+<DATE start="158" end="174" id="106972_7" >January 18, 1965</DATE>
+
+<NAME start="245" local_name_id="4" end="258" id="106972_15" all_names="JOHN W RILEY" >John W. Riley</NAME>
+
+<PROFESSION start="260" document_level_name_id="4" end="298" id="106972_16" party="JOHN W RILEY" >Special Asst. Atty. Gen. of Washington</PROFESSION>
+
+<NAME start="304" local_name_id="5" end="338" id="106972_17" all_names="JAMES A FURBER AND HENRY W WAGER" >James A. Furber and Henry W. Wager</NAME>
+
+<PROFESSION start="340" document_level_name_id="5" end="344" id="106972_18" party="JAMES A FURBER AND HENRY W WAGER" >Asst</PROFESSION>
+
+<NAME start="346" local_name_id="6" end="351" id="106972_19" all_names="ATTYS" >Attys</NAME>
+
+<PROFESSION start="353" document_level_name_id="6" end="356" id="106972_20" party="ATTYS" >Gen</PROFESSION>
+
+<LEGAL_ROLE start="363" end="371" id="106972_21" party="party2" >appellee</LEGAL_ROLE>
+
+<NAME start="383" local_name_id="7" end="389" id="106972_25" all_names="CURIAM" >CURIAM</NAME>
+
+<RELATION standard_case_string="379 U.S. 649" X_vs_Y_string="MORRISON-KNUDSEN, INC., et al. v. WASHINGTON" standard_case="106972_1" X_vs_Y="106972_4" gram_type="pre_nom" relation_type="equivalence" id="106972_11" ></RELATION>
+
+<RELATION standard_case_string="85 S. Ct. 612" X_vs_Y_string="MORRISON-KNUDSEN, INC., et al. v. WASHINGTON" standard_case="106972_2" X_vs_Y="106972_4" gram_type="pre_nom" relation_type="equivalence" id="106972_12" ></RELATION>
+
+<RELATION standard_case_string="13 L. Ed. 2d 551" X_vs_Y_string="MORRISON-KNUDSEN, INC., et al. v. WASHINGTON" standard_case="106972_3" X_vs_Y="106972_4" gram_type="pre_nom" relation_type="equivalence" id="106972_10" ></RELATION>
+
+<RELATION theme="106972_4" party1="106972_5" party1_string="MORRISON-KNUDSEN, INC., et al." theme_string="MORRISON-KNUDSEN, INC., et al. v. WASHINGTON" gram_type="infix" relation_type="asymmetric" id="106972_13" ></RELATION>
+
+<RELATION party2="106972_6" theme="106972_4" theme_string="MORRISON-KNUDSEN, INC., et al. v. WASHINGTON" party2_string="WASHINGTON" gram_type="infix" relation_type="asymmetric" id="106972_14" ></RELATION>
+
+<RELATION theme="106972_15" profession_string="Special Asst. Atty. Gen. of Washington" theme_string="John W. Riley" profession="106972_16" gram_type="apposition" relation_type="asymmetric" id="106972_22" ></RELATION>
+
+<RELATION theme="106972_17" profession_string="Asst" theme_string="James A. Furber and Henry W. Wager" profession="106972_18" gram_type="apposition" relation_type="asymmetric" id="106972_23" ></RELATION>
+
+<RELATION theme="106972_19" profession_string="Gen" theme_string="Attys" profession="106972_20" gram_type="apposition" relation_type="asymmetric" id="106972_24" ></RELATION>
+

@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['carpentercarolina#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._536_983" id1="122174" volume="536" start="0" page_number="983" standard_reporter="U.S." citation_global_level_id="15669.002" line="1" id="122186_1" citation_local_level_id="0" >536 U.S. 983</CITATION>
+
+<CITATION party2="NORTH CAROLINA" party1="CARPENTER" citation_global_level_id="26917.001" party2_short="CAROLINA" line="2" id="122186_2" alternative_keys="['u.s._536_983']" end="44" entry_type="party_key" lookup_key="carpentercarolina#2" id1="122186" start="17" party1_short="CARPENTER" citation_local_level_id="1" >CARPENTER v. NORTH CAROLINA</CITATION>
+
+<NAME end="26" start="17" party1_of="122186_2" all_names="CARPENTER" local_name_id="1" id="122186_3" >CARPENTER</NAME>
+
+<NAME end="44" start="30" all_names="NORTH CAROLINA" party2_of="122186_2" local_name_id="2" id="122186_4" >NORTH CAROLINA</NAME>
+
+<DOCKET end="61" entry_type="docket" lookup_key="carpentercarolina#2" id1="122186" start="54" citation_global_level_id="26917.001" line="3" id="122186_7" citation_local_level_id="1" >01-9949</DOCKET>
+
+<DATE start="107" citation_global_level_id="26917.001" end="122" id="122186_8" citation_local_level_id="1" >August 26, 2002</DATE>
+
+<NAME start="144" local_name_id="3" end="153" id="122186_12" all_names="PETITIONS" >Petitions</NAME>
+
+<RELATION theme="122186_2" party1="122186_3" party1_string="CARPENTER" theme_string="CARPENTER v. NORTH CAROLINA" gram_type="infix" relation_type="asymmetric" id="122186_5" ></RELATION>
+
+<RELATION party2="122186_4" theme="122186_2" theme_string="CARPENTER v. NORTH CAROLINA" party2_string="NORTH CAROLINA" gram_type="infix" relation_type="asymmetric" id="122186_6" ></RELATION>
+
+<RELATION standard_case_string="536 U.S. 983" X_vs_Y_string="CARPENTER v. NORTH CAROLINA" standard_case="122186_1" X_vs_Y="122186_2" gram_type="multi_line" relation_type="equivalence" id="122186_9" ></RELATION>
+
+<RELATION at_date_string="August 26, 2002" theme="122186_2" at_date="122186_8" theme_string="CARPENTER v. NORTH CAROLINA" gram_type="multi_line" relation_type="asymmetric" id="122186_11" ></RELATION>
+
+<RELATION theme="122186_2" includes_docket_string="01-9949" includes_docket="122186_7" theme_string="CARPENTER v. NORTH CAROLINA" gram_type="multi_line" relation_type="asymmetric" id="122186_10" ></RELATION>
+

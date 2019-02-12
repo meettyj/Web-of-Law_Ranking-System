@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['whitekemna#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_1068" id1="136604" volume="541" start="0" page_number="1068" standard_reporter="U.S." citation_global_level_id="6038.002" line="1" id="136605_1" citation_local_level_id="0" >541 U.S. 1068</CITATION>
+
+<CITATION party2="KEMNA, SUPERINTENDENT, CROSS-ROADS CORRECTIONAL CENTER" party1="WHITE" citation_global_level_id="6038.003" party2_short="KEMNA" line="2" id="136605_2" alternative_keys="['u.s._541_1068']" end="81" entry_type="party_key" lookup_key="whitekemna#1" id1="136604" start="18" party1_short="WHITE" citation_local_level_id="1" >WHITE v. KEMNA, SUPERINTENDENT, CROSS-ROADS CORRECTIONAL CENTER</CITATION>
+
+<NAME end="23" start="18" party1_of="136605_2" all_names="WHITE" local_name_id="1" id="136605_3" >WHITE</NAME>
+
+<NAME end="81" start="27" all_names="KEMNA SUPERINTENDENT CROSS-ROADS CORRECTIONAL CENTER" party2_of="136605_2" local_name_id="2" id="136605_4" >KEMNA, SUPERINTENDENT, CROSS-ROADS CORRECTIONAL CENTER</NAME>
+
+<DOCKET alternative_keys="['u.s._541_1068']" end="98" entry_type="docket" lookup_key="whitekemna#1" id1="136604" start="91" citation_global_level_id="6038.003" line="3" id="136605_7" citation_local_level_id="1" >03-9750</DOCKET>
+
+<ORGANIZATION start="104" end="134" id="136605_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="140" citation_global_level_id="6038.003" end="152" id="136605_9" citation_local_level_id="1" >May 24, 2004</DATE>
+
+<NAME start="184" local_name_id="3" end="187" id="136605_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="136605_2" party1="136605_3" party1_string="WHITE" theme_string="WHITE v. KEMNA, SUPERINTENDENT, CROSS-ROADS CORRECTIONAL CENTER" gram_type="infix" relation_type="asymmetric" id="136605_5" ></RELATION>
+
+<RELATION party2="136605_4" theme="136605_2" theme_string="WHITE v. KEMNA, SUPERINTENDENT, CROSS-ROADS CORRECTIONAL CENTER" party2_string="KEMNA, SUPERINTENDENT, CROSS-ROADS CORRECTIONAL CENTER" gram_type="infix" relation_type="asymmetric" id="136605_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 1068" X_vs_Y_string="WHITE v. KEMNA, SUPERINTENDENT, CROSS-ROADS CORRECTIONAL CENTER" standard_case="136605_1" X_vs_Y="136605_2" gram_type="multi_line" relation_type="equivalence" id="136605_10" ></RELATION>
+
+<RELATION at_date_string="May 24, 2004" theme="136605_2" at_date="136605_9" theme_string="WHITE v. KEMNA, SUPERINTENDENT, CROSS-ROADS CORRECTIONAL CENTER" gram_type="multi_line" relation_type="asymmetric" id="136605_12" ></RELATION>
+
+<RELATION theme="136605_2" includes_docket_string="03-9750" includes_docket="136605_7" theme_string="WHITE v. KEMNA, SUPERINTENDENT, CROSS-ROADS CORRECTIONAL CENTER" gram_type="multi_line" relation_type="asymmetric" id="136605_11" ></RELATION>
+

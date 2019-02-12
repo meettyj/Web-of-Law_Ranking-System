@@ -1,0 +1,52 @@
+<CITATION alternative_keys="['stadlerboard#2', 's.ct._85_936', 'l.ed.2d_13_818']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._380_252" id1="107000" volume="380" start="0" page_number="252" standard_reporter="U.S." citation_global_level_id="32458.002" line="1" id="107000_1" citation_local_level_id="0" >380 U.S. 252</CITATION>
+
+<CITATION alternative_keys="['u.s._380_252', 'stadlerboard#2', 'l.ed.2d_13_818']" end="30" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._85_936" id1="107000" volume="85" start="17" page_number="936" standard_reporter="S.CT." citation_global_level_id="32458.003" line="1" id="107000_2" citation_local_level_id="1" >85 S. Ct. 936</CITATION>
+
+<NAME start="20" local_name_id="1" end="25" id="107000_8" all_names="S CT" >S. Ct</NAME>
+
+<CITATION alternative_keys="['u.s._380_252', 's.ct._85_936', 'stadlerboard#2']" end="51" reporter="L. Ed. 2d" entry_type="standard_key" lookup_key="l.ed.2d_13_818" id1="107000" volume="13" start="35" page_number="818" standard_reporter="L.ED.2D" citation_global_level_id="32458.004" line="1" id="107000_3" citation_local_level_id="2" >13 L. Ed. 2d 818</CITATION>
+
+<CITATION party2="STATE BOARD OF EQUALIZATION OF CALIFORNIA" party1="Giles W. STADLER et al." citation_global_level_id="32458.005" party2_short="BOARD" line="1" id="107000_4" alternative_keys="['s.ct._85_936', 'l.ed.2d_13_818', 'u.s._380_252']" end="124" entry_type="party_key" lookup_key="stadlerboard#2" id1="107000" start="56" party1_short="STADLER" citation_local_level_id="3" >Giles W. STADLER et al. v. STATE BOARD OF EQUALIZATION OF CALIFORNIA</CITATION>
+
+<NAME end="79" start="56" party1_of="107000_4" all_names="GILES W STADLER" local_name_id="2" id="107000_5" >Giles W. STADLER et al.</NAME>
+
+<NAME end="124" start="83" all_names="STATE BOARD OF EQUALIZATION OF CALIFORNIA" party2_of="107000_4" local_name_id="3" id="107000_6" >STATE BOARD OF EQUALIZATION OF CALIFORNIA</NAME>
+
+<DATE start="182" end="195" id="107000_7" >March 8, 1965</DATE>
+
+<NAME start="207" local_name_id="4" end="246" id="107000_9" all_names="THEODORE W RUSSELL AND R Y SCHUREMAN" >Theodore W. Russell and R. Y. Schureman</NAME>
+
+<LEGAL_ROLE start="252" end="262" plural="True" id="107000_10" >appellants</LEGAL_ROLE>
+
+<NAME start="270" local_name_id="5" end="285" id="107000_16" all_names="THOMAS C LYNCH" >Thomas C. Lynch</NAME>
+
+<PROFESSION start="287" document_level_name_id="5" end="311" id="107000_17" party="THOMAS C LYNCH" >Atty. Gen. of California</PROFESSION>
+
+<NAME start="313" local_name_id="6" end="324" id="107000_18" all_names="DAN KAUFMAN" >Dan Kaufman</NAME>
+
+<PROFESSION start="326" document_level_name_id="6" end="341" id="107000_19" party="DAN KAUFMAN" >Asst. Atty. Gen</PROFESSION>
+
+<NAME start="348" local_name_id="7" end="361" id="107000_20" all_names="NEAL J GOBAR" >Neal J. Gobar</NAME>
+
+<PROFESSION start="363" document_level_name_id="7" end="379" id="107000_21" party="NEAL J GOBAR" >Deputy Atty. Gen</PROFESSION>
+
+<LEGAL_ROLE start="386" end="394" id="107000_22" party="party2" >appellee</LEGAL_ROLE>
+
+<NAME start="406" local_name_id="8" end="412" id="107000_26" all_names="CURIAM" >CURIAM</NAME>
+
+<RELATION standard_case_string="380 U.S. 252" X_vs_Y_string="Giles W. STADLER et al. v. STATE BOARD OF EQUALIZATION OF CALIFORNIA" standard_case="107000_1" X_vs_Y="107000_4" gram_type="pre_nom" relation_type="equivalence" id="107000_12" ></RELATION>
+
+<RELATION standard_case_string="85 S. Ct. 936" X_vs_Y_string="Giles W. STADLER et al. v. STATE BOARD OF EQUALIZATION OF CALIFORNIA" standard_case="107000_2" X_vs_Y="107000_4" gram_type="pre_nom" relation_type="equivalence" id="107000_13" ></RELATION>
+
+<RELATION standard_case_string="13 L. Ed. 2d 818" X_vs_Y_string="Giles W. STADLER et al. v. STATE BOARD OF EQUALIZATION OF CALIFORNIA" standard_case="107000_3" X_vs_Y="107000_4" gram_type="pre_nom" relation_type="equivalence" id="107000_11" ></RELATION>
+
+<RELATION theme="107000_4" party1="107000_5" party1_string="Giles W. STADLER et al." theme_string="Giles W. STADLER et al. v. STATE BOARD OF EQUALIZATION OF CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="107000_14" ></RELATION>
+
+<RELATION party2="107000_6" theme="107000_4" theme_string="Giles W. STADLER et al. v. STATE BOARD OF EQUALIZATION OF CALIFORNIA" party2_string="STATE BOARD OF EQUALIZATION OF CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="107000_15" ></RELATION>
+
+<RELATION theme="107000_16" profession_string="Atty. Gen. of California" theme_string="Thomas C. Lynch" profession="107000_17" gram_type="apposition" relation_type="asymmetric" id="107000_23" ></RELATION>
+
+<RELATION theme="107000_18" profession_string="Asst. Atty. Gen" theme_string="Dan Kaufman" profession="107000_19" gram_type="apposition" relation_type="asymmetric" id="107000_24" ></RELATION>
+
+<RELATION theme="107000_20" profession_string="Deputy Atty. Gen" theme_string="Neal J. Gobar" profession="107000_21" gram_type="apposition" relation_type="asymmetric" id="107000_25" ></RELATION>
+

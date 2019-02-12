@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['murraygeneral#3']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1016" id1="140521" volume="543" start="0" page_number="1016" standard_reporter="U.S." citation_global_level_id="2685.002" line="1" id="140544_1" citation_local_level_id="0" >543 U.S. 1016</CITATION>
+
+<CITATION party2="LYNCH, ATTORNEY GENERAL OF RHODE ISLAND, ET AL" party1="MURRAY" citation_global_level_id="4034.003" party2_short="GENERAL" line="2" id="140544_2" alternative_keys="['u.s._543_838']" end="74" entry_type="party_key" lookup_key="murraygeneral#3" id1="138233" start="18" party1_short="MURRAY" citation_local_level_id="1" >MURRAY v. LYNCH, ATTORNEY GENERAL OF RHODE ISLAND, ET AL</CITATION>
+
+<NAME end="24" start="18" party1_of="140544_2" all_names="MURRAY" local_name_id="1" id="140544_3" >MURRAY</NAME>
+
+<NAME end="74" start="28" all_names="LYNCH ATTORNEY GENERAL OF RHODE ISLAND" party2_of="140544_2" local_name_id="2" id="140544_4" >LYNCH, ATTORNEY GENERAL OF RHODE ISLAND, ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._543_838']" end="107" entry_type="docket" lookup_key="murraygeneral#3" id1="138233" start="99" citation_global_level_id="4034.003" line="3" id="140544_7" citation_local_level_id="1" >03-10557</DOCKET>
+
+<ORGANIZATION start="113" end="143" id="140544_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="149" citation_global_level_id="4034.003" end="166" id="140544_9" citation_local_level_id="1" >November 29, 2004</DATE>
+
+<NAME start="188" local_name_id="3" end="197" id="140544_13" all_names="PETITIONS" >Petitions</NAME>
+
+<RELATION theme="140544_2" party1="140544_3" party1_string="MURRAY" theme_string="MURRAY v. LYNCH, ATTORNEY GENERAL OF RHODE ISLAND, ET AL" gram_type="infix" relation_type="asymmetric" id="140544_5" ></RELATION>
+
+<RELATION party2="140544_4" theme="140544_2" theme_string="MURRAY v. LYNCH, ATTORNEY GENERAL OF RHODE ISLAND, ET AL" party2_string="LYNCH, ATTORNEY GENERAL OF RHODE ISLAND, ET AL" gram_type="infix" relation_type="asymmetric" id="140544_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1016" X_vs_Y_string="MURRAY v. LYNCH, ATTORNEY GENERAL OF RHODE ISLAND, ET AL" standard_case="140544_1" X_vs_Y="140544_2" gram_type="multi_line" relation_type="equivalence" id="140544_10" ></RELATION>
+
+<RELATION at_date_string="November 29, 2004" theme="140544_2" at_date="140544_9" theme_string="MURRAY v. LYNCH, ATTORNEY GENERAL OF RHODE ISLAND, ET AL" gram_type="multi_line" relation_type="asymmetric" id="140544_12" ></RELATION>
+
+<RELATION theme="140544_2" includes_docket_string="03-10557" includes_docket="140544_7" theme_string="MURRAY v. LYNCH, ATTORNEY GENERAL OF RHODE ISLAND, ET AL" gram_type="multi_line" relation_type="asymmetric" id="140544_11" ></RELATION>
+

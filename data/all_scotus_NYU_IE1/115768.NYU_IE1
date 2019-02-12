@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['mineerkentucky#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1024" id1="115769" volume="510" start="0" page_number="1024" standard_reporter="U.S." citation_global_level_id="2194.002" line="1" id="115768_1" citation_local_level_id="0" >510 U.S. 1024</CITATION>
+
+<CITATION party2="Fleming County, Kentucky, et al" party1="Mineer" citation_global_level_id="2194.004" party2_short="Kentucky" line="1" id="115768_3" alternative_keys="['u.s._510_1024']" end="59" entry_type="party_key" lookup_key="mineerkentucky#2" id1="115769" start="18" party1_short="Mineer" citation_local_level_id="1" >Mineer v. Fleming County, Kentucky, et al</CITATION>
+
+<NAME end="24" start="18" party1_of="115768_3" all_names="MINEER" local_name_id="1" id="115768_4" >Mineer</NAME>
+
+<NAME end="59" start="28" all_names="FLEMING COUNTY KENTUCKY" party2_of="115768_3" local_name_id="2" id="115768_5" >Fleming County, Kentucky, et al</NAME>
+
+<DOCKET end="75" entry_type="docket" lookup_key="u.s._510_1024" id1="115769" start="69" citation_global_level_id="2194.002" line="1" id="115768_2" citation_local_level_id="0" >93-628</DOCKET>
+
+<DATE start="117" end="134" id="115768_6" >December 13, 1993</DATE>
+
+<NAME start="212" local_name_id="3" end="222" id="115768_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="261" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_993_1547" id1="Dummy_File_16487" volume="993" start="247" page_number="1547" standard_reporter="F.2D" citation_global_level_id="80337.001" line="3" id="115768_12" citation_local_level_id="2" >993 F. 2d 1547</CITATION>
+
+<RELATION theme="115768_1" includes_docket_string="93-628" includes_docket="115768_2" theme_string="510 U.S. 1024" gram_type="apposition" relation_type="asymmetric" id="115768_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1024" X_vs_Y_string="Mineer v. Fleming County, Kentucky, et al" standard_case="115768_1" X_vs_Y="115768_3" gram_type="pre_nom" relation_type="equivalence" id="115768_7" ></RELATION>
+
+<RELATION theme="115768_3" includes_docket_string="93-628" includes_docket="115768_2" theme_string="Mineer v. Fleming County, Kentucky, et al" gram_type="apposition" relation_type="asymmetric" id="115768_10" ></RELATION>
+
+<RELATION theme="115768_3" party1="115768_4" party1_string="Mineer" theme_string="Mineer v. Fleming County, Kentucky, et al" gram_type="infix" relation_type="asymmetric" id="115768_8" ></RELATION>
+
+<RELATION party2="115768_5" theme="115768_3" theme_string="Mineer v. Fleming County, Kentucky, et al" party2_string="Fleming County, Kentucky, et al" gram_type="infix" relation_type="asymmetric" id="115768_9" ></RELATION>
+

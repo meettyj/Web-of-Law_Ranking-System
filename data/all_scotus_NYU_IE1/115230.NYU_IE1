@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['hamstates#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_983" id1="115234" volume="510" start="0" page_number="983" standard_reporter="U.S." citation_global_level_id="108.002" line="1" id="115230_1" citation_local_level_id="0" >510 U.S. 983</CITATION>
+
+<CITATION party2="United States" party1="Ham, aka Hamm, aka Brewer" citation_global_level_id="108.003" party2_short="States" line="1" id="115230_3" alternative_keys="['u.s._510_983']" end="59" entry_type="party_key" lookup_key="hamstates#2" id1="115234" start="17" party1_short="Ham" citation_local_level_id="1" >Ham, aka Hamm, aka Brewer v. United States</CITATION>
+
+<NAME end="42" start="17" party1_of="115230_3" all_names="HAM AKA HAMM AKA BREWER" local_name_id="1" id="115230_4" >Ham, aka Hamm, aka Brewer</NAME>
+
+<NAME start="17" local_name_id="2" end="20" id="115230_7" all_names="HAM" >Ham</NAME>
+
+<NAME end="59" start="46" all_names="UNITED STATES" party2_of="115230_3" local_name_id="3" id="115230_5" >United States</NAME>
+
+<DOCKET end="76" entry_type="docket" lookup_key="u.s._510_983" id1="115234" start="69" citation_global_level_id="108.002" line="1" id="115230_2" citation_local_level_id="0" >93-6327</DOCKET>
+
+<DATE start="118" end="135" id="115230_6" >November 15, 1993</DATE>
+
+<NAME start="213" local_name_id="4" end="223" id="115230_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="262" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_993_1540" id1="Dummy_File_276" volume="993" start="248" page_number="1540" standard_reporter="F.2D" citation_global_level_id="64126.001" line="3" id="115230_13" citation_local_level_id="2" >993 F. 2d 1540</CITATION>
+
+<RELATION theme="115230_1" includes_docket_string="93-6327" includes_docket="115230_2" theme_string="510 U.S. 983" gram_type="apposition" relation_type="asymmetric" id="115230_12" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 983" X_vs_Y_string="Ham, aka Hamm, aka Brewer v. United States" standard_case="115230_1" X_vs_Y="115230_3" gram_type="pre_nom" relation_type="equivalence" id="115230_8" ></RELATION>
+
+<RELATION theme="115230_3" includes_docket_string="93-6327" includes_docket="115230_2" theme_string="Ham, aka Hamm, aka Brewer v. United States" gram_type="apposition" relation_type="asymmetric" id="115230_11" ></RELATION>
+
+<RELATION party2="115230_5" theme="115230_3" theme_string="Ham, aka Hamm, aka Brewer v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="115230_10" ></RELATION>
+
+<RELATION theme="115230_3" party1="115230_4" party1_string="Ham, aka Hamm, aka Brewer" theme_string="Ham, aka Hamm, aka Brewer v. United States" gram_type="infix" relation_type="asymmetric" id="115230_9" ></RELATION>
+

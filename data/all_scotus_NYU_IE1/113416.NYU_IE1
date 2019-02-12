@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['rothwellstates#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_842" id1="113415" volume="510" start="0" page_number="842" standard_reporter="U.S." citation_global_level_id="190.002" line="1" id="113416_1" citation_local_level_id="0" >510 U.S. 842</CITATION>
+
+<CITATION party2="United States" party1="Rothwell" citation_global_level_id="16667.001" party2_short="States" line="1" id="113416_3" alternative_keys="['u.s._510_842']" end="42" entry_type="party_key" lookup_key="rothwellstates#1" id1="113416" start="17" party1_short="Rothwell" citation_local_level_id="1" >Rothwell v. United States</CITATION>
+
+<NAME end="25" start="17" party1_of="113416_3" all_names="ROTHWELL" local_name_id="1" id="113416_4" >Rothwell</NAME>
+
+<NAME end="42" start="29" all_names="UNITED STATES" party2_of="113416_3" local_name_id="2" id="113416_5" >United States</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="u.s._510_842" id1="113415" start="52" citation_global_level_id="190.002" line="1" id="113416_2" citation_local_level_id="0" >92-8950</DOCKET>
+
+<DATE start="101" end="116" id="113416_6" >October 4, 1993</DATE>
+
+<NAME start="194" local_name_id="3" end="204" id="113416_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="242" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_985_557" id1="Dummy_File_11556" volume="985" start="229" page_number="557" standard_reporter="F.2D" citation_global_level_id="75406.001" line="3" id="113416_12" citation_local_level_id="2" >985 F. 2d 557</CITATION>
+
+<RELATION theme="113416_1" includes_docket_string="92-8950" includes_docket="113416_2" theme_string="510 U.S. 842" gram_type="apposition" relation_type="asymmetric" id="113416_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 842" X_vs_Y_string="Rothwell v. United States" standard_case="113416_1" X_vs_Y="113416_3" gram_type="pre_nom" relation_type="equivalence" id="113416_7" ></RELATION>
+
+<RELATION theme="113416_3" includes_docket_string="92-8950" includes_docket="113416_2" theme_string="Rothwell v. United States" gram_type="apposition" relation_type="asymmetric" id="113416_10" ></RELATION>
+
+<RELATION theme="113416_3" party1="113416_4" party1_string="Rothwell" theme_string="Rothwell v. United States" gram_type="infix" relation_type="asymmetric" id="113416_8" ></RELATION>
+
+<RELATION party2="113416_5" theme="113416_3" theme_string="Rothwell v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="113416_9" ></RELATION>
+

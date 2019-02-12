@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['kroncketruillo#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1031" id1="140743" volume="543" start="0" page_number="1031" standard_reporter="U.S." citation_global_level_id="21.002" line="1" id="140744_1" citation_local_level_id="0" >543 U.S. 1031</CITATION>
+
+<CITATION party2="TRUILLO, WARDEN, ET AL" party1="KRONCKE" citation_global_level_id="1248.006" party2_short="TRUILLO" line="2" id="140744_2" alternative_keys="['u.s._543_860']" end="51" entry_type="party_key" lookup_key="kroncketruillo#1" id1="138523" start="18" party1_short="KRONCKE" citation_local_level_id="1" >KRONCKE v. TRUILLO, WARDEN, ET AL</CITATION>
+
+<NAME end="25" start="18" party1_of="140744_2" all_names="KRONCKE" local_name_id="1" id="140744_3" >KRONCKE</NAME>
+
+<NAME end="51" start="29" all_names="TRUILLO WARDEN" party2_of="140744_2" local_name_id="2" id="140744_4" >TRUILLO, WARDEN, ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._543_860']" end="84" entry_type="docket" lookup_key="kroncketruillo#1" id1="138523" start="76" citation_global_level_id="1248.006" line="3" id="140744_7" citation_local_level_id="1" >03-10954</DOCKET>
+
+<ORGANIZATION start="90" end="120" id="140744_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="126" citation_global_level_id="1248.006" end="142" id="140744_9" citation_local_level_id="1" >December 6, 2004</DATE>
+
+<NAME start="164" local_name_id="3" end="173" id="140744_13" all_names="PETITIONS" >Petitions</NAME>
+
+<RELATION theme="140744_2" party1="140744_3" party1_string="KRONCKE" theme_string="KRONCKE v. TRUILLO, WARDEN, ET AL" gram_type="infix" relation_type="asymmetric" id="140744_5" ></RELATION>
+
+<RELATION party2="140744_4" theme="140744_2" theme_string="KRONCKE v. TRUILLO, WARDEN, ET AL" party2_string="TRUILLO, WARDEN, ET AL" gram_type="infix" relation_type="asymmetric" id="140744_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1031" X_vs_Y_string="KRONCKE v. TRUILLO, WARDEN, ET AL" standard_case="140744_1" X_vs_Y="140744_2" gram_type="multi_line" relation_type="equivalence" id="140744_10" ></RELATION>
+
+<RELATION at_date_string="December 6, 2004" theme="140744_2" at_date="140744_9" theme_string="KRONCKE v. TRUILLO, WARDEN, ET AL" gram_type="multi_line" relation_type="asymmetric" id="140744_12" ></RELATION>
+
+<RELATION theme="140744_2" includes_docket_string="03-10954" includes_docket="140744_7" theme_string="KRONCKE v. TRUILLO, WARDEN, ET AL" gram_type="multi_line" relation_type="asymmetric" id="140744_11" ></RELATION>
+

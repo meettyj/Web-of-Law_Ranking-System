@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['hatchettjones#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_951" id1="114810" volume="510" start="0" page_number="951" standard_reporter="U.S." citation_global_level_id="2376.002" line="1" id="114812_1" citation_local_level_id="0" >510 U.S. 951</CITATION>
+
+<CITATION party2="Jones, Warden" party1="Hatchett" citation_global_level_id="2376.003" party2_short="Jones" line="1" id="114812_3" alternative_keys="['u.s._510_951']" end="42" entry_type="party_key" lookup_key="hatchettjones#1" id1="114810" start="17" party1_short="Hatchett" citation_local_level_id="1" >Hatchett v. Jones, Warden</CITATION>
+
+<NAME end="25" start="17" party1_of="114812_3" all_names="HATCHETT" local_name_id="1" id="114812_4" >Hatchett</NAME>
+
+<NAME end="42" start="29" all_names="JONES WARDEN" party2_of="114812_3" local_name_id="2" id="114812_5" >Jones, Warden</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="u.s._510_951" id1="114810" start="52" citation_global_level_id="2376.002" line="1" id="114812_2" citation_local_level_id="0" >93-5896</DOCKET>
+
+<DATE start="101" end="117" id="114812_6" >November 1, 1993</DATE>
+
+<NAME start="196" local_name_id="3" end="206" id="114812_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="244" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_993_233" id1="Dummy_File_32020" volume="993" start="231" page_number="233" standard_reporter="F.2D" citation_global_level_id="95870.001" line="3" id="114812_12" citation_local_level_id="2" >993 F. 2d 233</CITATION>
+
+<RELATION theme="114812_1" includes_docket_string="93-5896" includes_docket="114812_2" theme_string="510 U.S. 951" gram_type="apposition" relation_type="asymmetric" id="114812_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 951" X_vs_Y_string="Hatchett v. Jones, Warden" standard_case="114812_1" X_vs_Y="114812_3" gram_type="pre_nom" relation_type="equivalence" id="114812_7" ></RELATION>
+
+<RELATION theme="114812_3" includes_docket_string="93-5896" includes_docket="114812_2" theme_string="Hatchett v. Jones, Warden" gram_type="apposition" relation_type="asymmetric" id="114812_10" ></RELATION>
+
+<RELATION theme="114812_3" party1="114812_4" party1_string="Hatchett" theme_string="Hatchett v. Jones, Warden" gram_type="infix" relation_type="asymmetric" id="114812_8" ></RELATION>
+
+<RELATION party2="114812_5" theme="114812_3" theme_string="Hatchett v. Jones, Warden" party2_string="Jones, Warden" gram_type="infix" relation_type="asymmetric" id="114812_9" ></RELATION>
+

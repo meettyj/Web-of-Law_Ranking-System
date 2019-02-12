@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['servicesdepartment#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1001" id1="140325" volume="543" start="0" page_number="1001" standard_reporter="U.S." citation_global_level_id="5261.002" line="1" id="140321_1" citation_local_level_id="0" >543 U.S. 1001</CITATION>
+
+<CITATION party2="ARIZONA DEPARTMENT OF HEALTH SERVICES ET AL" party1="TRICITY BEHAVIORAL HEALTH SERVICES, INC." citation_global_level_id="5261.005" party2_short="DEPARTMENT" line="2" id="140321_2" alternative_keys="['u.s._543_1001']" end="105" entry_type="party_key" lookup_key="servicesdepartment#2" id1="140325" start="18" party1_short="SERVICES" citation_local_level_id="1" >TRICITY BEHAVIORAL HEALTH SERVICES, INC. v. ARIZONA DEPARTMENT OF HEALTH SERVICES ET AL</CITATION>
+
+<NAME end="58" start="18" party1_of="140321_2" all_names="TRICITY BEHAVIORAL HEALTH SERVICES INC" local_name_id="1" id="140321_3" >TRICITY BEHAVIORAL HEALTH SERVICES, INC.</NAME>
+
+<ORGANIZATION start="18" end="57" id="140321_5" >TRICITY BEHAVIORAL HEALTH SERVICES, INC</ORGANIZATION>
+
+<NAME end="105" start="62" all_names="ARIZONA DEPARTMENT OF HEALTH SERVICES" party2_of="140321_2" local_name_id="2" id="140321_4" >ARIZONA DEPARTMENT OF HEALTH SERVICES ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._543_1001']" end="121" entry_type="docket" lookup_key="servicesdepartment#2" id1="140325" start="115" citation_global_level_id="5261.005" line="3" id="140321_8" citation_local_level_id="1" >04-409</DOCKET>
+
+<ORGANIZATION start="127" end="157" id="140321_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="163" citation_global_level_id="5261.005" end="180" id="140321_10" citation_local_level_id="1" >November 29, 2004</DATE>
+
+<NAME start="202" local_name_id="3" end="204" id="140321_14" all_names="CT" >Ct</NAME>
+
+<RELATION theme="140321_2" party1="140321_3" party1_string="TRICITY BEHAVIORAL HEALTH SERVICES, INC." theme_string="TRICITY BEHAVIORAL HEALTH SERVICES, INC. v. ARIZONA DEPARTMENT OF HEALTH SERVICES ET AL" gram_type="infix" relation_type="asymmetric" id="140321_6" ></RELATION>
+
+<RELATION party2="140321_4" theme="140321_2" theme_string="TRICITY BEHAVIORAL HEALTH SERVICES, INC. v. ARIZONA DEPARTMENT OF HEALTH SERVICES ET AL" party2_string="ARIZONA DEPARTMENT OF HEALTH SERVICES ET AL" gram_type="infix" relation_type="asymmetric" id="140321_7" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1001" X_vs_Y_string="TRICITY BEHAVIORAL HEALTH SERVICES, INC. v. ARIZONA DEPARTMENT OF HEALTH SERVICES ET AL" standard_case="140321_1" X_vs_Y="140321_2" gram_type="multi_line" relation_type="equivalence" id="140321_11" ></RELATION>
+
+<RELATION at_date_string="November 29, 2004" theme="140321_2" at_date="140321_10" theme_string="TRICITY BEHAVIORAL HEALTH SERVICES, INC. v. ARIZONA DEPARTMENT OF HEALTH SERVICES ET AL" gram_type="multi_line" relation_type="asymmetric" id="140321_13" ></RELATION>
+
+<RELATION theme="140321_2" includes_docket_string="04-409" includes_docket="140321_8" theme_string="TRICITY BEHAVIORAL HEALTH SERVICES, INC. v. ARIZONA DEPARTMENT OF HEALTH SERVICES ET AL" gram_type="multi_line" relation_type="asymmetric" id="140321_12" ></RELATION>
+

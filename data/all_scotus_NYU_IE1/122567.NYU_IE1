@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['callierstates#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_827" id1="122577" volume="537" start="0" page_number="827" standard_reporter="U.S." citation_global_level_id="4107.002" line="1" id="122567_1" citation_local_level_id="0" >537 U.S. 827</CITATION>
+
+<CITATION party2="UNITED STATES" party1="CALLIER" citation_global_level_id="27785.001" party2_short="STATES" line="1" id="122567_3" alternative_keys="['u.s._537_827']" end="41" entry_type="party_key" lookup_key="callierstates#1" id1="122567" start="17" party1_short="CALLIER" citation_local_level_id="1" >CALLIER v. UNITED STATES</CITATION>
+
+<NAME end="24" start="17" party1_of="122567_3" all_names="CALLIER" local_name_id="1" id="122567_4" >CALLIER</NAME>
+
+<NAME end="41" start="28" all_names="UNITED STATES" party2_of="122567_3" local_name_id="2" id="122567_5" >UNITED STATES</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._537_827" id1="122577" start="51" citation_global_level_id="4107.002" line="1" id="122567_2" citation_local_level_id="0" >01-8914</DOCKET>
+
+<DATE start="100" end="115" id="122567_6" >October 7, 2002</DATE>
+
+<NAME start="241" local_name_id="3" end="243" id="122567_13" all_names="CT" >Ct</NAME>
+
+<CITATION end="303" reporter="A. 2d" entry_type="standard_key" no_current_file="True" lookup_key="a.2d_794_57" id1="Dummy_File_198889" volume="794" start="291" page_number="57" standard_reporter="A.2D" citation_global_level_id="262739.001" line="3" id="122567_12" citation_local_level_id="2" >794 A. 2d 57</CITATION>
+
+<RELATION theme="122567_1" includes_docket_string="01-8914" includes_docket="122567_2" theme_string="537 U.S. 827" gram_type="apposition" relation_type="asymmetric" id="122567_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 827" X_vs_Y_string="CALLIER v. UNITED STATES" standard_case="122567_1" X_vs_Y="122567_3" gram_type="pre_nom" relation_type="equivalence" id="122567_7" ></RELATION>
+
+<RELATION theme="122567_3" includes_docket_string="01-8914" includes_docket="122567_2" theme_string="CALLIER v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="122567_10" ></RELATION>
+
+<RELATION theme="122567_3" party1="122567_4" party1_string="CALLIER" theme_string="CALLIER v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="122567_8" ></RELATION>
+
+<RELATION party2="122567_5" theme="122567_3" theme_string="CALLIER v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="122567_9" ></RELATION>
+

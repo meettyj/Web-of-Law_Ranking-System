@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['contractorsbank#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1029" id1="125147" volume="537" start="0" page_number="1029" standard_reporter="U.S." citation_global_level_id="852.002" line="1" id="125146_1" citation_local_level_id="0" >537 U.S. 1029</CITATION>
+
+<CITATION party2="FIRST ENTERPRISE BANK" party1="PICKENS MECHANICAL CONTRACTORS, INC., ET AL." citation_global_level_id="852.004" party2_short="BANK" line="1" id="125146_3" alternative_keys="['u.s._537_1029']" end="87" entry_type="party_key" lookup_key="contractorsbank#1" id1="125147" start="18" party1_short="CONTRACTORS" citation_local_level_id="1" >PICKENS MECHANICAL CONTRACTORS, INC., ET AL. v. FIRST ENTERPRISE BANK</CITATION>
+
+<NAME end="62" start="18" party1_of="125146_3" all_names="PICKENS MECHANICAL CONTRACTORS INC" local_name_id="1" id="125146_4" >PICKENS MECHANICAL CONTRACTORS, INC., ET AL.</NAME>
+
+<ORGANIZATION start="18" end="53" id="125146_7" >PICKENS MECHANICAL CONTRACTORS, INC</ORGANIZATION>
+
+<NAME end="87" start="66" all_names="FIRST ENTERPRISE BANK" party2_of="125146_3" local_name_id="2" id="125146_5" >FIRST ENTERPRISE BANK</NAME>
+
+<DOCKET end="103" entry_type="docket" lookup_key="u.s._537_1029" id1="125147" start="97" citation_global_level_id="852.002" line="1" id="125146_2" citation_local_level_id="0" >02-436</DOCKET>
+
+<ORGANIZATION start="109" end="139" id="125146_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="145" end="162" id="125146_6" >November 18, 2002</DATE>
+
+<ORGANIZATION start="184" end="236" id="125146_9" >CERTIORARI TO THE COURT OF CIVIL APPEALS OF OKLAHOMA</ORGANIZATION>
+
+<NAME start="263" local_name_id="3" end="265" id="125146_15" all_names="CT" >Ct</NAME>
+
+<RELATION theme="125146_1" includes_docket_string="02-436" includes_docket="125146_2" theme_string="537 U.S. 1029" gram_type="apposition" relation_type="asymmetric" id="125146_14" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1029" X_vs_Y_string="PICKENS MECHANICAL CONTRACTORS, INC., ET AL. v. FIRST ENTERPRISE BANK" standard_case="125146_1" X_vs_Y="125146_3" gram_type="pre_nom" relation_type="equivalence" id="125146_10" ></RELATION>
+
+<RELATION theme="125146_3" includes_docket_string="02-436" includes_docket="125146_2" theme_string="PICKENS MECHANICAL CONTRACTORS, INC., ET AL. v. FIRST ENTERPRISE BANK" gram_type="apposition" relation_type="asymmetric" id="125146_13" ></RELATION>
+
+<RELATION theme="125146_3" party1="125146_4" party1_string="PICKENS MECHANICAL CONTRACTORS, INC., ET AL." theme_string="PICKENS MECHANICAL CONTRACTORS, INC., ET AL. v. FIRST ENTERPRISE BANK" gram_type="infix" relation_type="asymmetric" id="125146_11" ></RELATION>
+
+<RELATION party2="125146_5" theme="125146_3" theme_string="PICKENS MECHANICAL CONTRACTORS, INC., ET AL. v. FIRST ENTERPRISE BANK" party2_string="FIRST ENTERPRISE BANK" gram_type="infix" relation_type="asymmetric" id="125146_12" ></RELATION>
+

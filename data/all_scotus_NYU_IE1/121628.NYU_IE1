@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['dunnkean#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._536_940" id1="121622" volume="536" start="0" page_number="940" standard_reporter="U.S." citation_global_level_id="1685.002" line="1" id="121628_1" citation_local_level_id="0" >536 U.S. 940</CITATION>
+
+<CITATION party2="KEAN" party1="DUNN" citation_global_level_id="46550.001" party2_short="KEAN" line="2" id="121628_2" alternative_keys="['u.s._536_940']" end="29" entry_type="party_key" lookup_key="dunnkean#2" id1="121628" start="17" party1_short="DUNN" citation_local_level_id="1" >DUNN v. KEAN</CITATION>
+
+<NAME end="21" start="17" party1_of="121628_2" all_names="DUNN" local_name_id="1" id="121628_3" >DUNN</NAME>
+
+<NAME end="29" start="25" all_names="KEAN" party2_of="121628_2" local_name_id="2" id="121628_4" >KEAN</NAME>
+
+<DOCKET end="46" entry_type="docket" lookup_key="dunnkean#2" id1="121628" start="39" citation_global_level_id="46550.001" line="3" id="121628_7" citation_local_level_id="1" >01-1606</DOCKET>
+
+<DATE start="92" citation_global_level_id="46550.001" end="105" id="121628_8" citation_local_level_id="1" >June 24, 2002</DATE>
+
+<NAME start="127" local_name_id="3" end="131" id="121628_13" all_names="DIST" >Dist</NAME>
+
+<CITATION end="207" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_810_922" id1="Dummy_File_114284" volume="810" start="193" page_number="922" standard_reporter="SO.2D" citation_global_level_id="178134.001" line="8" id="121628_12" citation_local_level_id="2" >810 So. 2d 922</CITATION>
+
+<RELATION theme="121628_2" party1="121628_3" party1_string="DUNN" theme_string="DUNN v. KEAN" gram_type="infix" relation_type="asymmetric" id="121628_5" ></RELATION>
+
+<RELATION party2="121628_4" theme="121628_2" theme_string="DUNN v. KEAN" party2_string="KEAN" gram_type="infix" relation_type="asymmetric" id="121628_6" ></RELATION>
+
+<RELATION standard_case_string="536 U.S. 940" X_vs_Y_string="DUNN v. KEAN" standard_case="121628_1" X_vs_Y="121628_2" gram_type="multi_line" relation_type="equivalence" id="121628_9" ></RELATION>
+
+<RELATION at_date_string="June 24, 2002" theme="121628_2" at_date="121628_8" theme_string="DUNN v. KEAN" gram_type="multi_line" relation_type="asymmetric" id="121628_11" ></RELATION>
+
+<RELATION theme="121628_2" includes_docket_string="01-1606" includes_docket="121628_7" theme_string="DUNN v. KEAN" gram_type="multi_line" relation_type="asymmetric" id="121628_10" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['krugkrug#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1218" id1="127518" volume="537" start="0" page_number="1218" standard_reporter="U.S." citation_global_level_id="364.002" line="1" id="127521_1" citation_local_level_id="0" >537 U.S. 1218</CITATION>
+
+<CITATION party2="KRUG" party1="KRUG" citation_global_level_id="16952.001" party2_short="KRUG" line="1" id="127521_3" alternative_keys="['u.s._537_1218']" end="30" entry_type="party_key" lookup_key="krugkrug#1" id1="127521" start="18" party1_short="KRUG" citation_local_level_id="1" >KRUG v. KRUG</CITATION>
+
+<NAME end="22" start="18" party1_of="127521_3" all_names="KRUG" local_name_id="1" id="127521_4" >KRUG</NAME>
+
+<NAME end="30" start="26" all_names="KRUG" party2_of="127521_3" local_name_id="1" id="127521_5" >KRUG</NAME>
+
+<DOCKET end="47" entry_type="docket" lookup_key="u.s._537_1218" id1="127518" start="40" citation_global_level_id="364.002" line="1" id="127521_2" citation_local_level_id="0" >02-8372</DOCKET>
+
+<DATE start="89" end="106" id="127521_6" >February 24, 2003</DATE>
+
+<NAME start="202" local_name_id="2" end="204" id="127521_13" all_names="CT" >Ct</NAME>
+
+<CITATION end="284" reporter="N. W. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.w.2d_647_467" id1="Dummy_File_52030" volume="647" start="268" page_number="467" standard_reporter="N.W.2D" citation_global_level_id="115880.001" line="3" id="127521_12" citation_local_level_id="2" >647 N. W. 2d 467</CITATION>
+
+<RELATION theme="127521_1" includes_docket_string="02-8372" includes_docket="127521_2" theme_string="537 U.S. 1218" gram_type="apposition" relation_type="asymmetric" id="127521_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1218" X_vs_Y_string="KRUG v. KRUG" standard_case="127521_1" X_vs_Y="127521_3" gram_type="pre_nom" relation_type="equivalence" id="127521_7" ></RELATION>
+
+<RELATION theme="127521_3" includes_docket_string="02-8372" includes_docket="127521_2" theme_string="KRUG v. KRUG" gram_type="apposition" relation_type="asymmetric" id="127521_10" ></RELATION>
+
+<RELATION theme="127521_3" party1="127521_4" party1_string="KRUG" theme_string="KRUG v. KRUG" gram_type="infix" relation_type="asymmetric" id="127521_8" ></RELATION>
+
+<RELATION party2="127521_5" theme="127521_3" theme_string="KRUG v. KRUG" party2_string="KRUG" gram_type="infix" relation_type="asymmetric" id="127521_9" ></RELATION>
+

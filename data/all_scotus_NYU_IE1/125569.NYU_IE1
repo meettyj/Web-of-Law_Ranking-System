@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['skamferwarden#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1062" id1="125569" volume="537" start="0" page_number="1062" standard_reporter="U.S." citation_global_level_id="234.002" line="1" id="125569_1" citation_local_level_id="0" >537 U.S. 1062</CITATION>
+
+<CITATION party2="SMITH, WARDEN" party1="SKAMFER" citation_global_level_id="234.001" party2_short="WARDEN" line="1" id="125569_3" alternative_keys="['u.s._537_1062']" end="42" entry_type="party_key" lookup_key="skamferwarden#1" id1="125569" start="18" party1_short="SKAMFER" citation_local_level_id="1" >SKAMFER v. SMITH, WARDEN</CITATION>
+
+<NAME end="25" start="18" party1_of="125569_3" all_names="SKAMFER" local_name_id="1" id="125569_4" >SKAMFER</NAME>
+
+<NAME end="42" start="29" all_names="SMITH WARDEN" party2_of="125569_3" local_name_id="2" id="125569_5" >SMITH, WARDEN</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="u.s._537_1062" id1="125569" start="52" citation_global_level_id="234.002" line="1" id="125569_2" citation_local_level_id="0" >02-7058</DOCKET>
+
+<DATE start="101" end="117" id="125569_6" >December 2, 2002</DATE>
+
+<NAME start="248" local_name_id="3" end="251" id="125569_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="125569_1" includes_docket_string="02-7058" includes_docket="125569_2" theme_string="537 U.S. 1062" gram_type="apposition" relation_type="asymmetric" id="125569_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1062" X_vs_Y_string="SKAMFER v. SMITH, WARDEN" standard_case="125569_1" X_vs_Y="125569_3" gram_type="pre_nom" relation_type="equivalence" id="125569_7" ></RELATION>
+
+<RELATION theme="125569_3" includes_docket_string="02-7058" includes_docket="125569_2" theme_string="SKAMFER v. SMITH, WARDEN" gram_type="apposition" relation_type="asymmetric" id="125569_10" ></RELATION>
+
+<RELATION theme="125569_3" party1="125569_4" party1_string="SKAMFER" theme_string="SKAMFER v. SMITH, WARDEN" gram_type="infix" relation_type="asymmetric" id="125569_8" ></RELATION>
+
+<RELATION party2="125569_5" theme="125569_3" theme_string="SKAMFER v. SMITH, WARDEN" party2_string="SMITH, WARDEN" gram_type="infix" relation_type="asymmetric" id="125569_9" ></RELATION>
+

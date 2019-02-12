@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['citystates#8']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1146" id1="142198" volume="543" start="0" page_number="1146" standard_reporter="U.S." citation_global_level_id="4595.002" line="1" id="142196_1" citation_local_level_id="0" >543 U.S. 1146</CITATION>
+
+<CITATION party2="UNITED STATES ET AL" party1="CITY OF NEW YORK, NEW YORK, ET AL." citation_global_level_id="45280.001" party2_short="STATES" line="2" id="142196_2" alternative_keys="['u.s._543_1146']" end="75" entry_type="party_key" lookup_key="citystates#8" id1="107665" start="18" party1_short="CITY" citation_local_level_id="1" >CITY OF NEW YORK, NEW YORK, ET AL. v. UNITED STATES ET AL</CITATION>
+
+<NAME end="52" start="18" party1_of="142196_2" all_names="CITY OF NEW YORK NEW YORK" local_name_id="1" id="142196_3" >CITY OF NEW YORK, NEW YORK, ET AL.</NAME>
+
+<NAME end="75" start="56" all_names="UNITED STATES" party2_of="142196_2" local_name_id="2" id="142196_4" >UNITED STATES ET AL</NAME>
+
+<DOCKET end="91" entry_type="docket" lookup_key="citystates#8" id1="107665" start="85" citation_global_level_id="45280.001" line="3" id="142196_7" citation_local_level_id="1" >04-464</DOCKET>
+
+<ORGANIZATION start="97" end="127" id="142196_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="133" citation_global_level_id="45280.001" end="150" id="142196_9" citation_local_level_id="1" >February 22, 2005</DATE>
+
+<NAME start="181" local_name_id="3" end="184" id="142196_14" all_names="CIR" >Cir</NAME>
+
+<CITATION end="233" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_359_83" id1="Dummy_File_56226" volume="359" start="221" page_number="83" standard_reporter="F.3D" citation_global_level_id="120076.001" line="8" id="142196_13" citation_local_level_id="2" >359 F. 3d 83</CITATION>
+
+<RELATION theme="142196_2" party1="142196_3" party1_string="CITY OF NEW YORK, NEW YORK, ET AL." theme_string="CITY OF NEW YORK, NEW YORK, ET AL. v. UNITED STATES ET AL" gram_type="infix" relation_type="asymmetric" id="142196_5" ></RELATION>
+
+<RELATION party2="142196_4" theme="142196_2" theme_string="CITY OF NEW YORK, NEW YORK, ET AL. v. UNITED STATES ET AL" party2_string="UNITED STATES ET AL" gram_type="infix" relation_type="asymmetric" id="142196_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1146" X_vs_Y_string="CITY OF NEW YORK, NEW YORK, ET AL. v. UNITED STATES ET AL" standard_case="142196_1" X_vs_Y="142196_2" gram_type="multi_line" relation_type="equivalence" id="142196_10" ></RELATION>
+
+<RELATION at_date_string="February 22, 2005" theme="142196_2" at_date="142196_9" theme_string="CITY OF NEW YORK, NEW YORK, ET AL. v. UNITED STATES ET AL" gram_type="multi_line" relation_type="asymmetric" id="142196_12" ></RELATION>
+
+<RELATION theme="142196_2" includes_docket_string="04-464" includes_docket="142196_7" theme_string="CITY OF NEW YORK, NEW YORK, ET AL. v. UNITED STATES ET AL" gram_type="multi_line" relation_type="asymmetric" id="142196_11" ></RELATION>
+

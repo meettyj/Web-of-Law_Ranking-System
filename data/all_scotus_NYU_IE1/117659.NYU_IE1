@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['yeggycity#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1199" id1="117667" volume="510" start="0" page_number="1199" standard_reporter="U.S." citation_global_level_id="1330.002" line="1" id="117659_1" citation_local_level_id="0" >510 U.S. 1199</CITATION>
+
+<CITATION party2="City of Iowa City, Iowa, et al" party1="Yeggy" citation_global_level_id="1330.004" party2_short="City" line="1" id="117659_3" alternative_keys="['u.s._510_1199']" end="57" entry_type="party_key" lookup_key="yeggycity#2" id1="117667" start="18" party1_short="Yeggy" citation_local_level_id="1" >Yeggy v. City of Iowa City, Iowa, et al</CITATION>
+
+<NAME end="23" start="18" party1_of="117659_3" all_names="YEGGY" local_name_id="1" id="117659_4" >Yeggy</NAME>
+
+<NAME end="57" start="27" all_names="CITY OF IOWA CITY IOWA" party2_of="117659_3" local_name_id="2" id="117659_5" >City of Iowa City, Iowa, et al</NAME>
+
+<DOCKET end="74" entry_type="docket" lookup_key="u.s._510_1199" id1="117667" start="67" citation_global_level_id="1330.002" line="1" id="117659_2" citation_local_level_id="0" >93-7542</DOCKET>
+
+<DATE start="116" end="130" id="117659_6" >March 21, 1994</DATE>
+
+<NAME start="208" local_name_id="3" end="218" id="117659_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="259" reporter="N. W. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.w.2d_507_417" id1="Dummy_File_212370" volume="507" start="243" page_number="417" standard_reporter="N.W.2D" citation_global_level_id="276220.001" line="3" id="117659_12" citation_local_level_id="2" >507 N. W. 2d 417</CITATION>
+
+<RELATION theme="117659_1" includes_docket_string="93-7542" includes_docket="117659_2" theme_string="510 U.S. 1199" gram_type="apposition" relation_type="asymmetric" id="117659_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1199" X_vs_Y_string="Yeggy v. City of Iowa City, Iowa, et al" standard_case="117659_1" X_vs_Y="117659_3" gram_type="pre_nom" relation_type="equivalence" id="117659_7" ></RELATION>
+
+<RELATION theme="117659_3" includes_docket_string="93-7542" includes_docket="117659_2" theme_string="Yeggy v. City of Iowa City, Iowa, et al" gram_type="apposition" relation_type="asymmetric" id="117659_10" ></RELATION>
+
+<RELATION theme="117659_3" party1="117659_4" party1_string="Yeggy" theme_string="Yeggy v. City of Iowa City, Iowa, et al" gram_type="infix" relation_type="asymmetric" id="117659_8" ></RELATION>
+
+<RELATION party2="117659_5" theme="117659_3" theme_string="Yeggy v. City of Iowa City, Iowa, et al" party2_string="City of Iowa City, Iowa, et al" gram_type="infix" relation_type="asymmetric" id="117659_9" ></RELATION>
+

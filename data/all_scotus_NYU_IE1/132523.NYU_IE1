@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['barnespresident#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_905" id1="132533" volume="540" start="0" page_number="905" standard_reporter="U.S." citation_global_level_id="1458.002" line="1" id="132523_1" citation_local_level_id="0" >540 U.S. 905</CITATION>
+
+<CITATION party2="BUSH, PRESIDENT OF THE UNITED STATES, ET AL" party1="BARNES" citation_global_level_id="1458.006" party2_short="PRESIDENT" line="1" id="132523_3" alternative_keys="['u.s._540_905']" end="70" entry_type="party_key" lookup_key="barnespresident#2" id1="132533" start="17" party1_short="BARNES" citation_local_level_id="1" >BARNES v. BUSH, PRESIDENT OF THE UNITED STATES, ET AL</CITATION>
+
+<NAME end="23" start="17" party1_of="132523_3" all_names="BARNES" local_name_id="1" id="132523_4" >BARNES</NAME>
+
+<NAME end="70" start="27" all_names="BUSH PRESIDENT OF THE UNITED STATES" party2_of="132523_3" local_name_id="2" id="132523_5" >BUSH, PRESIDENT OF THE UNITED STATES, ET AL</NAME>
+
+<DOCKET end="87" entry_type="docket" lookup_key="u.s._540_905" id1="132533" start="80" citation_global_level_id="1458.002" line="1" id="132523_2" citation_local_level_id="0" >03-5370</DOCKET>
+
+<DATE start="129" end="144" id="132523_6" >October 6, 2003</DATE>
+
+<NAME start="222" local_name_id="3" end="232" id="132523_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="132523_1" includes_docket_string="03-5370" includes_docket="132523_2" theme_string="540 U.S. 905" gram_type="apposition" relation_type="asymmetric" id="132523_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 905" X_vs_Y_string="BARNES v. BUSH, PRESIDENT OF THE UNITED STATES, ET AL" standard_case="132523_1" X_vs_Y="132523_3" gram_type="pre_nom" relation_type="equivalence" id="132523_7" ></RELATION>
+
+<RELATION theme="132523_3" includes_docket_string="03-5370" includes_docket="132523_2" theme_string="BARNES v. BUSH, PRESIDENT OF THE UNITED STATES, ET AL" gram_type="apposition" relation_type="asymmetric" id="132523_10" ></RELATION>
+
+<RELATION theme="132523_3" party1="132523_4" party1_string="BARNES" theme_string="BARNES v. BUSH, PRESIDENT OF THE UNITED STATES, ET AL" gram_type="infix" relation_type="asymmetric" id="132523_8" ></RELATION>
+
+<RELATION party2="132523_5" theme="132523_3" theme_string="BARNES v. BUSH, PRESIDENT OF THE UNITED STATES, ET AL" party2_string="BUSH, PRESIDENT OF THE UNITED STATES, ET AL" gram_type="infix" relation_type="asymmetric" id="132523_9" ></RELATION>
+

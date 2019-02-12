@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['copertinomoore#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_824" id1="122538" volume="537" start="0" page_number="824" standard_reporter="U.S." citation_global_level_id="480.002" line="1" id="122533_1" citation_local_level_id="0" >537 U.S. 824</CITATION>
+
+<CITATION party2="MOORE, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS, ET AL" party1="COPERTINO" citation_global_level_id="480.005" party2_short="MOORE" line="1" id="122533_3" alternative_keys="['u.s._537_824']" end="88" entry_type="party_key" lookup_key="copertinomoore#1" id1="122538" start="17" party1_short="COPERTINO" citation_local_level_id="1" >COPERTINO v. MOORE, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS, ET AL</CITATION>
+
+<NAME end="26" start="17" party1_of="122533_3" all_names="COPERTINO" local_name_id="1" id="122533_4" >COPERTINO</NAME>
+
+<NAME end="88" start="30" all_names="MOORE SECRETARY FLORIDA DEPARTMENT OF CORRECTIONS" party2_of="122533_3" local_name_id="2" id="122533_5" >MOORE, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS, ET AL</NAME>
+
+<DOCKET end="105" entry_type="docket" lookup_key="u.s._537_824" id1="122538" start="98" citation_global_level_id="480.002" line="1" id="122533_2" citation_local_level_id="0" >01-1838</DOCKET>
+
+<DATE start="101" end="105" id="122533_6" >1838</DATE>
+
+<DATE start="147" end="162" id="122533_7" >October 7, 2002</DATE>
+
+<NAME start="295" local_name_id="3" end="298" id="122533_15" all_names="CIR" >Cir</NAME>
+
+<CITATION end="349" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_281_1284" id1="Dummy_File_7026" volume="281" start="335" page_number="1284" standard_reporter="F.3D" citation_global_level_id="70876.001" line="3" id="122533_14" citation_local_level_id="2" >281 F. 3d 1284</CITATION>
+
+<RELATION theme="122533_1" includes_docket_string="01-1838" includes_docket="122533_2" theme_string="537 U.S. 824" gram_type="apposition" relation_type="asymmetric" id="122533_12" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 824" X_vs_Y_string="COPERTINO v. MOORE, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS, ET AL" standard_case="122533_1" X_vs_Y="122533_3" gram_type="pre_nom" relation_type="equivalence" id="122533_8" ></RELATION>
+
+<RELATION theme="122533_3" includes_docket_string="01-1838" includes_docket="122533_2" theme_string="COPERTINO v. MOORE, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS, ET AL" gram_type="apposition" relation_type="asymmetric" id="122533_11" ></RELATION>
+
+<RELATION party2="122533_5" theme="122533_3" theme_string="COPERTINO v. MOORE, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS, ET AL" party2_string="MOORE, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS, ET AL" gram_type="infix" relation_type="asymmetric" id="122533_10" ></RELATION>
+
+<RELATION theme="122533_3" party1="122533_4" party1_string="COPERTINO" theme_string="COPERTINO v. MOORE, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS, ET AL" gram_type="infix" relation_type="asymmetric" id="122533_9" ></RELATION>
+
+<RELATION at_date_string="1838" theme="122533_2" at_date="122533_6" theme_string="01-1838" gram_type="infix" relation_type="asymmetric" id="122533_13" ></RELATION>
+

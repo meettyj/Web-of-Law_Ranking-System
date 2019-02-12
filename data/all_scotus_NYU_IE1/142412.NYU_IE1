@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['ramirezfairman#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1162" id1="142409" volume="543" start="0" page_number="1162" standard_reporter="U.S." citation_global_level_id="338.002" line="1" id="142412_1" citation_local_level_id="0" >543 U.S. 1162</CITATION>
+
+<CITATION party2="FAIRMAN, WARDEN" party1="RAMIREZ" citation_global_level_id="338.005" party2_short="FAIRMAN" line="2" id="142412_2" alternative_keys="['u.s._543_1162']" end="44" entry_type="party_key" lookup_key="ramirezfairman#1" id1="142409" start="18" party1_short="RAMIREZ" citation_local_level_id="1" >RAMIREZ v. FAIRMAN, WARDEN</CITATION>
+
+<NAME end="25" start="18" party1_of="142412_2" all_names="RAMIREZ" local_name_id="1" id="142412_3" >RAMIREZ</NAME>
+
+<NAME end="44" start="29" all_names="FAIRMAN WARDEN" party2_of="142412_2" local_name_id="2" id="142412_4" >FAIRMAN, WARDEN</NAME>
+
+<DOCKET alternative_keys="['u.s._543_1162']" end="61" entry_type="docket" lookup_key="ramirezfairman#1" id1="142409" start="54" citation_global_level_id="338.005" line="3" id="142412_7" citation_local_level_id="1" >04-7650</DOCKET>
+
+<ORGANIZATION start="67" end="97" id="142412_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="103" citation_global_level_id="338.005" end="120" id="142412_9" citation_local_level_id="1" >February 22, 2005</DATE>
+
+<NAME start="152" local_name_id="3" end="155" id="142412_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="142412_2" party1="142412_3" party1_string="RAMIREZ" theme_string="RAMIREZ v. FAIRMAN, WARDEN" gram_type="infix" relation_type="asymmetric" id="142412_5" ></RELATION>
+
+<RELATION party2="142412_4" theme="142412_2" theme_string="RAMIREZ v. FAIRMAN, WARDEN" party2_string="FAIRMAN, WARDEN" gram_type="infix" relation_type="asymmetric" id="142412_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1162" X_vs_Y_string="RAMIREZ v. FAIRMAN, WARDEN" standard_case="142412_1" X_vs_Y="142412_2" gram_type="multi_line" relation_type="equivalence" id="142412_10" ></RELATION>
+
+<RELATION at_date_string="February 22, 2005" theme="142412_2" at_date="142412_9" theme_string="RAMIREZ v. FAIRMAN, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="142412_12" ></RELATION>
+
+<RELATION theme="142412_2" includes_docket_string="04-7650" includes_docket="142412_7" theme_string="RAMIREZ v. FAIRMAN, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="142412_11" ></RELATION>
+

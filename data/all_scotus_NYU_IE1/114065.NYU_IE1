@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['langfordmichigan#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_890" id1="114059" volume="510" start="0" page_number="890" standard_reporter="U.S." citation_global_level_id="2829.002" line="1" id="114065_1" citation_local_level_id="0" >510 U.S. 890</CITATION>
+
+<CITATION party2="Michigan" party1="Langford" citation_global_level_id="57197.001" party2_short="Michigan" line="1" id="114065_3" alternative_keys="['u.s._510_890']" end="37" entry_type="party_key" lookup_key="langfordmichigan#1" id1="114065" start="17" party1_short="Langford" citation_local_level_id="1" >Langford v. Michigan</CITATION>
+
+<NAME end="25" start="17" party1_of="114065_3" all_names="LANGFORD" local_name_id="1" id="114065_4" >Langford</NAME>
+
+<NAME end="37" start="29" all_names="MICHIGAN" party2_of="114065_3" local_name_id="2" id="114065_5" >Michigan</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="u.s._510_890" id1="114059" start="47" citation_global_level_id="2829.002" line="1" id="114065_2" citation_local_level_id="0" >93-5384</DOCKET>
+
+<DATE start="96" end="111" id="114065_6" >October 4, 1993</DATE>
+
+<NAME start="189" local_name_id="3" end="199" id="114065_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="237" reporter="Mich." entry_type="standard_key" no_current_file="True" lookup_key="mich._441_904" id1="Dummy_File_47091" volume="441" start="224" page_number="904" standard_reporter="MICH." citation_global_level_id="110941.001" line="3" id="114065_12" citation_local_level_id="2" >441 Mich. 904</CITATION>
+
+<CITATION end="255" reporter="N. W. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.w.2d_496_291" id1="Dummy_File_47092" volume="496" start="239" page_number="291" standard_reporter="N.W.2D" citation_global_level_id="110942.001" line="3" id="114065_13" citation_local_level_id="3" >496 N. W. 2d 291</CITATION>
+
+<RELATION theme="114065_1" includes_docket_string="93-5384" includes_docket="114065_2" theme_string="510 U.S. 890" gram_type="apposition" relation_type="asymmetric" id="114065_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 890" X_vs_Y_string="Langford v. Michigan" standard_case="114065_1" X_vs_Y="114065_3" gram_type="pre_nom" relation_type="equivalence" id="114065_7" ></RELATION>
+
+<RELATION theme="114065_3" includes_docket_string="93-5384" includes_docket="114065_2" theme_string="Langford v. Michigan" gram_type="apposition" relation_type="asymmetric" id="114065_10" ></RELATION>
+
+<RELATION theme="114065_3" party1="114065_4" party1_string="Langford" theme_string="Langford v. Michigan" gram_type="infix" relation_type="asymmetric" id="114065_8" ></RELATION>
+
+<RELATION party2="114065_5" theme="114065_3" theme_string="Langford v. Michigan" party2_string="Michigan" gram_type="infix" relation_type="asymmetric" id="114065_9" ></RELATION>
+

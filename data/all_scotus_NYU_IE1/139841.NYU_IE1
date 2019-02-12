@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['boosejohnson#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_962" id1="139849" volume="543" start="0" page_number="962" standard_reporter="U.S." citation_global_level_id="4667.002" line="1" id="139841_1" citation_local_level_id="0" >543 U.S. 962</CITATION>
+
+<CITATION party2="JOHNSON, SUPERINTENDENT, STATE CORRECTIONAL INSTITUTION AT PINE GROVE, ET AL" party1="BOOSE" citation_global_level_id="4667.007" party2_short="JOHNSON" line="2" id="139841_2" alternative_keys="['u.s._543_962']" end="102" entry_type="party_key" lookup_key="boosejohnson#1" id1="139849" start="17" party1_short="BOOSE" citation_local_level_id="1" >BOOSE v. JOHNSON, SUPERINTENDENT, STATE CORRECTIONAL INSTITUTION AT PINE GROVE, ET AL</CITATION>
+
+<NAME end="22" start="17" party1_of="139841_2" all_names="BOOSE" local_name_id="1" id="139841_3" >BOOSE</NAME>
+
+<NAME end="102" start="26" all_names="JOHNSON SUPERINTENDENT STATE CORRECTIONAL INSTITUTION AT PINE GROVE" party2_of="139841_2" local_name_id="2" id="139841_4" >JOHNSON, SUPERINTENDENT, STATE CORRECTIONAL INSTITUTION AT PINE GROVE, ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._543_962']" end="119" entry_type="docket" lookup_key="boosejohnson#1" id1="139849" start="112" citation_global_level_id="4667.007" line="3" id="139841_7" citation_local_level_id="1" >04-5995</DOCKET>
+
+<ORGANIZATION start="125" end="155" id="139841_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="161" citation_global_level_id="4667.007" end="177" id="139841_9" citation_local_level_id="1" >November 1, 2004</DATE>
+
+<NAME start="208" local_name_id="3" end="211" id="139841_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="139841_2" party1="139841_3" party1_string="BOOSE" theme_string="BOOSE v. JOHNSON, SUPERINTENDENT, STATE CORRECTIONAL INSTITUTION AT PINE GROVE, ET AL" gram_type="infix" relation_type="asymmetric" id="139841_5" ></RELATION>
+
+<RELATION party2="139841_4" theme="139841_2" theme_string="BOOSE v. JOHNSON, SUPERINTENDENT, STATE CORRECTIONAL INSTITUTION AT PINE GROVE, ET AL" party2_string="JOHNSON, SUPERINTENDENT, STATE CORRECTIONAL INSTITUTION AT PINE GROVE, ET AL" gram_type="infix" relation_type="asymmetric" id="139841_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 962" X_vs_Y_string="BOOSE v. JOHNSON, SUPERINTENDENT, STATE CORRECTIONAL INSTITUTION AT PINE GROVE, ET AL" standard_case="139841_1" X_vs_Y="139841_2" gram_type="multi_line" relation_type="equivalence" id="139841_10" ></RELATION>
+
+<RELATION at_date_string="November 1, 2004" theme="139841_2" at_date="139841_9" theme_string="BOOSE v. JOHNSON, SUPERINTENDENT, STATE CORRECTIONAL INSTITUTION AT PINE GROVE, ET AL" gram_type="multi_line" relation_type="asymmetric" id="139841_12" ></RELATION>
+
+<RELATION theme="139841_2" includes_docket_string="04-5995" includes_docket="139841_7" theme_string="BOOSE v. JOHNSON, SUPERINTENDENT, STATE CORRECTIONAL INSTITUTION AT PINE GROVE, ET AL" gram_type="multi_line" relation_type="asymmetric" id="139841_11" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['harrisstates#9']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_884" id1="132242" volume="540" start="0" page_number="884" standard_reporter="U.S." citation_global_level_id="300.002" line="1" id="132245_1" citation_local_level_id="0" >540 U.S. 884</CITATION>
+
+<CITATION party2="UNITED STATES" party1="HARRIS" citation_global_level_id="10879.001" party2_short="STATES" line="1" id="132245_3" alternative_keys="['u.s._540_884']" end="40" entry_type="party_key" lookup_key="harrisstates#9" id1="117009" start="17" party1_short="HARRIS" citation_local_level_id="1" >HARRIS v. UNITED STATES</CITATION>
+
+<NAME end="23" start="17" party1_of="132245_3" all_names="HARRIS" local_name_id="1" id="132245_4" >HARRIS</NAME>
+
+<NAME end="40" start="27" all_names="UNITED STATES" party2_of="132245_3" local_name_id="2" id="132245_5" >UNITED STATES</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._540_884" id1="132242" start="50" citation_global_level_id="300.002" line="1" id="132245_2" citation_local_level_id="0" >03-5032</DOCKET>
+
+<DATE start="99" end="114" id="132245_6" >October 6, 2003</DATE>
+
+<NAME start="192" local_name_id="3" end="202" id="132245_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="240" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_324_602" id1="Dummy_File_82047" volume="324" start="227" page_number="602" standard_reporter="F.3D" citation_global_level_id="145897.001" line="3" id="132245_12" citation_local_level_id="2" >324 F. 3d 602</CITATION>
+
+<RELATION theme="132245_1" includes_docket_string="03-5032" includes_docket="132245_2" theme_string="540 U.S. 884" gram_type="apposition" relation_type="asymmetric" id="132245_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 884" X_vs_Y_string="HARRIS v. UNITED STATES" standard_case="132245_1" X_vs_Y="132245_3" gram_type="pre_nom" relation_type="equivalence" id="132245_7" ></RELATION>
+
+<RELATION theme="132245_3" includes_docket_string="03-5032" includes_docket="132245_2" theme_string="HARRIS v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="132245_10" ></RELATION>
+
+<RELATION theme="132245_3" party1="132245_4" party1_string="HARRIS" theme_string="HARRIS v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="132245_8" ></RELATION>
+
+<RELATION party2="132245_5" theme="132245_3" theme_string="HARRIS v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="132245_9" ></RELATION>
+

@@ -1,0 +1,34 @@
+<CITATION alternative_keys="['akridgeindemnity#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_817" id1="113079" volume="510" start="0" page_number="817" standard_reporter="U.S." citation_global_level_id="5251.002" line="1" id="113074_1" citation_local_level_id="0" >510 U.S. 817</CITATION>
+
+<CITATION party2="AMBAC Indemnity Corp" party1="Akridge et al." citation_global_level_id="39268.001" party2_short="Indemnity" line="1" id="113074_3" alternative_keys="['u.s._510_817']" end="55" entry_type="party_key" lookup_key="akridgeindemnity#1" id1="113074" start="17" party1_short="Akridge" citation_local_level_id="1" >Akridge et al. v. AMBAC Indemnity Corp</CITATION>
+
+<NAME end="31" start="17" party1_of="113074_3" all_names="AKRIDGE" local_name_id="1" id="113074_4" >Akridge et al.</NAME>
+
+<NAME start="17" local_name_id="1" end="24" id="113074_8" all_names="AKRIDGE" >Akridge</NAME>
+
+<NAME end="55" start="35" all_names="AMBAC INDEMNITY CORP" party2_of="113074_3" local_name_id="2" id="113074_5" >AMBAC Indemnity Corp</NAME>
+
+<DOCKET end="72" entry_type="docket" lookup_key="u.s._510_817" id1="113079" start="65" citation_global_level_id="5251.002" line="1" id="113074_2" citation_local_level_id="0" >92-1864</DOCKET>
+
+<DATE start="68" end="72" id="113074_6" >1864</DATE>
+
+<DATE start="114" end="129" id="113074_7" >October 4, 1993</DATE>
+
+<NAME start="205" local_name_id="3" end="215" id="113074_17" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="251" reporter="Ga." entry_type="standard_key" no_current_file="True" lookup_key="ga._262_773" id1="Dummy_File_206697" volume="262" start="240" page_number="773" standard_reporter="GA." citation_global_level_id="270547.001" line="3" id="113074_15" citation_local_level_id="2" >262 Ga. 773</CITATION>
+
+<CITATION end="269" reporter="S. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="s.e.2d_425_637" id1="Dummy_File_206698" volume="425" start="253" page_number="637" standard_reporter="S.E.2D" citation_global_level_id="270548.001" line="3" id="113074_16" citation_local_level_id="3" >425 S. E. 2d 637</CITATION>
+
+<RELATION theme="113074_1" includes_docket_string="92-1864" includes_docket="113074_2" theme_string="510 U.S. 817" gram_type="apposition" relation_type="asymmetric" id="113074_13" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 817" X_vs_Y_string="Akridge et al. v. AMBAC Indemnity Corp" standard_case="113074_1" X_vs_Y="113074_3" gram_type="pre_nom" relation_type="equivalence" id="113074_9" ></RELATION>
+
+<RELATION theme="113074_3" includes_docket_string="92-1864" includes_docket="113074_2" theme_string="Akridge et al. v. AMBAC Indemnity Corp" gram_type="apposition" relation_type="asymmetric" id="113074_12" ></RELATION>
+
+<RELATION theme="113074_3" party1="113074_4" party1_string="Akridge et al." theme_string="Akridge et al. v. AMBAC Indemnity Corp" gram_type="infix" relation_type="asymmetric" id="113074_10" ></RELATION>
+
+<RELATION party2="113074_5" theme="113074_3" theme_string="Akridge et al. v. AMBAC Indemnity Corp" party2_string="AMBAC Indemnity Corp" gram_type="infix" relation_type="asymmetric" id="113074_11" ></RELATION>
+
+<RELATION at_date_string="1864" theme="113074_2" at_date="113074_6" theme_string="92-1864" gram_type="infix" relation_type="asymmetric" id="113074_14" ></RELATION>
+

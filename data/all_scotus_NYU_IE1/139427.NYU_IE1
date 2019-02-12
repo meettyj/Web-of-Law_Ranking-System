@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['bowiejohnson#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_929" id1="139418" volume="543" start="0" page_number="929" standard_reporter="U.S." citation_global_level_id="10239.002" line="1" id="139427_1" citation_local_level_id="0" >543 U.S. 929</CITATION>
+
+<CITATION party2="JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" party1="BOWIE" citation_global_level_id="10239.007" party2_short="JOHNSON" line="2" id="139427_3" alternative_keys="['u.s._543_929']" end="79" entry_type="party_key" lookup_key="bowiejohnson#1" id1="139418" start="17" party1_short="BOWIE" citation_local_level_id="1" >BOWIE v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS</CITATION>
+
+<NAME end="22" start="17" party1_of="139427_3" all_names="BOWIE" local_name_id="1" id="139427_4" >BOWIE</NAME>
+
+<NAME end="79" start="26" all_names="JOHNSON DIRECTOR VIRGINIA DEPARTMENT OF CORRECTIONS" party2_of="139427_3" local_name_id="2" id="139427_5" >JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS</NAME>
+
+<DOCKET alternative_keys="['u.s._543_929']" end="96" entry_type="docket" lookup_key="bowiejohnson#1" id1="139418" start="89" citation_global_level_id="10239.007" line="2" id="139427_2" citation_local_level_id="1" >04-5608</DOCKET>
+
+<ORGANIZATION start="102" end="132" id="139427_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="138" citation_global_level_id="10239.007" end="154" id="139427_10" citation_local_level_id="1" >October 12, 2004</DATE>
+
+<NAME start="186" local_name_id="3" end="189" id="139427_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="139427_3" includes_docket_string="04-5608" includes_docket="139427_2" theme_string="BOWIE v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" gram_type="apposition" relation_type="asymmetric" id="139427_8" ></RELATION>
+
+<RELATION theme="139427_3" party1="139427_4" party1_string="BOWIE" theme_string="BOWIE v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" gram_type="infix" relation_type="asymmetric" id="139427_6" ></RELATION>
+
+<RELATION party2="139427_5" theme="139427_3" theme_string="BOWIE v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" party2_string="JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" gram_type="infix" relation_type="asymmetric" id="139427_7" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 929" X_vs_Y_string="BOWIE v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" standard_case="139427_1" X_vs_Y="139427_3" gram_type="multi_line" relation_type="equivalence" id="139427_11" ></RELATION>
+
+<RELATION at_date_string="October 12, 2004" theme="139427_3" at_date="139427_10" theme_string="BOWIE v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" gram_type="multi_line" relation_type="asymmetric" id="139427_12" ></RELATION>
+

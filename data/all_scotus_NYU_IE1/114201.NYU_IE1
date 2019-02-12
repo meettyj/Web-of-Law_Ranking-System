@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['bensonstates#6']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_900" id1="114199" volume="510" start="0" page_number="900" standard_reporter="U.S." citation_global_level_id="982.002" line="1" id="114201_1" citation_local_level_id="0" >510 U.S. 900</CITATION>
+
+<CITATION party2="United States" party1="Benson" citation_global_level_id="53775.001" party2_short="States" line="1" id="114201_3" alternative_keys="['u.s._510_900']" end="40" entry_type="party_key" lookup_key="bensonstates#6" id1="114201" start="17" party1_short="Benson" citation_local_level_id="1" >Benson v. United States</CITATION>
+
+<NAME end="23" start="17" party1_of="114201_3" all_names="BENSON" local_name_id="1" id="114201_4" >Benson</NAME>
+
+<NAME end="40" start="27" all_names="UNITED STATES" party2_of="114201_3" local_name_id="2" id="114201_5" >United States</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._510_900" id1="114199" start="50" citation_global_level_id="982.002" line="1" id="114201_2" citation_local_level_id="0" >93-5590</DOCKET>
+
+<DATE start="99" end="114" id="114201_6" >October 4, 1993</DATE>
+
+<NAME start="192" local_name_id="3" end="202" id="114201_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="240" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_991_802" id1="Dummy_File_23878" volume="991" start="227" page_number="802" standard_reporter="F.2D" citation_global_level_id="87728.001" line="3" id="114201_12" citation_local_level_id="2" >991 F. 2d 802</CITATION>
+
+<RELATION theme="114201_1" includes_docket_string="93-5590" includes_docket="114201_2" theme_string="510 U.S. 900" gram_type="apposition" relation_type="asymmetric" id="114201_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 900" X_vs_Y_string="Benson v. United States" standard_case="114201_1" X_vs_Y="114201_3" gram_type="pre_nom" relation_type="equivalence" id="114201_7" ></RELATION>
+
+<RELATION theme="114201_3" includes_docket_string="93-5590" includes_docket="114201_2" theme_string="Benson v. United States" gram_type="apposition" relation_type="asymmetric" id="114201_10" ></RELATION>
+
+<RELATION theme="114201_3" party1="114201_4" party1_string="Benson" theme_string="Benson v. United States" gram_type="infix" relation_type="asymmetric" id="114201_8" ></RELATION>
+
+<RELATION party2="114201_5" theme="114201_3" theme_string="Benson v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="114201_9" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['bowenmaryland#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_840" id1="138260" volume="543" start="0" page_number="840" standard_reporter="U.S." citation_global_level_id="1523.002" line="1" id="138263_1" citation_local_level_id="0" >543 U.S. 840</CITATION>
+
+<CITATION party2="MARYLAND" party1="BOWEN" citation_global_level_id="24493.001" party2_short="MARYLAND" line="2" id="138263_2" alternative_keys="['u.s._543_840']" end="34" entry_type="party_key" lookup_key="bowenmaryland#1" id1="138263" start="17" party1_short="BOWEN" citation_local_level_id="1" >BOWEN v. MARYLAND</CITATION>
+
+<NAME end="22" start="17" party1_of="138263_2" all_names="BOWEN" local_name_id="1" id="138263_3" >BOWEN</NAME>
+
+<NAME end="34" start="26" all_names="MARYLAND" party2_of="138263_2" local_name_id="2" id="138263_4" >MARYLAND</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="bowenmaryland#1" id1="138263" start="44" citation_global_level_id="24493.001" line="3" id="138263_7" citation_local_level_id="1" >03-10585</DOCKET>
+
+<ORGANIZATION start="58" end="88" id="138263_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="94" citation_global_level_id="24493.001" end="109" id="138263_9" citation_local_level_id="1" >October 4, 2004</DATE>
+
+<NAME start="131" local_name_id="3" end="133" id="138263_13" all_names="CT" >Ct</NAME>
+
+<RELATION theme="138263_2" party1="138263_3" party1_string="BOWEN" theme_string="BOWEN v. MARYLAND" gram_type="infix" relation_type="asymmetric" id="138263_5" ></RELATION>
+
+<RELATION party2="138263_4" theme="138263_2" theme_string="BOWEN v. MARYLAND" party2_string="MARYLAND" gram_type="infix" relation_type="asymmetric" id="138263_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 840" X_vs_Y_string="BOWEN v. MARYLAND" standard_case="138263_1" X_vs_Y="138263_2" gram_type="multi_line" relation_type="equivalence" id="138263_10" ></RELATION>
+
+<RELATION at_date_string="October 4, 2004" theme="138263_2" at_date="138263_9" theme_string="BOWEN v. MARYLAND" gram_type="multi_line" relation_type="asymmetric" id="138263_12" ></RELATION>
+
+<RELATION theme="138263_2" includes_docket_string="03-10585" includes_docket="138263_7" theme_string="BOWEN v. MARYLAND" gram_type="multi_line" relation_type="asymmetric" id="138263_11" ></RELATION>
+

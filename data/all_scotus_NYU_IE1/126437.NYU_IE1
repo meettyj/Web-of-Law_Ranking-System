@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['stephenscenter#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1129" id1="126442" volume="537" start="0" page_number="1129" standard_reporter="U.S." citation_global_level_id="13048.002" line="1" id="126437_1" citation_local_level_id="0" >537 U.S. 1129</CITATION>
+
+<CITATION party2="HALL, SUPERINTENDENT, OLD COLONY CORRECTIONAL CENTER" party1="STEPHENS" citation_global_level_id="13048.007" party2_short="CENTER" line="1" id="126437_3" alternative_keys="['u.s._537_1129']" end="82" entry_type="party_key" lookup_key="stephenscenter#1" id1="126442" start="18" party1_short="STEPHENS" citation_local_level_id="1" >STEPHENS v. HALL, SUPERINTENDENT, OLD COLONY CORRECTIONAL CENTER</CITATION>
+
+<NAME end="26" start="18" party1_of="126437_3" all_names="STEPHENS" local_name_id="1" id="126437_4" >STEPHENS</NAME>
+
+<NAME end="82" start="30" all_names="HALL SUPERINTENDENT OLD COLONY CORRECTIONAL CENTER" party2_of="126437_3" local_name_id="2" id="126437_5" >HALL, SUPERINTENDENT, OLD COLONY CORRECTIONAL CENTER</NAME>
+
+<DOCKET end="99" entry_type="docket" lookup_key="u.s._537_1129" id1="126442" start="92" citation_global_level_id="13048.002" line="1" id="126437_2" citation_local_level_id="0" >02-7432</DOCKET>
+
+<DATE start="141" end="157" id="126437_6" >January 13, 2003</DATE>
+
+<NAME start="276" local_name_id="3" end="289" id="126437_13" all_names="C A 1ST CIR" >C. A. 1st Cir</NAME>
+
+<NAME start="291" local_name_id="4" end="301" id="126437_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="339" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_294_210" id1="Dummy_File_105065" volume="294" start="326" page_number="210" standard_reporter="F.3D" citation_global_level_id="168915.001" line="3" id="126437_12" citation_local_level_id="2" >294 F. 3d 210</CITATION>
+
+<RELATION theme="126437_1" includes_docket_string="02-7432" includes_docket="126437_2" theme_string="537 U.S. 1129" gram_type="apposition" relation_type="asymmetric" id="126437_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1129" X_vs_Y_string="STEPHENS v. HALL, SUPERINTENDENT, OLD COLONY CORRECTIONAL CENTER" standard_case="126437_1" X_vs_Y="126437_3" gram_type="pre_nom" relation_type="equivalence" id="126437_7" ></RELATION>
+
+<RELATION theme="126437_3" includes_docket_string="02-7432" includes_docket="126437_2" theme_string="STEPHENS v. HALL, SUPERINTENDENT, OLD COLONY CORRECTIONAL CENTER" gram_type="apposition" relation_type="asymmetric" id="126437_10" ></RELATION>
+
+<RELATION theme="126437_3" party1="126437_4" party1_string="STEPHENS" theme_string="STEPHENS v. HALL, SUPERINTENDENT, OLD COLONY CORRECTIONAL CENTER" gram_type="infix" relation_type="asymmetric" id="126437_8" ></RELATION>
+
+<RELATION party2="126437_5" theme="126437_3" theme_string="STEPHENS v. HALL, SUPERINTENDENT, OLD COLONY CORRECTIONAL CENTER" party2_string="HALL, SUPERINTENDENT, OLD COLONY CORRECTIONAL CENTER" gram_type="infix" relation_type="asymmetric" id="126437_9" ></RELATION>
+

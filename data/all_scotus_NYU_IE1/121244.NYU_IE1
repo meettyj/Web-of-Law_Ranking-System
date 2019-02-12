@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['haneystates#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._536_907" id1="121240" volume="536" start="0" page_number="907" standard_reporter="U.S." citation_global_level_id="5748.002" line="1" id="121244_1" citation_local_level_id="0" >536 U.S. 907</CITATION>
+
+<CITATION party2="UNITED STATES" party1="HANEY" citation_global_level_id="50055.001" party2_short="STATES" line="2" id="121244_2" alternative_keys="['u.s._536_907']" end="39" entry_type="party_key" lookup_key="haneystates#2" id1="137326" start="17" party1_short="HANEY" citation_local_level_id="1" >HANEY v. UNITED STATES</CITATION>
+
+<NAME end="22" start="17" party1_of="121244_2" all_names="HANEY" local_name_id="1" id="121244_3" >HANEY</NAME>
+
+<NAME end="39" start="26" all_names="UNITED STATES" party2_of="121244_2" local_name_id="2" id="121244_4" >UNITED STATES</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="haneystates#2" id1="137326" start="49" citation_global_level_id="50055.001" line="3" id="121244_7" citation_local_level_id="1" >01-8272</DOCKET>
+
+<DATE start="102" citation_global_level_id="50055.001" end="115" id="121244_8" citation_local_level_id="1" >June 10, 2002</DATE>
+
+<NAME start="148" local_name_id="3" end="151" id="121244_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="202" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_264_1161" id1="Dummy_File_163405" volume="264" start="188" page_number="1161" standard_reporter="F.3D" citation_global_level_id="227255.001" line="8" id="121244_12" citation_local_level_id="2" >264 F. 3d 1161</CITATION>
+
+<RELATION theme="121244_2" party1="121244_3" party1_string="HANEY" theme_string="HANEY v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="121244_5" ></RELATION>
+
+<RELATION party2="121244_4" theme="121244_2" theme_string="HANEY v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="121244_6" ></RELATION>
+
+<RELATION standard_case_string="536 U.S. 907" X_vs_Y_string="HANEY v. UNITED STATES" standard_case="121244_1" X_vs_Y="121244_2" gram_type="multi_line" relation_type="equivalence" id="121244_9" ></RELATION>
+
+<RELATION at_date_string="June 10, 2002" theme="121244_2" at_date="121244_8" theme_string="HANEY v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="121244_11" ></RELATION>
+
+<RELATION theme="121244_2" includes_docket_string="01-8272" includes_docket="121244_7" theme_string="HANEY v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="121244_10" ></RELATION>
+

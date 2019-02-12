@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['nortonholden#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_917" id1="130365" volume="539" start="0" page_number="917" standard_reporter="U.S." citation_global_level_id="3767.002" line="1" id="130365_1" citation_local_level_id="0" >539 U.S. 917</CITATION>
+
+<CITATION party2="Holden, Governor of Missouri, et al" party1="Norton" citation_global_level_id="3767.005" party2_short="Holden" line="1" id="130365_3" alternative_keys="['u.s._539_917']" end="62" entry_type="party_key" lookup_key="nortonholden#1" id1="130365" start="17" party1_short="Norton" citation_local_level_id="1" >Norton v. Holden, Governor of Missouri, et al</CITATION>
+
+<NAME end="23" start="17" party1_of="130365_3" all_names="NORTON" local_name_id="1" id="130365_4" >Norton</NAME>
+
+<NAME end="62" start="27" all_names="HOLDEN GOVERNOR OF MISSOURI" party2_of="130365_3" local_name_id="2" id="130365_5" >Holden, Governor of Missouri, et al</NAME>
+
+<DOCKET end="79" entry_type="docket" lookup_key="u.s._539_917" id1="130365" start="72" citation_global_level_id="3767.002" line="1" id="130365_2" citation_local_level_id="0" >02-9922</DOCKET>
+
+<DATE start="121" end="133" id="130365_6" >June 9, 2003</DATE>
+
+<NAME start="211" local_name_id="3" end="221" id="130365_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="130365_1" includes_docket_string="02-9922" includes_docket="130365_2" theme_string="539 U.S. 917" gram_type="apposition" relation_type="asymmetric" id="130365_11" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 917" X_vs_Y_string="Norton v. Holden, Governor of Missouri, et al" standard_case="130365_1" X_vs_Y="130365_3" gram_type="pre_nom" relation_type="equivalence" id="130365_7" ></RELATION>
+
+<RELATION theme="130365_3" includes_docket_string="02-9922" includes_docket="130365_2" theme_string="Norton v. Holden, Governor of Missouri, et al" gram_type="apposition" relation_type="asymmetric" id="130365_10" ></RELATION>
+
+<RELATION theme="130365_3" party1="130365_4" party1_string="Norton" theme_string="Norton v. Holden, Governor of Missouri, et al" gram_type="infix" relation_type="asymmetric" id="130365_8" ></RELATION>
+
+<RELATION party2="130365_5" theme="130365_3" theme_string="Norton v. Holden, Governor of Missouri, et al" party2_string="Holden, Governor of Missouri, et al" gram_type="infix" relation_type="asymmetric" id="130365_9" ></RELATION>
+

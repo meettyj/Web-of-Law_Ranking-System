@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['universitydoe#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_968" id1="119250" volume="535" start="0" page_number="968" standard_reporter="U.S." citation_global_level_id="16661.002" line="1" id="119253_1" citation_local_level_id="0" >535 U.S. 968</CITATION>
+
+<CITATION party2="DOE" party1="GONZAGA UNIVERSITY ET AL." citation_global_level_id="46028.001" party2_short="DOE" line="2" id="119253_2" alternative_keys="['u.s._535_968']" end="49" entry_type="party_key" lookup_key="universitydoe#1" id1="119253" start="17" party1_short="UNIVERSITY" citation_local_level_id="1" >GONZAGA UNIVERSITY ET AL. v. DOE</CITATION>
+
+<NAME end="42" start="17" party1_of="119253_2" all_names="GONZAGA UNIVERSITY" local_name_id="1" id="119253_3" >GONZAGA UNIVERSITY ET AL.</NAME>
+
+<NAME start="17" local_name_id="1" end="41" id="119253_5" all_names="GONZAGA UNIVERSITY" >GONZAGA UNIVERSITY ET AL</NAME>
+
+<ORGANIZATION start="25" end="35" id="119253_6" >UNIVERSITY</ORGANIZATION>
+
+<NAME end="49" start="46" all_names="DOE" party2_of="119253_2" local_name_id="2" id="119253_4" >DOE</NAME>
+
+<DOCKET end="65" entry_type="docket" lookup_key="universitydoe#1" id1="119253" start="59" citation_global_level_id="46028.001" line="3" id="119253_9" citation_local_level_id="1" >01-679</DOCKET>
+
+<DATE start="111" citation_global_level_id="46028.001" end="124" id="119253_10" citation_local_level_id="1" >April 1, 2002</DATE>
+
+<NAME start="146" local_name_id="3" end="149" id="119253_15" all_names="SUP" >Sup</NAME>
+
+<CITATION end="196" reporter="U. S." entry_type="standard_key" no_current_file="True" lookup_key="u.s._534_1103" id1="Dummy_File_51621" volume="534" start="182" page_number="1103" standard_reporter="U.S." citation_global_level_id="115471.001" line="8" id="119253_14" citation_local_level_id="2" >534 U. S. 1103</CITATION>
+
+<RELATION theme="119253_2" party1="119253_3" party1_string="GONZAGA UNIVERSITY ET AL." theme_string="GONZAGA UNIVERSITY ET AL. v. DOE" gram_type="infix" relation_type="asymmetric" id="119253_7" ></RELATION>
+
+<RELATION party2="119253_4" theme="119253_2" theme_string="GONZAGA UNIVERSITY ET AL. v. DOE" party2_string="DOE" gram_type="infix" relation_type="asymmetric" id="119253_8" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 968" X_vs_Y_string="GONZAGA UNIVERSITY ET AL. v. DOE" standard_case="119253_1" X_vs_Y="119253_2" gram_type="multi_line" relation_type="equivalence" id="119253_11" ></RELATION>
+
+<RELATION at_date_string="April 1, 2002" theme="119253_2" at_date="119253_10" theme_string="GONZAGA UNIVERSITY ET AL. v. DOE" gram_type="multi_line" relation_type="asymmetric" id="119253_13" ></RELATION>
+
+<RELATION theme="119253_2" includes_docket_string="01-679" includes_docket="119253_9" theme_string="GONZAGA UNIVERSITY ET AL. v. DOE" gram_type="multi_line" relation_type="asymmetric" id="119253_12" ></RELATION>
+

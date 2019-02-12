@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['jerrelalaska#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1100" id1="116665" volume="510" start="0" page_number="1100" standard_reporter="U.S." citation_global_level_id="1387.002" line="1" id="116666_1" citation_local_level_id="0" >510 U.S. 1100</CITATION>
+
+<CITATION party2="Alaska" party1="Jerrel" citation_global_level_id="10091.001" party2_short="Alaska" line="1" id="116666_3" alternative_keys="['u.s._510_1100']" end="34" entry_type="party_key" lookup_key="jerrelalaska#1" id1="116666" start="18" party1_short="Jerrel" citation_local_level_id="1" >Jerrel v. Alaska</CITATION>
+
+<NAME end="24" start="18" party1_of="116666_3" all_names="JERREL" local_name_id="1" id="116666_4" >Jerrel</NAME>
+
+<NAME end="34" start="28" all_names="ALASKA" party2_of="116666_3" local_name_id="2" id="116666_5" >Alaska</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="u.s._510_1100" id1="116665" start="44" citation_global_level_id="1387.002" line="1" id="116666_2" citation_local_level_id="0" >93-7268</DOCKET>
+
+<DATE start="93" end="109" id="116666_6" >January 24, 1994</DATE>
+
+<NAME start="189" local_name_id="3" end="199" id="116666_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="238" reporter="P. 2d" entry_type="standard_key" no_current_file="True" lookup_key="p.2d_851_1365" id1="Dummy_File_217085" volume="851" start="224" page_number="1365" standard_reporter="P.2D" citation_global_level_id="280935.001" line="3" id="116666_12" citation_local_level_id="2" >851 P. 2d 1365</CITATION>
+
+<RELATION theme="116666_1" includes_docket_string="93-7268" includes_docket="116666_2" theme_string="510 U.S. 1100" gram_type="apposition" relation_type="asymmetric" id="116666_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1100" X_vs_Y_string="Jerrel v. Alaska" standard_case="116666_1" X_vs_Y="116666_3" gram_type="pre_nom" relation_type="equivalence" id="116666_7" ></RELATION>
+
+<RELATION theme="116666_3" includes_docket_string="93-7268" includes_docket="116666_2" theme_string="Jerrel v. Alaska" gram_type="apposition" relation_type="asymmetric" id="116666_10" ></RELATION>
+
+<RELATION theme="116666_3" party1="116666_4" party1_string="Jerrel" theme_string="Jerrel v. Alaska" gram_type="infix" relation_type="asymmetric" id="116666_8" ></RELATION>
+
+<RELATION party2="116666_5" theme="116666_3" theme_string="Jerrel v. Alaska" party2_string="Alaska" gram_type="infix" relation_type="asymmetric" id="116666_9" ></RELATION>
+

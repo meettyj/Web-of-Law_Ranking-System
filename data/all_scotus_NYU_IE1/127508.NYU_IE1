@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['carlsonillinois#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1217" id1="127506" volume="537" start="0" page_number="1217" standard_reporter="U.S." citation_global_level_id="6029.002" line="1" id="127508_1" citation_local_level_id="0" >537 U.S. 1217</CITATION>
+
+<CITATION party2="ILLINOIS" party1="CARLSON" citation_global_level_id="12752.001" party2_short="ILLINOIS" line="1" id="127508_3" alternative_keys="['u.s._537_1217']" end="37" entry_type="party_key" lookup_key="carlsonillinois#1" id1="127508" start="18" party1_short="CARLSON" citation_local_level_id="1" >CARLSON v. ILLINOIS</CITATION>
+
+<NAME end="25" start="18" party1_of="127508_3" all_names="CARLSON" local_name_id="1" id="127508_4" >CARLSON</NAME>
+
+<NAME end="37" start="29" all_names="ILLINOIS" party2_of="127508_3" local_name_id="2" id="127508_5" >ILLINOIS</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="u.s._537_1217" id1="127506" start="47" citation_global_level_id="6029.002" line="1" id="127508_2" citation_local_level_id="0" >02-8333</DOCKET>
+
+<DATE start="96" end="113" id="127508_6" >February 24, 2003</DATE>
+
+<NAME start="230" local_name_id="3" end="233" id="127508_12" all_names="APP" >App</NAME>
+
+<RELATION theme="127508_1" includes_docket_string="02-8333" includes_docket="127508_2" theme_string="537 U.S. 1217" gram_type="apposition" relation_type="asymmetric" id="127508_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1217" X_vs_Y_string="CARLSON v. ILLINOIS" standard_case="127508_1" X_vs_Y="127508_3" gram_type="pre_nom" relation_type="equivalence" id="127508_7" ></RELATION>
+
+<RELATION theme="127508_3" includes_docket_string="02-8333" includes_docket="127508_2" theme_string="CARLSON v. ILLINOIS" gram_type="apposition" relation_type="asymmetric" id="127508_10" ></RELATION>
+
+<RELATION theme="127508_3" party1="127508_4" party1_string="CARLSON" theme_string="CARLSON v. ILLINOIS" gram_type="infix" relation_type="asymmetric" id="127508_8" ></RELATION>
+
+<RELATION party2="127508_5" theme="127508_3" theme_string="CARLSON v. ILLINOIS" party2_string="ILLINOIS" gram_type="infix" relation_type="asymmetric" id="127508_9" ></RELATION>
+

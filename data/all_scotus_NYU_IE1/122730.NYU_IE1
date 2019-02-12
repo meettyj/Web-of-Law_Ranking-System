@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['mcgheejersey#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_839" id1="122734" volume="537" start="0" page_number="839" standard_reporter="U.S." citation_global_level_id="1459.002" line="1" id="122730_1" citation_local_level_id="0" >537 U.S. 839</CITATION>
+
+<CITATION party2="NEW JERSEY" party1="McGHEE" citation_global_level_id="40344.001" party2_short="JERSEY" line="1" id="122730_3" alternative_keys="['u.s._537_839']" end="37" entry_type="party_key" lookup_key="mcgheejersey#1" id1="122730" start="17" party1_short="McGHEE" citation_local_level_id="1" >McGHEE v. NEW JERSEY</CITATION>
+
+<NAME end="23" start="17" party1_of="122730_3" all_names="MCGHEE" local_name_id="1" id="122730_4" >McGHEE</NAME>
+
+<NAME end="37" start="27" all_names="NEW JERSEY" party2_of="122730_3" local_name_id="2" id="122730_5" >NEW JERSEY</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._537_839" id1="122734" start="47" citation_global_level_id="1459.002" line="1" id="122730_2" citation_local_level_id="0" >01-10255</DOCKET>
+
+<DATE start="97" end="112" id="122730_6" >October 7, 2002</DATE>
+
+<NAME start="227" local_name_id="3" end="232" id="122730_12" all_names="SUPER" >Super</NAME>
+
+<RELATION theme="122730_1" includes_docket_string="01-10255" includes_docket="122730_2" theme_string="537 U.S. 839" gram_type="apposition" relation_type="asymmetric" id="122730_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 839" X_vs_Y_string="McGHEE v. NEW JERSEY" standard_case="122730_1" X_vs_Y="122730_3" gram_type="pre_nom" relation_type="equivalence" id="122730_7" ></RELATION>
+
+<RELATION theme="122730_3" includes_docket_string="01-10255" includes_docket="122730_2" theme_string="McGHEE v. NEW JERSEY" gram_type="apposition" relation_type="asymmetric" id="122730_10" ></RELATION>
+
+<RELATION theme="122730_3" party1="122730_4" party1_string="McGHEE" theme_string="McGHEE v. NEW JERSEY" gram_type="infix" relation_type="asymmetric" id="122730_8" ></RELATION>
+
+<RELATION party2="122730_5" theme="122730_3" theme_string="McGHEE v. NEW JERSEY" party2_string="NEW JERSEY" gram_type="infix" relation_type="asymmetric" id="122730_9" ></RELATION>
+

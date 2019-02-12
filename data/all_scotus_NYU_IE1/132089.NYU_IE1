@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['rodwellpepe#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_873" id1="132096" volume="540" start="0" page_number="873" standard_reporter="U.S." citation_global_level_id="4118.002" line="1" id="132089_1" citation_local_level_id="0" >540 U.S. 873</CITATION>
+
+<CITATION party2="PEPE" party1="RODWELL" citation_global_level_id="41379.001" party2_short="PEPE" line="1" id="132089_3" alternative_keys="['u.s._540_873']" end="32" entry_type="party_key" lookup_key="rodwellpepe#1" id1="132089" start="17" party1_short="RODWELL" citation_local_level_id="1" >RODWELL v. PEPE</CITATION>
+
+<NAME end="24" start="17" party1_of="132089_3" all_names="RODWELL" local_name_id="1" id="132089_4" >RODWELL</NAME>
+
+<NAME end="32" start="28" all_names="PEPE" party2_of="132089_3" local_name_id="2" id="132089_5" >PEPE</NAME>
+
+<DOCKET end="47" entry_type="docket" lookup_key="u.s._540_873" id1="132096" start="42" citation_global_level_id="4118.002" line="1" id="132089_2" citation_local_level_id="0" >03-26</DOCKET>
+
+<DATE start="89" end="104" id="132089_6" >October 6, 2003</DATE>
+
+<NAME start="182" local_name_id="3" end="192" id="132089_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION alternative_keys="['rodwellpepe#1']" end="229" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_324_66" id1="132089" volume="324" start="217" page_number="66" standard_reporter="F.3D" citation_global_level_id="41379.002" line="3" id="132089_12" citation_local_level_id="2" >324 F. 3d 66</CITATION>
+
+<RELATION theme="132089_1" includes_docket_string="03-26" includes_docket="132089_2" theme_string="540 U.S. 873" gram_type="apposition" relation_type="asymmetric" id="132089_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 873" X_vs_Y_string="RODWELL v. PEPE" standard_case="132089_1" X_vs_Y="132089_3" gram_type="pre_nom" relation_type="equivalence" id="132089_7" ></RELATION>
+
+<RELATION theme="132089_3" includes_docket_string="03-26" includes_docket="132089_2" theme_string="RODWELL v. PEPE" gram_type="apposition" relation_type="asymmetric" id="132089_10" ></RELATION>
+
+<RELATION theme="132089_3" party1="132089_4" party1_string="RODWELL" theme_string="RODWELL v. PEPE" gram_type="infix" relation_type="asymmetric" id="132089_8" ></RELATION>
+
+<RELATION party2="132089_5" theme="132089_3" theme_string="RODWELL v. PEPE" party2_string="PEPE" gram_type="infix" relation_type="asymmetric" id="132089_9" ></RELATION>
+

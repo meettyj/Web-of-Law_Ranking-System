@@ -1,0 +1,54 @@
+<CITATION alternative_keys="['akersakers#1']" end="20" reporter="U.S." entry_type="standard_key" lookup_key="u.s._117_197" id1="91590" volume="117" start="1" page_number="197" year="1886" standard_reporter="U.S." citation_global_level_id="22863.002" line="2" id="91590_1" citation_local_level_id="0" >117 U.S. 197 (1886)</CITATION>
+
+<DATE start="15" citation_global_level_id="22863.002" end="19" id="91590_2" citation_local_level_id="0" >1886</DATE>
+
+<CITATION party2="AKERS" party1="AKERS, Executor" citation_global_level_id="22863.001" party2_short="AKERS" line="5" id="91590_6" alternative_keys="['u.s._117_197']" end="47" entry_type="party_key" lookup_key="akersakers#1" id1="91590" start="21" party1_short="AKERS" citation_local_level_id="1" >AKERS, Executor v. AKERS</CITATION>
+
+<NAME end="36" start="21" party1_of="91590_6" all_names="AKERS EXECUTOR" local_name_id="1" id="91590_7" >AKERS, Executor</NAME>
+
+<NAME end="47" start="42" all_names="AKERS" party2_of="91590_6" local_name_id="2" id="91590_8" >AKERS</NAME>
+
+<ORGANIZATION start="49" end="79" id="91590_11" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="91" end="104" id="91590_12" >March 1, 1886</DATE>
+
+<NAME start="106" local_name_id="3" end="113" id="91590_15" all_names="DECIDED" >Decided</NAME>
+
+<DATE start="114" end="127" id="91590_14" >March 8, 1886</DATE>
+
+<ORGANIZATION start="129" end="213" id="91590_16" >ERROR TO THE CIRCUIT COURT OF THE UNITED STATES FOR THE MIDDLE DISTRICT OF TENNESSEE</ORGANIZATION>
+
+<LEGAL_ROLE start="220" end="247" id="91590_17" >Mr. S. Watson for defendant</LEGAL_ROLE>
+
+<LEGAL_ROLE start="276" end="285" id="91590_18" >plaintiff</LEGAL_ROLE>
+
+<NAME start="296" local_name_id="4" end="298" id="91590_19" all_names="MR" >MR</NAME>
+
+<CITATION party2="Bruce" party1="Gibson" citation_global_level_id="48869.001" party2_short="Bruce" line="13" id="91590_21" alternative_keys="['u.s._108_561']" end="434" entry_type="party_key" lookup_key="gibsonbruce#1" id1="90891" start="419" party1_short="Gibson" citation_local_level_id="2" >Gibson v. Bruce</CITATION>
+
+<NAME end="425" start="419" party1_of="91590_21" all_names="GIBSON" local_name_id="5" id="91590_22" >Gibson</NAME>
+
+<NAME end="434" start="429" all_names="BRUCE" party2_of="91590_21" local_name_id="6" id="91590_23" >Bruce</NAME>
+
+<CITATION alternative_keys="['gibsonbruce#1']" end="448" reporter="U.S." entry_type="standard_key" lookup_key="u.s._108_561" id1="90891" volume="108" start="436" page_number="561" standard_reporter="U.S." citation_global_level_id="48869.002" line="13" id="91590_20" citation_local_level_id="3" >108 U.S. 561</CITATION>
+
+<LEGAL_ROLE start="482" end="491" id="91590_24" >plaintiff</LEGAL_ROLE>
+
+<LEGAL_ROLE start="500" end="509" id="91590_25" >defendant</LEGAL_ROLE>
+
+<NAME start="527" local_name_id="7" end="536" id="91590_26" all_names="TENNESSEE" >Tennessee</NAME>
+
+<RELATION at_date_string="1886" theme="91590_1" at_date="91590_2" theme_string="117 U.S. 197 (1886)" gram_type="infix" relation_type="asymmetric" id="91590_3" ></RELATION>
+
+<RELATION party2="91590_8" theme="91590_6" theme_string="AKERS, Executor  v.  AKERS" party2_string="AKERS" gram_type="infix" relation_type="asymmetric" id="91590_10" ></RELATION>
+
+<RELATION theme="91590_6" party1="91590_7" party1_string="AKERS, Executor" theme_string="AKERS, Executor  v.  AKERS" gram_type="infix" relation_type="asymmetric" id="91590_9" ></RELATION>
+
+<RELATION standard_case_string="117 U.S. 197 (1886)" X_vs_Y_string="AKERS, Executor  v.  AKERS" standard_case="91590_1" X_vs_Y="91590_6" gram_type="multi_line" relation_type="equivalence" id="91590_13" ></RELATION>
+
+<RELATION standard_case_string="108 U.S. 561" X_vs_Y_string="Gibson v. Bruce" standard_case="91590_20" X_vs_Y="91590_21" gram_type="apposition" relation_type="equivalence" id="91590_29" ></RELATION>
+
+<RELATION theme="91590_21" party1="91590_22" party1_string="Gibson" theme_string="Gibson v. Bruce" gram_type="infix" relation_type="asymmetric" id="91590_27" ></RELATION>
+
+<RELATION party2="91590_23" theme="91590_21" theme_string="Gibson v. Bruce" party2_string="Bruce" gram_type="infix" relation_type="asymmetric" id="91590_28" ></RELATION>
+

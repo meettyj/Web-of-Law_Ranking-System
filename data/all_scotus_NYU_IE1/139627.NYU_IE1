@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['hollowayyarborough#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_944" id1="139624" volume="543" start="0" page_number="944" standard_reporter="U.S." citation_global_level_id="5760.002" line="1" id="139627_1" citation_local_level_id="0" >543 U.S. 944</CITATION>
+
+<CITATION party2="YARBOROUGH, WARDEN" party1="HOLLOWAY" citation_global_level_id="5760.005" party2_short="YARBOROUGH" line="2" id="139627_2" alternative_keys="['u.s._543_944']" end="47" entry_type="party_key" lookup_key="hollowayyarborough#1" id1="139624" start="17" party1_short="HOLLOWAY" citation_local_level_id="1" >HOLLOWAY v. YARBOROUGH, WARDEN</CITATION>
+
+<NAME end="25" start="17" party1_of="139627_2" all_names="HOLLOWAY" local_name_id="1" id="139627_3" >HOLLOWAY</NAME>
+
+<NAME end="47" start="29" all_names="YARBOROUGH WARDEN" party2_of="139627_2" local_name_id="2" id="139627_4" >YARBOROUGH, WARDEN</NAME>
+
+<DOCKET alternative_keys="['u.s._543_944']" end="64" entry_type="docket" lookup_key="hollowayyarborough#1" id1="139624" start="57" citation_global_level_id="5760.005" line="3" id="139627_7" citation_local_level_id="1" >04-5835</DOCKET>
+
+<ORGANIZATION start="70" end="100" id="139627_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="106" citation_global_level_id="5760.005" end="122" id="139627_9" citation_local_level_id="1" >October 18, 2004</DATE>
+
+<NAME start="154" local_name_id="3" end="157" id="139627_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="139627_2" party1="139627_3" party1_string="HOLLOWAY" theme_string="HOLLOWAY v. YARBOROUGH, WARDEN" gram_type="infix" relation_type="asymmetric" id="139627_5" ></RELATION>
+
+<RELATION party2="139627_4" theme="139627_2" theme_string="HOLLOWAY v. YARBOROUGH, WARDEN" party2_string="YARBOROUGH, WARDEN" gram_type="infix" relation_type="asymmetric" id="139627_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 944" X_vs_Y_string="HOLLOWAY v. YARBOROUGH, WARDEN" standard_case="139627_1" X_vs_Y="139627_2" gram_type="multi_line" relation_type="equivalence" id="139627_10" ></RELATION>
+
+<RELATION at_date_string="October 18, 2004" theme="139627_2" at_date="139627_9" theme_string="HOLLOWAY v. YARBOROUGH, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="139627_12" ></RELATION>
+
+<RELATION theme="139627_2" includes_docket_string="04-5835" includes_docket="139627_7" theme_string="HOLLOWAY v. YARBOROUGH, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="139627_11" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['hesterstates#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_966" id1="124448" volume="537" start="0" page_number="966" standard_reporter="U.S." citation_global_level_id="252.002" line="1" id="124444_1" citation_local_level_id="0" >537 U.S. 966</CITATION>
+
+<CITATION party2="UNITED STATES" party1="HESTER" citation_global_level_id="34943.001" party2_short="STATES" line="1" id="124444_3" alternative_keys="['u.s._537_966']" end="40" entry_type="party_key" lookup_key="hesterstates#2" id1="124444" start="17" party1_short="HESTER" citation_local_level_id="1" >HESTER v. UNITED STATES</CITATION>
+
+<NAME end="23" start="17" party1_of="124444_3" all_names="HESTER" local_name_id="1" id="124444_4" >HESTER</NAME>
+
+<NAME end="40" start="27" all_names="UNITED STATES" party2_of="124444_3" local_name_id="2" id="124444_5" >UNITED STATES</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._537_966" id1="124448" start="50" citation_global_level_id="252.002" line="1" id="124444_2" citation_local_level_id="0" >02-6326</DOCKET>
+
+<DATE start="99" end="115" id="124444_6" >October 15, 2002</DATE>
+
+<NAME start="248" local_name_id="3" end="251" id="124444_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="302" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_287_1355" id1="Dummy_File_136319" volume="287" start="288" page_number="1355" standard_reporter="F.3D" citation_global_level_id="200169.001" line="3" id="124444_12" citation_local_level_id="2" >287 F. 3d 1355</CITATION>
+
+<RELATION theme="124444_1" includes_docket_string="02-6326" includes_docket="124444_2" theme_string="537 U.S. 966" gram_type="apposition" relation_type="asymmetric" id="124444_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 966" X_vs_Y_string="HESTER v. UNITED STATES" standard_case="124444_1" X_vs_Y="124444_3" gram_type="pre_nom" relation_type="equivalence" id="124444_7" ></RELATION>
+
+<RELATION theme="124444_3" includes_docket_string="02-6326" includes_docket="124444_2" theme_string="HESTER v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="124444_10" ></RELATION>
+
+<RELATION theme="124444_3" party1="124444_4" party1_string="HESTER" theme_string="HESTER v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="124444_8" ></RELATION>
+
+<RELATION party2="124444_5" theme="124444_3" theme_string="HESTER v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="124444_9" ></RELATION>
+

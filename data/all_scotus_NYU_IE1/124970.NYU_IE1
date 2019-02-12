@@ -1,0 +1,48 @@
+<CITATION alternative_keys="['intermaticsessions#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1016" id1="124969" volume="537" start="0" page_number="1016" standard_reporter="U.S." citation_global_level_id="3156.002" line="1" id="124970_1" citation_local_level_id="0" >537 U.S. 1016</CITATION>
+
+<CITATION party2="LAMSON &amp; SESSIONS CO" party1="INTERMATIC INC." citation_global_level_id="3156.006" party2_short="SESSIONS" line="1" id="124970_3" alternative_keys="['u.s._537_1016']" end="57" entry_type="party_key" lookup_key="intermaticsessions#2" id1="124969" start="18" party1_short="INTERMATIC" citation_local_level_id="1" >INTERMATIC INC. v. LAMSON &amp; SESSIONS CO</CITATION>
+
+<NAME end="33" start="18" party1_of="124970_3" all_names="INTERMATIC INC" local_name_id="1" id="124970_4" >INTERMATIC INC.</NAME>
+
+<ORGANIZATION start="18" end="32" id="124970_7" >INTERMATIC INC</ORGANIZATION>
+
+<NAME end="57" start="37" all_names="LAMSON &amp; SESSIONS CO" party2_of="124970_3" local_name_id="2" id="124970_5" >LAMSON &amp; SESSIONS CO</NAME>
+
+<DOCKET end="73" entry_type="docket" lookup_key="u.s._537_1016" id1="124969" start="67" citation_global_level_id="3156.002" line="1" id="124970_2" citation_local_level_id="0" >02-193</DOCKET>
+
+<DATE start="115" end="132" id="124970_6" >November 12, 2002</DATE>
+
+<NAME start="239" local_name_id="3" end="248" id="124970_19" all_names="C A FED" >C. A. Fed</NAME>
+
+<NAME start="250" local_name_id="4" end="253" id="124970_20" all_names="CIR" >Cir</NAME>
+
+<CITATION party2="Shoketsu Kinzoku Kogyo Kabushiki Co" party1="Festo Corp." citation_global_level_id="17904.001" party2_short="Kabushiki" line="3" id="124970_15" alternative_keys="['u.s._535_722']" end="399" entry_type="party_key" lookup_key="festokabushiki#2" id1="135651" start="349" party1_short="Festo" citation_local_level_id="2" >Festo Corp. v. Shoketsu Kinzoku Kogyo Kabushiki Co</CITATION>
+
+<NAME end="360" start="349" party1_of="124970_15" all_names="FESTO CORP" local_name_id="5" id="124970_16" >Festo Corp.</NAME>
+
+<NAME end="399" start="364" all_names="SHOKETSU KINZOKU KOGYO KABUSHIKI CO" party2_of="124970_15" local_name_id="6" id="124970_17" >Shoketsu Kinzoku Kogyo Kabushiki Co</NAME>
+
+<CITATION alternative_keys="['festokabushiki#2']" end="421" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_722" id1="118510" volume="535" start="402" page_number="722" year="2002" standard_reporter="U.S." citation_global_level_id="17867.002" line="3" id="124970_13" citation_local_level_id="3" >535 U.S. 722 (2002)</CITATION>
+
+<DATE start="416" citation_global_level_id="17867.002" end="420" id="124970_18" citation_local_level_id="3" >2002</DATE>
+
+<CITATION end="453" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_273_1355" id1="Dummy_File_239663" volume="273" start="439" page_number="1355" standard_reporter="F.3D" citation_global_level_id="303513.001" line="3" id="124970_14" citation_local_level_id="4" >273 F. 3d 1355</CITATION>
+
+<RELATION theme="124970_1" includes_docket_string="02-193" includes_docket="124970_2" theme_string="537 U.S. 1016" gram_type="apposition" relation_type="asymmetric" id="124970_12" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1016" X_vs_Y_string="INTERMATIC INC. v. LAMSON &amp; SESSIONS CO" standard_case="124970_1" X_vs_Y="124970_3" gram_type="pre_nom" relation_type="equivalence" id="124970_8" ></RELATION>
+
+<RELATION theme="124970_3" includes_docket_string="02-193" includes_docket="124970_2" theme_string="INTERMATIC INC. v. LAMSON &amp; SESSIONS CO" gram_type="apposition" relation_type="asymmetric" id="124970_11" ></RELATION>
+
+<RELATION party2="124970_5" theme="124970_3" theme_string="INTERMATIC INC. v. LAMSON &amp; SESSIONS CO" party2_string="LAMSON &amp; SESSIONS CO" gram_type="infix" relation_type="asymmetric" id="124970_10" ></RELATION>
+
+<RELATION theme="124970_3" party1="124970_4" party1_string="INTERMATIC INC." theme_string="INTERMATIC INC. v. LAMSON &amp; SESSIONS CO" gram_type="infix" relation_type="asymmetric" id="124970_9" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 722 (2002)" X_vs_Y_string="Festo Corp. v. Shoketsu Kinzoku Kogyo Kabushiki Co" standard_case="124970_13" X_vs_Y="124970_15" gram_type="apposition" relation_type="equivalence" id="124970_23" ></RELATION>
+
+<RELATION theme="124970_15" party1="124970_16" party1_string="Festo Corp." theme_string="Festo Corp. v. Shoketsu Kinzoku Kogyo Kabushiki Co" gram_type="infix" relation_type="asymmetric" id="124970_21" ></RELATION>
+
+<RELATION party2="124970_17" theme="124970_15" theme_string="Festo Corp. v. Shoketsu Kinzoku Kogyo Kabushiki Co" party2_string="Shoketsu Kinzoku Kogyo Kabushiki Co" gram_type="infix" relation_type="asymmetric" id="124970_22" ></RELATION>
+
+<RELATION at_date_string="2002" theme="124970_13" at_date="124970_18" theme_string="535 U.S. 722 (2002)" gram_type="infix" relation_type="asymmetric" id="124970_24" ></RELATION>
+

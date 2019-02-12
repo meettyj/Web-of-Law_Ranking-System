@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['rahnrobb#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1054" id1="140989" volume="543" start="0" page_number="1054" standard_reporter="U.S." citation_global_level_id="164.002" line="1" id="140986_1" citation_local_level_id="0" >543 U.S. 1054</CITATION>
+
+<CITATION party2="ROBB ET AL" party1="RAHN, DIRECTOR, MISSOURI DEPARTMENT OF TRANSPORTATION, ET AL." citation_global_level_id="164.004" party2_short="ROBB" line="2" id="140986_2" alternative_keys="['u.s._543_1054']" end="93" entry_type="party_key" lookup_key="rahnrobb#1" id1="140989" start="18" party1_short="RAHN" citation_local_level_id="1" >RAHN, DIRECTOR, MISSOURI DEPARTMENT OF TRANSPORTATION, ET AL. v. ROBB ET AL</CITATION>
+
+<NAME end="79" start="18" party1_of="140986_2" all_names="RAHN DIRECTOR MISSOURI DEPARTMENT OF TRANSPORTATION" local_name_id="1" id="140986_3" >RAHN, DIRECTOR, MISSOURI DEPARTMENT OF TRANSPORTATION, ET AL.</NAME>
+
+<PROFESSION start="24" end="32" id="140986_5" >DIRECTOR</PROFESSION>
+
+<ORGANIZATION start="34" end="71" id="140986_6" >MISSOURI DEPARTMENT OF TRANSPORTATION</ORGANIZATION>
+
+<NAME end="93" start="83" all_names="ROBB" party2_of="140986_2" local_name_id="2" id="140986_4" >ROBB ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._543_1054']" end="109" entry_type="docket" lookup_key="rahnrobb#1" id1="140989" start="103" citation_global_level_id="164.004" line="3" id="140986_9" citation_local_level_id="1" >04-629</DOCKET>
+
+<ORGANIZATION start="115" end="145" id="140986_10" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="151" citation_global_level_id="164.004" end="167" id="140986_11" citation_local_level_id="1" >January 10, 2005</DATE>
+
+<NAME start="199" local_name_id="3" end="202" id="140986_16" all_names="CIR" >Cir</NAME>
+
+<CITATION end="252" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_370_735" id1="Dummy_File_87264" volume="370" start="239" page_number="735" standard_reporter="F.3D" citation_global_level_id="151114.001" line="8" id="140986_15" citation_local_level_id="2" >370 F. 3d 735</CITATION>
+
+<RELATION theme="140986_2" party1="140986_3" party1_string="RAHN, DIRECTOR, MISSOURI DEPARTMENT OF TRANSPORTATION, ET AL." theme_string="RAHN, DIRECTOR, MISSOURI DEPARTMENT OF TRANSPORTATION, ET AL. v. ROBB ET AL" gram_type="infix" relation_type="asymmetric" id="140986_7" ></RELATION>
+
+<RELATION party2="140986_4" theme="140986_2" theme_string="RAHN, DIRECTOR, MISSOURI DEPARTMENT OF TRANSPORTATION, ET AL. v. ROBB ET AL" party2_string="ROBB ET AL" gram_type="infix" relation_type="asymmetric" id="140986_8" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1054" X_vs_Y_string="RAHN, DIRECTOR, MISSOURI DEPARTMENT OF TRANSPORTATION, ET AL. v. ROBB ET AL" standard_case="140986_1" X_vs_Y="140986_2" gram_type="multi_line" relation_type="equivalence" id="140986_12" ></RELATION>
+
+<RELATION at_date_string="January 10, 2005" theme="140986_2" at_date="140986_11" theme_string="RAHN, DIRECTOR, MISSOURI DEPARTMENT OF TRANSPORTATION, ET AL. v. ROBB ET AL" gram_type="multi_line" relation_type="asymmetric" id="140986_14" ></RELATION>
+
+<RELATION theme="140986_2" includes_docket_string="04-629" includes_docket="140986_9" theme_string="RAHN, DIRECTOR, MISSOURI DEPARTMENT OF TRANSPORTATION, ET AL. v. ROBB ET AL" gram_type="multi_line" relation_type="asymmetric" id="140986_13" ></RELATION>
+

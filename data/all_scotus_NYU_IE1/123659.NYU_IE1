@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['spencecolorado#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_910" id1="123667" volume="537" start="0" page_number="910" standard_reporter="U.S." citation_global_level_id="1430.002" line="1" id="123659_1" citation_local_level_id="0" >537 U.S. 910</CITATION>
+
+<CITATION party2="COLORADO" party1="SPENCE" citation_global_level_id="38111.001" party2_short="COLORADO" line="1" id="123659_3" alternative_keys="['u.s._537_910']" end="35" entry_type="party_key" lookup_key="spencecolorado#1" id1="123659" start="17" party1_short="SPENCE" citation_local_level_id="1" >SPENCE v. COLORADO</CITATION>
+
+<NAME end="23" start="17" party1_of="123659_3" all_names="SPENCE" local_name_id="1" id="123659_4" >SPENCE</NAME>
+
+<NAME end="35" start="27" all_names="COLORADO" party2_of="123659_3" local_name_id="2" id="123659_5" >COLORADO</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="u.s._537_910" id1="123667" start="45" citation_global_level_id="1430.002" line="1" id="123659_2" citation_local_level_id="0" >02-5360</DOCKET>
+
+<DATE start="94" end="109" id="123659_6" >October 7, 2002</DATE>
+
+<NAME start="204" local_name_id="3" end="206" id="123659_12" all_names="CT" >Ct</NAME>
+
+<RELATION theme="123659_1" includes_docket_string="02-5360" includes_docket="123659_2" theme_string="537 U.S. 910" gram_type="apposition" relation_type="asymmetric" id="123659_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 910" X_vs_Y_string="SPENCE v. COLORADO" standard_case="123659_1" X_vs_Y="123659_3" gram_type="pre_nom" relation_type="equivalence" id="123659_7" ></RELATION>
+
+<RELATION theme="123659_3" includes_docket_string="02-5360" includes_docket="123659_2" theme_string="SPENCE v. COLORADO" gram_type="apposition" relation_type="asymmetric" id="123659_10" ></RELATION>
+
+<RELATION theme="123659_3" party1="123659_4" party1_string="SPENCE" theme_string="SPENCE v. COLORADO" gram_type="infix" relation_type="asymmetric" id="123659_8" ></RELATION>
+
+<RELATION party2="123659_5" theme="123659_3" theme_string="SPENCE v. COLORADO" party2_string="COLORADO" gram_type="infix" relation_type="asymmetric" id="123659_9" ></RELATION>
+

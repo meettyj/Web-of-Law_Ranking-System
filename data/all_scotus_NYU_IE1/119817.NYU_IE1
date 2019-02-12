@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['asaf#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1012" id1="119822" volume="535" start="0" page_number="1012" standard_reporter="U.S." citation_global_level_id="6686.002" line="1" id="119817_1" citation_local_level_id="0" >535 U.S. 1012</CITATION>
+
+<CITATION party2="HEEREMAC V. O. F. ET AL" party1="STATOIL ASA" citation_global_level_id="6686.009" party2_short="F" line="2" id="119817_3" alternative_keys="['u.s._535_1012']" end="56" entry_type="party_key" lookup_key="asaf#2" id1="119822" start="18" party1_short="ASA" citation_local_level_id="1" >STATOIL ASA v. HEEREMAC V. O. F. ET AL</CITATION>
+
+<NAME end="29" start="18" party1_of="119817_3" all_names="STATOIL ASA" local_name_id="1" id="119817_4" >STATOIL ASA</NAME>
+
+<NAME end="56" start="33" all_names="HEEREMAC V O F" party2_of="119817_3" local_name_id="2" id="119817_5" >HEEREMAC V. O. F. ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._535_1012']" end="73" entry_type="docket" lookup_key="asaf#2" id1="119822" start="66" citation_global_level_id="6686.009" line="2" id="119817_2" citation_local_level_id="1" >00-1842</DOCKET>
+
+<DATE start="69" end="73" id="119817_6" >1842</DATE>
+
+<DATE start="119" citation_global_level_id="6686.009" end="133" id="119817_11" citation_local_level_id="1" >April 15, 2002</DATE>
+
+<CITATION end="169" reporter="U. S." entry_type="standard_key" no_current_file="True" lookup_key="u.s._534_1127" id1="Dummy_File_188945" volume="534" start="155" page_number="1127" standard_reporter="U.S." citation_global_level_id="252795.001" line="7" id="119817_15" citation_local_level_id="2" >534 U. S. 1127</CITATION>
+
+<NAME start="171" local_name_id="3" end="180" id="119817_16" all_names="PETITIONS" >Petitions</NAME>
+
+<RELATION theme="119817_3" includes_docket_string="00-1842" includes_docket="119817_2" theme_string="STATOIL ASA v. HEEREMAC V. O. F. ET AL" gram_type="apposition" relation_type="asymmetric" id="119817_9" ></RELATION>
+
+<RELATION theme="119817_3" party1="119817_4" party1_string="STATOIL ASA" theme_string="STATOIL ASA v. HEEREMAC V. O. F. ET AL" gram_type="infix" relation_type="asymmetric" id="119817_7" ></RELATION>
+
+<RELATION party2="119817_5" theme="119817_3" theme_string="STATOIL ASA v. HEEREMAC V. O. F. ET AL" party2_string="HEEREMAC V. O. F. ET AL" gram_type="infix" relation_type="asymmetric" id="119817_8" ></RELATION>
+
+<RELATION at_date_string="1842" theme="119817_2" at_date="119817_6" theme_string="00-1842" gram_type="infix" relation_type="asymmetric" id="119817_10" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1012" X_vs_Y_string="STATOIL ASA v. HEEREMAC V. O. F. ET AL" standard_case="119817_1" X_vs_Y="119817_3" gram_type="multi_line" relation_type="equivalence" id="119817_12" ></RELATION>
+
+<RELATION at_date_string="April 15, 2002" theme="119817_3" at_date="119817_11" theme_string="STATOIL ASA v. HEEREMAC V. O. F. ET AL" gram_type="multi_line" relation_type="asymmetric" id="119817_14" ></RELATION>
+
+<RELATION at_date_string="1842" theme="119817_3" at_date="119817_6" theme_string="STATOIL ASA v. HEEREMAC V. O. F. ET AL" gram_type="multi_line" relation_type="asymmetric" id="119817_13" ></RELATION>
+

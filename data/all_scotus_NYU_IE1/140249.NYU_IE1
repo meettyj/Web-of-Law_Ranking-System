@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['pouxstates#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_994" id1="140248" volume="543" start="0" page_number="994" standard_reporter="U.S." citation_global_level_id="1439.002" line="1" id="140249_1" citation_local_level_id="0" >543 U.S. 994</CITATION>
+
+<CITATION party2="UNITED STATES" party1="POUX" citation_global_level_id="59367.001" party2_short="STATES" line="2" id="140249_2" alternative_keys="['u.s._543_994']" end="38" entry_type="party_key" lookup_key="pouxstates#1" id1="140249" start="17" party1_short="POUX" citation_local_level_id="1" >POUX v. UNITED STATES</CITATION>
+
+<NAME end="21" start="17" party1_of="140249_2" all_names="POUX" local_name_id="1" id="140249_3" >POUX</NAME>
+
+<NAME end="38" start="25" all_names="UNITED STATES" party2_of="140249_2" local_name_id="2" id="140249_4" >UNITED STATES</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="pouxstates#1" id1="140249" start="48" citation_global_level_id="59367.001" line="3" id="140249_7" citation_local_level_id="1" >04-6859</DOCKET>
+
+<ORGANIZATION start="61" end="91" id="140249_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="97" citation_global_level_id="59367.001" end="114" id="140249_9" citation_local_level_id="1" >November 15, 2004</DATE>
+
+<NAME start="147" local_name_id="3" end="150" id="140249_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="140249_2" party1="140249_3" party1_string="POUX" theme_string="POUX v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="140249_5" ></RELATION>
+
+<RELATION party2="140249_4" theme="140249_2" theme_string="POUX v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="140249_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 994" X_vs_Y_string="POUX v. UNITED STATES" standard_case="140249_1" X_vs_Y="140249_2" gram_type="multi_line" relation_type="equivalence" id="140249_10" ></RELATION>
+
+<RELATION at_date_string="November 15, 2004" theme="140249_2" at_date="140249_9" theme_string="POUX v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="140249_12" ></RELATION>
+
+<RELATION theme="140249_2" includes_docket_string="04-6859" includes_docket="140249_7" theme_string="POUX v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="140249_11" ></RELATION>
+

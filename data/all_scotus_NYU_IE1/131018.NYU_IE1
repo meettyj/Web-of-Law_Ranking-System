@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['mcconewoodhouse#1', 'u.s._537_842']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_975" id1="131020" volume="539" start="0" page_number="975" standard_reporter="U.S." citation_global_level_id="516.002" line="1" id="131018_1" citation_local_level_id="0" >539 U.S. 975</CITATION>
+
+<CITATION party2="Woodhouse, Attorney General of Wyoming" party1="McCone" citation_global_level_id="40749.001" party2_short="Woodhouse" line="2" id="131018_3" alternative_keys="['u.s._539_975', 'u.s._537_842']" end="65" entry_type="party_key" lookup_key="mcconewoodhouse#1" id1="131018" start="17" party1_short="McCone" citation_local_level_id="1" >McCone v. Woodhouse, Attorney General of Wyoming</CITATION>
+
+<NAME end="23" start="17" party1_of="131018_3" all_names="MCCONE" local_name_id="1" id="131018_4" >McCone</NAME>
+
+<NAME end="65" start="27" all_names="WOODHOUSE ATTORNEY GENERAL OF WYOMING" party2_of="131018_3" local_name_id="2" id="131018_5" >Woodhouse, Attorney General of Wyoming</NAME>
+
+<CITATION alternative_keys="['u.s._539_975', 'mcconewoodhouse#1']" end="80" reporter="U. S." entry_type="standard_key" lookup_key="u.s._537_842" id1="122773" volume="537" start="67" page_number="842" standard_reporter="U.S." citation_global_level_id="3559.002" line="2" id="131018_2" citation_local_level_id="2" >537 U. S. 842</CITATION>
+
+<DOCKET end="98" entry_type="docket" lookup_key="mcconewoodhouse#1" id1="131018" start="90" citation_global_level_id="40749.001" line="3" id="131018_9" citation_local_level_id="1" >01-10370</DOCKET>
+
+<ORGANIZATION start="104" end="134" id="131018_10" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="140" citation_global_level_id="40749.001" end="154" id="131018_11" citation_local_level_id="1" >August 4, 2003</DATE>
+
+<NAME start="176" local_name_id="3" end="184" id="131018_15" all_names="PETITION" >Petition</NAME>
+
+<RELATION standard_case_string="537 U. S. 842" X_vs_Y_string="McCone v. Woodhouse, Attorney General of Wyoming" standard_case="131018_2" X_vs_Y="131018_3" gram_type="apposition" relation_type="equivalence" id="131018_8" ></RELATION>
+
+<RELATION theme="131018_3" party1="131018_4" party1_string="McCone" theme_string="McCone v. Woodhouse, Attorney General of Wyoming" gram_type="infix" relation_type="asymmetric" id="131018_6" ></RELATION>
+
+<RELATION party2="131018_5" theme="131018_3" theme_string="McCone v. Woodhouse, Attorney General of Wyoming" party2_string="Woodhouse, Attorney General of Wyoming" gram_type="infix" relation_type="asymmetric" id="131018_7" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 975" X_vs_Y_string="McCone v. Woodhouse, Attorney General of Wyoming" standard_case="131018_1" X_vs_Y="131018_3" gram_type="multi_line" relation_type="equivalence" id="131018_12" ></RELATION>
+
+<RELATION at_date_string="August 4, 2003" theme="131018_3" at_date="131018_11" theme_string="McCone v. Woodhouse, Attorney General of Wyoming" gram_type="multi_line" relation_type="asymmetric" id="131018_14" ></RELATION>
+
+<RELATION theme="131018_3" includes_docket_string="01-10370" includes_docket="131018_9" theme_string="McCone v. Woodhouse, Attorney General of Wyoming" gram_type="multi_line" relation_type="asymmetric" id="131018_13" ></RELATION>
+

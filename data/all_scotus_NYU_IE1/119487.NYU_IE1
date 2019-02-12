@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['brandenburgkentucky#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_988" id1="119487" volume="535" start="0" page_number="988" standard_reporter="U.S." citation_global_level_id="964.002" line="1" id="119487_1" citation_local_level_id="0" >535 U.S. 988</CITATION>
+
+<CITATION party2="KENTUCKY" party1="BRANDENBURG" citation_global_level_id="964.001" party2_short="KENTUCKY" line="2" id="119487_2" alternative_keys="['u.s._535_988']" end="40" entry_type="party_key" lookup_key="brandenburgkentucky#1" id1="119487" start="17" party1_short="BRANDENBURG" citation_local_level_id="1" >BRANDENBURG v. KENTUCKY</CITATION>
+
+<NAME end="28" start="17" party1_of="119487_2" all_names="BRANDENBURG" local_name_id="1" id="119487_3" >BRANDENBURG</NAME>
+
+<NAME end="40" start="32" all_names="KENTUCKY" party2_of="119487_2" local_name_id="2" id="119487_4" >KENTUCKY</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="brandenburgkentucky#1" id1="119487" start="50" citation_global_level_id="964.001" line="3" id="119487_7" citation_local_level_id="1" >01-1189</DOCKET>
+
+<DATE start="103" citation_global_level_id="964.001" end="117" id="119487_8" citation_local_level_id="1" >April 15, 2002</DATE>
+
+<NAME start="139" local_name_id="3" end="141" id="119487_12" all_names="CT" >Ct</NAME>
+
+<RELATION theme="119487_2" party1="119487_3" party1_string="BRANDENBURG" theme_string="BRANDENBURG v. KENTUCKY" gram_type="infix" relation_type="asymmetric" id="119487_5" ></RELATION>
+
+<RELATION party2="119487_4" theme="119487_2" theme_string="BRANDENBURG v. KENTUCKY" party2_string="KENTUCKY" gram_type="infix" relation_type="asymmetric" id="119487_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 988" X_vs_Y_string="BRANDENBURG v. KENTUCKY" standard_case="119487_1" X_vs_Y="119487_2" gram_type="multi_line" relation_type="equivalence" id="119487_9" ></RELATION>
+
+<RELATION at_date_string="April 15, 2002" theme="119487_2" at_date="119487_8" theme_string="BRANDENBURG v. KENTUCKY" gram_type="multi_line" relation_type="asymmetric" id="119487_11" ></RELATION>
+
+<RELATION theme="119487_2" includes_docket_string="01-1189" includes_docket="119487_7" theme_string="BRANDENBURG v. KENTUCKY" gram_type="multi_line" relation_type="asymmetric" id="119487_10" ></RELATION>
+

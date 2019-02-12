@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['universitymadey#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_958" id1="130843" volume="539" start="0" page_number="958" standard_reporter="U.S." citation_global_level_id="3079.002" line="1" id="130851_1" citation_local_level_id="0" >539 U.S. 958</CITATION>
+
+<CITATION party2="Madey" party1="Duke University" citation_global_level_id="49535.001" party2_short="Madey" line="1" id="130851_3" alternative_keys="['u.s._539_958']" end="41" entry_type="party_key" lookup_key="universitymadey#2" id1="128657" start="17" party1_short="University" citation_local_level_id="1" >Duke University v. Madey</CITATION>
+
+<NAME end="32" start="17" party1_of="130851_3" all_names="DUKE UNIVERSITY" local_name_id="1" id="130851_4" >Duke University</NAME>
+
+<NAME end="41" start="36" all_names="MADEY" party2_of="130851_3" local_name_id="2" id="130851_5" >Madey</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._539_958" id1="130843" start="51" citation_global_level_id="3079.002" line="1" id="130851_2" citation_local_level_id="0" >02-1007</DOCKET>
+
+<DATE start="100" end="113" id="130851_6" >June 27, 2003</DATE>
+
+<NAME start="192" local_name_id="3" end="202" id="130851_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="241" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_307_1351" id1="Dummy_File_206716" volume="307" start="227" page_number="1351" standard_reporter="F.3D" citation_global_level_id="270566.001" line="3" id="130851_12" citation_local_level_id="2" >307 F. 3d 1351</CITATION>
+
+<RELATION theme="130851_1" includes_docket_string="02-1007" includes_docket="130851_2" theme_string="539 U.S. 958" gram_type="apposition" relation_type="asymmetric" id="130851_11" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 958" X_vs_Y_string="Duke University v. Madey" standard_case="130851_1" X_vs_Y="130851_3" gram_type="pre_nom" relation_type="equivalence" id="130851_7" ></RELATION>
+
+<RELATION theme="130851_3" includes_docket_string="02-1007" includes_docket="130851_2" theme_string="Duke University v. Madey" gram_type="apposition" relation_type="asymmetric" id="130851_10" ></RELATION>
+
+<RELATION theme="130851_3" party1="130851_4" party1_string="Duke University" theme_string="Duke University v. Madey" gram_type="infix" relation_type="asymmetric" id="130851_8" ></RELATION>
+
+<RELATION party2="130851_5" theme="130851_3" theme_string="Duke University v. Madey" party2_string="Madey" gram_type="infix" relation_type="asymmetric" id="130851_9" ></RELATION>
+

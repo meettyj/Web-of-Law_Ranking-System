@@ -1,0 +1,58 @@
+<CITATION alternative_keys="['telfenerruss#3', 's.ct._16_1017', 'l.ed._41_87']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._163_100" id1="94467" volume="163" start="0" page_number="100" standard_reporter="U.S." citation_global_level_id="34657.002" line="1" id="94467_1" citation_local_level_id="0" >163 U.S. 100</CITATION>
+
+<CITATION alternative_keys="['u.s._163_100', 'telfenerruss#3', 'l.ed._41_87']" end="31" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._16_1017" id1="94467" volume="16" start="17" page_number="1017" standard_reporter="S.CT." citation_global_level_id="34657.003" line="1" id="94467_2" citation_local_level_id="1" >16 S. Ct. 1017</CITATION>
+
+<NAME start="20" local_name_id="1" end="25" id="94467_14" all_names="S CT" >S. Ct</NAME>
+
+<CITATION alternative_keys="['u.s._163_100', 's.ct._16_1017', 'telfenerruss#3']" end="48" reporter="L. Ed." entry_type="standard_key" lookup_key="l.ed._41_87" id1="94467" volume="41" start="36" page_number="87" standard_reporter="L.ED." citation_global_level_id="34657.004" line="1" id="94467_3" citation_local_level_id="2" >41 L. Ed. 87</CITATION>
+
+<CITATION party2="RUSS" party1="TELFENER" citation_global_level_id="34657.001" party2_short="RUSS" line="1" id="94467_5" alternative_keys="['u.s._163_100', 's.ct._16_1017', 'l.ed._41_87']" end="69" entry_type="party_key" lookup_key="telfenerruss#3" id1="94467" start="53" party1_short="TELFENER" citation_local_level_id="3" >TELFENER v. RUSS</CITATION>
+
+<NAME end="61" start="53" party1_of="94467_5" all_names="TELFENER" local_name_id="2" id="94467_7" >TELFENER</NAME>
+
+<NAME end="69" start="65" all_names="RUSS" party2_of="94467_5" local_name_id="3" id="94467_8" >RUSS</NAME>
+
+<DATE start="88" end="100" id="94467_11" >May 18, 1896</DATE>
+
+<DATE start="606" end="619" id="94467_12" >July 14, 1879</DATE>
+
+<DATE start="632" end="646" id="94467_13" >March 11, 1881</DATE>
+
+<CITATION party2="State" party1="Bacon" citation_global_level_id="133351.001" party2_short="State" line="1" id="94467_6" end="662" no_current_file="True" entry_type="party_key" lookup_key="baconstate#1" id1="Dummy_File_69501" start="648" party1_short="Bacon" citation_local_level_id="4" >Bacon v. State</CITATION>
+
+<NAME end="653" start="648" party1_of="94467_6" all_names="BACON" local_name_id="4" id="94467_9" >Bacon</NAME>
+
+<NAME end="662" start="657" all_names="STATE" party2_of="94467_6" local_name_id="5" id="94467_10" >State</NAME>
+
+<CITATION end="697" reporter="S.W." entry_type="standard_key" no_current_file="True" lookup_key="s.w._21_149" id1="Dummy_File_69502" volume="21" start="686" page_number="149" standard_reporter="S.W." citation_global_level_id="133352.001" line="1" id="94467_4" citation_local_level_id="5" >21 S.W. 149</CITATION>
+
+<ORGANIZATION start="805" end="810" id="94467_23" >court</ORGANIZATION>
+
+<LEGAL_ROLE start="1296" end="1305" id="94467_27" >plaintiff</LEGAL_ROLE>
+
+<CITATION party2="State" party1="Bacon" citation_global_level_id="133351.001" party2_short="State" line="6" id="94467_24" end="1734" no_current_file="True" entry_type="party_key" lookup_key="baconstate#1" id1="Dummy_File_69501" start="1720" party1_short="Bacon" citation_local_level_id="6" >Bacon v. State</CITATION>
+
+<NAME end="1725" start="1720" party1_of="94467_24" all_names="BACON" local_name_id="4" id="94467_25" >Bacon</NAME>
+
+<NAME end="1734" start="1729" all_names="STATE" party2_of="94467_24" local_name_id="5" id="94467_26" >State</NAME>
+
+<RELATION standard_case_string="163 U.S. 100" X_vs_Y_string="TELFENER v. RUSS" standard_case="94467_1" X_vs_Y="94467_5" gram_type="pre_nom" relation_type="equivalence" id="94467_16" ></RELATION>
+
+<RELATION standard_case_string="16 S. Ct. 1017" X_vs_Y_string="TELFENER v. RUSS" standard_case="94467_2" X_vs_Y="94467_5" gram_type="pre_nom" relation_type="equivalence" id="94467_17" ></RELATION>
+
+<RELATION standard_case_string="41 L. Ed. 87" X_vs_Y_string="TELFENER v. RUSS" standard_case="94467_3" X_vs_Y="94467_5" gram_type="pre_nom" relation_type="equivalence" id="94467_15" ></RELATION>
+
+<RELATION theme="94467_5" party1="94467_7" party1_string="TELFENER" theme_string="TELFENER v. RUSS" gram_type="infix" relation_type="asymmetric" id="94467_18" ></RELATION>
+
+<RELATION party2="94467_8" theme="94467_5" theme_string="TELFENER v. RUSS" party2_string="RUSS" gram_type="infix" relation_type="asymmetric" id="94467_19" ></RELATION>
+
+<RELATION at_date_string="March 11, 1881" theme="94467_6" at_date="94467_13" theme_string="Bacon v. State" gram_type="pre_nom" relation_type="asymmetric" id="94467_20" ></RELATION>
+
+<RELATION theme="94467_6" party1="94467_9" party1_string="Bacon" theme_string="Bacon v. State" gram_type="infix" relation_type="asymmetric" id="94467_21" ></RELATION>
+
+<RELATION party2="94467_10" theme="94467_6" theme_string="Bacon v. State" party2_string="State" gram_type="infix" relation_type="asymmetric" id="94467_22" ></RELATION>
+
+<RELATION theme="94467_24" party1="94467_25" party1_string="Bacon" theme_string="Bacon v. State" gram_type="infix" relation_type="asymmetric" id="94467_28" ></RELATION>
+
+<RELATION party2="94467_26" theme="94467_24" theme_string="Bacon v. State" party2_string="State" gram_type="infix" relation_type="asymmetric" id="94467_29" ></RELATION>
+

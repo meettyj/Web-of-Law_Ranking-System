@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['wilburnkodak#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1017" id1="140560" volume="543" start="0" page_number="1017" standard_reporter="U.S." citation_global_level_id="9844.002" line="1" id="140547_1" citation_local_level_id="0" >543 U.S. 1017</CITATION>
+
+<CITATION party2="EASTMAN KODAK ET AL" party1="WILBURN" citation_global_level_id="48354.001" party2_short="KODAK" line="2" id="140547_2" alternative_keys="['u.s._543_1017']" end="48" entry_type="party_key" lookup_key="wilburnkodak#1" id1="138909" start="18" party1_short="WILBURN" citation_local_level_id="1" >WILBURN v. EASTMAN KODAK ET AL</CITATION>
+
+<NAME end="25" start="18" party1_of="140547_2" all_names="WILBURN" local_name_id="1" id="140547_3" >WILBURN</NAME>
+
+<NAME end="48" start="29" all_names="EASTMAN KODAK" party2_of="140547_2" local_name_id="2" id="140547_4" >EASTMAN KODAK ET AL</NAME>
+
+<DOCKET end="80" entry_type="docket" lookup_key="wilburnkodak#1" id1="138909" start="73" citation_global_level_id="48354.001" line="3" id="140547_7" citation_local_level_id="1" >04-5232</DOCKET>
+
+<ORGANIZATION start="86" end="116" id="140547_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="122" citation_global_level_id="48354.001" end="139" id="140547_9" citation_local_level_id="1" >November 29, 2004</DATE>
+
+<NAME start="161" local_name_id="3" end="170" id="140547_13" all_names="PETITIONS" >Petitions</NAME>
+
+<RELATION theme="140547_2" party1="140547_3" party1_string="WILBURN" theme_string="WILBURN v. EASTMAN KODAK ET AL" gram_type="infix" relation_type="asymmetric" id="140547_5" ></RELATION>
+
+<RELATION party2="140547_4" theme="140547_2" theme_string="WILBURN v. EASTMAN KODAK ET AL" party2_string="EASTMAN KODAK ET AL" gram_type="infix" relation_type="asymmetric" id="140547_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1017" X_vs_Y_string="WILBURN v. EASTMAN KODAK ET AL" standard_case="140547_1" X_vs_Y="140547_2" gram_type="multi_line" relation_type="equivalence" id="140547_10" ></RELATION>
+
+<RELATION at_date_string="November 29, 2004" theme="140547_2" at_date="140547_9" theme_string="WILBURN v. EASTMAN KODAK ET AL" gram_type="multi_line" relation_type="asymmetric" id="140547_12" ></RELATION>
+
+<RELATION theme="140547_2" includes_docket_string="04-5232" includes_docket="140547_7" theme_string="WILBURN v. EASTMAN KODAK ET AL" gram_type="multi_line" relation_type="asymmetric" id="140547_11" ></RELATION>
+

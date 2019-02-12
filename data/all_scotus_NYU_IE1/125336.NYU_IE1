@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['nunezinsurance#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1045" id1="125339" volume="537" start="0" page_number="1045" standard_reporter="U.S." citation_global_level_id="11734.002" line="1" id="125336_1" citation_local_level_id="0" >537 U.S. 1045</CITATION>
+
+<CITATION party2="CLARENDON AMERICAN INSURANCE CO" party1="NUNEZ" citation_global_level_id="25674.001" party2_short="INSURANCE" line="1" id="125336_3" alternative_keys="['u.s._537_1045']" end="58" entry_type="party_key" lookup_key="nunezinsurance#1" id1="125336" start="18" party1_short="NUNEZ" citation_local_level_id="1" >NUNEZ v. CLARENDON AMERICAN INSURANCE CO</CITATION>
+
+<NAME end="23" start="18" party1_of="125336_3" all_names="NUNEZ" local_name_id="1" id="125336_4" >NUNEZ</NAME>
+
+<NAME end="58" start="27" all_names="CLARENDON AMERICAN INSURANCE CO" party2_of="125336_3" local_name_id="2" id="125336_5" >CLARENDON AMERICAN INSURANCE CO</NAME>
+
+<DOCKET end="74" entry_type="docket" lookup_key="u.s._537_1045" id1="125339" start="68" citation_global_level_id="11734.002" line="1" id="125336_2" citation_local_level_id="0" >02-296</DOCKET>
+
+<DATE start="116" end="132" id="125336_6" >December 2, 2002</DATE>
+
+<NAME start="261" local_name_id="3" end="264" id="125336_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="314" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_288_271" id1="Dummy_File_175881" volume="288" start="301" page_number="271" standard_reporter="F.3D" citation_global_level_id="239731.001" line="3" id="125336_12" citation_local_level_id="2" >288 F. 3d 271</CITATION>
+
+<RELATION theme="125336_1" includes_docket_string="02-296" includes_docket="125336_2" theme_string="537 U.S. 1045" gram_type="apposition" relation_type="asymmetric" id="125336_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1045" X_vs_Y_string="NUNEZ v. CLARENDON AMERICAN INSURANCE CO" standard_case="125336_1" X_vs_Y="125336_3" gram_type="pre_nom" relation_type="equivalence" id="125336_7" ></RELATION>
+
+<RELATION theme="125336_3" includes_docket_string="02-296" includes_docket="125336_2" theme_string="NUNEZ v. CLARENDON AMERICAN INSURANCE CO" gram_type="apposition" relation_type="asymmetric" id="125336_10" ></RELATION>
+
+<RELATION theme="125336_3" party1="125336_4" party1_string="NUNEZ" theme_string="NUNEZ v. CLARENDON AMERICAN INSURANCE CO" gram_type="infix" relation_type="asymmetric" id="125336_8" ></RELATION>
+
+<RELATION party2="125336_5" theme="125336_3" theme_string="NUNEZ v. CLARENDON AMERICAN INSURANCE CO" party2_string="CLARENDON AMERICAN INSURANCE CO" gram_type="infix" relation_type="asymmetric" id="125336_9" ></RELATION>
+

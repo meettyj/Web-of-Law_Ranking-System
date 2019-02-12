@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['sheridantrustees#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_904" id1="130192" volume="539" start="0" page_number="904" standard_reporter="U.S." citation_global_level_id="710.002" line="1" id="130196_1" citation_local_level_id="0" >539 U.S. 904</CITATION>
+
+<CITATION party2="Trustees of Columbia University" party1="Sheridan" citation_global_level_id="17704.001" party2_short="Trustees" line="1" id="130196_3" alternative_keys="['u.s._539_904']" end="60" entry_type="party_key" lookup_key="sheridantrustees#1" id1="130196" start="17" party1_short="Sheridan" citation_local_level_id="1" >Sheridan v. Trustees of Columbia University</CITATION>
+
+<NAME end="25" start="17" party1_of="130196_3" all_names="SHERIDAN" local_name_id="1" id="130196_4" >Sheridan</NAME>
+
+<NAME end="60" start="29" all_names="TRUSTEES OF COLUMBIA UNIVERSITY" party2_of="130196_3" local_name_id="2" id="130196_5" >Trustees of Columbia University</NAME>
+
+<DOCKET end="77" entry_type="docket" lookup_key="u.s._539_904" id1="130192" start="70" citation_global_level_id="710.002" line="1" id="130196_2" citation_local_level_id="0" >02-1461</DOCKET>
+
+<DATE start="119" end="131" id="130196_6" >June 2, 2003</DATE>
+
+<NAME start="236" local_name_id="3" end="246" id="130196_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="311" reporter="N. Y. S. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.y.s.2d_745_18" id1="Dummy_File_131474" volume="745" start="293" page_number="18" standard_reporter="N.Y.S.2D" citation_global_level_id="195324.001" line="3" id="130196_12" citation_local_level_id="2" >745 N. Y. S. 2d 18</CITATION>
+
+<RELATION theme="130196_1" includes_docket_string="02-1461" includes_docket="130196_2" theme_string="539 U.S. 904" gram_type="apposition" relation_type="asymmetric" id="130196_11" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 904" X_vs_Y_string="Sheridan v. Trustees of Columbia University" standard_case="130196_1" X_vs_Y="130196_3" gram_type="pre_nom" relation_type="equivalence" id="130196_7" ></RELATION>
+
+<RELATION theme="130196_3" includes_docket_string="02-1461" includes_docket="130196_2" theme_string="Sheridan v. Trustees of Columbia University" gram_type="apposition" relation_type="asymmetric" id="130196_10" ></RELATION>
+
+<RELATION theme="130196_3" party1="130196_4" party1_string="Sheridan" theme_string="Sheridan v. Trustees of Columbia University" gram_type="infix" relation_type="asymmetric" id="130196_8" ></RELATION>
+
+<RELATION party2="130196_5" theme="130196_3" theme_string="Sheridan v. Trustees of Columbia University" party2_string="Trustees of Columbia University" gram_type="infix" relation_type="asymmetric" id="130196_9" ></RELATION>
+

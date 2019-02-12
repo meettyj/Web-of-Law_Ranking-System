@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['brightstates#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_890" id1="123396" volume="537" start="0" page_number="890" standard_reporter="U.S." citation_global_level_id="2220.002" line="1" id="123399_1" citation_local_level_id="0" >537 U.S. 890</CITATION>
+
+<CITATION party2="UNITED STATES" party1="BRIGHT" citation_global_level_id="50514.001" party2_short="STATES" line="1" id="123399_3" alternative_keys="['u.s._537_890']" end="40" entry_type="party_key" lookup_key="brightstates#2" id1="123399" start="17" party1_short="BRIGHT" citation_local_level_id="1" >BRIGHT v. UNITED STATES</CITATION>
+
+<NAME end="23" start="17" party1_of="123399_3" all_names="BRIGHT" local_name_id="1" id="123399_4" >BRIGHT</NAME>
+
+<NAME end="40" start="27" all_names="UNITED STATES" party2_of="123399_3" local_name_id="2" id="123399_5" >UNITED STATES</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._537_890" id1="123396" start="50" citation_global_level_id="2220.002" line="1" id="123399_2" citation_local_level_id="0" >02-5028</DOCKET>
+
+<DATE start="99" end="114" id="123399_6" >October 7, 2002</DATE>
+
+<NAME start="226" local_name_id="3" end="228" id="123399_12" all_names="CT" >Ct</NAME>
+
+<RELATION theme="123399_1" includes_docket_string="02-5028" includes_docket="123399_2" theme_string="537 U.S. 890" gram_type="apposition" relation_type="asymmetric" id="123399_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 890" X_vs_Y_string="BRIGHT v. UNITED STATES" standard_case="123399_1" X_vs_Y="123399_3" gram_type="pre_nom" relation_type="equivalence" id="123399_7" ></RELATION>
+
+<RELATION theme="123399_3" includes_docket_string="02-5028" includes_docket="123399_2" theme_string="BRIGHT v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="123399_10" ></RELATION>
+
+<RELATION theme="123399_3" party1="123399_4" party1_string="BRIGHT" theme_string="BRIGHT v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="123399_8" ></RELATION>
+
+<RELATION party2="123399_5" theme="123399_3" theme_string="BRIGHT v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="123399_9" ></RELATION>
+

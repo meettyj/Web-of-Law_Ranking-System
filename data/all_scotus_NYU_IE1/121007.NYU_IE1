@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['hagenbuchcomputer#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1112" id1="121011" volume="535" start="0" page_number="1112" standard_reporter="U.S." citation_global_level_id="3870.002" line="1" id="121007_1" citation_local_level_id="0" >535 U.S. 1112</CITATION>
+
+<CITATION party2="COMPAQ COMPUTER CORP. ET AL" party1="HAGENBUCH ET AL." citation_global_level_id="37589.001" party2_short="COMPUTER" line="2" id="121007_2" alternative_keys="['u.s._535_1112']" end="65" entry_type="party_key" lookup_key="hagenbuchcomputer#2" id1="122078" start="18" party1_short="HAGENBUCH" citation_local_level_id="1" >HAGENBUCH ET AL. v. COMPAQ COMPUTER CORP. ET AL</CITATION>
+
+<NAME end="34" start="18" party1_of="121007_2" all_names="HAGENBUCH" local_name_id="1" id="121007_3" >HAGENBUCH ET AL.</NAME>
+
+<NAME end="65" start="38" all_names="COMPAQ COMPUTER CORP" party2_of="121007_2" local_name_id="2" id="121007_4" >COMPAQ COMPUTER CORP. ET AL</NAME>
+
+<ORGANIZATION start="54" end="58" id="121007_5" >CORP</ORGANIZATION>
+
+<DOCKET end="82" entry_type="docket" lookup_key="hagenbuchcomputer#2" id1="122078" start="75" citation_global_level_id="37589.001" line="3" id="121007_8" citation_local_level_id="1" >01-1448</DOCKET>
+
+<DATE start="128" citation_global_level_id="37589.001" end="140" id="121007_9" citation_local_level_id="1" >June 3, 2002</DATE>
+
+<NAME start="172" local_name_id="3" end="175" id="121007_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="121007_2" party1="121007_3" party1_string="HAGENBUCH ET AL." theme_string="HAGENBUCH ET AL. v. COMPAQ COMPUTER CORP. ET AL" gram_type="infix" relation_type="asymmetric" id="121007_6" ></RELATION>
+
+<RELATION party2="121007_4" theme="121007_2" theme_string="HAGENBUCH ET AL. v. COMPAQ COMPUTER CORP. ET AL" party2_string="COMPAQ COMPUTER CORP. ET AL" gram_type="infix" relation_type="asymmetric" id="121007_7" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1112" X_vs_Y_string="HAGENBUCH ET AL. v. COMPAQ COMPUTER CORP. ET AL" standard_case="121007_1" X_vs_Y="121007_2" gram_type="multi_line" relation_type="equivalence" id="121007_10" ></RELATION>
+
+<RELATION at_date_string="June 3, 2002" theme="121007_2" at_date="121007_9" theme_string="HAGENBUCH ET AL. v. COMPAQ COMPUTER CORP. ET AL" gram_type="multi_line" relation_type="asymmetric" id="121007_12" ></RELATION>
+
+<RELATION theme="121007_2" includes_docket_string="01-1448" includes_docket="121007_8" theme_string="HAGENBUCH ET AL. v. COMPAQ COMPUTER CORP. ET AL" gram_type="multi_line" relation_type="asymmetric" id="121007_11" ></RELATION>
+

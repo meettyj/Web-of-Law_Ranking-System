@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['vargasjorgensen#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1000" id1="119644" volume="535" start="0" page_number="1000" standard_reporter="U.S." citation_global_level_id="5242.002" line="1" id="119647_1" citation_local_level_id="0" >535 U.S. 1000</CITATION>
+
+<CITATION party2="JORGENSEN" party1="VARGAS" citation_global_level_id="29456.001" party2_short="JORGENSEN" line="2" id="119647_2" alternative_keys="['u.s._535_1000']" end="37" entry_type="party_key" lookup_key="vargasjorgensen#2" id1="122152" start="18" party1_short="VARGAS" citation_local_level_id="1" >VARGAS v. JORGENSEN</CITATION>
+
+<NAME end="24" start="18" party1_of="119647_2" all_names="VARGAS" local_name_id="1" id="119647_3" >VARGAS</NAME>
+
+<NAME end="37" start="28" all_names="JORGENSEN" party2_of="119647_2" local_name_id="2" id="119647_4" >JORGENSEN</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="vargasjorgensen#2" id1="122152" start="47" citation_global_level_id="29456.001" line="3" id="119647_7" citation_local_level_id="1" >01-8374</DOCKET>
+
+<DATE start="100" citation_global_level_id="29456.001" end="114" id="119647_8" citation_local_level_id="1" >April 15, 2002</DATE>
+
+<NAME start="136" local_name_id="3" end="139" id="119647_13" all_names="SUP" >Sup</NAME>
+
+<CITATION end="202" reporter="N. W. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.w.2d_627_550" id1="Dummy_File_159876" volume="627" start="186" page_number="550" standard_reporter="N.W.2D" citation_global_level_id="223726.001" line="8" id="119647_12" citation_local_level_id="2" >627 N. W. 2d 550</CITATION>
+
+<RELATION theme="119647_2" party1="119647_3" party1_string="VARGAS" theme_string="VARGAS v. JORGENSEN" gram_type="infix" relation_type="asymmetric" id="119647_5" ></RELATION>
+
+<RELATION party2="119647_4" theme="119647_2" theme_string="VARGAS v. JORGENSEN" party2_string="JORGENSEN" gram_type="infix" relation_type="asymmetric" id="119647_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1000" X_vs_Y_string="VARGAS v. JORGENSEN" standard_case="119647_1" X_vs_Y="119647_2" gram_type="multi_line" relation_type="equivalence" id="119647_9" ></RELATION>
+
+<RELATION at_date_string="April 15, 2002" theme="119647_2" at_date="119647_8" theme_string="VARGAS v. JORGENSEN" gram_type="multi_line" relation_type="asymmetric" id="119647_11" ></RELATION>
+
+<RELATION theme="119647_2" includes_docket_string="01-8374" includes_docket="119647_7" theme_string="VARGAS v. JORGENSEN" gram_type="multi_line" relation_type="asymmetric" id="119647_10" ></RELATION>
+

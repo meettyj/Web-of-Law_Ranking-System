@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['brittwarden#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_835" id1="122680" volume="537" start="0" page_number="835" standard_reporter="U.S." citation_global_level_id="335.002" line="1" id="122673_1" citation_local_level_id="0" >537 U.S. 835</CITATION>
+
+<CITATION party2="SMITH, WARDEN" party1="BRITT" citation_global_level_id="50557.001" party2_short="WARDEN" line="1" id="122673_3" alternative_keys="['u.s._537_835']" end="39" entry_type="party_key" lookup_key="brittwarden#1" id1="122673" start="17" party1_short="BRITT" citation_local_level_id="1" >BRITT v. SMITH, WARDEN</CITATION>
+
+<NAME end="22" start="17" party1_of="122673_3" all_names="BRITT" local_name_id="1" id="122673_4" >BRITT</NAME>
+
+<NAME end="39" start="26" all_names="SMITH WARDEN" party2_of="122673_3" local_name_id="2" id="122673_5" >SMITH, WARDEN</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._537_835" id1="122680" start="49" citation_global_level_id="335.002" line="1" id="122673_2" citation_local_level_id="0" >01-10142</DOCKET>
+
+<DATE start="99" end="114" id="122673_6" >October 7, 2002</DATE>
+
+<NAME start="205" local_name_id="3" end="208" id="122673_14" all_names="SUP" >Sup</NAME>
+
+<CITATION end="263" reporter="Ga." entry_type="standard_key" no_current_file="True" lookup_key="ga._274_611" id1="Dummy_File_62018" volume="274" start="252" page_number="611" standard_reporter="GA." citation_global_level_id="125868.001" line="3" id="122673_12" citation_local_level_id="2" >274 Ga. 611</CITATION>
+
+<CITATION end="279" reporter="S.E.2d" entry_type="standard_key" no_current_file="True" lookup_key="s.e.2d_556_435" id1="Dummy_File_62019" volume="556" start="265" page_number="435" standard_reporter="S.E.2D" citation_global_level_id="125869.001" line="3" id="122673_13" citation_local_level_id="3" >556 S.E.2d 435</CITATION>
+
+<RELATION theme="122673_1" includes_docket_string="01-10142" includes_docket="122673_2" theme_string="537 U.S. 835" gram_type="apposition" relation_type="asymmetric" id="122673_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 835" X_vs_Y_string="BRITT v. SMITH, WARDEN" standard_case="122673_1" X_vs_Y="122673_3" gram_type="pre_nom" relation_type="equivalence" id="122673_7" ></RELATION>
+
+<RELATION theme="122673_3" includes_docket_string="01-10142" includes_docket="122673_2" theme_string="BRITT v. SMITH, WARDEN" gram_type="apposition" relation_type="asymmetric" id="122673_10" ></RELATION>
+
+<RELATION theme="122673_3" party1="122673_4" party1_string="BRITT" theme_string="BRITT v. SMITH, WARDEN" gram_type="infix" relation_type="asymmetric" id="122673_8" ></RELATION>
+
+<RELATION party2="122673_5" theme="122673_3" theme_string="BRITT v. SMITH, WARDEN" party2_string="SMITH, WARDEN" gram_type="infix" relation_type="asymmetric" id="122673_9" ></RELATION>
+

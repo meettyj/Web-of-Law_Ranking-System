@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['fordgeneral#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_954" id1="124275" volume="537" start="0" page_number="954" standard_reporter="U.S." citation_global_level_id="2375.002" line="1" id="124276_1" citation_local_level_id="0" >537 U.S. 954</CITATION>
+
+<CITATION party2="ATTORNEY GENERAL OF ARIZONA ET AL" party1="FORD" citation_global_level_id="16939.001" party2_short="GENERAL" line="1" id="124276_3" alternative_keys="['u.s._537_954']" end="58" entry_type="party_key" lookup_key="fordgeneral#1" id1="124276" start="17" party1_short="FORD" citation_local_level_id="1" >FORD v. ATTORNEY GENERAL OF ARIZONA ET AL</CITATION>
+
+<NAME end="21" start="17" party1_of="124276_3" all_names="FORD" local_name_id="1" id="124276_4" >FORD</NAME>
+
+<NAME end="58" start="25" all_names="ATTORNEY GENERAL OF ARIZONA" party2_of="124276_3" local_name_id="2" id="124276_5" >ATTORNEY GENERAL OF ARIZONA ET AL</NAME>
+
+<DOCKET end="75" entry_type="docket" lookup_key="u.s._537_954" id1="124275" start="68" citation_global_level_id="2375.002" line="1" id="124276_2" citation_local_level_id="0" >02-5711</DOCKET>
+
+<DATE start="117" end="133" id="124276_6" >October 15, 2002</DATE>
+
+<NAME start="262" local_name_id="3" end="265" id="124276_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="124276_1" includes_docket_string="02-5711" includes_docket="124276_2" theme_string="537 U.S. 954" gram_type="apposition" relation_type="asymmetric" id="124276_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 954" X_vs_Y_string="FORD v. ATTORNEY GENERAL OF ARIZONA ET AL" standard_case="124276_1" X_vs_Y="124276_3" gram_type="pre_nom" relation_type="equivalence" id="124276_7" ></RELATION>
+
+<RELATION theme="124276_3" includes_docket_string="02-5711" includes_docket="124276_2" theme_string="FORD v. ATTORNEY GENERAL OF ARIZONA ET AL" gram_type="apposition" relation_type="asymmetric" id="124276_10" ></RELATION>
+
+<RELATION theme="124276_3" party1="124276_4" party1_string="FORD" theme_string="FORD v. ATTORNEY GENERAL OF ARIZONA ET AL" gram_type="infix" relation_type="asymmetric" id="124276_8" ></RELATION>
+
+<RELATION party2="124276_5" theme="124276_3" theme_string="FORD v. ATTORNEY GENERAL OF ARIZONA ET AL" party2_string="ATTORNEY GENERAL OF ARIZONA ET AL" gram_type="infix" relation_type="asymmetric" id="124276_9" ></RELATION>
+

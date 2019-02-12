@@ -1,0 +1,34 @@
+<CITATION alternative_keys="['mcweecarolina#1', 'a._03_838']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_984" id1="135610" volume="541" start="0" page_number="984" standard_reporter="U.S." citation_global_level_id="341.002" line="1" id="135609_1" citation_local_level_id="0" >541 U.S. 984</CITATION>
+
+<CITATION party2="SOUTH CAROLINA" party1="McWEE" citation_global_level_id="13030.001" party2_short="CAROLINA" line="2" id="135609_2" alternative_keys="['u.s._541_984', 'a._03_838']" end="40" entry_type="party_key" lookup_key="mcweecarolina#1" id1="135609" start="17" party1_short="McWEE" citation_local_level_id="1" >McWEE v. SOUTH CAROLINA</CITATION>
+
+<NAME end="22" start="17" party1_of="135609_2" all_names="MCWEE" local_name_id="1" id="135609_3" >McWEE</NAME>
+
+<NAME end="40" start="26" all_names="SOUTH CAROLINA" party2_of="135609_2" local_name_id="2" id="135609_4" >SOUTH CAROLINA</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="mcweecarolina#1" id1="135609" start="50" citation_global_level_id="13030.001" line="3" id="135609_8" citation_local_level_id="1" >03-9686</DOCKET>
+
+<CITATION alternative_keys="['u.s._541_984', 'mcweecarolina#1']" end="65" reporter="A" entry_type="standard_key" lookup_key="a._03_838" id1="135609" volume="03" start="59" page_number="838" standard_reporter="A." citation_global_level_id="13030.002" line="3" id="135609_7" citation_local_level_id="2" >03A838</CITATION>
+
+<ORGANIZATION start="72" end="102" id="135609_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="108" citation_global_level_id="13030.001" end="122" id="135609_10" citation_local_level_id="1" >April 14, 2004</DATE>
+
+<NAME start="144" local_name_id="3" end="147" id="135609_17" all_names="SUP" >Sup</NAME>
+
+<CITATION end="337" reporter="S. C." entry_type="standard_key" no_current_file="True" lookup_key="s.c._357_403" id1="Dummy_File_186913" volume="357" start="324" page_number="403" standard_reporter="S.C." citation_global_level_id="250763.001" line="8" id="135609_15" citation_local_level_id="3" >357 S. C. 403</CITATION>
+
+<CITATION end="355" reporter="S. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="s.e.2d_593_456" id1="Dummy_File_186914" volume="593" start="339" page_number="456" standard_reporter="S.E.2D" citation_global_level_id="250764.001" line="8" id="135609_16" citation_local_level_id="4" >593 S. E. 2d 456</CITATION>
+
+<RELATION theme="135609_2" party1="135609_3" party1_string="McWEE" theme_string="McWEE v. SOUTH CAROLINA" gram_type="infix" relation_type="asymmetric" id="135609_5" ></RELATION>
+
+<RELATION party2="135609_4" theme="135609_2" theme_string="McWEE v. SOUTH CAROLINA" party2_string="SOUTH CAROLINA" gram_type="infix" relation_type="asymmetric" id="135609_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 984" X_vs_Y_string="McWEE v. SOUTH CAROLINA" standard_case="135609_1" X_vs_Y="135609_2" gram_type="multi_line" relation_type="equivalence" id="135609_11" ></RELATION>
+
+<RELATION at_date_string="April 14, 2004" theme="135609_2" at_date="135609_10" theme_string="McWEE v. SOUTH CAROLINA" gram_type="multi_line" relation_type="asymmetric" id="135609_14" ></RELATION>
+
+<RELATION standard_case_string="03A838" X_vs_Y_string="McWEE v. SOUTH CAROLINA" standard_case="135609_7" X_vs_Y="135609_2" gram_type="multi_line" relation_type="equivalence" id="135609_12" ></RELATION>
+
+<RELATION theme="135609_2" includes_docket_string="03-9686" includes_docket="135609_8" theme_string="McWEE v. SOUTH CAROLINA" gram_type="multi_line" relation_type="asymmetric" id="135609_13" ></RELATION>
+

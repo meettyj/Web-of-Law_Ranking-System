@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['linvilleoffice#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_817" id1="122444" volume="537" start="0" page_number="817" standard_reporter="U.S." citation_global_level_id="7499.002" line="1" id="122437_1" citation_local_level_id="0" >537 U.S. 817</CITATION>
+
+<CITATION party2="CLAY COUNTY SHERIFF'S OFFICE ET AL" party1="LINVILLE" citation_global_level_id="7499.003" party2_short="OFFICE" line="1" id="122437_3" alternative_keys="['u.s._537_817']" end="63" entry_type="party_key" lookup_key="linvilleoffice#2" id1="122444" start="17" party1_short="LINVILLE" citation_local_level_id="1" >LINVILLE v. CLAY COUNTY SHERIFF'S OFFICE ET AL</CITATION>
+
+<NAME end="25" start="17" party1_of="122437_3" all_names="LINVILLE" local_name_id="1" id="122437_4" >LINVILLE</NAME>
+
+<NAME end="63" start="29" all_names="CLAY COUNTY SHERIFF'S OFFICE" party2_of="122437_3" local_name_id="2" id="122437_5" >CLAY COUNTY SHERIFF'S OFFICE ET AL</NAME>
+
+<DOCKET end="80" entry_type="docket" lookup_key="u.s._537_817" id1="122444" start="73" citation_global_level_id="7499.002" line="1" id="122437_2" citation_local_level_id="0" >01-1705</DOCKET>
+
+<DATE start="76" end="80" id="122437_6" >1705</DATE>
+
+<DATE start="122" end="137" id="122437_7" >October 7, 2002</DATE>
+
+<NAME start="270" local_name_id="3" end="273" id="122437_15" all_names="CIR" >Cir</NAME>
+
+<CITATION end="324" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_277_1380" id1="Dummy_File_13855" volume="277" start="310" page_number="1380" standard_reporter="F.3D" citation_global_level_id="77705.001" line="3" id="122437_14" citation_local_level_id="2" >277 F. 3d 1380</CITATION>
+
+<RELATION theme="122437_1" includes_docket_string="01-1705" includes_docket="122437_2" theme_string="537 U.S. 817" gram_type="apposition" relation_type="asymmetric" id="122437_12" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 817" X_vs_Y_string="LINVILLE v. CLAY COUNTY SHERIFF'S OFFICE ET AL" standard_case="122437_1" X_vs_Y="122437_3" gram_type="pre_nom" relation_type="equivalence" id="122437_8" ></RELATION>
+
+<RELATION theme="122437_3" includes_docket_string="01-1705" includes_docket="122437_2" theme_string="LINVILLE v. CLAY COUNTY SHERIFF'S OFFICE ET AL" gram_type="apposition" relation_type="asymmetric" id="122437_11" ></RELATION>
+
+<RELATION party2="122437_5" theme="122437_3" theme_string="LINVILLE v. CLAY COUNTY SHERIFF'S OFFICE ET AL" party2_string="CLAY COUNTY SHERIFF'S OFFICE ET AL" gram_type="infix" relation_type="asymmetric" id="122437_10" ></RELATION>
+
+<RELATION theme="122437_3" party1="122437_4" party1_string="LINVILLE" theme_string="LINVILLE v. CLAY COUNTY SHERIFF'S OFFICE ET AL" gram_type="infix" relation_type="asymmetric" id="122437_9" ></RELATION>
+
+<RELATION at_date_string="1705" theme="122437_2" at_date="122437_6" theme_string="01-1705" gram_type="infix" relation_type="asymmetric" id="122437_13" ></RELATION>
+

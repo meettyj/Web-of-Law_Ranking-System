@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['kilesarizona#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1058" id1="116174" volume="510" start="0" page_number="1058" standard_reporter="U.S." citation_global_level_id="1720.002" line="1" id="116167_1" citation_local_level_id="0" >510 U.S. 1058</CITATION>
+
+<CITATION party2="Arizona" party1="Kiles" citation_global_level_id="40283.001" party2_short="Arizona" line="1" id="116167_3" alternative_keys="['u.s._510_1058']" end="34" entry_type="party_key" lookup_key="kilesarizona#1" id1="116167" start="18" party1_short="Kiles" citation_local_level_id="1" >Kiles v. Arizona</CITATION>
+
+<NAME end="23" start="18" party1_of="116167_3" all_names="KILES" local_name_id="1" id="116167_4" >Kiles</NAME>
+
+<NAME end="34" start="27" all_names="ARIZONA" party2_of="116167_3" local_name_id="2" id="116167_5" >Arizona</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="u.s._510_1058" id1="116174" start="44" citation_global_level_id="1720.002" line="1" id="116167_2" citation_local_level_id="0" >93-6758</DOCKET>
+
+<DATE start="93" end="109" id="116167_6" >January 10, 1994</DATE>
+
+<NAME start="187" local_name_id="3" end="197" id="116167_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="251" reporter="P. 2d" entry_type="standard_key" no_current_file="True" lookup_key="p.2d_857_1212" id1="Dummy_File_24175" volume="857" start="237" page_number="1212" standard_reporter="P.2D" citation_global_level_id="88025.001" line="3" id="116167_12" citation_local_level_id="2" >857 P. 2d 1212</CITATION>
+
+<RELATION theme="116167_1" includes_docket_string="93-6758" includes_docket="116167_2" theme_string="510 U.S. 1058" gram_type="apposition" relation_type="asymmetric" id="116167_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1058" X_vs_Y_string="Kiles v. Arizona" standard_case="116167_1" X_vs_Y="116167_3" gram_type="pre_nom" relation_type="equivalence" id="116167_7" ></RELATION>
+
+<RELATION theme="116167_3" includes_docket_string="93-6758" includes_docket="116167_2" theme_string="Kiles v. Arizona" gram_type="apposition" relation_type="asymmetric" id="116167_10" ></RELATION>
+
+<RELATION theme="116167_3" party1="116167_4" party1_string="Kiles" theme_string="Kiles v. Arizona" gram_type="infix" relation_type="asymmetric" id="116167_8" ></RELATION>
+
+<RELATION party2="116167_5" theme="116167_3" theme_string="Kiles v. Arizona" party2_string="Arizona" gram_type="infix" relation_type="asymmetric" id="116167_9" ></RELATION>
+

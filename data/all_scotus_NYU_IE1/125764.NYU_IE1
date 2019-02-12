@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['butlersmith#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1074" id1="125756" volume="537" start="0" page_number="1074" standard_reporter="U.S." citation_global_level_id="2479.002" line="1" id="125764_1" citation_local_level_id="0" >537 U.S. 1074</CITATION>
+
+<CITATION party2="SMITH ET AL" party1="BUTLER" citation_global_level_id="12405.001" party2_short="SMITH" line="1" id="125764_3" alternative_keys="['u.s._537_1074']" end="39" entry_type="party_key" lookup_key="butlersmith#1" id1="125764" start="18" party1_short="BUTLER" citation_local_level_id="1" >BUTLER v. SMITH ET AL</CITATION>
+
+<NAME end="24" start="18" party1_of="125764_3" all_names="BUTLER" local_name_id="1" id="125764_4" >BUTLER</NAME>
+
+<NAME end="39" start="28" all_names="SMITH" party2_of="125764_3" local_name_id="2" id="125764_5" >SMITH ET AL</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._537_1074" id1="125756" start="49" citation_global_level_id="2479.002" line="1" id="125764_2" citation_local_level_id="0" >02-6797</DOCKET>
+
+<DATE start="98" end="114" id="125764_6" >December 9, 2002</DATE>
+
+<NAME start="244" local_name_id="3" end="247" id="125764_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="125764_1" includes_docket_string="02-6797" includes_docket="125764_2" theme_string="537 U.S. 1074" gram_type="apposition" relation_type="asymmetric" id="125764_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1074" X_vs_Y_string="BUTLER v. SMITH ET AL" standard_case="125764_1" X_vs_Y="125764_3" gram_type="pre_nom" relation_type="equivalence" id="125764_7" ></RELATION>
+
+<RELATION theme="125764_3" includes_docket_string="02-6797" includes_docket="125764_2" theme_string="BUTLER v. SMITH ET AL" gram_type="apposition" relation_type="asymmetric" id="125764_10" ></RELATION>
+
+<RELATION theme="125764_3" party1="125764_4" party1_string="BUTLER" theme_string="BUTLER v. SMITH ET AL" gram_type="infix" relation_type="asymmetric" id="125764_8" ></RELATION>
+
+<RELATION party2="125764_5" theme="125764_3" theme_string="BUTLER v. SMITH ET AL" party2_string="SMITH ET AL" gram_type="infix" relation_type="asymmetric" id="125764_9" ></RELATION>
+

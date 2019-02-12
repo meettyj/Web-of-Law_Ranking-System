@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['servicemorton#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1054" id1="120268" volume="535" start="0" page_number="1054" standard_reporter="U.S." citation_global_level_id="2404.002" line="1" id="120263_1" citation_local_level_id="0" >535 U.S. 1054</CITATION>
+
+<CITATION party2="MORTON" party1="UNITED PARCEL SERVICE, INC." citation_global_level_id="60017.001" party2_short="MORTON" line="2" id="120263_2" alternative_keys="['u.s._535_1054']" end="55" entry_type="party_key" lookup_key="servicemorton#1" id1="120263" start="18" party1_short="SERVICE" citation_local_level_id="1" >UNITED PARCEL SERVICE, INC. v. MORTON</CITATION>
+
+<NAME end="45" start="18" party1_of="120263_2" all_names="UNITED PARCEL SERVICE INC" local_name_id="1" id="120263_3" >UNITED PARCEL SERVICE, INC.</NAME>
+
+<ORGANIZATION start="18" end="44" id="120263_5" >UNITED PARCEL SERVICE, INC</ORGANIZATION>
+
+<NAME end="55" start="49" all_names="MORTON" party2_of="120263_2" local_name_id="2" id="120263_4" >MORTON</NAME>
+
+<DOCKET end="72" entry_type="docket" lookup_key="servicemorton#1" id1="120263" start="65" citation_global_level_id="60017.001" line="3" id="120263_8" citation_local_level_id="1" >01-1266</DOCKET>
+
+<DATE start="118" citation_global_level_id="60017.001" end="130" id="120263_9" citation_local_level_id="1" >May 13, 2002</DATE>
+
+<NAME start="162" local_name_id="3" end="165" id="120263_14" all_names="CIR" >Cir</NAME>
+
+<CITATION end="216" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_272_1249" id1="Dummy_File_94837" volume="272" start="202" page_number="1249" standard_reporter="F.3D" citation_global_level_id="158687.001" line="8" id="120263_13" citation_local_level_id="2" >272 F. 3d 1249</CITATION>
+
+<RELATION theme="120263_2" party1="120263_3" party1_string="UNITED PARCEL SERVICE, INC." theme_string="UNITED PARCEL SERVICE, INC. v. MORTON" gram_type="infix" relation_type="asymmetric" id="120263_6" ></RELATION>
+
+<RELATION party2="120263_4" theme="120263_2" theme_string="UNITED PARCEL SERVICE, INC. v. MORTON" party2_string="MORTON" gram_type="infix" relation_type="asymmetric" id="120263_7" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1054" X_vs_Y_string="UNITED PARCEL SERVICE, INC. v. MORTON" standard_case="120263_1" X_vs_Y="120263_2" gram_type="multi_line" relation_type="equivalence" id="120263_10" ></RELATION>
+
+<RELATION at_date_string="May 13, 2002" theme="120263_2" at_date="120263_9" theme_string="UNITED PARCEL SERVICE, INC. v. MORTON" gram_type="multi_line" relation_type="asymmetric" id="120263_12" ></RELATION>
+
+<RELATION theme="120263_2" includes_docket_string="01-1266" includes_docket="120263_8" theme_string="UNITED PARCEL SERVICE, INC. v. MORTON" gram_type="multi_line" relation_type="asymmetric" id="120263_11" ></RELATION>
+

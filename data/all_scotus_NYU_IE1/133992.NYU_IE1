@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['cepedacalifornia#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_1021" id1="133997" volume="540" start="0" page_number="1021" standard_reporter="U.S." citation_global_level_id="603.002" line="1" id="133992_1" citation_local_level_id="0" >540 U.S. 1021</CITATION>
+
+<CITATION party2="CALIFORNIA" party1="CEPEDA" citation_global_level_id="17858.001" party2_short="CALIFORNIA" line="1" id="133992_3" alternative_keys="['u.s._540_1021']" end="38" entry_type="party_key" lookup_key="cepedacalifornia#1" id1="133992" start="18" party1_short="CEPEDA" citation_local_level_id="1" >CEPEDA v. CALIFORNIA</CITATION>
+
+<NAME end="24" start="18" party1_of="133992_3" all_names="CEPEDA" local_name_id="1" id="133992_4" >CEPEDA</NAME>
+
+<NAME end="38" start="28" all_names="CALIFORNIA" party2_of="133992_3" local_name_id="2" id="133992_5" >CALIFORNIA</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._540_1021" id1="133997" start="48" citation_global_level_id="603.002" line="1" id="133992_2" citation_local_level_id="0" >03-6381</DOCKET>
+
+<DATE start="97" end="114" id="133992_6" >November 17, 2003</DATE>
+
+<NAME start="206" local_name_id="3" end="216" id="133992_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="133992_1" includes_docket_string="03-6381" includes_docket="133992_2" theme_string="540 U.S. 1021" gram_type="apposition" relation_type="asymmetric" id="133992_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 1021" X_vs_Y_string="CEPEDA v. CALIFORNIA" standard_case="133992_1" X_vs_Y="133992_3" gram_type="pre_nom" relation_type="equivalence" id="133992_7" ></RELATION>
+
+<RELATION theme="133992_3" includes_docket_string="03-6381" includes_docket="133992_2" theme_string="CEPEDA v. CALIFORNIA" gram_type="apposition" relation_type="asymmetric" id="133992_10" ></RELATION>
+
+<RELATION theme="133992_3" party1="133992_4" party1_string="CEPEDA" theme_string="CEPEDA v. CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="133992_8" ></RELATION>
+
+<RELATION party2="133992_5" theme="133992_3" theme_string="CEPEDA v. CALIFORNIA" party2_string="CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="133992_9" ></RELATION>
+

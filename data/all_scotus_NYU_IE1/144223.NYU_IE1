@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['blaneyjohnson#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_1002" id1="144216" volume="544" start="0" page_number="1002" standard_reporter="U.S." citation_global_level_id="628.002" line="1" id="144223_1" citation_local_level_id="0" >544 U.S. 1002</CITATION>
+
+<CITATION party2="JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" party1="BLANEY" citation_global_level_id="628.007" party2_short="JOHNSON" line="2" id="144223_3" alternative_keys="['u.s._544_1002']" end="81" entry_type="party_key" lookup_key="blaneyjohnson#1" id1="144216" start="18" party1_short="BLANEY" citation_local_level_id="1" >BLANEY v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS</CITATION>
+
+<NAME end="24" start="18" party1_of="144223_3" all_names="BLANEY" local_name_id="1" id="144223_4" >BLANEY</NAME>
+
+<NAME end="81" start="28" all_names="JOHNSON DIRECTOR VIRGINIA DEPARTMENT OF CORRECTIONS" party2_of="144223_3" local_name_id="2" id="144223_5" >JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS</NAME>
+
+<DOCKET alternative_keys="['u.s._544_1002']" end="98" entry_type="docket" lookup_key="blaneyjohnson#1" id1="144216" start="91" citation_global_level_id="628.007" line="2" id="144223_2" citation_local_level_id="1" >04-8787</DOCKET>
+
+<ORGANIZATION start="104" end="134" id="144223_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="140" citation_global_level_id="628.007" end="154" id="144223_10" citation_local_level_id="1" >April 25, 2005</DATE>
+
+<NAME start="186" local_name_id="3" end="189" id="144223_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="144223_3" includes_docket_string="04-8787" includes_docket="144223_2" theme_string="BLANEY v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" gram_type="apposition" relation_type="asymmetric" id="144223_8" ></RELATION>
+
+<RELATION theme="144223_3" party1="144223_4" party1_string="BLANEY" theme_string="BLANEY v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" gram_type="infix" relation_type="asymmetric" id="144223_6" ></RELATION>
+
+<RELATION party2="144223_5" theme="144223_3" theme_string="BLANEY v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" party2_string="JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" gram_type="infix" relation_type="asymmetric" id="144223_7" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 1002" X_vs_Y_string="BLANEY v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" standard_case="144223_1" X_vs_Y="144223_3" gram_type="multi_line" relation_type="equivalence" id="144223_11" ></RELATION>
+
+<RELATION at_date_string="April 25, 2005" theme="144223_3" at_date="144223_10" theme_string="BLANEY v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" gram_type="multi_line" relation_type="asymmetric" id="144223_12" ></RELATION>
+

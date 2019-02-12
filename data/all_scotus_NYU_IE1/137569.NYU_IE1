@@ -1,0 +1,38 @@
+<CITATION alternative_keys="['wisconsinknapp#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._542_952" id1="137568" volume="542" start="0" page_number="952" standard_reporter="U.S." citation_global_level_id="1105.002" line="1" id="137569_1" citation_local_level_id="0" >542 U.S. 952</CITATION>
+
+<CITATION party2="KNAPP" party1="WISCONSIN" citation_global_level_id="10259.001" party2_short="KNAPP" line="2" id="137569_2" alternative_keys="['u.s._542_952']" end="35" entry_type="party_key" lookup_key="wisconsinknapp#1" id1="137569" start="17" party1_short="WISCONSIN" citation_local_level_id="1" >WISCONSIN v. KNAPP</CITATION>
+
+<NAME end="26" start="17" party1_of="137569_2" all_names="WISCONSIN" local_name_id="1" id="137569_3" >WISCONSIN</NAME>
+
+<NAME end="35" start="30" all_names="KNAPP" party2_of="137569_2" local_name_id="2" id="137569_4" >KNAPP</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="wisconsinknapp#1" id1="137569" start="45" citation_global_level_id="10259.001" line="3" id="137569_7" citation_local_level_id="1" >03-590</DOCKET>
+
+<ORGANIZATION start="57" end="87" id="137569_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="93" citation_global_level_id="10259.001" end="106" id="137569_9" citation_local_level_id="1" >June 30, 2004</DATE>
+
+<NAME start="128" local_name_id="3" end="131" id="137569_17" all_names="SUP" >Sup</NAME>
+
+<CITATION party2="Patane" party1="United States" citation_global_level_id="32896.001" party2_short="Patane" line="8" id="137569_14" end="259" entry_type="party_key" lookup_key="statespatane#2" id1="128875" start="236" party1_short="States" citation_local_level_id="2" >United States v. Patane</CITATION>
+
+<NAME end="249" start="236" party1_of="137569_14" all_names="UNITED STATES" local_name_id="4" id="137569_15" >United States</NAME>
+
+<NAME end="259" start="253" all_names="PATANE" party2_of="137569_14" local_name_id="5" id="137569_16" >Patane</NAME>
+
+<CITATION end="324" reporter="N. W. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.w.2d_666_881" id1="Dummy_File_58055" volume="666" start="308" page_number="881" standard_reporter="N.W.2D" citation_global_level_id="121905.001" line="8" id="137569_13" citation_local_level_id="3" >666 N. W. 2d 881</CITATION>
+
+<RELATION theme="137569_2" party1="137569_3" party1_string="WISCONSIN" theme_string="WISCONSIN v. KNAPP" gram_type="infix" relation_type="asymmetric" id="137569_5" ></RELATION>
+
+<RELATION party2="137569_4" theme="137569_2" theme_string="WISCONSIN v. KNAPP" party2_string="KNAPP" gram_type="infix" relation_type="asymmetric" id="137569_6" ></RELATION>
+
+<RELATION standard_case_string="542 U.S. 952" X_vs_Y_string="WISCONSIN v. KNAPP" standard_case="137569_1" X_vs_Y="137569_2" gram_type="multi_line" relation_type="equivalence" id="137569_10" ></RELATION>
+
+<RELATION at_date_string="June 30, 2004" theme="137569_2" at_date="137569_9" theme_string="WISCONSIN v. KNAPP" gram_type="multi_line" relation_type="asymmetric" id="137569_12" ></RELATION>
+
+<RELATION theme="137569_2" includes_docket_string="03-590" includes_docket="137569_7" theme_string="WISCONSIN v. KNAPP" gram_type="multi_line" relation_type="asymmetric" id="137569_11" ></RELATION>
+
+<RELATION theme="137569_14" party1="137569_15" party1_string="United States" theme_string="United States v. Patane" gram_type="infix" relation_type="asymmetric" id="137569_18" ></RELATION>
+
+<RELATION party2="137569_16" theme="137569_14" theme_string="United States v. Patane" party2_string="Patane" gram_type="infix" relation_type="asymmetric" id="137569_19" ></RELATION>
+

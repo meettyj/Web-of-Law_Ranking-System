@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['lockwoodstates#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1049" id1="116045" volume="510" start="0" page_number="1049" standard_reporter="U.S." citation_global_level_id="11113.002" line="1" id="116036_1" citation_local_level_id="0" >510 U.S. 1049</CITATION>
+
+<CITATION party2="United States" party1="Lockwood" citation_global_level_id="47094.001" party2_short="States" line="1" id="116036_3" alternative_keys="['u.s._510_1049']" end="43" entry_type="party_key" lookup_key="lockwoodstates#1" id1="116036" start="18" party1_short="Lockwood" citation_local_level_id="1" >Lockwood v. United States</CITATION>
+
+<NAME end="26" start="18" party1_of="116036_3" all_names="LOCKWOOD" local_name_id="1" id="116036_4" >Lockwood</NAME>
+
+<NAME end="43" start="30" all_names="UNITED STATES" party2_of="116036_3" local_name_id="2" id="116036_5" >United States</NAME>
+
+<DOCKET end="60" entry_type="docket" lookup_key="u.s._510_1049" id1="116045" start="53" citation_global_level_id="11113.002" line="1" id="116036_2" citation_local_level_id="0" >93-6138</DOCKET>
+
+<DATE start="102" end="118" id="116036_6" >January 10, 1994</DATE>
+
+<NAME start="197" local_name_id="3" end="207" id="116036_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="246" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_993_1553" id1="Dummy_File_11225" volume="993" start="232" page_number="1553" standard_reporter="F.2D" citation_global_level_id="75075.001" line="3" id="116036_12" citation_local_level_id="2" >993 F. 2d 1553</CITATION>
+
+<RELATION theme="116036_1" includes_docket_string="93-6138" includes_docket="116036_2" theme_string="510 U.S. 1049" gram_type="apposition" relation_type="asymmetric" id="116036_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1049" X_vs_Y_string="Lockwood v. United States" standard_case="116036_1" X_vs_Y="116036_3" gram_type="pre_nom" relation_type="equivalence" id="116036_7" ></RELATION>
+
+<RELATION theme="116036_3" includes_docket_string="93-6138" includes_docket="116036_2" theme_string="Lockwood v. United States" gram_type="apposition" relation_type="asymmetric" id="116036_10" ></RELATION>
+
+<RELATION theme="116036_3" party1="116036_4" party1_string="Lockwood" theme_string="Lockwood v. United States" gram_type="infix" relation_type="asymmetric" id="116036_8" ></RELATION>
+
+<RELATION party2="116036_5" theme="116036_3" theme_string="Lockwood v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="116036_9" ></RELATION>
+

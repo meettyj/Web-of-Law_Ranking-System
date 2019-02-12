@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['gomezvolkswagen#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1046" id1="125345" volume="537" start="0" page_number="1046" standard_reporter="U.S." citation_global_level_id="1550.002" line="1" id="125352_1" citation_local_level_id="0" >537 U.S. 1046</CITATION>
+
+<CITATION party2="VOLKSWAGEN OF AMERICA, INC., ET AL" party1="HERNANDEZ-GOMEZ" citation_global_level_id="1550.003" party2_short="VOLKSWAGEN" line="1" id="125352_3" alternative_keys="['u.s._537_1046']" end="71" entry_type="party_key" lookup_key="gomezvolkswagen#2" id1="125345" start="18" party1_short="GOMEZ" citation_local_level_id="1" >HERNANDEZ-GOMEZ v. VOLKSWAGEN OF AMERICA, INC., ET AL</CITATION>
+
+<NAME end="33" start="18" party1_of="125352_3" all_names="HERNANDEZ-GOMEZ" local_name_id="1" id="125352_4" >HERNANDEZ-GOMEZ</NAME>
+
+<NAME end="71" start="37" all_names="VOLKSWAGEN OF AMERICA INC" party2_of="125352_3" local_name_id="2" id="125352_5" >VOLKSWAGEN OF AMERICA, INC., ET AL</NAME>
+
+<DOCKET end="87" entry_type="docket" lookup_key="u.s._537_1046" id1="125345" start="81" citation_global_level_id="1550.002" line="1" id="125352_2" citation_local_level_id="0" >02-451</DOCKET>
+
+<DATE start="129" end="145" id="125352_6" >December 2, 2002</DATE>
+
+<NAME start="239" local_name_id="3" end="241" id="125352_13" all_names="CT" >Ct</NAME>
+
+<CITATION end="316" reporter="P. 3d" entry_type="standard_key" no_current_file="True" lookup_key="p.3d_32_424" id1="Dummy_File_51184" volume="32" start="304" page_number="424" standard_reporter="P.3D" citation_global_level_id="115034.001" line="3" id="125352_12" citation_local_level_id="2" >32 P. 3d 424</CITATION>
+
+<RELATION theme="125352_1" includes_docket_string="02-451" includes_docket="125352_2" theme_string="537 U.S. 1046" gram_type="apposition" relation_type="asymmetric" id="125352_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1046" X_vs_Y_string="HERNANDEZ-GOMEZ v. VOLKSWAGEN OF AMERICA, INC., ET AL" standard_case="125352_1" X_vs_Y="125352_3" gram_type="pre_nom" relation_type="equivalence" id="125352_7" ></RELATION>
+
+<RELATION theme="125352_3" includes_docket_string="02-451" includes_docket="125352_2" theme_string="HERNANDEZ-GOMEZ v. VOLKSWAGEN OF AMERICA, INC., ET AL" gram_type="apposition" relation_type="asymmetric" id="125352_10" ></RELATION>
+
+<RELATION theme="125352_3" party1="125352_4" party1_string="HERNANDEZ-GOMEZ" theme_string="HERNANDEZ-GOMEZ v. VOLKSWAGEN OF AMERICA, INC., ET AL" gram_type="infix" relation_type="asymmetric" id="125352_8" ></RELATION>
+
+<RELATION party2="125352_5" theme="125352_3" theme_string="HERNANDEZ-GOMEZ v. VOLKSWAGEN OF AMERICA, INC., ET AL" party2_string="VOLKSWAGEN OF AMERICA, INC., ET AL" gram_type="infix" relation_type="asymmetric" id="125352_9" ></RELATION>
+

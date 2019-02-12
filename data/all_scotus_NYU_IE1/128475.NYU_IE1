@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['linehanwashington#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_945" id1="128478" volume="538" start="0" page_number="945" standard_reporter="U.S." citation_global_level_id="3488.002" line="1" id="128475_1" citation_local_level_id="0" >538 U.S. 945</CITATION>
+
+<CITATION party2="WASHINGTON" party1="LINEHAN" citation_global_level_id="23437.001" party2_short="WASHINGTON" line="1" id="128475_3" alternative_keys="['u.s._538_945']" end="38" entry_type="party_key" lookup_key="linehanwashington#1" id1="128475" start="17" party1_short="LINEHAN" citation_local_level_id="1" >LINEHAN v. WASHINGTON</CITATION>
+
+<NAME end="24" start="17" party1_of="128475_3" all_names="LINEHAN" local_name_id="1" id="128475_4" >LINEHAN</NAME>
+
+<NAME end="38" start="28" all_names="WASHINGTON" party2_of="128475_3" local_name_id="2" id="128475_5" >WASHINGTON</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._538_945" id1="128478" start="48" citation_global_level_id="3488.002" line="1" id="128475_2" citation_local_level_id="0" >02-1113</DOCKET>
+
+<DATE start="97" end="111" id="128475_6" >March 31, 2003</DATE>
+
+<NAME start="205" local_name_id="3" end="208" id="128475_14" all_names="SUP" >Sup</NAME>
+
+<CITATION end="271" reporter="Wash. 2d" entry_type="standard_key" no_current_file="True" lookup_key="wash.2d_147_638" id1="Dummy_File_150818" volume="147" start="255" page_number="638" standard_reporter="WASH.2D" citation_global_level_id="214668.001" line="3" id="128475_12" citation_local_level_id="2" >147 Wash. 2d 638</CITATION>
+
+<CITATION end="285" reporter="P. 3d" entry_type="standard_key" no_current_file="True" lookup_key="p.3d_56_542" id1="Dummy_File_150819" volume="56" start="273" page_number="542" standard_reporter="P.3D" citation_global_level_id="214669.001" line="3" id="128475_13" citation_local_level_id="3" >56 P. 3d 542</CITATION>
+
+<RELATION theme="128475_1" includes_docket_string="02-1113" includes_docket="128475_2" theme_string="538 U.S. 945" gram_type="apposition" relation_type="asymmetric" id="128475_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 945" X_vs_Y_string="LINEHAN v. WASHINGTON" standard_case="128475_1" X_vs_Y="128475_3" gram_type="pre_nom" relation_type="equivalence" id="128475_7" ></RELATION>
+
+<RELATION theme="128475_3" includes_docket_string="02-1113" includes_docket="128475_2" theme_string="LINEHAN v. WASHINGTON" gram_type="apposition" relation_type="asymmetric" id="128475_10" ></RELATION>
+
+<RELATION theme="128475_3" party1="128475_4" party1_string="LINEHAN" theme_string="LINEHAN v. WASHINGTON" gram_type="infix" relation_type="asymmetric" id="128475_8" ></RELATION>
+
+<RELATION party2="128475_5" theme="128475_3" theme_string="LINEHAN v. WASHINGTON" party2_string="WASHINGTON" gram_type="infix" relation_type="asymmetric" id="128475_9" ></RELATION>
+

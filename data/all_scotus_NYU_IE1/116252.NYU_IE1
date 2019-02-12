@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['wilsonstates#9']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1064" id1="116260" volume="510" start="0" page_number="1064" standard_reporter="U.S." citation_global_level_id="1869.002" line="1" id="116252_1" citation_local_level_id="0" >510 U.S. 1064</CITATION>
+
+<CITATION party2="United States" party1="Treas-Wilson" citation_global_level_id="12274.001" party2_short="States" line="1" id="116252_3" alternative_keys="['u.s._510_1064']" end="47" entry_type="party_key" lookup_key="wilsonstates#9" id1="126362" start="18" party1_short="Wilson" citation_local_level_id="1" >Treas-Wilson v. United States</CITATION>
+
+<NAME end="30" start="18" party1_of="116252_3" all_names="TREAS-WILSON" local_name_id="1" id="116252_4" >Treas-Wilson</NAME>
+
+<NAME end="47" start="34" all_names="UNITED STATES" party2_of="116252_3" local_name_id="2" id="116252_5" >United States</NAME>
+
+<DOCKET end="64" entry_type="docket" lookup_key="u.s._510_1064" id1="116260" start="57" citation_global_level_id="1869.002" line="1" id="116252_2" citation_local_level_id="0" >93-6981</DOCKET>
+
+<DATE start="106" end="122" id="116252_6" >January 10, 1994</DATE>
+
+<NAME start="201" local_name_id="3" end="211" id="116252_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="248" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_3_1406" id1="Dummy_File_178520" volume="3" start="236" page_number="1406" standard_reporter="F.3D" citation_global_level_id="242370.001" line="3" id="116252_12" citation_local_level_id="2" >3 F. 3d 1406</CITATION>
+
+<RELATION theme="116252_1" includes_docket_string="93-6981" includes_docket="116252_2" theme_string="510 U.S. 1064" gram_type="apposition" relation_type="asymmetric" id="116252_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1064" X_vs_Y_string="Treas-Wilson v. United States" standard_case="116252_1" X_vs_Y="116252_3" gram_type="pre_nom" relation_type="equivalence" id="116252_7" ></RELATION>
+
+<RELATION theme="116252_3" includes_docket_string="93-6981" includes_docket="116252_2" theme_string="Treas-Wilson v. United States" gram_type="apposition" relation_type="asymmetric" id="116252_10" ></RELATION>
+
+<RELATION theme="116252_3" party1="116252_4" party1_string="Treas-Wilson" theme_string="Treas-Wilson v. United States" gram_type="infix" relation_type="asymmetric" id="116252_8" ></RELATION>
+
+<RELATION party2="116252_5" theme="116252_3" theme_string="Treas-Wilson v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="116252_9" ></RELATION>
+

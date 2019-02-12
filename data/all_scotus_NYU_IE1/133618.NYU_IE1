@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['griffintuesday#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_990" id1="133616" volume="540" start="0" page_number="990" standard_reporter="U.S." citation_global_level_id="8796.002" line="1" id="133618_1" citation_local_level_id="0" >540 U.S. 990</CITATION>
+
+<CITATION party2="RUBY TUESDAY, INC" party1="GRIFFIN" citation_global_level_id="18148.001" party2_short="TUESDAY" line="1" id="133618_3" alternative_keys="['u.s._540_990']" end="45" entry_type="party_key" lookup_key="griffintuesday#2" id1="142361" start="17" party1_short="GRIFFIN" citation_local_level_id="1" >GRIFFIN v. RUBY TUESDAY, INC</CITATION>
+
+<NAME end="24" start="17" party1_of="133618_3" all_names="GRIFFIN" local_name_id="1" id="133618_4" >GRIFFIN</NAME>
+
+<NAME end="45" start="28" all_names="RUBY TUESDAY INC" party2_of="133618_3" local_name_id="2" id="133618_5" >RUBY TUESDAY, INC</NAME>
+
+<DOCKET end="62" entry_type="docket" lookup_key="u.s._540_990" id1="133616" start="55" citation_global_level_id="8796.002" line="1" id="133618_2" citation_local_level_id="0" >03-6206</DOCKET>
+
+<DATE start="104" end="120" id="133618_6" >November 3, 2003</DATE>
+
+<NAME start="199" local_name_id="3" end="209" id="133618_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="133618_1" includes_docket_string="03-6206" includes_docket="133618_2" theme_string="540 U.S. 990" gram_type="apposition" relation_type="asymmetric" id="133618_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 990" X_vs_Y_string="GRIFFIN v. RUBY TUESDAY, INC" standard_case="133618_1" X_vs_Y="133618_3" gram_type="pre_nom" relation_type="equivalence" id="133618_7" ></RELATION>
+
+<RELATION theme="133618_3" includes_docket_string="03-6206" includes_docket="133618_2" theme_string="GRIFFIN v. RUBY TUESDAY, INC" gram_type="apposition" relation_type="asymmetric" id="133618_10" ></RELATION>
+
+<RELATION theme="133618_3" party1="133618_4" party1_string="GRIFFIN" theme_string="GRIFFIN v. RUBY TUESDAY, INC" gram_type="infix" relation_type="asymmetric" id="133618_8" ></RELATION>
+
+<RELATION party2="133618_5" theme="133618_3" theme_string="GRIFFIN v. RUBY TUESDAY, INC" party2_string="RUBY TUESDAY, INC" gram_type="infix" relation_type="asymmetric" id="133618_9" ></RELATION>
+

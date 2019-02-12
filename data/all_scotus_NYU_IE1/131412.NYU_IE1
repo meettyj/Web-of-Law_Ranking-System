@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['bartoncolorado#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_821" id1="131409" volume="540" start="0" page_number="821" standard_reporter="U.S." citation_global_level_id="5467.002" line="1" id="131412_1" citation_local_level_id="0" >540 U.S. 821</CITATION>
+
+<CITATION party2="COLORADO" party1="BARTON" citation_global_level_id="58044.001" party2_short="COLORADO" line="1" id="131412_3" alternative_keys="['u.s._540_821']" end="35" entry_type="party_key" lookup_key="bartoncolorado#1" id1="131412" start="17" party1_short="BARTON" citation_local_level_id="1" >BARTON v. COLORADO</CITATION>
+
+<NAME end="23" start="17" party1_of="131412_3" all_names="BARTON" local_name_id="1" id="131412_4" >BARTON</NAME>
+
+<NAME end="35" start="27" all_names="COLORADO" party2_of="131412_3" local_name_id="2" id="131412_5" >COLORADO</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="u.s._540_821" id1="131409" start="45" citation_global_level_id="5467.002" line="1" id="131412_2" citation_local_level_id="0" >02-1775</DOCKET>
+
+<DATE start="48" end="52" id="131412_6" >1775</DATE>
+
+<DATE start="94" end="109" id="131412_7" >October 6, 2003</DATE>
+
+<NAME start="187" local_name_id="3" end="197" id="131412_15" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="235" reporter="P. 3d" entry_type="standard_key" no_current_file="True" lookup_key="p.3d_58_1075" id1="Dummy_File_61110" volume="58" start="222" page_number="1075" standard_reporter="P.3D" citation_global_level_id="124960.001" line="3" id="131412_14" citation_local_level_id="2" >58 P. 3d 1075</CITATION>
+
+<RELATION theme="131412_1" includes_docket_string="02-1775" includes_docket="131412_2" theme_string="540 U.S. 821" gram_type="apposition" relation_type="asymmetric" id="131412_12" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 821" X_vs_Y_string="BARTON v. COLORADO" standard_case="131412_1" X_vs_Y="131412_3" gram_type="pre_nom" relation_type="equivalence" id="131412_8" ></RELATION>
+
+<RELATION theme="131412_3" includes_docket_string="02-1775" includes_docket="131412_2" theme_string="BARTON v. COLORADO" gram_type="apposition" relation_type="asymmetric" id="131412_11" ></RELATION>
+
+<RELATION party2="131412_5" theme="131412_3" theme_string="BARTON v. COLORADO" party2_string="COLORADO" gram_type="infix" relation_type="asymmetric" id="131412_10" ></RELATION>
+
+<RELATION theme="131412_3" party1="131412_4" party1_string="BARTON" theme_string="BARTON v. COLORADO" gram_type="infix" relation_type="asymmetric" id="131412_9" ></RELATION>
+
+<RELATION at_date_string="1775" theme="131412_2" at_date="131412_6" theme_string="02-1775" gram_type="infix" relation_type="asymmetric" id="131412_13" ></RELATION>
+

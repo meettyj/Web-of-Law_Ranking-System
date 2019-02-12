@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['hallmosely#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_894" id1="123451" volume="537" start="0" page_number="894" standard_reporter="U.S." citation_global_level_id="725.002" line="1" id="123453_1" citation_local_level_id="0" >537 U.S. 894</CITATION>
+
+<CITATION party2="MOSELY, WARDEN" party1="HALL" citation_global_level_id="725.004" party2_short="MOSELY" line="1" id="123453_3" alternative_keys="['u.s._537_894']" end="39" entry_type="party_key" lookup_key="hallmosely#1" id1="123451" start="17" party1_short="HALL" citation_local_level_id="1" >HALL v. MOSELY, WARDEN</CITATION>
+
+<NAME end="21" start="17" party1_of="123453_3" all_names="HALL" local_name_id="1" id="123453_4" >HALL</NAME>
+
+<NAME end="39" start="25" all_names="MOSELY WARDEN" party2_of="123453_3" local_name_id="2" id="123453_5" >MOSELY, WARDEN</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._537_894" id1="123451" start="49" citation_global_level_id="725.002" line="1" id="123453_2" citation_local_level_id="0" >02-5099</DOCKET>
+
+<DATE start="98" end="113" id="123453_6" >October 7, 2002</DATE>
+
+<NAME start="246" local_name_id="3" end="249" id="123453_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="123453_1" includes_docket_string="02-5099" includes_docket="123453_2" theme_string="537 U.S. 894" gram_type="apposition" relation_type="asymmetric" id="123453_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 894" X_vs_Y_string="HALL v. MOSELY, WARDEN" standard_case="123453_1" X_vs_Y="123453_3" gram_type="pre_nom" relation_type="equivalence" id="123453_7" ></RELATION>
+
+<RELATION theme="123453_3" includes_docket_string="02-5099" includes_docket="123453_2" theme_string="HALL v. MOSELY, WARDEN" gram_type="apposition" relation_type="asymmetric" id="123453_10" ></RELATION>
+
+<RELATION theme="123453_3" party1="123453_4" party1_string="HALL" theme_string="HALL v. MOSELY, WARDEN" gram_type="infix" relation_type="asymmetric" id="123453_8" ></RELATION>
+
+<RELATION party2="123453_5" theme="123453_3" theme_string="HALL v. MOSELY, WARDEN" party2_string="MOSELY, WARDEN" gram_type="infix" relation_type="asymmetric" id="123453_9" ></RELATION>
+

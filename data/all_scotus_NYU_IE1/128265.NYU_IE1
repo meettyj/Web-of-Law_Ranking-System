@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['finknourse#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_929" id1="128255" volume="538" start="0" page_number="929" standard_reporter="U.S." citation_global_level_id="4897.002" line="1" id="128265_1" citation_local_level_id="0" >538 U.S. 929</CITATION>
+
+<CITATION party2="NOURSE ET AL" party1="FINK" citation_global_level_id="4897.008" party2_short="NOURSE" line="1" id="128265_3" alternative_keys="['u.s._538_929']" end="37" entry_type="party_key" lookup_key="finknourse#2" id1="128255" start="17" party1_short="FINK" citation_local_level_id="1" >FINK v. NOURSE ET AL</CITATION>
+
+<NAME end="21" start="17" party1_of="128265_3" all_names="FINK" local_name_id="1" id="128265_5" >FINK</NAME>
+
+<NAME end="37" start="25" all_names="NOURSE" party2_of="128265_3" local_name_id="2" id="128265_6" >NOURSE ET AL</NAME>
+
+<CITATION party2="FLYNN ET AL" party1="FINK" citation_global_level_id="254546.001" party2_short="FLYNN" line="1" id="128265_4" end="63" no_current_file="True" entry_type="party_key" lookup_key="finkflynn#1" id1="Dummy_File_190696" start="44" party1_short="FINK" citation_local_level_id="2" >FINK v. FLYNN ET AL</CITATION>
+
+<NAME end="48" start="44" party1_of="128265_4" all_names="FINK" local_name_id="1" id="128265_7" >FINK</NAME>
+
+<NAME end="63" start="52" all_names="FLYNN" party2_of="128265_4" local_name_id="3" id="128265_8" >FLYNN ET AL</NAME>
+
+<DOCKET end="80" no_current_file="True" entry_type="docket" lookup_key="finkflynn#1" id1="Dummy_File_190696" start="73" citation_global_level_id="254546.001" line="1" id="128265_2" citation_local_level_id="2" >02-8529</DOCKET>
+
+<DATE start="122" end="136" id="128265_9" >March 24, 2003</DATE>
+
+<NAME start="265" local_name_id="4" end="268" id="128265_16" all_names="CIR" >Cir</NAME>
+
+<RELATION standard_case_string="538 U.S. 929" X_vs_Y_string="FINK v. NOURSE ET AL" standard_case="128265_1" X_vs_Y="128265_3" gram_type="pre_nom" relation_type="equivalence" id="128265_10" ></RELATION>
+
+<RELATION theme="128265_3" party1="128265_5" party1_string="FINK" theme_string="FINK v. NOURSE ET AL" gram_type="infix" relation_type="asymmetric" id="128265_11" ></RELATION>
+
+<RELATION party2="128265_6" theme="128265_3" theme_string="FINK v. NOURSE ET AL" party2_string="NOURSE ET AL" gram_type="infix" relation_type="asymmetric" id="128265_12" ></RELATION>
+
+<RELATION theme="128265_4" includes_docket_string="02-8529" includes_docket="128265_2" theme_string="FINK v. FLYNN ET AL" gram_type="apposition" relation_type="asymmetric" id="128265_15" ></RELATION>
+
+<RELATION theme="128265_4" party1="128265_7" party1_string="FINK" theme_string="FINK v. FLYNN ET AL" gram_type="infix" relation_type="asymmetric" id="128265_13" ></RELATION>
+
+<RELATION party2="128265_8" theme="128265_4" theme_string="FINK v. FLYNN ET AL" party2_string="FLYNN ET AL" gram_type="infix" relation_type="asymmetric" id="128265_14" ></RELATION>
+

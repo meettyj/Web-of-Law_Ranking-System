@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['fishergibson#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1034" id1="120093" volume="535" start="0" page_number="1034" standard_reporter="U.S." citation_global_level_id="812.002" line="1" id="120088_1" citation_local_level_id="0" >535 U.S. 1034</CITATION>
+
+<CITATION party2="GIBSON, WARDEN, ET AL" party1="FISHER" citation_global_level_id="812.004" party2_short="GIBSON" line="2" id="120088_2" alternative_keys="['u.s._535_1034']" end="49" entry_type="party_key" lookup_key="fishergibson#1" id1="120093" start="18" party1_short="FISHER" citation_local_level_id="1" >FISHER v. GIBSON, WARDEN, ET AL</CITATION>
+
+<NAME end="24" start="18" party1_of="120088_2" all_names="FISHER" local_name_id="1" id="120088_3" >FISHER</NAME>
+
+<NAME end="49" start="28" all_names="GIBSON WARDEN" party2_of="120088_2" local_name_id="2" id="120088_4" >GIBSON, WARDEN, ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._535_1034']" end="66" entry_type="docket" lookup_key="fishergibson#1" id1="120093" start="59" citation_global_level_id="812.004" line="3" id="120088_7" citation_local_level_id="1" >01-1211</DOCKET>
+
+<DATE start="112" citation_global_level_id="812.004" end="126" id="120088_8" citation_local_level_id="1" >April 29, 2002</DATE>
+
+<NAME start="159" local_name_id="3" end="162" id="120088_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="213" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_262_1135" id1="Dummy_File_20535" volume="262" start="199" page_number="1135" standard_reporter="F.3D" citation_global_level_id="84385.001" line="8" id="120088_12" citation_local_level_id="2" >262 F. 3d 1135</CITATION>
+
+<RELATION theme="120088_2" party1="120088_3" party1_string="FISHER" theme_string="FISHER v. GIBSON, WARDEN, ET AL" gram_type="infix" relation_type="asymmetric" id="120088_5" ></RELATION>
+
+<RELATION party2="120088_4" theme="120088_2" theme_string="FISHER v. GIBSON, WARDEN, ET AL" party2_string="GIBSON, WARDEN, ET AL" gram_type="infix" relation_type="asymmetric" id="120088_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1034" X_vs_Y_string="FISHER v. GIBSON, WARDEN, ET AL" standard_case="120088_1" X_vs_Y="120088_2" gram_type="multi_line" relation_type="equivalence" id="120088_9" ></RELATION>
+
+<RELATION at_date_string="April 29, 2002" theme="120088_2" at_date="120088_8" theme_string="FISHER v. GIBSON, WARDEN, ET AL" gram_type="multi_line" relation_type="asymmetric" id="120088_11" ></RELATION>
+
+<RELATION theme="120088_2" includes_docket_string="01-1211" includes_docket="120088_7" theme_string="FISHER v. GIBSON, WARDEN, ET AL" gram_type="multi_line" relation_type="asymmetric" id="120088_10" ></RELATION>
+

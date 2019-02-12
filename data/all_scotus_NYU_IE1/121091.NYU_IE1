@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['brookswetherington#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1118" id1="121089" volume="535" start="0" page_number="1118" standard_reporter="U.S." citation_global_level_id="5447.002" line="1" id="121091_1" citation_local_level_id="0" >535 U.S. 1118</CITATION>
+
+<CITATION party2="WETHERINGTON ET AL" party1="BROOKS" citation_global_level_id="28366.001" party2_short="WETHERINGTON" line="2" id="121091_2" alternative_keys="['u.s._535_1118']" end="46" entry_type="party_key" lookup_key="brookswetherington#1" id1="121091" start="18" party1_short="BROOKS" citation_local_level_id="1" >BROOKS v. WETHERINGTON ET AL</CITATION>
+
+<NAME end="24" start="18" party1_of="121091_2" all_names="BROOKS" local_name_id="1" id="121091_3" >BROOKS</NAME>
+
+<NAME end="46" start="28" all_names="WETHERINGTON" party2_of="121091_2" local_name_id="2" id="121091_4" >WETHERINGTON ET AL</NAME>
+
+<DOCKET end="63" entry_type="docket" lookup_key="brookswetherington#1" id1="121091" start="56" citation_global_level_id="28366.001" line="3" id="121091_7" citation_local_level_id="1" >01-9580</DOCKET>
+
+<DATE start="109" citation_global_level_id="28366.001" end="121" id="121091_8" citation_local_level_id="1" >June 3, 2002</DATE>
+
+<NAME start="154" local_name_id="3" end="157" id="121091_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="121091_2" party1="121091_3" party1_string="BROOKS" theme_string="BROOKS v. WETHERINGTON ET AL" gram_type="infix" relation_type="asymmetric" id="121091_5" ></RELATION>
+
+<RELATION party2="121091_4" theme="121091_2" theme_string="BROOKS v. WETHERINGTON ET AL" party2_string="WETHERINGTON ET AL" gram_type="infix" relation_type="asymmetric" id="121091_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1118" X_vs_Y_string="BROOKS v. WETHERINGTON ET AL" standard_case="121091_1" X_vs_Y="121091_2" gram_type="multi_line" relation_type="equivalence" id="121091_9" ></RELATION>
+
+<RELATION at_date_string="June 3, 2002" theme="121091_2" at_date="121091_8" theme_string="BROOKS v. WETHERINGTON ET AL" gram_type="multi_line" relation_type="asymmetric" id="121091_11" ></RELATION>
+
+<RELATION theme="121091_2" includes_docket_string="01-9580" includes_docket="121091_7" theme_string="BROOKS v. WETHERINGTON ET AL" gram_type="multi_line" relation_type="asymmetric" id="121091_10" ></RELATION>
+

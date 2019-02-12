@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['anagoproducts#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_985" id1="115262" volume="510" start="0" page_number="985" standard_reporter="U.S." citation_global_level_id="6140.002" line="1" id="115255_1" citation_local_level_id="0" >510 U.S. 985</CITATION>
+
+<CITATION party2="Tecnol Medical Products, Inc" party1="Anago Inc." citation_global_level_id="32274.001" party2_short="Products" line="1" id="115255_3" alternative_keys="['u.s._510_985']" end="59" entry_type="party_key" lookup_key="anagoproducts#2" id1="114685" start="17" party1_short="Anago" citation_local_level_id="1" >Anago Inc. v. Tecnol Medical Products, Inc</CITATION>
+
+<NAME end="27" start="17" party1_of="115255_3" all_names="ANAGO INC" local_name_id="1" id="115255_4" >Anago Inc.</NAME>
+
+<ORGANIZATION start="17" end="26" id="115255_7" >Anago Inc</ORGANIZATION>
+
+<NAME end="59" start="31" all_names="TECNOL MEDICAL PRODUCTS INC" party2_of="115255_3" local_name_id="2" id="115255_5" >Tecnol Medical Products, Inc</NAME>
+
+<DOCKET end="76" entry_type="docket" lookup_key="u.s._510_985" id1="115262" start="69" citation_global_level_id="6140.002" line="1" id="115255_2" citation_local_level_id="0" >92-1274</DOCKET>
+
+<DATE start="118" end="135" id="115255_6" >November 22, 1993</DATE>
+
+<NAME start="213" local_name_id="3" end="223" id="115255_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<ORGANIZATION start="245" end="250" id="115255_15" >Court</ORGANIZATION>
+
+<NAME start="253" local_name_id="4" end="272" id="115255_16" all_names="RULE 461 REPORTED" >Rule 46.1. Reported</NAME>
+
+<CITATION end="293" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_976_248" id1="Dummy_File_40241" volume="976" start="280" page_number="248" standard_reporter="F.2D" citation_global_level_id="104091.001" line="3" id="115255_13" citation_local_level_id="2" >976 F. 2d 248</CITATION>
+
+<RELATION theme="115255_1" includes_docket_string="92-1274" includes_docket="115255_2" theme_string="510 U.S. 985" gram_type="apposition" relation_type="asymmetric" id="115255_12" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 985" X_vs_Y_string="Anago Inc. v. Tecnol Medical Products, Inc" standard_case="115255_1" X_vs_Y="115255_3" gram_type="pre_nom" relation_type="equivalence" id="115255_8" ></RELATION>
+
+<RELATION theme="115255_3" includes_docket_string="92-1274" includes_docket="115255_2" theme_string="Anago Inc. v. Tecnol Medical Products, Inc" gram_type="apposition" relation_type="asymmetric" id="115255_11" ></RELATION>
+
+<RELATION party2="115255_5" theme="115255_3" theme_string="Anago Inc. v. Tecnol Medical Products, Inc" party2_string="Tecnol Medical Products, Inc" gram_type="infix" relation_type="asymmetric" id="115255_10" ></RELATION>
+
+<RELATION theme="115255_3" party1="115255_4" party1_string="Anago Inc." theme_string="Anago Inc. v. Tecnol Medical Products, Inc" gram_type="infix" relation_type="asymmetric" id="115255_9" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['brownjohnson#3']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1077" id1="141296" volume="543" start="0" page_number="1077" standard_reporter="U.S." citation_global_level_id="3440.002" line="1" id="141307_1" citation_local_level_id="0" >543 U.S. 1077</CITATION>
+
+<CITATION party2="JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" party1="BROWN" citation_global_level_id="3440.004" party2_short="JOHNSON" line="2" id="141307_3" alternative_keys="['u.s._543_1077']" end="80" entry_type="party_key" lookup_key="brownjohnson#3" id1="141296" start="18" party1_short="BROWN" citation_local_level_id="1" >BROWN v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS</CITATION>
+
+<NAME end="23" start="18" party1_of="141307_3" all_names="BROWN" local_name_id="1" id="141307_4" >BROWN</NAME>
+
+<NAME end="80" start="27" all_names="JOHNSON DIRECTOR VIRGINIA DEPARTMENT OF CORRECTIONS" party2_of="141307_3" local_name_id="2" id="141307_5" >JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS</NAME>
+
+<DOCKET alternative_keys="['u.s._543_1077']" end="97" entry_type="docket" lookup_key="brownjohnson#3" id1="141296" start="90" citation_global_level_id="3440.004" line="2" id="141307_2" citation_local_level_id="1" >04-7439</DOCKET>
+
+<ORGANIZATION start="103" end="133" id="141307_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="139" citation_global_level_id="3440.004" end="155" id="141307_10" citation_local_level_id="1" >January 10, 2005</DATE>
+
+<NAME start="187" local_name_id="3" end="190" id="141307_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="141307_3" includes_docket_string="04-7439" includes_docket="141307_2" theme_string="BROWN v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" gram_type="apposition" relation_type="asymmetric" id="141307_8" ></RELATION>
+
+<RELATION theme="141307_3" party1="141307_4" party1_string="BROWN" theme_string="BROWN v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" gram_type="infix" relation_type="asymmetric" id="141307_6" ></RELATION>
+
+<RELATION party2="141307_5" theme="141307_3" theme_string="BROWN v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" party2_string="JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" gram_type="infix" relation_type="asymmetric" id="141307_7" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1077" X_vs_Y_string="BROWN v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" standard_case="141307_1" X_vs_Y="141307_3" gram_type="multi_line" relation_type="equivalence" id="141307_11" ></RELATION>
+
+<RELATION at_date_string="January 10, 2005" theme="141307_3" at_date="141307_10" theme_string="BROWN v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" gram_type="multi_line" relation_type="asymmetric" id="141307_12" ></RELATION>
+

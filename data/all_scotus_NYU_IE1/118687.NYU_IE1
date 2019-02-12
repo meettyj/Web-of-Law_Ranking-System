@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['langleysecretary#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_928" id1="118699" volume="535" start="0" page_number="928" standard_reporter="U.S." citation_global_level_id="3103.002" line="1" id="118687_1" citation_local_level_id="0" >535 U.S. 928</CITATION>
+
+<CITATION party2="ILLINOIS SECRETARY OF STATE ET AL" party1="LANGLEY" citation_global_level_id="50051.001" party2_short="SECRETARY" line="2" id="118687_2" alternative_keys="['u.s._535_928']" end="61" entry_type="party_key" lookup_key="langleysecretary#1" id1="118687" start="17" party1_short="LANGLEY" citation_local_level_id="1" >LANGLEY v. ILLINOIS SECRETARY OF STATE ET AL</CITATION>
+
+<NAME end="24" start="17" party1_of="118687_2" all_names="LANGLEY" local_name_id="1" id="118687_3" >LANGLEY</NAME>
+
+<NAME end="61" start="28" all_names="ILLINOIS SECRETARY OF STATE" party2_of="118687_2" local_name_id="2" id="118687_4" >ILLINOIS SECRETARY OF STATE ET AL</NAME>
+
+<DOCKET end="77" entry_type="docket" lookup_key="langleysecretary#1" id1="118687" start="71" citation_global_level_id="50051.001" line="3" id="118687_7" citation_local_level_id="1" >01-987</DOCKET>
+
+<DATE start="123" citation_global_level_id="50051.001" end="137" id="118687_8" citation_local_level_id="1" >March 18, 2002</DATE>
+
+<NAME start="159" local_name_id="3" end="162" id="118687_12" all_names="APP" >App</NAME>
+
+<RELATION theme="118687_2" party1="118687_3" party1_string="LANGLEY" theme_string="LANGLEY v. ILLINOIS SECRETARY OF STATE ET AL" gram_type="infix" relation_type="asymmetric" id="118687_5" ></RELATION>
+
+<RELATION party2="118687_4" theme="118687_2" theme_string="LANGLEY v. ILLINOIS SECRETARY OF STATE ET AL" party2_string="ILLINOIS SECRETARY OF STATE ET AL" gram_type="infix" relation_type="asymmetric" id="118687_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 928" X_vs_Y_string="LANGLEY v. ILLINOIS SECRETARY OF STATE ET AL" standard_case="118687_1" X_vs_Y="118687_2" gram_type="multi_line" relation_type="equivalence" id="118687_9" ></RELATION>
+
+<RELATION at_date_string="March 18, 2002" theme="118687_2" at_date="118687_8" theme_string="LANGLEY v. ILLINOIS SECRETARY OF STATE ET AL" gram_type="multi_line" relation_type="asymmetric" id="118687_11" ></RELATION>
+
+<RELATION theme="118687_2" includes_docket_string="01-987" includes_docket="118687_7" theme_string="LANGLEY v. ILLINOIS SECRETARY OF STATE ET AL" gram_type="multi_line" relation_type="asymmetric" id="118687_10" ></RELATION>
+

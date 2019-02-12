@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['farfallainsurance#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_875" id1="132119" volume="540" start="0" page_number="875" standard_reporter="U.S." citation_global_level_id="2739.002" line="1" id="132124_1" citation_local_level_id="0" >540 U.S. 875</CITATION>
+
+<CITATION party2="MUTUAL OF OMAHA INSURANCE CO" party1="FARFALLA" citation_global_level_id="47369.001" party2_short="INSURANCE" line="1" id="132124_3" alternative_keys="['u.s._540_875']" end="57" entry_type="party_key" lookup_key="farfallainsurance#1" id1="132124" start="17" party1_short="FARFALLA" citation_local_level_id="1" >FARFALLA v. MUTUAL OF OMAHA INSURANCE CO</CITATION>
+
+<NAME end="25" start="17" party1_of="132124_3" all_names="FARFALLA" local_name_id="1" id="132124_4" >FARFALLA</NAME>
+
+<NAME end="57" start="29" all_names="MUTUAL OF OMAHA INSURANCE CO" party2_of="132124_3" local_name_id="2" id="132124_5" >MUTUAL OF OMAHA INSURANCE CO</NAME>
+
+<DOCKET end="72" entry_type="docket" lookup_key="u.s._540_875" id1="132119" start="67" citation_global_level_id="2739.002" line="1" id="132124_2" citation_local_level_id="0" >03-55</DOCKET>
+
+<DATE start="114" end="129" id="132124_6" >October 6, 2003</DATE>
+
+<NAME start="207" local_name_id="3" end="217" id="132124_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="254" reporter="F.3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_324_971" id1="Dummy_File_130939" volume="324" start="242" page_number="971" standard_reporter="F.3D" citation_global_level_id="194789.001" line="3" id="132124_12" citation_local_level_id="2" >324 F.3d 971</CITATION>
+
+<RELATION theme="132124_1" includes_docket_string="03-55" includes_docket="132124_2" theme_string="540 U.S. 875" gram_type="apposition" relation_type="asymmetric" id="132124_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 875" X_vs_Y_string="FARFALLA v. MUTUAL OF OMAHA INSURANCE CO" standard_case="132124_1" X_vs_Y="132124_3" gram_type="pre_nom" relation_type="equivalence" id="132124_7" ></RELATION>
+
+<RELATION theme="132124_3" includes_docket_string="03-55" includes_docket="132124_2" theme_string="FARFALLA v. MUTUAL OF OMAHA INSURANCE CO" gram_type="apposition" relation_type="asymmetric" id="132124_10" ></RELATION>
+
+<RELATION theme="132124_3" party1="132124_4" party1_string="FARFALLA" theme_string="FARFALLA v. MUTUAL OF OMAHA INSURANCE CO" gram_type="infix" relation_type="asymmetric" id="132124_8" ></RELATION>
+
+<RELATION party2="132124_5" theme="132124_3" theme_string="FARFALLA v. MUTUAL OF OMAHA INSURANCE CO" party2_string="MUTUAL OF OMAHA INSURANCE CO" gram_type="infix" relation_type="asymmetric" id="132124_9" ></RELATION>
+

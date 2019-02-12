@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['texasvaldez#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_1000" id1="144196" volume="544" start="0" page_number="1000" standard_reporter="U.S." citation_global_level_id="240.002" line="1" id="144195_1" citation_local_level_id="0" >544 U.S. 1000</CITATION>
+
+<CITATION party2="VALDEZ" party1="TEXAS" citation_global_level_id="39238.001" party2_short="VALDEZ" line="2" id="144195_3" alternative_keys="['u.s._544_1000']" end="33" entry_type="party_key" lookup_key="texasvaldez#1" id1="144195" start="18" party1_short="TEXAS" citation_local_level_id="1" >TEXAS v. VALDEZ</CITATION>
+
+<NAME end="23" start="18" party1_of="144195_3" all_names="TEXAS" local_name_id="1" id="144195_4" >TEXAS</NAME>
+
+<NAME end="33" start="27" all_names="VALDEZ" party2_of="144195_3" local_name_id="2" id="144195_5" >VALDEZ</NAME>
+
+<DOCKET end="50" entry_type="docket" lookup_key="texasvaldez#1" id1="144195" start="43" citation_global_level_id="39238.001" line="2" id="144195_2" citation_local_level_id="1" >04-1287</DOCKET>
+
+<ORGANIZATION start="56" end="86" id="144195_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="92" citation_global_level_id="39238.001" end="106" id="144195_10" citation_local_level_id="1" >April 25, 2005</DATE>
+
+<NAME start="128" local_name_id="3" end="130" id="144195_14" all_names="CT" >Ct</NAME>
+
+<CITATION end="199" reporter="S. W. 3d" entry_type="standard_key" no_current_file="True" lookup_key="s.w.3d_158_438" id1="Dummy_File_225660" volume="158" start="183" page_number="438" standard_reporter="S.W.3D" citation_global_level_id="289510.001" line="7" id="144195_13" citation_local_level_id="2" >158 S. W. 3d 438</CITATION>
+
+<RELATION theme="144195_3" includes_docket_string="04-1287" includes_docket="144195_2" theme_string="TEXAS v. VALDEZ" gram_type="apposition" relation_type="asymmetric" id="144195_8" ></RELATION>
+
+<RELATION theme="144195_3" party1="144195_4" party1_string="TEXAS" theme_string="TEXAS v. VALDEZ" gram_type="infix" relation_type="asymmetric" id="144195_6" ></RELATION>
+
+<RELATION party2="144195_5" theme="144195_3" theme_string="TEXAS v. VALDEZ" party2_string="VALDEZ" gram_type="infix" relation_type="asymmetric" id="144195_7" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 1000" X_vs_Y_string="TEXAS v. VALDEZ" standard_case="144195_1" X_vs_Y="144195_3" gram_type="multi_line" relation_type="equivalence" id="144195_11" ></RELATION>
+
+<RELATION at_date_string="April 25, 2005" theme="144195_3" at_date="144195_10" theme_string="TEXAS v. VALDEZ" gram_type="multi_line" relation_type="asymmetric" id="144195_12" ></RELATION>
+

@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['andersoncarey#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_1007" id1="133820" volume="540" start="0" page_number="1007" standard_reporter="U.S." citation_global_level_id="5756.002" line="1" id="133819_1" citation_local_level_id="0" >540 U.S. 1007</CITATION>
+
+<CITATION party2="CAREY, WARDEN" party1="ANDERSON" citation_global_level_id="5756.006" party2_short="CAREY" line="1" id="133819_3" alternative_keys="['u.s._540_1007']" end="43" entry_type="party_key" lookup_key="andersoncarey#1" id1="133820" start="18" party1_short="ANDERSON" citation_local_level_id="1" >ANDERSON v. CAREY, WARDEN</CITATION>
+
+<NAME end="26" start="18" party1_of="133819_3" all_names="ANDERSON" local_name_id="1" id="133819_4" >ANDERSON</NAME>
+
+<NAME end="43" start="30" all_names="CAREY WARDEN" party2_of="133819_3" local_name_id="2" id="133819_5" >CAREY, WARDEN</NAME>
+
+<DOCKET end="60" entry_type="docket" lookup_key="u.s._540_1007" id1="133820" start="53" citation_global_level_id="5756.002" line="1" id="133819_2" citation_local_level_id="0" >03-6277</DOCKET>
+
+<DATE start="102" end="119" id="133819_6" >November 10, 2003</DATE>
+
+<NAME start="197" local_name_id="3" end="207" id="133819_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="133819_1" includes_docket_string="03-6277" includes_docket="133819_2" theme_string="540 U.S. 1007" gram_type="apposition" relation_type="asymmetric" id="133819_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 1007" X_vs_Y_string="ANDERSON v. CAREY, WARDEN" standard_case="133819_1" X_vs_Y="133819_3" gram_type="pre_nom" relation_type="equivalence" id="133819_7" ></RELATION>
+
+<RELATION theme="133819_3" includes_docket_string="03-6277" includes_docket="133819_2" theme_string="ANDERSON v. CAREY, WARDEN" gram_type="apposition" relation_type="asymmetric" id="133819_10" ></RELATION>
+
+<RELATION theme="133819_3" party1="133819_4" party1_string="ANDERSON" theme_string="ANDERSON v. CAREY, WARDEN" gram_type="infix" relation_type="asymmetric" id="133819_8" ></RELATION>
+
+<RELATION party2="133819_5" theme="133819_3" theme_string="ANDERSON v. CAREY, WARDEN" party2_string="CAREY, WARDEN" gram_type="infix" relation_type="asymmetric" id="133819_9" ></RELATION>
+

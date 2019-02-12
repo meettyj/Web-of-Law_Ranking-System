@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['statescolorado#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1092" id1="116555" volume="510" start="0" page_number="1092" standard_reporter="U.S." citation_global_level_id="2599.002" line="1" id="116552_1" citation_local_level_id="0" >510 U.S. 1092</CITATION>
+
+<CITATION party2="Colorado et al" party1="United States" citation_global_level_id="11848.001" party2_short="Colorado" line="1" id="116552_3" alternative_keys="['u.s._510_1092']" end="49" entry_type="party_key" lookup_key="statescolorado#1" id1="116552" start="18" party1_short="States" citation_local_level_id="1" >United States v. Colorado et al</CITATION>
+
+<NAME end="31" start="18" party1_of="116552_3" all_names="UNITED STATES" local_name_id="1" id="116552_4" >United States</NAME>
+
+<NAME end="49" start="35" all_names="COLORADO" party2_of="116552_3" local_name_id="2" id="116552_5" >Colorado et al</NAME>
+
+<DOCKET end="65" entry_type="docket" lookup_key="u.s._510_1092" id1="116555" start="59" citation_global_level_id="2599.002" line="1" id="116552_2" citation_local_level_id="0" >93-786</DOCKET>
+
+<DATE start="107" end="123" id="116552_6" >January 24, 1994</DATE>
+
+<NAME start="202" local_name_id="3" end="212" id="116552_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="251" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_990_1565" id1="Dummy_File_236973" volume="990" start="237" page_number="1565" standard_reporter="F.2D" citation_global_level_id="300823.001" line="3" id="116552_12" citation_local_level_id="2" >990 F. 2d 1565</CITATION>
+
+<RELATION theme="116552_1" includes_docket_string="93-786" includes_docket="116552_2" theme_string="510 U.S. 1092" gram_type="apposition" relation_type="asymmetric" id="116552_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1092" X_vs_Y_string="United States v. Colorado et al" standard_case="116552_1" X_vs_Y="116552_3" gram_type="pre_nom" relation_type="equivalence" id="116552_7" ></RELATION>
+
+<RELATION theme="116552_3" includes_docket_string="93-786" includes_docket="116552_2" theme_string="United States v. Colorado et al" gram_type="apposition" relation_type="asymmetric" id="116552_10" ></RELATION>
+
+<RELATION theme="116552_3" party1="116552_4" party1_string="United States" theme_string="United States v. Colorado et al" gram_type="infix" relation_type="asymmetric" id="116552_8" ></RELATION>
+
+<RELATION party2="116552_5" theme="116552_3" theme_string="United States v. Colorado et al" party2_string="Colorado et al" gram_type="infix" relation_type="asymmetric" id="116552_9" ></RELATION>
+

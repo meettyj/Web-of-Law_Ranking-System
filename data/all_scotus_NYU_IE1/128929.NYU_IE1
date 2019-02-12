@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['kolbergmississippi#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_981" id1="128939" volume="538" start="0" page_number="981" standard_reporter="U.S." citation_global_level_id="1721.002" line="1" id="128929_1" citation_local_level_id="0" >538 U.S. 981</CITATION>
+
+<CITATION party2="MISSISSIPPI" party1="KOLBERG" citation_global_level_id="28925.001" party2_short="MISSISSIPPI" line="1" id="128929_3" alternative_keys="['u.s._538_981']" end="39" entry_type="party_key" lookup_key="kolbergmississippi#1" id1="128929" start="17" party1_short="KOLBERG" citation_local_level_id="1" >KOLBERG v. MISSISSIPPI</CITATION>
+
+<NAME end="24" start="17" party1_of="128929_3" all_names="KOLBERG" local_name_id="1" id="128929_4" >KOLBERG</NAME>
+
+<NAME end="39" start="28" all_names="MISSISSIPPI" party2_of="128929_3" local_name_id="2" id="128929_5" >MISSISSIPPI</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._538_981" id1="128939" start="49" citation_global_level_id="1721.002" line="1" id="128929_2" citation_local_level_id="0" >02-8855</DOCKET>
+
+<DATE start="98" end="112" id="128929_6" >April 21, 2003</DATE>
+
+<NAME start="207" local_name_id="3" end="210" id="128929_13" all_names="SUP" >Sup</NAME>
+
+<CITATION end="270" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_829_29" id1="Dummy_File_136335" volume="829" start="257" page_number="29" standard_reporter="SO.2D" citation_global_level_id="200185.001" line="3" id="128929_12" citation_local_level_id="2" >829 So. 2d 29</CITATION>
+
+<RELATION theme="128929_1" includes_docket_string="02-8855" includes_docket="128929_2" theme_string="538 U.S. 981" gram_type="apposition" relation_type="asymmetric" id="128929_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 981" X_vs_Y_string="KOLBERG v. MISSISSIPPI" standard_case="128929_1" X_vs_Y="128929_3" gram_type="pre_nom" relation_type="equivalence" id="128929_7" ></RELATION>
+
+<RELATION theme="128929_3" includes_docket_string="02-8855" includes_docket="128929_2" theme_string="KOLBERG v. MISSISSIPPI" gram_type="apposition" relation_type="asymmetric" id="128929_10" ></RELATION>
+
+<RELATION theme="128929_3" party1="128929_4" party1_string="KOLBERG" theme_string="KOLBERG v. MISSISSIPPI" gram_type="infix" relation_type="asymmetric" id="128929_8" ></RELATION>
+
+<RELATION party2="128929_5" theme="128929_3" theme_string="KOLBERG v. MISSISSIPPI" party2_string="MISSISSIPPI" gram_type="infix" relation_type="asymmetric" id="128929_9" ></RELATION>
+

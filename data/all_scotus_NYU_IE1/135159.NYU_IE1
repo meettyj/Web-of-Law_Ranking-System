@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['beaverflorida#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_950" id1="135168" volume="541" start="0" page_number="950" standard_reporter="U.S." citation_global_level_id="5186.002" line="1" id="135159_1" citation_local_level_id="0" >541 U.S. 950</CITATION>
+
+<CITATION party2="FLORIDA" party1="BEAVER" citation_global_level_id="50415.001" party2_short="FLORIDA" line="2" id="135159_2" alternative_keys="['u.s._541_950']" end="34" entry_type="party_key" lookup_key="beaverflorida#2" id1="135159" start="17" party1_short="BEAVER" citation_local_level_id="1" >BEAVER v. FLORIDA</CITATION>
+
+<NAME end="23" start="17" party1_of="135159_2" all_names="BEAVER" local_name_id="1" id="135159_3" >BEAVER</NAME>
+
+<NAME end="34" start="27" all_names="FLORIDA" party2_of="135159_2" local_name_id="2" id="135159_4" >FLORIDA</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="beaverflorida#2" id1="135159" start="44" citation_global_level_id="50415.001" line="3" id="135159_7" citation_local_level_id="1" >03-8747</DOCKET>
+
+<ORGANIZATION start="57" end="87" id="135159_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="93" citation_global_level_id="50415.001" end="107" id="135159_9" citation_local_level_id="1" >March 22, 2004</DATE>
+
+<NAME start="129" local_name_id="3" end="133" id="135159_13" all_names="DIST" >Dist</NAME>
+
+<RELATION theme="135159_2" party1="135159_3" party1_string="BEAVER" theme_string="BEAVER v. FLORIDA" gram_type="infix" relation_type="asymmetric" id="135159_5" ></RELATION>
+
+<RELATION party2="135159_4" theme="135159_2" theme_string="BEAVER v. FLORIDA" party2_string="FLORIDA" gram_type="infix" relation_type="asymmetric" id="135159_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 950" X_vs_Y_string="BEAVER v. FLORIDA" standard_case="135159_1" X_vs_Y="135159_2" gram_type="multi_line" relation_type="equivalence" id="135159_10" ></RELATION>
+
+<RELATION at_date_string="March 22, 2004" theme="135159_2" at_date="135159_9" theme_string="BEAVER v. FLORIDA" gram_type="multi_line" relation_type="asymmetric" id="135159_12" ></RELATION>
+
+<RELATION theme="135159_2" includes_docket_string="03-8747" includes_docket="135159_7" theme_string="BEAVER v. FLORIDA" gram_type="multi_line" relation_type="asymmetric" id="135159_11" ></RELATION>
+

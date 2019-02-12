@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['arnoldflorida#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_905" id1="130208" volume="539" start="0" page_number="905" standard_reporter="U.S." citation_global_level_id="2078.002" line="1" id="130216_1" citation_local_level_id="0" >539 U.S. 905</CITATION>
+
+<CITATION party2="Florida" party1="Arnold" citation_global_level_id="40710.001" party2_short="Florida" line="1" id="130216_3" alternative_keys="['u.s._539_905']" end="34" entry_type="party_key" lookup_key="arnoldflorida#1" id1="130216" start="17" party1_short="Arnold" citation_local_level_id="1" >Arnold v. Florida</CITATION>
+
+<NAME end="23" start="17" party1_of="130216_3" all_names="ARNOLD" local_name_id="1" id="130216_4" >Arnold</NAME>
+
+<NAME end="34" start="27" all_names="FLORIDA" party2_of="130216_3" local_name_id="2" id="130216_5" >Florida</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="u.s._539_905" id1="130208" start="44" citation_global_level_id="2078.002" line="1" id="130216_2" citation_local_level_id="0" >02-9809</DOCKET>
+
+<DATE start="93" end="105" id="130216_6" >June 2, 2003</DATE>
+
+<NAME start="199" local_name_id="3" end="209" id="130216_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="249" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_835_1112" id1="Dummy_File_91967" volume="835" start="234" page_number="1112" standard_reporter="SO.2D" citation_global_level_id="155817.001" line="3" id="130216_12" citation_local_level_id="2" >835 So. 2d 1112</CITATION>
+
+<RELATION theme="130216_1" includes_docket_string="02-9809" includes_docket="130216_2" theme_string="539 U.S. 905" gram_type="apposition" relation_type="asymmetric" id="130216_11" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 905" X_vs_Y_string="Arnold v. Florida" standard_case="130216_1" X_vs_Y="130216_3" gram_type="pre_nom" relation_type="equivalence" id="130216_7" ></RELATION>
+
+<RELATION theme="130216_3" includes_docket_string="02-9809" includes_docket="130216_2" theme_string="Arnold v. Florida" gram_type="apposition" relation_type="asymmetric" id="130216_10" ></RELATION>
+
+<RELATION theme="130216_3" party1="130216_4" party1_string="Arnold" theme_string="Arnold v. Florida" gram_type="infix" relation_type="asymmetric" id="130216_8" ></RELATION>
+
+<RELATION party2="130216_5" theme="130216_3" theme_string="Arnold v. Florida" party2_string="Florida" gram_type="infix" relation_type="asymmetric" id="130216_9" ></RELATION>
+

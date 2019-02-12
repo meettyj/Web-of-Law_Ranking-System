@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['wolskycollege#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1073" id1="116371" volume="510" start="0" page_number="1073" standard_reporter="U.S." citation_global_level_id="735.002" line="1" id="116372_1" citation_local_level_id="0" >510 U.S. 1073</CITATION>
+
+<CITATION party2="Medical College of Hampton Roads" party1="Wolsky" citation_global_level_id="52351.001" party2_short="College" line="1" id="116372_3" alternative_keys="['u.s._510_1073']" end="60" entry_type="party_key" lookup_key="wolskycollege#1" id1="116372" start="18" party1_short="Wolsky" citation_local_level_id="1" >Wolsky v. Medical College of Hampton Roads</CITATION>
+
+<NAME end="24" start="18" party1_of="116372_3" all_names="WOLSKY" local_name_id="1" id="116372_4" >Wolsky</NAME>
+
+<NAME end="60" start="28" all_names="MEDICAL COLLEGE OF HAMPTON ROADS" party2_of="116372_3" local_name_id="2" id="116372_5" >Medical College of Hampton Roads</NAME>
+
+<DOCKET end="76" entry_type="docket" lookup_key="u.s._510_1073" id1="116371" start="70" citation_global_level_id="735.002" line="1" id="116372_2" citation_local_level_id="0" >93-805</DOCKET>
+
+<DATE start="118" end="134" id="116372_6" >January 18, 1994</DATE>
+
+<NAME start="212" local_name_id="3" end="222" id="116372_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="258" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_1_222" id1="Dummy_File_69661" volume="1" start="247" page_number="222" standard_reporter="F.3D" citation_global_level_id="133511.001" line="3" id="116372_12" citation_local_level_id="2" >1 F. 3d 222</CITATION>
+
+<RELATION theme="116372_1" includes_docket_string="93-805" includes_docket="116372_2" theme_string="510 U.S. 1073" gram_type="apposition" relation_type="asymmetric" id="116372_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1073" X_vs_Y_string="Wolsky v. Medical College of Hampton Roads" standard_case="116372_1" X_vs_Y="116372_3" gram_type="pre_nom" relation_type="equivalence" id="116372_7" ></RELATION>
+
+<RELATION theme="116372_3" includes_docket_string="93-805" includes_docket="116372_2" theme_string="Wolsky v. Medical College of Hampton Roads" gram_type="apposition" relation_type="asymmetric" id="116372_10" ></RELATION>
+
+<RELATION theme="116372_3" party1="116372_4" party1_string="Wolsky" theme_string="Wolsky v. Medical College of Hampton Roads" gram_type="infix" relation_type="asymmetric" id="116372_8" ></RELATION>
+
+<RELATION party2="116372_5" theme="116372_3" theme_string="Wolsky v. Medical College of Hampton Roads" party2_string="Medical College of Hampton Roads" gram_type="infix" relation_type="asymmetric" id="116372_9" ></RELATION>
+

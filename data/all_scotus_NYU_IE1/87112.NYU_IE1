@@ -1,0 +1,70 @@
+<CITATION alternative_keys="['plattjerome#1', 'how._19_384']" end="19" reporter="U.S." entry_type="standard_key" lookup_key="u.s._60_384" id1="87112" volume="60" start="1" page_number="384" standard_reporter="U.S." citation_global_level_id="45089.002" line="2" id="87112_1" citation_local_level_id="0" >60 U.S. 384 (____)</CITATION>
+
+<CITATION alternative_keys="['u.s._60_384', 'plattjerome#1']" end="31" reporter="How." entry_type="standard_key" lookup_key="how._19_384" id1="87112" volume="19" start="20" page_number="384" standard_reporter="HOW." citation_global_level_id="45089.003" line="3" id="87112_2" citation_local_level_id="1" >19 How. 384</CITATION>
+
+<CITATION party2="CHAUNCEY JEROME" alternative_keys="['u.s._60_384', 'how._19_384']" party1="OBADIAH H. PLATT," end="90" party1_short="PLATT" entry_type="party_key" party1_role="plaintiff in error" lookup_key="plattjerome#1" id1="87112" start="32" citation_global_level_id="45089.001" party2_short="JEROME" line="6" id="87112_8" citation_local_level_id="2" >OBADIAH H. PLATT, PLAINTIFF IN ERROR, v. CHAUNCEY JEROME</CITATION>
+
+<NAME end="49" start="32" party1_of="87112_8" all_names="OBADIAH H PLATT" local_name_id="1" id="87112_9" >OBADIAH H. PLATT,</NAME>
+
+<LEGAL_ROLE start="50" end="68" id="87112_11" >PLAINTIFF IN ERROR</LEGAL_ROLE>
+
+<LEGAL_ROLE start="50" end="59" id="87112_12" >PLAINTIFF</LEGAL_ROLE>
+
+<NAME end="90" start="75" all_names="CHAUNCEY JEROME	JEROME" party2_of="87112_8" local_name_id="2" id="87112_10" >CHAUNCEY JEROME</NAME>
+
+<ORGANIZATION start="92" end="122" id="87112_15" >Supreme Court of United States</ORGANIZATION>
+
+<NAME start="125" local_name_id="3" end="137" id="87112_18" all_names="MR COLLAMER" >Mr. Collamer</NAME>
+
+<LEGAL_ROLE start="139" local_name_id="4" end="164" id="87112_19" name="Mr. Collamer" >counsel for the plaintiff</LEGAL_ROLE>
+
+<NAME start="175" local_name_id="5" end="193" id="87112_21" all_names="MR JUSTICE NELSON" >Mr. Justice NELSON</NAME>
+
+<PROFESSION start="179" end="186" id="87112_22" >Justice</PROFESSION>
+
+<ORGANIZATION start="223" end="228" id="87112_23" >court</ORGANIZATION>
+
+<LEGAL_ROLE start="265" end="291" id="87112_24" >attorney for the defendant</LEGAL_ROLE>
+
+<LEGAL_ROLE start="444" end="453" id="87112_25" >defendant</LEGAL_ROLE>
+
+<NAME start="455" local_name_id="2" end="461" id="87112_26" all_names="CHAUNCEY JEROME	JEROME" >Jerome</NAME>
+
+<ORGANIZATION start="470" end="475" id="87112_27" >court</ORGANIZATION>
+
+<LEGAL_ROLE start="517" end="526" id="87112_28" >plaintiff</LEGAL_ROLE>
+
+<PROFESSION start="562" end="570" id="87112_29" >attorney</PROFESSION>
+
+<ORGANIZATION start="693" end="698" id="87112_30" >court</ORGANIZATION>
+
+<LEGAL_ROLE start="740" end="749" id="87112_31" >plaintiff</LEGAL_ROLE>
+
+<ORGANIZATION start="844" end="849" id="87112_32" >court</ORGANIZATION>
+
+<ORGANIZATION start="1192" end="1197" id="87112_33" >court</ORGANIZATION>
+
+<NAME start="1351" local_name_id="2" end="1357" id="87112_34" all_names="CHAUNCEY JEROME	JEROME" >Jerome</NAME>
+
+<ORGANIZATION start="1436" end="1441" id="87112_35" >court</ORGANIZATION>
+
+<PROFESSION start="1472" end="1480" id="87112_36" >attorney</PROFESSION>
+
+<ORGANIZATION start="1576" end="1581" id="87112_37" >court</ORGANIZATION>
+
+<PROFESSION start="1859" end="1865" id="87112_38" >client</PROFESSION>
+
+<PROFESSION start="1954" end="1962" id="87112_39" >attorney</PROFESSION>
+
+<RELATION theme="87112_8" party1="87112_9" party1_string="OBADIAH H. PLATT," theme_string="OBADIAH H. PLATT, PLAINTIFF IN ERROR,  v.  CHAUNCEY JEROME" gram_type="infix" relation_type="asymmetric" id="87112_13" ></RELATION>
+
+<RELATION party2="87112_10" theme="87112_8" theme_string="OBADIAH H. PLATT, PLAINTIFF IN ERROR,  v.  CHAUNCEY JEROME" party2_string="CHAUNCEY JEROME" gram_type="infix" relation_type="asymmetric" id="87112_14" ></RELATION>
+
+<RELATION standard_case_string="60 U.S. 384 (____)" X_vs_Y_string="OBADIAH H. PLATT, PLAINTIFF IN ERROR,  v.  CHAUNCEY JEROME" standard_case="87112_1" X_vs_Y="87112_8" gram_type="multi_line" relation_type="equivalence" id="87112_16" ></RELATION>
+
+<RELATION standard_case_string="19 How. 384" X_vs_Y_string="OBADIAH H. PLATT, PLAINTIFF IN ERROR,  v.  CHAUNCEY JEROME" standard_case="87112_2" X_vs_Y="87112_8" gram_type="multi_line" relation_type="equivalence" id="87112_17" ></RELATION>
+
+<RELATION theme="87112_18" legal_role="87112_19" id="87112_20" theme_string="Mr. Collamer" gram_type="apposition" relation_type="asymmetric" legal_role_string="counsel for the plaintiff" ></RELATION>
+
+<NAME local_name_id="4" from="from_legal_role" name="MR COLLAMER" >MR COLLAMER</NAME>
+

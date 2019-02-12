@@ -1,0 +1,42 @@
+<CITATION alternative_keys="['companyturrill#1']" end="20" reporter="U.S." entry_type="standard_key" lookup_key="u.s._101_836" id1="90202" volume="101" start="1" page_number="836" standard_reporter="U.S." citation_global_level_id="24428.002" line="2" id="90202_1" citation_local_level_id="0" >101 U.S. 836 (____)</CITATION>
+
+<CITATION party2="TURRILL" party1="RAILROAD COMPANY" citation_global_level_id="56375.004" party2_short="TURRILL" line="5" id="90202_4" alternative_keys="['l.ed._24_238', 'u.s._94_695']" end="50" entry_type="party_key" lookup_key="companyturrill#1" id1="89533" start="21" party1_short="COMPANY" citation_local_level_id="1" >RAILROAD COMPANY v. TURRILL</CITATION>
+
+<NAME end="37" start="21" party1_of="90202_4" all_names="RAILROAD COMPANY" local_name_id="1" id="90202_5" >RAILROAD COMPANY</NAME>
+
+<NAME end="50" start="43" all_names="TURRILL" party2_of="90202_4" local_name_id="2" id="90202_6" >TURRILL</NAME>
+
+<ORGANIZATION start="52" end="82" id="90202_9" >Supreme Court of United States</ORGANIZATION>
+
+<LEGAL_ROLE start="85" end="142" plural="True" id="90202_11" >Mr. Enoch Totten and Mr. George Payson for the appellants</LEGAL_ROLE>
+
+<ORGANIZATION start="148" end="153" id="90202_12" >court</ORGANIZATION>
+
+<LEGAL_ROLE start="171" end="208" id="90202_13" >Mr. Francis H. Kales for the appellee</LEGAL_ROLE>
+
+<NAME start="210" local_name_id="3" end="212" id="90202_14" all_names="MR" >MR</NAME>
+
+<CITATION end="313" reporter="U.S." entry_type="standard_key" lookup_key="u.s._94_695" id1="89533" volume="94" start="302" page_number="695" standard_reporter="U.S." citation_global_level_id="56375.002" line="11" id="90202_15" citation_local_level_id="2" >94 U.S. 695</CITATION>
+
+<ORGANIZATION start="454" end="485" plural="True" id="90202_16" >courts of the State of Illinois</ORGANIZATION>
+
+<ORGANIZATION start="568" end="573" id="90202_17" >court</ORGANIZATION>
+
+<NAME start="682" local_name_id="4" end="687" id="90202_18" all_names="STATE" >State</NAME>
+
+<ORGANIZATION start="800" end="812" plural="True" id="90202_19" >State courts</ORGANIZATION>
+
+<ORGANIZATION start="839" end="857" plural="True" id="90202_20" >courts of Illinois</ORGANIZATION>
+
+<ORGANIZATION start="1022" end="1035" id="90202_21" >Circuit Court</ORGANIZATION>
+
+<NAME start="1214" local_name_id="4" end="1219" id="90202_22" all_names="STATE" >State</NAME>
+
+<NAME start="1246" local_name_id="5" end="1252" id="90202_23" all_names="DECREE" >Decree</NAME>
+
+<RELATION theme="90202_4" party1="90202_5" party1_string="RAILROAD COMPANY" theme_string="RAILROAD COMPANY  v.  TURRILL" gram_type="infix" relation_type="asymmetric" id="90202_7" ></RELATION>
+
+<RELATION party2="90202_6" theme="90202_4" theme_string="RAILROAD COMPANY  v.  TURRILL" party2_string="TURRILL" gram_type="infix" relation_type="asymmetric" id="90202_8" ></RELATION>
+
+<RELATION standard_case_string="101 U.S. 836 (____)" X_vs_Y_string="RAILROAD COMPANY  v.  TURRILL" standard_case="90202_1" X_vs_Y="90202_4" gram_type="multi_line" relation_type="equivalence" id="90202_10" ></RELATION>
+

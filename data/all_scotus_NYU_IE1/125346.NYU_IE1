@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['departmentfarms#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1046" id1="125345" volume="537" start="0" page_number="1046" standard_reporter="U.S." citation_global_level_id="1550.002" line="1" id="125346_1" citation_local_level_id="0" >537 U.S. 1046</CITATION>
+
+<CITATION party2="FLAT CENTER FARMS, INC" party1="MONTANA DEPARTMENT OF REVENUE" citation_global_level_id="47490.001" party2_short="FARMS" line="1" id="125346_3" alternative_keys="['u.s._537_1046']" end="73" entry_type="party_key" lookup_key="departmentfarms#1" id1="125346" start="18" party1_short="DEPARTMENT" citation_local_level_id="1" >MONTANA DEPARTMENT OF REVENUE v. FLAT CENTER FARMS, INC</CITATION>
+
+<NAME end="47" start="18" party1_of="125346_3" all_names="MONTANA DEPARTMENT OF REVENUE" local_name_id="1" id="125346_4" >MONTANA DEPARTMENT OF REVENUE</NAME>
+
+<NAME end="73" start="51" all_names="FLAT CENTER FARMS INC" party2_of="125346_3" local_name_id="2" id="125346_5" >FLAT CENTER FARMS, INC</NAME>
+
+<DOCKET end="89" entry_type="docket" lookup_key="u.s._537_1046" id1="125345" start="83" citation_global_level_id="1550.002" line="1" id="125346_2" citation_local_level_id="0" >02-464</DOCKET>
+
+<DATE start="131" end="147" id="125346_6" >December 2, 2002</DATE>
+
+<NAME start="238" local_name_id="3" end="241" id="125346_13" all_names="SUP" >Sup</NAME>
+
+<CITATION end="315" reporter="P. 3d" entry_type="standard_key" no_current_file="True" lookup_key="p.3d_49_578" id1="Dummy_File_137533" volume="49" start="303" page_number="578" standard_reporter="P.3D" citation_global_level_id="201383.001" line="3" id="125346_12" citation_local_level_id="2" >49 P. 3d 578</CITATION>
+
+<RELATION theme="125346_1" includes_docket_string="02-464" includes_docket="125346_2" theme_string="537 U.S. 1046" gram_type="apposition" relation_type="asymmetric" id="125346_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1046" X_vs_Y_string="MONTANA DEPARTMENT OF REVENUE v. FLAT CENTER FARMS, INC" standard_case="125346_1" X_vs_Y="125346_3" gram_type="pre_nom" relation_type="equivalence" id="125346_7" ></RELATION>
+
+<RELATION theme="125346_3" includes_docket_string="02-464" includes_docket="125346_2" theme_string="MONTANA DEPARTMENT OF REVENUE v. FLAT CENTER FARMS, INC" gram_type="apposition" relation_type="asymmetric" id="125346_10" ></RELATION>
+
+<RELATION theme="125346_3" party1="125346_4" party1_string="MONTANA DEPARTMENT OF REVENUE" theme_string="MONTANA DEPARTMENT OF REVENUE v. FLAT CENTER FARMS, INC" gram_type="infix" relation_type="asymmetric" id="125346_8" ></RELATION>
+
+<RELATION party2="125346_5" theme="125346_3" theme_string="MONTANA DEPARTMENT OF REVENUE v. FLAT CENTER FARMS, INC" party2_string="FLAT CENTER FARMS, INC" gram_type="infix" relation_type="asymmetric" id="125346_9" ></RELATION>
+

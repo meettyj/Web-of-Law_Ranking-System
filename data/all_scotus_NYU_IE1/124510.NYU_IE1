@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['ironsreef#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_975" id1="124509" volume="537" start="0" page_number="975" standard_reporter="U.S." citation_global_level_id="3532.002" line="1" id="124510_1" citation_local_level_id="0" >537 U.S. 975</CITATION>
+
+<CITATION party2="ASOCIACION DE PROPIETARIOS DE LA URBANIZACION DORADO REEF, INC" party1="IRONS" citation_global_level_id="7868.004" party2_short="REEF" line="1" id="124510_3" alternative_keys="['u.s._537_879']" end="88" entry_type="party_key" lookup_key="ironsreef#1" id1="123254" start="17" party1_short="IRONS" citation_local_level_id="1" >IRONS v. ASOCIACION DE PROPIETARIOS DE LA URBANIZACION DORADO REEF, INC</CITATION>
+
+<NAME end="22" start="17" party1_of="124510_3" all_names="IRONS" local_name_id="1" id="124510_4" >IRONS</NAME>
+
+<NAME end="88" start="26" all_names="ASOCIACION DE PROPIETARIOS DE LA URBANIZACION DORADO REEF INC" party2_of="124510_3" local_name_id="2" id="124510_5" >ASOCIACION DE PROPIETARIOS DE LA URBANIZACION DORADO REEF, INC</NAME>
+
+<DOCKET end="104" entry_type="docket" lookup_key="u.s._537_975" id1="124509" start="98" citation_global_level_id="3532.002" line="1" id="124510_2" citation_local_level_id="0" >02-335</DOCKET>
+
+<DATE start="146" end="162" id="124510_6" >October 21, 2002</DATE>
+
+<NAME start="274" local_name_id="3" end="276" id="124510_13" all_names="CT" >Ct</NAME>
+
+<CITATION end="338" reporter="A. 2d" entry_type="standard_key" no_current_file="True" lookup_key="a.2d_797_1260" id1="Dummy_File_129314" volume="797" start="324" page_number="1260" standard_reporter="A.2D" citation_global_level_id="193164.001" line="3" id="124510_12" citation_local_level_id="2" >797 A. 2d 1260</CITATION>
+
+<RELATION theme="124510_1" includes_docket_string="02-335" includes_docket="124510_2" theme_string="537 U.S. 975" gram_type="apposition" relation_type="asymmetric" id="124510_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 975" X_vs_Y_string="IRONS v. ASOCIACION DE PROPIETARIOS DE LA URBANIZACION DORADO REEF, INC" standard_case="124510_1" X_vs_Y="124510_3" gram_type="pre_nom" relation_type="equivalence" id="124510_7" ></RELATION>
+
+<RELATION theme="124510_3" includes_docket_string="02-335" includes_docket="124510_2" theme_string="IRONS v. ASOCIACION DE PROPIETARIOS DE LA URBANIZACION DORADO REEF, INC" gram_type="apposition" relation_type="asymmetric" id="124510_10" ></RELATION>
+
+<RELATION theme="124510_3" party1="124510_4" party1_string="IRONS" theme_string="IRONS v. ASOCIACION DE PROPIETARIOS DE LA URBANIZACION DORADO REEF, INC" gram_type="infix" relation_type="asymmetric" id="124510_8" ></RELATION>
+
+<RELATION party2="124510_5" theme="124510_3" theme_string="IRONS v. ASOCIACION DE PROPIETARIOS DE LA URBANIZACION DORADO REEF, INC" party2_string="ASOCIACION DE PROPIETARIOS DE LA URBANIZACION DORADO REEF, INC" gram_type="infix" relation_type="asymmetric" id="124510_9" ></RELATION>
+

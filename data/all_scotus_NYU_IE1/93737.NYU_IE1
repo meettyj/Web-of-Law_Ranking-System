@@ -1,0 +1,62 @@
+<CITATION alternative_keys="['hammondgordon#1', 'hammondcompany#1']" end="20" reporter="U.S." entry_type="standard_key" lookup_key="u.s._150_633" id1="93737" volume="150" start="1" page_number="633" year="1893" standard_reporter="U.S." citation_global_level_id="20745.002" line="2" id="93737_1" citation_local_level_id="0" >150 U.S. 633 (1893)</CITATION>
+
+<DATE start="15" citation_global_level_id="20745.002" end="19" id="93737_2" citation_local_level_id="0" >1893</DATE>
+
+<CITATION party2="CONNECTICUT MUTUAL LIFE INSURANCE COMPANY" party1="HAMMOND" citation_global_level_id="20745.004" party2_short="COMPANY" line="5" id="93737_5" alternative_keys="['hammondgordon#1', 'u.s._150_633']" end="75" entry_type="party_key" lookup_key="hammondcompany#1" id1="93737" start="21" party1_short="HAMMOND" citation_local_level_id="1" >HAMMOND v. CONNECTICUT MUTUAL LIFE INSURANCE COMPANY</CITATION>
+
+<NAME end="28" start="21" party1_of="93737_5" all_names="HAMMOND" local_name_id="1" id="93737_6" >HAMMOND</NAME>
+
+<NAME end="75" start="34" all_names="CONNECTICUT MUTUAL LIFE INSURANCE COMPANY" party2_of="93737_5" local_name_id="2" id="93737_7" >CONNECTICUT MUTUAL LIFE INSURANCE COMPANY</NAME>
+
+<CITATION party2="GORDON" party1="HAMMOND" citation_global_level_id="20745.003" party2_short="GORDON" line="8" id="93737_11" alternative_keys="['hammondcompany#1', 'u.s._150_633']" end="97" entry_type="party_key" lookup_key="hammondgordon#1" id1="93737" start="78" party1_short="HAMMOND" citation_local_level_id="2" >HAMMOND v. GORDON</CITATION>
+
+<NAME end="85" start="78" party1_of="93737_11" all_names="HAMMOND" local_name_id="1" id="93737_12" >HAMMOND</NAME>
+
+<NAME end="97" start="91" all_names="GORDON" party2_of="93737_11" local_name_id="3" id="93737_13" >GORDON</NAME>
+
+<ORGANIZATION start="114" end="144" id="93737_18" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="156" end="173" id="93737_19" >December 11, 1893</DATE>
+
+<NAME start="175" local_name_id="4" end="182" id="93737_21" all_names="DECIDED" >Decided</NAME>
+
+<DATE start="183" end="200" id="93737_20" >December 18, 1893</DATE>
+
+<ORGANIZATION start="202" end="253" id="93737_22" >ERROR TO THE SUPREME COURT OF THE STATE OF MISSOURI</ORGANIZATION>
+
+<NAME start="260" local_name_id="5" end="278" id="93737_23" all_names="MR JB HENDERSON" >Mr. J.B. Henderson</NAME>
+
+<LEGAL_ROLE start="288" end="298" plural="True" id="93737_24" >defendants</LEGAL_ROLE>
+
+<NAME start="309" local_name_id="6" end="346" id="93737_25" all_names="MR DT JEWETT AND MR LEVERETT BELL" >Mr. D.T. Jewett and Mr. Leverett Bell</NAME>
+
+<PROFESSION start="361" end="374" id="93737_26" >CHIEF JUSTICE</PROFESSION>
+
+<CITATION party2="Johnston" party1="Hammond" citation_global_level_id="28089.001" party2_short="Johnston" line="17" id="93737_28" alternative_keys="['u.s._142_73']" end="450" entry_type="party_key" lookup_key="hammondjohnston#1" id1="93198" start="431" party1_short="Hammond" citation_local_level_id="3" >Hammond v. Johnston</CITATION>
+
+<NAME end="438" start="431" party1_of="93737_28" all_names="HAMMOND" local_name_id="1" id="93737_29" >Hammond</NAME>
+
+<NAME end="450" start="442" all_names="JOHNSTON" party2_of="93737_28" local_name_id="7" id="93737_30" >Johnston</NAME>
+
+<CITATION alternative_keys="['hammondjohnston#1']" end="463" reporter="U.S." entry_type="standard_key" lookup_key="u.s._142_73" id1="93198" volume="142" start="452" page_number="73" standard_reporter="U.S." citation_global_level_id="28089.002" line="17" id="93737_27" citation_local_level_id="4" >142 U.S. 73</CITATION>
+
+<RELATION at_date_string="1893" theme="93737_1" at_date="93737_2" theme_string="150 U.S. 633 (1893)" gram_type="infix" relation_type="asymmetric" id="93737_3" ></RELATION>
+
+<RELATION theme="93737_5" party1="93737_6" party1_string="HAMMOND" theme_string="HAMMOND  v.  CONNECTICUT MUTUAL LIFE INSURANCE COMPANY" gram_type="infix" relation_type="asymmetric" id="93737_8" ></RELATION>
+
+<RELATION party2="93737_7" theme="93737_5" theme_string="HAMMOND  v.  CONNECTICUT MUTUAL LIFE INSURANCE COMPANY" party2_string="CONNECTICUT MUTUAL LIFE INSURANCE COMPANY" gram_type="infix" relation_type="asymmetric" id="93737_9" ></RELATION>
+
+<RELATION theme="93737_11" party1="93737_12" party1_string="HAMMOND" theme_string="HAMMOND  v.  GORDON" gram_type="infix" relation_type="asymmetric" id="93737_14" ></RELATION>
+
+<RELATION party2="93737_13" theme="93737_11" theme_string="HAMMOND  v.  GORDON" party2_string="GORDON" gram_type="infix" relation_type="asymmetric" id="93737_15" ></RELATION>
+
+<RELATION standard_case_string="150 U.S. 633 (1893)" X_vs_Y_string="HAMMOND  v.  GORDON" standard_case="93737_1" X_vs_Y="93737_11" gram_type="multi_line" relation_type="equivalence" id="93737_17" ></RELATION>
+
+<RELATION standard_case_string="150 U.S. 633 (1893)" X_vs_Y_string="HAMMOND  v.  CONNECTICUT MUTUAL LIFE INSURANCE COMPANY" standard_case="93737_1" X_vs_Y="93737_5" gram_type="multi_line" relation_type="equivalence" id="93737_16" ></RELATION>
+
+<RELATION standard_case_string="142 U.S. 73" X_vs_Y_string="Hammond v. Johnston" standard_case="93737_27" X_vs_Y="93737_28" gram_type="apposition" relation_type="equivalence" id="93737_33" ></RELATION>
+
+<RELATION theme="93737_28" party1="93737_29" party1_string="Hammond" theme_string="Hammond v. Johnston" gram_type="infix" relation_type="asymmetric" id="93737_31" ></RELATION>
+
+<RELATION party2="93737_30" theme="93737_28" theme_string="Hammond v. Johnston" party2_string="Johnston" gram_type="infix" relation_type="asymmetric" id="93737_32" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['boardwilson#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1097" id1="120824" volume="535" start="0" page_number="1097" standard_reporter="U.S." citation_global_level_id="763.002" line="1" id="120816_1" citation_local_level_id="0" >535 U.S. 1097</CITATION>
+
+<CITATION party2="WILSON ET AL" party1="CLAY COUNTY SCHOOL BOARD ET AL." citation_global_level_id="39204.001" party2_short="WILSON" line="2" id="120816_2" alternative_keys="['u.s._535_1097']" end="65" entry_type="party_key" lookup_key="boardwilson#1" id1="120816" start="18" party1_short="BOARD" citation_local_level_id="1" >CLAY COUNTY SCHOOL BOARD ET AL. v. WILSON ET AL</CITATION>
+
+<NAME end="49" start="18" party1_of="120816_2" all_names="CLAY COUNTY SCHOOL BOARD" local_name_id="1" id="120816_3" >CLAY COUNTY SCHOOL BOARD ET AL.</NAME>
+
+<ORGANIZATION start="18" end="42" id="120816_5" >CLAY COUNTY SCHOOL BOARD</ORGANIZATION>
+
+<NAME end="65" start="53" all_names="WILSON" party2_of="120816_2" local_name_id="2" id="120816_4" >WILSON ET AL</NAME>
+
+<DOCKET end="82" entry_type="docket" lookup_key="boardwilson#1" id1="120816" start="75" citation_global_level_id="39204.001" line="3" id="120816_8" citation_local_level_id="1" >01-1507</DOCKET>
+
+<DATE start="128" citation_global_level_id="39204.001" end="140" id="120816_9" citation_local_level_id="1" >May 28, 2002</DATE>
+
+<NAME start="173" local_name_id="3" end="176" id="120816_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="120816_2" party1="120816_3" party1_string="CLAY COUNTY SCHOOL BOARD ET AL." theme_string="CLAY COUNTY SCHOOL BOARD ET AL. v. WILSON ET AL" gram_type="infix" relation_type="asymmetric" id="120816_6" ></RELATION>
+
+<RELATION party2="120816_4" theme="120816_2" theme_string="CLAY COUNTY SCHOOL BOARD ET AL. v. WILSON ET AL" party2_string="WILSON ET AL" gram_type="infix" relation_type="asymmetric" id="120816_7" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1097" X_vs_Y_string="CLAY COUNTY SCHOOL BOARD ET AL. v. WILSON ET AL" standard_case="120816_1" X_vs_Y="120816_2" gram_type="multi_line" relation_type="equivalence" id="120816_10" ></RELATION>
+
+<RELATION at_date_string="May 28, 2002" theme="120816_2" at_date="120816_9" theme_string="CLAY COUNTY SCHOOL BOARD ET AL. v. WILSON ET AL" gram_type="multi_line" relation_type="asymmetric" id="120816_12" ></RELATION>
+
+<RELATION theme="120816_2" includes_docket_string="01-1507" includes_docket="120816_8" theme_string="CLAY COUNTY SCHOOL BOARD ET AL. v. WILSON ET AL" gram_type="multi_line" relation_type="asymmetric" id="120816_11" ></RELATION>
+

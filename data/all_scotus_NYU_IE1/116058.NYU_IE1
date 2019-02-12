@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['arceneauxstates#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1050" id1="116052" volume="510" start="0" page_number="1050" standard_reporter="U.S." citation_global_level_id="1627.002" line="1" id="116058_1" citation_local_level_id="0" >510 U.S. 1050</CITATION>
+
+<CITATION party2="United States" party1="Arceneaux" citation_global_level_id="49476.001" party2_short="States" line="1" id="116058_3" alternative_keys="['u.s._510_1050']" end="44" entry_type="party_key" lookup_key="arceneauxstates#2" id1="123808" start="18" party1_short="Arceneaux" citation_local_level_id="1" >Arceneaux v. United States</CITATION>
+
+<NAME end="27" start="18" party1_of="116058_3" all_names="ARCENEAUX" local_name_id="1" id="116058_4" >Arceneaux</NAME>
+
+<NAME end="44" start="31" all_names="UNITED STATES" party2_of="116058_3" local_name_id="2" id="116058_5" >United States</NAME>
+
+<DOCKET end="61" entry_type="docket" lookup_key="u.s._510_1050" id1="116052" start="54" citation_global_level_id="1627.002" line="1" id="116058_2" citation_local_level_id="0" >93-6345</DOCKET>
+
+<DATE start="103" end="119" id="116058_6" >January 10, 1994</DATE>
+
+<NAME start="196" local_name_id="3" end="206" id="116058_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="243" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_5_1491" id1="Dummy_File_165430" volume="5" start="231" page_number="1491" standard_reporter="F.3D" citation_global_level_id="229280.001" line="3" id="116058_12" citation_local_level_id="2" >5 F. 3d 1491</CITATION>
+
+<RELATION theme="116058_1" includes_docket_string="93-6345" includes_docket="116058_2" theme_string="510 U.S. 1050" gram_type="apposition" relation_type="asymmetric" id="116058_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1050" X_vs_Y_string="Arceneaux v. United States" standard_case="116058_1" X_vs_Y="116058_3" gram_type="pre_nom" relation_type="equivalence" id="116058_7" ></RELATION>
+
+<RELATION theme="116058_3" includes_docket_string="93-6345" includes_docket="116058_2" theme_string="Arceneaux v. United States" gram_type="apposition" relation_type="asymmetric" id="116058_10" ></RELATION>
+
+<RELATION theme="116058_3" party1="116058_4" party1_string="Arceneaux" theme_string="Arceneaux v. United States" gram_type="infix" relation_type="asymmetric" id="116058_8" ></RELATION>
+
+<RELATION party2="116058_5" theme="116058_3" theme_string="Arceneaux v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="116058_9" ></RELATION>
+

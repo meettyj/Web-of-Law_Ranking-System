@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['crisleret#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1197" id1="117640" volume="510" start="0" page_number="1197" standard_reporter="U.S." citation_global_level_id="9901.002" line="1" id="117633_1" citation_local_level_id="0" >510 U.S. 1197</CITATION>
+
+<CITATION party2="Frank et al" party1="Crisler" citation_global_level_id="9901.003" party2_short="et" line="1" id="117633_3" alternative_keys="['u.s._510_1197']" end="40" entry_type="party_key" lookup_key="crisleret#1" id1="117640" start="18" party1_short="Crisler" citation_local_level_id="1" >Crisler v. Frank et al</CITATION>
+
+<NAME end="25" start="18" party1_of="117633_3" all_names="CRISLER" local_name_id="1" id="117633_4" >Crisler</NAME>
+
+<NAME end="40" start="29" all_names="FRANK" party2_of="117633_3" local_name_id="2" id="117633_5" >Frank et al</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._510_1197" id1="117640" start="50" citation_global_level_id="9901.002" line="1" id="117633_2" citation_local_level_id="0" >93-1355</DOCKET>
+
+<DATE start="99" end="113" id="117633_6" >March 21, 1994</DATE>
+
+<NAME start="191" local_name_id="3" end="201" id="117633_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="237" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_9_114" id1="Dummy_File_18905" volume="9" start="226" page_number="114" standard_reporter="F.3D" citation_global_level_id="82755.001" line="3" id="117633_12" citation_local_level_id="2" >9 F. 3d 114</CITATION>
+
+<RELATION theme="117633_1" includes_docket_string="93-1355" includes_docket="117633_2" theme_string="510 U.S. 1197" gram_type="apposition" relation_type="asymmetric" id="117633_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1197" X_vs_Y_string="Crisler v. Frank et al" standard_case="117633_1" X_vs_Y="117633_3" gram_type="pre_nom" relation_type="equivalence" id="117633_7" ></RELATION>
+
+<RELATION theme="117633_3" includes_docket_string="93-1355" includes_docket="117633_2" theme_string="Crisler v. Frank et al" gram_type="apposition" relation_type="asymmetric" id="117633_10" ></RELATION>
+
+<RELATION theme="117633_3" party1="117633_4" party1_string="Crisler" theme_string="Crisler v. Frank et al" gram_type="infix" relation_type="asymmetric" id="117633_8" ></RELATION>
+
+<RELATION party2="117633_5" theme="117633_3" theme_string="Crisler v. Frank et al" party2_string="Frank et al" gram_type="infix" relation_type="asymmetric" id="117633_9" ></RELATION>
+

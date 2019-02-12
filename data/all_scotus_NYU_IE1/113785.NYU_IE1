@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['lawmasterstates#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_870" id1="113787" volume="510" start="0" page_number="870" standard_reporter="U.S." citation_global_level_id="7569.002" line="1" id="113785_1" citation_local_level_id="0" >510 U.S. 870</CITATION>
+
+<CITATION party2="United States" party1="Lawmaster" citation_global_level_id="11183.001" party2_short="States" line="1" id="113785_3" alternative_keys="['u.s._510_870']" end="43" entry_type="party_key" lookup_key="lawmasterstates#1" id1="113785" start="17" party1_short="Lawmaster" citation_local_level_id="1" >Lawmaster v. United States</CITATION>
+
+<NAME end="26" start="17" party1_of="113785_3" all_names="LAWMASTER" local_name_id="1" id="113785_4" >Lawmaster</NAME>
+
+<NAME end="43" start="30" all_names="UNITED STATES" party2_of="113785_3" local_name_id="2" id="113785_5" >United States</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="u.s._510_870" id1="113787" start="53" citation_global_level_id="7569.002" line="1" id="113785_2" citation_local_level_id="0" >93-267</DOCKET>
+
+<DATE start="101" end="116" id="113785_6" >October 4, 1993</DATE>
+
+<NAME start="195" local_name_id="3" end="205" id="113785_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="243" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_993_773" id1="Dummy_File_61464" volume="993" start="230" page_number="773" standard_reporter="F.2D" citation_global_level_id="125314.001" line="3" id="113785_12" citation_local_level_id="2" >993 F. 2d 773</CITATION>
+
+<RELATION theme="113785_1" includes_docket_string="93-267" includes_docket="113785_2" theme_string="510 U.S. 870" gram_type="apposition" relation_type="asymmetric" id="113785_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 870" X_vs_Y_string="Lawmaster v. United States" standard_case="113785_1" X_vs_Y="113785_3" gram_type="pre_nom" relation_type="equivalence" id="113785_7" ></RELATION>
+
+<RELATION theme="113785_3" includes_docket_string="93-267" includes_docket="113785_2" theme_string="Lawmaster v. United States" gram_type="apposition" relation_type="asymmetric" id="113785_10" ></RELATION>
+
+<RELATION theme="113785_3" party1="113785_4" party1_string="Lawmaster" theme_string="Lawmaster v. United States" gram_type="infix" relation_type="asymmetric" id="113785_8" ></RELATION>
+
+<RELATION party2="113785_5" theme="113785_3" theme_string="Lawmaster v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="113785_9" ></RELATION>
+

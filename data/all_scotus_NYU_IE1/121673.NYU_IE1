@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['clarkmoore#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._536_944" id1="121685" volume="536" start="0" page_number="944" standard_reporter="U.S." citation_global_level_id="425.002" line="1" id="121673_1" citation_local_level_id="0" >536 U.S. 944</CITATION>
+
+<CITATION party2="MOORE, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS" party1="CLARK" citation_global_level_id="493.004" party2_short="MOORE" line="2" id="121673_2" alternative_keys="['u.s._537_836']" end="77" entry_type="party_key" lookup_key="clarkmoore#1" id1="122689" start="17" party1_short="CLARK" citation_local_level_id="1" >CLARK v. MOORE, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS</CITATION>
+
+<NAME end="22" start="17" party1_of="121673_2" all_names="CLARK" local_name_id="1" id="121673_3" >CLARK</NAME>
+
+<NAME end="77" start="26" all_names="MOORE SECRETARY FLORIDA DEPARTMENT OF CORRECTIONS" party2_of="121673_2" local_name_id="2" id="121673_4" >MOORE, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS</NAME>
+
+<DOCKET alternative_keys="['u.s._537_836']" end="94" entry_type="docket" lookup_key="clarkmoore#1" id1="122689" start="87" citation_global_level_id="493.004" line="3" id="121673_7" citation_local_level_id="1" >01-9778</DOCKET>
+
+<DATE start="140" citation_global_level_id="493.004" end="153" id="121673_8" citation_local_level_id="1" >June 24, 2002</DATE>
+
+<NAME start="186" local_name_id="3" end="189" id="121673_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="121673_2" party1="121673_3" party1_string="CLARK" theme_string="CLARK v. MOORE, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS" gram_type="infix" relation_type="asymmetric" id="121673_5" ></RELATION>
+
+<RELATION party2="121673_4" theme="121673_2" theme_string="CLARK v. MOORE, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS" party2_string="MOORE, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS" gram_type="infix" relation_type="asymmetric" id="121673_6" ></RELATION>
+
+<RELATION standard_case_string="536 U.S. 944" X_vs_Y_string="CLARK v. MOORE, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS" standard_case="121673_1" X_vs_Y="121673_2" gram_type="multi_line" relation_type="equivalence" id="121673_9" ></RELATION>
+
+<RELATION at_date_string="June 24, 2002" theme="121673_2" at_date="121673_8" theme_string="CLARK v. MOORE, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS" gram_type="multi_line" relation_type="asymmetric" id="121673_11" ></RELATION>
+
+<RELATION theme="121673_2" includes_docket_string="01-9778" includes_docket="121673_7" theme_string="CLARK v. MOORE, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS" gram_type="multi_line" relation_type="asymmetric" id="121673_10" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['ventricestates#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_994" id1="144122" volume="544" start="0" page_number="994" standard_reporter="U.S." citation_global_level_id="9167.002" line="1" id="144124_1" citation_local_level_id="0" >544 U.S. 994</CITATION>
+
+<CITATION party2="UNITED STATES" party1="VENTRICE" citation_global_level_id="59865.001" party2_short="STATES" line="2" id="144124_2" alternative_keys="['u.s._544_994']" end="42" entry_type="party_key" lookup_key="ventricestates#2" id1="142842" start="17" party1_short="VENTRICE" citation_local_level_id="1" >VENTRICE v. UNITED STATES</CITATION>
+
+<NAME end="25" start="17" party1_of="144124_2" all_names="VENTRICE" local_name_id="1" id="144124_3" >VENTRICE</NAME>
+
+<NAME end="42" start="29" all_names="UNITED STATES" party2_of="144124_2" local_name_id="2" id="144124_4" >UNITED STATES</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="ventricestates#2" id1="142842" start="52" citation_global_level_id="59865.001" line="3" id="144124_7" citation_local_level_id="1" >04-8375</DOCKET>
+
+<ORGANIZATION start="65" end="95" id="144124_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="101" citation_global_level_id="59865.001" end="115" id="144124_9" citation_local_level_id="1" >April 18, 2005</DATE>
+
+<NAME start="137" local_name_id="3" end="145" id="144124_13" all_names="PETITION" >Petition</NAME>
+
+<RELATION theme="144124_2" party1="144124_3" party1_string="VENTRICE" theme_string="VENTRICE v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="144124_5" ></RELATION>
+
+<RELATION party2="144124_4" theme="144124_2" theme_string="VENTRICE v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="144124_6" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 994" X_vs_Y_string="VENTRICE v. UNITED STATES" standard_case="144124_1" X_vs_Y="144124_2" gram_type="multi_line" relation_type="equivalence" id="144124_10" ></RELATION>
+
+<RELATION at_date_string="April 18, 2005" theme="144124_2" at_date="144124_9" theme_string="VENTRICE v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="144124_12" ></RELATION>
+
+<RELATION theme="144124_2" includes_docket_string="04-8375" includes_docket="144124_7" theme_string="VENTRICE v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="144124_11" ></RELATION>
+

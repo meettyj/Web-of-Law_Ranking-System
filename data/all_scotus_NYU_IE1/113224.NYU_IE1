@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['pinderstates#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_828" id1="113221" volume="510" start="0" page_number="828" standard_reporter="U.S." citation_global_level_id="2021.002" line="1" id="113224_1" citation_local_level_id="0" >510 U.S. 828</CITATION>
+
+<CITATION party2="United States" party1="Pinder" citation_global_level_id="6757.001" party2_short="States" line="1" id="113224_3" alternative_keys="['u.s._510_828']" end="40" entry_type="party_key" lookup_key="pinderstates#1" id1="113224" start="17" party1_short="Pinder" citation_local_level_id="1" >Pinder v. United States</CITATION>
+
+<NAME end="23" start="17" party1_of="113224_3" all_names="PINDER" local_name_id="1" id="113224_4" >Pinder</NAME>
+
+<NAME end="40" start="27" all_names="UNITED STATES" party2_of="113224_3" local_name_id="2" id="113224_5" >United States</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._510_828" id1="113221" start="50" citation_global_level_id="2021.002" line="1" id="113224_2" citation_local_level_id="0" >92-2053</DOCKET>
+
+<DATE start="53" end="57" id="113224_6" >2053</DATE>
+
+<DATE start="99" end="114" id="113224_7" >October 4, 1993</DATE>
+
+<NAME start="193" local_name_id="3" end="203" id="113224_15" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="241" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_987_773" id1="Dummy_File_140478" volume="987" start="228" page_number="773" standard_reporter="F.2D" citation_global_level_id="204328.001" line="3" id="113224_14" citation_local_level_id="2" >987 F. 2d 773</CITATION>
+
+<RELATION theme="113224_1" includes_docket_string="92-2053" includes_docket="113224_2" theme_string="510 U.S. 828" gram_type="apposition" relation_type="asymmetric" id="113224_12" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 828" X_vs_Y_string="Pinder v. United States" standard_case="113224_1" X_vs_Y="113224_3" gram_type="pre_nom" relation_type="equivalence" id="113224_8" ></RELATION>
+
+<RELATION theme="113224_3" includes_docket_string="92-2053" includes_docket="113224_2" theme_string="Pinder v. United States" gram_type="apposition" relation_type="asymmetric" id="113224_11" ></RELATION>
+
+<RELATION party2="113224_5" theme="113224_3" theme_string="Pinder v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="113224_10" ></RELATION>
+
+<RELATION theme="113224_3" party1="113224_4" party1_string="Pinder" theme_string="Pinder v. United States" gram_type="infix" relation_type="asymmetric" id="113224_9" ></RELATION>
+
+<RELATION at_date_string="2053" theme="113224_2" at_date="113224_6" theme_string="92-2053" gram_type="infix" relation_type="asymmetric" id="113224_13" ></RELATION>
+

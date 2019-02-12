@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['sandersservices#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_896" id1="123478" volume="537" start="0" page_number="896" standard_reporter="U.S." citation_global_level_id="6041.002" line="1" id="123480_1" citation_local_level_id="0" >537 U.S. 896</CITATION>
+
+<CITATION party2="KELLY SERVICES" party1="SANDERS" citation_global_level_id="50527.001" party2_short="SERVICES" line="1" id="123480_3" alternative_keys="['u.s._537_896']" end="42" entry_type="party_key" lookup_key="sandersservices#1" id1="123480" start="17" party1_short="SANDERS" citation_local_level_id="1" >SANDERS v. KELLY SERVICES</CITATION>
+
+<NAME end="24" start="17" party1_of="123480_3" all_names="SANDERS" local_name_id="1" id="123480_4" >SANDERS</NAME>
+
+<NAME end="42" start="28" all_names="KELLY SERVICES" party2_of="123480_3" local_name_id="2" id="123480_5" >KELLY SERVICES</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="u.s._537_896" id1="123478" start="52" citation_global_level_id="6041.002" line="1" id="123480_2" citation_local_level_id="0" >02-5132</DOCKET>
+
+<DATE start="101" end="116" id="123480_6" >October 7, 2002</DATE>
+
+<NAME start="236" local_name_id="3" end="250" id="123480_12" all_names="C A DC CIR" >C. A. D.C. Cir</NAME>
+
+<NAME start="252" local_name_id="4" end="262" id="123480_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="123480_1" includes_docket_string="02-5132" includes_docket="123480_2" theme_string="537 U.S. 896" gram_type="apposition" relation_type="asymmetric" id="123480_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 896" X_vs_Y_string="SANDERS v. KELLY SERVICES" standard_case="123480_1" X_vs_Y="123480_3" gram_type="pre_nom" relation_type="equivalence" id="123480_7" ></RELATION>
+
+<RELATION theme="123480_3" includes_docket_string="02-5132" includes_docket="123480_2" theme_string="SANDERS v. KELLY SERVICES" gram_type="apposition" relation_type="asymmetric" id="123480_10" ></RELATION>
+
+<RELATION theme="123480_3" party1="123480_4" party1_string="SANDERS" theme_string="SANDERS v. KELLY SERVICES" gram_type="infix" relation_type="asymmetric" id="123480_8" ></RELATION>
+
+<RELATION party2="123480_5" theme="123480_3" theme_string="SANDERS v. KELLY SERVICES" party2_string="KELLY SERVICES" gram_type="infix" relation_type="asymmetric" id="123480_9" ></RELATION>
+

@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['spethjersey#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_817" id1="131359" volume="540" start="0" page_number="817" standard_reporter="U.S." citation_global_level_id="4415.002" line="2" id="131354_1" citation_local_level_id="0" >540 U.S. 817</CITATION>
+
+<CITATION party2="NEW JERSEY" party1="SPETH" citation_global_level_id="6885.001" party2_short="JERSEY" line="2" id="131354_3" alternative_keys="['u.s._540_817']" end="36" entry_type="party_key" lookup_key="spethjersey#1" id1="131354" start="17" party1_short="SPETH" citation_local_level_id="1" >SPETH v. NEW JERSEY</CITATION>
+
+<NAME end="22" start="17" party1_of="131354_3" all_names="SPETH" local_name_id="1" id="131354_4" >SPETH</NAME>
+
+<NAME end="36" start="26" all_names="NEW JERSEY" party2_of="131354_3" local_name_id="2" id="131354_5" >NEW JERSEY</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="u.s._540_817" id1="131359" start="46" citation_global_level_id="4415.002" line="2" id="131354_2" citation_local_level_id="0" >02-1708</DOCKET>
+
+<DATE start="49" end="53" id="131354_6" >1708</DATE>
+
+<DATE start="95" end="110" id="131354_7" >October 6, 2003</DATE>
+
+<NAME start="201" local_name_id="3" end="211" id="131354_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="131354_1" includes_docket_string="02-1708" includes_docket="131354_2" theme_string="540 U.S. 817" gram_type="apposition" relation_type="asymmetric" id="131354_12" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 817" X_vs_Y_string="SPETH v. NEW JERSEY" standard_case="131354_1" X_vs_Y="131354_3" gram_type="pre_nom" relation_type="equivalence" id="131354_8" ></RELATION>
+
+<RELATION theme="131354_3" includes_docket_string="02-1708" includes_docket="131354_2" theme_string="SPETH v. NEW JERSEY" gram_type="apposition" relation_type="asymmetric" id="131354_11" ></RELATION>
+
+<RELATION party2="131354_5" theme="131354_3" theme_string="SPETH v. NEW JERSEY" party2_string="NEW JERSEY" gram_type="infix" relation_type="asymmetric" id="131354_10" ></RELATION>
+
+<RELATION theme="131354_3" party1="131354_4" party1_string="SPETH" theme_string="SPETH v. NEW JERSEY" gram_type="infix" relation_type="asymmetric" id="131354_9" ></RELATION>
+
+<RELATION at_date_string="1708" theme="131354_2" at_date="131354_6" theme_string="02-1708" gram_type="infix" relation_type="asymmetric" id="131354_13" ></RELATION>
+

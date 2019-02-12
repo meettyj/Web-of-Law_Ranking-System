@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['benthospital#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1111" id1="116764" volume="510" start="0" page_number="1111" standard_reporter="U.S." citation_global_level_id="2441.002" line="1" id="116763_1" citation_local_level_id="0" >510 U.S. 1111</CITATION>
+
+<CITATION party2="Massachusetts General Hospital et al" party1="Bent" citation_global_level_id="20180.001" party2_short="Hospital" line="1" id="116763_3" alternative_keys="['u.s._510_1111']" end="62" entry_type="party_key" lookup_key="benthospital#1" id1="116763" start="18" party1_short="Bent" citation_local_level_id="1" >Bent v. Massachusetts General Hospital et al</CITATION>
+
+<NAME end="22" start="18" party1_of="116763_3" all_names="BENT" local_name_id="1" id="116763_4" >Bent</NAME>
+
+<NAME end="62" start="26" all_names="MASSACHUSETTS GENERAL HOSPITAL" party2_of="116763_3" local_name_id="2" id="116763_5" >Massachusetts General Hospital et al</NAME>
+
+<DOCKET end="78" entry_type="docket" lookup_key="u.s._510_1111" id1="116764" start="72" citation_global_level_id="2441.002" line="1" id="116763_2" citation_local_level_id="0" >93-793</DOCKET>
+
+<DATE start="120" end="137" id="116763_6" >February 22, 1994</DATE>
+
+<NAME start="215" local_name_id="3" end="225" id="116763_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="264" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_998_1001" id1="Dummy_File_33957" volume="998" start="250" page_number="1001" standard_reporter="F.2D" citation_global_level_id="97807.001" line="3" id="116763_12" citation_local_level_id="2" >998 F. 2d 1001</CITATION>
+
+<RELATION theme="116763_1" includes_docket_string="93-793" includes_docket="116763_2" theme_string="510 U.S. 1111" gram_type="apposition" relation_type="asymmetric" id="116763_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1111" X_vs_Y_string="Bent v. Massachusetts General Hospital et al" standard_case="116763_1" X_vs_Y="116763_3" gram_type="pre_nom" relation_type="equivalence" id="116763_7" ></RELATION>
+
+<RELATION theme="116763_3" includes_docket_string="93-793" includes_docket="116763_2" theme_string="Bent v. Massachusetts General Hospital et al" gram_type="apposition" relation_type="asymmetric" id="116763_10" ></RELATION>
+
+<RELATION theme="116763_3" party1="116763_4" party1_string="Bent" theme_string="Bent v. Massachusetts General Hospital et al" gram_type="infix" relation_type="asymmetric" id="116763_8" ></RELATION>
+
+<RELATION party2="116763_5" theme="116763_3" theme_string="Bent v. Massachusetts General Hospital et al" party2_string="Massachusetts General Hospital et al" gram_type="infix" relation_type="asymmetric" id="116763_9" ></RELATION>
+

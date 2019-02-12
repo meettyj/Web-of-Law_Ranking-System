@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['denneygalaza#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_890" id1="123396" volume="537" start="0" page_number="890" standard_reporter="U.S." citation_global_level_id="2220.002" line="1" id="123395_1" citation_local_level_id="0" >537 U.S. 890</CITATION>
+
+<CITATION party2="GALAZA, WARDEN" party1="DENNEY" citation_global_level_id="2220.006" party2_short="GALAZA" line="1" id="123395_3" alternative_keys="['u.s._537_890']" end="41" entry_type="party_key" lookup_key="denneygalaza#1" id1="123396" start="17" party1_short="DENNEY" citation_local_level_id="1" >DENNEY v. GALAZA, WARDEN</CITATION>
+
+<NAME end="23" start="17" party1_of="123395_3" all_names="DENNEY" local_name_id="1" id="123395_4" >DENNEY</NAME>
+
+<NAME end="41" start="27" all_names="GALAZA WARDEN" party2_of="123395_3" local_name_id="2" id="123395_5" >GALAZA, WARDEN</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._537_890" id1="123396" start="51" citation_global_level_id="2220.002" line="1" id="123395_2" citation_local_level_id="0" >02-5029</DOCKET>
+
+<DATE start="100" end="115" id="123395_6" >October 7, 2002</DATE>
+
+<NAME start="244" local_name_id="3" end="247" id="123395_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="123395_1" includes_docket_string="02-5029" includes_docket="123395_2" theme_string="537 U.S. 890" gram_type="apposition" relation_type="asymmetric" id="123395_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 890" X_vs_Y_string="DENNEY v. GALAZA, WARDEN" standard_case="123395_1" X_vs_Y="123395_3" gram_type="pre_nom" relation_type="equivalence" id="123395_7" ></RELATION>
+
+<RELATION theme="123395_3" includes_docket_string="02-5029" includes_docket="123395_2" theme_string="DENNEY v. GALAZA, WARDEN" gram_type="apposition" relation_type="asymmetric" id="123395_10" ></RELATION>
+
+<RELATION theme="123395_3" party1="123395_4" party1_string="DENNEY" theme_string="DENNEY v. GALAZA, WARDEN" gram_type="infix" relation_type="asymmetric" id="123395_8" ></RELATION>
+
+<RELATION party2="123395_5" theme="123395_3" theme_string="DENNEY v. GALAZA, WARDEN" party2_string="GALAZA, WARDEN" gram_type="infix" relation_type="asymmetric" id="123395_9" ></RELATION>
+

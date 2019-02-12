@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['hookiowa#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_929" id1="128255" volume="538" start="0" page_number="929" standard_reporter="U.S." citation_global_level_id="4897.002" line="1" id="128260_1" citation_local_level_id="0" >538 U.S. 929</CITATION>
+
+<CITATION party2="IOWA" party1="HOOK" citation_global_level_id="14744.001" party2_short="IOWA" line="1" id="128260_3" alternative_keys="['u.s._538_929']" end="29" entry_type="party_key" lookup_key="hookiowa#1" id1="128260" start="17" party1_short="HOOK" citation_local_level_id="1" >HOOK v. IOWA</CITATION>
+
+<NAME end="21" start="17" party1_of="128260_3" all_names="HOOK" local_name_id="1" id="128260_4" >HOOK</NAME>
+
+<NAME end="29" start="25" all_names="IOWA" party2_of="128260_3" local_name_id="2" id="128260_5" >IOWA</NAME>
+
+<DOCKET end="46" entry_type="docket" lookup_key="u.s._538_929" id1="128255" start="39" citation_global_level_id="4897.002" line="1" id="128260_2" citation_local_level_id="0" >02-8541</DOCKET>
+
+<DATE start="88" end="102" id="128260_6" >March 24, 2003</DATE>
+
+<NAME start="232" local_name_id="3" end="235" id="128260_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="284" reporter="F.3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_307_756" id1="Dummy_File_180745" volume="307" start="272" page_number="756" standard_reporter="F.3D" citation_global_level_id="244595.001" line="3" id="128260_12" citation_local_level_id="2" >307 F.3d 756</CITATION>
+
+<RELATION theme="128260_1" includes_docket_string="02-8541" includes_docket="128260_2" theme_string="538 U.S. 929" gram_type="apposition" relation_type="asymmetric" id="128260_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 929" X_vs_Y_string="HOOK v. IOWA" standard_case="128260_1" X_vs_Y="128260_3" gram_type="pre_nom" relation_type="equivalence" id="128260_7" ></RELATION>
+
+<RELATION theme="128260_3" includes_docket_string="02-8541" includes_docket="128260_2" theme_string="HOOK v. IOWA" gram_type="apposition" relation_type="asymmetric" id="128260_10" ></RELATION>
+
+<RELATION theme="128260_3" party1="128260_4" party1_string="HOOK" theme_string="HOOK v. IOWA" gram_type="infix" relation_type="asymmetric" id="128260_8" ></RELATION>
+
+<RELATION party2="128260_5" theme="128260_3" theme_string="HOOK v. IOWA" party2_string="IOWA" gram_type="infix" relation_type="asymmetric" id="128260_9" ></RELATION>
+

@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['fletchercarolina#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_846" id1="122827" volume="537" start="0" page_number="846" standard_reporter="U.S." citation_global_level_id="5412.002" line="1" id="122827_1" citation_local_level_id="0" >537 U.S. 846</CITATION>
+
+<CITATION party2="NORTH CAROLINA" party1="FLETCHER" citation_global_level_id="5412.001" party2_short="CAROLINA" line="1" id="122827_3" alternative_keys="['u.s._537_846']" end="43" entry_type="party_key" lookup_key="fletchercarolina#1" id1="122827" start="17" party1_short="FLETCHER" citation_local_level_id="1" >FLETCHER v. NORTH CAROLINA</CITATION>
+
+<NAME end="25" start="17" party1_of="122827_3" all_names="FLETCHER" local_name_id="1" id="122827_4" >FLETCHER</NAME>
+
+<NAME end="43" start="29" all_names="NORTH CAROLINA" party2_of="122827_3" local_name_id="2" id="122827_5" >NORTH CAROLINA</NAME>
+
+<DOCKET end="61" entry_type="docket" lookup_key="u.s._537_846" id1="122827" start="53" citation_global_level_id="5412.002" line="1" id="122827_2" citation_local_level_id="0" >01-10488</DOCKET>
+
+<DATE start="103" end="118" id="122827_6" >October 7, 2002</DATE>
+
+<NAME start="216" local_name_id="3" end="219" id="122827_14" all_names="SUP" >Sup</NAME>
+
+<CITATION end="276" reporter="N.C." entry_type="standard_key" no_current_file="True" lookup_key="n.c._354_455" id1="Dummy_File_37503" volume="354" start="264" page_number="455" standard_reporter="N.C." citation_global_level_id="101353.002" line="3" id="122827_12" citation_local_level_id="2" >354 N.C. 455</CITATION>
+
+<CITATION end="292" reporter="S.E.2d" entry_type="standard_key" no_current_file="True" lookup_key="s.e.2d_555_534" id1="Dummy_File_37503" volume="555" start="278" page_number="534" standard_reporter="S.E.2D" citation_global_level_id="101353.001" line="3" id="122827_13" citation_local_level_id="3" >555 S.E.2d 534</CITATION>
+
+<RELATION theme="122827_1" includes_docket_string="01-10488" includes_docket="122827_2" theme_string="537 U.S. 846" gram_type="apposition" relation_type="asymmetric" id="122827_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 846" X_vs_Y_string="FLETCHER v. NORTH CAROLINA" standard_case="122827_1" X_vs_Y="122827_3" gram_type="pre_nom" relation_type="equivalence" id="122827_7" ></RELATION>
+
+<RELATION theme="122827_3" includes_docket_string="01-10488" includes_docket="122827_2" theme_string="FLETCHER v. NORTH CAROLINA" gram_type="apposition" relation_type="asymmetric" id="122827_10" ></RELATION>
+
+<RELATION theme="122827_3" party1="122827_4" party1_string="FLETCHER" theme_string="FLETCHER v. NORTH CAROLINA" gram_type="infix" relation_type="asymmetric" id="122827_8" ></RELATION>
+
+<RELATION party2="122827_5" theme="122827_3" theme_string="FLETCHER v. NORTH CAROLINA" party2_string="NORTH CAROLINA" gram_type="infix" relation_type="asymmetric" id="122827_9" ></RELATION>
+

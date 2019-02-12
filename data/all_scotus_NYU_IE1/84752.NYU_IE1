@@ -1,0 +1,54 @@
+<CITATION alternative_keys="['lylebaker#1', 'dall_4_433', 'l.ed._1_897']" end="10" reporter="U.S." entry_type="standard_key" lookup_key="u.s._4_433" id1="84752" volume="4" start="0" page_number="433" standard_reporter="U.S." citation_global_level_id="6470.002" line="1" id="84752_1" citation_local_level_id="0" >4 U.S. 433</CITATION>
+
+<CITATION alternative_keys="['u.s._4_433', 'lylebaker#1', 'l.ed._1_897']" end="26" reporter="Dall" entry_type="standard_key" lookup_key="dall_4_433" id1="84752" volume="4" start="15" page_number="433" standard_reporter="DALL" citation_global_level_id="6470.003" line="1" id="84752_2" citation_local_level_id="1" >4 Dall. 433</CITATION>
+
+<NAME start="17" local_name_id="1" end="21" id="84752_10" all_names="DALL" >Dall</NAME>
+
+<CITATION alternative_keys="['u.s._4_433', 'dall_4_433', 'lylebaker#1']" end="43" reporter="L. Ed." entry_type="standard_key" lookup_key="l.ed._1_897" id1="84752" volume="1" start="31" page_number="897" standard_reporter="L.ED." citation_global_level_id="6470.004" line="1" id="84752_3" citation_local_level_id="2" >1 L. Ed. 897</CITATION>
+
+<CITATION party2="Baker et al.     Supreme Court of Pennsylvania" party1="Lyle" citation_global_level_id="6470.001" party2_short="Baker" line="1" id="84752_4" alternative_keys="['u.s._4_433', 'dall_4_433', 'l.ed._1_897']" end="102" entry_type="party_key" lookup_key="lylebaker#1" id1="84752" start="48" party1_short="Lyle" citation_local_level_id="3" >Lyle v. Baker et al. Supreme Court of Pennsylvania</CITATION>
+
+<NAME end="52" start="48" party1_of="84752_4" all_names="LYLE" local_name_id="2" id="84752_5" >Lyle</NAME>
+
+<NAME end="102" start="56" all_names="BAKER SUPREME COURT OF PENNSYLVANIA" party2_of="84752_4" local_name_id="3" id="84752_6" >Baker et al. Supreme Court of Pennsylvania</NAME>
+
+<DATE start="123" end="127" id="84752_7" >1806</DATE>
+
+<DATE start="229" end="233" id="84752_8" >1806</DATE>
+
+<DATE start="508" end="521" id="84752_9" >February 1806</DATE>
+
+<ORGANIZATION start="842" end="847" id="84752_17" >Court</ORGANIZATION>
+
+<PROFESSION start="853" document_level_name_id="4" end="858" id="84752_18" party="YEATES" >Judge</PROFESSION>
+
+<NAME start="859" local_name_id="4" end="865" id="84752_19" all_names="YEATES" >YEATES</NAME>
+
+<PROFESSION start="912" end="925" id="84752_20" >Chief Justice</PROFESSION>
+
+<DATE start="942" end="954" id="84752_16" >January 1807</DATE>
+
+<NAME start="1005" local_name_id="5" end="1013" id="84752_22" all_names="TILGHMAN" >TILGHMAN</NAME>
+
+<NAME start="1015" local_name_id="6" end="1019" id="84752_23" all_names="C J" >C. J</NAME>
+
+<PROFESSION start="1205" end="1216" id="84752_24" >legislature</PROFESSION>
+
+<ORGANIZATION start="1683" end="1696" id="84752_25" >Supreme Court</ORGANIZATION>
+
+<PROFESSION start="2591" end="2602" id="84752_26" >legislature</PROFESSION>
+
+<NAME start="2831" local_name_id="7" end="2841" id="84752_27" all_names="PROCEDENDO" >Procedendo</NAME>
+
+<RELATION standard_case_string="4 U.S. 433" X_vs_Y_string="Lyle v. Baker et al.     Supreme Court of Pennsylvania" standard_case="84752_1" X_vs_Y="84752_4" gram_type="pre_nom" relation_type="equivalence" id="84752_12" ></RELATION>
+
+<RELATION standard_case_string="4 Dall. 433" X_vs_Y_string="Lyle v. Baker et al.     Supreme Court of Pennsylvania" standard_case="84752_2" X_vs_Y="84752_4" gram_type="pre_nom" relation_type="equivalence" id="84752_13" ></RELATION>
+
+<RELATION standard_case_string="1 L. Ed. 897" X_vs_Y_string="Lyle v. Baker et al.     Supreme Court of Pennsylvania" standard_case="84752_3" X_vs_Y="84752_4" gram_type="pre_nom" relation_type="equivalence" id="84752_11" ></RELATION>
+
+<RELATION theme="84752_4" party1="84752_5" party1_string="Lyle" theme_string="Lyle v. Baker et al.     Supreme Court of Pennsylvania" gram_type="infix" relation_type="asymmetric" id="84752_14" ></RELATION>
+
+<RELATION party2="84752_6" theme="84752_4" theme_string="Lyle v. Baker et al.     Supreme Court of Pennsylvania" party2_string="Baker et al.     Supreme Court of Pennsylvania" gram_type="infix" relation_type="asymmetric" id="84752_15" ></RELATION>
+
+<RELATION theme="84752_19" profession_string="Judge" theme_string="YEATES" profession="84752_18" gram_type="pre_nom" relation_type="asymmetric" id="84752_21" ></RELATION>
+

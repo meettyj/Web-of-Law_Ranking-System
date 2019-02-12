@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['gulfmagee#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_904" id1="142939" volume="544" start="0" page_number="904" standard_reporter="U.S." citation_global_level_id="17011.002" line="1" id="142944_1" citation_local_level_id="0" >544 U.S. 904</CITATION>
+
+<CITATION party2="MAGEE" party1="SSA GULF, INC." citation_global_level_id="29655.001" party2_short="MAGEE" line="2" id="142944_2" alternative_keys="['u.s._544_904']" end="40" entry_type="party_key" lookup_key="gulfmagee#1" id1="142944" start="17" party1_short="GULF" citation_local_level_id="1" >SSA GULF, INC. v. MAGEE</CITATION>
+
+<NAME end="31" start="17" party1_of="142944_2" all_names="SSA GULF INC" local_name_id="1" id="142944_3" >SSA GULF, INC.</NAME>
+
+<ORGANIZATION start="17" end="30" id="142944_5" >SSA GULF, INC</ORGANIZATION>
+
+<NAME end="40" start="35" all_names="MAGEE" party2_of="142944_2" local_name_id="2" id="142944_4" >MAGEE</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="gulfmagee#1" id1="142944" start="50" citation_global_level_id="29655.001" line="3" id="142944_8" citation_local_level_id="1" >04-740</DOCKET>
+
+<ORGANIZATION start="62" end="92" id="142944_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="98" citation_global_level_id="29655.001" end="111" id="142944_10" citation_local_level_id="1" >March 7, 2005</DATE>
+
+<NAME start="143" local_name_id="3" end="146" id="142944_14" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="142944_2" party1="142944_3" party1_string="SSA GULF, INC." theme_string="SSA GULF, INC. v. MAGEE" gram_type="infix" relation_type="asymmetric" id="142944_6" ></RELATION>
+
+<RELATION party2="142944_4" theme="142944_2" theme_string="SSA GULF, INC. v. MAGEE" party2_string="MAGEE" gram_type="infix" relation_type="asymmetric" id="142944_7" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 904" X_vs_Y_string="SSA GULF, INC. v. MAGEE" standard_case="142944_1" X_vs_Y="142944_2" gram_type="multi_line" relation_type="equivalence" id="142944_11" ></RELATION>
+
+<RELATION at_date_string="March 7, 2005" theme="142944_2" at_date="142944_10" theme_string="SSA GULF, INC. v. MAGEE" gram_type="multi_line" relation_type="asymmetric" id="142944_13" ></RELATION>
+
+<RELATION theme="142944_2" includes_docket_string="04-740" includes_docket="142944_8" theme_string="SSA GULF, INC. v. MAGEE" gram_type="multi_line" relation_type="asymmetric" id="142944_12" ></RELATION>
+

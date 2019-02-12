@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['newsomecommission#3']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1049" id1="125386" volume="537" start="0" page_number="1049" standard_reporter="U.S." citation_global_level_id="6400.002" line="1" id="125392_1" citation_local_level_id="0" >537 U.S. 1049</CITATION>
+
+<CITATION party2="EQUAL EMPLOYMENT OPPORTUNITY COMMISSION ET AL" party1="NEWSOME" citation_global_level_id="39210.001" party2_short="COMMISSION" line="1" id="125392_3" alternative_keys="['u.s._537_1049']" end="74" entry_type="party_key" lookup_key="newsomecommission#3" id1="125392" start="18" party1_short="NEWSOME" citation_local_level_id="1" >NEWSOME v. EQUAL EMPLOYMENT OPPORTUNITY COMMISSION ET AL</CITATION>
+
+<NAME end="25" start="18" party1_of="125392_3" all_names="NEWSOME" local_name_id="1" id="125392_4" >NEWSOME</NAME>
+
+<NAME end="74" start="29" all_names="EQUAL EMPLOYMENT OPPORTUNITY COMMISSION" party2_of="125392_3" local_name_id="2" id="125392_5" >EQUAL EMPLOYMENT OPPORTUNITY COMMISSION ET AL</NAME>
+
+<DOCKET end="91" entry_type="docket" lookup_key="u.s._537_1049" id1="125386" start="84" citation_global_level_id="6400.002" line="1" id="125392_2" citation_local_level_id="0" >02-5228</DOCKET>
+
+<DATE start="133" end="149" id="125392_6" >December 2, 2002</DATE>
+
+<NAME start="278" local_name_id="3" end="281" id="125392_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="331" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_301_227" id1="Dummy_File_127532" volume="301" start="318" page_number="227" standard_reporter="F.3D" citation_global_level_id="191382.001" line="3" id="125392_12" citation_local_level_id="2" >301 F. 3d 227</CITATION>
+
+<RELATION theme="125392_1" includes_docket_string="02-5228" includes_docket="125392_2" theme_string="537 U.S. 1049" gram_type="apposition" relation_type="asymmetric" id="125392_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1049" X_vs_Y_string="NEWSOME v. EQUAL EMPLOYMENT OPPORTUNITY COMMISSION ET AL" standard_case="125392_1" X_vs_Y="125392_3" gram_type="pre_nom" relation_type="equivalence" id="125392_7" ></RELATION>
+
+<RELATION theme="125392_3" includes_docket_string="02-5228" includes_docket="125392_2" theme_string="NEWSOME v. EQUAL EMPLOYMENT OPPORTUNITY COMMISSION ET AL" gram_type="apposition" relation_type="asymmetric" id="125392_10" ></RELATION>
+
+<RELATION theme="125392_3" party1="125392_4" party1_string="NEWSOME" theme_string="NEWSOME v. EQUAL EMPLOYMENT OPPORTUNITY COMMISSION ET AL" gram_type="infix" relation_type="asymmetric" id="125392_8" ></RELATION>
+
+<RELATION party2="125392_5" theme="125392_3" theme_string="NEWSOME v. EQUAL EMPLOYMENT OPPORTUNITY COMMISSION ET AL" party2_string="EQUAL EMPLOYMENT OPPORTUNITY COMMISSION ET AL" gram_type="infix" relation_type="asymmetric" id="125392_9" ></RELATION>
+

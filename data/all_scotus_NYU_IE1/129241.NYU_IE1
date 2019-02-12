@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['colemanblacklock#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1003" id1="129240" volume="538" start="0" page_number="1003" standard_reporter="U.S." citation_global_level_id="780.002" line="1" id="129241_1" citation_local_level_id="0" >538 U.S. 1003</CITATION>
+
+<CITATION party2="BLACKLOCK ET AL" party1="COLEMAN" citation_global_level_id="7065.001" party2_short="BLACKLOCK" line="1" id="129241_3" alternative_keys="['u.s._538_1003']" end="44" entry_type="party_key" lookup_key="colemanblacklock#1" id1="129241" start="18" party1_short="COLEMAN" citation_local_level_id="1" >COLEMAN v. BLACKLOCK ET AL</CITATION>
+
+<NAME end="25" start="18" party1_of="129241_3" all_names="COLEMAN" local_name_id="1" id="129241_4" >COLEMAN</NAME>
+
+<NAME end="44" start="29" all_names="BLACKLOCK" party2_of="129241_3" local_name_id="2" id="129241_5" >BLACKLOCK ET AL</NAME>
+
+<DOCKET end="61" entry_type="docket" lookup_key="u.s._538_1003" id1="129240" start="54" citation_global_level_id="780.002" line="1" id="129241_2" citation_local_level_id="0" >02-9234</DOCKET>
+
+<DATE start="103" end="117" id="129241_6" >April 28, 2003</DATE>
+
+<NAME start="246" local_name_id="3" end="249" id="129241_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="129241_1" includes_docket_string="02-9234" includes_docket="129241_2" theme_string="538 U.S. 1003" gram_type="apposition" relation_type="asymmetric" id="129241_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1003" X_vs_Y_string="COLEMAN v. BLACKLOCK ET AL" standard_case="129241_1" X_vs_Y="129241_3" gram_type="pre_nom" relation_type="equivalence" id="129241_7" ></RELATION>
+
+<RELATION theme="129241_3" includes_docket_string="02-9234" includes_docket="129241_2" theme_string="COLEMAN v. BLACKLOCK ET AL" gram_type="apposition" relation_type="asymmetric" id="129241_10" ></RELATION>
+
+<RELATION theme="129241_3" party1="129241_4" party1_string="COLEMAN" theme_string="COLEMAN v. BLACKLOCK ET AL" gram_type="infix" relation_type="asymmetric" id="129241_8" ></RELATION>
+
+<RELATION party2="129241_5" theme="129241_3" theme_string="COLEMAN v. BLACKLOCK ET AL" party2_string="BLACKLOCK ET AL" gram_type="infix" relation_type="asymmetric" id="129241_9" ></RELATION>
+

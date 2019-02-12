@@ -1,0 +1,64 @@
+<CITATION alternative_keys="['colarnold#1', 'dall_3_333']" end="18" reporter="U.S." entry_type="standard_key" lookup_key="u.s._3_333" id1="2096950" volume="3" start="1" page_number="333" standard_reporter="U.S." citation_global_level_id="50600.002" line="2" id="2096950_1" citation_local_level_id="0" >3 U.S. 333 (____)</CITATION>
+
+<CITATION alternative_keys="['u.s._3_333', 'colarnold#1']" end="30" reporter="Dall" entry_type="standard_key" lookup_key="dall_3_333" id1="2096950" volume="3" start="19" page_number="333" standard_reporter="DALL" citation_global_level_id="50600.003" line="3" id="2096950_2" citation_local_level_id="1" >3 Dall. 333</CITATION>
+
+<CITATION party2="ARNOLD" party1="DEL COL" citation_global_level_id="50600.001" party2_short="ARNOLD" line="6" id="2096950_5" alternative_keys="['u.s._3_333', 'dall_3_333']" end="54" entry_type="party_key" lookup_key="colarnold#1" id1="2096950" start="31" party1_short="COL" citation_local_level_id="2" >DEL COL versus ARNOLD</CITATION>
+
+<NAME end="38" start="31" party1_of="2096950_5" all_names="DEL COL" local_name_id="1" id="2096950_6" >DEL COL</NAME>
+
+<NAME end="54" start="48" all_names="ARNOLD" party2_of="2096950_5" local_name_id="2" id="2096950_7" >ARNOLD</NAME>
+
+<ORGANIZATION start="56" end="86" id="2096950_10" >Supreme Court of United States</ORGANIZATION>
+
+<NAME start="147" local_name_id="3" end="151" id="2096950_13" all_names="TERM" >Term</NAME>
+
+<NAME start="156" local_name_id="4" end="171" id="2096950_14" all_names="DALLAS AND REED" >Dallas and Reed</NAME>
+
+<NAME start="182" local_name_id="5" end="190" id="2096950_15" all_names="CAROLINA" >Carolina</NAME>
+
+<LEGAL_ROLE start="200" end="210" plural="True" id="2096950_16" >Plaintiffs</LEGAL_ROLE>
+
+<NAME start="228" local_name_id="6" end="235" id="2096950_17" all_names="PRINGLE" >Pringle</NAME>
+
+<NAME start="246" local_name_id="5" end="254" id="2096950_18" all_names="CAROLINA" >Carolina</NAME>
+
+<LEGAL_ROLE start="264" end="273" id="2096950_19" >Defendant</LEGAL_ROLE>
+
+<NAME start="334" local_name_id="3" end="338" id="2096950_20" all_names="TERM" >Term</NAME>
+
+<PROFESSION start="352" end="378" id="2096950_21" >counsel for the Plaintiffs</PROFESSION>
+
+<LEGAL_ROLE start="396" end="433" id="2096950_22" >Ingersoll and Lewis for the Defendant</LEGAL_ROLE>
+
+<ORGANIZATION start="439" end="444" id="2096950_23" >COURT</ORGANIZATION>
+
+<NAME start="592" local_name_id="7" end="604" id="2096950_24" all_names="GRAND SACHEM" >Grand Sachem</NAME>
+
+<PROFESSION start="987" end="993" plural="True" id="2096950_25" >agents</PROFESSION>
+
+<PROFESSION start="999" end="1007" plural="True" id="2096950_26" >officers</PROFESSION>
+
+<ORGANIZATION start="1243" end="1251" id="2096950_27" >Industry</ORGANIZATION>
+
+<ORGANIZATION start="1483" end="1496" id="2096950_28" >Circuit Court</ORGANIZATION>
+
+<NAME start="1507" local_name_id="8" end="1512" id="2096950_29" all_names="NOTES" >NOTES</NAME>
+
+<NAME start="1518" local_name_id="9" end="1523" id="2096950_30" all_names="CHASE" >CHASE</NAME>
+
+<NAME start="1529" local_name_id="10" end="1536" id="2096950_31" all_names="IREDELL" >IREDELL</NAME>
+
+<PROFESSION end="1546" document_level_name_id="9" start="1538" party="CHASE" plural="True" id="2096950_32" >Justices</PROFESSION>
+
+<RELATION theme="2096950_5" party1="2096950_6" party1_string="DEL COL" theme_string="DEL COL  versus  ARNOLD" gram_type="infix" relation_type="asymmetric" id="2096950_8" ></RELATION>
+
+<RELATION party2="2096950_7" theme="2096950_5" theme_string="DEL COL  versus  ARNOLD" party2_string="ARNOLD" gram_type="infix" relation_type="asymmetric" id="2096950_9" ></RELATION>
+
+<RELATION standard_case_string="3 U.S. 333 (____)" X_vs_Y_string="DEL COL  versus  ARNOLD" standard_case="2096950_1" X_vs_Y="2096950_5" gram_type="multi_line" relation_type="equivalence" id="2096950_11" ></RELATION>
+
+<RELATION standard_case_string="3 Dall. 333" X_vs_Y_string="DEL COL  versus  ARNOLD" standard_case="2096950_2" X_vs_Y="2096950_5" gram_type="multi_line" relation_type="equivalence" id="2096950_12" ></RELATION>
+
+<RELATION theme="2096950_30" profession_string="Justices" theme_string="CHASE" profession="2096950_32" gram_type="apposition" relation_type="asymmetric" id="2096950_34" ></RELATION>
+
+<RELATION theme="2096950_31" profession_string="Justices" theme_string="IREDELL" profession="2096950_32" gram_type="apposition" relation_type="asymmetric" id="2096950_33" ></RELATION>
+

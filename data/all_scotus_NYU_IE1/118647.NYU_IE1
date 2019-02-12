@@ -1,0 +1,50 @@
+<CITATION alternative_keys="['departmentestate#4', 'a._01_557']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_923" id1="118648" volume="535" start="0" page_number="923" standard_reporter="U.S." citation_global_level_id="19704.002" line="1" id="118647_1" citation_local_level_id="0" >535 U.S. 923</CITATION>
+
+<CITATION party2="GUARDIANSHIP ESTATE OF KEFFELER ET AL" party1="WASHINGTON DEPARTMENT OF SOCIAL AND HEALTH SERVICES ET AL." citation_global_level_id="60679.001" party2_short="ESTATE" line="2" id="118647_2" alternative_keys="['u.s._535_923', 'a._01_557']" end="116" entry_type="party_key" lookup_key="departmentestate#4" id1="118647" start="17" party1_short="DEPARTMENT" citation_local_level_id="1" >WASHINGTON DEPARTMENT OF SOCIAL AND HEALTH SERVICES ET AL. v. GUARDIANSHIP ESTATE OF KEFFELER ET AL</CITATION>
+
+<NAME end="75" start="17" party1_of="118647_2" all_names="WASHINGTON DEPARTMENT OF SOCIAL AND HEALTH SERVICES" local_name_id="1" id="118647_3" >WASHINGTON DEPARTMENT OF SOCIAL AND HEALTH SERVICES ET AL.</NAME>
+
+<ORGANIZATION start="17" end="74" id="118647_5" >WASHINGTON DEPARTMENT OF SOCIAL AND HEALTH SERVICES ET AL</ORGANIZATION>
+
+<NAME end="116" start="79" all_names="GUARDIANSHIP ESTATE OF KEFFELER" party2_of="118647_2" local_name_id="2" id="118647_4" >GUARDIANSHIP ESTATE OF KEFFELER ET AL</NAME>
+
+<CITATION alternative_keys="['u.s._535_923', 'departmentestate#4']" end="132" reporter="A" entry_type="standard_key" lookup_key="a._01_557" id1="118647" volume="01" start="126" page_number="557" standard_reporter="A." citation_global_level_id="60679.002" line="3" id="118647_8" citation_local_level_id="2" >01A557</CITATION>
+
+<DATE start="178" citation_global_level_id="60679.001" end="192" id="118647_9" citation_local_level_id="1" >March 13, 2002</DATE>
+
+<NAME start="214" local_name_id="3" end="225" id="118647_16" all_names="APPLICATION" >Application</NAME>
+
+<PROFESSION start="249" document_level_name_id="4" end="256" id="118647_17" party="O'CONNOR" >Justice</PROFESSION>
+
+<NAME start="257" local_name_id="4" end="265" id="118647_18" all_names="O'CONNOR" >O'Connor</NAME>
+
+<ORGANIZATION start="294" end="299" id="118647_19" >Court</ORGANIZATION>
+
+<PROFESSION start="353" document_level_name_id="4" end="360" id="118647_20" party="O'CONNOR" >Justice</PROFESSION>
+
+<NAME start="361" local_name_id="4" end="369" id="118647_21" all_names="O'CONNOR" >O'Connor</NAME>
+
+<DATE start="373" end="389" id="118647_14" >January 29, 2002</DATE>
+
+<ORGANIZATION start="430" end="457" id="118647_22" >Supreme Court of Washington</ORGANIZATION>
+
+<DOCKET entry_type="docket" line="8" end="475" id="118647_13" start="468" >67680-1</DOCKET>
+
+<DATE start="487" end="504" id="118647_15" >December 14, 2001</DATE>
+
+<ORGANIZATION start="816" end="821" id="118647_23" >Court</ORGANIZATION>
+
+<RELATION theme="118647_2" party1="118647_3" party1_string="WASHINGTON DEPARTMENT OF SOCIAL AND HEALTH SERVICES ET AL." theme_string="WASHINGTON DEPARTMENT OF SOCIAL AND HEALTH SERVICES ET AL. v. GUARDIANSHIP ESTATE OF KEFFELER ET AL" gram_type="infix" relation_type="asymmetric" id="118647_6" ></RELATION>
+
+<RELATION party2="118647_4" theme="118647_2" theme_string="WASHINGTON DEPARTMENT OF SOCIAL AND HEALTH SERVICES ET AL. v. GUARDIANSHIP ESTATE OF KEFFELER ET AL" party2_string="GUARDIANSHIP ESTATE OF KEFFELER ET AL" gram_type="infix" relation_type="asymmetric" id="118647_7" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 923" X_vs_Y_string="WASHINGTON DEPARTMENT OF SOCIAL AND HEALTH SERVICES ET AL. v. GUARDIANSHIP ESTATE OF KEFFELER ET AL" standard_case="118647_1" X_vs_Y="118647_2" gram_type="multi_line" relation_type="equivalence" id="118647_10" ></RELATION>
+
+<RELATION at_date_string="March 13, 2002" theme="118647_2" at_date="118647_9" theme_string="WASHINGTON DEPARTMENT OF SOCIAL AND HEALTH SERVICES ET AL. v. GUARDIANSHIP ESTATE OF KEFFELER ET AL" gram_type="multi_line" relation_type="asymmetric" id="118647_12" ></RELATION>
+
+<RELATION standard_case_string="01A557" X_vs_Y_string="WASHINGTON DEPARTMENT OF SOCIAL AND HEALTH SERVICES ET AL. v. GUARDIANSHIP ESTATE OF KEFFELER ET AL" standard_case="118647_8" X_vs_Y="118647_2" gram_type="multi_line" relation_type="equivalence" id="118647_11" ></RELATION>
+
+<RELATION theme="118647_18" profession_string="Justice" theme_string="O'Connor" profession="118647_17" gram_type="pre_nom" relation_type="asymmetric" id="118647_24" ></RELATION>
+
+<RELATION theme="118647_21" profession_string="Justice" theme_string="O'Connor" profession="118647_20" gram_type="pre_nom" relation_type="asymmetric" id="118647_25" ></RELATION>
+

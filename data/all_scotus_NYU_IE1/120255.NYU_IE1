@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['servicestribe#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1053" id1="120257" volume="535" start="0" page_number="1053" standard_reporter="U.S." citation_global_level_id="465.002" line="1" id="120255_1" citation_local_level_id="0" >535 U.S. 1053</CITATION>
+
+<CITATION party2="OMAHA TRIBE OF NEBRASKA" party1="MISSOURI RIVER SERVICES, INC." citation_global_level_id="5371.001" party2_short="TRIBE" line="2" id="120255_2" alternative_keys="['u.s._535_1053']" end="74" entry_type="party_key" lookup_key="servicestribe#1" id1="120255" start="18" party1_short="SERVICES" citation_local_level_id="1" >MISSOURI RIVER SERVICES, INC. v. OMAHA TRIBE OF NEBRASKA</CITATION>
+
+<NAME end="47" start="18" party1_of="120255_2" all_names="MISSOURI RIVER SERVICES INC" local_name_id="1" id="120255_3" >MISSOURI RIVER SERVICES, INC.</NAME>
+
+<ORGANIZATION start="18" end="46" id="120255_5" >MISSOURI RIVER SERVICES, INC</ORGANIZATION>
+
+<NAME end="74" start="51" all_names="OMAHA TRIBE OF NEBRASKA" party2_of="120255_2" local_name_id="2" id="120255_4" >OMAHA TRIBE OF NEBRASKA</NAME>
+
+<DOCKET end="91" entry_type="docket" lookup_key="servicestribe#1" id1="120255" start="84" citation_global_level_id="5371.001" line="3" id="120255_8" citation_local_level_id="1" >01-1149</DOCKET>
+
+<DATE start="137" citation_global_level_id="5371.001" end="149" id="120255_9" citation_local_level_id="1" >May 13, 2002</DATE>
+
+<NAME start="181" local_name_id="3" end="184" id="120255_14" all_names="CIR" >Cir</NAME>
+
+<CITATION end="234" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_267_848" id1="Dummy_File_120443" volume="267" start="221" page_number="848" standard_reporter="F.3D" citation_global_level_id="184293.001" line="8" id="120255_13" citation_local_level_id="2" >267 F. 3d 848</CITATION>
+
+<RELATION theme="120255_2" party1="120255_3" party1_string="MISSOURI RIVER SERVICES, INC." theme_string="MISSOURI RIVER SERVICES, INC. v. OMAHA TRIBE OF NEBRASKA" gram_type="infix" relation_type="asymmetric" id="120255_6" ></RELATION>
+
+<RELATION party2="120255_4" theme="120255_2" theme_string="MISSOURI RIVER SERVICES, INC. v. OMAHA TRIBE OF NEBRASKA" party2_string="OMAHA TRIBE OF NEBRASKA" gram_type="infix" relation_type="asymmetric" id="120255_7" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1053" X_vs_Y_string="MISSOURI RIVER SERVICES, INC. v. OMAHA TRIBE OF NEBRASKA" standard_case="120255_1" X_vs_Y="120255_2" gram_type="multi_line" relation_type="equivalence" id="120255_10" ></RELATION>
+
+<RELATION at_date_string="May 13, 2002" theme="120255_2" at_date="120255_9" theme_string="MISSOURI RIVER SERVICES, INC. v. OMAHA TRIBE OF NEBRASKA" gram_type="multi_line" relation_type="asymmetric" id="120255_12" ></RELATION>
+
+<RELATION theme="120255_2" includes_docket_string="01-1149" includes_docket="120255_8" theme_string="MISSOURI RIVER SERVICES, INC. v. OMAHA TRIBE OF NEBRASKA" gram_type="multi_line" relation_type="asymmetric" id="120255_11" ></RELATION>
+

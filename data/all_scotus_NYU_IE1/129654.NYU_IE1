@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['cashtennessee#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1035" id1="129647" volume="538" start="0" page_number="1035" standard_reporter="U.S." citation_global_level_id="1049.002" line="1" id="129654_1" citation_local_level_id="0" >538 U.S. 1035</CITATION>
+
+<CITATION party2="TENNESSEE" party1="CASH" citation_global_level_id="33980.001" party2_short="TENNESSEE" line="1" id="129654_3" alternative_keys="['u.s._538_1035']" end="35" entry_type="party_key" lookup_key="cashtennessee#1" id1="129654" start="18" party1_short="CASH" citation_local_level_id="1" >CASH v. TENNESSEE</CITATION>
+
+<NAME end="22" start="18" party1_of="129654_3" all_names="CASH" local_name_id="1" id="129654_4" >CASH</NAME>
+
+<NAME end="35" start="26" all_names="TENNESSEE" party2_of="129654_3" local_name_id="2" id="129654_5" >TENNESSEE</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="u.s._538_1035" id1="129647" start="45" citation_global_level_id="1049.002" line="1" id="129654_2" citation_local_level_id="0" >02-1407</DOCKET>
+
+<DATE start="94" end="106" id="129654_6" >May 19, 2003</DATE>
+
+<NAME start="235" local_name_id="3" end="238" id="129654_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="129654_1" includes_docket_string="02-1407" includes_docket="129654_2" theme_string="538 U.S. 1035" gram_type="apposition" relation_type="asymmetric" id="129654_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1035" X_vs_Y_string="CASH v. TENNESSEE" standard_case="129654_1" X_vs_Y="129654_3" gram_type="pre_nom" relation_type="equivalence" id="129654_7" ></RELATION>
+
+<RELATION theme="129654_3" includes_docket_string="02-1407" includes_docket="129654_2" theme_string="CASH v. TENNESSEE" gram_type="apposition" relation_type="asymmetric" id="129654_10" ></RELATION>
+
+<RELATION theme="129654_3" party1="129654_4" party1_string="CASH" theme_string="CASH v. TENNESSEE" gram_type="infix" relation_type="asymmetric" id="129654_8" ></RELATION>
+
+<RELATION party2="129654_5" theme="129654_3" theme_string="CASH v. TENNESSEE" party2_string="TENNESSEE" gram_type="infix" relation_type="asymmetric" id="129654_9" ></RELATION>
+

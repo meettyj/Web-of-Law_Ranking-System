@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['dowlingflorida#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_918" id1="123784" volume="537" start="0" page_number="918" standard_reporter="U.S." citation_global_level_id="8937.002" line="1" id="123783_1" citation_local_level_id="0" >537 U.S. 918</CITATION>
+
+<CITATION party2="FLORIDA" party1="DOWLING" citation_global_level_id="38163.001" party2_short="FLORIDA" line="1" id="123783_3" alternative_keys="['u.s._537_918']" end="35" entry_type="party_key" lookup_key="dowlingflorida#1" id1="123783" start="17" party1_short="DOWLING" citation_local_level_id="1" >DOWLING v. FLORIDA</CITATION>
+
+<NAME end="24" start="17" party1_of="123783_3" all_names="DOWLING" local_name_id="1" id="123783_4" >DOWLING</NAME>
+
+<NAME end="35" start="28" all_names="FLORIDA" party2_of="123783_3" local_name_id="2" id="123783_5" >FLORIDA</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="u.s._537_918" id1="123784" start="45" citation_global_level_id="8937.002" line="1" id="123783_2" citation_local_level_id="0" >02-5489</DOCKET>
+
+<DATE start="94" end="109" id="123783_6" >October 7, 2002</DATE>
+
+<NAME start="235" local_name_id="3" end="239" id="123783_13" all_names="DIST" >Dist</NAME>
+
+<CITATION end="316" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_796_1195" id1="Dummy_File_111228" volume="796" start="301" page_number="1195" standard_reporter="SO.2D" citation_global_level_id="175078.001" line="3" id="123783_12" citation_local_level_id="2" >796 So. 2d 1195</CITATION>
+
+<RELATION theme="123783_1" includes_docket_string="02-5489" includes_docket="123783_2" theme_string="537 U.S. 918" gram_type="apposition" relation_type="asymmetric" id="123783_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 918" X_vs_Y_string="DOWLING v. FLORIDA" standard_case="123783_1" X_vs_Y="123783_3" gram_type="pre_nom" relation_type="equivalence" id="123783_7" ></RELATION>
+
+<RELATION theme="123783_3" includes_docket_string="02-5489" includes_docket="123783_2" theme_string="DOWLING v. FLORIDA" gram_type="apposition" relation_type="asymmetric" id="123783_10" ></RELATION>
+
+<RELATION theme="123783_3" party1="123783_4" party1_string="DOWLING" theme_string="DOWLING v. FLORIDA" gram_type="infix" relation_type="asymmetric" id="123783_8" ></RELATION>
+
+<RELATION party2="123783_5" theme="123783_3" theme_string="DOWLING v. FLORIDA" party2_string="FLORIDA" gram_type="infix" relation_type="asymmetric" id="123783_9" ></RELATION>
+

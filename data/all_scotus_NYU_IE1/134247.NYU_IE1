@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['larapennsylvania#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_1055" id1="134248" volume="540" start="0" page_number="1055" standard_reporter="U.S." citation_global_level_id="6641.002" line="1" id="134247_1" citation_local_level_id="0" >540 U.S. 1055</CITATION>
+
+<CITATION party2="PENNSYLVANIA" party1="LARA" citation_global_level_id="24401.001" party2_short="PENNSYLVANIA" line="1" id="134247_3" alternative_keys="['u.s._540_1055']" end="38" entry_type="party_key" lookup_key="larapennsylvania#1" id1="134247" start="18" party1_short="LARA" citation_local_level_id="1" >LARA v. PENNSYLVANIA</CITATION>
+
+<NAME end="22" start="18" party1_of="134247_3" all_names="LARA" local_name_id="1" id="134247_4" >LARA</NAME>
+
+<NAME end="38" start="26" all_names="PENNSYLVANIA" party2_of="134247_3" local_name_id="2" id="134247_5" >PENNSYLVANIA</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._540_1055" id1="134248" start="48" citation_global_level_id="6641.002" line="1" id="134247_2" citation_local_level_id="0" >03-6566</DOCKET>
+
+<DATE start="97" end="113" id="134247_6" >December 1, 2003</DATE>
+
+<NAME start="191" local_name_id="3" end="201" id="134247_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="240" reporter="A. 2d" entry_type="standard_key" no_current_file="True" lookup_key="a.2d_823_1026" id1="Dummy_File_142956" volume="823" start="226" page_number="1026" standard_reporter="A.2D" citation_global_level_id="206806.001" line="3" id="134247_12" citation_local_level_id="2" >823 A. 2d 1026</CITATION>
+
+<RELATION theme="134247_1" includes_docket_string="03-6566" includes_docket="134247_2" theme_string="540 U.S. 1055" gram_type="apposition" relation_type="asymmetric" id="134247_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 1055" X_vs_Y_string="LARA v. PENNSYLVANIA" standard_case="134247_1" X_vs_Y="134247_3" gram_type="pre_nom" relation_type="equivalence" id="134247_7" ></RELATION>
+
+<RELATION theme="134247_3" includes_docket_string="03-6566" includes_docket="134247_2" theme_string="LARA v. PENNSYLVANIA" gram_type="apposition" relation_type="asymmetric" id="134247_10" ></RELATION>
+
+<RELATION theme="134247_3" party1="134247_4" party1_string="LARA" theme_string="LARA v. PENNSYLVANIA" gram_type="infix" relation_type="asymmetric" id="134247_8" ></RELATION>
+
+<RELATION party2="134247_5" theme="134247_3" theme_string="LARA v. PENNSYLVANIA" party2_string="PENNSYLVANIA" gram_type="infix" relation_type="asymmetric" id="134247_9" ></RELATION>
+

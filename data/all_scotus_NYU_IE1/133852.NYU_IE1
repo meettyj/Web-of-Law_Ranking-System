@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['hortonstates#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_1009" id1="133845" volume="540" start="0" page_number="1009" standard_reporter="U.S." citation_global_level_id="2062.002" line="1" id="133852_1" citation_local_level_id="0" >540 U.S. 1009</CITATION>
+
+<CITATION party2="UNITED STATES" party1="HORTON" citation_global_level_id="28178.001" party2_short="STATES" line="1" id="133852_3" alternative_keys="['u.s._540_1009']" end="41" entry_type="party_key" lookup_key="hortonstates#2" id1="131653" start="18" party1_short="HORTON" citation_local_level_id="1" >HORTON v. UNITED STATES</CITATION>
+
+<NAME end="24" start="18" party1_of="133852_3" all_names="HORTON" local_name_id="1" id="133852_4" >HORTON</NAME>
+
+<NAME end="41" start="28" all_names="UNITED STATES" party2_of="133852_3" local_name_id="2" id="133852_5" >UNITED STATES</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._540_1009" id1="133845" start="51" citation_global_level_id="2062.002" line="1" id="133852_2" citation_local_level_id="0" >03-6614</DOCKET>
+
+<DATE start="100" end="117" id="133852_6" >November 10, 2003</DATE>
+
+<NAME start="195" local_name_id="3" end="205" id="133852_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="133852_1" includes_docket_string="03-6614" includes_docket="133852_2" theme_string="540 U.S. 1009" gram_type="apposition" relation_type="asymmetric" id="133852_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 1009" X_vs_Y_string="HORTON v. UNITED STATES" standard_case="133852_1" X_vs_Y="133852_3" gram_type="pre_nom" relation_type="equivalence" id="133852_7" ></RELATION>
+
+<RELATION theme="133852_3" includes_docket_string="03-6614" includes_docket="133852_2" theme_string="HORTON v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="133852_10" ></RELATION>
+
+<RELATION theme="133852_3" party1="133852_4" party1_string="HORTON" theme_string="HORTON v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="133852_8" ></RELATION>
+
+<RELATION party2="133852_5" theme="133852_3" theme_string="HORTON v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="133852_9" ></RELATION>
+

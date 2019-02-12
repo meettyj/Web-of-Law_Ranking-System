@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['steendepartment#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1123" id1="116924" volume="510" start="0" page_number="1123" standard_reporter="U.S." citation_global_level_id="1270.002" line="1" id="116925_1" citation_local_level_id="0" >510 U.S. 1123</CITATION>
+
+<CITATION party2="Detroit Police Department et al" party1="Steen" citation_global_level_id="15834.001" party2_short="Department" line="1" id="116925_3" alternative_keys="['u.s._510_1123']" end="58" entry_type="party_key" lookup_key="steendepartment#1" id1="116925" start="18" party1_short="Steen" citation_local_level_id="1" >Steen v. Detroit Police Department et al</CITATION>
+
+<NAME end="23" start="18" party1_of="116925_3" all_names="STEEN" local_name_id="1" id="116925_4" >Steen</NAME>
+
+<NAME end="58" start="27" all_names="DETROIT POLICE DEPARTMENT" party2_of="116925_3" local_name_id="2" id="116925_5" >Detroit Police Department et al</NAME>
+
+<DOCKET end="75" entry_type="docket" lookup_key="u.s._510_1123" id1="116924" start="68" citation_global_level_id="1270.002" line="1" id="116925_2" citation_local_level_id="0" >93-7014</DOCKET>
+
+<DATE start="117" end="134" id="116925_6" >February 22, 1994</DATE>
+
+<NAME start="212" local_name_id="3" end="222" id="116925_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="261" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_996_1217" id1="Dummy_File_34056" volume="996" start="247" page_number="1217" standard_reporter="F.2D" citation_global_level_id="97906.001" line="3" id="116925_12" citation_local_level_id="2" >996 F. 2d 1217</CITATION>
+
+<RELATION theme="116925_1" includes_docket_string="93-7014" includes_docket="116925_2" theme_string="510 U.S. 1123" gram_type="apposition" relation_type="asymmetric" id="116925_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1123" X_vs_Y_string="Steen v. Detroit Police Department et al" standard_case="116925_1" X_vs_Y="116925_3" gram_type="pre_nom" relation_type="equivalence" id="116925_7" ></RELATION>
+
+<RELATION theme="116925_3" includes_docket_string="93-7014" includes_docket="116925_2" theme_string="Steen v. Detroit Police Department et al" gram_type="apposition" relation_type="asymmetric" id="116925_10" ></RELATION>
+
+<RELATION theme="116925_3" party1="116925_4" party1_string="Steen" theme_string="Steen v. Detroit Police Department et al" gram_type="infix" relation_type="asymmetric" id="116925_8" ></RELATION>
+
+<RELATION party2="116925_5" theme="116925_3" theme_string="Steen v. Detroit Police Department et al" party2_string="Detroit Police Department et al" gram_type="infix" relation_type="asymmetric" id="116925_9" ></RELATION>
+

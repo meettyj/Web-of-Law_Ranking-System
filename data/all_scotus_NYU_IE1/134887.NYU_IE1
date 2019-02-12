@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['lordsternes#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_910" id1="134876" volume="541" start="0" page_number="910" standard_reporter="U.S." citation_global_level_id="636.002" line="1" id="134887_1" citation_local_level_id="0" >541 U.S. 910</CITATION>
+
+<CITATION party2="STERNES, WARDEN" party1="LORD" citation_global_level_id="636.003" party2_short="STERNES" line="2" id="134887_2" alternative_keys="['u.s._541_910']" end="40" entry_type="party_key" lookup_key="lordsternes#1" id1="134876" start="17" party1_short="LORD" citation_local_level_id="1" >LORD v. STERNES, WARDEN</CITATION>
+
+<NAME end="21" start="17" party1_of="134887_2" all_names="LORD" local_name_id="1" id="134887_3" >LORD</NAME>
+
+<NAME end="40" start="25" all_names="STERNES WARDEN" party2_of="134887_2" local_name_id="2" id="134887_4" >STERNES, WARDEN</NAME>
+
+<DOCKET alternative_keys="['u.s._541_910']" end="57" entry_type="docket" lookup_key="lordsternes#1" id1="134876" start="50" citation_global_level_id="636.003" line="3" id="134887_7" citation_local_level_id="1" >03-8498</DOCKET>
+
+<ORGANIZATION start="63" end="93" id="134887_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="99" citation_global_level_id="636.003" end="112" id="134887_9" citation_local_level_id="1" >March 8, 2004</DATE>
+
+<NAME start="144" local_name_id="3" end="147" id="134887_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="134887_2" party1="134887_3" party1_string="LORD" theme_string="LORD v. STERNES, WARDEN" gram_type="infix" relation_type="asymmetric" id="134887_5" ></RELATION>
+
+<RELATION party2="134887_4" theme="134887_2" theme_string="LORD v. STERNES, WARDEN" party2_string="STERNES, WARDEN" gram_type="infix" relation_type="asymmetric" id="134887_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 910" X_vs_Y_string="LORD v. STERNES, WARDEN" standard_case="134887_1" X_vs_Y="134887_2" gram_type="multi_line" relation_type="equivalence" id="134887_10" ></RELATION>
+
+<RELATION at_date_string="March 8, 2004" theme="134887_2" at_date="134887_9" theme_string="LORD v. STERNES, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="134887_12" ></RELATION>
+
+<RELATION theme="134887_2" includes_docket_string="03-8498" includes_docket="134887_7" theme_string="LORD v. STERNES, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="134887_11" ></RELATION>
+

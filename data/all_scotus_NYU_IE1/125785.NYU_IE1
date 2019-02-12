@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['leepercarolina#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1076" id1="125786" volume="537" start="0" page_number="1076" standard_reporter="U.S." citation_global_level_id="3899.002" line="1" id="125785_1" citation_local_level_id="0" >537 U.S. 1076</CITATION>
+
+<CITATION party2="NORTH CAROLINA" party1="LEEPER" citation_global_level_id="36492.001" party2_short="CAROLINA" line="1" id="125785_3" alternative_keys="['u.s._537_1076']" end="42" entry_type="party_key" lookup_key="leepercarolina#1" id1="125785" start="18" party1_short="LEEPER" citation_local_level_id="1" >LEEPER v. NORTH CAROLINA</CITATION>
+
+<NAME end="24" start="18" party1_of="125785_3" all_names="LEEPER" local_name_id="1" id="125785_4" >LEEPER</NAME>
+
+<NAME end="42" start="28" all_names="NORTH CAROLINA" party2_of="125785_3" local_name_id="2" id="125785_5" >NORTH CAROLINA</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="u.s._537_1076" id1="125786" start="52" citation_global_level_id="3899.002" line="1" id="125785_2" citation_local_level_id="0" >02-7009</DOCKET>
+
+<DATE start="101" end="117" id="125785_6" >December 9, 2002</DATE>
+
+<NAME start="215" local_name_id="3" end="218" id="125785_14" all_names="SUP" >Sup</NAME>
+
+<CITATION end="274" reporter="N.C." entry_type="standard_key" no_current_file="True" lookup_key="n.c._356_55" id1="Dummy_File_72310" volume="356" start="263" page_number="55" standard_reporter="N.C." citation_global_level_id="136160.001" line="3" id="125785_12" citation_local_level_id="2" >356 N.C. 55</CITATION>
+
+<CITATION end="288" reporter="S.E.2d" entry_type="standard_key" no_current_file="True" lookup_key="s.e.2d_565_1" id1="Dummy_File_72311" volume="565" start="276" page_number="1" standard_reporter="S.E.2D" citation_global_level_id="136161.001" line="3" id="125785_13" citation_local_level_id="3" >565 S.E.2d 1</CITATION>
+
+<RELATION theme="125785_1" includes_docket_string="02-7009" includes_docket="125785_2" theme_string="537 U.S. 1076" gram_type="apposition" relation_type="asymmetric" id="125785_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1076" X_vs_Y_string="LEEPER v. NORTH CAROLINA" standard_case="125785_1" X_vs_Y="125785_3" gram_type="pre_nom" relation_type="equivalence" id="125785_7" ></RELATION>
+
+<RELATION theme="125785_3" includes_docket_string="02-7009" includes_docket="125785_2" theme_string="LEEPER v. NORTH CAROLINA" gram_type="apposition" relation_type="asymmetric" id="125785_10" ></RELATION>
+
+<RELATION theme="125785_3" party1="125785_4" party1_string="LEEPER" theme_string="LEEPER v. NORTH CAROLINA" gram_type="infix" relation_type="asymmetric" id="125785_8" ></RELATION>
+
+<RELATION party2="125785_5" theme="125785_3" theme_string="LEEPER v. NORTH CAROLINA" party2_string="NORTH CAROLINA" gram_type="infix" relation_type="asymmetric" id="125785_9" ></RELATION>
+

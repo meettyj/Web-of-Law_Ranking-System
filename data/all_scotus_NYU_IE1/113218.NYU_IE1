@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['valentinestates#3']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_828" id1="113221" volume="510" start="0" page_number="828" standard_reporter="U.S." citation_global_level_id="2021.002" line="1" id="113218_1" citation_local_level_id="0" >510 U.S. 828</CITATION>
+
+<CITATION party2="United States" party1="Valentine" citation_global_level_id="57770.001" party2_short="States" line="1" id="113218_3" alternative_keys="['u.s._510_828']" end="43" entry_type="party_key" lookup_key="valentinestates#3" id1="120198" start="17" party1_short="Valentine" citation_local_level_id="1" >Valentine v. United States</CITATION>
+
+<NAME end="26" start="17" party1_of="113218_3" all_names="VALENTINE" local_name_id="1" id="113218_4" >Valentine</NAME>
+
+<NAME end="43" start="30" all_names="UNITED STATES" party2_of="113218_3" local_name_id="2" id="113218_5" >United States</NAME>
+
+<DOCKET end="60" entry_type="docket" lookup_key="u.s._510_828" id1="113221" start="53" citation_global_level_id="2021.002" line="1" id="113218_2" citation_local_level_id="0" >92-2047</DOCKET>
+
+<DATE start="56" end="60" id="113218_6" >2047</DATE>
+
+<DATE start="102" end="117" id="113218_7" >October 4, 1993</DATE>
+
+<NAME start="195" local_name_id="3" end="205" id="113218_15" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="243" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_984_906" id1="Dummy_File_152921" volume="984" start="230" page_number="906" standard_reporter="F.2D" citation_global_level_id="216771.001" line="3" id="113218_14" citation_local_level_id="2" >984 F. 2d 906</CITATION>
+
+<RELATION theme="113218_1" includes_docket_string="92-2047" includes_docket="113218_2" theme_string="510 U.S. 828" gram_type="apposition" relation_type="asymmetric" id="113218_12" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 828" X_vs_Y_string="Valentine v. United States" standard_case="113218_1" X_vs_Y="113218_3" gram_type="pre_nom" relation_type="equivalence" id="113218_8" ></RELATION>
+
+<RELATION theme="113218_3" includes_docket_string="92-2047" includes_docket="113218_2" theme_string="Valentine v. United States" gram_type="apposition" relation_type="asymmetric" id="113218_11" ></RELATION>
+
+<RELATION party2="113218_5" theme="113218_3" theme_string="Valentine v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="113218_10" ></RELATION>
+
+<RELATION theme="113218_3" party1="113218_4" party1_string="Valentine" theme_string="Valentine v. United States" gram_type="infix" relation_type="asymmetric" id="113218_9" ></RELATION>
+
+<RELATION at_date_string="2047" theme="113218_2" at_date="113218_6" theme_string="92-2047" gram_type="infix" relation_type="asymmetric" id="113218_13" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['andersonmotors#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1053" id1="125448" volume="537" start="0" page_number="1053" standard_reporter="U.S." citation_global_level_id="10343.002" line="1" id="125452_1" citation_local_level_id="0" >537 U.S. 1053</CITATION>
+
+<CITATION party2="GENERAL MOTORS CORP" party1="ANDERSON" citation_global_level_id="51086.001" party2_short="MOTORS" line="1" id="125452_3" alternative_keys="['u.s._537_1053']" end="49" entry_type="party_key" lookup_key="andersonmotors#1" id1="125452" start="18" party1_short="ANDERSON" citation_local_level_id="1" >ANDERSON v. GENERAL MOTORS CORP</CITATION>
+
+<NAME end="26" start="18" party1_of="125452_3" all_names="ANDERSON" local_name_id="1" id="125452_4" >ANDERSON</NAME>
+
+<NAME end="49" start="30" all_names="GENERAL MOTORS CORP" party2_of="125452_3" local_name_id="2" id="125452_5" >GENERAL MOTORS CORP</NAME>
+
+<DOCKET end="66" entry_type="docket" lookup_key="u.s._537_1053" id1="125448" start="59" citation_global_level_id="10343.002" line="1" id="125452_2" citation_local_level_id="0" >02-6618</DOCKET>
+
+<DATE start="108" end="124" id="125452_6" >December 2, 2002</DATE>
+
+<NAME start="216" local_name_id="3" end="219" id="125452_13" all_names="SUP" >Sup</NAME>
+
+<CITATION end="278" reporter="A. 2d" entry_type="standard_key" no_current_file="True" lookup_key="a.2d_796_654" id1="Dummy_File_83702" volume="796" start="265" page_number="654" standard_reporter="A.2D" citation_global_level_id="147552.001" line="3" id="125452_12" citation_local_level_id="2" >796 A. 2d 654</CITATION>
+
+<RELATION theme="125452_1" includes_docket_string="02-6618" includes_docket="125452_2" theme_string="537 U.S. 1053" gram_type="apposition" relation_type="asymmetric" id="125452_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1053" X_vs_Y_string="ANDERSON v. GENERAL MOTORS CORP" standard_case="125452_1" X_vs_Y="125452_3" gram_type="pre_nom" relation_type="equivalence" id="125452_7" ></RELATION>
+
+<RELATION theme="125452_3" includes_docket_string="02-6618" includes_docket="125452_2" theme_string="ANDERSON v. GENERAL MOTORS CORP" gram_type="apposition" relation_type="asymmetric" id="125452_10" ></RELATION>
+
+<RELATION theme="125452_3" party1="125452_4" party1_string="ANDERSON" theme_string="ANDERSON v. GENERAL MOTORS CORP" gram_type="infix" relation_type="asymmetric" id="125452_8" ></RELATION>
+
+<RELATION party2="125452_5" theme="125452_3" theme_string="ANDERSON v. GENERAL MOTORS CORP" party2_string="GENERAL MOTORS CORP" gram_type="infix" relation_type="asymmetric" id="125452_9" ></RELATION>
+

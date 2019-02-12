@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['justicecourt#3']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._542_908" id1="137083" volume="542" start="0" page_number="908" standard_reporter="U.S." citation_global_level_id="2197.002" line="3" id="137094_2" citation_local_level_id="0" >542 U.S. 908</CITATION>
+
+<CITATION party2="SUPERIOR COURT OF CALIFORNIA, SAN DIEGO COUNTY" party1="JUSTICE" citation_global_level_id="2197.003" party2_short="COURT" line="3" id="137094_4" alternative_keys="['u.s._542_908']" end="74" entry_type="party_key" lookup_key="justicecourt#3" id1="137083" start="17" party1_short="JUSTICE" citation_local_level_id="1" >JUSTICE v. SUPERIOR COURT OF CALIFORNIA, SAN DIEGO COUNTY</CITATION>
+
+<NAME end="24" start="17" party1_of="137094_4" all_names="JUSTICE" local_name_id="1" id="137094_5" >JUSTICE</NAME>
+
+<NAME end="74" start="28" all_names="SUPERIOR COURT OF CALIFORNIA SAN DIEGO COUNTY" party2_of="137094_4" local_name_id="2" id="137094_6" >SUPERIOR COURT OF CALIFORNIA, SAN DIEGO COUNTY</NAME>
+
+<DOCKET end="91" entry_type="docket" lookup_key="u.s._542_908" id1="137083" start="84" citation_global_level_id="2197.002" line="3" id="137094_3" citation_local_level_id="0" >03-9843</DOCKET>
+
+<ORGANIZATION start="97" end="127" id="137094_12" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="133" citation_global_level_id="2197.003" end="146" id="137094_13" citation_local_level_id="1" >June 14, 2004</DATE>
+
+<NAME start="168" local_name_id="3" end="170" id="137094_15" all_names="CT" >Ct</NAME>
+
+<RELATION theme="137094_2" includes_docket_string="03-9843" includes_docket="137094_3" theme_string="542 U.S. 908" gram_type="apposition" relation_type="asymmetric" id="137094_11" ></RELATION>
+
+<RELATION standard_case_string="542 U.S. 908" X_vs_Y_string="JUSTICE v. SUPERIOR COURT OF CALIFORNIA, SAN DIEGO COUNTY" standard_case="137094_2" X_vs_Y="137094_4" gram_type="pre_nom" relation_type="equivalence" id="137094_7" ></RELATION>
+
+<RELATION theme="137094_4" includes_docket_string="03-9843" includes_docket="137094_3" theme_string="JUSTICE v. SUPERIOR COURT OF CALIFORNIA, SAN DIEGO COUNTY" gram_type="apposition" relation_type="asymmetric" id="137094_10" ></RELATION>
+
+<RELATION theme="137094_4" party1="137094_5" party1_string="JUSTICE" theme_string="JUSTICE v. SUPERIOR COURT OF CALIFORNIA, SAN DIEGO COUNTY" gram_type="infix" relation_type="asymmetric" id="137094_8" ></RELATION>
+
+<RELATION party2="137094_6" theme="137094_4" theme_string="JUSTICE v. SUPERIOR COURT OF CALIFORNIA, SAN DIEGO COUNTY" party2_string="SUPERIOR COURT OF CALIFORNIA, SAN DIEGO COUNTY" gram_type="infix" relation_type="asymmetric" id="137094_9" ></RELATION>
+
+<RELATION at_date_string="June 14, 2004" theme="137094_4" at_date="137094_13" theme_string="JUSTICE v. SUPERIOR COURT OF CALIFORNIA, SAN DIEGO COUNTY" gram_type="multi_line" relation_type="asymmetric" id="137094_14" ></RELATION>
+

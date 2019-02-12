@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['sikestelegraph#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_884" id1="123321" volume="537" start="0" page_number="884" standard_reporter="U.S." citation_global_level_id="4340.002" line="1" id="123313_1" citation_local_level_id="0" >537 U.S. 884</CITATION>
+
+<CITATION party2="AMERICAN TELEPHONE &amp; TELEGRAPH CO" party1="SIKES ET AL." citation_global_level_id="4340.004" party2_short="TELEGRAPH" line="1" id="123313_3" alternative_keys="['u.s._537_884']" end="66" entry_type="party_key" lookup_key="sikestelegraph#2" id1="123321" start="17" party1_short="SIKES" citation_local_level_id="1" >SIKES ET AL. v. AMERICAN TELEPHONE &amp; TELEGRAPH CO</CITATION>
+
+<NAME end="29" start="17" party1_of="123313_3" all_names="SIKES" local_name_id="1" id="123313_4" >SIKES ET AL.</NAME>
+
+<NAME start="17" local_name_id="1" end="28" id="123313_7" all_names="SIKES" >SIKES ET AL</NAME>
+
+<NAME end="66" start="33" all_names="AMERICAN TELEPHONE &amp; TELEGRAPH CO" party2_of="123313_3" local_name_id="2" id="123313_5" >AMERICAN TELEPHONE &amp; TELEGRAPH CO</NAME>
+
+<DOCKET end="82" entry_type="docket" lookup_key="u.s._537_884" id1="123321" start="76" citation_global_level_id="4340.002" line="1" id="123313_2" citation_local_level_id="0" >02-124</DOCKET>
+
+<DATE start="124" end="139" id="123313_6" >October 7, 2002</DATE>
+
+<NAME start="272" local_name_id="3" end="275" id="123313_14" all_names="CIR" >Cir</NAME>
+
+<CITATION end="326" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_281_1350" id1="Dummy_File_80260" volume="281" start="312" page_number="1350" standard_reporter="F.3D" citation_global_level_id="144110.001" line="3" id="123313_13" citation_local_level_id="2" >281 F. 3d 1350</CITATION>
+
+<RELATION theme="123313_1" includes_docket_string="02-124" includes_docket="123313_2" theme_string="537 U.S. 884" gram_type="apposition" relation_type="asymmetric" id="123313_12" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 884" X_vs_Y_string="SIKES ET AL. v. AMERICAN TELEPHONE &amp; TELEGRAPH CO" standard_case="123313_1" X_vs_Y="123313_3" gram_type="pre_nom" relation_type="equivalence" id="123313_8" ></RELATION>
+
+<RELATION theme="123313_3" includes_docket_string="02-124" includes_docket="123313_2" theme_string="SIKES ET AL. v. AMERICAN TELEPHONE &amp; TELEGRAPH CO" gram_type="apposition" relation_type="asymmetric" id="123313_11" ></RELATION>
+
+<RELATION party2="123313_5" theme="123313_3" theme_string="SIKES ET AL. v. AMERICAN TELEPHONE &amp; TELEGRAPH CO" party2_string="AMERICAN TELEPHONE &amp; TELEGRAPH CO" gram_type="infix" relation_type="asymmetric" id="123313_10" ></RELATION>
+
+<RELATION theme="123313_3" party1="123313_4" party1_string="SIKES ET AL." theme_string="SIKES ET AL. v. AMERICAN TELEPHONE &amp; TELEGRAPH CO" gram_type="infix" relation_type="asymmetric" id="123313_9" ></RELATION>
+

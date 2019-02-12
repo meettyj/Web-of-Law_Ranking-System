@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['hodgesalabama#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_986" id1="133551" volume="540" start="0" page_number="986" standard_reporter="U.S." citation_global_level_id="10756.002" line="1" id="133559_1" citation_local_level_id="0" >540 U.S. 986</CITATION>
+
+<CITATION party2="ALABAMA" party1="HODGES" citation_global_level_id="18124.001" party2_short="ALABAMA" line="1" id="133559_3" alternative_keys="['u.s._540_986']" end="34" entry_type="party_key" lookup_key="hodgesalabama#1" id1="133559" start="17" party1_short="HODGES" citation_local_level_id="1" >HODGES v. ALABAMA</CITATION>
+
+<NAME end="23" start="17" party1_of="133559_3" all_names="HODGES" local_name_id="1" id="133559_4" >HODGES</NAME>
+
+<NAME end="34" start="27" all_names="ALABAMA" party2_of="133559_3" local_name_id="2" id="133559_5" >ALABAMA</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="u.s._540_986" id1="133551" start="44" citation_global_level_id="10756.002" line="1" id="133559_2" citation_local_level_id="0" >03-5544</DOCKET>
+
+<DATE start="93" end="109" id="133559_6" >November 3, 2003</DATE>
+
+<NAME start="186" local_name_id="3" end="196" id="133559_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="235" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_856_936" id1="Dummy_File_4458" volume="856" start="221" page_number="936" standard_reporter="SO.2D" citation_global_level_id="68308.001" line="3" id="133559_12" citation_local_level_id="2" >856 So. 2d 936</CITATION>
+
+<RELATION theme="133559_1" includes_docket_string="03-5544" includes_docket="133559_2" theme_string="540 U.S. 986" gram_type="apposition" relation_type="asymmetric" id="133559_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 986" X_vs_Y_string="HODGES v. ALABAMA" standard_case="133559_1" X_vs_Y="133559_3" gram_type="pre_nom" relation_type="equivalence" id="133559_7" ></RELATION>
+
+<RELATION theme="133559_3" includes_docket_string="03-5544" includes_docket="133559_2" theme_string="HODGES v. ALABAMA" gram_type="apposition" relation_type="asymmetric" id="133559_10" ></RELATION>
+
+<RELATION theme="133559_3" party1="133559_4" party1_string="HODGES" theme_string="HODGES v. ALABAMA" gram_type="infix" relation_type="asymmetric" id="133559_8" ></RELATION>
+
+<RELATION party2="133559_5" theme="133559_3" theme_string="HODGES v. ALABAMA" party2_string="ALABAMA" gram_type="infix" relation_type="asymmetric" id="133559_9" ></RELATION>
+

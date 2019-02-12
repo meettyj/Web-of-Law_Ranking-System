@@ -1,0 +1,34 @@
+<CITATION alternative_keys="['johnsonstate#5', 's.ct._82_247', 'l.ed.2d_7_188']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._368_145" id1="106306" volume="368" start="0" page_number="145" standard_reporter="U.S." citation_global_level_id="33256.002" line="1" id="106306_1" citation_local_level_id="0" >368 U.S. 145</CITATION>
+
+<CITATION alternative_keys="['u.s._368_145', 'johnsonstate#5', 'l.ed.2d_7_188']" end="30" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._82_247" id1="106306" volume="82" start="17" page_number="247" standard_reporter="S.CT." citation_global_level_id="33256.003" line="1" id="106306_2" citation_local_level_id="1" >82 S. Ct. 247</CITATION>
+
+<NAME start="20" local_name_id="1" end="25" id="106306_8" all_names="S CT" >S. Ct</NAME>
+
+<CITATION alternative_keys="['u.s._368_145', 's.ct._82_247', 'johnsonstate#5']" end="50" reporter="L. Ed. 2d" entry_type="standard_key" lookup_key="l.ed.2d_7_188" id1="106306" volume="7" start="35" page_number="188" standard_reporter="L.ED.2D" citation_global_level_id="33256.004" line="1" id="106306_3" citation_local_level_id="2" >7 L. Ed. 2d 188</CITATION>
+
+<CITATION party2="STATE OF NEW JERSEY" party1="Sylvester JOHNSON et al." citation_global_level_id="33256.001" party2_short="STATE" line="1" id="106306_4" alternative_keys="['u.s._368_145', 's.ct._82_247', 'l.ed.2d_7_188']" end="102" entry_type="party_key" lookup_key="johnsonstate#5" id1="106306" start="55" party1_short="JOHNSON" citation_local_level_id="3" >Sylvester JOHNSON et al. v. STATE OF NEW JERSEY</CITATION>
+
+<NAME end="79" start="55" party1_of="106306_4" all_names="SYLVESTER JOHNSON" local_name_id="2" id="106306_5" >Sylvester JOHNSON et al.</NAME>
+
+<NAME end="102" start="83" all_names="STATE OF NEW JERSEY" party2_of="106306_4" local_name_id="3" id="106306_6" >STATE OF NEW JERSEY</NAME>
+
+<NAME start="117" local_name_id="4" end="121" id="106306_9" all_names="MISC" >Misc</NAME>
+
+<DATE start="166" end="182" id="106306_7" >December 4, 1961</DATE>
+
+<NAME start="235" local_name_id="5" end="247" id="106306_15" all_names="NORMAN HEINE" >Norman Heine</NAME>
+
+<LEGAL_ROLE start="253" end="261" id="106306_16" party="party2" >appellee</LEGAL_ROLE>
+
+<NAME start="273" local_name_id="6" end="279" id="106306_17" all_names="CURIAM" >CURIAM</NAME>
+
+<RELATION standard_case_string="368 U.S. 145" X_vs_Y_string="Sylvester JOHNSON et al. v. STATE OF NEW JERSEY" standard_case="106306_1" X_vs_Y="106306_4" gram_type="pre_nom" relation_type="equivalence" id="106306_11" ></RELATION>
+
+<RELATION standard_case_string="82 S. Ct. 247" X_vs_Y_string="Sylvester JOHNSON et al. v. STATE OF NEW JERSEY" standard_case="106306_2" X_vs_Y="106306_4" gram_type="pre_nom" relation_type="equivalence" id="106306_12" ></RELATION>
+
+<RELATION standard_case_string="7 L. Ed. 2d 188" X_vs_Y_string="Sylvester JOHNSON et al. v. STATE OF NEW JERSEY" standard_case="106306_3" X_vs_Y="106306_4" gram_type="pre_nom" relation_type="equivalence" id="106306_10" ></RELATION>
+
+<RELATION theme="106306_4" party1="106306_5" party1_string="Sylvester JOHNSON et al." theme_string="Sylvester JOHNSON et al. v. STATE OF NEW JERSEY" gram_type="infix" relation_type="asymmetric" id="106306_13" ></RELATION>
+
+<RELATION party2="106306_6" theme="106306_4" theme_string="Sylvester JOHNSON et al. v. STATE OF NEW JERSEY" party2_string="STATE OF NEW JERSEY" gram_type="infix" relation_type="asymmetric" id="106306_14" ></RELATION>
+

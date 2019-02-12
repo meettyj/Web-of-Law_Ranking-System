@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['reihleymcgill#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_876" id1="113867" volume="510" start="0" page_number="876" standard_reporter="U.S." citation_global_level_id="1018.002" line="1" id="113869_1" citation_local_level_id="0" >510 U.S. 876</CITATION>
+
+<CITATION party2="McGill et al" party1="Reihley" citation_global_level_id="30335.001" party2_short="McGill" line="1" id="113869_3" alternative_keys="['u.s._510_876']" end="40" entry_type="party_key" lookup_key="reihleymcgill#1" id1="113869" start="17" party1_short="Reihley" citation_local_level_id="1" >Reihley v. McGill et al</CITATION>
+
+<NAME end="24" start="17" party1_of="113869_3" all_names="REIHLEY" local_name_id="1" id="113869_4" >Reihley</NAME>
+
+<NAME end="40" start="28" all_names="MCGILL" party2_of="113869_3" local_name_id="2" id="113869_5" >McGill et al</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._510_876" id1="113867" start="50" citation_global_level_id="1018.002" line="1" id="113869_2" citation_local_level_id="0" >93-5114</DOCKET>
+
+<DATE start="99" end="114" id="113869_6" >October 4, 1993</DATE>
+
+<NAME start="192" local_name_id="3" end="202" id="113869_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="240" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_988_121" id1="Dummy_File_118268" volume="988" start="227" page_number="121" standard_reporter="F.2D" citation_global_level_id="182118.001" line="3" id="113869_12" citation_local_level_id="2" >988 F. 2d 121</CITATION>
+
+<RELATION theme="113869_1" includes_docket_string="93-5114" includes_docket="113869_2" theme_string="510 U.S. 876" gram_type="apposition" relation_type="asymmetric" id="113869_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 876" X_vs_Y_string="Reihley v. McGill et al" standard_case="113869_1" X_vs_Y="113869_3" gram_type="pre_nom" relation_type="equivalence" id="113869_7" ></RELATION>
+
+<RELATION theme="113869_3" includes_docket_string="93-5114" includes_docket="113869_2" theme_string="Reihley v. McGill et al" gram_type="apposition" relation_type="asymmetric" id="113869_10" ></RELATION>
+
+<RELATION theme="113869_3" party1="113869_4" party1_string="Reihley" theme_string="Reihley v. McGill et al" gram_type="infix" relation_type="asymmetric" id="113869_8" ></RELATION>
+
+<RELATION party2="113869_5" theme="113869_3" theme_string="Reihley v. McGill et al" party2_string="McGill et al" gram_type="infix" relation_type="asymmetric" id="113869_9" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['macewanalabama#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_959" id1="133228" volume="540" start="0" page_number="959" standard_reporter="U.S." citation_global_level_id="4140.002" line="1" id="133221_1" citation_local_level_id="0" >540 U.S. 959</CITATION>
+
+<CITATION party2="ALABAMA" party1="MACEWAN" citation_global_level_id="59901.001" party2_short="ALABAMA" line="1" id="133221_3" alternative_keys="['u.s._540_959']" end="35" entry_type="party_key" lookup_key="macewanalabama#1" id1="133221" start="17" party1_short="MACEWAN" citation_local_level_id="1" >MACEWAN v. ALABAMA</CITATION>
+
+<NAME end="24" start="17" party1_of="133221_3" all_names="MACEWAN" local_name_id="1" id="133221_4" >MACEWAN</NAME>
+
+<NAME end="35" start="28" all_names="ALABAMA" party2_of="133221_3" local_name_id="2" id="133221_5" >ALABAMA</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="u.s._540_959" id1="133228" start="45" citation_global_level_id="4140.002" line="1" id="133221_2" citation_local_level_id="0" >03-6073</DOCKET>
+
+<DATE start="94" end="110" id="133221_6" >October 14, 2003</DATE>
+
+<NAME start="187" local_name_id="3" end="197" id="133221_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="236" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_860_899" id1="Dummy_File_159049" volume="860" start="222" page_number="899" standard_reporter="SO.2D" citation_global_level_id="222899.001" line="3" id="133221_12" citation_local_level_id="2" >860 So. 2d 899</CITATION>
+
+<RELATION theme="133221_1" includes_docket_string="03-6073" includes_docket="133221_2" theme_string="540 U.S. 959" gram_type="apposition" relation_type="asymmetric" id="133221_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 959" X_vs_Y_string="MACEWAN v. ALABAMA" standard_case="133221_1" X_vs_Y="133221_3" gram_type="pre_nom" relation_type="equivalence" id="133221_7" ></RELATION>
+
+<RELATION theme="133221_3" includes_docket_string="03-6073" includes_docket="133221_2" theme_string="MACEWAN v. ALABAMA" gram_type="apposition" relation_type="asymmetric" id="133221_10" ></RELATION>
+
+<RELATION theme="133221_3" party1="133221_4" party1_string="MACEWAN" theme_string="MACEWAN v. ALABAMA" gram_type="infix" relation_type="asymmetric" id="133221_8" ></RELATION>
+
+<RELATION party2="133221_5" theme="133221_3" theme_string="MACEWAN v. ALABAMA" party2_string="ALABAMA" gram_type="infix" relation_type="asymmetric" id="133221_9" ></RELATION>
+

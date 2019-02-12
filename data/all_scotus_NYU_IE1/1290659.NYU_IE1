@@ -1,0 +1,44 @@
+<DATE start="2" end="6" id="1290659_1" >2008</DATE>
+
+<CITATION party2="IDAHO" party1="JAMES H. HAIRSTON" citation_global_level_id="1725.001" party2_short="IDAHO" line="5" id="1290659_3" end="36" entry_type="party_key" lookup_key="hairstonidaho#1" id1="1290659" start="8" party1_short="HAIRSTON" citation_local_level_id="0" >JAMES H. HAIRSTON v. IDAHO</CITATION>
+
+<NAME end="25" start="8" party1_of="1290659_3" all_names="JAMES H HAIRSTON" local_name_id="1" id="1290659_4" >JAMES H. HAIRSTON</NAME>
+
+<NAME end="36" start="31" all_names="IDAHO" party2_of="1290659_3" local_name_id="2" id="1290659_5" >IDAHO</NAME>
+
+<DOCKET end="48" entry_type="docket" lookup_key="hairstonidaho#1" id1="1290659" start="41" citation_global_level_id="1725.001" line="6" id="1290659_8" citation_local_level_id="0" >07-5634</DOCKET>
+
+<ORGANIZATION start="49" end="79" id="1290659_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="81" citation_global_level_id="1725.001" end="98" id="1290659_10" citation_local_level_id="0" >February 25, 2008</DATE>
+
+<LEGAL_ROLE start="115" end="125" id="1290659_18" >petitioner</LEGAL_ROLE>
+
+<ORGANIZATION start="276" end="298" id="1290659_19" >Supreme Court of Idaho</ORGANIZATION>
+
+<CITATION party2="Minnesota" party1="Danforth" citation_global_level_id="35280.001" party2_short="Minnesota" line="10" id="1290659_14" alternative_keys="['u.s._552____']" end="358" entry_type="party_key" lookup_key="danforthminnesota#1" id1="145832" start="337" party1_short="Danforth" citation_local_level_id="1" >Danforth v. Minnesota</CITATION>
+
+<NAME end="345" start="337" party1_of="1290659_14" all_names="DANFORTH" local_name_id="3" id="1290659_15" >Danforth</NAME>
+
+<NAME end="358" start="349" all_names="MINNESOTA" party2_of="1290659_14" local_name_id="4" id="1290659_16" >Minnesota</NAME>
+
+<CITATION alternative_keys="['danforthminnesota#1']" end="379" reporter="U.S." entry_type="standard_key" lookup_key="u.s._552____" id1="145930" volume="552" start="360" page_number="___" year="2008" standard_reporter="U.S." citation_global_level_id="3524.006" line="10" id="1290659_13" citation_local_level_id="2" >552 U.S. ___ (2008)</CITATION>
+
+<DATE start="374" citation_global_level_id="3524.006" end="378" id="1290659_17" citation_local_level_id="2" >2008</DATE>
+
+<RELATION theme="1290659_3" party1="1290659_4" party1_string="JAMES H. HAIRSTON" theme_string="JAMES H. HAIRSTON  v.  IDAHO" gram_type="infix" relation_type="asymmetric" id="1290659_6" ></RELATION>
+
+<RELATION party2="1290659_5" theme="1290659_3" theme_string="JAMES H. HAIRSTON  v.  IDAHO" party2_string="IDAHO" gram_type="infix" relation_type="asymmetric" id="1290659_7" ></RELATION>
+
+<RELATION at_date_string="February 25, 2008" theme="1290659_3" at_date="1290659_10" theme_string="JAMES H. HAIRSTON  v.  IDAHO" gram_type="multi_line" relation_type="asymmetric" id="1290659_12" ></RELATION>
+
+<RELATION theme="1290659_3" includes_docket_string="07-5634" includes_docket="1290659_8" theme_string="JAMES H. HAIRSTON  v.  IDAHO" gram_type="multi_line" relation_type="asymmetric" id="1290659_11" ></RELATION>
+
+<RELATION standard_case_string="552 U.S. ___ (2008)" X_vs_Y_string="Danforth v. Minnesota" standard_case="1290659_13" X_vs_Y="1290659_14" gram_type="apposition" relation_type="equivalence" id="1290659_22" ></RELATION>
+
+<RELATION theme="1290659_14" party1="1290659_15" party1_string="Danforth" theme_string="Danforth v. Minnesota" gram_type="infix" relation_type="asymmetric" id="1290659_20" ></RELATION>
+
+<RELATION party2="1290659_16" theme="1290659_14" theme_string="Danforth v. Minnesota" party2_string="Minnesota" gram_type="infix" relation_type="asymmetric" id="1290659_21" ></RELATION>
+
+<RELATION at_date_string="2008" theme="1290659_13" at_date="1290659_17" theme_string="552 U.S. ___ (2008)" gram_type="infix" relation_type="asymmetric" id="1290659_23" ></RELATION>
+

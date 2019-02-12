@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['santiagostates#8']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_911" id1="134897" volume="541" start="0" page_number="911" standard_reporter="U.S." citation_global_level_id="7055.002" line="1" id="134896_1" citation_local_level_id="0" >541 U.S. 911</CITATION>
+
+<CITATION party2="UNITED STATES" party1="RAMOS-SANTIAGO" citation_global_level_id="58232.001" party2_short="STATES" line="2" id="134896_2" alternative_keys="['u.s._541_911']" end="48" entry_type="party_key" lookup_key="santiagostates#8" id1="128571" start="17" party1_short="SANTIAGO" citation_local_level_id="1" >RAMOS-SANTIAGO v. UNITED STATES</CITATION>
+
+<NAME end="31" start="17" party1_of="134896_2" all_names="RAMOS-SANTIAGO" local_name_id="1" id="134896_3" >RAMOS-SANTIAGO</NAME>
+
+<NAME end="48" start="35" all_names="UNITED STATES" party2_of="134896_2" local_name_id="2" id="134896_4" >UNITED STATES</NAME>
+
+<DOCKET end="65" entry_type="docket" lookup_key="santiagostates#8" id1="128571" start="58" citation_global_level_id="58232.001" line="3" id="134896_7" citation_local_level_id="1" >03-8750</DOCKET>
+
+<ORGANIZATION start="71" end="101" id="134896_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="107" citation_global_level_id="58232.001" end="120" id="134896_9" citation_local_level_id="1" >March 8, 2004</DATE>
+
+<NAME start="153" local_name_id="3" end="156" id="134896_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="134896_2" party1="134896_3" party1_string="RAMOS-SANTIAGO" theme_string="RAMOS-SANTIAGO v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="134896_5" ></RELATION>
+
+<RELATION party2="134896_4" theme="134896_2" theme_string="RAMOS-SANTIAGO v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="134896_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 911" X_vs_Y_string="RAMOS-SANTIAGO v. UNITED STATES" standard_case="134896_1" X_vs_Y="134896_2" gram_type="multi_line" relation_type="equivalence" id="134896_10" ></RELATION>
+
+<RELATION at_date_string="March 8, 2004" theme="134896_2" at_date="134896_9" theme_string="RAMOS-SANTIAGO v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="134896_12" ></RELATION>
+
+<RELATION theme="134896_2" includes_docket_string="03-8750" includes_docket="134896_7" theme_string="RAMOS-SANTIAGO v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="134896_11" ></RELATION>
+

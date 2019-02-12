@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['gorestates#6']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_920" id1="114431" volume="510" start="0" page_number="920" standard_reporter="U.S." citation_global_level_id="4362.002" line="1" id="114425_1" citation_local_level_id="0" >510 U.S. 920</CITATION>
+
+<CITATION party2="United States" party1="Gore" citation_global_level_id="60549.001" party2_short="States" line="1" id="114425_3" alternative_keys="['u.s._510_920']" end="38" entry_type="party_key" lookup_key="gorestates#6" id1="144121" start="17" party1_short="Gore" citation_local_level_id="1" >Gore v. United States</CITATION>
+
+<NAME end="21" start="17" party1_of="114425_3" all_names="GORE" local_name_id="1" id="114425_4" >Gore</NAME>
+
+<NAME end="38" start="25" all_names="UNITED STATES" party2_of="114425_3" local_name_id="2" id="114425_5" >United States</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._510_920" id1="114431" start="48" citation_global_level_id="4362.002" line="1" id="114425_2" citation_local_level_id="0" >93-5443</DOCKET>
+
+<DATE start="97" end="113" id="114425_6" >October 12, 1993</DATE>
+
+<NAME start="190" local_name_id="3" end="200" id="114425_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="238" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_993_879" id1="Dummy_File_76727" volume="993" start="225" page_number="879" standard_reporter="F.2D" citation_global_level_id="140577.001" line="3" id="114425_12" citation_local_level_id="2" >993 F. 2d 879</CITATION>
+
+<RELATION theme="114425_1" includes_docket_string="93-5443" includes_docket="114425_2" theme_string="510 U.S. 920" gram_type="apposition" relation_type="asymmetric" id="114425_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 920" X_vs_Y_string="Gore v. United States" standard_case="114425_1" X_vs_Y="114425_3" gram_type="pre_nom" relation_type="equivalence" id="114425_7" ></RELATION>
+
+<RELATION theme="114425_3" includes_docket_string="93-5443" includes_docket="114425_2" theme_string="Gore v. United States" gram_type="apposition" relation_type="asymmetric" id="114425_10" ></RELATION>
+
+<RELATION theme="114425_3" party1="114425_4" party1_string="Gore" theme_string="Gore v. United States" gram_type="infix" relation_type="asymmetric" id="114425_8" ></RELATION>
+
+<RELATION party2="114425_5" theme="114425_3" theme_string="Gore v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="114425_9" ></RELATION>
+

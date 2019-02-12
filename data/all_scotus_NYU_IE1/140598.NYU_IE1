@@ -1,0 +1,34 @@
+<CITATION alternative_keys="['salesstates#4']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1020" id1="140593" volume="543" start="0" page_number="1020" standard_reporter="U.S." citation_global_level_id="2255.002" line="1" id="140598_1" citation_local_level_id="0" >543 U.S. 1020</CITATION>
+
+<CITATION party2="UNITED STATES" party1="VENTURE COAL SALES CO. ET AL." citation_global_level_id="53410.001" party2_short="STATES" line="2" id="140598_2" alternative_keys="['u.s._543_1020']" end="64" entry_type="party_key" lookup_key="salesstates#4" id1="140598" start="18" party1_short="SALES" citation_local_level_id="1" >VENTURE COAL SALES CO. ET AL. v. UNITED STATES</CITATION>
+
+<NAME end="47" start="18" party1_of="140598_2" all_names="VENTURE COAL SALES CO" local_name_id="1" id="140598_3" >VENTURE COAL SALES CO. ET AL.</NAME>
+
+<NAME start="18" local_name_id="1" end="46" id="140598_5" all_names="VENTURE COAL SALES CO" >VENTURE COAL SALES CO. ET AL</NAME>
+
+<ORGANIZATION start="37" end="39" id="140598_6" >CO</ORGANIZATION>
+
+<NAME end="64" start="51" all_names="UNITED STATES" party2_of="140598_2" local_name_id="2" id="140598_4" >UNITED STATES</NAME>
+
+<DOCKET end="80" entry_type="docket" lookup_key="salesstates#4" id1="140598" start="74" citation_global_level_id="53410.001" line="3" id="140598_9" citation_local_level_id="1" >04-306</DOCKET>
+
+<ORGANIZATION start="86" end="116" id="140598_10" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="122" citation_global_level_id="53410.001" end="138" id="140598_11" citation_local_level_id="1" >December 6, 2004</DATE>
+
+<NAME start="160" local_name_id="3" end="169" id="140598_16" all_names="C A FED" >C. A. Fed</NAME>
+
+<NAME start="171" local_name_id="4" end="174" id="140598_17" all_names="CIR" >Cir</NAME>
+
+<CITATION end="225" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_370_1102" id1="Dummy_File_1813" volume="370" start="211" page_number="1102" standard_reporter="F.3D" citation_global_level_id="65663.001" line="8" id="140598_15" citation_local_level_id="2" >370 F. 3d 1102</CITATION>
+
+<RELATION theme="140598_2" party1="140598_3" party1_string="VENTURE COAL SALES CO. ET AL." theme_string="VENTURE COAL SALES CO. ET AL. v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="140598_7" ></RELATION>
+
+<RELATION party2="140598_4" theme="140598_2" theme_string="VENTURE COAL SALES CO. ET AL. v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="140598_8" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1020" X_vs_Y_string="VENTURE COAL SALES CO. ET AL. v. UNITED STATES" standard_case="140598_1" X_vs_Y="140598_2" gram_type="multi_line" relation_type="equivalence" id="140598_12" ></RELATION>
+
+<RELATION at_date_string="December 6, 2004" theme="140598_2" at_date="140598_11" theme_string="VENTURE COAL SALES CO. ET AL. v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="140598_14" ></RELATION>
+
+<RELATION theme="140598_2" includes_docket_string="04-306" includes_docket="140598_9" theme_string="VENTURE COAL SALES CO. ET AL. v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="140598_13" ></RELATION>
+

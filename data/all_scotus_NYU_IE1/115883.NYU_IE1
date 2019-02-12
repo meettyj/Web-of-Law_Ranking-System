@@ -1,0 +1,40 @@
+<CITATION alternative_keys="['organizationscheidler#3']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1036" id1="115884" volume="510" start="0" page_number="1036" standard_reporter="U.S." citation_global_level_id="11123.002" line="1" id="115883_1" citation_local_level_id="0" >510 U.S. 1036</CITATION>
+
+<CITATION party2="Scheidler et al" party1="National Organization for Women, Inc., et al." citation_global_level_id="28848.003" party2_short="Scheidler" line="1" id="115883_4" alternative_keys="['u.s._510_249']" end="82" entry_type="party_key" lookup_key="organizationscheidler#3" id1="112923" start="18" party1_short="Organization" citation_local_level_id="1" >National Organization for Women, Inc., et al. v. Scheidler et al</CITATION>
+
+<NAME end="63" start="18" party1_of="115883_4" all_names="NATIONAL ORGANIZATION FOR WOMEN INC" local_name_id="1" id="115883_5" >National Organization for Women, Inc., et al.</NAME>
+
+<ORGANIZATION start="18" end="49" id="115883_8" >National Organization for Women</ORGANIZATION>
+
+<ORGANIZATION start="51" end="54" id="115883_9" >Inc</ORGANIZATION>
+
+<NAME end="82" start="67" all_names="SCHEIDLER" party2_of="115883_4" local_name_id="2" id="115883_6" >Scheidler et al</NAME>
+
+<DOCKET end="98" entry_type="docket" lookup_key="u.s._510_1036" id1="115884" start="92" citation_global_level_id="11123.002" line="1" id="115883_3" citation_local_level_id="0" >92-780</DOCKET>
+
+<ORGANIZATION start="104" end="134" id="115883_10" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="140" end="156" id="115883_7" >January 10, 1994</DATE>
+
+<NAME start="178" local_name_id="3" end="195" id="115883_11" all_names="APPEAL FROM THE C" >Appeal from the C</NAME>
+
+<NAME start="204" local_name_id="4" end="207" id="115883_12" all_names="CIR" >Cir</NAME>
+
+<CITATION end="243" reporter="U. S." entry_type="standard_key" no_current_file="True" lookup_key="u.s._508_971" id1="Dummy_File_18576" volume="508" start="230" page_number="971" standard_reporter="U.S." citation_global_level_id="82426.001" line="1" id="115883_2" citation_local_level_id="2" >508 U. S. 971</CITATION>
+
+<LEGAL_ROLE end="292" name="Randall A. Terry" start="271" local_name_id="5" plural="True" id="115883_18" >Motion of respondents</LEGAL_ROLE>
+
+<NAME start="293" local_name_id="5" end="309" id="115883_19" all_names="RANDALL A TERRY" >Randall A. Terry</NAME>
+
+<RELATION theme="115883_1" includes_docket_string="92-780" includes_docket="115883_3" theme_string="510 U.S. 1036" gram_type="apposition" relation_type="asymmetric" id="115883_17" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1036" X_vs_Y_string="National Organization for Women, Inc., et al. v. Scheidler et al" standard_case="115883_1" X_vs_Y="115883_4" gram_type="pre_nom" relation_type="equivalence" id="115883_13" ></RELATION>
+
+<RELATION theme="115883_4" includes_docket_string="92-780" includes_docket="115883_3" theme_string="National Organization for Women, Inc., et al. v. Scheidler et al" gram_type="apposition" relation_type="asymmetric" id="115883_16" ></RELATION>
+
+<RELATION theme="115883_4" party1="115883_5" party1_string="National Organization for Women, Inc., et al." theme_string="National Organization for Women, Inc., et al. v. Scheidler et al" gram_type="infix" relation_type="asymmetric" id="115883_14" ></RELATION>
+
+<RELATION party2="115883_6" theme="115883_4" theme_string="National Organization for Women, Inc., et al. v. Scheidler et al" party2_string="Scheidler et al" gram_type="infix" relation_type="asymmetric" id="115883_15" ></RELATION>
+
+<RELATION theme="115883_19" legal_role="115883_18" id="115883_20" theme_string="Randall A. Terry" gram_type="pre_nom" relation_type="asymmetric" legal_role_string="Motion of respondents" ></RELATION>
+

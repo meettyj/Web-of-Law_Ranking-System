@@ -1,0 +1,44 @@
+<CITATION alternative_keys="['brownlivingston#1', 'a._06_71']" end="20" reporter="U.S." entry_type="standard_key" lookup_key="u.s._548_928" id1="1490309" volume="548" start="1" page_number="928" year="2006" standard_reporter="U.S." citation_global_level_id="2152.002" line="2" id="1490042_1" citation_local_level_id="0" >548 U.S. 928 (2006)</CITATION>
+
+<DATE start="15" citation_global_level_id="2152.002" end="19" id="1490042_2" citation_local_level_id="0" >2006</DATE>
+
+<CITATION party2="LIVINGSTON, EXECUTIVE DIRECTOR, TEXAS DEPARTMENT OF CRIMINAL JUSTICE, ET AL" party1="BROWN" citation_global_level_id="5255.001" party2_short="LIVINGSTON" line="5" id="1490042_5" alternative_keys="['u.s._548_928', 'a._06_71']" end="107" entry_type="party_key" lookup_key="brownlivingston#1" id1="1490042" start="21" party1_short="BROWN" citation_local_level_id="1" >BROWN v. LIVINGSTON, EXECUTIVE DIRECTOR, TEXAS DEPARTMENT OF CRIMINAL JUSTICE, ET AL</CITATION>
+
+<NAME end="26" start="21" party1_of="1490042_5" all_names="BROWN" local_name_id="1" id="1490042_6" >BROWN</NAME>
+
+<NAME end="107" start="32" all_names="LIVINGSTON EXECUTIVE DIRECTOR TEXAS DEPARTMENT OF CRIMINAL JUSTICE" party2_of="1490042_5" local_name_id="2" id="1490042_7" >LIVINGSTON, EXECUTIVE DIRECTOR, TEXAS DEPARTMENT OF CRIMINAL JUSTICE, ET AL</NAME>
+
+<DOCKET end="120" entry_type="docket" lookup_key="brownlivingston#1" id1="1490042" start="113" citation_global_level_id="5255.001" line="6" id="1490042_11" citation_local_level_id="1" >06-5357</DOCKET>
+
+<CITATION alternative_keys="['u.s._548_928', 'brownlivingston#1']" end="127" reporter="A" entry_type="standard_key" lookup_key="a._06_71" id1="1490042" volume="06" start="122" page_number="71" standard_reporter="A." citation_global_level_id="5255.002" line="6" id="1490042_10" citation_local_level_id="2" >06A71</CITATION>
+
+<ORGANIZATION start="130" end="160" id="1490042_12" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="162" citation_global_level_id="5255.001" end="175" id="1490042_13" citation_local_level_id="1" >July 19, 2006</DATE>
+
+<NAME start="177" local_name_id="3" end="188" id="1490042_14" all_names="APPLICATION" >Application</NAME>
+
+<PROFESSION start="246" document_level_name_id="4" end="253" id="1490042_15" party="SCALIA" >JUSTICE</PROFESSION>
+
+<NAME start="254" local_name_id="4" end="260" id="1490042_16" all_names="SCALIA" >SCALIA</NAME>
+
+<ORGANIZATION start="289" end="294" id="1490042_17" >Court</ORGANIZATION>
+
+<NAME start="304" local_name_id="5" end="314" id="1490042_18" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION at_date_string="2006" theme="1490042_1" at_date="1490042_2" theme_string="548 U.S. 928 (2006)" gram_type="infix" relation_type="asymmetric" id="1490042_3" ></RELATION>
+
+<RELATION theme="1490042_5" party1="1490042_6" party1_string="BROWN" theme_string="BROWN  v.  LIVINGSTON, EXECUTIVE DIRECTOR, TEXAS DEPARTMENT OF CRIMINAL JUSTICE, ET AL" gram_type="infix" relation_type="asymmetric" id="1490042_8" ></RELATION>
+
+<RELATION party2="1490042_7" theme="1490042_5" theme_string="BROWN  v.  LIVINGSTON, EXECUTIVE DIRECTOR, TEXAS DEPARTMENT OF CRIMINAL JUSTICE, ET AL" party2_string="LIVINGSTON, EXECUTIVE DIRECTOR, TEXAS DEPARTMENT OF CRIMINAL JUSTICE, ET AL" gram_type="infix" relation_type="asymmetric" id="1490042_9" ></RELATION>
+
+<RELATION theme="1490042_16" profession_string="JUSTICE" theme_string="SCALIA" profession="1490042_15" gram_type="pre_nom" relation_type="asymmetric" id="1490042_19" ></RELATION>
+
+<RELATION standard_case_string="548 U.S. 928 (2006)" X_vs_Y_string="BROWN  v.  LIVINGSTON, EXECUTIVE DIRECTOR, TEXAS DEPARTMENT OF CRIMINAL JUSTICE, ET AL" standard_case="1490042_1" X_vs_Y="1490042_5" gram_type="multi_line" relation_type="equivalence" id="1490042_20" ></RELATION>
+
+<RELATION at_date_string="July 19, 2006" theme="1490042_5" at_date="1490042_13" theme_string="BROWN  v.  LIVINGSTON, EXECUTIVE DIRECTOR, TEXAS DEPARTMENT OF CRIMINAL JUSTICE, ET AL" gram_type="multi_line" relation_type="asymmetric" id="1490042_23" ></RELATION>
+
+<RELATION standard_case_string="06A71" X_vs_Y_string="BROWN  v.  LIVINGSTON, EXECUTIVE DIRECTOR, TEXAS DEPARTMENT OF CRIMINAL JUSTICE, ET AL" standard_case="1490042_10" X_vs_Y="1490042_5" gram_type="multi_line" relation_type="equivalence" id="1490042_21" ></RELATION>
+
+<RELATION theme="1490042_5" includes_docket_string="06-5357" includes_docket="1490042_11" theme_string="BROWN  v.  LIVINGSTON, EXECUTIVE DIRECTOR, TEXAS DEPARTMENT OF CRIMINAL JUSTICE, ET AL" gram_type="multi_line" relation_type="asymmetric" id="1490042_22" ></RELATION>
+

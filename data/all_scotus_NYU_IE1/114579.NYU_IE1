@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['kirktitle#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_932" id1="114587" volume="510" start="0" page_number="932" standard_reporter="U.S." citation_global_level_id="4186.002" line="1" id="114579_1" citation_local_level_id="0" >510 U.S. 932</CITATION>
+
+<CITATION party2="Mid America Title Co" party1="Kirk" citation_global_level_id="49753.001" party2_short="Title" line="1" id="114579_3" alternative_keys="['u.s._510_932']" end="45" entry_type="party_key" lookup_key="kirktitle#1" id1="114579" start="17" party1_short="Kirk" citation_local_level_id="1" >Kirk v. Mid America Title Co</CITATION>
+
+<NAME end="21" start="17" party1_of="114579_3" all_names="KIRK" local_name_id="1" id="114579_4" >Kirk</NAME>
+
+<NAME end="45" start="25" all_names="MID AMERICA TITLE CO" party2_of="114579_3" local_name_id="2" id="114579_5" >Mid America Title Co</NAME>
+
+<DOCKET end="61" entry_type="docket" lookup_key="u.s._510_932" id1="114587" start="55" citation_global_level_id="4186.002" line="1" id="114579_2" citation_local_level_id="0" >93-329</DOCKET>
+
+<DATE start="103" end="119" id="114579_6" >October 18, 1993</DATE>
+
+<NAME start="197" local_name_id="3" end="207" id="114579_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="245" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_991_417" id1="Dummy_File_172526" volume="991" start="232" page_number="417" standard_reporter="F.2D" citation_global_level_id="236376.001" line="3" id="114579_12" citation_local_level_id="2" >991 F. 2d 417</CITATION>
+
+<RELATION theme="114579_1" includes_docket_string="93-329" includes_docket="114579_2" theme_string="510 U.S. 932" gram_type="apposition" relation_type="asymmetric" id="114579_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 932" X_vs_Y_string="Kirk v. Mid America Title Co" standard_case="114579_1" X_vs_Y="114579_3" gram_type="pre_nom" relation_type="equivalence" id="114579_7" ></RELATION>
+
+<RELATION theme="114579_3" includes_docket_string="93-329" includes_docket="114579_2" theme_string="Kirk v. Mid America Title Co" gram_type="apposition" relation_type="asymmetric" id="114579_10" ></RELATION>
+
+<RELATION theme="114579_3" party1="114579_4" party1_string="Kirk" theme_string="Kirk v. Mid America Title Co" gram_type="infix" relation_type="asymmetric" id="114579_8" ></RELATION>
+
+<RELATION party2="114579_5" theme="114579_3" theme_string="Kirk v. Mid America Title Co" party2_string="Mid America Title Co" gram_type="infix" relation_type="asymmetric" id="114579_9" ></RELATION>
+

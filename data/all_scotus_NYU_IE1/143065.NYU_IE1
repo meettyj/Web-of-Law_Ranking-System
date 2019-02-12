@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['wayneauthority#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_913" id1="143063" volume="544" start="0" page_number="913" standard_reporter="U.S." citation_global_level_id="799.002" line="1" id="143065_1" citation_local_level_id="0" >544 U.S. 913</CITATION>
+
+<CITATION party2="SANTA CLARA VALLEY TRANSPORTATION AUTHORITY" party1="WAYNE" citation_global_level_id="1119.004" party2_short="AUTHORITY" line="2" id="143065_3" alternative_keys="['u.s._543_954']" end="69" entry_type="party_key" lookup_key="wayneauthority#1" id1="139735" start="17" party1_short="WAYNE" citation_local_level_id="1" >WAYNE v. SANTA CLARA VALLEY TRANSPORTATION AUTHORITY</CITATION>
+
+<NAME end="22" start="17" party1_of="143065_3" all_names="WAYNE" local_name_id="1" id="143065_4" >WAYNE</NAME>
+
+<NAME end="69" start="26" all_names="SANTA CLARA VALLEY TRANSPORTATION AUTHORITY" party2_of="143065_3" local_name_id="2" id="143065_5" >SANTA CLARA VALLEY TRANSPORTATION AUTHORITY</NAME>
+
+<DOCKET alternative_keys="['u.s._543_954']" end="86" entry_type="docket" lookup_key="wayneauthority#1" id1="139735" start="79" citation_global_level_id="1119.004" line="2" id="143065_2" citation_local_level_id="1" >04-5990</DOCKET>
+
+<ORGANIZATION start="92" end="122" id="143065_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="128" citation_global_level_id="1119.004" end="141" id="143065_10" citation_local_level_id="1" >March 7, 2005</DATE>
+
+<CITATION end="177" reporter="U. S." entry_type="standard_key" lookup_key="u.s._543_1057" id1="141020" volume="543" start="163" page_number="1057" standard_reporter="U.S." citation_global_level_id="3860.002" line="7" id="143065_13" citation_local_level_id="2" >543 U. S. 1057</CITATION>
+
+<NAME start="179" local_name_id="3" end="188" id="143065_14" all_names="PETITIONS" >Petitions</NAME>
+
+<RELATION theme="143065_3" includes_docket_string="04-5990" includes_docket="143065_2" theme_string="WAYNE v. SANTA CLARA VALLEY TRANSPORTATION AUTHORITY" gram_type="apposition" relation_type="asymmetric" id="143065_8" ></RELATION>
+
+<RELATION theme="143065_3" party1="143065_4" party1_string="WAYNE" theme_string="WAYNE v. SANTA CLARA VALLEY TRANSPORTATION AUTHORITY" gram_type="infix" relation_type="asymmetric" id="143065_6" ></RELATION>
+
+<RELATION party2="143065_5" theme="143065_3" theme_string="WAYNE v. SANTA CLARA VALLEY TRANSPORTATION AUTHORITY" party2_string="SANTA CLARA VALLEY TRANSPORTATION AUTHORITY" gram_type="infix" relation_type="asymmetric" id="143065_7" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 913" X_vs_Y_string="WAYNE v. SANTA CLARA VALLEY TRANSPORTATION AUTHORITY" standard_case="143065_1" X_vs_Y="143065_3" gram_type="multi_line" relation_type="equivalence" id="143065_11" ></RELATION>
+
+<RELATION at_date_string="March 7, 2005" theme="143065_3" at_date="143065_10" theme_string="WAYNE v. SANTA CLARA VALLEY TRANSPORTATION AUTHORITY" gram_type="multi_line" relation_type="asymmetric" id="143065_12" ></RELATION>
+

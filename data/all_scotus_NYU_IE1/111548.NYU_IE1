@@ -1,0 +1,46 @@
+<CITATION alternative_keys="['linesmahfoud#2', 's.ct._106_586', 'l.ed.2d_88_522']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._474_213" id1="111548" volume="474" start="0" page_number="213" standard_reporter="U.S." citation_global_level_id="6135.002" line="1" id="111548_1" citation_local_level_id="0" >474 U.S. 213</CITATION>
+
+<CITATION alternative_keys="['u.s._474_213', 'linesmahfoud#2', 'l.ed.2d_88_522']" end="31" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._106_586" id1="111548" volume="106" start="17" page_number="586" standard_reporter="S.CT." citation_global_level_id="6135.003" line="1" id="111548_2" citation_local_level_id="1" >106 S. Ct. 586</CITATION>
+
+<NAME start="21" local_name_id="1" end="26" id="111548_11" all_names="S CT" >S. Ct</NAME>
+
+<CITATION alternative_keys="['u.s._474_213', 's.ct._106_586', 'linesmahfoud#2']" end="52" reporter="L. Ed. 2d" entry_type="standard_key" lookup_key="l.ed.2d_88_522" id1="111548" volume="88" start="36" page_number="522" standard_reporter="L.ED.2D" citation_global_level_id="6135.004" line="1" id="111548_3" citation_local_level_id="2" >88 L. Ed. 2d 522</CITATION>
+
+<CITATION party2="Robert F. MAHFOUD" alternative_keys="['s.ct._106_586', 'l.ed.2d_88_522', 'u.s._474_213']" party1="EASTERN AIR LINES, INC.," end="114" party1_short="LINES" entry_type="party_key" party1_role="petitioner" lookup_key="linesmahfoud#2" id1="111548" start="57" citation_global_level_id="6135.005" party2_short="MAHFOUD" line="1" id="111548_5" citation_local_level_id="3" >EASTERN AIR LINES, INC., Petitioner, v. Robert F. MAHFOUD</CITATION>
+
+<NAME end="81" start="57" party1_of="111548_5" all_names="EASTERN AIR LINES INC" local_name_id="2" id="111548_6" >EASTERN AIR LINES, INC.,</NAME>
+
+<ORGANIZATION start="57" end="79" id="111548_12" >EASTERN AIR LINES, INC</ORGANIZATION>
+
+<LEGAL_ROLE start="82" end="92" id="111548_8" >Petitioner</LEGAL_ROLE>
+
+<NAME end="114" start="97" all_names="ROBERT F MAHFOUD" party2_of="111548_5" local_name_id="3" id="111548_7" >Robert F. MAHFOUD</NAME>
+
+<DOCKET entry_type="docket" line="1" end="135" id="111548_4" start="128" >83-1807</DOCKET>
+
+<DATE start="131" end="135" id="111548_9" >1807</DATE>
+
+<DATE start="179" end="196" id="111548_10" >December 10, 1985</DATE>
+
+<NAME start="301" local_name_id="4" end="307" id="111548_20" all_names="CURIAM" >CURIAM</NAME>
+
+<PROFESSION start="413" document_level_name_id="5" end="420" id="111548_21" party="BRENNAN" >Justice</PROFESSION>
+
+<NAME start="421" local_name_id="5" end="428" id="111548_22" all_names="BRENNAN" >BRENNAN</NAME>
+
+<RELATION standard_case_string="474 U.S. 213" X_vs_Y_string="EASTERN AIR LINES, INC., Petitioner, v. Robert F. MAHFOUD" standard_case="111548_1" X_vs_Y="111548_5" gram_type="pre_nom" relation_type="equivalence" id="111548_14" ></RELATION>
+
+<RELATION standard_case_string="106 S. Ct. 586" X_vs_Y_string="EASTERN AIR LINES, INC., Petitioner, v. Robert F. MAHFOUD" standard_case="111548_2" X_vs_Y="111548_5" gram_type="pre_nom" relation_type="equivalence" id="111548_15" ></RELATION>
+
+<RELATION standard_case_string="88 L. Ed. 2d 522" X_vs_Y_string="EASTERN AIR LINES, INC., Petitioner, v. Robert F. MAHFOUD" standard_case="111548_3" X_vs_Y="111548_5" gram_type="pre_nom" relation_type="equivalence" id="111548_13" ></RELATION>
+
+<RELATION theme="111548_5" party1="111548_6" party1_string="EASTERN AIR LINES, INC.," theme_string="EASTERN AIR LINES, INC., Petitioner, v. Robert F. MAHFOUD" gram_type="infix" relation_type="asymmetric" id="111548_16" ></RELATION>
+
+<RELATION party2="111548_7" theme="111548_5" theme_string="EASTERN AIR LINES, INC., Petitioner, v. Robert F. MAHFOUD" party2_string="Robert F. MAHFOUD" gram_type="infix" relation_type="asymmetric" id="111548_17" ></RELATION>
+
+<RELATION at_date_string="December 10, 1985" theme="111548_4" at_date="111548_10" theme_string="83-1807" gram_type="pre_nom" relation_type="asymmetric" id="111548_19" ></RELATION>
+
+<RELATION at_date_string="1807" theme="111548_4" at_date="111548_9" theme_string="83-1807" gram_type="infix" relation_type="asymmetric" id="111548_18" ></RELATION>
+
+<RELATION theme="111548_22" profession_string="Justice" theme_string="BRENNAN" profession="111548_21" gram_type="pre_nom" relation_type="asymmetric" id="111548_23" ></RELATION>
+

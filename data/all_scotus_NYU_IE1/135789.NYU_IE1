@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['hollandet#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_998" id1="135789" volume="541" start="0" page_number="998" standard_reporter="U.S." citation_global_level_id="551.002" line="1" id="135789_1" citation_local_level_id="0" >541 U.S. 998</CITATION>
+
+<CITATION party2="FRANK ET AL" party1="HOLLAND" citation_global_level_id="551.006" party2_short="ET" line="2" id="135789_2" alternative_keys="['u.s._541_998']" end="39" entry_type="party_key" lookup_key="hollandet#1" id1="135789" start="17" party1_short="HOLLAND" citation_local_level_id="1" >HOLLAND v. FRANK ET AL</CITATION>
+
+<NAME end="24" start="17" party1_of="135789_2" all_names="HOLLAND" local_name_id="1" id="135789_3" >HOLLAND</NAME>
+
+<NAME end="39" start="28" all_names="FRANK" party2_of="135789_2" local_name_id="2" id="135789_4" >FRANK ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._541_998']" end="56" entry_type="docket" lookup_key="hollandet#1" id1="135789" start="49" citation_global_level_id="551.006" line="3" id="135789_7" citation_local_level_id="1" >03-9147</DOCKET>
+
+<ORGANIZATION start="62" end="92" id="135789_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="98" citation_global_level_id="551.006" end="112" id="135789_9" citation_local_level_id="1" >April 19, 2004</DATE>
+
+<NAME start="144" local_name_id="3" end="147" id="135789_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="135789_2" party1="135789_3" party1_string="HOLLAND" theme_string="HOLLAND v. FRANK ET AL" gram_type="infix" relation_type="asymmetric" id="135789_5" ></RELATION>
+
+<RELATION party2="135789_4" theme="135789_2" theme_string="HOLLAND v. FRANK ET AL" party2_string="FRANK ET AL" gram_type="infix" relation_type="asymmetric" id="135789_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 998" X_vs_Y_string="HOLLAND v. FRANK ET AL" standard_case="135789_1" X_vs_Y="135789_2" gram_type="multi_line" relation_type="equivalence" id="135789_10" ></RELATION>
+
+<RELATION at_date_string="April 19, 2004" theme="135789_2" at_date="135789_9" theme_string="HOLLAND v. FRANK ET AL" gram_type="multi_line" relation_type="asymmetric" id="135789_12" ></RELATION>
+
+<RELATION theme="135789_2" includes_docket_string="03-9147" includes_docket="135789_7" theme_string="HOLLAND v. FRANK ET AL" gram_type="multi_line" relation_type="asymmetric" id="135789_11" ></RELATION>
+

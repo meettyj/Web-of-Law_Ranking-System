@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['gruenwaldkansas#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_932" id1="130549" volume="539" start="0" page_number="932" standard_reporter="U.S." citation_global_level_id="1003.002" line="1" id="130545_1" citation_local_level_id="0" >539 U.S. 932</CITATION>
+
+<CITATION party2="Kansas" party1="Gruenwald" citation_global_level_id="23882.001" party2_short="Kansas" line="1" id="130545_3" alternative_keys="['u.s._539_932']" end="36" entry_type="party_key" lookup_key="gruenwaldkansas#1" id1="130545" start="17" party1_short="Gruenwald" citation_local_level_id="1" >Gruenwald v. Kansas</CITATION>
+
+<NAME end="26" start="17" party1_of="130545_3" all_names="GRUENWALD" local_name_id="1" id="130545_4" >Gruenwald</NAME>
+
+<NAME end="36" start="30" all_names="KANSAS" party2_of="130545_3" local_name_id="2" id="130545_5" >Kansas</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="u.s._539_932" id1="130549" start="46" citation_global_level_id="1003.002" line="1" id="130545_2" citation_local_level_id="0" >02-10244</DOCKET>
+
+<DATE start="96" end="109" id="130545_6" >June 16, 2003</DATE>
+
+<NAME start="186" local_name_id="3" end="196" id="130545_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="256" reporter="P. 3d" entry_type="standard_key" no_current_file="True" lookup_key="p.3d_56_315" id1="Dummy_File_83206" volume="56" start="244" page_number="315" standard_reporter="P.3D" citation_global_level_id="147056.001" line="3" id="130545_12" citation_local_level_id="2" >56 P. 3d 315</CITATION>
+
+<RELATION theme="130545_1" includes_docket_string="02-10244" includes_docket="130545_2" theme_string="539 U.S. 932" gram_type="apposition" relation_type="asymmetric" id="130545_11" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 932" X_vs_Y_string="Gruenwald v. Kansas" standard_case="130545_1" X_vs_Y="130545_3" gram_type="pre_nom" relation_type="equivalence" id="130545_7" ></RELATION>
+
+<RELATION theme="130545_3" includes_docket_string="02-10244" includes_docket="130545_2" theme_string="Gruenwald v. Kansas" gram_type="apposition" relation_type="asymmetric" id="130545_10" ></RELATION>
+
+<RELATION theme="130545_3" party1="130545_4" party1_string="Gruenwald" theme_string="Gruenwald v. Kansas" gram_type="infix" relation_type="asymmetric" id="130545_8" ></RELATION>
+
+<RELATION party2="130545_5" theme="130545_3" theme_string="Gruenwald v. Kansas" party2_string="Kansas" gram_type="infix" relation_type="asymmetric" id="130545_9" ></RELATION>
+

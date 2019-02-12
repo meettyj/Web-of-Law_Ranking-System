@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['motorjarvis#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1019" id1="125014" volume="537" start="0" page_number="1019" standard_reporter="U.S." citation_global_level_id="1714.002" line="1" id="125009_1" citation_local_level_id="0" >537 U.S. 1019</CITATION>
+
+<CITATION party2="JARVIS" party1="FORD MOTOR CO." citation_global_level_id="36730.001" party2_short="JARVIS" line="1" id="125009_3" alternative_keys="['u.s._537_1019']" end="42" entry_type="party_key" lookup_key="motorjarvis#1" id1="125009" start="18" party1_short="MOTOR" citation_local_level_id="1" >FORD MOTOR CO. v. JARVIS</CITATION>
+
+<NAME end="32" start="18" party1_of="125009_3" all_names="FORD MOTOR CO" local_name_id="1" id="125009_4" >FORD MOTOR CO.</NAME>
+
+<ORGANIZATION start="18" end="31" id="125009_7" >FORD MOTOR CO</ORGANIZATION>
+
+<NAME end="42" start="36" all_names="JARVIS" party2_of="125009_3" local_name_id="2" id="125009_5" >JARVIS</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._537_1019" id1="125014" start="52" citation_global_level_id="1714.002" line="1" id="125009_2" citation_local_level_id="0" >02-406</DOCKET>
+
+<DATE start="100" end="117" id="125009_6" >November 12, 2002</DATE>
+
+<NAME start="246" local_name_id="3" end="249" id="125009_14" all_names="CIR" >Cir</NAME>
+
+<CITATION end="298" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_283_33" id1="Dummy_File_138625" volume="283" start="286" page_number="33" standard_reporter="F.3D" citation_global_level_id="202475.001" line="3" id="125009_13" citation_local_level_id="2" >283 F. 3d 33</CITATION>
+
+<RELATION theme="125009_1" includes_docket_string="02-406" includes_docket="125009_2" theme_string="537 U.S. 1019" gram_type="apposition" relation_type="asymmetric" id="125009_12" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1019" X_vs_Y_string="FORD MOTOR CO. v. JARVIS" standard_case="125009_1" X_vs_Y="125009_3" gram_type="pre_nom" relation_type="equivalence" id="125009_8" ></RELATION>
+
+<RELATION theme="125009_3" includes_docket_string="02-406" includes_docket="125009_2" theme_string="FORD MOTOR CO. v. JARVIS" gram_type="apposition" relation_type="asymmetric" id="125009_11" ></RELATION>
+
+<RELATION party2="125009_5" theme="125009_3" theme_string="FORD MOTOR CO. v. JARVIS" party2_string="JARVIS" gram_type="infix" relation_type="asymmetric" id="125009_10" ></RELATION>
+
+<RELATION theme="125009_3" party1="125009_4" party1_string="FORD MOTOR CO." theme_string="FORD MOTOR CO. v. JARVIS" gram_type="infix" relation_type="asymmetric" id="125009_9" ></RELATION>
+

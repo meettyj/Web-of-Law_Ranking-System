@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['douglasdepartment#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_825" id1="113185" volume="510" start="0" page_number="825" standard_reporter="U.S." citation_global_level_id="3458.002" line="1" id="113188_1" citation_local_level_id="0" >510 U.S. 825</CITATION>
+
+<CITATION party2="Miller, Director, Michigan Department of Social Services, et al" party1="Douglas" citation_global_level_id="3458.007" party2_short="Department" line="1" id="113188_3" alternative_keys="['u.s._510_825']" end="91" entry_type="party_key" lookup_key="douglasdepartment#2" id1="113185" start="17" party1_short="Douglas" citation_local_level_id="1" >Douglas v. Miller, Director, Michigan Department of Social Services, et al</CITATION>
+
+<NAME end="24" start="17" party1_of="113188_3" all_names="DOUGLAS" local_name_id="1" id="113188_4" >Douglas</NAME>
+
+<NAME end="91" start="28" all_names="MILLER DIRECTOR MICHIGAN DEPARTMENT OF SOCIAL SERVICES" party2_of="113188_3" local_name_id="2" id="113188_5" >Miller, Director, Michigan Department of Social Services, et al</NAME>
+
+<DOCKET end="108" entry_type="docket" lookup_key="u.s._510_825" id1="113185" start="101" citation_global_level_id="3458.002" line="1" id="113188_2" citation_local_level_id="0" >92-1990</DOCKET>
+
+<DATE start="104" end="108" id="113188_6" >1990</DATE>
+
+<DATE start="150" end="165" id="113188_7" >October 4, 1993</DATE>
+
+<NAME start="243" local_name_id="3" end="253" id="113188_15" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="291" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_990_875" id1="Dummy_File_211618" volume="990" start="278" page_number="875" standard_reporter="F.2D" citation_global_level_id="275468.001" line="3" id="113188_14" citation_local_level_id="2" >990 F. 2d 875</CITATION>
+
+<RELATION theme="113188_1" includes_docket_string="92-1990" includes_docket="113188_2" theme_string="510 U.S. 825" gram_type="apposition" relation_type="asymmetric" id="113188_12" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 825" X_vs_Y_string="Douglas v. Miller, Director, Michigan Department of Social Services, et al" standard_case="113188_1" X_vs_Y="113188_3" gram_type="pre_nom" relation_type="equivalence" id="113188_8" ></RELATION>
+
+<RELATION theme="113188_3" includes_docket_string="92-1990" includes_docket="113188_2" theme_string="Douglas v. Miller, Director, Michigan Department of Social Services, et al" gram_type="apposition" relation_type="asymmetric" id="113188_11" ></RELATION>
+
+<RELATION party2="113188_5" theme="113188_3" theme_string="Douglas v. Miller, Director, Michigan Department of Social Services, et al" party2_string="Miller, Director, Michigan Department of Social Services, et al" gram_type="infix" relation_type="asymmetric" id="113188_10" ></RELATION>
+
+<RELATION theme="113188_3" party1="113188_4" party1_string="Douglas" theme_string="Douglas v. Miller, Director, Michigan Department of Social Services, et al" gram_type="infix" relation_type="asymmetric" id="113188_9" ></RELATION>
+
+<RELATION at_date_string="1990" theme="113188_2" at_date="113188_6" theme_string="92-1990" gram_type="infix" relation_type="asymmetric" id="113188_13" ></RELATION>
+

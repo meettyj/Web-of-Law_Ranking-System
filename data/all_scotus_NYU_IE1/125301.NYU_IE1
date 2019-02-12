@@ -1,0 +1,42 @@
+<CITATION alternative_keys="['trobaughstates#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1042" id1="125302" volume="537" start="0" page_number="1042" standard_reporter="U.S." citation_global_level_id="6154.002" line="1" id="125301_1" citation_local_level_id="0" >537 U.S. 1042</CITATION>
+
+<CITATION party2="UNITED STATES" party1="TROBAUGH" citation_global_level_id="45133.001" party2_short="STATES" line="1" id="125301_3" alternative_keys="['u.s._537_1042']" end="43" entry_type="party_key" lookup_key="trobaughstates#2" id1="140490" start="18" party1_short="TROBAUGH" citation_local_level_id="1" >TROBAUGH v. UNITED STATES</CITATION>
+
+<NAME end="26" start="18" party1_of="125301_3" all_names="TROBAUGH" local_name_id="1" id="125301_4" >TROBAUGH</NAME>
+
+<NAME end="43" start="30" all_names="UNITED STATES" party2_of="125301_3" local_name_id="2" id="125301_5" >UNITED STATES</NAME>
+
+<DOCKET end="60" entry_type="docket" lookup_key="u.s._537_1042" id1="125302" start="53" citation_global_level_id="6154.002" line="1" id="125301_2" citation_local_level_id="0" >02-6905</DOCKET>
+
+<DATE start="102" end="118" id="125301_6" >December 2, 2002</DATE>
+
+<NAME start="248" local_name_id="3" end="251" id="125301_17" all_names="CIR" >Cir</NAME>
+
+<CITATION party2="District of Columbia Court of Appeals" party1="Martin" citation_global_level_id="51848.001" party2_short="District" line="3" id="125301_13" alternative_keys="['u.s._506_1']" end="697" entry_type="party_key" lookup_key="martindistrict#2" id1="112790" start="650" party1_short="Martin" citation_local_level_id="2" >Martin v. District of Columbia Court of Appeals</CITATION>
+
+<NAME end="656" start="650" party1_of="125301_13" all_names="MARTIN" local_name_id="4" id="125301_14" >Martin</NAME>
+
+<NAME end="697" start="660" all_names="DISTRICT OF COLUMBIA COURT OF APPEALS" party2_of="125301_13" local_name_id="5" id="125301_15" >District of Columbia Court of Appeals</NAME>
+
+<CITATION alternative_keys="['martindistrict#2']" end="716" reporter="U.S." entry_type="standard_key" lookup_key="u.s._506_1" id1="112790" volume="506" start="699" page_number="1" year="1992" standard_reporter="U.S." citation_global_level_id="51848.002" line="3" id="125301_12" citation_local_level_id="3" >506 U.S. 1 (1992)</CITATION>
+
+<DATE start="711" citation_global_level_id="51848.002" end="715" id="125301_16" citation_local_level_id="3" >1992</DATE>
+
+<RELATION theme="125301_1" includes_docket_string="02-6905" includes_docket="125301_2" theme_string="537 U.S. 1042" gram_type="apposition" relation_type="asymmetric" id="125301_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1042" X_vs_Y_string="TROBAUGH v. UNITED STATES" standard_case="125301_1" X_vs_Y="125301_3" gram_type="pre_nom" relation_type="equivalence" id="125301_7" ></RELATION>
+
+<RELATION theme="125301_3" includes_docket_string="02-6905" includes_docket="125301_2" theme_string="TROBAUGH v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="125301_10" ></RELATION>
+
+<RELATION theme="125301_3" party1="125301_4" party1_string="TROBAUGH" theme_string="TROBAUGH v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="125301_8" ></RELATION>
+
+<RELATION party2="125301_5" theme="125301_3" theme_string="TROBAUGH v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="125301_9" ></RELATION>
+
+<RELATION standard_case_string="506 U.S. 1 (1992)" X_vs_Y_string="Martin v. District of Columbia Court of Appeals" standard_case="125301_12" X_vs_Y="125301_13" gram_type="apposition" relation_type="equivalence" id="125301_20" ></RELATION>
+
+<RELATION theme="125301_13" party1="125301_14" party1_string="Martin" theme_string="Martin v. District of Columbia Court of Appeals" gram_type="infix" relation_type="asymmetric" id="125301_18" ></RELATION>
+
+<RELATION party2="125301_15" theme="125301_13" theme_string="Martin v. District of Columbia Court of Appeals" party2_string="District of Columbia Court of Appeals" gram_type="infix" relation_type="asymmetric" id="125301_19" ></RELATION>
+
+<RELATION at_date_string="1992" theme="125301_12" at_date="125301_16" theme_string="506 U.S. 1 (1992)" gram_type="infix" relation_type="asymmetric" id="125301_21" ></RELATION>
+

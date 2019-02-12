@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['jamesfacility#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_948" id1="135136" volume="541" start="0" page_number="948" standard_reporter="U.S." citation_global_level_id="11843.002" line="1" id="135133_1" citation_local_level_id="0" >541 U.S. 948</CITATION>
+
+<CITATION party2="SMITH, SUPERINTENDENT, SHAWANGUNK CORRECTIONAL FACILITY" party1="RILEY-JAMES" citation_global_level_id="11843.008" party2_short="FACILITY" line="2" id="135133_2" alternative_keys="['u.s._541_948']" end="87" entry_type="party_key" lookup_key="jamesfacility#1" id1="135136" start="17" party1_short="JAMES" citation_local_level_id="1" >RILEY-JAMES v. SMITH, SUPERINTENDENT, SHAWANGUNK CORRECTIONAL FACILITY</CITATION>
+
+<NAME end="28" start="17" party1_of="135133_2" all_names="RILEY-JAMES" local_name_id="1" id="135133_3" >RILEY-JAMES</NAME>
+
+<NAME end="87" start="32" all_names="SMITH SUPERINTENDENT SHAWANGUNK CORRECTIONAL FACILITY" party2_of="135133_2" local_name_id="2" id="135133_4" >SMITH, SUPERINTENDENT, SHAWANGUNK CORRECTIONAL FACILITY</NAME>
+
+<DOCKET alternative_keys="['u.s._541_948']" end="104" entry_type="docket" lookup_key="jamesfacility#1" id1="135136" start="97" citation_global_level_id="11843.008" line="3" id="135133_7" citation_local_level_id="1" >03-8636</DOCKET>
+
+<ORGANIZATION start="110" end="140" id="135133_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="146" citation_global_level_id="11843.008" end="160" id="135133_9" citation_local_level_id="1" >March 22, 2004</DATE>
+
+<NAME start="191" local_name_id="3" end="194" id="135133_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="135133_2" party1="135133_3" party1_string="RILEY-JAMES" theme_string="RILEY-JAMES v. SMITH, SUPERINTENDENT, SHAWANGUNK CORRECTIONAL FACILITY" gram_type="infix" relation_type="asymmetric" id="135133_5" ></RELATION>
+
+<RELATION party2="135133_4" theme="135133_2" theme_string="RILEY-JAMES v. SMITH, SUPERINTENDENT, SHAWANGUNK CORRECTIONAL FACILITY" party2_string="SMITH, SUPERINTENDENT, SHAWANGUNK CORRECTIONAL FACILITY" gram_type="infix" relation_type="asymmetric" id="135133_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 948" X_vs_Y_string="RILEY-JAMES v. SMITH, SUPERINTENDENT, SHAWANGUNK CORRECTIONAL FACILITY" standard_case="135133_1" X_vs_Y="135133_2" gram_type="multi_line" relation_type="equivalence" id="135133_10" ></RELATION>
+
+<RELATION at_date_string="March 22, 2004" theme="135133_2" at_date="135133_9" theme_string="RILEY-JAMES v. SMITH, SUPERINTENDENT, SHAWANGUNK CORRECTIONAL FACILITY" gram_type="multi_line" relation_type="asymmetric" id="135133_12" ></RELATION>
+
+<RELATION theme="135133_2" includes_docket_string="03-8636" includes_docket="135133_7" theme_string="RILEY-JAMES v. SMITH, SUPERINTENDENT, SHAWANGUNK CORRECTIONAL FACILITY" gram_type="multi_line" relation_type="asymmetric" id="135133_11" ></RELATION>
+

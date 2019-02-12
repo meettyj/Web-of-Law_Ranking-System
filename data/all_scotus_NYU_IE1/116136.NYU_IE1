@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['theriaultgovernor#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1056" id1="116137" volume="510" start="0" page_number="1056" standard_reporter="U.S." citation_global_level_id="2549.002" line="2" id="116136_1" citation_local_level_id="0" >510 U.S. 1056</CITATION>
+
+<CITATION party2="Miller, Governor of Nevada, et al" party1="Theriault" citation_global_level_id="2549.006" party2_short="Governor" line="2" id="116136_3" alternative_keys="['u.s._510_1056']" end="64" entry_type="party_key" lookup_key="theriaultgovernor#2" id1="116137" start="18" party1_short="Theriault" citation_local_level_id="1" >Theriault v. Miller, Governor of Nevada, et al</CITATION>
+
+<NAME end="27" start="18" party1_of="116136_3" all_names="THERIAULT" local_name_id="1" id="116136_4" >Theriault</NAME>
+
+<NAME end="64" start="31" all_names="MILLER GOVERNOR OF NEVADA" party2_of="116136_3" local_name_id="2" id="116136_5" >Miller, Governor of Nevada, et al</NAME>
+
+<DOCKET end="81" entry_type="docket" lookup_key="u.s._510_1056" id1="116137" start="74" citation_global_level_id="2549.002" line="2" id="116136_2" citation_local_level_id="0" >93-6722</DOCKET>
+
+<DATE start="123" end="139" id="116136_6" >January 10, 1994</DATE>
+
+<NAME start="216" local_name_id="3" end="226" id="116136_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="280" reporter="P. 2d" entry_type="standard_key" no_current_file="True" lookup_key="p.2d_875_1081" id1="Dummy_File_211453" volume="875" start="266" page_number="1081" standard_reporter="P.2D" citation_global_level_id="275303.001" line="3" id="116136_12" citation_local_level_id="2" >875 P. 2d 1081</CITATION>
+
+<RELATION theme="116136_1" includes_docket_string="93-6722" includes_docket="116136_2" theme_string="510 U.S. 1056" gram_type="apposition" relation_type="asymmetric" id="116136_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1056" X_vs_Y_string="Theriault v. Miller, Governor of Nevada, et al" standard_case="116136_1" X_vs_Y="116136_3" gram_type="pre_nom" relation_type="equivalence" id="116136_7" ></RELATION>
+
+<RELATION theme="116136_3" includes_docket_string="93-6722" includes_docket="116136_2" theme_string="Theriault v. Miller, Governor of Nevada, et al" gram_type="apposition" relation_type="asymmetric" id="116136_10" ></RELATION>
+
+<RELATION theme="116136_3" party1="116136_4" party1_string="Theriault" theme_string="Theriault v. Miller, Governor of Nevada, et al" gram_type="infix" relation_type="asymmetric" id="116136_8" ></RELATION>
+
+<RELATION party2="116136_5" theme="116136_3" theme_string="Theriault v. Miller, Governor of Nevada, et al" party2_string="Miller, Governor of Nevada, et al" gram_type="infix" relation_type="asymmetric" id="116136_9" ></RELATION>
+

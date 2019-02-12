@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['goldsmithoklahoma#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_981" id1="115197" volume="510" start="0" page_number="981" standard_reporter="U.S." citation_global_level_id="1309.002" line="1" id="115209_1" citation_local_level_id="0" >510 U.S. 981</CITATION>
+
+<CITATION party2="Oklahoma" party1="Goldsmith" citation_global_level_id="52479.001" party2_short="Oklahoma" line="1" id="115209_3" alternative_keys="['u.s._510_981']" end="38" entry_type="party_key" lookup_key="goldsmithoklahoma#1" id1="115209" start="17" party1_short="Goldsmith" citation_local_level_id="1" >Goldsmith v. Oklahoma</CITATION>
+
+<NAME end="26" start="17" party1_of="115209_3" all_names="GOLDSMITH" local_name_id="1" id="115209_4" >Goldsmith</NAME>
+
+<NAME end="38" start="30" all_names="OKLAHOMA" party2_of="115209_3" local_name_id="2" id="115209_5" >Oklahoma</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._510_981" id1="115197" start="48" citation_global_level_id="1309.002" line="1" id="115209_2" citation_local_level_id="0" >93-6185</DOCKET>
+
+<DATE start="97" end="114" id="115209_6" >November 15, 1993</DATE>
+
+<NAME start="198" local_name_id="3" end="208" id="115209_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="115209_1" includes_docket_string="93-6185" includes_docket="115209_2" theme_string="510 U.S. 981" gram_type="apposition" relation_type="asymmetric" id="115209_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 981" X_vs_Y_string="Goldsmith v. Oklahoma" standard_case="115209_1" X_vs_Y="115209_3" gram_type="pre_nom" relation_type="equivalence" id="115209_7" ></RELATION>
+
+<RELATION theme="115209_3" includes_docket_string="93-6185" includes_docket="115209_2" theme_string="Goldsmith v. Oklahoma" gram_type="apposition" relation_type="asymmetric" id="115209_10" ></RELATION>
+
+<RELATION theme="115209_3" party1="115209_4" party1_string="Goldsmith" theme_string="Goldsmith v. Oklahoma" gram_type="infix" relation_type="asymmetric" id="115209_8" ></RELATION>
+
+<RELATION party2="115209_5" theme="115209_3" theme_string="Goldsmith v. Oklahoma" party2_string="Oklahoma" gram_type="infix" relation_type="asymmetric" id="115209_9" ></RELATION>
+

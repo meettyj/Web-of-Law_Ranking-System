@@ -1,0 +1,40 @@
+<CITATION alternative_keys="['moorebottoson#1', 'a._02_34']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._536_973" id1="122051" volume="536" start="0" page_number="973" standard_reporter="U.S." citation_global_level_id="1524.002" line="1" id="122059_1" citation_local_level_id="0" >536 U.S. 973</CITATION>
+
+<CITATION party2="BOTTOSON" party1="MOORE, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS" citation_global_level_id="1524.007" party2_short="BOTTOSON" line="2" id="122059_2" alternative_keys="['a._02_34', 'u.s._536_973']" end="80" entry_type="party_key" lookup_key="moorebottoson#1" id1="122051" start="17" party1_short="MOORE" citation_local_level_id="1" >MOORE, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS v. BOTTOSON</CITATION>
+
+<NAME end="68" start="17" party1_of="122059_2" all_names="MOORE SECRETARY FLORIDA DEPARTMENT OF CORRECTIONS" local_name_id="1" id="122059_3" >MOORE, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS</NAME>
+
+<PROFESSION start="24" end="33" id="122059_5" >SECRETARY</PROFESSION>
+
+<ORGANIZATION start="35" end="68" id="122059_6" >FLORIDA DEPARTMENT OF CORRECTIONS</ORGANIZATION>
+
+<NAME end="80" start="72" all_names="BOTTOSON" party2_of="122059_2" local_name_id="2" id="122059_4" >BOTTOSON</NAME>
+
+<CITATION alternative_keys="['u.s._536_973', 'moorebottoson#1']" end="95" reporter="A" entry_type="standard_key" lookup_key="a._02_34" id1="122059" volume="02" start="90" page_number="34" standard_reporter="A." citation_global_level_id="38263.002" line="3" id="122059_9" citation_local_level_id="2" >02A34</CITATION>
+
+<DATE start="141" citation_global_level_id="1524.007" end="154" id="122059_10" citation_local_level_id="1" >July 10, 2002</DATE>
+
+<NAME start="176" local_name_id="3" end="187" id="122059_15" all_names="APPLICATION" >Application</NAME>
+
+<ORGANIZATION start="252" end="276" id="122059_16" >Supreme Court of Florida</ORGANIZATION>
+
+<DATE start="280" end="292" id="122059_14" >July 8, 2002</DATE>
+
+<PROFESSION start="307" document_level_name_id="4" end="314" id="122059_17" party="KENNEDY" >Justice</PROFESSION>
+
+<NAME start="315" local_name_id="4" end="322" id="122059_18" all_names="KENNEDY" >Kennedy</NAME>
+
+<ORGANIZATION start="351" end="356" id="122059_19" >Court</ORGANIZATION>
+
+<RELATION theme="122059_2" party1="122059_3" party1_string="MOORE, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS" theme_string="MOORE, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS v. BOTTOSON" gram_type="infix" relation_type="asymmetric" id="122059_7" ></RELATION>
+
+<RELATION party2="122059_4" theme="122059_2" theme_string="MOORE, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS v. BOTTOSON" party2_string="BOTTOSON" gram_type="infix" relation_type="asymmetric" id="122059_8" ></RELATION>
+
+<RELATION standard_case_string="536 U.S. 973" X_vs_Y_string="MOORE, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS v. BOTTOSON" standard_case="122059_1" X_vs_Y="122059_2" gram_type="multi_line" relation_type="equivalence" id="122059_11" ></RELATION>
+
+<RELATION at_date_string="July 10, 2002" theme="122059_2" at_date="122059_10" theme_string="MOORE, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS v. BOTTOSON" gram_type="multi_line" relation_type="asymmetric" id="122059_13" ></RELATION>
+
+<RELATION standard_case_string="02A34" X_vs_Y_string="MOORE, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS v. BOTTOSON" standard_case="122059_9" X_vs_Y="122059_2" gram_type="multi_line" relation_type="equivalence" id="122059_12" ></RELATION>
+
+<RELATION theme="122059_18" profession_string="Justice" theme_string="Kennedy" profession="122059_17" gram_type="pre_nom" relation_type="asymmetric" id="122059_20" ></RELATION>
+

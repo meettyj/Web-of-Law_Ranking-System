@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['buchananpennsylvania#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_894" id1="123451" volume="537" start="0" page_number="894" standard_reporter="U.S." citation_global_level_id="725.002" line="1" id="123455_1" citation_local_level_id="0" >537 U.S. 894</CITATION>
+
+<CITATION party2="PENNSYLVANIA" party1="BUCHANAN" citation_global_level_id="36076.001" party2_short="PENNSYLVANIA" line="1" id="123455_3" alternative_keys="['u.s._537_894']" end="41" entry_type="party_key" lookup_key="buchananpennsylvania#1" id1="123455" start="17" party1_short="BUCHANAN" citation_local_level_id="1" >BUCHANAN v. PENNSYLVANIA</CITATION>
+
+<NAME end="25" start="17" party1_of="123455_3" all_names="BUCHANAN" local_name_id="1" id="123455_4" >BUCHANAN</NAME>
+
+<NAME end="41" start="29" all_names="PENNSYLVANIA" party2_of="123455_3" local_name_id="2" id="123455_5" >PENNSYLVANIA</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._537_894" id1="123451" start="51" citation_global_level_id="725.002" line="1" id="123455_2" citation_local_level_id="0" >02-5103</DOCKET>
+
+<DATE start="100" end="115" id="123455_6" >October 7, 2002</DATE>
+
+<NAME start="212" local_name_id="3" end="217" id="123455_13" all_names="SUPER" >Super</NAME>
+
+<CITATION end="276" reporter="A. 2d" entry_type="standard_key" no_current_file="True" lookup_key="a.2d_785_1024" id1="Dummy_File_107257" volume="785" start="262" page_number="1024" standard_reporter="A.2D" citation_global_level_id="171107.001" line="3" id="123455_12" citation_local_level_id="2" >785 A. 2d 1024</CITATION>
+
+<RELATION theme="123455_1" includes_docket_string="02-5103" includes_docket="123455_2" theme_string="537 U.S. 894" gram_type="apposition" relation_type="asymmetric" id="123455_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 894" X_vs_Y_string="BUCHANAN v. PENNSYLVANIA" standard_case="123455_1" X_vs_Y="123455_3" gram_type="pre_nom" relation_type="equivalence" id="123455_7" ></RELATION>
+
+<RELATION theme="123455_3" includes_docket_string="02-5103" includes_docket="123455_2" theme_string="BUCHANAN v. PENNSYLVANIA" gram_type="apposition" relation_type="asymmetric" id="123455_10" ></RELATION>
+
+<RELATION theme="123455_3" party1="123455_4" party1_string="BUCHANAN" theme_string="BUCHANAN v. PENNSYLVANIA" gram_type="infix" relation_type="asymmetric" id="123455_8" ></RELATION>
+
+<RELATION party2="123455_5" theme="123455_3" theme_string="BUCHANAN v. PENNSYLVANIA" party2_string="PENNSYLVANIA" gram_type="infix" relation_type="asymmetric" id="123455_9" ></RELATION>
+

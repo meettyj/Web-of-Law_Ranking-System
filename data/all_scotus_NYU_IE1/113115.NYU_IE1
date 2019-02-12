@@ -1,0 +1,40 @@
+<CITATION alternative_keys="['councildepartment#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_820" id1="113112" volume="510" start="0" page_number="820" standard_reporter="U.S." citation_global_level_id="4473.002" line="1" id="113115_1" citation_local_level_id="0" >510 U.S. 820</CITATION>
+
+<CITATION party2="Department of Housing and Urban Development et al" party1="Resident Council of Allen Parkway Village et al." citation_global_level_id="4473.005" party2_short="Department" line="1" id="113115_3" alternative_keys="['u.s._510_820']" end="118" entry_type="party_key" lookup_key="councildepartment#1" id1="113112" start="17" party1_short="Council" citation_local_level_id="1" >Resident Council of Allen Parkway Village et al. v. Department of Housing and Urban Development et al</CITATION>
+
+<NAME end="65" start="17" party1_of="113115_3" all_names="RESIDENT COUNCIL OF ALLEN PARKWAY VILLAGE" local_name_id="1" id="113115_4" >Resident Council of Allen Parkway Village et al.</NAME>
+
+<ORGANIZATION start="17" end="58" id="113115_8" >Resident Council of Allen Parkway Village</ORGANIZATION>
+
+<NAME end="118" start="69" all_names="DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT" party2_of="113115_3" local_name_id="2" id="113115_5" >Department of Housing and Urban Development et al</NAME>
+
+<ORGANIZATION start="69" end="112" id="113115_9" >Department of Housing and Urban Development</ORGANIZATION>
+
+<DOCKET end="135" entry_type="docket" lookup_key="u.s._510_820" id1="113112" start="128" citation_global_level_id="4473.002" line="1" id="113115_2" citation_local_level_id="0" >92-1905</DOCKET>
+
+<DATE start="131" end="135" id="113115_6" >1905</DATE>
+
+<ORGANIZATION start="141" end="171" id="113115_10" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="177" end="192" id="113115_7" >October 4, 1993</DATE>
+
+<NAME start="214" local_name_id="3" end="231" id="113115_11" all_names="APPEAL FROM THE C" >Appeal from the C</NAME>
+
+<NAME start="240" local_name_id="4" end="243" id="113115_12" all_names="CIR" >Cir</NAME>
+
+<NAME start="270" local_name_id="5" end="280" id="113115_20" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="319" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_980_1043" id1="Dummy_File_138793" volume="980" start="305" page_number="1043" standard_reporter="F.2D" citation_global_level_id="202643.001" line="3" id="113115_19" citation_local_level_id="2" >980 F. 2d 1043</CITATION>
+
+<RELATION theme="113115_1" includes_docket_string="92-1905" includes_docket="113115_2" theme_string="510 U.S. 820" gram_type="apposition" relation_type="asymmetric" id="113115_17" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 820" X_vs_Y_string="Resident Council of Allen Parkway Village et al. v. Department of Housing and Urban Development et al" standard_case="113115_1" X_vs_Y="113115_3" gram_type="pre_nom" relation_type="equivalence" id="113115_13" ></RELATION>
+
+<RELATION theme="113115_3" includes_docket_string="92-1905" includes_docket="113115_2" theme_string="Resident Council of Allen Parkway Village et al. v. Department of Housing and Urban Development et al" gram_type="apposition" relation_type="asymmetric" id="113115_16" ></RELATION>
+
+<RELATION theme="113115_3" party1="113115_4" party1_string="Resident Council of Allen Parkway Village et al." theme_string="Resident Council of Allen Parkway Village et al. v. Department of Housing and Urban Development et al" gram_type="infix" relation_type="asymmetric" id="113115_14" ></RELATION>
+
+<RELATION party2="113115_5" theme="113115_3" theme_string="Resident Council of Allen Parkway Village et al. v. Department of Housing and Urban Development et al" party2_string="Department of Housing and Urban Development et al" gram_type="infix" relation_type="asymmetric" id="113115_15" ></RELATION>
+
+<RELATION at_date_string="1905" theme="113115_2" at_date="113115_6" theme_string="92-1905" gram_type="infix" relation_type="asymmetric" id="113115_18" ></RELATION>
+

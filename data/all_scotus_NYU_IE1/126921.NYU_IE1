@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['castrostates#9']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1170" id1="126921" volume="537" start="0" page_number="1170" standard_reporter="U.S." citation_global_level_id="15894.002" line="1" id="126921_1" citation_local_level_id="0" >537 U.S. 1170</CITATION>
+
+<CITATION party2="UNITED STATES" party1="CASTRO" citation_global_level_id="41404.001" party2_short="STATES" line="1" id="126921_3" alternative_keys="['u.s._537_1170']" end="41" entry_type="party_key" lookup_key="castrostates#9" id1="124105" start="18" party1_short="CASTRO" citation_local_level_id="1" >CASTRO v. UNITED STATES</CITATION>
+
+<NAME end="24" start="18" party1_of="126921_3" all_names="CASTRO" local_name_id="1" id="126921_4" >CASTRO</NAME>
+
+<NAME end="41" start="28" all_names="UNITED STATES" party2_of="126921_3" local_name_id="2" id="126921_5" >UNITED STATES</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._537_1170" id1="126921" start="51" citation_global_level_id="15894.002" line="1" id="126921_2" citation_local_level_id="0" >02-6683</DOCKET>
+
+<DATE start="100" end="116" id="126921_6" >January 27, 2003</DATE>
+
+<NAME start="249" local_name_id="3" end="252" id="126921_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="670" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_290_1270" id1="Dummy_File_5438" volume="290" start="656" page_number="1270" standard_reporter="F.3D" citation_global_level_id="69288.001" line="3" id="126921_12" citation_local_level_id="2" >290 F. 3d 1270</CITATION>
+
+<RELATION theme="126921_1" includes_docket_string="02-6683" includes_docket="126921_2" theme_string="537 U.S. 1170" gram_type="apposition" relation_type="asymmetric" id="126921_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1170" X_vs_Y_string="CASTRO v. UNITED STATES" standard_case="126921_1" X_vs_Y="126921_3" gram_type="pre_nom" relation_type="equivalence" id="126921_7" ></RELATION>
+
+<RELATION theme="126921_3" includes_docket_string="02-6683" includes_docket="126921_2" theme_string="CASTRO v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="126921_10" ></RELATION>
+
+<RELATION theme="126921_3" party1="126921_4" party1_string="CASTRO" theme_string="CASTRO v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="126921_8" ></RELATION>
+
+<RELATION party2="126921_5" theme="126921_3" theme_string="CASTRO v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="126921_9" ></RELATION>
+

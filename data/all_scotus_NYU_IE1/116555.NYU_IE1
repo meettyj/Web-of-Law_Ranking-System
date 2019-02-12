@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['marshallelectric#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1092" id1="116555" volume="510" start="0" page_number="1092" standard_reporter="U.S." citation_global_level_id="2599.002" line="1" id="116555_1" citation_local_level_id="0" >510 U.S. 1092</CITATION>
+
+<CITATION party2="Nelson Electric et al" party1="Marshall" citation_global_level_id="2599.001" party2_short="Electric" line="1" id="116555_3" alternative_keys="['u.s._510_1092']" end="51" entry_type="party_key" lookup_key="marshallelectric#1" id1="116555" start="18" party1_short="Marshall" citation_local_level_id="1" >Marshall v. Nelson Electric et al</CITATION>
+
+<NAME end="26" start="18" party1_of="116555_3" all_names="MARSHALL" local_name_id="1" id="116555_4" >Marshall</NAME>
+
+<NAME end="51" start="30" all_names="NELSON ELECTRIC" party2_of="116555_3" local_name_id="2" id="116555_5" >Nelson Electric et al</NAME>
+
+<DOCKET end="67" entry_type="docket" lookup_key="u.s._510_1092" id1="116555" start="61" citation_global_level_id="2599.002" line="1" id="116555_2" citation_local_level_id="0" >93-662</DOCKET>
+
+<DATE start="109" end="125" id="116555_6" >January 24, 1994</DATE>
+
+<NAME start="204" local_name_id="3" end="214" id="116555_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="252" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_999_547" id1="Dummy_File_30803" volume="999" start="239" page_number="547" standard_reporter="F.2D" citation_global_level_id="94653.001" line="3" id="116555_12" citation_local_level_id="2" >999 F. 2d 547</CITATION>
+
+<RELATION theme="116555_1" includes_docket_string="93-662" includes_docket="116555_2" theme_string="510 U.S. 1092" gram_type="apposition" relation_type="asymmetric" id="116555_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1092" X_vs_Y_string="Marshall v. Nelson Electric et al" standard_case="116555_1" X_vs_Y="116555_3" gram_type="pre_nom" relation_type="equivalence" id="116555_7" ></RELATION>
+
+<RELATION theme="116555_3" includes_docket_string="93-662" includes_docket="116555_2" theme_string="Marshall v. Nelson Electric et al" gram_type="apposition" relation_type="asymmetric" id="116555_10" ></RELATION>
+
+<RELATION theme="116555_3" party1="116555_4" party1_string="Marshall" theme_string="Marshall v. Nelson Electric et al" gram_type="infix" relation_type="asymmetric" id="116555_8" ></RELATION>
+
+<RELATION party2="116555_5" theme="116555_3" theme_string="Marshall v. Nelson Electric et al" party2_string="Nelson Electric et al" gram_type="infix" relation_type="asymmetric" id="116555_9" ></RELATION>
+

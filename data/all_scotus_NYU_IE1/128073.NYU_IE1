@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['claiborneirwin#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_913" id1="128070" volume="538" start="0" page_number="913" standard_reporter="U.S." citation_global_level_id="6859.002" line="1" id="128073_1" citation_local_level_id="0" >538 U.S. 913</CITATION>
+
+<CITATION party2="IRWIN" party1="CLAIBORNE" citation_global_level_id="32848.001" party2_short="IRWIN" line="1" id="128073_3" alternative_keys="['u.s._538_913']" end="35" entry_type="party_key" lookup_key="claiborneirwin#1" id1="128073" start="17" party1_short="CLAIBORNE" citation_local_level_id="1" >CLAIBORNE v. IRWIN</CITATION>
+
+<NAME end="26" start="17" party1_of="128073_3" all_names="CLAIBORNE" local_name_id="1" id="128073_4" >CLAIBORNE</NAME>
+
+<NAME end="35" start="30" all_names="IRWIN" party2_of="128073_3" local_name_id="2" id="128073_5" >IRWIN</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="u.s._538_913" id1="128070" start="45" citation_global_level_id="6859.002" line="1" id="128073_2" citation_local_level_id="0" >02-8407</DOCKET>
+
+<DATE start="94" end="108" id="128073_6" >March 10, 2003</DATE>
+
+<NAME start="237" local_name_id="3" end="240" id="128073_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="128073_1" includes_docket_string="02-8407" includes_docket="128073_2" theme_string="538 U.S. 913" gram_type="apposition" relation_type="asymmetric" id="128073_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 913" X_vs_Y_string="CLAIBORNE v. IRWIN" standard_case="128073_1" X_vs_Y="128073_3" gram_type="pre_nom" relation_type="equivalence" id="128073_7" ></RELATION>
+
+<RELATION theme="128073_3" includes_docket_string="02-8407" includes_docket="128073_2" theme_string="CLAIBORNE v. IRWIN" gram_type="apposition" relation_type="asymmetric" id="128073_10" ></RELATION>
+
+<RELATION theme="128073_3" party1="128073_4" party1_string="CLAIBORNE" theme_string="CLAIBORNE v. IRWIN" gram_type="infix" relation_type="asymmetric" id="128073_8" ></RELATION>
+
+<RELATION party2="128073_5" theme="128073_3" theme_string="CLAIBORNE v. IRWIN" party2_string="IRWIN" gram_type="infix" relation_type="asymmetric" id="128073_9" ></RELATION>
+

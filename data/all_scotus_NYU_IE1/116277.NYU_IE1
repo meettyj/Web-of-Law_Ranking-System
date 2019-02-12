@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['richardscenter#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1066" id1="116282" volume="510" start="0" page_number="1066" standard_reporter="U.S." citation_global_level_id="2061.002" line="1" id="116277_1" citation_local_level_id="0" >510 U.S. 1066</CITATION>
+
+<CITATION party2="Medical Center of Delaware Inc. et al" party1="Richards" citation_global_level_id="3697.001" party2_short="Center" line="2" id="116277_2" alternative_keys="['u.s._510_1066']" end="67" entry_type="party_key" lookup_key="richardscenter#1" id1="114811" start="18" party1_short="Richards" citation_local_level_id="1" >Richards v. Medical Center of Delaware Inc. et al</CITATION>
+
+<NAME end="26" start="18" party1_of="116277_2" all_names="RICHARDS" local_name_id="1" id="116277_3" >Richards</NAME>
+
+<NAME end="67" start="30" all_names="MEDICAL CENTER OF DELAWARE INC" party2_of="116277_2" local_name_id="2" id="116277_4" >Medical Center of Delaware Inc. et al</NAME>
+
+<DOCKET end="99" entry_type="docket" lookup_key="richardscenter#1" id1="114811" start="92" citation_global_level_id="3697.001" line="3" id="116277_7" citation_local_level_id="1" >93-5846</DOCKET>
+
+<ORGANIZATION start="105" end="135" id="116277_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="141" citation_global_level_id="3697.001" end="157" id="116277_9" citation_local_level_id="1" >January 10, 1994</DATE>
+
+<NAME start="179" local_name_id="3" end="187" id="116277_13" all_names="PETITION" >Petition</NAME>
+
+<RELATION theme="116277_2" party1="116277_3" party1_string="Richards" theme_string="Richards v. Medical Center of Delaware Inc. et al" gram_type="infix" relation_type="asymmetric" id="116277_5" ></RELATION>
+
+<RELATION party2="116277_4" theme="116277_2" theme_string="Richards v. Medical Center of Delaware Inc. et al" party2_string="Medical Center of Delaware Inc. et al" gram_type="infix" relation_type="asymmetric" id="116277_6" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1066" X_vs_Y_string="Richards v. Medical Center of Delaware Inc. et al" standard_case="116277_1" X_vs_Y="116277_2" gram_type="multi_line" relation_type="equivalence" id="116277_10" ></RELATION>
+
+<RELATION at_date_string="January 10, 1994" theme="116277_2" at_date="116277_9" theme_string="Richards v. Medical Center of Delaware Inc. et al" gram_type="multi_line" relation_type="asymmetric" id="116277_12" ></RELATION>
+
+<RELATION theme="116277_2" includes_docket_string="93-5846" includes_docket="116277_7" theme_string="Richards v. Medical Center of Delaware Inc. et al" gram_type="multi_line" relation_type="asymmetric" id="116277_11" ></RELATION>
+

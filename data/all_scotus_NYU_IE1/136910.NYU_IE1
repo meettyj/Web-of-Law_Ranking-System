@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['valdeztexas#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_1089" id1="136916" volume="541" start="0" page_number="1089" standard_reporter="U.S." citation_global_level_id="3821.002" line="1" id="136910_1" citation_local_level_id="0" >541 U.S. 1089</CITATION>
+
+<CITATION party2="TEXAS" party1="VALDEZ" citation_global_level_id="47545.001" party2_short="TEXAS" line="2" id="136910_2" alternative_keys="['u.s._541_1089']" end="33" entry_type="party_key" lookup_key="valdeztexas#1" id1="136910" start="18" party1_short="VALDEZ" citation_local_level_id="1" >VALDEZ v. TEXAS</CITATION>
+
+<NAME end="24" start="18" party1_of="136910_2" all_names="VALDEZ" local_name_id="1" id="136910_3" >VALDEZ</NAME>
+
+<NAME end="33" start="28" all_names="TEXAS" party2_of="136910_2" local_name_id="2" id="136910_4" >TEXAS</NAME>
+
+<DOCKET end="50" entry_type="docket" lookup_key="valdeztexas#1" id1="136910" start="43" citation_global_level_id="47545.001" line="3" id="136910_7" citation_local_level_id="1" >03-9862</DOCKET>
+
+<ORGANIZATION start="56" end="86" id="136910_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="92" citation_global_level_id="47545.001" end="104" id="136910_9" citation_local_level_id="1" >June 7, 2004</DATE>
+
+<NAME start="126" local_name_id="3" end="128" id="136910_13" all_names="CT" >Ct</NAME>
+
+<RELATION theme="136910_2" party1="136910_3" party1_string="VALDEZ" theme_string="VALDEZ v. TEXAS" gram_type="infix" relation_type="asymmetric" id="136910_5" ></RELATION>
+
+<RELATION party2="136910_4" theme="136910_2" theme_string="VALDEZ v. TEXAS" party2_string="TEXAS" gram_type="infix" relation_type="asymmetric" id="136910_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 1089" X_vs_Y_string="VALDEZ v. TEXAS" standard_case="136910_1" X_vs_Y="136910_2" gram_type="multi_line" relation_type="equivalence" id="136910_10" ></RELATION>
+
+<RELATION at_date_string="June 7, 2004" theme="136910_2" at_date="136910_9" theme_string="VALDEZ v. TEXAS" gram_type="multi_line" relation_type="asymmetric" id="136910_12" ></RELATION>
+
+<RELATION theme="136910_2" includes_docket_string="03-9862" includes_docket="136910_7" theme_string="VALDEZ v. TEXAS" gram_type="multi_line" relation_type="asymmetric" id="136910_11" ></RELATION>
+

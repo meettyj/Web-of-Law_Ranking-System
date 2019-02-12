@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['districtcockrel#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_813" id1="122388" volume="537" start="0" page_number="813" standard_reporter="U.S." citation_global_level_id="1152.002" line="1" id="122390_1" citation_local_level_id="0" >537 U.S. 813</CITATION>
+
+<CITATION party2="COCKREL" party1="SHELBY COUNTY SCHOOL DISTRICT ET AL." citation_global_level_id="42364.001" party2_short="COCKREL" line="1" id="122390_3" alternative_keys="['u.s._537_813']" end="64" entry_type="party_key" lookup_key="districtcockrel#1" id1="122390" start="17" party1_short="DISTRICT" citation_local_level_id="1" >SHELBY COUNTY SCHOOL DISTRICT ET AL. v. COCKREL</CITATION>
+
+<NAME end="53" start="17" party1_of="122390_3" all_names="SHELBY COUNTY SCHOOL DISTRICT" local_name_id="1" id="122390_4" >SHELBY COUNTY SCHOOL DISTRICT ET AL.</NAME>
+
+<ORGANIZATION start="17" end="52" id="122390_7" >SHELBY COUNTY SCHOOL DISTRICT ET AL</ORGANIZATION>
+
+<ORGANIZATION start="31" end="37" id="122390_8" >SCHOOL</ORGANIZATION>
+
+<NAME end="64" start="57" all_names="COCKREL" party2_of="122390_3" local_name_id="2" id="122390_5" >COCKREL</NAME>
+
+<DOCKET end="81" entry_type="docket" lookup_key="u.s._537_813" id1="122388" start="74" citation_global_level_id="1152.002" line="1" id="122390_2" citation_local_level_id="0" >01-1548</DOCKET>
+
+<DATE start="123" end="138" id="122390_6" >October 7, 2002</DATE>
+
+<NAME start="267" local_name_id="3" end="270" id="122390_15" all_names="CIR" >Cir</NAME>
+
+<CITATION end="321" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_270_1036" id1="Dummy_File_234682" volume="270" start="307" page_number="1036" standard_reporter="F.3D" citation_global_level_id="298532.001" line="3" id="122390_14" citation_local_level_id="2" >270 F. 3d 1036</CITATION>
+
+<RELATION theme="122390_1" includes_docket_string="01-1548" includes_docket="122390_2" theme_string="537 U.S. 813" gram_type="apposition" relation_type="asymmetric" id="122390_13" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 813" X_vs_Y_string="SHELBY COUNTY SCHOOL DISTRICT ET AL. v. COCKREL" standard_case="122390_1" X_vs_Y="122390_3" gram_type="pre_nom" relation_type="equivalence" id="122390_9" ></RELATION>
+
+<RELATION theme="122390_3" includes_docket_string="01-1548" includes_docket="122390_2" theme_string="SHELBY COUNTY SCHOOL DISTRICT ET AL. v. COCKREL" gram_type="apposition" relation_type="asymmetric" id="122390_12" ></RELATION>
+
+<RELATION theme="122390_3" party1="122390_4" party1_string="SHELBY COUNTY SCHOOL DISTRICT ET AL." theme_string="SHELBY COUNTY SCHOOL DISTRICT ET AL. v. COCKREL" gram_type="infix" relation_type="asymmetric" id="122390_10" ></RELATION>
+
+<RELATION party2="122390_5" theme="122390_3" theme_string="SHELBY COUNTY SCHOOL DISTRICT ET AL. v. COCKREL" party2_string="COCKREL" gram_type="infix" relation_type="asymmetric" id="122390_11" ></RELATION>
+

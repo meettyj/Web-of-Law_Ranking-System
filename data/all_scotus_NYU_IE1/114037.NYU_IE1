@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['jamessowders#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_888" id1="114035" volume="510" start="0" page_number="888" standard_reporter="U.S." citation_global_level_id="1268.002" line="1" id="114037_1" citation_local_level_id="0" >510 U.S. 888</CITATION>
+
+<CITATION party2="Sowders, Warden" party1="James" citation_global_level_id="1268.004" party2_short="Sowders" line="1" id="114037_3" alternative_keys="['u.s._510_888']" end="41" entry_type="party_key" lookup_key="jamessowders#1" id1="114035" start="17" party1_short="James" citation_local_level_id="1" >James v. Sowders, Warden</CITATION>
+
+<NAME end="22" start="17" party1_of="114037_3" all_names="JAMES" local_name_id="1" id="114037_4" >James</NAME>
+
+<NAME end="41" start="26" all_names="SOWDERS WARDEN" party2_of="114037_3" local_name_id="2" id="114037_5" >Sowders, Warden</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._510_888" id1="114035" start="51" citation_global_level_id="1268.002" line="1" id="114037_2" citation_local_level_id="0" >93-5333</DOCKET>
+
+<DATE start="100" end="115" id="114037_6" >October 4, 1993</DATE>
+
+<NAME start="193" local_name_id="3" end="203" id="114037_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="242" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_992_1216" id1="Dummy_File_89717" volume="992" start="228" page_number="1216" standard_reporter="F.2D" citation_global_level_id="153567.001" line="3" id="114037_12" citation_local_level_id="2" >992 F. 2d 1216</CITATION>
+
+<RELATION theme="114037_1" includes_docket_string="93-5333" includes_docket="114037_2" theme_string="510 U.S. 888" gram_type="apposition" relation_type="asymmetric" id="114037_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 888" X_vs_Y_string="James v. Sowders, Warden" standard_case="114037_1" X_vs_Y="114037_3" gram_type="pre_nom" relation_type="equivalence" id="114037_7" ></RELATION>
+
+<RELATION theme="114037_3" includes_docket_string="93-5333" includes_docket="114037_2" theme_string="James v. Sowders, Warden" gram_type="apposition" relation_type="asymmetric" id="114037_10" ></RELATION>
+
+<RELATION theme="114037_3" party1="114037_4" party1_string="James" theme_string="James v. Sowders, Warden" gram_type="infix" relation_type="asymmetric" id="114037_8" ></RELATION>
+
+<RELATION party2="114037_5" theme="114037_3" theme_string="James v. Sowders, Warden" party2_string="Sowders, Warden" gram_type="infix" relation_type="asymmetric" id="114037_9" ></RELATION>
+

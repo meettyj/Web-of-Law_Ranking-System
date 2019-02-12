@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['hunterdistrict#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1081" id1="116490" volume="510" start="0" page_number="1081" standard_reporter="U.S." citation_global_level_id="6980.002" line="1" id="116492_1" citation_local_level_id="0" >510 U.S. 1081</CITATION>
+
+<CITATION party2="Carbondale Area School District et al" party1="Hunter" citation_global_level_id="14603.001" party2_short="District" line="1" id="116492_3" alternative_keys="['u.s._510_1081']" end="65" entry_type="party_key" lookup_key="hunterdistrict#1" id1="116492" start="18" party1_short="Hunter" citation_local_level_id="1" >Hunter v. Carbondale Area School District et al</CITATION>
+
+<NAME end="24" start="18" party1_of="116492_3" all_names="HUNTER" local_name_id="1" id="116492_4" >Hunter</NAME>
+
+<NAME end="65" start="28" all_names="CARBONDALE AREA SCHOOL DISTRICT" party2_of="116492_3" local_name_id="2" id="116492_5" >Carbondale Area School District et al</NAME>
+
+<DOCKET end="81" entry_type="docket" lookup_key="u.s._510_1081" id1="116490" start="75" citation_global_level_id="6980.002" line="1" id="116492_2" citation_local_level_id="0" >93-779</DOCKET>
+
+<DATE start="123" end="139" id="116492_6" >January 18, 1994</DATE>
+
+<NAME start="216" local_name_id="3" end="226" id="116492_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="304" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_5_1489" id1="Dummy_File_8118" volume="5" start="292" page_number="1489" standard_reporter="F.3D" citation_global_level_id="71968.001" line="3" id="116492_12" citation_local_level_id="2" >5 F. 3d 1489</CITATION>
+
+<RELATION theme="116492_1" includes_docket_string="93-779" includes_docket="116492_2" theme_string="510 U.S. 1081" gram_type="apposition" relation_type="asymmetric" id="116492_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1081" X_vs_Y_string="Hunter v. Carbondale Area School District et al" standard_case="116492_1" X_vs_Y="116492_3" gram_type="pre_nom" relation_type="equivalence" id="116492_7" ></RELATION>
+
+<RELATION theme="116492_3" includes_docket_string="93-779" includes_docket="116492_2" theme_string="Hunter v. Carbondale Area School District et al" gram_type="apposition" relation_type="asymmetric" id="116492_10" ></RELATION>
+
+<RELATION theme="116492_3" party1="116492_4" party1_string="Hunter" theme_string="Hunter v. Carbondale Area School District et al" gram_type="infix" relation_type="asymmetric" id="116492_8" ></RELATION>
+
+<RELATION party2="116492_5" theme="116492_3" theme_string="Hunter v. Carbondale Area School District et al" party2_string="Carbondale Area School District et al" gram_type="infix" relation_type="asymmetric" id="116492_9" ></RELATION>
+

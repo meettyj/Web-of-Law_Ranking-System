@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['nagystates#4']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_922" id1="123832" volume="537" start="0" page_number="922" standard_reporter="U.S." citation_global_level_id="5643.002" line="1" id="123829_1" citation_local_level_id="0" >537 U.S. 922</CITATION>
+
+<CITATION party2="UNITED STATES" party1="NAGY" citation_global_level_id="55571.001" party2_short="STATES" line="1" id="123829_3" alternative_keys="['u.s._537_922']" end="38" entry_type="party_key" lookup_key="nagystates#4" id1="120960" start="17" party1_short="NAGY" citation_local_level_id="1" >NAGY v. UNITED STATES</CITATION>
+
+<NAME end="21" start="17" party1_of="123829_3" all_names="NAGY" local_name_id="1" id="123829_4" >NAGY</NAME>
+
+<NAME end="38" start="25" all_names="UNITED STATES" party2_of="123829_3" local_name_id="2" id="123829_5" >UNITED STATES</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._537_922" id1="123832" start="48" citation_global_level_id="5643.002" line="1" id="123829_2" citation_local_level_id="0" >02-5553</DOCKET>
+
+<DATE start="97" end="112" id="123829_6" >October 7, 2002</DATE>
+
+<NAME start="241" local_name_id="3" end="244" id="123829_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="123829_1" includes_docket_string="02-5553" includes_docket="123829_2" theme_string="537 U.S. 922" gram_type="apposition" relation_type="asymmetric" id="123829_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 922" X_vs_Y_string="NAGY v. UNITED STATES" standard_case="123829_1" X_vs_Y="123829_3" gram_type="pre_nom" relation_type="equivalence" id="123829_7" ></RELATION>
+
+<RELATION theme="123829_3" includes_docket_string="02-5553" includes_docket="123829_2" theme_string="NAGY v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="123829_10" ></RELATION>
+
+<RELATION theme="123829_3" party1="123829_4" party1_string="NAGY" theme_string="NAGY v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="123829_8" ></RELATION>
+
+<RELATION party2="123829_5" theme="123829_3" theme_string="NAGY v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="123829_9" ></RELATION>
+

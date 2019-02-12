@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['bondsalabama#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_953" id1="124255" volume="537" start="0" page_number="953" standard_reporter="U.S." citation_global_level_id="140.002" line="1" id="124265_1" citation_local_level_id="0" >537 U.S. 953</CITATION>
+
+<CITATION party2="ALABAMA" party1="BONDS" citation_global_level_id="35350.001" party2_short="ALABAMA" line="1" id="124265_3" alternative_keys="['u.s._537_953']" end="33" entry_type="party_key" lookup_key="bondsalabama#1" id1="124265" start="17" party1_short="BONDS" citation_local_level_id="1" >BONDS v. ALABAMA</CITATION>
+
+<NAME end="22" start="17" party1_of="124265_3" all_names="BONDS" local_name_id="1" id="124265_4" >BONDS</NAME>
+
+<NAME end="33" start="26" all_names="ALABAMA" party2_of="124265_3" local_name_id="2" id="124265_5" >ALABAMA</NAME>
+
+<DOCKET end="50" entry_type="docket" lookup_key="u.s._537_953" id1="124255" start="43" citation_global_level_id="140.002" line="1" id="124265_2" citation_local_level_id="0" >02-5676</DOCKET>
+
+<DATE start="92" end="108" id="124265_6" >October 15, 2002</DATE>
+
+<NAME start="211" local_name_id="3" end="213" id="124265_13" all_names="CT" >Ct</NAME>
+
+<CITATION end="280" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_851_634" id1="Dummy_File_232177" volume="851" start="266" page_number="634" standard_reporter="SO.2D" citation_global_level_id="296027.001" line="3" id="124265_12" citation_local_level_id="2" >851 So. 2d 634</CITATION>
+
+<RELATION theme="124265_1" includes_docket_string="02-5676" includes_docket="124265_2" theme_string="537 U.S. 953" gram_type="apposition" relation_type="asymmetric" id="124265_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 953" X_vs_Y_string="BONDS v. ALABAMA" standard_case="124265_1" X_vs_Y="124265_3" gram_type="pre_nom" relation_type="equivalence" id="124265_7" ></RELATION>
+
+<RELATION theme="124265_3" includes_docket_string="02-5676" includes_docket="124265_2" theme_string="BONDS v. ALABAMA" gram_type="apposition" relation_type="asymmetric" id="124265_10" ></RELATION>
+
+<RELATION theme="124265_3" party1="124265_4" party1_string="BONDS" theme_string="BONDS v. ALABAMA" gram_type="infix" relation_type="asymmetric" id="124265_8" ></RELATION>
+
+<RELATION party2="124265_5" theme="124265_3" theme_string="BONDS v. ALABAMA" party2_string="ALABAMA" gram_type="infix" relation_type="asymmetric" id="124265_9" ></RELATION>
+

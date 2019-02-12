@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['raypennsylvania#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._542_920" id1="137237" volume="542" start="0" page_number="920" standard_reporter="U.S." citation_global_level_id="579.002" line="1" id="137238_1" citation_local_level_id="0" >542 U.S. 920</CITATION>
+
+<CITATION party2="PENNSYLVANIA" party1="RAY" citation_global_level_id="1494.001" party2_short="PENNSYLVANIA" line="1" id="137238_3" alternative_keys="['u.s._542_920']" end="36" entry_type="party_key" lookup_key="raypennsylvania#1" id1="137238" start="17" party1_short="RAY" citation_local_level_id="1" >RAY v. PENNSYLVANIA</CITATION>
+
+<NAME end="20" start="17" party1_of="137238_3" all_names="RAY" local_name_id="1" id="137238_4" >RAY</NAME>
+
+<NAME end="36" start="24" all_names="PENNSYLVANIA" party2_of="137238_3" local_name_id="2" id="137238_5" >PENNSYLVANIA</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="u.s._542_920" id1="137237" start="46" citation_global_level_id="579.002" line="1" id="137238_2" citation_local_level_id="0" >03-1513</DOCKET>
+
+<DATE start="95" end="108" id="137238_6" >June 21, 2004</DATE>
+
+<CITATION end="217" reporter="A. 2d" entry_type="standard_key" no_current_file="True" lookup_key="a.2d_832_542" id1="Dummy_File_31870" volume="832" start="204" page_number="542" standard_reporter="A.2D" citation_global_level_id="95720.001" line="3" id="137238_12" citation_local_level_id="2" >832 A. 2d 542</CITATION>
+
+<RELATION theme="137238_1" includes_docket_string="03-1513" includes_docket="137238_2" theme_string="542 U.S. 920" gram_type="apposition" relation_type="asymmetric" id="137238_11" ></RELATION>
+
+<RELATION standard_case_string="542 U.S. 920" X_vs_Y_string="RAY v. PENNSYLVANIA" standard_case="137238_1" X_vs_Y="137238_3" gram_type="pre_nom" relation_type="equivalence" id="137238_7" ></RELATION>
+
+<RELATION theme="137238_3" includes_docket_string="03-1513" includes_docket="137238_2" theme_string="RAY v. PENNSYLVANIA" gram_type="apposition" relation_type="asymmetric" id="137238_10" ></RELATION>
+
+<RELATION theme="137238_3" party1="137238_4" party1_string="RAY" theme_string="RAY v. PENNSYLVANIA" gram_type="infix" relation_type="asymmetric" id="137238_8" ></RELATION>
+
+<RELATION party2="137238_5" theme="137238_3" theme_string="RAY v. PENNSYLVANIA" party2_string="PENNSYLVANIA" gram_type="infix" relation_type="asymmetric" id="137238_9" ></RELATION>
+

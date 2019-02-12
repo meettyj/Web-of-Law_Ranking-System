@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['shannonwilliams#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1060" id1="120349" volume="535" start="0" page_number="1060" standard_reporter="U.S." citation_global_level_id="2284.002" line="1" id="120345_1" citation_local_level_id="0" >535 U.S. 1060</CITATION>
+
+<CITATION party2="WILLIAMS, WARDEN, ET AL" party1="SHANNON" citation_global_level_id="2284.003" party2_short="WILLIAMS" line="2" id="120345_2" alternative_keys="['u.s._535_1060']" end="52" entry_type="party_key" lookup_key="shannonwilliams#1" id1="120349" start="18" party1_short="SHANNON" citation_local_level_id="1" >SHANNON v. WILLIAMS, WARDEN, ET AL</CITATION>
+
+<NAME end="25" start="18" party1_of="120345_2" all_names="SHANNON" local_name_id="1" id="120345_3" >SHANNON</NAME>
+
+<NAME end="52" start="29" all_names="WILLIAMS WARDEN" party2_of="120345_2" local_name_id="2" id="120345_4" >WILLIAMS, WARDEN, ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._535_1060']" end="69" entry_type="docket" lookup_key="shannonwilliams#1" id1="120349" start="62" citation_global_level_id="2284.003" line="3" id="120345_7" citation_local_level_id="1" >01-8805</DOCKET>
+
+<DATE start="115" citation_global_level_id="2284.003" end="127" id="120345_8" citation_local_level_id="1" >May 13, 2002</DATE>
+
+<NAME start="160" local_name_id="3" end="163" id="120345_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="120345_2" party1="120345_3" party1_string="SHANNON" theme_string="SHANNON v. WILLIAMS, WARDEN, ET AL" gram_type="infix" relation_type="asymmetric" id="120345_5" ></RELATION>
+
+<RELATION party2="120345_4" theme="120345_2" theme_string="SHANNON v. WILLIAMS, WARDEN, ET AL" party2_string="WILLIAMS, WARDEN, ET AL" gram_type="infix" relation_type="asymmetric" id="120345_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1060" X_vs_Y_string="SHANNON v. WILLIAMS, WARDEN, ET AL" standard_case="120345_1" X_vs_Y="120345_2" gram_type="multi_line" relation_type="equivalence" id="120345_9" ></RELATION>
+
+<RELATION at_date_string="May 13, 2002" theme="120345_2" at_date="120345_8" theme_string="SHANNON v. WILLIAMS, WARDEN, ET AL" gram_type="multi_line" relation_type="asymmetric" id="120345_11" ></RELATION>
+
+<RELATION theme="120345_2" includes_docket_string="01-8805" includes_docket="120345_7" theme_string="SHANNON v. WILLIAMS, WARDEN, ET AL" gram_type="multi_line" relation_type="asymmetric" id="120345_10" ></RELATION>
+

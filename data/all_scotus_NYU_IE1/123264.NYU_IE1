@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['firmcoffman#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_880" id1="123263" volume="537" start="0" page_number="880" standard_reporter="U.S." citation_global_level_id="886.002" line="1" id="123264_1" citation_local_level_id="0" >537 U.S. 880</CITATION>
+
+<CITATION party2="COFFMAN" party1="PROVOST UMPHREY LAW FIRM ET AL." citation_global_level_id="39825.001" party2_short="COFFMAN" line="1" id="123264_3" alternative_keys="['u.s._537_880']" end="59" entry_type="party_key" lookup_key="firmcoffman#1" id1="123264" start="17" party1_short="FIRM" citation_local_level_id="1" >PROVOST UMPHREY LAW FIRM ET AL. v. COFFMAN</CITATION>
+
+<NAME end="48" start="17" party1_of="123264_3" all_names="PROVOST UMPHREY LAW FIRM" local_name_id="1" id="123264_4" >PROVOST UMPHREY LAW FIRM ET AL.</NAME>
+
+<ORGANIZATION start="17" end="47" id="123264_7" >PROVOST UMPHREY LAW FIRM ET AL</ORGANIZATION>
+
+<ORGANIZATION start="37" end="41" id="123264_8" >FIRM</ORGANIZATION>
+
+<NAME end="59" start="52" all_names="COFFMAN" party2_of="123264_3" local_name_id="2" id="123264_5" >COFFMAN</NAME>
+
+<DOCKET end="74" entry_type="docket" lookup_key="u.s._537_880" id1="123263" start="69" citation_global_level_id="886.002" line="1" id="123264_2" citation_local_level_id="0" >02-41</DOCKET>
+
+<DATE start="116" end="131" id="123264_6" >October 7, 2002</DATE>
+
+<NAME start="260" local_name_id="3" end="263" id="123264_14" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="123264_1" includes_docket_string="02-41" includes_docket="123264_2" theme_string="537 U.S. 880" gram_type="apposition" relation_type="asymmetric" id="123264_13" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 880" X_vs_Y_string="PROVOST UMPHREY LAW FIRM ET AL. v. COFFMAN" standard_case="123264_1" X_vs_Y="123264_3" gram_type="pre_nom" relation_type="equivalence" id="123264_9" ></RELATION>
+
+<RELATION theme="123264_3" includes_docket_string="02-41" includes_docket="123264_2" theme_string="PROVOST UMPHREY LAW FIRM ET AL. v. COFFMAN" gram_type="apposition" relation_type="asymmetric" id="123264_12" ></RELATION>
+
+<RELATION theme="123264_3" party1="123264_4" party1_string="PROVOST UMPHREY LAW FIRM ET AL." theme_string="PROVOST UMPHREY LAW FIRM ET AL. v. COFFMAN" gram_type="infix" relation_type="asymmetric" id="123264_10" ></RELATION>
+
+<RELATION party2="123264_5" theme="123264_3" theme_string="PROVOST UMPHREY LAW FIRM ET AL. v. COFFMAN" party2_string="COFFMAN" gram_type="infix" relation_type="asymmetric" id="123264_11" ></RELATION>
+

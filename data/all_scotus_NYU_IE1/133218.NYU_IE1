@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['smithreid#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_959" id1="133228" volume="540" start="0" page_number="959" standard_reporter="U.S." citation_global_level_id="4140.002" line="1" id="133218_1" citation_local_level_id="0" >540 U.S. 959</CITATION>
+
+<CITATION party2="REID, WARDEN, ET AL" party1="SMITH" citation_global_level_id="4140.004" party2_short="REID" line="1" id="133218_3" alternative_keys="['u.s._540_959']" end="45" no_current_file="True" entry_type="party_key" lookup_key="smithreid#1" id1="133228" start="17" party1_short="SMITH" citation_local_level_id="1" >SMITH v. REID, WARDEN, ET AL</CITATION>
+
+<NAME end="22" start="17" party1_of="133218_3" all_names="SMITH" local_name_id="1" id="133218_4" >SMITH</NAME>
+
+<NAME end="45" start="26" all_names="REID WARDEN" party2_of="133218_3" local_name_id="2" id="133218_5" >REID, WARDEN, ET AL</NAME>
+
+<DOCKET end="62" entry_type="docket" lookup_key="u.s._540_959" id1="133228" start="55" citation_global_level_id="4140.002" line="1" id="133218_2" citation_local_level_id="0" >03-6084</DOCKET>
+
+<DATE start="104" end="120" id="133218_6" >October 14, 2003</DATE>
+
+<NAME start="199" local_name_id="3" end="209" id="133218_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="133218_1" includes_docket_string="03-6084" includes_docket="133218_2" theme_string="540 U.S. 959" gram_type="apposition" relation_type="asymmetric" id="133218_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 959" X_vs_Y_string="SMITH v. REID, WARDEN, ET AL" standard_case="133218_1" X_vs_Y="133218_3" gram_type="pre_nom" relation_type="equivalence" id="133218_7" ></RELATION>
+
+<RELATION theme="133218_3" includes_docket_string="03-6084" includes_docket="133218_2" theme_string="SMITH v. REID, WARDEN, ET AL" gram_type="apposition" relation_type="asymmetric" id="133218_10" ></RELATION>
+
+<RELATION theme="133218_3" party1="133218_4" party1_string="SMITH" theme_string="SMITH v. REID, WARDEN, ET AL" gram_type="infix" relation_type="asymmetric" id="133218_8" ></RELATION>
+
+<RELATION party2="133218_5" theme="133218_3" theme_string="SMITH v. REID, WARDEN, ET AL" party2_string="REID, WARDEN, ET AL" gram_type="infix" relation_type="asymmetric" id="133218_9" ></RELATION>
+

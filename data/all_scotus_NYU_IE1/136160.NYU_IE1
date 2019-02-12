@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['phelpscalifornia#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_1033" id1="136150" volume="541" start="0" page_number="1033" standard_reporter="U.S." citation_global_level_id="753.002" line="1" id="136160_1" citation_local_level_id="0" >541 U.S. 1033</CITATION>
+
+<CITATION party2="ALAMEDA COUNTY, CALIFORNIA, ET AL" party1="PHELPS" citation_global_level_id="753.007" party2_short="CALIFORNIA" line="2" id="136160_2" alternative_keys="['u.s._541_1033']" end="61" entry_type="party_key" lookup_key="phelpscalifornia#2" id1="136150" start="18" party1_short="PHELPS" citation_local_level_id="1" >PHELPS v. ALAMEDA COUNTY, CALIFORNIA, ET AL</CITATION>
+
+<NAME end="24" start="18" party1_of="136160_2" all_names="PHELPS" local_name_id="1" id="136160_3" >PHELPS</NAME>
+
+<NAME end="61" start="28" all_names="ALAMEDA COUNTY CALIFORNIA" party2_of="136160_2" local_name_id="2" id="136160_4" >ALAMEDA COUNTY, CALIFORNIA, ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._541_1033']" end="78" entry_type="docket" lookup_key="phelpscalifornia#2" id1="136150" start="71" citation_global_level_id="753.007" line="3" id="136160_7" citation_local_level_id="1" >03-9227</DOCKET>
+
+<ORGANIZATION start="84" end="114" id="136160_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="120" citation_global_level_id="753.007" end="131" id="136160_9" citation_local_level_id="1" >May 3, 2004</DATE>
+
+<NAME start="163" local_name_id="3" end="166" id="136160_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="136160_2" party1="136160_3" party1_string="PHELPS" theme_string="PHELPS v. ALAMEDA COUNTY, CALIFORNIA, ET AL" gram_type="infix" relation_type="asymmetric" id="136160_5" ></RELATION>
+
+<RELATION party2="136160_4" theme="136160_2" theme_string="PHELPS v. ALAMEDA COUNTY, CALIFORNIA, ET AL" party2_string="ALAMEDA COUNTY, CALIFORNIA, ET AL" gram_type="infix" relation_type="asymmetric" id="136160_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 1033" X_vs_Y_string="PHELPS v. ALAMEDA COUNTY, CALIFORNIA, ET AL" standard_case="136160_1" X_vs_Y="136160_2" gram_type="multi_line" relation_type="equivalence" id="136160_10" ></RELATION>
+
+<RELATION at_date_string="May 3, 2004" theme="136160_2" at_date="136160_9" theme_string="PHELPS v. ALAMEDA COUNTY, CALIFORNIA, ET AL" gram_type="multi_line" relation_type="asymmetric" id="136160_12" ></RELATION>
+
+<RELATION theme="136160_2" includes_docket_string="03-9227" includes_docket="136160_7" theme_string="PHELPS v. ALAMEDA COUNTY, CALIFORNIA, ET AL" gram_type="multi_line" relation_type="asymmetric" id="136160_11" ></RELATION>
+

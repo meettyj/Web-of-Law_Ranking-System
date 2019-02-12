@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['taittindustries#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1013" id1="119835" volume="535" start="0" page_number="1013" standard_reporter="U.S." citation_global_level_id="411.002" line="1" id="119835_1" citation_local_level_id="0" >535 U.S. 1013</CITATION>
+
+<CITATION party2="WHITECO INDUSTRIES" party1="TAITT" citation_global_level_id="411.001" party2_short="INDUSTRIES" line="2" id="119835_2" alternative_keys="['u.s._535_1013']" end="45" entry_type="party_key" lookup_key="taittindustries#1" id1="119835" start="18" party1_short="TAITT" citation_local_level_id="1" >TAITT v. WHITECO INDUSTRIES</CITATION>
+
+<NAME end="23" start="18" party1_of="119835_2" all_names="TAITT" local_name_id="1" id="119835_3" >TAITT</NAME>
+
+<NAME end="45" start="27" all_names="WHITECO INDUSTRIES" party2_of="119835_2" local_name_id="2" id="119835_4" >WHITECO INDUSTRIES</NAME>
+
+<DOCKET end="62" entry_type="docket" lookup_key="taittindustries#1" id1="119835" start="55" citation_global_level_id="411.001" line="3" id="119835_7" citation_local_level_id="1" >01-7077</DOCKET>
+
+<DATE start="108" citation_global_level_id="411.001" end="122" id="119835_8" citation_local_level_id="1" >April 15, 2002</DATE>
+
+<CITATION end="158" reporter="U. S." entry_type="standard_key" no_current_file="True" lookup_key="u.s._534_1136" id1="Dummy_File_224502" volume="534" start="144" page_number="1136" standard_reporter="U.S." citation_global_level_id="288352.001" line="8" id="119835_12" citation_local_level_id="2" >534 U. S. 1136</CITATION>
+
+<NAME start="160" local_name_id="3" end="169" id="119835_13" all_names="PETITIONS" >Petitions</NAME>
+
+<RELATION theme="119835_2" party1="119835_3" party1_string="TAITT" theme_string="TAITT v. WHITECO INDUSTRIES" gram_type="infix" relation_type="asymmetric" id="119835_5" ></RELATION>
+
+<RELATION party2="119835_4" theme="119835_2" theme_string="TAITT v. WHITECO INDUSTRIES" party2_string="WHITECO INDUSTRIES" gram_type="infix" relation_type="asymmetric" id="119835_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1013" X_vs_Y_string="TAITT v. WHITECO INDUSTRIES" standard_case="119835_1" X_vs_Y="119835_2" gram_type="multi_line" relation_type="equivalence" id="119835_9" ></RELATION>
+
+<RELATION at_date_string="April 15, 2002" theme="119835_2" at_date="119835_8" theme_string="TAITT v. WHITECO INDUSTRIES" gram_type="multi_line" relation_type="asymmetric" id="119835_11" ></RELATION>
+
+<RELATION theme="119835_2" includes_docket_string="01-7077" includes_docket="119835_7" theme_string="TAITT v. WHITECO INDUSTRIES" gram_type="multi_line" relation_type="asymmetric" id="119835_10" ></RELATION>
+

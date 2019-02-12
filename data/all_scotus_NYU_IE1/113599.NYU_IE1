@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['mcfallwilkinson#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_856" id1="113599" volume="510" start="0" page_number="856" standard_reporter="U.S." citation_global_level_id="2126.002" line="1" id="113599_1" citation_local_level_id="0" >510 U.S. 856</CITATION>
+
+<CITATION party2="Wilkinson et al" party1="McFall" citation_global_level_id="2126.001" party2_short="Wilkinson" line="1" id="113599_3" alternative_keys="['u.s._510_856']" end="42" entry_type="party_key" lookup_key="mcfallwilkinson#1" id1="113599" start="17" party1_short="McFall" citation_local_level_id="1" >McFall v. Wilkinson et al</CITATION>
+
+<NAME end="23" start="17" party1_of="113599_3" all_names="MCFALL" local_name_id="1" id="113599_4" >McFall</NAME>
+
+<NAME end="42" start="27" all_names="WILKINSON" party2_of="113599_3" local_name_id="2" id="113599_5" >Wilkinson et al</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="u.s._510_856" id1="113599" start="52" citation_global_level_id="2126.002" line="1" id="113599_2" citation_local_level_id="0" >92-9192</DOCKET>
+
+<DATE start="101" end="116" id="113599_6" >October 4, 1993</DATE>
+
+<NAME start="194" local_name_id="3" end="204" id="113599_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="242" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_977_582" id1="Dummy_File_107818" volume="977" start="229" page_number="582" standard_reporter="F.2D" citation_global_level_id="171668.001" line="3" id="113599_12" citation_local_level_id="2" >977 F. 2d 582</CITATION>
+
+<RELATION theme="113599_1" includes_docket_string="92-9192" includes_docket="113599_2" theme_string="510 U.S. 856" gram_type="apposition" relation_type="asymmetric" id="113599_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 856" X_vs_Y_string="McFall v. Wilkinson et al" standard_case="113599_1" X_vs_Y="113599_3" gram_type="pre_nom" relation_type="equivalence" id="113599_7" ></RELATION>
+
+<RELATION theme="113599_3" includes_docket_string="92-9192" includes_docket="113599_2" theme_string="McFall v. Wilkinson et al" gram_type="apposition" relation_type="asymmetric" id="113599_10" ></RELATION>
+
+<RELATION theme="113599_3" party1="113599_4" party1_string="McFall" theme_string="McFall v. Wilkinson et al" gram_type="infix" relation_type="asymmetric" id="113599_8" ></RELATION>
+
+<RELATION party2="113599_5" theme="113599_3" theme_string="McFall v. Wilkinson et al" party2_string="Wilkinson et al" gram_type="infix" relation_type="asymmetric" id="113599_9" ></RELATION>
+

@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['keyauthority#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_932" id1="128298" volume="538" start="0" page_number="932" standard_reporter="U.S." citation_global_level_id="3460.002" line="1" id="128300_1" citation_local_level_id="0" >538 U.S. 932</CITATION>
+
+<CITATION party2="HOUSING AUTHORITY OF THE CITY OF CHARLESTON, SOUTH CAROLINA" party1="KEY" citation_global_level_id="40507.001" party2_short="AUTHORITY" line="1" id="128300_3" alternative_keys="['u.s._538_932']" end="83" entry_type="party_key" lookup_key="keyauthority#1" id1="128300" start="17" party1_short="KEY" citation_local_level_id="1" >KEY v. HOUSING AUTHORITY OF THE CITY OF CHARLESTON, SOUTH CAROLINA</CITATION>
+
+<NAME end="20" start="17" party1_of="128300_3" all_names="KEY" local_name_id="1" id="128300_4" >KEY</NAME>
+
+<NAME end="83" start="24" all_names="HOUSING AUTHORITY OF THE CITY OF CHARLESTON SOUTH CAROLINA" party2_of="128300_3" local_name_id="2" id="128300_5" >HOUSING AUTHORITY OF THE CITY OF CHARLESTON, SOUTH CAROLINA</NAME>
+
+<DOCKET end="100" entry_type="docket" lookup_key="u.s._538_932" id1="128298" start="93" citation_global_level_id="3460.002" line="1" id="128300_2" citation_local_level_id="0" >02-8769</DOCKET>
+
+<DATE start="142" end="156" id="128300_6" >March 24, 2003</DATE>
+
+<NAME start="254" local_name_id="3" end="257" id="128300_14" all_names="SUP" >Sup</NAME>
+
+<CITATION end="316" reporter="S. C." entry_type="standard_key" no_current_file="True" lookup_key="s.c._352_26" id1="Dummy_File_121738" volume="352" start="304" page_number="26" standard_reporter="S.C." citation_global_level_id="185588.001" line="3" id="128300_12" citation_local_level_id="2" >352 S. C. 26</CITATION>
+
+<CITATION end="334" reporter="S. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="s.e.2d_572_284" id1="Dummy_File_121739" volume="572" start="318" page_number="284" standard_reporter="S.E.2D" citation_global_level_id="185589.001" line="3" id="128300_13" citation_local_level_id="3" >572 S. E. 2d 284</CITATION>
+
+<RELATION theme="128300_1" includes_docket_string="02-8769" includes_docket="128300_2" theme_string="538 U.S. 932" gram_type="apposition" relation_type="asymmetric" id="128300_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 932" X_vs_Y_string="KEY v. HOUSING AUTHORITY OF THE CITY OF CHARLESTON, SOUTH CAROLINA" standard_case="128300_1" X_vs_Y="128300_3" gram_type="pre_nom" relation_type="equivalence" id="128300_7" ></RELATION>
+
+<RELATION theme="128300_3" includes_docket_string="02-8769" includes_docket="128300_2" theme_string="KEY v. HOUSING AUTHORITY OF THE CITY OF CHARLESTON, SOUTH CAROLINA" gram_type="apposition" relation_type="asymmetric" id="128300_10" ></RELATION>
+
+<RELATION theme="128300_3" party1="128300_4" party1_string="KEY" theme_string="KEY v. HOUSING AUTHORITY OF THE CITY OF CHARLESTON, SOUTH CAROLINA" gram_type="infix" relation_type="asymmetric" id="128300_8" ></RELATION>
+
+<RELATION party2="128300_5" theme="128300_3" theme_string="KEY v. HOUSING AUTHORITY OF THE CITY OF CHARLESTON, SOUTH CAROLINA" party2_string="HOUSING AUTHORITY OF THE CITY OF CHARLESTON, SOUTH CAROLINA" gram_type="infix" relation_type="asymmetric" id="128300_9" ></RELATION>
+

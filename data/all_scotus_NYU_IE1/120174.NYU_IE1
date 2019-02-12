@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['raangelone#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1040" id1="120174" volume="535" start="0" page_number="1040" standard_reporter="U.S." citation_global_level_id="11544.002" line="1" id="120174_1" citation_local_level_id="0" >535 U.S. 1040</CITATION>
+
+<CITATION party2="ANGELONE, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" party1="RA" citation_global_level_id="11544.008" party2_short="ANGELONE" line="2" id="120174_3" alternative_keys="['u.s._535_1040']" end="78" entry_type="party_key" lookup_key="raangelone#1" id1="120174" start="18" party1_short="RA" citation_local_level_id="1" >RA v. ANGELONE, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS</CITATION>
+
+<NAME end="20" start="18" party1_of="120174_3" all_names="RA" local_name_id="1" id="120174_4" >RA</NAME>
+
+<NAME end="78" start="24" all_names="ANGELONE DIRECTOR VIRGINIA DEPARTMENT OF CORRECTIONS" party2_of="120174_3" local_name_id="2" id="120174_5" >ANGELONE, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS</NAME>
+
+<DOCKET alternative_keys="['u.s._535_1040']" end="95" entry_type="docket" lookup_key="raangelone#1" id1="120174" start="88" citation_global_level_id="11544.008" line="2" id="120174_2" citation_local_level_id="1" >01-8887</DOCKET>
+
+<DATE start="141" citation_global_level_id="11544.008" end="155" id="120174_9" citation_local_level_id="1" >April 29, 2002</DATE>
+
+<NAME start="177" local_name_id="3" end="180" id="120174_12" all_names="SUP" >Sup</NAME>
+
+<RELATION theme="120174_3" includes_docket_string="01-8887" includes_docket="120174_2" theme_string="RA v. ANGELONE, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" gram_type="apposition" relation_type="asymmetric" id="120174_8" ></RELATION>
+
+<RELATION theme="120174_3" party1="120174_4" party1_string="RA" theme_string="RA v. ANGELONE, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" gram_type="infix" relation_type="asymmetric" id="120174_6" ></RELATION>
+
+<RELATION party2="120174_5" theme="120174_3" theme_string="RA v. ANGELONE, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" party2_string="ANGELONE, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" gram_type="infix" relation_type="asymmetric" id="120174_7" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1040" X_vs_Y_string="RA v. ANGELONE, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" standard_case="120174_1" X_vs_Y="120174_3" gram_type="multi_line" relation_type="equivalence" id="120174_10" ></RELATION>
+
+<RELATION at_date_string="April 29, 2002" theme="120174_3" at_date="120174_9" theme_string="RA v. ANGELONE, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" gram_type="multi_line" relation_type="asymmetric" id="120174_11" ></RELATION>
+

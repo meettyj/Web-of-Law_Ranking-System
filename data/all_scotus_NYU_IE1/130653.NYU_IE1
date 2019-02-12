@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['crabcommission#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_941" id1="130653" volume="539" start="0" page_number="941" standard_reporter="U.S." citation_global_level_id="5554.002" line="1" id="130653_1" citation_local_level_id="0" >539 U.S. 941</CITATION>
+
+<CITATION party2="Equal Employment Opportunity Commission" party1="Joe's Stone Crab, Inc." citation_global_level_id="5554.006" party2_short="Commission" line="1" id="130653_3" alternative_keys="['u.s._539_941']" end="82" entry_type="party_key" lookup_key="crabcommission#1" id1="130653" start="17" party1_short="Crab" citation_local_level_id="1" >Joe's Stone Crab, Inc. v. Equal Employment Opportunity Commission</CITATION>
+
+<NAME end="39" start="17" party1_of="130653_3" all_names="JOE'S STONE CRAB INC" local_name_id="1" id="130653_4" >Joe's Stone Crab, Inc.</NAME>
+
+<NAME start="17" local_name_id="2" end="20" id="130653_7" all_names="JOE" >Joe</NAME>
+
+<ORGANIZATION start="23" end="38" id="130653_8" >Stone Crab, Inc</ORGANIZATION>
+
+<NAME end="82" start="43" all_names="EQUAL EMPLOYMENT OPPORTUNITY COMMISSION" party2_of="130653_3" local_name_id="3" id="130653_5" >Equal Employment Opportunity Commission</NAME>
+
+<DOCKET end="99" entry_type="docket" lookup_key="u.s._539_941" id1="130653" start="92" citation_global_level_id="5554.002" line="1" id="130653_2" citation_local_level_id="0" >02-1384</DOCKET>
+
+<DATE start="141" end="154" id="130653_6" >June 23, 2003</DATE>
+
+<NAME start="233" local_name_id="4" end="243" id="130653_15" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="282" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_296_1265" id1="Dummy_File_196159" volume="296" start="268" page_number="1265" standard_reporter="F.3D" citation_global_level_id="260009.001" line="3" id="130653_14" citation_local_level_id="2" >296 F. 3d 1265</CITATION>
+
+<RELATION theme="130653_1" includes_docket_string="02-1384" includes_docket="130653_2" theme_string="539 U.S. 941" gram_type="apposition" relation_type="asymmetric" id="130653_13" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 941" X_vs_Y_string="Joe's Stone Crab, Inc. v. Equal Employment Opportunity Commission" standard_case="130653_1" X_vs_Y="130653_3" gram_type="pre_nom" relation_type="equivalence" id="130653_9" ></RELATION>
+
+<RELATION theme="130653_3" includes_docket_string="02-1384" includes_docket="130653_2" theme_string="Joe's Stone Crab, Inc. v. Equal Employment Opportunity Commission" gram_type="apposition" relation_type="asymmetric" id="130653_12" ></RELATION>
+
+<RELATION theme="130653_3" party1="130653_4" party1_string="Joe's Stone Crab, Inc." theme_string="Joe's Stone Crab, Inc. v. Equal Employment Opportunity Commission" gram_type="infix" relation_type="asymmetric" id="130653_10" ></RELATION>
+
+<RELATION party2="130653_5" theme="130653_3" theme_string="Joe's Stone Crab, Inc. v. Equal Employment Opportunity Commission" party2_string="Equal Employment Opportunity Commission" gram_type="infix" relation_type="asymmetric" id="130653_11" ></RELATION>
+

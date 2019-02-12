@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['gammaloohio#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_843" id1="122778" volume="537" start="0" page_number="843" standard_reporter="U.S." citation_global_level_id="914.002" line="1" id="122788_1" citation_local_level_id="0" >537 U.S. 843</CITATION>
+
+<CITATION party2="OHIO" party1="GAMMALO" citation_global_level_id="54271.001" party2_short="OHIO" line="1" id="122788_3" alternative_keys="['u.s._537_843']" end="32" entry_type="party_key" lookup_key="gammaloohio#1" id1="122788" start="17" party1_short="GAMMALO" citation_local_level_id="1" >GAMMALO v. OHIO</CITATION>
+
+<NAME end="24" start="17" party1_of="122788_3" all_names="GAMMALO" local_name_id="1" id="122788_4" >GAMMALO</NAME>
+
+<NAME end="32" start="28" all_names="OHIO" party2_of="122788_3" local_name_id="2" id="122788_5" >OHIO</NAME>
+
+<DOCKET end="50" entry_type="docket" lookup_key="u.s._537_843" id1="122778" start="42" citation_global_level_id="914.002" line="1" id="122788_2" citation_local_level_id="0" >01-10381</DOCKET>
+
+<DATE start="92" end="107" id="122788_6" >October 7, 2002</DATE>
+
+<NAME start="195" local_name_id="3" end="198" id="122788_13" all_names="SUP" >Sup</NAME>
+
+<CITATION end="282" reporter="N. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.e.2d_757_772" id1="Dummy_File_228429" volume="757" start="266" page_number="772" standard_reporter="N.E.2D" citation_global_level_id="292279.001" line="3" id="122788_12" citation_local_level_id="2" >757 N. E. 2d 772</CITATION>
+
+<RELATION theme="122788_1" includes_docket_string="01-10381" includes_docket="122788_2" theme_string="537 U.S. 843" gram_type="apposition" relation_type="asymmetric" id="122788_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 843" X_vs_Y_string="GAMMALO v. OHIO" standard_case="122788_1" X_vs_Y="122788_3" gram_type="pre_nom" relation_type="equivalence" id="122788_7" ></RELATION>
+
+<RELATION theme="122788_3" includes_docket_string="01-10381" includes_docket="122788_2" theme_string="GAMMALO v. OHIO" gram_type="apposition" relation_type="asymmetric" id="122788_10" ></RELATION>
+
+<RELATION theme="122788_3" party1="122788_4" party1_string="GAMMALO" theme_string="GAMMALO v. OHIO" gram_type="infix" relation_type="asymmetric" id="122788_8" ></RELATION>
+
+<RELATION party2="122788_5" theme="122788_3" theme_string="GAMMALO v. OHIO" party2_string="OHIO" gram_type="infix" relation_type="asymmetric" id="122788_9" ></RELATION>
+

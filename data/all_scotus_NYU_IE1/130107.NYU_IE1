@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['nagelmotorola#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1068" id1="130105" volume="538" start="0" page_number="1068" standard_reporter="U.S." citation_global_level_id="4823.002" line="1" id="130107_1" citation_local_level_id="0" >538 U.S. 1068</CITATION>
+
+<CITATION party2="MOTOROLA, INC., ET AL" party1="KUEHNE &amp; NAGEL, INC." citation_global_level_id="4823.004" party2_short="MOTOROLA" line="1" id="130107_3" alternative_keys="['u.s._538_1068']" end="63" entry_type="party_key" lookup_key="nagelmotorola#2" id1="130105" start="18" party1_short="NAGEL" citation_local_level_id="1" >KUEHNE &amp; NAGEL, INC. v. MOTOROLA, INC., ET AL</CITATION>
+
+<NAME end="38" start="18" party1_of="130107_3" all_names="KUEHNE &amp; NAGEL INC" local_name_id="1" id="130107_4" >KUEHNE &amp; NAGEL, INC.</NAME>
+
+<ORGANIZATION start="18" end="37" id="130107_7" >KUEHNE &amp; NAGEL, INC</ORGANIZATION>
+
+<NAME end="63" start="42" all_names="MOTOROLA INC" party2_of="130107_3" local_name_id="2" id="130107_5" >MOTOROLA, INC., ET AL</NAME>
+
+<DOCKET end="80" entry_type="docket" lookup_key="u.s._538_1068" id1="130105" start="73" citation_global_level_id="4823.002" line="1" id="130107_2" citation_local_level_id="0" >02-1066</DOCKET>
+
+<DATE start="122" end="134" id="130107_6" >May 27, 2003</DATE>
+
+<NAME start="262" local_name_id="3" end="265" id="130107_14" all_names="CIR" >Cir</NAME>
+
+<CITATION end="393" reporter="F.3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_308_995" id1="Dummy_File_176682" volume="308" start="381" page_number="995" standard_reporter="F.3D" citation_global_level_id="240532.001" line="3" id="130107_13" citation_local_level_id="2" >308 F.3d 995</CITATION>
+
+<RELATION theme="130107_1" includes_docket_string="02-1066" includes_docket="130107_2" theme_string="538 U.S. 1068" gram_type="apposition" relation_type="asymmetric" id="130107_12" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1068" X_vs_Y_string="KUEHNE &amp; NAGEL, INC. v. MOTOROLA, INC., ET AL" standard_case="130107_1" X_vs_Y="130107_3" gram_type="pre_nom" relation_type="equivalence" id="130107_8" ></RELATION>
+
+<RELATION theme="130107_3" includes_docket_string="02-1066" includes_docket="130107_2" theme_string="KUEHNE &amp; NAGEL, INC. v. MOTOROLA, INC., ET AL" gram_type="apposition" relation_type="asymmetric" id="130107_11" ></RELATION>
+
+<RELATION party2="130107_5" theme="130107_3" theme_string="KUEHNE &amp; NAGEL, INC. v. MOTOROLA, INC., ET AL" party2_string="MOTOROLA, INC., ET AL" gram_type="infix" relation_type="asymmetric" id="130107_10" ></RELATION>
+
+<RELATION theme="130107_3" party1="130107_4" party1_string="KUEHNE &amp; NAGEL, INC." theme_string="KUEHNE &amp; NAGEL, INC. v. MOTOROLA, INC., ET AL" gram_type="infix" relation_type="asymmetric" id="130107_9" ></RELATION>
+

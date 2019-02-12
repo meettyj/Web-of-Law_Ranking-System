@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['insurancecompany#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_871" id1="138664" volume="543" start="0" page_number="871" standard_reporter="U.S." citation_global_level_id="3846.002" line="1" id="138665_1" citation_local_level_id="0" >543 U.S. 871</CITATION>
+
+<CITATION party2="SECURITY INSURANCE COMPANY OF HARTFORD ET AL" party1="TIG INSURANCE CO." citation_global_level_id="25566.001" party2_short="COMPANY" line="2" id="138665_2" alternative_keys="['u.s._543_871']" end="82" entry_type="party_key" lookup_key="insurancecompany#1" id1="138665" start="17" party1_short="INSURANCE" citation_local_level_id="1" >TIG INSURANCE CO. v. SECURITY INSURANCE COMPANY OF HARTFORD ET AL</CITATION>
+
+<NAME end="34" start="17" party1_of="138665_2" all_names="TIG INSURANCE CO" local_name_id="1" id="138665_3" >TIG INSURANCE CO.</NAME>
+
+<ORGANIZATION start="17" end="33" id="138665_5" >TIG INSURANCE CO</ORGANIZATION>
+
+<NAME end="82" start="38" all_names="SECURITY INSURANCE COMPANY OF HARTFORD" party2_of="138665_2" local_name_id="2" id="138665_4" >SECURITY INSURANCE COMPANY OF HARTFORD ET AL</NAME>
+
+<DOCKET end="97" entry_type="docket" lookup_key="insurancecompany#1" id1="138665" start="92" citation_global_level_id="25566.001" line="3" id="138665_8" citation_local_level_id="1" >04-49</DOCKET>
+
+<ORGANIZATION start="103" end="133" id="138665_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="139" citation_global_level_id="25566.001" end="154" id="138665_10" citation_local_level_id="1" >October 4, 2004</DATE>
+
+<NAME start="185" local_name_id="3" end="188" id="138665_15" all_names="CIR" >Cir</NAME>
+
+<CITATION end="238" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_360_322" id1="Dummy_File_71373" volume="360" start="225" page_number="322" standard_reporter="F.3D" citation_global_level_id="135223.001" line="8" id="138665_14" citation_local_level_id="2" >360 F. 3d 322</CITATION>
+
+<RELATION theme="138665_2" party1="138665_3" party1_string="TIG INSURANCE CO." theme_string="TIG INSURANCE CO. v. SECURITY INSURANCE COMPANY OF HARTFORD ET AL" gram_type="infix" relation_type="asymmetric" id="138665_6" ></RELATION>
+
+<RELATION party2="138665_4" theme="138665_2" theme_string="TIG INSURANCE CO. v. SECURITY INSURANCE COMPANY OF HARTFORD ET AL" party2_string="SECURITY INSURANCE COMPANY OF HARTFORD ET AL" gram_type="infix" relation_type="asymmetric" id="138665_7" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 871" X_vs_Y_string="TIG INSURANCE CO. v. SECURITY INSURANCE COMPANY OF HARTFORD ET AL" standard_case="138665_1" X_vs_Y="138665_2" gram_type="multi_line" relation_type="equivalence" id="138665_11" ></RELATION>
+
+<RELATION at_date_string="October 4, 2004" theme="138665_2" at_date="138665_10" theme_string="TIG INSURANCE CO. v. SECURITY INSURANCE COMPANY OF HARTFORD ET AL" gram_type="multi_line" relation_type="asymmetric" id="138665_13" ></RELATION>
+
+<RELATION theme="138665_2" includes_docket_string="04-49" includes_docket="138665_8" theme_string="TIG INSURANCE CO. v. SECURITY INSURANCE COMPANY OF HARTFORD ET AL" gram_type="multi_line" relation_type="asymmetric" id="138665_12" ></RELATION>
+

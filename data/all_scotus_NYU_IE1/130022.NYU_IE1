@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['mcintyrecalifornia#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1062" id1="130017" volume="538" start="0" page_number="1062" standard_reporter="U.S." citation_global_level_id="5728.002" line="1" id="130022_1" citation_local_level_id="0" >538 U.S. 1062</CITATION>
+
+<CITATION party2="CALIFORNIA" party1="McINTYRE" citation_global_level_id="19019.001" party2_short="CALIFORNIA" line="1" id="130022_3" alternative_keys="['u.s._538_1062']" end="40" entry_type="party_key" lookup_key="mcintyrecalifornia#1" id1="130022" start="18" party1_short="McINTYRE" citation_local_level_id="1" >McINTYRE v. CALIFORNIA</CITATION>
+
+<NAME end="26" start="18" party1_of="130022_3" all_names="MCINTYRE" local_name_id="1" id="130022_4" >McINTYRE</NAME>
+
+<NAME end="40" start="30" all_names="CALIFORNIA" party2_of="130022_3" local_name_id="2" id="130022_5" >CALIFORNIA</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._538_1062" id1="130017" start="50" citation_global_level_id="5728.002" line="1" id="130022_2" citation_local_level_id="0" >02-9793</DOCKET>
+
+<DATE start="99" end="111" id="130022_6" >May 27, 2003</DATE>
+
+<NAME start="242" local_name_id="3" end="244" id="130022_12" all_names="CT" >Ct</NAME>
+
+<RELATION theme="130022_1" includes_docket_string="02-9793" includes_docket="130022_2" theme_string="538 U.S. 1062" gram_type="apposition" relation_type="asymmetric" id="130022_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1062" X_vs_Y_string="McINTYRE v. CALIFORNIA" standard_case="130022_1" X_vs_Y="130022_3" gram_type="pre_nom" relation_type="equivalence" id="130022_7" ></RELATION>
+
+<RELATION theme="130022_3" includes_docket_string="02-9793" includes_docket="130022_2" theme_string="McINTYRE v. CALIFORNIA" gram_type="apposition" relation_type="asymmetric" id="130022_10" ></RELATION>
+
+<RELATION theme="130022_3" party1="130022_4" party1_string="McINTYRE" theme_string="McINTYRE v. CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="130022_8" ></RELATION>
+
+<RELATION party2="130022_5" theme="130022_3" theme_string="McINTYRE v. CALIFORNIA" party2_string="CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="130022_9" ></RELATION>
+

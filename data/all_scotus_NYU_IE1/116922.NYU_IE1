@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['nottinghamstates#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1123" id1="116924" volume="510" start="0" page_number="1123" standard_reporter="U.S." citation_global_level_id="1270.002" line="1" id="116922_1" citation_local_level_id="0" >510 U.S. 1123</CITATION>
+
+<CITATION party2="United States" party1="Nottingham" citation_global_level_id="34586.001" party2_short="States" line="1" id="116922_3" alternative_keys="['u.s._510_1123']" end="45" entry_type="party_key" lookup_key="nottinghamstates#1" id1="116922" start="18" party1_short="Nottingham" citation_local_level_id="1" >Nottingham v. United States</CITATION>
+
+<NAME end="28" start="18" party1_of="116922_3" all_names="NOTTINGHAM" local_name_id="1" id="116922_4" >Nottingham</NAME>
+
+<NAME end="45" start="32" all_names="UNITED STATES" party2_of="116922_3" local_name_id="2" id="116922_5" >United States</NAME>
+
+<DOCKET end="62" entry_type="docket" lookup_key="u.s._510_1123" id1="116924" start="55" citation_global_level_id="1270.002" line="1" id="116922_2" citation_local_level_id="0" >93-7018</DOCKET>
+
+<DATE start="104" end="121" id="116922_6" >February 22, 1994</DATE>
+
+<NAME start="200" local_name_id="3" end="210" id="116922_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="246" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_4_904" id1="Dummy_File_1735" volume="4" start="235" page_number="904" standard_reporter="F.3D" citation_global_level_id="65585.001" line="3" id="116922_12" citation_local_level_id="2" >4 F. 3d 904</CITATION>
+
+<RELATION theme="116922_1" includes_docket_string="93-7018" includes_docket="116922_2" theme_string="510 U.S. 1123" gram_type="apposition" relation_type="asymmetric" id="116922_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1123" X_vs_Y_string="Nottingham v. United States" standard_case="116922_1" X_vs_Y="116922_3" gram_type="pre_nom" relation_type="equivalence" id="116922_7" ></RELATION>
+
+<RELATION theme="116922_3" includes_docket_string="93-7018" includes_docket="116922_2" theme_string="Nottingham v. United States" gram_type="apposition" relation_type="asymmetric" id="116922_10" ></RELATION>
+
+<RELATION theme="116922_3" party1="116922_4" party1_string="Nottingham" theme_string="Nottingham v. United States" gram_type="infix" relation_type="asymmetric" id="116922_8" ></RELATION>
+
+<RELATION party2="116922_5" theme="116922_3" theme_string="Nottingham v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="116922_9" ></RELATION>
+

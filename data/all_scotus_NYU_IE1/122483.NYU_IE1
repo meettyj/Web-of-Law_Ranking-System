@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['bakercoal#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_820" id1="122477" volume="537" start="0" page_number="820" standard_reporter="U.S." citation_global_level_id="7436.002" line="1" id="122483_1" citation_local_level_id="0" >537 U.S. 820</CITATION>
+
+<CITATION party2="POWELL MOUNTAIN COAL CO" party1="BAKER ET UX." citation_global_level_id="14963.001" party2_short="COAL" line="1" id="122483_3" alternative_keys="['u.s._537_820']" end="56" entry_type="party_key" lookup_key="bakercoal#1" id1="122483" start="17" party1_short="BAKER" citation_local_level_id="1" >BAKER ET UX. v. POWELL MOUNTAIN COAL CO</CITATION>
+
+<NAME end="29" start="17" party1_of="122483_3" all_names="BAKER UX" local_name_id="1" id="122483_4" >BAKER ET UX.</NAME>
+
+<NAME start="17" local_name_id="1" end="28" id="122483_8" all_names="BAKER UX" >BAKER ET UX</NAME>
+
+<NAME end="56" start="33" all_names="POWELL MOUNTAIN COAL CO" party2_of="122483_3" local_name_id="2" id="122483_5" >POWELL MOUNTAIN COAL CO</NAME>
+
+<DOCKET end="73" entry_type="docket" lookup_key="u.s._537_820" id1="122477" start="66" citation_global_level_id="7436.002" line="1" id="122483_2" citation_local_level_id="0" >01-1767</DOCKET>
+
+<DATE start="69" end="73" id="122483_6" >1767</DATE>
+
+<DATE start="115" end="130" id="122483_7" >October 7, 2002</DATE>
+
+<NAME start="222" local_name_id="3" end="225" id="122483_15" all_names="SUP" >Sup</NAME>
+
+<RELATION theme="122483_1" includes_docket_string="01-1767" includes_docket="122483_2" theme_string="537 U.S. 820" gram_type="apposition" relation_type="asymmetric" id="122483_13" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 820" X_vs_Y_string="BAKER ET UX. v. POWELL MOUNTAIN COAL CO" standard_case="122483_1" X_vs_Y="122483_3" gram_type="pre_nom" relation_type="equivalence" id="122483_9" ></RELATION>
+
+<RELATION theme="122483_3" includes_docket_string="01-1767" includes_docket="122483_2" theme_string="BAKER ET UX. v. POWELL MOUNTAIN COAL CO" gram_type="apposition" relation_type="asymmetric" id="122483_12" ></RELATION>
+
+<RELATION theme="122483_3" party1="122483_4" party1_string="BAKER ET UX." theme_string="BAKER ET UX. v. POWELL MOUNTAIN COAL CO" gram_type="infix" relation_type="asymmetric" id="122483_10" ></RELATION>
+
+<RELATION party2="122483_5" theme="122483_3" theme_string="BAKER ET UX. v. POWELL MOUNTAIN COAL CO" party2_string="POWELL MOUNTAIN COAL CO" gram_type="infix" relation_type="asymmetric" id="122483_11" ></RELATION>
+
+<RELATION at_date_string="1767" theme="122483_2" at_date="122483_6" theme_string="01-1767" gram_type="infix" relation_type="asymmetric" id="122483_14" ></RELATION>
+

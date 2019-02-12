@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['hallcarolina#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_1061" id1="134337" volume="540" start="0" page_number="1061" standard_reporter="U.S." citation_global_level_id="3635.002" line="1" id="134336_1" citation_local_level_id="0" >540 U.S. 1061</CITATION>
+
+<CITATION party2="NORTH CAROLINA" party1="HALL" citation_global_level_id="58028.001" party2_short="CAROLINA" line="1" id="134336_3" alternative_keys="['u.s._540_1061']" end="40" entry_type="party_key" lookup_key="hallcarolina#1" id1="134336" start="18" party1_short="HALL" citation_local_level_id="1" >HALL v. NORTH CAROLINA</CITATION>
+
+<NAME end="22" start="18" party1_of="134336_3" all_names="HALL" local_name_id="1" id="134336_4" >HALL</NAME>
+
+<NAME end="40" start="26" all_names="NORTH CAROLINA" party2_of="134336_3" local_name_id="2" id="134336_5" >NORTH CAROLINA</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._540_1061" id1="134337" start="50" citation_global_level_id="3635.002" line="1" id="134336_2" citation_local_level_id="0" >03-6964</DOCKET>
+
+<DATE start="99" end="115" id="134336_6" >December 1, 2003</DATE>
+
+<NAME start="193" local_name_id="3" end="203" id="134336_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="264" reporter="S. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="s.e.2d_577_717" id1="Dummy_File_136273" volume="577" start="248" page_number="717" standard_reporter="S.E.2D" citation_global_level_id="200123.001" line="3" id="134336_12" citation_local_level_id="2" >577 S. E. 2d 717</CITATION>
+
+<RELATION theme="134336_1" includes_docket_string="03-6964" includes_docket="134336_2" theme_string="540 U.S. 1061" gram_type="apposition" relation_type="asymmetric" id="134336_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 1061" X_vs_Y_string="HALL v. NORTH CAROLINA" standard_case="134336_1" X_vs_Y="134336_3" gram_type="pre_nom" relation_type="equivalence" id="134336_7" ></RELATION>
+
+<RELATION theme="134336_3" includes_docket_string="03-6964" includes_docket="134336_2" theme_string="HALL v. NORTH CAROLINA" gram_type="apposition" relation_type="asymmetric" id="134336_10" ></RELATION>
+
+<RELATION theme="134336_3" party1="134336_4" party1_string="HALL" theme_string="HALL v. NORTH CAROLINA" gram_type="infix" relation_type="asymmetric" id="134336_8" ></RELATION>
+
+<RELATION party2="134336_5" theme="134336_3" theme_string="HALL v. NORTH CAROLINA" party2_string="NORTH CAROLINA" gram_type="infix" relation_type="asymmetric" id="134336_9" ></RELATION>
+

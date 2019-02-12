@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['fureysnipas#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1035" id1="129647" volume="538" start="0" page_number="1035" standard_reporter="U.S." citation_global_level_id="1049.002" line="1" id="129647_1" citation_local_level_id="0" >538 U.S. 1035</CITATION>
+
+<CITATION party2="SNIPAS" party1="FUREY" citation_global_level_id="1049.001" party2_short="SNIPAS" line="1" id="129647_3" alternative_keys="['u.s._538_1035']" end="33" entry_type="party_key" lookup_key="fureysnipas#1" id1="129647" start="18" party1_short="FUREY" citation_local_level_id="1" >FUREY v. SNIPAS</CITATION>
+
+<NAME end="23" start="18" party1_of="129647_3" all_names="FUREY" local_name_id="1" id="129647_4" >FUREY</NAME>
+
+<NAME end="33" start="27" all_names="SNIPAS" party2_of="129647_3" local_name_id="2" id="129647_5" >SNIPAS</NAME>
+
+<DOCKET end="50" entry_type="docket" lookup_key="u.s._538_1035" id1="129647" start="43" citation_global_level_id="1049.002" line="1" id="129647_2" citation_local_level_id="0" >02-1470</DOCKET>
+
+<DATE start="92" end="104" id="129647_6" >May 19, 2003</DATE>
+
+<NAME start="201" local_name_id="3" end="206" id="129647_13" all_names="SUPER" >Super</NAME>
+
+<CITATION end="265" reporter="A. 2d" entry_type="standard_key" no_current_file="True" lookup_key="a.2d_797_1029" id1="Dummy_File_11613" volume="797" start="251" page_number="1029" standard_reporter="A.2D" citation_global_level_id="75463.001" line="3" id="129647_12" citation_local_level_id="2" >797 A. 2d 1029</CITATION>
+
+<RELATION theme="129647_1" includes_docket_string="02-1470" includes_docket="129647_2" theme_string="538 U.S. 1035" gram_type="apposition" relation_type="asymmetric" id="129647_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1035" X_vs_Y_string="FUREY v. SNIPAS" standard_case="129647_1" X_vs_Y="129647_3" gram_type="pre_nom" relation_type="equivalence" id="129647_7" ></RELATION>
+
+<RELATION theme="129647_3" includes_docket_string="02-1470" includes_docket="129647_2" theme_string="FUREY v. SNIPAS" gram_type="apposition" relation_type="asymmetric" id="129647_10" ></RELATION>
+
+<RELATION theme="129647_3" party1="129647_4" party1_string="FUREY" theme_string="FUREY v. SNIPAS" gram_type="infix" relation_type="asymmetric" id="129647_8" ></RELATION>
+
+<RELATION party2="129647_5" theme="129647_3" theme_string="FUREY v. SNIPAS" party2_string="SNIPAS" gram_type="infix" relation_type="asymmetric" id="129647_9" ></RELATION>
+

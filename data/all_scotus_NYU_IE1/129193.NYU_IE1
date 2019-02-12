@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['ricocalderon#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_999" id1="129189" volume="538" start="0" page_number="999" standard_reporter="U.S." citation_global_level_id="1551.002" line="1" id="129193_1" citation_local_level_id="0" >538 U.S. 999</CITATION>
+
+<CITATION party2="CALDERON ET AL" party1="PRISMA ZONA EXPLORATORIA DE PUERTO RICO, INC." citation_global_level_id="1551.01" party2_short="CALDERON" line="1" id="129193_3" alternative_keys="['u.s._538_999']" end="80" entry_type="party_key" lookup_key="ricocalderon#1" id1="129189" start="17" party1_short="RICO" citation_local_level_id="1" >PRISMA ZONA EXPLORATORIA DE PUERTO RICO, INC. v. CALDERON ET AL</CITATION>
+
+<NAME end="62" start="17" party1_of="129193_3" all_names="PRISMA ZONA EXPLORATORIA DE PUERTO RICO INC" local_name_id="1" id="129193_4" >PRISMA ZONA EXPLORATORIA DE PUERTO RICO, INC.</NAME>
+
+<ORGANIZATION start="17" end="61" id="129193_7" >PRISMA ZONA EXPLORATORIA DE PUERTO RICO, INC</ORGANIZATION>
+
+<NAME end="80" start="66" all_names="CALDERON" party2_of="129193_3" local_name_id="2" id="129193_5" >CALDERON ET AL</NAME>
+
+<DOCKET end="97" entry_type="docket" lookup_key="u.s._538_999" id1="129189" start="90" citation_global_level_id="1551.002" line="1" id="129193_2" citation_local_level_id="0" >02-1236</DOCKET>
+
+<DATE start="139" end="153" id="129193_6" >April 28, 2003</DATE>
+
+<NAME start="272" local_name_id="3" end="285" id="129193_14" all_names="C A 1ST CIR" >C. A. 1st Cir</NAME>
+
+<NAME start="287" local_name_id="4" end="297" id="129193_15" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="333" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_310_1" id1="Dummy_File_223665" volume="310" start="322" page_number="1" standard_reporter="F.3D" citation_global_level_id="287515.001" line="3" id="129193_13" citation_local_level_id="2" >310 F. 3d 1</CITATION>
+
+<RELATION theme="129193_1" includes_docket_string="02-1236" includes_docket="129193_2" theme_string="538 U.S. 999" gram_type="apposition" relation_type="asymmetric" id="129193_12" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 999" X_vs_Y_string="PRISMA ZONA EXPLORATORIA DE PUERTO RICO, INC. v. CALDERON ET AL" standard_case="129193_1" X_vs_Y="129193_3" gram_type="pre_nom" relation_type="equivalence" id="129193_8" ></RELATION>
+
+<RELATION theme="129193_3" includes_docket_string="02-1236" includes_docket="129193_2" theme_string="PRISMA ZONA EXPLORATORIA DE PUERTO RICO, INC. v. CALDERON ET AL" gram_type="apposition" relation_type="asymmetric" id="129193_11" ></RELATION>
+
+<RELATION party2="129193_5" theme="129193_3" theme_string="PRISMA ZONA EXPLORATORIA DE PUERTO RICO, INC. v. CALDERON ET AL" party2_string="CALDERON ET AL" gram_type="infix" relation_type="asymmetric" id="129193_10" ></RELATION>
+
+<RELATION theme="129193_3" party1="129193_4" party1_string="PRISMA ZONA EXPLORATORIA DE PUERTO RICO, INC." theme_string="PRISMA ZONA EXPLORATORIA DE PUERTO RICO, INC. v. CALDERON ET AL" gram_type="infix" relation_type="asymmetric" id="129193_9" ></RELATION>
+

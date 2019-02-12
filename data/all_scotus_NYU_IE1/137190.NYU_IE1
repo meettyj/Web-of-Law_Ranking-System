@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['kelsoagency#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._542_916" id1="137194" volume="542" start="0" page_number="916" standard_reporter="U.S." citation_global_level_id="173.002" line="1" id="137190_1" citation_local_level_id="0" >542 U.S. 916</CITATION>
+
+<CITATION party2="UNITED STATES DEFENSE INTELLIGENCE AGENCY" party1="KELSO" citation_global_level_id="38614.001" party2_short="AGENCY" line="1" id="137190_3" alternative_keys="['u.s._542_916']" end="67" entry_type="party_key" lookup_key="kelsoagency#1" id1="137190" start="17" party1_short="KELSO" citation_local_level_id="1" >KELSO v. UNITED STATES DEFENSE INTELLIGENCE AGENCY</CITATION>
+
+<NAME end="22" start="17" party1_of="137190_3" all_names="KELSO" local_name_id="1" id="137190_4" >KELSO</NAME>
+
+<NAME end="67" start="26" all_names="UNITED STATES DEFENSE INTELLIGENCE AGENCY" party2_of="137190_3" local_name_id="2" id="137190_5" >UNITED STATES DEFENSE INTELLIGENCE AGENCY</NAME>
+
+<DOCKET end="84" entry_type="docket" lookup_key="u.s._542_916" id1="137194" start="77" citation_global_level_id="173.002" line="1" id="137190_2" citation_local_level_id="0" >03-1035</DOCKET>
+
+<DATE start="126" end="139" id="137190_6" >June 14, 2004</DATE>
+
+<CITATION end="248" reporter="U. S." entry_type="standard_key" no_current_file="True" lookup_key="u.s._540_1220" id1="Dummy_File_32839" volume="540" start="234" page_number="1220" standard_reporter="U.S." citation_global_level_id="96689.001" line="3" id="137190_12" citation_local_level_id="2" >540 U. S. 1220</CITATION>
+
+<RELATION theme="137190_1" includes_docket_string="03-1035" includes_docket="137190_2" theme_string="542 U.S. 916" gram_type="apposition" relation_type="asymmetric" id="137190_11" ></RELATION>
+
+<RELATION standard_case_string="542 U.S. 916" X_vs_Y_string="KELSO v. UNITED STATES DEFENSE INTELLIGENCE AGENCY" standard_case="137190_1" X_vs_Y="137190_3" gram_type="pre_nom" relation_type="equivalence" id="137190_7" ></RELATION>
+
+<RELATION theme="137190_3" includes_docket_string="03-1035" includes_docket="137190_2" theme_string="KELSO v. UNITED STATES DEFENSE INTELLIGENCE AGENCY" gram_type="apposition" relation_type="asymmetric" id="137190_10" ></RELATION>
+
+<RELATION theme="137190_3" party1="137190_4" party1_string="KELSO" theme_string="KELSO v. UNITED STATES DEFENSE INTELLIGENCE AGENCY" gram_type="infix" relation_type="asymmetric" id="137190_8" ></RELATION>
+
+<RELATION party2="137190_5" theme="137190_3" theme_string="KELSO v. UNITED STATES DEFENSE INTELLIGENCE AGENCY" party2_string="UNITED STATES DEFENSE INTELLIGENCE AGENCY" gram_type="infix" relation_type="asymmetric" id="137190_9" ></RELATION>
+

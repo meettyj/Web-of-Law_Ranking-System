@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['wheatstates#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_850" id1="122876" volume="537" start="0" page_number="850" standard_reporter="U.S." citation_global_level_id="2821.002" line="1" id="122882_1" citation_local_level_id="0" >537 U.S. 850</CITATION>
+
+<CITATION party2="UNITED STATES" party1="WHEAT" citation_global_level_id="21715.001" party2_short="STATES" line="1" id="122882_3" alternative_keys="['u.s._537_850']" end="39" entry_type="party_key" lookup_key="wheatstates#2" id1="122882" start="17" party1_short="WHEAT" citation_local_level_id="1" >WHEAT v. UNITED STATES</CITATION>
+
+<NAME end="22" start="17" party1_of="122882_3" all_names="WHEAT" local_name_id="1" id="122882_4" >WHEAT</NAME>
+
+<NAME end="39" start="26" all_names="UNITED STATES" party2_of="122882_3" local_name_id="2" id="122882_5" >UNITED STATES</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._537_850" id1="122876" start="49" citation_global_level_id="2821.002" line="1" id="122882_2" citation_local_level_id="0" >01-10578</DOCKET>
+
+<DATE start="99" end="114" id="122882_6" >October 7, 2002</DATE>
+
+<NAME start="244" local_name_id="3" end="247" id="122882_13" all_names="CIR" >Cir</NAME>
+
+<CITATION alternative_keys="['stateswheat#1']" end="296" reporter="F.3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_278_722" id1="Dummy_File_63661" volume="278" start="284" page_number="722" standard_reporter="F.3D" citation_global_level_id="127511.003" line="3" id="122882_12" citation_local_level_id="2" >278 F.3d 722</CITATION>
+
+<RELATION theme="122882_1" includes_docket_string="01-10578" includes_docket="122882_2" theme_string="537 U.S. 850" gram_type="apposition" relation_type="asymmetric" id="122882_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 850" X_vs_Y_string="WHEAT v. UNITED STATES" standard_case="122882_1" X_vs_Y="122882_3" gram_type="pre_nom" relation_type="equivalence" id="122882_7" ></RELATION>
+
+<RELATION theme="122882_3" includes_docket_string="01-10578" includes_docket="122882_2" theme_string="WHEAT v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="122882_10" ></RELATION>
+
+<RELATION theme="122882_3" party1="122882_4" party1_string="WHEAT" theme_string="WHEAT v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="122882_8" ></RELATION>
+
+<RELATION party2="122882_5" theme="122882_3" theme_string="WHEAT v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="122882_9" ></RELATION>
+

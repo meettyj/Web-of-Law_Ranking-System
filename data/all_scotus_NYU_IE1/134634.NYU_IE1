@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['harrispennsylvania#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_1081" id1="134628" volume="540" start="0" page_number="1081" standard_reporter="U.S." citation_global_level_id="13092.002" line="1" id="134634_1" citation_local_level_id="0" >540 U.S. 1081</CITATION>
+
+<CITATION party2="PENNSYLVANIA" party1="HARRIS" citation_global_level_id="53599.001" party2_short="PENNSYLVANIA" line="1" id="134634_3" alternative_keys="['u.s._540_1081']" end="40" entry_type="party_key" lookup_key="harrispennsylvania#1" id1="134634" start="18" party1_short="HARRIS" citation_local_level_id="1" >HARRIS v. PENNSYLVANIA</CITATION>
+
+<NAME end="24" start="18" party1_of="134634_3" all_names="HARRIS" local_name_id="1" id="134634_4" >HARRIS</NAME>
+
+<NAME end="40" start="28" all_names="PENNSYLVANIA" party2_of="134634_3" local_name_id="2" id="134634_5" >PENNSYLVANIA</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._540_1081" id1="134628" start="50" citation_global_level_id="13092.002" line="1" id="134634_2" citation_local_level_id="0" >03-7014</DOCKET>
+
+<DATE start="99" end="115" id="134634_6" >December 8, 2003</DATE>
+
+<NAME start="191" local_name_id="3" end="201" id="134634_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="253" reporter="A. 2d" entry_type="standard_key" no_current_file="True" lookup_key="a.2d_817_1033" id1="Dummy_File_232318" volume="817" start="239" page_number="1033" standard_reporter="A.2D" citation_global_level_id="296168.001" line="3" id="134634_12" citation_local_level_id="2" >817 A. 2d 1033</CITATION>
+
+<RELATION theme="134634_1" includes_docket_string="03-7014" includes_docket="134634_2" theme_string="540 U.S. 1081" gram_type="apposition" relation_type="asymmetric" id="134634_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 1081" X_vs_Y_string="HARRIS v. PENNSYLVANIA" standard_case="134634_1" X_vs_Y="134634_3" gram_type="pre_nom" relation_type="equivalence" id="134634_7" ></RELATION>
+
+<RELATION theme="134634_3" includes_docket_string="03-7014" includes_docket="134634_2" theme_string="HARRIS v. PENNSYLVANIA" gram_type="apposition" relation_type="asymmetric" id="134634_10" ></RELATION>
+
+<RELATION theme="134634_3" party1="134634_4" party1_string="HARRIS" theme_string="HARRIS v. PENNSYLVANIA" gram_type="infix" relation_type="asymmetric" id="134634_8" ></RELATION>
+
+<RELATION party2="134634_5" theme="134634_3" theme_string="HARRIS v. PENNSYLVANIA" party2_string="PENNSYLVANIA" gram_type="infix" relation_type="asymmetric" id="134634_9" ></RELATION>
+

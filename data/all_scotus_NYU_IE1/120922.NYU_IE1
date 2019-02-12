@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['willsmcdaniel#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1104" id1="120924" volume="535" start="0" page_number="1104" standard_reporter="U.S." citation_global_level_id="1669.002" line="1" id="120922_1" citation_local_level_id="0" >535 U.S. 1104</CITATION>
+
+<CITATION party2="McDANIEL, WARDEN" party1="WILLS" citation_global_level_id="1669.003" party2_short="McDANIEL" line="2" id="120922_2" alternative_keys="['u.s._535_1104']" end="43" entry_type="party_key" lookup_key="willsmcdaniel#1" id1="120924" start="18" party1_short="WILLS" citation_local_level_id="1" >WILLS v. McDANIEL, WARDEN</CITATION>
+
+<NAME end="23" start="18" party1_of="120922_2" all_names="WILLS" local_name_id="1" id="120922_3" >WILLS</NAME>
+
+<NAME end="43" start="27" all_names="MCDANIEL WARDEN" party2_of="120922_2" local_name_id="2" id="120922_4" >McDANIEL, WARDEN</NAME>
+
+<DOCKET alternative_keys="['u.s._535_1104']" end="60" entry_type="docket" lookup_key="willsmcdaniel#1" id1="120924" start="53" citation_global_level_id="1669.003" line="3" id="120922_7" citation_local_level_id="1" >01-9344</DOCKET>
+
+<DATE start="106" citation_global_level_id="1669.003" end="118" id="120922_8" citation_local_level_id="1" >May 28, 2002</DATE>
+
+<NAME start="150" local_name_id="3" end="153" id="120922_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="120922_2" party1="120922_3" party1_string="WILLS" theme_string="WILLS v. McDANIEL, WARDEN" gram_type="infix" relation_type="asymmetric" id="120922_5" ></RELATION>
+
+<RELATION party2="120922_4" theme="120922_2" theme_string="WILLS v. McDANIEL, WARDEN" party2_string="McDANIEL, WARDEN" gram_type="infix" relation_type="asymmetric" id="120922_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1104" X_vs_Y_string="WILLS v. McDANIEL, WARDEN" standard_case="120922_1" X_vs_Y="120922_2" gram_type="multi_line" relation_type="equivalence" id="120922_9" ></RELATION>
+
+<RELATION at_date_string="May 28, 2002" theme="120922_2" at_date="120922_8" theme_string="WILLS v. McDANIEL, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="120922_11" ></RELATION>
+
+<RELATION theme="120922_2" includes_docket_string="01-9344" includes_docket="120922_7" theme_string="WILLS v. McDANIEL, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="120922_10" ></RELATION>
+

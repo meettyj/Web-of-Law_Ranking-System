@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['reedercity#3']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_959" id1="119122" volume="535" start="0" page_number="959" standard_reporter="U.S." citation_global_level_id="14825.002" line="1" id="119124_1" citation_local_level_id="0" >535 U.S. 959</CITATION>
+
+<CITATION party2="CITY OF PARIS ET AL" party1="REEDER" citation_global_level_id="56972.001" party2_short="CITY" line="2" id="119124_2" alternative_keys="['u.s._535_959']" end="46" entry_type="party_key" lookup_key="reedercity#3" id1="121141" start="17" party1_short="REEDER" citation_local_level_id="1" >REEDER v. CITY OF PARIS ET AL</CITATION>
+
+<NAME end="23" start="17" party1_of="119124_2" all_names="REEDER" local_name_id="1" id="119124_3" >REEDER</NAME>
+
+<NAME end="46" start="27" all_names="CITY OF PARIS" party2_of="119124_2" local_name_id="2" id="119124_4" >CITY OF PARIS ET AL</NAME>
+
+<DOCKET end="63" entry_type="docket" lookup_key="reedercity#3" id1="121141" start="56" citation_global_level_id="56972.001" line="3" id="119124_7" citation_local_level_id="1" >01-7925</DOCKET>
+
+<DATE start="109" citation_global_level_id="56972.001" end="123" id="119124_8" citation_local_level_id="1" >March 25, 2002</DATE>
+
+<NAME start="155" local_name_id="3" end="158" id="119124_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="119124_2" party1="119124_3" party1_string="REEDER" theme_string="REEDER v. CITY OF PARIS ET AL" gram_type="infix" relation_type="asymmetric" id="119124_5" ></RELATION>
+
+<RELATION party2="119124_4" theme="119124_2" theme_string="REEDER v. CITY OF PARIS ET AL" party2_string="CITY OF PARIS ET AL" gram_type="infix" relation_type="asymmetric" id="119124_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 959" X_vs_Y_string="REEDER v. CITY OF PARIS ET AL" standard_case="119124_1" X_vs_Y="119124_2" gram_type="multi_line" relation_type="equivalence" id="119124_9" ></RELATION>
+
+<RELATION at_date_string="March 25, 2002" theme="119124_2" at_date="119124_8" theme_string="REEDER v. CITY OF PARIS ET AL" gram_type="multi_line" relation_type="asymmetric" id="119124_11" ></RELATION>
+
+<RELATION theme="119124_2" includes_docket_string="01-7925" includes_docket="119124_7" theme_string="REEDER v. CITY OF PARIS ET AL" gram_type="multi_line" relation_type="asymmetric" id="119124_10" ></RELATION>
+

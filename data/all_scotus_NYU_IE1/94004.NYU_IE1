@@ -1,0 +1,38 @@
+<CITATION alternative_keys="['francestate#1', 's.ct._14_1191', 'l.ed._26_86']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._154_667" id1="94004" volume="154" start="0" page_number="667" standard_reporter="U.S." citation_global_level_id="36784.002" line="1" id="94004_1" citation_local_level_id="0" >154 U.S. 667</CITATION>
+
+<CITATION alternative_keys="['u.s._154_667', 'francestate#1', 'l.ed._26_86']" end="31" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._14_1191" id1="94004" volume="14" start="17" page_number="1191" standard_reporter="S.CT." citation_global_level_id="36784.003" line="1" id="94004_2" citation_local_level_id="1" >14 S. Ct. 1191</CITATION>
+
+<NAME start="20" local_name_id="1" end="25" id="94004_8" all_names="S CT" >S. Ct</NAME>
+
+<CITATION alternative_keys="['u.s._154_667', 's.ct._14_1191', 'francestate#1']" end="48" reporter="L. Ed." entry_type="standard_key" lookup_key="l.ed._26_86" id1="94004" volume="26" start="36" page_number="86" standard_reporter="L.ED." citation_global_level_id="36784.004" line="1" id="94004_3" citation_local_level_id="2" >26 L. Ed. 86</CITATION>
+
+<CITATION party2="STATE OF MISSOURI ex rel. SMITH" party1="FRANCE et al." citation_global_level_id="36784.001" party2_short="STATE" line="1" id="94004_4" alternative_keys="['u.s._154_667', 's.ct._14_1191', 'l.ed._26_86']" end="101" entry_type="party_key" lookup_key="francestate#1" id1="94004" start="53" party1_short="FRANCE" citation_local_level_id="3" >FRANCE et al. v. STATE OF MISSOURI ex rel. SMITH</CITATION>
+
+<NAME end="66" start="53" party1_of="94004_4" all_names="FRANCE" local_name_id="2" id="94004_5" >FRANCE et al.</NAME>
+
+<NAME end="101" start="70" all_names="STATE OF MISSOURI EX REL SMITH" party2_of="94004_4" local_name_id="3" id="94004_6" >STATE OF MISSOURI ex rel. SMITH</NAME>
+
+<DATE start="120" end="136" id="94004_7" >October 25, 1880</DATE>
+
+<NAME start="2089" local_name_id="4" end="2095" id="94004_14" all_names="MOTION" >Motion</NAME>
+
+<NAME start="2154" local_name_id="5" end="2171" id="94004_15" all_names="C H KRUM AND WM" >C. H. Krum and Wm</NAME>
+
+<NAME start="2173" local_name_id="6" end="2183" id="94004_16" all_names="O BATEMAN" >O. Bateman</NAME>
+
+<LEGAL_ROLE start="2189" end="2199" plural="True" id="94004_17" >plaintiffs</LEGAL_ROLE>
+
+<NAME start="2235" local_name_id="7" end="2248" id="94004_18" all_names="LEVERETT BELL" >Leverett Bell</NAME>
+
+<LEGAL_ROLE start="2254" end="2263" id="94004_19" >defendant</LEGAL_ROLE>
+
+<RELATION standard_case_string="154 U.S. 667" X_vs_Y_string="FRANCE et al. v. STATE OF MISSOURI ex rel. SMITH" standard_case="94004_1" X_vs_Y="94004_4" gram_type="pre_nom" relation_type="equivalence" id="94004_10" ></RELATION>
+
+<RELATION standard_case_string="14 S. Ct. 1191" X_vs_Y_string="FRANCE et al. v. STATE OF MISSOURI ex rel. SMITH" standard_case="94004_2" X_vs_Y="94004_4" gram_type="pre_nom" relation_type="equivalence" id="94004_11" ></RELATION>
+
+<RELATION standard_case_string="26 L. Ed. 86" X_vs_Y_string="FRANCE et al. v. STATE OF MISSOURI ex rel. SMITH" standard_case="94004_3" X_vs_Y="94004_4" gram_type="pre_nom" relation_type="equivalence" id="94004_9" ></RELATION>
+
+<RELATION theme="94004_4" party1="94004_5" party1_string="FRANCE et al." theme_string="FRANCE et al. v. STATE OF MISSOURI ex rel. SMITH" gram_type="infix" relation_type="asymmetric" id="94004_12" ></RELATION>
+
+<RELATION party2="94004_6" theme="94004_4" theme_string="FRANCE et al. v. STATE OF MISSOURI ex rel. SMITH" party2_string="STATE OF MISSOURI ex rel. SMITH" gram_type="infix" relation_type="asymmetric" id="94004_13" ></RELATION>
+

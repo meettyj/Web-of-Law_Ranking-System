@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['stockstilloil#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1197" id1="117640" volume="510" start="0" page_number="1197" standard_reporter="U.S." citation_global_level_id="9901.002" line="1" id="117638_1" citation_local_level_id="0" >510 U.S. 1197</CITATION>
+
+<CITATION party2="Shell Oil Co" party1="Stockstill" citation_global_level_id="21822.001" party2_short="Oil" line="1" id="117638_3" alternative_keys="['u.s._510_1197']" end="44" entry_type="party_key" lookup_key="stockstilloil#1" id1="117638" start="18" party1_short="Stockstill" citation_local_level_id="1" >Stockstill v. Shell Oil Co</CITATION>
+
+<NAME end="28" start="18" party1_of="117638_3" all_names="STOCKSTILL" local_name_id="1" id="117638_4" >Stockstill</NAME>
+
+<NAME end="44" start="32" all_names="SHELL OIL CO" party2_of="117638_3" local_name_id="2" id="117638_5" >Shell Oil Co</NAME>
+
+<DOCKET end="61" entry_type="docket" lookup_key="u.s._510_1197" id1="117640" start="54" citation_global_level_id="9901.002" line="1" id="117638_2" citation_local_level_id="0" >93-1324</DOCKET>
+
+<DATE start="103" end="117" id="117638_6" >March 21, 1994</DATE>
+
+<NAME start="195" local_name_id="3" end="205" id="117638_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="241" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_3_868" id1="Dummy_File_72030" volume="3" start="230" page_number="868" standard_reporter="F.3D" citation_global_level_id="135880.001" line="3" id="117638_12" citation_local_level_id="2" >3 F. 3d 868</CITATION>
+
+<RELATION theme="117638_1" includes_docket_string="93-1324" includes_docket="117638_2" theme_string="510 U.S. 1197" gram_type="apposition" relation_type="asymmetric" id="117638_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1197" X_vs_Y_string="Stockstill v. Shell Oil Co" standard_case="117638_1" X_vs_Y="117638_3" gram_type="pre_nom" relation_type="equivalence" id="117638_7" ></RELATION>
+
+<RELATION theme="117638_3" includes_docket_string="93-1324" includes_docket="117638_2" theme_string="Stockstill v. Shell Oil Co" gram_type="apposition" relation_type="asymmetric" id="117638_10" ></RELATION>
+
+<RELATION theme="117638_3" party1="117638_4" party1_string="Stockstill" theme_string="Stockstill v. Shell Oil Co" gram_type="infix" relation_type="asymmetric" id="117638_8" ></RELATION>
+
+<RELATION party2="117638_5" theme="117638_3" theme_string="Stockstill v. Shell Oil Co" party2_string="Shell Oil Co" gram_type="infix" relation_type="asymmetric" id="117638_9" ></RELATION>
+

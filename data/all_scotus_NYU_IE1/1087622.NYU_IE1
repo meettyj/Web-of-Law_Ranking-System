@@ -1,0 +1,62 @@
+<CITATION alternative_keys="['incsociety#1']" end="19" reporter="U.S." entry_type="standard_key" lookup_key="u.s._382_38" id1="1087622" volume="382" start="1" page_number="38" year="1965" standard_reporter="U.S." citation_global_level_id="36929.002" line="2" id="1087622_1" citation_local_level_id="0" >382 U.S. 38 (1965)</CITATION>
+
+<DATE start="14" citation_global_level_id="36929.002" end="18" id="1087622_2" citation_local_level_id="0" >1965</DATE>
+
+<CITATION party2="AMERICAN SOCIETY OF COMPOSERS, AUTHORS &amp; PUBLISHERS ET AL" party1="METROMEDIA, INC." citation_global_level_id="36929.001" party2_short="SOCIETY" line="5" id="1087622_5" alternative_keys="['u.s._382_38']" end="99" entry_type="party_key" lookup_key="incsociety#1" id1="1087622" start="20" party1_short="INC" citation_local_level_id="1" >METROMEDIA, INC. v. AMERICAN SOCIETY OF COMPOSERS, AUTHORS &amp; PUBLISHERS ET AL</CITATION>
+
+<NAME end="36" start="20" party1_of="1087622_5" all_names="METROMEDIA INC" local_name_id="1" id="1087622_6" >METROMEDIA, INC.</NAME>
+
+<ORGANIZATION start="20" end="35" id="1087622_8" >METROMEDIA, INC</ORGANIZATION>
+
+<NAME end="99" start="42" all_names="AMERICAN SOCIETY OF COMPOSERS AUTHORS &amp; PUBLISHERS" party2_of="1087622_5" local_name_id="2" id="1087622_7" >AMERICAN SOCIETY OF COMPOSERS, AUTHORS &amp; PUBLISHERS ET AL</NAME>
+
+<ORGANIZATION start="110" end="140" id="1087622_12" >Supreme Court of United States</ORGANIZATION>
+
+<NAME start="142" local_name_id="3" end="149" id="1087622_14" all_names="DECIDED" >Decided</NAME>
+
+<DATE start="150" end="166" id="1087622_13" >October 18, 1965</DATE>
+
+<ORGANIZATION start="168" end="250" id="1087622_15" >APPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE SOUTHERN DISTRICT OF NEW YORK</ORGANIZATION>
+
+<LEGAL_ROLE start="252" end="301" id="1087622_16" >Robert A. Dreyer and George A. Katz for appellant</LEGAL_ROLE>
+
+<NAME start="303" local_name_id="4" end="319" id="1087622_17" all_names="SIMON H RIFKIND" >Simon H. Rifkind</NAME>
+
+<ORGANIZATION start="321" end="391" id="1087622_18" >Herman Finkelstein and Jay H. Topkis for American Society of Composers</ORGANIZATION>
+
+<PROFESSION end="413" document_level_name_id="5" start="393" party="SPRITZER" plural="True" id="1087622_19" >Authors &amp; Publishers</PROFESSION>
+
+<PROFESSION start="419" document_level_name_id="5" end="443" id="1087622_20" party="SPRITZER" >Acting Solicitor General</PROFESSION>
+
+<NAME start="444" local_name_id="5" end="452" id="1087622_21" all_names="SPRITZER" >Spritzer</NAME>
+
+<PROFESSION start="454" document_level_name_id="5" end="480" id="1087622_22" party="SPRITZER" >Assistant Attorney General</PROFESSION>
+
+<NAME start="481" local_name_id="6" end="487" id="1087622_23" all_names="TURNER" >Turner</NAME>
+
+<NAME start="489" local_name_id="7" end="532" id="1087622_24" all_names="LIONEL KESTENBAUM AND I DANIEL STEWART JR" >Lionel Kestenbaum and I. Daniel Stewart, Jr</NAME>
+
+<NAME start="543" local_name_id="8" end="556" id="1087622_25" all_names="UNITED STATES" >United States</NAME>
+
+<LEGAL_ROLE end="567" name="United States" start="558" party="party2" local_name_id="8" plural="True" id="1087622_26" >appellees</LEGAL_ROLE>
+
+<NAME start="573" local_name_id="9" end="579" id="1087622_32" all_names="CURIAM" >CURIAM</NAME>
+
+<RELATION at_date_string="1965" theme="1087622_1" at_date="1087622_2" theme_string="382 U.S. 38 (1965)" gram_type="infix" relation_type="asymmetric" id="1087622_3" ></RELATION>
+
+<RELATION party2="1087622_7" theme="1087622_5" theme_string="METROMEDIA, INC.  v.  AMERICAN SOCIETY OF COMPOSERS, AUTHORS &amp; PUBLISHERS ET AL" party2_string="AMERICAN SOCIETY OF COMPOSERS, AUTHORS &amp; PUBLISHERS ET AL" gram_type="infix" relation_type="asymmetric" id="1087622_10" ></RELATION>
+
+<RELATION theme="1087622_5" party1="1087622_6" party1_string="METROMEDIA, INC." theme_string="METROMEDIA, INC.  v.  AMERICAN SOCIETY OF COMPOSERS, AUTHORS &amp; PUBLISHERS ET AL" gram_type="infix" relation_type="asymmetric" id="1087622_9" ></RELATION>
+
+<RELATION standard_case_string="382 U.S. 38 (1965)" X_vs_Y_string="METROMEDIA, INC.  v.  AMERICAN SOCIETY OF COMPOSERS, AUTHORS &amp; PUBLISHERS ET AL" standard_case="1087622_1" X_vs_Y="1087622_5" gram_type="multi_line" relation_type="equivalence" id="1087622_11" ></RELATION>
+
+<RELATION theme="1087622_21" profession_string="Authors &amp; Publishers" theme_string="Spritzer" profession="1087622_19" gram_type="pre_nom" relation_type="asymmetric" id="1087622_28" ></RELATION>
+
+<RELATION theme="1087622_21" profession_string="Acting Solicitor General" theme_string="Spritzer" profession="1087622_20" gram_type="pre_nom" relation_type="asymmetric" id="1087622_27" ></RELATION>
+
+<RELATION theme="1087622_21" profession_string="Assistant Attorney General" theme_string="Spritzer" profession="1087622_22" gram_type="apposition" relation_type="asymmetric" id="1087622_29" ></RELATION>
+
+<RELATION theme="1087622_23" profession_string="Assistant Attorney General" theme_string="Turner" profession="1087622_22" gram_type="pre_nom" relation_type="asymmetric" id="1087622_30" ></RELATION>
+
+<RELATION theme="1087622_25" legal_role="1087622_26" id="1087622_31" theme_string="United States" gram_type="apposition" relation_type="asymmetric" legal_role_string="appellees" ></RELATION>
+

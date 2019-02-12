@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['elderdepartment#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_993" id1="119551" volume="535" start="0" page_number="993" standard_reporter="U.S." citation_global_level_id="3051.002" line="3" id="119554_2" citation_local_level_id="0" >535 U.S. 993</CITATION>
+
+<CITATION party2="CALIFORNIA DEPARTMENT OF CORRECTIONS ET AL" party1="ELDER" citation_global_level_id="30255.001" party2_short="DEPARTMENT" line="3" id="119554_4" alternative_keys="['u.s._535_993']" end="68" entry_type="party_key" lookup_key="elderdepartment#1" id1="119554" start="17" party1_short="ELDER" citation_local_level_id="1" >ELDER v. CALIFORNIA DEPARTMENT OF CORRECTIONS ET AL</CITATION>
+
+<NAME end="22" start="17" party1_of="119554_4" all_names="ELDER" local_name_id="1" id="119554_5" >ELDER</NAME>
+
+<NAME end="68" start="26" all_names="CALIFORNIA DEPARTMENT OF CORRECTIONS" party2_of="119554_4" local_name_id="2" id="119554_6" >CALIFORNIA DEPARTMENT OF CORRECTIONS ET AL</NAME>
+
+<DOCKET end="85" entry_type="docket" lookup_key="u.s._535_993" id1="119551" start="78" citation_global_level_id="3051.002" line="3" id="119554_3" citation_local_level_id="0" >01-8126</DOCKET>
+
+<DATE start="131" citation_global_level_id="30255.001" end="145" id="119554_12" citation_local_level_id="1" >April 15, 2002</DATE>
+
+<NAME start="177" local_name_id="3" end="180" id="119554_14" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="119554_2" includes_docket_string="01-8126" includes_docket="119554_3" theme_string="535 U.S. 993" gram_type="apposition" relation_type="asymmetric" id="119554_11" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 993" X_vs_Y_string="ELDER v. CALIFORNIA DEPARTMENT OF CORRECTIONS ET AL" standard_case="119554_2" X_vs_Y="119554_4" gram_type="pre_nom" relation_type="equivalence" id="119554_7" ></RELATION>
+
+<RELATION theme="119554_4" includes_docket_string="01-8126" includes_docket="119554_3" theme_string="ELDER v. CALIFORNIA DEPARTMENT OF CORRECTIONS ET AL" gram_type="apposition" relation_type="asymmetric" id="119554_10" ></RELATION>
+
+<RELATION theme="119554_4" party1="119554_5" party1_string="ELDER" theme_string="ELDER v. CALIFORNIA DEPARTMENT OF CORRECTIONS ET AL" gram_type="infix" relation_type="asymmetric" id="119554_8" ></RELATION>
+
+<RELATION party2="119554_6" theme="119554_4" theme_string="ELDER v. CALIFORNIA DEPARTMENT OF CORRECTIONS ET AL" party2_string="CALIFORNIA DEPARTMENT OF CORRECTIONS ET AL" gram_type="infix" relation_type="asymmetric" id="119554_9" ></RELATION>
+
+<RELATION at_date_string="April 15, 2002" theme="119554_4" at_date="119554_12" theme_string="ELDER v. CALIFORNIA DEPARTMENT OF CORRECTIONS ET AL" gram_type="multi_line" relation_type="asymmetric" id="119554_13" ></RELATION>
+

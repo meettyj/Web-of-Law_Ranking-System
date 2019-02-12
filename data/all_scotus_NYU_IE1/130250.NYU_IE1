@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['castlestates#4']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_908" id1="130264" volume="539" start="0" page_number="908" standard_reporter="U.S." citation_global_level_id="2271.002" line="1" id="130250_1" citation_local_level_id="0" >539 U.S. 908</CITATION>
+
+<CITATION party2="United States" party1="Castle" citation_global_level_id="62209.001" party2_short="States" line="1" id="130250_3" alternative_keys="['u.s._539_908']" end="40" entry_type="party_key" lookup_key="castlestates#4" id1="130456" start="17" party1_short="Castle" citation_local_level_id="1" >Castle v. United States</CITATION>
+
+<NAME end="23" start="17" party1_of="130250_3" all_names="CASTLE" local_name_id="1" id="130250_4" >Castle</NAME>
+
+<NAME end="40" start="27" all_names="UNITED STATES" party2_of="130250_3" local_name_id="2" id="130250_5" >United States</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._539_908" id1="130264" start="50" citation_global_level_id="2271.002" line="1" id="130250_2" citation_local_level_id="0" >02-10429</DOCKET>
+
+<DATE start="100" end="112" id="130250_6" >June 2, 2003</DATE>
+
+<NAME start="190" local_name_id="3" end="200" id="130250_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="130250_1" includes_docket_string="02-10429" includes_docket="130250_2" theme_string="539 U.S. 908" gram_type="apposition" relation_type="asymmetric" id="130250_11" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 908" X_vs_Y_string="Castle v. United States" standard_case="130250_1" X_vs_Y="130250_3" gram_type="pre_nom" relation_type="equivalence" id="130250_7" ></RELATION>
+
+<RELATION theme="130250_3" includes_docket_string="02-10429" includes_docket="130250_2" theme_string="Castle v. United States" gram_type="apposition" relation_type="asymmetric" id="130250_10" ></RELATION>
+
+<RELATION theme="130250_3" party1="130250_4" party1_string="Castle" theme_string="Castle v. United States" gram_type="infix" relation_type="asymmetric" id="130250_8" ></RELATION>
+
+<RELATION party2="130250_5" theme="130250_3" theme_string="Castle v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="130250_9" ></RELATION>
+

@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['wilksstates#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1068" id1="120452" volume="535" start="0" page_number="1068" standard_reporter="U.S." citation_global_level_id="1914.002" line="1" id="120449_1" citation_local_level_id="0" >535 U.S. 1068</CITATION>
+
+<CITATION party2="UNITED STATES" party1="WILKS" citation_global_level_id="33018.001" party2_short="STATES" line="2" id="120449_2" alternative_keys="['u.s._535_1068']" end="40" entry_type="party_key" lookup_key="wilksstates#1" id1="120449" start="18" party1_short="WILKS" citation_local_level_id="1" >WILKS v. UNITED STATES</CITATION>
+
+<NAME end="23" start="18" party1_of="120449_2" all_names="WILKS" local_name_id="1" id="120449_3" >WILKS</NAME>
+
+<NAME end="40" start="27" all_names="UNITED STATES" party2_of="120449_2" local_name_id="2" id="120449_4" >UNITED STATES</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="wilksstates#1" id1="120449" start="50" citation_global_level_id="33018.001" line="3" id="120449_7" citation_local_level_id="1" >01-9459</DOCKET>
+
+<DATE start="103" citation_global_level_id="33018.001" end="115" id="120449_8" citation_local_level_id="1" >May 13, 2002</DATE>
+
+<NAME start="148" local_name_id="3" end="151" id="120449_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="120449_2" party1="120449_3" party1_string="WILKS" theme_string="WILKS v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="120449_5" ></RELATION>
+
+<RELATION party2="120449_4" theme="120449_2" theme_string="WILKS v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="120449_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1068" X_vs_Y_string="WILKS v. UNITED STATES" standard_case="120449_1" X_vs_Y="120449_2" gram_type="multi_line" relation_type="equivalence" id="120449_9" ></RELATION>
+
+<RELATION at_date_string="May 13, 2002" theme="120449_2" at_date="120449_8" theme_string="WILKS v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="120449_11" ></RELATION>
+
+<RELATION theme="120449_2" includes_docket_string="01-9459" includes_docket="120449_7" theme_string="WILKS v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="120449_10" ></RELATION>
+

@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['melvintire#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_945" id1="124144" volume="537" start="0" page_number="945" standard_reporter="U.S." citation_global_level_id="428.002" line="1" id="124151_1" citation_local_level_id="0" >537 U.S. 945</CITATION>
+
+<CITATION party2="KELLY SPRINGFIELD TIRE CORP" party1="MELVIN" citation_global_level_id="51843.001" party2_short="TIRE" line="2" id="124151_2" alternative_keys="['u.s._537_945']" end="54" entry_type="party_key" lookup_key="melvintire#1" id1="124151" start="17" party1_short="MELVIN" citation_local_level_id="1" >MELVIN v. KELLY SPRINGFIELD TIRE CORP</CITATION>
+
+<NAME end="23" start="17" party1_of="124151_2" all_names="MELVIN" local_name_id="1" id="124151_3" >MELVIN</NAME>
+
+<NAME end="54" start="27" all_names="KELLY SPRINGFIELD TIRE CORP" party2_of="124151_2" local_name_id="2" id="124151_4" >KELLY SPRINGFIELD TIRE CORP</NAME>
+
+<DOCKET end="71" entry_type="docket" lookup_key="melvintire#1" id1="124151" start="64" citation_global_level_id="51843.001" line="3" id="124151_7" citation_local_level_id="1" >00-9849</DOCKET>
+
+<ORGANIZATION start="77" end="107" id="124151_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="113" citation_global_level_id="51843.001" end="128" id="124151_9" citation_local_level_id="1" >October 7, 2002</DATE>
+
+<CITATION end="163" reporter="U. S." entry_type="standard_key" no_current_file="True" lookup_key="u.s._534_835" id1="Dummy_File_120911" volume="534" start="150" page_number="835" standard_reporter="U.S." citation_global_level_id="184761.001" line="8" id="124151_13" citation_local_level_id="2" >534 U. S. 835</CITATION>
+
+<NAME start="165" local_name_id="3" end="173" id="124151_14" all_names="PETITION" >Petition</NAME>
+
+<RELATION theme="124151_2" party1="124151_3" party1_string="MELVIN" theme_string="MELVIN v. KELLY SPRINGFIELD TIRE CORP" gram_type="infix" relation_type="asymmetric" id="124151_5" ></RELATION>
+
+<RELATION party2="124151_4" theme="124151_2" theme_string="MELVIN v. KELLY SPRINGFIELD TIRE CORP" party2_string="KELLY SPRINGFIELD TIRE CORP" gram_type="infix" relation_type="asymmetric" id="124151_6" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 945" X_vs_Y_string="MELVIN v. KELLY SPRINGFIELD TIRE CORP" standard_case="124151_1" X_vs_Y="124151_2" gram_type="multi_line" relation_type="equivalence" id="124151_10" ></RELATION>
+
+<RELATION at_date_string="October 7, 2002" theme="124151_2" at_date="124151_9" theme_string="MELVIN v. KELLY SPRINGFIELD TIRE CORP" gram_type="multi_line" relation_type="asymmetric" id="124151_12" ></RELATION>
+
+<RELATION theme="124151_2" includes_docket_string="00-9849" includes_docket="124151_7" theme_string="MELVIN v. KELLY SPRINGFIELD TIRE CORP" gram_type="multi_line" relation_type="asymmetric" id="124151_11" ></RELATION>
+

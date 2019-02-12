@@ -1,0 +1,40 @@
+<CITATION alternative_keys="['insurancepetroleum#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_813" id1="113033" volume="510" start="0" page_number="813" standard_reporter="U.S." citation_global_level_id="1355.002" line="1" id="113024_1" citation_local_level_id="0" >510 U.S. 813</CITATION>
+
+<CITATION party2="Occidental Petroleum Corp. et al" party1="Employers Insurance of Wausau et al." citation_global_level_id="1355.004" party2_short="Petroleum" line="1" id="113024_3" alternative_keys="['u.s._510_813']" end="89" entry_type="party_key" lookup_key="insurancepetroleum#1" id1="113033" start="17" party1_short="Insurance" citation_local_level_id="1" >Employers Insurance of Wausau et al. v. Occidental Petroleum Corp. et al</CITATION>
+
+<NAME end="53" start="17" party1_of="113024_3" all_names="EMPLOYERS INSURANCE OF WAUSAU" local_name_id="1" id="113024_4" >Employers Insurance of Wausau et al.</NAME>
+
+<NAME start="17" local_name_id="1" end="46" id="113024_8" all_names="EMPLOYERS INSURANCE OF WAUSAU" >Employers Insurance of Wausau</NAME>
+
+<NAME end="89" start="57" all_names="OCCIDENTAL PETROLEUM CORP" party2_of="113024_3" local_name_id="2" id="113024_5" >Occidental Petroleum Corp. et al</NAME>
+
+<ORGANIZATION start="57" end="82" id="113024_9" >Occidental Petroleum Corp</ORGANIZATION>
+
+<DOCKET end="106" entry_type="docket" lookup_key="u.s._510_813" id1="113033" start="99" citation_global_level_id="1355.002" line="1" id="113024_2" citation_local_level_id="0" >92-1789</DOCKET>
+
+<DATE start="102" end="106" id="113024_6" >1789</DATE>
+
+<ORGANIZATION start="112" end="142" id="113024_10" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="148" end="163" id="113024_7" >October 4, 1993</DATE>
+
+<NAME start="185" local_name_id="3" end="202" id="113024_11" all_names="APPEAL FROM THE C" >Appeal from the C</NAME>
+
+<NAME start="211" local_name_id="4" end="214" id="113024_12" all_names="CIR" >Cir</NAME>
+
+<NAME start="241" local_name_id="5" end="251" id="113024_20" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="290" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_978_1422" id1="Dummy_File_44953" volume="978" start="276" page_number="1422" standard_reporter="F.2D" citation_global_level_id="108803.001" line="3" id="113024_19" citation_local_level_id="2" >978 F. 2d 1422</CITATION>
+
+<RELATION theme="113024_1" includes_docket_string="92-1789" includes_docket="113024_2" theme_string="510 U.S. 813" gram_type="apposition" relation_type="asymmetric" id="113024_17" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 813" X_vs_Y_string="Employers Insurance of Wausau et al. v. Occidental Petroleum Corp. et al" standard_case="113024_1" X_vs_Y="113024_3" gram_type="pre_nom" relation_type="equivalence" id="113024_13" ></RELATION>
+
+<RELATION theme="113024_3" includes_docket_string="92-1789" includes_docket="113024_2" theme_string="Employers Insurance of Wausau et al. v. Occidental Petroleum Corp. et al" gram_type="apposition" relation_type="asymmetric" id="113024_16" ></RELATION>
+
+<RELATION theme="113024_3" party1="113024_4" party1_string="Employers Insurance of Wausau et al." theme_string="Employers Insurance of Wausau et al. v. Occidental Petroleum Corp. et al" gram_type="infix" relation_type="asymmetric" id="113024_14" ></RELATION>
+
+<RELATION party2="113024_5" theme="113024_3" theme_string="Employers Insurance of Wausau et al. v. Occidental Petroleum Corp. et al" party2_string="Occidental Petroleum Corp. et al" gram_type="infix" relation_type="asymmetric" id="113024_15" ></RELATION>
+
+<RELATION at_date_string="1789" theme="113024_2" at_date="113024_6" theme_string="92-1789" gram_type="infix" relation_type="asymmetric" id="113024_18" ></RELATION>
+

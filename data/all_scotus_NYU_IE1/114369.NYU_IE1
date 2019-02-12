@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['systemsautoskill#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_916" id1="114375" volume="510" start="0" page_number="916" standard_reporter="U.S." citation_global_level_id="2099.002" line="1" id="114369_1" citation_local_level_id="0" >510 U.S. 916</CITATION>
+
+<CITATION party2="Autoskill, Inc" party1="National Educational Support Systems, Inc." citation_global_level_id="2099.003" party2_short="Autoskill" line="1" id="114369_3" alternative_keys="['u.s._510_916']" end="77" entry_type="party_key" lookup_key="systemsautoskill#1" id1="114375" start="17" party1_short="Systems" citation_local_level_id="1" >National Educational Support Systems, Inc. v. Autoskill, Inc</CITATION>
+
+<NAME end="59" start="17" party1_of="114369_3" all_names="NATIONAL EDUCATIONAL SUPPORT SYSTEMS INC" local_name_id="1" id="114369_4" >National Educational Support Systems, Inc.</NAME>
+
+<ORGANIZATION start="17" end="58" id="114369_7" >National Educational Support Systems, Inc</ORGANIZATION>
+
+<NAME end="77" start="63" all_names="AUTOSKILL INC" party2_of="114369_3" local_name_id="2" id="114369_5" >Autoskill, Inc</NAME>
+
+<DOCKET end="93" entry_type="docket" lookup_key="u.s._510_916" id1="114375" start="87" citation_global_level_id="2099.002" line="1" id="114369_2" citation_local_level_id="0" >93-250</DOCKET>
+
+<DATE start="135" end="151" id="114369_6" >October 12, 1993</DATE>
+
+<NAME start="230" local_name_id="3" end="240" id="114369_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="279" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_994_1476" id1="Dummy_File_370" volume="994" start="265" page_number="1476" standard_reporter="F.2D" citation_global_level_id="64220.001" line="3" id="114369_13" citation_local_level_id="2" >994 F. 2d 1476</CITATION>
+
+<RELATION theme="114369_1" includes_docket_string="93-250" includes_docket="114369_2" theme_string="510 U.S. 916" gram_type="apposition" relation_type="asymmetric" id="114369_12" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 916" X_vs_Y_string="National Educational Support Systems, Inc. v. Autoskill, Inc" standard_case="114369_1" X_vs_Y="114369_3" gram_type="pre_nom" relation_type="equivalence" id="114369_8" ></RELATION>
+
+<RELATION theme="114369_3" includes_docket_string="93-250" includes_docket="114369_2" theme_string="National Educational Support Systems, Inc. v. Autoskill, Inc" gram_type="apposition" relation_type="asymmetric" id="114369_11" ></RELATION>
+
+<RELATION party2="114369_5" theme="114369_3" theme_string="National Educational Support Systems, Inc. v. Autoskill, Inc" party2_string="Autoskill, Inc" gram_type="infix" relation_type="asymmetric" id="114369_10" ></RELATION>
+
+<RELATION theme="114369_3" party1="114369_4" party1_string="National Educational Support Systems, Inc." theme_string="National Educational Support Systems, Inc. v. Autoskill, Inc" gram_type="infix" relation_type="asymmetric" id="114369_9" ></RELATION>
+

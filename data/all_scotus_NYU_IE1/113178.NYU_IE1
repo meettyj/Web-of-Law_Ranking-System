@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['roehlstates#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_825" id1="113185" volume="510" start="0" page_number="825" standard_reporter="U.S." citation_global_level_id="3458.002" line="1" id="113178_1" citation_local_level_id="0" >510 U.S. 825</CITATION>
+
+<CITATION party2="United States" party1="Roehl" citation_global_level_id="32077.001" party2_short="States" line="1" id="113178_3" alternative_keys="['u.s._510_825']" end="39" entry_type="party_key" lookup_key="roehlstates#1" id1="113178" start="17" party1_short="Roehl" citation_local_level_id="1" >Roehl v. United States</CITATION>
+
+<NAME end="22" start="17" party1_of="113178_3" all_names="ROEHL" local_name_id="1" id="113178_4" >Roehl</NAME>
+
+<NAME end="39" start="26" all_names="UNITED STATES" party2_of="113178_3" local_name_id="2" id="113178_5" >United States</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._510_825" id1="113185" start="49" citation_global_level_id="3458.002" line="1" id="113178_2" citation_local_level_id="0" >92-2007</DOCKET>
+
+<DATE start="52" end="56" id="113178_6" >2007</DATE>
+
+<DATE start="98" end="113" id="113178_7" >October 4, 1993</DATE>
+
+<NAME start="191" local_name_id="3" end="201" id="113178_15" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="239" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_977_375" id1="Dummy_File_222715" volume="977" start="226" page_number="375" standard_reporter="F.2D" citation_global_level_id="286565.001" line="3" id="113178_14" citation_local_level_id="2" >977 F. 2d 375</CITATION>
+
+<RELATION theme="113178_1" includes_docket_string="92-2007" includes_docket="113178_2" theme_string="510 U.S. 825" gram_type="apposition" relation_type="asymmetric" id="113178_12" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 825" X_vs_Y_string="Roehl v. United States" standard_case="113178_1" X_vs_Y="113178_3" gram_type="pre_nom" relation_type="equivalence" id="113178_8" ></RELATION>
+
+<RELATION theme="113178_3" includes_docket_string="92-2007" includes_docket="113178_2" theme_string="Roehl v. United States" gram_type="apposition" relation_type="asymmetric" id="113178_11" ></RELATION>
+
+<RELATION party2="113178_5" theme="113178_3" theme_string="Roehl v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="113178_10" ></RELATION>
+
+<RELATION theme="113178_3" party1="113178_4" party1_string="Roehl" theme_string="Roehl v. United States" gram_type="infix" relation_type="asymmetric" id="113178_9" ></RELATION>
+
+<RELATION at_date_string="2007" theme="113178_2" at_date="113178_6" theme_string="92-2007" gram_type="infix" relation_type="asymmetric" id="113178_13" ></RELATION>
+

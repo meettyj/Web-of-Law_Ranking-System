@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['johnsontowing#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_823" id1="122515" volume="537" start="0" page_number="823" standard_reporter="U.S." citation_global_level_id="2521.002" line="1" id="122516_1" citation_local_level_id="0" >537 U.S. 823</CITATION>
+
+<CITATION party2="LAWSON &amp; LAWSON TOWING CO., INC" party1="JOHNSON" citation_global_level_id="2521.005" party2_short="TOWING" line="1" id="122516_3" alternative_keys="['u.s._537_823']" end="59" entry_type="party_key" lookup_key="johnsontowing#2" id1="122515" start="17" party1_short="JOHNSON" citation_local_level_id="1" >JOHNSON v. LAWSON &amp; LAWSON TOWING CO., INC</CITATION>
+
+<NAME end="24" start="17" party1_of="122516_3" all_names="JOHNSON" local_name_id="1" id="122516_4" >JOHNSON</NAME>
+
+<NAME end="59" start="28" all_names="LAWSON &amp; LAWSON TOWING CO INC" party2_of="122516_3" local_name_id="2" id="122516_5" >LAWSON &amp; LAWSON TOWING CO., INC</NAME>
+
+<DOCKET end="76" entry_type="docket" lookup_key="u.s._537_823" id1="122515" start="69" citation_global_level_id="2521.002" line="1" id="122516_2" citation_local_level_id="0" >01-1810</DOCKET>
+
+<DATE start="72" end="76" id="122516_6" >1810</DATE>
+
+<DATE start="118" end="133" id="122516_7" >October 7, 2002</DATE>
+
+<NAME start="262" local_name_id="3" end="265" id="122516_14" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="122516_1" includes_docket_string="01-1810" includes_docket="122516_2" theme_string="537 U.S. 823" gram_type="apposition" relation_type="asymmetric" id="122516_12" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 823" X_vs_Y_string="JOHNSON v. LAWSON &amp; LAWSON TOWING CO., INC" standard_case="122516_1" X_vs_Y="122516_3" gram_type="pre_nom" relation_type="equivalence" id="122516_8" ></RELATION>
+
+<RELATION theme="122516_3" includes_docket_string="01-1810" includes_docket="122516_2" theme_string="JOHNSON v. LAWSON &amp; LAWSON TOWING CO., INC" gram_type="apposition" relation_type="asymmetric" id="122516_11" ></RELATION>
+
+<RELATION party2="122516_5" theme="122516_3" theme_string="JOHNSON v. LAWSON &amp; LAWSON TOWING CO., INC" party2_string="LAWSON &amp; LAWSON TOWING CO., INC" gram_type="infix" relation_type="asymmetric" id="122516_10" ></RELATION>
+
+<RELATION theme="122516_3" party1="122516_4" party1_string="JOHNSON" theme_string="JOHNSON v. LAWSON &amp; LAWSON TOWING CO., INC" gram_type="infix" relation_type="asymmetric" id="122516_9" ></RELATION>
+
+<RELATION at_date_string="1810" theme="122516_2" at_date="122516_6" theme_string="01-1810" gram_type="infix" relation_type="asymmetric" id="122516_13" ></RELATION>
+

@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['chicalee#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_906" id1="114282" volume="510" start="0" page_number="906" standard_reporter="U.S." citation_global_level_id="3295.002" line="1" id="114283_1" citation_local_level_id="0" >510 U.S. 906</CITATION>
+
+<CITATION party2="Lee" party1="Chica" citation_global_level_id="34318.001" party2_short="Lee" line="1" id="114283_3" alternative_keys="['u.s._510_906']" end="29" entry_type="party_key" lookup_key="chicalee#1" id1="114283" start="17" party1_short="Chica" citation_local_level_id="1" >Chica v. Lee</CITATION>
+
+<NAME end="22" start="17" party1_of="114283_3" all_names="CHICA" local_name_id="1" id="114283_4" >Chica</NAME>
+
+<NAME end="29" start="26" all_names="LEE" party2_of="114283_3" local_name_id="2" id="114283_5" >Lee</NAME>
+
+<DOCKET end="46" entry_type="docket" lookup_key="u.s._510_906" id1="114282" start="39" citation_global_level_id="3295.002" line="1" id="114283_2" citation_local_level_id="0" >92-1925</DOCKET>
+
+<DATE start="42" end="46" id="114283_6" >1925</DATE>
+
+<DATE start="88" end="103" id="114283_7" >October 4, 1993</DATE>
+
+<ORGANIZATION start="181" end="227" id="114283_15" >Motion of Securities Industry Association, Inc</ORGANIZATION>
+
+<NAME start="282" local_name_id="3" end="292" id="114283_16" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION alternative_keys="['leechica#1']" end="330" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_983_883" id1="Dummy_File_170623" volume="983" start="317" page_number="883" standard_reporter="F.2D" citation_global_level_id="234473.003" line="3" id="114283_14" citation_local_level_id="2" >983 F. 2d 883</CITATION>
+
+<RELATION theme="114283_1" includes_docket_string="92-1925" includes_docket="114283_2" theme_string="510 U.S. 906" gram_type="apposition" relation_type="asymmetric" id="114283_12" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 906" X_vs_Y_string="Chica v. Lee" standard_case="114283_1" X_vs_Y="114283_3" gram_type="pre_nom" relation_type="equivalence" id="114283_8" ></RELATION>
+
+<RELATION theme="114283_3" includes_docket_string="92-1925" includes_docket="114283_2" theme_string="Chica v. Lee" gram_type="apposition" relation_type="asymmetric" id="114283_11" ></RELATION>
+
+<RELATION party2="114283_5" theme="114283_3" theme_string="Chica v. Lee" party2_string="Lee" gram_type="infix" relation_type="asymmetric" id="114283_10" ></RELATION>
+
+<RELATION theme="114283_3" party1="114283_4" party1_string="Chica" theme_string="Chica v. Lee" gram_type="infix" relation_type="asymmetric" id="114283_9" ></RELATION>
+
+<RELATION at_date_string="1925" theme="114283_2" at_date="114283_6" theme_string="92-1925" gram_type="infix" relation_type="asymmetric" id="114283_13" ></RELATION>
+

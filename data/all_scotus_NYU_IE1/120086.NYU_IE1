@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['washingtonguillen#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1033" id1="120083" volume="535" start="0" page_number="1033" standard_reporter="U.S." citation_global_level_id="571.002" line="1" id="120086_1" citation_local_level_id="0" >535 U.S. 1033</CITATION>
+
+<CITATION party2="GUILLEN, LEGAL GUARDIAN OF GUILLEN ET AL" party1="PIERCE COUNTY, WASHINGTON" citation_global_level_id="18156.003" party2_short="GUILLEN" line="2" id="120086_2" alternative_keys="['u.s._537_808']" end="87" entry_type="party_key" lookup_key="washingtonguillen#1" id1="122311" start="18" party1_short="WASHINGTON" citation_local_level_id="1" >PIERCE COUNTY, WASHINGTON v. GUILLEN, LEGAL GUARDIAN OF GUILLEN ET AL</CITATION>
+
+<NAME end="43" start="18" party1_of="120086_2" all_names="PIERCE COUNTY WASHINGTON" local_name_id="1" id="120086_3" >PIERCE COUNTY, WASHINGTON</NAME>
+
+<NAME end="87" start="47" all_names="GUILLEN LEGAL GUARDIAN OF GUILLEN" party2_of="120086_2" local_name_id="2" id="120086_4" >GUILLEN, LEGAL GUARDIAN OF GUILLEN ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._537_808']" end="120" entry_type="docket" lookup_key="washingtonguillen#1" id1="122311" start="113" citation_global_level_id="18156.003" line="3" id="120086_7" citation_local_level_id="1" >01-1229</DOCKET>
+
+<DATE start="166" citation_global_level_id="18156.003" end="180" id="120086_8" citation_local_level_id="1" >April 29, 2002</DATE>
+
+<NAME start="202" local_name_id="3" end="205" id="120086_14" all_names="SUP" >Sup</NAME>
+
+<CITATION end="412" reporter="Wash. 2d" entry_type="standard_key" no_current_file="True" lookup_key="wash.2d_144_696" id1="Dummy_File_187585" volume="144" start="396" page_number="696" standard_reporter="WASH.2D" citation_global_level_id="251435.001" line="8" id="120086_12" citation_local_level_id="2" >144 Wash. 2d 696</CITATION>
+
+<CITATION end="426" reporter="P. 3d" entry_type="standard_key" no_current_file="True" lookup_key="p.3d_31_628" id1="Dummy_File_187586" volume="31" start="414" page_number="628" standard_reporter="P.3D" citation_global_level_id="251436.001" line="8" id="120086_13" citation_local_level_id="3" >31 P. 3d 628</CITATION>
+
+<RELATION theme="120086_2" party1="120086_3" party1_string="PIERCE COUNTY, WASHINGTON" theme_string="PIERCE COUNTY, WASHINGTON v. GUILLEN, LEGAL GUARDIAN OF GUILLEN ET AL" gram_type="infix" relation_type="asymmetric" id="120086_5" ></RELATION>
+
+<RELATION party2="120086_4" theme="120086_2" theme_string="PIERCE COUNTY, WASHINGTON v. GUILLEN, LEGAL GUARDIAN OF GUILLEN ET AL" party2_string="GUILLEN, LEGAL GUARDIAN OF GUILLEN ET AL" gram_type="infix" relation_type="asymmetric" id="120086_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1033" X_vs_Y_string="PIERCE COUNTY, WASHINGTON v. GUILLEN, LEGAL GUARDIAN OF GUILLEN ET AL" standard_case="120086_1" X_vs_Y="120086_2" gram_type="multi_line" relation_type="equivalence" id="120086_9" ></RELATION>
+
+<RELATION at_date_string="April 29, 2002" theme="120086_2" at_date="120086_8" theme_string="PIERCE COUNTY, WASHINGTON v. GUILLEN, LEGAL GUARDIAN OF GUILLEN ET AL" gram_type="multi_line" relation_type="asymmetric" id="120086_11" ></RELATION>
+
+<RELATION theme="120086_2" includes_docket_string="01-1229" includes_docket="120086_7" theme_string="PIERCE COUNTY, WASHINGTON v. GUILLEN, LEGAL GUARDIAN OF GUILLEN ET AL" gram_type="multi_line" relation_type="asymmetric" id="120086_10" ></RELATION>
+

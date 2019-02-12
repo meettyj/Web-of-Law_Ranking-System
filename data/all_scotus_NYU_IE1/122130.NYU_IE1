@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['moultriestates#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._536_978" id1="122124" volume="536" start="0" page_number="978" standard_reporter="U.S." citation_global_level_id="2096.002" line="1" id="122130_1" citation_local_level_id="0" >536 U.S. 978</CITATION>
+
+<CITATION party2="UNITED STATES" party1="MOULTRIE" citation_global_level_id="48235.001" party2_short="STATES" line="2" id="122130_2" alternative_keys="['u.s._536_978']" end="42" entry_type="party_key" lookup_key="moultriestates#2" id1="120436" start="17" party1_short="MOULTRIE" citation_local_level_id="1" >MOULTRIE v. UNITED STATES</CITATION>
+
+<NAME end="25" start="17" party1_of="122130_2" all_names="MOULTRIE" local_name_id="1" id="122130_3" >MOULTRIE</NAME>
+
+<NAME end="42" start="29" all_names="UNITED STATES" party2_of="122130_2" local_name_id="2" id="122130_4" >UNITED STATES</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="moultriestates#2" id1="120436" start="52" citation_global_level_id="48235.001" line="3" id="122130_7" citation_local_level_id="1" >01-9416</DOCKET>
+
+<DATE start="105" citation_global_level_id="48235.001" end="119" id="122130_8" citation_local_level_id="1" >August 5, 2002</DATE>
+
+<CITATION end="155" reporter="U. S." entry_type="standard_key" lookup_key="u.s._535_1067" id1="120439" volume="535" start="141" page_number="1067" standard_reporter="U.S." citation_global_level_id="14611.002" line="8" id="122130_12" citation_local_level_id="2" >535 U. S. 1067</CITATION>
+
+<NAME start="157" local_name_id="3" end="166" id="122130_13" all_names="PETITIONS" >Petitions</NAME>
+
+<RELATION theme="122130_2" party1="122130_3" party1_string="MOULTRIE" theme_string="MOULTRIE v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="122130_5" ></RELATION>
+
+<RELATION party2="122130_4" theme="122130_2" theme_string="MOULTRIE v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="122130_6" ></RELATION>
+
+<RELATION standard_case_string="536 U.S. 978" X_vs_Y_string="MOULTRIE v. UNITED STATES" standard_case="122130_1" X_vs_Y="122130_2" gram_type="multi_line" relation_type="equivalence" id="122130_9" ></RELATION>
+
+<RELATION at_date_string="August 5, 2002" theme="122130_2" at_date="122130_8" theme_string="MOULTRIE v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="122130_11" ></RELATION>
+
+<RELATION theme="122130_2" includes_docket_string="01-9416" includes_docket="122130_7" theme_string="MOULTRIE v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="122130_10" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['farleycounty#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1181" id1="117459" volume="510" start="0" page_number="1181" standard_reporter="U.S." citation_global_level_id="1071.002" line="1" id="117466_1" citation_local_level_id="0" >510 U.S. 1181</CITATION>
+
+<CITATION party2="County of Los Angeles" party1="Farley" citation_global_level_id="49305.001" party2_short="County" line="1" id="117466_3" alternative_keys="['u.s._510_1181']" end="49" entry_type="party_key" lookup_key="farleycounty#1" id1="117466" start="18" party1_short="Farley" citation_local_level_id="1" >Farley v. County of Los Angeles</CITATION>
+
+<NAME end="24" start="18" party1_of="117466_3" all_names="FARLEY" local_name_id="1" id="117466_4" >Farley</NAME>
+
+<NAME end="49" start="28" all_names="COUNTY OF LOS ANGELES" party2_of="117466_3" local_name_id="2" id="117466_5" >County of Los Angeles</NAME>
+
+<DOCKET end="66" entry_type="docket" lookup_key="u.s._510_1181" id1="117459" start="59" citation_global_level_id="1071.002" line="1" id="117466_2" citation_local_level_id="0" >93-7460</DOCKET>
+
+<DATE start="108" end="121" id="117466_6" >March 7, 1994</DATE>
+
+<NAME start="199" local_name_id="3" end="209" id="117466_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="247" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_999_542" id1="Dummy_File_6234" volume="999" start="234" page_number="542" standard_reporter="F.2D" citation_global_level_id="70084.001" line="3" id="117466_12" citation_local_level_id="2" >999 F. 2d 542</CITATION>
+
+<RELATION theme="117466_1" includes_docket_string="93-7460" includes_docket="117466_2" theme_string="510 U.S. 1181" gram_type="apposition" relation_type="asymmetric" id="117466_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1181" X_vs_Y_string="Farley v. County of Los Angeles" standard_case="117466_1" X_vs_Y="117466_3" gram_type="pre_nom" relation_type="equivalence" id="117466_7" ></RELATION>
+
+<RELATION theme="117466_3" includes_docket_string="93-7460" includes_docket="117466_2" theme_string="Farley v. County of Los Angeles" gram_type="apposition" relation_type="asymmetric" id="117466_10" ></RELATION>
+
+<RELATION theme="117466_3" party1="117466_4" party1_string="Farley" theme_string="Farley v. County of Los Angeles" gram_type="infix" relation_type="asymmetric" id="117466_8" ></RELATION>
+
+<RELATION party2="117466_5" theme="117466_3" theme_string="Farley v. County of Los Angeles" party2_string="County of Los Angeles" gram_type="infix" relation_type="asymmetric" id="117466_9" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['dizonillinois#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1060" id1="129992" volume="538" start="0" page_number="1060" standard_reporter="U.S." citation_global_level_id="1495.002" line="1" id="129993_1" citation_local_level_id="0" >538 U.S. 1060</CITATION>
+
+<CITATION party2="ILLINOIS" party1="DIZON" citation_global_level_id="9082.001" party2_short="ILLINOIS" line="1" id="129993_3" alternative_keys="['u.s._538_1060']" end="35" entry_type="party_key" lookup_key="dizonillinois#1" id1="129993" start="18" party1_short="DIZON" citation_local_level_id="1" >DIZON v. ILLINOIS</CITATION>
+
+<NAME end="23" start="18" party1_of="129993_3" all_names="DIZON" local_name_id="1" id="129993_4" >DIZON</NAME>
+
+<NAME end="35" start="27" all_names="ILLINOIS" party2_of="129993_3" local_name_id="2" id="129993_5" >ILLINOIS</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="u.s._538_1060" id1="129992" start="45" citation_global_level_id="1495.002" line="1" id="129993_2" citation_local_level_id="0" >02-9713</DOCKET>
+
+<DATE start="94" end="106" id="129993_6" >May 27, 2003</DATE>
+
+<NAME start="223" local_name_id="3" end="226" id="129993_13" all_names="APP" >App</NAME>
+
+<CITATION end="319" reporter="N.E.2d" entry_type="standard_key" no_current_file="True" lookup_key="n.e.2d_697_780" id1="Dummy_File_82862" volume="697" start="305" page_number="780" standard_reporter="N.E.2D" citation_global_level_id="146712.001" line="3" id="129993_12" citation_local_level_id="2" >697 N.E.2d 780</CITATION>
+
+<RELATION theme="129993_1" includes_docket_string="02-9713" includes_docket="129993_2" theme_string="538 U.S. 1060" gram_type="apposition" relation_type="asymmetric" id="129993_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1060" X_vs_Y_string="DIZON v. ILLINOIS" standard_case="129993_1" X_vs_Y="129993_3" gram_type="pre_nom" relation_type="equivalence" id="129993_7" ></RELATION>
+
+<RELATION theme="129993_3" includes_docket_string="02-9713" includes_docket="129993_2" theme_string="DIZON v. ILLINOIS" gram_type="apposition" relation_type="asymmetric" id="129993_10" ></RELATION>
+
+<RELATION theme="129993_3" party1="129993_4" party1_string="DIZON" theme_string="DIZON v. ILLINOIS" gram_type="infix" relation_type="asymmetric" id="129993_8" ></RELATION>
+
+<RELATION party2="129993_5" theme="129993_3" theme_string="DIZON v. ILLINOIS" party2_string="ILLINOIS" gram_type="infix" relation_type="asymmetric" id="129993_9" ></RELATION>
+

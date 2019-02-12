@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['gilmoret#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_955" id1="133163" volume="540" start="0" page_number="955" standard_reporter="U.S." citation_global_level_id="6449.002" line="1" id="133162_1" citation_local_level_id="0" >540 U.S. 955</CITATION>
+
+<CITATION party2="AT&amp;T CORP" party1="GILMORE" citation_global_level_id="7671.003" party2_short="T" line="1" id="133162_3" alternative_keys="['u.s._540_1086']" end="37" entry_type="party_key" lookup_key="gilmoret#1" id1="134709" start="17" party1_short="GILMORE" citation_local_level_id="1" >GILMORE v. AT&amp;T CORP</CITATION>
+
+<NAME end="24" start="17" party1_of="133162_3" all_names="GILMORE" local_name_id="1" id="133162_4" >GILMORE</NAME>
+
+<NAME end="37" start="28" all_names="AT&amp;T CORP" party2_of="133162_3" local_name_id="2" id="133162_5" >AT&amp;T CORP</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="u.s._540_955" id1="133163" start="47" citation_global_level_id="6449.002" line="1" id="133162_2" citation_local_level_id="0" >03-5829</DOCKET>
+
+<DATE start="96" end="112" id="133162_6" >October 14, 2003</DATE>
+
+<NAME start="190" local_name_id="3" end="200" id="133162_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="239" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_319_1042" id1="Dummy_File_197468" volume="319" start="225" page_number="1042" standard_reporter="F.3D" citation_global_level_id="261318.001" line="3" id="133162_12" citation_local_level_id="2" >319 F. 3d 1042</CITATION>
+
+<RELATION theme="133162_1" includes_docket_string="03-5829" includes_docket="133162_2" theme_string="540 U.S. 955" gram_type="apposition" relation_type="asymmetric" id="133162_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 955" X_vs_Y_string="GILMORE v. AT&amp;T CORP" standard_case="133162_1" X_vs_Y="133162_3" gram_type="pre_nom" relation_type="equivalence" id="133162_7" ></RELATION>
+
+<RELATION theme="133162_3" includes_docket_string="03-5829" includes_docket="133162_2" theme_string="GILMORE v. AT&amp;T CORP" gram_type="apposition" relation_type="asymmetric" id="133162_10" ></RELATION>
+
+<RELATION theme="133162_3" party1="133162_4" party1_string="GILMORE" theme_string="GILMORE v. AT&amp;T CORP" gram_type="infix" relation_type="asymmetric" id="133162_8" ></RELATION>
+
+<RELATION party2="133162_5" theme="133162_3" theme_string="GILMORE v. AT&amp;T CORP" party2_string="AT&amp;T CORP" gram_type="infix" relation_type="asymmetric" id="133162_9" ></RELATION>
+

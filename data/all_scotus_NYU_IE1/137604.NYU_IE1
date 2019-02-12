@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['nealplastics#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._542_957" id1="137619" volume="542" start="0" page_number="957" standard_reporter="U.S." citation_global_level_id="3019.002" line="1" id="137604_1" citation_local_level_id="0" >542 U.S. 957</CITATION>
+
+<CITATION party2="NATIONAL PLASTICS CORP" party1="O'NEAL" citation_global_level_id="3019.006" party2_short="PLASTICS" line="1" id="137604_3" alternative_keys="['u.s._542_957']" end="49" entry_type="party_key" lookup_key="nealplastics#1" id1="137619" start="17" party1_short="NEAL" citation_local_level_id="1" >O'NEAL v. NATIONAL PLASTICS CORP</CITATION>
+
+<NAME end="23" start="17" party1_of="137604_3" all_names="O'NEAL" local_name_id="1" id="137604_4" >O'NEAL</NAME>
+
+<NAME end="49" start="27" all_names="NATIONAL PLASTICS CORP" party2_of="137604_3" local_name_id="2" id="137604_5" >NATIONAL PLASTICS CORP</NAME>
+
+<DOCKET end="66" entry_type="docket" lookup_key="u.s._542_957" id1="137619" start="59" citation_global_level_id="3019.002" line="1" id="137604_2" citation_local_level_id="0" >03-9459</DOCKET>
+
+<DATE start="108" end="122" id="137604_6" >August 2, 2004</DATE>
+
+<CITATION end="230" reporter="U. S." entry_type="standard_key" lookup_key="u.s._541_1050" id1="136381" volume="541" start="216" page_number="1050" standard_reporter="U.S." citation_global_level_id="2020.002" line="3" id="137604_12" citation_local_level_id="2" >541 U. S. 1050</CITATION>
+
+<RELATION theme="137604_1" includes_docket_string="03-9459" includes_docket="137604_2" theme_string="542 U.S. 957" gram_type="apposition" relation_type="asymmetric" id="137604_11" ></RELATION>
+
+<RELATION standard_case_string="542 U.S. 957" X_vs_Y_string="O'NEAL v. NATIONAL PLASTICS CORP" standard_case="137604_1" X_vs_Y="137604_3" gram_type="pre_nom" relation_type="equivalence" id="137604_7" ></RELATION>
+
+<RELATION theme="137604_3" includes_docket_string="03-9459" includes_docket="137604_2" theme_string="O'NEAL v. NATIONAL PLASTICS CORP" gram_type="apposition" relation_type="asymmetric" id="137604_10" ></RELATION>
+
+<RELATION theme="137604_3" party1="137604_4" party1_string="O'NEAL" theme_string="O'NEAL v. NATIONAL PLASTICS CORP" gram_type="infix" relation_type="asymmetric" id="137604_8" ></RELATION>
+
+<RELATION party2="137604_5" theme="137604_3" theme_string="O'NEAL v. NATIONAL PLASTICS CORP" party2_string="NATIONAL PLASTICS CORP" gram_type="infix" relation_type="asymmetric" id="137604_9" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['stevensonlewis#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_932" id1="143324" volume="544" start="0" page_number="932" standard_reporter="U.S." citation_global_level_id="3930.002" line="1" id="143321_1" citation_local_level_id="0" >544 U.S. 932</CITATION>
+
+<CITATION party2="LEWIS, WARDEN" party1="STEVENSON" citation_global_level_id="2301.006" party2_short="LEWIS" line="2" id="143321_2" alternative_keys="['u.s._543_1191']" end="43" entry_type="party_key" lookup_key="stevensonlewis#1" id1="142821" start="17" party1_short="STEVENSON" citation_local_level_id="1" >STEVENSON v. LEWIS, WARDEN</CITATION>
+
+<NAME end="26" start="17" party1_of="143321_2" all_names="STEVENSON" local_name_id="1" id="143321_3" >STEVENSON</NAME>
+
+<NAME end="43" start="30" all_names="LEWIS WARDEN" party2_of="143321_2" local_name_id="2" id="143321_4" >LEWIS, WARDEN</NAME>
+
+<DOCKET alternative_keys="['u.s._543_1191']" end="60" entry_type="docket" lookup_key="stevensonlewis#1" id1="142821" start="53" citation_global_level_id="2301.006" line="3" id="143321_7" citation_local_level_id="1" >04-8450</DOCKET>
+
+<ORGANIZATION start="66" end="96" id="143321_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="102" citation_global_level_id="2301.006" end="116" id="143321_9" citation_local_level_id="1" >March 21, 2005</DATE>
+
+<NAME start="148" local_name_id="3" end="151" id="143321_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="143321_2" party1="143321_3" party1_string="STEVENSON" theme_string="STEVENSON v. LEWIS, WARDEN" gram_type="infix" relation_type="asymmetric" id="143321_5" ></RELATION>
+
+<RELATION party2="143321_4" theme="143321_2" theme_string="STEVENSON v. LEWIS, WARDEN" party2_string="LEWIS, WARDEN" gram_type="infix" relation_type="asymmetric" id="143321_6" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 932" X_vs_Y_string="STEVENSON v. LEWIS, WARDEN" standard_case="143321_1" X_vs_Y="143321_2" gram_type="multi_line" relation_type="equivalence" id="143321_10" ></RELATION>
+
+<RELATION at_date_string="March 21, 2005" theme="143321_2" at_date="143321_9" theme_string="STEVENSON v. LEWIS, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="143321_12" ></RELATION>
+
+<RELATION theme="143321_2" includes_docket_string="04-8450" includes_docket="143321_7" theme_string="STEVENSON v. LEWIS, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="143321_11" ></RELATION>
+

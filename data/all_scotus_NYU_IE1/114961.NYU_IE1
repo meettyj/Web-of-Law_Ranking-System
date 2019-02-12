@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['clouisiana#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_963" id1="114963" volume="510" start="0" page_number="963" standard_reporter="U.S." citation_global_level_id="5633.002" line="1" id="114961_1" citation_local_level_id="0" >510 U.S. 963</CITATION>
+
+<CITATION party2="Louisiana" party1="B. C." citation_global_level_id="20598.001" party2_short="Louisiana" line="1" id="114961_3" alternative_keys="['u.s._510_963']" end="35" entry_type="party_key" lookup_key="clouisiana#1" id1="114961" start="17" party1_short="C" citation_local_level_id="1" >B. C. v. Louisiana</CITATION>
+
+<NAME end="22" start="17" party1_of="114961_3" all_names="B C" local_name_id="1" id="114961_4" >B. C.</NAME>
+
+<NAME start="17" local_name_id="1" end="21" id="114961_8" all_names="B C" >B. C</NAME>
+
+<NAME end="35" start="26" all_names="LOUISIANA" party2_of="114961_3" local_name_id="2" id="114961_5" >Louisiana</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="u.s._510_963" id1="114963" start="45" citation_global_level_id="5633.002" line="1" id="114961_2" citation_local_level_id="0" >92-1862</DOCKET>
+
+<DATE start="48" end="52" id="114961_6" >1862</DATE>
+
+<DATE start="94" end="110" id="114961_7" >November 8, 1993</DATE>
+
+<NAME start="195" local_name_id="3" end="205" id="114961_16" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="244" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_610_204" id1="Dummy_File_221307" volume="610" start="230" page_number="204" standard_reporter="SO.2D" citation_global_level_id="285157.001" line="3" id="114961_15" citation_local_level_id="2" >610 So. 2d 204</CITATION>
+
+<RELATION theme="114961_1" includes_docket_string="92-1862" includes_docket="114961_2" theme_string="510 U.S. 963" gram_type="apposition" relation_type="asymmetric" id="114961_13" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 963" X_vs_Y_string="B. C. v. Louisiana" standard_case="114961_1" X_vs_Y="114961_3" gram_type="pre_nom" relation_type="equivalence" id="114961_9" ></RELATION>
+
+<RELATION theme="114961_3" includes_docket_string="92-1862" includes_docket="114961_2" theme_string="B. C. v. Louisiana" gram_type="apposition" relation_type="asymmetric" id="114961_12" ></RELATION>
+
+<RELATION theme="114961_3" party1="114961_4" party1_string="B. C." theme_string="B. C. v. Louisiana" gram_type="infix" relation_type="asymmetric" id="114961_10" ></RELATION>
+
+<RELATION party2="114961_5" theme="114961_3" theme_string="B. C. v. Louisiana" party2_string="Louisiana" gram_type="infix" relation_type="asymmetric" id="114961_11" ></RELATION>
+
+<RELATION at_date_string="1862" theme="114961_2" at_date="114961_6" theme_string="92-1862" gram_type="infix" relation_type="asymmetric" id="114961_14" ></RELATION>
+

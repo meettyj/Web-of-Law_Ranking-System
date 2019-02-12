@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['pharmaceuticalsbroudo#6']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1033" id1="140769" volume="543" start="0" page_number="1033" standard_reporter="U.S." citation_global_level_id="17130.002" line="1" id="140767_1" citation_local_level_id="0" >543 U.S. 1033</CITATION>
+
+<CITATION party2="BROUDO ET AL" party1="DURA PHARMACEUTICALS, INC., ET AL." citation_global_level_id="18975.003" party2_short="BROUDO" line="2" id="140767_2" alternative_keys="['u.s._543_1134']" end="68" entry_type="party_key" lookup_key="pharmaceuticalsbroudo#6" id1="142110" start="18" party1_short="PHARMACEUTICALS" citation_local_level_id="1" >DURA PHARMACEUTICALS, INC., ET AL. v. BROUDO ET AL</CITATION>
+
+<NAME end="52" start="18" party1_of="140767_2" all_names="DURA PHARMACEUTICALS INC" local_name_id="1" id="140767_3" >DURA PHARMACEUTICALS, INC., ET AL.</NAME>
+
+<ORGANIZATION start="18" end="43" id="140767_5" >DURA PHARMACEUTICALS, INC</ORGANIZATION>
+
+<NAME end="68" start="56" all_names="BROUDO" party2_of="140767_2" local_name_id="2" id="140767_4" >BROUDO ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._543_1134']" end="84" entry_type="docket" lookup_key="pharmaceuticalsbroudo#6" id1="142110" start="78" citation_global_level_id="18975.003" line="3" id="140767_8" citation_local_level_id="1" >03-932</DOCKET>
+
+<ORGANIZATION start="90" end="120" id="140767_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="126" citation_global_level_id="18975.003" end="143" id="140767_10" citation_local_level_id="1" >December 13, 2004</DATE>
+
+<NAME start="175" local_name_id="3" end="178" id="140767_15" all_names="CIR" >Cir</NAME>
+
+<CITATION end="214" reporter="U. S." entry_type="standard_key" lookup_key="u.s._542_936" id1="137417" volume="542" start="201" page_number="936" standard_reporter="U.S." citation_global_level_id="9514.002" line="8" id="140767_14" citation_local_level_id="2" >542 U. S. 936</CITATION>
+
+<RELATION theme="140767_2" party1="140767_3" party1_string="DURA PHARMACEUTICALS, INC., ET AL." theme_string="DURA PHARMACEUTICALS, INC., ET AL. v. BROUDO ET AL" gram_type="infix" relation_type="asymmetric" id="140767_6" ></RELATION>
+
+<RELATION party2="140767_4" theme="140767_2" theme_string="DURA PHARMACEUTICALS, INC., ET AL. v. BROUDO ET AL" party2_string="BROUDO ET AL" gram_type="infix" relation_type="asymmetric" id="140767_7" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1033" X_vs_Y_string="DURA PHARMACEUTICALS, INC., ET AL. v. BROUDO ET AL" standard_case="140767_1" X_vs_Y="140767_2" gram_type="multi_line" relation_type="equivalence" id="140767_11" ></RELATION>
+
+<RELATION at_date_string="December 13, 2004" theme="140767_2" at_date="140767_10" theme_string="DURA PHARMACEUTICALS, INC., ET AL. v. BROUDO ET AL" gram_type="multi_line" relation_type="asymmetric" id="140767_13" ></RELATION>
+
+<RELATION theme="140767_2" includes_docket_string="03-932" includes_docket="140767_8" theme_string="DURA PHARMACEUTICALS, INC., ET AL. v. BROUDO ET AL" gram_type="multi_line" relation_type="asymmetric" id="140767_12" ></RELATION>
+

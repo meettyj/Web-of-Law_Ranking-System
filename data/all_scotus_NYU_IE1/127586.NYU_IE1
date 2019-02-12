@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['goldmanstates#3']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1223" id1="127595" volume="537" start="0" page_number="1223" standard_reporter="U.S." citation_global_level_id="3864.002" line="1" id="127586_1" citation_local_level_id="0" >537 U.S. 1223</CITATION>
+
+<CITATION party2="UNITED STATES" party1="GOLDMAN" citation_global_level_id="58394.001" party2_short="STATES" line="1" id="127586_3" alternative_keys="['u.s._537_1223']" end="42" entry_type="party_key" lookup_key="goldmanstates#3" id1="99066" start="18" party1_short="GOLDMAN" citation_local_level_id="1" >GOLDMAN v. UNITED STATES</CITATION>
+
+<NAME end="25" start="18" party1_of="127586_3" all_names="GOLDMAN" local_name_id="1" id="127586_4" >GOLDMAN</NAME>
+
+<NAME end="42" start="29" all_names="UNITED STATES" party2_of="127586_3" local_name_id="2" id="127586_5" >UNITED STATES</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="u.s._537_1223" id1="127595" start="52" citation_global_level_id="3864.002" line="1" id="127586_2" citation_local_level_id="0" >02-8568</DOCKET>
+
+<DATE start="101" end="118" id="127586_6" >February 24, 2003</DATE>
+
+<NAME start="237" local_name_id="3" end="250" id="127586_12" all_names="C A 1ST CIR" >C. A. 1st Cir</NAME>
+
+<NAME start="252" local_name_id="4" end="262" id="127586_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="127586_1" includes_docket_string="02-8568" includes_docket="127586_2" theme_string="537 U.S. 1223" gram_type="apposition" relation_type="asymmetric" id="127586_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1223" X_vs_Y_string="GOLDMAN v. UNITED STATES" standard_case="127586_1" X_vs_Y="127586_3" gram_type="pre_nom" relation_type="equivalence" id="127586_7" ></RELATION>
+
+<RELATION theme="127586_3" includes_docket_string="02-8568" includes_docket="127586_2" theme_string="GOLDMAN v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="127586_10" ></RELATION>
+
+<RELATION theme="127586_3" party1="127586_4" party1_string="GOLDMAN" theme_string="GOLDMAN v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="127586_8" ></RELATION>
+
+<RELATION party2="127586_5" theme="127586_3" theme_string="GOLDMAN v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="127586_9" ></RELATION>
+

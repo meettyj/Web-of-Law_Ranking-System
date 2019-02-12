@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['medinaflorida#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_906" id1="130228" volume="539" start="0" page_number="906" standard_reporter="U.S." citation_global_level_id="3128.002" line="1" id="130226_1" citation_local_level_id="0" >539 U.S. 906</CITATION>
+
+<CITATION party2="Florida" party1="Medina" citation_global_level_id="63849.001" party2_short="Florida" line="1" id="130226_3" alternative_keys="['u.s._539_906']" end="34" entry_type="party_key" lookup_key="medinaflorida#1" id1="130226" start="17" party1_short="Medina" citation_local_level_id="1" >Medina v. Florida</CITATION>
+
+<NAME end="23" start="17" party1_of="130226_3" all_names="MEDINA" local_name_id="1" id="130226_4" >Medina</NAME>
+
+<NAME end="34" start="27" all_names="FLORIDA" party2_of="130226_3" local_name_id="2" id="130226_5" >Florida</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="u.s._539_906" id1="130228" start="44" citation_global_level_id="3128.002" line="1" id="130226_2" citation_local_level_id="0" >02-9882</DOCKET>
+
+<DATE start="93" end="105" id="130226_6" >June 2, 2003</DATE>
+
+<NAME start="198" local_name_id="3" end="208" id="130226_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="247" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_834_176" id1="Dummy_File_140394" volume="834" start="233" page_number="176" standard_reporter="SO.2D" citation_global_level_id="204244.001" line="3" id="130226_12" citation_local_level_id="2" >834 So. 2d 176</CITATION>
+
+<RELATION theme="130226_1" includes_docket_string="02-9882" includes_docket="130226_2" theme_string="539 U.S. 906" gram_type="apposition" relation_type="asymmetric" id="130226_11" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 906" X_vs_Y_string="Medina v. Florida" standard_case="130226_1" X_vs_Y="130226_3" gram_type="pre_nom" relation_type="equivalence" id="130226_7" ></RELATION>
+
+<RELATION theme="130226_3" includes_docket_string="02-9882" includes_docket="130226_2" theme_string="Medina v. Florida" gram_type="apposition" relation_type="asymmetric" id="130226_10" ></RELATION>
+
+<RELATION theme="130226_3" party1="130226_4" party1_string="Medina" theme_string="Medina v. Florida" gram_type="infix" relation_type="asymmetric" id="130226_8" ></RELATION>
+
+<RELATION party2="130226_5" theme="130226_3" theme_string="Medina v. Florida" party2_string="Florida" gram_type="infix" relation_type="asymmetric" id="130226_9" ></RELATION>
+

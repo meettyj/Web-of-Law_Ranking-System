@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['williamsinstitution#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1082" id1="120647" volume="535" start="0" page_number="1082" standard_reporter="U.S." citation_global_level_id="5768.002" line="1" id="120647_1" citation_local_level_id="0" >535 U.S. 1082</CITATION>
+
+<CITATION party2="BELL, CORRECTIONAL ADMINISTRATOR I, PENDER CORRECTIONAL INSTITUTION" party1="WILLIAMS" citation_global_level_id="5768.003" party2_short="INSTITUTION" line="2" id="120647_2" alternative_keys="['u.s._535_1082']" end="97" entry_type="party_key" lookup_key="williamsinstitution#1" id1="120647" start="18" party1_short="WILLIAMS" citation_local_level_id="1" >WILLIAMS v. BELL, CORRECTIONAL ADMINISTRATOR I, PENDER CORRECTIONAL INSTITUTION</CITATION>
+
+<NAME end="26" start="18" party1_of="120647_2" all_names="WILLIAMS" local_name_id="1" id="120647_3" >WILLIAMS</NAME>
+
+<NAME end="97" start="30" all_names="BELL CORRECTIONAL ADMINISTRATOR I PENDER CORRECTIONAL INSTITUTION" party2_of="120647_2" local_name_id="2" id="120647_4" >BELL, CORRECTIONAL ADMINISTRATOR I, PENDER CORRECTIONAL INSTITUTION</NAME>
+
+<DOCKET alternative_keys="['u.s._535_1082']" end="114" entry_type="docket" lookup_key="williamsinstitution#1" id1="120647" start="107" citation_global_level_id="5768.003" line="3" id="120647_7" citation_local_level_id="1" >01-9040</DOCKET>
+
+<DATE start="160" citation_global_level_id="5768.003" end="172" id="120647_8" citation_local_level_id="1" >May 20, 2002</DATE>
+
+<NAME start="204" local_name_id="3" end="207" id="120647_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="120647_2" party1="120647_3" party1_string="WILLIAMS" theme_string="WILLIAMS v. BELL, CORRECTIONAL ADMINISTRATOR I, PENDER CORRECTIONAL INSTITUTION" gram_type="infix" relation_type="asymmetric" id="120647_5" ></RELATION>
+
+<RELATION party2="120647_4" theme="120647_2" theme_string="WILLIAMS v. BELL, CORRECTIONAL ADMINISTRATOR I, PENDER CORRECTIONAL INSTITUTION" party2_string="BELL, CORRECTIONAL ADMINISTRATOR I, PENDER CORRECTIONAL INSTITUTION" gram_type="infix" relation_type="asymmetric" id="120647_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1082" X_vs_Y_string="WILLIAMS v. BELL, CORRECTIONAL ADMINISTRATOR I, PENDER CORRECTIONAL INSTITUTION" standard_case="120647_1" X_vs_Y="120647_2" gram_type="multi_line" relation_type="equivalence" id="120647_9" ></RELATION>
+
+<RELATION at_date_string="May 20, 2002" theme="120647_2" at_date="120647_8" theme_string="WILLIAMS v. BELL, CORRECTIONAL ADMINISTRATOR I, PENDER CORRECTIONAL INSTITUTION" gram_type="multi_line" relation_type="asymmetric" id="120647_11" ></RELATION>
+
+<RELATION theme="120647_2" includes_docket_string="01-9040" includes_docket="120647_7" theme_string="WILLIAMS v. BELL, CORRECTIONAL ADMINISTRATOR I, PENDER CORRECTIONAL INSTITUTION" gram_type="multi_line" relation_type="asymmetric" id="120647_10" ></RELATION>
+

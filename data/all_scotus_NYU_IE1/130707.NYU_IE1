@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['luthercourt#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_945" id1="130704" volume="539" start="0" page_number="945" standard_reporter="U.S." citation_global_level_id="5223.002" line="1" id="130707_1" citation_local_level_id="0" >539 U.S. 945</CITATION>
+
+<CITATION party2="Superior Court of California, Los Angeles County" party1="Luther" citation_global_level_id="5223.005" party2_short="Court" line="1" id="130707_3" alternative_keys="['u.s._539_945']" end="75" entry_type="party_key" lookup_key="luthercourt#2" id1="130704" start="17" party1_short="Luther" citation_local_level_id="1" >Luther v. Superior Court of California, Los Angeles County</CITATION>
+
+<NAME end="23" start="17" party1_of="130707_3" all_names="LUTHER" local_name_id="1" id="130707_4" >Luther</NAME>
+
+<NAME end="75" start="27" all_names="SUPERIOR COURT OF CALIFORNIA LOS ANGELES COUNTY" party2_of="130707_3" local_name_id="2" id="130707_5" >Superior Court of California, Los Angeles County</NAME>
+
+<DOCKET end="93" entry_type="docket" lookup_key="u.s._539_945" id1="130704" start="85" citation_global_level_id="5223.002" line="1" id="130707_2" citation_local_level_id="0" >02-10176</DOCKET>
+
+<DATE start="135" end="148" id="130707_6" >June 23, 2003</DATE>
+
+<NAME start="240" local_name_id="3" end="250" id="130707_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="130707_1" includes_docket_string="02-10176" includes_docket="130707_2" theme_string="539 U.S. 945" gram_type="apposition" relation_type="asymmetric" id="130707_11" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 945" X_vs_Y_string="Luther v. Superior Court of California, Los Angeles County" standard_case="130707_1" X_vs_Y="130707_3" gram_type="pre_nom" relation_type="equivalence" id="130707_7" ></RELATION>
+
+<RELATION theme="130707_3" includes_docket_string="02-10176" includes_docket="130707_2" theme_string="Luther v. Superior Court of California, Los Angeles County" gram_type="apposition" relation_type="asymmetric" id="130707_10" ></RELATION>
+
+<RELATION theme="130707_3" party1="130707_4" party1_string="Luther" theme_string="Luther v. Superior Court of California, Los Angeles County" gram_type="infix" relation_type="asymmetric" id="130707_8" ></RELATION>
+
+<RELATION party2="130707_5" theme="130707_3" theme_string="Luther v. Superior Court of California, Los Angeles County" party2_string="Superior Court of California, Los Angeles County" gram_type="infix" relation_type="asymmetric" id="130707_9" ></RELATION>
+

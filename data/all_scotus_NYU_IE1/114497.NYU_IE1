@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['happflorida#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_925" id1="114494" volume="510" start="0" page_number="925" standard_reporter="U.S." citation_global_level_id="920.002" line="1" id="114497_1" citation_local_level_id="0" >510 U.S. 925</CITATION>
+
+<CITATION party2="Florida" party1="Happ" citation_global_level_id="46871.001" party2_short="Florida" line="1" id="114497_3" alternative_keys="['u.s._510_925']" end="32" entry_type="party_key" lookup_key="happflorida#1" id1="114497" start="17" party1_short="Happ" citation_local_level_id="1" >Happ v. Florida</CITATION>
+
+<NAME end="21" start="17" party1_of="114497_3" all_names="HAPP" local_name_id="1" id="114497_4" >Happ</NAME>
+
+<NAME end="32" start="25" all_names="FLORIDA" party2_of="114497_3" local_name_id="2" id="114497_5" >Florida</NAME>
+
+<DOCKET end="49" entry_type="docket" lookup_key="u.s._510_925" id1="114494" start="42" citation_global_level_id="920.002" line="1" id="114497_2" citation_local_level_id="0" >93-5789</DOCKET>
+
+<DATE start="91" end="107" id="114497_6" >October 12, 1993</DATE>
+
+<NAME start="184" local_name_id="3" end="194" id="114497_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="233" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_618_205" id1="Dummy_File_172924" volume="618" start="219" page_number="205" standard_reporter="SO.2D" citation_global_level_id="236774.001" line="3" id="114497_12" citation_local_level_id="2" >618 So. 2d 205</CITATION>
+
+<RELATION theme="114497_1" includes_docket_string="93-5789" includes_docket="114497_2" theme_string="510 U.S. 925" gram_type="apposition" relation_type="asymmetric" id="114497_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 925" X_vs_Y_string="Happ v. Florida" standard_case="114497_1" X_vs_Y="114497_3" gram_type="pre_nom" relation_type="equivalence" id="114497_7" ></RELATION>
+
+<RELATION theme="114497_3" includes_docket_string="93-5789" includes_docket="114497_2" theme_string="Happ v. Florida" gram_type="apposition" relation_type="asymmetric" id="114497_10" ></RELATION>
+
+<RELATION theme="114497_3" party1="114497_4" party1_string="Happ" theme_string="Happ v. Florida" gram_type="infix" relation_type="asymmetric" id="114497_8" ></RELATION>
+
+<RELATION party2="114497_5" theme="114497_3" theme_string="Happ v. Florida" party2_string="Florida" gram_type="infix" relation_type="asymmetric" id="114497_9" ></RELATION>
+

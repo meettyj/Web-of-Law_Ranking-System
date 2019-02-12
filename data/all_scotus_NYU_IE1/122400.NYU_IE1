@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['countybrewster#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_814" id1="122396" volume="537" start="0" page_number="814" standard_reporter="U.S." citation_global_level_id="6145.002" line="1" id="122400_1" citation_local_level_id="0" >537 U.S. 814</CITATION>
+
+<CITATION party2="BREWSTER" party1="SHASTA COUNTY ET AL." citation_global_level_id="37751.001" party2_short="BREWSTER" line="1" id="122400_3" alternative_keys="['u.s._537_814']" end="49" entry_type="party_key" lookup_key="countybrewster#1" id1="122400" start="17" party1_short="COUNTY" citation_local_level_id="1" >SHASTA COUNTY ET AL. v. BREWSTER</CITATION>
+
+<NAME end="37" start="17" party1_of="122400_3" all_names="SHASTA COUNTY" local_name_id="1" id="122400_4" >SHASTA COUNTY ET AL.</NAME>
+
+<NAME start="17" local_name_id="1" end="36" id="122400_7" all_names="SHASTA COUNTY" >SHASTA COUNTY ET AL</NAME>
+
+<NAME end="49" start="41" all_names="BREWSTER" party2_of="122400_3" local_name_id="2" id="122400_5" >BREWSTER</NAME>
+
+<DOCKET end="66" entry_type="docket" lookup_key="u.s._537_814" id1="122396" start="59" citation_global_level_id="6145.002" line="1" id="122400_2" citation_local_level_id="0" >01-1640</DOCKET>
+
+<DATE start="108" end="123" id="122400_6" >October 7, 2002</DATE>
+
+<NAME start="252" local_name_id="3" end="255" id="122400_14" all_names="CIR" >Cir</NAME>
+
+<CITATION end="305" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_275_803" id1="Dummy_File_141818" volume="275" start="292" page_number="803" standard_reporter="F.3D" citation_global_level_id="205668.001" line="3" id="122400_13" citation_local_level_id="2" >275 F. 3d 803</CITATION>
+
+<RELATION theme="122400_1" includes_docket_string="01-1640" includes_docket="122400_2" theme_string="537 U.S. 814" gram_type="apposition" relation_type="asymmetric" id="122400_12" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 814" X_vs_Y_string="SHASTA COUNTY ET AL. v. BREWSTER" standard_case="122400_1" X_vs_Y="122400_3" gram_type="pre_nom" relation_type="equivalence" id="122400_8" ></RELATION>
+
+<RELATION theme="122400_3" includes_docket_string="01-1640" includes_docket="122400_2" theme_string="SHASTA COUNTY ET AL. v. BREWSTER" gram_type="apposition" relation_type="asymmetric" id="122400_11" ></RELATION>
+
+<RELATION party2="122400_5" theme="122400_3" theme_string="SHASTA COUNTY ET AL. v. BREWSTER" party2_string="BREWSTER" gram_type="infix" relation_type="asymmetric" id="122400_10" ></RELATION>
+
+<RELATION theme="122400_3" party1="122400_4" party1_string="SHASTA COUNTY ET AL." theme_string="SHASTA COUNTY ET AL. v. BREWSTER" gram_type="infix" relation_type="asymmetric" id="122400_9" ></RELATION>
+

@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['prevattecarolina#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_986" id1="129009" volume="538" start="0" page_number="986" standard_reporter="U.S." citation_global_level_id="2474.002" line="1" id="129000_1" citation_local_level_id="0" >538 U.S. 986</CITATION>
+
+<CITATION party2="NORTH CAROLINA" party1="PREVATTE" citation_global_level_id="39578.001" party2_short="CAROLINA" line="1" id="129000_3" alternative_keys="['u.s._538_986']" end="43" entry_type="party_key" lookup_key="prevattecarolina#1" id1="129000" start="17" party1_short="PREVATTE" citation_local_level_id="1" >PREVATTE v. NORTH CAROLINA</CITATION>
+
+<NAME end="25" start="17" party1_of="129000_3" all_names="PREVATTE" local_name_id="1" id="129000_4" >PREVATTE</NAME>
+
+<NAME end="43" start="29" all_names="NORTH CAROLINA" party2_of="129000_3" local_name_id="2" id="129000_5" >NORTH CAROLINA</NAME>
+
+<DOCKET end="60" entry_type="docket" lookup_key="u.s._538_986" id1="129009" start="53" citation_global_level_id="2474.002" line="1" id="129000_2" citation_local_level_id="0" >02-9169</DOCKET>
+
+<DATE start="102" end="116" id="129000_6" >April 21, 2003</DATE>
+
+<NAME start="214" local_name_id="3" end="217" id="129000_14" all_names="SUP" >Sup</NAME>
+
+<CITATION end="277" reporter="N. C." entry_type="standard_key" no_current_file="True" lookup_key="n.c._356_178" id1="Dummy_File_113975" volume="356" start="264" page_number="178" standard_reporter="N.C." citation_global_level_id="177825.001" line="3" id="129000_12" citation_local_level_id="2" >356 N. C. 178</CITATION>
+
+<CITATION end="295" reporter="S. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="s.e.2d_570_440" id1="Dummy_File_113976" volume="570" start="279" page_number="440" standard_reporter="S.E.2D" citation_global_level_id="177826.001" line="3" id="129000_13" citation_local_level_id="3" >570 S. E. 2d 440</CITATION>
+
+<RELATION theme="129000_1" includes_docket_string="02-9169" includes_docket="129000_2" theme_string="538 U.S. 986" gram_type="apposition" relation_type="asymmetric" id="129000_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 986" X_vs_Y_string="PREVATTE v. NORTH CAROLINA" standard_case="129000_1" X_vs_Y="129000_3" gram_type="pre_nom" relation_type="equivalence" id="129000_7" ></RELATION>
+
+<RELATION theme="129000_3" includes_docket_string="02-9169" includes_docket="129000_2" theme_string="PREVATTE v. NORTH CAROLINA" gram_type="apposition" relation_type="asymmetric" id="129000_10" ></RELATION>
+
+<RELATION theme="129000_3" party1="129000_4" party1_string="PREVATTE" theme_string="PREVATTE v. NORTH CAROLINA" gram_type="infix" relation_type="asymmetric" id="129000_8" ></RELATION>
+
+<RELATION party2="129000_5" theme="129000_3" theme_string="PREVATTE v. NORTH CAROLINA" party2_string="NORTH CAROLINA" gram_type="infix" relation_type="asymmetric" id="129000_9" ></RELATION>
+

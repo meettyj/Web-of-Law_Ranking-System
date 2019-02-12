@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['barajasfacility#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1040" id1="120174" volume="535" start="0" page_number="1040" standard_reporter="U.S." citation_global_level_id="11544.002" line="1" id="120179_1" citation_local_level_id="0" >535 U.S. 1040</CITATION>
+
+<CITATION party2="MILLER, SUPERINTENDENT, PENDLETON CORRECTIONAL FACILITY" party1="BARAJAS" citation_global_level_id="11544.005" party2_short="FACILITY" line="2" id="120179_2" alternative_keys="['u.s._535_1040']" end="84" entry_type="party_key" lookup_key="barajasfacility#1" id1="120174" start="18" party1_short="BARAJAS" citation_local_level_id="1" >BARAJAS v. MILLER, SUPERINTENDENT, PENDLETON CORRECTIONAL FACILITY</CITATION>
+
+<NAME end="25" start="18" party1_of="120179_2" all_names="BARAJAS" local_name_id="1" id="120179_3" >BARAJAS</NAME>
+
+<NAME end="84" start="29" all_names="MILLER SUPERINTENDENT PENDLETON CORRECTIONAL FACILITY" party2_of="120179_2" local_name_id="2" id="120179_4" >MILLER, SUPERINTENDENT, PENDLETON CORRECTIONAL FACILITY</NAME>
+
+<DOCKET alternative_keys="['u.s._535_1040']" end="101" entry_type="docket" lookup_key="barajasfacility#1" id1="120174" start="94" citation_global_level_id="11544.005" line="3" id="120179_7" citation_local_level_id="1" >01-8888</DOCKET>
+
+<DATE start="147" citation_global_level_id="11544.005" end="161" id="120179_8" citation_local_level_id="1" >April 29, 2002</DATE>
+
+<NAME start="193" local_name_id="3" end="196" id="120179_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="120179_2" party1="120179_3" party1_string="BARAJAS" theme_string="BARAJAS v. MILLER, SUPERINTENDENT, PENDLETON CORRECTIONAL FACILITY" gram_type="infix" relation_type="asymmetric" id="120179_5" ></RELATION>
+
+<RELATION party2="120179_4" theme="120179_2" theme_string="BARAJAS v. MILLER, SUPERINTENDENT, PENDLETON CORRECTIONAL FACILITY" party2_string="MILLER, SUPERINTENDENT, PENDLETON CORRECTIONAL FACILITY" gram_type="infix" relation_type="asymmetric" id="120179_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1040" X_vs_Y_string="BARAJAS v. MILLER, SUPERINTENDENT, PENDLETON CORRECTIONAL FACILITY" standard_case="120179_1" X_vs_Y="120179_2" gram_type="multi_line" relation_type="equivalence" id="120179_9" ></RELATION>
+
+<RELATION at_date_string="April 29, 2002" theme="120179_2" at_date="120179_8" theme_string="BARAJAS v. MILLER, SUPERINTENDENT, PENDLETON CORRECTIONAL FACILITY" gram_type="multi_line" relation_type="asymmetric" id="120179_11" ></RELATION>
+
+<RELATION theme="120179_2" includes_docket_string="01-8888" includes_docket="120179_7" theme_string="BARAJAS v. MILLER, SUPERINTENDENT, PENDLETON CORRECTIONAL FACILITY" gram_type="multi_line" relation_type="asymmetric" id="120179_10" ></RELATION>
+

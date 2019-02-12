@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['cardinemcanulty#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1097" id1="116621" volume="510" start="0" page_number="1097" standard_reporter="U.S." citation_global_level_id="4576.002" line="1" id="116624_1" citation_local_level_id="0" >510 U.S. 1097</CITATION>
+
+<CITATION party2="McAnulty et al" party1="Cardine" citation_global_level_id="11259.001" party2_short="McAnulty" line="1" id="116624_3" alternative_keys="['u.s._510_1097']" end="43" entry_type="party_key" lookup_key="cardinemcanulty#1" id1="116624" start="18" party1_short="Cardine" citation_local_level_id="1" >Cardine v. McAnulty et al</CITATION>
+
+<NAME end="25" start="18" party1_of="116624_3" all_names="CARDINE" local_name_id="1" id="116624_4" >Cardine</NAME>
+
+<NAME end="43" start="29" all_names="MCANULTY" party2_of="116624_3" local_name_id="2" id="116624_5" >McAnulty et al</NAME>
+
+<DOCKET end="60" entry_type="docket" lookup_key="u.s._510_1097" id1="116621" start="53" citation_global_level_id="4576.002" line="1" id="116624_2" citation_local_level_id="0" >93-6971</DOCKET>
+
+<DATE start="102" end="118" id="116624_6" >January 24, 1994</DATE>
+
+<NAME start="196" local_name_id="3" end="206" id="116624_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="116624_1" includes_docket_string="93-6971" includes_docket="116624_2" theme_string="510 U.S. 1097" gram_type="apposition" relation_type="asymmetric" id="116624_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1097" X_vs_Y_string="Cardine v. McAnulty et al" standard_case="116624_1" X_vs_Y="116624_3" gram_type="pre_nom" relation_type="equivalence" id="116624_7" ></RELATION>
+
+<RELATION theme="116624_3" includes_docket_string="93-6971" includes_docket="116624_2" theme_string="Cardine v. McAnulty et al" gram_type="apposition" relation_type="asymmetric" id="116624_10" ></RELATION>
+
+<RELATION theme="116624_3" party1="116624_4" party1_string="Cardine" theme_string="Cardine v. McAnulty et al" gram_type="infix" relation_type="asymmetric" id="116624_8" ></RELATION>
+
+<RELATION party2="116624_5" theme="116624_3" theme_string="Cardine v. McAnulty et al" party2_string="McAnulty et al" gram_type="infix" relation_type="asymmetric" id="116624_9" ></RELATION>
+

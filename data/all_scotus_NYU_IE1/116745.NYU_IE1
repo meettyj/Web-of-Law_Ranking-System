@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['krcagency#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1109" id1="116742" volume="510" start="0" page_number="1109" standard_reporter="U.S." citation_global_level_id="32.002" line="1" id="116745_1" citation_local_level_id="0" >510 U.S. 1109</CITATION>
+
+<CITATION party2="United States Information Agency" party1="KRC" citation_global_level_id="59044.001" party2_short="Agency" line="1" id="116745_3" alternative_keys="['u.s._510_1109']" end="57" entry_type="party_key" lookup_key="krcagency#1" id1="116745" start="18" party1_short="KRC" citation_local_level_id="1" >KRC v. United States Information Agency</CITATION>
+
+<NAME end="21" start="18" party1_of="116745_3" all_names="KRC" local_name_id="1" id="116745_4" >KRC</NAME>
+
+<NAME end="57" start="25" all_names="UNITED STATES INFORMATION AGENCY" party2_of="116745_3" local_name_id="2" id="116745_5" >United States Information Agency</NAME>
+
+<DOCKET end="73" entry_type="docket" lookup_key="u.s._510_1109" id1="116742" start="67" citation_global_level_id="32.002" line="1" id="116745_2" citation_local_level_id="0" >93-599</DOCKET>
+
+<DATE start="115" end="132" id="116745_6" >February 22, 1994</DATE>
+
+<NAME start="212" local_name_id="3" end="222" id="116745_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="261" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_989_1211" id1="Dummy_File_59887" volume="989" start="247" page_number="1211" standard_reporter="F.2D" citation_global_level_id="123737.001" line="3" id="116745_12" citation_local_level_id="2" >989 F. 2d 1211</CITATION>
+
+<RELATION theme="116745_1" includes_docket_string="93-599" includes_docket="116745_2" theme_string="510 U.S. 1109" gram_type="apposition" relation_type="asymmetric" id="116745_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1109" X_vs_Y_string="KRC v. United States Information Agency" standard_case="116745_1" X_vs_Y="116745_3" gram_type="pre_nom" relation_type="equivalence" id="116745_7" ></RELATION>
+
+<RELATION theme="116745_3" includes_docket_string="93-599" includes_docket="116745_2" theme_string="KRC v. United States Information Agency" gram_type="apposition" relation_type="asymmetric" id="116745_10" ></RELATION>
+
+<RELATION theme="116745_3" party1="116745_4" party1_string="KRC" theme_string="KRC v. United States Information Agency" gram_type="infix" relation_type="asymmetric" id="116745_8" ></RELATION>
+
+<RELATION party2="116745_5" theme="116745_3" theme_string="KRC v. United States Information Agency" party2_string="United States Information Agency" gram_type="infix" relation_type="asymmetric" id="116745_9" ></RELATION>
+

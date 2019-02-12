@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['samuelwisconsin#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1018" id1="125002" volume="537" start="0" page_number="1018" standard_reporter="U.S." citation_global_level_id="791.002" line="1" id="124994_1" citation_local_level_id="0" >537 U.S. 1018</CITATION>
+
+<CITATION party2="WISCONSIN" party1="SAMUEL" citation_global_level_id="26358.001" party2_short="WISCONSIN" line="1" id="124994_3" alternative_keys="['u.s._537_1018']" end="37" entry_type="party_key" lookup_key="samuelwisconsin#1" id1="124994" start="18" party1_short="SAMUEL" citation_local_level_id="1" >SAMUEL v. WISCONSIN</CITATION>
+
+<NAME end="24" start="18" party1_of="124994_3" all_names="SAMUEL" local_name_id="1" id="124994_4" >SAMUEL</NAME>
+
+<NAME end="37" start="28" all_names="WISCONSIN" party2_of="124994_3" local_name_id="2" id="124994_5" >WISCONSIN</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="u.s._537_1018" id1="125002" start="47" citation_global_level_id="791.002" line="1" id="124994_2" citation_local_level_id="0" >02-139</DOCKET>
+
+<DATE start="95" end="112" id="124994_6" >November 12, 2002</DATE>
+
+<NAME start="205" local_name_id="3" end="208" id="124994_13" all_names="SUP" >Sup</NAME>
+
+<CITATION end="286" reporter="N. W. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.w.2d_643_423" id1="Dummy_File_202777" volume="643" start="270" page_number="423" standard_reporter="N.W.2D" citation_global_level_id="266627.001" line="3" id="124994_12" citation_local_level_id="2" >643 N. W. 2d 423</CITATION>
+
+<RELATION theme="124994_1" includes_docket_string="02-139" includes_docket="124994_2" theme_string="537 U.S. 1018" gram_type="apposition" relation_type="asymmetric" id="124994_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1018" X_vs_Y_string="SAMUEL v. WISCONSIN" standard_case="124994_1" X_vs_Y="124994_3" gram_type="pre_nom" relation_type="equivalence" id="124994_7" ></RELATION>
+
+<RELATION theme="124994_3" includes_docket_string="02-139" includes_docket="124994_2" theme_string="SAMUEL v. WISCONSIN" gram_type="apposition" relation_type="asymmetric" id="124994_10" ></RELATION>
+
+<RELATION theme="124994_3" party1="124994_4" party1_string="SAMUEL" theme_string="SAMUEL v. WISCONSIN" gram_type="infix" relation_type="asymmetric" id="124994_8" ></RELATION>
+
+<RELATION party2="124994_5" theme="124994_3" theme_string="SAMUEL v. WISCONSIN" party2_string="WISCONSIN" gram_type="infix" relation_type="asymmetric" id="124994_9" ></RELATION>
+

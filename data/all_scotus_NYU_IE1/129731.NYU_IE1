@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['henriqueztexas#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1041" id1="129732" volume="538" start="0" page_number="1041" standard_reporter="U.S." citation_global_level_id="1818.002" line="1" id="129731_1" citation_local_level_id="0" >538 U.S. 1041</CITATION>
+
+<CITATION party2="TEXAS" party1="HENRIQUEZ" citation_global_level_id="51665.001" party2_short="TEXAS" line="1" id="129731_3" alternative_keys="['u.s._538_1041']" end="36" entry_type="party_key" lookup_key="henriqueztexas#1" id1="129731" start="18" party1_short="HENRIQUEZ" citation_local_level_id="1" >HENRIQUEZ v. TEXAS</CITATION>
+
+<NAME end="27" start="18" party1_of="129731_3" all_names="HENRIQUEZ" local_name_id="1" id="129731_4" >HENRIQUEZ</NAME>
+
+<NAME end="36" start="31" all_names="TEXAS" party2_of="129731_3" local_name_id="2" id="129731_5" >TEXAS</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="u.s._538_1041" id1="129732" start="46" citation_global_level_id="1818.002" line="1" id="129731_2" citation_local_level_id="0" >02-9679</DOCKET>
+
+<DATE start="95" end="107" id="129731_6" >May 19, 2003</DATE>
+
+<NAME start="224" local_name_id="3" end="226" id="129731_12" all_names="CT" >Ct</NAME>
+
+<RELATION theme="129731_1" includes_docket_string="02-9679" includes_docket="129731_2" theme_string="538 U.S. 1041" gram_type="apposition" relation_type="asymmetric" id="129731_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1041" X_vs_Y_string="HENRIQUEZ v. TEXAS" standard_case="129731_1" X_vs_Y="129731_3" gram_type="pre_nom" relation_type="equivalence" id="129731_7" ></RELATION>
+
+<RELATION theme="129731_3" includes_docket_string="02-9679" includes_docket="129731_2" theme_string="HENRIQUEZ v. TEXAS" gram_type="apposition" relation_type="asymmetric" id="129731_10" ></RELATION>
+
+<RELATION theme="129731_3" party1="129731_4" party1_string="HENRIQUEZ" theme_string="HENRIQUEZ v. TEXAS" gram_type="infix" relation_type="asymmetric" id="129731_8" ></RELATION>
+
+<RELATION party2="129731_5" theme="129731_3" theme_string="HENRIQUEZ v. TEXAS" party2_string="TEXAS" gram_type="infix" relation_type="asymmetric" id="129731_9" ></RELATION>
+

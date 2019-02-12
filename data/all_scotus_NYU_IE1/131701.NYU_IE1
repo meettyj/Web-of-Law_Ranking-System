@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['adamsgarcia#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_843" id1="131694" volume="540" start="0" page_number="843" standard_reporter="U.S." citation_global_level_id="562.002" line="1" id="131701_1" citation_local_level_id="0" >540 U.S. 843</CITATION>
+
+<CITATION party2="GARCIA, WARDEN, ET AL" party1="ADAMS" citation_global_level_id="562.006" party2_short="GARCIA" line="1" id="131701_3" alternative_keys="['u.s._540_843']" end="47" entry_type="party_key" lookup_key="adamsgarcia#1" id1="131694" start="17" party1_short="ADAMS" citation_local_level_id="1" >ADAMS v. GARCIA, WARDEN, ET AL</CITATION>
+
+<NAME end="22" start="17" party1_of="131701_3" all_names="ADAMS" local_name_id="1" id="131701_4" >ADAMS</NAME>
+
+<NAME end="47" start="26" all_names="GARCIA WARDEN" party2_of="131701_3" local_name_id="2" id="131701_5" >GARCIA, WARDEN, ET AL</NAME>
+
+<DOCKET end="65" entry_type="docket" lookup_key="u.s._540_843" id1="131694" start="57" citation_global_level_id="562.002" line="1" id="131701_2" citation_local_level_id="0" >02-10914</DOCKET>
+
+<DATE start="107" end="122" id="131701_6" >October 6, 2003</DATE>
+
+<NAME start="200" local_name_id="3" end="210" id="131701_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="131701_1" includes_docket_string="02-10914" includes_docket="131701_2" theme_string="540 U.S. 843" gram_type="apposition" relation_type="asymmetric" id="131701_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 843" X_vs_Y_string="ADAMS v. GARCIA, WARDEN, ET AL" standard_case="131701_1" X_vs_Y="131701_3" gram_type="pre_nom" relation_type="equivalence" id="131701_7" ></RELATION>
+
+<RELATION theme="131701_3" includes_docket_string="02-10914" includes_docket="131701_2" theme_string="ADAMS v. GARCIA, WARDEN, ET AL" gram_type="apposition" relation_type="asymmetric" id="131701_10" ></RELATION>
+
+<RELATION theme="131701_3" party1="131701_4" party1_string="ADAMS" theme_string="ADAMS v. GARCIA, WARDEN, ET AL" gram_type="infix" relation_type="asymmetric" id="131701_8" ></RELATION>
+
+<RELATION party2="131701_5" theme="131701_3" theme_string="ADAMS v. GARCIA, WARDEN, ET AL" party2_string="GARCIA, WARDEN, ET AL" gram_type="infix" relation_type="asymmetric" id="131701_9" ></RELATION>
+

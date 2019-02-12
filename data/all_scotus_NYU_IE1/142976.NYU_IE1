@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['jamisoncalifornia#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_907" id1="142989" volume="544" start="0" page_number="907" standard_reporter="U.S." citation_global_level_id="2466.002" line="1" id="142976_1" citation_local_level_id="0" >544 U.S. 907</CITATION>
+
+<CITATION party2="CALIFORNIA" party1="JAMISON" citation_global_level_id="22958.001" party2_short="CALIFORNIA" line="2" id="142976_2" alternative_keys="['u.s._544_907']" end="38" entry_type="party_key" lookup_key="jamisoncalifornia#1" id1="142976" start="17" party1_short="JAMISON" citation_local_level_id="1" >JAMISON v. CALIFORNIA</CITATION>
+
+<NAME end="24" start="17" party1_of="142976_2" all_names="JAMISON" local_name_id="1" id="142976_3" >JAMISON</NAME>
+
+<NAME end="38" start="28" all_names="CALIFORNIA" party2_of="142976_2" local_name_id="2" id="142976_4" >CALIFORNIA</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="jamisoncalifornia#1" id1="142976" start="48" citation_global_level_id="22958.001" line="3" id="142976_7" citation_local_level_id="1" >04-7948</DOCKET>
+
+<ORGANIZATION start="61" end="91" id="142976_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="97" citation_global_level_id="22958.001" end="110" id="142976_9" citation_local_level_id="1" >March 7, 2005</DATE>
+
+<NAME start="132" local_name_id="3" end="134" id="142976_13" all_names="CT" >Ct</NAME>
+
+<RELATION theme="142976_2" party1="142976_3" party1_string="JAMISON" theme_string="JAMISON v. CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="142976_5" ></RELATION>
+
+<RELATION party2="142976_4" theme="142976_2" theme_string="JAMISON v. CALIFORNIA" party2_string="CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="142976_6" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 907" X_vs_Y_string="JAMISON v. CALIFORNIA" standard_case="142976_1" X_vs_Y="142976_2" gram_type="multi_line" relation_type="equivalence" id="142976_10" ></RELATION>
+
+<RELATION at_date_string="March 7, 2005" theme="142976_2" at_date="142976_9" theme_string="JAMISON v. CALIFORNIA" gram_type="multi_line" relation_type="asymmetric" id="142976_12" ></RELATION>
+
+<RELATION theme="142976_2" includes_docket_string="04-7948" includes_docket="142976_7" theme_string="JAMISON v. CALIFORNIA" gram_type="multi_line" relation_type="asymmetric" id="142976_11" ></RELATION>
+

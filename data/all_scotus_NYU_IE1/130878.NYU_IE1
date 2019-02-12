@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['phonometricshotel#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_960" id1="130873" volume="539" start="0" page_number="960" standard_reporter="U.S." citation_global_level_id="1887.002" line="1" id="130878_1" citation_local_level_id="0" >539 U.S. 960</CITATION>
+
+<CITATION party2="Westin Hotel Co" party1="Phonometrics, Inc." citation_global_level_id="13234.001" party2_short="Hotel" line="1" id="130878_3" alternative_keys="['u.s._539_960']" end="54" entry_type="party_key" lookup_key="phonometricshotel#1" id1="130878" start="17" party1_short="Phonometrics" citation_local_level_id="1" >Phonometrics, Inc. v. Westin Hotel Co</CITATION>
+
+<NAME end="35" start="17" party1_of="130878_3" all_names="PHONOMETRICS INC" local_name_id="1" id="130878_4" >Phonometrics, Inc.</NAME>
+
+<ORGANIZATION start="17" end="34" id="130878_7" >Phonometrics, Inc</ORGANIZATION>
+
+<NAME end="54" start="39" all_names="WESTIN HOTEL CO" party2_of="130878_3" local_name_id="2" id="130878_5" >Westin Hotel Co</NAME>
+
+<DOCKET end="71" entry_type="docket" lookup_key="u.s._539_960" id1="130873" start="64" citation_global_level_id="1887.002" line="1" id="130878_2" citation_local_level_id="0" >02-1656</DOCKET>
+
+<DATE start="113" end="126" id="130878_6" >June 27, 2003</DATE>
+
+<NAME start="205" local_name_id="3" end="215" id="130878_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="254" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_319_1328" id1="Dummy_File_76350" volume="319" start="240" page_number="1328" standard_reporter="F.3D" citation_global_level_id="140200.001" line="3" id="130878_13" citation_local_level_id="2" >319 F. 3d 1328</CITATION>
+
+<RELATION theme="130878_1" includes_docket_string="02-1656" includes_docket="130878_2" theme_string="539 U.S. 960" gram_type="apposition" relation_type="asymmetric" id="130878_12" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 960" X_vs_Y_string="Phonometrics, Inc. v. Westin Hotel Co" standard_case="130878_1" X_vs_Y="130878_3" gram_type="pre_nom" relation_type="equivalence" id="130878_8" ></RELATION>
+
+<RELATION theme="130878_3" includes_docket_string="02-1656" includes_docket="130878_2" theme_string="Phonometrics, Inc. v. Westin Hotel Co" gram_type="apposition" relation_type="asymmetric" id="130878_11" ></RELATION>
+
+<RELATION party2="130878_5" theme="130878_3" theme_string="Phonometrics, Inc. v. Westin Hotel Co" party2_string="Westin Hotel Co" gram_type="infix" relation_type="asymmetric" id="130878_10" ></RELATION>
+
+<RELATION theme="130878_3" party1="130878_4" party1_string="Phonometrics, Inc." theme_string="Phonometrics, Inc. v. Westin Hotel Co" gram_type="infix" relation_type="asymmetric" id="130878_9" ></RELATION>
+

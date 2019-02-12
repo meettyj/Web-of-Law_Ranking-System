@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['mayastates#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1145" id1="126668" volume="537" start="0" page_number="1145" standard_reporter="U.S." citation_global_level_id="2805.002" line="1" id="126666_1" citation_local_level_id="0" >537 U.S. 1145</CITATION>
+
+<CITATION party2="UNITED STATES" party1="REYES-MAYA" citation_global_level_id="16127.001" party2_short="STATES" line="1" id="126666_3" alternative_keys="['u.s._537_1145']" end="45" entry_type="party_key" lookup_key="mayastates#1" id1="126666" start="18" party1_short="MAYA" citation_local_level_id="1" >REYES-MAYA v. UNITED STATES</CITATION>
+
+<NAME end="28" start="18" party1_of="126666_3" all_names="REYES-MAYA" local_name_id="1" id="126666_4" >REYES-MAYA</NAME>
+
+<NAME end="45" start="32" all_names="UNITED STATES" party2_of="126666_3" local_name_id="2" id="126666_5" >UNITED STATES</NAME>
+
+<DOCKET end="62" entry_type="docket" lookup_key="u.s._537_1145" id1="126668" start="55" citation_global_level_id="2805.002" line="1" id="126666_2" citation_local_level_id="0" >02-7911</DOCKET>
+
+<DATE start="104" end="120" id="126666_6" >January 13, 2003</DATE>
+
+<NAME start="249" local_name_id="3" end="252" id="126666_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="302" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_305_362" id1="Dummy_File_106591" volume="305" start="289" page_number="362" standard_reporter="F.3D" citation_global_level_id="170441.001" line="3" id="126666_12" citation_local_level_id="2" >305 F. 3d 362</CITATION>
+
+<RELATION theme="126666_1" includes_docket_string="02-7911" includes_docket="126666_2" theme_string="537 U.S. 1145" gram_type="apposition" relation_type="asymmetric" id="126666_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1145" X_vs_Y_string="REYES-MAYA v. UNITED STATES" standard_case="126666_1" X_vs_Y="126666_3" gram_type="pre_nom" relation_type="equivalence" id="126666_7" ></RELATION>
+
+<RELATION theme="126666_3" includes_docket_string="02-7911" includes_docket="126666_2" theme_string="REYES-MAYA v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="126666_10" ></RELATION>
+
+<RELATION theme="126666_3" party1="126666_4" party1_string="REYES-MAYA" theme_string="REYES-MAYA v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="126666_8" ></RELATION>
+
+<RELATION party2="126666_5" theme="126666_3" theme_string="REYES-MAYA v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="126666_9" ></RELATION>
+

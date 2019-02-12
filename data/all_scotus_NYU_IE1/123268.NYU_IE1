@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['steelstates#7']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_880" id1="123263" volume="537" start="0" page_number="880" standard_reporter="U.S." citation_global_level_id="886.002" line="1" id="123268_1" citation_local_level_id="0" >537 U.S. 880</CITATION>
+
+<CITATION party2="UNITED STATES" party1="STEEL" citation_global_level_id="61309.001" party2_short="STATES" line="1" id="123268_3" alternative_keys="['u.s._537_880']" end="39" entry_type="party_key" lookup_key="steelstates#7" id1="101956" start="17" party1_short="STEEL" citation_local_level_id="1" >STEEL v. UNITED STATES</CITATION>
+
+<NAME end="22" start="17" party1_of="123268_3" all_names="STEEL" local_name_id="1" id="123268_4" >STEEL</NAME>
+
+<NAME end="39" start="26" all_names="UNITED STATES" party2_of="123268_3" local_name_id="2" id="123268_5" >UNITED STATES</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="u.s._537_880" id1="123263" start="49" citation_global_level_id="886.002" line="1" id="123268_2" citation_local_level_id="0" >02-37</DOCKET>
+
+<DATE start="96" end="111" id="123268_6" >October 7, 2002</DATE>
+
+<NAME start="239" local_name_id="3" end="242" id="123268_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="292" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_276_582" id1="Dummy_File_79301" volume="276" start="279" page_number="582" standard_reporter="F.3D" citation_global_level_id="143151.001" line="3" id="123268_12" citation_local_level_id="2" >276 F. 3d 582</CITATION>
+
+<RELATION theme="123268_1" includes_docket_string="02-37" includes_docket="123268_2" theme_string="537 U.S. 880" gram_type="apposition" relation_type="asymmetric" id="123268_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 880" X_vs_Y_string="STEEL v. UNITED STATES" standard_case="123268_1" X_vs_Y="123268_3" gram_type="pre_nom" relation_type="equivalence" id="123268_7" ></RELATION>
+
+<RELATION theme="123268_3" includes_docket_string="02-37" includes_docket="123268_2" theme_string="STEEL v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="123268_10" ></RELATION>
+
+<RELATION theme="123268_3" party1="123268_4" party1_string="STEEL" theme_string="STEEL v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="123268_8" ></RELATION>
+
+<RELATION party2="123268_5" theme="123268_3" theme_string="STEEL v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="123268_9" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['murphyohio#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_834" id1="113301" volume="510" start="0" page_number="834" standard_reporter="U.S." citation_global_level_id="2624.002" line="1" id="113304_1" citation_local_level_id="0" >510 U.S. 834</CITATION>
+
+<CITATION party2="Ohio" party1="Murphy" citation_global_level_id="38663.001" party2_short="Ohio" line="1" id="113304_3" alternative_keys="['u.s._510_834']" end="31" entry_type="party_key" lookup_key="murphyohio#1" id1="113304" start="17" party1_short="Murphy" citation_local_level_id="1" >Murphy v. Ohio</CITATION>
+
+<NAME end="23" start="17" party1_of="113304_3" all_names="MURPHY" local_name_id="1" id="113304_4" >Murphy</NAME>
+
+<NAME end="31" start="27" all_names="OHIO" party2_of="113304_3" local_name_id="2" id="113304_5" >Ohio</NAME>
+
+<DOCKET end="48" entry_type="docket" lookup_key="u.s._510_834" id1="113301" start="41" citation_global_level_id="2624.002" line="1" id="113304_2" citation_local_level_id="0" >92-8772</DOCKET>
+
+<DATE start="90" end="105" id="113304_6" >October 4, 1993</DATE>
+
+<NAME start="183" local_name_id="3" end="193" id="113304_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="254" reporter="N. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.e.2d_605_884" id1="Dummy_File_58039" volume="605" start="238" page_number="884" standard_reporter="N.E.2D" citation_global_level_id="121889.001" line="3" id="113304_12" citation_local_level_id="2" >605 N. E. 2d 884</CITATION>
+
+<RELATION theme="113304_1" includes_docket_string="92-8772" includes_docket="113304_2" theme_string="510 U.S. 834" gram_type="apposition" relation_type="asymmetric" id="113304_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 834" X_vs_Y_string="Murphy v. Ohio" standard_case="113304_1" X_vs_Y="113304_3" gram_type="pre_nom" relation_type="equivalence" id="113304_7" ></RELATION>
+
+<RELATION theme="113304_3" includes_docket_string="92-8772" includes_docket="113304_2" theme_string="Murphy v. Ohio" gram_type="apposition" relation_type="asymmetric" id="113304_10" ></RELATION>
+
+<RELATION theme="113304_3" party1="113304_4" party1_string="Murphy" theme_string="Murphy v. Ohio" gram_type="infix" relation_type="asymmetric" id="113304_8" ></RELATION>
+
+<RELATION party2="113304_5" theme="113304_3" theme_string="Murphy v. Ohio" party2_string="Ohio" gram_type="infix" relation_type="asymmetric" id="113304_9" ></RELATION>
+

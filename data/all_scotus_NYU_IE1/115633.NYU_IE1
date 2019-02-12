@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['hawthornecalifornia#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1013" id1="115627" volume="510" start="0" page_number="1013" standard_reporter="U.S." citation_global_level_id="3557.002" line="1" id="115633_1" citation_local_level_id="0" >510 U.S. 1013</CITATION>
+
+<CITATION party2="California" party1="Hawthorne" citation_global_level_id="49043.001" party2_short="California" line="1" id="115633_3" alternative_keys="['u.s._510_1013']" end="41" entry_type="party_key" lookup_key="hawthornecalifornia#1" id1="115633" start="18" party1_short="Hawthorne" citation_local_level_id="1" >Hawthorne v. California</CITATION>
+
+<NAME end="27" start="18" party1_of="115633_3" all_names="HAWTHORNE" local_name_id="1" id="115633_4" >Hawthorne</NAME>
+
+<NAME end="41" start="31" all_names="CALIFORNIA" party2_of="115633_3" local_name_id="2" id="115633_5" >California</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._510_1013" id1="115627" start="51" citation_global_level_id="3557.002" line="1" id="115633_2" citation_local_level_id="0" >93-5019</DOCKET>
+
+<DATE start="100" end="116" id="115633_6" >December 6, 1993</DATE>
+
+<NAME start="193" local_name_id="3" end="203" id="115633_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="256" reporter="P. 2d" entry_type="standard_key" no_current_file="True" lookup_key="p.2d_841_118" id1="Dummy_File_208226" volume="841" start="243" page_number="118" standard_reporter="P.2D" citation_global_level_id="272076.001" line="3" id="115633_12" citation_local_level_id="2" >841 P. 2d 118</CITATION>
+
+<RELATION theme="115633_1" includes_docket_string="93-5019" includes_docket="115633_2" theme_string="510 U.S. 1013" gram_type="apposition" relation_type="asymmetric" id="115633_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1013" X_vs_Y_string="Hawthorne v. California" standard_case="115633_1" X_vs_Y="115633_3" gram_type="pre_nom" relation_type="equivalence" id="115633_7" ></RELATION>
+
+<RELATION theme="115633_3" includes_docket_string="93-5019" includes_docket="115633_2" theme_string="Hawthorne v. California" gram_type="apposition" relation_type="asymmetric" id="115633_10" ></RELATION>
+
+<RELATION theme="115633_3" party1="115633_4" party1_string="Hawthorne" theme_string="Hawthorne v. California" gram_type="infix" relation_type="asymmetric" id="115633_8" ></RELATION>
+
+<RELATION party2="115633_5" theme="115633_3" theme_string="Hawthorne v. California" party2_string="California" gram_type="infix" relation_type="asymmetric" id="115633_9" ></RELATION>
+

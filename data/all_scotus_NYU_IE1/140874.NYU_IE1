@@ -1,0 +1,44 @@
+<CITATION alternative_keys="['ozmintnance#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1043" id1="140875" volume="543" start="0" page_number="1043" standard_reporter="U.S." citation_global_level_id="7776.002" line="1" id="140874_1" citation_local_level_id="0" >543 U.S. 1043</CITATION>
+
+<CITATION party2="NANCE" party1="OZMINT, DIRECTOR, SOUTH CAROLINA DEPARTMENT OF CORRECTIONS" citation_global_level_id="7776.005" party2_short="NANCE" line="2" id="140874_2" alternative_keys="['u.s._543_1043']" end="85" entry_type="party_key" lookup_key="ozmintnance#1" id1="140875" start="18" party1_short="OZMINT" citation_local_level_id="1" >OZMINT, DIRECTOR, SOUTH CAROLINA DEPARTMENT OF CORRECTIONS v. NANCE</CITATION>
+
+<NAME end="76" start="18" party1_of="140874_2" all_names="OZMINT DIRECTOR SOUTH CAROLINA DEPARTMENT OF CORRECTIONS" local_name_id="1" id="140874_3" >OZMINT, DIRECTOR, SOUTH CAROLINA DEPARTMENT OF CORRECTIONS</NAME>
+
+<PROFESSION start="26" end="34" id="140874_5" >DIRECTOR</PROFESSION>
+
+<ORGANIZATION start="42" end="76" id="140874_6" >CAROLINA DEPARTMENT OF CORRECTIONS</ORGANIZATION>
+
+<NAME end="85" start="80" all_names="NANCE" party2_of="140874_2" local_name_id="2" id="140874_4" >NANCE</NAME>
+
+<DOCKET alternative_keys="['u.s._543_1043']" end="101" entry_type="docket" lookup_key="ozmintnance#1" id1="140875" start="95" citation_global_level_id="7776.005" line="3" id="140874_9" citation_local_level_id="1" >04-273</DOCKET>
+
+<ORGANIZATION start="107" end="137" id="140874_10" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="143" citation_global_level_id="7776.005" end="159" id="140874_11" citation_local_level_id="1" >January 10, 2005</DATE>
+
+<NAME start="181" local_name_id="3" end="184" id="140874_20" all_names="SUP" >Sup</NAME>
+
+<CITATION party2="Nixon" party1="Florida" citation_global_level_id="53000.001" party2_short="Nixon" line="8" id="140874_17" end="375" entry_type="party_key" lookup_key="floridanixon#2" id1="137707" start="359" party1_short="Florida" citation_local_level_id="2" >Florida v. Nixon</CITATION>
+
+<NAME end="366" start="359" party1_of="140874_17" all_names="FLORIDA" local_name_id="4" id="140874_18" >Florida</NAME>
+
+<NAME end="375" start="370" all_names="NIXON" party2_of="140874_17" local_name_id="5" id="140874_19" >Nixon</NAME>
+
+<CITATION end="420" reporter="S. C." entry_type="standard_key" no_current_file="True" lookup_key="s.c._358_480" id1="Dummy_File_188809" volume="358" start="407" page_number="480" standard_reporter="S.C." citation_global_level_id="252659.001" line="8" id="140874_15" citation_local_level_id="3" >358 S. C. 480</CITATION>
+
+<CITATION end="437" reporter="S. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="s.e.2d_596_62" id1="Dummy_File_188810" volume="596" start="422" page_number="62" standard_reporter="S.E.2D" citation_global_level_id="252660.001" line="8" id="140874_16" citation_local_level_id="4" >596 S. E. 2d 62</CITATION>
+
+<RELATION theme="140874_2" party1="140874_3" party1_string="OZMINT, DIRECTOR, SOUTH CAROLINA DEPARTMENT OF CORRECTIONS" theme_string="OZMINT, DIRECTOR, SOUTH CAROLINA DEPARTMENT OF CORRECTIONS v. NANCE" gram_type="infix" relation_type="asymmetric" id="140874_7" ></RELATION>
+
+<RELATION party2="140874_4" theme="140874_2" theme_string="OZMINT, DIRECTOR, SOUTH CAROLINA DEPARTMENT OF CORRECTIONS v. NANCE" party2_string="NANCE" gram_type="infix" relation_type="asymmetric" id="140874_8" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1043" X_vs_Y_string="OZMINT, DIRECTOR, SOUTH CAROLINA DEPARTMENT OF CORRECTIONS v. NANCE" standard_case="140874_1" X_vs_Y="140874_2" gram_type="multi_line" relation_type="equivalence" id="140874_12" ></RELATION>
+
+<RELATION at_date_string="January 10, 2005" theme="140874_2" at_date="140874_11" theme_string="OZMINT, DIRECTOR, SOUTH CAROLINA DEPARTMENT OF CORRECTIONS v. NANCE" gram_type="multi_line" relation_type="asymmetric" id="140874_14" ></RELATION>
+
+<RELATION theme="140874_2" includes_docket_string="04-273" includes_docket="140874_9" theme_string="OZMINT, DIRECTOR, SOUTH CAROLINA DEPARTMENT OF CORRECTIONS v. NANCE" gram_type="multi_line" relation_type="asymmetric" id="140874_13" ></RELATION>
+
+<RELATION theme="140874_17" party1="140874_18" party1_string="Florida" theme_string="Florida v. Nixon" gram_type="infix" relation_type="asymmetric" id="140874_21" ></RELATION>
+
+<RELATION party2="140874_19" theme="140874_17" theme_string="Florida v. Nixon" party2_string="Nixon" gram_type="infix" relation_type="asymmetric" id="140874_22" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['connorpredick#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_1047" id1="134145" volume="540" start="0" page_number="1047" standard_reporter="U.S." citation_global_level_id="1389.002" line="1" id="134144_1" citation_local_level_id="0" >540 U.S. 1047</CITATION>
+
+<CITATION party2="PREDICK ET AL" party1="O'CONNOR" citation_global_level_id="1389.007" party2_short="PREDICK" line="1" id="134144_3" alternative_keys="['u.s._540_1047']" end="43" entry_type="party_key" lookup_key="connorpredick#1" id1="134145" start="18" party1_short="CONNOR" citation_local_level_id="1" >O'CONNOR v. PREDICK ET AL</CITATION>
+
+<NAME end="26" start="18" party1_of="134144_3" all_names="O'CONNOR" local_name_id="1" id="134144_4" >O'CONNOR</NAME>
+
+<NAME end="43" start="30" all_names="PREDICK" party2_of="134144_3" local_name_id="2" id="134144_5" >PREDICK ET AL</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="u.s._540_1047" id1="134145" start="53" citation_global_level_id="1389.002" line="1" id="134144_2" citation_local_level_id="0" >03-429</DOCKET>
+
+<DATE start="101" end="117" id="134144_6" >December 1, 2003</DATE>
+
+<NAME start="194" local_name_id="3" end="204" id="134144_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="260" reporter="N. W. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.w.2d_660_1" id1="Dummy_File_86815" volume="660" start="246" page_number="1" standard_reporter="N.W.2D" citation_global_level_id="150665.001" line="3" id="134144_12" citation_local_level_id="2" >660 N. W. 2d 1</CITATION>
+
+<RELATION theme="134144_1" includes_docket_string="03-429" includes_docket="134144_2" theme_string="540 U.S. 1047" gram_type="apposition" relation_type="asymmetric" id="134144_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 1047" X_vs_Y_string="O'CONNOR v. PREDICK ET AL" standard_case="134144_1" X_vs_Y="134144_3" gram_type="pre_nom" relation_type="equivalence" id="134144_7" ></RELATION>
+
+<RELATION theme="134144_3" includes_docket_string="03-429" includes_docket="134144_2" theme_string="O'CONNOR v. PREDICK ET AL" gram_type="apposition" relation_type="asymmetric" id="134144_10" ></RELATION>
+
+<RELATION theme="134144_3" party1="134144_4" party1_string="O'CONNOR" theme_string="O'CONNOR v. PREDICK ET AL" gram_type="infix" relation_type="asymmetric" id="134144_8" ></RELATION>
+
+<RELATION party2="134144_5" theme="134144_3" theme_string="O'CONNOR v. PREDICK ET AL" party2_string="PREDICK ET AL" gram_type="infix" relation_type="asymmetric" id="134144_9" ></RELATION>
+

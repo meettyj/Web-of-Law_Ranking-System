@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['moorewarden#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_831" id1="131536" volume="540" start="0" page_number="831" standard_reporter="U.S." citation_global_level_id="8010.002" line="1" id="131542_1" citation_local_level_id="0" >540 U.S. 831</CITATION>
+
+<CITATION party2="BECK, WARDEN" party1="MOORE" citation_global_level_id="9473.001" party2_short="WARDEN" line="1" id="131542_3" alternative_keys="['u.s._540_831']" end="38" entry_type="party_key" lookup_key="moorewarden#2" id1="131542" start="17" party1_short="MOORE" citation_local_level_id="1" >MOORE v. BECK, WARDEN</CITATION>
+
+<NAME end="22" start="17" party1_of="131542_3" all_names="MOORE" local_name_id="1" id="131542_4" >MOORE</NAME>
+
+<NAME end="38" start="26" all_names="BECK WARDEN" party2_of="131542_3" local_name_id="2" id="131542_5" >BECK, WARDEN</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._540_831" id1="131536" start="48" citation_global_level_id="8010.002" line="1" id="131542_2" citation_local_level_id="0" >02-10568</DOCKET>
+
+<DATE start="98" end="113" id="131542_6" >October 6, 2003</DATE>
+
+<NAME start="191" local_name_id="3" end="201" id="131542_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="131542_1" includes_docket_string="02-10568" includes_docket="131542_2" theme_string="540 U.S. 831" gram_type="apposition" relation_type="asymmetric" id="131542_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 831" X_vs_Y_string="MOORE v. BECK, WARDEN" standard_case="131542_1" X_vs_Y="131542_3" gram_type="pre_nom" relation_type="equivalence" id="131542_7" ></RELATION>
+
+<RELATION theme="131542_3" includes_docket_string="02-10568" includes_docket="131542_2" theme_string="MOORE v. BECK, WARDEN" gram_type="apposition" relation_type="asymmetric" id="131542_10" ></RELATION>
+
+<RELATION theme="131542_3" party1="131542_4" party1_string="MOORE" theme_string="MOORE v. BECK, WARDEN" gram_type="infix" relation_type="asymmetric" id="131542_8" ></RELATION>
+
+<RELATION party2="131542_5" theme="131542_3" theme_string="MOORE v. BECK, WARDEN" party2_string="BECK, WARDEN" gram_type="infix" relation_type="asymmetric" id="131542_9" ></RELATION>
+

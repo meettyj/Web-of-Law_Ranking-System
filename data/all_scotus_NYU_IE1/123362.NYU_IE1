@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['grantstates#9']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_888" id1="123370" volume="537" start="0" page_number="888" standard_reporter="U.S." citation_global_level_id="2898.002" line="1" id="123362_1" citation_local_level_id="0" >537 U.S. 888</CITATION>
+
+<CITATION party2="UNITED STATES" party1="GRANT" citation_global_level_id="58163.001" party2_short="STATES" line="1" id="123362_3" alternative_keys="['u.s._537_888']" end="39" entry_type="party_key" lookup_key="grantstates#9" id1="123362" start="17" party1_short="GRANT" citation_local_level_id="1" >GRANT v. UNITED STATES</CITATION>
+
+<NAME end="22" start="17" party1_of="123362_3" all_names="GRANT" local_name_id="1" id="123362_4" >GRANT</NAME>
+
+<NAME end="39" start="26" all_names="UNITED STATES" party2_of="123362_3" local_name_id="2" id="123362_5" >UNITED STATES</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._537_888" id1="123370" start="49" citation_global_level_id="2898.002" line="1" id="123362_2" citation_local_level_id="0" >02-239</DOCKET>
+
+<DATE start="97" end="112" id="123362_6" >October 7, 2002</DATE>
+
+<NAME start="233" local_name_id="3" end="242" id="123362_12" all_names="C A FED" >C. A. Fed</NAME>
+
+<NAME start="244" local_name_id="4" end="247" id="123362_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="123362_1" includes_docket_string="02-239" includes_docket="123362_2" theme_string="537 U.S. 888" gram_type="apposition" relation_type="asymmetric" id="123362_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 888" X_vs_Y_string="GRANT v. UNITED STATES" standard_case="123362_1" X_vs_Y="123362_3" gram_type="pre_nom" relation_type="equivalence" id="123362_7" ></RELATION>
+
+<RELATION theme="123362_3" includes_docket_string="02-239" includes_docket="123362_2" theme_string="GRANT v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="123362_10" ></RELATION>
+
+<RELATION theme="123362_3" party1="123362_4" party1_string="GRANT" theme_string="GRANT v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="123362_8" ></RELATION>
+
+<RELATION party2="123362_5" theme="123362_3" theme_string="GRANT v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="123362_9" ></RELATION>
+

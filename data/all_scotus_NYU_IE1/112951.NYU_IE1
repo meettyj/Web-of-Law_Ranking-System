@@ -1,0 +1,44 @@
+<CITATION alternative_keys="['equipmentinc#4']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_804" id1="112950" volume="510" start="0" page_number="804" standard_reporter="U.S." citation_global_level_id="41766.002" line="1" id="112951_1" citation_local_level_id="0" >510 U.S. 804</CITATION>
+
+<CITATION party2="Desktop Direct, Inc" party1="Digital Equipment Corp." citation_global_level_id="43763.001" party2_short="Inc" line="1" id="112951_3" alternative_keys="['u.s._510_804']" end="63" entry_type="party_key" lookup_key="equipmentinc#4" id1="112951" start="17" party1_short="Equipment" citation_local_level_id="1" >Digital Equipment Corp. v. Desktop Direct, Inc</CITATION>
+
+<NAME end="40" start="17" party1_of="112951_3" all_names="DIGITAL EQUIPMENT CORP" local_name_id="1" id="112951_4" >Digital Equipment Corp.</NAME>
+
+<ORGANIZATION start="17" end="39" id="112951_7" >Digital Equipment Corp</ORGANIZATION>
+
+<NAME end="63" start="44" all_names="DESKTOP DIRECT INC" party2_of="112951_3" local_name_id="2" id="112951_5" >Desktop Direct, Inc</NAME>
+
+<DOCKET end="78" entry_type="docket" lookup_key="u.s._510_804" id1="112950" start="73" citation_global_level_id="41766.002" line="1" id="112951_2" citation_local_level_id="0" >A-252</DOCKET>
+
+<DATE start="129" end="144" id="112951_6" >October 4, 1993</DATE>
+
+<NAME start="223" local_name_id="3" end="234" id="112951_15" all_names="APPLICATION" >Application</NAME>
+
+<ORGANIZATION start="278" end="331" id="112951_16" >United States District Court for the District of Utah</ORGANIZATION>
+
+<DOCKET entry_type="docket" line="3" end="351" id="112951_13" start="342" >92-C-178G</DOCKET>
+
+<DATE start="360" end="375" id="112951_14" >January 5, 1993</DATE>
+
+<PROFESSION start="390" document_level_name_id="4" end="397" id="112951_17" party="THOMAS" >Justice</PROFESSION>
+
+<NAME start="398" local_name_id="4" end="404" id="112951_18" all_names="THOMAS" >Thomas</NAME>
+
+<ORGANIZATION start="433" end="438" id="112951_19" >Court</ORGANIZATION>
+
+<ORGANIZATION start="480" end="485" id="112951_20" >Court</ORGANIZATION>
+
+<ORGANIZATION start="749" end="754" id="112951_21" >Court</ORGANIZATION>
+
+<RELATION theme="112951_1" includes_docket_string="A-252" includes_docket="112951_2" theme_string="510 U.S. 804" gram_type="apposition" relation_type="asymmetric" id="112951_12" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 804" X_vs_Y_string="Digital Equipment Corp. v. Desktop Direct, Inc" standard_case="112951_1" X_vs_Y="112951_3" gram_type="pre_nom" relation_type="equivalence" id="112951_8" ></RELATION>
+
+<RELATION theme="112951_3" includes_docket_string="A-252" includes_docket="112951_2" theme_string="Digital Equipment Corp. v. Desktop Direct, Inc" gram_type="apposition" relation_type="asymmetric" id="112951_11" ></RELATION>
+
+<RELATION party2="112951_5" theme="112951_3" theme_string="Digital Equipment Corp. v. Desktop Direct, Inc" party2_string="Desktop Direct, Inc" gram_type="infix" relation_type="asymmetric" id="112951_10" ></RELATION>
+
+<RELATION theme="112951_3" party1="112951_4" party1_string="Digital Equipment Corp." theme_string="Digital Equipment Corp. v. Desktop Direct, Inc" gram_type="infix" relation_type="asymmetric" id="112951_9" ></RELATION>
+
+<RELATION theme="112951_18" profession_string="Justice" theme_string="Thomas" profession="112951_17" gram_type="pre_nom" relation_type="asymmetric" id="112951_22" ></RELATION>
+

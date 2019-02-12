@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['bonachavez#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_815" id1="113056" volume="510" start="0" page_number="815" standard_reporter="U.S." citation_global_level_id="1931.002" line="1" id="113056_1" citation_local_level_id="0" >510 U.S. 815</CITATION>
+
+<CITATION party2="Chavez et al" party1="Bona" citation_global_level_id="1931.001" party2_short="Chavez" line="1" id="113056_3" alternative_keys="['u.s._510_815']" end="37" entry_type="party_key" lookup_key="bonachavez#1" id1="113056" start="17" party1_short="Bona" citation_local_level_id="1" >Bona v. Chavez et al</CITATION>
+
+<NAME end="21" start="17" party1_of="113056_3" all_names="BONA" local_name_id="1" id="113056_4" >Bona</NAME>
+
+<NAME end="37" start="25" all_names="CHAVEZ" party2_of="113056_3" local_name_id="2" id="113056_5" >Chavez et al</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="u.s._510_815" id1="113056" start="47" citation_global_level_id="1931.002" line="1" id="113056_2" citation_local_level_id="0" >92-1827</DOCKET>
+
+<DATE start="50" end="54" id="113056_6" >1827</DATE>
+
+<DATE start="96" end="111" id="113056_7" >October 4, 1993</DATE>
+
+<NAME start="204" local_name_id="3" end="214" id="113056_15" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="253" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_611_523" id1="Dummy_File_195339" volume="611" start="239" page_number="523" standard_reporter="SO.2D" citation_global_level_id="259189.001" line="3" id="113056_14" citation_local_level_id="2" >611 So. 2d 523</CITATION>
+
+<RELATION theme="113056_1" includes_docket_string="92-1827" includes_docket="113056_2" theme_string="510 U.S. 815" gram_type="apposition" relation_type="asymmetric" id="113056_12" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 815" X_vs_Y_string="Bona v. Chavez et al" standard_case="113056_1" X_vs_Y="113056_3" gram_type="pre_nom" relation_type="equivalence" id="113056_8" ></RELATION>
+
+<RELATION theme="113056_3" includes_docket_string="92-1827" includes_docket="113056_2" theme_string="Bona v. Chavez et al" gram_type="apposition" relation_type="asymmetric" id="113056_11" ></RELATION>
+
+<RELATION party2="113056_5" theme="113056_3" theme_string="Bona v. Chavez et al" party2_string="Chavez et al" gram_type="infix" relation_type="asymmetric" id="113056_10" ></RELATION>
+
+<RELATION theme="113056_3" party1="113056_4" party1_string="Bona" theme_string="Bona v. Chavez et al" gram_type="infix" relation_type="asymmetric" id="113056_9" ></RELATION>
+
+<RELATION at_date_string="1827" theme="113056_2" at_date="113056_6" theme_string="92-1827" gram_type="infix" relation_type="asymmetric" id="113056_13" ></RELATION>
+

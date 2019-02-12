@@ -1,0 +1,68 @@
+<CITATION alternative_keys="['fenwickadministrators#1', 'cranch_1_259']" end="18" reporter="U.S." entry_type="standard_key" lookup_key="u.s._5_259" id1="84766" volume="5" start="1" page_number="259" standard_reporter="U.S." citation_global_level_id="16149.002" line="2" id="84766_1" citation_local_level_id="0" >5 U.S. 259 (____)</CITATION>
+
+<CITATION alternative_keys="['u.s._5_259', 'fenwickadministrators#1']" end="31" reporter="Cranch" entry_type="standard_key" lookup_key="cranch_1_259" id1="84766" volume="1" start="19" page_number="259" standard_reporter="CRANCH" citation_global_level_id="16149.003" line="3" id="84766_2" citation_local_level_id="1" >1 Cranch 259</CITATION>
+
+<CITATION party2="SEARS'S ADMINISTRATORS" party1="FENWICK" citation_global_level_id="16149.001" party2_short="ADMINISTRATORS" line="6" id="84766_4" alternative_keys="['u.s._5_259', 'cranch_1_259']" end="67" entry_type="party_key" lookup_key="fenwickadministrators#1" id1="84766" start="32" party1_short="FENWICK" citation_local_level_id="2" >FENWICK v. SEARS'S ADMINISTRATORS</CITATION>
+
+<NAME end="39" start="32" party1_of="84766_4" all_names="FENWICK" local_name_id="1" id="84766_5" >FENWICK</NAME>
+
+<NAME end="67" start="45" all_names="SEARS'S ADMINISTRATORS" party2_of="84766_4" local_name_id="2" id="84766_6" >SEARS'S ADMINISTRATORS</NAME>
+
+<ORGANIZATION start="69" end="99" id="84766_9" >Supreme Court of United States</ORGANIZATION>
+
+<NAME start="107" local_name_id="3" end="112" id="84766_12" all_names="MASON" >Mason</NAME>
+
+<LEGAL_ROLE start="122" end="131" id="84766_13" >plaintiff</LEGAL_ROLE>
+
+<NAME start="142" local_name_id="4" end="158" id="84766_14" all_names="SIMMS AND C LEE" >Simms and C. Lee</NAME>
+
+<LEGAL_ROLE start="168" end="178" plural="True" id="84766_15" >defendants</LEGAL_ROLE>
+
+<NAME start="180" local_name_id="5" end="185" id="84766_16" all_names="SIMMS" >Simms</NAME>
+
+<LEGAL_ROLE start="195" end="205" plural="True" id="84766_17" >defendants</LEGAL_ROLE>
+
+<NAME start="236" local_name_id="6" end="244" id="84766_18" all_names="FEBRUARY" >February</NAME>
+
+<ORGANIZATION start="250" end="255" id="84766_19" >Court</ORGANIZATION>
+
+<ORGANIZATION start="307" end="312" id="84766_20" >court</ORGANIZATION>
+
+<LEGAL_ROLE end="332" name="Stricker and Payson" start="322" local_name_id="7" plural="True" id="84766_21" >defendants</LEGAL_ROLE>
+
+<NAME start="333" local_name_id="7" end="352" id="84766_22" all_names="STRICKER AND PAYSON" >Stricker and Payson</NAME>
+
+<ORGANIZATION start="385" end="399" id="84766_23" >administration</ORGANIZATION>
+
+<NAME start="419" local_name_id="8" end="427" id="84766_24" all_names="COLUMBIA" >Columbia</NAME>
+
+<ORGANIZATION start="494" end="520" id="84766_25" >court of the United States</ORGANIZATION>
+
+<ORGANIZATION start="620" end="625" id="84766_26" >court</ORGANIZATION>
+
+<ORGANIZATION start="665" end="670" id="84766_27" >court</ORGANIZATION>
+
+<LEGAL_ROLE start="777" end="786" id="84766_28" >defendant</LEGAL_ROLE>
+
+<NAME start="816" local_name_id="9" end="821" id="84766_30" all_names="NOTES" >NOTES</NAME>
+
+<NAME start="871" local_name_id="10" end="892" id="84766_32" all_names="VIRGINIA AND MARYLAND" >Virginia and Maryland</NAME>
+
+<NAME start="933" local_name_id="11" end="946" id="84766_33" all_names="UNITED STATES" >United States</NAME>
+
+<PROFESSION start="964" end="974" id="84766_34" >government</PROFESSION>
+
+<DATE start="990" end="1005" plural="True" id="84766_35" >first Monday of</DATE>
+
+<DATE start="1006" end="1020" id="84766_31" >December, 1800</DATE>
+
+<RELATION theme="84766_4" party1="84766_5" party1_string="FENWICK" theme_string="FENWICK  v.  SEARS'S ADMINISTRATORS" gram_type="infix" relation_type="asymmetric" id="84766_7" ></RELATION>
+
+<RELATION party2="84766_6" theme="84766_4" theme_string="FENWICK  v.  SEARS'S ADMINISTRATORS" party2_string="SEARS'S ADMINISTRATORS" gram_type="infix" relation_type="asymmetric" id="84766_8" ></RELATION>
+
+<RELATION standard_case_string="5 U.S. 259 (____)" X_vs_Y_string="FENWICK  v.  SEARS'S ADMINISTRATORS" standard_case="84766_1" X_vs_Y="84766_4" gram_type="multi_line" relation_type="equivalence" id="84766_10" ></RELATION>
+
+<RELATION standard_case_string="1 Cranch 259" X_vs_Y_string="FENWICK  v.  SEARS'S ADMINISTRATORS" standard_case="84766_2" X_vs_Y="84766_4" gram_type="multi_line" relation_type="equivalence" id="84766_11" ></RELATION>
+
+<RELATION theme="84766_22" legal_role="84766_21" id="84766_29" theme_string="Stricker and Payson" gram_type="pre_nom" relation_type="asymmetric" legal_role_string="defendants" ></RELATION>
+

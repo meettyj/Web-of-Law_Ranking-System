@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['smedleyalabama#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_870" id1="123130" volume="537" start="0" page_number="870" standard_reporter="U.S." citation_global_level_id="1206.002" line="1" id="123131_1" citation_local_level_id="0" >537 U.S. 870</CITATION>
+
+<CITATION party2="ALABAMA" party1="SMEDLEY" citation_global_level_id="51798.001" party2_short="ALABAMA" line="1" id="123131_3" alternative_keys="['u.s._537_870']" end="35" entry_type="party_key" lookup_key="smedleyalabama#1" id1="123131" start="17" party1_short="SMEDLEY" citation_local_level_id="1" >SMEDLEY v. ALABAMA</CITATION>
+
+<NAME end="24" start="17" party1_of="123131_3" all_names="SMEDLEY" local_name_id="1" id="123131_4" >SMEDLEY</NAME>
+
+<NAME end="35" start="28" all_names="ALABAMA" party2_of="123131_3" local_name_id="2" id="123131_5" >ALABAMA</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="u.s._537_870" id1="123130" start="45" citation_global_level_id="1206.002" line="1" id="123131_2" citation_local_level_id="0" >01-10900</DOCKET>
+
+<DATE start="95" end="110" id="123131_6" >October 7, 2002</DATE>
+
+<NAME start="243" local_name_id="3" end="246" id="123131_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="123131_1" includes_docket_string="01-10900" includes_docket="123131_2" theme_string="537 U.S. 870" gram_type="apposition" relation_type="asymmetric" id="123131_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 870" X_vs_Y_string="SMEDLEY v. ALABAMA" standard_case="123131_1" X_vs_Y="123131_3" gram_type="pre_nom" relation_type="equivalence" id="123131_7" ></RELATION>
+
+<RELATION theme="123131_3" includes_docket_string="01-10900" includes_docket="123131_2" theme_string="SMEDLEY v. ALABAMA" gram_type="apposition" relation_type="asymmetric" id="123131_10" ></RELATION>
+
+<RELATION theme="123131_3" party1="123131_4" party1_string="SMEDLEY" theme_string="SMEDLEY v. ALABAMA" gram_type="infix" relation_type="asymmetric" id="123131_8" ></RELATION>
+
+<RELATION party2="123131_5" theme="123131_3" theme_string="SMEDLEY v. ALABAMA" party2_string="ALABAMA" gram_type="infix" relation_type="asymmetric" id="123131_9" ></RELATION>
+

@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['vieyrastates#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1008" id1="119764" volume="535" start="0" page_number="1008" standard_reporter="U.S." citation_global_level_id="4336.002" line="1" id="119764_1" citation_local_level_id="0" >535 U.S. 1008</CITATION>
+
+<CITATION party2="UNITED STATES" party1="CORIA-VIEYRA" citation_global_level_id="4336.001" party2_short="STATES" line="2" id="119764_2" alternative_keys="['u.s._535_1008']" end="47" entry_type="party_key" lookup_key="vieyrastates#1" id1="119764" start="18" party1_short="VIEYRA" citation_local_level_id="1" >CORIA-VIEYRA v. UNITED STATES</CITATION>
+
+<NAME end="30" start="18" party1_of="119764_2" all_names="CORIA-VIEYRA" local_name_id="1" id="119764_3" >CORIA-VIEYRA</NAME>
+
+<NAME end="47" start="34" all_names="UNITED STATES" party2_of="119764_2" local_name_id="2" id="119764_4" >UNITED STATES</NAME>
+
+<DOCKET end="64" entry_type="docket" lookup_key="vieyrastates#1" id1="119764" start="57" citation_global_level_id="4336.001" line="3" id="119764_7" citation_local_level_id="1" >01-8932</DOCKET>
+
+<DATE start="110" citation_global_level_id="4336.001" end="124" id="119764_8" citation_local_level_id="1" >April 15, 2002</DATE>
+
+<NAME start="156" local_name_id="3" end="159" id="119764_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="119764_2" party1="119764_3" party1_string="CORIA-VIEYRA" theme_string="CORIA-VIEYRA v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="119764_5" ></RELATION>
+
+<RELATION party2="119764_4" theme="119764_2" theme_string="CORIA-VIEYRA v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="119764_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1008" X_vs_Y_string="CORIA-VIEYRA v. UNITED STATES" standard_case="119764_1" X_vs_Y="119764_2" gram_type="multi_line" relation_type="equivalence" id="119764_9" ></RELATION>
+
+<RELATION at_date_string="April 15, 2002" theme="119764_2" at_date="119764_8" theme_string="CORIA-VIEYRA v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="119764_11" ></RELATION>
+
+<RELATION theme="119764_2" includes_docket_string="01-8932" includes_docket="119764_7" theme_string="CORIA-VIEYRA v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="119764_10" ></RELATION>
+

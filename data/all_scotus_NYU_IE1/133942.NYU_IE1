@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['ambasetrust#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_1017" id1="133938" volume="540" start="0" page_number="1017" standard_reporter="U.S." citation_global_level_id="2427.002" line="1" id="133942_1" citation_local_level_id="0" >540 U.S. 1017</CITATION>
+
+<CITATION party2="CITY INVESTING COMPANY LIQUIDATING TRUST ET AL" party1="AMBASE CORP." citation_global_level_id="2427.004" party2_short="TRUST" line="1" id="133942_3" alternative_keys="['u.s._540_1017']" end="80" entry_type="party_key" lookup_key="ambasetrust#1" id1="133938" start="18" party1_short="AMBASE" citation_local_level_id="1" >AMBASE CORP. v. CITY INVESTING COMPANY LIQUIDATING TRUST ET AL</CITATION>
+
+<NAME end="30" start="18" party1_of="133942_3" all_names="AMBASE CORP" local_name_id="1" id="133942_4" >AMBASE CORP.</NAME>
+
+<ORGANIZATION start="18" end="29" id="133942_7" >AMBASE CORP</ORGANIZATION>
+
+<NAME end="80" start="34" all_names="CITY INVESTING COMPANY LIQUIDATING TRUST" party2_of="133942_3" local_name_id="2" id="133942_5" >CITY INVESTING COMPANY LIQUIDATING TRUST ET AL</NAME>
+
+<DOCKET end="96" entry_type="docket" lookup_key="u.s._540_1017" id1="133938" start="90" citation_global_level_id="2427.002" line="1" id="133942_2" citation_local_level_id="0" >03-394</DOCKET>
+
+<DATE start="138" end="155" id="133942_6" >November 17, 2003</DATE>
+
+<NAME start="232" local_name_id="3" end="242" id="133942_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="279" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_326_63" id1="Dummy_File_84751" volume="326" start="267" page_number="63" standard_reporter="F.3D" citation_global_level_id="148601.001" line="3" id="133942_13" citation_local_level_id="2" >326 F. 3d 63</CITATION>
+
+<RELATION theme="133942_1" includes_docket_string="03-394" includes_docket="133942_2" theme_string="540 U.S. 1017" gram_type="apposition" relation_type="asymmetric" id="133942_12" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 1017" X_vs_Y_string="AMBASE CORP. v. CITY INVESTING COMPANY LIQUIDATING TRUST ET AL" standard_case="133942_1" X_vs_Y="133942_3" gram_type="pre_nom" relation_type="equivalence" id="133942_8" ></RELATION>
+
+<RELATION theme="133942_3" includes_docket_string="03-394" includes_docket="133942_2" theme_string="AMBASE CORP. v. CITY INVESTING COMPANY LIQUIDATING TRUST ET AL" gram_type="apposition" relation_type="asymmetric" id="133942_11" ></RELATION>
+
+<RELATION party2="133942_5" theme="133942_3" theme_string="AMBASE CORP. v. CITY INVESTING COMPANY LIQUIDATING TRUST ET AL" party2_string="CITY INVESTING COMPANY LIQUIDATING TRUST ET AL" gram_type="infix" relation_type="asymmetric" id="133942_10" ></RELATION>
+
+<RELATION theme="133942_3" party1="133942_4" party1_string="AMBASE CORP." theme_string="AMBASE CORP. v. CITY INVESTING COMPANY LIQUIDATING TRUST ET AL" gram_type="infix" relation_type="asymmetric" id="133942_9" ></RELATION>
+

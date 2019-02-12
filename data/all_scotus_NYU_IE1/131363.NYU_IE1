@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['troutcommission#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_818" id1="131370" volume="540" start="0" page_number="818" standard_reporter="U.S." citation_global_level_id="12791.002" line="1" id="131363_1" citation_local_level_id="0" >540 U.S. 818</CITATION>
+
+<CITATION party2="FEDERAL ENERGY REGULATORY COMMISSION ET AL" party1="CALIFORNIA TROUT, INC." citation_global_level_id="12791.003" party2_short="COMMISSION" line="1" id="131363_3" alternative_keys="['u.s._540_818']" end="85" entry_type="party_key" lookup_key="troutcommission#1" id1="131370" start="17" party1_short="TROUT" citation_local_level_id="1" >CALIFORNIA TROUT, INC. v. FEDERAL ENERGY REGULATORY COMMISSION ET AL</CITATION>
+
+<NAME end="39" start="17" party1_of="131363_3" all_names="CALIFORNIA TROUT INC" local_name_id="1" id="131363_4" >CALIFORNIA TROUT, INC.</NAME>
+
+<ORGANIZATION start="17" end="38" id="131363_8" >CALIFORNIA TROUT, INC</ORGANIZATION>
+
+<NAME end="85" start="43" all_names="FEDERAL ENERGY REGULATORY COMMISSION" party2_of="131363_3" local_name_id="2" id="131363_5" >FEDERAL ENERGY REGULATORY COMMISSION ET AL</NAME>
+
+<DOCKET end="102" entry_type="docket" lookup_key="u.s._540_818" id1="131370" start="95" citation_global_level_id="12791.002" line="1" id="131363_2" citation_local_level_id="0" >02-1735</DOCKET>
+
+<DATE start="98" end="102" id="131363_6" >1735</DATE>
+
+<DATE start="144" end="159" id="131363_7" >October 6, 2003</DATE>
+
+<NAME start="237" local_name_id="3" end="247" id="131363_16" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="286" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_313_1131" id1="Dummy_File_63059" volume="313" start="272" page_number="1131" standard_reporter="F.3D" citation_global_level_id="126909.001" line="3" id="131363_15" citation_local_level_id="2" >313 F. 3d 1131</CITATION>
+
+<RELATION theme="131363_1" includes_docket_string="02-1735" includes_docket="131363_2" theme_string="540 U.S. 818" gram_type="apposition" relation_type="asymmetric" id="131363_13" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 818" X_vs_Y_string="CALIFORNIA TROUT, INC. v. FEDERAL ENERGY REGULATORY COMMISSION ET AL" standard_case="131363_1" X_vs_Y="131363_3" gram_type="pre_nom" relation_type="equivalence" id="131363_9" ></RELATION>
+
+<RELATION theme="131363_3" includes_docket_string="02-1735" includes_docket="131363_2" theme_string="CALIFORNIA TROUT, INC. v. FEDERAL ENERGY REGULATORY COMMISSION ET AL" gram_type="apposition" relation_type="asymmetric" id="131363_12" ></RELATION>
+
+<RELATION theme="131363_3" party1="131363_4" party1_string="CALIFORNIA TROUT, INC." theme_string="CALIFORNIA TROUT, INC. v. FEDERAL ENERGY REGULATORY COMMISSION ET AL" gram_type="infix" relation_type="asymmetric" id="131363_10" ></RELATION>
+
+<RELATION party2="131363_5" theme="131363_3" theme_string="CALIFORNIA TROUT, INC. v. FEDERAL ENERGY REGULATORY COMMISSION ET AL" party2_string="FEDERAL ENERGY REGULATORY COMMISSION ET AL" gram_type="infix" relation_type="asymmetric" id="131363_11" ></RELATION>
+
+<RELATION at_date_string="1735" theme="131363_2" at_date="131363_6" theme_string="02-1735" gram_type="infix" relation_type="asymmetric" id="131363_14" ></RELATION>
+

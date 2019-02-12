@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['shieldplan#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1073" id1="116371" volume="510" start="0" page_number="1073" standard_reporter="U.S." citation_global_level_id="735.002" line="1" id="116379_1" citation_local_level_id="0" >510 U.S. 1073</CITATION>
+
+<CITATION party2="Inter Valley Health Plan" party1="Blue Cross/Blue Shield of Connecticut" citation_global_level_id="735.006" party2_short="Plan" line="1" id="116379_3" alternative_keys="['u.s._510_1073']" end="83" entry_type="party_key" lookup_key="shieldplan#1" id1="116371" start="18" party1_short="Shield" citation_local_level_id="1" >Blue Cross/Blue Shield of Connecticut v. Inter Valley Health Plan</CITATION>
+
+<NAME end="55" start="18" party1_of="116379_3" all_names="BLUE CROSS/BLUE SHIELD OF CONNECTICUT" local_name_id="1" id="116379_4" >Blue Cross/Blue Shield of Connecticut</NAME>
+
+<NAME end="83" start="59" all_names="INTER VALLEY HEALTH PLAN" party2_of="116379_3" local_name_id="2" id="116379_5" >Inter Valley Health Plan</NAME>
+
+<DOCKET end="99" entry_type="docket" lookup_key="u.s._510_1073" id1="116371" start="93" citation_global_level_id="735.002" line="1" id="116379_2" citation_local_level_id="0" >93-795</DOCKET>
+
+<DATE start="141" end="157" id="116379_6" >January 18, 1994</DATE>
+
+<NAME start="250" local_name_id="3" end="260" id="116379_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="326" reporter="Cal. Rptr. 2d" entry_type="standard_key" no_current_file="True" lookup_key="cal.rptr.2d_19_782" id1="Dummy_File_139503" volume="19" start="306" page_number="782" standard_reporter="CAL.RPTR.2D" citation_global_level_id="203353.001" line="3" id="116379_12" citation_local_level_id="2" >19 Cal. Rptr. 2d 782</CITATION>
+
+<RELATION theme="116379_1" includes_docket_string="93-795" includes_docket="116379_2" theme_string="510 U.S. 1073" gram_type="apposition" relation_type="asymmetric" id="116379_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1073" X_vs_Y_string="Blue Cross/Blue Shield of Connecticut v. Inter Valley Health Plan" standard_case="116379_1" X_vs_Y="116379_3" gram_type="pre_nom" relation_type="equivalence" id="116379_7" ></RELATION>
+
+<RELATION theme="116379_3" includes_docket_string="93-795" includes_docket="116379_2" theme_string="Blue Cross/Blue Shield of Connecticut v. Inter Valley Health Plan" gram_type="apposition" relation_type="asymmetric" id="116379_10" ></RELATION>
+
+<RELATION theme="116379_3" party1="116379_4" party1_string="Blue Cross/Blue Shield of Connecticut" theme_string="Blue Cross/Blue Shield of Connecticut v. Inter Valley Health Plan" gram_type="infix" relation_type="asymmetric" id="116379_8" ></RELATION>
+
+<RELATION party2="116379_5" theme="116379_3" theme_string="Blue Cross/Blue Shield of Connecticut v. Inter Valley Health Plan" party2_string="Inter Valley Health Plan" gram_type="infix" relation_type="asymmetric" id="116379_9" ></RELATION>
+

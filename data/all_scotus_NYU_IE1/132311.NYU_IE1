@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['mitchellstates#9']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_889" id1="132314" volume="540" start="0" page_number="889" standard_reporter="U.S." citation_global_level_id="2123.002" line="1" id="132311_1" citation_local_level_id="0" >540 U.S. 889</CITATION>
+
+<CITATION party2="UNITED STATES" party1="MITCHELL" citation_global_level_id="30312.001" party2_short="STATES" line="1" id="132311_3" alternative_keys="['u.s._540_889']" end="42" entry_type="party_key" lookup_key="mitchellstates#9" id1="118946" start="17" party1_short="MITCHELL" citation_local_level_id="1" >MITCHELL v. UNITED STATES</CITATION>
+
+<NAME end="25" start="17" party1_of="132311_3" all_names="MITCHELL" local_name_id="1" id="132311_4" >MITCHELL</NAME>
+
+<NAME end="42" start="29" all_names="UNITED STATES" party2_of="132311_3" local_name_id="2" id="132311_5" >UNITED STATES</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="u.s._540_889" id1="132314" start="52" citation_global_level_id="2123.002" line="1" id="132311_2" citation_local_level_id="0" >03-5120</DOCKET>
+
+<DATE start="101" end="116" id="132311_6" >October 6, 2003</DATE>
+
+<NAME start="195" local_name_id="3" end="205" id="132311_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="132311_1" includes_docket_string="03-5120" includes_docket="132311_2" theme_string="540 U.S. 889" gram_type="apposition" relation_type="asymmetric" id="132311_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 889" X_vs_Y_string="MITCHELL v. UNITED STATES" standard_case="132311_1" X_vs_Y="132311_3" gram_type="pre_nom" relation_type="equivalence" id="132311_7" ></RELATION>
+
+<RELATION theme="132311_3" includes_docket_string="03-5120" includes_docket="132311_2" theme_string="MITCHELL v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="132311_10" ></RELATION>
+
+<RELATION theme="132311_3" party1="132311_4" party1_string="MITCHELL" theme_string="MITCHELL v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="132311_8" ></RELATION>
+
+<RELATION party2="132311_5" theme="132311_3" theme_string="MITCHELL v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="132311_9" ></RELATION>
+

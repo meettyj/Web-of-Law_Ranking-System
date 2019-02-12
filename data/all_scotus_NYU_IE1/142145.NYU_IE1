@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['atkinsfoltz#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1138" id1="142146" volume="543" start="0" page_number="1138" standard_reporter="U.S." citation_global_level_id="1140.002" line="1" id="142145_1" citation_local_level_id="0" >543 U.S. 1138</CITATION>
+
+<CITATION party2="FOLTZ" party1="ATKINS" citation_global_level_id="26122.001" party2_short="FOLTZ" line="2" id="142145_2" alternative_keys="['u.s._543_1138']" end="33" entry_type="party_key" lookup_key="atkinsfoltz#1" id1="142145" start="18" party1_short="ATKINS" citation_local_level_id="1" >ATKINS v. FOLTZ</CITATION>
+
+<NAME end="24" start="18" party1_of="142145_2" all_names="ATKINS" local_name_id="1" id="142145_3" >ATKINS</NAME>
+
+<NAME end="33" start="28" all_names="FOLTZ" party2_of="142145_2" local_name_id="2" id="142145_4" >FOLTZ</NAME>
+
+<DOCKET end="50" entry_type="docket" lookup_key="atkinsfoltz#1" id1="142145" start="43" citation_global_level_id="26122.001" line="3" id="142145_7" citation_local_level_id="1" >04-7788</DOCKET>
+
+<ORGANIZATION start="56" end="86" id="142145_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="92" citation_global_level_id="26122.001" end="109" id="142145_9" citation_local_level_id="1" >February 22, 2005</DATE>
+
+<NAME start="141" local_name_id="3" end="144" id="142145_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="142145_2" party1="142145_3" party1_string="ATKINS" theme_string="ATKINS v. FOLTZ" gram_type="infix" relation_type="asymmetric" id="142145_5" ></RELATION>
+
+<RELATION party2="142145_4" theme="142145_2" theme_string="ATKINS v. FOLTZ" party2_string="FOLTZ" gram_type="infix" relation_type="asymmetric" id="142145_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1138" X_vs_Y_string="ATKINS v. FOLTZ" standard_case="142145_1" X_vs_Y="142145_2" gram_type="multi_line" relation_type="equivalence" id="142145_10" ></RELATION>
+
+<RELATION at_date_string="February 22, 2005" theme="142145_2" at_date="142145_9" theme_string="ATKINS v. FOLTZ" gram_type="multi_line" relation_type="asymmetric" id="142145_12" ></RELATION>
+
+<RELATION theme="142145_2" includes_docket_string="04-7788" includes_docket="142145_7" theme_string="ATKINS v. FOLTZ" gram_type="multi_line" relation_type="asymmetric" id="142145_11" ></RELATION>
+

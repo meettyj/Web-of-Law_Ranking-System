@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['thomaspearl#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1043" id1="115957" volume="510" start="0" page_number="1043" standard_reporter="U.S." citation_global_level_id="6165.002" line="1" id="115960_1" citation_local_level_id="0" >510 U.S. 1043</CITATION>
+
+<CITATION party2="Pearl" party1="Thomas" citation_global_level_id="60836.001" party2_short="Pearl" line="1" id="115960_3" alternative_keys="['u.s._510_1043']" end="33" entry_type="party_key" lookup_key="thomaspearl#1" id1="115960" start="18" party1_short="Thomas" citation_local_level_id="1" >Thomas v. Pearl</CITATION>
+
+<NAME end="24" start="18" party1_of="115960_3" all_names="THOMAS" local_name_id="1" id="115960_4" >Thomas</NAME>
+
+<NAME end="33" start="28" all_names="PEARL" party2_of="115960_3" local_name_id="2" id="115960_5" >Pearl</NAME>
+
+<DOCKET end="49" entry_type="docket" lookup_key="u.s._510_1043" id1="115957" start="43" citation_global_level_id="6165.002" line="1" id="115960_2" citation_local_level_id="0" >93-672</DOCKET>
+
+<DATE start="91" end="107" id="115960_6" >January 10, 1994</DATE>
+
+<NAME start="185" local_name_id="3" end="195" id="115960_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="233" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_998_447" id1="Dummy_File_186212" volume="998" start="220" page_number="447" standard_reporter="F.2D" citation_global_level_id="250062.001" line="3" id="115960_12" citation_local_level_id="2" >998 F. 2d 447</CITATION>
+
+<RELATION theme="115960_1" includes_docket_string="93-672" includes_docket="115960_2" theme_string="510 U.S. 1043" gram_type="apposition" relation_type="asymmetric" id="115960_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1043" X_vs_Y_string="Thomas v. Pearl" standard_case="115960_1" X_vs_Y="115960_3" gram_type="pre_nom" relation_type="equivalence" id="115960_7" ></RELATION>
+
+<RELATION theme="115960_3" includes_docket_string="93-672" includes_docket="115960_2" theme_string="Thomas v. Pearl" gram_type="apposition" relation_type="asymmetric" id="115960_10" ></RELATION>
+
+<RELATION theme="115960_3" party1="115960_4" party1_string="Thomas" theme_string="Thomas v. Pearl" gram_type="infix" relation_type="asymmetric" id="115960_8" ></RELATION>
+
+<RELATION party2="115960_5" theme="115960_3" theme_string="Thomas v. Pearl" party2_string="Pearl" gram_type="infix" relation_type="asymmetric" id="115960_9" ></RELATION>
+

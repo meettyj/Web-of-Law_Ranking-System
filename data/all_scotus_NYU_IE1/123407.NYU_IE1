@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['hallgrenstates#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_891" id1="123405" volume="537" start="0" page_number="891" standard_reporter="U.S." citation_global_level_id="3211.002" line="1" id="123407_1" citation_local_level_id="0" >537 U.S. 891</CITATION>
+
+<CITATION party2="UNITED STATES" party1="HALLGREN" citation_global_level_id="42852.001" party2_short="STATES" line="1" id="123407_3" alternative_keys="['u.s._537_891']" end="42" entry_type="party_key" lookup_key="hallgrenstates#1" id1="123407" start="17" party1_short="HALLGREN" citation_local_level_id="1" >HALLGREN v. UNITED STATES</CITATION>
+
+<NAME end="25" start="17" party1_of="123407_3" all_names="HALLGREN" local_name_id="1" id="123407_4" >HALLGREN</NAME>
+
+<NAME end="42" start="29" all_names="UNITED STATES" party2_of="123407_3" local_name_id="2" id="123407_5" >UNITED STATES</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="u.s._537_891" id1="123405" start="52" citation_global_level_id="3211.002" line="1" id="123407_2" citation_local_level_id="0" >02-5041</DOCKET>
+
+<DATE start="101" end="116" id="123407_6" >October 7, 2002</DATE>
+
+<NAME start="247" local_name_id="3" end="250" id="123407_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="299" reporter="F.3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_285_553" id1="Dummy_File_48211" volume="285" start="287" page_number="553" standard_reporter="F.3D" citation_global_level_id="112061.001" line="3" id="123407_12" citation_local_level_id="2" >285 F.3d 553</CITATION>
+
+<RELATION theme="123407_1" includes_docket_string="02-5041" includes_docket="123407_2" theme_string="537 U.S. 891" gram_type="apposition" relation_type="asymmetric" id="123407_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 891" X_vs_Y_string="HALLGREN v. UNITED STATES" standard_case="123407_1" X_vs_Y="123407_3" gram_type="pre_nom" relation_type="equivalence" id="123407_7" ></RELATION>
+
+<RELATION theme="123407_3" includes_docket_string="02-5041" includes_docket="123407_2" theme_string="HALLGREN v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="123407_10" ></RELATION>
+
+<RELATION theme="123407_3" party1="123407_4" party1_string="HALLGREN" theme_string="HALLGREN v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="123407_8" ></RELATION>
+
+<RELATION party2="123407_5" theme="123407_3" theme_string="HALLGREN v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="123407_9" ></RELATION>
+

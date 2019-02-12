@@ -1,0 +1,42 @@
+<CITATION alternative_keys="['agsniado#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._542_917" id1="137207" volume="542" start="0" page_number="917" standard_reporter="U.S." citation_global_level_id="14410.002" line="1" id="137208_1" citation_local_level_id="0" >542 U.S. 917</CITATION>
+
+<CITATION party2="SNIADO ET AL" party1="BANK AUSTRIA AG ET AL." citation_global_level_id="51249.001" party2_short="SNIADO" line="1" id="137208_3" alternative_keys="['u.s._542_917']" end="55" entry_type="party_key" lookup_key="agsniado#1" id1="137208" start="17" party1_short="AG" citation_local_level_id="1" >BANK AUSTRIA AG ET AL. v. SNIADO ET AL</CITATION>
+
+<NAME end="39" start="17" party1_of="137208_3" all_names="BANK AUSTRIA AG" local_name_id="1" id="137208_5" >BANK AUSTRIA AG ET AL.</NAME>
+
+<ORGANIZATION start="17" end="38" id="137208_10" >BANK AUSTRIA AG ET AL</ORGANIZATION>
+
+<ORGANIZATION start="17" end="21" id="137208_11" >BANK</ORGANIZATION>
+
+<NAME end="55" start="43" all_names="SNIADO" party2_of="137208_3" local_name_id="2" id="137208_6" >SNIADO ET AL</NAME>
+
+<DOCKET end="72" entry_type="docket" lookup_key="u.s._542_917" id1="137207" start="65" citation_global_level_id="14410.002" line="1" id="137208_2" citation_local_level_id="0" >03-1015</DOCKET>
+
+<ORGANIZATION start="78" end="108" id="137208_12" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="114" end="127" id="137208_9" >June 21, 2004</DATE>
+
+<NAME start="158" local_name_id="3" end="161" id="137208_13" all_names="CIR" >Cir</NAME>
+
+<CITATION party2="Empagran S. A" party1="F. Hoffmann-La Roche Ltd" citation_global_level_id="62892.003" party2_short="A" line="1" id="137208_4" alternative_keys="['u.s._542_155']" end="298" entry_type="party_key" lookup_key="rochea#1" id1="136989" start="257" party1_short="Roche" citation_local_level_id="2" >F. Hoffmann-La Roche Ltd v. Empagran S. A</CITATION>
+
+<NAME end="281" start="257" party1_of="137208_4" all_names="F HOFFMANN-LA ROCHE LTD" local_name_id="4" id="137208_7" >F. Hoffmann-La Roche Ltd</NAME>
+
+<NAME end="298" start="285" all_names="EMPAGRAN S A" party2_of="137208_4" local_name_id="5" id="137208_8" >Empagran S. A</NAME>
+
+<CITATION end="368" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_352_73" id1="Dummy_File_72115" volume="352" start="356" page_number="73" standard_reporter="F.3D" citation_global_level_id="135965.001" line="3" id="137208_21" citation_local_level_id="3" >352 F. 3d 73</CITATION>
+
+<RELATION theme="137208_1" includes_docket_string="03-1015" includes_docket="137208_2" theme_string="542 U.S. 917" gram_type="apposition" relation_type="asymmetric" id="137208_18" ></RELATION>
+
+<RELATION standard_case_string="542 U.S. 917" X_vs_Y_string="BANK AUSTRIA AG ET AL. v. SNIADO ET AL" standard_case="137208_1" X_vs_Y="137208_3" gram_type="pre_nom" relation_type="equivalence" id="137208_14" ></RELATION>
+
+<RELATION theme="137208_3" includes_docket_string="03-1015" includes_docket="137208_2" theme_string="BANK AUSTRIA AG ET AL. v. SNIADO ET AL" gram_type="apposition" relation_type="asymmetric" id="137208_17" ></RELATION>
+
+<RELATION theme="137208_3" party1="137208_5" party1_string="BANK AUSTRIA AG ET AL." theme_string="BANK AUSTRIA AG ET AL. v. SNIADO ET AL" gram_type="infix" relation_type="asymmetric" id="137208_15" ></RELATION>
+
+<RELATION party2="137208_6" theme="137208_3" theme_string="BANK AUSTRIA AG ET AL. v. SNIADO ET AL" party2_string="SNIADO ET AL" gram_type="infix" relation_type="asymmetric" id="137208_16" ></RELATION>
+
+<RELATION theme="137208_4" party1="137208_7" party1_string="F. Hoffmann-La Roche Ltd" theme_string="F. Hoffmann-La Roche Ltd v. Empagran S. A" gram_type="infix" relation_type="asymmetric" id="137208_19" ></RELATION>
+
+<RELATION party2="137208_8" theme="137208_4" theme_string="F. Hoffmann-La Roche Ltd v. Empagran S. A" party2_string="Empagran S. A" gram_type="infix" relation_type="asymmetric" id="137208_20" ></RELATION>
+

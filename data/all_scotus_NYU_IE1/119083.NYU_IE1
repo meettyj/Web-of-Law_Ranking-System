@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['tinkerfacility#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_956" id1="119087" volume="535" start="0" page_number="956" standard_reporter="U.S." citation_global_level_id="3272.002" line="1" id="119083_1" citation_local_level_id="0" >535 U.S. 956</CITATION>
+
+<CITATION party2="HANKS, SUPERINTENDENT, WABASH VALLEY CORRECTIONAL FACILITY" party1="TINKER" citation_global_level_id="3272.008" party2_short="FACILITY" line="2" id="119083_3" alternative_keys="['u.s._535_956']" end="85" entry_type="party_key" lookup_key="tinkerfacility#1" id1="119087" start="17" party1_short="TINKER" citation_local_level_id="1" >TINKER v. HANKS, SUPERINTENDENT, WABASH VALLEY CORRECTIONAL FACILITY</CITATION>
+
+<NAME end="23" start="17" party1_of="119083_3" all_names="TINKER" local_name_id="1" id="119083_4" >TINKER</NAME>
+
+<NAME end="85" start="27" all_names="HANKS SUPERINTENDENT WABASH VALLEY CORRECTIONAL FACILITY" party2_of="119083_3" local_name_id="2" id="119083_5" >HANKS, SUPERINTENDENT, WABASH VALLEY CORRECTIONAL FACILITY</NAME>
+
+<DOCKET alternative_keys="['u.s._535_956']" end="102" entry_type="docket" lookup_key="tinkerfacility#1" id1="119087" start="95" citation_global_level_id="3272.008" line="2" id="119083_2" citation_local_level_id="1" >01-7814</DOCKET>
+
+<DATE start="148" citation_global_level_id="3272.008" end="162" id="119083_9" citation_local_level_id="1" >March 25, 2002</DATE>
+
+<NAME start="194" local_name_id="3" end="197" id="119083_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="247" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_255_444" id1="Dummy_File_201128" volume="255" start="234" page_number="444" standard_reporter="F.3D" citation_global_level_id="264978.001" line="7" id="119083_12" citation_local_level_id="2" >255 F. 3d 444</CITATION>
+
+<RELATION theme="119083_3" includes_docket_string="01-7814" includes_docket="119083_2" theme_string="TINKER v. HANKS, SUPERINTENDENT, WABASH VALLEY CORRECTIONAL FACILITY" gram_type="apposition" relation_type="asymmetric" id="119083_8" ></RELATION>
+
+<RELATION theme="119083_3" party1="119083_4" party1_string="TINKER" theme_string="TINKER v. HANKS, SUPERINTENDENT, WABASH VALLEY CORRECTIONAL FACILITY" gram_type="infix" relation_type="asymmetric" id="119083_6" ></RELATION>
+
+<RELATION party2="119083_5" theme="119083_3" theme_string="TINKER v. HANKS, SUPERINTENDENT, WABASH VALLEY CORRECTIONAL FACILITY" party2_string="HANKS, SUPERINTENDENT, WABASH VALLEY CORRECTIONAL FACILITY" gram_type="infix" relation_type="asymmetric" id="119083_7" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 956" X_vs_Y_string="TINKER v. HANKS, SUPERINTENDENT, WABASH VALLEY CORRECTIONAL FACILITY" standard_case="119083_1" X_vs_Y="119083_3" gram_type="multi_line" relation_type="equivalence" id="119083_10" ></RELATION>
+
+<RELATION at_date_string="March 25, 2002" theme="119083_3" at_date="119083_9" theme_string="TINKER v. HANKS, SUPERINTENDENT, WABASH VALLEY CORRECTIONAL FACILITY" gram_type="multi_line" relation_type="asymmetric" id="119083_11" ></RELATION>
+

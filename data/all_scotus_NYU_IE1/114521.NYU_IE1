@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['hernandezstates#8']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_926" id1="114519" volume="510" start="0" page_number="926" standard_reporter="U.S." citation_global_level_id="1091.002" line="1" id="114521_1" citation_local_level_id="0" >510 U.S. 926</CITATION>
+
+<CITATION party2="United States" party1="Villanueva-Hernandez" citation_global_level_id="3320.001" party2_short="States" line="1" id="114521_3" alternative_keys="['u.s._510_926']" end="54" entry_type="party_key" lookup_key="hernandezstates#8" id1="133643" start="17" party1_short="Hernandez" citation_local_level_id="1" >Villanueva-Hernandez v. United States</CITATION>
+
+<NAME end="37" start="17" party1_of="114521_3" all_names="VILLANUEVA-HERNANDEZ" local_name_id="1" id="114521_4" >Villanueva-Hernandez</NAME>
+
+<NAME end="54" start="41" all_names="UNITED STATES" party2_of="114521_3" local_name_id="2" id="114521_5" >United States</NAME>
+
+<DOCKET end="71" entry_type="docket" lookup_key="u.s._510_926" id1="114519" start="64" citation_global_level_id="1091.002" line="1" id="114521_2" citation_local_level_id="0" >93-5829</DOCKET>
+
+<DATE start="113" end="129" id="114521_6" >October 12, 1993</DATE>
+
+<NAME start="207" local_name_id="3" end="217" id="114521_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="255" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_995_808" id1="Dummy_File_45648" volume="995" start="242" page_number="808" standard_reporter="F.2D" citation_global_level_id="109498.001" line="3" id="114521_12" citation_local_level_id="2" >995 F. 2d 808</CITATION>
+
+<RELATION theme="114521_1" includes_docket_string="93-5829" includes_docket="114521_2" theme_string="510 U.S. 926" gram_type="apposition" relation_type="asymmetric" id="114521_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 926" X_vs_Y_string="Villanueva-Hernandez v. United States" standard_case="114521_1" X_vs_Y="114521_3" gram_type="pre_nom" relation_type="equivalence" id="114521_7" ></RELATION>
+
+<RELATION theme="114521_3" includes_docket_string="93-5829" includes_docket="114521_2" theme_string="Villanueva-Hernandez v. United States" gram_type="apposition" relation_type="asymmetric" id="114521_10" ></RELATION>
+
+<RELATION theme="114521_3" party1="114521_4" party1_string="Villanueva-Hernandez" theme_string="Villanueva-Hernandez v. United States" gram_type="infix" relation_type="asymmetric" id="114521_8" ></RELATION>
+
+<RELATION party2="114521_5" theme="114521_3" theme_string="Villanueva-Hernandez v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="114521_9" ></RELATION>
+

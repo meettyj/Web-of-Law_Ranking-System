@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['williamskemna#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._542_947" id1="137563" volume="542" start="0" page_number="947" standard_reporter="U.S." citation_global_level_id="9149.002" line="1" id="137563_1" citation_local_level_id="0" >542 U.S. 947</CITATION>
+
+<CITATION party2="KEMNA, SUPERINTENDENT, CROSS-ROADS CORRECTIONAL CENTER" party1="WILLIAMS" citation_global_level_id="4283.006" party2_short="KEMNA" line="1" id="137563_3" alternative_keys="['u.s._541_1052']" end="83" entry_type="party_key" lookup_key="williamskemna#1" id1="136407" start="17" party1_short="WILLIAMS" citation_local_level_id="1" >WILLIAMS v. KEMNA, SUPERINTENDENT, CROSS-ROADS CORRECTIONAL CENTER</CITATION>
+
+<NAME end="25" start="17" party1_of="137563_3" all_names="WILLIAMS" local_name_id="1" id="137563_4" >WILLIAMS</NAME>
+
+<NAME end="83" start="29" all_names="KEMNA SUPERINTENDENT CROSS-ROADS CORRECTIONAL CENTER" party2_of="137563_3" local_name_id="2" id="137563_5" >KEMNA, SUPERINTENDENT, CROSS-ROADS CORRECTIONAL CENTER</NAME>
+
+<DOCKET end="100" entry_type="docket" lookup_key="u.s._542_947" id1="137563" start="93" citation_global_level_id="9149.002" line="1" id="137563_2" citation_local_level_id="0" >03-9662</DOCKET>
+
+<DATE start="142" end="155" id="137563_6" >June 28, 2004</DATE>
+
+<CITATION end="263" reporter="U. S." entry_type="standard_key" lookup_key="u.s._541_1052" id1="136407" volume="541" start="249" page_number="1052" standard_reporter="U.S." citation_global_level_id="4283.002" line="3" id="137563_12" citation_local_level_id="2" >541 U. S. 1052</CITATION>
+
+<RELATION theme="137563_1" includes_docket_string="03-9662" includes_docket="137563_2" theme_string="542 U.S. 947" gram_type="apposition" relation_type="asymmetric" id="137563_11" ></RELATION>
+
+<RELATION standard_case_string="542 U.S. 947" X_vs_Y_string="WILLIAMS v. KEMNA, SUPERINTENDENT, CROSS-ROADS CORRECTIONAL CENTER" standard_case="137563_1" X_vs_Y="137563_3" gram_type="pre_nom" relation_type="equivalence" id="137563_7" ></RELATION>
+
+<RELATION theme="137563_3" includes_docket_string="03-9662" includes_docket="137563_2" theme_string="WILLIAMS v. KEMNA, SUPERINTENDENT, CROSS-ROADS CORRECTIONAL CENTER" gram_type="apposition" relation_type="asymmetric" id="137563_10" ></RELATION>
+
+<RELATION theme="137563_3" party1="137563_4" party1_string="WILLIAMS" theme_string="WILLIAMS v. KEMNA, SUPERINTENDENT, CROSS-ROADS CORRECTIONAL CENTER" gram_type="infix" relation_type="asymmetric" id="137563_8" ></RELATION>
+
+<RELATION party2="137563_5" theme="137563_3" theme_string="WILLIAMS v. KEMNA, SUPERINTENDENT, CROSS-ROADS CORRECTIONAL CENTER" party2_string="KEMNA, SUPERINTENDENT, CROSS-ROADS CORRECTIONAL CENTER" gram_type="infix" relation_type="asymmetric" id="137563_9" ></RELATION>
+

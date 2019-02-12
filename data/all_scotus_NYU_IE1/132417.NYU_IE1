@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['peacockillinois#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_897" id1="132414" volume="540" start="0" page_number="897" standard_reporter="U.S." citation_global_level_id="3032.002" line="1" id="132417_1" citation_local_level_id="0" >540 U.S. 897</CITATION>
+
+<CITATION party2="ILLINOIS" party1="PEACOCK" citation_global_level_id="60735.001" party2_short="ILLINOIS" line="1" id="132417_3" alternative_keys="['u.s._540_897']" end="36" entry_type="party_key" lookup_key="peacockillinois#1" id1="132417" start="17" party1_short="PEACOCK" citation_local_level_id="1" >PEACOCK v. ILLINOIS</CITATION>
+
+<NAME end="24" start="17" party1_of="132417_3" all_names="PEACOCK" local_name_id="1" id="132417_4" >PEACOCK</NAME>
+
+<NAME end="36" start="28" all_names="ILLINOIS" party2_of="132417_3" local_name_id="2" id="132417_5" >ILLINOIS</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="u.s._540_897" id1="132414" start="46" citation_global_level_id="3032.002" line="1" id="132417_2" citation_local_level_id="0" >03-5253</DOCKET>
+
+<DATE start="95" end="110" id="132417_6" >October 6, 2003</DATE>
+
+<NAME start="198" local_name_id="3" end="208" id="132417_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="271" reporter="N. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.e.2d_756_261" id1="Dummy_File_91739" volume="756" start="255" page_number="261" standard_reporter="N.E.2D" citation_global_level_id="155589.001" line="3" id="132417_12" citation_local_level_id="2" >756 N. E. 2d 261</CITATION>
+
+<RELATION theme="132417_1" includes_docket_string="03-5253" includes_docket="132417_2" theme_string="540 U.S. 897" gram_type="apposition" relation_type="asymmetric" id="132417_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 897" X_vs_Y_string="PEACOCK v. ILLINOIS" standard_case="132417_1" X_vs_Y="132417_3" gram_type="pre_nom" relation_type="equivalence" id="132417_7" ></RELATION>
+
+<RELATION theme="132417_3" includes_docket_string="03-5253" includes_docket="132417_2" theme_string="PEACOCK v. ILLINOIS" gram_type="apposition" relation_type="asymmetric" id="132417_10" ></RELATION>
+
+<RELATION theme="132417_3" party1="132417_4" party1_string="PEACOCK" theme_string="PEACOCK v. ILLINOIS" gram_type="infix" relation_type="asymmetric" id="132417_8" ></RELATION>
+
+<RELATION party2="132417_5" theme="132417_3" theme_string="PEACOCK v. ILLINOIS" party2_string="ILLINOIS" gram_type="infix" relation_type="asymmetric" id="132417_9" ></RELATION>
+

@@ -1,0 +1,78 @@
+<CITATION alternative_keys="['walkersmith#2', 'dall_4_389']" end="18" reporter="U.S." entry_type="standard_key" lookup_key="u.s._4_389" id1="84747" volume="4" start="1" page_number="389" standard_reporter="U.S." citation_global_level_id="13230.002" line="2" id="84747_1" citation_local_level_id="0" >4 U.S. 389 (____)</CITATION>
+
+<CITATION alternative_keys="['u.s._4_389', 'walkersmith#2']" end="30" reporter="Dall" entry_type="standard_key" lookup_key="dall_4_389" id1="84747" volume="4" start="19" page_number="389" standard_reporter="DALL" citation_global_level_id="13230.003" line="3" id="84747_2" citation_local_level_id="1" >4 Dall. 389</CITATION>
+
+<CITATION party2="Smith" party1="Walker et al." citation_global_level_id="23961.001" party2_short="Smith" line="6" id="84747_4" alternative_keys="['u.s._4_389', 'dall_4_389']" end="55" entry_type="party_key" lookup_key="walkersmith#2" id1="87253" start="31" party1_short="Walker" citation_local_level_id="2" >Walker et al. v. Smith</CITATION>
+
+<NAME end="44" start="31" party1_of="84747_4" all_names="WALKER" local_name_id="1" id="84747_5" >Walker et al.</NAME>
+
+<NAME end="55" start="50" all_names="SMITH" party2_of="84747_4" local_name_id="2" id="84747_6" >Smith</NAME>
+
+<ORGANIZATION start="57" end="87" id="84747_9" >Supreme Court of United States</ORGANIZATION>
+
+<LEGAL_ROLE start="103" end="113" plural="True" id="84747_12" >plaintiffs</LEGAL_ROLE>
+
+<PROFESSION start="115" end="137" id="84747_13" >J. Sergeant and Dallas</PROFESSION>
+
+<ORGANIZATION start="153" end="158" id="84747_14" >COURT</ORGANIZATION>
+
+<LEGAL_ROLE start="247" end="257" plural="True" id="84747_15" >plaintiffs</LEGAL_ROLE>
+
+<LEGAL_ROLE start="507" end="517" plural="True" id="84747_16" >plaintiffs</LEGAL_ROLE>
+
+<LEGAL_ROLE start="610" end="632" id="84747_17" >defendant a commission</LEGAL_ROLE>
+
+<LEGAL_ROLE start="687" end="697" plural="True" id="84747_18" >plaintiffs</LEGAL_ROLE>
+
+<PROFESSION start="734" end="753" id="84747_19" >plaintiffs' counsel</PROFESSION>
+
+<ORGANIZATION start="851" end="856" id="84747_20" >Court</ORGANIZATION>
+
+<NAME start="929" local_name_id="3" end="939" id="84747_21" all_names="WASHINGTON" >WASHINGTON</NAME>
+
+<PROFESSION start="941" document_level_name_id="3" end="948" id="84747_22" party="WASHINGTON" >Justice</PROFESSION>
+
+<ORGANIZATION start="1204" end="1212" id="84747_23" >province</ORGANIZATION>
+
+<ORGANIZATION start="1300" end="1308" id="84747_24" >province</ORGANIZATION>
+
+<ORGANIZATION start="1316" end="1321" id="84747_25" >Court</ORGANIZATION>
+
+<NAME start="1323" local_name_id="4" end="1328" id="84747_27" all_names="NOTES" >NOTES</NAME>
+
+<LEGAL_ROLE start="1370" end="1380" plural="True" id="84747_28" >plaintiffs</LEGAL_ROLE>
+
+<LEGAL_ROLE start="1434" end="1443" id="84747_29" >defendant</LEGAL_ROLE>
+
+<PROFESSION start="1446" end="1453" id="84747_30" >counsel</PROFESSION>
+
+<PROFESSION start="1458" end="1465" id="84747_31" >general</PROFESSION>
+
+<NAME start="1482" local_name_id="5" end="1491" id="84747_32" all_names="INGERSOLL" >Ingersoll</NAME>
+
+<LEGAL_ROLE start="1547" end="1556" id="84747_33" >plaintiff</LEGAL_ROLE>
+
+<PROFESSION start="1807" document_level_name_id="6" end="1812" id="84747_34" party="CHASE" >Judge</PROFESSION>
+
+<NAME start="1813" local_name_id="6" end="1818" id="84747_35" all_names="CHASE" >CHASE</NAME>
+
+<ORGANIZATION start="1829" end="1854" id="84747_36" >Circuit Court of Delaware</ORGANIZATION>
+
+<NAME start="1994" local_name_id="7" end="2000" id="84747_37" all_names="DALLAS" >Dallas</NAME>
+
+<ORGANIZATION start="2086" end="2091" id="84747_38" >COURT</ORGANIZATION>
+
+<LEGAL_ROLE start="2110" end="2120" plural="True" id="84747_39" >plaintiffs</LEGAL_ROLE>
+
+<RELATION theme="84747_4" party1="84747_5" party1_string="Walker et al." theme_string="Walker et al.  v.  Smith" gram_type="infix" relation_type="asymmetric" id="84747_7" ></RELATION>
+
+<RELATION party2="84747_6" theme="84747_4" theme_string="Walker et al.  v.  Smith" party2_string="Smith" gram_type="infix" relation_type="asymmetric" id="84747_8" ></RELATION>
+
+<RELATION standard_case_string="4 U.S. 389 (____)" X_vs_Y_string="Walker et al.  v.  Smith" standard_case="84747_1" X_vs_Y="84747_4" gram_type="multi_line" relation_type="equivalence" id="84747_10" ></RELATION>
+
+<RELATION standard_case_string="4 Dall. 389" X_vs_Y_string="Walker et al.  v.  Smith" standard_case="84747_2" X_vs_Y="84747_4" gram_type="multi_line" relation_type="equivalence" id="84747_11" ></RELATION>
+
+<RELATION theme="84747_21" profession_string="Justice" theme_string="WASHINGTON" profession="84747_22" gram_type="apposition" relation_type="asymmetric" id="84747_26" ></RELATION>
+
+<RELATION theme="84747_35" profession_string="Judge" theme_string="CHASE" profession="84747_34" gram_type="pre_nom" relation_type="asymmetric" id="84747_40" ></RELATION>
+

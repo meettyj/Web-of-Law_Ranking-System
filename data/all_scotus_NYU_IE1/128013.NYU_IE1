@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['hyattkentucky#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_909" id1="128008" volume="538" start="0" page_number="909" standard_reporter="U.S." citation_global_level_id="1216.002" line="1" id="128013_1" citation_local_level_id="0" >538 U.S. 909</CITATION>
+
+<CITATION party2="KENTUCKY" party1="HYATT" citation_global_level_id="57690.001" party2_short="KENTUCKY" line="1" id="128013_3" alternative_keys="['u.s._538_909']" end="34" entry_type="party_key" lookup_key="hyattkentucky#1" id1="128013" start="17" party1_short="HYATT" citation_local_level_id="1" >HYATT v. KENTUCKY</CITATION>
+
+<NAME end="22" start="17" party1_of="128013_3" all_names="HYATT" local_name_id="1" id="128013_4" >HYATT</NAME>
+
+<NAME end="34" start="26" all_names="KENTUCKY" party2_of="128013_3" local_name_id="2" id="128013_5" >KENTUCKY</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="u.s._538_909" id1="128008" start="44" citation_global_level_id="1216.002" line="1" id="128013_2" citation_local_level_id="0" >02-6435</DOCKET>
+
+<DATE start="93" end="107" id="128013_6" >March 10, 2003</DATE>
+
+<NAME start="199" local_name_id="3" end="202" id="128013_13" all_names="SUP" >Sup</NAME>
+
+<CITATION end="262" reporter="S. W. 3d" entry_type="standard_key" no_current_file="True" lookup_key="s.w.3d_72_566" id1="Dummy_File_177434" volume="72" start="247" page_number="566" standard_reporter="S.W.3D" citation_global_level_id="241284.001" line="3" id="128013_12" citation_local_level_id="2" >72 S. W. 3d 566</CITATION>
+
+<RELATION theme="128013_1" includes_docket_string="02-6435" includes_docket="128013_2" theme_string="538 U.S. 909" gram_type="apposition" relation_type="asymmetric" id="128013_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 909" X_vs_Y_string="HYATT v. KENTUCKY" standard_case="128013_1" X_vs_Y="128013_3" gram_type="pre_nom" relation_type="equivalence" id="128013_7" ></RELATION>
+
+<RELATION theme="128013_3" includes_docket_string="02-6435" includes_docket="128013_2" theme_string="HYATT v. KENTUCKY" gram_type="apposition" relation_type="asymmetric" id="128013_10" ></RELATION>
+
+<RELATION theme="128013_3" party1="128013_4" party1_string="HYATT" theme_string="HYATT v. KENTUCKY" gram_type="infix" relation_type="asymmetric" id="128013_8" ></RELATION>
+
+<RELATION party2="128013_5" theme="128013_3" theme_string="HYATT v. KENTUCKY" party2_string="KENTUCKY" gram_type="infix" relation_type="asymmetric" id="128013_9" ></RELATION>
+

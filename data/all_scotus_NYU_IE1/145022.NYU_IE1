@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['dossmississippi#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_1062" id1="145019" volume="544" start="0" page_number="1062" standard_reporter="U.S." citation_global_level_id="1174.002" line="1" id="145022_1" citation_local_level_id="0" >544 U.S. 1062</CITATION>
+
+<CITATION party2="MISSISSIPPI" party1="DOSS" citation_global_level_id="18725.001" party2_short="MISSISSIPPI" line="2" id="145022_2" alternative_keys="['u.s._544_1062']" end="37" entry_type="party_key" lookup_key="dossmississippi#1" id1="145022" start="18" party1_short="DOSS" citation_local_level_id="1" >DOSS v. MISSISSIPPI</CITATION>
+
+<NAME end="22" start="18" party1_of="145022_2" all_names="DOSS" local_name_id="1" id="145022_3" >DOSS</NAME>
+
+<NAME end="37" start="26" all_names="MISSISSIPPI" party2_of="145022_2" local_name_id="2" id="145022_4" >MISSISSIPPI</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="dossmississippi#1" id1="145022" start="47" citation_global_level_id="18725.001" line="3" id="145022_7" citation_local_level_id="1" >04-7910</DOCKET>
+
+<ORGANIZATION start="60" end="90" id="145022_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="96" citation_global_level_id="18725.001" end="108" id="145022_9" citation_local_level_id="1" >May 31, 2005</DATE>
+
+<NAME start="130" local_name_id="3" end="133" id="145022_14" all_names="SUP" >Sup</NAME>
+
+<CITATION end="194" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_882_176" id1="Dummy_File_193005" volume="882" start="180" page_number="176" standard_reporter="SO.2D" citation_global_level_id="256855.001" line="8" id="145022_13" citation_local_level_id="2" >882 So. 2d 176</CITATION>
+
+<RELATION theme="145022_2" party1="145022_3" party1_string="DOSS" theme_string="DOSS v. MISSISSIPPI" gram_type="infix" relation_type="asymmetric" id="145022_5" ></RELATION>
+
+<RELATION party2="145022_4" theme="145022_2" theme_string="DOSS v. MISSISSIPPI" party2_string="MISSISSIPPI" gram_type="infix" relation_type="asymmetric" id="145022_6" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 1062" X_vs_Y_string="DOSS v. MISSISSIPPI" standard_case="145022_1" X_vs_Y="145022_2" gram_type="multi_line" relation_type="equivalence" id="145022_10" ></RELATION>
+
+<RELATION at_date_string="May 31, 2005" theme="145022_2" at_date="145022_9" theme_string="DOSS v. MISSISSIPPI" gram_type="multi_line" relation_type="asymmetric" id="145022_12" ></RELATION>
+
+<RELATION theme="145022_2" includes_docket_string="04-7910" includes_docket="145022_7" theme_string="DOSS v. MISSISSIPPI" gram_type="multi_line" relation_type="asymmetric" id="145022_11" ></RELATION>
+

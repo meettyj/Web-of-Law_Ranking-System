@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['lonedogstates#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_975" id1="133425" volume="540" start="0" page_number="975" standard_reporter="U.S." citation_global_level_id="7698.002" line="1" id="133428_1" citation_local_level_id="0" >540 U.S. 975</CITATION>
+
+<CITATION party2="UNITED STATES" party1="LONEDOG" citation_global_level_id="39146.001" party2_short="STATES" line="1" id="133428_3" alternative_keys="['u.s._540_975']" end="41" entry_type="party_key" lookup_key="lonedogstates#1" id1="133428" start="17" party1_short="LONEDOG" citation_local_level_id="1" >LONEDOG v. UNITED STATES</CITATION>
+
+<NAME end="24" start="17" party1_of="133428_3" all_names="LONEDOG" local_name_id="1" id="133428_4" >LONEDOG</NAME>
+
+<NAME end="41" start="28" all_names="UNITED STATES" party2_of="133428_3" local_name_id="2" id="133428_5" >UNITED STATES</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._540_975" id1="133425" start="51" citation_global_level_id="7698.002" line="1" id="133428_2" citation_local_level_id="0" >03-6378</DOCKET>
+
+<DATE start="100" end="116" id="133428_6" >October 20, 2003</DATE>
+
+<NAME start="195" local_name_id="3" end="205" id="133428_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="133428_1" includes_docket_string="03-6378" includes_docket="133428_2" theme_string="540 U.S. 975" gram_type="apposition" relation_type="asymmetric" id="133428_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 975" X_vs_Y_string="LONEDOG v. UNITED STATES" standard_case="133428_1" X_vs_Y="133428_3" gram_type="pre_nom" relation_type="equivalence" id="133428_7" ></RELATION>
+
+<RELATION theme="133428_3" includes_docket_string="03-6378" includes_docket="133428_2" theme_string="LONEDOG v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="133428_10" ></RELATION>
+
+<RELATION theme="133428_3" party1="133428_4" party1_string="LONEDOG" theme_string="LONEDOG v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="133428_8" ></RELATION>
+
+<RELATION party2="133428_5" theme="133428_3" theme_string="LONEDOG v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="133428_9" ></RELATION>
+

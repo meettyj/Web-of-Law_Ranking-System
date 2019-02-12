@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['barstowservice#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_926" id1="130467" volume="539" start="0" page_number="926" standard_reporter="U.S." citation_global_level_id="7443.002" line="1" id="130475_1" citation_local_level_id="0" >539 U.S. 926</CITATION>
+
+<CITATION party2="Internal Revenue Service" party1="Barstow" citation_global_level_id="47161.001" party2_short="Service" line="1" id="130475_3" alternative_keys="['u.s._539_926']" end="52" entry_type="party_key" lookup_key="barstowservice#1" id1="130475" start="17" party1_short="Barstow" citation_local_level_id="1" >Barstow v. Internal Revenue Service</CITATION>
+
+<NAME end="24" start="17" party1_of="130475_3" all_names="BARSTOW" local_name_id="1" id="130475_4" >Barstow</NAME>
+
+<NAME end="52" start="28" all_names="INTERNAL REVENUE SERVICE" party2_of="130475_3" local_name_id="2" id="130475_5" >Internal Revenue Service</NAME>
+
+<DOCKET end="69" entry_type="docket" lookup_key="u.s._539_926" id1="130467" start="62" citation_global_level_id="7443.002" line="1" id="130475_2" citation_local_level_id="0" >02-1355</DOCKET>
+
+<DATE start="111" end="124" id="130475_6" >June 16, 2003</DATE>
+
+<NAME start="202" local_name_id="3" end="212" id="130475_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="251" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_308_1038" id1="Dummy_File_170389" volume="308" start="237" page_number="1038" standard_reporter="F.3D" citation_global_level_id="234239.001" line="3" id="130475_12" citation_local_level_id="2" >308 F. 3d 1038</CITATION>
+
+<RELATION theme="130475_1" includes_docket_string="02-1355" includes_docket="130475_2" theme_string="539 U.S. 926" gram_type="apposition" relation_type="asymmetric" id="130475_11" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 926" X_vs_Y_string="Barstow v. Internal Revenue Service" standard_case="130475_1" X_vs_Y="130475_3" gram_type="pre_nom" relation_type="equivalence" id="130475_7" ></RELATION>
+
+<RELATION theme="130475_3" includes_docket_string="02-1355" includes_docket="130475_2" theme_string="Barstow v. Internal Revenue Service" gram_type="apposition" relation_type="asymmetric" id="130475_10" ></RELATION>
+
+<RELATION theme="130475_3" party1="130475_4" party1_string="Barstow" theme_string="Barstow v. Internal Revenue Service" gram_type="infix" relation_type="asymmetric" id="130475_8" ></RELATION>
+
+<RELATION party2="130475_5" theme="130475_3" theme_string="Barstow v. Internal Revenue Service" party2_string="Internal Revenue Service" gram_type="infix" relation_type="asymmetric" id="130475_9" ></RELATION>
+

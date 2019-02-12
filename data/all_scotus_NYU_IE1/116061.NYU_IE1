@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['tillmanwarden#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1050" id1="116052" volume="510" start="0" page_number="1050" standard_reporter="U.S." citation_global_level_id="1627.002" line="1" id="116061_1" citation_local_level_id="0" >510 U.S. 1050</CITATION>
+
+<CITATION party2="Cook, Warden" party1="Tillman" citation_global_level_id="2910.001" party2_short="Warden" line="1" id="116061_3" alternative_keys="['u.s._510_1050']" end="41" entry_type="party_key" lookup_key="tillmanwarden#1" id1="116061" start="18" party1_short="Tillman" citation_local_level_id="1" >Tillman v. Cook, Warden</CITATION>
+
+<NAME end="25" start="18" party1_of="116061_3" all_names="TILLMAN" local_name_id="1" id="116061_4" >Tillman</NAME>
+
+<NAME end="41" start="29" all_names="COOK WARDEN" party2_of="116061_3" local_name_id="2" id="116061_5" >Cook, Warden</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._510_1050" id1="116052" start="51" citation_global_level_id="1627.002" line="1" id="116061_2" citation_local_level_id="0" >93-6476</DOCKET>
+
+<DATE start="100" end="116" id="116061_6" >January 10, 1994</DATE>
+
+<NAME start="194" local_name_id="3" end="204" id="116061_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="242" reporter="P. 2d" entry_type="standard_key" no_current_file="True" lookup_key="p.2d_855_211" id1="Dummy_File_227886" volume="855" start="229" page_number="211" standard_reporter="P.2D" citation_global_level_id="291736.001" line="3" id="116061_12" citation_local_level_id="2" >855 P. 2d 211</CITATION>
+
+<RELATION theme="116061_1" includes_docket_string="93-6476" includes_docket="116061_2" theme_string="510 U.S. 1050" gram_type="apposition" relation_type="asymmetric" id="116061_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1050" X_vs_Y_string="Tillman v. Cook, Warden" standard_case="116061_1" X_vs_Y="116061_3" gram_type="pre_nom" relation_type="equivalence" id="116061_7" ></RELATION>
+
+<RELATION theme="116061_3" includes_docket_string="93-6476" includes_docket="116061_2" theme_string="Tillman v. Cook, Warden" gram_type="apposition" relation_type="asymmetric" id="116061_10" ></RELATION>
+
+<RELATION theme="116061_3" party1="116061_4" party1_string="Tillman" theme_string="Tillman v. Cook, Warden" gram_type="infix" relation_type="asymmetric" id="116061_8" ></RELATION>
+
+<RELATION party2="116061_5" theme="116061_3" theme_string="Tillman v. Cook, Warden" party2_string="Cook, Warden" gram_type="infix" relation_type="asymmetric" id="116061_9" ></RELATION>
+

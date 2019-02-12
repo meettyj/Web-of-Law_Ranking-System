@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['groupklay#3']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1081" id1="141352" volume="543" start="0" page_number="1081" standard_reporter="U.S." citation_global_level_id="554.002" line="1" id="141357_1" citation_local_level_id="0" >543 U.S. 1081</CITATION>
+
+<CITATION party2="KLAY ET AL" party1="UNITED HEALTH GROUP, INC., FKA UNITED HEALTHCARE CORP., ET AL." citation_global_level_id="554.006" party2_short="KLAY" line="2" id="141357_2" alternative_keys="['u.s._543_1081']" end="94" entry_type="party_key" lookup_key="groupklay#3" id1="141352" start="18" party1_short="GROUP" citation_local_level_id="1" >UNITED HEALTH GROUP, INC., FKA UNITED HEALTHCARE CORP., ET AL. v. KLAY ET AL</CITATION>
+
+<NAME end="80" start="18" party1_of="141357_2" all_names="UNITED HEALTH GROUP INC FKA UNITED HEALTHCARE CORP" local_name_id="1" id="141357_3" >UNITED HEALTH GROUP, INC., FKA UNITED HEALTHCARE CORP., ET AL.</NAME>
+
+<ORGANIZATION start="18" end="42" id="141357_5" >UNITED HEALTH GROUP, INC</ORGANIZATION>
+
+<ORGANIZATION start="45" end="71" id="141357_6" >FKA UNITED HEALTHCARE CORP</ORGANIZATION>
+
+<NAME end="94" start="84" all_names="KLAY" party2_of="141357_2" local_name_id="2" id="141357_4" >KLAY ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._543_1081']" end="110" entry_type="docket" lookup_key="groupklay#3" id1="141352" start="104" citation_global_level_id="554.006" line="3" id="141357_9" citation_local_level_id="1" >04-522</DOCKET>
+
+<ORGANIZATION start="116" end="146" id="141357_10" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="152" citation_global_level_id="554.006" end="168" id="141357_11" citation_local_level_id="1" >January 10, 2005</DATE>
+
+<NAME start="201" local_name_id="3" end="204" id="141357_16" all_names="CIR" >Cir</NAME>
+
+<CITATION end="334" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_382_1241" id1="Dummy_File_120963" volume="382" start="320" page_number="1241" standard_reporter="F.3D" citation_global_level_id="184813.001" line="8" id="141357_15" citation_local_level_id="2" >382 F. 3d 1241</CITATION>
+
+<RELATION theme="141357_2" party1="141357_3" party1_string="UNITED HEALTH GROUP, INC., FKA UNITED HEALTHCARE CORP., ET AL." theme_string="UNITED HEALTH GROUP, INC., FKA UNITED HEALTHCARE CORP., ET AL. v. KLAY ET AL" gram_type="infix" relation_type="asymmetric" id="141357_7" ></RELATION>
+
+<RELATION party2="141357_4" theme="141357_2" theme_string="UNITED HEALTH GROUP, INC., FKA UNITED HEALTHCARE CORP., ET AL. v. KLAY ET AL" party2_string="KLAY ET AL" gram_type="infix" relation_type="asymmetric" id="141357_8" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1081" X_vs_Y_string="UNITED HEALTH GROUP, INC., FKA UNITED HEALTHCARE CORP., ET AL. v. KLAY ET AL" standard_case="141357_1" X_vs_Y="141357_2" gram_type="multi_line" relation_type="equivalence" id="141357_12" ></RELATION>
+
+<RELATION at_date_string="January 10, 2005" theme="141357_2" at_date="141357_11" theme_string="UNITED HEALTH GROUP, INC., FKA UNITED HEALTHCARE CORP., ET AL. v. KLAY ET AL" gram_type="multi_line" relation_type="asymmetric" id="141357_14" ></RELATION>
+
+<RELATION theme="141357_2" includes_docket_string="04-522" includes_docket="141357_9" theme_string="UNITED HEALTH GROUP, INC., FKA UNITED HEALTHCARE CORP., ET AL. v. KLAY ET AL" gram_type="multi_line" relation_type="asymmetric" id="141357_13" ></RELATION>
+

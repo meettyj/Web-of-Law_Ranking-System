@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['halllendis#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_984" id1="128974" volume="538" start="0" page_number="984" standard_reporter="U.S." citation_global_level_id="3869.002" line="1" id="128974_1" citation_local_level_id="0" >538 U.S. 984</CITATION>
+
+<CITATION party2="LENDIS" party1="HALL" citation_global_level_id="3869.001" party2_short="LENDIS" line="1" id="128974_3" alternative_keys="['u.s._538_984']" end="31" entry_type="party_key" lookup_key="halllendis#1" id1="128974" start="17" party1_short="HALL" citation_local_level_id="1" >HALL v. LENDIS</CITATION>
+
+<NAME end="21" start="17" party1_of="128974_3" all_names="HALL" local_name_id="1" id="128974_4" >HALL</NAME>
+
+<NAME end="31" start="25" all_names="LENDIS" party2_of="128974_3" local_name_id="2" id="128974_5" >LENDIS</NAME>
+
+<DOCKET end="48" entry_type="docket" lookup_key="u.s._538_984" id1="128974" start="41" citation_global_level_id="3869.002" line="1" id="128974_2" citation_local_level_id="0" >02-9044</DOCKET>
+
+<DATE start="90" end="104" id="128974_6" >April 21, 2003</DATE>
+
+<NAME start="219" local_name_id="3" end="224" id="128974_12" all_names="SUPER" >Super</NAME>
+
+<RELATION theme="128974_1" includes_docket_string="02-9044" includes_docket="128974_2" theme_string="538 U.S. 984" gram_type="apposition" relation_type="asymmetric" id="128974_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 984" X_vs_Y_string="HALL v. LENDIS" standard_case="128974_1" X_vs_Y="128974_3" gram_type="pre_nom" relation_type="equivalence" id="128974_7" ></RELATION>
+
+<RELATION theme="128974_3" includes_docket_string="02-9044" includes_docket="128974_2" theme_string="HALL v. LENDIS" gram_type="apposition" relation_type="asymmetric" id="128974_10" ></RELATION>
+
+<RELATION theme="128974_3" party1="128974_4" party1_string="HALL" theme_string="HALL v. LENDIS" gram_type="infix" relation_type="asymmetric" id="128974_8" ></RELATION>
+
+<RELATION party2="128974_5" theme="128974_3" theme_string="HALL v. LENDIS" party2_string="LENDIS" gram_type="infix" relation_type="asymmetric" id="128974_9" ></RELATION>
+

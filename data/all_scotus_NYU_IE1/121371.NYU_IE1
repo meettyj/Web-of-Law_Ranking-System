@@ -1,0 +1,42 @@
+<CITATION alternative_keys="['mayfieldtexas#1', 'ampstexas#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._536_919" id1="121371" volume="536" start="0" page_number="919" standard_reporter="U.S." citation_global_level_id="6362.002" line="1" id="121371_1" citation_local_level_id="0" >536 U.S. 919</CITATION>
+
+<CITATION party2="TEXAS ET AL" party1="AMPS ET AL." citation_global_level_id="6362.004" party2_short="TEXAS" line="2" id="121371_2" alternative_keys="['mayfieldtexas#1', 'u.s._536_919']" end="43" entry_type="party_key" lookup_key="ampstexas#2" id1="121371" start="17" party1_short="AMPS" citation_local_level_id="1" >AMPS ET AL. v. TEXAS ET AL</CITATION>
+
+<NAME end="28" start="17" party1_of="121371_2" all_names="AMPS" local_name_id="1" id="121371_4" >AMPS ET AL.</NAME>
+
+<NAME end="43" start="32" all_names="TEXAS" party2_of="121371_2" local_name_id="2" id="121371_5" >TEXAS ET AL</NAME>
+
+<CITATION party2="TEXAS ET AL" party1="MAYFIELD ET AL." citation_global_level_id="33408.001" party2_short="TEXAS" line="2" id="121371_3" alternative_keys="['u.s._536_919', 'ampstexas#2']" end="79" entry_type="party_key" lookup_key="mayfieldtexas#1" id1="121377" start="49" party1_short="MAYFIELD" citation_local_level_id="2" >MAYFIELD ET AL. v. TEXAS ET AL</CITATION>
+
+<NAME end="64" start="49" party1_of="121371_3" all_names="MAYFIELD" local_name_id="3" id="121371_6" >MAYFIELD ET AL.</NAME>
+
+<NAME end="79" start="68" all_names="TEXAS" party2_of="121371_3" local_name_id="2" id="121371_7" >TEXAS ET AL</NAME>
+
+<DOCKET alternative_keys="['mayfieldtexas#1', 'u.s._536_919']" end="96" entry_type="docket" lookup_key="ampstexas#2" id1="121371" start="89" citation_global_level_id="6362.004" line="3" id="121371_12" citation_local_level_id="1" >01-1242</DOCKET>
+
+<DOCKET alternative_keys="['mayfieldtexas#1', 'u.s._536_919']" end="113" entry_type="docket" lookup_key="ampstexas#2" id1="121371" start="106" citation_global_level_id="6362.004" line="4" id="121371_13" citation_local_level_id="1" >01-1453</DOCKET>
+
+<DATE start="159" end="172" id="121371_20" >June 17, 2002</DATE>
+
+<NAME start="219" local_name_id="4" end="234" id="121371_21" all_names="D C E D TEX" >D. C. E. D. Tex</NAME>
+
+<RELATION theme="121371_2" party1="121371_4" party1_string="AMPS ET AL." theme_string="AMPS ET AL. v. TEXAS ET AL" gram_type="infix" relation_type="asymmetric" id="121371_8" ></RELATION>
+
+<RELATION party2="121371_5" theme="121371_2" theme_string="AMPS ET AL. v. TEXAS ET AL" party2_string="TEXAS ET AL" gram_type="infix" relation_type="asymmetric" id="121371_9" ></RELATION>
+
+<RELATION theme="121371_3" party1="121371_6" party1_string="MAYFIELD ET AL." theme_string="MAYFIELD ET AL. v. TEXAS ET AL" gram_type="infix" relation_type="asymmetric" id="121371_10" ></RELATION>
+
+<RELATION party2="121371_7" theme="121371_3" theme_string="MAYFIELD ET AL. v. TEXAS ET AL" party2_string="TEXAS ET AL" gram_type="infix" relation_type="asymmetric" id="121371_11" ></RELATION>
+
+<RELATION standard_case_string="536 U.S. 919" X_vs_Y_string="MAYFIELD ET AL. v. TEXAS ET AL" standard_case="121371_1" X_vs_Y="121371_3" gram_type="multi_line" relation_type="equivalence" id="121371_17" ></RELATION>
+
+<RELATION standard_case_string="536 U.S. 919" X_vs_Y_string="AMPS ET AL. v. TEXAS ET AL" standard_case="121371_1" X_vs_Y="121371_2" gram_type="multi_line" relation_type="equivalence" id="121371_14" ></RELATION>
+
+<RELATION theme="121371_2" includes_docket_string="01-1453" includes_docket="121371_13" theme_string="AMPS ET AL. v. TEXAS ET AL" gram_type="multi_line" relation_type="asymmetric" id="121371_16" ></RELATION>
+
+<RELATION theme="121371_2" includes_docket_string="01-1242" includes_docket="121371_12" theme_string="AMPS ET AL. v. TEXAS ET AL" gram_type="multi_line" relation_type="asymmetric" id="121371_15" ></RELATION>
+
+<RELATION theme="121371_3" includes_docket_string="01-1453" includes_docket="121371_13" theme_string="MAYFIELD ET AL. v. TEXAS ET AL" gram_type="multi_line" relation_type="asymmetric" id="121371_19" ></RELATION>
+
+<RELATION theme="121371_3" includes_docket_string="01-1242" includes_docket="121371_12" theme_string="MAYFIELD ET AL. v. TEXAS ET AL" gram_type="multi_line" relation_type="asymmetric" id="121371_18" ></RELATION>
+

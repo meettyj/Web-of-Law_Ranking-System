@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['demaurodemauro#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_881" id1="123273" volume="537" start="0" page_number="881" standard_reporter="U.S." citation_global_level_id="3584.002" line="1" id="123279_1" citation_local_level_id="0" >537 U.S. 881</CITATION>
+
+<CITATION party2="DeMAURO" party1="DeMAURO" citation_global_level_id="44303.001" party2_short="DeMAURO" line="1" id="123279_3" alternative_keys="['u.s._537_881']" end="35" entry_type="party_key" lookup_key="demaurodemauro#1" id1="123279" start="17" party1_short="DeMAURO" citation_local_level_id="1" >DeMAURO v. DeMAURO</CITATION>
+
+<NAME end="24" start="17" party1_of="123279_3" all_names="DEMAURO" local_name_id="1" id="123279_4" >DeMAURO</NAME>
+
+<NAME end="35" start="28" all_names="DEMAURO" party2_of="123279_3" local_name_id="1" id="123279_5" >DeMAURO</NAME>
+
+<DOCKET end="50" entry_type="docket" lookup_key="u.s._537_881" id1="123273" start="45" citation_global_level_id="3584.002" line="1" id="123279_2" citation_local_level_id="0" >02-56</DOCKET>
+
+<DATE start="92" end="107" id="123279_6" >October 7, 2002</DATE>
+
+<NAME start="204" local_name_id="2" end="207" id="123279_14" all_names="SUP" >Sup</NAME>
+
+<CITATION end="267" reporter="N. H." entry_type="standard_key" no_current_file="True" lookup_key="n.h._147_478" id1="Dummy_File_2978" volume="147" start="254" page_number="478" standard_reporter="N.H." citation_global_level_id="66828.001" line="3" id="123279_12" citation_local_level_id="2" >147 N. H. 478</CITATION>
+
+<CITATION end="282" reporter="A. 2d" entry_type="standard_key" no_current_file="True" lookup_key="a.2d_794_112" id1="Dummy_File_2979" volume="794" start="269" page_number="112" standard_reporter="A.2D" citation_global_level_id="66829.001" line="3" id="123279_13" citation_local_level_id="3" >794 A. 2d 112</CITATION>
+
+<RELATION theme="123279_1" includes_docket_string="02-56" includes_docket="123279_2" theme_string="537 U.S. 881" gram_type="apposition" relation_type="asymmetric" id="123279_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 881" X_vs_Y_string="DeMAURO v. DeMAURO" standard_case="123279_1" X_vs_Y="123279_3" gram_type="pre_nom" relation_type="equivalence" id="123279_7" ></RELATION>
+
+<RELATION theme="123279_3" includes_docket_string="02-56" includes_docket="123279_2" theme_string="DeMAURO v. DeMAURO" gram_type="apposition" relation_type="asymmetric" id="123279_10" ></RELATION>
+
+<RELATION theme="123279_3" party1="123279_4" party1_string="DeMAURO" theme_string="DeMAURO v. DeMAURO" gram_type="infix" relation_type="asymmetric" id="123279_8" ></RELATION>
+
+<RELATION party2="123279_5" theme="123279_3" theme_string="DeMAURO v. DeMAURO" party2_string="DeMAURO" gram_type="infix" relation_type="asymmetric" id="123279_9" ></RELATION>
+

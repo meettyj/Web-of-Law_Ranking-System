@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['greenfoundry#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_953" id1="124255" volume="537" start="0" page_number="953" standard_reporter="U.S." citation_global_level_id="140.002" line="1" id="124255_1" citation_local_level_id="0" >537 U.S. 953</CITATION>
+
+<CITATION party2="UNION FOUNDRY CO" party1="GREEN" citation_global_level_id="140.001" party2_short="FOUNDRY" line="1" id="124255_3" alternative_keys="['u.s._537_953']" end="42" entry_type="party_key" lookup_key="greenfoundry#1" id1="124255" start="17" party1_short="GREEN" citation_local_level_id="1" >GREEN v. UNION FOUNDRY CO</CITATION>
+
+<NAME end="22" start="17" party1_of="124255_3" all_names="GREEN" local_name_id="1" id="124255_4" >GREEN</NAME>
+
+<NAME end="42" start="26" all_names="UNION FOUNDRY CO" party2_of="124255_3" local_name_id="2" id="124255_5" >UNION FOUNDRY CO</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="u.s._537_953" id1="124255" start="52" citation_global_level_id="140.002" line="1" id="124255_2" citation_local_level_id="0" >02-5686</DOCKET>
+
+<DATE start="101" end="117" id="124255_6" >October 15, 2002</DATE>
+
+<NAME start="250" local_name_id="3" end="253" id="124255_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="304" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_281_1229" id1="Dummy_File_178060" volume="281" start="290" page_number="1229" standard_reporter="F.3D" citation_global_level_id="241910.001" line="3" id="124255_12" citation_local_level_id="2" >281 F. 3d 1229</CITATION>
+
+<RELATION theme="124255_1" includes_docket_string="02-5686" includes_docket="124255_2" theme_string="537 U.S. 953" gram_type="apposition" relation_type="asymmetric" id="124255_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 953" X_vs_Y_string="GREEN v. UNION FOUNDRY CO" standard_case="124255_1" X_vs_Y="124255_3" gram_type="pre_nom" relation_type="equivalence" id="124255_7" ></RELATION>
+
+<RELATION theme="124255_3" includes_docket_string="02-5686" includes_docket="124255_2" theme_string="GREEN v. UNION FOUNDRY CO" gram_type="apposition" relation_type="asymmetric" id="124255_10" ></RELATION>
+
+<RELATION theme="124255_3" party1="124255_4" party1_string="GREEN" theme_string="GREEN v. UNION FOUNDRY CO" gram_type="infix" relation_type="asymmetric" id="124255_8" ></RELATION>
+
+<RELATION party2="124255_5" theme="124255_3" theme_string="GREEN v. UNION FOUNDRY CO" party2_string="UNION FOUNDRY CO" gram_type="infix" relation_type="asymmetric" id="124255_9" ></RELATION>
+

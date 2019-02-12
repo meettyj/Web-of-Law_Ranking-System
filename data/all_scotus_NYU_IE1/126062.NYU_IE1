@@ -1,0 +1,42 @@
+<CITATION alternative_keys="['mayberrystarr#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1101" id1="126062" volume="537" start="0" page_number="1101" standard_reporter="U.S." citation_global_level_id="3678.002" line="1" id="126062_1" citation_local_level_id="0" >537 U.S. 1101</CITATION>
+
+<CITATION party2="STARR ET AL" party1="MAYBERRY" citation_global_level_id="3678.001" party2_short="STARR" line="1" id="126062_3" alternative_keys="['u.s._537_1101']" end="41" entry_type="party_key" lookup_key="mayberrystarr#1" id1="126062" start="18" party1_short="MAYBERRY" citation_local_level_id="1" >MAYBERRY v. STARR ET AL</CITATION>
+
+<NAME end="26" start="18" party1_of="126062_3" all_names="MAYBERRY" local_name_id="1" id="126062_4" >MAYBERRY</NAME>
+
+<NAME end="41" start="30" all_names="STARR" party2_of="126062_3" local_name_id="2" id="126062_5" >STARR ET AL</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._537_1101" id1="126062" start="51" citation_global_level_id="3678.002" line="1" id="126062_2" citation_local_level_id="0" >02-7258</DOCKET>
+
+<DATE start="100" end="116" id="126062_6" >January 13, 2003</DATE>
+
+<NAME start="245" local_name_id="3" end="248" id="126062_17" all_names="CIR" >Cir</NAME>
+
+<CITATION party2="District of Columbia Court of Appeals" party1="Martin" citation_global_level_id="51848.001" party2_short="District" line="3" id="126062_13" alternative_keys="['u.s._506_1']" end="694" entry_type="party_key" lookup_key="martindistrict#2" id1="112790" start="647" party1_short="Martin" citation_local_level_id="2" >Martin v. District of Columbia Court of Appeals</CITATION>
+
+<NAME end="653" start="647" party1_of="126062_13" all_names="MARTIN" local_name_id="4" id="126062_14" >Martin</NAME>
+
+<NAME end="694" start="657" all_names="DISTRICT OF COLUMBIA COURT OF APPEALS" party2_of="126062_13" local_name_id="5" id="126062_15" >District of Columbia Court of Appeals</NAME>
+
+<CITATION alternative_keys="['martindistrict#2']" end="713" reporter="U.S." entry_type="standard_key" lookup_key="u.s._506_1" id1="112790" volume="506" start="696" page_number="1" year="1992" standard_reporter="U.S." citation_global_level_id="51848.002" line="3" id="126062_12" citation_local_level_id="3" >506 U.S. 1 (1992)</CITATION>
+
+<DATE start="708" citation_global_level_id="51848.002" end="712" id="126062_16" citation_local_level_id="3" >1992</DATE>
+
+<RELATION theme="126062_1" includes_docket_string="02-7258" includes_docket="126062_2" theme_string="537 U.S. 1101" gram_type="apposition" relation_type="asymmetric" id="126062_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1101" X_vs_Y_string="MAYBERRY v. STARR ET AL" standard_case="126062_1" X_vs_Y="126062_3" gram_type="pre_nom" relation_type="equivalence" id="126062_7" ></RELATION>
+
+<RELATION theme="126062_3" includes_docket_string="02-7258" includes_docket="126062_2" theme_string="MAYBERRY v. STARR ET AL" gram_type="apposition" relation_type="asymmetric" id="126062_10" ></RELATION>
+
+<RELATION theme="126062_3" party1="126062_4" party1_string="MAYBERRY" theme_string="MAYBERRY v. STARR ET AL" gram_type="infix" relation_type="asymmetric" id="126062_8" ></RELATION>
+
+<RELATION party2="126062_5" theme="126062_3" theme_string="MAYBERRY v. STARR ET AL" party2_string="STARR ET AL" gram_type="infix" relation_type="asymmetric" id="126062_9" ></RELATION>
+
+<RELATION standard_case_string="506 U.S. 1 (1992)" X_vs_Y_string="Martin v. District of Columbia Court of Appeals" standard_case="126062_12" X_vs_Y="126062_13" gram_type="apposition" relation_type="equivalence" id="126062_20" ></RELATION>
+
+<RELATION theme="126062_13" party1="126062_14" party1_string="Martin" theme_string="Martin v. District of Columbia Court of Appeals" gram_type="infix" relation_type="asymmetric" id="126062_18" ></RELATION>
+
+<RELATION party2="126062_15" theme="126062_13" theme_string="Martin v. District of Columbia Court of Appeals" party2_string="District of Columbia Court of Appeals" gram_type="infix" relation_type="asymmetric" id="126062_19" ></RELATION>
+
+<RELATION at_date_string="1992" theme="126062_12" at_date="126062_16" theme_string="506 U.S. 1 (1992)" gram_type="infix" relation_type="asymmetric" id="126062_21" ></RELATION>
+

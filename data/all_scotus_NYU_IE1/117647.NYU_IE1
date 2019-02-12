@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['maycarolina#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1198" id1="117648" volume="510" start="0" page_number="1198" standard_reporter="U.S." citation_global_level_id="18067.002" line="1" id="117647_1" citation_local_level_id="0" >510 U.S. 1198</CITATION>
+
+<CITATION party2="North Carolina" party1="May" citation_global_level_id="62827.001" party2_short="Carolina" line="1" id="117647_3" alternative_keys="['u.s._510_1198']" end="39" entry_type="party_key" lookup_key="maycarolina#2" id1="120350" start="18" party1_short="May" citation_local_level_id="1" >May v. North Carolina</CITATION>
+
+<NAME end="21" start="18" party1_of="117647_3" all_names="MAY" local_name_id="1" id="117647_4" >May</NAME>
+
+<NAME end="39" start="25" all_names="NORTH CAROLINA" party2_of="117647_3" local_name_id="2" id="117647_5" >North Carolina</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._510_1198" id1="117648" start="49" citation_global_level_id="18067.002" line="1" id="117647_2" citation_local_level_id="0" >93-7321</DOCKET>
+
+<DATE start="98" end="112" id="117647_6" >March 21, 1994</DATE>
+
+<NAME start="190" local_name_id="3" end="200" id="117647_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="238" reporter="N. C." entry_type="standard_key" no_current_file="True" lookup_key="n.c._334_609" id1="Dummy_File_14125" volume="334" start="225" page_number="609" standard_reporter="N.C." citation_global_level_id="77975.001" line="3" id="117647_12" citation_local_level_id="2" >334 N. C. 609</CITATION>
+
+<CITATION end="256" reporter="S. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="s.e.2d_434_180" id1="Dummy_File_14126" volume="434" start="240" page_number="180" standard_reporter="S.E.2D" citation_global_level_id="77976.001" line="3" id="117647_13" citation_local_level_id="3" >434 S. E. 2d 180</CITATION>
+
+<RELATION theme="117647_1" includes_docket_string="93-7321" includes_docket="117647_2" theme_string="510 U.S. 1198" gram_type="apposition" relation_type="asymmetric" id="117647_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1198" X_vs_Y_string="May v. North Carolina" standard_case="117647_1" X_vs_Y="117647_3" gram_type="pre_nom" relation_type="equivalence" id="117647_7" ></RELATION>
+
+<RELATION theme="117647_3" includes_docket_string="93-7321" includes_docket="117647_2" theme_string="May v. North Carolina" gram_type="apposition" relation_type="asymmetric" id="117647_10" ></RELATION>
+
+<RELATION theme="117647_3" party1="117647_4" party1_string="May" theme_string="May v. North Carolina" gram_type="infix" relation_type="asymmetric" id="117647_8" ></RELATION>
+
+<RELATION party2="117647_5" theme="117647_3" theme_string="May v. North Carolina" party2_string="North Carolina" gram_type="infix" relation_type="asymmetric" id="117647_9" ></RELATION>
+

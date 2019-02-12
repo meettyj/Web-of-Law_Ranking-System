@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['sommercompany#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_948" id1="124188" volume="537" start="0" page_number="948" standard_reporter="U.S." citation_global_level_id="420.002" line="1" id="124186_1" citation_local_level_id="0" >537 U.S. 948</CITATION>
+
+<CITATION party2="UNUM LIFE INSURANCE COMPANY OF AMERICA" party1="SOMMER" citation_global_level_id="58408.001" party2_short="COMPANY" line="1" id="124186_3" alternative_keys="['u.s._537_948']" end="65" entry_type="party_key" lookup_key="sommercompany#1" id1="124186" start="17" party1_short="SOMMER" citation_local_level_id="1" >SOMMER v. UNUM LIFE INSURANCE COMPANY OF AMERICA</CITATION>
+
+<NAME end="23" start="17" party1_of="124186_3" all_names="SOMMER" local_name_id="1" id="124186_4" >SOMMER</NAME>
+
+<NAME end="65" start="27" all_names="UNUM LIFE INSURANCE COMPANY OF AMERICA" party2_of="124186_3" local_name_id="2" id="124186_5" >UNUM LIFE INSURANCE COMPANY OF AMERICA</NAME>
+
+<DOCKET end="81" entry_type="docket" lookup_key="u.s._537_948" id1="124188" start="75" citation_global_level_id="420.002" line="1" id="124186_2" citation_local_level_id="0" >02-203</DOCKET>
+
+<DATE start="123" end="139" id="124186_6" >October 15, 2002</DATE>
+
+<NAME start="268" local_name_id="3" end="271" id="124186_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="124186_1" includes_docket_string="02-203" includes_docket="124186_2" theme_string="537 U.S. 948" gram_type="apposition" relation_type="asymmetric" id="124186_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 948" X_vs_Y_string="SOMMER v. UNUM LIFE INSURANCE COMPANY OF AMERICA" standard_case="124186_1" X_vs_Y="124186_3" gram_type="pre_nom" relation_type="equivalence" id="124186_7" ></RELATION>
+
+<RELATION theme="124186_3" includes_docket_string="02-203" includes_docket="124186_2" theme_string="SOMMER v. UNUM LIFE INSURANCE COMPANY OF AMERICA" gram_type="apposition" relation_type="asymmetric" id="124186_10" ></RELATION>
+
+<RELATION theme="124186_3" party1="124186_4" party1_string="SOMMER" theme_string="SOMMER v. UNUM LIFE INSURANCE COMPANY OF AMERICA" gram_type="infix" relation_type="asymmetric" id="124186_8" ></RELATION>
+
+<RELATION party2="124186_5" theme="124186_3" theme_string="SOMMER v. UNUM LIFE INSURANCE COMPANY OF AMERICA" party2_string="UNUM LIFE INSURANCE COMPANY OF AMERICA" gram_type="infix" relation_type="asymmetric" id="124186_9" ></RELATION>
+

@@ -1,0 +1,36 @@
+<CITATION alternative_keys="['saundersstates#4']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1184" id1="142743" volume="543" start="0" page_number="1184" standard_reporter="U.S." citation_global_level_id="349.002" line="1" id="142741_1" citation_local_level_id="0" >543 U.S. 1184</CITATION>
+
+<CITATION party2="UNITED STATES" party1="SAUNDERS" citation_global_level_id="43355.001" party2_short="STATES" line="1" id="142741_3" alternative_keys="['u.s._543_1184']" end="43" entry_type="party_key" lookup_key="saundersstates#4" id1="118735" start="18" party1_short="SAUNDERS" citation_local_level_id="1" >SAUNDERS v. UNITED STATES</CITATION>
+
+<NAME end="26" start="18" party1_of="142741_3" all_names="SAUNDERS" local_name_id="1" id="142741_4" >SAUNDERS</NAME>
+
+<NAME end="43" start="30" all_names="UNITED STATES" party2_of="142741_3" local_name_id="2" id="142741_5" >UNITED STATES</NAME>
+
+<DOCKET end="60" entry_type="docket" lookup_key="u.s._543_1184" id1="142743" start="53" citation_global_level_id="349.002" line="1" id="142741_2" citation_local_level_id="0" >04-8389</DOCKET>
+
+<DATE start="102" end="119" id="142741_6" >February 28, 2005</DATE>
+
+<LEGAL_ROLE start="218" end="240" plural="True" id="142741_15" >Motions of petitioners</LEGAL_ROLE>
+
+<NAME start="289" local_name_id="3" end="299" id="142741_16" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION party2="Booker" party1="United States" citation_global_level_id="57130.001" party2_short="Booker" line="3" id="142741_12" end="408" entry_type="party_key" lookup_key="statesbooker#4" id1="137703" start="385" party1_short="States" citation_local_level_id="2" >United States v. Booker</CITATION>
+
+<NAME end="398" start="385" party1_of="142741_12" all_names="UNITED STATES" local_name_id="2" id="142741_13" >United States</NAME>
+
+<NAME end="408" start="402" all_names="BOOKER" party2_of="142741_12" local_name_id="4" id="142741_14" >Booker</NAME>
+
+<RELATION theme="142741_1" includes_docket_string="04-8389" includes_docket="142741_2" theme_string="543 U.S. 1184" gram_type="apposition" relation_type="asymmetric" id="142741_11" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1184" X_vs_Y_string="SAUNDERS v. UNITED STATES" standard_case="142741_1" X_vs_Y="142741_3" gram_type="pre_nom" relation_type="equivalence" id="142741_7" ></RELATION>
+
+<RELATION theme="142741_3" includes_docket_string="04-8389" includes_docket="142741_2" theme_string="SAUNDERS v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="142741_10" ></RELATION>
+
+<RELATION theme="142741_3" party1="142741_4" party1_string="SAUNDERS" theme_string="SAUNDERS v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="142741_8" ></RELATION>
+
+<RELATION party2="142741_5" theme="142741_3" theme_string="SAUNDERS v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="142741_9" ></RELATION>
+
+<RELATION theme="142741_12" party1="142741_13" party1_string="United States" theme_string="United States v. Booker" gram_type="infix" relation_type="asymmetric" id="142741_17" ></RELATION>
+
+<RELATION party2="142741_14" theme="142741_12" theme_string="United States v. Booker" party2_string="Booker" gram_type="infix" relation_type="asymmetric" id="142741_18" ></RELATION>
+

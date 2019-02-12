@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['nausspennsylvania#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_895" id1="123468" volume="537" start="0" page_number="895" standard_reporter="U.S." citation_global_level_id="9555.002" line="1" id="123464_1" citation_local_level_id="0" >537 U.S. 895</CITATION>
+
+<CITATION party2="PENNSYLVANIA" party1="NAUSS" citation_global_level_id="30504.001" party2_short="PENNSYLVANIA" line="1" id="123464_3" alternative_keys="['u.s._537_895']" end="38" entry_type="party_key" lookup_key="nausspennsylvania#1" id1="123464" start="17" party1_short="NAUSS" citation_local_level_id="1" >NAUSS v. PENNSYLVANIA</CITATION>
+
+<NAME end="22" start="17" party1_of="123464_3" all_names="NAUSS" local_name_id="1" id="123464_4" >NAUSS</NAME>
+
+<NAME end="38" start="26" all_names="PENNSYLVANIA" party2_of="123464_3" local_name_id="2" id="123464_5" >PENNSYLVANIA</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._537_895" id1="123468" start="48" citation_global_level_id="9555.002" line="1" id="123464_2" citation_local_level_id="0" >02-5117</DOCKET>
+
+<DATE start="97" end="112" id="123464_6" >October 7, 2002</DATE>
+
+<NAME start="209" local_name_id="3" end="214" id="123464_13" all_names="SUPER" >Super</NAME>
+
+<CITATION end="273" reporter="A. 2d" entry_type="standard_key" no_current_file="True" lookup_key="a.2d_785_1032" id1="Dummy_File_142938" volume="785" start="259" page_number="1032" standard_reporter="A.2D" citation_global_level_id="206788.001" line="3" id="123464_12" citation_local_level_id="2" >785 A. 2d 1032</CITATION>
+
+<RELATION theme="123464_1" includes_docket_string="02-5117" includes_docket="123464_2" theme_string="537 U.S. 895" gram_type="apposition" relation_type="asymmetric" id="123464_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 895" X_vs_Y_string="NAUSS v. PENNSYLVANIA" standard_case="123464_1" X_vs_Y="123464_3" gram_type="pre_nom" relation_type="equivalence" id="123464_7" ></RELATION>
+
+<RELATION theme="123464_3" includes_docket_string="02-5117" includes_docket="123464_2" theme_string="NAUSS v. PENNSYLVANIA" gram_type="apposition" relation_type="asymmetric" id="123464_10" ></RELATION>
+
+<RELATION theme="123464_3" party1="123464_4" party1_string="NAUSS" theme_string="NAUSS v. PENNSYLVANIA" gram_type="infix" relation_type="asymmetric" id="123464_8" ></RELATION>
+
+<RELATION party2="123464_5" theme="123464_3" theme_string="NAUSS v. PENNSYLVANIA" party2_string="PENNSYLVANIA" gram_type="infix" relation_type="asymmetric" id="123464_9" ></RELATION>
+

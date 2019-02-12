@@ -1,0 +1,74 @@
+<CITATION alternative_keys="['hornsame#1', 'davissame#1', 'millersame#1', 'bachtelwilson#2']" end="19" reporter="U.S." entry_type="standard_key" lookup_key="u.s._204_42" id1="96560" volume="204" start="1" page_number="42" year="1907" standard_reporter="U.S." citation_global_level_id="44368.002" line="2" id="96560_1" citation_local_level_id="0" >204 U.S. 42 (1907)</CITATION>
+
+<DATE start="14" citation_global_level_id="44368.002" end="18" id="96560_2" citation_local_level_id="0" >1907</DATE>
+
+<CITATION party2="WILSON, SHERIFF" party1="BACHTEL" citation_global_level_id="44368.001" party2_short="WILSON" line="5" id="96560_5" alternative_keys="['u.s._204_42', 'hornsame#1', 'davissame#1', 'millersame#1']" end="48" entry_type="party_key" lookup_key="bachtelwilson#2" id1="96560" start="20" party1_short="BACHTEL" citation_local_level_id="1" >BACHTEL v. WILSON, SHERIFF</CITATION>
+
+<NAME end="27" start="20" party1_of="96560_5" all_names="BACHTEL" local_name_id="1" id="96560_6" >BACHTEL</NAME>
+
+<NAME end="48" start="33" all_names="WILSON SHERIFF" party2_of="96560_5" local_name_id="2" id="96560_7" >WILSON, SHERIFF</NAME>
+
+<CITATION party2="SAME" party1="MILLER" citation_global_level_id="44368.006" party2_short="SAME" line="8" id="96560_11" alternative_keys="['hornsame#1', 'davissame#1', 'bachtelwilson#2', 'u.s._204_42']" end="67" no_current_file="True" entry_type="party_key" lookup_key="millersame#1" id1="96560" start="51" party1_short="MILLER" citation_local_level_id="2" >MILLER v. SAME</CITATION>
+
+<NAME end="57" start="51" party1_of="96560_11" all_names="MILLER" local_name_id="3" id="96560_12" >MILLER</NAME>
+
+<NAME end="67" start="63" all_names="SAME" party2_of="96560_11" local_name_id="4" id="96560_13" >SAME</NAME>
+
+<CITATION party2="SAME" party1="DAVIS" citation_global_level_id="44368.005" party2_short="SAME" line="11" id="96560_17" alternative_keys="['hornsame#1', 'millersame#1', 'bachtelwilson#2', 'u.s._204_42']" end="85" entry_type="party_key" lookup_key="davissame#1" id1="96560" start="70" party1_short="DAVIS" citation_local_level_id="3" >DAVIS v. SAME</CITATION>
+
+<NAME end="75" start="70" party1_of="96560_17" all_names="DAVIS" local_name_id="5" id="96560_18" >DAVIS</NAME>
+
+<NAME end="85" start="81" all_names="SAME" party2_of="96560_17" local_name_id="4" id="96560_19" >SAME</NAME>
+
+<CITATION party2="SAME" party1="VAN HORN" citation_global_level_id="44368.004" party2_short="SAME" line="14" id="96560_23" alternative_keys="['davissame#1', 'millersame#1', 'bachtelwilson#2', 'u.s._204_42']" end="106" entry_type="party_key" lookup_key="hornsame#1" id1="96560" start="88" party1_short="HORN" citation_local_level_id="4" >VAN HORN v. SAME</CITATION>
+
+<NAME end="96" start="88" party1_of="96560_23" all_names="VAN HORN" local_name_id="6" id="96560_24" >VAN HORN</NAME>
+
+<NAME end="106" start="102" all_names="SAME" party2_of="96560_23" local_name_id="4" id="96560_25" >SAME</NAME>
+
+<ORGANIZATION start="136" end="166" id="96560_32" >Supreme Court of United States</ORGANIZATION>
+
+<NAME start="175" local_name_id="7" end="183" id="96560_34" all_names="NOVEMBER" >November</NAME>
+
+<DATE start="192" end="196" id="96560_33" >1906</DATE>
+
+<NAME start="198" local_name_id="8" end="205" id="96560_36" all_names="DECIDED" >Decided</NAME>
+
+<DATE start="206" end="221" id="96560_35" >January 7, 1907</DATE>
+
+<ORGANIZATION start="223" end="270" id="96560_37" >ERROR TO THE SUPREME COURT OF THE STATE OF OHIO</ORGANIZATION>
+
+<LEGAL_ROLE start="272" end="307" plural="True" id="96560_38" >Mr. William A. Lynch for plaintiffs</LEGAL_ROLE>
+
+<LEGAL_ROLE start="321" end="378" id="96560_39" >Mr. Charles C. Upham and Mr. John W. Craine for defendant</LEGAL_ROLE>
+
+<NAME start="392" local_name_id="9" end="394" id="96560_40" all_names="MR" >MR</NAME>
+
+<NAME start="584" local_name_id="10" end="589" id="96560_41" all_names="NOTES" >NOTES</NAME>
+
+<RELATION at_date_string="1907" theme="96560_1" at_date="96560_2" theme_string="204 U.S. 42 (1907)" gram_type="infix" relation_type="asymmetric" id="96560_3" ></RELATION>
+
+<RELATION theme="96560_5" party1="96560_6" party1_string="BACHTEL" theme_string="BACHTEL  v.  WILSON, SHERIFF" gram_type="infix" relation_type="asymmetric" id="96560_8" ></RELATION>
+
+<RELATION party2="96560_7" theme="96560_5" theme_string="BACHTEL  v.  WILSON, SHERIFF" party2_string="WILSON, SHERIFF" gram_type="infix" relation_type="asymmetric" id="96560_9" ></RELATION>
+
+<RELATION theme="96560_11" party1="96560_12" party1_string="MILLER" theme_string="MILLER  v.  SAME" gram_type="infix" relation_type="asymmetric" id="96560_14" ></RELATION>
+
+<RELATION party2="96560_13" theme="96560_11" theme_string="MILLER  v.  SAME" party2_string="SAME" gram_type="infix" relation_type="asymmetric" id="96560_15" ></RELATION>
+
+<RELATION theme="96560_17" party1="96560_18" party1_string="DAVIS" theme_string="DAVIS  v.  SAME" gram_type="infix" relation_type="asymmetric" id="96560_20" ></RELATION>
+
+<RELATION party2="96560_19" theme="96560_17" theme_string="DAVIS  v.  SAME" party2_string="SAME" gram_type="infix" relation_type="asymmetric" id="96560_21" ></RELATION>
+
+<RELATION theme="96560_23" party1="96560_24" party1_string="VAN HORN" theme_string="VAN HORN  v.  SAME" gram_type="infix" relation_type="asymmetric" id="96560_26" ></RELATION>
+
+<RELATION party2="96560_25" theme="96560_23" theme_string="VAN HORN  v.  SAME" party2_string="SAME" gram_type="infix" relation_type="asymmetric" id="96560_27" ></RELATION>
+
+<RELATION standard_case_string="204 U.S. 42 (1907)" X_vs_Y_string="VAN HORN  v.  SAME" standard_case="96560_1" X_vs_Y="96560_23" gram_type="multi_line" relation_type="equivalence" id="96560_31" ></RELATION>
+
+<RELATION standard_case_string="204 U.S. 42 (1907)" X_vs_Y_string="DAVIS  v.  SAME" standard_case="96560_1" X_vs_Y="96560_17" gram_type="multi_line" relation_type="equivalence" id="96560_30" ></RELATION>
+
+<RELATION standard_case_string="204 U.S. 42 (1907)" X_vs_Y_string="MILLER  v.  SAME" standard_case="96560_1" X_vs_Y="96560_11" gram_type="multi_line" relation_type="equivalence" id="96560_29" ></RELATION>
+
+<RELATION standard_case_string="204 U.S. 42 (1907)" X_vs_Y_string="BACHTEL  v.  WILSON, SHERIFF" standard_case="96560_1" X_vs_Y="96560_5" gram_type="multi_line" relation_type="equivalence" id="96560_28" ></RELATION>
+

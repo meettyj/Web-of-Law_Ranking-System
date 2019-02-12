@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['livingstonzimmer#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_1059" id1="134306" volume="540" start="0" page_number="1059" standard_reporter="U.S." citation_global_level_id="1221.002" line="1" id="134306_1" citation_local_level_id="0" >540 U.S. 1059</CITATION>
+
+<CITATION party2="ZIMMER" party1="LIVINGSTON" citation_global_level_id="1221.001" party2_short="ZIMMER" line="1" id="134306_3" alternative_keys="['u.s._540_1059']" end="38" entry_type="party_key" lookup_key="livingstonzimmer#1" id1="134306" start="18" party1_short="LIVINGSTON" citation_local_level_id="1" >LIVINGSTON v. ZIMMER</CITATION>
+
+<NAME end="28" start="18" party1_of="134306_3" all_names="LIVINGSTON" local_name_id="1" id="134306_4" >LIVINGSTON</NAME>
+
+<NAME end="38" start="32" all_names="ZIMMER" party2_of="134306_3" local_name_id="2" id="134306_5" >ZIMMER</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._540_1059" id1="134306" start="48" citation_global_level_id="1221.002" line="1" id="134306_2" citation_local_level_id="0" >03-6729</DOCKET>
+
+<DATE start="97" end="113" id="134306_6" >December 1, 2003</DATE>
+
+<NAME start="191" local_name_id="3" end="201" id="134306_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="239" reporter="A. 2d" entry_type="standard_key" no_current_file="True" lookup_key="a.2d_825_334" id1="Dummy_File_113175" volume="825" start="226" page_number="334" standard_reporter="A.2D" citation_global_level_id="177025.001" line="3" id="134306_12" citation_local_level_id="2" >825 A. 2d 334</CITATION>
+
+<RELATION theme="134306_1" includes_docket_string="03-6729" includes_docket="134306_2" theme_string="540 U.S. 1059" gram_type="apposition" relation_type="asymmetric" id="134306_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 1059" X_vs_Y_string="LIVINGSTON v. ZIMMER" standard_case="134306_1" X_vs_Y="134306_3" gram_type="pre_nom" relation_type="equivalence" id="134306_7" ></RELATION>
+
+<RELATION theme="134306_3" includes_docket_string="03-6729" includes_docket="134306_2" theme_string="LIVINGSTON v. ZIMMER" gram_type="apposition" relation_type="asymmetric" id="134306_10" ></RELATION>
+
+<RELATION theme="134306_3" party1="134306_4" party1_string="LIVINGSTON" theme_string="LIVINGSTON v. ZIMMER" gram_type="infix" relation_type="asymmetric" id="134306_8" ></RELATION>
+
+<RELATION party2="134306_5" theme="134306_3" theme_string="LIVINGSTON v. ZIMMER" party2_string="ZIMMER" gram_type="infix" relation_type="asymmetric" id="134306_9" ></RELATION>
+

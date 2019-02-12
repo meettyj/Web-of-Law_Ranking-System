@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['shivergeorgia#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_1007" id1="133820" volume="540" start="0" page_number="1007" standard_reporter="U.S." citation_global_level_id="5756.002" line="1" id="133812_1" citation_local_level_id="0" >540 U.S. 1007</CITATION>
+
+<CITATION party2="GEORGIA" party1="SHIVER" citation_global_level_id="26365.001" party2_short="GEORGIA" line="1" id="133812_3" alternative_keys="['u.s._540_1007']" end="35" entry_type="party_key" lookup_key="shivergeorgia#1" id1="133812" start="18" party1_short="SHIVER" citation_local_level_id="1" >SHIVER v. GEORGIA</CITATION>
+
+<NAME end="24" start="18" party1_of="133812_3" all_names="SHIVER" local_name_id="1" id="133812_4" >SHIVER</NAME>
+
+<NAME end="35" start="28" all_names="GEORGIA" party2_of="133812_3" local_name_id="2" id="133812_5" >GEORGIA</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="u.s._540_1007" id1="133820" start="45" citation_global_level_id="5756.002" line="1" id="133812_2" citation_local_level_id="0" >03-6258</DOCKET>
+
+<DATE start="94" end="111" id="133812_6" >November 10, 2003</DATE>
+
+<NAME start="187" local_name_id="3" end="197" id="133812_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="233" reporter="Ga." entry_type="standard_key" no_current_file="True" lookup_key="ga._276_624" id1="Dummy_File_41230" volume="276" start="222" page_number="624" standard_reporter="GA." citation_global_level_id="105080.001" line="3" id="133812_12" citation_local_level_id="2" >276 Ga. 624</CITATION>
+
+<CITATION end="251" reporter="S. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="s.e.2d_581_254" id1="Dummy_File_41231" volume="581" start="235" page_number="254" standard_reporter="S.E.2D" citation_global_level_id="105081.001" line="3" id="133812_13" citation_local_level_id="3" >581 S. E. 2d 254</CITATION>
+
+<RELATION theme="133812_1" includes_docket_string="03-6258" includes_docket="133812_2" theme_string="540 U.S. 1007" gram_type="apposition" relation_type="asymmetric" id="133812_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 1007" X_vs_Y_string="SHIVER v. GEORGIA" standard_case="133812_1" X_vs_Y="133812_3" gram_type="pre_nom" relation_type="equivalence" id="133812_7" ></RELATION>
+
+<RELATION theme="133812_3" includes_docket_string="03-6258" includes_docket="133812_2" theme_string="SHIVER v. GEORGIA" gram_type="apposition" relation_type="asymmetric" id="133812_10" ></RELATION>
+
+<RELATION theme="133812_3" party1="133812_4" party1_string="SHIVER" theme_string="SHIVER v. GEORGIA" gram_type="infix" relation_type="asymmetric" id="133812_8" ></RELATION>
+
+<RELATION party2="133812_5" theme="133812_3" theme_string="SHIVER v. GEORGIA" party2_string="GEORGIA" gram_type="infix" relation_type="asymmetric" id="133812_9" ></RELATION>
+

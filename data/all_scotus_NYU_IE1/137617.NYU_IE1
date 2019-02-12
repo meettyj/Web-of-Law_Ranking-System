@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['adamsnegron#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._542_957" id1="137619" volume="542" start="0" page_number="957" standard_reporter="U.S." citation_global_level_id="3019.002" line="1" id="137617_1" citation_local_level_id="0" >542 U.S. 957</CITATION>
+
+<CITATION party2="NEGRON ET AL" party1="ADAMS" citation_global_level_id="51412.001" party2_short="NEGRON" line="1" id="137617_3" alternative_keys="['u.s._542_957']" end="38" entry_type="party_key" lookup_key="adamsnegron#2" id1="137617" start="17" party1_short="ADAMS" citation_local_level_id="1" >ADAMS v. NEGRON ET AL</CITATION>
+
+<NAME end="22" start="17" party1_of="137617_3" all_names="ADAMS" local_name_id="1" id="137617_4" >ADAMS</NAME>
+
+<NAME end="38" start="26" all_names="NEGRON" party2_of="137617_3" local_name_id="2" id="137617_5" >NEGRON ET AL</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._542_957" id1="137619" start="48" citation_global_level_id="3019.002" line="1" id="137617_2" citation_local_level_id="0" >03-9544</DOCKET>
+
+<DATE start="97" end="111" id="137617_6" >August 2, 2004</DATE>
+
+<CITATION end="219" reporter="U. S." entry_type="standard_key" lookup_key="u.s._541_1035" id1="136177" volume="541" start="205" page_number="1035" standard_reporter="U.S." citation_global_level_id="395.002" line="3" id="137617_12" citation_local_level_id="2" >541 U. S. 1035</CITATION>
+
+<RELATION theme="137617_1" includes_docket_string="03-9544" includes_docket="137617_2" theme_string="542 U.S. 957" gram_type="apposition" relation_type="asymmetric" id="137617_11" ></RELATION>
+
+<RELATION standard_case_string="542 U.S. 957" X_vs_Y_string="ADAMS v. NEGRON ET AL" standard_case="137617_1" X_vs_Y="137617_3" gram_type="pre_nom" relation_type="equivalence" id="137617_7" ></RELATION>
+
+<RELATION theme="137617_3" includes_docket_string="03-9544" includes_docket="137617_2" theme_string="ADAMS v. NEGRON ET AL" gram_type="apposition" relation_type="asymmetric" id="137617_10" ></RELATION>
+
+<RELATION theme="137617_3" party1="137617_4" party1_string="ADAMS" theme_string="ADAMS v. NEGRON ET AL" gram_type="infix" relation_type="asymmetric" id="137617_8" ></RELATION>
+
+<RELATION party2="137617_5" theme="137617_3" theme_string="ADAMS v. NEGRON ET AL" party2_string="NEGRON ET AL" gram_type="infix" relation_type="asymmetric" id="137617_9" ></RELATION>
+

@@ -1,0 +1,46 @@
+<CITATION alternative_keys="['lesseerobeson#1', 'dall_1_9']" end="16" reporter="U.S." entry_type="standard_key" lookup_key="u.s._1_9" id1="84586" volume="1" start="1" page_number="9" year="1764" standard_reporter="U.S." citation_global_level_id="46303.002" line="2" id="2381788_1" citation_local_level_id="0" >1 U.S. 9 (1764)</CITATION>
+
+<DATE start="11" citation_global_level_id="46303.002" end="15" id="2381788_2" citation_local_level_id="0" >1764</DATE>
+
+<CITATION alternative_keys="['u.s._1_9', 'lesseerobeson#1']" end="26" reporter="Dall" entry_type="standard_key" lookup_key="dall_1_9" id1="84586" volume="1" start="17" page_number="9" standard_reporter="DALL" citation_global_level_id="46303.003" line="3" id="2381788_4" citation_local_level_id="1" >1 Dall. 9</CITATION>
+
+<CITATION party2="ROBESON" party1="The Lessee of ALBERTSON" citation_global_level_id="52427.001" party2_short="ROBESON" line="6" id="2381788_6" alternative_keys="['u.s._1_9', 'dall_1_9']" end="67" entry_type="party_key" lookup_key="lesseerobeson#1" id1="2381788" start="27" party1_short="Lessee" citation_local_level_id="2" >The Lessee of ALBERTSON versus ROBESON</CITATION>
+
+<NAME end="50" start="27" party1_of="2381788_6" all_names="THE LESSEE OF ALBERTSON" local_name_id="1" id="2381788_7" >The Lessee of ALBERTSON</NAME>
+
+<NAME end="67" start="60" all_names="ROBESON" party2_of="2381788_6" local_name_id="2" id="2381788_8" >ROBESON</NAME>
+
+<ORGANIZATION start="69" end="99" id="2381788_11" >Supreme Court of United States</ORGANIZATION>
+
+<NAME start="102" local_name_id="3" end="125" id="2381788_14" all_names="PRESENT WILLIAM COLEMAN" >Present WILLIAM COLEMAN</NAME>
+
+<NAME start="127" local_name_id="4" end="144" id="2381788_15" all_names="ALEXANDER STEDMAN" >ALEXANDER STEDMAN</NAME>
+
+<PROFESSION end="154" document_level_name_id="3" start="146" party="PRESENT WILLIAM COLEMAN" plural="True" id="2381788_16" >Justices</PROFESSION>
+
+<ORGANIZATION start="160" end="165" id="2381788_19" >COURT</ORGANIZATION>
+
+<NAME start="191" local_name_id="5" end="195" id="2381788_20" all_names="JURY" >Jury</NAME>
+
+<NAME start="206" local_name_id="6" end="209" id="2381788_21" all_names="ACT" >Act</NAME>
+
+<NAME start="233" local_name_id="7" end="245" id="2381788_22" all_names="NOTIFICATION" >Notification</NAME>
+
+<NAME start="260" local_name_id="5" end="264" id="2381788_23" all_names="JURY" >Jury</NAME>
+
+<LEGAL_ROLE start="304" end="329" id="2381788_24" >Verdict for the Defendant</LEGAL_ROLE>
+
+<RELATION at_date_string="1764" theme="2381788_1" at_date="2381788_2" theme_string="1 U.S. 9 (1764)" gram_type="infix" relation_type="asymmetric" id="2381788_3" ></RELATION>
+
+<RELATION party2="2381788_8" theme="2381788_6" theme_string="The Lessee of ALBERTSON  versus  ROBESON" party2_string="ROBESON" gram_type="infix" relation_type="asymmetric" id="2381788_10" ></RELATION>
+
+<RELATION theme="2381788_6" party1="2381788_7" party1_string="The Lessee of ALBERTSON" theme_string="The Lessee of ALBERTSON  versus  ROBESON" gram_type="infix" relation_type="asymmetric" id="2381788_9" ></RELATION>
+
+<RELATION standard_case_string="1 U.S. 9 (1764)" X_vs_Y_string="The Lessee of ALBERTSON  versus  ROBESON" standard_case="2381788_1" X_vs_Y="2381788_6" gram_type="multi_line" relation_type="equivalence" id="2381788_12" ></RELATION>
+
+<RELATION standard_case_string="1 Dall. 9" X_vs_Y_string="The Lessee of ALBERTSON  versus  ROBESON" standard_case="2381788_4" X_vs_Y="2381788_6" gram_type="multi_line" relation_type="equivalence" id="2381788_13" ></RELATION>
+
+<RELATION theme="2381788_14" profession_string="Justices" theme_string="Present WILLIAM COLEMAN" profession="2381788_16" gram_type="apposition" relation_type="asymmetric" id="2381788_18" ></RELATION>
+
+<RELATION theme="2381788_15" profession_string="Justices" theme_string="ALEXANDER STEDMAN" profession="2381788_16" gram_type="apposition" relation_type="asymmetric" id="2381788_17" ></RELATION>
+

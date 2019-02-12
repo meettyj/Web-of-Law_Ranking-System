@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['alleywarden#3']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_839" id1="131641" volume="540" start="0" page_number="839" standard_reporter="U.S." citation_global_level_id="5370.002" line="1" id="131647_1" citation_local_level_id="0" >540 U.S. 839</CITATION>
+
+<CITATION party2="BELL, WARDEN" party1="ALLEY" citation_global_level_id="53179.001" party2_short="WARDEN" line="1" id="131647_3" alternative_keys="['u.s._540_839']" end="38" entry_type="party_key" lookup_key="alleywarden#3" id1="119517" start="17" party1_short="ALLEY" citation_local_level_id="1" >ALLEY v. BELL, WARDEN</CITATION>
+
+<NAME end="22" start="17" party1_of="131647_3" all_names="ALLEY" local_name_id="1" id="131647_4" >ALLEY</NAME>
+
+<NAME end="38" start="26" all_names="BELL WARDEN" party2_of="131647_3" local_name_id="2" id="131647_5" >BELL, WARDEN</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._540_839" id1="131641" start="48" citation_global_level_id="5370.002" line="1" id="131647_2" citation_local_level_id="0" >02-10839</DOCKET>
+
+<DATE start="98" end="113" id="131647_6" >October 6, 2003</DATE>
+
+<NAME start="191" local_name_id="3" end="201" id="131647_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="239" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_307_380" id1="Dummy_File_69413" volume="307" start="226" page_number="380" standard_reporter="F.3D" citation_global_level_id="133263.001" line="3" id="131647_12" citation_local_level_id="2" >307 F. 3d 380</CITATION>
+
+<RELATION theme="131647_1" includes_docket_string="02-10839" includes_docket="131647_2" theme_string="540 U.S. 839" gram_type="apposition" relation_type="asymmetric" id="131647_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 839" X_vs_Y_string="ALLEY v. BELL, WARDEN" standard_case="131647_1" X_vs_Y="131647_3" gram_type="pre_nom" relation_type="equivalence" id="131647_7" ></RELATION>
+
+<RELATION theme="131647_3" includes_docket_string="02-10839" includes_docket="131647_2" theme_string="ALLEY v. BELL, WARDEN" gram_type="apposition" relation_type="asymmetric" id="131647_10" ></RELATION>
+
+<RELATION theme="131647_3" party1="131647_4" party1_string="ALLEY" theme_string="ALLEY v. BELL, WARDEN" gram_type="infix" relation_type="asymmetric" id="131647_8" ></RELATION>
+
+<RELATION party2="131647_5" theme="131647_3" theme_string="ALLEY v. BELL, WARDEN" party2_string="BELL, WARDEN" gram_type="infix" relation_type="asymmetric" id="131647_9" ></RELATION>
+

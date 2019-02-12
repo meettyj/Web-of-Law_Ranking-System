@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['valledepartment#4']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_1027" id1="144533" volume="544" start="0" page_number="1027" standard_reporter="U.S." citation_global_level_id="1180.002" line="1" id="144543_1" citation_local_level_id="0" >544 U.S. 1027</CITATION>
+
+<CITATION party2="GEORGIA DEPARTMENT OF CORRECTIONS" party1="VALLE" citation_global_level_id="54715.001" party2_short="DEPARTMENT" line="2" id="144543_2" alternative_keys="['u.s._544_1027']" end="60" entry_type="party_key" lookup_key="valledepartment#4" id1="144543" start="18" party1_short="VALLE" citation_local_level_id="1" >VALLE v. GEORGIA DEPARTMENT OF CORRECTIONS</CITATION>
+
+<NAME end="23" start="18" party1_of="144543_2" all_names="VALLE" local_name_id="1" id="144543_3" >VALLE</NAME>
+
+<NAME end="60" start="27" all_names="GEORGIA DEPARTMENT OF CORRECTIONS" party2_of="144543_2" local_name_id="2" id="144543_4" >GEORGIA DEPARTMENT OF CORRECTIONS</NAME>
+
+<DOCKET end="77" entry_type="docket" lookup_key="valledepartment#4" id1="144543" start="70" citation_global_level_id="54715.001" line="3" id="144543_7" citation_local_level_id="1" >04-8002</DOCKET>
+
+<ORGANIZATION start="83" end="113" id="144543_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="119" citation_global_level_id="54715.001" end="130" id="144543_9" citation_local_level_id="1" >May 2, 2005</DATE>
+
+<NAME start="152" local_name_id="3" end="160" id="144543_13" all_names="PETITION" >Petition</NAME>
+
+<RELATION theme="144543_2" party1="144543_3" party1_string="VALLE" theme_string="VALLE v. GEORGIA DEPARTMENT OF CORRECTIONS" gram_type="infix" relation_type="asymmetric" id="144543_5" ></RELATION>
+
+<RELATION party2="144543_4" theme="144543_2" theme_string="VALLE v. GEORGIA DEPARTMENT OF CORRECTIONS" party2_string="GEORGIA DEPARTMENT OF CORRECTIONS" gram_type="infix" relation_type="asymmetric" id="144543_6" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 1027" X_vs_Y_string="VALLE v. GEORGIA DEPARTMENT OF CORRECTIONS" standard_case="144543_1" X_vs_Y="144543_2" gram_type="multi_line" relation_type="equivalence" id="144543_10" ></RELATION>
+
+<RELATION at_date_string="May 2, 2005" theme="144543_2" at_date="144543_9" theme_string="VALLE v. GEORGIA DEPARTMENT OF CORRECTIONS" gram_type="multi_line" relation_type="asymmetric" id="144543_12" ></RELATION>
+
+<RELATION theme="144543_2" includes_docket_string="04-8002" includes_docket="144543_7" theme_string="VALLE v. GEORGIA DEPARTMENT OF CORRECTIONS" gram_type="multi_line" relation_type="asymmetric" id="144543_11" ></RELATION>
+

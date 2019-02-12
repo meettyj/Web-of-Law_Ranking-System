@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['gruenbergstates#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_873" id1="113828" volume="510" start="0" page_number="873" standard_reporter="U.S." citation_global_level_id="1840.002" line="1" id="113835_1" citation_local_level_id="0" >510 U.S. 873</CITATION>
+
+<CITATION party2="United States" party1="Gruenberg" citation_global_level_id="57898.001" party2_short="States" line="1" id="113835_3" alternative_keys="['u.s._510_873']" end="43" entry_type="party_key" lookup_key="gruenbergstates#1" id1="113835" start="17" party1_short="Gruenberg" citation_local_level_id="1" >Gruenberg v. United States</CITATION>
+
+<NAME end="26" start="17" party1_of="113835_3" all_names="GRUENBERG" local_name_id="1" id="113835_4" >Gruenberg</NAME>
+
+<NAME end="43" start="30" all_names="UNITED STATES" party2_of="113835_3" local_name_id="2" id="113835_5" >United States</NAME>
+
+<DOCKET end="60" entry_type="docket" lookup_key="u.s._510_873" id1="113828" start="53" citation_global_level_id="1840.002" line="1" id="113835_2" citation_local_level_id="0" >93-5056</DOCKET>
+
+<DATE start="102" end="117" id="113835_6" >October 4, 1993</DATE>
+
+<NAME start="195" local_name_id="3" end="205" id="113835_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="243" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_989_971" id1="Dummy_File_107927" volume="989" start="230" page_number="971" standard_reporter="F.2D" citation_global_level_id="171777.001" line="3" id="113835_12" citation_local_level_id="2" >989 F. 2d 971</CITATION>
+
+<RELATION theme="113835_1" includes_docket_string="93-5056" includes_docket="113835_2" theme_string="510 U.S. 873" gram_type="apposition" relation_type="asymmetric" id="113835_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 873" X_vs_Y_string="Gruenberg v. United States" standard_case="113835_1" X_vs_Y="113835_3" gram_type="pre_nom" relation_type="equivalence" id="113835_7" ></RELATION>
+
+<RELATION theme="113835_3" includes_docket_string="93-5056" includes_docket="113835_2" theme_string="Gruenberg v. United States" gram_type="apposition" relation_type="asymmetric" id="113835_10" ></RELATION>
+
+<RELATION theme="113835_3" party1="113835_4" party1_string="Gruenberg" theme_string="Gruenberg v. United States" gram_type="infix" relation_type="asymmetric" id="113835_8" ></RELATION>
+
+<RELATION party2="113835_5" theme="113835_3" theme_string="Gruenberg v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="113835_9" ></RELATION>
+

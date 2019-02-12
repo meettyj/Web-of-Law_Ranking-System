@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['brownflorida#3']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1135" id1="117105" volume="510" start="0" page_number="1135" standard_reporter="U.S." citation_global_level_id="3740.002" line="1" id="117103_1" citation_local_level_id="0" >510 U.S. 1135</CITATION>
+
+<CITATION party2="Florida" party1="Brown" citation_global_level_id="62779.001" party2_short="Florida" line="1" id="117103_3" alternative_keys="['u.s._510_1135']" end="34" entry_type="party_key" lookup_key="brownflorida#3" id1="127218" start="18" party1_short="Brown" citation_local_level_id="1" >Brown v. Florida</CITATION>
+
+<NAME end="23" start="18" party1_of="117103_3" all_names="BROWN" local_name_id="1" id="117103_4" >Brown</NAME>
+
+<NAME end="34" start="27" all_names="FLORIDA" party2_of="117103_3" local_name_id="2" id="117103_5" >Florida</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="u.s._510_1135" id1="117105" start="44" citation_global_level_id="3740.002" line="1" id="117103_2" citation_local_level_id="0" >93-7372</DOCKET>
+
+<DATE start="93" end="110" id="117103_6" >February 22, 1994</DATE>
+
+<NAME start="187" local_name_id="3" end="197" id="117103_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="236" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_591_180" id1="Dummy_File_84170" volume="591" start="222" page_number="180" standard_reporter="SO.2D" citation_global_level_id="148020.001" line="3" id="117103_12" citation_local_level_id="2" >591 So. 2d 180</CITATION>
+
+<RELATION theme="117103_1" includes_docket_string="93-7372" includes_docket="117103_2" theme_string="510 U.S. 1135" gram_type="apposition" relation_type="asymmetric" id="117103_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1135" X_vs_Y_string="Brown v. Florida" standard_case="117103_1" X_vs_Y="117103_3" gram_type="pre_nom" relation_type="equivalence" id="117103_7" ></RELATION>
+
+<RELATION theme="117103_3" includes_docket_string="93-7372" includes_docket="117103_2" theme_string="Brown v. Florida" gram_type="apposition" relation_type="asymmetric" id="117103_10" ></RELATION>
+
+<RELATION theme="117103_3" party1="117103_4" party1_string="Brown" theme_string="Brown v. Florida" gram_type="infix" relation_type="asymmetric" id="117103_8" ></RELATION>
+
+<RELATION party2="117103_5" theme="117103_3" theme_string="Brown v. Florida" party2_string="Florida" gram_type="infix" relation_type="asymmetric" id="117103_9" ></RELATION>
+

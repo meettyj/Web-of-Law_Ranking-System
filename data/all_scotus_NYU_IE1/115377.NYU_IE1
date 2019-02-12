@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['phillipswarden#4']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_996" id1="115390" volume="510" start="0" page_number="996" standard_reporter="U.S." citation_global_level_id="6585.002" line="1" id="115377_1" citation_local_level_id="0" >510 U.S. 996</CITATION>
+
+<CITATION party2="Champion, Warden, et al" party1="Phillips" citation_global_level_id="6585.004" party2_short="Warden" line="1" id="115377_3" alternative_keys="['u.s._510_996']" end="52" entry_type="party_key" lookup_key="phillipswarden#4" id1="115390" start="17" party1_short="Phillips" citation_local_level_id="1" >Phillips v. Champion, Warden, et al</CITATION>
+
+<NAME end="25" start="17" party1_of="115377_3" all_names="PHILLIPS" local_name_id="1" id="115377_4" >Phillips</NAME>
+
+<NAME end="52" start="29" all_names="CHAMPION WARDEN" party2_of="115377_3" local_name_id="2" id="115377_5" >Champion, Warden, et al</NAME>
+
+<DOCKET end="69" entry_type="docket" lookup_key="u.s._510_996" id1="115390" start="62" citation_global_level_id="6585.002" line="1" id="115377_2" citation_local_level_id="0" >93-6168</DOCKET>
+
+<DATE start="111" end="128" id="115377_6" >November 29, 1993</DATE>
+
+<NAME start="207" local_name_id="3" end="217" id="115377_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="256" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_993_1552" id1="Dummy_File_85427" volume="993" start="242" page_number="1552" standard_reporter="F.2D" citation_global_level_id="149277.001" line="3" id="115377_12" citation_local_level_id="2" >993 F. 2d 1552</CITATION>
+
+<RELATION theme="115377_1" includes_docket_string="93-6168" includes_docket="115377_2" theme_string="510 U.S. 996" gram_type="apposition" relation_type="asymmetric" id="115377_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 996" X_vs_Y_string="Phillips v. Champion, Warden, et al" standard_case="115377_1" X_vs_Y="115377_3" gram_type="pre_nom" relation_type="equivalence" id="115377_7" ></RELATION>
+
+<RELATION theme="115377_3" includes_docket_string="93-6168" includes_docket="115377_2" theme_string="Phillips v. Champion, Warden, et al" gram_type="apposition" relation_type="asymmetric" id="115377_10" ></RELATION>
+
+<RELATION theme="115377_3" party1="115377_4" party1_string="Phillips" theme_string="Phillips v. Champion, Warden, et al" gram_type="infix" relation_type="asymmetric" id="115377_8" ></RELATION>
+
+<RELATION party2="115377_5" theme="115377_3" theme_string="Phillips v. Champion, Warden, et al" party2_string="Champion, Warden, et al" gram_type="infix" relation_type="asymmetric" id="115377_9" ></RELATION>
+

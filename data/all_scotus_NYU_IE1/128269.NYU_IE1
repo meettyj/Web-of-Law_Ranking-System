@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['jacksonrobinson#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_930" id1="128270" volume="538" start="0" page_number="930" standard_reporter="U.S." citation_global_level_id="5460.002" line="1" id="128269_1" citation_local_level_id="0" >538 U.S. 930</CITATION>
+
+<CITATION party2="ROBINSON, WARDEN" party1="JACKSON" citation_global_level_id="5460.003" party2_short="ROBINSON" line="1" id="128269_3" alternative_keys="['u.s._538_930']" end="44" entry_type="party_key" lookup_key="jacksonrobinson#1" id1="128270" start="17" party1_short="JACKSON" citation_local_level_id="1" >JACKSON v. ROBINSON, WARDEN</CITATION>
+
+<NAME end="24" start="17" party1_of="128269_3" all_names="JACKSON" local_name_id="1" id="128269_4" >JACKSON</NAME>
+
+<NAME end="44" start="28" all_names="ROBINSON WARDEN" party2_of="128269_3" local_name_id="2" id="128269_5" >ROBINSON, WARDEN</NAME>
+
+<DOCKET end="61" entry_type="docket" lookup_key="u.s._538_930" id1="128270" start="54" citation_global_level_id="5460.002" line="1" id="128269_2" citation_local_level_id="0" >02-8565</DOCKET>
+
+<DATE start="103" end="117" id="128269_6" >March 24, 2003</DATE>
+
+<NAME start="246" local_name_id="3" end="249" id="128269_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="128269_1" includes_docket_string="02-8565" includes_docket="128269_2" theme_string="538 U.S. 930" gram_type="apposition" relation_type="asymmetric" id="128269_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 930" X_vs_Y_string="JACKSON v. ROBINSON, WARDEN" standard_case="128269_1" X_vs_Y="128269_3" gram_type="pre_nom" relation_type="equivalence" id="128269_7" ></RELATION>
+
+<RELATION theme="128269_3" includes_docket_string="02-8565" includes_docket="128269_2" theme_string="JACKSON v. ROBINSON, WARDEN" gram_type="apposition" relation_type="asymmetric" id="128269_10" ></RELATION>
+
+<RELATION theme="128269_3" party1="128269_4" party1_string="JACKSON" theme_string="JACKSON v. ROBINSON, WARDEN" gram_type="infix" relation_type="asymmetric" id="128269_8" ></RELATION>
+
+<RELATION party2="128269_5" theme="128269_3" theme_string="JACKSON v. ROBINSON, WARDEN" party2_string="ROBINSON, WARDEN" gram_type="infix" relation_type="asymmetric" id="128269_9" ></RELATION>
+

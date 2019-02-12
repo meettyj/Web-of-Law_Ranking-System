@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['dejesuspennsylvania#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1028" id1="125130" volume="537" start="0" page_number="1028" standard_reporter="U.S." citation_global_level_id="7539.002" line="1" id="125132_1" citation_local_level_id="0" >537 U.S. 1028</CITATION>
+
+<CITATION party2="PENNSYLVANIA" party1="DEJESUS" citation_global_level_id="52247.001" party2_short="PENNSYLVANIA" line="1" id="125132_3" alternative_keys="['u.s._537_1028']" end="41" entry_type="party_key" lookup_key="dejesuspennsylvania#1" id1="125132" start="18" party1_short="DEJESUS" citation_local_level_id="1" >DEJESUS v. PENNSYLVANIA</CITATION>
+
+<NAME end="25" start="18" party1_of="125132_3" all_names="DEJESUS" local_name_id="1" id="125132_4" >DEJESUS</NAME>
+
+<NAME end="41" start="29" all_names="PENNSYLVANIA" party2_of="125132_3" local_name_id="2" id="125132_5" >PENNSYLVANIA</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="u.s._537_1028" id1="125130" start="51" citation_global_level_id="7539.002" line="1" id="125132_2" citation_local_level_id="0" >01-10551</DOCKET>
+
+<DATE start="101" end="118" id="125132_6" >November 18, 2002</DATE>
+
+<NAME start="214" local_name_id="3" end="217" id="125132_13" all_names="SUP" >Sup</NAME>
+
+<CITATION end="288" reporter="A. 2d" entry_type="standard_key" no_current_file="True" lookup_key="a.2d_787_394" id1="Dummy_File_49677" volume="787" start="275" page_number="394" standard_reporter="A.2D" citation_global_level_id="113527.001" line="3" id="125132_12" citation_local_level_id="2" >787 A. 2d 394</CITATION>
+
+<RELATION theme="125132_1" includes_docket_string="01-10551" includes_docket="125132_2" theme_string="537 U.S. 1028" gram_type="apposition" relation_type="asymmetric" id="125132_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1028" X_vs_Y_string="DEJESUS v. PENNSYLVANIA" standard_case="125132_1" X_vs_Y="125132_3" gram_type="pre_nom" relation_type="equivalence" id="125132_7" ></RELATION>
+
+<RELATION theme="125132_3" includes_docket_string="01-10551" includes_docket="125132_2" theme_string="DEJESUS v. PENNSYLVANIA" gram_type="apposition" relation_type="asymmetric" id="125132_10" ></RELATION>
+
+<RELATION theme="125132_3" party1="125132_4" party1_string="DEJESUS" theme_string="DEJESUS v. PENNSYLVANIA" gram_type="infix" relation_type="asymmetric" id="125132_8" ></RELATION>
+
+<RELATION party2="125132_5" theme="125132_3" theme_string="DEJESUS v. PENNSYLVANIA" party2_string="PENNSYLVANIA" gram_type="infix" relation_type="asymmetric" id="125132_9" ></RELATION>
+

@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['jurconiclub#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1157" id1="142342" volume="543" start="0" page_number="1157" standard_reporter="U.S." citation_global_level_id="4059.002" line="1" id="142350_1" citation_local_level_id="0" >543 U.S. 1157</CITATION>
+
+<CITATION party2="GLENHAVEN LAKES CLUB ET AL" party1="JURCONI" citation_global_level_id="5727.001" party2_short="CLUB" line="2" id="142350_2" alternative_keys="['u.s._543_1157']" end="55" entry_type="party_key" lookup_key="jurconiclub#1" id1="142350" start="18" party1_short="JURCONI" citation_local_level_id="1" >JURCONI v. GLENHAVEN LAKES CLUB ET AL</CITATION>
+
+<NAME end="25" start="18" party1_of="142350_2" all_names="JURCONI" local_name_id="1" id="142350_3" >JURCONI</NAME>
+
+<NAME end="55" start="29" all_names="GLENHAVEN LAKES CLUB" party2_of="142350_2" local_name_id="2" id="142350_4" >GLENHAVEN LAKES CLUB ET AL</NAME>
+
+<DOCKET end="72" entry_type="docket" lookup_key="jurconiclub#1" id1="142350" start="65" citation_global_level_id="5727.001" line="3" id="142350_7" citation_local_level_id="1" >04-7519</DOCKET>
+
+<ORGANIZATION start="78" end="108" id="142350_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="114" citation_global_level_id="5727.001" end="131" id="142350_9" citation_local_level_id="1" >February 22, 2005</DATE>
+
+<NAME start="153" local_name_id="3" end="155" id="142350_14" all_names="CT" >Ct</NAME>
+
+<CITATION end="222" reporter="Wash. App." entry_type="standard_key" no_current_file="True" lookup_key="wash.app._117_1080" id1="Dummy_File_151798" volume="117" start="203" page_number="1080" standard_reporter="WASH.APP." citation_global_level_id="215648.001" line="8" id="142350_13" citation_local_level_id="2" >117 Wash. App. 1080</CITATION>
+
+<RELATION theme="142350_2" party1="142350_3" party1_string="JURCONI" theme_string="JURCONI v. GLENHAVEN LAKES CLUB ET AL" gram_type="infix" relation_type="asymmetric" id="142350_5" ></RELATION>
+
+<RELATION party2="142350_4" theme="142350_2" theme_string="JURCONI v. GLENHAVEN LAKES CLUB ET AL" party2_string="GLENHAVEN LAKES CLUB ET AL" gram_type="infix" relation_type="asymmetric" id="142350_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1157" X_vs_Y_string="JURCONI v. GLENHAVEN LAKES CLUB ET AL" standard_case="142350_1" X_vs_Y="142350_2" gram_type="multi_line" relation_type="equivalence" id="142350_10" ></RELATION>
+
+<RELATION at_date_string="February 22, 2005" theme="142350_2" at_date="142350_9" theme_string="JURCONI v. GLENHAVEN LAKES CLUB ET AL" gram_type="multi_line" relation_type="asymmetric" id="142350_12" ></RELATION>
+
+<RELATION theme="142350_2" includes_docket_string="04-7519" includes_docket="142350_7" theme_string="JURCONI v. GLENHAVEN LAKES CLUB ET AL" gram_type="multi_line" relation_type="asymmetric" id="142350_11" ></RELATION>
+

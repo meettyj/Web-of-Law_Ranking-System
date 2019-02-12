@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['atwellsmith#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_893" id1="123438" volume="537" start="0" page_number="893" standard_reporter="U.S." citation_global_level_id="728.002" line="1" id="123438_1" citation_local_level_id="0" >537 U.S. 893</CITATION>
+
+<CITATION party2="SMITH ET AL" party1="ATWELL" citation_global_level_id="728.001" party2_short="SMITH" line="1" id="123438_3" alternative_keys="['u.s._537_893']" end="38" entry_type="party_key" lookup_key="atwellsmith#1" id1="123438" start="17" party1_short="ATWELL" citation_local_level_id="1" >ATWELL v. SMITH ET AL</CITATION>
+
+<NAME end="23" start="17" party1_of="123438_3" all_names="ATWELL" local_name_id="1" id="123438_4" >ATWELL</NAME>
+
+<NAME end="38" start="27" all_names="SMITH" party2_of="123438_3" local_name_id="2" id="123438_5" >SMITH ET AL</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._537_893" id1="123438" start="48" citation_global_level_id="728.002" line="1" id="123438_2" citation_local_level_id="0" >02-5070</DOCKET>
+
+<DATE start="97" end="112" id="123438_6" >October 7, 2002</DATE>
+
+<NAME start="240" local_name_id="3" end="243" id="123438_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="123438_1" includes_docket_string="02-5070" includes_docket="123438_2" theme_string="537 U.S. 893" gram_type="apposition" relation_type="asymmetric" id="123438_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 893" X_vs_Y_string="ATWELL v. SMITH ET AL" standard_case="123438_1" X_vs_Y="123438_3" gram_type="pre_nom" relation_type="equivalence" id="123438_7" ></RELATION>
+
+<RELATION theme="123438_3" includes_docket_string="02-5070" includes_docket="123438_2" theme_string="ATWELL v. SMITH ET AL" gram_type="apposition" relation_type="asymmetric" id="123438_10" ></RELATION>
+
+<RELATION theme="123438_3" party1="123438_4" party1_string="ATWELL" theme_string="ATWELL v. SMITH ET AL" gram_type="infix" relation_type="asymmetric" id="123438_8" ></RELATION>
+
+<RELATION party2="123438_5" theme="123438_3" theme_string="ATWELL v. SMITH ET AL" party2_string="SMITH ET AL" gram_type="infix" relation_type="asymmetric" id="123438_9" ></RELATION>
+

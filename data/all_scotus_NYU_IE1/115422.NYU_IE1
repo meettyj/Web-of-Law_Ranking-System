@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['andersondistrict#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_999" id1="115433" volume="510" start="0" page_number="999" standard_reporter="U.S." citation_global_level_id="13749.002" line="1" id="115422_1" citation_local_level_id="0" >510 U.S. 999</CITATION>
+
+<CITATION party2="District of Columbia et al" party1="Anderson" citation_global_level_id="36672.001" party2_short="District" line="1" id="115422_3" alternative_keys="['u.s._510_999']" end="55" entry_type="party_key" lookup_key="andersondistrict#1" id1="115422" start="17" party1_short="Anderson" citation_local_level_id="1" >Anderson v. District of Columbia et al</CITATION>
+
+<NAME end="25" start="17" party1_of="115422_3" all_names="ANDERSON" local_name_id="1" id="115422_4" >Anderson</NAME>
+
+<NAME end="55" start="29" all_names="DISTRICT OF COLUMBIA" party2_of="115422_3" local_name_id="2" id="115422_5" >District of Columbia et al</NAME>
+
+<DOCKET end="72" entry_type="docket" lookup_key="u.s._510_999" id1="115433" start="65" citation_global_level_id="13749.002" line="1" id="115422_2" citation_local_level_id="0" >93-6342</DOCKET>
+
+<DATE start="114" end="131" id="115422_6" >November 29, 1993</DATE>
+
+<NAME start="211" local_name_id="3" end="221" id="115422_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="115422_1" includes_docket_string="93-6342" includes_docket="115422_2" theme_string="510 U.S. 999" gram_type="apposition" relation_type="asymmetric" id="115422_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 999" X_vs_Y_string="Anderson v. District of Columbia et al" standard_case="115422_1" X_vs_Y="115422_3" gram_type="pre_nom" relation_type="equivalence" id="115422_7" ></RELATION>
+
+<RELATION theme="115422_3" includes_docket_string="93-6342" includes_docket="115422_2" theme_string="Anderson v. District of Columbia et al" gram_type="apposition" relation_type="asymmetric" id="115422_10" ></RELATION>
+
+<RELATION theme="115422_3" party1="115422_4" party1_string="Anderson" theme_string="Anderson v. District of Columbia et al" gram_type="infix" relation_type="asymmetric" id="115422_8" ></RELATION>
+
+<RELATION party2="115422_5" theme="115422_3" theme_string="Anderson v. District of Columbia et al" party2_string="District of Columbia et al" gram_type="infix" relation_type="asymmetric" id="115422_9" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['statespatane#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_976" id1="128872" volume="538" start="0" page_number="976" standard_reporter="U.S." citation_global_level_id="8279.002" line="1" id="128875_1" citation_local_level_id="0" >538 U.S. 976</CITATION>
+
+<CITATION party2="PATANE" party1="UNITED STATES" citation_global_level_id="32896.001" party2_short="PATANE" line="1" id="128875_3" alternative_keys="['u.s._538_976']" end="40" entry_type="party_key" lookup_key="statespatane#2" id1="128875" start="17" party1_short="STATES" citation_local_level_id="1" >UNITED STATES v. PATANE</CITATION>
+
+<NAME end="30" start="17" party1_of="128875_3" all_names="UNITED STATES" local_name_id="1" id="128875_4" >UNITED STATES</NAME>
+
+<NAME end="40" start="34" all_names="PATANE" party2_of="128875_3" local_name_id="2" id="128875_5" >PATANE</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._538_976" id1="128872" start="50" citation_global_level_id="8279.002" line="1" id="128875_2" citation_local_level_id="0" >02-1183</DOCKET>
+
+<DATE start="99" end="113" id="128875_6" >April 21, 2003</DATE>
+
+<NAME start="243" local_name_id="3" end="246" id="128875_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="367" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_304_1013" id1="Dummy_File_71956" volume="304" start="353" page_number="1013" standard_reporter="F.3D" citation_global_level_id="135806.001" line="3" id="128875_12" citation_local_level_id="2" >304 F. 3d 1013</CITATION>
+
+<RELATION theme="128875_1" includes_docket_string="02-1183" includes_docket="128875_2" theme_string="538 U.S. 976" gram_type="apposition" relation_type="asymmetric" id="128875_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 976" X_vs_Y_string="UNITED STATES v. PATANE" standard_case="128875_1" X_vs_Y="128875_3" gram_type="pre_nom" relation_type="equivalence" id="128875_7" ></RELATION>
+
+<RELATION theme="128875_3" includes_docket_string="02-1183" includes_docket="128875_2" theme_string="UNITED STATES v. PATANE" gram_type="apposition" relation_type="asymmetric" id="128875_10" ></RELATION>
+
+<RELATION theme="128875_3" party1="128875_4" party1_string="UNITED STATES" theme_string="UNITED STATES v. PATANE" gram_type="infix" relation_type="asymmetric" id="128875_8" ></RELATION>
+
+<RELATION party2="128875_5" theme="128875_3" theme_string="UNITED STATES v. PATANE" party2_string="PATANE" gram_type="infix" relation_type="asymmetric" id="128875_9" ></RELATION>
+

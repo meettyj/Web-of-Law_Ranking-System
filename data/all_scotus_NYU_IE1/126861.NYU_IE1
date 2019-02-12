@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['clarkcalifornia#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1165" id1="126863" volume="537" start="0" page_number="1165" standard_reporter="U.S." citation_global_level_id="10069.002" line="1" id="126861_1" citation_local_level_id="0" >537 U.S. 1165</CITATION>
+
+<CITATION party2="CALIFORNIA" party1="CLARK" citation_global_level_id="51329.001" party2_short="CALIFORNIA" line="1" id="126861_3" alternative_keys="['u.s._537_1165']" end="37" entry_type="party_key" lookup_key="clarkcalifornia#2" id1="126861" start="18" party1_short="CLARK" citation_local_level_id="1" >CLARK v. CALIFORNIA</CITATION>
+
+<NAME end="23" start="18" party1_of="126861_3" all_names="CLARK" local_name_id="1" id="126861_4" >CLARK</NAME>
+
+<NAME end="37" start="27" all_names="CALIFORNIA" party2_of="126861_3" local_name_id="2" id="126861_5" >CALIFORNIA</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="u.s._537_1165" id1="126863" start="47" citation_global_level_id="10069.002" line="1" id="126861_2" citation_local_level_id="0" >02-7575</DOCKET>
+
+<DATE start="96" end="112" id="126861_6" >January 21, 2003</DATE>
+
+<NAME start="206" local_name_id="3" end="209" id="126861_12" all_names="SUP" >Sup</NAME>
+
+<RELATION theme="126861_1" includes_docket_string="02-7575" includes_docket="126861_2" theme_string="537 U.S. 1165" gram_type="apposition" relation_type="asymmetric" id="126861_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1165" X_vs_Y_string="CLARK v. CALIFORNIA" standard_case="126861_1" X_vs_Y="126861_3" gram_type="pre_nom" relation_type="equivalence" id="126861_7" ></RELATION>
+
+<RELATION theme="126861_3" includes_docket_string="02-7575" includes_docket="126861_2" theme_string="CLARK v. CALIFORNIA" gram_type="apposition" relation_type="asymmetric" id="126861_10" ></RELATION>
+
+<RELATION theme="126861_3" party1="126861_4" party1_string="CLARK" theme_string="CLARK v. CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="126861_8" ></RELATION>
+
+<RELATION party2="126861_5" theme="126861_3" theme_string="CLARK v. CALIFORNIA" party2_string="CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="126861_9" ></RELATION>
+

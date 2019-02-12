@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['washingtonjames#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1078" id1="116440" volume="510" start="0" page_number="1078" standard_reporter="U.S." citation_global_level_id="2615.002" line="1" id="116447_1" citation_local_level_id="0" >510 U.S. 1078</CITATION>
+
+<CITATION party2="James, Warden" party1="Washington" citation_global_level_id="2615.003" party2_short="James" line="1" id="116447_3" alternative_keys="['u.s._510_1078']" end="45" entry_type="party_key" lookup_key="washingtonjames#1" id1="116440" start="18" party1_short="Washington" citation_local_level_id="1" >Washington v. James, Warden</CITATION>
+
+<NAME end="28" start="18" party1_of="116447_3" all_names="WASHINGTON" local_name_id="1" id="116447_4" >Washington</NAME>
+
+<NAME end="45" start="32" all_names="JAMES WARDEN" party2_of="116447_3" local_name_id="2" id="116447_5" >James, Warden</NAME>
+
+<DOCKET end="62" entry_type="docket" lookup_key="u.s._510_1078" id1="116440" start="55" citation_global_level_id="2615.002" line="1" id="116447_2" citation_local_level_id="0" >93-6979</DOCKET>
+
+<DATE start="104" end="120" id="116447_6" >January 18, 1994</DATE>
+
+<NAME start="197" local_name_id="3" end="207" id="116447_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="246" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_996_1442" id1="Dummy_File_4655" volume="996" start="232" page_number="1442" standard_reporter="F.2D" citation_global_level_id="68505.001" line="3" id="116447_12" citation_local_level_id="2" >996 F. 2d 1442</CITATION>
+
+<RELATION theme="116447_1" includes_docket_string="93-6979" includes_docket="116447_2" theme_string="510 U.S. 1078" gram_type="apposition" relation_type="asymmetric" id="116447_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1078" X_vs_Y_string="Washington v. James, Warden" standard_case="116447_1" X_vs_Y="116447_3" gram_type="pre_nom" relation_type="equivalence" id="116447_7" ></RELATION>
+
+<RELATION theme="116447_3" includes_docket_string="93-6979" includes_docket="116447_2" theme_string="Washington v. James, Warden" gram_type="apposition" relation_type="asymmetric" id="116447_10" ></RELATION>
+
+<RELATION theme="116447_3" party1="116447_4" party1_string="Washington" theme_string="Washington v. James, Warden" gram_type="infix" relation_type="asymmetric" id="116447_8" ></RELATION>
+
+<RELATION party2="116447_5" theme="116447_3" theme_string="Washington v. James, Warden" party2_string="James, Warden" gram_type="infix" relation_type="asymmetric" id="116447_9" ></RELATION>
+

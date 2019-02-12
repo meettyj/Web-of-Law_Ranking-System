@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['sotelastates#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_1035" id1="136177" volume="541" start="0" page_number="1035" standard_reporter="U.S." citation_global_level_id="395.002" line="1" id="136180_1" citation_local_level_id="0" >541 U.S. 1035</CITATION>
+
+<CITATION party2="UNITED STATES" party1="NAVA-SOTELA, AKA MONTOYA" citation_global_level_id="395.003" party2_short="STATES" line="2" id="136180_2" alternative_keys="['u.s._541_1035']" end="59" entry_type="party_key" lookup_key="sotelastates#2" id1="136177" start="18" party1_short="SOTELA" citation_local_level_id="1" >NAVA-SOTELA, AKA MONTOYA v. UNITED STATES</CITATION>
+
+<NAME end="42" start="18" party1_of="136180_2" all_names="NAVA-SOTELA AKA MONTOYA" local_name_id="1" id="136180_3" >NAVA-SOTELA, AKA MONTOYA</NAME>
+
+<NAME end="59" start="46" all_names="UNITED STATES" party2_of="136180_2" local_name_id="2" id="136180_4" >UNITED STATES</NAME>
+
+<DOCKET alternative_keys="['u.s._541_1035']" end="76" entry_type="docket" lookup_key="sotelastates#2" id1="136177" start="69" citation_global_level_id="395.003" line="3" id="136180_7" citation_local_level_id="1" >03-9603</DOCKET>
+
+<ORGANIZATION start="82" end="112" id="136180_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="118" citation_global_level_id="395.003" end="129" id="136180_9" citation_local_level_id="1" >May 3, 2004</DATE>
+
+<NAME start="162" local_name_id="3" end="165" id="136180_14" all_names="CIR" >Cir</NAME>
+
+<CITATION end="216" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_354_1202" id1="Dummy_File_97117" volume="354" start="202" page_number="1202" standard_reporter="F.3D" citation_global_level_id="160967.001" line="8" id="136180_13" citation_local_level_id="2" >354 F. 3d 1202</CITATION>
+
+<RELATION theme="136180_2" party1="136180_3" party1_string="NAVA-SOTELA, AKA MONTOYA" theme_string="NAVA-SOTELA, AKA MONTOYA v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="136180_5" ></RELATION>
+
+<RELATION party2="136180_4" theme="136180_2" theme_string="NAVA-SOTELA, AKA MONTOYA v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="136180_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 1035" X_vs_Y_string="NAVA-SOTELA, AKA MONTOYA v. UNITED STATES" standard_case="136180_1" X_vs_Y="136180_2" gram_type="multi_line" relation_type="equivalence" id="136180_10" ></RELATION>
+
+<RELATION at_date_string="May 3, 2004" theme="136180_2" at_date="136180_9" theme_string="NAVA-SOTELA, AKA MONTOYA v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="136180_12" ></RELATION>
+
+<RELATION theme="136180_2" includes_docket_string="03-9603" includes_docket="136180_7" theme_string="NAVA-SOTELA, AKA MONTOYA v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="136180_11" ></RELATION>
+

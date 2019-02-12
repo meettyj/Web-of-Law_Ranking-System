@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['statesmcgowan#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1066" id1="125639" volume="537" start="0" page_number="1066" standard_reporter="U.S." citation_global_level_id="6963.002" line="1" id="125636_1" citation_local_level_id="0" >537 U.S. 1066</CITATION>
+
+<CITATION party2="McGOWAN" party1="UNITED STATES" citation_global_level_id="52445.001" party2_short="McGOWAN" line="1" id="125636_3" alternative_keys="['u.s._537_1066']" end="42" entry_type="party_key" lookup_key="statesmcgowan#2" id1="102897" start="18" party1_short="STATES" citation_local_level_id="1" >UNITED STATES v. McGOWAN</CITATION>
+
+<NAME end="31" start="18" party1_of="125636_3" all_names="UNITED STATES" local_name_id="1" id="125636_4" >UNITED STATES</NAME>
+
+<NAME end="42" start="35" all_names="MCGOWAN" party2_of="125636_3" local_name_id="2" id="125636_5" >McGOWAN</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._537_1066" id1="125639" start="52" citation_global_level_id="6963.002" line="1" id="125636_2" citation_local_level_id="0" >02-64</DOCKET>
+
+<DATE start="99" end="115" id="125636_6" >December 2, 2002</DATE>
+
+<NAME start="244" local_name_id="3" end="247" id="125636_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="367" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_274_1251" id1="Dummy_File_136699" volume="274" start="353" page_number="1251" standard_reporter="F.3D" citation_global_level_id="200549.001" line="3" id="125636_12" citation_local_level_id="2" >274 F. 3d 1251</CITATION>
+
+<RELATION theme="125636_1" includes_docket_string="02-64" includes_docket="125636_2" theme_string="537 U.S. 1066" gram_type="apposition" relation_type="asymmetric" id="125636_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1066" X_vs_Y_string="UNITED STATES v. McGOWAN" standard_case="125636_1" X_vs_Y="125636_3" gram_type="pre_nom" relation_type="equivalence" id="125636_7" ></RELATION>
+
+<RELATION theme="125636_3" includes_docket_string="02-64" includes_docket="125636_2" theme_string="UNITED STATES v. McGOWAN" gram_type="apposition" relation_type="asymmetric" id="125636_10" ></RELATION>
+
+<RELATION theme="125636_3" party1="125636_4" party1_string="UNITED STATES" theme_string="UNITED STATES v. McGOWAN" gram_type="infix" relation_type="asymmetric" id="125636_8" ></RELATION>
+
+<RELATION party2="125636_5" theme="125636_3" theme_string="UNITED STATES v. McGOWAN" party2_string="McGOWAN" gram_type="infix" relation_type="asymmetric" id="125636_9" ></RELATION>
+

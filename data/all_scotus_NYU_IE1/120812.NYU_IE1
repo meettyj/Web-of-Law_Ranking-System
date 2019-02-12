@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['bainbuechel#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1096" id1="120815" volume="535" start="0" page_number="1096" standard_reporter="U.S." citation_global_level_id="10204.002" line="1" id="120812_1" citation_local_level_id="0" >535 U.S. 1096</CITATION>
+
+<CITATION party2="BUECHEL ET AL" party1="BAIN ET AL." citation_global_level_id="41031.001" party2_short="BUECHEL" line="2" id="120812_2" alternative_keys="['u.s._535_1096']" end="46" entry_type="party_key" lookup_key="bainbuechel#1" id1="120812" start="18" party1_short="BAIN" citation_local_level_id="1" >BAIN ET AL. v. BUECHEL ET AL</CITATION>
+
+<NAME end="29" start="18" party1_of="120812_2" all_names="BAIN" local_name_id="1" id="120812_3" >BAIN ET AL.</NAME>
+
+<NAME end="46" start="33" all_names="BUECHEL" party2_of="120812_2" local_name_id="2" id="120812_4" >BUECHEL ET AL</NAME>
+
+<DOCKET end="63" entry_type="docket" lookup_key="bainbuechel#1" id1="120812" start="56" citation_global_level_id="41031.001" line="3" id="120812_7" citation_local_level_id="1" >01-1424</DOCKET>
+
+<DATE start="109" citation_global_level_id="41031.001" end="121" id="120812_8" citation_local_level_id="1" >May 28, 2002</DATE>
+
+<NAME start="143" local_name_id="3" end="145" id="120812_13" all_names="CT" >Ct</NAME>
+
+<CITATION end="226" reporter="N. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.e.2d_766_914" id1="Dummy_File_225716" volume="766" start="210" page_number="914" standard_reporter="N.E.2D" citation_global_level_id="289566.001" line="8" id="120812_12" citation_local_level_id="2" >766 N. E. 2d 914</CITATION>
+
+<RELATION theme="120812_2" party1="120812_3" party1_string="BAIN ET AL." theme_string="BAIN ET AL. v. BUECHEL ET AL" gram_type="infix" relation_type="asymmetric" id="120812_5" ></RELATION>
+
+<RELATION party2="120812_4" theme="120812_2" theme_string="BAIN ET AL. v. BUECHEL ET AL" party2_string="BUECHEL ET AL" gram_type="infix" relation_type="asymmetric" id="120812_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1096" X_vs_Y_string="BAIN ET AL. v. BUECHEL ET AL" standard_case="120812_1" X_vs_Y="120812_2" gram_type="multi_line" relation_type="equivalence" id="120812_9" ></RELATION>
+
+<RELATION at_date_string="May 28, 2002" theme="120812_2" at_date="120812_8" theme_string="BAIN ET AL. v. BUECHEL ET AL" gram_type="multi_line" relation_type="asymmetric" id="120812_11" ></RELATION>
+
+<RELATION theme="120812_2" includes_docket_string="01-1424" includes_docket="120812_7" theme_string="BAIN ET AL. v. BUECHEL ET AL" gram_type="multi_line" relation_type="asymmetric" id="120812_10" ></RELATION>
+

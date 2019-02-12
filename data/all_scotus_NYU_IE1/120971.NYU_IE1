@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['edenstague#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1108" id1="120978" volume="535" start="0" page_number="1108" standard_reporter="U.S." citation_global_level_id="6705.002" line="1" id="120971_1" citation_local_level_id="0" >535 U.S. 1108</CITATION>
+
+<CITATION party2="TAGUE" party1="EDENS" citation_global_level_id="32599.001" party2_short="TAGUE" line="2" id="120971_2" alternative_keys="['u.s._535_1108']" end="32" entry_type="party_key" lookup_key="edenstague#2" id1="120971" start="18" party1_short="EDENS" citation_local_level_id="1" >EDENS v. TAGUE</CITATION>
+
+<NAME end="23" start="18" party1_of="120971_2" all_names="EDENS" local_name_id="1" id="120971_3" >EDENS</NAME>
+
+<NAME end="32" start="27" all_names="TAGUE" party2_of="120971_2" local_name_id="2" id="120971_4" >TAGUE</NAME>
+
+<DOCKET end="49" entry_type="docket" lookup_key="edenstague#2" id1="120971" start="42" citation_global_level_id="32599.001" line="3" id="120971_7" citation_local_level_id="1" >01-8028</DOCKET>
+
+<DATE start="95" citation_global_level_id="32599.001" end="107" id="120971_8" citation_local_level_id="1" >May 28, 2002</DATE>
+
+<NAME start="129" local_name_id="3" end="138" id="120971_12" all_names="PETITIONS" >Petitions</NAME>
+
+<RELATION theme="120971_2" party1="120971_3" party1_string="EDENS" theme_string="EDENS v. TAGUE" gram_type="infix" relation_type="asymmetric" id="120971_5" ></RELATION>
+
+<RELATION party2="120971_4" theme="120971_2" theme_string="EDENS v. TAGUE" party2_string="TAGUE" gram_type="infix" relation_type="asymmetric" id="120971_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1108" X_vs_Y_string="EDENS v. TAGUE" standard_case="120971_1" X_vs_Y="120971_2" gram_type="multi_line" relation_type="equivalence" id="120971_9" ></RELATION>
+
+<RELATION at_date_string="May 28, 2002" theme="120971_2" at_date="120971_8" theme_string="EDENS v. TAGUE" gram_type="multi_line" relation_type="asymmetric" id="120971_11" ></RELATION>
+
+<RELATION theme="120971_2" includes_docket_string="01-8028" includes_docket="120971_7" theme_string="EDENS v. TAGUE" gram_type="multi_line" relation_type="asymmetric" id="120971_10" ></RELATION>
+

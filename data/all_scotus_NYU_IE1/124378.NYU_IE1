@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['kingflorida#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_961" id1="124376" volume="537" start="0" page_number="961" standard_reporter="U.S." citation_global_level_id="2396.002" line="1" id="124378_1" citation_local_level_id="0" >537 U.S. 961</CITATION>
+
+<CITATION party2="FLORIDA" party1="KING" citation_global_level_id="63028.001" party2_short="FLORIDA" line="1" id="124378_3" alternative_keys="['u.s._537_961']" end="32" entry_type="party_key" lookup_key="kingflorida#2" id1="124378" start="17" party1_short="KING" citation_local_level_id="1" >KING v. FLORIDA</CITATION>
+
+<NAME end="21" start="17" party1_of="124378_3" all_names="KING" local_name_id="1" id="124378_4" >KING</NAME>
+
+<NAME end="32" start="25" all_names="FLORIDA" party2_of="124378_3" local_name_id="2" id="124378_5" >FLORIDA</NAME>
+
+<DOCKET end="49" entry_type="docket" lookup_key="u.s._537_961" id1="124376" start="42" citation_global_level_id="2396.002" line="1" id="124378_2" citation_local_level_id="0" >02-6056</DOCKET>
+
+<DATE start="91" end="107" id="124378_6" >October 15, 2002</DATE>
+
+<NAME start="233" local_name_id="3" end="237" id="124378_13" all_names="DIST" >Dist</NAME>
+
+<CITATION end="313" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_790_477" id1="Dummy_File_181789" volume="790" start="299" page_number="477" standard_reporter="SO.2D" citation_global_level_id="245639.001" line="3" id="124378_12" citation_local_level_id="2" >790 So. 2d 477</CITATION>
+
+<RELATION theme="124378_1" includes_docket_string="02-6056" includes_docket="124378_2" theme_string="537 U.S. 961" gram_type="apposition" relation_type="asymmetric" id="124378_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 961" X_vs_Y_string="KING v. FLORIDA" standard_case="124378_1" X_vs_Y="124378_3" gram_type="pre_nom" relation_type="equivalence" id="124378_7" ></RELATION>
+
+<RELATION theme="124378_3" includes_docket_string="02-6056" includes_docket="124378_2" theme_string="KING v. FLORIDA" gram_type="apposition" relation_type="asymmetric" id="124378_10" ></RELATION>
+
+<RELATION theme="124378_3" party1="124378_4" party1_string="KING" theme_string="KING v. FLORIDA" gram_type="infix" relation_type="asymmetric" id="124378_8" ></RELATION>
+
+<RELATION party2="124378_5" theme="124378_3" theme_string="KING v. FLORIDA" party2_string="FLORIDA" gram_type="infix" relation_type="asymmetric" id="124378_9" ></RELATION>
+

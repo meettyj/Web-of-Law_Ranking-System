@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['johnsonwyoming#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_841" id1="131677" volume="540" start="0" page_number="841" standard_reporter="U.S." citation_global_level_id="412.002" line="1" id="131676_1" citation_local_level_id="0" >540 U.S. 841</CITATION>
+
+<CITATION party2="WYOMING" party1="JOHNSON" citation_global_level_id="31437.001" party2_short="WYOMING" line="1" id="131676_3" alternative_keys="['u.s._540_841']" end="35" entry_type="party_key" lookup_key="johnsonwyoming#1" id1="131676" start="17" party1_short="JOHNSON" citation_local_level_id="1" >JOHNSON v. WYOMING</CITATION>
+
+<NAME end="24" start="17" party1_of="131676_3" all_names="JOHNSON" local_name_id="1" id="131676_4" >JOHNSON</NAME>
+
+<NAME end="35" start="28" all_names="WYOMING" party2_of="131676_3" local_name_id="2" id="131676_5" >WYOMING</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="u.s._540_841" id1="131677" start="45" citation_global_level_id="412.002" line="1" id="131676_2" citation_local_level_id="0" >02-10876</DOCKET>
+
+<DATE start="95" end="110" id="131676_6" >October 6, 2003</DATE>
+
+<NAME start="187" local_name_id="3" end="197" id="131676_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="235" reporter="P. 3d" entry_type="standard_key" no_current_file="True" lookup_key="p.3d_61_1234" id1="Dummy_File_195317" volume="61" start="222" page_number="1234" standard_reporter="P.3D" citation_global_level_id="259167.001" line="3" id="131676_12" citation_local_level_id="2" >61 P. 3d 1234</CITATION>
+
+<RELATION theme="131676_1" includes_docket_string="02-10876" includes_docket="131676_2" theme_string="540 U.S. 841" gram_type="apposition" relation_type="asymmetric" id="131676_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 841" X_vs_Y_string="JOHNSON v. WYOMING" standard_case="131676_1" X_vs_Y="131676_3" gram_type="pre_nom" relation_type="equivalence" id="131676_7" ></RELATION>
+
+<RELATION theme="131676_3" includes_docket_string="02-10876" includes_docket="131676_2" theme_string="JOHNSON v. WYOMING" gram_type="apposition" relation_type="asymmetric" id="131676_10" ></RELATION>
+
+<RELATION theme="131676_3" party1="131676_4" party1_string="JOHNSON" theme_string="JOHNSON v. WYOMING" gram_type="infix" relation_type="asymmetric" id="131676_8" ></RELATION>
+
+<RELATION party2="131676_5" theme="131676_3" theme_string="JOHNSON v. WYOMING" party2_string="WYOMING" gram_type="infix" relation_type="asymmetric" id="131676_9" ></RELATION>
+

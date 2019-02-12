@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['graycenter#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_901" id1="123549" volume="537" start="0" page_number="901" standard_reporter="U.S." citation_global_level_id="3552.002" line="1" id="123551_1" citation_local_level_id="0" >537 U.S. 901</CITATION>
+
+<CITATION party2="GAMMON, SUPERINTENDENT, MOBERLY CORRECTIONAL CENTER" party1="GRAY" citation_global_level_id="3552.003" party2_short="CENTER" line="1" id="123551_3" alternative_keys="['u.s._537_901']" end="76" entry_type="party_key" lookup_key="graycenter#1" id1="123549" start="17" party1_short="GRAY" citation_local_level_id="1" >GRAY v. GAMMON, SUPERINTENDENT, MOBERLY CORRECTIONAL CENTER</CITATION>
+
+<NAME end="21" start="17" party1_of="123551_3" all_names="GRAY" local_name_id="1" id="123551_4" >GRAY</NAME>
+
+<NAME end="76" start="25" all_names="GAMMON SUPERINTENDENT MOBERLY CORRECTIONAL CENTER" party2_of="123551_3" local_name_id="2" id="123551_5" >GAMMON, SUPERINTENDENT, MOBERLY CORRECTIONAL CENTER</NAME>
+
+<DOCKET end="93" entry_type="docket" lookup_key="u.s._537_901" id1="123549" start="86" citation_global_level_id="3552.002" line="1" id="123551_2" citation_local_level_id="0" >02-5200</DOCKET>
+
+<DATE start="135" end="150" id="123551_6" >October 7, 2002</DATE>
+
+<NAME start="280" local_name_id="3" end="283" id="123551_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="333" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_283_917" id1="Dummy_File_22147" volume="283" start="320" page_number="917" standard_reporter="F.3D" citation_global_level_id="85997.001" line="3" id="123551_12" citation_local_level_id="2" >283 F. 3d 917</CITATION>
+
+<RELATION theme="123551_1" includes_docket_string="02-5200" includes_docket="123551_2" theme_string="537 U.S. 901" gram_type="apposition" relation_type="asymmetric" id="123551_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 901" X_vs_Y_string="GRAY v. GAMMON, SUPERINTENDENT, MOBERLY CORRECTIONAL CENTER" standard_case="123551_1" X_vs_Y="123551_3" gram_type="pre_nom" relation_type="equivalence" id="123551_7" ></RELATION>
+
+<RELATION theme="123551_3" includes_docket_string="02-5200" includes_docket="123551_2" theme_string="GRAY v. GAMMON, SUPERINTENDENT, MOBERLY CORRECTIONAL CENTER" gram_type="apposition" relation_type="asymmetric" id="123551_10" ></RELATION>
+
+<RELATION theme="123551_3" party1="123551_4" party1_string="GRAY" theme_string="GRAY v. GAMMON, SUPERINTENDENT, MOBERLY CORRECTIONAL CENTER" gram_type="infix" relation_type="asymmetric" id="123551_8" ></RELATION>
+
+<RELATION party2="123551_5" theme="123551_3" theme_string="GRAY v. GAMMON, SUPERINTENDENT, MOBERLY CORRECTIONAL CENTER" party2_string="GAMMON, SUPERINTENDENT, MOBERLY CORRECTIONAL CENTER" gram_type="infix" relation_type="asymmetric" id="123551_9" ></RELATION>
+

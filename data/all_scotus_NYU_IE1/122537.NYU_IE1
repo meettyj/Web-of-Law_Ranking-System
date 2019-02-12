@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['hospitalfogleman#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_824" id1="122538" volume="537" start="0" page_number="824" standard_reporter="U.S." citation_global_level_id="480.002" line="1" id="122537_1" citation_local_level_id="0" >537 U.S. 824</CITATION>
+
+<CITATION party2="FOGLEMAN" party1="MERCY HOSPITAL, INC." citation_global_level_id="37407.001" party2_short="FOGLEMAN" line="1" id="122537_3" alternative_keys="['u.s._537_824']" end="49" entry_type="party_key" lookup_key="hospitalfogleman#1" id1="122537" start="17" party1_short="HOSPITAL" citation_local_level_id="1" >MERCY HOSPITAL, INC. v. FOGLEMAN</CITATION>
+
+<NAME end="37" start="17" party1_of="122537_3" all_names="MERCY HOSPITAL INC" local_name_id="1" id="122537_4" >MERCY HOSPITAL, INC.</NAME>
+
+<ORGANIZATION start="17" end="36" id="122537_8" >MERCY HOSPITAL, INC</ORGANIZATION>
+
+<NAME end="49" start="41" all_names="FOGLEMAN" party2_of="122537_3" local_name_id="2" id="122537_5" >FOGLEMAN</NAME>
+
+<DOCKET end="66" entry_type="docket" lookup_key="u.s._537_824" id1="122538" start="59" citation_global_level_id="480.002" line="1" id="122537_2" citation_local_level_id="0" >01-1843</DOCKET>
+
+<DATE start="62" end="66" id="122537_6" >1843</DATE>
+
+<DATE start="108" end="123" id="122537_7" >October 7, 2002</DATE>
+
+<NAME start="251" local_name_id="3" end="254" id="122537_16" all_names="CIR" >Cir</NAME>
+
+<CITATION end="304" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_283_561" id1="Dummy_File_103527" volume="283" start="291" page_number="561" standard_reporter="F.3D" citation_global_level_id="167377.001" line="3" id="122537_15" citation_local_level_id="2" >283 F. 3d 561</CITATION>
+
+<RELATION theme="122537_1" includes_docket_string="01-1843" includes_docket="122537_2" theme_string="537 U.S. 824" gram_type="apposition" relation_type="asymmetric" id="122537_13" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 824" X_vs_Y_string="MERCY HOSPITAL, INC. v. FOGLEMAN" standard_case="122537_1" X_vs_Y="122537_3" gram_type="pre_nom" relation_type="equivalence" id="122537_9" ></RELATION>
+
+<RELATION theme="122537_3" includes_docket_string="01-1843" includes_docket="122537_2" theme_string="MERCY HOSPITAL, INC. v. FOGLEMAN" gram_type="apposition" relation_type="asymmetric" id="122537_12" ></RELATION>
+
+<RELATION theme="122537_3" party1="122537_4" party1_string="MERCY HOSPITAL, INC." theme_string="MERCY HOSPITAL, INC. v. FOGLEMAN" gram_type="infix" relation_type="asymmetric" id="122537_10" ></RELATION>
+
+<RELATION party2="122537_5" theme="122537_3" theme_string="MERCY HOSPITAL, INC. v. FOGLEMAN" party2_string="FOGLEMAN" gram_type="infix" relation_type="asymmetric" id="122537_11" ></RELATION>
+
+<RELATION at_date_string="1843" theme="122537_2" at_date="122537_6" theme_string="01-1843" gram_type="infix" relation_type="asymmetric" id="122537_14" ></RELATION>
+

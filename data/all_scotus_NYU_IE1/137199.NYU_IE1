@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['harveygarcia#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._542_916" id1="137194" volume="542" start="0" page_number="916" standard_reporter="U.S." citation_global_level_id="173.002" line="1" id="137199_1" citation_local_level_id="0" >542 U.S. 916</CITATION>
+
+<CITATION party2="GARCIA, WARDEN" party1="HARVEY" citation_global_level_id="4139.004" party2_short="GARCIA" line="1" id="137199_3" alternative_keys="['u.s._541_977']" end="41" entry_type="party_key" lookup_key="harveygarcia#1" id1="135517" start="17" party1_short="HARVEY" citation_local_level_id="1" >HARVEY v. GARCIA, WARDEN</CITATION>
+
+<NAME end="23" start="17" party1_of="137199_3" all_names="HARVEY" local_name_id="1" id="137199_4" >HARVEY</NAME>
+
+<NAME end="41" start="27" all_names="GARCIA WARDEN" party2_of="137199_3" local_name_id="2" id="137199_5" >GARCIA, WARDEN</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._542_916" id1="137194" start="51" citation_global_level_id="173.002" line="1" id="137199_2" citation_local_level_id="0" >03-8691</DOCKET>
+
+<DATE start="100" end="113" id="137199_6" >June 14, 2004</DATE>
+
+<CITATION end="221" reporter="U. S." entry_type="standard_key" lookup_key="u.s._541_977" id1="135517" volume="541" start="208" page_number="977" standard_reporter="U.S." citation_global_level_id="4139.002" line="3" id="137199_12" citation_local_level_id="2" >541 U. S. 977</CITATION>
+
+<RELATION theme="137199_1" includes_docket_string="03-8691" includes_docket="137199_2" theme_string="542 U.S. 916" gram_type="apposition" relation_type="asymmetric" id="137199_11" ></RELATION>
+
+<RELATION standard_case_string="542 U.S. 916" X_vs_Y_string="HARVEY v. GARCIA, WARDEN" standard_case="137199_1" X_vs_Y="137199_3" gram_type="pre_nom" relation_type="equivalence" id="137199_7" ></RELATION>
+
+<RELATION theme="137199_3" includes_docket_string="03-8691" includes_docket="137199_2" theme_string="HARVEY v. GARCIA, WARDEN" gram_type="apposition" relation_type="asymmetric" id="137199_10" ></RELATION>
+
+<RELATION theme="137199_3" party1="137199_4" party1_string="HARVEY" theme_string="HARVEY v. GARCIA, WARDEN" gram_type="infix" relation_type="asymmetric" id="137199_8" ></RELATION>
+
+<RELATION party2="137199_5" theme="137199_3" theme_string="HARVEY v. GARCIA, WARDEN" party2_string="GARCIA, WARDEN" gram_type="infix" relation_type="asymmetric" id="137199_9" ></RELATION>
+

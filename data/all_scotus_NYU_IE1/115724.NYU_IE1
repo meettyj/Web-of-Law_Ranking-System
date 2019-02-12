@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['manufacturinggray#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1019" id1="115720" volume="510" start="0" page_number="1019" standard_reporter="U.S." citation_global_level_id="3972.002" line="1" id="115724_1" citation_local_level_id="0" >510 U.S. 1019</CITATION>
+
+<CITATION party2="Altheimer &amp; Gray" party1="Sioux Manufacturing Corp." citation_global_level_id="3972.003" party2_short="Gray" line="1" id="115724_3" alternative_keys="['u.s._510_1019']" end="63" entry_type="party_key" lookup_key="manufacturinggray#2" id1="115720" start="18" party1_short="Manufacturing" citation_local_level_id="1" >Sioux Manufacturing Corp. v. Altheimer &amp; Gray</CITATION>
+
+<NAME end="43" start="18" party1_of="115724_3" all_names="SIOUX MANUFACTURING CORP" local_name_id="1" id="115724_4" >Sioux Manufacturing Corp.</NAME>
+
+<ORGANIZATION start="18" end="42" id="115724_7" >Sioux Manufacturing Corp</ORGANIZATION>
+
+<NAME end="63" start="47" all_names="ALTHEIMER &amp; GRAY" party2_of="115724_3" local_name_id="2" id="115724_5" >Altheimer &amp; Gray</NAME>
+
+<DOCKET end="79" entry_type="docket" lookup_key="u.s._510_1019" id1="115720" start="73" citation_global_level_id="3972.002" line="1" id="115724_2" citation_local_level_id="0" >93-452</DOCKET>
+
+<DATE start="121" end="137" id="115724_6" >December 6, 1993</DATE>
+
+<NAME start="215" local_name_id="3" end="238" id="115724_14" all_names="MOTION OF GLENN A HALL" >Motion of Glenn A. Hall</NAME>
+
+<NAME start="297" local_name_id="4" end="307" id="115724_15" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="345" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_983_803" id1="Dummy_File_137666" volume="983" start="332" page_number="803" standard_reporter="F.2D" citation_global_level_id="201516.001" line="3" id="115724_13" citation_local_level_id="2" >983 F. 2d 803</CITATION>
+
+<RELATION theme="115724_1" includes_docket_string="93-452" includes_docket="115724_2" theme_string="510 U.S. 1019" gram_type="apposition" relation_type="asymmetric" id="115724_12" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1019" X_vs_Y_string="Sioux Manufacturing Corp. v. Altheimer &amp; Gray" standard_case="115724_1" X_vs_Y="115724_3" gram_type="pre_nom" relation_type="equivalence" id="115724_8" ></RELATION>
+
+<RELATION theme="115724_3" includes_docket_string="93-452" includes_docket="115724_2" theme_string="Sioux Manufacturing Corp. v. Altheimer &amp; Gray" gram_type="apposition" relation_type="asymmetric" id="115724_11" ></RELATION>
+
+<RELATION party2="115724_5" theme="115724_3" theme_string="Sioux Manufacturing Corp. v. Altheimer &amp; Gray" party2_string="Altheimer &amp; Gray" gram_type="infix" relation_type="asymmetric" id="115724_10" ></RELATION>
+
+<RELATION theme="115724_3" party1="115724_4" party1_string="Sioux Manufacturing Corp." theme_string="Sioux Manufacturing Corp. v. Altheimer &amp; Gray" gram_type="infix" relation_type="asymmetric" id="115724_9" ></RELATION>
+

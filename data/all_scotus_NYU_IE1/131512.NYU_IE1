@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['collinsflorida#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_829" id1="131512" volume="540" start="0" page_number="829" standard_reporter="U.S." citation_global_level_id="1812.002" line="1" id="131512_1" citation_local_level_id="0" >540 U.S. 829</CITATION>
+
+<CITATION party2="FLORIDA" party1="COLLINS" citation_global_level_id="1812.001" party2_short="FLORIDA" line="1" id="131512_3" alternative_keys="['u.s._540_829']" end="35" entry_type="party_key" lookup_key="collinsflorida#1" id1="131512" start="17" party1_short="COLLINS" citation_local_level_id="1" >COLLINS v. FLORIDA</CITATION>
+
+<NAME end="24" start="17" party1_of="131512_3" all_names="COLLINS" local_name_id="1" id="131512_4" >COLLINS</NAME>
+
+<NAME end="35" start="28" all_names="FLORIDA" party2_of="131512_3" local_name_id="2" id="131512_5" >FLORIDA</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="u.s._540_829" id1="131512" start="45" citation_global_level_id="1812.002" line="1" id="131512_2" citation_local_level_id="0" >02-10495</DOCKET>
+
+<DATE start="95" end="110" id="131512_6" >October 6, 2003</DATE>
+
+<NAME start="187" local_name_id="3" end="197" id="131512_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="236" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_835_265" id1="Dummy_File_51174" volume="835" start="222" page_number="265" standard_reporter="SO.2D" citation_global_level_id="115024.001" line="3" id="131512_12" citation_local_level_id="2" >835 So. 2d 265</CITATION>
+
+<RELATION theme="131512_1" includes_docket_string="02-10495" includes_docket="131512_2" theme_string="540 U.S. 829" gram_type="apposition" relation_type="asymmetric" id="131512_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 829" X_vs_Y_string="COLLINS v. FLORIDA" standard_case="131512_1" X_vs_Y="131512_3" gram_type="pre_nom" relation_type="equivalence" id="131512_7" ></RELATION>
+
+<RELATION theme="131512_3" includes_docket_string="02-10495" includes_docket="131512_2" theme_string="COLLINS v. FLORIDA" gram_type="apposition" relation_type="asymmetric" id="131512_10" ></RELATION>
+
+<RELATION theme="131512_3" party1="131512_4" party1_string="COLLINS" theme_string="COLLINS v. FLORIDA" gram_type="infix" relation_type="asymmetric" id="131512_8" ></RELATION>
+
+<RELATION party2="131512_5" theme="131512_3" theme_string="COLLINS v. FLORIDA" party2_string="FLORIDA" gram_type="infix" relation_type="asymmetric" id="131512_9" ></RELATION>
+

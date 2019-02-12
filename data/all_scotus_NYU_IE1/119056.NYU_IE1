@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['baillonauthority#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_954" id1="119059" volume="535" start="0" page_number="954" standard_reporter="U.S." citation_global_level_id="5275.002" line="1" id="119056_1" citation_local_level_id="0" >535 U.S. 954</CITATION>
+
+<CITATION party2="PORT AUTHORITY OF THE CITY OF ST. PAUL" party1="BAILLON CO." citation_global_level_id="28234.001" party2_short="AUTHORITY" line="2" id="119056_2" alternative_keys="['u.s._535_954']" end="70" entry_type="party_key" lookup_key="baillonauthority#1" id1="119056" start="17" party1_short="BAILLON" citation_local_level_id="1" >BAILLON CO. v. PORT AUTHORITY OF THE CITY OF ST. PAUL</CITATION>
+
+<NAME end="28" start="17" party1_of="119056_2" all_names="BAILLON CO" local_name_id="1" id="119056_3" >BAILLON CO.</NAME>
+
+<ORGANIZATION start="17" end="27" id="119056_5" >BAILLON CO</ORGANIZATION>
+
+<NAME end="70" start="32" all_names="PORT AUTHORITY OF THE CITY OF ST PAUL" party2_of="119056_2" local_name_id="2" id="119056_4" >PORT AUTHORITY OF THE CITY OF ST. PAUL</NAME>
+
+<DOCKET end="87" entry_type="docket" lookup_key="baillonauthority#1" id1="119056" start="80" citation_global_level_id="28234.001" line="3" id="119056_8" citation_local_level_id="1" >01-1066</DOCKET>
+
+<DATE start="133" citation_global_level_id="28234.001" end="147" id="119056_9" citation_local_level_id="1" >March 25, 2002</DATE>
+
+<NAME start="169" local_name_id="3" end="171" id="119056_13" all_names="CT" >Ct</NAME>
+
+<RELATION theme="119056_2" party1="119056_3" party1_string="BAILLON CO." theme_string="BAILLON CO. v. PORT AUTHORITY OF THE CITY OF ST. PAUL" gram_type="infix" relation_type="asymmetric" id="119056_6" ></RELATION>
+
+<RELATION party2="119056_4" theme="119056_2" theme_string="BAILLON CO. v. PORT AUTHORITY OF THE CITY OF ST. PAUL" party2_string="PORT AUTHORITY OF THE CITY OF ST. PAUL" gram_type="infix" relation_type="asymmetric" id="119056_7" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 954" X_vs_Y_string="BAILLON CO. v. PORT AUTHORITY OF THE CITY OF ST. PAUL" standard_case="119056_1" X_vs_Y="119056_2" gram_type="multi_line" relation_type="equivalence" id="119056_10" ></RELATION>
+
+<RELATION at_date_string="March 25, 2002" theme="119056_2" at_date="119056_9" theme_string="BAILLON CO. v. PORT AUTHORITY OF THE CITY OF ST. PAUL" gram_type="multi_line" relation_type="asymmetric" id="119056_12" ></RELATION>
+
+<RELATION theme="119056_2" includes_docket_string="01-1066" includes_docket="119056_8" theme_string="BAILLON CO. v. PORT AUTHORITY OF THE CITY OF ST. PAUL" gram_type="multi_line" relation_type="asymmetric" id="119056_11" ></RELATION>
+

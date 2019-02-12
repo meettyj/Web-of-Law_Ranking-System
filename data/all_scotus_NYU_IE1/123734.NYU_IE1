@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['kimcalifornia#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_915" id1="123729" volume="537" start="0" page_number="915" standard_reporter="U.S." citation_global_level_id="74.002" line="1" id="123734_1" citation_local_level_id="0" >537 U.S. 915</CITATION>
+
+<CITATION party2="CALIFORNIA" party1="KIM" citation_global_level_id="22810.001" party2_short="CALIFORNIA" line="1" id="123734_3" alternative_keys="['u.s._537_915']" end="34" entry_type="party_key" lookup_key="kimcalifornia#1" id1="123734" start="17" party1_short="KIM" citation_local_level_id="1" >KIM v. CALIFORNIA</CITATION>
+
+<NAME end="20" start="17" party1_of="123734_3" all_names="KIM" local_name_id="1" id="123734_4" >KIM</NAME>
+
+<NAME end="34" start="24" all_names="CALIFORNIA" party2_of="123734_3" local_name_id="2" id="123734_5" >CALIFORNIA</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="u.s._537_915" id1="123729" start="44" citation_global_level_id="74.002" line="1" id="123734_2" citation_local_level_id="0" >02-5432</DOCKET>
+
+<DATE start="93" end="108" id="123734_6" >October 7, 2002</DATE>
+
+<NAME start="239" local_name_id="3" end="241" id="123734_12" all_names="CT" >Ct</NAME>
+
+<RELATION theme="123734_1" includes_docket_string="02-5432" includes_docket="123734_2" theme_string="537 U.S. 915" gram_type="apposition" relation_type="asymmetric" id="123734_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 915" X_vs_Y_string="KIM v. CALIFORNIA" standard_case="123734_1" X_vs_Y="123734_3" gram_type="pre_nom" relation_type="equivalence" id="123734_7" ></RELATION>
+
+<RELATION theme="123734_3" includes_docket_string="02-5432" includes_docket="123734_2" theme_string="KIM v. CALIFORNIA" gram_type="apposition" relation_type="asymmetric" id="123734_10" ></RELATION>
+
+<RELATION theme="123734_3" party1="123734_4" party1_string="KIM" theme_string="KIM v. CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="123734_8" ></RELATION>
+
+<RELATION party2="123734_5" theme="123734_3" theme_string="KIM v. CALIFORNIA" party2_string="CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="123734_9" ></RELATION>
+

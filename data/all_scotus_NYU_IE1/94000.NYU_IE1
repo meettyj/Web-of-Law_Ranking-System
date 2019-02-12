@@ -1,0 +1,48 @@
+<CITATION alternative_keys="['woodfolkseddons#1', 's.ct._14_1216', 'l.ed._31_598']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._154_658" id1="94000" volume="154" start="0" page_number="658" standard_reporter="U.S." citation_global_level_id="57525.002" line="1" id="94000_1" citation_local_level_id="0" >154 U.S. 658</CITATION>
+
+<CITATION alternative_keys="['u.s._154_658', 'woodfolkseddons#1', 'l.ed._31_598']" end="31" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._14_1216" id1="94000" volume="14" start="17" page_number="1216" standard_reporter="S.CT." citation_global_level_id="57525.003" line="1" id="94000_2" citation_local_level_id="1" >14 S. Ct. 1216</CITATION>
+
+<NAME start="20" local_name_id="1" end="25" id="94000_8" all_names="S CT" >S. Ct</NAME>
+
+<CITATION alternative_keys="['u.s._154_658', 's.ct._14_1216', 'woodfolkseddons#1']" end="49" reporter="L. Ed." entry_type="standard_key" lookup_key="l.ed._31_598" id1="94000" volume="31" start="36" page_number="598" standard_reporter="L.ED." citation_global_level_id="57525.004" line="1" id="94000_3" citation_local_level_id="2" >31 L. Ed. 598</CITATION>
+
+<CITATION party2="JAMES A. SEDDONS" party1="WILLIAM WOODFOLK et al." citation_global_level_id="57525.001" party2_short="SEDDONS" line="1" id="94000_4" alternative_keys="['u.s._154_658', 's.ct._14_1216', 'l.ed._31_598']" end="97" entry_type="party_key" lookup_key="woodfolkseddons#1" id1="94000" start="54" party1_short="WOODFOLK" citation_local_level_id="3" >WILLIAM WOODFOLK et al. v. JAMES A. SEDDONS</CITATION>
+
+<NAME end="77" start="54" party1_of="94000_4" all_names="WILLIAM WOODFOLK" local_name_id="2" id="94000_5" >WILLIAM WOODFOLK et al.</NAME>
+
+<NAME end="97" start="81" all_names="JAMES A SEDDONS" party2_of="94000_4" local_name_id="3" id="94000_6" >JAMES A. SEDDONS</NAME>
+
+<DATE start="116" end="129" id="94000_7" >March 2, 1880</DATE>
+
+<NAME start="142" local_name_id="4" end="157" id="94000_9" all_names="T D W YONLEY" >T. D. W. Yonley</NAME>
+
+<LEGAL_ROLE start="163" end="173" plural="True" id="94000_10" >appellants</LEGAL_ROLE>
+
+<NAME start="184" local_name_id="5" end="194" id="94000_16" all_names="H GARLAND" >H. Garland</NAME>
+
+<LEGAL_ROLE start="200" end="208" id="94000_17" party="party2" >appellee</LEGAL_ROLE>
+
+<PROFESSION start="216" document_level_name_id="6" end="233" id="94000_18" party="WAITE" >Mr. Chief Justice</PROFESSION>
+
+<NAME start="234" local_name_id="6" end="239" id="94000_19" all_names="WAITE" >WAITE</NAME>
+
+<ORGANIZATION start="269" end="274" id="94000_20" >court</ORGANIZATION>
+
+<FAMILY start="1163" end="1166" id="94000_22" >son</FAMILY>
+
+<LEGAL_ROLE start="1296" end="1306" plural="True" id="94000_23" >appellants</LEGAL_ROLE>
+
+<NAME start="1506" local_name_id="7" end="1512" id="94000_24" all_names="DECREE" >Decree</NAME>
+
+<RELATION standard_case_string="154 U.S. 658" X_vs_Y_string="WILLIAM WOODFOLK et al. v. JAMES A. SEDDONS" standard_case="94000_1" X_vs_Y="94000_4" gram_type="pre_nom" relation_type="equivalence" id="94000_12" ></RELATION>
+
+<RELATION standard_case_string="14 S. Ct. 1216" X_vs_Y_string="WILLIAM WOODFOLK et al. v. JAMES A. SEDDONS" standard_case="94000_2" X_vs_Y="94000_4" gram_type="pre_nom" relation_type="equivalence" id="94000_13" ></RELATION>
+
+<RELATION standard_case_string="31 L. Ed. 598" X_vs_Y_string="WILLIAM WOODFOLK et al. v. JAMES A. SEDDONS" standard_case="94000_3" X_vs_Y="94000_4" gram_type="pre_nom" relation_type="equivalence" id="94000_11" ></RELATION>
+
+<RELATION theme="94000_4" party1="94000_5" party1_string="WILLIAM WOODFOLK et al." theme_string="WILLIAM WOODFOLK et al. v. JAMES A. SEDDONS" gram_type="infix" relation_type="asymmetric" id="94000_14" ></RELATION>
+
+<RELATION party2="94000_6" theme="94000_4" theme_string="WILLIAM WOODFOLK et al. v. JAMES A. SEDDONS" party2_string="JAMES A. SEDDONS" gram_type="infix" relation_type="asymmetric" id="94000_15" ></RELATION>
+
+<RELATION theme="94000_19" profession_string="Mr. Chief Justice" theme_string="WAITE" profession="94000_18" gram_type="pre_nom" relation_type="asymmetric" id="94000_21" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['andersonarkansas#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_1050" id1="134179" volume="540" start="0" page_number="1050" standard_reporter="U.S." citation_global_level_id="5337.002" line="1" id="134181_1" citation_local_level_id="0" >540 U.S. 1050</CITATION>
+
+<CITATION party2="ARKANSAS" party1="ANDERSON" citation_global_level_id="21209.001" party2_short="ARKANSAS" line="1" id="134181_3" alternative_keys="['u.s._540_1050']" end="38" entry_type="party_key" lookup_key="andersonarkansas#1" id1="134181" start="18" party1_short="ANDERSON" citation_local_level_id="1" >ANDERSON v. ARKANSAS</CITATION>
+
+<NAME end="26" start="18" party1_of="134181_3" all_names="ANDERSON" local_name_id="1" id="134181_4" >ANDERSON</NAME>
+
+<NAME end="38" start="30" all_names="ARKANSAS" party2_of="134181_3" local_name_id="2" id="134181_5" >ARKANSAS</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="u.s._540_1050" id1="134179" start="48" citation_global_level_id="5337.002" line="1" id="134181_2" citation_local_level_id="0" >03-508</DOCKET>
+
+<DATE start="96" end="112" id="134181_6" >December 1, 2003</DATE>
+
+<NAME start="189" local_name_id="3" end="199" id="134181_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="254" reporter="S. W. 3d" entry_type="standard_key" no_current_file="True" lookup_key="s.w.3d_108_592" id1="Dummy_File_91251" volume="108" start="238" page_number="592" standard_reporter="S.W.3D" citation_global_level_id="155101.001" line="3" id="134181_12" citation_local_level_id="2" >108 S. W. 3d 592</CITATION>
+
+<RELATION theme="134181_1" includes_docket_string="03-508" includes_docket="134181_2" theme_string="540 U.S. 1050" gram_type="apposition" relation_type="asymmetric" id="134181_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 1050" X_vs_Y_string="ANDERSON v. ARKANSAS" standard_case="134181_1" X_vs_Y="134181_3" gram_type="pre_nom" relation_type="equivalence" id="134181_7" ></RELATION>
+
+<RELATION theme="134181_3" includes_docket_string="03-508" includes_docket="134181_2" theme_string="ANDERSON v. ARKANSAS" gram_type="apposition" relation_type="asymmetric" id="134181_10" ></RELATION>
+
+<RELATION theme="134181_3" party1="134181_4" party1_string="ANDERSON" theme_string="ANDERSON v. ARKANSAS" gram_type="infix" relation_type="asymmetric" id="134181_8" ></RELATION>
+
+<RELATION party2="134181_5" theme="134181_3" theme_string="ANDERSON v. ARKANSAS" party2_string="ARKANSAS" gram_type="infix" relation_type="asymmetric" id="134181_9" ></RELATION>
+

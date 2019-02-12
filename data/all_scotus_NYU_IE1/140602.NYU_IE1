@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['mattmillerminnesota#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1021" id1="140606" volume="543" start="0" page_number="1021" standard_reporter="U.S." citation_global_level_id="1852.002" line="1" id="140602_1" citation_local_level_id="0" >543 U.S. 1021</CITATION>
+
+<CITATION party2="MINNESOTA" party1="MATTMILLER" citation_global_level_id="18478.001" party2_short="MINNESOTA" line="2" id="140602_2" alternative_keys="['u.s._543_1021']" end="41" entry_type="party_key" lookup_key="mattmillerminnesota#1" id1="140602" start="18" party1_short="MATTMILLER" citation_local_level_id="1" >MATTMILLER v. MINNESOTA</CITATION>
+
+<NAME end="28" start="18" party1_of="140602_2" all_names="MATTMILLER" local_name_id="1" id="140602_3" >MATTMILLER</NAME>
+
+<NAME end="41" start="32" all_names="MINNESOTA" party2_of="140602_2" local_name_id="2" id="140602_4" >MINNESOTA</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="mattmillerminnesota#1" id1="140602" start="51" citation_global_level_id="18478.001" line="3" id="140602_7" citation_local_level_id="1" >04-459</DOCKET>
+
+<ORGANIZATION start="63" end="93" id="140602_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="99" citation_global_level_id="18478.001" end="115" id="140602_9" citation_local_level_id="1" >December 6, 2004</DATE>
+
+<NAME start="137" local_name_id="3" end="139" id="140602_13" all_names="CT" >Ct</NAME>
+
+<RELATION theme="140602_2" party1="140602_3" party1_string="MATTMILLER" theme_string="MATTMILLER v. MINNESOTA" gram_type="infix" relation_type="asymmetric" id="140602_5" ></RELATION>
+
+<RELATION party2="140602_4" theme="140602_2" theme_string="MATTMILLER v. MINNESOTA" party2_string="MINNESOTA" gram_type="infix" relation_type="asymmetric" id="140602_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1021" X_vs_Y_string="MATTMILLER v. MINNESOTA" standard_case="140602_1" X_vs_Y="140602_2" gram_type="multi_line" relation_type="equivalence" id="140602_10" ></RELATION>
+
+<RELATION at_date_string="December 6, 2004" theme="140602_2" at_date="140602_9" theme_string="MATTMILLER v. MINNESOTA" gram_type="multi_line" relation_type="asymmetric" id="140602_12" ></RELATION>
+
+<RELATION theme="140602_2" includes_docket_string="04-459" includes_docket="140602_7" theme_string="MATTMILLER v. MINNESOTA" gram_type="multi_line" relation_type="asymmetric" id="140602_11" ></RELATION>
+

@@ -1,0 +1,46 @@
+<CITATION alternative_keys="['reyesstates#9']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_916" id1="132669" volume="540" start="0" page_number="916" standard_reporter="U.S." citation_global_level_id="8196.002" line="1" id="132668_1" citation_local_level_id="0" >540 U.S. 916</CITATION>
+
+<CITATION party2="UNITED STATES" party1="ANDRADE-REYES" citation_global_level_id="34900.001" party2_short="STATES" line="1" id="132668_3" alternative_keys="['u.s._540_916']" end="47" entry_type="party_key" lookup_key="reyesstates#9" id1="118746" start="17" party1_short="REYES" citation_local_level_id="1" >ANDRADE-REYES v. UNITED STATES</CITATION>
+
+<NAME end="30" start="17" party1_of="132668_3" all_names="ANDRADE-REYES" local_name_id="1" id="132668_6" >ANDRADE-REYES</NAME>
+
+<NAME end="47" start="34" all_names="UNITED STATES" party2_of="132668_3" local_name_id="2" id="132668_7" >UNITED STATES</NAME>
+
+<CITATION party2="UNITED STATES" party1="GALVAN-DUARTE" citation_global_level_id="59669.001" party2_short="STATES" line="1" id="132668_4" end="79" entry_type="party_key" lookup_key="duartestates#3" id1="131904" start="49" party1_short="DUARTE" citation_local_level_id="2" >GALVAN-DUARTE v. UNITED STATES</CITATION>
+
+<NAME end="62" start="49" party1_of="132668_4" all_names="GALVAN-DUARTE" local_name_id="3" id="132668_8" >GALVAN-DUARTE</NAME>
+
+<NAME end="79" start="66" all_names="UNITED STATES" party2_of="132668_4" local_name_id="2" id="132668_9" >UNITED STATES</NAME>
+
+<CITATION party2="UNITED STATES" party1="BENAVIDEZ-DIAZ, AKA RAMIREZ-MARTINEZ" citation_global_level_id="16531.001" party2_short="STATES" line="1" id="132668_5" end="134" entry_type="party_key" lookup_key="diazstates#9" id1="97561" start="81" party1_short="DIAZ" citation_local_level_id="3" >BENAVIDEZ-DIAZ, AKA RAMIREZ-MARTINEZ v. UNITED STATES</CITATION>
+
+<NAME end="117" start="81" party1_of="132668_5" all_names="BENAVIDEZ-DIAZ AKA RAMIREZ-MARTINEZ" local_name_id="4" id="132668_10" >BENAVIDEZ-DIAZ, AKA RAMIREZ-MARTINEZ</NAME>
+
+<NAME end="134" start="121" all_names="UNITED STATES" party2_of="132668_5" local_name_id="2" id="132668_11" >UNITED STATES</NAME>
+
+<DOCKET end="151" entry_type="docket" lookup_key="reyesstates#9" id1="118746" start="144" citation_global_level_id="34900.001" line="1" id="132668_2" citation_local_level_id="1" >03-5553</DOCKET>
+
+<DATE start="193" end="208" id="132668_12" >October 6, 2003</DATE>
+
+<NAME start="286" local_name_id="5" end="296" id="132668_23" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION standard_case_string="540 U.S. 916" X_vs_Y_string="ANDRADE-REYES v. UNITED STATES" standard_case="132668_1" X_vs_Y="132668_3" gram_type="pre_nom" relation_type="equivalence" id="132668_13" ></RELATION>
+
+<RELATION theme="132668_3" includes_docket_string="03-5553" includes_docket="132668_2" theme_string="ANDRADE-REYES v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="132668_21" ></RELATION>
+
+<RELATION theme="132668_3" party1="132668_6" party1_string="ANDRADE-REYES" theme_string="ANDRADE-REYES v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="132668_14" ></RELATION>
+
+<RELATION party2="132668_7" theme="132668_3" theme_string="ANDRADE-REYES v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="132668_15" ></RELATION>
+
+<RELATION theme="132668_4" includes_docket_string="03-5553" includes_docket="132668_2" theme_string="GALVAN-DUARTE v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="132668_22" ></RELATION>
+
+<RELATION theme="132668_4" party1="132668_8" party1_string="GALVAN-DUARTE" theme_string="GALVAN-DUARTE v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="132668_16" ></RELATION>
+
+<RELATION party2="132668_9" theme="132668_4" theme_string="GALVAN-DUARTE v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="132668_17" ></RELATION>
+
+<RELATION theme="132668_5" includes_docket_string="03-5553" includes_docket="132668_2" theme_string="BENAVIDEZ-DIAZ, AKA RAMIREZ-MARTINEZ v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="132668_20" ></RELATION>
+
+<RELATION theme="132668_5" party1="132668_10" party1_string="BENAVIDEZ-DIAZ, AKA RAMIREZ-MARTINEZ" theme_string="BENAVIDEZ-DIAZ, AKA RAMIREZ-MARTINEZ v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="132668_18" ></RELATION>
+
+<RELATION party2="132668_11" theme="132668_5" theme_string="BENAVIDEZ-DIAZ, AKA RAMIREZ-MARTINEZ v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="132668_19" ></RELATION>
+

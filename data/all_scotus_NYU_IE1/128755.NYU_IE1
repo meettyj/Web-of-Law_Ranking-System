@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['mosescarolina#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_966" id1="128750" volume="538" start="0" page_number="966" standard_reporter="U.S." citation_global_level_id="8648.002" line="1" id="128755_1" citation_local_level_id="0" >538 U.S. 966</CITATION>
+
+<CITATION party2="NORTH CAROLINA" party1="MOSES" citation_global_level_id="47606.001" party2_short="CAROLINA" line="1" id="128755_3" alternative_keys="['u.s._538_966']" end="40" entry_type="party_key" lookup_key="mosescarolina#1" id1="128755" start="17" party1_short="MOSES" citation_local_level_id="1" >MOSES v. NORTH CAROLINA</CITATION>
+
+<NAME end="22" start="17" party1_of="128755_3" all_names="MOSES" local_name_id="1" id="128755_4" >MOSES</NAME>
+
+<NAME end="40" start="26" all_names="NORTH CAROLINA" party2_of="128755_3" local_name_id="2" id="128755_5" >NORTH CAROLINA</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._538_966" id1="128750" start="50" citation_global_level_id="8648.002" line="1" id="128755_2" citation_local_level_id="0" >02-9163</DOCKET>
+
+<DATE start="99" end="112" id="128755_6" >April 7, 2003</DATE>
+
+<PROFESSION start="260" end="263" id="128755_12" >Gen</PROFESSION>
+
+<NAME start="265" local_name_id="3" end="267" id="128755_13" all_names="CT" >Ct</NAME>
+
+<PROFESSION start="269" document_level_name_id="3" end="283" id="128755_14" party="CT" >Justice, Super</PROFESSION>
+
+<NAME start="285" local_name_id="3" end="287" id="128755_15" all_names="CT" >Ct</NAME>
+
+<RELATION theme="128755_1" includes_docket_string="02-9163" includes_docket="128755_2" theme_string="538 U.S. 966" gram_type="apposition" relation_type="asymmetric" id="128755_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 966" X_vs_Y_string="MOSES v. NORTH CAROLINA" standard_case="128755_1" X_vs_Y="128755_3" gram_type="pre_nom" relation_type="equivalence" id="128755_7" ></RELATION>
+
+<RELATION theme="128755_3" includes_docket_string="02-9163" includes_docket="128755_2" theme_string="MOSES v. NORTH CAROLINA" gram_type="apposition" relation_type="asymmetric" id="128755_10" ></RELATION>
+
+<RELATION theme="128755_3" party1="128755_4" party1_string="MOSES" theme_string="MOSES v. NORTH CAROLINA" gram_type="infix" relation_type="asymmetric" id="128755_8" ></RELATION>
+
+<RELATION party2="128755_5" theme="128755_3" theme_string="MOSES v. NORTH CAROLINA" party2_string="NORTH CAROLINA" gram_type="infix" relation_type="asymmetric" id="128755_9" ></RELATION>
+
+<RELATION theme="128755_13" profession_string="Justice, Super" theme_string="Ct" profession="128755_14" gram_type="apposition" relation_type="asymmetric" id="128755_16" ></RELATION>
+

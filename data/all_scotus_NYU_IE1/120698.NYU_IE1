@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['brunetlappin#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1086" id1="120708" volume="535" start="0" page_number="1086" standard_reporter="U.S." citation_global_level_id="3737.002" line="1" id="120698_1" citation_local_level_id="0" >535 U.S. 1086</CITATION>
+
+<CITATION party2="LAPPIN, WARDEN" party1="DELGADO-BRUNET" citation_global_level_id="3737.005" party2_short="LAPPIN" line="2" id="120698_2" alternative_keys="['u.s._535_1086']" end="50" entry_type="party_key" lookup_key="brunetlappin#1" id1="120708" start="18" party1_short="BRUNET" citation_local_level_id="1" >DELGADO-BRUNET v. LAPPIN, WARDEN</CITATION>
+
+<NAME end="32" start="18" party1_of="120698_2" all_names="DELGADO-BRUNET" local_name_id="1" id="120698_3" >DELGADO-BRUNET</NAME>
+
+<NAME end="50" start="36" all_names="LAPPIN WARDEN" party2_of="120698_2" local_name_id="2" id="120698_4" >LAPPIN, WARDEN</NAME>
+
+<DOCKET alternative_keys="['u.s._535_1086']" end="67" entry_type="docket" lookup_key="brunetlappin#1" id1="120708" start="60" citation_global_level_id="3737.005" line="3" id="120698_7" citation_local_level_id="1" >01-9477</DOCKET>
+
+<DATE start="113" citation_global_level_id="3737.005" end="125" id="120698_8" citation_local_level_id="1" >May 20, 2002</DATE>
+
+<NAME start="157" local_name_id="3" end="160" id="120698_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="120698_2" party1="120698_3" party1_string="DELGADO-BRUNET" theme_string="DELGADO-BRUNET v. LAPPIN, WARDEN" gram_type="infix" relation_type="asymmetric" id="120698_5" ></RELATION>
+
+<RELATION party2="120698_4" theme="120698_2" theme_string="DELGADO-BRUNET v. LAPPIN, WARDEN" party2_string="LAPPIN, WARDEN" gram_type="infix" relation_type="asymmetric" id="120698_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1086" X_vs_Y_string="DELGADO-BRUNET v. LAPPIN, WARDEN" standard_case="120698_1" X_vs_Y="120698_2" gram_type="multi_line" relation_type="equivalence" id="120698_9" ></RELATION>
+
+<RELATION at_date_string="May 20, 2002" theme="120698_2" at_date="120698_8" theme_string="DELGADO-BRUNET v. LAPPIN, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="120698_11" ></RELATION>
+
+<RELATION theme="120698_2" includes_docket_string="01-9477" includes_docket="120698_7" theme_string="DELGADO-BRUNET v. LAPPIN, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="120698_10" ></RELATION>
+

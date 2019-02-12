@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['beesonclerk#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_994" id1="135731" volume="541" start="0" page_number="994" standard_reporter="U.S." citation_global_level_id="730.002" line="1" id="135734_1" citation_local_level_id="0" >541 U.S. 994</CITATION>
+
+<CITATION party2="ADA COUNTY CLERK ET AL" party1="BEESON" citation_global_level_id="60404.001" party2_short="CLERK" line="2" id="135734_2" alternative_keys="['u.s._541_994']" end="49" entry_type="party_key" lookup_key="beesonclerk#1" id1="135734" start="17" party1_short="BEESON" citation_local_level_id="1" >BEESON v. ADA COUNTY CLERK ET AL</CITATION>
+
+<NAME end="23" start="17" party1_of="135734_2" all_names="BEESON" local_name_id="1" id="135734_3" >BEESON</NAME>
+
+<NAME end="49" start="27" all_names="ADA COUNTY CLERK" party2_of="135734_2" local_name_id="2" id="135734_4" >ADA COUNTY CLERK ET AL</NAME>
+
+<DOCKET end="66" entry_type="docket" lookup_key="beesonclerk#1" id1="135734" start="59" citation_global_level_id="60404.001" line="3" id="135734_7" citation_local_level_id="1" >03-8877</DOCKET>
+
+<ORGANIZATION start="72" end="102" id="135734_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="108" citation_global_level_id="60404.001" end="122" id="135734_9" citation_local_level_id="1" >April 19, 2004</DATE>
+
+<NAME start="154" local_name_id="3" end="157" id="135734_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="135734_2" party1="135734_3" party1_string="BEESON" theme_string="BEESON v. ADA COUNTY CLERK ET AL" gram_type="infix" relation_type="asymmetric" id="135734_5" ></RELATION>
+
+<RELATION party2="135734_4" theme="135734_2" theme_string="BEESON v. ADA COUNTY CLERK ET AL" party2_string="ADA COUNTY CLERK ET AL" gram_type="infix" relation_type="asymmetric" id="135734_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 994" X_vs_Y_string="BEESON v. ADA COUNTY CLERK ET AL" standard_case="135734_1" X_vs_Y="135734_2" gram_type="multi_line" relation_type="equivalence" id="135734_10" ></RELATION>
+
+<RELATION at_date_string="April 19, 2004" theme="135734_2" at_date="135734_9" theme_string="BEESON v. ADA COUNTY CLERK ET AL" gram_type="multi_line" relation_type="asymmetric" id="135734_12" ></RELATION>
+
+<RELATION theme="135734_2" includes_docket_string="03-8877" includes_docket="135734_7" theme_string="BEESON v. ADA COUNTY CLERK ET AL" gram_type="multi_line" relation_type="asymmetric" id="135734_11" ></RELATION>
+

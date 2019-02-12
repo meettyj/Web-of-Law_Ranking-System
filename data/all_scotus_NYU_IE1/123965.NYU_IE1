@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['robinsonflorida#3']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_931" id1="123964" volume="537" start="0" page_number="931" standard_reporter="U.S." citation_global_level_id="2688.002" line="1" id="123965_1" citation_local_level_id="0" >537 U.S. 931</CITATION>
+
+<CITATION party2="FLORIDA" party1="ROBINSON" citation_global_level_id="14300.001" party2_short="FLORIDA" line="1" id="123965_3" alternative_keys="['u.s._537_931']" end="36" entry_type="party_key" lookup_key="robinsonflorida#3" id1="117345" start="17" party1_short="ROBINSON" citation_local_level_id="1" >ROBINSON v. FLORIDA</CITATION>
+
+<NAME end="25" start="17" party1_of="123965_3" all_names="ROBINSON" local_name_id="1" id="123965_4" >ROBINSON</NAME>
+
+<NAME end="36" start="29" all_names="FLORIDA" party2_of="123965_3" local_name_id="2" id="123965_5" >FLORIDA</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="u.s._537_931" id1="123964" start="46" citation_global_level_id="2688.002" line="1" id="123965_2" citation_local_level_id="0" >02-5777</DOCKET>
+
+<DATE start="95" end="110" id="123965_6" >October 7, 2002</DATE>
+
+<NAME start="236" local_name_id="3" end="240" id="123965_13" all_names="DIST" >Dist</NAME>
+
+<CITATION end="314" reporter="So.2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_816_623" id1="Dummy_File_231356" volume="816" start="301" page_number="623" standard_reporter="SO.2D" citation_global_level_id="295206.001" line="3" id="123965_12" citation_local_level_id="2" >816 So.2d 623</CITATION>
+
+<RELATION theme="123965_1" includes_docket_string="02-5777" includes_docket="123965_2" theme_string="537 U.S. 931" gram_type="apposition" relation_type="asymmetric" id="123965_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 931" X_vs_Y_string="ROBINSON v. FLORIDA" standard_case="123965_1" X_vs_Y="123965_3" gram_type="pre_nom" relation_type="equivalence" id="123965_7" ></RELATION>
+
+<RELATION theme="123965_3" includes_docket_string="02-5777" includes_docket="123965_2" theme_string="ROBINSON v. FLORIDA" gram_type="apposition" relation_type="asymmetric" id="123965_10" ></RELATION>
+
+<RELATION theme="123965_3" party1="123965_4" party1_string="ROBINSON" theme_string="ROBINSON v. FLORIDA" gram_type="infix" relation_type="asymmetric" id="123965_8" ></RELATION>
+
+<RELATION party2="123965_5" theme="123965_3" theme_string="ROBINSON v. FLORIDA" party2_string="FLORIDA" gram_type="infix" relation_type="asymmetric" id="123965_9" ></RELATION>
+

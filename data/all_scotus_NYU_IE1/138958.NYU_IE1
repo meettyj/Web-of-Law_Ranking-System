@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['powellvirginia#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_892" id1="138945" volume="543" start="0" page_number="892" standard_reporter="U.S." citation_global_level_id="2190.002" line="1" id="138958_1" citation_local_level_id="0" >543 U.S. 892</CITATION>
+
+<CITATION party2="VIRGINIA" party1="POWELL" citation_global_level_id="49201.001" party2_short="VIRGINIA" line="2" id="138958_3" alternative_keys="['u.s._543_892']" end="35" entry_type="party_key" lookup_key="powellvirginia#1" id1="138958" start="17" party1_short="POWELL" citation_local_level_id="1" >POWELL v. VIRGINIA</CITATION>
+
+<NAME end="23" start="17" party1_of="138958_3" all_names="POWELL" local_name_id="1" id="138958_4" >POWELL</NAME>
+
+<NAME end="35" start="27" all_names="VIRGINIA" party2_of="138958_3" local_name_id="2" id="138958_5" >VIRGINIA</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="powellvirginia#1" id1="138958" start="45" citation_global_level_id="49201.001" line="2" id="138958_2" citation_local_level_id="1" >04-5312</DOCKET>
+
+<ORGANIZATION start="58" end="88" id="138958_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="94" citation_global_level_id="49201.001" end="109" id="138958_10" citation_local_level_id="1" >October 4, 2004</DATE>
+
+<NAME start="131" local_name_id="3" end="134" id="138958_15" all_names="SUP" >Sup</NAME>
+
+<CITATION end="190" reporter="Va." entry_type="standard_key" no_current_file="True" lookup_key="va._267_107" id1="Dummy_File_238569" volume="267" start="179" page_number="107" standard_reporter="VA." citation_global_level_id="302419.001" line="7" id="138958_13" citation_local_level_id="2" >267 Va. 107</CITATION>
+
+<CITATION end="208" reporter="S. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="s.e.2d_590_537" id1="Dummy_File_238570" volume="590" start="192" page_number="537" standard_reporter="S.E.2D" citation_global_level_id="302420.001" line="7" id="138958_14" citation_local_level_id="3" >590 S. E. 2d 537</CITATION>
+
+<RELATION theme="138958_3" includes_docket_string="04-5312" includes_docket="138958_2" theme_string="POWELL v. VIRGINIA" gram_type="apposition" relation_type="asymmetric" id="138958_8" ></RELATION>
+
+<RELATION theme="138958_3" party1="138958_4" party1_string="POWELL" theme_string="POWELL v. VIRGINIA" gram_type="infix" relation_type="asymmetric" id="138958_6" ></RELATION>
+
+<RELATION party2="138958_5" theme="138958_3" theme_string="POWELL v. VIRGINIA" party2_string="VIRGINIA" gram_type="infix" relation_type="asymmetric" id="138958_7" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 892" X_vs_Y_string="POWELL v. VIRGINIA" standard_case="138958_1" X_vs_Y="138958_3" gram_type="multi_line" relation_type="equivalence" id="138958_11" ></RELATION>
+
+<RELATION at_date_string="October 4, 2004" theme="138958_3" at_date="138958_10" theme_string="POWELL v. VIRGINIA" gram_type="multi_line" relation_type="asymmetric" id="138958_12" ></RELATION>
+

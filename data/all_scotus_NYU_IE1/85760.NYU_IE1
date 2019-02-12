@@ -1,0 +1,54 @@
+<CITATION alternative_keys="['bankgreen#1']" end="18" reporter="U.S." entry_type="standard_key" lookup_key="u.s._31_26" id1="85760" volume="31" start="1" page_number="26" standard_reporter="U.S." citation_global_level_id="28689.002" line="2" id="85760_1" citation_local_level_id="0" >31 U.S. 26 (____)</CITATION>
+
+<NAME start="21" local_name_id="1" end="24" id="85760_2" all_names="PET" >Pet</NAME>
+
+<CITATION end="24" line="3" id="85760_3" alternative_keys="['u.s._32_453', 'ex parte martha bradstreet#1', 'u.s._33_588', 'ex parte tobias watkins#2', 'u.s._28_193', 'in the matter of duncan n hennen#1', 'u.s._38_230', 'ex parte myra clarke whitney#1', 'u.s._38_404', 'u.s._38_225', 'ex parte benjamin story#1', 'u.s._37_339', 'the state of rhode island#1', 'the state of massachusetts ads#1', 'u.s._37_755', 'ex parte george adshead#1', 'ex parte joseph roberts and#1', 'u.s._31_216', 'u.s._31_143', 'u.s._31_774', 'u.s._26_264', 'the port of new york#1', 'ex parte jesse hoyt collector of#1', 'u.s._38_279', 'u.s._27_566', 'u.s._34_711', 'ex parte anderson crenshaw#1', 'u.s._40_119', 'ex parte john l tillinghast esquire#1', 'u.s._29_108', 'u.s._39_540', 'in the matter of martha bradstreet demandant#1', 'u.s._32_634', 'ex parte nathaniel crane and samuel#1', 'jacksonkelly#1', 'u.s._30_190', 'u.s._33_306', 'u.s._33_291', 'ex parte john a davenport#1', 'u.s._31_661', 'u.s._32_568']" citation_global_level_id="3762.003" name="Pet" no_current_file="True" entry_type="case_key" lookup_key="pet#1" id1="85842" start="21" citation_local_level_id="1" >Pet</CITATION>
+
+<CITATION party2="WILLIAM GREEN AND OTHERS" alternative_keys="['u.s._31_26']" party1="BANK OF THE UNITED STATES," end="107" party1_short="BANK" entry_type="party_key" party1_role="plaintiff" lookup_key="bankgreen#1" id="85760_7" start="29" citation_global_level_id="28689.001" party2_short="GREEN" line="6" id1="85760" party2_role="defendants" citation_local_level_id="2" >BANK OF THE UNITED STATES, PLAINTIFF v. WILLIAM GREEN AND OTHERS, DEFENDANTS</CITATION>
+
+<NAME end="55" start="29" party1_of="85760_7" all_names="BANK OF THE UNITED STATES" local_name_id="2" id="85760_8" >BANK OF THE UNITED STATES,</NAME>
+
+<ORGANIZATION start="29" end="54" id="85760_12" >BANK OF THE UNITED STATES</ORGANIZATION>
+
+<LEGAL_ROLE start="56" end="65" id="85760_10" >PLAINTIFF</LEGAL_ROLE>
+
+<NAME end="95" start="71" all_names="WILLIAM GREEN AND OTHERS" party2_of="85760_7" local_name_id="3" id="85760_9" >WILLIAM GREEN AND OTHERS</NAME>
+
+<LEGAL_ROLE start="97" end="107" id="85760_11" >DEFENDANTS</LEGAL_ROLE>
+
+<ORGANIZATION start="109" end="139" id="85760_15" >Supreme Court of United States</ORGANIZATION>
+
+<PROFESSION start="169" end="197" id="85760_18" >Mr Doddridge for the marshal</PROFESSION>
+
+<NAME start="217" local_name_id="4" end="221" id="85760_19" all_names="OHIO" >Ohio</NAME>
+
+<LEGAL_ROLE start="230" end="256" id="85760_20" >Mr Ewing for the defendant</LEGAL_ROLE>
+
+<PROFESSION start="258" document_level_name_id="5" end="274" id="85760_21" party="MARSHALL" >Mr Chief Justice</PROFESSION>
+
+<NAME start="275" local_name_id="5" end="283" id="85760_22" all_names="MARSHALL" >MARSHALL</NAME>
+
+<ORGANIZATION start="313" end="318" id="85760_23" >court</ORGANIZATION>
+
+<ORGANIZATION start="374" end="379" id="85760_26" >court</ORGANIZATION>
+
+<ORGANIZATION start="385" end="393" id="85760_27" >division</ORGANIZATION>
+
+<PROFESSION start="540" end="547" id="85760_28" >marshal</PROFESSION>
+
+<ORGANIZATION start="589" end="594" id="85760_29" >court</ORGANIZATION>
+
+<ORGANIZATION start="633" end="653" id="85760_30" >marshal and the bank</ORGANIZATION>
+
+<DATE start="750" end="754" id="85760_25" >1802</DATE>
+
+<RELATION theme="85760_7" party1="85760_8" party1_string="BANK OF THE UNITED STATES," theme_string="BANK OF THE UNITED STATES, PLAINTIFF  v.  WILLIAM GREEN AND OTHERS, DEFENDANTS" gram_type="infix" relation_type="asymmetric" id="85760_13" ></RELATION>
+
+<RELATION party2="85760_9" theme="85760_7" theme_string="BANK OF THE UNITED STATES, PLAINTIFF  v.  WILLIAM GREEN AND OTHERS, DEFENDANTS" party2_string="WILLIAM GREEN AND OTHERS" gram_type="infix" relation_type="asymmetric" id="85760_14" ></RELATION>
+
+<RELATION standard_case_string="31 U.S. 26 (____)" X_vs_Y_string="BANK OF THE UNITED STATES, PLAINTIFF  v.  WILLIAM GREEN AND OTHERS, DEFENDANTS" standard_case="85760_1" X_vs_Y="85760_7" gram_type="multi_line" relation_type="equivalence" id="85760_17" ></RELATION>
+
+<RELATION case_citation_other="85760_3" id="85760_16" X_vs_Y_string="BANK OF THE UNITED STATES, PLAINTIFF  v.  WILLIAM GREEN AND OTHERS, DEFENDANTS" X_vs_Y="85760_7" gram_type="multi_line" relation_type="equivalence" case_citation_other_string="Pet" ></RELATION>
+
+<RELATION theme="85760_22" profession_string="Mr Chief Justice" theme_string="MARSHALL" profession="85760_21" gram_type="pre_nom" relation_type="asymmetric" id="85760_24" ></RELATION>
+

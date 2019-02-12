@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['harrisyork#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_907" id1="123623" volume="537" start="0" page_number="907" standard_reporter="U.S." citation_global_level_id="4439.002" line="1" id="123625_1" citation_local_level_id="0" >537 U.S. 907</CITATION>
+
+<CITATION party2="NEW YORK" party1="HARRIS" citation_global_level_id="45685.001" party2_short="YORK" line="1" id="123625_3" alternative_keys="['u.s._537_907']" end="35" entry_type="party_key" lookup_key="harrisyork#2" id1="108272" start="17" party1_short="HARRIS" citation_local_level_id="1" >HARRIS v. NEW YORK</CITATION>
+
+<NAME end="23" start="17" party1_of="123625_3" all_names="HARRIS" local_name_id="1" id="123625_4" >HARRIS</NAME>
+
+<NAME end="35" start="27" all_names="NEW YORK" party2_of="123625_3" local_name_id="2" id="123625_5" >NEW YORK</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="u.s._537_907" id1="123623" start="45" citation_global_level_id="4439.002" line="1" id="123625_2" citation_local_level_id="0" >02-5310</DOCKET>
+
+<DATE start="94" end="109" id="123625_6" >October 7, 2002</DATE>
+
+<NAME start="248" local_name_id="3" end="251" id="123625_12" all_names="APP" >App</NAME>
+
+<RELATION theme="123625_1" includes_docket_string="02-5310" includes_docket="123625_2" theme_string="537 U.S. 907" gram_type="apposition" relation_type="asymmetric" id="123625_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 907" X_vs_Y_string="HARRIS v. NEW YORK" standard_case="123625_1" X_vs_Y="123625_3" gram_type="pre_nom" relation_type="equivalence" id="123625_7" ></RELATION>
+
+<RELATION theme="123625_3" includes_docket_string="02-5310" includes_docket="123625_2" theme_string="HARRIS v. NEW YORK" gram_type="apposition" relation_type="asymmetric" id="123625_10" ></RELATION>
+
+<RELATION theme="123625_3" party1="123625_4" party1_string="HARRIS" theme_string="HARRIS v. NEW YORK" gram_type="infix" relation_type="asymmetric" id="123625_8" ></RELATION>
+
+<RELATION party2="123625_5" theme="123625_3" theme_string="HARRIS v. NEW YORK" party2_string="NEW YORK" gram_type="infix" relation_type="asymmetric" id="123625_9" ></RELATION>
+

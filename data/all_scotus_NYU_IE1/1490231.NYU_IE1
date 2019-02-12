@@ -1,0 +1,50 @@
+<CITATION alternative_keys="['excavatingstates#1']" end="20" reporter="U.S." entry_type="standard_key" lookup_key="u.s._548_901" id1="1491517" volume="548" start="1" page_number="901" year="2006" standard_reporter="U.S." citation_global_level_id="7244.002" line="2" id="1490231_1" citation_local_level_id="0" >548 U.S. 901 (2006)</CITATION>
+
+<DATE start="15" citation_global_level_id="7244.002" end="19" id="1490231_2" citation_local_level_id="0" >2006</DATE>
+
+<CITATION party2="UNITED STATES" party1="GERKE EXCAVATING, INC." citation_global_level_id="22364.001" party2_short="STATES" line="5" id="1490231_5" alternative_keys="['u.s._548_901']" end="62" entry_type="party_key" lookup_key="excavatingstates#1" id1="1490231" start="21" party1_short="EXCAVATING" citation_local_level_id="1" >GERKE EXCAVATING, INC. v. UNITED STATES</CITATION>
+
+<NAME end="43" start="21" party1_of="1490231_5" all_names="GERKE EXCAVATING INC" local_name_id="1" id="1490231_6" >GERKE EXCAVATING, INC.</NAME>
+
+<ORGANIZATION start="21" end="42" id="1490231_8" >GERKE EXCAVATING, INC</ORGANIZATION>
+
+<NAME end="62" start="49" all_names="UNITED STATES" party2_of="1490231_5" local_name_id="2" id="1490231_7" >UNITED STATES</NAME>
+
+<DOCKET end="74" entry_type="docket" lookup_key="excavatingstates#1" id1="1490231" start="68" citation_global_level_id="22364.001" line="6" id="1490231_11" citation_local_level_id="1" >05-623</DOCKET>
+
+<ORGANIZATION start="76" end="106" id="1490231_12" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="108" citation_global_level_id="22364.001" end="121" id="1490231_13" citation_local_level_id="1" >June 26, 2006</DATE>
+
+<NAME start="122" local_name_id="3" end="132" id="1490231_19" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION party2="United States" party1="Rapanos" citation_global_level_id="49696.001" party2_short="States" line="9" id="1490231_15" alternative_keys="['u.s._547_715']" end="240" entry_type="party_key" lookup_key="rapanosstates#3" id1="136637" start="216" party1_short="Rapanos" citation_local_level_id="2" >Rapanos v. United States</CITATION>
+
+<NAME end="223" start="216" party1_of="1490231_15" all_names="RAPANOS" local_name_id="4" id="1490231_16" >Rapanos</NAME>
+
+<NAME end="240" start="227" all_names="UNITED STATES" party2_of="1490231_15" local_name_id="2" id="1490231_17" >United States</NAME>
+
+<CITATION alternative_keys="['rapanosstates#3']" end="261" reporter="U.S." entry_type="standard_key" lookup_key="u.s._547_715" id1="145642" volume="547" start="242" page_number="715" year="2006" standard_reporter="U.S." citation_global_level_id="42058.002" line="9" id="1490231_14" citation_local_level_id="3" >547 U.S. 715 (2006)</CITATION>
+
+<DATE start="256" citation_global_level_id="42058.002" end="260" id="1490231_18" citation_local_level_id="3" >2006</DATE>
+
+<RELATION at_date_string="2006" theme="1490231_1" at_date="1490231_2" theme_string="548 U.S. 901 (2006)" gram_type="infix" relation_type="asymmetric" id="1490231_3" ></RELATION>
+
+<RELATION party2="1490231_7" theme="1490231_5" theme_string="GERKE EXCAVATING, INC.  v.  UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="1490231_10" ></RELATION>
+
+<RELATION theme="1490231_5" party1="1490231_6" party1_string="GERKE EXCAVATING, INC." theme_string="GERKE EXCAVATING, INC.  v.  UNITED STATES" gram_type="infix" relation_type="asymmetric" id="1490231_9" ></RELATION>
+
+<RELATION standard_case_string="547 U.S. 715 (2006)" X_vs_Y_string="Rapanos v. United States" standard_case="1490231_14" X_vs_Y="1490231_15" gram_type="apposition" relation_type="equivalence" id="1490231_22" ></RELATION>
+
+<RELATION theme="1490231_15" party1="1490231_16" party1_string="Rapanos" theme_string="Rapanos v. United States" gram_type="infix" relation_type="asymmetric" id="1490231_20" ></RELATION>
+
+<RELATION party2="1490231_17" theme="1490231_15" theme_string="Rapanos v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="1490231_21" ></RELATION>
+
+<RELATION at_date_string="2006" theme="1490231_14" at_date="1490231_18" theme_string="547 U.S. 715 (2006)" gram_type="infix" relation_type="asymmetric" id="1490231_23" ></RELATION>
+
+<RELATION standard_case_string="548 U.S. 901 (2006)" X_vs_Y_string="GERKE EXCAVATING, INC.  v.  UNITED STATES" standard_case="1490231_1" X_vs_Y="1490231_5" gram_type="multi_line" relation_type="equivalence" id="1490231_24" ></RELATION>
+
+<RELATION at_date_string="June 26, 2006" theme="1490231_5" at_date="1490231_13" theme_string="GERKE EXCAVATING, INC.  v.  UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="1490231_26" ></RELATION>
+
+<RELATION theme="1490231_5" includes_docket_string="05-623" includes_docket="1490231_11" theme_string="GERKE EXCAVATING, INC.  v.  UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="1490231_25" ></RELATION>
+

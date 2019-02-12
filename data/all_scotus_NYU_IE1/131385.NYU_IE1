@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['jenningsmichigan#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_819" id1="131375" volume="540" start="0" page_number="819" standard_reporter="U.S." citation_global_level_id="3077.002" line="1" id="131385_1" citation_local_level_id="0" >540 U.S. 819</CITATION>
+
+<CITATION party2="MICHIGAN" party1="JENNINGS" citation_global_level_id="5848.001" party2_short="MICHIGAN" line="1" id="131385_3" alternative_keys="['u.s._540_819']" end="37" entry_type="party_key" lookup_key="jenningsmichigan#1" id1="131385" start="17" party1_short="JENNINGS" citation_local_level_id="1" >JENNINGS v. MICHIGAN</CITATION>
+
+<NAME end="25" start="17" party1_of="131385_3" all_names="JENNINGS" local_name_id="1" id="131385_4" >JENNINGS</NAME>
+
+<NAME end="37" start="29" all_names="MICHIGAN" party2_of="131385_3" local_name_id="2" id="131385_5" >MICHIGAN</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="u.s._540_819" id1="131375" start="47" citation_global_level_id="3077.002" line="1" id="131385_2" citation_local_level_id="0" >02-1742</DOCKET>
+
+<DATE start="50" end="54" id="131385_6" >1742</DATE>
+
+<DATE start="96" end="111" id="131385_7" >October 6, 2003</DATE>
+
+<NAME start="207" local_name_id="3" end="217" id="131385_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="131385_1" includes_docket_string="02-1742" includes_docket="131385_2" theme_string="540 U.S. 819" gram_type="apposition" relation_type="asymmetric" id="131385_12" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 819" X_vs_Y_string="JENNINGS v. MICHIGAN" standard_case="131385_1" X_vs_Y="131385_3" gram_type="pre_nom" relation_type="equivalence" id="131385_8" ></RELATION>
+
+<RELATION theme="131385_3" includes_docket_string="02-1742" includes_docket="131385_2" theme_string="JENNINGS v. MICHIGAN" gram_type="apposition" relation_type="asymmetric" id="131385_11" ></RELATION>
+
+<RELATION party2="131385_5" theme="131385_3" theme_string="JENNINGS v. MICHIGAN" party2_string="MICHIGAN" gram_type="infix" relation_type="asymmetric" id="131385_10" ></RELATION>
+
+<RELATION theme="131385_3" party1="131385_4" party1_string="JENNINGS" theme_string="JENNINGS v. MICHIGAN" gram_type="infix" relation_type="asymmetric" id="131385_9" ></RELATION>
+
+<RELATION at_date_string="1742" theme="131385_2" at_date="131385_6" theme_string="02-1742" gram_type="infix" relation_type="asymmetric" id="131385_13" ></RELATION>
+

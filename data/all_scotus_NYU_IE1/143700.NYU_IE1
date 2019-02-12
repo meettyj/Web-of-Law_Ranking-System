@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['butlertechnology#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_965" id1="143694" volume="544" start="0" page_number="965" standard_reporter="U.S." citation_global_level_id="1307.002" line="3" id="143700_2" citation_local_level_id="0" >544 U.S. 965</CITATION>
+
+<CITATION party2="MBNA TECHNOLOGY, INC" party1="BUTLER" citation_global_level_id="19308.001" party2_short="TECHNOLOGY" line="3" id="143700_4" alternative_keys="['u.s._544_965']" end="47" entry_type="party_key" lookup_key="butlertechnology#1" id1="143700" start="17" party1_short="BUTLER" citation_local_level_id="1" >BUTLER v. MBNA TECHNOLOGY, INC</CITATION>
+
+<NAME end="23" start="17" party1_of="143700_4" all_names="BUTLER" local_name_id="1" id="143700_5" >BUTLER</NAME>
+
+<NAME end="47" start="27" all_names="MBNA TECHNOLOGY INC" party2_of="143700_4" local_name_id="2" id="143700_6" >MBNA TECHNOLOGY, INC</NAME>
+
+<DOCKET end="64" entry_type="docket" lookup_key="u.s._544_965" id1="143694" start="57" citation_global_level_id="1307.002" line="3" id="143700_3" citation_local_level_id="0" >04-8470</DOCKET>
+
+<ORGANIZATION start="70" end="100" id="143700_12" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="106" citation_global_level_id="19308.001" end="119" id="143700_13" citation_local_level_id="1" >April 4, 2005</DATE>
+
+<NAME start="151" local_name_id="3" end="154" id="143700_15" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="143700_2" includes_docket_string="04-8470" includes_docket="143700_3" theme_string="544 U.S. 965" gram_type="apposition" relation_type="asymmetric" id="143700_11" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 965" X_vs_Y_string="BUTLER v. MBNA TECHNOLOGY, INC" standard_case="143700_2" X_vs_Y="143700_4" gram_type="pre_nom" relation_type="equivalence" id="143700_7" ></RELATION>
+
+<RELATION theme="143700_4" includes_docket_string="04-8470" includes_docket="143700_3" theme_string="BUTLER v. MBNA TECHNOLOGY, INC" gram_type="apposition" relation_type="asymmetric" id="143700_10" ></RELATION>
+
+<RELATION theme="143700_4" party1="143700_5" party1_string="BUTLER" theme_string="BUTLER v. MBNA TECHNOLOGY, INC" gram_type="infix" relation_type="asymmetric" id="143700_8" ></RELATION>
+
+<RELATION party2="143700_6" theme="143700_4" theme_string="BUTLER v. MBNA TECHNOLOGY, INC" party2_string="MBNA TECHNOLOGY, INC" gram_type="infix" relation_type="asymmetric" id="143700_9" ></RELATION>
+
+<RELATION at_date_string="April 4, 2005" theme="143700_4" at_date="143700_13" theme_string="BUTLER v. MBNA TECHNOLOGY, INC" gram_type="multi_line" relation_type="asymmetric" id="143700_14" ></RELATION>
+

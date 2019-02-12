@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['turnerharrell#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_863" id1="131962" volume="540" start="0" page_number="863" standard_reporter="U.S." citation_global_level_id="11428.002" line="1" id="131964_1" citation_local_level_id="0" >540 U.S. 863</CITATION>
+
+<CITATION party2="HARRELL" party1="TURNER" citation_global_level_id="37455.001" party2_short="HARRELL" line="1" id="131964_3" alternative_keys="['u.s._540_863']" end="34" entry_type="party_key" lookup_key="turnerharrell#1" id1="131964" start="17" party1_short="TURNER" citation_local_level_id="1" >TURNER v. HARRELL</CITATION>
+
+<NAME end="23" start="17" party1_of="131964_3" all_names="TURNER" local_name_id="1" id="131964_4" >TURNER</NAME>
+
+<NAME end="34" start="27" all_names="HARRELL" party2_of="131964_3" local_name_id="2" id="131964_5" >HARRELL</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="u.s._540_863" id1="131962" start="44" citation_global_level_id="11428.002" line="1" id="131964_2" citation_local_level_id="0" >02-11242</DOCKET>
+
+<DATE start="94" end="109" id="131964_6" >October 6, 2003</DATE>
+
+<NAME start="191" local_name_id="3" end="201" id="131964_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="240" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_878_346" id1="Dummy_File_143850" volume="878" start="226" page_number="346" standard_reporter="SO.2D" citation_global_level_id="207700.001" line="3" id="131964_12" citation_local_level_id="2" >878 So. 2d 346</CITATION>
+
+<RELATION theme="131964_1" includes_docket_string="02-11242" includes_docket="131964_2" theme_string="540 U.S. 863" gram_type="apposition" relation_type="asymmetric" id="131964_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 863" X_vs_Y_string="TURNER v. HARRELL" standard_case="131964_1" X_vs_Y="131964_3" gram_type="pre_nom" relation_type="equivalence" id="131964_7" ></RELATION>
+
+<RELATION theme="131964_3" includes_docket_string="02-11242" includes_docket="131964_2" theme_string="TURNER v. HARRELL" gram_type="apposition" relation_type="asymmetric" id="131964_10" ></RELATION>
+
+<RELATION theme="131964_3" party1="131964_4" party1_string="TURNER" theme_string="TURNER v. HARRELL" gram_type="infix" relation_type="asymmetric" id="131964_8" ></RELATION>
+
+<RELATION party2="131964_5" theme="131964_3" theme_string="TURNER v. HARRELL" party2_string="HARRELL" gram_type="infix" relation_type="asymmetric" id="131964_9" ></RELATION>
+

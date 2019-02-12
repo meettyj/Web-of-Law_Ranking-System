@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['edwardsstates#9']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_884" id1="113976" volume="510" start="0" page_number="884" standard_reporter="U.S." citation_global_level_id="4779.002" line="1" id="113979_1" citation_local_level_id="0" >510 U.S. 884</CITATION>
+
+<CITATION party2="United States" party1="Edwards" citation_global_level_id="34022.001" party2_short="States" line="1" id="113979_3" alternative_keys="['u.s._510_884']" end="41" entry_type="party_key" lookup_key="edwardsstates#9" id1="134391" start="17" party1_short="Edwards" citation_local_level_id="1" >Edwards v. United States</CITATION>
+
+<NAME end="24" start="17" party1_of="113979_3" all_names="EDWARDS" local_name_id="1" id="113979_4" >Edwards</NAME>
+
+<NAME end="41" start="28" all_names="UNITED STATES" party2_of="113979_3" local_name_id="2" id="113979_5" >United States</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._510_884" id1="113976" start="51" citation_global_level_id="4779.002" line="1" id="113979_2" citation_local_level_id="0" >93-5246</DOCKET>
+
+<DATE start="100" end="115" id="113979_6" >October 4, 1993</DATE>
+
+<NAME start="193" local_name_id="3" end="203" id="113979_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="241" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_991_804" id1="Dummy_File_118412" volume="991" start="228" page_number="804" standard_reporter="F.2D" citation_global_level_id="182262.001" line="3" id="113979_12" citation_local_level_id="2" >991 F. 2d 804</CITATION>
+
+<RELATION theme="113979_1" includes_docket_string="93-5246" includes_docket="113979_2" theme_string="510 U.S. 884" gram_type="apposition" relation_type="asymmetric" id="113979_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 884" X_vs_Y_string="Edwards v. United States" standard_case="113979_1" X_vs_Y="113979_3" gram_type="pre_nom" relation_type="equivalence" id="113979_7" ></RELATION>
+
+<RELATION theme="113979_3" includes_docket_string="93-5246" includes_docket="113979_2" theme_string="Edwards v. United States" gram_type="apposition" relation_type="asymmetric" id="113979_10" ></RELATION>
+
+<RELATION theme="113979_3" party1="113979_4" party1_string="Edwards" theme_string="Edwards v. United States" gram_type="infix" relation_type="asymmetric" id="113979_8" ></RELATION>
+
+<RELATION party2="113979_5" theme="113979_3" theme_string="Edwards v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="113979_9" ></RELATION>
+

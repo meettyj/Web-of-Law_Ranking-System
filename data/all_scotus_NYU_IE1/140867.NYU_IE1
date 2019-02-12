@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['maylefelix#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1042" id1="140867" volume="543" start="0" page_number="1042" standard_reporter="U.S." citation_global_level_id="758.002" line="1" id="140867_1" citation_local_level_id="0" >543 U.S. 1042</CITATION>
+
+<CITATION party2="FELIX" party1="MAYLE, WARDEN" citation_global_level_id="45181.001" party2_short="FELIX" line="2" id="140867_2" alternative_keys="['u.s._543_1042']" end="40" entry_type="party_key" lookup_key="maylefelix#1" id1="799989" start="18" party1_short="MAYLE" citation_local_level_id="1" >MAYLE, WARDEN v. FELIX</CITATION>
+
+<NAME end="31" start="18" party1_of="140867_2" all_names="MAYLE WARDEN" local_name_id="1" id="140867_3" >MAYLE, WARDEN</NAME>
+
+<PROFESSION start="25" end="31" id="140867_5" >WARDEN</PROFESSION>
+
+<NAME end="40" start="35" all_names="FELIX" party2_of="140867_2" local_name_id="2" id="140867_4" >FELIX</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="maylefelix#1" id1="799989" start="50" citation_global_level_id="45181.001" line="3" id="140867_8" citation_local_level_id="1" >04-563</DOCKET>
+
+<ORGANIZATION start="62" end="92" id="140867_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="98" citation_global_level_id="45181.001" end="113" id="140867_10" citation_local_level_id="1" >January 7, 2005</DATE>
+
+<NAME start="145" local_name_id="3" end="148" id="140867_15" all_names="CIR" >Cir</NAME>
+
+<CITATION end="268" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_379_612" id1="Dummy_File_158116" volume="379" start="255" page_number="612" standard_reporter="F.3D" citation_global_level_id="221966.001" line="8" id="140867_14" citation_local_level_id="2" >379 F. 3d 612</CITATION>
+
+<RELATION theme="140867_2" party1="140867_3" party1_string="MAYLE, WARDEN" theme_string="MAYLE, WARDEN v. FELIX" gram_type="infix" relation_type="asymmetric" id="140867_6" ></RELATION>
+
+<RELATION party2="140867_4" theme="140867_2" theme_string="MAYLE, WARDEN v. FELIX" party2_string="FELIX" gram_type="infix" relation_type="asymmetric" id="140867_7" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1042" X_vs_Y_string="MAYLE, WARDEN v. FELIX" standard_case="140867_1" X_vs_Y="140867_2" gram_type="multi_line" relation_type="equivalence" id="140867_11" ></RELATION>
+
+<RELATION at_date_string="January 7, 2005" theme="140867_2" at_date="140867_10" theme_string="MAYLE, WARDEN v. FELIX" gram_type="multi_line" relation_type="asymmetric" id="140867_13" ></RELATION>
+
+<RELATION theme="140867_2" includes_docket_string="04-563" includes_docket="140867_8" theme_string="MAYLE, WARDEN v. FELIX" gram_type="multi_line" relation_type="asymmetric" id="140867_12" ></RELATION>
+

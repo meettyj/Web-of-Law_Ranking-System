@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['pricedepartment#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1179" id1="127049" volume="537" start="0" page_number="1179" standard_reporter="U.S." citation_global_level_id="3884.002" line="1" id="127051_1" citation_local_level_id="0" >537 U.S. 1179</CITATION>
+
+<CITATION party2="DEPARTMENT OF JUVENILE JUSTICE ET AL" party1="PRICE" citation_global_level_id="38383.001" party2_short="DEPARTMENT" line="2" id="127051_2" alternative_keys="['u.s._537_1179']" end="63" entry_type="party_key" lookup_key="pricedepartment#2" id1="124860" start="18" party1_short="PRICE" citation_local_level_id="1" >PRICE v. DEPARTMENT OF JUVENILE JUSTICE ET AL</CITATION>
+
+<NAME end="23" start="18" party1_of="127051_2" all_names="PRICE" local_name_id="1" id="127051_3" >PRICE</NAME>
+
+<NAME end="63" start="27" all_names="DEPARTMENT OF JUVENILE JUSTICE" party2_of="127051_2" local_name_id="2" id="127051_4" >DEPARTMENT OF JUVENILE JUSTICE ET AL</NAME>
+
+<DOCKET end="96" entry_type="docket" lookup_key="pricedepartment#2" id1="124860" start="89" citation_global_level_id="38383.001" line="3" id="127051_7" citation_local_level_id="1" >02-6189</DOCKET>
+
+<ORGANIZATION start="102" end="132" id="127051_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="138" citation_global_level_id="38383.001" end="154" id="127051_9" citation_local_level_id="1" >January 27, 2003</DATE>
+
+<NAME start="176" local_name_id="3" end="184" id="127051_13" all_names="PETITION" >Petition</NAME>
+
+<RELATION theme="127051_2" party1="127051_3" party1_string="PRICE" theme_string="PRICE v. DEPARTMENT OF JUVENILE JUSTICE ET AL" gram_type="infix" relation_type="asymmetric" id="127051_5" ></RELATION>
+
+<RELATION party2="127051_4" theme="127051_2" theme_string="PRICE v. DEPARTMENT OF JUVENILE JUSTICE ET AL" party2_string="DEPARTMENT OF JUVENILE JUSTICE ET AL" gram_type="infix" relation_type="asymmetric" id="127051_6" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1179" X_vs_Y_string="PRICE v. DEPARTMENT OF JUVENILE JUSTICE ET AL" standard_case="127051_1" X_vs_Y="127051_2" gram_type="multi_line" relation_type="equivalence" id="127051_10" ></RELATION>
+
+<RELATION at_date_string="January 27, 2003" theme="127051_2" at_date="127051_9" theme_string="PRICE v. DEPARTMENT OF JUVENILE JUSTICE ET AL" gram_type="multi_line" relation_type="asymmetric" id="127051_12" ></RELATION>
+
+<RELATION theme="127051_2" includes_docket_string="02-6189" includes_docket="127051_7" theme_string="PRICE v. DEPARTMENT OF JUVENILE JUSTICE ET AL" gram_type="multi_line" relation_type="asymmetric" id="127051_11" ></RELATION>
+

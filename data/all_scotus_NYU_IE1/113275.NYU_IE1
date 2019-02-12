@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['evansvalles#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_832" id1="113269" volume="510" start="0" page_number="832" standard_reporter="U.S." citation_global_level_id="312.002" line="1" id="113275_1" citation_local_level_id="0" >510 U.S. 832</CITATION>
+
+<CITATION party2="Valles" party1="Evans" citation_global_level_id="12128.001" party2_short="Valles" line="1" id="113275_3" alternative_keys="['u.s._510_832']" end="32" entry_type="party_key" lookup_key="evansvalles#1" id1="113275" start="17" party1_short="Evans" citation_local_level_id="1" >Evans v. Valles</CITATION>
+
+<NAME end="22" start="17" party1_of="113275_3" all_names="EVANS" local_name_id="1" id="113275_4" >Evans</NAME>
+
+<NAME end="32" start="26" all_names="VALLES" party2_of="113275_3" local_name_id="2" id="113275_5" >Valles</NAME>
+
+<DOCKET end="49" entry_type="docket" lookup_key="u.s._510_832" id1="113269" start="42" citation_global_level_id="312.002" line="1" id="113275_2" citation_local_level_id="0" >92-8609</DOCKET>
+
+<DATE start="91" end="106" id="113275_6" >October 4, 1993</DATE>
+
+<NAME start="184" local_name_id="3" end="194" id="113275_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="233" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_986_1424" id1="Dummy_File_82198" volume="986" start="219" page_number="1424" standard_reporter="F.2D" citation_global_level_id="146048.001" line="3" id="113275_12" citation_local_level_id="2" >986 F. 2d 1424</CITATION>
+
+<RELATION theme="113275_1" includes_docket_string="92-8609" includes_docket="113275_2" theme_string="510 U.S. 832" gram_type="apposition" relation_type="asymmetric" id="113275_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 832" X_vs_Y_string="Evans v. Valles" standard_case="113275_1" X_vs_Y="113275_3" gram_type="pre_nom" relation_type="equivalence" id="113275_7" ></RELATION>
+
+<RELATION theme="113275_3" includes_docket_string="92-8609" includes_docket="113275_2" theme_string="Evans v. Valles" gram_type="apposition" relation_type="asymmetric" id="113275_10" ></RELATION>
+
+<RELATION theme="113275_3" party1="113275_4" party1_string="Evans" theme_string="Evans v. Valles" gram_type="infix" relation_type="asymmetric" id="113275_8" ></RELATION>
+
+<RELATION party2="113275_5" theme="113275_3" theme_string="Evans v. Valles" party2_string="Valles" gram_type="infix" relation_type="asymmetric" id="113275_9" ></RELATION>
+

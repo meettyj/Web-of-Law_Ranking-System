@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['communicationstour#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_919" id1="139310" volume="543" start="0" page_number="919" standard_reporter="U.S." citation_global_level_id="4448.002" line="1" id="139315_1" citation_local_level_id="0" >543 U.S. 919</CITATION>
+
+<CITATION party2="PGA TOUR, INC" party1="MORRIS COMMUNICATIONS CO., LLC" citation_global_level_id="4448.004" party2_short="TOUR" line="2" id="139315_2" alternative_keys="['u.s._543_919']" end="64" entry_type="party_key" lookup_key="communicationstour#2" id1="139310" start="17" party1_short="COMMUNICATIONS" citation_local_level_id="1" >MORRIS COMMUNICATIONS CO., LLC v. PGA TOUR, INC</CITATION>
+
+<NAME end="47" start="17" party1_of="139315_2" all_names="MORRIS COMMUNICATIONS CO LLC" local_name_id="1" id="139315_3" >MORRIS COMMUNICATIONS CO., LLC</NAME>
+
+<ORGANIZATION start="17" end="41" id="139315_5" >MORRIS COMMUNICATIONS CO</ORGANIZATION>
+
+<NAME end="64" start="51" all_names="PGA TOUR INC" party2_of="139315_2" local_name_id="2" id="139315_4" >PGA TOUR, INC</NAME>
+
+<DOCKET alternative_keys="['u.s._543_919']" end="80" entry_type="docket" lookup_key="communicationstour#2" id1="139310" start="74" citation_global_level_id="4448.004" line="3" id="139315_8" citation_local_level_id="1" >04-266</DOCKET>
+
+<ORGANIZATION start="86" end="116" id="139315_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="122" citation_global_level_id="4448.004" end="137" id="139315_10" citation_local_level_id="1" >October 4, 2004</DATE>
+
+<NAME start="170" local_name_id="3" end="173" id="139315_15" all_names="CIR" >Cir</NAME>
+
+<CITATION end="330" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_364_1288" id1="Dummy_File_36724" volume="364" start="316" page_number="1288" standard_reporter="F.3D" citation_global_level_id="100574.001" line="8" id="139315_14" citation_local_level_id="2" >364 F. 3d 1288</CITATION>
+
+<RELATION theme="139315_2" party1="139315_3" party1_string="MORRIS COMMUNICATIONS CO., LLC" theme_string="MORRIS COMMUNICATIONS CO., LLC v. PGA TOUR, INC" gram_type="infix" relation_type="asymmetric" id="139315_6" ></RELATION>
+
+<RELATION party2="139315_4" theme="139315_2" theme_string="MORRIS COMMUNICATIONS CO., LLC v. PGA TOUR, INC" party2_string="PGA TOUR, INC" gram_type="infix" relation_type="asymmetric" id="139315_7" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 919" X_vs_Y_string="MORRIS COMMUNICATIONS CO., LLC v. PGA TOUR, INC" standard_case="139315_1" X_vs_Y="139315_2" gram_type="multi_line" relation_type="equivalence" id="139315_11" ></RELATION>
+
+<RELATION at_date_string="October 4, 2004" theme="139315_2" at_date="139315_10" theme_string="MORRIS COMMUNICATIONS CO., LLC v. PGA TOUR, INC" gram_type="multi_line" relation_type="asymmetric" id="139315_13" ></RELATION>
+
+<RELATION theme="139315_2" includes_docket_string="04-266" includes_docket="139315_8" theme_string="MORRIS COMMUNICATIONS CO., LLC v. PGA TOUR, INC" gram_type="multi_line" relation_type="asymmetric" id="139315_12" ></RELATION>
+

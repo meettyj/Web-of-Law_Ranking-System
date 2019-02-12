@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['lagoflorida#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1054" id1="116107" volume="510" start="0" page_number="1054" standard_reporter="U.S." citation_global_level_id="1837.002" line="1" id="116107_1" citation_local_level_id="0" >510 U.S. 1054</CITATION>
+
+<CITATION party2="Florida et al" party1="Lago" citation_global_level_id="1837.001" party2_short="Florida" line="1" id="116107_3" alternative_keys="['u.s._510_1054']" end="39" entry_type="party_key" lookup_key="lagoflorida#1" id1="116107" start="18" party1_short="Lago" citation_local_level_id="1" >Lago v. Florida et al</CITATION>
+
+<NAME end="22" start="18" party1_of="116107_3" all_names="LAGO" local_name_id="1" id="116107_4" >Lago</NAME>
+
+<NAME end="39" start="26" all_names="FLORIDA" party2_of="116107_3" local_name_id="2" id="116107_5" >Florida et al</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._510_1054" id1="116107" start="49" citation_global_level_id="1837.002" line="1" id="116107_2" citation_local_level_id="0" >93-6643</DOCKET>
+
+<DATE start="98" end="114" id="116107_6" >January 10, 1994</DATE>
+
+<NAME start="193" local_name_id="3" end="203" id="116107_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="241" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_992_328" id1="Dummy_File_45198" volume="992" start="228" page_number="328" standard_reporter="F.2D" citation_global_level_id="109048.001" line="3" id="116107_12" citation_local_level_id="2" >992 F. 2d 328</CITATION>
+
+<RELATION theme="116107_1" includes_docket_string="93-6643" includes_docket="116107_2" theme_string="510 U.S. 1054" gram_type="apposition" relation_type="asymmetric" id="116107_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1054" X_vs_Y_string="Lago v. Florida et al" standard_case="116107_1" X_vs_Y="116107_3" gram_type="pre_nom" relation_type="equivalence" id="116107_7" ></RELATION>
+
+<RELATION theme="116107_3" includes_docket_string="93-6643" includes_docket="116107_2" theme_string="Lago v. Florida et al" gram_type="apposition" relation_type="asymmetric" id="116107_10" ></RELATION>
+
+<RELATION theme="116107_3" party1="116107_4" party1_string="Lago" theme_string="Lago v. Florida et al" gram_type="infix" relation_type="asymmetric" id="116107_8" ></RELATION>
+
+<RELATION party2="116107_5" theme="116107_3" theme_string="Lago v. Florida et al" party2_string="Florida et al" gram_type="infix" relation_type="asymmetric" id="116107_9" ></RELATION>
+

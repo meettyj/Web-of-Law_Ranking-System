@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['morrisalabama#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_1007" id1="133820" volume="540" start="0" page_number="1007" standard_reporter="U.S." citation_global_level_id="5756.002" line="1" id="133816_1" citation_local_level_id="0" >540 U.S. 1007</CITATION>
+
+<CITATION party2="ALABAMA" party1="MORRIS" citation_global_level_id="63345.001" party2_short="ALABAMA" line="1" id="133816_3" alternative_keys="['u.s._540_1007']" end="35" entry_type="party_key" lookup_key="morrisalabama#1" id1="133816" start="18" party1_short="MORRIS" citation_local_level_id="1" >MORRIS v. ALABAMA</CITATION>
+
+<NAME end="24" start="18" party1_of="133816_3" all_names="MORRIS" local_name_id="1" id="133816_4" >MORRIS</NAME>
+
+<NAME end="35" start="28" all_names="ALABAMA" party2_of="133816_3" local_name_id="2" id="133816_5" >ALABAMA</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="u.s._540_1007" id1="133820" start="45" citation_global_level_id="5756.002" line="1" id="133816_2" citation_local_level_id="0" >03-6269</DOCKET>
+
+<DATE start="94" end="111" id="133816_6" >November 10, 2003</DATE>
+
+<NAME start="194" local_name_id="3" end="204" id="133816_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="244" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_876_1184" id1="Dummy_File_44540" volume="876" start="229" page_number="1184" standard_reporter="SO.2D" citation_global_level_id="108390.001" line="3" id="133816_12" citation_local_level_id="2" >876 So. 2d 1184</CITATION>
+
+<RELATION theme="133816_1" includes_docket_string="03-6269" includes_docket="133816_2" theme_string="540 U.S. 1007" gram_type="apposition" relation_type="asymmetric" id="133816_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 1007" X_vs_Y_string="MORRIS v. ALABAMA" standard_case="133816_1" X_vs_Y="133816_3" gram_type="pre_nom" relation_type="equivalence" id="133816_7" ></RELATION>
+
+<RELATION theme="133816_3" includes_docket_string="03-6269" includes_docket="133816_2" theme_string="MORRIS v. ALABAMA" gram_type="apposition" relation_type="asymmetric" id="133816_10" ></RELATION>
+
+<RELATION theme="133816_3" party1="133816_4" party1_string="MORRIS" theme_string="MORRIS v. ALABAMA" gram_type="infix" relation_type="asymmetric" id="133816_8" ></RELATION>
+
+<RELATION party2="133816_5" theme="133816_3" theme_string="MORRIS v. ALABAMA" party2_string="ALABAMA" gram_type="infix" relation_type="asymmetric" id="133816_9" ></RELATION>
+

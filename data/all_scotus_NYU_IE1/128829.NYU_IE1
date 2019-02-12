@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['mcdanielsstates#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_971" id1="128831" volume="538" start="0" page_number="971" standard_reporter="U.S." citation_global_level_id="9982.002" line="1" id="128829_1" citation_local_level_id="0" >538 U.S. 971</CITATION>
+
+<CITATION party2="UNITED STATES" party1="McDANIELS" citation_global_level_id="52997.001" party2_short="STATES" line="1" id="128829_3" alternative_keys="['u.s._538_971']" end="43" entry_type="party_key" lookup_key="mcdanielsstates#1" id1="128829" start="17" party1_short="McDANIELS" citation_local_level_id="1" >McDANIELS v. UNITED STATES</CITATION>
+
+<NAME end="26" start="17" party1_of="128829_3" all_names="MCDANIELS" local_name_id="1" id="128829_4" >McDANIELS</NAME>
+
+<NAME end="43" start="30" all_names="UNITED STATES" party2_of="128829_3" local_name_id="2" id="128829_5" >UNITED STATES</NAME>
+
+<DOCKET end="60" entry_type="docket" lookup_key="u.s._538_971" id1="128831" start="53" citation_global_level_id="9982.002" line="1" id="128829_2" citation_local_level_id="0" >02-9452</DOCKET>
+
+<DATE start="102" end="115" id="128829_6" >April 7, 2003</DATE>
+
+<NAME start="244" local_name_id="3" end="247" id="128829_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="297" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_302_384" id1="Dummy_File_162717" volume="302" start="284" page_number="384" standard_reporter="F.3D" citation_global_level_id="226567.001" line="3" id="128829_12" citation_local_level_id="2" >302 F. 3d 384</CITATION>
+
+<RELATION theme="128829_1" includes_docket_string="02-9452" includes_docket="128829_2" theme_string="538 U.S. 971" gram_type="apposition" relation_type="asymmetric" id="128829_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 971" X_vs_Y_string="McDANIELS v. UNITED STATES" standard_case="128829_1" X_vs_Y="128829_3" gram_type="pre_nom" relation_type="equivalence" id="128829_7" ></RELATION>
+
+<RELATION theme="128829_3" includes_docket_string="02-9452" includes_docket="128829_2" theme_string="McDANIELS v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="128829_10" ></RELATION>
+
+<RELATION theme="128829_3" party1="128829_4" party1_string="McDANIELS" theme_string="McDANIELS v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="128829_8" ></RELATION>
+
+<RELATION party2="128829_5" theme="128829_3" theme_string="McDANIELS v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="128829_9" ></RELATION>
+

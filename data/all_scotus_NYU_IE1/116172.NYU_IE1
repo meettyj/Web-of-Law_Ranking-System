@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['wilfordslusher#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1058" id1="116174" volume="510" start="0" page_number="1058" standard_reporter="U.S." citation_global_level_id="1720.002" line="1" id="116172_1" citation_local_level_id="0" >510 U.S. 1058</CITATION>
+
+<CITATION party2="Slusher et al" party1="Wilford" citation_global_level_id="9002.001" party2_short="Slusher" line="1" id="116172_3" alternative_keys="['u.s._510_1058']" end="42" entry_type="party_key" lookup_key="wilfordslusher#1" id1="116172" start="18" party1_short="Wilford" citation_local_level_id="1" >Wilford v. Slusher et al</CITATION>
+
+<NAME end="25" start="18" party1_of="116172_3" all_names="WILFORD" local_name_id="1" id="116172_4" >Wilford</NAME>
+
+<NAME end="42" start="29" all_names="SLUSHER" party2_of="116172_3" local_name_id="2" id="116172_5" >Slusher et al</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="u.s._510_1058" id1="116174" start="52" citation_global_level_id="1720.002" line="1" id="116172_2" citation_local_level_id="0" >93-6754</DOCKET>
+
+<DATE start="101" end="117" id="116172_6" >January 10, 1994</DATE>
+
+<NAME start="195" local_name_id="3" end="205" id="116172_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="242" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_2_1152" id1="Dummy_File_25086" volume="2" start="230" page_number="1152" standard_reporter="F.3D" citation_global_level_id="88936.001" line="3" id="116172_12" citation_local_level_id="2" >2 F. 3d 1152</CITATION>
+
+<RELATION theme="116172_1" includes_docket_string="93-6754" includes_docket="116172_2" theme_string="510 U.S. 1058" gram_type="apposition" relation_type="asymmetric" id="116172_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1058" X_vs_Y_string="Wilford v. Slusher et al" standard_case="116172_1" X_vs_Y="116172_3" gram_type="pre_nom" relation_type="equivalence" id="116172_7" ></RELATION>
+
+<RELATION theme="116172_3" includes_docket_string="93-6754" includes_docket="116172_2" theme_string="Wilford v. Slusher et al" gram_type="apposition" relation_type="asymmetric" id="116172_10" ></RELATION>
+
+<RELATION theme="116172_3" party1="116172_4" party1_string="Wilford" theme_string="Wilford v. Slusher et al" gram_type="infix" relation_type="asymmetric" id="116172_8" ></RELATION>
+
+<RELATION party2="116172_5" theme="116172_3" theme_string="Wilford v. Slusher et al" party2_string="Slusher et al" gram_type="infix" relation_type="asymmetric" id="116172_9" ></RELATION>
+

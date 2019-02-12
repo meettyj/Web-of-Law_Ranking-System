@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['rosenbachillinois#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_988" id1="129030" volume="538" start="0" page_number="988" standard_reporter="U.S." citation_global_level_id="4022.002" line="1" id="129037_1" citation_local_level_id="0" >538 U.S. 988</CITATION>
+
+<CITATION party2="ILLINOIS" party1="ROSENBACH" citation_global_level_id="45432.001" party2_short="ILLINOIS" line="1" id="129037_3" alternative_keys="['u.s._538_988']" end="38" entry_type="party_key" lookup_key="rosenbachillinois#1" id1="129037" start="17" party1_short="ROSENBACH" citation_local_level_id="1" >ROSENBACH v. ILLINOIS</CITATION>
+
+<NAME end="26" start="17" party1_of="129037_3" all_names="ROSENBACH" local_name_id="1" id="129037_4" >ROSENBACH</NAME>
+
+<NAME end="38" start="30" all_names="ILLINOIS" party2_of="129037_3" local_name_id="2" id="129037_5" >ILLINOIS</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._538_988" id1="129030" start="48" citation_global_level_id="4022.002" line="1" id="129037_2" citation_local_level_id="0" >02-9369</DOCKET>
+
+<DATE start="97" end="111" id="129037_6" >April 21, 2003</DATE>
+
+<NAME start="229" local_name_id="3" end="232" id="129037_13" all_names="APP" >App</NAME>
+
+<CITATION end="328" reporter="N. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.e.2d_775_1073" id1="Dummy_File_170226" volume="775" start="311" page_number="1073" standard_reporter="N.E.2D" citation_global_level_id="234076.001" line="3" id="129037_12" citation_local_level_id="2" >775 N. E. 2d 1073</CITATION>
+
+<RELATION theme="129037_1" includes_docket_string="02-9369" includes_docket="129037_2" theme_string="538 U.S. 988" gram_type="apposition" relation_type="asymmetric" id="129037_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 988" X_vs_Y_string="ROSENBACH v. ILLINOIS" standard_case="129037_1" X_vs_Y="129037_3" gram_type="pre_nom" relation_type="equivalence" id="129037_7" ></RELATION>
+
+<RELATION theme="129037_3" includes_docket_string="02-9369" includes_docket="129037_2" theme_string="ROSENBACH v. ILLINOIS" gram_type="apposition" relation_type="asymmetric" id="129037_10" ></RELATION>
+
+<RELATION theme="129037_3" party1="129037_4" party1_string="ROSENBACH" theme_string="ROSENBACH v. ILLINOIS" gram_type="infix" relation_type="asymmetric" id="129037_8" ></RELATION>
+
+<RELATION party2="129037_5" theme="129037_3" theme_string="ROSENBACH v. ILLINOIS" party2_string="ILLINOIS" gram_type="infix" relation_type="asymmetric" id="129037_9" ></RELATION>
+

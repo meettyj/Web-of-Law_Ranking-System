@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['fieldingreilly#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1100" id1="120861" volume="535" start="0" page_number="1100" standard_reporter="U.S." citation_global_level_id="6447.002" line="1" id="120858_1" citation_local_level_id="0" >535 U.S. 1100</CITATION>
+
+<CITATION party2="REILLY, ATTORNEY GENERAL OF MASSACHUSETTS" party1="FIELDING" citation_global_level_id="6447.011" party2_short="REILLY" line="2" id="120858_2" alternative_keys="['u.s._535_1100']" end="71" entry_type="party_key" lookup_key="fieldingreilly#1" id1="120861" start="18" party1_short="FIELDING" citation_local_level_id="1" >FIELDING v. REILLY, ATTORNEY GENERAL OF MASSACHUSETTS</CITATION>
+
+<NAME end="26" start="18" party1_of="120858_2" all_names="FIELDING" local_name_id="1" id="120858_3" >FIELDING</NAME>
+
+<NAME end="71" start="30" all_names="REILLY ATTORNEY GENERAL OF MASSACHUSETTS" party2_of="120858_2" local_name_id="2" id="120858_4" >REILLY, ATTORNEY GENERAL OF MASSACHUSETTS</NAME>
+
+<PROFESSION start="38" end="71" id="120858_5" >ATTORNEY GENERAL OF MASSACHUSETTS</PROFESSION>
+
+<DOCKET alternative_keys="['u.s._535_1100']" end="88" entry_type="docket" lookup_key="fieldingreilly#1" id1="120861" start="81" citation_global_level_id="6447.011" line="3" id="120858_8" citation_local_level_id="1" >01-9165</DOCKET>
+
+<DATE start="134" citation_global_level_id="6447.011" end="146" id="120858_9" citation_local_level_id="1" >May 28, 2002</DATE>
+
+<NAME start="168" local_name_id="3" end="181" id="120858_13" all_names="C A 1ST CIR" >C. A. 1st Cir</NAME>
+
+<NAME start="183" local_name_id="4" end="193" id="120858_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="120858_2" party1="120858_3" party1_string="FIELDING" theme_string="FIELDING v. REILLY, ATTORNEY GENERAL OF MASSACHUSETTS" gram_type="infix" relation_type="asymmetric" id="120858_6" ></RELATION>
+
+<RELATION party2="120858_4" theme="120858_2" theme_string="FIELDING v. REILLY, ATTORNEY GENERAL OF MASSACHUSETTS" party2_string="REILLY, ATTORNEY GENERAL OF MASSACHUSETTS" gram_type="infix" relation_type="asymmetric" id="120858_7" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1100" X_vs_Y_string="FIELDING v. REILLY, ATTORNEY GENERAL OF MASSACHUSETTS" standard_case="120858_1" X_vs_Y="120858_2" gram_type="multi_line" relation_type="equivalence" id="120858_10" ></RELATION>
+
+<RELATION at_date_string="May 28, 2002" theme="120858_2" at_date="120858_9" theme_string="FIELDING v. REILLY, ATTORNEY GENERAL OF MASSACHUSETTS" gram_type="multi_line" relation_type="asymmetric" id="120858_12" ></RELATION>
+
+<RELATION theme="120858_2" includes_docket_string="01-9165" includes_docket="120858_8" theme_string="FIELDING v. REILLY, ATTORNEY GENERAL OF MASSACHUSETTS" gram_type="multi_line" relation_type="asymmetric" id="120858_11" ></RELATION>
+

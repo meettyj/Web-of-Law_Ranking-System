@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['anthonystates#3']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1176" id1="142616" volume="543" start="0" page_number="1176" standard_reporter="U.S." citation_global_level_id="4914.002" line="1" id="142617_1" citation_local_level_id="0" >543 U.S. 1176</CITATION>
+
+<CITATION party2="UNITED STATES" party1="ANTHONY" citation_global_level_id="41979.001" party2_short="STATES" line="2" id="142617_2" alternative_keys="['u.s._543_1176']" end="42" entry_type="party_key" lookup_key="anthonystates#3" id1="142617" start="18" party1_short="ANTHONY" citation_local_level_id="1" >ANTHONY v. UNITED STATES</CITATION>
+
+<NAME end="25" start="18" party1_of="142617_2" all_names="ANTHONY" local_name_id="1" id="142617_3" >ANTHONY</NAME>
+
+<NAME end="42" start="29" all_names="UNITED STATES" party2_of="142617_2" local_name_id="2" id="142617_4" >UNITED STATES</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="anthonystates#3" id1="142617" start="52" citation_global_level_id="41979.001" line="3" id="142617_7" citation_local_level_id="1" >04-8289</DOCKET>
+
+<ORGANIZATION start="65" end="95" id="142617_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="101" citation_global_level_id="41979.001" end="118" id="142617_9" citation_local_level_id="1" >February 22, 2005</DATE>
+
+<NAME start="150" local_name_id="3" end="153" id="142617_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="142617_2" party1="142617_3" party1_string="ANTHONY" theme_string="ANTHONY v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="142617_5" ></RELATION>
+
+<RELATION party2="142617_4" theme="142617_2" theme_string="ANTHONY v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="142617_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1176" X_vs_Y_string="ANTHONY v. UNITED STATES" standard_case="142617_1" X_vs_Y="142617_2" gram_type="multi_line" relation_type="equivalence" id="142617_10" ></RELATION>
+
+<RELATION at_date_string="February 22, 2005" theme="142617_2" at_date="142617_9" theme_string="ANTHONY v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="142617_12" ></RELATION>
+
+<RELATION theme="142617_2" includes_docket_string="04-8289" includes_docket="142617_7" theme_string="ANTHONY v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="142617_11" ></RELATION>
+

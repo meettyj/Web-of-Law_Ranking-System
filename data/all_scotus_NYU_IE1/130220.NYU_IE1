@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['jonesmichigan#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_906" id1="130228" volume="539" start="0" page_number="906" standard_reporter="U.S." citation_global_level_id="3128.002" line="1" id="130220_1" citation_local_level_id="0" >539 U.S. 906</CITATION>
+
+<CITATION party2="Michigan" party1="Jones" citation_global_level_id="27715.001" party2_short="Michigan" line="1" id="130220_3" alternative_keys="['u.s._539_906']" end="34" entry_type="party_key" lookup_key="jonesmichigan#2" id1="115811" start="17" party1_short="Jones" citation_local_level_id="1" >Jones v. Michigan</CITATION>
+
+<NAME end="22" start="17" party1_of="130220_3" all_names="JONES" local_name_id="1" id="130220_4" >Jones</NAME>
+
+<NAME end="34" start="26" all_names="MICHIGAN" party2_of="130220_3" local_name_id="2" id="130220_5" >Michigan</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="u.s._539_906" id1="130228" start="44" citation_global_level_id="3128.002" line="1" id="130220_2" citation_local_level_id="0" >02-9865</DOCKET>
+
+<DATE start="93" end="105" id="130220_6" >June 2, 2003</DATE>
+
+<NAME start="183" local_name_id="3" end="193" id="130220_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="130220_1" includes_docket_string="02-9865" includes_docket="130220_2" theme_string="539 U.S. 906" gram_type="apposition" relation_type="asymmetric" id="130220_11" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 906" X_vs_Y_string="Jones v. Michigan" standard_case="130220_1" X_vs_Y="130220_3" gram_type="pre_nom" relation_type="equivalence" id="130220_7" ></RELATION>
+
+<RELATION theme="130220_3" includes_docket_string="02-9865" includes_docket="130220_2" theme_string="Jones v. Michigan" gram_type="apposition" relation_type="asymmetric" id="130220_10" ></RELATION>
+
+<RELATION theme="130220_3" party1="130220_4" party1_string="Jones" theme_string="Jones v. Michigan" gram_type="infix" relation_type="asymmetric" id="130220_8" ></RELATION>
+
+<RELATION party2="130220_5" theme="130220_3" theme_string="Jones v. Michigan" party2_string="Michigan" gram_type="infix" relation_type="asymmetric" id="130220_9" ></RELATION>
+

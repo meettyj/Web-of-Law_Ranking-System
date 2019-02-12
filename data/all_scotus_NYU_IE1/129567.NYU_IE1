@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['isaacswarden#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1027" id1="129567" volume="538" start="0" page_number="1027" standard_reporter="U.S." citation_global_level_id="25468.002" line="1" id="129567_1" citation_local_level_id="0" >538 U.S. 1027</CITATION>
+
+<CITATION party2="HEAD, WARDEN" party1="ISAACS" citation_global_level_id="37278.001" party2_short="WARDEN" line="1" id="129567_4" alternative_keys="['u.s._538_1027']" end="40" entry_type="party_key" lookup_key="isaacswarden#2" id1="129033" start="18" party1_short="ISAACS" citation_local_level_id="1" >ISAACS v. HEAD, WARDEN</CITATION>
+
+<NAME end="24" start="18" party1_of="129567_4" all_names="ISAACS" local_name_id="1" id="129567_5" >ISAACS</NAME>
+
+<NAME end="40" start="28" all_names="HEAD WARDEN" party2_of="129567_4" local_name_id="2" id="129567_6" >HEAD, WARDEN</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._538_1027" id1="129567" start="50" citation_global_level_id="25468.002" line="1" id="129567_3" citation_local_level_id="0" >02-10539</DOCKET>
+
+<CITATION end="66" reporter="A" entry_type="standard_key" no_current_file="True" lookup_key="a._02_941" id1="Dummy_File_218838" volume="02" start="60" page_number="941" standard_reporter="A." citation_global_level_id="282688.001" line="1" id="129567_2" citation_local_level_id="2" >02A941</CITATION>
+
+<DATE start="109" end="120" id="129567_7" >May 6, 2003</DATE>
+
+<NAME start="211" local_name_id="3" end="214" id="129567_13" all_names="SUP" >Sup</NAME>
+
+<RELATION theme="129567_1" includes_docket_string="02-10539" includes_docket="129567_3" theme_string="538 U.S. 1027" gram_type="apposition" relation_type="asymmetric" id="129567_12" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1027" X_vs_Y_string="ISAACS v. HEAD, WARDEN" standard_case="129567_1" X_vs_Y="129567_4" gram_type="pre_nom" relation_type="equivalence" id="129567_8" ></RELATION>
+
+<RELATION theme="129567_4" includes_docket_string="02-10539" includes_docket="129567_3" theme_string="ISAACS v. HEAD, WARDEN" gram_type="apposition" relation_type="asymmetric" id="129567_11" ></RELATION>
+
+<RELATION party2="129567_6" theme="129567_4" theme_string="ISAACS v. HEAD, WARDEN" party2_string="HEAD, WARDEN" gram_type="infix" relation_type="asymmetric" id="129567_10" ></RELATION>
+
+<RELATION theme="129567_4" party1="129567_5" party1_string="ISAACS" theme_string="ISAACS v. HEAD, WARDEN" gram_type="infix" relation_type="asymmetric" id="129567_9" ></RELATION>
+

@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['pottsstates#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1027" id1="120023" volume="535" start="0" page_number="1027" standard_reporter="U.S." citation_global_level_id="3149.002" line="1" id="120021_1" citation_local_level_id="0" >535 U.S. 1027</CITATION>
+
+<CITATION party2="UNITED STATES" party1="POTTS" citation_global_level_id="43538.001" party2_short="STATES" line="2" id="120021_2" alternative_keys="['u.s._535_1027']" end="40" entry_type="party_key" lookup_key="pottsstates#2" id1="120021" start="18" party1_short="POTTS" citation_local_level_id="1" >POTTS v. UNITED STATES</CITATION>
+
+<NAME end="23" start="18" party1_of="120021_2" all_names="POTTS" local_name_id="1" id="120021_3" >POTTS</NAME>
+
+<NAME end="40" start="27" all_names="UNITED STATES" party2_of="120021_2" local_name_id="2" id="120021_4" >UNITED STATES</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="pottsstates#2" id1="120021" start="50" citation_global_level_id="43538.001" line="3" id="120021_7" citation_local_level_id="1" >01-9184</DOCKET>
+
+<DATE start="103" citation_global_level_id="43538.001" end="117" id="120021_8" citation_local_level_id="1" >April 22, 2002</DATE>
+
+<NAME start="149" local_name_id="3" end="152" id="120021_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="120021_2" party1="120021_3" party1_string="POTTS" theme_string="POTTS v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="120021_5" ></RELATION>
+
+<RELATION party2="120021_4" theme="120021_2" theme_string="POTTS v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="120021_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1027" X_vs_Y_string="POTTS v. UNITED STATES" standard_case="120021_1" X_vs_Y="120021_2" gram_type="multi_line" relation_type="equivalence" id="120021_9" ></RELATION>
+
+<RELATION at_date_string="April 22, 2002" theme="120021_2" at_date="120021_8" theme_string="POTTS v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="120021_11" ></RELATION>
+
+<RELATION theme="120021_2" includes_docket_string="01-9184" includes_docket="120021_7" theme_string="POTTS v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="120021_10" ></RELATION>
+

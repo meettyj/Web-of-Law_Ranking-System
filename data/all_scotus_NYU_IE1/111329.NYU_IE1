@@ -1,0 +1,40 @@
+<CITATION alternative_keys="['robertsmaryland#1', 's.ct._105_446', 'l.ed.2d_83_372']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._469_1027" id1="111329" volume="469" start="0" page_number="1027" standard_reporter="U.S." citation_global_level_id="18667.002" line="1" id="111329_1" citation_local_level_id="0" >469 U.S. 1027</CITATION>
+
+<CITATION alternative_keys="['u.s._469_1027', 'robertsmaryland#1', 'l.ed.2d_83_372']" end="32" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._105_446" id1="111329" volume="105" start="18" page_number="446" standard_reporter="S.CT." citation_global_level_id="18667.003" line="1" id="111329_2" citation_local_level_id="1" >105 S. Ct. 446</CITATION>
+
+<NAME start="22" local_name_id="1" end="27" id="111329_10" all_names="S CT" >S. Ct</NAME>
+
+<CITATION alternative_keys="['u.s._469_1027', 's.ct._105_446', 'robertsmaryland#1']" end="53" reporter="L. Ed. 2d" entry_type="standard_key" lookup_key="l.ed.2d_83_372" id1="111329" volume="83" start="37" page_number="372" standard_reporter="L.ED.2D" citation_global_level_id="18667.004" line="1" id="111329_3" citation_local_level_id="2" >83 L. Ed. 2d 372</CITATION>
+
+<CITATION party2="MARYLAND" alternative_keys="['u.s._469_1027', 's.ct._105_446', 'l.ed.2d_83_372']" party1="Gregory Bernard ROBERTS," end="106" party1_short="ROBERTS" entry_type="party_key" party1_role="petitioner" lookup_key="robertsmaryland#1" id1="111329" start="58" citation_global_level_id="18667.001" party2_short="MARYLAND" line="1" id="111329_5" citation_local_level_id="3" >Gregory Bernard ROBERTS, petitioner, v. MARYLAND</CITATION>
+
+<NAME end="82" start="58" party1_of="111329_5" all_names="GREGORY BERNARD ROBERTS" local_name_id="2" id="111329_6" >Gregory Bernard ROBERTS,</NAME>
+
+<LEGAL_ROLE start="83" end="93" id="111329_8" >petitioner</LEGAL_ROLE>
+
+<NAME end="106" start="98" all_names="MARYLAND" party2_of="111329_5" local_name_id="3" id="111329_7" >MARYLAND</NAME>
+
+<DOCKET end="122" entry_type="docket" lookup_key="robertsmaryland#1" id1="111329" start="115" citation_global_level_id="18667.001" line="1" id="111329_4" citation_local_level_id="3" >84-5173</DOCKET>
+
+<DATE start="166" end="183" id="111329_9" >November 13, 1984</DATE>
+
+<PROFESSION start="330" document_level_name_id="4" end="357" id="111329_18" party="MARSHALL" >Justice BRENNAN and Justice</PROFESSION>
+
+<NAME start="358" local_name_id="4" end="366" id="111329_19" all_names="MARSHALL" >MARSHALL</NAME>
+
+<RELATION standard_case_string="469 U.S. 1027" X_vs_Y_string="Gregory Bernard ROBERTS, petitioner, v. MARYLAND" standard_case="111329_1" X_vs_Y="111329_5" gram_type="pre_nom" relation_type="equivalence" id="111329_12" ></RELATION>
+
+<RELATION standard_case_string="105 S. Ct. 446" X_vs_Y_string="Gregory Bernard ROBERTS, petitioner, v. MARYLAND" standard_case="111329_2" X_vs_Y="111329_5" gram_type="pre_nom" relation_type="equivalence" id="111329_13" ></RELATION>
+
+<RELATION standard_case_string="83 L. Ed. 2d 372" X_vs_Y_string="Gregory Bernard ROBERTS, petitioner, v. MARYLAND" standard_case="111329_3" X_vs_Y="111329_5" gram_type="pre_nom" relation_type="equivalence" id="111329_11" ></RELATION>
+
+<RELATION theme="111329_5" includes_docket_string="84-5173" includes_docket="111329_4" theme_string="Gregory Bernard ROBERTS, petitioner, v. MARYLAND" gram_type="pre_nom" relation_type="asymmetric" id="111329_16" ></RELATION>
+
+<RELATION theme="111329_5" party1="111329_6" party1_string="Gregory Bernard ROBERTS," theme_string="Gregory Bernard ROBERTS, petitioner, v. MARYLAND" gram_type="infix" relation_type="asymmetric" id="111329_14" ></RELATION>
+
+<RELATION party2="111329_7" theme="111329_5" theme_string="Gregory Bernard ROBERTS, petitioner, v. MARYLAND" party2_string="MARYLAND" gram_type="infix" relation_type="asymmetric" id="111329_15" ></RELATION>
+
+<RELATION at_date_string="November 13, 1984" theme="111329_4" at_date="111329_9" theme_string="84-5173" gram_type="pre_nom" relation_type="asymmetric" id="111329_17" ></RELATION>
+
+<RELATION theme="111329_19" profession_string="Justice BRENNAN and Justice" theme_string="MARSHALL" profession="111329_18" gram_type="pre_nom" relation_type="asymmetric" id="111329_20" ></RELATION>
+

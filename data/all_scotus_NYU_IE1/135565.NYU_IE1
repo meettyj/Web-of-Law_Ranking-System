@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['lewisstates#9']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_981" id1="135572" volume="541" start="0" page_number="981" standard_reporter="U.S." citation_global_level_id="8816.002" line="1" id="135565_1" citation_local_level_id="0" >541 U.S. 981</CITATION>
+
+<CITATION party2="UNITED STATES" party1="LEWIS" citation_global_level_id="13227.001" party2_short="STATES" line="2" id="135565_2" alternative_keys="['u.s._541_981']" end="39" entry_type="party_key" lookup_key="lewisstates#9" id1="144289" start="17" party1_short="LEWIS" citation_local_level_id="1" >LEWIS v. UNITED STATES</CITATION>
+
+<NAME end="22" start="17" party1_of="135565_2" all_names="LEWIS" local_name_id="1" id="135565_3" >LEWIS</NAME>
+
+<NAME end="39" start="26" all_names="UNITED STATES" party2_of="135565_2" local_name_id="2" id="135565_4" >UNITED STATES</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="lewisstates#9" id1="144289" start="49" citation_global_level_id="13227.001" line="3" id="135565_7" citation_local_level_id="1" >03-9264</DOCKET>
+
+<ORGANIZATION start="62" end="92" id="135565_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="98" citation_global_level_id="13227.001" end="111" id="135565_9" citation_local_level_id="1" >April 5, 2004</DATE>
+
+<NAME start="143" local_name_id="3" end="146" id="135565_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="135565_2" party1="135565_3" party1_string="LEWIS" theme_string="LEWIS v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="135565_5" ></RELATION>
+
+<RELATION party2="135565_4" theme="135565_2" theme_string="LEWIS v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="135565_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 981" X_vs_Y_string="LEWIS v. UNITED STATES" standard_case="135565_1" X_vs_Y="135565_2" gram_type="multi_line" relation_type="equivalence" id="135565_10" ></RELATION>
+
+<RELATION at_date_string="April 5, 2004" theme="135565_2" at_date="135565_9" theme_string="LEWIS v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="135565_12" ></RELATION>
+
+<RELATION theme="135565_2" includes_docket_string="03-9264" includes_docket="135565_7" theme_string="LEWIS v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="135565_11" ></RELATION>
+

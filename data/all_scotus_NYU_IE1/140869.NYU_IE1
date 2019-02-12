@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['mitchellstumpf#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1042" id1="140867" volume="543" start="0" page_number="1042" standard_reporter="U.S." citation_global_level_id="758.002" line="1" id="140869_1" citation_local_level_id="0" >543 U.S. 1042</CITATION>
+
+<CITATION party2="STUMPF" party1="MITCHELL, WARDEN" citation_global_level_id="758.003" party2_short="STUMPF" line="2" id="140869_2" alternative_keys="['u.s._543_1042']" end="44" entry_type="party_key" lookup_key="mitchellstumpf#1" id1="140867" start="18" party1_short="MITCHELL" citation_local_level_id="1" >MITCHELL, WARDEN v. STUMPF</CITATION>
+
+<NAME end="34" start="18" party1_of="140869_2" all_names="MITCHELL WARDEN" local_name_id="1" id="140869_3" >MITCHELL, WARDEN</NAME>
+
+<PROFESSION start="28" end="34" id="140869_5" >WARDEN</PROFESSION>
+
+<NAME end="44" start="38" all_names="STUMPF" party2_of="140869_2" local_name_id="2" id="140869_4" >STUMPF</NAME>
+
+<DOCKET alternative_keys="['u.s._543_1042']" end="60" entry_type="docket" lookup_key="mitchellstumpf#1" id1="140867" start="54" citation_global_level_id="758.003" line="3" id="140869_8" citation_local_level_id="1" >04-637</DOCKET>
+
+<ORGANIZATION start="66" end="96" id="140869_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="102" citation_global_level_id="758.003" end="117" id="140869_10" citation_local_level_id="1" >January 7, 2005</DATE>
+
+<NAME start="149" local_name_id="3" end="152" id="140869_15" all_names="CIR" >Cir</NAME>
+
+<CITATION end="272" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_367_594" id1="Dummy_File_84361" volume="367" start="259" page_number="594" standard_reporter="F.3D" citation_global_level_id="148211.001" line="8" id="140869_14" citation_local_level_id="2" >367 F. 3d 594</CITATION>
+
+<RELATION theme="140869_2" party1="140869_3" party1_string="MITCHELL, WARDEN" theme_string="MITCHELL, WARDEN v. STUMPF" gram_type="infix" relation_type="asymmetric" id="140869_6" ></RELATION>
+
+<RELATION party2="140869_4" theme="140869_2" theme_string="MITCHELL, WARDEN v. STUMPF" party2_string="STUMPF" gram_type="infix" relation_type="asymmetric" id="140869_7" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1042" X_vs_Y_string="MITCHELL, WARDEN v. STUMPF" standard_case="140869_1" X_vs_Y="140869_2" gram_type="multi_line" relation_type="equivalence" id="140869_11" ></RELATION>
+
+<RELATION at_date_string="January 7, 2005" theme="140869_2" at_date="140869_10" theme_string="MITCHELL, WARDEN v. STUMPF" gram_type="multi_line" relation_type="asymmetric" id="140869_13" ></RELATION>
+
+<RELATION theme="140869_2" includes_docket_string="04-637" includes_docket="140869_8" theme_string="MITCHELL, WARDEN v. STUMPF" gram_type="multi_line" relation_type="asymmetric" id="140869_12" ></RELATION>
+

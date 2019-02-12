@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['whittleseyconroy#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_930" id1="128270" volume="538" start="0" page_number="930" standard_reporter="U.S." citation_global_level_id="5460.002" line="1" id="128276_1" citation_local_level_id="0" >538 U.S. 930</CITATION>
+
+<CITATION party2="CONROY, WARDEN, ET AL" party1="WHITTLESEY" citation_global_level_id="5460.005" party2_short="CONROY" line="1" id="128276_3" alternative_keys="['u.s._538_930']" end="52" entry_type="party_key" lookup_key="whittleseyconroy#1" id1="128270" start="17" party1_short="WHITTLESEY" citation_local_level_id="1" >WHITTLESEY v. CONROY, WARDEN, ET AL</CITATION>
+
+<NAME end="27" start="17" party1_of="128276_3" all_names="WHITTLESEY" local_name_id="1" id="128276_4" >WHITTLESEY</NAME>
+
+<NAME end="52" start="31" all_names="CONROY WARDEN" party2_of="128276_3" local_name_id="2" id="128276_5" >CONROY, WARDEN, ET AL</NAME>
+
+<DOCKET end="69" entry_type="docket" lookup_key="u.s._538_930" id1="128270" start="62" citation_global_level_id="5460.002" line="1" id="128276_2" citation_local_level_id="0" >02-8592</DOCKET>
+
+<DATE start="111" end="125" id="128276_6" >March 24, 2003</DATE>
+
+<NAME start="255" local_name_id="3" end="258" id="128276_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="307" reporter="F.3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_301_213" id1="Dummy_File_66840" volume="301" start="295" page_number="213" standard_reporter="F.3D" citation_global_level_id="130690.001" line="3" id="128276_12" citation_local_level_id="2" >301 F.3d 213</CITATION>
+
+<RELATION theme="128276_1" includes_docket_string="02-8592" includes_docket="128276_2" theme_string="538 U.S. 930" gram_type="apposition" relation_type="asymmetric" id="128276_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 930" X_vs_Y_string="WHITTLESEY v. CONROY, WARDEN, ET AL" standard_case="128276_1" X_vs_Y="128276_3" gram_type="pre_nom" relation_type="equivalence" id="128276_7" ></RELATION>
+
+<RELATION theme="128276_3" includes_docket_string="02-8592" includes_docket="128276_2" theme_string="WHITTLESEY v. CONROY, WARDEN, ET AL" gram_type="apposition" relation_type="asymmetric" id="128276_10" ></RELATION>
+
+<RELATION theme="128276_3" party1="128276_4" party1_string="WHITTLESEY" theme_string="WHITTLESEY v. CONROY, WARDEN, ET AL" gram_type="infix" relation_type="asymmetric" id="128276_8" ></RELATION>
+
+<RELATION party2="128276_5" theme="128276_3" theme_string="WHITTLESEY v. CONROY, WARDEN, ET AL" party2_string="CONROY, WARDEN, ET AL" gram_type="infix" relation_type="asymmetric" id="128276_9" ></RELATION>
+

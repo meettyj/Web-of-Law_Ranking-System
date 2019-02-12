@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['withrowwilliams#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1073" id1="116371" volume="510" start="0" page_number="1073" standard_reporter="U.S." citation_global_level_id="735.002" line="1" id="116374_1" citation_local_level_id="0" >510 U.S. 1073</CITATION>
+
+<CITATION party2="Williams" party1="Withrow" citation_global_level_id="44313.001" party2_short="Williams" line="1" id="116374_3" alternative_keys="['u.s._510_1073']" end="37" entry_type="party_key" lookup_key="withrowwilliams#2" id1="116374" start="18" party1_short="Withrow" citation_local_level_id="1" >Withrow v. Williams</CITATION>
+
+<NAME end="25" start="18" party1_of="116374_3" all_names="WITHROW" local_name_id="1" id="116374_4" >Withrow</NAME>
+
+<NAME end="37" start="29" all_names="WILLIAMS" party2_of="116374_3" local_name_id="2" id="116374_5" >Williams</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="u.s._510_1073" id1="116371" start="47" citation_global_level_id="735.002" line="1" id="116374_2" citation_local_level_id="0" >93-807</DOCKET>
+
+<DATE start="95" end="111" id="116374_6" >January 18, 1994</DATE>
+
+<NAME start="189" local_name_id="3" end="199" id="116374_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="236" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_2_1152" id1="Dummy_File_25086" volume="2" start="224" page_number="1152" standard_reporter="F.3D" citation_global_level_id="88936.001" line="3" id="116374_12" citation_local_level_id="2" >2 F. 3d 1152</CITATION>
+
+<RELATION theme="116374_1" includes_docket_string="93-807" includes_docket="116374_2" theme_string="510 U.S. 1073" gram_type="apposition" relation_type="asymmetric" id="116374_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1073" X_vs_Y_string="Withrow v. Williams" standard_case="116374_1" X_vs_Y="116374_3" gram_type="pre_nom" relation_type="equivalence" id="116374_7" ></RELATION>
+
+<RELATION theme="116374_3" includes_docket_string="93-807" includes_docket="116374_2" theme_string="Withrow v. Williams" gram_type="apposition" relation_type="asymmetric" id="116374_10" ></RELATION>
+
+<RELATION theme="116374_3" party1="116374_4" party1_string="Withrow" theme_string="Withrow v. Williams" gram_type="infix" relation_type="asymmetric" id="116374_8" ></RELATION>
+
+<RELATION party2="116374_5" theme="116374_3" theme_string="Withrow v. Williams" party2_string="Williams" gram_type="infix" relation_type="asymmetric" id="116374_9" ></RELATION>
+

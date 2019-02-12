@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['gattissnyder#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1049" id1="125386" volume="537" start="0" page_number="1049" standard_reporter="U.S." citation_global_level_id="6400.002" line="1" id="125383_1" citation_local_level_id="0" >537 U.S. 1049</CITATION>
+
+<CITATION party2="SNYDER, WARDEN" party1="GATTIS" citation_global_level_id="6400.006" party2_short="SNYDER" line="1" id="125383_3" alternative_keys="['u.s._537_1049']" end="42" entry_type="party_key" lookup_key="gattissnyder#1" id1="125386" start="18" party1_short="GATTIS" citation_local_level_id="1" >GATTIS v. SNYDER, WARDEN</CITATION>
+
+<NAME end="24" start="18" party1_of="125383_3" all_names="GATTIS" local_name_id="1" id="125383_4" >GATTIS</NAME>
+
+<NAME end="42" start="28" all_names="SNYDER WARDEN" party2_of="125383_3" local_name_id="2" id="125383_5" >SNYDER, WARDEN</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="u.s._537_1049" id1="125386" start="52" citation_global_level_id="6400.002" line="1" id="125383_2" citation_local_level_id="0" >02-5363</DOCKET>
+
+<DATE start="101" end="117" id="125383_6" >December 2, 2002</DATE>
+
+<NAME start="245" local_name_id="3" end="248" id="125383_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="298" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_278_222" id1="Dummy_File_87617" volume="278" start="285" page_number="222" standard_reporter="F.3D" citation_global_level_id="151467.001" line="3" id="125383_12" citation_local_level_id="2" >278 F. 3d 222</CITATION>
+
+<RELATION theme="125383_1" includes_docket_string="02-5363" includes_docket="125383_2" theme_string="537 U.S. 1049" gram_type="apposition" relation_type="asymmetric" id="125383_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1049" X_vs_Y_string="GATTIS v. SNYDER, WARDEN" standard_case="125383_1" X_vs_Y="125383_3" gram_type="pre_nom" relation_type="equivalence" id="125383_7" ></RELATION>
+
+<RELATION theme="125383_3" includes_docket_string="02-5363" includes_docket="125383_2" theme_string="GATTIS v. SNYDER, WARDEN" gram_type="apposition" relation_type="asymmetric" id="125383_10" ></RELATION>
+
+<RELATION theme="125383_3" party1="125383_4" party1_string="GATTIS" theme_string="GATTIS v. SNYDER, WARDEN" gram_type="infix" relation_type="asymmetric" id="125383_8" ></RELATION>
+
+<RELATION party2="125383_5" theme="125383_3" theme_string="GATTIS v. SNYDER, WARDEN" party2_string="SNYDER, WARDEN" gram_type="infix" relation_type="asymmetric" id="125383_9" ></RELATION>
+

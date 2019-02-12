@@ -1,0 +1,40 @@
+<CITATION alternative_keys="['insauthority#1', 's.ct._88_1417', 'l.ed.2d_20_253']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._390_716" id1="107666" volume="390" start="0" page_number="716" standard_reporter="U.S." citation_global_level_id="29168.002" line="1" id="107666_1" citation_local_level_id="0" >390 U.S. 716</CITATION>
+
+<CITATION alternative_keys="['u.s._390_716', 'insauthority#1', 'l.ed.2d_20_253']" end="31" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._88_1417" id1="107666" volume="88" start="17" page_number="1417" standard_reporter="S.CT." citation_global_level_id="29168.003" line="1" id="107666_2" citation_local_level_id="1" >88 S. Ct. 1417</CITATION>
+
+<NAME start="20" local_name_id="1" end="25" id="107666_9" all_names="S CT" >S. Ct</NAME>
+
+<CITATION alternative_keys="['u.s._390_716', 's.ct._88_1417', 'insauthority#1']" end="52" reporter="L. Ed. 2d" entry_type="standard_key" lookup_key="l.ed.2d_20_253" id1="107666" volume="20" start="36" page_number="253" standard_reporter="L.ED.2D" citation_global_level_id="29168.004" line="1" id="107666_3" citation_local_level_id="2" >20 L. Ed. 2d 253</CITATION>
+
+<CITATION party2="HOUSING AUTHORITY OF CITY OF CAMDEN et al" party1="SAFEGUARD MUTUAL INS. CO." citation_global_level_id="29168.001" party2_short="AUTHORITY" line="1" id="107666_4" alternative_keys="['u.s._390_716', 's.ct._88_1417', 'l.ed.2d_20_253']" end="127" entry_type="party_key" lookup_key="insauthority#1" id1="107666" start="57" party1_short="INS" citation_local_level_id="3" >SAFEGUARD MUTUAL INS. CO. v. HOUSING AUTHORITY OF CITY OF CAMDEN et al</CITATION>
+
+<NAME end="82" start="57" party1_of="107666_4" all_names="SAFEGUARD MUTUAL INS CO" local_name_id="2" id="107666_5" >SAFEGUARD MUTUAL INS. CO.</NAME>
+
+<ORGANIZATION start="79" end="81" id="107666_10" >CO</ORGANIZATION>
+
+<NAME end="127" start="86" all_names="HOUSING AUTHORITY OF CITY OF CAMDEN" party2_of="107666_4" local_name_id="3" id="107666_6" >HOUSING AUTHORITY OF CITY OF CAMDEN et al</NAME>
+
+<DATE start="200" end="204" id="107666_7" >1967</DATE>
+
+<DATE start="210" end="224" id="107666_8" >April 22, 1968</DATE>
+
+<NAME start="304" local_name_id="4" end="321" id="107666_16" all_names="BRYAN B MCKERNAN" >Bryan B. McKernan</NAME>
+
+<LEGAL_ROLE end="335" name="Housing Authority of City of Camden" start="327" party="party2" local_name_id="3" id="107666_17" >appellee</LEGAL_ROLE>
+
+<NAME start="336" local_name_id="3" end="371" id="107666_18" all_names="HOUSING AUTHORITY OF CITY OF CAMDEN" >Housing Authority of City of Camden</NAME>
+
+<NAME start="383" local_name_id="5" end="389" id="107666_20" all_names="CURIAM" >CURIAM</NAME>
+
+<RELATION standard_case_string="390 U.S. 716" X_vs_Y_string="SAFEGUARD MUTUAL INS. CO. v. HOUSING AUTHORITY OF CITY OF CAMDEN et al" standard_case="107666_1" X_vs_Y="107666_4" gram_type="pre_nom" relation_type="equivalence" id="107666_12" ></RELATION>
+
+<RELATION standard_case_string="88 S. Ct. 1417" X_vs_Y_string="SAFEGUARD MUTUAL INS. CO. v. HOUSING AUTHORITY OF CITY OF CAMDEN et al" standard_case="107666_2" X_vs_Y="107666_4" gram_type="pre_nom" relation_type="equivalence" id="107666_13" ></RELATION>
+
+<RELATION standard_case_string="20 L. Ed. 2d 253" X_vs_Y_string="SAFEGUARD MUTUAL INS. CO. v. HOUSING AUTHORITY OF CITY OF CAMDEN et al" standard_case="107666_3" X_vs_Y="107666_4" gram_type="pre_nom" relation_type="equivalence" id="107666_11" ></RELATION>
+
+<RELATION theme="107666_4" party1="107666_5" party1_string="SAFEGUARD MUTUAL INS. CO." theme_string="SAFEGUARD MUTUAL INS. CO. v. HOUSING AUTHORITY OF CITY OF CAMDEN et al" gram_type="infix" relation_type="asymmetric" id="107666_14" ></RELATION>
+
+<RELATION party2="107666_6" theme="107666_4" theme_string="SAFEGUARD MUTUAL INS. CO. v. HOUSING AUTHORITY OF CITY OF CAMDEN et al" party2_string="HOUSING AUTHORITY OF CITY OF CAMDEN et al" gram_type="infix" relation_type="asymmetric" id="107666_15" ></RELATION>
+
+<RELATION theme="107666_18" legal_role="107666_17" id="107666_19" theme_string="Housing Authority of City of Camden" gram_type="pre_nom" relation_type="asymmetric" legal_role_string="appellee" ></RELATION>
+

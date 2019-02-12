@@ -1,0 +1,36 @@
+<CITATION alternative_keys="['limonkansas#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_955" id1="130818" volume="539" start="0" page_number="955" standard_reporter="U.S." citation_global_level_id="2180.002" line="1" id="130819_1" citation_local_level_id="0" >539 U.S. 955</CITATION>
+
+<CITATION party2="Kansas" party1="Limon" citation_global_level_id="53225.001" party2_short="Kansas" line="1" id="130819_3" alternative_keys="['u.s._539_955']" end="32" entry_type="party_key" lookup_key="limonkansas#1" id1="130819" start="17" party1_short="Limon" citation_local_level_id="1" >Limon v. Kansas</CITATION>
+
+<NAME end="22" start="17" party1_of="130819_3" all_names="LIMON" local_name_id="1" id="130819_4" >Limon</NAME>
+
+<NAME end="32" start="26" all_names="KANSAS" party2_of="130819_3" local_name_id="2" id="130819_5" >Kansas</NAME>
+
+<DOCKET end="48" entry_type="docket" lookup_key="u.s._539_955" id1="130818" start="42" citation_global_level_id="2180.002" line="1" id="130819_2" citation_local_level_id="0" >02-583</DOCKET>
+
+<DATE start="90" end="103" id="130819_6" >June 27, 2003</DATE>
+
+<NAME start="180" local_name_id="3" end="190" id="130819_16" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION party2="Texas" party1="Lawrence" citation_global_level_id="55956.001" party2_short="Texas" line="3" id="130819_13" end="291" entry_type="party_key" lookup_key="lawrencetexas#6" id1="128131" start="274" party1_short="Lawrence" citation_local_level_id="2" >Lawrence v. Texas</CITATION>
+
+<NAME end="282" start="274" party1_of="130819_13" all_names="LAWRENCE" local_name_id="4" id="130819_14" >Lawrence</NAME>
+
+<NAME end="291" start="286" all_names="TEXAS" party2_of="130819_13" local_name_id="5" id="130819_15" >Texas</NAME>
+
+<CITATION end="357" reporter="P. 3d" entry_type="standard_key" no_current_file="True" lookup_key="p.3d_41_303" id1="Dummy_File_40931" volume="41" start="345" page_number="303" standard_reporter="P.3D" citation_global_level_id="104781.001" line="3" id="130819_12" citation_local_level_id="3" >41 P. 3d 303</CITATION>
+
+<RELATION theme="130819_1" includes_docket_string="02-583" includes_docket="130819_2" theme_string="539 U.S. 955" gram_type="apposition" relation_type="asymmetric" id="130819_11" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 955" X_vs_Y_string="Limon v. Kansas" standard_case="130819_1" X_vs_Y="130819_3" gram_type="pre_nom" relation_type="equivalence" id="130819_7" ></RELATION>
+
+<RELATION theme="130819_3" includes_docket_string="02-583" includes_docket="130819_2" theme_string="Limon v. Kansas" gram_type="apposition" relation_type="asymmetric" id="130819_10" ></RELATION>
+
+<RELATION theme="130819_3" party1="130819_4" party1_string="Limon" theme_string="Limon v. Kansas" gram_type="infix" relation_type="asymmetric" id="130819_8" ></RELATION>
+
+<RELATION party2="130819_5" theme="130819_3" theme_string="Limon v. Kansas" party2_string="Kansas" gram_type="infix" relation_type="asymmetric" id="130819_9" ></RELATION>
+
+<RELATION theme="130819_13" party1="130819_14" party1_string="Lawrence" theme_string="Lawrence v. Texas" gram_type="infix" relation_type="asymmetric" id="130819_17" ></RELATION>
+
+<RELATION party2="130819_15" theme="130819_13" theme_string="Lawrence v. Texas" party2_string="Texas" gram_type="infix" relation_type="asymmetric" id="130819_18" ></RELATION>
+

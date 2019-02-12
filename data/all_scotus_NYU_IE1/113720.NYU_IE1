@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['dvorakfritz#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_865" id1="113717" volume="510" start="0" page_number="865" standard_reporter="U.S." citation_global_level_id="2528.002" line="1" id="113720_1" citation_local_level_id="0" >510 U.S. 865</CITATION>
+
+<CITATION party2="Fritz" party1="Dvorak" citation_global_level_id="56567.001" party2_short="Fritz" line="1" id="113720_3" alternative_keys="['u.s._510_865']" end="32" entry_type="party_key" lookup_key="dvorakfritz#1" id1="113720" start="17" party1_short="Dvorak" citation_local_level_id="1" >Dvorak v. Fritz</CITATION>
+
+<NAME end="23" start="17" party1_of="113720_3" all_names="DVORAK" local_name_id="1" id="113720_4" >Dvorak</NAME>
+
+<NAME end="32" start="27" all_names="FRITZ" party2_of="113720_3" local_name_id="2" id="113720_5" >Fritz</NAME>
+
+<DOCKET end="48" entry_type="docket" lookup_key="u.s._510_865" id1="113717" start="42" citation_global_level_id="2528.002" line="1" id="113720_2" citation_local_level_id="0" >93-132</DOCKET>
+
+<DATE start="90" end="105" id="113720_6" >October 4, 1993</DATE>
+
+<NAME start="183" local_name_id="3" end="193" id="113720_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="231" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_992_324" id1="Dummy_File_26083" volume="992" start="218" page_number="324" standard_reporter="F.2D" citation_global_level_id="89933.001" line="3" id="113720_12" citation_local_level_id="2" >992 F. 2d 324</CITATION>
+
+<RELATION theme="113720_1" includes_docket_string="93-132" includes_docket="113720_2" theme_string="510 U.S. 865" gram_type="apposition" relation_type="asymmetric" id="113720_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 865" X_vs_Y_string="Dvorak v. Fritz" standard_case="113720_1" X_vs_Y="113720_3" gram_type="pre_nom" relation_type="equivalence" id="113720_7" ></RELATION>
+
+<RELATION theme="113720_3" includes_docket_string="93-132" includes_docket="113720_2" theme_string="Dvorak v. Fritz" gram_type="apposition" relation_type="asymmetric" id="113720_10" ></RELATION>
+
+<RELATION theme="113720_3" party1="113720_4" party1_string="Dvorak" theme_string="Dvorak v. Fritz" gram_type="infix" relation_type="asymmetric" id="113720_8" ></RELATION>
+
+<RELATION party2="113720_5" theme="113720_3" theme_string="Dvorak v. Fritz" party2_string="Fritz" gram_type="infix" relation_type="asymmetric" id="113720_9" ></RELATION>
+

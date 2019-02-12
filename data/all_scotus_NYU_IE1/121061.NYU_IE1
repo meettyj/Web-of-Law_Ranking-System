@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['fergusonmcginnis#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1116" id1="121071" volume="535" start="0" page_number="1116" standard_reporter="U.S." citation_global_level_id="1028.002" line="1" id="121061_1" citation_local_level_id="0" >535 U.S. 1116</CITATION>
+
+<CITATION party2="McGINNIS, SUPERINTENDENT, DOWNSTATE CORRECTIONAL FACILITY" party1="FERGUSON" citation_global_level_id="1028.007" party2_short="McGINNIS" line="2" id="121061_2" alternative_keys="['u.s._535_1116']" end="87" entry_type="party_key" lookup_key="fergusonmcginnis#1" id1="121071" start="18" party1_short="FERGUSON" citation_local_level_id="1" >FERGUSON v. McGINNIS, SUPERINTENDENT, DOWNSTATE CORRECTIONAL FACILITY</CITATION>
+
+<NAME end="26" start="18" party1_of="121061_2" all_names="FERGUSON" local_name_id="1" id="121061_3" >FERGUSON</NAME>
+
+<NAME end="87" start="30" all_names="MCGINNIS SUPERINTENDENT DOWNSTATE CORRECTIONAL FACILITY" party2_of="121061_2" local_name_id="2" id="121061_4" >McGINNIS, SUPERINTENDENT, DOWNSTATE CORRECTIONAL FACILITY</NAME>
+
+<DOCKET alternative_keys="['u.s._535_1116']" end="104" entry_type="docket" lookup_key="fergusonmcginnis#1" id1="121071" start="97" citation_global_level_id="1028.007" line="3" id="121061_7" citation_local_level_id="1" >01-9402</DOCKET>
+
+<DATE start="150" citation_global_level_id="1028.007" end="162" id="121061_8" citation_local_level_id="1" >June 3, 2002</DATE>
+
+<NAME start="193" local_name_id="3" end="196" id="121061_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="121061_2" party1="121061_3" party1_string="FERGUSON" theme_string="FERGUSON v. McGINNIS, SUPERINTENDENT, DOWNSTATE CORRECTIONAL FACILITY" gram_type="infix" relation_type="asymmetric" id="121061_5" ></RELATION>
+
+<RELATION party2="121061_4" theme="121061_2" theme_string="FERGUSON v. McGINNIS, SUPERINTENDENT, DOWNSTATE CORRECTIONAL FACILITY" party2_string="McGINNIS, SUPERINTENDENT, DOWNSTATE CORRECTIONAL FACILITY" gram_type="infix" relation_type="asymmetric" id="121061_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1116" X_vs_Y_string="FERGUSON v. McGINNIS, SUPERINTENDENT, DOWNSTATE CORRECTIONAL FACILITY" standard_case="121061_1" X_vs_Y="121061_2" gram_type="multi_line" relation_type="equivalence" id="121061_9" ></RELATION>
+
+<RELATION at_date_string="June 3, 2002" theme="121061_2" at_date="121061_8" theme_string="FERGUSON v. McGINNIS, SUPERINTENDENT, DOWNSTATE CORRECTIONAL FACILITY" gram_type="multi_line" relation_type="asymmetric" id="121061_11" ></RELATION>
+
+<RELATION theme="121061_2" includes_docket_string="01-9402" includes_docket="121061_7" theme_string="FERGUSON v. McGINNIS, SUPERINTENDENT, DOWNSTATE CORRECTIONAL FACILITY" gram_type="multi_line" relation_type="asymmetric" id="121061_10" ></RELATION>
+

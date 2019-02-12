@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['busbytexas#1', 'a._04_168']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._542_961" id1="137675" volume="542" start="0" page_number="961" standard_reporter="U.S." citation_global_level_id="1549.002" line="1" id="137671_1" citation_local_level_id="0" >542 U.S. 961</CITATION>
+
+<CITATION party2="TEXAS" party1="BUSBY" citation_global_level_id="53879.001" party2_short="TEXAS" line="2" id="137671_2" alternative_keys="['u.s._542_961', 'a._04_168']" end="31" entry_type="party_key" lookup_key="busbytexas#1" id1="137671" start="17" party1_short="BUSBY" citation_local_level_id="1" >BUSBY v. TEXAS</CITATION>
+
+<NAME end="22" start="17" party1_of="137671_2" all_names="BUSBY" local_name_id="1" id="137671_3" >BUSBY</NAME>
+
+<NAME end="31" start="26" all_names="TEXAS" party2_of="137671_2" local_name_id="2" id="137671_4" >TEXAS</NAME>
+
+<DOCKET end="48" entry_type="docket" lookup_key="busbytexas#1" id1="137671" start="41" citation_global_level_id="53879.001" line="3" id="137671_8" citation_local_level_id="1" >04-6001</DOCKET>
+
+<CITATION alternative_keys="['u.s._542_961', 'busbytexas#1']" end="56" reporter="A" entry_type="standard_key" lookup_key="a._04_168" id1="137671" volume="04" start="50" page_number="168" standard_reporter="A." citation_global_level_id="53879.002" line="3" id="137671_7" citation_local_level_id="2" >04A168</CITATION>
+
+<ORGANIZATION start="63" end="93" id="137671_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="99" citation_global_level_id="53879.001" end="114" id="137671_10" citation_local_level_id="1" >August 25, 2004</DATE>
+
+<NAME start="136" local_name_id="3" end="138" id="137671_15" all_names="CT" >Ct</NAME>
+
+<RELATION theme="137671_2" party1="137671_3" party1_string="BUSBY" theme_string="BUSBY v. TEXAS" gram_type="infix" relation_type="asymmetric" id="137671_5" ></RELATION>
+
+<RELATION party2="137671_4" theme="137671_2" theme_string="BUSBY v. TEXAS" party2_string="TEXAS" gram_type="infix" relation_type="asymmetric" id="137671_6" ></RELATION>
+
+<RELATION standard_case_string="542 U.S. 961" X_vs_Y_string="BUSBY v. TEXAS" standard_case="137671_1" X_vs_Y="137671_2" gram_type="multi_line" relation_type="equivalence" id="137671_11" ></RELATION>
+
+<RELATION at_date_string="August 25, 2004" theme="137671_2" at_date="137671_10" theme_string="BUSBY v. TEXAS" gram_type="multi_line" relation_type="asymmetric" id="137671_14" ></RELATION>
+
+<RELATION standard_case_string="04A168" X_vs_Y_string="BUSBY v. TEXAS" standard_case="137671_7" X_vs_Y="137671_2" gram_type="multi_line" relation_type="equivalence" id="137671_12" ></RELATION>
+
+<RELATION theme="137671_2" includes_docket_string="04-6001" includes_docket="137671_8" theme_string="BUSBY v. TEXAS" gram_type="multi_line" relation_type="asymmetric" id="137671_13" ></RELATION>
+

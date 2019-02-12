@@ -1,0 +1,44 @@
+<DATE start="2" end="6" id="1289918_1" >2007</DATE>
+
+<CITATION party2="HONG Y. GAO" party1="KEISLER, ACTING ATT'Y GEN." citation_global_level_id="46288.001" party2_short="GAO" line="5" id="1289918_5" end="51" entry_type="party_key" lookup_key="keislergao#1" id1="1289918" start="8" party1_short="KEISLER" citation_local_level_id="0" >KEISLER, ACTING ATT'Y GEN. v. HONG Y. GAO</CITATION>
+
+<NAME end="34" start="8" party1_of="1289918_5" all_names="KEISLER ACTING ATT'Y GEN" local_name_id="1" id="1289918_6" >KEISLER, ACTING ATT'Y GEN.</NAME>
+
+<PROFESSION start="17" end="33" id="1289918_8" >ACTING ATT'Y GEN</PROFESSION>
+
+<NAME end="51" start="40" all_names="HONG Y GAO" party2_of="1289918_5" local_name_id="2" id="1289918_7" >HONG Y. GAO</NAME>
+
+<DOCKET end="63" entry_type="docket" lookup_key="keislergao#1" id1="1289918" start="56" citation_global_level_id="46288.001" line="6" id="1289918_11" citation_local_level_id="0" >06-1264</DOCKET>
+
+<ORGANIZATION start="64" end="94" id="1289918_12" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="96" citation_global_level_id="46288.001" end="111" id="1289918_13" citation_local_level_id="0" >October 1, 2007</DATE>
+
+<ORGANIZATION start="220" end="273" id="1289918_21" >United States Court of Appeals for the Second Circuit</ORGANIZATION>
+
+<CITATION party2="Thomas" party1="Gonzales" citation_global_level_id="50607.001" party2_short="Thomas" line="10" id="1289918_17" alternative_keys="['u.s._547_183']" end="330" entry_type="party_key" lookup_key="gonzalesthomas#1" id1="145667" start="312" party1_short="Gonzales" citation_local_level_id="1" >Gonzales v. Thomas</CITATION>
+
+<NAME end="320" start="312" party1_of="1289918_17" all_names="GONZALES" local_name_id="3" id="1289918_18" >Gonzales</NAME>
+
+<NAME end="330" start="324" all_names="THOMAS" party2_of="1289918_17" local_name_id="4" id="1289918_19" >Thomas</NAME>
+
+<CITATION alternative_keys="['gonzalesthomas#1']" end="351" reporter="U.S." entry_type="standard_key" lookup_key="u.s._547_183" id1="145903" volume="547" start="332" page_number="183" year="2006" standard_reporter="U.S." citation_global_level_id="3727.005" line="10" id="1289918_16" citation_local_level_id="2" >547 U.S. 183 (2006)</CITATION>
+
+<DATE start="346" citation_global_level_id="3727.005" end="350" id="1289918_20" citation_local_level_id="2" >2006</DATE>
+
+<RELATION party2="1289918_7" theme="1289918_5" theme_string="KEISLER, ACTING ATT'Y GEN.  v.  HONG Y. GAO" party2_string="HONG Y. GAO" gram_type="infix" relation_type="asymmetric" id="1289918_10" ></RELATION>
+
+<RELATION theme="1289918_5" party1="1289918_6" party1_string="KEISLER, ACTING ATT'Y GEN." theme_string="KEISLER, ACTING ATT'Y GEN.  v.  HONG Y. GAO" gram_type="infix" relation_type="asymmetric" id="1289918_9" ></RELATION>
+
+<RELATION at_date_string="October 1, 2007" theme="1289918_5" at_date="1289918_13" theme_string="KEISLER, ACTING ATT'Y GEN.  v.  HONG Y. GAO" gram_type="multi_line" relation_type="asymmetric" id="1289918_15" ></RELATION>
+
+<RELATION theme="1289918_5" includes_docket_string="06-1264" includes_docket="1289918_11" theme_string="KEISLER, ACTING ATT'Y GEN.  v.  HONG Y. GAO" gram_type="multi_line" relation_type="asymmetric" id="1289918_14" ></RELATION>
+
+<RELATION standard_case_string="547 U.S. 183 (2006)" X_vs_Y_string="Gonzales v. Thomas" standard_case="1289918_16" X_vs_Y="1289918_17" gram_type="apposition" relation_type="equivalence" id="1289918_24" ></RELATION>
+
+<RELATION theme="1289918_17" party1="1289918_18" party1_string="Gonzales" theme_string="Gonzales v. Thomas" gram_type="infix" relation_type="asymmetric" id="1289918_22" ></RELATION>
+
+<RELATION party2="1289918_19" theme="1289918_17" theme_string="Gonzales v. Thomas" party2_string="Thomas" gram_type="infix" relation_type="asymmetric" id="1289918_23" ></RELATION>
+
+<RELATION at_date_string="2006" theme="1289918_16" at_date="1289918_20" theme_string="547 U.S. 183 (2006)" gram_type="infix" relation_type="asymmetric" id="1289918_25" ></RELATION>
+

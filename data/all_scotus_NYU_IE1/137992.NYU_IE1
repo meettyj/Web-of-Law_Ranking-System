@@ -1,0 +1,34 @@
+<CITATION alternative_keys="['roachsaldano#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_820" id1="137987" volume="543" start="0" page_number="820" standard_reporter="U.S." citation_global_level_id="877.002" line="1" id="137992_1" citation_local_level_id="0" >543 U.S. 820</CITATION>
+
+<CITATION party2="SALDANO ET AL" party1="ROACH" citation_global_level_id="44439.001" party2_short="SALDANO" line="2" id="137992_2" alternative_keys="['u.s._543_820']" end="39" entry_type="party_key" lookup_key="roachsaldano#1" id1="137992" start="17" party1_short="ROACH" citation_local_level_id="1" >ROACH v. SALDANO ET AL</CITATION>
+
+<NAME end="22" start="17" party1_of="137992_2" all_names="ROACH" local_name_id="1" id="137992_3" >ROACH</NAME>
+
+<NAME end="39" start="26" all_names="SALDANO" party2_of="137992_2" local_name_id="2" id="137992_4" >SALDANO ET AL</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="roachsaldano#1" id1="137992" start="49" citation_global_level_id="44439.001" line="3" id="137992_7" citation_local_level_id="1" >03-1704</DOCKET>
+
+<DATE start="52" end="56" id="137992_8" >1704</DATE>
+
+<ORGANIZATION start="62" end="92" id="137992_10" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="98" citation_global_level_id="44439.001" end="113" id="137992_11" citation_local_level_id="1" >October 4, 2004</DATE>
+
+<NAME start="145" local_name_id="3" end="148" id="137992_17" all_names="CIR" >Cir</NAME>
+
+<CITATION end="198" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_363_545" id1="Dummy_File_126216" volume="363" start="185" page_number="545" standard_reporter="F.3D" citation_global_level_id="190066.001" line="8" id="137992_16" citation_local_level_id="2" >363 F. 3d 545</CITATION>
+
+<RELATION theme="137992_2" party1="137992_3" party1_string="ROACH" theme_string="ROACH v. SALDANO ET AL" gram_type="infix" relation_type="asymmetric" id="137992_5" ></RELATION>
+
+<RELATION party2="137992_4" theme="137992_2" theme_string="ROACH v. SALDANO ET AL" party2_string="SALDANO ET AL" gram_type="infix" relation_type="asymmetric" id="137992_6" ></RELATION>
+
+<RELATION at_date_string="1704" theme="137992_7" at_date="137992_8" theme_string="03-1704" gram_type="infix" relation_type="asymmetric" id="137992_9" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 820" X_vs_Y_string="ROACH v. SALDANO ET AL" standard_case="137992_1" X_vs_Y="137992_2" gram_type="multi_line" relation_type="equivalence" id="137992_12" ></RELATION>
+
+<RELATION at_date_string="October 4, 2004" theme="137992_2" at_date="137992_11" theme_string="ROACH v. SALDANO ET AL" gram_type="multi_line" relation_type="asymmetric" id="137992_15" ></RELATION>
+
+<RELATION theme="137992_2" includes_docket_string="03-1704" includes_docket="137992_7" theme_string="ROACH v. SALDANO ET AL" gram_type="multi_line" relation_type="asymmetric" id="137992_13" ></RELATION>
+
+<RELATION at_date_string="1704" theme="137992_2" at_date="137992_8" theme_string="ROACH v. SALDANO ET AL" gram_type="multi_line" relation_type="asymmetric" id="137992_14" ></RELATION>
+

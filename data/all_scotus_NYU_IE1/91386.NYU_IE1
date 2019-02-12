@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['statespetit#1', 's.ct._5_1190', 'l.ed._29_93']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._114_429" id1="91386" volume="114" start="0" page_number="429" standard_reporter="U.S." citation_global_level_id="50927.002" line="1" id="91386_1" citation_local_level_id="0" >114 U.S. 429</CITATION>
+
+<CITATION alternative_keys="['u.s._114_429', 'statespetit#1', 'l.ed._29_93']" end="30" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._5_1190" id1="91386" volume="5" start="17" page_number="1190" standard_reporter="S.CT." citation_global_level_id="50927.003" line="2" id="91386_2" citation_local_level_id="1" >5 S. Ct. 1190</CITATION>
+
+<CITATION alternative_keys="['u.s._114_429', 's.ct._5_1190', 'statespetit#1']" end="47" reporter="L. Ed." entry_type="standard_key" lookup_key="l.ed._29_93" id1="91386" volume="29" start="35" page_number="93" standard_reporter="L.ED." citation_global_level_id="50927.004" line="3" id="91386_3" citation_local_level_id="2" >29 L. Ed. 93</CITATION>
+
+<CITATION party2="PETIT" party1="UNITED STATES" citation_global_level_id="50927.001" party2_short="PETIT" line="4" id="91386_4" alternative_keys="['u.s._114_429', 's.ct._5_1190', 'l.ed._29_93']" end="74" entry_type="party_key" lookup_key="statespetit#1" id1="91386" start="52" party1_short="STATES" citation_local_level_id="3" >UNITED STATES v. PETIT</CITATION>
+
+<NAME end="65" start="52" party1_of="91386_4" all_names="UNITED STATES" local_name_id="1" id="91386_5" >UNITED STATES</NAME>
+
+<NAME end="74" start="69" all_names="PETIT" party2_of="91386_4" local_name_id="2" id="91386_6" >PETIT</NAME>
+
+<DATE start="80" citation_global_level_id="50927.001" end="93" id="91386_9" citation_local_level_id="3" >April 7, 1885</DATE>
+
+<NAME start="106" local_name_id="3" end="111" id="91386_14" all_names="WAITE" >WAITE</NAME>
+
+<NAME start="113" local_name_id="4" end="117" id="91386_15" all_names="C J" >C. J</NAME>
+
+<CITATION start="270" citation_global_level_id="12832.001" end="285" name="Ex parte Wilson" entry_type="case_key" line="11" citation_local_level_id="4" lookup_key="ex parte wilson#1" id="91386_16" id1="91385" >Ex parte Wilson</CITATION>
+
+<RELATION theme="91386_4" party1="91386_5" party1_string="UNITED STATES" theme_string="UNITED STATES v. PETIT" gram_type="infix" relation_type="asymmetric" id="91386_7" ></RELATION>
+
+<RELATION party2="91386_6" theme="91386_4" theme_string="UNITED STATES v. PETIT" party2_string="PETIT" gram_type="infix" relation_type="asymmetric" id="91386_8" ></RELATION>
+
+<RELATION standard_case_string="114 U.S. 429" X_vs_Y_string="UNITED STATES v. PETIT" standard_case="91386_1" X_vs_Y="91386_4" gram_type="multi_line" relation_type="equivalence" id="91386_10" ></RELATION>
+
+<RELATION standard_case_string="5 S. Ct. 1190" X_vs_Y_string="UNITED STATES v. PETIT" standard_case="91386_2" X_vs_Y="91386_4" gram_type="multi_line" relation_type="equivalence" id="91386_11" ></RELATION>
+
+<RELATION standard_case_string="29 L. Ed. 93" X_vs_Y_string="UNITED STATES v. PETIT" standard_case="91386_3" X_vs_Y="91386_4" gram_type="multi_line" relation_type="equivalence" id="91386_12" ></RELATION>
+
+<RELATION at_date_string="April 7, 1885" theme="91386_4" at_date="91386_9" theme_string="UNITED STATES v. PETIT" gram_type="multi_line" relation_type="asymmetric" id="91386_13" ></RELATION>
+

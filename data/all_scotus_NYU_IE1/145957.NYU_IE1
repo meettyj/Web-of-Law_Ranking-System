@@ -1,0 +1,48 @@
+<NAME start="1" local_name_id="1" end="11" id="145957_1" all_names="ORDER LIST" >ORDER LIST</NAME>
+
+<NAME start="19" local_name_id="2" end="22" id="145957_2" all_names="US" >U.S</NAME>
+
+<CITATION end="140" reporter="A" entry_type="standard_key" no_current_file="True" lookup_key="a._07_311" id1="Dummy_File_195541" volume="07" start="134" page_number="311" standard_reporter="A." citation_global_level_id="259391.001" line="2" id="145957_3" citation_local_level_id="0" >07A311</CITATION>
+
+<NAME start="145" local_name_id="3" end="156" id="145957_5" all_names="NORRIS DIR" >NORRIS, DIR</NAME>
+
+<NAME start="159" local_name_id="4" end="165" id="145957_6" all_names="AR DOC" >AR DOC</NAME>
+
+<NAME start="167" local_name_id="5" end="172" id="145957_7" all_names="" >ET AL</NAME>
+
+<NAME start="174" local_name_id="6" end="182" id="145957_8" all_names="V JONES	JONES" >V. JONES</NAME>
+
+<NAME start="184" local_name_id="7" end="190" id="145957_9" all_names="JACK H" >JACK H</NAME>
+
+<ORGANIZATION start="308" end="373" id="145957_11" >United States Court of Appeals for the Eighth Circuit</ORGANIZATION>
+
+<DATE start="377" end="393" id="145957_10" >October 11, 2007</DATE>
+
+<PROFESSION start="408" document_level_name_id="8" end="415" id="145957_12" party="ALITO" >Justice</PROFESSION>
+
+<NAME start="416" local_name_id="8" end="421" id="145957_13" all_names="ALITO" >Alito</NAME>
+
+<ORGANIZATION start="461" end="466" id="145957_14" >Court</ORGANIZATION>
+
+<PROFESSION start="498" document_level_name_id="8" end="505" id="145957_23" party="ALITO" >Justice</PROFESSION>
+
+<NAME start="506" local_name_id="9" end="512" id="145957_24" all_names="SCALIA" >Scalia</NAME>
+
+<CITATION party2="Rees, ___ S. Ct" party1="Baze" citation_global_level_id="259392.001" party2_short="Ct" line="6" id="145957_19" end="783" no_current_file="True" entry_type="party_key" lookup_key="bazect#1" id1="Dummy_File_195542" start="748" party1_short="Baze" citation_local_level_id="1" >Baze v. Rees, ___ S. Ct</CITATION>
+
+<NAME end="752" start="748" party1_of="145957_19" all_names="BAZE" local_name_id="10" id="145957_20" >Baze</NAME>
+
+<NAME end="783" start="768" all_names="REES ___ S CT" party2_of="145957_19" local_name_id="11" id="145957_21" >Rees, ___ S. Ct</NAME>
+
+<DATE start="790" end="794" id="145957_22" >2007</DATE>
+
+<NAME start="1147" local_name_id="6" end="1152" id="145957_28" all_names="V JONES	JONES" >Jones</NAME>
+
+<RELATION theme="145957_13" profession_string="Justice" theme_string="Alito" profession="145957_12" gram_type="pre_nom" relation_type="asymmetric" id="145957_15" ></RELATION>
+
+<RELATION theme="145957_24" profession_string="Justice" theme_string="Scalia" profession="145957_23" gram_type="pre_nom" relation_type="asymmetric" id="145957_25" ></RELATION>
+
+<RELATION theme="145957_19" party1="145957_20" party1_string="Baze" theme_string="Baze v.             Rees, ___ S. Ct" gram_type="infix" relation_type="asymmetric" id="145957_26" ></RELATION>
+
+<RELATION party2="145957_21" theme="145957_19" theme_string="Baze v.             Rees, ___ S. Ct" party2_string="Rees, ___ S. Ct" gram_type="infix" relation_type="asymmetric" id="145957_27" ></RELATION>
+

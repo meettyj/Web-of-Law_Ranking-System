@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['phillipspliler#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_987" id1="133574" volume="540" start="0" page_number="987" standard_reporter="U.S." citation_global_level_id="9225.002" line="1" id="133574_1" citation_local_level_id="0" >540 U.S. 987</CITATION>
+
+<CITATION party2="PLILER, WARDEN" party1="PHILLIPS" citation_global_level_id="9225.005" party2_short="PLILER" line="1" id="133574_3" alternative_keys="['u.s._540_987']" end="43" entry_type="party_key" lookup_key="phillipspliler#1" id1="133574" start="17" party1_short="PHILLIPS" citation_local_level_id="1" >PHILLIPS v. PLILER, WARDEN</CITATION>
+
+<NAME end="25" start="17" party1_of="133574_3" all_names="PHILLIPS" local_name_id="1" id="133574_4" >PHILLIPS</NAME>
+
+<NAME end="43" start="29" all_names="PLILER WARDEN" party2_of="133574_3" local_name_id="2" id="133574_5" >PLILER, WARDEN</NAME>
+
+<DOCKET end="60" entry_type="docket" lookup_key="u.s._540_987" id1="133574" start="53" citation_global_level_id="9225.002" line="1" id="133574_2" citation_local_level_id="0" >03-6077</DOCKET>
+
+<DATE start="102" end="118" id="133574_6" >November 3, 2003</DATE>
+
+<NAME start="196" local_name_id="3" end="206" id="133574_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="133574_1" includes_docket_string="03-6077" includes_docket="133574_2" theme_string="540 U.S. 987" gram_type="apposition" relation_type="asymmetric" id="133574_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 987" X_vs_Y_string="PHILLIPS v. PLILER, WARDEN" standard_case="133574_1" X_vs_Y="133574_3" gram_type="pre_nom" relation_type="equivalence" id="133574_7" ></RELATION>
+
+<RELATION theme="133574_3" includes_docket_string="03-6077" includes_docket="133574_2" theme_string="PHILLIPS v. PLILER, WARDEN" gram_type="apposition" relation_type="asymmetric" id="133574_10" ></RELATION>
+
+<RELATION theme="133574_3" party1="133574_4" party1_string="PHILLIPS" theme_string="PHILLIPS v. PLILER, WARDEN" gram_type="infix" relation_type="asymmetric" id="133574_8" ></RELATION>
+
+<RELATION party2="133574_5" theme="133574_3" theme_string="PHILLIPS v. PLILER, WARDEN" party2_string="PLILER, WARDEN" gram_type="infix" relation_type="asymmetric" id="133574_9" ></RELATION>
+

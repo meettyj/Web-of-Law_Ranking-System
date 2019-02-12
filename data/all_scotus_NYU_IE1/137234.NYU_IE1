@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['opetuboloan#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._542_920" id1="137237" volume="542" start="0" page_number="920" standard_reporter="U.S." citation_global_level_id="579.002" line="1" id="137234_1" citation_local_level_id="0" >542 U.S. 920</CITATION>
+
+<CITATION party2="CITIBANK STUDENT LOAN CORP. ET AL" party1="OPETUBO" citation_global_level_id="4383.001" party2_short="LOAN" line="1" id="137234_3" alternative_keys="['u.s._542_920']" end="61" entry_type="party_key" lookup_key="opetuboloan#1" id1="137234" start="17" party1_short="OPETUBO" citation_local_level_id="1" >OPETUBO v. CITIBANK STUDENT LOAN CORP. ET AL</CITATION>
+
+<NAME end="24" start="17" party1_of="137234_3" all_names="OPETUBO" local_name_id="1" id="137234_4" >OPETUBO</NAME>
+
+<NAME end="61" start="28" all_names="CITIBANK STUDENT LOAN CORP" party2_of="137234_3" local_name_id="2" id="137234_5" >CITIBANK STUDENT LOAN CORP. ET AL</NAME>
+
+<DOCKET end="78" entry_type="docket" lookup_key="u.s._542_920" id1="137237" start="71" citation_global_level_id="579.002" line="1" id="137234_2" citation_local_level_id="0" >03-1459</DOCKET>
+
+<DATE start="120" end="133" id="137234_6" >June 21, 2004</DATE>
+
+<NAME start="231" local_name_id="3" end="234" id="137234_12" all_names="FED" >Fed</NAME>
+
+<RELATION theme="137234_1" includes_docket_string="03-1459" includes_docket="137234_2" theme_string="542 U.S. 920" gram_type="apposition" relation_type="asymmetric" id="137234_11" ></RELATION>
+
+<RELATION standard_case_string="542 U.S. 920" X_vs_Y_string="OPETUBO v. CITIBANK STUDENT LOAN CORP. ET AL" standard_case="137234_1" X_vs_Y="137234_3" gram_type="pre_nom" relation_type="equivalence" id="137234_7" ></RELATION>
+
+<RELATION theme="137234_3" includes_docket_string="03-1459" includes_docket="137234_2" theme_string="OPETUBO v. CITIBANK STUDENT LOAN CORP. ET AL" gram_type="apposition" relation_type="asymmetric" id="137234_10" ></RELATION>
+
+<RELATION theme="137234_3" party1="137234_4" party1_string="OPETUBO" theme_string="OPETUBO v. CITIBANK STUDENT LOAN CORP. ET AL" gram_type="infix" relation_type="asymmetric" id="137234_8" ></RELATION>
+
+<RELATION party2="137234_5" theme="137234_3" theme_string="OPETUBO v. CITIBANK STUDENT LOAN CORP. ET AL" party2_string="CITIBANK STUDENT LOAN CORP. ET AL" gram_type="infix" relation_type="asymmetric" id="137234_9" ></RELATION>
+

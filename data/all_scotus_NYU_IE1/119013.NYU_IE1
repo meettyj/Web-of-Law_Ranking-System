@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['hartkitzhaber#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_951" id1="119004" volume="535" start="0" page_number="951" standard_reporter="U.S." citation_global_level_id="3127.002" line="1" id="119013_1" citation_local_level_id="0" >535 U.S. 951</CITATION>
+
+<CITATION party2="KITZHABER, GOVERNOR OF OREGON, ET AL" party1="HART" citation_global_level_id="3127.004" party2_short="KITZHABER" line="2" id="119013_2" alternative_keys="['u.s._535_951']" end="61" entry_type="party_key" lookup_key="hartkitzhaber#1" id1="119004" start="17" party1_short="HART" citation_local_level_id="1" >HART v. KITZHABER, GOVERNOR OF OREGON, ET AL</CITATION>
+
+<NAME end="21" start="17" party1_of="119013_2" all_names="HART" local_name_id="1" id="119013_3" >HART</NAME>
+
+<NAME end="61" start="25" all_names="KITZHABER GOVERNOR OF OREGON" party2_of="119013_2" local_name_id="2" id="119013_4" >KITZHABER, GOVERNOR OF OREGON, ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._535_951']" end="79" entry_type="docket" lookup_key="hartkitzhaber#1" id1="119004" start="72" citation_global_level_id="3127.004" line="3" id="119013_7" citation_local_level_id="1" >00-9805</DOCKET>
+
+<DATE start="125" citation_global_level_id="3127.004" end="139" id="119013_8" citation_local_level_id="1" >March 18, 2002</DATE>
+
+<CITATION end="174" reporter="U. S." entry_type="standard_key" no_current_file="True" lookup_key="u.s._534_834" id1="Dummy_File_221217" volume="534" start="161" page_number="834" standard_reporter="U.S." citation_global_level_id="285067.001" line="8" id="119013_12" citation_local_level_id="2" >534 U. S. 834</CITATION>
+
+<NAME start="176" local_name_id="3" end="185" id="119013_13" all_names="PETITIONS" >Petitions</NAME>
+
+<RELATION theme="119013_2" party1="119013_3" party1_string="HART" theme_string="HART v. KITZHABER, GOVERNOR OF OREGON, ET AL" gram_type="infix" relation_type="asymmetric" id="119013_5" ></RELATION>
+
+<RELATION party2="119013_4" theme="119013_2" theme_string="HART v. KITZHABER, GOVERNOR OF OREGON, ET AL" party2_string="KITZHABER, GOVERNOR OF OREGON, ET AL" gram_type="infix" relation_type="asymmetric" id="119013_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 951" X_vs_Y_string="HART v. KITZHABER, GOVERNOR OF OREGON, ET AL" standard_case="119013_1" X_vs_Y="119013_2" gram_type="multi_line" relation_type="equivalence" id="119013_9" ></RELATION>
+
+<RELATION at_date_string="March 18, 2002" theme="119013_2" at_date="119013_8" theme_string="HART v. KITZHABER, GOVERNOR OF OREGON, ET AL" gram_type="multi_line" relation_type="asymmetric" id="119013_11" ></RELATION>
+
+<RELATION theme="119013_2" includes_docket_string="00-9805" includes_docket="119013_7" theme_string="HART v. KITZHABER, GOVERNOR OF OREGON, ET AL" gram_type="multi_line" relation_type="asymmetric" id="119013_10" ></RELATION>
+

@@ -1,0 +1,36 @@
+<CITATION alternative_keys="['cooeyohio#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_974" id1="131013" volume="539" start="0" page_number="974" standard_reporter="U.S." citation_global_level_id="1324.002" line="1" id="131009_1" citation_local_level_id="0" >539 U.S. 974</CITATION>
+
+<CITATION party2="Ohio" party1="Cooey" citation_global_level_id="1654.001" party2_short="Ohio" line="1" id="131009_4" alternative_keys="['u.s._539_974']" end="30" entry_type="party_key" lookup_key="cooeyohio#1" id1="131009" start="17" party1_short="Cooey" citation_local_level_id="1" >Cooey v. Ohio</CITATION>
+
+<NAME end="22" start="17" party1_of="131009_4" all_names="COOEY" local_name_id="1" id="131009_5" >Cooey</NAME>
+
+<NAME end="30" start="26" all_names="OHIO" party2_of="131009_4" local_name_id="2" id="131009_6" >Ohio</NAME>
+
+<DOCKET end="47" entry_type="docket" lookup_key="u.s._539_974" id1="131013" start="40" citation_global_level_id="1324.002" line="1" id="131009_3" citation_local_level_id="0" >03-5472</DOCKET>
+
+<CITATION end="54" reporter="A" entry_type="standard_key" no_current_file="True" lookup_key="a._03_69" id1="Dummy_File_69649" volume="03" start="49" page_number="69" standard_reporter="A." citation_global_level_id="133499.001" line="1" id="131009_2" citation_local_level_id="2" >03A69</CITATION>
+
+<DATE start="97" end="110" id="131009_7" >July 24, 2003</DATE>
+
+<NAME start="188" local_name_id="3" end="199" id="131009_14" all_names="APPLICATION" >Application</NAME>
+
+<PROFESSION start="257" document_level_name_id="4" end="264" id="131009_15" party="STEVENS" >JUSTICE</PROFESSION>
+
+<NAME start="265" local_name_id="4" end="272" id="131009_16" all_names="STEVENS" >STEVENS</NAME>
+
+<ORGANIZATION start="301" end="306" id="131009_17" >Court</ORGANIZATION>
+
+<CITATION end="387" reporter="N. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.e.2d_792_720" id1="Dummy_File_69650" volume="792" start="371" page_number="720" standard_reporter="N.E.2D" citation_global_level_id="133500.001" line="3" id="131009_13" citation_local_level_id="3" >792 N. E. 2d 720</CITATION>
+
+<RELATION theme="131009_1" includes_docket_string="03-5472" includes_docket="131009_3" theme_string="539 U.S. 974" gram_type="apposition" relation_type="asymmetric" id="131009_12" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 974" X_vs_Y_string="Cooey v. Ohio" standard_case="131009_1" X_vs_Y="131009_4" gram_type="pre_nom" relation_type="equivalence" id="131009_8" ></RELATION>
+
+<RELATION theme="131009_4" includes_docket_string="03-5472" includes_docket="131009_3" theme_string="Cooey v. Ohio" gram_type="apposition" relation_type="asymmetric" id="131009_11" ></RELATION>
+
+<RELATION party2="131009_6" theme="131009_4" theme_string="Cooey v. Ohio" party2_string="Ohio" gram_type="infix" relation_type="asymmetric" id="131009_10" ></RELATION>
+
+<RELATION theme="131009_4" party1="131009_5" party1_string="Cooey" theme_string="Cooey v. Ohio" gram_type="infix" relation_type="asymmetric" id="131009_9" ></RELATION>
+
+<RELATION theme="131009_16" profession_string="JUSTICE" theme_string="STEVENS" profession="131009_15" gram_type="pre_nom" relation_type="asymmetric" id="131009_18" ></RELATION>
+

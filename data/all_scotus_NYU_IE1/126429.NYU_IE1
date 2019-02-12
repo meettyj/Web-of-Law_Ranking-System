@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['cartermichigan#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1128" id1="126429" volume="537" start="0" page_number="1128" standard_reporter="U.S." citation_global_level_id="12147.002" line="1" id="126429_1" citation_local_level_id="0" >537 U.S. 1128</CITATION>
+
+<CITATION party2="MICHIGAN" party1="CARTER" citation_global_level_id="59189.001" party2_short="MICHIGAN" line="1" id="126429_3" alternative_keys="['u.s._537_1128']" end="36" entry_type="party_key" lookup_key="cartermichigan#2" id1="130392" start="18" party1_short="CARTER" citation_local_level_id="1" >CARTER v. MICHIGAN</CITATION>
+
+<NAME end="24" start="18" party1_of="126429_3" all_names="CARTER" local_name_id="1" id="126429_4" >CARTER</NAME>
+
+<NAME end="36" start="28" all_names="MICHIGAN" party2_of="126429_3" local_name_id="2" id="126429_5" >MICHIGAN</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="u.s._537_1128" id1="126429" start="46" citation_global_level_id="12147.002" line="1" id="126429_2" citation_local_level_id="0" >02-7405</DOCKET>
+
+<DATE start="95" end="111" id="126429_6" >January 13, 2003</DATE>
+
+<NAME start="206" local_name_id="3" end="208" id="126429_12" all_names="CT" >Ct</NAME>
+
+<RELATION theme="126429_1" includes_docket_string="02-7405" includes_docket="126429_2" theme_string="537 U.S. 1128" gram_type="apposition" relation_type="asymmetric" id="126429_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1128" X_vs_Y_string="CARTER v. MICHIGAN" standard_case="126429_1" X_vs_Y="126429_3" gram_type="pre_nom" relation_type="equivalence" id="126429_7" ></RELATION>
+
+<RELATION theme="126429_3" includes_docket_string="02-7405" includes_docket="126429_2" theme_string="CARTER v. MICHIGAN" gram_type="apposition" relation_type="asymmetric" id="126429_10" ></RELATION>
+
+<RELATION theme="126429_3" party1="126429_4" party1_string="CARTER" theme_string="CARTER v. MICHIGAN" gram_type="infix" relation_type="asymmetric" id="126429_8" ></RELATION>
+
+<RELATION party2="126429_5" theme="126429_3" theme_string="CARTER v. MICHIGAN" party2_string="MICHIGAN" gram_type="infix" relation_type="asymmetric" id="126429_9" ></RELATION>
+

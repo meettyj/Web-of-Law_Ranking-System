@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['meansstates#6']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1000" id1="115449" volume="510" start="0" page_number="1000" standard_reporter="U.S." citation_global_level_id="4379.002" line="1" id="115446_1" citation_local_level_id="0" >510 U.S. 1000</CITATION>
+
+<CITATION party2="United States" party1="Means" citation_global_level_id="62458.001" party2_short="States" line="1" id="115446_3" alternative_keys="['u.s._510_1000']" end="40" entry_type="party_key" lookup_key="meansstates#6" id1="144313" start="18" party1_short="Means" citation_local_level_id="1" >Means v. United States</CITATION>
+
+<NAME end="23" start="18" party1_of="115446_3" all_names="MEANS" local_name_id="1" id="115446_4" >Means</NAME>
+
+<NAME end="40" start="27" all_names="UNITED STATES" party2_of="115446_3" local_name_id="2" id="115446_5" >United States</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._510_1000" id1="115449" start="50" citation_global_level_id="4379.002" line="1" id="115446_2" citation_local_level_id="0" >93-6397</DOCKET>
+
+<DATE start="99" end="116" id="115446_6" >November 29, 1993</DATE>
+
+<NAME start="194" local_name_id="3" end="204" id="115446_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="242" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_999_545" id1="Dummy_File_79884" volume="999" start="229" page_number="545" standard_reporter="F.2D" citation_global_level_id="143734.001" line="3" id="115446_12" citation_local_level_id="2" >999 F. 2d 545</CITATION>
+
+<RELATION theme="115446_1" includes_docket_string="93-6397" includes_docket="115446_2" theme_string="510 U.S. 1000" gram_type="apposition" relation_type="asymmetric" id="115446_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1000" X_vs_Y_string="Means v. United States" standard_case="115446_1" X_vs_Y="115446_3" gram_type="pre_nom" relation_type="equivalence" id="115446_7" ></RELATION>
+
+<RELATION theme="115446_3" includes_docket_string="93-6397" includes_docket="115446_2" theme_string="Means v. United States" gram_type="apposition" relation_type="asymmetric" id="115446_10" ></RELATION>
+
+<RELATION theme="115446_3" party1="115446_4" party1_string="Means" theme_string="Means v. United States" gram_type="infix" relation_type="asymmetric" id="115446_8" ></RELATION>
+
+<RELATION party2="115446_5" theme="115446_3" theme_string="Means v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="115446_9" ></RELATION>
+

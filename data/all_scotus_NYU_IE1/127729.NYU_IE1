@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['breckenridgestates#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1234" id1="127729" volume="537" start="0" page_number="1234" standard_reporter="U.S." citation_global_level_id="2896.002" line="1" id="127729_1" citation_local_level_id="0" >537 U.S. 1234</CITATION>
+
+<CITATION party2="UNITED STATES" party1="BRECKENRIDGE" citation_global_level_id="2896.001" party2_short="STATES" line="1" id="127729_3" alternative_keys="['u.s._537_1234']" end="47" entry_type="party_key" lookup_key="breckenridgestates#1" id1="127729" start="18" party1_short="BRECKENRIDGE" citation_local_level_id="1" >BRECKENRIDGE v. UNITED STATES</CITATION>
+
+<NAME end="30" start="18" party1_of="127729_3" all_names="BRECKENRIDGE" local_name_id="1" id="127729_4" >BRECKENRIDGE</NAME>
+
+<NAME end="47" start="34" all_names="UNITED STATES" party2_of="127729_3" local_name_id="2" id="127729_5" >UNITED STATES</NAME>
+
+<DOCKET end="64" entry_type="docket" lookup_key="u.s._537_1234" id1="127729" start="57" citation_global_level_id="2896.002" line="1" id="127729_2" citation_local_level_id="0" >02-1148</DOCKET>
+
+<DATE start="106" end="119" id="127729_6" >March 3, 2003</DATE>
+
+<NAME start="252" local_name_id="3" end="255" id="127729_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="127729_1" includes_docket_string="02-1148" includes_docket="127729_2" theme_string="537 U.S. 1234" gram_type="apposition" relation_type="asymmetric" id="127729_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1234" X_vs_Y_string="BRECKENRIDGE v. UNITED STATES" standard_case="127729_1" X_vs_Y="127729_3" gram_type="pre_nom" relation_type="equivalence" id="127729_7" ></RELATION>
+
+<RELATION theme="127729_3" includes_docket_string="02-1148" includes_docket="127729_2" theme_string="BRECKENRIDGE v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="127729_10" ></RELATION>
+
+<RELATION theme="127729_3" party1="127729_4" party1_string="BRECKENRIDGE" theme_string="BRECKENRIDGE v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="127729_8" ></RELATION>
+
+<RELATION party2="127729_5" theme="127729_3" theme_string="BRECKENRIDGE v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="127729_9" ></RELATION>
+

@@ -1,0 +1,38 @@
+<CITATION alternative_keys="['battengomez#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_819" id1="131375" volume="540" start="0" page_number="819" standard_reporter="U.S." citation_global_level_id="3077.002" line="1" id="131380_1" citation_local_level_id="0" >540 U.S. 819</CITATION>
+
+<CITATION party2="GOMEZ ET AL" party1="BATTEN ET AL." citation_global_level_id="51514.001" party2_short="GOMEZ" line="1" id="131380_3" alternative_keys="['u.s._540_819']" end="45" entry_type="party_key" lookup_key="battengomez#1" id1="131380" start="17" party1_short="BATTEN" citation_local_level_id="1" >BATTEN ET AL. v. GOMEZ ET AL</CITATION>
+
+<NAME end="30" start="17" party1_of="131380_3" all_names="BATTEN" local_name_id="1" id="131380_4" >BATTEN ET AL.</NAME>
+
+<NAME start="17" local_name_id="1" end="29" id="131380_8" all_names="BATTEN" >BATTEN ET AL</NAME>
+
+<NAME end="45" start="34" all_names="GOMEZ" party2_of="131380_3" local_name_id="2" id="131380_5" >GOMEZ ET AL</NAME>
+
+<DOCKET end="62" entry_type="docket" lookup_key="u.s._540_819" id1="131375" start="55" citation_global_level_id="3077.002" line="1" id="131380_2" citation_local_level_id="0" >02-1754</DOCKET>
+
+<DATE start="58" end="62" id="131380_6" >1754</DATE>
+
+<ORGANIZATION start="68" end="98" id="131380_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="104" end="119" id="131380_7" >October 6, 2003</DATE>
+
+<NAME start="141" local_name_id="3" end="158" id="131380_10" all_names="APPEAL FROM THE C" >Appeal from the C</NAME>
+
+<NAME start="167" local_name_id="4" end="170" id="131380_11" all_names="CIR" >Cir</NAME>
+
+<NAME start="197" local_name_id="5" end="207" id="131380_19" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="245" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_324_288" id1="Dummy_File_127499" volume="324" start="232" page_number="288" standard_reporter="F.3D" citation_global_level_id="191349.001" line="3" id="131380_18" citation_local_level_id="2" >324 F. 3d 288</CITATION>
+
+<RELATION theme="131380_1" includes_docket_string="02-1754" includes_docket="131380_2" theme_string="540 U.S. 819" gram_type="apposition" relation_type="asymmetric" id="131380_16" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 819" X_vs_Y_string="BATTEN ET AL. v. GOMEZ ET AL" standard_case="131380_1" X_vs_Y="131380_3" gram_type="pre_nom" relation_type="equivalence" id="131380_12" ></RELATION>
+
+<RELATION theme="131380_3" includes_docket_string="02-1754" includes_docket="131380_2" theme_string="BATTEN ET AL. v. GOMEZ ET AL" gram_type="apposition" relation_type="asymmetric" id="131380_15" ></RELATION>
+
+<RELATION theme="131380_3" party1="131380_4" party1_string="BATTEN ET AL." theme_string="BATTEN ET AL. v. GOMEZ ET AL" gram_type="infix" relation_type="asymmetric" id="131380_13" ></RELATION>
+
+<RELATION party2="131380_5" theme="131380_3" theme_string="BATTEN ET AL. v. GOMEZ ET AL" party2_string="GOMEZ ET AL" gram_type="infix" relation_type="asymmetric" id="131380_14" ></RELATION>
+
+<RELATION at_date_string="1754" theme="131380_2" at_date="131380_6" theme_string="02-1754" gram_type="infix" relation_type="asymmetric" id="131380_17" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['smithtennessee#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_996" id1="115390" volume="510" start="0" page_number="996" standard_reporter="U.S." citation_global_level_id="6585.002" line="1" id="115376_1" citation_local_level_id="0" >510 U.S. 996</CITATION>
+
+<CITATION party2="Tennessee" party1="Smith" citation_global_level_id="56600.001" party2_short="Tennessee" line="1" id="115376_3" alternative_keys="['u.s._510_996']" end="35" entry_type="party_key" lookup_key="smithtennessee#1" id1="115376" start="17" party1_short="Smith" citation_local_level_id="1" >Smith v. Tennessee</CITATION>
+
+<NAME end="22" start="17" party1_of="115376_3" all_names="SMITH" local_name_id="1" id="115376_4" >Smith</NAME>
+
+<NAME end="35" start="26" all_names="TENNESSEE" party2_of="115376_3" local_name_id="2" id="115376_5" >Tennessee</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="u.s._510_996" id1="115390" start="45" citation_global_level_id="6585.002" line="1" id="115376_2" citation_local_level_id="0" >93-6099</DOCKET>
+
+<DATE start="94" end="111" id="115376_6" >November 29, 1993</DATE>
+
+<NAME start="189" local_name_id="3" end="199" id="115376_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="238" reporter="S. W. 2d" entry_type="standard_key" no_current_file="True" lookup_key="s.w.2d_857_1" id1="Dummy_File_117746" volume="857" start="224" page_number="1" standard_reporter="S.W.2D" citation_global_level_id="181596.001" line="3" id="115376_12" citation_local_level_id="2" >857 S. W. 2d 1</CITATION>
+
+<RELATION theme="115376_1" includes_docket_string="93-6099" includes_docket="115376_2" theme_string="510 U.S. 996" gram_type="apposition" relation_type="asymmetric" id="115376_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 996" X_vs_Y_string="Smith v. Tennessee" standard_case="115376_1" X_vs_Y="115376_3" gram_type="pre_nom" relation_type="equivalence" id="115376_7" ></RELATION>
+
+<RELATION theme="115376_3" includes_docket_string="93-6099" includes_docket="115376_2" theme_string="Smith v. Tennessee" gram_type="apposition" relation_type="asymmetric" id="115376_10" ></RELATION>
+
+<RELATION theme="115376_3" party1="115376_4" party1_string="Smith" theme_string="Smith v. Tennessee" gram_type="infix" relation_type="asymmetric" id="115376_8" ></RELATION>
+
+<RELATION party2="115376_5" theme="115376_3" theme_string="Smith v. Tennessee" party2_string="Tennessee" gram_type="infix" relation_type="asymmetric" id="115376_9" ></RELATION>
+

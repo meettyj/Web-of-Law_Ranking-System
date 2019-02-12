@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['balllouisiana#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_864" id1="123051" volume="537" start="0" page_number="864" standard_reporter="U.S." citation_global_level_id="1030.002" line="1" id="123059_1" citation_local_level_id="0" >537 U.S. 864</CITATION>
+
+<CITATION party2="LOUISIANA" party1="BALL" citation_global_level_id="59147.001" party2_short="LOUISIANA" line="1" id="123059_3" alternative_keys="['u.s._537_864']" end="34" entry_type="party_key" lookup_key="balllouisiana#1" id1="123059" start="17" party1_short="BALL" citation_local_level_id="1" >BALL v. LOUISIANA</CITATION>
+
+<NAME end="21" start="17" party1_of="123059_3" all_names="BALL" local_name_id="1" id="123059_4" >BALL</NAME>
+
+<NAME end="34" start="25" all_names="LOUISIANA" party2_of="123059_3" local_name_id="2" id="123059_5" >LOUISIANA</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="u.s._537_864" id1="123051" start="44" citation_global_level_id="1030.002" line="1" id="123059_2" citation_local_level_id="0" >01-10802</DOCKET>
+
+<DATE start="94" end="109" id="123059_6" >October 7, 2002</DATE>
+
+<NAME start="202" local_name_id="3" end="205" id="123059_13" all_names="SUP" >Sup</NAME>
+
+<CITATION end="265" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_824_1089" id1="Dummy_File_192269" volume="824" start="250" page_number="1089" standard_reporter="SO.2D" citation_global_level_id="256119.001" line="3" id="123059_12" citation_local_level_id="2" >824 So. 2d 1089</CITATION>
+
+<RELATION theme="123059_1" includes_docket_string="01-10802" includes_docket="123059_2" theme_string="537 U.S. 864" gram_type="apposition" relation_type="asymmetric" id="123059_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 864" X_vs_Y_string="BALL v. LOUISIANA" standard_case="123059_1" X_vs_Y="123059_3" gram_type="pre_nom" relation_type="equivalence" id="123059_7" ></RELATION>
+
+<RELATION theme="123059_3" includes_docket_string="01-10802" includes_docket="123059_2" theme_string="BALL v. LOUISIANA" gram_type="apposition" relation_type="asymmetric" id="123059_10" ></RELATION>
+
+<RELATION theme="123059_3" party1="123059_4" party1_string="BALL" theme_string="BALL v. LOUISIANA" gram_type="infix" relation_type="asymmetric" id="123059_8" ></RELATION>
+
+<RELATION party2="123059_5" theme="123059_3" theme_string="BALL v. LOUISIANA" party2_string="LOUISIANA" gram_type="infix" relation_type="asymmetric" id="123059_9" ></RELATION>
+

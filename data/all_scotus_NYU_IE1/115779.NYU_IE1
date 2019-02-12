@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['countyvineyard#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1024" id1="115769" volume="510" start="0" page_number="1024" standard_reporter="U.S." citation_global_level_id="2194.002" line="1" id="115779_1" citation_local_level_id="0" >510 U.S. 1024</CITATION>
+
+<CITATION party2="Vineyard" party1="County of Murray, Georgia, et al." citation_global_level_id="2194.007" party2_short="Vineyard" line="1" id="115779_3" alternative_keys="['u.s._510_1024']" end="63" entry_type="party_key" lookup_key="countyvineyard#2" id1="115769" start="18" party1_short="County" citation_local_level_id="1" >County of Murray, Georgia, et al. v. Vineyard</CITATION>
+
+<NAME end="51" start="18" party1_of="115779_3" all_names="COUNTY OF MURRAY GEORGIA" local_name_id="1" id="115779_4" >County of Murray, Georgia, et al.</NAME>
+
+<NAME start="18" local_name_id="2" end="34" id="115779_7" all_names="COUNTY OF MURRAY" >County of Murray</NAME>
+
+<NAME end="63" start="55" all_names="VINEYARD" party2_of="115779_3" local_name_id="3" id="115779_5" >Vineyard</NAME>
+
+<DOCKET end="79" entry_type="docket" lookup_key="u.s._510_1024" id1="115769" start="73" citation_global_level_id="2194.002" line="1" id="115779_2" citation_local_level_id="0" >93-648</DOCKET>
+
+<DATE start="121" end="138" id="115779_6" >December 13, 1993</DATE>
+
+<NAME start="217" local_name_id="4" end="227" id="115779_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="266" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_990_1207" id1="Dummy_File_199620" volume="990" start="252" page_number="1207" standard_reporter="F.2D" citation_global_level_id="263470.001" line="3" id="115779_13" citation_local_level_id="2" >990 F. 2d 1207</CITATION>
+
+<RELATION theme="115779_1" includes_docket_string="93-648" includes_docket="115779_2" theme_string="510 U.S. 1024" gram_type="apposition" relation_type="asymmetric" id="115779_12" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1024" X_vs_Y_string="County of Murray, Georgia, et al. v. Vineyard" standard_case="115779_1" X_vs_Y="115779_3" gram_type="pre_nom" relation_type="equivalence" id="115779_8" ></RELATION>
+
+<RELATION theme="115779_3" includes_docket_string="93-648" includes_docket="115779_2" theme_string="County of Murray, Georgia, et al. v. Vineyard" gram_type="apposition" relation_type="asymmetric" id="115779_11" ></RELATION>
+
+<RELATION party2="115779_5" theme="115779_3" theme_string="County of Murray, Georgia, et al. v. Vineyard" party2_string="Vineyard" gram_type="infix" relation_type="asymmetric" id="115779_10" ></RELATION>
+
+<RELATION theme="115779_3" party1="115779_4" party1_string="County of Murray, Georgia, et al." theme_string="County of Murray, Georgia, et al. v. Vineyard" gram_type="infix" relation_type="asymmetric" id="115779_9" ></RELATION>
+

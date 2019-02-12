@@ -1,0 +1,36 @@
+<CITATION alternative_keys="['vazquezstates#6']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1107" id1="141738" volume="543" start="0" page_number="1107" standard_reporter="U.S." citation_global_level_id="5265.002" line="1" id="141743_1" citation_local_level_id="0" >543 U.S. 1107</CITATION>
+
+<CITATION party2="UNITED STATES" party1="VAZQUEZ" citation_global_level_id="55751.001" party2_short="STATES" line="2" id="141743_2" alternative_keys="['u.s._543_1107']" end="42" entry_type="party_key" lookup_key="vazquezstates#6" id1="127580" start="18" party1_short="VAZQUEZ" citation_local_level_id="1" >VAZQUEZ v. UNITED STATES</CITATION>
+
+<NAME end="25" start="18" party1_of="141743_2" all_names="VAZQUEZ" local_name_id="1" id="141743_3" >VAZQUEZ</NAME>
+
+<NAME end="42" start="29" all_names="UNITED STATES" party2_of="141743_2" local_name_id="2" id="141743_4" >UNITED STATES</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="vazquezstates#6" id1="127580" start="52" citation_global_level_id="55751.001" line="3" id="141743_7" citation_local_level_id="1" >04-6133</DOCKET>
+
+<ORGANIZATION start="65" end="95" id="141743_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="101" citation_global_level_id="55751.001" end="117" id="141743_9" citation_local_level_id="1" >January 24, 2005</DATE>
+
+<NAME start="149" local_name_id="3" end="152" id="141743_16" all_names="CIR" >Cir</NAME>
+
+<CITATION party2="Booker" party1="United States" citation_global_level_id="57130.001" party2_short="Booker" line="8" id="141743_13" end="380" entry_type="party_key" lookup_key="statesbooker#4" id1="137703" start="357" party1_short="States" citation_local_level_id="2" >United States v. Booker</CITATION>
+
+<NAME end="370" start="357" party1_of="141743_13" all_names="UNITED STATES" local_name_id="2" id="141743_14" >United States</NAME>
+
+<NAME end="380" start="374" all_names="BOOKER" party2_of="141743_13" local_name_id="4" id="141743_15" >Booker</NAME>
+
+<RELATION theme="141743_2" party1="141743_3" party1_string="VAZQUEZ" theme_string="VAZQUEZ v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="141743_5" ></RELATION>
+
+<RELATION party2="141743_4" theme="141743_2" theme_string="VAZQUEZ v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="141743_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1107" X_vs_Y_string="VAZQUEZ v. UNITED STATES" standard_case="141743_1" X_vs_Y="141743_2" gram_type="multi_line" relation_type="equivalence" id="141743_10" ></RELATION>
+
+<RELATION at_date_string="January 24, 2005" theme="141743_2" at_date="141743_9" theme_string="VAZQUEZ v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="141743_12" ></RELATION>
+
+<RELATION theme="141743_2" includes_docket_string="04-6133" includes_docket="141743_7" theme_string="VAZQUEZ v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="141743_11" ></RELATION>
+
+<RELATION theme="141743_13" party1="141743_14" party1_string="United States" theme_string="United States v. Booker" gram_type="infix" relation_type="asymmetric" id="141743_17" ></RELATION>
+
+<RELATION party2="141743_15" theme="141743_13" theme_string="United States v. Booker" party2_string="Booker" gram_type="infix" relation_type="asymmetric" id="141743_18" ></RELATION>
+

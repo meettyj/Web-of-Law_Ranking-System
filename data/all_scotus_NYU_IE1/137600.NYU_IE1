@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['chaudryassn#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._542_957" id1="137619" volume="542" start="0" page_number="957" standard_reporter="U.S." citation_global_level_id="3019.002" line="1" id="137600_1" citation_local_level_id="0" >542 U.S. 957</CITATION>
+
+<CITATION party2="WHISPERING RIDGE HOMEOWNERS ASSN" party1="CHAUDRY" citation_global_level_id="48174.001" party2_short="ASSN" line="1" id="137600_3" alternative_keys="['u.s._542_957']" end="60" entry_type="party_key" lookup_key="chaudryassn#2" id1="136598" start="17" party1_short="CHAUDRY" citation_local_level_id="1" >CHAUDRY v. WHISPERING RIDGE HOMEOWNERS ASSN</CITATION>
+
+<NAME end="24" start="17" party1_of="137600_3" all_names="CHAUDRY" local_name_id="1" id="137600_4" >CHAUDRY</NAME>
+
+<NAME end="60" start="28" all_names="WHISPERING RIDGE HOMEOWNERS ASSN" party2_of="137600_3" local_name_id="2" id="137600_5" >WHISPERING RIDGE HOMEOWNERS ASSN</NAME>
+
+<DOCKET end="77" entry_type="docket" lookup_key="u.s._542_957" id1="137619" start="70" citation_global_level_id="3019.002" line="1" id="137600_2" citation_local_level_id="0" >03-9606</DOCKET>
+
+<DATE start="119" end="133" id="137600_6" >August 2, 2004</DATE>
+
+<CITATION end="241" reporter="U. S." entry_type="standard_key" lookup_key="u.s._541_1067" id1="136594" volume="541" start="227" page_number="1067" standard_reporter="U.S." citation_global_level_id="11441.002" line="3" id="137600_12" citation_local_level_id="2" >541 U. S. 1067</CITATION>
+
+<RELATION theme="137600_1" includes_docket_string="03-9606" includes_docket="137600_2" theme_string="542 U.S. 957" gram_type="apposition" relation_type="asymmetric" id="137600_11" ></RELATION>
+
+<RELATION standard_case_string="542 U.S. 957" X_vs_Y_string="CHAUDRY v. WHISPERING RIDGE HOMEOWNERS ASSN" standard_case="137600_1" X_vs_Y="137600_3" gram_type="pre_nom" relation_type="equivalence" id="137600_7" ></RELATION>
+
+<RELATION theme="137600_3" includes_docket_string="03-9606" includes_docket="137600_2" theme_string="CHAUDRY v. WHISPERING RIDGE HOMEOWNERS ASSN" gram_type="apposition" relation_type="asymmetric" id="137600_10" ></RELATION>
+
+<RELATION theme="137600_3" party1="137600_4" party1_string="CHAUDRY" theme_string="CHAUDRY v. WHISPERING RIDGE HOMEOWNERS ASSN" gram_type="infix" relation_type="asymmetric" id="137600_8" ></RELATION>
+
+<RELATION party2="137600_5" theme="137600_3" theme_string="CHAUDRY v. WHISPERING RIDGE HOMEOWNERS ASSN" party2_string="WHISPERING RIDGE HOMEOWNERS ASSN" gram_type="infix" relation_type="asymmetric" id="137600_9" ></RELATION>
+

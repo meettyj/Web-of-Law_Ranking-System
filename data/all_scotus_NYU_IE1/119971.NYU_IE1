@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['sellarswarden#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1024" id1="119979" volume="535" start="0" page_number="1024" standard_reporter="U.S." citation_global_level_id="2158.002" line="1" id="119971_1" citation_local_level_id="0" >535 U.S. 1024</CITATION>
+
+<CITATION party2="LEE, WARDEN" party1="SELLARS" citation_global_level_id="60632.001" party2_short="WARDEN" line="2" id="119971_2" alternative_keys="['u.s._535_1024']" end="40" entry_type="party_key" lookup_key="sellarswarden#1" id1="119971" start="18" party1_short="SELLARS" citation_local_level_id="1" >SELLARS v. LEE, WARDEN</CITATION>
+
+<NAME end="25" start="18" party1_of="119971_2" all_names="SELLARS" local_name_id="1" id="119971_3" >SELLARS</NAME>
+
+<NAME end="40" start="29" all_names="LEE WARDEN" party2_of="119971_2" local_name_id="2" id="119971_4" >LEE, WARDEN</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="sellarswarden#1" id1="119971" start="50" citation_global_level_id="60632.001" line="3" id="119971_7" citation_local_level_id="1" >01-8730</DOCKET>
+
+<DATE start="103" citation_global_level_id="60632.001" end="117" id="119971_8" citation_local_level_id="1" >April 22, 2002</DATE>
+
+<NAME start="149" local_name_id="3" end="152" id="119971_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="119971_2" party1="119971_3" party1_string="SELLARS" theme_string="SELLARS v. LEE, WARDEN" gram_type="infix" relation_type="asymmetric" id="119971_5" ></RELATION>
+
+<RELATION party2="119971_4" theme="119971_2" theme_string="SELLARS v. LEE, WARDEN" party2_string="LEE, WARDEN" gram_type="infix" relation_type="asymmetric" id="119971_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1024" X_vs_Y_string="SELLARS v. LEE, WARDEN" standard_case="119971_1" X_vs_Y="119971_2" gram_type="multi_line" relation_type="equivalence" id="119971_9" ></RELATION>
+
+<RELATION at_date_string="April 22, 2002" theme="119971_2" at_date="119971_8" theme_string="SELLARS v. LEE, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="119971_11" ></RELATION>
+
+<RELATION theme="119971_2" includes_docket_string="01-8730" includes_docket="119971_7" theme_string="SELLARS v. LEE, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="119971_10" ></RELATION>
+

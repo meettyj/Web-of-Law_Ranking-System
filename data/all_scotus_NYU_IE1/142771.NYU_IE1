@@ -1,0 +1,42 @@
+<CITATION alternative_keys="['rodriguezhfp#2', 'rodriguezjagt#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1187" id1="142772" volume="543" start="0" page_number="1187" standard_reporter="U.S." citation_global_level_id="273.002" line="1" id="142771_1" citation_local_level_id="0" >543 U.S. 1187</CITATION>
+
+<CITATION party2="VANDER JAGT ET AL" party1="RODRIGUEZ" citation_global_level_id="273.004" party2_short="JAGT" line="2" id="142771_2" alternative_keys="['rodriguezhfp#2', 'u.s._543_1187']" end="48" entry_type="party_key" lookup_key="rodriguezjagt#2" id1="142772" start="18" party1_short="RODRIGUEZ" citation_local_level_id="1" >RODRIGUEZ v. VANDER JAGT ET AL</CITATION>
+
+<NAME end="27" start="18" party1_of="142771_2" all_names="RODRIGUEZ" local_name_id="1" id="142771_4" >RODRIGUEZ</NAME>
+
+<NAME end="48" start="31" all_names="VANDER JAGT" party2_of="142771_2" local_name_id="2" id="142771_5" >VANDER JAGT ET AL</NAME>
+
+<CITATION party2="HFP, INC., ET AL" party1="RODRIGUEZ" citation_global_level_id="759.004" party2_short="HFP" line="2" id="142771_3" alternative_keys="['u.s._541_903']" end="84" entry_type="party_key" lookup_key="rodriguezhfp#2" id1="134784" start="55" party1_short="RODRIGUEZ" citation_local_level_id="2" >RODRIGUEZ v. HFP, INC., ET AL</CITATION>
+
+<NAME end="64" start="55" party1_of="142771_3" all_names="RODRIGUEZ" local_name_id="1" id="142771_6" >RODRIGUEZ</NAME>
+
+<NAME end="84" start="68" all_names="HFP INC" party2_of="142771_3" local_name_id="3" id="142771_7" >HFP, INC., ET AL</NAME>
+
+<DOCKET alternative_keys="['rodriguezhfp#2', 'u.s._543_1187']" end="100" entry_type="docket" lookup_key="rodriguezjagt#2" id1="142772" start="94" citation_global_level_id="273.004" line="3" id="142771_12" citation_local_level_id="1" >04-867</DOCKET>
+
+<ORGANIZATION start="106" end="136" id="142771_13" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="142" citation_global_level_id="273.004" end="159" id="142771_14" citation_local_level_id="1" >February 28, 2005</DATE>
+
+<NAME start="181" local_name_id="4" end="184" id="142771_21" all_names="SUP" >Sup</NAME>
+
+<RELATION theme="142771_2" party1="142771_4" party1_string="RODRIGUEZ" theme_string="RODRIGUEZ v. VANDER JAGT ET AL" gram_type="infix" relation_type="asymmetric" id="142771_8" ></RELATION>
+
+<RELATION party2="142771_5" theme="142771_2" theme_string="RODRIGUEZ v. VANDER JAGT ET AL" party2_string="VANDER JAGT ET AL" gram_type="infix" relation_type="asymmetric" id="142771_9" ></RELATION>
+
+<RELATION theme="142771_3" party1="142771_6" party1_string="RODRIGUEZ" theme_string="RODRIGUEZ v. HFP, INC., ET AL" gram_type="infix" relation_type="asymmetric" id="142771_10" ></RELATION>
+
+<RELATION party2="142771_7" theme="142771_3" theme_string="RODRIGUEZ v. HFP, INC., ET AL" party2_string="HFP, INC., ET AL" gram_type="infix" relation_type="asymmetric" id="142771_11" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1187" X_vs_Y_string="RODRIGUEZ v. HFP, INC., ET AL" standard_case="142771_1" X_vs_Y="142771_3" gram_type="multi_line" relation_type="equivalence" id="142771_18" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1187" X_vs_Y_string="RODRIGUEZ v. VANDER JAGT ET AL" standard_case="142771_1" X_vs_Y="142771_2" gram_type="multi_line" relation_type="equivalence" id="142771_15" ></RELATION>
+
+<RELATION at_date_string="February 28, 2005" theme="142771_2" at_date="142771_14" theme_string="RODRIGUEZ v. VANDER JAGT ET AL" gram_type="multi_line" relation_type="asymmetric" id="142771_17" ></RELATION>
+
+<RELATION theme="142771_2" includes_docket_string="04-867" includes_docket="142771_12" theme_string="RODRIGUEZ v. VANDER JAGT ET AL" gram_type="multi_line" relation_type="asymmetric" id="142771_16" ></RELATION>
+
+<RELATION at_date_string="February 28, 2005" theme="142771_3" at_date="142771_14" theme_string="RODRIGUEZ v. HFP, INC., ET AL" gram_type="multi_line" relation_type="asymmetric" id="142771_20" ></RELATION>
+
+<RELATION theme="142771_3" includes_docket_string="04-867" includes_docket="142771_12" theme_string="RODRIGUEZ v. HFP, INC., ET AL" gram_type="multi_line" relation_type="asymmetric" id="142771_19" ></RELATION>
+

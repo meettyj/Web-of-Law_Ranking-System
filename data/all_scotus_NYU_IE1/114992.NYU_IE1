@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['tapertstates#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_965" id1="114994" volume="510" start="0" page_number="965" standard_reporter="U.S." citation_global_level_id="5796.002" line="1" id="114992_1" citation_local_level_id="0" >510 U.S. 965</CITATION>
+
+<CITATION party2="United States" party1="Tapert" citation_global_level_id="60884.001" party2_short="States" line="1" id="114992_3" alternative_keys="['u.s._510_965']" end="40" entry_type="party_key" lookup_key="tapertstates#1" id1="114992" start="17" party1_short="Tapert" citation_local_level_id="1" >Tapert v. United States</CITATION>
+
+<NAME end="23" start="17" party1_of="114992_3" all_names="TAPERT" local_name_id="1" id="114992_4" >Tapert</NAME>
+
+<NAME end="40" start="27" all_names="UNITED STATES" party2_of="114992_3" local_name_id="2" id="114992_5" >United States</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._510_965" id1="114994" start="50" citation_global_level_id="5796.002" line="1" id="114992_2" citation_local_level_id="0" >93-493</DOCKET>
+
+<DATE start="98" end="114" id="114992_6" >November 8, 1993</DATE>
+
+<NAME start="192" local_name_id="3" end="202" id="114992_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="241" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_993_1548" id1="Dummy_File_49398" volume="993" start="227" page_number="1548" standard_reporter="F.2D" citation_global_level_id="113248.001" line="3" id="114992_12" citation_local_level_id="2" >993 F. 2d 1548</CITATION>
+
+<RELATION theme="114992_1" includes_docket_string="93-493" includes_docket="114992_2" theme_string="510 U.S. 965" gram_type="apposition" relation_type="asymmetric" id="114992_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 965" X_vs_Y_string="Tapert v. United States" standard_case="114992_1" X_vs_Y="114992_3" gram_type="pre_nom" relation_type="equivalence" id="114992_7" ></RELATION>
+
+<RELATION theme="114992_3" includes_docket_string="93-493" includes_docket="114992_2" theme_string="Tapert v. United States" gram_type="apposition" relation_type="asymmetric" id="114992_10" ></RELATION>
+
+<RELATION theme="114992_3" party1="114992_4" party1_string="Tapert" theme_string="Tapert v. United States" gram_type="infix" relation_type="asymmetric" id="114992_8" ></RELATION>
+
+<RELATION party2="114992_5" theme="114992_3" theme_string="Tapert v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="114992_9" ></RELATION>
+

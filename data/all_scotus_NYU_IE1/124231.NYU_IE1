@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['maxwellalabama#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_951" id1="124232" volume="537" start="0" page_number="951" standard_reporter="U.S." citation_global_level_id="3663.002" line="1" id="124231_1" citation_local_level_id="0" >537 U.S. 951</CITATION>
+
+<CITATION party2="ALABAMA" party1="MAXWELL" citation_global_level_id="5865.001" party2_short="ALABAMA" line="1" id="124231_3" alternative_keys="['u.s._537_951']" end="35" entry_type="party_key" lookup_key="maxwellalabama#1" id1="124231" start="17" party1_short="MAXWELL" citation_local_level_id="1" >MAXWELL v. ALABAMA</CITATION>
+
+<NAME end="24" start="17" party1_of="124231_3" all_names="MAXWELL" local_name_id="1" id="124231_4" >MAXWELL</NAME>
+
+<NAME end="35" start="28" all_names="ALABAMA" party2_of="124231_3" local_name_id="2" id="124231_5" >ALABAMA</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="u.s._537_951" id1="124232" start="45" citation_global_level_id="3663.002" line="1" id="124231_2" citation_local_level_id="0" >02-5172</DOCKET>
+
+<DATE start="94" end="110" id="124231_6" >October 15, 2002</DATE>
+
+<NAME start="213" local_name_id="3" end="215" id="124231_13" all_names="CT" >Ct</NAME>
+
+<CITATION end="282" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_828_347" id1="Dummy_File_196265" volume="828" start="268" page_number="347" standard_reporter="SO.2D" citation_global_level_id="260115.001" line="3" id="124231_12" citation_local_level_id="2" >828 So. 2d 347</CITATION>
+
+<RELATION theme="124231_1" includes_docket_string="02-5172" includes_docket="124231_2" theme_string="537 U.S. 951" gram_type="apposition" relation_type="asymmetric" id="124231_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 951" X_vs_Y_string="MAXWELL v. ALABAMA" standard_case="124231_1" X_vs_Y="124231_3" gram_type="pre_nom" relation_type="equivalence" id="124231_7" ></RELATION>
+
+<RELATION theme="124231_3" includes_docket_string="02-5172" includes_docket="124231_2" theme_string="MAXWELL v. ALABAMA" gram_type="apposition" relation_type="asymmetric" id="124231_10" ></RELATION>
+
+<RELATION theme="124231_3" party1="124231_4" party1_string="MAXWELL" theme_string="MAXWELL v. ALABAMA" gram_type="infix" relation_type="asymmetric" id="124231_8" ></RELATION>
+
+<RELATION party2="124231_5" theme="124231_3" theme_string="MAXWELL v. ALABAMA" party2_string="ALABAMA" gram_type="infix" relation_type="asymmetric" id="124231_9" ></RELATION>
+

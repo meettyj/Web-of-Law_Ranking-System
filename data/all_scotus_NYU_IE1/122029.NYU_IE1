@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['montoyastates#7']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._536_971" id1="122019" volume="536" start="0" page_number="971" standard_reporter="U.S." citation_global_level_id="4377.002" line="1" id="122029_1" citation_local_level_id="0" >536 U.S. 971</CITATION>
+
+<CITATION party2="UNITED STATES" party1="MONTOYA" citation_global_level_id="61634.001" party2_short="STATES" line="2" id="122029_2" alternative_keys="['u.s._536_971']" end="41" entry_type="party_key" lookup_key="montoyastates#7" id1="122539" start="17" party1_short="MONTOYA" citation_local_level_id="1" >MONTOYA v. UNITED STATES</CITATION>
+
+<NAME end="24" start="17" party1_of="122029_2" all_names="MONTOYA" local_name_id="1" id="122029_3" >MONTOYA</NAME>
+
+<NAME end="41" start="28" all_names="UNITED STATES" party2_of="122029_2" local_name_id="2" id="122029_4" >UNITED STATES</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="montoyastates#7" id1="122539" start="51" citation_global_level_id="61634.001" line="3" id="122029_7" citation_local_level_id="1" >01-10484</DOCKET>
+
+<DATE start="105" citation_global_level_id="61634.001" end="118" id="122029_8" citation_local_level_id="1" >June 28, 2002</DATE>
+
+<NAME start="151" local_name_id="3" end="154" id="122029_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="122029_2" party1="122029_3" party1_string="MONTOYA" theme_string="MONTOYA v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="122029_5" ></RELATION>
+
+<RELATION party2="122029_4" theme="122029_2" theme_string="MONTOYA v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="122029_6" ></RELATION>
+
+<RELATION standard_case_string="536 U.S. 971" X_vs_Y_string="MONTOYA v. UNITED STATES" standard_case="122029_1" X_vs_Y="122029_2" gram_type="multi_line" relation_type="equivalence" id="122029_9" ></RELATION>
+
+<RELATION at_date_string="June 28, 2002" theme="122029_2" at_date="122029_8" theme_string="MONTOYA v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="122029_11" ></RELATION>
+
+<RELATION theme="122029_2" includes_docket_string="01-10484" includes_docket="122029_7" theme_string="MONTOYA v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="122029_10" ></RELATION>
+

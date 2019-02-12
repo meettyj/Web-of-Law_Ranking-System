@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['foxhutton#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_851" id1="113541" volume="510" start="0" page_number="851" standard_reporter="U.S." citation_global_level_id="2297.002" line="1" id="113530_1" citation_local_level_id="0" >510 U.S. 851</CITATION>
+
+<CITATION party2="Hutton et al" party1="Fox" citation_global_level_id="49875.001" party2_short="Hutton" line="1" id="113530_3" alternative_keys="['u.s._510_851']" end="36" entry_type="party_key" lookup_key="foxhutton#1" id1="113530" start="17" party1_short="Fox" citation_local_level_id="1" >Fox v. Hutton et al</CITATION>
+
+<NAME end="20" start="17" party1_of="113530_3" all_names="FOX" local_name_id="1" id="113530_4" >Fox</NAME>
+
+<NAME end="36" start="24" all_names="HUTTON" party2_of="113530_3" local_name_id="2" id="113530_5" >Hutton et al</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="u.s._510_851" id1="113541" start="46" citation_global_level_id="2297.002" line="1" id="113530_2" citation_local_level_id="0" >92-9106</DOCKET>
+
+<DATE start="95" end="110" id="113530_6" >October 4, 1993</DATE>
+
+<NAME start="188" local_name_id="3" end="198" id="113530_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="236" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_989_505" id1="Dummy_File_128438" volume="989" start="223" page_number="505" standard_reporter="F.2D" citation_global_level_id="192288.001" line="3" id="113530_12" citation_local_level_id="2" >989 F. 2d 505</CITATION>
+
+<RELATION theme="113530_1" includes_docket_string="92-9106" includes_docket="113530_2" theme_string="510 U.S. 851" gram_type="apposition" relation_type="asymmetric" id="113530_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 851" X_vs_Y_string="Fox v. Hutton et al" standard_case="113530_1" X_vs_Y="113530_3" gram_type="pre_nom" relation_type="equivalence" id="113530_7" ></RELATION>
+
+<RELATION theme="113530_3" includes_docket_string="92-9106" includes_docket="113530_2" theme_string="Fox v. Hutton et al" gram_type="apposition" relation_type="asymmetric" id="113530_10" ></RELATION>
+
+<RELATION theme="113530_3" party1="113530_4" party1_string="Fox" theme_string="Fox v. Hutton et al" gram_type="infix" relation_type="asymmetric" id="113530_8" ></RELATION>
+
+<RELATION party2="113530_5" theme="113530_3" theme_string="Fox v. Hutton et al" party2_string="Hutton et al" gram_type="infix" relation_type="asymmetric" id="113530_9" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['givensvirginia#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_911" id1="139214" volume="543" start="0" page_number="911" standard_reporter="U.S." citation_global_level_id="1254.002" line="1" id="139215_1" citation_local_level_id="0" >543 U.S. 911</CITATION>
+
+<CITATION party2="WEST VIRGINIA ET AL" party1="GIVENS" citation_global_level_id="45140.001" party2_short="VIRGINIA" line="2" id="139215_3" alternative_keys="['u.s._543_911']" end="46" entry_type="party_key" lookup_key="givensvirginia#1" id1="139215" start="17" party1_short="GIVENS" citation_local_level_id="1" >GIVENS v. WEST VIRGINIA ET AL</CITATION>
+
+<NAME end="23" start="17" party1_of="139215_3" all_names="GIVENS" local_name_id="1" id="139215_4" >GIVENS</NAME>
+
+<NAME end="46" start="27" all_names="WEST VIRGINIA" party2_of="139215_3" local_name_id="2" id="139215_5" >WEST VIRGINIA ET AL</NAME>
+
+<DOCKET end="63" entry_type="docket" lookup_key="givensvirginia#1" id1="139215" start="56" citation_global_level_id="45140.001" line="2" id="139215_2" citation_local_level_id="1" >04-5792</DOCKET>
+
+<ORGANIZATION start="69" end="99" id="139215_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="105" citation_global_level_id="45140.001" end="120" id="139215_10" citation_local_level_id="1" >October 4, 2004</DATE>
+
+<NAME start="152" local_name_id="3" end="155" id="139215_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="139215_3" includes_docket_string="04-5792" includes_docket="139215_2" theme_string="GIVENS v. WEST VIRGINIA ET AL" gram_type="apposition" relation_type="asymmetric" id="139215_8" ></RELATION>
+
+<RELATION theme="139215_3" party1="139215_4" party1_string="GIVENS" theme_string="GIVENS v. WEST VIRGINIA ET AL" gram_type="infix" relation_type="asymmetric" id="139215_6" ></RELATION>
+
+<RELATION party2="139215_5" theme="139215_3" theme_string="GIVENS v. WEST VIRGINIA ET AL" party2_string="WEST VIRGINIA ET AL" gram_type="infix" relation_type="asymmetric" id="139215_7" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 911" X_vs_Y_string="GIVENS v. WEST VIRGINIA ET AL" standard_case="139215_1" X_vs_Y="139215_3" gram_type="multi_line" relation_type="equivalence" id="139215_11" ></RELATION>
+
+<RELATION at_date_string="October 4, 2004" theme="139215_3" at_date="139215_10" theme_string="GIVENS v. WEST VIRGINIA ET AL" gram_type="multi_line" relation_type="asymmetric" id="139215_12" ></RELATION>
+

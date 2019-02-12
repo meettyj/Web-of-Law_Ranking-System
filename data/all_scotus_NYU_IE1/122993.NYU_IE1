@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['souchwarden#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_859" id1="123000" volume="537" start="0" page_number="859" standard_reporter="U.S." citation_global_level_id="6868.002" line="1" id="122993_1" citation_local_level_id="0" >537 U.S. 859</CITATION>
+
+<CITATION party2="DEPUTY SCHIAVO WARDEN" party1="SOUCH" citation_global_level_id="60397.001" party2_short="WARDEN" line="1" id="122993_3" alternative_keys="['u.s._537_859']" end="47" entry_type="party_key" lookup_key="souchwarden#1" id1="122993" start="17" party1_short="SOUCH" citation_local_level_id="1" >SOUCH v. DEPUTY SCHIAVO WARDEN</CITATION>
+
+<NAME end="22" start="17" party1_of="122993_3" all_names="SOUCH" local_name_id="1" id="122993_4" >SOUCH</NAME>
+
+<NAME end="47" start="26" all_names="DEPUTY SCHIAVO WARDEN" party2_of="122993_3" local_name_id="2" id="122993_5" >DEPUTY SCHIAVO WARDEN</NAME>
+
+<DOCKET end="65" entry_type="docket" lookup_key="u.s._537_859" id1="123000" start="57" citation_global_level_id="6868.002" line="1" id="122993_2" citation_local_level_id="0" >01-10720</DOCKET>
+
+<DATE start="107" end="122" id="122993_6" >October 7, 2002</DATE>
+
+<NAME start="251" local_name_id="3" end="254" id="122993_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="304" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_289_616" id1="Dummy_File_56744" volume="289" start="291" page_number="616" standard_reporter="F.3D" citation_global_level_id="120594.001" line="3" id="122993_12" citation_local_level_id="2" >289 F. 3d 616</CITATION>
+
+<RELATION theme="122993_1" includes_docket_string="01-10720" includes_docket="122993_2" theme_string="537 U.S. 859" gram_type="apposition" relation_type="asymmetric" id="122993_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 859" X_vs_Y_string="SOUCH v. DEPUTY SCHIAVO WARDEN" standard_case="122993_1" X_vs_Y="122993_3" gram_type="pre_nom" relation_type="equivalence" id="122993_7" ></RELATION>
+
+<RELATION theme="122993_3" includes_docket_string="01-10720" includes_docket="122993_2" theme_string="SOUCH v. DEPUTY SCHIAVO WARDEN" gram_type="apposition" relation_type="asymmetric" id="122993_10" ></RELATION>
+
+<RELATION theme="122993_3" party1="122993_4" party1_string="SOUCH" theme_string="SOUCH v. DEPUTY SCHIAVO WARDEN" gram_type="infix" relation_type="asymmetric" id="122993_8" ></RELATION>
+
+<RELATION party2="122993_5" theme="122993_3" theme_string="SOUCH v. DEPUTY SCHIAVO WARDEN" party2_string="DEPUTY SCHIAVO WARDEN" gram_type="infix" relation_type="asymmetric" id="122993_9" ></RELATION>
+

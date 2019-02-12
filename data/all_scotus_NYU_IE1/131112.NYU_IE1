@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['anunkacampbell#2', 'u.s._535_1039']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_984" id1="131107" volume="539" start="0" page_number="984" standard_reporter="U.S." citation_global_level_id="3097.002" line="1" id="131112_1" citation_local_level_id="0" >539 U.S. 984</CITATION>
+
+<CITATION party2="Campbell et al" party1="Anunka" citation_global_level_id="55016.001" party2_short="Campbell" line="2" id="131112_3" alternative_keys="['u.s._539_984', 'u.s._535_1039']" end="41" entry_type="party_key" lookup_key="anunkacampbell#2" id1="131112" start="17" party1_short="Anunka" citation_local_level_id="1" >Anunka v. Campbell et al</CITATION>
+
+<NAME end="23" start="17" party1_of="131112_3" all_names="ANUNKA" local_name_id="1" id="131112_4" >Anunka</NAME>
+
+<NAME end="41" start="27" all_names="CAMPBELL" party2_of="131112_3" local_name_id="2" id="131112_5" >Campbell et al</NAME>
+
+<CITATION alternative_keys="['u.s._539_984', 'anunkacampbell#2']" end="58" reporter="U. S." entry_type="standard_key" lookup_key="u.s._535_1039" id1="120161" volume="535" start="44" page_number="1039" standard_reporter="U.S." citation_global_level_id="3843.002" line="2" id="131112_2" citation_local_level_id="2" >535 U. S. 1039</CITATION>
+
+<DOCKET end="75" entry_type="docket" lookup_key="anunkacampbell#2" id1="131112" start="68" citation_global_level_id="55016.001" line="3" id="131112_9" citation_local_level_id="1" >01-8709</DOCKET>
+
+<ORGANIZATION start="81" end="111" id="131112_10" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="117" citation_global_level_id="55016.001" end="132" id="131112_11" citation_local_level_id="1" >August 25, 2003</DATE>
+
+<NAME start="154" local_name_id="3" end="160" id="131112_15" all_names="MOTION" >Motion</NAME>
+
+<RELATION standard_case_string="535 U. S. 1039" X_vs_Y_string="Anunka v. Campbell et al" standard_case="131112_2" X_vs_Y="131112_3" gram_type="apposition" relation_type="equivalence" id="131112_8" ></RELATION>
+
+<RELATION theme="131112_3" party1="131112_4" party1_string="Anunka" theme_string="Anunka v. Campbell et al" gram_type="infix" relation_type="asymmetric" id="131112_6" ></RELATION>
+
+<RELATION party2="131112_5" theme="131112_3" theme_string="Anunka v. Campbell et al" party2_string="Campbell et al" gram_type="infix" relation_type="asymmetric" id="131112_7" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 984" X_vs_Y_string="Anunka v. Campbell et al" standard_case="131112_1" X_vs_Y="131112_3" gram_type="multi_line" relation_type="equivalence" id="131112_12" ></RELATION>
+
+<RELATION at_date_string="August 25, 2003" theme="131112_3" at_date="131112_11" theme_string="Anunka v. Campbell et al" gram_type="multi_line" relation_type="asymmetric" id="131112_14" ></RELATION>
+
+<RELATION theme="131112_3" includes_docket_string="01-8709" includes_docket="131112_9" theme_string="Anunka v. Campbell et al" gram_type="multi_line" relation_type="asymmetric" id="131112_13" ></RELATION>
+

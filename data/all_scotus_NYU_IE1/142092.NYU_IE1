@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['educationboard#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1131" id1="142078" volume="543" start="0" page_number="1131" standard_reporter="U.S." citation_global_level_id="911.002" line="1" id="142092_1" citation_local_level_id="0" >543 U.S. 1131</CITATION>
+
+<CITATION party2="NATIONAL LABOR RELATIONS BOARD" party1="PEARSON EDUCATION, INC." citation_global_level_id="911.004" party2_short="BOARD" line="2" id="142092_2" alternative_keys="['u.s._543_1131']" end="75" entry_type="party_key" lookup_key="educationboard#1" id1="142078" start="18" party1_short="EDUCATION" citation_local_level_id="1" >PEARSON EDUCATION, INC. v. NATIONAL LABOR RELATIONS BOARD</CITATION>
+
+<NAME end="41" start="18" party1_of="142092_2" all_names="PEARSON EDUCATION INC" local_name_id="1" id="142092_3" >PEARSON EDUCATION, INC.</NAME>
+
+<ORGANIZATION start="18" end="40" id="142092_5" >PEARSON EDUCATION, INC</ORGANIZATION>
+
+<NAME end="75" start="45" all_names="NATIONAL LABOR RELATIONS BOARD" party2_of="142092_2" local_name_id="2" id="142092_4" >NATIONAL LABOR RELATIONS BOARD</NAME>
+
+<DOCKET alternative_keys="['u.s._543_1131']" end="91" entry_type="docket" lookup_key="educationboard#1" id1="142078" start="85" citation_global_level_id="911.004" line="3" id="142092_8" citation_local_level_id="1" >04-467</DOCKET>
+
+<ORGANIZATION start="97" end="127" id="142092_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="133" citation_global_level_id="911.004" end="149" id="142092_10" citation_local_level_id="1" >January 24, 2005</DATE>
+
+<NAME start="171" local_name_id="3" end="186" id="142092_15" all_names="C A D C CIR" >C. A. D. C. Cir</NAME>
+
+<NAME start="188" local_name_id="4" end="198" id="142092_16" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="315" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_373_127" id1="Dummy_File_133160" volume="373" start="302" page_number="127" standard_reporter="F.3D" citation_global_level_id="197010.001" line="8" id="142092_14" citation_local_level_id="2" >373 F. 3d 127</CITATION>
+
+<RELATION theme="142092_2" party1="142092_3" party1_string="PEARSON EDUCATION, INC." theme_string="PEARSON EDUCATION, INC. v. NATIONAL LABOR RELATIONS BOARD" gram_type="infix" relation_type="asymmetric" id="142092_6" ></RELATION>
+
+<RELATION party2="142092_4" theme="142092_2" theme_string="PEARSON EDUCATION, INC. v. NATIONAL LABOR RELATIONS BOARD" party2_string="NATIONAL LABOR RELATIONS BOARD" gram_type="infix" relation_type="asymmetric" id="142092_7" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1131" X_vs_Y_string="PEARSON EDUCATION, INC. v. NATIONAL LABOR RELATIONS BOARD" standard_case="142092_1" X_vs_Y="142092_2" gram_type="multi_line" relation_type="equivalence" id="142092_11" ></RELATION>
+
+<RELATION at_date_string="January 24, 2005" theme="142092_2" at_date="142092_10" theme_string="PEARSON EDUCATION, INC. v. NATIONAL LABOR RELATIONS BOARD" gram_type="multi_line" relation_type="asymmetric" id="142092_13" ></RELATION>
+
+<RELATION theme="142092_2" includes_docket_string="04-467" includes_docket="142092_8" theme_string="PEARSON EDUCATION, INC. v. NATIONAL LABOR RELATIONS BOARD" gram_type="multi_line" relation_type="asymmetric" id="142092_12" ></RELATION>
+

@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['pereztexas#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1050" id1="125407" volume="537" start="0" page_number="1050" standard_reporter="U.S." citation_global_level_id="5516.002" line="1" id="125407_1" citation_local_level_id="0" >537 U.S. 1050</CITATION>
+
+<CITATION party2="TEXAS" party1="CASTRO PEREZ" citation_global_level_id="55927.001" party2_short="TEXAS" line="1" id="125407_3" alternative_keys="['u.s._537_1050']" end="39" entry_type="party_key" lookup_key="pereztexas#2" id1="138306" start="18" party1_short="PEREZ" citation_local_level_id="1" >CASTRO PEREZ v. TEXAS</CITATION>
+
+<NAME end="30" start="18" party1_of="125407_3" all_names="CASTRO PEREZ" local_name_id="1" id="125407_4" >CASTRO PEREZ</NAME>
+
+<NAME end="39" start="34" all_names="TEXAS" party2_of="125407_3" local_name_id="2" id="125407_5" >TEXAS</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._537_1050" id1="125407" start="49" citation_global_level_id="5516.002" line="1" id="125407_2" citation_local_level_id="0" >02-6064</DOCKET>
+
+<DATE start="98" end="114" id="125407_6" >December 2, 2002</DATE>
+
+<NAME start="215" local_name_id="3" end="217" id="125407_12" all_names="CT" >Ct</NAME>
+
+<RELATION theme="125407_1" includes_docket_string="02-6064" includes_docket="125407_2" theme_string="537 U.S. 1050" gram_type="apposition" relation_type="asymmetric" id="125407_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1050" X_vs_Y_string="CASTRO PEREZ v. TEXAS" standard_case="125407_1" X_vs_Y="125407_3" gram_type="pre_nom" relation_type="equivalence" id="125407_7" ></RELATION>
+
+<RELATION theme="125407_3" includes_docket_string="02-6064" includes_docket="125407_2" theme_string="CASTRO PEREZ v. TEXAS" gram_type="apposition" relation_type="asymmetric" id="125407_10" ></RELATION>
+
+<RELATION theme="125407_3" party1="125407_4" party1_string="CASTRO PEREZ" theme_string="CASTRO PEREZ v. TEXAS" gram_type="infix" relation_type="asymmetric" id="125407_8" ></RELATION>
+
+<RELATION party2="125407_5" theme="125407_3" theme_string="CASTRO PEREZ v. TEXAS" party2_string="TEXAS" gram_type="infix" relation_type="asymmetric" id="125407_9" ></RELATION>
+

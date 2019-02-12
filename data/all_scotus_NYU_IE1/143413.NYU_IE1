@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['staffordstates#4']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_945" id1="143425" volume="544" start="0" page_number="945" standard_reporter="U.S." citation_global_level_id="381.002" line="1" id="143413_1" citation_local_level_id="0" >544 U.S. 945</CITATION>
+
+<CITATION party2="UNITED STATES" party1="STAFFORD" citation_global_level_id="38964.001" party2_short="STATES" line="2" id="143413_2" alternative_keys="['u.s._544_945']" end="42" entry_type="party_key" lookup_key="staffordstates#4" id1="133663" start="17" party1_short="STAFFORD" citation_local_level_id="1" >STAFFORD v. UNITED STATES</CITATION>
+
+<NAME end="25" start="17" party1_of="143413_2" all_names="STAFFORD" local_name_id="1" id="143413_3" >STAFFORD</NAME>
+
+<NAME end="42" start="29" all_names="UNITED STATES" party2_of="143413_2" local_name_id="2" id="143413_4" >UNITED STATES</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="staffordstates#4" id1="133663" start="52" citation_global_level_id="38964.001" line="3" id="143413_7" citation_local_level_id="1" >04-7777</DOCKET>
+
+<ORGANIZATION start="65" end="95" id="143413_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="101" citation_global_level_id="38964.001" end="115" id="143413_9" citation_local_level_id="1" >March 21, 2005</DATE>
+
+<CITATION end="150" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1129" id1="142060" volume="543" start="137" page_number="1129" standard_reporter="U.S." citation_global_level_id="7577.002" line="8" id="143413_13" citation_local_level_id="2" >543 U.S. 1129</CITATION>
+
+<NAME start="152" local_name_id="3" end="160" id="143413_14" all_names="PETITION" >Petition</NAME>
+
+<RELATION theme="143413_2" party1="143413_3" party1_string="STAFFORD" theme_string="STAFFORD v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="143413_5" ></RELATION>
+
+<RELATION party2="143413_4" theme="143413_2" theme_string="STAFFORD v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="143413_6" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 945" X_vs_Y_string="STAFFORD v. UNITED STATES" standard_case="143413_1" X_vs_Y="143413_2" gram_type="multi_line" relation_type="equivalence" id="143413_10" ></RELATION>
+
+<RELATION at_date_string="March 21, 2005" theme="143413_2" at_date="143413_9" theme_string="STAFFORD v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="143413_12" ></RELATION>
+
+<RELATION theme="143413_2" includes_docket_string="04-7777" includes_docket="143413_7" theme_string="STAFFORD v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="143413_11" ></RELATION>
+

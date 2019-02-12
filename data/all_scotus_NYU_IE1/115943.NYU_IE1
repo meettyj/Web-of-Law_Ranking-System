@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['lewisohio#3']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1041" id1="115941" volume="510" start="0" page_number="1041" standard_reporter="U.S." citation_global_level_id="12614.002" line="1" id="115943_1" citation_local_level_id="0" >510 U.S. 1041</CITATION>
+
+<CITATION party2="Ohio" party1="Lewis" citation_global_level_id="55025.001" party2_short="Ohio" line="1" id="115943_3" alternative_keys="['u.s._510_1041']" end="31" entry_type="party_key" lookup_key="lewisohio#3" id1="117522" start="18" party1_short="Lewis" citation_local_level_id="1" >Lewis v. Ohio</CITATION>
+
+<NAME end="23" start="18" party1_of="115943_3" all_names="LEWIS" local_name_id="1" id="115943_4" >Lewis</NAME>
+
+<NAME end="31" start="27" all_names="OHIO" party2_of="115943_3" local_name_id="2" id="115943_5" >Ohio</NAME>
+
+<DOCKET end="47" entry_type="docket" lookup_key="u.s._510_1041" id1="115941" start="41" citation_global_level_id="12614.002" line="1" id="115943_2" citation_local_level_id="0" >93-580</DOCKET>
+
+<DATE start="89" end="105" id="115943_6" >January 10, 1994</DATE>
+
+<NAME start="197" local_name_id="3" end="207" id="115943_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="267" reporter="N. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.e.2d_619_57" id1="Dummy_File_145741" volume="619" start="252" page_number="57" standard_reporter="N.E.2D" citation_global_level_id="209591.001" line="3" id="115943_12" citation_local_level_id="2" >619 N. E. 2d 57</CITATION>
+
+<RELATION theme="115943_1" includes_docket_string="93-580" includes_docket="115943_2" theme_string="510 U.S. 1041" gram_type="apposition" relation_type="asymmetric" id="115943_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1041" X_vs_Y_string="Lewis v. Ohio" standard_case="115943_1" X_vs_Y="115943_3" gram_type="pre_nom" relation_type="equivalence" id="115943_7" ></RELATION>
+
+<RELATION theme="115943_3" includes_docket_string="93-580" includes_docket="115943_2" theme_string="Lewis v. Ohio" gram_type="apposition" relation_type="asymmetric" id="115943_10" ></RELATION>
+
+<RELATION theme="115943_3" party1="115943_4" party1_string="Lewis" theme_string="Lewis v. Ohio" gram_type="infix" relation_type="asymmetric" id="115943_8" ></RELATION>
+
+<RELATION party2="115943_5" theme="115943_3" theme_string="Lewis v. Ohio" party2_string="Ohio" gram_type="infix" relation_type="asymmetric" id="115943_9" ></RELATION>
+

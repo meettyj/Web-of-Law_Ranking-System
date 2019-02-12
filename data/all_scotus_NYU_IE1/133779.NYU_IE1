@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['johnsonindustries#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_1004" id1="133778" volume="540" start="0" page_number="1004" standard_reporter="U.S." citation_global_level_id="2787.002" line="1" id="133779_1" citation_local_level_id="0" >540 U.S. 1004</CITATION>
+
+<CITATION party2="CAMBRIDGE INDUSTRIES, INC., ET AL" party1="JOHNSON" citation_global_level_id="2787.003" party2_short="INDUSTRIES" line="1" id="133779_3" alternative_keys="['u.s._540_1004']" end="62" entry_type="party_key" lookup_key="johnsonindustries#2" id1="133778" start="18" party1_short="JOHNSON" citation_local_level_id="1" >JOHNSON v. CAMBRIDGE INDUSTRIES, INC., ET AL</CITATION>
+
+<NAME end="25" start="18" party1_of="133779_3" all_names="JOHNSON" local_name_id="1" id="133779_4" >JOHNSON</NAME>
+
+<NAME end="62" start="29" all_names="CAMBRIDGE INDUSTRIES INC" party2_of="133779_3" local_name_id="2" id="133779_5" >CAMBRIDGE INDUSTRIES, INC., ET AL</NAME>
+
+<DOCKET end="78" entry_type="docket" lookup_key="u.s._540_1004" id1="133778" start="72" citation_global_level_id="2787.002" line="1" id="133779_2" citation_local_level_id="0" >03-348</DOCKET>
+
+<DATE start="120" end="137" id="133779_6" >November 10, 2003</DATE>
+
+<NAME start="215" local_name_id="3" end="225" id="133779_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="263" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_325_892" id1="Dummy_File_18471" volume="325" start="250" page_number="892" standard_reporter="F.3D" citation_global_level_id="82321.001" line="3" id="133779_12" citation_local_level_id="2" >325 F. 3d 892</CITATION>
+
+<RELATION theme="133779_1" includes_docket_string="03-348" includes_docket="133779_2" theme_string="540 U.S. 1004" gram_type="apposition" relation_type="asymmetric" id="133779_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 1004" X_vs_Y_string="JOHNSON v. CAMBRIDGE INDUSTRIES, INC., ET AL" standard_case="133779_1" X_vs_Y="133779_3" gram_type="pre_nom" relation_type="equivalence" id="133779_7" ></RELATION>
+
+<RELATION theme="133779_3" includes_docket_string="03-348" includes_docket="133779_2" theme_string="JOHNSON v. CAMBRIDGE INDUSTRIES, INC., ET AL" gram_type="apposition" relation_type="asymmetric" id="133779_10" ></RELATION>
+
+<RELATION theme="133779_3" party1="133779_4" party1_string="JOHNSON" theme_string="JOHNSON v. CAMBRIDGE INDUSTRIES, INC., ET AL" gram_type="infix" relation_type="asymmetric" id="133779_8" ></RELATION>
+
+<RELATION party2="133779_5" theme="133779_3" theme_string="JOHNSON v. CAMBRIDGE INDUSTRIES, INC., ET AL" party2_string="CAMBRIDGE INDUSTRIES, INC., ET AL" gram_type="infix" relation_type="asymmetric" id="133779_9" ></RELATION>
+

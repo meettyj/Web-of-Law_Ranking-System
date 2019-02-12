@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['peircebank#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_959" id1="135286" volume="541" start="0" page_number="959" standard_reporter="U.S." citation_global_level_id="1664.002" line="1" id="135280_1" citation_local_level_id="0" >541 U.S. 959</CITATION>
+
+<CITATION party2="MELLON BANK CORP. ET AL" party1="PEIRCE ET AL." citation_global_level_id="62588.001" party2_short="BANK" line="2" id="135280_2" alternative_keys="['u.s._541_959']" end="57" entry_type="party_key" lookup_key="peircebank#1" id1="135280" start="17" party1_short="PEIRCE" citation_local_level_id="1" >PEIRCE ET AL. v. MELLON BANK CORP. ET AL</CITATION>
+
+<NAME end="30" start="17" party1_of="135280_2" all_names="PEIRCE" local_name_id="1" id="135280_3" >PEIRCE ET AL.</NAME>
+
+<NAME end="57" start="34" all_names="MELLON BANK CORP" party2_of="135280_2" local_name_id="2" id="135280_4" >MELLON BANK CORP. ET AL</NAME>
+
+<ORGANIZATION start="34" end="50" id="135280_5" >MELLON BANK CORP</ORGANIZATION>
+
+<DOCKET end="74" entry_type="docket" lookup_key="peircebank#1" id1="135280" start="67" citation_global_level_id="62588.001" line="3" id="135280_8" citation_local_level_id="1" >03-1069</DOCKET>
+
+<ORGANIZATION start="80" end="110" id="135280_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="116" citation_global_level_id="62588.001" end="130" id="135280_10" citation_local_level_id="1" >March 29, 2004</DATE>
+
+<NAME start="161" local_name_id="3" end="164" id="135280_14" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="135280_2" party1="135280_3" party1_string="PEIRCE ET AL." theme_string="PEIRCE ET AL. v. MELLON BANK CORP. ET AL" gram_type="infix" relation_type="asymmetric" id="135280_6" ></RELATION>
+
+<RELATION party2="135280_4" theme="135280_2" theme_string="PEIRCE ET AL. v. MELLON BANK CORP. ET AL" party2_string="MELLON BANK CORP. ET AL" gram_type="infix" relation_type="asymmetric" id="135280_7" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 959" X_vs_Y_string="PEIRCE ET AL. v. MELLON BANK CORP. ET AL" standard_case="135280_1" X_vs_Y="135280_2" gram_type="multi_line" relation_type="equivalence" id="135280_11" ></RELATION>
+
+<RELATION at_date_string="March 29, 2004" theme="135280_2" at_date="135280_10" theme_string="PEIRCE ET AL. v. MELLON BANK CORP. ET AL" gram_type="multi_line" relation_type="asymmetric" id="135280_13" ></RELATION>
+
+<RELATION theme="135280_2" includes_docket_string="03-1069" includes_docket="135280_8" theme_string="PEIRCE ET AL. v. MELLON BANK CORP. ET AL" gram_type="multi_line" relation_type="asymmetric" id="135280_12" ></RELATION>
+

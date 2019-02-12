@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['warddepartment#7']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1117" id1="121073" volume="535" start="0" page_number="1117" standard_reporter="U.S." citation_global_level_id="5917.002" line="1" id="121072_1" citation_local_level_id="0" >535 U.S. 1117</CITATION>
+
+<CITATION party2="MICHIGAN DEPARTMENT OF CORRECTIONS" party1="WARD" citation_global_level_id="41928.001" party2_short="DEPARTMENT" line="2" id="121072_2" alternative_keys="['u.s._535_1117']" end="60" entry_type="party_key" lookup_key="warddepartment#7" id1="116181" start="18" party1_short="WARD" citation_local_level_id="1" >WARD v. MICHIGAN DEPARTMENT OF CORRECTIONS</CITATION>
+
+<NAME end="22" start="18" party1_of="121072_2" all_names="WARD" local_name_id="1" id="121072_3" >WARD</NAME>
+
+<NAME end="60" start="26" all_names="MICHIGAN DEPARTMENT OF CORRECTIONS" party2_of="121072_2" local_name_id="2" id="121072_4" >MICHIGAN DEPARTMENT OF CORRECTIONS</NAME>
+
+<DOCKET end="77" entry_type="docket" lookup_key="warddepartment#7" id1="116181" start="70" citation_global_level_id="41928.001" line="3" id="121072_7" citation_local_level_id="1" >01-9425</DOCKET>
+
+<DATE start="123" citation_global_level_id="41928.001" end="135" id="121072_8" citation_local_level_id="1" >June 3, 2002</DATE>
+
+<NAME start="157" local_name_id="3" end="160" id="121072_12" all_names="SUP" >Sup</NAME>
+
+<RELATION theme="121072_2" party1="121072_3" party1_string="WARD" theme_string="WARD v. MICHIGAN DEPARTMENT OF CORRECTIONS" gram_type="infix" relation_type="asymmetric" id="121072_5" ></RELATION>
+
+<RELATION party2="121072_4" theme="121072_2" theme_string="WARD v. MICHIGAN DEPARTMENT OF CORRECTIONS" party2_string="MICHIGAN DEPARTMENT OF CORRECTIONS" gram_type="infix" relation_type="asymmetric" id="121072_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1117" X_vs_Y_string="WARD v. MICHIGAN DEPARTMENT OF CORRECTIONS" standard_case="121072_1" X_vs_Y="121072_2" gram_type="multi_line" relation_type="equivalence" id="121072_9" ></RELATION>
+
+<RELATION at_date_string="June 3, 2002" theme="121072_2" at_date="121072_8" theme_string="WARD v. MICHIGAN DEPARTMENT OF CORRECTIONS" gram_type="multi_line" relation_type="asymmetric" id="121072_11" ></RELATION>
+
+<RELATION theme="121072_2" includes_docket_string="01-9425" includes_docket="121072_7" theme_string="WARD v. MICHIGAN DEPARTMENT OF CORRECTIONS" gram_type="multi_line" relation_type="asymmetric" id="121072_10" ></RELATION>
+

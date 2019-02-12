@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['alexanderstates#9']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._542_945" id1="137544" volume="542" start="0" page_number="945" standard_reporter="U.S." citation_global_level_id="1783.002" line="1" id="137539_1" citation_local_level_id="0" >542 U.S. 945</CITATION>
+
+<CITATION party2="UNITED STATES" party1="ALEXANDER" citation_global_level_id="43180.001" party2_short="STATES" line="2" id="137539_2" alternative_keys="['u.s._542_945']" end="43" entry_type="party_key" lookup_key="alexanderstates#9" id1="124051" start="17" party1_short="ALEXANDER" citation_local_level_id="1" >ALEXANDER v. UNITED STATES</CITATION>
+
+<NAME end="26" start="17" party1_of="137539_2" all_names="ALEXANDER" local_name_id="1" id="137539_3" >ALEXANDER</NAME>
+
+<NAME end="43" start="30" all_names="UNITED STATES" party2_of="137539_2" local_name_id="2" id="137539_4" >UNITED STATES</NAME>
+
+<DOCKET end="61" entry_type="docket" lookup_key="alexanderstates#9" id1="124051" start="53" citation_global_level_id="43180.001" line="3" id="137539_7" citation_local_level_id="1" >03-10631</DOCKET>
+
+<ORGANIZATION start="67" end="97" id="137539_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="103" citation_global_level_id="43180.001" end="116" id="137539_9" citation_local_level_id="1" >June 28, 2004</DATE>
+
+<NAME start="148" local_name_id="3" end="151" id="137539_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="137539_2" party1="137539_3" party1_string="ALEXANDER" theme_string="ALEXANDER v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="137539_5" ></RELATION>
+
+<RELATION party2="137539_4" theme="137539_2" theme_string="ALEXANDER v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="137539_6" ></RELATION>
+
+<RELATION standard_case_string="542 U.S. 945" X_vs_Y_string="ALEXANDER v. UNITED STATES" standard_case="137539_1" X_vs_Y="137539_2" gram_type="multi_line" relation_type="equivalence" id="137539_10" ></RELATION>
+
+<RELATION at_date_string="June 28, 2004" theme="137539_2" at_date="137539_9" theme_string="ALEXANDER v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="137539_12" ></RELATION>
+
+<RELATION theme="137539_2" includes_docket_string="03-10631" includes_docket="137539_7" theme_string="ALEXANDER v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="137539_11" ></RELATION>
+

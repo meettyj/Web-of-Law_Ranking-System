@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['barnesmorrison#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_919" id1="132713" volume="540" start="0" page_number="919" standard_reporter="U.S." citation_global_level_id="403.002" line="1" id="132707_1" citation_local_level_id="0" >540 U.S. 919</CITATION>
+
+<CITATION party2="MORRISON, WARDEN" party1="BARNES" citation_global_level_id="403.005" party2_short="MORRISON" line="1" id="132707_3" alternative_keys="['u.s._540_919']" end="43" entry_type="party_key" lookup_key="barnesmorrison#1" id1="132713" start="17" party1_short="BARNES" citation_local_level_id="1" >BARNES v. MORRISON, WARDEN</CITATION>
+
+<NAME end="23" start="17" party1_of="132707_3" all_names="BARNES" local_name_id="1" id="132707_4" >BARNES</NAME>
+
+<NAME end="43" start="27" all_names="MORRISON WARDEN" party2_of="132707_3" local_name_id="2" id="132707_5" >MORRISON, WARDEN</NAME>
+
+<DOCKET end="60" entry_type="docket" lookup_key="u.s._540_919" id1="132713" start="53" citation_global_level_id="403.002" line="1" id="132707_2" citation_local_level_id="0" >03-5607</DOCKET>
+
+<DATE start="102" end="117" id="132707_6" >October 6, 2003</DATE>
+
+<NAME start="195" local_name_id="3" end="205" id="132707_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="132707_1" includes_docket_string="03-5607" includes_docket="132707_2" theme_string="540 U.S. 919" gram_type="apposition" relation_type="asymmetric" id="132707_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 919" X_vs_Y_string="BARNES v. MORRISON, WARDEN" standard_case="132707_1" X_vs_Y="132707_3" gram_type="pre_nom" relation_type="equivalence" id="132707_7" ></RELATION>
+
+<RELATION theme="132707_3" includes_docket_string="03-5607" includes_docket="132707_2" theme_string="BARNES v. MORRISON, WARDEN" gram_type="apposition" relation_type="asymmetric" id="132707_10" ></RELATION>
+
+<RELATION theme="132707_3" party1="132707_4" party1_string="BARNES" theme_string="BARNES v. MORRISON, WARDEN" gram_type="infix" relation_type="asymmetric" id="132707_8" ></RELATION>
+
+<RELATION party2="132707_5" theme="132707_3" theme_string="BARNES v. MORRISON, WARDEN" party2_string="MORRISON, WARDEN" gram_type="infix" relation_type="asymmetric" id="132707_9" ></RELATION>
+

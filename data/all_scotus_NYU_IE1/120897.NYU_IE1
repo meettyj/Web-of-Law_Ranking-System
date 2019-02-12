@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['michaucarolina#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1102" id1="120887" volume="535" start="0" page_number="1102" standard_reporter="U.S." citation_global_level_id="895.002" line="1" id="120897_1" citation_local_level_id="0" >535 U.S. 1102</CITATION>
+
+<CITATION party2="SOUTH CAROLINA" party1="MICHAU" citation_global_level_id="37189.001" party2_short="CAROLINA" line="2" id="120897_2" alternative_keys="['u.s._535_1102']" end="42" entry_type="party_key" lookup_key="michaucarolina#1" id1="120897" start="18" party1_short="MICHAU" citation_local_level_id="1" >MICHAU v. SOUTH CAROLINA</CITATION>
+
+<NAME end="24" start="18" party1_of="120897_2" all_names="MICHAU" local_name_id="1" id="120897_3" >MICHAU</NAME>
+
+<NAME end="42" start="28" all_names="SOUTH CAROLINA" party2_of="120897_2" local_name_id="2" id="120897_4" >SOUTH CAROLINA</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="michaucarolina#1" id1="120897" start="52" citation_global_level_id="37189.001" line="3" id="120897_7" citation_local_level_id="1" >01-9218</DOCKET>
+
+<DATE start="105" citation_global_level_id="37189.001" end="117" id="120897_8" citation_local_level_id="1" >May 28, 2002</DATE>
+
+<NAME start="139" local_name_id="3" end="142" id="120897_12" all_names="SUP" >Sup</NAME>
+
+<RELATION theme="120897_2" party1="120897_3" party1_string="MICHAU" theme_string="MICHAU v. SOUTH CAROLINA" gram_type="infix" relation_type="asymmetric" id="120897_5" ></RELATION>
+
+<RELATION party2="120897_4" theme="120897_2" theme_string="MICHAU v. SOUTH CAROLINA" party2_string="SOUTH CAROLINA" gram_type="infix" relation_type="asymmetric" id="120897_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1102" X_vs_Y_string="MICHAU v. SOUTH CAROLINA" standard_case="120897_1" X_vs_Y="120897_2" gram_type="multi_line" relation_type="equivalence" id="120897_9" ></RELATION>
+
+<RELATION at_date_string="May 28, 2002" theme="120897_2" at_date="120897_8" theme_string="MICHAU v. SOUTH CAROLINA" gram_type="multi_line" relation_type="asymmetric" id="120897_11" ></RELATION>
+
+<RELATION theme="120897_2" includes_docket_string="01-9218" includes_docket="120897_7" theme_string="MICHAU v. SOUTH CAROLINA" gram_type="multi_line" relation_type="asymmetric" id="120897_10" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['prietocalifornia#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_1008" id1="133826" volume="540" start="0" page_number="1008" standard_reporter="U.S." citation_global_level_id="285.002" line="1" id="133830_1" citation_local_level_id="0" >540 U.S. 1008</CITATION>
+
+<CITATION party2="CALIFORNIA" party1="PRIETO" citation_global_level_id="32605.001" party2_short="CALIFORNIA" line="1" id="133830_3" alternative_keys="['u.s._540_1008']" end="38" entry_type="party_key" lookup_key="prietocalifornia#1" id1="133830" start="18" party1_short="PRIETO" citation_local_level_id="1" >PRIETO v. CALIFORNIA</CITATION>
+
+<NAME end="24" start="18" party1_of="133830_3" all_names="PRIETO" local_name_id="1" id="133830_4" >PRIETO</NAME>
+
+<NAME end="38" start="28" all_names="CALIFORNIA" party2_of="133830_3" local_name_id="2" id="133830_5" >CALIFORNIA</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._540_1008" id1="133826" start="48" citation_global_level_id="285.002" line="1" id="133830_2" citation_local_level_id="0" >03-6422</DOCKET>
+
+<DATE start="97" end="114" id="133830_6" >November 10, 2003</DATE>
+
+<NAME start="191" local_name_id="3" end="201" id="133830_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="256" reporter="P. 3d" entry_type="standard_key" no_current_file="True" lookup_key="p.3d_66_1123" id1="Dummy_File_161240" volume="66" start="243" page_number="1123" standard_reporter="P.3D" citation_global_level_id="225090.001" line="3" id="133830_12" citation_local_level_id="2" >66 P. 3d 1123</CITATION>
+
+<RELATION theme="133830_1" includes_docket_string="03-6422" includes_docket="133830_2" theme_string="540 U.S. 1008" gram_type="apposition" relation_type="asymmetric" id="133830_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 1008" X_vs_Y_string="PRIETO v. CALIFORNIA" standard_case="133830_1" X_vs_Y="133830_3" gram_type="pre_nom" relation_type="equivalence" id="133830_7" ></RELATION>
+
+<RELATION theme="133830_3" includes_docket_string="03-6422" includes_docket="133830_2" theme_string="PRIETO v. CALIFORNIA" gram_type="apposition" relation_type="asymmetric" id="133830_10" ></RELATION>
+
+<RELATION theme="133830_3" party1="133830_4" party1_string="PRIETO" theme_string="PRIETO v. CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="133830_8" ></RELATION>
+
+<RELATION party2="133830_5" theme="133830_3" theme_string="PRIETO v. CALIFORNIA" party2_string="CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="133830_9" ></RELATION>
+

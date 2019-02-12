@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['mcneilverisign#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_815" id1="137920" volume="543" start="0" page_number="815" standard_reporter="U.S." citation_global_level_id="4630.002" line="1" id="137923_1" citation_local_level_id="0" >543 U.S. 815</CITATION>
+
+<CITATION party2="VERISIGN, INC., ET AL" party1="McNEIL" citation_global_level_id="4630.003" party2_short="VERISIGN" line="2" id="137923_3" alternative_keys="['u.s._543_815']" end="48" entry_type="party_key" lookup_key="mcneilverisign#2" id1="137920" start="17" party1_short="McNEIL" citation_local_level_id="1" >McNEIL v. VERISIGN, INC., ET AL</CITATION>
+
+<NAME end="23" start="17" party1_of="137923_3" all_names="MCNEIL" local_name_id="1" id="137923_4" >McNEIL</NAME>
+
+<NAME end="48" start="27" all_names="VERISIGN INC" party2_of="137923_3" local_name_id="2" id="137923_5" >VERISIGN, INC., ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._543_815']" end="65" entry_type="docket" lookup_key="mcneilverisign#2" id1="137920" start="58" citation_global_level_id="4630.003" line="2" id="137923_2" citation_local_level_id="1" >03-1615</DOCKET>
+
+<ORGANIZATION start="71" end="101" id="137923_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="107" citation_global_level_id="4630.003" end="122" id="137923_10" citation_local_level_id="1" >October 4, 2004</DATE>
+
+<NAME start="154" local_name_id="3" end="157" id="137923_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="137923_3" includes_docket_string="03-1615" includes_docket="137923_2" theme_string="McNEIL v. VERISIGN, INC., ET AL" gram_type="apposition" relation_type="asymmetric" id="137923_8" ></RELATION>
+
+<RELATION theme="137923_3" party1="137923_4" party1_string="McNEIL" theme_string="McNEIL v. VERISIGN, INC., ET AL" gram_type="infix" relation_type="asymmetric" id="137923_6" ></RELATION>
+
+<RELATION party2="137923_5" theme="137923_3" theme_string="McNEIL v. VERISIGN, INC., ET AL" party2_string="VERISIGN, INC., ET AL" gram_type="infix" relation_type="asymmetric" id="137923_7" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 815" X_vs_Y_string="McNEIL v. VERISIGN, INC., ET AL" standard_case="137923_1" X_vs_Y="137923_3" gram_type="multi_line" relation_type="equivalence" id="137923_11" ></RELATION>
+
+<RELATION at_date_string="October 4, 2004" theme="137923_3" at_date="137923_10" theme_string="McNEIL v. VERISIGN, INC., ET AL" gram_type="multi_line" relation_type="asymmetric" id="137923_12" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['marshdrilling#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1118" id1="116849" volume="510" start="0" page_number="1118" standard_reporter="U.S." citation_global_level_id="72.002" line="1" id="116854_1" citation_local_level_id="0" >510 U.S. 1118</CITATION>
+
+<CITATION party2="Penrod Drilling Corp" party1="Marsh" citation_global_level_id="39230.001" party2_short="Drilling" line="1" id="116854_3" alternative_keys="['u.s._510_1118']" end="47" entry_type="party_key" lookup_key="marshdrilling#1" id1="116854" start="18" party1_short="Marsh" citation_local_level_id="1" >Marsh v. Penrod Drilling Corp</CITATION>
+
+<NAME end="23" start="18" party1_of="116854_3" all_names="MARSH" local_name_id="1" id="116854_4" >Marsh</NAME>
+
+<NAME end="47" start="27" all_names="PENROD DRILLING CORP" party2_of="116854_3" local_name_id="2" id="116854_5" >Penrod Drilling Corp</NAME>
+
+<DOCKET end="64" entry_type="docket" lookup_key="u.s._510_1118" id1="116849" start="57" citation_global_level_id="72.002" line="1" id="116854_2" citation_local_level_id="0" >93-1059</DOCKET>
+
+<DATE start="106" end="123" id="116854_6" >February 22, 1994</DATE>
+
+<NAME start="209" local_name_id="3" end="219" id="116854_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="259" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_619_1124" id1="Dummy_File_116939" volume="619" start="244" page_number="1124" standard_reporter="SO.2D" citation_global_level_id="180789.001" line="3" id="116854_12" citation_local_level_id="2" >619 So. 2d 1124</CITATION>
+
+<RELATION theme="116854_1" includes_docket_string="93-1059" includes_docket="116854_2" theme_string="510 U.S. 1118" gram_type="apposition" relation_type="asymmetric" id="116854_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1118" X_vs_Y_string="Marsh v. Penrod Drilling Corp" standard_case="116854_1" X_vs_Y="116854_3" gram_type="pre_nom" relation_type="equivalence" id="116854_7" ></RELATION>
+
+<RELATION theme="116854_3" includes_docket_string="93-1059" includes_docket="116854_2" theme_string="Marsh v. Penrod Drilling Corp" gram_type="apposition" relation_type="asymmetric" id="116854_10" ></RELATION>
+
+<RELATION theme="116854_3" party1="116854_4" party1_string="Marsh" theme_string="Marsh v. Penrod Drilling Corp" gram_type="infix" relation_type="asymmetric" id="116854_8" ></RELATION>
+
+<RELATION party2="116854_5" theme="116854_3" theme_string="Marsh v. Penrod Drilling Corp" party2_string="Penrod Drilling Corp" gram_type="infix" relation_type="asymmetric" id="116854_9" ></RELATION>
+

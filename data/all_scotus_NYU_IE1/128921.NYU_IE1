@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['rosenkrantzcalifornia#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_980" id1="128916" volume="538" start="0" page_number="980" standard_reporter="U.S." citation_global_level_id="1802.002" line="1" id="128921_1" citation_local_level_id="0" >538 U.S. 980</CITATION>
+
+<CITATION party2="CALIFORNIA" party1="ROSENKRANTZ" citation_global_level_id="62307.001" party2_short="CALIFORNIA" line="1" id="128921_3" alternative_keys="['u.s._538_980']" end="42" entry_type="party_key" lookup_key="rosenkrantzcalifornia#1" id1="128921" start="17" party1_short="ROSENKRANTZ" citation_local_level_id="1" >ROSENKRANTZ v. CALIFORNIA</CITATION>
+
+<NAME end="28" start="17" party1_of="128921_3" all_names="ROSENKRANTZ" local_name_id="1" id="128921_4" >ROSENKRANTZ</NAME>
+
+<NAME end="42" start="32" all_names="CALIFORNIA" party2_of="128921_3" local_name_id="2" id="128921_5" >CALIFORNIA</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="u.s._538_980" id1="128916" start="52" citation_global_level_id="1802.002" line="1" id="128921_2" citation_local_level_id="0" >02-1310</DOCKET>
+
+<DATE start="101" end="115" id="128921_6" >April 21, 2003</DATE>
+
+<NAME start="209" local_name_id="3" end="212" id="128921_13" all_names="SUP" >Sup</NAME>
+
+<CITATION end="287" reporter="P. 3d" entry_type="standard_key" no_current_file="True" lookup_key="p.3d_59_174" id1="Dummy_File_160301" volume="59" start="275" page_number="174" standard_reporter="P.3D" citation_global_level_id="224151.001" line="3" id="128921_12" citation_local_level_id="2" >59 P. 3d 174</CITATION>
+
+<RELATION theme="128921_1" includes_docket_string="02-1310" includes_docket="128921_2" theme_string="538 U.S. 980" gram_type="apposition" relation_type="asymmetric" id="128921_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 980" X_vs_Y_string="ROSENKRANTZ v. CALIFORNIA" standard_case="128921_1" X_vs_Y="128921_3" gram_type="pre_nom" relation_type="equivalence" id="128921_7" ></RELATION>
+
+<RELATION theme="128921_3" includes_docket_string="02-1310" includes_docket="128921_2" theme_string="ROSENKRANTZ v. CALIFORNIA" gram_type="apposition" relation_type="asymmetric" id="128921_10" ></RELATION>
+
+<RELATION theme="128921_3" party1="128921_4" party1_string="ROSENKRANTZ" theme_string="ROSENKRANTZ v. CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="128921_8" ></RELATION>
+
+<RELATION party2="128921_5" theme="128921_3" theme_string="ROSENKRANTZ v. CALIFORNIA" party2_string="CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="128921_9" ></RELATION>
+

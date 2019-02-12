@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['coalholland#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1159" id1="126776" volume="537" start="0" page_number="1159" standard_reporter="U.S." citation_global_level_id="1920.002" line="1" id="126781_1" citation_local_level_id="0" >537 U.S. 1159</CITATION>
+
+<CITATION party2="HOLLAND ET AL" party1="PARDEE COAL CO., INC., ET AL." citation_global_level_id="1920.005" party2_short="HOLLAND" line="1" id="126781_3" alternative_keys="['u.s._537_1159']" end="64" entry_type="party_key" lookup_key="coalholland#2" id1="126776" start="18" party1_short="COAL" citation_local_level_id="1" >PARDEE COAL CO., INC., ET AL. v. HOLLAND ET AL</CITATION>
+
+<NAME end="47" start="18" party1_of="126781_3" all_names="PARDEE COAL CO INC" local_name_id="1" id="126781_4" >PARDEE COAL CO., INC., ET AL.</NAME>
+
+<ORGANIZATION start="18" end="38" id="126781_7" >PARDEE COAL CO., INC</ORGANIZATION>
+
+<NAME end="64" start="51" all_names="HOLLAND" party2_of="126781_3" local_name_id="2" id="126781_5" >HOLLAND ET AL</NAME>
+
+<DOCKET end="81" entry_type="docket" lookup_key="u.s._537_1159" id1="126776" start="74" citation_global_level_id="1920.002" line="1" id="126781_2" citation_local_level_id="0" >01-1366</DOCKET>
+
+<ORGANIZATION start="87" end="117" id="126781_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="123" end="139" id="126781_6" >January 21, 2003</DATE>
+
+<ORGANIZATION start="161" end="232" id="126781_9" >CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FOURTH CIRCUIT</ORGANIZATION>
+
+<NAME start="269" local_name_id="3" end="272" id="126781_16" all_names="CIR" >Cir</NAME>
+
+<CITATION end="321" reporter="F.3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_269_424" id1="Dummy_File_142655" volume="269" start="309" page_number="424" standard_reporter="F.3D" citation_global_level_id="206505.001" line="3" id="126781_15" citation_local_level_id="2" >269 F.3d 424</CITATION>
+
+<RELATION theme="126781_1" includes_docket_string="01-1366" includes_docket="126781_2" theme_string="537 U.S. 1159" gram_type="apposition" relation_type="asymmetric" id="126781_14" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1159" X_vs_Y_string="PARDEE COAL CO., INC., ET AL. v. HOLLAND ET AL" standard_case="126781_1" X_vs_Y="126781_3" gram_type="pre_nom" relation_type="equivalence" id="126781_10" ></RELATION>
+
+<RELATION theme="126781_3" includes_docket_string="01-1366" includes_docket="126781_2" theme_string="PARDEE COAL CO., INC., ET AL. v. HOLLAND ET AL" gram_type="apposition" relation_type="asymmetric" id="126781_13" ></RELATION>
+
+<RELATION theme="126781_3" party1="126781_4" party1_string="PARDEE COAL CO., INC., ET AL." theme_string="PARDEE COAL CO., INC., ET AL. v. HOLLAND ET AL" gram_type="infix" relation_type="asymmetric" id="126781_11" ></RELATION>
+
+<RELATION party2="126781_5" theme="126781_3" theme_string="PARDEE COAL CO., INC., ET AL. v. HOLLAND ET AL" party2_string="HOLLAND ET AL" gram_type="infix" relation_type="asymmetric" id="126781_12" ></RELATION>
+

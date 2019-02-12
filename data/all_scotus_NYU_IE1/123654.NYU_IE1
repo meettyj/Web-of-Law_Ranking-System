@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['kurzcalifornia#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_909" id1="123653" volume="537" start="0" page_number="909" standard_reporter="U.S." citation_global_level_id="4467.002" line="1" id="123654_1" citation_local_level_id="0" >537 U.S. 909</CITATION>
+
+<CITATION party2="CALIFORNIA" party1="KURZ" citation_global_level_id="12768.001" party2_short="CALIFORNIA" line="1" id="123654_3" alternative_keys="['u.s._537_909']" end="35" entry_type="party_key" lookup_key="kurzcalifornia#1" id1="123654" start="17" party1_short="KURZ" citation_local_level_id="1" >KURZ v. CALIFORNIA</CITATION>
+
+<NAME end="21" start="17" party1_of="123654_3" all_names="KURZ" local_name_id="1" id="123654_4" >KURZ</NAME>
+
+<NAME end="35" start="25" all_names="CALIFORNIA" party2_of="123654_3" local_name_id="2" id="123654_5" >CALIFORNIA</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="u.s._537_909" id1="123653" start="45" citation_global_level_id="4467.002" line="1" id="123654_2" citation_local_level_id="0" >02-5333</DOCKET>
+
+<DATE start="94" end="109" id="123654_6" >October 7, 2002</DATE>
+
+<NAME start="240" local_name_id="3" end="242" id="123654_12" all_names="CT" >Ct</NAME>
+
+<RELATION theme="123654_1" includes_docket_string="02-5333" includes_docket="123654_2" theme_string="537 U.S. 909" gram_type="apposition" relation_type="asymmetric" id="123654_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 909" X_vs_Y_string="KURZ v. CALIFORNIA" standard_case="123654_1" X_vs_Y="123654_3" gram_type="pre_nom" relation_type="equivalence" id="123654_7" ></RELATION>
+
+<RELATION theme="123654_3" includes_docket_string="02-5333" includes_docket="123654_2" theme_string="KURZ v. CALIFORNIA" gram_type="apposition" relation_type="asymmetric" id="123654_10" ></RELATION>
+
+<RELATION theme="123654_3" party1="123654_4" party1_string="KURZ" theme_string="KURZ v. CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="123654_8" ></RELATION>
+
+<RELATION party2="123654_5" theme="123654_3" theme_string="KURZ v. CALIFORNIA" party2_string="CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="123654_9" ></RELATION>
+

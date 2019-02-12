@@ -1,0 +1,36 @@
+<CITATION alternative_keys="['rugglesimprovement#1']" end="20" reporter="U.S." entry_type="standard_key" lookup_key="u.s._123_297" id1="92045" volume="123" start="1" page_number="297" standard_reporter="U.S." citation_global_level_id="40915.002" line="2" id="1270516_1" citation_local_level_id="0" >123 U.S. 297 (____)</CITATION>
+
+<CITATION party2="MANISTEE RIVER IMPROVEMENT CO" party1="RUGGLES" citation_global_level_id="44183.001" party2_short="IMPROVEMENT" line="5" id="1270516_3" alternative_keys="['u.s._123_297']" end="63" entry_type="party_key" lookup_key="rugglesimprovement#1" id1="1270516" start="21" party1_short="RUGGLES" citation_local_level_id="1" >RUGGLES v. MANISTEE RIVER IMPROVEMENT CO</CITATION>
+
+<NAME end="28" start="21" party1_of="1270516_3" all_names="RUGGLES" local_name_id="1" id="1270516_4" >RUGGLES</NAME>
+
+<NAME end="63" start="34" all_names="MANISTEE RIVER IMPROVEMENT CO	THE MANISTEE RIVER IMPROVEMENT CO" party2_of="1270516_3" local_name_id="2" id="1270516_5" >MANISTEE RIVER IMPROVEMENT CO</NAME>
+
+<ORGANIZATION start="65" end="95" id="1270516_8" >Supreme Court of United States</ORGANIZATION>
+
+<ORGANIZATION start="98" end="149" id="1270516_10" >Error to the Supreme Court of the State of Michigan</ORGANIZATION>
+
+<LEGAL_ROLE start="151" end="180" id="1270516_11" >Mr. M.J. Smiley for plaintiff</LEGAL_ROLE>
+
+<LEGAL_ROLE start="191" end="222" id="1270516_12" >Mr. T.J. Ramsdell for defendant</LEGAL_ROLE>
+
+<NAME start="233" local_name_id="3" end="235" id="1270516_13" all_names="MR" >MR</NAME>
+
+<CITATION party2="The Manistee River Improvement Co" party1="Sands" citation_global_level_id="7160.001" party2_short="Improvement" line="12" id="1270516_14" end="333" entry_type="party_key" lookup_key="sandsimprovement#1" id1="92044" start="291" party1_short="Sands" citation_local_level_id="2" >Sands v. The Manistee River Improvement Co</CITATION>
+
+<NAME end="296" start="291" party1_of="1270516_14" all_names="SANDS" local_name_id="4" id="1270516_15" >Sands</NAME>
+
+<NAME end="333" start="300" all_names="MANISTEE RIVER IMPROVEMENT CO	THE MANISTEE RIVER IMPROVEMENT CO" party2_of="1270516_14" local_name_id="2" id="1270516_16" >The Manistee River Improvement Co</NAME>
+
+<ORGANIZATION start="304" end="333" id="1270516_17" >Manistee River Improvement Co</ORGANIZATION>
+
+<RELATION theme="1270516_3" party1="1270516_4" party1_string="RUGGLES" theme_string="RUGGLES  v.  MANISTEE RIVER IMPROVEMENT CO" gram_type="infix" relation_type="asymmetric" id="1270516_6" ></RELATION>
+
+<RELATION party2="1270516_5" theme="1270516_3" theme_string="RUGGLES  v.  MANISTEE RIVER IMPROVEMENT CO" party2_string="MANISTEE RIVER IMPROVEMENT CO" gram_type="infix" relation_type="asymmetric" id="1270516_7" ></RELATION>
+
+<RELATION standard_case_string="123 U.S. 297 (____)" X_vs_Y_string="RUGGLES  v.  MANISTEE RIVER IMPROVEMENT CO" standard_case="1270516_1" X_vs_Y="1270516_3" gram_type="multi_line" relation_type="equivalence" id="1270516_9" ></RELATION>
+
+<RELATION theme="1270516_14" party1="1270516_15" party1_string="Sands" theme_string="Sands v. The Manistee River Improvement Co" gram_type="infix" relation_type="asymmetric" id="1270516_18" ></RELATION>
+
+<RELATION party2="1270516_16" theme="1270516_14" theme_string="Sands v. The Manistee River Improvement Co" party2_string="The Manistee River Improvement Co" gram_type="infix" relation_type="asymmetric" id="1270516_19" ></RELATION>
+

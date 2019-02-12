@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['quinterostates#3']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_874" id1="123187" volume="537" start="0" page_number="874" standard_reporter="U.S." citation_global_level_id="7015.002" line="1" id="123190_1" citation_local_level_id="0" >537 U.S. 874</CITATION>
+
+<CITATION party2="UNITED STATES" party1="CORRALES-QUINTERO" citation_global_level_id="37000.001" party2_short="STATES" line="1" id="123190_3" alternative_keys="['u.s._537_874']" end="51" entry_type="party_key" lookup_key="quinterostates#3" id1="137255" start="17" party1_short="QUINTERO" citation_local_level_id="1" >CORRALES-QUINTERO v. UNITED STATES</CITATION>
+
+<NAME end="34" start="17" party1_of="123190_3" all_names="CORRALES-QUINTERO" local_name_id="1" id="123190_4" >CORRALES-QUINTERO</NAME>
+
+<NAME end="51" start="38" all_names="UNITED STATES" party2_of="123190_3" local_name_id="2" id="123190_5" >UNITED STATES</NAME>
+
+<DOCKET end="69" entry_type="docket" lookup_key="u.s._537_874" id1="123187" start="61" citation_global_level_id="7015.002" line="1" id="123190_2" citation_local_level_id="0" >01-10974</DOCKET>
+
+<DATE start="111" end="126" id="123190_6" >October 7, 2002</DATE>
+
+<NAME start="255" local_name_id="3" end="258" id="123190_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="123190_1" includes_docket_string="01-10974" includes_docket="123190_2" theme_string="537 U.S. 874" gram_type="apposition" relation_type="asymmetric" id="123190_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 874" X_vs_Y_string="CORRALES-QUINTERO v. UNITED STATES" standard_case="123190_1" X_vs_Y="123190_3" gram_type="pre_nom" relation_type="equivalence" id="123190_7" ></RELATION>
+
+<RELATION theme="123190_3" includes_docket_string="01-10974" includes_docket="123190_2" theme_string="CORRALES-QUINTERO v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="123190_10" ></RELATION>
+
+<RELATION theme="123190_3" party1="123190_4" party1_string="CORRALES-QUINTERO" theme_string="CORRALES-QUINTERO v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="123190_8" ></RELATION>
+
+<RELATION party2="123190_5" theme="123190_3" theme_string="CORRALES-QUINTERO v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="123190_9" ></RELATION>
+

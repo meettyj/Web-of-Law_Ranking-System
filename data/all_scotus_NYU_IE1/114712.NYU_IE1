@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['rowenhorstmitchell#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_944" id1="114717" volume="510" start="0" page_number="944" standard_reporter="U.S." citation_global_level_id="9375.002" line="1" id="114712_1" citation_local_level_id="0" >510 U.S. 944</CITATION>
+
+<CITATION party2="Mitchell et al" party1="Rowenhorst" citation_global_level_id="20248.001" party2_short="Mitchell" line="1" id="114712_3" alternative_keys="['u.s._510_944']" end="45" entry_type="party_key" lookup_key="rowenhorstmitchell#1" id1="114712" start="17" party1_short="Rowenhorst" citation_local_level_id="1" >Rowenhorst v. Mitchell et al</CITATION>
+
+<NAME end="27" start="17" party1_of="114712_3" all_names="ROWENHORST" local_name_id="1" id="114712_4" >Rowenhorst</NAME>
+
+<NAME end="45" start="31" all_names="MITCHELL" party2_of="114712_3" local_name_id="2" id="114712_5" >Mitchell et al</NAME>
+
+<DOCKET end="61" entry_type="docket" lookup_key="u.s._510_944" id1="114717" start="55" citation_global_level_id="9375.002" line="1" id="114712_2" citation_local_level_id="0" >93-159</DOCKET>
+
+<DATE start="103" end="119" id="114712_6" >November 1, 1993</DATE>
+
+<NAME start="197" local_name_id="3" end="207" id="114712_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="246" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_981_1259" id1="Dummy_File_12704" volume="981" start="232" page_number="1259" standard_reporter="F.2D" citation_global_level_id="76554.001" line="3" id="114712_12" citation_local_level_id="2" >981 F. 2d 1259</CITATION>
+
+<RELATION theme="114712_1" includes_docket_string="93-159" includes_docket="114712_2" theme_string="510 U.S. 944" gram_type="apposition" relation_type="asymmetric" id="114712_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 944" X_vs_Y_string="Rowenhorst v. Mitchell et al" standard_case="114712_1" X_vs_Y="114712_3" gram_type="pre_nom" relation_type="equivalence" id="114712_7" ></RELATION>
+
+<RELATION theme="114712_3" includes_docket_string="93-159" includes_docket="114712_2" theme_string="Rowenhorst v. Mitchell et al" gram_type="apposition" relation_type="asymmetric" id="114712_10" ></RELATION>
+
+<RELATION theme="114712_3" party1="114712_4" party1_string="Rowenhorst" theme_string="Rowenhorst v. Mitchell et al" gram_type="infix" relation_type="asymmetric" id="114712_8" ></RELATION>
+
+<RELATION party2="114712_5" theme="114712_3" theme_string="Rowenhorst v. Mitchell et al" party2_string="Mitchell et al" gram_type="infix" relation_type="asymmetric" id="114712_9" ></RELATION>
+

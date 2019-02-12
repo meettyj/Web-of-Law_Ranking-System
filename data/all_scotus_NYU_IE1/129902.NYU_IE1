@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['sklarinsurance#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1053" id1="129915" volume="538" start="0" page_number="1053" standard_reporter="U.S." citation_global_level_id="121.002" line="1" id="129902_1" citation_local_level_id="0" >538 U.S. 1053</CITATION>
+
+<CITATION party2="NEW YORK LIFE INSURANCE CO" party1="SKLAR" citation_global_level_id="52579.001" party2_short="INSURANCE" line="2" id="129902_2" alternative_keys="['u.s._538_1053']" end="53" entry_type="party_key" lookup_key="sklarinsurance#2" id1="126400" start="18" party1_short="SKLAR" citation_local_level_id="1" >SKLAR v. NEW YORK LIFE INSURANCE CO</CITATION>
+
+<NAME end="23" start="18" party1_of="129902_2" all_names="SKLAR" local_name_id="1" id="129902_3" >SKLAR</NAME>
+
+<NAME end="53" start="27" all_names="NEW YORK LIFE INSURANCE CO" party2_of="129902_2" local_name_id="2" id="129902_4" >NEW YORK LIFE INSURANCE CO</NAME>
+
+<DOCKET end="70" entry_type="docket" lookup_key="sklarinsurance#2" id1="126400" start="63" citation_global_level_id="52579.001" line="3" id="129902_7" citation_local_level_id="1" >02-7303</DOCKET>
+
+<ORGANIZATION start="76" end="106" id="129902_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="112" citation_global_level_id="52579.001" end="124" id="129902_9" citation_local_level_id="1" >May 19, 2003</DATE>
+
+<NAME start="146" local_name_id="3" end="154" id="129902_14" all_names="PETITION" >Petition</NAME>
+
+<CITATION end="190" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1126" id1="126395" volume="537" start="177" page_number="1126" standard_reporter="U.S." citation_global_level_id="16073.002" line="8" id="129902_13" citation_local_level_id="2" >537 U.S. 1126</CITATION>
+
+<RELATION theme="129902_2" party1="129902_3" party1_string="SKLAR" theme_string="SKLAR v. NEW YORK LIFE INSURANCE CO" gram_type="infix" relation_type="asymmetric" id="129902_5" ></RELATION>
+
+<RELATION party2="129902_4" theme="129902_2" theme_string="SKLAR v. NEW YORK LIFE INSURANCE CO" party2_string="NEW YORK LIFE INSURANCE CO" gram_type="infix" relation_type="asymmetric" id="129902_6" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1053" X_vs_Y_string="SKLAR v. NEW YORK LIFE INSURANCE CO" standard_case="129902_1" X_vs_Y="129902_2" gram_type="multi_line" relation_type="equivalence" id="129902_10" ></RELATION>
+
+<RELATION at_date_string="May 19, 2003" theme="129902_2" at_date="129902_9" theme_string="SKLAR v. NEW YORK LIFE INSURANCE CO" gram_type="multi_line" relation_type="asymmetric" id="129902_12" ></RELATION>
+
+<RELATION theme="129902_2" includes_docket_string="02-7303" includes_docket="129902_7" theme_string="SKLAR v. NEW YORK LIFE INSURANCE CO" gram_type="multi_line" relation_type="asymmetric" id="129902_11" ></RELATION>
+

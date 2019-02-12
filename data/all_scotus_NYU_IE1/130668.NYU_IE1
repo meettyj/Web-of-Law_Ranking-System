@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['departmentestate#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_942" id1="130663" volume="539" start="0" page_number="942" standard_reporter="U.S." citation_global_level_id="2446.002" line="1" id="130668_1" citation_local_level_id="0" >539 U.S. 942</CITATION>
+
+<CITATION party2="Estate of Raduazo, Deceased" party1="New Hampshire Department of Health and Human Services" citation_global_level_id="9060.001" party2_short="Estate" line="1" id="130668_3" alternative_keys="['u.s._539_942']" end="101" entry_type="party_key" lookup_key="departmentestate#2" id1="130668" start="17" party1_short="Department" citation_local_level_id="1" >New Hampshire Department of Health and Human Services v. Estate of Raduazo, Deceased</CITATION>
+
+<NAME end="70" start="17" party1_of="130668_3" all_names="NEW HAMPSHIRE DEPARTMENT OF HEALTH AND HUMAN SERVICES" local_name_id="1" id="130668_4" >New Hampshire Department of Health and Human Services</NAME>
+
+<NAME end="101" start="74" all_names="ESTATE OF RADUAZO DECEASED" party2_of="130668_3" local_name_id="2" id="130668_5" >Estate of Raduazo, Deceased</NAME>
+
+<DOCKET end="118" entry_type="docket" lookup_key="u.s._539_942" id1="130663" start="111" citation_global_level_id="2446.002" line="1" id="130668_2" citation_local_level_id="0" >02-1548</DOCKET>
+
+<DATE start="160" end="173" id="130668_6" >June 23, 2003</DATE>
+
+<NAME start="251" local_name_id="3" end="261" id="130668_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="299" reporter="N. H." entry_type="standard_key" no_current_file="True" lookup_key="n.h._148_687" id1="Dummy_File_212691" volume="148" start="286" page_number="687" standard_reporter="N.H." citation_global_level_id="276541.001" line="3" id="130668_12" citation_local_level_id="2" >148 N. H. 687</CITATION>
+
+<CITATION end="314" reporter="A. 2d" entry_type="standard_key" no_current_file="True" lookup_key="a.2d_814_147" id1="Dummy_File_212692" volume="814" start="301" page_number="147" standard_reporter="A.2D" citation_global_level_id="276542.001" line="3" id="130668_13" citation_local_level_id="3" >814 A. 2d 147</CITATION>
+
+<RELATION theme="130668_1" includes_docket_string="02-1548" includes_docket="130668_2" theme_string="539 U.S. 942" gram_type="apposition" relation_type="asymmetric" id="130668_11" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 942" X_vs_Y_string="New Hampshire Department of Health and Human Services v. Estate of Raduazo, Deceased" standard_case="130668_1" X_vs_Y="130668_3" gram_type="pre_nom" relation_type="equivalence" id="130668_7" ></RELATION>
+
+<RELATION theme="130668_3" includes_docket_string="02-1548" includes_docket="130668_2" theme_string="New Hampshire Department of Health and Human Services v. Estate of Raduazo, Deceased" gram_type="apposition" relation_type="asymmetric" id="130668_10" ></RELATION>
+
+<RELATION theme="130668_3" party1="130668_4" party1_string="New Hampshire Department of Health and Human Services" theme_string="New Hampshire Department of Health and Human Services v. Estate of Raduazo, Deceased" gram_type="infix" relation_type="asymmetric" id="130668_8" ></RELATION>
+
+<RELATION party2="130668_5" theme="130668_3" theme_string="New Hampshire Department of Health and Human Services v. Estate of Raduazo, Deceased" party2_string="Estate of Raduazo, Deceased" gram_type="infix" relation_type="asymmetric" id="130668_9" ></RELATION>
+

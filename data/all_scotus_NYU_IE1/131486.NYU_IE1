@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['torrescalifornia#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_827" id1="131486" volume="540" start="0" page_number="827" standard_reporter="U.S." citation_global_level_id="1102.002" line="1" id="131486_1" citation_local_level_id="0" >540 U.S. 827</CITATION>
+
+<CITATION party2="CALIFORNIA" party1="TORRES" citation_global_level_id="1102.001" party2_short="CALIFORNIA" line="1" id="131486_3" alternative_keys="['u.s._540_827']" end="37" entry_type="party_key" lookup_key="torrescalifornia#1" id1="131486" start="17" party1_short="TORRES" citation_local_level_id="1" >TORRES v. CALIFORNIA</CITATION>
+
+<NAME end="23" start="17" party1_of="131486_3" all_names="TORRES" local_name_id="1" id="131486_4" >TORRES</NAME>
+
+<NAME end="37" start="27" all_names="CALIFORNIA" party2_of="131486_3" local_name_id="2" id="131486_5" >CALIFORNIA</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="u.s._540_827" id1="131486" start="47" citation_global_level_id="1102.002" line="1" id="131486_2" citation_local_level_id="0" >02-9756</DOCKET>
+
+<DATE start="96" end="111" id="131486_6" >October 6, 2003</DATE>
+
+<NAME start="204" local_name_id="3" end="214" id="131486_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="283" reporter="Cal. Rptr. 2d" entry_type="standard_key" no_current_file="True" lookup_key="cal.rptr.2d_126_92" id1="Dummy_File_57321" volume="126" start="263" page_number="92" standard_reporter="CAL.RPTR.2D" citation_global_level_id="121171.001" line="3" id="131486_12" citation_local_level_id="2" >126 Cal. Rptr. 2d 92</CITATION>
+
+<RELATION theme="131486_1" includes_docket_string="02-9756" includes_docket="131486_2" theme_string="540 U.S. 827" gram_type="apposition" relation_type="asymmetric" id="131486_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 827" X_vs_Y_string="TORRES v. CALIFORNIA" standard_case="131486_1" X_vs_Y="131486_3" gram_type="pre_nom" relation_type="equivalence" id="131486_7" ></RELATION>
+
+<RELATION theme="131486_3" includes_docket_string="02-9756" includes_docket="131486_2" theme_string="TORRES v. CALIFORNIA" gram_type="apposition" relation_type="asymmetric" id="131486_10" ></RELATION>
+
+<RELATION theme="131486_3" party1="131486_4" party1_string="TORRES" theme_string="TORRES v. CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="131486_8" ></RELATION>
+
+<RELATION party2="131486_5" theme="131486_3" theme_string="TORRES v. CALIFORNIA" party2_string="CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="131486_9" ></RELATION>
+

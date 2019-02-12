@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['casualtycorning#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_1006" id1="135898" volume="541" start="0" page_number="1006" standard_reporter="U.S." citation_global_level_id="1207.002" line="1" id="135893_1" citation_local_level_id="0" >541 U.S. 1006</CITATION>
+
+<CITATION party2="DOW CORNING CORP" party1="SAFETY NATIONAL CASUALTY CORP." citation_global_level_id="47155.001" party2_short="CORNING" line="2" id="135893_2" alternative_keys="['u.s._541_1006']" end="68" entry_type="party_key" lookup_key="casualtycorning#1" id1="135893" start="18" party1_short="CASUALTY" citation_local_level_id="1" >SAFETY NATIONAL CASUALTY CORP. v. DOW CORNING CORP</CITATION>
+
+<NAME end="48" start="18" party1_of="135893_2" all_names="SAFETY NATIONAL CASUALTY CORP" local_name_id="1" id="135893_3" >SAFETY NATIONAL CASUALTY CORP.</NAME>
+
+<ORGANIZATION start="18" end="47" id="135893_5" >SAFETY NATIONAL CASUALTY CORP</ORGANIZATION>
+
+<NAME end="68" start="52" all_names="DOW CORNING CORP" party2_of="135893_2" local_name_id="2" id="135893_4" >DOW CORNING CORP</NAME>
+
+<DOCKET end="85" entry_type="docket" lookup_key="casualtycorning#1" id1="135893" start="79" citation_global_level_id="47155.001" line="3" id="135893_8" citation_local_level_id="1" >03-790</DOCKET>
+
+<ORGANIZATION start="91" end="121" id="135893_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="127" citation_global_level_id="47155.001" end="141" id="135893_10" citation_local_level_id="1" >April 19, 2004</DATE>
+
+<CITATION end="177" reporter="U. S." entry_type="standard_key" no_current_file="True" lookup_key="u.s._540_1219" id1="Dummy_File_99420" volume="540" start="163" page_number="1219" standard_reporter="U.S." citation_global_level_id="163270.001" line="8" id="135893_14" citation_local_level_id="2" >540 U. S. 1219</CITATION>
+
+<NAME start="179" local_name_id="3" end="188" id="135893_15" all_names="PETITIONS" >Petitions</NAME>
+
+<RELATION theme="135893_2" party1="135893_3" party1_string="SAFETY NATIONAL CASUALTY CORP." theme_string="SAFETY NATIONAL CASUALTY CORP. v. DOW CORNING CORP" gram_type="infix" relation_type="asymmetric" id="135893_6" ></RELATION>
+
+<RELATION party2="135893_4" theme="135893_2" theme_string="SAFETY NATIONAL CASUALTY CORP. v. DOW CORNING CORP" party2_string="DOW CORNING CORP" gram_type="infix" relation_type="asymmetric" id="135893_7" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 1006" X_vs_Y_string="SAFETY NATIONAL CASUALTY CORP. v. DOW CORNING CORP" standard_case="135893_1" X_vs_Y="135893_2" gram_type="multi_line" relation_type="equivalence" id="135893_11" ></RELATION>
+
+<RELATION at_date_string="April 19, 2004" theme="135893_2" at_date="135893_10" theme_string="SAFETY NATIONAL CASUALTY CORP. v. DOW CORNING CORP" gram_type="multi_line" relation_type="asymmetric" id="135893_13" ></RELATION>
+
+<RELATION theme="135893_2" includes_docket_string="03-790" includes_docket="135893_8" theme_string="SAFETY NATIONAL CASUALTY CORP. v. DOW CORNING CORP" gram_type="multi_line" relation_type="asymmetric" id="135893_12" ></RELATION>
+

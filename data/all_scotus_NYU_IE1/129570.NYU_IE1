@@ -1,0 +1,42 @@
+<CITATION alternative_keys="['heimermannkohler#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1028" id1="129573" volume="538" start="0" page_number="1028" standard_reporter="U.S." citation_global_level_id="1899.002" line="1" id="129570_1" citation_local_level_id="0" >538 U.S. 1028</CITATION>
+
+<CITATION party2="KOHLER" party1="HEIMERMANN" citation_global_level_id="18848.001" party2_short="KOHLER" line="1" id="129570_3" alternative_keys="['u.s._538_1028']" end="38" entry_type="party_key" lookup_key="heimermannkohler#1" id1="129570" start="18" party1_short="HEIMERMANN" citation_local_level_id="1" >HEIMERMANN v. KOHLER</CITATION>
+
+<NAME end="28" start="18" party1_of="129570_3" all_names="HEIMERMANN" local_name_id="1" id="129570_4" >HEIMERMANN</NAME>
+
+<NAME end="38" start="32" all_names="KOHLER" party2_of="129570_3" local_name_id="2" id="129570_5" >KOHLER</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._538_1028" id1="129573" start="48" citation_global_level_id="1899.002" line="1" id="129570_2" citation_local_level_id="0" >02-9514</DOCKET>
+
+<DATE start="97" end="109" id="129570_6" >May 19, 2003</DATE>
+
+<NAME start="205" local_name_id="3" end="207" id="129570_17" all_names="CT" >Ct</NAME>
+
+<CITATION party2="District of Columbia Court of Appeals" party1="Martin" citation_global_level_id="51848.001" party2_short="District" line="3" id="129570_13" alternative_keys="['u.s._506_1']" end="663" entry_type="party_key" lookup_key="martindistrict#2" id1="112790" start="616" party1_short="Martin" citation_local_level_id="2" >Martin v. District of Columbia Court of Appeals</CITATION>
+
+<NAME end="622" start="616" party1_of="129570_13" all_names="MARTIN" local_name_id="4" id="129570_14" >Martin</NAME>
+
+<NAME end="663" start="626" all_names="DISTRICT OF COLUMBIA COURT OF APPEALS" party2_of="129570_13" local_name_id="5" id="129570_15" >District of Columbia Court of Appeals</NAME>
+
+<CITATION alternative_keys="['martindistrict#2']" end="682" reporter="U.S." entry_type="standard_key" lookup_key="u.s._506_1" id1="112790" volume="506" start="665" page_number="1" year="1992" standard_reporter="U.S." citation_global_level_id="51848.002" line="3" id="129570_12" citation_local_level_id="3" >506 U.S. 1 (1992)</CITATION>
+
+<DATE start="677" citation_global_level_id="51848.002" end="681" id="129570_16" citation_local_level_id="3" >1992</DATE>
+
+<RELATION theme="129570_1" includes_docket_string="02-9514" includes_docket="129570_2" theme_string="538 U.S. 1028" gram_type="apposition" relation_type="asymmetric" id="129570_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1028" X_vs_Y_string="HEIMERMANN v. KOHLER" standard_case="129570_1" X_vs_Y="129570_3" gram_type="pre_nom" relation_type="equivalence" id="129570_7" ></RELATION>
+
+<RELATION theme="129570_3" includes_docket_string="02-9514" includes_docket="129570_2" theme_string="HEIMERMANN v. KOHLER" gram_type="apposition" relation_type="asymmetric" id="129570_10" ></RELATION>
+
+<RELATION theme="129570_3" party1="129570_4" party1_string="HEIMERMANN" theme_string="HEIMERMANN v. KOHLER" gram_type="infix" relation_type="asymmetric" id="129570_8" ></RELATION>
+
+<RELATION party2="129570_5" theme="129570_3" theme_string="HEIMERMANN v. KOHLER" party2_string="KOHLER" gram_type="infix" relation_type="asymmetric" id="129570_9" ></RELATION>
+
+<RELATION standard_case_string="506 U.S. 1 (1992)" X_vs_Y_string="Martin v. District of Columbia Court of Appeals" standard_case="129570_12" X_vs_Y="129570_13" gram_type="apposition" relation_type="equivalence" id="129570_20" ></RELATION>
+
+<RELATION theme="129570_13" party1="129570_14" party1_string="Martin" theme_string="Martin v. District of Columbia Court of Appeals" gram_type="infix" relation_type="asymmetric" id="129570_18" ></RELATION>
+
+<RELATION party2="129570_15" theme="129570_13" theme_string="Martin v. District of Columbia Court of Appeals" party2_string="District of Columbia Court of Appeals" gram_type="infix" relation_type="asymmetric" id="129570_19" ></RELATION>
+
+<RELATION at_date_string="1992" theme="129570_12" at_date="129570_16" theme_string="506 U.S. 1 (1992)" gram_type="infix" relation_type="asymmetric" id="129570_21" ></RELATION>
+

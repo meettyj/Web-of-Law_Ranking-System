@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['smithimmigration#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1042" id1="129739" volume="538" start="0" page_number="1042" standard_reporter="U.S." citation_global_level_id="3787.002" line="1" id="129747_1" citation_local_level_id="0" >538 U.S. 1042</CITATION>
+
+<CITATION party2="IMMIGRATION AND NATURALIZATION SERVICE" party1="SMITH" citation_global_level_id="4955.001" party2_short="IMMIGRATION" line="1" id="129747_3" alternative_keys="['u.s._538_1042']" end="65" entry_type="party_key" lookup_key="smithimmigration#1" id1="129747" start="18" party1_short="SMITH" citation_local_level_id="1" >SMITH v. IMMIGRATION AND NATURALIZATION SERVICE</CITATION>
+
+<NAME end="23" start="18" party1_of="129747_3" all_names="SMITH" local_name_id="1" id="129747_4" >SMITH</NAME>
+
+<NAME end="65" start="27" all_names="IMMIGRATION AND NATURALIZATION SERVICE" party2_of="129747_3" local_name_id="2" id="129747_5" >IMMIGRATION AND NATURALIZATION SERVICE</NAME>
+
+<DOCKET end="82" entry_type="docket" lookup_key="u.s._538_1042" id1="129739" start="75" citation_global_level_id="3787.002" line="1" id="129747_2" citation_local_level_id="0" >02-9830</DOCKET>
+
+<DATE start="124" end="136" id="129747_6" >May 19, 2003</DATE>
+
+<NAME start="269" local_name_id="3" end="272" id="129747_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="129747_1" includes_docket_string="02-9830" includes_docket="129747_2" theme_string="538 U.S. 1042" gram_type="apposition" relation_type="asymmetric" id="129747_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1042" X_vs_Y_string="SMITH v. IMMIGRATION AND NATURALIZATION SERVICE" standard_case="129747_1" X_vs_Y="129747_3" gram_type="pre_nom" relation_type="equivalence" id="129747_7" ></RELATION>
+
+<RELATION theme="129747_3" includes_docket_string="02-9830" includes_docket="129747_2" theme_string="SMITH v. IMMIGRATION AND NATURALIZATION SERVICE" gram_type="apposition" relation_type="asymmetric" id="129747_10" ></RELATION>
+
+<RELATION theme="129747_3" party1="129747_4" party1_string="SMITH" theme_string="SMITH v. IMMIGRATION AND NATURALIZATION SERVICE" gram_type="infix" relation_type="asymmetric" id="129747_8" ></RELATION>
+
+<RELATION party2="129747_5" theme="129747_3" theme_string="SMITH v. IMMIGRATION AND NATURALIZATION SERVICE" party2_string="IMMIGRATION AND NATURALIZATION SERVICE" gram_type="infix" relation_type="asymmetric" id="129747_9" ></RELATION>
+

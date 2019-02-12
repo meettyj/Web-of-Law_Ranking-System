@@ -1,0 +1,38 @@
+<CITATION alternative_keys="['agnewstates#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1136" id1="142123" volume="543" start="0" page_number="1136" standard_reporter="U.S." citation_global_level_id="1845.002" line="1" id="142130_1" citation_local_level_id="0" >543 U.S. 1136</CITATION>
+
+<CITATION party2="UNITED STATES" party1="AGNEW" citation_global_level_id="21411.001" party2_short="STATES" line="2" id="142130_2" alternative_keys="['u.s._543_1136']" end="40" entry_type="party_key" lookup_key="agnewstates#2" id1="142130" start="18" party1_short="AGNEW" citation_local_level_id="1" >AGNEW v. UNITED STATES</CITATION>
+
+<NAME end="23" start="18" party1_of="142130_2" all_names="AGNEW" local_name_id="1" id="142130_3" >AGNEW</NAME>
+
+<NAME end="40" start="27" all_names="UNITED STATES" party2_of="142130_2" local_name_id="2" id="142130_4" >UNITED STATES</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="agnewstates#2" id1="142130" start="50" citation_global_level_id="21411.001" line="3" id="142130_7" citation_local_level_id="1" >04-7731</DOCKET>
+
+<ORGANIZATION start="63" end="93" id="142130_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="99" citation_global_level_id="21411.001" end="116" id="142130_9" citation_local_level_id="1" >February 22, 2005</DATE>
+
+<NAME start="147" local_name_id="3" end="150" id="142130_17" all_names="CIR" >Cir</NAME>
+
+<CITATION end="181" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_385_288" id1="Dummy_File_41203" volume="385" start="168" page_number="288" standard_reporter="F.3D" citation_global_level_id="105053.001" line="8" id="142130_13" citation_local_level_id="2" >385 F. 3d 288</CITATION>
+
+<CITATION party2="Booker" party1="United States" citation_global_level_id="57130.001" party2_short="Booker" line="8" id="142130_14" end="373" entry_type="party_key" lookup_key="statesbooker#4" id1="137703" start="350" party1_short="States" citation_local_level_id="3" >United States v. Booker</CITATION>
+
+<NAME end="363" start="350" party1_of="142130_14" all_names="UNITED STATES" local_name_id="2" id="142130_15" >United States</NAME>
+
+<NAME end="373" start="367" all_names="BOOKER" party2_of="142130_14" local_name_id="4" id="142130_16" >Booker</NAME>
+
+<RELATION theme="142130_2" party1="142130_3" party1_string="AGNEW" theme_string="AGNEW v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="142130_5" ></RELATION>
+
+<RELATION party2="142130_4" theme="142130_2" theme_string="AGNEW v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="142130_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1136" X_vs_Y_string="AGNEW v. UNITED STATES" standard_case="142130_1" X_vs_Y="142130_2" gram_type="multi_line" relation_type="equivalence" id="142130_10" ></RELATION>
+
+<RELATION at_date_string="February 22, 2005" theme="142130_2" at_date="142130_9" theme_string="AGNEW v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="142130_12" ></RELATION>
+
+<RELATION theme="142130_2" includes_docket_string="04-7731" includes_docket="142130_7" theme_string="AGNEW v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="142130_11" ></RELATION>
+
+<RELATION theme="142130_14" party1="142130_15" party1_string="United States" theme_string="United States v. Booker" gram_type="infix" relation_type="asymmetric" id="142130_18" ></RELATION>
+
+<RELATION party2="142130_16" theme="142130_14" theme_string="United States v. Booker" party2_string="Booker" gram_type="infix" relation_type="asymmetric" id="142130_19" ></RELATION>
+

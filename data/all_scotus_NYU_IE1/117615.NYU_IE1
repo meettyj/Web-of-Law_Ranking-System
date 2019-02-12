@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['moninmonin#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1196" id1="117619" volume="510" start="0" page_number="1196" standard_reporter="U.S." citation_global_level_id="1280.002" line="1" id="117615_1" citation_local_level_id="0" >510 U.S. 1196</CITATION>
+
+<CITATION party2="Monin et al" party1="Monin" citation_global_level_id="25600.001" party2_short="Monin" line="1" id="117615_3" alternative_keys="['u.s._510_1196']" end="38" entry_type="party_key" lookup_key="moninmonin#1" id1="117615" start="18" party1_short="Monin" citation_local_level_id="1" >Monin v. Monin et al</CITATION>
+
+<NAME end="23" start="18" party1_of="117615_3" all_names="MONIN" local_name_id="1" id="117615_4" >Monin</NAME>
+
+<NAME end="38" start="27" all_names="MONIN" party2_of="117615_3" local_name_id="1" id="117615_5" >Monin et al</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._510_1196" id1="117619" start="48" citation_global_level_id="1280.002" line="1" id="117615_2" citation_local_level_id="0" >93-1234</DOCKET>
+
+<DATE start="97" end="111" id="117615_6" >March 21, 1994</DATE>
+
+<NAME start="187" local_name_id="2" end="197" id="117615_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="117615_1" includes_docket_string="93-1234" includes_docket="117615_2" theme_string="510 U.S. 1196" gram_type="apposition" relation_type="asymmetric" id="117615_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1196" X_vs_Y_string="Monin v. Monin et al" standard_case="117615_1" X_vs_Y="117615_3" gram_type="pre_nom" relation_type="equivalence" id="117615_7" ></RELATION>
+
+<RELATION theme="117615_3" includes_docket_string="93-1234" includes_docket="117615_2" theme_string="Monin v. Monin et al" gram_type="apposition" relation_type="asymmetric" id="117615_10" ></RELATION>
+
+<RELATION theme="117615_3" party1="117615_4" party1_string="Monin" theme_string="Monin v. Monin et al" gram_type="infix" relation_type="asymmetric" id="117615_8" ></RELATION>
+
+<RELATION party2="117615_5" theme="117615_3" theme_string="Monin v. Monin et al" party2_string="Monin et al" gram_type="infix" relation_type="asymmetric" id="117615_9" ></RELATION>
+

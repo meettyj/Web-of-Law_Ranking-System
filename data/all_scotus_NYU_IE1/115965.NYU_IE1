@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['palkovichservice#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1043" id1="115957" volume="510" start="0" page_number="1043" standard_reporter="U.S." citation_global_level_id="6165.002" line="1" id="115965_1" citation_local_level_id="0" >510 U.S. 1043</CITATION>
+
+<CITATION party2="United States Postal Service" party1="Palkovich" citation_global_level_id="61132.001" party2_short="Service" line="1" id="115965_3" alternative_keys="['u.s._510_1043']" end="59" entry_type="party_key" lookup_key="palkovichservice#1" id1="115965" start="18" party1_short="Palkovich" citation_local_level_id="1" >Palkovich v. United States Postal Service</CITATION>
+
+<NAME end="27" start="18" party1_of="115965_3" all_names="PALKOVICH" local_name_id="1" id="115965_4" >Palkovich</NAME>
+
+<NAME end="59" start="31" all_names="UNITED STATES POSTAL SERVICE" party2_of="115965_3" local_name_id="2" id="115965_5" >United States Postal Service</NAME>
+
+<DOCKET end="75" entry_type="docket" lookup_key="u.s._510_1043" id1="115957" start="69" citation_global_level_id="6165.002" line="1" id="115965_2" citation_local_level_id="0" >93-674</DOCKET>
+
+<DATE start="117" end="133" id="115965_6" >January 10, 1994</DATE>
+
+<NAME start="212" local_name_id="3" end="222" id="115965_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="261" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_998_1021" id1="Dummy_File_3677" volume="998" start="247" page_number="1021" standard_reporter="F.2D" citation_global_level_id="67527.001" line="3" id="115965_12" citation_local_level_id="2" >998 F. 2d 1021</CITATION>
+
+<RELATION theme="115965_1" includes_docket_string="93-674" includes_docket="115965_2" theme_string="510 U.S. 1043" gram_type="apposition" relation_type="asymmetric" id="115965_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1043" X_vs_Y_string="Palkovich v. United States Postal Service" standard_case="115965_1" X_vs_Y="115965_3" gram_type="pre_nom" relation_type="equivalence" id="115965_7" ></RELATION>
+
+<RELATION theme="115965_3" includes_docket_string="93-674" includes_docket="115965_2" theme_string="Palkovich v. United States Postal Service" gram_type="apposition" relation_type="asymmetric" id="115965_10" ></RELATION>
+
+<RELATION theme="115965_3" party1="115965_4" party1_string="Palkovich" theme_string="Palkovich v. United States Postal Service" gram_type="infix" relation_type="asymmetric" id="115965_8" ></RELATION>
+
+<RELATION party2="115965_5" theme="115965_3" theme_string="Palkovich v. United States Postal Service" party2_string="United States Postal Service" gram_type="infix" relation_type="asymmetric" id="115965_9" ></RELATION>
+

@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['myersstates#9']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1178" id1="127034" volume="537" start="0" page_number="1178" standard_reporter="U.S." citation_global_level_id="1501.002" line="1" id="127030_1" citation_local_level_id="0" >537 U.S. 1178</CITATION>
+
+<CITATION party2="UNITED STATES" party1="MYERS" citation_global_level_id="57140.001" party2_short="STATES" line="1" id="127030_3" alternative_keys="['u.s._537_1178']" end="40" entry_type="party_key" lookup_key="myersstates#9" id1="136628" start="18" party1_short="MYERS" citation_local_level_id="1" >MYERS v. UNITED STATES</CITATION>
+
+<NAME end="23" start="18" party1_of="127030_3" all_names="MYERS" local_name_id="1" id="127030_4" >MYERS</NAME>
+
+<NAME end="40" start="27" all_names="UNITED STATES" party2_of="127030_3" local_name_id="2" id="127030_5" >UNITED STATES</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._537_1178" id1="127034" start="50" citation_global_level_id="1501.002" line="1" id="127030_2" citation_local_level_id="0" >02-8104</DOCKET>
+
+<DATE start="99" end="115" id="127030_6" >January 27, 2003</DATE>
+
+<NAME start="248" local_name_id="3" end="251" id="127030_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="127030_1" includes_docket_string="02-8104" includes_docket="127030_2" theme_string="537 U.S. 1178" gram_type="apposition" relation_type="asymmetric" id="127030_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1178" X_vs_Y_string="MYERS v. UNITED STATES" standard_case="127030_1" X_vs_Y="127030_3" gram_type="pre_nom" relation_type="equivalence" id="127030_7" ></RELATION>
+
+<RELATION theme="127030_3" includes_docket_string="02-8104" includes_docket="127030_2" theme_string="MYERS v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="127030_10" ></RELATION>
+
+<RELATION theme="127030_3" party1="127030_4" party1_string="MYERS" theme_string="MYERS v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="127030_8" ></RELATION>
+
+<RELATION party2="127030_5" theme="127030_3" theme_string="MYERS v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="127030_9" ></RELATION>
+

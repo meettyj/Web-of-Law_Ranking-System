@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['boardboard#11']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1190" id1="127142" volume="537" start="0" page_number="1190" standard_reporter="U.S." citation_global_level_id="4013.002" line="1" id="127141_1" citation_local_level_id="0" >537 U.S. 1190</CITATION>
+
+<CITATION party2="BRYAN COUNTY BOARD OF TAX ASSESSORS" party1="BRYAN COUNTY BOARD OF EQUALIZATION" citation_global_level_id="4013.005" party2_short="BOARD" line="1" id="127141_3" alternative_keys="['u.s._537_1190']" end="91" entry_type="party_key" lookup_key="boardboard#11" id1="127142" start="18" party1_short="BOARD" citation_local_level_id="1" >BRYAN COUNTY BOARD OF EQUALIZATION v. BRYAN COUNTY BOARD OF TAX ASSESSORS</CITATION>
+
+<NAME end="52" start="18" party1_of="127141_3" all_names="BRYAN COUNTY BOARD OF EQUALIZATION" local_name_id="1" id="127141_4" >BRYAN COUNTY BOARD OF EQUALIZATION</NAME>
+
+<NAME end="91" start="56" all_names="BRYAN COUNTY BOARD OF TAX ASSESSORS" party2_of="127141_3" local_name_id="2" id="127141_5" >BRYAN COUNTY BOARD OF TAX ASSESSORS</NAME>
+
+<DOCKET end="107" entry_type="docket" lookup_key="u.s._537_1190" id1="127142" start="101" citation_global_level_id="4013.002" line="1" id="127141_2" citation_local_level_id="0" >02-874</DOCKET>
+
+<DATE start="149" end="166" id="127141_6" >February 24, 2003</DATE>
+
+<NAME start="260" local_name_id="3" end="262" id="127141_13" all_names="CT" >Ct</NAME>
+
+<CITATION end="341" reporter="S. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="s.e.2d_560_719" id1="Dummy_File_166577" volume="560" start="325" page_number="719" standard_reporter="S.E.2D" citation_global_level_id="230427.001" line="3" id="127141_12" citation_local_level_id="2" >560 S. E. 2d 719</CITATION>
+
+<RELATION theme="127141_1" includes_docket_string="02-874" includes_docket="127141_2" theme_string="537 U.S. 1190" gram_type="apposition" relation_type="asymmetric" id="127141_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1190" X_vs_Y_string="BRYAN COUNTY BOARD OF EQUALIZATION v. BRYAN COUNTY BOARD OF TAX ASSESSORS" standard_case="127141_1" X_vs_Y="127141_3" gram_type="pre_nom" relation_type="equivalence" id="127141_7" ></RELATION>
+
+<RELATION theme="127141_3" includes_docket_string="02-874" includes_docket="127141_2" theme_string="BRYAN COUNTY BOARD OF EQUALIZATION v. BRYAN COUNTY BOARD OF TAX ASSESSORS" gram_type="apposition" relation_type="asymmetric" id="127141_10" ></RELATION>
+
+<RELATION theme="127141_3" party1="127141_4" party1_string="BRYAN COUNTY BOARD OF EQUALIZATION" theme_string="BRYAN COUNTY BOARD OF EQUALIZATION v. BRYAN COUNTY BOARD OF TAX ASSESSORS" gram_type="infix" relation_type="asymmetric" id="127141_8" ></RELATION>
+
+<RELATION party2="127141_5" theme="127141_3" theme_string="BRYAN COUNTY BOARD OF EQUALIZATION v. BRYAN COUNTY BOARD OF TAX ASSESSORS" party2_string="BRYAN COUNTY BOARD OF TAX ASSESSORS" gram_type="infix" relation_type="asymmetric" id="127141_9" ></RELATION>
+

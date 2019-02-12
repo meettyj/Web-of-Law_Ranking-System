@@ -1,0 +1,38 @@
+<CITATION alternative_keys="['ewingcalifornia#4']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_969" id1="119257" volume="535" start="0" page_number="969" standard_reporter="U.S." citation_global_level_id="12299.002" line="1" id="119257_1" citation_local_level_id="0" >535 U.S. 969</CITATION>
+
+<CITATION party2="CALIFORNIA" party1="EWING" citation_global_level_id="63558.001" party2_short="CALIFORNIA" line="2" id="119257_2" alternative_keys="['u.s._535_969']" end="36" entry_type="party_key" lookup_key="ewingcalifornia#4" id1="122314" start="17" party1_short="EWING" citation_local_level_id="1" >EWING v. CALIFORNIA</CITATION>
+
+<NAME end="22" start="17" party1_of="119257_2" all_names="EWING" local_name_id="1" id="119257_3" >EWING</NAME>
+
+<NAME end="36" start="26" all_names="CALIFORNIA	LOCKYER ATTORNEY GENERAL OF CALIFORNIA" party2_of="119257_2" local_name_id="2" id="119257_4" >CALIFORNIA</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="ewingcalifornia#4" id1="122314" start="46" citation_global_level_id="63558.001" line="3" id="119257_7" citation_local_level_id="1" >01-6978</DOCKET>
+
+<DATE start="99" citation_global_level_id="63558.001" end="112" id="119257_8" citation_local_level_id="1" >April 1, 2002</DATE>
+
+<NAME start="134" local_name_id="3" end="136" id="119257_16" all_names="CT" >Ct</NAME>
+
+<DOCKET entry_type="docket" line="8" end="309" id="119257_12" start="302" >01-1127</DOCKET>
+
+<CITATION party2="Andrade" party1="Lockyer, Attorney General of California" citation_global_level_id="36014.001" party2_short="Andrade" line="8" id="119257_13" end="361" entry_type="party_key" lookup_key="lockyerandrade#1" id1="127898" start="311" party1_short="Lockyer" citation_local_level_id="2" >Lockyer, Attorney General of California v. Andrade</CITATION>
+
+<NAME end="350" start="311" party1_of="119257_13" all_names="CALIFORNIA	LOCKYER ATTORNEY GENERAL OF CALIFORNIA" local_name_id="2" id="119257_14" >Lockyer, Attorney General of California</NAME>
+
+<NAME end="361" start="354" all_names="ANDRADE" party2_of="119257_13" local_name_id="4" id="119257_15" >Andrade</NAME>
+
+<RELATION theme="119257_2" party1="119257_3" party1_string="EWING" theme_string="EWING v. CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="119257_5" ></RELATION>
+
+<RELATION party2="119257_4" theme="119257_2" theme_string="EWING v. CALIFORNIA" party2_string="CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="119257_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 969" X_vs_Y_string="EWING v. CALIFORNIA" standard_case="119257_1" X_vs_Y="119257_2" gram_type="multi_line" relation_type="equivalence" id="119257_9" ></RELATION>
+
+<RELATION at_date_string="April 1, 2002" theme="119257_2" at_date="119257_8" theme_string="EWING v. CALIFORNIA" gram_type="multi_line" relation_type="asymmetric" id="119257_11" ></RELATION>
+
+<RELATION theme="119257_2" includes_docket_string="01-6978" includes_docket="119257_7" theme_string="EWING v. CALIFORNIA" gram_type="multi_line" relation_type="asymmetric" id="119257_10" ></RELATION>
+
+<RELATION theme="119257_13" includes_docket_string="01-1127" includes_docket="119257_12" theme_string="Lockyer, Attorney General of California v. Andrade" gram_type="pre_nom" relation_type="asymmetric" id="119257_17" ></RELATION>
+
+<RELATION theme="119257_13" party1="119257_14" party1_string="Lockyer, Attorney General of California" theme_string="Lockyer, Attorney General of California v. Andrade" gram_type="infix" relation_type="asymmetric" id="119257_18" ></RELATION>
+
+<RELATION party2="119257_15" theme="119257_13" theme_string="Lockyer, Attorney General of California v. Andrade" party2_string="Andrade" gram_type="infix" relation_type="asymmetric" id="119257_19" ></RELATION>
+

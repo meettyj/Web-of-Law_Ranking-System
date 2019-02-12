@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['floresstates#9']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1063" id1="116246" volume="510" start="0" page_number="1063" standard_reporter="U.S." citation_global_level_id="3266.002" line="1" id="116245_1" citation_local_level_id="0" >510 U.S. 1063</CITATION>
+
+<CITATION party2="United States" party1="Flores" citation_global_level_id="11880.001" party2_short="States" line="1" id="116245_3" alternative_keys="['u.s._510_1063']" end="41" entry_type="party_key" lookup_key="floresstates#9" id1="138197" start="18" party1_short="Flores" citation_local_level_id="1" >Flores v. United States</CITATION>
+
+<NAME end="24" start="18" party1_of="116245_3" all_names="FLORES" local_name_id="1" id="116245_4" >Flores</NAME>
+
+<NAME end="41" start="28" all_names="UNITED STATES" party2_of="116245_3" local_name_id="2" id="116245_5" >United States</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._510_1063" id1="116246" start="51" citation_global_level_id="3266.002" line="1" id="116245_2" citation_local_level_id="0" >93-6954</DOCKET>
+
+<DATE start="100" end="116" id="116245_6" >January 10, 1994</DATE>
+
+<NAME start="194" local_name_id="3" end="204" id="116245_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="240" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_5_541" id1="Dummy_File_78664" volume="5" start="229" page_number="541" standard_reporter="F.3D" citation_global_level_id="142514.001" line="3" id="116245_12" citation_local_level_id="2" >5 F. 3d 541</CITATION>
+
+<RELATION theme="116245_1" includes_docket_string="93-6954" includes_docket="116245_2" theme_string="510 U.S. 1063" gram_type="apposition" relation_type="asymmetric" id="116245_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1063" X_vs_Y_string="Flores v. United States" standard_case="116245_1" X_vs_Y="116245_3" gram_type="pre_nom" relation_type="equivalence" id="116245_7" ></RELATION>
+
+<RELATION theme="116245_3" includes_docket_string="93-6954" includes_docket="116245_2" theme_string="Flores v. United States" gram_type="apposition" relation_type="asymmetric" id="116245_10" ></RELATION>
+
+<RELATION theme="116245_3" party1="116245_4" party1_string="Flores" theme_string="Flores v. United States" gram_type="infix" relation_type="asymmetric" id="116245_8" ></RELATION>
+
+<RELATION party2="116245_5" theme="116245_3" theme_string="Flores v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="116245_9" ></RELATION>
+

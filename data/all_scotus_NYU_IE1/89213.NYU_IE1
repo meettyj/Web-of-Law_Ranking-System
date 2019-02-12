@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['statesnorton#3', 'l.ed._23_250']" end="11" reporter="U.S." entry_type="standard_key" lookup_key="u.s._91_558" id1="89213" volume="91" start="0" page_number="558" standard_reporter="U.S." citation_global_level_id="14323.002" line="1" id="89213_1" citation_local_level_id="0" >91 U.S. 558</CITATION>
+
+<CITATION alternative_keys="['u.s._91_558', 'statesnorton#3']" end="29" reporter="L. Ed." entry_type="standard_key" lookup_key="l.ed._23_250" id1="89213" volume="23" start="16" page_number="250" standard_reporter="L.ED." citation_global_level_id="14323.003" line="1" id="89213_2" citation_local_level_id="1" >23 L. Ed. 250</CITATION>
+
+<NAME start="19" local_name_id="1" end="24" id="89213_7" all_names="L ED" >L. Ed</NAME>
+
+<CITATION party2="NORTON" party1="UNITED STATES" citation_global_level_id="60595.001" party2_short="NORTON" line="1" id="89213_3" alternative_keys="['u.s._91_558', 'l.ed._23_250']" end="57" entry_type="party_key" lookup_key="statesnorton#3" id1="1489884" start="34" party1_short="STATES" citation_local_level_id="2" >UNITED STATES v. NORTON</CITATION>
+
+<NAME end="47" start="34" party1_of="89213_3" all_names="UNITED STATES" local_name_id="2" id="89213_4" >UNITED STATES</NAME>
+
+<NAME end="57" start="51" all_names="NORTON" party2_of="89213_3" local_name_id="3" id="89213_5" >NORTON</NAME>
+
+<DATE start="77" end="81" id="89213_6" >1875</DATE>
+
+<NAME start="246" local_name_id="4" end="277" id="89213_12" all_names="MR ATTORNEY-GENERAL PIERREPONT" >Mr. Attorney-General Pierrepont</NAME>
+
+<NAME start="287" local_name_id="2" end="300" id="89213_13" all_names="UNITED STATES" >United States</NAME>
+
+<NAME start="349" local_name_id="5" end="351" id="89213_14" all_names="MR" >MR</NAME>
+
+<NAME start="1246" local_name_id="6" end="1251" id="89213_15" all_names="MARCH" >March</NAME>
+
+<RELATION standard_case_string="91 U.S. 558" X_vs_Y_string="UNITED STATES v. NORTON" standard_case="89213_1" X_vs_Y="89213_3" gram_type="pre_nom" relation_type="equivalence" id="89213_9" ></RELATION>
+
+<RELATION standard_case_string="23 L. Ed. 250" X_vs_Y_string="UNITED STATES v. NORTON" standard_case="89213_2" X_vs_Y="89213_3" gram_type="pre_nom" relation_type="equivalence" id="89213_8" ></RELATION>
+
+<RELATION theme="89213_3" party1="89213_4" party1_string="UNITED STATES" theme_string="UNITED STATES v. NORTON" gram_type="infix" relation_type="asymmetric" id="89213_10" ></RELATION>
+
+<RELATION party2="89213_5" theme="89213_3" theme_string="UNITED STATES v. NORTON" party2_string="NORTON" gram_type="infix" relation_type="asymmetric" id="89213_11" ></RELATION>
+

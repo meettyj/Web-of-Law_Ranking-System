@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['scarbroughstates#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_839" id1="113369" volume="510" start="0" page_number="839" standard_reporter="U.S." citation_global_level_id="5680.002" line="1" id="113363_1" citation_local_level_id="0" >510 U.S. 839</CITATION>
+
+<CITATION party2="United States" party1="Scarbrough" citation_global_level_id="8752.001" party2_short="States" line="1" id="113363_3" alternative_keys="['u.s._510_839']" end="44" entry_type="party_key" lookup_key="scarbroughstates#1" id1="113363" start="17" party1_short="Scarbrough" citation_local_level_id="1" >Scarbrough v. United States</CITATION>
+
+<NAME end="27" start="17" party1_of="113363_3" all_names="SCARBROUGH" local_name_id="1" id="113363_4" >Scarbrough</NAME>
+
+<NAME end="44" start="31" all_names="UNITED STATES" party2_of="113363_3" local_name_id="2" id="113363_5" >United States</NAME>
+
+<DOCKET end="61" entry_type="docket" lookup_key="u.s._510_839" id1="113369" start="54" citation_global_level_id="5680.002" line="1" id="113363_2" citation_local_level_id="0" >92-8895</DOCKET>
+
+<DATE start="103" end="118" id="113363_6" >October 4, 1993</DATE>
+
+<NAME start="196" local_name_id="3" end="206" id="113363_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="244" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_990_296" id1="Dummy_File_84171" volume="990" start="231" page_number="296" standard_reporter="F.2D" citation_global_level_id="148021.001" line="3" id="113363_12" citation_local_level_id="2" >990 F. 2d 296</CITATION>
+
+<RELATION theme="113363_1" includes_docket_string="92-8895" includes_docket="113363_2" theme_string="510 U.S. 839" gram_type="apposition" relation_type="asymmetric" id="113363_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 839" X_vs_Y_string="Scarbrough v. United States" standard_case="113363_1" X_vs_Y="113363_3" gram_type="pre_nom" relation_type="equivalence" id="113363_7" ></RELATION>
+
+<RELATION theme="113363_3" includes_docket_string="92-8895" includes_docket="113363_2" theme_string="Scarbrough v. United States" gram_type="apposition" relation_type="asymmetric" id="113363_10" ></RELATION>
+
+<RELATION theme="113363_3" party1="113363_4" party1_string="Scarbrough" theme_string="Scarbrough v. United States" gram_type="infix" relation_type="asymmetric" id="113363_8" ></RELATION>
+
+<RELATION party2="113363_5" theme="113363_3" theme_string="Scarbrough v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="113363_9" ></RELATION>
+

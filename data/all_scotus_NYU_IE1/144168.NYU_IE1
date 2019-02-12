@@ -1,0 +1,34 @@
+<CITATION alternative_keys="['maxwellsmith#1', 'a._03_511']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_998" id1="144169" volume="544" start="0" page_number="998" standard_reporter="U.S." citation_global_level_id="8901.002" line="1" id="144168_1" citation_local_level_id="0" >544 U.S. 998</CITATION>
+
+<CITATION party2="SMITH" party1="MAXWELL" citation_global_level_id="58589.001" party2_short="SMITH" line="2" id="144168_2" alternative_keys="['u.s._544_998', 'a._03_511']" end="33" entry_type="party_key" lookup_key="maxwellsmith#1" id1="144168" start="17" party1_short="MAXWELL" citation_local_level_id="1" >MAXWELL v. SMITH</CITATION>
+
+<NAME end="24" start="17" party1_of="144168_2" all_names="MAXWELL" local_name_id="1" id="144168_3" >MAXWELL</NAME>
+
+<NAME end="33" start="28" all_names="SMITH" party2_of="144168_2" local_name_id="2" id="144168_4" >SMITH</NAME>
+
+<CITATION alternative_keys="['u.s._544_998', 'maxwellsmith#1']" end="49" reporter="A" entry_type="standard_key" lookup_key="a._03_511" id1="144168" volume="03" start="43" page_number="511" standard_reporter="A." citation_global_level_id="58589.002" line="3" id="144168_7" citation_local_level_id="2" >03A511</CITATION>
+
+<ORGANIZATION start="55" end="85" id="144168_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="91" citation_global_level_id="58589.001" end="105" id="144168_9" citation_local_level_id="1" >April 25, 2005</DATE>
+
+<NAME start="127" local_name_id="3" end="138" id="144168_13" all_names="APPLICATION" >Application</NAME>
+
+<PROFESSION start="186" document_level_name_id="4" end="193" id="144168_14" party="O'CONNOR" >JUSTICE</PROFESSION>
+
+<NAME start="194" local_name_id="4" end="202" id="144168_15" all_names="O'CONNOR" >O'CONNOR</NAME>
+
+<ORGANIZATION start="223" end="228" id="144168_16" >Court</ORGANIZATION>
+
+<RELATION theme="144168_2" party1="144168_3" party1_string="MAXWELL" theme_string="MAXWELL v. SMITH" gram_type="infix" relation_type="asymmetric" id="144168_5" ></RELATION>
+
+<RELATION party2="144168_4" theme="144168_2" theme_string="MAXWELL v. SMITH" party2_string="SMITH" gram_type="infix" relation_type="asymmetric" id="144168_6" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 998" X_vs_Y_string="MAXWELL v. SMITH" standard_case="144168_1" X_vs_Y="144168_2" gram_type="multi_line" relation_type="equivalence" id="144168_10" ></RELATION>
+
+<RELATION at_date_string="April 25, 2005" theme="144168_2" at_date="144168_9" theme_string="MAXWELL v. SMITH" gram_type="multi_line" relation_type="asymmetric" id="144168_12" ></RELATION>
+
+<RELATION standard_case_string="03A511" X_vs_Y_string="MAXWELL v. SMITH" standard_case="144168_7" X_vs_Y="144168_2" gram_type="multi_line" relation_type="equivalence" id="144168_11" ></RELATION>
+
+<RELATION theme="144168_15" profession_string="JUSTICE" theme_string="O'CONNOR" profession="144168_14" gram_type="pre_nom" relation_type="asymmetric" id="144168_17" ></RELATION>
+

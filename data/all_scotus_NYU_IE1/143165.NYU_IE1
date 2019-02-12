@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['tingleycity#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_921" id1="143166" volume="544" start="0" page_number="921" standard_reporter="U.S." citation_global_level_id="2610.002" line="1" id="143165_1" citation_local_level_id="0" >544 U.S. 921</CITATION>
+
+<CITATION party2="CITY OF GRAND RAPIDS, MICHIGAN, ET AL" party1="TINGLEY ET AL." citation_global_level_id="2610.005" party2_short="CITY" line="2" id="143165_2" alternative_keys="['u.s._544_921']" end="72" entry_type="party_key" lookup_key="tingleycity#2" id1="143166" start="17" party1_short="TINGLEY" citation_local_level_id="1" >TINGLEY ET AL. v. CITY OF GRAND RAPIDS, MICHIGAN, ET AL</CITATION>
+
+<NAME end="31" start="17" party1_of="143165_2" all_names="TINGLEY" local_name_id="1" id="143165_3" >TINGLEY ET AL.</NAME>
+
+<NAME end="72" start="35" all_names="CITY OF GRAND RAPIDS MICHIGAN" party2_of="143165_2" local_name_id="2" id="143165_4" >CITY OF GRAND RAPIDS, MICHIGAN, ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._544_921']" end="88" entry_type="docket" lookup_key="tingleycity#2" id1="143166" start="82" citation_global_level_id="2610.005" line="3" id="143165_7" citation_local_level_id="1" >04-933</DOCKET>
+
+<ORGANIZATION start="94" end="124" id="143165_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="130" citation_global_level_id="2610.005" end="144" id="143165_9" citation_local_level_id="1" >March 21, 2005</DATE>
+
+<NAME start="176" local_name_id="3" end="179" id="143165_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="143165_2" party1="143165_3" party1_string="TINGLEY ET AL." theme_string="TINGLEY ET AL. v. CITY OF GRAND RAPIDS, MICHIGAN, ET AL" gram_type="infix" relation_type="asymmetric" id="143165_5" ></RELATION>
+
+<RELATION party2="143165_4" theme="143165_2" theme_string="TINGLEY ET AL. v. CITY OF GRAND RAPIDS, MICHIGAN, ET AL" party2_string="CITY OF GRAND RAPIDS, MICHIGAN, ET AL" gram_type="infix" relation_type="asymmetric" id="143165_6" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 921" X_vs_Y_string="TINGLEY ET AL. v. CITY OF GRAND RAPIDS, MICHIGAN, ET AL" standard_case="143165_1" X_vs_Y="143165_2" gram_type="multi_line" relation_type="equivalence" id="143165_10" ></RELATION>
+
+<RELATION at_date_string="March 21, 2005" theme="143165_2" at_date="143165_9" theme_string="TINGLEY ET AL. v. CITY OF GRAND RAPIDS, MICHIGAN, ET AL" gram_type="multi_line" relation_type="asymmetric" id="143165_12" ></RELATION>
+
+<RELATION theme="143165_2" includes_docket_string="04-933" includes_docket="143165_7" theme_string="TINGLEY ET AL. v. CITY OF GRAND RAPIDS, MICHIGAN, ET AL" gram_type="multi_line" relation_type="asymmetric" id="143165_11" ></RELATION>
+

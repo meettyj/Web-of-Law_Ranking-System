@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['comptonoregon#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_841" id1="122759" volume="537" start="0" page_number="841" standard_reporter="U.S." citation_global_level_id="83.002" line="1" id="122752_1" citation_local_level_id="0" >537 U.S. 841</CITATION>
+
+<CITATION party2="OREGON" party1="COMPTON" citation_global_level_id="29714.001" party2_short="OREGON" line="1" id="122752_3" alternative_keys="['u.s._537_841']" end="34" entry_type="party_key" lookup_key="comptonoregon#2" id1="125664" start="17" party1_short="COMPTON" citation_local_level_id="1" >COMPTON v. OREGON</CITATION>
+
+<NAME end="24" start="17" party1_of="122752_3" all_names="COMPTON" local_name_id="1" id="122752_4" >COMPTON</NAME>
+
+<NAME end="34" start="28" all_names="OREGON" party2_of="122752_3" local_name_id="2" id="122752_5" >OREGON</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="u.s._537_841" id1="122759" start="44" citation_global_level_id="83.002" line="1" id="122752_2" citation_local_level_id="0" >01-10301</DOCKET>
+
+<DATE start="94" end="109" id="122752_6" >October 7, 2002</DATE>
+
+<NAME start="199" local_name_id="3" end="202" id="122752_13" all_names="SUP" >Sup</NAME>
+
+<CITATION end="274" reporter="P. 3d" entry_type="standard_key" no_current_file="True" lookup_key="p.3d_39_833" id1="Dummy_File_23609" volume="39" start="262" page_number="833" standard_reporter="P.3D" citation_global_level_id="87459.001" line="3" id="122752_12" citation_local_level_id="2" >39 P. 3d 833</CITATION>
+
+<RELATION theme="122752_1" includes_docket_string="01-10301" includes_docket="122752_2" theme_string="537 U.S. 841" gram_type="apposition" relation_type="asymmetric" id="122752_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 841" X_vs_Y_string="COMPTON v. OREGON" standard_case="122752_1" X_vs_Y="122752_3" gram_type="pre_nom" relation_type="equivalence" id="122752_7" ></RELATION>
+
+<RELATION theme="122752_3" includes_docket_string="01-10301" includes_docket="122752_2" theme_string="COMPTON v. OREGON" gram_type="apposition" relation_type="asymmetric" id="122752_10" ></RELATION>
+
+<RELATION theme="122752_3" party1="122752_4" party1_string="COMPTON" theme_string="COMPTON v. OREGON" gram_type="infix" relation_type="asymmetric" id="122752_8" ></RELATION>
+
+<RELATION party2="122752_5" theme="122752_3" theme_string="COMPTON v. OREGON" party2_string="OREGON" gram_type="infix" relation_type="asymmetric" id="122752_9" ></RELATION>
+

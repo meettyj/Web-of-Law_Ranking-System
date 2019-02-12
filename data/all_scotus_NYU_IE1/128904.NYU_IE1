@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['cecgenterprises#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_979" id1="128905" volume="538" start="0" page_number="979" standard_reporter="U.S." citation_global_level_id="3683.002" line="1" id="128904_1" citation_local_level_id="0" >538 U.S. 979</CITATION>
+
+<CITATION party2="MAGIC SOFTWARE ENTERPRISES, INC., ET AL" party1="CECG, INC." citation_global_level_id="3683.003" party2_short="ENTERPRISES" line="1" id="128904_3" alternative_keys="['u.s._538_979']" end="70" entry_type="party_key" lookup_key="cecgenterprises#2" id1="128905" start="17" party1_short="CECG" citation_local_level_id="1" >CECG, INC. v. MAGIC SOFTWARE ENTERPRISES, INC., ET AL</CITATION>
+
+<NAME end="27" start="17" party1_of="128904_3" all_names="CECG INC" local_name_id="1" id="128904_4" >CECG, INC.</NAME>
+
+<ORGANIZATION start="17" end="26" id="128904_7" >CECG, INC</ORGANIZATION>
+
+<NAME end="70" start="31" all_names="MAGIC SOFTWARE ENTERPRISES INC" party2_of="128904_3" local_name_id="2" id="128904_5" >MAGIC SOFTWARE ENTERPRISES, INC., ET AL</NAME>
+
+<DOCKET end="87" entry_type="docket" lookup_key="u.s._538_979" id1="128905" start="80" citation_global_level_id="3683.002" line="1" id="128904_2" citation_local_level_id="0" >02-1219</DOCKET>
+
+<DATE start="129" end="143" id="128904_6" >April 21, 2003</DATE>
+
+<NAME start="271" local_name_id="3" end="274" id="128904_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="128904_1" includes_docket_string="02-1219" includes_docket="128904_2" theme_string="538 U.S. 979" gram_type="apposition" relation_type="asymmetric" id="128904_12" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 979" X_vs_Y_string="CECG, INC. v. MAGIC SOFTWARE ENTERPRISES, INC., ET AL" standard_case="128904_1" X_vs_Y="128904_3" gram_type="pre_nom" relation_type="equivalence" id="128904_8" ></RELATION>
+
+<RELATION theme="128904_3" includes_docket_string="02-1219" includes_docket="128904_2" theme_string="CECG, INC. v. MAGIC SOFTWARE ENTERPRISES, INC., ET AL" gram_type="apposition" relation_type="asymmetric" id="128904_11" ></RELATION>
+
+<RELATION party2="128904_5" theme="128904_3" theme_string="CECG, INC. v. MAGIC SOFTWARE ENTERPRISES, INC., ET AL" party2_string="MAGIC SOFTWARE ENTERPRISES, INC., ET AL" gram_type="infix" relation_type="asymmetric" id="128904_10" ></RELATION>
+
+<RELATION theme="128904_3" party1="128904_4" party1_string="CECG, INC." theme_string="CECG, INC. v. MAGIC SOFTWARE ENTERPRISES, INC., ET AL" gram_type="infix" relation_type="asymmetric" id="128904_9" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['barthkentucky#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_929" id1="128255" volume="538" start="0" page_number="929" standard_reporter="U.S." citation_global_level_id="4897.002" line="1" id="128257_1" citation_local_level_id="0" >538 U.S. 929</CITATION>
+
+<CITATION party2="KENTUCKY" party1="BARTH" citation_global_level_id="27947.001" party2_short="KENTUCKY" line="1" id="128257_3" alternative_keys="['u.s._538_929']" end="34" entry_type="party_key" lookup_key="barthkentucky#1" id1="128257" start="17" party1_short="BARTH" citation_local_level_id="1" >BARTH v. KENTUCKY</CITATION>
+
+<NAME end="22" start="17" party1_of="128257_3" all_names="BARTH" local_name_id="1" id="128257_4" >BARTH</NAME>
+
+<NAME end="34" start="26" all_names="KENTUCKY" party2_of="128257_3" local_name_id="2" id="128257_5" >KENTUCKY</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="u.s._538_929" id1="128255" start="44" citation_global_level_id="4897.002" line="1" id="128257_2" citation_local_level_id="0" >02-8537</DOCKET>
+
+<DATE start="93" end="107" id="128257_6" >March 24, 2003</DATE>
+
+<NAME start="199" local_name_id="3" end="202" id="128257_13" all_names="SUP" >Sup</NAME>
+
+<CITATION end="261" reporter="S. W. 3d" entry_type="standard_key" no_current_file="True" lookup_key="s.w.3d_80_390" id1="Dummy_File_141390" volume="80" start="246" page_number="390" standard_reporter="S.W.3D" citation_global_level_id="205240.001" line="3" id="128257_12" citation_local_level_id="2" >80 S. W. 3d 390</CITATION>
+
+<RELATION theme="128257_1" includes_docket_string="02-8537" includes_docket="128257_2" theme_string="538 U.S. 929" gram_type="apposition" relation_type="asymmetric" id="128257_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 929" X_vs_Y_string="BARTH v. KENTUCKY" standard_case="128257_1" X_vs_Y="128257_3" gram_type="pre_nom" relation_type="equivalence" id="128257_7" ></RELATION>
+
+<RELATION theme="128257_3" includes_docket_string="02-8537" includes_docket="128257_2" theme_string="BARTH v. KENTUCKY" gram_type="apposition" relation_type="asymmetric" id="128257_10" ></RELATION>
+
+<RELATION theme="128257_3" party1="128257_4" party1_string="BARTH" theme_string="BARTH v. KENTUCKY" gram_type="infix" relation_type="asymmetric" id="128257_8" ></RELATION>
+
+<RELATION party2="128257_5" theme="128257_3" theme_string="BARTH v. KENTUCKY" party2_string="KENTUCKY" gram_type="infix" relation_type="asymmetric" id="128257_9" ></RELATION>
+

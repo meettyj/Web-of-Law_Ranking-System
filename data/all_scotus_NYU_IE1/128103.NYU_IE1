@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['ellisillinois#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_915" id1="128097" volume="538" start="0" page_number="915" standard_reporter="U.S." citation_global_level_id="1108.002" line="1" id="128103_1" citation_local_level_id="0" >538 U.S. 915</CITATION>
+
+<CITATION party2="ILLINOIS" party1="ELLIS" citation_global_level_id="52867.001" party2_short="ILLINOIS" line="1" id="128103_3" alternative_keys="['u.s._538_915']" end="34" entry_type="party_key" lookup_key="ellisillinois#1" id1="128103" start="17" party1_short="ELLIS" citation_local_level_id="1" >ELLIS v. ILLINOIS</CITATION>
+
+<NAME end="22" start="17" party1_of="128103_3" all_names="ELLIS" local_name_id="1" id="128103_4" >ELLIS</NAME>
+
+<NAME end="34" start="26" all_names="ILLINOIS" party2_of="128103_3" local_name_id="2" id="128103_5" >ILLINOIS</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="u.s._538_915" id1="128097" start="44" citation_global_level_id="1108.002" line="1" id="128103_2" citation_local_level_id="0" >02-8895</DOCKET>
+
+<DATE start="93" end="107" id="128103_6" >March 10, 2003</DATE>
+
+<NAME start="224" local_name_id="3" end="227" id="128103_13" all_names="APP" >App</NAME>
+
+<CITATION end="323" reporter="N. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.e.2d_810_325" id1="Dummy_File_229870" volume="810" start="307" page_number="325" standard_reporter="N.E.2D" citation_global_level_id="293720.001" line="3" id="128103_12" citation_local_level_id="2" >810 N. E. 2d 325</CITATION>
+
+<RELATION theme="128103_1" includes_docket_string="02-8895" includes_docket="128103_2" theme_string="538 U.S. 915" gram_type="apposition" relation_type="asymmetric" id="128103_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 915" X_vs_Y_string="ELLIS v. ILLINOIS" standard_case="128103_1" X_vs_Y="128103_3" gram_type="pre_nom" relation_type="equivalence" id="128103_7" ></RELATION>
+
+<RELATION theme="128103_3" includes_docket_string="02-8895" includes_docket="128103_2" theme_string="ELLIS v. ILLINOIS" gram_type="apposition" relation_type="asymmetric" id="128103_10" ></RELATION>
+
+<RELATION theme="128103_3" party1="128103_4" party1_string="ELLIS" theme_string="ELLIS v. ILLINOIS" gram_type="infix" relation_type="asymmetric" id="128103_8" ></RELATION>
+
+<RELATION party2="128103_5" theme="128103_3" theme_string="ELLIS v. ILLINOIS" party2_string="ILLINOIS" gram_type="infix" relation_type="asymmetric" id="128103_9" ></RELATION>
+

@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['amingeorgia#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_992" id1="140225" volume="543" start="0" page_number="992" standard_reporter="U.S." citation_global_level_id="1001.002" line="1" id="140218_1" citation_local_level_id="0" >543 U.S. 992</CITATION>
+
+<CITATION party2="GEORGIA" party1="AL-AMIN" citation_global_level_id="7243.001" party2_short="GEORGIA" line="2" id="140218_2" alternative_keys="['u.s._543_992']" end="35" entry_type="party_key" lookup_key="amingeorgia#1" id1="140218" start="17" party1_short="AMIN" citation_local_level_id="1" >AL-AMIN v. GEORGIA</CITATION>
+
+<NAME end="24" start="17" party1_of="140218_2" all_names="AL-AMIN" local_name_id="1" id="140218_3" >AL-AMIN</NAME>
+
+<NAME end="35" start="28" all_names="GEORGIA" party2_of="140218_2" local_name_id="2" id="140218_4" >GEORGIA</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="amingeorgia#1" id1="140218" start="45" citation_global_level_id="7243.001" line="3" id="140218_7" citation_local_level_id="1" >04-6606</DOCKET>
+
+<ORGANIZATION start="58" end="88" id="140218_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="94" citation_global_level_id="7243.001" end="111" id="140218_9" citation_local_level_id="1" >November 15, 2004</DATE>
+
+<NAME start="133" local_name_id="3" end="136" id="140218_15" all_names="SUP" >Sup</NAME>
+
+<CITATION end="191" reporter="Ga." entry_type="standard_key" no_current_file="True" lookup_key="ga._278_74" id1="Dummy_File_197675" volume="278" start="181" page_number="74" standard_reporter="GA." citation_global_level_id="261525.001" line="8" id="140218_13" citation_local_level_id="2" >278 Ga. 74</CITATION>
+
+<CITATION end="209" reporter="S. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="s.e.2d_597_332" id1="Dummy_File_197676" volume="597" start="193" page_number="332" standard_reporter="S.E.2D" citation_global_level_id="261526.001" line="8" id="140218_14" citation_local_level_id="3" >597 S. E. 2d 332</CITATION>
+
+<RELATION theme="140218_2" party1="140218_3" party1_string="AL-AMIN" theme_string="AL-AMIN v. GEORGIA" gram_type="infix" relation_type="asymmetric" id="140218_5" ></RELATION>
+
+<RELATION party2="140218_4" theme="140218_2" theme_string="AL-AMIN v. GEORGIA" party2_string="GEORGIA" gram_type="infix" relation_type="asymmetric" id="140218_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 992" X_vs_Y_string="AL-AMIN v. GEORGIA" standard_case="140218_1" X_vs_Y="140218_2" gram_type="multi_line" relation_type="equivalence" id="140218_10" ></RELATION>
+
+<RELATION at_date_string="November 15, 2004" theme="140218_2" at_date="140218_9" theme_string="AL-AMIN v. GEORGIA" gram_type="multi_line" relation_type="asymmetric" id="140218_12" ></RELATION>
+
+<RELATION theme="140218_2" includes_docket_string="04-6606" includes_docket="140218_7" theme_string="AL-AMIN v. GEORGIA" gram_type="multi_line" relation_type="asymmetric" id="140218_11" ></RELATION>
+

@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['dahmeridaho#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._536_926" id1="121451" volume="536" start="0" page_number="926" standard_reporter="U.S." citation_global_level_id="9698.002" line="1" id="121452_1" citation_local_level_id="0" >536 U.S. 926</CITATION>
+
+<CITATION party2="IDAHO ET AL" party1="DAHMER" citation_global_level_id="29473.001" party2_short="IDAHO" line="2" id="121452_2" alternative_keys="['u.s._536_926']" end="38" entry_type="party_key" lookup_key="dahmeridaho#1" id1="121452" start="17" party1_short="DAHMER" citation_local_level_id="1" >DAHMER v. IDAHO ET AL</CITATION>
+
+<NAME end="23" start="17" party1_of="121452_2" all_names="DAHMER" local_name_id="1" id="121452_3" >DAHMER</NAME>
+
+<NAME end="38" start="27" all_names="IDAHO" party2_of="121452_2" local_name_id="2" id="121452_4" >IDAHO ET AL</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="dahmeridaho#1" id1="121452" start="48" citation_global_level_id="29473.001" line="3" id="121452_7" citation_local_level_id="1" >01-9604</DOCKET>
+
+<DATE start="101" citation_global_level_id="29473.001" end="114" id="121452_8" citation_local_level_id="1" >June 17, 2002</DATE>
+
+<NAME start="136" local_name_id="3" end="138" id="121452_14" all_names="CT" >Ct</NAME>
+
+<CITATION end="200" reporter="Idaho" entry_type="standard_key" no_current_file="True" lookup_key="idaho_137_210" id1="Dummy_File_131188" volume="137" start="187" page_number="210" standard_reporter="IDAHO" citation_global_level_id="195038.001" line="8" id="121452_12" citation_local_level_id="2" >137 Idaho 210</CITATION>
+
+<CITATION end="213" reporter="P. 3d" entry_type="standard_key" no_current_file="True" lookup_key="p.3d_46_27" id1="Dummy_File_131189" volume="46" start="202" page_number="27" standard_reporter="P.3D" citation_global_level_id="195039.001" line="8" id="121452_13" citation_local_level_id="3" >46 P. 3d 27</CITATION>
+
+<RELATION theme="121452_2" party1="121452_3" party1_string="DAHMER" theme_string="DAHMER v. IDAHO ET AL" gram_type="infix" relation_type="asymmetric" id="121452_5" ></RELATION>
+
+<RELATION party2="121452_4" theme="121452_2" theme_string="DAHMER v. IDAHO ET AL" party2_string="IDAHO ET AL" gram_type="infix" relation_type="asymmetric" id="121452_6" ></RELATION>
+
+<RELATION standard_case_string="536 U.S. 926" X_vs_Y_string="DAHMER v. IDAHO ET AL" standard_case="121452_1" X_vs_Y="121452_2" gram_type="multi_line" relation_type="equivalence" id="121452_9" ></RELATION>
+
+<RELATION at_date_string="June 17, 2002" theme="121452_2" at_date="121452_8" theme_string="DAHMER v. IDAHO ET AL" gram_type="multi_line" relation_type="asymmetric" id="121452_11" ></RELATION>
+
+<RELATION theme="121452_2" includes_docket_string="01-9604" includes_docket="121452_7" theme_string="DAHMER v. IDAHO ET AL" gram_type="multi_line" relation_type="asymmetric" id="121452_10" ></RELATION>
+

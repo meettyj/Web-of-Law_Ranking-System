@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['spagnolistates#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_958" id1="114919" volume="510" start="0" page_number="958" standard_reporter="U.S." citation_global_level_id="323.002" line="1" id="114910_1" citation_local_level_id="0" >510 U.S. 958</CITATION>
+
+<CITATION party2="United States" party1="Spagnoli" citation_global_level_id="22369.001" party2_short="States" line="1" id="114910_3" alternative_keys="['u.s._510_958']" end="42" entry_type="party_key" lookup_key="spagnolistates#1" id1="114910" start="17" party1_short="Spagnoli" citation_local_level_id="1" >Spagnoli v. United States</CITATION>
+
+<NAME end="25" start="17" party1_of="114910_3" all_names="SPAGNOLI" local_name_id="1" id="114910_4" >Spagnoli</NAME>
+
+<NAME end="42" start="29" all_names="UNITED STATES" party2_of="114910_3" local_name_id="2" id="114910_5" >United States</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="u.s._510_958" id1="114919" start="52" citation_global_level_id="323.002" line="1" id="114910_2" citation_local_level_id="0" >93-6216</DOCKET>
+
+<DATE start="101" end="117" id="114910_6" >November 1, 1993</DATE>
+
+<NAME start="194" local_name_id="3" end="204" id="114910_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="242" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_980_726" id1="Dummy_File_235300" volume="980" start="229" page_number="726" standard_reporter="F.2D" citation_global_level_id="299150.001" line="3" id="114910_12" citation_local_level_id="2" >980 F. 2d 726</CITATION>
+
+<RELATION theme="114910_1" includes_docket_string="93-6216" includes_docket="114910_2" theme_string="510 U.S. 958" gram_type="apposition" relation_type="asymmetric" id="114910_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 958" X_vs_Y_string="Spagnoli v. United States" standard_case="114910_1" X_vs_Y="114910_3" gram_type="pre_nom" relation_type="equivalence" id="114910_7" ></RELATION>
+
+<RELATION theme="114910_3" includes_docket_string="93-6216" includes_docket="114910_2" theme_string="Spagnoli v. United States" gram_type="apposition" relation_type="asymmetric" id="114910_10" ></RELATION>
+
+<RELATION theme="114910_3" party1="114910_4" party1_string="Spagnoli" theme_string="Spagnoli v. United States" gram_type="infix" relation_type="asymmetric" id="114910_8" ></RELATION>
+
+<RELATION party2="114910_5" theme="114910_3" theme_string="Spagnoli v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="114910_9" ></RELATION>
+

@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['hollandflorida#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1062" id1="141092" volume="543" start="0" page_number="1062" standard_reporter="U.S." citation_global_level_id="2292.002" line="1" id="141098_1" citation_local_level_id="0" >543 U.S. 1062</CITATION>
+
+<CITATION party2="FLORIDA" party1="HOLLAND" citation_global_level_id="37340.001" party2_short="FLORIDA" line="2" id="141098_2" alternative_keys="['u.s._543_1062']" end="36" entry_type="party_key" lookup_key="hollandflorida#2" id1="141098" start="18" party1_short="HOLLAND" citation_local_level_id="1" >HOLLAND v. FLORIDA</CITATION>
+
+<NAME end="25" start="18" party1_of="141098_2" all_names="HOLLAND" local_name_id="1" id="141098_3" >HOLLAND</NAME>
+
+<NAME end="36" start="29" all_names="FLORIDA" party2_of="141098_2" local_name_id="2" id="141098_4" >FLORIDA</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="hollandflorida#2" id1="141098" start="46" citation_global_level_id="37340.001" line="3" id="141098_7" citation_local_level_id="1" >04-6905</DOCKET>
+
+<ORGANIZATION start="59" end="89" id="141098_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="95" citation_global_level_id="37340.001" end="111" id="141098_9" citation_local_level_id="1" >January 10, 2005</DATE>
+
+<NAME start="133" local_name_id="3" end="137" id="141098_14" all_names="DIST" >Dist</NAME>
+
+<CITATION end="213" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_871_241" id1="Dummy_File_103831" volume="871" start="199" page_number="241" standard_reporter="SO.2D" citation_global_level_id="167681.001" line="8" id="141098_13" citation_local_level_id="2" >871 So. 2d 241</CITATION>
+
+<RELATION theme="141098_2" party1="141098_3" party1_string="HOLLAND" theme_string="HOLLAND v. FLORIDA" gram_type="infix" relation_type="asymmetric" id="141098_5" ></RELATION>
+
+<RELATION party2="141098_4" theme="141098_2" theme_string="HOLLAND v. FLORIDA" party2_string="FLORIDA" gram_type="infix" relation_type="asymmetric" id="141098_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1062" X_vs_Y_string="HOLLAND v. FLORIDA" standard_case="141098_1" X_vs_Y="141098_2" gram_type="multi_line" relation_type="equivalence" id="141098_10" ></RELATION>
+
+<RELATION at_date_string="January 10, 2005" theme="141098_2" at_date="141098_9" theme_string="HOLLAND v. FLORIDA" gram_type="multi_line" relation_type="asymmetric" id="141098_12" ></RELATION>
+
+<RELATION theme="141098_2" includes_docket_string="04-6905" includes_docket="141098_7" theme_string="HOLLAND v. FLORIDA" gram_type="multi_line" relation_type="asymmetric" id="141098_11" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['brokawstates#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_913" id1="114338" volume="510" start="0" page_number="913" standard_reporter="U.S." citation_global_level_id="5764.002" line="1" id="114329_1" citation_local_level_id="0" >510 U.S. 913</CITATION>
+
+<CITATION party2="United States" party1="Brokaw" citation_global_level_id="17434.001" party2_short="States" line="1" id="114329_3" alternative_keys="['u.s._510_913']" end="40" entry_type="party_key" lookup_key="brokawstates#1" id1="114329" start="17" party1_short="Brokaw" citation_local_level_id="1" >Brokaw v. United States</CITATION>
+
+<NAME end="23" start="17" party1_of="114329_3" all_names="BROKAW" local_name_id="1" id="114329_4" >Brokaw</NAME>
+
+<NAME end="40" start="27" all_names="UNITED STATES" party2_of="114329_3" local_name_id="2" id="114329_5" >United States</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._510_913" id1="114338" start="50" citation_global_level_id="5764.002" line="1" id="114329_2" citation_local_level_id="0" >92-8996</DOCKET>
+
+<DATE start="99" end="115" id="114329_6" >October 12, 1993</DATE>
+
+<NAME start="193" local_name_id="3" end="203" id="114329_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="241" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_985_951" id1="Dummy_File_150522" volume="985" start="228" page_number="951" standard_reporter="F.2D" citation_global_level_id="214372.001" line="3" id="114329_12" citation_local_level_id="2" >985 F. 2d 951</CITATION>
+
+<RELATION theme="114329_1" includes_docket_string="92-8996" includes_docket="114329_2" theme_string="510 U.S. 913" gram_type="apposition" relation_type="asymmetric" id="114329_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 913" X_vs_Y_string="Brokaw v. United States" standard_case="114329_1" X_vs_Y="114329_3" gram_type="pre_nom" relation_type="equivalence" id="114329_7" ></RELATION>
+
+<RELATION theme="114329_3" includes_docket_string="92-8996" includes_docket="114329_2" theme_string="Brokaw v. United States" gram_type="apposition" relation_type="asymmetric" id="114329_10" ></RELATION>
+
+<RELATION theme="114329_3" party1="114329_4" party1_string="Brokaw" theme_string="Brokaw v. United States" gram_type="infix" relation_type="asymmetric" id="114329_8" ></RELATION>
+
+<RELATION party2="114329_5" theme="114329_3" theme_string="Brokaw v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="114329_9" ></RELATION>
+

@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['dlxkentucky#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_961" id1="143647" volume="544" start="0" page_number="961" standard_reporter="U.S." citation_global_level_id="1200.002" line="1" id="143641_1" citation_local_level_id="0" >544 U.S. 961</CITATION>
+
+<CITATION party2="KENTUCKY ET AL" party1="DLX, INC." citation_global_level_id="50288.001" party2_short="KENTUCKY" line="2" id="143641_2" alternative_keys="['u.s._544_961']" end="44" entry_type="party_key" lookup_key="dlxkentucky#1" id1="143641" start="17" party1_short="DLX" citation_local_level_id="1" >DLX, INC. v. KENTUCKY ET AL</CITATION>
+
+<NAME end="26" start="17" party1_of="143641_2" all_names="DLX INC" local_name_id="1" id="143641_3" >DLX, INC.</NAME>
+
+<ORGANIZATION start="17" end="25" id="143641_5" >DLX, INC</ORGANIZATION>
+
+<NAME end="44" start="30" all_names="KENTUCKY" party2_of="143641_2" local_name_id="2" id="143641_4" >KENTUCKY ET AL</NAME>
+
+<DOCKET end="61" entry_type="docket" lookup_key="dlxkentucky#1" id1="143641" start="54" citation_global_level_id="50288.001" line="3" id="143641_8" citation_local_level_id="1" >04-1018</DOCKET>
+
+<ORGANIZATION start="67" end="97" id="143641_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="103" citation_global_level_id="50288.001" end="116" id="143641_10" citation_local_level_id="1" >April 4, 2005</DATE>
+
+<NAME start="148" local_name_id="3" end="151" id="143641_15" all_names="CIR" >Cir</NAME>
+
+<CITATION end="201" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_381_511" id1="Dummy_File_187425" volume="381" start="188" page_number="511" standard_reporter="F.3D" citation_global_level_id="251275.001" line="8" id="143641_14" citation_local_level_id="2" >381 F. 3d 511</CITATION>
+
+<RELATION theme="143641_2" party1="143641_3" party1_string="DLX, INC." theme_string="DLX, INC. v. KENTUCKY ET AL" gram_type="infix" relation_type="asymmetric" id="143641_6" ></RELATION>
+
+<RELATION party2="143641_4" theme="143641_2" theme_string="DLX, INC. v. KENTUCKY ET AL" party2_string="KENTUCKY ET AL" gram_type="infix" relation_type="asymmetric" id="143641_7" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 961" X_vs_Y_string="DLX, INC. v. KENTUCKY ET AL" standard_case="143641_1" X_vs_Y="143641_2" gram_type="multi_line" relation_type="equivalence" id="143641_11" ></RELATION>
+
+<RELATION at_date_string="April 4, 2005" theme="143641_2" at_date="143641_10" theme_string="DLX, INC. v. KENTUCKY ET AL" gram_type="multi_line" relation_type="asymmetric" id="143641_13" ></RELATION>
+
+<RELATION theme="143641_2" includes_docket_string="04-1018" includes_docket="143641_8" theme_string="DLX, INC. v. KENTUCKY ET AL" gram_type="multi_line" relation_type="asymmetric" id="143641_12" ></RELATION>
+

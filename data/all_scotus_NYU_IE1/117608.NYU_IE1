@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['avanzomortgage#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1195" id1="117610" volume="510" start="0" page_number="1195" standard_reporter="U.S." citation_global_level_id="4892.002" line="1" id="117608_1" citation_local_level_id="0" >510 U.S. 1195</CITATION>
+
+<CITATION party2="Citicorp Mortgage, Inc" party1="D'Avanzo" citation_global_level_id="4892.005" party2_short="Mortgage" line="1" id="117608_3" alternative_keys="['u.s._510_1195']" end="52" entry_type="party_key" lookup_key="avanzomortgage#1" id1="117610" start="18" party1_short="Avanzo" citation_local_level_id="1" >D'Avanzo v. Citicorp Mortgage, Inc</CITATION>
+
+<NAME end="26" start="18" party1_of="117608_3" all_names="D'AVANZO" local_name_id="1" id="117608_4" >D'Avanzo</NAME>
+
+<NAME end="52" start="30" all_names="CITICORP MORTGAGE INC" party2_of="117608_3" local_name_id="2" id="117608_5" >Citicorp Mortgage, Inc</NAME>
+
+<DOCKET end="69" entry_type="docket" lookup_key="u.s._510_1195" id1="117610" start="62" citation_global_level_id="4892.002" line="1" id="117608_2" citation_local_level_id="0" >93-1217</DOCKET>
+
+<DATE start="111" end="125" id="117608_6" >March 21, 1994</DATE>
+
+<NAME start="203" local_name_id="3" end="213" id="117608_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="270" reporter="A. 2d" entry_type="standard_key" no_current_file="True" lookup_key="a.2d_626_800" id1="Dummy_File_169851" volume="626" start="257" page_number="800" standard_reporter="A.2D" citation_global_level_id="233701.001" line="3" id="117608_12" citation_local_level_id="2" >626 A. 2d 800</CITATION>
+
+<RELATION theme="117608_1" includes_docket_string="93-1217" includes_docket="117608_2" theme_string="510 U.S. 1195" gram_type="apposition" relation_type="asymmetric" id="117608_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1195" X_vs_Y_string="D'Avanzo v. Citicorp Mortgage, Inc" standard_case="117608_1" X_vs_Y="117608_3" gram_type="pre_nom" relation_type="equivalence" id="117608_7" ></RELATION>
+
+<RELATION theme="117608_3" includes_docket_string="93-1217" includes_docket="117608_2" theme_string="D'Avanzo v. Citicorp Mortgage, Inc" gram_type="apposition" relation_type="asymmetric" id="117608_10" ></RELATION>
+
+<RELATION theme="117608_3" party1="117608_4" party1_string="D'Avanzo" theme_string="D'Avanzo v. Citicorp Mortgage, Inc" gram_type="infix" relation_type="asymmetric" id="117608_8" ></RELATION>
+
+<RELATION party2="117608_5" theme="117608_3" theme_string="D'Avanzo v. Citicorp Mortgage, Inc" party2_string="Citicorp Mortgage, Inc" gram_type="infix" relation_type="asymmetric" id="117608_9" ></RELATION>
+

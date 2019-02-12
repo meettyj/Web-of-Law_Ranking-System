@@ -1,0 +1,48 @@
+<CITATION alternative_keys="['liverpoolcompany#2']" end="20" reporter="U.S." entry_type="standard_key" lookup_key="u.s._129_464" id1="92424" volume="129" start="1" page_number="464" standard_reporter="U.S." citation_global_level_id="9137.003" line="2" id="1211305_1" citation_local_level_id="0" >129 U.S. 464 (____)</CITATION>
+
+<CITATION party2="INSURANCE COMPANY OF NORTH AMERICA" party1="LIVERPOOL AND GREAT WESTERN STEAM COMPANY" citation_global_level_id="9137.006" party2_short="COMPANY" line="5" id="1211305_3" alternative_keys="['u.s._129_464']" end="102" entry_type="party_key" lookup_key="liverpoolcompany#2" id1="92424" start="21" party1_short="LIVERPOOL" citation_local_level_id="1" >LIVERPOOL AND GREAT WESTERN STEAM COMPANY v. INSURANCE COMPANY OF NORTH AMERICA</CITATION>
+
+<NAME end="62" start="21" party1_of="1211305_3" all_names="LIVERPOOL AND GREAT WESTERN STEAM COMPANY" local_name_id="1" id="1211305_4" >LIVERPOOL AND GREAT WESTERN STEAM COMPANY</NAME>
+
+<NAME end="102" start="68" all_names="INSURANCE COMPANY OF NORTH AMERICA" party2_of="1211305_3" local_name_id="2" id="1211305_5" >INSURANCE COMPANY OF NORTH AMERICA</NAME>
+
+<ORGANIZATION start="111" end="141" id="1211305_9" >Supreme Court of United States</ORGANIZATION>
+
+<ORGANIZATION start="144" end="231" id="1211305_10" >Appeal from the Circuit Court of the United States for the Eastern District of New York</ORGANIZATION>
+
+<CITATION party2="Phenix Ins. Co" party1="Liverpool &amp; Great Western Steam Co." citation_global_level_id="71217.002" party2_short="Ins" line="10" id="1211305_11" alternative_keys="['u.s._129_397']" end="332" no_current_file="True" entry_type="party_key" lookup_key="steamins#6" id1="Dummy_File_7367" start="279" party1_short="Steam" citation_local_level_id="2" >Liverpool &amp; Great Western Steam Co. v. Phenix Ins. Co</CITATION>
+
+<NAME end="314" start="279" party1_of="1211305_11" all_names="LIVERPOOL &amp; GREAT WESTERN STEAM CO" local_name_id="3" id="1211305_12" >Liverpool &amp; Great Western Steam Co.</NAME>
+
+<ORGANIZATION start="279" end="313" id="1211305_14" >Liverpool &amp; Great Western Steam Co</ORGANIZATION>
+
+<NAME end="332" start="318" all_names="PHENIX INS CO" party2_of="1211305_11" local_name_id="4" id="1211305_13" >Phenix Ins. Co</NAME>
+
+<ORGANIZATION start="524" end="544" id="1211305_15" >Company from Buffalo</ORGANIZATION>
+
+<NAME start="552" local_name_id="5" end="582" id="1211305_16" all_names="STATE OF NEW YORK TO LIVERPOOL" >State of New York to Liverpool</NAME>
+
+<ORGANIZATION start="587" end="614" id="1211305_17" >New York. The Circuit Court</ORGANIZATION>
+
+<NAME start="684" local_name_id="6" end="694" id="1211305_18" all_names="BLATCHFORD" >Blatchford</NAME>
+
+<PROFESSION start="711" end="719" id="1211305_19" >Fed. Rep</PROFESSION>
+
+<NAME start="726" local_name_id="7" end="732" id="1211305_22" all_names="DECREE" >Decree</NAME>
+
+<NAME start="743" local_name_id="8" end="789" id="1211305_23" all_names="MR CHIEF JUSTICE FULLER AND MR JUSTICE LAMAR" >Mr. Chief Justice FULLER and Mr. Justice LAMAR</NAME>
+
+<PROFESSION start="776" end="783" id="1211305_24" >Justice</PROFESSION>
+
+<ORGANIZATION start="814" end="819" id="1211305_25" >court</ORGANIZATION>
+
+<RELATION theme="1211305_3" party1="1211305_4" party1_string="LIVERPOOL AND GREAT WESTERN STEAM COMPANY" theme_string="LIVERPOOL AND GREAT WESTERN STEAM COMPANY  v.  INSURANCE COMPANY OF NORTH AMERICA" gram_type="infix" relation_type="asymmetric" id="1211305_6" ></RELATION>
+
+<RELATION party2="1211305_5" theme="1211305_3" theme_string="LIVERPOOL AND GREAT WESTERN STEAM COMPANY  v.  INSURANCE COMPANY OF NORTH AMERICA" party2_string="INSURANCE COMPANY OF NORTH AMERICA" gram_type="infix" relation_type="asymmetric" id="1211305_7" ></RELATION>
+
+<RELATION standard_case_string="129 U.S. 464 (____)" X_vs_Y_string="LIVERPOOL AND GREAT WESTERN STEAM COMPANY  v.  INSURANCE COMPANY OF NORTH AMERICA" standard_case="1211305_1" X_vs_Y="1211305_3" gram_type="multi_line" relation_type="equivalence" id="1211305_8" ></RELATION>
+
+<RELATION theme="1211305_11" party1="1211305_12" party1_string="Liverpool &amp; Great Western Steam Co." theme_string="Liverpool &amp; Great Western Steam Co. v. Phenix Ins. Co" gram_type="infix" relation_type="asymmetric" id="1211305_20" ></RELATION>
+
+<RELATION party2="1211305_13" theme="1211305_11" theme_string="Liverpool &amp; Great Western Steam Co. v. Phenix Ins. Co" party2_string="Phenix Ins. Co" gram_type="infix" relation_type="asymmetric" id="1211305_21" ></RELATION>
+

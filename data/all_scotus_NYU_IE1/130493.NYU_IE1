@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['rockefellerabraham#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_928" id1="130501" volume="539" start="0" page_number="928" standard_reporter="U.S." citation_global_level_id="4690.002" line="1" id="130493_1" citation_local_level_id="0" >539 U.S. 928</CITATION>
+
+<CITATION party2="Abraham, Secretary of Energy" party1="Rockefeller" citation_global_level_id="4690.004" party2_short="Abraham" line="1" id="130493_3" alternative_keys="['u.s._539_928']" end="60" entry_type="party_key" lookup_key="rockefellerabraham#1" id1="130501" start="17" party1_short="Rockefeller" citation_local_level_id="1" >Rockefeller v. Abraham, Secretary of Energy</CITATION>
+
+<NAME end="28" start="17" party1_of="130493_3" all_names="ROCKEFELLER" local_name_id="1" id="130493_4" >Rockefeller</NAME>
+
+<NAME end="60" start="32" all_names="ABRAHAM SECRETARY OF ENERGY" party2_of="130493_3" local_name_id="2" id="130493_5" >Abraham, Secretary of Energy</NAME>
+
+<DOCKET end="77" entry_type="docket" lookup_key="u.s._539_928" id1="130501" start="70" citation_global_level_id="4690.002" line="1" id="130493_2" citation_local_level_id="0" >02-1621</DOCKET>
+
+<DATE start="119" end="132" id="130493_6" >June 16, 2003</DATE>
+
+<NAME start="211" local_name_id="3" end="221" id="130493_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="130493_1" includes_docket_string="02-1621" includes_docket="130493_2" theme_string="539 U.S. 928" gram_type="apposition" relation_type="asymmetric" id="130493_11" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 928" X_vs_Y_string="Rockefeller v. Abraham, Secretary of Energy" standard_case="130493_1" X_vs_Y="130493_3" gram_type="pre_nom" relation_type="equivalence" id="130493_7" ></RELATION>
+
+<RELATION theme="130493_3" includes_docket_string="02-1621" includes_docket="130493_2" theme_string="Rockefeller v. Abraham, Secretary of Energy" gram_type="apposition" relation_type="asymmetric" id="130493_10" ></RELATION>
+
+<RELATION theme="130493_3" party1="130493_4" party1_string="Rockefeller" theme_string="Rockefeller v. Abraham, Secretary of Energy" gram_type="infix" relation_type="asymmetric" id="130493_8" ></RELATION>
+
+<RELATION party2="130493_5" theme="130493_3" theme_string="Rockefeller v. Abraham, Secretary of Energy" party2_string="Abraham, Secretary of Energy" gram_type="infix" relation_type="asymmetric" id="130493_9" ></RELATION>
+

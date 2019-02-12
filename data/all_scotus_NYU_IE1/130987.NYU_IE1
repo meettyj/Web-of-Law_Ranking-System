@@ -1,0 +1,34 @@
+<CITATION alternative_keys="['tapiastates#5']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_969" id1="130984" volume="539" start="0" page_number="969" standard_reporter="U.S." citation_global_level_id="7276.002" line="1" id="130987_1" citation_local_level_id="0" >539 U.S. 969</CITATION>
+
+<CITATION party2="United States" party1="Cuautle-Tapia" citation_global_level_id="50007.001" party2_short="States" line="1" id="130987_3" alternative_keys="['u.s._539_969']" end="47" entry_type="party_key" lookup_key="tapiastates#5" id1="113737" start="17" party1_short="Tapia" citation_local_level_id="1" >Cuautle-Tapia v. United States</CITATION>
+
+<NAME end="30" start="17" party1_of="130987_3" all_names="CUAUTLE-TAPIA" local_name_id="1" id="130987_5" >Cuautle-Tapia</NAME>
+
+<NAME end="47" start="34" all_names="UNITED STATES" party2_of="130987_3" local_name_id="2" id="130987_6" >United States</NAME>
+
+<CITATION party2="United States" party1="Cortez-Villanueva, aka Torres-Torres" citation_global_level_id="57455.001" party2_short="States" line="1" id="130987_4" end="105" entry_type="party_key" lookup_key="villanuevastates#6" id1="142701" start="52" party1_short="Villanueva" citation_local_level_id="2" >Cortez-Villanueva, aka Torres-Torres v. United States</CITATION>
+
+<NAME end="88" start="52" party1_of="130987_4" all_names="CORTEZ-VILLANUEVA AKA TORRES-TORRES" local_name_id="3" id="130987_7" >Cortez-Villanueva, aka Torres-Torres</NAME>
+
+<NAME end="105" start="92" all_names="UNITED STATES" party2_of="130987_4" local_name_id="2" id="130987_8" >United States</NAME>
+
+<DOCKET end="123" entry_type="docket" lookup_key="tapiastates#5" id1="113737" start="115" citation_global_level_id="50007.001" line="1" id="130987_2" citation_local_level_id="1" >02-10920</DOCKET>
+
+<DATE start="165" end="178" id="130987_9" >June 27, 2003</DATE>
+
+<NAME start="256" local_name_id="4" end="266" id="130987_17" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION standard_case_string="539 U.S. 969" X_vs_Y_string="Cuautle-Tapia v. United States" standard_case="130987_1" X_vs_Y="130987_3" gram_type="pre_nom" relation_type="equivalence" id="130987_10" ></RELATION>
+
+<RELATION theme="130987_3" includes_docket_string="02-10920" includes_docket="130987_2" theme_string="Cuautle-Tapia v. United States" gram_type="apposition" relation_type="asymmetric" id="130987_16" ></RELATION>
+
+<RELATION theme="130987_3" party1="130987_5" party1_string="Cuautle-Tapia" theme_string="Cuautle-Tapia v. United States" gram_type="infix" relation_type="asymmetric" id="130987_11" ></RELATION>
+
+<RELATION party2="130987_6" theme="130987_3" theme_string="Cuautle-Tapia v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="130987_12" ></RELATION>
+
+<RELATION theme="130987_4" includes_docket_string="02-10920" includes_docket="130987_2" theme_string="Cortez-Villanueva, aka Torres-Torres v. United States" gram_type="apposition" relation_type="asymmetric" id="130987_15" ></RELATION>
+
+<RELATION theme="130987_4" party1="130987_7" party1_string="Cortez-Villanueva, aka Torres-Torres" theme_string="Cortez-Villanueva, aka Torres-Torres v. United States" gram_type="infix" relation_type="asymmetric" id="130987_13" ></RELATION>
+
+<RELATION party2="130987_8" theme="130987_4" theme_string="Cortez-Villanueva, aka Torres-Torres v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="130987_14" ></RELATION>
+

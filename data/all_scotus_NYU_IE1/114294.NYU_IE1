@@ -1,0 +1,38 @@
+<CITATION alternative_keys="['uniontrust#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_907" id1="114294" volume="510" start="0" page_number="907" standard_reporter="U.S." citation_global_level_id="6242.002" line="1" id="114294_1" citation_local_level_id="0" >510 U.S. 907</CITATION>
+
+<CITATION party2="First National Bank &amp; Trust Co. et al" party1="AT&amp;T Family Federal Credit Union et al." citation_global_level_id="6242.004" party2_short="Trust" line="1" id="114294_3" alternative_keys="['u.s._510_907']" end="97" entry_type="party_key" lookup_key="uniontrust#1" id1="114294" start="17" party1_short="Union" citation_local_level_id="1" >AT&amp;T Family Federal Credit Union et al. v. First National Bank &amp; Trust Co. et al</CITATION>
+
+<NAME end="56" start="17" party1_of="114294_3" all_names="AT&amp;T FAMILY FEDERAL CREDIT UNION" local_name_id="1" id="114294_4" >AT&amp;T Family Federal Credit Union et al.</NAME>
+
+<ORGANIZATION start="17" end="49" id="114294_8" >AT&amp;T Family Federal Credit Union</ORGANIZATION>
+
+<NAME end="97" start="60" all_names="FIRST NATIONAL BANK &amp; TRUST CO" party2_of="114294_3" local_name_id="2" id="114294_5" >First National Bank &amp; Trust Co. et al</NAME>
+
+<ORGANIZATION start="60" end="90" id="114294_9" >First National Bank &amp; Trust Co</ORGANIZATION>
+
+<DOCKET end="114" entry_type="docket" lookup_key="u.s._510_907" id1="114294" start="107" citation_global_level_id="6242.002" line="1" id="114294_2" citation_local_level_id="0" >92-2010</DOCKET>
+
+<DATE start="110" end="114" id="114294_6" >2010</DATE>
+
+<ORGANIZATION start="120" end="150" id="114294_10" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="156" end="171" id="114294_7" >October 4, 1993</DATE>
+
+<NAME start="193" local_name_id="3" end="224" id="114294_11" all_names="APPEAL FROM THE C A D C CIR" >Appeal from the C. A. D. C. Cir</NAME>
+
+<NAME start="251" local_name_id="4" end="261" id="114294_19" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION alternative_keys="['trustadmin#1']" end="381" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_988_1272" id1="Dummy_File_233084" volume="988" start="367" page_number="1272" standard_reporter="F.2D" citation_global_level_id="296934.004" line="3" id="114294_18" citation_local_level_id="2" >988 F. 2d 1272</CITATION>
+
+<RELATION theme="114294_1" includes_docket_string="92-2010" includes_docket="114294_2" theme_string="510 U.S. 907" gram_type="apposition" relation_type="asymmetric" id="114294_16" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 907" X_vs_Y_string="AT&amp;T Family Federal Credit Union et al. v. First National Bank &amp; Trust Co. et al" standard_case="114294_1" X_vs_Y="114294_3" gram_type="pre_nom" relation_type="equivalence" id="114294_12" ></RELATION>
+
+<RELATION theme="114294_3" includes_docket_string="92-2010" includes_docket="114294_2" theme_string="AT&amp;T Family Federal Credit Union et al. v. First National Bank &amp; Trust Co. et al" gram_type="apposition" relation_type="asymmetric" id="114294_15" ></RELATION>
+
+<RELATION theme="114294_3" party1="114294_4" party1_string="AT&amp;T Family Federal Credit Union et al." theme_string="AT&amp;T Family Federal Credit Union et al. v. First National Bank &amp; Trust Co. et al" gram_type="infix" relation_type="asymmetric" id="114294_13" ></RELATION>
+
+<RELATION party2="114294_5" theme="114294_3" theme_string="AT&amp;T Family Federal Credit Union et al. v. First National Bank &amp; Trust Co. et al" party2_string="First National Bank &amp; Trust Co. et al" gram_type="infix" relation_type="asymmetric" id="114294_14" ></RELATION>
+
+<RELATION at_date_string="2010" theme="114294_2" at_date="114294_6" theme_string="92-2010" gram_type="infix" relation_type="asymmetric" id="114294_17" ></RELATION>
+

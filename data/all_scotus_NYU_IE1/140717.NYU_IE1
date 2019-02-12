@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['ericksonsunbeam#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1030" id1="140729" volume="543" start="0" page_number="1030" standard_reporter="U.S." citation_global_level_id="7860.002" line="1" id="140717_1" citation_local_level_id="0" >543 U.S. 1030</CITATION>
+
+<CITATION party2="SUNBEAM CORP" party1="ERICKSON" citation_global_level_id="52196.001" party2_short="SUNBEAM" line="2" id="140717_2" alternative_keys="['u.s._543_1030']" end="42" entry_type="party_key" lookup_key="ericksonsunbeam#1" id1="140717" start="18" party1_short="ERICKSON" citation_local_level_id="1" >ERICKSON v. SUNBEAM CORP</CITATION>
+
+<NAME end="26" start="18" party1_of="140717_2" all_names="ERICKSON" local_name_id="1" id="140717_3" >ERICKSON</NAME>
+
+<NAME end="42" start="30" all_names="SUNBEAM CORP" party2_of="140717_2" local_name_id="2" id="140717_4" >SUNBEAM CORP</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="ericksonsunbeam#1" id1="140717" start="52" citation_global_level_id="52196.001" line="3" id="140717_7" citation_local_level_id="1" >04-6470</DOCKET>
+
+<ORGANIZATION start="65" end="95" id="140717_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="101" citation_global_level_id="52196.001" end="117" id="140717_9" citation_local_level_id="1" >December 6, 2004</DATE>
+
+<NAME start="148" local_name_id="3" end="151" id="140717_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="140717_2" party1="140717_3" party1_string="ERICKSON" theme_string="ERICKSON v. SUNBEAM CORP" gram_type="infix" relation_type="asymmetric" id="140717_5" ></RELATION>
+
+<RELATION party2="140717_4" theme="140717_2" theme_string="ERICKSON v. SUNBEAM CORP" party2_string="SUNBEAM CORP" gram_type="infix" relation_type="asymmetric" id="140717_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1030" X_vs_Y_string="ERICKSON v. SUNBEAM CORP" standard_case="140717_1" X_vs_Y="140717_2" gram_type="multi_line" relation_type="equivalence" id="140717_10" ></RELATION>
+
+<RELATION at_date_string="December 6, 2004" theme="140717_2" at_date="140717_9" theme_string="ERICKSON v. SUNBEAM CORP" gram_type="multi_line" relation_type="asymmetric" id="140717_12" ></RELATION>
+
+<RELATION theme="140717_2" includes_docket_string="04-6470" includes_docket="140717_7" theme_string="ERICKSON v. SUNBEAM CORP" gram_type="multi_line" relation_type="asymmetric" id="140717_11" ></RELATION>
+

@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['barbersecretary#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1109" id1="126169" volume="537" start="0" page_number="1109" standard_reporter="U.S." citation_global_level_id="1867.002" line="1" id="126159_1" citation_local_level_id="0" >537 U.S. 1109</CITATION>
+
+<CITATION party2="COX, SECRETARY OF STATE OF GEORGIA" party1="BARBER" citation_global_level_id="31310.001" party2_short="SECRETARY" line="1" id="126159_3" alternative_keys="['u.s._537_1109']" end="62" entry_type="party_key" lookup_key="barbersecretary#1" id1="126159" start="18" party1_short="BARBER" citation_local_level_id="1" >BARBER v. COX, SECRETARY OF STATE OF GEORGIA</CITATION>
+
+<NAME end="24" start="18" party1_of="126159_3" all_names="BARBER" local_name_id="1" id="126159_4" >BARBER</NAME>
+
+<NAME end="62" start="28" all_names="COX SECRETARY OF STATE OF GEORGIA" party2_of="126159_3" local_name_id="2" id="126159_5" >COX, SECRETARY OF STATE OF GEORGIA</NAME>
+
+<DOCKET end="78" entry_type="docket" lookup_key="u.s._537_1109" id1="126169" start="72" citation_global_level_id="1867.002" line="1" id="126159_2" citation_local_level_id="0" >02-673</DOCKET>
+
+<DATE start="120" end="136" id="126159_6" >January 13, 2003</DATE>
+
+<NAME start="227" local_name_id="3" end="230" id="126159_14" all_names="SUP" >Sup</NAME>
+
+<CITATION end="286" reporter="Ga." entry_type="standard_key" no_current_file="True" lookup_key="ga._275_415" id1="Dummy_File_73300" volume="275" start="275" page_number="415" standard_reporter="GA." citation_global_level_id="137150.001" line="3" id="126159_12" citation_local_level_id="2" >275 Ga. 415</CITATION>
+
+<CITATION end="304" reporter="S. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="s.e.2d_568_478" id1="Dummy_File_73301" volume="568" start="288" page_number="478" standard_reporter="S.E.2D" citation_global_level_id="137151.001" line="3" id="126159_13" citation_local_level_id="3" >568 S. E. 2d 478</CITATION>
+
+<RELATION theme="126159_1" includes_docket_string="02-673" includes_docket="126159_2" theme_string="537 U.S. 1109" gram_type="apposition" relation_type="asymmetric" id="126159_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1109" X_vs_Y_string="BARBER v. COX, SECRETARY OF STATE OF GEORGIA" standard_case="126159_1" X_vs_Y="126159_3" gram_type="pre_nom" relation_type="equivalence" id="126159_7" ></RELATION>
+
+<RELATION theme="126159_3" includes_docket_string="02-673" includes_docket="126159_2" theme_string="BARBER v. COX, SECRETARY OF STATE OF GEORGIA" gram_type="apposition" relation_type="asymmetric" id="126159_10" ></RELATION>
+
+<RELATION theme="126159_3" party1="126159_4" party1_string="BARBER" theme_string="BARBER v. COX, SECRETARY OF STATE OF GEORGIA" gram_type="infix" relation_type="asymmetric" id="126159_8" ></RELATION>
+
+<RELATION party2="126159_5" theme="126159_3" theme_string="BARBER v. COX, SECRETARY OF STATE OF GEORGIA" party2_string="COX, SECRETARY OF STATE OF GEORGIA" gram_type="infix" relation_type="asymmetric" id="126159_9" ></RELATION>
+

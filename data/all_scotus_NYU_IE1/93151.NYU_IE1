@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['griswoldhazard#2', 's.ct._11_999', 'l.ed._35_678']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._141_260" id1="93151" volume="141" start="0" page_number="260" standard_reporter="U.S." citation_global_level_id="44131.002" line="1" id="93151_1" citation_local_level_id="0" >141 U.S. 260</CITATION>
+
+<CITATION alternative_keys="['u.s._141_260', 'griswoldhazard#2', 'l.ed._35_678']" end="30" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._11_999" id1="93151" volume="11" start="17" page_number="999" standard_reporter="S.CT." citation_global_level_id="44131.003" line="2" id="93151_2" citation_local_level_id="1" >11 S. Ct. 999</CITATION>
+
+<CITATION alternative_keys="['u.s._141_260', 's.ct._11_999', 'griswoldhazard#2']" end="48" reporter="L. Ed." entry_type="standard_key" lookup_key="l.ed._35_678" id1="93151" volume="35" start="35" page_number="678" standard_reporter="L.ED." citation_global_level_id="44131.004" line="3" id="93151_3" citation_local_level_id="2" >35 L. Ed. 678</CITATION>
+
+<CITATION party2="HAZARD et al" party1="GRISWOLD" citation_global_level_id="50787.001" party2_short="HAZARD" line="4" id="93151_4" alternative_keys="['u.s._141_260', 's.ct._11_999', 'l.ed._35_678']" end="77" entry_type="party_key" lookup_key="griswoldhazard#2" id1="93150" start="53" party1_short="GRISWOLD" citation_local_level_id="3" >GRISWOLD v. HAZARD et al</CITATION>
+
+<NAME end="61" start="53" party1_of="93151_4" all_names="GRISWOLD" local_name_id="1" id="93151_5" >GRISWOLD</NAME>
+
+<NAME end="77" start="65" all_names="HAZARD" party2_of="93151_4" local_name_id="2" id="93151_6" >HAZARD et al</NAME>
+
+<DATE start="83" citation_global_level_id="50787.001" end="95" id="93151_9" citation_local_level_id="3" >May 25, 1891</DATE>
+
+<RELATION theme="93151_4" party1="93151_5" party1_string="GRISWOLD" theme_string="GRISWOLD v. HAZARD et al" gram_type="infix" relation_type="asymmetric" id="93151_7" ></RELATION>
+
+<RELATION party2="93151_6" theme="93151_4" theme_string="GRISWOLD v. HAZARD et al" party2_string="HAZARD et al" gram_type="infix" relation_type="asymmetric" id="93151_8" ></RELATION>
+
+<RELATION standard_case_string="141 U.S. 260" X_vs_Y_string="GRISWOLD v. HAZARD et al" standard_case="93151_1" X_vs_Y="93151_4" gram_type="multi_line" relation_type="equivalence" id="93151_10" ></RELATION>
+
+<RELATION standard_case_string="11 S. Ct. 999" X_vs_Y_string="GRISWOLD v. HAZARD et al" standard_case="93151_2" X_vs_Y="93151_4" gram_type="multi_line" relation_type="equivalence" id="93151_11" ></RELATION>
+
+<RELATION standard_case_string="35 L. Ed. 678" X_vs_Y_string="GRISWOLD v. HAZARD et al" standard_case="93151_3" X_vs_Y="93151_4" gram_type="multi_line" relation_type="equivalence" id="93151_12" ></RELATION>
+
+<RELATION at_date_string="May 25, 1891" theme="93151_4" at_date="93151_9" theme_string="GRISWOLD v. HAZARD et al" gram_type="multi_line" relation_type="asymmetric" id="93151_13" ></RELATION>
+

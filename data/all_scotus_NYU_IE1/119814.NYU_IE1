@@ -1,0 +1,58 @@
+<CITATION alternative_keys="['facundoagency#1', 'wardencommission#1', 'facundoholder#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1012" id1="119822" volume="535" start="0" page_number="1012" standard_reporter="U.S." citation_global_level_id="6686.002" line="1" id="119814_1" citation_local_level_id="0" >535 U.S. 1012</CITATION>
+
+<CITATION party2="HOLDER" party1="FACUNDO" citation_global_level_id="6686.008" party2_short="HOLDER" line="2" id="119814_2" alternative_keys="['facundoagency#1', 'wardencommission#1', 'u.s._535_1012']" end="35" entry_type="party_key" lookup_key="facundoholder#1" id1="119822" start="18" party1_short="FACUNDO" citation_local_level_id="1" >FACUNDO v. HOLDER</CITATION>
+
+<NAME end="25" start="18" party1_of="119814_2" all_names="FACUNDO	WARDEN AL; FACUNDO" local_name_id="1" id="119814_5" >FACUNDO</NAME>
+
+<NAME end="35" start="29" all_names="HOLDER" party2_of="119814_2" local_name_id="2" id="119814_6" >HOLDER</NAME>
+
+<CITATION party2="UNITED STATES PAROLE COMMISSION" party1="WARDEN, ET AL.; FACUNDO" citation_global_level_id="6686.007" party2_short="COMMISSION" line="2" id="119814_3" alternative_keys="['facundoagency#1', 'facundoholder#1', 'u.s._535_1012']" end="95" entry_type="party_key" lookup_key="wardencommission#1" id1="119822" start="37" party1_short="WARDEN" citation_local_level_id="2" >WARDEN, ET AL.; FACUNDO v. UNITED STATES PAROLE COMMISSION</CITATION>
+
+<NAME end="60" start="37" party1_of="119814_3" all_names="FACUNDO	WARDEN AL; FACUNDO" local_name_id="1" id="119814_7" >WARDEN, ET AL.; FACUNDO</NAME>
+
+<NAME end="95" start="64" all_names="UNITED STATES PAROLE COMMISSION" party2_of="119814_3" local_name_id="3" id="119814_8" >UNITED STATES PAROLE COMMISSION</NAME>
+
+<CITATION party2="DRUG ENFORCEMENT ADMINISTRATIVE AGENCY" party1="FACUNDO" citation_global_level_id="6686.006" party2_short="AGENCY" line="2" id="119814_4" alternative_keys="['wardencommission#1', 'facundoholder#1', 'u.s._535_1012']" end="150" entry_type="party_key" lookup_key="facundoagency#1" id1="119822" start="101" party1_short="FACUNDO" citation_local_level_id="3" >FACUNDO v. DRUG ENFORCEMENT ADMINISTRATIVE AGENCY</CITATION>
+
+<NAME end="108" start="101" party1_of="119814_4" all_names="FACUNDO	WARDEN AL; FACUNDO" local_name_id="1" id="119814_9" >FACUNDO</NAME>
+
+<NAME end="150" start="112" all_names="DRUG ENFORCEMENT ADMINISTRATIVE AGENCY" party2_of="119814_4" local_name_id="4" id="119814_10" >DRUG ENFORCEMENT ADMINISTRATIVE AGENCY</NAME>
+
+<DOCKET alternative_keys="['facundoagency#1', 'wardencommission#1', 'u.s._535_1012']" end="168" entry_type="docket" lookup_key="facundoholder#1" id1="119822" start="160" citation_global_level_id="6686.008" line="3" id="119814_17" citation_local_level_id="1" >00-10671</DOCKET>
+
+<DATE start="214" citation_global_level_id="6686.008" end="228" id="119814_18" citation_local_level_id="1" >April 15, 2002</DATE>
+
+<CITATION end="263" reporter="U. S." entry_type="standard_key" no_current_file="True" lookup_key="u.s._534_872" id1="Dummy_File_170792" volume="534" start="250" page_number="872" standard_reporter="U.S." citation_global_level_id="234642.001" line="8" id="119814_28" citation_local_level_id="4" >534 U. S. 872</CITATION>
+
+<NAME start="265" local_name_id="5" end="274" id="119814_29" all_names="PETITIONS" >Petitions</NAME>
+
+<RELATION theme="119814_2" party1="119814_5" party1_string="FACUNDO" theme_string="FACUNDO v. HOLDER" gram_type="infix" relation_type="asymmetric" id="119814_11" ></RELATION>
+
+<RELATION party2="119814_6" theme="119814_2" theme_string="FACUNDO v. HOLDER" party2_string="HOLDER" gram_type="infix" relation_type="asymmetric" id="119814_12" ></RELATION>
+
+<RELATION theme="119814_3" party1="119814_7" party1_string="WARDEN, ET AL.; FACUNDO" theme_string="WARDEN, ET AL.; FACUNDO v. UNITED STATES PAROLE COMMISSION" gram_type="infix" relation_type="asymmetric" id="119814_13" ></RELATION>
+
+<RELATION party2="119814_8" theme="119814_3" theme_string="WARDEN, ET AL.; FACUNDO v. UNITED STATES PAROLE COMMISSION" party2_string="UNITED STATES PAROLE COMMISSION" gram_type="infix" relation_type="asymmetric" id="119814_14" ></RELATION>
+
+<RELATION theme="119814_4" party1="119814_9" party1_string="FACUNDO" theme_string="FACUNDO v. DRUG ENFORCEMENT ADMINISTRATIVE AGENCY" gram_type="infix" relation_type="asymmetric" id="119814_15" ></RELATION>
+
+<RELATION party2="119814_10" theme="119814_4" theme_string="FACUNDO v. DRUG ENFORCEMENT ADMINISTRATIVE AGENCY" party2_string="DRUG ENFORCEMENT ADMINISTRATIVE AGENCY" gram_type="infix" relation_type="asymmetric" id="119814_16" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1012" X_vs_Y_string="FACUNDO v. DRUG ENFORCEMENT ADMINISTRATIVE AGENCY" standard_case="119814_1" X_vs_Y="119814_4" gram_type="multi_line" relation_type="equivalence" id="119814_25" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1012" X_vs_Y_string="WARDEN, ET AL.; FACUNDO v. UNITED STATES PAROLE COMMISSION" standard_case="119814_1" X_vs_Y="119814_3" gram_type="multi_line" relation_type="equivalence" id="119814_22" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1012" X_vs_Y_string="FACUNDO v. HOLDER" standard_case="119814_1" X_vs_Y="119814_2" gram_type="multi_line" relation_type="equivalence" id="119814_19" ></RELATION>
+
+<RELATION at_date_string="April 15, 2002" theme="119814_2" at_date="119814_18" theme_string="FACUNDO v. HOLDER" gram_type="multi_line" relation_type="asymmetric" id="119814_21" ></RELATION>
+
+<RELATION theme="119814_2" includes_docket_string="00-10671" includes_docket="119814_17" theme_string="FACUNDO v. HOLDER" gram_type="multi_line" relation_type="asymmetric" id="119814_20" ></RELATION>
+
+<RELATION at_date_string="April 15, 2002" theme="119814_3" at_date="119814_18" theme_string="WARDEN, ET AL.; FACUNDO v. UNITED STATES PAROLE COMMISSION" gram_type="multi_line" relation_type="asymmetric" id="119814_24" ></RELATION>
+
+<RELATION theme="119814_3" includes_docket_string="00-10671" includes_docket="119814_17" theme_string="WARDEN, ET AL.; FACUNDO v. UNITED STATES PAROLE COMMISSION" gram_type="multi_line" relation_type="asymmetric" id="119814_23" ></RELATION>
+
+<RELATION at_date_string="April 15, 2002" theme="119814_4" at_date="119814_18" theme_string="FACUNDO v. DRUG ENFORCEMENT ADMINISTRATIVE AGENCY" gram_type="multi_line" relation_type="asymmetric" id="119814_27" ></RELATION>
+
+<RELATION theme="119814_4" includes_docket_string="00-10671" includes_docket="119814_17" theme_string="FACUNDO v. DRUG ENFORCEMENT ADMINISTRATIVE AGENCY" gram_type="multi_line" relation_type="asymmetric" id="119814_26" ></RELATION>
+

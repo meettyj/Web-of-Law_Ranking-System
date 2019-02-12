@@ -1,0 +1,64 @@
+<CITATION alternative_keys="['friendwise#1']" end="20" reporter="U.S." entry_type="standard_key" lookup_key="u.s._111_797" id1="91168" volume="111" start="1" page_number="797" year="1884" standard_reporter="U.S." citation_global_level_id="11526.002" line="2" id="91168_1" citation_local_level_id="0" >111 U.S. 797 (1884)</CITATION>
+
+<DATE start="15" citation_global_level_id="11526.002" end="19" id="91168_2" citation_local_level_id="0" >1884</DATE>
+
+<CITATION party2="WISE" party1="FRIEND &amp; Another" citation_global_level_id="11526.001" party2_short="WISE" line="5" id="91168_5" alternative_keys="['u.s._111_797']" end="47" entry_type="party_key" lookup_key="friendwise#1" id1="91168" start="21" party1_short="FRIEND" citation_local_level_id="1" >FRIEND &amp; Another v. WISE</CITATION>
+
+<NAME end="37" start="21" party1_of="91168_5" all_names="FRIEND &amp; ANOTHER" local_name_id="1" id="91168_6" >FRIEND &amp; Another</NAME>
+
+<NAME end="47" start="43" all_names="WISE" party2_of="91168_5" local_name_id="2" id="91168_7" >WISE</NAME>
+
+<ORGANIZATION start="49" end="79" id="91168_10" >Supreme Court of United States</ORGANIZATION>
+
+<NAME start="91" local_name_id="3" end="101" id="91168_12" all_names="APRIL 21ST" >April 21st</NAME>
+
+<DATE start="103" end="107" id="91168_11" >1884</DATE>
+
+<NAME start="109" local_name_id="4" end="120" id="91168_15" all_names="DECIDED MAY" >Decided May</NAME>
+
+<DATE start="126" end="130" id="91168_14" >1884</DATE>
+
+<ORGANIZATION start="135" end="213" id="91168_16" >ERROR TO THE CIRCUIT COURT OF THE UNITED STATES FOR THE DISTRICT OF CALIFORNIA</ORGANIZATION>
+
+<LEGAL_ROLE start="215" end="269" id="91168_17" >Mr. Henry Beard and Mr. Charles H. Armes for defendant</LEGAL_ROLE>
+
+<LEGAL_ROLE start="305" end="343" plural="True" id="91168_18" >Mr. William J. Johnston for plaintiffs</LEGAL_ROLE>
+
+<NAME start="364" local_name_id="5" end="366" id="91168_19" all_names="MR" >MR</NAME>
+
+<LEGAL_ROLE start="692" end="702" plural="True" id="91168_27" >defendants</LEGAL_ROLE>
+
+<CITATION party2="Wise" party1="Tupper" citation_global_level_id="24894.001" party2_short="Wise" line="13" id="91168_21" alternative_keys="['u.s._110_398', 'lynchbailey#1']" end="866" entry_type="party_key" lookup_key="tupperwise#1" id1="91046" start="852" party1_short="Tupper" citation_local_level_id="2" >Tupper v. Wise</CITATION>
+
+<NAME end="858" start="852" party1_of="91168_21" all_names="TUPPER" local_name_id="6" id="91168_23" >Tupper</NAME>
+
+<NAME end="866" start="862" all_names="WISE" party2_of="91168_21" local_name_id="2" id="91168_24" >Wise</NAME>
+
+<CITATION party2="Bailey" party1="Lynch" citation_global_level_id="45751.004" party2_short="Bailey" line="13" id="91168_22" alternative_keys="['u.s._110_400']" end="886" entry_type="party_key" lookup_key="lynchbailey#1" id1="2351808" start="871" party1_short="Lynch" citation_local_level_id="3" >Lynch v. Bailey</CITATION>
+
+<NAME end="876" start="871" party1_of="91168_22" all_names="LYNCH" local_name_id="7" id="91168_25" >Lynch</NAME>
+
+<NAME end="886" start="880" all_names="BAILEY" party2_of="91168_22" local_name_id="8" id="91168_26" >Bailey</NAME>
+
+<CITATION alternative_keys="['tupperwise#1', 'lynchbailey#1']" end="900" reporter="U.S." entry_type="standard_key" lookup_key="u.s._110_398" id1="91046" volume="110" start="888" page_number="398" standard_reporter="U.S." citation_global_level_id="24894.002" line="13" id="91168_20" citation_local_level_id="4" >110 U.S. 398</CITATION>
+
+<RELATION at_date_string="1884" theme="91168_1" at_date="91168_2" theme_string="111 U.S. 797 (1884)" gram_type="infix" relation_type="asymmetric" id="91168_3" ></RELATION>
+
+<RELATION theme="91168_5" party1="91168_6" party1_string="FRIEND &amp; Another" theme_string="FRIEND &amp; Another  v.  WISE" gram_type="infix" relation_type="asymmetric" id="91168_8" ></RELATION>
+
+<RELATION party2="91168_7" theme="91168_5" theme_string="FRIEND &amp; Another  v.  WISE" party2_string="WISE" gram_type="infix" relation_type="asymmetric" id="91168_9" ></RELATION>
+
+<RELATION standard_case_string="111 U.S. 797 (1884)" X_vs_Y_string="FRIEND &amp; Another  v.  WISE" standard_case="91168_1" X_vs_Y="91168_5" gram_type="multi_line" relation_type="equivalence" id="91168_13" ></RELATION>
+
+<RELATION standard_case_string="110 U.S. 398" X_vs_Y_string="Tupper v. Wise" standard_case="91168_20" X_vs_Y="91168_21" gram_type="apposition" relation_type="equivalence" id="91168_33" ></RELATION>
+
+<RELATION theme="91168_21" party1="91168_23" party1_string="Tupper" theme_string="Tupper v. Wise" gram_type="infix" relation_type="asymmetric" id="91168_28" ></RELATION>
+
+<RELATION party2="91168_24" theme="91168_21" theme_string="Tupper v. Wise" party2_string="Wise" gram_type="infix" relation_type="asymmetric" id="91168_29" ></RELATION>
+
+<RELATION standard_case_string="110 U.S. 398" X_vs_Y_string="Lynch v. Bailey" standard_case="91168_20" X_vs_Y="91168_22" gram_type="apposition" relation_type="equivalence" id="91168_32" ></RELATION>
+
+<RELATION theme="91168_22" party1="91168_25" party1_string="Lynch" theme_string="Lynch v. Bailey" gram_type="infix" relation_type="asymmetric" id="91168_30" ></RELATION>
+
+<RELATION party2="91168_26" theme="91168_22" theme_string="Lynch v. Bailey" party2_string="Bailey" gram_type="infix" relation_type="asymmetric" id="91168_31" ></RELATION>
+

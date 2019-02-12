@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['kurzmairone#1', 'u.s._508_912']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_909" id1="114307" volume="510" start="0" page_number="909" standard_reporter="U.S." citation_global_level_id="12208.003" line="1" id="114307_1" citation_local_level_id="0" >510 U.S. 909</CITATION>
+
+<CITATION party2="Mairone et al" party1="Kurz et al." citation_global_level_id="12208.001" party2_short="Mairone" line="2" id="114307_3" alternative_keys="['u.s._510_909', 'u.s._508_912']" end="45" entry_type="party_key" lookup_key="kurzmairone#1" id1="114307" start="17" party1_short="Kurz" citation_local_level_id="1" >Kurz et al. v. Mairone et al</CITATION>
+
+<NAME end="28" start="17" party1_of="114307_3" all_names="KURZ" local_name_id="1" id="114307_4" >Kurz et al.</NAME>
+
+<NAME end="45" start="32" all_names="MAIRONE" party2_of="114307_3" local_name_id="2" id="114307_5" >Mairone et al</NAME>
+
+<CITATION alternative_keys="['u.s._510_909', 'kurzmairone#1']" end="61" reporter="U. S." entry_type="standard_key" lookup_key="u.s._508_912" id1="114307" volume="508" start="48" page_number="912" standard_reporter="U.S." citation_global_level_id="12208.002" line="2" id="114307_2" citation_local_level_id="2" >508 U. S. 912</CITATION>
+
+<DOCKET end="78" entry_type="docket" lookup_key="kurzmairone#1" id1="114307" start="71" citation_global_level_id="12208.001" line="3" id="114307_9" citation_local_level_id="1" >92-1590</DOCKET>
+
+<ORGANIZATION start="84" end="114" id="114307_10" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="120" citation_global_level_id="12208.001" end="135" id="114307_11" citation_local_level_id="1" >October 4, 1993</DATE>
+
+<NAME start="157" local_name_id="3" end="165" id="114307_15" all_names="PETITION" >Petition</NAME>
+
+<RELATION standard_case_string="508 U. S. 912" X_vs_Y_string="Kurz et al. v. Mairone et al" standard_case="114307_2" X_vs_Y="114307_3" gram_type="apposition" relation_type="equivalence" id="114307_8" ></RELATION>
+
+<RELATION theme="114307_3" party1="114307_4" party1_string="Kurz et al." theme_string="Kurz et al. v. Mairone et al" gram_type="infix" relation_type="asymmetric" id="114307_6" ></RELATION>
+
+<RELATION party2="114307_5" theme="114307_3" theme_string="Kurz et al. v. Mairone et al" party2_string="Mairone et al" gram_type="infix" relation_type="asymmetric" id="114307_7" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 909" X_vs_Y_string="Kurz et al. v. Mairone et al" standard_case="114307_1" X_vs_Y="114307_3" gram_type="multi_line" relation_type="equivalence" id="114307_12" ></RELATION>
+
+<RELATION at_date_string="October 4, 1993" theme="114307_3" at_date="114307_11" theme_string="Kurz et al. v. Mairone et al" gram_type="multi_line" relation_type="asymmetric" id="114307_14" ></RELATION>
+
+<RELATION theme="114307_3" includes_docket_string="92-1590" includes_docket="114307_9" theme_string="Kurz et al. v. Mairone et al" gram_type="multi_line" relation_type="asymmetric" id="114307_13" ></RELATION>
+

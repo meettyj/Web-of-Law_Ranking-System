@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['simmonstexas#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_996" id1="135754" volume="541" start="0" page_number="996" standard_reporter="U.S." citation_global_level_id="3177.002" line="1" id="135763_1" citation_local_level_id="0" >541 U.S. 996</CITATION>
+
+<CITATION party2="TEXAS" party1="SIMMONS" citation_global_level_id="28489.001" party2_short="TEXAS" line="2" id="135763_2" alternative_keys="['u.s._541_996']" end="33" entry_type="party_key" lookup_key="simmonstexas#2" id1="132610" start="17" party1_short="SIMMONS" citation_local_level_id="1" >SIMMONS v. TEXAS</CITATION>
+
+<NAME end="24" start="17" party1_of="135763_2" all_names="SIMMONS" local_name_id="1" id="135763_3" >SIMMONS</NAME>
+
+<NAME end="33" start="28" all_names="TEXAS" party2_of="135763_2" local_name_id="2" id="135763_4" >TEXAS</NAME>
+
+<DOCKET end="50" entry_type="docket" lookup_key="simmonstexas#2" id1="132610" start="43" citation_global_level_id="28489.001" line="3" id="135763_7" citation_local_level_id="1" >03-8970</DOCKET>
+
+<ORGANIZATION start="56" end="86" id="135763_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="92" citation_global_level_id="28489.001" end="106" id="135763_9" citation_local_level_id="1" >April 19, 2004</DATE>
+
+<NAME start="128" local_name_id="3" end="130" id="135763_14" all_names="CT" >Ct</NAME>
+
+<CITATION end="204" reporter="S. W. 3d" entry_type="standard_key" no_current_file="True" lookup_key="s.w.3d_100_484" id1="Dummy_File_201109" volume="100" start="188" page_number="484" standard_reporter="S.W.3D" citation_global_level_id="264959.001" line="8" id="135763_13" citation_local_level_id="2" >100 S. W. 3d 484</CITATION>
+
+<RELATION theme="135763_2" party1="135763_3" party1_string="SIMMONS" theme_string="SIMMONS v. TEXAS" gram_type="infix" relation_type="asymmetric" id="135763_5" ></RELATION>
+
+<RELATION party2="135763_4" theme="135763_2" theme_string="SIMMONS v. TEXAS" party2_string="TEXAS" gram_type="infix" relation_type="asymmetric" id="135763_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 996" X_vs_Y_string="SIMMONS v. TEXAS" standard_case="135763_1" X_vs_Y="135763_2" gram_type="multi_line" relation_type="equivalence" id="135763_10" ></RELATION>
+
+<RELATION at_date_string="April 19, 2004" theme="135763_2" at_date="135763_9" theme_string="SIMMONS v. TEXAS" gram_type="multi_line" relation_type="asymmetric" id="135763_12" ></RELATION>
+
+<RELATION theme="135763_2" includes_docket_string="03-8970" includes_docket="135763_7" theme_string="SIMMONS v. TEXAS" gram_type="multi_line" relation_type="asymmetric" id="135763_11" ></RELATION>
+

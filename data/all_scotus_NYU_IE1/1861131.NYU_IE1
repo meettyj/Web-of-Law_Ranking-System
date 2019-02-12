@@ -1,0 +1,46 @@
+<CITATION alternative_keys="['usallc#2', 'u.s._549_1106']" end="22" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._127_853" id1="1860145" volume="127" start="1" page_number="853" year="2007" standard_reporter="S.CT." citation_global_level_id="834.002" line="2" id="1861131_1" citation_local_level_id="0" >127 S. Ct. 853 (2007)</CITATION>
+
+<DATE start="17" citation_global_level_id="834.002" end="21" id="1861131_2" citation_local_level_id="0" >2007</DATE>
+
+<CITATION alternative_keys="['s.ct._127_853', 'usallc#2']" end="36" reporter="U.S." entry_type="standard_key" lookup_key="u.s._549_1106" id1="1861131" volume="549" start="23" page_number="1106" standard_reporter="U.S." citation_global_level_id="15937.002" line="3" id="1861131_4" citation_local_level_id="1" >549 U.S. 1106</CITATION>
+
+<CITATION party2="SEA STAR LINE, LLC, et al" alternative_keys="['u.s._549_1106', 's.ct._127_853']" party1="ALTADIS USA, INC.," end="98" party1_short="USA" entry_type="party_key" party1_role="petitioner" lookup_key="usallc#2" id1="1860145" start="37" citation_global_level_id="834.004" party2_short="LLC" line="6" id="1861131_8" citation_local_level_id="2" >ALTADIS USA, INC., petitioner, v. SEA STAR LINE, LLC, et al</CITATION>
+
+<NAME end="55" start="37" party1_of="1861131_8" all_names="ALTADIS USA INC" local_name_id="1" id="1861131_9" >ALTADIS USA, INC.,</NAME>
+
+<ORGANIZATION start="37" end="53" id="1861131_12" >ALTADIS USA, INC</ORGANIZATION>
+
+<LEGAL_ROLE start="56" end="66" id="1861131_11" >petitioner</LEGAL_ROLE>
+
+<NAME end="98" start="73" all_names="SEA STAR LINE LLC" party2_of="1861131_8" local_name_id="2" id="1861131_10" >SEA STAR LINE, LLC, et al</NAME>
+
+<DOCKET alternative_keys="['u.s._549_1106', 's.ct._127_853']" end="110" entry_type="docket" lookup_key="usallc#2" id1="1860145" start="104" citation_global_level_id="834.004" line="7" id="1861131_15" citation_local_level_id="2" >06-606</DOCKET>
+
+<ORGANIZATION start="112" end="142" id="1861131_16" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="144" citation_global_level_id="834.004" end="159" id="1861131_17" citation_local_level_id="2" >January 5, 2007</DATE>
+
+<NAME start="166" local_name_id="3" end="174" id="1861131_21" all_names="PETITION" >Petition</NAME>
+
+<ORGANIZATION start="205" end="260" id="1861131_22" >United States Court of Appeals for the Eleventh Circuit</ORGANIZATION>
+
+<DATE start="386" end="402" id="1861131_18" >February 9, 2007</DATE>
+
+<DATE start="521" end="534" id="1861131_19" >March 9, 2007</DATE>
+
+<DATE start="652" end="666" id="1861131_20" >March 20, 2007</DATE>
+
+<RELATION at_date_string="2007" theme="1861131_1" at_date="1861131_2" theme_string="127 S. Ct. 853 (2007)" gram_type="infix" relation_type="asymmetric" id="1861131_3" ></RELATION>
+
+<RELATION theme="1861131_8" party1="1861131_9" party1_string="ALTADIS USA, INC.," theme_string="ALTADIS USA, INC., petitioner,  v.  SEA STAR LINE, LLC, et al" gram_type="infix" relation_type="asymmetric" id="1861131_13" ></RELATION>
+
+<RELATION party2="1861131_10" theme="1861131_8" theme_string="ALTADIS USA, INC., petitioner,  v.  SEA STAR LINE, LLC, et al" party2_string="SEA STAR LINE, LLC, et al" gram_type="infix" relation_type="asymmetric" id="1861131_14" ></RELATION>
+
+<RELATION standard_case_string="127 S. Ct. 853 (2007)" X_vs_Y_string="ALTADIS USA, INC., petitioner,  v.  SEA STAR LINE, LLC, et al" standard_case="1861131_1" X_vs_Y="1861131_8" gram_type="multi_line" relation_type="equivalence" id="1861131_23" ></RELATION>
+
+<RELATION standard_case_string="549 U.S. 1106" X_vs_Y_string="ALTADIS USA, INC., petitioner,  v.  SEA STAR LINE, LLC, et al" standard_case="1861131_4" X_vs_Y="1861131_8" gram_type="multi_line" relation_type="equivalence" id="1861131_24" ></RELATION>
+
+<RELATION at_date_string="January 5, 2007" theme="1861131_8" at_date="1861131_17" theme_string="ALTADIS USA, INC., petitioner,  v.  SEA STAR LINE, LLC, et al" gram_type="multi_line" relation_type="asymmetric" id="1861131_26" ></RELATION>
+
+<RELATION theme="1861131_8" includes_docket_string="06-606" includes_docket="1861131_15" theme_string="ALTADIS USA, INC., petitioner,  v.  SEA STAR LINE, LLC, et al" gram_type="multi_line" relation_type="asymmetric" id="1861131_25" ></RELATION>
+

@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['hussking#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_1015" id1="136007" volume="541" start="0" page_number="1015" standard_reporter="U.S." citation_global_level_id="8559.002" line="1" id="136016_1" citation_local_level_id="0" >541 U.S. 1015</CITATION>
+
+<CITATION party2="KING CO., INC., ET AL" party1="HUSS" citation_global_level_id="8559.004" party2_short="KING" line="2" id="136016_2" alternative_keys="['u.s._541_1015']" end="47" entry_type="party_key" lookup_key="hussking#2" id1="136007" start="18" party1_short="HUSS" citation_local_level_id="1" >HUSS v. KING CO., INC., ET AL</CITATION>
+
+<NAME end="22" start="18" party1_of="136016_2" all_names="HUSS" local_name_id="1" id="136016_3" >HUSS</NAME>
+
+<NAME end="47" start="26" all_names="KING CO INC" party2_of="136016_2" local_name_id="2" id="136016_4" >KING CO., INC., ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._541_1015']" end="64" entry_type="docket" lookup_key="hussking#2" id1="136007" start="57" citation_global_level_id="8559.004" line="3" id="136016_7" citation_local_level_id="1" >03-9151</DOCKET>
+
+<ORGANIZATION start="70" end="100" id="136016_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="106" citation_global_level_id="8559.004" end="120" id="136016_9" citation_local_level_id="1" >April 26, 2004</DATE>
+
+<NAME start="152" local_name_id="3" end="155" id="136016_14" all_names="CIR" >Cir</NAME>
+
+<CITATION end="205" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_338_647" id1="Dummy_File_63375" volume="338" start="192" page_number="647" standard_reporter="F.3D" citation_global_level_id="127225.001" line="8" id="136016_13" citation_local_level_id="2" >338 F. 3d 647</CITATION>
+
+<RELATION theme="136016_2" party1="136016_3" party1_string="HUSS" theme_string="HUSS v. KING CO., INC., ET AL" gram_type="infix" relation_type="asymmetric" id="136016_5" ></RELATION>
+
+<RELATION party2="136016_4" theme="136016_2" theme_string="HUSS v. KING CO., INC., ET AL" party2_string="KING CO., INC., ET AL" gram_type="infix" relation_type="asymmetric" id="136016_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 1015" X_vs_Y_string="HUSS v. KING CO., INC., ET AL" standard_case="136016_1" X_vs_Y="136016_2" gram_type="multi_line" relation_type="equivalence" id="136016_10" ></RELATION>
+
+<RELATION at_date_string="April 26, 2004" theme="136016_2" at_date="136016_9" theme_string="HUSS v. KING CO., INC., ET AL" gram_type="multi_line" relation_type="asymmetric" id="136016_12" ></RELATION>
+
+<RELATION theme="136016_2" includes_docket_string="03-9151" includes_docket="136016_7" theme_string="HUSS v. KING CO., INC., ET AL" gram_type="multi_line" relation_type="asymmetric" id="136016_11" ></RELATION>
+

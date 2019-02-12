@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['rossamerica#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_885" id1="123332" volume="537" start="0" page_number="885" standard_reporter="U.S." citation_global_level_id="1013.002" line="1" id="123328_1" citation_local_level_id="0" >537 U.S. 885</CITATION>
+
+<CITATION party2="RAIL CAR AMERICA, INC., ET AL" party1="ROSS" citation_global_level_id="1013.007" party2_short="AMERICA" line="1" id="123328_3" alternative_keys="['u.s._537_885']" end="54" entry_type="party_key" lookup_key="rossamerica#2" id1="123332" start="17" party1_short="ROSS" citation_local_level_id="1" >ROSS v. RAIL CAR AMERICA, INC., ET AL</CITATION>
+
+<NAME end="21" start="17" party1_of="123328_3" all_names="ROSS" local_name_id="1" id="123328_4" >ROSS</NAME>
+
+<NAME end="54" start="25" all_names="RAIL CAR AMERICA INC" party2_of="123328_3" local_name_id="2" id="123328_5" >RAIL CAR AMERICA, INC., ET AL</NAME>
+
+<DOCKET end="70" entry_type="docket" lookup_key="u.s._537_885" id1="123332" start="64" citation_global_level_id="1013.002" line="1" id="123328_2" citation_local_level_id="0" >02-142</DOCKET>
+
+<DATE start="112" end="127" id="123328_6" >October 7, 2002</DATE>
+
+<NAME start="257" local_name_id="3" end="260" id="123328_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="310" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_285_735" id1="Dummy_File_230371" volume="285" start="297" page_number="735" standard_reporter="F.3D" citation_global_level_id="294221.001" line="3" id="123328_12" citation_local_level_id="2" >285 F. 3d 735</CITATION>
+
+<RELATION theme="123328_1" includes_docket_string="02-142" includes_docket="123328_2" theme_string="537 U.S. 885" gram_type="apposition" relation_type="asymmetric" id="123328_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 885" X_vs_Y_string="ROSS v. RAIL CAR AMERICA, INC., ET AL" standard_case="123328_1" X_vs_Y="123328_3" gram_type="pre_nom" relation_type="equivalence" id="123328_7" ></RELATION>
+
+<RELATION theme="123328_3" includes_docket_string="02-142" includes_docket="123328_2" theme_string="ROSS v. RAIL CAR AMERICA, INC., ET AL" gram_type="apposition" relation_type="asymmetric" id="123328_10" ></RELATION>
+
+<RELATION theme="123328_3" party1="123328_4" party1_string="ROSS" theme_string="ROSS v. RAIL CAR AMERICA, INC., ET AL" gram_type="infix" relation_type="asymmetric" id="123328_8" ></RELATION>
+
+<RELATION party2="123328_5" theme="123328_3" theme_string="ROSS v. RAIL CAR AMERICA, INC., ET AL" party2_string="RAIL CAR AMERICA, INC., ET AL" gram_type="infix" relation_type="asymmetric" id="123328_9" ></RELATION>
+

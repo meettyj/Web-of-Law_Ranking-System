@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['weisspennsylvania#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1101" id1="120880" volume="535" start="0" page_number="1101" standard_reporter="U.S." citation_global_level_id="1603.002" line="1" id="120880_1" citation_local_level_id="0" >535 U.S. 1101</CITATION>
+
+<CITATION party2="PENNSYLVANIA" party1="WEISS" citation_global_level_id="1603.001" party2_short="PENNSYLVANIA" line="2" id="120880_2" alternative_keys="['u.s._535_1101']" end="39" entry_type="party_key" lookup_key="weisspennsylvania#1" id1="120880" start="18" party1_short="WEISS" citation_local_level_id="1" >WEISS v. PENNSYLVANIA</CITATION>
+
+<NAME end="23" start="18" party1_of="120880_2" all_names="WEISS" local_name_id="1" id="120880_3" >WEISS</NAME>
+
+<NAME end="39" start="27" all_names="PENNSYLVANIA" party2_of="120880_2" local_name_id="2" id="120880_4" >PENNSYLVANIA</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="weisspennsylvania#1" id1="120880" start="49" citation_global_level_id="1603.001" line="3" id="120880_7" citation_local_level_id="1" >01-9175</DOCKET>
+
+<DATE start="102" citation_global_level_id="1603.001" end="114" id="120880_8" citation_local_level_id="1" >May 28, 2002</DATE>
+
+<NAME start="136" local_name_id="3" end="139" id="120880_13" all_names="SUP" >Sup</NAME>
+
+<CITATION end="210" reporter="A. 2d" entry_type="standard_key" no_current_file="True" lookup_key="a.2d_776_958" id1="Dummy_File_209382" volume="776" start="197" page_number="958" standard_reporter="A.2D" citation_global_level_id="273232.001" line="8" id="120880_12" citation_local_level_id="2" >776 A. 2d 958</CITATION>
+
+<RELATION theme="120880_2" party1="120880_3" party1_string="WEISS" theme_string="WEISS v. PENNSYLVANIA" gram_type="infix" relation_type="asymmetric" id="120880_5" ></RELATION>
+
+<RELATION party2="120880_4" theme="120880_2" theme_string="WEISS v. PENNSYLVANIA" party2_string="PENNSYLVANIA" gram_type="infix" relation_type="asymmetric" id="120880_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1101" X_vs_Y_string="WEISS v. PENNSYLVANIA" standard_case="120880_1" X_vs_Y="120880_2" gram_type="multi_line" relation_type="equivalence" id="120880_9" ></RELATION>
+
+<RELATION at_date_string="May 28, 2002" theme="120880_2" at_date="120880_8" theme_string="WEISS v. PENNSYLVANIA" gram_type="multi_line" relation_type="asymmetric" id="120880_11" ></RELATION>
+
+<RELATION theme="120880_2" includes_docket_string="01-9175" includes_docket="120880_7" theme_string="WEISS v. PENNSYLVANIA" gram_type="multi_line" relation_type="asymmetric" id="120880_10" ></RELATION>
+

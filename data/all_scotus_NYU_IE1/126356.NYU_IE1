@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['pridgenmassachusetts#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1123" id1="126357" volume="537" start="0" page_number="1123" standard_reporter="U.S." citation_global_level_id="4098.002" line="1" id="126356_1" citation_local_level_id="0" >537 U.S. 1123</CITATION>
+
+<CITATION party2="MASSACHUSETTS" party1="PRIDGEN" citation_global_level_id="36422.001" party2_short="MASSACHUSETTS" line="1" id="126356_3" alternative_keys="['u.s._537_1123']" end="42" entry_type="party_key" lookup_key="pridgenmassachusetts#2" id1="126356" start="18" party1_short="PRIDGEN" citation_local_level_id="1" >PRIDGEN v. MASSACHUSETTS</CITATION>
+
+<NAME end="25" start="18" party1_of="126356_3" all_names="PRIDGEN" local_name_id="1" id="126356_4" >PRIDGEN</NAME>
+
+<NAME end="42" start="29" all_names="MASSACHUSETTS" party2_of="126356_3" local_name_id="2" id="126356_5" >MASSACHUSETTS</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="u.s._537_1123" id1="126357" start="52" citation_global_level_id="4098.002" line="1" id="126356_2" citation_local_level_id="0" >02-7216</DOCKET>
+
+<DATE start="101" end="117" id="126356_6" >January 13, 2003</DATE>
+
+<NAME start="216" local_name_id="3" end="219" id="126356_13" all_names="APP" >App</NAME>
+
+<CITATION end="300" reporter="N.E.2d" entry_type="standard_key" no_current_file="True" lookup_key="n.e.2d_765_827" id1="Dummy_File_144946" volume="765" start="286" page_number="827" standard_reporter="N.E.2D" citation_global_level_id="208796.001" line="3" id="126356_12" citation_local_level_id="2" >765 N.E.2d 827</CITATION>
+
+<RELATION theme="126356_1" includes_docket_string="02-7216" includes_docket="126356_2" theme_string="537 U.S. 1123" gram_type="apposition" relation_type="asymmetric" id="126356_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1123" X_vs_Y_string="PRIDGEN v. MASSACHUSETTS" standard_case="126356_1" X_vs_Y="126356_3" gram_type="pre_nom" relation_type="equivalence" id="126356_7" ></RELATION>
+
+<RELATION theme="126356_3" includes_docket_string="02-7216" includes_docket="126356_2" theme_string="PRIDGEN v. MASSACHUSETTS" gram_type="apposition" relation_type="asymmetric" id="126356_10" ></RELATION>
+
+<RELATION theme="126356_3" party1="126356_4" party1_string="PRIDGEN" theme_string="PRIDGEN v. MASSACHUSETTS" gram_type="infix" relation_type="asymmetric" id="126356_8" ></RELATION>
+
+<RELATION party2="126356_5" theme="126356_3" theme_string="PRIDGEN v. MASSACHUSETTS" party2_string="MASSACHUSETTS" gram_type="infix" relation_type="asymmetric" id="126356_9" ></RELATION>
+

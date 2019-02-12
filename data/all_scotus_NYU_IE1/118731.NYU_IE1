@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['clinicfry#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_931" id1="118737" volume="535" start="0" page_number="931" standard_reporter="U.S." citation_global_level_id="4375.002" line="1" id="118731_1" citation_local_level_id="0" >535 U.S. 931</CITATION>
+
+<CITATION party2="FRY" party1="DIALYSIS CLINIC, INC." citation_global_level_id="43085.001" party2_short="FRY" line="2" id="118731_2" alternative_keys="['u.s._535_931']" end="45" entry_type="party_key" lookup_key="clinicfry#1" id1="118731" start="17" party1_short="CLINIC" citation_local_level_id="1" >DIALYSIS CLINIC, INC. v. FRY</CITATION>
+
+<NAME end="38" start="17" party1_of="118731_2" all_names="DIALYSIS CLINIC INC" local_name_id="1" id="118731_3" >DIALYSIS CLINIC, INC.</NAME>
+
+<ORGANIZATION start="17" end="37" id="118731_5" >DIALYSIS CLINIC, INC</ORGANIZATION>
+
+<NAME end="45" start="42" all_names="FRY" party2_of="118731_2" local_name_id="2" id="118731_4" >FRY</NAME>
+
+<DOCKET end="62" entry_type="docket" lookup_key="clinicfry#1" id1="118731" start="55" citation_global_level_id="43085.001" line="3" id="118731_8" citation_local_level_id="1" >01-1046</DOCKET>
+
+<DATE start="108" citation_global_level_id="43085.001" end="122" id="118731_9" citation_local_level_id="1" >March 18, 2002</DATE>
+
+<NAME start="153" local_name_id="3" end="156" id="118731_14" all_names="CIR" >Cir</NAME>
+
+<CITATION end="205" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_275_34" id1="Dummy_File_27248" volume="275" start="193" page_number="34" standard_reporter="F.3D" citation_global_level_id="91098.001" line="8" id="118731_13" citation_local_level_id="2" >275 F. 3d 34</CITATION>
+
+<RELATION theme="118731_2" party1="118731_3" party1_string="DIALYSIS CLINIC, INC." theme_string="DIALYSIS CLINIC, INC. v. FRY" gram_type="infix" relation_type="asymmetric" id="118731_6" ></RELATION>
+
+<RELATION party2="118731_4" theme="118731_2" theme_string="DIALYSIS CLINIC, INC. v. FRY" party2_string="FRY" gram_type="infix" relation_type="asymmetric" id="118731_7" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 931" X_vs_Y_string="DIALYSIS CLINIC, INC. v. FRY" standard_case="118731_1" X_vs_Y="118731_2" gram_type="multi_line" relation_type="equivalence" id="118731_10" ></RELATION>
+
+<RELATION at_date_string="March 18, 2002" theme="118731_2" at_date="118731_9" theme_string="DIALYSIS CLINIC, INC. v. FRY" gram_type="multi_line" relation_type="asymmetric" id="118731_12" ></RELATION>
+
+<RELATION theme="118731_2" includes_docket_string="01-1046" includes_docket="118731_8" theme_string="DIALYSIS CLINIC, INC. v. FRY" gram_type="multi_line" relation_type="asymmetric" id="118731_11" ></RELATION>
+

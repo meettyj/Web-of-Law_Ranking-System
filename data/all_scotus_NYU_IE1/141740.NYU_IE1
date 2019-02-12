@@ -1,0 +1,38 @@
+<CITATION alternative_keys="['gonzalezstates#7']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1107" id1="141738" volume="543" start="0" page_number="1107" standard_reporter="U.S." citation_global_level_id="5265.002" line="1" id="141740_1" citation_local_level_id="0" >543 U.S. 1107</CITATION>
+
+<CITATION party2="UNITED STATES" party1="FRANCISCO GONZALEZ, AKA QUINONES" citation_global_level_id="6688.001" party2_short="STATES" line="2" id="141740_2" alternative_keys="['u.s._543_1107']" end="67" entry_type="party_key" lookup_key="gonzalezstates#7" id1="139989" start="18" party1_short="GONZALEZ" citation_local_level_id="1" >FRANCISCO GONZALEZ, AKA QUINONES v. UNITED STATES</CITATION>
+
+<NAME end="50" start="18" party1_of="141740_2" all_names="FRANCISCO GONZALEZ AKA QUINONES" local_name_id="1" id="141740_3" >FRANCISCO GONZALEZ, AKA QUINONES</NAME>
+
+<NAME end="67" start="54" all_names="UNITED STATES" party2_of="141740_2" local_name_id="2" id="141740_4" >UNITED STATES</NAME>
+
+<DOCKET end="84" entry_type="docket" lookup_key="gonzalezstates#7" id1="139989" start="77" citation_global_level_id="6688.001" line="3" id="141740_7" citation_local_level_id="1" >04-6062</DOCKET>
+
+<ORGANIZATION start="90" end="120" id="141740_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="126" citation_global_level_id="6688.001" end="142" id="141740_9" citation_local_level_id="1" >January 24, 2005</DATE>
+
+<NAME start="174" local_name_id="3" end="177" id="141740_17" all_names="CIR" >Cir</NAME>
+
+<CITATION end="208" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_365_656" id1="Dummy_File_126070" volume="365" start="195" page_number="656" standard_reporter="F.3D" citation_global_level_id="189920.001" line="8" id="141740_13" citation_local_level_id="2" >365 F. 3d 656</CITATION>
+
+<CITATION party2="Booker" party1="United States" citation_global_level_id="57130.001" party2_short="Booker" line="8" id="141740_14" end="400" entry_type="party_key" lookup_key="statesbooker#4" id1="137703" start="377" party1_short="States" citation_local_level_id="3" >United States v. Booker</CITATION>
+
+<NAME end="390" start="377" party1_of="141740_14" all_names="UNITED STATES" local_name_id="2" id="141740_15" >United States</NAME>
+
+<NAME end="400" start="394" all_names="BOOKER" party2_of="141740_14" local_name_id="4" id="141740_16" >Booker</NAME>
+
+<RELATION theme="141740_2" party1="141740_3" party1_string="FRANCISCO GONZALEZ, AKA QUINONES" theme_string="FRANCISCO GONZALEZ, AKA QUINONES v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="141740_5" ></RELATION>
+
+<RELATION party2="141740_4" theme="141740_2" theme_string="FRANCISCO GONZALEZ, AKA QUINONES v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="141740_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1107" X_vs_Y_string="FRANCISCO GONZALEZ, AKA QUINONES v. UNITED STATES" standard_case="141740_1" X_vs_Y="141740_2" gram_type="multi_line" relation_type="equivalence" id="141740_10" ></RELATION>
+
+<RELATION at_date_string="January 24, 2005" theme="141740_2" at_date="141740_9" theme_string="FRANCISCO GONZALEZ, AKA QUINONES v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="141740_12" ></RELATION>
+
+<RELATION theme="141740_2" includes_docket_string="04-6062" includes_docket="141740_7" theme_string="FRANCISCO GONZALEZ, AKA QUINONES v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="141740_11" ></RELATION>
+
+<RELATION theme="141740_14" party1="141740_15" party1_string="United States" theme_string="United States v. Booker" gram_type="infix" relation_type="asymmetric" id="141740_18" ></RELATION>
+
+<RELATION party2="141740_16" theme="141740_14" theme_string="United States v. Booker" party2_string="Booker" gram_type="infix" relation_type="asymmetric" id="141740_19" ></RELATION>
+

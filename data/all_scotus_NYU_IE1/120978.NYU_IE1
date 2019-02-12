@@ -1,0 +1,46 @@
+<CITATION alternative_keys="['magneticscorp#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1108" id1="120978" volume="535" start="0" page_number="1108" standard_reporter="U.S." citation_global_level_id="6705.002" line="1" id="120978_1" citation_local_level_id="0" >535 U.S. 1108</CITATION>
+
+<CITATION party2="MICRO LINEAR CORP" party1="PIONEER MAGNETICS, INC." citation_global_level_id="6705.001" party2_short="CORP" line="2" id="120978_2" alternative_keys="['u.s._535_1108']" end="62" entry_type="party_key" lookup_key="magneticscorp#1" id1="120978" start="18" party1_short="MAGNETICS" citation_local_level_id="1" >PIONEER MAGNETICS, INC. v. MICRO LINEAR CORP</CITATION>
+
+<NAME end="41" start="18" party1_of="120978_2" all_names="PIONEER MAGNETICS INC" local_name_id="1" id="120978_3" >PIONEER MAGNETICS, INC.</NAME>
+
+<ORGANIZATION start="18" end="40" id="120978_5" >PIONEER MAGNETICS, INC</ORGANIZATION>
+
+<NAME end="62" start="45" all_names="MICRO LINEAR CORP" party2_of="120978_2" local_name_id="2" id="120978_4" >MICRO LINEAR CORP</NAME>
+
+<DOCKET end="79" entry_type="docket" lookup_key="magneticscorp#1" id1="120978" start="72" citation_global_level_id="6705.001" line="3" id="120978_8" citation_local_level_id="1" >00-1765</DOCKET>
+
+<DATE start="75" end="79" id="120978_9" >1765</DATE>
+
+<DATE start="125" citation_global_level_id="6705.001" end="137" id="120978_11" citation_local_level_id="1" >June 3, 2002</DATE>
+
+<NAME start="159" local_name_id="3" end="168" id="120978_20" all_names="C A FED" >C. A. Fed</NAME>
+
+<NAME start="170" local_name_id="4" end="173" id="120978_21" all_names="CIR" >Cir</NAME>
+
+<CITATION party2="Shoketsu Kinzoku Kogyo Kabushiki Co" party1="Festo Corp." citation_global_level_id="17904.001" party2_short="Kabushiki" line="8" id="120978_17" end="319" entry_type="party_key" lookup_key="festokabushiki#2" id1="135651" start="269" party1_short="Festo" citation_local_level_id="2" >Festo Corp. v. Shoketsu Kinzoku Kogyo Kabushiki Co</CITATION>
+
+<NAME end="280" start="269" party1_of="120978_17" all_names="FESTO CORP" local_name_id="5" id="120978_18" >Festo Corp.</NAME>
+
+<NAME end="319" start="284" all_names="SHOKETSU KINZOKU KOGYO KABUSHIKI CO" party2_of="120978_17" local_name_id="6" id="120978_19" >Shoketsu Kinzoku Kogyo Kabushiki Co</NAME>
+
+<CITATION end="366" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_238_1341" id1="Dummy_File_82241" volume="238" start="352" page_number="1341" standard_reporter="F.3D" citation_global_level_id="146091.001" line="8" id="120978_16" citation_local_level_id="3" >238 F. 3d 1341</CITATION>
+
+<RELATION theme="120978_2" party1="120978_3" party1_string="PIONEER MAGNETICS, INC." theme_string="PIONEER MAGNETICS, INC. v. MICRO LINEAR CORP" gram_type="infix" relation_type="asymmetric" id="120978_6" ></RELATION>
+
+<RELATION party2="120978_4" theme="120978_2" theme_string="PIONEER MAGNETICS, INC. v. MICRO LINEAR CORP" party2_string="MICRO LINEAR CORP" gram_type="infix" relation_type="asymmetric" id="120978_7" ></RELATION>
+
+<RELATION at_date_string="1765" theme="120978_8" at_date="120978_9" theme_string="00-1765" gram_type="infix" relation_type="asymmetric" id="120978_10" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1108" X_vs_Y_string="PIONEER MAGNETICS, INC. v. MICRO LINEAR CORP" standard_case="120978_1" X_vs_Y="120978_2" gram_type="multi_line" relation_type="equivalence" id="120978_12" ></RELATION>
+
+<RELATION at_date_string="June 3, 2002" theme="120978_2" at_date="120978_11" theme_string="PIONEER MAGNETICS, INC. v. MICRO LINEAR CORP" gram_type="multi_line" relation_type="asymmetric" id="120978_15" ></RELATION>
+
+<RELATION theme="120978_2" includes_docket_string="00-1765" includes_docket="120978_8" theme_string="PIONEER MAGNETICS, INC. v. MICRO LINEAR CORP" gram_type="multi_line" relation_type="asymmetric" id="120978_13" ></RELATION>
+
+<RELATION at_date_string="1765" theme="120978_2" at_date="120978_9" theme_string="PIONEER MAGNETICS, INC. v. MICRO LINEAR CORP" gram_type="multi_line" relation_type="asymmetric" id="120978_14" ></RELATION>
+
+<RELATION theme="120978_17" party1="120978_18" party1_string="Festo Corp." theme_string="Festo Corp. v. Shoketsu Kinzoku Kogyo Kabushiki Co" gram_type="infix" relation_type="asymmetric" id="120978_22" ></RELATION>
+
+<RELATION party2="120978_19" theme="120978_17" theme_string="Festo Corp. v. Shoketsu Kinzoku Kogyo Kabushiki Co" party2_string="Shoketsu Kinzoku Kogyo Kabushiki Co" gram_type="infix" relation_type="asymmetric" id="120978_23" ></RELATION>
+

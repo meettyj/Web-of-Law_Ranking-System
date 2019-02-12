@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['waskoestelle#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1015" id1="115656" volume="510" start="0" page_number="1015" standard_reporter="U.S." citation_global_level_id="6149.002" line="1" id="115659_1" citation_local_level_id="0" >510 U.S. 1015</CITATION>
+
+<CITATION party2="Estelle, Warden" party1="Wasko" citation_global_level_id="6149.004" party2_short="Estelle" line="1" id="115659_3" alternative_keys="['u.s._510_1015']" end="42" entry_type="party_key" lookup_key="waskoestelle#1" id1="115656" start="18" party1_short="Wasko" citation_local_level_id="1" >Wasko v. Estelle, Warden</CITATION>
+
+<NAME end="23" start="18" party1_of="115659_3" all_names="WASKO" local_name_id="1" id="115659_4" >Wasko</NAME>
+
+<NAME end="42" start="27" all_names="ESTELLE WARDEN" party2_of="115659_3" local_name_id="2" id="115659_5" >Estelle, Warden</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="u.s._510_1015" id1="115656" start="52" citation_global_level_id="6149.002" line="1" id="115659_2" citation_local_level_id="0" >93-6334</DOCKET>
+
+<DATE start="101" end="117" id="115659_6" >December 6, 1993</DATE>
+
+<NAME start="195" local_name_id="3" end="205" id="115659_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="243" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_944_910" id1="Dummy_File_77503" volume="944" start="230" page_number="910" standard_reporter="F.2D" citation_global_level_id="141353.001" line="3" id="115659_12" citation_local_level_id="2" >944 F. 2d 910</CITATION>
+
+<RELATION theme="115659_1" includes_docket_string="93-6334" includes_docket="115659_2" theme_string="510 U.S. 1015" gram_type="apposition" relation_type="asymmetric" id="115659_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1015" X_vs_Y_string="Wasko v. Estelle, Warden" standard_case="115659_1" X_vs_Y="115659_3" gram_type="pre_nom" relation_type="equivalence" id="115659_7" ></RELATION>
+
+<RELATION theme="115659_3" includes_docket_string="93-6334" includes_docket="115659_2" theme_string="Wasko v. Estelle, Warden" gram_type="apposition" relation_type="asymmetric" id="115659_10" ></RELATION>
+
+<RELATION theme="115659_3" party1="115659_4" party1_string="Wasko" theme_string="Wasko v. Estelle, Warden" gram_type="infix" relation_type="asymmetric" id="115659_8" ></RELATION>
+
+<RELATION party2="115659_5" theme="115659_3" theme_string="Wasko v. Estelle, Warden" party2_string="Estelle, Warden" gram_type="infix" relation_type="asymmetric" id="115659_9" ></RELATION>
+

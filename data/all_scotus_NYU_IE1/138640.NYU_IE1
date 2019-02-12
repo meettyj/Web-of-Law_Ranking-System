@@ -1,0 +1,34 @@
+<CITATION alternative_keys="['resourcesneill#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_869" id1="138645" volume="543" start="0" page_number="869" standard_reporter="U.S." citation_global_level_id="232.002" line="1" id="138640_1" citation_local_level_id="0" >543 U.S. 869</CITATION>
+
+<CITATION party2="NEILL, JUDGE, TWENTY-SECOND JUDICIAL CIRCUIT, ST. LOUIS, MISSOURI" party1="DOE RUN RESOURCES CORP. ET AL." citation_global_level_id="232.007" party2_short="NEILL" line="2" id="138640_2" alternative_keys="['u.s._543_869']" end="116" entry_type="party_key" lookup_key="resourcesneill#1" id1="138645" start="17" party1_short="RESOURCES" citation_local_level_id="1" >DOE RUN RESOURCES CORP. ET AL. v. NEILL, JUDGE, TWENTY-SECOND JUDICIAL CIRCUIT, ST. LOUIS, MISSOURI</CITATION>
+
+<NAME end="47" start="17" party1_of="138640_2" all_names="DOE RUN RESOURCES CORP" local_name_id="1" id="138640_3" >DOE RUN RESOURCES CORP. ET AL.</NAME>
+
+<NAME start="17" local_name_id="1" end="46" id="138640_5" all_names="DOE RUN RESOURCES CORP" >DOE RUN RESOURCES CORP. ET AL</NAME>
+
+<ORGANIZATION start="35" end="39" id="138640_6" >CORP</ORGANIZATION>
+
+<NAME end="116" start="51" all_names="NEILL JUDGE TWENTY-SECOND JUDICIAL CIRCUIT ST LOUIS MISSOURI" party2_of="138640_2" local_name_id="2" id="138640_4" >NEILL, JUDGE, TWENTY-SECOND JUDICIAL CIRCUIT, ST. LOUIS, MISSOURI</NAME>
+
+<PROFESSION start="58" end="63" id="138640_7" >JUDGE</PROFESSION>
+
+<DOCKET alternative_keys="['u.s._543_869']" end="130" entry_type="docket" lookup_key="resourcesneill#1" id1="138645" start="126" citation_global_level_id="232.007" line="3" id="138640_10" citation_local_level_id="1" >04-5</DOCKET>
+
+<ORGANIZATION start="136" end="166" id="138640_11" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="172" citation_global_level_id="232.007" end="187" id="138640_12" citation_local_level_id="1" >October 4, 2004</DATE>
+
+<NAME start="209" local_name_id="3" end="212" id="138640_17" all_names="SUP" >Sup</NAME>
+
+<CITATION end="273" reporter="S. W. 3d" entry_type="standard_key" no_current_file="True" lookup_key="s.w.3d_128_502" id1="Dummy_File_181286" volume="128" start="257" page_number="502" standard_reporter="S.W.3D" citation_global_level_id="245136.001" line="8" id="138640_16" citation_local_level_id="2" >128 S. W. 3d 502</CITATION>
+
+<RELATION theme="138640_2" party1="138640_3" party1_string="DOE RUN RESOURCES CORP. ET AL." theme_string="DOE RUN RESOURCES CORP. ET AL. v. NEILL, JUDGE, TWENTY-SECOND JUDICIAL CIRCUIT, ST. LOUIS, MISSOURI" gram_type="infix" relation_type="asymmetric" id="138640_8" ></RELATION>
+
+<RELATION party2="138640_4" theme="138640_2" theme_string="DOE RUN RESOURCES CORP. ET AL. v. NEILL, JUDGE, TWENTY-SECOND JUDICIAL CIRCUIT, ST. LOUIS, MISSOURI" party2_string="NEILL, JUDGE, TWENTY-SECOND JUDICIAL CIRCUIT, ST. LOUIS, MISSOURI" gram_type="infix" relation_type="asymmetric" id="138640_9" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 869" X_vs_Y_string="DOE RUN RESOURCES CORP. ET AL. v. NEILL, JUDGE, TWENTY-SECOND JUDICIAL CIRCUIT, ST. LOUIS, MISSOURI" standard_case="138640_1" X_vs_Y="138640_2" gram_type="multi_line" relation_type="equivalence" id="138640_13" ></RELATION>
+
+<RELATION at_date_string="October 4, 2004" theme="138640_2" at_date="138640_12" theme_string="DOE RUN RESOURCES CORP. ET AL. v. NEILL, JUDGE, TWENTY-SECOND JUDICIAL CIRCUIT, ST. LOUIS, MISSOURI" gram_type="multi_line" relation_type="asymmetric" id="138640_15" ></RELATION>
+
+<RELATION theme="138640_2" includes_docket_string="04-5" includes_docket="138640_10" theme_string="DOE RUN RESOURCES CORP. ET AL. v. NEILL, JUDGE, TWENTY-SECOND JUDICIAL CIRCUIT, ST. LOUIS, MISSOURI" gram_type="multi_line" relation_type="asymmetric" id="138640_14" ></RELATION>
+

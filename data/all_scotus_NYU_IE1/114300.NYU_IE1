@@ -1,0 +1,52 @@
+<CITATION alternative_keys="['companycola#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_908" id1="114304" volume="510" start="0" page_number="908" standard_reporter="U.S." citation_global_level_id="6546.002" line="1" id="114300_1" citation_local_level_id="0" >510 U.S. 908</CITATION>
+
+<CITATION party2="Coca-Cola Co" party1="Coca-Cola Bottling Company of Elizabethtown, Inc., et al." citation_global_level_id="41376.001" party2_short="Cola" line="1" id="114300_3" alternative_keys="['u.s._510_908']" end="90" entry_type="party_key" lookup_key="companycola#1" id1="114300" start="17" party1_short="Company" citation_local_level_id="1" >Coca-Cola Bottling Company of Elizabethtown, Inc., et al. v. Coca-Cola Co</CITATION>
+
+<NAME end="74" start="17" party1_of="114300_3" all_names="COCA-COLA BOTTLING COMPANY OF ELIZABETHTOWN INC" local_name_id="1" id="114300_4" >Coca-Cola Bottling Company of Elizabethtown, Inc., et al.</NAME>
+
+<ORGANIZATION start="17" end="60" id="114300_8" >Coca-Cola Bottling Company of Elizabethtown</ORGANIZATION>
+
+<ORGANIZATION start="62" end="65" id="114300_9" >Inc</ORGANIZATION>
+
+<NAME end="90" start="78" all_names="COCA-COLA CO" party2_of="114300_3" local_name_id="2" id="114300_5" >Coca-Cola Co</NAME>
+
+<DOCKET end="107" entry_type="docket" lookup_key="u.s._510_908" id1="114304" start="100" citation_global_level_id="6546.002" line="1" id="114300_2" citation_local_level_id="0" >92-2012</DOCKET>
+
+<DATE start="103" end="107" id="114300_6" >2012</DATE>
+
+<DATE start="149" end="164" id="114300_7" >October 4, 1993</DATE>
+
+<NAME start="241" local_name_id="3" end="251" id="114300_22" all_names="CERTIORARI" >Certiorari</NAME>
+
+<DOCKET end="370" entry_type="docket" lookup_key="u.s._510_908" id1="114304" start="363" citation_global_level_id="6546.002" line="3" id="114300_18" citation_local_level_id="0" >92-2012</DOCKET>
+
+<DATE start="366" end="370" id="114300_20" >2012</DATE>
+
+<CITATION end="385" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_988_386" id1="Dummy_File_23784" volume="988" start="372" page_number="386" standard_reporter="F.2D" citation_global_level_id="87634.001" line="3" id="114300_16" citation_local_level_id="2" >988 F. 2d 386</CITATION>
+
+<DOCKET entry_type="docket" line="3" end="398" id="114300_19" start="391" >92-2055</DOCKET>
+
+<DATE start="394" end="398" id="114300_21" >2055</DATE>
+
+<CITATION end="413" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_988_414" id1="Dummy_File_23785" volume="988" start="400" page_number="414" standard_reporter="F.2D" citation_global_level_id="87635.001" line="3" id="114300_17" citation_local_level_id="3" >988 F. 2d 414</CITATION>
+
+<RELATION theme="114300_1" includes_docket_string="92-2012" includes_docket="114300_2" theme_string="510 U.S. 908" gram_type="apposition" relation_type="asymmetric" id="114300_14" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 908" X_vs_Y_string="Coca-Cola Bottling Company of Elizabethtown, Inc., et al. v. Coca-Cola Co" standard_case="114300_1" X_vs_Y="114300_3" gram_type="pre_nom" relation_type="equivalence" id="114300_10" ></RELATION>
+
+<RELATION theme="114300_3" includes_docket_string="92-2012" includes_docket="114300_2" theme_string="Coca-Cola Bottling Company of Elizabethtown, Inc., et al. v. Coca-Cola Co" gram_type="apposition" relation_type="asymmetric" id="114300_13" ></RELATION>
+
+<RELATION theme="114300_3" party1="114300_4" party1_string="Coca-Cola Bottling Company of Elizabethtown, Inc., et al." theme_string="Coca-Cola Bottling Company of Elizabethtown, Inc., et al. v. Coca-Cola Co" gram_type="infix" relation_type="asymmetric" id="114300_11" ></RELATION>
+
+<RELATION party2="114300_5" theme="114300_3" theme_string="Coca-Cola Bottling Company of Elizabethtown, Inc., et al. v. Coca-Cola Co" party2_string="Coca-Cola Co" gram_type="infix" relation_type="asymmetric" id="114300_12" ></RELATION>
+
+<RELATION at_date_string="2012" theme="114300_2" at_date="114300_6" theme_string="92-2012" gram_type="infix" relation_type="asymmetric" id="114300_15" ></RELATION>
+
+<RELATION at_date_string="2012" theme="114300_18" at_date="114300_20" theme_string="92-2012" gram_type="infix" relation_type="asymmetric" id="114300_23" ></RELATION>
+
+<RELATION at_date_string="2012" theme="114300_16" at_date="114300_20" theme_string="988 F. 2d 386" gram_type="indirect_infix" relation_type="asymmetric" id="114300_24" ></RELATION>
+
+<RELATION at_date_string="2055" theme="114300_19" at_date="114300_21" theme_string="92-2055" gram_type="infix" relation_type="asymmetric" id="114300_25" ></RELATION>
+
+<RELATION at_date_string="2055" theme="114300_17" at_date="114300_21" theme_string="988 F. 2d 414" gram_type="indirect_infix" relation_type="asymmetric" id="114300_26" ></RELATION>
+

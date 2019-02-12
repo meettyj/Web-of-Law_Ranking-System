@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['espanaa#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1071" id1="116346" volume="510" start="0" page_number="1071" standard_reporter="U.S." citation_global_level_id="10088.002" line="1" id="116343_1" citation_local_level_id="0" >510 U.S. 1071</CITATION>
+
+<CITATION party2="Banco de Credito Industrial, S. A" party1="Tesoreria General de la Seguridad Social de Espana" citation_global_level_id="10088.003" party2_short="A" line="1" id="116343_3" alternative_keys="['u.s._510_1071']" end="105" entry_type="party_key" lookup_key="espanaa#2" id1="116346" start="18" party1_short="Espana" citation_local_level_id="1" >Tesoreria General de la Seguridad Social de Espana v. Banco de Credito Industrial, S. A</CITATION>
+
+<NAME end="68" start="18" party1_of="116343_3" all_names="TESORERIA GENERAL DE LA SEGURIDAD SOCIAL DE ESPANA" local_name_id="1" id="116343_4" >Tesoreria General de la Seguridad Social de Espana</NAME>
+
+<NAME end="105" start="72" all_names="BANCO DE CREDITO INDUSTRIAL S A" party2_of="116343_3" local_name_id="2" id="116343_5" >Banco de Credito Industrial, S. A</NAME>
+
+<DOCKET end="121" entry_type="docket" lookup_key="u.s._510_1071" id1="116346" start="115" citation_global_level_id="10088.002" line="1" id="116343_2" citation_local_level_id="0" >93-613</DOCKET>
+
+<DATE start="163" end="179" id="116343_6" >January 18, 1994</DATE>
+
+<NAME start="257" local_name_id="3" end="267" id="116343_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="305" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_990_827" id1="Dummy_File_18885" volume="990" start="292" page_number="827" standard_reporter="F.2D" citation_global_level_id="82735.001" line="3" id="116343_12" citation_local_level_id="2" >990 F. 2d 827</CITATION>
+
+<RELATION theme="116343_1" includes_docket_string="93-613" includes_docket="116343_2" theme_string="510 U.S. 1071" gram_type="apposition" relation_type="asymmetric" id="116343_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1071" X_vs_Y_string="Tesoreria General de la Seguridad Social de Espana v. Banco de Credito Industrial, S. A" standard_case="116343_1" X_vs_Y="116343_3" gram_type="pre_nom" relation_type="equivalence" id="116343_7" ></RELATION>
+
+<RELATION theme="116343_3" includes_docket_string="93-613" includes_docket="116343_2" theme_string="Tesoreria General de la Seguridad Social de Espana v. Banco de Credito Industrial, S. A" gram_type="apposition" relation_type="asymmetric" id="116343_10" ></RELATION>
+
+<RELATION theme="116343_3" party1="116343_4" party1_string="Tesoreria General de la Seguridad Social de Espana" theme_string="Tesoreria General de la Seguridad Social de Espana v. Banco de Credito Industrial, S. A" gram_type="infix" relation_type="asymmetric" id="116343_8" ></RELATION>
+
+<RELATION party2="116343_5" theme="116343_3" theme_string="Tesoreria General de la Seguridad Social de Espana v. Banco de Credito Industrial, S. A" party2_string="Banco de Credito Industrial, S. A" gram_type="infix" relation_type="asymmetric" id="116343_9" ></RELATION>
+

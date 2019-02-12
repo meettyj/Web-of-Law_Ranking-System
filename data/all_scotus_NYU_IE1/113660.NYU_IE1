@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['duncancobb#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_860" id1="113655" volume="510" start="0" page_number="860" standard_reporter="U.S." citation_global_level_id="237.002" line="1" id="113660_1" citation_local_level_id="0" >510 U.S. 860</CITATION>
+
+<CITATION party2="Cobb et al" party1="Duncan" citation_global_level_id="2448.001" party2_short="Cobb" line="1" id="113660_3" alternative_keys="['u.s._510_860']" end="37" entry_type="party_key" lookup_key="duncancobb#1" id1="113660" start="17" party1_short="Duncan" citation_local_level_id="1" >Duncan v. Cobb et al</CITATION>
+
+<NAME end="23" start="17" party1_of="113660_3" all_names="DUNCAN" local_name_id="1" id="113660_4" >Duncan</NAME>
+
+<NAME end="37" start="27" all_names="COBB" party2_of="113660_3" local_name_id="2" id="113660_5" >Cobb et al</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="u.s._510_860" id1="113655" start="47" citation_global_level_id="237.002" line="1" id="113660_2" citation_local_level_id="0" >93-26</DOCKET>
+
+<DATE start="94" end="109" id="113660_6" >October 4, 1993</DATE>
+
+<NAME start="188" local_name_id="3" end="198" id="113660_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="237" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_989_1198" id1="Dummy_File_34608" volume="989" start="223" page_number="1198" standard_reporter="F.2D" citation_global_level_id="98458.001" line="3" id="113660_12" citation_local_level_id="2" >989 F. 2d 1198</CITATION>
+
+<RELATION theme="113660_1" includes_docket_string="93-26" includes_docket="113660_2" theme_string="510 U.S. 860" gram_type="apposition" relation_type="asymmetric" id="113660_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 860" X_vs_Y_string="Duncan v. Cobb et al" standard_case="113660_1" X_vs_Y="113660_3" gram_type="pre_nom" relation_type="equivalence" id="113660_7" ></RELATION>
+
+<RELATION theme="113660_3" includes_docket_string="93-26" includes_docket="113660_2" theme_string="Duncan v. Cobb et al" gram_type="apposition" relation_type="asymmetric" id="113660_10" ></RELATION>
+
+<RELATION theme="113660_3" party1="113660_4" party1_string="Duncan" theme_string="Duncan v. Cobb et al" gram_type="infix" relation_type="asymmetric" id="113660_8" ></RELATION>
+
+<RELATION party2="113660_5" theme="113660_3" theme_string="Duncan v. Cobb et al" party2_string="Cobb et al" gram_type="infix" relation_type="asymmetric" id="113660_9" ></RELATION>
+

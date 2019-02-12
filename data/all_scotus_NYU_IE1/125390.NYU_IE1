@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['hollisstates#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1049" id1="125386" volume="537" start="0" page_number="1049" standard_reporter="U.S." citation_global_level_id="6400.002" line="1" id="125390_1" citation_local_level_id="0" >537 U.S. 1049</CITATION>
+
+<CITATION party2="UNITED STATES" party1="HOLLIS" citation_global_level_id="28823.001" party2_short="STATES" line="1" id="125390_3" alternative_keys="['u.s._537_1049']" end="41" entry_type="party_key" lookup_key="hollisstates#1" id1="125390" start="18" party1_short="HOLLIS" citation_local_level_id="1" >HOLLIS v. UNITED STATES</CITATION>
+
+<NAME end="24" start="18" party1_of="125390_3" all_names="HOLLIS" local_name_id="1" id="125390_4" >HOLLIS</NAME>
+
+<NAME end="41" start="28" all_names="UNITED STATES" party2_of="125390_3" local_name_id="2" id="125390_5" >UNITED STATES</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._537_1049" id1="125386" start="51" citation_global_level_id="6400.002" line="1" id="125390_2" citation_local_level_id="0" >02-631</DOCKET>
+
+<DATE start="99" end="115" id="125390_6" >December 2, 2002</DATE>
+
+<ORGANIZATION start="213" end="231" plural="True" id="125390_13" >C. A. Armed Forces</ORGANIZATION>
+
+<NAME start="233" local_name_id="3" end="243" id="125390_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="279" reporter="M. J." entry_type="standard_key" no_current_file="True" lookup_key="m.j._57_74" id1="Dummy_File_93065" volume="57" start="268" page_number="74" standard_reporter="M.J." citation_global_level_id="156915.001" line="3" id="125390_12" citation_local_level_id="2" >57 M. J. 74</CITATION>
+
+<RELATION theme="125390_1" includes_docket_string="02-631" includes_docket="125390_2" theme_string="537 U.S. 1049" gram_type="apposition" relation_type="asymmetric" id="125390_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1049" X_vs_Y_string="HOLLIS v. UNITED STATES" standard_case="125390_1" X_vs_Y="125390_3" gram_type="pre_nom" relation_type="equivalence" id="125390_7" ></RELATION>
+
+<RELATION theme="125390_3" includes_docket_string="02-631" includes_docket="125390_2" theme_string="HOLLIS v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="125390_10" ></RELATION>
+
+<RELATION theme="125390_3" party1="125390_4" party1_string="HOLLIS" theme_string="HOLLIS v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="125390_8" ></RELATION>
+
+<RELATION party2="125390_5" theme="125390_3" theme_string="HOLLIS v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="125390_9" ></RELATION>
+

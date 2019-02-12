@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['chandlertexas#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_941" id1="135045" volume="541" start="0" page_number="941" standard_reporter="U.S." citation_global_level_id="15357.002" line="1" id="135045_1" citation_local_level_id="0" >541 U.S. 941</CITATION>
+
+<CITATION party2="TEXAS" party1="CHANDLER" citation_global_level_id="15357.001" party2_short="TEXAS" line="2" id="135045_2" alternative_keys="['u.s._541_941']" end="34" entry_type="party_key" lookup_key="chandlertexas#1" id1="135045" start="17" party1_short="CHANDLER" citation_local_level_id="1" >CHANDLER v. TEXAS</CITATION>
+
+<NAME end="25" start="17" party1_of="135045_2" all_names="CHANDLER" local_name_id="1" id="135045_3" >CHANDLER</NAME>
+
+<NAME end="34" start="29" all_names="TEXAS" party2_of="135045_2" local_name_id="2" id="135045_4" >TEXAS</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="chandlertexas#1" id1="135045" start="44" citation_global_level_id="15357.001" line="3" id="135045_7" citation_local_level_id="1" >03-8274</DOCKET>
+
+<ORGANIZATION start="57" end="87" id="135045_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="93" citation_global_level_id="15357.001" end="107" id="135045_9" citation_local_level_id="1" >March 22, 2004</DATE>
+
+<NAME start="129" local_name_id="3" end="131" id="135045_13" all_names="CT" >Ct</NAME>
+
+<RELATION theme="135045_2" party1="135045_3" party1_string="CHANDLER" theme_string="CHANDLER v. TEXAS" gram_type="infix" relation_type="asymmetric" id="135045_5" ></RELATION>
+
+<RELATION party2="135045_4" theme="135045_2" theme_string="CHANDLER v. TEXAS" party2_string="TEXAS" gram_type="infix" relation_type="asymmetric" id="135045_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 941" X_vs_Y_string="CHANDLER v. TEXAS" standard_case="135045_1" X_vs_Y="135045_2" gram_type="multi_line" relation_type="equivalence" id="135045_10" ></RELATION>
+
+<RELATION at_date_string="March 22, 2004" theme="135045_2" at_date="135045_9" theme_string="CHANDLER v. TEXAS" gram_type="multi_line" relation_type="asymmetric" id="135045_12" ></RELATION>
+
+<RELATION theme="135045_2" includes_docket_string="03-8274" includes_docket="135045_7" theme_string="CHANDLER v. TEXAS" gram_type="multi_line" relation_type="asymmetric" id="135045_11" ></RELATION>
+

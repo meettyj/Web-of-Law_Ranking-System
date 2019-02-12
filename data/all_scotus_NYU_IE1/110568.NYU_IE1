@@ -1,0 +1,52 @@
+<CITATION alternative_keys="['campbellsons#2', 's.ct._101_3151', 'l.ed.2d_69_999']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._453_916" id1="110568" volume="453" start="0" page_number="916" standard_reporter="U.S." citation_global_level_id="33897.002" line="1" id="110568_1" citation_local_level_id="0" >453 U.S. 916</CITATION>
+
+<CITATION alternative_keys="['u.s._453_916', 'campbellsons#2', 'l.ed.2d_69_999']" end="32" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._101_3151" id1="110568" volume="101" start="17" page_number="3151" standard_reporter="S.CT." citation_global_level_id="33897.003" line="1" id="110568_2" citation_local_level_id="1" >101 S. Ct. 3151</CITATION>
+
+<NAME start="21" local_name_id="1" end="26" id="110568_10" all_names="S CT" >S. Ct</NAME>
+
+<CITATION alternative_keys="['u.s._453_916', 's.ct._101_3151', 'campbellsons#2']" end="53" reporter="L. Ed. 2d" entry_type="standard_key" lookup_key="l.ed.2d_69_999" id1="110568" volume="69" start="37" page_number="999" standard_reporter="L.ED.2D" citation_global_level_id="33897.004" line="1" id="110568_3" citation_local_level_id="2" >69 L. Ed. 2d 999</CITATION>
+
+<CITATION party2="JOHN DONNELLY &amp; SONS, et al" alternative_keys="['s.ct._101_3151', 'l.ed.2d_69_999', 'u.s._453_916']" party1="George N. CAMPBELL, Jr., Commissioner of  Transportation, State of Maine," end="173" party1_short="CAMPBELL" entry_type="party_key" party1_role="appellant" lookup_key="campbellsons#2" id1="110568" start="58" citation_global_level_id="33897.005" party2_short="SONS" line="1" id="110568_5" citation_local_level_id="3" >George N. CAMPBELL, Jr., Commissioner of Transportation, State of Maine, appellant, v. JOHN DONNELLY &amp; SONS, et al</CITATION>
+
+<NAME end="131" start="58" party1_of="110568_5" all_names="GEORGE N CAMPBELL JR COMMISSIONER OF TRANSPORTATION STATE OF MAINE" local_name_id="2" id="110568_6" >George N. CAMPBELL, Jr., Commissioner of Transportation, State of Maine,</NAME>
+
+<PROFESSION start="83" end="114" id="110568_11" >Commissioner of Transportation</PROFESSION>
+
+<LEGAL_ROLE start="132" end="141" id="110568_8" party="party1" >appellant</LEGAL_ROLE>
+
+<NAME end="173" start="146" all_names="JOHN DONNELLY &amp; SONS" party2_of="110568_5" local_name_id="3" id="110568_7" >JOHN DONNELLY &amp; SONS, et al</NAME>
+
+<DOCKET alternative_keys="['s.ct._101_3151', 'l.ed.2d_69_999', 'u.s._453_916']" end="189" entry_type="docket" lookup_key="campbellsons#2" id1="110568" start="182" citation_global_level_id="33897.005" line="1" id="110568_4" citation_local_level_id="3" >80-1597</DOCKET>
+
+<DATE start="233" end="245" id="110568_9" >July 2, 1981</DATE>
+
+<PROFESSION start="293" document_level_name_id="4" end="306" id="110568_19" party="STEVENS" >CHIEF JUSTICE</PROFESSION>
+
+<PROFESSION start="308" document_level_name_id="4" end="337" id="110568_20" party="STEVENS" >Justice REHNQUIST and Justice</PROFESSION>
+
+<NAME start="338" local_name_id="4" end="345" id="110568_21" all_names="STEVENS" >STEVENS</NAME>
+
+<PROFESSION start="440" document_level_name_id="5" end="447" id="110568_24" party="STEWART" >Justice</PROFESSION>
+
+<NAME start="448" local_name_id="5" end="455" id="110568_25" all_names="STEWART" >STEWART</NAME>
+
+<RELATION standard_case_string="453 U.S. 916" X_vs_Y_string="George N. CAMPBELL, Jr., Commissioner of  Transportation, State of Maine, appellant, v. JOHN DONNELLY &amp; SONS, et al" standard_case="110568_1" X_vs_Y="110568_5" gram_type="pre_nom" relation_type="equivalence" id="110568_13" ></RELATION>
+
+<RELATION standard_case_string="101 S. Ct. 3151" X_vs_Y_string="George N. CAMPBELL, Jr., Commissioner of  Transportation, State of Maine, appellant, v. JOHN DONNELLY &amp; SONS, et al" standard_case="110568_2" X_vs_Y="110568_5" gram_type="pre_nom" relation_type="equivalence" id="110568_14" ></RELATION>
+
+<RELATION standard_case_string="69 L. Ed. 2d 999" X_vs_Y_string="George N. CAMPBELL, Jr., Commissioner of  Transportation, State of Maine, appellant, v. JOHN DONNELLY &amp; SONS, et al" standard_case="110568_3" X_vs_Y="110568_5" gram_type="pre_nom" relation_type="equivalence" id="110568_12" ></RELATION>
+
+<RELATION theme="110568_5" includes_docket_string="80-1597" includes_docket="110568_4" theme_string="George N. CAMPBELL, Jr., Commissioner of  Transportation, State of Maine, appellant, v. JOHN DONNELLY &amp; SONS, et al" gram_type="pre_nom" relation_type="asymmetric" id="110568_17" ></RELATION>
+
+<RELATION theme="110568_5" party1="110568_6" party1_string="George N. CAMPBELL, Jr., Commissioner of  Transportation, State of Maine," theme_string="George N. CAMPBELL, Jr., Commissioner of  Transportation, State of Maine, appellant, v. JOHN DONNELLY &amp; SONS, et al" gram_type="infix" relation_type="asymmetric" id="110568_15" ></RELATION>
+
+<RELATION party2="110568_7" theme="110568_5" theme_string="George N. CAMPBELL, Jr., Commissioner of  Transportation, State of Maine, appellant, v. JOHN DONNELLY &amp; SONS, et al" party2_string="JOHN DONNELLY &amp; SONS, et al" gram_type="infix" relation_type="asymmetric" id="110568_16" ></RELATION>
+
+<RELATION at_date_string="July 2, 1981" theme="110568_4" at_date="110568_9" theme_string="80-1597" gram_type="pre_nom" relation_type="asymmetric" id="110568_18" ></RELATION>
+
+<RELATION theme="110568_21" profession_string="CHIEF JUSTICE" theme_string="STEVENS" profession="110568_19" gram_type="pre_nom" relation_type="asymmetric" id="110568_23" ></RELATION>
+
+<RELATION theme="110568_21" profession_string="Justice REHNQUIST and Justice" theme_string="STEVENS" profession="110568_20" gram_type="pre_nom" relation_type="asymmetric" id="110568_22" ></RELATION>
+
+<RELATION theme="110568_25" profession_string="Justice" theme_string="STEWART" profession="110568_24" gram_type="pre_nom" relation_type="asymmetric" id="110568_26" ></RELATION>
+

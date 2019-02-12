@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['governmentindustries#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1093" id1="116564" volume="510" start="0" page_number="1093" standard_reporter="U.S." citation_global_level_id="3277.002" line="1" id="116565_1" citation_local_level_id="0" >510 U.S. 1093</CITATION>
+
+<CITATION party2="Belton Industries, Inc., et al" party1="Royal Thai Government" citation_global_level_id="3277.003" party2_short="Industries" line="1" id="116565_3" alternative_keys="['u.s._510_1093']" end="73" entry_type="party_key" lookup_key="governmentindustries#2" id1="116564" start="18" party1_short="Government" citation_local_level_id="1" >Royal Thai Government v. Belton Industries, Inc., et al</CITATION>
+
+<NAME end="39" start="18" party1_of="116565_3" all_names="ROYAL THAI GOVERNMENT" local_name_id="1" id="116565_4" >Royal Thai Government</NAME>
+
+<NAME end="73" start="43" all_names="BELTON INDUSTRIES INC" party2_of="116565_3" local_name_id="2" id="116565_5" >Belton Industries, Inc., et al</NAME>
+
+<DOCKET end="89" entry_type="docket" lookup_key="u.s._510_1093" id1="116564" start="83" citation_global_level_id="3277.002" line="1" id="116565_2" citation_local_level_id="0" >93-887</DOCKET>
+
+<DATE start="131" end="147" id="116565_6" >January 24, 1994</DATE>
+
+<NAME start="226" local_name_id="3" end="236" id="116565_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="272" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_6_756" id1="Dummy_File_178426" volume="6" start="261" page_number="756" standard_reporter="F.3D" citation_global_level_id="242276.001" line="3" id="116565_12" citation_local_level_id="2" >6 F. 3d 756</CITATION>
+
+<RELATION theme="116565_1" includes_docket_string="93-887" includes_docket="116565_2" theme_string="510 U.S. 1093" gram_type="apposition" relation_type="asymmetric" id="116565_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1093" X_vs_Y_string="Royal Thai Government v. Belton Industries, Inc., et al" standard_case="116565_1" X_vs_Y="116565_3" gram_type="pre_nom" relation_type="equivalence" id="116565_7" ></RELATION>
+
+<RELATION theme="116565_3" includes_docket_string="93-887" includes_docket="116565_2" theme_string="Royal Thai Government v. Belton Industries, Inc., et al" gram_type="apposition" relation_type="asymmetric" id="116565_10" ></RELATION>
+
+<RELATION theme="116565_3" party1="116565_4" party1_string="Royal Thai Government" theme_string="Royal Thai Government v. Belton Industries, Inc., et al" gram_type="infix" relation_type="asymmetric" id="116565_8" ></RELATION>
+
+<RELATION party2="116565_5" theme="116565_3" theme_string="Royal Thai Government v. Belton Industries, Inc., et al" party2_string="Belton Industries, Inc., et al" gram_type="infix" relation_type="asymmetric" id="116565_9" ></RELATION>
+

@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['wheelerwashington#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_996" id1="119590" volume="535" start="0" page_number="996" standard_reporter="U.S." citation_global_level_id="2443.002" line="1" id="119600_1" citation_local_level_id="0" >535 U.S. 996</CITATION>
+
+<CITATION party2="WASHINGTON" party1="WHEELER" citation_global_level_id="21511.001" party2_short="WASHINGTON" line="2" id="119600_2" alternative_keys="['u.s._535_996']" end="38" entry_type="party_key" lookup_key="wheelerwashington#1" id1="119600" start="17" party1_short="WHEELER" citation_local_level_id="1" >WHEELER v. WASHINGTON</CITATION>
+
+<NAME end="24" start="17" party1_of="119600_2" all_names="WHEELER" local_name_id="1" id="119600_3" >WHEELER</NAME>
+
+<NAME end="38" start="28" all_names="WASHINGTON" party2_of="119600_2" local_name_id="2" id="119600_4" >WASHINGTON</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="wheelerwashington#1" id1="119600" start="48" citation_global_level_id="21511.001" line="3" id="119600_7" citation_local_level_id="1" >01-8253</DOCKET>
+
+<DATE start="101" citation_global_level_id="21511.001" end="115" id="119600_8" citation_local_level_id="1" >April 15, 2002</DATE>
+
+<NAME start="137" local_name_id="3" end="140" id="119600_14" all_names="SUP" >Sup</NAME>
+
+<CITATION end="203" reporter="Wash. 2d" entry_type="standard_key" no_current_file="True" lookup_key="wash.2d_145_116" id1="Dummy_File_77013" volume="145" start="187" page_number="116" standard_reporter="WASH.2D" citation_global_level_id="140863.001" line="8" id="119600_12" citation_local_level_id="2" >145 Wash. 2d 116</CITATION>
+
+<CITATION end="217" reporter="P. 3d" entry_type="standard_key" no_current_file="True" lookup_key="p.3d_34_799" id1="Dummy_File_77014" volume="34" start="205" page_number="799" standard_reporter="P.3D" citation_global_level_id="140864.001" line="8" id="119600_13" citation_local_level_id="3" >34 P. 3d 799</CITATION>
+
+<RELATION theme="119600_2" party1="119600_3" party1_string="WHEELER" theme_string="WHEELER v. WASHINGTON" gram_type="infix" relation_type="asymmetric" id="119600_5" ></RELATION>
+
+<RELATION party2="119600_4" theme="119600_2" theme_string="WHEELER v. WASHINGTON" party2_string="WASHINGTON" gram_type="infix" relation_type="asymmetric" id="119600_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 996" X_vs_Y_string="WHEELER v. WASHINGTON" standard_case="119600_1" X_vs_Y="119600_2" gram_type="multi_line" relation_type="equivalence" id="119600_9" ></RELATION>
+
+<RELATION at_date_string="April 15, 2002" theme="119600_2" at_date="119600_8" theme_string="WHEELER v. WASHINGTON" gram_type="multi_line" relation_type="asymmetric" id="119600_11" ></RELATION>
+
+<RELATION theme="119600_2" includes_docket_string="01-8253" includes_docket="119600_7" theme_string="WHEELER v. WASHINGTON" gram_type="multi_line" relation_type="asymmetric" id="119600_10" ></RELATION>
+

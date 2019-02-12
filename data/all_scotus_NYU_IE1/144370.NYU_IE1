@@ -1,0 +1,42 @@
+<CITATION alternative_keys="['jonesstates#9']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_1015" id1="144369" volume="544" start="0" page_number="1015" standard_reporter="U.S." citation_global_level_id="4444.002" line="1" id="144370_1" citation_local_level_id="0" >544 U.S. 1015</CITATION>
+
+<CITATION party2="UNITED STATES" party1="JONES" citation_global_level_id="6761.001" party2_short="STATES" line="1" id="144370_3" alternative_keys="['u.s._544_1015']" end="40" entry_type="party_key" lookup_key="jonesstates#9" id1="143790" start="18" party1_short="JONES" citation_local_level_id="1" >JONES v. UNITED STATES</CITATION>
+
+<NAME end="23" start="18" party1_of="144370_3" all_names="JONES" local_name_id="1" id="144370_4" >JONES</NAME>
+
+<NAME end="40" start="27" all_names="UNITED STATES" party2_of="144370_3" local_name_id="2" id="144370_5" >UNITED STATES</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="jonesstates#9" id1="143790" start="49" citation_global_level_id="6761.001" line="1" id="144370_2" citation_local_level_id="1" >04-9425</DOCKET>
+
+<DATE start="98" end="109" id="144370_6" >May 2, 2005</DATE>
+
+<LEGAL_ROLE start="207" end="228" plural="True" id="144370_16" >Motion of petitioners</LEGAL_ROLE>
+
+<NAME start="277" local_name_id="3" end="287" id="144370_17" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION party2="Booker" party1="United States" citation_global_level_id="57130.001" party2_short="Booker" line="3" id="144370_12" alternative_keys="['u.s._543_220']" end="396" entry_type="party_key" lookup_key="statesbooker#4" id1="137703" start="373" party1_short="States" citation_local_level_id="2" >United States v. Booker</CITATION>
+
+<NAME end="386" start="373" party1_of="144370_12" all_names="UNITED STATES" local_name_id="2" id="144370_13" >United States</NAME>
+
+<NAME end="396" start="390" all_names="BOOKER" party2_of="144370_12" local_name_id="4" id="144370_14" >Booker</NAME>
+
+<CITATION alternative_keys="['statesbooker#4']" end="417" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_220" id1="145930" volume="543" start="398" page_number="220" year="2005" standard_reporter="U.S." citation_global_level_id="3524.003" line="3" id="144370_11" citation_local_level_id="3" >543 U.S. 220 (2005)</CITATION>
+
+<DATE start="412" citation_global_level_id="3524.003" end="416" id="144370_15" citation_local_level_id="3" >2005</DATE>
+
+<RELATION standard_case_string="544 U.S. 1015" X_vs_Y_string="JONES v. UNITED STATES" standard_case="144370_1" X_vs_Y="144370_3" gram_type="pre_nom" relation_type="equivalence" id="144370_7" ></RELATION>
+
+<RELATION theme="144370_3" includes_docket_string="04-9425" includes_docket="144370_2" theme_string="JONES v. UNITED STATES" gram_type="pre_nom" relation_type="asymmetric" id="144370_10" ></RELATION>
+
+<RELATION theme="144370_3" party1="144370_4" party1_string="JONES" theme_string="JONES v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="144370_8" ></RELATION>
+
+<RELATION party2="144370_5" theme="144370_3" theme_string="JONES v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="144370_9" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 220 (2005)" X_vs_Y_string="United States v. Booker" standard_case="144370_11" X_vs_Y="144370_12" gram_type="apposition" relation_type="equivalence" id="144370_20" ></RELATION>
+
+<RELATION theme="144370_12" party1="144370_13" party1_string="United States" theme_string="United States v. Booker" gram_type="infix" relation_type="asymmetric" id="144370_18" ></RELATION>
+
+<RELATION party2="144370_14" theme="144370_12" theme_string="United States v. Booker" party2_string="Booker" gram_type="infix" relation_type="asymmetric" id="144370_19" ></RELATION>
+
+<RELATION at_date_string="2005" theme="144370_11" at_date="144370_15" theme_string="543 U.S. 220 (2005)" gram_type="infix" relation_type="asymmetric" id="144370_21" ></RELATION>
+

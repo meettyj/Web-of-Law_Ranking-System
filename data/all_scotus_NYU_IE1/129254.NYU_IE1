@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['millergeorgia#3']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1004" id1="129266" volume="538" start="0" page_number="1004" standard_reporter="U.S." citation_global_level_id="938.002" line="1" id="129254_1" citation_local_level_id="0" >538 U.S. 1004</CITATION>
+
+<CITATION party2="GEORGIA" party1="MILLER" citation_global_level_id="46868.001" party2_short="GEORGIA" line="1" id="129254_3" alternative_keys="['u.s._538_1004']" end="35" entry_type="party_key" lookup_key="millergeorgia#3" id1="144086" start="18" party1_short="MILLER" citation_local_level_id="1" >MILLER v. GEORGIA</CITATION>
+
+<NAME end="24" start="18" party1_of="129254_3" all_names="MILLER" local_name_id="1" id="129254_4" >MILLER</NAME>
+
+<NAME end="35" start="28" all_names="GEORGIA" party2_of="129254_3" local_name_id="2" id="129254_5" >GEORGIA</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="u.s._538_1004" id1="129266" start="45" citation_global_level_id="938.002" line="1" id="129254_2" citation_local_level_id="0" >02-9267</DOCKET>
+
+<DATE start="94" end="108" id="129254_6" >April 28, 2003</DATE>
+
+<NAME start="199" local_name_id="3" end="202" id="129254_14" all_names="SUP" >Sup</NAME>
+
+<CITATION end="258" reporter="Ga." entry_type="standard_key" no_current_file="True" lookup_key="ga._275_730" id1="Dummy_File_186549" volume="275" start="247" page_number="730" standard_reporter="GA." citation_global_level_id="250399.001" line="3" id="129254_12" citation_local_level_id="2" >275 Ga. 730</CITATION>
+
+<CITATION end="276" reporter="S. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="s.e.2d_571_788" id1="Dummy_File_186550" volume="571" start="260" page_number="788" standard_reporter="S.E.2D" citation_global_level_id="250400.001" line="3" id="129254_13" citation_local_level_id="3" >571 S. E. 2d 788</CITATION>
+
+<RELATION theme="129254_1" includes_docket_string="02-9267" includes_docket="129254_2" theme_string="538 U.S. 1004" gram_type="apposition" relation_type="asymmetric" id="129254_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1004" X_vs_Y_string="MILLER v. GEORGIA" standard_case="129254_1" X_vs_Y="129254_3" gram_type="pre_nom" relation_type="equivalence" id="129254_7" ></RELATION>
+
+<RELATION theme="129254_3" includes_docket_string="02-9267" includes_docket="129254_2" theme_string="MILLER v. GEORGIA" gram_type="apposition" relation_type="asymmetric" id="129254_10" ></RELATION>
+
+<RELATION theme="129254_3" party1="129254_4" party1_string="MILLER" theme_string="MILLER v. GEORGIA" gram_type="infix" relation_type="asymmetric" id="129254_8" ></RELATION>
+
+<RELATION party2="129254_5" theme="129254_3" theme_string="MILLER v. GEORGIA" party2_string="GEORGIA" gram_type="infix" relation_type="asymmetric" id="129254_9" ></RELATION>
+

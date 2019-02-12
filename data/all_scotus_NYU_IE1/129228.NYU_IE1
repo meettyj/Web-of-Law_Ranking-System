@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['smithgeorgia#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1002" id1="129232" volume="538" start="0" page_number="1002" standard_reporter="U.S." citation_global_level_id="3880.002" line="1" id="129228_1" citation_local_level_id="0" >538 U.S. 1002</CITATION>
+
+<CITATION party2="GEORGIA" party1="SMITH" citation_global_level_id="45055.001" party2_short="GEORGIA" line="1" id="129228_3" alternative_keys="['u.s._538_1002']" end="34" entry_type="party_key" lookup_key="smithgeorgia#2" id1="129228" start="18" party1_short="SMITH" citation_local_level_id="1" >SMITH v. GEORGIA</CITATION>
+
+<NAME end="23" start="18" party1_of="129228_3" all_names="SMITH" local_name_id="1" id="129228_4" >SMITH</NAME>
+
+<NAME end="34" start="27" all_names="GEORGIA" party2_of="129228_3" local_name_id="2" id="129228_5" >GEORGIA</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="u.s._538_1002" id1="129232" start="44" citation_global_level_id="3880.002" line="1" id="129228_2" citation_local_level_id="0" >02-9145</DOCKET>
+
+<DATE start="93" end="107" id="129228_6" >April 28, 2003</DATE>
+
+<NAME start="198" local_name_id="3" end="201" id="129228_14" all_names="SUP" >Sup</NAME>
+
+<CITATION end="257" reporter="Ga." entry_type="standard_key" no_current_file="True" lookup_key="ga._275_715" id1="Dummy_File_89152" volume="275" start="246" page_number="715" standard_reporter="GA." citation_global_level_id="153002.001" line="3" id="129228_12" citation_local_level_id="2" >275 Ga. 715</CITATION>
+
+<CITATION end="275" reporter="S. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="s.e.2d_571_740" id1="Dummy_File_89153" volume="571" start="259" page_number="740" standard_reporter="S.E.2D" citation_global_level_id="153003.001" line="3" id="129228_13" citation_local_level_id="3" >571 S. E. 2d 740</CITATION>
+
+<RELATION theme="129228_1" includes_docket_string="02-9145" includes_docket="129228_2" theme_string="538 U.S. 1002" gram_type="apposition" relation_type="asymmetric" id="129228_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1002" X_vs_Y_string="SMITH v. GEORGIA" standard_case="129228_1" X_vs_Y="129228_3" gram_type="pre_nom" relation_type="equivalence" id="129228_7" ></RELATION>
+
+<RELATION theme="129228_3" includes_docket_string="02-9145" includes_docket="129228_2" theme_string="SMITH v. GEORGIA" gram_type="apposition" relation_type="asymmetric" id="129228_10" ></RELATION>
+
+<RELATION theme="129228_3" party1="129228_4" party1_string="SMITH" theme_string="SMITH v. GEORGIA" gram_type="infix" relation_type="asymmetric" id="129228_8" ></RELATION>
+
+<RELATION party2="129228_5" theme="129228_3" theme_string="SMITH v. GEORGIA" party2_string="GEORGIA" gram_type="infix" relation_type="asymmetric" id="129228_9" ></RELATION>
+

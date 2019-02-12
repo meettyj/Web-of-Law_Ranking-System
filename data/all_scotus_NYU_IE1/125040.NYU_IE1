@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['gastonohio#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1021" id1="125046" volume="537" start="0" page_number="1021" standard_reporter="U.S." citation_global_level_id="720.002" line="1" id="125040_1" citation_local_level_id="0" >537 U.S. 1021</CITATION>
+
+<CITATION party2="OHIO" party1="GASTON" citation_global_level_id="34086.001" party2_short="OHIO" line="1" id="125040_3" alternative_keys="['u.s._537_1021']" end="32" entry_type="party_key" lookup_key="gastonohio#1" id1="125040" start="18" party1_short="GASTON" citation_local_level_id="1" >GASTON v. OHIO</CITATION>
+
+<NAME end="24" start="18" party1_of="125040_3" all_names="GASTON" local_name_id="1" id="125040_4" >GASTON</NAME>
+
+<NAME end="32" start="28" all_names="OHIO" party2_of="125040_3" local_name_id="2" id="125040_5" >OHIO</NAME>
+
+<DOCKET end="49" entry_type="docket" lookup_key="u.s._537_1021" id1="125046" start="42" citation_global_level_id="720.002" line="1" id="125040_2" citation_local_level_id="0" >02-6323</DOCKET>
+
+<DATE start="91" end="108" id="125040_6" >November 12, 2002</DATE>
+
+<NAME start="215" local_name_id="3" end="217" id="125040_12" all_names="CT" >Ct</NAME>
+
+<RELATION theme="125040_1" includes_docket_string="02-6323" includes_docket="125040_2" theme_string="537 U.S. 1021" gram_type="apposition" relation_type="asymmetric" id="125040_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1021" X_vs_Y_string="GASTON v. OHIO" standard_case="125040_1" X_vs_Y="125040_3" gram_type="pre_nom" relation_type="equivalence" id="125040_7" ></RELATION>
+
+<RELATION theme="125040_3" includes_docket_string="02-6323" includes_docket="125040_2" theme_string="GASTON v. OHIO" gram_type="apposition" relation_type="asymmetric" id="125040_10" ></RELATION>
+
+<RELATION theme="125040_3" party1="125040_4" party1_string="GASTON" theme_string="GASTON v. OHIO" gram_type="infix" relation_type="asymmetric" id="125040_8" ></RELATION>
+
+<RELATION party2="125040_5" theme="125040_3" theme_string="GASTON v. OHIO" party2_string="OHIO" gram_type="infix" relation_type="asymmetric" id="125040_9" ></RELATION>
+

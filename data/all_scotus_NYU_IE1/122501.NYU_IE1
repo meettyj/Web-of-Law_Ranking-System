@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['smithprincipi#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_821" id1="122496" volume="537" start="0" page_number="821" standard_reporter="U.S." citation_global_level_id="2789.002" line="1" id="122501_1" citation_local_level_id="0" >537 U.S. 821</CITATION>
+
+<CITATION party2="PRINCIPI, SECRETARY OF VETERANS AFFAIRS" party1="SMITH" citation_global_level_id="2789.004" party2_short="PRINCIPI" line="1" id="122501_3" alternative_keys="['u.s._537_821']" end="65" entry_type="party_key" lookup_key="smithprincipi#1" id1="122496" start="17" party1_short="SMITH" citation_local_level_id="1" >SMITH v. PRINCIPI, SECRETARY OF VETERANS AFFAIRS</CITATION>
+
+<NAME end="22" start="17" party1_of="122501_3" all_names="SMITH" local_name_id="1" id="122501_4" >SMITH</NAME>
+
+<NAME end="65" start="26" all_names="PRINCIPI SECRETARY OF VETERANS AFFAIRS" party2_of="122501_3" local_name_id="2" id="122501_5" >PRINCIPI, SECRETARY OF VETERANS AFFAIRS</NAME>
+
+<DOCKET end="82" entry_type="docket" lookup_key="u.s._537_821" id1="122496" start="75" citation_global_level_id="2789.002" line="1" id="122501_2" citation_local_level_id="0" >01-1775</DOCKET>
+
+<DATE start="78" end="82" id="122501_6" >1775</DATE>
+
+<DATE start="124" end="139" id="122501_7" >October 7, 2002</DATE>
+
+<NAME start="260" local_name_id="3" end="269" id="122501_15" all_names="C A FED" >C. A. Fed</NAME>
+
+<NAME start="271" local_name_id="4" end="274" id="122501_16" all_names="CIR" >Cir</NAME>
+
+<CITATION end="325" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_281_1384" id1="Dummy_File_64242" volume="281" start="311" page_number="1384" standard_reporter="F.3D" citation_global_level_id="128092.001" line="3" id="122501_14" citation_local_level_id="2" >281 F. 3d 1384</CITATION>
+
+<RELATION theme="122501_1" includes_docket_string="01-1775" includes_docket="122501_2" theme_string="537 U.S. 821" gram_type="apposition" relation_type="asymmetric" id="122501_12" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 821" X_vs_Y_string="SMITH v. PRINCIPI, SECRETARY OF VETERANS AFFAIRS" standard_case="122501_1" X_vs_Y="122501_3" gram_type="pre_nom" relation_type="equivalence" id="122501_8" ></RELATION>
+
+<RELATION theme="122501_3" includes_docket_string="01-1775" includes_docket="122501_2" theme_string="SMITH v. PRINCIPI, SECRETARY OF VETERANS AFFAIRS" gram_type="apposition" relation_type="asymmetric" id="122501_11" ></RELATION>
+
+<RELATION party2="122501_5" theme="122501_3" theme_string="SMITH v. PRINCIPI, SECRETARY OF VETERANS AFFAIRS" party2_string="PRINCIPI, SECRETARY OF VETERANS AFFAIRS" gram_type="infix" relation_type="asymmetric" id="122501_10" ></RELATION>
+
+<RELATION theme="122501_3" party1="122501_4" party1_string="SMITH" theme_string="SMITH v. PRINCIPI, SECRETARY OF VETERANS AFFAIRS" gram_type="infix" relation_type="asymmetric" id="122501_9" ></RELATION>
+
+<RELATION at_date_string="1775" theme="122501_2" at_date="122501_6" theme_string="01-1775" gram_type="infix" relation_type="asymmetric" id="122501_13" ></RELATION>
+

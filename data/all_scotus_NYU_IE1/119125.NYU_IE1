@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['brittcampbell#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_959" id1="119122" volume="535" start="0" page_number="959" standard_reporter="U.S." citation_global_level_id="14825.002" line="1" id="119125_1" citation_local_level_id="0" >535 U.S. 959</CITATION>
+
+<CITATION party2="CAMPBELL, WARDEN, ET AL" party1="BRITT" citation_global_level_id="14825.007" party2_short="CAMPBELL" line="2" id="119125_2" alternative_keys="['u.s._535_959']" end="49" entry_type="party_key" lookup_key="brittcampbell#1" id1="119122" start="17" party1_short="BRITT" citation_local_level_id="1" >BRITT v. CAMPBELL, WARDEN, ET AL</CITATION>
+
+<NAME end="22" start="17" party1_of="119125_2" all_names="BRITT" local_name_id="1" id="119125_3" >BRITT</NAME>
+
+<NAME end="49" start="26" all_names="CAMPBELL WARDEN" party2_of="119125_2" local_name_id="2" id="119125_4" >CAMPBELL, WARDEN, ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._535_959']" end="66" entry_type="docket" lookup_key="brittcampbell#1" id1="119122" start="59" citation_global_level_id="14825.007" line="3" id="119125_7" citation_local_level_id="1" >01-7927</DOCKET>
+
+<DATE start="112" citation_global_level_id="14825.007" end="126" id="119125_8" citation_local_level_id="1" >March 25, 2002</DATE>
+
+<NAME start="148" local_name_id="3" end="150" id="119125_12" all_names="CT" >Ct</NAME>
+
+<RELATION theme="119125_2" party1="119125_3" party1_string="BRITT" theme_string="BRITT v. CAMPBELL, WARDEN, ET AL" gram_type="infix" relation_type="asymmetric" id="119125_5" ></RELATION>
+
+<RELATION party2="119125_4" theme="119125_2" theme_string="BRITT v. CAMPBELL, WARDEN, ET AL" party2_string="CAMPBELL, WARDEN, ET AL" gram_type="infix" relation_type="asymmetric" id="119125_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 959" X_vs_Y_string="BRITT v. CAMPBELL, WARDEN, ET AL" standard_case="119125_1" X_vs_Y="119125_2" gram_type="multi_line" relation_type="equivalence" id="119125_9" ></RELATION>
+
+<RELATION at_date_string="March 25, 2002" theme="119125_2" at_date="119125_8" theme_string="BRITT v. CAMPBELL, WARDEN, ET AL" gram_type="multi_line" relation_type="asymmetric" id="119125_11" ></RELATION>
+
+<RELATION theme="119125_2" includes_docket_string="01-7927" includes_docket="119125_7" theme_string="BRITT v. CAMPBELL, WARDEN, ET AL" gram_type="multi_line" relation_type="asymmetric" id="119125_10" ></RELATION>
+

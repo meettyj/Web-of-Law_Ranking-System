@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['bankc#8']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_923" id1="139335" volume="543" start="0" page_number="923" standard_reporter="U.S." citation_global_level_id="268.002" line="3" id="139335_2" citation_local_level_id="0" >543 U.S. 923</CITATION>
+
+<CITATION party2="NBM L. L. C. ET AL" party1="BANK OF CHINA, NEW YORK BRANCH" citation_global_level_id="268.004" party2_short="C" line="3" id="139335_4" alternative_keys="['u.s._543_923']" end="69" entry_type="party_key" lookup_key="bankc#8" id1="139335" start="17" party1_short="BANK" citation_local_level_id="1" >BANK OF CHINA, NEW YORK BRANCH v. NBM L. L. C. ET AL</CITATION>
+
+<NAME end="47" start="17" party1_of="139335_4" all_names="BANK OF CHINA NEW YORK BRANCH" local_name_id="1" id="139335_5" >BANK OF CHINA, NEW YORK BRANCH</NAME>
+
+<ORGANIZATION start="17" end="30" id="139335_7" >BANK OF CHINA</ORGANIZATION>
+
+<NAME end="69" start="51" all_names="NBM L L C" party2_of="139335_4" local_name_id="2" id="139335_6" >NBM L. L. C. ET AL</NAME>
+
+<DOCKET end="86" entry_type="docket" lookup_key="u.s._543_923" id1="139335" start="79" citation_global_level_id="268.002" line="3" id="139335_3" citation_local_level_id="0" >03-1559</DOCKET>
+
+<ORGANIZATION start="92" end="122" id="139335_13" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="128" citation_global_level_id="268.004" end="144" id="139335_14" citation_local_level_id="1" >October 12, 2004</DATE>
+
+<NAME start="175" local_name_id="3" end="178" id="139335_16" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="139335_2" includes_docket_string="03-1559" includes_docket="139335_3" theme_string="543 U.S. 923" gram_type="apposition" relation_type="asymmetric" id="139335_12" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 923" X_vs_Y_string="BANK OF CHINA, NEW YORK BRANCH v. NBM L. L. C. ET AL" standard_case="139335_2" X_vs_Y="139335_4" gram_type="pre_nom" relation_type="equivalence" id="139335_8" ></RELATION>
+
+<RELATION theme="139335_4" includes_docket_string="03-1559" includes_docket="139335_3" theme_string="BANK OF CHINA, NEW YORK BRANCH v. NBM L. L. C. ET AL" gram_type="apposition" relation_type="asymmetric" id="139335_11" ></RELATION>
+
+<RELATION party2="139335_6" theme="139335_4" theme_string="BANK OF CHINA, NEW YORK BRANCH v. NBM L. L. C. ET AL" party2_string="NBM L. L. C. ET AL" gram_type="infix" relation_type="asymmetric" id="139335_10" ></RELATION>
+
+<RELATION theme="139335_4" party1="139335_5" party1_string="BANK OF CHINA, NEW YORK BRANCH" theme_string="BANK OF CHINA, NEW YORK BRANCH v. NBM L. L. C. ET AL" gram_type="infix" relation_type="asymmetric" id="139335_9" ></RELATION>
+
+<RELATION at_date_string="October 12, 2004" theme="139335_4" at_date="139335_14" theme_string="BANK OF CHINA, NEW YORK BRANCH v. NBM L. L. C. ET AL" gram_type="multi_line" relation_type="asymmetric" id="139335_15" ></RELATION>
+

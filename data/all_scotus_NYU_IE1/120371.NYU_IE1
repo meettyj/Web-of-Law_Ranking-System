@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['remingtonvirginia#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1062" id1="120376" volume="535" start="0" page_number="1062" standard_reporter="U.S." citation_global_level_id="876.002" line="1" id="120371_1" citation_local_level_id="0" >535 U.S. 1062</CITATION>
+
+<CITATION party2="VIRGINIA" party1="REMINGTON" citation_global_level_id="17368.001" party2_short="VIRGINIA" line="2" id="120371_3" alternative_keys="['u.s._535_1062']" end="39" entry_type="party_key" lookup_key="remingtonvirginia#1" id1="120371" start="18" party1_short="REMINGTON" citation_local_level_id="1" >REMINGTON v. VIRGINIA</CITATION>
+
+<NAME end="27" start="18" party1_of="120371_3" all_names="REMINGTON" local_name_id="1" id="120371_4" >REMINGTON</NAME>
+
+<NAME end="39" start="31" all_names="VIRGINIA" party2_of="120371_3" local_name_id="2" id="120371_5" >VIRGINIA</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="remingtonvirginia#1" id1="120371" start="49" citation_global_level_id="17368.001" line="2" id="120371_2" citation_local_level_id="1" >01-8905</DOCKET>
+
+<DATE start="102" citation_global_level_id="17368.001" end="114" id="120371_9" citation_local_level_id="1" >May 13, 2002</DATE>
+
+<NAME start="136" local_name_id="3" end="139" id="120371_14" all_names="SUP" >Sup</NAME>
+
+<CITATION end="195" reporter="Va." entry_type="standard_key" no_current_file="True" lookup_key="va._262_333" id1="Dummy_File_169811" volume="262" start="184" page_number="333" standard_reporter="VA." citation_global_level_id="233661.001" line="7" id="120371_12" citation_local_level_id="2" >262 Va. 333</CITATION>
+
+<CITATION end="213" reporter="S. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="s.e.2d_551_620" id1="Dummy_File_169812" volume="551" start="197" page_number="620" standard_reporter="S.E.2D" citation_global_level_id="233662.001" line="7" id="120371_13" citation_local_level_id="3" >551 S. E. 2d 620</CITATION>
+
+<RELATION theme="120371_3" includes_docket_string="01-8905" includes_docket="120371_2" theme_string="REMINGTON v. VIRGINIA" gram_type="apposition" relation_type="asymmetric" id="120371_8" ></RELATION>
+
+<RELATION theme="120371_3" party1="120371_4" party1_string="REMINGTON" theme_string="REMINGTON v. VIRGINIA" gram_type="infix" relation_type="asymmetric" id="120371_6" ></RELATION>
+
+<RELATION party2="120371_5" theme="120371_3" theme_string="REMINGTON v. VIRGINIA" party2_string="VIRGINIA" gram_type="infix" relation_type="asymmetric" id="120371_7" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1062" X_vs_Y_string="REMINGTON v. VIRGINIA" standard_case="120371_1" X_vs_Y="120371_3" gram_type="multi_line" relation_type="equivalence" id="120371_10" ></RELATION>
+
+<RELATION at_date_string="May 13, 2002" theme="120371_3" at_date="120371_9" theme_string="REMINGTON v. VIRGINIA" gram_type="multi_line" relation_type="asymmetric" id="120371_11" ></RELATION>
+

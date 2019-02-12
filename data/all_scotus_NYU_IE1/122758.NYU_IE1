@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['mccormicklong#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_841" id1="122759" volume="537" start="0" page_number="841" standard_reporter="U.S." citation_global_level_id="83.002" line="1" id="122758_1" citation_local_level_id="0" >537 U.S. 841</CITATION>
+
+<CITATION party2="LONG" party1="McCORMICK" citation_global_level_id="48120.001" party2_short="LONG" line="1" id="122758_3" alternative_keys="['u.s._537_841']" end="34" entry_type="party_key" lookup_key="mccormicklong#1" id1="122758" start="17" party1_short="McCORMICK" citation_local_level_id="1" >McCORMICK v. LONG</CITATION>
+
+<NAME end="26" start="17" party1_of="122758_3" all_names="MCCORMICK" local_name_id="1" id="122758_4" >McCORMICK</NAME>
+
+<NAME end="34" start="30" all_names="LONG" party2_of="122758_3" local_name_id="2" id="122758_5" >LONG</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="u.s._537_841" id1="122759" start="44" citation_global_level_id="83.002" line="1" id="122758_2" citation_local_level_id="0" >01-10330</DOCKET>
+
+<DATE start="94" end="109" id="122758_6" >October 7, 2002</DATE>
+
+<NAME start="199" local_name_id="3" end="202" id="122758_14" all_names="SUP" >Sup</NAME>
+
+<CITATION end="260" reporter="Kan." entry_type="standard_key" no_current_file="True" lookup_key="kan._272_627" id1="Dummy_File_178050" volume="272" start="248" page_number="627" standard_reporter="KAN." citation_global_level_id="241900.001" line="3" id="122758_12" citation_local_level_id="2" >272 Kan. 627</CITATION>
+
+<CITATION end="274" reporter="P. 3d" entry_type="standard_key" no_current_file="True" lookup_key="p.3d_35_815" id1="Dummy_File_178051" volume="35" start="262" page_number="815" standard_reporter="P.3D" citation_global_level_id="241901.001" line="3" id="122758_13" citation_local_level_id="3" >35 P. 3d 815</CITATION>
+
+<RELATION theme="122758_1" includes_docket_string="01-10330" includes_docket="122758_2" theme_string="537 U.S. 841" gram_type="apposition" relation_type="asymmetric" id="122758_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 841" X_vs_Y_string="McCORMICK v. LONG" standard_case="122758_1" X_vs_Y="122758_3" gram_type="pre_nom" relation_type="equivalence" id="122758_7" ></RELATION>
+
+<RELATION theme="122758_3" includes_docket_string="01-10330" includes_docket="122758_2" theme_string="McCORMICK v. LONG" gram_type="apposition" relation_type="asymmetric" id="122758_10" ></RELATION>
+
+<RELATION theme="122758_3" party1="122758_4" party1_string="McCORMICK" theme_string="McCORMICK v. LONG" gram_type="infix" relation_type="asymmetric" id="122758_8" ></RELATION>
+
+<RELATION party2="122758_5" theme="122758_3" theme_string="McCORMICK v. LONG" party2_string="LONG" gram_type="infix" relation_type="asymmetric" id="122758_9" ></RELATION>
+

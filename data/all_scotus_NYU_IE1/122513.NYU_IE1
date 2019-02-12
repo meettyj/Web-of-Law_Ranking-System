@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['smithplati#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_823" id1="122515" volume="537" start="0" page_number="823" standard_reporter="U.S." citation_global_level_id="2521.002" line="1" id="122513_1" citation_local_level_id="0" >537 U.S. 823</CITATION>
+
+<CITATION party2="PLATI ET AL" party1="SMITH" citation_global_level_id="19179.001" party2_short="PLATI" line="1" id="122513_3" alternative_keys="['u.s._537_823']" end="37" entry_type="party_key" lookup_key="smithplati#1" id1="122513" start="17" party1_short="SMITH" citation_local_level_id="1" >SMITH v. PLATI ET AL</CITATION>
+
+<NAME end="22" start="17" party1_of="122513_3" all_names="SMITH" local_name_id="1" id="122513_4" >SMITH</NAME>
+
+<NAME end="37" start="26" all_names="PLATI" party2_of="122513_3" local_name_id="2" id="122513_5" >PLATI ET AL</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="u.s._537_823" id1="122515" start="47" citation_global_level_id="2521.002" line="1" id="122513_2" citation_local_level_id="0" >01-1821</DOCKET>
+
+<DATE start="50" end="54" id="122513_6" >1821</DATE>
+
+<DATE start="96" end="111" id="122513_7" >October 7, 2002</DATE>
+
+<NAME start="241" local_name_id="3" end="244" id="122513_15" all_names="CIR" >Cir</NAME>
+
+<CITATION end="295" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_258_1167" id1="Dummy_File_228051" volume="258" start="281" page_number="1167" standard_reporter="F.3D" citation_global_level_id="291901.001" line="3" id="122513_14" citation_local_level_id="2" >258 F. 3d 1167</CITATION>
+
+<RELATION theme="122513_1" includes_docket_string="01-1821" includes_docket="122513_2" theme_string="537 U.S. 823" gram_type="apposition" relation_type="asymmetric" id="122513_12" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 823" X_vs_Y_string="SMITH v. PLATI ET AL" standard_case="122513_1" X_vs_Y="122513_3" gram_type="pre_nom" relation_type="equivalence" id="122513_8" ></RELATION>
+
+<RELATION theme="122513_3" includes_docket_string="01-1821" includes_docket="122513_2" theme_string="SMITH v. PLATI ET AL" gram_type="apposition" relation_type="asymmetric" id="122513_11" ></RELATION>
+
+<RELATION party2="122513_5" theme="122513_3" theme_string="SMITH v. PLATI ET AL" party2_string="PLATI ET AL" gram_type="infix" relation_type="asymmetric" id="122513_10" ></RELATION>
+
+<RELATION theme="122513_3" party1="122513_4" party1_string="SMITH" theme_string="SMITH v. PLATI ET AL" gram_type="infix" relation_type="asymmetric" id="122513_9" ></RELATION>
+
+<RELATION at_date_string="1821" theme="122513_2" at_date="122513_6" theme_string="01-1821" gram_type="infix" relation_type="asymmetric" id="122513_13" ></RELATION>
+

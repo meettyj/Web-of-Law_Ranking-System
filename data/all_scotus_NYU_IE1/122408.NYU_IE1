@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['enterprisestransit#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_814" id1="122396" volume="537" start="0" page_number="814" standard_reporter="U.S." citation_global_level_id="6145.002" line="1" id="122408_1" citation_local_level_id="0" >537 U.S. 814</CITATION>
+
+<CITATION party2="DALLAS AREA RAPID TRANSIT" party1="AZTECA ENTERPRISES, INC." citation_global_level_id="24861.001" party2_short="TRANSIT" line="1" id="122408_3" alternative_keys="['u.s._537_814']" end="70" entry_type="party_key" lookup_key="enterprisestransit#1" id1="122408" start="17" party1_short="ENTERPRISES" citation_local_level_id="1" >AZTECA ENTERPRISES, INC. v. DALLAS AREA RAPID TRANSIT</CITATION>
+
+<NAME end="41" start="17" party1_of="122408_3" all_names="AZTECA ENTERPRISES INC" local_name_id="1" id="122408_4" >AZTECA ENTERPRISES, INC.</NAME>
+
+<ORGANIZATION start="17" end="40" id="122408_7" >AZTECA ENTERPRISES, INC</ORGANIZATION>
+
+<NAME end="70" start="45" all_names="DALLAS AREA RAPID TRANSIT" party2_of="122408_3" local_name_id="2" id="122408_5" >DALLAS AREA RAPID TRANSIT</NAME>
+
+<DOCKET end="87" entry_type="docket" lookup_key="u.s._537_814" id1="122396" start="80" citation_global_level_id="6145.002" line="1" id="122408_2" citation_local_level_id="0" >01-1642</DOCKET>
+
+<DATE start="129" end="144" id="122408_6" >October 7, 2002</DATE>
+
+<NAME start="273" local_name_id="3" end="276" id="122408_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="122408_1" includes_docket_string="01-1642" includes_docket="122408_2" theme_string="537 U.S. 814" gram_type="apposition" relation_type="asymmetric" id="122408_12" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 814" X_vs_Y_string="AZTECA ENTERPRISES, INC. v. DALLAS AREA RAPID TRANSIT" standard_case="122408_1" X_vs_Y="122408_3" gram_type="pre_nom" relation_type="equivalence" id="122408_8" ></RELATION>
+
+<RELATION theme="122408_3" includes_docket_string="01-1642" includes_docket="122408_2" theme_string="AZTECA ENTERPRISES, INC. v. DALLAS AREA RAPID TRANSIT" gram_type="apposition" relation_type="asymmetric" id="122408_11" ></RELATION>
+
+<RELATION party2="122408_5" theme="122408_3" theme_string="AZTECA ENTERPRISES, INC. v. DALLAS AREA RAPID TRANSIT" party2_string="DALLAS AREA RAPID TRANSIT" gram_type="infix" relation_type="asymmetric" id="122408_10" ></RELATION>
+
+<RELATION theme="122408_3" party1="122408_4" party1_string="AZTECA ENTERPRISES, INC." theme_string="AZTECA ENTERPRISES, INC. v. DALLAS AREA RAPID TRANSIT" gram_type="infix" relation_type="asymmetric" id="122408_9" ></RELATION>
+

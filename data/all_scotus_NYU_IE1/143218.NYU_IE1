@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['sowellbradshaw#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_925" id1="143221" volume="544" start="0" page_number="925" standard_reporter="U.S." citation_global_level_id="3242.002" line="1" id="143218_1" citation_local_level_id="0" >544 U.S. 925</CITATION>
+
+<CITATION party2="BRADSHAW, WARDEN" party1="SOWELL" citation_global_level_id="3242.004" party2_short="BRADSHAW" line="2" id="143218_2" alternative_keys="['f.3d_372_821', 'u.s._544_925']" end="43" no_current_file="True" entry_type="party_key" lookup_key="sowellbradshaw#1" id1="143221" start="17" party1_short="SOWELL" citation_local_level_id="1" >SOWELL v. BRADSHAW, WARDEN</CITATION>
+
+<NAME end="23" start="17" party1_of="143218_2" all_names="SOWELL" local_name_id="1" id="143218_3" >SOWELL</NAME>
+
+<NAME end="43" start="27" all_names="BRADSHAW WARDEN" party2_of="143218_2" local_name_id="2" id="143218_4" >BRADSHAW, WARDEN</NAME>
+
+<DOCKET alternative_keys="['f.3d_372_821', 'u.s._544_925']" end="60" no_current_file="True" entry_type="docket" lookup_key="sowellbradshaw#1" id1="143221" start="53" citation_global_level_id="3242.004" line="3" id="143218_7" citation_local_level_id="1" >04-8066</DOCKET>
+
+<ORGANIZATION start="66" end="96" id="143218_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="102" citation_global_level_id="3242.004" end="116" id="143218_9" citation_local_level_id="1" >March 21, 2005</DATE>
+
+<NAME start="148" local_name_id="3" end="151" id="143218_14" all_names="CIR" >Cir</NAME>
+
+<CITATION alternative_keys="['sowellbradshaw#1']" end="201" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_372_821" id1="Dummy_File_143634" volume="372" start="188" page_number="821" standard_reporter="F.3D" citation_global_level_id="207484.003" line="8" id="143218_13" citation_local_level_id="2" >372 F. 3d 821</CITATION>
+
+<RELATION theme="143218_2" party1="143218_3" party1_string="SOWELL" theme_string="SOWELL v. BRADSHAW, WARDEN" gram_type="infix" relation_type="asymmetric" id="143218_5" ></RELATION>
+
+<RELATION party2="143218_4" theme="143218_2" theme_string="SOWELL v. BRADSHAW, WARDEN" party2_string="BRADSHAW, WARDEN" gram_type="infix" relation_type="asymmetric" id="143218_6" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 925" X_vs_Y_string="SOWELL v. BRADSHAW, WARDEN" standard_case="143218_1" X_vs_Y="143218_2" gram_type="multi_line" relation_type="equivalence" id="143218_10" ></RELATION>
+
+<RELATION at_date_string="March 21, 2005" theme="143218_2" at_date="143218_9" theme_string="SOWELL v. BRADSHAW, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="143218_12" ></RELATION>
+
+<RELATION theme="143218_2" includes_docket_string="04-8066" includes_docket="143218_7" theme_string="SOWELL v. BRADSHAW, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="143218_11" ></RELATION>
+

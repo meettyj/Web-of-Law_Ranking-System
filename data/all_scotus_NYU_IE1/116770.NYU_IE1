@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['westairlines#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1111" id1="116764" volume="510" start="0" page_number="1111" standard_reporter="U.S." citation_global_level_id="2441.002" line="1" id="116770_1" citation_local_level_id="0" >510 U.S. 1111</CITATION>
+
+<CITATION party2="Northwest Airlines, Inc" party1="West" citation_global_level_id="21955.001" party2_short="Airlines" line="1" id="116770_3" alternative_keys="['u.s._510_1111']" end="49" entry_type="party_key" lookup_key="westairlines#1" id1="116770" start="18" party1_short="West" citation_local_level_id="1" >West v. Northwest Airlines, Inc</CITATION>
+
+<NAME end="22" start="18" party1_of="116770_3" all_names="WEST" local_name_id="1" id="116770_4" >West</NAME>
+
+<NAME end="49" start="26" all_names="NORTHWEST AIRLINES INC" party2_of="116770_3" local_name_id="2" id="116770_5" >Northwest Airlines, Inc</NAME>
+
+<DOCKET end="65" entry_type="docket" lookup_key="u.s._510_1111" id1="116764" start="59" citation_global_level_id="2441.002" line="1" id="116770_2" citation_local_level_id="0" >93-901</DOCKET>
+
+<DATE start="107" end="124" id="116770_6" >February 22, 1994</DATE>
+
+<NAME start="202" local_name_id="3" end="212" id="116770_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION alternative_keys="['westairlines#1']" end="250" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_995_148" id1="116770" volume="995" start="237" page_number="148" standard_reporter="F.2D" citation_global_level_id="21955.002" line="3" id="116770_12" citation_local_level_id="2" >995 F. 2d 148</CITATION>
+
+<RELATION theme="116770_1" includes_docket_string="93-901" includes_docket="116770_2" theme_string="510 U.S. 1111" gram_type="apposition" relation_type="asymmetric" id="116770_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1111" X_vs_Y_string="West v. Northwest Airlines, Inc" standard_case="116770_1" X_vs_Y="116770_3" gram_type="pre_nom" relation_type="equivalence" id="116770_7" ></RELATION>
+
+<RELATION theme="116770_3" includes_docket_string="93-901" includes_docket="116770_2" theme_string="West v. Northwest Airlines, Inc" gram_type="apposition" relation_type="asymmetric" id="116770_10" ></RELATION>
+
+<RELATION theme="116770_3" party1="116770_4" party1_string="West" theme_string="West v. Northwest Airlines, Inc" gram_type="infix" relation_type="asymmetric" id="116770_8" ></RELATION>
+
+<RELATION party2="116770_5" theme="116770_3" theme_string="West v. Northwest Airlines, Inc" party2_string="Northwest Airlines, Inc" gram_type="infix" relation_type="asymmetric" id="116770_9" ></RELATION>
+

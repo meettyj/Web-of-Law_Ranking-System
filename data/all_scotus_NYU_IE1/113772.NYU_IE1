@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['cowhigsecretary#3']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_869" id1="113780" volume="510" start="0" page_number="869" standard_reporter="U.S." citation_global_level_id="21240.002" line="1" id="113772_1" citation_local_level_id="0" >510 U.S. 869</CITATION>
+
+<CITATION party2="Stone, Secretary of the Army, et al" party1="Cowhig" citation_global_level_id="21240.006" party2_short="Secretary" line="1" id="113772_3" alternative_keys="['u.s._510_869']" end="62" entry_type="party_key" lookup_key="cowhigsecretary#3" id1="113780" start="17" party1_short="Cowhig" citation_local_level_id="1" >Cowhig v. Stone, Secretary of the Army, et al</CITATION>
+
+<NAME end="23" start="17" party1_of="113772_3" all_names="COWHIG" local_name_id="1" id="113772_4" >Cowhig</NAME>
+
+<NAME end="62" start="27" all_names="STONE SECRETARY OF THE ARMY" party2_of="113772_3" local_name_id="2" id="113772_5" >Stone, Secretary of the Army, et al</NAME>
+
+<DOCKET end="78" entry_type="docket" lookup_key="u.s._510_869" id1="113780" start="72" citation_global_level_id="21240.002" line="1" id="113772_2" citation_local_level_id="0" >93-200</DOCKET>
+
+<DATE start="120" end="135" id="113772_6" >October 4, 1993</DATE>
+
+<NAME start="213" local_name_id="3" end="223" id="113772_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="261" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_980_721" id1="Dummy_File_123997" volume="980" start="248" page_number="721" standard_reporter="F.2D" citation_global_level_id="187847.001" line="3" id="113772_12" citation_local_level_id="2" >980 F. 2d 721</CITATION>
+
+<RELATION theme="113772_1" includes_docket_string="93-200" includes_docket="113772_2" theme_string="510 U.S. 869" gram_type="apposition" relation_type="asymmetric" id="113772_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 869" X_vs_Y_string="Cowhig v. Stone, Secretary of the Army, et al" standard_case="113772_1" X_vs_Y="113772_3" gram_type="pre_nom" relation_type="equivalence" id="113772_7" ></RELATION>
+
+<RELATION theme="113772_3" includes_docket_string="93-200" includes_docket="113772_2" theme_string="Cowhig v. Stone, Secretary of the Army, et al" gram_type="apposition" relation_type="asymmetric" id="113772_10" ></RELATION>
+
+<RELATION theme="113772_3" party1="113772_4" party1_string="Cowhig" theme_string="Cowhig v. Stone, Secretary of the Army, et al" gram_type="infix" relation_type="asymmetric" id="113772_8" ></RELATION>
+
+<RELATION party2="113772_5" theme="113772_3" theme_string="Cowhig v. Stone, Secretary of the Army, et al" party2_string="Stone, Secretary of the Army, et al" gram_type="infix" relation_type="asymmetric" id="113772_9" ></RELATION>
+

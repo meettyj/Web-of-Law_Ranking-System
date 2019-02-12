@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['spicklerbank#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_815" id1="113056" volume="510" start="0" page_number="815" standard_reporter="U.S." citation_global_level_id="1931.002" line="1" id="113057_1" citation_local_level_id="0" >510 U.S. 815</CITATION>
+
+<CITATION party2="Key Bank of Southern Maine et al" party1="Spickler" citation_global_level_id="43214.001" party2_short="Bank" line="1" id="113057_3" alternative_keys="['u.s._510_815']" end="61" entry_type="party_key" lookup_key="spicklerbank#1" id1="113057" start="17" party1_short="Spickler" citation_local_level_id="1" >Spickler v. Key Bank of Southern Maine et al</CITATION>
+
+<NAME end="25" start="17" party1_of="113057_3" all_names="SPICKLER" local_name_id="1" id="113057_4" >Spickler</NAME>
+
+<NAME end="61" start="29" all_names="KEY BANK OF SOUTHERN MAINE" party2_of="113057_3" local_name_id="2" id="113057_5" >Key Bank of Southern Maine et al</NAME>
+
+<DOCKET end="78" entry_type="docket" lookup_key="u.s._510_815" id1="113056" start="71" citation_global_level_id="1931.002" line="1" id="113057_2" citation_local_level_id="0" >92-1830</DOCKET>
+
+<DATE start="74" end="78" id="113057_6" >1830</DATE>
+
+<DATE start="120" end="135" id="113057_7" >October 4, 1993</DATE>
+
+<NAME start="216" local_name_id="3" end="226" id="113057_15" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="264" reporter="A. 2d" entry_type="standard_key" no_current_file="True" lookup_key="a.2d_618_204" id1="Dummy_File_150038" volume="618" start="251" page_number="204" standard_reporter="A.2D" citation_global_level_id="213888.001" line="3" id="113057_14" citation_local_level_id="2" >618 A. 2d 204</CITATION>
+
+<RELATION theme="113057_1" includes_docket_string="92-1830" includes_docket="113057_2" theme_string="510 U.S. 815" gram_type="apposition" relation_type="asymmetric" id="113057_12" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 815" X_vs_Y_string="Spickler v. Key Bank of Southern Maine et al" standard_case="113057_1" X_vs_Y="113057_3" gram_type="pre_nom" relation_type="equivalence" id="113057_8" ></RELATION>
+
+<RELATION theme="113057_3" includes_docket_string="92-1830" includes_docket="113057_2" theme_string="Spickler v. Key Bank of Southern Maine et al" gram_type="apposition" relation_type="asymmetric" id="113057_11" ></RELATION>
+
+<RELATION party2="113057_5" theme="113057_3" theme_string="Spickler v. Key Bank of Southern Maine et al" party2_string="Key Bank of Southern Maine et al" gram_type="infix" relation_type="asymmetric" id="113057_10" ></RELATION>
+
+<RELATION theme="113057_3" party1="113057_4" party1_string="Spickler" theme_string="Spickler v. Key Bank of Southern Maine et al" gram_type="infix" relation_type="asymmetric" id="113057_9" ></RELATION>
+
+<RELATION at_date_string="1830" theme="113057_2" at_date="113057_6" theme_string="92-1830" gram_type="infix" relation_type="asymmetric" id="113057_13" ></RELATION>
+

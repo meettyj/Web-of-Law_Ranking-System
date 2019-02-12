@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['villanuevastates#7']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1183" id1="117494" volume="510" start="0" page_number="1183" standard_reporter="U.S." citation_global_level_id="1422.002" line="1" id="117494_1" citation_local_level_id="0" >510 U.S. 1183</CITATION>
+
+<CITATION party2="United States" party1="Villanueva" citation_global_level_id="63581.001" party2_short="States" line="1" id="117494_3" alternative_keys="['u.s._510_1183']" end="45" entry_type="party_key" lookup_key="villanuevastates#7" id1="125810" start="18" party1_short="Villanueva" citation_local_level_id="1" >Villanueva v. United States</CITATION>
+
+<NAME end="28" start="18" party1_of="117494_3" all_names="VILLANUEVA" local_name_id="1" id="117494_4" >Villanueva</NAME>
+
+<NAME end="45" start="32" all_names="UNITED STATES" party2_of="117494_3" local_name_id="2" id="117494_5" >United States</NAME>
+
+<DOCKET end="62" entry_type="docket" lookup_key="u.s._510_1183" id1="117494" start="55" citation_global_level_id="1422.002" line="1" id="117494_2" citation_local_level_id="0" >93-7729</DOCKET>
+
+<DATE start="104" end="117" id="117494_6" >March 7, 1994</DATE>
+
+<NAME start="194" local_name_id="3" end="204" id="117494_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="241" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_14_590" id1="Dummy_File_29253" volume="14" start="229" page_number="590" standard_reporter="F.3D" citation_global_level_id="93103.001" line="3" id="117494_12" citation_local_level_id="2" >14 F. 3d 590</CITATION>
+
+<RELATION theme="117494_1" includes_docket_string="93-7729" includes_docket="117494_2" theme_string="510 U.S. 1183" gram_type="apposition" relation_type="asymmetric" id="117494_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1183" X_vs_Y_string="Villanueva v. United States" standard_case="117494_1" X_vs_Y="117494_3" gram_type="pre_nom" relation_type="equivalence" id="117494_7" ></RELATION>
+
+<RELATION theme="117494_3" includes_docket_string="93-7729" includes_docket="117494_2" theme_string="Villanueva v. United States" gram_type="apposition" relation_type="asymmetric" id="117494_10" ></RELATION>
+
+<RELATION theme="117494_3" party1="117494_4" party1_string="Villanueva" theme_string="Villanueva v. United States" gram_type="infix" relation_type="asymmetric" id="117494_8" ></RELATION>
+
+<RELATION party2="117494_5" theme="117494_3" theme_string="Villanueva v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="117494_9" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['sorkporbank#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_832" id1="122634" volume="537" start="0" page_number="832" standard_reporter="U.S." citation_global_level_id="16052.002" line="1" id="122643_1" citation_local_level_id="0" >537 U.S. 832</CITATION>
+
+<CITATION party2="BANK OF BOSTON" party1="SORKPOR" citation_global_level_id="43118.001" party2_short="BANK" line="1" id="122643_3" alternative_keys="['u.s._537_832']" end="42" entry_type="party_key" lookup_key="sorkporbank#2" id1="126022" start="17" party1_short="SORKPOR" citation_local_level_id="1" >SORKPOR v. BANK OF BOSTON</CITATION>
+
+<NAME end="24" start="17" party1_of="122643_3" all_names="SORKPOR" local_name_id="1" id="122643_4" >SORKPOR</NAME>
+
+<NAME end="42" start="28" all_names="BANK OF BOSTON" party2_of="122643_3" local_name_id="2" id="122643_5" >BANK OF BOSTON</NAME>
+
+<DOCKET end="60" entry_type="docket" lookup_key="u.s._537_832" id1="122634" start="52" citation_global_level_id="16052.002" line="1" id="122643_2" citation_local_level_id="0" >01-10018</DOCKET>
+
+<DATE start="102" end="117" id="122643_6" >October 7, 2002</DATE>
+
+<NAME start="236" local_name_id="3" end="249" id="122643_12" all_names="C A 1ST CIR" >C. A. 1st Cir</NAME>
+
+<NAME start="251" local_name_id="4" end="261" id="122643_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="122643_1" includes_docket_string="01-10018" includes_docket="122643_2" theme_string="537 U.S. 832" gram_type="apposition" relation_type="asymmetric" id="122643_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 832" X_vs_Y_string="SORKPOR v. BANK OF BOSTON" standard_case="122643_1" X_vs_Y="122643_3" gram_type="pre_nom" relation_type="equivalence" id="122643_7" ></RELATION>
+
+<RELATION theme="122643_3" includes_docket_string="01-10018" includes_docket="122643_2" theme_string="SORKPOR v. BANK OF BOSTON" gram_type="apposition" relation_type="asymmetric" id="122643_10" ></RELATION>
+
+<RELATION theme="122643_3" party1="122643_4" party1_string="SORKPOR" theme_string="SORKPOR v. BANK OF BOSTON" gram_type="infix" relation_type="asymmetric" id="122643_8" ></RELATION>
+
+<RELATION party2="122643_5" theme="122643_3" theme_string="SORKPOR v. BANK OF BOSTON" party2_string="BANK OF BOSTON" gram_type="infix" relation_type="asymmetric" id="122643_9" ></RELATION>
+

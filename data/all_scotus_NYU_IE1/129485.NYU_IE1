@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['crossstates#5']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1021" id1="129475" volume="538" start="0" page_number="1021" standard_reporter="U.S." citation_global_level_id="11573.002" line="1" id="129485_1" citation_local_level_id="0" >538 U.S. 1021</CITATION>
+
+<CITATION party2="UNITED STATES" party1="CROSS" citation_global_level_id="54774.001" party2_short="STATES" line="1" id="129485_3" alternative_keys="['u.s._538_1021']" end="40" entry_type="party_key" lookup_key="crossstates#5" id1="129834" start="18" party1_short="CROSS" citation_local_level_id="1" >CROSS v. UNITED STATES</CITATION>
+
+<NAME end="23" start="18" party1_of="129485_3" all_names="CROSS" local_name_id="1" id="129485_4" >CROSS</NAME>
+
+<NAME end="40" start="27" all_names="UNITED STATES" party2_of="129485_3" local_name_id="2" id="129485_5" >UNITED STATES</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._538_1021" id1="129475" start="50" citation_global_level_id="11573.002" line="1" id="129485_2" citation_local_level_id="0" >02-9749</DOCKET>
+
+<DATE start="99" end="110" id="129485_6" >May 5, 2003</DATE>
+
+<NAME start="243" local_name_id="3" end="246" id="129485_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="129485_1" includes_docket_string="02-9749" includes_docket="129485_2" theme_string="538 U.S. 1021" gram_type="apposition" relation_type="asymmetric" id="129485_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1021" X_vs_Y_string="CROSS v. UNITED STATES" standard_case="129485_1" X_vs_Y="129485_3" gram_type="pre_nom" relation_type="equivalence" id="129485_7" ></RELATION>
+
+<RELATION theme="129485_3" includes_docket_string="02-9749" includes_docket="129485_2" theme_string="CROSS v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="129485_10" ></RELATION>
+
+<RELATION theme="129485_3" party1="129485_4" party1_string="CROSS" theme_string="CROSS v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="129485_8" ></RELATION>
+
+<RELATION party2="129485_5" theme="129485_3" theme_string="CROSS v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="129485_9" ></RELATION>
+

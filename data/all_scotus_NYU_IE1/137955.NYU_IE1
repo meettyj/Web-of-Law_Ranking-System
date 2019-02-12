@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['kingindiana#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_817" id1="137951" volume="543" start="0" page_number="817" standard_reporter="U.S." citation_global_level_id="12593.002" line="3" id="137955_2" citation_local_level_id="0" >543 U.S. 817</CITATION>
+
+<CITATION party2="INDIANA" party1="KING" citation_global_level_id="26512.001" party2_short="INDIANA" line="3" id="137955_4" alternative_keys="['u.s._543_817']" end="32" entry_type="party_key" lookup_key="kingindiana#1" id1="137955" start="17" party1_short="KING" citation_local_level_id="1" >KING v. INDIANA</CITATION>
+
+<NAME end="21" start="17" party1_of="137955_4" all_names="KING" local_name_id="1" id="137955_5" >KING</NAME>
+
+<NAME end="32" start="25" all_names="INDIANA" party2_of="137955_4" local_name_id="2" id="137955_6" >INDIANA</NAME>
+
+<DOCKET end="49" entry_type="docket" lookup_key="u.s._543_817" id1="137951" start="42" citation_global_level_id="12593.002" line="3" id="137955_3" citation_local_level_id="0" >03-1641</DOCKET>
+
+<ORGANIZATION start="55" end="85" id="137955_12" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="91" citation_global_level_id="26512.001" end="106" id="137955_13" citation_local_level_id="1" >October 4, 2004</DATE>
+
+<NAME start="128" local_name_id="3" end="130" id="137955_16" all_names="CT" >Ct</NAME>
+
+<CITATION end="192" reporter="N. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.e.2d_799_42" id1="Dummy_File_176601" volume="799" start="177" page_number="42" standard_reporter="N.E.2D" citation_global_level_id="240451.001" line="8" id="137955_15" citation_local_level_id="2" >799 N. E. 2d 42</CITATION>
+
+<RELATION theme="137955_2" includes_docket_string="03-1641" includes_docket="137955_3" theme_string="543 U.S. 817" gram_type="apposition" relation_type="asymmetric" id="137955_11" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 817" X_vs_Y_string="KING v. INDIANA" standard_case="137955_2" X_vs_Y="137955_4" gram_type="pre_nom" relation_type="equivalence" id="137955_7" ></RELATION>
+
+<RELATION theme="137955_4" includes_docket_string="03-1641" includes_docket="137955_3" theme_string="KING v. INDIANA" gram_type="apposition" relation_type="asymmetric" id="137955_10" ></RELATION>
+
+<RELATION theme="137955_4" party1="137955_5" party1_string="KING" theme_string="KING v. INDIANA" gram_type="infix" relation_type="asymmetric" id="137955_8" ></RELATION>
+
+<RELATION party2="137955_6" theme="137955_4" theme_string="KING v. INDIANA" party2_string="INDIANA" gram_type="infix" relation_type="asymmetric" id="137955_9" ></RELATION>
+
+<RELATION at_date_string="October 4, 2004" theme="137955_4" at_date="137955_13" theme_string="KING v. INDIANA" gram_type="multi_line" relation_type="asymmetric" id="137955_14" ></RELATION>
+

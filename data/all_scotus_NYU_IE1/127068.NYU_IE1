@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['fieldsoklahoma#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1181" id1="127068" volume="537" start="0" page_number="1181" standard_reporter="U.S." citation_global_level_id="9262.002" line="1" id="127068_1" citation_local_level_id="0" >537 U.S. 1181</CITATION>
+
+<CITATION party2="OKLAHOMA" party1="FIELDS" citation_global_level_id="9262.001" party2_short="OKLAHOMA" line="1" id="127068_4" alternative_keys="['u.s._537_1181']" end="36" entry_type="party_key" lookup_key="fieldsoklahoma#1" id1="127068" start="18" party1_short="FIELDS" citation_local_level_id="1" >FIELDS v. OKLAHOMA</CITATION>
+
+<NAME end="24" start="18" party1_of="127068_4" all_names="FIELDS" local_name_id="1" id="127068_5" >FIELDS</NAME>
+
+<NAME end="36" start="28" all_names="OKLAHOMA" party2_of="127068_4" local_name_id="2" id="127068_6" >OKLAHOMA</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="u.s._537_1181" id1="127068" start="46" citation_global_level_id="9262.002" line="1" id="127068_3" citation_local_level_id="0" >02-9009</DOCKET>
+
+<CITATION end="61" reporter="A" entry_type="standard_key" no_current_file="True" lookup_key="a._02_676" id1="Dummy_File_121027" volume="02" start="55" page_number="676" standard_reporter="A." citation_global_level_id="184877.001" line="1" id="127068_2" citation_local_level_id="2" >02A676</CITATION>
+
+<DATE start="104" end="121" id="127068_7" >February 13, 2003</DATE>
+
+<NAME start="225" local_name_id="3" end="227" id="127068_13" all_names="CT" >Ct</NAME>
+
+<RELATION theme="127068_1" includes_docket_string="02-9009" includes_docket="127068_3" theme_string="537 U.S. 1181" gram_type="apposition" relation_type="asymmetric" id="127068_12" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1181" X_vs_Y_string="FIELDS v. OKLAHOMA" standard_case="127068_1" X_vs_Y="127068_4" gram_type="pre_nom" relation_type="equivalence" id="127068_8" ></RELATION>
+
+<RELATION theme="127068_4" includes_docket_string="02-9009" includes_docket="127068_3" theme_string="FIELDS v. OKLAHOMA" gram_type="apposition" relation_type="asymmetric" id="127068_11" ></RELATION>
+
+<RELATION party2="127068_6" theme="127068_4" theme_string="FIELDS v. OKLAHOMA" party2_string="OKLAHOMA" gram_type="infix" relation_type="asymmetric" id="127068_10" ></RELATION>
+
+<RELATION theme="127068_4" party1="127068_5" party1_string="FIELDS" theme_string="FIELDS v. OKLAHOMA" gram_type="infix" relation_type="asymmetric" id="127068_9" ></RELATION>
+

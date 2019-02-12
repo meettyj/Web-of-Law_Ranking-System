@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['paulinocalifornia#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._536_928" id1="121481" volume="536" start="0" page_number="928" standard_reporter="U.S." citation_global_level_id="4278.002" line="1" id="121481_1" citation_local_level_id="0" >536 U.S. 928</CITATION>
+
+<CITATION party2="CALIFORNIA" party1="TREJO PAULINO" citation_global_level_id="4278.001" party2_short="CALIFORNIA" line="2" id="121481_2" alternative_keys="['u.s._536_928']" end="44" entry_type="party_key" lookup_key="paulinocalifornia#1" id1="121481" start="17" party1_short="PAULINO" citation_local_level_id="1" >TREJO PAULINO v. CALIFORNIA</CITATION>
+
+<NAME end="30" start="17" party1_of="121481_2" all_names="TREJO PAULINO" local_name_id="1" id="121481_3" >TREJO PAULINO</NAME>
+
+<NAME end="44" start="34" all_names="CALIFORNIA" party2_of="121481_2" local_name_id="2" id="121481_4" >CALIFORNIA</NAME>
+
+<DOCKET end="61" entry_type="docket" lookup_key="paulinocalifornia#1" id1="121481" start="54" citation_global_level_id="4278.001" line="3" id="121481_7" citation_local_level_id="1" >01-9679</DOCKET>
+
+<DATE start="107" citation_global_level_id="4278.001" end="120" id="121481_8" citation_local_level_id="1" >June 17, 2002</DATE>
+
+<NAME start="142" local_name_id="3" end="144" id="121481_12" all_names="CT" >Ct</NAME>
+
+<RELATION theme="121481_2" party1="121481_3" party1_string="TREJO PAULINO" theme_string="TREJO PAULINO v. CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="121481_5" ></RELATION>
+
+<RELATION party2="121481_4" theme="121481_2" theme_string="TREJO PAULINO v. CALIFORNIA" party2_string="CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="121481_6" ></RELATION>
+
+<RELATION standard_case_string="536 U.S. 928" X_vs_Y_string="TREJO PAULINO v. CALIFORNIA" standard_case="121481_1" X_vs_Y="121481_2" gram_type="multi_line" relation_type="equivalence" id="121481_9" ></RELATION>
+
+<RELATION at_date_string="June 17, 2002" theme="121481_2" at_date="121481_8" theme_string="TREJO PAULINO v. CALIFORNIA" gram_type="multi_line" relation_type="asymmetric" id="121481_11" ></RELATION>
+
+<RELATION theme="121481_2" includes_docket_string="01-9679" includes_docket="121481_7" theme_string="TREJO PAULINO v. CALIFORNIA" gram_type="multi_line" relation_type="asymmetric" id="121481_10" ></RELATION>
+

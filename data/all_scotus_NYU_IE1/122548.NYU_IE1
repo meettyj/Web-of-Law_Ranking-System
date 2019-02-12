@@ -1,0 +1,40 @@
+<CITATION alternative_keys="['sovakpharmaceutical#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_825" id1="122545" volume="537" start="0" page_number="825" standard_reporter="U.S." citation_global_level_id="434.002" line="1" id="122548_1" citation_local_level_id="0" >537 U.S. 825</CITATION>
+
+<CITATION party2="CHUGAI PHARMACEUTICAL CO. ET AL" party1="SOVAK ET AL." citation_global_level_id="31313.001" party2_short="PHARMACEUTICAL" line="1" id="122548_3" alternative_keys="['u.s._537_825']" end="64" entry_type="party_key" lookup_key="sovakpharmaceutical#1" id1="122548" start="17" party1_short="SOVAK" citation_local_level_id="1" >SOVAK ET AL. v. CHUGAI PHARMACEUTICAL CO. ET AL</CITATION>
+
+<NAME end="29" start="17" party1_of="122548_3" all_names="SOVAK" local_name_id="1" id="122548_4" >SOVAK ET AL.</NAME>
+
+<NAME start="17" local_name_id="1" end="28" id="122548_8" all_names="SOVAK" >SOVAK ET AL</NAME>
+
+<NAME end="64" start="33" all_names="CHUGAI PHARMACEUTICAL CO" party2_of="122548_3" local_name_id="2" id="122548_5" >CHUGAI PHARMACEUTICAL CO. ET AL</NAME>
+
+<ORGANIZATION start="55" end="57" id="122548_9" >CO</ORGANIZATION>
+
+<DOCKET end="81" entry_type="docket" lookup_key="u.s._537_825" id1="122545" start="74" citation_global_level_id="434.002" line="1" id="122548_2" citation_local_level_id="0" >01-1860</DOCKET>
+
+<DATE start="77" end="81" id="122548_6" >1860</DATE>
+
+<ORGANIZATION start="87" end="117" id="122548_10" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="123" end="138" id="122548_7" >October 7, 2002</DATE>
+
+<ORGANIZATION start="160" end="230" id="122548_11" >CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT</ORGANIZATION>
+
+<NAME start="267" local_name_id="3" end="270" id="122548_20" all_names="CIR" >Cir</NAME>
+
+<CITATION end="320" reporter="F.3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_280_1266" id1="Dummy_File_187449" volume="280" start="307" page_number="1266" standard_reporter="F.3D" citation_global_level_id="251299.001" line="3" id="122548_18" citation_local_level_id="2" >280 F.3d 1266</CITATION>
+
+<CITATION end="338" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_289_615" id1="Dummy_File_187450" volume="289" start="325" page_number="615" standard_reporter="F.3D" citation_global_level_id="251300.001" line="3" id="122548_19" citation_local_level_id="3" >289 F. 3d 615</CITATION>
+
+<RELATION theme="122548_1" includes_docket_string="01-1860" includes_docket="122548_2" theme_string="537 U.S. 825" gram_type="apposition" relation_type="asymmetric" id="122548_16" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 825" X_vs_Y_string="SOVAK ET AL. v. CHUGAI PHARMACEUTICAL CO. ET AL" standard_case="122548_1" X_vs_Y="122548_3" gram_type="pre_nom" relation_type="equivalence" id="122548_12" ></RELATION>
+
+<RELATION theme="122548_3" includes_docket_string="01-1860" includes_docket="122548_2" theme_string="SOVAK ET AL. v. CHUGAI PHARMACEUTICAL CO. ET AL" gram_type="apposition" relation_type="asymmetric" id="122548_15" ></RELATION>
+
+<RELATION theme="122548_3" party1="122548_4" party1_string="SOVAK ET AL." theme_string="SOVAK ET AL. v. CHUGAI PHARMACEUTICAL CO. ET AL" gram_type="infix" relation_type="asymmetric" id="122548_13" ></RELATION>
+
+<RELATION party2="122548_5" theme="122548_3" theme_string="SOVAK ET AL. v. CHUGAI PHARMACEUTICAL CO. ET AL" party2_string="CHUGAI PHARMACEUTICAL CO. ET AL" gram_type="infix" relation_type="asymmetric" id="122548_14" ></RELATION>
+
+<RELATION at_date_string="1860" theme="122548_2" at_date="122548_6" theme_string="01-1860" gram_type="infix" relation_type="asymmetric" id="122548_17" ></RELATION>
+

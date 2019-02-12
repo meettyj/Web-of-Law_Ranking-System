@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['chmielpennsylvania#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1013" id1="115627" volume="510" start="0" page_number="1013" standard_reporter="U.S." citation_global_level_id="3557.002" line="1" id="115630_1" citation_local_level_id="0" >510 U.S. 1013</CITATION>
+
+<CITATION party2="Pennsylvania" party1="Chmiel" citation_global_level_id="44252.001" party2_short="Pennsylvania" line="1" id="115630_3" alternative_keys="['u.s._510_1013']" end="40" entry_type="party_key" lookup_key="chmielpennsylvania#2" id1="115630" start="18" party1_short="Chmiel" citation_local_level_id="1" >Chmiel v. Pennsylvania</CITATION>
+
+<NAME end="24" start="18" party1_of="115630_3" all_names="CHMIEL" local_name_id="1" id="115630_4" >Chmiel</NAME>
+
+<NAME end="40" start="28" all_names="PENNSYLVANIA" party2_of="115630_3" local_name_id="2" id="115630_5" >Pennsylvania</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._510_1013" id1="115627" start="50" citation_global_level_id="3557.002" line="1" id="115630_2" citation_local_level_id="0" >93-715</DOCKET>
+
+<DATE start="98" end="114" id="115630_6" >December 6, 1993</DATE>
+
+<NAME start="192" local_name_id="3" end="202" id="115630_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="261" reporter="A. 2d" entry_type="standard_key" no_current_file="True" lookup_key="a.2d_610_1058" id1="Dummy_File_198513" volume="610" start="247" page_number="1058" standard_reporter="A.2D" citation_global_level_id="262363.001" line="3" id="115630_12" citation_local_level_id="2" >610 A. 2d 1058</CITATION>
+
+<RELATION theme="115630_1" includes_docket_string="93-715" includes_docket="115630_2" theme_string="510 U.S. 1013" gram_type="apposition" relation_type="asymmetric" id="115630_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1013" X_vs_Y_string="Chmiel v. Pennsylvania" standard_case="115630_1" X_vs_Y="115630_3" gram_type="pre_nom" relation_type="equivalence" id="115630_7" ></RELATION>
+
+<RELATION theme="115630_3" includes_docket_string="93-715" includes_docket="115630_2" theme_string="Chmiel v. Pennsylvania" gram_type="apposition" relation_type="asymmetric" id="115630_10" ></RELATION>
+
+<RELATION theme="115630_3" party1="115630_4" party1_string="Chmiel" theme_string="Chmiel v. Pennsylvania" gram_type="infix" relation_type="asymmetric" id="115630_8" ></RELATION>
+
+<RELATION party2="115630_5" theme="115630_3" theme_string="Chmiel v. Pennsylvania" party2_string="Pennsylvania" gram_type="infix" relation_type="asymmetric" id="115630_9" ></RELATION>
+

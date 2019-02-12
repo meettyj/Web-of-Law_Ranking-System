@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['bellstates#9']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_991" id1="129070" volume="538" start="0" page_number="991" standard_reporter="U.S." citation_global_level_id="6280.002" line="1" id="129075_1" citation_local_level_id="0" >538 U.S. 991</CITATION>
+
+<CITATION party2="UNITED STATES" party1="BELL" citation_global_level_id="52767.001" party2_short="STATES" line="1" id="129075_3" alternative_keys="['u.s._538_991']" end="38" entry_type="party_key" lookup_key="bellstates#9" id1="118615" start="17" party1_short="BELL" citation_local_level_id="1" >BELL v. UNITED STATES</CITATION>
+
+<NAME end="21" start="17" party1_of="129075_3" all_names="BELL" local_name_id="1" id="129075_4" >BELL</NAME>
+
+<NAME end="38" start="25" all_names="UNITED STATES" party2_of="129075_3" local_name_id="2" id="129075_5" >UNITED STATES</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._538_991" id1="129070" start="48" citation_global_level_id="6280.002" line="1" id="129075_2" citation_local_level_id="0" >02-9485</DOCKET>
+
+<DATE start="97" end="111" id="129075_6" >April 21, 2003</DATE>
+
+<NAME start="244" local_name_id="3" end="247" id="129075_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="129075_1" includes_docket_string="02-9485" includes_docket="129075_2" theme_string="538 U.S. 991" gram_type="apposition" relation_type="asymmetric" id="129075_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 991" X_vs_Y_string="BELL v. UNITED STATES" standard_case="129075_1" X_vs_Y="129075_3" gram_type="pre_nom" relation_type="equivalence" id="129075_7" ></RELATION>
+
+<RELATION theme="129075_3" includes_docket_string="02-9485" includes_docket="129075_2" theme_string="BELL v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="129075_10" ></RELATION>
+
+<RELATION theme="129075_3" party1="129075_4" party1_string="BELL" theme_string="BELL v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="129075_8" ></RELATION>
+
+<RELATION party2="129075_5" theme="129075_3" theme_string="BELL v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="129075_9" ></RELATION>
+

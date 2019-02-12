@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['scottmorgan#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_906" id1="118566" volume="535" start="0" page_number="906" standard_reporter="U.S." citation_global_level_id="1464.002" line="1" id="118561_1" citation_local_level_id="0" >535 U.S. 906</CITATION>
+
+<CITATION party2="MORGAN, JUDGE, UNITED STATES DISTRICT COURT FOR THE EASTERN DISTRICT OF VIRGINIA" party1="SCOTT" citation_global_level_id="1464.003" party2_short="MORGAN" line="2" id="118561_3" alternative_keys="['u.s._535_906']" end="106" entry_type="party_key" lookup_key="scottmorgan#1" id1="118566" start="17" party1_short="SCOTT" citation_local_level_id="1" >SCOTT v. MORGAN, JUDGE, UNITED STATES DISTRICT COURT FOR THE EASTERN DISTRICT OF VIRGINIA</CITATION>
+
+<NAME end="22" start="17" party1_of="118561_3" all_names="SCOTT" local_name_id="1" id="118561_4" >SCOTT</NAME>
+
+<NAME end="106" start="26" all_names="MORGAN JUDGE UNITED STATES DISTRICT COURT FOR THE EASTERN DISTRICT OF VIRGINIA" party2_of="118561_3" local_name_id="2" id="118561_5" >MORGAN, JUDGE, UNITED STATES DISTRICT COURT FOR THE EASTERN DISTRICT OF VIRGINIA</NAME>
+
+<DOCKET alternative_keys="['u.s._535_906']" end="123" entry_type="docket" lookup_key="scottmorgan#1" id1="118566" start="116" citation_global_level_id="1464.003" line="2" id="118561_2" citation_local_level_id="1" >01-1095</DOCKET>
+
+<DATE start="169" citation_global_level_id="1464.003" end="182" id="118561_9" citation_local_level_id="1" >March 4, 2002</DATE>
+
+<NAME start="214" local_name_id="3" end="217" id="118561_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="118561_3" includes_docket_string="01-1095" includes_docket="118561_2" theme_string="SCOTT v. MORGAN, JUDGE, UNITED STATES DISTRICT COURT FOR THE EASTERN DISTRICT OF VIRGINIA" gram_type="apposition" relation_type="asymmetric" id="118561_8" ></RELATION>
+
+<RELATION theme="118561_3" party1="118561_4" party1_string="SCOTT" theme_string="SCOTT v. MORGAN, JUDGE, UNITED STATES DISTRICT COURT FOR THE EASTERN DISTRICT OF VIRGINIA" gram_type="infix" relation_type="asymmetric" id="118561_6" ></RELATION>
+
+<RELATION party2="118561_5" theme="118561_3" theme_string="SCOTT v. MORGAN, JUDGE, UNITED STATES DISTRICT COURT FOR THE EASTERN DISTRICT OF VIRGINIA" party2_string="MORGAN, JUDGE, UNITED STATES DISTRICT COURT FOR THE EASTERN DISTRICT OF VIRGINIA" gram_type="infix" relation_type="asymmetric" id="118561_7" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 906" X_vs_Y_string="SCOTT v. MORGAN, JUDGE, UNITED STATES DISTRICT COURT FOR THE EASTERN DISTRICT OF VIRGINIA" standard_case="118561_1" X_vs_Y="118561_3" gram_type="multi_line" relation_type="equivalence" id="118561_10" ></RELATION>
+
+<RELATION at_date_string="March 4, 2002" theme="118561_3" at_date="118561_9" theme_string="SCOTT v. MORGAN, JUDGE, UNITED STATES DISTRICT COURT FOR THE EASTERN DISTRICT OF VIRGINIA" gram_type="multi_line" relation_type="asymmetric" id="118561_11" ></RELATION>
+

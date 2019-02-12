@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['pittstates#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1104" id1="126096" volume="537" start="0" page_number="1104" standard_reporter="U.S." citation_global_level_id="2239.002" line="1" id="126097_1" citation_local_level_id="0" >537 U.S. 1104</CITATION>
+
+<CITATION party2="UNITED STATES" party1="PITT" citation_global_level_id="40982.001" party2_short="STATES" line="1" id="126097_3" alternative_keys="['u.s._537_1104']" end="39" entry_type="party_key" lookup_key="pittstates#1" id1="126097" start="18" party1_short="PITT" citation_local_level_id="1" >PITT v. UNITED STATES</CITATION>
+
+<NAME end="22" start="18" party1_of="126097_3" all_names="PITT" local_name_id="1" id="126097_4" >PITT</NAME>
+
+<NAME end="39" start="26" all_names="UNITED STATES" party2_of="126097_3" local_name_id="2" id="126097_5" >UNITED STATES</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._537_1104" id1="126096" start="49" citation_global_level_id="2239.002" line="1" id="126097_2" citation_local_level_id="0" >02-319</DOCKET>
+
+<DATE start="97" end="113" id="126097_6" >January 13, 2003</DATE>
+
+<NAME start="243" local_name_id="3" end="246" id="126097_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="126097_1" includes_docket_string="02-319" includes_docket="126097_2" theme_string="537 U.S. 1104" gram_type="apposition" relation_type="asymmetric" id="126097_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1104" X_vs_Y_string="PITT v. UNITED STATES" standard_case="126097_1" X_vs_Y="126097_3" gram_type="pre_nom" relation_type="equivalence" id="126097_7" ></RELATION>
+
+<RELATION theme="126097_3" includes_docket_string="02-319" includes_docket="126097_2" theme_string="PITT v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="126097_10" ></RELATION>
+
+<RELATION theme="126097_3" party1="126097_4" party1_string="PITT" theme_string="PITT v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="126097_8" ></RELATION>
+
+<RELATION party2="126097_5" theme="126097_3" theme_string="PITT v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="126097_9" ></RELATION>
+

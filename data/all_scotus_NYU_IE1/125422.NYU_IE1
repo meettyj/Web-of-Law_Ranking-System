@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['davistexas#7']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1051" id1="125417" volume="537" start="0" page_number="1051" standard_reporter="U.S." citation_global_level_id="4155.002" line="1" id="125422_1" citation_local_level_id="0" >537 U.S. 1051</CITATION>
+
+<CITATION party2="TEXAS" party1="DAVIS" citation_global_level_id="58337.001" party2_short="TEXAS" line="1" id="125422_3" alternative_keys="['u.s._537_1051']" end="32" entry_type="party_key" lookup_key="davistexas#7" id1="144692" start="18" party1_short="DAVIS" citation_local_level_id="1" >DAVIS v. TEXAS</CITATION>
+
+<NAME end="23" start="18" party1_of="125422_3" all_names="DAVIS" local_name_id="1" id="125422_4" >DAVIS</NAME>
+
+<NAME end="32" start="27" all_names="TEXAS" party2_of="125422_3" local_name_id="2" id="125422_5" >TEXAS</NAME>
+
+<DOCKET end="49" entry_type="docket" lookup_key="u.s._537_1051" id1="125417" start="42" citation_global_level_id="4155.002" line="1" id="125422_2" citation_local_level_id="0" >02-6535</DOCKET>
+
+<DATE start="91" end="107" id="125422_6" >December 2, 2002</DATE>
+
+<NAME start="223" local_name_id="3" end="225" id="125422_12" all_names="CT" >Ct</NAME>
+
+<RELATION theme="125422_1" includes_docket_string="02-6535" includes_docket="125422_2" theme_string="537 U.S. 1051" gram_type="apposition" relation_type="asymmetric" id="125422_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1051" X_vs_Y_string="DAVIS v. TEXAS" standard_case="125422_1" X_vs_Y="125422_3" gram_type="pre_nom" relation_type="equivalence" id="125422_7" ></RELATION>
+
+<RELATION theme="125422_3" includes_docket_string="02-6535" includes_docket="125422_2" theme_string="DAVIS v. TEXAS" gram_type="apposition" relation_type="asymmetric" id="125422_10" ></RELATION>
+
+<RELATION theme="125422_3" party1="125422_4" party1_string="DAVIS" theme_string="DAVIS v. TEXAS" gram_type="infix" relation_type="asymmetric" id="125422_8" ></RELATION>
+
+<RELATION party2="125422_5" theme="125422_3" theme_string="DAVIS v. TEXAS" party2_string="TEXAS" gram_type="infix" relation_type="asymmetric" id="125422_9" ></RELATION>
+

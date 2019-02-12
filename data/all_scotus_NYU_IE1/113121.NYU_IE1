@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['lottierwashington#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_820" id1="113112" volume="510" start="0" page_number="820" standard_reporter="U.S." citation_global_level_id="4473.002" line="1" id="113121_1" citation_local_level_id="0" >510 U.S. 820</CITATION>
+
+<CITATION party2="Washington" party1="Lottier" citation_global_level_id="48882.001" party2_short="Washington" line="1" id="113121_3" alternative_keys="['u.s._510_820']" end="38" entry_type="party_key" lookup_key="lottierwashington#1" id1="113121" start="17" party1_short="Lottier" citation_local_level_id="1" >Lottier v. Washington</CITATION>
+
+<NAME end="24" start="17" party1_of="113121_3" all_names="LOTTIER" local_name_id="1" id="113121_4" >Lottier</NAME>
+
+<NAME end="38" start="28" all_names="WASHINGTON" party2_of="113121_3" local_name_id="2" id="113121_5" >Washington</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._510_820" id1="113112" start="48" citation_global_level_id="4473.002" line="1" id="113121_2" citation_local_level_id="0" >92-1914</DOCKET>
+
+<DATE start="51" end="55" id="113121_6" >1914</DATE>
+
+<DATE start="97" end="112" id="113121_7" >October 4, 1993</DATE>
+
+<NAME start="190" local_name_id="3" end="200" id="113121_15" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="243" reporter="Wash. App." entry_type="standard_key" no_current_file="True" lookup_key="wash.app._67_1031" id1="Dummy_File_180340" volume="67" start="225" page_number="1031" standard_reporter="WASH.APP." citation_global_level_id="244190.001" line="3" id="113121_14" citation_local_level_id="2" >67 Wash. App. 1031</CITATION>
+
+<RELATION theme="113121_1" includes_docket_string="92-1914" includes_docket="113121_2" theme_string="510 U.S. 820" gram_type="apposition" relation_type="asymmetric" id="113121_12" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 820" X_vs_Y_string="Lottier v. Washington" standard_case="113121_1" X_vs_Y="113121_3" gram_type="pre_nom" relation_type="equivalence" id="113121_8" ></RELATION>
+
+<RELATION theme="113121_3" includes_docket_string="92-1914" includes_docket="113121_2" theme_string="Lottier v. Washington" gram_type="apposition" relation_type="asymmetric" id="113121_11" ></RELATION>
+
+<RELATION party2="113121_5" theme="113121_3" theme_string="Lottier v. Washington" party2_string="Washington" gram_type="infix" relation_type="asymmetric" id="113121_10" ></RELATION>
+
+<RELATION theme="113121_3" party1="113121_4" party1_string="Lottier" theme_string="Lottier v. Washington" gram_type="infix" relation_type="asymmetric" id="113121_9" ></RELATION>
+
+<RELATION at_date_string="1914" theme="113121_2" at_date="113121_6" theme_string="92-1914" gram_type="infix" relation_type="asymmetric" id="113121_13" ></RELATION>
+

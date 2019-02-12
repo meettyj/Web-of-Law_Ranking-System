@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['robbinsstates#3']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_965" id1="119220" volume="535" start="0" page_number="965" standard_reporter="U.S." citation_global_level_id="11713.002" line="1" id="119217_1" citation_local_level_id="0" >535 U.S. 965</CITATION>
+
+<CITATION party2="UNITED STATES" party1="ROBBINS" citation_global_level_id="47637.001" party2_short="STATES" line="2" id="119217_2" alternative_keys="['u.s._535_965']" end="41" entry_type="party_key" lookup_key="robbinsstates#3" id1="119217" start="17" party1_short="ROBBINS" citation_local_level_id="1" >ROBBINS v. UNITED STATES</CITATION>
+
+<NAME end="24" start="17" party1_of="119217_2" all_names="ROBBINS" local_name_id="1" id="119217_3" >ROBBINS</NAME>
+
+<NAME end="41" start="28" all_names="UNITED STATES" party2_of="119217_2" local_name_id="2" id="119217_4" >UNITED STATES</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="robbinsstates#3" id1="119217" start="51" citation_global_level_id="47637.001" line="3" id="119217_7" citation_local_level_id="1" >01-8593</DOCKET>
+
+<DATE start="104" citation_global_level_id="47637.001" end="118" id="119217_8" citation_local_level_id="1" >March 25, 2002</DATE>
+
+<NAME start="151" local_name_id="3" end="154" id="119217_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="119217_2" party1="119217_3" party1_string="ROBBINS" theme_string="ROBBINS v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="119217_5" ></RELATION>
+
+<RELATION party2="119217_4" theme="119217_2" theme_string="ROBBINS v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="119217_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 965" X_vs_Y_string="ROBBINS v. UNITED STATES" standard_case="119217_1" X_vs_Y="119217_2" gram_type="multi_line" relation_type="equivalence" id="119217_9" ></RELATION>
+
+<RELATION at_date_string="March 25, 2002" theme="119217_2" at_date="119217_8" theme_string="ROBBINS v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="119217_11" ></RELATION>
+
+<RELATION theme="119217_2" includes_docket_string="01-8593" includes_docket="119217_7" theme_string="ROBBINS v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="119217_10" ></RELATION>
+

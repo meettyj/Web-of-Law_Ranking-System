@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['anconaconnecticut#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1055" id1="141000" volume="543" start="0" page_number="1055" standard_reporter="U.S." citation_global_level_id="14785.002" line="1" id="140996_1" citation_local_level_id="0" >543 U.S. 1055</CITATION>
+
+<CITATION party2="CONNECTICUT" party1="ANCONA" citation_global_level_id="31187.001" party2_short="CONNECTICUT" line="2" id="140996_2" alternative_keys="['u.s._543_1055']" end="39" entry_type="party_key" lookup_key="anconaconnecticut#1" id1="140996" start="18" party1_short="ANCONA" citation_local_level_id="1" >ANCONA v. CONNECTICUT</CITATION>
+
+<NAME end="24" start="18" party1_of="140996_2" all_names="ANCONA" local_name_id="1" id="140996_3" >ANCONA</NAME>
+
+<NAME end="39" start="28" all_names="CONNECTICUT" party2_of="140996_2" local_name_id="2" id="140996_4" >CONNECTICUT</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="anconaconnecticut#1" id1="140996" start="49" citation_global_level_id="31187.001" line="3" id="140996_7" citation_local_level_id="1" >04-706</DOCKET>
+
+<ORGANIZATION start="61" end="91" id="140996_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="97" citation_global_level_id="31187.001" end="113" id="140996_9" citation_local_level_id="1" >January 10, 2005</DATE>
+
+<NAME start="135" local_name_id="3" end="138" id="140996_15" all_names="SUP" >Sup</NAME>
+
+<CITATION end="198" reporter="Conn." entry_type="standard_key" no_current_file="True" lookup_key="conn._270_568" id1="Dummy_File_148715" volume="270" start="185" page_number="568" standard_reporter="CONN." citation_global_level_id="212565.001" line="8" id="140996_13" citation_local_level_id="2" >270 Conn. 568</CITATION>
+
+<CITATION end="213" reporter="A. 2d" entry_type="standard_key" no_current_file="True" lookup_key="a.2d_854_718" id1="Dummy_File_148716" volume="854" start="200" page_number="718" standard_reporter="A.2D" citation_global_level_id="212566.001" line="8" id="140996_14" citation_local_level_id="3" >854 A. 2d 718</CITATION>
+
+<RELATION theme="140996_2" party1="140996_3" party1_string="ANCONA" theme_string="ANCONA v. CONNECTICUT" gram_type="infix" relation_type="asymmetric" id="140996_5" ></RELATION>
+
+<RELATION party2="140996_4" theme="140996_2" theme_string="ANCONA v. CONNECTICUT" party2_string="CONNECTICUT" gram_type="infix" relation_type="asymmetric" id="140996_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1055" X_vs_Y_string="ANCONA v. CONNECTICUT" standard_case="140996_1" X_vs_Y="140996_2" gram_type="multi_line" relation_type="equivalence" id="140996_10" ></RELATION>
+
+<RELATION at_date_string="January 10, 2005" theme="140996_2" at_date="140996_9" theme_string="ANCONA v. CONNECTICUT" gram_type="multi_line" relation_type="asymmetric" id="140996_12" ></RELATION>
+
+<RELATION theme="140996_2" includes_docket_string="04-706" includes_docket="140996_7" theme_string="ANCONA v. CONNECTICUT" gram_type="multi_line" relation_type="asymmetric" id="140996_11" ></RELATION>
+

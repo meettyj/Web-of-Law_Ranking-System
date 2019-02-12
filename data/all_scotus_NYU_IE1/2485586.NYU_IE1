@@ -1,0 +1,58 @@
+<CITATION alternative_keys="['statescompany#3']" end="20" reporter="U.S." entry_type="standard_key" lookup_key="u.s._105_263" id1="90572" volume="105" start="1" page_number="263" standard_reporter="U.S." citation_global_level_id="48765.002" line="2" id="2485586_1" citation_local_level_id="0" >105 U.S. 263 (____)</CITATION>
+
+<CITATION party2="RAILROAD COMPANY" party1="UNITED STATES" citation_global_level_id="48765.001" party2_short="COMPANY" line="5" id="2485586_3" alternative_keys="['u.s._105_263']" end="56" entry_type="party_key" lookup_key="statescompany#3" id1="90572" start="21" party1_short="STATES" citation_local_level_id="1" >UNITED STATES v. RAILROAD COMPANY</CITATION>
+
+<NAME end="34" start="21" party1_of="2485586_3" all_names="UNITED STATES	SOLICITOR-GENERAL FOR THE UNITED STATES" local_name_id="1" id="2485586_4" >UNITED STATES</NAME>
+
+<NAME end="56" start="40" all_names="RAILROAD COMPANY" party2_of="2485586_3" local_name_id="2" id="2485586_5" >RAILROAD COMPANY</NAME>
+
+<ORGANIZATION start="58" end="88" id="2485586_8" >Supreme Court of United States</ORGANIZATION>
+
+<NAME start="100" local_name_id="1" end="139" id="2485586_10" all_names="UNITED STATES	SOLICITOR-GENERAL FOR THE UNITED STATES" >Solicitor-General for the United States</NAME>
+
+<NAME start="141" local_name_id="3" end="191" id="2485586_11" all_names="MR SAMUEL SHELLABARGER AND MR JEREMIAH M WILSON" >Mr. Samuel Shellabarger and Mr. Jeremiah M. Wilson</NAME>
+
+<NAME start="201" local_name_id="4" end="203" id="2485586_12" all_names="MR" >MR</NAME>
+
+<CITATION party2="Boughton" party1="Hecht" citation_global_level_id="53673.001" party2_short="Boughton" line="11" id="2485586_14" end="325" entry_type="party_key" lookup_key="hechtboughton#1" id1="90564" start="308" party1_short="Hecht" citation_local_level_id="2" >Hecht v. Boughton</CITATION>
+
+<NAME end="313" start="308" party1_of="2485586_14" all_names="HECHT" local_name_id="5" id="2485586_16" >Hecht</NAME>
+
+<NAME end="325" start="317" all_names="BOUGHTON" party2_of="2485586_14" local_name_id="6" id="2485586_17" >Boughton</NAME>
+
+<DATE start="528" end="532" id="2485586_20" >1909</DATE>
+
+<NAME start="540" local_name_id="7" end="556" id="2485586_21" all_names="REVISED STATUTES" >Revised Statutes</NAME>
+
+<ORGANIZATION start="629" end="653" id="2485586_22" >Supreme Court of Wyoming</ORGANIZATION>
+
+<ORGANIZATION start="666" end="671" id="2485586_23" >court</ORGANIZATION>
+
+<NAME start="850" local_name_id="1" end="863" id="2485586_24" all_names="UNITED STATES	SOLICITOR-GENERAL FOR THE UNITED STATES" >United States</NAME>
+
+<NAME start="956" local_name_id="1" end="969" id="2485586_25" all_names="UNITED STATES	SOLICITOR-GENERAL FOR THE UNITED STATES" >United States</NAME>
+
+<CITATION party2="Thompson" party1="United States" citation_global_level_id="59458.001" party2_short="Thompson" line="11" id="2485586_15" alternative_keys="['u.s._93_586']" end="1130" entry_type="party_key" lookup_key="statesthompson#4" id1="99510" start="1105" party1_short="States" citation_local_level_id="3" >United States v. Thompson</CITATION>
+
+<NAME end="1118" start="1105" party1_of="2485586_15" all_names="UNITED STATES	SOLICITOR-GENERAL FOR THE UNITED STATES" local_name_id="1" id="2485586_18" >United States</NAME>
+
+<NAME end="1130" start="1122" all_names="THOMPSON" party2_of="2485586_15" local_name_id="8" id="2485586_19" >Thompson</NAME>
+
+<CITATION alternative_keys="['statesthompson#4']" end="1143" reporter="U.S." entry_type="standard_key" lookup_key="u.s._93_586" id1="89411" volume="93" start="1132" page_number="586" standard_reporter="U.S." citation_global_level_id="37886.002" line="11" id="2485586_13" citation_local_level_id="4" >93 U.S. 586</CITATION>
+
+<RELATION theme="2485586_3" party1="2485586_4" party1_string="UNITED STATES" theme_string="UNITED STATES  v.  RAILROAD COMPANY" gram_type="infix" relation_type="asymmetric" id="2485586_6" ></RELATION>
+
+<RELATION party2="2485586_5" theme="2485586_3" theme_string="UNITED STATES  v.  RAILROAD COMPANY" party2_string="RAILROAD COMPANY" gram_type="infix" relation_type="asymmetric" id="2485586_7" ></RELATION>
+
+<RELATION standard_case_string="105 U.S. 263 (____)" X_vs_Y_string="UNITED STATES  v.  RAILROAD COMPANY" standard_case="2485586_1" X_vs_Y="2485586_3" gram_type="multi_line" relation_type="equivalence" id="2485586_9" ></RELATION>
+
+<RELATION theme="2485586_14" party1="2485586_16" party1_string="Hecht" theme_string="Hecht v. Boughton" gram_type="infix" relation_type="asymmetric" id="2485586_26" ></RELATION>
+
+<RELATION party2="2485586_17" theme="2485586_14" theme_string="Hecht v. Boughton" party2_string="Boughton" gram_type="infix" relation_type="asymmetric" id="2485586_27" ></RELATION>
+
+<RELATION standard_case_string="93 U.S. 586" X_vs_Y_string="United States v. Thompson" standard_case="2485586_13" X_vs_Y="2485586_15" gram_type="apposition" relation_type="equivalence" id="2485586_30" ></RELATION>
+
+<RELATION theme="2485586_15" party1="2485586_18" party1_string="United States" theme_string="United States v. Thompson" gram_type="infix" relation_type="asymmetric" id="2485586_28" ></RELATION>
+
+<RELATION party2="2485586_19" theme="2485586_15" theme_string="United States v. Thompson" party2_string="Thompson" gram_type="infix" relation_type="asymmetric" id="2485586_29" ></RELATION>
+

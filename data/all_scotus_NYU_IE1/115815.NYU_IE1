@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['ibanezterritory#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1027" id1="115815" volume="510" start="0" page_number="1027" standard_reporter="U.S." citation_global_level_id="2473.002" line="1" id="115815_1" citation_local_level_id="0" >510 U.S. 1027</CITATION>
+
+<CITATION party2="Territory of Guam" party1="Ibanez" citation_global_level_id="2473.001" party2_short="Territory" line="1" id="115815_3" alternative_keys="['u.s._510_1027']" end="45" entry_type="party_key" lookup_key="ibanezterritory#1" id1="115815" start="18" party1_short="Ibanez" citation_local_level_id="1" >Ibanez v. Territory of Guam</CITATION>
+
+<NAME end="24" start="18" party1_of="115815_3" all_names="IBANEZ" local_name_id="1" id="115815_4" >Ibanez</NAME>
+
+<NAME end="45" start="28" all_names="TERRITORY OF GUAM" party2_of="115815_3" local_name_id="2" id="115815_5" >Territory of Guam</NAME>
+
+<DOCKET end="62" entry_type="docket" lookup_key="u.s._510_1027" id1="115815" start="55" citation_global_level_id="2473.002" line="1" id="115815_2" citation_local_level_id="0" >93-6426</DOCKET>
+
+<DATE start="104" end="121" id="115815_6" >December 13, 1993</DATE>
+
+<NAME start="199" local_name_id="3" end="209" id="115815_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="247" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_993_884" id1="Dummy_File_19729" volume="993" start="234" page_number="884" standard_reporter="F.2D" citation_global_level_id="83579.001" line="3" id="115815_12" citation_local_level_id="2" >993 F. 2d 884</CITATION>
+
+<RELATION theme="115815_1" includes_docket_string="93-6426" includes_docket="115815_2" theme_string="510 U.S. 1027" gram_type="apposition" relation_type="asymmetric" id="115815_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1027" X_vs_Y_string="Ibanez v. Territory of Guam" standard_case="115815_1" X_vs_Y="115815_3" gram_type="pre_nom" relation_type="equivalence" id="115815_7" ></RELATION>
+
+<RELATION theme="115815_3" includes_docket_string="93-6426" includes_docket="115815_2" theme_string="Ibanez v. Territory of Guam" gram_type="apposition" relation_type="asymmetric" id="115815_10" ></RELATION>
+
+<RELATION theme="115815_3" party1="115815_4" party1_string="Ibanez" theme_string="Ibanez v. Territory of Guam" gram_type="infix" relation_type="asymmetric" id="115815_8" ></RELATION>
+
+<RELATION party2="115815_5" theme="115815_3" theme_string="Ibanez v. Territory of Guam" party2_string="Territory of Guam" gram_type="infix" relation_type="asymmetric" id="115815_9" ></RELATION>
+

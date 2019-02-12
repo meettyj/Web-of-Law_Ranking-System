@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['hugheshurley#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_927" id1="143250" volume="544" start="0" page_number="927" standard_reporter="U.S." citation_global_level_id="2559.002" line="1" id="143242_1" citation_local_level_id="0" >544 U.S. 927</CITATION>
+
+<CITATION party2="HURLEY, WARDEN" party1="HUGHES" citation_global_level_id="2559.006" party2_short="HURLEY" line="2" id="143242_2" alternative_keys="['u.s._544_927']" end="41" entry_type="party_key" lookup_key="hugheshurley#1" id1="143250" start="17" party1_short="HUGHES" citation_local_level_id="1" >HUGHES v. HURLEY, WARDEN</CITATION>
+
+<NAME end="23" start="17" party1_of="143242_2" all_names="HUGHES" local_name_id="1" id="143242_3" >HUGHES</NAME>
+
+<NAME end="41" start="27" all_names="HURLEY WARDEN" party2_of="143242_2" local_name_id="2" id="143242_4" >HURLEY, WARDEN</NAME>
+
+<DOCKET alternative_keys="['u.s._544_927']" end="58" entry_type="docket" lookup_key="hugheshurley#1" id1="143250" start="51" citation_global_level_id="2559.006" line="3" id="143242_7" citation_local_level_id="1" >04-8145</DOCKET>
+
+<ORGANIZATION start="64" end="94" id="143242_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="100" citation_global_level_id="2559.006" end="114" id="143242_9" citation_local_level_id="1" >March 21, 2005</DATE>
+
+<NAME start="146" local_name_id="3" end="149" id="143242_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="143242_2" party1="143242_3" party1_string="HUGHES" theme_string="HUGHES v. HURLEY, WARDEN" gram_type="infix" relation_type="asymmetric" id="143242_5" ></RELATION>
+
+<RELATION party2="143242_4" theme="143242_2" theme_string="HUGHES v. HURLEY, WARDEN" party2_string="HURLEY, WARDEN" gram_type="infix" relation_type="asymmetric" id="143242_6" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 927" X_vs_Y_string="HUGHES v. HURLEY, WARDEN" standard_case="143242_1" X_vs_Y="143242_2" gram_type="multi_line" relation_type="equivalence" id="143242_10" ></RELATION>
+
+<RELATION at_date_string="March 21, 2005" theme="143242_2" at_date="143242_9" theme_string="HUGHES v. HURLEY, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="143242_12" ></RELATION>
+
+<RELATION theme="143242_2" includes_docket_string="04-8145" includes_docket="143242_7" theme_string="HUGHES v. HURLEY, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="143242_11" ></RELATION>
+

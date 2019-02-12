@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['statescorporation#24']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1105" id1="126110" volume="537" start="0" page_number="1105" standard_reporter="U.S." citation_global_level_id="3092.002" line="1" id="126111_1" citation_local_level_id="0" >537 U.S. 1105</CITATION>
+
+<CITATION party2="LABORATORY CORPORATION OF AMERICA, INC" party1="UNITED STATES EX REL. CLAUSEN" citation_global_level_id="3092.008" party2_short="CORPORATION" line="1" id="126111_3" alternative_keys="['u.s._537_1105']" end="89" entry_type="party_key" lookup_key="statescorporation#24" id1="126110" start="18" party1_short="STATES" citation_local_level_id="1" >UNITED STATES EX REL. CLAUSEN v. LABORATORY CORPORATION OF AMERICA, INC</CITATION>
+
+<NAME end="47" start="18" party1_of="126111_3" all_names="UNITED STATES EX REL CLAUSEN" local_name_id="1" id="126111_4" >UNITED STATES EX REL. CLAUSEN</NAME>
+
+<NAME start="18" local_name_id="2" end="38" id="126111_7" all_names="UNITED STATES EX REL" >UNITED STATES EX REL</NAME>
+
+<NAME end="89" start="51" all_names="LABORATORY CORPORATION OF AMERICA INC" party2_of="126111_3" local_name_id="3" id="126111_5" >LABORATORY CORPORATION OF AMERICA, INC</NAME>
+
+<DOCKET end="105" entry_type="docket" lookup_key="u.s._537_1105" id1="126110" start="99" citation_global_level_id="3092.002" line="1" id="126111_2" citation_local_level_id="0" >02-534</DOCKET>
+
+<DATE start="147" end="163" id="126111_6" >January 13, 2003</DATE>
+
+<NAME start="296" local_name_id="4" end="299" id="126111_14" all_names="CIR" >Cir</NAME>
+
+<CITATION end="350" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_290_1301" id1="Dummy_File_209423" volume="290" start="336" page_number="1301" standard_reporter="F.3D" citation_global_level_id="273273.001" line="3" id="126111_13" citation_local_level_id="2" >290 F. 3d 1301</CITATION>
+
+<RELATION theme="126111_1" includes_docket_string="02-534" includes_docket="126111_2" theme_string="537 U.S. 1105" gram_type="apposition" relation_type="asymmetric" id="126111_12" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1105" X_vs_Y_string="UNITED STATES EX REL. CLAUSEN v. LABORATORY CORPORATION OF AMERICA, INC" standard_case="126111_1" X_vs_Y="126111_3" gram_type="pre_nom" relation_type="equivalence" id="126111_8" ></RELATION>
+
+<RELATION theme="126111_3" includes_docket_string="02-534" includes_docket="126111_2" theme_string="UNITED STATES EX REL. CLAUSEN v. LABORATORY CORPORATION OF AMERICA, INC" gram_type="apposition" relation_type="asymmetric" id="126111_11" ></RELATION>
+
+<RELATION party2="126111_5" theme="126111_3" theme_string="UNITED STATES EX REL. CLAUSEN v. LABORATORY CORPORATION OF AMERICA, INC" party2_string="LABORATORY CORPORATION OF AMERICA, INC" gram_type="infix" relation_type="asymmetric" id="126111_10" ></RELATION>
+
+<RELATION theme="126111_3" party1="126111_4" party1_string="UNITED STATES EX REL. CLAUSEN" theme_string="UNITED STATES EX REL. CLAUSEN v. LABORATORY CORPORATION OF AMERICA, INC" gram_type="infix" relation_type="asymmetric" id="126111_9" ></RELATION>
+

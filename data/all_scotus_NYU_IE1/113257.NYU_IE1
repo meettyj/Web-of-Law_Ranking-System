@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['allridgetexas#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_831" id1="113264" volume="510" start="0" page_number="831" standard_reporter="U.S." citation_global_level_id="2652.002" line="1" id="113257_1" citation_local_level_id="0" >510 U.S. 831</CITATION>
+
+<CITATION party2="Texas" party1="Allridge" citation_global_level_id="59585.001" party2_short="Texas" line="1" id="113257_3" alternative_keys="['u.s._510_831']" end="34" entry_type="party_key" lookup_key="allridgetexas#1" id1="113257" start="17" party1_short="Allridge" citation_local_level_id="1" >Allridge v. Texas</CITATION>
+
+<NAME end="25" start="17" party1_of="113257_3" all_names="ALLRIDGE" local_name_id="1" id="113257_4" >Allridge</NAME>
+
+<NAME end="34" start="29" all_names="TEXAS" party2_of="113257_3" local_name_id="2" id="113257_5" >Texas</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="u.s._510_831" id1="113264" start="44" citation_global_level_id="2652.002" line="1" id="113257_2" citation_local_level_id="0" >92-8506</DOCKET>
+
+<DATE start="93" end="108" id="113257_6" >October 4, 1993</DATE>
+
+<NAME start="191" local_name_id="3" end="201" id="113257_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="242" reporter="S. W. 2d" entry_type="standard_key" no_current_file="True" lookup_key="s.w.2d_850_471" id1="Dummy_File_148647" volume="850" start="226" page_number="471" standard_reporter="S.W.2D" citation_global_level_id="212497.001" line="3" id="113257_12" citation_local_level_id="2" >850 S. W. 2d 471</CITATION>
+
+<RELATION theme="113257_1" includes_docket_string="92-8506" includes_docket="113257_2" theme_string="510 U.S. 831" gram_type="apposition" relation_type="asymmetric" id="113257_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 831" X_vs_Y_string="Allridge v. Texas" standard_case="113257_1" X_vs_Y="113257_3" gram_type="pre_nom" relation_type="equivalence" id="113257_7" ></RELATION>
+
+<RELATION theme="113257_3" includes_docket_string="92-8506" includes_docket="113257_2" theme_string="Allridge v. Texas" gram_type="apposition" relation_type="asymmetric" id="113257_10" ></RELATION>
+
+<RELATION theme="113257_3" party1="113257_4" party1_string="Allridge" theme_string="Allridge v. Texas" gram_type="infix" relation_type="asymmetric" id="113257_8" ></RELATION>
+
+<RELATION party2="113257_5" theme="113257_3" theme_string="Allridge v. Texas" party2_string="Texas" gram_type="infix" relation_type="asymmetric" id="113257_9" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['wilsontaylor#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1085" id1="141444" volume="543" start="0" page_number="1085" standard_reporter="U.S." citation_global_level_id="2115.002" line="1" id="141428_1" citation_local_level_id="0" >543 U.S. 1085</CITATION>
+
+<CITATION party2="TAYLOR" party1="WILSON" citation_global_level_id="48711.001" party2_short="TAYLOR" line="2" id="141428_2" alternative_keys="['u.s._543_1085']" end="34" entry_type="party_key" lookup_key="wilsontaylor#1" id1="139891" start="18" party1_short="WILSON" citation_local_level_id="1" >WILSON v. TAYLOR</CITATION>
+
+<NAME end="24" start="18" party1_of="141428_2" all_names="WILSON" local_name_id="1" id="141428_3" >WILSON</NAME>
+
+<NAME end="34" start="28" all_names="TAYLOR" party2_of="141428_2" local_name_id="2" id="141428_4" >TAYLOR</NAME>
+
+<DOCKET end="65" entry_type="docket" lookup_key="wilsontaylor#1" id1="139891" start="58" citation_global_level_id="48711.001" line="3" id="141428_7" citation_local_level_id="1" >04-6153</DOCKET>
+
+<ORGANIZATION start="71" end="101" id="141428_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="107" citation_global_level_id="48711.001" end="123" id="141428_9" citation_local_level_id="1" >January 10, 2005</DATE>
+
+<LEGAL_ROLE start="145" end="155" id="141428_13" >Petitioner</LEGAL_ROLE>
+
+<RELATION theme="141428_2" party1="141428_3" party1_string="WILSON" theme_string="WILSON v. TAYLOR" gram_type="infix" relation_type="asymmetric" id="141428_5" ></RELATION>
+
+<RELATION party2="141428_4" theme="141428_2" theme_string="WILSON v. TAYLOR" party2_string="TAYLOR" gram_type="infix" relation_type="asymmetric" id="141428_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1085" X_vs_Y_string="WILSON v. TAYLOR" standard_case="141428_1" X_vs_Y="141428_2" gram_type="multi_line" relation_type="equivalence" id="141428_10" ></RELATION>
+
+<RELATION at_date_string="January 10, 2005" theme="141428_2" at_date="141428_9" theme_string="WILSON v. TAYLOR" gram_type="multi_line" relation_type="asymmetric" id="141428_12" ></RELATION>
+
+<RELATION theme="141428_2" includes_docket_string="04-6153" includes_docket="141428_7" theme_string="WILSON v. TAYLOR" gram_type="multi_line" relation_type="asymmetric" id="141428_11" ></RELATION>
+

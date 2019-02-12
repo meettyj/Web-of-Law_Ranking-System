@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['taihawaii#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_958" id1="133205" volume="540" start="0" page_number="958" standard_reporter="U.S." citation_global_level_id="1793.002" line="1" id="133211_1" citation_local_level_id="0" >540 U.S. 958</CITATION>
+
+<CITATION party2="HAWAII" party1="TAI" citation_global_level_id="43870.001" party2_short="HAWAII" line="1" id="133211_3" alternative_keys="['u.s._540_958']" end="30" entry_type="party_key" lookup_key="taihawaii#1" id1="133211" start="17" party1_short="TAI" citation_local_level_id="1" >TAI v. HAWAII</CITATION>
+
+<NAME end="20" start="17" party1_of="133211_3" all_names="TAI" local_name_id="1" id="133211_4" >TAI</NAME>
+
+<NAME end="30" start="24" all_names="HAWAII" party2_of="133211_3" local_name_id="2" id="133211_5" >HAWAII</NAME>
+
+<DOCKET end="47" entry_type="docket" lookup_key="u.s._540_958" id1="133205" start="40" citation_global_level_id="1793.002" line="1" id="133211_2" citation_local_level_id="0" >03-6005</DOCKET>
+
+<DATE start="89" end="105" id="133211_6" >October 14, 2003</DATE>
+
+<NAME start="187" local_name_id="3" end="197" id="133211_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="234" reporter="Haw." entry_type="standard_key" no_current_file="True" lookup_key="haw._101_436" id1="Dummy_File_127795" volume="101" start="222" page_number="436" standard_reporter="HAW." citation_global_level_id="191645.001" line="3" id="133211_12" citation_local_level_id="2" >101 Haw. 436</CITATION>
+
+<CITATION end="248" reporter="P. 3d" entry_type="standard_key" no_current_file="True" lookup_key="p.3d_70_662" id1="Dummy_File_127796" volume="70" start="236" page_number="662" standard_reporter="P.3D" citation_global_level_id="191646.001" line="3" id="133211_13" citation_local_level_id="3" >70 P. 3d 662</CITATION>
+
+<RELATION theme="133211_1" includes_docket_string="03-6005" includes_docket="133211_2" theme_string="540 U.S. 958" gram_type="apposition" relation_type="asymmetric" id="133211_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 958" X_vs_Y_string="TAI v. HAWAII" standard_case="133211_1" X_vs_Y="133211_3" gram_type="pre_nom" relation_type="equivalence" id="133211_7" ></RELATION>
+
+<RELATION theme="133211_3" includes_docket_string="03-6005" includes_docket="133211_2" theme_string="TAI v. HAWAII" gram_type="apposition" relation_type="asymmetric" id="133211_10" ></RELATION>
+
+<RELATION theme="133211_3" party1="133211_4" party1_string="TAI" theme_string="TAI v. HAWAII" gram_type="infix" relation_type="asymmetric" id="133211_8" ></RELATION>
+
+<RELATION party2="133211_5" theme="133211_3" theme_string="TAI v. HAWAII" party2_string="HAWAII" gram_type="infix" relation_type="asymmetric" id="133211_9" ></RELATION>
+

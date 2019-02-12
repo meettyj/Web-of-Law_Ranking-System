@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['silveraboard#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1013" id1="119835" volume="535" start="0" page_number="1013" standard_reporter="U.S." citation_global_level_id="411.002" line="1" id="119842_1" citation_local_level_id="0" >535 U.S. 1013</CITATION>
+
+<CITATION party2="ORANGE COUNTY SCHOOL BOARD" party1="SILVERA" citation_global_level_id="51834.001" party2_short="BOARD" line="2" id="119842_2" alternative_keys="['u.s._535_1013']" end="55" entry_type="party_key" lookup_key="silveraboard#1" id1="119842" start="18" party1_short="SILVERA" citation_local_level_id="1" >SILVERA v. ORANGE COUNTY SCHOOL BOARD</CITATION>
+
+<NAME end="25" start="18" party1_of="119842_2" all_names="SILVERA" local_name_id="1" id="119842_3" >SILVERA</NAME>
+
+<NAME end="55" start="29" all_names="ORANGE COUNTY SCHOOL BOARD" party2_of="119842_2" local_name_id="2" id="119842_4" >ORANGE COUNTY SCHOOL BOARD</NAME>
+
+<DOCKET end="72" entry_type="docket" lookup_key="silveraboard#1" id1="119842" start="65" citation_global_level_id="51834.001" line="3" id="119842_7" citation_local_level_id="1" >01-5862</DOCKET>
+
+<DATE start="118" citation_global_level_id="51834.001" end="132" id="119842_8" citation_local_level_id="1" >April 15, 2002</DATE>
+
+<CITATION end="167" reporter="U. S." entry_type="standard_key" no_current_file="True" lookup_key="u.s._534_976" id1="Dummy_File_206891" volume="534" start="154" page_number="976" standard_reporter="U.S." citation_global_level_id="270741.001" line="8" id="119842_12" citation_local_level_id="2" >534 U. S. 976</CITATION>
+
+<NAME start="169" local_name_id="3" end="178" id="119842_13" all_names="PETITIONS" >Petitions</NAME>
+
+<RELATION theme="119842_2" party1="119842_3" party1_string="SILVERA" theme_string="SILVERA v. ORANGE COUNTY SCHOOL BOARD" gram_type="infix" relation_type="asymmetric" id="119842_5" ></RELATION>
+
+<RELATION party2="119842_4" theme="119842_2" theme_string="SILVERA v. ORANGE COUNTY SCHOOL BOARD" party2_string="ORANGE COUNTY SCHOOL BOARD" gram_type="infix" relation_type="asymmetric" id="119842_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1013" X_vs_Y_string="SILVERA v. ORANGE COUNTY SCHOOL BOARD" standard_case="119842_1" X_vs_Y="119842_2" gram_type="multi_line" relation_type="equivalence" id="119842_9" ></RELATION>
+
+<RELATION at_date_string="April 15, 2002" theme="119842_2" at_date="119842_8" theme_string="SILVERA v. ORANGE COUNTY SCHOOL BOARD" gram_type="multi_line" relation_type="asymmetric" id="119842_11" ></RELATION>
+
+<RELATION theme="119842_2" includes_docket_string="01-5862" includes_docket="119842_7" theme_string="SILVERA v. ORANGE COUNTY SCHOOL BOARD" gram_type="multi_line" relation_type="asymmetric" id="119842_10" ></RELATION>
+

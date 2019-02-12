@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['smithcalifornia#8']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_910" id1="123667" volume="537" start="0" page_number="910" standard_reporter="U.S." citation_global_level_id="1430.002" line="1" id="123668_1" citation_local_level_id="0" >537 U.S. 910</CITATION>
+
+<CITATION party2="CALIFORNIA" party1="SMITH" citation_global_level_id="61862.001" party2_short="CALIFORNIA" line="1" id="123668_3" alternative_keys="['u.s._537_910']" end="36" entry_type="party_key" lookup_key="smithcalifornia#8" id1="125217" start="17" party1_short="SMITH" citation_local_level_id="1" >SMITH v. CALIFORNIA</CITATION>
+
+<NAME end="22" start="17" party1_of="123668_3" all_names="SMITH" local_name_id="1" id="123668_4" >SMITH</NAME>
+
+<NAME end="36" start="26" all_names="CALIFORNIA" party2_of="123668_3" local_name_id="2" id="123668_5" >CALIFORNIA</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="u.s._537_910" id1="123667" start="46" citation_global_level_id="1430.002" line="1" id="123668_2" citation_local_level_id="0" >02-5357</DOCKET>
+
+<DATE start="95" end="110" id="123668_6" >October 7, 2002</DATE>
+
+<NAME start="205" local_name_id="3" end="208" id="123668_12" all_names="SUP" >Sup</NAME>
+
+<RELATION theme="123668_1" includes_docket_string="02-5357" includes_docket="123668_2" theme_string="537 U.S. 910" gram_type="apposition" relation_type="asymmetric" id="123668_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 910" X_vs_Y_string="SMITH v. CALIFORNIA" standard_case="123668_1" X_vs_Y="123668_3" gram_type="pre_nom" relation_type="equivalence" id="123668_7" ></RELATION>
+
+<RELATION theme="123668_3" includes_docket_string="02-5357" includes_docket="123668_2" theme_string="SMITH v. CALIFORNIA" gram_type="apposition" relation_type="asymmetric" id="123668_10" ></RELATION>
+
+<RELATION theme="123668_3" party1="123668_4" party1_string="SMITH" theme_string="SMITH v. CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="123668_8" ></RELATION>
+
+<RELATION party2="123668_5" theme="123668_3" theme_string="SMITH v. CALIFORNIA" party2_string="CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="123668_9" ></RELATION>
+

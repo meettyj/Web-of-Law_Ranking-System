@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['lanierfilion#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_839" id1="138245" volume="543" start="0" page_number="839" standard_reporter="U.S." citation_global_level_id="6674.002" line="1" id="138246_1" citation_local_level_id="0" >543 U.S. 839</CITATION>
+
+<CITATION party2="FILION, SUPERINTENDENT, COXSACKIE CORRECTIONAL FACILITY" party1="LANIER" citation_global_level_id="6674.003" party2_short="FILION" line="2" id="138246_2" alternative_keys="['u.s._543_839']" end="82" entry_type="party_key" lookup_key="lanierfilion#1" id1="138245" start="17" party1_short="LANIER" citation_local_level_id="1" >LANIER v. FILION, SUPERINTENDENT, COXSACKIE CORRECTIONAL FACILITY</CITATION>
+
+<NAME end="23" start="17" party1_of="138246_2" all_names="LANIER" local_name_id="1" id="138246_3" >LANIER</NAME>
+
+<NAME end="82" start="27" all_names="FILION SUPERINTENDENT COXSACKIE CORRECTIONAL FACILITY" party2_of="138246_2" local_name_id="2" id="138246_4" >FILION, SUPERINTENDENT, COXSACKIE CORRECTIONAL FACILITY</NAME>
+
+<DOCKET alternative_keys="['u.s._543_839']" end="100" entry_type="docket" lookup_key="lanierfilion#1" id1="138245" start="92" citation_global_level_id="6674.003" line="3" id="138246_7" citation_local_level_id="1" >03-10570</DOCKET>
+
+<ORGANIZATION start="106" end="136" id="138246_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="142" citation_global_level_id="6674.003" end="157" id="138246_9" citation_local_level_id="1" >October 4, 2004</DATE>
+
+<NAME start="188" local_name_id="3" end="191" id="138246_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="138246_2" party1="138246_3" party1_string="LANIER" theme_string="LANIER v. FILION, SUPERINTENDENT, COXSACKIE CORRECTIONAL FACILITY" gram_type="infix" relation_type="asymmetric" id="138246_5" ></RELATION>
+
+<RELATION party2="138246_4" theme="138246_2" theme_string="LANIER v. FILION, SUPERINTENDENT, COXSACKIE CORRECTIONAL FACILITY" party2_string="FILION, SUPERINTENDENT, COXSACKIE CORRECTIONAL FACILITY" gram_type="infix" relation_type="asymmetric" id="138246_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 839" X_vs_Y_string="LANIER v. FILION, SUPERINTENDENT, COXSACKIE CORRECTIONAL FACILITY" standard_case="138246_1" X_vs_Y="138246_2" gram_type="multi_line" relation_type="equivalence" id="138246_10" ></RELATION>
+
+<RELATION at_date_string="October 4, 2004" theme="138246_2" at_date="138246_9" theme_string="LANIER v. FILION, SUPERINTENDENT, COXSACKIE CORRECTIONAL FACILITY" gram_type="multi_line" relation_type="asymmetric" id="138246_12" ></RELATION>
+
+<RELATION theme="138246_2" includes_docket_string="03-10570" includes_docket="138246_7" theme_string="LANIER v. FILION, SUPERINTENDENT, COXSACKIE CORRECTIONAL FACILITY" gram_type="multi_line" relation_type="asymmetric" id="138246_11" ></RELATION>
+

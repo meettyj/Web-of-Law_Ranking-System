@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['smithgarcia#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_987" id1="133574" volume="540" start="0" page_number="987" standard_reporter="U.S." citation_global_level_id="9225.002" line="1" id="133576_1" citation_local_level_id="0" >540 U.S. 987</CITATION>
+
+<CITATION party2="GARCIA, WARDEN" party1="SMITH" citation_global_level_id="9225.01" party2_short="GARCIA" line="1" id="133576_3" alternative_keys="['u.s._540_987']" end="40" entry_type="party_key" lookup_key="smithgarcia#1" id1="133574" start="17" party1_short="SMITH" citation_local_level_id="1" >SMITH v. GARCIA, WARDEN</CITATION>
+
+<NAME end="22" start="17" party1_of="133576_3" all_names="SMITH" local_name_id="1" id="133576_4" >SMITH</NAME>
+
+<NAME end="40" start="26" all_names="GARCIA WARDEN" party2_of="133576_3" local_name_id="2" id="133576_5" >GARCIA, WARDEN</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._540_987" id1="133574" start="50" citation_global_level_id="9225.002" line="1" id="133576_2" citation_local_level_id="0" >03-6085</DOCKET>
+
+<DATE start="99" end="115" id="133576_6" >November 3, 2003</DATE>
+
+<NAME start="193" local_name_id="3" end="203" id="133576_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="133576_1" includes_docket_string="03-6085" includes_docket="133576_2" theme_string="540 U.S. 987" gram_type="apposition" relation_type="asymmetric" id="133576_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 987" X_vs_Y_string="SMITH v. GARCIA, WARDEN" standard_case="133576_1" X_vs_Y="133576_3" gram_type="pre_nom" relation_type="equivalence" id="133576_7" ></RELATION>
+
+<RELATION theme="133576_3" includes_docket_string="03-6085" includes_docket="133576_2" theme_string="SMITH v. GARCIA, WARDEN" gram_type="apposition" relation_type="asymmetric" id="133576_10" ></RELATION>
+
+<RELATION theme="133576_3" party1="133576_4" party1_string="SMITH" theme_string="SMITH v. GARCIA, WARDEN" gram_type="infix" relation_type="asymmetric" id="133576_8" ></RELATION>
+
+<RELATION party2="133576_5" theme="133576_3" theme_string="SMITH v. GARCIA, WARDEN" party2_string="GARCIA, WARDEN" gram_type="infix" relation_type="asymmetric" id="133576_9" ></RELATION>
+

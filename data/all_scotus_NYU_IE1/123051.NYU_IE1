@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['dahlerashcroft#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_864" id1="123051" volume="537" start="0" page_number="864" standard_reporter="U.S." citation_global_level_id="1030.002" line="1" id="123051_1" citation_local_level_id="0" >537 U.S. 864</CITATION>
+
+<CITATION party2="ASHCROFT, ATTORNEY GENERAL, ET AL" party1="DAHLER" citation_global_level_id="1030.005" party2_short="ASHCROFT" line="1" id="123051_3" alternative_keys="['u.s._537_864']" end="60" entry_type="party_key" lookup_key="dahlerashcroft#1" id1="123051" start="17" party1_short="DAHLER" citation_local_level_id="1" >DAHLER v. ASHCROFT, ATTORNEY GENERAL, ET AL</CITATION>
+
+<NAME end="23" start="17" party1_of="123051_3" all_names="DAHLER" local_name_id="1" id="123051_4" >DAHLER</NAME>
+
+<NAME end="60" start="27" all_names="ASHCROFT ATTORNEY GENERAL" party2_of="123051_3" local_name_id="2" id="123051_5" >ASHCROFT, ATTORNEY GENERAL, ET AL</NAME>
+
+<DOCKET end="78" entry_type="docket" lookup_key="u.s._537_864" id1="123051" start="70" citation_global_level_id="1030.002" line="1" id="123051_2" citation_local_level_id="0" >01-10800</DOCKET>
+
+<DATE start="120" end="135" id="123051_6" >October 7, 2002</DATE>
+
+<NAME start="266" local_name_id="3" end="269" id="123051_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="123051_1" includes_docket_string="01-10800" includes_docket="123051_2" theme_string="537 U.S. 864" gram_type="apposition" relation_type="asymmetric" id="123051_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 864" X_vs_Y_string="DAHLER v. ASHCROFT, ATTORNEY GENERAL, ET AL" standard_case="123051_1" X_vs_Y="123051_3" gram_type="pre_nom" relation_type="equivalence" id="123051_7" ></RELATION>
+
+<RELATION theme="123051_3" includes_docket_string="01-10800" includes_docket="123051_2" theme_string="DAHLER v. ASHCROFT, ATTORNEY GENERAL, ET AL" gram_type="apposition" relation_type="asymmetric" id="123051_10" ></RELATION>
+
+<RELATION theme="123051_3" party1="123051_4" party1_string="DAHLER" theme_string="DAHLER v. ASHCROFT, ATTORNEY GENERAL, ET AL" gram_type="infix" relation_type="asymmetric" id="123051_8" ></RELATION>
+
+<RELATION party2="123051_5" theme="123051_3" theme_string="DAHLER v. ASHCROFT, ATTORNEY GENERAL, ET AL" party2_string="ASHCROFT, ATTORNEY GENERAL, ET AL" gram_type="infix" relation_type="asymmetric" id="123051_9" ></RELATION>
+

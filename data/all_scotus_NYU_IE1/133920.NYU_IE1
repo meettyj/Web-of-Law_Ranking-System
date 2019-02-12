@@ -1,0 +1,40 @@
+<CITATION alternative_keys="['viethjubelirer#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_1015" id1="133919" volume="540" start="0" page_number="1015" standard_reporter="U.S." citation_global_level_id="11646.002" line="1" id="133920_1" citation_local_level_id="0" >540 U.S. 1015</CITATION>
+
+<CITATION party2="JUBELIRER, PRESIDENT OF THE PENNSYLVANIA SENATE, ET AL" party1="VIETH ET AL." citation_global_level_id="47560.001" party2_short="JUBELIRER" line="1" id="133920_4" alternative_keys="['u.s._540_1015']" end="88" entry_type="party_key" lookup_key="viethjubelirer#1" id1="134735" start="18" party1_short="VIETH" citation_local_level_id="1" >VIETH ET AL. v. JUBELIRER, PRESIDENT OF THE PENNSYLVANIA SENATE, ET AL</CITATION>
+
+<NAME end="30" start="18" party1_of="133920_4" all_names="VIETH" local_name_id="1" id="133920_5" >VIETH ET AL.</NAME>
+
+<NAME start="18" local_name_id="1" end="29" id="133920_8" all_names="VIETH" >VIETH ET AL</NAME>
+
+<NAME end="88" start="34" all_names="JUBELIRER PRESIDENT OF THE PENNSYLVANIA SENATE" party2_of="133920_4" local_name_id="2" id="133920_6" >JUBELIRER, PRESIDENT OF THE PENNSYLVANIA SENATE, ET AL</NAME>
+
+<PROFESSION start="45" end="81" id="133920_9" >PRESIDENT OF THE PENNSYLVANIA SENATE</PROFESSION>
+
+<DOCKET end="105" entry_type="docket" lookup_key="u.s._540_1015" id1="133919" start="98" citation_global_level_id="11646.002" line="1" id="133920_3" citation_local_level_id="0" >02-1580</DOCKET>
+
+<ORGANIZATION start="111" end="141" id="133920_10" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="147" end="164" id="133920_7" >November 17, 2003</DATE>
+
+<NAME start="186" local_name_id="3" end="216" id="133920_11" all_names="APPEAL FROM THE D C M D PA" >Appeal from the D. C. M. D. Pa</NAME>
+
+<NAME start="219" local_name_id="4" end="227" id="133920_12" all_names="PROBABLE" >Probable</NAME>
+
+<CITATION end="261" reporter="U. S." entry_type="standard_key" lookup_key="u.s._539_957" id1="130838" volume="539" start="248" page_number="957" standard_reporter="U.S." citation_global_level_id="7454.002" line="1" id="133920_2" citation_local_level_id="2" >539 U. S. 957</CITATION>
+
+<LEGAL_ROLE end="308" name="Cortes and Accurti" start="289" local_name_id="5" plural="True" id="133920_18" >Motion of appellees</LEGAL_ROLE>
+
+<NAME start="309" local_name_id="5" end="327" id="133920_19" all_names="CORTES AND ACCURTI" >Cortes and Accurti</NAME>
+
+<RELATION theme="133920_1" includes_docket_string="02-1580" includes_docket="133920_3" theme_string="540 U.S. 1015" gram_type="apposition" relation_type="asymmetric" id="133920_17" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 1015" X_vs_Y_string="VIETH ET AL. v. JUBELIRER, PRESIDENT OF THE PENNSYLVANIA SENATE, ET AL" standard_case="133920_1" X_vs_Y="133920_4" gram_type="pre_nom" relation_type="equivalence" id="133920_13" ></RELATION>
+
+<RELATION theme="133920_4" includes_docket_string="02-1580" includes_docket="133920_3" theme_string="VIETH ET AL. v. JUBELIRER, PRESIDENT OF THE PENNSYLVANIA SENATE, ET AL" gram_type="apposition" relation_type="asymmetric" id="133920_16" ></RELATION>
+
+<RELATION theme="133920_4" party1="133920_5" party1_string="VIETH ET AL." theme_string="VIETH ET AL. v. JUBELIRER, PRESIDENT OF THE PENNSYLVANIA SENATE, ET AL" gram_type="infix" relation_type="asymmetric" id="133920_14" ></RELATION>
+
+<RELATION party2="133920_6" theme="133920_4" theme_string="VIETH ET AL. v. JUBELIRER, PRESIDENT OF THE PENNSYLVANIA SENATE, ET AL" party2_string="JUBELIRER, PRESIDENT OF THE PENNSYLVANIA SENATE, ET AL" gram_type="infix" relation_type="asymmetric" id="133920_15" ></RELATION>
+
+<RELATION theme="133920_19" legal_role="133920_18" id="133920_20" theme_string="Cortes and Accurti" gram_type="pre_nom" relation_type="asymmetric" legal_role_string="Motion of appellees" ></RELATION>
+

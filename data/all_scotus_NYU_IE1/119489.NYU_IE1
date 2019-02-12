@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['meneillystates#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_989" id1="119498" volume="535" start="0" page_number="989" standard_reporter="U.S." citation_global_level_id="1288.002" line="1" id="119489_1" citation_local_level_id="0" >535 U.S. 989</CITATION>
+
+<CITATION party2="UNITED STATES" party1="MENEILLY" citation_global_level_id="30280.001" party2_short="STATES" line="2" id="119489_2" alternative_keys="['u.s._535_989']" end="42" entry_type="party_key" lookup_key="meneillystates#1" id1="119489" start="17" party1_short="MENEILLY" citation_local_level_id="1" >MENEILLY v. UNITED STATES</CITATION>
+
+<NAME end="25" start="17" party1_of="119489_2" all_names="MENEILLY" local_name_id="1" id="119489_3" >MENEILLY</NAME>
+
+<NAME end="42" start="29" all_names="UNITED STATES" party2_of="119489_2" local_name_id="2" id="119489_4" >UNITED STATES</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="meneillystates#1" id1="119489" start="52" citation_global_level_id="30280.001" line="3" id="119489_7" citation_local_level_id="1" >01-1310</DOCKET>
+
+<DATE start="105" citation_global_level_id="30280.001" end="119" id="119489_8" citation_local_level_id="1" >April 15, 2002</DATE>
+
+<NAME start="150" local_name_id="3" end="153" id="119489_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="119489_2" party1="119489_3" party1_string="MENEILLY" theme_string="MENEILLY v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="119489_5" ></RELATION>
+
+<RELATION party2="119489_4" theme="119489_2" theme_string="MENEILLY v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="119489_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 989" X_vs_Y_string="MENEILLY v. UNITED STATES" standard_case="119489_1" X_vs_Y="119489_2" gram_type="multi_line" relation_type="equivalence" id="119489_9" ></RELATION>
+
+<RELATION at_date_string="April 15, 2002" theme="119489_2" at_date="119489_8" theme_string="MENEILLY v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="119489_11" ></RELATION>
+
+<RELATION theme="119489_2" includes_docket_string="01-1310" includes_docket="119489_7" theme_string="MENEILLY v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="119489_10" ></RELATION>
+

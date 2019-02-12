@@ -1,0 +1,44 @@
+<CITATION alternative_keys="['robertoystate#1', 's.ct._81_292', 'l.ed.2d_5_265']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._364_519" id1="106149" volume="364" start="0" page_number="519" standard_reporter="U.S." citation_global_level_id="27333.002" line="1" id="106149_1" citation_local_level_id="0" >364 U.S. 519</CITATION>
+
+<CITATION alternative_keys="['u.s._364_519', 'robertoystate#1', 'l.ed.2d_5_265']" end="30" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._81_292" id1="106149" volume="81" start="17" page_number="292" standard_reporter="S.CT." citation_global_level_id="27333.003" line="1" id="106149_2" citation_local_level_id="1" >81 S. Ct. 292</CITATION>
+
+<NAME start="20" local_name_id="1" end="25" id="106149_8" all_names="S CT" >S. Ct</NAME>
+
+<CITATION alternative_keys="['u.s._364_519', 's.ct._81_292', 'robertoystate#1']" end="50" reporter="L. Ed. 2d" entry_type="standard_key" lookup_key="l.ed.2d_5_265" id1="106149" volume="5" start="35" page_number="265" standard_reporter="L.ED.2D" citation_global_level_id="27333.004" line="1" id="106149_3" citation_local_level_id="2" >5 L. Ed. 2d 265</CITATION>
+
+<CITATION party2="STATE OF MICHIGAN" party1="Arthur J. ROBERTOY" citation_global_level_id="27333.001" party2_short="STATE" line="1" id="106149_4" alternative_keys="['u.s._364_519', 's.ct._81_292', 'l.ed.2d_5_265']" end="94" entry_type="party_key" lookup_key="robertoystate#1" id1="106149" start="55" party1_short="ROBERTOY" citation_local_level_id="3" >Arthur J. ROBERTOY v. STATE OF MICHIGAN</CITATION>
+
+<NAME end="73" start="55" party1_of="106149_4" all_names="ARTHUR J ROBERTOY" local_name_id="2" id="106149_5" >Arthur J. ROBERTOY</NAME>
+
+<NAME end="94" start="77" all_names="STATE OF MICHIGAN" party2_of="106149_4" local_name_id="3" id="106149_6" >STATE OF MICHIGAN</NAME>
+
+<DATE start="158" end="175" id="106149_7" >December 19, 1960</DATE>
+
+<NAME start="221" local_name_id="4" end="234" id="106149_14" all_names="PAUL L ADAMS" >Paul L. Adams</NAME>
+
+<PROFESSION start="236" document_level_name_id="4" end="254" id="106149_15" party="PAUL L ADAMS" >Atty. Gen. of Mich</PROFESSION>
+
+<NAME start="261" local_name_id="5" end="282" id="106149_16" all_names="SAMUEL J TORINA SOL" >Samuel J. Torina, Sol</NAME>
+
+<PROFESSION start="284" document_level_name_id="5" end="287" id="106149_17" party="SAMUEL J TORINA SOL" >Gen</PROFESSION>
+
+<LEGAL_ROLE start="294" end="304" id="106149_18" >respondent</LEGAL_ROLE>
+
+<NAME start="316" local_name_id="6" end="322" id="106149_21" all_names="CURIAM" >CURIAM</NAME>
+
+<ORGANIZATION start="413" end="438" id="106149_22" >Supreme Court of Michigan</ORGANIZATION>
+
+<RELATION standard_case_string="364 U.S. 519" X_vs_Y_string="Arthur J. ROBERTOY v. STATE OF MICHIGAN" standard_case="106149_1" X_vs_Y="106149_4" gram_type="pre_nom" relation_type="equivalence" id="106149_10" ></RELATION>
+
+<RELATION standard_case_string="81 S. Ct. 292" X_vs_Y_string="Arthur J. ROBERTOY v. STATE OF MICHIGAN" standard_case="106149_2" X_vs_Y="106149_4" gram_type="pre_nom" relation_type="equivalence" id="106149_11" ></RELATION>
+
+<RELATION standard_case_string="5 L. Ed. 2d 265" X_vs_Y_string="Arthur J. ROBERTOY v. STATE OF MICHIGAN" standard_case="106149_3" X_vs_Y="106149_4" gram_type="pre_nom" relation_type="equivalence" id="106149_9" ></RELATION>
+
+<RELATION theme="106149_4" party1="106149_5" party1_string="Arthur J. ROBERTOY" theme_string="Arthur J. ROBERTOY v. STATE OF MICHIGAN" gram_type="infix" relation_type="asymmetric" id="106149_12" ></RELATION>
+
+<RELATION party2="106149_6" theme="106149_4" theme_string="Arthur J. ROBERTOY v. STATE OF MICHIGAN" party2_string="STATE OF MICHIGAN" gram_type="infix" relation_type="asymmetric" id="106149_13" ></RELATION>
+
+<RELATION theme="106149_14" profession_string="Atty. Gen. of Mich" theme_string="Paul L. Adams" profession="106149_15" gram_type="apposition" relation_type="asymmetric" id="106149_19" ></RELATION>
+
+<RELATION theme="106149_16" profession_string="Gen" theme_string="Samuel J. Torina, Sol" profession="106149_17" gram_type="apposition" relation_type="asymmetric" id="106149_20" ></RELATION>
+

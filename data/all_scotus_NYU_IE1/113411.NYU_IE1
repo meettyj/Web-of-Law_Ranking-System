@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['harriscounty#5']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_842" id1="113415" volume="510" start="0" page_number="842" standard_reporter="U.S." citation_global_level_id="190.002" line="1" id="113411_1" citation_local_level_id="0" >510 U.S. 842</CITATION>
+
+<CITATION party2="County of Sacramento, California, et al" party1="Harris" citation_global_level_id="5152.005" party2_short="County" line="1" id="113411_3" alternative_keys="['u.s._510_1005']" end="66" entry_type="party_key" lookup_key="harriscounty#5" id1="115508" start="17" party1_short="Harris" citation_local_level_id="1" >Harris v. County of Sacramento, California, et al</CITATION>
+
+<NAME end="23" start="17" party1_of="113411_3" all_names="HARRIS" local_name_id="1" id="113411_4" >Harris</NAME>
+
+<NAME end="66" start="27" all_names="COUNTY OF SACRAMENTO CALIFORNIA" party2_of="113411_3" local_name_id="2" id="113411_5" >County of Sacramento, California, et al</NAME>
+
+<DOCKET end="83" entry_type="docket" lookup_key="u.s._510_842" id1="113415" start="76" citation_global_level_id="190.002" line="1" id="113411_2" citation_local_level_id="0" >92-8949</DOCKET>
+
+<DATE start="125" end="140" id="113411_6" >October 4, 1993</DATE>
+
+<NAME start="218" local_name_id="3" end="228" id="113411_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="113411_1" includes_docket_string="92-8949" includes_docket="113411_2" theme_string="510 U.S. 842" gram_type="apposition" relation_type="asymmetric" id="113411_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 842" X_vs_Y_string="Harris v. County of Sacramento, California, et al" standard_case="113411_1" X_vs_Y="113411_3" gram_type="pre_nom" relation_type="equivalence" id="113411_7" ></RELATION>
+
+<RELATION theme="113411_3" includes_docket_string="92-8949" includes_docket="113411_2" theme_string="Harris v. County of Sacramento, California, et al" gram_type="apposition" relation_type="asymmetric" id="113411_10" ></RELATION>
+
+<RELATION theme="113411_3" party1="113411_4" party1_string="Harris" theme_string="Harris v. County of Sacramento, California, et al" gram_type="infix" relation_type="asymmetric" id="113411_8" ></RELATION>
+
+<RELATION party2="113411_5" theme="113411_3" theme_string="Harris v. County of Sacramento, California, et al" party2_string="County of Sacramento, California, et al" gram_type="infix" relation_type="asymmetric" id="113411_9" ></RELATION>
+

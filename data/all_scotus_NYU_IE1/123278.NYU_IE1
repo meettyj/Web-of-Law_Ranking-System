@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['servicessociety#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_881" id1="123273" volume="537" start="0" page_number="881" standard_reporter="U.S." citation_global_level_id="3584.002" line="1" id="123278_1" citation_local_level_id="0" >537 U.S. 881</CITATION>
+
+<CITATION party2="PENNSYLVANIA PSYCHIATRIC SOCIETY" party1="GREEN SPRING HEALTH SERVICES, INC., ET AL." citation_global_level_id="3584.003" party2_short="SOCIETY" line="1" id="123278_3" alternative_keys="['u.s._537_881']" end="95" entry_type="party_key" lookup_key="servicessociety#1" id1="123273" start="17" party1_short="SERVICES" citation_local_level_id="1" >GREEN SPRING HEALTH SERVICES, INC., ET AL. v. PENNSYLVANIA PSYCHIATRIC SOCIETY</CITATION>
+
+<NAME end="59" start="17" party1_of="123278_3" all_names="GREEN SPRING HEALTH SERVICES INC" local_name_id="1" id="123278_4" >GREEN SPRING HEALTH SERVICES, INC., ET AL.</NAME>
+
+<ORGANIZATION start="17" end="50" id="123278_7" >GREEN SPRING HEALTH SERVICES, INC</ORGANIZATION>
+
+<NAME end="95" start="63" all_names="PENNSYLVANIA PSYCHIATRIC SOCIETY" party2_of="123278_3" local_name_id="2" id="123278_5" >PENNSYLVANIA PSYCHIATRIC SOCIETY</NAME>
+
+<DOCKET end="110" entry_type="docket" lookup_key="u.s._537_881" id1="123273" start="105" citation_global_level_id="3584.002" line="1" id="123278_2" citation_local_level_id="0" >02-65</DOCKET>
+
+<ORGANIZATION start="116" end="146" id="123278_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="152" end="167" id="123278_6" >October 7, 2002</DATE>
+
+<ORGANIZATION start="189" end="259" id="123278_9" >CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE THIRD CIRCUIT</ORGANIZATION>
+
+<NAME start="295" local_name_id="3" end="298" id="123278_16" all_names="CIR" >Cir</NAME>
+
+<CITATION end="348" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_280_278" id1="Dummy_File_22745" volume="280" start="335" page_number="278" standard_reporter="F.3D" citation_global_level_id="86595.001" line="3" id="123278_15" citation_local_level_id="2" >280 F. 3d 278</CITATION>
+
+<RELATION theme="123278_1" includes_docket_string="02-65" includes_docket="123278_2" theme_string="537 U.S. 881" gram_type="apposition" relation_type="asymmetric" id="123278_14" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 881" X_vs_Y_string="GREEN SPRING HEALTH SERVICES, INC., ET AL. v. PENNSYLVANIA PSYCHIATRIC SOCIETY" standard_case="123278_1" X_vs_Y="123278_3" gram_type="pre_nom" relation_type="equivalence" id="123278_10" ></RELATION>
+
+<RELATION theme="123278_3" includes_docket_string="02-65" includes_docket="123278_2" theme_string="GREEN SPRING HEALTH SERVICES, INC., ET AL. v. PENNSYLVANIA PSYCHIATRIC SOCIETY" gram_type="apposition" relation_type="asymmetric" id="123278_13" ></RELATION>
+
+<RELATION theme="123278_3" party1="123278_4" party1_string="GREEN SPRING HEALTH SERVICES, INC., ET AL." theme_string="GREEN SPRING HEALTH SERVICES, INC., ET AL. v. PENNSYLVANIA PSYCHIATRIC SOCIETY" gram_type="infix" relation_type="asymmetric" id="123278_11" ></RELATION>
+
+<RELATION party2="123278_5" theme="123278_3" theme_string="GREEN SPRING HEALTH SERVICES, INC., ET AL. v. PENNSYLVANIA PSYCHIATRIC SOCIETY" party2_string="PENNSYLVANIA PSYCHIATRIC SOCIETY" gram_type="infix" relation_type="asymmetric" id="123278_12" ></RELATION>
+

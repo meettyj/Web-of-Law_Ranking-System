@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['lewistexas#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_857" id1="131874" volume="540" start="0" page_number="857" standard_reporter="U.S." citation_global_level_id="4831.002" line="1" id="131881_1" citation_local_level_id="0" >540 U.S. 857</CITATION>
+
+<CITATION party2="TEXAS" party1="LEWIS" citation_global_level_id="20288.001" party2_short="TEXAS" line="1" id="131881_3" alternative_keys="['u.s._540_857']" end="31" entry_type="party_key" lookup_key="lewistexas#2" id1="131881" start="17" party1_short="LEWIS" citation_local_level_id="1" >LEWIS v. TEXAS</CITATION>
+
+<NAME end="22" start="17" party1_of="131881_3" all_names="LEWIS" local_name_id="1" id="131881_4" >LEWIS</NAME>
+
+<NAME end="31" start="26" all_names="TEXAS" party2_of="131881_3" local_name_id="2" id="131881_5" >TEXAS</NAME>
+
+<DOCKET end="49" entry_type="docket" lookup_key="u.s._540_857" id1="131874" start="41" citation_global_level_id="4831.002" line="1" id="131881_2" citation_local_level_id="0" >02-11145</DOCKET>
+
+<DATE start="91" end="106" id="131881_6" >October 6, 2003</DATE>
+
+<NAME start="193" local_name_id="3" end="203" id="131881_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="131881_1" includes_docket_string="02-11145" includes_docket="131881_2" theme_string="540 U.S. 857" gram_type="apposition" relation_type="asymmetric" id="131881_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 857" X_vs_Y_string="LEWIS v. TEXAS" standard_case="131881_1" X_vs_Y="131881_3" gram_type="pre_nom" relation_type="equivalence" id="131881_7" ></RELATION>
+
+<RELATION theme="131881_3" includes_docket_string="02-11145" includes_docket="131881_2" theme_string="LEWIS v. TEXAS" gram_type="apposition" relation_type="asymmetric" id="131881_10" ></RELATION>
+
+<RELATION theme="131881_3" party1="131881_4" party1_string="LEWIS" theme_string="LEWIS v. TEXAS" gram_type="infix" relation_type="asymmetric" id="131881_8" ></RELATION>
+
+<RELATION party2="131881_5" theme="131881_3" theme_string="LEWIS v. TEXAS" party2_string="TEXAS" gram_type="infix" relation_type="asymmetric" id="131881_9" ></RELATION>
+

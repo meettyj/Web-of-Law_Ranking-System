@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['citygarage#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_968" id1="119250" volume="535" start="0" page_number="968" standard_reporter="U.S." citation_global_level_id="16661.002" line="1" id="119245_1" citation_local_level_id="0" >535 U.S. 968</CITATION>
+
+<CITATION party2="OURS GARAGE AND WRECKER SERVICE, INC., ET AL" party1="CITY OF COLUMBUS ET AL." citation_global_level_id="42181.003" party2_short="GARAGE" line="2" id="119245_2" alternative_keys="['u.s._536_424']" end="88" entry_type="party_key" lookup_key="citygarage#2" id1="121161" start="17" party1_short="CITY" citation_local_level_id="1" >CITY OF COLUMBUS ET AL. v. OURS GARAGE AND WRECKER SERVICE, INC., ET AL</CITATION>
+
+<NAME end="40" start="17" party1_of="119245_2" all_names="CITY OF COLUMBUS" local_name_id="1" id="119245_3" >CITY OF COLUMBUS ET AL.</NAME>
+
+<NAME end="88" start="44" all_names="OURS GARAGE AND WRECKER SERVICE INC" party2_of="119245_2" local_name_id="2" id="119245_4" >OURS GARAGE AND WRECKER SERVICE, INC., ET AL</NAME>
+
+<ORGANIZATION start="49" end="80" id="119245_5" >GARAGE AND WRECKER SERVICE, INC</ORGANIZATION>
+
+<DOCKET alternative_keys="['u.s._536_424']" end="104" entry_type="docket" lookup_key="citygarage#2" id1="121161" start="98" citation_global_level_id="42181.003" line="3" id="119245_8" citation_local_level_id="1" >01-419</DOCKET>
+
+<DATE start="150" citation_global_level_id="42181.003" end="163" id="119245_9" citation_local_level_id="1" >April 1, 2002</DATE>
+
+<NAME start="195" local_name_id="3" end="198" id="119245_14" all_names="CIR" >Cir</NAME>
+
+<CITATION end="235" reporter="U. S." entry_type="standard_key" no_current_file="True" lookup_key="u.s._534_1073" id1="Dummy_File_6195" volume="534" start="221" page_number="1073" standard_reporter="U.S." citation_global_level_id="70045.001" line="8" id="119245_13" citation_local_level_id="2" >534 U. S. 1073</CITATION>
+
+<RELATION theme="119245_2" party1="119245_3" party1_string="CITY OF COLUMBUS ET AL." theme_string="CITY OF COLUMBUS ET AL. v. OURS GARAGE AND WRECKER SERVICE, INC., ET AL" gram_type="infix" relation_type="asymmetric" id="119245_6" ></RELATION>
+
+<RELATION party2="119245_4" theme="119245_2" theme_string="CITY OF COLUMBUS ET AL. v. OURS GARAGE AND WRECKER SERVICE, INC., ET AL" party2_string="OURS GARAGE AND WRECKER SERVICE, INC., ET AL" gram_type="infix" relation_type="asymmetric" id="119245_7" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 968" X_vs_Y_string="CITY OF COLUMBUS ET AL. v. OURS GARAGE AND WRECKER SERVICE, INC., ET AL" standard_case="119245_1" X_vs_Y="119245_2" gram_type="multi_line" relation_type="equivalence" id="119245_10" ></RELATION>
+
+<RELATION at_date_string="April 1, 2002" theme="119245_2" at_date="119245_9" theme_string="CITY OF COLUMBUS ET AL. v. OURS GARAGE AND WRECKER SERVICE, INC., ET AL" gram_type="multi_line" relation_type="asymmetric" id="119245_12" ></RELATION>
+
+<RELATION theme="119245_2" includes_docket_string="01-419" includes_docket="119245_8" theme_string="CITY OF COLUMBUS ET AL. v. OURS GARAGE AND WRECKER SERVICE, INC., ET AL" gram_type="multi_line" relation_type="asymmetric" id="119245_11" ></RELATION>
+

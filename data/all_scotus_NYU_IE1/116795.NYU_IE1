@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['carillonsboard#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1113" id1="116791" volume="510" start="0" page_number="1113" standard_reporter="U.S." citation_global_level_id="1589.002" line="1" id="116795_1" citation_local_level_id="0" >510 U.S. 1113</CITATION>
+
+<CITATION party2="Pennsylvania Unemployment Compensation Board of Review" party1="Schulmerich Carillons, Inc." citation_global_level_id="1589.005" party2_short="Board" line="1" id="116795_3" alternative_keys="['u.s._510_1113']" end="103" entry_type="party_key" lookup_key="carillonsboard#1" id1="116791" start="18" party1_short="Carillons" citation_local_level_id="1" >Schulmerich Carillons, Inc. v. Pennsylvania Unemployment Compensation Board of Review</CITATION>
+
+<NAME end="45" start="18" party1_of="116795_3" all_names="SCHULMERICH CARILLONS INC" local_name_id="1" id="116795_4" >Schulmerich Carillons, Inc.</NAME>
+
+<ORGANIZATION start="18" end="44" id="116795_7" >Schulmerich Carillons, Inc</ORGANIZATION>
+
+<NAME end="103" start="49" all_names="PENNSYLVANIA UNEMPLOYMENT COMPENSATION BOARD OF REVIEW" party2_of="116795_3" local_name_id="2" id="116795_5" >Pennsylvania Unemployment Compensation Board of Review</NAME>
+
+<DOCKET end="119" entry_type="docket" lookup_key="u.s._510_1113" id1="116791" start="113" citation_global_level_id="1589.002" line="1" id="116795_2" citation_local_level_id="0" >93-906</DOCKET>
+
+<DATE start="161" end="178" id="116795_6" >February 22, 1994</DATE>
+
+<NAME start="256" local_name_id="3" end="266" id="116795_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="324" reporter="A. 2d" entry_type="standard_key" no_current_file="True" lookup_key="a.2d_623_921" id1="Dummy_File_60250" volume="623" start="311" page_number="921" standard_reporter="A.2D" citation_global_level_id="124100.001" line="3" id="116795_13" citation_local_level_id="2" >623 A. 2d 921</CITATION>
+
+<RELATION theme="116795_1" includes_docket_string="93-906" includes_docket="116795_2" theme_string="510 U.S. 1113" gram_type="apposition" relation_type="asymmetric" id="116795_12" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1113" X_vs_Y_string="Schulmerich Carillons, Inc. v. Pennsylvania Unemployment Compensation Board of Review" standard_case="116795_1" X_vs_Y="116795_3" gram_type="pre_nom" relation_type="equivalence" id="116795_8" ></RELATION>
+
+<RELATION theme="116795_3" includes_docket_string="93-906" includes_docket="116795_2" theme_string="Schulmerich Carillons, Inc. v. Pennsylvania Unemployment Compensation Board of Review" gram_type="apposition" relation_type="asymmetric" id="116795_11" ></RELATION>
+
+<RELATION party2="116795_5" theme="116795_3" theme_string="Schulmerich Carillons, Inc. v. Pennsylvania Unemployment Compensation Board of Review" party2_string="Pennsylvania Unemployment Compensation Board of Review" gram_type="infix" relation_type="asymmetric" id="116795_10" ></RELATION>
+
+<RELATION theme="116795_3" party1="116795_4" party1_string="Schulmerich Carillons, Inc." theme_string="Schulmerich Carillons, Inc. v. Pennsylvania Unemployment Compensation Board of Review" gram_type="infix" relation_type="asymmetric" id="116795_9" ></RELATION>
+

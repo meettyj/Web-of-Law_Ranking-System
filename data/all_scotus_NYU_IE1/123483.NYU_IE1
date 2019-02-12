@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['westholt#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_896" id1="123478" volume="537" start="0" page_number="896" standard_reporter="U.S." citation_global_level_id="6041.002" line="1" id="123483_1" citation_local_level_id="0" >537 U.S. 896</CITATION>
+
+<CITATION party2="HOLT, WARDEN" party1="WEST" citation_global_level_id="6041.004" party2_short="HOLT" line="1" id="123483_3" alternative_keys="['u.s._537_896']" end="37" entry_type="party_key" lookup_key="westholt#1" id1="123478" start="17" party1_short="WEST" citation_local_level_id="1" >WEST v. HOLT, WARDEN</CITATION>
+
+<NAME end="21" start="17" party1_of="123483_3" all_names="WEST" local_name_id="1" id="123483_4" >WEST</NAME>
+
+<NAME end="37" start="25" all_names="HOLT WARDEN" party2_of="123483_3" local_name_id="2" id="123483_5" >HOLT, WARDEN</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="u.s._537_896" id1="123478" start="47" citation_global_level_id="6041.002" line="1" id="123483_2" citation_local_level_id="0" >02-5122</DOCKET>
+
+<DATE start="96" end="111" id="123483_6" >October 7, 2002</DATE>
+
+<NAME start="240" local_name_id="3" end="243" id="123483_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="123483_1" includes_docket_string="02-5122" includes_docket="123483_2" theme_string="537 U.S. 896" gram_type="apposition" relation_type="asymmetric" id="123483_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 896" X_vs_Y_string="WEST v. HOLT, WARDEN" standard_case="123483_1" X_vs_Y="123483_3" gram_type="pre_nom" relation_type="equivalence" id="123483_7" ></RELATION>
+
+<RELATION theme="123483_3" includes_docket_string="02-5122" includes_docket="123483_2" theme_string="WEST v. HOLT, WARDEN" gram_type="apposition" relation_type="asymmetric" id="123483_10" ></RELATION>
+
+<RELATION theme="123483_3" party1="123483_4" party1_string="WEST" theme_string="WEST v. HOLT, WARDEN" gram_type="infix" relation_type="asymmetric" id="123483_8" ></RELATION>
+
+<RELATION party2="123483_5" theme="123483_3" theme_string="WEST v. HOLT, WARDEN" party2_string="HOLT, WARDEN" gram_type="infix" relation_type="asymmetric" id="123483_9" ></RELATION>
+

@@ -1,0 +1,46 @@
+<CITATION alternative_keys="['instransp#7', 's.ct._6_1176', 'l.ed._30_128']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._118_210" id1="91686" volume="118" start="0" page_number="210" standard_reporter="U.S." citation_global_level_id="21643.002" line="1" id="91686_1" citation_local_level_id="0" >118 U.S. 210</CITATION>
+
+<CITATION alternative_keys="['u.s._118_210', 'instransp#7', 'l.ed._30_128']" end="30" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._6_1176" id1="91686" volume="6" start="17" page_number="1176" standard_reporter="S.CT." citation_global_level_id="21643.003" line="1" id="91686_2" citation_local_level_id="1" >6 S. Ct. 1176</CITATION>
+
+<NAME start="19" local_name_id="1" end="24" id="91686_9" all_names="S CT" >S. Ct</NAME>
+
+<CITATION alternative_keys="['u.s._118_210', 's.ct._6_1176', 'instransp#7']" end="48" reporter="L. Ed." entry_type="standard_key" lookup_key="l.ed._30_128" id1="91686" volume="30" start="35" page_number="128" standard_reporter="L.ED." citation_global_level_id="21643.004" line="1" id="91686_3" citation_local_level_id="2" >30 L. Ed. 128</CITATION>
+
+<CITATION party2="ERIE &amp; WESTERN TRANSP. CO.     Argued" party1="PHOENIX INS. CO., BROOKLYN," citation_global_level_id="21643.005" party2_short="TRANSP" line="1" id="91686_4" alternative_keys="['s.ct._6_1176', 'l.ed._30_128', 'u.s._118_210']" end="121" entry_type="party_key" lookup_key="instransp#7" id1="91686" start="53" party1_short="INS" citation_local_level_id="3" >PHOENIX INS. CO., BROOKLYN, v. ERIE &amp; WESTERN TRANSP. CO. Argued</CITATION>
+
+<NAME end="80" start="53" party1_of="91686_4" all_names="PHOENIX INS CO BROOKLYN" local_name_id="2" id="91686_5" >PHOENIX INS. CO., BROOKLYN,</NAME>
+
+<ORGANIZATION start="66" end="68" id="91686_10" >CO</ORGANIZATION>
+
+<NAME end="121" start="84" all_names="ERIE &amp; WESTERN TRANSP CO ARGUED" party2_of="91686_4" local_name_id="3" id="91686_6" >ERIE &amp; WESTERN TRANSP. CO. Argued</NAME>
+
+<DATE start="137" end="141" id="91686_7" >1886</DATE>
+
+<DATE start="150" end="167" id="91686_8" >November 10, 1884</DATE>
+
+<NAME start="276" local_name_id="4" end="283" id="91686_16" all_names="BRADLEY" >BRADLEY</NAME>
+
+<CITATION party2="Railroad Cos" party1="Hall" citation_global_level_id="20863.004" party2_short="Cos" line="6" id="91686_18" alternative_keys="['wall._13_367']" end="501" entry_type="party_key" lookup_key="hallcos#1" id1="88471" start="481" party1_short="Hall" citation_local_level_id="4" >Hall v. Railroad Cos</CITATION>
+
+<NAME end="485" start="481" party1_of="91686_18" all_names="HALL" local_name_id="5" id="91686_19" >Hall</NAME>
+
+<NAME end="501" start="489" all_names="RAILROAD COS" party2_of="91686_18" local_name_id="6" id="91686_20" >Railroad Cos</NAME>
+
+<CITATION alternative_keys="['hallcos#1']" end="516" reporter="Wall." entry_type="standard_key" lookup_key="wall._13_367" id1="88471" volume="13" start="504" page_number="367" standard_reporter="WALL." citation_global_level_id="20863.003" line="6" id="91686_17" citation_local_level_id="5" >13 Wall. 367</CITATION>
+
+<RELATION standard_case_string="118 U.S. 210" X_vs_Y_string="PHOENIX INS. CO., BROOKLYN, v. ERIE &amp; WESTERN TRANSP. CO.     Argued" standard_case="91686_1" X_vs_Y="91686_4" gram_type="pre_nom" relation_type="equivalence" id="91686_12" ></RELATION>
+
+<RELATION standard_case_string="6 S. Ct. 1176" X_vs_Y_string="PHOENIX INS. CO., BROOKLYN, v. ERIE &amp; WESTERN TRANSP. CO.     Argued" standard_case="91686_2" X_vs_Y="91686_4" gram_type="pre_nom" relation_type="equivalence" id="91686_13" ></RELATION>
+
+<RELATION standard_case_string="30 L. Ed. 128" X_vs_Y_string="PHOENIX INS. CO., BROOKLYN, v. ERIE &amp; WESTERN TRANSP. CO.     Argued" standard_case="91686_3" X_vs_Y="91686_4" gram_type="pre_nom" relation_type="equivalence" id="91686_11" ></RELATION>
+
+<RELATION theme="91686_4" party1="91686_5" party1_string="PHOENIX INS. CO., BROOKLYN," theme_string="PHOENIX INS. CO., BROOKLYN, v. ERIE &amp; WESTERN TRANSP. CO.     Argued" gram_type="infix" relation_type="asymmetric" id="91686_14" ></RELATION>
+
+<RELATION party2="91686_6" theme="91686_4" theme_string="PHOENIX INS. CO., BROOKLYN, v. ERIE &amp; WESTERN TRANSP. CO.     Argued" party2_string="ERIE &amp; WESTERN TRANSP. CO.     Argued" gram_type="infix" relation_type="asymmetric" id="91686_15" ></RELATION>
+
+<RELATION standard_case_string="13 Wall. 367" X_vs_Y_string="Hall v. Railroad Cos" standard_case="91686_17" X_vs_Y="91686_18" gram_type="apposition" relation_type="equivalence" id="91686_23" ></RELATION>
+
+<RELATION theme="91686_18" party1="91686_19" party1_string="Hall" theme_string="Hall v. Railroad Cos" gram_type="infix" relation_type="asymmetric" id="91686_21" ></RELATION>
+
+<RELATION party2="91686_20" theme="91686_18" theme_string="Hall v. Railroad Cos" party2_string="Railroad Cos" gram_type="infix" relation_type="asymmetric" id="91686_22" ></RELATION>
+

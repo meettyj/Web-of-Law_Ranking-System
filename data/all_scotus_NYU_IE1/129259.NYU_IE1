@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['averycalifornia#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1004" id1="129266" volume="538" start="0" page_number="1004" standard_reporter="U.S." citation_global_level_id="938.002" line="1" id="129259_1" citation_local_level_id="0" >538 U.S. 1004</CITATION>
+
+<CITATION party2="CALIFORNIA" party1="AVERY" citation_global_level_id="49387.001" party2_short="CALIFORNIA" line="1" id="129259_3" alternative_keys="['u.s._538_1004']" end="37" entry_type="party_key" lookup_key="averycalifornia#1" id1="129259" start="18" party1_short="AVERY" citation_local_level_id="1" >AVERY v. CALIFORNIA</CITATION>
+
+<NAME end="23" start="18" party1_of="129259_3" all_names="AVERY" local_name_id="1" id="129259_4" >AVERY</NAME>
+
+<NAME end="37" start="27" all_names="CALIFORNIA" party2_of="129259_3" local_name_id="2" id="129259_5" >CALIFORNIA</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="u.s._538_1004" id1="129266" start="47" citation_global_level_id="938.002" line="1" id="129259_2" citation_local_level_id="0" >02-9320</DOCKET>
+
+<DATE start="96" end="110" id="129259_6" >April 28, 2003</DATE>
+
+<NAME start="241" local_name_id="3" end="243" id="129259_12" all_names="CT" >Ct</NAME>
+
+<RELATION theme="129259_1" includes_docket_string="02-9320" includes_docket="129259_2" theme_string="538 U.S. 1004" gram_type="apposition" relation_type="asymmetric" id="129259_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1004" X_vs_Y_string="AVERY v. CALIFORNIA" standard_case="129259_1" X_vs_Y="129259_3" gram_type="pre_nom" relation_type="equivalence" id="129259_7" ></RELATION>
+
+<RELATION theme="129259_3" includes_docket_string="02-9320" includes_docket="129259_2" theme_string="AVERY v. CALIFORNIA" gram_type="apposition" relation_type="asymmetric" id="129259_10" ></RELATION>
+
+<RELATION theme="129259_3" party1="129259_4" party1_string="AVERY" theme_string="AVERY v. CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="129259_8" ></RELATION>
+
+<RELATION party2="129259_5" theme="129259_3" theme_string="AVERY v. CALIFORNIA" party2_string="CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="129259_9" ></RELATION>
+

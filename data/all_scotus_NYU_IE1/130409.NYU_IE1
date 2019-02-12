@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['chambersillinois#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_920" id1="130410" volume="539" start="0" page_number="920" standard_reporter="U.S." citation_global_level_id="8190.002" line="1" id="130409_1" citation_local_level_id="0" >539 U.S. 920</CITATION>
+
+<CITATION party2="Illinois" party1="Chambers" citation_global_level_id="36632.001" party2_short="Illinois" line="1" id="130409_3" alternative_keys="['u.s._539_920']" end="37" entry_type="party_key" lookup_key="chambersillinois#2" id1="129995" start="17" party1_short="Chambers" citation_local_level_id="1" >Chambers v. Illinois</CITATION>
+
+<NAME end="25" start="17" party1_of="130409_3" all_names="CHAMBERS" local_name_id="1" id="130409_4" >Chambers</NAME>
+
+<NAME end="37" start="29" all_names="ILLINOIS" party2_of="130409_3" local_name_id="2" id="130409_5" >Illinois</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._539_920" id1="130410" start="47" citation_global_level_id="8190.002" line="1" id="130409_2" citation_local_level_id="0" >02-10431</DOCKET>
+
+<DATE start="97" end="109" id="130409_6" >June 9, 2003</DATE>
+
+<NAME start="197" local_name_id="3" end="207" id="130409_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="130409_1" includes_docket_string="02-10431" includes_docket="130409_2" theme_string="539 U.S. 920" gram_type="apposition" relation_type="asymmetric" id="130409_11" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 920" X_vs_Y_string="Chambers v. Illinois" standard_case="130409_1" X_vs_Y="130409_3" gram_type="pre_nom" relation_type="equivalence" id="130409_7" ></RELATION>
+
+<RELATION theme="130409_3" includes_docket_string="02-10431" includes_docket="130409_2" theme_string="Chambers v. Illinois" gram_type="apposition" relation_type="asymmetric" id="130409_10" ></RELATION>
+
+<RELATION theme="130409_3" party1="130409_4" party1_string="Chambers" theme_string="Chambers v. Illinois" gram_type="infix" relation_type="asymmetric" id="130409_8" ></RELATION>
+
+<RELATION party2="130409_5" theme="130409_3" theme_string="Chambers v. Illinois" party2_string="Illinois" gram_type="infix" relation_type="asymmetric" id="130409_9" ></RELATION>
+

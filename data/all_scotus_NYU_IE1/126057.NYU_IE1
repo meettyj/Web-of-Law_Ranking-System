@@ -1,0 +1,42 @@
+<CITATION alternative_keys="['banksmcconnell#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1100" id1="126057" volume="537" start="0" page_number="1100" standard_reporter="U.S." citation_global_level_id="11216.002" line="1" id="126057_1" citation_local_level_id="0" >537 U.S. 1100</CITATION>
+
+<CITATION party2="McCONNELL ET AL" party1="BANKS" citation_global_level_id="11216.001" party2_short="McCONNELL" line="1" id="126057_3" alternative_keys="['u.s._537_1100']" end="42" entry_type="party_key" lookup_key="banksmcconnell#1" id1="126057" start="18" party1_short="BANKS" citation_local_level_id="1" >BANKS v. McCONNELL ET AL</CITATION>
+
+<NAME end="23" start="18" party1_of="126057_3" all_names="BANKS" local_name_id="1" id="126057_4" >BANKS</NAME>
+
+<NAME end="42" start="27" all_names="MCCONNELL" party2_of="126057_3" local_name_id="2" id="126057_5" >McCONNELL ET AL</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="u.s._537_1100" id1="126057" start="52" citation_global_level_id="11216.002" line="1" id="126057_2" citation_local_level_id="0" >02-7251</DOCKET>
+
+<DATE start="101" end="117" id="126057_6" >January 13, 2003</DATE>
+
+<NAME start="246" local_name_id="3" end="249" id="126057_17" all_names="CIR" >Cir</NAME>
+
+<CITATION party2="District of Columbia Court of Appeals" party1="Martin" citation_global_level_id="51848.001" party2_short="District" line="3" id="126057_13" alternative_keys="['u.s._506_1']" end="695" entry_type="party_key" lookup_key="martindistrict#2" id1="112790" start="648" party1_short="Martin" citation_local_level_id="2" >Martin v. District of Columbia Court of Appeals</CITATION>
+
+<NAME end="654" start="648" party1_of="126057_13" all_names="MARTIN" local_name_id="4" id="126057_14" >Martin</NAME>
+
+<NAME end="695" start="658" all_names="DISTRICT OF COLUMBIA COURT OF APPEALS" party2_of="126057_13" local_name_id="5" id="126057_15" >District of Columbia Court of Appeals</NAME>
+
+<CITATION alternative_keys="['martindistrict#2']" end="714" reporter="U.S." entry_type="standard_key" lookup_key="u.s._506_1" id1="112790" volume="506" start="697" page_number="1" year="1992" standard_reporter="U.S." citation_global_level_id="51848.002" line="3" id="126057_12" citation_local_level_id="3" >506 U.S. 1 (1992)</CITATION>
+
+<DATE start="709" citation_global_level_id="51848.002" end="713" id="126057_16" citation_local_level_id="3" >1992</DATE>
+
+<RELATION theme="126057_1" includes_docket_string="02-7251" includes_docket="126057_2" theme_string="537 U.S. 1100" gram_type="apposition" relation_type="asymmetric" id="126057_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1100" X_vs_Y_string="BANKS v. McCONNELL ET AL" standard_case="126057_1" X_vs_Y="126057_3" gram_type="pre_nom" relation_type="equivalence" id="126057_7" ></RELATION>
+
+<RELATION theme="126057_3" includes_docket_string="02-7251" includes_docket="126057_2" theme_string="BANKS v. McCONNELL ET AL" gram_type="apposition" relation_type="asymmetric" id="126057_10" ></RELATION>
+
+<RELATION theme="126057_3" party1="126057_4" party1_string="BANKS" theme_string="BANKS v. McCONNELL ET AL" gram_type="infix" relation_type="asymmetric" id="126057_8" ></RELATION>
+
+<RELATION party2="126057_5" theme="126057_3" theme_string="BANKS v. McCONNELL ET AL" party2_string="McCONNELL ET AL" gram_type="infix" relation_type="asymmetric" id="126057_9" ></RELATION>
+
+<RELATION standard_case_string="506 U.S. 1 (1992)" X_vs_Y_string="Martin v. District of Columbia Court of Appeals" standard_case="126057_12" X_vs_Y="126057_13" gram_type="apposition" relation_type="equivalence" id="126057_20" ></RELATION>
+
+<RELATION theme="126057_13" party1="126057_14" party1_string="Martin" theme_string="Martin v. District of Columbia Court of Appeals" gram_type="infix" relation_type="asymmetric" id="126057_18" ></RELATION>
+
+<RELATION party2="126057_15" theme="126057_13" theme_string="Martin v. District of Columbia Court of Appeals" party2_string="District of Columbia Court of Appeals" gram_type="infix" relation_type="asymmetric" id="126057_19" ></RELATION>
+
+<RELATION at_date_string="1992" theme="126057_12" at_date="126057_16" theme_string="506 U.S. 1 (1992)" gram_type="infix" relation_type="asymmetric" id="126057_21" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['kellycalifornia#4']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1053" id1="140969" volume="543" start="0" page_number="1053" standard_reporter="U.S." citation_global_level_id="17031.002" line="1" id="140967_1" citation_local_level_id="0" >543 U.S. 1053</CITATION>
+
+<CITATION party2="ORANGE COUNTY, CALIFORNIA" party1="KELLY" citation_global_level_id="49492.001" party2_short="CALIFORNIA" line="2" id="140967_2" alternative_keys="['u.s._543_1053']" end="52" entry_type="party_key" lookup_key="kellycalifornia#4" id1="145970" start="18" party1_short="KELLY" citation_local_level_id="1" >KELLY v. ORANGE COUNTY, CALIFORNIA</CITATION>
+
+<NAME end="23" start="18" party1_of="140967_2" all_names="KELLY" local_name_id="1" id="140967_3" >KELLY</NAME>
+
+<NAME end="52" start="27" all_names="ORANGE COUNTY CALIFORNIA" party2_of="140967_2" local_name_id="2" id="140967_4" >ORANGE COUNTY, CALIFORNIA</NAME>
+
+<DOCKET end="68" entry_type="docket" lookup_key="kellycalifornia#4" id1="145970" start="62" citation_global_level_id="49492.001" line="3" id="140967_7" citation_local_level_id="1" >04-614</DOCKET>
+
+<ORGANIZATION start="74" end="104" id="140967_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="110" citation_global_level_id="49492.001" end="126" id="140967_9" citation_local_level_id="1" >January 10, 2005</DATE>
+
+<NAME start="158" local_name_id="3" end="161" id="140967_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="140967_2" party1="140967_3" party1_string="KELLY" theme_string="KELLY v. ORANGE COUNTY, CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="140967_5" ></RELATION>
+
+<RELATION party2="140967_4" theme="140967_2" theme_string="KELLY v. ORANGE COUNTY, CALIFORNIA" party2_string="ORANGE COUNTY, CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="140967_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1053" X_vs_Y_string="KELLY v. ORANGE COUNTY, CALIFORNIA" standard_case="140967_1" X_vs_Y="140967_2" gram_type="multi_line" relation_type="equivalence" id="140967_10" ></RELATION>
+
+<RELATION at_date_string="January 10, 2005" theme="140967_2" at_date="140967_9" theme_string="KELLY v. ORANGE COUNTY, CALIFORNIA" gram_type="multi_line" relation_type="asymmetric" id="140967_12" ></RELATION>
+
+<RELATION theme="140967_2" includes_docket_string="04-614" includes_docket="140967_7" theme_string="KELLY v. ORANGE COUNTY, CALIFORNIA" gram_type="multi_line" relation_type="asymmetric" id="140967_11" ></RELATION>
+

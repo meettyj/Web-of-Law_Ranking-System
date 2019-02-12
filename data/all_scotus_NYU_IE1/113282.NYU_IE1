@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['brannonlamaina#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_833" id1="113283" volume="510" start="0" page_number="833" standard_reporter="U.S." citation_global_level_id="806.002" line="1" id="113282_1" citation_local_level_id="0" >510 U.S. 833</CITATION>
+
+<CITATION party2="LaMaina" party1="Brannon" citation_global_level_id="23429.001" party2_short="LaMaina" line="1" id="113282_3" alternative_keys="['u.s._510_833']" end="35" entry_type="party_key" lookup_key="brannonlamaina#1" id1="113282" start="17" party1_short="Brannon" citation_local_level_id="1" >Brannon v. LaMaina</CITATION>
+
+<NAME end="24" start="17" party1_of="113282_3" all_names="BRANNON" local_name_id="1" id="113282_4" >Brannon</NAME>
+
+<NAME end="35" start="28" all_names="LAMAINA" party2_of="113282_3" local_name_id="2" id="113282_5" >LaMaina</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="u.s._510_833" id1="113283" start="45" citation_global_level_id="806.002" line="1" id="113282_2" citation_local_level_id="0" >92-8732</DOCKET>
+
+<DATE start="94" end="109" id="113282_6" >October 4, 1993</DATE>
+
+<NAME start="186" local_name_id="3" end="196" id="113282_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="235" reporter="A. 2d" entry_type="standard_key" no_current_file="True" lookup_key="a.2d_622_1094" id1="Dummy_File_87653" volume="622" start="221" page_number="1094" standard_reporter="A.2D" citation_global_level_id="151503.001" line="3" id="113282_12" citation_local_level_id="2" >622 A. 2d 1094</CITATION>
+
+<RELATION theme="113282_1" includes_docket_string="92-8732" includes_docket="113282_2" theme_string="510 U.S. 833" gram_type="apposition" relation_type="asymmetric" id="113282_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 833" X_vs_Y_string="Brannon v. LaMaina" standard_case="113282_1" X_vs_Y="113282_3" gram_type="pre_nom" relation_type="equivalence" id="113282_7" ></RELATION>
+
+<RELATION theme="113282_3" includes_docket_string="92-8732" includes_docket="113282_2" theme_string="Brannon v. LaMaina" gram_type="apposition" relation_type="asymmetric" id="113282_10" ></RELATION>
+
+<RELATION theme="113282_3" party1="113282_4" party1_string="Brannon" theme_string="Brannon v. LaMaina" gram_type="infix" relation_type="asymmetric" id="113282_8" ></RELATION>
+
+<RELATION party2="113282_5" theme="113282_3" theme_string="Brannon v. LaMaina" party2_string="LaMaina" gram_type="infix" relation_type="asymmetric" id="113282_9" ></RELATION>
+

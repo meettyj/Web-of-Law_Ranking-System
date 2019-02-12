@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['barrettstates#4']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1061" id1="116211" volume="510" start="0" page_number="1061" standard_reporter="U.S." citation_global_level_id="536.002" line="1" id="116213_1" citation_local_level_id="0" >510 U.S. 1061</CITATION>
+
+<CITATION party2="United States" party1="Barrett" citation_global_level_id="51179.001" party2_short="States" line="1" id="116213_3" alternative_keys="['u.s._510_1061']" end="42" entry_type="party_key" lookup_key="barrettstates#4" id1="135202" start="18" party1_short="Barrett" citation_local_level_id="1" >Barrett v. United States</CITATION>
+
+<NAME end="25" start="18" party1_of="116213_3" all_names="BARRETT" local_name_id="1" id="116213_4" >Barrett</NAME>
+
+<NAME end="42" start="29" all_names="UNITED STATES" party2_of="116213_3" local_name_id="2" id="116213_5" >United States</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="u.s._510_1061" id1="116211" start="52" citation_global_level_id="536.002" line="1" id="116213_2" citation_local_level_id="0" >93-6851</DOCKET>
+
+<DATE start="101" end="117" id="116213_6" >January 10, 1994</DATE>
+
+<NAME start="195" local_name_id="3" end="205" id="116213_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="241" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_3_437" id1="Dummy_File_8834" volume="3" start="230" page_number="437" standard_reporter="F.3D" citation_global_level_id="72684.001" line="3" id="116213_12" citation_local_level_id="2" >3 F. 3d 437</CITATION>
+
+<RELATION theme="116213_1" includes_docket_string="93-6851" includes_docket="116213_2" theme_string="510 U.S. 1061" gram_type="apposition" relation_type="asymmetric" id="116213_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1061" X_vs_Y_string="Barrett v. United States" standard_case="116213_1" X_vs_Y="116213_3" gram_type="pre_nom" relation_type="equivalence" id="116213_7" ></RELATION>
+
+<RELATION theme="116213_3" includes_docket_string="93-6851" includes_docket="116213_2" theme_string="Barrett v. United States" gram_type="apposition" relation_type="asymmetric" id="116213_10" ></RELATION>
+
+<RELATION theme="116213_3" party1="116213_4" party1_string="Barrett" theme_string="Barrett v. United States" gram_type="infix" relation_type="asymmetric" id="116213_8" ></RELATION>
+
+<RELATION party2="116213_5" theme="116213_3" theme_string="Barrett v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="116213_9" ></RELATION>
+

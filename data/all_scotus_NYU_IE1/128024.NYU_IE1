@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['franciswarden#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_910" id1="128031" volume="538" start="0" page_number="910" standard_reporter="U.S." citation_global_level_id="2018.002" line="1" id="128024_1" citation_local_level_id="0" >538 U.S. 910</CITATION>
+
+<CITATION party2="BROWN, WARDEN, ET AL" party1="FRANCIS" citation_global_level_id="2018.006" party2_short="WARDEN" line="1" id="128024_3" alternative_keys="['u.s._538_910']" end="48" entry_type="party_key" lookup_key="franciswarden#2" id1="128031" start="17" party1_short="FRANCIS" citation_local_level_id="1" >FRANCIS v. BROWN, WARDEN, ET AL</CITATION>
+
+<NAME end="24" start="17" party1_of="128024_3" all_names="FRANCIS" local_name_id="1" id="128024_4" >FRANCIS</NAME>
+
+<NAME end="48" start="28" all_names="BROWN WARDEN" party2_of="128024_3" local_name_id="2" id="128024_5" >BROWN, WARDEN, ET AL</NAME>
+
+<DOCKET end="65" entry_type="docket" lookup_key="u.s._538_910" id1="128031" start="58" citation_global_level_id="2018.002" line="1" id="128024_2" citation_local_level_id="0" >02-8312</DOCKET>
+
+<DATE start="107" end="121" id="128024_6" >March 10, 2003</DATE>
+
+<NAME start="250" local_name_id="3" end="253" id="128024_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="128024_1" includes_docket_string="02-8312" includes_docket="128024_2" theme_string="538 U.S. 910" gram_type="apposition" relation_type="asymmetric" id="128024_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 910" X_vs_Y_string="FRANCIS v. BROWN, WARDEN, ET AL" standard_case="128024_1" X_vs_Y="128024_3" gram_type="pre_nom" relation_type="equivalence" id="128024_7" ></RELATION>
+
+<RELATION theme="128024_3" includes_docket_string="02-8312" includes_docket="128024_2" theme_string="FRANCIS v. BROWN, WARDEN, ET AL" gram_type="apposition" relation_type="asymmetric" id="128024_10" ></RELATION>
+
+<RELATION theme="128024_3" party1="128024_4" party1_string="FRANCIS" theme_string="FRANCIS v. BROWN, WARDEN, ET AL" gram_type="infix" relation_type="asymmetric" id="128024_8" ></RELATION>
+
+<RELATION party2="128024_5" theme="128024_3" theme_string="FRANCIS v. BROWN, WARDEN, ET AL" party2_string="BROWN, WARDEN, ET AL" gram_type="infix" relation_type="asymmetric" id="128024_9" ></RELATION>
+

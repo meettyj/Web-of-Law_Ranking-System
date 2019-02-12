@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['jenningscarolina#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1028" id1="115832" volume="510" start="0" page_number="1028" standard_reporter="U.S." citation_global_level_id="3606.002" line="1" id="115823_1" citation_local_level_id="0" >510 U.S. 1028</CITATION>
+
+<CITATION party2="North Carolina" party1="Jennings" citation_global_level_id="62720.001" party2_short="Carolina" line="1" id="115823_3" alternative_keys="['u.s._510_1028']" end="44" entry_type="party_key" lookup_key="jenningscarolina#1" id1="115823" start="18" party1_short="Jennings" citation_local_level_id="1" >Jennings v. North Carolina</CITATION>
+
+<NAME end="26" start="18" party1_of="115823_3" all_names="JENNINGS" local_name_id="1" id="115823_4" >Jennings</NAME>
+
+<NAME end="44" start="30" all_names="NORTH CAROLINA" party2_of="115823_3" local_name_id="2" id="115823_5" >North Carolina</NAME>
+
+<DOCKET end="61" entry_type="docket" lookup_key="u.s._510_1028" id1="115832" start="54" citation_global_level_id="3606.002" line="1" id="115823_2" citation_local_level_id="0" >93-6506</DOCKET>
+
+<DATE start="103" end="120" id="115823_6" >December 13, 1993</DATE>
+
+<NAME start="198" local_name_id="3" end="208" id="115823_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="246" reporter="N. C." entry_type="standard_key" no_current_file="True" lookup_key="n.c._333_579" id1="Dummy_File_104462" volume="333" start="233" page_number="579" standard_reporter="N.C." citation_global_level_id="168312.001" line="3" id="115823_12" citation_local_level_id="2" >333 N. C. 579</CITATION>
+
+<CITATION end="264" reporter="S. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="s.e.2d_430_188" id1="Dummy_File_104463" volume="430" start="248" page_number="188" standard_reporter="S.E.2D" citation_global_level_id="168313.001" line="3" id="115823_13" citation_local_level_id="3" >430 S. E. 2d 188</CITATION>
+
+<RELATION theme="115823_1" includes_docket_string="93-6506" includes_docket="115823_2" theme_string="510 U.S. 1028" gram_type="apposition" relation_type="asymmetric" id="115823_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1028" X_vs_Y_string="Jennings v. North Carolina" standard_case="115823_1" X_vs_Y="115823_3" gram_type="pre_nom" relation_type="equivalence" id="115823_7" ></RELATION>
+
+<RELATION theme="115823_3" includes_docket_string="93-6506" includes_docket="115823_2" theme_string="Jennings v. North Carolina" gram_type="apposition" relation_type="asymmetric" id="115823_10" ></RELATION>
+
+<RELATION theme="115823_3" party1="115823_4" party1_string="Jennings" theme_string="Jennings v. North Carolina" gram_type="infix" relation_type="asymmetric" id="115823_8" ></RELATION>
+
+<RELATION party2="115823_5" theme="115823_3" theme_string="Jennings v. North Carolina" party2_string="North Carolina" gram_type="infix" relation_type="asymmetric" id="115823_9" ></RELATION>
+

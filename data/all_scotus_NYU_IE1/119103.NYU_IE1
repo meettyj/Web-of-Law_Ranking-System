@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['harrellbutterworth#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_958" id1="119115" volume="535" start="0" page_number="958" standard_reporter="U.S." citation_global_level_id="1579.002" line="1" id="119103_1" citation_local_level_id="0" >535 U.S. 958</CITATION>
+
+<CITATION party2="BUTTERWORTH, ATTORNEY GENERAL OF FLORIDA, ET AL" party1="HARRELL" citation_global_level_id="1579.003" party2_short="BUTTERWORTH" line="2" id="119103_2" alternative_keys="['u.s._535_958']" end="75" entry_type="party_key" lookup_key="harrellbutterworth#1" id1="119115" start="17" party1_short="HARRELL" citation_local_level_id="1" >HARRELL v. BUTTERWORTH, ATTORNEY GENERAL OF FLORIDA, ET AL</CITATION>
+
+<NAME end="24" start="17" party1_of="119103_2" all_names="HARRELL" local_name_id="1" id="119103_3" >HARRELL</NAME>
+
+<NAME end="75" start="28" all_names="BUTTERWORTH ATTORNEY GENERAL OF FLORIDA" party2_of="119103_2" local_name_id="2" id="119103_4" >BUTTERWORTH, ATTORNEY GENERAL OF FLORIDA, ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._535_958']" end="92" entry_type="docket" lookup_key="harrellbutterworth#1" id1="119115" start="85" citation_global_level_id="1579.003" line="3" id="119103_7" citation_local_level_id="1" >01-7902</DOCKET>
+
+<DATE start="138" citation_global_level_id="1579.003" end="152" id="119103_8" citation_local_level_id="1" >March 25, 2002</DATE>
+
+<NAME start="185" local_name_id="3" end="188" id="119103_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="238" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_251_926" id1="Dummy_File_18696" volume="251" start="225" page_number="926" standard_reporter="F.3D" citation_global_level_id="82546.001" line="8" id="119103_12" citation_local_level_id="2" >251 F. 3d 926</CITATION>
+
+<RELATION theme="119103_2" party1="119103_3" party1_string="HARRELL" theme_string="HARRELL v. BUTTERWORTH, ATTORNEY GENERAL OF FLORIDA, ET AL" gram_type="infix" relation_type="asymmetric" id="119103_5" ></RELATION>
+
+<RELATION party2="119103_4" theme="119103_2" theme_string="HARRELL v. BUTTERWORTH, ATTORNEY GENERAL OF FLORIDA, ET AL" party2_string="BUTTERWORTH, ATTORNEY GENERAL OF FLORIDA, ET AL" gram_type="infix" relation_type="asymmetric" id="119103_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 958" X_vs_Y_string="HARRELL v. BUTTERWORTH, ATTORNEY GENERAL OF FLORIDA, ET AL" standard_case="119103_1" X_vs_Y="119103_2" gram_type="multi_line" relation_type="equivalence" id="119103_9" ></RELATION>
+
+<RELATION at_date_string="March 25, 2002" theme="119103_2" at_date="119103_8" theme_string="HARRELL v. BUTTERWORTH, ATTORNEY GENERAL OF FLORIDA, ET AL" gram_type="multi_line" relation_type="asymmetric" id="119103_11" ></RELATION>
+
+<RELATION theme="119103_2" includes_docket_string="01-7902" includes_docket="119103_7" theme_string="HARRELL v. BUTTERWORTH, ATTORNEY GENERAL OF FLORIDA, ET AL" gram_type="multi_line" relation_type="asymmetric" id="119103_10" ></RELATION>
+

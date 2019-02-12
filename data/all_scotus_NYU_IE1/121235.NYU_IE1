@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['carrollpfeffer#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._536_907" id1="121240" volume="536" start="0" page_number="907" standard_reporter="U.S." citation_global_level_id="5748.002" line="1" id="121235_1" citation_local_level_id="0" >536 U.S. 907</CITATION>
+
+<CITATION party2="PFEFFER" party1="CARROLL" citation_global_level_id="28351.001" party2_short="PFEFFER" line="2" id="121235_2" alternative_keys="['u.s._536_907']" end="35" entry_type="party_key" lookup_key="carrollpfeffer#2" id1="121235" start="17" party1_short="CARROLL" citation_local_level_id="1" >CARROLL v. PFEFFER</CITATION>
+
+<NAME end="24" start="17" party1_of="121235_2" all_names="CARROLL" local_name_id="1" id="121235_3" >CARROLL</NAME>
+
+<NAME end="35" start="28" all_names="PFEFFER" party2_of="121235_2" local_name_id="2" id="121235_4" >PFEFFER</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="carrollpfeffer#2" id1="121235" start="45" citation_global_level_id="28351.001" line="3" id="121235_7" citation_local_level_id="1" >01-9475</DOCKET>
+
+<DATE start="98" citation_global_level_id="28351.001" end="111" id="121235_8" citation_local_level_id="1" >June 10, 2002</DATE>
+
+<NAME start="143" local_name_id="3" end="146" id="121235_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="196" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_262_847" id1="Dummy_File_83853" volume="262" start="183" page_number="847" standard_reporter="F.3D" citation_global_level_id="147703.001" line="8" id="121235_12" citation_local_level_id="2" >262 F. 3d 847</CITATION>
+
+<RELATION theme="121235_2" party1="121235_3" party1_string="CARROLL" theme_string="CARROLL v. PFEFFER" gram_type="infix" relation_type="asymmetric" id="121235_5" ></RELATION>
+
+<RELATION party2="121235_4" theme="121235_2" theme_string="CARROLL v. PFEFFER" party2_string="PFEFFER" gram_type="infix" relation_type="asymmetric" id="121235_6" ></RELATION>
+
+<RELATION standard_case_string="536 U.S. 907" X_vs_Y_string="CARROLL v. PFEFFER" standard_case="121235_1" X_vs_Y="121235_2" gram_type="multi_line" relation_type="equivalence" id="121235_9" ></RELATION>
+
+<RELATION at_date_string="June 10, 2002" theme="121235_2" at_date="121235_8" theme_string="CARROLL v. PFEFFER" gram_type="multi_line" relation_type="asymmetric" id="121235_11" ></RELATION>
+
+<RELATION theme="121235_2" includes_docket_string="01-9475" includes_docket="121235_7" theme_string="CARROLL v. PFEFFER" gram_type="multi_line" relation_type="asymmetric" id="121235_10" ></RELATION>
+

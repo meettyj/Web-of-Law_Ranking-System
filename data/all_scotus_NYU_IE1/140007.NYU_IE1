@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['muhammedcommission#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_975" id1="140006" volume="543" start="0" page_number="975" standard_reporter="U.S." citation_global_level_id="3187.002" line="1" id="140007_1" citation_local_level_id="0" >543 U.S. 975</CITATION>
+
+<CITATION party2="UNITED STATES PAROLE COMMISSION" party1="STOKES, AKA MUHAMMED" citation_global_level_id="3187.003" party2_short="COMMISSION" line="2" id="140007_2" alternative_keys="['u.s._543_975']" end="72" entry_type="party_key" lookup_key="muhammedcommission#1" id1="140006" start="17" party1_short="MUHAMMED" citation_local_level_id="1" >STOKES, AKA MUHAMMED v. UNITED STATES PAROLE COMMISSION</CITATION>
+
+<NAME end="37" start="17" party1_of="140007_2" all_names="STOKES AKA MUHAMMED" local_name_id="1" id="140007_3" >STOKES, AKA MUHAMMED</NAME>
+
+<NAME end="72" start="41" all_names="UNITED STATES PAROLE COMMISSION" party2_of="140007_2" local_name_id="2" id="140007_4" >UNITED STATES PAROLE COMMISSION</NAME>
+
+<DOCKET alternative_keys="['u.s._543_975']" end="89" entry_type="docket" lookup_key="muhammedcommission#1" id1="140006" start="82" citation_global_level_id="3187.003" line="3" id="140007_7" citation_local_level_id="1" >04-6584</DOCKET>
+
+<ORGANIZATION start="95" end="125" id="140007_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="131" citation_global_level_id="3187.003" end="147" id="140007_9" citation_local_level_id="1" >November 1, 2004</DATE>
+
+<NAME start="169" local_name_id="3" end="184" id="140007_14" all_names="C A D C CIR" >C. A. D. C. Cir</NAME>
+
+<NAME start="186" local_name_id="4" end="196" id="140007_15" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="235" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_374_1235" id1="Dummy_File_145852" volume="374" start="221" page_number="1235" standard_reporter="F.3D" citation_global_level_id="209702.001" line="8" id="140007_13" citation_local_level_id="2" >374 F. 3d 1235</CITATION>
+
+<RELATION theme="140007_2" party1="140007_3" party1_string="STOKES, AKA MUHAMMED" theme_string="STOKES, AKA MUHAMMED v. UNITED STATES PAROLE COMMISSION" gram_type="infix" relation_type="asymmetric" id="140007_5" ></RELATION>
+
+<RELATION party2="140007_4" theme="140007_2" theme_string="STOKES, AKA MUHAMMED v. UNITED STATES PAROLE COMMISSION" party2_string="UNITED STATES PAROLE COMMISSION" gram_type="infix" relation_type="asymmetric" id="140007_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 975" X_vs_Y_string="STOKES, AKA MUHAMMED v. UNITED STATES PAROLE COMMISSION" standard_case="140007_1" X_vs_Y="140007_2" gram_type="multi_line" relation_type="equivalence" id="140007_10" ></RELATION>
+
+<RELATION at_date_string="November 1, 2004" theme="140007_2" at_date="140007_9" theme_string="STOKES, AKA MUHAMMED v. UNITED STATES PAROLE COMMISSION" gram_type="multi_line" relation_type="asymmetric" id="140007_12" ></RELATION>
+
+<RELATION theme="140007_2" includes_docket_string="04-6584" includes_docket="140007_7" theme_string="STOKES, AKA MUHAMMED v. UNITED STATES PAROLE COMMISSION" gram_type="multi_line" relation_type="asymmetric" id="140007_11" ></RELATION>
+

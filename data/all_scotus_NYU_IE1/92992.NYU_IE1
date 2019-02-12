@@ -1,0 +1,52 @@
+<CITATION alternative_keys="['rywenzel#2', 's.ct._11_396', 'l.ed._35_73']" end="11" reporter="U.S." entry_type="standard_key" lookup_key="u.s._139_23" id1="92992" volume="139" start="0" page_number="23" standard_reporter="U.S." citation_global_level_id="47487.002" line="1" id="92992_1" citation_local_level_id="0" >139 U.S. 23</CITATION>
+
+<CITATION alternative_keys="['u.s._139_23', 'rywenzel#2', 'l.ed._35_73']" end="29" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._11_396" id1="92992" volume="11" start="16" page_number="396" standard_reporter="S.CT." citation_global_level_id="47487.003" line="1" id="92992_2" citation_local_level_id="1" >11 S. Ct. 396</CITATION>
+
+<NAME start="19" local_name_id="1" end="24" id="92992_8" all_names="S CT" >S. Ct</NAME>
+
+<CITATION alternative_keys="['u.s._139_23', 's.ct._11_396', 'rywenzel#2']" end="46" reporter="L. Ed." entry_type="standard_key" lookup_key="l.ed._35_73" id1="92992" volume="35" start="34" page_number="73" standard_reporter="L.ED." citation_global_level_id="47487.004" line="1" id="92992_3" citation_local_level_id="2" >35 L. Ed. 73</CITATION>
+
+<CITATION party2="WENZEL" party1="ST. PAUL, M. &amp; M. RY. CO." citation_global_level_id="47487.005" party2_short="WENZEL" line="1" id="92992_4" alternative_keys="['s.ct._11_396', 'l.ed._35_73', 'u.s._139_23']" end="86" entry_type="party_key" lookup_key="rywenzel#2" id1="92992" start="51" party1_short="RY" citation_local_level_id="3" >ST. PAUL, M. &amp; M. RY. CO. v. WENZEL</CITATION>
+
+<NAME end="76" start="51" party1_of="92992_4" all_names="ST PAUL M &amp; M RY CO" local_name_id="2" id="92992_5" >ST. PAUL, M. &amp; M. RY. CO.</NAME>
+
+<NAME end="86" start="80" all_names="WENZEL" party2_of="92992_4" local_name_id="3" id="92992_6" >WENZEL</NAME>
+
+<DATE start="92" citation_global_level_id="47487.002" end="105" id="92992_7" citation_local_level_id="0" >March 2, 1891</DATE>
+
+<NAME start="153" local_name_id="4" end="170" id="92992_18" all_names="S J R MCMILLAN" >S. J. R. McMillan</NAME>
+
+<LEGAL_ROLE start="176" end="184" id="92992_19" party="party2" >appellee</LEGAL_ROLE>
+
+<NAME start="192" local_name_id="5" end="197" id="92992_20" all_names="FIELD" >FIELD</NAME>
+
+<CITATION party2="Greenalgh" party1="Railway Co." citation_global_level_id="284370.001" party2_short="Greenalgh" line="7" id="92992_21" end="299" no_current_file="True" entry_type="party_key" lookup_key="railwaygreenalgh#1" id1="Dummy_File_220520" start="275" party1_short="Railway" citation_local_level_id="4" >Railway Co. v. Greenalgh</CITATION>
+
+<NAME end="286" start="275" party1_of="92992_21" all_names="RAILWAY CO" local_name_id="6" id="92992_22" >Railway Co.</NAME>
+
+<ORGANIZATION start="275" end="285" id="92992_24" >Railway Co</ORGANIZATION>
+
+<NAME end="299" start="290" all_names="GREENALGH" party2_of="92992_21" local_name_id="7" id="92992_23" >Greenalgh</NAME>
+
+<RELATION at_date_string="March 2, 1891" theme="92992_1" at_date="92992_7" theme_string="139 U.S. 23" gram_type="apposition" relation_type="asymmetric" id="92992_16" ></RELATION>
+
+<RELATION standard_case_string="139 U.S. 23" X_vs_Y_string="ST. PAUL, M. &amp; M. RY. CO. v. WENZEL" standard_case="92992_1" X_vs_Y="92992_4" gram_type="pre_nom" relation_type="equivalence" id="92992_10" ></RELATION>
+
+<RELATION at_date_string="March 2, 1891" theme="92992_2" at_date="92992_7" theme_string="11 S. Ct. 396" gram_type="apposition" relation_type="asymmetric" id="92992_17" ></RELATION>
+
+<RELATION standard_case_string="11 S. Ct. 396" X_vs_Y_string="ST. PAUL, M. &amp; M. RY. CO. v. WENZEL" standard_case="92992_2" X_vs_Y="92992_4" gram_type="pre_nom" relation_type="equivalence" id="92992_11" ></RELATION>
+
+<RELATION at_date_string="March 2, 1891" theme="92992_3" at_date="92992_7" theme_string="35 L. Ed. 73" gram_type="apposition" relation_type="asymmetric" id="92992_15" ></RELATION>
+
+<RELATION standard_case_string="35 L. Ed. 73" X_vs_Y_string="ST. PAUL, M. &amp; M. RY. CO. v. WENZEL" standard_case="92992_3" X_vs_Y="92992_4" gram_type="pre_nom" relation_type="equivalence" id="92992_9" ></RELATION>
+
+<RELATION at_date_string="March 2, 1891" theme="92992_4" at_date="92992_7" theme_string="ST. PAUL, M. &amp; M. RY. CO. v. WENZEL" gram_type="apposition" relation_type="asymmetric" id="92992_14" ></RELATION>
+
+<RELATION theme="92992_4" party1="92992_5" party1_string="ST. PAUL, M. &amp; M. RY. CO." theme_string="ST. PAUL, M. &amp; M. RY. CO. v. WENZEL" gram_type="infix" relation_type="asymmetric" id="92992_12" ></RELATION>
+
+<RELATION party2="92992_6" theme="92992_4" theme_string="ST. PAUL, M. &amp; M. RY. CO. v. WENZEL" party2_string="WENZEL" gram_type="infix" relation_type="asymmetric" id="92992_13" ></RELATION>
+
+<RELATION theme="92992_21" party1="92992_22" party1_string="Railway Co." theme_string="Railway Co. v. Greenalgh" gram_type="infix" relation_type="asymmetric" id="92992_25" ></RELATION>
+
+<RELATION party2="92992_23" theme="92992_21" theme_string="Railway Co. v. Greenalgh" party2_string="Greenalgh" gram_type="infix" relation_type="asymmetric" id="92992_26" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['rodriguezflorida#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_830" id1="113252" volume="510" start="0" page_number="830" standard_reporter="U.S." citation_global_level_id="8595.002" line="1" id="113245_1" citation_local_level_id="0" >510 U.S. 830</CITATION>
+
+<CITATION party2="Florida" party1="Rodriguez" citation_global_level_id="40866.001" party2_short="Florida" line="1" id="113245_3" alternative_keys="['u.s._510_830']" end="37" entry_type="party_key" lookup_key="rodriguezflorida#1" id1="113245" start="17" party1_short="Rodriguez" citation_local_level_id="1" >Rodriguez v. Florida</CITATION>
+
+<NAME end="26" start="17" party1_of="113245_3" all_names="RODRIGUEZ" local_name_id="1" id="113245_4" >Rodriguez</NAME>
+
+<NAME end="37" start="30" all_names="FLORIDA" party2_of="113245_3" local_name_id="2" id="113245_5" >Florida</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="u.s._510_830" id1="113252" start="47" citation_global_level_id="8595.002" line="1" id="113245_2" citation_local_level_id="0" >92-8369</DOCKET>
+
+<DATE start="96" end="111" id="113245_6" >October 4, 1993</DATE>
+
+<NAME start="188" local_name_id="3" end="198" id="113245_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="237" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_609_493" id1="Dummy_File_163887" volume="609" start="223" page_number="493" standard_reporter="SO.2D" citation_global_level_id="227737.001" line="3" id="113245_12" citation_local_level_id="2" >609 So. 2d 493</CITATION>
+
+<RELATION theme="113245_1" includes_docket_string="92-8369" includes_docket="113245_2" theme_string="510 U.S. 830" gram_type="apposition" relation_type="asymmetric" id="113245_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 830" X_vs_Y_string="Rodriguez v. Florida" standard_case="113245_1" X_vs_Y="113245_3" gram_type="pre_nom" relation_type="equivalence" id="113245_7" ></RELATION>
+
+<RELATION theme="113245_3" includes_docket_string="92-8369" includes_docket="113245_2" theme_string="Rodriguez v. Florida" gram_type="apposition" relation_type="asymmetric" id="113245_10" ></RELATION>
+
+<RELATION theme="113245_3" party1="113245_4" party1_string="Rodriguez" theme_string="Rodriguez v. Florida" gram_type="infix" relation_type="asymmetric" id="113245_8" ></RELATION>
+
+<RELATION party2="113245_5" theme="113245_3" theme_string="Rodriguez v. Florida" party2_string="Florida" gram_type="infix" relation_type="asymmetric" id="113245_9" ></RELATION>
+

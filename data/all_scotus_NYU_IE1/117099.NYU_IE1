@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['schwarzdepartment#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1135" id1="117105" volume="510" start="0" page_number="1135" standard_reporter="U.S." citation_global_level_id="3740.002" line="1" id="117099_1" citation_local_level_id="0" >510 U.S. 1135</CITATION>
+
+<CITATION party2="Department of Commerce" party1="Schwarz" citation_global_level_id="29069.001" party2_short="Department" line="1" id="117099_3" alternative_keys="['u.s._510_1135']" end="51" entry_type="party_key" lookup_key="schwarzdepartment#1" id1="117099" start="18" party1_short="Schwarz" citation_local_level_id="1" >Schwarz v. Department of Commerce</CITATION>
+
+<NAME end="25" start="18" party1_of="117099_3" all_names="SCHWARZ" local_name_id="1" id="117099_4" >Schwarz</NAME>
+
+<NAME end="51" start="29" all_names="DEPARTMENT OF COMMERCE" party2_of="117099_3" local_name_id="2" id="117099_5" >Department of Commerce</NAME>
+
+<DOCKET end="68" entry_type="docket" lookup_key="u.s._510_1135" id1="117105" start="61" citation_global_level_id="3740.002" line="1" id="117099_2" citation_local_level_id="0" >93-7382</DOCKET>
+
+<DATE start="110" end="127" id="117099_6" >February 22, 1994</DATE>
+
+<NAME start="207" local_name_id="3" end="217" id="117099_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="117099_1" includes_docket_string="93-7382" includes_docket="117099_2" theme_string="510 U.S. 1135" gram_type="apposition" relation_type="asymmetric" id="117099_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1135" X_vs_Y_string="Schwarz v. Department of Commerce" standard_case="117099_1" X_vs_Y="117099_3" gram_type="pre_nom" relation_type="equivalence" id="117099_7" ></RELATION>
+
+<RELATION theme="117099_3" includes_docket_string="93-7382" includes_docket="117099_2" theme_string="Schwarz v. Department of Commerce" gram_type="apposition" relation_type="asymmetric" id="117099_10" ></RELATION>
+
+<RELATION theme="117099_3" party1="117099_4" party1_string="Schwarz" theme_string="Schwarz v. Department of Commerce" gram_type="infix" relation_type="asymmetric" id="117099_8" ></RELATION>
+
+<RELATION party2="117099_5" theme="117099_3" theme_string="Schwarz v. Department of Commerce" party2_string="Department of Commerce" gram_type="infix" relation_type="asymmetric" id="117099_9" ></RELATION>
+

@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['ashcroftsingh#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_941" id1="130653" volume="539" start="0" page_number="941" standard_reporter="U.S." citation_global_level_id="5554.002" line="1" id="130648_1" citation_local_level_id="0" >539 U.S. 941</CITATION>
+
+<CITATION party2="Singh" party1="Ashcroft, Attorney General" citation_global_level_id="5554.003" party2_short="Singh" line="1" id="130648_3" alternative_keys="['u.s._539_941']" end="52" entry_type="party_key" lookup_key="ashcroftsingh#1" id1="130653" start="17" party1_short="Ashcroft" citation_local_level_id="1" >Ashcroft, Attorney General v. Singh</CITATION>
+
+<NAME end="43" start="17" party1_of="130648_3" all_names="ASHCROFT ATTORNEY GENERAL" local_name_id="1" id="130648_4" >Ashcroft, Attorney General</NAME>
+
+<NAME start="17" local_name_id="2" end="25" id="130648_7" all_names="ASHCROFT" >Ashcroft</NAME>
+
+<PROFESSION start="27" end="43" id="130648_8" >Attorney General</PROFESSION>
+
+<NAME end="52" start="47" all_names="SINGH" party2_of="130648_3" local_name_id="3" id="130648_5" >Singh</NAME>
+
+<DOCKET end="69" entry_type="docket" lookup_key="u.s._539_941" id1="130653" start="62" citation_global_level_id="5554.002" line="1" id="130648_2" citation_local_level_id="0" >02-1123</DOCKET>
+
+<DATE start="111" end="124" id="130648_6" >June 23, 2003</DATE>
+
+<NAME start="202" local_name_id="4" end="212" id="130648_15" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="251" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_295_1037" id1="Dummy_File_38522" volume="295" start="237" page_number="1037" standard_reporter="F.3D" citation_global_level_id="102372.001" line="3" id="130648_14" citation_local_level_id="2" >295 F. 3d 1037</CITATION>
+
+<RELATION theme="130648_1" includes_docket_string="02-1123" includes_docket="130648_2" theme_string="539 U.S. 941" gram_type="apposition" relation_type="asymmetric" id="130648_13" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 941" X_vs_Y_string="Ashcroft, Attorney General v. Singh" standard_case="130648_1" X_vs_Y="130648_3" gram_type="pre_nom" relation_type="equivalence" id="130648_9" ></RELATION>
+
+<RELATION theme="130648_3" includes_docket_string="02-1123" includes_docket="130648_2" theme_string="Ashcroft, Attorney General v. Singh" gram_type="apposition" relation_type="asymmetric" id="130648_12" ></RELATION>
+
+<RELATION theme="130648_3" party1="130648_4" party1_string="Ashcroft, Attorney General" theme_string="Ashcroft, Attorney General v. Singh" gram_type="infix" relation_type="asymmetric" id="130648_10" ></RELATION>
+
+<RELATION party2="130648_5" theme="130648_3" theme_string="Ashcroft, Attorney General v. Singh" party2_string="Singh" gram_type="infix" relation_type="asymmetric" id="130648_11" ></RELATION>
+

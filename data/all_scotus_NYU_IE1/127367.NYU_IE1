@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['hernandezcalifornia#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1207" id1="127367" volume="537" start="0" page_number="1207" standard_reporter="U.S." citation_global_level_id="3958.002" line="1" id="127367_1" citation_local_level_id="0" >537 U.S. 1207</CITATION>
+
+<CITATION party2="CALIFORNIA" party1="HERNANDEZ" citation_global_level_id="3958.001" party2_short="CALIFORNIA" line="1" id="127367_3" alternative_keys="['u.s._537_1207']" end="41" entry_type="party_key" lookup_key="hernandezcalifornia#1" id1="127367" start="18" party1_short="HERNANDEZ" citation_local_level_id="1" >HERNANDEZ v. CALIFORNIA</CITATION>
+
+<NAME end="27" start="18" party1_of="127367_3" all_names="HERNANDEZ" local_name_id="1" id="127367_4" >HERNANDEZ</NAME>
+
+<NAME end="41" start="31" all_names="CALIFORNIA" party2_of="127367_3" local_name_id="2" id="127367_5" >CALIFORNIA</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._537_1207" id1="127367" start="51" citation_global_level_id="3958.002" line="1" id="127367_2" citation_local_level_id="0" >02-8094</DOCKET>
+
+<DATE start="100" end="117" id="127367_6" >February 24, 2003</DATE>
+
+<NAME start="211" local_name_id="3" end="214" id="127367_12" all_names="SUP" >Sup</NAME>
+
+<RELATION theme="127367_1" includes_docket_string="02-8094" includes_docket="127367_2" theme_string="537 U.S. 1207" gram_type="apposition" relation_type="asymmetric" id="127367_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1207" X_vs_Y_string="HERNANDEZ v. CALIFORNIA" standard_case="127367_1" X_vs_Y="127367_3" gram_type="pre_nom" relation_type="equivalence" id="127367_7" ></RELATION>
+
+<RELATION theme="127367_3" includes_docket_string="02-8094" includes_docket="127367_2" theme_string="HERNANDEZ v. CALIFORNIA" gram_type="apposition" relation_type="asymmetric" id="127367_10" ></RELATION>
+
+<RELATION theme="127367_3" party1="127367_4" party1_string="HERNANDEZ" theme_string="HERNANDEZ v. CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="127367_8" ></RELATION>
+
+<RELATION party2="127367_5" theme="127367_3" theme_string="HERNANDEZ v. CALIFORNIA" party2_string="CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="127367_9" ></RELATION>
+

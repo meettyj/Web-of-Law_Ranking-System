@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['millergroup#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_842" id1="131691" volume="540" start="0" page_number="842" standard_reporter="U.S." citation_global_level_id="2174.002" line="1" id="131686_1" citation_local_level_id="0" >540 U.S. 842</CITATION>
+
+<CITATION party2="NORTHRIDGE FAMILY PRACTICE MEDICAL GROUP ET AL" party1="MILLER" citation_global_level_id="36467.001" party2_short="GROUP" line="1" id="131686_3" alternative_keys="['u.s._540_842']" end="73" entry_type="party_key" lookup_key="millergroup#1" id1="131686" start="17" party1_short="MILLER" citation_local_level_id="1" >MILLER v. NORTHRIDGE FAMILY PRACTICE MEDICAL GROUP ET AL</CITATION>
+
+<NAME end="23" start="17" party1_of="131686_3" all_names="MILLER" local_name_id="1" id="131686_4" >MILLER</NAME>
+
+<NAME end="73" start="27" all_names="NORTHRIDGE FAMILY PRACTICE MEDICAL GROUP" party2_of="131686_3" local_name_id="2" id="131686_5" >NORTHRIDGE FAMILY PRACTICE MEDICAL GROUP ET AL</NAME>
+
+<DOCKET end="91" entry_type="docket" lookup_key="u.s._540_842" id1="131691" start="83" citation_global_level_id="2174.002" line="1" id="131686_2" citation_local_level_id="0" >02-10905</DOCKET>
+
+<DATE start="133" end="148" id="131686_6" >October 6, 2003</DATE>
+
+<NAME start="240" local_name_id="3" end="250" id="131686_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="131686_1" includes_docket_string="02-10905" includes_docket="131686_2" theme_string="540 U.S. 842" gram_type="apposition" relation_type="asymmetric" id="131686_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 842" X_vs_Y_string="MILLER v. NORTHRIDGE FAMILY PRACTICE MEDICAL GROUP ET AL" standard_case="131686_1" X_vs_Y="131686_3" gram_type="pre_nom" relation_type="equivalence" id="131686_7" ></RELATION>
+
+<RELATION theme="131686_3" includes_docket_string="02-10905" includes_docket="131686_2" theme_string="MILLER v. NORTHRIDGE FAMILY PRACTICE MEDICAL GROUP ET AL" gram_type="apposition" relation_type="asymmetric" id="131686_10" ></RELATION>
+
+<RELATION theme="131686_3" party1="131686_4" party1_string="MILLER" theme_string="MILLER v. NORTHRIDGE FAMILY PRACTICE MEDICAL GROUP ET AL" gram_type="infix" relation_type="asymmetric" id="131686_8" ></RELATION>
+
+<RELATION party2="131686_5" theme="131686_3" theme_string="MILLER v. NORTHRIDGE FAMILY PRACTICE MEDICAL GROUP ET AL" party2_string="NORTHRIDGE FAMILY PRACTICE MEDICAL GROUP ET AL" gram_type="infix" relation_type="asymmetric" id="131686_9" ></RELATION>
+

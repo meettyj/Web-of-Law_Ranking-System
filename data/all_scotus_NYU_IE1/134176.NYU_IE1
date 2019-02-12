@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['suttonstates#3']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_1050" id1="134179" volume="540" start="0" page_number="1050" standard_reporter="U.S." citation_global_level_id="5337.002" line="1" id="134176_1" citation_local_level_id="0" >540 U.S. 1050</CITATION>
+
+<CITATION party2="UNITED STATES" party1="SUTTON" citation_global_level_id="47295.001" party2_short="STATES" line="1" id="134176_3" alternative_keys="['u.s._540_1050']" end="41" entry_type="party_key" lookup_key="suttonstates#3" id1="126203" start="18" party1_short="SUTTON" citation_local_level_id="1" >SUTTON v. UNITED STATES</CITATION>
+
+<NAME end="24" start="18" party1_of="134176_3" all_names="SUTTON" local_name_id="1" id="134176_4" >SUTTON</NAME>
+
+<NAME end="41" start="28" all_names="UNITED STATES" party2_of="134176_3" local_name_id="2" id="134176_5" >UNITED STATES</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._540_1050" id1="134179" start="51" citation_global_level_id="5337.002" line="1" id="134176_2" citation_local_level_id="0" >03-614</DOCKET>
+
+<DATE start="99" end="115" id="134176_6" >December 1, 2003</DATE>
+
+<NAME start="193" local_name_id="3" end="203" id="134176_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="241" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_337_792" id1="Dummy_File_145570" volume="337" start="228" page_number="792" standard_reporter="F.3D" citation_global_level_id="209420.001" line="3" id="134176_12" citation_local_level_id="2" >337 F. 3d 792</CITATION>
+
+<RELATION theme="134176_1" includes_docket_string="03-614" includes_docket="134176_2" theme_string="540 U.S. 1050" gram_type="apposition" relation_type="asymmetric" id="134176_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 1050" X_vs_Y_string="SUTTON v. UNITED STATES" standard_case="134176_1" X_vs_Y="134176_3" gram_type="pre_nom" relation_type="equivalence" id="134176_7" ></RELATION>
+
+<RELATION theme="134176_3" includes_docket_string="03-614" includes_docket="134176_2" theme_string="SUTTON v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="134176_10" ></RELATION>
+
+<RELATION theme="134176_3" party1="134176_4" party1_string="SUTTON" theme_string="SUTTON v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="134176_8" ></RELATION>
+
+<RELATION party2="134176_5" theme="134176_3" theme_string="SUTTON v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="134176_9" ></RELATION>
+

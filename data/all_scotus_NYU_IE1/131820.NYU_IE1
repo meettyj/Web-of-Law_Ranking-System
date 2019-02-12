@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['ayalastates#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_852" id1="131812" volume="540" start="0" page_number="852" standard_reporter="U.S." citation_global_level_id="13647.002" line="1" id="131820_1" citation_local_level_id="0" >540 U.S. 852</CITATION>
+
+<CITATION party2="UNITED STATES" party1="AYALA" citation_global_level_id="54880.001" party2_short="STATES" line="1" id="131820_3" alternative_keys="['u.s._540_852']" end="39" entry_type="party_key" lookup_key="ayalastates#2" id1="131820" start="17" party1_short="AYALA" citation_local_level_id="1" >AYALA v. UNITED STATES</CITATION>
+
+<NAME end="22" start="17" party1_of="131820_3" all_names="AYALA" local_name_id="1" id="131820_4" >AYALA</NAME>
+
+<NAME end="39" start="26" all_names="UNITED STATES" party2_of="131820_3" local_name_id="2" id="131820_5" >UNITED STATES</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._540_852" id1="131812" start="49" citation_global_level_id="13647.002" line="1" id="131820_2" citation_local_level_id="0" >02-11068</DOCKET>
+
+<DATE start="99" end="114" id="131820_6" >October 6, 2003</DATE>
+
+<NAME start="192" local_name_id="3" end="202" id="131820_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="241" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_313_1068" id1="Dummy_File_210028" volume="313" start="227" page_number="1068" standard_reporter="F.3D" citation_global_level_id="273878.001" line="3" id="131820_12" citation_local_level_id="2" >313 F. 3d 1068</CITATION>
+
+<RELATION theme="131820_1" includes_docket_string="02-11068" includes_docket="131820_2" theme_string="540 U.S. 852" gram_type="apposition" relation_type="asymmetric" id="131820_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 852" X_vs_Y_string="AYALA v. UNITED STATES" standard_case="131820_1" X_vs_Y="131820_3" gram_type="pre_nom" relation_type="equivalence" id="131820_7" ></RELATION>
+
+<RELATION theme="131820_3" includes_docket_string="02-11068" includes_docket="131820_2" theme_string="AYALA v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="131820_10" ></RELATION>
+
+<RELATION theme="131820_3" party1="131820_4" party1_string="AYALA" theme_string="AYALA v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="131820_8" ></RELATION>
+
+<RELATION party2="131820_5" theme="131820_3" theme_string="AYALA v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="131820_9" ></RELATION>
+

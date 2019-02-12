@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['iowatovar#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_987" id1="131137" volume="539" start="0" page_number="987" standard_reporter="U.S." citation_global_level_id="9132.002" line="1" id="131141_1" citation_local_level_id="0" >539 U.S. 987</CITATION>
+
+<CITATION party2="Tovar" party1="Iowa" citation_global_level_id="36479.001" party2_short="Tovar" line="1" id="131141_3" alternative_keys="['u.s._539_987']" end="30" entry_type="party_key" lookup_key="iowatovar#2" id1="131141" start="17" party1_short="Iowa" citation_local_level_id="1" >Iowa v. Tovar</CITATION>
+
+<NAME end="21" start="17" party1_of="131141_3" all_names="IOWA" local_name_id="1" id="131141_4" >Iowa</NAME>
+
+<NAME end="30" start="25" all_names="TOVAR" party2_of="131141_3" local_name_id="2" id="131141_5" >Tovar</NAME>
+
+<DOCKET end="47" entry_type="docket" lookup_key="u.s._539_987" id1="131137" start="40" citation_global_level_id="9132.002" line="1" id="131141_2" citation_local_level_id="0" >02-1541</DOCKET>
+
+<DATE start="89" end="107" id="131141_6" >September 30, 2003</DATE>
+
+<LEGAL_ROLE start="185" end="205" id="131141_13" >Motion of respondent</LEGAL_ROLE>
+
+<NAME start="254" local_name_id="3" end="264" id="131141_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="306" reporter="N. W. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.w.2d_656_112" id1="Dummy_File_126144" volume="656" start="290" page_number="112" standard_reporter="N.W.2D" citation_global_level_id="189994.001" line="3" id="131141_12" citation_local_level_id="2" >656 N. W. 2d 112</CITATION>
+
+<RELATION theme="131141_1" includes_docket_string="02-1541" includes_docket="131141_2" theme_string="539 U.S. 987" gram_type="apposition" relation_type="asymmetric" id="131141_11" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 987" X_vs_Y_string="Iowa v. Tovar" standard_case="131141_1" X_vs_Y="131141_3" gram_type="pre_nom" relation_type="equivalence" id="131141_7" ></RELATION>
+
+<RELATION theme="131141_3" includes_docket_string="02-1541" includes_docket="131141_2" theme_string="Iowa v. Tovar" gram_type="apposition" relation_type="asymmetric" id="131141_10" ></RELATION>
+
+<RELATION theme="131141_3" party1="131141_4" party1_string="Iowa" theme_string="Iowa v. Tovar" gram_type="infix" relation_type="asymmetric" id="131141_8" ></RELATION>
+
+<RELATION party2="131141_5" theme="131141_3" theme_string="Iowa v. Tovar" party2_string="Tovar" gram_type="infix" relation_type="asymmetric" id="131141_9" ></RELATION>
+

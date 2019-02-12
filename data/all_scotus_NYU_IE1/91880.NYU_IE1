@@ -1,0 +1,56 @@
+<CITATION alternative_keys="['marshnichols#1', 's.ct._7_704', 'l.ed._30_794']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._120_595" id1="91880" volume="120" start="0" page_number="595" standard_reporter="U.S." citation_global_level_id="33247.002" line="1" id="91880_1" citation_local_level_id="0" >120 U.S. 595</CITATION>
+
+<CITATION alternative_keys="['u.s._120_595', 'marshnichols#1', 'l.ed._30_794']" end="29" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._7_704" id1="91880" volume="7" start="17" page_number="704" standard_reporter="S.CT." citation_global_level_id="33247.003" line="2" id="91880_2" citation_local_level_id="1" >7 S. Ct. 704</CITATION>
+
+<CITATION alternative_keys="['u.s._120_595', 's.ct._7_704', 'marshnichols#1']" end="47" reporter="L. Ed." entry_type="standard_key" lookup_key="l.ed._30_794" id1="91880" volume="30" start="34" page_number="794" standard_reporter="L.ED." citation_global_level_id="33247.004" line="3" id="91880_3" citation_local_level_id="2" >30 L. Ed. 794</CITATION>
+
+<CITATION party2="NICHOLS and others" party1="MARSH and others" citation_global_level_id="33247.001" party2_short="NICHOLS" line="4" id="91880_4" alternative_keys="['u.s._120_595', 's.ct._7_704', 'l.ed._30_794']" end="90" entry_type="party_key" lookup_key="marshnichols#1" id1="91880" start="52" party1_short="MARSH" citation_local_level_id="3" >MARSH and others v. NICHOLS and others</CITATION>
+
+<NAME end="68" start="52" party1_of="91880_4" all_names="MARSH AND OTHERS	NICHOLS AND OTHERS" local_name_id="1" id="91880_5" >MARSH and others</NAME>
+
+<NAME end="90" start="72" all_names="MARSH AND OTHERS	NICHOLS AND OTHERS" party2_of="91880_4" local_name_id="1" id="91880_6" >NICHOLS and others</NAME>
+
+<DATE start="97" citation_global_level_id="33247.001" end="111" id="91880_9" citation_local_level_id="3" >March 14, 1887</DATE>
+
+<NAME start="125" local_name_id="2" end="142" id="91880_14" all_names="STATEMENT OF CASE" >Statement of Case</NAME>
+
+<NAME start="194" local_name_id="3" end="201" id="91880_15" all_names="J HILL" >J. Hill</NAME>
+
+<PROFESSION start="225" document_level_name_id="4" end="245" id="91880_16" party="M DICKINSON" >R. A. Parker and Don</PROFESSION>
+
+<NAME start="246" local_name_id="4" end="258" id="91880_17" all_names="M DICKINSON" >M. Dickinson</NAME>
+
+<NAME start="281" local_name_id="5" end="286" id="91880_19" all_names="WAITE" >WAITE</NAME>
+
+<NAME start="288" local_name_id="6" end="292" id="91880_20" all_names="C J" >C. J</NAME>
+
+<ORGANIZATION start="413" end="430" id="91880_21" >court of Michigan</ORGANIZATION>
+
+<LEGAL_ROLE start="487" end="497" plural="True" id="91880_22" >appellants</LEGAL_ROLE>
+
+<LEGAL_ROLE start="532" end="540" id="91880_23" party="party2" >appellee</LEGAL_ROLE>
+
+<NAME start="714" local_name_id="7" end="732" id="91880_24" all_names="MARSH AND LE FEVER" >Marsh and Le Fever</NAME>
+
+<NAME start="757" local_name_id="8" end="762" id="91880_25" all_names="SCOTT" >Scott</NAME>
+
+<NAME start="833" local_name_id="9" end="843" id="91880_26" all_names="SEE 15 FED" >See 15 Fed</NAME>
+
+<PROFESSION start="845" document_level_name_id="9" end="848" id="91880_27" party="SEE 15 FED" >Rep</PROFESSION>
+
+<RELATION theme="91880_4" party1="91880_5" party1_string="MARSH and others" theme_string="MARSH and others v. NICHOLS and others" gram_type="infix" relation_type="asymmetric" id="91880_7" ></RELATION>
+
+<RELATION party2="91880_6" theme="91880_4" theme_string="MARSH and others v. NICHOLS and others" party2_string="NICHOLS and others" gram_type="infix" relation_type="asymmetric" id="91880_8" ></RELATION>
+
+<RELATION standard_case_string="120 U.S. 595" X_vs_Y_string="MARSH and others v. NICHOLS and others" standard_case="91880_1" X_vs_Y="91880_4" gram_type="multi_line" relation_type="equivalence" id="91880_10" ></RELATION>
+
+<RELATION standard_case_string="7 S. Ct. 704" X_vs_Y_string="MARSH and others v. NICHOLS and others" standard_case="91880_2" X_vs_Y="91880_4" gram_type="multi_line" relation_type="equivalence" id="91880_11" ></RELATION>
+
+<RELATION standard_case_string="30 L. Ed. 794" X_vs_Y_string="MARSH and others v. NICHOLS and others" standard_case="91880_3" X_vs_Y="91880_4" gram_type="multi_line" relation_type="equivalence" id="91880_12" ></RELATION>
+
+<RELATION at_date_string="March 14, 1887" theme="91880_4" at_date="91880_9" theme_string="MARSH and others v. NICHOLS and others" gram_type="multi_line" relation_type="asymmetric" id="91880_13" ></RELATION>
+
+<RELATION theme="91880_17" profession_string="R. A. Parker and Don" theme_string="M. Dickinson" profession="91880_16" gram_type="pre_nom" relation_type="asymmetric" id="91880_18" ></RELATION>
+
+<RELATION theme="91880_26" profession_string="Rep" theme_string="See 15 Fed" profession="91880_27" gram_type="apposition" relation_type="asymmetric" id="91880_28" ></RELATION>
+

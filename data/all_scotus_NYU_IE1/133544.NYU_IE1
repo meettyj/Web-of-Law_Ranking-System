@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['statesbanks#5']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_985" id1="133536" volume="540" start="0" page_number="985" standard_reporter="U.S." citation_global_level_id="4875.002" line="1" id="133544_1" citation_local_level_id="0" >540 U.S. 985</CITATION>
+
+<CITATION party2="BANKS ET AL" party1="UNITED STATES" citation_global_level_id="48832.001" party2_short="BANKS" line="1" id="133544_3" alternative_keys="['u.s._540_985']" end="45" entry_type="party_key" lookup_key="statesbanks#5" id1="131012" start="17" party1_short="STATES" citation_local_level_id="1" >UNITED STATES v. BANKS ET AL</CITATION>
+
+<NAME end="30" start="17" party1_of="133544_3" all_names="UNITED STATES" local_name_id="1" id="133544_4" >UNITED STATES</NAME>
+
+<NAME end="45" start="34" all_names="BANKS" party2_of="133544_3" local_name_id="2" id="133544_5" >BANKS ET AL</NAME>
+
+<DOCKET end="61" entry_type="docket" lookup_key="u.s._540_985" id1="133536" start="55" citation_global_level_id="4875.002" line="1" id="133544_2" citation_local_level_id="0" >03-402</DOCKET>
+
+<DATE start="103" end="119" id="133544_6" >November 3, 2003</DATE>
+
+<NAME start="198" local_name_id="3" end="208" id="133544_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="247" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_314_1304" id1="Dummy_File_71887" volume="314" start="233" page_number="1304" standard_reporter="F.3D" citation_global_level_id="135737.001" line="3" id="133544_12" citation_local_level_id="2" >314 F. 3d 1304</CITATION>
+
+<RELATION theme="133544_1" includes_docket_string="03-402" includes_docket="133544_2" theme_string="540 U.S. 985" gram_type="apposition" relation_type="asymmetric" id="133544_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 985" X_vs_Y_string="UNITED STATES v. BANKS ET AL" standard_case="133544_1" X_vs_Y="133544_3" gram_type="pre_nom" relation_type="equivalence" id="133544_7" ></RELATION>
+
+<RELATION theme="133544_3" includes_docket_string="03-402" includes_docket="133544_2" theme_string="UNITED STATES v. BANKS ET AL" gram_type="apposition" relation_type="asymmetric" id="133544_10" ></RELATION>
+
+<RELATION theme="133544_3" party1="133544_4" party1_string="UNITED STATES" theme_string="UNITED STATES v. BANKS ET AL" gram_type="infix" relation_type="asymmetric" id="133544_8" ></RELATION>
+
+<RELATION party2="133544_5" theme="133544_3" theme_string="UNITED STATES v. BANKS ET AL" party2_string="BANKS ET AL" gram_type="infix" relation_type="asymmetric" id="133544_9" ></RELATION>
+

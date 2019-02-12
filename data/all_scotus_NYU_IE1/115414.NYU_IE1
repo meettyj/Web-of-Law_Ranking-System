@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['omastaet#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_998" id1="115413" volume="510" start="0" page_number="998" standard_reporter="U.S." citation_global_level_id="3409.002" line="1" id="115414_1" citation_local_level_id="0" >510 U.S. 998</CITATION>
+
+<CITATION party2="Stokes et al" party1="Omasta" citation_global_level_id="3409.007" party2_short="et" line="1" id="115414_3" alternative_keys="['u.s._510_998']" end="39" entry_type="party_key" lookup_key="omastaet#1" id1="115413" start="17" party1_short="Omasta" citation_local_level_id="1" >Omasta v. Stokes et al</CITATION>
+
+<NAME end="23" start="17" party1_of="115414_3" all_names="OMASTA" local_name_id="1" id="115414_4" >Omasta</NAME>
+
+<NAME end="39" start="27" all_names="STOKES" party2_of="115414_3" local_name_id="2" id="115414_5" >Stokes et al</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._510_998" id1="115413" start="49" citation_global_level_id="3409.002" line="1" id="115414_2" citation_local_level_id="0" >93-6286</DOCKET>
+
+<DATE start="98" end="115" id="115414_6" >November 29, 1993</DATE>
+
+<NAME start="208" local_name_id="3" end="218" id="115414_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="257" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_623_503" id1="Dummy_File_167516" volume="623" start="243" page_number="503" standard_reporter="SO.2D" citation_global_level_id="231366.001" line="3" id="115414_12" citation_local_level_id="2" >623 So. 2d 503</CITATION>
+
+<RELATION theme="115414_1" includes_docket_string="93-6286" includes_docket="115414_2" theme_string="510 U.S. 998" gram_type="apposition" relation_type="asymmetric" id="115414_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 998" X_vs_Y_string="Omasta v. Stokes et al" standard_case="115414_1" X_vs_Y="115414_3" gram_type="pre_nom" relation_type="equivalence" id="115414_7" ></RELATION>
+
+<RELATION theme="115414_3" includes_docket_string="93-6286" includes_docket="115414_2" theme_string="Omasta v. Stokes et al" gram_type="apposition" relation_type="asymmetric" id="115414_10" ></RELATION>
+
+<RELATION theme="115414_3" party1="115414_4" party1_string="Omasta" theme_string="Omasta v. Stokes et al" gram_type="infix" relation_type="asymmetric" id="115414_8" ></RELATION>
+
+<RELATION party2="115414_5" theme="115414_3" theme_string="Omasta v. Stokes et al" party2_string="Stokes et al" gram_type="infix" relation_type="asymmetric" id="115414_9" ></RELATION>
+

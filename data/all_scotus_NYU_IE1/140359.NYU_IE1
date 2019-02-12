@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['brazzelwashington#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1004" id1="140358" volume="543" start="0" page_number="1004" standard_reporter="U.S." citation_global_level_id="4638.002" line="1" id="140359_1" citation_local_level_id="0" >543 U.S. 1004</CITATION>
+
+<CITATION party2="WASHINGTON" party1="BRAZZEL" citation_global_level_id="41875.001" party2_short="WASHINGTON" line="2" id="140359_2" alternative_keys="['u.s._543_1004']" end="39" entry_type="party_key" lookup_key="brazzelwashington#1" id1="140359" start="18" party1_short="BRAZZEL" citation_local_level_id="1" >BRAZZEL v. WASHINGTON</CITATION>
+
+<NAME end="25" start="18" party1_of="140359_2" all_names="BRAZZEL" local_name_id="1" id="140359_3" >BRAZZEL</NAME>
+
+<NAME end="39" start="29" all_names="WASHINGTON" party2_of="140359_2" local_name_id="2" id="140359_4" >WASHINGTON</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="brazzelwashington#1" id1="140359" start="49" citation_global_level_id="41875.001" line="3" id="140359_7" citation_local_level_id="1" >04-5386</DOCKET>
+
+<ORGANIZATION start="62" end="92" id="140359_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="98" citation_global_level_id="41875.001" end="115" id="140359_9" citation_local_level_id="1" >November 29, 2004</DATE>
+
+<NAME start="137" local_name_id="3" end="139" id="140359_14" all_names="CT" >Ct</NAME>
+
+<CITATION end="206" reporter="Wash. App." entry_type="standard_key" no_current_file="True" lookup_key="wash.app._118_1054" id1="Dummy_File_197069" volume="118" start="187" page_number="1054" standard_reporter="WASH.APP." citation_global_level_id="260919.001" line="8" id="140359_13" citation_local_level_id="2" >118 Wash. App. 1054</CITATION>
+
+<RELATION theme="140359_2" party1="140359_3" party1_string="BRAZZEL" theme_string="BRAZZEL v. WASHINGTON" gram_type="infix" relation_type="asymmetric" id="140359_5" ></RELATION>
+
+<RELATION party2="140359_4" theme="140359_2" theme_string="BRAZZEL v. WASHINGTON" party2_string="WASHINGTON" gram_type="infix" relation_type="asymmetric" id="140359_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1004" X_vs_Y_string="BRAZZEL v. WASHINGTON" standard_case="140359_1" X_vs_Y="140359_2" gram_type="multi_line" relation_type="equivalence" id="140359_10" ></RELATION>
+
+<RELATION at_date_string="November 29, 2004" theme="140359_2" at_date="140359_9" theme_string="BRAZZEL v. WASHINGTON" gram_type="multi_line" relation_type="asymmetric" id="140359_12" ></RELATION>
+
+<RELATION theme="140359_2" includes_docket_string="04-5386" includes_docket="140359_7" theme_string="BRAZZEL v. WASHINGTON" gram_type="multi_line" relation_type="asymmetric" id="140359_11" ></RELATION>
+

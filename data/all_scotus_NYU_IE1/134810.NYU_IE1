@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['tatelouisiana#1']" end="20" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_905" id1="134809" volume="541" start="1" page_number="905" year="2004" standard_reporter="U.S." citation_global_level_id="5778.002" line="2" id="134810_1" citation_local_level_id="0" >541 U.S. 905 (2004)</CITATION>
+
+<DATE start="15" citation_global_level_id="5778.002" end="19" id="134810_2" citation_local_level_id="0" >2004</DATE>
+
+<CITATION party2="LOUISIANA" party1="TATE" citation_global_level_id="40988.001" party2_short="LOUISIANA" line="5" id="134810_5" alternative_keys="['u.s._541_905']" end="40" entry_type="party_key" lookup_key="tatelouisiana#1" id1="134810" start="21" party1_short="TATE" citation_local_level_id="1" >TATE v. LOUISIANA</CITATION>
+
+<NAME end="25" start="21" party1_of="134810_5" all_names="TATE" local_name_id="1" id="134810_6" >TATE</NAME>
+
+<NAME end="40" start="31" all_names="LOUISIANA" party2_of="134810_5" local_name_id="2" id="134810_7" >LOUISIANA</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="tatelouisiana#1" id1="134810" start="46" citation_global_level_id="40988.001" line="6" id="134810_10" citation_local_level_id="1" >03-7797</DOCKET>
+
+<ORGANIZATION start="55" end="85" id="134810_11" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="87" citation_global_level_id="40988.001" end="100" id="134810_12" citation_local_level_id="1" >March 8, 2004</DATE>
+
+<NAME start="102" local_name_id="3" end="125" id="134810_14" all_names="SUP CT LA CERTIORARI" >Sup. Ct. La. Certiorari</NAME>
+
+<CITATION end="164" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_851_921" id1="Dummy_File_107471" volume="851" start="150" page_number="921" standard_reporter="SO.2D" citation_global_level_id="171321.001" line="9" id="134810_13" citation_local_level_id="2" >851 So. 2d 921</CITATION>
+
+<RELATION at_date_string="2004" theme="134810_1" at_date="134810_2" theme_string="541 U.S. 905 (2004)" gram_type="infix" relation_type="asymmetric" id="134810_3" ></RELATION>
+
+<RELATION theme="134810_5" party1="134810_6" party1_string="TATE" theme_string="TATE  v.  LOUISIANA" gram_type="infix" relation_type="asymmetric" id="134810_8" ></RELATION>
+
+<RELATION party2="134810_7" theme="134810_5" theme_string="TATE  v.  LOUISIANA" party2_string="LOUISIANA" gram_type="infix" relation_type="asymmetric" id="134810_9" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 905 (2004)" X_vs_Y_string="TATE  v.  LOUISIANA" standard_case="134810_1" X_vs_Y="134810_5" gram_type="multi_line" relation_type="equivalence" id="134810_15" ></RELATION>
+
+<RELATION at_date_string="March 8, 2004" theme="134810_5" at_date="134810_12" theme_string="TATE  v.  LOUISIANA" gram_type="multi_line" relation_type="asymmetric" id="134810_17" ></RELATION>
+
+<RELATION theme="134810_5" includes_docket_string="03-7797" includes_docket="134810_10" theme_string="TATE  v.  LOUISIANA" gram_type="multi_line" relation_type="asymmetric" id="134810_16" ></RELATION>
+

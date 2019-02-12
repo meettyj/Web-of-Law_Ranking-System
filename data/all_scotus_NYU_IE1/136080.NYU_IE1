@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['millermissouri#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_1028" id1="136082" volume="541" start="0" page_number="1028" standard_reporter="U.S." citation_global_level_id="7430.002" line="1" id="136080_1" citation_local_level_id="0" >541 U.S. 1028</CITATION>
+
+<CITATION party2="ST. LOUIS COUNTY, MISSOURI" party1="MILLER" citation_global_level_id="7430.006" party2_short="MISSOURI" line="2" id="136080_2" alternative_keys="['u.s._541_1028']" end="54" entry_type="party_key" lookup_key="millermissouri#2" id1="136082" start="18" party1_short="MILLER" citation_local_level_id="1" >MILLER v. ST. LOUIS COUNTY, MISSOURI</CITATION>
+
+<NAME end="24" start="18" party1_of="136080_2" all_names="MILLER" local_name_id="1" id="136080_3" >MILLER</NAME>
+
+<NAME end="54" start="28" all_names="ST LOUIS COUNTY MISSOURI" party2_of="136080_2" local_name_id="2" id="136080_4" >ST. LOUIS COUNTY, MISSOURI</NAME>
+
+<DOCKET alternative_keys="['u.s._541_1028']" end="71" entry_type="docket" lookup_key="millermissouri#2" id1="136082" start="64" citation_global_level_id="7430.006" line="3" id="136080_7" citation_local_level_id="1" >03-8425</DOCKET>
+
+<ORGANIZATION start="77" end="107" id="136080_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="113" citation_global_level_id="7430.006" end="127" id="136080_9" citation_local_level_id="1" >April 26, 2004</DATE>
+
+<CITATION end="163" reporter="U. S." entry_type="standard_key" no_current_file="True" lookup_key="u.s._540_1225" id1="Dummy_File_139934" volume="540" start="149" page_number="1225" standard_reporter="U.S." citation_global_level_id="203784.001" line="8" id="136080_13" citation_local_level_id="2" >540 U. S. 1225</CITATION>
+
+<NAME start="165" local_name_id="3" end="174" id="136080_14" all_names="PETITIONS" >Petitions</NAME>
+
+<RELATION theme="136080_2" party1="136080_3" party1_string="MILLER" theme_string="MILLER v. ST. LOUIS COUNTY, MISSOURI" gram_type="infix" relation_type="asymmetric" id="136080_5" ></RELATION>
+
+<RELATION party2="136080_4" theme="136080_2" theme_string="MILLER v. ST. LOUIS COUNTY, MISSOURI" party2_string="ST. LOUIS COUNTY, MISSOURI" gram_type="infix" relation_type="asymmetric" id="136080_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 1028" X_vs_Y_string="MILLER v. ST. LOUIS COUNTY, MISSOURI" standard_case="136080_1" X_vs_Y="136080_2" gram_type="multi_line" relation_type="equivalence" id="136080_10" ></RELATION>
+
+<RELATION at_date_string="April 26, 2004" theme="136080_2" at_date="136080_9" theme_string="MILLER v. ST. LOUIS COUNTY, MISSOURI" gram_type="multi_line" relation_type="asymmetric" id="136080_12" ></RELATION>
+
+<RELATION theme="136080_2" includes_docket_string="03-8425" includes_docket="136080_7" theme_string="MILLER v. ST. LOUIS COUNTY, MISSOURI" gram_type="multi_line" relation_type="asymmetric" id="136080_11" ></RELATION>
+

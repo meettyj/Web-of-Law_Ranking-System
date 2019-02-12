@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['cortesstates#5']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._536_912" id1="121313" volume="536" start="0" page_number="912" standard_reporter="U.S." citation_global_level_id="1888.002" line="1" id="121305_1" citation_local_level_id="0" >536 U.S. 912</CITATION>
+
+<CITATION party2="UNITED STATES" party1="CORTES" citation_global_level_id="34264.001" party2_short="STATES" line="2" id="121305_2" alternative_keys="['u.s._536_912']" end="40" entry_type="party_key" lookup_key="cortesstates#5" id1="121534" start="17" party1_short="CORTES" citation_local_level_id="1" >CORTES v. UNITED STATES</CITATION>
+
+<NAME end="23" start="17" party1_of="121305_2" all_names="CORTES" local_name_id="1" id="121305_3" >CORTES</NAME>
+
+<NAME end="40" start="27" all_names="UNITED STATES" party2_of="121305_2" local_name_id="2" id="121305_4" >UNITED STATES</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="cortesstates#5" id1="121534" start="50" citation_global_level_id="34264.001" line="3" id="121305_7" citation_local_level_id="1" >01-10050</DOCKET>
+
+<DATE start="104" citation_global_level_id="34264.001" end="117" id="121305_8" citation_local_level_id="1" >June 10, 2002</DATE>
+
+<NAME start="139" local_name_id="3" end="152" id="121305_12" all_names="C A 1ST CIR" >C. A. 1st Cir</NAME>
+
+<NAME start="154" local_name_id="4" end="164" id="121305_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="121305_2" party1="121305_3" party1_string="CORTES" theme_string="CORTES v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="121305_5" ></RELATION>
+
+<RELATION party2="121305_4" theme="121305_2" theme_string="CORTES v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="121305_6" ></RELATION>
+
+<RELATION standard_case_string="536 U.S. 912" X_vs_Y_string="CORTES v. UNITED STATES" standard_case="121305_1" X_vs_Y="121305_2" gram_type="multi_line" relation_type="equivalence" id="121305_9" ></RELATION>
+
+<RELATION at_date_string="June 10, 2002" theme="121305_2" at_date="121305_8" theme_string="CORTES v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="121305_11" ></RELATION>
+
+<RELATION theme="121305_2" includes_docket_string="01-10050" includes_docket="121305_7" theme_string="CORTES v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="121305_10" ></RELATION>
+

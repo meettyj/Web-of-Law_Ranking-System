@@ -1,0 +1,34 @@
+<CITATION alternative_keys="['feesecurities#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1009" id1="115585" volume="510" start="0" page_number="1009" standard_reporter="U.S." citation_global_level_id="2756.002" line="1" id="115590_1" citation_local_level_id="0" >510 U.S. 1009</CITATION>
+
+<CITATION party2="Securities and Exchange Commission" party1="Fee" citation_global_level_id="47123.001" party2_short="Securities" line="1" id="115590_3" alternative_keys="['u.s._510_1009']" end="59" entry_type="party_key" lookup_key="feesecurities#1" id1="115590" start="18" party1_short="Fee" citation_local_level_id="1" >Fee v. Securities and Exchange Commission</CITATION>
+
+<NAME end="21" start="18" party1_of="115590_3" all_names="FEE" local_name_id="1" id="115590_4" >Fee</NAME>
+
+<NAME end="59" start="25" all_names="SECURITIES AND EXCHANGE COMMISSION" party2_of="115590_3" local_name_id="2" id="115590_5" >Securities and Exchange Commission</NAME>
+
+<DOCKET end="76" entry_type="docket" lookup_key="u.s._510_1009" id1="115585" start="69" citation_global_level_id="2756.002" line="1" id="115590_2" citation_local_level_id="0" >93-6328</DOCKET>
+
+<DATE start="118" end="134" id="115590_6" >December 6, 1993</DATE>
+
+<LEGAL_ROLE start="211" end="231" id="115590_13" >Motion of petitioner</LEGAL_ROLE>
+
+<LEGAL_ROLE start="279" end="290" plural="True" id="115590_14" >Petitioners</LEGAL_ROLE>
+
+<DATE start="309" end="326" id="115590_12" >December 27, 1993</DATE>
+
+<NAME start="378" local_name_id="3" end="382" id="115590_15" all_names="RULE	RULE 33 OF THE RULE" >Rule</NAME>
+
+<NAME start="432" local_name_id="3" end="451" id="115590_16" all_names="RULE	RULE 33 OF THE RULE" >Rule 33 of the Rule</NAME>
+
+<ORGANIZATION start="460" end="465" id="115590_17" >Court</ORGANIZATION>
+
+<RELATION theme="115590_1" includes_docket_string="93-6328" includes_docket="115590_2" theme_string="510 U.S. 1009" gram_type="apposition" relation_type="asymmetric" id="115590_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1009" X_vs_Y_string="Fee v. Securities and Exchange Commission" standard_case="115590_1" X_vs_Y="115590_3" gram_type="pre_nom" relation_type="equivalence" id="115590_7" ></RELATION>
+
+<RELATION theme="115590_3" includes_docket_string="93-6328" includes_docket="115590_2" theme_string="Fee v. Securities and Exchange Commission" gram_type="apposition" relation_type="asymmetric" id="115590_10" ></RELATION>
+
+<RELATION theme="115590_3" party1="115590_4" party1_string="Fee" theme_string="Fee v. Securities and Exchange Commission" gram_type="infix" relation_type="asymmetric" id="115590_8" ></RELATION>
+
+<RELATION party2="115590_5" theme="115590_3" theme_string="Fee v. Securities and Exchange Commission" party2_string="Securities and Exchange Commission" gram_type="infix" relation_type="asymmetric" id="115590_9" ></RELATION>
+

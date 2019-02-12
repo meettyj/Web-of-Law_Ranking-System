@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['crawfordstates#9']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1065" id1="130063" volume="538" start="0" page_number="1065" standard_reporter="U.S." citation_global_level_id="2666.002" line="1" id="130070_1" citation_local_level_id="0" >538 U.S. 1065</CITATION>
+
+<CITATION party2="UNITED STATES" party1="CRAWFORD" citation_global_level_id="38459.001" party2_short="STATES" line="1" id="130070_3" alternative_keys="['u.s._538_1065']" end="43" entry_type="party_key" lookup_key="crawfordstates#9" id1="118934" start="18" party1_short="CRAWFORD" citation_local_level_id="1" >CRAWFORD v. UNITED STATES</CITATION>
+
+<NAME end="26" start="18" party1_of="130070_3" all_names="CRAWFORD" local_name_id="1" id="130070_4" >CRAWFORD</NAME>
+
+<NAME end="43" start="30" all_names="UNITED STATES" party2_of="130070_3" local_name_id="2" id="130070_5" >UNITED STATES</NAME>
+
+<DOCKET end="61" entry_type="docket" lookup_key="u.s._538_1065" id1="130063" start="53" citation_global_level_id="2666.002" line="1" id="130070_2" citation_local_level_id="0" >02-10298</DOCKET>
+
+<DATE start="103" end="115" id="130070_6" >May 27, 2003</DATE>
+
+<NAME start="236" local_name_id="3" end="245" id="130070_12" all_names="C A FED" >C. A. Fed</NAME>
+
+<NAME start="247" local_name_id="4" end="250" id="130070_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="130070_1" includes_docket_string="02-10298" includes_docket="130070_2" theme_string="538 U.S. 1065" gram_type="apposition" relation_type="asymmetric" id="130070_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1065" X_vs_Y_string="CRAWFORD v. UNITED STATES" standard_case="130070_1" X_vs_Y="130070_3" gram_type="pre_nom" relation_type="equivalence" id="130070_7" ></RELATION>
+
+<RELATION theme="130070_3" includes_docket_string="02-10298" includes_docket="130070_2" theme_string="CRAWFORD v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="130070_10" ></RELATION>
+
+<RELATION theme="130070_3" party1="130070_4" party1_string="CRAWFORD" theme_string="CRAWFORD v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="130070_8" ></RELATION>
+
+<RELATION party2="130070_5" theme="130070_3" theme_string="CRAWFORD v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="130070_9" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['smithbowersox#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_893" id1="132365" volume="540" start="0" page_number="893" standard_reporter="U.S." citation_global_level_id="663.002" line="1" id="132363_1" citation_local_level_id="0" >540 U.S. 893</CITATION>
+
+<CITATION party2="BOWERSOX, SUPERINTENDENT, SOUTH CENTRAL CORRECTIONAL CENTER" party1="SMITH" citation_global_level_id="663.003" party2_short="BOWERSOX" line="1" id="132363_3" alternative_keys="['f.3d_159_345', 'u.s._540_893']" end="85" no_current_file="True" entry_type="party_key" lookup_key="smithbowersox#1" id1="132365" start="17" party1_short="SMITH" citation_local_level_id="1" >SMITH v. BOWERSOX, SUPERINTENDENT, SOUTH CENTRAL CORRECTIONAL CENTER</CITATION>
+
+<NAME end="22" start="17" party1_of="132363_3" all_names="SMITH" local_name_id="1" id="132363_4" >SMITH</NAME>
+
+<NAME end="85" start="26" all_names="BOWERSOX SUPERINTENDENT SOUTH CENTRAL CORRECTIONAL CENTER" party2_of="132363_3" local_name_id="2" id="132363_5" >BOWERSOX, SUPERINTENDENT, SOUTH CENTRAL CORRECTIONAL CENTER</NAME>
+
+<DOCKET end="102" entry_type="docket" lookup_key="u.s._540_893" id1="132365" start="95" citation_global_level_id="663.002" line="1" id="132363_2" citation_local_level_id="0" >03-5179</DOCKET>
+
+<DATE start="144" end="159" id="132363_6" >October 6, 2003</DATE>
+
+<NAME start="237" local_name_id="3" end="247" id="132363_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="285" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_311_915" id1="Dummy_File_170611" volume="311" start="272" page_number="915" standard_reporter="F.3D" citation_global_level_id="234461.001" line="3" id="132363_12" citation_local_level_id="2" >311 F. 3d 915</CITATION>
+
+<RELATION theme="132363_1" includes_docket_string="03-5179" includes_docket="132363_2" theme_string="540 U.S. 893" gram_type="apposition" relation_type="asymmetric" id="132363_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 893" X_vs_Y_string="SMITH v. BOWERSOX, SUPERINTENDENT, SOUTH CENTRAL CORRECTIONAL CENTER" standard_case="132363_1" X_vs_Y="132363_3" gram_type="pre_nom" relation_type="equivalence" id="132363_7" ></RELATION>
+
+<RELATION theme="132363_3" includes_docket_string="03-5179" includes_docket="132363_2" theme_string="SMITH v. BOWERSOX, SUPERINTENDENT, SOUTH CENTRAL CORRECTIONAL CENTER" gram_type="apposition" relation_type="asymmetric" id="132363_10" ></RELATION>
+
+<RELATION theme="132363_3" party1="132363_4" party1_string="SMITH" theme_string="SMITH v. BOWERSOX, SUPERINTENDENT, SOUTH CENTRAL CORRECTIONAL CENTER" gram_type="infix" relation_type="asymmetric" id="132363_8" ></RELATION>
+
+<RELATION party2="132363_5" theme="132363_3" theme_string="SMITH v. BOWERSOX, SUPERINTENDENT, SOUTH CENTRAL CORRECTIONAL CENTER" party2_string="BOWERSOX, SUPERINTENDENT, SOUTH CENTRAL CORRECTIONAL CENTER" gram_type="infix" relation_type="asymmetric" id="132363_9" ></RELATION>
+

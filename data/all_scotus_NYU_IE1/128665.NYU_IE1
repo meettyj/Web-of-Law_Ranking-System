@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['grutterbollinger#4']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_959" id1="128656" volume="538" start="0" page_number="959" standard_reporter="U.S." citation_global_level_id="22964.002" line="1" id="128665_1" citation_local_level_id="0" >538 U.S. 959</CITATION>
+
+<CITATION party2="BOLLINGER ET AL" party1="GRUTTER" citation_global_level_id="54382.001" party2_short="BOLLINGER" line="1" id="128665_3" alternative_keys="['u.s._538_959']" end="43" entry_type="party_key" lookup_key="grutterbollinger#4" id1="128665" start="17" party1_short="GRUTTER" citation_local_level_id="1" >GRUTTER v. BOLLINGER ET AL</CITATION>
+
+<NAME end="24" start="17" party1_of="128665_3" all_names="GRUTTER" local_name_id="1" id="128665_4" >GRUTTER</NAME>
+
+<NAME end="43" start="28" all_names="BOLLINGER" party2_of="128665_3" local_name_id="2" id="128665_5" >BOLLINGER ET AL</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="u.s._538_959" id1="128656" start="53" citation_global_level_id="22964.002" line="1" id="128665_2" citation_local_level_id="0" >02-241</DOCKET>
+
+<DATE start="101" end="114" id="128665_6" >April 7, 2003</DATE>
+
+<NAME start="243" local_name_id="3" end="246" id="128665_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="283" reporter="U. S." entry_type="standard_key" lookup_key="u.s._537_1043" id1="125313" volume="537" start="269" page_number="1043" standard_reporter="U.S." citation_global_level_id="3962.002" line="3" id="128665_12" citation_local_level_id="2" >537 U. S. 1043</CITATION>
+
+<RELATION theme="128665_1" includes_docket_string="02-241" includes_docket="128665_2" theme_string="538 U.S. 959" gram_type="apposition" relation_type="asymmetric" id="128665_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 959" X_vs_Y_string="GRUTTER v. BOLLINGER ET AL" standard_case="128665_1" X_vs_Y="128665_3" gram_type="pre_nom" relation_type="equivalence" id="128665_7" ></RELATION>
+
+<RELATION theme="128665_3" includes_docket_string="02-241" includes_docket="128665_2" theme_string="GRUTTER v. BOLLINGER ET AL" gram_type="apposition" relation_type="asymmetric" id="128665_10" ></RELATION>
+
+<RELATION theme="128665_3" party1="128665_4" party1_string="GRUTTER" theme_string="GRUTTER v. BOLLINGER ET AL" gram_type="infix" relation_type="asymmetric" id="128665_8" ></RELATION>
+
+<RELATION party2="128665_5" theme="128665_3" theme_string="GRUTTER v. BOLLINGER ET AL" party2_string="BOLLINGER ET AL" gram_type="infix" relation_type="asymmetric" id="128665_9" ></RELATION>
+

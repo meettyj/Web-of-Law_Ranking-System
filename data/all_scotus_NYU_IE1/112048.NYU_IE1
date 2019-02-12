@@ -1,0 +1,42 @@
+<CITATION alternative_keys="['serviceassociation#1', 's.ct._108_1589', 'l.ed.2d_99_770']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._485_680" id1="112048" volume="485" start="0" page_number="680" standard_reporter="U.S." citation_global_level_id="28066.002" line="1" id="112048_1" citation_local_level_id="0" >485 U.S. 680</CITATION>
+
+<CITATION alternative_keys="['u.s._485_680', 'serviceassociation#1', 'l.ed.2d_99_770']" end="32" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._108_1589" id1="112048" volume="108" start="17" page_number="1589" standard_reporter="S.CT." citation_global_level_id="28066.003" line="1" id="112048_2" citation_local_level_id="1" >108 S. Ct. 1589</CITATION>
+
+<NAME start="21" local_name_id="1" end="26" id="112048_10" all_names="S CT" >S. Ct</NAME>
+
+<CITATION alternative_keys="['u.s._485_680', 's.ct._108_1589', 'serviceassociation#1']" end="53" reporter="L. Ed. 2d" entry_type="standard_key" lookup_key="l.ed.2d_99_770" id1="112048" volume="99" start="37" page_number="770" standard_reporter="L.ED.2D" citation_global_level_id="28066.004" line="1" id="112048_3" citation_local_level_id="2" >99 L. Ed. 2d 770</CITATION>
+
+<CITATION party2="NATIONAL ASSOCIATION OF LETTER CARRIERS, AFL-CIO" alternative_keys="['u.s._485_680', 's.ct._108_1589', 'l.ed.2d_99_770']" party1="UNITED STATES POSTAL SERVICE," end="151" party1_short="SERVICE" entry_type="party_key" party1_role="petitioner" lookup_key="serviceassociation#1" id1="112048" start="58" citation_global_level_id="28066.001" party2_short="ASSOCIATION" line="1" id="112048_5" citation_local_level_id="3" >UNITED STATES POSTAL SERVICE, petitioner, v. NATIONAL ASSOCIATION OF LETTER CARRIERS, AFL-CIO</CITATION>
+
+<NAME end="87" start="58" party1_of="112048_5" all_names="UNITED STATES POSTAL SERVICE" local_name_id="2" id="112048_6" >UNITED STATES POSTAL SERVICE,</NAME>
+
+<LEGAL_ROLE start="88" end="98" id="112048_8" >petitioner</LEGAL_ROLE>
+
+<NAME end="151" start="103" all_names="NATIONAL ASSOCIATION OF LETTER CARRIERS AFL-CIO" party2_of="112048_5" local_name_id="3" id="112048_7" >NATIONAL ASSOCIATION OF LETTER CARRIERS, AFL-CIO</NAME>
+
+<DOCKET end="166" entry_type="docket" lookup_key="u.s._485_680" id1="112048" start="161" citation_global_level_id="28066.002" line="1" id="112048_4" citation_local_level_id="0" >87-59</DOCKET>
+
+<DATE start="210" end="224" id="112048_9" >April 27, 1988</DATE>
+
+<NAME start="344" local_name_id="4" end="350" id="112048_21" all_names="CURIAM" >CURIAM</NAME>
+
+<RELATION theme="112048_1" includes_docket_string="87-59" includes_docket="112048_4" theme_string="485 U.S. 680" gram_type="apposition" relation_type="asymmetric" id="112048_18" ></RELATION>
+
+<RELATION standard_case_string="485 U.S. 680" X_vs_Y_string="UNITED STATES POSTAL SERVICE, petitioner, v. NATIONAL ASSOCIATION OF LETTER CARRIERS, AFL-CIO" standard_case="112048_1" X_vs_Y="112048_5" gram_type="pre_nom" relation_type="equivalence" id="112048_12" ></RELATION>
+
+<RELATION theme="112048_2" includes_docket_string="87-59" includes_docket="112048_4" theme_string="108 S. Ct. 1589" gram_type="apposition" relation_type="asymmetric" id="112048_19" ></RELATION>
+
+<RELATION standard_case_string="108 S. Ct. 1589" X_vs_Y_string="UNITED STATES POSTAL SERVICE, petitioner, v. NATIONAL ASSOCIATION OF LETTER CARRIERS, AFL-CIO" standard_case="112048_2" X_vs_Y="112048_5" gram_type="pre_nom" relation_type="equivalence" id="112048_13" ></RELATION>
+
+<RELATION theme="112048_3" includes_docket_string="87-59" includes_docket="112048_4" theme_string="99 L. Ed. 2d 770" gram_type="apposition" relation_type="asymmetric" id="112048_17" ></RELATION>
+
+<RELATION standard_case_string="99 L. Ed. 2d 770" X_vs_Y_string="UNITED STATES POSTAL SERVICE, petitioner, v. NATIONAL ASSOCIATION OF LETTER CARRIERS, AFL-CIO" standard_case="112048_3" X_vs_Y="112048_5" gram_type="pre_nom" relation_type="equivalence" id="112048_11" ></RELATION>
+
+<RELATION theme="112048_5" includes_docket_string="87-59" includes_docket="112048_4" theme_string="UNITED STATES POSTAL SERVICE, petitioner, v. NATIONAL ASSOCIATION OF LETTER CARRIERS, AFL-CIO" gram_type="apposition" relation_type="asymmetric" id="112048_16" ></RELATION>
+
+<RELATION theme="112048_5" party1="112048_6" party1_string="UNITED STATES POSTAL SERVICE," theme_string="UNITED STATES POSTAL SERVICE, petitioner, v. NATIONAL ASSOCIATION OF LETTER CARRIERS, AFL-CIO" gram_type="infix" relation_type="asymmetric" id="112048_14" ></RELATION>
+
+<RELATION party2="112048_7" theme="112048_5" theme_string="UNITED STATES POSTAL SERVICE, petitioner, v. NATIONAL ASSOCIATION OF LETTER CARRIERS, AFL-CIO" party2_string="NATIONAL ASSOCIATION OF LETTER CARRIERS, AFL-CIO" gram_type="infix" relation_type="asymmetric" id="112048_15" ></RELATION>
+
+<RELATION at_date_string="April 27, 1988" theme="112048_4" at_date="112048_9" theme_string="87-59" gram_type="pre_nom" relation_type="asymmetric" id="112048_20" ></RELATION>
+

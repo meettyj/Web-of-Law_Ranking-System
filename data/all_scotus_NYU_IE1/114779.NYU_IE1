@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['ruthstates#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_949" id1="114776" volume="510" start="0" page_number="949" standard_reporter="U.S." citation_global_level_id="8780.002" line="1" id="114779_1" citation_local_level_id="0" >510 U.S. 949</CITATION>
+
+<CITATION party2="United States" party1="Ruth" citation_global_level_id="60955.001" party2_short="States" line="1" id="114779_3" alternative_keys="['u.s._510_949']" end="38" entry_type="party_key" lookup_key="ruthstates#2" id1="116892" start="17" party1_short="Ruth" citation_local_level_id="1" >Ruth v. United States</CITATION>
+
+<NAME end="21" start="17" party1_of="114779_3" all_names="RUTH" local_name_id="1" id="114779_4" >Ruth</NAME>
+
+<NAME end="38" start="25" all_names="UNITED STATES" party2_of="114779_3" local_name_id="2" id="114779_5" >United States</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._510_949" id1="114776" start="48" citation_global_level_id="8780.002" line="1" id="114779_2" citation_local_level_id="0" >93-5451</DOCKET>
+
+<DATE start="97" end="113" id="114779_6" >November 1, 1993</DATE>
+
+<NAME start="192" local_name_id="3" end="202" id="114779_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="240" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_992_328" id1="Dummy_File_45198" volume="992" start="227" page_number="328" standard_reporter="F.2D" citation_global_level_id="109048.001" line="3" id="114779_12" citation_local_level_id="2" >992 F. 2d 328</CITATION>
+
+<RELATION theme="114779_1" includes_docket_string="93-5451" includes_docket="114779_2" theme_string="510 U.S. 949" gram_type="apposition" relation_type="asymmetric" id="114779_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 949" X_vs_Y_string="Ruth v. United States" standard_case="114779_1" X_vs_Y="114779_3" gram_type="pre_nom" relation_type="equivalence" id="114779_7" ></RELATION>
+
+<RELATION theme="114779_3" includes_docket_string="93-5451" includes_docket="114779_2" theme_string="Ruth v. United States" gram_type="apposition" relation_type="asymmetric" id="114779_10" ></RELATION>
+
+<RELATION theme="114779_3" party1="114779_4" party1_string="Ruth" theme_string="Ruth v. United States" gram_type="infix" relation_type="asymmetric" id="114779_8" ></RELATION>
+
+<RELATION party2="114779_5" theme="114779_3" theme_string="Ruth v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="114779_9" ></RELATION>
+

@@ -1,0 +1,36 @@
+<CITATION alternative_keys="['perkinsalabama#3']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._536_953" id1="121793" volume="536" start="0" page_number="953" standard_reporter="U.S." citation_global_level_id="5974.002" line="1" id="121798_1" citation_local_level_id="0" >536 U.S. 953</CITATION>
+
+<CITATION party2="ALABAMA" party1="PERKINS" citation_global_level_id="35384.001" party2_short="ALABAMA" line="2" id="121798_2" alternative_keys="['u.s._536_953']" end="35" entry_type="party_key" lookup_key="perkinsalabama#3" id1="121798" start="17" party1_short="PERKINS" citation_local_level_id="1" >PERKINS v. ALABAMA</CITATION>
+
+<NAME end="24" start="17" party1_of="121798_2" all_names="PERKINS" local_name_id="1" id="121798_3" >PERKINS</NAME>
+
+<NAME end="35" start="28" all_names="ALABAMA" party2_of="121798_2" local_name_id="2" id="121798_4" >ALABAMA</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="perkinsalabama#3" id1="121798" start="45" citation_global_level_id="35384.001" line="3" id="121798_7" citation_local_level_id="1" >01-6798</DOCKET>
+
+<DATE start="98" citation_global_level_id="35384.001" end="111" id="121798_8" citation_local_level_id="1" >June 28, 2002</DATE>
+
+<NAME start="133" local_name_id="3" end="136" id="121798_16" all_names="SUP" >Sup</NAME>
+
+<CITATION party2="Virginia" party1="Atkins" citation_global_level_id="27750.001" party2_short="Virginia" line="8" id="121798_13" end="328" entry_type="party_key" lookup_key="atkinsvirginia#1" id1="121158" start="310" party1_short="Atkins" citation_local_level_id="2" >Atkins v. Virginia</CITATION>
+
+<NAME end="316" start="310" party1_of="121798_13" all_names="ATKINS" local_name_id="4" id="121798_14" >Atkins</NAME>
+
+<NAME end="328" start="320" all_names="VIRGINIA" party2_of="121798_13" local_name_id="5" id="121798_15" >Virginia</NAME>
+
+<CITATION end="375" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_808_1143" id1="Dummy_File_207745" volume="808" start="360" page_number="1143" standard_reporter="SO.2D" citation_global_level_id="271595.001" line="8" id="121798_12" citation_local_level_id="3" >808 So. 2d 1143</CITATION>
+
+<RELATION theme="121798_2" party1="121798_3" party1_string="PERKINS" theme_string="PERKINS v. ALABAMA" gram_type="infix" relation_type="asymmetric" id="121798_5" ></RELATION>
+
+<RELATION party2="121798_4" theme="121798_2" theme_string="PERKINS v. ALABAMA" party2_string="ALABAMA" gram_type="infix" relation_type="asymmetric" id="121798_6" ></RELATION>
+
+<RELATION standard_case_string="536 U.S. 953" X_vs_Y_string="PERKINS v. ALABAMA" standard_case="121798_1" X_vs_Y="121798_2" gram_type="multi_line" relation_type="equivalence" id="121798_9" ></RELATION>
+
+<RELATION at_date_string="June 28, 2002" theme="121798_2" at_date="121798_8" theme_string="PERKINS v. ALABAMA" gram_type="multi_line" relation_type="asymmetric" id="121798_11" ></RELATION>
+
+<RELATION theme="121798_2" includes_docket_string="01-6798" includes_docket="121798_7" theme_string="PERKINS v. ALABAMA" gram_type="multi_line" relation_type="asymmetric" id="121798_10" ></RELATION>
+
+<RELATION theme="121798_13" party1="121798_14" party1_string="Atkins" theme_string="Atkins v. Virginia" gram_type="infix" relation_type="asymmetric" id="121798_17" ></RELATION>
+
+<RELATION party2="121798_15" theme="121798_13" theme_string="Atkins v. Virginia" party2_string="Virginia" gram_type="infix" relation_type="asymmetric" id="121798_18" ></RELATION>
+

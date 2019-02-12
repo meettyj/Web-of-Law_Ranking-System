@@ -1,0 +1,58 @@
+<CITATION alternative_keys="['greenwatkins#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_803" id1="131187" volume="540" start="0" page_number="803" standard_reporter="U.S." citation_global_level_id="15621.002" line="1" id="131186_1" citation_local_level_id="0" >540 U.S. 803</CITATION>
+
+<CITATION party2="WATKINS, WARDEN" party1="GREEN" citation_global_level_id="50544.001" party2_short="WATKINS" line="1" id="131186_3" alternative_keys="['u.s._540_803']" end="41" entry_type="party_key" lookup_key="greenwatkins#2" id1="85355" start="17" party1_short="GREEN" citation_local_level_id="1" >GREEN v. WATKINS, WARDEN</CITATION>
+
+<NAME end="22" start="17" party1_of="131186_3" all_names="GREEN" local_name_id="1" id="131186_4" >GREEN</NAME>
+
+<NAME end="41" start="26" all_names="WATKINS WARDEN" party2_of="131186_3" local_name_id="2" id="131186_5" >WATKINS, WARDEN</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._540_803" id1="131187" start="51" citation_global_level_id="15621.002" line="1" id="131186_2" citation_local_level_id="0" >03-5051</DOCKET>
+
+<DATE start="100" end="115" id="131186_6" >October 6, 2003</DATE>
+
+<LEGAL_ROLE start="193" end="213" id="131186_17" >Motion of petitioner</LEGAL_ROLE>
+
+<NAME start="287" local_name_id="3" end="290" id="131186_18" all_names="SEE	RULE 331 SEE" >See</NAME>
+
+<ORGANIZATION start="296" end="301" id="131186_19" >Court</ORGANIZATION>
+
+<LEGAL_ROLE start="304" end="328" id="131186_20" >Rule 39.8. As petitioner</LEGAL_ROLE>
+
+<ORGANIZATION start="356" end="361" id="131186_21" >Court</ORGANIZATION>
+
+<PROFESSION start="377" end="382" id="131186_22" >Clerk</PROFESSION>
+
+<LEGAL_ROLE start="459" end="469" id="131186_23" >petitioner</LEGAL_ROLE>
+
+<NAME start="507" local_name_id="4" end="511" id="131186_24" all_names="RULE" >Rule</NAME>
+
+<NAME start="575" local_name_id="3" end="589" id="131186_25" all_names="SEE	RULE 331 SEE" >Rule 33.1. See</NAME>
+
+<CITATION party2="District of Columbia Court of Appeals" party1="Martin" citation_global_level_id="51848.001" party2_short="District" line="3" id="131186_13" alternative_keys="['u.s._506_1']" end="637" entry_type="party_key" lookup_key="martindistrict#2" id1="112790" start="590" party1_short="Martin" citation_local_level_id="2" >Martin v. District of Columbia Court of Appeals</CITATION>
+
+<NAME end="596" start="590" party1_of="131186_13" all_names="MARTIN" local_name_id="5" id="131186_14" >Martin</NAME>
+
+<NAME end="637" start="600" all_names="DISTRICT OF COLUMBIA COURT OF APPEALS" party2_of="131186_13" local_name_id="6" id="131186_15" >District of Columbia Court of Appeals</NAME>
+
+<CITATION alternative_keys="['martindistrict#2']" end="656" reporter="U.S." entry_type="standard_key" lookup_key="u.s._506_1" id1="112790" volume="506" start="639" page_number="1" year="1992" standard_reporter="U.S." citation_global_level_id="51848.002" line="3" id="131186_12" citation_local_level_id="3" >506 U.S. 1 (1992)</CITATION>
+
+<DATE start="651" citation_global_level_id="51848.002" end="655" id="131186_16" citation_local_level_id="3" >1992</DATE>
+
+<RELATION theme="131186_1" includes_docket_string="03-5051" includes_docket="131186_2" theme_string="540 U.S. 803" gram_type="apposition" relation_type="asymmetric" id="131186_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 803" X_vs_Y_string="GREEN v. WATKINS, WARDEN" standard_case="131186_1" X_vs_Y="131186_3" gram_type="pre_nom" relation_type="equivalence" id="131186_7" ></RELATION>
+
+<RELATION theme="131186_3" includes_docket_string="03-5051" includes_docket="131186_2" theme_string="GREEN v. WATKINS, WARDEN" gram_type="apposition" relation_type="asymmetric" id="131186_10" ></RELATION>
+
+<RELATION theme="131186_3" party1="131186_4" party1_string="GREEN" theme_string="GREEN v. WATKINS, WARDEN" gram_type="infix" relation_type="asymmetric" id="131186_8" ></RELATION>
+
+<RELATION party2="131186_5" theme="131186_3" theme_string="GREEN v. WATKINS, WARDEN" party2_string="WATKINS, WARDEN" gram_type="infix" relation_type="asymmetric" id="131186_9" ></RELATION>
+
+<RELATION standard_case_string="506 U.S. 1 (1992)" X_vs_Y_string="Martin v. District of Columbia Court of Appeals" standard_case="131186_12" X_vs_Y="131186_13" gram_type="apposition" relation_type="equivalence" id="131186_28" ></RELATION>
+
+<RELATION theme="131186_13" party1="131186_14" party1_string="Martin" theme_string="Martin v. District of Columbia Court of Appeals" gram_type="infix" relation_type="asymmetric" id="131186_26" ></RELATION>
+
+<RELATION party2="131186_15" theme="131186_13" theme_string="Martin v. District of Columbia Court of Appeals" party2_string="District of Columbia Court of Appeals" gram_type="infix" relation_type="asymmetric" id="131186_27" ></RELATION>
+
+<RELATION at_date_string="1992" theme="131186_12" at_date="131186_16" theme_string="506 U.S. 1 (1992)" gram_type="infix" relation_type="asymmetric" id="131186_29" ></RELATION>
+

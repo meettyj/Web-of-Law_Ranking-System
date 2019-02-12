@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['sochorflorida#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1159" id1="117196" volume="510" start="0" page_number="1159" standard_reporter="U.S." citation_global_level_id="4925.002" line="1" id="117194_1" citation_local_level_id="0" >510 U.S. 1159</CITATION>
+
+<CITATION party2="Florida" party1="Sochor" citation_global_level_id="47050.001" party2_short="Florida" line="2" id="117194_2" alternative_keys="['u.s._510_1159']" end="35" entry_type="party_key" lookup_key="sochorflorida#2" id1="112746" start="18" party1_short="Sochor" citation_local_level_id="1" >Sochor v. Florida</CITATION>
+
+<NAME end="24" start="18" party1_of="117194_2" all_names="SOCHOR" local_name_id="1" id="117194_3" >Sochor</NAME>
+
+<NAME end="35" start="28" all_names="FLORIDA" party2_of="117194_2" local_name_id="2" id="117194_4" >Florida</NAME>
+
+<DOCKET end="67" entry_type="docket" lookup_key="sochorflorida#2" id1="112746" start="60" citation_global_level_id="47050.001" line="3" id="117194_7" citation_local_level_id="1" >93-5963</DOCKET>
+
+<ORGANIZATION start="73" end="103" id="117194_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="109" citation_global_level_id="47050.001" end="126" id="117194_9" citation_local_level_id="1" >February 22, 1994</DATE>
+
+<NAME start="148" local_name_id="3" end="156" id="117194_13" all_names="PETITION" >Petition</NAME>
+
+<RELATION theme="117194_2" party1="117194_3" party1_string="Sochor" theme_string="Sochor v. Florida" gram_type="infix" relation_type="asymmetric" id="117194_5" ></RELATION>
+
+<RELATION party2="117194_4" theme="117194_2" theme_string="Sochor v. Florida" party2_string="Florida" gram_type="infix" relation_type="asymmetric" id="117194_6" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1159" X_vs_Y_string="Sochor v. Florida" standard_case="117194_1" X_vs_Y="117194_2" gram_type="multi_line" relation_type="equivalence" id="117194_10" ></RELATION>
+
+<RELATION at_date_string="February 22, 1994" theme="117194_2" at_date="117194_9" theme_string="Sochor v. Florida" gram_type="multi_line" relation_type="asymmetric" id="117194_12" ></RELATION>
+
+<RELATION theme="117194_2" includes_docket_string="93-5963" includes_docket="117194_7" theme_string="Sochor v. Florida" gram_type="multi_line" relation_type="asymmetric" id="117194_11" ></RELATION>
+

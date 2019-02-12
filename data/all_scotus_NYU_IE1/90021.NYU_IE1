@@ -1,0 +1,38 @@
+<CITATION alternative_keys="['companytrook#1']" end="20" reporter="U.S." entry_type="standard_key" lookup_key="u.s._100_112" id1="90021" volume="100" start="1" page_number="112" standard_reporter="U.S." citation_global_level_id="55764.002" line="2" id="90021_1" citation_local_level_id="0" >100 U.S. 112 (____)</CITATION>
+
+<CITATION party2="TROOK" party1="RAILROAD COMPANY" citation_global_level_id="55764.003" party2_short="TROOK" line="5" id="90021_4" alternative_keys="['u.s._100_112']" end="48" entry_type="party_key" lookup_key="companytrook#1" id1="90021" start="21" party1_short="COMPANY" citation_local_level_id="1" >RAILROAD COMPANY v. TROOK</CITATION>
+
+<NAME end="37" start="21" party1_of="90021_4" all_names="RAILROAD COMPANY" local_name_id="1" id="90021_5" >RAILROAD COMPANY</NAME>
+
+<NAME end="48" start="43" all_names="TROOK" party2_of="90021_4" local_name_id="2" id="90021_6" >TROOK</NAME>
+
+<ORGANIZATION start="50" end="80" id="90021_9" >Supreme Court of United States</ORGANIZATION>
+
+<NAME start="83" local_name_id="3" end="101" id="90021_11" all_names="MR JAMES G PAYNE" >Mr. James G. Payne</NAME>
+
+<NAME start="128" local_name_id="4" end="144" id="90021_12" all_names="MR ENOCH TOTTEN" >Mr. Enoch Totten</NAME>
+
+<NAME start="154" local_name_id="5" end="156" id="90021_13" all_names="MR" >MR</NAME>
+
+<ORGANIZATION start="310" end="351" id="90021_18" >Supreme Court of the District of Columbia</ORGANIZATION>
+
+<CITATION party2="Grant" party1="Railroad Company" citation_global_level_id="44938.003" party2_short="Grant" line="11" id="90021_15" alternative_keys="['u.s._98_398']" end="649" entry_type="party_key" lookup_key="companygrant#1" id1="89879" start="624" party1_short="Company" citation_local_level_id="2" >Railroad Company v. Grant</CITATION>
+
+<NAME end="640" start="624" party1_of="90021_15" all_names="RAILROAD COMPANY" local_name_id="1" id="90021_16" >Railroad Company</NAME>
+
+<NAME end="649" start="644" all_names="GRANT" party2_of="90021_15" local_name_id="6" id="90021_17" >Grant</NAME>
+
+<CITATION alternative_keys="['companygrant#1']" end="662" reporter="U.S." entry_type="standard_key" lookup_key="u.s._98_398" id1="89879" volume="98" start="651" page_number="398" standard_reporter="U.S." citation_global_level_id="44938.002" line="11" id="90021_14" citation_local_level_id="3" >98 U.S. 398</CITATION>
+
+<RELATION theme="90021_4" party1="90021_5" party1_string="RAILROAD COMPANY" theme_string="RAILROAD COMPANY  v.  TROOK" gram_type="infix" relation_type="asymmetric" id="90021_7" ></RELATION>
+
+<RELATION party2="90021_6" theme="90021_4" theme_string="RAILROAD COMPANY  v.  TROOK" party2_string="TROOK" gram_type="infix" relation_type="asymmetric" id="90021_8" ></RELATION>
+
+<RELATION standard_case_string="100 U.S. 112 (____)" X_vs_Y_string="RAILROAD COMPANY  v.  TROOK" standard_case="90021_1" X_vs_Y="90021_4" gram_type="multi_line" relation_type="equivalence" id="90021_10" ></RELATION>
+
+<RELATION standard_case_string="98 U.S. 398" X_vs_Y_string="Railroad Company v. Grant" standard_case="90021_14" X_vs_Y="90021_15" gram_type="apposition" relation_type="equivalence" id="90021_21" ></RELATION>
+
+<RELATION theme="90021_15" party1="90021_16" party1_string="Railroad Company" theme_string="Railroad Company v. Grant" gram_type="infix" relation_type="asymmetric" id="90021_19" ></RELATION>
+
+<RELATION party2="90021_17" theme="90021_15" theme_string="Railroad Company v. Grant" party2_string="Grant" gram_type="infix" relation_type="asymmetric" id="90021_20" ></RELATION>
+

@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['papaszoecon#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_913" id1="114338" volume="510" start="0" page_number="913" standard_reporter="U.S." citation_global_level_id="5764.002" line="1" id="114334_1" citation_local_level_id="0" >510 U.S. 913</CITATION>
+
+<CITATION party2="Zoecon Corp" party1="Papas et al." citation_global_level_id="21258.001" party2_short="Zoecon" line="1" id="114334_3" alternative_keys="['u.s._510_913']" end="44" entry_type="party_key" lookup_key="papaszoecon#1" id1="114334" start="17" party1_short="Papas" citation_local_level_id="1" >Papas et al. v. Zoecon Corp</CITATION>
+
+<NAME end="29" start="17" party1_of="114334_3" all_names="PAPAS" local_name_id="1" id="114334_4" >Papas et al.</NAME>
+
+<NAME start="17" local_name_id="1" end="22" id="114334_8" all_names="PAPAS" >Papas</NAME>
+
+<NAME end="44" start="33" all_names="ZOECON CORP" party2_of="114334_3" local_name_id="2" id="114334_5" >Zoecon Corp</NAME>
+
+<DOCKET end="61" entry_type="docket" lookup_key="u.s._510_913" id1="114338" start="54" citation_global_level_id="5764.002" line="1" id="114334_2" citation_local_level_id="0" >92-1938</DOCKET>
+
+<DATE start="57" end="61" id="114334_6" >1938</DATE>
+
+<DATE start="103" end="119" id="114334_7" >October 12, 1993</DATE>
+
+<NAME start="198" local_name_id="3" end="208" id="114334_16" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="246" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_985_516" id1="Dummy_File_208142" volume="985" start="233" page_number="516" standard_reporter="F.2D" citation_global_level_id="271992.001" line="3" id="114334_15" citation_local_level_id="2" >985 F. 2d 516</CITATION>
+
+<RELATION theme="114334_1" includes_docket_string="92-1938" includes_docket="114334_2" theme_string="510 U.S. 913" gram_type="apposition" relation_type="asymmetric" id="114334_13" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 913" X_vs_Y_string="Papas et al. v. Zoecon Corp" standard_case="114334_1" X_vs_Y="114334_3" gram_type="pre_nom" relation_type="equivalence" id="114334_9" ></RELATION>
+
+<RELATION theme="114334_3" includes_docket_string="92-1938" includes_docket="114334_2" theme_string="Papas et al. v. Zoecon Corp" gram_type="apposition" relation_type="asymmetric" id="114334_12" ></RELATION>
+
+<RELATION theme="114334_3" party1="114334_4" party1_string="Papas et al." theme_string="Papas et al. v. Zoecon Corp" gram_type="infix" relation_type="asymmetric" id="114334_10" ></RELATION>
+
+<RELATION party2="114334_5" theme="114334_3" theme_string="Papas et al. v. Zoecon Corp" party2_string="Zoecon Corp" gram_type="infix" relation_type="asymmetric" id="114334_11" ></RELATION>
+
+<RELATION at_date_string="1938" theme="114334_2" at_date="114334_6" theme_string="92-1938" gram_type="infix" relation_type="asymmetric" id="114334_14" ></RELATION>
+

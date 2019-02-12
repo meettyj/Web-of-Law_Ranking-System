@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['ismailpennsylvania#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_939" id1="118841" volume="535" start="0" page_number="939" standard_reporter="U.S." citation_global_level_id="15612.002" line="1" id="118849_1" citation_local_level_id="0" >535 U.S. 939</CITATION>
+
+<CITATION party2="PENNSYLVANIA" party1="ISMAIL" citation_global_level_id="54853.001" party2_short="PENNSYLVANIA" line="2" id="118849_2" alternative_keys="['u.s._535_939']" end="39" entry_type="party_key" lookup_key="ismailpennsylvania#1" id1="118849" start="17" party1_short="ISMAIL" citation_local_level_id="1" >ISMAIL v. PENNSYLVANIA</CITATION>
+
+<NAME end="23" start="17" party1_of="118849_2" all_names="ISMAIL" local_name_id="1" id="118849_3" >ISMAIL</NAME>
+
+<NAME end="39" start="27" all_names="PENNSYLVANIA" party2_of="118849_2" local_name_id="2" id="118849_4" >PENNSYLVANIA</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="ismailpennsylvania#1" id1="118849" start="49" citation_global_level_id="54853.001" line="3" id="118849_7" citation_local_level_id="1" >01-7768</DOCKET>
+
+<DATE start="102" citation_global_level_id="54853.001" end="116" id="118849_8" citation_local_level_id="1" >March 18, 2002</DATE>
+
+<NAME start="138" local_name_id="3" end="143" id="118849_13" all_names="SUPER" >Super</NAME>
+
+<CITATION end="202" reporter="A. 2d" entry_type="standard_key" no_current_file="True" lookup_key="a.2d_776_1005" id1="Dummy_File_235402" volume="776" start="188" page_number="1005" standard_reporter="A.2D" citation_global_level_id="299252.001" line="8" id="118849_12" citation_local_level_id="2" >776 A. 2d 1005</CITATION>
+
+<RELATION theme="118849_2" party1="118849_3" party1_string="ISMAIL" theme_string="ISMAIL v. PENNSYLVANIA" gram_type="infix" relation_type="asymmetric" id="118849_5" ></RELATION>
+
+<RELATION party2="118849_4" theme="118849_2" theme_string="ISMAIL v. PENNSYLVANIA" party2_string="PENNSYLVANIA" gram_type="infix" relation_type="asymmetric" id="118849_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 939" X_vs_Y_string="ISMAIL v. PENNSYLVANIA" standard_case="118849_1" X_vs_Y="118849_2" gram_type="multi_line" relation_type="equivalence" id="118849_9" ></RELATION>
+
+<RELATION at_date_string="March 18, 2002" theme="118849_2" at_date="118849_8" theme_string="ISMAIL v. PENNSYLVANIA" gram_type="multi_line" relation_type="asymmetric" id="118849_11" ></RELATION>
+
+<RELATION theme="118849_2" includes_docket_string="01-7768" includes_docket="118849_7" theme_string="ISMAIL v. PENNSYLVANIA" gram_type="multi_line" relation_type="asymmetric" id="118849_10" ></RELATION>
+

@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['paigestates#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1131" id1="126464" volume="537" start="0" page_number="1131" standard_reporter="U.S." citation_global_level_id="3300.002" line="1" id="126462_1" citation_local_level_id="0" >537 U.S. 1131</CITATION>
+
+<CITATION party2="UNITED STATES" party1="PAIGE" citation_global_level_id="41920.001" party2_short="STATES" line="1" id="126462_3" alternative_keys="['u.s._537_1131']" end="40" entry_type="party_key" lookup_key="paigestates#1" id1="126462" start="18" party1_short="PAIGE" citation_local_level_id="1" >PAIGE v. UNITED STATES</CITATION>
+
+<NAME end="23" start="18" party1_of="126462_3" all_names="PAIGE" local_name_id="1" id="126462_4" >PAIGE</NAME>
+
+<NAME end="40" start="27" all_names="UNITED STATES" party2_of="126462_3" local_name_id="2" id="126462_5" >UNITED STATES</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._537_1131" id1="126464" start="50" citation_global_level_id="3300.002" line="1" id="126462_2" citation_local_level_id="0" >02-7505</DOCKET>
+
+<DATE start="99" end="115" id="126462_6" >January 13, 2003</DATE>
+
+<NAME start="245" local_name_id="3" end="248" id="126462_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="126462_1" includes_docket_string="02-7505" includes_docket="126462_2" theme_string="537 U.S. 1131" gram_type="apposition" relation_type="asymmetric" id="126462_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1131" X_vs_Y_string="PAIGE v. UNITED STATES" standard_case="126462_1" X_vs_Y="126462_3" gram_type="pre_nom" relation_type="equivalence" id="126462_7" ></RELATION>
+
+<RELATION theme="126462_3" includes_docket_string="02-7505" includes_docket="126462_2" theme_string="PAIGE v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="126462_10" ></RELATION>
+
+<RELATION theme="126462_3" party1="126462_4" party1_string="PAIGE" theme_string="PAIGE v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="126462_8" ></RELATION>
+
+<RELATION party2="126462_5" theme="126462_3" theme_string="PAIGE v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="126462_9" ></RELATION>
+

@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['preebrunswick#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_815" id1="113056" volume="510" start="0" page_number="815" standard_reporter="U.S." citation_global_level_id="1931.002" line="1" id="113051_1" citation_local_level_id="0" >510 U.S. 815</CITATION>
+
+<CITATION party2="Brunswick Corp" party1="Pree" citation_global_level_id="23780.001" party2_short="Brunswick" line="1" id="113051_3" alternative_keys="['u.s._510_815']" end="39" entry_type="party_key" lookup_key="preebrunswick#1" id1="113051" start="17" party1_short="Pree" citation_local_level_id="1" >Pree v. Brunswick Corp</CITATION>
+
+<NAME end="21" start="17" party1_of="113051_3" all_names="PREE" local_name_id="1" id="113051_4" >Pree</NAME>
+
+<NAME end="39" start="25" all_names="BRUNSWICK CORP" party2_of="113051_3" local_name_id="2" id="113051_5" >Brunswick Corp</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._510_815" id1="113056" start="49" citation_global_level_id="1931.002" line="1" id="113051_2" citation_local_level_id="0" >92-1836</DOCKET>
+
+<DATE start="52" end="56" id="113051_6" >1836</DATE>
+
+<DATE start="98" end="113" id="113051_7" >October 4, 1993</DATE>
+
+<NAME start="191" local_name_id="3" end="201" id="113051_15" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="239" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_983_863" id1="Dummy_File_88384" volume="983" start="226" page_number="863" standard_reporter="F.2D" citation_global_level_id="152234.001" line="3" id="113051_14" citation_local_level_id="2" >983 F. 2d 863</CITATION>
+
+<RELATION theme="113051_1" includes_docket_string="92-1836" includes_docket="113051_2" theme_string="510 U.S. 815" gram_type="apposition" relation_type="asymmetric" id="113051_12" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 815" X_vs_Y_string="Pree v. Brunswick Corp" standard_case="113051_1" X_vs_Y="113051_3" gram_type="pre_nom" relation_type="equivalence" id="113051_8" ></RELATION>
+
+<RELATION theme="113051_3" includes_docket_string="92-1836" includes_docket="113051_2" theme_string="Pree v. Brunswick Corp" gram_type="apposition" relation_type="asymmetric" id="113051_11" ></RELATION>
+
+<RELATION party2="113051_5" theme="113051_3" theme_string="Pree v. Brunswick Corp" party2_string="Brunswick Corp" gram_type="infix" relation_type="asymmetric" id="113051_10" ></RELATION>
+
+<RELATION theme="113051_3" party1="113051_4" party1_string="Pree" theme_string="Pree v. Brunswick Corp" gram_type="infix" relation_type="asymmetric" id="113051_9" ></RELATION>
+
+<RELATION at_date_string="1836" theme="113051_2" at_date="113051_6" theme_string="92-1836" gram_type="infix" relation_type="asymmetric" id="113051_13" ></RELATION>
+

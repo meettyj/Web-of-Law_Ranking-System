@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['kalinowskibond#2', 'u.s._542_907']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1015" id1="140512" volume="543" start="0" page_number="1015" standard_reporter="U.S." citation_global_level_id="937.002" line="1" id="140516_1" citation_local_level_id="0" >543 U.S. 1015</CITATION>
+
+<CITATION party2="BOND ET AL" party1="KALINOWSKI" citation_global_level_id="42619.001" party2_short="BOND" line="2" id="140516_3" alternative_keys="['u.s._543_1015', 'u.s._542_907']" end="42" entry_type="party_key" lookup_key="kalinowskibond#2" id1="137075" start="18" party1_short="KALINOWSKI" citation_local_level_id="1" >KALINOWSKI v. BOND ET AL</CITATION>
+
+<NAME end="28" start="18" party1_of="140516_3" all_names="KALINOWSKI" local_name_id="1" id="140516_4" >KALINOWSKI</NAME>
+
+<NAME end="42" start="32" all_names="BOND" party2_of="140516_3" local_name_id="2" id="140516_5" >BOND ET AL</NAME>
+
+<CITATION alternative_keys="['u.s._543_1015', 'kalinowskibond#2']" end="57" reporter="U.S." entry_type="standard_key" lookup_key="u.s._542_907" id1="137076" volume="542" start="45" page_number="907" standard_reporter="U.S." citation_global_level_id="5419.002" line="2" id="140516_2" citation_local_level_id="2" >542 U.S. 907</CITATION>
+
+<DOCKET end="74" entry_type="docket" lookup_key="kalinowskibond#2" id1="137075" start="67" citation_global_level_id="42619.001" line="3" id="140516_9" citation_local_level_id="1" >03-9785</DOCKET>
+
+<ORGANIZATION start="80" end="110" id="140516_10" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="116" citation_global_level_id="42619.001" end="133" id="140516_11" citation_local_level_id="1" >November 29, 2004</DATE>
+
+<NAME start="155" local_name_id="3" end="164" id="140516_15" all_names="PETITIONS" >Petitions</NAME>
+
+<RELATION standard_case_string="542 U.S. 907" X_vs_Y_string="KALINOWSKI v. BOND ET AL" standard_case="140516_2" X_vs_Y="140516_3" gram_type="apposition" relation_type="equivalence" id="140516_8" ></RELATION>
+
+<RELATION theme="140516_3" party1="140516_4" party1_string="KALINOWSKI" theme_string="KALINOWSKI v. BOND ET AL" gram_type="infix" relation_type="asymmetric" id="140516_6" ></RELATION>
+
+<RELATION party2="140516_5" theme="140516_3" theme_string="KALINOWSKI v. BOND ET AL" party2_string="BOND ET AL" gram_type="infix" relation_type="asymmetric" id="140516_7" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1015" X_vs_Y_string="KALINOWSKI v. BOND ET AL" standard_case="140516_1" X_vs_Y="140516_3" gram_type="multi_line" relation_type="equivalence" id="140516_12" ></RELATION>
+
+<RELATION at_date_string="November 29, 2004" theme="140516_3" at_date="140516_11" theme_string="KALINOWSKI v. BOND ET AL" gram_type="multi_line" relation_type="asymmetric" id="140516_14" ></RELATION>
+
+<RELATION theme="140516_3" includes_docket_string="03-9785" includes_docket="140516_9" theme_string="KALINOWSKI v. BOND ET AL" gram_type="multi_line" relation_type="asymmetric" id="140516_13" ></RELATION>
+

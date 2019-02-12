@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['ewingcalifornia#4']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_809" id1="122318" volume="537" start="0" page_number="809" standard_reporter="U.S." citation_global_level_id="7692.002" line="1" id="122314_1" citation_local_level_id="0" >537 U.S. 809</CITATION>
+
+<CITATION party2="CALIFORNIA" party1="EWING" citation_global_level_id="63558.001" party2_short="CALIFORNIA" line="1" id="122314_3" alternative_keys="['u.s._537_809']" end="36" entry_type="party_key" lookup_key="ewingcalifornia#4" id1="122314" start="17" party1_short="EWING" citation_local_level_id="1" >EWING v. CALIFORNIA</CITATION>
+
+<NAME end="22" start="17" party1_of="122314_3" all_names="EWING" local_name_id="1" id="122314_4" >EWING</NAME>
+
+<NAME end="36" start="26" all_names="CALIFORNIA" party2_of="122314_3" local_name_id="2" id="122314_5" >CALIFORNIA</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="u.s._537_809" id1="122318" start="46" citation_global_level_id="7692.002" line="1" id="122314_2" citation_local_level_id="0" >01-6978</DOCKET>
+
+<DATE start="95" end="110" id="122314_6" >October 7, 2002</DATE>
+
+<NAME start="234" local_name_id="3" end="236" id="122314_13" all_names="CT" >Ct</NAME>
+
+<CITATION end="296" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_969" id1="119257" volume="535" start="284" page_number="969" standard_reporter="U.S." citation_global_level_id="12299.002" line="3" id="122314_12" citation_local_level_id="2" >535 U.S. 969</CITATION>
+
+<RELATION theme="122314_1" includes_docket_string="01-6978" includes_docket="122314_2" theme_string="537 U.S. 809" gram_type="apposition" relation_type="asymmetric" id="122314_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 809" X_vs_Y_string="EWING v. CALIFORNIA" standard_case="122314_1" X_vs_Y="122314_3" gram_type="pre_nom" relation_type="equivalence" id="122314_7" ></RELATION>
+
+<RELATION theme="122314_3" includes_docket_string="01-6978" includes_docket="122314_2" theme_string="EWING v. CALIFORNIA" gram_type="apposition" relation_type="asymmetric" id="122314_10" ></RELATION>
+
+<RELATION theme="122314_3" party1="122314_4" party1_string="EWING" theme_string="EWING v. CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="122314_8" ></RELATION>
+
+<RELATION party2="122314_5" theme="122314_3" theme_string="EWING v. CALIFORNIA" party2_string="CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="122314_9" ></RELATION>
+

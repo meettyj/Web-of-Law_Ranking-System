@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['fieselcherry#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1191" id1="127149" volume="537" start="0" page_number="1191" standard_reporter="U.S." citation_global_level_id="14170.002" line="1" id="127152_1" citation_local_level_id="0" >537 U.S. 1191</CITATION>
+
+<CITATION party2="CHERRY ET AL" party1="FIESEL" citation_global_level_id="58673.001" party2_short="CHERRY" line="1" id="127152_3" alternative_keys="['u.s._537_1191']" end="40" entry_type="party_key" lookup_key="fieselcherry#1" id1="127152" start="18" party1_short="FIESEL" citation_local_level_id="1" >FIESEL v. CHERRY ET AL</CITATION>
+
+<NAME end="24" start="18" party1_of="127152_3" all_names="FIESEL" local_name_id="1" id="127152_4" >FIESEL</NAME>
+
+<NAME end="40" start="28" all_names="CHERRY" party2_of="127152_3" local_name_id="2" id="127152_5" >CHERRY ET AL</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._537_1191" id1="127149" start="50" citation_global_level_id="14170.002" line="1" id="127152_2" citation_local_level_id="0" >02-898</DOCKET>
+
+<DATE start="98" end="115" id="127152_6" >February 24, 2003</DATE>
+
+<NAME start="244" local_name_id="3" end="247" id="127152_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="297" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_294_664" id1="Dummy_File_27191" volume="294" start="284" page_number="664" standard_reporter="F.3D" citation_global_level_id="91041.001" line="3" id="127152_12" citation_local_level_id="2" >294 F. 3d 664</CITATION>
+
+<RELATION theme="127152_1" includes_docket_string="02-898" includes_docket="127152_2" theme_string="537 U.S. 1191" gram_type="apposition" relation_type="asymmetric" id="127152_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1191" X_vs_Y_string="FIESEL v. CHERRY ET AL" standard_case="127152_1" X_vs_Y="127152_3" gram_type="pre_nom" relation_type="equivalence" id="127152_7" ></RELATION>
+
+<RELATION theme="127152_3" includes_docket_string="02-898" includes_docket="127152_2" theme_string="FIESEL v. CHERRY ET AL" gram_type="apposition" relation_type="asymmetric" id="127152_10" ></RELATION>
+
+<RELATION theme="127152_3" party1="127152_4" party1_string="FIESEL" theme_string="FIESEL v. CHERRY ET AL" gram_type="infix" relation_type="asymmetric" id="127152_8" ></RELATION>
+
+<RELATION party2="127152_5" theme="127152_3" theme_string="FIESEL v. CHERRY ET AL" party2_string="CHERRY ET AL" gram_type="infix" relation_type="asymmetric" id="127152_9" ></RELATION>
+

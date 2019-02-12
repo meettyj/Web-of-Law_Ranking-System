@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['munozstates#8']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1178" id1="127034" volume="537" start="0" page_number="1178" standard_reporter="U.S." citation_global_level_id="1501.002" line="1" id="127033_1" citation_local_level_id="0" >537 U.S. 1178</CITATION>
+
+<CITATION party2="UNITED STATES" party1="SAUCEDO-MUNOZ" citation_global_level_id="36943.001" party2_short="STATES" line="1" id="127033_3" alternative_keys="['u.s._537_1178']" end="48" entry_type="party_key" lookup_key="munozstates#8" id1="137189" start="18" party1_short="MUNOZ" citation_local_level_id="1" >SAUCEDO-MUNOZ v. UNITED STATES</CITATION>
+
+<NAME end="31" start="18" party1_of="127033_3" all_names="SAUCEDO-MUNOZ" local_name_id="1" id="127033_4" >SAUCEDO-MUNOZ</NAME>
+
+<NAME end="48" start="35" all_names="UNITED STATES" party2_of="127033_3" local_name_id="2" id="127033_5" >UNITED STATES</NAME>
+
+<DOCKET end="65" entry_type="docket" lookup_key="u.s._537_1178" id1="127034" start="58" citation_global_level_id="1501.002" line="1" id="127033_2" citation_local_level_id="0" >02-8114</DOCKET>
+
+<DATE start="107" end="123" id="127033_6" >January 27, 2003</DATE>
+
+<NAME start="252" local_name_id="3" end="255" id="127033_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="305" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_307_344" id1="Dummy_File_190128" volume="307" start="292" page_number="344" standard_reporter="F.3D" citation_global_level_id="253978.001" line="3" id="127033_12" citation_local_level_id="2" >307 F. 3d 344</CITATION>
+
+<RELATION theme="127033_1" includes_docket_string="02-8114" includes_docket="127033_2" theme_string="537 U.S. 1178" gram_type="apposition" relation_type="asymmetric" id="127033_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1178" X_vs_Y_string="SAUCEDO-MUNOZ v. UNITED STATES" standard_case="127033_1" X_vs_Y="127033_3" gram_type="pre_nom" relation_type="equivalence" id="127033_7" ></RELATION>
+
+<RELATION theme="127033_3" includes_docket_string="02-8114" includes_docket="127033_2" theme_string="SAUCEDO-MUNOZ v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="127033_10" ></RELATION>
+
+<RELATION theme="127033_3" party1="127033_4" party1_string="SAUCEDO-MUNOZ" theme_string="SAUCEDO-MUNOZ v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="127033_8" ></RELATION>
+
+<RELATION party2="127033_5" theme="127033_3" theme_string="SAUCEDO-MUNOZ v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="127033_9" ></RELATION>
+

@@ -1,0 +1,42 @@
+<CITATION alternative_keys="['floresstates#9']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_1015" id1="144369" volume="544" start="0" page_number="1015" standard_reporter="U.S." citation_global_level_id="4444.002" line="1" id="144368_1" citation_local_level_id="0" >544 U.S. 1015</CITATION>
+
+<CITATION party2="UNITED STATES" party1="FLORES" citation_global_level_id="11880.001" party2_short="STATES" line="1" id="144368_3" alternative_keys="['u.s._544_1015']" end="41" entry_type="party_key" lookup_key="floresstates#9" id1="138197" start="18" party1_short="FLORES" citation_local_level_id="1" >FLORES v. UNITED STATES</CITATION>
+
+<NAME end="24" start="18" party1_of="144368_3" all_names="FLORES" local_name_id="1" id="144368_4" >FLORES</NAME>
+
+<NAME end="41" start="28" all_names="UNITED STATES" party2_of="144368_3" local_name_id="2" id="144368_5" >UNITED STATES</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="floresstates#9" id1="138197" start="50" citation_global_level_id="11880.001" line="1" id="144368_2" citation_local_level_id="1" >04-9382</DOCKET>
+
+<DATE start="99" end="110" id="144368_6" >May 2, 2005</DATE>
+
+<LEGAL_ROLE start="208" end="229" plural="True" id="144368_16" >Motion of petitioners</LEGAL_ROLE>
+
+<NAME start="278" local_name_id="3" end="288" id="144368_17" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION party2="Booker" party1="United States" citation_global_level_id="57130.001" party2_short="Booker" line="3" id="144368_12" alternative_keys="['u.s._543_220']" end="397" entry_type="party_key" lookup_key="statesbooker#4" id1="137703" start="374" party1_short="States" citation_local_level_id="2" >United States v. Booker</CITATION>
+
+<NAME end="387" start="374" party1_of="144368_12" all_names="UNITED STATES" local_name_id="2" id="144368_13" >United States</NAME>
+
+<NAME end="397" start="391" all_names="BOOKER" party2_of="144368_12" local_name_id="4" id="144368_14" >Booker</NAME>
+
+<CITATION alternative_keys="['statesbooker#4']" end="418" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_220" id1="145930" volume="543" start="399" page_number="220" year="2005" standard_reporter="U.S." citation_global_level_id="3524.003" line="3" id="144368_11" citation_local_level_id="3" >543 U.S. 220 (2005)</CITATION>
+
+<DATE start="413" citation_global_level_id="3524.003" end="417" id="144368_15" citation_local_level_id="3" >2005</DATE>
+
+<RELATION standard_case_string="544 U.S. 1015" X_vs_Y_string="FLORES v. UNITED STATES" standard_case="144368_1" X_vs_Y="144368_3" gram_type="pre_nom" relation_type="equivalence" id="144368_7" ></RELATION>
+
+<RELATION theme="144368_3" includes_docket_string="04-9382" includes_docket="144368_2" theme_string="FLORES v. UNITED STATES" gram_type="pre_nom" relation_type="asymmetric" id="144368_10" ></RELATION>
+
+<RELATION theme="144368_3" party1="144368_4" party1_string="FLORES" theme_string="FLORES v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="144368_8" ></RELATION>
+
+<RELATION party2="144368_5" theme="144368_3" theme_string="FLORES v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="144368_9" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 220 (2005)" X_vs_Y_string="United States v. Booker" standard_case="144368_11" X_vs_Y="144368_12" gram_type="apposition" relation_type="equivalence" id="144368_20" ></RELATION>
+
+<RELATION theme="144368_12" party1="144368_13" party1_string="United States" theme_string="United States v. Booker" gram_type="infix" relation_type="asymmetric" id="144368_18" ></RELATION>
+
+<RELATION party2="144368_14" theme="144368_12" theme_string="United States v. Booker" party2_string="Booker" gram_type="infix" relation_type="asymmetric" id="144368_19" ></RELATION>
+
+<RELATION at_date_string="2005" theme="144368_11" at_date="144368_15" theme_string="543 U.S. 220 (2005)" gram_type="infix" relation_type="asymmetric" id="144368_21" ></RELATION>
+

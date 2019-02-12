@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['jackstates#3']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_889" id1="114047" volume="510" start="0" page_number="889" standard_reporter="U.S." citation_global_level_id="3913.002" line="1" id="114052_1" citation_local_level_id="0" >510 U.S. 889</CITATION>
+
+<CITATION party2="United States" party1="Jack" citation_global_level_id="62692.001" party2_short="States" line="1" id="114052_3" alternative_keys="['u.s._510_889']" end="38" entry_type="party_key" lookup_key="jackstates#3" id1="117761" start="17" party1_short="Jack" citation_local_level_id="1" >Jack v. United States</CITATION>
+
+<NAME end="21" start="17" party1_of="114052_3" all_names="JACK" local_name_id="1" id="114052_4" >Jack</NAME>
+
+<NAME end="38" start="25" all_names="UNITED STATES" party2_of="114052_3" local_name_id="2" id="114052_5" >United States</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._510_889" id1="114047" start="48" citation_global_level_id="3913.002" line="1" id="114052_2" citation_local_level_id="0" >93-5363</DOCKET>
+
+<DATE start="97" end="112" id="114052_6" >October 4, 1993</DATE>
+
+<NAME start="190" local_name_id="3" end="200" id="114052_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="238" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_989_496" id1="Dummy_File_22741" volume="989" start="225" page_number="496" standard_reporter="F.2D" citation_global_level_id="86591.001" line="3" id="114052_12" citation_local_level_id="2" >989 F. 2d 496</CITATION>
+
+<RELATION theme="114052_1" includes_docket_string="93-5363" includes_docket="114052_2" theme_string="510 U.S. 889" gram_type="apposition" relation_type="asymmetric" id="114052_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 889" X_vs_Y_string="Jack v. United States" standard_case="114052_1" X_vs_Y="114052_3" gram_type="pre_nom" relation_type="equivalence" id="114052_7" ></RELATION>
+
+<RELATION theme="114052_3" includes_docket_string="93-5363" includes_docket="114052_2" theme_string="Jack v. United States" gram_type="apposition" relation_type="asymmetric" id="114052_10" ></RELATION>
+
+<RELATION theme="114052_3" party1="114052_4" party1_string="Jack" theme_string="Jack v. United States" gram_type="infix" relation_type="asymmetric" id="114052_8" ></RELATION>
+
+<RELATION party2="114052_5" theme="114052_3" theme_string="Jack v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="114052_9" ></RELATION>
+

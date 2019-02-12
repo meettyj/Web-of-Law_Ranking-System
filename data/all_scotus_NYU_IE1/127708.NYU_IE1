@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['sadouxwestmoreland#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1232" id1="127709" volume="537" start="0" page_number="1232" standard_reporter="U.S." citation_global_level_id="355.002" line="1" id="127708_1" citation_local_level_id="0" >537 U.S. 1232</CITATION>
+
+<CITATION party2="WESTMORELAND" party1="SADOUX" citation_global_level_id="47663.001" party2_short="WESTMORELAND" line="1" id="127708_3" alternative_keys="['u.s._537_1232']" end="40" entry_type="party_key" lookup_key="sadouxwestmoreland#1" id1="127708" start="18" party1_short="SADOUX" citation_local_level_id="1" >SADOUX v. WESTMORELAND</CITATION>
+
+<NAME end="24" start="18" party1_of="127708_3" all_names="SADOUX" local_name_id="1" id="127708_4" >SADOUX</NAME>
+
+<NAME end="40" start="28" all_names="WESTMORELAND" party2_of="127708_3" local_name_id="2" id="127708_5" >WESTMORELAND</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._537_1232" id1="127709" start="50" citation_global_level_id="355.002" line="1" id="127708_2" citation_local_level_id="0" >02-816</DOCKET>
+
+<DATE start="98" end="111" id="127708_6" >March 3, 2003</DATE>
+
+<NAME start="240" local_name_id="3" end="243" id="127708_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="293" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_299_462" id1="Dummy_File_136086" volume="299" start="280" page_number="462" standard_reporter="F.3D" citation_global_level_id="199936.001" line="3" id="127708_12" citation_local_level_id="2" >299 F. 3d 462</CITATION>
+
+<RELATION theme="127708_1" includes_docket_string="02-816" includes_docket="127708_2" theme_string="537 U.S. 1232" gram_type="apposition" relation_type="asymmetric" id="127708_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1232" X_vs_Y_string="SADOUX v. WESTMORELAND" standard_case="127708_1" X_vs_Y="127708_3" gram_type="pre_nom" relation_type="equivalence" id="127708_7" ></RELATION>
+
+<RELATION theme="127708_3" includes_docket_string="02-816" includes_docket="127708_2" theme_string="SADOUX v. WESTMORELAND" gram_type="apposition" relation_type="asymmetric" id="127708_10" ></RELATION>
+
+<RELATION theme="127708_3" party1="127708_4" party1_string="SADOUX" theme_string="SADOUX v. WESTMORELAND" gram_type="infix" relation_type="asymmetric" id="127708_8" ></RELATION>
+
+<RELATION party2="127708_5" theme="127708_3" theme_string="SADOUX v. WESTMORELAND" party2_string="WESTMORELAND" gram_type="infix" relation_type="asymmetric" id="127708_9" ></RELATION>
+

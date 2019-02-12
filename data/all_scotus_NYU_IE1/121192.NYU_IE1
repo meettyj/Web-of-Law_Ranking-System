@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['searlesbebber#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._536_904" id1="121194" volume="536" start="0" page_number="904" standard_reporter="U.S." citation_global_level_id="1167.002" line="1" id="121192_1" citation_local_level_id="0" >536 U.S. 904</CITATION>
+
+<CITATION party2="VAN BEBBER" party1="SEARLES" citation_global_level_id="7071.001" party2_short="BEBBER" line="2" id="121192_3" alternative_keys="['u.s._536_904']" end="38" entry_type="party_key" lookup_key="searlesbebber#1" id1="121192" start="17" party1_short="SEARLES" citation_local_level_id="1" >SEARLES v. VAN BEBBER</CITATION>
+
+<NAME end="24" start="17" party1_of="121192_3" all_names="SEARLES" local_name_id="1" id="121192_4" >SEARLES</NAME>
+
+<NAME end="38" start="28" all_names="VAN BEBBER" party2_of="121192_3" local_name_id="2" id="121192_5" >VAN BEBBER</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="searlesbebber#1" id1="121192" start="48" citation_global_level_id="7071.001" line="2" id="121192_2" citation_local_level_id="1" >01-785</DOCKET>
+
+<DATE start="100" citation_global_level_id="7071.001" end="113" id="121192_9" citation_local_level_id="1" >June 10, 2002</DATE>
+
+<NAME start="146" local_name_id="3" end="149" id="121192_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="199" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_251_869" id1="Dummy_File_209424" volume="251" start="186" page_number="869" standard_reporter="F.3D" citation_global_level_id="273274.001" line="7" id="121192_12" citation_local_level_id="2" >251 F. 3d 869</CITATION>
+
+<RELATION theme="121192_3" includes_docket_string="01-785" includes_docket="121192_2" theme_string="SEARLES v. VAN BEBBER" gram_type="apposition" relation_type="asymmetric" id="121192_8" ></RELATION>
+
+<RELATION theme="121192_3" party1="121192_4" party1_string="SEARLES" theme_string="SEARLES v. VAN BEBBER" gram_type="infix" relation_type="asymmetric" id="121192_6" ></RELATION>
+
+<RELATION party2="121192_5" theme="121192_3" theme_string="SEARLES v. VAN BEBBER" party2_string="VAN BEBBER" gram_type="infix" relation_type="asymmetric" id="121192_7" ></RELATION>
+
+<RELATION standard_case_string="536 U.S. 904" X_vs_Y_string="SEARLES v. VAN BEBBER" standard_case="121192_1" X_vs_Y="121192_3" gram_type="multi_line" relation_type="equivalence" id="121192_10" ></RELATION>
+
+<RELATION at_date_string="June 10, 2002" theme="121192_3" at_date="121192_9" theme_string="SEARLES v. VAN BEBBER" gram_type="multi_line" relation_type="asymmetric" id="121192_11" ></RELATION>
+

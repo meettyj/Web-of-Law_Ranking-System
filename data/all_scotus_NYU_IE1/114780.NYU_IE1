@@ -1,0 +1,34 @@
+<CITATION alternative_keys="['geurinstates#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_949" id1="114776" volume="510" start="0" page_number="949" standard_reporter="U.S." citation_global_level_id="8780.002" line="1" id="114780_1" citation_local_level_id="0" >510 U.S. 949</CITATION>
+
+<CITATION party2="United States et al" party1="Geurin" citation_global_level_id="8780.005" party2_short="States" line="1" id="114780_3" alternative_keys="['u.s._510_949']" end="46" entry_type="party_key" lookup_key="geurinstates#2" id1="114776" start="17" party1_short="Geurin" citation_local_level_id="1" >Geurin v. United States et al</CITATION>
+
+<NAME end="23" start="17" party1_of="114780_3" all_names="GEURIN" local_name_id="1" id="114780_5" >Geurin</NAME>
+
+<NAME end="46" start="27" all_names="UNITED STATES" party2_of="114780_3" local_name_id="2" id="114780_6" >United States et al</NAME>
+
+<CITATION party2="Department of the Army et al" party1="Geurin" citation_global_level_id="220031.001" party2_short="Department" line="1" id="114780_4" end="90" no_current_file="True" entry_type="party_key" lookup_key="geurindepartment#1" id1="Dummy_File_156181" start="52" party1_short="Geurin" citation_local_level_id="2" >Geurin v. Department of the Army et al</CITATION>
+
+<NAME end="58" start="52" party1_of="114780_4" all_names="GEURIN" local_name_id="1" id="114780_7" >Geurin</NAME>
+
+<NAME end="90" start="62" all_names="DEPARTMENT OF THE ARMY" party2_of="114780_4" local_name_id="3" id="114780_8" >Department of the Army et al</NAME>
+
+<DOCKET alternative_keys="['u.s._510_949']" end="107" entry_type="docket" lookup_key="geurinstates#2" id1="114776" start="100" citation_global_level_id="8780.005" line="1" id="114780_2" citation_local_level_id="1" >93-5460</DOCKET>
+
+<DATE start="149" end="165" id="114780_9" >November 1, 1993</DATE>
+
+<NAME start="243" local_name_id="4" end="253" id="114780_17" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION standard_case_string="510 U.S. 949" X_vs_Y_string="Geurin v. United States et al" standard_case="114780_1" X_vs_Y="114780_3" gram_type="pre_nom" relation_type="equivalence" id="114780_10" ></RELATION>
+
+<RELATION theme="114780_3" includes_docket_string="93-5460" includes_docket="114780_2" theme_string="Geurin v. United States et al" gram_type="apposition" relation_type="asymmetric" id="114780_16" ></RELATION>
+
+<RELATION theme="114780_3" party1="114780_5" party1_string="Geurin" theme_string="Geurin v. United States et al" gram_type="infix" relation_type="asymmetric" id="114780_11" ></RELATION>
+
+<RELATION party2="114780_6" theme="114780_3" theme_string="Geurin v. United States et al" party2_string="United States et al" gram_type="infix" relation_type="asymmetric" id="114780_12" ></RELATION>
+
+<RELATION theme="114780_4" includes_docket_string="93-5460" includes_docket="114780_2" theme_string="Geurin v. Department of the Army et al" gram_type="apposition" relation_type="asymmetric" id="114780_15" ></RELATION>
+
+<RELATION theme="114780_4" party1="114780_7" party1_string="Geurin" theme_string="Geurin v. Department of the Army et al" gram_type="infix" relation_type="asymmetric" id="114780_13" ></RELATION>
+
+<RELATION party2="114780_8" theme="114780_4" theme_string="Geurin v. Department of the Army et al" party2_string="Department of the Army et al" gram_type="infix" relation_type="asymmetric" id="114780_14" ></RELATION>
+

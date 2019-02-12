@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['airwayshusain#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_807" id1="131210" volume="540" start="0" page_number="807" standard_reporter="U.S." citation_global_level_id="7398.002" line="1" id="131206_1" citation_local_level_id="0" >540 U.S. 807</CITATION>
+
+<CITATION party2="HUSAIN, INDIVIDUALLY, AND AS PERSONAL REPRESENTATIVE OF THE ESTATE OF HANSON, DECEASED, ET AL" party1="OLYMPIC AIRWAYS" citation_global_level_id="12828.001" party2_short="HUSAIN" line="1" id="131206_4" alternative_keys="['u.s._540_807']" end="129" entry_type="party_key" lookup_key="airwayshusain#1" id1="131164" start="17" party1_short="AIRWAYS" citation_local_level_id="1" >OLYMPIC AIRWAYS v. HUSAIN, INDIVIDUALLY, AND AS PERSONAL REPRESENTATIVE OF THE ESTATE OF HANSON, DECEASED, ET AL</CITATION>
+
+<NAME end="32" start="17" party1_of="131206_4" all_names="OLYMPIC AIRWAYS" local_name_id="1" id="131206_5" >OLYMPIC AIRWAYS</NAME>
+
+<NAME end="129" start="36" all_names="HUSAIN INDIVIDUALLY AND AS PERSONAL REPRESENTATIVE OF THE ESTATE OF HANSON DECEASED" party2_of="131206_4" local_name_id="2" id="131206_6" >HUSAIN, INDIVIDUALLY, AND AS PERSONAL REPRESENTATIVE OF THE ESTATE OF HANSON, DECEASED, ET AL</NAME>
+
+<DOCKET end="146" entry_type="docket" lookup_key="u.s._540_807" id1="131210" start="139" citation_global_level_id="7398.002" line="1" id="131206_3" citation_local_level_id="0" >02-1348</DOCKET>
+
+<DATE start="188" end="203" id="131206_7" >October 6, 2003</DATE>
+
+<CITATION end="291" reporter="U. S." entry_type="standard_key" lookup_key="u.s._538_1056" id1="129940" volume="538" start="277" page_number="1056" standard_reporter="U.S." citation_global_level_id="2543.002" line="1" id="131206_2" citation_local_level_id="2" >538 U. S. 1056</CITATION>
+
+<PROFESSION start="319" end="350" id="131206_13" >Motion of the Solicitor General</PROFESSION>
+
+<PROFESSION start="444" document_level_name_id="3" end="451" id="131206_14" party="BREYER" >JUSTICE</PROFESSION>
+
+<NAME start="452" local_name_id="3" end="458" id="131206_15" all_names="BREYER" >BREYER</NAME>
+
+<RELATION theme="131206_1" includes_docket_string="02-1348" includes_docket="131206_3" theme_string="540 U.S. 807" gram_type="apposition" relation_type="asymmetric" id="131206_12" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 807" X_vs_Y_string="OLYMPIC AIRWAYS v. HUSAIN, INDIVIDUALLY, AND AS PERSONAL REPRESENTATIVE OF THE ESTATE OF HANSON, DECEASED, ET AL" standard_case="131206_1" X_vs_Y="131206_4" gram_type="pre_nom" relation_type="equivalence" id="131206_8" ></RELATION>
+
+<RELATION theme="131206_4" includes_docket_string="02-1348" includes_docket="131206_3" theme_string="OLYMPIC AIRWAYS v. HUSAIN, INDIVIDUALLY, AND AS PERSONAL REPRESENTATIVE OF THE ESTATE OF HANSON, DECEASED, ET AL" gram_type="apposition" relation_type="asymmetric" id="131206_11" ></RELATION>
+
+<RELATION party2="131206_6" theme="131206_4" theme_string="OLYMPIC AIRWAYS v. HUSAIN, INDIVIDUALLY, AND AS PERSONAL REPRESENTATIVE OF THE ESTATE OF HANSON, DECEASED, ET AL" party2_string="HUSAIN, INDIVIDUALLY, AND AS PERSONAL REPRESENTATIVE OF THE ESTATE OF HANSON, DECEASED, ET AL" gram_type="infix" relation_type="asymmetric" id="131206_10" ></RELATION>
+
+<RELATION theme="131206_4" party1="131206_5" party1_string="OLYMPIC AIRWAYS" theme_string="OLYMPIC AIRWAYS v. HUSAIN, INDIVIDUALLY, AND AS PERSONAL REPRESENTATIVE OF THE ESTATE OF HANSON, DECEASED, ET AL" gram_type="infix" relation_type="asymmetric" id="131206_9" ></RELATION>
+
+<RELATION theme="131206_15" profession_string="JUSTICE" theme_string="BREYER" profession="131206_14" gram_type="pre_nom" relation_type="asymmetric" id="131206_16" ></RELATION>
+

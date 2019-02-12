@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['williamsflorida#9']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_1071" id1="136665" volume="541" start="0" page_number="1071" standard_reporter="U.S." citation_global_level_id="637.002" line="1" id="136654_1" citation_local_level_id="0" >541 U.S. 1071</CITATION>
+
+<CITATION party2="FLORIDA" party1="WILLIAMS" citation_global_level_id="52888.001" party2_short="FLORIDA" line="2" id="136654_2" alternative_keys="['u.s._541_1071']" end="37" entry_type="party_key" lookup_key="williamsflorida#9" id1="115439" start="18" party1_short="WILLIAMS" citation_local_level_id="1" >WILLIAMS v. FLORIDA</CITATION>
+
+<NAME end="26" start="18" party1_of="136654_2" all_names="WILLIAMS" local_name_id="1" id="136654_3" >WILLIAMS</NAME>
+
+<NAME end="37" start="30" all_names="FLORIDA" party2_of="136654_2" local_name_id="2" id="136654_4" >FLORIDA</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="williamsflorida#9" id1="115439" start="47" citation_global_level_id="52888.001" line="3" id="136654_7" citation_local_level_id="1" >03-8676</DOCKET>
+
+<ORGANIZATION start="60" end="90" id="136654_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="96" citation_global_level_id="52888.001" end="108" id="136654_9" citation_local_level_id="1" >May 24, 2004</DATE>
+
+<NAME start="144" local_name_id="3" end="153" id="136654_13" all_names="PETITIONS" >Petitions</NAME>
+
+<RELATION theme="136654_2" party1="136654_3" party1_string="WILLIAMS" theme_string="WILLIAMS v. FLORIDA" gram_type="infix" relation_type="asymmetric" id="136654_5" ></RELATION>
+
+<RELATION party2="136654_4" theme="136654_2" theme_string="WILLIAMS v. FLORIDA" party2_string="FLORIDA" gram_type="infix" relation_type="asymmetric" id="136654_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 1071" X_vs_Y_string="WILLIAMS v. FLORIDA" standard_case="136654_1" X_vs_Y="136654_2" gram_type="multi_line" relation_type="equivalence" id="136654_10" ></RELATION>
+
+<RELATION at_date_string="May 24, 2004" theme="136654_2" at_date="136654_9" theme_string="WILLIAMS v. FLORIDA" gram_type="multi_line" relation_type="asymmetric" id="136654_12" ></RELATION>
+
+<RELATION theme="136654_2" includes_docket_string="03-8676" includes_docket="136654_7" theme_string="WILLIAMS v. FLORIDA" gram_type="multi_line" relation_type="asymmetric" id="136654_11" ></RELATION>
+

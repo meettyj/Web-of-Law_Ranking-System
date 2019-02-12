@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['pujolsgreiner#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1102" id1="120887" volume="535" start="0" page_number="1102" standard_reporter="U.S." citation_global_level_id="895.002" line="1" id="120889_1" citation_local_level_id="0" >535 U.S. 1102</CITATION>
+
+<CITATION party2="GREINER, SUPERINTENDENT, GREEN HAVEN CORRECTIONAL FACILITY" party1="PUJOLS" citation_global_level_id="895.005" party2_short="GREINER" line="2" id="120889_2" alternative_keys="['u.s._535_1102']" end="86" entry_type="party_key" lookup_key="pujolsgreiner#1" id1="120887" start="18" party1_short="PUJOLS" citation_local_level_id="1" >PUJOLS v. GREINER, SUPERINTENDENT, GREEN HAVEN CORRECTIONAL FACILITY</CITATION>
+
+<NAME end="24" start="18" party1_of="120889_2" all_names="PUJOLS" local_name_id="1" id="120889_3" >PUJOLS</NAME>
+
+<NAME end="86" start="28" all_names="GREINER SUPERINTENDENT GREEN HAVEN CORRECTIONAL FACILITY" party2_of="120889_2" local_name_id="2" id="120889_4" >GREINER, SUPERINTENDENT, GREEN HAVEN CORRECTIONAL FACILITY</NAME>
+
+<DOCKET alternative_keys="['u.s._535_1102']" end="103" entry_type="docket" lookup_key="pujolsgreiner#1" id1="120887" start="96" citation_global_level_id="895.005" line="3" id="120889_7" citation_local_level_id="1" >01-9252</DOCKET>
+
+<DATE start="149" citation_global_level_id="895.005" end="161" id="120889_8" citation_local_level_id="1" >May 28, 2002</DATE>
+
+<NAME start="192" local_name_id="3" end="195" id="120889_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="120889_2" party1="120889_3" party1_string="PUJOLS" theme_string="PUJOLS v. GREINER, SUPERINTENDENT, GREEN HAVEN CORRECTIONAL FACILITY" gram_type="infix" relation_type="asymmetric" id="120889_5" ></RELATION>
+
+<RELATION party2="120889_4" theme="120889_2" theme_string="PUJOLS v. GREINER, SUPERINTENDENT, GREEN HAVEN CORRECTIONAL FACILITY" party2_string="GREINER, SUPERINTENDENT, GREEN HAVEN CORRECTIONAL FACILITY" gram_type="infix" relation_type="asymmetric" id="120889_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1102" X_vs_Y_string="PUJOLS v. GREINER, SUPERINTENDENT, GREEN HAVEN CORRECTIONAL FACILITY" standard_case="120889_1" X_vs_Y="120889_2" gram_type="multi_line" relation_type="equivalence" id="120889_9" ></RELATION>
+
+<RELATION at_date_string="May 28, 2002" theme="120889_2" at_date="120889_8" theme_string="PUJOLS v. GREINER, SUPERINTENDENT, GREEN HAVEN CORRECTIONAL FACILITY" gram_type="multi_line" relation_type="asymmetric" id="120889_11" ></RELATION>
+
+<RELATION theme="120889_2" includes_docket_string="01-9252" includes_docket="120889_7" theme_string="PUJOLS v. GREINER, SUPERINTENDENT, GREEN HAVEN CORRECTIONAL FACILITY" gram_type="multi_line" relation_type="asymmetric" id="120889_10" ></RELATION>
+

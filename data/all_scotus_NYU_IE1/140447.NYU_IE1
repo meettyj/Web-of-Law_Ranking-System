@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['nguyenknowles#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1010" id1="140442" volume="543" start="0" page_number="1010" standard_reporter="U.S." citation_global_level_id="2775.002" line="1" id="140447_1" citation_local_level_id="0" >543 U.S. 1010</CITATION>
+
+<CITATION party2="KNOWLES, WARDEN" party1="CUONG VAN NGUYEN" citation_global_level_id="2775.005" party2_short="KNOWLES" line="2" id="140447_2" alternative_keys="['u.s._543_1010']" end="53" entry_type="party_key" lookup_key="nguyenknowles#1" id1="140442" start="18" party1_short="NGUYEN" citation_local_level_id="1" >CUONG VAN NGUYEN v. KNOWLES, WARDEN</CITATION>
+
+<NAME end="34" start="18" party1_of="140447_2" all_names="CUONG VAN NGUYEN" local_name_id="1" id="140447_3" >CUONG VAN NGUYEN</NAME>
+
+<NAME end="53" start="38" all_names="KNOWLES WARDEN" party2_of="140447_2" local_name_id="2" id="140447_4" >KNOWLES, WARDEN</NAME>
+
+<DOCKET alternative_keys="['u.s._543_1010']" end="70" entry_type="docket" lookup_key="nguyenknowles#1" id1="140442" start="63" citation_global_level_id="2775.005" line="3" id="140447_7" citation_local_level_id="1" >04-6791</DOCKET>
+
+<ORGANIZATION start="76" end="106" id="140447_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="112" citation_global_level_id="2775.005" end="129" id="140447_9" citation_local_level_id="1" >November 29, 2004</DATE>
+
+<NAME start="161" local_name_id="3" end="164" id="140447_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="140447_2" party1="140447_3" party1_string="CUONG VAN NGUYEN" theme_string="CUONG VAN NGUYEN v. KNOWLES, WARDEN" gram_type="infix" relation_type="asymmetric" id="140447_5" ></RELATION>
+
+<RELATION party2="140447_4" theme="140447_2" theme_string="CUONG VAN NGUYEN v. KNOWLES, WARDEN" party2_string="KNOWLES, WARDEN" gram_type="infix" relation_type="asymmetric" id="140447_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1010" X_vs_Y_string="CUONG VAN NGUYEN v. KNOWLES, WARDEN" standard_case="140447_1" X_vs_Y="140447_2" gram_type="multi_line" relation_type="equivalence" id="140447_10" ></RELATION>
+
+<RELATION at_date_string="November 29, 2004" theme="140447_2" at_date="140447_9" theme_string="CUONG VAN NGUYEN v. KNOWLES, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="140447_12" ></RELATION>
+
+<RELATION theme="140447_2" includes_docket_string="04-6791" includes_docket="140447_7" theme_string="CUONG VAN NGUYEN v. KNOWLES, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="140447_11" ></RELATION>
+

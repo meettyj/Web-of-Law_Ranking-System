@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['lorangerwisconsin#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_884" id1="123321" volume="537" start="0" page_number="884" standard_reporter="U.S." citation_global_level_id="4340.002" line="1" id="123314_1" citation_local_level_id="0" >537 U.S. 884</CITATION>
+
+<CITATION party2="WISCONSIN" party1="LORANGER" citation_global_level_id="54000.001" party2_short="WISCONSIN" line="1" id="123314_3" alternative_keys="['u.s._537_884']" end="38" entry_type="party_key" lookup_key="lorangerwisconsin#1" id1="123314" start="17" party1_short="LORANGER" citation_local_level_id="1" >LORANGER v. WISCONSIN</CITATION>
+
+<NAME end="25" start="17" party1_of="123314_3" all_names="LORANGER" local_name_id="1" id="123314_4" >LORANGER</NAME>
+
+<NAME end="38" start="29" all_names="WISCONSIN" party2_of="123314_3" local_name_id="2" id="123314_5" >WISCONSIN</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="u.s._537_884" id1="123321" start="48" citation_global_level_id="4340.002" line="1" id="123314_2" citation_local_level_id="0" >02-106</DOCKET>
+
+<DATE start="96" end="111" id="123314_6" >October 7, 2002</DATE>
+
+<NAME start="207" local_name_id="3" end="209" id="123314_13" all_names="CT" >Ct</NAME>
+
+<CITATION end="289" reporter="N. W. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.w.2d_640_555" id1="Dummy_File_132547" volume="640" start="273" page_number="555" standard_reporter="N.W.2D" citation_global_level_id="196397.001" line="3" id="123314_12" citation_local_level_id="2" >640 N. W. 2d 555</CITATION>
+
+<RELATION theme="123314_1" includes_docket_string="02-106" includes_docket="123314_2" theme_string="537 U.S. 884" gram_type="apposition" relation_type="asymmetric" id="123314_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 884" X_vs_Y_string="LORANGER v. WISCONSIN" standard_case="123314_1" X_vs_Y="123314_3" gram_type="pre_nom" relation_type="equivalence" id="123314_7" ></RELATION>
+
+<RELATION theme="123314_3" includes_docket_string="02-106" includes_docket="123314_2" theme_string="LORANGER v. WISCONSIN" gram_type="apposition" relation_type="asymmetric" id="123314_10" ></RELATION>
+
+<RELATION theme="123314_3" party1="123314_4" party1_string="LORANGER" theme_string="LORANGER v. WISCONSIN" gram_type="infix" relation_type="asymmetric" id="123314_8" ></RELATION>
+
+<RELATION party2="123314_5" theme="123314_3" theme_string="LORANGER v. WISCONSIN" party2_string="WISCONSIN" gram_type="infix" relation_type="asymmetric" id="123314_9" ></RELATION>
+

@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['riserbostic#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1061" id1="130011" volume="538" start="0" page_number="1061" standard_reporter="U.S." citation_global_level_id="13084.002" line="1" id="130012_1" citation_local_level_id="0" >538 U.S. 1061</CITATION>
+
+<CITATION party2="BOSTIC ET AL" party1="RISER" citation_global_level_id="58454.001" party2_short="BOSTIC" line="1" id="130012_3" alternative_keys="['u.s._538_1061']" end="39" entry_type="party_key" lookup_key="riserbostic#1" id1="130012" start="18" party1_short="RISER" citation_local_level_id="1" >RISER v. BOSTIC ET AL</CITATION>
+
+<NAME end="23" start="18" party1_of="130012_3" all_names="RISER" local_name_id="1" id="130012_4" >RISER</NAME>
+
+<NAME end="39" start="27" all_names="BOSTIC" party2_of="130012_3" local_name_id="2" id="130012_5" >BOSTIC ET AL</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._538_1061" id1="130011" start="49" citation_global_level_id="13084.002" line="1" id="130012_2" citation_local_level_id="0" >02-9752</DOCKET>
+
+<DATE start="98" end="110" id="130012_6" >May 27, 2003</DATE>
+
+<NAME start="239" local_name_id="3" end="242" id="130012_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="130012_1" includes_docket_string="02-9752" includes_docket="130012_2" theme_string="538 U.S. 1061" gram_type="apposition" relation_type="asymmetric" id="130012_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1061" X_vs_Y_string="RISER v. BOSTIC ET AL" standard_case="130012_1" X_vs_Y="130012_3" gram_type="pre_nom" relation_type="equivalence" id="130012_7" ></RELATION>
+
+<RELATION theme="130012_3" includes_docket_string="02-9752" includes_docket="130012_2" theme_string="RISER v. BOSTIC ET AL" gram_type="apposition" relation_type="asymmetric" id="130012_10" ></RELATION>
+
+<RELATION theme="130012_3" party1="130012_4" party1_string="RISER" theme_string="RISER v. BOSTIC ET AL" gram_type="infix" relation_type="asymmetric" id="130012_8" ></RELATION>
+
+<RELATION party2="130012_5" theme="130012_3" theme_string="RISER v. BOSTIC ET AL" party2_string="BOSTIC ET AL" gram_type="infix" relation_type="asymmetric" id="130012_9" ></RELATION>
+

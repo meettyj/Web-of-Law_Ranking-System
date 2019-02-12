@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['lylesstates#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_885" id1="113989" volume="510" start="0" page_number="885" standard_reporter="U.S." citation_global_level_id="470.002" line="1" id="113992_1" citation_local_level_id="0" >510 U.S. 885</CITATION>
+
+<CITATION party2="United States" party1="Lyles" citation_global_level_id="21453.001" party2_short="States" line="1" id="113992_3" alternative_keys="['u.s._510_885']" end="39" entry_type="party_key" lookup_key="lylesstates#2" id1="113992" start="17" party1_short="Lyles" citation_local_level_id="1" >Lyles v. United States</CITATION>
+
+<NAME end="22" start="17" party1_of="113992_3" all_names="LYLES" local_name_id="1" id="113992_4" >Lyles</NAME>
+
+<NAME end="39" start="26" all_names="UNITED STATES" party2_of="113992_3" local_name_id="2" id="113992_5" >United States</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._510_885" id1="113989" start="49" citation_global_level_id="470.002" line="1" id="113992_2" citation_local_level_id="0" >93-5269</DOCKET>
+
+<DATE start="98" end="113" id="113992_6" >October 4, 1993</DATE>
+
+<NAME start="191" local_name_id="3" end="201" id="113992_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="240" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_995_1064" id1="Dummy_File_117850" volume="995" start="226" page_number="1064" standard_reporter="F.2D" citation_global_level_id="181700.001" line="3" id="113992_12" citation_local_level_id="2" >995 F. 2d 1064</CITATION>
+
+<RELATION theme="113992_1" includes_docket_string="93-5269" includes_docket="113992_2" theme_string="510 U.S. 885" gram_type="apposition" relation_type="asymmetric" id="113992_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 885" X_vs_Y_string="Lyles v. United States" standard_case="113992_1" X_vs_Y="113992_3" gram_type="pre_nom" relation_type="equivalence" id="113992_7" ></RELATION>
+
+<RELATION theme="113992_3" includes_docket_string="93-5269" includes_docket="113992_2" theme_string="Lyles v. United States" gram_type="apposition" relation_type="asymmetric" id="113992_10" ></RELATION>
+
+<RELATION theme="113992_3" party1="113992_4" party1_string="Lyles" theme_string="Lyles v. United States" gram_type="infix" relation_type="asymmetric" id="113992_8" ></RELATION>
+
+<RELATION party2="113992_5" theme="113992_3" theme_string="Lyles v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="113992_9" ></RELATION>
+

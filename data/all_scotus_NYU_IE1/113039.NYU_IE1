@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['boarddouglas#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_814" id1="113041" volume="510" start="0" page_number="814" standard_reporter="U.S." citation_global_level_id="15485.002" line="1" id="113039_1" citation_local_level_id="0" >510 U.S. 814</CITATION>
+
+<CITATION party2="McDonnell Douglas Corp" party1="California State Board of Equalization" citation_global_level_id="15485.004" party2_short="Douglas" line="1" id="113039_3" alternative_keys="['u.s._510_814']" end="81" entry_type="party_key" lookup_key="boarddouglas#1" id1="113041" start="17" party1_short="Board" citation_local_level_id="1" >California State Board of Equalization v. McDonnell Douglas Corp</CITATION>
+
+<NAME end="55" start="17" party1_of="113039_3" all_names="CALIFORNIA STATE BOARD OF EQUALIZATION" local_name_id="1" id="113039_4" >California State Board of Equalization</NAME>
+
+<NAME end="81" start="59" all_names="MCDONNELL DOUGLAS CORP" party2_of="113039_3" local_name_id="2" id="113039_5" >McDonnell Douglas Corp</NAME>
+
+<DOCKET end="98" entry_type="docket" lookup_key="u.s._510_814" id1="113041" start="91" citation_global_level_id="15485.002" line="1" id="113039_2" citation_local_level_id="0" >92-1803</DOCKET>
+
+<DATE start="94" end="98" id="113039_6" >1803</DATE>
+
+<DATE start="140" end="155" id="113039_7" >October 4, 1993</DATE>
+
+<NAME start="247" local_name_id="3" end="257" id="113039_15" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="325" reporter="Cal. Rptr. 2d" entry_type="standard_key" no_current_file="True" lookup_key="cal.rptr.2d_13_399" id1="Dummy_File_70308" volume="13" start="305" page_number="399" standard_reporter="CAL.RPTR.2D" citation_global_level_id="134158.001" line="3" id="113039_14" citation_local_level_id="2" >13 Cal. Rptr. 2d 399</CITATION>
+
+<RELATION theme="113039_1" includes_docket_string="92-1803" includes_docket="113039_2" theme_string="510 U.S. 814" gram_type="apposition" relation_type="asymmetric" id="113039_12" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 814" X_vs_Y_string="California State Board of Equalization v. McDonnell Douglas Corp" standard_case="113039_1" X_vs_Y="113039_3" gram_type="pre_nom" relation_type="equivalence" id="113039_8" ></RELATION>
+
+<RELATION theme="113039_3" includes_docket_string="92-1803" includes_docket="113039_2" theme_string="California State Board of Equalization v. McDonnell Douglas Corp" gram_type="apposition" relation_type="asymmetric" id="113039_11" ></RELATION>
+
+<RELATION party2="113039_5" theme="113039_3" theme_string="California State Board of Equalization v. McDonnell Douglas Corp" party2_string="McDonnell Douglas Corp" gram_type="infix" relation_type="asymmetric" id="113039_10" ></RELATION>
+
+<RELATION theme="113039_3" party1="113039_4" party1_string="California State Board of Equalization" theme_string="California State Board of Equalization v. McDonnell Douglas Corp" gram_type="infix" relation_type="asymmetric" id="113039_9" ></RELATION>
+
+<RELATION at_date_string="1803" theme="113039_2" at_date="113039_6" theme_string="92-1803" gram_type="infix" relation_type="asymmetric" id="113039_13" ></RELATION>
+

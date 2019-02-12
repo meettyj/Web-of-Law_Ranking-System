@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['dunnsims#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1012" id1="115621" volume="510" start="0" page_number="1012" standard_reporter="U.S." citation_global_level_id="399.002" line="1" id="115619_1" citation_local_level_id="0" >510 U.S. 1012</CITATION>
+
+<CITATION party2="Sims" party1="Dunn" citation_global_level_id="35770.001" party2_short="Sims" line="1" id="115619_3" alternative_keys="['u.s._510_1012']" end="30" entry_type="party_key" lookup_key="dunnsims#1" id1="115619" start="18" party1_short="Dunn" citation_local_level_id="1" >Dunn v. Sims</CITATION>
+
+<NAME end="22" start="18" party1_of="115619_3" all_names="DUNN" local_name_id="1" id="115619_4" >Dunn</NAME>
+
+<NAME end="30" start="26" all_names="SIMS" party2_of="115619_3" local_name_id="2" id="115619_5" >Sims</NAME>
+
+<DOCKET end="46" entry_type="docket" lookup_key="u.s._510_1012" id1="115621" start="40" citation_global_level_id="399.002" line="1" id="115619_2" citation_local_level_id="0" >93-617</DOCKET>
+
+<DATE start="88" end="104" id="115619_6" >December 6, 1993</DATE>
+
+<NAME start="181" local_name_id="3" end="191" id="115619_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="230" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_627_380" id1="Dummy_File_87315" volume="627" start="216" page_number="380" standard_reporter="SO.2D" citation_global_level_id="151165.001" line="3" id="115619_12" citation_local_level_id="2" >627 So. 2d 380</CITATION>
+
+<RELATION theme="115619_1" includes_docket_string="93-617" includes_docket="115619_2" theme_string="510 U.S. 1012" gram_type="apposition" relation_type="asymmetric" id="115619_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1012" X_vs_Y_string="Dunn v. Sims" standard_case="115619_1" X_vs_Y="115619_3" gram_type="pre_nom" relation_type="equivalence" id="115619_7" ></RELATION>
+
+<RELATION theme="115619_3" includes_docket_string="93-617" includes_docket="115619_2" theme_string="Dunn v. Sims" gram_type="apposition" relation_type="asymmetric" id="115619_10" ></RELATION>
+
+<RELATION theme="115619_3" party1="115619_4" party1_string="Dunn" theme_string="Dunn v. Sims" gram_type="infix" relation_type="asymmetric" id="115619_8" ></RELATION>
+
+<RELATION party2="115619_5" theme="115619_3" theme_string="Dunn v. Sims" party2_string="Sims" gram_type="infix" relation_type="asymmetric" id="115619_9" ></RELATION>
+

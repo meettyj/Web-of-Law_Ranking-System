@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['gypsumgypsum#2', 'u.s._352_457']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._355_901" id1="105642" volume="355" start="0" page_number="901" standard_reporter="U.S." citation_global_level_id="41297.002" line="1" id="105642_1" citation_local_level_id="0" >355 U.S. 901</CITATION>
+
+<CITATION alternative_keys="['u.s._355_901', 'gypsumgypsum#2']" end="29" reporter="U.S." entry_type="standard_key" lookup_key="u.s._352_457" id1="105458" volume="352" start="17" page_number="457" standard_reporter="U.S." citation_global_level_id="8240.002" line="2" id="105642_2" citation_local_level_id="1" >352 U.S. 457</CITATION>
+
+<CITATION party2="NATIONAL GYPSUM CO. ET AL" party1="UNITED STATES GYPSUM CO." citation_global_level_id="41297.001" party2_short="GYPSUM" line="3" id="105642_3" alternative_keys="['u.s._355_901', 'u.s._352_457']" end="87" entry_type="party_key" lookup_key="gypsumgypsum#2" id1="105642" start="34" party1_short="GYPSUM" citation_local_level_id="2" >UNITED STATES GYPSUM CO. v. NATIONAL GYPSUM CO. ET AL</CITATION>
+
+<NAME end="58" start="34" party1_of="105642_3" all_names="UNITED STATES GYPSUM CO	NATIONAL GYPSUM CO" local_name_id="1" id="105642_4" >UNITED STATES GYPSUM CO.</NAME>
+
+<ORGANIZATION start="34" end="57" id="105642_6" >UNITED STATES GYPSUM CO</ORGANIZATION>
+
+<NAME end="87" start="62" all_names="UNITED STATES GYPSUM CO	NATIONAL GYPSUM CO" party2_of="105642_3" local_name_id="1" id="105642_5" >NATIONAL GYPSUM CO. ET AL</NAME>
+
+<ORGANIZATION start="106" end="136" id="105642_11" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="142" end="159" id="105642_12" >December 16, 1957</DATE>
+
+<LEGAL_ROLE start="195" end="204" id="105642_13" party="party1" >appellant</LEGAL_ROLE>
+
+<PROFESSION start="284" end="301" id="105642_14" >Solicitor General</PROFESSION>
+
+<ORGANIZATION start="346" end="351" id="105642_15" >court</ORGANIZATION>
+
+<RELATION theme="105642_3" party1="105642_4" party1_string="UNITED STATES GYPSUM CO." theme_string="UNITED STATES GYPSUM CO. v. NATIONAL GYPSUM CO. ET AL" gram_type="infix" relation_type="asymmetric" id="105642_7" ></RELATION>
+
+<RELATION party2="105642_5" theme="105642_3" theme_string="UNITED STATES GYPSUM CO. v. NATIONAL GYPSUM CO. ET AL" party2_string="NATIONAL GYPSUM CO. ET AL" gram_type="infix" relation_type="asymmetric" id="105642_8" ></RELATION>
+
+<RELATION standard_case_string="355 U.S. 901" X_vs_Y_string="UNITED STATES GYPSUM CO. v. NATIONAL GYPSUM CO. ET AL" standard_case="105642_1" X_vs_Y="105642_3" gram_type="multi_line" relation_type="equivalence" id="105642_9" ></RELATION>
+
+<RELATION standard_case_string="352 U.S. 457" X_vs_Y_string="UNITED STATES GYPSUM CO. v. NATIONAL GYPSUM CO. ET AL" standard_case="105642_2" X_vs_Y="105642_3" gram_type="multi_line" relation_type="equivalence" id="105642_10" ></RELATION>
+

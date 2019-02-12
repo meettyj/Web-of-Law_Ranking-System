@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['portera#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_938" id1="135002" volume="541" start="0" page_number="938" standard_reporter="U.S." citation_global_level_id="388.002" line="1" id="135003_1" citation_local_level_id="0" >541 U.S. 938</CITATION>
+
+<CITATION party2="BANKNORTH, N. A., ET AL" party1="PORTER ET UX." citation_global_level_id="388.007" party2_short="A" line="2" id="135003_2" alternative_keys="['u.s._541_938']" end="57" entry_type="party_key" lookup_key="portera#2" id1="135002" start="17" party1_short="PORTER" citation_local_level_id="1" >PORTER ET UX. v. BANKNORTH, N. A., ET AL</CITATION>
+
+<NAME end="30" start="17" party1_of="135003_2" all_names="PORTER UX" local_name_id="1" id="135003_3" >PORTER ET UX.</NAME>
+
+<NAME end="57" start="34" all_names="BANKNORTH N A" party2_of="135003_2" local_name_id="2" id="135003_4" >BANKNORTH, N. A., ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._541_938']" end="74" entry_type="docket" lookup_key="portera#2" id1="135002" start="67" citation_global_level_id="388.007" line="3" id="135003_7" citation_local_level_id="1" >03-1090</DOCKET>
+
+<ORGANIZATION start="80" end="110" id="135003_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="116" citation_global_level_id="388.007" end="130" id="135003_9" citation_local_level_id="1" >March 22, 2004</DATE>
+
+<NAME start="152" local_name_id="3" end="155" id="135003_14" all_names="APP" >App</NAME>
+
+<CITATION end="238" reporter="N. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.e.2d_795_614" id1="Dummy_File_194878" volume="795" start="222" page_number="614" standard_reporter="N.E.2D" citation_global_level_id="258728.001" line="8" id="135003_13" citation_local_level_id="2" >795 N. E. 2d 614</CITATION>
+
+<RELATION theme="135003_2" party1="135003_3" party1_string="PORTER ET UX." theme_string="PORTER ET UX. v. BANKNORTH, N. A., ET AL" gram_type="infix" relation_type="asymmetric" id="135003_5" ></RELATION>
+
+<RELATION party2="135003_4" theme="135003_2" theme_string="PORTER ET UX. v. BANKNORTH, N. A., ET AL" party2_string="BANKNORTH, N. A., ET AL" gram_type="infix" relation_type="asymmetric" id="135003_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 938" X_vs_Y_string="PORTER ET UX. v. BANKNORTH, N. A., ET AL" standard_case="135003_1" X_vs_Y="135003_2" gram_type="multi_line" relation_type="equivalence" id="135003_10" ></RELATION>
+
+<RELATION at_date_string="March 22, 2004" theme="135003_2" at_date="135003_9" theme_string="PORTER ET UX. v. BANKNORTH, N. A., ET AL" gram_type="multi_line" relation_type="asymmetric" id="135003_12" ></RELATION>
+
+<RELATION theme="135003_2" includes_docket_string="03-1090" includes_docket="135003_7" theme_string="PORTER ET UX. v. BANKNORTH, N. A., ET AL" gram_type="multi_line" relation_type="asymmetric" id="135003_11" ></RELATION>
+

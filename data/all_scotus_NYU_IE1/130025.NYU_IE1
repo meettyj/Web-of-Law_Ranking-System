@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['williamsflorida#9']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1062" id1="130017" volume="538" start="0" page_number="1062" standard_reporter="U.S." citation_global_level_id="5728.002" line="1" id="130025_1" citation_local_level_id="0" >538 U.S. 1062</CITATION>
+
+<CITATION party2="FLORIDA" party1="WILLIAMS" citation_global_level_id="52888.001" party2_short="FLORIDA" line="1" id="130025_3" alternative_keys="['u.s._538_1062']" end="37" entry_type="party_key" lookup_key="williamsflorida#9" id1="115439" start="18" party1_short="WILLIAMS" citation_local_level_id="1" >WILLIAMS v. FLORIDA</CITATION>
+
+<NAME end="26" start="18" party1_of="130025_3" all_names="WILLIAMS" local_name_id="1" id="130025_4" >WILLIAMS</NAME>
+
+<NAME end="37" start="30" all_names="FLORIDA" party2_of="130025_3" local_name_id="2" id="130025_5" >FLORIDA</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="u.s._538_1062" id1="130017" start="47" citation_global_level_id="5728.002" line="1" id="130025_2" citation_local_level_id="0" >02-9817</DOCKET>
+
+<DATE start="96" end="108" id="130025_6" >May 27, 2003</DATE>
+
+<NAME start="234" local_name_id="3" end="238" id="130025_13" all_names="DIST" >Dist</NAME>
+
+<CITATION end="314" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_838_1161" id1="Dummy_File_189892" volume="838" start="299" page_number="1161" standard_reporter="SO.2D" citation_global_level_id="253742.001" line="3" id="130025_12" citation_local_level_id="2" >838 So. 2d 1161</CITATION>
+
+<RELATION theme="130025_1" includes_docket_string="02-9817" includes_docket="130025_2" theme_string="538 U.S. 1062" gram_type="apposition" relation_type="asymmetric" id="130025_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1062" X_vs_Y_string="WILLIAMS v. FLORIDA" standard_case="130025_1" X_vs_Y="130025_3" gram_type="pre_nom" relation_type="equivalence" id="130025_7" ></RELATION>
+
+<RELATION theme="130025_3" includes_docket_string="02-9817" includes_docket="130025_2" theme_string="WILLIAMS v. FLORIDA" gram_type="apposition" relation_type="asymmetric" id="130025_10" ></RELATION>
+
+<RELATION theme="130025_3" party1="130025_4" party1_string="WILLIAMS" theme_string="WILLIAMS v. FLORIDA" gram_type="infix" relation_type="asymmetric" id="130025_8" ></RELATION>
+
+<RELATION party2="130025_5" theme="130025_3" theme_string="WILLIAMS v. FLORIDA" party2_string="FLORIDA" gram_type="infix" relation_type="asymmetric" id="130025_9" ></RELATION>
+

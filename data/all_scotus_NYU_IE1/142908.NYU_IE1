@@ -1,0 +1,48 @@
+<CITATION alternative_keys="['dukealabama#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_901" id1="142905" volume="544" start="0" page_number="901" standard_reporter="U.S." citation_global_level_id="1367.002" line="3" id="142908_2" citation_local_level_id="0" >544 U.S. 901</CITATION>
+
+<CITATION party2="ALABAMA" party1="DUKE" citation_global_level_id="3370.001" party2_short="ALABAMA" line="3" id="142908_4" alternative_keys="['u.s._544_901']" end="32" entry_type="party_key" lookup_key="dukealabama#1" id1="142908" start="17" party1_short="DUKE" citation_local_level_id="1" >DUKE v. ALABAMA</CITATION>
+
+<NAME end="21" start="17" party1_of="142908_4" all_names="DUKE" local_name_id="1" id="142908_5" >DUKE</NAME>
+
+<NAME end="32" start="25" all_names="ALABAMA" party2_of="142908_4" local_name_id="2" id="142908_6" >ALABAMA</NAME>
+
+<DOCKET end="49" entry_type="docket" lookup_key="u.s._544_901" id1="142905" start="42" citation_global_level_id="1367.002" line="3" id="142908_3" citation_local_level_id="0" >04-6155</DOCKET>
+
+<ORGANIZATION start="55" end="85" id="142908_12" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="91" citation_global_level_id="3370.001" end="104" id="142908_13" citation_local_level_id="1" >March 7, 2005</DATE>
+
+<NAME start="126" local_name_id="3" end="128" id="142908_21" all_names="CT" >Ct</NAME>
+
+<CITATION end="174" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_889_1" id1="Dummy_File_199505" volume="889" start="162" page_number="1" standard_reporter="SO.2D" citation_global_level_id="263355.001" line="8" id="142908_15" citation_local_level_id="2" >889 So. 2d 1</CITATION>
+
+<CITATION party2="Simmons" party1="Roper" citation_global_level_id="40778.001" party2_short="Simmons" line="8" id="142908_17" alternative_keys="['u.s._543_551']" end="361" entry_type="party_key" lookup_key="ropersimmons#3" id1="128182" start="345" party1_short="Roper" citation_local_level_id="3" >Roper v. Simmons</CITATION>
+
+<NAME end="350" start="345" party1_of="142908_17" all_names="ROPER" local_name_id="4" id="142908_18" >Roper</NAME>
+
+<NAME end="361" start="354" all_names="SIMMONS" party2_of="142908_17" local_name_id="5" id="142908_19" >Simmons</NAME>
+
+<CITATION alternative_keys="['ropersimmons#3']" end="382" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_551" id1="2959732" volume="543" start="363" page_number="551" year="2005" standard_reporter="U.S." citation_global_level_id="2148.003" line="8" id="142908_16" citation_local_level_id="4" >543 U.S. 551 (2005)</CITATION>
+
+<DATE start="377" citation_global_level_id="2148.003" end="381" id="142908_20" citation_local_level_id="4" >2005</DATE>
+
+<RELATION theme="142908_2" includes_docket_string="04-6155" includes_docket="142908_3" theme_string="544 U.S. 901" gram_type="apposition" relation_type="asymmetric" id="142908_11" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 901" X_vs_Y_string="DUKE v. ALABAMA" standard_case="142908_2" X_vs_Y="142908_4" gram_type="pre_nom" relation_type="equivalence" id="142908_7" ></RELATION>
+
+<RELATION theme="142908_4" includes_docket_string="04-6155" includes_docket="142908_3" theme_string="DUKE v. ALABAMA" gram_type="apposition" relation_type="asymmetric" id="142908_10" ></RELATION>
+
+<RELATION theme="142908_4" party1="142908_5" party1_string="DUKE" theme_string="DUKE v. ALABAMA" gram_type="infix" relation_type="asymmetric" id="142908_8" ></RELATION>
+
+<RELATION party2="142908_6" theme="142908_4" theme_string="DUKE v. ALABAMA" party2_string="ALABAMA" gram_type="infix" relation_type="asymmetric" id="142908_9" ></RELATION>
+
+<RELATION at_date_string="March 7, 2005" theme="142908_4" at_date="142908_13" theme_string="DUKE v. ALABAMA" gram_type="multi_line" relation_type="asymmetric" id="142908_14" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 551 (2005)" X_vs_Y_string="Roper v. Simmons" standard_case="142908_16" X_vs_Y="142908_17" gram_type="apposition" relation_type="equivalence" id="142908_24" ></RELATION>
+
+<RELATION theme="142908_17" party1="142908_18" party1_string="Roper" theme_string="Roper v. Simmons" gram_type="infix" relation_type="asymmetric" id="142908_22" ></RELATION>
+
+<RELATION party2="142908_19" theme="142908_17" theme_string="Roper v. Simmons" party2_string="Simmons" gram_type="infix" relation_type="asymmetric" id="142908_23" ></RELATION>
+
+<RELATION at_date_string="2005" theme="142908_16" at_date="142908_20" theme_string="543 U.S. 551 (2005)" gram_type="infix" relation_type="asymmetric" id="142908_25" ></RELATION>
+

@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['daviscox#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_919" id1="123788" volume="537" start="0" page_number="919" standard_reporter="U.S." citation_global_level_id="692.002" line="1" id="123793_1" citation_local_level_id="0" >537 U.S. 919</CITATION>
+
+<CITATION party2="COX ET AL" party1="DAVIS" citation_global_level_id="8467.001" party2_short="COX" line="1" id="123793_3" alternative_keys="['u.s._537_919']" end="35" entry_type="party_key" lookup_key="daviscox#1" id1="123793" start="17" party1_short="DAVIS" citation_local_level_id="1" >DAVIS v. COX ET AL</CITATION>
+
+<NAME end="22" start="17" party1_of="123793_3" all_names="DAVIS" local_name_id="1" id="123793_4" >DAVIS</NAME>
+
+<NAME end="35" start="26" all_names="COX" party2_of="123793_3" local_name_id="2" id="123793_5" >COX ET AL</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="u.s._537_919" id1="123788" start="45" citation_global_level_id="692.002" line="1" id="123793_2" citation_local_level_id="0" >02-5495</DOCKET>
+
+<DATE start="94" end="109" id="123793_6" >October 7, 2002</DATE>
+
+<NAME start="238" local_name_id="3" end="241" id="123793_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="123793_1" includes_docket_string="02-5495" includes_docket="123793_2" theme_string="537 U.S. 919" gram_type="apposition" relation_type="asymmetric" id="123793_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 919" X_vs_Y_string="DAVIS v. COX ET AL" standard_case="123793_1" X_vs_Y="123793_3" gram_type="pre_nom" relation_type="equivalence" id="123793_7" ></RELATION>
+
+<RELATION theme="123793_3" includes_docket_string="02-5495" includes_docket="123793_2" theme_string="DAVIS v. COX ET AL" gram_type="apposition" relation_type="asymmetric" id="123793_10" ></RELATION>
+
+<RELATION theme="123793_3" party1="123793_4" party1_string="DAVIS" theme_string="DAVIS v. COX ET AL" gram_type="infix" relation_type="asymmetric" id="123793_8" ></RELATION>
+
+<RELATION party2="123793_5" theme="123793_3" theme_string="DAVIS v. COX ET AL" party2_string="COX ET AL" gram_type="infix" relation_type="asymmetric" id="123793_9" ></RELATION>
+

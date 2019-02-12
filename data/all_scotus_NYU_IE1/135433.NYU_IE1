@@ -1,0 +1,36 @@
+<CITATION alternative_keys="['anthonyfavish#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_970" id1="135433" volume="541" start="0" page_number="970" standard_reporter="U.S." citation_global_level_id="4398.002" line="1" id="135433_1" citation_local_level_id="0" >541 U.S. 970</CITATION>
+
+<CITATION party2="FAVISH ET AL" party1="ANTHONY ET AL." citation_global_level_id="4398.001" party2_short="FAVISH" line="2" id="135433_2" alternative_keys="['u.s._541_970']" end="47" entry_type="party_key" lookup_key="anthonyfavish#1" id1="135433" start="17" party1_short="ANTHONY" citation_local_level_id="1" >ANTHONY ET AL. v. FAVISH ET AL</CITATION>
+
+<NAME end="31" start="17" party1_of="135433_2" all_names="ANTHONY" local_name_id="1" id="135433_3" >ANTHONY ET AL.</NAME>
+
+<NAME end="47" start="35" all_names="FAVISH" party2_of="135433_2" local_name_id="2" id="135433_4" >FAVISH ET AL</NAME>
+
+<DOCKET end="63" entry_type="docket" lookup_key="anthonyfavish#1" id1="135433" start="57" citation_global_level_id="4398.001" line="3" id="135433_7" citation_local_level_id="1" >02-599</DOCKET>
+
+<ORGANIZATION start="69" end="99" id="135433_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="105" citation_global_level_id="4398.001" end="118" id="135433_9" citation_local_level_id="1" >April 5, 2004</DATE>
+
+<NAME start="150" local_name_id="3" end="153" id="135433_16" all_names="CIR" >Cir</NAME>
+
+<CITATION party2="Favish" party1="National Archives and Records Admin." citation_global_level_id="416.001" party2_short="Favish" line="8" id="135433_13" end="242" entry_type="party_key" lookup_key="archivesfavish#1" id1="134730" start="196" party1_short="Archives" citation_local_level_id="2" >National Archives and Records Admin. v. Favish</CITATION>
+
+<NAME end="232" start="196" party1_of="135433_13" all_names="NATIONAL ARCHIVES AND RECORDS ADMIN" local_name_id="4" id="135433_14" >National Archives and Records Admin.</NAME>
+
+<NAME end="242" start="236" all_names="FAVISH" party2_of="135433_13" local_name_id="2" id="135433_15" >Favish</NAME>
+
+<RELATION theme="135433_2" party1="135433_3" party1_string="ANTHONY ET AL." theme_string="ANTHONY ET AL. v. FAVISH ET AL" gram_type="infix" relation_type="asymmetric" id="135433_5" ></RELATION>
+
+<RELATION party2="135433_4" theme="135433_2" theme_string="ANTHONY ET AL. v. FAVISH ET AL" party2_string="FAVISH ET AL" gram_type="infix" relation_type="asymmetric" id="135433_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 970" X_vs_Y_string="ANTHONY ET AL. v. FAVISH ET AL" standard_case="135433_1" X_vs_Y="135433_2" gram_type="multi_line" relation_type="equivalence" id="135433_10" ></RELATION>
+
+<RELATION at_date_string="April 5, 2004" theme="135433_2" at_date="135433_9" theme_string="ANTHONY ET AL. v. FAVISH ET AL" gram_type="multi_line" relation_type="asymmetric" id="135433_12" ></RELATION>
+
+<RELATION theme="135433_2" includes_docket_string="02-599" includes_docket="135433_7" theme_string="ANTHONY ET AL. v. FAVISH ET AL" gram_type="multi_line" relation_type="asymmetric" id="135433_11" ></RELATION>
+
+<RELATION theme="135433_13" party1="135433_14" party1_string="National Archives and Records Admin." theme_string="National Archives and Records Admin. v. Favish" gram_type="infix" relation_type="asymmetric" id="135433_17" ></RELATION>
+
+<RELATION party2="135433_15" theme="135433_13" theme_string="National Archives and Records Admin. v. Favish" party2_string="Favish" gram_type="infix" relation_type="asymmetric" id="135433_18" ></RELATION>
+

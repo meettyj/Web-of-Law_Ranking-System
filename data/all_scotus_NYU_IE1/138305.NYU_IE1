@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['archerdormire#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_843" id1="138309" volume="543" start="0" page_number="843" standard_reporter="U.S." citation_global_level_id="4754.002" line="1" id="138305_1" citation_local_level_id="0" >543 U.S. 843</CITATION>
+
+<CITATION party2="DORMIRE, SUPERINTENDENT, MISSOURI STATE PENITENTIARY" party1="ARCHER" citation_global_level_id="4754.008" party2_short="DORMIRE" line="2" id="138305_2" alternative_keys="['u.s._543_843']" end="79" entry_type="party_key" lookup_key="archerdormire#1" id1="138309" start="17" party1_short="ARCHER" citation_local_level_id="1" >ARCHER v. DORMIRE, SUPERINTENDENT, MISSOURI STATE PENITENTIARY</CITATION>
+
+<NAME end="23" start="17" party1_of="138305_2" all_names="ARCHER" local_name_id="1" id="138305_3" >ARCHER</NAME>
+
+<NAME end="79" start="27" all_names="DORMIRE SUPERINTENDENT MISSOURI STATE PENITENTIARY" party2_of="138305_2" local_name_id="2" id="138305_4" >DORMIRE, SUPERINTENDENT, MISSOURI STATE PENITENTIARY</NAME>
+
+<DOCKET alternative_keys="['u.s._543_843']" end="97" entry_type="docket" lookup_key="archerdormire#1" id1="138309" start="89" citation_global_level_id="4754.008" line="3" id="138305_7" citation_local_level_id="1" >03-10663</DOCKET>
+
+<ORGANIZATION start="103" end="133" id="138305_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="139" citation_global_level_id="4754.008" end="154" id="138305_9" citation_local_level_id="1" >October 4, 2004</DATE>
+
+<NAME start="186" local_name_id="3" end="189" id="138305_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="138305_2" party1="138305_3" party1_string="ARCHER" theme_string="ARCHER v. DORMIRE, SUPERINTENDENT, MISSOURI STATE PENITENTIARY" gram_type="infix" relation_type="asymmetric" id="138305_5" ></RELATION>
+
+<RELATION party2="138305_4" theme="138305_2" theme_string="ARCHER v. DORMIRE, SUPERINTENDENT, MISSOURI STATE PENITENTIARY" party2_string="DORMIRE, SUPERINTENDENT, MISSOURI STATE PENITENTIARY" gram_type="infix" relation_type="asymmetric" id="138305_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 843" X_vs_Y_string="ARCHER v. DORMIRE, SUPERINTENDENT, MISSOURI STATE PENITENTIARY" standard_case="138305_1" X_vs_Y="138305_2" gram_type="multi_line" relation_type="equivalence" id="138305_10" ></RELATION>
+
+<RELATION at_date_string="October 4, 2004" theme="138305_2" at_date="138305_9" theme_string="ARCHER v. DORMIRE, SUPERINTENDENT, MISSOURI STATE PENITENTIARY" gram_type="multi_line" relation_type="asymmetric" id="138305_12" ></RELATION>
+
+<RELATION theme="138305_2" includes_docket_string="03-10663" includes_docket="138305_7" theme_string="ARCHER v. DORMIRE, SUPERINTENDENT, MISSOURI STATE PENITENTIARY" gram_type="multi_line" relation_type="asymmetric" id="138305_11" ></RELATION>
+

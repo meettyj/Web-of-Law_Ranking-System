@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['childsalabama#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_816" id1="113070" volume="510" start="0" page_number="816" standard_reporter="U.S." citation_global_level_id="6696.002" line="1" id="113061_1" citation_local_level_id="0" >510 U.S. 816</CITATION>
+
+<CITATION party2="Alabama" party1="Childs" citation_global_level_id="45709.001" party2_short="Alabama" line="1" id="113061_3" alternative_keys="['u.s._510_816']" end="34" entry_type="party_key" lookup_key="childsalabama#1" id1="113061" start="17" party1_short="Childs" citation_local_level_id="1" >Childs v. Alabama</CITATION>
+
+<NAME end="23" start="17" party1_of="113061_3" all_names="CHILDS" local_name_id="1" id="113061_4" >Childs</NAME>
+
+<NAME end="34" start="27" all_names="ALABAMA" party2_of="113061_3" local_name_id="2" id="113061_5" >Alabama</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="u.s._510_816" id1="113070" start="44" citation_global_level_id="6696.002" line="1" id="113061_2" citation_local_level_id="0" >92-1850</DOCKET>
+
+<DATE start="47" end="51" id="113061_6" >1850</DATE>
+
+<DATE start="93" end="108" id="113061_7" >October 4, 1993</DATE>
+
+<NAME start="191" local_name_id="3" end="201" id="113061_15" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="241" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_614_1064" id1="Dummy_File_42523" volume="614" start="226" page_number="1064" standard_reporter="SO.2D" citation_global_level_id="106373.001" line="3" id="113061_14" citation_local_level_id="2" >614 So. 2d 1064</CITATION>
+
+<RELATION theme="113061_1" includes_docket_string="92-1850" includes_docket="113061_2" theme_string="510 U.S. 816" gram_type="apposition" relation_type="asymmetric" id="113061_12" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 816" X_vs_Y_string="Childs v. Alabama" standard_case="113061_1" X_vs_Y="113061_3" gram_type="pre_nom" relation_type="equivalence" id="113061_8" ></RELATION>
+
+<RELATION theme="113061_3" includes_docket_string="92-1850" includes_docket="113061_2" theme_string="Childs v. Alabama" gram_type="apposition" relation_type="asymmetric" id="113061_11" ></RELATION>
+
+<RELATION party2="113061_5" theme="113061_3" theme_string="Childs v. Alabama" party2_string="Alabama" gram_type="infix" relation_type="asymmetric" id="113061_10" ></RELATION>
+
+<RELATION theme="113061_3" party1="113061_4" party1_string="Childs" theme_string="Childs v. Alabama" gram_type="infix" relation_type="asymmetric" id="113061_9" ></RELATION>
+
+<RELATION at_date_string="1850" theme="113061_2" at_date="113061_6" theme_string="92-1850" gram_type="infix" relation_type="asymmetric" id="113061_13" ></RELATION>
+

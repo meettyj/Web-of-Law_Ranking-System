@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['rodriguezhfp#2']" end="20" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_903" id1="134784" volume="541" start="1" page_number="903" year="2004" standard_reporter="U.S." citation_global_level_id="759.002" line="2" id="134781_1" citation_local_level_id="0" >541 U.S. 903 (2004)</CITATION>
+
+<DATE start="15" citation_global_level_id="759.002" end="19" id="134781_2" citation_local_level_id="0" >2004</DATE>
+
+<CITATION party2="HFP, INC., ET AL" party1="RODRIGUEZ" citation_global_level_id="759.004" party2_short="HFP" line="5" id="134781_5" alternative_keys="['u.s._541_903']" end="52" entry_type="party_key" lookup_key="rodriguezhfp#2" id1="134784" start="21" party1_short="RODRIGUEZ" citation_local_level_id="1" >RODRIGUEZ v. HFP, INC., ET AL</CITATION>
+
+<NAME end="30" start="21" party1_of="134781_5" all_names="RODRIGUEZ" local_name_id="1" id="134781_6" >RODRIGUEZ</NAME>
+
+<NAME end="52" start="36" all_names="HFP INC" party2_of="134781_5" local_name_id="2" id="134781_7" >HFP, INC., ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._541_903']" end="64" entry_type="docket" lookup_key="rodriguezhfp#2" id1="134784" start="58" citation_global_level_id="759.004" line="6" id="134781_10" citation_local_level_id="1" >03-971</DOCKET>
+
+<ORGANIZATION start="66" end="96" id="134781_11" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="98" citation_global_level_id="759.004" end="111" id="134781_12" citation_local_level_id="1" >March 8, 2004</DATE>
+
+<NAME start="123" local_name_id="3" end="126" id="134781_13" all_names="CIR" >Cir</NAME>
+
+<RELATION at_date_string="2004" theme="134781_1" at_date="134781_2" theme_string="541 U.S. 903 (2004)" gram_type="infix" relation_type="asymmetric" id="134781_3" ></RELATION>
+
+<RELATION theme="134781_5" party1="134781_6" party1_string="RODRIGUEZ" theme_string="RODRIGUEZ  v.  HFP, INC., ET AL" gram_type="infix" relation_type="asymmetric" id="134781_8" ></RELATION>
+
+<RELATION party2="134781_7" theme="134781_5" theme_string="RODRIGUEZ  v.  HFP, INC., ET AL" party2_string="HFP, INC., ET AL" gram_type="infix" relation_type="asymmetric" id="134781_9" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 903 (2004)" X_vs_Y_string="RODRIGUEZ  v.  HFP, INC., ET AL" standard_case="134781_1" X_vs_Y="134781_5" gram_type="multi_line" relation_type="equivalence" id="134781_14" ></RELATION>
+
+<RELATION at_date_string="March 8, 2004" theme="134781_5" at_date="134781_12" theme_string="RODRIGUEZ  v.  HFP, INC., ET AL" gram_type="multi_line" relation_type="asymmetric" id="134781_16" ></RELATION>
+
+<RELATION theme="134781_5" includes_docket_string="03-971" includes_docket="134781_10" theme_string="RODRIGUEZ  v.  HFP, INC., ET AL" gram_type="multi_line" relation_type="asymmetric" id="134781_15" ></RELATION>
+

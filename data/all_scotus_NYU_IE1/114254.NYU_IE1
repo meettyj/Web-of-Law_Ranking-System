@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['ballcarr#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_904" id1="114262" volume="510" start="0" page_number="904" standard_reporter="U.S." citation_global_level_id="1947.002" line="1" id="114254_1" citation_local_level_id="0" >510 U.S. 904</CITATION>
+
+<CITATION party2="Carr" party1="Ball" citation_global_level_id="16517.001" party2_short="Carr" line="1" id="114254_3" alternative_keys="['u.s._510_904']" end="29" entry_type="party_key" lookup_key="ballcarr#1" id1="114254" start="17" party1_short="Ball" citation_local_level_id="1" >Ball v. Carr</CITATION>
+
+<NAME end="21" start="17" party1_of="114254_3" all_names="BALL" local_name_id="1" id="114254_4" >Ball</NAME>
+
+<NAME end="29" start="25" all_names="CARR" party2_of="114254_3" local_name_id="2" id="114254_5" >Carr</NAME>
+
+<DOCKET end="46" entry_type="docket" lookup_key="u.s._510_904" id1="114262" start="39" citation_global_level_id="1947.002" line="1" id="114254_2" citation_local_level_id="0" >93-5830</DOCKET>
+
+<DATE start="88" end="103" id="114254_6" >October 4, 1993</DATE>
+
+<NAME start="182" local_name_id="3" end="192" id="114254_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="230" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_995_236" id1="Dummy_File_14525" volume="995" start="217" page_number="236" standard_reporter="F.2D" citation_global_level_id="78375.001" line="3" id="114254_12" citation_local_level_id="2" >995 F. 2d 236</CITATION>
+
+<RELATION theme="114254_1" includes_docket_string="93-5830" includes_docket="114254_2" theme_string="510 U.S. 904" gram_type="apposition" relation_type="asymmetric" id="114254_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 904" X_vs_Y_string="Ball v. Carr" standard_case="114254_1" X_vs_Y="114254_3" gram_type="pre_nom" relation_type="equivalence" id="114254_7" ></RELATION>
+
+<RELATION theme="114254_3" includes_docket_string="93-5830" includes_docket="114254_2" theme_string="Ball v. Carr" gram_type="apposition" relation_type="asymmetric" id="114254_10" ></RELATION>
+
+<RELATION theme="114254_3" party1="114254_4" party1_string="Ball" theme_string="Ball v. Carr" gram_type="infix" relation_type="asymmetric" id="114254_8" ></RELATION>
+
+<RELATION party2="114254_5" theme="114254_3" theme_string="Ball v. Carr" party2_string="Carr" gram_type="infix" relation_type="asymmetric" id="114254_9" ></RELATION>
+

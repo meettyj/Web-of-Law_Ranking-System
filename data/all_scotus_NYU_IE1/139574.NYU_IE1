@@ -1,0 +1,36 @@
+<CITATION alternative_keys="['railroadbarber#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_940" id1="139575" volume="543" start="0" page_number="940" standard_reporter="U.S." citation_global_level_id="13602.002" line="3" id="139574_2" citation_local_level_id="0" >543 U.S. 940</CITATION>
+
+<CITATION party2="BARBER ET AL" party1="UNION PACIFIC RAILROAD CO." citation_global_level_id="35691.001" party2_short="BARBER" line="3" id="139574_4" alternative_keys="['u.s._543_940']" end="59" entry_type="party_key" lookup_key="railroadbarber#1" id1="139574" start="17" party1_short="RAILROAD" citation_local_level_id="1" >UNION PACIFIC RAILROAD CO. v. BARBER ET AL</CITATION>
+
+<NAME end="43" start="17" party1_of="139574_4" all_names="UNION PACIFIC RAILROAD CO" local_name_id="1" id="139574_5" >UNION PACIFIC RAILROAD CO.</NAME>
+
+<ORGANIZATION start="17" end="39" id="139574_7" >UNION PACIFIC RAILROAD</ORGANIZATION>
+
+<ORGANIZATION start="17" end="22" id="139574_8" >UNION</ORGANIZATION>
+
+<ORGANIZATION start="40" end="42" id="139574_9" >CO</ORGANIZATION>
+
+<NAME end="59" start="47" all_names="BARBER" party2_of="139574_4" local_name_id="2" id="139574_6" >BARBER ET AL</NAME>
+
+<DOCKET end="74" entry_type="docket" lookup_key="u.s._543_940" id1="139575" start="69" citation_global_level_id="13602.002" line="3" id="139574_3" citation_local_level_id="0" >04-47</DOCKET>
+
+<ORGANIZATION start="80" end="110" id="139574_15" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="116" citation_global_level_id="35691.001" end="132" id="139574_16" citation_local_level_id="1" >October 12, 2004</DATE>
+
+<NAME start="154" local_name_id="3" end="157" id="139574_19" all_names="SUP" >Sup</NAME>
+
+<CITATION end="334" reporter="S. W. 3d" entry_type="standard_key" no_current_file="True" lookup_key="s.w.3d_149_325" id1="Dummy_File_229267" volume="149" start="318" page_number="325" standard_reporter="S.W.3D" citation_global_level_id="293117.001" line="8" id="139574_18" citation_local_level_id="2" >149 S. W. 3d 325</CITATION>
+
+<RELATION theme="139574_2" includes_docket_string="04-47" includes_docket="139574_3" theme_string="543 U.S. 940" gram_type="apposition" relation_type="asymmetric" id="139574_14" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 940" X_vs_Y_string="UNION PACIFIC RAILROAD CO. v. BARBER ET AL" standard_case="139574_2" X_vs_Y="139574_4" gram_type="pre_nom" relation_type="equivalence" id="139574_10" ></RELATION>
+
+<RELATION theme="139574_4" includes_docket_string="04-47" includes_docket="139574_3" theme_string="UNION PACIFIC RAILROAD CO. v. BARBER ET AL" gram_type="apposition" relation_type="asymmetric" id="139574_13" ></RELATION>
+
+<RELATION theme="139574_4" party1="139574_5" party1_string="UNION PACIFIC RAILROAD CO." theme_string="UNION PACIFIC RAILROAD CO. v. BARBER ET AL" gram_type="infix" relation_type="asymmetric" id="139574_11" ></RELATION>
+
+<RELATION party2="139574_6" theme="139574_4" theme_string="UNION PACIFIC RAILROAD CO. v. BARBER ET AL" party2_string="BARBER ET AL" gram_type="infix" relation_type="asymmetric" id="139574_12" ></RELATION>
+
+<RELATION at_date_string="October 12, 2004" theme="139574_4" at_date="139574_16" theme_string="UNION PACIFIC RAILROAD CO. v. BARBER ET AL" gram_type="multi_line" relation_type="asymmetric" id="139574_17" ></RELATION>
+

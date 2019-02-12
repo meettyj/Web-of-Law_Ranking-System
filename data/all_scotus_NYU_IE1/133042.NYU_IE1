@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['agencycommission#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_946" id1="133042" volume="540" start="0" page_number="946" standard_reporter="U.S." citation_global_level_id="5648.002" line="1" id="133042_1" citation_local_level_id="0" >540 U.S. 946</CITATION>
+
+<CITATION party2="FEDERAL ENERGY REGULATORY COMMISSION" party1="FLORIDA MUNICIPAL POWER AGENCY" citation_global_level_id="5648.003" party2_short="COMMISSION" line="1" id="133042_3" alternative_keys="['u.s._540_946']" end="87" entry_type="party_key" lookup_key="agencycommission#1" id1="133042" start="17" party1_short="AGENCY" citation_local_level_id="1" >FLORIDA MUNICIPAL POWER AGENCY v. FEDERAL ENERGY REGULATORY COMMISSION</CITATION>
+
+<NAME end="47" start="17" party1_of="133042_3" all_names="FLORIDA MUNICIPAL POWER AGENCY" local_name_id="1" id="133042_4" >FLORIDA MUNICIPAL POWER AGENCY</NAME>
+
+<NAME end="87" start="51" all_names="FEDERAL ENERGY REGULATORY COMMISSION" party2_of="133042_3" local_name_id="2" id="133042_5" >FEDERAL ENERGY REGULATORY COMMISSION</NAME>
+
+<DOCKET end="102" entry_type="docket" lookup_key="u.s._540_946" id1="133042" start="97" citation_global_level_id="5648.002" line="1" id="133042_2" citation_local_level_id="0" >03-20</DOCKET>
+
+<DATE start="144" end="160" id="133042_6" >October 14, 2003</DATE>
+
+<NAME start="240" local_name_id="3" end="250" id="133042_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="288" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_315_362" id1="Dummy_File_610" volume="315" start="275" page_number="362" standard_reporter="F.3D" citation_global_level_id="64460.001" line="3" id="133042_12" citation_local_level_id="2" >315 F. 3d 362</CITATION>
+
+<RELATION theme="133042_1" includes_docket_string="03-20" includes_docket="133042_2" theme_string="540 U.S. 946" gram_type="apposition" relation_type="asymmetric" id="133042_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 946" X_vs_Y_string="FLORIDA MUNICIPAL POWER AGENCY v. FEDERAL ENERGY REGULATORY COMMISSION" standard_case="133042_1" X_vs_Y="133042_3" gram_type="pre_nom" relation_type="equivalence" id="133042_7" ></RELATION>
+
+<RELATION theme="133042_3" includes_docket_string="03-20" includes_docket="133042_2" theme_string="FLORIDA MUNICIPAL POWER AGENCY v. FEDERAL ENERGY REGULATORY COMMISSION" gram_type="apposition" relation_type="asymmetric" id="133042_10" ></RELATION>
+
+<RELATION theme="133042_3" party1="133042_4" party1_string="FLORIDA MUNICIPAL POWER AGENCY" theme_string="FLORIDA MUNICIPAL POWER AGENCY v. FEDERAL ENERGY REGULATORY COMMISSION" gram_type="infix" relation_type="asymmetric" id="133042_8" ></RELATION>
+
+<RELATION party2="133042_5" theme="133042_3" theme_string="FLORIDA MUNICIPAL POWER AGENCY v. FEDERAL ENERGY REGULATORY COMMISSION" party2_string="FEDERAL ENERGY REGULATORY COMMISSION" gram_type="infix" relation_type="asymmetric" id="133042_9" ></RELATION>
+

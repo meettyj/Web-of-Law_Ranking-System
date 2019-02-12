@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['polyakhulen#1', 'pieczenikdyax#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1033" id1="120083" volume="535" start="0" page_number="1033" standard_reporter="U.S." citation_global_level_id="571.002" line="1" id="120081_1" citation_local_level_id="0" >535 U.S. 1033</CITATION>
+
+<CITATION party2="DYAX CORP" party1="PIECZENIK" citation_global_level_id="24536.001" party2_short="DYAX" line="2" id="120081_2" alternative_keys="['u.s._535_1033', 'polyakhulen#1']" end="40" entry_type="party_key" lookup_key="pieczenikdyax#2" id1="120081" start="18" party1_short="PIECZENIK" citation_local_level_id="1" >PIECZENIK v. DYAX CORP</CITATION>
+
+<NAME end="27" start="18" party1_of="120081_2" all_names="PIECZENIK" local_name_id="1" id="120081_4" >PIECZENIK</NAME>
+
+<NAME end="40" start="31" all_names="DYAX CORP" party2_of="120081_2" local_name_id="2" id="120081_5" >DYAX CORP</NAME>
+
+<CITATION party2="HULEN ET AL" party1="POLYAK" citation_global_level_id="571.005" party2_short="HULEN" line="2" id="120081_3" alternative_keys="['pieczenikdyax#2', 'u.s._535_1033']" end="67" entry_type="party_key" lookup_key="polyakhulen#1" id1="120083" start="46" party1_short="POLYAK" citation_local_level_id="2" >POLYAK v. HULEN ET AL</CITATION>
+
+<NAME end="52" start="46" party1_of="120081_3" all_names="POLYAK" local_name_id="3" id="120081_6" >POLYAK</NAME>
+
+<NAME end="67" start="56" all_names="HULEN" party2_of="120081_3" local_name_id="4" id="120081_7" >HULEN ET AL</NAME>
+
+<DATE start="143" end="157" id="120081_14" >April 29, 2002</DATE>
+
+<NAME start="179" local_name_id="5" end="186" id="120081_15" all_names="MOTIONS" >Motions</NAME>
+
+<PROFESSION start="201" end="206" id="120081_16" >Clerk</PROFESSION>
+
+<RELATION theme="120081_2" party1="120081_4" party1_string="PIECZENIK" theme_string="PIECZENIK v. DYAX CORP" gram_type="infix" relation_type="asymmetric" id="120081_8" ></RELATION>
+
+<RELATION party2="120081_5" theme="120081_2" theme_string="PIECZENIK v. DYAX CORP" party2_string="DYAX CORP" gram_type="infix" relation_type="asymmetric" id="120081_9" ></RELATION>
+
+<RELATION theme="120081_3" party1="120081_6" party1_string="POLYAK" theme_string="POLYAK v. HULEN ET AL" gram_type="infix" relation_type="asymmetric" id="120081_10" ></RELATION>
+
+<RELATION party2="120081_7" theme="120081_3" theme_string="POLYAK v. HULEN ET AL" party2_string="HULEN ET AL" gram_type="infix" relation_type="asymmetric" id="120081_11" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1033" X_vs_Y_string="POLYAK v. HULEN ET AL" standard_case="120081_1" X_vs_Y="120081_3" gram_type="multi_line" relation_type="equivalence" id="120081_13" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1033" X_vs_Y_string="PIECZENIK v. DYAX CORP" standard_case="120081_1" X_vs_Y="120081_2" gram_type="multi_line" relation_type="equivalence" id="120081_12" ></RELATION>
+

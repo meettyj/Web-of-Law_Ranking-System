@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['jardinerecords#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_824" id1="131443" volume="540" start="0" page_number="824" standard_reporter="U.S." citation_global_level_id="4134.002" line="1" id="131440_1" citation_local_level_id="0" >540 U.S. 824</CITATION>
+
+<CITATION party2="BROTHER RECORDS, INC" party1="JARDINE" citation_global_level_id="12406.001" party2_short="RECORDS" line="1" id="131440_3" alternative_keys="['u.s._540_824']" end="48" entry_type="party_key" lookup_key="jardinerecords#1" id1="131440" start="17" party1_short="JARDINE" citation_local_level_id="1" >JARDINE v. BROTHER RECORDS, INC</CITATION>
+
+<NAME end="24" start="17" party1_of="131440_3" all_names="JARDINE" local_name_id="1" id="131440_4" >JARDINE</NAME>
+
+<NAME end="48" start="28" all_names="BROTHER RECORDS INC" party2_of="131440_3" local_name_id="2" id="131440_5" >BROTHER RECORDS, INC</NAME>
+
+<DOCKET end="65" entry_type="docket" lookup_key="u.s._540_824" id1="131443" start="58" citation_global_level_id="4134.002" line="1" id="131440_2" citation_local_level_id="0" >02-1833</DOCKET>
+
+<DATE start="61" end="65" id="131440_6" >1833</DATE>
+
+<DATE start="107" end="122" id="131440_7" >October 6, 2003</DATE>
+
+<NAME start="200" local_name_id="3" end="210" id="131440_15" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="248" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_318_900" id1="Dummy_File_5821" volume="318" start="235" page_number="900" standard_reporter="F.3D" citation_global_level_id="69671.001" line="3" id="131440_14" citation_local_level_id="2" >318 F. 3d 900</CITATION>
+
+<RELATION theme="131440_1" includes_docket_string="02-1833" includes_docket="131440_2" theme_string="540 U.S. 824" gram_type="apposition" relation_type="asymmetric" id="131440_12" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 824" X_vs_Y_string="JARDINE v. BROTHER RECORDS, INC" standard_case="131440_1" X_vs_Y="131440_3" gram_type="pre_nom" relation_type="equivalence" id="131440_8" ></RELATION>
+
+<RELATION theme="131440_3" includes_docket_string="02-1833" includes_docket="131440_2" theme_string="JARDINE v. BROTHER RECORDS, INC" gram_type="apposition" relation_type="asymmetric" id="131440_11" ></RELATION>
+
+<RELATION party2="131440_5" theme="131440_3" theme_string="JARDINE v. BROTHER RECORDS, INC" party2_string="BROTHER RECORDS, INC" gram_type="infix" relation_type="asymmetric" id="131440_10" ></RELATION>
+
+<RELATION theme="131440_3" party1="131440_4" party1_string="JARDINE" theme_string="JARDINE v. BROTHER RECORDS, INC" gram_type="infix" relation_type="asymmetric" id="131440_9" ></RELATION>
+
+<RELATION at_date_string="1833" theme="131440_2" at_date="131440_6" theme_string="02-1833" gram_type="infix" relation_type="asymmetric" id="131440_13" ></RELATION>
+

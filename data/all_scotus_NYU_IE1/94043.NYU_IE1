@@ -1,0 +1,58 @@
+<CITATION alternative_keys="['ironfinan#2', 's.ct._15_115', 'l.ed._39_194']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._155_385" id1="94043" volume="155" start="0" page_number="385" standard_reporter="U.S." citation_global_level_id="54063.002" line="1" id="94043_1" citation_local_level_id="0" >155 U.S. 385</CITATION>
+
+<CITATION alternative_keys="['u.s._155_385', 'ironfinan#2', 'l.ed._39_194']" end="30" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._15_115" id1="94043" volume="15" start="17" page_number="115" standard_reporter="S.CT." citation_global_level_id="54063.003" line="1" id="94043_2" citation_local_level_id="1" >15 S. Ct. 115</CITATION>
+
+<NAME start="20" local_name_id="1" end="25" id="94043_17" all_names="S CT" >S. Ct</NAME>
+
+<CITATION alternative_keys="['u.s._155_385', 's.ct._15_115', 'ironfinan#2']" end="48" reporter="L. Ed." entry_type="standard_key" lookup_key="l.ed._39_194" id1="94043" volume="39" start="35" page_number="194" standard_reporter="L.ED." citation_global_level_id="54063.004" line="1" id="94043_3" citation_local_level_id="2" >39 L. Ed. 194</CITATION>
+
+<CITATION party2="FINAN" party1="LAKE SUPERIOR SHIP CANAL, RAILWAY &amp; IRON CO." citation_global_level_id="54063.005" party2_short="FINAN" line="1" id="94043_4" alternative_keys="['s.ct._15_115', 'l.ed._39_194', 'u.s._155_385']" end="106" entry_type="party_key" lookup_key="ironfinan#2" id1="94043" start="53" party1_short="IRON" citation_local_level_id="3" >LAKE SUPERIOR SHIP CANAL, RAILWAY &amp; IRON CO. v. FINAN</CITATION>
+
+<NAME end="97" start="53" party1_of="94043_4" all_names="LAKE SUPERIOR SHIP CANAL RAILWAY &amp; IRON CO	IRON CO" local_name_id="2" id="94043_6" >LAKE SUPERIOR SHIP CANAL, RAILWAY &amp; IRON CO.</NAME>
+
+<ORGANIZATION start="79" end="96" id="94043_18" >RAILWAY &amp; IRON CO</ORGANIZATION>
+
+<NAME end="106" start="101" all_names="FINAN" party2_of="94043_4" local_name_id="3" id="94043_7" >FINAN</NAME>
+
+<DATE start="124" end="141" id="94043_10" >December 10, 1894</DATE>
+
+<CITATION party2="Cunningham" party1="Iron Co." citation_global_level_id="156847.001" party2_short="Cunningham" line="1" id="94043_5" end="259" no_current_file="True" entry_type="party_key" lookup_key="ironcunningham#2" id1="Dummy_File_92997" start="237" party1_short="Iron" citation_local_level_id="4" >Iron Co. v. Cunningham</CITATION>
+
+<NAME end="245" start="237" party1_of="94043_5" all_names="LAKE SUPERIOR SHIP CANAL RAILWAY &amp; IRON CO	IRON CO" local_name_id="2" id="94043_8" >Iron Co.</NAME>
+
+<NAME end="259" start="249" all_names="CUNNINGHAM" party2_of="94043_5" local_name_id="4" id="94043_9" >Cunningham</NAME>
+
+<DATE start="312" end="326" id="94043_11" >March 21, 1889</DATE>
+
+<DATE start="426" end="435" id="94043_12" >May, 1888</DATE>
+
+<DATE start="547" end="551" id="94043_13" >1856</DATE>
+
+<DATE start="599" end="603" id="94043_14" >1889</DATE>
+
+<DATE start="683" end="692" id="94043_15" >May, 1888</DATE>
+
+<DATE start="855" end="859" id="94043_16" >1889</DATE>
+
+<ORGANIZATION start="978" end="983" id="94043_27" >court</ORGANIZATION>
+
+<LEGAL_ROLE start="1076" end="1108" id="94043_28" >Mr. John F. Dillon for plaintiff</LEGAL_ROLE>
+
+<LEGAL_ROLE start="1144" end="1175" id="94043_29" >Mr. Don Dickinson for defendant</LEGAL_ROLE>
+
+<RELATION standard_case_string="155 U.S. 385" X_vs_Y_string="LAKE SUPERIOR SHIP CANAL, RAILWAY &amp; IRON CO. v. FINAN" standard_case="94043_1" X_vs_Y="94043_4" gram_type="pre_nom" relation_type="equivalence" id="94043_20" ></RELATION>
+
+<RELATION standard_case_string="15 S. Ct. 115" X_vs_Y_string="LAKE SUPERIOR SHIP CANAL, RAILWAY &amp; IRON CO. v. FINAN" standard_case="94043_2" X_vs_Y="94043_4" gram_type="pre_nom" relation_type="equivalence" id="94043_21" ></RELATION>
+
+<RELATION standard_case_string="39 L. Ed. 194" X_vs_Y_string="LAKE SUPERIOR SHIP CANAL, RAILWAY &amp; IRON CO. v. FINAN" standard_case="94043_3" X_vs_Y="94043_4" gram_type="pre_nom" relation_type="equivalence" id="94043_19" ></RELATION>
+
+<RELATION theme="94043_4" party1="94043_6" party1_string="LAKE SUPERIOR SHIP CANAL, RAILWAY &amp; IRON CO." theme_string="LAKE SUPERIOR SHIP CANAL, RAILWAY &amp; IRON CO. v. FINAN" gram_type="infix" relation_type="asymmetric" id="94043_22" ></RELATION>
+
+<RELATION party2="94043_7" theme="94043_4" theme_string="LAKE SUPERIOR SHIP CANAL, RAILWAY &amp; IRON CO. v. FINAN" party2_string="FINAN" gram_type="infix" relation_type="asymmetric" id="94043_23" ></RELATION>
+
+<RELATION at_date_string="December 10, 1894" theme="94043_5" at_date="94043_10" theme_string="Iron Co. v. Cunningham" gram_type="pre_nom" relation_type="asymmetric" id="94043_24" ></RELATION>
+
+<RELATION theme="94043_5" party1="94043_8" party1_string="Iron Co." theme_string="Iron Co. v. Cunningham" gram_type="infix" relation_type="asymmetric" id="94043_25" ></RELATION>
+
+<RELATION party2="94043_9" theme="94043_5" theme_string="Iron Co. v. Cunningham" party2_string="Cunningham" gram_type="infix" relation_type="asymmetric" id="94043_26" ></RELATION>
+

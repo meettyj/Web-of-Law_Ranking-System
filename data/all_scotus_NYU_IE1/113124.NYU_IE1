@@ -1,0 +1,38 @@
+<CITATION alternative_keys="['yeagercity#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_821" id1="113135" volume="510" start="0" page_number="821" standard_reporter="U.S." citation_global_level_id="11439.002" line="1" id="113124_1" citation_local_level_id="0" >510 U.S. 821</CITATION>
+
+<CITATION party2="City of McGregor, Texas, et al" party1="Yeager et al." citation_global_level_id="11439.007" party2_short="City" line="1" id="113124_3" alternative_keys="['u.s._510_821']" end="64" entry_type="party_key" lookup_key="yeagercity#2" id1="113135" start="17" party1_short="Yeager" citation_local_level_id="1" >Yeager et al. v. City of McGregor, Texas, et al</CITATION>
+
+<NAME end="30" start="17" party1_of="113124_3" all_names="YEAGER" local_name_id="1" id="113124_4" >Yeager et al.</NAME>
+
+<NAME start="17" local_name_id="1" end="23" id="113124_8" all_names="YEAGER" >Yeager</NAME>
+
+<NAME end="64" start="34" all_names="CITY OF MCGREGOR TEXAS" party2_of="113124_3" local_name_id="2" id="113124_5" >City of McGregor, Texas, et al</NAME>
+
+<DOCKET end="81" entry_type="docket" lookup_key="u.s._510_821" id1="113135" start="74" citation_global_level_id="11439.002" line="1" id="113124_2" citation_local_level_id="0" >92-1936</DOCKET>
+
+<DATE start="77" end="81" id="113124_6" >1936</DATE>
+
+<ORGANIZATION start="87" end="117" id="113124_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="123" end="138" id="113124_7" >October 4, 1993</DATE>
+
+<NAME start="160" local_name_id="3" end="177" id="113124_10" all_names="APPEAL FROM THE C" >Appeal from the C</NAME>
+
+<NAME start="186" local_name_id="4" end="189" id="113124_11" all_names="CIR" >Cir</NAME>
+
+<NAME start="216" local_name_id="5" end="226" id="113124_19" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="264" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_980_337" id1="Dummy_File_217522" volume="980" start="251" page_number="337" standard_reporter="F.2D" citation_global_level_id="281372.001" line="3" id="113124_18" citation_local_level_id="2" >980 F. 2d 337</CITATION>
+
+<RELATION theme="113124_1" includes_docket_string="92-1936" includes_docket="113124_2" theme_string="510 U.S. 821" gram_type="apposition" relation_type="asymmetric" id="113124_16" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 821" X_vs_Y_string="Yeager et al. v. City of McGregor, Texas, et al" standard_case="113124_1" X_vs_Y="113124_3" gram_type="pre_nom" relation_type="equivalence" id="113124_12" ></RELATION>
+
+<RELATION theme="113124_3" includes_docket_string="92-1936" includes_docket="113124_2" theme_string="Yeager et al. v. City of McGregor, Texas, et al" gram_type="apposition" relation_type="asymmetric" id="113124_15" ></RELATION>
+
+<RELATION theme="113124_3" party1="113124_4" party1_string="Yeager et al." theme_string="Yeager et al. v. City of McGregor, Texas, et al" gram_type="infix" relation_type="asymmetric" id="113124_13" ></RELATION>
+
+<RELATION party2="113124_5" theme="113124_3" theme_string="Yeager et al. v. City of McGregor, Texas, et al" party2_string="City of McGregor, Texas, et al" gram_type="infix" relation_type="asymmetric" id="113124_14" ></RELATION>
+
+<RELATION at_date_string="1936" theme="113124_2" at_date="113124_6" theme_string="92-1936" gram_type="infix" relation_type="asymmetric" id="113124_17" ></RELATION>
+

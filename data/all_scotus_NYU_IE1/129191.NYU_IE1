@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['pryorbradley#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_999" id1="129189" volume="538" start="0" page_number="999" standard_reporter="U.S." citation_global_level_id="1551.002" line="1" id="129191_1" citation_local_level_id="0" >538 U.S. 999</CITATION>
+
+<CITATION party2="BRADLEY" party1="PRYOR, ATTORNEY GENERAL OF ALABAMA, ET AL." citation_global_level_id="1551.008" party2_short="BRADLEY" line="1" id="129191_3" alternative_keys="['u.s._538_999']" end="70" entry_type="party_key" lookup_key="pryorbradley#1" id1="129189" start="17" party1_short="PRYOR" citation_local_level_id="1" >PRYOR, ATTORNEY GENERAL OF ALABAMA, ET AL. v. BRADLEY</CITATION>
+
+<NAME end="59" start="17" party1_of="129191_3" all_names="PRYOR ATTORNEY GENERAL OF ALABAMA" local_name_id="1" id="129191_4" >PRYOR, ATTORNEY GENERAL OF ALABAMA, ET AL.</NAME>
+
+<NAME start="17" local_name_id="2" end="22" id="129191_7" all_names="PRYOR" >PRYOR</NAME>
+
+<PROFESSION start="24" end="51" id="129191_8" >ATTORNEY GENERAL OF ALABAMA</PROFESSION>
+
+<NAME end="70" start="63" all_names="BRADLEY" party2_of="129191_3" local_name_id="3" id="129191_5" >BRADLEY</NAME>
+
+<DOCKET end="87" entry_type="docket" lookup_key="u.s._538_999" id1="129189" start="80" citation_global_level_id="1551.002" line="1" id="129191_2" citation_local_level_id="0" >02-1237</DOCKET>
+
+<DATE start="129" end="143" id="129191_6" >April 28, 2003</DATE>
+
+<NAME start="276" local_name_id="4" end="279" id="129191_15" all_names="CIR" >Cir</NAME>
+
+<CITATION alternative_keys="['bradleypryor#1']" end="330" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_305_1287" id1="Dummy_File_151737" volume="305" start="316" page_number="1287" standard_reporter="F.3D" citation_global_level_id="215587.003" line="3" id="129191_14" citation_local_level_id="2" >305 F. 3d 1287</CITATION>
+
+<RELATION theme="129191_1" includes_docket_string="02-1237" includes_docket="129191_2" theme_string="538 U.S. 999" gram_type="apposition" relation_type="asymmetric" id="129191_13" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 999" X_vs_Y_string="PRYOR, ATTORNEY GENERAL OF ALABAMA, ET AL. v. BRADLEY" standard_case="129191_1" X_vs_Y="129191_3" gram_type="pre_nom" relation_type="equivalence" id="129191_9" ></RELATION>
+
+<RELATION theme="129191_3" includes_docket_string="02-1237" includes_docket="129191_2" theme_string="PRYOR, ATTORNEY GENERAL OF ALABAMA, ET AL. v. BRADLEY" gram_type="apposition" relation_type="asymmetric" id="129191_12" ></RELATION>
+
+<RELATION theme="129191_3" party1="129191_4" party1_string="PRYOR, ATTORNEY GENERAL OF ALABAMA, ET AL." theme_string="PRYOR, ATTORNEY GENERAL OF ALABAMA, ET AL. v. BRADLEY" gram_type="infix" relation_type="asymmetric" id="129191_10" ></RELATION>
+
+<RELATION party2="129191_5" theme="129191_3" theme_string="PRYOR, ATTORNEY GENERAL OF ALABAMA, ET AL. v. BRADLEY" party2_string="BRADLEY" gram_type="infix" relation_type="asymmetric" id="129191_11" ></RELATION>
+

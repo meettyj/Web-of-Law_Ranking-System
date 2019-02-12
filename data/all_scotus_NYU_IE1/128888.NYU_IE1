@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['michiganjohnson#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_978" id1="128896" volume="538" start="0" page_number="978" standard_reporter="U.S." citation_global_level_id="8700.002" line="1" id="128888_1" citation_local_level_id="0" >538 U.S. 978</CITATION>
+
+<CITATION party2="JOHNSON" party1="MICHIGAN" citation_global_level_id="11135.001" party2_short="JOHNSON" line="1" id="128888_3" alternative_keys="['u.s._538_978']" end="36" entry_type="party_key" lookup_key="michiganjohnson#1" id1="128888" start="17" party1_short="MICHIGAN" citation_local_level_id="1" >MICHIGAN v. JOHNSON</CITATION>
+
+<NAME end="25" start="17" party1_of="128888_3" all_names="MICHIGAN" local_name_id="1" id="128888_4" >MICHIGAN</NAME>
+
+<NAME end="36" start="29" all_names="JOHNSON" party2_of="128888_3" local_name_id="2" id="128888_5" >JOHNSON</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="u.s._538_978" id1="128896" start="46" citation_global_level_id="8700.002" line="1" id="128888_2" citation_local_level_id="0" >02-1076</DOCKET>
+
+<DATE start="95" end="109" id="128888_6" >April 21, 2003</DATE>
+
+<NAME start="204" local_name_id="3" end="206" id="128888_12" all_names="CT" >Ct</NAME>
+
+<RELATION theme="128888_1" includes_docket_string="02-1076" includes_docket="128888_2" theme_string="538 U.S. 978" gram_type="apposition" relation_type="asymmetric" id="128888_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 978" X_vs_Y_string="MICHIGAN v. JOHNSON" standard_case="128888_1" X_vs_Y="128888_3" gram_type="pre_nom" relation_type="equivalence" id="128888_7" ></RELATION>
+
+<RELATION theme="128888_3" includes_docket_string="02-1076" includes_docket="128888_2" theme_string="MICHIGAN v. JOHNSON" gram_type="apposition" relation_type="asymmetric" id="128888_10" ></RELATION>
+
+<RELATION theme="128888_3" party1="128888_4" party1_string="MICHIGAN" theme_string="MICHIGAN v. JOHNSON" gram_type="infix" relation_type="asymmetric" id="128888_8" ></RELATION>
+
+<RELATION party2="128888_5" theme="128888_3" theme_string="MICHIGAN v. JOHNSON" party2_string="JOHNSON" gram_type="infix" relation_type="asymmetric" id="128888_9" ></RELATION>
+

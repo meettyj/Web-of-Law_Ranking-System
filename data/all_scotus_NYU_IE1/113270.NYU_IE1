@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['longflorida#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_832" id1="113269" volume="510" start="0" page_number="832" standard_reporter="U.S." citation_global_level_id="312.002" line="1" id="113270_1" citation_local_level_id="0" >510 U.S. 832</CITATION>
+
+<CITATION party2="Florida" party1="Long" citation_global_level_id="55106.001" party2_short="Florida" line="1" id="113270_3" alternative_keys="['u.s._510_832']" end="32" entry_type="party_key" lookup_key="longflorida#1" id1="113270" start="17" party1_short="Long" citation_local_level_id="1" >Long v. Florida</CITATION>
+
+<NAME end="21" start="17" party1_of="113270_3" all_names="LONG" local_name_id="1" id="113270_4" >Long</NAME>
+
+<NAME end="32" start="25" all_names="FLORIDA" party2_of="113270_3" local_name_id="2" id="113270_5" >Florida</NAME>
+
+<DOCKET end="49" entry_type="docket" lookup_key="u.s._510_832" id1="113269" start="42" citation_global_level_id="312.002" line="1" id="113270_2" citation_local_level_id="0" >92-8669</DOCKET>
+
+<DATE start="91" end="106" id="113270_6" >October 4, 1993</DATE>
+
+<NAME start="183" local_name_id="3" end="193" id="113270_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="233" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_610_1268" id1="Dummy_File_75110" volume="610" start="218" page_number="1268" standard_reporter="SO.2D" citation_global_level_id="138960.001" line="3" id="113270_12" citation_local_level_id="2" >610 So. 2d 1268</CITATION>
+
+<RELATION theme="113270_1" includes_docket_string="92-8669" includes_docket="113270_2" theme_string="510 U.S. 832" gram_type="apposition" relation_type="asymmetric" id="113270_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 832" X_vs_Y_string="Long v. Florida" standard_case="113270_1" X_vs_Y="113270_3" gram_type="pre_nom" relation_type="equivalence" id="113270_7" ></RELATION>
+
+<RELATION theme="113270_3" includes_docket_string="92-8669" includes_docket="113270_2" theme_string="Long v. Florida" gram_type="apposition" relation_type="asymmetric" id="113270_10" ></RELATION>
+
+<RELATION theme="113270_3" party1="113270_4" party1_string="Long" theme_string="Long v. Florida" gram_type="infix" relation_type="asymmetric" id="113270_8" ></RELATION>
+
+<RELATION party2="113270_5" theme="113270_3" theme_string="Long v. Florida" party2_string="Florida" gram_type="infix" relation_type="asymmetric" id="113270_9" ></RELATION>
+

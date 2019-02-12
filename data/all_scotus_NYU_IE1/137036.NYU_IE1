@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['ccommission#4']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._542_904" id1="137036" volume="542" start="0" page_number="904" standard_reporter="U.S." citation_global_level_id="1636.002" line="1" id="137036_1" citation_local_level_id="0" >542 U.S. 904</CITATION>
+
+<CITATION party2="FEDERAL TRADE COMMISSION" party1="LAKIN LAW FIRM, P. C." citation_global_level_id="1636.009" party2_short="COMMISSION" line="2" id="137036_2" alternative_keys="['u.s._542_904']" end="66" entry_type="party_key" lookup_key="ccommission#4" id1="137036" start="17" party1_short="C" citation_local_level_id="1" >LAKIN LAW FIRM, P. C. v. FEDERAL TRADE COMMISSION</CITATION>
+
+<NAME end="38" start="17" party1_of="137036_2" all_names="LAKIN LAW FIRM P C" local_name_id="1" id="137036_3" >LAKIN LAW FIRM, P. C.</NAME>
+
+<ORGANIZATION start="17" end="31" id="137036_5" >LAKIN LAW FIRM</ORGANIZATION>
+
+<NAME end="66" start="42" all_names="FEDERAL TRADE COMMISSION" party2_of="137036_2" local_name_id="2" id="137036_4" >FEDERAL TRADE COMMISSION</NAME>
+
+<DOCKET alternative_keys="['u.s._542_904']" end="83" entry_type="docket" lookup_key="ccommission#4" id1="137036" start="76" citation_global_level_id="1636.009" line="3" id="137036_8" citation_local_level_id="1" >03-1468</DOCKET>
+
+<ORGANIZATION start="89" end="119" id="137036_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="125" citation_global_level_id="1636.009" end="138" id="137036_10" citation_local_level_id="1" >June 14, 2004</DATE>
+
+<NAME start="170" local_name_id="3" end="173" id="137036_15" all_names="CIR" >Cir</NAME>
+
+<CITATION end="224" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_352_1122" id1="Dummy_File_236202" volume="352" start="210" page_number="1122" standard_reporter="F.3D" citation_global_level_id="300052.001" line="8" id="137036_14" citation_local_level_id="2" >352 F. 3d 1122</CITATION>
+
+<RELATION theme="137036_2" party1="137036_3" party1_string="LAKIN LAW FIRM, P. C." theme_string="LAKIN LAW FIRM, P. C. v. FEDERAL TRADE COMMISSION" gram_type="infix" relation_type="asymmetric" id="137036_6" ></RELATION>
+
+<RELATION party2="137036_4" theme="137036_2" theme_string="LAKIN LAW FIRM, P. C. v. FEDERAL TRADE COMMISSION" party2_string="FEDERAL TRADE COMMISSION" gram_type="infix" relation_type="asymmetric" id="137036_7" ></RELATION>
+
+<RELATION standard_case_string="542 U.S. 904" X_vs_Y_string="LAKIN LAW FIRM, P. C. v. FEDERAL TRADE COMMISSION" standard_case="137036_1" X_vs_Y="137036_2" gram_type="multi_line" relation_type="equivalence" id="137036_11" ></RELATION>
+
+<RELATION at_date_string="June 14, 2004" theme="137036_2" at_date="137036_10" theme_string="LAKIN LAW FIRM, P. C. v. FEDERAL TRADE COMMISSION" gram_type="multi_line" relation_type="asymmetric" id="137036_13" ></RELATION>
+
+<RELATION theme="137036_2" includes_docket_string="03-1468" includes_docket="137036_8" theme_string="LAKIN LAW FIRM, P. C. v. FEDERAL TRADE COMMISSION" gram_type="multi_line" relation_type="asymmetric" id="137036_12" ></RELATION>
+

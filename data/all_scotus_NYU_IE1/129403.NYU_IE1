@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['boldencalifornia#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1016" id1="129404" volume="538" start="0" page_number="1016" standard_reporter="U.S." citation_global_level_id="277.002" line="1" id="129403_1" citation_local_level_id="0" >538 U.S. 1016</CITATION>
+
+<CITATION party2="CALIFORNIA" party1="BOLDEN" citation_global_level_id="2314.001" party2_short="CALIFORNIA" line="1" id="129403_3" alternative_keys="['u.s._538_1016']" end="38" entry_type="party_key" lookup_key="boldencalifornia#1" id1="129403" start="18" party1_short="BOLDEN" citation_local_level_id="1" >BOLDEN v. CALIFORNIA</CITATION>
+
+<NAME end="24" start="18" party1_of="129403_3" all_names="BOLDEN" local_name_id="1" id="129403_4" >BOLDEN</NAME>
+
+<NAME end="38" start="28" all_names="CALIFORNIA" party2_of="129403_3" local_name_id="2" id="129403_5" >CALIFORNIA</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._538_1016" id1="129404" start="48" citation_global_level_id="277.002" line="1" id="129403_2" citation_local_level_id="0" >02-9370</DOCKET>
+
+<DATE start="97" end="108" id="129403_6" >May 5, 2003</DATE>
+
+<NAME start="202" local_name_id="3" end="205" id="129403_13" all_names="SUP" >Sup</NAME>
+
+<CITATION end="280" reporter="P. 3d" entry_type="standard_key" no_current_file="True" lookup_key="p.3d_58_931" id1="Dummy_File_217321" volume="58" start="268" page_number="931" standard_reporter="P.3D" citation_global_level_id="281171.001" line="3" id="129403_12" citation_local_level_id="2" >58 P. 3d 931</CITATION>
+
+<RELATION theme="129403_1" includes_docket_string="02-9370" includes_docket="129403_2" theme_string="538 U.S. 1016" gram_type="apposition" relation_type="asymmetric" id="129403_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1016" X_vs_Y_string="BOLDEN v. CALIFORNIA" standard_case="129403_1" X_vs_Y="129403_3" gram_type="pre_nom" relation_type="equivalence" id="129403_7" ></RELATION>
+
+<RELATION theme="129403_3" includes_docket_string="02-9370" includes_docket="129403_2" theme_string="BOLDEN v. CALIFORNIA" gram_type="apposition" relation_type="asymmetric" id="129403_10" ></RELATION>
+
+<RELATION theme="129403_3" party1="129403_4" party1_string="BOLDEN" theme_string="BOLDEN v. CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="129403_8" ></RELATION>
+
+<RELATION party2="129403_5" theme="129403_3" theme_string="BOLDEN v. CALIFORNIA" party2_string="CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="129403_9" ></RELATION>
+

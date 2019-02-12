@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['mcbroomgas#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._536_935" id1="121582" volume="536" start="0" page_number="935" standard_reporter="U.S." citation_global_level_id="4707.002" line="1" id="121577_1" citation_local_level_id="0" >536 U.S. 935</CITATION>
+
+<CITATION party2="COLUMBIA GAS OF OHIO, INC" party1="McBROOM" citation_global_level_id="48046.001" party2_short="GAS" line="2" id="121577_2" alternative_keys="['u.s._536_935']" end="53" entry_type="party_key" lookup_key="mcbroomgas#2" id1="121577" start="17" party1_short="McBROOM" citation_local_level_id="1" >McBROOM v. COLUMBIA GAS OF OHIO, INC</CITATION>
+
+<NAME end="24" start="17" party1_of="121577_2" all_names="MCBROOM" local_name_id="1" id="121577_3" >McBROOM</NAME>
+
+<NAME end="53" start="28" all_names="COLUMBIA GAS OF OHIO INC" party2_of="121577_2" local_name_id="2" id="121577_4" >COLUMBIA GAS OF OHIO, INC</NAME>
+
+<DOCKET end="70" entry_type="docket" lookup_key="mcbroomgas#2" id1="121577" start="63" citation_global_level_id="48046.001" line="3" id="121577_7" citation_local_level_id="1" >01-8415</DOCKET>
+
+<DATE start="116" citation_global_level_id="48046.001" end="129" id="121577_8" citation_local_level_id="1" >June 17, 2002</DATE>
+
+<CITATION end="165" reporter="U. S." entry_type="standard_key" lookup_key="u.s._535_1019" id1="119897" volume="535" start="151" page_number="1019" standard_reporter="U.S." citation_global_level_id="1429.002" line="8" id="121577_12" citation_local_level_id="2" >535 U. S. 1019</CITATION>
+
+<NAME start="167" local_name_id="3" end="176" id="121577_13" all_names="PETITIONS" >Petitions</NAME>
+
+<RELATION theme="121577_2" party1="121577_3" party1_string="McBROOM" theme_string="McBROOM v. COLUMBIA GAS OF OHIO, INC" gram_type="infix" relation_type="asymmetric" id="121577_5" ></RELATION>
+
+<RELATION party2="121577_4" theme="121577_2" theme_string="McBROOM v. COLUMBIA GAS OF OHIO, INC" party2_string="COLUMBIA GAS OF OHIO, INC" gram_type="infix" relation_type="asymmetric" id="121577_6" ></RELATION>
+
+<RELATION standard_case_string="536 U.S. 935" X_vs_Y_string="McBROOM v. COLUMBIA GAS OF OHIO, INC" standard_case="121577_1" X_vs_Y="121577_2" gram_type="multi_line" relation_type="equivalence" id="121577_9" ></RELATION>
+
+<RELATION at_date_string="June 17, 2002" theme="121577_2" at_date="121577_8" theme_string="McBROOM v. COLUMBIA GAS OF OHIO, INC" gram_type="multi_line" relation_type="asymmetric" id="121577_11" ></RELATION>
+
+<RELATION theme="121577_2" includes_docket_string="01-8415" includes_docket="121577_7" theme_string="McBROOM v. COLUMBIA GAS OF OHIO, INC" gram_type="multi_line" relation_type="asymmetric" id="121577_10" ></RELATION>
+

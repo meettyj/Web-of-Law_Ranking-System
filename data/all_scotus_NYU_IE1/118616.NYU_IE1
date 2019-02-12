@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['perezstates#9']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_910" id1="118614" volume="535" start="0" page_number="910" standard_reporter="U.S." citation_global_level_id="168.002" line="1" id="118616_1" citation_local_level_id="0" >535 U.S. 910</CITATION>
+
+<CITATION party2="UNITED STATES" party1="PEREZ" citation_global_level_id="10144.001" party2_short="STATES" line="2" id="118616_2" alternative_keys="['u.s._535_910']" end="39" entry_type="party_key" lookup_key="perezstates#9" id1="128349" start="17" party1_short="PEREZ" citation_local_level_id="1" >PEREZ v. UNITED STATES</CITATION>
+
+<NAME end="22" start="17" party1_of="118616_2" all_names="PEREZ" local_name_id="1" id="118616_3" >PEREZ</NAME>
+
+<NAME end="39" start="26" all_names="UNITED STATES" party2_of="118616_2" local_name_id="2" id="118616_4" >UNITED STATES</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="perezstates#9" id1="128349" start="49" citation_global_level_id="10144.001" line="3" id="118616_7" citation_local_level_id="1" >01-8047</DOCKET>
+
+<DATE start="102" citation_global_level_id="10144.001" end="115" id="118616_8" citation_local_level_id="1" >March 4, 2002</DATE>
+
+<NAME start="148" local_name_id="3" end="151" id="118616_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="202" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_240_1076" id1="Dummy_File_90949" volume="240" start="188" page_number="1076" standard_reporter="F.3D" citation_global_level_id="154799.001" line="8" id="118616_12" citation_local_level_id="2" >240 F. 3d 1076</CITATION>
+
+<RELATION theme="118616_2" party1="118616_3" party1_string="PEREZ" theme_string="PEREZ v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="118616_5" ></RELATION>
+
+<RELATION party2="118616_4" theme="118616_2" theme_string="PEREZ v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="118616_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 910" X_vs_Y_string="PEREZ v. UNITED STATES" standard_case="118616_1" X_vs_Y="118616_2" gram_type="multi_line" relation_type="equivalence" id="118616_9" ></RELATION>
+
+<RELATION at_date_string="March 4, 2002" theme="118616_2" at_date="118616_8" theme_string="PEREZ v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="118616_11" ></RELATION>
+
+<RELATION theme="118616_2" includes_docket_string="01-8047" includes_docket="118616_7" theme_string="PEREZ v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="118616_10" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['gricestates#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_950" id1="130767" volume="539" start="0" page_number="950" standard_reporter="U.S." citation_global_level_id="3847.002" line="1" id="130765_1" citation_local_level_id="0" >539 U.S. 950</CITATION>
+
+<CITATION party2="United States" party1="Grice" citation_global_level_id="12353.001" party2_short="States" line="1" id="130765_3" alternative_keys="['u.s._539_950']" end="39" entry_type="party_key" lookup_key="gricestates#2" id1="132901" start="17" party1_short="Grice" citation_local_level_id="1" >Grice v. United States</CITATION>
+
+<NAME end="22" start="17" party1_of="130765_3" all_names="GRICE" local_name_id="1" id="130765_4" >Grice</NAME>
+
+<NAME end="39" start="26" all_names="UNITED STATES" party2_of="130765_3" local_name_id="2" id="130765_5" >United States</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._539_950" id1="130767" start="49" citation_global_level_id="3847.002" line="1" id="130765_2" citation_local_level_id="0" >02-10701</DOCKET>
+
+<DATE start="99" end="112" id="130765_6" >June 23, 2003</DATE>
+
+<NAME start="190" local_name_id="3" end="200" id="130765_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="239" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_319_1174" id1="Dummy_File_237936" volume="319" start="225" page_number="1174" standard_reporter="F.3D" citation_global_level_id="301786.001" line="3" id="130765_12" citation_local_level_id="2" >319 F. 3d 1174</CITATION>
+
+<RELATION theme="130765_1" includes_docket_string="02-10701" includes_docket="130765_2" theme_string="539 U.S. 950" gram_type="apposition" relation_type="asymmetric" id="130765_11" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 950" X_vs_Y_string="Grice v. United States" standard_case="130765_1" X_vs_Y="130765_3" gram_type="pre_nom" relation_type="equivalence" id="130765_7" ></RELATION>
+
+<RELATION theme="130765_3" includes_docket_string="02-10701" includes_docket="130765_2" theme_string="Grice v. United States" gram_type="apposition" relation_type="asymmetric" id="130765_10" ></RELATION>
+
+<RELATION theme="130765_3" party1="130765_4" party1_string="Grice" theme_string="Grice v. United States" gram_type="infix" relation_type="asymmetric" id="130765_8" ></RELATION>
+
+<RELATION party2="130765_5" theme="130765_3" theme_string="Grice v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="130765_9" ></RELATION>
+

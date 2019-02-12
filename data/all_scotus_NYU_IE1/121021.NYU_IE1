@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['espinozastates#9']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1113" id1="121030" volume="535" start="0" page_number="1113" standard_reporter="U.S." citation_global_level_id="1103.002" line="1" id="121021_1" citation_local_level_id="0" >535 U.S. 1113</CITATION>
+
+<CITATION party2="UNITED STATES" party1="ESPINOZA" citation_global_level_id="29297.001" party2_short="STATES" line="2" id="121021_2" alternative_keys="['u.s._535_1113']" end="43" entry_type="party_key" lookup_key="espinozastates#9" id1="118611" start="18" party1_short="ESPINOZA" citation_local_level_id="1" >ESPINOZA v. UNITED STATES</CITATION>
+
+<NAME end="26" start="18" party1_of="121021_2" all_names="ESPINOZA" local_name_id="1" id="121021_3" >ESPINOZA</NAME>
+
+<NAME end="43" start="30" all_names="UNITED STATES" party2_of="121021_2" local_name_id="2" id="121021_4" >UNITED STATES</NAME>
+
+<DOCKET end="60" entry_type="docket" lookup_key="espinozastates#9" id1="118611" start="53" citation_global_level_id="29297.001" line="3" id="121021_7" citation_local_level_id="1" >01-8133</DOCKET>
+
+<DATE start="106" citation_global_level_id="29297.001" end="118" id="121021_8" citation_local_level_id="1" >June 3, 2002</DATE>
+
+<NAME start="151" local_name_id="3" end="154" id="121021_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="121021_2" party1="121021_3" party1_string="ESPINOZA" theme_string="ESPINOZA v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="121021_5" ></RELATION>
+
+<RELATION party2="121021_4" theme="121021_2" theme_string="ESPINOZA v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="121021_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1113" X_vs_Y_string="ESPINOZA v. UNITED STATES" standard_case="121021_1" X_vs_Y="121021_2" gram_type="multi_line" relation_type="equivalence" id="121021_9" ></RELATION>
+
+<RELATION at_date_string="June 3, 2002" theme="121021_2" at_date="121021_8" theme_string="ESPINOZA v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="121021_11" ></RELATION>
+
+<RELATION theme="121021_2" includes_docket_string="01-8133" includes_docket="121021_7" theme_string="ESPINOZA v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="121021_10" ></RELATION>
+

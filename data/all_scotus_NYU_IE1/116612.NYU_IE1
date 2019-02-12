@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['huntleyallen#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1096" id1="116613" volume="510" start="0" page_number="1096" standard_reporter="U.S." citation_global_level_id="7917.002" line="1" id="116612_1" citation_local_level_id="0" >510 U.S. 1096</CITATION>
+
+<CITATION party2="Allen et al" party1="Huntley" citation_global_level_id="22042.001" party2_short="Allen" line="1" id="116612_3" alternative_keys="['u.s._510_1096']" end="40" entry_type="party_key" lookup_key="huntleyallen#1" id1="116612" start="18" party1_short="Huntley" citation_local_level_id="1" >Huntley v. Allen et al</CITATION>
+
+<NAME end="25" start="18" party1_of="116612_3" all_names="HUNTLEY" local_name_id="1" id="116612_4" >Huntley</NAME>
+
+<NAME end="40" start="29" all_names="ALLEN" party2_of="116612_3" local_name_id="2" id="116612_5" >Allen et al</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._510_1096" id1="116613" start="50" citation_global_level_id="7917.002" line="1" id="116612_2" citation_local_level_id="0" >93-6850</DOCKET>
+
+<DATE start="99" end="115" id="116612_6" >January 24, 1994</DATE>
+
+<NAME start="193" local_name_id="3" end="203" id="116612_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="239" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_4_985" id1="Dummy_File_36515" volume="4" start="228" page_number="985" standard_reporter="F.3D" citation_global_level_id="100365.001" line="3" id="116612_12" citation_local_level_id="2" >4 F. 3d 985</CITATION>
+
+<RELATION theme="116612_1" includes_docket_string="93-6850" includes_docket="116612_2" theme_string="510 U.S. 1096" gram_type="apposition" relation_type="asymmetric" id="116612_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1096" X_vs_Y_string="Huntley v. Allen et al" standard_case="116612_1" X_vs_Y="116612_3" gram_type="pre_nom" relation_type="equivalence" id="116612_7" ></RELATION>
+
+<RELATION theme="116612_3" includes_docket_string="93-6850" includes_docket="116612_2" theme_string="Huntley v. Allen et al" gram_type="apposition" relation_type="asymmetric" id="116612_10" ></RELATION>
+
+<RELATION theme="116612_3" party1="116612_4" party1_string="Huntley" theme_string="Huntley v. Allen et al" gram_type="infix" relation_type="asymmetric" id="116612_8" ></RELATION>
+
+<RELATION party2="116612_5" theme="116612_3" theme_string="Huntley v. Allen et al" party2_string="Allen et al" gram_type="infix" relation_type="asymmetric" id="116612_9" ></RELATION>
+

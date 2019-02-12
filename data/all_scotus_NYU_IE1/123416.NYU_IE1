@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['simmonstowing#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_892" id1="123422" volume="537" start="0" page_number="892" standard_reporter="U.S." citation_global_level_id="2531.002" line="1" id="123416_1" citation_local_level_id="0" >537 U.S. 892</CITATION>
+
+<CITATION party2="TWIN CITY TOWING CO" party1="SIMMONS" citation_global_level_id="58318.001" party2_short="TOWING" line="1" id="123416_3" alternative_keys="['u.s._537_892']" end="47" entry_type="party_key" lookup_key="simmonstowing#2" id1="123416" start="17" party1_short="SIMMONS" citation_local_level_id="1" >SIMMONS v. TWIN CITY TOWING CO</CITATION>
+
+<NAME end="24" start="17" party1_of="123416_3" all_names="SIMMONS" local_name_id="1" id="123416_4" >SIMMONS</NAME>
+
+<NAME end="47" start="28" all_names="TWIN CITY TOWING CO" party2_of="123416_3" local_name_id="2" id="123416_5" >TWIN CITY TOWING CO</NAME>
+
+<DOCKET end="64" entry_type="docket" lookup_key="u.s._537_892" id1="123422" start="57" citation_global_level_id="2531.002" line="1" id="123416_2" citation_local_level_id="0" >02-5068</DOCKET>
+
+<DATE start="106" end="121" id="123416_6" >October 7, 2002</DATE>
+
+<NAME start="250" local_name_id="3" end="253" id="123416_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="303" reporter="F.3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_273_1101" id1="Dummy_File_33651" volume="273" start="290" page_number="1101" standard_reporter="F.3D" citation_global_level_id="97501.001" line="3" id="123416_12" citation_local_level_id="2" >273 F.3d 1101</CITATION>
+
+<RELATION theme="123416_1" includes_docket_string="02-5068" includes_docket="123416_2" theme_string="537 U.S. 892" gram_type="apposition" relation_type="asymmetric" id="123416_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 892" X_vs_Y_string="SIMMONS v. TWIN CITY TOWING CO" standard_case="123416_1" X_vs_Y="123416_3" gram_type="pre_nom" relation_type="equivalence" id="123416_7" ></RELATION>
+
+<RELATION theme="123416_3" includes_docket_string="02-5068" includes_docket="123416_2" theme_string="SIMMONS v. TWIN CITY TOWING CO" gram_type="apposition" relation_type="asymmetric" id="123416_10" ></RELATION>
+
+<RELATION theme="123416_3" party1="123416_4" party1_string="SIMMONS" theme_string="SIMMONS v. TWIN CITY TOWING CO" gram_type="infix" relation_type="asymmetric" id="123416_8" ></RELATION>
+
+<RELATION party2="123416_5" theme="123416_3" theme_string="SIMMONS v. TWIN CITY TOWING CO" party2_string="TWIN CITY TOWING CO" gram_type="infix" relation_type="asymmetric" id="123416_9" ></RELATION>
+

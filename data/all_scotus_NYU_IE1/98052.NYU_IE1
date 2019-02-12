@@ -1,0 +1,34 @@
+<CITATION alternative_keys="['companycompany#502', 's.ct._34_321', 'l.ed._58_466']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._231_750" id1="98052" volume="231" start="0" page_number="750" standard_reporter="U.S." citation_global_level_id="15520.002" line="1" id="98052_1" citation_local_level_id="0" >231 U.S. 750</CITATION>
+
+<CITATION alternative_keys="['u.s._231_750', 'companycompany#502', 'l.ed._58_466']" end="30" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._34_321" id1="98052" volume="34" start="17" page_number="321" standard_reporter="S.CT." citation_global_level_id="15520.003" line="1" id="98052_2" citation_local_level_id="1" >34 S. Ct. 321</CITATION>
+
+<NAME start="20" local_name_id="1" end="25" id="98052_9" all_names="S CT" >S. Ct</NAME>
+
+<CITATION alternative_keys="['u.s._231_750', 's.ct._34_321', 'companycompany#502']" end="48" reporter="L. Ed." entry_type="standard_key" lookup_key="l.ed._58_466" id1="98052" volume="58" start="35" page_number="466" standard_reporter="L.ED." citation_global_level_id="15520.004" line="1" id="98052_3" citation_local_level_id="2" >58 L. Ed. 466</CITATION>
+
+<CITATION party2="SOUTHERN TRANSPORTATION COMPANY" alternative_keys="['s.ct._34_321', 'l.ed._58_466', 'u.s._231_750']" party1="PHILADELPHIA, BALTIMORE, &amp; WASHINGTON RAILROAD  COMPANY," end="156" party1_short="COMPANY" entry_type="party_key" party1_role="petitioner" lookup_key="companycompany#502" id1="98052" start="53" citation_global_level_id="15520.005" party2_short="COMPANY" line="1" id="98052_4" citation_local_level_id="3" >PHILADELPHIA, BALTIMORE, &amp; WASHINGTON RAILROAD COMPANY, Petitioner, v. SOUTHERN TRANSPORTATION COMPANY</CITATION>
+
+<NAME end="109" start="53" party1_of="98052_4" all_names="PHILADELPHIA BALTIMORE &amp; WASHINGTON RAILROAD COMPANY" local_name_id="2" id="98052_5" >PHILADELPHIA, BALTIMORE, &amp; WASHINGTON RAILROAD COMPANY,</NAME>
+
+<ORGANIZATION start="80" end="108" id="98052_10" >WASHINGTON RAILROAD COMPANY</ORGANIZATION>
+
+<LEGAL_ROLE start="110" end="120" id="98052_7" >Petitioner</LEGAL_ROLE>
+
+<NAME end="156" start="125" all_names="SOUTHERN TRANSPORTATION COMPANY" party2_of="98052_4" local_name_id="3" id="98052_6" >SOUTHERN TRANSPORTATION COMPANY</NAME>
+
+<DATE start="214" end="230" id="98052_8" >October 27, 1913</DATE>
+
+<PROFESSION start="286" end="293" id="98052_16" >counsel</PROFESSION>
+
+<LEGAL_ROLE start="307" end="317" id="98052_17" >respondent</LEGAL_ROLE>
+
+<RELATION standard_case_string="231 U.S. 750" X_vs_Y_string="PHILADELPHIA, BALTIMORE, &amp; WASHINGTON RAILROAD  COMPANY, Petitioner, v. SOUTHERN TRANSPORTATION COMPANY" standard_case="98052_1" X_vs_Y="98052_4" gram_type="pre_nom" relation_type="equivalence" id="98052_12" ></RELATION>
+
+<RELATION standard_case_string="34 S. Ct. 321" X_vs_Y_string="PHILADELPHIA, BALTIMORE, &amp; WASHINGTON RAILROAD  COMPANY, Petitioner, v. SOUTHERN TRANSPORTATION COMPANY" standard_case="98052_2" X_vs_Y="98052_4" gram_type="pre_nom" relation_type="equivalence" id="98052_13" ></RELATION>
+
+<RELATION standard_case_string="58 L. Ed. 466" X_vs_Y_string="PHILADELPHIA, BALTIMORE, &amp; WASHINGTON RAILROAD  COMPANY, Petitioner, v. SOUTHERN TRANSPORTATION COMPANY" standard_case="98052_3" X_vs_Y="98052_4" gram_type="pre_nom" relation_type="equivalence" id="98052_11" ></RELATION>
+
+<RELATION theme="98052_4" party1="98052_5" party1_string="PHILADELPHIA, BALTIMORE, &amp; WASHINGTON RAILROAD  COMPANY," theme_string="PHILADELPHIA, BALTIMORE, &amp; WASHINGTON RAILROAD  COMPANY, Petitioner, v. SOUTHERN TRANSPORTATION COMPANY" gram_type="infix" relation_type="asymmetric" id="98052_14" ></RELATION>
+
+<RELATION party2="98052_6" theme="98052_4" theme_string="PHILADELPHIA, BALTIMORE, &amp; WASHINGTON RAILROAD  COMPANY, Petitioner, v. SOUTHERN TRANSPORTATION COMPANY" party2_string="SOUTHERN TRANSPORTATION COMPANY" gram_type="infix" relation_type="asymmetric" id="98052_15" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['ngumohaillinois#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1136" id1="117113" volume="510" start="0" page_number="1136" standard_reporter="U.S." citation_global_level_id="2497.002" line="1" id="117117_1" citation_local_level_id="0" >510 U.S. 1136</CITATION>
+
+<CITATION party2="Illinois" party1="Ngumoha" citation_global_level_id="34664.001" party2_short="Illinois" line="1" id="117117_3" alternative_keys="['u.s._510_1136']" end="37" entry_type="party_key" lookup_key="ngumohaillinois#1" id1="117117" start="18" party1_short="Ngumoha" citation_local_level_id="1" >Ngumoha v. Illinois</CITATION>
+
+<NAME end="25" start="18" party1_of="117117_3" all_names="NGUMOHA" local_name_id="1" id="117117_4" >Ngumoha</NAME>
+
+<NAME end="37" start="29" all_names="ILLINOIS" party2_of="117117_3" local_name_id="2" id="117117_5" >Illinois</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="u.s._510_1136" id1="117113" start="47" citation_global_level_id="2497.002" line="1" id="117117_2" citation_local_level_id="0" >93-7432</DOCKET>
+
+<DATE start="96" end="113" id="117117_6" >February 22, 1994</DATE>
+
+<NAME start="201" local_name_id="3" end="211" id="117117_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="276" reporter="N. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.e.2d_657_1214" id1="Dummy_File_154959" volume="657" start="259" page_number="1214" standard_reporter="N.E.2D" citation_global_level_id="218809.001" line="3" id="117117_12" citation_local_level_id="2" >657 N. E. 2d 1214</CITATION>
+
+<RELATION theme="117117_1" includes_docket_string="93-7432" includes_docket="117117_2" theme_string="510 U.S. 1136" gram_type="apposition" relation_type="asymmetric" id="117117_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1136" X_vs_Y_string="Ngumoha v. Illinois" standard_case="117117_1" X_vs_Y="117117_3" gram_type="pre_nom" relation_type="equivalence" id="117117_7" ></RELATION>
+
+<RELATION theme="117117_3" includes_docket_string="93-7432" includes_docket="117117_2" theme_string="Ngumoha v. Illinois" gram_type="apposition" relation_type="asymmetric" id="117117_10" ></RELATION>
+
+<RELATION theme="117117_3" party1="117117_4" party1_string="Ngumoha" theme_string="Ngumoha v. Illinois" gram_type="infix" relation_type="asymmetric" id="117117_8" ></RELATION>
+
+<RELATION party2="117117_5" theme="117117_3" theme_string="Ngumoha v. Illinois" party2_string="Illinois" gram_type="infix" relation_type="asymmetric" id="117117_9" ></RELATION>
+

@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['carterassociates#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_963" id1="143668" volume="544" start="0" page_number="963" standard_reporter="U.S." citation_global_level_id="7758.002" line="1" id="143663_1" citation_local_level_id="0" >544 U.S. 963</CITATION>
+
+<CITATION party2="MEADOWGREEN ASSOCIATES" party1="CARTER" citation_global_level_id="8275.001" party2_short="ASSOCIATES" line="2" id="143663_2" alternative_keys="['u.s._544_963']" end="49" entry_type="party_key" lookup_key="carterassociates#1" id1="143663" start="17" party1_short="CARTER" citation_local_level_id="1" >CARTER v. MEADOWGREEN ASSOCIATES</CITATION>
+
+<NAME end="23" start="17" party1_of="143663_2" all_names="CARTER" local_name_id="1" id="143663_3" >CARTER</NAME>
+
+<NAME end="49" start="27" all_names="MEADOWGREEN ASSOCIATES" party2_of="143663_2" local_name_id="2" id="143663_4" >MEADOWGREEN ASSOCIATES</NAME>
+
+<DOCKET end="66" entry_type="docket" lookup_key="carterassociates#1" id1="143663" start="59" citation_global_level_id="8275.001" line="3" id="143663_7" citation_local_level_id="1" >04-7928</DOCKET>
+
+<ORGANIZATION start="72" end="102" id="143663_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="108" citation_global_level_id="8275.001" end="121" id="143663_9" citation_local_level_id="1" >April 4, 2005</DATE>
+
+<NAME start="143" local_name_id="3" end="146" id="143663_15" all_names="SUP" >Sup</NAME>
+
+<CITATION end="202" reporter="Va." entry_type="standard_key" no_current_file="True" lookup_key="va._268_215" id1="Dummy_File_172130" volume="268" start="191" page_number="215" standard_reporter="VA." citation_global_level_id="235980.001" line="8" id="143663_13" citation_local_level_id="2" >268 Va. 215</CITATION>
+
+<CITATION end="219" reporter="S. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="s.e.2d_597_82" id1="Dummy_File_172131" volume="597" start="204" page_number="82" standard_reporter="S.E.2D" citation_global_level_id="235981.001" line="8" id="143663_14" citation_local_level_id="3" >597 S. E. 2d 82</CITATION>
+
+<RELATION theme="143663_2" party1="143663_3" party1_string="CARTER" theme_string="CARTER v. MEADOWGREEN ASSOCIATES" gram_type="infix" relation_type="asymmetric" id="143663_5" ></RELATION>
+
+<RELATION party2="143663_4" theme="143663_2" theme_string="CARTER v. MEADOWGREEN ASSOCIATES" party2_string="MEADOWGREEN ASSOCIATES" gram_type="infix" relation_type="asymmetric" id="143663_6" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 963" X_vs_Y_string="CARTER v. MEADOWGREEN ASSOCIATES" standard_case="143663_1" X_vs_Y="143663_2" gram_type="multi_line" relation_type="equivalence" id="143663_10" ></RELATION>
+
+<RELATION at_date_string="April 4, 2005" theme="143663_2" at_date="143663_9" theme_string="CARTER v. MEADOWGREEN ASSOCIATES" gram_type="multi_line" relation_type="asymmetric" id="143663_12" ></RELATION>
+
+<RELATION theme="143663_2" includes_docket_string="04-7928" includes_docket="143663_7" theme_string="CARTER v. MEADOWGREEN ASSOCIATES" gram_type="multi_line" relation_type="asymmetric" id="143663_11" ></RELATION>
+

@@ -1,0 +1,38 @@
+<CITATION alternative_keys="['statesadministrators#1']" end="19" reporter="U.S." entry_type="standard_key" lookup_key="u.s._30_131" id1="85720" volume="30" start="1" page_number="131" standard_reporter="U.S." citation_global_level_id="7482.002" line="2" id="85720_1" citation_local_level_id="0" >30 U.S. 131 (____)</CITATION>
+
+<NAME start="22" local_name_id="1" end="25" id="85720_2" all_names="PET" >Pet</NAME>
+
+<CITATION end="25" line="3" id="85720_3" alternative_keys="['u.s._32_453', 'ex parte martha bradstreet#1', 'u.s._33_588', 'ex parte tobias watkins#2', 'u.s._28_193', 'in the matter of duncan n hennen#1', 'u.s._38_230', 'ex parte myra clarke whitney#1', 'u.s._38_404', 'u.s._38_225', 'ex parte benjamin story#1', 'u.s._37_339', 'the state of rhode island#1', 'the state of massachusetts ads#1', 'u.s._37_755', 'ex parte george adshead#1', 'ex parte joseph roberts and#1', 'u.s._31_216', 'u.s._31_143', 'u.s._31_774', 'u.s._26_264', 'the port of new york#1', 'ex parte jesse hoyt collector of#1', 'u.s._38_279', 'u.s._27_566', 'u.s._34_711', 'ex parte anderson crenshaw#1', 'u.s._40_119', 'ex parte john l tillinghast esquire#1', 'u.s._29_108', 'u.s._39_540', 'in the matter of martha bradstreet demandant#1', 'u.s._32_634', 'ex parte nathaniel crane and samuel#1', 'jacksonkelly#1', 'u.s._30_190', 'u.s._33_306', 'u.s._33_291', 'ex parte john a davenport#1', 'u.s._31_661', 'u.s._32_568']" citation_global_level_id="3762.003" name="Pet" no_current_file="True" entry_type="case_key" lookup_key="pet#1" id1="85842" start="22" citation_local_level_id="1" >Pet</CITATION>
+
+<CITATION party2="THOMAS TINGEY'S ADMINISTRATORS" party1="THE UNITED STATES" citation_global_level_id="7482.001" party2_short="ADMINISTRATORS" line="6" id="85720_5" alternative_keys="['u.s._30_131']" end="85" entry_type="party_key" lookup_key="statesadministrators#1" id1="85720" start="31" party1_short="STATES" citation_local_level_id="2" >THE UNITED STATES vs. THOMAS TINGEY'S ADMINISTRATORS</CITATION>
+
+<NAME end="48" start="31" party1_of="85720_5" all_names="THE UNITED STATES" local_name_id="2" id="85720_6" >THE UNITED STATES</NAME>
+
+<NAME end="85" start="55" all_names="THOMAS TINGEY'S ADMINISTRATORS" party2_of="85720_5" local_name_id="3" id="85720_7" >THOMAS TINGEY'S ADMINISTRATORS</NAME>
+
+<ORGANIZATION start="87" end="117" id="85720_10" >Supreme Court of United States</ORGANIZATION>
+
+<NAME start="120" local_name_id="4" end="128" id="85720_13" all_names="MR SWANN" >Mr Swann</NAME>
+
+<LEGAL_ROLE start="133" end="158" id="85720_14" >counsel for the plaintiff</LEGAL_ROLE>
+
+<ORGANIZATION start="193" end="198" id="85720_15" >court</ORGANIZATION>
+
+<ORGANIZATION start="263" end="268" id="85720_16" >court</ORGANIZATION>
+
+<ORGANIZATION start="346" end="351" id="85720_17" >court</ORGANIZATION>
+
+<ORGANIZATION start="471" end="476" id="85720_18" >court</ORGANIZATION>
+
+<ORGANIZATION start="504" end="509" id="85720_19" >court</ORGANIZATION>
+
+<ORGANIZATION start="573" end="578" id="85720_20" >court</ORGANIZATION>
+
+<RELATION theme="85720_5" party1="85720_6" party1_string="THE UNITED STATES" theme_string="THE UNITED STATES  vs.  THOMAS TINGEY'S ADMINISTRATORS" gram_type="infix" relation_type="asymmetric" id="85720_8" ></RELATION>
+
+<RELATION party2="85720_7" theme="85720_5" theme_string="THE UNITED STATES  vs.  THOMAS TINGEY'S ADMINISTRATORS" party2_string="THOMAS TINGEY'S ADMINISTRATORS" gram_type="infix" relation_type="asymmetric" id="85720_9" ></RELATION>
+
+<RELATION standard_case_string="30 U.S. 131 (____)" X_vs_Y_string="THE UNITED STATES  vs.  THOMAS TINGEY'S ADMINISTRATORS" standard_case="85720_1" X_vs_Y="85720_5" gram_type="multi_line" relation_type="equivalence" id="85720_12" ></RELATION>
+
+<RELATION case_citation_other="85720_3" id="85720_11" X_vs_Y_string="THE UNITED STATES  vs.  THOMAS TINGEY'S ADMINISTRATORS" X_vs_Y="85720_5" gram_type="multi_line" relation_type="equivalence" case_citation_other_string="Pet" ></RELATION>
+

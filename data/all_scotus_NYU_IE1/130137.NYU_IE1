@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['wynnjenkins#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1069" id1="130123" volume="538" start="0" page_number="1069" standard_reporter="U.S." citation_global_level_id="449.002" line="1" id="130137_1" citation_local_level_id="0" >538 U.S. 1069</CITATION>
+
+<CITATION party2="JENKINS, CHAIRMAN, VIRGINIA PAROLE BOARD, ET AL" party1="WYNN" citation_global_level_id="449.004" party2_short="JENKINS" line="2" id="130137_2" alternative_keys="['u.s._538_1069']" end="73" entry_type="party_key" lookup_key="wynnjenkins#1" id1="130123" start="18" party1_short="WYNN" citation_local_level_id="1" >WYNN v. JENKINS, CHAIRMAN, VIRGINIA PAROLE BOARD, ET AL</CITATION>
+
+<NAME end="22" start="18" party1_of="130137_2" all_names="WYNN" local_name_id="1" id="130137_3" >WYNN</NAME>
+
+<NAME end="73" start="26" all_names="JENKINS CHAIRMAN VIRGINIA PAROLE BOARD" party2_of="130137_2" local_name_id="2" id="130137_4" >JENKINS, CHAIRMAN, VIRGINIA PAROLE BOARD, ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._538_1069']" end="105" entry_type="docket" lookup_key="wynnjenkins#1" id1="130123" start="98" citation_global_level_id="449.004" line="3" id="130137_7" citation_local_level_id="1" >02-9038</DOCKET>
+
+<ORGANIZATION start="111" end="141" id="130137_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="147" citation_global_level_id="449.004" end="159" id="130137_9" citation_local_level_id="1" >May 27, 2003</DATE>
+
+<NAME start="181" local_name_id="3" end="189" id="130137_13" all_names="PETITION" >Petition</NAME>
+
+<RELATION theme="130137_2" party1="130137_3" party1_string="WYNN" theme_string="WYNN v. JENKINS, CHAIRMAN, VIRGINIA PAROLE BOARD, ET AL" gram_type="infix" relation_type="asymmetric" id="130137_5" ></RELATION>
+
+<RELATION party2="130137_4" theme="130137_2" theme_string="WYNN v. JENKINS, CHAIRMAN, VIRGINIA PAROLE BOARD, ET AL" party2_string="JENKINS, CHAIRMAN, VIRGINIA PAROLE BOARD, ET AL" gram_type="infix" relation_type="asymmetric" id="130137_6" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1069" X_vs_Y_string="WYNN v. JENKINS, CHAIRMAN, VIRGINIA PAROLE BOARD, ET AL" standard_case="130137_1" X_vs_Y="130137_2" gram_type="multi_line" relation_type="equivalence" id="130137_10" ></RELATION>
+
+<RELATION at_date_string="May 27, 2003" theme="130137_2" at_date="130137_9" theme_string="WYNN v. JENKINS, CHAIRMAN, VIRGINIA PAROLE BOARD, ET AL" gram_type="multi_line" relation_type="asymmetric" id="130137_12" ></RELATION>
+
+<RELATION theme="130137_2" includes_docket_string="02-9038" includes_docket="130137_7" theme_string="WYNN v. JENKINS, CHAIRMAN, VIRGINIA PAROLE BOARD, ET AL" gram_type="multi_line" relation_type="asymmetric" id="130137_11" ></RELATION>
+

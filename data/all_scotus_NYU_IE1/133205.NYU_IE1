@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['carterohio#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_958" id1="133205" volume="540" start="0" page_number="958" standard_reporter="U.S." citation_global_level_id="1793.002" line="1" id="133205_1" citation_local_level_id="0" >540 U.S. 958</CITATION>
+
+<CITATION party2="OHIO" party1="CARTER" citation_global_level_id="1793.001" party2_short="OHIO" line="1" id="133205_3" alternative_keys="['u.s._540_958']" end="31" entry_type="party_key" lookup_key="carterohio#1" id1="133205" start="17" party1_short="CARTER" citation_local_level_id="1" >CARTER v. OHIO</CITATION>
+
+<NAME end="23" start="17" party1_of="133205_3" all_names="CARTER" local_name_id="1" id="133205_4" >CARTER</NAME>
+
+<NAME end="31" start="27" all_names="OHIO" party2_of="133205_3" local_name_id="2" id="133205_5" >OHIO</NAME>
+
+<DOCKET end="48" entry_type="docket" lookup_key="u.s._540_958" id1="133205" start="41" citation_global_level_id="1793.002" line="1" id="133205_2" citation_local_level_id="0" >03-5967</DOCKET>
+
+<DATE start="90" end="106" id="133205_6" >October 14, 2003</DATE>
+
+<NAME start="198" local_name_id="3" end="208" id="133205_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="133205_1" includes_docket_string="03-5967" includes_docket="133205_2" theme_string="540 U.S. 958" gram_type="apposition" relation_type="asymmetric" id="133205_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 958" X_vs_Y_string="CARTER v. OHIO" standard_case="133205_1" X_vs_Y="133205_3" gram_type="pre_nom" relation_type="equivalence" id="133205_7" ></RELATION>
+
+<RELATION theme="133205_3" includes_docket_string="03-5967" includes_docket="133205_2" theme_string="CARTER v. OHIO" gram_type="apposition" relation_type="asymmetric" id="133205_10" ></RELATION>
+
+<RELATION theme="133205_3" party1="133205_4" party1_string="CARTER" theme_string="CARTER v. OHIO" gram_type="infix" relation_type="asymmetric" id="133205_8" ></RELATION>
+
+<RELATION party2="133205_5" theme="133205_3" theme_string="CARTER v. OHIO" party2_string="OHIO" gram_type="infix" relation_type="asymmetric" id="133205_9" ></RELATION>
+

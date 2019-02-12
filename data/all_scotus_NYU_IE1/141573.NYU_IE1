@@ -1,0 +1,40 @@
+<CITATION alternative_keys="['hawkinsstates#9']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1097" id1="141576" volume="543" start="0" page_number="1097" standard_reporter="U.S." citation_global_level_id="595.002" line="1" id="141573_1" citation_local_level_id="0" >543 U.S. 1097</CITATION>
+
+<CITATION party2="UNITED STATES" party1="HAWKINS" citation_global_level_id="61273.001" party2_short="STATES" line="2" id="141573_2" alternative_keys="['u.s._543_1097']" end="42" entry_type="party_key" lookup_key="hawkinsstates#9" id1="144746" start="18" party1_short="HAWKINS" citation_local_level_id="1" >HAWKINS v. UNITED STATES</CITATION>
+
+<NAME end="25" start="18" party1_of="141573_2" all_names="HAWKINS" local_name_id="1" id="141573_3" >HAWKINS</NAME>
+
+<NAME end="42" start="29" all_names="UNITED STATES" party2_of="141573_2" local_name_id="2" id="141573_4" >UNITED STATES</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="hawkinsstates#9" id1="144746" start="52" citation_global_level_id="61273.001" line="3" id="141573_7" citation_local_level_id="1" >03-1326</DOCKET>
+
+<ORGANIZATION start="65" end="95" id="141573_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="101" citation_global_level_id="61273.001" end="117" id="141573_9" citation_local_level_id="1" >January 24, 2005</DATE>
+
+<NAME start="139" local_name_id="3" end="148" id="141573_16" all_names="PETITIONS" >Petitions</NAME>
+
+<NAME start="172" local_name_id="4" end="178" id="141573_17" all_names="ORDERS" >Orders</NAME>
+
+<NAME start="229" local_name_id="5" end="239" id="141573_18" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION party2="Booker" party1="United States" citation_global_level_id="57130.001" party2_short="Booker" line="8" id="141573_13" end="348" entry_type="party_key" lookup_key="statesbooker#4" id1="137703" start="325" party1_short="States" citation_local_level_id="2" >United States v. Booker</CITATION>
+
+<NAME end="338" start="325" party1_of="141573_13" all_names="UNITED STATES" local_name_id="2" id="141573_14" >United States</NAME>
+
+<NAME end="348" start="342" all_names="BOOKER" party2_of="141573_13" local_name_id="6" id="141573_15" >Booker</NAME>
+
+<RELATION theme="141573_2" party1="141573_3" party1_string="HAWKINS" theme_string="HAWKINS v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="141573_5" ></RELATION>
+
+<RELATION party2="141573_4" theme="141573_2" theme_string="HAWKINS v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="141573_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1097" X_vs_Y_string="HAWKINS v. UNITED STATES" standard_case="141573_1" X_vs_Y="141573_2" gram_type="multi_line" relation_type="equivalence" id="141573_10" ></RELATION>
+
+<RELATION at_date_string="January 24, 2005" theme="141573_2" at_date="141573_9" theme_string="HAWKINS v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="141573_12" ></RELATION>
+
+<RELATION theme="141573_2" includes_docket_string="03-1326" includes_docket="141573_7" theme_string="HAWKINS v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="141573_11" ></RELATION>
+
+<RELATION theme="141573_13" party1="141573_14" party1_string="United States" theme_string="United States v. Booker" gram_type="infix" relation_type="asymmetric" id="141573_19" ></RELATION>
+
+<RELATION party2="141573_15" theme="141573_13" theme_string="United States v. Booker" party2_string="Booker" gram_type="infix" relation_type="asymmetric" id="141573_20" ></RELATION>
+

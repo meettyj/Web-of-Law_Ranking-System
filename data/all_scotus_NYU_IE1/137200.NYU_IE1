@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['perrycity#3']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._542_916" id1="137194" volume="542" start="0" page_number="916" standard_reporter="U.S." citation_global_level_id="173.002" line="1" id="137200_1" citation_local_level_id="0" >542 U.S. 916</CITATION>
+
+<CITATION party2="CITY OF BIRMINGHAM, ALABAMA, ET AL" party1="PERRY" citation_global_level_id="2903.005" party2_short="CITY" line="1" id="137200_3" alternative_keys="['u.s._541_995']" end="60" entry_type="party_key" lookup_key="perrycity#3" id1="135750" start="17" party1_short="PERRY" citation_local_level_id="1" >PERRY v. CITY OF BIRMINGHAM, ALABAMA, ET AL</CITATION>
+
+<NAME end="22" start="17" party1_of="137200_3" all_names="PERRY" local_name_id="1" id="137200_4" >PERRY</NAME>
+
+<NAME end="60" start="26" all_names="CITY OF BIRMINGHAM ALABAMA" party2_of="137200_3" local_name_id="2" id="137200_5" >CITY OF BIRMINGHAM, ALABAMA, ET AL</NAME>
+
+<DOCKET end="77" entry_type="docket" lookup_key="u.s._542_916" id1="137194" start="70" citation_global_level_id="173.002" line="1" id="137200_2" citation_local_level_id="0" >03-8928</DOCKET>
+
+<DATE start="119" end="132" id="137200_6" >June 14, 2004</DATE>
+
+<CITATION end="240" reporter="U. S." entry_type="standard_key" lookup_key="u.s._541_995" id1="135750" volume="541" start="227" page_number="995" standard_reporter="U.S." citation_global_level_id="2903.002" line="3" id="137200_12" citation_local_level_id="2" >541 U. S. 995</CITATION>
+
+<RELATION theme="137200_1" includes_docket_string="03-8928" includes_docket="137200_2" theme_string="542 U.S. 916" gram_type="apposition" relation_type="asymmetric" id="137200_11" ></RELATION>
+
+<RELATION standard_case_string="542 U.S. 916" X_vs_Y_string="PERRY v. CITY OF BIRMINGHAM, ALABAMA, ET AL" standard_case="137200_1" X_vs_Y="137200_3" gram_type="pre_nom" relation_type="equivalence" id="137200_7" ></RELATION>
+
+<RELATION theme="137200_3" includes_docket_string="03-8928" includes_docket="137200_2" theme_string="PERRY v. CITY OF BIRMINGHAM, ALABAMA, ET AL" gram_type="apposition" relation_type="asymmetric" id="137200_10" ></RELATION>
+
+<RELATION theme="137200_3" party1="137200_4" party1_string="PERRY" theme_string="PERRY v. CITY OF BIRMINGHAM, ALABAMA, ET AL" gram_type="infix" relation_type="asymmetric" id="137200_8" ></RELATION>
+
+<RELATION party2="137200_5" theme="137200_3" theme_string="PERRY v. CITY OF BIRMINGHAM, ALABAMA, ET AL" party2_string="CITY OF BIRMINGHAM, ALABAMA, ET AL" gram_type="infix" relation_type="asymmetric" id="137200_9" ></RELATION>
+

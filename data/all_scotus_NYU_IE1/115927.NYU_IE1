@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['priceimmigration#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1040" id1="115928" volume="510" start="0" page_number="1040" standard_reporter="U.S." citation_global_level_id="1344.002" line="1" id="115927_1" citation_local_level_id="0" >510 U.S. 1040</CITATION>
+
+<CITATION party2="Immigration and Naturalization Service" party1="Price" citation_global_level_id="35611.001" party2_short="Immigration" line="1" id="115927_3" alternative_keys="['u.s._510_1040']" end="65" entry_type="party_key" lookup_key="priceimmigration#1" id1="115927" start="18" party1_short="Price" citation_local_level_id="1" >Price v. Immigration and Naturalization Service</CITATION>
+
+<NAME end="23" start="18" party1_of="115927_3" all_names="PRICE" local_name_id="1" id="115927_4" >Price</NAME>
+
+<NAME end="65" start="27" all_names="IMMIGRATION AND NATURALIZATION SERVICE" party2_of="115927_3" local_name_id="2" id="115927_5" >Immigration and Naturalization Service</NAME>
+
+<DOCKET end="81" entry_type="docket" lookup_key="u.s._510_1040" id1="115928" start="75" citation_global_level_id="1344.002" line="1" id="115927_2" citation_local_level_id="0" >93-380</DOCKET>
+
+<DATE start="123" end="139" id="115927_6" >January 10, 1994</DATE>
+
+<NAME start="217" local_name_id="3" end="227" id="115927_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="265" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_962_836" id1="Dummy_File_131508" volume="962" start="252" page_number="836" standard_reporter="F.2D" citation_global_level_id="195358.001" line="3" id="115927_12" citation_local_level_id="2" >962 F. 2d 836</CITATION>
+
+<RELATION theme="115927_1" includes_docket_string="93-380" includes_docket="115927_2" theme_string="510 U.S. 1040" gram_type="apposition" relation_type="asymmetric" id="115927_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1040" X_vs_Y_string="Price v. Immigration and Naturalization Service" standard_case="115927_1" X_vs_Y="115927_3" gram_type="pre_nom" relation_type="equivalence" id="115927_7" ></RELATION>
+
+<RELATION theme="115927_3" includes_docket_string="93-380" includes_docket="115927_2" theme_string="Price v. Immigration and Naturalization Service" gram_type="apposition" relation_type="asymmetric" id="115927_10" ></RELATION>
+
+<RELATION theme="115927_3" party1="115927_4" party1_string="Price" theme_string="Price v. Immigration and Naturalization Service" gram_type="infix" relation_type="asymmetric" id="115927_8" ></RELATION>
+
+<RELATION party2="115927_5" theme="115927_3" theme_string="Price v. Immigration and Naturalization Service" party2_string="Immigration and Naturalization Service" gram_type="infix" relation_type="asymmetric" id="115927_9" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['smedleycity#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_850" id1="122876" volume="537" start="0" page_number="850" standard_reporter="U.S." citation_global_level_id="2821.002" line="1" id="122884_1" citation_local_level_id="0" >537 U.S. 850</CITATION>
+
+<CITATION party2="CITY OF DOTHAN" party1="SMEDLEY" citation_global_level_id="31755.001" party2_short="CITY" line="1" id="122884_3" alternative_keys="['u.s._537_850']" end="42" entry_type="party_key" lookup_key="smedleycity#2" id1="122884" start="17" party1_short="SMEDLEY" citation_local_level_id="1" >SMEDLEY v. CITY OF DOTHAN</CITATION>
+
+<NAME end="24" start="17" party1_of="122884_3" all_names="SMEDLEY" local_name_id="1" id="122884_4" >SMEDLEY</NAME>
+
+<NAME end="42" start="28" all_names="CITY OF DOTHAN" party2_of="122884_3" local_name_id="2" id="122884_5" >CITY OF DOTHAN</NAME>
+
+<DOCKET end="60" entry_type="docket" lookup_key="u.s._537_850" id1="122876" start="52" citation_global_level_id="2821.002" line="1" id="122884_2" citation_local_level_id="0" >01-10570</DOCKET>
+
+<DATE start="102" end="117" id="122884_6" >October 7, 2002</DATE>
+
+<NAME start="208" local_name_id="3" end="211" id="122884_13" all_names="SUP" >Sup</NAME>
+
+<CITATION end="269" reporter="So.2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_852_206" id1="Dummy_File_67173" volume="852" start="256" page_number="206" standard_reporter="SO.2D" citation_global_level_id="131023.001" line="3" id="122884_12" citation_local_level_id="2" >852 So.2d 206</CITATION>
+
+<RELATION theme="122884_1" includes_docket_string="01-10570" includes_docket="122884_2" theme_string="537 U.S. 850" gram_type="apposition" relation_type="asymmetric" id="122884_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 850" X_vs_Y_string="SMEDLEY v. CITY OF DOTHAN" standard_case="122884_1" X_vs_Y="122884_3" gram_type="pre_nom" relation_type="equivalence" id="122884_7" ></RELATION>
+
+<RELATION theme="122884_3" includes_docket_string="01-10570" includes_docket="122884_2" theme_string="SMEDLEY v. CITY OF DOTHAN" gram_type="apposition" relation_type="asymmetric" id="122884_10" ></RELATION>
+
+<RELATION theme="122884_3" party1="122884_4" party1_string="SMEDLEY" theme_string="SMEDLEY v. CITY OF DOTHAN" gram_type="infix" relation_type="asymmetric" id="122884_8" ></RELATION>
+
+<RELATION party2="122884_5" theme="122884_3" theme_string="SMEDLEY v. CITY OF DOTHAN" party2_string="CITY OF DOTHAN" gram_type="infix" relation_type="asymmetric" id="122884_9" ></RELATION>
+

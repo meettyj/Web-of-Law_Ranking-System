@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['martinezkunimoto#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1180" id1="117448" volume="510" start="0" page_number="1180" standard_reporter="U.S." citation_global_level_id="2407.002" line="1" id="117455_1" citation_local_level_id="0" >510 U.S. 1180</CITATION>
+
+<CITATION party2="Kunimoto et al" party1="Martinez" citation_global_level_id="25101.001" party2_short="Kunimoto" line="1" id="117455_3" alternative_keys="['u.s._510_1180']" end="44" entry_type="party_key" lookup_key="martinezkunimoto#1" id1="117455" start="18" party1_short="Martinez" citation_local_level_id="1" >Martinez v. Kunimoto et al</CITATION>
+
+<NAME end="26" start="18" party1_of="117455_3" all_names="MARTINEZ" local_name_id="1" id="117455_4" >Martinez</NAME>
+
+<NAME end="44" start="30" all_names="KUNIMOTO" party2_of="117455_3" local_name_id="2" id="117455_5" >Kunimoto et al</NAME>
+
+<DOCKET end="61" entry_type="docket" lookup_key="u.s._510_1180" id1="117448" start="54" citation_global_level_id="2407.002" line="1" id="117455_2" citation_local_level_id="0" >93-7434</DOCKET>
+
+<DATE start="103" end="116" id="117455_6" >March 7, 1994</DATE>
+
+<NAME start="194" local_name_id="3" end="204" id="117455_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="242" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_993_883" id1="Dummy_File_17016" volume="993" start="229" page_number="883" standard_reporter="F.2D" citation_global_level_id="80866.001" line="3" id="117455_12" citation_local_level_id="2" >993 F. 2d 883</CITATION>
+
+<RELATION theme="117455_1" includes_docket_string="93-7434" includes_docket="117455_2" theme_string="510 U.S. 1180" gram_type="apposition" relation_type="asymmetric" id="117455_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1180" X_vs_Y_string="Martinez v. Kunimoto et al" standard_case="117455_1" X_vs_Y="117455_3" gram_type="pre_nom" relation_type="equivalence" id="117455_7" ></RELATION>
+
+<RELATION theme="117455_3" includes_docket_string="93-7434" includes_docket="117455_2" theme_string="Martinez v. Kunimoto et al" gram_type="apposition" relation_type="asymmetric" id="117455_10" ></RELATION>
+
+<RELATION theme="117455_3" party1="117455_4" party1_string="Martinez" theme_string="Martinez v. Kunimoto et al" gram_type="infix" relation_type="asymmetric" id="117455_8" ></RELATION>
+
+<RELATION party2="117455_5" theme="117455_3" theme_string="Martinez v. Kunimoto et al" party2_string="Kunimoto et al" gram_type="infix" relation_type="asymmetric" id="117455_9" ></RELATION>
+

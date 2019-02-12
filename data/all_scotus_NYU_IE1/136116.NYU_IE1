@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['chapmanranch#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_1030" id1="136118" volume="541" start="0" page_number="1030" standard_reporter="U.S." citation_global_level_id="5174.002" line="1" id="136116_1" citation_local_level_id="0" >541 U.S. 1030</CITATION>
+
+<CITATION party2="KING RANCH, INC., ET AL" party1="CHAPMAN ET AL." citation_global_level_id="5174.006" party2_short="RANCH" line="2" id="136116_2" alternative_keys="['u.s._541_1030']" end="59" entry_type="party_key" lookup_key="chapmanranch#2" id1="136118" start="18" party1_short="CHAPMAN" citation_local_level_id="1" >CHAPMAN ET AL. v. KING RANCH, INC., ET AL</CITATION>
+
+<NAME end="32" start="18" party1_of="136116_2" all_names="CHAPMAN" local_name_id="1" id="136116_3" >CHAPMAN ET AL.</NAME>
+
+<NAME end="59" start="36" all_names="KING RANCH INC" party2_of="136116_2" local_name_id="2" id="136116_4" >KING RANCH, INC., ET AL</NAME>
+
+<ORGANIZATION start="36" end="51" id="136116_5" >KING RANCH, INC</ORGANIZATION>
+
+<DOCKET alternative_keys="['u.s._541_1030']" end="76" entry_type="docket" lookup_key="chapmanranch#2" id1="136118" start="69" citation_global_level_id="5174.006" line="3" id="136116_8" citation_local_level_id="1" >03-1220</DOCKET>
+
+<ORGANIZATION start="82" end="112" id="136116_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="118" citation_global_level_id="5174.006" end="129" id="136116_10" citation_local_level_id="1" >May 3, 2004</DATE>
+
+<NAME start="151" local_name_id="3" end="154" id="136116_15" all_names="SUP" >Sup</NAME>
+
+<CITATION end="216" reporter="S. W. 3d" entry_type="standard_key" no_current_file="True" lookup_key="s.w.3d_118_742" id1="Dummy_File_164540" volume="118" start="200" page_number="742" standard_reporter="S.W.3D" citation_global_level_id="228390.001" line="8" id="136116_14" citation_local_level_id="2" >118 S. W. 3d 742</CITATION>
+
+<RELATION theme="136116_2" party1="136116_3" party1_string="CHAPMAN ET AL." theme_string="CHAPMAN ET AL. v. KING RANCH, INC., ET AL" gram_type="infix" relation_type="asymmetric" id="136116_6" ></RELATION>
+
+<RELATION party2="136116_4" theme="136116_2" theme_string="CHAPMAN ET AL. v. KING RANCH, INC., ET AL" party2_string="KING RANCH, INC., ET AL" gram_type="infix" relation_type="asymmetric" id="136116_7" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 1030" X_vs_Y_string="CHAPMAN ET AL. v. KING RANCH, INC., ET AL" standard_case="136116_1" X_vs_Y="136116_2" gram_type="multi_line" relation_type="equivalence" id="136116_11" ></RELATION>
+
+<RELATION at_date_string="May 3, 2004" theme="136116_2" at_date="136116_10" theme_string="CHAPMAN ET AL. v. KING RANCH, INC., ET AL" gram_type="multi_line" relation_type="asymmetric" id="136116_13" ></RELATION>
+
+<RELATION theme="136116_2" includes_docket_string="03-1220" includes_docket="136116_8" theme_string="CHAPMAN ET AL. v. KING RANCH, INC., ET AL" gram_type="multi_line" relation_type="asymmetric" id="136116_12" ></RELATION>
+

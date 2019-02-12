@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['hortastates#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_972" id1="139971" volume="543" start="0" page_number="972" standard_reporter="U.S." citation_global_level_id="2955.002" line="1" id="139969_1" citation_local_level_id="0" >543 U.S. 972</CITATION>
+
+<CITATION party2="UNITED STATES" party1="RODRIGUEZ-HORTA" citation_global_level_id="34883.001" party2_short="STATES" line="2" id="139969_2" alternative_keys="['u.s._543_972']" end="49" entry_type="party_key" lookup_key="hortastates#1" id1="139969" start="17" party1_short="HORTA" citation_local_level_id="1" >RODRIGUEZ-HORTA v. UNITED STATES</CITATION>
+
+<NAME end="32" start="17" party1_of="139969_2" all_names="RODRIGUEZ-HORTA" local_name_id="1" id="139969_3" >RODRIGUEZ-HORTA</NAME>
+
+<NAME end="49" start="36" all_names="UNITED STATES" party2_of="139969_2" local_name_id="2" id="139969_4" >UNITED STATES</NAME>
+
+<DOCKET end="66" entry_type="docket" lookup_key="hortastates#1" id1="139969" start="59" citation_global_level_id="34883.001" line="3" id="139969_7" citation_local_level_id="1" >04-6497</DOCKET>
+
+<ORGANIZATION start="72" end="102" id="139969_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="108" citation_global_level_id="34883.001" end="124" id="139969_9" citation_local_level_id="1" >November 1, 2004</DATE>
+
+<NAME start="156" local_name_id="3" end="159" id="139969_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="139969_2" party1="139969_3" party1_string="RODRIGUEZ-HORTA" theme_string="RODRIGUEZ-HORTA v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="139969_5" ></RELATION>
+
+<RELATION party2="139969_4" theme="139969_2" theme_string="RODRIGUEZ-HORTA v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="139969_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 972" X_vs_Y_string="RODRIGUEZ-HORTA v. UNITED STATES" standard_case="139969_1" X_vs_Y="139969_2" gram_type="multi_line" relation_type="equivalence" id="139969_10" ></RELATION>
+
+<RELATION at_date_string="November 1, 2004" theme="139969_2" at_date="139969_9" theme_string="RODRIGUEZ-HORTA v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="139969_12" ></RELATION>
+
+<RELATION theme="139969_2" includes_docket_string="04-6497" includes_docket="139969_7" theme_string="RODRIGUEZ-HORTA v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="139969_11" ></RELATION>
+

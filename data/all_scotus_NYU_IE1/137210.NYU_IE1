@@ -1,0 +1,42 @@
+<CITATION alternative_keys="['coalitionassn#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._542_917" id1="137207" volume="542" start="0" page_number="917" standard_reporter="U.S." citation_global_level_id="14410.002" line="1" id="137210_1" citation_local_level_id="0" >542 U.S. 917</CITATION>
+
+<CITATION party2="MONTANA WILDERNESS ASSN., INC., ET AL" party1="BLUE RIBBON COALITION, INC., ET AL." citation_global_level_id="14410.006" party2_short="ASSN" line="1" id="137210_3" alternative_keys="['u.s._542_917']" end="93" entry_type="party_key" lookup_key="coalitionassn#1" id1="137207" start="17" party1_short="COALITION" citation_local_level_id="1" >BLUE RIBBON COALITION, INC., ET AL. v. MONTANA WILDERNESS ASSN., INC., ET AL</CITATION>
+
+<NAME end="52" start="17" party1_of="137210_3" all_names="BLUE RIBBON COALITION INC" local_name_id="1" id="137210_5" >BLUE RIBBON COALITION, INC., ET AL.</NAME>
+
+<ORGANIZATION start="17" end="43" id="137210_10" >BLUE RIBBON COALITION, INC</ORGANIZATION>
+
+<NAME end="93" start="56" all_names="MONTANA WILDERNESS ASSN INC" party2_of="137210_3" local_name_id="2" id="137210_6" >MONTANA WILDERNESS ASSN., INC., ET AL</NAME>
+
+<ORGANIZATION start="82" end="85" id="137210_11" >INC</ORGANIZATION>
+
+<DOCKET end="109" entry_type="docket" lookup_key="u.s._542_917" id1="137207" start="103" citation_global_level_id="14410.002" line="1" id="137210_2" citation_local_level_id="0" >03-123</DOCKET>
+
+<ORGANIZATION start="115" end="145" id="137210_12" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="151" end="164" id="137210_9" >June 21, 2004</DATE>
+
+<NAME start="196" local_name_id="3" end="199" id="137210_13" all_names="CIR" >Cir</NAME>
+
+<CITATION party2="Southern Utah Wilderness Alliance" party1="Norton" citation_global_level_id="17311.001" party2_short="Alliance" line="1" id="137210_4" end="339" entry_type="party_key" lookup_key="nortonalliance#1" id1="136985" start="296" party1_short="Norton" citation_local_level_id="2" >Norton v. Southern Utah Wilderness Alliance</CITATION>
+
+<NAME end="302" start="296" party1_of="137210_4" all_names="NORTON" local_name_id="4" id="137210_7" >Norton</NAME>
+
+<NAME end="339" start="306" all_names="SOUTHERN UTAH WILDERNESS ALLIANCE" party2_of="137210_4" local_name_id="5" id="137210_8" >Southern Utah Wilderness Alliance</NAME>
+
+<CITATION end="409" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_314_1146" id1="Dummy_File_217306" volume="314" start="395" page_number="1146" standard_reporter="F.3D" citation_global_level_id="281156.001" line="3" id="137210_21" citation_local_level_id="3" >314 F. 3d 1146</CITATION>
+
+<RELATION theme="137210_1" includes_docket_string="03-123" includes_docket="137210_2" theme_string="542 U.S. 917" gram_type="apposition" relation_type="asymmetric" id="137210_18" ></RELATION>
+
+<RELATION standard_case_string="542 U.S. 917" X_vs_Y_string="BLUE RIBBON COALITION, INC., ET AL. v. MONTANA WILDERNESS ASSN., INC., ET AL" standard_case="137210_1" X_vs_Y="137210_3" gram_type="pre_nom" relation_type="equivalence" id="137210_14" ></RELATION>
+
+<RELATION theme="137210_3" includes_docket_string="03-123" includes_docket="137210_2" theme_string="BLUE RIBBON COALITION, INC., ET AL. v. MONTANA WILDERNESS ASSN., INC., ET AL" gram_type="apposition" relation_type="asymmetric" id="137210_17" ></RELATION>
+
+<RELATION theme="137210_3" party1="137210_5" party1_string="BLUE RIBBON COALITION, INC., ET AL." theme_string="BLUE RIBBON COALITION, INC., ET AL. v. MONTANA WILDERNESS ASSN., INC., ET AL" gram_type="infix" relation_type="asymmetric" id="137210_15" ></RELATION>
+
+<RELATION party2="137210_6" theme="137210_3" theme_string="BLUE RIBBON COALITION, INC., ET AL. v. MONTANA WILDERNESS ASSN., INC., ET AL" party2_string="MONTANA WILDERNESS ASSN., INC., ET AL" gram_type="infix" relation_type="asymmetric" id="137210_16" ></RELATION>
+
+<RELATION theme="137210_4" party1="137210_7" party1_string="Norton" theme_string="Norton v. Southern Utah Wilderness Alliance" gram_type="infix" relation_type="asymmetric" id="137210_19" ></RELATION>
+
+<RELATION party2="137210_8" theme="137210_4" theme_string="Norton v. Southern Utah Wilderness Alliance" party2_string="Southern Utah Wilderness Alliance" gram_type="infix" relation_type="asymmetric" id="137210_20" ></RELATION>
+

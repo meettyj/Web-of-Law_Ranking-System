@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['steinesservice#3']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1185" id1="117521" volume="510" start="0" page_number="1185" standard_reporter="U.S." citation_global_level_id="3735.002" line="1" id="117524_1" citation_local_level_id="0" >510 U.S. 1185</CITATION>
+
+<CITATION party2="Internal Revenue Service" party1="Steines et ux." citation_global_level_id="60819.001" party2_short="Service" line="2" id="117524_2" alternative_keys="['u.s._510_1185']" end="60" entry_type="party_key" lookup_key="steinesservice#3" id1="116046" start="18" party1_short="Steines" citation_local_level_id="1" >Steines et ux. v. Internal Revenue Service</CITATION>
+
+<NAME end="32" start="18" party1_of="117524_2" all_names="STEINES UX" local_name_id="1" id="117524_3" >Steines et ux.</NAME>
+
+<NAME end="60" start="36" all_names="INTERNAL REVENUE SERVICE" party2_of="117524_2" local_name_id="2" id="117524_4" >Internal Revenue Service</NAME>
+
+<DOCKET end="96" entry_type="docket" lookup_key="steinesservice#3" id1="116046" start="89" citation_global_level_id="60819.001" line="3" id="117524_7" citation_local_level_id="1" >93-6255</DOCKET>
+
+<ORGANIZATION start="102" end="132" id="117524_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="138" citation_global_level_id="60819.001" end="151" id="117524_9" citation_local_level_id="1" >March 7, 1994</DATE>
+
+<NAME start="173" local_name_id="3" end="181" id="117524_13" all_names="PETITION" >Petition</NAME>
+
+<RELATION theme="117524_2" party1="117524_3" party1_string="Steines et ux." theme_string="Steines et ux. v. Internal Revenue Service" gram_type="infix" relation_type="asymmetric" id="117524_5" ></RELATION>
+
+<RELATION party2="117524_4" theme="117524_2" theme_string="Steines et ux. v. Internal Revenue Service" party2_string="Internal Revenue Service" gram_type="infix" relation_type="asymmetric" id="117524_6" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1185" X_vs_Y_string="Steines et ux. v. Internal Revenue Service" standard_case="117524_1" X_vs_Y="117524_2" gram_type="multi_line" relation_type="equivalence" id="117524_10" ></RELATION>
+
+<RELATION at_date_string="March 7, 1994" theme="117524_2" at_date="117524_9" theme_string="Steines et ux. v. Internal Revenue Service" gram_type="multi_line" relation_type="asymmetric" id="117524_12" ></RELATION>
+
+<RELATION theme="117524_2" includes_docket_string="93-6255" includes_docket="117524_7" theme_string="Steines et ux. v. Internal Revenue Service" gram_type="multi_line" relation_type="asymmetric" id="117524_11" ></RELATION>
+

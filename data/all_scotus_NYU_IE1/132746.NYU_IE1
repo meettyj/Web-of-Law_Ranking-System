@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['pazillinois#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_922" id1="132747" volume="540" start="0" page_number="922" standard_reporter="U.S." citation_global_level_id="5065.002" line="1" id="132746_1" citation_local_level_id="0" >540 U.S. 922</CITATION>
+
+<CITATION party2="ILLINOIS" party1="DE LA PAZ" citation_global_level_id="13375.001" party2_short="ILLINOIS" line="1" id="132746_3" alternative_keys="['u.s._540_922']" end="38" entry_type="party_key" lookup_key="pazillinois#1" id1="132746" start="17" party1_short="PAZ" citation_local_level_id="1" >DE LA PAZ v. ILLINOIS</CITATION>
+
+<NAME end="26" start="17" party1_of="132746_3" all_names="DE LA PAZ" local_name_id="1" id="132746_4" >DE LA PAZ</NAME>
+
+<NAME end="38" start="30" all_names="ILLINOIS" party2_of="132746_3" local_name_id="2" id="132746_5" >ILLINOIS</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._540_922" id1="132747" start="48" citation_global_level_id="5065.002" line="1" id="132746_2" citation_local_level_id="0" >03-5676</DOCKET>
+
+<DATE start="97" end="112" id="132746_6" >October 6, 2003</DATE>
+
+<NAME start="189" local_name_id="3" end="199" id="132746_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="257" reporter="N. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.e.2d_791_489" id1="Dummy_File_220897" volume="791" start="241" page_number="489" standard_reporter="N.E.2D" citation_global_level_id="284747.001" line="3" id="132746_12" citation_local_level_id="2" >791 N. E. 2d 489</CITATION>
+
+<RELATION theme="132746_1" includes_docket_string="03-5676" includes_docket="132746_2" theme_string="540 U.S. 922" gram_type="apposition" relation_type="asymmetric" id="132746_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 922" X_vs_Y_string="DE LA PAZ v. ILLINOIS" standard_case="132746_1" X_vs_Y="132746_3" gram_type="pre_nom" relation_type="equivalence" id="132746_7" ></RELATION>
+
+<RELATION theme="132746_3" includes_docket_string="03-5676" includes_docket="132746_2" theme_string="DE LA PAZ v. ILLINOIS" gram_type="apposition" relation_type="asymmetric" id="132746_10" ></RELATION>
+
+<RELATION theme="132746_3" party1="132746_4" party1_string="DE LA PAZ" theme_string="DE LA PAZ v. ILLINOIS" gram_type="infix" relation_type="asymmetric" id="132746_8" ></RELATION>
+
+<RELATION party2="132746_5" theme="132746_3" theme_string="DE LA PAZ v. ILLINOIS" party2_string="ILLINOIS" gram_type="infix" relation_type="asymmetric" id="132746_9" ></RELATION>
+

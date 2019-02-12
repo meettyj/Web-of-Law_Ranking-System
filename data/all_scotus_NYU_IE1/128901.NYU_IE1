@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['gregorytexas#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_978" id1="128896" volume="538" start="0" page_number="978" standard_reporter="U.S." citation_global_level_id="8700.002" line="1" id="128901_1" citation_local_level_id="0" >538 U.S. 978</CITATION>
+
+<CITATION party2="TEXAS" party1="GREGORY" citation_global_level_id="54201.001" party2_short="TEXAS" line="1" id="128901_3" alternative_keys="['u.s._538_978']" end="33" entry_type="party_key" lookup_key="gregorytexas#1" id1="128901" start="17" party1_short="GREGORY" citation_local_level_id="1" >GREGORY v. TEXAS</CITATION>
+
+<NAME end="24" start="17" party1_of="128901_3" all_names="GREGORY" local_name_id="1" id="128901_4" >GREGORY</NAME>
+
+<NAME end="33" start="28" all_names="TEXAS" party2_of="128901_3" local_name_id="2" id="128901_5" >TEXAS</NAME>
+
+<DOCKET end="50" entry_type="docket" lookup_key="u.s._538_978" id1="128896" start="43" citation_global_level_id="8700.002" line="1" id="128901_2" citation_local_level_id="0" >02-1174</DOCKET>
+
+<DATE start="92" end="106" id="128901_6" >April 21, 2003</DATE>
+
+<NAME start="219" local_name_id="3" end="221" id="128901_13" all_names="CT" >Ct</NAME>
+
+<CITATION end="295" reporter="S. W. 3d" entry_type="standard_key" no_current_file="True" lookup_key="s.w.3d_56_164" id1="Dummy_File_200771" volume="56" start="280" page_number="164" standard_reporter="S.W.3D" citation_global_level_id="264621.001" line="3" id="128901_12" citation_local_level_id="2" >56 S. W. 3d 164</CITATION>
+
+<RELATION theme="128901_1" includes_docket_string="02-1174" includes_docket="128901_2" theme_string="538 U.S. 978" gram_type="apposition" relation_type="asymmetric" id="128901_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 978" X_vs_Y_string="GREGORY v. TEXAS" standard_case="128901_1" X_vs_Y="128901_3" gram_type="pre_nom" relation_type="equivalence" id="128901_7" ></RELATION>
+
+<RELATION theme="128901_3" includes_docket_string="02-1174" includes_docket="128901_2" theme_string="GREGORY v. TEXAS" gram_type="apposition" relation_type="asymmetric" id="128901_10" ></RELATION>
+
+<RELATION theme="128901_3" party1="128901_4" party1_string="GREGORY" theme_string="GREGORY v. TEXAS" gram_type="infix" relation_type="asymmetric" id="128901_8" ></RELATION>
+
+<RELATION party2="128901_5" theme="128901_3" theme_string="GREGORY v. TEXAS" party2_string="TEXAS" gram_type="infix" relation_type="asymmetric" id="128901_9" ></RELATION>
+

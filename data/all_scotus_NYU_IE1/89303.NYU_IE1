@@ -1,0 +1,52 @@
+<CITATION alternative_keys="['townwoodruff#1', 'l.ed._23_586']" end="11" reporter="U.S." entry_type="standard_key" lookup_key="u.s._92_502" id1="89303" volume="92" start="0" page_number="502" standard_reporter="U.S." citation_global_level_id="17414.002" line="1" id="89303_1" citation_local_level_id="0" >92 U.S. 502</CITATION>
+
+<CITATION alternative_keys="['u.s._92_502', 'townwoodruff#1']" end="29" reporter="L. Ed." entry_type="standard_key" lookup_key="l.ed._23_586" id1="89303" volume="23" start="16" page_number="586" standard_reporter="L.ED." citation_global_level_id="17414.003" line="1" id="89303_2" citation_local_level_id="1" >23 L. Ed. 586</CITATION>
+
+<NAME start="19" local_name_id="1" end="24" id="89303_7" all_names="L ED" >L. Ed</NAME>
+
+<CITATION party2="WOODRUFF ET AL" party1="TOWN OF GENOA" citation_global_level_id="17414.001" party2_short="WOODRUFF" line="1" id="89303_3" alternative_keys="['u.s._92_502', 'l.ed._23_586']" end="65" entry_type="party_key" lookup_key="townwoodruff#1" id1="89303" start="34" party1_short="TOWN" citation_local_level_id="2" >TOWN OF GENOA v. WOODRUFF ET AL</CITATION>
+
+<NAME end="47" start="34" party1_of="89303_3" all_names="TOWN OF GENOA" local_name_id="2" id="89303_4" >TOWN OF GENOA</NAME>
+
+<NAME end="65" start="51" all_names="WOODRUFF" party2_of="89303_3" local_name_id="3" id="89303_5" >WOODRUFF ET AL</NAME>
+
+<DATE start="85" end="89" id="89303_6" >1875</DATE>
+
+<LEGAL_ROLE start="194" end="230" id="89303_12" >Mr. H. L. Comstock for the plaintiff</LEGAL_ROLE>
+
+<NAME start="247" local_name_id="4" end="263" id="89303_13" all_names="MR DAVID WRIGHT" >Mr. David Wright</NAME>
+
+<NAME start="279" local_name_id="5" end="281" id="89303_17" all_names="MR" >MR</NAME>
+
+<CITATION party2="Murdock" party1="Town of Venice" citation_global_level_id="24878.003" party2_short="Murdock" line="4" id="89303_14" alternative_keys="['u.s._92_494']" end="554" entry_type="party_key" lookup_key="townmurdock#1" id1="89302" start="529" party1_short="Town" citation_local_level_id="3" >Town of Venice v. Murdock</CITATION>
+
+<NAME end="543" start="529" party1_of="89303_14" all_names="TOWN OF VENICE" local_name_id="6" id="89303_15" >Town of Venice</NAME>
+
+<NAME end="554" start="547" all_names="MURDOCK" party2_of="89303_14" local_name_id="7" id="89303_16" >Murdock</NAME>
+
+<CITATION party2="Murdock" party1="Town of Venice" citation_global_level_id="24878.003" party2_short="Murdock" line="6" id="89303_20" alternative_keys="['u.s._92_494']" end="1029" entry_type="party_key" lookup_key="townmurdock#1" id1="89302" start="1004" party1_short="Town" citation_local_level_id="4" >Town of Venice v. Murdock</CITATION>
+
+<NAME end="1018" start="1004" party1_of="89303_20" all_names="TOWN OF VENICE" local_name_id="6" id="89303_21" >Town of Venice</NAME>
+
+<NAME end="1029" start="1022" all_names="MURDOCK" party2_of="89303_20" local_name_id="7" id="89303_22" >Murdock</NAME>
+
+<NAME start="1091" local_name_id="8" end="1099" id="89303_25" all_names="JUDGMENT" >Judgment</NAME>
+
+<NAME start="1135" local_name_id="5" end="1137" id="89303_26" all_names="MR" >MR</NAME>
+
+<RELATION standard_case_string="92 U.S. 502" X_vs_Y_string="TOWN OF GENOA v. WOODRUFF ET AL" standard_case="89303_1" X_vs_Y="89303_3" gram_type="pre_nom" relation_type="equivalence" id="89303_9" ></RELATION>
+
+<RELATION standard_case_string="23 L. Ed. 586" X_vs_Y_string="TOWN OF GENOA v. WOODRUFF ET AL" standard_case="89303_2" X_vs_Y="89303_3" gram_type="pre_nom" relation_type="equivalence" id="89303_8" ></RELATION>
+
+<RELATION theme="89303_3" party1="89303_4" party1_string="TOWN OF GENOA" theme_string="TOWN OF GENOA v. WOODRUFF ET AL" gram_type="infix" relation_type="asymmetric" id="89303_10" ></RELATION>
+
+<RELATION party2="89303_5" theme="89303_3" theme_string="TOWN OF GENOA v. WOODRUFF ET AL" party2_string="WOODRUFF ET AL" gram_type="infix" relation_type="asymmetric" id="89303_11" ></RELATION>
+
+<RELATION theme="89303_14" party1="89303_15" party1_string="Town of Venice" theme_string="Town of Venice v. Murdock" gram_type="infix" relation_type="asymmetric" id="89303_18" ></RELATION>
+
+<RELATION party2="89303_16" theme="89303_14" theme_string="Town of Venice v. Murdock" party2_string="Murdock" gram_type="infix" relation_type="asymmetric" id="89303_19" ></RELATION>
+
+<RELATION theme="89303_20" party1="89303_21" party1_string="Town of Venice" theme_string="Town of Venice v. Murdock" gram_type="infix" relation_type="asymmetric" id="89303_23" ></RELATION>
+
+<RELATION party2="89303_22" theme="89303_20" theme_string="Town of Venice v. Murdock" party2_string="Murdock" gram_type="infix" relation_type="asymmetric" id="89303_24" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['williswarden#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_842" id1="122773" volume="537" start="0" page_number="842" standard_reporter="U.S." citation_global_level_id="3559.002" line="1" id="122766_1" citation_local_level_id="0" >537 U.S. 842</CITATION>
+
+<CITATION party2="SMITH, WARDEN" party1="WILLIS" citation_global_level_id="22537.001" party2_short="WARDEN" line="1" id="122766_3" alternative_keys="['u.s._537_842']" end="40" entry_type="party_key" lookup_key="williswarden#1" id1="122766" start="17" party1_short="WILLIS" citation_local_level_id="1" >WILLIS v. SMITH, WARDEN</CITATION>
+
+<NAME end="23" start="17" party1_of="122766_3" all_names="WILLIS" local_name_id="1" id="122766_4" >WILLIS</NAME>
+
+<NAME end="40" start="27" all_names="SMITH WARDEN" party2_of="122766_3" local_name_id="2" id="122766_5" >SMITH, WARDEN</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._537_842" id1="122773" start="50" citation_global_level_id="3559.002" line="1" id="122766_2" citation_local_level_id="0" >01-10360</DOCKET>
+
+<DATE start="100" end="115" id="122766_6" >October 7, 2002</DATE>
+
+<NAME start="248" local_name_id="3" end="251" id="122766_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="302" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_273_1120" id1="Dummy_File_6214" volume="273" start="288" page_number="1120" standard_reporter="F.3D" citation_global_level_id="70064.001" line="3" id="122766_12" citation_local_level_id="2" >273 F. 3d 1120</CITATION>
+
+<RELATION theme="122766_1" includes_docket_string="01-10360" includes_docket="122766_2" theme_string="537 U.S. 842" gram_type="apposition" relation_type="asymmetric" id="122766_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 842" X_vs_Y_string="WILLIS v. SMITH, WARDEN" standard_case="122766_1" X_vs_Y="122766_3" gram_type="pre_nom" relation_type="equivalence" id="122766_7" ></RELATION>
+
+<RELATION theme="122766_3" includes_docket_string="01-10360" includes_docket="122766_2" theme_string="WILLIS v. SMITH, WARDEN" gram_type="apposition" relation_type="asymmetric" id="122766_10" ></RELATION>
+
+<RELATION theme="122766_3" party1="122766_4" party1_string="WILLIS" theme_string="WILLIS v. SMITH, WARDEN" gram_type="infix" relation_type="asymmetric" id="122766_8" ></RELATION>
+
+<RELATION party2="122766_5" theme="122766_3" theme_string="WILLIS v. SMITH, WARDEN" party2_string="SMITH, WARDEN" gram_type="infix" relation_type="asymmetric" id="122766_9" ></RELATION>
+

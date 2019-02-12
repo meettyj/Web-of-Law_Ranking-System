@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['flynnberland#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1001" id1="119666" volume="535" start="0" page_number="1001" standard_reporter="U.S." citation_global_level_id="12973.002" line="1" id="119668_1" citation_local_level_id="0" >535 U.S. 1001</CITATION>
+
+<CITATION party2="BERLAND, JUDGE, CIRCUIT COURT OF ILLINOIS, COOK COUNTY" party1="FLYNN" citation_global_level_id="12973.003" party2_short="BERLAND" line="2" id="119668_2" alternative_keys="['u.s._535_1001']" end="81" entry_type="party_key" lookup_key="flynnberland#1" id1="119666" start="18" party1_short="FLYNN" citation_local_level_id="1" >FLYNN v. BERLAND, JUDGE, CIRCUIT COURT OF ILLINOIS, COOK COUNTY</CITATION>
+
+<NAME end="23" start="18" party1_of="119668_2" all_names="FLYNN" local_name_id="1" id="119668_3" >FLYNN</NAME>
+
+<NAME end="81" start="27" all_names="BERLAND JUDGE CIRCUIT COURT OF ILLINOIS COOK COUNTY" party2_of="119668_2" local_name_id="2" id="119668_4" >BERLAND, JUDGE, CIRCUIT COURT OF ILLINOIS, COOK COUNTY</NAME>
+
+<DOCKET alternative_keys="['u.s._535_1001']" end="98" entry_type="docket" lookup_key="flynnberland#1" id1="119666" start="91" citation_global_level_id="12973.003" line="3" id="119668_7" citation_local_level_id="1" >01-8490</DOCKET>
+
+<DATE start="144" citation_global_level_id="12973.003" end="158" id="119668_8" citation_local_level_id="1" >April 15, 2002</DATE>
+
+<NAME start="190" local_name_id="3" end="193" id="119668_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="119668_2" party1="119668_3" party1_string="FLYNN" theme_string="FLYNN v. BERLAND, JUDGE, CIRCUIT COURT OF ILLINOIS, COOK COUNTY" gram_type="infix" relation_type="asymmetric" id="119668_5" ></RELATION>
+
+<RELATION party2="119668_4" theme="119668_2" theme_string="FLYNN v. BERLAND, JUDGE, CIRCUIT COURT OF ILLINOIS, COOK COUNTY" party2_string="BERLAND, JUDGE, CIRCUIT COURT OF ILLINOIS, COOK COUNTY" gram_type="infix" relation_type="asymmetric" id="119668_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1001" X_vs_Y_string="FLYNN v. BERLAND, JUDGE, CIRCUIT COURT OF ILLINOIS, COOK COUNTY" standard_case="119668_1" X_vs_Y="119668_2" gram_type="multi_line" relation_type="equivalence" id="119668_9" ></RELATION>
+
+<RELATION at_date_string="April 15, 2002" theme="119668_2" at_date="119668_8" theme_string="FLYNN v. BERLAND, JUDGE, CIRCUIT COURT OF ILLINOIS, COOK COUNTY" gram_type="multi_line" relation_type="asymmetric" id="119668_11" ></RELATION>
+
+<RELATION theme="119668_2" includes_docket_string="01-8490" includes_docket="119668_7" theme_string="FLYNN v. BERLAND, JUDGE, CIRCUIT COURT OF ILLINOIS, COOK COUNTY" gram_type="multi_line" relation_type="asymmetric" id="119668_10" ></RELATION>
+

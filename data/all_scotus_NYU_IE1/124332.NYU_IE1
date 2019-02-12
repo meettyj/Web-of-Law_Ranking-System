@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['whittalabama#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_958" id1="124328" volume="537" start="0" page_number="958" standard_reporter="U.S." citation_global_level_id="3595.002" line="1" id="124332_1" citation_local_level_id="0" >537 U.S. 958</CITATION>
+
+<CITATION party2="ALABAMA" party1="WHITT" citation_global_level_id="62453.001" party2_short="ALABAMA" line="1" id="124332_3" alternative_keys="['u.s._537_958']" end="33" entry_type="party_key" lookup_key="whittalabama#1" id1="124332" start="17" party1_short="WHITT" citation_local_level_id="1" >WHITT v. ALABAMA</CITATION>
+
+<NAME end="22" start="17" party1_of="124332_3" all_names="WHITT" local_name_id="1" id="124332_4" >WHITT</NAME>
+
+<NAME end="33" start="26" all_names="ALABAMA" party2_of="124332_3" local_name_id="2" id="124332_5" >ALABAMA</NAME>
+
+<DOCKET end="50" entry_type="docket" lookup_key="u.s._537_958" id1="124328" start="43" citation_global_level_id="3595.002" line="1" id="124332_2" citation_local_level_id="0" >02-5880</DOCKET>
+
+<DATE start="92" end="108" id="124332_6" >October 15, 2002</DATE>
+
+<NAME start="211" local_name_id="3" end="213" id="124332_13" all_names="CT" >Ct</NAME>
+
+<CITATION end="281" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_854_1216" id1="Dummy_File_131611" volume="854" start="266" page_number="1216" standard_reporter="SO.2D" citation_global_level_id="195461.001" line="3" id="124332_12" citation_local_level_id="2" >854 So. 2d 1216</CITATION>
+
+<RELATION theme="124332_1" includes_docket_string="02-5880" includes_docket="124332_2" theme_string="537 U.S. 958" gram_type="apposition" relation_type="asymmetric" id="124332_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 958" X_vs_Y_string="WHITT v. ALABAMA" standard_case="124332_1" X_vs_Y="124332_3" gram_type="pre_nom" relation_type="equivalence" id="124332_7" ></RELATION>
+
+<RELATION theme="124332_3" includes_docket_string="02-5880" includes_docket="124332_2" theme_string="WHITT v. ALABAMA" gram_type="apposition" relation_type="asymmetric" id="124332_10" ></RELATION>
+
+<RELATION theme="124332_3" party1="124332_4" party1_string="WHITT" theme_string="WHITT v. ALABAMA" gram_type="infix" relation_type="asymmetric" id="124332_8" ></RELATION>
+
+<RELATION party2="124332_5" theme="124332_3" theme_string="WHITT v. ALABAMA" party2_string="ALABAMA" gram_type="infix" relation_type="asymmetric" id="124332_9" ></RELATION>
+

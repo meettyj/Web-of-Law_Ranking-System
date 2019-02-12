@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['schlenkcredit#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_877" id1="132143" volume="540" start="0" page_number="877" standard_reporter="U.S." citation_global_level_id="5950.002" line="1" id="132146_1" citation_local_level_id="0" >540 U.S. 877</CITATION>
+
+<CITATION party2="FORD MOTOR CREDIT CO" party1="SCHLENK" citation_global_level_id="58677.001" party2_short="CREDIT" line="1" id="132146_3" alternative_keys="['u.s._540_877']" end="48" entry_type="party_key" lookup_key="schlenkcredit#1" id1="132146" start="17" party1_short="SCHLENK" citation_local_level_id="1" >SCHLENK v. FORD MOTOR CREDIT CO</CITATION>
+
+<NAME end="24" start="17" party1_of="132146_3" all_names="SCHLENK" local_name_id="1" id="132146_4" >SCHLENK</NAME>
+
+<NAME end="48" start="28" all_names="FORD MOTOR CREDIT CO" party2_of="132146_3" local_name_id="2" id="132146_5" >FORD MOTOR CREDIT CO</NAME>
+
+<DOCKET end="64" entry_type="docket" lookup_key="u.s._540_877" id1="132143" start="58" citation_global_level_id="5950.002" line="1" id="132146_2" citation_local_level_id="0" >03-112</DOCKET>
+
+<DATE start="106" end="121" id="132146_6" >October 6, 2003</DATE>
+
+<NAME start="199" local_name_id="3" end="209" id="132146_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="247" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_308_619" id1="Dummy_File_110914" volume="308" start="234" page_number="619" standard_reporter="F.3D" citation_global_level_id="174764.001" line="3" id="132146_12" citation_local_level_id="2" >308 F. 3d 619</CITATION>
+
+<RELATION theme="132146_1" includes_docket_string="03-112" includes_docket="132146_2" theme_string="540 U.S. 877" gram_type="apposition" relation_type="asymmetric" id="132146_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 877" X_vs_Y_string="SCHLENK v. FORD MOTOR CREDIT CO" standard_case="132146_1" X_vs_Y="132146_3" gram_type="pre_nom" relation_type="equivalence" id="132146_7" ></RELATION>
+
+<RELATION theme="132146_3" includes_docket_string="03-112" includes_docket="132146_2" theme_string="SCHLENK v. FORD MOTOR CREDIT CO" gram_type="apposition" relation_type="asymmetric" id="132146_10" ></RELATION>
+
+<RELATION theme="132146_3" party1="132146_4" party1_string="SCHLENK" theme_string="SCHLENK v. FORD MOTOR CREDIT CO" gram_type="infix" relation_type="asymmetric" id="132146_8" ></RELATION>
+
+<RELATION party2="132146_5" theme="132146_3" theme_string="SCHLENK v. FORD MOTOR CREDIT CO" party2_string="FORD MOTOR CREDIT CO" gram_type="infix" relation_type="asymmetric" id="132146_9" ></RELATION>
+

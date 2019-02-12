@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['jacksonvarner#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_973" id1="119313" volume="535" start="0" page_number="973" standard_reporter="U.S." citation_global_level_id="2332.002" line="1" id="119302_1" citation_local_level_id="0" >535 U.S. 973</CITATION>
+
+<CITATION party2="VARNER, SUPERINTENDENT, STATE CORRECTIONAL INSTITUTION AT DALLAS, ET AL" party1="JACKSON" citation_global_level_id="2332.005" party2_short="VARNER" line="2" id="119302_3" alternative_keys="['u.s._535_973']" end="99" entry_type="party_key" lookup_key="jacksonvarner#1" id1="119313" start="17" party1_short="JACKSON" citation_local_level_id="1" >JACKSON v. VARNER, SUPERINTENDENT, STATE CORRECTIONAL INSTITUTION AT DALLAS, ET AL</CITATION>
+
+<NAME end="24" start="17" party1_of="119302_3" all_names="JACKSON" local_name_id="1" id="119302_4" >JACKSON</NAME>
+
+<NAME end="99" start="28" all_names="VARNER SUPERINTENDENT STATE CORRECTIONAL INSTITUTION AT DALLAS" party2_of="119302_3" local_name_id="2" id="119302_5" >VARNER, SUPERINTENDENT, STATE CORRECTIONAL INSTITUTION AT DALLAS, ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._535_973']" end="116" entry_type="docket" lookup_key="jacksonvarner#1" id1="119313" start="109" citation_global_level_id="2332.005" line="2" id="119302_2" citation_local_level_id="1" >01-7984</DOCKET>
+
+<DATE start="162" citation_global_level_id="2332.005" end="175" id="119302_9" citation_local_level_id="1" >April 1, 2002</DATE>
+
+<NAME start="206" local_name_id="3" end="209" id="119302_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="119302_3" includes_docket_string="01-7984" includes_docket="119302_2" theme_string="JACKSON v. VARNER, SUPERINTENDENT, STATE CORRECTIONAL INSTITUTION AT DALLAS, ET AL" gram_type="apposition" relation_type="asymmetric" id="119302_8" ></RELATION>
+
+<RELATION theme="119302_3" party1="119302_4" party1_string="JACKSON" theme_string="JACKSON v. VARNER, SUPERINTENDENT, STATE CORRECTIONAL INSTITUTION AT DALLAS, ET AL" gram_type="infix" relation_type="asymmetric" id="119302_6" ></RELATION>
+
+<RELATION party2="119302_5" theme="119302_3" theme_string="JACKSON v. VARNER, SUPERINTENDENT, STATE CORRECTIONAL INSTITUTION AT DALLAS, ET AL" party2_string="VARNER, SUPERINTENDENT, STATE CORRECTIONAL INSTITUTION AT DALLAS, ET AL" gram_type="infix" relation_type="asymmetric" id="119302_7" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 973" X_vs_Y_string="JACKSON v. VARNER, SUPERINTENDENT, STATE CORRECTIONAL INSTITUTION AT DALLAS, ET AL" standard_case="119302_1" X_vs_Y="119302_3" gram_type="multi_line" relation_type="equivalence" id="119302_10" ></RELATION>
+
+<RELATION at_date_string="April 1, 2002" theme="119302_3" at_date="119302_9" theme_string="JACKSON v. VARNER, SUPERINTENDENT, STATE CORRECTIONAL INSTITUTION AT DALLAS, ET AL" gram_type="multi_line" relation_type="asymmetric" id="119302_11" ></RELATION>
+

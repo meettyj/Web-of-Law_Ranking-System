@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['holdingstitle#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1001" id1="124768" volume="537" start="0" page_number="1001" standard_reporter="U.S." citation_global_level_id="212.002" line="1" id="124770_1" citation_local_level_id="0" >537 U.S. 1001</CITATION>
+
+<CITATION party2="CONTINENTAL LAWYERS TITLE CO" party1="SUMMIT FINANCIAL HOLDINGS, LTD." citation_global_level_id="212.006" party2_short="TITLE" line="1" id="124770_3" alternative_keys="['u.s._537_1001']" end="81" entry_type="party_key" lookup_key="holdingstitle#1" id1="124768" start="18" party1_short="HOLDINGS" citation_local_level_id="1" >SUMMIT FINANCIAL HOLDINGS, LTD. v. CONTINENTAL LAWYERS TITLE CO</CITATION>
+
+<NAME end="49" start="18" party1_of="124770_3" all_names="SUMMIT FINANCIAL HOLDINGS LTD" local_name_id="1" id="124770_4" >SUMMIT FINANCIAL HOLDINGS, LTD.</NAME>
+
+<ORGANIZATION start="18" end="48" id="124770_7" >SUMMIT FINANCIAL HOLDINGS, LTD</ORGANIZATION>
+
+<NAME end="81" start="53" all_names="CONTINENTAL LAWYERS TITLE CO" party2_of="124770_3" local_name_id="2" id="124770_5" >CONTINENTAL LAWYERS TITLE CO</NAME>
+
+<DOCKET end="97" entry_type="docket" lookup_key="u.s._537_1001" id1="124768" start="91" citation_global_level_id="212.002" line="1" id="124770_2" citation_local_level_id="0" >02-291</DOCKET>
+
+<DATE start="139" end="155" id="124770_6" >November 4, 2002</DATE>
+
+<NAME start="249" local_name_id="3" end="252" id="124770_14" all_names="SUP" >Sup</NAME>
+
+<CITATION end="327" reporter="P. 3d" entry_type="standard_key" no_current_file="True" lookup_key="p.3d_41_548" id1="Dummy_File_190955" volume="41" start="315" page_number="548" standard_reporter="P.3D" citation_global_level_id="254805.001" line="3" id="124770_13" citation_local_level_id="2" >41 P. 3d 548</CITATION>
+
+<RELATION theme="124770_1" includes_docket_string="02-291" includes_docket="124770_2" theme_string="537 U.S. 1001" gram_type="apposition" relation_type="asymmetric" id="124770_12" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1001" X_vs_Y_string="SUMMIT FINANCIAL HOLDINGS, LTD. v. CONTINENTAL LAWYERS TITLE CO" standard_case="124770_1" X_vs_Y="124770_3" gram_type="pre_nom" relation_type="equivalence" id="124770_8" ></RELATION>
+
+<RELATION theme="124770_3" includes_docket_string="02-291" includes_docket="124770_2" theme_string="SUMMIT FINANCIAL HOLDINGS, LTD. v. CONTINENTAL LAWYERS TITLE CO" gram_type="apposition" relation_type="asymmetric" id="124770_11" ></RELATION>
+
+<RELATION party2="124770_5" theme="124770_3" theme_string="SUMMIT FINANCIAL HOLDINGS, LTD. v. CONTINENTAL LAWYERS TITLE CO" party2_string="CONTINENTAL LAWYERS TITLE CO" gram_type="infix" relation_type="asymmetric" id="124770_10" ></RELATION>
+
+<RELATION theme="124770_3" party1="124770_4" party1_string="SUMMIT FINANCIAL HOLDINGS, LTD." theme_string="SUMMIT FINANCIAL HOLDINGS, LTD. v. CONTINENTAL LAWYERS TITLE CO" gram_type="infix" relation_type="asymmetric" id="124770_9" ></RELATION>
+

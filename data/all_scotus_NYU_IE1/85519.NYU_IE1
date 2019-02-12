@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['heirsjackson#1', 'wheat._12_135']" end="19" reporter="U.S." entry_type="standard_key" lookup_key="u.s._25_135" id1="85519" volume="25" start="1" page_number="135" standard_reporter="U.S." citation_global_level_id="11301.002" line="2" id="85519_1" citation_local_level_id="0" >25 U.S. 135 (____)</CITATION>
+
+<CITATION alternative_keys="['u.s._25_135', 'heirsjackson#1']" end="33" reporter="Wheat." entry_type="standard_key" lookup_key="wheat._12_135" id1="85519" volume="12" start="20" page_number="135" standard_reporter="WHEAT." citation_global_level_id="11301.003" line="3" id="85519_2" citation_local_level_id="1" >12 Wheat. 135</CITATION>
+
+<CITATION party2="JACKSON and Others" party1="WINN'S Heirs" citation_global_level_id="11301.001" party2_short="JACKSON" line="6" id="85519_4" alternative_keys="['u.s._25_135', 'wheat._12_135']" end="75" entry_type="party_key" lookup_key="heirsjackson#1" id1="85519" start="34" party1_short="Heirs" citation_local_level_id="2" >WINN'S Heirs against JACKSON and Others</CITATION>
+
+<NAME end="46" start="34" party1_of="85519_4" all_names="WINN'S HEIRS" local_name_id="1" id="85519_5" >WINN'S Heirs</NAME>
+
+<NAME end="75" start="57" all_names="JACKSON AND OTHERS" party2_of="85519_4" local_name_id="2" id="85519_6" >JACKSON and Others</NAME>
+
+<ORGANIZATION start="77" end="107" id="85519_9" >Supreme Court of United States</ORGANIZATION>
+
+<NAME start="110" local_name_id="3" end="123" id="85519_12" all_names="MR WICKLIFFE" >Mr. Wickliffe</NAME>
+
+<NAME start="163" local_name_id="4" end="169" id="85519_13" all_names="MOTION" >Motion</NAME>
+
+<RELATION theme="85519_4" party1="85519_5" party1_string="WINN'S Heirs" theme_string="WINN'S Heirs  against  JACKSON and Others" gram_type="infix" relation_type="asymmetric" id="85519_7" ></RELATION>
+
+<RELATION party2="85519_6" theme="85519_4" theme_string="WINN'S Heirs  against  JACKSON and Others" party2_string="JACKSON and Others" gram_type="infix" relation_type="asymmetric" id="85519_8" ></RELATION>
+
+<RELATION standard_case_string="25 U.S. 135 (____)" X_vs_Y_string="WINN'S Heirs  against  JACKSON and Others" standard_case="85519_1" X_vs_Y="85519_4" gram_type="multi_line" relation_type="equivalence" id="85519_10" ></RELATION>
+
+<RELATION standard_case_string="12 Wheat. 135" X_vs_Y_string="WINN'S Heirs  against  JACKSON and Others" standard_case="85519_2" X_vs_Y="85519_4" gram_type="multi_line" relation_type="equivalence" id="85519_11" ></RELATION>
+

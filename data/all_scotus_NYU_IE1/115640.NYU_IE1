@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['isquierdostates#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1013" id1="115627" volume="510" start="0" page_number="1013" standard_reporter="U.S." citation_global_level_id="3557.002" line="1" id="115640_1" citation_local_level_id="0" >510 U.S. 1013</CITATION>
+
+<CITATION party2="United States" party1="Isquierdo" citation_global_level_id="40879.001" party2_short="States" line="1" id="115640_3" alternative_keys="['u.s._510_1013']" end="44" entry_type="party_key" lookup_key="isquierdostates#1" id1="115640" start="18" party1_short="Isquierdo" citation_local_level_id="1" >Isquierdo v. United States</CITATION>
+
+<NAME end="27" start="18" party1_of="115640_3" all_names="ISQUIERDO" local_name_id="1" id="115640_4" >Isquierdo</NAME>
+
+<NAME end="44" start="31" all_names="UNITED STATES" party2_of="115640_3" local_name_id="2" id="115640_5" >United States</NAME>
+
+<DOCKET end="60" entry_type="docket" lookup_key="u.s._510_1013" id1="115627" start="54" citation_global_level_id="3557.002" line="1" id="115640_2" citation_local_level_id="0" >93-677</DOCKET>
+
+<DATE start="102" end="118" id="115640_6" >December 6, 1993</DATE>
+
+<NAME start="196" local_name_id="3" end="206" id="115640_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="245" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_999_1579" id1="Dummy_File_6743" volume="999" start="231" page_number="1579" standard_reporter="F.2D" citation_global_level_id="70593.001" line="3" id="115640_12" citation_local_level_id="2" >999 F. 2d 1579</CITATION>
+
+<RELATION theme="115640_1" includes_docket_string="93-677" includes_docket="115640_2" theme_string="510 U.S. 1013" gram_type="apposition" relation_type="asymmetric" id="115640_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1013" X_vs_Y_string="Isquierdo v. United States" standard_case="115640_1" X_vs_Y="115640_3" gram_type="pre_nom" relation_type="equivalence" id="115640_7" ></RELATION>
+
+<RELATION theme="115640_3" includes_docket_string="93-677" includes_docket="115640_2" theme_string="Isquierdo v. United States" gram_type="apposition" relation_type="asymmetric" id="115640_10" ></RELATION>
+
+<RELATION theme="115640_3" party1="115640_4" party1_string="Isquierdo" theme_string="Isquierdo v. United States" gram_type="infix" relation_type="asymmetric" id="115640_8" ></RELATION>
+
+<RELATION party2="115640_5" theme="115640_3" theme_string="Isquierdo v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="115640_9" ></RELATION>
+

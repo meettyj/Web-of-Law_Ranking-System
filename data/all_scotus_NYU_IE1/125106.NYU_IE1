@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['etfoundation#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1026" id1="125104" volume="537" start="0" page_number="1026" standard_reporter="U.S." citation_global_level_id="12499.002" line="1" id="125106_1" citation_local_level_id="0" >537 U.S. 1026</CITATION>
+
+<CITATION party2="LEGAL FOUNDATION OF WASHINGTON ET AL" party1="BROWN ET AL." citation_global_level_id="12499.004" party2_short="FOUNDATION" line="1" id="125106_3" alternative_keys="['u.s._537_1026']" end="70" entry_type="party_key" lookup_key="etfoundation#1" id1="125104" start="18" party1_short="ET" citation_local_level_id="1" >BROWN ET AL. v. LEGAL FOUNDATION OF WASHINGTON ET AL</CITATION>
+
+<NAME end="30" start="18" party1_of="125106_3" all_names="BROWN" local_name_id="1" id="125106_4" >BROWN ET AL.</NAME>
+
+<NAME start="18" local_name_id="1" end="29" id="125106_7" all_names="BROWN" >BROWN ET AL</NAME>
+
+<NAME end="70" start="34" all_names="LEGAL FOUNDATION OF WASHINGTON" party2_of="125106_3" local_name_id="2" id="125106_5" >LEGAL FOUNDATION OF WASHINGTON ET AL</NAME>
+
+<DOCKET end="87" entry_type="docket" lookup_key="u.s._537_1026" id1="125104" start="80" citation_global_level_id="12499.002" line="1" id="125106_2" citation_local_level_id="0" >01-1325</DOCKET>
+
+<ORGANIZATION start="93" end="123" id="125106_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="129" end="146" id="125106_6" >November 18, 2002</DATE>
+
+<ORGANIZATION start="168" end="238" id="125106_9" >CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT</ORGANIZATION>
+
+<NAME start="275" local_name_id="3" end="278" id="125106_16" all_names="CIR" >Cir</NAME>
+
+<CITATION end="313" reporter="U.S." entry_type="standard_key" lookup_key="u.s._536_903" id1="121184" volume="536" start="301" page_number="903" standard_reporter="U.S." citation_global_level_id="727.002" line="3" id="125106_15" citation_local_level_id="2" >536 U.S. 903</CITATION>
+
+<RELATION theme="125106_1" includes_docket_string="01-1325" includes_docket="125106_2" theme_string="537 U.S. 1026" gram_type="apposition" relation_type="asymmetric" id="125106_14" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1026" X_vs_Y_string="BROWN ET AL. v. LEGAL FOUNDATION OF WASHINGTON ET AL" standard_case="125106_1" X_vs_Y="125106_3" gram_type="pre_nom" relation_type="equivalence" id="125106_10" ></RELATION>
+
+<RELATION theme="125106_3" includes_docket_string="01-1325" includes_docket="125106_2" theme_string="BROWN ET AL. v. LEGAL FOUNDATION OF WASHINGTON ET AL" gram_type="apposition" relation_type="asymmetric" id="125106_13" ></RELATION>
+
+<RELATION theme="125106_3" party1="125106_4" party1_string="BROWN ET AL." theme_string="BROWN ET AL. v. LEGAL FOUNDATION OF WASHINGTON ET AL" gram_type="infix" relation_type="asymmetric" id="125106_11" ></RELATION>
+
+<RELATION party2="125106_5" theme="125106_3" theme_string="BROWN ET AL. v. LEGAL FOUNDATION OF WASHINGTON ET AL" party2_string="LEGAL FOUNDATION OF WASHINGTON ET AL" gram_type="infix" relation_type="asymmetric" id="125106_12" ></RELATION>
+

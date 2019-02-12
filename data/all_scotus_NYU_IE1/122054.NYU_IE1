@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['bagleyvance#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._536_973" id1="122051" volume="536" start="0" page_number="973" standard_reporter="U.S." citation_global_level_id="1524.002" line="1" id="122054_1" citation_local_level_id="0" >536 U.S. 973</CITATION>
+
+<CITATION party2="VANCE ET AL" party1="BAGLEY" citation_global_level_id="52219.001" party2_short="VANCE" line="2" id="122054_3" alternative_keys="['u.s._536_973']" end="38" entry_type="party_key" lookup_key="bagleyvance#2" id1="119926" start="17" party1_short="BAGLEY" citation_local_level_id="1" >BAGLEY v. VANCE ET AL</CITATION>
+
+<NAME end="23" start="17" party1_of="122054_3" all_names="BAGLEY" local_name_id="1" id="122054_4" >BAGLEY</NAME>
+
+<NAME end="38" start="27" all_names="VANCE" party2_of="122054_3" local_name_id="2" id="122054_5" >VANCE ET AL</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="bagleyvance#2" id1="119926" start="48" citation_global_level_id="52219.001" line="2" id="122054_2" citation_local_level_id="1" >01-8486</DOCKET>
+
+<DATE start="101" citation_global_level_id="52219.001" end="114" id="122054_9" citation_local_level_id="1" >June 28, 2002</DATE>
+
+<CITATION end="150" reporter="U. S." entry_type="standard_key" lookup_key="u.s._535_1021" id1="119925" volume="535" start="136" page_number="1021" standard_reporter="U.S." citation_global_level_id="995.002" line="7" id="122054_12" citation_local_level_id="2" >535 U. S. 1021</CITATION>
+
+<NAME start="152" local_name_id="3" end="161" id="122054_13" all_names="PETITIONS" >Petitions</NAME>
+
+<RELATION theme="122054_3" includes_docket_string="01-8486" includes_docket="122054_2" theme_string="BAGLEY v. VANCE ET AL" gram_type="apposition" relation_type="asymmetric" id="122054_8" ></RELATION>
+
+<RELATION theme="122054_3" party1="122054_4" party1_string="BAGLEY" theme_string="BAGLEY v. VANCE ET AL" gram_type="infix" relation_type="asymmetric" id="122054_6" ></RELATION>
+
+<RELATION party2="122054_5" theme="122054_3" theme_string="BAGLEY v. VANCE ET AL" party2_string="VANCE ET AL" gram_type="infix" relation_type="asymmetric" id="122054_7" ></RELATION>
+
+<RELATION standard_case_string="536 U.S. 973" X_vs_Y_string="BAGLEY v. VANCE ET AL" standard_case="122054_1" X_vs_Y="122054_3" gram_type="multi_line" relation_type="equivalence" id="122054_10" ></RELATION>
+
+<RELATION at_date_string="June 28, 2002" theme="122054_3" at_date="122054_9" theme_string="BAGLEY v. VANCE ET AL" gram_type="multi_line" relation_type="asymmetric" id="122054_11" ></RELATION>
+

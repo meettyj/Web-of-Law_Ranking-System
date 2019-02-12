@@ -1,0 +1,36 @@
+<CITATION alternative_keys="['rosenstates#3']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1106" id1="141726" volume="543" start="0" page_number="1106" standard_reporter="U.S." citation_global_level_id="243.002" line="1" id="141726_1" citation_local_level_id="0" >543 U.S. 1106</CITATION>
+
+<CITATION party2="UNITED STATES" party1="ROSEN ET AL." citation_global_level_id="40787.001" party2_short="STATES" line="2" id="141726_2" alternative_keys="['u.s._543_1106']" end="47" entry_type="party_key" lookup_key="rosenstates#3" id1="94359" start="18" party1_short="ROSEN" citation_local_level_id="1" >ROSEN ET AL. v. UNITED STATES</CITATION>
+
+<NAME end="30" start="18" party1_of="141726_2" all_names="ROSEN" local_name_id="1" id="141726_3" >ROSEN ET AL.</NAME>
+
+<NAME end="47" start="34" all_names="UNITED STATES" party2_of="141726_2" local_name_id="2" id="141726_4" >UNITED STATES</NAME>
+
+<DOCKET end="64" entry_type="docket" lookup_key="rosenstates#3" id1="94359" start="57" citation_global_level_id="40787.001" line="3" id="141726_7" citation_local_level_id="1" >04-5883</DOCKET>
+
+<ORGANIZATION start="70" end="100" id="141726_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="106" citation_global_level_id="40787.001" end="122" id="141726_9" citation_local_level_id="1" >January 24, 2005</DATE>
+
+<NAME start="154" local_name_id="3" end="157" id="141726_16" all_names="CIR" >Cir</NAME>
+
+<CITATION party2="Booker" party1="United States" citation_global_level_id="57130.001" party2_short="Booker" line="8" id="141726_13" end="384" entry_type="party_key" lookup_key="statesbooker#4" id1="137703" start="361" party1_short="States" citation_local_level_id="2" >United States v. Booker</CITATION>
+
+<NAME end="374" start="361" party1_of="141726_13" all_names="UNITED STATES" local_name_id="2" id="141726_14" >United States</NAME>
+
+<NAME end="384" start="378" all_names="BOOKER" party2_of="141726_13" local_name_id="4" id="141726_15" >Booker</NAME>
+
+<RELATION theme="141726_2" party1="141726_3" party1_string="ROSEN ET AL." theme_string="ROSEN ET AL. v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="141726_5" ></RELATION>
+
+<RELATION party2="141726_4" theme="141726_2" theme_string="ROSEN ET AL. v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="141726_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1106" X_vs_Y_string="ROSEN ET AL. v. UNITED STATES" standard_case="141726_1" X_vs_Y="141726_2" gram_type="multi_line" relation_type="equivalence" id="141726_10" ></RELATION>
+
+<RELATION at_date_string="January 24, 2005" theme="141726_2" at_date="141726_9" theme_string="ROSEN ET AL. v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="141726_12" ></RELATION>
+
+<RELATION theme="141726_2" includes_docket_string="04-5883" includes_docket="141726_7" theme_string="ROSEN ET AL. v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="141726_11" ></RELATION>
+
+<RELATION theme="141726_13" party1="141726_14" party1_string="United States" theme_string="United States v. Booker" gram_type="infix" relation_type="asymmetric" id="141726_17" ></RELATION>
+
+<RELATION party2="141726_15" theme="141726_13" theme_string="United States v. Booker" party2_string="Booker" gram_type="infix" relation_type="asymmetric" id="141726_18" ></RELATION>
+

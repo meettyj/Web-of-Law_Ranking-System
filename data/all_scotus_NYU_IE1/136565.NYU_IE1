@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['millangiurbino#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_1065" id1="136567" volume="541" start="0" page_number="1065" standard_reporter="U.S." citation_global_level_id="7648.002" line="1" id="136565_1" citation_local_level_id="0" >541 U.S. 1065</CITATION>
+
+<CITATION party2="GIURBINO, WARDEN" party1="MILLAN" citation_global_level_id="7648.008" party2_short="GIURBINO" line="2" id="136565_2" alternative_keys="['u.s._541_1065']" end="44" entry_type="party_key" lookup_key="millangiurbino#1" id1="136567" start="18" party1_short="MILLAN" citation_local_level_id="1" >MILLAN v. GIURBINO, WARDEN</CITATION>
+
+<NAME end="24" start="18" party1_of="136565_2" all_names="MILLAN" local_name_id="1" id="136565_3" >MILLAN</NAME>
+
+<NAME end="44" start="28" all_names="GIURBINO WARDEN" party2_of="136565_2" local_name_id="2" id="136565_4" >GIURBINO, WARDEN</NAME>
+
+<DOCKET alternative_keys="['u.s._541_1065']" end="61" entry_type="docket" lookup_key="millangiurbino#1" id1="136567" start="54" citation_global_level_id="7648.008" line="3" id="136565_7" citation_local_level_id="1" >03-9462</DOCKET>
+
+<ORGANIZATION start="67" end="97" id="136565_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="103" citation_global_level_id="7648.008" end="115" id="136565_9" citation_local_level_id="1" >May 24, 2004</DATE>
+
+<NAME start="147" local_name_id="3" end="150" id="136565_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="136565_2" party1="136565_3" party1_string="MILLAN" theme_string="MILLAN v. GIURBINO, WARDEN" gram_type="infix" relation_type="asymmetric" id="136565_5" ></RELATION>
+
+<RELATION party2="136565_4" theme="136565_2" theme_string="MILLAN v. GIURBINO, WARDEN" party2_string="GIURBINO, WARDEN" gram_type="infix" relation_type="asymmetric" id="136565_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 1065" X_vs_Y_string="MILLAN v. GIURBINO, WARDEN" standard_case="136565_1" X_vs_Y="136565_2" gram_type="multi_line" relation_type="equivalence" id="136565_10" ></RELATION>
+
+<RELATION at_date_string="May 24, 2004" theme="136565_2" at_date="136565_9" theme_string="MILLAN v. GIURBINO, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="136565_12" ></RELATION>
+
+<RELATION theme="136565_2" includes_docket_string="03-9462" includes_docket="136565_7" theme_string="MILLAN v. GIURBINO, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="136565_11" ></RELATION>
+

@@ -1,0 +1,42 @@
+<CITATION alternative_keys="['edmondshospital#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_814" id1="113041" volume="510" start="0" page_number="814" standard_reporter="U.S." citation_global_level_id="15485.002" line="1" id="113035_1" citation_local_level_id="0" >510 U.S. 814</CITATION>
+
+<CITATION party2="Western Pennsylvania Hospital et al" party1="Edmonds, a Minor, by James, Mother and Natural Guardian, et al." citation_global_level_id="48346.001" party2_short="Hospital" line="1" id="113035_3" alternative_keys="['u.s._510_814']" end="119" entry_type="party_key" lookup_key="edmondshospital#1" id1="113035" start="17" party1_short="Edmonds" citation_local_level_id="1" >Edmonds, a Minor, by James, Mother and Natural Guardian, et al. v. Western Pennsylvania Hospital et al</CITATION>
+
+<NAME end="80" start="17" party1_of="113035_3" all_names="EDMONDS A MINOR BY JAMES MOTHER AND NATURAL GUARDIAN" local_name_id="1" id="113035_4" >Edmonds, a Minor, by James, Mother and Natural Guardian, et al.</NAME>
+
+<NAME start="17" local_name_id="2" end="24" id="113035_8" all_names="EDMONDS" >Edmonds</NAME>
+
+<FAMILY start="45" end="72" id="113035_9" >Mother and Natural Guardian</FAMILY>
+
+<NAME end="119" start="84" all_names="WESTERN PENNSYLVANIA HOSPITAL" party2_of="113035_3" local_name_id="3" id="113035_5" >Western Pennsylvania Hospital et al</NAME>
+
+<ORGANIZATION start="84" end="113" id="113035_10" >Western Pennsylvania Hospital</ORGANIZATION>
+
+<DOCKET end="136" entry_type="docket" lookup_key="u.s._510_814" id1="113041" start="129" citation_global_level_id="15485.002" line="1" id="113035_2" citation_local_level_id="0" >92-1819</DOCKET>
+
+<DATE start="132" end="136" id="113035_6" >1819</DATE>
+
+<ORGANIZATION start="142" end="172" id="113035_11" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="178" end="193" id="113035_7" >October 4, 1993</DATE>
+
+<NAME start="215" local_name_id="4" end="236" id="113035_12" all_names="APPEAL FROM THE SUPER" >Appeal from the Super</NAME>
+
+<NAME start="238" local_name_id="5" end="240" id="113035_13" all_names="CT" >Ct</NAME>
+
+<NAME start="271" local_name_id="6" end="281" id="113035_21" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="340" reporter="A. 2d" entry_type="standard_key" no_current_file="True" lookup_key="a.2d_607_1083" id1="Dummy_File_178760" volume="607" start="326" page_number="1083" standard_reporter="A.2D" citation_global_level_id="242610.001" line="3" id="113035_20" citation_local_level_id="2" >607 A. 2d 1083</CITATION>
+
+<RELATION theme="113035_1" includes_docket_string="92-1819" includes_docket="113035_2" theme_string="510 U.S. 814" gram_type="apposition" relation_type="asymmetric" id="113035_18" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 814" X_vs_Y_string="Edmonds, a Minor, by James, Mother and Natural Guardian, et al. v. Western Pennsylvania Hospital et al" standard_case="113035_1" X_vs_Y="113035_3" gram_type="pre_nom" relation_type="equivalence" id="113035_14" ></RELATION>
+
+<RELATION theme="113035_3" includes_docket_string="92-1819" includes_docket="113035_2" theme_string="Edmonds, a Minor, by James, Mother and Natural Guardian, et al. v. Western Pennsylvania Hospital et al" gram_type="apposition" relation_type="asymmetric" id="113035_17" ></RELATION>
+
+<RELATION theme="113035_3" party1="113035_4" party1_string="Edmonds, a Minor, by James, Mother and Natural Guardian, et al." theme_string="Edmonds, a Minor, by James, Mother and Natural Guardian, et al. v. Western Pennsylvania Hospital et al" gram_type="infix" relation_type="asymmetric" id="113035_15" ></RELATION>
+
+<RELATION party2="113035_5" theme="113035_3" theme_string="Edmonds, a Minor, by James, Mother and Natural Guardian, et al. v. Western Pennsylvania Hospital et al" party2_string="Western Pennsylvania Hospital et al" gram_type="infix" relation_type="asymmetric" id="113035_16" ></RELATION>
+
+<RELATION at_date_string="1819" theme="113035_2" at_date="113035_6" theme_string="92-1819" gram_type="infix" relation_type="asymmetric" id="113035_19" ></RELATION>
+

@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['smithenglish#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1064" id1="130055" volume="538" start="0" page_number="1064" standard_reporter="U.S." citation_global_level_id="2781.002" line="1" id="130055_1" citation_local_level_id="0" >538 U.S. 1064</CITATION>
+
+<CITATION party2="ENGLISH ET AL" party1="SMITH" citation_global_level_id="2781.001" party2_short="ENGLISH" line="1" id="130055_3" alternative_keys="['u.s._538_1064']" end="40" entry_type="party_key" lookup_key="smithenglish#1" id1="130055" start="18" party1_short="SMITH" citation_local_level_id="1" >SMITH v. ENGLISH ET AL</CITATION>
+
+<NAME end="23" start="18" party1_of="130055_3" all_names="SMITH" local_name_id="1" id="130055_4" >SMITH</NAME>
+
+<NAME end="40" start="27" all_names="ENGLISH" party2_of="130055_3" local_name_id="2" id="130055_5" >ENGLISH ET AL</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._538_1064" id1="130055" start="50" citation_global_level_id="2781.002" line="1" id="130055_2" citation_local_level_id="0" >02-10033</DOCKET>
+
+<DATE start="100" end="112" id="130055_6" >May 27, 2003</DATE>
+
+<NAME start="240" local_name_id="3" end="243" id="130055_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="130055_1" includes_docket_string="02-10033" includes_docket="130055_2" theme_string="538 U.S. 1064" gram_type="apposition" relation_type="asymmetric" id="130055_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1064" X_vs_Y_string="SMITH v. ENGLISH ET AL" standard_case="130055_1" X_vs_Y="130055_3" gram_type="pre_nom" relation_type="equivalence" id="130055_7" ></RELATION>
+
+<RELATION theme="130055_3" includes_docket_string="02-10033" includes_docket="130055_2" theme_string="SMITH v. ENGLISH ET AL" gram_type="apposition" relation_type="asymmetric" id="130055_10" ></RELATION>
+
+<RELATION theme="130055_3" party1="130055_4" party1_string="SMITH" theme_string="SMITH v. ENGLISH ET AL" gram_type="infix" relation_type="asymmetric" id="130055_8" ></RELATION>
+
+<RELATION party2="130055_5" theme="130055_3" theme_string="SMITH v. ENGLISH ET AL" party2_string="ENGLISH ET AL" gram_type="infix" relation_type="asymmetric" id="130055_9" ></RELATION>
+

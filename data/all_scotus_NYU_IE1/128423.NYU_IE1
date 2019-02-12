@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['montuedepartment#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_940" id1="128430" volume="538" start="0" page_number="940" standard_reporter="U.S." citation_global_level_id="353.002" line="1" id="128423_1" citation_local_level_id="0" >538 U.S. 940</CITATION>
+
+<CITATION party2="CALIFORNIA DEPARTMENT OF CORRECTIONS" party1="MONTUE" citation_global_level_id="37221.001" party2_short="DEPARTMENT" line="2" id="128423_2" alternative_keys="['u.s._538_940']" end="63" entry_type="party_key" lookup_key="montuedepartment#2" id1="127009" start="17" party1_short="MONTUE" citation_local_level_id="1" >MONTUE v. CALIFORNIA DEPARTMENT OF CORRECTIONS</CITATION>
+
+<NAME end="23" start="17" party1_of="128423_2" all_names="MONTUE" local_name_id="1" id="128423_3" >MONTUE</NAME>
+
+<NAME end="63" start="27" all_names="CALIFORNIA DEPARTMENT OF CORRECTIONS" party2_of="128423_2" local_name_id="2" id="128423_4" >CALIFORNIA DEPARTMENT OF CORRECTIONS</NAME>
+
+<DOCKET end="80" entry_type="docket" lookup_key="montuedepartment#2" id1="127009" start="73" citation_global_level_id="37221.001" line="3" id="128423_7" citation_local_level_id="1" >02-7879</DOCKET>
+
+<ORGANIZATION start="86" end="116" id="128423_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="122" citation_global_level_id="37221.001" end="136" id="128423_9" citation_local_level_id="1" >March 24, 2003</DATE>
+
+<NAME start="158" local_name_id="3" end="166" id="128423_14" all_names="PETITION" >Petition</NAME>
+
+<CITATION end="203" reporter="U. S." entry_type="standard_key" lookup_key="u.s._537_1176" id1="127000" volume="537" start="189" page_number="1176" standard_reporter="U.S." citation_global_level_id="685.002" line="8" id="128423_13" citation_local_level_id="2" >537 U. S. 1176</CITATION>
+
+<RELATION theme="128423_2" party1="128423_3" party1_string="MONTUE" theme_string="MONTUE v. CALIFORNIA DEPARTMENT OF CORRECTIONS" gram_type="infix" relation_type="asymmetric" id="128423_5" ></RELATION>
+
+<RELATION party2="128423_4" theme="128423_2" theme_string="MONTUE v. CALIFORNIA DEPARTMENT OF CORRECTIONS" party2_string="CALIFORNIA DEPARTMENT OF CORRECTIONS" gram_type="infix" relation_type="asymmetric" id="128423_6" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 940" X_vs_Y_string="MONTUE v. CALIFORNIA DEPARTMENT OF CORRECTIONS" standard_case="128423_1" X_vs_Y="128423_2" gram_type="multi_line" relation_type="equivalence" id="128423_10" ></RELATION>
+
+<RELATION at_date_string="March 24, 2003" theme="128423_2" at_date="128423_9" theme_string="MONTUE v. CALIFORNIA DEPARTMENT OF CORRECTIONS" gram_type="multi_line" relation_type="asymmetric" id="128423_12" ></RELATION>
+
+<RELATION theme="128423_2" includes_docket_string="02-7879" includes_docket="128423_7" theme_string="MONTUE v. CALIFORNIA DEPARTMENT OF CORRECTIONS" gram_type="multi_line" relation_type="asymmetric" id="128423_11" ></RELATION>
+

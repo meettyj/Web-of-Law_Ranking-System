@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['coalderson#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1090" id1="120764" volume="535" start="0" page_number="1090" standard_reporter="U.S." citation_global_level_id="2674.002" line="1" id="120770_1" citation_local_level_id="0" >535 U.S. 1090</CITATION>
+
+<CITATION party2="ALDERSON ET AL" party1="SOUTHERN CO. ET AL." citation_global_level_id="49903.001" party2_short="ALDERSON" line="2" id="120770_2" alternative_keys="['u.s._535_1090']" end="55" entry_type="party_key" lookup_key="coalderson#2" id1="119241" start="18" party1_short="CO" citation_local_level_id="1" >SOUTHERN CO. ET AL. v. ALDERSON ET AL</CITATION>
+
+<NAME end="37" start="18" party1_of="120770_2" all_names="SOUTHERN CO" local_name_id="1" id="120770_3" >SOUTHERN CO. ET AL.</NAME>
+
+<NAME start="18" local_name_id="1" end="36" id="120770_5" all_names="SOUTHERN CO" >SOUTHERN CO. ET AL</NAME>
+
+<ORGANIZATION start="27" end="29" id="120770_6" >CO</ORGANIZATION>
+
+<NAME end="55" start="41" all_names="ALDERSON" party2_of="120770_2" local_name_id="2" id="120770_4" >ALDERSON ET AL</NAME>
+
+<DOCKET end="72" entry_type="docket" lookup_key="coalderson#2" id1="119241" start="65" citation_global_level_id="49903.001" line="3" id="120770_9" citation_local_level_id="1" >01-1200</DOCKET>
+
+<DATE start="118" citation_global_level_id="49903.001" end="130" id="120770_10" citation_local_level_id="1" >May 20, 2002</DATE>
+
+<NAME start="152" local_name_id="3" end="155" id="120770_15" all_names="APP" >App</NAME>
+
+<CITATION end="339" reporter="N. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.e.2d_747_926" id1="Dummy_File_2207" volume="747" start="323" page_number="926" standard_reporter="N.E.2D" citation_global_level_id="66057.001" line="8" id="120770_14" citation_local_level_id="2" >747 N. E. 2d 926</CITATION>
+
+<RELATION theme="120770_2" party1="120770_3" party1_string="SOUTHERN CO. ET AL." theme_string="SOUTHERN CO. ET AL. v. ALDERSON ET AL" gram_type="infix" relation_type="asymmetric" id="120770_7" ></RELATION>
+
+<RELATION party2="120770_4" theme="120770_2" theme_string="SOUTHERN CO. ET AL. v. ALDERSON ET AL" party2_string="ALDERSON ET AL" gram_type="infix" relation_type="asymmetric" id="120770_8" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1090" X_vs_Y_string="SOUTHERN CO. ET AL. v. ALDERSON ET AL" standard_case="120770_1" X_vs_Y="120770_2" gram_type="multi_line" relation_type="equivalence" id="120770_11" ></RELATION>
+
+<RELATION at_date_string="May 20, 2002" theme="120770_2" at_date="120770_10" theme_string="SOUTHERN CO. ET AL. v. ALDERSON ET AL" gram_type="multi_line" relation_type="asymmetric" id="120770_13" ></RELATION>
+
+<RELATION theme="120770_2" includes_docket_string="01-1200" includes_docket="120770_9" theme_string="SOUTHERN CO. ET AL. v. ALDERSON ET AL" gram_type="multi_line" relation_type="asymmetric" id="120770_12" ></RELATION>
+

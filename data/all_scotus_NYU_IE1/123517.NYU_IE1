@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['derdenmississippi#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_899" id1="123524" volume="537" start="0" page_number="899" standard_reporter="U.S." citation_global_level_id="9575.002" line="1" id="123517_1" citation_local_level_id="0" >537 U.S. 899</CITATION>
+
+<CITATION party2="MISSISSIPPI" party1="DERDEN" citation_global_level_id="37748.001" party2_short="MISSISSIPPI" line="1" id="123517_3" alternative_keys="['u.s._537_899']" end="38" entry_type="party_key" lookup_key="derdenmississippi#1" id1="123517" start="17" party1_short="DERDEN" citation_local_level_id="1" >DERDEN v. MISSISSIPPI</CITATION>
+
+<NAME end="23" start="17" party1_of="123517_3" all_names="DERDEN" local_name_id="1" id="123517_4" >DERDEN</NAME>
+
+<NAME end="38" start="27" all_names="MISSISSIPPI" party2_of="123517_3" local_name_id="2" id="123517_5" >MISSISSIPPI</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._537_899" id1="123524" start="48" citation_global_level_id="9575.002" line="1" id="123517_2" citation_local_level_id="0" >02-5176</DOCKET>
+
+<DATE start="97" end="112" id="123517_6" >October 7, 2002</DATE>
+
+<NAME start="207" local_name_id="3" end="210" id="123517_12" all_names="SUP" >Sup</NAME>
+
+<RELATION theme="123517_1" includes_docket_string="02-5176" includes_docket="123517_2" theme_string="537 U.S. 899" gram_type="apposition" relation_type="asymmetric" id="123517_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 899" X_vs_Y_string="DERDEN v. MISSISSIPPI" standard_case="123517_1" X_vs_Y="123517_3" gram_type="pre_nom" relation_type="equivalence" id="123517_7" ></RELATION>
+
+<RELATION theme="123517_3" includes_docket_string="02-5176" includes_docket="123517_2" theme_string="DERDEN v. MISSISSIPPI" gram_type="apposition" relation_type="asymmetric" id="123517_10" ></RELATION>
+
+<RELATION theme="123517_3" party1="123517_4" party1_string="DERDEN" theme_string="DERDEN v. MISSISSIPPI" gram_type="infix" relation_type="asymmetric" id="123517_8" ></RELATION>
+
+<RELATION party2="123517_5" theme="123517_3" theme_string="DERDEN v. MISSISSIPPI" party2_string="MISSISSIPPI" gram_type="infix" relation_type="asymmetric" id="123517_9" ></RELATION>
+

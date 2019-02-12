@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['alfordberbary#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._542_942" id1="137490" volume="542" start="0" page_number="942" standard_reporter="U.S." citation_global_level_id="9502.002" line="1" id="137503_1" citation_local_level_id="0" >542 U.S. 942</CITATION>
+
+<CITATION party2="BERBARY, SUPERINTENDENT, COLLINS CORRECTIONAL FACILITY" party1="ALFORD" citation_global_level_id="9502.008" party2_short="BERBARY" line="2" id="137503_2" alternative_keys="['u.s._542_942']" end="81" entry_type="party_key" lookup_key="alfordberbary#1" id1="137490" start="17" party1_short="ALFORD" citation_local_level_id="1" >ALFORD v. BERBARY, SUPERINTENDENT, COLLINS CORRECTIONAL FACILITY</CITATION>
+
+<NAME end="23" start="17" party1_of="137503_2" all_names="ALFORD" local_name_id="1" id="137503_3" >ALFORD</NAME>
+
+<NAME end="81" start="27" all_names="BERBARY SUPERINTENDENT COLLINS CORRECTIONAL FACILITY" party2_of="137503_2" local_name_id="2" id="137503_4" >BERBARY, SUPERINTENDENT, COLLINS CORRECTIONAL FACILITY</NAME>
+
+<DOCKET alternative_keys="['u.s._542_942']" end="99" entry_type="docket" lookup_key="alfordberbary#1" id1="137490" start="91" citation_global_level_id="9502.008" line="3" id="137503_7" citation_local_level_id="1" >03-10155</DOCKET>
+
+<ORGANIZATION start="105" end="135" id="137503_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="141" citation_global_level_id="9502.008" end="154" id="137503_9" citation_local_level_id="1" >June 28, 2004</DATE>
+
+<NAME start="176" local_name_id="3" end="179" id="137503_14" all_names="APP" >App</NAME>
+
+<CITATION end="293" reporter="N. Y. S. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.y.s.2d_768_920" id1="Dummy_File_191453" volume="768" start="274" page_number="920" standard_reporter="N.Y.S.2D" citation_global_level_id="255303.001" line="8" id="137503_13" citation_local_level_id="2" >768 N. Y. S. 2d 920</CITATION>
+
+<RELATION theme="137503_2" party1="137503_3" party1_string="ALFORD" theme_string="ALFORD v. BERBARY, SUPERINTENDENT, COLLINS CORRECTIONAL FACILITY" gram_type="infix" relation_type="asymmetric" id="137503_5" ></RELATION>
+
+<RELATION party2="137503_4" theme="137503_2" theme_string="ALFORD v. BERBARY, SUPERINTENDENT, COLLINS CORRECTIONAL FACILITY" party2_string="BERBARY, SUPERINTENDENT, COLLINS CORRECTIONAL FACILITY" gram_type="infix" relation_type="asymmetric" id="137503_6" ></RELATION>
+
+<RELATION standard_case_string="542 U.S. 942" X_vs_Y_string="ALFORD v. BERBARY, SUPERINTENDENT, COLLINS CORRECTIONAL FACILITY" standard_case="137503_1" X_vs_Y="137503_2" gram_type="multi_line" relation_type="equivalence" id="137503_10" ></RELATION>
+
+<RELATION at_date_string="June 28, 2004" theme="137503_2" at_date="137503_9" theme_string="ALFORD v. BERBARY, SUPERINTENDENT, COLLINS CORRECTIONAL FACILITY" gram_type="multi_line" relation_type="asymmetric" id="137503_12" ></RELATION>
+
+<RELATION theme="137503_2" includes_docket_string="03-10155" includes_docket="137503_7" theme_string="ALFORD v. BERBARY, SUPERINTENDENT, COLLINS CORRECTIONAL FACILITY" gram_type="multi_line" relation_type="asymmetric" id="137503_11" ></RELATION>
+

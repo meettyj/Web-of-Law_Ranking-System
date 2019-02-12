@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['taegeltexas#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_963" id1="128713" volume="538" start="0" page_number="963" standard_reporter="U.S." citation_global_level_id="1067.002" line="1" id="128706_1" citation_local_level_id="0" >538 U.S. 963</CITATION>
+
+<CITATION party2="TEXAS" party1="TAEGEL" citation_global_level_id="2089.001" party2_short="TEXAS" line="1" id="128706_3" alternative_keys="['u.s._538_963']" end="32" entry_type="party_key" lookup_key="taegeltexas#1" id1="128706" start="17" party1_short="TAEGEL" citation_local_level_id="1" >TAEGEL v. TEXAS</CITATION>
+
+<NAME end="23" start="17" party1_of="128706_3" all_names="TAEGEL" local_name_id="1" id="128706_4" >TAEGEL</NAME>
+
+<NAME end="32" start="27" all_names="TEXAS" party2_of="128706_3" local_name_id="2" id="128706_5" >TEXAS</NAME>
+
+<DOCKET end="49" entry_type="docket" lookup_key="u.s._538_963" id1="128713" start="42" citation_global_level_id="1067.002" line="1" id="128706_2" citation_local_level_id="0" >02-8870</DOCKET>
+
+<DATE start="91" end="104" id="128706_6" >April 7, 2003</DATE>
+
+<NAME start="222" local_name_id="3" end="224" id="128706_12" all_names="CT" >Ct</NAME>
+
+<RELATION theme="128706_1" includes_docket_string="02-8870" includes_docket="128706_2" theme_string="538 U.S. 963" gram_type="apposition" relation_type="asymmetric" id="128706_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 963" X_vs_Y_string="TAEGEL v. TEXAS" standard_case="128706_1" X_vs_Y="128706_3" gram_type="pre_nom" relation_type="equivalence" id="128706_7" ></RELATION>
+
+<RELATION theme="128706_3" includes_docket_string="02-8870" includes_docket="128706_2" theme_string="TAEGEL v. TEXAS" gram_type="apposition" relation_type="asymmetric" id="128706_10" ></RELATION>
+
+<RELATION theme="128706_3" party1="128706_4" party1_string="TAEGEL" theme_string="TAEGEL v. TEXAS" gram_type="infix" relation_type="asymmetric" id="128706_8" ></RELATION>
+
+<RELATION party2="128706_5" theme="128706_3" theme_string="TAEGEL v. TEXAS" party2_string="TEXAS" gram_type="infix" relation_type="asymmetric" id="128706_9" ></RELATION>
+

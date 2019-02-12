@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['parnellwarden#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_980" id1="143909" volume="544" start="0" page_number="980" standard_reporter="U.S." citation_global_level_id="8404.002" line="1" id="143912_1" citation_local_level_id="0" >544 U.S. 980</CITATION>
+
+<CITATION party2="BROWN, WARDEN, ET AL" party1="PARNELL" citation_global_level_id="8404.006" party2_short="WARDEN" line="2" id="143912_2" alternative_keys="['u.s._544_980']" end="48" entry_type="party_key" lookup_key="parnellwarden#2" id1="143909" start="17" party1_short="PARNELL" citation_local_level_id="1" >PARNELL v. BROWN, WARDEN, ET AL</CITATION>
+
+<NAME end="24" start="17" party1_of="143912_2" all_names="PARNELL" local_name_id="1" id="143912_3" >PARNELL</NAME>
+
+<NAME end="48" start="28" all_names="BROWN WARDEN" party2_of="143912_2" local_name_id="2" id="143912_4" >BROWN, WARDEN, ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._544_980']" end="65" entry_type="docket" lookup_key="parnellwarden#2" id1="143909" start="58" citation_global_level_id="8404.006" line="3" id="143912_7" citation_local_level_id="1" >04-8535</DOCKET>
+
+<ORGANIZATION start="71" end="101" id="143912_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="107" citation_global_level_id="8404.006" end="121" id="143912_9" citation_local_level_id="1" >April 18, 2005</DATE>
+
+<NAME start="153" local_name_id="3" end="156" id="143912_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="143912_2" party1="143912_3" party1_string="PARNELL" theme_string="PARNELL v. BROWN, WARDEN, ET AL" gram_type="infix" relation_type="asymmetric" id="143912_5" ></RELATION>
+
+<RELATION party2="143912_4" theme="143912_2" theme_string="PARNELL v. BROWN, WARDEN, ET AL" party2_string="BROWN, WARDEN, ET AL" gram_type="infix" relation_type="asymmetric" id="143912_6" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 980" X_vs_Y_string="PARNELL v. BROWN, WARDEN, ET AL" standard_case="143912_1" X_vs_Y="143912_2" gram_type="multi_line" relation_type="equivalence" id="143912_10" ></RELATION>
+
+<RELATION at_date_string="April 18, 2005" theme="143912_2" at_date="143912_9" theme_string="PARNELL v. BROWN, WARDEN, ET AL" gram_type="multi_line" relation_type="asymmetric" id="143912_12" ></RELATION>
+
+<RELATION theme="143912_2" includes_docket_string="04-8535" includes_docket="143912_7" theme_string="PARNELL v. BROWN, WARDEN, ET AL" gram_type="multi_line" relation_type="asymmetric" id="143912_11" ></RELATION>
+

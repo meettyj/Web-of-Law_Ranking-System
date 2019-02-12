@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['textilescompany#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1109" id1="126169" volume="537" start="0" page_number="1109" standard_reporter="U.S." citation_global_level_id="1867.002" line="1" id="126168_1" citation_local_level_id="0" >537 U.S. 1109</CITATION>
+
+<CITATION party2="SECURITY INSURANCE COMPANY OF HARTFORD ET AL" party1="ARCADE TEXTILES, INC., ET AL." citation_global_level_id="1867.01" party2_short="COMPANY" line="1" id="126168_3" alternative_keys="['u.s._537_1109']" end="95" entry_type="party_key" lookup_key="textilescompany#1" id1="126169" start="18" party1_short="TEXTILES" citation_local_level_id="1" >ARCADE TEXTILES, INC., ET AL. v. SECURITY INSURANCE COMPANY OF HARTFORD ET AL</CITATION>
+
+<NAME end="47" start="18" party1_of="126168_3" all_names="ARCADE TEXTILES INC" local_name_id="1" id="126168_4" >ARCADE TEXTILES, INC., ET AL.</NAME>
+
+<ORGANIZATION start="18" end="38" id="126168_7" >ARCADE TEXTILES, INC</ORGANIZATION>
+
+<NAME end="95" start="51" all_names="SECURITY INSURANCE COMPANY OF HARTFORD" party2_of="126168_3" local_name_id="2" id="126168_5" >SECURITY INSURANCE COMPANY OF HARTFORD ET AL</NAME>
+
+<DOCKET end="111" entry_type="docket" lookup_key="u.s._537_1109" id1="126169" start="105" citation_global_level_id="1867.002" line="1" id="126168_2" citation_local_level_id="0" >02-681</DOCKET>
+
+<ORGANIZATION start="117" end="147" id="126168_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="153" end="169" id="126168_6" >January 13, 2003</DATE>
+
+<ORGANIZATION start="191" end="262" id="126168_9" >CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FOURTH CIRCUIT</ORGANIZATION>
+
+<NAME start="299" local_name_id="3" end="302" id="126168_15" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="126168_1" includes_docket_string="02-681" includes_docket="126168_2" theme_string="537 U.S. 1109" gram_type="apposition" relation_type="asymmetric" id="126168_14" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1109" X_vs_Y_string="ARCADE TEXTILES, INC., ET AL. v. SECURITY INSURANCE COMPANY OF HARTFORD ET AL" standard_case="126168_1" X_vs_Y="126168_3" gram_type="pre_nom" relation_type="equivalence" id="126168_10" ></RELATION>
+
+<RELATION theme="126168_3" includes_docket_string="02-681" includes_docket="126168_2" theme_string="ARCADE TEXTILES, INC., ET AL. v. SECURITY INSURANCE COMPANY OF HARTFORD ET AL" gram_type="apposition" relation_type="asymmetric" id="126168_13" ></RELATION>
+
+<RELATION theme="126168_3" party1="126168_4" party1_string="ARCADE TEXTILES, INC., ET AL." theme_string="ARCADE TEXTILES, INC., ET AL. v. SECURITY INSURANCE COMPANY OF HARTFORD ET AL" gram_type="infix" relation_type="asymmetric" id="126168_11" ></RELATION>
+
+<RELATION party2="126168_5" theme="126168_3" theme_string="ARCADE TEXTILES, INC., ET AL. v. SECURITY INSURANCE COMPANY OF HARTFORD ET AL" party2_string="SECURITY INSURANCE COMPANY OF HARTFORD ET AL" gram_type="infix" relation_type="asymmetric" id="126168_12" ></RELATION>
+

@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['pipestates#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1031" id1="129592" volume="538" start="0" page_number="1031" standard_reporter="U.S." citation_global_level_id="201.002" line="1" id="129600_1" citation_local_level_id="0" >538 U.S. 1031</CITATION>
+
+<CITATION party2="UNITED STATES" party1="TA CHEN STAINLESS STEEL PIPE, LTD." citation_global_level_id="16017.001" party2_short="STATES" line="1" id="129600_3" alternative_keys="['u.s._538_1031']" end="69" entry_type="party_key" lookup_key="pipestates#1" id1="129600" start="18" party1_short="PIPE" citation_local_level_id="1" >TA CHEN STAINLESS STEEL PIPE, LTD. v. UNITED STATES</CITATION>
+
+<NAME end="52" start="18" party1_of="129600_3" all_names="TA CHEN STAINLESS STEEL PIPE LTD" local_name_id="1" id="129600_4" >TA CHEN STAINLESS STEEL PIPE, LTD.</NAME>
+
+<ORGANIZATION start="18" end="51" id="129600_7" >TA CHEN STAINLESS STEEL PIPE, LTD</ORGANIZATION>
+
+<NAME end="69" start="56" all_names="UNITED STATES" party2_of="129600_3" local_name_id="2" id="129600_5" >UNITED STATES</NAME>
+
+<DOCKET end="86" entry_type="docket" lookup_key="u.s._538_1031" id1="129592" start="79" citation_global_level_id="201.002" line="1" id="129600_2" citation_local_level_id="0" >02-1141</DOCKET>
+
+<DATE start="128" end="140" id="129600_6" >May 19, 2003</DATE>
+
+<NAME start="261" local_name_id="3" end="270" id="129600_14" all_names="C A FED" >C. A. Fed</NAME>
+
+<NAME start="272" local_name_id="4" end="275" id="129600_15" all_names="CIR" >Cir</NAME>
+
+<CITATION end="326" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_298_1330" id1="Dummy_File_116932" volume="298" start="312" page_number="1330" standard_reporter="F.3D" citation_global_level_id="180782.001" line="3" id="129600_13" citation_local_level_id="2" >298 F. 3d 1330</CITATION>
+
+<RELATION theme="129600_1" includes_docket_string="02-1141" includes_docket="129600_2" theme_string="538 U.S. 1031" gram_type="apposition" relation_type="asymmetric" id="129600_12" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1031" X_vs_Y_string="TA CHEN STAINLESS STEEL PIPE, LTD. v. UNITED STATES" standard_case="129600_1" X_vs_Y="129600_3" gram_type="pre_nom" relation_type="equivalence" id="129600_8" ></RELATION>
+
+<RELATION theme="129600_3" includes_docket_string="02-1141" includes_docket="129600_2" theme_string="TA CHEN STAINLESS STEEL PIPE, LTD. v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="129600_11" ></RELATION>
+
+<RELATION party2="129600_5" theme="129600_3" theme_string="TA CHEN STAINLESS STEEL PIPE, LTD. v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="129600_10" ></RELATION>
+
+<RELATION theme="129600_3" party1="129600_4" party1_string="TA CHEN STAINLESS STEEL PIPE, LTD." theme_string="TA CHEN STAINLESS STEEL PIPE, LTD. v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="129600_9" ></RELATION>
+

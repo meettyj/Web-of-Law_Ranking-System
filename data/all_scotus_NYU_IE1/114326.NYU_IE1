@@ -1,0 +1,58 @@
+<CITATION alternative_keys="['ruppdepartment#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_912" id1="114320" volume="510" start="0" page_number="912" standard_reporter="U.S." citation_global_level_id="10920.002" line="1" id="114326_1" citation_local_level_id="0" >510 U.S. 912</CITATION>
+
+<CITATION party2="Department of Health and Human Services" party1="Rupp" citation_global_level_id="35743.001" party2_short="Department" line="1" id="114326_3" alternative_keys="['u.s._510_912']" end="64" entry_type="party_key" lookup_key="ruppdepartment#2" id1="114326" start="17" party1_short="Rupp" citation_local_level_id="1" >Rupp v. Department of Health and Human Services</CITATION>
+
+<NAME end="21" start="17" party1_of="114326_3" all_names="RUPP" local_name_id="1" id="114326_4" >Rupp</NAME>
+
+<NAME end="64" start="25" all_names="DEPARTMENT OF HEALTH AND HUMAN SERVICES" party2_of="114326_3" local_name_id="2" id="114326_5" >Department of Health and Human Services</NAME>
+
+<DOCKET end="81" entry_type="docket" lookup_key="u.s._510_912" id1="114320" start="74" citation_global_level_id="10920.002" line="1" id="114326_2" citation_local_level_id="0" >93-5722</DOCKET>
+
+<DATE start="123" end="139" id="114326_6" >October 12, 1993</DATE>
+
+<LEGAL_ROLE start="190" end="210" id="114326_13" >Motion of petitioner</LEGAL_ROLE>
+
+<LEGAL_ROLE start="258" end="268" id="114326_14" >Petitioner</LEGAL_ROLE>
+
+<DATE start="286" end="302" id="114326_12" >November 2, 1993</DATE>
+
+<NAME start="354" local_name_id="3" end="358" id="114326_15" all_names="RULE" >Rule</NAME>
+
+<NAME start="409" local_name_id="4" end="429" id="114326_16" all_names="RULE 33 OF THE RULES" >Rule 33 of the Rules</NAME>
+
+<ORGANIZATION start="438" end="443" id="114326_17" >Court</ORGANIZATION>
+
+<PROFESSION start="516" document_level_name_id="5" end="544" id="114326_18" party="STEVENS" >JUSTICE BLACKMUN and JUSTICE</PROFESSION>
+
+<NAME start="545" local_name_id="5" end="552" id="114326_19" all_names="STEVENS" >STEVENS</NAME>
+
+<CITATION party2="Herald Co" party1="Brown" citation_global_level_id="37290.001" party2_short="Herald" line="7" id="114326_22" alternative_keys="['u.s._464_928']" end="638" entry_type="party_key" lookup_key="brownherald#1" id1="111075" start="620" party1_short="Brown" citation_local_level_id="2" >Brown v. Herald Co</CITATION>
+
+<NAME end="625" start="620" party1_of="114326_22" all_names="BROWN" local_name_id="6" id="114326_23" >Brown</NAME>
+
+<NAME end="638" start="629" all_names="HERALD CO" party2_of="114326_22" local_name_id="7" id="114326_24" >Herald Co</NAME>
+
+<CITATION alternative_keys="['brownherald#1']" end="660" reporter="U.S." entry_type="standard_key" lookup_key="u.s._464_928" id1="111075" volume="464" start="641" page_number="928" year="1983" standard_reporter="U.S." citation_global_level_id="37290.002" line="7" id="114326_21" citation_local_level_id="3" >464 U.S. 928 (1983)</CITATION>
+
+<DATE start="655" citation_global_level_id="37290.002" end="659" id="114326_25" citation_local_level_id="3" >1983</DATE>
+
+<RELATION theme="114326_1" includes_docket_string="93-5722" includes_docket="114326_2" theme_string="510 U.S. 912" gram_type="apposition" relation_type="asymmetric" id="114326_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 912" X_vs_Y_string="Rupp v. Department of Health and Human Services" standard_case="114326_1" X_vs_Y="114326_3" gram_type="pre_nom" relation_type="equivalence" id="114326_7" ></RELATION>
+
+<RELATION theme="114326_3" includes_docket_string="93-5722" includes_docket="114326_2" theme_string="Rupp v. Department of Health and Human Services" gram_type="apposition" relation_type="asymmetric" id="114326_10" ></RELATION>
+
+<RELATION theme="114326_3" party1="114326_4" party1_string="Rupp" theme_string="Rupp v. Department of Health and Human Services" gram_type="infix" relation_type="asymmetric" id="114326_8" ></RELATION>
+
+<RELATION party2="114326_5" theme="114326_3" theme_string="Rupp v. Department of Health and Human Services" party2_string="Department of Health and Human Services" gram_type="infix" relation_type="asymmetric" id="114326_9" ></RELATION>
+
+<RELATION theme="114326_19" profession_string="JUSTICE BLACKMUN and JUSTICE" theme_string="STEVENS" profession="114326_18" gram_type="pre_nom" relation_type="asymmetric" id="114326_20" ></RELATION>
+
+<RELATION standard_case_string="464 U.S. 928 (1983)" X_vs_Y_string="Brown v. Herald Co" standard_case="114326_21" X_vs_Y="114326_22" gram_type="apposition" relation_type="equivalence" id="114326_28" ></RELATION>
+
+<RELATION theme="114326_22" party1="114326_23" party1_string="Brown" theme_string="Brown v. Herald Co" gram_type="infix" relation_type="asymmetric" id="114326_26" ></RELATION>
+
+<RELATION party2="114326_24" theme="114326_22" theme_string="Brown v. Herald Co" party2_string="Herald Co" gram_type="infix" relation_type="asymmetric" id="114326_27" ></RELATION>
+
+<RELATION at_date_string="1983" theme="114326_21" at_date="114326_25" theme_string="464 U.S. 928 (1983)" gram_type="infix" relation_type="asymmetric" id="114326_29" ></RELATION>
+

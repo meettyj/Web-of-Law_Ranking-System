@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['pittmancarolina#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_871" id1="123147" volume="537" start="0" page_number="871" standard_reporter="U.S." citation_global_level_id="4060.002" line="1" id="123147_1" citation_local_level_id="0" >537 U.S. 871</CITATION>
+
+<CITATION party2="NORTH CAROLINA" party1="PITTMAN" citation_global_level_id="4060.001" party2_short="CAROLINA" line="1" id="123147_3" alternative_keys="['u.s._537_871']" end="42" entry_type="party_key" lookup_key="pittmancarolina#1" id1="123147" start="17" party1_short="PITTMAN" citation_local_level_id="1" >PITTMAN v. NORTH CAROLINA</CITATION>
+
+<NAME end="24" start="17" party1_of="123147_3" all_names="PITTMAN" local_name_id="1" id="123147_4" >PITTMAN</NAME>
+
+<NAME end="42" start="28" all_names="NORTH CAROLINA" party2_of="123147_3" local_name_id="2" id="123147_5" >NORTH CAROLINA</NAME>
+
+<DOCKET end="60" entry_type="docket" lookup_key="u.s._537_871" id1="123147" start="52" citation_global_level_id="4060.002" line="1" id="123147_2" citation_local_level_id="0" >01-10916</DOCKET>
+
+<DATE start="102" end="117" id="123147_6" >October 7, 2002</DATE>
+
+<PROFESSION start="266" end="269" id="123147_12" >Gen</PROFESSION>
+
+<NAME start="271" local_name_id="3" end="273" id="123147_13" all_names="CT" >Ct</NAME>
+
+<PROFESSION start="275" document_level_name_id="3" end="289" id="123147_14" party="CT" >Justice, Super</PROFESSION>
+
+<NAME start="291" local_name_id="3" end="293" id="123147_15" all_names="CT" >Ct</NAME>
+
+<RELATION theme="123147_1" includes_docket_string="01-10916" includes_docket="123147_2" theme_string="537 U.S. 871" gram_type="apposition" relation_type="asymmetric" id="123147_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 871" X_vs_Y_string="PITTMAN v. NORTH CAROLINA" standard_case="123147_1" X_vs_Y="123147_3" gram_type="pre_nom" relation_type="equivalence" id="123147_7" ></RELATION>
+
+<RELATION theme="123147_3" includes_docket_string="01-10916" includes_docket="123147_2" theme_string="PITTMAN v. NORTH CAROLINA" gram_type="apposition" relation_type="asymmetric" id="123147_10" ></RELATION>
+
+<RELATION theme="123147_3" party1="123147_4" party1_string="PITTMAN" theme_string="PITTMAN v. NORTH CAROLINA" gram_type="infix" relation_type="asymmetric" id="123147_8" ></RELATION>
+
+<RELATION party2="123147_5" theme="123147_3" theme_string="PITTMAN v. NORTH CAROLINA" party2_string="NORTH CAROLINA" gram_type="infix" relation_type="asymmetric" id="123147_9" ></RELATION>
+
+<RELATION theme="123147_13" profession_string="Justice, Super" theme_string="Ct" profession="123147_14" gram_type="apposition" relation_type="asymmetric" id="123147_16" ></RELATION>
+

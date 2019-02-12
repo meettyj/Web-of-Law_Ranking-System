@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['thornstates#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1064" id1="130055" volume="538" start="0" page_number="1064" standard_reporter="U.S." citation_global_level_id="2781.002" line="1" id="130048_1" citation_local_level_id="0" >538 U.S. 1064</CITATION>
+
+<CITATION party2="UNITED STATES" party1="THORN" citation_global_level_id="60473.001" party2_short="STATES" line="1" id="130048_3" alternative_keys="['u.s._538_1064']" end="40" entry_type="party_key" lookup_key="thornstates#2" id1="130048" start="18" party1_short="THORN" citation_local_level_id="1" >THORN v. UNITED STATES</CITATION>
+
+<NAME end="23" start="18" party1_of="130048_3" all_names="THORN" local_name_id="1" id="130048_4" >THORN</NAME>
+
+<NAME end="40" start="27" all_names="UNITED STATES" party2_of="130048_3" local_name_id="2" id="130048_5" >UNITED STATES</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._538_1064" id1="130055" start="50" citation_global_level_id="2781.002" line="1" id="130048_2" citation_local_level_id="0" >02-10065</DOCKET>
+
+<DATE start="100" end="112" id="130048_6" >May 27, 2003</DATE>
+
+<NAME start="241" local_name_id="3" end="244" id="130048_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="294" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_317_107" id1="Dummy_File_124791" volume="317" start="281" page_number="107" standard_reporter="F.3D" citation_global_level_id="188641.001" line="3" id="130048_12" citation_local_level_id="2" >317 F. 3d 107</CITATION>
+
+<RELATION theme="130048_1" includes_docket_string="02-10065" includes_docket="130048_2" theme_string="538 U.S. 1064" gram_type="apposition" relation_type="asymmetric" id="130048_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1064" X_vs_Y_string="THORN v. UNITED STATES" standard_case="130048_1" X_vs_Y="130048_3" gram_type="pre_nom" relation_type="equivalence" id="130048_7" ></RELATION>
+
+<RELATION theme="130048_3" includes_docket_string="02-10065" includes_docket="130048_2" theme_string="THORN v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="130048_10" ></RELATION>
+
+<RELATION theme="130048_3" party1="130048_4" party1_string="THORN" theme_string="THORN v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="130048_8" ></RELATION>
+
+<RELATION party2="130048_5" theme="130048_3" theme_string="THORN v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="130048_9" ></RELATION>
+

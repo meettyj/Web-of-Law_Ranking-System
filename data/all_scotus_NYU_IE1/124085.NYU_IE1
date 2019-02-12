@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['burkestates#3']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_940" id1="124095" volume="537" start="0" page_number="940" standard_reporter="U.S." citation_global_level_id="4428.002" line="1" id="124085_1" citation_local_level_id="0" >537 U.S. 940</CITATION>
+
+<CITATION party2="UNITED STATES" party1="BURKE" citation_global_level_id="56855.001" party2_short="STATES" line="1" id="124085_3" alternative_keys="['u.s._537_940']" end="39" entry_type="party_key" lookup_key="burkestates#3" id1="135375" start="17" party1_short="BURKE" citation_local_level_id="1" >BURKE v. UNITED STATES</CITATION>
+
+<NAME end="22" start="17" party1_of="124085_3" all_names="BURKE" local_name_id="1" id="124085_4" >BURKE</NAME>
+
+<NAME end="39" start="26" all_names="UNITED STATES" party2_of="124085_3" local_name_id="2" id="124085_5" >UNITED STATES</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._537_940" id1="124095" start="49" citation_global_level_id="4428.002" line="1" id="124085_2" citation_local_level_id="0" >02-6113</DOCKET>
+
+<DATE start="98" end="113" id="124085_6" >October 7, 2002</DATE>
+
+<NAME start="246" local_name_id="3" end="249" id="124085_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="300" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_257_1321" id1="Dummy_File_184819" volume="257" start="286" page_number="1321" standard_reporter="F.3D" citation_global_level_id="248669.001" line="3" id="124085_12" citation_local_level_id="2" >257 F. 3d 1321</CITATION>
+
+<RELATION theme="124085_1" includes_docket_string="02-6113" includes_docket="124085_2" theme_string="537 U.S. 940" gram_type="apposition" relation_type="asymmetric" id="124085_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 940" X_vs_Y_string="BURKE v. UNITED STATES" standard_case="124085_1" X_vs_Y="124085_3" gram_type="pre_nom" relation_type="equivalence" id="124085_7" ></RELATION>
+
+<RELATION theme="124085_3" includes_docket_string="02-6113" includes_docket="124085_2" theme_string="BURKE v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="124085_10" ></RELATION>
+
+<RELATION theme="124085_3" party1="124085_4" party1_string="BURKE" theme_string="BURKE v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="124085_8" ></RELATION>
+
+<RELATION party2="124085_5" theme="124085_3" theme_string="BURKE v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="124085_9" ></RELATION>
+

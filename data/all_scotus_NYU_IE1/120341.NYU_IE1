@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['yarbroughvirginia#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1060" id1="120349" volume="535" start="0" page_number="1060" standard_reporter="U.S." citation_global_level_id="2284.002" line="1" id="120341_1" citation_local_level_id="0" >535 U.S. 1060</CITATION>
+
+<CITATION party2="VIRGINIA" party1="YARBROUGH" citation_global_level_id="48220.001" party2_short="VIRGINIA" line="2" id="120341_3" alternative_keys="['u.s._535_1060']" end="39" entry_type="party_key" lookup_key="yarbroughvirginia#1" id1="120341" start="18" party1_short="YARBROUGH" citation_local_level_id="1" >YARBROUGH v. VIRGINIA</CITATION>
+
+<NAME end="27" start="18" party1_of="120341_3" all_names="YARBROUGH" local_name_id="1" id="120341_4" >YARBROUGH</NAME>
+
+<NAME end="39" start="31" all_names="VIRGINIA" party2_of="120341_3" local_name_id="2" id="120341_5" >VIRGINIA</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="yarbroughvirginia#1" id1="120341" start="49" citation_global_level_id="48220.001" line="2" id="120341_2" citation_local_level_id="1" >01-8822</DOCKET>
+
+<DATE start="102" citation_global_level_id="48220.001" end="114" id="120341_9" citation_local_level_id="1" >May 13, 2002</DATE>
+
+<NAME start="136" local_name_id="3" end="139" id="120341_14" all_names="SUP" >Sup</NAME>
+
+<CITATION end="195" reporter="Va." entry_type="standard_key" no_current_file="True" lookup_key="va._262_388" id1="Dummy_File_38113" volume="262" start="184" page_number="388" standard_reporter="VA." citation_global_level_id="101963.001" line="7" id="120341_12" citation_local_level_id="2" >262 Va. 388</CITATION>
+
+<CITATION end="213" reporter="S. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="s.e.2d_551_306" id1="Dummy_File_38114" volume="551" start="197" page_number="306" standard_reporter="S.E.2D" citation_global_level_id="101964.001" line="7" id="120341_13" citation_local_level_id="3" >551 S. E. 2d 306</CITATION>
+
+<RELATION theme="120341_3" includes_docket_string="01-8822" includes_docket="120341_2" theme_string="YARBROUGH v. VIRGINIA" gram_type="apposition" relation_type="asymmetric" id="120341_8" ></RELATION>
+
+<RELATION theme="120341_3" party1="120341_4" party1_string="YARBROUGH" theme_string="YARBROUGH v. VIRGINIA" gram_type="infix" relation_type="asymmetric" id="120341_6" ></RELATION>
+
+<RELATION party2="120341_5" theme="120341_3" theme_string="YARBROUGH v. VIRGINIA" party2_string="VIRGINIA" gram_type="infix" relation_type="asymmetric" id="120341_7" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1060" X_vs_Y_string="YARBROUGH v. VIRGINIA" standard_case="120341_1" X_vs_Y="120341_3" gram_type="multi_line" relation_type="equivalence" id="120341_10" ></RELATION>
+
+<RELATION at_date_string="May 13, 2002" theme="120341_3" at_date="120341_9" theme_string="YARBROUGH v. VIRGINIA" gram_type="multi_line" relation_type="asymmetric" id="120341_11" ></RELATION>
+

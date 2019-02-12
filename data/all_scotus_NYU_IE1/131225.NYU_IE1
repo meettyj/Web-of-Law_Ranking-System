@@ -1,0 +1,34 @@
+<CITATION alternative_keys="['washingtontrust#4']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_808" id1="131221" volume="540" start="0" page_number="808" standard_reporter="U.S." citation_global_level_id="9870.002" line="1" id="131225_1" citation_local_level_id="0" >540 U.S. 808</CITATION>
+
+<CITATION party2="STATE STREET BANK &amp; TRUST CO. ET AL" party1="WASHINGTON" citation_global_level_id="2100.004" party2_short="TRUST" line="1" id="131225_3" alternative_keys="['u.s._535_960']" end="66" entry_type="party_key" lookup_key="washingtontrust#4" id1="119141" start="17" party1_short="WASHINGTON" citation_local_level_id="1" >WASHINGTON v. STATE STREET BANK &amp; TRUST CO. ET AL</CITATION>
+
+<NAME end="27" start="17" party1_of="131225_3" all_names="WASHINGTON" local_name_id="1" id="131225_4" >WASHINGTON</NAME>
+
+<NAME end="66" start="31" all_names="STATE STREET BANK &amp; TRUST CO" party2_of="131225_3" local_name_id="2" id="131225_5" >STATE STREET BANK &amp; TRUST CO. ET AL</NAME>
+
+<DOCKET end="84" entry_type="docket" lookup_key="u.s._540_808" id1="131221" start="76" citation_global_level_id="9870.002" line="1" id="131225_2" citation_local_level_id="0" >02-11062</DOCKET>
+
+<DATE start="126" end="141" id="131225_6" >October 6, 2003</DATE>
+
+<LEGAL_ROLE start="219" end="239" id="131225_13" >Motion of petitioner</LEGAL_ROLE>
+
+<LEGAL_ROLE start="287" end="297" id="131225_14" >Petitioner</LEGAL_ROLE>
+
+<DATE start="315" end="331" id="131225_12" >October 27, 2003</DATE>
+
+<NAME start="383" local_name_id="3" end="387" id="131225_15" all_names="RULE" >Rule</NAME>
+
+<NAME start="438" local_name_id="4" end="460" id="131225_16" all_names="RULE 331 OF THE RULES" >Rule 33.1 of the Rules</NAME>
+
+<ORGANIZATION start="469" end="474" id="131225_17" >Court</ORGANIZATION>
+
+<RELATION theme="131225_1" includes_docket_string="02-11062" includes_docket="131225_2" theme_string="540 U.S. 808" gram_type="apposition" relation_type="asymmetric" id="131225_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 808" X_vs_Y_string="WASHINGTON v. STATE STREET BANK &amp; TRUST CO. ET AL" standard_case="131225_1" X_vs_Y="131225_3" gram_type="pre_nom" relation_type="equivalence" id="131225_7" ></RELATION>
+
+<RELATION theme="131225_3" includes_docket_string="02-11062" includes_docket="131225_2" theme_string="WASHINGTON v. STATE STREET BANK &amp; TRUST CO. ET AL" gram_type="apposition" relation_type="asymmetric" id="131225_10" ></RELATION>
+
+<RELATION theme="131225_3" party1="131225_4" party1_string="WASHINGTON" theme_string="WASHINGTON v. STATE STREET BANK &amp; TRUST CO. ET AL" gram_type="infix" relation_type="asymmetric" id="131225_8" ></RELATION>
+
+<RELATION party2="131225_5" theme="131225_3" theme_string="WASHINGTON v. STATE STREET BANK &amp; TRUST CO. ET AL" party2_string="STATE STREET BANK &amp; TRUST CO. ET AL" gram_type="infix" relation_type="asymmetric" id="131225_9" ></RELATION>
+

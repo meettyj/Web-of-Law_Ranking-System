@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['lockhartstates#7']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1079" id1="141329" volume="543" start="0" page_number="1079" standard_reporter="U.S." citation_global_level_id="9891.002" line="1" id="141336_1" citation_local_level_id="0" >543 U.S. 1079</CITATION>
+
+<CITATION party2="UNITED STATES" party1="LOCKHART" citation_global_level_id="58033.001" party2_short="STATES" line="2" id="141336_2" alternative_keys="['u.s._543_1079']" end="43" entry_type="party_key" lookup_key="lockhartstates#7" id1="144170" start="18" party1_short="LOCKHART" citation_local_level_id="1" >LOCKHART v. UNITED STATES</CITATION>
+
+<NAME end="26" start="18" party1_of="141336_2" all_names="LOCKHART" local_name_id="1" id="141336_3" >LOCKHART</NAME>
+
+<NAME end="43" start="30" all_names="UNITED STATES" party2_of="141336_2" local_name_id="2" id="141336_4" >UNITED STATES</NAME>
+
+<DOCKET end="60" entry_type="docket" lookup_key="lockhartstates#7" id1="144170" start="53" citation_global_level_id="58033.001" line="3" id="141336_7" citation_local_level_id="1" >04-7597</DOCKET>
+
+<ORGANIZATION start="66" end="96" id="141336_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="102" citation_global_level_id="58033.001" end="118" id="141336_9" citation_local_level_id="1" >January 10, 2005</DATE>
+
+<NAME start="150" local_name_id="3" end="153" id="141336_14" all_names="CIR" >Cir</NAME>
+
+<CITATION end="203" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_382_447" id1="Dummy_File_110225" volume="382" start="190" page_number="447" standard_reporter="F.3D" citation_global_level_id="174075.001" line="8" id="141336_13" citation_local_level_id="2" >382 F. 3d 447</CITATION>
+
+<RELATION theme="141336_2" party1="141336_3" party1_string="LOCKHART" theme_string="LOCKHART v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="141336_5" ></RELATION>
+
+<RELATION party2="141336_4" theme="141336_2" theme_string="LOCKHART v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="141336_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1079" X_vs_Y_string="LOCKHART v. UNITED STATES" standard_case="141336_1" X_vs_Y="141336_2" gram_type="multi_line" relation_type="equivalence" id="141336_10" ></RELATION>
+
+<RELATION at_date_string="January 10, 2005" theme="141336_2" at_date="141336_9" theme_string="LOCKHART v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="141336_12" ></RELATION>
+
+<RELATION theme="141336_2" includes_docket_string="04-7597" includes_docket="141336_7" theme_string="LOCKHART v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="141336_11" ></RELATION>
+

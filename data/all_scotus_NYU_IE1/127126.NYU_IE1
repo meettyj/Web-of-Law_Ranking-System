@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['hawkinscalifornia#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1189" id1="127127" volume="537" start="0" page_number="1189" standard_reporter="U.S." citation_global_level_id="1487.002" line="1" id="127126_1" citation_local_level_id="0" >537 U.S. 1189</CITATION>
+
+<CITATION party2="CALIFORNIA" party1="HAWKINS" citation_global_level_id="33405.001" party2_short="CALIFORNIA" line="1" id="127126_3" alternative_keys="['u.s._537_1189']" end="39" entry_type="party_key" lookup_key="hawkinscalifornia#2" id1="127126" start="18" party1_short="HAWKINS" citation_local_level_id="1" >HAWKINS v. CALIFORNIA</CITATION>
+
+<NAME end="25" start="18" party1_of="127126_3" all_names="HAWKINS" local_name_id="1" id="127126_4" >HAWKINS</NAME>
+
+<NAME end="39" start="29" all_names="CALIFORNIA" party2_of="127126_3" local_name_id="2" id="127126_5" >CALIFORNIA</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._537_1189" id1="127127" start="49" citation_global_level_id="1487.002" line="1" id="127126_2" citation_local_level_id="0" >02-818</DOCKET>
+
+<DATE start="97" end="114" id="127126_6" >February 24, 2003</DATE>
+
+<NAME start="244" local_name_id="3" end="246" id="127126_13" all_names="CT" >Ct</NAME>
+
+<CITATION end="353" reporter="Cal. Rptr. 2d" entry_type="standard_key" no_current_file="True" lookup_key="cal.rptr.2d_121_627" id1="Dummy_File_67887" volume="121" start="332" page_number="627" standard_reporter="CAL.RPTR.2D" citation_global_level_id="131737.001" line="3" id="127126_12" citation_local_level_id="2" >121 Cal. Rptr. 2d 627</CITATION>
+
+<RELATION theme="127126_1" includes_docket_string="02-818" includes_docket="127126_2" theme_string="537 U.S. 1189" gram_type="apposition" relation_type="asymmetric" id="127126_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1189" X_vs_Y_string="HAWKINS v. CALIFORNIA" standard_case="127126_1" X_vs_Y="127126_3" gram_type="pre_nom" relation_type="equivalence" id="127126_7" ></RELATION>
+
+<RELATION theme="127126_3" includes_docket_string="02-818" includes_docket="127126_2" theme_string="HAWKINS v. CALIFORNIA" gram_type="apposition" relation_type="asymmetric" id="127126_10" ></RELATION>
+
+<RELATION theme="127126_3" party1="127126_4" party1_string="HAWKINS" theme_string="HAWKINS v. CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="127126_8" ></RELATION>
+
+<RELATION party2="127126_5" theme="127126_3" theme_string="HAWKINS v. CALIFORNIA" party2_string="CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="127126_9" ></RELATION>
+

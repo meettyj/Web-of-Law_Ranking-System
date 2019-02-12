@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['pottswarden#4']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1159" id1="142371" volume="543" start="0" page_number="1159" standard_reporter="U.S." citation_global_level_id="495.002" line="1" id="142368_1" citation_local_level_id="0" >543 U.S. 1159</CITATION>
+
+<CITATION party2="ROSE, WARDEN" party1="POTTS" citation_global_level_id="59475.001" party2_short="WARDEN" line="2" id="142368_2" alternative_keys="['u.s._543_1159']" end="39" entry_type="party_key" lookup_key="pottswarden#4" id1="135063" start="18" party1_short="POTTS" citation_local_level_id="1" >POTTS v. ROSE, WARDEN</CITATION>
+
+<NAME end="23" start="18" party1_of="142368_2" all_names="POTTS" local_name_id="1" id="142368_3" >POTTS</NAME>
+
+<NAME end="39" start="27" all_names="ROSE WARDEN" party2_of="142368_2" local_name_id="2" id="142368_4" >ROSE, WARDEN</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="pottswarden#4" id1="135063" start="49" citation_global_level_id="59475.001" line="3" id="142368_7" citation_local_level_id="1" >04-7584</DOCKET>
+
+<ORGANIZATION start="62" end="92" id="142368_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="98" citation_global_level_id="59475.001" end="115" id="142368_9" citation_local_level_id="1" >February 22, 2005</DATE>
+
+<NAME start="137" local_name_id="3" end="140" id="142368_13" all_names="SUP" >Sup</NAME>
+
+<RELATION theme="142368_2" party1="142368_3" party1_string="POTTS" theme_string="POTTS v. ROSE, WARDEN" gram_type="infix" relation_type="asymmetric" id="142368_5" ></RELATION>
+
+<RELATION party2="142368_4" theme="142368_2" theme_string="POTTS v. ROSE, WARDEN" party2_string="ROSE, WARDEN" gram_type="infix" relation_type="asymmetric" id="142368_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1159" X_vs_Y_string="POTTS v. ROSE, WARDEN" standard_case="142368_1" X_vs_Y="142368_2" gram_type="multi_line" relation_type="equivalence" id="142368_10" ></RELATION>
+
+<RELATION at_date_string="February 22, 2005" theme="142368_2" at_date="142368_9" theme_string="POTTS v. ROSE, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="142368_12" ></RELATION>
+
+<RELATION theme="142368_2" includes_docket_string="04-7584" includes_docket="142368_7" theme_string="POTTS v. ROSE, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="142368_11" ></RELATION>
+

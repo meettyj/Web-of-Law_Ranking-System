@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['mcmanuscrawford#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_932" id1="118742" volume="535" start="0" page_number="932" standard_reporter="U.S." citation_global_level_id="4125.002" line="1" id="118741_1" citation_local_level_id="0" >535 U.S. 932</CITATION>
+
+<CITATION party2="CRAWFORD" party1="MCMANUS" citation_global_level_id="26463.001" party2_short="CRAWFORD" line="2" id="118741_2" alternative_keys="['u.s._535_932']" end="36" entry_type="party_key" lookup_key="mcmanuscrawford#1" id1="118741" start="17" party1_short="MCMANUS" citation_local_level_id="1" >MCMANUS v. CRAWFORD</CITATION>
+
+<NAME end="24" start="17" party1_of="118741_2" all_names="MCMANUS" local_name_id="1" id="118741_3" >MCMANUS</NAME>
+
+<NAME end="36" start="28" all_names="CRAWFORD" party2_of="118741_2" local_name_id="2" id="118741_4" >CRAWFORD</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="mcmanuscrawford#1" id1="118741" start="46" citation_global_level_id="26463.001" line="3" id="118741_7" citation_local_level_id="1" >01-1093</DOCKET>
+
+<DATE start="99" citation_global_level_id="26463.001" end="113" id="118741_8" citation_local_level_id="1" >March 18, 2002</DATE>
+
+<NAME start="135" local_name_id="3" end="137" id="118741_12" all_names="CT" >Ct</NAME>
+
+<RELATION theme="118741_2" party1="118741_3" party1_string="MCMANUS" theme_string="MCMANUS v. CRAWFORD" gram_type="infix" relation_type="asymmetric" id="118741_5" ></RELATION>
+
+<RELATION party2="118741_4" theme="118741_2" theme_string="MCMANUS v. CRAWFORD" party2_string="CRAWFORD" gram_type="infix" relation_type="asymmetric" id="118741_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 932" X_vs_Y_string="MCMANUS v. CRAWFORD" standard_case="118741_1" X_vs_Y="118741_2" gram_type="multi_line" relation_type="equivalence" id="118741_9" ></RELATION>
+
+<RELATION at_date_string="March 18, 2002" theme="118741_2" at_date="118741_8" theme_string="MCMANUS v. CRAWFORD" gram_type="multi_line" relation_type="asymmetric" id="118741_11" ></RELATION>
+
+<RELATION theme="118741_2" includes_docket_string="01-1093" includes_docket="118741_7" theme_string="MCMANUS v. CRAWFORD" gram_type="multi_line" relation_type="asymmetric" id="118741_10" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['collinsbank#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1150" id1="126746" volume="537" start="0" page_number="1150" standard_reporter="U.S." citation_global_level_id="146.002" line="1" id="126752_1" citation_local_level_id="0" >537 U.S. 1150</CITATION>
+
+<CITATION party2="FCC/NATIONAL BANK" party1="COLLINS ET AL." citation_global_level_id="7616.001" party2_short="BANK" line="2" id="126752_2" alternative_keys="['u.s._537_1150']" end="53" entry_type="party_key" lookup_key="collinsbank#1" id1="125222" start="18" party1_short="COLLINS" citation_local_level_id="1" >COLLINS ET AL. v. FCC/NATIONAL BANK</CITATION>
+
+<NAME end="32" start="18" party1_of="126752_2" all_names="COLLINS" local_name_id="1" id="126752_3" >COLLINS ET AL.</NAME>
+
+<NAME end="53" start="36" all_names="FCC/NATIONAL BANK" party2_of="126752_2" local_name_id="2" id="126752_4" >FCC/NATIONAL BANK</NAME>
+
+<DOCKET end="85" entry_type="docket" lookup_key="collinsbank#1" id1="125222" start="78" citation_global_level_id="7616.001" line="3" id="126752_7" citation_local_level_id="1" >02-6472</DOCKET>
+
+<ORGANIZATION start="91" end="121" id="126752_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="127" citation_global_level_id="7616.001" end="143" id="126752_9" citation_local_level_id="1" >January 13, 2003</DATE>
+
+<NAME start="165" local_name_id="3" end="173" id="126752_13" all_names="PETITION" >Petition</NAME>
+
+<RELATION theme="126752_2" party1="126752_3" party1_string="COLLINS ET AL." theme_string="COLLINS ET AL. v. FCC/NATIONAL BANK" gram_type="infix" relation_type="asymmetric" id="126752_5" ></RELATION>
+
+<RELATION party2="126752_4" theme="126752_2" theme_string="COLLINS ET AL. v. FCC/NATIONAL BANK" party2_string="FCC/NATIONAL BANK" gram_type="infix" relation_type="asymmetric" id="126752_6" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1150" X_vs_Y_string="COLLINS ET AL. v. FCC/NATIONAL BANK" standard_case="126752_1" X_vs_Y="126752_2" gram_type="multi_line" relation_type="equivalence" id="126752_10" ></RELATION>
+
+<RELATION at_date_string="January 13, 2003" theme="126752_2" at_date="126752_9" theme_string="COLLINS ET AL. v. FCC/NATIONAL BANK" gram_type="multi_line" relation_type="asymmetric" id="126752_12" ></RELATION>
+
+<RELATION theme="126752_2" includes_docket_string="02-6472" includes_docket="126752_7" theme_string="COLLINS ET AL. v. FCC/NATIONAL BANK" gram_type="multi_line" relation_type="asymmetric" id="126752_11" ></RELATION>
+

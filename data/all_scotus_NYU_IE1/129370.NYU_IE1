@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['insuranceinsurance#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1013" id1="129360" volume="538" start="0" page_number="1013" standard_reporter="U.S." citation_global_level_id="6670.002" line="1" id="129370_1" citation_local_level_id="0" >538 U.S. 1013</CITATION>
+
+<CITATION party2="ALLIANZ INSURANCE CO. ET AL" party1="CONTINENTAL INSURANCE CO." citation_global_level_id="53517.001" party2_short="INSURANCE" line="1" id="129370_3" alternative_keys="['u.s._538_1013']" end="74" entry_type="party_key" lookup_key="insuranceinsurance#2" id1="129370" start="18" party1_short="INSURANCE" citation_local_level_id="1" >CONTINENTAL INSURANCE CO. v. ALLIANZ INSURANCE CO. ET AL</CITATION>
+
+<NAME end="43" start="18" party1_of="129370_3" all_names="CONTINENTAL INSURANCE CO	ALLIANZ INSURANCE CO" local_name_id="1" id="129370_4" >CONTINENTAL INSURANCE CO.</NAME>
+
+<ORGANIZATION start="18" end="42" id="129370_7" >CONTINENTAL INSURANCE CO</ORGANIZATION>
+
+<NAME end="74" start="47" all_names="CONTINENTAL INSURANCE CO	ALLIANZ INSURANCE CO" party2_of="129370_3" local_name_id="1" id="129370_5" >ALLIANZ INSURANCE CO. ET AL</NAME>
+
+<DOCKET end="91" entry_type="docket" lookup_key="u.s._538_1013" id1="129360" start="84" citation_global_level_id="6670.002" line="1" id="129370_2" citation_local_level_id="0" >02-1275</DOCKET>
+
+<DATE start="133" end="144" id="129370_6" >May 5, 2003</DATE>
+
+<NAME start="273" local_name_id="2" end="276" id="129370_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="129370_1" includes_docket_string="02-1275" includes_docket="129370_2" theme_string="538 U.S. 1013" gram_type="apposition" relation_type="asymmetric" id="129370_12" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1013" X_vs_Y_string="CONTINENTAL INSURANCE CO. v. ALLIANZ INSURANCE CO. ET AL" standard_case="129370_1" X_vs_Y="129370_3" gram_type="pre_nom" relation_type="equivalence" id="129370_8" ></RELATION>
+
+<RELATION theme="129370_3" includes_docket_string="02-1275" includes_docket="129370_2" theme_string="CONTINENTAL INSURANCE CO. v. ALLIANZ INSURANCE CO. ET AL" gram_type="apposition" relation_type="asymmetric" id="129370_11" ></RELATION>
+
+<RELATION party2="129370_5" theme="129370_3" theme_string="CONTINENTAL INSURANCE CO. v. ALLIANZ INSURANCE CO. ET AL" party2_string="ALLIANZ INSURANCE CO. ET AL" gram_type="infix" relation_type="asymmetric" id="129370_10" ></RELATION>
+
+<RELATION theme="129370_3" party1="129370_4" party1_string="CONTINENTAL INSURANCE CO." theme_string="CONTINENTAL INSURANCE CO. v. ALLIANZ INSURANCE CO. ET AL" gram_type="infix" relation_type="asymmetric" id="129370_9" ></RELATION>
+

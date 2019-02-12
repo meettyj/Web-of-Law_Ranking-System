@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['tempestamotorola#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1057" id1="120306" volume="535" start="0" page_number="1057" standard_reporter="U.S." citation_global_level_id="3194.002" line="1" id="120305_1" citation_local_level_id="0" >535 U.S. 1057</CITATION>
+
+<CITATION party2="MOTOROLA, INC" party1="TEMPESTA" citation_global_level_id="63402.001" party2_short="MOTOROLA" line="2" id="120305_2" alternative_keys="['u.s._535_1057']" end="43" entry_type="party_key" lookup_key="tempestamotorola#1" id1="120305" start="18" party1_short="TEMPESTA" citation_local_level_id="1" >TEMPESTA v. MOTOROLA, INC</CITATION>
+
+<NAME end="26" start="18" party1_of="120305_2" all_names="TEMPESTA" local_name_id="1" id="120305_3" >TEMPESTA</NAME>
+
+<NAME end="43" start="30" all_names="MOTOROLA INC" party2_of="120305_2" local_name_id="2" id="120305_4" >MOTOROLA, INC</NAME>
+
+<DOCKET end="60" entry_type="docket" lookup_key="tempestamotorola#1" id1="120305" start="53" citation_global_level_id="63402.001" line="3" id="120305_7" citation_local_level_id="1" >01-1442</DOCKET>
+
+<DATE start="106" citation_global_level_id="63402.001" end="118" id="120305_8" citation_local_level_id="1" >May 13, 2002</DATE>
+
+<NAME start="150" local_name_id="3" end="153" id="120305_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="120305_2" party1="120305_3" party1_string="TEMPESTA" theme_string="TEMPESTA v. MOTOROLA, INC" gram_type="infix" relation_type="asymmetric" id="120305_5" ></RELATION>
+
+<RELATION party2="120305_4" theme="120305_2" theme_string="TEMPESTA v. MOTOROLA, INC" party2_string="MOTOROLA, INC" gram_type="infix" relation_type="asymmetric" id="120305_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1057" X_vs_Y_string="TEMPESTA v. MOTOROLA, INC" standard_case="120305_1" X_vs_Y="120305_2" gram_type="multi_line" relation_type="equivalence" id="120305_9" ></RELATION>
+
+<RELATION at_date_string="May 13, 2002" theme="120305_2" at_date="120305_8" theme_string="TEMPESTA v. MOTOROLA, INC" gram_type="multi_line" relation_type="asymmetric" id="120305_11" ></RELATION>
+
+<RELATION theme="120305_2" includes_docket_string="01-1442" includes_docket="120305_7" theme_string="TEMPESTA v. MOTOROLA, INC" gram_type="multi_line" relation_type="asymmetric" id="120305_10" ></RELATION>
+

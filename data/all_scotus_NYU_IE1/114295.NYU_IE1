@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['ohiodenune#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_907" id1="114294" volume="510" start="0" page_number="907" standard_reporter="U.S." citation_global_level_id="6242.002" line="1" id="114295_1" citation_local_level_id="0" >510 U.S. 907</CITATION>
+
+<CITATION party2="Denune et al" party1="Ohio" citation_global_level_id="24097.001" party2_short="Denune" line="1" id="114295_3" alternative_keys="['u.s._510_907']" end="37" entry_type="party_key" lookup_key="ohiodenune#1" id1="114295" start="17" party1_short="Ohio" citation_local_level_id="1" >Ohio v. Denune et al</CITATION>
+
+<NAME end="21" start="17" party1_of="114295_3" all_names="OHIO" local_name_id="1" id="114295_4" >Ohio</NAME>
+
+<NAME end="37" start="25" all_names="DENUNE" party2_of="114295_3" local_name_id="2" id="114295_5" >Denune et al</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="u.s._510_907" id1="114294" start="47" citation_global_level_id="6242.002" line="1" id="114295_2" citation_local_level_id="0" >92-2004</DOCKET>
+
+<DATE start="50" end="54" id="114295_6" >2004</DATE>
+
+<DATE start="96" end="111" id="114295_7" >October 4, 1993</DATE>
+
+<ORGANIZATION start="204" end="252" id="114295_15" >Motion of Ohio Prosecuting Attorneys Association</ORGANIZATION>
+
+<NAME start="305" local_name_id="3" end="315" id="114295_16" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="377" reporter="N. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.e.2d_612_768" id1="Dummy_File_154254" volume="612" start="361" page_number="768" standard_reporter="N.E.2D" citation_global_level_id="218104.001" line="3" id="114295_14" citation_local_level_id="2" >612 N. E. 2d 768</CITATION>
+
+<RELATION theme="114295_1" includes_docket_string="92-2004" includes_docket="114295_2" theme_string="510 U.S. 907" gram_type="apposition" relation_type="asymmetric" id="114295_12" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 907" X_vs_Y_string="Ohio v. Denune et al" standard_case="114295_1" X_vs_Y="114295_3" gram_type="pre_nom" relation_type="equivalence" id="114295_8" ></RELATION>
+
+<RELATION theme="114295_3" includes_docket_string="92-2004" includes_docket="114295_2" theme_string="Ohio v. Denune et al" gram_type="apposition" relation_type="asymmetric" id="114295_11" ></RELATION>
+
+<RELATION party2="114295_5" theme="114295_3" theme_string="Ohio v. Denune et al" party2_string="Denune et al" gram_type="infix" relation_type="asymmetric" id="114295_10" ></RELATION>
+
+<RELATION theme="114295_3" party1="114295_4" party1_string="Ohio" theme_string="Ohio v. Denune et al" gram_type="infix" relation_type="asymmetric" id="114295_9" ></RELATION>
+
+<RELATION at_date_string="2004" theme="114295_2" at_date="114295_6" theme_string="92-2004" gram_type="infix" relation_type="asymmetric" id="114295_13" ></RELATION>
+

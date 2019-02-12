@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['thompsonylst#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_848" id1="113494" volume="510" start="0" page_number="848" standard_reporter="U.S." citation_global_level_id="1332.002" line="1" id="113493_1" citation_local_level_id="0" >510 U.S. 848</CITATION>
+
+<CITATION party2="Ylst, Warden" party1="Thompson" citation_global_level_id="1332.003" party2_short="Ylst" line="1" id="113493_3" alternative_keys="['u.s._510_848']" end="41" entry_type="party_key" lookup_key="thompsonylst#1" id1="113494" start="17" party1_short="Thompson" citation_local_level_id="1" >Thompson v. Ylst, Warden</CITATION>
+
+<NAME end="25" start="17" party1_of="113493_3" all_names="THOMPSON" local_name_id="1" id="113493_4" >Thompson</NAME>
+
+<NAME end="41" start="29" all_names="YLST WARDEN" party2_of="113493_3" local_name_id="2" id="113493_5" >Ylst, Warden</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._510_848" id1="113494" start="51" citation_global_level_id="1332.002" line="1" id="113493_2" citation_local_level_id="0" >92-9050</DOCKET>
+
+<DATE start="100" end="115" id="113493_6" >October 4, 1993</DATE>
+
+<NAME start="193" local_name_id="3" end="203" id="113493_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="242" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_990_1260" id1="Dummy_File_2210" volume="990" start="228" page_number="1260" standard_reporter="F.2D" citation_global_level_id="66060.001" line="3" id="113493_12" citation_local_level_id="2" >990 F. 2d 1260</CITATION>
+
+<RELATION theme="113493_1" includes_docket_string="92-9050" includes_docket="113493_2" theme_string="510 U.S. 848" gram_type="apposition" relation_type="asymmetric" id="113493_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 848" X_vs_Y_string="Thompson v. Ylst, Warden" standard_case="113493_1" X_vs_Y="113493_3" gram_type="pre_nom" relation_type="equivalence" id="113493_7" ></RELATION>
+
+<RELATION theme="113493_3" includes_docket_string="92-9050" includes_docket="113493_2" theme_string="Thompson v. Ylst, Warden" gram_type="apposition" relation_type="asymmetric" id="113493_10" ></RELATION>
+
+<RELATION theme="113493_3" party1="113493_4" party1_string="Thompson" theme_string="Thompson v. Ylst, Warden" gram_type="infix" relation_type="asymmetric" id="113493_8" ></RELATION>
+
+<RELATION party2="113493_5" theme="113493_3" theme_string="Thompson v. Ylst, Warden" party2_string="Ylst, Warden" gram_type="infix" relation_type="asymmetric" id="113493_9" ></RELATION>
+

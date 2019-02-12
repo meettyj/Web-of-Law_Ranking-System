@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['manncarolina#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1005" id1="124832" volume="537" start="0" page_number="1005" standard_reporter="U.S." citation_global_level_id="3696.002" line="1" id="124833_1" citation_local_level_id="0" >537 U.S. 1005</CITATION>
+
+<CITATION party2="NORTH CAROLINA" party1="MANN" citation_global_level_id="13639.001" party2_short="CAROLINA" line="1" id="124833_3" alternative_keys="['u.s._537_1005']" end="40" entry_type="party_key" lookup_key="manncarolina#1" id1="124833" start="18" party1_short="MANN" citation_local_level_id="1" >MANN v. NORTH CAROLINA</CITATION>
+
+<NAME end="22" start="18" party1_of="124833_3" all_names="MANN" local_name_id="1" id="124833_4" >MANN</NAME>
+
+<NAME end="40" start="26" all_names="NORTH CAROLINA" party2_of="124833_3" local_name_id="2" id="124833_5" >NORTH CAROLINA</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._537_1005" id1="124832" start="50" citation_global_level_id="3696.002" line="1" id="124833_2" citation_local_level_id="0" >02-6059</DOCKET>
+
+<DATE start="99" end="115" id="124833_6" >November 4, 2002</DATE>
+
+<NAME start="214" local_name_id="3" end="217" id="124833_14" all_names="SUP" >Sup</NAME>
+
+<CITATION end="277" reporter="N. C." entry_type="standard_key" no_current_file="True" lookup_key="n.c._355_294" id1="Dummy_File_175593" volume="355" start="264" page_number="294" standard_reporter="N.C." citation_global_level_id="239443.001" line="3" id="124833_12" citation_local_level_id="2" >355 N. C. 294</CITATION>
+
+<CITATION end="295" reporter="S. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="s.e.2d_560_776" id1="Dummy_File_175594" volume="560" start="279" page_number="776" standard_reporter="S.E.2D" citation_global_level_id="239444.001" line="3" id="124833_13" citation_local_level_id="3" >560 S. E. 2d 776</CITATION>
+
+<RELATION theme="124833_1" includes_docket_string="02-6059" includes_docket="124833_2" theme_string="537 U.S. 1005" gram_type="apposition" relation_type="asymmetric" id="124833_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1005" X_vs_Y_string="MANN v. NORTH CAROLINA" standard_case="124833_1" X_vs_Y="124833_3" gram_type="pre_nom" relation_type="equivalence" id="124833_7" ></RELATION>
+
+<RELATION theme="124833_3" includes_docket_string="02-6059" includes_docket="124833_2" theme_string="MANN v. NORTH CAROLINA" gram_type="apposition" relation_type="asymmetric" id="124833_10" ></RELATION>
+
+<RELATION theme="124833_3" party1="124833_4" party1_string="MANN" theme_string="MANN v. NORTH CAROLINA" gram_type="infix" relation_type="asymmetric" id="124833_8" ></RELATION>
+
+<RELATION party2="124833_5" theme="124833_3" theme_string="MANN v. NORTH CAROLINA" party2_string="NORTH CAROLINA" gram_type="infix" relation_type="asymmetric" id="124833_9" ></RELATION>
+

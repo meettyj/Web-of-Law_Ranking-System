@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['davisvirginia#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_831" id1="138139" volume="543" start="0" page_number="831" standard_reporter="U.S." citation_global_level_id="5313.002" line="1" id="138139_1" citation_local_level_id="0" >543 U.S. 831</CITATION>
+
+<CITATION party2="VIRGINIA" party1="DAVIS" citation_global_level_id="47474.001" party2_short="VIRGINIA" line="2" id="138139_3" alternative_keys="['u.s._543_831']" end="34" entry_type="party_key" lookup_key="davisvirginia#2" id1="98403" start="17" party1_short="DAVIS" citation_local_level_id="1" >DAVIS v. VIRGINIA</CITATION>
+
+<NAME end="22" start="17" party1_of="138139_3" all_names="DAVIS" local_name_id="1" id="138139_4" >DAVIS</NAME>
+
+<NAME end="34" start="26" all_names="VIRGINIA" party2_of="138139_3" local_name_id="2" id="138139_5" >VIRGINIA</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="davisvirginia#2" id1="98403" start="44" citation_global_level_id="47474.001" line="2" id="138139_2" citation_local_level_id="1" >03-10342</DOCKET>
+
+<ORGANIZATION start="58" end="88" id="138139_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="94" citation_global_level_id="47474.001" end="109" id="138139_10" citation_local_level_id="1" >October 4, 2004</DATE>
+
+<NAME start="131" local_name_id="3" end="134" id="138139_13" all_names="SUP" >Sup</NAME>
+
+<RELATION theme="138139_3" includes_docket_string="03-10342" includes_docket="138139_2" theme_string="DAVIS v. VIRGINIA" gram_type="apposition" relation_type="asymmetric" id="138139_8" ></RELATION>
+
+<RELATION theme="138139_3" party1="138139_4" party1_string="DAVIS" theme_string="DAVIS v. VIRGINIA" gram_type="infix" relation_type="asymmetric" id="138139_6" ></RELATION>
+
+<RELATION party2="138139_5" theme="138139_3" theme_string="DAVIS v. VIRGINIA" party2_string="VIRGINIA" gram_type="infix" relation_type="asymmetric" id="138139_7" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 831" X_vs_Y_string="DAVIS v. VIRGINIA" standard_case="138139_1" X_vs_Y="138139_3" gram_type="multi_line" relation_type="equivalence" id="138139_11" ></RELATION>
+
+<RELATION at_date_string="October 4, 2004" theme="138139_3" at_date="138139_10" theme_string="DAVIS v. VIRGINIA" gram_type="multi_line" relation_type="asymmetric" id="138139_12" ></RELATION>
+

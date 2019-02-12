@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['idahocurl#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1191" id1="117551" volume="510" start="0" page_number="1191" standard_reporter="U.S." citation_global_level_id="3166.002" line="1" id="117553_1" citation_local_level_id="0" >510 U.S. 1191</CITATION>
+
+<CITATION party2="Curl et al" party1="Idaho" citation_global_level_id="5497.001" party2_short="Curl" line="1" id="117553_3" alternative_keys="['u.s._510_1191']" end="37" entry_type="party_key" lookup_key="idahocurl#1" id1="117553" start="18" party1_short="Idaho" citation_local_level_id="1" >Idaho v. Curl et al</CITATION>
+
+<NAME end="23" start="18" party1_of="117553_3" all_names="IDAHO" local_name_id="1" id="117553_4" >Idaho</NAME>
+
+<NAME end="37" start="27" all_names="CURL" party2_of="117553_3" local_name_id="2" id="117553_5" >Curl et al</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="u.s._510_1191" id1="117551" start="47" citation_global_level_id="3166.002" line="1" id="117553_2" citation_local_level_id="0" >93-868</DOCKET>
+
+<DATE start="95" end="109" id="117553_6" >March 21, 1994</DATE>
+
+<NAME start="188" local_name_id="3" end="198" id="117553_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="236" reporter="Idaho" entry_type="standard_key" no_current_file="True" lookup_key="idaho_125_224" id1="Dummy_File_74067" volume="125" start="223" page_number="224" standard_reporter="IDAHO" citation_global_level_id="137917.001" line="3" id="117553_12" citation_local_level_id="2" >125 Idaho 224</CITATION>
+
+<CITATION end="251" reporter="P. 2d" entry_type="standard_key" no_current_file="True" lookup_key="p.2d_869_224" id1="Dummy_File_74068" volume="869" start="238" page_number="224" standard_reporter="P.2D" citation_global_level_id="137918.001" line="3" id="117553_13" citation_local_level_id="3" >869 P. 2d 224</CITATION>
+
+<RELATION theme="117553_1" includes_docket_string="93-868" includes_docket="117553_2" theme_string="510 U.S. 1191" gram_type="apposition" relation_type="asymmetric" id="117553_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1191" X_vs_Y_string="Idaho v. Curl et al" standard_case="117553_1" X_vs_Y="117553_3" gram_type="pre_nom" relation_type="equivalence" id="117553_7" ></RELATION>
+
+<RELATION theme="117553_3" includes_docket_string="93-868" includes_docket="117553_2" theme_string="Idaho v. Curl et al" gram_type="apposition" relation_type="asymmetric" id="117553_10" ></RELATION>
+
+<RELATION theme="117553_3" party1="117553_4" party1_string="Idaho" theme_string="Idaho v. Curl et al" gram_type="infix" relation_type="asymmetric" id="117553_8" ></RELATION>
+
+<RELATION party2="117553_5" theme="117553_3" theme_string="Idaho v. Curl et al" party2_string="Curl et al" gram_type="infix" relation_type="asymmetric" id="117553_9" ></RELATION>
+

@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['adamsholt#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_842" id1="122773" volume="537" start="0" page_number="842" standard_reporter="U.S." citation_global_level_id="3559.002" line="1" id="122764_1" citation_local_level_id="0" >537 U.S. 842</CITATION>
+
+<CITATION party2="HOLT, WARDEN" party1="ADAMS" citation_global_level_id="3559.003" party2_short="HOLT" line="1" id="122764_3" alternative_keys="['u.s._537_842']" end="38" entry_type="party_key" lookup_key="adamsholt#1" id1="122773" start="17" party1_short="ADAMS" citation_local_level_id="1" >ADAMS v. HOLT, WARDEN</CITATION>
+
+<NAME end="22" start="17" party1_of="122764_3" all_names="ADAMS" local_name_id="1" id="122764_4" >ADAMS</NAME>
+
+<NAME end="38" start="26" all_names="HOLT WARDEN" party2_of="122764_3" local_name_id="2" id="122764_5" >HOLT, WARDEN</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._537_842" id1="122773" start="48" citation_global_level_id="3559.002" line="1" id="122764_2" citation_local_level_id="0" >01-10368</DOCKET>
+
+<DATE start="98" end="113" id="122764_6" >October 7, 2002</DATE>
+
+<NAME start="243" local_name_id="3" end="246" id="122764_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="122764_1" includes_docket_string="01-10368" includes_docket="122764_2" theme_string="537 U.S. 842" gram_type="apposition" relation_type="asymmetric" id="122764_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 842" X_vs_Y_string="ADAMS v. HOLT, WARDEN" standard_case="122764_1" X_vs_Y="122764_3" gram_type="pre_nom" relation_type="equivalence" id="122764_7" ></RELATION>
+
+<RELATION theme="122764_3" includes_docket_string="01-10368" includes_docket="122764_2" theme_string="ADAMS v. HOLT, WARDEN" gram_type="apposition" relation_type="asymmetric" id="122764_10" ></RELATION>
+
+<RELATION theme="122764_3" party1="122764_4" party1_string="ADAMS" theme_string="ADAMS v. HOLT, WARDEN" gram_type="infix" relation_type="asymmetric" id="122764_8" ></RELATION>
+
+<RELATION party2="122764_5" theme="122764_3" theme_string="ADAMS v. HOLT, WARDEN" party2_string="HOLT, WARDEN" gram_type="infix" relation_type="asymmetric" id="122764_9" ></RELATION>
+

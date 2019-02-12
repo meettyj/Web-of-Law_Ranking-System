@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['eatonillinois#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1046" id1="129802" volume="538" start="0" page_number="1046" standard_reporter="U.S." citation_global_level_id="161.002" line="1" id="129809_1" citation_local_level_id="0" >538 U.S. 1046</CITATION>
+
+<CITATION party2="ILLINOIS" party1="EATON" citation_global_level_id="49729.001" party2_short="ILLINOIS" line="1" id="129809_3" alternative_keys="['u.s._538_1046']" end="35" entry_type="party_key" lookup_key="eatonillinois#2" id1="128972" start="18" party1_short="EATON" citation_local_level_id="1" >EATON v. ILLINOIS</CITATION>
+
+<NAME end="23" start="18" party1_of="129809_3" all_names="EATON" local_name_id="1" id="129809_4" >EATON</NAME>
+
+<NAME end="35" start="27" all_names="ILLINOIS" party2_of="129809_3" local_name_id="2" id="129809_5" >ILLINOIS</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="u.s._538_1046" id1="129802" start="45" citation_global_level_id="161.002" line="1" id="129809_2" citation_local_level_id="0" >02-10019</DOCKET>
+
+<DATE start="95" end="107" id="129809_6" >May 19, 2003</DATE>
+
+<NAME start="224" local_name_id="3" end="227" id="129809_12" all_names="APP" >App</NAME>
+
+<RELATION theme="129809_1" includes_docket_string="02-10019" includes_docket="129809_2" theme_string="538 U.S. 1046" gram_type="apposition" relation_type="asymmetric" id="129809_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1046" X_vs_Y_string="EATON v. ILLINOIS" standard_case="129809_1" X_vs_Y="129809_3" gram_type="pre_nom" relation_type="equivalence" id="129809_7" ></RELATION>
+
+<RELATION theme="129809_3" includes_docket_string="02-10019" includes_docket="129809_2" theme_string="EATON v. ILLINOIS" gram_type="apposition" relation_type="asymmetric" id="129809_10" ></RELATION>
+
+<RELATION theme="129809_3" party1="129809_4" party1_string="EATON" theme_string="EATON v. ILLINOIS" gram_type="infix" relation_type="asymmetric" id="129809_8" ></RELATION>
+
+<RELATION party2="129809_5" theme="129809_3" theme_string="EATON v. ILLINOIS" party2_string="ILLINOIS" gram_type="infix" relation_type="asymmetric" id="129809_9" ></RELATION>
+

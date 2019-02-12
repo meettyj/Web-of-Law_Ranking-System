@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['foggycompany#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_1013" id1="135981" volume="541" start="0" page_number="1013" standard_reporter="U.S." citation_global_level_id="295.002" line="1" id="135986_1" citation_local_level_id="0" >541 U.S. 1013</CITATION>
+
+<CITATION party2="EMPLOYERS INSURANCE COMPANY OF NEVADA" party1="FOGGY" citation_global_level_id="55942.001" party2_short="COMPANY" line="2" id="135986_2" alternative_keys="['u.s._541_1013']" end="64" entry_type="party_key" lookup_key="foggycompany#1" id1="135986" start="18" party1_short="FOGGY" citation_local_level_id="1" >FOGGY v. EMPLOYERS INSURANCE COMPANY OF NEVADA</CITATION>
+
+<NAME end="23" start="18" party1_of="135986_2" all_names="FOGGY" local_name_id="1" id="135986_3" >FOGGY</NAME>
+
+<NAME end="64" start="27" all_names="EMPLOYERS INSURANCE COMPANY OF NEVADA" party2_of="135986_2" local_name_id="2" id="135986_4" >EMPLOYERS INSURANCE COMPANY OF NEVADA</NAME>
+
+<DOCKET end="81" entry_type="docket" lookup_key="foggycompany#1" id1="135986" start="74" citation_global_level_id="55942.001" line="3" id="135986_7" citation_local_level_id="1" >03-9059</DOCKET>
+
+<ORGANIZATION start="87" end="117" id="135986_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="123" citation_global_level_id="55942.001" end="137" id="135986_9" citation_local_level_id="1" >April 26, 2004</DATE>
+
+<NAME start="159" local_name_id="3" end="162" id="135986_13" all_names="SUP" >Sup</NAME>
+
+<RELATION theme="135986_2" party1="135986_3" party1_string="FOGGY" theme_string="FOGGY v. EMPLOYERS INSURANCE COMPANY OF NEVADA" gram_type="infix" relation_type="asymmetric" id="135986_5" ></RELATION>
+
+<RELATION party2="135986_4" theme="135986_2" theme_string="FOGGY v. EMPLOYERS INSURANCE COMPANY OF NEVADA" party2_string="EMPLOYERS INSURANCE COMPANY OF NEVADA" gram_type="infix" relation_type="asymmetric" id="135986_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 1013" X_vs_Y_string="FOGGY v. EMPLOYERS INSURANCE COMPANY OF NEVADA" standard_case="135986_1" X_vs_Y="135986_2" gram_type="multi_line" relation_type="equivalence" id="135986_10" ></RELATION>
+
+<RELATION at_date_string="April 26, 2004" theme="135986_2" at_date="135986_9" theme_string="FOGGY v. EMPLOYERS INSURANCE COMPANY OF NEVADA" gram_type="multi_line" relation_type="asymmetric" id="135986_12" ></RELATION>
+
+<RELATION theme="135986_2" includes_docket_string="03-9059" includes_docket="135986_7" theme_string="FOGGY v. EMPLOYERS INSURANCE COMPANY OF NEVADA" gram_type="multi_line" relation_type="asymmetric" id="135986_11" ></RELATION>
+

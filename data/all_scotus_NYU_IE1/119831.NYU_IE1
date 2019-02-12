@@ -1,0 +1,42 @@
+<CITATION alternative_keys="['newkirkstates#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1013" id1="119835" volume="535" start="0" page_number="1013" standard_reporter="U.S." citation_global_level_id="411.002" line="1" id="119831_1" citation_local_level_id="0" >535 U.S. 1013</CITATION>
+
+<CITATION party2="UNITED STATES" party1="NEWKIRK" citation_global_level_id="61012.001" party2_short="STATES" line="2" id="119831_2" alternative_keys="['u.s._535_1013']" end="42" entry_type="party_key" lookup_key="newkirkstates#1" id1="119831" start="18" party1_short="NEWKIRK" citation_local_level_id="1" >NEWKIRK v. UNITED STATES</CITATION>
+
+<NAME end="25" start="18" party1_of="119831_2" all_names="NEWKIRK" local_name_id="1" id="119831_3" >NEWKIRK</NAME>
+
+<NAME end="42" start="29" all_names="UNITED STATES" party2_of="119831_2" local_name_id="2" id="119831_4" >UNITED STATES</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="newkirkstates#1" id1="119831" start="52" citation_global_level_id="61012.001" line="3" id="119831_7" citation_local_level_id="1" >00-1936</DOCKET>
+
+<DATE start="55" end="59" id="119831_8" >1936</DATE>
+
+<DATE start="105" citation_global_level_id="61012.001" end="119" id="119831_10" citation_local_level_id="1" >April 22, 2002</DATE>
+
+<NAME start="152" local_name_id="3" end="155" id="119831_19" all_names="CIR" >Cir</NAME>
+
+<CITATION party2="Free Speech Coalition" party1="Ashcroft" citation_global_level_id="941.001" party2_short="Coalition" line="8" id="119831_16" end="284" entry_type="party_key" lookup_key="ashcroftcoalition#1" id1="118496" start="251" party1_short="Ashcroft" citation_local_level_id="2" >Ashcroft v. Free Speech Coalition</CITATION>
+
+<NAME end="259" start="251" party1_of="119831_16" all_names="ASHCROFT" local_name_id="4" id="119831_17" >Ashcroft</NAME>
+
+<NAME end="284" start="263" all_names="FREE SPEECH COALITION" party2_of="119831_16" local_name_id="5" id="119831_18" >Free Speech Coalition</NAME>
+
+<CITATION end="330" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_252_1363" id1="Dummy_File_96184" volume="252" start="316" page_number="1363" standard_reporter="F.3D" citation_global_level_id="160034.001" line="8" id="119831_15" citation_local_level_id="3" >252 F. 3d 1363</CITATION>
+
+<RELATION theme="119831_2" party1="119831_3" party1_string="NEWKIRK" theme_string="NEWKIRK v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="119831_5" ></RELATION>
+
+<RELATION party2="119831_4" theme="119831_2" theme_string="NEWKIRK v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="119831_6" ></RELATION>
+
+<RELATION at_date_string="1936" theme="119831_7" at_date="119831_8" theme_string="00-1936" gram_type="infix" relation_type="asymmetric" id="119831_9" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1013" X_vs_Y_string="NEWKIRK v. UNITED STATES" standard_case="119831_1" X_vs_Y="119831_2" gram_type="multi_line" relation_type="equivalence" id="119831_11" ></RELATION>
+
+<RELATION at_date_string="April 22, 2002" theme="119831_2" at_date="119831_10" theme_string="NEWKIRK v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="119831_14" ></RELATION>
+
+<RELATION theme="119831_2" includes_docket_string="00-1936" includes_docket="119831_7" theme_string="NEWKIRK v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="119831_12" ></RELATION>
+
+<RELATION at_date_string="1936" theme="119831_2" at_date="119831_8" theme_string="NEWKIRK v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="119831_13" ></RELATION>
+
+<RELATION theme="119831_16" party1="119831_17" party1_string="Ashcroft" theme_string="Ashcroft v. Free Speech Coalition" gram_type="infix" relation_type="asymmetric" id="119831_20" ></RELATION>
+
+<RELATION party2="119831_18" theme="119831_16" theme_string="Ashcroft v. Free Speech Coalition" party2_string="Free Speech Coalition" gram_type="infix" relation_type="asymmetric" id="119831_21" ></RELATION>
+

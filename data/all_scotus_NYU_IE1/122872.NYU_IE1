@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['kiblerstates#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_849" id1="122861" volume="537" start="0" page_number="849" standard_reporter="U.S." citation_global_level_id="9237.002" line="1" id="122872_1" citation_local_level_id="0" >537 U.S. 849</CITATION>
+
+<CITATION party2="UNITED STATES" party1="KIBLER" citation_global_level_id="58099.001" party2_short="STATES" line="1" id="122872_3" alternative_keys="['u.s._537_849']" end="40" entry_type="party_key" lookup_key="kiblerstates#1" id1="122872" start="17" party1_short="KIBLER" citation_local_level_id="1" >KIBLER v. UNITED STATES</CITATION>
+
+<NAME end="23" start="17" party1_of="122872_3" all_names="KIBLER" local_name_id="1" id="122872_4" >KIBLER</NAME>
+
+<NAME end="40" start="27" all_names="UNITED STATES" party2_of="122872_3" local_name_id="2" id="122872_5" >UNITED STATES</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._537_849" id1="122861" start="50" citation_global_level_id="9237.002" line="1" id="122872_2" citation_local_level_id="0" >01-10562</DOCKET>
+
+<DATE start="100" end="115" id="122872_6" >October 7, 2002</DATE>
+
+<NAME start="246" local_name_id="3" end="249" id="122872_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="298" reporter="F.3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_279_511" id1="Dummy_File_210475" volume="279" start="286" page_number="511" standard_reporter="F.3D" citation_global_level_id="274325.001" line="3" id="122872_12" citation_local_level_id="2" >279 F.3d 511</CITATION>
+
+<RELATION theme="122872_1" includes_docket_string="01-10562" includes_docket="122872_2" theme_string="537 U.S. 849" gram_type="apposition" relation_type="asymmetric" id="122872_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 849" X_vs_Y_string="KIBLER v. UNITED STATES" standard_case="122872_1" X_vs_Y="122872_3" gram_type="pre_nom" relation_type="equivalence" id="122872_7" ></RELATION>
+
+<RELATION theme="122872_3" includes_docket_string="01-10562" includes_docket="122872_2" theme_string="KIBLER v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="122872_10" ></RELATION>
+
+<RELATION theme="122872_3" party1="122872_4" party1_string="KIBLER" theme_string="KIBLER v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="122872_8" ></RELATION>
+
+<RELATION party2="122872_5" theme="122872_3" theme_string="KIBLER v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="122872_9" ></RELATION>
+

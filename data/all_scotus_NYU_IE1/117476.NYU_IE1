@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['orrstates#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1182" id1="117476" volume="510" start="0" page_number="1182" standard_reporter="U.S." citation_global_level_id="4881.002" line="1" id="117476_1" citation_local_level_id="0" >510 U.S. 1182</CITATION>
+
+<CITATION party2="United States" party1="Orr" citation_global_level_id="20242.001" party2_short="States" line="1" id="117476_3" alternative_keys="['u.s._510_1182']" end="38" entry_type="party_key" lookup_key="orrstates#2" id1="141869" start="18" party1_short="Orr" citation_local_level_id="1" >Orr v. United States</CITATION>
+
+<NAME end="21" start="18" party1_of="117476_3" all_names="ORR" local_name_id="1" id="117476_4" >Orr</NAME>
+
+<NAME end="38" start="25" all_names="UNITED STATES" party2_of="117476_3" local_name_id="2" id="117476_5" >United States</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._510_1182" id1="117476" start="48" citation_global_level_id="4881.002" line="1" id="117476_2" citation_local_level_id="0" >93-7661</DOCKET>
+
+<DATE start="97" end="110" id="117476_6" >March 7, 1994</DATE>
+
+<NAME start="188" local_name_id="3" end="198" id="117476_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="234" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_7_227" id1="Dummy_File_18043" volume="7" start="223" page_number="227" standard_reporter="F.3D" citation_global_level_id="81893.001" line="3" id="117476_12" citation_local_level_id="2" >7 F. 3d 227</CITATION>
+
+<RELATION theme="117476_1" includes_docket_string="93-7661" includes_docket="117476_2" theme_string="510 U.S. 1182" gram_type="apposition" relation_type="asymmetric" id="117476_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1182" X_vs_Y_string="Orr v. United States" standard_case="117476_1" X_vs_Y="117476_3" gram_type="pre_nom" relation_type="equivalence" id="117476_7" ></RELATION>
+
+<RELATION theme="117476_3" includes_docket_string="93-7661" includes_docket="117476_2" theme_string="Orr v. United States" gram_type="apposition" relation_type="asymmetric" id="117476_10" ></RELATION>
+
+<RELATION theme="117476_3" party1="117476_4" party1_string="Orr" theme_string="Orr v. United States" gram_type="infix" relation_type="asymmetric" id="117476_8" ></RELATION>
+
+<RELATION party2="117476_5" theme="117476_3" theme_string="Orr v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="117476_9" ></RELATION>
+

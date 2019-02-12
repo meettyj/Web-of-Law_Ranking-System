@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['whitetexas#3']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_963" id1="130910" volume="539" start="0" page_number="963" standard_reporter="U.S." citation_global_level_id="5880.002" line="1" id="130910_1" citation_local_level_id="0" >539 U.S. 963</CITATION>
+
+<CITATION party2="Texas" party1="White" citation_global_level_id="28845.001" party2_short="Texas" line="1" id="130910_3" alternative_keys="['u.s._539_963']" end="31" entry_type="party_key" lookup_key="whitetexas#3" id1="122666" start="17" party1_short="White" citation_local_level_id="1" >White v. Texas</CITATION>
+
+<NAME end="22" start="17" party1_of="130910_3" all_names="WHITE" local_name_id="1" id="130910_4" >White</NAME>
+
+<NAME end="31" start="26" all_names="TEXAS" party2_of="130910_3" local_name_id="2" id="130910_5" >Texas</NAME>
+
+<DOCKET end="49" entry_type="docket" lookup_key="u.s._539_963" id1="130910" start="41" citation_global_level_id="5880.002" line="1" id="130910_2" citation_local_level_id="0" >02-10410</DOCKET>
+
+<DATE start="91" end="104" id="130910_6" >June 27, 2003</DATE>
+
+<NAME start="191" local_name_id="3" end="201" id="130910_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="130910_1" includes_docket_string="02-10410" includes_docket="130910_2" theme_string="539 U.S. 963" gram_type="apposition" relation_type="asymmetric" id="130910_11" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 963" X_vs_Y_string="White v. Texas" standard_case="130910_1" X_vs_Y="130910_3" gram_type="pre_nom" relation_type="equivalence" id="130910_7" ></RELATION>
+
+<RELATION theme="130910_3" includes_docket_string="02-10410" includes_docket="130910_2" theme_string="White v. Texas" gram_type="apposition" relation_type="asymmetric" id="130910_10" ></RELATION>
+
+<RELATION theme="130910_3" party1="130910_4" party1_string="White" theme_string="White v. Texas" gram_type="infix" relation_type="asymmetric" id="130910_8" ></RELATION>
+
+<RELATION party2="130910_5" theme="130910_3" theme_string="White v. Texas" party2_string="Texas" gram_type="infix" relation_type="asymmetric" id="130910_9" ></RELATION>
+

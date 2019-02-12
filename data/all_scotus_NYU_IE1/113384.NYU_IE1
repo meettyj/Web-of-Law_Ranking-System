@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['patinolawson#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_840" id1="113383" volume="510" start="0" page_number="840" standard_reporter="U.S." citation_global_level_id="902.002" line="1" id="113384_1" citation_local_level_id="0" >510 U.S. 840</CITATION>
+
+<CITATION party2="Lawson et al" party1="Patino" citation_global_level_id="5381.001" party2_short="Lawson" line="1" id="113384_3" alternative_keys="['u.s._510_840']" end="39" entry_type="party_key" lookup_key="patinolawson#1" id1="113384" start="17" party1_short="Patino" citation_local_level_id="1" >Patino v. Lawson et al</CITATION>
+
+<NAME end="23" start="17" party1_of="113384_3" all_names="PATINO" local_name_id="1" id="113384_4" >Patino</NAME>
+
+<NAME end="39" start="27" all_names="LAWSON" party2_of="113384_3" local_name_id="2" id="113384_5" >Lawson et al</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._510_840" id1="113383" start="49" citation_global_level_id="902.002" line="1" id="113384_2" citation_local_level_id="0" >92-8919</DOCKET>
+
+<DATE start="98" end="113" id="113384_6" >October 4, 1993</DATE>
+
+<NAME start="191" local_name_id="3" end="201" id="113384_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="239" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_987_772" id1="Dummy_File_33541" volume="987" start="226" page_number="772" standard_reporter="F.2D" citation_global_level_id="97391.001" line="3" id="113384_12" citation_local_level_id="2" >987 F. 2d 772</CITATION>
+
+<RELATION theme="113384_1" includes_docket_string="92-8919" includes_docket="113384_2" theme_string="510 U.S. 840" gram_type="apposition" relation_type="asymmetric" id="113384_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 840" X_vs_Y_string="Patino v. Lawson et al" standard_case="113384_1" X_vs_Y="113384_3" gram_type="pre_nom" relation_type="equivalence" id="113384_7" ></RELATION>
+
+<RELATION theme="113384_3" includes_docket_string="92-8919" includes_docket="113384_2" theme_string="Patino v. Lawson et al" gram_type="apposition" relation_type="asymmetric" id="113384_10" ></RELATION>
+
+<RELATION theme="113384_3" party1="113384_4" party1_string="Patino" theme_string="Patino v. Lawson et al" gram_type="infix" relation_type="asymmetric" id="113384_8" ></RELATION>
+
+<RELATION party2="113384_5" theme="113384_3" theme_string="Patino v. Lawson et al" party2_string="Lawson et al" gram_type="infix" relation_type="asymmetric" id="113384_9" ></RELATION>
+

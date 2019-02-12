@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['michiganhutchinson#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_994" id1="129116" volume="538" start="0" page_number="994" standard_reporter="U.S." citation_global_level_id="1242.002" line="1" id="129107_1" citation_local_level_id="0" >538 U.S. 994</CITATION>
+
+<CITATION party2="HUTCHINSON" party1="MICHIGAN" citation_global_level_id="17272.001" party2_short="HUTCHINSON" line="1" id="129107_3" alternative_keys="['u.s._538_994']" end="39" entry_type="party_key" lookup_key="michiganhutchinson#1" id1="129107" start="17" party1_short="MICHIGAN" citation_local_level_id="1" >MICHIGAN v. HUTCHINSON</CITATION>
+
+<NAME end="25" start="17" party1_of="129107_3" all_names="MICHIGAN" local_name_id="1" id="129107_4" >MICHIGAN</NAME>
+
+<NAME end="39" start="29" all_names="HUTCHINSON" party2_of="129107_3" local_name_id="2" id="129107_5" >HUTCHINSON</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._538_994" id1="129116" start="49" citation_global_level_id="1242.002" line="1" id="129107_2" citation_local_level_id="0" >02-1203</DOCKET>
+
+<DATE start="98" end="112" id="129107_6" >April 21, 2003</DATE>
+
+<NAME start="207" local_name_id="3" end="209" id="129107_12" all_names="CT" >Ct</NAME>
+
+<RELATION theme="129107_1" includes_docket_string="02-1203" includes_docket="129107_2" theme_string="538 U.S. 994" gram_type="apposition" relation_type="asymmetric" id="129107_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 994" X_vs_Y_string="MICHIGAN v. HUTCHINSON" standard_case="129107_1" X_vs_Y="129107_3" gram_type="pre_nom" relation_type="equivalence" id="129107_7" ></RELATION>
+
+<RELATION theme="129107_3" includes_docket_string="02-1203" includes_docket="129107_2" theme_string="MICHIGAN v. HUTCHINSON" gram_type="apposition" relation_type="asymmetric" id="129107_10" ></RELATION>
+
+<RELATION theme="129107_3" party1="129107_4" party1_string="MICHIGAN" theme_string="MICHIGAN v. HUTCHINSON" gram_type="infix" relation_type="asymmetric" id="129107_8" ></RELATION>
+
+<RELATION party2="129107_5" theme="129107_3" theme_string="MICHIGAN v. HUTCHINSON" party2_string="HUTCHINSON" gram_type="infix" relation_type="asymmetric" id="129107_9" ></RELATION>
+

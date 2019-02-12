@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['aguayostates#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_878" id1="123237" volume="537" start="0" page_number="878" standard_reporter="U.S." citation_global_level_id="2958.002" line="1" id="123234_1" citation_local_level_id="0" >537 U.S. 878</CITATION>
+
+<CITATION party2="UNITED STATES" party1="RAYGOZA AGUAYO" citation_global_level_id="11787.001" party2_short="STATES" line="1" id="123234_3" alternative_keys="['u.s._537_878']" end="48" entry_type="party_key" lookup_key="aguayostates#1" id1="123234" start="17" party1_short="AGUAYO" citation_local_level_id="1" >RAYGOZA AGUAYO v. UNITED STATES</CITATION>
+
+<NAME end="31" start="17" party1_of="123234_3" all_names="RAYGOZA AGUAYO" local_name_id="1" id="123234_5" >RAYGOZA AGUAYO</NAME>
+
+<NAME end="48" start="35" all_names="UNITED STATES" party2_of="123234_3" local_name_id="2" id="123234_6" >UNITED STATES</NAME>
+
+<CITATION party2="UNITED STATES" party1="PINA ARELLANO, AKA ALBERTO LOPEZ, AKA LOPEZ-GONZALEZ" citation_global_level_id="156707.001" party2_short="STATES" line="1" id="123234_4" end="123" no_current_file="True" entry_type="party_key" lookup_key="arellanostates#2" id1="Dummy_File_92857" start="54" party1_short="ARELLANO" citation_local_level_id="2" >PINA ARELLANO, AKA ALBERTO LOPEZ, AKA LOPEZ-GONZALEZ v. UNITED STATES</CITATION>
+
+<NAME end="106" start="54" party1_of="123234_4" all_names="PINA ARELLANO AKA ALBERTO LOPEZ AKA LOPEZ-GONZALEZ" local_name_id="3" id="123234_7" >PINA ARELLANO, AKA ALBERTO LOPEZ, AKA LOPEZ-GONZALEZ</NAME>
+
+<NAME end="123" start="110" all_names="UNITED STATES" party2_of="123234_4" local_name_id="2" id="123234_8" >UNITED STATES</NAME>
+
+<DOCKET end="141" no_current_file="True" entry_type="docket" lookup_key="arellanostates#2" id1="Dummy_File_92857" start="133" citation_global_level_id="156707.001" line="1" id="123234_2" citation_local_level_id="2" >01-11036</DOCKET>
+
+<DATE start="183" end="198" id="123234_9" >October 7, 2002</DATE>
+
+<NAME start="328" local_name_id="4" end="331" id="123234_16" all_names="CIR" >Cir</NAME>
+
+<RELATION standard_case_string="537 U.S. 878" X_vs_Y_string="RAYGOZA AGUAYO v. UNITED STATES" standard_case="123234_1" X_vs_Y="123234_3" gram_type="pre_nom" relation_type="equivalence" id="123234_10" ></RELATION>
+
+<RELATION theme="123234_3" party1="123234_5" party1_string="RAYGOZA AGUAYO" theme_string="RAYGOZA AGUAYO v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="123234_11" ></RELATION>
+
+<RELATION party2="123234_6" theme="123234_3" theme_string="RAYGOZA AGUAYO v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="123234_12" ></RELATION>
+
+<RELATION theme="123234_4" includes_docket_string="01-11036" includes_docket="123234_2" theme_string="PINA ARELLANO, AKA ALBERTO LOPEZ, AKA LOPEZ-GONZALEZ v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="123234_15" ></RELATION>
+
+<RELATION theme="123234_4" party1="123234_7" party1_string="PINA ARELLANO, AKA ALBERTO LOPEZ, AKA LOPEZ-GONZALEZ" theme_string="PINA ARELLANO, AKA ALBERTO LOPEZ, AKA LOPEZ-GONZALEZ v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="123234_13" ></RELATION>
+
+<RELATION party2="123234_8" theme="123234_4" theme_string="PINA ARELLANO, AKA ALBERTO LOPEZ, AKA LOPEZ-GONZALEZ v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="123234_14" ></RELATION>
+

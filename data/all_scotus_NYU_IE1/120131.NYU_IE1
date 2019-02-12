@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['wardensaffle#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1037" id1="120144" volume="535" start="0" page_number="1037" standard_reporter="U.S." citation_global_level_id="1877.002" line="3" id="120131_2" citation_local_level_id="0" >535 U.S. 1037</CITATION>
+
+<CITATION party2="SAFFLE, DIRECTOR, OKLAHOMA DEPARTMENT OF CORRECTIONS, ET AL" party1="WARDEN" citation_global_level_id="1877.004" party2_short="SAFFLE" line="3" id="120131_4" alternative_keys="['u.s._535_1037']" end="87" entry_type="party_key" lookup_key="wardensaffle#1" id1="120144" start="18" party1_short="WARDEN" citation_local_level_id="1" >WARDEN v. SAFFLE, DIRECTOR, OKLAHOMA DEPARTMENT OF CORRECTIONS, ET AL</CITATION>
+
+<NAME end="24" start="18" party1_of="120131_4" all_names="WARDEN" local_name_id="1" id="120131_5" >WARDEN</NAME>
+
+<NAME end="87" start="28" all_names="SAFFLE DIRECTOR OKLAHOMA DEPARTMENT OF CORRECTIONS" party2_of="120131_4" local_name_id="2" id="120131_6" >SAFFLE, DIRECTOR, OKLAHOMA DEPARTMENT OF CORRECTIONS, ET AL</NAME>
+
+<DOCKET end="104" entry_type="docket" lookup_key="u.s._535_1037" id1="120144" start="97" citation_global_level_id="1877.002" line="3" id="120131_3" citation_local_level_id="0" >01-8582</DOCKET>
+
+<DATE start="150" citation_global_level_id="1877.004" end="164" id="120131_12" citation_local_level_id="1" >April 29, 2002</DATE>
+
+<NAME start="197" local_name_id="3" end="200" id="120131_14" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="120131_2" includes_docket_string="01-8582" includes_docket="120131_3" theme_string="535 U.S. 1037" gram_type="apposition" relation_type="asymmetric" id="120131_11" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1037" X_vs_Y_string="WARDEN v. SAFFLE, DIRECTOR, OKLAHOMA DEPARTMENT OF CORRECTIONS, ET AL" standard_case="120131_2" X_vs_Y="120131_4" gram_type="pre_nom" relation_type="equivalence" id="120131_7" ></RELATION>
+
+<RELATION theme="120131_4" includes_docket_string="01-8582" includes_docket="120131_3" theme_string="WARDEN v. SAFFLE, DIRECTOR, OKLAHOMA DEPARTMENT OF CORRECTIONS, ET AL" gram_type="apposition" relation_type="asymmetric" id="120131_10" ></RELATION>
+
+<RELATION theme="120131_4" party1="120131_5" party1_string="WARDEN" theme_string="WARDEN v. SAFFLE, DIRECTOR, OKLAHOMA DEPARTMENT OF CORRECTIONS, ET AL" gram_type="infix" relation_type="asymmetric" id="120131_8" ></RELATION>
+
+<RELATION party2="120131_6" theme="120131_4" theme_string="WARDEN v. SAFFLE, DIRECTOR, OKLAHOMA DEPARTMENT OF CORRECTIONS, ET AL" party2_string="SAFFLE, DIRECTOR, OKLAHOMA DEPARTMENT OF CORRECTIONS, ET AL" gram_type="infix" relation_type="asymmetric" id="120131_9" ></RELATION>
+
+<RELATION at_date_string="April 29, 2002" theme="120131_4" at_date="120131_12" theme_string="WARDEN v. SAFFLE, DIRECTOR, OKLAHOMA DEPARTMENT OF CORRECTIONS, ET AL" gram_type="multi_line" relation_type="asymmetric" id="120131_13" ></RELATION>
+

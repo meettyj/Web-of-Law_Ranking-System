@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['zinndepartment#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1026" id1="120002" volume="535" start="0" page_number="1026" standard_reporter="U.S." citation_global_level_id="1732.002" line="1" id="120005_1" citation_local_level_id="0" >535 U.S. 1026</CITATION>
+
+<CITATION party2="DEPARTMENT OF THE ARMY" party1="ZINN" citation_global_level_id="25118.001" party2_short="DEPARTMENT" line="2" id="120005_2" alternative_keys="['u.s._535_1026']" end="48" entry_type="party_key" lookup_key="zinndepartment#1" id1="120005" start="18" party1_short="ZINN" citation_local_level_id="1" >ZINN v. DEPARTMENT OF THE ARMY</CITATION>
+
+<NAME end="22" start="18" party1_of="120005_2" all_names="ZINN" local_name_id="1" id="120005_3" >ZINN</NAME>
+
+<NAME end="48" start="26" all_names="DEPARTMENT OF THE ARMY" party2_of="120005_2" local_name_id="2" id="120005_4" >DEPARTMENT OF THE ARMY</NAME>
+
+<DOCKET end="65" entry_type="docket" lookup_key="zinndepartment#1" id1="120005" start="58" citation_global_level_id="25118.001" line="3" id="120005_7" citation_local_level_id="1" >01-9039</DOCKET>
+
+<DATE start="111" citation_global_level_id="25118.001" end="125" id="120005_8" citation_local_level_id="1" >April 22, 2002</DATE>
+
+<NAME start="147" local_name_id="3" end="156" id="120005_12" all_names="C A FED" >C. A. Fed</NAME>
+
+<NAME start="158" local_name_id="4" end="161" id="120005_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="120005_2" party1="120005_3" party1_string="ZINN" theme_string="ZINN v. DEPARTMENT OF THE ARMY" gram_type="infix" relation_type="asymmetric" id="120005_5" ></RELATION>
+
+<RELATION party2="120005_4" theme="120005_2" theme_string="ZINN v. DEPARTMENT OF THE ARMY" party2_string="DEPARTMENT OF THE ARMY" gram_type="infix" relation_type="asymmetric" id="120005_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1026" X_vs_Y_string="ZINN v. DEPARTMENT OF THE ARMY" standard_case="120005_1" X_vs_Y="120005_2" gram_type="multi_line" relation_type="equivalence" id="120005_9" ></RELATION>
+
+<RELATION at_date_string="April 22, 2002" theme="120005_2" at_date="120005_8" theme_string="ZINN v. DEPARTMENT OF THE ARMY" gram_type="multi_line" relation_type="asymmetric" id="120005_11" ></RELATION>
+
+<RELATION theme="120005_2" includes_docket_string="01-9039" includes_docket="120005_7" theme_string="ZINN v. DEPARTMENT OF THE ARMY" gram_type="multi_line" relation_type="asymmetric" id="120005_10" ></RELATION>
+

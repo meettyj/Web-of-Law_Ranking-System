@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['videoindustrial#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_826" id1="113200" volume="510" start="0" page_number="826" standard_reporter="U.S." citation_global_level_id="245.002" line="1" id="113198_1" citation_local_level_id="0" >510 U.S. 826</CITATION>
+
+<CITATION party2="Matsushita Electric Industrial Co., Ltd., et al" party1="Go-Video, Inc." citation_global_level_id="245.006" party2_short="Industrial" line="1" id="113198_3" alternative_keys="['u.s._510_826']" end="82" entry_type="party_key" lookup_key="videoindustrial#2" id1="113200" start="17" party1_short="Video" citation_local_level_id="1" >Go-Video, Inc. v. Matsushita Electric Industrial Co., Ltd., et al</CITATION>
+
+<NAME end="31" start="17" party1_of="113198_3" all_names="GO-VIDEO INC" local_name_id="1" id="113198_4" >Go-Video, Inc.</NAME>
+
+<ORGANIZATION start="17" end="30" id="113198_8" >Go-Video, Inc</ORGANIZATION>
+
+<NAME end="82" start="35" all_names="MATSUSHITA ELECTRIC INDUSTRIAL CO LTD" party2_of="113198_3" local_name_id="2" id="113198_5" >Matsushita Electric Industrial Co., Ltd., et al</NAME>
+
+<DOCKET end="99" entry_type="docket" lookup_key="u.s._510_826" id1="113200" start="92" citation_global_level_id="245.002" line="1" id="113198_2" citation_local_level_id="0" >92-2018</DOCKET>
+
+<DATE start="95" end="99" id="113198_6" >2018</DATE>
+
+<DATE start="141" end="156" id="113198_7" >October 4, 1993</DATE>
+
+<NAME start="234" local_name_id="3" end="244" id="113198_16" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="282" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_977_588" id1="Dummy_File_202758" volume="977" start="269" page_number="588" standard_reporter="F.2D" citation_global_level_id="266608.001" line="3" id="113198_15" citation_local_level_id="2" >977 F. 2d 588</CITATION>
+
+<RELATION theme="113198_1" includes_docket_string="92-2018" includes_docket="113198_2" theme_string="510 U.S. 826" gram_type="apposition" relation_type="asymmetric" id="113198_13" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 826" X_vs_Y_string="Go-Video, Inc. v. Matsushita Electric Industrial Co., Ltd., et al" standard_case="113198_1" X_vs_Y="113198_3" gram_type="pre_nom" relation_type="equivalence" id="113198_9" ></RELATION>
+
+<RELATION theme="113198_3" includes_docket_string="92-2018" includes_docket="113198_2" theme_string="Go-Video, Inc. v. Matsushita Electric Industrial Co., Ltd., et al" gram_type="apposition" relation_type="asymmetric" id="113198_12" ></RELATION>
+
+<RELATION theme="113198_3" party1="113198_4" party1_string="Go-Video, Inc." theme_string="Go-Video, Inc. v. Matsushita Electric Industrial Co., Ltd., et al" gram_type="infix" relation_type="asymmetric" id="113198_10" ></RELATION>
+
+<RELATION party2="113198_5" theme="113198_3" theme_string="Go-Video, Inc. v. Matsushita Electric Industrial Co., Ltd., et al" party2_string="Matsushita Electric Industrial Co., Ltd., et al" gram_type="infix" relation_type="asymmetric" id="113198_11" ></RELATION>
+
+<RELATION at_date_string="2018" theme="113198_2" at_date="113198_6" theme_string="92-2018" gram_type="infix" relation_type="asymmetric" id="113198_14" ></RELATION>
+

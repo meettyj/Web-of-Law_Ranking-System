@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['twehjersey#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_907" id1="118582" volume="535" start="0" page_number="907" standard_reporter="U.S." citation_global_level_id="740.002" line="1" id="118576_1" citation_local_level_id="0" >535 U.S. 907</CITATION>
+
+<CITATION party2="NEW JERSEY" party1="TWEH" citation_global_level_id="58808.001" party2_short="JERSEY" line="2" id="118576_2" alternative_keys="['u.s._535_907']" end="35" entry_type="party_key" lookup_key="twehjersey#1" id1="118576" start="17" party1_short="TWEH" citation_local_level_id="1" >TWEH v. NEW JERSEY</CITATION>
+
+<NAME end="21" start="17" party1_of="118576_2" all_names="TWEH" local_name_id="1" id="118576_3" >TWEH</NAME>
+
+<NAME end="35" start="25" all_names="NEW JERSEY" party2_of="118576_2" local_name_id="2" id="118576_4" >NEW JERSEY</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="twehjersey#1" id1="118576" start="45" citation_global_level_id="58808.001" line="3" id="118576_7" citation_local_level_id="1" >01-7523</DOCKET>
+
+<DATE start="98" citation_global_level_id="58808.001" end="111" id="118576_8" citation_local_level_id="1" >March 4, 2002</DATE>
+
+<NAME start="133" local_name_id="3" end="138" id="118576_12" all_names="SUPER" >Super</NAME>
+
+<RELATION theme="118576_2" party1="118576_3" party1_string="TWEH" theme_string="TWEH v. NEW JERSEY" gram_type="infix" relation_type="asymmetric" id="118576_5" ></RELATION>
+
+<RELATION party2="118576_4" theme="118576_2" theme_string="TWEH v. NEW JERSEY" party2_string="NEW JERSEY" gram_type="infix" relation_type="asymmetric" id="118576_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 907" X_vs_Y_string="TWEH v. NEW JERSEY" standard_case="118576_1" X_vs_Y="118576_2" gram_type="multi_line" relation_type="equivalence" id="118576_9" ></RELATION>
+
+<RELATION at_date_string="March 4, 2002" theme="118576_2" at_date="118576_8" theme_string="TWEH v. NEW JERSEY" gram_type="multi_line" relation_type="asymmetric" id="118576_11" ></RELATION>
+
+<RELATION theme="118576_2" includes_docket_string="01-7523" includes_docket="118576_7" theme_string="TWEH v. NEW JERSEY" gram_type="multi_line" relation_type="asymmetric" id="118576_10" ></RELATION>
+

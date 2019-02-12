@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['goffstates#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1066" id1="130082" volume="538" start="0" page_number="1066" standard_reporter="U.S." citation_global_level_id="4330.002" line="1" id="130088_1" citation_local_level_id="0" >538 U.S. 1066</CITATION>
+
+<CITATION party2="UNITED STATES" party1="GOFF" citation_global_level_id="5362.001" party2_short="STATES" line="1" id="130088_3" alternative_keys="['u.s._538_1066']" end="39" entry_type="party_key" lookup_key="goffstates#1" id1="130088" start="18" party1_short="GOFF" citation_local_level_id="1" >GOFF v. UNITED STATES</CITATION>
+
+<NAME end="22" start="18" party1_of="130088_3" all_names="GOFF" local_name_id="1" id="130088_4" >GOFF</NAME>
+
+<NAME end="39" start="26" all_names="UNITED STATES" party2_of="130088_3" local_name_id="2" id="130088_5" >UNITED STATES</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._538_1066" id1="130082" start="49" citation_global_level_id="4330.002" line="1" id="130088_2" citation_local_level_id="0" >02-10307</DOCKET>
+
+<DATE start="99" end="111" id="130088_6" >May 27, 2003</DATE>
+
+<NAME start="240" local_name_id="3" end="243" id="130088_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="293" reporter="F.3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_314_1248" id1="Dummy_File_225259" volume="314" start="280" page_number="1248" standard_reporter="F.3D" citation_global_level_id="289109.001" line="3" id="130088_12" citation_local_level_id="2" >314 F.3d 1248</CITATION>
+
+<RELATION theme="130088_1" includes_docket_string="02-10307" includes_docket="130088_2" theme_string="538 U.S. 1066" gram_type="apposition" relation_type="asymmetric" id="130088_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1066" X_vs_Y_string="GOFF v. UNITED STATES" standard_case="130088_1" X_vs_Y="130088_3" gram_type="pre_nom" relation_type="equivalence" id="130088_7" ></RELATION>
+
+<RELATION theme="130088_3" includes_docket_string="02-10307" includes_docket="130088_2" theme_string="GOFF v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="130088_10" ></RELATION>
+
+<RELATION theme="130088_3" party1="130088_4" party1_string="GOFF" theme_string="GOFF v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="130088_8" ></RELATION>
+
+<RELATION party2="130088_5" theme="130088_3" theme_string="GOFF v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="130088_9" ></RELATION>
+

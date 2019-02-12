@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['whabstates#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_1004" id1="135870" volume="541" start="0" page_number="1004" standard_reporter="U.S." citation_global_level_id="2943.002" line="1" id="135869_1" citation_local_level_id="0" >541 U.S. 1004</CITATION>
+
+<CITATION party2="UNITED STATES" party1="WHAB" citation_global_level_id="57773.001" party2_short="STATES" line="2" id="135869_2" alternative_keys="['u.s._541_1004']" end="39" entry_type="party_key" lookup_key="whabstates#2" id1="135869" start="18" party1_short="WHAB" citation_local_level_id="1" >WHAB v. UNITED STATES</CITATION>
+
+<NAME end="22" start="18" party1_of="135869_2" all_names="WHAB" local_name_id="1" id="135869_3" >WHAB</NAME>
+
+<NAME end="39" start="26" all_names="UNITED STATES" party2_of="135869_2" local_name_id="2" id="135869_4" >UNITED STATES</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="whabstates#2" id1="135869" start="49" citation_global_level_id="57773.001" line="3" id="135869_7" citation_local_level_id="1" >03-9455</DOCKET>
+
+<ORGANIZATION start="62" end="92" id="135869_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="98" citation_global_level_id="57773.001" end="112" id="135869_9" citation_local_level_id="1" >April 19, 2004</DATE>
+
+<NAME start="143" local_name_id="3" end="146" id="135869_14" all_names="CIR" >Cir</NAME>
+
+<CITATION end="196" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_355_155" id1="Dummy_File_40404" volume="355" start="183" page_number="155" standard_reporter="F.3D" citation_global_level_id="104254.001" line="8" id="135869_13" citation_local_level_id="2" >355 F. 3d 155</CITATION>
+
+<RELATION theme="135869_2" party1="135869_3" party1_string="WHAB" theme_string="WHAB v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="135869_5" ></RELATION>
+
+<RELATION party2="135869_4" theme="135869_2" theme_string="WHAB v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="135869_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 1004" X_vs_Y_string="WHAB v. UNITED STATES" standard_case="135869_1" X_vs_Y="135869_2" gram_type="multi_line" relation_type="equivalence" id="135869_10" ></RELATION>
+
+<RELATION at_date_string="April 19, 2004" theme="135869_2" at_date="135869_9" theme_string="WHAB v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="135869_12" ></RELATION>
+
+<RELATION theme="135869_2" includes_docket_string="03-9455" includes_docket="135869_7" theme_string="WHAB v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="135869_11" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['davistexas#7']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_999" id1="144181" volume="544" start="0" page_number="999" standard_reporter="U.S." citation_global_level_id="4096.002" line="1" id="144180_1" citation_local_level_id="0" >544 U.S. 999</CITATION>
+
+<CITATION party2="BRAZOS COUNTY, TEXAS, ET AL" party1="DAVIS ET UX." citation_global_level_id="58337.001" party2_short="TEXAS" line="2" id="144180_2" alternative_keys="['u.s._544_999']" end="60" entry_type="party_key" lookup_key="davistexas#7" id1="144692" start="17" party1_short="DAVIS" citation_local_level_id="1" >DAVIS ET UX. v. BRAZOS COUNTY, TEXAS, ET AL</CITATION>
+
+<NAME end="29" start="17" party1_of="144180_2" all_names="DAVIS UX" local_name_id="1" id="144180_3" >DAVIS ET UX.</NAME>
+
+<NAME end="60" start="33" all_names="BRAZOS COUNTY TEXAS" party2_of="144180_2" local_name_id="2" id="144180_4" >BRAZOS COUNTY, TEXAS, ET AL</NAME>
+
+<DOCKET end="77" entry_type="docket" lookup_key="davistexas#7" id1="144692" start="70" citation_global_level_id="58337.001" line="3" id="144180_7" citation_local_level_id="1" >04-1120</DOCKET>
+
+<ORGANIZATION start="83" end="113" id="144180_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="119" citation_global_level_id="58337.001" end="133" id="144180_9" citation_local_level_id="1" >April 25, 2005</DATE>
+
+<NAME start="165" local_name_id="3" end="168" id="144180_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="144180_2" party1="144180_3" party1_string="DAVIS ET UX." theme_string="DAVIS ET UX. v. BRAZOS COUNTY, TEXAS, ET AL" gram_type="infix" relation_type="asymmetric" id="144180_5" ></RELATION>
+
+<RELATION party2="144180_4" theme="144180_2" theme_string="DAVIS ET UX. v. BRAZOS COUNTY, TEXAS, ET AL" party2_string="BRAZOS COUNTY, TEXAS, ET AL" gram_type="infix" relation_type="asymmetric" id="144180_6" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 999" X_vs_Y_string="DAVIS ET UX. v. BRAZOS COUNTY, TEXAS, ET AL" standard_case="144180_1" X_vs_Y="144180_2" gram_type="multi_line" relation_type="equivalence" id="144180_10" ></RELATION>
+
+<RELATION at_date_string="April 25, 2005" theme="144180_2" at_date="144180_9" theme_string="DAVIS ET UX. v. BRAZOS COUNTY, TEXAS, ET AL" gram_type="multi_line" relation_type="asymmetric" id="144180_12" ></RELATION>
+
+<RELATION theme="144180_2" includes_docket_string="04-1120" includes_docket="144180_7" theme_string="DAVIS ET UX. v. BRAZOS COUNTY, TEXAS, ET AL" gram_type="multi_line" relation_type="asymmetric" id="144180_11" ></RELATION>
+

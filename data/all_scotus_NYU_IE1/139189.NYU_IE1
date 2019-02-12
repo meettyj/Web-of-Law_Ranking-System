@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['sotocourt#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_909" id1="139179" volume="543" start="0" page_number="909" standard_reporter="U.S." citation_global_level_id="888.002" line="1" id="139189_1" citation_local_level_id="0" >543 U.S. 909</CITATION>
+
+<CITATION party2="CIRCUIT COURT OF ILLINOIS, COOK COUNTY" party1="SOTO" citation_global_level_id="11883.001" party2_short="COURT" line="2" id="139189_2" alternative_keys="['u.s._543_909']" end="63" entry_type="party_key" lookup_key="sotocourt#1" id1="139189" start="17" party1_short="SOTO" citation_local_level_id="1" >SOTO v. CIRCUIT COURT OF ILLINOIS, COOK COUNTY</CITATION>
+
+<NAME end="21" start="17" party1_of="139189_2" all_names="SOTO" local_name_id="1" id="139189_3" >SOTO</NAME>
+
+<NAME end="63" start="25" all_names="CIRCUIT COURT OF ILLINOIS COOK COUNTY" party2_of="139189_2" local_name_id="2" id="139189_4" >CIRCUIT COURT OF ILLINOIS, COOK COUNTY</NAME>
+
+<DOCKET end="80" entry_type="docket" lookup_key="sotocourt#1" id1="139189" start="73" citation_global_level_id="11883.001" line="3" id="139189_7" citation_local_level_id="1" >04-5658</DOCKET>
+
+<ORGANIZATION start="86" end="116" id="139189_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="122" citation_global_level_id="11883.001" end="137" id="139189_9" citation_local_level_id="1" >October 4, 2004</DATE>
+
+<NAME start="159" local_name_id="3" end="162" id="139189_13" all_names="SUP" >Sup</NAME>
+
+<RELATION theme="139189_2" party1="139189_3" party1_string="SOTO" theme_string="SOTO v. CIRCUIT COURT OF ILLINOIS, COOK COUNTY" gram_type="infix" relation_type="asymmetric" id="139189_5" ></RELATION>
+
+<RELATION party2="139189_4" theme="139189_2" theme_string="SOTO v. CIRCUIT COURT OF ILLINOIS, COOK COUNTY" party2_string="CIRCUIT COURT OF ILLINOIS, COOK COUNTY" gram_type="infix" relation_type="asymmetric" id="139189_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 909" X_vs_Y_string="SOTO v. CIRCUIT COURT OF ILLINOIS, COOK COUNTY" standard_case="139189_1" X_vs_Y="139189_2" gram_type="multi_line" relation_type="equivalence" id="139189_10" ></RELATION>
+
+<RELATION at_date_string="October 4, 2004" theme="139189_2" at_date="139189_9" theme_string="SOTO v. CIRCUIT COURT OF ILLINOIS, COOK COUNTY" gram_type="multi_line" relation_type="asymmetric" id="139189_12" ></RELATION>
+
+<RELATION theme="139189_2" includes_docket_string="04-5658" includes_docket="139189_7" theme_string="SOTO v. CIRCUIT COURT OF ILLINOIS, COOK COUNTY" gram_type="multi_line" relation_type="asymmetric" id="139189_11" ></RELATION>
+

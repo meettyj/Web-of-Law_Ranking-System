@@ -1,0 +1,46 @@
+<CITATION alternative_keys="['wagnerbrotherhood#1', 's.ct._80_123', 'l.ed.2d_4_99']" end="11" reporter="U.S." entry_type="standard_key" lookup_key="u.s._361_33" id1="105953" volume="361" start="0" page_number="33" standard_reporter="U.S." citation_global_level_id="14726.002" line="1" id="105953_1" citation_local_level_id="0" >361 U.S. 33</CITATION>
+
+<CITATION alternative_keys="['u.s._361_33', 'wagnerbrotherhood#1', 'l.ed.2d_4_99']" end="29" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._80_123" id1="105953" volume="80" start="16" page_number="123" standard_reporter="S.CT." citation_global_level_id="14726.003" line="2" id="105953_2" citation_local_level_id="1" >80 S. Ct. 123</CITATION>
+
+<CITATION alternative_keys="['u.s._361_33', 's.ct._80_123', 'wagnerbrotherhood#1']" end="48" reporter="L. Ed. 2d" entry_type="standard_key" lookup_key="l.ed.2d_4_99" id1="105953" volume="4" start="34" page_number="99" standard_reporter="L.ED.2D" citation_global_level_id="14726.004" line="3" id="105953_3" citation_local_level_id="2" >4 L. Ed. 2d 99</CITATION>
+
+<CITATION party2="INTERNATIONAL BROTHERHOOD OF ELECTRICIANS, LOCAL" party1="George J. WAGNER" citation_global_level_id="14726.001" party2_short="BROTHERHOOD" line="4" id="105953_4" alternative_keys="['u.s._361_33', 's.ct._80_123', 'l.ed.2d_4_99']" end="125" entry_type="party_key" lookup_key="wagnerbrotherhood#1" id1="105953" start="53" party1_short="WAGNER" citation_local_level_id="3" >George J. WAGNER v. INTERNATIONAL BROTHERHOOD OF ELECTRICIANS, LOCAL</CITATION>
+
+<NAME end="69" start="53" party1_of="105953_4" all_names="GEORGE J WAGNER" local_name_id="1" id="105953_5" >George J. WAGNER</NAME>
+
+<NAME end="125" start="77" all_names="INTERNATIONAL BROTHERHOOD OF ELECTRICIANS LOCAL" party2_of="105953_4" local_name_id="2" id="105953_6" >INTERNATIONAL BROTHERHOOD OF ELECTRICIANS, LOCAL</NAME>
+
+<ORGANIZATION start="170" end="204" id="105953_12" >Supreme Court of the United States</ORGANIZATION>
+
+<DATE start="211" end="227" id="105953_13" >October 19, 1959</DATE>
+
+<NAME start="234" local_name_id="3" end="251" id="105953_14" all_names="MR PAUL GINSBERG" >Mr. Paul Ginsberg</NAME>
+
+<LEGAL_ROLE start="257" end="266" id="105953_15" party="party1" >appellant</LEGAL_ROLE>
+
+<NAME start="274" local_name_id="4" end="291" id="105953_16" all_names="MR CARL E GLOCK" >Mr. Carl E. Glock</NAME>
+
+<LEGAL_ROLE start="297" end="340" id="105953_17" >appellee Pittsburgh &amp; Lake Erie Railroad Co</LEGAL_ROLE>
+
+<NAME start="348" local_name_id="5" end="391" id="105953_18" all_names="MESSRS LOYAL H GREGG AND RICHARD R LYMAN" >Messrs. Loyal H. Gregg and Richard R. Lyman</NAME>
+
+<LEGAL_ROLE end="405" name="International Brotherhood of Electricians" start="397" party="party2" local_name_id="6" id="105953_19" >appellee</LEGAL_ROLE>
+
+<NAME start="406" local_name_id="6" end="447" id="105953_20" all_names="INTERNATIONAL BROTHERHOOD OF ELECTRICIANS" >International Brotherhood of Electricians</NAME>
+
+<NAME start="455" local_name_id="7" end="457" id="105953_21" all_names="NO" >No</NAME>
+
+<NAME start="475" local_name_id="8" end="481" id="105953_23" all_names="CURIAM" >CURIAM</NAME>
+
+<RELATION theme="105953_4" party1="105953_5" party1_string="George J. WAGNER" theme_string="George J. WAGNER v.     INTERNATIONAL BROTHERHOOD OF ELECTRICIANS, LOCAL" gram_type="infix" relation_type="asymmetric" id="105953_7" ></RELATION>
+
+<RELATION party2="105953_6" theme="105953_4" theme_string="George J. WAGNER v.     INTERNATIONAL BROTHERHOOD OF ELECTRICIANS, LOCAL" party2_string="INTERNATIONAL BROTHERHOOD OF ELECTRICIANS, LOCAL" gram_type="infix" relation_type="asymmetric" id="105953_8" ></RELATION>
+
+<RELATION standard_case_string="361 U.S. 33" X_vs_Y_string="George J. WAGNER v.     INTERNATIONAL BROTHERHOOD OF ELECTRICIANS, LOCAL" standard_case="105953_1" X_vs_Y="105953_4" gram_type="multi_line" relation_type="equivalence" id="105953_9" ></RELATION>
+
+<RELATION standard_case_string="80 S. Ct. 123" X_vs_Y_string="George J. WAGNER v.     INTERNATIONAL BROTHERHOOD OF ELECTRICIANS, LOCAL" standard_case="105953_2" X_vs_Y="105953_4" gram_type="multi_line" relation_type="equivalence" id="105953_10" ></RELATION>
+
+<RELATION standard_case_string="4 L. Ed. 2d 99" X_vs_Y_string="George J. WAGNER v.     INTERNATIONAL BROTHERHOOD OF ELECTRICIANS, LOCAL" standard_case="105953_3" X_vs_Y="105953_4" gram_type="multi_line" relation_type="equivalence" id="105953_11" ></RELATION>
+
+<RELATION theme="105953_20" legal_role="105953_19" id="105953_22" theme_string="International Brotherhood of Electricians" gram_type="pre_nom" relation_type="asymmetric" legal_role_string="appellee" ></RELATION>
+

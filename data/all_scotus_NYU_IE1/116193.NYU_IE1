@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['mayabbtexas#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1060" id1="116194" volume="510" start="0" page_number="1060" standard_reporter="U.S." citation_global_level_id="8419.002" line="1" id="116193_1" citation_local_level_id="0" >510 U.S. 1060</CITATION>
+
+<CITATION party2="Texas" party1="Mayabb" citation_global_level_id="50107.001" party2_short="Texas" line="1" id="116193_3" alternative_keys="['u.s._510_1060']" end="33" entry_type="party_key" lookup_key="mayabbtexas#1" id1="116193" start="18" party1_short="Mayabb" citation_local_level_id="1" >Mayabb v. Texas</CITATION>
+
+<NAME end="24" start="18" party1_of="116193_3" all_names="MAYABB" local_name_id="1" id="116193_4" >Mayabb</NAME>
+
+<NAME end="33" start="28" all_names="TEXAS" party2_of="116193_3" local_name_id="2" id="116193_5" >Texas</NAME>
+
+<DOCKET end="50" entry_type="docket" lookup_key="u.s._510_1060" id1="116194" start="43" citation_global_level_id="8419.002" line="1" id="116193_2" citation_local_level_id="0" >93-6809</DOCKET>
+
+<DATE start="92" end="108" id="116193_6" >January 10, 1994</DATE>
+
+<NAME start="191" local_name_id="3" end="201" id="116193_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="116193_1" includes_docket_string="93-6809" includes_docket="116193_2" theme_string="510 U.S. 1060" gram_type="apposition" relation_type="asymmetric" id="116193_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1060" X_vs_Y_string="Mayabb v. Texas" standard_case="116193_1" X_vs_Y="116193_3" gram_type="pre_nom" relation_type="equivalence" id="116193_7" ></RELATION>
+
+<RELATION theme="116193_3" includes_docket_string="93-6809" includes_docket="116193_2" theme_string="Mayabb v. Texas" gram_type="apposition" relation_type="asymmetric" id="116193_10" ></RELATION>
+
+<RELATION theme="116193_3" party1="116193_4" party1_string="Mayabb" theme_string="Mayabb v. Texas" gram_type="infix" relation_type="asymmetric" id="116193_8" ></RELATION>
+
+<RELATION party2="116193_5" theme="116193_3" theme_string="Mayabb v. Texas" party2_string="Texas" gram_type="infix" relation_type="asymmetric" id="116193_9" ></RELATION>
+

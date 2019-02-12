@@ -1,0 +1,36 @@
+<CITATION alternative_keys="['smithsmith#2', 's.ct._81_1050', 'l.ed.2d_6_233']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._366_210" id1="106233" volume="366" start="0" page_number="210" standard_reporter="U.S." citation_global_level_id="2661.002" line="1" id="106233_1" citation_local_level_id="0" >366 U.S. 210</CITATION>
+
+<CITATION alternative_keys="['u.s._366_210', 'smithsmith#2', 'l.ed.2d_6_233']" end="31" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._81_1050" id1="106233" volume="81" start="17" page_number="1050" standard_reporter="S.CT." citation_global_level_id="2661.003" line="1" id="106233_2" citation_local_level_id="1" >81 S. Ct. 1050</CITATION>
+
+<NAME start="20" local_name_id="1" end="25" id="106233_8" all_names="S CT" >S. Ct</NAME>
+
+<CITATION alternative_keys="['u.s._366_210', 's.ct._81_1050', 'smithsmith#2']" end="51" reporter="L. Ed. 2d" entry_type="standard_key" lookup_key="l.ed.2d_6_233" id1="106233" volume="6" start="36" page_number="233" standard_reporter="L.ED.2D" citation_global_level_id="2661.004" line="1" id="106233_3" citation_local_level_id="2" >6 L. Ed. 2d 233</CITATION>
+
+<CITATION party2="Hunter SMITH" party1="Nettie SMITH" citation_global_level_id="24823.001" party2_short="SMITH" line="1" id="106233_4" alternative_keys="['u.s._366_210', 's.ct._81_1050', 'l.ed.2d_6_233']" end="84" entry_type="party_key" lookup_key="smithsmith#2" id1="128948" start="56" party1_short="SMITH" citation_local_level_id="3" >Nettie SMITH v. Hunter SMITH</CITATION>
+
+<NAME end="68" start="56" party1_of="106233_4" all_names="NETTIE SMITH" local_name_id="2" id="106233_5" >Nettie SMITH</NAME>
+
+<NAME end="84" start="72" all_names="HUNTER SMITH" party2_of="106233_4" local_name_id="3" id="106233_6" >Hunter SMITH</NAME>
+
+<DATE start="142" end="153" id="106233_7" >May 1, 1961</DATE>
+
+<NAME start="201" local_name_id="4" end="220" id="106233_14" all_names="HAROLD HENKEL SMITH" >Harold Henkel Smith</NAME>
+
+<LEGAL_ROLE start="226" end="234" id="106233_15" party="party2" >appellee</LEGAL_ROLE>
+
+<NAME start="246" local_name_id="5" end="252" id="106233_16" all_names="CURIAM" >CURIAM</NAME>
+
+<ORGANIZATION start="380" end="411" id="106233_17" >Circuit Court of Raleigh County</ORGANIZATION>
+
+<NAME start="413" local_name_id="6" end="435" id="106233_18" all_names="STATE OF WEST VIRGINIA" >State of West Virginia</NAME>
+
+<RELATION standard_case_string="366 U.S. 210" X_vs_Y_string="Nettie SMITH v. Hunter SMITH" standard_case="106233_1" X_vs_Y="106233_4" gram_type="pre_nom" relation_type="equivalence" id="106233_10" ></RELATION>
+
+<RELATION standard_case_string="81 S. Ct. 1050" X_vs_Y_string="Nettie SMITH v. Hunter SMITH" standard_case="106233_2" X_vs_Y="106233_4" gram_type="pre_nom" relation_type="equivalence" id="106233_11" ></RELATION>
+
+<RELATION standard_case_string="6 L. Ed. 2d 233" X_vs_Y_string="Nettie SMITH v. Hunter SMITH" standard_case="106233_3" X_vs_Y="106233_4" gram_type="pre_nom" relation_type="equivalence" id="106233_9" ></RELATION>
+
+<RELATION theme="106233_4" party1="106233_5" party1_string="Nettie SMITH" theme_string="Nettie SMITH v. Hunter SMITH" gram_type="infix" relation_type="asymmetric" id="106233_12" ></RELATION>
+
+<RELATION party2="106233_6" theme="106233_4" theme_string="Nettie SMITH v. Hunter SMITH" party2_string="Hunter SMITH" gram_type="infix" relation_type="asymmetric" id="106233_13" ></RELATION>
+

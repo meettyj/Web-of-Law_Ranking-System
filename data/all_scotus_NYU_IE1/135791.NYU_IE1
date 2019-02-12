@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['garrettillinois#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_998" id1="135789" volume="541" start="0" page_number="998" standard_reporter="U.S." citation_global_level_id="551.002" line="1" id="135791_1" citation_local_level_id="0" >541 U.S. 998</CITATION>
+
+<CITATION party2="ILLINOIS" party1="GARRETT" citation_global_level_id="41424.001" party2_short="ILLINOIS" line="2" id="135791_2" alternative_keys="['u.s._541_998']" end="36" entry_type="party_key" lookup_key="garrettillinois#1" id1="135791" start="17" party1_short="GARRETT" citation_local_level_id="1" >GARRETT v. ILLINOIS</CITATION>
+
+<NAME end="24" start="17" party1_of="135791_2" all_names="GARRETT" local_name_id="1" id="135791_3" >GARRETT</NAME>
+
+<NAME end="36" start="28" all_names="ILLINOIS" party2_of="135791_2" local_name_id="2" id="135791_4" >ILLINOIS</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="garrettillinois#1" id1="135791" start="46" citation_global_level_id="41424.001" line="3" id="135791_7" citation_local_level_id="1" >03-9105</DOCKET>
+
+<ORGANIZATION start="59" end="89" id="135791_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="95" citation_global_level_id="41424.001" end="109" id="135791_9" citation_local_level_id="1" >April 19, 2004</DATE>
+
+<NAME start="131" local_name_id="3" end="134" id="135791_14" all_names="APP" >App</NAME>
+
+<CITATION end="230" reporter="N. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.e.2d_835_466" id1="Dummy_File_106055" volume="835" start="214" page_number="466" standard_reporter="N.E.2D" citation_global_level_id="169905.001" line="8" id="135791_13" citation_local_level_id="2" >835 N. E. 2d 466</CITATION>
+
+<RELATION theme="135791_2" party1="135791_3" party1_string="GARRETT" theme_string="GARRETT v. ILLINOIS" gram_type="infix" relation_type="asymmetric" id="135791_5" ></RELATION>
+
+<RELATION party2="135791_4" theme="135791_2" theme_string="GARRETT v. ILLINOIS" party2_string="ILLINOIS" gram_type="infix" relation_type="asymmetric" id="135791_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 998" X_vs_Y_string="GARRETT v. ILLINOIS" standard_case="135791_1" X_vs_Y="135791_2" gram_type="multi_line" relation_type="equivalence" id="135791_10" ></RELATION>
+
+<RELATION at_date_string="April 19, 2004" theme="135791_2" at_date="135791_9" theme_string="GARRETT v. ILLINOIS" gram_type="multi_line" relation_type="asymmetric" id="135791_12" ></RELATION>
+
+<RELATION theme="135791_2" includes_docket_string="03-9105" includes_docket="135791_7" theme_string="GARRETT v. ILLINOIS" gram_type="multi_line" relation_type="asymmetric" id="135791_11" ></RELATION>
+

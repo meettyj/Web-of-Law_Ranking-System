@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['mcclendoncity#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1232" id1="127709" volume="537" start="0" page_number="1232" standard_reporter="U.S." citation_global_level_id="355.002" line="1" id="127710_1" citation_local_level_id="0" >537 U.S. 1232</CITATION>
+
+<CITATION party2="CITY OF COLUMBIA, MISSISSIPPI, ET AL" party1="McCLENDON" citation_global_level_id="355.005" party2_short="CITY" line="1" id="127710_3" alternative_keys="['u.s._537_1232']" end="67" entry_type="party_key" lookup_key="mcclendoncity#2" id1="127709" start="18" party1_short="McCLENDON" citation_local_level_id="1" >McCLENDON v. CITY OF COLUMBIA, MISSISSIPPI, ET AL</CITATION>
+
+<NAME end="27" start="18" party1_of="127710_3" all_names="MCCLENDON" local_name_id="1" id="127710_4" >McCLENDON</NAME>
+
+<NAME end="67" start="31" all_names="CITY OF COLUMBIA MISSISSIPPI" party2_of="127710_3" local_name_id="2" id="127710_5" >CITY OF COLUMBIA, MISSISSIPPI, ET AL</NAME>
+
+<DOCKET end="83" entry_type="docket" lookup_key="u.s._537_1232" id1="127709" start="77" citation_global_level_id="355.002" line="1" id="127710_2" citation_local_level_id="0" >02-861</DOCKET>
+
+<DATE start="125" end="138" id="127710_6" >March 3, 2003</DATE>
+
+<NAME start="267" local_name_id="3" end="270" id="127710_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="320" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_305_314" id1="Dummy_File_191865" volume="305" start="307" page_number="314" standard_reporter="F.3D" citation_global_level_id="255715.001" line="3" id="127710_12" citation_local_level_id="2" >305 F. 3d 314</CITATION>
+
+<RELATION theme="127710_1" includes_docket_string="02-861" includes_docket="127710_2" theme_string="537 U.S. 1232" gram_type="apposition" relation_type="asymmetric" id="127710_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1232" X_vs_Y_string="McCLENDON v. CITY OF COLUMBIA, MISSISSIPPI, ET AL" standard_case="127710_1" X_vs_Y="127710_3" gram_type="pre_nom" relation_type="equivalence" id="127710_7" ></RELATION>
+
+<RELATION theme="127710_3" includes_docket_string="02-861" includes_docket="127710_2" theme_string="McCLENDON v. CITY OF COLUMBIA, MISSISSIPPI, ET AL" gram_type="apposition" relation_type="asymmetric" id="127710_10" ></RELATION>
+
+<RELATION theme="127710_3" party1="127710_4" party1_string="McCLENDON" theme_string="McCLENDON v. CITY OF COLUMBIA, MISSISSIPPI, ET AL" gram_type="infix" relation_type="asymmetric" id="127710_8" ></RELATION>
+
+<RELATION party2="127710_5" theme="127710_3" theme_string="McCLENDON v. CITY OF COLUMBIA, MISSISSIPPI, ET AL" party2_string="CITY OF COLUMBIA, MISSISSIPPI, ET AL" gram_type="infix" relation_type="asymmetric" id="127710_9" ></RELATION>
+

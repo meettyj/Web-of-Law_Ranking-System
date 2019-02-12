@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['finanderservices#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_938" id1="135002" volume="541" start="0" page_number="938" standard_reporter="U.S." citation_global_level_id="388.002" line="1" id="134997_1" citation_local_level_id="0" >541 U.S. 938</CITATION>
+
+<CITATION party2="BURRELLE'S INFORMATION SERVICES ET AL" party1="FINANDER" citation_global_level_id="388.006" party2_short="SERVICES" line="2" id="134997_2" alternative_keys="['u.s._541_938']" end="66" entry_type="party_key" lookup_key="finanderservices#2" id1="135002" start="17" party1_short="FINANDER" citation_local_level_id="1" >FINANDER v. BURRELLE'S INFORMATION SERVICES ET AL</CITATION>
+
+<NAME end="25" start="17" party1_of="134997_2" all_names="FINANDER" local_name_id="1" id="134997_3" >FINANDER</NAME>
+
+<NAME end="66" start="29" all_names="BURRELLE'S INFORMATION SERVICES" party2_of="134997_2" local_name_id="2" id="134997_4" >BURRELLE'S INFORMATION SERVICES ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._541_938']" end="83" entry_type="docket" lookup_key="finanderservices#2" id1="135002" start="76" citation_global_level_id="388.006" line="3" id="134997_7" citation_local_level_id="1" >03-1104</DOCKET>
+
+<ORGANIZATION start="89" end="119" id="134997_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="125" citation_global_level_id="388.006" end="139" id="134997_9" citation_local_level_id="1" >March 22, 2004</DATE>
+
+<NAME start="171" local_name_id="3" end="174" id="134997_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="134997_2" party1="134997_3" party1_string="FINANDER" theme_string="FINANDER v. BURRELLE'S INFORMATION SERVICES ET AL" gram_type="infix" relation_type="asymmetric" id="134997_5" ></RELATION>
+
+<RELATION party2="134997_4" theme="134997_2" theme_string="FINANDER v. BURRELLE'S INFORMATION SERVICES ET AL" party2_string="BURRELLE'S INFORMATION SERVICES ET AL" gram_type="infix" relation_type="asymmetric" id="134997_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 938" X_vs_Y_string="FINANDER v. BURRELLE'S INFORMATION SERVICES ET AL" standard_case="134997_1" X_vs_Y="134997_2" gram_type="multi_line" relation_type="equivalence" id="134997_10" ></RELATION>
+
+<RELATION at_date_string="March 22, 2004" theme="134997_2" at_date="134997_9" theme_string="FINANDER v. BURRELLE'S INFORMATION SERVICES ET AL" gram_type="multi_line" relation_type="asymmetric" id="134997_12" ></RELATION>
+
+<RELATION theme="134997_2" includes_docket_string="03-1104" includes_docket="134997_7" theme_string="FINANDER v. BURRELLE'S INFORMATION SERVICES ET AL" gram_type="multi_line" relation_type="asymmetric" id="134997_11" ></RELATION>
+

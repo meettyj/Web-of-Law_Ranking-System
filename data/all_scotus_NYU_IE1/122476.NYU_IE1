@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['benningtoncaterpillar#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_819" id1="122475" volume="537" start="0" page_number="819" standard_reporter="U.S." citation_global_level_id="3388.002" line="1" id="122476_1" citation_local_level_id="0" >537 U.S. 819</CITATION>
+
+<CITATION party2="CATERPILLAR, INC" party1="BENNINGTON" citation_global_level_id="58681.001" party2_short="CATERPILLAR" line="1" id="122476_3" alternative_keys="['u.s._537_819']" end="47" entry_type="party_key" lookup_key="benningtoncaterpillar#1" id1="122476" start="17" party1_short="BENNINGTON" citation_local_level_id="1" >BENNINGTON v. CATERPILLAR, INC</CITATION>
+
+<NAME end="27" start="17" party1_of="122476_3" all_names="BENNINGTON" local_name_id="1" id="122476_4" >BENNINGTON</NAME>
+
+<NAME end="47" start="31" all_names="CATERPILLAR INC" party2_of="122476_3" local_name_id="2" id="122476_5" >CATERPILLAR, INC</NAME>
+
+<DOCKET end="64" entry_type="docket" lookup_key="u.s._537_819" id1="122475" start="57" citation_global_level_id="3388.002" line="1" id="122476_2" citation_local_level_id="0" >01-1753</DOCKET>
+
+<DATE start="60" end="64" id="122476_6" >1753</DATE>
+
+<DATE start="106" end="121" id="122476_7" >October 7, 2002</DATE>
+
+<NAME start="252" local_name_id="3" end="255" id="122476_15" all_names="CIR" >Cir</NAME>
+
+<CITATION end="305" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_275_654" id1="Dummy_File_192674" volume="275" start="292" page_number="654" standard_reporter="F.3D" citation_global_level_id="256524.001" line="3" id="122476_14" citation_local_level_id="2" >275 F. 3d 654</CITATION>
+
+<RELATION theme="122476_1" includes_docket_string="01-1753" includes_docket="122476_2" theme_string="537 U.S. 819" gram_type="apposition" relation_type="asymmetric" id="122476_12" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 819" X_vs_Y_string="BENNINGTON v. CATERPILLAR, INC" standard_case="122476_1" X_vs_Y="122476_3" gram_type="pre_nom" relation_type="equivalence" id="122476_8" ></RELATION>
+
+<RELATION theme="122476_3" includes_docket_string="01-1753" includes_docket="122476_2" theme_string="BENNINGTON v. CATERPILLAR, INC" gram_type="apposition" relation_type="asymmetric" id="122476_11" ></RELATION>
+
+<RELATION party2="122476_5" theme="122476_3" theme_string="BENNINGTON v. CATERPILLAR, INC" party2_string="CATERPILLAR, INC" gram_type="infix" relation_type="asymmetric" id="122476_10" ></RELATION>
+
+<RELATION theme="122476_3" party1="122476_4" party1_string="BENNINGTON" theme_string="BENNINGTON v. CATERPILLAR, INC" gram_type="infix" relation_type="asymmetric" id="122476_9" ></RELATION>
+
+<RELATION at_date_string="1753" theme="122476_2" at_date="122476_6" theme_string="01-1753" gram_type="infix" relation_type="asymmetric" id="122476_13" ></RELATION>
+

@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['stewartmississippi#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_924" id1="123856" volume="537" start="0" page_number="924" standard_reporter="U.S." citation_global_level_id="971.002" line="1" id="123869_1" citation_local_level_id="0" >537 U.S. 924</CITATION>
+
+<CITATION party2="MISSISSIPPI" party1="STEWART" citation_global_level_id="58407.001" party2_short="MISSISSIPPI" line="1" id="123869_3" alternative_keys="['u.s._537_924']" end="39" entry_type="party_key" lookup_key="stewartmississippi#1" id1="123869" start="17" party1_short="STEWART" citation_local_level_id="1" >STEWART v. MISSISSIPPI</CITATION>
+
+<NAME end="24" start="17" party1_of="123869_3" all_names="STEWART" local_name_id="1" id="123869_4" >STEWART</NAME>
+
+<NAME end="39" start="28" all_names="MISSISSIPPI" party2_of="123869_3" local_name_id="2" id="123869_5" >MISSISSIPPI</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._537_924" id1="123856" start="49" citation_global_level_id="971.002" line="1" id="123869_2" citation_local_level_id="0" >02-5580</DOCKET>
+
+<DATE start="98" end="113" id="123869_6" >October 7, 2002</DATE>
+
+<NAME start="208" local_name_id="3" end="211" id="123869_12" all_names="SUP" >Sup</NAME>
+
+<RELATION theme="123869_1" includes_docket_string="02-5580" includes_docket="123869_2" theme_string="537 U.S. 924" gram_type="apposition" relation_type="asymmetric" id="123869_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 924" X_vs_Y_string="STEWART v. MISSISSIPPI" standard_case="123869_1" X_vs_Y="123869_3" gram_type="pre_nom" relation_type="equivalence" id="123869_7" ></RELATION>
+
+<RELATION theme="123869_3" includes_docket_string="02-5580" includes_docket="123869_2" theme_string="STEWART v. MISSISSIPPI" gram_type="apposition" relation_type="asymmetric" id="123869_10" ></RELATION>
+
+<RELATION theme="123869_3" party1="123869_4" party1_string="STEWART" theme_string="STEWART v. MISSISSIPPI" gram_type="infix" relation_type="asymmetric" id="123869_8" ></RELATION>
+
+<RELATION party2="123869_5" theme="123869_3" theme_string="STEWART v. MISSISSIPPI" party2_string="MISSISSIPPI" gram_type="infix" relation_type="asymmetric" id="123869_9" ></RELATION>
+

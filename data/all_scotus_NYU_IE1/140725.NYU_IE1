@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['reedwoodford#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1030" id1="140729" volume="543" start="0" page_number="1030" standard_reporter="U.S." citation_global_level_id="7860.002" line="1" id="140725_1" citation_local_level_id="0" >543 U.S. 1030</CITATION>
+
+<CITATION party2="WOODFORD, DIRECTOR, CALIFORNIA DEPARTMENT OF CORRECTIONS" party1="REED" citation_global_level_id="7860.003" party2_short="WOODFORD" line="2" id="140725_2" alternative_keys="['u.s._543_1030']" end="82" entry_type="party_key" lookup_key="reedwoodford#1" id1="140729" start="18" party1_short="REED" citation_local_level_id="1" >REED v. WOODFORD, DIRECTOR, CALIFORNIA DEPARTMENT OF CORRECTIONS</CITATION>
+
+<NAME end="22" start="18" party1_of="140725_2" all_names="REED" local_name_id="1" id="140725_3" >REED</NAME>
+
+<NAME end="82" start="26" all_names="WOODFORD DIRECTOR CALIFORNIA DEPARTMENT OF CORRECTIONS" party2_of="140725_2" local_name_id="2" id="140725_4" >WOODFORD, DIRECTOR, CALIFORNIA DEPARTMENT OF CORRECTIONS</NAME>
+
+<DOCKET alternative_keys="['u.s._543_1030']" end="114" entry_type="docket" lookup_key="reedwoodford#1" id1="140729" start="106" citation_global_level_id="7860.003" line="3" id="140725_7" citation_local_level_id="1" >03-10285</DOCKET>
+
+<ORGANIZATION start="120" end="150" id="140725_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="156" citation_global_level_id="7860.003" end="172" id="140725_9" citation_local_level_id="1" >December 6, 2004</DATE>
+
+<NAME start="194" local_name_id="3" end="203" id="140725_13" all_names="PETITIONS" >Petitions</NAME>
+
+<RELATION theme="140725_2" party1="140725_3" party1_string="REED" theme_string="REED v. WOODFORD, DIRECTOR, CALIFORNIA DEPARTMENT OF CORRECTIONS" gram_type="infix" relation_type="asymmetric" id="140725_5" ></RELATION>
+
+<RELATION party2="140725_4" theme="140725_2" theme_string="REED v. WOODFORD, DIRECTOR, CALIFORNIA DEPARTMENT OF CORRECTIONS" party2_string="WOODFORD, DIRECTOR, CALIFORNIA DEPARTMENT OF CORRECTIONS" gram_type="infix" relation_type="asymmetric" id="140725_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1030" X_vs_Y_string="REED v. WOODFORD, DIRECTOR, CALIFORNIA DEPARTMENT OF CORRECTIONS" standard_case="140725_1" X_vs_Y="140725_2" gram_type="multi_line" relation_type="equivalence" id="140725_10" ></RELATION>
+
+<RELATION at_date_string="December 6, 2004" theme="140725_2" at_date="140725_9" theme_string="REED v. WOODFORD, DIRECTOR, CALIFORNIA DEPARTMENT OF CORRECTIONS" gram_type="multi_line" relation_type="asymmetric" id="140725_12" ></RELATION>
+
+<RELATION theme="140725_2" includes_docket_string="03-10285" includes_docket="140725_7" theme_string="REED v. WOODFORD, DIRECTOR, CALIFORNIA DEPARTMENT OF CORRECTIONS" gram_type="multi_line" relation_type="asymmetric" id="140725_11" ></RELATION>
+

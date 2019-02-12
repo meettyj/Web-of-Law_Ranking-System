@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['resnyder#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_979" id1="124564" volume="537" start="0" page_number="979" standard_reporter="U.S." citation_global_level_id="3720.002" line="1" id="124563_1" citation_local_level_id="0" >537 U.S. 979</CITATION>
+
+<CITATION party2="SNYDER, WARDEN, ET AL" party1="RE" citation_global_level_id="3720.003" party2_short="SNYDER" line="1" id="124563_3" alternative_keys="['u.s._537_979']" end="44" entry_type="party_key" lookup_key="resnyder#1" id1="124564" start="17" party1_short="RE" citation_local_level_id="1" >RE v. SNYDER, WARDEN, ET AL</CITATION>
+
+<NAME end="19" start="17" party1_of="124563_3" all_names="RE" local_name_id="1" id="124563_4" >RE</NAME>
+
+<NAME end="44" start="23" all_names="SNYDER WARDEN" party2_of="124563_3" local_name_id="2" id="124563_5" >SNYDER, WARDEN, ET AL</NAME>
+
+<DOCKET end="61" entry_type="docket" lookup_key="u.s._537_979" id1="124564" start="54" citation_global_level_id="3720.002" line="1" id="124563_2" citation_local_level_id="0" >02-5995</DOCKET>
+
+<DATE start="103" end="119" id="124563_6" >October 21, 2002</DATE>
+
+<NAME start="247" local_name_id="3" end="250" id="124563_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="300" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_293_678" id1="Dummy_File_83132" volume="293" start="287" page_number="678" standard_reporter="F.3D" citation_global_level_id="146982.001" line="3" id="124563_12" citation_local_level_id="2" >293 F. 3d 678</CITATION>
+
+<RELATION theme="124563_1" includes_docket_string="02-5995" includes_docket="124563_2" theme_string="537 U.S. 979" gram_type="apposition" relation_type="asymmetric" id="124563_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 979" X_vs_Y_string="RE v. SNYDER, WARDEN, ET AL" standard_case="124563_1" X_vs_Y="124563_3" gram_type="pre_nom" relation_type="equivalence" id="124563_7" ></RELATION>
+
+<RELATION theme="124563_3" includes_docket_string="02-5995" includes_docket="124563_2" theme_string="RE v. SNYDER, WARDEN, ET AL" gram_type="apposition" relation_type="asymmetric" id="124563_10" ></RELATION>
+
+<RELATION theme="124563_3" party1="124563_4" party1_string="RE" theme_string="RE v. SNYDER, WARDEN, ET AL" gram_type="infix" relation_type="asymmetric" id="124563_8" ></RELATION>
+
+<RELATION party2="124563_5" theme="124563_3" theme_string="RE v. SNYDER, WARDEN, ET AL" party2_string="SNYDER, WARDEN, ET AL" gram_type="infix" relation_type="asymmetric" id="124563_9" ></RELATION>
+

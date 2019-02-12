@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['dermanstates#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1048" id1="125373" volume="537" start="0" page_number="1048" standard_reporter="U.S." citation_global_level_id="2106.002" line="1" id="125375_1" citation_local_level_id="0" >537 U.S. 1048</CITATION>
+
+<CITATION party2="UNITED STATES" party1="DERMAN" citation_global_level_id="41545.001" party2_short="STATES" line="1" id="125375_3" alternative_keys="['u.s._537_1048']" end="41" entry_type="party_key" lookup_key="dermanstates#2" id1="124009" start="18" party1_short="DERMAN" citation_local_level_id="1" >DERMAN v. UNITED STATES</CITATION>
+
+<NAME end="24" start="18" party1_of="125375_3" all_names="DERMAN" local_name_id="1" id="125375_4" >DERMAN</NAME>
+
+<NAME end="41" start="28" all_names="UNITED STATES" party2_of="125375_3" local_name_id="2" id="125375_5" >UNITED STATES</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._537_1048" id1="125373" start="51" citation_global_level_id="2106.002" line="1" id="125375_2" citation_local_level_id="0" >02-611</DOCKET>
+
+<DATE start="99" end="115" id="125375_6" >December 2, 2002</DATE>
+
+<NAME start="234" local_name_id="3" end="247" id="125375_13" all_names="C A 1ST CIR" >C. A. 1st Cir</NAME>
+
+<NAME start="249" local_name_id="4" end="259" id="125375_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION alternative_keys="['dermanstates#2']" end="296" reporter="F. 3d" entry_type="standard_key" lookup_key="f.3d_298_34" id1="124009" volume="298" start="284" page_number="34" standard_reporter="F.3D" citation_global_level_id="41545.002" line="3" id="125375_12" citation_local_level_id="2" >298 F. 3d 34</CITATION>
+
+<RELATION theme="125375_1" includes_docket_string="02-611" includes_docket="125375_2" theme_string="537 U.S. 1048" gram_type="apposition" relation_type="asymmetric" id="125375_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1048" X_vs_Y_string="DERMAN v. UNITED STATES" standard_case="125375_1" X_vs_Y="125375_3" gram_type="pre_nom" relation_type="equivalence" id="125375_7" ></RELATION>
+
+<RELATION theme="125375_3" includes_docket_string="02-611" includes_docket="125375_2" theme_string="DERMAN v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="125375_10" ></RELATION>
+
+<RELATION theme="125375_3" party1="125375_4" party1_string="DERMAN" theme_string="DERMAN v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="125375_8" ></RELATION>
+
+<RELATION party2="125375_5" theme="125375_3" theme_string="DERMAN v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="125375_9" ></RELATION>
+

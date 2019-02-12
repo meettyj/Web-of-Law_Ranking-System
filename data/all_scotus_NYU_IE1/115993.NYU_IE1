@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['edensohaida#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1046" id1="116004" volume="510" start="0" page_number="1046" standard_reporter="U.S." citation_global_level_id="347.002" line="1" id="115993_1" citation_local_level_id="0" >510 U.S. 1046</CITATION>
+
+<CITATION party2="Haida Corp" party1="Edenso" citation_global_level_id="25913.001" party2_short="Haida" line="1" id="115993_3" alternative_keys="['u.s._510_1046']" end="38" entry_type="party_key" lookup_key="edensohaida#1" id1="115993" start="18" party1_short="Edenso" citation_local_level_id="1" >Edenso v. Haida Corp</CITATION>
+
+<NAME end="24" start="18" party1_of="115993_3" all_names="EDENSO" local_name_id="1" id="115993_4" >Edenso</NAME>
+
+<NAME end="38" start="28" all_names="HAIDA CORP" party2_of="115993_3" local_name_id="2" id="115993_5" >Haida Corp</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="u.s._510_1046" id1="116004" start="48" citation_global_level_id="347.002" line="1" id="115993_2" citation_local_level_id="0" >93-770</DOCKET>
+
+<DATE start="96" end="112" id="115993_6" >January 10, 1994</DATE>
+
+<NAME start="190" local_name_id="3" end="200" id="115993_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="237" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_2_1156" id1="Dummy_File_57615" volume="2" start="225" page_number="1156" standard_reporter="F.3D" citation_global_level_id="121465.001" line="3" id="115993_12" citation_local_level_id="2" >2 F. 3d 1156</CITATION>
+
+<RELATION theme="115993_1" includes_docket_string="93-770" includes_docket="115993_2" theme_string="510 U.S. 1046" gram_type="apposition" relation_type="asymmetric" id="115993_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1046" X_vs_Y_string="Edenso v. Haida Corp" standard_case="115993_1" X_vs_Y="115993_3" gram_type="pre_nom" relation_type="equivalence" id="115993_7" ></RELATION>
+
+<RELATION theme="115993_3" includes_docket_string="93-770" includes_docket="115993_2" theme_string="Edenso v. Haida Corp" gram_type="apposition" relation_type="asymmetric" id="115993_10" ></RELATION>
+
+<RELATION theme="115993_3" party1="115993_4" party1_string="Edenso" theme_string="Edenso v. Haida Corp" gram_type="infix" relation_type="asymmetric" id="115993_8" ></RELATION>
+
+<RELATION party2="115993_5" theme="115993_3" theme_string="Edenso v. Haida Corp" party2_string="Haida Corp" gram_type="infix" relation_type="asymmetric" id="115993_9" ></RELATION>
+

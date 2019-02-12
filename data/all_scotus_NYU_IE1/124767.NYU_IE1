@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['industriescantuba#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1000" id1="124767" volume="537" start="0" page_number="1000" standard_reporter="U.S." citation_global_level_id="1596.002" line="1" id="124767_1" citation_local_level_id="0" >537 U.S. 1000</CITATION>
+
+<CITATION party2="CANTUBA ET AL" party1="MITSUBISHI HEAVY INDUSTRIES, LTD." citation_global_level_id="1596.001" party2_short="CANTUBA" line="1" id="124767_3" alternative_keys="['u.s._537_1000']" end="68" entry_type="party_key" lookup_key="industriescantuba#1" id1="124767" start="18" party1_short="INDUSTRIES" citation_local_level_id="1" >MITSUBISHI HEAVY INDUSTRIES, LTD. v. CANTUBA ET AL</CITATION>
+
+<NAME end="51" start="18" party1_of="124767_3" all_names="MITSUBISHI HEAVY INDUSTRIES LTD" local_name_id="1" id="124767_4" >MITSUBISHI HEAVY INDUSTRIES, LTD.</NAME>
+
+<ORGANIZATION start="18" end="50" id="124767_7" >MITSUBISHI HEAVY INDUSTRIES, LTD</ORGANIZATION>
+
+<NAME end="68" start="55" all_names="CANTUBA" party2_of="124767_3" local_name_id="2" id="124767_5" >CANTUBA ET AL</NAME>
+
+<DOCKET end="84" entry_type="docket" lookup_key="u.s._537_1000" id1="124767" start="78" citation_global_level_id="1596.002" line="1" id="124767_2" citation_local_level_id="0" >02-189</DOCKET>
+
+<DATE start="126" end="142" id="124767_6" >November 4, 2002</DATE>
+
+<NAME start="261" local_name_id="3" end="263" id="124767_14" all_names="CT" >Ct</NAME>
+
+<CITATION end="332" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_811_50" id1="Dummy_File_133334" volume="811" start="319" page_number="50" standard_reporter="SO.2D" citation_global_level_id="197184.001" line="3" id="124767_13" citation_local_level_id="2" >811 So. 2d 50</CITATION>
+
+<RELATION theme="124767_1" includes_docket_string="02-189" includes_docket="124767_2" theme_string="537 U.S. 1000" gram_type="apposition" relation_type="asymmetric" id="124767_12" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1000" X_vs_Y_string="MITSUBISHI HEAVY INDUSTRIES, LTD. v. CANTUBA ET AL" standard_case="124767_1" X_vs_Y="124767_3" gram_type="pre_nom" relation_type="equivalence" id="124767_8" ></RELATION>
+
+<RELATION theme="124767_3" includes_docket_string="02-189" includes_docket="124767_2" theme_string="MITSUBISHI HEAVY INDUSTRIES, LTD. v. CANTUBA ET AL" gram_type="apposition" relation_type="asymmetric" id="124767_11" ></RELATION>
+
+<RELATION party2="124767_5" theme="124767_3" theme_string="MITSUBISHI HEAVY INDUSTRIES, LTD. v. CANTUBA ET AL" party2_string="CANTUBA ET AL" gram_type="infix" relation_type="asymmetric" id="124767_10" ></RELATION>
+
+<RELATION theme="124767_3" party1="124767_4" party1_string="MITSUBISHI HEAVY INDUSTRIES, LTD." theme_string="MITSUBISHI HEAVY INDUSTRIES, LTD. v. CANTUBA ET AL" gram_type="infix" relation_type="asymmetric" id="124767_9" ></RELATION>
+

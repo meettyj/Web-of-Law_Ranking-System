@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['whiteuniversity#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_970" id1="115068" volume="510" start="0" page_number="970" standard_reporter="U.S." citation_global_level_id="1146.002" line="1" id="115058_1" citation_local_level_id="0" >510 U.S. 970</CITATION>
+
+<CITATION party2="Temple University" party1="White" citation_global_level_id="28556.001" party2_short="University" line="1" id="115058_3" alternative_keys="['u.s._510_970']" end="43" entry_type="party_key" lookup_key="whiteuniversity#2" id1="115058" start="17" party1_short="White" citation_local_level_id="1" >White v. Temple University</CITATION>
+
+<NAME end="22" start="17" party1_of="115058_3" all_names="WHITE" local_name_id="1" id="115058_4" >White</NAME>
+
+<NAME end="43" start="26" all_names="TEMPLE UNIVERSITY" party2_of="115058_3" local_name_id="2" id="115058_5" >Temple University</NAME>
+
+<DOCKET end="60" entry_type="docket" lookup_key="u.s._510_970" id1="115068" start="53" citation_global_level_id="1146.002" line="1" id="115058_2" citation_local_level_id="0" >93-6059</DOCKET>
+
+<DATE start="102" end="118" id="115058_6" >November 8, 1993</DATE>
+
+<NAME start="195" local_name_id="3" end="205" id="115058_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="115058_1" includes_docket_string="93-6059" includes_docket="115058_2" theme_string="510 U.S. 970" gram_type="apposition" relation_type="asymmetric" id="115058_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 970" X_vs_Y_string="White v. Temple University" standard_case="115058_1" X_vs_Y="115058_3" gram_type="pre_nom" relation_type="equivalence" id="115058_7" ></RELATION>
+
+<RELATION theme="115058_3" includes_docket_string="93-6059" includes_docket="115058_2" theme_string="White v. Temple University" gram_type="apposition" relation_type="asymmetric" id="115058_10" ></RELATION>
+
+<RELATION theme="115058_3" party1="115058_4" party1_string="White" theme_string="White v. Temple University" gram_type="infix" relation_type="asymmetric" id="115058_8" ></RELATION>
+
+<RELATION party2="115058_5" theme="115058_3" theme_string="White v. Temple University" party2_string="Temple University" gram_type="infix" relation_type="asymmetric" id="115058_9" ></RELATION>
+

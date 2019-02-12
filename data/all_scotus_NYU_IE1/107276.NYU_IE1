@@ -1,0 +1,38 @@
+<CITATION alternative_keys="['statescompany#1', 's.ct._86_1367', 'l.ed.2d_16_438']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._384_917" id1="107276" volume="384" start="0" page_number="917" standard_reporter="U.S." citation_global_level_id="5579.002" line="1" id="107276_1" citation_local_level_id="0" >384 U.S. 917</CITATION>
+
+<CITATION alternative_keys="['u.s._384_917', 'statescompany#1', 'l.ed.2d_16_438']" end="31" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._86_1367" id1="107276" volume="86" start="17" page_number="1367" standard_reporter="S.CT." citation_global_level_id="5579.003" line="1" id="107276_2" citation_local_level_id="1" >86 S. Ct. 1367</CITATION>
+
+<NAME start="20" local_name_id="1" end="25" id="107276_10" all_names="S CT" >S. Ct</NAME>
+
+<CITATION alternative_keys="['u.s._384_917', 's.ct._86_1367', 'statescompany#1']" end="52" reporter="L. Ed. 2d" entry_type="standard_key" lookup_key="l.ed.2d_16_438" id1="107276" volume="16" start="36" page_number="438" standard_reporter="L.ED.2D" citation_global_level_id="5579.004" line="1" id="107276_3" citation_local_level_id="2" >16 L. Ed. 2d 438</CITATION>
+
+<CITATION party2="ACME PROCESS EQUIPMENT COMPANY" alternative_keys="['u.s._384_917', 's.ct._86_1367', 'l.ed.2d_16_438']" party1="UNITED STATES," end="117" party1_short="STATES" entry_type="party_key" party1_role="petitioner" lookup_key="statescompany#1" id1="107276" start="57" citation_global_level_id="5579.001" party2_short="COMPANY" line="1" id="107276_4" citation_local_level_id="3" >UNITED STATES, petitioner, v. ACME PROCESS EQUIPMENT COMPANY</CITATION>
+
+<NAME end="71" start="57" party1_of="107276_4" all_names="UNITED STATES" local_name_id="2" id="107276_6" >UNITED STATES,</NAME>
+
+<LEGAL_ROLE start="72" end="82" id="107276_8" >petitioner</LEGAL_ROLE>
+
+<NAME end="117" start="87" all_names="ACME PROCESS EQUIPMENT COMPANY" party2_of="107276_4" local_name_id="3" id="107276_7" >ACME PROCESS EQUIPMENT COMPANY</NAME>
+
+<DATE start="176" end="190" id="107276_9" >April 25, 1966</DATE>
+
+<NAME start="330" local_name_id="4" end="341" id="107276_16" all_names="JACK REPHAN" >Jack Rephan</NAME>
+
+<NAME start="343" local_name_id="5" end="379" id="107276_17" all_names="RAYMOND R DICKEY AND BERNARD GORDON" >Raymond R. Dickey and Bernard Gordon</NAME>
+
+<LEGAL_ROLE start="385" end="395" id="107276_18" >respondent</LEGAL_ROLE>
+
+<NAME start="422" local_name_id="6" end="430" id="107276_19" all_names="PETITION" >Petition</NAME>
+
+<ORGANIZATION start="461" end="490" id="107276_20" >United States Court of Claims</ORGANIZATION>
+
+<RELATION standard_case_string="384 U.S. 917" X_vs_Y_string="UNITED STATES, petitioner, v. ACME PROCESS EQUIPMENT COMPANY" standard_case="107276_1" X_vs_Y="107276_4" gram_type="pre_nom" relation_type="equivalence" id="107276_12" ></RELATION>
+
+<RELATION standard_case_string="86 S. Ct. 1367" X_vs_Y_string="UNITED STATES, petitioner, v. ACME PROCESS EQUIPMENT COMPANY" standard_case="107276_2" X_vs_Y="107276_4" gram_type="pre_nom" relation_type="equivalence" id="107276_13" ></RELATION>
+
+<RELATION standard_case_string="16 L. Ed. 2d 438" X_vs_Y_string="UNITED STATES, petitioner, v. ACME PROCESS EQUIPMENT COMPANY" standard_case="107276_3" X_vs_Y="107276_4" gram_type="pre_nom" relation_type="equivalence" id="107276_11" ></RELATION>
+
+<RELATION theme="107276_4" party1="107276_6" party1_string="UNITED STATES," theme_string="UNITED STATES, petitioner, v. ACME PROCESS EQUIPMENT COMPANY" gram_type="infix" relation_type="asymmetric" id="107276_14" ></RELATION>
+
+<RELATION party2="107276_7" theme="107276_4" theme_string="UNITED STATES, petitioner, v. ACME PROCESS EQUIPMENT COMPANY" party2_string="ACME PROCESS EQUIPMENT COMPANY" gram_type="infix" relation_type="asymmetric" id="107276_15" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['couchstates#4']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1038" id1="125263" volume="537" start="0" page_number="1038" standard_reporter="U.S." citation_global_level_id="4356.002" line="1" id="125277_1" citation_local_level_id="0" >537 U.S. 1038</CITATION>
+
+<CITATION party2="UNITED STATES" party1="COUCH" citation_global_level_id="63167.001" party2_short="STATES" line="1" id="125277_3" alternative_keys="['u.s._537_1038']" end="40" entry_type="party_key" lookup_key="couchstates#4" id1="108650" start="18" party1_short="COUCH" citation_local_level_id="1" >COUCH v. UNITED STATES</CITATION>
+
+<NAME end="23" start="18" party1_of="125277_3" all_names="COUCH" local_name_id="1" id="125277_4" >COUCH</NAME>
+
+<NAME end="40" start="27" all_names="UNITED STATES" party2_of="125277_3" local_name_id="2" id="125277_5" >UNITED STATES</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._537_1038" id1="125263" start="50" citation_global_level_id="4356.002" line="1" id="125277_2" citation_local_level_id="0" >02-6926</DOCKET>
+
+<DATE start="99" end="116" id="125277_6" >November 18, 2002</DATE>
+
+<NAME start="244" local_name_id="3" end="247" id="125277_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="297" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_291_251" id1="Dummy_File_209661" volume="291" start="284" page_number="251" standard_reporter="F.3D" citation_global_level_id="273511.001" line="3" id="125277_12" citation_local_level_id="2" >291 F. 3d 251</CITATION>
+
+<RELATION theme="125277_1" includes_docket_string="02-6926" includes_docket="125277_2" theme_string="537 U.S. 1038" gram_type="apposition" relation_type="asymmetric" id="125277_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1038" X_vs_Y_string="COUCH v. UNITED STATES" standard_case="125277_1" X_vs_Y="125277_3" gram_type="pre_nom" relation_type="equivalence" id="125277_7" ></RELATION>
+
+<RELATION theme="125277_3" includes_docket_string="02-6926" includes_docket="125277_2" theme_string="COUCH v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="125277_10" ></RELATION>
+
+<RELATION theme="125277_3" party1="125277_4" party1_string="COUCH" theme_string="COUCH v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="125277_8" ></RELATION>
+
+<RELATION party2="125277_5" theme="125277_3" theme_string="COUCH v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="125277_9" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['seymourwarden#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_969" id1="115049" volume="510" start="0" page_number="969" standard_reporter="U.S." citation_global_level_id="2782.002" line="1" id="115052_1" citation_local_level_id="0" >510 U.S. 969</CITATION>
+
+<CITATION party2="Money, Warden" party1="Seymour" citation_global_level_id="61843.001" party2_short="Warden" line="1" id="115052_3" alternative_keys="['u.s._510_969']" end="41" entry_type="party_key" lookup_key="seymourwarden#1" id1="115052" start="17" party1_short="Seymour" citation_local_level_id="1" >Seymour v. Money, Warden</CITATION>
+
+<NAME end="24" start="17" party1_of="115052_3" all_names="SEYMOUR" local_name_id="1" id="115052_4" >Seymour</NAME>
+
+<NAME end="41" start="28" all_names="MONEY WARDEN" party2_of="115052_3" local_name_id="2" id="115052_5" >Money, Warden</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._510_969" id1="115049" start="51" citation_global_level_id="2782.002" line="1" id="115052_2" citation_local_level_id="0" >93-6048</DOCKET>
+
+<DATE start="100" end="116" id="115052_6" >November 8, 1993</DATE>
+
+<NAME start="194" local_name_id="3" end="204" id="115052_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="243" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_996_1217" id1="Dummy_File_34056" volume="996" start="229" page_number="1217" standard_reporter="F.2D" citation_global_level_id="97906.001" line="3" id="115052_12" citation_local_level_id="2" >996 F. 2d 1217</CITATION>
+
+<RELATION theme="115052_1" includes_docket_string="93-6048" includes_docket="115052_2" theme_string="510 U.S. 969" gram_type="apposition" relation_type="asymmetric" id="115052_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 969" X_vs_Y_string="Seymour v. Money, Warden" standard_case="115052_1" X_vs_Y="115052_3" gram_type="pre_nom" relation_type="equivalence" id="115052_7" ></RELATION>
+
+<RELATION theme="115052_3" includes_docket_string="93-6048" includes_docket="115052_2" theme_string="Seymour v. Money, Warden" gram_type="apposition" relation_type="asymmetric" id="115052_10" ></RELATION>
+
+<RELATION theme="115052_3" party1="115052_4" party1_string="Seymour" theme_string="Seymour v. Money, Warden" gram_type="infix" relation_type="asymmetric" id="115052_8" ></RELATION>
+
+<RELATION party2="115052_5" theme="115052_3" theme_string="Seymour v. Money, Warden" party2_string="Money, Warden" gram_type="infix" relation_type="asymmetric" id="115052_9" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['scherpennsylvania#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_908" id1="127999" volume="538" start="0" page_number="908" standard_reporter="U.S." citation_global_level_id="6196.002" line="1" id="127997_1" citation_local_level_id="0" >538 U.S. 908</CITATION>
+
+<CITATION party2="PENNSYLVANIA" party1="SCHER" citation_global_level_id="26292.001" party2_short="PENNSYLVANIA" line="1" id="127997_3" alternative_keys="['u.s._538_908']" end="38" entry_type="party_key" lookup_key="scherpennsylvania#1" id1="127997" start="17" party1_short="SCHER" citation_local_level_id="1" >SCHER v. PENNSYLVANIA</CITATION>
+
+<NAME end="22" start="17" party1_of="127997_3" all_names="SCHER" local_name_id="1" id="127997_4" >SCHER</NAME>
+
+<NAME end="38" start="26" all_names="PENNSYLVANIA" party2_of="127997_3" local_name_id="2" id="127997_5" >PENNSYLVANIA</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._538_908" id1="127999" start="48" citation_global_level_id="6196.002" line="1" id="127997_2" citation_local_level_id="0" >02-1031</DOCKET>
+
+<DATE start="97" end="111" id="127997_6" >March 10, 2003</DATE>
+
+<NAME start="207" local_name_id="3" end="210" id="127997_13" all_names="SUP" >Sup</NAME>
+
+<CITATION end="282" reporter="A. 2d" entry_type="standard_key" no_current_file="True" lookup_key="a.2d_803_1204" id1="Dummy_File_191590" volume="803" start="268" page_number="1204" standard_reporter="A.2D" citation_global_level_id="255440.001" line="3" id="127997_12" citation_local_level_id="2" >803 A. 2d 1204</CITATION>
+
+<RELATION theme="127997_1" includes_docket_string="02-1031" includes_docket="127997_2" theme_string="538 U.S. 908" gram_type="apposition" relation_type="asymmetric" id="127997_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 908" X_vs_Y_string="SCHER v. PENNSYLVANIA" standard_case="127997_1" X_vs_Y="127997_3" gram_type="pre_nom" relation_type="equivalence" id="127997_7" ></RELATION>
+
+<RELATION theme="127997_3" includes_docket_string="02-1031" includes_docket="127997_2" theme_string="SCHER v. PENNSYLVANIA" gram_type="apposition" relation_type="asymmetric" id="127997_10" ></RELATION>
+
+<RELATION theme="127997_3" party1="127997_4" party1_string="SCHER" theme_string="SCHER v. PENNSYLVANIA" gram_type="infix" relation_type="asymmetric" id="127997_8" ></RELATION>
+
+<RELATION party2="127997_5" theme="127997_3" theme_string="SCHER v. PENNSYLVANIA" party2_string="PENNSYLVANIA" gram_type="infix" relation_type="asymmetric" id="127997_9" ></RELATION>
+

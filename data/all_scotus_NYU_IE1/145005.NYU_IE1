@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['royalreid#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_1061" id1="145003" volume="544" start="0" page_number="1061" standard_reporter="U.S." citation_global_level_id="7281.002" line="1" id="145005_1" citation_local_level_id="0" >544 U.S. 1061</CITATION>
+
+<CITATION party2="REID" party1="ROYAL" citation_global_level_id="31478.001" party2_short="REID" line="2" id="145005_2" alternative_keys="['u.s._544_1061']" end="31" entry_type="party_key" lookup_key="royalreid#1" id1="145005" start="18" party1_short="ROYAL" citation_local_level_id="1" >ROYAL v. REID</CITATION>
+
+<NAME end="23" start="18" party1_of="145005_2" all_names="ROYAL" local_name_id="1" id="145005_3" >ROYAL</NAME>
+
+<NAME end="31" start="27" all_names="REID" party2_of="145005_2" local_name_id="2" id="145005_4" >REID</NAME>
+
+<DOCKET end="48" entry_type="docket" lookup_key="royalreid#1" id1="145005" start="41" citation_global_level_id="31478.001" line="3" id="145005_7" citation_local_level_id="1" >04-1348</DOCKET>
+
+<ORGANIZATION start="54" end="84" id="145005_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="90" citation_global_level_id="31478.001" end="102" id="145005_9" citation_local_level_id="1" >May 31, 2005</DATE>
+
+<NAME start="134" local_name_id="3" end="137" id="145005_14" all_names="CIR" >Cir</NAME>
+
+<CITATION end="187" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_375_720" id1="Dummy_File_73666" volume="375" start="174" page_number="720" standard_reporter="F.3D" citation_global_level_id="137516.001" line="8" id="145005_13" citation_local_level_id="2" >375 F. 3d 720</CITATION>
+
+<RELATION theme="145005_2" party1="145005_3" party1_string="ROYAL" theme_string="ROYAL v. REID" gram_type="infix" relation_type="asymmetric" id="145005_5" ></RELATION>
+
+<RELATION party2="145005_4" theme="145005_2" theme_string="ROYAL v. REID" party2_string="REID" gram_type="infix" relation_type="asymmetric" id="145005_6" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 1061" X_vs_Y_string="ROYAL v. REID" standard_case="145005_1" X_vs_Y="145005_2" gram_type="multi_line" relation_type="equivalence" id="145005_10" ></RELATION>
+
+<RELATION at_date_string="May 31, 2005" theme="145005_2" at_date="145005_9" theme_string="ROYAL v. REID" gram_type="multi_line" relation_type="asymmetric" id="145005_12" ></RELATION>
+
+<RELATION theme="145005_2" includes_docket_string="04-1348" includes_docket="145005_7" theme_string="ROYAL v. REID" gram_type="multi_line" relation_type="asymmetric" id="145005_11" ></RELATION>
+

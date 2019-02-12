@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['romerostates#9']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1144" id1="126652" volume="537" start="0" page_number="1144" standard_reporter="U.S." citation_global_level_id="702.002" line="1" id="126642_1" citation_local_level_id="0" >537 U.S. 1144</CITATION>
+
+<CITATION party2="UNITED STATES" party1="ROMERO" citation_global_level_id="52233.001" party2_short="STATES" line="1" id="126642_3" alternative_keys="['u.s._537_1144']" end="41" entry_type="party_key" lookup_key="romerostates#9" id1="124048" start="18" party1_short="ROMERO" citation_local_level_id="1" >ROMERO v. UNITED STATES</CITATION>
+
+<NAME end="24" start="18" party1_of="126642_3" all_names="ROMERO" local_name_id="1" id="126642_4" >ROMERO</NAME>
+
+<NAME end="41" start="28" all_names="UNITED STATES" party2_of="126642_3" local_name_id="2" id="126642_5" >UNITED STATES</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._537_1144" id1="126652" start="51" citation_global_level_id="702.002" line="1" id="126642_2" citation_local_level_id="0" >02-7878</DOCKET>
+
+<DATE start="100" end="116" id="126642_6" >January 13, 2003</DATE>
+
+<NAME start="245" local_name_id="3" end="248" id="126642_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="299" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_293_1120" id1="Dummy_File_122305" volume="293" start="285" page_number="1120" standard_reporter="F.3D" citation_global_level_id="186155.001" line="3" id="126642_12" citation_local_level_id="2" >293 F. 3d 1120</CITATION>
+
+<RELATION theme="126642_1" includes_docket_string="02-7878" includes_docket="126642_2" theme_string="537 U.S. 1144" gram_type="apposition" relation_type="asymmetric" id="126642_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1144" X_vs_Y_string="ROMERO v. UNITED STATES" standard_case="126642_1" X_vs_Y="126642_3" gram_type="pre_nom" relation_type="equivalence" id="126642_7" ></RELATION>
+
+<RELATION theme="126642_3" includes_docket_string="02-7878" includes_docket="126642_2" theme_string="ROMERO v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="126642_10" ></RELATION>
+
+<RELATION theme="126642_3" party1="126642_4" party1_string="ROMERO" theme_string="ROMERO v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="126642_8" ></RELATION>
+
+<RELATION party2="126642_5" theme="126642_3" theme_string="ROMERO v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="126642_9" ></RELATION>
+

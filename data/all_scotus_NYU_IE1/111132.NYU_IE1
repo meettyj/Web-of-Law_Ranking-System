@@ -1,0 +1,38 @@
+<CITATION alternative_keys="['corporationmeyer#3', 's.ct._104_2144', 'l.ed.2d_79_910']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._465_1091" id1="111132" volume="465" start="0" page_number="1091" standard_reporter="U.S." citation_global_level_id="9293.002" line="1" id="111132_1" citation_local_level_id="0" >465 U.S. 1091</CITATION>
+
+<CITATION alternative_keys="['u.s._465_1091', 'corporationmeyer#3', 'l.ed.2d_79_910']" end="33" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._104_2144" id1="111132" volume="104" start="18" page_number="2144" standard_reporter="S.CT." citation_global_level_id="9293.003" line="2" id="111132_2" citation_local_level_id="1" >104 S. Ct. 2144</CITATION>
+
+<CITATION alternative_keys="['u.s._465_1091', 's.ct._104_2144', 'corporationmeyer#3']" end="54" reporter="L. Ed. 2d" entry_type="standard_key" lookup_key="l.ed.2d_79_910" id1="111132" volume="79" start="38" page_number="910" standard_reporter="L.ED.2D" citation_global_level_id="9293.004" line="3" id="111132_3" citation_local_level_id="2" >79 L. Ed. 2d 910</CITATION>
+
+<CITATION party2="Joseph W. MEYER" party1="RIEGEL PRODUCTS CORPORATION,  INC., et al." citation_global_level_id="9293.005" party2_short="MEYER" line="4" id="111132_4" alternative_keys="['s.ct._104_2144', 'l.ed.2d_79_910', 'u.s._465_1091']" end="120" entry_type="party_key" lookup_key="corporationmeyer#3" id1="111132" start="59" party1_short="CORPORATION" citation_local_level_id="3" >RIEGEL PRODUCTS CORPORATION, INC., et al. v. Joseph W. MEYER</CITATION>
+
+<NAME end="101" start="59" party1_of="111132_4" all_names="RIEGEL PRODUCTS CORPORATION INC" local_name_id="1" id="111132_5" >RIEGEL PRODUCTS CORPORATION, INC., et al.</NAME>
+
+<ORGANIZATION start="59" end="92" id="111132_7" >RIEGEL PRODUCTS CORPORATION, INC</ORGANIZATION>
+
+<NAME end="120" start="105" all_names="JOSEPH W MEYER" party2_of="111132_4" local_name_id="2" id="111132_6" >Joseph W. MEYER</NAME>
+
+<DOCKET alternative_keys="['s.ct._104_2144', 'l.ed.2d_79_910', 'u.s._465_1091']" end="137" entry_type="docket" lookup_key="corporationmeyer#3" id1="111132" start="130" citation_global_level_id="9293.005" line="5" id="111132_10" citation_local_level_id="3" >83-1109</DOCKET>
+
+<ORGANIZATION start="143" end="177" id="111132_11" >Supreme Court of the United States</ORGANIZATION>
+
+<DATE start="182" citation_global_level_id="9293.005" end="196" id="111132_12" citation_local_level_id="3" >March 14, 1984</DATE>
+
+<NAME start="279" local_name_id="3" end="283" id="111132_18" all_names="RULE" >Rule</NAME>
+
+<ORGANIZATION start="295" end="300" id="111132_19" >Court</ORGANIZATION>
+
+<RELATION theme="111132_4" party1="111132_5" party1_string="RIEGEL PRODUCTS CORPORATION,  INC., et al." theme_string="RIEGEL PRODUCTS CORPORATION,  INC., et al. v. Joseph W. MEYER" gram_type="infix" relation_type="asymmetric" id="111132_8" ></RELATION>
+
+<RELATION party2="111132_6" theme="111132_4" theme_string="RIEGEL PRODUCTS CORPORATION,  INC., et al. v. Joseph W. MEYER" party2_string="Joseph W. MEYER" gram_type="infix" relation_type="asymmetric" id="111132_9" ></RELATION>
+
+<RELATION standard_case_string="465 U.S. 1091" X_vs_Y_string="RIEGEL PRODUCTS CORPORATION,  INC., et al. v. Joseph W. MEYER" standard_case="111132_1" X_vs_Y="111132_4" gram_type="multi_line" relation_type="equivalence" id="111132_13" ></RELATION>
+
+<RELATION standard_case_string="104 S. Ct. 2144" X_vs_Y_string="RIEGEL PRODUCTS CORPORATION,  INC., et al. v. Joseph W. MEYER" standard_case="111132_2" X_vs_Y="111132_4" gram_type="multi_line" relation_type="equivalence" id="111132_14" ></RELATION>
+
+<RELATION standard_case_string="79 L. Ed. 2d 910" X_vs_Y_string="RIEGEL PRODUCTS CORPORATION,  INC., et al. v. Joseph W. MEYER" standard_case="111132_3" X_vs_Y="111132_4" gram_type="multi_line" relation_type="equivalence" id="111132_15" ></RELATION>
+
+<RELATION at_date_string="March 14, 1984" theme="111132_4" at_date="111132_12" theme_string="RIEGEL PRODUCTS CORPORATION,  INC., et al. v. Joseph W. MEYER" gram_type="multi_line" relation_type="asymmetric" id="111132_17" ></RELATION>
+
+<RELATION theme="111132_4" includes_docket_string="83-1109" includes_docket="111132_10" theme_string="RIEGEL PRODUCTS CORPORATION,  INC., et al. v. Joseph W. MEYER" gram_type="multi_line" relation_type="asymmetric" id="111132_16" ></RELATION>
+

@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['connerwarden#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_908" id1="123632" volume="537" start="0" page_number="908" standard_reporter="U.S." citation_global_level_id="1442.002" line="1" id="123636_1" citation_local_level_id="0" >537 U.S. 908</CITATION>
+
+<CITATION party2="HEAD, WARDEN" party1="CONNER" citation_global_level_id="60383.001" party2_short="WARDEN" line="1" id="123636_3" alternative_keys="['u.s._537_908']" end="39" entry_type="party_key" lookup_key="connerwarden#2" id1="125678" start="17" party1_short="CONNER" citation_local_level_id="1" >CONNER v. HEAD, WARDEN</CITATION>
+
+<NAME end="23" start="17" party1_of="123636_3" all_names="CONNER" local_name_id="1" id="123636_4" >CONNER</NAME>
+
+<NAME end="39" start="27" all_names="HEAD WARDEN" party2_of="123636_3" local_name_id="2" id="123636_5" >HEAD, WARDEN</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._537_908" id1="123632" start="49" citation_global_level_id="1442.002" line="1" id="123636_2" citation_local_level_id="0" >02-5322</DOCKET>
+
+<DATE start="98" end="113" id="123636_6" >October 7, 2002</DATE>
+
+<NAME start="204" local_name_id="3" end="207" id="123636_12" all_names="SUP" >Sup</NAME>
+
+<RELATION theme="123636_1" includes_docket_string="02-5322" includes_docket="123636_2" theme_string="537 U.S. 908" gram_type="apposition" relation_type="asymmetric" id="123636_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 908" X_vs_Y_string="CONNER v. HEAD, WARDEN" standard_case="123636_1" X_vs_Y="123636_3" gram_type="pre_nom" relation_type="equivalence" id="123636_7" ></RELATION>
+
+<RELATION theme="123636_3" includes_docket_string="02-5322" includes_docket="123636_2" theme_string="CONNER v. HEAD, WARDEN" gram_type="apposition" relation_type="asymmetric" id="123636_10" ></RELATION>
+
+<RELATION theme="123636_3" party1="123636_4" party1_string="CONNER" theme_string="CONNER v. HEAD, WARDEN" gram_type="infix" relation_type="asymmetric" id="123636_8" ></RELATION>
+
+<RELATION party2="123636_5" theme="123636_3" theme_string="CONNER v. HEAD, WARDEN" party2_string="HEAD, WARDEN" gram_type="infix" relation_type="asymmetric" id="123636_9" ></RELATION>
+

@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['outlawillinois#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1122" id1="126339" volume="537" start="0" page_number="1122" standard_reporter="U.S." citation_global_level_id="13284.002" line="1" id="126336_1" citation_local_level_id="0" >537 U.S. 1122</CITATION>
+
+<CITATION party2="ILLINOIS" party1="OUTLAW" citation_global_level_id="59089.001" party2_short="ILLINOIS" line="1" id="126336_3" alternative_keys="['u.s._537_1122']" end="36" entry_type="party_key" lookup_key="outlawillinois#1" id1="126336" start="18" party1_short="OUTLAW" citation_local_level_id="1" >OUTLAW v. ILLINOIS</CITATION>
+
+<NAME end="24" start="18" party1_of="126336_3" all_names="OUTLAW" local_name_id="1" id="126336_4" >OUTLAW</NAME>
+
+<NAME end="36" start="28" all_names="ILLINOIS" party2_of="126336_3" local_name_id="2" id="126336_5" >ILLINOIS</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="u.s._537_1122" id1="126339" start="46" citation_global_level_id="13284.002" line="1" id="126336_2" citation_local_level_id="0" >02-7211</DOCKET>
+
+<DATE start="95" end="111" id="126336_6" >January 13, 2003</DATE>
+
+<NAME start="228" local_name_id="3" end="231" id="126336_12" all_names="APP" >App</NAME>
+
+<RELATION theme="126336_1" includes_docket_string="02-7211" includes_docket="126336_2" theme_string="537 U.S. 1122" gram_type="apposition" relation_type="asymmetric" id="126336_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1122" X_vs_Y_string="OUTLAW v. ILLINOIS" standard_case="126336_1" X_vs_Y="126336_3" gram_type="pre_nom" relation_type="equivalence" id="126336_7" ></RELATION>
+
+<RELATION theme="126336_3" includes_docket_string="02-7211" includes_docket="126336_2" theme_string="OUTLAW v. ILLINOIS" gram_type="apposition" relation_type="asymmetric" id="126336_10" ></RELATION>
+
+<RELATION theme="126336_3" party1="126336_4" party1_string="OUTLAW" theme_string="OUTLAW v. ILLINOIS" gram_type="infix" relation_type="asymmetric" id="126336_8" ></RELATION>
+
+<RELATION party2="126336_5" theme="126336_3" theme_string="OUTLAW v. ILLINOIS" party2_string="ILLINOIS" gram_type="infix" relation_type="asymmetric" id="126336_9" ></RELATION>
+

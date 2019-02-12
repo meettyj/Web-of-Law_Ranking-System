@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['industriesservices#3']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_1061" id1="136528" volume="541" start="0" page_number="1061" standard_reporter="U.S." citation_global_level_id="13519.002" line="1" id="136524_1" citation_local_level_id="0" >541 U.S. 1061</CITATION>
+
+<CITATION party2="AVIALL SERVICES, INC" party1="COOPER INDUSTRIES, INC." citation_global_level_id="46601.001" party2_short="SERVICES" line="2" id="136524_2" alternative_keys="['u.s._541_1061']" end="65" entry_type="party_key" lookup_key="industriesservices#3" id1="136524" start="18" party1_short="INDUSTRIES" citation_local_level_id="1" >COOPER INDUSTRIES, INC. v. AVIALL SERVICES, INC</CITATION>
+
+<NAME end="41" start="18" party1_of="136524_2" all_names="COOPER INDUSTRIES INC" local_name_id="1" id="136524_3" >COOPER INDUSTRIES, INC.</NAME>
+
+<ORGANIZATION start="18" end="40" id="136524_5" >COOPER INDUSTRIES, INC</ORGANIZATION>
+
+<NAME end="65" start="45" all_names="AVIALL SERVICES INC" party2_of="136524_2" local_name_id="2" id="136524_4" >AVIALL SERVICES, INC</NAME>
+
+<DOCKET end="82" entry_type="docket" lookup_key="industriesservices#3" id1="136524" start="75" citation_global_level_id="46601.001" line="3" id="136524_8" citation_local_level_id="1" >02-1192</DOCKET>
+
+<ORGANIZATION start="88" end="118" id="136524_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="124" citation_global_level_id="46601.001" end="136" id="136524_10" citation_local_level_id="1" >May 24, 2004</DATE>
+
+<NAME start="168" local_name_id="3" end="171" id="136524_15" all_names="CIR" >Cir</NAME>
+
+<CITATION end="208" reporter="U. S." entry_type="standard_key" no_current_file="True" lookup_key="u.s._540_1099" id1="Dummy_File_34298" volume="540" start="194" page_number="1099" standard_reporter="U.S." citation_global_level_id="98148.001" line="8" id="136524_14" citation_local_level_id="2" >540 U. S. 1099</CITATION>
+
+<RELATION theme="136524_2" party1="136524_3" party1_string="COOPER INDUSTRIES, INC." theme_string="COOPER INDUSTRIES, INC. v. AVIALL SERVICES, INC" gram_type="infix" relation_type="asymmetric" id="136524_6" ></RELATION>
+
+<RELATION party2="136524_4" theme="136524_2" theme_string="COOPER INDUSTRIES, INC. v. AVIALL SERVICES, INC" party2_string="AVIALL SERVICES, INC" gram_type="infix" relation_type="asymmetric" id="136524_7" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 1061" X_vs_Y_string="COOPER INDUSTRIES, INC. v. AVIALL SERVICES, INC" standard_case="136524_1" X_vs_Y="136524_2" gram_type="multi_line" relation_type="equivalence" id="136524_11" ></RELATION>
+
+<RELATION at_date_string="May 24, 2004" theme="136524_2" at_date="136524_10" theme_string="COOPER INDUSTRIES, INC. v. AVIALL SERVICES, INC" gram_type="multi_line" relation_type="asymmetric" id="136524_13" ></RELATION>
+
+<RELATION theme="136524_2" includes_docket_string="02-1192" includes_docket="136524_8" theme_string="COOPER INDUSTRIES, INC. v. AVIALL SERVICES, INC" gram_type="multi_line" relation_type="asymmetric" id="136524_12" ></RELATION>
+

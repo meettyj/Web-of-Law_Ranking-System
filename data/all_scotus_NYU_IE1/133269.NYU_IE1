@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['newdowcongress#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_962" id1="133270" volume="540" start="0" page_number="962" standard_reporter="U.S." citation_global_level_id="4708.002" line="1" id="133269_1" citation_local_level_id="0" >540 U.S. 962</CITATION>
+
+<CITATION party2="UNITED STATES CONGRESS ET AL" party1="NEWDOW" citation_global_level_id="9093.001" party2_short="CONGRESS" line="1" id="133269_3" alternative_keys="['u.s._540_962']" end="55" entry_type="party_key" lookup_key="newdowcongress#1" id1="133269" start="17" party1_short="NEWDOW" citation_local_level_id="1" >NEWDOW v. UNITED STATES CONGRESS ET AL</CITATION>
+
+<NAME end="23" start="17" party1_of="133269_3" all_names="NEWDOW" local_name_id="1" id="133269_4" >NEWDOW</NAME>
+
+<NAME end="55" start="27" all_names="UNITED STATES CONGRESS" party2_of="133269_3" local_name_id="2" id="133269_5" >UNITED STATES CONGRESS ET AL</NAME>
+
+<DOCKET end="69" entry_type="docket" lookup_key="u.s._540_962" id1="133270" start="65" citation_global_level_id="4708.002" line="1" id="133269_2" citation_local_level_id="0" >03-7</DOCKET>
+
+<DATE start="111" end="127" id="133269_6" >October 14, 2003</DATE>
+
+<NAME start="205" local_name_id="3" end="215" id="133269_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION alternative_keys="['newdowcongress#2']" end="332" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_328_466" id1="Dummy_File_150767" volume="328" start="319" page_number="466" standard_reporter="F.3D" citation_global_level_id="214617.005" line="3" id="133269_12" citation_local_level_id="2" >328 F. 3d 466</CITATION>
+
+<RELATION theme="133269_1" includes_docket_string="03-7" includes_docket="133269_2" theme_string="540 U.S. 962" gram_type="apposition" relation_type="asymmetric" id="133269_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 962" X_vs_Y_string="NEWDOW v. UNITED STATES CONGRESS ET AL" standard_case="133269_1" X_vs_Y="133269_3" gram_type="pre_nom" relation_type="equivalence" id="133269_7" ></RELATION>
+
+<RELATION theme="133269_3" includes_docket_string="03-7" includes_docket="133269_2" theme_string="NEWDOW v. UNITED STATES CONGRESS ET AL" gram_type="apposition" relation_type="asymmetric" id="133269_10" ></RELATION>
+
+<RELATION theme="133269_3" party1="133269_4" party1_string="NEWDOW" theme_string="NEWDOW v. UNITED STATES CONGRESS ET AL" gram_type="infix" relation_type="asymmetric" id="133269_8" ></RELATION>
+
+<RELATION party2="133269_5" theme="133269_3" theme_string="NEWDOW v. UNITED STATES CONGRESS ET AL" party2_string="UNITED STATES CONGRESS ET AL" gram_type="infix" relation_type="asymmetric" id="133269_9" ></RELATION>
+

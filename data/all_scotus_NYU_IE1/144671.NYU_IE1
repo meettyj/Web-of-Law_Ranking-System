@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['hollisrobinson#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_1037" id1="144673" volume="544" start="0" page_number="1037" standard_reporter="U.S." citation_global_level_id="13748.002" line="1" id="144671_1" citation_local_level_id="0" >544 U.S. 1037</CITATION>
+
+<CITATION party2="ROBINSON, WARDEN" party1="HOLLIS" citation_global_level_id="13748.004" party2_short="ROBINSON" line="2" id="144671_2" alternative_keys="['u.s._544_1037']" end="44" entry_type="party_key" lookup_key="hollisrobinson#1" id1="144673" start="18" party1_short="HOLLIS" citation_local_level_id="1" >HOLLIS v. ROBINSON, WARDEN</CITATION>
+
+<NAME end="24" start="18" party1_of="144671_2" all_names="HOLLIS" local_name_id="1" id="144671_3" >HOLLIS</NAME>
+
+<NAME end="44" start="28" all_names="ROBINSON WARDEN" party2_of="144671_2" local_name_id="2" id="144671_4" >ROBINSON, WARDEN</NAME>
+
+<DOCKET alternative_keys="['u.s._544_1037']" end="61" entry_type="docket" lookup_key="hollisrobinson#1" id1="144673" start="54" citation_global_level_id="13748.004" line="3" id="144671_7" citation_local_level_id="1" >04-9086</DOCKET>
+
+<ORGANIZATION start="67" end="97" id="144671_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="103" citation_global_level_id="13748.004" end="115" id="144671_9" citation_local_level_id="1" >May 16, 2005</DATE>
+
+<NAME start="147" local_name_id="3" end="150" id="144671_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="144671_2" party1="144671_3" party1_string="HOLLIS" theme_string="HOLLIS v. ROBINSON, WARDEN" gram_type="infix" relation_type="asymmetric" id="144671_5" ></RELATION>
+
+<RELATION party2="144671_4" theme="144671_2" theme_string="HOLLIS v. ROBINSON, WARDEN" party2_string="ROBINSON, WARDEN" gram_type="infix" relation_type="asymmetric" id="144671_6" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 1037" X_vs_Y_string="HOLLIS v. ROBINSON, WARDEN" standard_case="144671_1" X_vs_Y="144671_2" gram_type="multi_line" relation_type="equivalence" id="144671_10" ></RELATION>
+
+<RELATION at_date_string="May 16, 2005" theme="144671_2" at_date="144671_9" theme_string="HOLLIS v. ROBINSON, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="144671_12" ></RELATION>
+
+<RELATION theme="144671_2" includes_docket_string="04-9086" includes_docket="144671_7" theme_string="HOLLIS v. ROBINSON, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="144671_11" ></RELATION>
+

@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['insurancelasser#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_1063" id1="136544" volume="541" start="0" page_number="1063" standard_reporter="U.S." citation_global_level_id="10553.002" line="1" id="136549_1" citation_local_level_id="0" >541 U.S. 1063</CITATION>
+
+<CITATION party2="LASSER" party1="RELIANCE STANDARD LIFE INSURANCE CO." citation_global_level_id="13335.001" party2_short="LASSER" line="2" id="136549_2" alternative_keys="['u.s._541_1063']" end="64" entry_type="party_key" lookup_key="insurancelasser#1" id1="136549" start="18" party1_short="INSURANCE" citation_local_level_id="1" >RELIANCE STANDARD LIFE INSURANCE CO. v. LASSER</CITATION>
+
+<NAME end="54" start="18" party1_of="136549_2" all_names="RELIANCE STANDARD LIFE INSURANCE CO" local_name_id="1" id="136549_3" >RELIANCE STANDARD LIFE INSURANCE CO.</NAME>
+
+<ORGANIZATION start="18" end="53" id="136549_5" >RELIANCE STANDARD LIFE INSURANCE CO</ORGANIZATION>
+
+<NAME end="64" start="58" all_names="LASSER" party2_of="136549_2" local_name_id="2" id="136549_4" >LASSER</NAME>
+
+<DOCKET end="81" entry_type="docket" lookup_key="insurancelasser#1" id1="136549" start="74" citation_global_level_id="13335.001" line="3" id="136549_8" citation_local_level_id="1" >03-1203</DOCKET>
+
+<ORGANIZATION start="87" end="117" id="136549_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="123" citation_global_level_id="13335.001" end="135" id="136549_10" citation_local_level_id="1" >May 24, 2004</DATE>
+
+<NAME start="166" local_name_id="3" end="169" id="136549_15" all_names="CIR" >Cir</NAME>
+
+<CITATION end="219" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_344_381" id1="Dummy_File_71819" volume="344" start="206" page_number="381" standard_reporter="F.3D" citation_global_level_id="135669.001" line="8" id="136549_14" citation_local_level_id="2" >344 F. 3d 381</CITATION>
+
+<RELATION theme="136549_2" party1="136549_3" party1_string="RELIANCE STANDARD LIFE INSURANCE CO." theme_string="RELIANCE STANDARD LIFE INSURANCE CO. v. LASSER" gram_type="infix" relation_type="asymmetric" id="136549_6" ></RELATION>
+
+<RELATION party2="136549_4" theme="136549_2" theme_string="RELIANCE STANDARD LIFE INSURANCE CO. v. LASSER" party2_string="LASSER" gram_type="infix" relation_type="asymmetric" id="136549_7" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 1063" X_vs_Y_string="RELIANCE STANDARD LIFE INSURANCE CO. v. LASSER" standard_case="136549_1" X_vs_Y="136549_2" gram_type="multi_line" relation_type="equivalence" id="136549_11" ></RELATION>
+
+<RELATION at_date_string="May 24, 2004" theme="136549_2" at_date="136549_10" theme_string="RELIANCE STANDARD LIFE INSURANCE CO. v. LASSER" gram_type="multi_line" relation_type="asymmetric" id="136549_13" ></RELATION>
+
+<RELATION theme="136549_2" includes_docket_string="03-1203" includes_docket="136549_8" theme_string="RELIANCE STANDARD LIFE INSURANCE CO. v. LASSER" gram_type="multi_line" relation_type="asymmetric" id="136549_12" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['chapinfernald#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._542_907" id1="137076" volume="542" start="0" page_number="907" standard_reporter="U.S." citation_global_level_id="5419.002" line="1" id="137078_1" citation_local_level_id="0" >542 U.S. 907</CITATION>
+
+<CITATION party2="FERNALD, WARDEN, ET AL" party1="CHAPIN" citation_global_level_id="5419.008" party2_short="FERNALD" line="2" id="137078_2" alternative_keys="['u.s._542_907']" end="49" entry_type="party_key" lookup_key="chapinfernald#1" id1="137076" start="17" party1_short="CHAPIN" citation_local_level_id="1" >CHAPIN v. FERNALD, WARDEN, ET AL</CITATION>
+
+<NAME end="23" start="17" party1_of="137078_2" all_names="CHAPIN" local_name_id="1" id="137078_3" >CHAPIN</NAME>
+
+<NAME end="49" start="27" all_names="FERNALD WARDEN" party2_of="137078_2" local_name_id="2" id="137078_4" >FERNALD, WARDEN, ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._542_907']" end="66" entry_type="docket" lookup_key="chapinfernald#1" id1="137076" start="59" citation_global_level_id="5419.008" line="3" id="137078_7" citation_local_level_id="1" >03-9763</DOCKET>
+
+<ORGANIZATION start="72" end="102" id="137078_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="108" citation_global_level_id="5419.008" end="121" id="137078_9" citation_local_level_id="1" >June 14, 2004</DATE>
+
+<NAME start="153" local_name_id="3" end="156" id="137078_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="137078_2" party1="137078_3" party1_string="CHAPIN" theme_string="CHAPIN v. FERNALD, WARDEN, ET AL" gram_type="infix" relation_type="asymmetric" id="137078_5" ></RELATION>
+
+<RELATION party2="137078_4" theme="137078_2" theme_string="CHAPIN v. FERNALD, WARDEN, ET AL" party2_string="FERNALD, WARDEN, ET AL" gram_type="infix" relation_type="asymmetric" id="137078_6" ></RELATION>
+
+<RELATION standard_case_string="542 U.S. 907" X_vs_Y_string="CHAPIN v. FERNALD, WARDEN, ET AL" standard_case="137078_1" X_vs_Y="137078_2" gram_type="multi_line" relation_type="equivalence" id="137078_10" ></RELATION>
+
+<RELATION at_date_string="June 14, 2004" theme="137078_2" at_date="137078_9" theme_string="CHAPIN v. FERNALD, WARDEN, ET AL" gram_type="multi_line" relation_type="asymmetric" id="137078_12" ></RELATION>
+
+<RELATION theme="137078_2" includes_docket_string="03-9763" includes_docket="137078_7" theme_string="CHAPIN v. FERNALD, WARDEN, ET AL" gram_type="multi_line" relation_type="asymmetric" id="137078_11" ></RELATION>
+

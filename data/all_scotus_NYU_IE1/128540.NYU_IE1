@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['colliertime#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_950" id1="128548" volume="538" start="0" page_number="950" standard_reporter="U.S." citation_global_level_id="1245.002" line="1" id="128540_1" citation_local_level_id="0" >538 U.S. 950</CITATION>
+
+<CITATION party2="TIME, INC., ET AL" party1="COLLIER" citation_global_level_id="1245.003" party2_short="TIME" line="1" id="128540_3" alternative_keys="['u.s._538_950']" end="45" entry_type="party_key" lookup_key="colliertime#2" id1="128548" start="17" party1_short="COLLIER" citation_local_level_id="1" >COLLIER v. TIME, INC., ET AL</CITATION>
+
+<NAME end="24" start="17" party1_of="128540_3" all_names="COLLIER" local_name_id="1" id="128540_4" >COLLIER</NAME>
+
+<NAME end="45" start="28" all_names="TIME INC" party2_of="128540_3" local_name_id="2" id="128540_5" >TIME, INC., ET AL</NAME>
+
+<DOCKET end="62" entry_type="docket" lookup_key="u.s._538_950" id1="128548" start="55" citation_global_level_id="1245.002" line="1" id="128540_2" citation_local_level_id="0" >02-8753</DOCKET>
+
+<DATE start="104" end="118" id="128540_6" >March 31, 2003</DATE>
+
+<NAME start="251" local_name_id="3" end="254" id="128540_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="128540_1" includes_docket_string="02-8753" includes_docket="128540_2" theme_string="538 U.S. 950" gram_type="apposition" relation_type="asymmetric" id="128540_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 950" X_vs_Y_string="COLLIER v. TIME, INC., ET AL" standard_case="128540_1" X_vs_Y="128540_3" gram_type="pre_nom" relation_type="equivalence" id="128540_7" ></RELATION>
+
+<RELATION theme="128540_3" includes_docket_string="02-8753" includes_docket="128540_2" theme_string="COLLIER v. TIME, INC., ET AL" gram_type="apposition" relation_type="asymmetric" id="128540_10" ></RELATION>
+
+<RELATION theme="128540_3" party1="128540_4" party1_string="COLLIER" theme_string="COLLIER v. TIME, INC., ET AL" gram_type="infix" relation_type="asymmetric" id="128540_8" ></RELATION>
+
+<RELATION party2="128540_5" theme="128540_3" theme_string="COLLIER v. TIME, INC., ET AL" party2_string="TIME, INC., ET AL" gram_type="infix" relation_type="asymmetric" id="128540_9" ></RELATION>
+

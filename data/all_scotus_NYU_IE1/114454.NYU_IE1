@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['griffincooper#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_922" id1="114463" volume="510" start="0" page_number="922" standard_reporter="U.S." citation_global_level_id="84.002" line="1" id="114454_1" citation_local_level_id="0" >510 U.S. 922</CITATION>
+
+<CITATION party2="Cooper et al" party1="Griffin" citation_global_level_id="58383.001" party2_short="Cooper" line="1" id="114454_3" alternative_keys="['u.s._510_922']" end="40" entry_type="party_key" lookup_key="griffincooper#1" id1="114454" start="17" party1_short="Griffin" citation_local_level_id="1" >Griffin v. Cooper et al</CITATION>
+
+<NAME end="24" start="17" party1_of="114454_3" all_names="GRIFFIN" local_name_id="1" id="114454_4" >Griffin</NAME>
+
+<NAME end="40" start="28" all_names="COOPER" party2_of="114454_3" local_name_id="2" id="114454_5" >Cooper et al</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._510_922" id1="114463" start="50" citation_global_level_id="84.002" line="1" id="114454_2" citation_local_level_id="0" >93-5652</DOCKET>
+
+<DATE start="99" end="115" id="114454_6" >October 12, 1993</DATE>
+
+<NAME start="193" local_name_id="3" end="203" id="114454_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="241" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_994_842" id1="Dummy_File_116554" volume="994" start="228" page_number="842" standard_reporter="F.2D" citation_global_level_id="180404.001" line="3" id="114454_12" citation_local_level_id="2" >994 F. 2d 842</CITATION>
+
+<RELATION theme="114454_1" includes_docket_string="93-5652" includes_docket="114454_2" theme_string="510 U.S. 922" gram_type="apposition" relation_type="asymmetric" id="114454_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 922" X_vs_Y_string="Griffin v. Cooper et al" standard_case="114454_1" X_vs_Y="114454_3" gram_type="pre_nom" relation_type="equivalence" id="114454_7" ></RELATION>
+
+<RELATION theme="114454_3" includes_docket_string="93-5652" includes_docket="114454_2" theme_string="Griffin v. Cooper et al" gram_type="apposition" relation_type="asymmetric" id="114454_10" ></RELATION>
+
+<RELATION theme="114454_3" party1="114454_4" party1_string="Griffin" theme_string="Griffin v. Cooper et al" gram_type="infix" relation_type="asymmetric" id="114454_8" ></RELATION>
+
+<RELATION party2="114454_5" theme="114454_3" theme_string="Griffin v. Cooper et al" party2_string="Cooper et al" gram_type="infix" relation_type="asymmetric" id="114454_9" ></RELATION>
+

@@ -1,0 +1,46 @@
+<CITATION alternative_keys="['rightcommission#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_981" id1="131063" volume="539" start="0" page_number="981" standard_reporter="U.S." citation_global_level_id="5555.002" line="1" id="131068_1" citation_local_level_id="0" >539 U.S. 981</CITATION>
+
+<CITATION party2="Federal Election Commission et al" party1="National Right to Life Committee, Inc., et al." citation_global_level_id="5555.004" party2_short="Commission" line="1" id="131068_3" alternative_keys="['u.s._539_939', 'u.s._539_979', 'u.s._539_912', 'u.s._539_975', 'u.s._539_981']" end="100" no_current_file="True" entry_type="party_key" lookup_key="rightcommission#2" id1="131063" start="17" party1_short="Right" citation_local_level_id="1" >National Right to Life Committee, Inc., et al. v. Federal Election Commission et al</CITATION>
+
+<NAME end="63" start="17" party1_of="131068_3" all_names="NATIONAL RIGHT TO LIFE COMMITTEE INC" local_name_id="1" id="131068_4" >National Right to Life Committee, Inc., et al.</NAME>
+
+<ORGANIZATION start="17" end="54" id="131068_8" >National Right to Life Committee, Inc</ORGANIZATION>
+
+<NAME end="100" start="67" all_names="FEDERAL ELECTION COMMISSION" party2_of="131068_3" local_name_id="2" id="131068_5" >Federal Election Commission et al</NAME>
+
+<ORGANIZATION start="67" end="94" id="131068_9" >Federal Election Commission</ORGANIZATION>
+
+<DOCKET end="117" entry_type="docket" lookup_key="u.s._539_981" id1="131063" start="110" citation_global_level_id="5555.002" line="1" id="131068_2" citation_local_level_id="0" >02-1733</DOCKET>
+
+<DATE start="113" end="117" id="131068_6" >1733</DATE>
+
+<ORGANIZATION start="123" end="153" id="131068_10" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="159" end="174" id="131068_7" >August 25, 2003</DATE>
+
+<NAME start="196" local_name_id="3" end="222" id="131068_11" all_names="APPEAL FROM THE D C D C" >Appeal from the D. C. D. C</NAME>
+
+<NAME start="225" local_name_id="4" end="233" id="131068_12" all_names="PROBABLE" >Probable</NAME>
+
+<PROFESSION start="294" document_level_name_id="5" end="322" id="131068_19" party="MITCH MCCONNELL" >Motion of plaintiffs Senator</PROFESSION>
+
+<NAME start="323" local_name_id="5" end="338" id="131068_20" all_names="MITCH MCCONNELL" >Mitch McConnell</NAME>
+
+<NAME start="361" local_name_id="6" end="363" id="131068_21" all_names="VI" >VI</NAME>
+
+<NAME start="406" local_name_id="7" end="412" id="131068_22" all_names="MOTION" >Motion</NAME>
+
+<RELATION theme="131068_1" includes_docket_string="02-1733" includes_docket="131068_2" theme_string="539 U.S. 981" gram_type="apposition" relation_type="asymmetric" id="131068_17" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 981" X_vs_Y_string="National Right to Life Committee, Inc., et al. v. Federal Election Commission et al" standard_case="131068_1" X_vs_Y="131068_3" gram_type="pre_nom" relation_type="equivalence" id="131068_13" ></RELATION>
+
+<RELATION theme="131068_3" includes_docket_string="02-1733" includes_docket="131068_2" theme_string="National Right to Life Committee, Inc., et al. v. Federal Election Commission et al" gram_type="apposition" relation_type="asymmetric" id="131068_16" ></RELATION>
+
+<RELATION theme="131068_3" party1="131068_4" party1_string="National Right to Life Committee, Inc., et al." theme_string="National Right to Life Committee, Inc., et al. v. Federal Election Commission et al" gram_type="infix" relation_type="asymmetric" id="131068_14" ></RELATION>
+
+<RELATION party2="131068_5" theme="131068_3" theme_string="National Right to Life Committee, Inc., et al. v. Federal Election Commission et al" party2_string="Federal Election Commission et al" gram_type="infix" relation_type="asymmetric" id="131068_15" ></RELATION>
+
+<RELATION at_date_string="1733" theme="131068_2" at_date="131068_6" theme_string="02-1733" gram_type="infix" relation_type="asymmetric" id="131068_18" ></RELATION>
+
+<RELATION theme="131068_20" profession_string="Motion of plaintiffs Senator" theme_string="Mitch McConnell" profession="131068_19" gram_type="pre_nom" relation_type="asymmetric" id="131068_23" ></RELATION>
+

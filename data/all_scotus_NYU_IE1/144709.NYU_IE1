@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['jacksonmaryland#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_1040" id1="144712" volume="544" start="0" page_number="1040" standard_reporter="U.S." citation_global_level_id="432.002" line="1" id="144709_1" citation_local_level_id="0" >544 U.S. 1040</CITATION>
+
+<CITATION party2="MARYLAND" party1="JACKSON" citation_global_level_id="24969.001" party2_short="MARYLAND" line="2" id="144709_2" alternative_keys="['u.s._544_1040']" end="37" entry_type="party_key" lookup_key="jacksonmaryland#1" id1="144709" start="18" party1_short="JACKSON" citation_local_level_id="1" >JACKSON v. MARYLAND</CITATION>
+
+<NAME end="25" start="18" party1_of="144709_2" all_names="JACKSON" local_name_id="1" id="144709_3" >JACKSON</NAME>
+
+<NAME end="37" start="29" all_names="MARYLAND" party2_of="144709_2" local_name_id="2" id="144709_4" >MARYLAND</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="jacksonmaryland#1" id1="144709" start="47" citation_global_level_id="24969.001" line="3" id="144709_7" citation_local_level_id="1" >04-9420</DOCKET>
+
+<ORGANIZATION start="60" end="90" id="144709_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="96" citation_global_level_id="24969.001" end="108" id="144709_9" citation_local_level_id="1" >May 16, 2005</DATE>
+
+<NAME start="140" local_name_id="3" end="143" id="144709_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="144709_2" party1="144709_3" party1_string="JACKSON" theme_string="JACKSON v. MARYLAND" gram_type="infix" relation_type="asymmetric" id="144709_5" ></RELATION>
+
+<RELATION party2="144709_4" theme="144709_2" theme_string="JACKSON v. MARYLAND" party2_string="MARYLAND" gram_type="infix" relation_type="asymmetric" id="144709_6" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 1040" X_vs_Y_string="JACKSON v. MARYLAND" standard_case="144709_1" X_vs_Y="144709_2" gram_type="multi_line" relation_type="equivalence" id="144709_10" ></RELATION>
+
+<RELATION at_date_string="May 16, 2005" theme="144709_2" at_date="144709_9" theme_string="JACKSON v. MARYLAND" gram_type="multi_line" relation_type="asymmetric" id="144709_12" ></RELATION>
+
+<RELATION theme="144709_2" includes_docket_string="04-9420" includes_docket="144709_7" theme_string="JACKSON v. MARYLAND" gram_type="multi_line" relation_type="asymmetric" id="144709_11" ></RELATION>
+

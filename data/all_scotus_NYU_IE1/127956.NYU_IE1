@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['matthewscalifornia#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_905" id1="127953" volume="538" start="0" page_number="905" standard_reporter="U.S." citation_global_level_id="1868.002" line="1" id="127956_1" citation_local_level_id="0" >538 U.S. 905</CITATION>
+
+<CITATION party2="CALIFORNIA" party1="MATTHEWS" citation_global_level_id="59980.001" party2_short="CALIFORNIA" line="1" id="127956_3" alternative_keys="['u.s._538_905']" end="39" entry_type="party_key" lookup_key="matthewscalifornia#1" id1="127956" start="17" party1_short="MATTHEWS" citation_local_level_id="1" >MATTHEWS v. CALIFORNIA</CITATION>
+
+<NAME end="25" start="17" party1_of="127956_3" all_names="MATTHEWS" local_name_id="1" id="127956_4" >MATTHEWS</NAME>
+
+<NAME end="39" start="29" all_names="CALIFORNIA" party2_of="127956_3" local_name_id="2" id="127956_5" >CALIFORNIA</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._538_905" id1="127953" start="49" citation_global_level_id="1868.002" line="1" id="127956_2" citation_local_level_id="0" >01-10226</DOCKET>
+
+<DATE start="99" end="113" id="127956_6" >March 10, 2003</DATE>
+
+<NAME start="244" local_name_id="3" end="246" id="127956_12" all_names="CT" >Ct</NAME>
+
+<RELATION theme="127956_1" includes_docket_string="01-10226" includes_docket="127956_2" theme_string="538 U.S. 905" gram_type="apposition" relation_type="asymmetric" id="127956_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 905" X_vs_Y_string="MATTHEWS v. CALIFORNIA" standard_case="127956_1" X_vs_Y="127956_3" gram_type="pre_nom" relation_type="equivalence" id="127956_7" ></RELATION>
+
+<RELATION theme="127956_3" includes_docket_string="01-10226" includes_docket="127956_2" theme_string="MATTHEWS v. CALIFORNIA" gram_type="apposition" relation_type="asymmetric" id="127956_10" ></RELATION>
+
+<RELATION theme="127956_3" party1="127956_4" party1_string="MATTHEWS" theme_string="MATTHEWS v. CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="127956_8" ></RELATION>
+
+<RELATION party2="127956_5" theme="127956_3" theme_string="MATTHEWS v. CALIFORNIA" party2_string="CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="127956_9" ></RELATION>
+

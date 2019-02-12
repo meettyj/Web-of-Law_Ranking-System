@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['petersonrefsnes#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_815" id1="113056" volume="510" start="0" page_number="815" standard_reporter="U.S." citation_global_level_id="1931.002" line="1" id="113060_1" citation_local_level_id="0" >510 U.S. 815</CITATION>
+
+<CITATION party2="Rauscher Pierce Refsnes, Inc., et al" party1="Peterson" citation_global_level_id="1931.005" party2_short="Refsnes" line="1" id="113060_3" alternative_keys="['u.s._510_815']" end="65" entry_type="party_key" lookup_key="petersonrefsnes#2" id1="113056" start="17" party1_short="Peterson" citation_local_level_id="1" >Peterson v. Rauscher Pierce Refsnes, Inc., et al</CITATION>
+
+<NAME end="25" start="17" party1_of="113060_3" all_names="PETERSON" local_name_id="1" id="113060_4" >Peterson</NAME>
+
+<NAME end="65" start="29" all_names="RAUSCHER PIERCE REFSNES INC" party2_of="113060_3" local_name_id="2" id="113060_5" >Rauscher Pierce Refsnes, Inc., et al</NAME>
+
+<DOCKET end="82" entry_type="docket" lookup_key="u.s._510_815" id1="113056" start="75" citation_global_level_id="1931.002" line="1" id="113060_2" citation_local_level_id="0" >92-1825</DOCKET>
+
+<DATE start="78" end="82" id="113060_6" >1825</DATE>
+
+<DATE start="124" end="139" id="113060_7" >October 4, 1993</DATE>
+
+<NAME start="217" local_name_id="3" end="227" id="113060_15" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="266" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_988_1209" id1="Dummy_File_40088" volume="988" start="252" page_number="1209" standard_reporter="F.2D" citation_global_level_id="103938.001" line="3" id="113060_14" citation_local_level_id="2" >988 F. 2d 1209</CITATION>
+
+<RELATION theme="113060_1" includes_docket_string="92-1825" includes_docket="113060_2" theme_string="510 U.S. 815" gram_type="apposition" relation_type="asymmetric" id="113060_12" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 815" X_vs_Y_string="Peterson v. Rauscher Pierce Refsnes, Inc., et al" standard_case="113060_1" X_vs_Y="113060_3" gram_type="pre_nom" relation_type="equivalence" id="113060_8" ></RELATION>
+
+<RELATION theme="113060_3" includes_docket_string="92-1825" includes_docket="113060_2" theme_string="Peterson v. Rauscher Pierce Refsnes, Inc., et al" gram_type="apposition" relation_type="asymmetric" id="113060_11" ></RELATION>
+
+<RELATION party2="113060_5" theme="113060_3" theme_string="Peterson v. Rauscher Pierce Refsnes, Inc., et al" party2_string="Rauscher Pierce Refsnes, Inc., et al" gram_type="infix" relation_type="asymmetric" id="113060_10" ></RELATION>
+
+<RELATION theme="113060_3" party1="113060_4" party1_string="Peterson" theme_string="Peterson v. Rauscher Pierce Refsnes, Inc., et al" gram_type="infix" relation_type="asymmetric" id="113060_9" ></RELATION>
+
+<RELATION at_date_string="1825" theme="113060_2" at_date="113060_6" theme_string="92-1825" gram_type="infix" relation_type="asymmetric" id="113060_13" ></RELATION>
+

@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['smithyork#3']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_988" id1="140164" volume="543" start="0" page_number="988" standard_reporter="U.S." citation_global_level_id="1189.002" line="1" id="140161_1" citation_local_level_id="0" >543 U.S. 988</CITATION>
+
+<CITATION party2="NEW YORK" party1="SMITH" citation_global_level_id="61058.001" party2_short="YORK" line="2" id="140161_2" alternative_keys="['u.s._543_988']" end="34" entry_type="party_key" lookup_key="smithyork#3" id1="1490306" start="17" party1_short="SMITH" citation_local_level_id="1" >SMITH v. NEW YORK</CITATION>
+
+<NAME end="22" start="17" party1_of="140161_2" all_names="SMITH" local_name_id="1" id="140161_3" >SMITH</NAME>
+
+<NAME end="34" start="26" all_names="NEW YORK" party2_of="140161_2" local_name_id="2" id="140161_4" >NEW YORK</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="smithyork#3" id1="1490306" start="44" citation_global_level_id="61058.001" line="3" id="140161_7" citation_local_level_id="1" >04-5593</DOCKET>
+
+<ORGANIZATION start="57" end="87" id="140161_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="93" citation_global_level_id="61058.001" end="110" id="140161_9" citation_local_level_id="1" >November 15, 2004</DATE>
+
+<NAME start="132" local_name_id="3" end="135" id="140161_14" all_names="APP" >App</NAME>
+
+<CITATION end="248" reporter="N. Y. S. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.y.s.2d_775_148" id1="Dummy_File_52546" volume="775" start="229" page_number="148" standard_reporter="N.Y.S.2D" citation_global_level_id="116396.001" line="8" id="140161_13" citation_local_level_id="2" >775 N. Y. S. 2d 148</CITATION>
+
+<RELATION theme="140161_2" party1="140161_3" party1_string="SMITH" theme_string="SMITH v. NEW YORK" gram_type="infix" relation_type="asymmetric" id="140161_5" ></RELATION>
+
+<RELATION party2="140161_4" theme="140161_2" theme_string="SMITH v. NEW YORK" party2_string="NEW YORK" gram_type="infix" relation_type="asymmetric" id="140161_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 988" X_vs_Y_string="SMITH v. NEW YORK" standard_case="140161_1" X_vs_Y="140161_2" gram_type="multi_line" relation_type="equivalence" id="140161_10" ></RELATION>
+
+<RELATION at_date_string="November 15, 2004" theme="140161_2" at_date="140161_9" theme_string="SMITH v. NEW YORK" gram_type="multi_line" relation_type="asymmetric" id="140161_12" ></RELATION>
+
+<RELATION theme="140161_2" includes_docket_string="04-5593" includes_docket="140161_7" theme_string="SMITH v. NEW YORK" gram_type="multi_line" relation_type="asymmetric" id="140161_11" ></RELATION>
+

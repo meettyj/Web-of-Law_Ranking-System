@@ -1,0 +1,34 @@
+<CITATION alternative_keys="['boycestates#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_917" id1="128126" volume="538" start="0" page_number="917" standard_reporter="U.S." citation_global_level_id="21253.002" line="1" id="128125_1" citation_local_level_id="0" >538 U.S. 917</CITATION>
+
+<CITATION party2="UNITED STATES" party1="BOYCE ET UX." citation_global_level_id="34171.001" party2_short="STATES" line="2" id="128125_2" alternative_keys="['u.s._538_917']" end="46" entry_type="party_key" lookup_key="boycestates#2" id1="128125" start="17" party1_short="BOYCE" citation_local_level_id="1" >BOYCE ET UX. v. UNITED STATES</CITATION>
+
+<NAME end="29" start="17" party1_of="128125_2" all_names="BOYCE UX" local_name_id="1" id="128125_3" >BOYCE ET UX.</NAME>
+
+<NAME end="46" start="33" all_names="UNITED STATES" party2_of="128125_2" local_name_id="2" id="128125_4" >UNITED STATES</NAME>
+
+<DOCKET end="62" entry_type="docket" lookup_key="boycestates#2" id1="128125" start="56" citation_global_level_id="34171.001" line="3" id="128125_7" citation_local_level_id="1" >02-822</DOCKET>
+
+<ORGANIZATION start="68" end="98" id="128125_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="104" citation_global_level_id="34171.001" end="118" id="128125_9" citation_local_level_id="1" >March 10, 2003</DATE>
+
+<CITATION end="154" reporter="U. S." entry_type="standard_key" lookup_key="u.s._537_1147" id1="126695" volume="537" start="140" page_number="1147" standard_reporter="U.S." citation_global_level_id="10525.002" line="8" id="128125_13" citation_local_level_id="2" >537 U. S. 1147</CITATION>
+
+<NAME start="156" local_name_id="3" end="164" id="128125_14" all_names="PETITION" >Petition</NAME>
+
+<PROFESSION start="187" document_level_name_id="4" end="194" id="128125_15" party="BREYER" >JUSTICE</PROFESSION>
+
+<NAME start="195" local_name_id="4" end="201" id="128125_16" all_names="BREYER" >BREYER</NAME>
+
+<RELATION theme="128125_2" party1="128125_3" party1_string="BOYCE ET UX." theme_string="BOYCE ET UX. v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="128125_5" ></RELATION>
+
+<RELATION party2="128125_4" theme="128125_2" theme_string="BOYCE ET UX. v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="128125_6" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 917" X_vs_Y_string="BOYCE ET UX. v. UNITED STATES" standard_case="128125_1" X_vs_Y="128125_2" gram_type="multi_line" relation_type="equivalence" id="128125_10" ></RELATION>
+
+<RELATION at_date_string="March 10, 2003" theme="128125_2" at_date="128125_9" theme_string="BOYCE ET UX. v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="128125_12" ></RELATION>
+
+<RELATION theme="128125_2" includes_docket_string="02-822" includes_docket="128125_7" theme_string="BOYCE ET UX. v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="128125_11" ></RELATION>
+
+<RELATION theme="128125_16" profession_string="JUSTICE" theme_string="BREYER" profession="128125_15" gram_type="pre_nom" relation_type="asymmetric" id="128125_17" ></RELATION>
+

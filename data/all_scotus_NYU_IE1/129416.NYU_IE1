@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['thompsonillinois#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1017" id1="129421" volume="538" start="0" page_number="1017" standard_reporter="U.S." citation_global_level_id="736.002" line="1" id="129416_1" citation_local_level_id="0" >538 U.S. 1017</CITATION>
+
+<CITATION party2="ILLINOIS" party1="THOMPSON" citation_global_level_id="51486.001" party2_short="ILLINOIS" line="1" id="129416_3" alternative_keys="['u.s._538_1017']" end="38" entry_type="party_key" lookup_key="thompsonillinois#1" id1="129416" start="18" party1_short="THOMPSON" citation_local_level_id="1" >THOMPSON v. ILLINOIS</CITATION>
+
+<NAME end="26" start="18" party1_of="129416_3" all_names="THOMPSON" local_name_id="1" id="129416_4" >THOMPSON</NAME>
+
+<NAME end="38" start="30" all_names="ILLINOIS" party2_of="129416_3" local_name_id="2" id="129416_5" >ILLINOIS</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._538_1017" id1="129421" start="48" citation_global_level_id="736.002" line="1" id="129416_2" citation_local_level_id="0" >02-9401</DOCKET>
+
+<DATE start="97" end="108" id="129416_6" >May 5, 2003</DATE>
+
+<NAME start="225" local_name_id="3" end="228" id="129416_12" all_names="APP" >App</NAME>
+
+<RELATION theme="129416_1" includes_docket_string="02-9401" includes_docket="129416_2" theme_string="538 U.S. 1017" gram_type="apposition" relation_type="asymmetric" id="129416_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1017" X_vs_Y_string="THOMPSON v. ILLINOIS" standard_case="129416_1" X_vs_Y="129416_3" gram_type="pre_nom" relation_type="equivalence" id="129416_7" ></RELATION>
+
+<RELATION theme="129416_3" includes_docket_string="02-9401" includes_docket="129416_2" theme_string="THOMPSON v. ILLINOIS" gram_type="apposition" relation_type="asymmetric" id="129416_10" ></RELATION>
+
+<RELATION theme="129416_3" party1="129416_4" party1_string="THOMPSON" theme_string="THOMPSON v. ILLINOIS" gram_type="infix" relation_type="asymmetric" id="129416_8" ></RELATION>
+
+<RELATION party2="129416_5" theme="129416_3" theme_string="THOMPSON v. ILLINOIS" party2_string="ILLINOIS" gram_type="infix" relation_type="asymmetric" id="129416_9" ></RELATION>
+

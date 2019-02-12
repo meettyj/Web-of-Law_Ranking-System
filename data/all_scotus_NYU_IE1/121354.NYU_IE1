@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['texasvicioso#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._536_915" id1="121352" volume="536" start="0" page_number="915" standard_reporter="U.S." citation_global_level_id="991.002" line="1" id="121354_1" citation_local_level_id="0" >536 U.S. 915</CITATION>
+
+<CITATION party2="VICIOSO" party1="TEXAS" citation_global_level_id="6884.001" party2_short="VICIOSO" line="2" id="121354_3" alternative_keys="['u.s._536_915']" end="33" entry_type="party_key" lookup_key="texasvicioso#1" id1="121354" start="17" party1_short="TEXAS" citation_local_level_id="1" >TEXAS v. VICIOSO</CITATION>
+
+<NAME end="22" start="17" party1_of="121354_3" all_names="TEXAS" local_name_id="1" id="121354_4" >TEXAS</NAME>
+
+<NAME end="33" start="26" all_names="VICIOSO" party2_of="121354_3" local_name_id="2" id="121354_5" >VICIOSO</NAME>
+
+<DOCKET end="50" entry_type="docket" lookup_key="texasvicioso#1" id1="121354" start="43" citation_global_level_id="6884.001" line="2" id="121354_2" citation_local_level_id="1" >01-1475</DOCKET>
+
+<DATE start="96" citation_global_level_id="6884.001" end="109" id="121354_9" citation_local_level_id="1" >June 10, 2002</DATE>
+
+<NAME start="131" local_name_id="3" end="133" id="121354_13" all_names="CT" >Ct</NAME>
+
+<CITATION end="276" reporter="S. W. 3d" entry_type="standard_key" no_current_file="True" lookup_key="s.w.3d_54_104" id1="Dummy_File_197793" volume="54" start="261" page_number="104" standard_reporter="S.W.3D" citation_global_level_id="261643.001" line="7" id="121354_12" citation_local_level_id="2" >54 S. W. 3d 104</CITATION>
+
+<RELATION theme="121354_3" includes_docket_string="01-1475" includes_docket="121354_2" theme_string="TEXAS v. VICIOSO" gram_type="apposition" relation_type="asymmetric" id="121354_8" ></RELATION>
+
+<RELATION theme="121354_3" party1="121354_4" party1_string="TEXAS" theme_string="TEXAS v. VICIOSO" gram_type="infix" relation_type="asymmetric" id="121354_6" ></RELATION>
+
+<RELATION party2="121354_5" theme="121354_3" theme_string="TEXAS v. VICIOSO" party2_string="VICIOSO" gram_type="infix" relation_type="asymmetric" id="121354_7" ></RELATION>
+
+<RELATION standard_case_string="536 U.S. 915" X_vs_Y_string="TEXAS v. VICIOSO" standard_case="121354_1" X_vs_Y="121354_3" gram_type="multi_line" relation_type="equivalence" id="121354_10" ></RELATION>
+
+<RELATION at_date_string="June 10, 2002" theme="121354_3" at_date="121354_9" theme_string="TEXAS v. VICIOSO" gram_type="multi_line" relation_type="asymmetric" id="121354_11" ></RELATION>
+

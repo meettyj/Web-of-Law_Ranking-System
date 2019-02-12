@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['curtiskentucky#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_964" id1="130924" volume="539" start="0" page_number="964" standard_reporter="U.S." citation_global_level_id="3518.002" line="1" id="130931_1" citation_local_level_id="0" >539 U.S. 964</CITATION>
+
+<CITATION party2="Kentucky" party1="Curtis" citation_global_level_id="51630.001" party2_short="Kentucky" line="1" id="130931_3" alternative_keys="['u.s._539_964']" end="35" entry_type="party_key" lookup_key="curtiskentucky#1" id1="130931" start="17" party1_short="Curtis" citation_local_level_id="1" >Curtis v. Kentucky</CITATION>
+
+<NAME end="23" start="17" party1_of="130931_3" all_names="CURTIS" local_name_id="1" id="130931_4" >Curtis</NAME>
+
+<NAME end="35" start="27" all_names="KENTUCKY" party2_of="130931_3" local_name_id="2" id="130931_5" >Kentucky</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="u.s._539_964" id1="130924" start="45" citation_global_level_id="3518.002" line="1" id="130931_2" citation_local_level_id="0" >02-10450</DOCKET>
+
+<DATE start="95" end="108" id="130931_6" >June 27, 2003</DATE>
+
+<NAME start="184" local_name_id="3" end="194" id="130931_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="130931_1" includes_docket_string="02-10450" includes_docket="130931_2" theme_string="539 U.S. 964" gram_type="apposition" relation_type="asymmetric" id="130931_11" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 964" X_vs_Y_string="Curtis v. Kentucky" standard_case="130931_1" X_vs_Y="130931_3" gram_type="pre_nom" relation_type="equivalence" id="130931_7" ></RELATION>
+
+<RELATION theme="130931_3" includes_docket_string="02-10450" includes_docket="130931_2" theme_string="Curtis v. Kentucky" gram_type="apposition" relation_type="asymmetric" id="130931_10" ></RELATION>
+
+<RELATION theme="130931_3" party1="130931_4" party1_string="Curtis" theme_string="Curtis v. Kentucky" gram_type="infix" relation_type="asymmetric" id="130931_8" ></RELATION>
+
+<RELATION party2="130931_5" theme="130931_3" theme_string="Curtis v. Kentucky" party2_string="Kentucky" gram_type="infix" relation_type="asymmetric" id="130931_9" ></RELATION>
+

@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['knightillinois#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1015" id1="129401" volume="538" start="0" page_number="1015" standard_reporter="U.S." citation_global_level_id="2360.002" line="1" id="129390_1" citation_local_level_id="0" >538 U.S. 1015</CITATION>
+
+<CITATION party2="ILLINOIS" party1="KNIGHT" citation_global_level_id="15021.001" party2_short="ILLINOIS" line="1" id="129390_3" alternative_keys="['u.s._538_1015']" end="36" entry_type="party_key" lookup_key="knightillinois#1" id1="129390" start="18" party1_short="KNIGHT" citation_local_level_id="1" >KNIGHT v. ILLINOIS</CITATION>
+
+<NAME end="24" start="18" party1_of="129390_3" all_names="KNIGHT" local_name_id="1" id="129390_4" >KNIGHT</NAME>
+
+<NAME end="36" start="28" all_names="ILLINOIS" party2_of="129390_3" local_name_id="2" id="129390_5" >ILLINOIS</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="u.s._538_1015" id1="129401" start="46" citation_global_level_id="2360.002" line="1" id="129390_2" citation_local_level_id="0" >02-9318</DOCKET>
+
+<DATE start="95" end="106" id="129390_6" >May 5, 2003</DATE>
+
+<NAME start="223" local_name_id="3" end="226" id="129390_12" all_names="APP" >App</NAME>
+
+<RELATION theme="129390_1" includes_docket_string="02-9318" includes_docket="129390_2" theme_string="538 U.S. 1015" gram_type="apposition" relation_type="asymmetric" id="129390_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1015" X_vs_Y_string="KNIGHT v. ILLINOIS" standard_case="129390_1" X_vs_Y="129390_3" gram_type="pre_nom" relation_type="equivalence" id="129390_7" ></RELATION>
+
+<RELATION theme="129390_3" includes_docket_string="02-9318" includes_docket="129390_2" theme_string="KNIGHT v. ILLINOIS" gram_type="apposition" relation_type="asymmetric" id="129390_10" ></RELATION>
+
+<RELATION theme="129390_3" party1="129390_4" party1_string="KNIGHT" theme_string="KNIGHT v. ILLINOIS" gram_type="infix" relation_type="asymmetric" id="129390_8" ></RELATION>
+
+<RELATION party2="129390_5" theme="129390_3" theme_string="KNIGHT v. ILLINOIS" party2_string="ILLINOIS" gram_type="infix" relation_type="asymmetric" id="129390_9" ></RELATION>
+

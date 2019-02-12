@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['balderasboard#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_846" id1="113460" volume="510" start="0" page_number="846" standard_reporter="U.S." citation_global_level_id="2518.002" line="1" id="113464_1" citation_local_level_id="0" >510 U.S. 846</CITATION>
+
+<CITATION party2="Merit Systems Protection Board" party1="Balderas" citation_global_level_id="58160.001" party2_short="Board" line="1" id="113464_3" alternative_keys="['u.s._510_846']" end="59" entry_type="party_key" lookup_key="balderasboard#1" id1="113464" start="17" party1_short="Balderas" citation_local_level_id="1" >Balderas v. Merit Systems Protection Board</CITATION>
+
+<NAME end="25" start="17" party1_of="113464_3" all_names="BALDERAS" local_name_id="1" id="113464_4" >Balderas</NAME>
+
+<NAME end="59" start="29" all_names="MERIT SYSTEMS PROTECTION BOARD" party2_of="113464_3" local_name_id="2" id="113464_5" >Merit Systems Protection Board</NAME>
+
+<DOCKET end="76" entry_type="docket" lookup_key="u.s._510_846" id1="113460" start="69" citation_global_level_id="2518.002" line="1" id="113464_2" citation_local_level_id="0" >92-9017</DOCKET>
+
+<DATE start="118" end="133" id="113464_6" >October 4, 1993</DATE>
+
+<NAME start="212" local_name_id="3" end="222" id="113464_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="261" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_989_1203" id1="Dummy_File_2804" volume="989" start="247" page_number="1203" standard_reporter="F.2D" citation_global_level_id="66654.001" line="3" id="113464_12" citation_local_level_id="2" >989 F. 2d 1203</CITATION>
+
+<RELATION theme="113464_1" includes_docket_string="92-9017" includes_docket="113464_2" theme_string="510 U.S. 846" gram_type="apposition" relation_type="asymmetric" id="113464_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 846" X_vs_Y_string="Balderas v. Merit Systems Protection Board" standard_case="113464_1" X_vs_Y="113464_3" gram_type="pre_nom" relation_type="equivalence" id="113464_7" ></RELATION>
+
+<RELATION theme="113464_3" includes_docket_string="92-9017" includes_docket="113464_2" theme_string="Balderas v. Merit Systems Protection Board" gram_type="apposition" relation_type="asymmetric" id="113464_10" ></RELATION>
+
+<RELATION theme="113464_3" party1="113464_4" party1_string="Balderas" theme_string="Balderas v. Merit Systems Protection Board" gram_type="infix" relation_type="asymmetric" id="113464_8" ></RELATION>
+
+<RELATION party2="113464_5" theme="113464_3" theme_string="Balderas v. Merit Systems Protection Board" party2_string="Merit Systems Protection Board" gram_type="infix" relation_type="asymmetric" id="113464_9" ></RELATION>
+

@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['whitsonhotel#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_911" id1="128043" volume="538" start="0" page_number="911" standard_reporter="U.S." citation_global_level_id="6668.002" line="1" id="128033_1" citation_local_level_id="0" >538 U.S. 911</CITATION>
+
+<CITATION party2="MARRIOTT PAVILION HOTEL ET AL" party1="WHITSON" citation_global_level_id="24293.001" party2_short="HOTEL" line="1" id="128033_3" alternative_keys="['u.s._538_911']" end="57" entry_type="party_key" lookup_key="whitsonhotel#1" id1="128033" start="17" party1_short="WHITSON" citation_local_level_id="1" >WHITSON v. MARRIOTT PAVILION HOTEL ET AL</CITATION>
+
+<NAME end="24" start="17" party1_of="128033_3" all_names="WHITSON" local_name_id="1" id="128033_4" >WHITSON</NAME>
+
+<NAME end="57" start="28" all_names="MARRIOTT PAVILION HOTEL" party2_of="128033_3" local_name_id="2" id="128033_5" >MARRIOTT PAVILION HOTEL ET AL</NAME>
+
+<DOCKET end="74" entry_type="docket" lookup_key="u.s._538_911" id1="128043" start="67" citation_global_level_id="6668.002" line="1" id="128033_2" citation_local_level_id="0" >02-8362</DOCKET>
+
+<DATE start="116" end="130" id="128033_6" >March 10, 2003</DATE>
+
+<NAME start="260" local_name_id="3" end="263" id="128033_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="128033_1" includes_docket_string="02-8362" includes_docket="128033_2" theme_string="538 U.S. 911" gram_type="apposition" relation_type="asymmetric" id="128033_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 911" X_vs_Y_string="WHITSON v. MARRIOTT PAVILION HOTEL ET AL" standard_case="128033_1" X_vs_Y="128033_3" gram_type="pre_nom" relation_type="equivalence" id="128033_7" ></RELATION>
+
+<RELATION theme="128033_3" includes_docket_string="02-8362" includes_docket="128033_2" theme_string="WHITSON v. MARRIOTT PAVILION HOTEL ET AL" gram_type="apposition" relation_type="asymmetric" id="128033_10" ></RELATION>
+
+<RELATION theme="128033_3" party1="128033_4" party1_string="WHITSON" theme_string="WHITSON v. MARRIOTT PAVILION HOTEL ET AL" gram_type="infix" relation_type="asymmetric" id="128033_8" ></RELATION>
+
+<RELATION party2="128033_5" theme="128033_3" theme_string="WHITSON v. MARRIOTT PAVILION HOTEL ET AL" party2_string="MARRIOTT PAVILION HOTEL ET AL" gram_type="infix" relation_type="asymmetric" id="128033_9" ></RELATION>
+

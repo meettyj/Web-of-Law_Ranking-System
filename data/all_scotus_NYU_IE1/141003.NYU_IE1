@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['traumstates#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1055" id1="141000" volume="543" start="0" page_number="1055" standard_reporter="U.S." citation_global_level_id="14785.002" line="1" id="141003_1" citation_local_level_id="0" >543 U.S. 1055</CITATION>
+
+<CITATION party2="UNITED STATES" party1="TRAUM" citation_global_level_id="40387.001" party2_short="STATES" line="2" id="141003_2" alternative_keys="['u.s._543_1055']" end="40" entry_type="party_key" lookup_key="traumstates#1" id1="141003" start="18" party1_short="TRAUM" citation_local_level_id="1" >TRAUM v. UNITED STATES</CITATION>
+
+<NAME end="23" start="18" party1_of="141003_2" all_names="TRAUM" local_name_id="1" id="141003_3" >TRAUM</NAME>
+
+<NAME end="40" start="27" all_names="UNITED STATES" party2_of="141003_2" local_name_id="2" id="141003_4" >UNITED STATES</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="traumstates#1" id1="141003" start="50" citation_global_level_id="40387.001" line="3" id="141003_7" citation_local_level_id="1" >04-700</DOCKET>
+
+<ORGANIZATION start="62" end="92" id="141003_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="98" citation_global_level_id="40387.001" end="114" id="141003_9" citation_local_level_id="1" >January 10, 2005</DATE>
+
+<ORGANIZATION start="136" end="154" plural="True" id="141003_14" >C. A. Armed Forces</ORGANIZATION>
+
+<NAME start="156" local_name_id="3" end="166" id="141003_15" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="203" reporter="M. J." entry_type="standard_key" no_current_file="True" lookup_key="m.j._60_226" id1="Dummy_File_100167" volume="60" start="191" page_number="226" standard_reporter="M.J." citation_global_level_id="164017.001" line="8" id="141003_13" citation_local_level_id="2" >60 M. J. 226</CITATION>
+
+<RELATION theme="141003_2" party1="141003_3" party1_string="TRAUM" theme_string="TRAUM v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="141003_5" ></RELATION>
+
+<RELATION party2="141003_4" theme="141003_2" theme_string="TRAUM v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="141003_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1055" X_vs_Y_string="TRAUM v. UNITED STATES" standard_case="141003_1" X_vs_Y="141003_2" gram_type="multi_line" relation_type="equivalence" id="141003_10" ></RELATION>
+
+<RELATION at_date_string="January 10, 2005" theme="141003_2" at_date="141003_9" theme_string="TRAUM v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="141003_12" ></RELATION>
+
+<RELATION theme="141003_2" includes_docket_string="04-700" includes_docket="141003_7" theme_string="TRAUM v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="141003_11" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['andersonstates#9']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_969" id1="139923" volume="543" start="0" page_number="969" standard_reporter="U.S." citation_global_level_id="2327.002" line="1" id="139931_1" citation_local_level_id="0" >543 U.S. 969</CITATION>
+
+<CITATION party2="UNITED STATES" party1="ANDERSON" citation_global_level_id="25742.001" party2_short="STATES" line="2" id="139931_2" alternative_keys="['u.s._543_969']" end="42" entry_type="party_key" lookup_key="andersonstates#9" id1="128394" start="17" party1_short="ANDERSON" citation_local_level_id="1" >ANDERSON v. UNITED STATES</CITATION>
+
+<NAME end="25" start="17" party1_of="139931_2" all_names="ANDERSON" local_name_id="1" id="139931_3" >ANDERSON</NAME>
+
+<NAME end="42" start="29" all_names="UNITED STATES" party2_of="139931_2" local_name_id="2" id="139931_4" >UNITED STATES</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="andersonstates#9" id1="128394" start="52" citation_global_level_id="25742.001" line="3" id="139931_7" citation_local_level_id="1" >04-6435</DOCKET>
+
+<ORGANIZATION start="65" end="95" id="139931_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="101" citation_global_level_id="25742.001" end="117" id="139931_9" citation_local_level_id="1" >November 1, 2004</DATE>
+
+<NAME start="149" local_name_id="3" end="152" id="139931_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="139931_2" party1="139931_3" party1_string="ANDERSON" theme_string="ANDERSON v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="139931_5" ></RELATION>
+
+<RELATION party2="139931_4" theme="139931_2" theme_string="ANDERSON v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="139931_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 969" X_vs_Y_string="ANDERSON v. UNITED STATES" standard_case="139931_1" X_vs_Y="139931_2" gram_type="multi_line" relation_type="equivalence" id="139931_10" ></RELATION>
+
+<RELATION at_date_string="November 1, 2004" theme="139931_2" at_date="139931_9" theme_string="ANDERSON v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="139931_12" ></RELATION>
+
+<RELATION theme="139931_2" includes_docket_string="04-6435" includes_docket="139931_7" theme_string="ANDERSON v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="139931_11" ></RELATION>
+

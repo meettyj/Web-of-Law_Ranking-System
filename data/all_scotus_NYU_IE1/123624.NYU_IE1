@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['henrytoyota#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_907" id1="123623" volume="537" start="0" page_number="907" standard_reporter="U.S." citation_global_level_id="4439.002" line="1" id="123624_1" citation_local_level_id="0" >537 U.S. 907</CITATION>
+
+<CITATION party2="AMERICAN TOYOTA ET AL" party1="HENRY" citation_global_level_id="62841.001" party2_short="TOYOTA" line="1" id="123624_3" alternative_keys="['u.s._537_907']" end="47" entry_type="party_key" lookup_key="henrytoyota#1" id1="123624" start="17" party1_short="HENRY" citation_local_level_id="1" >HENRY v. AMERICAN TOYOTA ET AL</CITATION>
+
+<NAME end="22" start="17" party1_of="123624_3" all_names="HENRY" local_name_id="1" id="123624_4" >HENRY</NAME>
+
+<NAME end="47" start="26" all_names="AMERICAN TOYOTA" party2_of="123624_3" local_name_id="2" id="123624_5" >AMERICAN TOYOTA ET AL</NAME>
+
+<DOCKET end="64" entry_type="docket" lookup_key="u.s._537_907" id1="123623" start="57" citation_global_level_id="4439.002" line="1" id="123624_2" citation_local_level_id="0" >02-5309</DOCKET>
+
+<DATE start="106" end="121" id="123624_6" >October 7, 2002</DATE>
+
+<NAME start="218" local_name_id="3" end="220" id="123624_12" all_names="CT" >Ct</NAME>
+
+<RELATION theme="123624_1" includes_docket_string="02-5309" includes_docket="123624_2" theme_string="537 U.S. 907" gram_type="apposition" relation_type="asymmetric" id="123624_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 907" X_vs_Y_string="HENRY v. AMERICAN TOYOTA ET AL" standard_case="123624_1" X_vs_Y="123624_3" gram_type="pre_nom" relation_type="equivalence" id="123624_7" ></RELATION>
+
+<RELATION theme="123624_3" includes_docket_string="02-5309" includes_docket="123624_2" theme_string="HENRY v. AMERICAN TOYOTA ET AL" gram_type="apposition" relation_type="asymmetric" id="123624_10" ></RELATION>
+
+<RELATION theme="123624_3" party1="123624_4" party1_string="HENRY" theme_string="HENRY v. AMERICAN TOYOTA ET AL" gram_type="infix" relation_type="asymmetric" id="123624_8" ></RELATION>
+
+<RELATION party2="123624_5" theme="123624_3" theme_string="HENRY v. AMERICAN TOYOTA ET AL" party2_string="AMERICAN TOYOTA ET AL" gram_type="infix" relation_type="asymmetric" id="123624_9" ></RELATION>
+

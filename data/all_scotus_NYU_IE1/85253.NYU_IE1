@@ -1,0 +1,60 @@
+<CITATION alternative_keys="['nessbuel#1', 'wheat._4_48']" end="18" reporter="U.S." entry_type="standard_key" lookup_key="u.s._17_48" id1="85253" volume="17" start="1" page_number="48" standard_reporter="U.S." citation_global_level_id="22497.002" line="2" id="85253_1" citation_local_level_id="0" >17 U.S. 48 (____)</CITATION>
+
+<CITATION alternative_keys="['u.s._17_48', 'nessbuel#1']" end="30" reporter="Wheat." entry_type="standard_key" lookup_key="wheat._4_48" id1="85253" volume="4" start="19" page_number="48" standard_reporter="WHEAT." citation_global_level_id="22497.003" line="3" id="85253_2" citation_local_level_id="1" >4 Wheat. 48</CITATION>
+
+<CITATION party2="BUEL" party1="VAN NESS" citation_global_level_id="22497.001" party2_short="BUEL" line="6" id="85253_4" alternative_keys="['u.s._17_48', 'wheat._4_48']" end="49" entry_type="party_key" lookup_key="nessbuel#1" id1="85253" start="31" party1_short="NESS" citation_local_level_id="2" >VAN NESS v. BUEL</CITATION>
+
+<NAME end="39" start="31" party1_of="85253_4" all_names="VAN NESS" local_name_id="1" id="85253_5" >VAN NESS</NAME>
+
+<NAME end="49" start="45" all_names="BUEL" party2_of="85253_4" local_name_id="2" id="85253_6" >BUEL</NAME>
+
+<ORGANIZATION start="51" end="81" id="85253_9" >Supreme Court of United States</ORGANIZATION>
+
+<NAME start="88" local_name_id="3" end="93" id="85253_12" all_names="STORY" >STORY</NAME>
+
+<PROFESSION start="95" document_level_name_id="3" end="102" id="85253_13" party="STORY" >Justice</PROFESSION>
+
+<ORGANIZATION start="133" end="138" id="85253_14" >court</ORGANIZATION>
+
+<CITATION party2="Shore's Executors" party1="Jones" citation_global_level_id="200552.001" party2_short="Executors" line="10" id="85253_16" end="199" no_current_file="True" entry_type="party_key" lookup_key="jonesexecutors#1" id1="Dummy_File_136702" start="173" party1_short="Jones" citation_local_level_id="3" >Jones v. Shore's Executors</CITATION>
+
+<NAME end="178" start="173" party1_of="85253_16" all_names="JONES" local_name_id="4" id="85253_18" >Jones</NAME>
+
+<NAME end="199" start="182" all_names="SHORE'S EXECUTORS" party2_of="85253_16" local_name_id="5" id="85253_19" >Shore's Executors</NAME>
+
+<ORGANIZATION start="435" end="441" id="85253_22" >office</ORGANIZATION>
+
+<NAME start="443" local_name_id="6" end="445" id="85253_23" all_names="IN" >In</NAME>
+
+<CITATION party2="Shore's Executors. It" party1="Jones" citation_global_level_id="200553.001" party2_short="It" line="10" id="85253_17" end="604" no_current_file="True" entry_type="party_key" lookup_key="jonesit#1" id1="Dummy_File_136703" start="574" party1_short="Jones" citation_local_level_id="4" >Jones v. Shore's Executors. It</CITATION>
+
+<NAME end="579" start="574" party1_of="85253_17" all_names="JONES" local_name_id="4" id="85253_20" >Jones</NAME>
+
+<NAME end="604" start="583" all_names="SHORE'S EXECUTORS IT" party2_of="85253_17" local_name_id="7" id="85253_21" >Shore's Executors. It</NAME>
+
+<ORGANIZATION start="971" end="976" id="85253_24" >court</ORGANIZATION>
+
+<NAME start="978" local_name_id="8" end="986" id="85253_29" all_names="JUDGMENT" >Judgment</NAME>
+
+<NAME start="997" local_name_id="9" end="1002" id="85253_30" all_names="NOTES" >NOTES</NAME>
+
+<DATE start="1048" end="1058" id="85253_31" >March 1799</DATE>
+
+<RELATION theme="85253_4" party1="85253_5" party1_string="VAN NESS" theme_string="VAN NESS  v.  BUEL" gram_type="infix" relation_type="asymmetric" id="85253_7" ></RELATION>
+
+<RELATION party2="85253_6" theme="85253_4" theme_string="VAN NESS  v.  BUEL" party2_string="BUEL" gram_type="infix" relation_type="asymmetric" id="85253_8" ></RELATION>
+
+<RELATION standard_case_string="17 U.S. 48 (____)" X_vs_Y_string="VAN NESS  v.  BUEL" standard_case="85253_1" X_vs_Y="85253_4" gram_type="multi_line" relation_type="equivalence" id="85253_10" ></RELATION>
+
+<RELATION standard_case_string="4 Wheat. 48" X_vs_Y_string="VAN NESS  v.  BUEL" standard_case="85253_2" X_vs_Y="85253_4" gram_type="multi_line" relation_type="equivalence" id="85253_11" ></RELATION>
+
+<RELATION theme="85253_12" profession_string="Justice" theme_string="STORY" profession="85253_13" gram_type="apposition" relation_type="asymmetric" id="85253_15" ></RELATION>
+
+<RELATION theme="85253_16" party1="85253_18" party1_string="Jones" theme_string="Jones v. Shore's Executors" gram_type="infix" relation_type="asymmetric" id="85253_25" ></RELATION>
+
+<RELATION party2="85253_19" theme="85253_16" theme_string="Jones v. Shore's Executors" party2_string="Shore's Executors" gram_type="infix" relation_type="asymmetric" id="85253_26" ></RELATION>
+
+<RELATION theme="85253_17" party1="85253_20" party1_string="Jones" theme_string="Jones v. Shore's Executors. It" gram_type="infix" relation_type="asymmetric" id="85253_27" ></RELATION>
+
+<RELATION party2="85253_21" theme="85253_17" theme_string="Jones v. Shore's Executors. It" party2_string="Shore's Executors. It" gram_type="infix" relation_type="asymmetric" id="85253_28" ></RELATION>
+

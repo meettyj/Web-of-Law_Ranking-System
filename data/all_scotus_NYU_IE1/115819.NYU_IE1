@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['jonesedgar#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1027" id1="115815" volume="510" start="0" page_number="1027" standard_reporter="U.S." citation_global_level_id="2473.002" line="1" id="115819_1" citation_local_level_id="0" >510 U.S. 1027</CITATION>
+
+<CITATION party2="Edgar, Governor of Illinois" party1="Jones" citation_global_level_id="2473.009" party2_short="Edgar" line="1" id="115819_3" alternative_keys="['u.s._510_1027']" end="54" entry_type="party_key" lookup_key="jonesedgar#1" id1="115815" start="18" party1_short="Jones" citation_local_level_id="1" >Jones v. Edgar, Governor of Illinois</CITATION>
+
+<NAME end="23" start="18" party1_of="115819_3" all_names="JONES" local_name_id="1" id="115819_4" >Jones</NAME>
+
+<NAME end="54" start="27" all_names="EDGAR GOVERNOR OF ILLINOIS" party2_of="115819_3" local_name_id="2" id="115819_5" >Edgar, Governor of Illinois</NAME>
+
+<DOCKET end="71" entry_type="docket" lookup_key="u.s._510_1027" id1="115815" start="64" citation_global_level_id="2473.002" line="1" id="115819_2" citation_local_level_id="0" >93-6472</DOCKET>
+
+<DATE start="113" end="130" id="115819_6" >December 13, 1993</DATE>
+
+<NAME start="208" local_name_id="3" end="218" id="115819_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="257" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_998_1016" id1="Dummy_File_209928" volume="998" start="243" page_number="1016" standard_reporter="F.2D" citation_global_level_id="273778.001" line="3" id="115819_12" citation_local_level_id="2" >998 F. 2d 1016</CITATION>
+
+<RELATION theme="115819_1" includes_docket_string="93-6472" includes_docket="115819_2" theme_string="510 U.S. 1027" gram_type="apposition" relation_type="asymmetric" id="115819_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1027" X_vs_Y_string="Jones v. Edgar, Governor of Illinois" standard_case="115819_1" X_vs_Y="115819_3" gram_type="pre_nom" relation_type="equivalence" id="115819_7" ></RELATION>
+
+<RELATION theme="115819_3" includes_docket_string="93-6472" includes_docket="115819_2" theme_string="Jones v. Edgar, Governor of Illinois" gram_type="apposition" relation_type="asymmetric" id="115819_10" ></RELATION>
+
+<RELATION theme="115819_3" party1="115819_4" party1_string="Jones" theme_string="Jones v. Edgar, Governor of Illinois" gram_type="infix" relation_type="asymmetric" id="115819_8" ></RELATION>
+
+<RELATION party2="115819_5" theme="115819_3" theme_string="Jones v. Edgar, Governor of Illinois" party2_string="Edgar, Governor of Illinois" gram_type="infix" relation_type="asymmetric" id="115819_9" ></RELATION>
+

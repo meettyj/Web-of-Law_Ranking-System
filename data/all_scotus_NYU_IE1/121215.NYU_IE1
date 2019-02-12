@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['smithodum#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._536_905" id1="121203" volume="536" start="0" page_number="905" standard_reporter="U.S." citation_global_level_id="7422.002" line="1" id="121215_1" citation_local_level_id="0" >536 U.S. 905</CITATION>
+
+<CITATION party2="ODUM" party1="SMITH" citation_global_level_id="63779.001" party2_short="ODUM" line="2" id="121215_2" alternative_keys="['u.s._536_905']" end="30" entry_type="party_key" lookup_key="smithodum#1" id1="121215" start="17" party1_short="SMITH" citation_local_level_id="1" >SMITH v. ODUM</CITATION>
+
+<NAME end="22" start="17" party1_of="121215_2" all_names="SMITH" local_name_id="1" id="121215_3" >SMITH</NAME>
+
+<NAME end="30" start="26" all_names="ODUM" party2_of="121215_2" local_name_id="2" id="121215_4" >ODUM</NAME>
+
+<DOCKET end="47" entry_type="docket" lookup_key="smithodum#1" id1="121215" start="40" citation_global_level_id="63779.001" line="3" id="121215_7" citation_local_level_id="1" >01-1520</DOCKET>
+
+<DATE start="93" citation_global_level_id="63779.001" end="106" id="121215_8" citation_local_level_id="1" >June 10, 2002</DATE>
+
+<NAME start="128" local_name_id="3" end="133" id="121215_12" all_names="SUPER" >Super</NAME>
+
+<RELATION theme="121215_2" party1="121215_3" party1_string="SMITH" theme_string="SMITH v. ODUM" gram_type="infix" relation_type="asymmetric" id="121215_5" ></RELATION>
+
+<RELATION party2="121215_4" theme="121215_2" theme_string="SMITH v. ODUM" party2_string="ODUM" gram_type="infix" relation_type="asymmetric" id="121215_6" ></RELATION>
+
+<RELATION standard_case_string="536 U.S. 905" X_vs_Y_string="SMITH v. ODUM" standard_case="121215_1" X_vs_Y="121215_2" gram_type="multi_line" relation_type="equivalence" id="121215_9" ></RELATION>
+
+<RELATION at_date_string="June 10, 2002" theme="121215_2" at_date="121215_8" theme_string="SMITH v. ODUM" gram_type="multi_line" relation_type="asymmetric" id="121215_11" ></RELATION>
+
+<RELATION theme="121215_2" includes_docket_string="01-1520" includes_docket="121215_7" theme_string="SMITH v. ODUM" gram_type="multi_line" relation_type="asymmetric" id="121215_10" ></RELATION>
+

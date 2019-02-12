@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['rousestates#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_867" id1="138623" volume="543" start="0" page_number="867" standard_reporter="U.S." citation_global_level_id="53.002" line="1" id="138627_1" citation_local_level_id="0" >543 U.S. 867</CITATION>
+
+<CITATION party2="UNITED STATES" party1="ROUSE" citation_global_level_id="13122.001" party2_short="STATES" line="2" id="138627_2" alternative_keys="['u.s._543_867']" end="39" entry_type="party_key" lookup_key="rousestates#1" id1="138627" start="17" party1_short="ROUSE" citation_local_level_id="1" >ROUSE v. UNITED STATES</CITATION>
+
+<NAME end="22" start="17" party1_of="138627_2" all_names="ROUSE" local_name_id="1" id="138627_3" >ROUSE</NAME>
+
+<NAME end="39" start="26" all_names="UNITED STATES" party2_of="138627_2" local_name_id="2" id="138627_4" >UNITED STATES</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="rousestates#1" id1="138627" start="49" citation_global_level_id="13122.001" line="3" id="138627_7" citation_local_level_id="1" >03-11076</DOCKET>
+
+<ORGANIZATION start="63" end="93" id="138627_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="99" citation_global_level_id="13122.001" end="114" id="138627_9" citation_local_level_id="1" >October 4, 2004</DATE>
+
+<NAME start="146" local_name_id="3" end="149" id="138627_14" all_names="CIR" >Cir</NAME>
+
+<CITATION end="199" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_362_256" id1="Dummy_File_52950" volume="362" start="186" page_number="256" standard_reporter="F.3D" citation_global_level_id="116800.001" line="8" id="138627_13" citation_local_level_id="2" >362 F. 3d 256</CITATION>
+
+<RELATION theme="138627_2" party1="138627_3" party1_string="ROUSE" theme_string="ROUSE v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="138627_5" ></RELATION>
+
+<RELATION party2="138627_4" theme="138627_2" theme_string="ROUSE v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="138627_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 867" X_vs_Y_string="ROUSE v. UNITED STATES" standard_case="138627_1" X_vs_Y="138627_2" gram_type="multi_line" relation_type="equivalence" id="138627_10" ></RELATION>
+
+<RELATION at_date_string="October 4, 2004" theme="138627_2" at_date="138627_9" theme_string="ROUSE v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="138627_12" ></RELATION>
+
+<RELATION theme="138627_2" includes_docket_string="03-11076" includes_docket="138627_7" theme_string="ROUSE v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="138627_11" ></RELATION>
+

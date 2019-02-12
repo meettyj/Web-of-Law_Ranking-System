@@ -1,0 +1,34 @@
+<CITATION alternative_keys="['greenassn#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1055" id1="120283" volume="535" start="0" page_number="1055" standard_reporter="U.S." citation_global_level_id="42.002" line="1" id="120278_1" citation_local_level_id="0" >535 U.S. 1055</CITATION>
+
+<CITATION party2="NORTH ARUNDEL HOSPITAL ASSN., INC., ET AL" party1="GREEN ET AL." citation_global_level_id="42.005" party2_short="ASSN" line="2" id="120278_2" alternative_keys="['u.s._535_1055']" end="75" entry_type="party_key" lookup_key="greenassn#2" id1="120283" start="18" party1_short="GREEN" citation_local_level_id="1" >GREEN ET AL. v. NORTH ARUNDEL HOSPITAL ASSN., INC., ET AL</CITATION>
+
+<NAME end="30" start="18" party1_of="120278_2" all_names="GREEN" local_name_id="1" id="120278_3" >GREEN ET AL.</NAME>
+
+<NAME end="75" start="34" all_names="NORTH ARUNDEL HOSPITAL ASSN INC" party2_of="120278_2" local_name_id="2" id="120278_4" >NORTH ARUNDEL HOSPITAL ASSN., INC., ET AL</NAME>
+
+<NAME start="40" local_name_id="3" end="61" id="120278_5" all_names="ARUNDEL HOSPITAL ASSN" >ARUNDEL HOSPITAL ASSN</NAME>
+
+<ORGANIZATION start="48" end="56" id="120278_6" >HOSPITAL</ORGANIZATION>
+
+<ORGANIZATION start="64" end="67" id="120278_7" >INC</ORGANIZATION>
+
+<DOCKET alternative_keys="['u.s._535_1055']" end="92" entry_type="docket" lookup_key="greenassn#2" id1="120283" start="85" citation_global_level_id="42.005" line="3" id="120278_10" citation_local_level_id="1" >01-1303</DOCKET>
+
+<DATE start="138" citation_global_level_id="42.005" end="150" id="120278_11" citation_local_level_id="1" >May 13, 2002</DATE>
+
+<NAME start="172" local_name_id="4" end="174" id="120278_17" all_names="CT" >Ct</NAME>
+
+<CITATION end="231" reporter="Md." entry_type="standard_key" no_current_file="True" lookup_key="md._366_597" id1="Dummy_File_112476" volume="366" start="220" page_number="597" standard_reporter="MD." citation_global_level_id="176326.001" line="8" id="120278_15" citation_local_level_id="2" >366 Md. 597</CITATION>
+
+<CITATION end="246" reporter="A. 2d" entry_type="standard_key" no_current_file="True" lookup_key="a.2d_785_361" id1="Dummy_File_112477" volume="785" start="233" page_number="361" standard_reporter="A.2D" citation_global_level_id="176327.001" line="8" id="120278_16" citation_local_level_id="3" >785 A. 2d 361</CITATION>
+
+<RELATION theme="120278_2" party1="120278_3" party1_string="GREEN ET AL." theme_string="GREEN ET AL. v. NORTH ARUNDEL HOSPITAL ASSN., INC., ET AL" gram_type="infix" relation_type="asymmetric" id="120278_8" ></RELATION>
+
+<RELATION party2="120278_4" theme="120278_2" theme_string="GREEN ET AL. v. NORTH ARUNDEL HOSPITAL ASSN., INC., ET AL" party2_string="NORTH ARUNDEL HOSPITAL ASSN., INC., ET AL" gram_type="infix" relation_type="asymmetric" id="120278_9" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1055" X_vs_Y_string="GREEN ET AL. v. NORTH ARUNDEL HOSPITAL ASSN., INC., ET AL" standard_case="120278_1" X_vs_Y="120278_2" gram_type="multi_line" relation_type="equivalence" id="120278_12" ></RELATION>
+
+<RELATION at_date_string="May 13, 2002" theme="120278_2" at_date="120278_11" theme_string="GREEN ET AL. v. NORTH ARUNDEL HOSPITAL ASSN., INC., ET AL" gram_type="multi_line" relation_type="asymmetric" id="120278_14" ></RELATION>
+
+<RELATION theme="120278_2" includes_docket_string="01-1303" includes_docket="120278_10" theme_string="GREEN ET AL. v. NORTH ARUNDEL HOSPITAL ASSN., INC., ET AL" gram_type="multi_line" relation_type="asymmetric" id="120278_13" ></RELATION>
+

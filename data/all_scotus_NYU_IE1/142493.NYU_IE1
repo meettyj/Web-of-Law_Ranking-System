@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['hallbase#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1167" id1="142492" volume="543" start="0" page_number="1167" standard_reporter="U.S." citation_global_level_id="2833.002" line="1" id="142493_1" citation_local_level_id="0" >543 U.S. 1167</CITATION>
+
+<CITATION party2="HANSCOM AIR FORCE BASE ET AL" party1="HALL ET AL." citation_global_level_id="59892.001" party2_short="BASE" line="2" id="142493_2" alternative_keys="['u.s._543_1167']" end="61" entry_type="party_key" lookup_key="hallbase#1" id1="142493" start="18" party1_short="HALL" citation_local_level_id="1" >HALL ET AL. v. HANSCOM AIR FORCE BASE ET AL</CITATION>
+
+<NAME end="29" start="18" party1_of="142493_2" all_names="HALL" local_name_id="1" id="142493_3" >HALL ET AL.</NAME>
+
+<NAME end="61" start="33" all_names="HANSCOM AIR FORCE BASE" party2_of="142493_2" local_name_id="2" id="142493_4" >HANSCOM AIR FORCE BASE ET AL</NAME>
+
+<ORGANIZATION start="45" end="50" id="142493_5" >FORCE</ORGANIZATION>
+
+<DOCKET end="78" entry_type="docket" lookup_key="hallbase#1" id1="142493" start="71" citation_global_level_id="59892.001" line="3" id="142493_8" citation_local_level_id="1" >04-7801</DOCKET>
+
+<ORGANIZATION start="84" end="114" id="142493_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="120" citation_global_level_id="59892.001" end="137" id="142493_10" citation_local_level_id="1" >February 22, 2005</DATE>
+
+<NAME start="159" local_name_id="3" end="172" id="142493_14" all_names="C A 1ST CIR" >C. A. 1st Cir</NAME>
+
+<NAME start="174" local_name_id="4" end="184" id="142493_15" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="142493_2" party1="142493_3" party1_string="HALL ET AL." theme_string="HALL ET AL. v. HANSCOM AIR FORCE BASE ET AL" gram_type="infix" relation_type="asymmetric" id="142493_6" ></RELATION>
+
+<RELATION party2="142493_4" theme="142493_2" theme_string="HALL ET AL. v. HANSCOM AIR FORCE BASE ET AL" party2_string="HANSCOM AIR FORCE BASE ET AL" gram_type="infix" relation_type="asymmetric" id="142493_7" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1167" X_vs_Y_string="HALL ET AL. v. HANSCOM AIR FORCE BASE ET AL" standard_case="142493_1" X_vs_Y="142493_2" gram_type="multi_line" relation_type="equivalence" id="142493_11" ></RELATION>
+
+<RELATION at_date_string="February 22, 2005" theme="142493_2" at_date="142493_10" theme_string="HALL ET AL. v. HANSCOM AIR FORCE BASE ET AL" gram_type="multi_line" relation_type="asymmetric" id="142493_13" ></RELATION>
+
+<RELATION theme="142493_2" includes_docket_string="04-7801" includes_docket="142493_8" theme_string="HALL ET AL. v. HANSCOM AIR FORCE BASE ET AL" gram_type="multi_line" relation_type="asymmetric" id="142493_12" ></RELATION>
+

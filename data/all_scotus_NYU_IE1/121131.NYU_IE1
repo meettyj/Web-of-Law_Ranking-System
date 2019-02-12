@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['polancostates#4']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1121" id1="121133" volume="535" start="0" page_number="1121" standard_reporter="U.S." citation_global_level_id="2721.002" line="1" id="121131_1" citation_local_level_id="0" >535 U.S. 1121</CITATION>
+
+<CITATION party2="UNITED STATES" party1="POLANCO, AKA POLANCO-LIBRADO" citation_global_level_id="57775.001" party2_short="STATES" line="2" id="121131_2" alternative_keys="['u.s._535_1121']" end="63" entry_type="party_key" lookup_key="polancostates#4" id1="134080" start="18" party1_short="POLANCO" citation_local_level_id="1" >POLANCO, AKA POLANCO-LIBRADO v. UNITED STATES</CITATION>
+
+<NAME end="46" start="18" party1_of="121131_2" all_names="POLANCO AKA POLANCO-LIBRADO" local_name_id="1" id="121131_3" >POLANCO, AKA POLANCO-LIBRADO</NAME>
+
+<NAME end="63" start="50" all_names="UNITED STATES" party2_of="121131_2" local_name_id="2" id="121131_4" >UNITED STATES</NAME>
+
+<DOCKET end="80" entry_type="docket" lookup_key="polancostates#4" id1="134080" start="73" citation_global_level_id="57775.001" line="3" id="121131_7" citation_local_level_id="1" >01-6112</DOCKET>
+
+<DATE start="126" citation_global_level_id="57775.001" end="138" id="121131_8" citation_local_level_id="1" >June 3, 2002</DATE>
+
+<CITATION end="174" reporter="U. S." entry_type="standard_key" no_current_file="True" lookup_key="u.s._534_1057" id1="Dummy_File_64939" volume="534" start="160" page_number="1057" standard_reporter="U.S." citation_global_level_id="128789.001" line="8" id="121131_12" citation_local_level_id="2" >534 U. S. 1057</CITATION>
+
+<NAME start="176" local_name_id="3" end="185" id="121131_13" all_names="PETITIONS" >Petitions</NAME>
+
+<RELATION theme="121131_2" party1="121131_3" party1_string="POLANCO, AKA POLANCO-LIBRADO" theme_string="POLANCO, AKA POLANCO-LIBRADO v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="121131_5" ></RELATION>
+
+<RELATION party2="121131_4" theme="121131_2" theme_string="POLANCO, AKA POLANCO-LIBRADO v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="121131_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1121" X_vs_Y_string="POLANCO, AKA POLANCO-LIBRADO v. UNITED STATES" standard_case="121131_1" X_vs_Y="121131_2" gram_type="multi_line" relation_type="equivalence" id="121131_9" ></RELATION>
+
+<RELATION at_date_string="June 3, 2002" theme="121131_2" at_date="121131_8" theme_string="POLANCO, AKA POLANCO-LIBRADO v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="121131_11" ></RELATION>
+
+<RELATION theme="121131_2" includes_docket_string="01-6112" includes_docket="121131_7" theme_string="POLANCO, AKA POLANCO-LIBRADO v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="121131_10" ></RELATION>
+

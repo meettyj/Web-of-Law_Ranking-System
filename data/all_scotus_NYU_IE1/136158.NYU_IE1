@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['toodlecity#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_1033" id1="136150" volume="541" start="0" page_number="1033" standard_reporter="U.S." citation_global_level_id="753.002" line="1" id="136158_1" citation_local_level_id="0" >541 U.S. 1033</CITATION>
+
+<CITATION party2="CITY OF LOS ANGELES, CALIFORNIA, ET AL" party1="TOODLE" citation_global_level_id="753.005" party2_short="CITY" line="2" id="136158_2" alternative_keys="['u.s._541_1033']" end="66" entry_type="party_key" lookup_key="toodlecity#2" id1="136150" start="18" party1_short="TOODLE" citation_local_level_id="1" >TOODLE v. CITY OF LOS ANGELES, CALIFORNIA, ET AL</CITATION>
+
+<NAME end="24" start="18" party1_of="136158_2" all_names="TOODLE" local_name_id="1" id="136158_3" >TOODLE</NAME>
+
+<NAME end="66" start="28" all_names="CITY OF LOS ANGELES CALIFORNIA" party2_of="136158_2" local_name_id="2" id="136158_4" >CITY OF LOS ANGELES, CALIFORNIA, ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._541_1033']" end="83" entry_type="docket" lookup_key="toodlecity#2" id1="136150" start="76" citation_global_level_id="753.005" line="3" id="136158_7" citation_local_level_id="1" >03-9206</DOCKET>
+
+<ORGANIZATION start="89" end="119" id="136158_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="125" citation_global_level_id="753.005" end="136" id="136158_9" citation_local_level_id="1" >May 3, 2004</DATE>
+
+<NAME start="168" local_name_id="3" end="171" id="136158_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="136158_2" party1="136158_3" party1_string="TOODLE" theme_string="TOODLE v. CITY OF LOS ANGELES, CALIFORNIA, ET AL" gram_type="infix" relation_type="asymmetric" id="136158_5" ></RELATION>
+
+<RELATION party2="136158_4" theme="136158_2" theme_string="TOODLE v. CITY OF LOS ANGELES, CALIFORNIA, ET AL" party2_string="CITY OF LOS ANGELES, CALIFORNIA, ET AL" gram_type="infix" relation_type="asymmetric" id="136158_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 1033" X_vs_Y_string="TOODLE v. CITY OF LOS ANGELES, CALIFORNIA, ET AL" standard_case="136158_1" X_vs_Y="136158_2" gram_type="multi_line" relation_type="equivalence" id="136158_10" ></RELATION>
+
+<RELATION at_date_string="May 3, 2004" theme="136158_2" at_date="136158_9" theme_string="TOODLE v. CITY OF LOS ANGELES, CALIFORNIA, ET AL" gram_type="multi_line" relation_type="asymmetric" id="136158_12" ></RELATION>
+
+<RELATION theme="136158_2" includes_docket_string="03-9206" includes_docket="136158_7" theme_string="TOODLE v. CITY OF LOS ANGELES, CALIFORNIA, ET AL" gram_type="multi_line" relation_type="asymmetric" id="136158_11" ></RELATION>
+

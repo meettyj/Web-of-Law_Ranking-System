@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['straubmiller#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1179" id1="127049" volume="537" start="0" page_number="1179" standard_reporter="U.S." citation_global_level_id="3884.002" line="1" id="127057_1" citation_local_level_id="0" >537 U.S. 1179</CITATION>
+
+<CITATION party2="MILLER" party1="STRAUB, WARDEN" citation_global_level_id="3884.003" party2_short="MILLER" line="1" id="127057_3" alternative_keys="['u.s._537_1179']" end="42" entry_type="party_key" lookup_key="straubmiller#1" id1="127049" start="18" party1_short="STRAUB" citation_local_level_id="1" >STRAUB, WARDEN v. MILLER</CITATION>
+
+<NAME end="32" start="18" party1_of="127057_3" all_names="STRAUB WARDEN" local_name_id="1" id="127057_4" >STRAUB, WARDEN</NAME>
+
+<NAME start="18" local_name_id="2" end="24" id="127057_7" all_names="STRAUB" >STRAUB</NAME>
+
+<PROFESSION start="26" end="32" id="127057_8" >WARDEN</PROFESSION>
+
+<NAME end="42" start="36" all_names="MILLER" party2_of="127057_3" local_name_id="3" id="127057_5" >MILLER</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._537_1179" id1="127049" start="52" citation_global_level_id="3884.002" line="1" id="127057_2" citation_local_level_id="0" >02-803</DOCKET>
+
+<DATE start="100" end="116" id="127057_6" >January 27, 2003</DATE>
+
+<NAME start="245" local_name_id="4" end="248" id="127057_15" all_names="CIR" >Cir</NAME>
+
+<CITATION end="367" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_299_570" id1="Dummy_File_18799" volume="299" start="354" page_number="570" standard_reporter="F.3D" citation_global_level_id="82649.001" line="3" id="127057_14" citation_local_level_id="2" >299 F. 3d 570</CITATION>
+
+<RELATION theme="127057_1" includes_docket_string="02-803" includes_docket="127057_2" theme_string="537 U.S. 1179" gram_type="apposition" relation_type="asymmetric" id="127057_13" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1179" X_vs_Y_string="STRAUB, WARDEN v. MILLER" standard_case="127057_1" X_vs_Y="127057_3" gram_type="pre_nom" relation_type="equivalence" id="127057_9" ></RELATION>
+
+<RELATION theme="127057_3" includes_docket_string="02-803" includes_docket="127057_2" theme_string="STRAUB, WARDEN v. MILLER" gram_type="apposition" relation_type="asymmetric" id="127057_12" ></RELATION>
+
+<RELATION theme="127057_3" party1="127057_4" party1_string="STRAUB, WARDEN" theme_string="STRAUB, WARDEN v. MILLER" gram_type="infix" relation_type="asymmetric" id="127057_10" ></RELATION>
+
+<RELATION party2="127057_5" theme="127057_3" theme_string="STRAUB, WARDEN v. MILLER" party2_string="MILLER" gram_type="infix" relation_type="asymmetric" id="127057_11" ></RELATION>
+

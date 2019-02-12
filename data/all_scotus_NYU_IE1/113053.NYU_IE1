@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['koernercoffee#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_815" id1="113056" volume="510" start="0" page_number="815" standard_reporter="U.S." citation_global_level_id="1931.002" line="1" id="113053_1" citation_local_level_id="0" >510 U.S. 815</CITATION>
+
+<CITATION party2="International Coffee Corp. et al" party1="Koerner" citation_global_level_id="57213.001" party2_short="Coffee" line="1" id="113053_3" alternative_keys="['u.s._510_815']" end="60" entry_type="party_key" lookup_key="koernercoffee#1" id1="113053" start="17" party1_short="Koerner" citation_local_level_id="1" >Koerner v. International Coffee Corp. et al</CITATION>
+
+<NAME end="24" start="17" party1_of="113053_3" all_names="KOERNER" local_name_id="1" id="113053_4" >Koerner</NAME>
+
+<NAME end="60" start="28" all_names="INTERNATIONAL COFFEE CORP" party2_of="113053_3" local_name_id="2" id="113053_5" >International Coffee Corp. et al</NAME>
+
+<DOCKET end="77" entry_type="docket" lookup_key="u.s._510_815" id1="113056" start="70" citation_global_level_id="1931.002" line="1" id="113053_2" citation_local_level_id="0" >92-1821</DOCKET>
+
+<DATE start="73" end="77" id="113053_6" >1821</DATE>
+
+<DATE start="119" end="134" id="113053_7" >October 4, 1993</DATE>
+
+<NAME start="212" local_name_id="3" end="222" id="113053_15" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="260" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_983_231" id1="Dummy_File_38307" volume="983" start="247" page_number="231" standard_reporter="F.2D" citation_global_level_id="102157.001" line="3" id="113053_14" citation_local_level_id="2" >983 F. 2d 231</CITATION>
+
+<RELATION theme="113053_1" includes_docket_string="92-1821" includes_docket="113053_2" theme_string="510 U.S. 815" gram_type="apposition" relation_type="asymmetric" id="113053_12" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 815" X_vs_Y_string="Koerner v. International Coffee Corp. et al" standard_case="113053_1" X_vs_Y="113053_3" gram_type="pre_nom" relation_type="equivalence" id="113053_8" ></RELATION>
+
+<RELATION theme="113053_3" includes_docket_string="92-1821" includes_docket="113053_2" theme_string="Koerner v. International Coffee Corp. et al" gram_type="apposition" relation_type="asymmetric" id="113053_11" ></RELATION>
+
+<RELATION party2="113053_5" theme="113053_3" theme_string="Koerner v. International Coffee Corp. et al" party2_string="International Coffee Corp. et al" gram_type="infix" relation_type="asymmetric" id="113053_10" ></RELATION>
+
+<RELATION theme="113053_3" party1="113053_4" party1_string="Koerner" theme_string="Koerner v. International Coffee Corp. et al" gram_type="infix" relation_type="asymmetric" id="113053_9" ></RELATION>
+
+<RELATION at_date_string="1821" theme="113053_2" at_date="113053_6" theme_string="92-1821" gram_type="infix" relation_type="asymmetric" id="113053_13" ></RELATION>
+

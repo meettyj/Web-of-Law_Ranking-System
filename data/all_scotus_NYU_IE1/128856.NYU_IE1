@@ -1,0 +1,40 @@
+<CITATION alternative_keys="['geneticsa#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_974" id1="128856" volume="538" start="0" page_number="974" standard_reporter="U.S." citation_global_level_id="508.002" line="1" id="128856_1" citation_local_level_id="0" >538 U.S. 974</CITATION>
+
+<CITATION party2="BAYER CROP-SCIENCE, S. A" party1="DEKALB GENETICS CORP." citation_global_level_id="508.005" party2_short="A" line="1" id="128856_3" alternative_keys="['u.s._538_974']" end="66" entry_type="party_key" lookup_key="geneticsa#2" id1="128856" start="17" party1_short="GENETICS" citation_local_level_id="1" >DEKALB GENETICS CORP. v. BAYER CROP-SCIENCE, S. A</CITATION>
+
+<NAME end="38" start="17" party1_of="128856_3" all_names="DEKALB GENETICS CORP" local_name_id="1" id="128856_4" >DEKALB GENETICS CORP.</NAME>
+
+<ORGANIZATION start="17" end="37" id="128856_7" >DEKALB GENETICS CORP</ORGANIZATION>
+
+<NAME end="66" start="42" all_names="BAYER CROP-SCIENCE S A" party2_of="128856_3" local_name_id="2" id="128856_5" >BAYER CROP-SCIENCE, S. A</NAME>
+
+<DOCKET end="82" entry_type="docket" lookup_key="u.s._538_974" id1="128856" start="76" citation_global_level_id="508.002" line="1" id="128856_2" citation_local_level_id="0" >02-130</DOCKET>
+
+<DATE start="124" end="138" id="128856_6" >April 21, 2003</DATE>
+
+<NAME start="259" local_name_id="3" end="268" id="128856_17" all_names="C A FED" >C. A. Fed</NAME>
+
+<NAME start="270" local_name_id="4" end="273" id="128856_18" all_names="CIR" >Cir</NAME>
+
+<CITATION party2="Campbell" party1="State Farm Mut. Automobile Ins. Co." citation_global_level_id="149571.001" party2_short="Campbell" line="3" id="128856_14" end="416" no_current_file="True" entry_type="party_key" lookup_key="inscampbell#2" id1="Dummy_File_85721" start="369" party1_short="Ins" citation_local_level_id="2" >State Farm Mut. Automobile Ins. Co. v. Campbell</CITATION>
+
+<NAME end="404" start="369" party1_of="128856_14" all_names="STATE FARM MUT AUTOMOBILE INS CO" local_name_id="5" id="128856_15" >State Farm Mut. Automobile Ins. Co.</NAME>
+
+<NAME end="416" start="408" all_names="CAMPBELL" party2_of="128856_14" local_name_id="6" id="128856_16" >Campbell</NAME>
+
+<CITATION end="462" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_272_1335" id1="Dummy_File_174034" volume="272" start="448" page_number="1335" standard_reporter="F.3D" citation_global_level_id="237884.001" line="3" id="128856_13" citation_local_level_id="3" >272 F. 3d 1335</CITATION>
+
+<RELATION theme="128856_1" includes_docket_string="02-130" includes_docket="128856_2" theme_string="538 U.S. 974" gram_type="apposition" relation_type="asymmetric" id="128856_12" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 974" X_vs_Y_string="DEKALB GENETICS CORP. v. BAYER CROP-SCIENCE, S. A" standard_case="128856_1" X_vs_Y="128856_3" gram_type="pre_nom" relation_type="equivalence" id="128856_8" ></RELATION>
+
+<RELATION theme="128856_3" includes_docket_string="02-130" includes_docket="128856_2" theme_string="DEKALB GENETICS CORP. v. BAYER CROP-SCIENCE, S. A" gram_type="apposition" relation_type="asymmetric" id="128856_11" ></RELATION>
+
+<RELATION party2="128856_5" theme="128856_3" theme_string="DEKALB GENETICS CORP. v. BAYER CROP-SCIENCE, S. A" party2_string="BAYER CROP-SCIENCE, S. A" gram_type="infix" relation_type="asymmetric" id="128856_10" ></RELATION>
+
+<RELATION theme="128856_3" party1="128856_4" party1_string="DEKALB GENETICS CORP." theme_string="DEKALB GENETICS CORP. v. BAYER CROP-SCIENCE, S. A" gram_type="infix" relation_type="asymmetric" id="128856_9" ></RELATION>
+
+<RELATION theme="128856_14" party1="128856_15" party1_string="State Farm Mut. Automobile Ins. Co." theme_string="State Farm Mut. Automobile Ins. Co. v. Campbell" gram_type="infix" relation_type="asymmetric" id="128856_19" ></RELATION>
+
+<RELATION party2="128856_16" theme="128856_14" theme_string="State Farm Mut. Automobile Ins. Co. v. Campbell" party2_string="Campbell" gram_type="infix" relation_type="asymmetric" id="128856_20" ></RELATION>
+

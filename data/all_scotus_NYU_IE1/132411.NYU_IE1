@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['richmondsmall#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_896" id1="132408" volume="540" start="0" page_number="896" standard_reporter="U.S." citation_global_level_id="2005.002" line="1" id="132411_1" citation_local_level_id="0" >540 U.S. 896</CITATION>
+
+<CITATION party2="SMALL" party1="RICHMOND" citation_global_level_id="20525.001" party2_short="SMALL" line="1" id="132411_3" alternative_keys="['u.s._540_896']" end="34" entry_type="party_key" lookup_key="richmondsmall#1" id1="132411" start="17" party1_short="RICHMOND" citation_local_level_id="1" >RICHMOND v. SMALL</CITATION>
+
+<NAME end="25" start="17" party1_of="132411_3" all_names="RICHMOND" local_name_id="1" id="132411_4" >RICHMOND</NAME>
+
+<NAME end="34" start="29" all_names="SMALL" party2_of="132411_3" local_name_id="2" id="132411_5" >SMALL</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="u.s._540_896" id1="132408" start="44" citation_global_level_id="2005.002" line="1" id="132411_2" citation_local_level_id="0" >03-5237</DOCKET>
+
+<DATE start="93" end="108" id="132411_6" >October 6, 2003</DATE>
+
+<NAME start="186" local_name_id="3" end="196" id="132411_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="132411_1" includes_docket_string="03-5237" includes_docket="132411_2" theme_string="540 U.S. 896" gram_type="apposition" relation_type="asymmetric" id="132411_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 896" X_vs_Y_string="RICHMOND v. SMALL" standard_case="132411_1" X_vs_Y="132411_3" gram_type="pre_nom" relation_type="equivalence" id="132411_7" ></RELATION>
+
+<RELATION theme="132411_3" includes_docket_string="03-5237" includes_docket="132411_2" theme_string="RICHMOND v. SMALL" gram_type="apposition" relation_type="asymmetric" id="132411_10" ></RELATION>
+
+<RELATION theme="132411_3" party1="132411_4" party1_string="RICHMOND" theme_string="RICHMOND v. SMALL" gram_type="infix" relation_type="asymmetric" id="132411_8" ></RELATION>
+
+<RELATION party2="132411_5" theme="132411_3" theme_string="RICHMOND v. SMALL" party2_string="SMALL" gram_type="infix" relation_type="asymmetric" id="132411_9" ></RELATION>
+

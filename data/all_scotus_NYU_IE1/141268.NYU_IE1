@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['wilsonwebb#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1075" id1="141276" volume="543" start="0" page_number="1075" standard_reporter="U.S." citation_global_level_id="2390.002" line="1" id="141268_1" citation_local_level_id="0" >543 U.S. 1075</CITATION>
+
+<CITATION party2="WEBB, WARDEN" party1="WILSON" citation_global_level_id="2390.005" party2_short="WEBB" line="2" id="141268_2" alternative_keys="['u.s._543_1075']" end="40" entry_type="party_key" lookup_key="wilsonwebb#1" id1="141276" start="18" party1_short="WILSON" citation_local_level_id="1" >WILSON v. WEBB, WARDEN</CITATION>
+
+<NAME end="24" start="18" party1_of="141268_2" all_names="WILSON" local_name_id="1" id="141268_3" >WILSON</NAME>
+
+<NAME end="40" start="28" all_names="WEBB WARDEN" party2_of="141268_2" local_name_id="2" id="141268_4" >WEBB, WARDEN</NAME>
+
+<DOCKET alternative_keys="['u.s._543_1075']" end="57" entry_type="docket" lookup_key="wilsonwebb#1" id1="141276" start="50" citation_global_level_id="2390.005" line="3" id="141268_7" citation_local_level_id="1" >04-7390</DOCKET>
+
+<ORGANIZATION start="63" end="93" id="141268_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="99" citation_global_level_id="2390.005" end="115" id="141268_9" citation_local_level_id="1" >January 10, 2005</DATE>
+
+<NAME start="147" local_name_id="3" end="150" id="141268_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="141268_2" party1="141268_3" party1_string="WILSON" theme_string="WILSON v. WEBB, WARDEN" gram_type="infix" relation_type="asymmetric" id="141268_5" ></RELATION>
+
+<RELATION party2="141268_4" theme="141268_2" theme_string="WILSON v. WEBB, WARDEN" party2_string="WEBB, WARDEN" gram_type="infix" relation_type="asymmetric" id="141268_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1075" X_vs_Y_string="WILSON v. WEBB, WARDEN" standard_case="141268_1" X_vs_Y="141268_2" gram_type="multi_line" relation_type="equivalence" id="141268_10" ></RELATION>
+
+<RELATION at_date_string="January 10, 2005" theme="141268_2" at_date="141268_9" theme_string="WILSON v. WEBB, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="141268_12" ></RELATION>
+
+<RELATION theme="141268_2" includes_docket_string="04-7390" includes_docket="141268_7" theme_string="WILSON v. WEBB, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="141268_11" ></RELATION>
+

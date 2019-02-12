@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['knoxmississippi#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._536_965" id1="121941" volume="536" start="0" page_number="965" standard_reporter="U.S." citation_global_level_id="2886.002" line="1" id="121941_1" citation_local_level_id="0" >536 U.S. 965</CITATION>
+
+<CITATION party2="MISSISSIPPI" party1="KNOX" citation_global_level_id="2886.001" party2_short="MISSISSIPPI" line="2" id="121941_2" alternative_keys="['u.s._536_965']" end="36" entry_type="party_key" lookup_key="knoxmississippi#1" id1="121941" start="17" party1_short="KNOX" citation_local_level_id="1" >KNOX v. MISSISSIPPI</CITATION>
+
+<NAME end="21" start="17" party1_of="121941_2" all_names="KNOX" local_name_id="1" id="121941_3" >KNOX</NAME>
+
+<NAME end="36" start="25" all_names="MISSISSIPPI" party2_of="121941_2" local_name_id="2" id="121941_4" >MISSISSIPPI</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="knoxmississippi#1" id1="121941" start="46" citation_global_level_id="2886.001" line="3" id="121941_7" citation_local_level_id="1" >01-9901</DOCKET>
+
+<DATE start="99" citation_global_level_id="2886.001" end="112" id="121941_8" citation_local_level_id="1" >June 28, 2002</DATE>
+
+<NAME start="134" local_name_id="3" end="137" id="121941_13" all_names="SUP" >Sup</NAME>
+
+<CITATION end="198" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_805_527" id1="Dummy_File_122181" volume="805" start="184" page_number="527" standard_reporter="SO.2D" citation_global_level_id="186031.001" line="8" id="121941_12" citation_local_level_id="2" >805 So. 2d 527</CITATION>
+
+<RELATION theme="121941_2" party1="121941_3" party1_string="KNOX" theme_string="KNOX v. MISSISSIPPI" gram_type="infix" relation_type="asymmetric" id="121941_5" ></RELATION>
+
+<RELATION party2="121941_4" theme="121941_2" theme_string="KNOX v. MISSISSIPPI" party2_string="MISSISSIPPI" gram_type="infix" relation_type="asymmetric" id="121941_6" ></RELATION>
+
+<RELATION standard_case_string="536 U.S. 965" X_vs_Y_string="KNOX v. MISSISSIPPI" standard_case="121941_1" X_vs_Y="121941_2" gram_type="multi_line" relation_type="equivalence" id="121941_9" ></RELATION>
+
+<RELATION at_date_string="June 28, 2002" theme="121941_2" at_date="121941_8" theme_string="KNOX v. MISSISSIPPI" gram_type="multi_line" relation_type="asymmetric" id="121941_11" ></RELATION>
+
+<RELATION theme="121941_2" includes_docket_string="01-9901" includes_docket="121941_7" theme_string="KNOX v. MISSISSIPPI" gram_type="multi_line" relation_type="asymmetric" id="121941_10" ></RELATION>
+

@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['arizonafinch#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_1035" id1="134087" volume="540" start="0" page_number="1035" standard_reporter="U.S." citation_global_level_id="14944.002" line="1" id="134086_1" citation_local_level_id="0" >540 U.S. 1035</CITATION>
+
+<CITATION party2="FINCH" party1="ARIZONA" citation_global_level_id="49196.001" party2_short="FINCH" line="1" id="134086_3" alternative_keys="['u.s._540_1035']" end="34" entry_type="party_key" lookup_key="arizonafinch#1" id1="134086" start="18" party1_short="ARIZONA" citation_local_level_id="1" >ARIZONA v. FINCH</CITATION>
+
+<NAME end="25" start="18" party1_of="134086_3" all_names="ARIZONA" local_name_id="1" id="134086_4" >ARIZONA</NAME>
+
+<NAME end="34" start="29" all_names="FINCH" party2_of="134086_3" local_name_id="2" id="134086_5" >FINCH</NAME>
+
+<DOCKET end="50" entry_type="docket" lookup_key="u.s._540_1035" id1="134087" start="44" citation_global_level_id="14944.002" line="1" id="134086_2" citation_local_level_id="0" >03-248</DOCKET>
+
+<DATE start="92" end="109" id="134086_6" >November 17, 2003</DATE>
+
+<LEGAL_ROLE start="187" end="207" id="134086_13" >Motion of respondent</LEGAL_ROLE>
+
+<NAME start="256" local_name_id="3" end="266" id="134086_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="318" reporter="P. 3d" entry_type="standard_key" no_current_file="True" lookup_key="p.3d_68_123" id1="Dummy_File_40836" volume="68" start="306" page_number="123" standard_reporter="P.3D" citation_global_level_id="104686.001" line="3" id="134086_12" citation_local_level_id="2" >68 P. 3d 123</CITATION>
+
+<RELATION theme="134086_1" includes_docket_string="03-248" includes_docket="134086_2" theme_string="540 U.S. 1035" gram_type="apposition" relation_type="asymmetric" id="134086_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 1035" X_vs_Y_string="ARIZONA v. FINCH" standard_case="134086_1" X_vs_Y="134086_3" gram_type="pre_nom" relation_type="equivalence" id="134086_7" ></RELATION>
+
+<RELATION theme="134086_3" includes_docket_string="03-248" includes_docket="134086_2" theme_string="ARIZONA v. FINCH" gram_type="apposition" relation_type="asymmetric" id="134086_10" ></RELATION>
+
+<RELATION theme="134086_3" party1="134086_4" party1_string="ARIZONA" theme_string="ARIZONA v. FINCH" gram_type="infix" relation_type="asymmetric" id="134086_8" ></RELATION>
+
+<RELATION party2="134086_5" theme="134086_3" theme_string="ARIZONA v. FINCH" party2_string="FINCH" gram_type="infix" relation_type="asymmetric" id="134086_9" ></RELATION>
+

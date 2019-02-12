@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['edwardslavigne#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_905" id1="130208" volume="539" start="0" page_number="905" standard_reporter="U.S." citation_global_level_id="2078.002" line="1" id="130213_1" citation_local_level_id="0" >539 U.S. 905</CITATION>
+
+<CITATION party2="LaVigne, Warden" party1="Edwards" citation_global_level_id="2078.007" party2_short="LaVigne" line="1" id="130213_3" alternative_keys="['u.s._539_905']" end="43" entry_type="party_key" lookup_key="edwardslavigne#1" id1="130208" start="17" party1_short="Edwards" citation_local_level_id="1" >Edwards v. LaVigne, Warden</CITATION>
+
+<NAME end="24" start="17" party1_of="130213_3" all_names="EDWARDS" local_name_id="1" id="130213_4" >Edwards</NAME>
+
+<NAME end="43" start="28" all_names="LAVIGNE WARDEN" party2_of="130213_3" local_name_id="2" id="130213_5" >LaVigne, Warden</NAME>
+
+<DOCKET end="60" entry_type="docket" lookup_key="u.s._539_905" id1="130208" start="53" citation_global_level_id="2078.002" line="1" id="130213_2" citation_local_level_id="0" >02-9841</DOCKET>
+
+<DATE start="102" end="114" id="130213_6" >June 2, 2003</DATE>
+
+<NAME start="192" local_name_id="3" end="202" id="130213_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="130213_1" includes_docket_string="02-9841" includes_docket="130213_2" theme_string="539 U.S. 905" gram_type="apposition" relation_type="asymmetric" id="130213_11" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 905" X_vs_Y_string="Edwards v. LaVigne, Warden" standard_case="130213_1" X_vs_Y="130213_3" gram_type="pre_nom" relation_type="equivalence" id="130213_7" ></RELATION>
+
+<RELATION theme="130213_3" includes_docket_string="02-9841" includes_docket="130213_2" theme_string="Edwards v. LaVigne, Warden" gram_type="apposition" relation_type="asymmetric" id="130213_10" ></RELATION>
+
+<RELATION theme="130213_3" party1="130213_4" party1_string="Edwards" theme_string="Edwards v. LaVigne, Warden" gram_type="infix" relation_type="asymmetric" id="130213_8" ></RELATION>
+
+<RELATION party2="130213_5" theme="130213_3" theme_string="Edwards v. LaVigne, Warden" party2_string="LaVigne, Warden" gram_type="infix" relation_type="asymmetric" id="130213_9" ></RELATION>
+

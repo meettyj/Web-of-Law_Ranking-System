@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['yarberstates#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1070" id1="120491" volume="535" start="0" page_number="1070" standard_reporter="U.S." citation_global_level_id="408.002" line="1" id="120483_1" citation_local_level_id="0" >535 U.S. 1070</CITATION>
+
+<CITATION party2="UNITED STATES" party1="YARBER" citation_global_level_id="44603.001" party2_short="STATES" line="2" id="120483_2" alternative_keys="['u.s._535_1070']" end="41" entry_type="party_key" lookup_key="yarberstates#1" id1="120483" start="18" party1_short="YARBER" citation_local_level_id="1" >YARBER v. UNITED STATES</CITATION>
+
+<NAME end="24" start="18" party1_of="120483_2" all_names="YARBER" local_name_id="1" id="120483_3" >YARBER</NAME>
+
+<NAME end="41" start="28" all_names="UNITED STATES" party2_of="120483_2" local_name_id="2" id="120483_4" >UNITED STATES</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="yarberstates#1" id1="120483" start="51" citation_global_level_id="44603.001" line="3" id="120483_7" citation_local_level_id="1" >01-9531</DOCKET>
+
+<DATE start="104" citation_global_level_id="44603.001" end="116" id="120483_8" citation_local_level_id="1" >May 13, 2002</DATE>
+
+<NAME start="148" local_name_id="3" end="151" id="120483_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="120483_2" party1="120483_3" party1_string="YARBER" theme_string="YARBER v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="120483_5" ></RELATION>
+
+<RELATION party2="120483_4" theme="120483_2" theme_string="YARBER v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="120483_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1070" X_vs_Y_string="YARBER v. UNITED STATES" standard_case="120483_1" X_vs_Y="120483_2" gram_type="multi_line" relation_type="equivalence" id="120483_9" ></RELATION>
+
+<RELATION at_date_string="May 13, 2002" theme="120483_2" at_date="120483_8" theme_string="YARBER v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="120483_11" ></RELATION>
+
+<RELATION theme="120483_2" includes_docket_string="01-9531" includes_docket="120483_7" theme_string="YARBER v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="120483_10" ></RELATION>
+

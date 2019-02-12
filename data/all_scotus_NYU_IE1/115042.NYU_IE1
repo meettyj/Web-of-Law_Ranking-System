@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['duncanflorida#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_969" id1="115049" volume="510" start="0" page_number="969" standard_reporter="U.S." citation_global_level_id="2782.002" line="1" id="115042_1" citation_local_level_id="0" >510 U.S. 969</CITATION>
+
+<CITATION party2="Florida" party1="Duncan" citation_global_level_id="8992.001" party2_short="Florida" line="1" id="115042_3" alternative_keys="['u.s._510_969']" end="34" entry_type="party_key" lookup_key="duncanflorida#1" id1="115042" start="17" party1_short="Duncan" citation_local_level_id="1" >Duncan v. Florida</CITATION>
+
+<NAME end="23" start="17" party1_of="115042_3" all_names="DUNCAN" local_name_id="1" id="115042_4" >Duncan</NAME>
+
+<NAME end="34" start="27" all_names="FLORIDA" party2_of="115042_3" local_name_id="2" id="115042_5" >Florida</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="u.s._510_969" id1="115049" start="44" citation_global_level_id="2782.002" line="1" id="115042_2" citation_local_level_id="0" >93-6055</DOCKET>
+
+<DATE start="93" end="109" id="115042_6" >November 8, 1993</DATE>
+
+<NAME start="186" local_name_id="3" end="196" id="115042_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="235" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_619_279" id1="Dummy_File_41059" volume="619" start="221" page_number="279" standard_reporter="SO.2D" citation_global_level_id="104909.001" line="3" id="115042_12" citation_local_level_id="2" >619 So. 2d 279</CITATION>
+
+<RELATION theme="115042_1" includes_docket_string="93-6055" includes_docket="115042_2" theme_string="510 U.S. 969" gram_type="apposition" relation_type="asymmetric" id="115042_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 969" X_vs_Y_string="Duncan v. Florida" standard_case="115042_1" X_vs_Y="115042_3" gram_type="pre_nom" relation_type="equivalence" id="115042_7" ></RELATION>
+
+<RELATION theme="115042_3" includes_docket_string="93-6055" includes_docket="115042_2" theme_string="Duncan v. Florida" gram_type="apposition" relation_type="asymmetric" id="115042_10" ></RELATION>
+
+<RELATION theme="115042_3" party1="115042_4" party1_string="Duncan" theme_string="Duncan v. Florida" gram_type="infix" relation_type="asymmetric" id="115042_8" ></RELATION>
+
+<RELATION party2="115042_5" theme="115042_3" theme_string="Duncan v. Florida" party2_string="Florida" gram_type="infix" relation_type="asymmetric" id="115042_9" ></RELATION>
+

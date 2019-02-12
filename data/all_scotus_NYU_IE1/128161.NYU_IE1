@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['llcrene#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_922" id1="128172" volume="538" start="0" page_number="922" standard_reporter="U.S." citation_global_level_id="6349.002" line="1" id="128161_1" citation_local_level_id="0" >538 U.S. 922</CITATION>
+
+<CITATION party2="RENE" party1="MGM GRAND HOTEL, LLC" citation_global_level_id="24422.001" party2_short="RENE" line="1" id="128161_3" alternative_keys="['u.s._538_922']" end="45" entry_type="party_key" lookup_key="llcrene#1" id1="128161" start="17" party1_short="LLC" citation_local_level_id="1" >MGM GRAND HOTEL, LLC v. RENE</CITATION>
+
+<NAME end="37" start="17" party1_of="128161_3" all_names="MGM GRAND HOTEL LLC" local_name_id="1" id="128161_4" >MGM GRAND HOTEL, LLC</NAME>
+
+<NAME start="17" local_name_id="2" end="32" id="128161_7" all_names="MGM GRAND HOTEL" >MGM GRAND HOTEL</NAME>
+
+<NAME end="45" start="41" all_names="RENE" party2_of="128161_3" local_name_id="3" id="128161_5" >RENE</NAME>
+
+<DOCKET end="61" entry_type="docket" lookup_key="u.s._538_922" id1="128172" start="55" citation_global_level_id="6349.002" line="1" id="128161_2" citation_local_level_id="0" >02-970</DOCKET>
+
+<DATE start="103" end="117" id="128161_6" >March 24, 2003</DATE>
+
+<NAME start="246" local_name_id="4" end="249" id="128161_14" all_names="CIR" >Cir</NAME>
+
+<CITATION end="300" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_305_1061" id1="Dummy_File_232710" volume="305" start="286" page_number="1061" standard_reporter="F.3D" citation_global_level_id="296560.001" line="3" id="128161_13" citation_local_level_id="2" >305 F. 3d 1061</CITATION>
+
+<RELATION theme="128161_1" includes_docket_string="02-970" includes_docket="128161_2" theme_string="538 U.S. 922" gram_type="apposition" relation_type="asymmetric" id="128161_12" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 922" X_vs_Y_string="MGM GRAND HOTEL, LLC v. RENE" standard_case="128161_1" X_vs_Y="128161_3" gram_type="pre_nom" relation_type="equivalence" id="128161_8" ></RELATION>
+
+<RELATION theme="128161_3" includes_docket_string="02-970" includes_docket="128161_2" theme_string="MGM GRAND HOTEL, LLC v. RENE" gram_type="apposition" relation_type="asymmetric" id="128161_11" ></RELATION>
+
+<RELATION party2="128161_5" theme="128161_3" theme_string="MGM GRAND HOTEL, LLC v. RENE" party2_string="RENE" gram_type="infix" relation_type="asymmetric" id="128161_10" ></RELATION>
+
+<RELATION theme="128161_3" party1="128161_4" party1_string="MGM GRAND HOTEL, LLC" theme_string="MGM GRAND HOTEL, LLC v. RENE" gram_type="infix" relation_type="asymmetric" id="128161_9" ></RELATION>
+

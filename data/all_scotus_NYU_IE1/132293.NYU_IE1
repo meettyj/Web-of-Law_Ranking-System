@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['morganflorida#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_888" id1="132295" volume="540" start="0" page_number="888" standard_reporter="U.S." citation_global_level_id="4889.002" line="1" id="132293_1" citation_local_level_id="0" >540 U.S. 888</CITATION>
+
+<CITATION party2="FLORIDA" party1="MORGAN" citation_global_level_id="63242.001" party2_short="FLORIDA" line="1" id="132293_3" alternative_keys="['u.s._540_888']" end="34" entry_type="party_key" lookup_key="morganflorida#2" id1="132293" start="17" party1_short="MORGAN" citation_local_level_id="1" >MORGAN v. FLORIDA</CITATION>
+
+<NAME end="23" start="17" party1_of="132293_3" all_names="MORGAN" local_name_id="1" id="132293_4" >MORGAN</NAME>
+
+<NAME end="34" start="27" all_names="FLORIDA" party2_of="132293_3" local_name_id="2" id="132293_5" >FLORIDA</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="u.s._540_888" id1="132295" start="44" citation_global_level_id="4889.002" line="1" id="132293_2" citation_local_level_id="0" >03-5102</DOCKET>
+
+<DATE start="93" end="108" id="132293_6" >October 6, 2003</DATE>
+
+<NAME start="202" local_name_id="3" end="212" id="132293_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="251" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_842_130" id1="Dummy_File_222122" volume="842" start="237" page_number="130" standard_reporter="SO.2D" citation_global_level_id="285972.001" line="3" id="132293_12" citation_local_level_id="2" >842 So. 2d 130</CITATION>
+
+<RELATION theme="132293_1" includes_docket_string="03-5102" includes_docket="132293_2" theme_string="540 U.S. 888" gram_type="apposition" relation_type="asymmetric" id="132293_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 888" X_vs_Y_string="MORGAN v. FLORIDA" standard_case="132293_1" X_vs_Y="132293_3" gram_type="pre_nom" relation_type="equivalence" id="132293_7" ></RELATION>
+
+<RELATION theme="132293_3" includes_docket_string="03-5102" includes_docket="132293_2" theme_string="MORGAN v. FLORIDA" gram_type="apposition" relation_type="asymmetric" id="132293_10" ></RELATION>
+
+<RELATION theme="132293_3" party1="132293_4" party1_string="MORGAN" theme_string="MORGAN v. FLORIDA" gram_type="infix" relation_type="asymmetric" id="132293_8" ></RELATION>
+
+<RELATION party2="132293_5" theme="132293_3" theme_string="MORGAN v. FLORIDA" party2_string="FLORIDA" gram_type="infix" relation_type="asymmetric" id="132293_9" ></RELATION>
+

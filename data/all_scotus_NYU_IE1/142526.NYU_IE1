@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['stavesstates#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1169" id1="142515" volume="543" start="0" page_number="1169" standard_reporter="U.S." citation_global_level_id="2824.002" line="1" id="142526_1" citation_local_level_id="0" >543 U.S. 1169</CITATION>
+
+<CITATION party2="UNITED STATES" party1="STAVES" citation_global_level_id="7258.001" party2_short="STATES" line="2" id="142526_2" alternative_keys="['u.s._543_1169']" end="41" entry_type="party_key" lookup_key="stavesstates#1" id1="142526" start="18" party1_short="STAVES" citation_local_level_id="1" >STAVES v. UNITED STATES</CITATION>
+
+<NAME end="24" start="18" party1_of="142526_2" all_names="STAVES" local_name_id="1" id="142526_3" >STAVES</NAME>
+
+<NAME end="41" start="28" all_names="UNITED STATES" party2_of="142526_2" local_name_id="2" id="142526_4" >UNITED STATES</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="stavesstates#1" id1="142526" start="51" citation_global_level_id="7258.001" line="3" id="142526_7" citation_local_level_id="1" >04-7937</DOCKET>
+
+<ORGANIZATION start="64" end="94" id="142526_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="100" citation_global_level_id="7258.001" end="117" id="142526_9" citation_local_level_id="1" >February 22, 2005</DATE>
+
+<NAME start="149" local_name_id="3" end="152" id="142526_14" all_names="CIR" >Cir</NAME>
+
+<CITATION end="202" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_383_977" id1="Dummy_File_221654" volume="383" start="189" page_number="977" standard_reporter="F.3D" citation_global_level_id="285504.001" line="8" id="142526_13" citation_local_level_id="2" >383 F. 3d 977</CITATION>
+
+<RELATION theme="142526_2" party1="142526_3" party1_string="STAVES" theme_string="STAVES v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="142526_5" ></RELATION>
+
+<RELATION party2="142526_4" theme="142526_2" theme_string="STAVES v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="142526_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1169" X_vs_Y_string="STAVES v. UNITED STATES" standard_case="142526_1" X_vs_Y="142526_2" gram_type="multi_line" relation_type="equivalence" id="142526_10" ></RELATION>
+
+<RELATION at_date_string="February 22, 2005" theme="142526_2" at_date="142526_9" theme_string="STAVES v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="142526_12" ></RELATION>
+
+<RELATION theme="142526_2" includes_docket_string="04-7937" includes_docket="142526_7" theme_string="STAVES v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="142526_11" ></RELATION>
+

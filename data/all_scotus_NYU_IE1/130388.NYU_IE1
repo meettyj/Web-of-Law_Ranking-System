@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['paganflorida#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_919" id1="130388" volume="539" start="0" page_number="919" standard_reporter="U.S." citation_global_level_id="6050.002" line="1" id="130388_1" citation_local_level_id="0" >539 U.S. 919</CITATION>
+
+<CITATION party2="Florida" party1="Pagan" citation_global_level_id="6050.001" party2_short="Florida" line="1" id="130388_3" alternative_keys="['u.s._539_919']" end="33" entry_type="party_key" lookup_key="paganflorida#1" id1="130388" start="17" party1_short="Pagan" citation_local_level_id="1" >Pagan v. Florida</CITATION>
+
+<NAME end="22" start="17" party1_of="130388_3" all_names="PAGAN" local_name_id="1" id="130388_4" >Pagan</NAME>
+
+<NAME end="33" start="26" all_names="FLORIDA" party2_of="130388_3" local_name_id="2" id="130388_5" >Florida</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="u.s._539_919" id1="130388" start="43" citation_global_level_id="6050.002" line="1" id="130388_2" citation_local_level_id="0" >02-10048</DOCKET>
+
+<DATE start="93" end="105" id="130388_6" >June 9, 2003</DATE>
+
+<NAME start="182" local_name_id="3" end="192" id="130388_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="231" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_830_792" id1="Dummy_File_185490" volume="830" start="217" page_number="792" standard_reporter="SO.2D" citation_global_level_id="249340.001" line="3" id="130388_12" citation_local_level_id="2" >830 So. 2d 792</CITATION>
+
+<RELATION theme="130388_1" includes_docket_string="02-10048" includes_docket="130388_2" theme_string="539 U.S. 919" gram_type="apposition" relation_type="asymmetric" id="130388_11" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 919" X_vs_Y_string="Pagan v. Florida" standard_case="130388_1" X_vs_Y="130388_3" gram_type="pre_nom" relation_type="equivalence" id="130388_7" ></RELATION>
+
+<RELATION theme="130388_3" includes_docket_string="02-10048" includes_docket="130388_2" theme_string="Pagan v. Florida" gram_type="apposition" relation_type="asymmetric" id="130388_10" ></RELATION>
+
+<RELATION theme="130388_3" party1="130388_4" party1_string="Pagan" theme_string="Pagan v. Florida" gram_type="infix" relation_type="asymmetric" id="130388_8" ></RELATION>
+
+<RELATION party2="130388_5" theme="130388_3" theme_string="Pagan v. Florida" party2_string="Florida" gram_type="infix" relation_type="asymmetric" id="130388_9" ></RELATION>
+

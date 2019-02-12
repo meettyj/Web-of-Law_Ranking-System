@@ -1,0 +1,44 @@
+<CITATION alternative_keys="['tennardcockrell#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_802" id1="122273" volume="537" start="0" page_number="802" standard_reporter="U.S." citation_global_level_id="15853.002" line="1" id="122278_1" citation_local_level_id="0" >537 U.S. 802</CITATION>
+
+<CITATION party2="COCKRELL, DIRECTOR, TEXAS DEPARTMENT OF CRIMINAL JUSTICE, INSTITUTIONAL DIVISION" party1="TENNARD" citation_global_level_id="15853.005" party2_short="COCKRELL" line="1" id="122278_3" alternative_keys="['f.3d_284_591', 'u.s._537_802']" end="108" no_current_file="True" entry_type="party_key" lookup_key="tennardcockrell#1" id1="122273" start="17" party1_short="TENNARD" citation_local_level_id="1" >TENNARD v. COCKRELL, DIRECTOR, TEXAS DEPARTMENT OF CRIMINAL JUSTICE, INSTITUTIONAL DIVISION</CITATION>
+
+<NAME end="24" start="17" party1_of="122278_3" all_names="TENNARD" local_name_id="1" id="122278_4" >TENNARD</NAME>
+
+<NAME end="108" start="28" all_names="COCKRELL DIRECTOR TEXAS DEPARTMENT OF CRIMINAL JUSTICE INSTITUTIONAL DIVISION" party2_of="122278_3" local_name_id="2" id="122278_5" >COCKRELL, DIRECTOR, TEXAS DEPARTMENT OF CRIMINAL JUSTICE, INSTITUTIONAL DIVISION</NAME>
+
+<DOCKET end="125" entry_type="docket" lookup_key="u.s._537_802" id1="122273" start="118" citation_global_level_id="15853.002" line="1" id="122278_2" citation_local_level_id="0" >02-5164</DOCKET>
+
+<DATE start="167" end="182" id="122278_6" >October 7, 2002</DATE>
+
+<NAME start="311" local_name_id="3" end="314" id="122278_18" all_names="CIR" >Cir</NAME>
+
+<CITATION party2="Virginia" party1="Atkins" citation_global_level_id="27750.001" party2_short="Virginia" line="3" id="122278_14" alternative_keys="['u.s._536_304']" end="497" entry_type="party_key" lookup_key="atkinsvirginia#1" id1="121158" start="479" party1_short="Atkins" citation_local_level_id="2" >Atkins v. Virginia</CITATION>
+
+<NAME end="485" start="479" party1_of="122278_14" all_names="ATKINS" local_name_id="4" id="122278_15" >Atkins</NAME>
+
+<NAME end="497" start="489" all_names="VIRGINIA" party2_of="122278_14" local_name_id="5" id="122278_16" >Virginia</NAME>
+
+<CITATION alternative_keys="['atkinsvirginia#1']" end="518" reporter="U.S." entry_type="standard_key" lookup_key="u.s._536_304" id1="2959732" volume="536" start="499" page_number="304" year="2002" standard_reporter="U.S." citation_global_level_id="2148.004" line="3" id="122278_12" citation_local_level_id="3" >536 U.S. 304 (2002)</CITATION>
+
+<DATE start="513" citation_global_level_id="2148.004" end="517" id="122278_17" citation_local_level_id="3" >2002</DATE>
+
+<CITATION alternative_keys="['tennardcockrell#1']" end="549" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_284_591" id1="Dummy_File_681" volume="284" start="536" page_number="591" standard_reporter="F.3D" citation_global_level_id="64531.003" line="3" id="122278_13" citation_local_level_id="4" >284 F. 3d 591</CITATION>
+
+<RELATION theme="122278_1" includes_docket_string="02-5164" includes_docket="122278_2" theme_string="537 U.S. 802" gram_type="apposition" relation_type="asymmetric" id="122278_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 802" X_vs_Y_string="TENNARD v. COCKRELL, DIRECTOR, TEXAS DEPARTMENT OF CRIMINAL JUSTICE, INSTITUTIONAL DIVISION" standard_case="122278_1" X_vs_Y="122278_3" gram_type="pre_nom" relation_type="equivalence" id="122278_7" ></RELATION>
+
+<RELATION theme="122278_3" includes_docket_string="02-5164" includes_docket="122278_2" theme_string="TENNARD v. COCKRELL, DIRECTOR, TEXAS DEPARTMENT OF CRIMINAL JUSTICE, INSTITUTIONAL DIVISION" gram_type="apposition" relation_type="asymmetric" id="122278_10" ></RELATION>
+
+<RELATION theme="122278_3" party1="122278_4" party1_string="TENNARD" theme_string="TENNARD v. COCKRELL, DIRECTOR, TEXAS DEPARTMENT OF CRIMINAL JUSTICE, INSTITUTIONAL DIVISION" gram_type="infix" relation_type="asymmetric" id="122278_8" ></RELATION>
+
+<RELATION party2="122278_5" theme="122278_3" theme_string="TENNARD v. COCKRELL, DIRECTOR, TEXAS DEPARTMENT OF CRIMINAL JUSTICE, INSTITUTIONAL DIVISION" party2_string="COCKRELL, DIRECTOR, TEXAS DEPARTMENT OF CRIMINAL JUSTICE, INSTITUTIONAL DIVISION" gram_type="infix" relation_type="asymmetric" id="122278_9" ></RELATION>
+
+<RELATION standard_case_string="536 U.S. 304 (2002)" X_vs_Y_string="Atkins v. Virginia" standard_case="122278_12" X_vs_Y="122278_14" gram_type="apposition" relation_type="equivalence" id="122278_21" ></RELATION>
+
+<RELATION theme="122278_14" party1="122278_15" party1_string="Atkins" theme_string="Atkins v. Virginia" gram_type="infix" relation_type="asymmetric" id="122278_19" ></RELATION>
+
+<RELATION party2="122278_16" theme="122278_14" theme_string="Atkins v. Virginia" party2_string="Virginia" gram_type="infix" relation_type="asymmetric" id="122278_20" ></RELATION>
+
+<RELATION at_date_string="2002" theme="122278_12" at_date="122278_17" theme_string="536 U.S. 304 (2002)" gram_type="infix" relation_type="asymmetric" id="122278_22" ></RELATION>
+

@@ -1,0 +1,46 @@
+<CITATION alternative_keys="['partycommission#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_982" id1="131073" volume="539" start="0" page_number="982" standard_reporter="U.S." citation_global_level_id="6086.002" line="1" id="131073_1" citation_local_level_id="0" >539 U.S. 982</CITATION>
+
+<CITATION party2="Federal Election Commission et al" party1="California Democratic Party et al." citation_global_level_id="3429.004" party2_short="Commission" line="1" id="131073_3" alternative_keys="['u.s._539_912', 'u.s._539_982', 'u.s._539_975', 'u.s._539_939', 'u.s._539_980']" end="88" no_current_file="True" entry_type="party_key" lookup_key="partycommission#1" id1="131053" start="17" party1_short="Party" citation_local_level_id="1" >California Democratic Party et al. v. Federal Election Commission et al</CITATION>
+
+<NAME end="51" start="17" party1_of="131073_3" all_names="CALIFORNIA DEMOCRATIC PARTY" local_name_id="1" id="131073_4" >California Democratic Party et al.</NAME>
+
+<NAME start="17" local_name_id="1" end="44" id="131073_8" all_names="CALIFORNIA DEMOCRATIC PARTY" >California Democratic Party</NAME>
+
+<NAME end="88" start="55" all_names="FEDERAL ELECTION COMMISSION" party2_of="131073_3" local_name_id="2" id="131073_5" >Federal Election Commission et al</NAME>
+
+<ORGANIZATION start="55" end="82" id="131073_9" >Federal Election Commission</ORGANIZATION>
+
+<DOCKET end="105" entry_type="docket" lookup_key="u.s._539_982" id1="131073" start="98" citation_global_level_id="6086.002" line="1" id="131073_2" citation_local_level_id="0" >02-1753</DOCKET>
+
+<DATE start="101" end="105" id="131073_6" >1753</DATE>
+
+<ORGANIZATION start="111" end="141" id="131073_10" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="147" end="162" id="131073_7" >August 25, 2003</DATE>
+
+<NAME start="184" local_name_id="3" end="210" id="131073_11" all_names="APPEAL FROM THE D C D C" >Appeal from the D. C. D. C</NAME>
+
+<NAME start="213" local_name_id="4" end="221" id="131073_12" all_names="PROBABLE" >Probable</NAME>
+
+<PROFESSION start="282" document_level_name_id="5" end="310" id="131073_19" party="MITCH MCCONNELL" >Motion of plaintiffs Senator</PROFESSION>
+
+<NAME start="311" local_name_id="5" end="326" id="131073_20" all_names="MITCH MCCONNELL" >Mitch McConnell</NAME>
+
+<NAME start="349" local_name_id="6" end="351" id="131073_21" all_names="VI" >VI</NAME>
+
+<NAME start="394" local_name_id="7" end="400" id="131073_22" all_names="MOTION" >Motion</NAME>
+
+<RELATION theme="131073_1" includes_docket_string="02-1753" includes_docket="131073_2" theme_string="539 U.S. 982" gram_type="apposition" relation_type="asymmetric" id="131073_17" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 982" X_vs_Y_string="California Democratic Party et al. v. Federal Election Commission et al" standard_case="131073_1" X_vs_Y="131073_3" gram_type="pre_nom" relation_type="equivalence" id="131073_13" ></RELATION>
+
+<RELATION theme="131073_3" includes_docket_string="02-1753" includes_docket="131073_2" theme_string="California Democratic Party et al. v. Federal Election Commission et al" gram_type="apposition" relation_type="asymmetric" id="131073_16" ></RELATION>
+
+<RELATION theme="131073_3" party1="131073_4" party1_string="California Democratic Party et al." theme_string="California Democratic Party et al. v. Federal Election Commission et al" gram_type="infix" relation_type="asymmetric" id="131073_14" ></RELATION>
+
+<RELATION party2="131073_5" theme="131073_3" theme_string="California Democratic Party et al. v. Federal Election Commission et al" party2_string="Federal Election Commission et al" gram_type="infix" relation_type="asymmetric" id="131073_15" ></RELATION>
+
+<RELATION at_date_string="1753" theme="131073_2" at_date="131073_6" theme_string="02-1753" gram_type="infix" relation_type="asymmetric" id="131073_18" ></RELATION>
+
+<RELATION theme="131073_20" profession_string="Motion of plaintiffs Senator" theme_string="Mitch McConnell" profession="131073_19" gram_type="pre_nom" relation_type="asymmetric" id="131073_23" ></RELATION>
+

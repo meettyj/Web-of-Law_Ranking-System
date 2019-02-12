@@ -1,0 +1,62 @@
+<CITATION alternative_keys="['companycompany#2', 's.ct._52_26', 'l.ed._76_497']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._284_571" id1="101853" volume="284" start="0" page_number="571" standard_reporter="U.S." citation_global_level_id="6919.002" line="1" id="101853_1" citation_local_level_id="0" >284 U.S. 571</CITATION>
+
+<CITATION alternative_keys="['u.s._284_571', 'companycompany#2', 'l.ed._76_497']" end="29" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._52_26" id1="101853" volume="52" start="17" page_number="26" standard_reporter="S.CT." citation_global_level_id="6919.003" line="1" id="101853_2" citation_local_level_id="1" >52 S. Ct. 26</CITATION>
+
+<NAME start="20" local_name_id="1" end="25" id="101853_10" all_names="S CT" >S. Ct</NAME>
+
+<CITATION alternative_keys="['u.s._284_571', 's.ct._52_26', 'companycompany#2']" end="47" reporter="L. Ed." entry_type="standard_key" lookup_key="l.ed._76_497" id1="101853" volume="76" start="34" page_number="497" standard_reporter="L.ED." citation_global_level_id="6919.004" line="1" id="101853_3" citation_local_level_id="2" >76 L. Ed. 497</CITATION>
+
+<CITATION party2="GENERAL ELECTRIC COMPANY" alternative_keys="['u.s._284_571', 's.ct._52_26', 'l.ed._76_497']" party1="DE FOREST RADIO COMPANY," end="116" party1_short="COMPANY" entry_type="party_key" party1_role="petitioner" lookup_key="companycompany#2" id1="101853" start="52" citation_global_level_id="6919.001" party2_short="COMPANY" line="1" id="101853_4" citation_local_level_id="3" >DE FOREST RADIO COMPANY, petitioner, v. GENERAL ELECTRIC COMPANY</CITATION>
+
+<NAME end="76" start="52" party1_of="101853_4" all_names="DE FOREST RADIO COMPANY" local_name_id="2" id="101853_5" >DE FOREST RADIO COMPANY,</NAME>
+
+<ORGANIZATION start="55" end="75" id="101853_11" >FOREST RADIO COMPANY</ORGANIZATION>
+
+<LEGAL_ROLE start="77" end="87" id="101853_7" >petitioner</LEGAL_ROLE>
+
+<NAME end="116" start="92" all_names="GENERAL ELECTRIC COMPANY" party2_of="101853_4" local_name_id="3" id="101853_6" >GENERAL ELECTRIC COMPANY</NAME>
+
+<DATE start="188" end="192" id="101853_8" >1930</DATE>
+
+<DATE start="198" end="214" id="101853_9" >October 19, 1931</DATE>
+
+<NAME start="341" local_name_id="4" end="359" id="101853_17" all_names="MR RALPH B EVANS" >Mr. Ralph B. Evans</NAME>
+
+<NAME start="364" local_name_id="5" end="380" id="101853_18" all_names="PHILADELPHIA PA" >Philadelphia, Pa</NAME>
+
+<LEGAL_ROLE start="387" end="397" id="101853_19" >respondent</LEGAL_ROLE>
+
+<DATE start="549" end="559" id="101853_20" >July, 1912</DATE>
+
+<DATE start="658" end="673" id="101853_21" >August 20, 1912</DATE>
+
+<NAME start="705" local_name_id="6" end="713" id="101853_23" all_names="LANGMUIR" >Langmuir</NAME>
+
+<ORGANIZATION start="760" end="774" id="101853_24" >District Court</ORGANIZATION>
+
+<NAME start="797" local_name_id="6" end="805" id="101853_25" all_names="LANGMUIR" >Langmuir</NAME>
+
+<NAME start="825" local_name_id="7" end="831" id="101853_26" all_names="ARNOLD" >Arnold</NAME>
+
+<NAME start="835" local_name_id="8" end="843" id="101853_27" all_names="NOVEMBER" >November</NAME>
+
+<DATE start="850" end="854" id="101853_22" >1912</DATE>
+
+<DATE start="1011" end="1023" id="101853_28" >August, 1912</DATE>
+
+<ORGANIZATION start="1029" end="1046" id="101853_29" >Telegraph Company</ORGANIZATION>
+
+<NAME start="1055" local_name_id="9" end="1061" id="101853_30" all_names="FOREST" >Forest</NAME>
+
+<NAME start="1107" local_name_id="8" end="1115" id="101853_31" all_names="NOVEMBER" >November</NAME>
+
+<RELATION standard_case_string="284 U.S. 571" X_vs_Y_string="DE FOREST RADIO COMPANY, petitioner, v. GENERAL ELECTRIC COMPANY" standard_case="101853_1" X_vs_Y="101853_4" gram_type="pre_nom" relation_type="equivalence" id="101853_13" ></RELATION>
+
+<RELATION standard_case_string="52 S. Ct. 26" X_vs_Y_string="DE FOREST RADIO COMPANY, petitioner, v. GENERAL ELECTRIC COMPANY" standard_case="101853_2" X_vs_Y="101853_4" gram_type="pre_nom" relation_type="equivalence" id="101853_14" ></RELATION>
+
+<RELATION standard_case_string="76 L. Ed. 497" X_vs_Y_string="DE FOREST RADIO COMPANY, petitioner, v. GENERAL ELECTRIC COMPANY" standard_case="101853_3" X_vs_Y="101853_4" gram_type="pre_nom" relation_type="equivalence" id="101853_12" ></RELATION>
+
+<RELATION theme="101853_4" party1="101853_5" party1_string="DE FOREST RADIO COMPANY," theme_string="DE FOREST RADIO COMPANY, petitioner, v. GENERAL ELECTRIC COMPANY" gram_type="infix" relation_type="asymmetric" id="101853_15" ></RELATION>
+
+<RELATION party2="101853_6" theme="101853_4" theme_string="DE FOREST RADIO COMPANY, petitioner, v. GENERAL ELECTRIC COMPANY" party2_string="GENERAL ELECTRIC COMPANY" gram_type="infix" relation_type="asymmetric" id="101853_16" ></RELATION>
+

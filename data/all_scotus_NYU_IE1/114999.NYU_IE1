@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['jonesillinois#9']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_966" id1="115006" volume="510" start="0" page_number="966" standard_reporter="U.S." citation_global_level_id="261.002" line="1" id="114999_1" citation_local_level_id="0" >510 U.S. 966</CITATION>
+
+<CITATION party2="Illinois" party1="Jones" citation_global_level_id="59596.001" party2_short="Illinois" line="1" id="114999_3" alternative_keys="['u.s._510_966']" end="34" entry_type="party_key" lookup_key="jonesillinois#9" id1="111073" start="17" party1_short="Jones" citation_local_level_id="1" >Jones v. Illinois</CITATION>
+
+<NAME end="22" start="17" party1_of="114999_3" all_names="JONES" local_name_id="1" id="114999_4" >Jones</NAME>
+
+<NAME end="34" start="26" all_names="ILLINOIS" party2_of="114999_3" local_name_id="2" id="114999_5" >Illinois</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="u.s._510_966" id1="115006" start="44" citation_global_level_id="261.002" line="1" id="114999_2" citation_local_level_id="0" >93-5581</DOCKET>
+
+<DATE start="93" end="109" id="114999_6" >November 8, 1993</DATE>
+
+<NAME start="186" local_name_id="3" end="196" id="114999_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="255" reporter="N. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.e.2d_614_1219" id1="Dummy_File_175545" volume="614" start="238" page_number="1219" standard_reporter="N.E.2D" citation_global_level_id="239395.001" line="3" id="114999_12" citation_local_level_id="2" >614 N. E. 2d 1219</CITATION>
+
+<RELATION theme="114999_1" includes_docket_string="93-5581" includes_docket="114999_2" theme_string="510 U.S. 966" gram_type="apposition" relation_type="asymmetric" id="114999_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 966" X_vs_Y_string="Jones v. Illinois" standard_case="114999_1" X_vs_Y="114999_3" gram_type="pre_nom" relation_type="equivalence" id="114999_7" ></RELATION>
+
+<RELATION theme="114999_3" includes_docket_string="93-5581" includes_docket="114999_2" theme_string="Jones v. Illinois" gram_type="apposition" relation_type="asymmetric" id="114999_10" ></RELATION>
+
+<RELATION theme="114999_3" party1="114999_4" party1_string="Jones" theme_string="Jones v. Illinois" gram_type="infix" relation_type="asymmetric" id="114999_8" ></RELATION>
+
+<RELATION party2="114999_5" theme="114999_3" theme_string="Jones v. Illinois" party2_string="Illinois" gram_type="infix" relation_type="asymmetric" id="114999_9" ></RELATION>
+

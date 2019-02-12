@@ -1,0 +1,36 @@
+<CITATION alternative_keys="['companychampenois#1', 's.ct._35_197', 'l.ed._59_438']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._235_717" id1="98336" volume="235" start="0" page_number="717" standard_reporter="U.S." citation_global_level_id="17219.002" line="1" id="98336_1" citation_local_level_id="0" >235 U.S. 717</CITATION>
+
+<CITATION alternative_keys="['u.s._235_717', 'companychampenois#1', 'l.ed._59_438']" end="30" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._35_197" id1="98336" volume="35" start="17" page_number="197" standard_reporter="S.CT." citation_global_level_id="17219.003" line="1" id="98336_2" citation_local_level_id="1" >35 S. Ct. 197</CITATION>
+
+<NAME start="20" local_name_id="1" end="25" id="98336_9" all_names="S CT" >S. Ct</NAME>
+
+<CITATION alternative_keys="['u.s._235_717', 's.ct._35_197', 'companychampenois#1']" end="48" reporter="L. Ed." entry_type="standard_key" lookup_key="l.ed._59_438" id1="98336" volume="59" start="35" page_number="438" standard_reporter="L.ED." citation_global_level_id="17219.004" line="1" id="98336_3" citation_local_level_id="2" >59 L. Ed. 438</CITATION>
+
+<CITATION party2="GREENWALD &amp; CHAMPENOIS, a Partnership" alternative_keys="['s.ct._35_197', 'l.ed._59_438', 'u.s._235_717']" party1="MOBILE &amp; OHIO RAILROAD COMPANY," end="145" party1_short="COMPANY" entry_type="party_key" party1_role="plaintiff in error" lookup_key="companychampenois#1" id1="98336" start="53" citation_global_level_id="17219.005" party2_short="CHAMPENOIS" line="1" id="98336_4" citation_local_level_id="3" >MOBILE &amp; OHIO RAILROAD COMPANY, Plaintiff in Error, v. GREENWALD &amp; CHAMPENOIS, a Partnership</CITATION>
+
+<NAME end="84" start="53" party1_of="98336_4" all_names="MOBILE &amp; OHIO RAILROAD COMPANY" local_name_id="2" id="98336_5" >MOBILE &amp; OHIO RAILROAD COMPANY,</NAME>
+
+<ORGANIZATION start="53" end="83" id="98336_10" >MOBILE &amp; OHIO RAILROAD COMPANY</ORGANIZATION>
+
+<LEGAL_ROLE start="85" end="103" id="98336_7" >Plaintiff in Error</LEGAL_ROLE>
+
+<LEGAL_ROLE start="85" end="94" id="98336_11" >Plaintiff</LEGAL_ROLE>
+
+<NAME end="145" start="108" all_names="GREENWALD &amp; CHAMPENOIS A PARTNERSHIP" party2_of="98336_4" local_name_id="3" id="98336_6" >GREENWALD &amp; CHAMPENOIS, a Partnership</NAME>
+
+<DATE start="208" end="223" id="98336_8" >August 17, 1914</DATE>
+
+<LEGAL_ROLE start="352" end="361" id="98336_17" >defendant</LEGAL_ROLE>
+
+<NAME start="437" local_name_id="4" end="441" id="98336_18" all_names="RULE" >Rule</NAME>
+
+<RELATION standard_case_string="235 U.S. 717" X_vs_Y_string="MOBILE &amp; OHIO RAILROAD COMPANY, Plaintiff in Error, v. GREENWALD &amp; CHAMPENOIS, a Partnership" standard_case="98336_1" X_vs_Y="98336_4" gram_type="pre_nom" relation_type="equivalence" id="98336_13" ></RELATION>
+
+<RELATION standard_case_string="35 S. Ct. 197" X_vs_Y_string="MOBILE &amp; OHIO RAILROAD COMPANY, Plaintiff in Error, v. GREENWALD &amp; CHAMPENOIS, a Partnership" standard_case="98336_2" X_vs_Y="98336_4" gram_type="pre_nom" relation_type="equivalence" id="98336_14" ></RELATION>
+
+<RELATION standard_case_string="59 L. Ed. 438" X_vs_Y_string="MOBILE &amp; OHIO RAILROAD COMPANY, Plaintiff in Error, v. GREENWALD &amp; CHAMPENOIS, a Partnership" standard_case="98336_3" X_vs_Y="98336_4" gram_type="pre_nom" relation_type="equivalence" id="98336_12" ></RELATION>
+
+<RELATION theme="98336_4" party1="98336_5" party1_string="MOBILE &amp; OHIO RAILROAD COMPANY," theme_string="MOBILE &amp; OHIO RAILROAD COMPANY, Plaintiff in Error, v. GREENWALD &amp; CHAMPENOIS, a Partnership" gram_type="infix" relation_type="asymmetric" id="98336_15" ></RELATION>
+
+<RELATION party2="98336_6" theme="98336_4" theme_string="MOBILE &amp; OHIO RAILROAD COMPANY, Plaintiff in Error, v. GREENWALD &amp; CHAMPENOIS, a Partnership" party2_string="GREENWALD &amp; CHAMPENOIS, a Partnership" gram_type="infix" relation_type="asymmetric" id="98336_16" ></RELATION>
+

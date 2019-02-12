@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['barnesdepartment#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1238" id1="127788" volume="537" start="0" page_number="1238" standard_reporter="U.S." citation_global_level_id="214.002" line="1" id="127785_1" citation_local_level_id="0" >537 U.S. 1238</CITATION>
+
+<CITATION party2="MISSOURI DEPARTMENT OF CORRECTIONS ET AL" party1="BARNES" citation_global_level_id="5142.001" party2_short="DEPARTMENT" line="1" id="127785_3" alternative_keys="['u.s._537_1238']" end="68" entry_type="party_key" lookup_key="barnesdepartment#2" id1="127785" start="18" party1_short="BARNES" citation_local_level_id="1" >BARNES v. MISSOURI DEPARTMENT OF CORRECTIONS ET AL</CITATION>
+
+<NAME end="24" start="18" party1_of="127785_3" all_names="BARNES" local_name_id="1" id="127785_4" >BARNES</NAME>
+
+<NAME end="68" start="28" all_names="MISSOURI DEPARTMENT OF CORRECTIONS" party2_of="127785_3" local_name_id="2" id="127785_5" >MISSOURI DEPARTMENT OF CORRECTIONS ET AL</NAME>
+
+<DOCKET end="85" entry_type="docket" lookup_key="u.s._537_1238" id1="127788" start="78" citation_global_level_id="214.002" line="1" id="127785_2" citation_local_level_id="0" >02-8449</DOCKET>
+
+<DATE start="127" end="140" id="127785_6" >March 3, 2003</DATE>
+
+<NAME start="252" local_name_id="3" end="254" id="127785_13" all_names="CT" >Ct</NAME>
+
+<CITATION end="329" reporter="S. W. 3d" entry_type="standard_key" no_current_file="True" lookup_key="s.w.3d_85_28" id1="Dummy_File_118328" volume="85" start="315" page_number="28" standard_reporter="S.W.3D" citation_global_level_id="182178.001" line="3" id="127785_12" citation_local_level_id="2" >85 S. W. 3d 28</CITATION>
+
+<RELATION theme="127785_1" includes_docket_string="02-8449" includes_docket="127785_2" theme_string="537 U.S. 1238" gram_type="apposition" relation_type="asymmetric" id="127785_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1238" X_vs_Y_string="BARNES v. MISSOURI DEPARTMENT OF CORRECTIONS ET AL" standard_case="127785_1" X_vs_Y="127785_3" gram_type="pre_nom" relation_type="equivalence" id="127785_7" ></RELATION>
+
+<RELATION theme="127785_3" includes_docket_string="02-8449" includes_docket="127785_2" theme_string="BARNES v. MISSOURI DEPARTMENT OF CORRECTIONS ET AL" gram_type="apposition" relation_type="asymmetric" id="127785_10" ></RELATION>
+
+<RELATION theme="127785_3" party1="127785_4" party1_string="BARNES" theme_string="BARNES v. MISSOURI DEPARTMENT OF CORRECTIONS ET AL" gram_type="infix" relation_type="asymmetric" id="127785_8" ></RELATION>
+
+<RELATION party2="127785_5" theme="127785_3" theme_string="BARNES v. MISSOURI DEPARTMENT OF CORRECTIONS ET AL" party2_string="MISSOURI DEPARTMENT OF CORRECTIONS ET AL" gram_type="infix" relation_type="asymmetric" id="127785_9" ></RELATION>
+

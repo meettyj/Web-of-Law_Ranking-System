@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['wattssecretary#3']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1012" id1="115621" volume="510" start="0" page_number="1012" standard_reporter="U.S." citation_global_level_id="399.002" line="1" id="115618_1" citation_local_level_id="0" >510 U.S. 1012</CITATION>
+
+<CITATION party2="Rice, Secretary of the Army, et al" party1="Watts" citation_global_level_id="399.008" party2_short="Secretary" line="1" id="115618_3" alternative_keys="['u.s._510_1012']" end="61" entry_type="party_key" lookup_key="wattssecretary#3" id1="115621" start="18" party1_short="Watts" citation_local_level_id="1" >Watts v. Rice, Secretary of the Army, et al</CITATION>
+
+<NAME end="23" start="18" party1_of="115618_3" all_names="WATTS" local_name_id="1" id="115618_4" >Watts</NAME>
+
+<NAME end="61" start="27" all_names="RICE SECRETARY OF THE ARMY" party2_of="115618_3" local_name_id="2" id="115618_5" >Rice, Secretary of the Army, et al</NAME>
+
+<DOCKET end="77" entry_type="docket" lookup_key="u.s._510_1012" id1="115621" start="71" citation_global_level_id="399.002" line="1" id="115618_2" citation_local_level_id="0" >93-594</DOCKET>
+
+<DATE start="119" end="135" id="115618_6" >December 6, 1993</DATE>
+
+<NAME start="214" local_name_id="3" end="224" id="115618_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="262" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_987_773" id1="Dummy_File_140478" volume="987" start="249" page_number="773" standard_reporter="F.2D" citation_global_level_id="204328.001" line="3" id="115618_12" citation_local_level_id="2" >987 F. 2d 773</CITATION>
+
+<RELATION theme="115618_1" includes_docket_string="93-594" includes_docket="115618_2" theme_string="510 U.S. 1012" gram_type="apposition" relation_type="asymmetric" id="115618_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1012" X_vs_Y_string="Watts v. Rice, Secretary of the Army, et al" standard_case="115618_1" X_vs_Y="115618_3" gram_type="pre_nom" relation_type="equivalence" id="115618_7" ></RELATION>
+
+<RELATION theme="115618_3" includes_docket_string="93-594" includes_docket="115618_2" theme_string="Watts v. Rice, Secretary of the Army, et al" gram_type="apposition" relation_type="asymmetric" id="115618_10" ></RELATION>
+
+<RELATION theme="115618_3" party1="115618_4" party1_string="Watts" theme_string="Watts v. Rice, Secretary of the Army, et al" gram_type="infix" relation_type="asymmetric" id="115618_8" ></RELATION>
+
+<RELATION party2="115618_5" theme="115618_3" theme_string="Watts v. Rice, Secretary of the Army, et al" party2_string="Rice, Secretary of the Army, et al" gram_type="infix" relation_type="asymmetric" id="115618_9" ></RELATION>
+

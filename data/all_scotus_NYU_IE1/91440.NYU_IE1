@@ -1,0 +1,42 @@
+<CITATION alternative_keys="['minmin#10', 'u.s._115_221', 'l.ed._29_392']" end="11" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._6_33" id1="91440" volume="6" start="0" page_number="33" standard_reporter="S.CT." citation_global_level_id="12094.002" line="1" id="91440_1" citation_local_level_id="0" >6 S. Ct. 33</CITATION>
+
+<CITATION alternative_keys="['s.ct._6_33', 'minmin#10', 'l.ed._29_392']" end="28" reporter="U.S." entry_type="standard_key" lookup_key="u.s._115_221" id1="2477934" volume="115" start="16" page_number="221" standard_reporter="U.S." citation_global_level_id="1320.002" line="1" id="91440_2" citation_local_level_id="1" >115 U.S. 221</CITATION>
+
+<CITATION alternative_keys="['s.ct._6_33', 'u.s._115_221', 'minmin#10']" end="46" reporter="L. Ed." entry_type="standard_key" lookup_key="l.ed._29_392" id1="91440" volume="29" start="33" page_number="392" standard_reporter="L.ED." citation_global_level_id="12094.003" line="1" id="91440_3" citation_local_level_id="2" >29 L. Ed. 392</CITATION>
+
+<NAME start="36" local_name_id="1" end="41" id="91440_8" all_names="L ED" >L. Ed</NAME>
+
+<CITATION party2="EAGLE COPPER &amp; SILVER MIN. CO.     Filed" party1="BOSTON HYDRAULIC GOLD MIN. CO." citation_global_level_id="12094.004" party2_short="MIN" line="1" id="91440_4" alternative_keys="['u.s._115_221', 'l.ed._29_392', 's.ct._6_33']" end="125" entry_type="party_key" lookup_key="minmin#10" id1="91440" start="51" party1_short="MIN" citation_local_level_id="3" >BOSTON HYDRAULIC GOLD MIN. CO. v. EAGLE COPPER &amp; SILVER MIN. CO. Filed</CITATION>
+
+<NAME end="81" start="51" party1_of="91440_4" all_names="BOSTON HYDRAULIC GOLD MIN CO" local_name_id="2" id="91440_5" >BOSTON HYDRAULIC GOLD MIN. CO.</NAME>
+
+<ORGANIZATION start="78" end="80" id="91440_9" >CO</ORGANIZATION>
+
+<NAME end="125" start="85" all_names="EAGLE COPPER &amp; SILVER MIN CO FILED" party2_of="91440_4" local_name_id="3" id="91440_6" >EAGLE COPPER &amp; SILVER MIN. CO. Filed</NAME>
+
+<DATE start="126" citation_global_level_id="12094.004" end="142" id="91440_7" citation_local_level_id="3" >October 26, 1885</DATE>
+
+<NAME start="199" local_name_id="4" end="211" id="91440_16" all_names="G A NOURSE" >G. A. Nourse</NAME>
+
+<LEGAL_ROLE start="217" end="226" id="91440_17" >defendant</LEGAL_ROLE>
+
+<NAME start="243" local_name_id="5" end="248" id="91440_18" all_names="WAITE" >WAITE</NAME>
+
+<NAME start="250" local_name_id="6" end="254" id="91440_19" all_names="C J" >C. J</NAME>
+
+<LEGAL_ROLE start="359" end="368" id="91440_20" >defendant</LEGAL_ROLE>
+
+<NAME start="505" local_name_id="7" end="508" id="91440_21" all_names="REV" >Rev</NAME>
+
+<RELATION standard_case_string="6 S. Ct. 33" X_vs_Y_string="BOSTON HYDRAULIC GOLD MIN. CO. v. EAGLE COPPER &amp; SILVER MIN. CO.     Filed" standard_case="91440_1" X_vs_Y="91440_4" gram_type="pre_nom" relation_type="equivalence" id="91440_11" ></RELATION>
+
+<RELATION standard_case_string="115 U.S. 221" X_vs_Y_string="BOSTON HYDRAULIC GOLD MIN. CO. v. EAGLE COPPER &amp; SILVER MIN. CO.     Filed" standard_case="91440_2" X_vs_Y="91440_4" gram_type="pre_nom" relation_type="equivalence" id="91440_12" ></RELATION>
+
+<RELATION standard_case_string="29 L. Ed. 392" X_vs_Y_string="BOSTON HYDRAULIC GOLD MIN. CO. v. EAGLE COPPER &amp; SILVER MIN. CO.     Filed" standard_case="91440_3" X_vs_Y="91440_4" gram_type="pre_nom" relation_type="equivalence" id="91440_10" ></RELATION>
+
+<RELATION at_date_string="October 26, 1885" theme="91440_4" at_date="91440_7" theme_string="BOSTON HYDRAULIC GOLD MIN. CO. v. EAGLE COPPER &amp; SILVER MIN. CO.     Filed" gram_type="pre_nom" relation_type="asymmetric" id="91440_15" ></RELATION>
+
+<RELATION theme="91440_4" party1="91440_5" party1_string="BOSTON HYDRAULIC GOLD MIN. CO." theme_string="BOSTON HYDRAULIC GOLD MIN. CO. v. EAGLE COPPER &amp; SILVER MIN. CO.     Filed" gram_type="infix" relation_type="asymmetric" id="91440_13" ></RELATION>
+
+<RELATION party2="91440_6" theme="91440_4" theme_string="BOSTON HYDRAULIC GOLD MIN. CO. v. EAGLE COPPER &amp; SILVER MIN. CO.     Filed" party2_string="EAGLE COPPER &amp; SILVER MIN. CO.     Filed" gram_type="infix" relation_type="asymmetric" id="91440_14" ></RELATION>
+

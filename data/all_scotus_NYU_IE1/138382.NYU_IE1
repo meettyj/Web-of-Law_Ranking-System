@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['pinetpennsylvania#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_849" id1="138385" volume="543" start="0" page_number="849" standard_reporter="U.S." citation_global_level_id="3934.002" line="1" id="138382_1" citation_local_level_id="0" >543 U.S. 849</CITATION>
+
+<CITATION party2="PENNSYLVANIA" party1="PINET" citation_global_level_id="38980.001" party2_short="PENNSYLVANIA" line="2" id="138382_2" alternative_keys="['u.s._543_849']" end="38" entry_type="party_key" lookup_key="pinetpennsylvania#1" id1="138382" start="17" party1_short="PINET" citation_local_level_id="1" >PINET v. PENNSYLVANIA</CITATION>
+
+<NAME end="22" start="17" party1_of="138382_2" all_names="PINET" local_name_id="1" id="138382_3" >PINET</NAME>
+
+<NAME end="38" start="26" all_names="PENNSYLVANIA" party2_of="138382_2" local_name_id="2" id="138382_4" >PENNSYLVANIA</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="pinetpennsylvania#1" id1="138382" start="48" citation_global_level_id="38980.001" line="3" id="138382_7" citation_local_level_id="1" >03-10758</DOCKET>
+
+<ORGANIZATION start="62" end="92" id="138382_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="98" citation_global_level_id="38980.001" end="113" id="138382_9" citation_local_level_id="1" >October 4, 2004</DATE>
+
+<NAME start="135" local_name_id="3" end="140" id="138382_14" all_names="SUPER" >Super</NAME>
+
+<CITATION end="198" reporter="A. 2d" entry_type="standard_key" no_current_file="True" lookup_key="a.2d_841_577" id1="Dummy_File_83977" volume="841" start="185" page_number="577" standard_reporter="A.2D" citation_global_level_id="147827.001" line="8" id="138382_13" citation_local_level_id="2" >841 A. 2d 577</CITATION>
+
+<RELATION theme="138382_2" party1="138382_3" party1_string="PINET" theme_string="PINET v. PENNSYLVANIA" gram_type="infix" relation_type="asymmetric" id="138382_5" ></RELATION>
+
+<RELATION party2="138382_4" theme="138382_2" theme_string="PINET v. PENNSYLVANIA" party2_string="PENNSYLVANIA" gram_type="infix" relation_type="asymmetric" id="138382_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 849" X_vs_Y_string="PINET v. PENNSYLVANIA" standard_case="138382_1" X_vs_Y="138382_2" gram_type="multi_line" relation_type="equivalence" id="138382_10" ></RELATION>
+
+<RELATION at_date_string="October 4, 2004" theme="138382_2" at_date="138382_9" theme_string="PINET v. PENNSYLVANIA" gram_type="multi_line" relation_type="asymmetric" id="138382_12" ></RELATION>
+
+<RELATION theme="138382_2" includes_docket_string="03-10758" includes_docket="138382_7" theme_string="PINET v. PENNSYLVANIA" gram_type="multi_line" relation_type="asymmetric" id="138382_11" ></RELATION>
+

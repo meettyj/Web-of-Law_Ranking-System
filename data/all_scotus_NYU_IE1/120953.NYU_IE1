@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['robertsonstates#8']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1106" id1="120942" volume="535" start="0" page_number="1106" standard_reporter="U.S." citation_global_level_id="458.002" line="1" id="120953_1" citation_local_level_id="0" >535 U.S. 1106</CITATION>
+
+<CITATION party2="UNITED STATES" party1="ROBERTSON" citation_global_level_id="61797.001" party2_short="STATES" line="2" id="120953_2" alternative_keys="['u.s._535_1106']" end="44" entry_type="party_key" lookup_key="robertsonstates#8" id1="133639" start="18" party1_short="ROBERTSON" citation_local_level_id="1" >ROBERTSON v. UNITED STATES</CITATION>
+
+<NAME end="27" start="18" party1_of="120953_2" all_names="ROBERTSON" local_name_id="1" id="120953_3" >ROBERTSON</NAME>
+
+<NAME end="44" start="31" all_names="UNITED STATES" party2_of="120953_2" local_name_id="2" id="120953_4" >UNITED STATES</NAME>
+
+<DOCKET end="61" entry_type="docket" lookup_key="robertsonstates#8" id1="133639" start="54" citation_global_level_id="61797.001" line="3" id="120953_7" citation_local_level_id="1" >01-9825</DOCKET>
+
+<DATE start="107" citation_global_level_id="61797.001" end="119" id="120953_8" citation_local_level_id="1" >May 28, 2002</DATE>
+
+<NAME start="151" local_name_id="3" end="154" id="120953_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="120953_2" party1="120953_3" party1_string="ROBERTSON" theme_string="ROBERTSON v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="120953_5" ></RELATION>
+
+<RELATION party2="120953_4" theme="120953_2" theme_string="ROBERTSON v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="120953_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1106" X_vs_Y_string="ROBERTSON v. UNITED STATES" standard_case="120953_1" X_vs_Y="120953_2" gram_type="multi_line" relation_type="equivalence" id="120953_9" ></RELATION>
+
+<RELATION at_date_string="May 28, 2002" theme="120953_2" at_date="120953_8" theme_string="ROBERTSON v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="120953_11" ></RELATION>
+
+<RELATION theme="120953_2" includes_docket_string="01-9825" includes_docket="120953_7" theme_string="ROBERTSON v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="120953_10" ></RELATION>
+

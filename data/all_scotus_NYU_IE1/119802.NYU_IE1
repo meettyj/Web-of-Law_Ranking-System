@@ -1,0 +1,34 @@
+<CITATION alternative_keys="['assnhumphrey#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1011" id1="119805" volume="535" start="0" page_number="1011" standard_reporter="U.S." citation_global_level_id="511.002" line="1" id="119802_1" citation_local_level_id="0" >535 U.S. 1011</CITATION>
+
+<CITATION party2="HUMPHREY" party1="MEMORIAL HOSPITALS ASSN." citation_global_level_id="33161.001" party2_short="HUMPHREY" line="2" id="119802_2" alternative_keys="['u.s._535_1011']" end="54" entry_type="party_key" lookup_key="assnhumphrey#1" id1="119802" start="18" party1_short="ASSN" citation_local_level_id="1" >MEMORIAL HOSPITALS ASSN. v. HUMPHREY</CITATION>
+
+<NAME end="42" start="18" party1_of="119802_2" all_names="MEMORIAL HOSPITALS ASSN" local_name_id="1" id="119802_3" >MEMORIAL HOSPITALS ASSN.</NAME>
+
+<ORGANIZATION start="18" end="41" plural="True" id="119802_5" >MEMORIAL HOSPITALS ASSN</ORGANIZATION>
+
+<NAME end="54" start="46" all_names="HUMPHREY" party2_of="119802_2" local_name_id="2" id="119802_4" >HUMPHREY</NAME>
+
+<DOCKET end="71" entry_type="docket" lookup_key="assnhumphrey#1" id1="119802" start="64" citation_global_level_id="33161.001" line="3" id="119802_8" citation_local_level_id="1" >00-1860</DOCKET>
+
+<DATE start="67" end="71" id="119802_9" >1860</DATE>
+
+<DATE start="117" citation_global_level_id="33161.001" end="131" id="119802_11" citation_local_level_id="1" >April 15, 2002</DATE>
+
+<NAME start="163" local_name_id="3" end="166" id="119802_17" all_names="CIR" >Cir</NAME>
+
+<CITATION end="289" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_239_1128" id1="Dummy_File_177357" volume="239" start="275" page_number="1128" standard_reporter="F.3D" citation_global_level_id="241207.001" line="8" id="119802_16" citation_local_level_id="2" >239 F. 3d 1128</CITATION>
+
+<RELATION theme="119802_2" party1="119802_3" party1_string="MEMORIAL HOSPITALS ASSN." theme_string="MEMORIAL HOSPITALS ASSN. v. HUMPHREY" gram_type="infix" relation_type="asymmetric" id="119802_6" ></RELATION>
+
+<RELATION party2="119802_4" theme="119802_2" theme_string="MEMORIAL HOSPITALS ASSN. v. HUMPHREY" party2_string="HUMPHREY" gram_type="infix" relation_type="asymmetric" id="119802_7" ></RELATION>
+
+<RELATION at_date_string="1860" theme="119802_8" at_date="119802_9" theme_string="00-1860" gram_type="infix" relation_type="asymmetric" id="119802_10" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1011" X_vs_Y_string="MEMORIAL HOSPITALS ASSN. v. HUMPHREY" standard_case="119802_1" X_vs_Y="119802_2" gram_type="multi_line" relation_type="equivalence" id="119802_12" ></RELATION>
+
+<RELATION at_date_string="April 15, 2002" theme="119802_2" at_date="119802_11" theme_string="MEMORIAL HOSPITALS ASSN. v. HUMPHREY" gram_type="multi_line" relation_type="asymmetric" id="119802_15" ></RELATION>
+
+<RELATION theme="119802_2" includes_docket_string="00-1860" includes_docket="119802_8" theme_string="MEMORIAL HOSPITALS ASSN. v. HUMPHREY" gram_type="multi_line" relation_type="asymmetric" id="119802_13" ></RELATION>
+
+<RELATION at_date_string="1860" theme="119802_2" at_date="119802_9" theme_string="MEMORIAL HOSPITALS ASSN. v. HUMPHREY" gram_type="multi_line" relation_type="asymmetric" id="119802_14" ></RELATION>
+

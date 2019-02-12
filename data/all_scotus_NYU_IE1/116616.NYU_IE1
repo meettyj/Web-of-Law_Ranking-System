@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['ceszykcuneo#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1096" id1="116613" volume="510" start="0" page_number="1096" standard_reporter="U.S." citation_global_level_id="7917.002" line="1" id="116616_1" citation_local_level_id="0" >510 U.S. 1096</CITATION>
+
+<CITATION party2="Cuneo et al" party1="Ceszyk" citation_global_level_id="53128.001" party2_short="Cuneo" line="1" id="116616_3" alternative_keys="['u.s._510_1096']" end="39" entry_type="party_key" lookup_key="ceszykcuneo#1" id1="116616" start="18" party1_short="Ceszyk" citation_local_level_id="1" >Ceszyk v. Cuneo et al</CITATION>
+
+<NAME end="24" start="18" party1_of="116616_3" all_names="CESZYK" local_name_id="1" id="116616_4" >Ceszyk</NAME>
+
+<NAME end="39" start="28" all_names="CUNEO" party2_of="116616_3" local_name_id="2" id="116616_5" >Cuneo et al</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._510_1096" id1="116613" start="49" citation_global_level_id="7917.002" line="1" id="116616_2" citation_local_level_id="0" >93-6916</DOCKET>
+
+<DATE start="98" end="114" id="116616_6" >January 24, 1994</DATE>
+
+<NAME start="192" local_name_id="3" end="202" id="116616_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="241" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_993_1549" id1="Dummy_File_58358" volume="993" start="227" page_number="1549" standard_reporter="F.2D" citation_global_level_id="122208.001" line="3" id="116616_12" citation_local_level_id="2" >993 F. 2d 1549</CITATION>
+
+<RELATION theme="116616_1" includes_docket_string="93-6916" includes_docket="116616_2" theme_string="510 U.S. 1096" gram_type="apposition" relation_type="asymmetric" id="116616_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1096" X_vs_Y_string="Ceszyk v. Cuneo et al" standard_case="116616_1" X_vs_Y="116616_3" gram_type="pre_nom" relation_type="equivalence" id="116616_7" ></RELATION>
+
+<RELATION theme="116616_3" includes_docket_string="93-6916" includes_docket="116616_2" theme_string="Ceszyk v. Cuneo et al" gram_type="apposition" relation_type="asymmetric" id="116616_10" ></RELATION>
+
+<RELATION theme="116616_3" party1="116616_4" party1_string="Ceszyk" theme_string="Ceszyk v. Cuneo et al" gram_type="infix" relation_type="asymmetric" id="116616_8" ></RELATION>
+
+<RELATION party2="116616_5" theme="116616_3" theme_string="Ceszyk v. Cuneo et al" party2_string="Cuneo et al" gram_type="infix" relation_type="asymmetric" id="116616_9" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['schwindlergeorgia#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1016" id1="129404" volume="538" start="0" page_number="1016" standard_reporter="U.S." citation_global_level_id="277.002" line="1" id="129410_1" citation_local_level_id="0" >538 U.S. 1016</CITATION>
+
+<CITATION party2="GEORGIA" party1="SCHWINDLER" citation_global_level_id="21236.001" party2_short="GEORGIA" line="1" id="129410_3" alternative_keys="['u.s._538_1016']" end="39" entry_type="party_key" lookup_key="schwindlergeorgia#1" id1="129410" start="18" party1_short="SCHWINDLER" citation_local_level_id="1" >SCHWINDLER v. GEORGIA</CITATION>
+
+<NAME end="28" start="18" party1_of="129410_3" all_names="SCHWINDLER" local_name_id="1" id="129410_4" >SCHWINDLER</NAME>
+
+<NAME end="39" start="32" all_names="GEORGIA" party2_of="129410_3" local_name_id="2" id="129410_5" >GEORGIA</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._538_1016" id1="129404" start="49" citation_global_level_id="277.002" line="1" id="129410_2" citation_local_level_id="0" >02-9374</DOCKET>
+
+<DATE start="98" end="109" id="129410_6" >May 5, 2003</DATE>
+
+<NAME start="203" local_name_id="3" end="205" id="129410_13" all_names="CT" >Ct</NAME>
+
+<CITATION end="285" reporter="S. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="s.e.2d_563_154" id1="Dummy_File_132572" volume="563" start="269" page_number="154" standard_reporter="S.E.2D" citation_global_level_id="196422.001" line="3" id="129410_12" citation_local_level_id="2" >563 S. E. 2d 154</CITATION>
+
+<RELATION theme="129410_1" includes_docket_string="02-9374" includes_docket="129410_2" theme_string="538 U.S. 1016" gram_type="apposition" relation_type="asymmetric" id="129410_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1016" X_vs_Y_string="SCHWINDLER v. GEORGIA" standard_case="129410_1" X_vs_Y="129410_3" gram_type="pre_nom" relation_type="equivalence" id="129410_7" ></RELATION>
+
+<RELATION theme="129410_3" includes_docket_string="02-9374" includes_docket="129410_2" theme_string="SCHWINDLER v. GEORGIA" gram_type="apposition" relation_type="asymmetric" id="129410_10" ></RELATION>
+
+<RELATION theme="129410_3" party1="129410_4" party1_string="SCHWINDLER" theme_string="SCHWINDLER v. GEORGIA" gram_type="infix" relation_type="asymmetric" id="129410_8" ></RELATION>
+
+<RELATION party2="129410_5" theme="129410_3" theme_string="SCHWINDLER v. GEORGIA" party2_string="GEORGIA" gram_type="infix" relation_type="asymmetric" id="129410_9" ></RELATION>
+

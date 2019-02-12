@@ -1,0 +1,54 @@
+<CITATION alternative_keys="['kingrapp#1', 'dall_1_9', 'l.ed._1_14']" end="8" reporter="U.S." entry_type="standard_key" lookup_key="u.s._1_9" id1="84586" volume="1" start="0" page_number="9" standard_reporter="U.S." citation_global_level_id="46303.002" line="1" id="84586_1" citation_local_level_id="0" >1 U.S. 9</CITATION>
+
+<CITATION alternative_keys="['u.s._1_9', 'kingrapp#1', 'l.ed._1_14']" end="22" reporter="Dall" entry_type="standard_key" lookup_key="dall_1_9" id1="84586" volume="1" start="13" page_number="9" standard_reporter="DALL" citation_global_level_id="46303.003" line="2" id="84586_2" citation_local_level_id="1" >1 Dall. 9</CITATION>
+
+<CITATION alternative_keys="['u.s._1_9', 'dall_1_9', 'kingrapp#1']" end="38" reporter="L. Ed." entry_type="standard_key" lookup_key="l.ed._1_14" id1="84586" volume="1" start="27" page_number="14" standard_reporter="L.ED." citation_global_level_id="46303.004" line="3" id="84586_3" citation_local_level_id="2" >1 L. Ed. 14</CITATION>
+
+<CITATION party2="Philip Henry Rapp" party1="The King" citation_global_level_id="46303.001" party2_short="Rapp" line="4" id="84586_4" alternative_keys="['u.s._1_9', 'dall_1_9', 'l.ed._1_14']" end="72" entry_type="party_key" lookup_key="kingrapp#1" id1="84586" start="43" party1_short="King" citation_local_level_id="3" >The King v. Philip Henry Rapp</CITATION>
+
+<NAME end="51" start="43" party1_of="84586_4" all_names="THE KING" local_name_id="1" id="84586_5" >The King</NAME>
+
+<PROFESSION start="47" end="51" id="84586_7" >King</PROFESSION>
+
+<NAME end="72" start="55" all_names="PHILIP HENRY RAPP" party2_of="84586_4" local_name_id="2" id="84586_6" >Philip Henry Rapp</NAME>
+
+<ORGANIZATION start="91" end="120" id="84586_13" >Supreme Court of Pennsylvania</ORGANIZATION>
+
+<NAME start="125" local_name_id="3" end="135" id="84586_15" all_names="APRIL TERM" >April Term</NAME>
+
+<DATE start="137" end="141" id="84586_14" >1764</DATE>
+
+<NAME start="162" local_name_id="4" end="188" id="84586_16" all_names="INDICTMENT FOR MISDEMEANOR" >Indictment for Misdemeanor</NAME>
+
+<NAME start="204" local_name_id="5" end="218" id="84586_17" all_names="MAN TO A WOMAN" >Man to a Woman</NAME>
+
+<FAMILY start="235" end="242" id="84586_18" >Husband</FAMILY>
+
+<CITATION party2="D'Eon 3 Burr 1513, The Court" party1="Rex" citation_global_level_id="125652.001" party2_short="Court" line="15" id="84586_19" end="722" no_current_file="True" entry_type="party_key" lookup_key="rexcourt#1" id1="Dummy_File_61802" start="683" party1_short="Rex" citation_local_level_id="4" >Rex versus D'Eon 3 Burr 1513, The Court</CITATION>
+
+<NAME end="686" start="683" party1_of="84586_19" all_names="REX" local_name_id="6" id="84586_20" >Rex</NAME>
+
+<NAME end="722" start="694" all_names="D'EON 3 BURR 1513 THE COURT" party2_of="84586_19" local_name_id="7" id="84586_21" >D'Eon 3 Burr 1513, The Court</NAME>
+
+<ORGANIZATION start="717" end="722" id="84586_22" >Court</ORGANIZATION>
+
+<NAME start="740" local_name_id="8" end="745" id="84586_23" all_names="CASES" >Cases</NAME>
+
+<NAME start="777" local_name_id="9" end="782" id="84586_24" all_names="TRIAL" >Trial</NAME>
+
+<LEGAL_ROLE start="837" end="846" id="84586_25" >Defendant</LEGAL_ROLE>
+
+<RELATION theme="84586_4" party1="84586_5" party1_string="The King" theme_string="The King v. Philip Henry Rapp" gram_type="infix" relation_type="asymmetric" id="84586_8" ></RELATION>
+
+<RELATION party2="84586_6" theme="84586_4" theme_string="The King v. Philip Henry Rapp" party2_string="Philip Henry Rapp" gram_type="infix" relation_type="asymmetric" id="84586_9" ></RELATION>
+
+<RELATION standard_case_string="1 U.S. 9" X_vs_Y_string="The King v. Philip Henry Rapp" standard_case="84586_1" X_vs_Y="84586_4" gram_type="multi_line" relation_type="equivalence" id="84586_10" ></RELATION>
+
+<RELATION standard_case_string="1 Dall. 9" X_vs_Y_string="The King v. Philip Henry Rapp" standard_case="84586_2" X_vs_Y="84586_4" gram_type="multi_line" relation_type="equivalence" id="84586_11" ></RELATION>
+
+<RELATION standard_case_string="1 L. Ed. 14" X_vs_Y_string="The King v. Philip Henry Rapp" standard_case="84586_3" X_vs_Y="84586_4" gram_type="multi_line" relation_type="equivalence" id="84586_12" ></RELATION>
+
+<RELATION theme="84586_19" party1="84586_20" party1_string="Rex" theme_string="Rex versus D'Eon 3 Burr 1513, The Court" gram_type="infix" relation_type="asymmetric" id="84586_26" ></RELATION>
+
+<RELATION party2="84586_21" theme="84586_19" theme_string="Rex versus D'Eon 3 Burr 1513, The Court" party2_string="D'Eon 3 Burr 1513, The Court" gram_type="infix" relation_type="asymmetric" id="84586_27" ></RELATION>
+

@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['medinoljohnson#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_814" id1="137914" volume="543" start="0" page_number="814" standard_reporter="U.S." citation_global_level_id="321.002" line="1" id="137912_1" citation_local_level_id="0" >543 U.S. 814</CITATION>
+
+<CITATION party2="JOHNSON &amp; JOHNSON ET AL" party1="MEDINOL LTD." citation_global_level_id="321.006" party2_short="JOHNSON" line="2" id="137912_2" alternative_keys="['u.s._543_814']" end="56" entry_type="party_key" lookup_key="medinoljohnson#2" id1="137914" start="17" party1_short="MEDINOL" citation_local_level_id="1" >MEDINOL LTD. v. JOHNSON &amp; JOHNSON ET AL</CITATION>
+
+<NAME end="29" start="17" party1_of="137912_2" all_names="MEDINOL LTD" local_name_id="1" id="137912_3" >MEDINOL LTD.</NAME>
+
+<ORGANIZATION start="17" end="28" id="137912_5" >MEDINOL LTD</ORGANIZATION>
+
+<NAME end="56" start="33" all_names="JOHNSON &amp; JOHNSON" party2_of="137912_2" local_name_id="2" id="137912_4" >JOHNSON &amp; JOHNSON ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._543_814']" end="73" entry_type="docket" lookup_key="medinoljohnson#2" id1="137914" start="66" citation_global_level_id="321.006" line="3" id="137912_8" citation_local_level_id="1" >03-1590</DOCKET>
+
+<ORGANIZATION start="79" end="109" id="137912_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="115" citation_global_level_id="321.006" end="130" id="137912_10" citation_local_level_id="1" >October 4, 2004</DATE>
+
+<NAME start="152" local_name_id="3" end="161" id="137912_14" all_names="C A FED" >C. A. Fed</NAME>
+
+<NAME start="163" local_name_id="4" end="166" id="137912_15" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="137912_2" party1="137912_3" party1_string="MEDINOL LTD." theme_string="MEDINOL LTD. v. JOHNSON &amp; JOHNSON ET AL" gram_type="infix" relation_type="asymmetric" id="137912_6" ></RELATION>
+
+<RELATION party2="137912_4" theme="137912_2" theme_string="MEDINOL LTD. v. JOHNSON &amp; JOHNSON ET AL" party2_string="JOHNSON &amp; JOHNSON ET AL" gram_type="infix" relation_type="asymmetric" id="137912_7" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 814" X_vs_Y_string="MEDINOL LTD. v. JOHNSON &amp; JOHNSON ET AL" standard_case="137912_1" X_vs_Y="137912_2" gram_type="multi_line" relation_type="equivalence" id="137912_11" ></RELATION>
+
+<RELATION at_date_string="October 4, 2004" theme="137912_2" at_date="137912_10" theme_string="MEDINOL LTD. v. JOHNSON &amp; JOHNSON ET AL" gram_type="multi_line" relation_type="asymmetric" id="137912_13" ></RELATION>
+
+<RELATION theme="137912_2" includes_docket_string="03-1590" includes_docket="137912_8" theme_string="MEDINOL LTD. v. JOHNSON &amp; JOHNSON ET AL" gram_type="multi_line" relation_type="asymmetric" id="137912_12" ></RELATION>
+

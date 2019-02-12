@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['wootencenter#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_1027" id1="144533" volume="544" start="0" page_number="1027" standard_reporter="U.S." citation_global_level_id="1180.002" line="1" id="144542_1" citation_local_level_id="0" >544 U.S. 1027</CITATION>
+
+<CITATION party2="ST. FRANCIS MEDICAL CENTER" party1="WOOTEN" citation_global_level_id="62512.001" party2_short="CENTER" line="2" id="144542_2" alternative_keys="['u.s._544_1027']" end="54" entry_type="party_key" lookup_key="wootencenter#2" id1="144542" start="18" party1_short="WOOTEN" citation_local_level_id="1" >WOOTEN v. ST. FRANCIS MEDICAL CENTER</CITATION>
+
+<NAME end="24" start="18" party1_of="144542_2" all_names="WOOTEN" local_name_id="1" id="144542_3" >WOOTEN</NAME>
+
+<NAME end="54" start="28" all_names="ST FRANCIS MEDICAL CENTER" party2_of="144542_2" local_name_id="2" id="144542_4" >ST. FRANCIS MEDICAL CENTER</NAME>
+
+<DOCKET end="71" entry_type="docket" lookup_key="wootencenter#2" id1="144542" start="64" citation_global_level_id="62512.001" line="3" id="144542_7" citation_local_level_id="1" >04-7640</DOCKET>
+
+<ORGANIZATION start="77" end="107" id="144542_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="113" citation_global_level_id="62512.001" end="124" id="144542_9" citation_local_level_id="1" >May 2, 2005</DATE>
+
+<NAME start="146" local_name_id="3" end="154" id="144542_13" all_names="PETITION" >Petition</NAME>
+
+<RELATION theme="144542_2" party1="144542_3" party1_string="WOOTEN" theme_string="WOOTEN v. ST. FRANCIS MEDICAL CENTER" gram_type="infix" relation_type="asymmetric" id="144542_5" ></RELATION>
+
+<RELATION party2="144542_4" theme="144542_2" theme_string="WOOTEN v. ST. FRANCIS MEDICAL CENTER" party2_string="ST. FRANCIS MEDICAL CENTER" gram_type="infix" relation_type="asymmetric" id="144542_6" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 1027" X_vs_Y_string="WOOTEN v. ST. FRANCIS MEDICAL CENTER" standard_case="144542_1" X_vs_Y="144542_2" gram_type="multi_line" relation_type="equivalence" id="144542_10" ></RELATION>
+
+<RELATION at_date_string="May 2, 2005" theme="144542_2" at_date="144542_9" theme_string="WOOTEN v. ST. FRANCIS MEDICAL CENTER" gram_type="multi_line" relation_type="asymmetric" id="144542_12" ></RELATION>
+
+<RELATION theme="144542_2" includes_docket_string="04-7640" includes_docket="144542_7" theme_string="WOOTEN v. ST. FRANCIS MEDICAL CENTER" gram_type="multi_line" relation_type="asymmetric" id="144542_11" ></RELATION>
+

@@ -1,0 +1,56 @@
+<CITATION alternative_keys="['statescommission#3', 'marylandcommission#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1076" id1="120568" volume="535" start="0" page_number="1076" standard_reporter="U.S." citation_global_level_id="4451.002" line="1" id="120565_1" citation_local_level_id="0" >535 U.S. 1076</CITATION>
+
+<CITATION party2="PUBLIC SERVICE COMMISSION OF MARYLAND ET AL" party1="VERIZON MARYLAND INC." citation_global_level_id="7418.001" party2_short="COMMISSION" line="2" id="120565_2" alternative_keys="['u.s._535_1076', 'statescommission#3']" end="86" entry_type="party_key" lookup_key="marylandcommission#1" id1="118506" start="18" party1_short="MARYLAND" citation_local_level_id="1" >VERIZON MARYLAND INC. v. PUBLIC SERVICE COMMISSION OF MARYLAND ET AL</CITATION>
+
+<NAME end="39" start="18" party1_of="120565_2" all_names="VERIZON MARYLAND INC" local_name_id="1" id="120565_4" >VERIZON MARYLAND INC.</NAME>
+
+<ORGANIZATION start="18" end="38" id="120565_8" >VERIZON MARYLAND INC</ORGANIZATION>
+
+<NAME end="86" start="43" all_names="PUBLIC SERVICE COMMISSION OF MARYLAND" party2_of="120565_2" local_name_id="2" id="120565_5" >PUBLIC SERVICE COMMISSION OF MARYLAND ET AL</NAME>
+
+<CITATION party2="PUBLIC SERVICE COMMISSION OF MARYLAND ET AL" party1="UNITED STATES" citation_global_level_id="4451.007" party2_short="COMMISSION" line="2" id="120565_3" alternative_keys="['marylandcommission#1', 'u.s._535_1076']" end="153" no_current_file="True" entry_type="party_key" lookup_key="statescommission#3" id1="120568" start="93" party1_short="STATES" citation_local_level_id="2" >UNITED STATES v. PUBLIC SERVICE COMMISSION OF MARYLAND ET AL</CITATION>
+
+<NAME end="106" start="93" party1_of="120565_3" all_names="UNITED STATES" local_name_id="3" id="120565_6" >UNITED STATES</NAME>
+
+<NAME end="153" start="110" all_names="PUBLIC SERVICE COMMISSION OF MARYLAND" party2_of="120565_3" local_name_id="2" id="120565_7" >PUBLIC SERVICE COMMISSION OF MARYLAND ET AL</NAME>
+
+<DOCKET end="170" entry_type="docket" lookup_key="marylandcommission#1" id1="118506" start="163" citation_global_level_id="7418.001" line="3" id="120565_13" citation_local_level_id="1" >00-1531</DOCKET>
+
+<DOCKET end="187" entry_type="docket" lookup_key="marylandcommission#1" id1="118506" start="180" citation_global_level_id="7418.001" line="4" id="120565_14" citation_local_level_id="1" >00-1711</DOCKET>
+
+<DATE start="183" end="187" id="120565_15" >1711</DATE>
+
+<DATE start="233" end="245" id="120565_25" >May 20, 2002</DATE>
+
+<NAME start="277" local_name_id="4" end="280" id="120565_28" all_names="CIR" >Cir</NAME>
+
+<CITATION end="315" reporter="U.S." entry_type="standard_key" no_current_file="True" lookup_key="u.s._533_928" id1="Dummy_File_49343" volume="533" start="303" page_number="928" standard_reporter="U.S." citation_global_level_id="113193.001" line="9" id="120565_26" citation_local_level_id="3" >533 U.S. 928</CITATION>
+
+<CITATION end="334" reporter="U. S." entry_type="standard_key" no_current_file="True" lookup_key="u.s._534_1072" id1="Dummy_File_49344" volume="534" start="320" page_number="1072" standard_reporter="U.S." citation_global_level_id="113194.001" line="9" id="120565_27" citation_local_level_id="4" >534 U. S. 1072</CITATION>
+
+<RELATION party2="120565_5" theme="120565_2" theme_string="VERIZON MARYLAND INC. v. PUBLIC SERVICE COMMISSION OF MARYLAND ET AL" party2_string="PUBLIC SERVICE COMMISSION OF MARYLAND ET AL" gram_type="infix" relation_type="asymmetric" id="120565_10" ></RELATION>
+
+<RELATION theme="120565_2" party1="120565_4" party1_string="VERIZON MARYLAND INC." theme_string="VERIZON MARYLAND INC. v. PUBLIC SERVICE COMMISSION OF MARYLAND ET AL" gram_type="infix" relation_type="asymmetric" id="120565_9" ></RELATION>
+
+<RELATION theme="120565_3" party1="120565_6" party1_string="UNITED STATES" theme_string="UNITED STATES v. PUBLIC SERVICE COMMISSION OF MARYLAND ET AL" gram_type="infix" relation_type="asymmetric" id="120565_11" ></RELATION>
+
+<RELATION party2="120565_7" theme="120565_3" theme_string="UNITED STATES v. PUBLIC SERVICE COMMISSION OF MARYLAND ET AL" party2_string="PUBLIC SERVICE COMMISSION OF MARYLAND ET AL" gram_type="infix" relation_type="asymmetric" id="120565_12" ></RELATION>
+
+<RELATION at_date_string="1711" theme="120565_14" at_date="120565_15" theme_string="00-1711" gram_type="infix" relation_type="asymmetric" id="120565_16" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1076" X_vs_Y_string="UNITED STATES v. PUBLIC SERVICE COMMISSION OF MARYLAND ET AL" standard_case="120565_1" X_vs_Y="120565_3" gram_type="multi_line" relation_type="equivalence" id="120565_21" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1076" X_vs_Y_string="VERIZON MARYLAND INC. v. PUBLIC SERVICE COMMISSION OF MARYLAND ET AL" standard_case="120565_1" X_vs_Y="120565_2" gram_type="multi_line" relation_type="equivalence" id="120565_17" ></RELATION>
+
+<RELATION theme="120565_2" includes_docket_string="00-1711" includes_docket="120565_14" theme_string="VERIZON MARYLAND INC. v. PUBLIC SERVICE COMMISSION OF MARYLAND ET AL" gram_type="multi_line" relation_type="asymmetric" id="120565_19" ></RELATION>
+
+<RELATION at_date_string="1711" theme="120565_2" at_date="120565_15" theme_string="VERIZON MARYLAND INC. v. PUBLIC SERVICE COMMISSION OF MARYLAND ET AL" gram_type="multi_line" relation_type="asymmetric" id="120565_20" ></RELATION>
+
+<RELATION theme="120565_2" includes_docket_string="00-1531" includes_docket="120565_13" theme_string="VERIZON MARYLAND INC. v. PUBLIC SERVICE COMMISSION OF MARYLAND ET AL" gram_type="multi_line" relation_type="asymmetric" id="120565_18" ></RELATION>
+
+<RELATION theme="120565_3" includes_docket_string="00-1711" includes_docket="120565_14" theme_string="UNITED STATES v. PUBLIC SERVICE COMMISSION OF MARYLAND ET AL" gram_type="multi_line" relation_type="asymmetric" id="120565_23" ></RELATION>
+
+<RELATION at_date_string="1711" theme="120565_3" at_date="120565_15" theme_string="UNITED STATES v. PUBLIC SERVICE COMMISSION OF MARYLAND ET AL" gram_type="multi_line" relation_type="asymmetric" id="120565_24" ></RELATION>
+
+<RELATION theme="120565_3" includes_docket_string="00-1531" includes_docket="120565_13" theme_string="UNITED STATES v. PUBLIC SERVICE COMMISSION OF MARYLAND ET AL" gram_type="multi_line" relation_type="asymmetric" id="120565_22" ></RELATION>
+

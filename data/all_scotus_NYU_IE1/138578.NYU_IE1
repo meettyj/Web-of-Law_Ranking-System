@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['triplettcain#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_864" id1="138580" volume="543" start="0" page_number="864" standard_reporter="U.S." citation_global_level_id="2231.002" line="1" id="138578_1" citation_local_level_id="0" >543 U.S. 864</CITATION>
+
+<CITATION party2="CAIN, WARDEN" party1="TRIPLETT" citation_global_level_id="2685.003" party2_short="CAIN" line="2" id="138578_2" alternative_keys="['u.s._543_1016']" end="41" entry_type="party_key" lookup_key="triplettcain#1" id1="140521" start="17" party1_short="TRIPLETT" citation_local_level_id="1" >TRIPLETT v. CAIN, WARDEN</CITATION>
+
+<NAME end="25" start="17" party1_of="138578_2" all_names="TRIPLETT" local_name_id="1" id="138578_3" >TRIPLETT</NAME>
+
+<NAME end="41" start="29" all_names="CAIN WARDEN" party2_of="138578_2" local_name_id="2" id="138578_4" >CAIN, WARDEN</NAME>
+
+<DOCKET alternative_keys="['u.s._543_1016']" end="59" entry_type="docket" lookup_key="triplettcain#1" id1="140521" start="51" citation_global_level_id="2685.003" line="3" id="138578_7" citation_local_level_id="1" >03-11032</DOCKET>
+
+<ORGANIZATION start="65" end="95" id="138578_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="101" citation_global_level_id="2685.003" end="116" id="138578_9" citation_local_level_id="1" >October 4, 2004</DATE>
+
+<NAME start="148" local_name_id="3" end="151" id="138578_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="138578_2" party1="138578_3" party1_string="TRIPLETT" theme_string="TRIPLETT v. CAIN, WARDEN" gram_type="infix" relation_type="asymmetric" id="138578_5" ></RELATION>
+
+<RELATION party2="138578_4" theme="138578_2" theme_string="TRIPLETT v. CAIN, WARDEN" party2_string="CAIN, WARDEN" gram_type="infix" relation_type="asymmetric" id="138578_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 864" X_vs_Y_string="TRIPLETT v. CAIN, WARDEN" standard_case="138578_1" X_vs_Y="138578_2" gram_type="multi_line" relation_type="equivalence" id="138578_10" ></RELATION>
+
+<RELATION at_date_string="October 4, 2004" theme="138578_2" at_date="138578_9" theme_string="TRIPLETT v. CAIN, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="138578_12" ></RELATION>
+
+<RELATION theme="138578_2" includes_docket_string="03-11032" includes_docket="138578_7" theme_string="TRIPLETT v. CAIN, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="138578_11" ></RELATION>
+

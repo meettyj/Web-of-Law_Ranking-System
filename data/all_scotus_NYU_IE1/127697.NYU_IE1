@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['grohramirez#3']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1231" id1="127695" volume="537" start="0" page_number="1231" standard_reporter="U.S." citation_global_level_id="16762.002" line="1" id="127697_1" citation_local_level_id="0" >537 U.S. 1231</CITATION>
+
+<CITATION party2="RAMIREZ ET AL" party1="GROH" citation_global_level_id="46605.001" party2_short="RAMIREZ" line="1" id="127697_3" alternative_keys="['u.s._537_1231']" end="39" entry_type="party_key" lookup_key="grohramirez#3" id1="127697" start="18" party1_short="GROH" citation_local_level_id="1" >GROH v. RAMIREZ ET AL</CITATION>
+
+<NAME end="22" start="18" party1_of="127697_3" all_names="GROH" local_name_id="1" id="127697_4" >GROH</NAME>
+
+<NAME end="39" start="26" all_names="RAMIREZ" party2_of="127697_3" local_name_id="2" id="127697_5" >RAMIREZ ET AL</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._537_1231" id1="127695" start="49" citation_global_level_id="16762.002" line="1" id="127697_2" citation_local_level_id="0" >02-811</DOCKET>
+
+<DATE start="97" end="110" id="127697_6" >March 3, 2003</DATE>
+
+<NAME start="239" local_name_id="3" end="242" id="127697_13" all_names="CIR" >Cir</NAME>
+
+<CITATION alternative_keys="['ramirezcounty#1']" end="294" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_298_1022" id1="Dummy_File_33732" volume="298" start="280" page_number="1022" standard_reporter="F.3D" citation_global_level_id="97582.003" line="3" id="127697_12" citation_local_level_id="2" >298 F. 3d 1022</CITATION>
+
+<RELATION theme="127697_1" includes_docket_string="02-811" includes_docket="127697_2" theme_string="537 U.S. 1231" gram_type="apposition" relation_type="asymmetric" id="127697_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1231" X_vs_Y_string="GROH v. RAMIREZ ET AL" standard_case="127697_1" X_vs_Y="127697_3" gram_type="pre_nom" relation_type="equivalence" id="127697_7" ></RELATION>
+
+<RELATION theme="127697_3" includes_docket_string="02-811" includes_docket="127697_2" theme_string="GROH v. RAMIREZ ET AL" gram_type="apposition" relation_type="asymmetric" id="127697_10" ></RELATION>
+
+<RELATION theme="127697_3" party1="127697_4" party1_string="GROH" theme_string="GROH v. RAMIREZ ET AL" gram_type="infix" relation_type="asymmetric" id="127697_8" ></RELATION>
+
+<RELATION party2="127697_5" theme="127697_3" theme_string="GROH v. RAMIREZ ET AL" party2_string="RAMIREZ ET AL" gram_type="infix" relation_type="asymmetric" id="127697_9" ></RELATION>
+

@@ -1,0 +1,40 @@
+<CITATION alternative_keys="['louisianaorleans#3']" end="20" reporter="U.S." entry_type="standard_key" lookup_key="u.s._103_521" id1="1162579" volume="103" start="1" page_number="521" standard_reporter="U.S." citation_global_level_id="51672.002" line="2" id="1162579_1" citation_local_level_id="0" >103 U.S. 521 (____)</CITATION>
+
+<CITATION party2="NEW ORLEANS" party1="LOUISIANA" citation_global_level_id="51672.001" party2_short="ORLEANS" line="5" id="1162579_3" alternative_keys="['u.s._103_521']" end="47" entry_type="party_key" lookup_key="louisianaorleans#3" id1="1162579" start="21" party1_short="LOUISIANA" citation_local_level_id="1" >LOUISIANA v. NEW ORLEANS</CITATION>
+
+<NAME end="30" start="21" party1_of="1162579_3" all_names="LOUISIANA" local_name_id="1" id="1162579_4" >LOUISIANA</NAME>
+
+<NAME end="47" start="36" all_names="NEW ORLEANS" party2_of="1162579_3" local_name_id="2" id="1162579_5" >NEW ORLEANS</NAME>
+
+<ORGANIZATION start="49" end="79" id="1162579_8" >Supreme Court of United States</ORGANIZATION>
+
+<NAME start="82" local_name_id="3" end="126" id="1162579_10" all_names="MR JOHN A CAMPBELL AND MR EDWARD BERMUDEZ" >Mr. John A. Campbell and Mr. Edward Bermudez</NAME>
+
+<NAME start="153" local_name_id="4" end="198" id="1162579_11" all_names="MR BENJAMIN F JONAS AND MR HENRY C MILLER" >Mr. Benjamin F. Jonas and Mr. Henry C. Miller</NAME>
+
+<NAME start="208" local_name_id="5" end="210" id="1162579_12" all_names="MR" >MR</NAME>
+
+<CITATION party2="New Orleans" party1="United States" citation_global_level_id="37940.001" party2_short="Orleans" line="11" id="1162579_13" end="476" entry_type="party_key" lookup_key="statesorleans#2" id1="89878" start="448" party1_short="States" citation_local_level_id="2" >United States v. New Orleans</CITATION>
+
+<NAME end="461" start="448" party1_of="1162579_13" all_names="UNITED STATES" local_name_id="6" id="1162579_14" >United States</NAME>
+
+<NAME end="476" start="465" all_names="NEW ORLEANS" party2_of="1162579_13" local_name_id="2" id="1162579_15" >New Orleans</NAME>
+
+<LEGAL_ROLE start="641" end="650" id="1162579_16" >defendant</LEGAL_ROLE>
+
+<PROFESSION start="1224" end="1231" id="1162579_17" >counsel</PROFESSION>
+
+<PROFESSION start="1403" end="1408" id="1162579_18" >clerk</PROFESSION>
+
+<NAME start="1466" local_name_id="7" end="1472" id="1162579_21" all_names="MOTION" >Motion</NAME>
+
+<RELATION theme="1162579_3" party1="1162579_4" party1_string="LOUISIANA" theme_string="LOUISIANA  v.  NEW ORLEANS" gram_type="infix" relation_type="asymmetric" id="1162579_6" ></RELATION>
+
+<RELATION party2="1162579_5" theme="1162579_3" theme_string="LOUISIANA  v.  NEW ORLEANS" party2_string="NEW ORLEANS" gram_type="infix" relation_type="asymmetric" id="1162579_7" ></RELATION>
+
+<RELATION standard_case_string="103 U.S. 521 (____)" X_vs_Y_string="LOUISIANA  v.  NEW ORLEANS" standard_case="1162579_1" X_vs_Y="1162579_3" gram_type="multi_line" relation_type="equivalence" id="1162579_9" ></RELATION>
+
+<RELATION theme="1162579_13" party1="1162579_14" party1_string="United States" theme_string="United States v. New Orleans" gram_type="infix" relation_type="asymmetric" id="1162579_19" ></RELATION>
+
+<RELATION party2="1162579_15" theme="1162579_13" theme_string="United States v. New Orleans" party2_string="New Orleans" gram_type="infix" relation_type="asymmetric" id="1162579_20" ></RELATION>
+

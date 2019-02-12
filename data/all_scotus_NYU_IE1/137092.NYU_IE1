@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['hodgefood#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._542_908" id1="137083" volume="542" start="0" page_number="908" standard_reporter="U.S." citation_global_level_id="2197.002" line="1" id="137092_1" citation_local_level_id="0" >542 U.S. 908</CITATION>
+
+<CITATION party2="GIANT FOOD INC. ET AL" party1="HODGE ET AL." citation_global_level_id="37461.001" party2_short="FOOD" line="2" id="137092_2" alternative_keys="['u.s._542_908']" end="54" entry_type="party_key" lookup_key="hodgefood#1" id1="137092" start="17" party1_short="HODGE" citation_local_level_id="1" >HODGE ET AL. v. GIANT FOOD INC. ET AL</CITATION>
+
+<NAME end="29" start="17" party1_of="137092_2" all_names="HODGE" local_name_id="1" id="137092_3" >HODGE ET AL.</NAME>
+
+<NAME end="54" start="33" all_names="GIANT FOOD INC" party2_of="137092_2" local_name_id="2" id="137092_4" >GIANT FOOD INC. ET AL</NAME>
+
+<ORGANIZATION start="44" end="47" id="137092_5" >INC</ORGANIZATION>
+
+<DOCKET end="71" entry_type="docket" lookup_key="hodgefood#1" id1="137092" start="64" citation_global_level_id="37461.001" line="3" id="137092_8" citation_local_level_id="1" >03-9831</DOCKET>
+
+<ORGANIZATION start="77" end="107" id="137092_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="113" citation_global_level_id="37461.001" end="126" id="137092_10" citation_local_level_id="1" >June 14, 2004</DATE>
+
+<NAME start="158" local_name_id="3" end="161" id="137092_14" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="137092_2" party1="137092_3" party1_string="HODGE ET AL." theme_string="HODGE ET AL. v. GIANT FOOD INC. ET AL" gram_type="infix" relation_type="asymmetric" id="137092_6" ></RELATION>
+
+<RELATION party2="137092_4" theme="137092_2" theme_string="HODGE ET AL. v. GIANT FOOD INC. ET AL" party2_string="GIANT FOOD INC. ET AL" gram_type="infix" relation_type="asymmetric" id="137092_7" ></RELATION>
+
+<RELATION standard_case_string="542 U.S. 908" X_vs_Y_string="HODGE ET AL. v. GIANT FOOD INC. ET AL" standard_case="137092_1" X_vs_Y="137092_2" gram_type="multi_line" relation_type="equivalence" id="137092_11" ></RELATION>
+
+<RELATION at_date_string="June 14, 2004" theme="137092_2" at_date="137092_10" theme_string="HODGE ET AL. v. GIANT FOOD INC. ET AL" gram_type="multi_line" relation_type="asymmetric" id="137092_13" ></RELATION>
+
+<RELATION theme="137092_2" includes_docket_string="03-9831" includes_docket="137092_8" theme_string="HODGE ET AL. v. GIANT FOOD INC. ET AL" gram_type="multi_line" relation_type="asymmetric" id="137092_12" ></RELATION>
+

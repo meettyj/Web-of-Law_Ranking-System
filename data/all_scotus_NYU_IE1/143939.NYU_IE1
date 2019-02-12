@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['howellbrown#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_982" id1="143930" volume="544" start="0" page_number="982" standard_reporter="U.S." citation_global_level_id="1382.002" line="1" id="143939_1" citation_local_level_id="0" >544 U.S. 982</CITATION>
+
+<CITATION party2="BROWN" party1="HOWELL" citation_global_level_id="3873.001" party2_short="BROWN" line="2" id="143939_2" alternative_keys="['u.s._544_982']" end="32" entry_type="party_key" lookup_key="howellbrown#1" id1="143939" start="17" party1_short="HOWELL" citation_local_level_id="1" >HOWELL v. BROWN</CITATION>
+
+<NAME end="23" start="17" party1_of="143939_2" all_names="HOWELL" local_name_id="1" id="143939_3" >HOWELL</NAME>
+
+<NAME end="32" start="27" all_names="BROWN" party2_of="143939_2" local_name_id="2" id="143939_4" >BROWN</NAME>
+
+<DOCKET end="49" entry_type="docket" lookup_key="howellbrown#1" id1="143939" start="42" citation_global_level_id="3873.001" line="3" id="143939_7" citation_local_level_id="1" >04-8587</DOCKET>
+
+<ORGANIZATION start="55" end="85" id="143939_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="91" citation_global_level_id="3873.001" end="105" id="143939_9" citation_local_level_id="1" >April 18, 2005</DATE>
+
+<NAME start="137" local_name_id="3" end="140" id="143939_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="143939_2" party1="143939_3" party1_string="HOWELL" theme_string="HOWELL v. BROWN" gram_type="infix" relation_type="asymmetric" id="143939_5" ></RELATION>
+
+<RELATION party2="143939_4" theme="143939_2" theme_string="HOWELL v. BROWN" party2_string="BROWN" gram_type="infix" relation_type="asymmetric" id="143939_6" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 982" X_vs_Y_string="HOWELL v. BROWN" standard_case="143939_1" X_vs_Y="143939_2" gram_type="multi_line" relation_type="equivalence" id="143939_10" ></RELATION>
+
+<RELATION at_date_string="April 18, 2005" theme="143939_2" at_date="143939_9" theme_string="HOWELL v. BROWN" gram_type="multi_line" relation_type="asymmetric" id="143939_12" ></RELATION>
+
+<RELATION theme="143939_2" includes_docket_string="04-8587" includes_docket="143939_7" theme_string="HOWELL v. BROWN" gram_type="multi_line" relation_type="asymmetric" id="143939_11" ></RELATION>
+

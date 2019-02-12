@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['citystates#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1109" id1="116742" volume="510" start="0" page_number="1109" standard_reporter="U.S." citation_global_level_id="32.002" line="1" id="116742_1" citation_local_level_id="0" >510 U.S. 1109</CITATION>
+
+<CITATION party2="United States" party1="City of Huntington, West Virginia" citation_global_level_id="32.001" party2_short="States" line="1" id="116742_3" alternative_keys="['u.s._510_1109']" end="68" entry_type="party_key" lookup_key="citystates#1" id1="116742" start="18" party1_short="City" citation_local_level_id="1" >City of Huntington, West Virginia v. United States</CITATION>
+
+<NAME end="51" start="18" party1_of="116742_3" all_names="CITY OF HUNTINGTON WEST VIRGINIA" local_name_id="1" id="116742_4" >City of Huntington, West Virginia</NAME>
+
+<NAME start="18" local_name_id="2" end="36" id="116742_7" all_names="CITY OF HUNTINGTON" >City of Huntington</NAME>
+
+<NAME end="68" start="55" all_names="UNITED STATES" party2_of="116742_3" local_name_id="3" id="116742_5" >United States</NAME>
+
+<DOCKET end="84" entry_type="docket" lookup_key="u.s._510_1109" id1="116742" start="78" citation_global_level_id="32.002" line="1" id="116742_2" citation_local_level_id="0" >93-538</DOCKET>
+
+<DATE start="126" end="143" id="116742_6" >February 22, 1994</DATE>
+
+<NAME start="221" local_name_id="4" end="231" id="116742_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="268" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_999_71" id1="Dummy_File_135727" volume="999" start="256" page_number="71" standard_reporter="F.2D" citation_global_level_id="199577.001" line="3" id="116742_13" citation_local_level_id="2" >999 F. 2d 71</CITATION>
+
+<RELATION theme="116742_1" includes_docket_string="93-538" includes_docket="116742_2" theme_string="510 U.S. 1109" gram_type="apposition" relation_type="asymmetric" id="116742_12" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1109" X_vs_Y_string="City of Huntington, West Virginia v. United States" standard_case="116742_1" X_vs_Y="116742_3" gram_type="pre_nom" relation_type="equivalence" id="116742_8" ></RELATION>
+
+<RELATION theme="116742_3" includes_docket_string="93-538" includes_docket="116742_2" theme_string="City of Huntington, West Virginia v. United States" gram_type="apposition" relation_type="asymmetric" id="116742_11" ></RELATION>
+
+<RELATION party2="116742_5" theme="116742_3" theme_string="City of Huntington, West Virginia v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="116742_10" ></RELATION>
+
+<RELATION theme="116742_3" party1="116742_4" party1_string="City of Huntington, West Virginia" theme_string="City of Huntington, West Virginia v. United States" gram_type="infix" relation_type="asymmetric" id="116742_9" ></RELATION>
+

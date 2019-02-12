@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['smithheimer#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_929" id1="123931" volume="537" start="0" page_number="929" standard_reporter="U.S." citation_global_level_id="3142.002" line="1" id="123927_1" citation_local_level_id="0" >537 U.S. 929</CITATION>
+
+<CITATION party2="HEIMER ET AL" party1="SMITH" citation_global_level_id="57271.001" party2_short="HEIMER" line="1" id="123927_3" alternative_keys="['u.s._537_929']" end="38" entry_type="party_key" lookup_key="smithheimer#1" id1="123927" start="17" party1_short="SMITH" citation_local_level_id="1" >SMITH v. HEIMER ET AL</CITATION>
+
+<NAME end="22" start="17" party1_of="123927_3" all_names="SMITH" local_name_id="1" id="123927_4" >SMITH</NAME>
+
+<NAME end="38" start="26" all_names="HEIMER" party2_of="123927_3" local_name_id="2" id="123927_5" >HEIMER ET AL</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._537_929" id1="123931" start="48" citation_global_level_id="3142.002" line="1" id="123927_2" citation_local_level_id="0" >02-5722</DOCKET>
+
+<DATE start="97" end="112" id="123927_6" >October 7, 2002</DATE>
+
+<NAME start="242" local_name_id="3" end="245" id="123927_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="123927_1" includes_docket_string="02-5722" includes_docket="123927_2" theme_string="537 U.S. 929" gram_type="apposition" relation_type="asymmetric" id="123927_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 929" X_vs_Y_string="SMITH v. HEIMER ET AL" standard_case="123927_1" X_vs_Y="123927_3" gram_type="pre_nom" relation_type="equivalence" id="123927_7" ></RELATION>
+
+<RELATION theme="123927_3" includes_docket_string="02-5722" includes_docket="123927_2" theme_string="SMITH v. HEIMER ET AL" gram_type="apposition" relation_type="asymmetric" id="123927_10" ></RELATION>
+
+<RELATION theme="123927_3" party1="123927_4" party1_string="SMITH" theme_string="SMITH v. HEIMER ET AL" gram_type="infix" relation_type="asymmetric" id="123927_8" ></RELATION>
+
+<RELATION party2="123927_5" theme="123927_3" theme_string="SMITH v. HEIMER ET AL" party2_string="HEIMER ET AL" gram_type="infix" relation_type="asymmetric" id="123927_9" ></RELATION>
+

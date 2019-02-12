@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['buildersinsurance#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_820" id1="131392" volume="540" start="0" page_number="820" standard_reporter="U.S." citation_global_level_id="6268.002" line="1" id="131388_1" citation_local_level_id="0" >540 U.S. 820</CITATION>
+
+<CITATION party2="HARLEYSVILLE MUTUAL INSURANCE CO" party1="BROSNAHAN BUILDERS, INC., ET AL." citation_global_level_id="6268.009" party2_short="INSURANCE" line="1" id="131388_3" alternative_keys="['u.s._540_820']" end="85" entry_type="party_key" lookup_key="buildersinsurance#1" id1="131392" start="17" party1_short="BUILDERS" citation_local_level_id="1" >BROSNAHAN BUILDERS, INC., ET AL. v. HARLEYSVILLE MUTUAL INSURANCE CO</CITATION>
+
+<NAME end="49" start="17" party1_of="131388_3" all_names="BROSNAHAN BUILDERS INC" local_name_id="1" id="131388_4" >BROSNAHAN BUILDERS, INC., ET AL.</NAME>
+
+<ORGANIZATION start="17" end="40" id="131388_8" >BROSNAHAN BUILDERS, INC</ORGANIZATION>
+
+<NAME end="85" start="53" all_names="HARLEYSVILLE MUTUAL INSURANCE CO" party2_of="131388_3" local_name_id="2" id="131388_5" >HARLEYSVILLE MUTUAL INSURANCE CO</NAME>
+
+<DOCKET end="102" entry_type="docket" lookup_key="u.s._540_820" id1="131392" start="95" citation_global_level_id="6268.002" line="1" id="131388_2" citation_local_level_id="0" >02-1761</DOCKET>
+
+<DATE start="98" end="102" id="131388_6" >1761</DATE>
+
+<DATE start="144" end="159" id="131388_7" >October 6, 2003</DATE>
+
+<NAME start="236" local_name_id="3" end="246" id="131388_15" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="131388_1" includes_docket_string="02-1761" includes_docket="131388_2" theme_string="540 U.S. 820" gram_type="apposition" relation_type="asymmetric" id="131388_13" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 820" X_vs_Y_string="BROSNAHAN BUILDERS, INC., ET AL. v. HARLEYSVILLE MUTUAL INSURANCE CO" standard_case="131388_1" X_vs_Y="131388_3" gram_type="pre_nom" relation_type="equivalence" id="131388_9" ></RELATION>
+
+<RELATION theme="131388_3" includes_docket_string="02-1761" includes_docket="131388_2" theme_string="BROSNAHAN BUILDERS, INC., ET AL. v. HARLEYSVILLE MUTUAL INSURANCE CO" gram_type="apposition" relation_type="asymmetric" id="131388_12" ></RELATION>
+
+<RELATION theme="131388_3" party1="131388_4" party1_string="BROSNAHAN BUILDERS, INC., ET AL." theme_string="BROSNAHAN BUILDERS, INC., ET AL. v. HARLEYSVILLE MUTUAL INSURANCE CO" gram_type="infix" relation_type="asymmetric" id="131388_10" ></RELATION>
+
+<RELATION party2="131388_5" theme="131388_3" theme_string="BROSNAHAN BUILDERS, INC., ET AL. v. HARLEYSVILLE MUTUAL INSURANCE CO" party2_string="HARLEYSVILLE MUTUAL INSURANCE CO" gram_type="infix" relation_type="asymmetric" id="131388_11" ></RELATION>
+
+<RELATION at_date_string="1761" theme="131388_2" at_date="131388_6" theme_string="02-1761" gram_type="infix" relation_type="asymmetric" id="131388_14" ></RELATION>
+

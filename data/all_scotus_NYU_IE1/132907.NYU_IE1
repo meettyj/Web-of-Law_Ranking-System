@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['zebroskidelaware#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_933" id1="132909" volume="540" start="0" page_number="933" standard_reporter="U.S." citation_global_level_id="1896.002" line="1" id="132907_1" citation_local_level_id="0" >540 U.S. 933</CITATION>
+
+<CITATION party2="DELAWARE" party1="ZEBROSKI" citation_global_level_id="53386.001" party2_short="DELAWARE" line="1" id="132907_3" alternative_keys="['u.s._540_933']" end="37" entry_type="party_key" lookup_key="zebroskidelaware#1" id1="132907" start="17" party1_short="ZEBROSKI" citation_local_level_id="1" >ZEBROSKI v. DELAWARE</CITATION>
+
+<NAME end="25" start="17" party1_of="132907_3" all_names="ZEBROSKI" local_name_id="1" id="132907_4" >ZEBROSKI</NAME>
+
+<NAME end="37" start="29" all_names="DELAWARE" party2_of="132907_3" local_name_id="2" id="132907_5" >DELAWARE</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="u.s._540_933" id1="132909" start="47" citation_global_level_id="1896.002" line="1" id="132907_2" citation_local_level_id="0" >03-5960</DOCKET>
+
+<DATE start="96" end="111" id="132907_6" >October 6, 2003</DATE>
+
+<NAME start="188" local_name_id="3" end="198" id="132907_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="237" reporter="A. 2d" entry_type="standard_key" no_current_file="True" lookup_key="a.2d_822_1038" id1="Dummy_File_212429" volume="822" start="223" page_number="1038" standard_reporter="A.2D" citation_global_level_id="276279.001" line="3" id="132907_12" citation_local_level_id="2" >822 A. 2d 1038</CITATION>
+
+<RELATION theme="132907_1" includes_docket_string="03-5960" includes_docket="132907_2" theme_string="540 U.S. 933" gram_type="apposition" relation_type="asymmetric" id="132907_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 933" X_vs_Y_string="ZEBROSKI v. DELAWARE" standard_case="132907_1" X_vs_Y="132907_3" gram_type="pre_nom" relation_type="equivalence" id="132907_7" ></RELATION>
+
+<RELATION theme="132907_3" includes_docket_string="03-5960" includes_docket="132907_2" theme_string="ZEBROSKI v. DELAWARE" gram_type="apposition" relation_type="asymmetric" id="132907_10" ></RELATION>
+
+<RELATION theme="132907_3" party1="132907_4" party1_string="ZEBROSKI" theme_string="ZEBROSKI v. DELAWARE" gram_type="infix" relation_type="asymmetric" id="132907_8" ></RELATION>
+
+<RELATION party2="132907_5" theme="132907_3" theme_string="ZEBROSKI v. DELAWARE" party2_string="DELAWARE" gram_type="infix" relation_type="asymmetric" id="132907_9" ></RELATION>
+

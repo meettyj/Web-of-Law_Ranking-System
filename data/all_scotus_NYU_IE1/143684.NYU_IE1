@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['trujillofarwell#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_964" id1="143686" volume="544" start="0" page_number="964" standard_reporter="U.S." citation_global_level_id="616.002" line="1" id="143684_1" citation_local_level_id="0" >544 U.S. 964</CITATION>
+
+<CITATION party2="FARWELL, WARDEN, ET AL" party1="TRUJILLO" citation_global_level_id="616.004" party2_short="FARWELL" line="2" id="143684_2" alternative_keys="['u.s._544_964']" end="51" entry_type="party_key" lookup_key="trujillofarwell#1" id1="143686" start="17" party1_short="TRUJILLO" citation_local_level_id="1" >TRUJILLO v. FARWELL, WARDEN, ET AL</CITATION>
+
+<NAME end="25" start="17" party1_of="143684_2" all_names="TRUJILLO" local_name_id="1" id="143684_3" >TRUJILLO</NAME>
+
+<NAME end="51" start="29" all_names="FARWELL WARDEN" party2_of="143684_2" local_name_id="2" id="143684_4" >FARWELL, WARDEN, ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._544_964']" end="68" entry_type="docket" lookup_key="trujillofarwell#1" id1="143686" start="61" citation_global_level_id="616.004" line="3" id="143684_7" citation_local_level_id="1" >04-8440</DOCKET>
+
+<ORGANIZATION start="74" end="104" id="143684_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="110" citation_global_level_id="616.004" end="123" id="143684_9" citation_local_level_id="1" >April 4, 2005</DATE>
+
+<NAME start="155" local_name_id="3" end="158" id="143684_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="143684_2" party1="143684_3" party1_string="TRUJILLO" theme_string="TRUJILLO v. FARWELL, WARDEN, ET AL" gram_type="infix" relation_type="asymmetric" id="143684_5" ></RELATION>
+
+<RELATION party2="143684_4" theme="143684_2" theme_string="TRUJILLO v. FARWELL, WARDEN, ET AL" party2_string="FARWELL, WARDEN, ET AL" gram_type="infix" relation_type="asymmetric" id="143684_6" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 964" X_vs_Y_string="TRUJILLO v. FARWELL, WARDEN, ET AL" standard_case="143684_1" X_vs_Y="143684_2" gram_type="multi_line" relation_type="equivalence" id="143684_10" ></RELATION>
+
+<RELATION at_date_string="April 4, 2005" theme="143684_2" at_date="143684_9" theme_string="TRUJILLO v. FARWELL, WARDEN, ET AL" gram_type="multi_line" relation_type="asymmetric" id="143684_12" ></RELATION>
+
+<RELATION theme="143684_2" includes_docket_string="04-8440" includes_docket="143684_7" theme_string="TRUJILLO v. FARWELL, WARDEN, ET AL" gram_type="multi_line" relation_type="asymmetric" id="143684_11" ></RELATION>
+

@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['applebyrecht#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_948" id1="133004" volume="539" start="0" page_number="948" standard_reporter="U.S." citation_global_level_id="11224.002" line="1" id="130748_1" citation_local_level_id="0" >539 U.S. 948</CITATION>
+
+<CITATION party2="Recht, Judge, Circuit Court of West Virginia, Ohio County" party1="Appleby" citation_global_level_id="11224.008" party2_short="Recht" line="1" id="130748_3" alternative_keys="['u.s._539_948']" end="85" entry_type="party_key" lookup_key="applebyrecht#1" id1="133004" start="17" party1_short="Appleby" citation_local_level_id="1" >Appleby v. Recht, Judge, Circuit Court of West Virginia, Ohio County</CITATION>
+
+<NAME end="24" start="17" party1_of="130748_3" all_names="APPLEBY" local_name_id="1" id="130748_4" >Appleby</NAME>
+
+<NAME end="85" start="28" all_names="RECHT JUDGE CIRCUIT COURT OF WEST VIRGINIA OHIO COUNTY" party2_of="130748_3" local_name_id="2" id="130748_5" >Recht, Judge, Circuit Court of West Virginia, Ohio County</NAME>
+
+<DOCKET end="103" entry_type="docket" lookup_key="u.s._539_948" id1="133004" start="95" citation_global_level_id="11224.002" line="1" id="130748_2" citation_local_level_id="0" >02-10323</DOCKET>
+
+<DATE start="145" end="158" id="130748_6" >June 23, 2003</DATE>
+
+<NAME start="242" local_name_id="3" end="252" id="130748_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="291" reporter="W. Va." entry_type="standard_key" no_current_file="True" lookup_key="w.va._213_503" id1="Dummy_File_112509" volume="213" start="277" page_number="503" standard_reporter="W.VA." citation_global_level_id="176359.001" line="3" id="130748_12" citation_local_level_id="2" >213 W. Va. 503</CITATION>
+
+<CITATION end="309" reporter="S. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="s.e.2d_583_800" id1="Dummy_File_112510" volume="583" start="293" page_number="800" standard_reporter="S.E.2D" citation_global_level_id="176360.001" line="3" id="130748_13" citation_local_level_id="3" >583 S. E. 2d 800</CITATION>
+
+<RELATION theme="130748_1" includes_docket_string="02-10323" includes_docket="130748_2" theme_string="539 U.S. 948" gram_type="apposition" relation_type="asymmetric" id="130748_11" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 948" X_vs_Y_string="Appleby v. Recht, Judge, Circuit Court of West Virginia, Ohio County" standard_case="130748_1" X_vs_Y="130748_3" gram_type="pre_nom" relation_type="equivalence" id="130748_7" ></RELATION>
+
+<RELATION theme="130748_3" includes_docket_string="02-10323" includes_docket="130748_2" theme_string="Appleby v. Recht, Judge, Circuit Court of West Virginia, Ohio County" gram_type="apposition" relation_type="asymmetric" id="130748_10" ></RELATION>
+
+<RELATION theme="130748_3" party1="130748_4" party1_string="Appleby" theme_string="Appleby v. Recht, Judge, Circuit Court of West Virginia, Ohio County" gram_type="infix" relation_type="asymmetric" id="130748_8" ></RELATION>
+
+<RELATION party2="130748_5" theme="130748_3" theme_string="Appleby v. Recht, Judge, Circuit Court of West Virginia, Ohio County" party2_string="Recht, Judge, Circuit Court of West Virginia, Ohio County" gram_type="infix" relation_type="asymmetric" id="130748_9" ></RELATION>
+

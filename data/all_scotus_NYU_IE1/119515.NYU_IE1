@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['jenkinsnorton#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_990" id1="119511" volume="535" start="0" page_number="990" standard_reporter="U.S." citation_global_level_id="497.002" line="1" id="119515_1" citation_local_level_id="0" >535 U.S. 990</CITATION>
+
+<CITATION party2="NORTON, SECRETARY OF THE INTERIOR" party1="JENKINS" citation_global_level_id="497.006" party2_short="NORTON" line="2" id="119515_2" alternative_keys="['u.s._535_990']" end="61" entry_type="party_key" lookup_key="jenkinsnorton#1" id1="119511" start="17" party1_short="JENKINS" citation_local_level_id="1" >JENKINS v. NORTON, SECRETARY OF THE INTERIOR</CITATION>
+
+<NAME end="24" start="17" party1_of="119515_2" all_names="JENKINS" local_name_id="1" id="119515_3" >JENKINS</NAME>
+
+<NAME end="61" start="28" all_names="NORTON SECRETARY OF THE INTERIOR" party2_of="119515_2" local_name_id="2" id="119515_4" >NORTON, SECRETARY OF THE INTERIOR</NAME>
+
+<DOCKET alternative_keys="['u.s._535_990']" end="78" entry_type="docket" lookup_key="jenkinsnorton#1" id1="119511" start="71" citation_global_level_id="497.006" line="3" id="119515_7" citation_local_level_id="1" >01-1342</DOCKET>
+
+<DATE start="124" citation_global_level_id="497.006" end="138" id="119515_8" citation_local_level_id="1" >April 15, 2002</DATE>
+
+<NAME start="170" local_name_id="3" end="173" id="119515_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="119515_2" party1="119515_3" party1_string="JENKINS" theme_string="JENKINS v. NORTON, SECRETARY OF THE INTERIOR" gram_type="infix" relation_type="asymmetric" id="119515_5" ></RELATION>
+
+<RELATION party2="119515_4" theme="119515_2" theme_string="JENKINS v. NORTON, SECRETARY OF THE INTERIOR" party2_string="NORTON, SECRETARY OF THE INTERIOR" gram_type="infix" relation_type="asymmetric" id="119515_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 990" X_vs_Y_string="JENKINS v. NORTON, SECRETARY OF THE INTERIOR" standard_case="119515_1" X_vs_Y="119515_2" gram_type="multi_line" relation_type="equivalence" id="119515_9" ></RELATION>
+
+<RELATION at_date_string="April 15, 2002" theme="119515_2" at_date="119515_8" theme_string="JENKINS v. NORTON, SECRETARY OF THE INTERIOR" gram_type="multi_line" relation_type="asymmetric" id="119515_11" ></RELATION>
+
+<RELATION theme="119515_2" includes_docket_string="01-1342" includes_docket="119515_7" theme_string="JENKINS v. NORTON, SECRETARY OF THE INTERIOR" gram_type="multi_line" relation_type="asymmetric" id="119515_10" ></RELATION>
+

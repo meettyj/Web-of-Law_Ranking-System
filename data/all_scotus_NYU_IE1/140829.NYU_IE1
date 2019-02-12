@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['sherrillstates#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1038" id1="140830" volume="543" start="0" page_number="1038" standard_reporter="U.S." citation_global_level_id="5254.002" line="1" id="140829_1" citation_local_level_id="0" >543 U.S. 1038</CITATION>
+
+<CITATION party2="UNITED STATES" party1="SHERRILL" citation_global_level_id="56126.001" party2_short="STATES" line="2" id="140829_2" alternative_keys="['u.s._543_1038']" end="43" entry_type="party_key" lookup_key="sherrillstates#1" id1="140829" start="18" party1_short="SHERRILL" citation_local_level_id="1" >SHERRILL v. UNITED STATES</CITATION>
+
+<NAME end="26" start="18" party1_of="140829_2" all_names="SHERRILL" local_name_id="1" id="140829_3" >SHERRILL</NAME>
+
+<NAME end="43" start="30" all_names="UNITED STATES" party2_of="140829_2" local_name_id="2" id="140829_4" >UNITED STATES</NAME>
+
+<DOCKET end="60" entry_type="docket" lookup_key="sherrillstates#1" id1="140829" start="53" citation_global_level_id="56126.001" line="3" id="140829_7" citation_local_level_id="1" >04-7188</DOCKET>
+
+<ORGANIZATION start="66" end="96" id="140829_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="102" citation_global_level_id="56126.001" end="119" id="140829_9" citation_local_level_id="1" >December 13, 2004</DATE>
+
+<NAME start="151" local_name_id="3" end="154" id="140829_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="140829_2" party1="140829_3" party1_string="SHERRILL" theme_string="SHERRILL v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="140829_5" ></RELATION>
+
+<RELATION party2="140829_4" theme="140829_2" theme_string="SHERRILL v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="140829_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1038" X_vs_Y_string="SHERRILL v. UNITED STATES" standard_case="140829_1" X_vs_Y="140829_2" gram_type="multi_line" relation_type="equivalence" id="140829_10" ></RELATION>
+
+<RELATION at_date_string="December 13, 2004" theme="140829_2" at_date="140829_9" theme_string="SHERRILL v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="140829_12" ></RELATION>
+
+<RELATION theme="140829_2" includes_docket_string="04-7188" includes_docket="140829_7" theme_string="SHERRILL v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="140829_11" ></RELATION>
+

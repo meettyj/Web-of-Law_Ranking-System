@@ -1,0 +1,54 @@
+<CITATION alternative_keys="['zellerswitzer#1', 'l.ed._23_366']" end="11" reporter="U.S." entry_type="standard_key" lookup_key="u.s._91_487" id1="89203" volume="91" start="0" page_number="487" standard_reporter="U.S." citation_global_level_id="13112.002" line="1" id="89203_1" citation_local_level_id="0" >91 U.S. 487</CITATION>
+
+<CITATION alternative_keys="['u.s._91_487', 'zellerswitzer#1']" end="29" reporter="L. Ed." entry_type="standard_key" lookup_key="l.ed._23_366" id1="89203" volume="23" start="16" page_number="366" standard_reporter="L.ED." citation_global_level_id="13112.003" line="1" id="89203_2" citation_local_level_id="1" >23 L. Ed. 366</CITATION>
+
+<NAME start="19" local_name_id="1" end="24" id="89203_7" all_names="L ED" >L. Ed</NAME>
+
+<CITATION party2="SWITZER" party1="ZELLER ET AL." citation_global_level_id="13112.001" party2_short="SWITZER" line="1" id="89203_3" alternative_keys="['u.s._91_487', 'l.ed._23_366']" end="58" entry_type="party_key" lookup_key="zellerswitzer#1" id1="89203" start="34" party1_short="ZELLER" citation_local_level_id="2" >ZELLER ET AL. v. SWITZER</CITATION>
+
+<NAME end="47" start="34" party1_of="89203_3" all_names="ZELLER" local_name_id="2" id="89203_4" >ZELLER ET AL.</NAME>
+
+<NAME end="58" start="51" all_names="SWITZER" party2_of="89203_3" local_name_id="3" id="89203_5" >SWITZER</NAME>
+
+<DATE start="78" end="82" id="89203_6" >1875</DATE>
+
+<NAME start="222" local_name_id="4" end="228" id="89203_14" all_names="FROLIC" >Frolic</NAME>
+
+<LEGAL_ROLE start="262" end="272" plural="True" id="89203_15" >defendants</LEGAL_ROLE>
+
+<DATE start="295" end="308" id="89203_12" >Nov. 25, 1870</DATE>
+
+<DATE start="344" end="356" id="89203_13" >Dec. 5, 1870</DATE>
+
+<ORGANIZATION start="599" end="612" id="89203_16" >Supreme Court</ORGANIZATION>
+
+<ORGANIZATION start="683" end="704" id="89203_17" >Second Judicial Court</ORGANIZATION>
+
+<NAME start="716" local_name_id="5" end="725" id="89203_18" all_names="JEFFERSON" >Jefferson</NAME>
+
+<ORGANIZATION start="785" end="790" id="89203_19" >court</ORGANIZATION>
+
+<LEGAL_ROLE start="916" end="924" id="89203_20" party="party2" >appellee</LEGAL_ROLE>
+
+<NAME start="1031" local_name_id="6" end="1047" id="89203_21" all_names="MR JOHN A GROW" >Mr. John A. Grow</NAME>
+
+<NAME start="1151" local_name_id="7" end="1187" id="89203_22" all_names="MR E T MERRICK AND MR G W RACE" >Mr. E. T. Merrick and Mr. G. W. Race</NAME>
+
+<PROFESSION start="1203" document_level_name_id="8" end="1220" id="89203_24" party="WAITE" >Mr. CHIEF JUSTICE</PROFESSION>
+
+<NAME start="1221" local_name_id="8" end="1226" id="89203_25" all_names="WAITE" >WAITE</NAME>
+
+<ORGANIZATION start="1256" end="1261" id="89203_26" >court</ORGANIZATION>
+
+<CITATION start="1957" citation_global_level_id="58818.001" end="1972" name="Ex parte French" entry_type="case_key" line="8" citation_local_level_id="3" lookup_key="ex parte french#2" id="89203_23" id1="90002" >Ex parte French</CITATION>
+
+<RELATION standard_case_string="91 U.S. 487" X_vs_Y_string="ZELLER ET AL. v. SWITZER" standard_case="89203_1" X_vs_Y="89203_3" gram_type="pre_nom" relation_type="equivalence" id="89203_9" ></RELATION>
+
+<RELATION standard_case_string="23 L. Ed. 366" X_vs_Y_string="ZELLER ET AL. v. SWITZER" standard_case="89203_2" X_vs_Y="89203_3" gram_type="pre_nom" relation_type="equivalence" id="89203_8" ></RELATION>
+
+<RELATION theme="89203_3" party1="89203_4" party1_string="ZELLER ET AL." theme_string="ZELLER ET AL. v. SWITZER" gram_type="infix" relation_type="asymmetric" id="89203_10" ></RELATION>
+
+<RELATION party2="89203_5" theme="89203_3" theme_string="ZELLER ET AL. v. SWITZER" party2_string="SWITZER" gram_type="infix" relation_type="asymmetric" id="89203_11" ></RELATION>
+
+<RELATION theme="89203_25" profession_string="Mr. CHIEF JUSTICE" theme_string="WAITE" profession="89203_24" gram_type="pre_nom" relation_type="asymmetric" id="89203_27" ></RELATION>
+

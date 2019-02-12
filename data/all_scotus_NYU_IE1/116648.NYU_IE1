@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['billuestates#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1099" id1="116657" volume="510" start="0" page_number="1099" standard_reporter="U.S." citation_global_level_id="4430.002" line="1" id="116648_1" citation_local_level_id="0" >510 U.S. 1099</CITATION>
+
+<CITATION party2="United States" party1="Billue" citation_global_level_id="14225.001" party2_short="States" line="1" id="116648_3" alternative_keys="['u.s._510_1099']" end="41" entry_type="party_key" lookup_key="billuestates#1" id1="116648" start="18" party1_short="Billue" citation_local_level_id="1" >Billue v. United States</CITATION>
+
+<NAME end="24" start="18" party1_of="116648_3" all_names="BILLUE" local_name_id="1" id="116648_4" >Billue</NAME>
+
+<NAME end="41" start="28" all_names="UNITED STATES" party2_of="116648_3" local_name_id="2" id="116648_5" >United States</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._510_1099" id1="116657" start="51" citation_global_level_id="4430.002" line="1" id="116648_2" citation_local_level_id="0" >93-7141</DOCKET>
+
+<DATE start="100" end="116" id="116648_6" >January 24, 1994</DATE>
+
+<NAME start="195" local_name_id="3" end="205" id="116648_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="244" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_994_1562" id1="Dummy_File_163927" volume="994" start="230" page_number="1562" standard_reporter="F.2D" citation_global_level_id="227777.001" line="3" id="116648_12" citation_local_level_id="2" >994 F. 2d 1562</CITATION>
+
+<RELATION theme="116648_1" includes_docket_string="93-7141" includes_docket="116648_2" theme_string="510 U.S. 1099" gram_type="apposition" relation_type="asymmetric" id="116648_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1099" X_vs_Y_string="Billue v. United States" standard_case="116648_1" X_vs_Y="116648_3" gram_type="pre_nom" relation_type="equivalence" id="116648_7" ></RELATION>
+
+<RELATION theme="116648_3" includes_docket_string="93-7141" includes_docket="116648_2" theme_string="Billue v. United States" gram_type="apposition" relation_type="asymmetric" id="116648_10" ></RELATION>
+
+<RELATION theme="116648_3" party1="116648_4" party1_string="Billue" theme_string="Billue v. United States" gram_type="infix" relation_type="asymmetric" id="116648_8" ></RELATION>
+
+<RELATION party2="116648_5" theme="116648_3" theme_string="Billue v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="116648_9" ></RELATION>
+

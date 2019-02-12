@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['greggstates#5']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1225" id1="127628" volume="537" start="0" page_number="1225" standard_reporter="U.S." citation_global_level_id="656.002" line="1" id="127630_1" citation_local_level_id="0" >537 U.S. 1225</CITATION>
+
+<CITATION party2="UNITED STATES" party1="GREGG" citation_global_level_id="42083.001" party2_short="STATES" line="1" id="127630_3" alternative_keys="['u.s._537_1225']" end="40" entry_type="party_key" lookup_key="greggstates#5" id1="1862280" start="18" party1_short="GREGG" citation_local_level_id="1" >GREGG v. UNITED STATES</CITATION>
+
+<NAME end="23" start="18" party1_of="127630_3" all_names="GREGG" local_name_id="1" id="127630_4" >GREGG</NAME>
+
+<NAME end="40" start="27" all_names="UNITED STATES" party2_of="127630_3" local_name_id="2" id="127630_5" >UNITED STATES</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._537_1225" id1="127628" start="50" citation_global_level_id="656.002" line="1" id="127630_2" citation_local_level_id="0" >02-8646</DOCKET>
+
+<DATE start="99" end="116" id="127630_6" >February 24, 2003</DATE>
+
+<NAME start="245" local_name_id="3" end="248" id="127630_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="127630_1" includes_docket_string="02-8646" includes_docket="127630_2" theme_string="537 U.S. 1225" gram_type="apposition" relation_type="asymmetric" id="127630_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1225" X_vs_Y_string="GREGG v. UNITED STATES" standard_case="127630_1" X_vs_Y="127630_3" gram_type="pre_nom" relation_type="equivalence" id="127630_7" ></RELATION>
+
+<RELATION theme="127630_3" includes_docket_string="02-8646" includes_docket="127630_2" theme_string="GREGG v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="127630_10" ></RELATION>
+
+<RELATION theme="127630_3" party1="127630_4" party1_string="GREGG" theme_string="GREGG v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="127630_8" ></RELATION>
+
+<RELATION party2="127630_5" theme="127630_3" theme_string="GREGG v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="127630_9" ></RELATION>
+

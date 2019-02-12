@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['johnsonceman#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_898" id1="123499" volume="537" start="0" page_number="898" standard_reporter="U.S." citation_global_level_id="5105.002" line="1" id="123507_1" citation_local_level_id="0" >537 U.S. 898</CITATION>
+
+<CITATION party2="CEMAN" party1="JOHNSON" citation_global_level_id="37245.001" party2_short="CEMAN" line="1" id="123507_3" alternative_keys="['u.s._537_898']" end="33" entry_type="party_key" lookup_key="johnsonceman#1" id1="123507" start="17" party1_short="JOHNSON" citation_local_level_id="1" >JOHNSON v. CEMAN</CITATION>
+
+<NAME end="24" start="17" party1_of="123507_3" all_names="JOHNSON" local_name_id="1" id="123507_4" >JOHNSON</NAME>
+
+<NAME end="33" start="28" all_names="CEMAN" party2_of="123507_3" local_name_id="2" id="123507_5" >CEMAN</NAME>
+
+<DOCKET end="50" entry_type="docket" lookup_key="u.s._537_898" id1="123499" start="43" citation_global_level_id="5105.002" line="1" id="123507_2" citation_local_level_id="0" >02-5156</DOCKET>
+
+<DATE start="92" end="107" id="123507_6" >October 7, 2002</DATE>
+
+<NAME start="237" local_name_id="3" end="240" id="123507_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="123507_1" includes_docket_string="02-5156" includes_docket="123507_2" theme_string="537 U.S. 898" gram_type="apposition" relation_type="asymmetric" id="123507_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 898" X_vs_Y_string="JOHNSON v. CEMAN" standard_case="123507_1" X_vs_Y="123507_3" gram_type="pre_nom" relation_type="equivalence" id="123507_7" ></RELATION>
+
+<RELATION theme="123507_3" includes_docket_string="02-5156" includes_docket="123507_2" theme_string="JOHNSON v. CEMAN" gram_type="apposition" relation_type="asymmetric" id="123507_10" ></RELATION>
+
+<RELATION theme="123507_3" party1="123507_4" party1_string="JOHNSON" theme_string="JOHNSON v. CEMAN" gram_type="infix" relation_type="asymmetric" id="123507_8" ></RELATION>
+
+<RELATION party2="123507_5" theme="123507_3" theme_string="JOHNSON v. CEMAN" party2_string="CEMAN" gram_type="infix" relation_type="asymmetric" id="123507_9" ></RELATION>
+

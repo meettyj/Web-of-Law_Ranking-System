@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['grahambickham#1', 'dall_4_149']" end="18" reporter="U.S." entry_type="standard_key" lookup_key="u.s._4_149" id1="2620857" volume="4" start="1" page_number="149" standard_reporter="U.S." citation_global_level_id="18671.002" line="2" id="2620857_1" citation_local_level_id="0" >4 U.S. 149 (____)</CITATION>
+
+<CITATION alternative_keys="['u.s._4_149', 'grahambickham#1']" end="30" reporter="Dall" entry_type="standard_key" lookup_key="dall_4_149" id1="2620857" volume="4" start="19" page_number="149" standard_reporter="DALL" citation_global_level_id="18671.003" line="3" id="2620857_2" citation_local_level_id="1" >4 Dall. 149</CITATION>
+
+<CITATION party2="Bickham" party1="Graham" citation_global_level_id="18671.001" party2_short="Bickham" line="6" id="2620857_4" alternative_keys="['u.s._4_149', 'dall_4_149']" end="54" entry_type="party_key" lookup_key="grahambickham#1" id1="2620857" start="31" party1_short="Graham" citation_local_level_id="2" >Graham versus Bickham</CITATION>
+
+<NAME end="37" start="31" party1_of="2620857_4" all_names="GRAHAM" local_name_id="1" id="2620857_5" >Graham</NAME>
+
+<NAME end="54" start="47" all_names="BICKHAM" party2_of="2620857_4" local_name_id="2" id="2620857_6" >Bickham</NAME>
+
+<ORGANIZATION start="56" end="86" id="2620857_9" >Supreme Court of United States</ORGANIZATION>
+
+<NAME start="115" local_name_id="3" end="137" id="2620857_12" all_names="TILGHMAN AND INGERSOLL" >Tilghman and Ingersoll</NAME>
+
+<LEGAL_ROLE start="147" end="156" id="2620857_13" >plaintiff</LEGAL_ROLE>
+
+<NAME start="158" local_name_id="4" end="173" id="2620857_14" all_names="LEWIS AND RAWLE" >Lewis and Rawle</NAME>
+
+<LEGAL_ROLE start="183" end="192" id="2620857_15" >defendant</LEGAL_ROLE>
+
+<ORGANIZATION start="206" end="211" id="2620857_16" >COURT</ORGANIZATION>
+
+<LEGAL_ROLE start="437" end="446" id="2620857_17" >plaintiff</LEGAL_ROLE>
+
+<RELATION theme="2620857_4" party1="2620857_5" party1_string="Graham" theme_string="Graham  versus  Bickham" gram_type="infix" relation_type="asymmetric" id="2620857_7" ></RELATION>
+
+<RELATION party2="2620857_6" theme="2620857_4" theme_string="Graham  versus  Bickham" party2_string="Bickham" gram_type="infix" relation_type="asymmetric" id="2620857_8" ></RELATION>
+
+<RELATION standard_case_string="4 U.S. 149 (____)" X_vs_Y_string="Graham  versus  Bickham" standard_case="2620857_1" X_vs_Y="2620857_4" gram_type="multi_line" relation_type="equivalence" id="2620857_10" ></RELATION>
+
+<RELATION standard_case_string="4 Dall. 149" X_vs_Y_string="Graham  versus  Bickham" standard_case="2620857_2" X_vs_Y="2620857_4" gram_type="multi_line" relation_type="equivalence" id="2620857_11" ></RELATION>
+

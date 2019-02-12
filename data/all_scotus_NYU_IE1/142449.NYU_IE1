@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['reevesmorton#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1164" id1="142449" volume="543" start="0" page_number="1164" standard_reporter="U.S." citation_global_level_id="680.002" line="1" id="142449_1" citation_local_level_id="0" >543 U.S. 1164</CITATION>
+
+<CITATION party2="MORTON, WARDEN" party1="REEVES" citation_global_level_id="9167.006" party2_short="MORTON" line="2" id="142449_2" alternative_keys="['u.s._544_994']" end="42" entry_type="party_key" lookup_key="reevesmorton#1" id1="144122" start="18" party1_short="REEVES" citation_local_level_id="1" >REEVES v. MORTON, WARDEN</CITATION>
+
+<NAME end="24" start="18" party1_of="142449_2" all_names="REEVES" local_name_id="1" id="142449_3" >REEVES</NAME>
+
+<NAME end="42" start="28" all_names="MORTON WARDEN" party2_of="142449_2" local_name_id="2" id="142449_4" >MORTON, WARDEN</NAME>
+
+<DOCKET alternative_keys="['u.s._544_994']" end="59" entry_type="docket" lookup_key="reevesmorton#1" id1="144122" start="52" citation_global_level_id="9167.006" line="3" id="142449_7" citation_local_level_id="1" >04-7711</DOCKET>
+
+<ORGANIZATION start="65" end="95" id="142449_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="101" citation_global_level_id="9167.006" end="118" id="142449_9" citation_local_level_id="1" >February 22, 2005</DATE>
+
+<NAME start="140" local_name_id="3" end="145" id="142449_13" all_names="SUPER" >Super</NAME>
+
+<RELATION theme="142449_2" party1="142449_3" party1_string="REEVES" theme_string="REEVES v. MORTON, WARDEN" gram_type="infix" relation_type="asymmetric" id="142449_5" ></RELATION>
+
+<RELATION party2="142449_4" theme="142449_2" theme_string="REEVES v. MORTON, WARDEN" party2_string="MORTON, WARDEN" gram_type="infix" relation_type="asymmetric" id="142449_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1164" X_vs_Y_string="REEVES v. MORTON, WARDEN" standard_case="142449_1" X_vs_Y="142449_2" gram_type="multi_line" relation_type="equivalence" id="142449_10" ></RELATION>
+
+<RELATION at_date_string="February 22, 2005" theme="142449_2" at_date="142449_9" theme_string="REEVES v. MORTON, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="142449_12" ></RELATION>
+
+<RELATION theme="142449_2" includes_docket_string="04-7711" includes_docket="142449_7" theme_string="REEVES v. MORTON, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="142449_11" ></RELATION>
+

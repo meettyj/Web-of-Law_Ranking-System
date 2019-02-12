@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['leeadams#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_838" id1="131631" volume="540" start="0" page_number="838" standard_reporter="U.S." citation_global_level_id="4082.002" line="1" id="131627_1" citation_local_level_id="0" >540 U.S. 838</CITATION>
+
+<CITATION party2="ADAMS, WARDEN, ET AL" party1="LEE" citation_global_level_id="4082.005" party2_short="ADAMS" line="1" id="131627_3" alternative_keys="['u.s._540_838']" end="44" entry_type="party_key" lookup_key="leeadams#1" id1="131631" start="17" party1_short="LEE" citation_local_level_id="1" >LEE v. ADAMS, WARDEN, ET AL</CITATION>
+
+<NAME end="20" start="17" party1_of="131627_3" all_names="LEE" local_name_id="1" id="131627_4" >LEE</NAME>
+
+<NAME end="44" start="24" all_names="ADAMS WARDEN" party2_of="131627_3" local_name_id="2" id="131627_5" >ADAMS, WARDEN, ET AL</NAME>
+
+<DOCKET end="62" entry_type="docket" lookup_key="u.s._540_838" id1="131631" start="54" citation_global_level_id="4082.002" line="1" id="131627_2" citation_local_level_id="0" >02-10806</DOCKET>
+
+<DATE start="104" end="119" id="131627_6" >October 6, 2003</DATE>
+
+<NAME start="197" local_name_id="3" end="207" id="131627_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="131627_1" includes_docket_string="02-10806" includes_docket="131627_2" theme_string="540 U.S. 838" gram_type="apposition" relation_type="asymmetric" id="131627_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 838" X_vs_Y_string="LEE v. ADAMS, WARDEN, ET AL" standard_case="131627_1" X_vs_Y="131627_3" gram_type="pre_nom" relation_type="equivalence" id="131627_7" ></RELATION>
+
+<RELATION theme="131627_3" includes_docket_string="02-10806" includes_docket="131627_2" theme_string="LEE v. ADAMS, WARDEN, ET AL" gram_type="apposition" relation_type="asymmetric" id="131627_10" ></RELATION>
+
+<RELATION theme="131627_3" party1="131627_4" party1_string="LEE" theme_string="LEE v. ADAMS, WARDEN, ET AL" gram_type="infix" relation_type="asymmetric" id="131627_8" ></RELATION>
+
+<RELATION party2="131627_5" theme="131627_3" theme_string="LEE v. ADAMS, WARDEN, ET AL" party2_string="ADAMS, WARDEN, ET AL" gram_type="infix" relation_type="asymmetric" id="131627_9" ></RELATION>
+

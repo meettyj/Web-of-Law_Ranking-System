@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['brothersacker#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1083" id1="125845" volume="537" start="0" page_number="1083" standard_reporter="U.S." citation_global_level_id="183.002" line="1" id="125842_1" citation_local_level_id="0" >537 U.S. 1083</CITATION>
+
+<CITATION party2="ACKER ET AL" party1="HOPEMAN BROTHERS, INC." citation_global_level_id="35018.001" party2_short="ACKER" line="1" id="125842_3" alternative_keys="['u.s._537_1083']" end="55" entry_type="party_key" lookup_key="brothersacker#1" id1="125842" start="18" party1_short="BROTHERS" citation_local_level_id="1" >HOPEMAN BROTHERS, INC. v. ACKER ET AL</CITATION>
+
+<NAME end="40" start="18" party1_of="125842_3" all_names="HOPEMAN BROTHERS INC" local_name_id="1" id="125842_4" >HOPEMAN BROTHERS, INC.</NAME>
+
+<ORGANIZATION start="18" end="39" id="125842_7" >HOPEMAN BROTHERS, INC</ORGANIZATION>
+
+<NAME end="55" start="44" all_names="ACKER" party2_of="125842_3" local_name_id="2" id="125842_5" >ACKER ET AL</NAME>
+
+<DOCKET end="71" entry_type="docket" lookup_key="u.s._537_1083" id1="125845" start="65" citation_global_level_id="183.002" line="1" id="125842_2" citation_local_level_id="0" >02-520</DOCKET>
+
+<DATE start="113" end="129" id="125842_6" >December 9, 2002</DATE>
+
+<NAME start="221" local_name_id="3" end="224" id="125842_15" all_names="SUP" >Sup</NAME>
+
+<CITATION end="386" reporter="Va." entry_type="standard_key" no_current_file="True" lookup_key="va._264_424" id1="Dummy_File_131142" volume="264" start="375" page_number="424" standard_reporter="VA." citation_global_level_id="194992.001" line="3" id="125842_13" citation_local_level_id="2" >264 Va. 424</CITATION>
+
+<CITATION end="404" reporter="S. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="s.e.2d_569_409" id1="Dummy_File_131143" volume="569" start="388" page_number="409" standard_reporter="S.E.2D" citation_global_level_id="194993.001" line="3" id="125842_14" citation_local_level_id="3" >569 S. E. 2d 409</CITATION>
+
+<RELATION theme="125842_1" includes_docket_string="02-520" includes_docket="125842_2" theme_string="537 U.S. 1083" gram_type="apposition" relation_type="asymmetric" id="125842_12" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1083" X_vs_Y_string="HOPEMAN BROTHERS, INC. v. ACKER ET AL" standard_case="125842_1" X_vs_Y="125842_3" gram_type="pre_nom" relation_type="equivalence" id="125842_8" ></RELATION>
+
+<RELATION theme="125842_3" includes_docket_string="02-520" includes_docket="125842_2" theme_string="HOPEMAN BROTHERS, INC. v. ACKER ET AL" gram_type="apposition" relation_type="asymmetric" id="125842_11" ></RELATION>
+
+<RELATION party2="125842_5" theme="125842_3" theme_string="HOPEMAN BROTHERS, INC. v. ACKER ET AL" party2_string="ACKER ET AL" gram_type="infix" relation_type="asymmetric" id="125842_10" ></RELATION>
+
+<RELATION theme="125842_3" party1="125842_4" party1_string="HOPEMAN BROTHERS, INC." theme_string="HOPEMAN BROTHERS, INC. v. ACKER ET AL" gram_type="infix" relation_type="asymmetric" id="125842_9" ></RELATION>
+

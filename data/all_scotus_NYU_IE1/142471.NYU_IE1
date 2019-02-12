@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['gileswashington#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1166" id1="142482" volume="543" start="0" page_number="1166" standard_reporter="U.S." citation_global_level_id="15898.002" line="1" id="142471_1" citation_local_level_id="0" >543 U.S. 1166</CITATION>
+
+<CITATION party2="WASHINGTON" party1="GILES" citation_global_level_id="42324.001" party2_short="WASHINGTON" line="2" id="142471_2" alternative_keys="['u.s._543_1166']" end="37" entry_type="party_key" lookup_key="gileswashington#1" id1="142471" start="18" party1_short="GILES" citation_local_level_id="1" >GILES v. WASHINGTON</CITATION>
+
+<NAME end="23" start="18" party1_of="142471_2" all_names="GILES" local_name_id="1" id="142471_3" >GILES</NAME>
+
+<NAME end="37" start="27" all_names="WASHINGTON" party2_of="142471_2" local_name_id="2" id="142471_4" >WASHINGTON</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="gileswashington#1" id1="142471" start="47" citation_global_level_id="42324.001" line="3" id="142471_7" citation_local_level_id="1" >04-7767</DOCKET>
+
+<ORGANIZATION start="60" end="90" id="142471_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="96" citation_global_level_id="42324.001" end="113" id="142471_9" citation_local_level_id="1" >February 22, 2005</DATE>
+
+<NAME start="135" local_name_id="3" end="137" id="142471_14" all_names="CT" >Ct</NAME>
+
+<CITATION end="204" reporter="Wash. App." entry_type="standard_key" no_current_file="True" lookup_key="wash.app._119_1018" id1="Dummy_File_137274" volume="119" start="185" page_number="1018" standard_reporter="WASH.APP." citation_global_level_id="201124.001" line="8" id="142471_13" citation_local_level_id="2" >119 Wash. App. 1018</CITATION>
+
+<RELATION theme="142471_2" party1="142471_3" party1_string="GILES" theme_string="GILES v. WASHINGTON" gram_type="infix" relation_type="asymmetric" id="142471_5" ></RELATION>
+
+<RELATION party2="142471_4" theme="142471_2" theme_string="GILES v. WASHINGTON" party2_string="WASHINGTON" gram_type="infix" relation_type="asymmetric" id="142471_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1166" X_vs_Y_string="GILES v. WASHINGTON" standard_case="142471_1" X_vs_Y="142471_2" gram_type="multi_line" relation_type="equivalence" id="142471_10" ></RELATION>
+
+<RELATION at_date_string="February 22, 2005" theme="142471_2" at_date="142471_9" theme_string="GILES v. WASHINGTON" gram_type="multi_line" relation_type="asymmetric" id="142471_12" ></RELATION>
+
+<RELATION theme="142471_2" includes_docket_string="04-7767" includes_docket="142471_7" theme_string="GILES v. WASHINGTON" gram_type="multi_line" relation_type="asymmetric" id="142471_11" ></RELATION>
+

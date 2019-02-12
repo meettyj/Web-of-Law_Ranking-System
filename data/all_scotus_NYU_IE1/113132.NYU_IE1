@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['gerrishrunyon#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_821" id1="113135" volume="510" start="0" page_number="821" standard_reporter="U.S." citation_global_level_id="11439.002" line="1" id="113132_1" citation_local_level_id="0" >510 U.S. 821</CITATION>
+
+<CITATION party2="Runyon, Postmaster General" party1="Gerrish" citation_global_level_id="11439.006" party2_short="Runyon" line="1" id="113132_3" alternative_keys="['u.s._510_821']" end="54" entry_type="party_key" lookup_key="gerrishrunyon#1" id1="113135" start="17" party1_short="Gerrish" citation_local_level_id="1" >Gerrish v. Runyon, Postmaster General</CITATION>
+
+<NAME end="24" start="17" party1_of="113132_3" all_names="GERRISH" local_name_id="1" id="113132_4" >Gerrish</NAME>
+
+<NAME end="54" start="28" all_names="RUNYON POSTMASTER GENERAL" party2_of="113132_3" local_name_id="2" id="113132_5" >Runyon, Postmaster General</NAME>
+
+<DOCKET end="71" entry_type="docket" lookup_key="u.s._510_821" id1="113135" start="64" citation_global_level_id="11439.002" line="1" id="113132_2" citation_local_level_id="0" >92-1935</DOCKET>
+
+<DATE start="67" end="71" id="113132_6" >1935</DATE>
+
+<DATE start="113" end="128" id="113132_7" >October 4, 1993</DATE>
+
+<NAME start="205" local_name_id="3" end="215" id="113132_15" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="253" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_992_320" id1="Dummy_File_17078" volume="992" start="240" page_number="320" standard_reporter="F.2D" citation_global_level_id="80928.001" line="3" id="113132_14" citation_local_level_id="2" >992 F. 2d 320</CITATION>
+
+<RELATION theme="113132_1" includes_docket_string="92-1935" includes_docket="113132_2" theme_string="510 U.S. 821" gram_type="apposition" relation_type="asymmetric" id="113132_12" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 821" X_vs_Y_string="Gerrish v. Runyon, Postmaster General" standard_case="113132_1" X_vs_Y="113132_3" gram_type="pre_nom" relation_type="equivalence" id="113132_8" ></RELATION>
+
+<RELATION theme="113132_3" includes_docket_string="92-1935" includes_docket="113132_2" theme_string="Gerrish v. Runyon, Postmaster General" gram_type="apposition" relation_type="asymmetric" id="113132_11" ></RELATION>
+
+<RELATION party2="113132_5" theme="113132_3" theme_string="Gerrish v. Runyon, Postmaster General" party2_string="Runyon, Postmaster General" gram_type="infix" relation_type="asymmetric" id="113132_10" ></RELATION>
+
+<RELATION theme="113132_3" party1="113132_4" party1_string="Gerrish" theme_string="Gerrish v. Runyon, Postmaster General" gram_type="infix" relation_type="asymmetric" id="113132_9" ></RELATION>
+
+<RELATION at_date_string="1935" theme="113132_2" at_date="113132_6" theme_string="92-1935" gram_type="infix" relation_type="asymmetric" id="113132_13" ></RELATION>
+

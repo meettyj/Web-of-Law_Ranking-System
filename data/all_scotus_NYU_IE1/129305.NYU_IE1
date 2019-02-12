@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['ramiresstates#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1007" id1="129299" volume="538" start="0" page_number="1007" standard_reporter="U.S." citation_global_level_id="13369.002" line="1" id="129305_1" citation_local_level_id="0" >538 U.S. 1007</CITATION>
+
+<CITATION party2="UNITED STATES" party1="RAMIRES" citation_global_level_id="14003.001" party2_short="STATES" line="1" id="129305_3" alternative_keys="['u.s._538_1007']" end="42" entry_type="party_key" lookup_key="ramiresstates#1" id1="129305" start="18" party1_short="RAMIRES" citation_local_level_id="1" >RAMIRES v. UNITED STATES</CITATION>
+
+<NAME end="25" start="18" party1_of="129305_3" all_names="RAMIRES" local_name_id="1" id="129305_4" >RAMIRES</NAME>
+
+<NAME end="42" start="29" all_names="UNITED STATES" party2_of="129305_3" local_name_id="2" id="129305_5" >UNITED STATES</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="u.s._538_1007" id1="129299" start="52" citation_global_level_id="13369.002" line="1" id="129305_2" citation_local_level_id="0" >02-9605</DOCKET>
+
+<DATE start="101" end="115" id="129305_6" >April 28, 2003</DATE>
+
+<NAME start="245" local_name_id="3" end="248" id="129305_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="298" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_307_713" id1="Dummy_File_126035" volume="307" start="285" page_number="713" standard_reporter="F.3D" citation_global_level_id="189885.001" line="3" id="129305_12" citation_local_level_id="2" >307 F. 3d 713</CITATION>
+
+<RELATION theme="129305_1" includes_docket_string="02-9605" includes_docket="129305_2" theme_string="538 U.S. 1007" gram_type="apposition" relation_type="asymmetric" id="129305_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1007" X_vs_Y_string="RAMIRES v. UNITED STATES" standard_case="129305_1" X_vs_Y="129305_3" gram_type="pre_nom" relation_type="equivalence" id="129305_7" ></RELATION>
+
+<RELATION theme="129305_3" includes_docket_string="02-9605" includes_docket="129305_2" theme_string="RAMIRES v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="129305_10" ></RELATION>
+
+<RELATION theme="129305_3" party1="129305_4" party1_string="RAMIRES" theme_string="RAMIRES v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="129305_8" ></RELATION>
+
+<RELATION party2="129305_5" theme="129305_3" theme_string="RAMIRES v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="129305_9" ></RELATION>
+

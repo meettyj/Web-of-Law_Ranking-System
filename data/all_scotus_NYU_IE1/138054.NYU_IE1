@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['forneytownship#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_825" id1="138061" volume="543" start="0" page_number="825" standard_reporter="U.S." citation_global_level_id="8433.002" line="1" id="138054_1" citation_local_level_id="0" >543 U.S. 825</CITATION>
+
+<CITATION party2="FREEPORT TOWNSHIP ET AL" party1="FORNEY" citation_global_level_id="17571.001" party2_short="TOWNSHIP" line="2" id="138054_2" alternative_keys="['u.s._543_825']" end="50" entry_type="party_key" lookup_key="forneytownship#1" id1="138054" start="17" party1_short="FORNEY" citation_local_level_id="1" >FORNEY v. FREEPORT TOWNSHIP ET AL</CITATION>
+
+<NAME end="23" start="17" party1_of="138054_2" all_names="FORNEY" local_name_id="1" id="138054_3" >FORNEY</NAME>
+
+<NAME end="50" start="27" all_names="FREEPORT TOWNSHIP" party2_of="138054_2" local_name_id="2" id="138054_4" >FREEPORT TOWNSHIP ET AL</NAME>
+
+<DOCKET end="68" entry_type="docket" lookup_key="forneytownship#1" id1="138054" start="60" citation_global_level_id="17571.001" line="3" id="138054_7" citation_local_level_id="1" >03-10129</DOCKET>
+
+<ORGANIZATION start="74" end="104" id="138054_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="110" citation_global_level_id="17571.001" end="125" id="138054_9" citation_local_level_id="1" >October 4, 2004</DATE>
+
+<NAME start="158" local_name_id="3" end="161" id="138054_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="138054_2" party1="138054_3" party1_string="FORNEY" theme_string="FORNEY v. FREEPORT TOWNSHIP ET AL" gram_type="infix" relation_type="asymmetric" id="138054_5" ></RELATION>
+
+<RELATION party2="138054_4" theme="138054_2" theme_string="FORNEY v. FREEPORT TOWNSHIP ET AL" party2_string="FREEPORT TOWNSHIP ET AL" gram_type="infix" relation_type="asymmetric" id="138054_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 825" X_vs_Y_string="FORNEY v. FREEPORT TOWNSHIP ET AL" standard_case="138054_1" X_vs_Y="138054_2" gram_type="multi_line" relation_type="equivalence" id="138054_10" ></RELATION>
+
+<RELATION at_date_string="October 4, 2004" theme="138054_2" at_date="138054_9" theme_string="FORNEY v. FREEPORT TOWNSHIP ET AL" gram_type="multi_line" relation_type="asymmetric" id="138054_12" ></RELATION>
+
+<RELATION theme="138054_2" includes_docket_string="03-10129" includes_docket="138054_7" theme_string="FORNEY v. FREEPORT TOWNSHIP ET AL" gram_type="multi_line" relation_type="asymmetric" id="138054_11" ></RELATION>
+

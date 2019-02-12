@@ -1,0 +1,40 @@
+<CITATION alternative_keys="['blockanderson#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_913" id1="130312" volume="539" start="0" page_number="913" standard_reporter="U.S." citation_global_level_id="686.002" line="1" id="130314_1" citation_local_level_id="0" >539 U.S. 913</CITATION>
+
+<CITATION party2="Anderson et al" party1="H &amp; R Block, Inc." citation_global_level_id="686.003" party2_short="Anderson" line="1" id="130314_3" alternative_keys="['u.s._539_913']" end="52" entry_type="party_key" lookup_key="blockanderson#2" id1="130312" start="17" party1_short="Block" citation_local_level_id="1" >H &amp; R Block, Inc. v. Anderson et al</CITATION>
+
+<NAME end="34" start="17" party1_of="130314_3" all_names="H &amp; R BLOCK INC" local_name_id="1" id="130314_4" >H &amp; R Block, Inc.</NAME>
+
+<ORGANIZATION start="17" end="33" id="130314_7" >H &amp; R Block, Inc</ORGANIZATION>
+
+<NAME end="52" start="38" all_names="ANDERSON" party2_of="130314_3" local_name_id="2" id="130314_5" >Anderson et al</NAME>
+
+<DOCKET end="68" entry_type="docket" lookup_key="u.s._539_913" id1="130312" start="62" citation_global_level_id="686.002" line="1" id="130314_2" citation_local_level_id="0" >02-312</DOCKET>
+
+<DATE start="110" end="122" id="130314_6" >June 9, 2003</DATE>
+
+<ORGANIZATION start="205" end="210" id="130314_17" >Court</ORGANIZATION>
+
+<CITATION party2="Anderson" party1="Beneficial Nat. Bank" citation_global_level_id="58128.001" party2_short="Anderson" line="3" id="130314_14" end="274" entry_type="party_key" lookup_key="bankanderson#5" id1="130139" start="242" party1_short="Bank" citation_local_level_id="2" >Beneficial Nat. Bank v. Anderson</CITATION>
+
+<NAME end="262" start="242" party1_of="130314_14" all_names="BENEFICIAL NAT BANK" local_name_id="3" id="130314_15" >Beneficial Nat. Bank</NAME>
+
+<ORGANIZATION start="258" end="262" id="130314_18" >Bank</ORGANIZATION>
+
+<NAME end="274" start="266" all_names="ANDERSON" party2_of="130314_14" local_name_id="2" id="130314_16" >Anderson</NAME>
+
+<CITATION end="392" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_287_1038" id1="Dummy_File_12826" volume="287" start="378" page_number="1038" standard_reporter="F.3D" citation_global_level_id="76676.001" line="3" id="130314_13" citation_local_level_id="3" >287 F. 3d 1038</CITATION>
+
+<RELATION theme="130314_1" includes_docket_string="02-312" includes_docket="130314_2" theme_string="539 U.S. 913" gram_type="apposition" relation_type="asymmetric" id="130314_12" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 913" X_vs_Y_string="H &amp; R Block, Inc. v. Anderson et al" standard_case="130314_1" X_vs_Y="130314_3" gram_type="pre_nom" relation_type="equivalence" id="130314_8" ></RELATION>
+
+<RELATION theme="130314_3" includes_docket_string="02-312" includes_docket="130314_2" theme_string="H &amp; R Block, Inc. v. Anderson et al" gram_type="apposition" relation_type="asymmetric" id="130314_11" ></RELATION>
+
+<RELATION party2="130314_5" theme="130314_3" theme_string="H &amp; R Block, Inc. v. Anderson et al" party2_string="Anderson et al" gram_type="infix" relation_type="asymmetric" id="130314_10" ></RELATION>
+
+<RELATION theme="130314_3" party1="130314_4" party1_string="H &amp; R Block, Inc." theme_string="H &amp; R Block, Inc. v. Anderson et al" gram_type="infix" relation_type="asymmetric" id="130314_9" ></RELATION>
+
+<RELATION theme="130314_14" party1="130314_15" party1_string="Beneficial Nat. Bank" theme_string="Beneficial Nat. Bank v. Anderson" gram_type="infix" relation_type="asymmetric" id="130314_19" ></RELATION>
+
+<RELATION party2="130314_16" theme="130314_14" theme_string="Beneficial Nat. Bank v. Anderson" party2_string="Anderson" gram_type="infix" relation_type="asymmetric" id="130314_20" ></RELATION>
+

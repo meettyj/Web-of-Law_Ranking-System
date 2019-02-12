@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['daviscurtis#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_845" id1="122810" volume="537" start="0" page_number="845" standard_reporter="U.S." citation_global_level_id="5095.002" line="1" id="122815_1" citation_local_level_id="0" >537 U.S. 845</CITATION>
+
+<CITATION party2="CURTIS, WARDEN" party1="DAVIS" citation_global_level_id="5095.005" party2_short="CURTIS" line="1" id="122815_3" alternative_keys="['u.s._537_845']" end="40" entry_type="party_key" lookup_key="daviscurtis#1" id1="122810" start="17" party1_short="DAVIS" citation_local_level_id="1" >DAVIS v. CURTIS, WARDEN</CITATION>
+
+<NAME end="22" start="17" party1_of="122815_3" all_names="DAVIS" local_name_id="1" id="122815_4" >DAVIS</NAME>
+
+<NAME end="40" start="26" all_names="CURTIS WARDEN" party2_of="122815_3" local_name_id="2" id="122815_5" >CURTIS, WARDEN</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._537_845" id1="122810" start="50" citation_global_level_id="5095.002" line="1" id="122815_2" citation_local_level_id="0" >01-10459</DOCKET>
+
+<DATE start="100" end="115" id="122815_6" >October 7, 2002</DATE>
+
+<NAME start="244" local_name_id="3" end="247" id="122815_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="122815_1" includes_docket_string="01-10459" includes_docket="122815_2" theme_string="537 U.S. 845" gram_type="apposition" relation_type="asymmetric" id="122815_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 845" X_vs_Y_string="DAVIS v. CURTIS, WARDEN" standard_case="122815_1" X_vs_Y="122815_3" gram_type="pre_nom" relation_type="equivalence" id="122815_7" ></RELATION>
+
+<RELATION theme="122815_3" includes_docket_string="01-10459" includes_docket="122815_2" theme_string="DAVIS v. CURTIS, WARDEN" gram_type="apposition" relation_type="asymmetric" id="122815_10" ></RELATION>
+
+<RELATION theme="122815_3" party1="122815_4" party1_string="DAVIS" theme_string="DAVIS v. CURTIS, WARDEN" gram_type="infix" relation_type="asymmetric" id="122815_8" ></RELATION>
+
+<RELATION party2="122815_5" theme="122815_3" theme_string="DAVIS v. CURTIS, WARDEN" party2_string="CURTIS, WARDEN" gram_type="infix" relation_type="asymmetric" id="122815_9" ></RELATION>
+

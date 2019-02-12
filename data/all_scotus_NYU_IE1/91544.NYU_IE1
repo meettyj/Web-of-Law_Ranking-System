@@ -1,0 +1,48 @@
+<CITATION alternative_keys="['rystates#6', 'u.s._116_402', 'l.ed._29_677']" end="12" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._6_631" id1="91544" volume="6" start="0" page_number="631" standard_reporter="S.CT." citation_global_level_id="33003.002" line="1" id="91544_1" citation_local_level_id="0" >6 S. Ct. 631</CITATION>
+
+<CITATION alternative_keys="['s.ct._6_631', 'rystates#6', 'l.ed._29_677']" end="29" reporter="U.S." entry_type="standard_key" lookup_key="u.s._116_402" id1="91544" volume="116" start="17" page_number="402" standard_reporter="U.S." citation_global_level_id="33003.003" line="1" id="91544_2" citation_local_level_id="1" >116 U.S. 402</CITATION>
+
+<CITATION alternative_keys="['s.ct._6_631', 'u.s._116_402', 'rystates#6']" end="47" reporter="L. Ed." entry_type="standard_key" lookup_key="l.ed._29_677" id1="91544" volume="29" start="34" page_number="677" standard_reporter="L.ED." citation_global_level_id="33003.004" line="1" id="91544_3" citation_local_level_id="2" >29 L. Ed. 677</CITATION>
+
+<NAME start="37" local_name_id="1" end="42" id="91544_9" all_names="L ED" >L. Ed</NAME>
+
+<CITATION party2="UNITED STATES" party1="UNION PACIFIC RY. CO." citation_global_level_id="33003.001" party2_short="STATES" line="1" id="91544_5" alternative_keys="['s.ct._6_631', 'u.s._116_402', 'l.ed._29_677']" end="90" entry_type="party_key" lookup_key="rystates#6" id1="91544" start="52" party1_short="RY" citation_local_level_id="3" >UNION PACIFIC RY. CO. v. UNITED STATES</CITATION>
+
+<NAME end="73" start="52" party1_of="91544_5" all_names="UNION PACIFIC RY CO" local_name_id="2" id="91544_6" >UNION PACIFIC RY. CO.</NAME>
+
+<ORGANIZATION start="52" end="68" id="91544_10" >UNION PACIFIC RY</ORGANIZATION>
+
+<ORGANIZATION start="70" end="72" id="91544_11" >CO</ORGANIZATION>
+
+<NAME end="90" start="77" all_names="UNITED STATES" party2_of="91544_5" local_name_id="3" id="91544_7" >UNITED STATES</NAME>
+
+<DATE start="102" end="118" id="91544_8" >January 18, 1886</DATE>
+
+<CITATION end="299" reporter="U. S." entry_type="standard_key" lookup_key="u.s._104_662" id1="90516" volume="104" start="286" page_number="662" standard_reporter="U.S." citation_global_level_id="59886.002" line="1" id="91544_4" citation_local_level_id="4" >104 U. S. 662</CITATION>
+
+<NAME start="854" local_name_id="4" end="868" id="91544_17" all_names="JOHN F DILLON" >John F. Dillon</NAME>
+
+<NAME start="870" local_name_id="5" end="882" id="91544_18" all_names="J M WILSON" >J. M. Wilson</NAME>
+
+<NAME start="888" local_name_id="6" end="899" id="91544_19" all_names="S BARTLETT" >S. Bartlett</NAME>
+
+<NAME start="919" local_name_id="7" end="922" id="91544_20" all_names="SOL" >Sol</NAME>
+
+<NAME start="957" local_name_id="8" end="962" id="91544_21" all_names="WAITE" >WAITE</NAME>
+
+<NAME start="964" local_name_id="9" end="968" id="91544_22" all_names="C J" >C. J</NAME>
+
+<ORGANIZATION start="1065" end="1070" id="91544_24" >court</ORGANIZATION>
+
+<DATE start="1396" end="1413" id="91544_23" >September 1, 1876</DATE>
+
+<RELATION standard_case_string="6 S. Ct. 631" X_vs_Y_string="UNION PACIFIC RY. CO. v. UNITED STATES" standard_case="91544_1" X_vs_Y="91544_5" gram_type="pre_nom" relation_type="equivalence" id="91544_13" ></RELATION>
+
+<RELATION standard_case_string="116 U.S. 402" X_vs_Y_string="UNION PACIFIC RY. CO. v. UNITED STATES" standard_case="91544_2" X_vs_Y="91544_5" gram_type="pre_nom" relation_type="equivalence" id="91544_14" ></RELATION>
+
+<RELATION standard_case_string="29 L. Ed. 677" X_vs_Y_string="UNION PACIFIC RY. CO. v. UNITED STATES" standard_case="91544_3" X_vs_Y="91544_5" gram_type="pre_nom" relation_type="equivalence" id="91544_12" ></RELATION>
+
+<RELATION theme="91544_5" party1="91544_6" party1_string="UNION PACIFIC RY. CO." theme_string="UNION PACIFIC RY. CO. v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="91544_15" ></RELATION>
+
+<RELATION party2="91544_7" theme="91544_5" theme_string="UNION PACIFIC RY. CO. v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="91544_16" ></RELATION>
+

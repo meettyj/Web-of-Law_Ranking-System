@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['sanonuniversity#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_934" id1="114608" volume="510" start="0" page_number="934" standard_reporter="U.S." citation_global_level_id="1576.002" line="1" id="114612_1" citation_local_level_id="0" >510 U.S. 934</CITATION>
+
+<CITATION party2="Taylor University" party1="Sanon" citation_global_level_id="38468.001" party2_short="University" line="1" id="114612_3" alternative_keys="['u.s._510_934']" end="43" entry_type="party_key" lookup_key="sanonuniversity#1" id1="114612" start="17" party1_short="Sanon" citation_local_level_id="1" >Sanon v. Taylor University</CITATION>
+
+<NAME end="22" start="17" party1_of="114612_3" all_names="SANON" local_name_id="1" id="114612_4" >Sanon</NAME>
+
+<NAME end="43" start="26" all_names="TAYLOR UNIVERSITY" party2_of="114612_3" local_name_id="2" id="114612_5" >Taylor University</NAME>
+
+<DOCKET end="60" entry_type="docket" lookup_key="u.s._510_934" id1="114608" start="53" citation_global_level_id="1576.002" line="1" id="114612_2" citation_local_level_id="0" >93-5781</DOCKET>
+
+<DATE start="102" end="118" id="114612_6" >October 18, 1993</DATE>
+
+<NAME start="196" local_name_id="3" end="206" id="114612_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="114612_1" includes_docket_string="93-5781" includes_docket="114612_2" theme_string="510 U.S. 934" gram_type="apposition" relation_type="asymmetric" id="114612_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 934" X_vs_Y_string="Sanon v. Taylor University" standard_case="114612_1" X_vs_Y="114612_3" gram_type="pre_nom" relation_type="equivalence" id="114612_7" ></RELATION>
+
+<RELATION theme="114612_3" includes_docket_string="93-5781" includes_docket="114612_2" theme_string="Sanon v. Taylor University" gram_type="apposition" relation_type="asymmetric" id="114612_10" ></RELATION>
+
+<RELATION theme="114612_3" party1="114612_4" party1_string="Sanon" theme_string="Sanon v. Taylor University" gram_type="infix" relation_type="asymmetric" id="114612_8" ></RELATION>
+
+<RELATION party2="114612_5" theme="114612_3" theme_string="Sanon v. Taylor University" party2_string="Taylor University" gram_type="infix" relation_type="asymmetric" id="114612_9" ></RELATION>
+

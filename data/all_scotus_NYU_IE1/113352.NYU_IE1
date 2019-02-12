@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['burnstexas#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_838" id1="113355" volume="510" start="0" page_number="838" standard_reporter="U.S." citation_global_level_id="5243.002" line="1" id="113352_1" citation_local_level_id="0" >510 U.S. 838</CITATION>
+
+<CITATION party2="Texas" party1="Burns" citation_global_level_id="38460.001" party2_short="Texas" line="1" id="113352_3" alternative_keys="['u.s._510_838']" end="31" entry_type="party_key" lookup_key="burnstexas#1" id1="113352" start="17" party1_short="Burns" citation_local_level_id="1" >Burns v. Texas</CITATION>
+
+<NAME end="22" start="17" party1_of="113352_3" all_names="BURNS" local_name_id="1" id="113352_4" >Burns</NAME>
+
+<NAME end="31" start="26" all_names="TEXAS" party2_of="113352_3" local_name_id="2" id="113352_5" >Texas</NAME>
+
+<DOCKET end="48" entry_type="docket" lookup_key="u.s._510_838" id1="113355" start="41" citation_global_level_id="5243.002" line="1" id="113352_2" citation_local_level_id="0" >92-8867</DOCKET>
+
+<DATE start="90" end="105" id="113352_6" >October 4, 1993</DATE>
+
+<NAME start="188" local_name_id="3" end="198" id="113352_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="113352_1" includes_docket_string="92-8867" includes_docket="113352_2" theme_string="510 U.S. 838" gram_type="apposition" relation_type="asymmetric" id="113352_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 838" X_vs_Y_string="Burns v. Texas" standard_case="113352_1" X_vs_Y="113352_3" gram_type="pre_nom" relation_type="equivalence" id="113352_7" ></RELATION>
+
+<RELATION theme="113352_3" includes_docket_string="92-8867" includes_docket="113352_2" theme_string="Burns v. Texas" gram_type="apposition" relation_type="asymmetric" id="113352_10" ></RELATION>
+
+<RELATION theme="113352_3" party1="113352_4" party1_string="Burns" theme_string="Burns v. Texas" gram_type="infix" relation_type="asymmetric" id="113352_8" ></RELATION>
+
+<RELATION party2="113352_5" theme="113352_3" theme_string="Burns v. Texas" party2_string="Texas" gram_type="infix" relation_type="asymmetric" id="113352_9" ></RELATION>
+

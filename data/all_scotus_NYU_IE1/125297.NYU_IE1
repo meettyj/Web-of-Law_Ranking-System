@@ -1,0 +1,40 @@
+<CITATION alternative_keys="['klausergray#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1041" id1="125299" volume="537" start="0" page_number="1041" standard_reporter="U.S." citation_global_level_id="9719.002" line="1" id="125297_1" citation_local_level_id="0" >537 U.S. 1041</CITATION>
+
+<CITATION party2="GRAY" party1="KLAUSER, WARDEN" citation_global_level_id="9719.003" party2_short="GRAY" line="1" id="125297_3" alternative_keys="['u.s._537_1041']" end="41" entry_type="party_key" lookup_key="klausergray#1" id1="125299" start="18" party1_short="KLAUSER" citation_local_level_id="1" >KLAUSER, WARDEN v. GRAY</CITATION>
+
+<NAME end="33" start="18" party1_of="125297_3" all_names="KLAUSER WARDEN" local_name_id="1" id="125297_4" >KLAUSER, WARDEN</NAME>
+
+<NAME start="18" local_name_id="2" end="25" id="125297_7" all_names="KLAUSER" >KLAUSER</NAME>
+
+<PROFESSION start="27" end="33" id="125297_8" >WARDEN</PROFESSION>
+
+<NAME end="41" start="37" all_names="GRAY" party2_of="125297_3" local_name_id="3" id="125297_5" >GRAY</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._537_1041" id1="125299" start="51" citation_global_level_id="9719.002" line="1" id="125297_2" citation_local_level_id="0" >02-121</DOCKET>
+
+<DATE start="99" end="115" id="125297_6" >December 2, 2002</DATE>
+
+<NAME start="244" local_name_id="4" end="247" id="125297_18" all_names="CIR" >Cir</NAME>
+
+<CITATION party2="Packer" party1="Early" citation_global_level_id="36247.001" party2_short="Packer" line="3" id="125297_15" end="358" entry_type="party_key" lookup_key="earlypacker#1" id1="122241" start="343" party1_short="Early" citation_local_level_id="2" >Early v. Packer</CITATION>
+
+<NAME end="348" start="343" party1_of="125297_15" all_names="EARLY" local_name_id="5" id="125297_16" >Early</NAME>
+
+<NAME end="358" start="352" all_names="PACKER" party2_of="125297_15" local_name_id="6" id="125297_17" >Packer</NAME>
+
+<CITATION end="401" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_282_633" id1="Dummy_File_15661" volume="282" start="388" page_number="633" standard_reporter="F.3D" citation_global_level_id="79511.001" line="3" id="125297_14" citation_local_level_id="3" >282 F. 3d 633</CITATION>
+
+<RELATION theme="125297_1" includes_docket_string="02-121" includes_docket="125297_2" theme_string="537 U.S. 1041" gram_type="apposition" relation_type="asymmetric" id="125297_13" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1041" X_vs_Y_string="KLAUSER, WARDEN v. GRAY" standard_case="125297_1" X_vs_Y="125297_3" gram_type="pre_nom" relation_type="equivalence" id="125297_9" ></RELATION>
+
+<RELATION theme="125297_3" includes_docket_string="02-121" includes_docket="125297_2" theme_string="KLAUSER, WARDEN v. GRAY" gram_type="apposition" relation_type="asymmetric" id="125297_12" ></RELATION>
+
+<RELATION theme="125297_3" party1="125297_4" party1_string="KLAUSER, WARDEN" theme_string="KLAUSER, WARDEN v. GRAY" gram_type="infix" relation_type="asymmetric" id="125297_10" ></RELATION>
+
+<RELATION party2="125297_5" theme="125297_3" theme_string="KLAUSER, WARDEN v. GRAY" party2_string="GRAY" gram_type="infix" relation_type="asymmetric" id="125297_11" ></RELATION>
+
+<RELATION theme="125297_15" party1="125297_16" party1_string="Early" theme_string="Early v. Packer" gram_type="infix" relation_type="asymmetric" id="125297_19" ></RELATION>
+
+<RELATION party2="125297_17" theme="125297_15" theme_string="Early v. Packer" party2_string="Packer" gram_type="infix" relation_type="asymmetric" id="125297_20" ></RELATION>
+

@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['bakermaryland#3']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_944" id1="135078" volume="541" start="0" page_number="944" standard_reporter="U.S." citation_global_level_id="4417.002" line="1" id="135079_1" citation_local_level_id="0" >541 U.S. 944</CITATION>
+
+<CITATION party2="MARYLAND" party1="BAKER" citation_global_level_id="50207.001" party2_short="MARYLAND" line="2" id="135079_2" alternative_keys="['u.s._541_944']" end="34" entry_type="party_key" lookup_key="bakermaryland#3" id1="120235" start="17" party1_short="BAKER" citation_local_level_id="1" >BAKER v. MARYLAND</CITATION>
+
+<NAME end="22" start="17" party1_of="135079_2" all_names="BAKER" local_name_id="1" id="135079_3" >BAKER</NAME>
+
+<NAME end="34" start="26" all_names="MARYLAND" party2_of="135079_2" local_name_id="2" id="135079_4" >MARYLAND</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="bakermaryland#3" id1="120235" start="44" citation_global_level_id="50207.001" line="3" id="135079_7" citation_local_level_id="1" >03-8390</DOCKET>
+
+<ORGANIZATION start="57" end="87" id="135079_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="93" citation_global_level_id="50207.001" end="107" id="135079_9" citation_local_level_id="1" >March 22, 2004</DATE>
+
+<NAME start="129" local_name_id="3" end="131" id="135079_15" all_names="CT" >Ct</NAME>
+
+<CITATION end="188" reporter="Md." entry_type="standard_key" no_current_file="True" lookup_key="md._377_567" id1="Dummy_File_102113" volume="377" start="177" page_number="567" standard_reporter="MD." citation_global_level_id="165963.001" line="8" id="135079_13" citation_local_level_id="2" >377 Md. 567</CITATION>
+
+<CITATION end="204" reporter="A. 2d" entry_type="standard_key" no_current_file="True" lookup_key="a.2d_833_1070" id1="Dummy_File_102114" volume="833" start="190" page_number="1070" standard_reporter="A.2D" citation_global_level_id="165964.001" line="8" id="135079_14" citation_local_level_id="3" >833 A. 2d 1070</CITATION>
+
+<RELATION theme="135079_2" party1="135079_3" party1_string="BAKER" theme_string="BAKER v. MARYLAND" gram_type="infix" relation_type="asymmetric" id="135079_5" ></RELATION>
+
+<RELATION party2="135079_4" theme="135079_2" theme_string="BAKER v. MARYLAND" party2_string="MARYLAND" gram_type="infix" relation_type="asymmetric" id="135079_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 944" X_vs_Y_string="BAKER v. MARYLAND" standard_case="135079_1" X_vs_Y="135079_2" gram_type="multi_line" relation_type="equivalence" id="135079_10" ></RELATION>
+
+<RELATION at_date_string="March 22, 2004" theme="135079_2" at_date="135079_9" theme_string="BAKER v. MARYLAND" gram_type="multi_line" relation_type="asymmetric" id="135079_12" ></RELATION>
+
+<RELATION theme="135079_2" includes_docket_string="03-8390" includes_docket="135079_7" theme_string="BAKER v. MARYLAND" gram_type="multi_line" relation_type="asymmetric" id="135079_11" ></RELATION>
+

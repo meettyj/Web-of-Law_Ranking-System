@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['givenmassachusetts#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_948" id1="139681" volume="543" start="0" page_number="948" standard_reporter="U.S." citation_global_level_id="2975.002" line="1" id="139673_1" citation_local_level_id="0" >543 U.S. 948</CITATION>
+
+<CITATION party2="MASSACHUSETTS" party1="GIVEN" citation_global_level_id="20515.001" party2_short="MASSACHUSETTS" line="2" id="139673_2" alternative_keys="['u.s._543_948']" end="39" entry_type="party_key" lookup_key="givenmassachusetts#1" id1="139673" start="17" party1_short="GIVEN" citation_local_level_id="1" >GIVEN v. MASSACHUSETTS</CITATION>
+
+<NAME end="22" start="17" party1_of="139673_2" all_names="GIVEN" local_name_id="1" id="139673_3" >GIVEN</NAME>
+
+<NAME end="39" start="26" all_names="MASSACHUSETTS" party2_of="139673_2" local_name_id="2" id="139673_4" >MASSACHUSETTS</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="givenmassachusetts#1" id1="139673" start="49" citation_global_level_id="20515.001" line="3" id="139673_7" citation_local_level_id="1" >04-6263</DOCKET>
+
+<ORGANIZATION start="62" end="92" id="139673_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="98" citation_global_level_id="20515.001" end="114" id="139673_9" citation_local_level_id="1" >October 18, 2004</DATE>
+
+<NAME start="136" local_name_id="3" end="139" id="139673_15" all_names="SUP" >Sup</NAME>
+
+<CITATION end="204" reporter="Mass." entry_type="standard_key" no_current_file="True" lookup_key="mass._441_741" id1="Dummy_File_127503" volume="441" start="191" page_number="741" standard_reporter="MASS." citation_global_level_id="191353.001" line="8" id="139673_13" citation_local_level_id="2" >441 Mass. 741</CITATION>
+
+<CITATION end="222" reporter="N. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.e.2d_808_788" id1="Dummy_File_127504" volume="808" start="206" page_number="788" standard_reporter="N.E.2D" citation_global_level_id="191354.001" line="8" id="139673_14" citation_local_level_id="3" >808 N. E. 2d 788</CITATION>
+
+<RELATION theme="139673_2" party1="139673_3" party1_string="GIVEN" theme_string="GIVEN v. MASSACHUSETTS" gram_type="infix" relation_type="asymmetric" id="139673_5" ></RELATION>
+
+<RELATION party2="139673_4" theme="139673_2" theme_string="GIVEN v. MASSACHUSETTS" party2_string="MASSACHUSETTS" gram_type="infix" relation_type="asymmetric" id="139673_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 948" X_vs_Y_string="GIVEN v. MASSACHUSETTS" standard_case="139673_1" X_vs_Y="139673_2" gram_type="multi_line" relation_type="equivalence" id="139673_10" ></RELATION>
+
+<RELATION at_date_string="October 18, 2004" theme="139673_2" at_date="139673_9" theme_string="GIVEN v. MASSACHUSETTS" gram_type="multi_line" relation_type="asymmetric" id="139673_12" ></RELATION>
+
+<RELATION theme="139673_2" includes_docket_string="04-6263" includes_docket="139673_7" theme_string="GIVEN v. MASSACHUSETTS" gram_type="multi_line" relation_type="asymmetric" id="139673_11" ></RELATION>
+

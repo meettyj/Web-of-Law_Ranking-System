@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['robichauxlouisiana#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_839" id1="122734" volume="537" start="0" page_number="839" standard_reporter="U.S." citation_global_level_id="1459.002" line="1" id="122722_1" citation_local_level_id="0" >537 U.S. 839</CITATION>
+
+<CITATION party2="LOUISIANA" party1="ROBICHAUX" citation_global_level_id="53009.001" party2_short="LOUISIANA" line="1" id="122722_3" alternative_keys="['u.s._537_839']" end="39" entry_type="party_key" lookup_key="robichauxlouisiana#1" id1="122722" start="17" party1_short="ROBICHAUX" citation_local_level_id="1" >ROBICHAUX v. LOUISIANA</CITATION>
+
+<NAME end="26" start="17" party1_of="122722_3" all_names="ROBICHAUX" local_name_id="1" id="122722_4" >ROBICHAUX</NAME>
+
+<NAME end="39" start="30" all_names="LOUISIANA" party2_of="122722_3" local_name_id="2" id="122722_5" >LOUISIANA</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._537_839" id1="122734" start="49" citation_global_level_id="1459.002" line="1" id="122722_2" citation_local_level_id="0" >01-10254</DOCKET>
+
+<DATE start="99" end="114" id="122722_6" >October 7, 2002</DATE>
+
+<NAME start="233" local_name_id="3" end="235" id="122722_13" all_names="CT" >Ct</NAME>
+
+<CITATION end="305" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_788_458" id1="Dummy_File_49177" volume="788" start="291" page_number="458" standard_reporter="SO.2D" citation_global_level_id="113027.001" line="3" id="122722_12" citation_local_level_id="2" >788 So. 2d 458</CITATION>
+
+<RELATION theme="122722_1" includes_docket_string="01-10254" includes_docket="122722_2" theme_string="537 U.S. 839" gram_type="apposition" relation_type="asymmetric" id="122722_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 839" X_vs_Y_string="ROBICHAUX v. LOUISIANA" standard_case="122722_1" X_vs_Y="122722_3" gram_type="pre_nom" relation_type="equivalence" id="122722_7" ></RELATION>
+
+<RELATION theme="122722_3" includes_docket_string="01-10254" includes_docket="122722_2" theme_string="ROBICHAUX v. LOUISIANA" gram_type="apposition" relation_type="asymmetric" id="122722_10" ></RELATION>
+
+<RELATION theme="122722_3" party1="122722_4" party1_string="ROBICHAUX" theme_string="ROBICHAUX v. LOUISIANA" gram_type="infix" relation_type="asymmetric" id="122722_8" ></RELATION>
+
+<RELATION party2="122722_5" theme="122722_3" theme_string="ROBICHAUX v. LOUISIANA" party2_string="LOUISIANA" gram_type="infix" relation_type="asymmetric" id="122722_9" ></RELATION>
+

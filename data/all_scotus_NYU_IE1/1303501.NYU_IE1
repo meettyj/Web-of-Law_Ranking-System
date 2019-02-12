@@ -1,0 +1,40 @@
+<CITATION alternative_keys="['assigneekeely#1', 'dall_2_213']" end="18" reporter="U.S." entry_type="standard_key" lookup_key="u.s._2_213" id1="1303501" volume="2" start="1" page_number="213" standard_reporter="U.S." citation_global_level_id="3456.002" line="2" id="1303501_1" citation_local_level_id="0" >2 U.S. 213 (____)</CITATION>
+
+<CITATION alternative_keys="['u.s._2_213', 'assigneekeely#1']" end="30" reporter="Dall" entry_type="standard_key" lookup_key="dall_2_213" id1="1303501" volume="2" start="19" page_number="213" standard_reporter="DALL" citation_global_level_id="3456.003" line="3" id="1303501_2" citation_local_level_id="1" >2 Dall. 213</CITATION>
+
+<CITATION party2="KEELY" party1="SHOEMAKER, Assignee" citation_global_level_id="3456.004" party2_short="KEELY" line="6" id="1303501_5" alternative_keys="['dall_2_213', 'u.s._2_213']" end="65" entry_type="party_key" lookup_key="assigneekeely#1" id1="1303501" start="31" party1_short="Assignee" citation_local_level_id="2" >SHOEMAKER, Assignee versus KEELY</CITATION>
+
+<NAME end="50" start="31" party1_of="1303501_5" all_names="SHOEMAKER ASSIGNEE" local_name_id="1" id="1303501_6" >SHOEMAKER, Assignee</NAME>
+
+<NAME end="65" start="60" all_names="KEELY" party2_of="1303501_5" local_name_id="2" id="1303501_7" >KEELY</NAME>
+
+<ORGANIZATION start="67" end="97" id="1303501_10" >Supreme Court of United States</ORGANIZATION>
+
+<LEGAL_ROLE start="104" end="113" id="1303501_13" >defendant</LEGAL_ROLE>
+
+<PROFESSION start="116" end="123" id="1303501_14" >Counsel</PROFESSION>
+
+<NAME start="125" local_name_id="3" end="130" id="1303501_15" all_names="RAWLE" >Rawle</NAME>
+
+<LEGAL_ROLE start="147" end="156" id="1303501_16" >plaintiff</LEGAL_ROLE>
+
+<PROFESSION start="159" end="166" id="1303501_17" >Counsel</PROFESSION>
+
+<NAME start="168" local_name_id="4" end="175" id="1303501_18" all_names="M LEVY" >M. Levy</NAME>
+
+<ORGANIZATION start="199" end="204" id="1303501_19" >COURT</ORGANIZATION>
+
+<NAME start="297" local_name_id="5" end="305" id="1303501_20" all_names="ASSEMBLY" >Assembly</NAME>
+
+<NAME start="429" local_name_id="6" end="441" id="1303501_21" all_names="LET JUDGMENT" >Let Judgment</NAME>
+
+<LEGAL_ROLE start="461" end="470" id="1303501_22" >defendant</LEGAL_ROLE>
+
+<RELATION theme="1303501_5" party1="1303501_6" party1_string="SHOEMAKER, Assignee" theme_string="SHOEMAKER, Assignee  versus  KEELY" gram_type="infix" relation_type="asymmetric" id="1303501_8" ></RELATION>
+
+<RELATION party2="1303501_7" theme="1303501_5" theme_string="SHOEMAKER, Assignee  versus  KEELY" party2_string="KEELY" gram_type="infix" relation_type="asymmetric" id="1303501_9" ></RELATION>
+
+<RELATION standard_case_string="2 U.S. 213 (____)" X_vs_Y_string="SHOEMAKER, Assignee  versus  KEELY" standard_case="1303501_1" X_vs_Y="1303501_5" gram_type="multi_line" relation_type="equivalence" id="1303501_11" ></RELATION>
+
+<RELATION standard_case_string="2 Dall. 213" X_vs_Y_string="SHOEMAKER, Assignee  versus  KEELY" standard_case="1303501_2" X_vs_Y="1303501_5" gram_type="multi_line" relation_type="equivalence" id="1303501_12" ></RELATION>
+

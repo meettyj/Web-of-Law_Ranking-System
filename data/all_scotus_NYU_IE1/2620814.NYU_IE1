@@ -1,0 +1,50 @@
+<CITATION alternative_keys="['woodwagnon#1', 'cranch_2_9']" end="16" reporter="U.S." entry_type="standard_key" lookup_key="u.s._6_9" id1="2620817" volume="6" start="1" page_number="9" standard_reporter="U.S." citation_global_level_id="25594.002" line="2" id="2620814_1" citation_local_level_id="0" >6 U.S. 9 (____)</CITATION>
+
+<CITATION alternative_keys="['u.s._6_9', 'woodwagnon#1']" end="27" reporter="Cranch" entry_type="standard_key" lookup_key="cranch_2_9" id1="2620817" volume="2" start="17" page_number="9" standard_reporter="CRANCH" citation_global_level_id="25594.003" line="3" id="2620814_2" citation_local_level_id="1" >2 Cranch 9</CITATION>
+
+<CITATION party2="WAGNON" party1="WOOD" citation_global_level_id="46623.001" party2_short="WAGNON" line="6" id="2620814_4" alternative_keys="['u.s._6_9', 'cranch_2_9']" end="44" entry_type="party_key" lookup_key="woodwagnon#1" id1="2620814" start="28" party1_short="WOOD" citation_local_level_id="2" >WOOD v. WAGNON</CITATION>
+
+<NAME end="32" start="28" party1_of="2620814_4" all_names="WOOD	JAMES WOOD" local_name_id="1" id="2620814_5" >WOOD</NAME>
+
+<NAME end="44" start="38" all_names="WAGNON	PETER WAGNON" party2_of="2620814_4" local_name_id="2" id="2620814_6" >WAGNON</NAME>
+
+<ORGANIZATION start="46" end="76" id="2620814_9" >Supreme Court of United States</ORGANIZATION>
+
+<ORGANIZATION start="165" end="170" id="2620814_12" >court</ORGANIZATION>
+
+<NAME start="247" local_name_id="3" end="251" id="2620814_13" all_names="JOHN" >John</NAME>
+
+<NAME start="253" local_name_id="2" end="265" id="2620814_14" all_names="WAGNON	PETER WAGNON" >Peter Wagnon</NAME>
+
+<NAME start="293" local_name_id="4" end="305" id="2620814_15" all_names="PENNSYLVANIA" >Pennsylvania</NAME>
+
+<NAME start="323" local_name_id="1" end="333" id="2620814_16" all_names="WOOD	JAMES WOOD" >James Wood</NAME>
+
+<NAME start="351" local_name_id="5" end="358" id="2620814_17" all_names="GEORGIA" >Georgia</NAME>
+
+<LEGAL_ROLE start="422" end="431" id="2620814_22" >plaintiff</LEGAL_ROLE>
+
+<LEGAL_ROLE start="436" end="445" id="2620814_23" >defendant</LEGAL_ROLE>
+
+<CITATION party2="Cabot et al" party1="Bingham" citation_global_level_id="41937.001" party2_short="Cabot" line="12" id="2620814_19" alternative_keys="['dall_3_382']" end="571" entry_type="party_key" lookup_key="binghamcabot#1" id1="2158753" start="549" party1_short="Bingham" citation_local_level_id="3" >Bingham v. Cabot et al</CITATION>
+
+<NAME end="556" start="549" party1_of="2620814_19" all_names="BINGHAM" local_name_id="6" id="2620814_20" >Bingham</NAME>
+
+<NAME end="571" start="560" all_names="CABOT" party2_of="2620814_19" local_name_id="7" id="2620814_21" >Cabot et al</NAME>
+
+<CITATION alternative_keys="['binghamcabot#1']" end="584" reporter="Dall" entry_type="standard_key" lookup_key="dall_3_382" id1="2158753" volume="3" start="573" page_number="382" standard_reporter="DALL" citation_global_level_id="41937.003" line="12" id="2620814_18" citation_local_level_id="4" >3 Dall. 382</CITATION>
+
+<RELATION theme="2620814_4" party1="2620814_5" party1_string="WOOD" theme_string="WOOD  v.  WAGNON" gram_type="infix" relation_type="asymmetric" id="2620814_7" ></RELATION>
+
+<RELATION party2="2620814_6" theme="2620814_4" theme_string="WOOD  v.  WAGNON" party2_string="WAGNON" gram_type="infix" relation_type="asymmetric" id="2620814_8" ></RELATION>
+
+<RELATION standard_case_string="6 U.S. 9 (____)" X_vs_Y_string="WOOD  v.  WAGNON" standard_case="2620814_1" X_vs_Y="2620814_4" gram_type="multi_line" relation_type="equivalence" id="2620814_10" ></RELATION>
+
+<RELATION standard_case_string="2 Cranch 9" X_vs_Y_string="WOOD  v.  WAGNON" standard_case="2620814_2" X_vs_Y="2620814_4" gram_type="multi_line" relation_type="equivalence" id="2620814_11" ></RELATION>
+
+<RELATION standard_case_string="3 Dall. 382" X_vs_Y_string="Bingham v. Cabot et al" standard_case="2620814_18" X_vs_Y="2620814_19" gram_type="apposition" relation_type="equivalence" id="2620814_26" ></RELATION>
+
+<RELATION theme="2620814_19" party1="2620814_20" party1_string="Bingham" theme_string="Bingham v. Cabot et al" gram_type="infix" relation_type="asymmetric" id="2620814_24" ></RELATION>
+
+<RELATION party2="2620814_21" theme="2620814_19" theme_string="Bingham v. Cabot et al" party2_string="Cabot et al" gram_type="infix" relation_type="asymmetric" id="2620814_25" ></RELATION>
+

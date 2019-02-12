@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['laxtonwisconsin#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1114" id1="126230" volume="537" start="0" page_number="1114" standard_reporter="U.S." citation_global_level_id="3791.002" line="1" id="126226_1" citation_local_level_id="0" >537 U.S. 1114</CITATION>
+
+<CITATION party2="WISCONSIN" party1="LAXTON" citation_global_level_id="38371.001" party2_short="WISCONSIN" line="1" id="126226_3" alternative_keys="['u.s._537_1114']" end="37" entry_type="party_key" lookup_key="laxtonwisconsin#1" id1="126226" start="18" party1_short="LAXTON" citation_local_level_id="1" >LAXTON v. WISCONSIN</CITATION>
+
+<NAME end="24" start="18" party1_of="126226_3" all_names="LAXTON" local_name_id="1" id="126226_4" >LAXTON</NAME>
+
+<NAME end="37" start="28" all_names="WISCONSIN" party2_of="126226_3" local_name_id="2" id="126226_5" >WISCONSIN</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="u.s._537_1114" id1="126230" start="47" citation_global_level_id="3791.002" line="1" id="126226_2" citation_local_level_id="0" >02-6652</DOCKET>
+
+<DATE start="96" end="112" id="126226_6" >January 13, 2003</DATE>
+
+<NAME start="205" local_name_id="3" end="208" id="126226_13" all_names="SUP" >Sup</NAME>
+
+<CITATION end="287" reporter="N. W. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.w.2d_647_784" id1="Dummy_File_234684" volume="647" start="271" page_number="784" standard_reporter="N.W.2D" citation_global_level_id="298534.001" line="3" id="126226_12" citation_local_level_id="2" >647 N. W. 2d 784</CITATION>
+
+<RELATION theme="126226_1" includes_docket_string="02-6652" includes_docket="126226_2" theme_string="537 U.S. 1114" gram_type="apposition" relation_type="asymmetric" id="126226_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1114" X_vs_Y_string="LAXTON v. WISCONSIN" standard_case="126226_1" X_vs_Y="126226_3" gram_type="pre_nom" relation_type="equivalence" id="126226_7" ></RELATION>
+
+<RELATION theme="126226_3" includes_docket_string="02-6652" includes_docket="126226_2" theme_string="LAXTON v. WISCONSIN" gram_type="apposition" relation_type="asymmetric" id="126226_10" ></RELATION>
+
+<RELATION theme="126226_3" party1="126226_4" party1_string="LAXTON" theme_string="LAXTON v. WISCONSIN" gram_type="infix" relation_type="asymmetric" id="126226_8" ></RELATION>
+
+<RELATION party2="126226_5" theme="126226_3" theme_string="LAXTON v. WISCONSIN" party2_string="WISCONSIN" gram_type="infix" relation_type="asymmetric" id="126226_9" ></RELATION>
+

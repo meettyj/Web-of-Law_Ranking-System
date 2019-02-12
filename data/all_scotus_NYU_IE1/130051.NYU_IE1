@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['perrystates#6']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1064" id1="130055" volume="538" start="0" page_number="1064" standard_reporter="U.S." citation_global_level_id="2781.002" line="1" id="130051_1" citation_local_level_id="0" >538 U.S. 1064</CITATION>
+
+<CITATION party2="UNITED STATES" party1="PERRY" citation_global_level_id="54926.001" party2_short="STATES" line="1" id="130051_3" alternative_keys="['u.s._538_1064']" end="40" entry_type="party_key" lookup_key="perrystates#6" id1="116221" start="18" party1_short="PERRY" citation_local_level_id="1" >PERRY v. UNITED STATES</CITATION>
+
+<NAME end="23" start="18" party1_of="130051_3" all_names="PERRY" local_name_id="1" id="130051_4" >PERRY</NAME>
+
+<NAME end="40" start="27" all_names="UNITED STATES" party2_of="130051_3" local_name_id="2" id="130051_5" >UNITED STATES</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._538_1064" id1="130055" start="50" citation_global_level_id="2781.002" line="1" id="130051_2" citation_local_level_id="0" >02-10189</DOCKET>
+
+<DATE start="100" end="112" id="130051_6" >May 27, 2003</DATE>
+
+<NAME start="242" local_name_id="3" end="245" id="130051_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="130051_1" includes_docket_string="02-10189" includes_docket="130051_2" theme_string="538 U.S. 1064" gram_type="apposition" relation_type="asymmetric" id="130051_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1064" X_vs_Y_string="PERRY v. UNITED STATES" standard_case="130051_1" X_vs_Y="130051_3" gram_type="pre_nom" relation_type="equivalence" id="130051_7" ></RELATION>
+
+<RELATION theme="130051_3" includes_docket_string="02-10189" includes_docket="130051_2" theme_string="PERRY v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="130051_10" ></RELATION>
+
+<RELATION theme="130051_3" party1="130051_4" party1_string="PERRY" theme_string="PERRY v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="130051_8" ></RELATION>
+
+<RELATION party2="130051_5" theme="130051_3" theme_string="PERRY v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="130051_9" ></RELATION>
+

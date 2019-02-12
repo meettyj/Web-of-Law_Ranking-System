@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['gathwrightstates#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1121" id1="116901" volume="510" start="0" page_number="1121" standard_reporter="U.S." citation_global_level_id="8218.002" line="1" id="116897_1" citation_local_level_id="0" >510 U.S. 1121</CITATION>
+
+<CITATION party2="United States" party1="Gathwright" citation_global_level_id="44502.001" party2_short="States" line="1" id="116897_3" alternative_keys="['u.s._510_1121']" end="45" entry_type="party_key" lookup_key="gathwrightstates#1" id1="116897" start="18" party1_short="Gathwright" citation_local_level_id="1" >Gathwright v. United States</CITATION>
+
+<NAME end="28" start="18" party1_of="116897_3" all_names="GATHWRIGHT" local_name_id="1" id="116897_4" >Gathwright</NAME>
+
+<NAME end="45" start="32" all_names="UNITED STATES" party2_of="116897_3" local_name_id="2" id="116897_5" >United States</NAME>
+
+<DOCKET end="62" entry_type="docket" lookup_key="u.s._510_1121" id1="116901" start="55" citation_global_level_id="8218.002" line="1" id="116897_2" citation_local_level_id="0" >93-6826</DOCKET>
+
+<DATE start="104" end="121" id="116897_6" >February 22, 1994</DATE>
+
+<NAME start="199" local_name_id="3" end="209" id="116897_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="247" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_988_123" id1="Dummy_File_27098" volume="988" start="234" page_number="123" standard_reporter="F.2D" citation_global_level_id="90948.001" line="3" id="116897_12" citation_local_level_id="2" >988 F. 2d 123</CITATION>
+
+<RELATION theme="116897_1" includes_docket_string="93-6826" includes_docket="116897_2" theme_string="510 U.S. 1121" gram_type="apposition" relation_type="asymmetric" id="116897_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1121" X_vs_Y_string="Gathwright v. United States" standard_case="116897_1" X_vs_Y="116897_3" gram_type="pre_nom" relation_type="equivalence" id="116897_7" ></RELATION>
+
+<RELATION theme="116897_3" includes_docket_string="93-6826" includes_docket="116897_2" theme_string="Gathwright v. United States" gram_type="apposition" relation_type="asymmetric" id="116897_10" ></RELATION>
+
+<RELATION theme="116897_3" party1="116897_4" party1_string="Gathwright" theme_string="Gathwright v. United States" gram_type="infix" relation_type="asymmetric" id="116897_8" ></RELATION>
+
+<RELATION party2="116897_5" theme="116897_3" theme_string="Gathwright v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="116897_9" ></RELATION>
+

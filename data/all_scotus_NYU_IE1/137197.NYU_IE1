@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['filosoboard#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._542_916" id1="137194" volume="542" start="0" page_number="916" standard_reporter="U.S." citation_global_level_id="173.002" line="1" id="137197_1" citation_local_level_id="0" >542 U.S. 916</CITATION>
+
+<CITATION party2="PRINCE WILLIAM COUNTY SCHOOL BOARD" party1="FILOSO" citation_global_level_id="5174.001" party2_short="BOARD" line="1" id="137197_3" alternative_keys="['u.s._542_916']" end="61" entry_type="party_key" lookup_key="filosoboard#2" id1="136118" start="17" party1_short="FILOSO" citation_local_level_id="1" >FILOSO v. PRINCE WILLIAM COUNTY SCHOOL BOARD</CITATION>
+
+<NAME end="23" start="17" party1_of="137197_3" all_names="FILOSO" local_name_id="1" id="137197_4" >FILOSO</NAME>
+
+<NAME end="61" start="27" all_names="PRINCE WILLIAM COUNTY SCHOOL BOARD" party2_of="137197_3" local_name_id="2" id="137197_5" >PRINCE WILLIAM COUNTY SCHOOL BOARD</NAME>
+
+<DOCKET end="78" entry_type="docket" lookup_key="u.s._542_916" id1="137194" start="71" citation_global_level_id="173.002" line="1" id="137197_2" citation_local_level_id="0" >03-1249</DOCKET>
+
+<DATE start="120" end="133" id="137197_6" >June 14, 2004</DATE>
+
+<CITATION end="242" reporter="U. S." entry_type="standard_key" lookup_key="u.s._541_1030" id1="136118" volume="541" start="228" page_number="1030" standard_reporter="U.S." citation_global_level_id="5174.002" line="3" id="137197_12" citation_local_level_id="2" >541 U. S. 1030</CITATION>
+
+<RELATION theme="137197_1" includes_docket_string="03-1249" includes_docket="137197_2" theme_string="542 U.S. 916" gram_type="apposition" relation_type="asymmetric" id="137197_11" ></RELATION>
+
+<RELATION standard_case_string="542 U.S. 916" X_vs_Y_string="FILOSO v. PRINCE WILLIAM COUNTY SCHOOL BOARD" standard_case="137197_1" X_vs_Y="137197_3" gram_type="pre_nom" relation_type="equivalence" id="137197_7" ></RELATION>
+
+<RELATION theme="137197_3" includes_docket_string="03-1249" includes_docket="137197_2" theme_string="FILOSO v. PRINCE WILLIAM COUNTY SCHOOL BOARD" gram_type="apposition" relation_type="asymmetric" id="137197_10" ></RELATION>
+
+<RELATION theme="137197_3" party1="137197_4" party1_string="FILOSO" theme_string="FILOSO v. PRINCE WILLIAM COUNTY SCHOOL BOARD" gram_type="infix" relation_type="asymmetric" id="137197_8" ></RELATION>
+
+<RELATION party2="137197_5" theme="137197_3" theme_string="FILOSO v. PRINCE WILLIAM COUNTY SCHOOL BOARD" party2_string="PRINCE WILLIAM COUNTY SCHOOL BOARD" gram_type="infix" relation_type="asymmetric" id="137197_9" ></RELATION>
+

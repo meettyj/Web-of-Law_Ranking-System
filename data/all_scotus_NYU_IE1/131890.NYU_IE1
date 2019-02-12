@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['hutchinsonpennsylvania#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_858" id1="131894" volume="540" start="0" page_number="858" standard_reporter="U.S." citation_global_level_id="851.002" line="1" id="131890_1" citation_local_level_id="0" >540 U.S. 858</CITATION>
+
+<CITATION party2="PENNSYLVANIA" party1="HUTCHINSON" citation_global_level_id="29212.001" party2_short="PENNSYLVANIA" line="1" id="131890_3" alternative_keys="['u.s._540_858']" end="43" entry_type="party_key" lookup_key="hutchinsonpennsylvania#1" id1="131890" start="17" party1_short="HUTCHINSON" citation_local_level_id="1" >HUTCHINSON v. PENNSYLVANIA</CITATION>
+
+<NAME end="27" start="17" party1_of="131890_3" all_names="HUTCHINSON" local_name_id="1" id="131890_4" >HUTCHINSON</NAME>
+
+<NAME end="43" start="31" all_names="PENNSYLVANIA" party2_of="131890_3" local_name_id="2" id="131890_5" >PENNSYLVANIA</NAME>
+
+<DOCKET end="61" entry_type="docket" lookup_key="u.s._540_858" id1="131894" start="53" citation_global_level_id="851.002" line="1" id="131890_2" citation_local_level_id="0" >02-11157</DOCKET>
+
+<DATE start="103" end="118" id="131890_6" >October 6, 2003</DATE>
+
+<NAME start="194" local_name_id="3" end="204" id="131890_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="254" reporter="A. 2d" entry_type="standard_key" no_current_file="True" lookup_key="a.2d_811_556" id1="Dummy_File_225719" volume="811" start="241" page_number="556" standard_reporter="A.2D" citation_global_level_id="289569.001" line="3" id="131890_12" citation_local_level_id="2" >811 A. 2d 556</CITATION>
+
+<RELATION theme="131890_1" includes_docket_string="02-11157" includes_docket="131890_2" theme_string="540 U.S. 858" gram_type="apposition" relation_type="asymmetric" id="131890_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 858" X_vs_Y_string="HUTCHINSON v. PENNSYLVANIA" standard_case="131890_1" X_vs_Y="131890_3" gram_type="pre_nom" relation_type="equivalence" id="131890_7" ></RELATION>
+
+<RELATION theme="131890_3" includes_docket_string="02-11157" includes_docket="131890_2" theme_string="HUTCHINSON v. PENNSYLVANIA" gram_type="apposition" relation_type="asymmetric" id="131890_10" ></RELATION>
+
+<RELATION theme="131890_3" party1="131890_4" party1_string="HUTCHINSON" theme_string="HUTCHINSON v. PENNSYLVANIA" gram_type="infix" relation_type="asymmetric" id="131890_8" ></RELATION>
+
+<RELATION party2="131890_5" theme="131890_3" theme_string="HUTCHINSON v. PENNSYLVANIA" party2_string="PENNSYLVANIA" gram_type="infix" relation_type="asymmetric" id="131890_9" ></RELATION>
+

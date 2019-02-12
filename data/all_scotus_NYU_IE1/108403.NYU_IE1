@@ -1,0 +1,52 @@
+<CITATION alternative_keys="['peasehansen#1']" end="19" reporter="U.S." entry_type="standard_key" lookup_key="u.s._404_70" id1="108403" volume="404" start="1" page_number="70" year="1971" standard_reporter="U.S." citation_global_level_id="58772.002" line="2" id="108403_1" citation_local_level_id="0" >404 U.S. 70 (1971)</CITATION>
+
+<DATE start="14" citation_global_level_id="58772.002" end="18" id="108403_2" citation_local_level_id="0" >1971</DATE>
+
+<CITATION party2="HANSEN, DIRECTOR, CASCADE COUNTY DEPARTMENT OF PUBLIC WELFARE, ET AL" party1="PEASE" citation_global_level_id="58772.001" party2_short="HANSEN" line="5" id="108403_5" alternative_keys="['u.s._404_70']" end="99" entry_type="party_key" lookup_key="peasehansen#1" id1="108403" start="20" party1_short="PEASE" citation_local_level_id="1" >PEASE v. HANSEN, DIRECTOR, CASCADE COUNTY DEPARTMENT OF PUBLIC WELFARE, ET AL</CITATION>
+
+<NAME end="25" start="20" party1_of="108403_5" all_names="PEASE" local_name_id="1" id="108403_6" >PEASE</NAME>
+
+<NAME end="99" start="31" all_names="HANSEN DIRECTOR CASCADE COUNTY DEPARTMENT OF PUBLIC WELFARE" party2_of="108403_5" local_name_id="2" id="108403_7" >HANSEN, DIRECTOR, CASCADE COUNTY DEPARTMENT OF PUBLIC WELFARE, ET AL</NAME>
+
+<DOCKET end="112" entry_type="docket" lookup_key="peasehansen#1" id1="108403" start="105" citation_global_level_id="58772.001" line="6" id="108403_10" citation_local_level_id="1" >70-5376</DOCKET>
+
+<ORGANIZATION start="114" end="144" id="108403_11" >Supreme Court of United States</ORGANIZATION>
+
+<NAME start="146" local_name_id="3" end="153" id="108403_13" all_names="DECIDED" >Decided</NAME>
+
+<DATE start="154" end="171" id="108403_12" >November 16, 1971</DATE>
+
+<ORGANIZATION start="172" end="212" id="108403_16" >APPEAL FROM THE SUPREME COURT OF MONTANA</ORGANIZATION>
+
+<NAME start="218" local_name_id="4" end="224" id="108403_17" all_names="CURIAM" >CURIAM</NAME>
+
+<LEGAL_ROLE start="244" end="253" id="108403_18" party="party1" >appellant</LEGAL_ROLE>
+
+<CITATION party2="Thompson" party1="Shapiro" citation_global_level_id="42581.001" party2_short="Thompson" line="12" id="108403_20" alternative_keys="['u.s._394_618']" end="441" entry_type="party_key" lookup_key="shapirothompson#1" id1="107901" start="422" party1_short="Shapiro" citation_local_level_id="2" >Shapiro v. Thompson</CITATION>
+
+<NAME end="429" start="422" party1_of="108403_20" all_names="SHAPIRO" local_name_id="5" id="108403_21" >Shapiro</NAME>
+
+<NAME end="441" start="433" all_names="THOMPSON" party2_of="108403_20" local_name_id="6" id="108403_22" >Thompson</NAME>
+
+<CITATION alternative_keys="['shapirothompson#1']" end="456" reporter="U. S." entry_type="standard_key" lookup_key="u.s._394_618" id1="107901" volume="394" start="443" page_number="618" standard_reporter="U.S." citation_global_level_id="42581.002" line="12" id="108403_19" citation_local_level_id="3" >394 U. S. 618</CITATION>
+
+<ORGANIZATION start="478" end="502" id="108403_23" >Supreme Court of Montana</ORGANIZATION>
+
+<PROFESSION start="520" end="533" id="108403_27" >CHIEF JUSTICE</PROFESSION>
+
+<RELATION at_date_string="1971" theme="108403_1" at_date="108403_2" theme_string="404 U.S. 70 (1971)" gram_type="infix" relation_type="asymmetric" id="108403_3" ></RELATION>
+
+<RELATION theme="108403_5" party1="108403_6" party1_string="PEASE" theme_string="PEASE  v.  HANSEN, DIRECTOR, CASCADE COUNTY DEPARTMENT OF PUBLIC WELFARE, ET AL" gram_type="infix" relation_type="asymmetric" id="108403_8" ></RELATION>
+
+<RELATION party2="108403_7" theme="108403_5" theme_string="PEASE  v.  HANSEN, DIRECTOR, CASCADE COUNTY DEPARTMENT OF PUBLIC WELFARE, ET AL" party2_string="HANSEN, DIRECTOR, CASCADE COUNTY DEPARTMENT OF PUBLIC WELFARE, ET AL" gram_type="infix" relation_type="asymmetric" id="108403_9" ></RELATION>
+
+<RELATION standard_case_string="404 U.S. 70 (1971)" X_vs_Y_string="PEASE  v.  HANSEN, DIRECTOR, CASCADE COUNTY DEPARTMENT OF PUBLIC WELFARE, ET AL" standard_case="108403_1" X_vs_Y="108403_5" gram_type="multi_line" relation_type="equivalence" id="108403_14" ></RELATION>
+
+<RELATION theme="108403_5" includes_docket_string="70-5376" includes_docket="108403_10" theme_string="PEASE  v.  HANSEN, DIRECTOR, CASCADE COUNTY DEPARTMENT OF PUBLIC WELFARE, ET AL" gram_type="multi_line" relation_type="asymmetric" id="108403_15" ></RELATION>
+
+<RELATION standard_case_string="394 U. S. 618" X_vs_Y_string="Shapiro v. Thompson" standard_case="108403_19" X_vs_Y="108403_20" gram_type="apposition" relation_type="equivalence" id="108403_26" ></RELATION>
+
+<RELATION theme="108403_20" party1="108403_21" party1_string="Shapiro" theme_string="Shapiro v. Thompson" gram_type="infix" relation_type="asymmetric" id="108403_24" ></RELATION>
+
+<RELATION party2="108403_22" theme="108403_20" theme_string="Shapiro v. Thompson" party2_string="Thompson" gram_type="infix" relation_type="asymmetric" id="108403_25" ></RELATION>
+

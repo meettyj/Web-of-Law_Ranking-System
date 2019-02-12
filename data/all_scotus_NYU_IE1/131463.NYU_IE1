@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['watchrossotti#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_825" id1="131461" volume="540" start="0" page_number="825" standard_reporter="U.S." citation_global_level_id="2891.002" line="1" id="131463_1" citation_local_level_id="0" >540 U.S. 825</CITATION>
+
+<CITATION party2="ROSSOTTI ET AL" party1="JUDICIAL WATCH, INC." citation_global_level_id="55217.001" party2_short="ROSSOTTI" line="1" id="131463_3" alternative_keys="['u.s._540_825']" end="55" entry_type="party_key" lookup_key="watchrossotti#1" id1="131463" start="17" party1_short="WATCH" citation_local_level_id="1" >JUDICIAL WATCH, INC. v. ROSSOTTI ET AL</CITATION>
+
+<NAME end="37" start="17" party1_of="131463_3" all_names="JUDICIAL WATCH INC" local_name_id="1" id="131463_4" >JUDICIAL WATCH, INC.</NAME>
+
+<ORGANIZATION start="17" end="36" id="131463_8" >JUDICIAL WATCH, INC</ORGANIZATION>
+
+<NAME end="55" start="41" all_names="ROSSOTTI" party2_of="131463_3" local_name_id="2" id="131463_5" >ROSSOTTI ET AL</NAME>
+
+<DOCKET end="72" entry_type="docket" lookup_key="u.s._540_825" id1="131461" start="65" citation_global_level_id="2891.002" line="1" id="131463_2" citation_local_level_id="0" >02-1849</DOCKET>
+
+<DATE start="68" end="72" id="131463_6" >1849</DATE>
+
+<DATE start="114" end="129" id="131463_7" >October 6, 2003</DATE>
+
+<NAME start="207" local_name_id="3" end="217" id="131463_16" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="255" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_317_401" id1="Dummy_File_222123" volume="317" start="242" page_number="401" standard_reporter="F.3D" citation_global_level_id="285973.001" line="3" id="131463_15" citation_local_level_id="2" >317 F. 3d 401</CITATION>
+
+<RELATION theme="131463_1" includes_docket_string="02-1849" includes_docket="131463_2" theme_string="540 U.S. 825" gram_type="apposition" relation_type="asymmetric" id="131463_13" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 825" X_vs_Y_string="JUDICIAL WATCH, INC. v. ROSSOTTI ET AL" standard_case="131463_1" X_vs_Y="131463_3" gram_type="pre_nom" relation_type="equivalence" id="131463_9" ></RELATION>
+
+<RELATION theme="131463_3" includes_docket_string="02-1849" includes_docket="131463_2" theme_string="JUDICIAL WATCH, INC. v. ROSSOTTI ET AL" gram_type="apposition" relation_type="asymmetric" id="131463_12" ></RELATION>
+
+<RELATION theme="131463_3" party1="131463_4" party1_string="JUDICIAL WATCH, INC." theme_string="JUDICIAL WATCH, INC. v. ROSSOTTI ET AL" gram_type="infix" relation_type="asymmetric" id="131463_10" ></RELATION>
+
+<RELATION party2="131463_5" theme="131463_3" theme_string="JUDICIAL WATCH, INC. v. ROSSOTTI ET AL" party2_string="ROSSOTTI ET AL" gram_type="infix" relation_type="asymmetric" id="131463_11" ></RELATION>
+
+<RELATION at_date_string="1849" theme="131463_2" at_date="131463_6" theme_string="02-1849" gram_type="infix" relation_type="asymmetric" id="131463_14" ></RELATION>
+

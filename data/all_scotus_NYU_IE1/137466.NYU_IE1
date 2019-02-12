@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['sterlingtexas#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._542_940" id1="137467" volume="542" start="0" page_number="940" standard_reporter="U.S." citation_global_level_id="3064.002" line="1" id="137466_1" citation_local_level_id="0" >542 U.S. 940</CITATION>
+
+<CITATION party2="TEXAS" party1="STERLING" citation_global_level_id="6017.001" party2_short="TEXAS" line="2" id="137466_2" alternative_keys="['u.s._542_940']" end="34" entry_type="party_key" lookup_key="sterlingtexas#1" id1="137466" start="17" party1_short="STERLING" citation_local_level_id="1" >STERLING v. TEXAS</CITATION>
+
+<NAME end="25" start="17" party1_of="137466_2" all_names="STERLING" local_name_id="1" id="137466_3" >STERLING</NAME>
+
+<NAME end="34" start="29" all_names="TEXAS" party2_of="137466_2" local_name_id="2" id="137466_4" >TEXAS</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="sterlingtexas#1" id1="137466" start="44" citation_global_level_id="6017.001" line="3" id="137466_7" citation_local_level_id="1" >03-9950</DOCKET>
+
+<ORGANIZATION start="57" end="87" id="137466_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="93" citation_global_level_id="6017.001" end="106" id="137466_9" citation_local_level_id="1" >June 28, 2004</DATE>
+
+<NAME start="128" local_name_id="3" end="130" id="137466_13" all_names="CT" >Ct</NAME>
+
+<RELATION theme="137466_2" party1="137466_3" party1_string="STERLING" theme_string="STERLING v. TEXAS" gram_type="infix" relation_type="asymmetric" id="137466_5" ></RELATION>
+
+<RELATION party2="137466_4" theme="137466_2" theme_string="STERLING v. TEXAS" party2_string="TEXAS" gram_type="infix" relation_type="asymmetric" id="137466_6" ></RELATION>
+
+<RELATION standard_case_string="542 U.S. 940" X_vs_Y_string="STERLING v. TEXAS" standard_case="137466_1" X_vs_Y="137466_2" gram_type="multi_line" relation_type="equivalence" id="137466_10" ></RELATION>
+
+<RELATION at_date_string="June 28, 2004" theme="137466_2" at_date="137466_9" theme_string="STERLING v. TEXAS" gram_type="multi_line" relation_type="asymmetric" id="137466_12" ></RELATION>
+
+<RELATION theme="137466_2" includes_docket_string="03-9950" includes_docket="137466_7" theme_string="STERLING v. TEXAS" gram_type="multi_line" relation_type="asymmetric" id="137466_11" ></RELATION>
+

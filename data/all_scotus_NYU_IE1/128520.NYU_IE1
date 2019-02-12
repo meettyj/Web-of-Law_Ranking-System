@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['smithmissouri#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_948" id1="128511" volume="538" start="0" page_number="948" standard_reporter="U.S." citation_global_level_id="2345.002" line="1" id="128520_1" citation_local_level_id="0" >538 U.S. 948</CITATION>
+
+<CITATION party2="MISSOURI" party1="SMITH" citation_global_level_id="49064.001" party2_short="MISSOURI" line="1" id="128520_3" alternative_keys="['u.s._538_948']" end="34" entry_type="party_key" lookup_key="smithmissouri#2" id1="128520" start="17" party1_short="SMITH" citation_local_level_id="1" >SMITH v. MISSOURI</CITATION>
+
+<NAME end="22" start="17" party1_of="128520_3" all_names="SMITH" local_name_id="1" id="128520_4" >SMITH</NAME>
+
+<NAME end="34" start="26" all_names="MISSOURI" party2_of="128520_3" local_name_id="2" id="128520_5" >MISSOURI</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="u.s._538_948" id1="128511" start="44" citation_global_level_id="2345.002" line="1" id="128520_2" citation_local_level_id="0" >02-8652</DOCKET>
+
+<DATE start="93" end="107" id="128520_6" >March 31, 2003</DATE>
+
+<NAME start="227" local_name_id="3" end="229" id="128520_13" all_names="CT" >Ct</NAME>
+
+<CITATION end="305" reporter="S. W. 3d" entry_type="standard_key" no_current_file="True" lookup_key="s.w.3d_90_132" id1="Dummy_File_116160" volume="90" start="290" page_number="132" standard_reporter="S.W.3D" citation_global_level_id="180010.001" line="3" id="128520_12" citation_local_level_id="2" >90 S. W. 3d 132</CITATION>
+
+<RELATION theme="128520_1" includes_docket_string="02-8652" includes_docket="128520_2" theme_string="538 U.S. 948" gram_type="apposition" relation_type="asymmetric" id="128520_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 948" X_vs_Y_string="SMITH v. MISSOURI" standard_case="128520_1" X_vs_Y="128520_3" gram_type="pre_nom" relation_type="equivalence" id="128520_7" ></RELATION>
+
+<RELATION theme="128520_3" includes_docket_string="02-8652" includes_docket="128520_2" theme_string="SMITH v. MISSOURI" gram_type="apposition" relation_type="asymmetric" id="128520_10" ></RELATION>
+
+<RELATION theme="128520_3" party1="128520_4" party1_string="SMITH" theme_string="SMITH v. MISSOURI" gram_type="infix" relation_type="asymmetric" id="128520_8" ></RELATION>
+
+<RELATION party2="128520_5" theme="128520_3" theme_string="SMITH v. MISSOURI" party2_string="MISSOURI" gram_type="infix" relation_type="asymmetric" id="128520_9" ></RELATION>
+

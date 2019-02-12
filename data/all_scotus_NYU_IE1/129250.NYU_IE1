@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['danielsboard#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1003" id1="129240" volume="538" start="0" page_number="1003" standard_reporter="U.S." citation_global_level_id="780.002" line="1" id="129250_1" citation_local_level_id="0" >538 U.S. 1003</CITATION>
+
+<CITATION party2="MISSOURI BOARD OF PROBATION AND PAROLE" party1="DANIELS" citation_global_level_id="35151.001" party2_short="BOARD" line="1" id="129250_3" alternative_keys="['u.s._538_1003']" end="67" entry_type="party_key" lookup_key="danielsboard#1" id1="129250" start="18" party1_short="DANIELS" citation_local_level_id="1" >DANIELS v. MISSOURI BOARD OF PROBATION AND PAROLE</CITATION>
+
+<NAME end="25" start="18" party1_of="129250_3" all_names="DANIELS" local_name_id="1" id="129250_4" >DANIELS</NAME>
+
+<NAME end="67" start="29" all_names="MISSOURI BOARD OF PROBATION AND PAROLE" party2_of="129250_3" local_name_id="2" id="129250_5" >MISSOURI BOARD OF PROBATION AND PAROLE</NAME>
+
+<DOCKET end="84" entry_type="docket" lookup_key="u.s._538_1003" id1="129240" start="77" citation_global_level_id="780.002" line="1" id="129250_2" citation_local_level_id="0" >02-9218</DOCKET>
+
+<DATE start="126" end="140" id="129250_6" >April 28, 2003</DATE>
+
+<NAME start="269" local_name_id="3" end="272" id="129250_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="129250_1" includes_docket_string="02-9218" includes_docket="129250_2" theme_string="538 U.S. 1003" gram_type="apposition" relation_type="asymmetric" id="129250_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1003" X_vs_Y_string="DANIELS v. MISSOURI BOARD OF PROBATION AND PAROLE" standard_case="129250_1" X_vs_Y="129250_3" gram_type="pre_nom" relation_type="equivalence" id="129250_7" ></RELATION>
+
+<RELATION theme="129250_3" includes_docket_string="02-9218" includes_docket="129250_2" theme_string="DANIELS v. MISSOURI BOARD OF PROBATION AND PAROLE" gram_type="apposition" relation_type="asymmetric" id="129250_10" ></RELATION>
+
+<RELATION theme="129250_3" party1="129250_4" party1_string="DANIELS" theme_string="DANIELS v. MISSOURI BOARD OF PROBATION AND PAROLE" gram_type="infix" relation_type="asymmetric" id="129250_8" ></RELATION>
+
+<RELATION party2="129250_5" theme="129250_3" theme_string="DANIELS v. MISSOURI BOARD OF PROBATION AND PAROLE" party2_string="MISSOURI BOARD OF PROBATION AND PAROLE" gram_type="infix" relation_type="asymmetric" id="129250_9" ></RELATION>
+

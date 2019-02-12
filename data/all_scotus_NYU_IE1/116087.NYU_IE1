@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['smithdelo#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1052" id1="116082" volume="510" start="0" page_number="1052" standard_reporter="U.S." citation_global_level_id="1532.002" line="1" id="116087_1" citation_local_level_id="0" >510 U.S. 1052</CITATION>
+
+<CITATION party2="Delo et al" party1="Smith" citation_global_level_id="62594.001" party2_short="Delo" line="1" id="116087_3" alternative_keys="['u.s._510_1052']" end="37" entry_type="party_key" lookup_key="smithdelo#1" id1="116087" start="18" party1_short="Smith" citation_local_level_id="1" >Smith v. Delo et al</CITATION>
+
+<NAME end="23" start="18" party1_of="116087_3" all_names="SMITH" local_name_id="1" id="116087_4" >Smith</NAME>
+
+<NAME end="37" start="27" all_names="DELO" party2_of="116087_3" local_name_id="2" id="116087_5" >Delo et al</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="u.s._510_1052" id1="116082" start="47" citation_global_level_id="1532.002" line="1" id="116087_2" citation_local_level_id="0" >93-6574</DOCKET>
+
+<DATE start="96" end="112" id="116087_6" >January 10, 1994</DATE>
+
+<NAME start="190" local_name_id="3" end="200" id="116087_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="238" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_995_827" id1="Dummy_File_163971" volume="995" start="225" page_number="827" standard_reporter="F.2D" citation_global_level_id="227821.001" line="3" id="116087_12" citation_local_level_id="2" >995 F. 2d 827</CITATION>
+
+<RELATION theme="116087_1" includes_docket_string="93-6574" includes_docket="116087_2" theme_string="510 U.S. 1052" gram_type="apposition" relation_type="asymmetric" id="116087_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1052" X_vs_Y_string="Smith v. Delo et al" standard_case="116087_1" X_vs_Y="116087_3" gram_type="pre_nom" relation_type="equivalence" id="116087_7" ></RELATION>
+
+<RELATION theme="116087_3" includes_docket_string="93-6574" includes_docket="116087_2" theme_string="Smith v. Delo et al" gram_type="apposition" relation_type="asymmetric" id="116087_10" ></RELATION>
+
+<RELATION theme="116087_3" party1="116087_4" party1_string="Smith" theme_string="Smith v. Delo et al" gram_type="infix" relation_type="asymmetric" id="116087_8" ></RELATION>
+
+<RELATION party2="116087_5" theme="116087_3" theme_string="Smith v. Delo et al" party2_string="Delo et al" gram_type="infix" relation_type="asymmetric" id="116087_9" ></RELATION>
+

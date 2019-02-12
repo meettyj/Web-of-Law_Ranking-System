@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['mattelrecords#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1171" id1="126937" volume="537" start="0" page_number="1171" standard_reporter="U.S." citation_global_level_id="1600.002" line="1" id="126934_1" citation_local_level_id="0" >537 U.S. 1171</CITATION>
+
+<CITATION party2="MCA RECORDS, INC., ET AL" party1="MATTEL, INC." citation_global_level_id="1600.005" party2_short="RECORDS" line="1" id="126934_3" alternative_keys="['u.s._537_1171']" end="58" entry_type="party_key" lookup_key="mattelrecords#2" id1="126937" start="18" party1_short="MATTEL" citation_local_level_id="1" >MATTEL, INC. v. MCA RECORDS, INC., ET AL</CITATION>
+
+<NAME end="30" start="18" party1_of="126934_3" all_names="MATTEL INC" local_name_id="1" id="126934_4" >MATTEL, INC.</NAME>
+
+<ORGANIZATION start="18" end="29" id="126934_7" >MATTEL, INC</ORGANIZATION>
+
+<NAME end="58" start="34" all_names="MCA RECORDS INC" party2_of="126934_3" local_name_id="2" id="126934_5" >MCA RECORDS, INC., ET AL</NAME>
+
+<DOCKET end="74" entry_type="docket" lookup_key="u.s._537_1171" id1="126937" start="68" citation_global_level_id="1600.002" line="1" id="126934_2" citation_local_level_id="0" >02-633</DOCKET>
+
+<DATE start="116" end="132" id="126934_6" >January 27, 2003</DATE>
+
+<NAME start="261" local_name_id="3" end="264" id="126934_14" all_names="CIR" >Cir</NAME>
+
+<CITATION end="314" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_296_894" id1="Dummy_File_108541" volume="296" start="301" page_number="894" standard_reporter="F.3D" citation_global_level_id="172391.001" line="3" id="126934_13" citation_local_level_id="2" >296 F. 3d 894</CITATION>
+
+<RELATION theme="126934_1" includes_docket_string="02-633" includes_docket="126934_2" theme_string="537 U.S. 1171" gram_type="apposition" relation_type="asymmetric" id="126934_12" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1171" X_vs_Y_string="MATTEL, INC. v. MCA RECORDS, INC., ET AL" standard_case="126934_1" X_vs_Y="126934_3" gram_type="pre_nom" relation_type="equivalence" id="126934_8" ></RELATION>
+
+<RELATION theme="126934_3" includes_docket_string="02-633" includes_docket="126934_2" theme_string="MATTEL, INC. v. MCA RECORDS, INC., ET AL" gram_type="apposition" relation_type="asymmetric" id="126934_11" ></RELATION>
+
+<RELATION party2="126934_5" theme="126934_3" theme_string="MATTEL, INC. v. MCA RECORDS, INC., ET AL" party2_string="MCA RECORDS, INC., ET AL" gram_type="infix" relation_type="asymmetric" id="126934_10" ></RELATION>
+
+<RELATION theme="126934_3" party1="126934_4" party1_string="MATTEL, INC." theme_string="MATTEL, INC. v. MCA RECORDS, INC., ET AL" gram_type="infix" relation_type="asymmetric" id="126934_9" ></RELATION>
+

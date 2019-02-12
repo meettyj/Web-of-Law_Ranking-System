@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['sandersexecutrix#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_962" id1="143656" volume="544" start="0" page_number="962" standard_reporter="U.S." citation_global_level_id="1878.002" line="1" id="143655_1" citation_local_level_id="0" >544 U.S. 962</CITATION>
+
+<CITATION party2="VINE, EXECUTRIX OF THE ESTATE OF SANDERS" party1="SANDERS" citation_global_level_id="1878.003" party2_short="EXECUTRIX" line="2" id="143655_3" alternative_keys="['u.s._544_962']" end="68" entry_type="party_key" lookup_key="sandersexecutrix#1" id1="143656" start="17" party1_short="SANDERS" citation_local_level_id="1" >SANDERS v. VINE, EXECUTRIX OF THE ESTATE OF SANDERS</CITATION>
+
+<NAME end="24" start="17" party1_of="143655_3" all_names="SANDERS	VINE EXECUTRIX OF THE ESTATE OF SANDERS" local_name_id="1" id="143655_4" >SANDERS</NAME>
+
+<NAME end="68" start="28" all_names="SANDERS	VINE EXECUTRIX OF THE ESTATE OF SANDERS" party2_of="143655_3" local_name_id="1" id="143655_5" >VINE, EXECUTRIX OF THE ESTATE OF SANDERS</NAME>
+
+<DOCKET alternative_keys="['u.s._544_962']" end="85" entry_type="docket" lookup_key="sandersexecutrix#1" id1="143656" start="78" citation_global_level_id="1878.003" line="2" id="143655_2" citation_local_level_id="1" >04-1087</DOCKET>
+
+<ORGANIZATION start="91" end="121" id="143655_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="127" citation_global_level_id="1878.003" end="140" id="143655_10" citation_local_level_id="1" >April 4, 2005</DATE>
+
+<NAME start="162" local_name_id="2" end="164" id="143655_13" all_names="CT" >Ct</NAME>
+
+<RELATION theme="143655_3" includes_docket_string="04-1087" includes_docket="143655_2" theme_string="SANDERS v. VINE, EXECUTRIX OF THE ESTATE OF SANDERS" gram_type="apposition" relation_type="asymmetric" id="143655_8" ></RELATION>
+
+<RELATION theme="143655_3" party1="143655_4" party1_string="SANDERS" theme_string="SANDERS v. VINE, EXECUTRIX OF THE ESTATE OF SANDERS" gram_type="infix" relation_type="asymmetric" id="143655_6" ></RELATION>
+
+<RELATION party2="143655_5" theme="143655_3" theme_string="SANDERS v. VINE, EXECUTRIX OF THE ESTATE OF SANDERS" party2_string="VINE, EXECUTRIX OF THE ESTATE OF SANDERS" gram_type="infix" relation_type="asymmetric" id="143655_7" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 962" X_vs_Y_string="SANDERS v. VINE, EXECUTRIX OF THE ESTATE OF SANDERS" standard_case="143655_1" X_vs_Y="143655_3" gram_type="multi_line" relation_type="equivalence" id="143655_11" ></RELATION>
+
+<RELATION at_date_string="April 4, 2005" theme="143655_3" at_date="143655_10" theme_string="SANDERS v. VINE, EXECUTRIX OF THE ESTATE OF SANDERS" gram_type="multi_line" relation_type="asymmetric" id="143655_12" ></RELATION>
+

@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['courtdow#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1110" id1="116753" volume="510" start="0" page_number="1110" standard_reporter="U.S." citation_global_level_id="9240.002" line="1" id="116748_1" citation_local_level_id="0" >510 U.S. 1110</CITATION>
+
+<CITATION party2="Dow" party1="Circuit Court of the First Circuit et al." citation_global_level_id="26631.001" party2_short="Dow" line="1" id="116748_3" alternative_keys="['u.s._510_1110']" end="66" entry_type="party_key" lookup_key="courtdow#1" id1="116748" start="18" party1_short="Court" citation_local_level_id="1" >Circuit Court of the First Circuit et al. v. Dow</CITATION>
+
+<NAME end="59" start="18" party1_of="116748_3" all_names="CIRCUIT COURT OF THE FIRST CIRCUIT" local_name_id="1" id="116748_4" >Circuit Court of the First Circuit et al.</NAME>
+
+<ORGANIZATION start="18" end="52" id="116748_7" >Circuit Court of the First Circuit</ORGANIZATION>
+
+<NAME end="66" start="63" all_names="DOW" party2_of="116748_3" local_name_id="2" id="116748_5" >Dow</NAME>
+
+<DOCKET end="82" entry_type="docket" lookup_key="u.s._510_1110" id1="116753" start="76" citation_global_level_id="9240.002" line="1" id="116748_2" citation_local_level_id="0" >93-701</DOCKET>
+
+<DATE start="124" end="141" id="116748_6" >February 22, 1994</DATE>
+
+<NAME start="219" local_name_id="3" end="229" id="116748_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="267" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_995_922" id1="Dummy_File_133948" volume="995" start="254" page_number="922" standard_reporter="F.2D" citation_global_level_id="197798.001" line="3" id="116748_13" citation_local_level_id="2" >995 F. 2d 922</CITATION>
+
+<RELATION theme="116748_1" includes_docket_string="93-701" includes_docket="116748_2" theme_string="510 U.S. 1110" gram_type="apposition" relation_type="asymmetric" id="116748_12" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1110" X_vs_Y_string="Circuit Court of the First Circuit et al. v. Dow" standard_case="116748_1" X_vs_Y="116748_3" gram_type="pre_nom" relation_type="equivalence" id="116748_8" ></RELATION>
+
+<RELATION theme="116748_3" includes_docket_string="93-701" includes_docket="116748_2" theme_string="Circuit Court of the First Circuit et al. v. Dow" gram_type="apposition" relation_type="asymmetric" id="116748_11" ></RELATION>
+
+<RELATION party2="116748_5" theme="116748_3" theme_string="Circuit Court of the First Circuit et al. v. Dow" party2_string="Dow" gram_type="infix" relation_type="asymmetric" id="116748_10" ></RELATION>
+
+<RELATION theme="116748_3" party1="116748_4" party1_string="Circuit Court of the First Circuit et al." theme_string="Circuit Court of the First Circuit et al. v. Dow" gram_type="infix" relation_type="asymmetric" id="116748_9" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['bostichurst#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1183" id1="117494" volume="510" start="0" page_number="1183" standard_reporter="U.S." citation_global_level_id="1422.002" line="1" id="117496_1" citation_local_level_id="0" >510 U.S. 1183</CITATION>
+
+<CITATION party2="Hurst et al" party1="Bostic" citation_global_level_id="56604.001" party2_short="Hurst" line="1" id="117496_3" alternative_keys="['u.s._510_1183']" end="39" entry_type="party_key" lookup_key="bostichurst#1" id1="117496" start="18" party1_short="Bostic" citation_local_level_id="1" >Bostic v. Hurst et al</CITATION>
+
+<NAME end="24" start="18" party1_of="117496_3" all_names="BOSTIC" local_name_id="1" id="117496_4" >Bostic</NAME>
+
+<NAME end="39" start="28" all_names="HURST" party2_of="117496_3" local_name_id="2" id="117496_5" >Hurst et al</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._510_1183" id1="117494" start="49" citation_global_level_id="1422.002" line="1" id="117496_2" citation_local_level_id="0" >93-7713</DOCKET>
+
+<DATE start="98" end="111" id="117496_6" >March 7, 1994</DATE>
+
+<NAME start="189" local_name_id="3" end="199" id="117496_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="235" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_9_106" id1="Dummy_File_65635" volume="9" start="224" page_number="106" standard_reporter="F.3D" citation_global_level_id="129485.001" line="3" id="117496_12" citation_local_level_id="2" >9 F. 3d 106</CITATION>
+
+<RELATION theme="117496_1" includes_docket_string="93-7713" includes_docket="117496_2" theme_string="510 U.S. 1183" gram_type="apposition" relation_type="asymmetric" id="117496_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1183" X_vs_Y_string="Bostic v. Hurst et al" standard_case="117496_1" X_vs_Y="117496_3" gram_type="pre_nom" relation_type="equivalence" id="117496_7" ></RELATION>
+
+<RELATION theme="117496_3" includes_docket_string="93-7713" includes_docket="117496_2" theme_string="Bostic v. Hurst et al" gram_type="apposition" relation_type="asymmetric" id="117496_10" ></RELATION>
+
+<RELATION theme="117496_3" party1="117496_4" party1_string="Bostic" theme_string="Bostic v. Hurst et al" gram_type="infix" relation_type="asymmetric" id="117496_8" ></RELATION>
+
+<RELATION party2="117496_5" theme="117496_3" theme_string="Bostic v. Hurst et al" party2_string="Hurst et al" gram_type="infix" relation_type="asymmetric" id="117496_9" ></RELATION>
+

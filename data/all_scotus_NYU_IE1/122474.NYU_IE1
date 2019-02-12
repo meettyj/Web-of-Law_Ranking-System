@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['goodincity#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_819" id1="122475" volume="537" start="0" page_number="819" standard_reporter="U.S." citation_global_level_id="3388.002" line="1" id="122474_1" citation_local_level_id="0" >537 U.S. 819</CITATION>
+
+<CITATION party2="CITY OF JACKSONVILLE ET AL" party1="GOODIN" citation_global_level_id="56452.001" party2_short="CITY" line="1" id="122474_3" alternative_keys="['u.s._537_819']" end="53" entry_type="party_key" lookup_key="goodincity#2" id1="125640" start="17" party1_short="GOODIN" citation_local_level_id="1" >GOODIN v. CITY OF JACKSONVILLE ET AL</CITATION>
+
+<NAME end="23" start="17" party1_of="122474_3" all_names="GOODIN" local_name_id="1" id="122474_4" >GOODIN</NAME>
+
+<NAME end="53" start="27" all_names="CITY OF JACKSONVILLE" party2_of="122474_3" local_name_id="2" id="122474_5" >CITY OF JACKSONVILLE ET AL</NAME>
+
+<DOCKET end="70" entry_type="docket" lookup_key="u.s._537_819" id1="122475" start="63" citation_global_level_id="3388.002" line="1" id="122474_2" citation_local_level_id="0" >01-1745</DOCKET>
+
+<DATE start="66" end="70" id="122474_6" >1745</DATE>
+
+<DATE start="112" end="127" id="122474_7" >October 7, 2002</DATE>
+
+<NAME start="260" local_name_id="3" end="263" id="122474_14" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="122474_1" includes_docket_string="01-1745" includes_docket="122474_2" theme_string="537 U.S. 819" gram_type="apposition" relation_type="asymmetric" id="122474_12" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 819" X_vs_Y_string="GOODIN v. CITY OF JACKSONVILLE ET AL" standard_case="122474_1" X_vs_Y="122474_3" gram_type="pre_nom" relation_type="equivalence" id="122474_8" ></RELATION>
+
+<RELATION theme="122474_3" includes_docket_string="01-1745" includes_docket="122474_2" theme_string="GOODIN v. CITY OF JACKSONVILLE ET AL" gram_type="apposition" relation_type="asymmetric" id="122474_11" ></RELATION>
+
+<RELATION party2="122474_5" theme="122474_3" theme_string="GOODIN v. CITY OF JACKSONVILLE ET AL" party2_string="CITY OF JACKSONVILLE ET AL" gram_type="infix" relation_type="asymmetric" id="122474_10" ></RELATION>
+
+<RELATION theme="122474_3" party1="122474_4" party1_string="GOODIN" theme_string="GOODIN v. CITY OF JACKSONVILLE ET AL" gram_type="infix" relation_type="asymmetric" id="122474_9" ></RELATION>
+
+<RELATION at_date_string="1745" theme="122474_2" at_date="122474_6" theme_string="01-1745" gram_type="infix" relation_type="asymmetric" id="122474_13" ></RELATION>
+

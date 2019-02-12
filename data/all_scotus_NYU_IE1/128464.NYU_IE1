@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['tinnercompany#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_944" id1="128457" volume="538" start="0" page_number="944" standard_reporter="U.S." citation_global_level_id="3504.002" line="1" id="128464_1" citation_local_level_id="0" >538 U.S. 944</CITATION>
+
+<CITATION party2="UNITED INSURANCE COMPANY OF AMERICA" party1="TINNER" citation_global_level_id="41382.001" party2_short="COMPANY" line="1" id="128464_3" alternative_keys="['u.s._538_944']" end="62" entry_type="party_key" lookup_key="tinnercompany#1" id1="128464" start="17" party1_short="TINNER" citation_local_level_id="1" >TINNER v. UNITED INSURANCE COMPANY OF AMERICA</CITATION>
+
+<NAME end="23" start="17" party1_of="128464_3" all_names="TINNER" local_name_id="1" id="128464_4" >TINNER</NAME>
+
+<NAME end="62" start="27" all_names="UNITED INSURANCE COMPANY OF AMERICA" party2_of="128464_3" local_name_id="2" id="128464_5" >UNITED INSURANCE COMPANY OF AMERICA</NAME>
+
+<DOCKET end="79" entry_type="docket" lookup_key="u.s._538_944" id1="128457" start="72" citation_global_level_id="3504.002" line="1" id="128464_2" citation_local_level_id="0" >02-1049</DOCKET>
+
+<DATE start="121" end="135" id="128464_6" >March 31, 2003</DATE>
+
+<NAME start="266" local_name_id="3" end="269" id="128464_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="319" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_308_697" id1="Dummy_File_221715" volume="308" start="306" page_number="697" standard_reporter="F.3D" citation_global_level_id="285565.001" line="3" id="128464_12" citation_local_level_id="2" >308 F. 3d 697</CITATION>
+
+<RELATION theme="128464_1" includes_docket_string="02-1049" includes_docket="128464_2" theme_string="538 U.S. 944" gram_type="apposition" relation_type="asymmetric" id="128464_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 944" X_vs_Y_string="TINNER v. UNITED INSURANCE COMPANY OF AMERICA" standard_case="128464_1" X_vs_Y="128464_3" gram_type="pre_nom" relation_type="equivalence" id="128464_7" ></RELATION>
+
+<RELATION theme="128464_3" includes_docket_string="02-1049" includes_docket="128464_2" theme_string="TINNER v. UNITED INSURANCE COMPANY OF AMERICA" gram_type="apposition" relation_type="asymmetric" id="128464_10" ></RELATION>
+
+<RELATION theme="128464_3" party1="128464_4" party1_string="TINNER" theme_string="TINNER v. UNITED INSURANCE COMPANY OF AMERICA" gram_type="infix" relation_type="asymmetric" id="128464_8" ></RELATION>
+
+<RELATION party2="128464_5" theme="128464_3" theme_string="TINNER v. UNITED INSURANCE COMPANY OF AMERICA" party2_string="UNITED INSURANCE COMPANY OF AMERICA" gram_type="infix" relation_type="asymmetric" id="128464_9" ></RELATION>
+

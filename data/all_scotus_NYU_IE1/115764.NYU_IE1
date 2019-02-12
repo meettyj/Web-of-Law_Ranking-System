@@ -1,0 +1,36 @@
+<CITATION alternative_keys="['tronicstates#3']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1023" id1="115765" volume="510" start="0" page_number="1023" standard_reporter="U.S." citation_global_level_id="10804.002" line="1" id="115764_1" citation_local_level_id="0" >510 U.S. 1023</CITATION>
+
+<CITATION party2="United States et al" party1="Key Tronic Corp." citation_global_level_id="22430.001" party2_short="States" line="1" id="115764_3" alternative_keys="['u.s._510_1023']" end="57" entry_type="party_key" lookup_key="tronicstates#3" id1="1087945" start="18" party1_short="Tronic" citation_local_level_id="1" >Key Tronic Corp. v. United States et al</CITATION>
+
+<NAME end="34" start="18" party1_of="115764_3" all_names="KEY TRONIC CORP" local_name_id="1" id="115764_5" >Key Tronic Corp.</NAME>
+
+<ORGANIZATION start="18" end="33" id="115764_10" >Key Tronic Corp</ORGANIZATION>
+
+<NAME end="57" start="38" all_names="UNITED STATES" party2_of="115764_3" local_name_id="2" id="115764_6" >United States et al</NAME>
+
+<CITATION party2="Lohrey Enterprises, Inc., et al" party1="Stanton Road Associates" citation_global_level_id="118045.001" party2_short="Enterprises" line="1" id="115764_4" end="122" no_current_file="True" entry_type="party_key" lookup_key="associatesenterprises#1" id1="Dummy_File_54195" start="64" party1_short="Associates" citation_local_level_id="2" >Stanton Road Associates v. Lohrey Enterprises, Inc., et al</CITATION>
+
+<NAME end="87" start="64" party1_of="115764_4" all_names="STANTON ROAD ASSOCIATES" local_name_id="3" id="115764_7" >Stanton Road Associates</NAME>
+
+<NAME end="122" start="91" all_names="LOHREY ENTERPRISES INC" party2_of="115764_4" local_name_id="4" id="115764_8" >Lohrey Enterprises, Inc., et al</NAME>
+
+<DOCKET end="138" no_current_file="True" entry_type="docket" lookup_key="associatesenterprises#1" id1="Dummy_File_54195" start="132" citation_global_level_id="118045.001" line="1" id="115764_2" citation_local_level_id="2" >93-376</DOCKET>
+
+<DATE start="180" end="197" id="115764_9" >December 13, 1993</DATE>
+
+<NAME start="275" local_name_id="5" end="285" id="115764_18" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION alternative_keys="['tronicstates#3']" end="337" reporter="F.2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_984_1025" id1="1087945" volume="984" start="311" page_number="1025" standard_reporter="F.2D" citation_global_level_id="22430.005" line="3" id="115764_17" citation_local_level_id="3" >984 F.2d 1025 (first case)</CITATION>
+
+<RELATION standard_case_string="510 U.S. 1023" X_vs_Y_string="Key Tronic Corp. v. United States et al" standard_case="115764_1" X_vs_Y="115764_3" gram_type="pre_nom" relation_type="equivalence" id="115764_11" ></RELATION>
+
+<RELATION theme="115764_3" party1="115764_5" party1_string="Key Tronic Corp." theme_string="Key Tronic Corp. v. United States et al" gram_type="infix" relation_type="asymmetric" id="115764_12" ></RELATION>
+
+<RELATION party2="115764_6" theme="115764_3" theme_string="Key Tronic Corp. v. United States et al" party2_string="United States et al" gram_type="infix" relation_type="asymmetric" id="115764_13" ></RELATION>
+
+<RELATION theme="115764_4" includes_docket_string="93-376" includes_docket="115764_2" theme_string="Stanton Road Associates v. Lohrey Enterprises, Inc., et al" gram_type="apposition" relation_type="asymmetric" id="115764_16" ></RELATION>
+
+<RELATION theme="115764_4" party1="115764_7" party1_string="Stanton Road Associates" theme_string="Stanton Road Associates v. Lohrey Enterprises, Inc., et al" gram_type="infix" relation_type="asymmetric" id="115764_14" ></RELATION>
+
+<RELATION party2="115764_8" theme="115764_4" theme_string="Stanton Road Associates v. Lohrey Enterprises, Inc., et al" party2_string="Lohrey Enterprises, Inc., et al" gram_type="infix" relation_type="asymmetric" id="115764_15" ></RELATION>
+

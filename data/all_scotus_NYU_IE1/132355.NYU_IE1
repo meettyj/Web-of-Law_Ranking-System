@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['mccormickkansas#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_892" id1="132355" volume="540" start="0" page_number="892" standard_reporter="U.S." citation_global_level_id="7733.002" line="1" id="132355_1" citation_local_level_id="0" >540 U.S. 892</CITATION>
+
+<CITATION party2="KANSAS" party1="McCORMICK" citation_global_level_id="7733.001" party2_short="KANSAS" line="1" id="132355_3" alternative_keys="['u.s._540_892']" end="36" entry_type="party_key" lookup_key="mccormickkansas#1" id1="132355" start="17" party1_short="McCORMICK" citation_local_level_id="1" >McCORMICK v. KANSAS</CITATION>
+
+<NAME end="26" start="17" party1_of="132355_3" all_names="MCCORMICK" local_name_id="1" id="132355_4" >McCORMICK</NAME>
+
+<NAME end="36" start="30" all_names="KANSAS" party2_of="132355_3" local_name_id="2" id="132355_5" >KANSAS</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="u.s._540_892" id1="132355" start="46" citation_global_level_id="7733.002" line="1" id="132355_2" citation_local_level_id="0" >03-5162</DOCKET>
+
+<DATE start="95" end="110" id="132355_6" >October 6, 2003</DATE>
+
+<NAME start="187" local_name_id="3" end="197" id="132355_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="256" reporter="P. 3d" entry_type="standard_key" no_current_file="True" lookup_key="p.3d_60_942" id1="Dummy_File_139255" volume="60" start="244" page_number="942" standard_reporter="P.3D" citation_global_level_id="203105.001" line="3" id="132355_12" citation_local_level_id="2" >60 P. 3d 942</CITATION>
+
+<RELATION theme="132355_1" includes_docket_string="03-5162" includes_docket="132355_2" theme_string="540 U.S. 892" gram_type="apposition" relation_type="asymmetric" id="132355_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 892" X_vs_Y_string="McCORMICK v. KANSAS" standard_case="132355_1" X_vs_Y="132355_3" gram_type="pre_nom" relation_type="equivalence" id="132355_7" ></RELATION>
+
+<RELATION theme="132355_3" includes_docket_string="03-5162" includes_docket="132355_2" theme_string="McCORMICK v. KANSAS" gram_type="apposition" relation_type="asymmetric" id="132355_10" ></RELATION>
+
+<RELATION theme="132355_3" party1="132355_4" party1_string="McCORMICK" theme_string="McCORMICK v. KANSAS" gram_type="infix" relation_type="asymmetric" id="132355_8" ></RELATION>
+
+<RELATION party2="132355_5" theme="132355_3" theme_string="McCORMICK v. KANSAS" party2_string="KANSAS" gram_type="infix" relation_type="asymmetric" id="132355_9" ></RELATION>
+

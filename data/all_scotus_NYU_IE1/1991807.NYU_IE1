@@ -1,0 +1,22 @@
+<DATE start="2" end="6" id="1991807_1" >2005</DATE>
+
+<CITATION party2="TRUE, WARDEN" party1="KEVIN GREEN" citation_global_level_id="232083.001" party2_short="WARDEN" line="5" id="1991807_3" end="37" no_current_file="True" entry_type="party_key" lookup_key="greenwarden#10" id1="Dummy_File_168233" start="8" party1_short="GREEN" citation_local_level_id="0" >KEVIN GREEN v. TRUE, WARDEN</CITATION>
+
+<NAME end="19" start="8" party1_of="1991807_3" all_names="KEVIN GREEN" local_name_id="1" id="1991807_4" >KEVIN GREEN</NAME>
+
+<NAME end="37" start="25" all_names="TRUE WARDEN" party2_of="1991807_3" local_name_id="2" id="1991807_5" >TRUE, WARDEN</NAME>
+
+<DOCKET end="49" no_current_file="True" entry_type="docket" lookup_key="greenwarden#10" id1="Dummy_File_168233" start="42" citation_global_level_id="232083.001" line="6" id="1991807_8" citation_local_level_id="0" >05-6999</DOCKET>
+
+<ORGANIZATION start="51" end="81" id="1991807_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="83" citation_global_level_id="232083.001" end="99" id="1991807_10" citation_local_level_id="0" >December 5, 2005</DATE>
+
+<RELATION theme="1991807_3" party1="1991807_4" party1_string="KEVIN GREEN" theme_string="KEVIN GREEN  v.  TRUE, WARDEN" gram_type="infix" relation_type="asymmetric" id="1991807_6" ></RELATION>
+
+<RELATION party2="1991807_5" theme="1991807_3" theme_string="KEVIN GREEN  v.  TRUE, WARDEN" party2_string="TRUE, WARDEN" gram_type="infix" relation_type="asymmetric" id="1991807_7" ></RELATION>
+
+<RELATION at_date_string="December 5, 2005" theme="1991807_3" at_date="1991807_10" theme_string="KEVIN GREEN  v.  TRUE, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="1991807_12" ></RELATION>
+
+<RELATION theme="1991807_3" includes_docket_string="05-6999" includes_docket="1991807_8" theme_string="KEVIN GREEN  v.  TRUE, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="1991807_11" ></RELATION>
+

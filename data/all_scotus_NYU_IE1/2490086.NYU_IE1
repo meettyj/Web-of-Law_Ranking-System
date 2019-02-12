@@ -1,0 +1,54 @@
+<CITATION alternative_keys="['smithcompany#1', 'cranch_7_434']" end="19" reporter="U.S." entry_type="standard_key" lookup_key="u.s._11_434" id1="2490086" volume="11" start="1" page_number="434" year="1813" standard_reporter="U.S." citation_global_level_id="29988.002" line="2" id="2490086_1" citation_local_level_id="0" >11 U.S. 434 (1813)</CITATION>
+
+<DATE start="14" citation_global_level_id="29988.002" end="18" id="2490086_2" citation_local_level_id="0" >1813</DATE>
+
+<CITATION alternative_keys="['u.s._11_434', 'smithcompany#1']" end="32" reporter="Cranch" entry_type="standard_key" lookup_key="cranch_7_434" id1="2490086" volume="7" start="20" page_number="434" standard_reporter="CRANCH" citation_global_level_id="29988.003" line="3" id="2490086_4" citation_local_level_id="1" >7 Cranch 434</CITATION>
+
+<CITATION party2="THE DELAWARE INSURANCE COMPANY" party1="SMITH AND BUCHANAN" citation_global_level_id="60510.001" party2_short="COMPANY" line="6" id="2490086_6" alternative_keys="['u.s._11_434', 'cranch_7_434']" end="87" entry_type="party_key" lookup_key="smithcompany#1" id1="85025" start="33" party1_short="SMITH" citation_local_level_id="2" >SMITH AND BUCHANAN v. THE DELAWARE INSURANCE COMPANY</CITATION>
+
+<NAME end="51" start="33" party1_of="2490086_6" all_names="SMITH AND BUCHANAN" local_name_id="1" id="2490086_7" >SMITH AND BUCHANAN</NAME>
+
+<NAME end="87" start="57" all_names="THE DELAWARE INSURANCE COMPANY" party2_of="2490086_6" local_name_id="2" id="2490086_8" >THE DELAWARE INSURANCE COMPANY</NAME>
+
+<ORGANIZATION start="89" end="119" id="2490086_11" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="121" citation_global_level_id="60510.001" end="134" id="2490086_12" citation_local_level_id="2" >March 9, 1813</DATE>
+
+<NAME start="136" local_name_id="3" end="159" id="2490086_13" all_names="ABSENT WASHINGTON" >Absent ... . WASHINGTON</NAME>
+
+<NAME start="161" local_name_id="4" end="172" id="2490086_14" all_names="J AND TODD" >J. and TODD</NAME>
+
+<NAME start="182" local_name_id="5" end="189" id="2490086_18" all_names="PINKNEY" >PINKNEY</NAME>
+
+<PROFESSION start="191" document_level_name_id="5" end="207" id="2490086_19" party="PINKNEY" >Attorney General</PROFESSION>
+
+<LEGAL_ROLE start="213" end="223" plural="True" id="2490086_20" >Plaintiffs</LEGAL_ROLE>
+
+<NAME start="234" local_name_id="6" end="240" id="2490086_22" all_names="HARPER" >HARPER</NAME>
+
+<NAME start="250" local_name_id="7" end="262" id="2490086_23" all_names="MARSHALL CH" >MARSHALL, Ch</NAME>
+
+<PROFESSION start="337" end="344" id="2490086_24" >general</PROFESSION>
+
+<ORGANIZATION start="393" end="398" id="2490086_25" >Court</ORGANIZATION>
+
+<NAME start="400" local_name_id="8" end="402" id="2490086_26" all_names="IF" >If</NAME>
+
+<ORGANIZATION start="428" end="448" id="2490086_27" >Plaintiffs the Court</ORGANIZATION>
+
+<NAME start="607" local_name_id="9" end="615" id="2490086_28" all_names="JUDGMENT" >Judgment</NAME>
+
+<RELATION at_date_string="1813" theme="2490086_1" at_date="2490086_2" theme_string="11 U.S. 434 (1813)" gram_type="infix" relation_type="asymmetric" id="2490086_3" ></RELATION>
+
+<RELATION party2="2490086_8" theme="2490086_6" theme_string="SMITH AND BUCHANAN  v.  THE DELAWARE INSURANCE COMPANY" party2_string="THE DELAWARE INSURANCE COMPANY" gram_type="infix" relation_type="asymmetric" id="2490086_10" ></RELATION>
+
+<RELATION theme="2490086_6" party1="2490086_7" party1_string="SMITH AND BUCHANAN" theme_string="SMITH AND BUCHANAN  v.  THE DELAWARE INSURANCE COMPANY" gram_type="infix" relation_type="asymmetric" id="2490086_9" ></RELATION>
+
+<RELATION standard_case_string="11 U.S. 434 (1813)" X_vs_Y_string="SMITH AND BUCHANAN  v.  THE DELAWARE INSURANCE COMPANY" standard_case="2490086_1" X_vs_Y="2490086_6" gram_type="multi_line" relation_type="equivalence" id="2490086_15" ></RELATION>
+
+<RELATION standard_case_string="7 Cranch 434" X_vs_Y_string="SMITH AND BUCHANAN  v.  THE DELAWARE INSURANCE COMPANY" standard_case="2490086_4" X_vs_Y="2490086_6" gram_type="multi_line" relation_type="equivalence" id="2490086_16" ></RELATION>
+
+<RELATION at_date_string="March 9, 1813" theme="2490086_6" at_date="2490086_12" theme_string="SMITH AND BUCHANAN  v.  THE DELAWARE INSURANCE COMPANY" gram_type="multi_line" relation_type="asymmetric" id="2490086_17" ></RELATION>
+
+<RELATION theme="2490086_18" profession_string="Attorney General" theme_string="PINKNEY" profession="2490086_19" gram_type="apposition" relation_type="asymmetric" id="2490086_21" ></RELATION>
+

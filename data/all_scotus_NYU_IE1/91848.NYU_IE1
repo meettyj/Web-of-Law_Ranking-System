@@ -1,0 +1,72 @@
+<CITATION alternative_keys="['inssame#1', 'grantmut#1', 's.ct._7_586', 'l.ed._30_658']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._120_271" id1="91848" volume="120" start="0" page_number="271" standard_reporter="U.S." citation_global_level_id="26852.002" line="1" id="91848_1" citation_local_level_id="0" >120 U.S. 271</CITATION>
+
+<CITATION alternative_keys="['u.s._120_271', 'inssame#1', 'grantmut#1', 'l.ed._30_658']" end="29" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._7_586" id1="91848" volume="7" start="17" page_number="586" standard_reporter="S.CT." citation_global_level_id="26852.003" line="2" id="91848_2" citation_local_level_id="1" >7 S. Ct. 586</CITATION>
+
+<CITATION alternative_keys="['u.s._120_271', 's.ct._7_586', 'inssame#1', 'grantmut#1']" end="47" reporter="L. Ed." entry_type="standard_key" lookup_key="l.ed._30_658" id1="91848" volume="30" start="34" page_number="658" standard_reporter="L.ED." citation_global_level_id="26852.004" line="3" id="91848_3" citation_local_level_id="2" >30 L. Ed. 658</CITATION>
+
+<CITATION party2="PHOENIX MUT" party1="GRANT" citation_global_level_id="26852.007" party2_short="MUT" line="4" id="91848_4" alternative_keys="['inssame#1', 's.ct._7_586', 'l.ed._30_658', 'u.s._120_271']" end="72" no_current_file="True" entry_type="party_key" lookup_key="grantmut#1" id1="91848" start="52" party1_short="GRANT" citation_local_level_id="3" >GRANT v. PHOENIX MUT</CITATION>
+
+<NAME end="57" start="52" party1_of="91848_4" all_names="GRANT" local_name_id="1" id="91848_6" >GRANT</NAME>
+
+<NAME end="72" start="61" all_names="PHOENIX MUT" party2_of="91848_4" local_name_id="2" id="91848_7" >PHOENIX MUT</NAME>
+
+<CITATION party2="SAME" party1="LIFE INS. CO. GRANT and another" citation_global_level_id="26852.006" party2_short="SAME" line="4" id="91848_5" alternative_keys="['grantmut#1', 's.ct._7_586', 'l.ed._30_658', 'u.s._120_271']" end="113" entry_type="party_key" lookup_key="inssame#1" id1="91848" start="74" party1_short="INS" citation_local_level_id="4" >LIFE INS. CO. GRANT and another v. SAME</CITATION>
+
+<NAME end="105" start="74" party1_of="91848_5" all_names="LIFE INS CO GRANT AND ANOTHER" local_name_id="3" id="91848_8" >LIFE INS. CO. GRANT and another</NAME>
+
+<NAME end="113" start="109" all_names="SAME" party2_of="91848_5" local_name_id="4" id="91848_9" >SAME</NAME>
+
+<DATE start="119" citation_global_level_id="26852.007" end="135" id="91848_14" citation_local_level_id="3" >January 31, 1887</DATE>
+
+<NAME start="148" local_name_id="5" end="159" id="91848_23" all_names="H W BLAIR" >H. W. Blair</NAME>
+
+<LEGAL_ROLE start="165" end="175" plural="True" id="91848_24" >appellants</LEGAL_ROLE>
+
+<NAME start="183" local_name_id="6" end="185" id="91848_25" all_names="WM" >Wm</NAME>
+
+<NAME start="239" local_name_id="7" end="244" id="91848_26" all_names="WAITE" >Waite</NAME>
+
+<NAME start="246" local_name_id="8" end="250" id="91848_27" all_names="C J" >C. J</NAME>
+
+<PROFESSION start="439" end="444" id="91848_28" >clerk</PROFESSION>
+
+<LEGAL_ROLE start="572" end="581" id="91848_29" party="party1" >appellant</LEGAL_ROLE>
+
+<PROFESSION start="681" end="686" id="91848_30" >clerk</PROFESSION>
+
+<LEGAL_ROLE start="850" end="859" id="91848_31" party="party1" >appellant</LEGAL_ROLE>
+
+<PROFESSION start="1234" end="1239" id="91848_32" >clerk</PROFESSION>
+
+<ORGANIZATION start="1248" end="1253" id="91848_33" >court</ORGANIZATION>
+
+<LEGAL_ROLE start="1425" end="1434" id="91848_34" party="party1" >appellant</LEGAL_ROLE>
+
+<PROFESSION start="1764" end="1769" id="91848_35" >clerk</PROFESSION>
+
+<PROFESSION start="1883" end="1888" id="91848_36" >clerk</PROFESSION>
+
+<RELATION theme="91848_4" party1="91848_6" party1_string="GRANT" theme_string="GRANT v. PHOENIX MUT" gram_type="infix" relation_type="asymmetric" id="91848_10" ></RELATION>
+
+<RELATION party2="91848_7" theme="91848_4" theme_string="GRANT v. PHOENIX MUT" party2_string="PHOENIX MUT" gram_type="infix" relation_type="asymmetric" id="91848_11" ></RELATION>
+
+<RELATION theme="91848_5" party1="91848_8" party1_string="LIFE INS. CO. GRANT and another" theme_string="LIFE INS. CO. GRANT and another v. SAME" gram_type="infix" relation_type="asymmetric" id="91848_12" ></RELATION>
+
+<RELATION party2="91848_9" theme="91848_5" theme_string="LIFE INS. CO. GRANT and another v. SAME" party2_string="SAME" gram_type="infix" relation_type="asymmetric" id="91848_13" ></RELATION>
+
+<RELATION standard_case_string="120 U.S. 271" X_vs_Y_string="LIFE INS. CO. GRANT and another v. SAME" standard_case="91848_1" X_vs_Y="91848_5" gram_type="multi_line" relation_type="equivalence" id="91848_19" ></RELATION>
+
+<RELATION standard_case_string="120 U.S. 271" X_vs_Y_string="GRANT v. PHOENIX MUT" standard_case="91848_1" X_vs_Y="91848_4" gram_type="multi_line" relation_type="equivalence" id="91848_15" ></RELATION>
+
+<RELATION standard_case_string="7 S. Ct. 586" X_vs_Y_string="LIFE INS. CO. GRANT and another v. SAME" standard_case="91848_2" X_vs_Y="91848_5" gram_type="multi_line" relation_type="equivalence" id="91848_20" ></RELATION>
+
+<RELATION standard_case_string="7 S. Ct. 586" X_vs_Y_string="GRANT v. PHOENIX MUT" standard_case="91848_2" X_vs_Y="91848_4" gram_type="multi_line" relation_type="equivalence" id="91848_16" ></RELATION>
+
+<RELATION standard_case_string="30 L. Ed. 658" X_vs_Y_string="LIFE INS. CO. GRANT and another v. SAME" standard_case="91848_3" X_vs_Y="91848_5" gram_type="multi_line" relation_type="equivalence" id="91848_21" ></RELATION>
+
+<RELATION standard_case_string="30 L. Ed. 658" X_vs_Y_string="GRANT v. PHOENIX MUT" standard_case="91848_3" X_vs_Y="91848_4" gram_type="multi_line" relation_type="equivalence" id="91848_17" ></RELATION>
+
+<RELATION at_date_string="January 31, 1887" theme="91848_4" at_date="91848_14" theme_string="GRANT v. PHOENIX MUT" gram_type="multi_line" relation_type="asymmetric" id="91848_18" ></RELATION>
+
+<RELATION at_date_string="January 31, 1887" theme="91848_5" at_date="91848_14" theme_string="LIFE INS. CO. GRANT and another v. SAME" gram_type="multi_line" relation_type="asymmetric" id="91848_22" ></RELATION>
+

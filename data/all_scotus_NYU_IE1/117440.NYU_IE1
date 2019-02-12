@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['mayfieldstates#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1179" id1="117433" volume="510" start="0" page_number="1179" standard_reporter="U.S." citation_global_level_id="7604.002" line="1" id="117440_1" citation_local_level_id="0" >510 U.S. 1179</CITATION>
+
+<CITATION party2="United States" party1="Mayfield" citation_global_level_id="37924.001" party2_short="States" line="1" id="117440_3" alternative_keys="['u.s._510_1179']" end="43" entry_type="party_key" lookup_key="mayfieldstates#2" id1="119765" start="18" party1_short="Mayfield" citation_local_level_id="1" >Mayfield v. United States</CITATION>
+
+<NAME end="26" start="18" party1_of="117440_3" all_names="MAYFIELD" local_name_id="1" id="117440_4" >Mayfield</NAME>
+
+<NAME end="43" start="30" all_names="UNITED STATES" party2_of="117440_3" local_name_id="2" id="117440_5" >United States</NAME>
+
+<DOCKET end="60" entry_type="docket" lookup_key="u.s._510_1179" id1="117433" start="53" citation_global_level_id="7604.002" line="1" id="117440_2" citation_local_level_id="0" >93-7010</DOCKET>
+
+<DATE start="102" end="115" id="117440_6" >March 7, 1994</DATE>
+
+<NAME start="194" local_name_id="3" end="204" id="117440_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="243" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_999_1497" id1="Dummy_File_211900" volume="999" start="229" page_number="1497" standard_reporter="F.2D" citation_global_level_id="275750.001" line="3" id="117440_12" citation_local_level_id="2" >999 F. 2d 1497</CITATION>
+
+<RELATION theme="117440_1" includes_docket_string="93-7010" includes_docket="117440_2" theme_string="510 U.S. 1179" gram_type="apposition" relation_type="asymmetric" id="117440_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1179" X_vs_Y_string="Mayfield v. United States" standard_case="117440_1" X_vs_Y="117440_3" gram_type="pre_nom" relation_type="equivalence" id="117440_7" ></RELATION>
+
+<RELATION theme="117440_3" includes_docket_string="93-7010" includes_docket="117440_2" theme_string="Mayfield v. United States" gram_type="apposition" relation_type="asymmetric" id="117440_10" ></RELATION>
+
+<RELATION theme="117440_3" party1="117440_4" party1_string="Mayfield" theme_string="Mayfield v. United States" gram_type="infix" relation_type="asymmetric" id="117440_8" ></RELATION>
+
+<RELATION party2="117440_5" theme="117440_3" theme_string="Mayfield v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="117440_9" ></RELATION>
+

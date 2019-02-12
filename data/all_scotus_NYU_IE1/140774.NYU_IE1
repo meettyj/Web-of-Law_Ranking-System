@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['fannag#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1034" id1="140780" volume="543" start="0" page_number="1034" standard_reporter="U.S." citation_global_level_id="1569.002" line="1" id="140774_1" citation_local_level_id="0" >543 U.S. 1034</CITATION>
+
+<CITATION party2="NAG ET AL" party1="FAN" citation_global_level_id="47298.001" party2_short="NAG" line="2" id="140774_2" alternative_keys="['u.s._543_1034']" end="34" entry_type="party_key" lookup_key="fannag#2" id1="142165" start="18" party1_short="FAN" citation_local_level_id="1" >FAN v. NAG ET AL</CITATION>
+
+<NAME end="21" start="18" party1_of="140774_2" all_names="FAN" local_name_id="1" id="140774_3" >FAN</NAME>
+
+<NAME end="34" start="25" all_names="NAG" party2_of="140774_2" local_name_id="2" id="140774_4" >NAG ET AL</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="fannag#2" id1="142165" start="44" citation_global_level_id="47298.001" line="3" id="140774_7" citation_local_level_id="1" >04-6768</DOCKET>
+
+<ORGANIZATION start="57" end="87" id="140774_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="93" citation_global_level_id="47298.001" end="110" id="140774_9" citation_local_level_id="1" >December 13, 2004</DATE>
+
+<NAME start="142" local_name_id="3" end="145" id="140774_14" all_names="CIR" >Cir</NAME>
+
+<DATE start="247" end="262" id="140774_13" >January 3, 2005</DATE>
+
+<RELATION theme="140774_2" party1="140774_3" party1_string="FAN" theme_string="FAN v. NAG ET AL" gram_type="infix" relation_type="asymmetric" id="140774_5" ></RELATION>
+
+<RELATION party2="140774_4" theme="140774_2" theme_string="FAN v. NAG ET AL" party2_string="NAG ET AL" gram_type="infix" relation_type="asymmetric" id="140774_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1034" X_vs_Y_string="FAN v. NAG ET AL" standard_case="140774_1" X_vs_Y="140774_2" gram_type="multi_line" relation_type="equivalence" id="140774_10" ></RELATION>
+
+<RELATION at_date_string="December 13, 2004" theme="140774_2" at_date="140774_9" theme_string="FAN v. NAG ET AL" gram_type="multi_line" relation_type="asymmetric" id="140774_12" ></RELATION>
+
+<RELATION theme="140774_2" includes_docket_string="04-6768" includes_docket="140774_7" theme_string="FAN v. NAG ET AL" gram_type="multi_line" relation_type="asymmetric" id="140774_11" ></RELATION>
+

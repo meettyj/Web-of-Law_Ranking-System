@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['nealwarden#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_830" id1="131518" volume="540" start="0" page_number="830" standard_reporter="U.S." citation_global_level_id="1909.002" line="1" id="131525_1" citation_local_level_id="0" >540 U.S. 830</CITATION>
+
+<CITATION party2="ROE, WARDEN" party1="NEAL" citation_global_level_id="46295.001" party2_short="WARDEN" line="1" id="131525_3" alternative_keys="['u.s._540_830']" end="36" entry_type="party_key" lookup_key="nealwarden#1" id1="131525" start="17" party1_short="NEAL" citation_local_level_id="1" >NEAL v. ROE, WARDEN</CITATION>
+
+<NAME end="21" start="17" party1_of="131525_3" all_names="NEAL" local_name_id="1" id="131525_4" >NEAL</NAME>
+
+<NAME end="36" start="25" all_names="ROE WARDEN" party2_of="131525_3" local_name_id="2" id="131525_5" >ROE, WARDEN</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="u.s._540_830" id1="131518" start="46" citation_global_level_id="1909.002" line="1" id="131525_2" citation_local_level_id="0" >02-10530</DOCKET>
+
+<DATE start="96" end="111" id="131525_6" >October 6, 2003</DATE>
+
+<NAME start="189" local_name_id="3" end="199" id="131525_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="131525_1" includes_docket_string="02-10530" includes_docket="131525_2" theme_string="540 U.S. 830" gram_type="apposition" relation_type="asymmetric" id="131525_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 830" X_vs_Y_string="NEAL v. ROE, WARDEN" standard_case="131525_1" X_vs_Y="131525_3" gram_type="pre_nom" relation_type="equivalence" id="131525_7" ></RELATION>
+
+<RELATION theme="131525_3" includes_docket_string="02-10530" includes_docket="131525_2" theme_string="NEAL v. ROE, WARDEN" gram_type="apposition" relation_type="asymmetric" id="131525_10" ></RELATION>
+
+<RELATION theme="131525_3" party1="131525_4" party1_string="NEAL" theme_string="NEAL v. ROE, WARDEN" gram_type="infix" relation_type="asymmetric" id="131525_8" ></RELATION>
+
+<RELATION party2="131525_5" theme="131525_3" theme_string="NEAL v. ROE, WARDEN" party2_string="ROE, WARDEN" gram_type="infix" relation_type="asymmetric" id="131525_9" ></RELATION>
+

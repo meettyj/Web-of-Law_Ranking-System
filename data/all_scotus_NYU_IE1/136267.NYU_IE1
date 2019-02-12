@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['companytierney#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_1042" id1="136267" volume="541" start="0" page_number="1042" standard_reporter="U.S." citation_global_level_id="4231.002" line="1" id="136267_1" citation_local_level_id="0" >541 U.S. 1042</CITATION>
+
+<CITATION party2="TIERNEY" party1="UNUM LIFE INSURANCE COMPANY OF AMERICA ET AL." citation_global_level_id="4231.001" party2_short="TIERNEY" line="2" id="136267_2" alternative_keys="['u.s._541_1042']" end="74" entry_type="party_key" lookup_key="companytierney#1" id1="136267" start="18" party1_short="COMPANY" citation_local_level_id="1" >UNUM LIFE INSURANCE COMPANY OF AMERICA ET AL. v. TIERNEY</CITATION>
+
+<NAME end="63" start="18" party1_of="136267_2" all_names="UNUM LIFE INSURANCE COMPANY OF AMERICA" local_name_id="1" id="136267_3" >UNUM LIFE INSURANCE COMPANY OF AMERICA ET AL.</NAME>
+
+<ORGANIZATION start="18" end="62" id="136267_5" >UNUM LIFE INSURANCE COMPANY OF AMERICA ET AL</ORGANIZATION>
+
+<NAME end="74" start="67" all_names="TIERNEY" party2_of="136267_2" local_name_id="2" id="136267_4" >TIERNEY</NAME>
+
+<DOCKET end="91" entry_type="docket" lookup_key="companytierney#1" id1="136267" start="84" citation_global_level_id="4231.001" line="3" id="136267_8" citation_local_level_id="1" >03-1299</DOCKET>
+
+<ORGANIZATION start="97" end="127" id="136267_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="133" citation_global_level_id="4231.001" end="145" id="136267_10" citation_local_level_id="1" >May 17, 2004</DATE>
+
+<NAME start="167" local_name_id="3" end="169" id="136267_15" all_names="CT" >Ct</NAME>
+
+<CITATION end="242" reporter="S. W. 3d" entry_type="standard_key" no_current_file="True" lookup_key="s.w.3d_97_842" id1="Dummy_File_155720" volume="97" start="227" page_number="842" standard_reporter="S.W.3D" citation_global_level_id="219570.001" line="8" id="136267_14" citation_local_level_id="2" >97 S. W. 3d 842</CITATION>
+
+<RELATION theme="136267_2" party1="136267_3" party1_string="UNUM LIFE INSURANCE COMPANY OF AMERICA ET AL." theme_string="UNUM LIFE INSURANCE COMPANY OF AMERICA ET AL. v. TIERNEY" gram_type="infix" relation_type="asymmetric" id="136267_6" ></RELATION>
+
+<RELATION party2="136267_4" theme="136267_2" theme_string="UNUM LIFE INSURANCE COMPANY OF AMERICA ET AL. v. TIERNEY" party2_string="TIERNEY" gram_type="infix" relation_type="asymmetric" id="136267_7" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 1042" X_vs_Y_string="UNUM LIFE INSURANCE COMPANY OF AMERICA ET AL. v. TIERNEY" standard_case="136267_1" X_vs_Y="136267_2" gram_type="multi_line" relation_type="equivalence" id="136267_11" ></RELATION>
+
+<RELATION at_date_string="May 17, 2004" theme="136267_2" at_date="136267_10" theme_string="UNUM LIFE INSURANCE COMPANY OF AMERICA ET AL. v. TIERNEY" gram_type="multi_line" relation_type="asymmetric" id="136267_13" ></RELATION>
+
+<RELATION theme="136267_2" includes_docket_string="03-1299" includes_docket="136267_8" theme_string="UNUM LIFE INSURANCE COMPANY OF AMERICA ET AL. v. TIERNEY" gram_type="multi_line" relation_type="asymmetric" id="136267_12" ></RELATION>
+

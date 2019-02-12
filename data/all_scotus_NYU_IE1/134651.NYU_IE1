@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['kimlerstates#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_1083" id1="134663" volume="540" start="0" page_number="1083" standard_reporter="U.S." citation_global_level_id="17649.002" line="1" id="134651_1" citation_local_level_id="0" >540 U.S. 1083</CITATION>
+
+<CITATION party2="UNITED STATES" party1="KIMLER" citation_global_level_id="54788.001" party2_short="STATES" line="1" id="134651_3" alternative_keys="['u.s._540_1083']" end="41" entry_type="party_key" lookup_key="kimlerstates#1" id1="134651" start="18" party1_short="KIMLER" citation_local_level_id="1" >KIMLER v. UNITED STATES</CITATION>
+
+<NAME end="24" start="18" party1_of="134651_3" all_names="KIMLER" local_name_id="1" id="134651_4" >KIMLER</NAME>
+
+<NAME end="41" start="28" all_names="UNITED STATES" party2_of="134651_3" local_name_id="2" id="134651_5" >UNITED STATES</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._540_1083" id1="134663" start="51" citation_global_level_id="17649.002" line="1" id="134651_2" citation_local_level_id="0" >03-7285</DOCKET>
+
+<DATE start="100" end="116" id="134651_6" >December 8, 2003</DATE>
+
+<NAME start="195" local_name_id="3" end="205" id="134651_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="244" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_335_1132" id1="Dummy_File_20244" volume="335" start="230" page_number="1132" standard_reporter="F.3D" citation_global_level_id="84094.001" line="3" id="134651_12" citation_local_level_id="2" >335 F. 3d 1132</CITATION>
+
+<RELATION theme="134651_1" includes_docket_string="03-7285" includes_docket="134651_2" theme_string="540 U.S. 1083" gram_type="apposition" relation_type="asymmetric" id="134651_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 1083" X_vs_Y_string="KIMLER v. UNITED STATES" standard_case="134651_1" X_vs_Y="134651_3" gram_type="pre_nom" relation_type="equivalence" id="134651_7" ></RELATION>
+
+<RELATION theme="134651_3" includes_docket_string="03-7285" includes_docket="134651_2" theme_string="KIMLER v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="134651_10" ></RELATION>
+
+<RELATION theme="134651_3" party1="134651_4" party1_string="KIMLER" theme_string="KIMLER v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="134651_8" ></RELATION>
+
+<RELATION party2="134651_5" theme="134651_3" theme_string="KIMLER v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="134651_9" ></RELATION>
+

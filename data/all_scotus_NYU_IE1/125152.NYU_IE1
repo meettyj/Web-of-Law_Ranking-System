@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['sokolovmedical#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1030" id1="125149" volume="537" start="0" page_number="1030" standard_reporter="U.S." citation_global_level_id="1371.002" line="1" id="125152_1" citation_local_level_id="0" >537 U.S. 1030</CITATION>
+
+<CITATION party2="TREX MEDICAL CORP., LORAD DIVISION, ET AL" party1="SOKOLOV" citation_global_level_id="1371.003" party2_short="MEDICAL" line="1" id="125152_3" alternative_keys="['u.s._537_1030']" end="70" entry_type="party_key" lookup_key="sokolovmedical#2" id1="125149" start="18" party1_short="SOKOLOV" citation_local_level_id="1" >SOKOLOV v. TREX MEDICAL CORP., LORAD DIVISION, ET AL</CITATION>
+
+<NAME end="25" start="18" party1_of="125152_3" all_names="SOKOLOV" local_name_id="1" id="125152_4" >SOKOLOV</NAME>
+
+<NAME end="70" start="29" all_names="TREX MEDICAL CORP LORAD DIVISION" party2_of="125152_3" local_name_id="2" id="125152_5" >TREX MEDICAL CORP., LORAD DIVISION, ET AL</NAME>
+
+<DOCKET end="86" entry_type="docket" lookup_key="u.s._537_1030" id1="125149" start="80" citation_global_level_id="1371.002" line="1" id="125152_2" citation_local_level_id="0" >02-495</DOCKET>
+
+<DATE start="128" end="145" id="125152_6" >November 18, 2002</DATE>
+
+<NAME start="242" local_name_id="3" end="245" id="125152_13" all_names="APP" >App</NAME>
+
+<CITATION end="324" reporter="A. 2d" entry_type="standard_key" no_current_file="True" lookup_key="a.2d_798_500" id1="Dummy_File_153526" volume="798" start="311" page_number="500" standard_reporter="A.2D" citation_global_level_id="217376.001" line="3" id="125152_12" citation_local_level_id="2" >798 A. 2d 500</CITATION>
+
+<RELATION theme="125152_1" includes_docket_string="02-495" includes_docket="125152_2" theme_string="537 U.S. 1030" gram_type="apposition" relation_type="asymmetric" id="125152_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1030" X_vs_Y_string="SOKOLOV v. TREX MEDICAL CORP., LORAD DIVISION, ET AL" standard_case="125152_1" X_vs_Y="125152_3" gram_type="pre_nom" relation_type="equivalence" id="125152_7" ></RELATION>
+
+<RELATION theme="125152_3" includes_docket_string="02-495" includes_docket="125152_2" theme_string="SOKOLOV v. TREX MEDICAL CORP., LORAD DIVISION, ET AL" gram_type="apposition" relation_type="asymmetric" id="125152_10" ></RELATION>
+
+<RELATION theme="125152_3" party1="125152_4" party1_string="SOKOLOV" theme_string="SOKOLOV v. TREX MEDICAL CORP., LORAD DIVISION, ET AL" gram_type="infix" relation_type="asymmetric" id="125152_8" ></RELATION>
+
+<RELATION party2="125152_5" theme="125152_3" theme_string="SOKOLOV v. TREX MEDICAL CORP., LORAD DIVISION, ET AL" party2_string="TREX MEDICAL CORP., LORAD DIVISION, ET AL" gram_type="infix" relation_type="asymmetric" id="125152_9" ></RELATION>
+

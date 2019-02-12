@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['cruztexas#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_1052" id1="134206" volume="540" start="0" page_number="1052" standard_reporter="U.S." citation_global_level_id="829.002" line="1" id="134210_1" citation_local_level_id="0" >540 U.S. 1052</CITATION>
+
+<CITATION party2="TEXAS" party1="CRUZ" citation_global_level_id="58167.001" party2_short="TEXAS" line="1" id="134210_3" alternative_keys="['u.s._540_1052']" end="31" entry_type="party_key" lookup_key="cruztexas#2" id1="134210" start="18" party1_short="CRUZ" citation_local_level_id="1" >CRUZ v. TEXAS</CITATION>
+
+<NAME end="22" start="18" party1_of="134210_3" all_names="CRUZ" local_name_id="1" id="134210_4" >CRUZ</NAME>
+
+<NAME end="31" start="26" all_names="TEXAS" party2_of="134210_3" local_name_id="2" id="134210_5" >TEXAS</NAME>
+
+<DOCKET end="48" entry_type="docket" lookup_key="u.s._540_1052" id1="134206" start="41" citation_global_level_id="829.002" line="1" id="134210_2" citation_local_level_id="0" >03-6466</DOCKET>
+
+<DATE start="90" end="106" id="134210_6" >December 1, 2003</DATE>
+
+<NAME start="194" local_name_id="3" end="204" id="134210_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="134210_1" includes_docket_string="03-6466" includes_docket="134210_2" theme_string="540 U.S. 1052" gram_type="apposition" relation_type="asymmetric" id="134210_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 1052" X_vs_Y_string="CRUZ v. TEXAS" standard_case="134210_1" X_vs_Y="134210_3" gram_type="pre_nom" relation_type="equivalence" id="134210_7" ></RELATION>
+
+<RELATION theme="134210_3" includes_docket_string="03-6466" includes_docket="134210_2" theme_string="CRUZ v. TEXAS" gram_type="apposition" relation_type="asymmetric" id="134210_10" ></RELATION>
+
+<RELATION theme="134210_3" party1="134210_4" party1_string="CRUZ" theme_string="CRUZ v. TEXAS" gram_type="infix" relation_type="asymmetric" id="134210_8" ></RELATION>
+
+<RELATION party2="134210_5" theme="134210_3" theme_string="CRUZ v. TEXAS" party2_string="TEXAS" gram_type="infix" relation_type="asymmetric" id="134210_9" ></RELATION>
+

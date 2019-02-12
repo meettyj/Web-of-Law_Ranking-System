@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['landausmith#3']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_887" id1="138879" volume="543" start="0" page_number="887" standard_reporter="U.S." citation_global_level_id="4080.002" line="1" id="138886_1" citation_local_level_id="0" >543 U.S. 887</CITATION>
+
+<CITATION party2="VASTINE-SMITH ET AL" party1="LANDAU" citation_global_level_id="4080.004" party2_short="SMITH" line="2" id="138886_3" alternative_keys="['u.s._543_887']" end="46" entry_type="party_key" lookup_key="landausmith#3" id1="138879" start="17" party1_short="LANDAU" citation_local_level_id="1" >LANDAU v. VASTINE-SMITH ET AL</CITATION>
+
+<NAME end="23" start="17" party1_of="138886_3" all_names="LANDAU" local_name_id="1" id="138886_4" >LANDAU</NAME>
+
+<NAME end="46" start="27" all_names="VASTINE-SMITH" party2_of="138886_3" local_name_id="2" id="138886_5" >VASTINE-SMITH ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._543_887']" end="63" entry_type="docket" lookup_key="landausmith#3" id1="138879" start="56" citation_global_level_id="4080.004" line="2" id="138886_2" citation_local_level_id="1" >04-5206</DOCKET>
+
+<ORGANIZATION start="69" end="99" id="138886_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="105" citation_global_level_id="4080.004" end="120" id="138886_10" citation_local_level_id="1" >October 4, 2004</DATE>
+
+<NAME start="151" local_name_id="3" end="154" id="138886_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="138886_3" includes_docket_string="04-5206" includes_docket="138886_2" theme_string="LANDAU v. VASTINE-SMITH ET AL" gram_type="apposition" relation_type="asymmetric" id="138886_8" ></RELATION>
+
+<RELATION theme="138886_3" party1="138886_4" party1_string="LANDAU" theme_string="LANDAU v. VASTINE-SMITH ET AL" gram_type="infix" relation_type="asymmetric" id="138886_6" ></RELATION>
+
+<RELATION party2="138886_5" theme="138886_3" theme_string="LANDAU v. VASTINE-SMITH ET AL" party2_string="VASTINE-SMITH ET AL" gram_type="infix" relation_type="asymmetric" id="138886_7" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 887" X_vs_Y_string="LANDAU v. VASTINE-SMITH ET AL" standard_case="138886_1" X_vs_Y="138886_3" gram_type="multi_line" relation_type="equivalence" id="138886_11" ></RELATION>
+
+<RELATION at_date_string="October 4, 2004" theme="138886_3" at_date="138886_10" theme_string="LANDAU v. VASTINE-SMITH ET AL" gram_type="multi_line" relation_type="asymmetric" id="138886_12" ></RELATION>
+

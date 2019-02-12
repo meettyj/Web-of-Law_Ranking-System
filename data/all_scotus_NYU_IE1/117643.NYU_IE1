@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['diazstates#9']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1198" id1="117648" volume="510" start="0" page_number="1198" standard_reporter="U.S." citation_global_level_id="18067.002" line="1" id="117643_1" citation_local_level_id="0" >510 U.S. 1198</CITATION>
+
+<CITATION party2="United States" party1="Rodriguez Diaz" citation_global_level_id="16531.001" party2_short="States" line="1" id="117643_3" alternative_keys="['u.s._510_1198']" end="49" entry_type="party_key" lookup_key="diazstates#9" id1="97561" start="18" party1_short="Diaz" citation_local_level_id="1" >Rodriguez Diaz v. United States</CITATION>
+
+<NAME end="32" start="18" party1_of="117643_3" all_names="RODRIGUEZ DIAZ" local_name_id="1" id="117643_4" >Rodriguez Diaz</NAME>
+
+<NAME end="49" start="36" all_names="UNITED STATES" party2_of="117643_3" local_name_id="2" id="117643_5" >United States</NAME>
+
+<DOCKET end="66" entry_type="docket" lookup_key="u.s._510_1198" id1="117648" start="59" citation_global_level_id="18067.002" line="1" id="117643_2" citation_local_level_id="0" >93-7056</DOCKET>
+
+<DATE start="108" end="122" id="117643_6" >March 21, 1994</DATE>
+
+<NAME start="201" local_name_id="3" end="211" id="117643_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="250" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_998_1020" id1="Dummy_File_23238" volume="998" start="236" page_number="1020" standard_reporter="F.2D" citation_global_level_id="87088.001" line="3" id="117643_12" citation_local_level_id="2" >998 F. 2d 1020</CITATION>
+
+<RELATION theme="117643_1" includes_docket_string="93-7056" includes_docket="117643_2" theme_string="510 U.S. 1198" gram_type="apposition" relation_type="asymmetric" id="117643_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1198" X_vs_Y_string="Rodriguez Diaz v. United States" standard_case="117643_1" X_vs_Y="117643_3" gram_type="pre_nom" relation_type="equivalence" id="117643_7" ></RELATION>
+
+<RELATION theme="117643_3" includes_docket_string="93-7056" includes_docket="117643_2" theme_string="Rodriguez Diaz v. United States" gram_type="apposition" relation_type="asymmetric" id="117643_10" ></RELATION>
+
+<RELATION theme="117643_3" party1="117643_4" party1_string="Rodriguez Diaz" theme_string="Rodriguez Diaz v. United States" gram_type="infix" relation_type="asymmetric" id="117643_8" ></RELATION>
+
+<RELATION party2="117643_5" theme="117643_3" theme_string="Rodriguez Diaz v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="117643_9" ></RELATION>
+

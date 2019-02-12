@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['capitalthiessen#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._536_934" id1="121564" volume="536" start="0" page_number="934" standard_reporter="U.S." citation_global_level_id="3224.002" line="3" id="121573_2" citation_local_level_id="0" >536 U.S. 934</CITATION>
+
+<CITATION party2="THIESSEN" party1="GENERAL ELECTRIC CAPITAL CORP., DBA GE CAPITAL, ET AL." citation_global_level_id="3224.003" party2_short="THIESSEN" line="3" id="121573_4" alternative_keys="['u.s._536_934']" end="83" entry_type="party_key" lookup_key="capitalthiessen#1" id1="121564" start="17" party1_short="CAPITAL" citation_local_level_id="1" >GENERAL ELECTRIC CAPITAL CORP., DBA GE CAPITAL, ET AL. v. THIESSEN</CITATION>
+
+<NAME end="71" start="17" party1_of="121573_4" all_names="GENERAL ELECTRIC CAPITAL CORP DBA GE CAPITAL" local_name_id="1" id="121573_5" >GENERAL ELECTRIC CAPITAL CORP., DBA GE CAPITAL, ET AL.</NAME>
+
+<ORGANIZATION start="17" end="46" id="121573_7" >GENERAL ELECTRIC CAPITAL CORP</ORGANIZATION>
+
+<NAME end="83" start="75" all_names="THIESSEN" party2_of="121573_4" local_name_id="2" id="121573_6" >THIESSEN</NAME>
+
+<DOCKET end="99" entry_type="docket" lookup_key="u.s._536_934" id1="121564" start="93" citation_global_level_id="3224.002" line="3" id="121573_3" citation_local_level_id="0" >01-881</DOCKET>
+
+<DATE start="145" citation_global_level_id="3224.003" end="158" id="121573_13" citation_local_level_id="1" >June 17, 2002</DATE>
+
+<NAME start="191" local_name_id="3" end="194" id="121573_16" all_names="CIR" >Cir</NAME>
+
+<CITATION end="372" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_267_1095" id1="Dummy_File_106350" volume="267" start="358" page_number="1095" standard_reporter="F.3D" citation_global_level_id="170200.001" line="8" id="121573_15" citation_local_level_id="2" >267 F. 3d 1095</CITATION>
+
+<RELATION theme="121573_2" includes_docket_string="01-881" includes_docket="121573_3" theme_string="536 U.S. 934" gram_type="apposition" relation_type="asymmetric" id="121573_12" ></RELATION>
+
+<RELATION standard_case_string="536 U.S. 934" X_vs_Y_string="GENERAL ELECTRIC CAPITAL CORP., DBA GE CAPITAL, ET AL. v. THIESSEN" standard_case="121573_2" X_vs_Y="121573_4" gram_type="pre_nom" relation_type="equivalence" id="121573_8" ></RELATION>
+
+<RELATION theme="121573_4" includes_docket_string="01-881" includes_docket="121573_3" theme_string="GENERAL ELECTRIC CAPITAL CORP., DBA GE CAPITAL, ET AL. v. THIESSEN" gram_type="apposition" relation_type="asymmetric" id="121573_11" ></RELATION>
+
+<RELATION party2="121573_6" theme="121573_4" theme_string="GENERAL ELECTRIC CAPITAL CORP., DBA GE CAPITAL, ET AL. v. THIESSEN" party2_string="THIESSEN" gram_type="infix" relation_type="asymmetric" id="121573_10" ></RELATION>
+
+<RELATION theme="121573_4" party1="121573_5" party1_string="GENERAL ELECTRIC CAPITAL CORP., DBA GE CAPITAL, ET AL." theme_string="GENERAL ELECTRIC CAPITAL CORP., DBA GE CAPITAL, ET AL. v. THIESSEN" gram_type="infix" relation_type="asymmetric" id="121573_9" ></RELATION>
+
+<RELATION at_date_string="June 17, 2002" theme="121573_4" at_date="121573_13" theme_string="GENERAL ELECTRIC CAPITAL CORP., DBA GE CAPITAL, ET AL. v. THIESSEN" gram_type="multi_line" relation_type="asymmetric" id="121573_14" ></RELATION>
+

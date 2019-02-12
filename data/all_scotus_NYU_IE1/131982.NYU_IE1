@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['rollinsillinois#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_865" id1="131986" volume="540" start="0" page_number="865" standard_reporter="U.S." citation_global_level_id="320.002" line="1" id="131982_1" citation_local_level_id="0" >540 U.S. 865</CITATION>
+
+<CITATION party2="ILLINOIS" party1="ROLLINS" citation_global_level_id="40882.001" party2_short="ILLINOIS" line="1" id="131982_3" alternative_keys="['u.s._540_865']" end="36" entry_type="party_key" lookup_key="rollinsillinois#1" id1="131982" start="17" party1_short="ROLLINS" citation_local_level_id="1" >ROLLINS v. ILLINOIS</CITATION>
+
+<NAME end="24" start="17" party1_of="131982_3" all_names="ROLLINS" local_name_id="1" id="131982_4" >ROLLINS</NAME>
+
+<NAME end="36" start="28" all_names="ILLINOIS" party2_of="131982_3" local_name_id="2" id="131982_5" >ILLINOIS</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="u.s._540_865" id1="131986" start="46" citation_global_level_id="320.002" line="1" id="131982_2" citation_local_level_id="0" >02-11269</DOCKET>
+
+<DATE start="96" end="111" id="131982_6" >October 6, 2003</DATE>
+
+<NAME start="199" local_name_id="3" end="209" id="131982_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="131982_1" includes_docket_string="02-11269" includes_docket="131982_2" theme_string="540 U.S. 865" gram_type="apposition" relation_type="asymmetric" id="131982_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 865" X_vs_Y_string="ROLLINS v. ILLINOIS" standard_case="131982_1" X_vs_Y="131982_3" gram_type="pre_nom" relation_type="equivalence" id="131982_7" ></RELATION>
+
+<RELATION theme="131982_3" includes_docket_string="02-11269" includes_docket="131982_2" theme_string="ROLLINS v. ILLINOIS" gram_type="apposition" relation_type="asymmetric" id="131982_10" ></RELATION>
+
+<RELATION theme="131982_3" party1="131982_4" party1_string="ROLLINS" theme_string="ROLLINS v. ILLINOIS" gram_type="infix" relation_type="asymmetric" id="131982_8" ></RELATION>
+
+<RELATION party2="131982_5" theme="131982_3" theme_string="ROLLINS v. ILLINOIS" party2_string="ILLINOIS" gram_type="infix" relation_type="asymmetric" id="131982_9" ></RELATION>
+

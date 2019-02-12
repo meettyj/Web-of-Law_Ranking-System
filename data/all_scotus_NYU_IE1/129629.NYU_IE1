@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['transportationmills#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1034" id1="129633" volume="538" start="0" page_number="1034" standard_reporter="U.S." citation_global_level_id="6040.002" line="1" id="129629_1" citation_local_level_id="0" >538 U.S. 1034</CITATION>
+
+<CITATION party2="CAROLINA FEED MILLS, INC" party1="CSX TRANSPORTATION, INC." citation_global_level_id="56780.001" party2_short="MILLS" line="1" id="129629_3" alternative_keys="['u.s._538_1034']" end="70" entry_type="party_key" lookup_key="transportationmills#1" id1="129629" start="18" party1_short="TRANSPORTATION" citation_local_level_id="1" >CSX TRANSPORTATION, INC. v. CAROLINA FEED MILLS, INC</CITATION>
+
+<NAME end="42" start="18" party1_of="129629_3" all_names="CSX TRANSPORTATION INC" local_name_id="1" id="129629_4" >CSX TRANSPORTATION, INC.</NAME>
+
+<ORGANIZATION start="18" end="41" id="129629_7" >CSX TRANSPORTATION, INC</ORGANIZATION>
+
+<NAME end="70" start="46" all_names="CAROLINA FEED MILLS INC" party2_of="129629_3" local_name_id="2" id="129629_5" >CAROLINA FEED MILLS, INC</NAME>
+
+<DOCKET end="87" entry_type="docket" lookup_key="u.s._538_1034" id1="129633" start="80" citation_global_level_id="6040.002" line="1" id="129629_2" citation_local_level_id="0" >02-1368</DOCKET>
+
+<DATE start="129" end="141" id="129629_6" >May 19, 2003</DATE>
+
+<NAME start="271" local_name_id="3" end="274" id="129629_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="129629_1" includes_docket_string="02-1368" includes_docket="129629_2" theme_string="538 U.S. 1034" gram_type="apposition" relation_type="asymmetric" id="129629_12" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1034" X_vs_Y_string="CSX TRANSPORTATION, INC. v. CAROLINA FEED MILLS, INC" standard_case="129629_1" X_vs_Y="129629_3" gram_type="pre_nom" relation_type="equivalence" id="129629_8" ></RELATION>
+
+<RELATION theme="129629_3" includes_docket_string="02-1368" includes_docket="129629_2" theme_string="CSX TRANSPORTATION, INC. v. CAROLINA FEED MILLS, INC" gram_type="apposition" relation_type="asymmetric" id="129629_11" ></RELATION>
+
+<RELATION party2="129629_5" theme="129629_3" theme_string="CSX TRANSPORTATION, INC. v. CAROLINA FEED MILLS, INC" party2_string="CAROLINA FEED MILLS, INC" gram_type="infix" relation_type="asymmetric" id="129629_10" ></RELATION>
+
+<RELATION theme="129629_3" party1="129629_4" party1_string="CSX TRANSPORTATION, INC." theme_string="CSX TRANSPORTATION, INC. v. CAROLINA FEED MILLS, INC" gram_type="infix" relation_type="asymmetric" id="129629_9" ></RELATION>
+

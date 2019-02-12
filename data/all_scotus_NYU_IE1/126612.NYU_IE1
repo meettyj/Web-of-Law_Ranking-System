@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['mirandastates#9']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1142" id1="126619" volume="537" start="0" page_number="1142" standard_reporter="U.S." citation_global_level_id="342.002" line="1" id="126612_1" citation_local_level_id="0" >537 U.S. 1142</CITATION>
+
+<CITATION party2="UNITED STATES" party1="MIRANDA ET AL." citation_global_level_id="53131.001" party2_short="STATES" line="1" id="126612_3" alternative_keys="['u.s._537_1142']" end="49" entry_type="party_key" lookup_key="mirandastates#9" id1="129532" start="18" party1_short="MIRANDA" citation_local_level_id="1" >MIRANDA ET AL. v. UNITED STATES</CITATION>
+
+<NAME end="32" start="18" party1_of="126612_3" all_names="MIRANDA" local_name_id="1" id="126612_4" >MIRANDA ET AL.</NAME>
+
+<NAME start="18" local_name_id="1" end="31" id="126612_7" all_names="MIRANDA" >MIRANDA ET AL</NAME>
+
+<NAME end="49" start="36" all_names="UNITED STATES" party2_of="126612_3" local_name_id="2" id="126612_5" >UNITED STATES</NAME>
+
+<DOCKET end="66" entry_type="docket" lookup_key="u.s._537_1142" id1="126619" start="59" citation_global_level_id="342.002" line="1" id="126612_2" citation_local_level_id="0" >02-7791</DOCKET>
+
+<ORGANIZATION start="72" end="102" id="126612_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="108" end="124" id="126612_6" >January 13, 2003</DATE>
+
+<ORGANIZATION start="146" end="217" id="126612_9" >CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE EIGHTH CIRCUIT</ORGANIZATION>
+
+<NAME start="254" local_name_id="3" end="257" id="126612_16" all_names="CIR" >Cir</NAME>
+
+<CITATION end="307" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_301_877" id1="Dummy_File_158560" volume="301" start="294" page_number="877" standard_reporter="F.3D" citation_global_level_id="222410.001" line="3" id="126612_15" citation_local_level_id="2" >301 F. 3d 877</CITATION>
+
+<RELATION theme="126612_1" includes_docket_string="02-7791" includes_docket="126612_2" theme_string="537 U.S. 1142" gram_type="apposition" relation_type="asymmetric" id="126612_14" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1142" X_vs_Y_string="MIRANDA ET AL. v. UNITED STATES" standard_case="126612_1" X_vs_Y="126612_3" gram_type="pre_nom" relation_type="equivalence" id="126612_10" ></RELATION>
+
+<RELATION theme="126612_3" includes_docket_string="02-7791" includes_docket="126612_2" theme_string="MIRANDA ET AL. v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="126612_13" ></RELATION>
+
+<RELATION theme="126612_3" party1="126612_4" party1_string="MIRANDA ET AL." theme_string="MIRANDA ET AL. v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="126612_11" ></RELATION>
+
+<RELATION party2="126612_5" theme="126612_3" theme_string="MIRANDA ET AL. v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="126612_12" ></RELATION>
+

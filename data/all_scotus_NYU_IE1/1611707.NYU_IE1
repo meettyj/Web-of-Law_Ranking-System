@@ -1,0 +1,38 @@
+<CITATION alternative_keys="['boycegrundy#1']" end="19" reporter="U.S." entry_type="standard_key" lookup_key="u.s._31_777" id1="1611707" volume="31" start="1" page_number="777" standard_reporter="U.S." citation_global_level_id="46735.002" line="2" id="1611707_1" citation_local_level_id="0" >31 U.S. 777 (____)</CITATION>
+
+<NAME start="22" local_name_id="1" end="25" id="1611707_2" all_names="PET" >Pet</NAME>
+
+<CITATION end="25" line="3" id="1611707_3" alternative_keys="['u.s._32_453', 'ex parte martha bradstreet#1', 'u.s._33_588', 'ex parte tobias watkins#2', 'u.s._28_193', 'in the matter of duncan n hennen#1', 'u.s._38_230', 'ex parte myra clarke whitney#1', 'u.s._38_404', 'u.s._38_225', 'ex parte benjamin story#1', 'u.s._37_339', 'the state of rhode island#1', 'the state of massachusetts ads#1', 'u.s._37_755', 'ex parte george adshead#1', 'ex parte joseph roberts and#1', 'u.s._31_216', 'u.s._31_143', 'u.s._31_774', 'u.s._26_264', 'the port of new york#1', 'ex parte jesse hoyt collector of#1', 'u.s._38_279', 'u.s._27_566', 'u.s._34_711', 'ex parte anderson crenshaw#1', 'u.s._40_119', 'ex parte john l tillinghast esquire#1', 'u.s._29_108', 'u.s._39_540', 'in the matter of martha bradstreet demandant#1', 'u.s._32_634', 'ex parte nathaniel crane and samuel#1', 'jacksonkelly#1', 'u.s._30_190', 'u.s._33_306', 'u.s._33_291', 'ex parte john a davenport#1', 'u.s._31_661', 'u.s._32_568']" citation_global_level_id="3762.003" name="Pet" no_current_file="True" entry_type="case_key" lookup_key="pet#1" id1="85842" start="22" citation_local_level_id="1" >Pet</CITATION>
+
+<CITATION party2="FELIX GRUNDY" party1="BOYCE ET AL." citation_global_level_id="46735.001" party2_short="GRUNDY" line="6" id="1611707_5" alternative_keys="['u.s._31_777']" end="61" entry_type="party_key" lookup_key="boycegrundy#1" id1="1611707" start="31" party1_short="BOYCE" citation_local_level_id="2" >BOYCE ET AL. v. FELIX GRUNDY</CITATION>
+
+<NAME end="43" start="31" party1_of="1611707_5" all_names="BOYCE" local_name_id="2" id="1611707_6" >BOYCE ET AL.</NAME>
+
+<NAME end="61" start="49" all_names="FELIX GRUNDY" party2_of="1611707_5" local_name_id="3" id="1611707_7" >FELIX GRUNDY</NAME>
+
+<ORGANIZATION start="63" end="93" id="1611707_10" >Supreme Court of United States</ORGANIZATION>
+
+<NAME start="149" local_name_id="4" end="155" id="1611707_13" all_names="MR KEY" >Mr Key</NAME>
+
+<LEGAL_ROLE start="160" end="184" id="1611707_14" >counsel for the appellee</LEGAL_ROLE>
+
+<ORGANIZATION start="229" end="234" id="1611707_15" >Court</ORGANIZATION>
+
+<NAME start="247" local_name_id="5" end="255" id="1611707_16" all_names="SATURDAY" >Saturday</NAME>
+
+<PROFESSION start="424" end="429" id="1611707_17" >judge</PROFESSION>
+
+<ORGANIZATION start="510" end="515" id="1611707_18" >Court</ORGANIZATION>
+
+<ORGANIZATION start="576" end="602" id="1611707_19" >court of the United States</ORGANIZATION>
+
+<NAME start="628" local_name_id="6" end="637" id="1611707_20" all_names="TENNESSEE" >Tennessee</NAME>
+
+<RELATION theme="1611707_5" party1="1611707_6" party1_string="BOYCE ET AL." theme_string="BOYCE ET AL.  v.  FELIX GRUNDY" gram_type="infix" relation_type="asymmetric" id="1611707_8" ></RELATION>
+
+<RELATION party2="1611707_7" theme="1611707_5" theme_string="BOYCE ET AL.  v.  FELIX GRUNDY" party2_string="FELIX GRUNDY" gram_type="infix" relation_type="asymmetric" id="1611707_9" ></RELATION>
+
+<RELATION standard_case_string="31 U.S. 777 (____)" X_vs_Y_string="BOYCE ET AL.  v.  FELIX GRUNDY" standard_case="1611707_1" X_vs_Y="1611707_5" gram_type="multi_line" relation_type="equivalence" id="1611707_12" ></RELATION>
+
+<RELATION case_citation_other="1611707_3" id="1611707_11" X_vs_Y_string="BOYCE ET AL.  v.  FELIX GRUNDY" X_vs_Y="1611707_5" gram_type="multi_line" relation_type="equivalence" case_citation_other_string="Pet" ></RELATION>
+

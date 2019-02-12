@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['johnsondepartment#20']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_959" id1="130855" volume="539" start="0" page_number="959" standard_reporter="U.S." citation_global_level_id="3418.002" line="1" id="130864_1" citation_local_level_id="0" >539 U.S. 959</CITATION>
+
+<CITATION party2="Buffalo Police Department" party1="Johnson" citation_global_level_id="50582.001" party2_short="Department" line="1" id="130864_3" alternative_keys="['u.s._539_959']" end="53" entry_type="party_key" lookup_key="johnsondepartment#20" id1="130864" start="17" party1_short="Johnson" citation_local_level_id="1" >Johnson v. Buffalo Police Department</CITATION>
+
+<NAME end="24" start="17" party1_of="130864_3" all_names="JOHNSON" local_name_id="1" id="130864_4" >Johnson</NAME>
+
+<NAME end="53" start="28" all_names="BUFFALO POLICE DEPARTMENT" party2_of="130864_3" local_name_id="2" id="130864_5" >Buffalo Police Department</NAME>
+
+<DOCKET end="70" entry_type="docket" lookup_key="u.s._539_959" id1="130855" start="63" citation_global_level_id="3418.002" line="1" id="130864_2" citation_local_level_id="0" >02-1573</DOCKET>
+
+<DATE start="112" end="125" id="130864_6" >June 27, 2003</DATE>
+
+<NAME start="202" local_name_id="3" end="212" id="130864_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="130864_1" includes_docket_string="02-1573" includes_docket="130864_2" theme_string="539 U.S. 959" gram_type="apposition" relation_type="asymmetric" id="130864_11" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 959" X_vs_Y_string="Johnson v. Buffalo Police Department" standard_case="130864_1" X_vs_Y="130864_3" gram_type="pre_nom" relation_type="equivalence" id="130864_7" ></RELATION>
+
+<RELATION theme="130864_3" includes_docket_string="02-1573" includes_docket="130864_2" theme_string="Johnson v. Buffalo Police Department" gram_type="apposition" relation_type="asymmetric" id="130864_10" ></RELATION>
+
+<RELATION theme="130864_3" party1="130864_4" party1_string="Johnson" theme_string="Johnson v. Buffalo Police Department" gram_type="infix" relation_type="asymmetric" id="130864_8" ></RELATION>
+
+<RELATION party2="130864_5" theme="130864_3" theme_string="Johnson v. Buffalo Police Department" party2_string="Buffalo Police Department" gram_type="infix" relation_type="asymmetric" id="130864_9" ></RELATION>
+

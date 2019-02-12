@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['mccowancalifornia#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_982" id1="128954" volume="538" start="0" page_number="982" standard_reporter="U.S." citation_global_level_id="4329.002" line="1" id="128944_1" citation_local_level_id="0" >538 U.S. 982</CITATION>
+
+<CITATION party2="CALIFORNIA" party1="McCOWAN" citation_global_level_id="27686.001" party2_short="CALIFORNIA" line="1" id="128944_3" alternative_keys="['u.s._538_982']" end="38" entry_type="party_key" lookup_key="mccowancalifornia#1" id1="128944" start="17" party1_short="McCOWAN" citation_local_level_id="1" >McCOWAN v. CALIFORNIA</CITATION>
+
+<NAME end="24" start="17" party1_of="128944_3" all_names="MCCOWAN" local_name_id="1" id="128944_4" >McCOWAN</NAME>
+
+<NAME end="38" start="28" all_names="CALIFORNIA" party2_of="128944_3" local_name_id="2" id="128944_5" >CALIFORNIA</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._538_982" id1="128954" start="48" citation_global_level_id="4329.002" line="1" id="128944_2" citation_local_level_id="0" >02-8990</DOCKET>
+
+<DATE start="97" end="111" id="128944_6" >April 21, 2003</DATE>
+
+<NAME start="242" local_name_id="3" end="244" id="128944_12" all_names="CT" >Ct</NAME>
+
+<RELATION theme="128944_1" includes_docket_string="02-8990" includes_docket="128944_2" theme_string="538 U.S. 982" gram_type="apposition" relation_type="asymmetric" id="128944_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 982" X_vs_Y_string="McCOWAN v. CALIFORNIA" standard_case="128944_1" X_vs_Y="128944_3" gram_type="pre_nom" relation_type="equivalence" id="128944_7" ></RELATION>
+
+<RELATION theme="128944_3" includes_docket_string="02-8990" includes_docket="128944_2" theme_string="McCOWAN v. CALIFORNIA" gram_type="apposition" relation_type="asymmetric" id="128944_10" ></RELATION>
+
+<RELATION theme="128944_3" party1="128944_4" party1_string="McCOWAN" theme_string="McCOWAN v. CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="128944_8" ></RELATION>
+
+<RELATION party2="128944_5" theme="128944_3" theme_string="McCOWAN v. CALIFORNIA" party2_string="CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="128944_9" ></RELATION>
+

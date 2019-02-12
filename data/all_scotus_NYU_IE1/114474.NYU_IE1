@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['martinezpoole#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_923" id1="114474" volume="510" start="0" page_number="923" standard_reporter="U.S." citation_global_level_id="5819.002" line="1" id="114474_1" citation_local_level_id="0" >510 U.S. 923</CITATION>
+
+<CITATION party2="Poole, Warden" party1="Martinez" citation_global_level_id="5819.007" party2_short="Poole" line="1" id="114474_3" alternative_keys="['u.s._510_923']" end="42" entry_type="party_key" lookup_key="martinezpoole#1" id1="114474" start="17" party1_short="Martinez" citation_local_level_id="1" >Martinez v. Poole, Warden</CITATION>
+
+<NAME end="25" start="17" party1_of="114474_3" all_names="MARTINEZ" local_name_id="1" id="114474_4" >Martinez</NAME>
+
+<NAME end="42" start="29" all_names="POOLE WARDEN" party2_of="114474_3" local_name_id="2" id="114474_5" >Poole, Warden</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="u.s._510_923" id1="114474" start="52" citation_global_level_id="5819.002" line="1" id="114474_2" citation_local_level_id="0" >93-5720</DOCKET>
+
+<DATE start="101" end="117" id="114474_6" >October 12, 1993</DATE>
+
+<NAME start="195" local_name_id="3" end="205" id="114474_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="243" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_995_232" id1="Dummy_File_11318" volume="995" start="230" page_number="232" standard_reporter="F.2D" citation_global_level_id="75168.001" line="3" id="114474_12" citation_local_level_id="2" >995 F. 2d 232</CITATION>
+
+<RELATION theme="114474_1" includes_docket_string="93-5720" includes_docket="114474_2" theme_string="510 U.S. 923" gram_type="apposition" relation_type="asymmetric" id="114474_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 923" X_vs_Y_string="Martinez v. Poole, Warden" standard_case="114474_1" X_vs_Y="114474_3" gram_type="pre_nom" relation_type="equivalence" id="114474_7" ></RELATION>
+
+<RELATION theme="114474_3" includes_docket_string="93-5720" includes_docket="114474_2" theme_string="Martinez v. Poole, Warden" gram_type="apposition" relation_type="asymmetric" id="114474_10" ></RELATION>
+
+<RELATION theme="114474_3" party1="114474_4" party1_string="Martinez" theme_string="Martinez v. Poole, Warden" gram_type="infix" relation_type="asymmetric" id="114474_8" ></RELATION>
+
+<RELATION party2="114474_5" theme="114474_3" theme_string="Martinez v. Poole, Warden" party2_string="Poole, Warden" gram_type="infix" relation_type="asymmetric" id="114474_9" ></RELATION>
+

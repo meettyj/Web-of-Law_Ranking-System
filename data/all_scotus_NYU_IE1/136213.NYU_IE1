@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['mitchelllynn#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_1037" id1="136209" volume="541" start="0" page_number="1037" standard_reporter="U.S." citation_global_level_id="4306.002" line="1" id="136213_1" citation_local_level_id="0" >541 U.S. 1037</CITATION>
+
+<CITATION party2="VAN LYNN" party1="MITCHELL, WARDEN" citation_global_level_id="4306.006" party2_short="LYNN" line="2" id="136213_3" alternative_keys="['u.s._541_1037']" end="46" entry_type="party_key" lookup_key="mitchelllynn#1" id1="136209" start="18" party1_short="MITCHELL" citation_local_level_id="1" >MITCHELL, WARDEN v. VAN LYNN</CITATION>
+
+<NAME end="34" start="18" party1_of="136213_3" all_names="MITCHELL WARDEN" local_name_id="1" id="136213_4" >MITCHELL, WARDEN</NAME>
+
+<PROFESSION start="28" end="34" id="136213_6" >WARDEN</PROFESSION>
+
+<NAME end="46" start="38" all_names="VAN LYNN" party2_of="136213_3" local_name_id="2" id="136213_5" >VAN LYNN</NAME>
+
+<DOCKET alternative_keys="['u.s._541_1037']" end="63" entry_type="docket" lookup_key="mitchelllynn#1" id1="136209" start="56" citation_global_level_id="4306.006" line="2" id="136213_2" citation_local_level_id="1" >03-1307</DOCKET>
+
+<ORGANIZATION start="69" end="99" id="136213_10" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="105" citation_global_level_id="4306.006" end="116" id="136213_11" citation_local_level_id="1" >May 3, 2004</DATE>
+
+<NAME start="148" local_name_id="3" end="151" id="136213_15" all_names="CIR" >Cir</NAME>
+
+<CITATION end="270" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_347_735" id1="Dummy_File_122776" volume="347" start="257" page_number="735" standard_reporter="F.3D" citation_global_level_id="186626.001" line="7" id="136213_14" citation_local_level_id="2" >347 F. 3d 735</CITATION>
+
+<RELATION theme="136213_3" includes_docket_string="03-1307" includes_docket="136213_2" theme_string="MITCHELL, WARDEN v. VAN LYNN" gram_type="apposition" relation_type="asymmetric" id="136213_9" ></RELATION>
+
+<RELATION theme="136213_3" party1="136213_4" party1_string="MITCHELL, WARDEN" theme_string="MITCHELL, WARDEN v. VAN LYNN" gram_type="infix" relation_type="asymmetric" id="136213_7" ></RELATION>
+
+<RELATION party2="136213_5" theme="136213_3" theme_string="MITCHELL, WARDEN v. VAN LYNN" party2_string="VAN LYNN" gram_type="infix" relation_type="asymmetric" id="136213_8" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 1037" X_vs_Y_string="MITCHELL, WARDEN v. VAN LYNN" standard_case="136213_1" X_vs_Y="136213_3" gram_type="multi_line" relation_type="equivalence" id="136213_12" ></RELATION>
+
+<RELATION at_date_string="May 3, 2004" theme="136213_3" at_date="136213_11" theme_string="MITCHELL, WARDEN v. VAN LYNN" gram_type="multi_line" relation_type="asymmetric" id="136213_13" ></RELATION>
+

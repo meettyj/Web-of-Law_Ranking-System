@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['lamsonstates#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1013" id1="115627" volume="510" start="0" page_number="1013" standard_reporter="U.S." citation_global_level_id="3557.002" line="1" id="115637_1" citation_local_level_id="0" >510 U.S. 1013</CITATION>
+
+<CITATION party2="United States" party1="Lamson" citation_global_level_id="62729.001" party2_short="States" line="1" id="115637_3" alternative_keys="['u.s._510_1013']" end="41" entry_type="party_key" lookup_key="lamsonstates#1" id1="115637" start="18" party1_short="Lamson" citation_local_level_id="1" >Lamson v. United States</CITATION>
+
+<NAME end="24" start="18" party1_of="115637_3" all_names="LAMSON" local_name_id="1" id="115637_4" >Lamson</NAME>
+
+<NAME end="41" start="28" all_names="UNITED STATES" party2_of="115637_3" local_name_id="2" id="115637_5" >United States</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._510_1013" id1="115627" start="51" citation_global_level_id="3557.002" line="1" id="115637_2" citation_local_level_id="0" >93-663</DOCKET>
+
+<DATE start="99" end="115" id="115637_6" >December 6, 1993</DATE>
+
+<NAME start="193" local_name_id="3" end="203" id="115637_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="242" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_993_1540" id1="Dummy_File_276" volume="993" start="228" page_number="1540" standard_reporter="F.2D" citation_global_level_id="64126.001" line="3" id="115637_12" citation_local_level_id="2" >993 F. 2d 1540</CITATION>
+
+<RELATION theme="115637_1" includes_docket_string="93-663" includes_docket="115637_2" theme_string="510 U.S. 1013" gram_type="apposition" relation_type="asymmetric" id="115637_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1013" X_vs_Y_string="Lamson v. United States" standard_case="115637_1" X_vs_Y="115637_3" gram_type="pre_nom" relation_type="equivalence" id="115637_7" ></RELATION>
+
+<RELATION theme="115637_3" includes_docket_string="93-663" includes_docket="115637_2" theme_string="Lamson v. United States" gram_type="apposition" relation_type="asymmetric" id="115637_10" ></RELATION>
+
+<RELATION theme="115637_3" party1="115637_4" party1_string="Lamson" theme_string="Lamson v. United States" gram_type="infix" relation_type="asymmetric" id="115637_8" ></RELATION>
+
+<RELATION party2="115637_5" theme="115637_3" theme_string="Lamson v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="115637_9" ></RELATION>
+

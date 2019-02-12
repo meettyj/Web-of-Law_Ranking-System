@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['americarogers#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_818" id1="131370" volume="540" start="0" page_number="818" standard_reporter="U.S." citation_global_level_id="12791.002" line="1" id="131372_1" citation_local_level_id="0" >540 U.S. 818</CITATION>
+
+<CITATION party2="ROGERS ET AL" party1="SECURITIES AMERICA, INC." citation_global_level_id="16361.001" party2_short="ROGERS" line="1" id="131372_3" alternative_keys="['u.s._540_818']" end="57" entry_type="party_key" lookup_key="americarogers#1" id1="131372" start="17" party1_short="AMERICA" citation_local_level_id="1" >SECURITIES AMERICA, INC. v. ROGERS ET AL</CITATION>
+
+<NAME end="41" start="17" party1_of="131372_3" all_names="SECURITIES AMERICA INC" local_name_id="1" id="131372_4" >SECURITIES AMERICA, INC.</NAME>
+
+<ORGANIZATION start="17" end="40" id="131372_8" >SECURITIES AMERICA, INC</ORGANIZATION>
+
+<NAME end="57" start="45" all_names="ROGERS" party2_of="131372_3" local_name_id="2" id="131372_5" >ROGERS ET AL</NAME>
+
+<DOCKET end="74" entry_type="docket" lookup_key="u.s._540_818" id1="131370" start="67" citation_global_level_id="12791.002" line="1" id="131372_2" citation_local_level_id="0" >02-1724</DOCKET>
+
+<DATE start="70" end="74" id="131372_6" >1724</DATE>
+
+<DATE start="116" end="131" id="131372_7" >October 6, 2003</DATE>
+
+<NAME start="208" local_name_id="3" end="218" id="131372_16" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="258" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_850_1252" id1="Dummy_File_61286" volume="850" start="243" page_number="1252" standard_reporter="SO.2D" citation_global_level_id="125136.001" line="3" id="131372_15" citation_local_level_id="2" >850 So. 2d 1252</CITATION>
+
+<RELATION theme="131372_1" includes_docket_string="02-1724" includes_docket="131372_2" theme_string="540 U.S. 818" gram_type="apposition" relation_type="asymmetric" id="131372_13" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 818" X_vs_Y_string="SECURITIES AMERICA, INC. v. ROGERS ET AL" standard_case="131372_1" X_vs_Y="131372_3" gram_type="pre_nom" relation_type="equivalence" id="131372_9" ></RELATION>
+
+<RELATION theme="131372_3" includes_docket_string="02-1724" includes_docket="131372_2" theme_string="SECURITIES AMERICA, INC. v. ROGERS ET AL" gram_type="apposition" relation_type="asymmetric" id="131372_12" ></RELATION>
+
+<RELATION theme="131372_3" party1="131372_4" party1_string="SECURITIES AMERICA, INC." theme_string="SECURITIES AMERICA, INC. v. ROGERS ET AL" gram_type="infix" relation_type="asymmetric" id="131372_10" ></RELATION>
+
+<RELATION party2="131372_5" theme="131372_3" theme_string="SECURITIES AMERICA, INC. v. ROGERS ET AL" party2_string="ROGERS ET AL" gram_type="infix" relation_type="asymmetric" id="131372_11" ></RELATION>
+
+<RELATION at_date_string="1724" theme="131372_2" at_date="131372_6" theme_string="02-1724" gram_type="infix" relation_type="asymmetric" id="131372_14" ></RELATION>
+

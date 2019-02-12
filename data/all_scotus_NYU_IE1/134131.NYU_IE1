@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['policesuders#3']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_1046" id1="134126" volume="540" start="0" page_number="1046" standard_reporter="U.S." citation_global_level_id="13235.002" line="1" id="134131_1" citation_local_level_id="0" >540 U.S. 1046</CITATION>
+
+<CITATION party2="SUDERS" party1="PENNSYLVANIA STATE POLICE" citation_global_level_id="15594.001" party2_short="SUDERS" line="1" id="134131_3" alternative_keys="['u.s._540_1046']" end="53" entry_type="party_key" lookup_key="policesuders#3" id1="134131" start="18" party1_short="POLICE" citation_local_level_id="1" >PENNSYLVANIA STATE POLICE v. SUDERS</CITATION>
+
+<NAME end="43" start="18" party1_of="134131_3" all_names="PENNSYLVANIA STATE POLICE" local_name_id="1" id="134131_4" >PENNSYLVANIA STATE POLICE</NAME>
+
+<NAME end="53" start="47" all_names="SUDERS" party2_of="134131_3" local_name_id="2" id="134131_5" >SUDERS</NAME>
+
+<DOCKET end="68" entry_type="docket" lookup_key="u.s._540_1046" id1="134126" start="63" citation_global_level_id="13235.002" line="1" id="134131_2" citation_local_level_id="0" >03-95</DOCKET>
+
+<DATE start="110" end="126" id="134131_6" >December 1, 2003</DATE>
+
+<NAME start="203" local_name_id="3" end="253" id="134131_13" all_names="MOTION OF CHAMBER OF COMMERCE OF THE UNITED STATES" >Motion of Chamber of Commerce of the United States</NAME>
+
+<NAME start="306" local_name_id="4" end="316" id="134131_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION alternative_keys="['suderseaston#1']" end="355" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_325_432" id1="Dummy_File_8445" volume="325" start="342" page_number="432" standard_reporter="F.3D" citation_global_level_id="72295.003" line="3" id="134131_12" citation_local_level_id="2" >325 F. 3d 432</CITATION>
+
+<RELATION theme="134131_1" includes_docket_string="03-95" includes_docket="134131_2" theme_string="540 U.S. 1046" gram_type="apposition" relation_type="asymmetric" id="134131_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 1046" X_vs_Y_string="PENNSYLVANIA STATE POLICE v. SUDERS" standard_case="134131_1" X_vs_Y="134131_3" gram_type="pre_nom" relation_type="equivalence" id="134131_7" ></RELATION>
+
+<RELATION theme="134131_3" includes_docket_string="03-95" includes_docket="134131_2" theme_string="PENNSYLVANIA STATE POLICE v. SUDERS" gram_type="apposition" relation_type="asymmetric" id="134131_10" ></RELATION>
+
+<RELATION theme="134131_3" party1="134131_4" party1_string="PENNSYLVANIA STATE POLICE" theme_string="PENNSYLVANIA STATE POLICE v. SUDERS" gram_type="infix" relation_type="asymmetric" id="134131_8" ></RELATION>
+
+<RELATION party2="134131_5" theme="134131_3" theme_string="PENNSYLVANIA STATE POLICE v. SUDERS" party2_string="SUDERS" gram_type="infix" relation_type="asymmetric" id="134131_9" ></RELATION>
+

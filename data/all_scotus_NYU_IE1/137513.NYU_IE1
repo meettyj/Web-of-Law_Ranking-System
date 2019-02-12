@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['jelkswarden#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._542_943" id1="137504" volume="542" start="0" page_number="943" standard_reporter="U.S." citation_global_level_id="271.002" line="1" id="137513_1" citation_local_level_id="0" >542 U.S. 943</CITATION>
+
+<CITATION party2="SMALL, WARDEN, ET AL" party1="JELKS" citation_global_level_id="271.007" party2_short="WARDEN" line="2" id="137513_2" alternative_keys="['u.s._542_943']" end="46" entry_type="party_key" lookup_key="jelkswarden#2" id1="137504" start="17" party1_short="JELKS" citation_local_level_id="1" >JELKS v. SMALL, WARDEN, ET AL</CITATION>
+
+<NAME end="22" start="17" party1_of="137513_2" all_names="JELKS" local_name_id="1" id="137513_3" >JELKS</NAME>
+
+<NAME end="46" start="26" all_names="SMALL WARDEN" party2_of="137513_2" local_name_id="2" id="137513_4" >SMALL, WARDEN, ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._542_943']" end="64" entry_type="docket" lookup_key="jelkswarden#2" id1="137504" start="56" citation_global_level_id="271.007" line="3" id="137513_7" citation_local_level_id="1" >03-10351</DOCKET>
+
+<ORGANIZATION start="70" end="100" id="137513_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="106" citation_global_level_id="271.007" end="119" id="137513_9" citation_local_level_id="1" >June 28, 2004</DATE>
+
+<NAME start="151" local_name_id="3" end="154" id="137513_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="137513_2" party1="137513_3" party1_string="JELKS" theme_string="JELKS v. SMALL, WARDEN, ET AL" gram_type="infix" relation_type="asymmetric" id="137513_5" ></RELATION>
+
+<RELATION party2="137513_4" theme="137513_2" theme_string="JELKS v. SMALL, WARDEN, ET AL" party2_string="SMALL, WARDEN, ET AL" gram_type="infix" relation_type="asymmetric" id="137513_6" ></RELATION>
+
+<RELATION standard_case_string="542 U.S. 943" X_vs_Y_string="JELKS v. SMALL, WARDEN, ET AL" standard_case="137513_1" X_vs_Y="137513_2" gram_type="multi_line" relation_type="equivalence" id="137513_10" ></RELATION>
+
+<RELATION at_date_string="June 28, 2004" theme="137513_2" at_date="137513_9" theme_string="JELKS v. SMALL, WARDEN, ET AL" gram_type="multi_line" relation_type="asymmetric" id="137513_12" ></RELATION>
+
+<RELATION theme="137513_2" includes_docket_string="03-10351" includes_docket="137513_7" theme_string="JELKS v. SMALL, WARDEN, ET AL" gram_type="multi_line" relation_type="asymmetric" id="137513_11" ></RELATION>
+

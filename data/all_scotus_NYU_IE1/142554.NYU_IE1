@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['kingstates#9']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1171" id1="142552" volume="543" start="0" page_number="1171" standard_reporter="U.S." citation_global_level_id="960.002" line="3" id="142554_2" citation_local_level_id="0" >543 U.S. 1171</CITATION>
+
+<CITATION party2="UNITED STATES" party1="KING" citation_global_level_id="19856.001" party2_short="STATES" line="3" id="142554_4" alternative_keys="['u.s._543_1171']" end="39" entry_type="party_key" lookup_key="kingstates#9" id1="138621" start="18" party1_short="KING" citation_local_level_id="1" >KING v. UNITED STATES</CITATION>
+
+<NAME end="22" start="18" party1_of="142554_4" all_names="KING" local_name_id="1" id="142554_5" >KING</NAME>
+
+<NAME end="39" start="26" all_names="UNITED STATES" party2_of="142554_4" local_name_id="2" id="142554_6" >UNITED STATES</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._543_1171" id1="142552" start="49" citation_global_level_id="960.002" line="3" id="142554_3" citation_local_level_id="0" >04-7995</DOCKET>
+
+<ORGANIZATION start="62" end="92" id="142554_12" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="98" citation_global_level_id="19856.001" end="115" id="142554_13" citation_local_level_id="1" >February 22, 2005</DATE>
+
+<NAME start="147" local_name_id="3" end="150" id="142554_15" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="142554_2" includes_docket_string="04-7995" includes_docket="142554_3" theme_string="543 U.S. 1171" gram_type="apposition" relation_type="asymmetric" id="142554_11" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1171" X_vs_Y_string="KING v. UNITED STATES" standard_case="142554_2" X_vs_Y="142554_4" gram_type="pre_nom" relation_type="equivalence" id="142554_7" ></RELATION>
+
+<RELATION theme="142554_4" includes_docket_string="04-7995" includes_docket="142554_3" theme_string="KING v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="142554_10" ></RELATION>
+
+<RELATION theme="142554_4" party1="142554_5" party1_string="KING" theme_string="KING v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="142554_8" ></RELATION>
+
+<RELATION party2="142554_6" theme="142554_4" theme_string="KING v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="142554_9" ></RELATION>
+
+<RELATION at_date_string="February 22, 2005" theme="142554_4" at_date="142554_13" theme_string="KING v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="142554_14" ></RELATION>
+

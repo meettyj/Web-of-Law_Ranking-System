@@ -1,0 +1,44 @@
+<CITATION alternative_keys="['venemanassn#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._542_917" id1="137207" volume="542" start="0" page_number="917" standard_reporter="U.S." citation_global_level_id="14410.002" line="1" id="137206_1" citation_local_level_id="0" >542 U.S. 917</CITATION>
+
+<CITATION party2="MONTANA WILDERNESS ASSN., INC., ET AL" party1="VENEMAN, SECRETARY OF AGRICULTURE, ET AL." citation_global_level_id="14410.005" party2_short="ASSN" line="1" id="137206_3" alternative_keys="['u.s._542_917']" end="99" entry_type="party_key" lookup_key="venemanassn#2" id1="137207" start="17" party1_short="VENEMAN" citation_local_level_id="1" >VENEMAN, SECRETARY OF AGRICULTURE, ET AL. v. MONTANA WILDERNESS ASSN., INC., ET AL</CITATION>
+
+<NAME end="58" start="17" party1_of="137206_3" all_names="VENEMAN SECRETARY OF AGRICULTURE" local_name_id="1" id="137206_5" >VENEMAN, SECRETARY OF AGRICULTURE, ET AL.</NAME>
+
+<NAME start="17" local_name_id="2" end="24" id="137206_10" all_names="VENEMAN" >VENEMAN</NAME>
+
+<PROFESSION start="26" end="50" id="137206_11" >SECRETARY OF AGRICULTURE</PROFESSION>
+
+<NAME end="99" start="62" all_names="MONTANA WILDERNESS ASSN INC" party2_of="137206_3" local_name_id="3" id="137206_6" >MONTANA WILDERNESS ASSN., INC., ET AL</NAME>
+
+<ORGANIZATION start="88" end="91" id="137206_12" >INC</ORGANIZATION>
+
+<DOCKET end="115" entry_type="docket" lookup_key="u.s._542_917" id1="137207" start="109" citation_global_level_id="14410.002" line="1" id="137206_2" citation_local_level_id="0" >03-109</DOCKET>
+
+<ORGANIZATION start="121" end="151" id="137206_13" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="157" end="170" id="137206_9" >June 21, 2004</DATE>
+
+<NAME start="202" local_name_id="4" end="205" id="137206_14" all_names="CIR" >Cir</NAME>
+
+<CITATION party2="Southern Utah Wilderness Alliance" party1="Norton" citation_global_level_id="17311.001" party2_short="Alliance" line="1" id="137206_4" end="345" entry_type="party_key" lookup_key="nortonalliance#1" id1="136985" start="302" party1_short="Norton" citation_local_level_id="2" >Norton v. Southern Utah Wilderness Alliance</CITATION>
+
+<NAME end="308" start="302" party1_of="137206_4" all_names="NORTON" local_name_id="5" id="137206_7" >Norton</NAME>
+
+<NAME end="345" start="312" all_names="SOUTHERN UTAH WILDERNESS ALLIANCE" party2_of="137206_4" local_name_id="6" id="137206_8" >Southern Utah Wilderness Alliance</NAME>
+
+<CITATION end="415" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_314_1146" id1="Dummy_File_217306" volume="314" start="401" page_number="1146" standard_reporter="F.3D" citation_global_level_id="281156.001" line="3" id="137206_22" citation_local_level_id="3" >314 F. 3d 1146</CITATION>
+
+<RELATION theme="137206_1" includes_docket_string="03-109" includes_docket="137206_2" theme_string="542 U.S. 917" gram_type="apposition" relation_type="asymmetric" id="137206_19" ></RELATION>
+
+<RELATION standard_case_string="542 U.S. 917" X_vs_Y_string="VENEMAN, SECRETARY OF AGRICULTURE, ET AL. v. MONTANA WILDERNESS ASSN., INC., ET AL" standard_case="137206_1" X_vs_Y="137206_3" gram_type="pre_nom" relation_type="equivalence" id="137206_15" ></RELATION>
+
+<RELATION theme="137206_3" includes_docket_string="03-109" includes_docket="137206_2" theme_string="VENEMAN, SECRETARY OF AGRICULTURE, ET AL. v. MONTANA WILDERNESS ASSN., INC., ET AL" gram_type="apposition" relation_type="asymmetric" id="137206_18" ></RELATION>
+
+<RELATION theme="137206_3" party1="137206_5" party1_string="VENEMAN, SECRETARY OF AGRICULTURE, ET AL." theme_string="VENEMAN, SECRETARY OF AGRICULTURE, ET AL. v. MONTANA WILDERNESS ASSN., INC., ET AL" gram_type="infix" relation_type="asymmetric" id="137206_16" ></RELATION>
+
+<RELATION party2="137206_6" theme="137206_3" theme_string="VENEMAN, SECRETARY OF AGRICULTURE, ET AL. v. MONTANA WILDERNESS ASSN., INC., ET AL" party2_string="MONTANA WILDERNESS ASSN., INC., ET AL" gram_type="infix" relation_type="asymmetric" id="137206_17" ></RELATION>
+
+<RELATION theme="137206_4" party1="137206_7" party1_string="Norton" theme_string="Norton v. Southern Utah Wilderness Alliance" gram_type="infix" relation_type="asymmetric" id="137206_20" ></RELATION>
+
+<RELATION party2="137206_8" theme="137206_4" theme_string="Norton v. Southern Utah Wilderness Alliance" party2_string="Southern Utah Wilderness Alliance" gram_type="infix" relation_type="asymmetric" id="137206_21" ></RELATION>
+

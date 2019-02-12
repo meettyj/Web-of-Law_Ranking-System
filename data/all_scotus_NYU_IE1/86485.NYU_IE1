@@ -1,0 +1,62 @@
+<CITATION alternative_keys="['colbyledden#1', 'how._7_626']" end="19" reporter="U.S." entry_type="standard_key" lookup_key="u.s._48_626" id1="86485" volume="48" start="1" page_number="626" year="1849" standard_reporter="U.S." citation_global_level_id="14966.002" line="2" id="86485_1" citation_local_level_id="0" >48 U.S. 626 (1849)</CITATION>
+
+<DATE start="14" citation_global_level_id="14966.002" end="18" id="86485_2" citation_local_level_id="0" >1849</DATE>
+
+<CITATION alternative_keys="['u.s._48_626', 'colbyledden#1']" end="30" reporter="How." entry_type="standard_key" lookup_key="how._7_626" id1="86485" volume="7" start="20" page_number="626" standard_reporter="HOW." citation_global_level_id="14966.003" line="3" id="86485_4" citation_local_level_id="1" >7 How. 626</CITATION>
+
+<CITATION party2="JAMES LEDDEN" alternative_keys="['u.s._48_626', 'how._7_626']" party1="ABRAHAM COLBY," end="83" party1_short="COLBY" entry_type="party_key" party1_role="plaintiff in error" lookup_key="colbyledden#1" id1="86485" start="31" citation_global_level_id="14966.001" party2_short="LEDDEN" line="6" id="86485_10" citation_local_level_id="2" >ABRAHAM COLBY, PLAINTIFF IN ERROR, v. JAMES LEDDEN</CITATION>
+
+<NAME end="45" start="31" party1_of="86485_10" all_names="ABRAHAM COLBY" local_name_id="1" id="86485_11" >ABRAHAM COLBY,</NAME>
+
+<LEGAL_ROLE start="46" end="64" id="86485_13" >PLAINTIFF IN ERROR</LEGAL_ROLE>
+
+<LEGAL_ROLE start="46" end="55" id="86485_14" >PLAINTIFF</LEGAL_ROLE>
+
+<NAME end="83" start="71" all_names="JAMES LEDDEN" party2_of="86485_10" local_name_id="2" id="86485_12" >JAMES LEDDEN</NAME>
+
+<ORGANIZATION start="85" end="115" id="86485_17" >Supreme Court of United States</ORGANIZATION>
+
+<NAME start="118" local_name_id="3" end="131" id="86485_20" all_names="CB GOODRICH" >C.B. Goodrich</NAME>
+
+<LEGAL_ROLE start="141" end="150" id="86485_21" >defendant</LEGAL_ROLE>
+
+<NAME start="166" local_name_id="4" end="183" id="86485_22" all_names="MR JUSTICE GRIER" >Mr. Justice GRIER</NAME>
+
+<PROFESSION start="170" end="177" id="86485_23" >Justice</PROFESSION>
+
+<ORGANIZATION start="213" end="218" id="86485_24" >court</ORGANIZATION>
+
+<CITATION party2="John S. Jenness et al" party1="Philip Peck et al." citation_global_level_id="39209.001" party2_short="Jenness" line="11" id="86485_25" end="301" entry_type="party_key" lookup_key="peckjenness#1" id1="86484" start="258" party1_short="Peck" citation_local_level_id="3" >Philip Peck et al. v. John S. Jenness et al</CITATION>
+
+<NAME end="276" start="258" party1_of="86485_25" all_names="PHILIP PECK" local_name_id="5" id="86485_26" >Philip Peck et al.</NAME>
+
+<NAME end="301" start="280" all_names="JOHN S JENNESS" party2_of="86485_25" local_name_id="6" id="86485_27" >John S. Jenness et al</NAME>
+
+<ORGANIZATION start="442" end="473" id="86485_28" >Superior Court of New Hampshire</ORGANIZATION>
+
+<NAME start="488" local_name_id="7" end="493" id="86485_31" all_names="ORDER" >Order</NAME>
+
+<ORGANIZATION start="565" end="623" id="86485_32" >Superior Court of Judicature of the State of New Hampshire</ORGANIZATION>
+
+<PROFESSION start="643" end="650" id="86485_33" >counsel</PROFESSION>
+
+<NAME start="652" local_name_id="8" end="654" id="86485_34" all_names="ON" >On</NAME>
+
+<ORGANIZATION start="722" end="727" id="86485_35" >court</ORGANIZATION>
+
+<ORGANIZATION start="759" end="787" id="86485_36" >Superior Court of Judicature</ORGANIZATION>
+
+<RELATION at_date_string="1849" theme="86485_1" at_date="86485_2" theme_string="48 U.S. 626 (1849)" gram_type="infix" relation_type="asymmetric" id="86485_3" ></RELATION>
+
+<RELATION theme="86485_10" party1="86485_11" party1_string="ABRAHAM COLBY," theme_string="ABRAHAM COLBY, PLAINTIFF IN ERROR,  v.  JAMES LEDDEN" gram_type="infix" relation_type="asymmetric" id="86485_15" ></RELATION>
+
+<RELATION party2="86485_12" theme="86485_10" theme_string="ABRAHAM COLBY, PLAINTIFF IN ERROR,  v.  JAMES LEDDEN" party2_string="JAMES LEDDEN" gram_type="infix" relation_type="asymmetric" id="86485_16" ></RELATION>
+
+<RELATION standard_case_string="48 U.S. 626 (1849)" X_vs_Y_string="ABRAHAM COLBY, PLAINTIFF IN ERROR,  v.  JAMES LEDDEN" standard_case="86485_1" X_vs_Y="86485_10" gram_type="multi_line" relation_type="equivalence" id="86485_18" ></RELATION>
+
+<RELATION standard_case_string="7 How. 626" X_vs_Y_string="ABRAHAM COLBY, PLAINTIFF IN ERROR,  v.  JAMES LEDDEN" standard_case="86485_4" X_vs_Y="86485_10" gram_type="multi_line" relation_type="equivalence" id="86485_19" ></RELATION>
+
+<RELATION theme="86485_25" party1="86485_26" party1_string="Philip Peck et al." theme_string="Philip Peck et al. v. John S. Jenness et al" gram_type="infix" relation_type="asymmetric" id="86485_29" ></RELATION>
+
+<RELATION party2="86485_27" theme="86485_25" theme_string="Philip Peck et al. v. John S. Jenness et al" party2_string="John S. Jenness et al" gram_type="infix" relation_type="asymmetric" id="86485_30" ></RELATION>
+

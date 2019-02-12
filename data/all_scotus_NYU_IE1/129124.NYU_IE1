@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['wagnerdepartment#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_995" id1="129144" volume="538" start="0" page_number="995" standard_reporter="U.S." citation_global_level_id="1036.002" line="1" id="129124_1" citation_local_level_id="0" >538 U.S. 995</CITATION>
+
+<CITATION party2="CALIFORNIA DEPARTMENT OF JUSTICE ET AL" party1="WAGNER" citation_global_level_id="48071.001" party2_short="DEPARTMENT" line="2" id="129124_2" alternative_keys="['u.s._538_995']" end="65" entry_type="party_key" lookup_key="wagnerdepartment#2" id1="129124" start="17" party1_short="WAGNER" citation_local_level_id="1" >WAGNER v. CALIFORNIA DEPARTMENT OF JUSTICE ET AL</CITATION>
+
+<NAME end="23" start="17" party1_of="129124_2" all_names="WAGNER" local_name_id="1" id="129124_3" >WAGNER</NAME>
+
+<NAME end="65" start="27" all_names="CALIFORNIA DEPARTMENT OF JUSTICE" party2_of="129124_2" local_name_id="2" id="129124_4" >CALIFORNIA DEPARTMENT OF JUSTICE ET AL</NAME>
+
+<DOCKET end="82" entry_type="docket" lookup_key="wagnerdepartment#2" id1="129124" start="75" citation_global_level_id="48071.001" line="3" id="129124_7" citation_local_level_id="1" >02-8049</DOCKET>
+
+<ORGANIZATION start="88" end="118" id="129124_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="124" citation_global_level_id="48071.001" end="138" id="129124_9" citation_local_level_id="1" >April 21, 2003</DATE>
+
+<NAME start="160" local_name_id="3" end="168" id="129124_14" all_names="PETITION" >Petition</NAME>
+
+<CITATION end="205" reporter="U. S." entry_type="standard_key" lookup_key="u.s._537_1205" id1="127338" volume="537" start="191" page_number="1205" standard_reporter="U.S." citation_global_level_id="2582.002" line="8" id="129124_13" citation_local_level_id="2" >537 U. S. 1205</CITATION>
+
+<RELATION theme="129124_2" party1="129124_3" party1_string="WAGNER" theme_string="WAGNER v. CALIFORNIA DEPARTMENT OF JUSTICE ET AL" gram_type="infix" relation_type="asymmetric" id="129124_5" ></RELATION>
+
+<RELATION party2="129124_4" theme="129124_2" theme_string="WAGNER v. CALIFORNIA DEPARTMENT OF JUSTICE ET AL" party2_string="CALIFORNIA DEPARTMENT OF JUSTICE ET AL" gram_type="infix" relation_type="asymmetric" id="129124_6" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 995" X_vs_Y_string="WAGNER v. CALIFORNIA DEPARTMENT OF JUSTICE ET AL" standard_case="129124_1" X_vs_Y="129124_2" gram_type="multi_line" relation_type="equivalence" id="129124_10" ></RELATION>
+
+<RELATION at_date_string="April 21, 2003" theme="129124_2" at_date="129124_9" theme_string="WAGNER v. CALIFORNIA DEPARTMENT OF JUSTICE ET AL" gram_type="multi_line" relation_type="asymmetric" id="129124_12" ></RELATION>
+
+<RELATION theme="129124_2" includes_docket_string="02-8049" includes_docket="129124_7" theme_string="WAGNER v. CALIFORNIA DEPARTMENT OF JUSTICE ET AL" gram_type="multi_line" relation_type="asymmetric" id="129124_11" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['evanshamrick#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._542_908" id1="137083" volume="542" start="0" page_number="908" standard_reporter="U.S." citation_global_level_id="2197.002" line="1" id="137082_1" citation_local_level_id="0" >542 U.S. 908</CITATION>
+
+<CITATION party2="HAMRICK ET AL" party1="EVANS" citation_global_level_id="26932.001" party2_short="HAMRICK" line="2" id="137082_2" alternative_keys="['u.s._542_908']" end="39" entry_type="party_key" lookup_key="evanshamrick#1" id1="137082" start="17" party1_short="EVANS" citation_local_level_id="1" >EVANS v. HAMRICK ET AL</CITATION>
+
+<NAME end="22" start="17" party1_of="137082_2" all_names="EVANS" local_name_id="1" id="137082_3" >EVANS</NAME>
+
+<NAME end="39" start="26" all_names="HAMRICK" party2_of="137082_2" local_name_id="2" id="137082_4" >HAMRICK ET AL</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="evanshamrick#1" id1="137082" start="49" citation_global_level_id="26932.001" line="3" id="137082_7" citation_local_level_id="1" >03-9834</DOCKET>
+
+<ORGANIZATION start="62" end="92" id="137082_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="98" citation_global_level_id="26932.001" end="111" id="137082_9" citation_local_level_id="1" >June 14, 2004</DATE>
+
+<NAME start="144" local_name_id="3" end="147" id="137082_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="137082_2" party1="137082_3" party1_string="EVANS" theme_string="EVANS v. HAMRICK ET AL" gram_type="infix" relation_type="asymmetric" id="137082_5" ></RELATION>
+
+<RELATION party2="137082_4" theme="137082_2" theme_string="EVANS v. HAMRICK ET AL" party2_string="HAMRICK ET AL" gram_type="infix" relation_type="asymmetric" id="137082_6" ></RELATION>
+
+<RELATION standard_case_string="542 U.S. 908" X_vs_Y_string="EVANS v. HAMRICK ET AL" standard_case="137082_1" X_vs_Y="137082_2" gram_type="multi_line" relation_type="equivalence" id="137082_10" ></RELATION>
+
+<RELATION at_date_string="June 14, 2004" theme="137082_2" at_date="137082_9" theme_string="EVANS v. HAMRICK ET AL" gram_type="multi_line" relation_type="asymmetric" id="137082_12" ></RELATION>
+
+<RELATION theme="137082_2" includes_docket_string="03-9834" includes_docket="137082_7" theme_string="EVANS v. HAMRICK ET AL" gram_type="multi_line" relation_type="asymmetric" id="137082_11" ></RELATION>
+

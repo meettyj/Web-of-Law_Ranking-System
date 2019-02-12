@@ -1,0 +1,50 @@
+<CITATION alternative_keys="['rubberassociates#1']" end="20" reporter="U.S." entry_type="standard_key" lookup_key="u.s._364_299" id1="106122" volume="364" start="1" page_number="299" year="1960" standard_reporter="U.S." citation_global_level_id="15950.002" line="2" id="106122_1" citation_local_level_id="0" >364 U.S. 299 (1960)</CITATION>
+
+<DATE start="15" citation_global_level_id="15950.002" end="19" id="106122_2" citation_local_level_id="0" >1960</DATE>
+
+<CITATION party2="CORDOVAN ASSOCIATES, INC" party1="DAYTON RUBBER CO." citation_global_level_id="15950.001" party2_short="ASSOCIATES" line="5" id="106122_6" alternative_keys="['u.s._364_299']" end="68" entry_type="party_key" lookup_key="rubberassociates#1" id1="106122" start="21" party1_short="RUBBER" citation_local_level_id="1" >DAYTON RUBBER CO. v. CORDOVAN ASSOCIATES, INC</CITATION>
+
+<NAME end="38" start="21" party1_of="106122_6" all_names="DAYTON RUBBER CO" local_name_id="1" id="106122_7" >DAYTON RUBBER CO.</NAME>
+
+<ORGANIZATION start="21" end="37" id="106122_9" >DAYTON RUBBER CO</ORGANIZATION>
+
+<NAME end="68" start="44" all_names="CORDOVAN ASSOCIATES INC" party2_of="106122_6" local_name_id="2" id="106122_8" >CORDOVAN ASSOCIATES, INC</NAME>
+
+<ORGANIZATION start="79" end="109" id="106122_13" >Supreme Court of United States</ORGANIZATION>
+
+<NAME start="111" local_name_id="3" end="118" id="106122_15" all_names="DECIDED" >Decided</NAME>
+
+<DATE start="119" end="135" id="106122_14" >October 24, 1960</DATE>
+
+<ORGANIZATION start="140" end="231" id="106122_16" >PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SIXTH CIRCUIT</ORGANIZATION>
+
+<LEGAL_ROLE start="233" end="285" id="106122_17" >Philip C. Ebeling and James E. Corkey for petitioner</LEGAL_ROLE>
+
+<LEGAL_ROLE start="287" end="320" id="106122_18" >Richard W. Galiher for respondent</LEGAL_ROLE>
+
+<NAME start="326" local_name_id="4" end="332" id="106122_19" all_names="CURIAM" >CURIAM</NAME>
+
+<CITATION party2="Duberstein" party1="Commissioner of Internal Revenue" citation_global_level_id="32554.001" party2_short="Duberstein" line="13" id="106122_21" alternative_keys="['u.s._363_278']" end="507" entry_type="party_key" lookup_key="commissionerduberstein#1" id1="106071" start="461" party1_short="Commissioner" citation_local_level_id="2" >Commissioner of Internal Revenue v. Duberstein</CITATION>
+
+<NAME end="493" start="461" party1_of="106122_21" all_names="COMMISSIONER OF INTERNAL REVENUE" local_name_id="5" id="106122_22" >Commissioner of Internal Revenue</NAME>
+
+<NAME end="507" start="497" all_names="DUBERSTEIN" party2_of="106122_21" local_name_id="6" id="106122_23" >Duberstein</NAME>
+
+<CITATION alternative_keys="['commissionerduberstein#1']" end="526" paragraph_number="291" reporter="U.S." entry_type="standard_key" lookup_key="u.s._363_278" id1="106071" volume="363" start="509" page_number="278" standard_reporter="U.S." citation_global_level_id="32554.002" line="13" id="106122_20" citation_local_level_id="3" >363 U.S. 278, 291</CITATION>
+
+<NAME start="528" local_name_id="7" end="530" id="106122_27" all_names="MR" >MR</NAME>
+
+<RELATION at_date_string="1960" theme="106122_1" at_date="106122_2" theme_string="364 U.S. 299 (1960)" gram_type="infix" relation_type="asymmetric" id="106122_3" ></RELATION>
+
+<RELATION theme="106122_6" party1="106122_7" party1_string="DAYTON RUBBER CO." theme_string="DAYTON RUBBER CO.  v.  CORDOVAN ASSOCIATES, INC" gram_type="infix" relation_type="asymmetric" id="106122_10" ></RELATION>
+
+<RELATION party2="106122_8" theme="106122_6" theme_string="DAYTON RUBBER CO.  v.  CORDOVAN ASSOCIATES, INC" party2_string="CORDOVAN ASSOCIATES, INC" gram_type="infix" relation_type="asymmetric" id="106122_11" ></RELATION>
+
+<RELATION standard_case_string="364 U.S. 299 (1960)" X_vs_Y_string="DAYTON RUBBER CO.  v.  CORDOVAN ASSOCIATES, INC" standard_case="106122_1" X_vs_Y="106122_6" gram_type="multi_line" relation_type="equivalence" id="106122_12" ></RELATION>
+
+<RELATION standard_case_string="363 U.S. 278, 291" X_vs_Y_string="Commissioner of Internal Revenue v. Duberstein" standard_case="106122_20" X_vs_Y="106122_21" gram_type="apposition" relation_type="equivalence" id="106122_26" ></RELATION>
+
+<RELATION theme="106122_21" party1="106122_22" party1_string="Commissioner of Internal Revenue" theme_string="Commissioner of Internal Revenue v. Duberstein" gram_type="infix" relation_type="asymmetric" id="106122_24" ></RELATION>
+
+<RELATION party2="106122_23" theme="106122_21" theme_string="Commissioner of Internal Revenue v. Duberstein" party2_string="Duberstein" gram_type="infix" relation_type="asymmetric" id="106122_25" ></RELATION>
+

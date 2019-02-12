@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['bowenillinois#3']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_946" id1="114743" volume="510" start="0" page_number="946" standard_reporter="U.S." citation_global_level_id="2537.002" line="1" id="114734_1" citation_local_level_id="0" >510 U.S. 946</CITATION>
+
+<CITATION party2="Illinois" party1="Bowen" citation_global_level_id="55736.001" party2_short="Illinois" line="1" id="114734_3" alternative_keys="['u.s._510_946']" end="34" entry_type="party_key" lookup_key="bowenillinois#3" id1="130259" start="17" party1_short="Bowen" citation_local_level_id="1" >Bowen v. Illinois</CITATION>
+
+<NAME end="22" start="17" party1_of="114734_3" all_names="BOWEN" local_name_id="1" id="114734_4" >Bowen</NAME>
+
+<NAME end="34" start="26" all_names="ILLINOIS" party2_of="114734_3" local_name_id="2" id="114734_5" >Illinois</NAME>
+
+<DOCKET end="50" entry_type="docket" lookup_key="u.s._510_946" id1="114743" start="44" citation_global_level_id="2537.002" line="1" id="114734_2" citation_local_level_id="0" >93-365</DOCKET>
+
+<DATE start="92" end="108" id="114734_6" >November 1, 1993</DATE>
+
+<NAME start="196" local_name_id="3" end="206" id="114734_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="269" reporter="N. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.e.2d_609_346" id1="Dummy_File_146655" volume="609" start="253" page_number="346" standard_reporter="N.E.2D" citation_global_level_id="210505.001" line="3" id="114734_12" citation_local_level_id="2" >609 N. E. 2d 346</CITATION>
+
+<RELATION theme="114734_1" includes_docket_string="93-365" includes_docket="114734_2" theme_string="510 U.S. 946" gram_type="apposition" relation_type="asymmetric" id="114734_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 946" X_vs_Y_string="Bowen v. Illinois" standard_case="114734_1" X_vs_Y="114734_3" gram_type="pre_nom" relation_type="equivalence" id="114734_7" ></RELATION>
+
+<RELATION theme="114734_3" includes_docket_string="93-365" includes_docket="114734_2" theme_string="Bowen v. Illinois" gram_type="apposition" relation_type="asymmetric" id="114734_10" ></RELATION>
+
+<RELATION theme="114734_3" party1="114734_4" party1_string="Bowen" theme_string="Bowen v. Illinois" gram_type="infix" relation_type="asymmetric" id="114734_8" ></RELATION>
+
+<RELATION party2="114734_5" theme="114734_3" theme_string="Bowen v. Illinois" party2_string="Illinois" gram_type="infix" relation_type="asymmetric" id="114734_9" ></RELATION>
+

@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['dcalifornia#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_973" id1="124479" volume="537" start="0" page_number="973" standard_reporter="U.S." citation_global_level_id="711.002" line="1" id="124483_1" citation_local_level_id="0" >537 U.S. 973</CITATION>
+
+<CITATION party2="CALIFORNIA" party1="ARTURO D." citation_global_level_id="4966.001" party2_short="CALIFORNIA" line="1" id="124483_3" alternative_keys="['u.s._537_973']" end="40" entry_type="party_key" lookup_key="dcalifornia#1" id1="124483" start="17" party1_short="D" citation_local_level_id="1" >ARTURO D. v. CALIFORNIA</CITATION>
+
+<NAME end="26" start="17" party1_of="124483_3" all_names="ARTURO D" local_name_id="1" id="124483_4" >ARTURO D.</NAME>
+
+<NAME start="17" local_name_id="1" end="25" id="124483_7" all_names="ARTURO D" >ARTURO D</NAME>
+
+<NAME end="40" start="30" all_names="CALIFORNIA" party2_of="124483_3" local_name_id="2" id="124483_5" >CALIFORNIA</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._537_973" id1="124479" start="50" citation_global_level_id="711.002" line="1" id="124483_2" citation_local_level_id="0" >01-9812</DOCKET>
+
+<DATE start="99" end="115" id="124483_6" >October 21, 2002</DATE>
+
+<NAME start="209" local_name_id="3" end="212" id="124483_14" all_names="SUP" >Sup</NAME>
+
+<CITATION end="286" reporter="P. 3d" entry_type="standard_key" no_current_file="True" lookup_key="p.3d_38_433" id1="Dummy_File_45364" volume="38" start="274" page_number="433" standard_reporter="P.3D" citation_global_level_id="109214.001" line="3" id="124483_13" citation_local_level_id="2" >38 P. 3d 433</CITATION>
+
+<RELATION theme="124483_1" includes_docket_string="01-9812" includes_docket="124483_2" theme_string="537 U.S. 973" gram_type="apposition" relation_type="asymmetric" id="124483_12" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 973" X_vs_Y_string="ARTURO D. v. CALIFORNIA" standard_case="124483_1" X_vs_Y="124483_3" gram_type="pre_nom" relation_type="equivalence" id="124483_8" ></RELATION>
+
+<RELATION theme="124483_3" includes_docket_string="01-9812" includes_docket="124483_2" theme_string="ARTURO D. v. CALIFORNIA" gram_type="apposition" relation_type="asymmetric" id="124483_11" ></RELATION>
+
+<RELATION party2="124483_5" theme="124483_3" theme_string="ARTURO D. v. CALIFORNIA" party2_string="CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="124483_10" ></RELATION>
+
+<RELATION theme="124483_3" party1="124483_4" party1_string="ARTURO D." theme_string="ARTURO D. v. CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="124483_9" ></RELATION>
+

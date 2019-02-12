@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['beckleywarden#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1082" id1="141368" volume="543" start="0" page_number="1082" standard_reporter="U.S." citation_global_level_id="6048.002" line="1" id="141373_1" citation_local_level_id="0" >543 U.S. 1082</CITATION>
+
+<CITATION party2="MINER, WARDEN" party1="BECKLEY" citation_global_level_id="56075.001" party2_short="WARDEN" line="2" id="141373_2" alternative_keys="['u.s._543_1082']" end="42" entry_type="party_key" lookup_key="beckleywarden#1" id1="141373" start="18" party1_short="BECKLEY" citation_local_level_id="1" >BECKLEY v. MINER, WARDEN</CITATION>
+
+<NAME end="25" start="18" party1_of="141373_2" all_names="BECKLEY" local_name_id="1" id="141373_3" >BECKLEY</NAME>
+
+<NAME end="42" start="29" all_names="MINER WARDEN" party2_of="141373_2" local_name_id="2" id="141373_4" >MINER, WARDEN</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="beckleywarden#1" id1="141373" start="52" citation_global_level_id="56075.001" line="3" id="141373_7" citation_local_level_id="1" >04-7524</DOCKET>
+
+<ORGANIZATION start="65" end="95" id="141373_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="101" citation_global_level_id="56075.001" end="117" id="141373_9" citation_local_level_id="1" >January 10, 2005</DATE>
+
+<NAME start="148" local_name_id="3" end="151" id="141373_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="141373_2" party1="141373_3" party1_string="BECKLEY" theme_string="BECKLEY v. MINER, WARDEN" gram_type="infix" relation_type="asymmetric" id="141373_5" ></RELATION>
+
+<RELATION party2="141373_4" theme="141373_2" theme_string="BECKLEY v. MINER, WARDEN" party2_string="MINER, WARDEN" gram_type="infix" relation_type="asymmetric" id="141373_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1082" X_vs_Y_string="BECKLEY v. MINER, WARDEN" standard_case="141373_1" X_vs_Y="141373_2" gram_type="multi_line" relation_type="equivalence" id="141373_10" ></RELATION>
+
+<RELATION at_date_string="January 10, 2005" theme="141373_2" at_date="141373_9" theme_string="BECKLEY v. MINER, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="141373_12" ></RELATION>
+
+<RELATION theme="141373_2" includes_docket_string="04-7524" includes_docket="141373_7" theme_string="BECKLEY v. MINER, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="141373_11" ></RELATION>
+

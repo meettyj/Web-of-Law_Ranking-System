@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['thomasalabama#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_816" id1="131336" volume="540" start="0" page_number="816" standard_reporter="U.S." citation_global_level_id="558.002" line="1" id="131347_1" citation_local_level_id="0" >540 U.S. 816</CITATION>
+
+<CITATION party2="ALABAMA" party1="THOMAS" citation_global_level_id="9284.001" party2_short="ALABAMA" line="1" id="131347_3" alternative_keys="['u.s._540_816']" end="34" entry_type="party_key" lookup_key="thomasalabama#1" id1="131347" start="17" party1_short="THOMAS" citation_local_level_id="1" >THOMAS v. ALABAMA</CITATION>
+
+<NAME end="23" start="17" party1_of="131347_3" all_names="THOMAS" local_name_id="1" id="131347_4" >THOMAS</NAME>
+
+<NAME end="34" start="27" all_names="ALABAMA" party2_of="131347_3" local_name_id="2" id="131347_5" >ALABAMA</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="u.s._540_816" id1="131336" start="44" citation_global_level_id="558.002" line="1" id="131347_2" citation_local_level_id="0" >02-1671</DOCKET>
+
+<DATE start="93" end="108" id="131347_6" >October 6, 2003</DATE>
+
+<NAME start="191" local_name_id="3" end="201" id="131347_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="241" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_854_1216" id1="Dummy_File_131611" volume="854" start="226" page_number="1216" standard_reporter="SO.2D" citation_global_level_id="195461.001" line="3" id="131347_12" citation_local_level_id="2" >854 So. 2d 1216</CITATION>
+
+<RELATION theme="131347_1" includes_docket_string="02-1671" includes_docket="131347_2" theme_string="540 U.S. 816" gram_type="apposition" relation_type="asymmetric" id="131347_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 816" X_vs_Y_string="THOMAS v. ALABAMA" standard_case="131347_1" X_vs_Y="131347_3" gram_type="pre_nom" relation_type="equivalence" id="131347_7" ></RELATION>
+
+<RELATION theme="131347_3" includes_docket_string="02-1671" includes_docket="131347_2" theme_string="THOMAS v. ALABAMA" gram_type="apposition" relation_type="asymmetric" id="131347_10" ></RELATION>
+
+<RELATION theme="131347_3" party1="131347_4" party1_string="THOMAS" theme_string="THOMAS v. ALABAMA" gram_type="infix" relation_type="asymmetric" id="131347_8" ></RELATION>
+
+<RELATION party2="131347_5" theme="131347_3" theme_string="THOMAS v. ALABAMA" party2_string="ALABAMA" gram_type="infix" relation_type="asymmetric" id="131347_9" ></RELATION>
+

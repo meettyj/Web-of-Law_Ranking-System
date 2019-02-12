@@ -1,0 +1,56 @@
+<CITATION alternative_keys="['commissionerassn#5']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_802" id1="122273" volume="537" start="0" page_number="802" standard_reporter="U.S." citation_global_level_id="15853.002" line="1" id="122275_1" citation_local_level_id="0" >537 U.S. 802</CITATION>
+
+<CITATION party2="NATIONAL HOME EQUITY MORTGAGE ASSN" party1="FACE, VIRGINIA COMMISSIONER OF FINANCIAL INSTITUTIONS, ET AL." citation_global_level_id="15853.003" party2_short="ASSN" line="1" id="122275_3" alternative_keys="['u.s._537_802']" end="116" entry_type="party_key" lookup_key="commissionerassn#5" id1="122273" start="17" party1_short="COMMISSIONER" citation_local_level_id="1" >FACE, VIRGINIA COMMISSIONER OF FINANCIAL INSTITUTIONS, ET AL. v. NATIONAL HOME EQUITY MORTGAGE ASSN</CITATION>
+
+<NAME end="78" start="17" party1_of="122275_3" all_names="FACE VIRGINIA COMMISSIONER OF FINANCIAL INSTITUTIONS" local_name_id="1" id="122275_4" >FACE, VIRGINIA COMMISSIONER OF FINANCIAL INSTITUTIONS, ET AL.</NAME>
+
+<NAME start="17" local_name_id="2" end="21" id="122275_8" all_names="FACE" >FACE</NAME>
+
+<ORGANIZATION start="23" end="70" plural="True" id="122275_9" >VIRGINIA COMMISSIONER OF FINANCIAL INSTITUTIONS</ORGANIZATION>
+
+<NAME end="116" start="82" all_names="NATIONAL HOME EQUITY MORTGAGE ASSN" party2_of="122275_3" local_name_id="3" id="122275_5" >NATIONAL HOME EQUITY MORTGAGE ASSN</NAME>
+
+<DOCKET end="133" entry_type="docket" lookup_key="u.s._537_802" id1="122273" start="126" citation_global_level_id="15853.002" line="1" id="122275_2" citation_local_level_id="0" >01-1827</DOCKET>
+
+<DATE start="129" end="133" id="122275_6" >1827</DATE>
+
+<ORGANIZATION start="139" end="169" id="122275_10" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="175" end="190" id="122275_7" >October 7, 2002</DATE>
+
+<ORGANIZATION start="212" end="283" id="122275_11" >CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FOURTH CIRCUIT</ORGANIZATION>
+
+<NAME start="320" local_name_id="4" end="323" id="122275_24" all_names="CIR" >Cir</NAME>
+
+<CITATION party2="Doe" party1="Gonzaga Univ." citation_global_level_id="5450.001" party2_short="Doe" line="3" id="122275_20" alternative_keys="['u.s._536_273']" end="439" entry_type="party_key" lookup_key="univdoe#1" id1="121157" start="419" party1_short="Univ" citation_local_level_id="2" >Gonzaga Univ. v. Doe</CITATION>
+
+<NAME end="432" start="419" party1_of="122275_20" all_names="GONZAGA UNIV" local_name_id="5" id="122275_21" >Gonzaga Univ.</NAME>
+
+<NAME end="439" start="436" all_names="DOE" party2_of="122275_20" local_name_id="6" id="122275_22" >Doe</NAME>
+
+<CITATION alternative_keys="['univdoe#1']" end="460" reporter="U.S." entry_type="standard_key" lookup_key="u.s._536_273" id1="121157" volume="536" start="441" page_number="273" year="2002" standard_reporter="U.S." citation_global_level_id="5450.002" line="3" id="122275_18" citation_local_level_id="3" >536 U.S. 273 (2002)</CITATION>
+
+<DATE start="455" citation_global_level_id="5450.002" end="459" id="122275_23" citation_local_level_id="3" >2002</DATE>
+
+<CITATION end="491" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_283_220" id1="Dummy_File_45604" volume="283" start="478" page_number="220" standard_reporter="F.3D" citation_global_level_id="109454.001" line="3" id="122275_19" citation_local_level_id="4" >283 F. 3d 220</CITATION>
+
+<RELATION theme="122275_1" includes_docket_string="01-1827" includes_docket="122275_2" theme_string="537 U.S. 802" gram_type="apposition" relation_type="asymmetric" id="122275_16" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 802" X_vs_Y_string="FACE, VIRGINIA COMMISSIONER OF FINANCIAL INSTITUTIONS, ET AL. v. NATIONAL HOME EQUITY MORTGAGE ASSN" standard_case="122275_1" X_vs_Y="122275_3" gram_type="pre_nom" relation_type="equivalence" id="122275_12" ></RELATION>
+
+<RELATION theme="122275_3" includes_docket_string="01-1827" includes_docket="122275_2" theme_string="FACE, VIRGINIA COMMISSIONER OF FINANCIAL INSTITUTIONS, ET AL. v. NATIONAL HOME EQUITY MORTGAGE ASSN" gram_type="apposition" relation_type="asymmetric" id="122275_15" ></RELATION>
+
+<RELATION theme="122275_3" party1="122275_4" party1_string="FACE, VIRGINIA COMMISSIONER OF FINANCIAL INSTITUTIONS, ET AL." theme_string="FACE, VIRGINIA COMMISSIONER OF FINANCIAL INSTITUTIONS, ET AL. v. NATIONAL HOME EQUITY MORTGAGE ASSN" gram_type="infix" relation_type="asymmetric" id="122275_13" ></RELATION>
+
+<RELATION party2="122275_5" theme="122275_3" theme_string="FACE, VIRGINIA COMMISSIONER OF FINANCIAL INSTITUTIONS, ET AL. v. NATIONAL HOME EQUITY MORTGAGE ASSN" party2_string="NATIONAL HOME EQUITY MORTGAGE ASSN" gram_type="infix" relation_type="asymmetric" id="122275_14" ></RELATION>
+
+<RELATION at_date_string="1827" theme="122275_2" at_date="122275_6" theme_string="01-1827" gram_type="infix" relation_type="asymmetric" id="122275_17" ></RELATION>
+
+<RELATION standard_case_string="536 U.S. 273 (2002)" X_vs_Y_string="Gonzaga Univ. v. Doe" standard_case="122275_18" X_vs_Y="122275_20" gram_type="apposition" relation_type="equivalence" id="122275_27" ></RELATION>
+
+<RELATION theme="122275_20" party1="122275_21" party1_string="Gonzaga Univ." theme_string="Gonzaga Univ. v. Doe" gram_type="infix" relation_type="asymmetric" id="122275_25" ></RELATION>
+
+<RELATION party2="122275_22" theme="122275_20" theme_string="Gonzaga Univ. v. Doe" party2_string="Doe" gram_type="infix" relation_type="asymmetric" id="122275_26" ></RELATION>
+
+<RELATION at_date_string="2002" theme="122275_18" at_date="122275_23" theme_string="536 U.S. 273 (2002)" gram_type="infix" relation_type="asymmetric" id="122275_28" ></RELATION>
+

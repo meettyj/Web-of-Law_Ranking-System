@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['easterwoodkansas#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_951" id1="124232" volume="537" start="0" page_number="951" standard_reporter="U.S." citation_global_level_id="3663.002" line="1" id="124226_1" citation_local_level_id="0" >537 U.S. 951</CITATION>
+
+<CITATION party2="KANSAS" party1="EASTERWOOD" citation_global_level_id="50465.001" party2_short="KANSAS" line="1" id="124226_3" alternative_keys="['u.s._537_951']" end="37" entry_type="party_key" lookup_key="easterwoodkansas#1" id1="124226" start="17" party1_short="EASTERWOOD" citation_local_level_id="1" >EASTERWOOD v. KANSAS</CITATION>
+
+<NAME end="27" start="17" party1_of="124226_3" all_names="EASTERWOOD" local_name_id="1" id="124226_4" >EASTERWOOD</NAME>
+
+<NAME end="37" start="31" all_names="KANSAS" party2_of="124226_3" local_name_id="2" id="124226_5" >KANSAS</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="u.s._537_951" id1="124232" start="47" citation_global_level_id="3663.002" line="1" id="124226_2" citation_local_level_id="0" >02-5460</DOCKET>
+
+<DATE start="96" end="112" id="124226_6" >October 15, 2002</DATE>
+
+<NAME start="202" local_name_id="3" end="205" id="124226_14" all_names="SUP" >Sup</NAME>
+
+<CITATION end="263" reporter="Kan." entry_type="standard_key" no_current_file="True" lookup_key="kan._273_361" id1="Dummy_File_59370" volume="273" start="251" page_number="361" standard_reporter="KAN." citation_global_level_id="123220.001" line="3" id="124226_12" citation_local_level_id="2" >273 Kan. 361</CITATION>
+
+<CITATION end="278" reporter="P. 3d" entry_type="standard_key" no_current_file="True" lookup_key="p.3d_44_1209" id1="Dummy_File_59371" volume="44" start="265" page_number="1209" standard_reporter="P.3D" citation_global_level_id="123221.001" line="3" id="124226_13" citation_local_level_id="3" >44 P. 3d 1209</CITATION>
+
+<RELATION theme="124226_1" includes_docket_string="02-5460" includes_docket="124226_2" theme_string="537 U.S. 951" gram_type="apposition" relation_type="asymmetric" id="124226_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 951" X_vs_Y_string="EASTERWOOD v. KANSAS" standard_case="124226_1" X_vs_Y="124226_3" gram_type="pre_nom" relation_type="equivalence" id="124226_7" ></RELATION>
+
+<RELATION theme="124226_3" includes_docket_string="02-5460" includes_docket="124226_2" theme_string="EASTERWOOD v. KANSAS" gram_type="apposition" relation_type="asymmetric" id="124226_10" ></RELATION>
+
+<RELATION theme="124226_3" party1="124226_4" party1_string="EASTERWOOD" theme_string="EASTERWOOD v. KANSAS" gram_type="infix" relation_type="asymmetric" id="124226_8" ></RELATION>
+
+<RELATION party2="124226_5" theme="124226_3" theme_string="EASTERWOOD v. KANSAS" party2_string="KANSAS" gram_type="infix" relation_type="asymmetric" id="124226_9" ></RELATION>
+

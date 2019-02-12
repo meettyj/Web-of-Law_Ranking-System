@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['smithmexico#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_811" id1="137868" volume="543" start="0" page_number="811" standard_reporter="U.S." citation_global_level_id="4177.002" line="1" id="137874_1" citation_local_level_id="0" >543 U.S. 811</CITATION>
+
+<CITATION party2="NEW MEXICO" party1="SMITH" citation_global_level_id="45431.001" party2_short="MEXICO" line="2" id="137874_2" alternative_keys="['u.s._543_811']" end="36" entry_type="party_key" lookup_key="smithmexico#2" id1="139648" start="17" party1_short="SMITH" citation_local_level_id="1" >SMITH v. NEW MEXICO</CITATION>
+
+<NAME end="22" start="17" party1_of="137874_2" all_names="SMITH" local_name_id="1" id="137874_3" >SMITH</NAME>
+
+<NAME end="36" start="26" all_names="NEW MEXICO" party2_of="137874_2" local_name_id="2" id="137874_4" >NEW MEXICO</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="smithmexico#2" id1="139648" start="46" citation_global_level_id="45431.001" line="3" id="137874_7" citation_local_level_id="1" >03-1529</DOCKET>
+
+<ORGANIZATION start="59" end="89" id="137874_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="95" citation_global_level_id="45431.001" end="110" id="137874_9" citation_local_level_id="1" >October 4, 2004</DATE>
+
+<NAME start="132" local_name_id="3" end="134" id="137874_13" all_names="CT" >Ct</NAME>
+
+<RELATION theme="137874_2" party1="137874_3" party1_string="SMITH" theme_string="SMITH v. NEW MEXICO" gram_type="infix" relation_type="asymmetric" id="137874_5" ></RELATION>
+
+<RELATION party2="137874_4" theme="137874_2" theme_string="SMITH v. NEW MEXICO" party2_string="NEW MEXICO" gram_type="infix" relation_type="asymmetric" id="137874_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 811" X_vs_Y_string="SMITH v. NEW MEXICO" standard_case="137874_1" X_vs_Y="137874_2" gram_type="multi_line" relation_type="equivalence" id="137874_10" ></RELATION>
+
+<RELATION at_date_string="October 4, 2004" theme="137874_2" at_date="137874_9" theme_string="SMITH v. NEW MEXICO" gram_type="multi_line" relation_type="asymmetric" id="137874_12" ></RELATION>
+
+<RELATION theme="137874_2" includes_docket_string="03-1529" includes_docket="137874_7" theme_string="SMITH v. NEW MEXICO" gram_type="multi_line" relation_type="asymmetric" id="137874_11" ></RELATION>
+

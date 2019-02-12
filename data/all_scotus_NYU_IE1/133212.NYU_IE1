@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['webbcalifornia#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_958" id1="133205" volume="540" start="0" page_number="958" standard_reporter="U.S." citation_global_level_id="1793.002" line="1" id="133212_1" citation_local_level_id="0" >540 U.S. 958</CITATION>
+
+<CITATION party2="CALIFORNIA" party1="WEBB" citation_global_level_id="49665.001" party2_short="CALIFORNIA" line="1" id="133212_3" alternative_keys="['u.s._540_958']" end="35" entry_type="party_key" lookup_key="webbcalifornia#1" id1="133212" start="17" party1_short="WEBB" citation_local_level_id="1" >WEBB v. CALIFORNIA</CITATION>
+
+<NAME end="21" start="17" party1_of="133212_3" all_names="WEBB" local_name_id="1" id="133212_4" >WEBB</NAME>
+
+<NAME end="35" start="25" all_names="CALIFORNIA" party2_of="133212_3" local_name_id="2" id="133212_5" >CALIFORNIA</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="u.s._540_958" id1="133205" start="45" citation_global_level_id="1793.002" line="1" id="133212_2" citation_local_level_id="0" >03-5954</DOCKET>
+
+<DATE start="94" end="110" id="133212_6" >October 14, 2003</DATE>
+
+<NAME start="202" local_name_id="3" end="212" id="133212_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="133212_1" includes_docket_string="03-5954" includes_docket="133212_2" theme_string="540 U.S. 958" gram_type="apposition" relation_type="asymmetric" id="133212_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 958" X_vs_Y_string="WEBB v. CALIFORNIA" standard_case="133212_1" X_vs_Y="133212_3" gram_type="pre_nom" relation_type="equivalence" id="133212_7" ></RELATION>
+
+<RELATION theme="133212_3" includes_docket_string="03-5954" includes_docket="133212_2" theme_string="WEBB v. CALIFORNIA" gram_type="apposition" relation_type="asymmetric" id="133212_10" ></RELATION>
+
+<RELATION theme="133212_3" party1="133212_4" party1_string="WEBB" theme_string="WEBB v. CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="133212_8" ></RELATION>
+
+<RELATION party2="133212_5" theme="133212_3" theme_string="WEBB v. CALIFORNIA" party2_string="CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="133212_9" ></RELATION>
+

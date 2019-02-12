@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['bertrandoswald#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1002" id1="140339" volume="543" start="0" page_number="1002" standard_reporter="U.S." citation_global_level_id="3541.002" line="1" id="140333_1" citation_local_level_id="0" >543 U.S. 1002</CITATION>
+
+<CITATION party2="OSWALD" party1="BERTRAND, WARDEN" citation_global_level_id="3541.006" party2_short="OSWALD" line="2" id="140333_2" alternative_keys="['u.s._543_1002']" end="44" entry_type="party_key" lookup_key="bertrandoswald#1" id1="140339" start="18" party1_short="BERTRAND" citation_local_level_id="1" >BERTRAND, WARDEN v. OSWALD</CITATION>
+
+<NAME end="34" start="18" party1_of="140333_2" all_names="BERTRAND WARDEN" local_name_id="1" id="140333_3" >BERTRAND, WARDEN</NAME>
+
+<PROFESSION start="28" end="34" id="140333_5" >WARDEN</PROFESSION>
+
+<NAME end="44" start="38" all_names="OSWALD" party2_of="140333_2" local_name_id="2" id="140333_4" >OSWALD</NAME>
+
+<DOCKET alternative_keys="['u.s._543_1002']" end="60" entry_type="docket" lookup_key="bertrandoswald#1" id1="140339" start="54" citation_global_level_id="3541.006" line="3" id="140333_8" citation_local_level_id="1" >04-410</DOCKET>
+
+<ORGANIZATION start="66" end="96" id="140333_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="102" citation_global_level_id="3541.006" end="119" id="140333_10" citation_local_level_id="1" >November 29, 2004</DATE>
+
+<NAME start="151" local_name_id="3" end="154" id="140333_15" all_names="CIR" >Cir</NAME>
+
+<CITATION end="204" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_374_475" id1="Dummy_File_147940" volume="374" start="191" page_number="475" standard_reporter="F.3D" citation_global_level_id="211790.001" line="8" id="140333_14" citation_local_level_id="2" >374 F. 3d 475</CITATION>
+
+<RELATION theme="140333_2" party1="140333_3" party1_string="BERTRAND, WARDEN" theme_string="BERTRAND, WARDEN v. OSWALD" gram_type="infix" relation_type="asymmetric" id="140333_6" ></RELATION>
+
+<RELATION party2="140333_4" theme="140333_2" theme_string="BERTRAND, WARDEN v. OSWALD" party2_string="OSWALD" gram_type="infix" relation_type="asymmetric" id="140333_7" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1002" X_vs_Y_string="BERTRAND, WARDEN v. OSWALD" standard_case="140333_1" X_vs_Y="140333_2" gram_type="multi_line" relation_type="equivalence" id="140333_11" ></RELATION>
+
+<RELATION at_date_string="November 29, 2004" theme="140333_2" at_date="140333_10" theme_string="BERTRAND, WARDEN v. OSWALD" gram_type="multi_line" relation_type="asymmetric" id="140333_13" ></RELATION>
+
+<RELATION theme="140333_2" includes_docket_string="04-410" includes_docket="140333_8" theme_string="BERTRAND, WARDEN v. OSWALD" gram_type="multi_line" relation_type="asymmetric" id="140333_12" ></RELATION>
+

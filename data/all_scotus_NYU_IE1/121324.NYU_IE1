@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['fosterstates#9']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._536_913" id1="121322" volume="536" start="0" page_number="913" standard_reporter="U.S." citation_global_level_id="1232.002" line="1" id="121324_1" citation_local_level_id="0" >536 U.S. 913</CITATION>
+
+<CITATION party2="UNITED STATES" party1="FOSTER" citation_global_level_id="62848.001" party2_short="STATES" line="2" id="121324_2" alternative_keys="['u.s._536_913']" end="40" entry_type="party_key" lookup_key="fosterstates#9" id1="121324" start="17" party1_short="FOSTER" citation_local_level_id="1" >FOSTER v. UNITED STATES</CITATION>
+
+<NAME end="23" start="17" party1_of="121324_2" all_names="FOSTER" local_name_id="1" id="121324_3" >FOSTER</NAME>
+
+<NAME end="40" start="27" all_names="UNITED STATES" party2_of="121324_2" local_name_id="2" id="121324_4" >UNITED STATES</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="fosterstates#9" id1="121324" start="50" citation_global_level_id="62848.001" line="3" id="121324_7" citation_local_level_id="1" >01-10073</DOCKET>
+
+<DATE start="104" citation_global_level_id="62848.001" end="117" id="121324_8" citation_local_level_id="1" >June 10, 2002</DATE>
+
+<NAME start="150" local_name_id="3" end="153" id="121324_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="121324_2" party1="121324_3" party1_string="FOSTER" theme_string="FOSTER v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="121324_5" ></RELATION>
+
+<RELATION party2="121324_4" theme="121324_2" theme_string="FOSTER v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="121324_6" ></RELATION>
+
+<RELATION standard_case_string="536 U.S. 913" X_vs_Y_string="FOSTER v. UNITED STATES" standard_case="121324_1" X_vs_Y="121324_2" gram_type="multi_line" relation_type="equivalence" id="121324_9" ></RELATION>
+
+<RELATION at_date_string="June 10, 2002" theme="121324_2" at_date="121324_8" theme_string="FOSTER v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="121324_11" ></RELATION>
+
+<RELATION theme="121324_2" includes_docket_string="01-10073" includes_docket="121324_7" theme_string="FOSTER v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="121324_10" ></RELATION>
+

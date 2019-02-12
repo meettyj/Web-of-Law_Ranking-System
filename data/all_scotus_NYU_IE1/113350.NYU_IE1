@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['griswoldbryant#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_838" id1="113355" volume="510" start="0" page_number="838" standard_reporter="U.S." citation_global_level_id="5243.002" line="1" id="113350_1" citation_local_level_id="0" >510 U.S. 838</CITATION>
+
+<CITATION party2="Bryant, Attorney General of Arkansas, et al" party1="Griswold" citation_global_level_id="5243.003" party2_short="Bryant" line="1" id="113350_3" alternative_keys="['u.s._510_838']" end="72" entry_type="party_key" lookup_key="griswoldbryant#1" id1="113355" start="17" party1_short="Griswold" citation_local_level_id="1" >Griswold v. Bryant, Attorney General of Arkansas, et al</CITATION>
+
+<NAME end="25" start="17" party1_of="113350_3" all_names="GRISWOLD" local_name_id="1" id="113350_4" >Griswold</NAME>
+
+<NAME end="72" start="29" all_names="BRYANT ATTORNEY GENERAL OF ARKANSAS" party2_of="113350_3" local_name_id="2" id="113350_5" >Bryant, Attorney General of Arkansas, et al</NAME>
+
+<DOCKET end="89" entry_type="docket" lookup_key="u.s._510_838" id1="113355" start="82" citation_global_level_id="5243.002" line="1" id="113350_2" citation_local_level_id="0" >92-8878</DOCKET>
+
+<DATE start="131" end="146" id="113350_6" >October 4, 1993</DATE>
+
+<NAME start="224" local_name_id="3" end="234" id="113350_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="272" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_989_504" id1="Dummy_File_668" volume="989" start="259" page_number="504" standard_reporter="F.2D" citation_global_level_id="64518.001" line="3" id="113350_12" citation_local_level_id="2" >989 F. 2d 504</CITATION>
+
+<RELATION theme="113350_1" includes_docket_string="92-8878" includes_docket="113350_2" theme_string="510 U.S. 838" gram_type="apposition" relation_type="asymmetric" id="113350_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 838" X_vs_Y_string="Griswold v. Bryant, Attorney General of Arkansas, et al" standard_case="113350_1" X_vs_Y="113350_3" gram_type="pre_nom" relation_type="equivalence" id="113350_7" ></RELATION>
+
+<RELATION theme="113350_3" includes_docket_string="92-8878" includes_docket="113350_2" theme_string="Griswold v. Bryant, Attorney General of Arkansas, et al" gram_type="apposition" relation_type="asymmetric" id="113350_10" ></RELATION>
+
+<RELATION theme="113350_3" party1="113350_4" party1_string="Griswold" theme_string="Griswold v. Bryant, Attorney General of Arkansas, et al" gram_type="infix" relation_type="asymmetric" id="113350_8" ></RELATION>
+
+<RELATION party2="113350_5" theme="113350_3" theme_string="Griswold v. Bryant, Attorney General of Arkansas, et al" party2_string="Bryant, Attorney General of Arkansas, et al" gram_type="infix" relation_type="asymmetric" id="113350_9" ></RELATION>
+

@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['hutsoncenter#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1106" id1="126122" volume="537" start="0" page_number="1106" standard_reporter="U.S." citation_global_level_id="2659.002" line="1" id="126128_1" citation_local_level_id="0" >537 U.S. 1106</CITATION>
+
+<CITATION party2="RENT-A-CENTER, INC" party1="HUTSON" citation_global_level_id="2659.005" party2_short="CENTER" line="1" id="126128_3" alternative_keys="['u.s._537_1106']" end="46" entry_type="party_key" lookup_key="hutsoncenter#2" id1="126122" start="18" party1_short="HUTSON" citation_local_level_id="1" >HUTSON v. RENT-A-CENTER, INC</CITATION>
+
+<NAME end="24" start="18" party1_of="126128_3" all_names="HUTSON" local_name_id="1" id="126128_4" >HUTSON</NAME>
+
+<NAME end="46" start="28" all_names="RENT-A-CENTER INC" party2_of="126128_3" local_name_id="2" id="126128_5" >RENT-A-CENTER, INC</NAME>
+
+<DOCKET end="62" entry_type="docket" lookup_key="u.s._537_1106" id1="126122" start="56" citation_global_level_id="2659.002" line="1" id="126128_2" citation_local_level_id="0" >02-605</DOCKET>
+
+<DATE start="104" end="120" id="126128_6" >January 13, 2003</DATE>
+
+<NAME start="253" local_name_id="3" end="256" id="126128_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="126128_1" includes_docket_string="02-605" includes_docket="126128_2" theme_string="537 U.S. 1106" gram_type="apposition" relation_type="asymmetric" id="126128_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1106" X_vs_Y_string="HUTSON v. RENT-A-CENTER, INC" standard_case="126128_1" X_vs_Y="126128_3" gram_type="pre_nom" relation_type="equivalence" id="126128_7" ></RELATION>
+
+<RELATION theme="126128_3" includes_docket_string="02-605" includes_docket="126128_2" theme_string="HUTSON v. RENT-A-CENTER, INC" gram_type="apposition" relation_type="asymmetric" id="126128_10" ></RELATION>
+
+<RELATION theme="126128_3" party1="126128_4" party1_string="HUTSON" theme_string="HUTSON v. RENT-A-CENTER, INC" gram_type="infix" relation_type="asymmetric" id="126128_8" ></RELATION>
+
+<RELATION party2="126128_5" theme="126128_3" theme_string="HUTSON v. RENT-A-CENTER, INC" party2_string="RENT-A-CENTER, INC" gram_type="infix" relation_type="asymmetric" id="126128_9" ></RELATION>
+

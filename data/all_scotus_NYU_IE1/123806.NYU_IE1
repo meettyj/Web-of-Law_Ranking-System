@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['berthelhampshire#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_920" id1="123801" volume="537" start="0" page_number="920" standard_reporter="U.S." citation_global_level_id="2157.002" line="1" id="123806_1" citation_local_level_id="0" >537 U.S. 920</CITATION>
+
+<CITATION party2="NEW HAMPSHIRE" party1="BERTHEL" citation_global_level_id="52399.001" party2_short="HAMPSHIRE" line="1" id="123806_3" alternative_keys="['u.s._537_920']" end="41" entry_type="party_key" lookup_key="berthelhampshire#1" id1="123806" start="17" party1_short="BERTHEL" citation_local_level_id="1" >BERTHEL v. NEW HAMPSHIRE</CITATION>
+
+<NAME end="24" start="17" party1_of="123806_3" all_names="BERTHEL" local_name_id="1" id="123806_4" >BERTHEL</NAME>
+
+<NAME end="41" start="28" all_names="NEW HAMPSHIRE" party2_of="123806_3" local_name_id="2" id="123806_5" >NEW HAMPSHIRE</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._537_920" id1="123801" start="51" citation_global_level_id="2157.002" line="1" id="123806_2" citation_local_level_id="0" >02-5507</DOCKET>
+
+<DATE start="100" end="115" id="123806_6" >October 7, 2002</DATE>
+
+<NAME start="234" local_name_id="3" end="247" id="123806_12" all_names="C A 1ST CIR" >C. A. 1st Cir</NAME>
+
+<NAME start="249" local_name_id="4" end="259" id="123806_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="123806_1" includes_docket_string="02-5507" includes_docket="123806_2" theme_string="537 U.S. 920" gram_type="apposition" relation_type="asymmetric" id="123806_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 920" X_vs_Y_string="BERTHEL v. NEW HAMPSHIRE" standard_case="123806_1" X_vs_Y="123806_3" gram_type="pre_nom" relation_type="equivalence" id="123806_7" ></RELATION>
+
+<RELATION theme="123806_3" includes_docket_string="02-5507" includes_docket="123806_2" theme_string="BERTHEL v. NEW HAMPSHIRE" gram_type="apposition" relation_type="asymmetric" id="123806_10" ></RELATION>
+
+<RELATION theme="123806_3" party1="123806_4" party1_string="BERTHEL" theme_string="BERTHEL v. NEW HAMPSHIRE" gram_type="infix" relation_type="asymmetric" id="123806_8" ></RELATION>
+
+<RELATION party2="123806_5" theme="123806_3" theme_string="BERTHEL v. NEW HAMPSHIRE" party2_string="NEW HAMPSHIRE" gram_type="infix" relation_type="asymmetric" id="123806_9" ></RELATION>
+

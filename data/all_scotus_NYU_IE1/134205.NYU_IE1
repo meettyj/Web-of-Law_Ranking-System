@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['suttonflorida#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_1052" id1="134206" volume="540" start="0" page_number="1052" standard_reporter="U.S." citation_global_level_id="829.002" line="1" id="134205_1" citation_local_level_id="0" >540 U.S. 1052</CITATION>
+
+<CITATION party2="FLORIDA" party1="SUTTON" citation_global_level_id="58845.001" party2_short="FLORIDA" line="1" id="134205_3" alternative_keys="['u.s._540_1052']" end="35" entry_type="party_key" lookup_key="suttonflorida#1" id1="134205" start="18" party1_short="SUTTON" citation_local_level_id="1" >SUTTON v. FLORIDA</CITATION>
+
+<NAME end="24" start="18" party1_of="134205_3" all_names="SUTTON" local_name_id="1" id="134205_4" >SUTTON</NAME>
+
+<NAME end="35" start="28" all_names="FLORIDA" party2_of="134205_3" local_name_id="2" id="134205_5" >FLORIDA</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="u.s._540_1052" id1="134206" start="45" citation_global_level_id="829.002" line="1" id="134205_2" citation_local_level_id="0" >03-6438</DOCKET>
+
+<DATE start="94" end="110" id="134205_6" >December 1, 2003</DATE>
+
+<NAME start="187" local_name_id="3" end="197" id="134205_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="236" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_845_893" id1="Dummy_File_176645" volume="845" start="222" page_number="893" standard_reporter="SO.2D" citation_global_level_id="240495.001" line="3" id="134205_12" citation_local_level_id="2" >845 So. 2d 893</CITATION>
+
+<RELATION theme="134205_1" includes_docket_string="03-6438" includes_docket="134205_2" theme_string="540 U.S. 1052" gram_type="apposition" relation_type="asymmetric" id="134205_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 1052" X_vs_Y_string="SUTTON v. FLORIDA" standard_case="134205_1" X_vs_Y="134205_3" gram_type="pre_nom" relation_type="equivalence" id="134205_7" ></RELATION>
+
+<RELATION theme="134205_3" includes_docket_string="03-6438" includes_docket="134205_2" theme_string="SUTTON v. FLORIDA" gram_type="apposition" relation_type="asymmetric" id="134205_10" ></RELATION>
+
+<RELATION theme="134205_3" party1="134205_4" party1_string="SUTTON" theme_string="SUTTON v. FLORIDA" gram_type="infix" relation_type="asymmetric" id="134205_8" ></RELATION>
+
+<RELATION party2="134205_5" theme="134205_3" theme_string="SUTTON v. FLORIDA" party2_string="FLORIDA" gram_type="infix" relation_type="asymmetric" id="134205_9" ></RELATION>
+

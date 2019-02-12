@@ -1,0 +1,40 @@
+<CITATION alternative_keys="['companygeorgia#3']" end="11" reporter="U.S." entry_type="standard_key" lookup_key="u.s._92_676" id1="89320" volume="92" start="0" page_number="676" standard_reporter="U.S." citation_global_level_id="20077.002" line="1" id="89320_1" citation_local_level_id="0" >92 U.S. 676</CITATION>
+
+<CITATION party2="GEORGIA" party1="SOUTH-WESTERN RAILROAD &amp; BANKING COMPANY." citation_global_level_id="20077.003" party2_short="GEORGIA" line="1" id="89320_2" alternative_keys="['u.s._92_676']" end="68" entry_type="party_key" lookup_key="companygeorgia#3" id1="89320" start="16" party1_short="COMPANY" citation_local_level_id="1" >SOUTH-WESTERN RAILROAD &amp; BANKING COMPANY. v. GEORGIA</CITATION>
+
+<NAME end="57" start="16" party1_of="89320_2" all_names="SOUTH-WESTERN RAILROAD &amp; BANKING COMPANY	CENTRAL RAILROAD &amp; BANKING COMPANY" local_name_id="1" id="89320_4" >SOUTH-WESTERN RAILROAD &amp; BANKING COMPANY.</NAME>
+
+<ORGANIZATION start="16" end="56" id="89320_12" >SOUTH-WESTERN RAILROAD &amp; BANKING COMPANY</ORGANIZATION>
+
+<NAME end="68" start="61" all_names="GEORGIA" party2_of="89320_2" local_name_id="2" id="89320_5" >GEORGIA</NAME>
+
+<DATE start="88" end="92" id="89320_8" >1875</DATE>
+
+<CITATION party2="Georgia" party1="Central Railroad &amp; Banking Company" citation_global_level_id="104588.001" party2_short="Georgia" line="1" id="89320_3" end="234" no_current_file="True" entry_type="party_key" lookup_key="companygeorgia#4" id1="Dummy_File_40738" start="189" party1_short="Company" citation_local_level_id="2" >Central Railroad &amp; Banking Company v. Georgia</CITATION>
+
+<NAME end="223" start="189" party1_of="89320_3" all_names="SOUTH-WESTERN RAILROAD &amp; BANKING COMPANY	CENTRAL RAILROAD &amp; BANKING COMPANY" local_name_id="1" id="89320_6" >Central Railroad &amp; Banking Company</NAME>
+
+<NAME end="234" start="227" all_names="GEORGIA" party2_of="89320_3" local_name_id="2" id="89320_7" >Georgia</NAME>
+
+<DATE start="376" end="380" id="89320_9" >1845</DATE>
+
+<DATE start="642" end="655" id="89320_10" >March 4, 1856</DATE>
+
+<DATE start="1185" end="1189" id="89320_11" >1874</DATE>
+
+<ORGANIZATION start="1236" end="1249" id="89320_19" >Supreme Court</ORGANIZATION>
+
+<ORGANIZATION start="1337" end="1351" id="89320_20" >Superior Court</ORGANIZATION>
+
+<RELATION standard_case_string="92 U.S. 676" X_vs_Y_string="SOUTH-WESTERN RAILROAD &amp; BANKING COMPANY. v. GEORGIA" standard_case="89320_1" X_vs_Y="89320_2" gram_type="pre_nom" relation_type="equivalence" id="89320_13" ></RELATION>
+
+<RELATION theme="89320_2" party1="89320_4" party1_string="SOUTH-WESTERN RAILROAD &amp; BANKING COMPANY." theme_string="SOUTH-WESTERN RAILROAD &amp; BANKING COMPANY. v. GEORGIA" gram_type="infix" relation_type="asymmetric" id="89320_14" ></RELATION>
+
+<RELATION party2="89320_5" theme="89320_2" theme_string="SOUTH-WESTERN RAILROAD &amp; BANKING COMPANY. v. GEORGIA" party2_string="GEORGIA" gram_type="infix" relation_type="asymmetric" id="89320_15" ></RELATION>
+
+<RELATION at_date_string="1875" theme="89320_3" at_date="89320_8" theme_string="Central Railroad &amp; Banking Company v. Georgia" gram_type="pre_nom" relation_type="asymmetric" id="89320_16" ></RELATION>
+
+<RELATION theme="89320_3" party1="89320_6" party1_string="Central Railroad &amp; Banking Company" theme_string="Central Railroad &amp; Banking Company v. Georgia" gram_type="infix" relation_type="asymmetric" id="89320_17" ></RELATION>
+
+<RELATION party2="89320_7" theme="89320_3" theme_string="Central Railroad &amp; Banking Company v. Georgia" party2_string="Georgia" gram_type="infix" relation_type="asymmetric" id="89320_18" ></RELATION>
+

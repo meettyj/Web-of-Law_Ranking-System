@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['delgadostates#9']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_903" id1="123575" volume="537" start="0" page_number="903" standard_reporter="U.S." citation_global_level_id="119.002" line="1" id="123577_1" citation_local_level_id="0" >537 U.S. 903</CITATION>
+
+<CITATION party2="UNITED STATES" party1="DELGADO" citation_global_level_id="52575.001" party2_short="STATES" line="1" id="123577_3" alternative_keys="['u.s._537_903']" end="41" entry_type="party_key" lookup_key="delgadostates#9" id1="129071" start="17" party1_short="DELGADO" citation_local_level_id="1" >DELGADO v. UNITED STATES</CITATION>
+
+<NAME end="24" start="17" party1_of="123577_3" all_names="DELGADO" local_name_id="1" id="123577_4" >DELGADO</NAME>
+
+<NAME end="41" start="28" all_names="UNITED STATES" party2_of="123577_3" local_name_id="2" id="123577_5" >UNITED STATES</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._537_903" id1="123575" start="51" citation_global_level_id="119.002" line="1" id="123577_2" citation_local_level_id="0" >02-5251</DOCKET>
+
+<DATE start="100" end="115" id="123577_6" >October 7, 2002</DATE>
+
+<NAME start="244" local_name_id="3" end="247" id="123577_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="123577_1" includes_docket_string="02-5251" includes_docket="123577_2" theme_string="537 U.S. 903" gram_type="apposition" relation_type="asymmetric" id="123577_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 903" X_vs_Y_string="DELGADO v. UNITED STATES" standard_case="123577_1" X_vs_Y="123577_3" gram_type="pre_nom" relation_type="equivalence" id="123577_7" ></RELATION>
+
+<RELATION theme="123577_3" includes_docket_string="02-5251" includes_docket="123577_2" theme_string="DELGADO v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="123577_10" ></RELATION>
+
+<RELATION theme="123577_3" party1="123577_4" party1_string="DELGADO" theme_string="DELGADO v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="123577_8" ></RELATION>
+
+<RELATION party2="123577_5" theme="123577_3" theme_string="DELGADO v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="123577_9" ></RELATION>
+

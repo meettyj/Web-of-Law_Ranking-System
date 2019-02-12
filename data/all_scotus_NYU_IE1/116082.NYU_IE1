@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['flaggdata#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1052" id1="116082" volume="510" start="0" page_number="1052" standard_reporter="U.S." citation_global_level_id="1532.002" line="1" id="116082_1" citation_local_level_id="0" >510 U.S. 1052</CITATION>
+
+<CITATION party2="Control Data Corp. et al" party1="Flagg" citation_global_level_id="1532.001" party2_short="Data" line="1" id="116082_3" alternative_keys="['u.s._510_1052']" end="51" entry_type="party_key" lookup_key="flaggdata#1" id1="116082" start="18" party1_short="Flagg" citation_local_level_id="1" >Flagg v. Control Data Corp. et al</CITATION>
+
+<NAME end="23" start="18" party1_of="116082_3" all_names="FLAGG" local_name_id="1" id="116082_4" >Flagg</NAME>
+
+<NAME end="51" start="27" all_names="CONTROL DATA CORP" party2_of="116082_3" local_name_id="2" id="116082_5" >Control Data Corp. et al</NAME>
+
+<DOCKET end="68" entry_type="docket" lookup_key="u.s._510_1052" id1="116082" start="61" citation_global_level_id="1532.002" line="1" id="116082_2" citation_local_level_id="0" >93-6567</DOCKET>
+
+<DATE start="110" end="126" id="116082_6" >January 10, 1994</DATE>
+
+<NAME start="203" local_name_id="3" end="213" id="116082_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="252" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_998_1002" id1="Dummy_File_20883" volume="998" start="238" page_number="1002" standard_reporter="F.2D" citation_global_level_id="84733.001" line="3" id="116082_12" citation_local_level_id="2" >998 F. 2d 1002</CITATION>
+
+<RELATION theme="116082_1" includes_docket_string="93-6567" includes_docket="116082_2" theme_string="510 U.S. 1052" gram_type="apposition" relation_type="asymmetric" id="116082_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1052" X_vs_Y_string="Flagg v. Control Data Corp. et al" standard_case="116082_1" X_vs_Y="116082_3" gram_type="pre_nom" relation_type="equivalence" id="116082_7" ></RELATION>
+
+<RELATION theme="116082_3" includes_docket_string="93-6567" includes_docket="116082_2" theme_string="Flagg v. Control Data Corp. et al" gram_type="apposition" relation_type="asymmetric" id="116082_10" ></RELATION>
+
+<RELATION theme="116082_3" party1="116082_4" party1_string="Flagg" theme_string="Flagg v. Control Data Corp. et al" gram_type="infix" relation_type="asymmetric" id="116082_8" ></RELATION>
+
+<RELATION party2="116082_5" theme="116082_3" theme_string="Flagg v. Control Data Corp. et al" party2_string="Control Data Corp. et al" gram_type="infix" relation_type="asymmetric" id="116082_9" ></RELATION>
+

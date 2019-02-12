@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['haddenwyoming#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_868" id1="123112" volume="537" start="0" page_number="868" standard_reporter="U.S." citation_global_level_id="1204.002" line="1" id="123109_1" citation_local_level_id="0" >537 U.S. 868</CITATION>
+
+<CITATION party2="WYOMING" party1="HADDEN" citation_global_level_id="57494.001" party2_short="WYOMING" line="1" id="123109_3" alternative_keys="['u.s._537_868']" end="34" entry_type="party_key" lookup_key="haddenwyoming#1" id1="123109" start="17" party1_short="HADDEN" citation_local_level_id="1" >HADDEN v. WYOMING</CITATION>
+
+<NAME end="23" start="17" party1_of="123109_3" all_names="HADDEN" local_name_id="1" id="123109_4" >HADDEN</NAME>
+
+<NAME end="34" start="27" all_names="WYOMING" party2_of="123109_3" local_name_id="2" id="123109_5" >WYOMING</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="u.s._537_868" id1="123112" start="44" citation_global_level_id="1204.002" line="1" id="123109_2" citation_local_level_id="0" >01-10863</DOCKET>
+
+<DATE start="94" end="109" id="123109_6" >October 7, 2002</DATE>
+
+<NAME start="200" local_name_id="3" end="203" id="123109_13" all_names="SUP" >Sup</NAME>
+
+<CITATION end="261" reporter="P. 3d" entry_type="standard_key" no_current_file="True" lookup_key="p.3d_42_495" id1="Dummy_File_70229" volume="42" start="249" page_number="495" standard_reporter="P.3D" citation_global_level_id="134079.001" line="3" id="123109_12" citation_local_level_id="2" >42 P. 3d 495</CITATION>
+
+<RELATION theme="123109_1" includes_docket_string="01-10863" includes_docket="123109_2" theme_string="537 U.S. 868" gram_type="apposition" relation_type="asymmetric" id="123109_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 868" X_vs_Y_string="HADDEN v. WYOMING" standard_case="123109_1" X_vs_Y="123109_3" gram_type="pre_nom" relation_type="equivalence" id="123109_7" ></RELATION>
+
+<RELATION theme="123109_3" includes_docket_string="01-10863" includes_docket="123109_2" theme_string="HADDEN v. WYOMING" gram_type="apposition" relation_type="asymmetric" id="123109_10" ></RELATION>
+
+<RELATION theme="123109_3" party1="123109_4" party1_string="HADDEN" theme_string="HADDEN v. WYOMING" gram_type="infix" relation_type="asymmetric" id="123109_8" ></RELATION>
+
+<RELATION party2="123109_5" theme="123109_3" theme_string="HADDEN v. WYOMING" party2_string="WYOMING" gram_type="infix" relation_type="asymmetric" id="123109_9" ></RELATION>
+

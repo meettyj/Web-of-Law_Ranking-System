@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['daviscalifornia#4']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_838" id1="131631" volume="540" start="0" page_number="838" standard_reporter="U.S." citation_global_level_id="4082.002" line="1" id="131634_1" citation_local_level_id="0" >540 U.S. 838</CITATION>
+
+<CITATION party2="CALIFORNIA" party1="DAVIS" citation_global_level_id="49730.001" party2_short="CALIFORNIA" line="1" id="131634_3" alternative_keys="['u.s._540_838']" end="36" entry_type="party_key" lookup_key="daviscalifornia#4" id1="120352" start="17" party1_short="DAVIS" citation_local_level_id="1" >DAVIS v. CALIFORNIA</CITATION>
+
+<NAME end="22" start="17" party1_of="131634_3" all_names="DAVIS" local_name_id="1" id="131634_4" >DAVIS</NAME>
+
+<NAME end="36" start="26" all_names="CALIFORNIA" party2_of="131634_3" local_name_id="2" id="131634_5" >CALIFORNIA</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="u.s._540_838" id1="131631" start="46" citation_global_level_id="4082.002" line="1" id="131634_2" citation_local_level_id="0" >02-10803</DOCKET>
+
+<DATE start="96" end="111" id="131634_6" >October 6, 2003</DATE>
+
+<NAME start="188" local_name_id="3" end="198" id="131634_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="131634_1" includes_docket_string="02-10803" includes_docket="131634_2" theme_string="540 U.S. 838" gram_type="apposition" relation_type="asymmetric" id="131634_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 838" X_vs_Y_string="DAVIS v. CALIFORNIA" standard_case="131634_1" X_vs_Y="131634_3" gram_type="pre_nom" relation_type="equivalence" id="131634_7" ></RELATION>
+
+<RELATION theme="131634_3" includes_docket_string="02-10803" includes_docket="131634_2" theme_string="DAVIS v. CALIFORNIA" gram_type="apposition" relation_type="asymmetric" id="131634_10" ></RELATION>
+
+<RELATION theme="131634_3" party1="131634_4" party1_string="DAVIS" theme_string="DAVIS v. CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="131634_8" ></RELATION>
+
+<RELATION party2="131634_5" theme="131634_3" theme_string="DAVIS v. CALIFORNIA" party2_string="CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="131634_9" ></RELATION>
+

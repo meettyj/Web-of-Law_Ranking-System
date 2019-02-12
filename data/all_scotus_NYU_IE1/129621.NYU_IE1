@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['tirejames#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1033" id1="129615" volume="538" start="0" page_number="1033" standard_reporter="U.S." citation_global_level_id="7358.002" line="1" id="129621_1" citation_local_level_id="0" >538 U.S. 1033</CITATION>
+
+<CITATION party2="JAMES ET AL" party1="PIRELLI ARMSTRONG TIRE CORP." citation_global_level_id="63817.001" party2_short="JAMES" line="1" id="129621_3" alternative_keys="['u.s._538_1033']" end="61" entry_type="party_key" lookup_key="tirejames#1" id1="129621" start="18" party1_short="TIRE" citation_local_level_id="1" >PIRELLI ARMSTRONG TIRE CORP. v. JAMES ET AL</CITATION>
+
+<NAME end="46" start="18" party1_of="129621_3" all_names="PIRELLI ARMSTRONG TIRE CORP" local_name_id="1" id="129621_4" >PIRELLI ARMSTRONG TIRE CORP.</NAME>
+
+<ORGANIZATION start="18" end="45" id="129621_7" >PIRELLI ARMSTRONG TIRE CORP</ORGANIZATION>
+
+<NAME end="61" start="50" all_names="JAMES" party2_of="129621_3" local_name_id="2" id="129621_5" >JAMES ET AL</NAME>
+
+<DOCKET end="78" entry_type="docket" lookup_key="u.s._538_1033" id1="129615" start="71" citation_global_level_id="7358.002" line="1" id="129621_2" citation_local_level_id="0" >02-1327</DOCKET>
+
+<DATE start="120" end="132" id="129621_6" >May 19, 2003</DATE>
+
+<NAME start="261" local_name_id="3" end="264" id="129621_14" all_names="CIR" >Cir</NAME>
+
+<CITATION end="314" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_305_439" id1="Dummy_File_136763" volume="305" start="301" page_number="439" standard_reporter="F.3D" citation_global_level_id="200613.001" line="3" id="129621_13" citation_local_level_id="2" >305 F. 3d 439</CITATION>
+
+<RELATION theme="129621_1" includes_docket_string="02-1327" includes_docket="129621_2" theme_string="538 U.S. 1033" gram_type="apposition" relation_type="asymmetric" id="129621_12" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1033" X_vs_Y_string="PIRELLI ARMSTRONG TIRE CORP. v. JAMES ET AL" standard_case="129621_1" X_vs_Y="129621_3" gram_type="pre_nom" relation_type="equivalence" id="129621_8" ></RELATION>
+
+<RELATION theme="129621_3" includes_docket_string="02-1327" includes_docket="129621_2" theme_string="PIRELLI ARMSTRONG TIRE CORP. v. JAMES ET AL" gram_type="apposition" relation_type="asymmetric" id="129621_11" ></RELATION>
+
+<RELATION party2="129621_5" theme="129621_3" theme_string="PIRELLI ARMSTRONG TIRE CORP. v. JAMES ET AL" party2_string="JAMES ET AL" gram_type="infix" relation_type="asymmetric" id="129621_10" ></RELATION>
+
+<RELATION theme="129621_3" party1="129621_4" party1_string="PIRELLI ARMSTRONG TIRE CORP." theme_string="PIRELLI ARMSTRONG TIRE CORP. v. JAMES ET AL" gram_type="infix" relation_type="asymmetric" id="129621_9" ></RELATION>
+

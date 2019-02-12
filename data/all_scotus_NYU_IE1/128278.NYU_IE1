@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['redmondvirginia#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_930" id1="128270" volume="538" start="0" page_number="930" standard_reporter="U.S." citation_global_level_id="5460.002" line="1" id="128278_1" citation_local_level_id="0" >538 U.S. 930</CITATION>
+
+<CITATION party2="VIRGINIA" party1="REDMOND" citation_global_level_id="32887.001" party2_short="VIRGINIA" line="1" id="128278_3" alternative_keys="['u.s._538_930']" end="36" entry_type="party_key" lookup_key="redmondvirginia#1" id1="128278" start="17" party1_short="REDMOND" citation_local_level_id="1" >REDMOND v. VIRGINIA</CITATION>
+
+<NAME end="24" start="17" party1_of="128278_3" all_names="REDMOND" local_name_id="1" id="128278_4" >REDMOND</NAME>
+
+<NAME end="36" start="28" all_names="VIRGINIA" party2_of="128278_3" local_name_id="2" id="128278_5" >VIRGINIA</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="u.s._538_930" id1="128270" start="46" citation_global_level_id="5460.002" line="1" id="128278_2" citation_local_level_id="0" >02-8604</DOCKET>
+
+<DATE start="95" end="109" id="128278_6" >March 24, 2003</DATE>
+
+<NAME start="201" local_name_id="3" end="204" id="128278_14" all_names="SUP" >Sup</NAME>
+
+<CITATION end="259" reporter="Va." entry_type="standard_key" no_current_file="True" lookup_key="va._264_321" id1="Dummy_File_118870" volume="264" start="248" page_number="321" standard_reporter="VA." citation_global_level_id="182720.001" line="3" id="128278_12" citation_local_level_id="2" >264 Va. 321</CITATION>
+
+<CITATION end="275" reporter="S.E.2d" entry_type="standard_key" no_current_file="True" lookup_key="s.e.2d_568_695" id1="Dummy_File_118871" volume="568" start="261" page_number="695" standard_reporter="S.E.2D" citation_global_level_id="182721.001" line="3" id="128278_13" citation_local_level_id="3" >568 S.E.2d 695</CITATION>
+
+<RELATION theme="128278_1" includes_docket_string="02-8604" includes_docket="128278_2" theme_string="538 U.S. 930" gram_type="apposition" relation_type="asymmetric" id="128278_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 930" X_vs_Y_string="REDMOND v. VIRGINIA" standard_case="128278_1" X_vs_Y="128278_3" gram_type="pre_nom" relation_type="equivalence" id="128278_7" ></RELATION>
+
+<RELATION theme="128278_3" includes_docket_string="02-8604" includes_docket="128278_2" theme_string="REDMOND v. VIRGINIA" gram_type="apposition" relation_type="asymmetric" id="128278_10" ></RELATION>
+
+<RELATION theme="128278_3" party1="128278_4" party1_string="REDMOND" theme_string="REDMOND v. VIRGINIA" gram_type="infix" relation_type="asymmetric" id="128278_8" ></RELATION>
+
+<RELATION party2="128278_5" theme="128278_3" theme_string="REDMOND v. VIRGINIA" party2_string="VIRGINIA" gram_type="infix" relation_type="asymmetric" id="128278_9" ></RELATION>
+

@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['mccartneycain#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_953" id1="124255" volume="537" start="0" page_number="953" standard_reporter="U.S." citation_global_level_id="140.002" line="1" id="124259_1" citation_local_level_id="0" >537 U.S. 953</CITATION>
+
+<CITATION party2="CAIN, WARDEN" party1="McCARTNEY" citation_global_level_id="140.005" party2_short="CAIN" line="1" id="124259_3" alternative_keys="['u.s._537_953']" end="42" entry_type="party_key" lookup_key="mccartneycain#1" id1="124255" start="17" party1_short="McCARTNEY" citation_local_level_id="1" >McCARTNEY v. CAIN, WARDEN</CITATION>
+
+<NAME end="26" start="17" party1_of="124259_3" all_names="MCCARTNEY" local_name_id="1" id="124259_4" >McCARTNEY</NAME>
+
+<NAME end="42" start="30" all_names="CAIN WARDEN" party2_of="124259_3" local_name_id="2" id="124259_5" >CAIN, WARDEN</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="u.s._537_953" id1="124255" start="52" citation_global_level_id="140.002" line="1" id="124259_2" citation_local_level_id="0" >02-5649</DOCKET>
+
+<DATE start="101" end="117" id="124259_6" >October 15, 2002</DATE>
+
+<NAME start="246" local_name_id="3" end="249" id="124259_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="124259_1" includes_docket_string="02-5649" includes_docket="124259_2" theme_string="537 U.S. 953" gram_type="apposition" relation_type="asymmetric" id="124259_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 953" X_vs_Y_string="McCARTNEY v. CAIN, WARDEN" standard_case="124259_1" X_vs_Y="124259_3" gram_type="pre_nom" relation_type="equivalence" id="124259_7" ></RELATION>
+
+<RELATION theme="124259_3" includes_docket_string="02-5649" includes_docket="124259_2" theme_string="McCARTNEY v. CAIN, WARDEN" gram_type="apposition" relation_type="asymmetric" id="124259_10" ></RELATION>
+
+<RELATION theme="124259_3" party1="124259_4" party1_string="McCARTNEY" theme_string="McCARTNEY v. CAIN, WARDEN" gram_type="infix" relation_type="asymmetric" id="124259_8" ></RELATION>
+
+<RELATION party2="124259_5" theme="124259_3" theme_string="McCARTNEY v. CAIN, WARDEN" party2_string="CAIN, WARDEN" gram_type="infix" relation_type="asymmetric" id="124259_9" ></RELATION>
+

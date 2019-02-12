@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['butlerrumsfeld#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1086" id1="120708" volume="535" start="0" page_number="1086" standard_reporter="U.S." citation_global_level_id="3737.002" line="3" id="120705_2" citation_local_level_id="0" >535 U.S. 1086</CITATION>
+
+<CITATION party2="RUMSFELD, SECRETARY OF DEFENSE" party1="BUTLER" citation_global_level_id="3737.003" party2_short="RUMSFELD" line="3" id="120705_4" alternative_keys="['u.s._535_1086']" end="58" entry_type="party_key" lookup_key="butlerrumsfeld#1" id1="120708" start="18" party1_short="BUTLER" citation_local_level_id="1" >BUTLER v. RUMSFELD, SECRETARY OF DEFENSE</CITATION>
+
+<NAME end="24" start="18" party1_of="120705_4" all_names="BUTLER" local_name_id="1" id="120705_5" >BUTLER</NAME>
+
+<NAME end="58" start="28" all_names="RUMSFELD SECRETARY OF DEFENSE" party2_of="120705_4" local_name_id="2" id="120705_6" >RUMSFELD, SECRETARY OF DEFENSE</NAME>
+
+<DOCKET end="75" entry_type="docket" lookup_key="u.s._535_1086" id1="120708" start="68" citation_global_level_id="3737.002" line="3" id="120705_3" citation_local_level_id="0" >01-9615</DOCKET>
+
+<DATE start="121" citation_global_level_id="3737.003" end="133" id="120705_12" citation_local_level_id="1" >May 20, 2002</DATE>
+
+<NAME start="165" local_name_id="3" end="168" id="120705_14" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="120705_2" includes_docket_string="01-9615" includes_docket="120705_3" theme_string="535 U.S. 1086" gram_type="apposition" relation_type="asymmetric" id="120705_11" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1086" X_vs_Y_string="BUTLER v. RUMSFELD, SECRETARY OF DEFENSE" standard_case="120705_2" X_vs_Y="120705_4" gram_type="pre_nom" relation_type="equivalence" id="120705_7" ></RELATION>
+
+<RELATION theme="120705_4" includes_docket_string="01-9615" includes_docket="120705_3" theme_string="BUTLER v. RUMSFELD, SECRETARY OF DEFENSE" gram_type="apposition" relation_type="asymmetric" id="120705_10" ></RELATION>
+
+<RELATION theme="120705_4" party1="120705_5" party1_string="BUTLER" theme_string="BUTLER v. RUMSFELD, SECRETARY OF DEFENSE" gram_type="infix" relation_type="asymmetric" id="120705_8" ></RELATION>
+
+<RELATION party2="120705_6" theme="120705_4" theme_string="BUTLER v. RUMSFELD, SECRETARY OF DEFENSE" party2_string="RUMSFELD, SECRETARY OF DEFENSE" gram_type="infix" relation_type="asymmetric" id="120705_9" ></RELATION>
+
+<RELATION at_date_string="May 20, 2002" theme="120705_4" at_date="120705_12" theme_string="BUTLER v. RUMSFELD, SECRETARY OF DEFENSE" gram_type="multi_line" relation_type="asymmetric" id="120705_13" ></RELATION>
+

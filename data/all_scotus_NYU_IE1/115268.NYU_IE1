@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['shannonstates#4']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_987" id1="115270" volume="510" start="0" page_number="987" standard_reporter="U.S." citation_global_level_id="14052.002" line="1" id="115268_1" citation_local_level_id="0" >510 U.S. 987</CITATION>
+
+<CITATION party2="United States" party1="Shannon" citation_global_level_id="47382.001" party2_short="States" line="1" id="115268_3" alternative_keys="['u.s._510_987']" end="41" entry_type="party_key" lookup_key="shannonstates#4" id1="115268" start="17" party1_short="Shannon" citation_local_level_id="1" >Shannon v. United States</CITATION>
+
+<NAME end="24" start="17" party1_of="115268_3" all_names="SHANNON" local_name_id="1" id="115268_4" >Shannon</NAME>
+
+<NAME end="41" start="28" all_names="UNITED STATES" party2_of="115268_3" local_name_id="2" id="115268_5" >United States</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._510_987" id1="115270" start="51" citation_global_level_id="14052.002" line="1" id="115268_2" citation_local_level_id="0" >92-8346</DOCKET>
+
+<DATE start="100" end="117" id="115268_6" >November 29, 1993</DATE>
+
+<NAME start="231" local_name_id="3" end="237" id="115268_12" all_names="MOTION" >Motion</NAME>
+
+<PROFESSION start="257" end="264" id="115268_13" >counsel</PROFESSION>
+
+<NAME start="297" local_name_id="4" end="317" id="115268_14" all_names="THOMAS R TROUT ESQ" >Thomas R. Trout, Esq</NAME>
+
+<NAME start="323" local_name_id="5" end="339" id="115268_15" all_names="NEW ALBANY MISS" >New Albany, Miss</NAME>
+
+<LEGAL_ROLE start="367" end="389" id="115268_16" >counsel for petitioner</LEGAL_ROLE>
+
+<RELATION theme="115268_1" includes_docket_string="92-8346" includes_docket="115268_2" theme_string="510 U.S. 987" gram_type="apposition" relation_type="asymmetric" id="115268_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 987" X_vs_Y_string="Shannon v. United States" standard_case="115268_1" X_vs_Y="115268_3" gram_type="pre_nom" relation_type="equivalence" id="115268_7" ></RELATION>
+
+<RELATION theme="115268_3" includes_docket_string="92-8346" includes_docket="115268_2" theme_string="Shannon v. United States" gram_type="apposition" relation_type="asymmetric" id="115268_10" ></RELATION>
+
+<RELATION theme="115268_3" party1="115268_4" party1_string="Shannon" theme_string="Shannon v. United States" gram_type="infix" relation_type="asymmetric" id="115268_8" ></RELATION>
+
+<RELATION party2="115268_5" theme="115268_3" theme_string="Shannon v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="115268_9" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['andersstates#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1078" id1="116440" volume="510" start="0" page_number="1078" standard_reporter="U.S." citation_global_level_id="2615.002" line="1" id="116452_1" citation_local_level_id="0" >510 U.S. 1078</CITATION>
+
+<CITATION party2="United States" party1="Anders" citation_global_level_id="60572.001" party2_short="States" line="1" id="116452_3" alternative_keys="['u.s._510_1078']" end="41" entry_type="party_key" lookup_key="andersstates#2" id1="132950" start="18" party1_short="Anders" citation_local_level_id="1" >Anders v. United States</CITATION>
+
+<NAME end="24" start="18" party1_of="116452_3" all_names="ANDERS" local_name_id="1" id="116452_4" >Anders</NAME>
+
+<NAME end="41" start="28" all_names="UNITED STATES" party2_of="116452_3" local_name_id="2" id="116452_5" >United States</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._510_1078" id1="116440" start="51" citation_global_level_id="2615.002" line="1" id="116452_2" citation_local_level_id="0" >93-6999</DOCKET>
+
+<DATE start="100" end="116" id="116452_6" >January 18, 1994</DATE>
+
+<NAME start="194" local_name_id="3" end="204" id="116452_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="240" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_5_532" id1="Dummy_File_3804" volume="5" start="229" page_number="532" standard_reporter="F.3D" citation_global_level_id="67654.001" line="3" id="116452_12" citation_local_level_id="2" >5 F. 3d 532</CITATION>
+
+<RELATION theme="116452_1" includes_docket_string="93-6999" includes_docket="116452_2" theme_string="510 U.S. 1078" gram_type="apposition" relation_type="asymmetric" id="116452_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1078" X_vs_Y_string="Anders v. United States" standard_case="116452_1" X_vs_Y="116452_3" gram_type="pre_nom" relation_type="equivalence" id="116452_7" ></RELATION>
+
+<RELATION theme="116452_3" includes_docket_string="93-6999" includes_docket="116452_2" theme_string="Anders v. United States" gram_type="apposition" relation_type="asymmetric" id="116452_10" ></RELATION>
+
+<RELATION theme="116452_3" party1="116452_4" party1_string="Anders" theme_string="Anders v. United States" gram_type="infix" relation_type="asymmetric" id="116452_8" ></RELATION>
+
+<RELATION party2="116452_5" theme="116452_3" theme_string="Anders v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="116452_9" ></RELATION>
+

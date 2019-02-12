@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['edwardsflorida#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._536_966" id1="121949" volume="536" start="0" page_number="966" standard_reporter="U.S." citation_global_level_id="405.002" line="1" id="121951_1" citation_local_level_id="0" >536 U.S. 966</CITATION>
+
+<CITATION party2="FLORIDA" party1="EDWARDS" citation_global_level_id="22178.001" party2_short="FLORIDA" line="2" id="121951_2" alternative_keys="['u.s._536_966']" end="35" entry_type="party_key" lookup_key="edwardsflorida#1" id1="121951" start="17" party1_short="EDWARDS" citation_local_level_id="1" >EDWARDS v. FLORIDA</CITATION>
+
+<NAME end="24" start="17" party1_of="121951_2" all_names="EDWARDS" local_name_id="1" id="121951_3" >EDWARDS</NAME>
+
+<NAME end="35" start="28" all_names="FLORIDA" party2_of="121951_2" local_name_id="2" id="121951_4" >FLORIDA</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="edwardsflorida#1" id1="121951" start="45" citation_global_level_id="22178.001" line="3" id="121951_7" citation_local_level_id="1" >01-9916</DOCKET>
+
+<DATE start="98" citation_global_level_id="22178.001" end="111" id="121951_8" citation_local_level_id="1" >June 28, 2002</DATE>
+
+<NAME start="133" local_name_id="3" end="137" id="121951_13" all_names="DIST" >Dist</NAME>
+
+<CITATION end="212" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_793_943" id1="Dummy_File_141292" volume="793" start="198" page_number="943" standard_reporter="SO.2D" citation_global_level_id="205142.001" line="8" id="121951_12" citation_local_level_id="2" >793 So. 2d 943</CITATION>
+
+<RELATION theme="121951_2" party1="121951_3" party1_string="EDWARDS" theme_string="EDWARDS v. FLORIDA" gram_type="infix" relation_type="asymmetric" id="121951_5" ></RELATION>
+
+<RELATION party2="121951_4" theme="121951_2" theme_string="EDWARDS v. FLORIDA" party2_string="FLORIDA" gram_type="infix" relation_type="asymmetric" id="121951_6" ></RELATION>
+
+<RELATION standard_case_string="536 U.S. 966" X_vs_Y_string="EDWARDS v. FLORIDA" standard_case="121951_1" X_vs_Y="121951_2" gram_type="multi_line" relation_type="equivalence" id="121951_9" ></RELATION>
+
+<RELATION at_date_string="June 28, 2002" theme="121951_2" at_date="121951_8" theme_string="EDWARDS v. FLORIDA" gram_type="multi_line" relation_type="asymmetric" id="121951_11" ></RELATION>
+
+<RELATION theme="121951_2" includes_docket_string="01-9916" includes_docket="121951_7" theme_string="EDWARDS v. FLORIDA" gram_type="multi_line" relation_type="asymmetric" id="121951_10" ></RELATION>
+

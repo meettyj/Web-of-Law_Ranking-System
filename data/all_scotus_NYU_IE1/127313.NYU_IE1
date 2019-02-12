@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['cummingscarolina#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1203" id1="127320" volume="537" start="0" page_number="1203" standard_reporter="U.S." citation_global_level_id="610.002" line="1" id="127313_1" citation_local_level_id="0" >537 U.S. 1203</CITATION>
+
+<CITATION party2="NORTH CAROLINA" party1="CUMMINGS" citation_global_level_id="51495.001" party2_short="CAROLINA" line="1" id="127313_3" alternative_keys="['u.s._537_1203']" end="44" entry_type="party_key" lookup_key="cummingscarolina#2" id1="127313" start="18" party1_short="CUMMINGS" citation_local_level_id="1" >CUMMINGS v. NORTH CAROLINA</CITATION>
+
+<NAME end="26" start="18" party1_of="127313_3" all_names="CUMMINGS" local_name_id="1" id="127313_4" >CUMMINGS</NAME>
+
+<NAME end="44" start="30" all_names="NORTH CAROLINA" party2_of="127313_3" local_name_id="2" id="127313_5" >NORTH CAROLINA</NAME>
+
+<DOCKET end="61" entry_type="docket" lookup_key="u.s._537_1203" id1="127320" start="54" citation_global_level_id="610.002" line="1" id="127313_2" citation_local_level_id="0" >02-8002</DOCKET>
+
+<DATE start="103" end="120" id="127313_6" >February 24, 2003</DATE>
+
+<NAME start="218" local_name_id="3" end="221" id="127313_14" all_names="SUP" >Sup</NAME>
+
+<CITATION end="281" reporter="N. C." entry_type="standard_key" no_current_file="True" lookup_key="n.c._356_169" id1="Dummy_File_119790" volume="356" start="268" page_number="169" standard_reporter="N.C." citation_global_level_id="183640.001" line="3" id="127313_12" citation_local_level_id="2" >356 N. C. 169</CITATION>
+
+<CITATION end="299" reporter="S. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="s.e.2d_568_622" id1="Dummy_File_119791" volume="568" start="283" page_number="622" standard_reporter="S.E.2D" citation_global_level_id="183641.001" line="3" id="127313_13" citation_local_level_id="3" >568 S. E. 2d 622</CITATION>
+
+<RELATION theme="127313_1" includes_docket_string="02-8002" includes_docket="127313_2" theme_string="537 U.S. 1203" gram_type="apposition" relation_type="asymmetric" id="127313_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1203" X_vs_Y_string="CUMMINGS v. NORTH CAROLINA" standard_case="127313_1" X_vs_Y="127313_3" gram_type="pre_nom" relation_type="equivalence" id="127313_7" ></RELATION>
+
+<RELATION theme="127313_3" includes_docket_string="02-8002" includes_docket="127313_2" theme_string="CUMMINGS v. NORTH CAROLINA" gram_type="apposition" relation_type="asymmetric" id="127313_10" ></RELATION>
+
+<RELATION theme="127313_3" party1="127313_4" party1_string="CUMMINGS" theme_string="CUMMINGS v. NORTH CAROLINA" gram_type="infix" relation_type="asymmetric" id="127313_8" ></RELATION>
+
+<RELATION party2="127313_5" theme="127313_3" theme_string="CUMMINGS v. NORTH CAROLINA" party2_string="NORTH CAROLINA" gram_type="infix" relation_type="asymmetric" id="127313_9" ></RELATION>
+

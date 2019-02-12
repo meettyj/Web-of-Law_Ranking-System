@@ -1,0 +1,42 @@
+<CITATION alternative_keys="['illinoisassociates#7']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1182" id1="127073" volume="537" start="0" page_number="1182" standard_reporter="U.S." citation_global_level_id="15232.002" line="1" id="127069_1" citation_local_level_id="0" >537 U.S. 1182</CITATION>
+
+<CITATION party2="TELEMARKETING ASSOCIATES, INC., ET AL" party1="ILLINOIS EX REL. MADIGAN, ATTORNEY GENERAL OF ILLINOIS" citation_global_level_id="44566.003" party2_short="ASSOCIATES" line="1" id="127069_3" alternative_keys="['u.s._538_600']" end="113" entry_type="party_key" lookup_key="illinoisassociates#7" id1="127918" start="18" party1_short="ILLINOIS" citation_local_level_id="1" >ILLINOIS EX REL. MADIGAN, ATTORNEY GENERAL OF ILLINOIS v. TELEMARKETING ASSOCIATES, INC., ET AL</CITATION>
+
+<NAME end="72" start="18" party1_of="127069_3" all_names="ILLINOIS EX REL MADIGAN ATTORNEY GENERAL OF ILLINOIS" local_name_id="1" id="127069_4" >ILLINOIS EX REL. MADIGAN, ATTORNEY GENERAL OF ILLINOIS</NAME>
+
+<NAME start="18" local_name_id="2" end="33" id="127069_8" all_names="ILLINOIS EX REL" >ILLINOIS EX REL</NAME>
+
+<PROFESSION start="44" end="72" id="127069_9" >ATTORNEY GENERAL OF ILLINOIS</PROFESSION>
+
+<NAME end="113" start="76" all_names="TELEMARKETING ASSOCIATES INC" party2_of="127069_3" local_name_id="3" id="127069_5" >TELEMARKETING ASSOCIATES, INC., ET AL</NAME>
+
+<DOCKET end="130" entry_type="docket" lookup_key="u.s._537_1182" id1="127073" start="123" citation_global_level_id="15232.002" line="1" id="127069_2" citation_local_level_id="0" >01-1806</DOCKET>
+
+<DATE start="126" end="130" id="127069_6" >1806</DATE>
+
+<DATE start="172" end="189" id="127069_7" >February 21, 2003</DATE>
+
+<NAME start="281" local_name_id="4" end="284" id="127069_19" all_names="SUP" >Sup</NAME>
+
+<CITATION party2="Telemarketing Associates, Inc" party1="Illinois ex rel. Ryan" citation_global_level_id="10795.003" party2_short="Associates" line="3" id="127069_16" alternative_keys="['u.s._537_999', 'u.s._537_1086']" end="378" no_current_file="True" entry_type="party_key" lookup_key="illinoisassociates#8" id1="125873" start="324" party1_short="Illinois" citation_local_level_id="2" >Illinois ex rel. Ryan v. Telemarketing Associates, Inc</CITATION>
+
+<NAME end="345" start="324" party1_of="127069_16" all_names="ILLINOIS EX REL RYAN" local_name_id="5" id="127069_17" >Illinois ex rel. Ryan</NAME>
+
+<NAME end="378" start="349" all_names="TELEMARKETING ASSOCIATES INC" party2_of="127069_16" local_name_id="3" id="127069_18" >Telemarketing Associates, Inc</NAME>
+
+<RELATION theme="127069_1" includes_docket_string="01-1806" includes_docket="127069_2" theme_string="537 U.S. 1182" gram_type="apposition" relation_type="asymmetric" id="127069_14" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1182" X_vs_Y_string="ILLINOIS EX REL. MADIGAN, ATTORNEY GENERAL OF ILLINOIS v. TELEMARKETING ASSOCIATES, INC., ET AL" standard_case="127069_1" X_vs_Y="127069_3" gram_type="pre_nom" relation_type="equivalence" id="127069_10" ></RELATION>
+
+<RELATION theme="127069_3" includes_docket_string="01-1806" includes_docket="127069_2" theme_string="ILLINOIS EX REL. MADIGAN, ATTORNEY GENERAL OF ILLINOIS v. TELEMARKETING ASSOCIATES, INC., ET AL" gram_type="apposition" relation_type="asymmetric" id="127069_13" ></RELATION>
+
+<RELATION theme="127069_3" party1="127069_4" party1_string="ILLINOIS EX REL. MADIGAN, ATTORNEY GENERAL OF ILLINOIS" theme_string="ILLINOIS EX REL. MADIGAN, ATTORNEY GENERAL OF ILLINOIS v. TELEMARKETING ASSOCIATES, INC., ET AL" gram_type="infix" relation_type="asymmetric" id="127069_11" ></RELATION>
+
+<RELATION party2="127069_5" theme="127069_3" theme_string="ILLINOIS EX REL. MADIGAN, ATTORNEY GENERAL OF ILLINOIS v. TELEMARKETING ASSOCIATES, INC., ET AL" party2_string="TELEMARKETING ASSOCIATES, INC., ET AL" gram_type="infix" relation_type="asymmetric" id="127069_12" ></RELATION>
+
+<RELATION at_date_string="1806" theme="127069_2" at_date="127069_6" theme_string="01-1806" gram_type="infix" relation_type="asymmetric" id="127069_15" ></RELATION>
+
+<RELATION theme="127069_16" party1="127069_17" party1_string="Illinois ex rel. Ryan" theme_string="Illinois ex rel. Ryan v. Telemarketing Associates, Inc" gram_type="infix" relation_type="asymmetric" id="127069_20" ></RELATION>
+
+<RELATION party2="127069_18" theme="127069_16" theme_string="Illinois ex rel. Ryan v. Telemarketing Associates, Inc" party2_string="Telemarketing Associates, Inc" gram_type="infix" relation_type="asymmetric" id="127069_21" ></RELATION>
+

@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['burnsflorida#3']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1062" id1="130017" volume="538" start="0" page_number="1062" standard_reporter="U.S." citation_global_level_id="5728.002" line="1" id="130021_1" citation_local_level_id="0" >538 U.S. 1062</CITATION>
+
+<CITATION party2="FLORIDA" party1="BURNS" citation_global_level_id="57930.001" party2_short="FLORIDA" line="1" id="130021_3" alternative_keys="['u.s._538_1062']" end="34" entry_type="party_key" lookup_key="burnsflorida#3" id1="130021" start="18" party1_short="BURNS" citation_local_level_id="1" >BURNS v. FLORIDA</CITATION>
+
+<NAME end="23" start="18" party1_of="130021_3" all_names="BURNS" local_name_id="1" id="130021_4" >BURNS</NAME>
+
+<NAME end="34" start="27" all_names="FLORIDA" party2_of="130021_3" local_name_id="2" id="130021_5" >FLORIDA</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="u.s._538_1062" id1="130017" start="44" citation_global_level_id="5728.002" line="1" id="130021_2" citation_local_level_id="0" >02-9800</DOCKET>
+
+<DATE start="93" end="105" id="130021_6" >May 27, 2003</DATE>
+
+<NAME start="238" local_name_id="3" end="241" id="130021_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="130021_1" includes_docket_string="02-9800" includes_docket="130021_2" theme_string="538 U.S. 1062" gram_type="apposition" relation_type="asymmetric" id="130021_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1062" X_vs_Y_string="BURNS v. FLORIDA" standard_case="130021_1" X_vs_Y="130021_3" gram_type="pre_nom" relation_type="equivalence" id="130021_7" ></RELATION>
+
+<RELATION theme="130021_3" includes_docket_string="02-9800" includes_docket="130021_2" theme_string="BURNS v. FLORIDA" gram_type="apposition" relation_type="asymmetric" id="130021_10" ></RELATION>
+
+<RELATION theme="130021_3" party1="130021_4" party1_string="BURNS" theme_string="BURNS v. FLORIDA" gram_type="infix" relation_type="asymmetric" id="130021_8" ></RELATION>
+
+<RELATION party2="130021_5" theme="130021_3" theme_string="BURNS v. FLORIDA" party2_string="FLORIDA" gram_type="infix" relation_type="asymmetric" id="130021_9" ></RELATION>
+

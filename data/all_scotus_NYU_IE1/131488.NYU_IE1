@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['reidtennessee#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_828" id1="131492" volume="540" start="0" page_number="828" standard_reporter="U.S." citation_global_level_id="4266.002" line="1" id="131488_1" citation_local_level_id="0" >540 U.S. 828</CITATION>
+
+<CITATION party2="TENNESSEE" party1="REID" citation_global_level_id="11419.001" party2_short="TENNESSEE" line="1" id="131488_3" alternative_keys="['u.s._540_828']" end="34" entry_type="party_key" lookup_key="reidtennessee#1" id1="131488" start="17" party1_short="REID" citation_local_level_id="1" >REID v. TENNESSEE</CITATION>
+
+<NAME end="21" start="17" party1_of="131488_3" all_names="REID" local_name_id="1" id="131488_4" >REID</NAME>
+
+<NAME end="34" start="25" all_names="TENNESSEE" party2_of="131488_3" local_name_id="2" id="131488_5" >TENNESSEE</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="u.s._540_828" id1="131492" start="44" citation_global_level_id="4266.002" line="1" id="131488_2" citation_local_level_id="0" >02-10391</DOCKET>
+
+<DATE start="94" end="109" id="131488_6" >October 6, 2003</DATE>
+
+<NAME start="187" local_name_id="3" end="197" id="131488_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION alternative_keys="['statereid#1']" end="237" reporter="S. W. 3d" entry_type="standard_key" lookup_key="s.w.3d_91_247" id1="Dummy_File_88735" volume="91" start="222" page_number="247" standard_reporter="S.W.3D" citation_global_level_id="152585.005" line="3" id="131488_12" citation_local_level_id="2" >91 S. W. 3d 247</CITATION>
+
+<RELATION theme="131488_1" includes_docket_string="02-10391" includes_docket="131488_2" theme_string="540 U.S. 828" gram_type="apposition" relation_type="asymmetric" id="131488_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 828" X_vs_Y_string="REID v. TENNESSEE" standard_case="131488_1" X_vs_Y="131488_3" gram_type="pre_nom" relation_type="equivalence" id="131488_7" ></RELATION>
+
+<RELATION theme="131488_3" includes_docket_string="02-10391" includes_docket="131488_2" theme_string="REID v. TENNESSEE" gram_type="apposition" relation_type="asymmetric" id="131488_10" ></RELATION>
+
+<RELATION theme="131488_3" party1="131488_4" party1_string="REID" theme_string="REID v. TENNESSEE" gram_type="infix" relation_type="asymmetric" id="131488_8" ></RELATION>
+
+<RELATION party2="131488_5" theme="131488_3" theme_string="REID v. TENNESSEE" party2_string="TENNESSEE" gram_type="infix" relation_type="asymmetric" id="131488_9" ></RELATION>
+

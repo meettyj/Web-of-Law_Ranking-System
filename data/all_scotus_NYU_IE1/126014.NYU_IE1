@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['goodestates#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1096" id1="126009" volume="537" start="0" page_number="1096" standard_reporter="U.S." citation_global_level_id="750.002" line="1" id="126014_1" citation_local_level_id="0" >537 U.S. 1096</CITATION>
+
+<CITATION party2="UNITED STATES" party1="GOODE" citation_global_level_id="29420.001" party2_short="STATES" line="1" id="126014_3" alternative_keys="['u.s._537_1096']" end="40" entry_type="party_key" lookup_key="goodestates#2" id1="126014" start="18" party1_short="GOODE" citation_local_level_id="1" >GOODE v. UNITED STATES</CITATION>
+
+<NAME end="23" start="18" party1_of="126014_3" all_names="GOODE" local_name_id="1" id="126014_4" >GOODE</NAME>
+
+<NAME end="40" start="27" all_names="UNITED STATES" party2_of="126014_3" local_name_id="2" id="126014_5" >UNITED STATES</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._537_1096" id1="126009" start="50" citation_global_level_id="750.002" line="1" id="126014_2" citation_local_level_id="0" >02-7433</DOCKET>
+
+<DATE start="99" end="116" id="126014_6" >December 16, 2002</DATE>
+
+<NAME start="245" local_name_id="3" end="248" id="126014_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="298" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_305_378" id1="Dummy_File_139087" volume="305" start="285" page_number="378" standard_reporter="F.3D" citation_global_level_id="202937.001" line="3" id="126014_12" citation_local_level_id="2" >305 F. 3d 378</CITATION>
+
+<RELATION theme="126014_1" includes_docket_string="02-7433" includes_docket="126014_2" theme_string="537 U.S. 1096" gram_type="apposition" relation_type="asymmetric" id="126014_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1096" X_vs_Y_string="GOODE v. UNITED STATES" standard_case="126014_1" X_vs_Y="126014_3" gram_type="pre_nom" relation_type="equivalence" id="126014_7" ></RELATION>
+
+<RELATION theme="126014_3" includes_docket_string="02-7433" includes_docket="126014_2" theme_string="GOODE v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="126014_10" ></RELATION>
+
+<RELATION theme="126014_3" party1="126014_4" party1_string="GOODE" theme_string="GOODE v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="126014_8" ></RELATION>
+
+<RELATION party2="126014_5" theme="126014_3" theme_string="GOODE v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="126014_9" ></RELATION>
+

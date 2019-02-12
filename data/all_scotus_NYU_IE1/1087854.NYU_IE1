@@ -1,0 +1,44 @@
+<CITATION alternative_keys="['weignersuperintendent#1']" end="20" reporter="U.S." entry_type="standard_key" lookup_key="u.s._372_767" id1="1087863" volume="372" start="1" page_number="767" year="1963" standard_reporter="U.S." citation_global_level_id="11852.002" line="2" id="1087854_1" citation_local_level_id="0" >372 U.S. 767 (1963)</CITATION>
+
+<DATE start="15" citation_global_level_id="11852.002" end="19" id="1087854_2" citation_local_level_id="0" >1963</DATE>
+
+<CITATION party2="RUSSELL, CORRECTIONAL SUPERINTENDENT" party1="WEIGNER" citation_global_level_id="11852.003" party2_short="SUPERINTENDENT" line="5" id="1087854_5" alternative_keys="['u.s._372_767']" end="70" entry_type="party_key" lookup_key="weignersuperintendent#1" id1="1087863" start="21" party1_short="WEIGNER" citation_local_level_id="1" >WEIGNER v. RUSSELL, CORRECTIONAL SUPERINTENDENT</CITATION>
+
+<NAME end="28" start="21" party1_of="1087854_5" all_names="WEIGNER" local_name_id="1" id="1087854_6" >WEIGNER</NAME>
+
+<NAME end="70" start="34" all_names="RUSSELL CORRECTIONAL SUPERINTENDENT" party2_of="1087854_5" local_name_id="2" id="1087854_7" >RUSSELL, CORRECTIONAL SUPERINTENDENT</NAME>
+
+<NAME start="80" local_name_id="3" end="84" id="1087854_10" all_names="MISC" >Misc</NAME>
+
+<ORGANIZATION start="86" end="116" id="1087854_11" >Supreme Court of United States</ORGANIZATION>
+
+<NAME start="118" local_name_id="4" end="125" id="1087854_13" all_names="DECIDED" >Decided</NAME>
+
+<DATE start="126" end="140" id="1087854_12" >April 22, 1963</DATE>
+
+<ORGANIZATION start="145" end="213" id="1087854_15" >PETITION FOR WRIT OF CERTIORARI TO THE SUPREME COURT OF PENNSYLVANIA</ORGANIZATION>
+
+<NAME start="219" local_name_id="5" end="225" id="1087854_16" all_names="CURIAM" >CURIAM</NAME>
+
+<CITATION party2="Wainwright" party1="Gideon" citation_global_level_id="25024.001" party2_short="Wainwright" line="11" id="1087854_18" alternative_keys="['u.s._372_335']" end="437" entry_type="party_key" lookup_key="gideonwainwright#1" id1="106545" start="417" party1_short="Gideon" citation_local_level_id="2" >Gideon v. Wainwright</CITATION>
+
+<NAME end="423" start="417" party1_of="1087854_18" all_names="GIDEON" local_name_id="6" id="1087854_19" >Gideon</NAME>
+
+<NAME end="437" start="427" all_names="WAINWRIGHT" party2_of="1087854_18" local_name_id="7" id="1087854_20" >Wainwright</NAME>
+
+<CITATION alternative_keys="['gideonwainwright#1']" end="452" reporter="U. S." entry_type="standard_key" lookup_key="u.s._372_335" id1="3007018" volume="372" start="439" page_number="335" standard_reporter="U.S." citation_global_level_id="4541.003" line="11" id="1087854_17" citation_local_level_id="3" >372 U. S. 335</CITATION>
+
+<RELATION at_date_string="1963" theme="1087854_1" at_date="1087854_2" theme_string="372 U.S. 767 (1963)" gram_type="infix" relation_type="asymmetric" id="1087854_3" ></RELATION>
+
+<RELATION theme="1087854_5" party1="1087854_6" party1_string="WEIGNER" theme_string="WEIGNER  v.  RUSSELL, CORRECTIONAL SUPERINTENDENT" gram_type="infix" relation_type="asymmetric" id="1087854_8" ></RELATION>
+
+<RELATION party2="1087854_7" theme="1087854_5" theme_string="WEIGNER  v.  RUSSELL, CORRECTIONAL SUPERINTENDENT" party2_string="RUSSELL, CORRECTIONAL SUPERINTENDENT" gram_type="infix" relation_type="asymmetric" id="1087854_9" ></RELATION>
+
+<RELATION standard_case_string="372 U.S. 767 (1963)" X_vs_Y_string="WEIGNER  v.  RUSSELL, CORRECTIONAL SUPERINTENDENT" standard_case="1087854_1" X_vs_Y="1087854_5" gram_type="multi_line" relation_type="equivalence" id="1087854_14" ></RELATION>
+
+<RELATION standard_case_string="372 U. S. 335" X_vs_Y_string="Gideon v. Wainwright" standard_case="1087854_17" X_vs_Y="1087854_18" gram_type="apposition" relation_type="equivalence" id="1087854_23" ></RELATION>
+
+<RELATION theme="1087854_18" party1="1087854_19" party1_string="Gideon" theme_string="Gideon v. Wainwright" gram_type="infix" relation_type="asymmetric" id="1087854_21" ></RELATION>
+
+<RELATION party2="1087854_20" theme="1087854_18" theme_string="Gideon v. Wainwright" party2_string="Wainwright" gram_type="infix" relation_type="asymmetric" id="1087854_22" ></RELATION>
+

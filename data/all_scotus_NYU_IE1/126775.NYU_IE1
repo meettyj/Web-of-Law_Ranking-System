@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['bandytelecom#3']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1158" id1="126774" volume="537" start="0" page_number="1158" standard_reporter="U.S." citation_global_level_id="8699.002" line="1" id="126775_1" citation_local_level_id="0" >537 U.S. 1158</CITATION>
+
+<CITATION party2="SPRINT MID-ATLANTIC TELECOM, INC" party1="BANDY" citation_global_level_id="2896.005" party2_short="TELECOM" line="1" id="126775_3" alternative_keys="['u.s._537_1234']" end="59" entry_type="party_key" lookup_key="bandytelecom#3" id1="127729" start="18" party1_short="BANDY" citation_local_level_id="1" >BANDY v. SPRINT MID-ATLANTIC TELECOM, INC</CITATION>
+
+<NAME end="23" start="18" party1_of="126775_3" all_names="BANDY" local_name_id="1" id="126775_4" >BANDY</NAME>
+
+<NAME end="59" start="27" all_names="SPRINT MID-ATLANTIC TELECOM INC" party2_of="126775_3" local_name_id="2" id="126775_5" >SPRINT MID-ATLANTIC TELECOM, INC</NAME>
+
+<DOCKET end="76" entry_type="docket" lookup_key="u.s._537_1158" id1="126774" start="69" citation_global_level_id="8699.002" line="1" id="126775_2" citation_local_level_id="0" >02-7510</DOCKET>
+
+<DATE start="118" end="134" id="126775_6" >January 21, 2003</DATE>
+
+<NAME start="264" local_name_id="3" end="267" id="126775_13" all_names="CIR" >Cir</NAME>
+
+<DATE start="369" end="386" id="126775_12" >February 11, 2003</DATE>
+
+<RELATION theme="126775_1" includes_docket_string="02-7510" includes_docket="126775_2" theme_string="537 U.S. 1158" gram_type="apposition" relation_type="asymmetric" id="126775_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1158" X_vs_Y_string="BANDY v. SPRINT MID-ATLANTIC TELECOM, INC" standard_case="126775_1" X_vs_Y="126775_3" gram_type="pre_nom" relation_type="equivalence" id="126775_7" ></RELATION>
+
+<RELATION theme="126775_3" includes_docket_string="02-7510" includes_docket="126775_2" theme_string="BANDY v. SPRINT MID-ATLANTIC TELECOM, INC" gram_type="apposition" relation_type="asymmetric" id="126775_10" ></RELATION>
+
+<RELATION theme="126775_3" party1="126775_4" party1_string="BANDY" theme_string="BANDY v. SPRINT MID-ATLANTIC TELECOM, INC" gram_type="infix" relation_type="asymmetric" id="126775_8" ></RELATION>
+
+<RELATION party2="126775_5" theme="126775_3" theme_string="BANDY v. SPRINT MID-ATLANTIC TELECOM, INC" party2_string="SPRINT MID-ATLANTIC TELECOM, INC" gram_type="infix" relation_type="asymmetric" id="126775_9" ></RELATION>
+

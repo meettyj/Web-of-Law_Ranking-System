@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['fullickbeef#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_975" id1="119344" volume="535" start="0" page_number="975" standard_reporter="U.S." citation_global_level_id="2778.002" line="1" id="119344_1" citation_local_level_id="0" >535 U.S. 975</CITATION>
+
+<CITATION party2="UNITED STATES BEEF CORP., DBA ARBY'S" party1="FULLICK" citation_global_level_id="2778.006" party2_short="BEEF" line="2" id="119344_2" alternative_keys="['u.s._535_975']" end="64" entry_type="party_key" lookup_key="fullickbeef#2" id1="119344" start="17" party1_short="FULLICK" citation_local_level_id="1" >FULLICK v. UNITED STATES BEEF CORP., DBA ARBY'S</CITATION>
+
+<NAME end="24" start="17" party1_of="119344_2" all_names="FULLICK" local_name_id="1" id="119344_3" >FULLICK</NAME>
+
+<NAME end="64" start="28" all_names="UNITED STATES BEEF CORP DBA ARBY'S" party2_of="119344_2" local_name_id="2" id="119344_4" >UNITED STATES BEEF CORP., DBA ARBY'S</NAME>
+
+<DOCKET alternative_keys="['u.s._535_975']" end="81" entry_type="docket" lookup_key="fullickbeef#2" id1="119344" start="74" citation_global_level_id="2778.006" line="3" id="119344_7" citation_local_level_id="1" >01-8146</DOCKET>
+
+<DATE start="127" citation_global_level_id="2778.006" end="140" id="119344_8" citation_local_level_id="1" >April 1, 2002</DATE>
+
+<NAME start="173" local_name_id="3" end="176" id="119344_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="119344_2" party1="119344_3" party1_string="FULLICK" theme_string="FULLICK v. UNITED STATES BEEF CORP., DBA ARBY'S" gram_type="infix" relation_type="asymmetric" id="119344_5" ></RELATION>
+
+<RELATION party2="119344_4" theme="119344_2" theme_string="FULLICK v. UNITED STATES BEEF CORP., DBA ARBY'S" party2_string="UNITED STATES BEEF CORP., DBA ARBY'S" gram_type="infix" relation_type="asymmetric" id="119344_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 975" X_vs_Y_string="FULLICK v. UNITED STATES BEEF CORP., DBA ARBY'S" standard_case="119344_1" X_vs_Y="119344_2" gram_type="multi_line" relation_type="equivalence" id="119344_9" ></RELATION>
+
+<RELATION at_date_string="April 1, 2002" theme="119344_2" at_date="119344_8" theme_string="FULLICK v. UNITED STATES BEEF CORP., DBA ARBY'S" gram_type="multi_line" relation_type="asymmetric" id="119344_11" ></RELATION>
+
+<RELATION theme="119344_2" includes_docket_string="01-8146" includes_docket="119344_7" theme_string="FULLICK v. UNITED STATES BEEF CORP., DBA ARBY'S" gram_type="multi_line" relation_type="asymmetric" id="119344_10" ></RELATION>
+

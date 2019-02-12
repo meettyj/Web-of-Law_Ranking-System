@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['hallstates#9']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1177" id1="127024" volume="537" start="0" page_number="1177" standard_reporter="U.S." citation_global_level_id="2083.002" line="1" id="127018_1" citation_local_level_id="0" >537 U.S. 1177</CITATION>
+
+<CITATION party2="UNITED STATES" party1="HALL" citation_global_level_id="8047.001" party2_short="STATES" line="1" id="127018_3" alternative_keys="['u.s._537_1177']" end="39" entry_type="party_key" lookup_key="hallstates#9" id1="143064" start="18" party1_short="HALL" citation_local_level_id="1" >HALL v. UNITED STATES</CITATION>
+
+<NAME end="22" start="18" party1_of="127018_3" all_names="HALL" local_name_id="1" id="127018_4" >HALL</NAME>
+
+<NAME end="39" start="26" all_names="UNITED STATES" party2_of="127018_3" local_name_id="2" id="127018_5" >UNITED STATES</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._537_1177" id1="127024" start="49" citation_global_level_id="2083.002" line="1" id="127018_2" citation_local_level_id="0" >02-8066</DOCKET>
+
+<DATE start="98" end="114" id="127018_6" >January 27, 2003</DATE>
+
+<NAME start="242" local_name_id="3" end="245" id="127018_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="127018_1" includes_docket_string="02-8066" includes_docket="127018_2" theme_string="537 U.S. 1177" gram_type="apposition" relation_type="asymmetric" id="127018_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1177" X_vs_Y_string="HALL v. UNITED STATES" standard_case="127018_1" X_vs_Y="127018_3" gram_type="pre_nom" relation_type="equivalence" id="127018_7" ></RELATION>
+
+<RELATION theme="127018_3" includes_docket_string="02-8066" includes_docket="127018_2" theme_string="HALL v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="127018_10" ></RELATION>
+
+<RELATION theme="127018_3" party1="127018_4" party1_string="HALL" theme_string="HALL v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="127018_8" ></RELATION>
+
+<RELATION party2="127018_5" theme="127018_3" theme_string="HALL v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="127018_9" ></RELATION>
+

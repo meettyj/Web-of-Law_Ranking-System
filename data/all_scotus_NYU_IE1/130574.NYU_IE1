@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['williamsillinois#9']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_934" id1="130586" volume="539" start="0" page_number="934" standard_reporter="U.S." citation_global_level_id="6716.002" line="1" id="130574_1" citation_local_level_id="0" >539 U.S. 934</CITATION>
+
+<CITATION party2="Illinois" party1="Williams" citation_global_level_id="45357.001" party2_short="Illinois" line="1" id="130574_3" alternative_keys="['u.s._539_934']" end="37" entry_type="party_key" lookup_key="williamsillinois#9" id1="130574" start="17" party1_short="Williams" citation_local_level_id="1" >Williams v. Illinois</CITATION>
+
+<NAME end="25" start="17" party1_of="130574_3" all_names="WILLIAMS" local_name_id="1" id="130574_4" >Williams</NAME>
+
+<NAME end="37" start="29" all_names="ILLINOIS" party2_of="130574_3" local_name_id="2" id="130574_5" >Illinois</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._539_934" id1="130586" start="47" citation_global_level_id="6716.002" line="1" id="130574_2" citation_local_level_id="0" >02-10604</DOCKET>
+
+<DATE start="97" end="110" id="130574_6" >June 16, 2003</DATE>
+
+<NAME start="198" local_name_id="3" end="208" id="130574_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="130574_1" includes_docket_string="02-10604" includes_docket="130574_2" theme_string="539 U.S. 934" gram_type="apposition" relation_type="asymmetric" id="130574_11" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 934" X_vs_Y_string="Williams v. Illinois" standard_case="130574_1" X_vs_Y="130574_3" gram_type="pre_nom" relation_type="equivalence" id="130574_7" ></RELATION>
+
+<RELATION theme="130574_3" includes_docket_string="02-10604" includes_docket="130574_2" theme_string="Williams v. Illinois" gram_type="apposition" relation_type="asymmetric" id="130574_10" ></RELATION>
+
+<RELATION theme="130574_3" party1="130574_4" party1_string="Williams" theme_string="Williams v. Illinois" gram_type="infix" relation_type="asymmetric" id="130574_8" ></RELATION>
+
+<RELATION party2="130574_5" theme="130574_3" theme_string="Williams v. Illinois" party2_string="Illinois" gram_type="infix" relation_type="asymmetric" id="130574_9" ></RELATION>
+

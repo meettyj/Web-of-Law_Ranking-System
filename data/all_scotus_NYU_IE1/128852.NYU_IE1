@@ -1,0 +1,38 @@
+<CITATION alternative_keys="['pharmaceuticalsedwards#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_974" id1="128856" volume="538" start="0" page_number="974" standard_reporter="U.S." citation_global_level_id="508.002" line="1" id="128852_1" citation_local_level_id="0" >538 U.S. 974</CITATION>
+
+<CITATION party2="EDWARDS" party1="KEY PHARMACEUTICALS, INC., ET AL." citation_global_level_id="508.004" party2_short="EDWARDS" line="1" id="128852_3" alternative_keys="['u.s._538_974']" end="61" entry_type="party_key" lookup_key="pharmaceuticalsedwards#2" id1="128856" start="17" party1_short="PHARMACEUTICALS" citation_local_level_id="1" >KEY PHARMACEUTICALS, INC., ET AL. v. EDWARDS</CITATION>
+
+<NAME end="50" start="17" party1_of="128852_3" all_names="KEY PHARMACEUTICALS INC" local_name_id="1" id="128852_4" >KEY PHARMACEUTICALS, INC., ET AL.</NAME>
+
+<ORGANIZATION start="17" end="41" id="128852_7" >KEY PHARMACEUTICALS, INC</ORGANIZATION>
+
+<NAME end="61" start="54" all_names="EDWARDS" party2_of="128852_3" local_name_id="2" id="128852_5" >EDWARDS</NAME>
+
+<DOCKET end="77" entry_type="docket" lookup_key="u.s._538_974" id1="128856" start="71" citation_global_level_id="508.002" line="1" id="128852_2" citation_local_level_id="0" >02-342</DOCKET>
+
+<DATE start="119" end="133" id="128852_6" >April 21, 2003</DATE>
+
+<NAME start="226" local_name_id="3" end="228" id="128852_17" all_names="CT" >Ct</NAME>
+
+<CITATION party2="Campbell" party1="State Farm Mut. Automobile Ins. Co." citation_global_level_id="149571.001" party2_short="Campbell" line="3" id="128852_14" end="381" no_current_file="True" entry_type="party_key" lookup_key="inscampbell#2" id1="Dummy_File_85721" start="334" party1_short="Ins" citation_local_level_id="2" >State Farm Mut. Automobile Ins. Co. v. Campbell</CITATION>
+
+<NAME end="369" start="334" party1_of="128852_14" all_names="STATE FARM MUT AUTOMOBILE INS CO" local_name_id="4" id="128852_15" >State Farm Mut. Automobile Ins. Co.</NAME>
+
+<NAME end="381" start="373" all_names="CAMPBELL" party2_of="128852_14" local_name_id="5" id="128852_16" >Campbell</NAME>
+
+<CITATION end="519" reporter="P. 3d" entry_type="standard_key" no_current_file="True" lookup_key="p.3d_35_1106" id1="Dummy_File_141471" volume="35" start="506" page_number="1106" standard_reporter="P.3D" citation_global_level_id="205321.001" line="3" id="128852_13" citation_local_level_id="3" >35 P. 3d 1106</CITATION>
+
+<RELATION theme="128852_1" includes_docket_string="02-342" includes_docket="128852_2" theme_string="538 U.S. 974" gram_type="apposition" relation_type="asymmetric" id="128852_12" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 974" X_vs_Y_string="KEY PHARMACEUTICALS, INC., ET AL. v. EDWARDS" standard_case="128852_1" X_vs_Y="128852_3" gram_type="pre_nom" relation_type="equivalence" id="128852_8" ></RELATION>
+
+<RELATION theme="128852_3" includes_docket_string="02-342" includes_docket="128852_2" theme_string="KEY PHARMACEUTICALS, INC., ET AL. v. EDWARDS" gram_type="apposition" relation_type="asymmetric" id="128852_11" ></RELATION>
+
+<RELATION party2="128852_5" theme="128852_3" theme_string="KEY PHARMACEUTICALS, INC., ET AL. v. EDWARDS" party2_string="EDWARDS" gram_type="infix" relation_type="asymmetric" id="128852_10" ></RELATION>
+
+<RELATION theme="128852_3" party1="128852_4" party1_string="KEY PHARMACEUTICALS, INC., ET AL." theme_string="KEY PHARMACEUTICALS, INC., ET AL. v. EDWARDS" gram_type="infix" relation_type="asymmetric" id="128852_9" ></RELATION>
+
+<RELATION theme="128852_14" party1="128852_15" party1_string="State Farm Mut. Automobile Ins. Co." theme_string="State Farm Mut. Automobile Ins. Co. v. Campbell" gram_type="infix" relation_type="asymmetric" id="128852_18" ></RELATION>
+
+<RELATION party2="128852_16" theme="128852_14" theme_string="State Farm Mut. Automobile Ins. Co. v. Campbell" party2_string="Campbell" gram_type="infix" relation_type="asymmetric" id="128852_19" ></RELATION>
+

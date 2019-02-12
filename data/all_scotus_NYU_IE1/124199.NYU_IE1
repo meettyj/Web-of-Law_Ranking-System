@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['wileytexas#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_949" id1="124205" volume="537" start="0" page_number="949" standard_reporter="U.S." citation_global_level_id="2777.002" line="1" id="124199_1" citation_local_level_id="0" >537 U.S. 949</CITATION>
+
+<CITATION party2="TEXAS" party1="WILEY" citation_global_level_id="27518.001" party2_short="TEXAS" line="1" id="124199_3" alternative_keys="['u.s._537_949']" end="31" entry_type="party_key" lookup_key="wileytexas#1" id1="124199" start="17" party1_short="WILEY" citation_local_level_id="1" >WILEY v. TEXAS</CITATION>
+
+<NAME end="22" start="17" party1_of="124199_3" all_names="WILEY" local_name_id="1" id="124199_4" >WILEY</NAME>
+
+<NAME end="31" start="26" all_names="TEXAS" party2_of="124199_3" local_name_id="2" id="124199_5" >TEXAS</NAME>
+
+<DOCKET end="47" entry_type="docket" lookup_key="u.s._537_949" id1="124205" start="41" citation_global_level_id="2777.002" line="1" id="124199_2" citation_local_level_id="0" >02-230</DOCKET>
+
+<DATE start="89" end="105" id="124199_6" >October 15, 2002</DATE>
+
+<NAME start="206" local_name_id="3" end="208" id="124199_13" all_names="CT" >Ct</NAME>
+
+<CITATION end="276" reporter="S. W. 3d" entry_type="standard_key" no_current_file="True" lookup_key="s.w.3d_74_399" id1="Dummy_File_71760" volume="74" start="261" page_number="399" standard_reporter="S.W.3D" citation_global_level_id="135610.001" line="3" id="124199_12" citation_local_level_id="2" >74 S. W. 3d 399</CITATION>
+
+<RELATION theme="124199_1" includes_docket_string="02-230" includes_docket="124199_2" theme_string="537 U.S. 949" gram_type="apposition" relation_type="asymmetric" id="124199_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 949" X_vs_Y_string="WILEY v. TEXAS" standard_case="124199_1" X_vs_Y="124199_3" gram_type="pre_nom" relation_type="equivalence" id="124199_7" ></RELATION>
+
+<RELATION theme="124199_3" includes_docket_string="02-230" includes_docket="124199_2" theme_string="WILEY v. TEXAS" gram_type="apposition" relation_type="asymmetric" id="124199_10" ></RELATION>
+
+<RELATION theme="124199_3" party1="124199_4" party1_string="WILEY" theme_string="WILEY v. TEXAS" gram_type="infix" relation_type="asymmetric" id="124199_8" ></RELATION>
+
+<RELATION party2="124199_5" theme="124199_3" theme_string="WILEY v. TEXAS" party2_string="TEXAS" gram_type="infix" relation_type="asymmetric" id="124199_9" ></RELATION>
+

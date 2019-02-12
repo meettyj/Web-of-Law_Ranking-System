@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['mooresternes#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1023" id1="119953" volume="535" start="0" page_number="1023" standard_reporter="U.S." citation_global_level_id="691.002" line="1" id="119960_1" citation_local_level_id="0" >535 U.S. 1023</CITATION>
+
+<CITATION party2="STERNES, WARDEN" party1="MOORE" citation_global_level_id="691.005" party2_short="STERNES" line="2" id="119960_2" alternative_keys="['u.s._535_1023']" end="42" entry_type="party_key" lookup_key="mooresternes#1" id1="119953" start="18" party1_short="MOORE" citation_local_level_id="1" >MOORE v. STERNES, WARDEN</CITATION>
+
+<NAME end="23" start="18" party1_of="119960_2" all_names="MOORE" local_name_id="1" id="119960_3" >MOORE</NAME>
+
+<NAME end="42" start="27" all_names="STERNES WARDEN" party2_of="119960_2" local_name_id="2" id="119960_4" >STERNES, WARDEN</NAME>
+
+<DOCKET alternative_keys="['u.s._535_1023']" end="59" entry_type="docket" lookup_key="mooresternes#1" id1="119953" start="52" citation_global_level_id="691.005" line="3" id="119960_7" citation_local_level_id="1" >01-8589</DOCKET>
+
+<DATE start="105" citation_global_level_id="691.005" end="119" id="119960_8" citation_local_level_id="1" >April 22, 2002</DATE>
+
+<NAME start="151" local_name_id="3" end="154" id="119960_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="119960_2" party1="119960_3" party1_string="MOORE" theme_string="MOORE v. STERNES, WARDEN" gram_type="infix" relation_type="asymmetric" id="119960_5" ></RELATION>
+
+<RELATION party2="119960_4" theme="119960_2" theme_string="MOORE v. STERNES, WARDEN" party2_string="STERNES, WARDEN" gram_type="infix" relation_type="asymmetric" id="119960_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1023" X_vs_Y_string="MOORE v. STERNES, WARDEN" standard_case="119960_1" X_vs_Y="119960_2" gram_type="multi_line" relation_type="equivalence" id="119960_9" ></RELATION>
+
+<RELATION at_date_string="April 22, 2002" theme="119960_2" at_date="119960_8" theme_string="MOORE v. STERNES, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="119960_11" ></RELATION>
+
+<RELATION theme="119960_2" includes_docket_string="01-8589" includes_docket="119960_7" theme_string="MOORE v. STERNES, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="119960_10" ></RELATION>
+

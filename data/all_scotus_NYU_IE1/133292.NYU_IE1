@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['blakelywashington#3']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_965" id1="133296" volume="540" start="0" page_number="965" standard_reporter="U.S." citation_global_level_id="6752.002" line="1" id="133292_1" citation_local_level_id="0" >540 U.S. 965</CITATION>
+
+<CITATION party2="WASHINGTON" party1="BLAKELY" citation_global_level_id="59852.001" party2_short="WASHINGTON" line="1" id="133292_3" alternative_keys="['u.s._540_965']" end="38" entry_type="party_key" lookup_key="blakelywashington#3" id1="133292" start="17" party1_short="BLAKELY" citation_local_level_id="1" >BLAKELY v. WASHINGTON</CITATION>
+
+<NAME end="24" start="17" party1_of="133292_3" all_names="BLAKELY" local_name_id="1" id="133292_4" >BLAKELY</NAME>
+
+<NAME end="38" start="28" all_names="WASHINGTON" party2_of="133292_3" local_name_id="2" id="133292_5" >WASHINGTON</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._540_965" id1="133296" start="48" citation_global_level_id="6752.002" line="1" id="133292_2" citation_local_level_id="0" >02-1632</DOCKET>
+
+<DATE start="97" end="113" id="133292_6" >October 20, 2003</DATE>
+
+<NAME start="191" local_name_id="3" end="201" id="133292_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="245" reporter="Wash. App." entry_type="standard_key" no_current_file="True" lookup_key="wash.app._111_851" id1="Dummy_File_110038" volume="111" start="227" page_number="851" standard_reporter="WASH.APP." citation_global_level_id="173888.001" line="3" id="133292_12" citation_local_level_id="2" >111 Wash. App. 851</CITATION>
+
+<CITATION end="259" reporter="P. 3d" entry_type="standard_key" no_current_file="True" lookup_key="p.3d_47_149" id1="Dummy_File_110039" volume="47" start="247" page_number="149" standard_reporter="P.3D" citation_global_level_id="173889.001" line="3" id="133292_13" citation_local_level_id="3" >47 P. 3d 149</CITATION>
+
+<RELATION theme="133292_1" includes_docket_string="02-1632" includes_docket="133292_2" theme_string="540 U.S. 965" gram_type="apposition" relation_type="asymmetric" id="133292_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 965" X_vs_Y_string="BLAKELY v. WASHINGTON" standard_case="133292_1" X_vs_Y="133292_3" gram_type="pre_nom" relation_type="equivalence" id="133292_7" ></RELATION>
+
+<RELATION theme="133292_3" includes_docket_string="02-1632" includes_docket="133292_2" theme_string="BLAKELY v. WASHINGTON" gram_type="apposition" relation_type="asymmetric" id="133292_10" ></RELATION>
+
+<RELATION theme="133292_3" party1="133292_4" party1_string="BLAKELY" theme_string="BLAKELY v. WASHINGTON" gram_type="infix" relation_type="asymmetric" id="133292_8" ></RELATION>
+
+<RELATION party2="133292_5" theme="133292_3" theme_string="BLAKELY v. WASHINGTON" party2_string="WASHINGTON" gram_type="infix" relation_type="asymmetric" id="133292_9" ></RELATION>
+

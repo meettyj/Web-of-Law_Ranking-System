@@ -1,0 +1,40 @@
+<CITATION alternative_keys="['holdingsimon#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_974" id1="128856" volume="538" start="0" page_number="974" standard_reporter="U.S." citation_global_level_id="508.002" line="1" id="128853_1" citation_local_level_id="0" >538 U.S. 974</CITATION>
+
+<CITATION party2="SIMON, DBA LIBERTY PAPER CO" party1="SAN PAOLO U. S. HOLDING CO., INC." citation_global_level_id="508.006" party2_short="SIMON" line="1" id="128853_3" alternative_keys="['u.s._538_974']" end="81" entry_type="party_key" lookup_key="holdingsimon#2" id1="128856" start="17" party1_short="HOLDING" citation_local_level_id="1" >SAN PAOLO U. S. HOLDING CO., INC. v. SIMON, DBA LIBERTY PAPER CO</CITATION>
+
+<NAME end="50" start="17" party1_of="128853_3" all_names="SAN PAOLO U S HOLDING CO INC" local_name_id="1" id="128853_4" >SAN PAOLO U. S. HOLDING CO., INC.</NAME>
+
+<ORGANIZATION start="17" end="49" id="128853_8" >SAN PAOLO U. S. HOLDING CO., INC</ORGANIZATION>
+
+<NAME end="81" start="54" all_names="SIMON DBA LIBERTY PAPER CO" party2_of="128853_3" local_name_id="2" id="128853_5" >SIMON, DBA LIBERTY PAPER CO</NAME>
+
+<DOCKET end="98" entry_type="docket" lookup_key="u.s._538_974" id1="128856" start="91" citation_global_level_id="508.002" line="1" id="128853_2" citation_local_level_id="0" >01-1722</DOCKET>
+
+<DATE start="94" end="98" id="128853_6" >1722</DATE>
+
+<DATE start="140" end="154" id="128853_7" >April 21, 2003</DATE>
+
+<NAME start="285" local_name_id="3" end="287" id="128853_18" all_names="CT" >Ct</NAME>
+
+<CITATION party2="Campbell" party1="State Farm Mut. Automobile Ins. Co." citation_global_level_id="149571.001" party2_short="Campbell" line="3" id="128853_15" end="455" no_current_file="True" entry_type="party_key" lookup_key="inscampbell#2" id1="Dummy_File_85721" start="408" party1_short="Ins" citation_local_level_id="2" >State Farm Mut. Automobile Ins. Co. v. Campbell</CITATION>
+
+<NAME end="443" start="408" party1_of="128853_15" all_names="STATE FARM MUT AUTOMOBILE INS CO" local_name_id="4" id="128853_16" >State Farm Mut. Automobile Ins. Co.</NAME>
+
+<NAME end="455" start="447" all_names="CAMPBELL" party2_of="128853_15" local_name_id="5" id="128853_17" >Campbell</NAME>
+
+<RELATION theme="128853_1" includes_docket_string="01-1722" includes_docket="128853_2" theme_string="538 U.S. 974" gram_type="apposition" relation_type="asymmetric" id="128853_13" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 974" X_vs_Y_string="SAN PAOLO U. S. HOLDING CO., INC. v. SIMON, DBA LIBERTY PAPER CO" standard_case="128853_1" X_vs_Y="128853_3" gram_type="pre_nom" relation_type="equivalence" id="128853_9" ></RELATION>
+
+<RELATION theme="128853_3" includes_docket_string="01-1722" includes_docket="128853_2" theme_string="SAN PAOLO U. S. HOLDING CO., INC. v. SIMON, DBA LIBERTY PAPER CO" gram_type="apposition" relation_type="asymmetric" id="128853_12" ></RELATION>
+
+<RELATION theme="128853_3" party1="128853_4" party1_string="SAN PAOLO U. S. HOLDING CO., INC." theme_string="SAN PAOLO U. S. HOLDING CO., INC. v. SIMON, DBA LIBERTY PAPER CO" gram_type="infix" relation_type="asymmetric" id="128853_10" ></RELATION>
+
+<RELATION party2="128853_5" theme="128853_3" theme_string="SAN PAOLO U. S. HOLDING CO., INC. v. SIMON, DBA LIBERTY PAPER CO" party2_string="SIMON, DBA LIBERTY PAPER CO" gram_type="infix" relation_type="asymmetric" id="128853_11" ></RELATION>
+
+<RELATION at_date_string="1722" theme="128853_2" at_date="128853_6" theme_string="01-1722" gram_type="infix" relation_type="asymmetric" id="128853_14" ></RELATION>
+
+<RELATION theme="128853_15" party1="128853_16" party1_string="State Farm Mut. Automobile Ins. Co." theme_string="State Farm Mut. Automobile Ins. Co. v. Campbell" gram_type="infix" relation_type="asymmetric" id="128853_19" ></RELATION>
+
+<RELATION party2="128853_17" theme="128853_15" theme_string="State Farm Mut. Automobile Ins. Co. v. Campbell" party2_string="Campbell" gram_type="infix" relation_type="asymmetric" id="128853_20" ></RELATION>
+

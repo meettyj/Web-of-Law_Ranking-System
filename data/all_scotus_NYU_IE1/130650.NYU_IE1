@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['wienerpicaso#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_941" id1="130653" volume="539" start="0" page_number="941" standard_reporter="U.S." citation_global_level_id="5554.002" line="1" id="130650_1" citation_local_level_id="0" >539 U.S. 941</CITATION>
+
+<CITATION party2="Lawrence-Picaso, Inc., et al" party1="Wiener" citation_global_level_id="5554.004" party2_short="Picaso" line="1" id="130650_3" alternative_keys="['u.s._539_941']" end="55" entry_type="party_key" lookup_key="wienerpicaso#2" id1="130653" start="17" party1_short="Wiener" citation_local_level_id="1" >Wiener v. Lawrence-Picaso, Inc., et al</CITATION>
+
+<NAME end="23" start="17" party1_of="130650_3" all_names="WIENER" local_name_id="1" id="130650_4" >Wiener</NAME>
+
+<NAME end="55" start="27" all_names="LAWRENCE-PICASO INC" party2_of="130650_3" local_name_id="2" id="130650_5" >Lawrence-Picaso, Inc., et al</NAME>
+
+<DOCKET end="72" entry_type="docket" lookup_key="u.s._539_941" id1="130653" start="65" citation_global_level_id="5554.002" line="1" id="130650_2" citation_local_level_id="0" >02-1364</DOCKET>
+
+<DATE start="114" end="127" id="130650_6" >June 23, 2003</DATE>
+
+<NAME start="232" local_name_id="3" end="242" id="130650_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="308" reporter="N. Y. S. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.y.s.2d_744_392" id1="Dummy_File_86725" volume="744" start="289" page_number="392" standard_reporter="N.Y.S.2D" citation_global_level_id="150575.001" line="3" id="130650_12" citation_local_level_id="2" >744 N. Y. S. 2d 392</CITATION>
+
+<RELATION theme="130650_1" includes_docket_string="02-1364" includes_docket="130650_2" theme_string="539 U.S. 941" gram_type="apposition" relation_type="asymmetric" id="130650_11" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 941" X_vs_Y_string="Wiener v. Lawrence-Picaso, Inc., et al" standard_case="130650_1" X_vs_Y="130650_3" gram_type="pre_nom" relation_type="equivalence" id="130650_7" ></RELATION>
+
+<RELATION theme="130650_3" includes_docket_string="02-1364" includes_docket="130650_2" theme_string="Wiener v. Lawrence-Picaso, Inc., et al" gram_type="apposition" relation_type="asymmetric" id="130650_10" ></RELATION>
+
+<RELATION theme="130650_3" party1="130650_4" party1_string="Wiener" theme_string="Wiener v. Lawrence-Picaso, Inc., et al" gram_type="infix" relation_type="asymmetric" id="130650_8" ></RELATION>
+
+<RELATION party2="130650_5" theme="130650_3" theme_string="Wiener v. Lawrence-Picaso, Inc., et al" party2_string="Lawrence-Picaso, Inc., et al" gram_type="infix" relation_type="asymmetric" id="130650_9" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['johnsonauthority#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1016" id1="115683" volume="510" start="0" page_number="1016" standard_reporter="U.S." citation_global_level_id="294.002" line="1" id="115674_1" citation_local_level_id="0" >510 U.S. 1016</CITATION>
+
+<CITATION party2="Metropolitan Atlanta Rapid Transit Authority et al" party1="Johnson" citation_global_level_id="4925.003" party2_short="Authority" line="1" id="115674_3" alternative_keys="['u.s._510_1159']" end="79" entry_type="party_key" lookup_key="johnsonauthority#1" id1="117196" start="18" party1_short="Johnson" citation_local_level_id="1" >Johnson v. Metropolitan Atlanta Rapid Transit Authority et al</CITATION>
+
+<NAME end="25" start="18" party1_of="115674_3" all_names="JOHNSON" local_name_id="1" id="115674_4" >Johnson</NAME>
+
+<NAME end="79" start="29" all_names="METROPOLITAN ATLANTA RAPID TRANSIT AUTHORITY" party2_of="115674_3" local_name_id="2" id="115674_5" >Metropolitan Atlanta Rapid Transit Authority et al</NAME>
+
+<DOCKET end="96" entry_type="docket" lookup_key="u.s._510_1016" id1="115683" start="89" citation_global_level_id="294.002" line="1" id="115674_2" citation_local_level_id="0" >93-6383</DOCKET>
+
+<DATE start="138" end="154" id="115674_6" >December 6, 1993</DATE>
+
+<NAME start="230" local_name_id="3" end="240" id="115674_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="299" reporter="S. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="s.e.2d_429_285" id1="Dummy_File_66279" volume="429" start="283" page_number="285" standard_reporter="S.E.2D" citation_global_level_id="130129.001" line="3" id="115674_12" citation_local_level_id="2" >429 S. E. 2d 285</CITATION>
+
+<RELATION theme="115674_1" includes_docket_string="93-6383" includes_docket="115674_2" theme_string="510 U.S. 1016" gram_type="apposition" relation_type="asymmetric" id="115674_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1016" X_vs_Y_string="Johnson v. Metropolitan Atlanta Rapid Transit Authority et al" standard_case="115674_1" X_vs_Y="115674_3" gram_type="pre_nom" relation_type="equivalence" id="115674_7" ></RELATION>
+
+<RELATION theme="115674_3" includes_docket_string="93-6383" includes_docket="115674_2" theme_string="Johnson v. Metropolitan Atlanta Rapid Transit Authority et al" gram_type="apposition" relation_type="asymmetric" id="115674_10" ></RELATION>
+
+<RELATION theme="115674_3" party1="115674_4" party1_string="Johnson" theme_string="Johnson v. Metropolitan Atlanta Rapid Transit Authority et al" gram_type="infix" relation_type="asymmetric" id="115674_8" ></RELATION>
+
+<RELATION party2="115674_5" theme="115674_3" theme_string="Johnson v. Metropolitan Atlanta Rapid Transit Authority et al" party2_string="Metropolitan Atlanta Rapid Transit Authority et al" gram_type="infix" relation_type="asymmetric" id="115674_9" ></RELATION>
+

@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['heardstates#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_913" id1="139236" volume="543" start="0" page_number="913" standard_reporter="U.S." citation_global_level_id="141.002" line="1" id="139244_1" citation_local_level_id="0" >543 U.S. 913</CITATION>
+
+<CITATION party2="UNITED STATES" party1="HEARD" citation_global_level_id="39099.001" party2_short="STATES" line="2" id="139244_2" alternative_keys="['u.s._543_913']" end="39" entry_type="party_key" lookup_key="heardstates#1" id1="139244" start="17" party1_short="HEARD" citation_local_level_id="1" >HEARD v. UNITED STATES</CITATION>
+
+<NAME end="22" start="17" party1_of="139244_2" all_names="HEARD" local_name_id="1" id="139244_3" >HEARD</NAME>
+
+<NAME end="39" start="26" all_names="UNITED STATES" party2_of="139244_2" local_name_id="2" id="139244_4" >UNITED STATES</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="heardstates#1" id1="139244" start="49" citation_global_level_id="39099.001" line="3" id="139244_7" citation_local_level_id="1" >04-5896</DOCKET>
+
+<ORGANIZATION start="62" end="92" id="139244_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="98" citation_global_level_id="39099.001" end="113" id="139244_9" citation_local_level_id="1" >October 4, 2004</DATE>
+
+<NAME start="146" local_name_id="3" end="149" id="139244_14" all_names="CIR" >Cir</NAME>
+
+<CITATION end="200" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_367_1275" id1="Dummy_File_149522" volume="367" start="186" page_number="1275" standard_reporter="F.3D" citation_global_level_id="213372.001" line="8" id="139244_13" citation_local_level_id="2" >367 F. 3d 1275</CITATION>
+
+<RELATION theme="139244_2" party1="139244_3" party1_string="HEARD" theme_string="HEARD v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="139244_5" ></RELATION>
+
+<RELATION party2="139244_4" theme="139244_2" theme_string="HEARD v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="139244_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 913" X_vs_Y_string="HEARD v. UNITED STATES" standard_case="139244_1" X_vs_Y="139244_2" gram_type="multi_line" relation_type="equivalence" id="139244_10" ></RELATION>
+
+<RELATION at_date_string="October 4, 2004" theme="139244_2" at_date="139244_9" theme_string="HEARD v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="139244_12" ></RELATION>
+
+<RELATION theme="139244_2" includes_docket_string="04-5896" includes_docket="139244_7" theme_string="HEARD v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="139244_11" ></RELATION>
+

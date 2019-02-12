@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['chisolmwarden#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1081" id1="120625" volume="535" start="0" page_number="1081" standard_reporter="U.S." citation_global_level_id="3301.002" line="1" id="120625_1" citation_local_level_id="0" >535 U.S. 1081</CITATION>
+
+<CITATION party2="DAY, WARDEN" party1="CHISOLM" citation_global_level_id="3301.001" party2_short="WARDEN" line="2" id="120625_2" alternative_keys="['u.s._535_1081']" end="40" entry_type="party_key" lookup_key="chisolmwarden#1" id1="120625" start="18" party1_short="CHISOLM" citation_local_level_id="1" >CHISOLM v. DAY, WARDEN</CITATION>
+
+<NAME end="25" start="18" party1_of="120625_2" all_names="CHISOLM" local_name_id="1" id="120625_3" >CHISOLM</NAME>
+
+<NAME end="40" start="29" all_names="DAY WARDEN" party2_of="120625_2" local_name_id="2" id="120625_4" >DAY, WARDEN</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="chisolmwarden#1" id1="120625" start="50" citation_global_level_id="3301.001" line="3" id="120625_7" citation_local_level_id="1" >01-9001</DOCKET>
+
+<DATE start="103" citation_global_level_id="3301.001" end="115" id="120625_8" citation_local_level_id="1" >May 20, 2002</DATE>
+
+<NAME start="147" local_name_id="3" end="150" id="120625_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="120625_2" party1="120625_3" party1_string="CHISOLM" theme_string="CHISOLM v. DAY, WARDEN" gram_type="infix" relation_type="asymmetric" id="120625_5" ></RELATION>
+
+<RELATION party2="120625_4" theme="120625_2" theme_string="CHISOLM v. DAY, WARDEN" party2_string="DAY, WARDEN" gram_type="infix" relation_type="asymmetric" id="120625_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1081" X_vs_Y_string="CHISOLM v. DAY, WARDEN" standard_case="120625_1" X_vs_Y="120625_2" gram_type="multi_line" relation_type="equivalence" id="120625_9" ></RELATION>
+
+<RELATION at_date_string="May 20, 2002" theme="120625_2" at_date="120625_8" theme_string="CHISOLM v. DAY, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="120625_11" ></RELATION>
+
+<RELATION theme="120625_2" includes_docket_string="01-9001" includes_docket="120625_7" theme_string="CHISOLM v. DAY, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="120625_10" ></RELATION>
+

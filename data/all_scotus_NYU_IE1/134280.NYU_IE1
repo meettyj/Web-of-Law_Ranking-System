@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['reynoldswarden#3']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_1057" id1="134282" volume="540" start="0" page_number="1057" standard_reporter="U.S." citation_global_level_id="2379.002" line="1" id="134280_1" citation_local_level_id="0" >540 U.S. 1057</CITATION>
+
+<CITATION party2="SMITH, WARDEN" party1="REYNOLDS" citation_global_level_id="30439.001" party2_short="WARDEN" line="1" id="134280_3" alternative_keys="['u.s._540_1057']" end="43" entry_type="party_key" lookup_key="reynoldswarden#3" id1="134280" start="18" party1_short="REYNOLDS" citation_local_level_id="1" >REYNOLDS v. SMITH, WARDEN</CITATION>
+
+<NAME end="26" start="18" party1_of="134280_3" all_names="REYNOLDS" local_name_id="1" id="134280_4" >REYNOLDS</NAME>
+
+<NAME end="43" start="30" all_names="SMITH WARDEN" party2_of="134280_3" local_name_id="2" id="134280_5" >SMITH, WARDEN</NAME>
+
+<DOCKET end="60" entry_type="docket" lookup_key="u.s._540_1057" id1="134282" start="53" citation_global_level_id="2379.002" line="1" id="134280_2" citation_local_level_id="0" >03-6645</DOCKET>
+
+<DATE start="102" end="118" id="134280_6" >December 1, 2003</DATE>
+
+<NAME start="196" local_name_id="3" end="206" id="134280_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="134280_1" includes_docket_string="03-6645" includes_docket="134280_2" theme_string="540 U.S. 1057" gram_type="apposition" relation_type="asymmetric" id="134280_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 1057" X_vs_Y_string="REYNOLDS v. SMITH, WARDEN" standard_case="134280_1" X_vs_Y="134280_3" gram_type="pre_nom" relation_type="equivalence" id="134280_7" ></RELATION>
+
+<RELATION theme="134280_3" includes_docket_string="03-6645" includes_docket="134280_2" theme_string="REYNOLDS v. SMITH, WARDEN" gram_type="apposition" relation_type="asymmetric" id="134280_10" ></RELATION>
+
+<RELATION theme="134280_3" party1="134280_4" party1_string="REYNOLDS" theme_string="REYNOLDS v. SMITH, WARDEN" gram_type="infix" relation_type="asymmetric" id="134280_8" ></RELATION>
+
+<RELATION party2="134280_5" theme="134280_3" theme_string="REYNOLDS v. SMITH, WARDEN" party2_string="SMITH, WARDEN" gram_type="infix" relation_type="asymmetric" id="134280_9" ></RELATION>
+

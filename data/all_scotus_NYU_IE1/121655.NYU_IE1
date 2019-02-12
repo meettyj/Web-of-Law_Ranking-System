@@ -1,0 +1,44 @@
+<CITATION alternative_keys="['dinsioyork#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._536_942" id1="121651" volume="536" start="0" page_number="942" standard_reporter="U.S." citation_global_level_id="3372.002" line="1" id="121655_1" citation_local_level_id="0" >536 U.S. 942</CITATION>
+
+<CITATION party2="NEW YORK" party1="DINSIO" citation_global_level_id="53849.001" party2_short="YORK" line="2" id="121655_2" alternative_keys="['u.s._536_942', 'dinsioyork#1']" end="35" entry_type="party_key" lookup_key="dinsioyork#1" id1="121655" start="17" party1_short="DINSIO" citation_local_level_id="1" >DINSIO v. NEW YORK</CITATION>
+
+<NAME end="23" start="17" party1_of="121655_2" all_names="DINSIO" local_name_id="1" id="121655_4" >DINSIO</NAME>
+
+<NAME end="35" start="27" all_names="NEW YORK" party2_of="121655_2" local_name_id="2" id="121655_5" >NEW YORK</NAME>
+
+<CITATION party2="NEW YORK" party1="DINSIO" citation_global_level_id="53849.001" party2_short="YORK" line="2" id="121655_3" alternative_keys="['u.s._536_942', 'dinsioyork#1']" end="59" entry_type="party_key" lookup_key="dinsioyork#1" id1="121655" start="41" party1_short="DINSIO" citation_local_level_id="2" >DINSIO v. NEW YORK</CITATION>
+
+<NAME end="47" start="41" party1_of="121655_3" all_names="DINSIO" local_name_id="1" id="121655_6" >DINSIO</NAME>
+
+<NAME end="59" start="51" all_names="NEW YORK" party2_of="121655_3" local_name_id="2" id="121655_7" >NEW YORK</NAME>
+
+<DOCKET end="76" entry_type="docket" lookup_key="dinsioyork#1" id1="121655" start="69" citation_global_level_id="53849.001" line="3" id="121655_12" citation_local_level_id="1" >01-9709</DOCKET>
+
+<DOCKET end="93" entry_type="docket" lookup_key="dinsioyork#1" id1="121655" start="86" citation_global_level_id="53849.001" line="4" id="121655_13" citation_local_level_id="1" >01-9710</DOCKET>
+
+<DATE start="139" end="152" id="121655_20" >June 24, 2002</DATE>
+
+<NAME start="174" local_name_id="3" end="177" id="121655_22" all_names="APP" >App</NAME>
+
+<CITATION end="291" reporter="N. Y. S. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.y.s.2d_729_208" id1="Dummy_File_227858" volume="729" start="272" page_number="208" standard_reporter="N.Y.S.2D" citation_global_level_id="291708.001" line="9" id="121655_21" citation_local_level_id="3" >729 N. Y. S. 2d 208</CITATION>
+
+<RELATION theme="121655_2" party1="121655_4" party1_string="DINSIO" theme_string="DINSIO v. NEW YORK" gram_type="infix" relation_type="asymmetric" id="121655_8" ></RELATION>
+
+<RELATION party2="121655_5" theme="121655_2" theme_string="DINSIO v. NEW YORK" party2_string="NEW YORK" gram_type="infix" relation_type="asymmetric" id="121655_9" ></RELATION>
+
+<RELATION theme="121655_3" party1="121655_6" party1_string="DINSIO" theme_string="DINSIO v. NEW YORK" gram_type="infix" relation_type="asymmetric" id="121655_10" ></RELATION>
+
+<RELATION party2="121655_7" theme="121655_3" theme_string="DINSIO v. NEW YORK" party2_string="NEW YORK" gram_type="infix" relation_type="asymmetric" id="121655_11" ></RELATION>
+
+<RELATION standard_case_string="536 U.S. 942" X_vs_Y_string="DINSIO v. NEW YORK" standard_case="121655_1" X_vs_Y="121655_3" gram_type="multi_line" relation_type="equivalence" id="121655_17" ></RELATION>
+
+<RELATION standard_case_string="536 U.S. 942" X_vs_Y_string="DINSIO v. NEW YORK" standard_case="121655_1" X_vs_Y="121655_2" gram_type="multi_line" relation_type="equivalence" id="121655_14" ></RELATION>
+
+<RELATION theme="121655_2" includes_docket_string="01-9710" includes_docket="121655_13" theme_string="DINSIO v. NEW YORK" gram_type="multi_line" relation_type="asymmetric" id="121655_16" ></RELATION>
+
+<RELATION theme="121655_2" includes_docket_string="01-9709" includes_docket="121655_12" theme_string="DINSIO v. NEW YORK" gram_type="multi_line" relation_type="asymmetric" id="121655_15" ></RELATION>
+
+<RELATION theme="121655_3" includes_docket_string="01-9710" includes_docket="121655_13" theme_string="DINSIO v. NEW YORK" gram_type="multi_line" relation_type="asymmetric" id="121655_19" ></RELATION>
+
+<RELATION theme="121655_3" includes_docket_string="01-9709" includes_docket="121655_12" theme_string="DINSIO v. NEW YORK" gram_type="multi_line" relation_type="asymmetric" id="121655_18" ></RELATION>
+

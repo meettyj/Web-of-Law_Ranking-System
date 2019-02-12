@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['pennzoildepartment#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_927" id1="118681" volume="535" start="0" page_number="927" standard_reporter="U.S." citation_global_level_id="6310.002" line="1" id="118676_1" citation_local_level_id="0" >535 U.S. 927</CITATION>
+
+<CITATION party2="OREGON DEPARTMENT OF REVENUE" party1="PENNZOIL CO. ET AL." citation_global_level_id="10793.001" party2_short="DEPARTMENT" line="2" id="118676_2" alternative_keys="['u.s._535_927']" end="68" entry_type="party_key" lookup_key="pennzoildepartment#1" id1="118676" start="17" party1_short="PENNZOIL" citation_local_level_id="1" >PENNZOIL CO. ET AL. v. OREGON DEPARTMENT OF REVENUE</CITATION>
+
+<NAME end="36" start="17" party1_of="118676_2" all_names="PENNZOIL CO" local_name_id="1" id="118676_3" >PENNZOIL CO. ET AL.</NAME>
+
+<NAME start="17" local_name_id="1" end="35" id="118676_5" all_names="PENNZOIL CO" >PENNZOIL CO. ET AL</NAME>
+
+<ORGANIZATION start="26" end="28" id="118676_6" >CO</ORGANIZATION>
+
+<NAME end="68" start="40" all_names="OREGON DEPARTMENT OF REVENUE" party2_of="118676_2" local_name_id="2" id="118676_4" >OREGON DEPARTMENT OF REVENUE</NAME>
+
+<DOCKET end="84" entry_type="docket" lookup_key="pennzoildepartment#1" id1="118676" start="78" citation_global_level_id="10793.001" line="3" id="118676_9" citation_local_level_id="1" >01-964</DOCKET>
+
+<DATE start="130" citation_global_level_id="10793.001" end="144" id="118676_10" citation_local_level_id="1" >March 18, 2002</DATE>
+
+<NAME start="166" local_name_id="3" end="169" id="118676_15" all_names="SUP" >Sup</NAME>
+
+<CITATION end="241" reporter="P. 3d" entry_type="standard_key" no_current_file="True" lookup_key="p.3d_33_314" id1="Dummy_File_96878" volume="33" start="229" page_number="314" standard_reporter="P.3D" citation_global_level_id="160728.001" line="8" id="118676_14" citation_local_level_id="2" >33 P. 3d 314</CITATION>
+
+<RELATION theme="118676_2" party1="118676_3" party1_string="PENNZOIL CO. ET AL." theme_string="PENNZOIL CO. ET AL. v. OREGON DEPARTMENT OF REVENUE" gram_type="infix" relation_type="asymmetric" id="118676_7" ></RELATION>
+
+<RELATION party2="118676_4" theme="118676_2" theme_string="PENNZOIL CO. ET AL. v. OREGON DEPARTMENT OF REVENUE" party2_string="OREGON DEPARTMENT OF REVENUE" gram_type="infix" relation_type="asymmetric" id="118676_8" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 927" X_vs_Y_string="PENNZOIL CO. ET AL. v. OREGON DEPARTMENT OF REVENUE" standard_case="118676_1" X_vs_Y="118676_2" gram_type="multi_line" relation_type="equivalence" id="118676_11" ></RELATION>
+
+<RELATION at_date_string="March 18, 2002" theme="118676_2" at_date="118676_10" theme_string="PENNZOIL CO. ET AL. v. OREGON DEPARTMENT OF REVENUE" gram_type="multi_line" relation_type="asymmetric" id="118676_13" ></RELATION>
+
+<RELATION theme="118676_2" includes_docket_string="01-964" includes_docket="118676_9" theme_string="PENNZOIL CO. ET AL. v. OREGON DEPARTMENT OF REVENUE" gram_type="multi_line" relation_type="asymmetric" id="118676_12" ></RELATION>
+

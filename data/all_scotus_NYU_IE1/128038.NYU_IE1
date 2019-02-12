@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['weavertexas#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_911" id1="128043" volume="538" start="0" page_number="911" standard_reporter="U.S." citation_global_level_id="6668.002" line="1" id="128038_1" citation_local_level_id="0" >538 U.S. 911</CITATION>
+
+<CITATION party2="TEXAS" party1="WEAVER" citation_global_level_id="33376.001" party2_short="TEXAS" line="1" id="128038_3" alternative_keys="['u.s._538_911']" end="32" entry_type="party_key" lookup_key="weavertexas#1" id1="128038" start="17" party1_short="WEAVER" citation_local_level_id="1" >WEAVER v. TEXAS</CITATION>
+
+<NAME end="23" start="17" party1_of="128038_3" all_names="WEAVER" local_name_id="1" id="128038_4" >WEAVER</NAME>
+
+<NAME end="32" start="27" all_names="TEXAS" party2_of="128038_3" local_name_id="2" id="128038_5" >TEXAS</NAME>
+
+<DOCKET end="49" entry_type="docket" lookup_key="u.s._538_911" id1="128043" start="42" citation_global_level_id="6668.002" line="1" id="128038_2" citation_local_level_id="0" >02-8350</DOCKET>
+
+<DATE start="91" end="105" id="128038_6" >March 10, 2003</DATE>
+
+<NAME start="206" local_name_id="3" end="208" id="128038_13" all_names="CT" >Ct</NAME>
+
+<CITATION end="276" reporter="S. W. 3d" entry_type="standard_key" no_current_file="True" lookup_key="s.w.3d_87_557" id1="Dummy_File_235851" volume="87" start="261" page_number="557" standard_reporter="S.W.3D" citation_global_level_id="299701.001" line="3" id="128038_12" citation_local_level_id="2" >87 S. W. 3d 557</CITATION>
+
+<RELATION theme="128038_1" includes_docket_string="02-8350" includes_docket="128038_2" theme_string="538 U.S. 911" gram_type="apposition" relation_type="asymmetric" id="128038_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 911" X_vs_Y_string="WEAVER v. TEXAS" standard_case="128038_1" X_vs_Y="128038_3" gram_type="pre_nom" relation_type="equivalence" id="128038_7" ></RELATION>
+
+<RELATION theme="128038_3" includes_docket_string="02-8350" includes_docket="128038_2" theme_string="WEAVER v. TEXAS" gram_type="apposition" relation_type="asymmetric" id="128038_10" ></RELATION>
+
+<RELATION theme="128038_3" party1="128038_4" party1_string="WEAVER" theme_string="WEAVER v. TEXAS" gram_type="infix" relation_type="asymmetric" id="128038_8" ></RELATION>
+
+<RELATION party2="128038_5" theme="128038_3" theme_string="WEAVER v. TEXAS" party2_string="TEXAS" gram_type="infix" relation_type="asymmetric" id="128038_9" ></RELATION>
+

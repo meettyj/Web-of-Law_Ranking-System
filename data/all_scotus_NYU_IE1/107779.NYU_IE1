@@ -1,0 +1,50 @@
+<CITATION alternative_keys="['bentonmaryland#2', 's.ct._88_2297', 'l.ed.2d_20_1384']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._392_925" id1="107779" volume="392" start="0" page_number="925" standard_reporter="U.S." citation_global_level_id="33908.002" line="1" id="107779_1" citation_local_level_id="0" >392 U.S. 925</CITATION>
+
+<CITATION alternative_keys="['u.s._392_925', 'bentonmaryland#2', 'l.ed.2d_20_1384']" end="31" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._88_2297" id1="107779" volume="88" start="17" page_number="2297" standard_reporter="S.CT." citation_global_level_id="33908.003" line="1" id="107779_2" citation_local_level_id="1" >88 S. Ct. 2297</CITATION>
+
+<NAME start="20" local_name_id="1" end="25" id="107779_9" all_names="S CT" >S. Ct</NAME>
+
+<CITATION alternative_keys="['u.s._392_925', 's.ct._88_2297', 'bentonmaryland#2']" end="53" reporter="L. Ed. 2d" entry_type="standard_key" lookup_key="l.ed.2d_20_1384" id1="107779" volume="20" start="36" page_number="1384" standard_reporter="L.ED.2D" citation_global_level_id="33908.004" line="1" id="107779_3" citation_local_level_id="2" >20 L. Ed. 2d 1384</CITATION>
+
+<CITATION party2="MARYLAND" alternative_keys="['u.s._392_925', 's.ct._88_2297', 'l.ed.2d_20_1384']" party1="John Dalmer BENTON," end="101" party1_short="BENTON" entry_type="party_key" party1_role="petitioner" lookup_key="bentonmaryland#2" id1="107980" start="58" citation_global_level_id="59517.001" party2_short="MARYLAND" line="1" id="107779_4" citation_local_level_id="3" >John Dalmer BENTON, petitioner, v. MARYLAND</CITATION>
+
+<NAME end="77" start="58" party1_of="107779_4" all_names="JOHN DALMER BENTON" local_name_id="2" id="107779_5" >John Dalmer BENTON,</NAME>
+
+<LEGAL_ROLE start="78" end="88" id="107779_7" >petitioner</LEGAL_ROLE>
+
+<NAME end="101" start="93" all_names="MARYLAND" party2_of="107779_4" local_name_id="3" id="107779_6" >MARYLAND</NAME>
+
+<DATE start="166" end="179" id="107779_8" >June 17, 1968</DATE>
+
+<NAME start="251" local_name_id="4" end="267" id="107779_15" all_names="FRANCIS B BURCH" >Francis B. Burch</NAME>
+
+<PROFESSION start="269" document_level_name_id="4" end="291" id="107779_16" party="FRANCIS B BURCH" >Atty. Gen. of Maryland</PROFESSION>
+
+<NAME start="297" local_name_id="5" end="317" id="107779_17" all_names="EDWARD F BORGERDING" >Edward F. Borgerding</NAME>
+
+<PROFESSION start="319" document_level_name_id="5" end="334" id="107779_18" party="EDWARD F BORGERDING" >Asst. Atty. Gen</PROFESSION>
+
+<LEGAL_ROLE start="341" end="351" id="107779_19" >respondent</LEGAL_ROLE>
+
+<NAME start="577" local_name_id="6" end="579" id="107779_22" all_names="IS" >Is</NAME>
+
+<NAME start="620" local_name_id="7" end="629" id="107779_23" all_names="AMENDMENT" >Amendment</NAME>
+
+<NAME start="653" local_name_id="8" end="659" id="107779_24" all_names="STATES" >States</NAME>
+
+<NAME start="683" local_name_id="7" end="692" id="107779_25" all_names="AMENDMENT" >Amendment</NAME>
+
+<RELATION standard_case_string="392 U.S. 925" X_vs_Y_string="John Dalmer BENTON, petitioner, v. MARYLAND" standard_case="107779_1" X_vs_Y="107779_4" gram_type="pre_nom" relation_type="equivalence" id="107779_11" ></RELATION>
+
+<RELATION standard_case_string="88 S. Ct. 2297" X_vs_Y_string="John Dalmer BENTON, petitioner, v. MARYLAND" standard_case="107779_2" X_vs_Y="107779_4" gram_type="pre_nom" relation_type="equivalence" id="107779_12" ></RELATION>
+
+<RELATION standard_case_string="20 L. Ed. 2d 1384" X_vs_Y_string="John Dalmer BENTON, petitioner, v. MARYLAND" standard_case="107779_3" X_vs_Y="107779_4" gram_type="pre_nom" relation_type="equivalence" id="107779_10" ></RELATION>
+
+<RELATION theme="107779_4" party1="107779_5" party1_string="John Dalmer BENTON," theme_string="John Dalmer BENTON, petitioner, v. MARYLAND" gram_type="infix" relation_type="asymmetric" id="107779_13" ></RELATION>
+
+<RELATION party2="107779_6" theme="107779_4" theme_string="John Dalmer BENTON, petitioner, v. MARYLAND" party2_string="MARYLAND" gram_type="infix" relation_type="asymmetric" id="107779_14" ></RELATION>
+
+<RELATION theme="107779_15" profession_string="Atty. Gen. of Maryland" theme_string="Francis B. Burch" profession="107779_16" gram_type="apposition" relation_type="asymmetric" id="107779_20" ></RELATION>
+
+<RELATION theme="107779_17" profession_string="Asst. Atty. Gen" theme_string="Edward F. Borgerding" profession="107779_18" gram_type="apposition" relation_type="asymmetric" id="107779_21" ></RELATION>
+

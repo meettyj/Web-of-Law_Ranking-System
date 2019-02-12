@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['braunplastomer#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_964" id1="130924" volume="539" start="0" page_number="964" standard_reporter="U.S." citation_global_level_id="3518.002" line="1" id="130929_1" citation_local_level_id="0" >539 U.S. 964</CITATION>
+
+<CITATION party2="Plastomer Corp" party1="Braun" citation_global_level_id="28137.001" party2_short="Plastomer" line="1" id="130929_3" alternative_keys="['u.s._539_964']" end="40" entry_type="party_key" lookup_key="braunplastomer#1" id1="130929" start="17" party1_short="Braun" citation_local_level_id="1" >Braun v. Plastomer Corp</CITATION>
+
+<NAME end="22" start="17" party1_of="130929_3" all_names="BRAUN" local_name_id="1" id="130929_4" >Braun</NAME>
+
+<NAME end="40" start="26" all_names="PLASTOMER CORP" party2_of="130929_3" local_name_id="2" id="130929_5" >Plastomer Corp</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._539_964" id1="130924" start="50" citation_global_level_id="3518.002" line="1" id="130929_2" citation_local_level_id="0" >02-10447</DOCKET>
+
+<DATE start="100" end="113" id="130929_6" >June 27, 2003</DATE>
+
+<NAME start="191" local_name_id="3" end="201" id="130929_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="130929_1" includes_docket_string="02-10447" includes_docket="130929_2" theme_string="539 U.S. 964" gram_type="apposition" relation_type="asymmetric" id="130929_11" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 964" X_vs_Y_string="Braun v. Plastomer Corp" standard_case="130929_1" X_vs_Y="130929_3" gram_type="pre_nom" relation_type="equivalence" id="130929_7" ></RELATION>
+
+<RELATION theme="130929_3" includes_docket_string="02-10447" includes_docket="130929_2" theme_string="Braun v. Plastomer Corp" gram_type="apposition" relation_type="asymmetric" id="130929_10" ></RELATION>
+
+<RELATION theme="130929_3" party1="130929_4" party1_string="Braun" theme_string="Braun v. Plastomer Corp" gram_type="infix" relation_type="asymmetric" id="130929_8" ></RELATION>
+
+<RELATION party2="130929_5" theme="130929_3" theme_string="Braun v. Plastomer Corp" party2_string="Plastomer Corp" gram_type="infix" relation_type="asymmetric" id="130929_9" ></RELATION>
+

@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['vaughanair#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_935" id1="139510" volume="543" start="0" page_number="935" standard_reporter="U.S." citation_global_level_id="504.002" line="1" id="139510_1" citation_local_level_id="0" >543 U.S. 935</CITATION>
+
+<CITATION party2="SOUTHERN AIR ET AL" party1="VAUGHAN" citation_global_level_id="504.001" party2_short="AIR" line="2" id="139510_2" alternative_keys="['u.s._543_935']" end="46" entry_type="party_key" lookup_key="vaughanair#1" id1="139510" start="17" party1_short="VAUGHAN" citation_local_level_id="1" >VAUGHAN v. SOUTHERN AIR ET AL</CITATION>
+
+<NAME end="24" start="17" party1_of="139510_2" all_names="VAUGHAN" local_name_id="1" id="139510_3" >VAUGHAN</NAME>
+
+<NAME end="46" start="28" all_names="SOUTHERN AIR" party2_of="139510_2" local_name_id="2" id="139510_4" >SOUTHERN AIR ET AL</NAME>
+
+<DOCKET end="63" entry_type="docket" lookup_key="vaughanair#1" id1="139510" start="56" citation_global_level_id="504.001" line="3" id="139510_7" citation_local_level_id="1" >04-5894</DOCKET>
+
+<ORGANIZATION start="69" end="99" id="139510_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="105" citation_global_level_id="504.001" end="121" id="139510_9" citation_local_level_id="1" >October 12, 2004</DATE>
+
+<NAME start="143" local_name_id="3" end="146" id="139510_14" all_names="SUP" >Sup</NAME>
+
+<CITATION end="206" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_879_625" id1="Dummy_File_12822" volume="879" start="192" page_number="625" standard_reporter="SO.2D" citation_global_level_id="76672.001" line="8" id="139510_13" citation_local_level_id="2" >879 So. 2d 625</CITATION>
+
+<RELATION theme="139510_2" party1="139510_3" party1_string="VAUGHAN" theme_string="VAUGHAN v. SOUTHERN AIR ET AL" gram_type="infix" relation_type="asymmetric" id="139510_5" ></RELATION>
+
+<RELATION party2="139510_4" theme="139510_2" theme_string="VAUGHAN v. SOUTHERN AIR ET AL" party2_string="SOUTHERN AIR ET AL" gram_type="infix" relation_type="asymmetric" id="139510_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 935" X_vs_Y_string="VAUGHAN v. SOUTHERN AIR ET AL" standard_case="139510_1" X_vs_Y="139510_2" gram_type="multi_line" relation_type="equivalence" id="139510_10" ></RELATION>
+
+<RELATION at_date_string="October 12, 2004" theme="139510_2" at_date="139510_9" theme_string="VAUGHAN v. SOUTHERN AIR ET AL" gram_type="multi_line" relation_type="asymmetric" id="139510_12" ></RELATION>
+
+<RELATION theme="139510_2" includes_docket_string="04-5894" includes_docket="139510_7" theme_string="VAUGHAN v. SOUTHERN AIR ET AL" gram_type="multi_line" relation_type="asymmetric" id="139510_11" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['almonbreland#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_891" id1="114074" volume="510" start="0" page_number="891" standard_reporter="U.S." citation_global_level_id="2994.002" line="1" id="114071_1" citation_local_level_id="0" >510 U.S. 891</CITATION>
+
+<CITATION party2="Breland et al" party1="Almon" citation_global_level_id="39359.001" party2_short="Breland" line="1" id="114071_3" alternative_keys="['u.s._510_891']" end="39" entry_type="party_key" lookup_key="almonbreland#1" id1="114071" start="17" party1_short="Almon" citation_local_level_id="1" >Almon v. Breland et al</CITATION>
+
+<NAME end="22" start="17" party1_of="114071_3" all_names="ALMON" local_name_id="1" id="114071_4" >Almon</NAME>
+
+<NAME end="39" start="26" all_names="BRELAND" party2_of="114071_3" local_name_id="2" id="114071_5" >Breland et al</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._510_891" id1="114074" start="49" citation_global_level_id="2994.002" line="1" id="114071_2" citation_local_level_id="0" >93-5399</DOCKET>
+
+<DATE start="98" end="113" id="114071_6" >October 4, 1993</DATE>
+
+<NAME start="192" local_name_id="3" end="202" id="114071_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="240" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_987_774" id1="Dummy_File_27198" volume="987" start="227" page_number="774" standard_reporter="F.2D" citation_global_level_id="91048.001" line="3" id="114071_12" citation_local_level_id="2" >987 F. 2d 774</CITATION>
+
+<RELATION theme="114071_1" includes_docket_string="93-5399" includes_docket="114071_2" theme_string="510 U.S. 891" gram_type="apposition" relation_type="asymmetric" id="114071_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 891" X_vs_Y_string="Almon v. Breland et al" standard_case="114071_1" X_vs_Y="114071_3" gram_type="pre_nom" relation_type="equivalence" id="114071_7" ></RELATION>
+
+<RELATION theme="114071_3" includes_docket_string="93-5399" includes_docket="114071_2" theme_string="Almon v. Breland et al" gram_type="apposition" relation_type="asymmetric" id="114071_10" ></RELATION>
+
+<RELATION theme="114071_3" party1="114071_4" party1_string="Almon" theme_string="Almon v. Breland et al" gram_type="infix" relation_type="asymmetric" id="114071_8" ></RELATION>
+
+<RELATION party2="114071_5" theme="114071_3" theme_string="Almon v. Breland et al" party2_string="Breland et al" gram_type="infix" relation_type="asymmetric" id="114071_9" ></RELATION>
+

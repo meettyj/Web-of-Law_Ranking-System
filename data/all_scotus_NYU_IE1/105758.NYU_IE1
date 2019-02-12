@@ -1,0 +1,42 @@
+<CITATION alternative_keys="['companycommonwealth#1', 's.ct._78_1383', 'l.ed.2d_2_1547']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._357_571" id1="105758" volume="357" start="0" page_number="571" standard_reporter="U.S." citation_global_level_id="25559.002" line="1" id="105758_1" citation_local_level_id="0" >357 U.S. 571</CITATION>
+
+<CITATION alternative_keys="['u.s._357_571', 'companycommonwealth#1', 'l.ed.2d_2_1547']" end="31" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._78_1383" id1="105758" volume="78" start="17" page_number="1383" standard_reporter="S.CT." citation_global_level_id="25559.003" line="1" id="105758_2" citation_local_level_id="1" >78 S. Ct. 1383</CITATION>
+
+<NAME start="20" local_name_id="1" end="25" id="105758_9" all_names="S CT" >S. Ct</NAME>
+
+<CITATION alternative_keys="['u.s._357_571', 's.ct._78_1383', 'companycommonwealth#1']" end="52" reporter="L. Ed. 2d" entry_type="standard_key" lookup_key="l.ed.2d_2_1547" id1="105758" volume="2" start="36" page_number="1547" standard_reporter="L.ED.2D" citation_global_level_id="25559.004" line="1" id="105758_3" citation_local_level_id="2" >2 L. Ed. 2d 1547</CITATION>
+
+<CITATION party2="COMMONWEALTH OF PENNSYLVANIA" alternative_keys="['u.s._357_571', 's.ct._78_1383', 'l.ed.2d_2_1547']" party1="NATIONAL BISCUIT COMPANY," end="125" party1_short="COMPANY" entry_type="party_key" party1_role="appellant" lookup_key="companycommonwealth#1" id1="105758" start="57" citation_global_level_id="25559.001" party2_short="COMMONWEALTH" line="1" id="105758_4" citation_local_level_id="3" >NATIONAL BISCUIT COMPANY, appellant, v. COMMONWEALTH OF PENNSYLVANIA</CITATION>
+
+<NAME end="82" start="57" party1_of="105758_4" all_names="NATIONAL BISCUIT COMPANY" local_name_id="2" id="105758_5" >NATIONAL BISCUIT COMPANY,</NAME>
+
+<ORGANIZATION start="57" end="81" id="105758_10" >NATIONAL BISCUIT COMPANY</ORGANIZATION>
+
+<LEGAL_ROLE start="83" end="92" id="105758_7" party="party1" >appellant</LEGAL_ROLE>
+
+<NAME end="125" start="97" all_names="COMMONWEALTH OF PENNSYLVANIA" party2_of="105758_4" local_name_id="3" id="105758_6" >COMMONWEALTH OF PENNSYLVANIA</NAME>
+
+<DATE start="183" end="196" id="105758_8" >June 30, 1958</DATE>
+
+<NAME start="272" local_name_id="4" end="297" id="105758_16" all_names="MESSRS THOMAS D MCBRIDE" >Messrs. Thomas D. McBride</NAME>
+
+<PROFESSION start="299" document_level_name_id="4" end="345" id="105758_17" party="MESSRS THOMAS D MCBRIDE" >Atty.Gen. of Pennsylvania and George W. Keitel</PROFESSION>
+
+<PROFESSION start="347" end="362" id="105758_18" >Deputy Atty.Gen</PROFESSION>
+
+<LEGAL_ROLE start="369" end="377" id="105758_19" party="party2" >appellee</LEGAL_ROLE>
+
+<NAME start="389" local_name_id="5" end="395" id="105758_21" all_names="CURIAM" >CURIAM</NAME>
+
+<RELATION standard_case_string="357 U.S. 571" X_vs_Y_string="NATIONAL BISCUIT COMPANY, appellant, v. COMMONWEALTH OF PENNSYLVANIA" standard_case="105758_1" X_vs_Y="105758_4" gram_type="pre_nom" relation_type="equivalence" id="105758_12" ></RELATION>
+
+<RELATION standard_case_string="78 S. Ct. 1383" X_vs_Y_string="NATIONAL BISCUIT COMPANY, appellant, v. COMMONWEALTH OF PENNSYLVANIA" standard_case="105758_2" X_vs_Y="105758_4" gram_type="pre_nom" relation_type="equivalence" id="105758_13" ></RELATION>
+
+<RELATION standard_case_string="2 L. Ed. 2d 1547" X_vs_Y_string="NATIONAL BISCUIT COMPANY, appellant, v. COMMONWEALTH OF PENNSYLVANIA" standard_case="105758_3" X_vs_Y="105758_4" gram_type="pre_nom" relation_type="equivalence" id="105758_11" ></RELATION>
+
+<RELATION theme="105758_4" party1="105758_5" party1_string="NATIONAL BISCUIT COMPANY," theme_string="NATIONAL BISCUIT COMPANY, appellant, v. COMMONWEALTH OF PENNSYLVANIA" gram_type="infix" relation_type="asymmetric" id="105758_14" ></RELATION>
+
+<RELATION party2="105758_6" theme="105758_4" theme_string="NATIONAL BISCUIT COMPANY, appellant, v. COMMONWEALTH OF PENNSYLVANIA" party2_string="COMMONWEALTH OF PENNSYLVANIA" gram_type="infix" relation_type="asymmetric" id="105758_15" ></RELATION>
+
+<RELATION theme="105758_16" profession_string="Atty.Gen. of Pennsylvania and George W. Keitel" theme_string="Messrs. Thomas D. McBride" profession="105758_17" gram_type="apposition" relation_type="asymmetric" id="105758_20" ></RELATION>
+

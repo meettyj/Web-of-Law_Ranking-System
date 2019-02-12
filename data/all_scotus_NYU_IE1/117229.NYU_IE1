@@ -1,0 +1,36 @@
+<CITATION alternative_keys="['corporationgottshall#5']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1162" id1="117226" volume="510" start="0" page_number="1162" standard_reporter="U.S." citation_global_level_id="4973.002" line="1" id="117229_1" citation_local_level_id="0" >510 U.S. 1162</CITATION>
+
+<CITATION party2="Gottshall" party1="Consolidated Rail Corporation" citation_global_level_id="45235.001" party2_short="Gottshall" line="1" id="117229_3" alternative_keys="['u.s._510_1162']" end="60" entry_type="party_key" lookup_key="corporationgottshall#5" id1="117229" start="18" party1_short="Corporation" citation_local_level_id="1" >Consolidated Rail Corporation v. Gottshall</CITATION>
+
+<NAME end="47" start="18" party1_of="117229_3" all_names="CONSOLIDATED RAIL CORPORATION" local_name_id="1" id="117229_5" >Consolidated Rail Corporation</NAME>
+
+<NAME end="60" start="51" all_names="GOTTSHALL" party2_of="117229_3" local_name_id="2" id="117229_6" >Gottshall</NAME>
+
+<CITATION party2="Carlisle" party1="Consolidated Rail Corporation" citation_global_level_id="225906.001" party2_short="Carlisle" line="1" id="117229_4" end="107" no_current_file="True" entry_type="party_key" lookup_key="corporationcarlisle#1" id1="Dummy_File_162056" start="66" party1_short="Corporation" citation_local_level_id="2" >Consolidated Rail Corporation v. Carlisle</CITATION>
+
+<NAME end="95" start="66" party1_of="117229_4" all_names="CONSOLIDATED RAIL CORPORATION" local_name_id="1" id="117229_7" >Consolidated Rail Corporation</NAME>
+
+<NAME end="107" start="99" all_names="CARLISLE" party2_of="117229_4" local_name_id="3" id="117229_8" >Carlisle</NAME>
+
+<DOCKET end="124" no_current_file="True" entry_type="docket" lookup_key="corporationcarlisle#1" id1="Dummy_File_162056" start="117" citation_global_level_id="225906.001" line="1" id="117229_2" citation_local_level_id="2" >92-1956</DOCKET>
+
+<DATE start="120" end="124" id="117229_9" >1956</DATE>
+
+<DATE start="166" end="183" id="117229_10" >February 28, 1994</DATE>
+
+<NAME start="296" local_name_id="4" end="356" id="117229_18" all_names="MOTION OF SOUTHEASTERN PENNSYLVANIA TRANSPORTATION AUTHORITY" >Motion of Southeastern Pennsylvania Transportation Authority</NAME>
+
+<RELATION standard_case_string="510 U.S. 1162" X_vs_Y_string="Consolidated Rail Corporation v. Gottshall" standard_case="117229_1" X_vs_Y="117229_3" gram_type="pre_nom" relation_type="equivalence" id="117229_11" ></RELATION>
+
+<RELATION theme="117229_3" party1="117229_5" party1_string="Consolidated Rail Corporation" theme_string="Consolidated Rail Corporation v. Gottshall" gram_type="infix" relation_type="asymmetric" id="117229_12" ></RELATION>
+
+<RELATION party2="117229_6" theme="117229_3" theme_string="Consolidated Rail Corporation v. Gottshall" party2_string="Gottshall" gram_type="infix" relation_type="asymmetric" id="117229_13" ></RELATION>
+
+<RELATION theme="117229_4" includes_docket_string="92-1956" includes_docket="117229_2" theme_string="Consolidated Rail Corporation v. Carlisle" gram_type="apposition" relation_type="asymmetric" id="117229_16" ></RELATION>
+
+<RELATION theme="117229_4" party1="117229_7" party1_string="Consolidated Rail Corporation" theme_string="Consolidated Rail Corporation v. Carlisle" gram_type="infix" relation_type="asymmetric" id="117229_14" ></RELATION>
+
+<RELATION party2="117229_8" theme="117229_4" theme_string="Consolidated Rail Corporation v. Carlisle" party2_string="Carlisle" gram_type="infix" relation_type="asymmetric" id="117229_15" ></RELATION>
+
+<RELATION at_date_string="1956" theme="117229_2" at_date="117229_9" theme_string="92-1956" gram_type="infix" relation_type="asymmetric" id="117229_17" ></RELATION>
+

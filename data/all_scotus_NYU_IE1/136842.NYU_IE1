@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['cabcommission#3']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_1084" id1="136846" volume="541" start="0" page_number="1084" standard_reporter="U.S." citation_global_level_id="10162.002" line="1" id="136842_1" citation_local_level_id="0" >541 U.S. 1084</CITATION>
+
+<CITATION party2="MICHIGAN PUBLIC SERVICE COMMISSION ET AL" party1="TROY CAB, INC., ET AL." citation_global_level_id="10162.005" party2_short="COMMISSION" line="2" id="136842_2" alternative_keys="['u.s._541_1084']" end="84" entry_type="party_key" lookup_key="cabcommission#3" id1="136846" start="18" party1_short="CAB" citation_local_level_id="1" >TROY CAB, INC., ET AL. v. MICHIGAN PUBLIC SERVICE COMMISSION ET AL</CITATION>
+
+<NAME end="40" start="18" party1_of="136842_2" all_names="TROY CAB INC" local_name_id="1" id="136842_3" >TROY CAB, INC., ET AL.</NAME>
+
+<ORGANIZATION start="18" end="31" id="136842_5" >TROY CAB, INC</ORGANIZATION>
+
+<NAME end="84" start="44" all_names="MICHIGAN PUBLIC SERVICE COMMISSION" party2_of="136842_2" local_name_id="2" id="136842_4" >MICHIGAN PUBLIC SERVICE COMMISSION ET AL</NAME>
+
+<ORGANIZATION start="68" end="78" id="136842_6" >COMMISSION</ORGANIZATION>
+
+<DOCKET alternative_keys="['u.s._541_1084']" end="101" entry_type="docket" lookup_key="cabcommission#3" id1="136846" start="94" citation_global_level_id="10162.005" line="3" id="136842_9" citation_local_level_id="1" >03-1250</DOCKET>
+
+<ORGANIZATION start="107" end="137" id="136842_10" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="143" citation_global_level_id="10162.005" end="155" id="136842_11" citation_local_level_id="1" >June 7, 2004</DATE>
+
+<NAME start="177" local_name_id="3" end="179" id="136842_15" all_names="CT" >Ct</NAME>
+
+<RELATION theme="136842_2" party1="136842_3" party1_string="TROY CAB, INC., ET AL." theme_string="TROY CAB, INC., ET AL. v. MICHIGAN PUBLIC SERVICE COMMISSION ET AL" gram_type="infix" relation_type="asymmetric" id="136842_7" ></RELATION>
+
+<RELATION party2="136842_4" theme="136842_2" theme_string="TROY CAB, INC., ET AL. v. MICHIGAN PUBLIC SERVICE COMMISSION ET AL" party2_string="MICHIGAN PUBLIC SERVICE COMMISSION ET AL" gram_type="infix" relation_type="asymmetric" id="136842_8" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 1084" X_vs_Y_string="TROY CAB, INC., ET AL. v. MICHIGAN PUBLIC SERVICE COMMISSION ET AL" standard_case="136842_1" X_vs_Y="136842_2" gram_type="multi_line" relation_type="equivalence" id="136842_12" ></RELATION>
+
+<RELATION at_date_string="June 7, 2004" theme="136842_2" at_date="136842_11" theme_string="TROY CAB, INC., ET AL. v. MICHIGAN PUBLIC SERVICE COMMISSION ET AL" gram_type="multi_line" relation_type="asymmetric" id="136842_14" ></RELATION>
+
+<RELATION theme="136842_2" includes_docket_string="03-1250" includes_docket="136842_9" theme_string="TROY CAB, INC., ET AL. v. MICHIGAN PUBLIC SERVICE COMMISSION ET AL" gram_type="multi_line" relation_type="asymmetric" id="136842_13" ></RELATION>
+

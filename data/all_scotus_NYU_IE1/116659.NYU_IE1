@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['flanaganbrennan#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1099" id1="116657" volume="510" start="0" page_number="1099" standard_reporter="U.S." citation_global_level_id="4430.002" line="1" id="116659_1" citation_local_level_id="0" >510 U.S. 1099</CITATION>
+
+<CITATION party2="Brennan, Warden, et al" party1="Flanagan" citation_global_level_id="4430.003" party2_short="Brennan" line="1" id="116659_3" alternative_keys="['u.s._510_1099']" end="52" entry_type="party_key" lookup_key="flanaganbrennan#1" id1="116657" start="18" party1_short="Flanagan" citation_local_level_id="1" >Flanagan v. Brennan, Warden, et al</CITATION>
+
+<NAME end="26" start="18" party1_of="116659_3" all_names="FLANAGAN" local_name_id="1" id="116659_4" >Flanagan</NAME>
+
+<NAME end="52" start="30" all_names="BRENNAN WARDEN" party2_of="116659_3" local_name_id="2" id="116659_5" >Brennan, Warden, et al</NAME>
+
+<DOCKET end="69" entry_type="docket" lookup_key="u.s._510_1099" id1="116657" start="62" citation_global_level_id="4430.002" line="1" id="116659_2" citation_local_level_id="0" >93-7121</DOCKET>
+
+<DATE start="111" end="127" id="116659_6" >January 24, 1994</DATE>
+
+<NAME start="204" local_name_id="3" end="214" id="116659_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="250" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_6_779" id1="Dummy_File_59215" volume="6" start="239" page_number="779" standard_reporter="F.3D" citation_global_level_id="123065.001" line="3" id="116659_12" citation_local_level_id="2" >6 F. 3d 779</CITATION>
+
+<RELATION theme="116659_1" includes_docket_string="93-7121" includes_docket="116659_2" theme_string="510 U.S. 1099" gram_type="apposition" relation_type="asymmetric" id="116659_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1099" X_vs_Y_string="Flanagan v. Brennan, Warden, et al" standard_case="116659_1" X_vs_Y="116659_3" gram_type="pre_nom" relation_type="equivalence" id="116659_7" ></RELATION>
+
+<RELATION theme="116659_3" includes_docket_string="93-7121" includes_docket="116659_2" theme_string="Flanagan v. Brennan, Warden, et al" gram_type="apposition" relation_type="asymmetric" id="116659_10" ></RELATION>
+
+<RELATION theme="116659_3" party1="116659_4" party1_string="Flanagan" theme_string="Flanagan v. Brennan, Warden, et al" gram_type="infix" relation_type="asymmetric" id="116659_8" ></RELATION>
+
+<RELATION party2="116659_5" theme="116659_3" theme_string="Flanagan v. Brennan, Warden, et al" party2_string="Brennan, Warden, et al" gram_type="infix" relation_type="asymmetric" id="116659_9" ></RELATION>
+

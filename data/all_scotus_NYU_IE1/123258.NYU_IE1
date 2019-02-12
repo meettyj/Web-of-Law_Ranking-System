@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['jblbose#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_880" id1="123263" volume="537" start="0" page_number="880" standard_reporter="U.S." citation_global_level_id="886.002" line="1" id="123258_1" citation_local_level_id="0" >537 U.S. 880</CITATION>
+
+<CITATION party2="BOSE CORP" party1="JBL, INC., ET AL." citation_global_level_id="886.003" party2_short="BOSE" line="1" id="123258_3" alternative_keys="['u.s._537_880']" end="47" entry_type="party_key" lookup_key="jblbose#2" id1="123263" start="17" party1_short="JBL" citation_local_level_id="1" >JBL, INC., ET AL. v. BOSE CORP</CITATION>
+
+<NAME end="34" start="17" party1_of="123258_3" all_names="JBL INC" local_name_id="1" id="123258_4" >JBL, INC., ET AL.</NAME>
+
+<ORGANIZATION start="17" end="25" id="123258_7" >JBL, INC</ORGANIZATION>
+
+<NAME end="47" start="38" all_names="BOSE CORP" party2_of="123258_3" local_name_id="2" id="123258_5" >BOSE CORP</NAME>
+
+<DOCKET end="62" entry_type="docket" lookup_key="u.s._537_880" id1="123263" start="57" citation_global_level_id="886.002" line="1" id="123258_2" citation_local_level_id="0" >02-46</DOCKET>
+
+<DATE start="104" end="119" id="123258_6" >October 7, 2002</DATE>
+
+<NAME start="226" local_name_id="3" end="235" id="123258_14" all_names="C A FED" >C. A. Fed</NAME>
+
+<NAME start="237" local_name_id="4" end="240" id="123258_15" all_names="CIR" >Cir</NAME>
+
+<CITATION end="291" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_274_1354" id1="Dummy_File_21315" volume="274" start="277" page_number="1354" standard_reporter="F.3D" citation_global_level_id="85165.001" line="3" id="123258_13" citation_local_level_id="2" >274 F. 3d 1354</CITATION>
+
+<RELATION theme="123258_1" includes_docket_string="02-46" includes_docket="123258_2" theme_string="537 U.S. 880" gram_type="apposition" relation_type="asymmetric" id="123258_12" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 880" X_vs_Y_string="JBL, INC., ET AL. v. BOSE CORP" standard_case="123258_1" X_vs_Y="123258_3" gram_type="pre_nom" relation_type="equivalence" id="123258_8" ></RELATION>
+
+<RELATION theme="123258_3" includes_docket_string="02-46" includes_docket="123258_2" theme_string="JBL, INC., ET AL. v. BOSE CORP" gram_type="apposition" relation_type="asymmetric" id="123258_11" ></RELATION>
+
+<RELATION party2="123258_5" theme="123258_3" theme_string="JBL, INC., ET AL. v. BOSE CORP" party2_string="BOSE CORP" gram_type="infix" relation_type="asymmetric" id="123258_10" ></RELATION>
+
+<RELATION theme="123258_3" party1="123258_4" party1_string="JBL, INC., ET AL." theme_string="JBL, INC., ET AL. v. BOSE CORP" gram_type="infix" relation_type="asymmetric" id="123258_9" ></RELATION>
+

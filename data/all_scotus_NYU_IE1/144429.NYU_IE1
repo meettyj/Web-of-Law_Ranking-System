@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['grajalesgonzales#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_1019" id1="144426" volume="544" start="0" page_number="1019" standard_reporter="U.S." citation_global_level_id="6269.002" line="1" id="144429_1" citation_local_level_id="0" >544 U.S. 1019</CITATION>
+
+<CITATION party2="GONZALES, ATTORNEY GENERAL" party1="GRAJALES" citation_global_level_id="6269.007" party2_short="GONZALES" line="2" id="144429_2" alternative_keys="['u.s._544_1019']" end="56" entry_type="party_key" lookup_key="grajalesgonzales#1" id1="144426" start="18" party1_short="GRAJALES" citation_local_level_id="1" >GRAJALES v. GONZALES, ATTORNEY GENERAL</CITATION>
+
+<NAME end="26" start="18" party1_of="144429_2" all_names="GRAJALES" local_name_id="1" id="144429_3" >GRAJALES</NAME>
+
+<NAME end="56" start="30" all_names="GONZALES ATTORNEY GENERAL" party2_of="144429_2" local_name_id="2" id="144429_4" >GONZALES, ATTORNEY GENERAL</NAME>
+
+<DOCKET alternative_keys="['u.s._544_1019']" end="73" entry_type="docket" lookup_key="grajalesgonzales#1" id1="144426" start="66" citation_global_level_id="6269.007" line="3" id="144429_7" citation_local_level_id="1" >04-1223</DOCKET>
+
+<ORGANIZATION start="79" end="109" id="144429_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="115" citation_global_level_id="6269.007" end="126" id="144429_9" citation_local_level_id="1" >May 2, 2005</DATE>
+
+<NAME start="159" local_name_id="3" end="162" id="144429_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="144429_2" party1="144429_3" party1_string="GRAJALES" theme_string="GRAJALES v. GONZALES, ATTORNEY GENERAL" gram_type="infix" relation_type="asymmetric" id="144429_5" ></RELATION>
+
+<RELATION party2="144429_4" theme="144429_2" theme_string="GRAJALES v. GONZALES, ATTORNEY GENERAL" party2_string="GONZALES, ATTORNEY GENERAL" gram_type="infix" relation_type="asymmetric" id="144429_6" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 1019" X_vs_Y_string="GRAJALES v. GONZALES, ATTORNEY GENERAL" standard_case="144429_1" X_vs_Y="144429_2" gram_type="multi_line" relation_type="equivalence" id="144429_10" ></RELATION>
+
+<RELATION at_date_string="May 2, 2005" theme="144429_2" at_date="144429_9" theme_string="GRAJALES v. GONZALES, ATTORNEY GENERAL" gram_type="multi_line" relation_type="asymmetric" id="144429_12" ></RELATION>
+
+<RELATION theme="144429_2" includes_docket_string="04-1223" includes_docket="144429_7" theme_string="GRAJALES v. GONZALES, ATTORNEY GENERAL" gram_type="multi_line" relation_type="asymmetric" id="144429_11" ></RELATION>
+

@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['brannangeorgia#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1021" id1="125046" volume="537" start="0" page_number="1021" standard_reporter="U.S." citation_global_level_id="720.002" line="1" id="125044_1" citation_local_level_id="0" >537 U.S. 1021</CITATION>
+
+<CITATION party2="GEORGIA" party1="BRANNAN" citation_global_level_id="31227.001" party2_short="GEORGIA" line="1" id="125044_3" alternative_keys="['u.s._537_1021']" end="36" entry_type="party_key" lookup_key="brannangeorgia#1" id1="125044" start="18" party1_short="BRANNAN" citation_local_level_id="1" >BRANNAN v. GEORGIA</CITATION>
+
+<NAME end="25" start="18" party1_of="125044_3" all_names="BRANNAN" local_name_id="1" id="125044_4" >BRANNAN</NAME>
+
+<NAME end="36" start="29" all_names="GEORGIA" party2_of="125044_3" local_name_id="2" id="125044_5" >GEORGIA</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="u.s._537_1021" id1="125046" start="46" citation_global_level_id="720.002" line="1" id="125044_2" citation_local_level_id="0" >02-6293</DOCKET>
+
+<DATE start="95" end="112" id="125044_6" >November 12, 2002</DATE>
+
+<NAME start="203" local_name_id="3" end="206" id="125044_14" all_names="SUP" >Sup</NAME>
+
+<CITATION end="261" reporter="Ga." entry_type="standard_key" no_current_file="True" lookup_key="ga._275_70" id1="Dummy_File_92143" volume="275" start="251" page_number="70" standard_reporter="GA." citation_global_level_id="155993.001" line="3" id="125044_12" citation_local_level_id="2" >275 Ga. 70</CITATION>
+
+<CITATION end="279" reporter="S. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="s.e.2d_561_414" id1="Dummy_File_92144" volume="561" start="263" page_number="414" standard_reporter="S.E.2D" citation_global_level_id="155994.001" line="3" id="125044_13" citation_local_level_id="3" >561 S. E. 2d 414</CITATION>
+
+<RELATION theme="125044_1" includes_docket_string="02-6293" includes_docket="125044_2" theme_string="537 U.S. 1021" gram_type="apposition" relation_type="asymmetric" id="125044_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1021" X_vs_Y_string="BRANNAN v. GEORGIA" standard_case="125044_1" X_vs_Y="125044_3" gram_type="pre_nom" relation_type="equivalence" id="125044_7" ></RELATION>
+
+<RELATION theme="125044_3" includes_docket_string="02-6293" includes_docket="125044_2" theme_string="BRANNAN v. GEORGIA" gram_type="apposition" relation_type="asymmetric" id="125044_10" ></RELATION>
+
+<RELATION theme="125044_3" party1="125044_4" party1_string="BRANNAN" theme_string="BRANNAN v. GEORGIA" gram_type="infix" relation_type="asymmetric" id="125044_8" ></RELATION>
+
+<RELATION party2="125044_5" theme="125044_3" theme_string="BRANNAN v. GEORGIA" party2_string="GEORGIA" gram_type="infix" relation_type="asymmetric" id="125044_9" ></RELATION>
+

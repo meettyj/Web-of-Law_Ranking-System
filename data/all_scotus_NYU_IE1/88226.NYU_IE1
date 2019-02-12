@@ -1,0 +1,46 @@
+<CITATION alternative_keys="['piercecox#1', 'l.ed._19_786', 'wall._9_786']" end="11" reporter="U.S." entry_type="standard_key" lookup_key="u.s._76_786" id1="88226" volume="76" start="0" page_number="786" standard_reporter="U.S." citation_global_level_id="50581.002" line="1" id="88226_1" citation_local_level_id="0" >76 U.S. 786</CITATION>
+
+<CITATION alternative_keys="['u.s._76_786', 'piercecox#1', 'wall._9_786']" end="29" reporter="L. Ed." entry_type="standard_key" lookup_key="l.ed._19_786" id1="88226" volume="19" start="16" page_number="786" standard_reporter="L.ED." citation_global_level_id="50581.003" line="1" id="88226_2" citation_local_level_id="1" >19 L. Ed. 786</CITATION>
+
+<NAME start="19" local_name_id="1" end="24" id="88226_8" all_names="L ED" >L. Ed</NAME>
+
+<CITATION alternative_keys="['u.s._76_786', 'l.ed._19_786', 'piercecox#1']" end="45" reporter="Wall." entry_type="standard_key" lookup_key="wall._9_786" id1="88226" volume="9" start="34" page_number="786" standard_reporter="WALL." citation_global_level_id="50581.004" line="1" id="88226_3" citation_local_level_id="2" >9 Wall. 786</CITATION>
+
+<CITATION party2="COX" party1="PIERCE" citation_global_level_id="50581.001" party2_short="COX" line="1" id="88226_4" alternative_keys="['u.s._76_786', 'l.ed._19_786', 'wall._9_786']" end="63" entry_type="party_key" lookup_key="piercecox#1" id1="88226" start="50" party1_short="PIERCE" citation_local_level_id="3" >PIERCE v. COX</CITATION>
+
+<NAME end="56" start="50" party1_of="88226_4" all_names="PIERCE" local_name_id="2" id="88226_5" >PIERCE</NAME>
+
+<NAME end="63" start="60" all_names="COX" party2_of="88226_4" local_name_id="3" id="88226_6" >COX</NAME>
+
+<DATE start="84" end="88" id="88226_7" >1869</DATE>
+
+<NAME start="670" local_name_id="4" end="679" id="88226_14" all_names="MR BRENT" >Mr. Brent</NAME>
+
+<LEGAL_ROLE start="689" end="698" id="88226_15" party="party1" >appellant</LEGAL_ROLE>
+
+<NAME start="700" local_name_id="5" end="711" id="88226_16" all_names="MR DAVIDGE" >Mr. Davidge</NAME>
+
+<PROFESSION start="731" end="744" id="88226_17" >CHIEF JUSTICE</PROFESSION>
+
+<ORGANIZATION start="774" end="779" id="88226_18" >court</ORGANIZATION>
+
+<LEGAL_ROLE start="1307" end="1315" id="88226_19" party="party2" >appellee</LEGAL_ROLE>
+
+<ORGANIZATION start="1418" end="1423" id="88226_20" >court</ORGANIZATION>
+
+<ORGANIZATION start="1457" end="1498" id="88226_21" >Supreme Court of the District of Columbia</ORGANIZATION>
+
+<ORGANIZATION start="1679" end="1684" id="88226_22" >court</ORGANIZATION>
+
+<NAME start="1739" local_name_id="6" end="1753" id="88226_23" all_names="WRIT DISMISSED" >WRIT DISMISSED</NAME>
+
+<RELATION standard_case_string="76 U.S. 786" X_vs_Y_string="PIERCE v. COX" standard_case="88226_1" X_vs_Y="88226_4" gram_type="pre_nom" relation_type="equivalence" id="88226_10" ></RELATION>
+
+<RELATION standard_case_string="19 L. Ed. 786" X_vs_Y_string="PIERCE v. COX" standard_case="88226_2" X_vs_Y="88226_4" gram_type="pre_nom" relation_type="equivalence" id="88226_11" ></RELATION>
+
+<RELATION standard_case_string="9 Wall. 786" X_vs_Y_string="PIERCE v. COX" standard_case="88226_3" X_vs_Y="88226_4" gram_type="pre_nom" relation_type="equivalence" id="88226_9" ></RELATION>
+
+<RELATION theme="88226_4" party1="88226_5" party1_string="PIERCE" theme_string="PIERCE v. COX" gram_type="infix" relation_type="asymmetric" id="88226_12" ></RELATION>
+
+<RELATION party2="88226_6" theme="88226_4" theme_string="PIERCE v. COX" party2_string="COX" gram_type="infix" relation_type="asymmetric" id="88226_13" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['beanstates#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_885" id1="138852" volume="543" start="0" page_number="885" standard_reporter="U.S." citation_global_level_id="4675.002" line="1" id="138852_1" citation_local_level_id="0" >543 U.S. 885</CITATION>
+
+<CITATION party2="UNITED STATES" party1="BEAN" citation_global_level_id="4675.001" party2_short="STATES" line="2" id="138852_2" alternative_keys="['u.s._543_885']" end="38" entry_type="party_key" lookup_key="beanstates#1" id1="138852" start="17" party1_short="BEAN" citation_local_level_id="1" >BEAN v. UNITED STATES</CITATION>
+
+<NAME end="21" start="17" party1_of="138852_2" all_names="BEAN" local_name_id="1" id="138852_3" >BEAN</NAME>
+
+<NAME end="38" start="25" all_names="UNITED STATES" party2_of="138852_2" local_name_id="2" id="138852_4" >UNITED STATES</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="beanstates#1" id1="138852" start="48" citation_global_level_id="4675.001" line="3" id="138852_7" citation_local_level_id="1" >04-5165</DOCKET>
+
+<ORGANIZATION start="61" end="91" id="138852_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="97" citation_global_level_id="4675.001" end="112" id="138852_9" citation_local_level_id="1" >October 4, 2004</DATE>
+
+<NAME start="134" local_name_id="3" end="136" id="138852_13" all_names="CT" >Ct</NAME>
+
+<RELATION theme="138852_2" party1="138852_3" party1_string="BEAN" theme_string="BEAN v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="138852_5" ></RELATION>
+
+<RELATION party2="138852_4" theme="138852_2" theme_string="BEAN v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="138852_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 885" X_vs_Y_string="BEAN v. UNITED STATES" standard_case="138852_1" X_vs_Y="138852_2" gram_type="multi_line" relation_type="equivalence" id="138852_10" ></RELATION>
+
+<RELATION at_date_string="October 4, 2004" theme="138852_2" at_date="138852_9" theme_string="BEAN v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="138852_12" ></RELATION>
+
+<RELATION theme="138852_2" includes_docket_string="04-5165" includes_docket="138852_7" theme_string="BEAN v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="138852_11" ></RELATION>
+

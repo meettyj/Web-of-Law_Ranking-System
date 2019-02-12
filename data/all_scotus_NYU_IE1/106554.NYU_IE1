@@ -1,0 +1,54 @@
+<CITATION alternative_keys="['storagerailway#2', 's.ct._83_887', 'l.ed.2d_9_965']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._372_524" id1="106554" volume="372" start="0" page_number="524" standard_reporter="U.S." citation_global_level_id="21719.002" line="1" id="106554_1" citation_local_level_id="0" >372 U.S. 524</CITATION>
+
+<CITATION alternative_keys="['u.s._372_524', 'storagerailway#2', 'l.ed.2d_9_965']" end="30" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._83_887" id1="106555" volume="83" start="17" page_number="887" standard_reporter="S.CT." citation_global_level_id="9573.003" line="1" id="106554_2" citation_local_level_id="1" >83 S. Ct. 887</CITATION>
+
+<NAME start="20" local_name_id="1" end="25" id="106554_8" all_names="S CT" >S. Ct</NAME>
+
+<CITATION alternative_keys="['u.s._372_524', 's.ct._83_887', 'storagerailway#2']" end="50" reporter="L. Ed. 2d" entry_type="standard_key" lookup_key="l.ed.2d_9_965" id1="106555" volume="9" start="35" page_number="965" standard_reporter="L.ED.2D" citation_global_level_id="9573.004" line="1" id="106554_3" citation_local_level_id="2" >9 L. Ed. 2d 965</CITATION>
+
+<CITATION party2="SOUTHERN RAILWAY CO. et al" party1="BIRMINGHAM ICE &amp; COLD STORAGE CO. et al." citation_global_level_id="21719.003" party2_short="RAILWAY" line="1" id="106554_4" alternative_keys="['s.ct._83_887', 'l.ed.2d_9_965', 'u.s._372_524']" end="125" entry_type="party_key" lookup_key="storagerailway#2" id1="106554" start="55" party1_short="STORAGE" citation_local_level_id="3" >BIRMINGHAM ICE &amp; COLD STORAGE CO. et al. v. SOUTHERN RAILWAY CO. et al</CITATION>
+
+<NAME end="95" start="55" party1_of="106554_4" all_names="BIRMINGHAM ICE &amp; COLD STORAGE CO" local_name_id="2" id="106554_5" >BIRMINGHAM ICE &amp; COLD STORAGE CO. et al.</NAME>
+
+<ORGANIZATION start="55" end="87" id="106554_9" >BIRMINGHAM ICE &amp; COLD STORAGE CO</ORGANIZATION>
+
+<NAME end="125" start="99" all_names="SOUTHERN RAILWAY CO" party2_of="106554_4" local_name_id="3" id="106554_6" >SOUTHERN RAILWAY CO. et al</NAME>
+
+<ORGANIZATION start="99" end="118" id="106554_10" >SOUTHERN RAILWAY CO</ORGANIZATION>
+
+<DATE start="183" end="197" id="106554_7" >March 18, 1963</DATE>
+
+<NAME start="209" local_name_id="4" end="241" id="106554_11" all_names="DAVID J VANN AND A ALVIS LAYNE" >David J. Vann and A. Alvis Layne</NAME>
+
+<LEGAL_ROLE start="247" end="257" plural="True" id="106554_12" >appellants</LEGAL_ROLE>
+
+<NAME start="265" local_name_id="5" end="268" id="106554_18" all_names="JOS" >Jos</NAME>
+
+<NAME start="336" local_name_id="6" end="371" id="106554_19" all_names="JAMES W WRAPE AND GLENN M ELLIOTT" >James W. Wrape and Glenn M. Elliott</NAME>
+
+<ORGANIZATION start="377" end="424" id="106554_20" >appellees Jefferson Warehouse &amp; Cold Storage Co</ORGANIZATION>
+
+<PROFESSION start="444" document_level_name_id="7" end="461" id="106554_21" party="COX" >Solicitor General</PROFESSION>
+
+<NAME start="462" local_name_id="7" end="465" id="106554_22" all_names="COX" >Cox</NAME>
+
+<NAME start="475" local_name_id="8" end="488" id="106554_23" all_names="UNITED STATES" >United States</NAME>
+
+<NAME start="500" local_name_id="9" end="506" id="106554_25" all_names="CURIAM" >CURIAM</NAME>
+
+<NAME start="622" local_name_id="10" end="639" id="106554_26" all_names="MR JUSTICE BLACK" >Mr. Justice BLACK</NAME>
+
+<PROFESSION start="626" end="633" id="106554_27" >Justice</PROFESSION>
+
+<RELATION standard_case_string="372 U.S. 524" X_vs_Y_string="BIRMINGHAM ICE &amp; COLD STORAGE CO. et al. v. SOUTHERN RAILWAY CO. et al" standard_case="106554_1" X_vs_Y="106554_4" gram_type="pre_nom" relation_type="equivalence" id="106554_14" ></RELATION>
+
+<RELATION standard_case_string="83 S. Ct. 887" X_vs_Y_string="BIRMINGHAM ICE &amp; COLD STORAGE CO. et al. v. SOUTHERN RAILWAY CO. et al" standard_case="106554_2" X_vs_Y="106554_4" gram_type="pre_nom" relation_type="equivalence" id="106554_15" ></RELATION>
+
+<RELATION standard_case_string="9 L. Ed. 2d 965" X_vs_Y_string="BIRMINGHAM ICE &amp; COLD STORAGE CO. et al. v. SOUTHERN RAILWAY CO. et al" standard_case="106554_3" X_vs_Y="106554_4" gram_type="pre_nom" relation_type="equivalence" id="106554_13" ></RELATION>
+
+<RELATION theme="106554_4" party1="106554_5" party1_string="BIRMINGHAM ICE &amp; COLD STORAGE CO. et al." theme_string="BIRMINGHAM ICE &amp; COLD STORAGE CO. et al. v. SOUTHERN RAILWAY CO. et al" gram_type="infix" relation_type="asymmetric" id="106554_16" ></RELATION>
+
+<RELATION party2="106554_6" theme="106554_4" theme_string="BIRMINGHAM ICE &amp; COLD STORAGE CO. et al. v. SOUTHERN RAILWAY CO. et al" party2_string="SOUTHERN RAILWAY CO. et al" gram_type="infix" relation_type="asymmetric" id="106554_17" ></RELATION>
+
+<RELATION theme="106554_22" profession_string="Solicitor General" theme_string="Cox" profession="106554_21" gram_type="pre_nom" relation_type="asymmetric" id="106554_24" ></RELATION>
+

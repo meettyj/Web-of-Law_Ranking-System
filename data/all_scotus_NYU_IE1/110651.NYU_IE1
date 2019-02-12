@@ -1,0 +1,60 @@
+<CITATION alternative_keys="['corporationkassel#1', 's.ct._102_1496', 'l.ed.2d_71_187']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._455_329" id1="110651" volume="455" start="0" page_number="329" standard_reporter="U.S." citation_global_level_id="19621.002" line="1" id="110651_1" citation_local_level_id="0" >455 U.S. 329</CITATION>
+
+<CITATION alternative_keys="['u.s._455_329', 'corporationkassel#1', 'l.ed.2d_71_187']" end="32" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._102_1496" id1="110651" volume="102" start="17" page_number="1496" standard_reporter="S.CT." citation_global_level_id="19621.003" line="1" id="110651_2" citation_local_level_id="1" >102 S. Ct. 1496</CITATION>
+
+<NAME start="21" local_name_id="1" end="26" id="110651_9" all_names="S CT" >S. Ct</NAME>
+
+<CITATION alternative_keys="['u.s._455_329', 's.ct._102_1496', 'corporationkassel#1']" end="53" reporter="L. Ed. 2d" entry_type="standard_key" lookup_key="l.ed.2d_71_187" id1="110651" volume="71" start="37" page_number="187" standard_reporter="L.ED.2D" citation_global_level_id="19621.004" line="1" id="110651_3" citation_local_level_id="2" >71 L. Ed. 2d 187</CITATION>
+
+<CITATION party2="Raymond KASSEL et al" party1="CONSOLIDATED FREIGHTWAYS CORPORATION OF DELAWARE" citation_global_level_id="19621.001" party2_short="KASSEL" line="1" id="110651_5" alternative_keys="['u.s._455_329', 's.ct._102_1496', 'l.ed.2d_71_187']" end="130" entry_type="party_key" lookup_key="corporationkassel#1" id1="110651" start="58" party1_short="CORPORATION" citation_local_level_id="3" >CONSOLIDATED FREIGHTWAYS CORPORATION OF DELAWARE v. Raymond KASSEL et al</CITATION>
+
+<NAME end="106" start="58" party1_of="110651_5" all_names="CONSOLIDATED FREIGHTWAYS CORPORATION OF DELAWARE" local_name_id="2" id="110651_6" >CONSOLIDATED FREIGHTWAYS CORPORATION OF DELAWARE</NAME>
+
+<NAME end="130" start="110" all_names="RAYMOND KASSEL" party2_of="110651_5" local_name_id="3" id="110651_7" >Raymond KASSEL et al</NAME>
+
+<DOCKET end="146" entry_type="docket" lookup_key="corporationkassel#1" id1="110651" start="139" citation_global_level_id="19621.001" line="1" id="110651_4" citation_local_level_id="3" >79-1618</DOCKET>
+
+<DATE start="190" end="207" id="110651_8" >February 23, 1982</DATE>
+
+<NAME start="313" local_name_id="4" end="319" id="110651_17" all_names="CURIAM" >CURIAM</NAME>
+
+<PROFESSION start="433" document_level_name_id="5" end="440" id="110651_18" party="WHITE" >Justice</PROFESSION>
+
+<NAME start="441" local_name_id="5" end="446" id="110651_19" all_names="WHITE" >WHITE</NAME>
+
+<ORGANIZATION start="558" end="569" id="110651_23" >May a court</ORGANIZATION>
+
+<PROFESSION start="641" end="650" plural="True" id="110651_24" >attorneys</PROFESSION>
+
+<NAME start="666" local_name_id="6" end="671" id="110651_25" all_names="USC" >U.S.C</NAME>
+
+<DATE start="675" end="679" id="110651_21" >1988</DATE>
+
+<LEGAL_ROLE start="683" end="693" id="110651_26" >Petitioner</LEGAL_ROLE>
+
+<LEGAL_ROLE start="748" end="768" id="110651_27" >Brief for Petitioner</LEGAL_ROLE>
+
+<DATE start="842" end="846" id="110651_22" >1988</DATE>
+
+<PROFESSION start="1506" document_level_name_id="5" end="1513" id="110651_28" party="WHITE" >Justice</PROFESSION>
+
+<NAME start="1514" local_name_id="7" end="1522" id="110651_29" all_names="O'CONNOR" >O'CONNOR</NAME>
+
+<RELATION standard_case_string="455 U.S. 329" X_vs_Y_string="CONSOLIDATED FREIGHTWAYS CORPORATION OF DELAWARE v. Raymond KASSEL et al" standard_case="110651_1" X_vs_Y="110651_5" gram_type="pre_nom" relation_type="equivalence" id="110651_11" ></RELATION>
+
+<RELATION standard_case_string="102 S. Ct. 1496" X_vs_Y_string="CONSOLIDATED FREIGHTWAYS CORPORATION OF DELAWARE v. Raymond KASSEL et al" standard_case="110651_2" X_vs_Y="110651_5" gram_type="pre_nom" relation_type="equivalence" id="110651_12" ></RELATION>
+
+<RELATION standard_case_string="71 L. Ed. 2d 187" X_vs_Y_string="CONSOLIDATED FREIGHTWAYS CORPORATION OF DELAWARE v. Raymond KASSEL et al" standard_case="110651_3" X_vs_Y="110651_5" gram_type="pre_nom" relation_type="equivalence" id="110651_10" ></RELATION>
+
+<RELATION theme="110651_5" includes_docket_string="79-1618" includes_docket="110651_4" theme_string="CONSOLIDATED FREIGHTWAYS CORPORATION OF DELAWARE v. Raymond KASSEL et al" gram_type="pre_nom" relation_type="asymmetric" id="110651_15" ></RELATION>
+
+<RELATION theme="110651_5" party1="110651_6" party1_string="CONSOLIDATED FREIGHTWAYS CORPORATION OF DELAWARE" theme_string="CONSOLIDATED FREIGHTWAYS CORPORATION OF DELAWARE v. Raymond KASSEL et al" gram_type="infix" relation_type="asymmetric" id="110651_13" ></RELATION>
+
+<RELATION party2="110651_7" theme="110651_5" theme_string="CONSOLIDATED FREIGHTWAYS CORPORATION OF DELAWARE v. Raymond KASSEL et al" party2_string="Raymond KASSEL et al" gram_type="infix" relation_type="asymmetric" id="110651_14" ></RELATION>
+
+<RELATION at_date_string="February 23, 1982" theme="110651_4" at_date="110651_8" theme_string="79-1618" gram_type="pre_nom" relation_type="asymmetric" id="110651_16" ></RELATION>
+
+<RELATION theme="110651_19" profession_string="Justice" theme_string="WHITE" profession="110651_18" gram_type="pre_nom" relation_type="asymmetric" id="110651_20" ></RELATION>
+
+<RELATION theme="110651_29" profession_string="Justice" theme_string="O'CONNOR" profession="110651_28" gram_type="pre_nom" relation_type="asymmetric" id="110651_30" ></RELATION>
+

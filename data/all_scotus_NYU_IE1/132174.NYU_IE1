@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['woodkesler#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_879" id1="132173" volume="540" start="0" page_number="879" standard_reporter="U.S." citation_global_level_id="4392.002" line="1" id="132174_1" citation_local_level_id="0" >540 U.S. 879</CITATION>
+
+<CITATION party2="KESLER" party1="WOOD" citation_global_level_id="28363.001" party2_short="KESLER" line="1" id="132174_3" alternative_keys="['u.s._540_879']" end="31" entry_type="party_key" lookup_key="woodkesler#1" id1="132174" start="17" party1_short="WOOD" citation_local_level_id="1" >WOOD v. KESLER</CITATION>
+
+<NAME end="21" start="17" party1_of="132174_3" all_names="WOOD" local_name_id="1" id="132174_4" >WOOD</NAME>
+
+<NAME end="31" start="25" all_names="KESLER" party2_of="132174_3" local_name_id="2" id="132174_5" >KESLER</NAME>
+
+<DOCKET end="47" entry_type="docket" lookup_key="u.s._540_879" id1="132173" start="41" citation_global_level_id="4392.002" line="1" id="132174_2" citation_local_level_id="0" >03-137</DOCKET>
+
+<DATE start="89" end="104" id="132174_6" >October 6, 2003</DATE>
+
+<NAME start="183" local_name_id="3" end="193" id="132174_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION alternative_keys="['woodkesler#1']" end="230" reporter="F.3d" entry_type="standard_key" lookup_key="f.3d_323_872" id1="132174" volume="323" start="218" page_number="872" standard_reporter="F.3D" citation_global_level_id="28363.002" line="3" id="132174_12" citation_local_level_id="2" >323 F.3d 872</CITATION>
+
+<RELATION theme="132174_1" includes_docket_string="03-137" includes_docket="132174_2" theme_string="540 U.S. 879" gram_type="apposition" relation_type="asymmetric" id="132174_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 879" X_vs_Y_string="WOOD v. KESLER" standard_case="132174_1" X_vs_Y="132174_3" gram_type="pre_nom" relation_type="equivalence" id="132174_7" ></RELATION>
+
+<RELATION theme="132174_3" includes_docket_string="03-137" includes_docket="132174_2" theme_string="WOOD v. KESLER" gram_type="apposition" relation_type="asymmetric" id="132174_10" ></RELATION>
+
+<RELATION theme="132174_3" party1="132174_4" party1_string="WOOD" theme_string="WOOD v. KESLER" gram_type="infix" relation_type="asymmetric" id="132174_8" ></RELATION>
+
+<RELATION party2="132174_5" theme="132174_3" theme_string="WOOD v. KESLER" party2_string="KESLER" gram_type="infix" relation_type="asymmetric" id="132174_9" ></RELATION>
+

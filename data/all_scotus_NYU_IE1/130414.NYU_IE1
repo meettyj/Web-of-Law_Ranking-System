@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['hornstates#4']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_921" id1="130426" volume="539" start="0" page_number="921" standard_reporter="U.S." citation_global_level_id="6503.002" line="1" id="130414_1" citation_local_level_id="0" >539 U.S. 921</CITATION>
+
+<CITATION party2="United States" party1="Horn" citation_global_level_id="39034.001" party2_short="States" line="1" id="130414_3" alternative_keys="['u.s._539_921']" end="38" entry_type="party_key" lookup_key="hornstates#4" id1="136822" start="17" party1_short="Horn" citation_local_level_id="1" >Horn v. United States</CITATION>
+
+<NAME end="21" start="17" party1_of="130414_3" all_names="HORN" local_name_id="1" id="130414_4" >Horn</NAME>
+
+<NAME end="38" start="25" all_names="UNITED STATES" party2_of="130414_3" local_name_id="2" id="130414_5" >United States</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._539_921" id1="130426" start="48" citation_global_level_id="6503.002" line="1" id="130414_2" citation_local_level_id="0" >02-10508</DOCKET>
+
+<DATE start="98" end="110" id="130414_6" >June 9, 2003</DATE>
+
+<NAME start="188" local_name_id="3" end="198" id="130414_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="130414_1" includes_docket_string="02-10508" includes_docket="130414_2" theme_string="539 U.S. 921" gram_type="apposition" relation_type="asymmetric" id="130414_11" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 921" X_vs_Y_string="Horn v. United States" standard_case="130414_1" X_vs_Y="130414_3" gram_type="pre_nom" relation_type="equivalence" id="130414_7" ></RELATION>
+
+<RELATION theme="130414_3" includes_docket_string="02-10508" includes_docket="130414_2" theme_string="Horn v. United States" gram_type="apposition" relation_type="asymmetric" id="130414_10" ></RELATION>
+
+<RELATION theme="130414_3" party1="130414_4" party1_string="Horn" theme_string="Horn v. United States" gram_type="infix" relation_type="asymmetric" id="130414_8" ></RELATION>
+
+<RELATION party2="130414_5" theme="130414_3" theme_string="Horn v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="130414_9" ></RELATION>
+

@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['insuranceinsurance#3']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_961" id1="128674" volume="538" start="0" page_number="961" standard_reporter="U.S." citation_global_level_id="1361.002" line="1" id="128682_1" citation_local_level_id="0" >538 U.S. 961</CITATION>
+
+<CITATION party2="SPHERE DRAKE INSURANCE LTD" party1="AMERICAN GENERAL LIFE INSURANCE CO." citation_global_level_id="1361.005" party2_short="INSURANCE" line="1" id="128682_3" alternative_keys="['u.s._538_961']" end="82" entry_type="party_key" lookup_key="insuranceinsurance#3" id1="128674" start="17" party1_short="INSURANCE" citation_local_level_id="1" >AMERICAN GENERAL LIFE INSURANCE CO. v. SPHERE DRAKE INSURANCE LTD</CITATION>
+
+<NAME end="52" start="17" party1_of="128682_3" all_names="AMERICAN GENERAL LIFE INSURANCE CO" local_name_id="1" id="128682_4" >AMERICAN GENERAL LIFE INSURANCE CO.</NAME>
+
+<ORGANIZATION start="17" end="51" id="128682_7" >AMERICAN GENERAL LIFE INSURANCE CO</ORGANIZATION>
+
+<NAME end="82" start="56" all_names="SPHERE DRAKE INSURANCE LTD" party2_of="128682_3" local_name_id="2" id="128682_5" >SPHERE DRAKE INSURANCE LTD</NAME>
+
+<DOCKET end="99" entry_type="docket" lookup_key="u.s._538_961" id1="128674" start="92" citation_global_level_id="1361.002" line="1" id="128682_2" citation_local_level_id="0" >02-1168</DOCKET>
+
+<DATE start="141" end="154" id="128682_6" >April 7, 2003</DATE>
+
+<NAME start="285" local_name_id="3" end="288" id="128682_14" all_names="CIR" >Cir</NAME>
+
+<CITATION end="338" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_307_617" id1="Dummy_File_58500" volume="307" start="325" page_number="617" standard_reporter="F.3D" citation_global_level_id="122350.001" line="3" id="128682_13" citation_local_level_id="2" >307 F. 3d 617</CITATION>
+
+<RELATION theme="128682_1" includes_docket_string="02-1168" includes_docket="128682_2" theme_string="538 U.S. 961" gram_type="apposition" relation_type="asymmetric" id="128682_12" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 961" X_vs_Y_string="AMERICAN GENERAL LIFE INSURANCE CO. v. SPHERE DRAKE INSURANCE LTD" standard_case="128682_1" X_vs_Y="128682_3" gram_type="pre_nom" relation_type="equivalence" id="128682_8" ></RELATION>
+
+<RELATION theme="128682_3" includes_docket_string="02-1168" includes_docket="128682_2" theme_string="AMERICAN GENERAL LIFE INSURANCE CO. v. SPHERE DRAKE INSURANCE LTD" gram_type="apposition" relation_type="asymmetric" id="128682_11" ></RELATION>
+
+<RELATION party2="128682_5" theme="128682_3" theme_string="AMERICAN GENERAL LIFE INSURANCE CO. v. SPHERE DRAKE INSURANCE LTD" party2_string="SPHERE DRAKE INSURANCE LTD" gram_type="infix" relation_type="asymmetric" id="128682_10" ></RELATION>
+
+<RELATION theme="128682_3" party1="128682_4" party1_string="AMERICAN GENERAL LIFE INSURANCE CO." theme_string="AMERICAN GENERAL LIFE INSURANCE CO. v. SPHERE DRAKE INSURANCE LTD" gram_type="infix" relation_type="asymmetric" id="128682_9" ></RELATION>
+

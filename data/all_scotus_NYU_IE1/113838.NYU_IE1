@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['spruillstates#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_874" id1="113847" volume="510" start="0" page_number="874" standard_reporter="U.S." citation_global_level_id="5831.002" line="1" id="113838_1" citation_local_level_id="0" >510 U.S. 874</CITATION>
+
+<CITATION party2="United States" party1="Spruill" citation_global_level_id="45388.001" party2_short="States" line="1" id="113838_3" alternative_keys="['u.s._510_874']" end="41" entry_type="party_key" lookup_key="spruillstates#1" id1="113838" start="17" party1_short="Spruill" citation_local_level_id="1" >Spruill v. United States</CITATION>
+
+<NAME end="24" start="17" party1_of="113838_3" all_names="SPRUILL" local_name_id="1" id="113838_4" >Spruill</NAME>
+
+<NAME end="41" start="28" all_names="UNITED STATES" party2_of="113838_3" local_name_id="2" id="113838_5" >United States</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._510_874" id1="113847" start="51" citation_global_level_id="5831.002" line="1" id="113838_2" citation_local_level_id="0" >93-5082</DOCKET>
+
+<DATE start="100" end="115" id="113838_6" >October 4, 1993</DATE>
+
+<NAME start="194" local_name_id="3" end="204" id="113838_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="242" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_966_679" id1="Dummy_File_103210" volume="966" start="229" page_number="679" standard_reporter="F.2D" citation_global_level_id="167060.001" line="3" id="113838_12" citation_local_level_id="2" >966 F. 2d 679</CITATION>
+
+<RELATION theme="113838_1" includes_docket_string="93-5082" includes_docket="113838_2" theme_string="510 U.S. 874" gram_type="apposition" relation_type="asymmetric" id="113838_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 874" X_vs_Y_string="Spruill v. United States" standard_case="113838_1" X_vs_Y="113838_3" gram_type="pre_nom" relation_type="equivalence" id="113838_7" ></RELATION>
+
+<RELATION theme="113838_3" includes_docket_string="93-5082" includes_docket="113838_2" theme_string="Spruill v. United States" gram_type="apposition" relation_type="asymmetric" id="113838_10" ></RELATION>
+
+<RELATION theme="113838_3" party1="113838_4" party1_string="Spruill" theme_string="Spruill v. United States" gram_type="infix" relation_type="asymmetric" id="113838_8" ></RELATION>
+
+<RELATION party2="113838_5" theme="113838_3" theme_string="Spruill v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="113838_9" ></RELATION>
+

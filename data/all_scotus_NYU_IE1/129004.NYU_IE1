@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['coroneloku#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_986" id1="129009" volume="538" start="0" page_number="986" standard_reporter="U.S." citation_global_level_id="2474.002" line="1" id="129004_1" citation_local_level_id="0" >538 U.S. 986</CITATION>
+
+<CITATION party2="OKU" party1="CORONEL" citation_global_level_id="18482.001" party2_short="OKU" line="1" id="129004_3" alternative_keys="['u.s._538_986']" end="31" entry_type="party_key" lookup_key="coroneloku#1" id1="129004" start="17" party1_short="CORONEL" citation_local_level_id="1" >CORONEL v. OKU</CITATION>
+
+<NAME end="24" start="17" party1_of="129004_3" all_names="CORONEL" local_name_id="1" id="129004_4" >CORONEL</NAME>
+
+<NAME end="31" start="28" all_names="OKU" party2_of="129004_3" local_name_id="2" id="129004_5" >OKU</NAME>
+
+<DOCKET end="48" entry_type="docket" lookup_key="u.s._538_986" id1="129009" start="41" citation_global_level_id="2474.002" line="1" id="129004_2" citation_local_level_id="0" >02-9148</DOCKET>
+
+<DATE start="90" end="104" id="129004_6" >April 21, 2003</DATE>
+
+<NAME start="233" local_name_id="3" end="236" id="129004_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="129004_1" includes_docket_string="02-9148" includes_docket="129004_2" theme_string="538 U.S. 986" gram_type="apposition" relation_type="asymmetric" id="129004_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 986" X_vs_Y_string="CORONEL v. OKU" standard_case="129004_1" X_vs_Y="129004_3" gram_type="pre_nom" relation_type="equivalence" id="129004_7" ></RELATION>
+
+<RELATION theme="129004_3" includes_docket_string="02-9148" includes_docket="129004_2" theme_string="CORONEL v. OKU" gram_type="apposition" relation_type="asymmetric" id="129004_10" ></RELATION>
+
+<RELATION theme="129004_3" party1="129004_4" party1_string="CORONEL" theme_string="CORONEL v. OKU" gram_type="infix" relation_type="asymmetric" id="129004_8" ></RELATION>
+
+<RELATION party2="129004_5" theme="129004_3" theme_string="CORONEL v. OKU" party2_string="OKU" gram_type="infix" relation_type="asymmetric" id="129004_9" ></RELATION>
+

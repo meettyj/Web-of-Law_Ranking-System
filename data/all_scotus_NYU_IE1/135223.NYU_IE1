@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['poindexterstates#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_954" id1="135223" volume="541" start="0" page_number="954" standard_reporter="U.S." citation_global_level_id="9307.002" line="1" id="135223_1" citation_local_level_id="0" >541 U.S. 954</CITATION>
+
+<CITATION party2="UNITED STATES" party1="POINDEXTER" citation_global_level_id="9307.001" party2_short="STATES" line="2" id="135223_2" alternative_keys="['u.s._541_954']" end="44" entry_type="party_key" lookup_key="poindexterstates#1" id1="135223" start="17" party1_short="POINDEXTER" citation_local_level_id="1" >POINDEXTER v. UNITED STATES</CITATION>
+
+<NAME end="27" start="17" party1_of="135223_2" all_names="POINDEXTER" local_name_id="1" id="135223_3" >POINDEXTER</NAME>
+
+<NAME end="44" start="31" all_names="UNITED STATES" party2_of="135223_2" local_name_id="2" id="135223_4" >UNITED STATES</NAME>
+
+<DOCKET end="61" entry_type="docket" lookup_key="poindexterstates#1" id1="135223" start="54" citation_global_level_id="9307.001" line="3" id="135223_7" citation_local_level_id="1" >03-8929</DOCKET>
+
+<ORGANIZATION start="67" end="97" id="135223_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="103" citation_global_level_id="9307.001" end="117" id="135223_9" citation_local_level_id="1" >March 22, 2004</DATE>
+
+<NAME start="149" local_name_id="3" end="152" id="135223_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="135223_2" party1="135223_3" party1_string="POINDEXTER" theme_string="POINDEXTER v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="135223_5" ></RELATION>
+
+<RELATION party2="135223_4" theme="135223_2" theme_string="POINDEXTER v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="135223_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 954" X_vs_Y_string="POINDEXTER v. UNITED STATES" standard_case="135223_1" X_vs_Y="135223_2" gram_type="multi_line" relation_type="equivalence" id="135223_10" ></RELATION>
+
+<RELATION at_date_string="March 22, 2004" theme="135223_2" at_date="135223_9" theme_string="POINDEXTER v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="135223_12" ></RELATION>
+
+<RELATION theme="135223_2" includes_docket_string="03-8929" includes_docket="135223_7" theme_string="POINDEXTER v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="135223_11" ></RELATION>
+

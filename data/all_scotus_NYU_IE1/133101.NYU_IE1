@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['hdepartment#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_950" id1="133096" volume="540" start="0" page_number="950" standard_reporter="U.S." citation_global_level_id="40.002" line="1" id="133101_1" citation_local_level_id="0" >540 U.S. 950</CITATION>
+
+<CITATION party2="FLORIDA DEPARTMENT OF CHILDREN AND FAMILY SERVICES" party1="N. S. H." citation_global_level_id="40.005" party2_short="DEPARTMENT" line="1" id="133101_3" alternative_keys="['u.s._540_950']" end="79" entry_type="party_key" lookup_key="hdepartment#2" id1="133096" start="17" party1_short="H" citation_local_level_id="1" >N. S. H. v. FLORIDA DEPARTMENT OF CHILDREN AND FAMILY SERVICES</CITATION>
+
+<NAME end="25" start="17" party1_of="133101_3" all_names="N S H" local_name_id="1" id="133101_4" >N. S. H.</NAME>
+
+<NAME start="17" local_name_id="1" end="24" id="133101_7" all_names="N S H" >N. S. H</NAME>
+
+<NAME end="79" start="29" all_names="FLORIDA DEPARTMENT OF CHILDREN AND FAMILY SERVICES" party2_of="133101_3" local_name_id="2" id="133101_5" >FLORIDA DEPARTMENT OF CHILDREN AND FAMILY SERVICES</NAME>
+
+<DOCKET end="96" entry_type="docket" lookup_key="u.s._540_950" id1="133096" start="89" citation_global_level_id="40.002" line="1" id="133101_2" citation_local_level_id="0" >03-5122</DOCKET>
+
+<DATE start="138" end="154" id="133101_6" >October 14, 2003</DATE>
+
+<NAME start="231" local_name_id="3" end="241" id="133101_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="280" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_843_898" id1="Dummy_File_98308" volume="843" start="266" page_number="898" standard_reporter="SO.2D" citation_global_level_id="162158.001" line="3" id="133101_13" citation_local_level_id="2" >843 So. 2d 898</CITATION>
+
+<RELATION theme="133101_1" includes_docket_string="03-5122" includes_docket="133101_2" theme_string="540 U.S. 950" gram_type="apposition" relation_type="asymmetric" id="133101_12" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 950" X_vs_Y_string="N. S. H. v. FLORIDA DEPARTMENT OF CHILDREN AND FAMILY SERVICES" standard_case="133101_1" X_vs_Y="133101_3" gram_type="pre_nom" relation_type="equivalence" id="133101_8" ></RELATION>
+
+<RELATION theme="133101_3" includes_docket_string="03-5122" includes_docket="133101_2" theme_string="N. S. H. v. FLORIDA DEPARTMENT OF CHILDREN AND FAMILY SERVICES" gram_type="apposition" relation_type="asymmetric" id="133101_11" ></RELATION>
+
+<RELATION party2="133101_5" theme="133101_3" theme_string="N. S. H. v. FLORIDA DEPARTMENT OF CHILDREN AND FAMILY SERVICES" party2_string="FLORIDA DEPARTMENT OF CHILDREN AND FAMILY SERVICES" gram_type="infix" relation_type="asymmetric" id="133101_10" ></RELATION>
+
+<RELATION theme="133101_3" party1="133101_4" party1_string="N. S. H." theme_string="N. S. H. v. FLORIDA DEPARTMENT OF CHILDREN AND FAMILY SERVICES" gram_type="infix" relation_type="asymmetric" id="133101_9" ></RELATION>
+

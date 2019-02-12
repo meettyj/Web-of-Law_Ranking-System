@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['nelsonstates#9']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_863" id1="138564" volume="543" start="0" page_number="863" standard_reporter="U.S." citation_global_level_id="1148.002" line="1" id="138565_1" citation_local_level_id="0" >543 U.S. 863</CITATION>
+
+<CITATION party2="UNITED STATES" party1="NELSON" citation_global_level_id="33136.001" party2_short="STATES" line="2" id="138565_2" alternative_keys="['u.s._543_863']" end="40" entry_type="party_key" lookup_key="nelsonstates#9" id1="116638" start="17" party1_short="NELSON" citation_local_level_id="1" >NELSON v. UNITED STATES</CITATION>
+
+<NAME end="23" start="17" party1_of="138565_2" all_names="NELSON" local_name_id="1" id="138565_3" >NELSON</NAME>
+
+<NAME end="40" start="27" all_names="UNITED STATES" party2_of="138565_2" local_name_id="2" id="138565_4" >UNITED STATES</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="nelsonstates#9" id1="116638" start="50" citation_global_level_id="33136.001" line="3" id="138565_7" citation_local_level_id="1" >03-11003</DOCKET>
+
+<ORGANIZATION start="64" end="94" id="138565_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="100" citation_global_level_id="33136.001" end="115" id="138565_9" citation_local_level_id="1" >October 4, 2004</DATE>
+
+<NAME start="147" local_name_id="3" end="150" id="138565_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="138565_2" party1="138565_3" party1_string="NELSON" theme_string="NELSON v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="138565_5" ></RELATION>
+
+<RELATION party2="138565_4" theme="138565_2" theme_string="NELSON v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="138565_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 863" X_vs_Y_string="NELSON v. UNITED STATES" standard_case="138565_1" X_vs_Y="138565_2" gram_type="multi_line" relation_type="equivalence" id="138565_10" ></RELATION>
+
+<RELATION at_date_string="October 4, 2004" theme="138565_2" at_date="138565_9" theme_string="NELSON v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="138565_12" ></RELATION>
+
+<RELATION theme="138565_2" includes_docket_string="03-11003" includes_docket="138565_7" theme_string="NELSON v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="138565_11" ></RELATION>
+

@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['turnercook#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_987" id1="140158" volume="543" start="0" page_number="987" standard_reporter="U.S." citation_global_level_id="4255.002" line="1" id="140157_1" citation_local_level_id="0" >543 U.S. 987</CITATION>
+
+<CITATION party2="COOK ET AL" party1="TURNER ET AL." citation_global_level_id="45393.001" party2_short="COOK" line="2" id="140157_2" alternative_keys="['u.s._543_987']" end="44" entry_type="party_key" lookup_key="turnercook#1" id1="140157" start="17" party1_short="TURNER" citation_local_level_id="1" >TURNER ET AL. v. COOK ET AL</CITATION>
+
+<NAME end="30" start="17" party1_of="140157_2" all_names="TURNER" local_name_id="1" id="140157_3" >TURNER ET AL.</NAME>
+
+<NAME end="44" start="34" all_names="COOK" party2_of="140157_2" local_name_id="2" id="140157_4" >COOK ET AL</NAME>
+
+<PROFESSION start="34" end="38" id="140157_5" >COOK</PROFESSION>
+
+<DOCKET end="60" entry_type="docket" lookup_key="turnercook#1" id1="140157" start="54" citation_global_level_id="45393.001" line="3" id="140157_8" citation_local_level_id="1" >04-328</DOCKET>
+
+<ORGANIZATION start="66" end="96" id="140157_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="102" citation_global_level_id="45393.001" end="119" id="140157_10" citation_local_level_id="1" >November 15, 2004</DATE>
+
+<NAME start="151" local_name_id="3" end="154" id="140157_15" all_names="CIR" >Cir</NAME>
+
+<CITATION end="205" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_362_1219" id1="Dummy_File_205344" volume="362" start="191" page_number="1219" standard_reporter="F.3D" citation_global_level_id="269194.001" line="8" id="140157_14" citation_local_level_id="2" >362 F. 3d 1219</CITATION>
+
+<RELATION theme="140157_2" party1="140157_3" party1_string="TURNER ET AL." theme_string="TURNER ET AL. v. COOK ET AL" gram_type="infix" relation_type="asymmetric" id="140157_6" ></RELATION>
+
+<RELATION party2="140157_4" theme="140157_2" theme_string="TURNER ET AL. v. COOK ET AL" party2_string="COOK ET AL" gram_type="infix" relation_type="asymmetric" id="140157_7" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 987" X_vs_Y_string="TURNER ET AL. v. COOK ET AL" standard_case="140157_1" X_vs_Y="140157_2" gram_type="multi_line" relation_type="equivalence" id="140157_11" ></RELATION>
+
+<RELATION at_date_string="November 15, 2004" theme="140157_2" at_date="140157_10" theme_string="TURNER ET AL. v. COOK ET AL" gram_type="multi_line" relation_type="asymmetric" id="140157_13" ></RELATION>
+
+<RELATION theme="140157_2" includes_docket_string="04-328" includes_docket="140157_8" theme_string="TURNER ET AL. v. COOK ET AL" gram_type="multi_line" relation_type="asymmetric" id="140157_12" ></RELATION>
+

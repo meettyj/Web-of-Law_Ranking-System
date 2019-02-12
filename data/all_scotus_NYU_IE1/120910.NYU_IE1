@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['urbanwisconsin#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1103" id1="120912" volume="535" start="0" page_number="1103" standard_reporter="U.S." citation_global_level_id="8153.002" line="1" id="120910_1" citation_local_level_id="0" >535 U.S. 1103</CITATION>
+
+<CITATION party2="WISCONSIN ET AL" party1="URBAN" citation_global_level_id="53883.001" party2_short="WISCONSIN" line="2" id="120910_2" alternative_keys="['u.s._535_1103']" end="42" entry_type="party_key" lookup_key="urbanwisconsin#1" id1="120910" start="18" party1_short="URBAN" citation_local_level_id="1" >URBAN v. WISCONSIN ET AL</CITATION>
+
+<NAME end="23" start="18" party1_of="120910_2" all_names="URBAN" local_name_id="1" id="120910_3" >URBAN</NAME>
+
+<NAME end="42" start="27" all_names="WISCONSIN" party2_of="120910_2" local_name_id="2" id="120910_4" >WISCONSIN ET AL</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="urbanwisconsin#1" id1="120910" start="52" citation_global_level_id="53883.001" line="3" id="120910_7" citation_local_level_id="1" >01-9287</DOCKET>
+
+<DATE start="105" citation_global_level_id="53883.001" end="117" id="120910_8" citation_local_level_id="1" >May 28, 2002</DATE>
+
+<NAME start="149" local_name_id="3" end="152" id="120910_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="120910_2" party1="120910_3" party1_string="URBAN" theme_string="URBAN v. WISCONSIN ET AL" gram_type="infix" relation_type="asymmetric" id="120910_5" ></RELATION>
+
+<RELATION party2="120910_4" theme="120910_2" theme_string="URBAN v. WISCONSIN ET AL" party2_string="WISCONSIN ET AL" gram_type="infix" relation_type="asymmetric" id="120910_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1103" X_vs_Y_string="URBAN v. WISCONSIN ET AL" standard_case="120910_1" X_vs_Y="120910_2" gram_type="multi_line" relation_type="equivalence" id="120910_9" ></RELATION>
+
+<RELATION at_date_string="May 28, 2002" theme="120910_2" at_date="120910_8" theme_string="URBAN v. WISCONSIN ET AL" gram_type="multi_line" relation_type="asymmetric" id="120910_11" ></RELATION>
+
+<RELATION theme="120910_2" includes_docket_string="01-9287" includes_docket="120910_7" theme_string="URBAN v. WISCONSIN ET AL" gram_type="multi_line" relation_type="asymmetric" id="120910_10" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['okerekestates#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1038" id1="125263" volume="537" start="0" page_number="1038" standard_reporter="U.S." citation_global_level_id="4356.002" line="1" id="125265_1" citation_local_level_id="0" >537 U.S. 1038</CITATION>
+
+<CITATION party2="UNITED STATES" party1="OKEREKE" citation_global_level_id="21903.001" party2_short="STATES" line="1" id="125265_3" alternative_keys="['u.s._537_1038']" end="42" entry_type="party_key" lookup_key="okerekestates#1" id1="125265" start="18" party1_short="OKEREKE" citation_local_level_id="1" >OKEREKE v. UNITED STATES</CITATION>
+
+<NAME end="25" start="18" party1_of="125265_3" all_names="OKEREKE" local_name_id="1" id="125265_4" >OKEREKE</NAME>
+
+<NAME end="42" start="29" all_names="UNITED STATES" party2_of="125265_3" local_name_id="2" id="125265_5" >UNITED STATES</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="u.s._537_1038" id1="125263" start="52" citation_global_level_id="4356.002" line="1" id="125265_2" citation_local_level_id="0" >02-6892</DOCKET>
+
+<DATE start="101" end="118" id="125265_6" >November 18, 2002</DATE>
+
+<NAME start="246" local_name_id="3" end="249" id="125265_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="299" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_307_117" id1="Dummy_File_50038" volume="307" start="286" page_number="117" standard_reporter="F.3D" citation_global_level_id="113888.001" line="3" id="125265_12" citation_local_level_id="2" >307 F. 3d 117</CITATION>
+
+<RELATION theme="125265_1" includes_docket_string="02-6892" includes_docket="125265_2" theme_string="537 U.S. 1038" gram_type="apposition" relation_type="asymmetric" id="125265_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1038" X_vs_Y_string="OKEREKE v. UNITED STATES" standard_case="125265_1" X_vs_Y="125265_3" gram_type="pre_nom" relation_type="equivalence" id="125265_7" ></RELATION>
+
+<RELATION theme="125265_3" includes_docket_string="02-6892" includes_docket="125265_2" theme_string="OKEREKE v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="125265_10" ></RELATION>
+
+<RELATION theme="125265_3" party1="125265_4" party1_string="OKEREKE" theme_string="OKEREKE v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="125265_8" ></RELATION>
+
+<RELATION party2="125265_5" theme="125265_3" theme_string="OKEREKE v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="125265_9" ></RELATION>
+

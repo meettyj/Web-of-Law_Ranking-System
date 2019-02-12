@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['wolfordinsurance#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1001" id1="140325" volume="543" start="0" page_number="1001" standard_reporter="U.S." citation_global_level_id="5261.002" line="1" id="140329_1" citation_local_level_id="0" >543 U.S. 1001</CITATION>
+
+<CITATION party2="MASSACHUSETTS MUTUAL LIFE INSURANCE CO" party1="WOLFORD" citation_global_level_id="33085.001" party2_short="INSURANCE" line="2" id="140329_2" alternative_keys="['u.s._543_1001']" end="67" entry_type="party_key" lookup_key="wolfordinsurance#1" id1="140329" start="18" party1_short="WOLFORD" citation_local_level_id="1" >WOLFORD v. MASSACHUSETTS MUTUAL LIFE INSURANCE CO</CITATION>
+
+<NAME end="25" start="18" party1_of="140329_2" all_names="WOLFORD" local_name_id="1" id="140329_3" >WOLFORD</NAME>
+
+<NAME end="67" start="29" all_names="MASSACHUSETTS MUTUAL LIFE INSURANCE CO" party2_of="140329_2" local_name_id="2" id="140329_4" >MASSACHUSETTS MUTUAL LIFE INSURANCE CO</NAME>
+
+<DOCKET end="83" entry_type="docket" lookup_key="wolfordinsurance#1" id1="140329" start="77" citation_global_level_id="33085.001" line="3" id="140329_7" citation_local_level_id="1" >04-376</DOCKET>
+
+<ORGANIZATION start="89" end="119" id="140329_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="125" citation_global_level_id="33085.001" end="142" id="140329_9" citation_local_level_id="1" >November 29, 2004</DATE>
+
+<NAME start="174" local_name_id="3" end="177" id="140329_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="140329_2" party1="140329_3" party1_string="WOLFORD" theme_string="WOLFORD v. MASSACHUSETTS MUTUAL LIFE INSURANCE CO" gram_type="infix" relation_type="asymmetric" id="140329_5" ></RELATION>
+
+<RELATION party2="140329_4" theme="140329_2" theme_string="WOLFORD v. MASSACHUSETTS MUTUAL LIFE INSURANCE CO" party2_string="MASSACHUSETTS MUTUAL LIFE INSURANCE CO" gram_type="infix" relation_type="asymmetric" id="140329_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1001" X_vs_Y_string="WOLFORD v. MASSACHUSETTS MUTUAL LIFE INSURANCE CO" standard_case="140329_1" X_vs_Y="140329_2" gram_type="multi_line" relation_type="equivalence" id="140329_10" ></RELATION>
+
+<RELATION at_date_string="November 29, 2004" theme="140329_2" at_date="140329_9" theme_string="WOLFORD v. MASSACHUSETTS MUTUAL LIFE INSURANCE CO" gram_type="multi_line" relation_type="asymmetric" id="140329_12" ></RELATION>
+
+<RELATION theme="140329_2" includes_docket_string="04-376" includes_docket="140329_7" theme_string="WOLFORD v. MASSACHUSETTS MUTUAL LIFE INSURANCE CO" gram_type="multi_line" relation_type="asymmetric" id="140329_11" ></RELATION>
+

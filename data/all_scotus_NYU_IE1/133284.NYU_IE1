@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['crawfordwashington#5']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_964" id1="133285" volume="540" start="0" page_number="964" standard_reporter="U.S." citation_global_level_id="7682.002" line="1" id="133284_1" citation_local_level_id="0" >540 U.S. 964</CITATION>
+
+<CITATION party2="WASHINGTON" party1="CRAWFORD" citation_global_level_id="49280.001" party2_short="WASHINGTON" line="1" id="133284_4" alternative_keys="['u.s._540_964']" end="39" entry_type="party_key" lookup_key="crawfordwashington#5" id1="131211" start="17" party1_short="CRAWFORD" citation_local_level_id="1" >CRAWFORD v. WASHINGTON</CITATION>
+
+<NAME end="25" start="17" party1_of="133284_4" all_names="CRAWFORD" local_name_id="1" id="133284_5" >CRAWFORD</NAME>
+
+<NAME end="39" start="29" all_names="WASHINGTON" party2_of="133284_4" local_name_id="2" id="133284_6" >WASHINGTON</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._540_964" id1="133285" start="49" citation_global_level_id="7682.002" line="1" id="133284_3" citation_local_level_id="0" >02-9410</DOCKET>
+
+<DATE start="98" end="114" id="133284_7" >October 20, 2003</DATE>
+
+<CITATION end="201" reporter="U. S." entry_type="standard_key" lookup_key="u.s._539_914" id1="130322" volume="539" start="188" page_number="914" standard_reporter="U.S." citation_global_level_id="1919.002" line="1" id="133284_2" citation_local_level_id="2" >539 U. S. 914</CITATION>
+
+<PROFESSION start="229" end="260" id="133284_13" >Motion of the Solicitor General</PROFESSION>
+
+<RELATION theme="133284_1" includes_docket_string="02-9410" includes_docket="133284_3" theme_string="540 U.S. 964" gram_type="apposition" relation_type="asymmetric" id="133284_12" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 964" X_vs_Y_string="CRAWFORD v. WASHINGTON" standard_case="133284_1" X_vs_Y="133284_4" gram_type="pre_nom" relation_type="equivalence" id="133284_8" ></RELATION>
+
+<RELATION theme="133284_4" includes_docket_string="02-9410" includes_docket="133284_3" theme_string="CRAWFORD v. WASHINGTON" gram_type="apposition" relation_type="asymmetric" id="133284_11" ></RELATION>
+
+<RELATION party2="133284_6" theme="133284_4" theme_string="CRAWFORD v. WASHINGTON" party2_string="WASHINGTON" gram_type="infix" relation_type="asymmetric" id="133284_10" ></RELATION>
+
+<RELATION theme="133284_4" party1="133284_5" party1_string="CRAWFORD" theme_string="CRAWFORD v. WASHINGTON" gram_type="infix" relation_type="asymmetric" id="133284_9" ></RELATION>
+

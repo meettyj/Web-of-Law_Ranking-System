@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['landtexas#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_874" id1="132107" volume="540" start="0" page_number="874" standard_reporter="U.S." citation_global_level_id="9071.002" line="1" id="132102_1" citation_local_level_id="0" >540 U.S. 874</CITATION>
+
+<CITATION party2="TEXAS" party1="LAND" citation_global_level_id="24655.001" party2_short="TEXAS" line="1" id="132102_3" alternative_keys="['u.s._540_874']" end="30" entry_type="party_key" lookup_key="landtexas#1" id1="132102" start="17" party1_short="LAND" citation_local_level_id="1" >LAND v. TEXAS</CITATION>
+
+<NAME end="21" start="17" party1_of="132102_3" all_names="LAND" local_name_id="1" id="132102_4" >LAND</NAME>
+
+<NAME end="30" start="25" all_names="TEXAS" party2_of="132102_3" local_name_id="2" id="132102_5" >TEXAS</NAME>
+
+<DOCKET end="45" entry_type="docket" lookup_key="u.s._540_874" id1="132107" start="40" citation_global_level_id="9071.002" line="1" id="132102_2" citation_local_level_id="0" >03-42</DOCKET>
+
+<DATE start="87" end="102" id="132102_6" >October 6, 2003</DATE>
+
+<NAME start="179" local_name_id="3" end="189" id="132102_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="132102_1" includes_docket_string="03-42" includes_docket="132102_2" theme_string="540 U.S. 874" gram_type="apposition" relation_type="asymmetric" id="132102_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 874" X_vs_Y_string="LAND v. TEXAS" standard_case="132102_1" X_vs_Y="132102_3" gram_type="pre_nom" relation_type="equivalence" id="132102_7" ></RELATION>
+
+<RELATION theme="132102_3" includes_docket_string="03-42" includes_docket="132102_2" theme_string="LAND v. TEXAS" gram_type="apposition" relation_type="asymmetric" id="132102_10" ></RELATION>
+
+<RELATION theme="132102_3" party1="132102_4" party1_string="LAND" theme_string="LAND v. TEXAS" gram_type="infix" relation_type="asymmetric" id="132102_8" ></RELATION>
+
+<RELATION party2="132102_5" theme="132102_3" theme_string="LAND v. TEXAS" party2_string="TEXAS" gram_type="infix" relation_type="asymmetric" id="132102_9" ></RELATION>
+

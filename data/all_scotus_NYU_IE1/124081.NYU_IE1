@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['vallesstates#4']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_939" id1="124074" volume="537" start="0" page_number="939" standard_reporter="U.S." citation_global_level_id="3069.002" line="1" id="124081_1" citation_local_level_id="0" >537 U.S. 939</CITATION>
+
+<CITATION party2="UNITED STATES" party1="VALLES" citation_global_level_id="26038.001" party2_short="STATES" line="1" id="124081_3" alternative_keys="['u.s._537_939']" end="40" entry_type="party_key" lookup_key="vallesstates#4" id1="141291" start="17" party1_short="VALLES" citation_local_level_id="1" >VALLES v. UNITED STATES</CITATION>
+
+<NAME end="23" start="17" party1_of="124081_3" all_names="VALLES" local_name_id="1" id="124081_4" >VALLES</NAME>
+
+<NAME end="40" start="27" all_names="UNITED STATES" party2_of="124081_3" local_name_id="2" id="124081_5" >UNITED STATES</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._537_939" id1="124074" start="50" citation_global_level_id="3069.002" line="1" id="124081_2" citation_local_level_id="0" >02-6084</DOCKET>
+
+<DATE start="99" end="114" id="124081_6" >October 7, 2002</DATE>
+
+<NAME start="244" local_name_id="3" end="247" id="124081_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="297" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_292_678" id1="Dummy_File_216794" volume="292" start="284" page_number="678" standard_reporter="F.3D" citation_global_level_id="280644.001" line="3" id="124081_12" citation_local_level_id="2" >292 F. 3d 678</CITATION>
+
+<RELATION theme="124081_1" includes_docket_string="02-6084" includes_docket="124081_2" theme_string="537 U.S. 939" gram_type="apposition" relation_type="asymmetric" id="124081_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 939" X_vs_Y_string="VALLES v. UNITED STATES" standard_case="124081_1" X_vs_Y="124081_3" gram_type="pre_nom" relation_type="equivalence" id="124081_7" ></RELATION>
+
+<RELATION theme="124081_3" includes_docket_string="02-6084" includes_docket="124081_2" theme_string="VALLES v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="124081_10" ></RELATION>
+
+<RELATION theme="124081_3" party1="124081_4" party1_string="VALLES" theme_string="VALLES v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="124081_8" ></RELATION>
+
+<RELATION party2="124081_5" theme="124081_3" theme_string="VALLES v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="124081_9" ></RELATION>
+

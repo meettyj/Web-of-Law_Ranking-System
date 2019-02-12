@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['gibbsdepartment#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_952" id1="114821" volume="510" start="0" page_number="952" standard_reporter="U.S." citation_global_level_id="9446.002" line="1" id="114820_1" citation_local_level_id="0" >510 U.S. 952</CITATION>
+
+<CITATION party2="Oklahoma Department of Transportation" party1="Gibbs" citation_global_level_id="20025.001" party2_short="Department" line="1" id="114820_3" alternative_keys="['u.s._510_952']" end="63" entry_type="party_key" lookup_key="gibbsdepartment#1" id1="114820" start="17" party1_short="Gibbs" citation_local_level_id="1" >Gibbs v. Oklahoma Department of Transportation</CITATION>
+
+<NAME end="22" start="17" party1_of="114820_3" all_names="GIBBS" local_name_id="1" id="114820_4" >Gibbs</NAME>
+
+<NAME end="63" start="26" all_names="OKLAHOMA DEPARTMENT OF TRANSPORTATION" party2_of="114820_3" local_name_id="2" id="114820_5" >Oklahoma Department of Transportation</NAME>
+
+<DOCKET end="80" entry_type="docket" lookup_key="u.s._510_952" id1="114821" start="73" citation_global_level_id="9446.002" line="1" id="114820_2" citation_local_level_id="0" >93-5921</DOCKET>
+
+<DATE start="122" end="138" id="114820_6" >November 1, 1993</DATE>
+
+<NAME start="217" local_name_id="3" end="227" id="114820_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="265" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_999_547" id1="Dummy_File_30803" volume="999" start="252" page_number="547" standard_reporter="F.2D" citation_global_level_id="94653.001" line="3" id="114820_12" citation_local_level_id="2" >999 F. 2d 547</CITATION>
+
+<RELATION theme="114820_1" includes_docket_string="93-5921" includes_docket="114820_2" theme_string="510 U.S. 952" gram_type="apposition" relation_type="asymmetric" id="114820_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 952" X_vs_Y_string="Gibbs v. Oklahoma Department of Transportation" standard_case="114820_1" X_vs_Y="114820_3" gram_type="pre_nom" relation_type="equivalence" id="114820_7" ></RELATION>
+
+<RELATION theme="114820_3" includes_docket_string="93-5921" includes_docket="114820_2" theme_string="Gibbs v. Oklahoma Department of Transportation" gram_type="apposition" relation_type="asymmetric" id="114820_10" ></RELATION>
+
+<RELATION theme="114820_3" party1="114820_4" party1_string="Gibbs" theme_string="Gibbs v. Oklahoma Department of Transportation" gram_type="infix" relation_type="asymmetric" id="114820_8" ></RELATION>
+
+<RELATION party2="114820_5" theme="114820_3" theme_string="Gibbs v. Oklahoma Department of Transportation" party2_string="Oklahoma Department of Transportation" gram_type="infix" relation_type="asymmetric" id="114820_9" ></RELATION>
+

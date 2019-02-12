@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['universitymaitland#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_929" id1="118712" volume="535" start="0" page_number="929" standard_reporter="U.S." citation_global_level_id="706.002" line="3" id="118711_2" citation_local_level_id="0" >535 U.S. 929</CITATION>
+
+<CITATION party2="MAITLAND" party1="UNIVERSITY OF MINNESOTA ET AL." citation_global_level_id="48976.001" party2_short="MAITLAND" line="3" id="118711_4" alternative_keys="['u.s._535_929']" end="59" entry_type="party_key" lookup_key="universitymaitland#1" id1="118711" start="17" party1_short="UNIVERSITY" citation_local_level_id="1" >UNIVERSITY OF MINNESOTA ET AL. v. MAITLAND</CITATION>
+
+<NAME end="47" start="17" party1_of="118711_4" all_names="UNIVERSITY OF MINNESOTA" local_name_id="1" id="118711_5" >UNIVERSITY OF MINNESOTA ET AL.</NAME>
+
+<ORGANIZATION start="17" end="46" id="118711_7" >UNIVERSITY OF MINNESOTA ET AL</ORGANIZATION>
+
+<NAME end="59" start="51" all_names="MAITLAND" party2_of="118711_4" local_name_id="2" id="118711_6" >MAITLAND</NAME>
+
+<DOCKET end="75" entry_type="docket" lookup_key="u.s._535_929" id1="118712" start="69" citation_global_level_id="706.002" line="3" id="118711_3" citation_local_level_id="0" >01-995</DOCKET>
+
+<DATE start="121" citation_global_level_id="48976.001" end="135" id="118711_13" citation_local_level_id="1" >March 18, 2002</DATE>
+
+<NAME start="167" local_name_id="3" end="170" id="118711_16" all_names="CIR" >Cir</NAME>
+
+<CITATION end="220" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_260_959" id1="Dummy_File_128007" volume="260" start="207" page_number="959" standard_reporter="F.3D" citation_global_level_id="191857.001" line="8" id="118711_15" citation_local_level_id="2" >260 F. 3d 959</CITATION>
+
+<RELATION theme="118711_2" includes_docket_string="01-995" includes_docket="118711_3" theme_string="535 U.S. 929" gram_type="apposition" relation_type="asymmetric" id="118711_12" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 929" X_vs_Y_string="UNIVERSITY OF MINNESOTA ET AL. v. MAITLAND" standard_case="118711_2" X_vs_Y="118711_4" gram_type="pre_nom" relation_type="equivalence" id="118711_8" ></RELATION>
+
+<RELATION theme="118711_4" includes_docket_string="01-995" includes_docket="118711_3" theme_string="UNIVERSITY OF MINNESOTA ET AL. v. MAITLAND" gram_type="apposition" relation_type="asymmetric" id="118711_11" ></RELATION>
+
+<RELATION party2="118711_6" theme="118711_4" theme_string="UNIVERSITY OF MINNESOTA ET AL. v. MAITLAND" party2_string="MAITLAND" gram_type="infix" relation_type="asymmetric" id="118711_10" ></RELATION>
+
+<RELATION theme="118711_4" party1="118711_5" party1_string="UNIVERSITY OF MINNESOTA ET AL." theme_string="UNIVERSITY OF MINNESOTA ET AL. v. MAITLAND" gram_type="infix" relation_type="asymmetric" id="118711_9" ></RELATION>
+
+<RELATION at_date_string="March 18, 2002" theme="118711_4" at_date="118711_13" theme_string="UNIVERSITY OF MINNESOTA ET AL. v. MAITLAND" gram_type="multi_line" relation_type="asymmetric" id="118711_14" ></RELATION>
+

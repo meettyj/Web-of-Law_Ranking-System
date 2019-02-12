@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['flanniganillinois#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_957" id1="119101" volume="535" start="0" page_number="957" standard_reporter="U.S." citation_global_level_id="822.002" line="1" id="119092_1" citation_local_level_id="0" >535 U.S. 957</CITATION>
+
+<CITATION party2="ILLINOIS" party1="FLANNIGAN" citation_global_level_id="62181.001" party2_short="ILLINOIS" line="2" id="119092_2" alternative_keys="['u.s._535_957']" end="38" entry_type="party_key" lookup_key="flanniganillinois#1" id1="119092" start="17" party1_short="FLANNIGAN" citation_local_level_id="1" >FLANNIGAN v. ILLINOIS</CITATION>
+
+<NAME end="26" start="17" party1_of="119092_2" all_names="FLANNIGAN" local_name_id="1" id="119092_3" >FLANNIGAN</NAME>
+
+<NAME end="38" start="30" all_names="ILLINOIS" party2_of="119092_2" local_name_id="2" id="119092_4" >ILLINOIS</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="flanniganillinois#1" id1="119092" start="48" citation_global_level_id="62181.001" line="3" id="119092_7" citation_local_level_id="1" >01-7859</DOCKET>
+
+<DATE start="101" citation_global_level_id="62181.001" end="115" id="119092_8" citation_local_level_id="1" >March 25, 2002</DATE>
+
+<NAME start="137" local_name_id="3" end="140" id="119092_12" all_names="APP" >App</NAME>
+
+<RELATION theme="119092_2" party1="119092_3" party1_string="FLANNIGAN" theme_string="FLANNIGAN v. ILLINOIS" gram_type="infix" relation_type="asymmetric" id="119092_5" ></RELATION>
+
+<RELATION party2="119092_4" theme="119092_2" theme_string="FLANNIGAN v. ILLINOIS" party2_string="ILLINOIS" gram_type="infix" relation_type="asymmetric" id="119092_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 957" X_vs_Y_string="FLANNIGAN v. ILLINOIS" standard_case="119092_1" X_vs_Y="119092_2" gram_type="multi_line" relation_type="equivalence" id="119092_9" ></RELATION>
+
+<RELATION at_date_string="March 25, 2002" theme="119092_2" at_date="119092_8" theme_string="FLANNIGAN v. ILLINOIS" gram_type="multi_line" relation_type="asymmetric" id="119092_11" ></RELATION>
+
+<RELATION theme="119092_2" includes_docket_string="01-7859" includes_docket="119092_7" theme_string="FLANNIGAN v. ILLINOIS" gram_type="multi_line" relation_type="asymmetric" id="119092_10" ></RELATION>
+

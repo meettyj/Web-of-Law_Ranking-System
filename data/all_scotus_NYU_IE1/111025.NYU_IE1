@@ -1,0 +1,48 @@
+<CITATION alternative_keys="['simondavis#1', 's.ct._103_3564', 'l.ed.2d_77_1405']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._463_1219" id1="111025" volume="463" start="0" page_number="1219" standard_reporter="U.S." citation_global_level_id="678.002" line="1" id="111025_1" citation_local_level_id="0" >463 U.S. 1219</CITATION>
+
+<CITATION alternative_keys="['u.s._463_1219', 'simondavis#1', 'l.ed.2d_77_1405']" end="33" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._103_3564" id1="111025" volume="103" start="18" page_number="3564" standard_reporter="S.CT." citation_global_level_id="678.003" line="1" id="111025_2" citation_local_level_id="1" >103 S. Ct. 3564</CITATION>
+
+<NAME start="22" local_name_id="1" end="27" id="111025_10" all_names="S CT" >S. Ct</NAME>
+
+<CITATION alternative_keys="['u.s._463_1219', 's.ct._103_3564', 'simondavis#1']" end="55" reporter="L. Ed. 2d" entry_type="standard_key" lookup_key="l.ed.2d_77_1405" id1="111025" volume="77" start="38" page_number="1405" standard_reporter="L.ED.2D" citation_global_level_id="678.004" line="1" id="111025_3" citation_local_level_id="2" >77 L. Ed. 2d 1405</CITATION>
+
+<CITATION party2="William R. DAVIS, Secretary of the Commonwealth of  Pennsylvania, et al" alternative_keys="['s.ct._103_3564', 'l.ed.2d_77_1405', 'u.s._463_1219']" party1="Ted SIMON, et al.," end="165" party1_short="SIMON" no_current_file="True" entry_type="party_key" party1_role="appellants" lookup_key="simondavis#1" id1="111025" start="60" citation_global_level_id="678.005" party2_short="DAVIS" line="1" id="111025_5" citation_local_level_id="3" >Ted SIMON, et al., appellants, v. William R. DAVIS, Secretary of the Commonwealth of Pennsylvania, et al</CITATION>
+
+<NAME end="78" start="60" party1_of="111025_5" all_names="TED SIMON" local_name_id="2" id="111025_6" >Ted SIMON, et al.,</NAME>
+
+<LEGAL_ROLE start="79" end="89" id="111025_8" >appellants</LEGAL_ROLE>
+
+<NAME end="165" start="94" all_names="WILLIAM R DAVIS SECRETARY OF THE COMMONWEALTH OF PENNSYLVANIA" party2_of="111025_5" local_name_id="3" id="111025_7" >William R. DAVIS, Secretary of the Commonwealth of Pennsylvania, et al</NAME>
+
+<DOCKET alternative_keys="['s.ct._103_3564', 'l.ed.2d_77_1405', 'u.s._463_1219']" end="181" no_current_file="True" entry_type="docket" lookup_key="simondavis#1" id1="111025" start="174" citation_global_level_id="678.005" line="1" id="111025_4" citation_local_level_id="3" >82-1080</DOCKET>
+
+<DATE start="225" end="237" id="111025_9" >July 6, 1983</DATE>
+
+<PROFESSION start="309" document_level_name_id="4" end="316" id="111025_18" party="BRENNAN" >Justice</PROFESSION>
+
+<NAME start="317" local_name_id="4" end="324" id="111025_19" all_names="BRENNAN" >BRENNAN</NAME>
+
+<PROFESSION start="326" document_level_name_id="4" end="354" id="111025_20" party="BRENNAN" >Justice MARSHALL and Justice</PROFESSION>
+
+<NAME start="355" local_name_id="5" end="362" id="111025_21" all_names="STEVENS" >STEVENS</NAME>
+
+<RELATION standard_case_string="463 U.S. 1219" X_vs_Y_string="Ted SIMON, et al., appellants, v. William R. DAVIS, Secretary of the Commonwealth of  Pennsylvania, et al" standard_case="111025_1" X_vs_Y="111025_5" gram_type="pre_nom" relation_type="equivalence" id="111025_12" ></RELATION>
+
+<RELATION standard_case_string="103 S. Ct. 3564" X_vs_Y_string="Ted SIMON, et al., appellants, v. William R. DAVIS, Secretary of the Commonwealth of  Pennsylvania, et al" standard_case="111025_2" X_vs_Y="111025_5" gram_type="pre_nom" relation_type="equivalence" id="111025_13" ></RELATION>
+
+<RELATION standard_case_string="77 L. Ed. 2d 1405" X_vs_Y_string="Ted SIMON, et al., appellants, v. William R. DAVIS, Secretary of the Commonwealth of  Pennsylvania, et al" standard_case="111025_3" X_vs_Y="111025_5" gram_type="pre_nom" relation_type="equivalence" id="111025_11" ></RELATION>
+
+<RELATION theme="111025_5" includes_docket_string="82-1080" includes_docket="111025_4" theme_string="Ted SIMON, et al., appellants, v. William R. DAVIS, Secretary of the Commonwealth of  Pennsylvania, et al" gram_type="pre_nom" relation_type="asymmetric" id="111025_16" ></RELATION>
+
+<RELATION theme="111025_5" party1="111025_6" party1_string="Ted SIMON, et al.," theme_string="Ted SIMON, et al., appellants, v. William R. DAVIS, Secretary of the Commonwealth of  Pennsylvania, et al" gram_type="infix" relation_type="asymmetric" id="111025_14" ></RELATION>
+
+<RELATION party2="111025_7" theme="111025_5" theme_string="Ted SIMON, et al., appellants, v. William R. DAVIS, Secretary of the Commonwealth of  Pennsylvania, et al" party2_string="William R. DAVIS, Secretary of the Commonwealth of  Pennsylvania, et al" gram_type="infix" relation_type="asymmetric" id="111025_15" ></RELATION>
+
+<RELATION at_date_string="July 6, 1983" theme="111025_4" at_date="111025_9" theme_string="82-1080" gram_type="pre_nom" relation_type="asymmetric" id="111025_17" ></RELATION>
+
+<RELATION theme="111025_19" profession_string="Justice" theme_string="BRENNAN" profession="111025_18" gram_type="pre_nom" relation_type="asymmetric" id="111025_22" ></RELATION>
+
+<RELATION theme="111025_19" profession_string="Justice MARSHALL and Justice" theme_string="BRENNAN" profession="111025_20" gram_type="apposition" relation_type="asymmetric" id="111025_23" ></RELATION>
+
+<RELATION theme="111025_21" profession_string="Justice MARSHALL and Justice" theme_string="STEVENS" profession="111025_20" gram_type="pre_nom" relation_type="asymmetric" id="111025_24" ></RELATION>
+

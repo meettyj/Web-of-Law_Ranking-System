@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['bellcalifornia#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._542_939" id1="137448" volume="542" start="0" page_number="939" standard_reporter="U.S." citation_global_level_id="2429.002" line="1" id="137455_1" citation_local_level_id="0" >542 U.S. 939</CITATION>
+
+<CITATION party2="CALIFORNIA" party1="BELL" citation_global_level_id="52521.001" party2_short="CALIFORNIA" line="2" id="137455_2" alternative_keys="['u.s._542_939']" end="35" entry_type="party_key" lookup_key="bellcalifornia#1" id1="137455" start="17" party1_short="BELL" citation_local_level_id="1" >BELL v. CALIFORNIA</CITATION>
+
+<NAME end="21" start="17" party1_of="137455_2" all_names="BELL" local_name_id="1" id="137455_3" >BELL</NAME>
+
+<NAME end="35" start="25" all_names="CALIFORNIA" party2_of="137455_2" local_name_id="2" id="137455_4" >CALIFORNIA</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="bellcalifornia#1" id1="137455" start="45" citation_global_level_id="52521.001" line="3" id="137455_7" citation_local_level_id="1" >03-9920</DOCKET>
+
+<ORGANIZATION start="58" end="88" id="137455_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="94" citation_global_level_id="52521.001" end="107" id="137455_9" citation_local_level_id="1" >June 28, 2004</DATE>
+
+<NAME start="129" local_name_id="3" end="131" id="137455_13" all_names="CT" >Ct</NAME>
+
+<RELATION theme="137455_2" party1="137455_3" party1_string="BELL" theme_string="BELL v. CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="137455_5" ></RELATION>
+
+<RELATION party2="137455_4" theme="137455_2" theme_string="BELL v. CALIFORNIA" party2_string="CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="137455_6" ></RELATION>
+
+<RELATION standard_case_string="542 U.S. 939" X_vs_Y_string="BELL v. CALIFORNIA" standard_case="137455_1" X_vs_Y="137455_2" gram_type="multi_line" relation_type="equivalence" id="137455_10" ></RELATION>
+
+<RELATION at_date_string="June 28, 2004" theme="137455_2" at_date="137455_9" theme_string="BELL v. CALIFORNIA" gram_type="multi_line" relation_type="asymmetric" id="137455_12" ></RELATION>
+
+<RELATION theme="137455_2" includes_docket_string="03-9920" includes_docket="137455_7" theme_string="BELL v. CALIFORNIA" gram_type="multi_line" relation_type="asymmetric" id="137455_11" ></RELATION>
+

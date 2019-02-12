@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['ruotolostates#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_869" id1="123117" volume="537" start="0" page_number="869" standard_reporter="U.S." citation_global_level_id="4164.002" line="1" id="123119_1" citation_local_level_id="0" >537 U.S. 869</CITATION>
+
+<CITATION party2="UNITED STATES" party1="RUOTOLO" citation_global_level_id="46381.001" party2_short="STATES" line="1" id="123119_3" alternative_keys="['u.s._537_869']" end="41" entry_type="party_key" lookup_key="ruotolostates#1" id1="123119" start="17" party1_short="RUOTOLO" citation_local_level_id="1" >RUOTOLO v. UNITED STATES</CITATION>
+
+<NAME end="24" start="17" party1_of="123119_3" all_names="RUOTOLO" local_name_id="1" id="123119_4" >RUOTOLO</NAME>
+
+<NAME end="41" start="28" all_names="UNITED STATES" party2_of="123119_3" local_name_id="2" id="123119_5" >UNITED STATES</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="u.s._537_869" id1="123117" start="51" citation_global_level_id="4164.002" line="1" id="123119_2" citation_local_level_id="0" >01-10889</DOCKET>
+
+<DATE start="101" end="116" id="123119_6" >October 7, 2002</DATE>
+
+<NAME start="246" local_name_id="3" end="249" id="123119_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="300" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_286_1059" id1="Dummy_File_49460" volume="286" start="286" page_number="1059" standard_reporter="F.3D" citation_global_level_id="113310.001" line="3" id="123119_12" citation_local_level_id="2" >286 F. 3d 1059</CITATION>
+
+<RELATION theme="123119_1" includes_docket_string="01-10889" includes_docket="123119_2" theme_string="537 U.S. 869" gram_type="apposition" relation_type="asymmetric" id="123119_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 869" X_vs_Y_string="RUOTOLO v. UNITED STATES" standard_case="123119_1" X_vs_Y="123119_3" gram_type="pre_nom" relation_type="equivalence" id="123119_7" ></RELATION>
+
+<RELATION theme="123119_3" includes_docket_string="01-10889" includes_docket="123119_2" theme_string="RUOTOLO v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="123119_10" ></RELATION>
+
+<RELATION theme="123119_3" party1="123119_4" party1_string="RUOTOLO" theme_string="RUOTOLO v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="123119_8" ></RELATION>
+
+<RELATION party2="123119_5" theme="123119_3" theme_string="RUOTOLO v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="123119_9" ></RELATION>
+

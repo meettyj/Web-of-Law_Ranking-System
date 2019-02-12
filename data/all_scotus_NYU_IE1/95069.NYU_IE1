@@ -1,0 +1,44 @@
+<CITATION alternative_keys="['citybank#3', 's.ct._19_874', 'l.ed._43_1034']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._174_428" id1="95069" volume="174" start="0" page_number="428" standard_reporter="U.S." citation_global_level_id="38777.002" line="1" id="95069_1" citation_local_level_id="0" >174 U.S. 428</CITATION>
+
+<CITATION alternative_keys="['u.s._174_428', 'citybank#3', 'l.ed._43_1034']" end="30" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._19_874" id1="95069" volume="19" start="17" page_number="874" standard_reporter="S.CT." citation_global_level_id="38777.003" line="1" id="95069_2" citation_local_level_id="1" >19 S. Ct. 874</CITATION>
+
+<NAME start="20" local_name_id="1" end="25" id="95069_8" all_names="S CT" >S. Ct</NAME>
+
+<CITATION alternative_keys="['u.s._174_428', 's.ct._19_874', 'citybank#3']" end="49" reporter="L. Ed." entry_type="standard_key" lookup_key="l.ed._43_1034" id1="95070" volume="43" start="35" page_number="1034" standard_reporter="L.ED." citation_global_level_id="5823.004" line="1" id="95069_3" citation_local_level_id="2" >43 L. Ed. 1034</CITATION>
+
+<CITATION party2="BANK OF COMMERCE" party1="CITY OF LOUISVILLE" citation_global_level_id="38777.001" party2_short="BANK" line="1" id="95069_4" alternative_keys="['u.s._174_428', 's.ct._19_874', 'l.ed._43_1034']" end="92" entry_type="party_key" lookup_key="citybank#3" id1="95069" start="54" party1_short="CITY" citation_local_level_id="3" >CITY OF LOUISVILLE v. BANK OF COMMERCE</CITATION>
+
+<NAME end="72" start="54" party1_of="95069_4" all_names="CITY OF LOUISVILLE" local_name_id="2" id="95069_5" >CITY OF LOUISVILLE</NAME>
+
+<NAME end="92" start="76" all_names="BANK OF COMMERCE" party2_of="95069_4" local_name_id="3" id="95069_6" >BANK OF COMMERCE</NAME>
+
+<DATE start="111" end="123" id="95069_7" >May 15, 1899</DATE>
+
+<NAME start="179" local_name_id="4" end="191" id="95069_14" all_names="W S TAYLOR" >W. S. Taylor</NAME>
+
+<NAME start="197" local_name_id="5" end="202" id="95069_15" all_names="STONE" >Stone</NAME>
+
+<NAME start="231" local_name_id="6" end="259" id="95069_16" all_names="JAMES P HELM AND HELM BRUCE" >James P. Helm and Helm Bruce</NAME>
+
+<ORGANIZATION start="265" end="281" id="95069_17" >Bank of Commerce</ORGANIZATION>
+
+<NAME start="289" local_name_id="7" end="308" id="95069_18" all_names="MR JUSTICE PECKHAM" >Mr. Justice PECKHAM</NAME>
+
+<PROFESSION start="293" end="300" id="95069_19" >Justice</PROFESSION>
+
+<NAME start="428" local_name_id="8" end="431" id="95069_20" all_names="SUP" >Sup</NAME>
+
+<NAME start="605" local_name_id="9" end="645" id="95069_21" all_names="MR JUSTICE HARLAN AND MR JUSTICE WHITE" >Mr. Justice HARLAN and Mr. Justice WHITE</NAME>
+
+<PROFESSION start="632" end="639" id="95069_22" >Justice</PROFESSION>
+
+<RELATION standard_case_string="174 U.S. 428" X_vs_Y_string="CITY OF LOUISVILLE v. BANK OF COMMERCE" standard_case="95069_1" X_vs_Y="95069_4" gram_type="pre_nom" relation_type="equivalence" id="95069_10" ></RELATION>
+
+<RELATION standard_case_string="19 S. Ct. 874" X_vs_Y_string="CITY OF LOUISVILLE v. BANK OF COMMERCE" standard_case="95069_2" X_vs_Y="95069_4" gram_type="pre_nom" relation_type="equivalence" id="95069_11" ></RELATION>
+
+<RELATION standard_case_string="43 L. Ed. 1034" X_vs_Y_string="CITY OF LOUISVILLE v. BANK OF COMMERCE" standard_case="95069_3" X_vs_Y="95069_4" gram_type="pre_nom" relation_type="equivalence" id="95069_9" ></RELATION>
+
+<RELATION theme="95069_4" party1="95069_5" party1_string="CITY OF LOUISVILLE" theme_string="CITY OF LOUISVILLE v. BANK OF COMMERCE" gram_type="infix" relation_type="asymmetric" id="95069_12" ></RELATION>
+
+<RELATION party2="95069_6" theme="95069_4" theme_string="CITY OF LOUISVILLE v. BANK OF COMMERCE" party2_string="BANK OF COMMERCE" gram_type="infix" relation_type="asymmetric" id="95069_13" ></RELATION>
+

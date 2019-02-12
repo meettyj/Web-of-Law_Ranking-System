@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['burtonkemna#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_833" id1="122659" volume="537" start="0" page_number="833" standard_reporter="U.S." citation_global_level_id="2733.002" line="1" id="122652_1" citation_local_level_id="0" >537 U.S. 833</CITATION>
+
+<CITATION party2="KEMNA, WARDEN" party1="BURTON" citation_global_level_id="2733.006" party2_short="KEMNA" line="1" id="122652_3" alternative_keys="['u.s._537_833']" end="40" entry_type="party_key" lookup_key="burtonkemna#1" id1="122659" start="17" party1_short="BURTON" citation_local_level_id="1" >BURTON v. KEMNA, WARDEN</CITATION>
+
+<NAME end="23" start="17" party1_of="122652_3" all_names="BURTON" local_name_id="1" id="122652_4" >BURTON</NAME>
+
+<NAME end="40" start="27" all_names="KEMNA WARDEN" party2_of="122652_3" local_name_id="2" id="122652_5" >KEMNA, WARDEN</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._537_833" id1="122659" start="50" citation_global_level_id="2733.002" line="1" id="122652_2" citation_local_level_id="0" >01-10061</DOCKET>
+
+<DATE start="100" end="115" id="122652_6" >October 7, 2002</DATE>
+
+<NAME start="245" local_name_id="3" end="248" id="122652_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="122652_1" includes_docket_string="01-10061" includes_docket="122652_2" theme_string="537 U.S. 833" gram_type="apposition" relation_type="asymmetric" id="122652_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 833" X_vs_Y_string="BURTON v. KEMNA, WARDEN" standard_case="122652_1" X_vs_Y="122652_3" gram_type="pre_nom" relation_type="equivalence" id="122652_7" ></RELATION>
+
+<RELATION theme="122652_3" includes_docket_string="01-10061" includes_docket="122652_2" theme_string="BURTON v. KEMNA, WARDEN" gram_type="apposition" relation_type="asymmetric" id="122652_10" ></RELATION>
+
+<RELATION theme="122652_3" party1="122652_4" party1_string="BURTON" theme_string="BURTON v. KEMNA, WARDEN" gram_type="infix" relation_type="asymmetric" id="122652_8" ></RELATION>
+
+<RELATION party2="122652_5" theme="122652_3" theme_string="BURTON v. KEMNA, WARDEN" party2_string="KEMNA, WARDEN" gram_type="infix" relation_type="asymmetric" id="122652_9" ></RELATION>
+

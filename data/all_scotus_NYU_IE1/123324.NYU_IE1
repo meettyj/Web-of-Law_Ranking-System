@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['sanitationlouisville#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_885" id1="123332" volume="537" start="0" page_number="885" standard_reporter="U.S." citation_global_level_id="1013.002" line="1" id="123324_1" citation_local_level_id="0" >537 U.S. 885</CITATION>
+
+<CITATION party2="LOUISVILLE AND JEFFERSON COUNTY METROPOLITAN SEWER DISTRICT" party1="SPANISH COVE SANITATION, INC." citation_global_level_id="26855.001" party2_short="LOUISVILLE" line="1" id="123324_3" alternative_keys="['u.s._537_885']" end="109" entry_type="party_key" lookup_key="sanitationlouisville#1" id1="123324" start="17" party1_short="SANITATION" citation_local_level_id="1" >SPANISH COVE SANITATION, INC. v. LOUISVILLE AND JEFFERSON COUNTY METROPOLITAN SEWER DISTRICT</CITATION>
+
+<NAME end="46" start="17" party1_of="123324_3" all_names="SPANISH COVE SANITATION INC" local_name_id="1" id="123324_4" >SPANISH COVE SANITATION, INC.</NAME>
+
+<ORGANIZATION start="17" end="45" id="123324_7" >SPANISH COVE SANITATION, INC</ORGANIZATION>
+
+<NAME end="109" start="50" all_names="LOUISVILLE AND JEFFERSON COUNTY METROPOLITAN SEWER DISTRICT" party2_of="123324_3" local_name_id="2" id="123324_5" >LOUISVILLE AND JEFFERSON COUNTY METROPOLITAN SEWER DISTRICT</NAME>
+
+<DOCKET end="125" entry_type="docket" lookup_key="u.s._537_885" id1="123332" start="119" citation_global_level_id="1013.002" line="1" id="123324_2" citation_local_level_id="0" >02-149</DOCKET>
+
+<DATE start="167" end="182" id="123324_6" >October 7, 2002</DATE>
+
+<NAME start="274" local_name_id="3" end="277" id="123324_14" all_names="SUP" >Sup</NAME>
+
+<CITATION end="337" reporter="S. W. 3d" entry_type="standard_key" no_current_file="True" lookup_key="s.w.3d_72_918" id1="Dummy_File_173202" volume="72" start="322" page_number="918" standard_reporter="S.W.3D" citation_global_level_id="237052.001" line="3" id="123324_13" citation_local_level_id="2" >72 S. W. 3d 918</CITATION>
+
+<RELATION theme="123324_1" includes_docket_string="02-149" includes_docket="123324_2" theme_string="537 U.S. 885" gram_type="apposition" relation_type="asymmetric" id="123324_12" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 885" X_vs_Y_string="SPANISH COVE SANITATION, INC. v. LOUISVILLE AND JEFFERSON COUNTY METROPOLITAN SEWER DISTRICT" standard_case="123324_1" X_vs_Y="123324_3" gram_type="pre_nom" relation_type="equivalence" id="123324_8" ></RELATION>
+
+<RELATION theme="123324_3" includes_docket_string="02-149" includes_docket="123324_2" theme_string="SPANISH COVE SANITATION, INC. v. LOUISVILLE AND JEFFERSON COUNTY METROPOLITAN SEWER DISTRICT" gram_type="apposition" relation_type="asymmetric" id="123324_11" ></RELATION>
+
+<RELATION party2="123324_5" theme="123324_3" theme_string="SPANISH COVE SANITATION, INC. v. LOUISVILLE AND JEFFERSON COUNTY METROPOLITAN SEWER DISTRICT" party2_string="LOUISVILLE AND JEFFERSON COUNTY METROPOLITAN SEWER DISTRICT" gram_type="infix" relation_type="asymmetric" id="123324_10" ></RELATION>
+
+<RELATION theme="123324_3" party1="123324_4" party1_string="SPANISH COVE SANITATION, INC." theme_string="SPANISH COVE SANITATION, INC. v. LOUISVILLE AND JEFFERSON COUNTY METROPOLITAN SEWER DISTRICT" gram_type="infix" relation_type="asymmetric" id="123324_9" ></RELATION>
+

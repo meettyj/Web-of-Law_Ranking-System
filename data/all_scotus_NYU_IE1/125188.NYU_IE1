@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['webstermississippi#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1032" id1="125188" volume="537" start="0" page_number="1032" standard_reporter="U.S." citation_global_level_id="3286.002" line="1" id="125188_1" citation_local_level_id="0" >537 U.S. 1032</CITATION>
+
+<CITATION party2="MISSISSIPPI" party1="WEBSTER" citation_global_level_id="3286.001" party2_short="MISSISSIPPI" line="1" id="125188_3" alternative_keys="['u.s._537_1032']" end="40" entry_type="party_key" lookup_key="webstermississippi#1" id1="125188" start="18" party1_short="WEBSTER" citation_local_level_id="1" >WEBSTER v. MISSISSIPPI</CITATION>
+
+<NAME end="25" start="18" party1_of="125188_3" all_names="WEBSTER" local_name_id="1" id="125188_4" >WEBSTER</NAME>
+
+<NAME end="40" start="29" all_names="MISSISSIPPI" party2_of="125188_3" local_name_id="2" id="125188_5" >MISSISSIPPI</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._537_1032" id1="125188" start="50" citation_global_level_id="3286.002" line="1" id="125188_2" citation_local_level_id="0" >02-6300</DOCKET>
+
+<DATE start="99" end="116" id="125188_6" >November 18, 2002</DATE>
+
+<NAME start="211" local_name_id="3" end="214" id="125188_13" all_names="SUP" >Sup</NAME>
+
+<CITATION end="275" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_817_515" id1="Dummy_File_183820" volume="817" start="261" page_number="515" standard_reporter="SO.2D" citation_global_level_id="247670.001" line="3" id="125188_12" citation_local_level_id="2" >817 So. 2d 515</CITATION>
+
+<RELATION theme="125188_1" includes_docket_string="02-6300" includes_docket="125188_2" theme_string="537 U.S. 1032" gram_type="apposition" relation_type="asymmetric" id="125188_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1032" X_vs_Y_string="WEBSTER v. MISSISSIPPI" standard_case="125188_1" X_vs_Y="125188_3" gram_type="pre_nom" relation_type="equivalence" id="125188_7" ></RELATION>
+
+<RELATION theme="125188_3" includes_docket_string="02-6300" includes_docket="125188_2" theme_string="WEBSTER v. MISSISSIPPI" gram_type="apposition" relation_type="asymmetric" id="125188_10" ></RELATION>
+
+<RELATION theme="125188_3" party1="125188_4" party1_string="WEBSTER" theme_string="WEBSTER v. MISSISSIPPI" gram_type="infix" relation_type="asymmetric" id="125188_8" ></RELATION>
+
+<RELATION party2="125188_5" theme="125188_3" theme_string="WEBSTER v. MISSISSIPPI" party2_string="MISSISSIPPI" gram_type="infix" relation_type="asymmetric" id="125188_9" ></RELATION>
+

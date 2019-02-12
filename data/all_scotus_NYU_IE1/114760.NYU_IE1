@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['syrianicarolina#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_948" id1="114760" volume="510" start="0" page_number="948" standard_reporter="U.S." citation_global_level_id="5698.002" line="1" id="114760_1" citation_local_level_id="0" >510 U.S. 948</CITATION>
+
+<CITATION party2="North Carolina" party1="Syriani" citation_global_level_id="5698.001" party2_short="Carolina" line="1" id="114760_3" alternative_keys="['u.s._510_948']" end="42" entry_type="party_key" lookup_key="syrianicarolina#1" id1="114760" start="17" party1_short="Syriani" citation_local_level_id="1" >Syriani v. North Carolina</CITATION>
+
+<NAME end="24" start="17" party1_of="114760_3" all_names="SYRIANI" local_name_id="1" id="114760_4" >Syriani</NAME>
+
+<NAME end="42" start="28" all_names="NORTH CAROLINA" party2_of="114760_3" local_name_id="2" id="114760_5" >North Carolina</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="u.s._510_948" id1="114760" start="52" citation_global_level_id="5698.002" line="1" id="114760_2" citation_local_level_id="0" >93-5077</DOCKET>
+
+<DATE start="101" end="117" id="114760_6" >November 1, 1993</DATE>
+
+<NAME start="195" local_name_id="3" end="205" id="114760_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="243" reporter="N. C." entry_type="standard_key" no_current_file="True" lookup_key="n.c._333_350" id1="Dummy_File_239487" volume="333" start="230" page_number="350" standard_reporter="N.C." citation_global_level_id="303337.001" line="3" id="114760_12" citation_local_level_id="2" >333 N. C. 350</CITATION>
+
+<CITATION end="261" reporter="S. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="s.e.2d_428_118" id1="Dummy_File_239488" volume="428" start="245" page_number="118" standard_reporter="S.E.2D" citation_global_level_id="303338.001" line="3" id="114760_13" citation_local_level_id="3" >428 S. E. 2d 118</CITATION>
+
+<RELATION theme="114760_1" includes_docket_string="93-5077" includes_docket="114760_2" theme_string="510 U.S. 948" gram_type="apposition" relation_type="asymmetric" id="114760_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 948" X_vs_Y_string="Syriani v. North Carolina" standard_case="114760_1" X_vs_Y="114760_3" gram_type="pre_nom" relation_type="equivalence" id="114760_7" ></RELATION>
+
+<RELATION theme="114760_3" includes_docket_string="93-5077" includes_docket="114760_2" theme_string="Syriani v. North Carolina" gram_type="apposition" relation_type="asymmetric" id="114760_10" ></RELATION>
+
+<RELATION theme="114760_3" party1="114760_4" party1_string="Syriani" theme_string="Syriani v. North Carolina" gram_type="infix" relation_type="asymmetric" id="114760_8" ></RELATION>
+
+<RELATION party2="114760_5" theme="114760_3" theme_string="Syriani v. North Carolina" party2_string="North Carolina" gram_type="infix" relation_type="asymmetric" id="114760_9" ></RELATION>
+

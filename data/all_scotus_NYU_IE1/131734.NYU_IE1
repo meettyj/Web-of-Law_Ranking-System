@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['waltersstates#3']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_846" id1="131740" volume="540" start="0" page_number="846" standard_reporter="U.S." citation_global_level_id="257.002" line="1" id="131734_1" citation_local_level_id="0" >540 U.S. 846</CITATION>
+
+<CITATION party2="UNITED STATES" party1="WALTERS" citation_global_level_id="56420.001" party2_short="STATES" line="1" id="131734_3" alternative_keys="['u.s._540_846']" end="41" entry_type="party_key" lookup_key="waltersstates#3" id1="123434" start="17" party1_short="WALTERS" citation_local_level_id="1" >WALTERS v. UNITED STATES</CITATION>
+
+<NAME end="24" start="17" party1_of="131734_3" all_names="WALTERS" local_name_id="1" id="131734_4" >WALTERS</NAME>
+
+<NAME end="41" start="28" all_names="UNITED STATES" party2_of="131734_3" local_name_id="2" id="131734_5" >UNITED STATES</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="u.s._540_846" id1="131740" start="51" citation_global_level_id="257.002" line="1" id="131734_2" citation_local_level_id="0" >02-10973</DOCKET>
+
+<DATE start="101" end="116" id="131734_6" >October 6, 2003</DATE>
+
+<NAME start="194" local_name_id="3" end="204" id="131734_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="242" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_309_589" id1="Dummy_File_235779" volume="309" start="229" page_number="589" standard_reporter="F.3D" citation_global_level_id="299629.001" line="3" id="131734_12" citation_local_level_id="2" >309 F. 3d 589</CITATION>
+
+<RELATION theme="131734_1" includes_docket_string="02-10973" includes_docket="131734_2" theme_string="540 U.S. 846" gram_type="apposition" relation_type="asymmetric" id="131734_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 846" X_vs_Y_string="WALTERS v. UNITED STATES" standard_case="131734_1" X_vs_Y="131734_3" gram_type="pre_nom" relation_type="equivalence" id="131734_7" ></RELATION>
+
+<RELATION theme="131734_3" includes_docket_string="02-10973" includes_docket="131734_2" theme_string="WALTERS v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="131734_10" ></RELATION>
+
+<RELATION theme="131734_3" party1="131734_4" party1_string="WALTERS" theme_string="WALTERS v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="131734_8" ></RELATION>
+
+<RELATION party2="131734_5" theme="131734_3" theme_string="WALTERS v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="131734_9" ></RELATION>
+

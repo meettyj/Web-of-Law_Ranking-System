@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['thurmondillinois#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_910" id1="143026" volume="544" start="0" page_number="910" standard_reporter="U.S." citation_global_level_id="155.002" line="1" id="143026_1" citation_local_level_id="0" >544 U.S. 910</CITATION>
+
+<CITATION party2="ILLINOIS" party1="THURMOND" citation_global_level_id="155.001" party2_short="ILLINOIS" line="2" id="143026_2" alternative_keys="['u.s._544_910']" end="37" entry_type="party_key" lookup_key="thurmondillinois#1" id1="143026" start="17" party1_short="THURMOND" citation_local_level_id="1" >THURMOND v. ILLINOIS</CITATION>
+
+<NAME end="25" start="17" party1_of="143026_2" all_names="THURMOND" local_name_id="1" id="143026_3" >THURMOND</NAME>
+
+<NAME end="37" start="29" all_names="ILLINOIS" party2_of="143026_2" local_name_id="2" id="143026_4" >ILLINOIS</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="thurmondillinois#1" id1="143026" start="47" citation_global_level_id="155.001" line="3" id="143026_7" citation_local_level_id="1" >04-8032</DOCKET>
+
+<ORGANIZATION start="60" end="90" id="143026_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="96" citation_global_level_id="155.001" end="109" id="143026_9" citation_local_level_id="1" >March 7, 2005</DATE>
+
+<NAME start="131" local_name_id="3" end="134" id="143026_13" all_names="APP" >App</NAME>
+
+<RELATION theme="143026_2" party1="143026_3" party1_string="THURMOND" theme_string="THURMOND v. ILLINOIS" gram_type="infix" relation_type="asymmetric" id="143026_5" ></RELATION>
+
+<RELATION party2="143026_4" theme="143026_2" theme_string="THURMOND v. ILLINOIS" party2_string="ILLINOIS" gram_type="infix" relation_type="asymmetric" id="143026_6" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 910" X_vs_Y_string="THURMOND v. ILLINOIS" standard_case="143026_1" X_vs_Y="143026_2" gram_type="multi_line" relation_type="equivalence" id="143026_10" ></RELATION>
+
+<RELATION at_date_string="March 7, 2005" theme="143026_2" at_date="143026_9" theme_string="THURMOND v. ILLINOIS" gram_type="multi_line" relation_type="asymmetric" id="143026_12" ></RELATION>
+
+<RELATION theme="143026_2" includes_docket_string="04-8032" includes_docket="143026_7" theme_string="THURMOND v. ILLINOIS" gram_type="multi_line" relation_type="asymmetric" id="143026_11" ></RELATION>
+

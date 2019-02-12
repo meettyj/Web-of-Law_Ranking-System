@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['listerstates#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_873" id1="138694" volume="543" start="0" page_number="873" standard_reporter="U.S." citation_global_level_id="13468.002" line="1" id="138690_1" citation_local_level_id="0" >543 U.S. 873</CITATION>
+
+<CITATION party2="UNITED STATES" party1="LISTER" citation_global_level_id="33366.001" party2_short="STATES" line="2" id="138690_2" alternative_keys="['u.s._543_873']" end="40" entry_type="party_key" lookup_key="listerstates#1" id1="138690" start="17" party1_short="LISTER" citation_local_level_id="1" >LISTER v. UNITED STATES</CITATION>
+
+<NAME end="23" start="17" party1_of="138690_2" all_names="LISTER" local_name_id="1" id="138690_3" >LISTER</NAME>
+
+<NAME end="40" start="27" all_names="UNITED STATES" party2_of="138690_2" local_name_id="2" id="138690_4" >UNITED STATES</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="listerstates#1" id1="138690" start="50" citation_global_level_id="33366.001" line="3" id="138690_7" citation_local_level_id="1" >04-110</DOCKET>
+
+<ORGANIZATION start="62" end="92" id="138690_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="98" citation_global_level_id="33366.001" end="113" id="138690_9" citation_local_level_id="1" >October 4, 2004</DATE>
+
+<NAME start="146" local_name_id="3" end="149" id="138690_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="138690_2" party1="138690_3" party1_string="LISTER" theme_string="LISTER v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="138690_5" ></RELATION>
+
+<RELATION party2="138690_4" theme="138690_2" theme_string="LISTER v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="138690_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 873" X_vs_Y_string="LISTER v. UNITED STATES" standard_case="138690_1" X_vs_Y="138690_2" gram_type="multi_line" relation_type="equivalence" id="138690_10" ></RELATION>
+
+<RELATION at_date_string="October 4, 2004" theme="138690_2" at_date="138690_9" theme_string="LISTER v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="138690_12" ></RELATION>
+
+<RELATION theme="138690_2" includes_docket_string="04-110" includes_docket="138690_7" theme_string="LISTER v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="138690_11" ></RELATION>
+

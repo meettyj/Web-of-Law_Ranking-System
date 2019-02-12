@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['freytasauthority#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_999" id1="144181" volume="544" start="0" page_number="999" standard_reporter="U.S." citation_global_level_id="4096.002" line="1" id="144175_1" citation_local_level_id="0" >544 U.S. 999</CITATION>
+
+<CITATION party2="NEW YORK CITY TRANSIT AUTHORITY" party1="RODRIGUEZ-FREYTAS" citation_global_level_id="4096.006" party2_short="AUTHORITY" line="2" id="144175_2" alternative_keys="['u.s._544_999']" end="69" entry_type="party_key" lookup_key="freytasauthority#1" id1="144181" start="17" party1_short="FREYTAS" citation_local_level_id="1" >RODRIGUEZ-FREYTAS v. NEW YORK CITY TRANSIT AUTHORITY</CITATION>
+
+<NAME end="34" start="17" party1_of="144175_2" all_names="RODRIGUEZ-FREYTAS" local_name_id="1" id="144175_3" >RODRIGUEZ-FREYTAS</NAME>
+
+<NAME end="69" start="38" all_names="NEW YORK CITY TRANSIT AUTHORITY" party2_of="144175_2" local_name_id="2" id="144175_4" >NEW YORK CITY TRANSIT AUTHORITY</NAME>
+
+<DOCKET alternative_keys="['u.s._544_999']" end="89" entry_type="docket" lookup_key="freytasauthority#1" id1="144181" start="83" citation_global_level_id="4096.006" line="3" id="144175_7" citation_local_level_id="1" >04-973</DOCKET>
+
+<ORGANIZATION start="95" end="125" id="144175_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="131" citation_global_level_id="4096.006" end="145" id="144175_9" citation_local_level_id="1" >April 25, 2005</DATE>
+
+<NAME start="176" local_name_id="3" end="179" id="144175_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="144175_2" party1="144175_3" party1_string="RODRIGUEZ-FREYTAS" theme_string="RODRIGUEZ-FREYTAS v. NEW YORK CITY TRANSIT AUTHORITY" gram_type="infix" relation_type="asymmetric" id="144175_5" ></RELATION>
+
+<RELATION party2="144175_4" theme="144175_2" theme_string="RODRIGUEZ-FREYTAS v. NEW YORK CITY TRANSIT AUTHORITY" party2_string="NEW YORK CITY TRANSIT AUTHORITY" gram_type="infix" relation_type="asymmetric" id="144175_6" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 999" X_vs_Y_string="RODRIGUEZ-FREYTAS v. NEW YORK CITY TRANSIT AUTHORITY" standard_case="144175_1" X_vs_Y="144175_2" gram_type="multi_line" relation_type="equivalence" id="144175_10" ></RELATION>
+
+<RELATION at_date_string="April 25, 2005" theme="144175_2" at_date="144175_9" theme_string="RODRIGUEZ-FREYTAS v. NEW YORK CITY TRANSIT AUTHORITY" gram_type="multi_line" relation_type="asymmetric" id="144175_12" ></RELATION>
+
+<RELATION theme="144175_2" includes_docket_string="04-973" includes_docket="144175_7" theme_string="RODRIGUEZ-FREYTAS v. NEW YORK CITY TRANSIT AUTHORITY" gram_type="multi_line" relation_type="asymmetric" id="144175_11" ></RELATION>
+

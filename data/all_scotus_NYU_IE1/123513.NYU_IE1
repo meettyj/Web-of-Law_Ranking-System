@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['townsendellinger#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_899" id1="123524" volume="537" start="0" page_number="899" standard_reporter="U.S." citation_global_level_id="9575.002" line="1" id="123513_1" citation_local_level_id="0" >537 U.S. 899</CITATION>
+
+<CITATION party2="ELLINGER ET AL" party1="TOWNSEND" citation_global_level_id="61019.001" party2_short="ELLINGER" line="1" id="123513_3" alternative_keys="['u.s._537_899']" end="43" entry_type="party_key" lookup_key="townsendellinger#1" id1="123513" start="17" party1_short="TOWNSEND" citation_local_level_id="1" >TOWNSEND v. ELLINGER ET AL</CITATION>
+
+<NAME end="25" start="17" party1_of="123513_3" all_names="TOWNSEND" local_name_id="1" id="123513_4" >TOWNSEND</NAME>
+
+<NAME end="43" start="29" all_names="ELLINGER" party2_of="123513_3" local_name_id="2" id="123513_5" >ELLINGER ET AL</NAME>
+
+<DOCKET end="60" entry_type="docket" lookup_key="u.s._537_899" id1="123524" start="53" citation_global_level_id="9575.002" line="1" id="123513_2" citation_local_level_id="0" >02-5175</DOCKET>
+
+<DATE start="102" end="117" id="123513_6" >October 7, 2002</DATE>
+
+<NAME start="248" local_name_id="3" end="251" id="123513_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="123513_1" includes_docket_string="02-5175" includes_docket="123513_2" theme_string="537 U.S. 899" gram_type="apposition" relation_type="asymmetric" id="123513_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 899" X_vs_Y_string="TOWNSEND v. ELLINGER ET AL" standard_case="123513_1" X_vs_Y="123513_3" gram_type="pre_nom" relation_type="equivalence" id="123513_7" ></RELATION>
+
+<RELATION theme="123513_3" includes_docket_string="02-5175" includes_docket="123513_2" theme_string="TOWNSEND v. ELLINGER ET AL" gram_type="apposition" relation_type="asymmetric" id="123513_10" ></RELATION>
+
+<RELATION theme="123513_3" party1="123513_4" party1_string="TOWNSEND" theme_string="TOWNSEND v. ELLINGER ET AL" gram_type="infix" relation_type="asymmetric" id="123513_8" ></RELATION>
+
+<RELATION party2="123513_5" theme="123513_3" theme_string="TOWNSEND v. ELLINGER ET AL" party2_string="ELLINGER ET AL" gram_type="infix" relation_type="asymmetric" id="123513_9" ></RELATION>
+

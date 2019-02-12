@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['andersonmissouri#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_898" id1="123499" volume="537" start="0" page_number="898" standard_reporter="U.S." citation_global_level_id="5105.002" line="1" id="123505_1" citation_local_level_id="0" >537 U.S. 898</CITATION>
+
+<CITATION party2="MISSOURI" party1="ANDERSON" citation_global_level_id="22753.001" party2_short="MISSOURI" line="1" id="123505_3" alternative_keys="['u.s._537_898']" end="37" entry_type="party_key" lookup_key="andersonmissouri#1" id1="123505" start="17" party1_short="ANDERSON" citation_local_level_id="1" >ANDERSON v. MISSOURI</CITATION>
+
+<NAME end="25" start="17" party1_of="123505_3" all_names="ANDERSON" local_name_id="1" id="123505_4" >ANDERSON</NAME>
+
+<NAME end="37" start="29" all_names="MISSOURI" party2_of="123505_3" local_name_id="2" id="123505_5" >MISSOURI</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="u.s._537_898" id1="123499" start="47" citation_global_level_id="5105.002" line="1" id="123505_2" citation_local_level_id="0" >02-5160</DOCKET>
+
+<DATE start="96" end="111" id="123505_6" >October 7, 2002</DATE>
+
+<NAME start="202" local_name_id="3" end="205" id="123505_13" all_names="SUP" >Sup</NAME>
+
+<CITATION end="262" reporter="S.W.3d" entry_type="standard_key" no_current_file="True" lookup_key="s.w.3d_79_420" id1="Dummy_File_145636" volume="79" start="249" page_number="420" standard_reporter="S.W.3D" citation_global_level_id="209486.001" line="3" id="123505_12" citation_local_level_id="2" >79 S.W.3d 420</CITATION>
+
+<RELATION theme="123505_1" includes_docket_string="02-5160" includes_docket="123505_2" theme_string="537 U.S. 898" gram_type="apposition" relation_type="asymmetric" id="123505_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 898" X_vs_Y_string="ANDERSON v. MISSOURI" standard_case="123505_1" X_vs_Y="123505_3" gram_type="pre_nom" relation_type="equivalence" id="123505_7" ></RELATION>
+
+<RELATION theme="123505_3" includes_docket_string="02-5160" includes_docket="123505_2" theme_string="ANDERSON v. MISSOURI" gram_type="apposition" relation_type="asymmetric" id="123505_10" ></RELATION>
+
+<RELATION theme="123505_3" party1="123505_4" party1_string="ANDERSON" theme_string="ANDERSON v. MISSOURI" gram_type="infix" relation_type="asymmetric" id="123505_8" ></RELATION>
+
+<RELATION party2="123505_5" theme="123505_3" theme_string="ANDERSON v. MISSOURI" party2_string="MISSOURI" gram_type="infix" relation_type="asymmetric" id="123505_9" ></RELATION>
+

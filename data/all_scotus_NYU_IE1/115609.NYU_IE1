@@ -1,0 +1,36 @@
+<CITATION alternative_keys="['tgeorgia#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1011" id1="115608" volume="510" start="0" page_number="1011" standard_reporter="U.S." citation_global_level_id="1007.002" line="1" id="115609_1" citation_local_level_id="0" >510 U.S. 1011</CITATION>
+
+<CITATION party2="Richmond County, Georgia, et al" party1="S. J. T., Inc., dba TJ Smiles, et al." citation_global_level_id="1007.008" party2_short="Georgia" line="1" id="115609_3" alternative_keys="['u.s._510_1011']" end="90" entry_type="party_key" lookup_key="tgeorgia#2" id1="115608" start="18" party1_short="T" citation_local_level_id="1" >S. J. T., Inc., dba TJ Smiles, et al. v. Richmond County, Georgia, et al</CITATION>
+
+<NAME end="55" start="18" party1_of="115609_3" all_names="S J T INC DBA TJ SMILES" local_name_id="1" id="115609_4" >S. J. T., Inc., dba TJ Smiles, et al.</NAME>
+
+<ORGANIZATION start="18" end="31" id="115609_7" >S. J. T., Inc</ORGANIZATION>
+
+<NAME end="90" start="59" all_names="RICHMOND COUNTY GEORGIA" party2_of="115609_3" local_name_id="2" id="115609_5" >Richmond County, Georgia, et al</NAME>
+
+<DOCKET end="106" entry_type="docket" lookup_key="u.s._510_1011" id1="115608" start="100" citation_global_level_id="1007.002" line="1" id="115609_2" citation_local_level_id="0" >93-584</DOCKET>
+
+<ORGANIZATION start="112" end="142" id="115609_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="148" end="164" id="115609_6" >December 6, 1993</DATE>
+
+<NAME start="186" local_name_id="3" end="205" id="115609_9" all_names="APPEAL FROM THE SUP" >Appeal from the Sup</NAME>
+
+<NAME start="207" local_name_id="4" end="209" id="115609_10" all_names="CT" >Ct</NAME>
+
+<NAME start="240" local_name_id="5" end="250" id="115609_18" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="286" reporter="Ga." entry_type="standard_key" no_current_file="True" lookup_key="ga._263_267" id1="Dummy_File_145327" volume="263" start="275" page_number="267" standard_reporter="GA." citation_global_level_id="209177.001" line="3" id="115609_16" citation_local_level_id="2" >263 Ga. 267</CITATION>
+
+<CITATION end="304" reporter="S. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="s.e.2d_430_726" id1="Dummy_File_145328" volume="430" start="288" page_number="726" standard_reporter="S.E.2D" citation_global_level_id="209178.001" line="3" id="115609_17" citation_local_level_id="3" >430 S. E. 2d 726</CITATION>
+
+<RELATION theme="115609_1" includes_docket_string="93-584" includes_docket="115609_2" theme_string="510 U.S. 1011" gram_type="apposition" relation_type="asymmetric" id="115609_15" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1011" X_vs_Y_string="S. J. T., Inc., dba TJ Smiles, et al. v. Richmond County, Georgia, et al" standard_case="115609_1" X_vs_Y="115609_3" gram_type="pre_nom" relation_type="equivalence" id="115609_11" ></RELATION>
+
+<RELATION theme="115609_3" includes_docket_string="93-584" includes_docket="115609_2" theme_string="S. J. T., Inc., dba TJ Smiles, et al. v. Richmond County, Georgia, et al" gram_type="apposition" relation_type="asymmetric" id="115609_14" ></RELATION>
+
+<RELATION theme="115609_3" party1="115609_4" party1_string="S. J. T., Inc., dba TJ Smiles, et al." theme_string="S. J. T., Inc., dba TJ Smiles, et al. v. Richmond County, Georgia, et al" gram_type="infix" relation_type="asymmetric" id="115609_12" ></RELATION>
+
+<RELATION party2="115609_5" theme="115609_3" theme_string="S. J. T., Inc., dba TJ Smiles, et al. v. Richmond County, Georgia, et al" party2_string="Richmond County, Georgia, et al" gram_type="infix" relation_type="asymmetric" id="115609_13" ></RELATION>
+

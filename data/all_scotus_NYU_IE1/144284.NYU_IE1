@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['woodstates#9']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_1007" id1="144291" volume="544" start="0" page_number="1007" standard_reporter="U.S." citation_global_level_id="1610.002" line="1" id="144284_1" citation_local_level_id="0" >544 U.S. 1007</CITATION>
+
+<CITATION party2="UNITED STATES" party1="WOOD" citation_global_level_id="30598.001" party2_short="STATES" line="2" id="144284_2" alternative_keys="['u.s._544_1007']" end="39" entry_type="party_key" lookup_key="woodstates#9" id1="121109" start="18" party1_short="WOOD" citation_local_level_id="1" >WOOD v. UNITED STATES</CITATION>
+
+<NAME end="22" start="18" party1_of="144284_2" all_names="WOOD" local_name_id="1" id="144284_3" >WOOD</NAME>
+
+<NAME end="39" start="26" all_names="UNITED STATES" party2_of="144284_2" local_name_id="2" id="144284_4" >UNITED STATES</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="woodstates#9" id1="121109" start="49" citation_global_level_id="30598.001" line="3" id="144284_7" citation_local_level_id="1" >04-9303</DOCKET>
+
+<ORGANIZATION start="62" end="92" id="144284_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="98" citation_global_level_id="30598.001" end="112" id="144284_9" citation_local_level_id="1" >April 25, 2005</DATE>
+
+<NAME start="144" local_name_id="3" end="147" id="144284_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="144284_2" party1="144284_3" party1_string="WOOD" theme_string="WOOD v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="144284_5" ></RELATION>
+
+<RELATION party2="144284_4" theme="144284_2" theme_string="WOOD v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="144284_6" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 1007" X_vs_Y_string="WOOD v. UNITED STATES" standard_case="144284_1" X_vs_Y="144284_2" gram_type="multi_line" relation_type="equivalence" id="144284_10" ></RELATION>
+
+<RELATION at_date_string="April 25, 2005" theme="144284_2" at_date="144284_9" theme_string="WOOD v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="144284_12" ></RELATION>
+
+<RELATION theme="144284_2" includes_docket_string="04-9303" includes_docket="144284_7" theme_string="WOOD v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="144284_11" ></RELATION>
+

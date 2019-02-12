@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['herbstbrown#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_879" id1="123254" volume="537" start="0" page_number="879" standard_reporter="U.S." citation_global_level_id="7868.002" line="1" id="123242_1" citation_local_level_id="0" >537 U.S. 879</CITATION>
+
+<CITATION party2="BROWN" party1="HERBST" citation_global_level_id="24754.001" party2_short="BROWN" line="1" id="123242_3" alternative_keys="['u.s._537_879']" end="32" entry_type="party_key" lookup_key="herbstbrown#1" id1="123242" start="17" party1_short="HERBST" citation_local_level_id="1" >HERBST v. BROWN</CITATION>
+
+<NAME end="23" start="17" party1_of="123242_3" all_names="HERBST" local_name_id="1" id="123242_4" >HERBST</NAME>
+
+<NAME end="32" start="27" all_names="BROWN" party2_of="123242_3" local_name_id="2" id="123242_5" >BROWN</NAME>
+
+<DOCKET end="47" entry_type="docket" lookup_key="u.s._537_879" id1="123254" start="42" citation_global_level_id="7868.002" line="1" id="123242_2" citation_local_level_id="0" >02-31</DOCKET>
+
+<DATE start="89" end="104" id="123242_6" >October 7, 2002</DATE>
+
+<NAME start="233" local_name_id="3" end="236" id="123242_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="123242_1" includes_docket_string="02-31" includes_docket="123242_2" theme_string="537 U.S. 879" gram_type="apposition" relation_type="asymmetric" id="123242_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 879" X_vs_Y_string="HERBST v. BROWN" standard_case="123242_1" X_vs_Y="123242_3" gram_type="pre_nom" relation_type="equivalence" id="123242_7" ></RELATION>
+
+<RELATION theme="123242_3" includes_docket_string="02-31" includes_docket="123242_2" theme_string="HERBST v. BROWN" gram_type="apposition" relation_type="asymmetric" id="123242_10" ></RELATION>
+
+<RELATION theme="123242_3" party1="123242_4" party1_string="HERBST" theme_string="HERBST v. BROWN" gram_type="infix" relation_type="asymmetric" id="123242_8" ></RELATION>
+
+<RELATION party2="123242_5" theme="123242_3" theme_string="HERBST v. BROWN" party2_string="BROWN" gram_type="infix" relation_type="asymmetric" id="123242_9" ></RELATION>
+

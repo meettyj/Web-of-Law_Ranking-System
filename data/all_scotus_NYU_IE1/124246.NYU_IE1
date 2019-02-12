@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['rustcalifornia#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_952" id1="124253" volume="537" start="0" page_number="952" standard_reporter="U.S." citation_global_level_id="4160.002" line="1" id="124246_1" citation_local_level_id="0" >537 U.S. 952</CITATION>
+
+<CITATION party2="CALIFORNIA" party1="RUST" citation_global_level_id="40025.001" party2_short="CALIFORNIA" line="1" id="124246_3" alternative_keys="['u.s._537_952']" end="35" entry_type="party_key" lookup_key="rustcalifornia#1" id1="124246" start="17" party1_short="RUST" citation_local_level_id="1" >RUST v. CALIFORNIA</CITATION>
+
+<NAME end="21" start="17" party1_of="124246_3" all_names="RUST" local_name_id="1" id="124246_4" >RUST</NAME>
+
+<NAME end="35" start="25" all_names="CALIFORNIA" party2_of="124246_3" local_name_id="2" id="124246_5" >CALIFORNIA</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="u.s._537_952" id1="124253" start="45" citation_global_level_id="4160.002" line="1" id="124246_2" citation_local_level_id="0" >02-5635</DOCKET>
+
+<DATE start="94" end="110" id="124246_6" >October 15, 2002</DATE>
+
+<NAME start="241" local_name_id="3" end="243" id="124246_12" all_names="CT" >Ct</NAME>
+
+<RELATION theme="124246_1" includes_docket_string="02-5635" includes_docket="124246_2" theme_string="537 U.S. 952" gram_type="apposition" relation_type="asymmetric" id="124246_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 952" X_vs_Y_string="RUST v. CALIFORNIA" standard_case="124246_1" X_vs_Y="124246_3" gram_type="pre_nom" relation_type="equivalence" id="124246_7" ></RELATION>
+
+<RELATION theme="124246_3" includes_docket_string="02-5635" includes_docket="124246_2" theme_string="RUST v. CALIFORNIA" gram_type="apposition" relation_type="asymmetric" id="124246_10" ></RELATION>
+
+<RELATION theme="124246_3" party1="124246_4" party1_string="RUST" theme_string="RUST v. CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="124246_8" ></RELATION>
+
+<RELATION party2="124246_5" theme="124246_3" theme_string="RUST v. CALIFORNIA" party2_string="CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="124246_9" ></RELATION>
+

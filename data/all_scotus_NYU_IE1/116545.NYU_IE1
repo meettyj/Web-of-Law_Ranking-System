@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['networkboard#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1091" id1="116548" volume="510" start="0" page_number="1091" standard_reporter="U.S." citation_global_level_id="2036.002" line="1" id="116545_1" citation_local_level_id="0" >510 U.S. 1091</CITATION>
+
+<CITATION party2="National Labor Relations Board" party1="Pro-Tech Security Network" citation_global_level_id="2036.003" party2_short="Board" line="1" id="116545_3" alternative_keys="['u.s._510_1091']" end="77" entry_type="party_key" lookup_key="networkboard#1" id1="116548" start="18" party1_short="Network" citation_local_level_id="1" >Pro-Tech Security Network v. National Labor Relations Board</CITATION>
+
+<NAME end="43" start="18" party1_of="116545_3" all_names="PRO-TECH SECURITY NETWORK" local_name_id="1" id="116545_4" >Pro-Tech Security Network</NAME>
+
+<NAME end="77" start="47" all_names="NATIONAL LABOR RELATIONS BOARD" party2_of="116545_3" local_name_id="2" id="116545_5" >National Labor Relations Board</NAME>
+
+<DOCKET end="93" entry_type="docket" lookup_key="u.s._510_1091" id1="116548" start="87" citation_global_level_id="2036.002" line="1" id="116545_2" citation_local_level_id="0" >93-589</DOCKET>
+
+<DATE start="135" end="151" id="116545_6" >January 24, 1994</DATE>
+
+<NAME start="229" local_name_id="3" end="239" id="116545_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="278" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_993_1538" id1="Dummy_File_25484" volume="993" start="264" page_number="1538" standard_reporter="F.2D" citation_global_level_id="89334.001" line="3" id="116545_12" citation_local_level_id="2" >993 F. 2d 1538</CITATION>
+
+<RELATION theme="116545_1" includes_docket_string="93-589" includes_docket="116545_2" theme_string="510 U.S. 1091" gram_type="apposition" relation_type="asymmetric" id="116545_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1091" X_vs_Y_string="Pro-Tech Security Network v. National Labor Relations Board" standard_case="116545_1" X_vs_Y="116545_3" gram_type="pre_nom" relation_type="equivalence" id="116545_7" ></RELATION>
+
+<RELATION theme="116545_3" includes_docket_string="93-589" includes_docket="116545_2" theme_string="Pro-Tech Security Network v. National Labor Relations Board" gram_type="apposition" relation_type="asymmetric" id="116545_10" ></RELATION>
+
+<RELATION theme="116545_3" party1="116545_4" party1_string="Pro-Tech Security Network" theme_string="Pro-Tech Security Network v. National Labor Relations Board" gram_type="infix" relation_type="asymmetric" id="116545_8" ></RELATION>
+
+<RELATION party2="116545_5" theme="116545_3" theme_string="Pro-Tech Security Network v. National Labor Relations Board" party2_string="National Labor Relations Board" gram_type="infix" relation_type="asymmetric" id="116545_9" ></RELATION>
+

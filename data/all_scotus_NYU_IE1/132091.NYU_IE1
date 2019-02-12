@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['windlecity#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_873" id1="132096" volume="540" start="0" page_number="873" standard_reporter="U.S." citation_global_level_id="4118.002" line="1" id="132091_1" citation_local_level_id="0" >540 U.S. 873</CITATION>
+
+<CITATION party2="CITY OF MARION, INDIANA, ET AL" party1="WINDLE" citation_global_level_id="4118.005" party2_short="CITY" line="1" id="132091_3" alternative_keys="['u.s._540_873']" end="57" entry_type="party_key" lookup_key="windlecity#2" id1="132096" start="17" party1_short="WINDLE" citation_local_level_id="1" >WINDLE v. CITY OF MARION, INDIANA, ET AL</CITATION>
+
+<NAME end="23" start="17" party1_of="132091_3" all_names="WINDLE" local_name_id="1" id="132091_4" >WINDLE</NAME>
+
+<NAME end="57" start="27" all_names="CITY OF MARION INDIANA" party2_of="132091_3" local_name_id="2" id="132091_5" >CITY OF MARION, INDIANA, ET AL</NAME>
+
+<DOCKET end="72" entry_type="docket" lookup_key="u.s._540_873" id1="132096" start="67" citation_global_level_id="4118.002" line="1" id="132091_2" citation_local_level_id="0" >03-21</DOCKET>
+
+<DATE start="114" end="129" id="132091_6" >October 6, 2003</DATE>
+
+<NAME start="207" local_name_id="3" end="217" id="132091_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="255" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_321_658" id1="Dummy_File_148296" volume="321" start="242" page_number="658" standard_reporter="F.3D" citation_global_level_id="212146.001" line="3" id="132091_12" citation_local_level_id="2" >321 F. 3d 658</CITATION>
+
+<RELATION theme="132091_1" includes_docket_string="03-21" includes_docket="132091_2" theme_string="540 U.S. 873" gram_type="apposition" relation_type="asymmetric" id="132091_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 873" X_vs_Y_string="WINDLE v. CITY OF MARION, INDIANA, ET AL" standard_case="132091_1" X_vs_Y="132091_3" gram_type="pre_nom" relation_type="equivalence" id="132091_7" ></RELATION>
+
+<RELATION theme="132091_3" includes_docket_string="03-21" includes_docket="132091_2" theme_string="WINDLE v. CITY OF MARION, INDIANA, ET AL" gram_type="apposition" relation_type="asymmetric" id="132091_10" ></RELATION>
+
+<RELATION theme="132091_3" party1="132091_4" party1_string="WINDLE" theme_string="WINDLE v. CITY OF MARION, INDIANA, ET AL" gram_type="infix" relation_type="asymmetric" id="132091_8" ></RELATION>
+
+<RELATION party2="132091_5" theme="132091_3" theme_string="WINDLE v. CITY OF MARION, INDIANA, ET AL" party2_string="CITY OF MARION, INDIANA, ET AL" gram_type="infix" relation_type="asymmetric" id="132091_9" ></RELATION>
+

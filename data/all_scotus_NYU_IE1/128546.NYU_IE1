@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['moorehome#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_950" id1="128548" volume="538" start="0" page_number="950" standard_reporter="U.S." citation_global_level_id="1245.002" line="1" id="128546_1" citation_local_level_id="0" >538 U.S. 950</CITATION>
+
+<CITATION party2="RICHMOND NURSING HOME ET AL" party1="MOORE" citation_global_level_id="50907.001" party2_short="HOME" line="1" id="128546_3" alternative_keys="['u.s._538_950']" end="53" entry_type="party_key" lookup_key="moorehome#1" id1="128546" start="17" party1_short="MOORE" citation_local_level_id="1" >MOORE v. RICHMOND NURSING HOME ET AL</CITATION>
+
+<NAME end="22" start="17" party1_of="128546_3" all_names="MOORE" local_name_id="1" id="128546_4" >MOORE</NAME>
+
+<NAME end="53" start="26" all_names="RICHMOND NURSING HOME" party2_of="128546_3" local_name_id="2" id="128546_5" >RICHMOND NURSING HOME ET AL</NAME>
+
+<DOCKET end="70" entry_type="docket" lookup_key="u.s._538_950" id1="128548" start="63" citation_global_level_id="1245.002" line="1" id="128546_2" citation_local_level_id="0" >02-8742</DOCKET>
+
+<DATE start="112" end="126" id="128546_6" >March 31, 2003</DATE>
+
+<NAME start="256" local_name_id="3" end="259" id="128546_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="128546_1" includes_docket_string="02-8742" includes_docket="128546_2" theme_string="538 U.S. 950" gram_type="apposition" relation_type="asymmetric" id="128546_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 950" X_vs_Y_string="MOORE v. RICHMOND NURSING HOME ET AL" standard_case="128546_1" X_vs_Y="128546_3" gram_type="pre_nom" relation_type="equivalence" id="128546_7" ></RELATION>
+
+<RELATION theme="128546_3" includes_docket_string="02-8742" includes_docket="128546_2" theme_string="MOORE v. RICHMOND NURSING HOME ET AL" gram_type="apposition" relation_type="asymmetric" id="128546_10" ></RELATION>
+
+<RELATION theme="128546_3" party1="128546_4" party1_string="MOORE" theme_string="MOORE v. RICHMOND NURSING HOME ET AL" gram_type="infix" relation_type="asymmetric" id="128546_8" ></RELATION>
+
+<RELATION party2="128546_5" theme="128546_3" theme_string="MOORE v. RICHMOND NURSING HOME ET AL" party2_string="RICHMOND NURSING HOME ET AL" gram_type="infix" relation_type="asymmetric" id="128546_9" ></RELATION>
+

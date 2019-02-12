@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['pecktegtmeyer#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1074" id1="116390" volume="510" start="0" page_number="1074" standard_reporter="U.S." citation_global_level_id="808.002" line="1" id="116388_1" citation_local_level_id="0" >510 U.S. 1074</CITATION>
+
+<CITATION party2="Tegtmeyer" party1="Peck" citation_global_level_id="35925.001" party2_short="Tegtmeyer" line="1" id="116388_3" alternative_keys="['u.s._510_1074']" end="35" entry_type="party_key" lookup_key="pecktegtmeyer#1" id1="116388" start="18" party1_short="Peck" citation_local_level_id="1" >Peck v. Tegtmeyer</CITATION>
+
+<NAME end="22" start="18" party1_of="116388_3" all_names="PECK" local_name_id="1" id="116388_4" >Peck</NAME>
+
+<NAME end="35" start="26" all_names="TEGTMEYER" party2_of="116388_3" local_name_id="2" id="116388_5" >Tegtmeyer</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="u.s._510_1074" id1="116390" start="45" citation_global_level_id="808.002" line="1" id="116388_2" citation_local_level_id="0" >93-884</DOCKET>
+
+<DATE start="93" end="109" id="116388_6" >January 18, 1994</DATE>
+
+<NAME start="187" local_name_id="3" end="197" id="116388_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="233" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_4_985" id1="Dummy_File_36515" volume="4" start="222" page_number="985" standard_reporter="F.3D" citation_global_level_id="100365.001" line="3" id="116388_12" citation_local_level_id="2" >4 F. 3d 985</CITATION>
+
+<RELATION theme="116388_1" includes_docket_string="93-884" includes_docket="116388_2" theme_string="510 U.S. 1074" gram_type="apposition" relation_type="asymmetric" id="116388_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1074" X_vs_Y_string="Peck v. Tegtmeyer" standard_case="116388_1" X_vs_Y="116388_3" gram_type="pre_nom" relation_type="equivalence" id="116388_7" ></RELATION>
+
+<RELATION theme="116388_3" includes_docket_string="93-884" includes_docket="116388_2" theme_string="Peck v. Tegtmeyer" gram_type="apposition" relation_type="asymmetric" id="116388_10" ></RELATION>
+
+<RELATION theme="116388_3" party1="116388_4" party1_string="Peck" theme_string="Peck v. Tegtmeyer" gram_type="infix" relation_type="asymmetric" id="116388_8" ></RELATION>
+
+<RELATION party2="116388_5" theme="116388_3" theme_string="Peck v. Tegtmeyer" party2_string="Tegtmeyer" gram_type="infix" relation_type="asymmetric" id="116388_9" ></RELATION>
+

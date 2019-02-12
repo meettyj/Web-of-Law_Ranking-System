@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['etstates#8']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_874" id1="132107" volume="540" start="0" page_number="874" standard_reporter="U.S." citation_global_level_id="9071.002" line="1" id="132107_1" citation_local_level_id="0" >540 U.S. 874</CITATION>
+
+<CITATION party2="UNITED STATES" party1="ET AL." citation_global_level_id="26792.004" party2_short="STATES" line="1" id="132107_3" alternative_keys="['l.ed._23_420', 'u.s._91_536']" end="49" entry_type="party_key" lookup_key="etstates#8" id1="89211" start="26" party1_short="ET" citation_local_level_id="1" >ET AL. v. UNITED STATES</CITATION>
+
+<NAME end="32" start="26" party1_of="132107_3" all_names="" local_name_id="1" id="132107_4" >ET AL.</NAME>
+
+<NAME end="49" start="36" all_names="UNITED STATES" party2_of="132107_3" local_name_id="2" id="132107_5" >UNITED STATES</NAME>
+
+<DOCKET end="64" entry_type="docket" lookup_key="u.s._540_874" id1="132107" start="59" citation_global_level_id="9071.002" line="1" id="132107_2" citation_local_level_id="0" >03-38</DOCKET>
+
+<ORGANIZATION start="70" end="100" id="132107_7" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="106" end="121" id="132107_6" >October 6, 2003</DATE>
+
+<NAME start="143" local_name_id="3" end="160" id="132107_8" all_names="APPEAL FROM THE C" >Appeal from the C</NAME>
+
+<NAME start="170" local_name_id="4" end="173" id="132107_9" all_names="CIR" >Cir</NAME>
+
+<NAME start="200" local_name_id="5" end="210" id="132107_16" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="248" reporter="F.3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_321_1024" id1="Dummy_File_149607" volume="321" start="235" page_number="1024" standard_reporter="F.3D" citation_global_level_id="213457.001" line="3" id="132107_15" citation_local_level_id="2" >321 F.3d 1024</CITATION>
+
+<RELATION theme="132107_1" includes_docket_string="03-38" includes_docket="132107_2" theme_string="540 U.S. 874" gram_type="apposition" relation_type="asymmetric" id="132107_14" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 874" X_vs_Y_string="ET AL. v. UNITED STATES" standard_case="132107_1" X_vs_Y="132107_3" gram_type="pre_nom" relation_type="equivalence" id="132107_10" ></RELATION>
+
+<RELATION theme="132107_3" includes_docket_string="03-38" includes_docket="132107_2" theme_string="ET AL. v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="132107_13" ></RELATION>
+
+<RELATION theme="132107_3" party1="132107_4" party1_string="ET AL." theme_string="ET AL. v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="132107_11" ></RELATION>
+
+<RELATION party2="132107_5" theme="132107_3" theme_string="ET AL. v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="132107_12" ></RELATION>
+

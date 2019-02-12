@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['eurygoins#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_902" id1="127937" volume="538" start="0" page_number="902" standard_reporter="U.S." citation_global_level_id="2382.002" line="1" id="127941_1" citation_local_level_id="0" >538 U.S. 902</CITATION>
+
+<CITATION party2="GOINS ET AL" party1="EURY" citation_global_level_id="7118.001" party2_short="GOINS" line="1" id="127941_3" alternative_keys="['u.s._538_902']" end="36" entry_type="party_key" lookup_key="eurygoins#1" id1="127941" start="17" party1_short="EURY" citation_local_level_id="1" >EURY v. GOINS ET AL</CITATION>
+
+<NAME end="21" start="17" party1_of="127941_3" all_names="EURY" local_name_id="1" id="127941_4" >EURY</NAME>
+
+<NAME end="36" start="25" all_names="GOINS" party2_of="127941_3" local_name_id="2" id="127941_5" >GOINS ET AL</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="u.s._538_902" id1="127937" start="46" citation_global_level_id="2382.002" line="1" id="127941_2" citation_local_level_id="0" >02-8417</DOCKET>
+
+<DATE start="95" end="109" id="127941_6" >March 10, 2003</DATE>
+
+<NAME start="239" local_name_id="3" end="242" id="127941_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="127941_1" includes_docket_string="02-8417" includes_docket="127941_2" theme_string="538 U.S. 902" gram_type="apposition" relation_type="asymmetric" id="127941_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 902" X_vs_Y_string="EURY v. GOINS ET AL" standard_case="127941_1" X_vs_Y="127941_3" gram_type="pre_nom" relation_type="equivalence" id="127941_7" ></RELATION>
+
+<RELATION theme="127941_3" includes_docket_string="02-8417" includes_docket="127941_2" theme_string="EURY v. GOINS ET AL" gram_type="apposition" relation_type="asymmetric" id="127941_10" ></RELATION>
+
+<RELATION theme="127941_3" party1="127941_4" party1_string="EURY" theme_string="EURY v. GOINS ET AL" gram_type="infix" relation_type="asymmetric" id="127941_8" ></RELATION>
+
+<RELATION party2="127941_5" theme="127941_3" theme_string="EURY v. GOINS ET AL" party2_string="GOINS ET AL" gram_type="infix" relation_type="asymmetric" id="127941_9" ></RELATION>
+

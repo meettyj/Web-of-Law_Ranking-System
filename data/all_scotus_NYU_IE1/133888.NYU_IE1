@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['technologiesrumsfeld#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_1012" id1="133889" volume="540" start="0" page_number="1012" standard_reporter="U.S." citation_global_level_id="163.002" line="1" id="133888_1" citation_local_level_id="0" >540 U.S. 1012</CITATION>
+
+<CITATION party2="RUMSFELD, SECRETARY OF DEFENSE" party1="UNITED TECHNOLOGIES CORP., PRATT &amp; WHITNEY" citation_global_level_id="163.003" party2_short="RUMSFELD" line="1" id="133888_3" alternative_keys="['u.s._540_1012']" end="94" entry_type="party_key" lookup_key="technologiesrumsfeld#2" id1="133889" start="18" party1_short="TECHNOLOGIES" citation_local_level_id="1" >UNITED TECHNOLOGIES CORP., PRATT &amp; WHITNEY v. RUMSFELD, SECRETARY OF DEFENSE</CITATION>
+
+<NAME end="60" start="18" party1_of="133888_3" all_names="UNITED TECHNOLOGIES CORP PRATT &amp; WHITNEY" local_name_id="1" id="133888_4" >UNITED TECHNOLOGIES CORP., PRATT &amp; WHITNEY</NAME>
+
+<ORGANIZATION start="18" end="42" id="133888_7" >UNITED TECHNOLOGIES CORP</ORGANIZATION>
+
+<NAME end="94" start="64" all_names="RUMSFELD SECRETARY OF DEFENSE" party2_of="133888_3" local_name_id="2" id="133888_5" >RUMSFELD, SECRETARY OF DEFENSE</NAME>
+
+<DOCKET end="110" entry_type="docket" lookup_key="u.s._540_1012" id1="133889" start="104" citation_global_level_id="163.002" line="1" id="133888_2" citation_local_level_id="0" >03-128</DOCKET>
+
+<DATE start="152" end="169" id="133888_6" >November 10, 2003</DATE>
+
+<NAME start="248" local_name_id="3" end="258" id="133888_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="376" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_315_1361" id1="Dummy_File_34610" volume="315" start="362" page_number="1361" standard_reporter="F.3D" citation_global_level_id="98460.001" line="3" id="133888_13" citation_local_level_id="2" >315 F. 3d 1361</CITATION>
+
+<RELATION theme="133888_1" includes_docket_string="03-128" includes_docket="133888_2" theme_string="540 U.S. 1012" gram_type="apposition" relation_type="asymmetric" id="133888_12" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 1012" X_vs_Y_string="UNITED TECHNOLOGIES CORP., PRATT &amp; WHITNEY v. RUMSFELD, SECRETARY OF DEFENSE" standard_case="133888_1" X_vs_Y="133888_3" gram_type="pre_nom" relation_type="equivalence" id="133888_8" ></RELATION>
+
+<RELATION theme="133888_3" includes_docket_string="03-128" includes_docket="133888_2" theme_string="UNITED TECHNOLOGIES CORP., PRATT &amp; WHITNEY v. RUMSFELD, SECRETARY OF DEFENSE" gram_type="apposition" relation_type="asymmetric" id="133888_11" ></RELATION>
+
+<RELATION party2="133888_5" theme="133888_3" theme_string="UNITED TECHNOLOGIES CORP., PRATT &amp; WHITNEY v. RUMSFELD, SECRETARY OF DEFENSE" party2_string="RUMSFELD, SECRETARY OF DEFENSE" gram_type="infix" relation_type="asymmetric" id="133888_10" ></RELATION>
+
+<RELATION theme="133888_3" party1="133888_4" party1_string="UNITED TECHNOLOGIES CORP., PRATT &amp; WHITNEY" theme_string="UNITED TECHNOLOGIES CORP., PRATT &amp; WHITNEY v. RUMSFELD, SECRETARY OF DEFENSE" gram_type="infix" relation_type="asymmetric" id="133888_9" ></RELATION>
+

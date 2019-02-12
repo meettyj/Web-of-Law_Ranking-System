@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['traineret#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1062" id1="130017" volume="538" start="0" page_number="1062" standard_reporter="U.S." citation_global_level_id="5728.002" line="1" id="130020_1" citation_local_level_id="0" >538 U.S. 1062</CITATION>
+
+<CITATION party2="BROWN ET AL" party1="TRAINER" citation_global_level_id="5728.006" party2_short="ET" line="1" id="130020_3" alternative_keys="['u.s._538_1062']" end="40" entry_type="party_key" lookup_key="traineret#1" id1="130017" start="18" party1_short="TRAINER" citation_local_level_id="1" >TRAINER v. BROWN ET AL</CITATION>
+
+<NAME end="25" start="18" party1_of="130020_3" all_names="TRAINER" local_name_id="1" id="130020_4" >TRAINER</NAME>
+
+<NAME end="40" start="29" all_names="BROWN" party2_of="130020_3" local_name_id="2" id="130020_5" >BROWN ET AL</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._538_1062" id1="130017" start="50" citation_global_level_id="5728.002" line="1" id="130020_2" citation_local_level_id="0" >02-9818</DOCKET>
+
+<DATE start="99" end="111" id="130020_6" >May 27, 2003</DATE>
+
+<NAME start="244" local_name_id="3" end="247" id="130020_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="130020_1" includes_docket_string="02-9818" includes_docket="130020_2" theme_string="538 U.S. 1062" gram_type="apposition" relation_type="asymmetric" id="130020_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1062" X_vs_Y_string="TRAINER v. BROWN ET AL" standard_case="130020_1" X_vs_Y="130020_3" gram_type="pre_nom" relation_type="equivalence" id="130020_7" ></RELATION>
+
+<RELATION theme="130020_3" includes_docket_string="02-9818" includes_docket="130020_2" theme_string="TRAINER v. BROWN ET AL" gram_type="apposition" relation_type="asymmetric" id="130020_10" ></RELATION>
+
+<RELATION theme="130020_3" party1="130020_4" party1_string="TRAINER" theme_string="TRAINER v. BROWN ET AL" gram_type="infix" relation_type="asymmetric" id="130020_8" ></RELATION>
+
+<RELATION party2="130020_5" theme="130020_3" theme_string="TRAINER v. BROWN ET AL" party2_string="BROWN ET AL" gram_type="infix" relation_type="asymmetric" id="130020_9" ></RELATION>
+

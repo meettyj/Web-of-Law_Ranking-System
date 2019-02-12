@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['colesjohnson#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1040" id1="140850" volume="543" start="0" page_number="1040" standard_reporter="U.S." citation_global_level_id="6379.002" line="1" id="140849_1" citation_local_level_id="0" >543 U.S. 1040</CITATION>
+
+<CITATION party2="JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" party1="COLES" citation_global_level_id="100.006" party2_short="JOHNSON" line="2" id="140849_3" alternative_keys="['u.s._543_881']" end="80" entry_type="party_key" lookup_key="colesjohnson#1" id1="138801" start="18" party1_short="COLES" citation_local_level_id="1" >COLES v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS</CITATION>
+
+<NAME end="23" start="18" party1_of="140849_3" all_names="COLES" local_name_id="1" id="140849_4" >COLES</NAME>
+
+<NAME end="80" start="27" all_names="JOHNSON DIRECTOR VIRGINIA DEPARTMENT OF CORRECTIONS" party2_of="140849_3" local_name_id="2" id="140849_5" >JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS</NAME>
+
+<DOCKET alternative_keys="['u.s._543_881']" end="97" entry_type="docket" lookup_key="colesjohnson#1" id1="138801" start="90" citation_global_level_id="100.006" line="2" id="140849_2" citation_local_level_id="1" >04-5082</DOCKET>
+
+<ORGANIZATION start="103" end="133" id="140849_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="139" citation_global_level_id="100.006" end="156" id="140849_10" citation_local_level_id="1" >December 13, 2004</DATE>
+
+<NAME start="192" local_name_id="3" end="201" id="140849_13" all_names="PETITIONS" >Petitions</NAME>
+
+<RELATION theme="140849_3" includes_docket_string="04-5082" includes_docket="140849_2" theme_string="COLES v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" gram_type="apposition" relation_type="asymmetric" id="140849_8" ></RELATION>
+
+<RELATION theme="140849_3" party1="140849_4" party1_string="COLES" theme_string="COLES v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" gram_type="infix" relation_type="asymmetric" id="140849_6" ></RELATION>
+
+<RELATION party2="140849_5" theme="140849_3" theme_string="COLES v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" party2_string="JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" gram_type="infix" relation_type="asymmetric" id="140849_7" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1040" X_vs_Y_string="COLES v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" standard_case="140849_1" X_vs_Y="140849_3" gram_type="multi_line" relation_type="equivalence" id="140849_11" ></RELATION>
+
+<RELATION at_date_string="December 13, 2004" theme="140849_3" at_date="140849_10" theme_string="COLES v. JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS" gram_type="multi_line" relation_type="asymmetric" id="140849_12" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['pulfordcalifornia#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_929" id1="143276" volume="544" start="0" page_number="929" standard_reporter="U.S." citation_global_level_id="3424.002" line="1" id="143277_1" citation_local_level_id="0" >544 U.S. 929</CITATION>
+
+<CITATION party2="CALIFORNIA" party1="PULFORD" citation_global_level_id="37918.001" party2_short="CALIFORNIA" line="2" id="143277_2" alternative_keys="['u.s._544_929']" end="38" entry_type="party_key" lookup_key="pulfordcalifornia#1" id1="143277" start="17" party1_short="PULFORD" citation_local_level_id="1" >PULFORD v. CALIFORNIA</CITATION>
+
+<NAME end="24" start="17" party1_of="143277_2" all_names="PULFORD" local_name_id="1" id="143277_3" >PULFORD</NAME>
+
+<NAME end="38" start="28" all_names="CALIFORNIA" party2_of="143277_2" local_name_id="2" id="143277_4" >CALIFORNIA</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="pulfordcalifornia#1" id1="143277" start="48" citation_global_level_id="37918.001" line="3" id="143277_7" citation_local_level_id="1" >04-8258</DOCKET>
+
+<ORGANIZATION start="61" end="91" id="143277_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="97" citation_global_level_id="37918.001" end="111" id="143277_9" citation_local_level_id="1" >March 21, 2005</DATE>
+
+<NAME start="133" local_name_id="3" end="135" id="143277_13" all_names="CT" >Ct</NAME>
+
+<RELATION theme="143277_2" party1="143277_3" party1_string="PULFORD" theme_string="PULFORD v. CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="143277_5" ></RELATION>
+
+<RELATION party2="143277_4" theme="143277_2" theme_string="PULFORD v. CALIFORNIA" party2_string="CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="143277_6" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 929" X_vs_Y_string="PULFORD v. CALIFORNIA" standard_case="143277_1" X_vs_Y="143277_2" gram_type="multi_line" relation_type="equivalence" id="143277_10" ></RELATION>
+
+<RELATION at_date_string="March 21, 2005" theme="143277_2" at_date="143277_9" theme_string="PULFORD v. CALIFORNIA" gram_type="multi_line" relation_type="asymmetric" id="143277_12" ></RELATION>
+
+<RELATION theme="143277_2" includes_docket_string="04-8258" includes_docket="143277_7" theme_string="PULFORD v. CALIFORNIA" gram_type="multi_line" relation_type="asymmetric" id="143277_11" ></RELATION>
+

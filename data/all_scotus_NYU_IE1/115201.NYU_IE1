@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['henrypaper#3']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_981" id1="115197" volume="510" start="0" page_number="981" standard_reporter="U.S." citation_global_level_id="1309.002" line="1" id="115201_1" citation_local_level_id="0" >510 U.S. 981</CITATION>
+
+<CITATION party2="Gulfport Paper Co., Inc" party1="Henry" citation_global_level_id="1309.004" party2_short="Paper" line="1" id="115201_3" alternative_keys="['u.s._510_981']" end="49" entry_type="party_key" lookup_key="henrypaper#3" id1="115197" start="17" party1_short="Henry" citation_local_level_id="1" >Henry v. Gulfport Paper Co., Inc</CITATION>
+
+<NAME end="22" start="17" party1_of="115201_3" all_names="HENRY" local_name_id="1" id="115201_4" >Henry</NAME>
+
+<NAME end="49" start="26" all_names="GULFPORT PAPER CO INC" party2_of="115201_3" local_name_id="2" id="115201_5" >Gulfport Paper Co., Inc</NAME>
+
+<DOCKET end="66" entry_type="docket" lookup_key="u.s._510_981" id1="115197" start="59" citation_global_level_id="1309.002" line="1" id="115201_2" citation_local_level_id="0" >93-6151</DOCKET>
+
+<DATE start="108" end="125" id="115201_6" >November 15, 1993</DATE>
+
+<NAME start="203" local_name_id="3" end="213" id="115201_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="252" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_998_1013" id1="Dummy_File_92890" volume="998" start="238" page_number="1013" standard_reporter="F.2D" citation_global_level_id="156740.001" line="3" id="115201_12" citation_local_level_id="2" >998 F. 2d 1013</CITATION>
+
+<RELATION theme="115201_1" includes_docket_string="93-6151" includes_docket="115201_2" theme_string="510 U.S. 981" gram_type="apposition" relation_type="asymmetric" id="115201_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 981" X_vs_Y_string="Henry v. Gulfport Paper Co., Inc" standard_case="115201_1" X_vs_Y="115201_3" gram_type="pre_nom" relation_type="equivalence" id="115201_7" ></RELATION>
+
+<RELATION theme="115201_3" includes_docket_string="93-6151" includes_docket="115201_2" theme_string="Henry v. Gulfport Paper Co., Inc" gram_type="apposition" relation_type="asymmetric" id="115201_10" ></RELATION>
+
+<RELATION theme="115201_3" party1="115201_4" party1_string="Henry" theme_string="Henry v. Gulfport Paper Co., Inc" gram_type="infix" relation_type="asymmetric" id="115201_8" ></RELATION>
+
+<RELATION party2="115201_5" theme="115201_3" theme_string="Henry v. Gulfport Paper Co., Inc" party2_string="Gulfport Paper Co., Inc" gram_type="infix" relation_type="asymmetric" id="115201_9" ></RELATION>
+

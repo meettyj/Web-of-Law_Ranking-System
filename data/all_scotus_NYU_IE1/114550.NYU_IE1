@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['murphyvirginia#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_928" id1="114541" volume="510" start="0" page_number="928" standard_reporter="U.S." citation_global_level_id="1983.002" line="1" id="114550_1" citation_local_level_id="0" >510 U.S. 928</CITATION>
+
+<CITATION party2="Virginia" party1="Murphy" citation_global_level_id="10885.001" party2_short="Virginia" line="1" id="114550_3" alternative_keys="['u.s._510_928']" end="35" entry_type="party_key" lookup_key="murphyvirginia#1" id1="114550" start="17" party1_short="Murphy" citation_local_level_id="1" >Murphy v. Virginia</CITATION>
+
+<NAME end="23" start="17" party1_of="114550_3" all_names="MURPHY" local_name_id="1" id="114550_4" >Murphy</NAME>
+
+<NAME end="35" start="27" all_names="VIRGINIA" party2_of="114550_3" local_name_id="2" id="114550_5" >Virginia</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="u.s._510_928" id1="114541" start="45" citation_global_level_id="1983.002" line="1" id="114550_2" citation_local_level_id="0" >93-5931</DOCKET>
+
+<DATE start="94" end="110" id="114550_6" >October 12, 1993</DATE>
+
+<NAME start="186" local_name_id="3" end="196" id="114550_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="232" reporter="Va." entry_type="standard_key" no_current_file="True" lookup_key="va._246_136" id1="Dummy_File_119694" volume="246" start="221" page_number="136" standard_reporter="VA." citation_global_level_id="183544.001" line="3" id="114550_12" citation_local_level_id="2" >246 Va. 136</CITATION>
+
+<CITATION end="249" reporter="S. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="s.e.2d_431_48" id1="Dummy_File_119695" volume="431" start="234" page_number="48" standard_reporter="S.E.2D" citation_global_level_id="183545.001" line="3" id="114550_13" citation_local_level_id="3" >431 S. E. 2d 48</CITATION>
+
+<RELATION theme="114550_1" includes_docket_string="93-5931" includes_docket="114550_2" theme_string="510 U.S. 928" gram_type="apposition" relation_type="asymmetric" id="114550_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 928" X_vs_Y_string="Murphy v. Virginia" standard_case="114550_1" X_vs_Y="114550_3" gram_type="pre_nom" relation_type="equivalence" id="114550_7" ></RELATION>
+
+<RELATION theme="114550_3" includes_docket_string="93-5931" includes_docket="114550_2" theme_string="Murphy v. Virginia" gram_type="apposition" relation_type="asymmetric" id="114550_10" ></RELATION>
+
+<RELATION theme="114550_3" party1="114550_4" party1_string="Murphy" theme_string="Murphy v. Virginia" gram_type="infix" relation_type="asymmetric" id="114550_8" ></RELATION>
+
+<RELATION party2="114550_5" theme="114550_3" theme_string="Murphy v. Virginia" party2_string="Virginia" gram_type="infix" relation_type="asymmetric" id="114550_9" ></RELATION>
+

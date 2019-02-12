@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['stovallstates#3']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_976" id1="133440" volume="540" start="0" page_number="976" standard_reporter="U.S." citation_global_level_id="6186.002" line="1" id="133448_1" citation_local_level_id="0" >540 U.S. 976</CITATION>
+
+<CITATION party2="UNITED STATES" party1="STOVALL" citation_global_level_id="48415.001" party2_short="STATES" line="1" id="133448_3" alternative_keys="['u.s._540_976']" end="41" entry_type="party_key" lookup_key="stovallstates#3" id1="115073" start="17" party1_short="STOVALL" citation_local_level_id="1" >STOVALL v. UNITED STATES</CITATION>
+
+<NAME end="24" start="17" party1_of="133448_3" all_names="STOVALL" local_name_id="1" id="133448_4" >STOVALL</NAME>
+
+<NAME end="41" start="28" all_names="UNITED STATES" party2_of="133448_3" local_name_id="2" id="133448_5" >UNITED STATES</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._540_976" id1="133440" start="51" citation_global_level_id="6186.002" line="1" id="133448_2" citation_local_level_id="0" >03-6393</DOCKET>
+
+<DATE start="100" end="116" id="133448_6" >October 20, 2003</DATE>
+
+<NAME start="194" local_name_id="3" end="204" id="133448_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="242" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_337_570" id1="Dummy_File_135540" volume="337" start="229" page_number="570" standard_reporter="F.3D" citation_global_level_id="199390.001" line="3" id="133448_12" citation_local_level_id="2" >337 F. 3d 570</CITATION>
+
+<RELATION theme="133448_1" includes_docket_string="03-6393" includes_docket="133448_2" theme_string="540 U.S. 976" gram_type="apposition" relation_type="asymmetric" id="133448_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 976" X_vs_Y_string="STOVALL v. UNITED STATES" standard_case="133448_1" X_vs_Y="133448_3" gram_type="pre_nom" relation_type="equivalence" id="133448_7" ></RELATION>
+
+<RELATION theme="133448_3" includes_docket_string="03-6393" includes_docket="133448_2" theme_string="STOVALL v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="133448_10" ></RELATION>
+
+<RELATION theme="133448_3" party1="133448_4" party1_string="STOVALL" theme_string="STOVALL v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="133448_8" ></RELATION>
+
+<RELATION party2="133448_5" theme="133448_3" theme_string="STOVALL v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="133448_9" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['grimflorida#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_892" id1="132355" volume="540" start="0" page_number="892" standard_reporter="U.S." citation_global_level_id="7733.002" line="1" id="132358_1" citation_local_level_id="0" >540 U.S. 892</CITATION>
+
+<CITATION party2="FLORIDA" party1="GRIM" citation_global_level_id="8538.001" party2_short="FLORIDA" line="1" id="132358_3" alternative_keys="['u.s._540_892']" end="32" entry_type="party_key" lookup_key="grimflorida#1" id1="132358" start="17" party1_short="GRIM" citation_local_level_id="1" >GRIM v. FLORIDA</CITATION>
+
+<NAME end="21" start="17" party1_of="132358_3" all_names="GRIM" local_name_id="1" id="132358_4" >GRIM</NAME>
+
+<NAME end="32" start="25" all_names="FLORIDA" party2_of="132358_3" local_name_id="2" id="132358_5" >FLORIDA</NAME>
+
+<DOCKET end="49" entry_type="docket" lookup_key="u.s._540_892" id1="132355" start="42" citation_global_level_id="7733.002" line="1" id="132358_2" citation_local_level_id="0" >03-5160</DOCKET>
+
+<DATE start="91" end="106" id="132358_6" >October 6, 2003</DATE>
+
+<NAME start="183" local_name_id="3" end="193" id="132358_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="232" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_841_455" id1="Dummy_File_118199" volume="841" start="218" page_number="455" standard_reporter="SO.2D" citation_global_level_id="182049.001" line="3" id="132358_12" citation_local_level_id="2" >841 So. 2d 455</CITATION>
+
+<RELATION theme="132358_1" includes_docket_string="03-5160" includes_docket="132358_2" theme_string="540 U.S. 892" gram_type="apposition" relation_type="asymmetric" id="132358_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 892" X_vs_Y_string="GRIM v. FLORIDA" standard_case="132358_1" X_vs_Y="132358_3" gram_type="pre_nom" relation_type="equivalence" id="132358_7" ></RELATION>
+
+<RELATION theme="132358_3" includes_docket_string="03-5160" includes_docket="132358_2" theme_string="GRIM v. FLORIDA" gram_type="apposition" relation_type="asymmetric" id="132358_10" ></RELATION>
+
+<RELATION theme="132358_3" party1="132358_4" party1_string="GRIM" theme_string="GRIM v. FLORIDA" gram_type="infix" relation_type="asymmetric" id="132358_8" ></RELATION>
+
+<RELATION party2="132358_5" theme="132358_3" theme_string="GRIM v. FLORIDA" party2_string="FLORIDA" gram_type="infix" relation_type="asymmetric" id="132358_9" ></RELATION>
+

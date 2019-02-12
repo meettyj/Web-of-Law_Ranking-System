@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['tschuppdepartment#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1053" id1="116093" volume="510" start="0" page_number="1053" standard_reporter="U.S." citation_global_level_id="5816.002" line="1" id="116104_1" citation_local_level_id="0" >510 U.S. 1053</CITATION>
+
+<CITATION party2="Department of the Treasury" party1="Tschupp" citation_global_level_id="18371.001" party2_short="Department" line="1" id="116104_3" alternative_keys="['u.s._510_1053']" end="55" entry_type="party_key" lookup_key="tschuppdepartment#1" id1="116104" start="18" party1_short="Tschupp" citation_local_level_id="1" >Tschupp v. Department of the Treasury</CITATION>
+
+<NAME end="25" start="18" party1_of="116104_3" all_names="TSCHUPP" local_name_id="1" id="116104_4" >Tschupp</NAME>
+
+<NAME end="55" start="29" all_names="DEPARTMENT OF THE TREASURY" party2_of="116104_3" local_name_id="2" id="116104_5" >Department of the Treasury</NAME>
+
+<DOCKET end="72" entry_type="docket" lookup_key="u.s._510_1053" id1="116093" start="65" citation_global_level_id="5816.002" line="1" id="116104_2" citation_local_level_id="0" >93-6597</DOCKET>
+
+<DATE start="114" end="130" id="116104_6" >January 10, 1994</DATE>
+
+<NAME start="209" local_name_id="3" end="219" id="116104_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="116104_1" includes_docket_string="93-6597" includes_docket="116104_2" theme_string="510 U.S. 1053" gram_type="apposition" relation_type="asymmetric" id="116104_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1053" X_vs_Y_string="Tschupp v. Department of the Treasury" standard_case="116104_1" X_vs_Y="116104_3" gram_type="pre_nom" relation_type="equivalence" id="116104_7" ></RELATION>
+
+<RELATION theme="116104_3" includes_docket_string="93-6597" includes_docket="116104_2" theme_string="Tschupp v. Department of the Treasury" gram_type="apposition" relation_type="asymmetric" id="116104_10" ></RELATION>
+
+<RELATION theme="116104_3" party1="116104_4" party1_string="Tschupp" theme_string="Tschupp v. Department of the Treasury" gram_type="infix" relation_type="asymmetric" id="116104_8" ></RELATION>
+
+<RELATION party2="116104_5" theme="116104_3" theme_string="Tschupp v. Department of the Treasury" party2_string="Department of the Treasury" gram_type="infix" relation_type="asymmetric" id="116104_9" ></RELATION>
+

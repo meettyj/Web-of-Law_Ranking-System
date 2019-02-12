@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['mortonyork#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_860" id1="123006" volume="537" start="0" page_number="860" standard_reporter="U.S." citation_global_level_id="2773.002" line="1" id="123001_1" citation_local_level_id="0" >537 U.S. 860</CITATION>
+
+<CITATION party2="NEW YORK" party1="MORTON" citation_global_level_id="45683.001" party2_short="YORK" line="1" id="123001_3" alternative_keys="['u.s._537_860']" end="35" entry_type="party_key" lookup_key="mortonyork#1" id1="123001" start="17" party1_short="MORTON" citation_local_level_id="1" >MORTON v. NEW YORK</CITATION>
+
+<NAME end="23" start="17" party1_of="123001_3" all_names="MORTON" local_name_id="1" id="123001_4" >MORTON</NAME>
+
+<NAME end="35" start="27" all_names="NEW YORK" party2_of="123001_3" local_name_id="2" id="123001_5" >NEW YORK</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="u.s._537_860" id1="123006" start="45" citation_global_level_id="2773.002" line="1" id="123001_2" citation_local_level_id="0" >01-10735</DOCKET>
+
+<DATE start="95" end="110" id="123001_6" >October 7, 2002</DATE>
+
+<NAME start="249" local_name_id="3" end="252" id="123001_13" all_names="APP" >App</NAME>
+
+<CITATION end="366" reporter="N. Y. S. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.y.s.2d_734_249" id1="Dummy_File_85692" volume="734" start="347" page_number="249" standard_reporter="N.Y.S.2D" citation_global_level_id="149542.001" line="3" id="123001_12" citation_local_level_id="2" >734 N. Y. S. 2d 249</CITATION>
+
+<RELATION theme="123001_1" includes_docket_string="01-10735" includes_docket="123001_2" theme_string="537 U.S. 860" gram_type="apposition" relation_type="asymmetric" id="123001_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 860" X_vs_Y_string="MORTON v. NEW YORK" standard_case="123001_1" X_vs_Y="123001_3" gram_type="pre_nom" relation_type="equivalence" id="123001_7" ></RELATION>
+
+<RELATION theme="123001_3" includes_docket_string="01-10735" includes_docket="123001_2" theme_string="MORTON v. NEW YORK" gram_type="apposition" relation_type="asymmetric" id="123001_10" ></RELATION>
+
+<RELATION theme="123001_3" party1="123001_4" party1_string="MORTON" theme_string="MORTON v. NEW YORK" gram_type="infix" relation_type="asymmetric" id="123001_8" ></RELATION>
+
+<RELATION party2="123001_5" theme="123001_3" theme_string="MORTON v. NEW YORK" party2_string="NEW YORK" gram_type="infix" relation_type="asymmetric" id="123001_9" ></RELATION>
+

@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['hendrockgilbert#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_969" id1="135422" volume="541" start="0" page_number="969" standard_reporter="U.S." citation_global_level_id="12123.002" line="1" id="135419_1" citation_local_level_id="0" >541 U.S. 969</CITATION>
+
+<CITATION party2="GILBERT" party1="HENDROCK" citation_global_level_id="58125.001" party2_short="GILBERT" line="2" id="135419_2" alternative_keys="['u.s._541_969']" end="36" entry_type="party_key" lookup_key="hendrockgilbert#1" id1="135419" start="17" party1_short="HENDROCK" citation_local_level_id="1" >HENDROCK v. GILBERT</CITATION>
+
+<NAME end="25" start="17" party1_of="135419_2" all_names="HENDROCK" local_name_id="1" id="135419_3" >HENDROCK</NAME>
+
+<NAME end="36" start="29" all_names="GILBERT" party2_of="135419_2" local_name_id="2" id="135419_4" >GILBERT</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="hendrockgilbert#1" id1="135419" start="46" citation_global_level_id="58125.001" line="3" id="135419_7" citation_local_level_id="1" >03-7426</DOCKET>
+
+<ORGANIZATION start="59" end="89" id="135419_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="95" citation_global_level_id="58125.001" end="109" id="135419_9" citation_local_level_id="1" >March 29, 2004</DATE>
+
+<CITATION end="145" reporter="U. S." entry_type="standard_key" no_current_file="True" lookup_key="u.s._540_1152" id1="Dummy_File_35972" volume="540" start="131" page_number="1152" standard_reporter="U.S." citation_global_level_id="99822.001" line="8" id="135419_13" citation_local_level_id="2" >540 U. S. 1152</CITATION>
+
+<NAME start="147" local_name_id="3" end="156" id="135419_14" all_names="PETITIONS" >Petitions</NAME>
+
+<RELATION theme="135419_2" party1="135419_3" party1_string="HENDROCK" theme_string="HENDROCK v. GILBERT" gram_type="infix" relation_type="asymmetric" id="135419_5" ></RELATION>
+
+<RELATION party2="135419_4" theme="135419_2" theme_string="HENDROCK v. GILBERT" party2_string="GILBERT" gram_type="infix" relation_type="asymmetric" id="135419_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 969" X_vs_Y_string="HENDROCK v. GILBERT" standard_case="135419_1" X_vs_Y="135419_2" gram_type="multi_line" relation_type="equivalence" id="135419_10" ></RELATION>
+
+<RELATION at_date_string="March 29, 2004" theme="135419_2" at_date="135419_9" theme_string="HENDROCK v. GILBERT" gram_type="multi_line" relation_type="asymmetric" id="135419_12" ></RELATION>
+
+<RELATION theme="135419_2" includes_docket_string="03-7426" includes_docket="135419_7" theme_string="HENDROCK v. GILBERT" gram_type="multi_line" relation_type="asymmetric" id="135419_11" ></RELATION>
+

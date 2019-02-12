@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['companygas#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1042" id1="115951" volume="510" start="0" page_number="1042" standard_reporter="U.S." citation_global_level_id="3944.002" line="1" id="115950_1" citation_local_level_id="0" >510 U.S. 1042</CITATION>
+
+<CITATION party2="Southern Natural Gas Co. et al" party1="Gas Utilities Company of Alabama, Inc." citation_global_level_id="3944.008" party2_short="Gas" line="1" id="115950_3" alternative_keys="['u.s._510_1042']" end="90" entry_type="party_key" lookup_key="companygas#1" id1="115951" start="18" party1_short="Company" citation_local_level_id="1" >Gas Utilities Company of Alabama, Inc. v. Southern Natural Gas Co. et al</CITATION>
+
+<NAME end="56" start="18" party1_of="115950_3" all_names="GAS UTILITIES COMPANY OF ALABAMA INC" local_name_id="1" id="115950_4" >Gas Utilities Company of Alabama, Inc.</NAME>
+
+<ORGANIZATION start="18" end="50" id="115950_7" >Gas Utilities Company of Alabama</ORGANIZATION>
+
+<ORGANIZATION start="52" end="55" id="115950_8" >Inc</ORGANIZATION>
+
+<NAME end="90" start="60" all_names="SOUTHERN NATURAL GAS CO" party2_of="115950_3" local_name_id="2" id="115950_5" >Southern Natural Gas Co. et al</NAME>
+
+<DOCKET end="106" entry_type="docket" lookup_key="u.s._510_1042" id1="115951" start="100" citation_global_level_id="3944.002" line="1" id="115950_2" citation_local_level_id="0" >93-656</DOCKET>
+
+<DATE start="148" end="164" id="115950_6" >January 10, 1994</DATE>
+
+<NAME start="243" local_name_id="3" end="253" id="115950_15" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="291" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_996_282" id1="Dummy_File_225183" volume="996" start="278" page_number="282" standard_reporter="F.2D" citation_global_level_id="289033.001" line="3" id="115950_14" citation_local_level_id="2" >996 F. 2d 282</CITATION>
+
+<RELATION theme="115950_1" includes_docket_string="93-656" includes_docket="115950_2" theme_string="510 U.S. 1042" gram_type="apposition" relation_type="asymmetric" id="115950_13" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1042" X_vs_Y_string="Gas Utilities Company of Alabama, Inc. v. Southern Natural Gas Co. et al" standard_case="115950_1" X_vs_Y="115950_3" gram_type="pre_nom" relation_type="equivalence" id="115950_9" ></RELATION>
+
+<RELATION theme="115950_3" includes_docket_string="93-656" includes_docket="115950_2" theme_string="Gas Utilities Company of Alabama, Inc. v. Southern Natural Gas Co. et al" gram_type="apposition" relation_type="asymmetric" id="115950_12" ></RELATION>
+
+<RELATION theme="115950_3" party1="115950_4" party1_string="Gas Utilities Company of Alabama, Inc." theme_string="Gas Utilities Company of Alabama, Inc. v. Southern Natural Gas Co. et al" gram_type="infix" relation_type="asymmetric" id="115950_10" ></RELATION>
+
+<RELATION party2="115950_5" theme="115950_3" theme_string="Gas Utilities Company of Alabama, Inc. v. Southern Natural Gas Co. et al" party2_string="Southern Natural Gas Co. et al" gram_type="infix" relation_type="asymmetric" id="115950_11" ></RELATION>
+

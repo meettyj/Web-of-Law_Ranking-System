@@ -1,0 +1,44 @@
+<CITATION alternative_keys="['varacallistates#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_801" id1="137753" volume="543" start="0" page_number="801" standard_reporter="U.S." citation_global_level_id="3109.002" line="1" id="137752_1" citation_local_level_id="0" >543 U.S. 801</CITATION>
+
+<CITATION party2="UNITED STATES" party1="VARACALLI" citation_global_level_id="12705.001" party2_short="STATES" line="2" id="137752_2" alternative_keys="['u.s._543_801']" end="43" entry_type="party_key" lookup_key="varacallistates#1" id1="137752" start="17" party1_short="VARACALLI" citation_local_level_id="1" >VARACALLI v. UNITED STATES</CITATION>
+
+<NAME end="26" start="17" party1_of="137752_2" all_names="VARACALLI" local_name_id="1" id="137752_3" >VARACALLI</NAME>
+
+<NAME end="43" start="30" all_names="UNITED STATES" party2_of="137752_2" local_name_id="2" id="137752_4" >UNITED STATES</NAME>
+
+<DOCKET end="60" entry_type="docket" lookup_key="varacallistates#1" id1="137752" start="53" citation_global_level_id="12705.001" line="3" id="137752_7" citation_local_level_id="1" >03-9851</DOCKET>
+
+<ORGANIZATION start="66" end="96" id="137752_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="102" citation_global_level_id="12705.001" end="117" id="137752_9" citation_local_level_id="1" >October 4, 2004</DATE>
+
+<NAME start="147" local_name_id="3" end="150" id="137752_18" all_names="CIR" >Cir</NAME>
+
+<CITATION party2="Washington" party1="Crawford" citation_global_level_id="49280.001" party2_short="Washington" line="8" id="137752_14" alternative_keys="['u.s._541_36']" end="337" entry_type="party_key" lookup_key="crawfordwashington#5" id1="131211" start="315" party1_short="Crawford" citation_local_level_id="2" >Crawford v. Washington</CITATION>
+
+<NAME end="323" start="315" party1_of="137752_14" all_names="CRAWFORD" local_name_id="4" id="137752_15" >Crawford</NAME>
+
+<NAME end="337" start="327" all_names="WASHINGTON" party2_of="137752_14" local_name_id="5" id="137752_16" >Washington</NAME>
+
+<CITATION alternative_keys="['crawfordwashington#5']" end="357" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_36" id1="2959736" volume="541" start="339" page_number="36" year="2004" standard_reporter="U.S." citation_global_level_id="16143.002" line="8" id="137752_13" citation_local_level_id="3" >541 U.S. 36 (2004)</CITATION>
+
+<DATE start="352" citation_global_level_id="16143.002" end="356" id="137752_17" citation_local_level_id="3" >2004</DATE>
+
+<RELATION theme="137752_2" party1="137752_3" party1_string="VARACALLI" theme_string="VARACALLI v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="137752_5" ></RELATION>
+
+<RELATION party2="137752_4" theme="137752_2" theme_string="VARACALLI v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="137752_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 801" X_vs_Y_string="VARACALLI v. UNITED STATES" standard_case="137752_1" X_vs_Y="137752_2" gram_type="multi_line" relation_type="equivalence" id="137752_10" ></RELATION>
+
+<RELATION at_date_string="October 4, 2004" theme="137752_2" at_date="137752_9" theme_string="VARACALLI v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="137752_12" ></RELATION>
+
+<RELATION theme="137752_2" includes_docket_string="03-9851" includes_docket="137752_7" theme_string="VARACALLI v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="137752_11" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 36 (2004)" X_vs_Y_string="Crawford v. Washington" standard_case="137752_13" X_vs_Y="137752_14" gram_type="apposition" relation_type="equivalence" id="137752_21" ></RELATION>
+
+<RELATION theme="137752_14" party1="137752_15" party1_string="Crawford" theme_string="Crawford v. Washington" gram_type="infix" relation_type="asymmetric" id="137752_19" ></RELATION>
+
+<RELATION party2="137752_16" theme="137752_14" theme_string="Crawford v. Washington" party2_string="Washington" gram_type="infix" relation_type="asymmetric" id="137752_20" ></RELATION>
+
+<RELATION at_date_string="2004" theme="137752_13" at_date="137752_17" theme_string="541 U.S. 36 (2004)" gram_type="infix" relation_type="asymmetric" id="137752_22" ></RELATION>
+

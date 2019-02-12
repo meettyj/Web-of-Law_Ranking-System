@@ -1,0 +1,48 @@
+<CITATION alternative_keys="['federationcommission#5']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_982" id1="131073" volume="539" start="0" page_number="982" standard_reporter="U.S." citation_global_level_id="6086.002" line="1" id="131079_1" citation_local_level_id="0" >539 U.S. 982</CITATION>
+
+<CITATION party2="Federal Election Commission et al" party1="American Federation of Labor and Congress of Industrial Organizations et al." citation_global_level_id="23159.001" party2_short="Commission" line="1" id="131079_3" alternative_keys="['u.s._539_982']" end="130" entry_type="party_key" lookup_key="federationcommission#5" id1="131079" start="17" party1_short="Federation" citation_local_level_id="1" >American Federation of Labor and Congress of Industrial Organizations et al. v. Federal Election Commission et al</CITATION>
+
+<NAME end="93" start="17" party1_of="131079_3" all_names="AMERICAN FEDERATION OF LABOR AND CONGRESS OF INDUSTRIAL ORGANIZATIONS" local_name_id="1" id="131079_4" >American Federation of Labor and Congress of Industrial Organizations et al.</NAME>
+
+<ORGANIZATION start="17" end="72" id="131079_8" >American Federation of Labor and Congress of Industrial</ORGANIZATION>
+
+<ORGANIZATION start="73" end="86" plural="True" id="131079_9" >Organizations</ORGANIZATION>
+
+<NAME end="130" start="97" all_names="FEDERAL ELECTION COMMISSION" party2_of="131079_3" local_name_id="2" id="131079_5" >Federal Election Commission et al</NAME>
+
+<ORGANIZATION start="97" end="124" id="131079_10" >Federal Election Commission</ORGANIZATION>
+
+<DOCKET end="147" entry_type="docket" lookup_key="u.s._539_982" id1="131073" start="140" citation_global_level_id="6086.002" line="1" id="131079_2" citation_local_level_id="0" >02-1755</DOCKET>
+
+<DATE start="143" end="147" id="131079_6" >1755</DATE>
+
+<ORGANIZATION start="153" end="183" id="131079_11" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="189" end="204" id="131079_7" >August 25, 2003</DATE>
+
+<NAME start="226" local_name_id="3" end="252" id="131079_12" all_names="APPEAL FROM THE D C D C" >Appeal from the D. C. D. C</NAME>
+
+<NAME start="255" local_name_id="4" end="263" id="131079_13" all_names="PROBABLE" >Probable</NAME>
+
+<PROFESSION start="324" document_level_name_id="5" end="352" id="131079_20" party="MITCH MCCONNELL" >Motion of plaintiffs Senator</PROFESSION>
+
+<NAME start="353" local_name_id="5" end="368" id="131079_21" all_names="MITCH MCCONNELL" >Mitch McConnell</NAME>
+
+<NAME start="391" local_name_id="6" end="393" id="131079_22" all_names="VI" >VI</NAME>
+
+<NAME start="436" local_name_id="7" end="442" id="131079_23" all_names="MOTION" >Motion</NAME>
+
+<RELATION theme="131079_1" includes_docket_string="02-1755" includes_docket="131079_2" theme_string="539 U.S. 982" gram_type="apposition" relation_type="asymmetric" id="131079_18" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 982" X_vs_Y_string="American Federation of Labor and Congress of Industrial Organizations et al. v. Federal Election Commission et al" standard_case="131079_1" X_vs_Y="131079_3" gram_type="pre_nom" relation_type="equivalence" id="131079_14" ></RELATION>
+
+<RELATION theme="131079_3" includes_docket_string="02-1755" includes_docket="131079_2" theme_string="American Federation of Labor and Congress of Industrial Organizations et al. v. Federal Election Commission et al" gram_type="apposition" relation_type="asymmetric" id="131079_17" ></RELATION>
+
+<RELATION theme="131079_3" party1="131079_4" party1_string="American Federation of Labor and Congress of Industrial Organizations et al." theme_string="American Federation of Labor and Congress of Industrial Organizations et al. v. Federal Election Commission et al" gram_type="infix" relation_type="asymmetric" id="131079_15" ></RELATION>
+
+<RELATION party2="131079_5" theme="131079_3" theme_string="American Federation of Labor and Congress of Industrial Organizations et al. v. Federal Election Commission et al" party2_string="Federal Election Commission et al" gram_type="infix" relation_type="asymmetric" id="131079_16" ></RELATION>
+
+<RELATION at_date_string="1755" theme="131079_2" at_date="131079_6" theme_string="02-1755" gram_type="infix" relation_type="asymmetric" id="131079_19" ></RELATION>
+
+<RELATION theme="131079_21" profession_string="Motion of plaintiffs Senator" theme_string="Mitch McConnell" profession="131079_20" gram_type="pre_nom" relation_type="asymmetric" id="131079_24" ></RELATION>
+

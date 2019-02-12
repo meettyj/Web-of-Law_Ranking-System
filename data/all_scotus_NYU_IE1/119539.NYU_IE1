@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['mcculloughstegall#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_992" id1="119538" volume="535" start="0" page_number="992" standard_reporter="U.S." citation_global_level_id="6736.002" line="1" id="119539_1" citation_local_level_id="0" >535 U.S. 992</CITATION>
+
+<CITATION party2="STEGALL, WARDEN" party1="McCULLOUGH" citation_global_level_id="6736.007" party2_short="STEGALL" line="2" id="119539_2" alternative_keys="['u.s._535_992']" end="46" entry_type="party_key" lookup_key="mcculloughstegall#1" id1="119538" start="17" party1_short="McCULLOUGH" citation_local_level_id="1" >McCULLOUGH v. STEGALL, WARDEN</CITATION>
+
+<NAME end="27" start="17" party1_of="119539_2" all_names="MCCULLOUGH" local_name_id="1" id="119539_3" >McCULLOUGH</NAME>
+
+<NAME end="46" start="31" all_names="STEGALL WARDEN" party2_of="119539_2" local_name_id="2" id="119539_4" >STEGALL, WARDEN</NAME>
+
+<DOCKET alternative_keys="['u.s._535_992']" end="63" entry_type="docket" lookup_key="mcculloughstegall#1" id1="119538" start="56" citation_global_level_id="6736.007" line="3" id="119539_7" citation_local_level_id="1" >01-8098</DOCKET>
+
+<DATE start="109" citation_global_level_id="6736.007" end="123" id="119539_8" citation_local_level_id="1" >April 15, 2002</DATE>
+
+<NAME start="155" local_name_id="3" end="158" id="119539_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="119539_2" party1="119539_3" party1_string="McCULLOUGH" theme_string="McCULLOUGH v. STEGALL, WARDEN" gram_type="infix" relation_type="asymmetric" id="119539_5" ></RELATION>
+
+<RELATION party2="119539_4" theme="119539_2" theme_string="McCULLOUGH v. STEGALL, WARDEN" party2_string="STEGALL, WARDEN" gram_type="infix" relation_type="asymmetric" id="119539_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 992" X_vs_Y_string="McCULLOUGH v. STEGALL, WARDEN" standard_case="119539_1" X_vs_Y="119539_2" gram_type="multi_line" relation_type="equivalence" id="119539_9" ></RELATION>
+
+<RELATION at_date_string="April 15, 2002" theme="119539_2" at_date="119539_8" theme_string="McCULLOUGH v. STEGALL, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="119539_11" ></RELATION>
+
+<RELATION theme="119539_2" includes_docket_string="01-8098" includes_docket="119539_7" theme_string="McCULLOUGH v. STEGALL, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="119539_10" ></RELATION>
+

@@ -1,0 +1,36 @@
+<CITATION alternative_keys="['youngbureau#2', 's.ct._87_1300', 'l.ed.2d_18_287']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._386_1300" id1="107438" volume="386" start="0" page_number="1300" standard_reporter="U.S." citation_global_level_id="37230.002" line="1" id="107438_1" citation_local_level_id="0" >386 U.S. 1300</CITATION>
+
+<CITATION alternative_keys="['u.s._386_1300', 'youngbureau#2', 'l.ed.2d_18_287']" end="32" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._87_1300" id1="107438" volume="87" start="18" page_number="1300" standard_reporter="S.CT." citation_global_level_id="37230.003" line="1" id="107438_2" citation_local_level_id="1" >87 S. Ct. 1300</CITATION>
+
+<NAME start="21" local_name_id="1" end="26" id="107438_8" all_names="S CT" >S. Ct</NAME>
+
+<CITATION alternative_keys="['u.s._386_1300', 's.ct._87_1300', 'youngbureau#2']" end="53" reporter="L. Ed. 2d" entry_type="standard_key" lookup_key="l.ed.2d_18_287" id1="107438" volume="18" start="37" page_number="287" standard_reporter="L.ED.2D" citation_global_level_id="37230.004" line="1" id="107438_3" citation_local_level_id="2" >18 L. Ed. 2d 287</CITATION>
+
+<CITATION party2="DIRECTOR, U. S. BUREAU OF PRISONS et al" party1="William H. YOUNG" citation_global_level_id="37230.005" party2_short="BUREAU" line="1" id="107438_4" alternative_keys="['s.ct._87_1300', 'l.ed.2d_18_287', 'u.s._386_1300']" end="117" entry_type="party_key" lookup_key="youngbureau#2" id1="107438" start="58" party1_short="YOUNG" citation_local_level_id="3" >William H. YOUNG v. DIRECTOR, U. S. BUREAU OF PRISONS et al</CITATION>
+
+<NAME end="74" start="58" party1_of="107438_4" all_names="WILLIAM H YOUNG" local_name_id="2" id="107438_5" >William H. YOUNG</NAME>
+
+<NAME end="117" start="78" all_names="DIRECTOR U S BUREAU OF PRISONS" party2_of="107438_4" local_name_id="3" id="107438_6" >DIRECTOR, U. S. BUREAU OF PRISONS et al</NAME>
+
+<DATE start="182" end="196" id="107438_7" >April 10, 1967</DATE>
+
+<PROFESSION start="240" document_level_name_id="4" end="257" id="107438_14" party="MARSHALL" >Solicitor General</PROFESSION>
+
+<NAME start="258" local_name_id="4" end="266" id="107438_15" all_names="MARSHALL" >Marshall</NAME>
+
+<LEGAL_ROLE start="272" end="281" plural="True" id="107438_16" party="party2" >appellees</LEGAL_ROLE>
+
+<NAME start="293" local_name_id="5" end="299" id="107438_18" all_names="CURIAM" >CURIAM</NAME>
+
+<RELATION standard_case_string="386 U.S. 1300" X_vs_Y_string="William H. YOUNG v. DIRECTOR, U. S. BUREAU OF PRISONS et al" standard_case="107438_1" X_vs_Y="107438_4" gram_type="pre_nom" relation_type="equivalence" id="107438_10" ></RELATION>
+
+<RELATION standard_case_string="87 S. Ct. 1300" X_vs_Y_string="William H. YOUNG v. DIRECTOR, U. S. BUREAU OF PRISONS et al" standard_case="107438_2" X_vs_Y="107438_4" gram_type="pre_nom" relation_type="equivalence" id="107438_11" ></RELATION>
+
+<RELATION standard_case_string="18 L. Ed. 2d 287" X_vs_Y_string="William H. YOUNG v. DIRECTOR, U. S. BUREAU OF PRISONS et al" standard_case="107438_3" X_vs_Y="107438_4" gram_type="pre_nom" relation_type="equivalence" id="107438_9" ></RELATION>
+
+<RELATION theme="107438_4" party1="107438_5" party1_string="William H. YOUNG" theme_string="William H. YOUNG v. DIRECTOR, U. S. BUREAU OF PRISONS et al" gram_type="infix" relation_type="asymmetric" id="107438_12" ></RELATION>
+
+<RELATION party2="107438_6" theme="107438_4" theme_string="William H. YOUNG v. DIRECTOR, U. S. BUREAU OF PRISONS et al" party2_string="DIRECTOR, U. S. BUREAU OF PRISONS et al" gram_type="infix" relation_type="asymmetric" id="107438_13" ></RELATION>
+
+<RELATION theme="107438_15" profession_string="Solicitor General" theme_string="Marshall" profession="107438_14" gram_type="pre_nom" relation_type="asymmetric" id="107438_17" ></RELATION>
+

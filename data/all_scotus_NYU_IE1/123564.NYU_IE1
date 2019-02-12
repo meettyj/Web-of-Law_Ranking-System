@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['franklinbilbray#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_903" id1="123575" volume="537" start="0" page_number="903" standard_reporter="U.S." citation_global_level_id="119.002" line="1" id="123564_1" citation_local_level_id="0" >537 U.S. 903</CITATION>
+
+<CITATION party2="BILBRAY ET AL" party1="FRANKLIN" citation_global_level_id="47301.001" party2_short="BILBRAY" line="1" id="123564_3" alternative_keys="['u.s._537_903']" end="42" entry_type="party_key" lookup_key="franklinbilbray#1" id1="123564" start="17" party1_short="FRANKLIN" citation_local_level_id="1" >FRANKLIN v. BILBRAY ET AL</CITATION>
+
+<NAME end="25" start="17" party1_of="123564_3" all_names="FRANKLIN" local_name_id="1" id="123564_4" >FRANKLIN</NAME>
+
+<NAME end="42" start="29" all_names="BILBRAY" party2_of="123564_3" local_name_id="2" id="123564_5" >BILBRAY ET AL</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="u.s._537_903" id1="123575" start="52" citation_global_level_id="119.002" line="1" id="123564_2" citation_local_level_id="0" >02-5247</DOCKET>
+
+<DATE start="101" end="116" id="123564_6" >October 7, 2002</DATE>
+
+<NAME start="206" local_name_id="3" end="209" id="123564_12" all_names="SUP" >Sup</NAME>
+
+<RELATION theme="123564_1" includes_docket_string="02-5247" includes_docket="123564_2" theme_string="537 U.S. 903" gram_type="apposition" relation_type="asymmetric" id="123564_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 903" X_vs_Y_string="FRANKLIN v. BILBRAY ET AL" standard_case="123564_1" X_vs_Y="123564_3" gram_type="pre_nom" relation_type="equivalence" id="123564_7" ></RELATION>
+
+<RELATION theme="123564_3" includes_docket_string="02-5247" includes_docket="123564_2" theme_string="FRANKLIN v. BILBRAY ET AL" gram_type="apposition" relation_type="asymmetric" id="123564_10" ></RELATION>
+
+<RELATION theme="123564_3" party1="123564_4" party1_string="FRANKLIN" theme_string="FRANKLIN v. BILBRAY ET AL" gram_type="infix" relation_type="asymmetric" id="123564_8" ></RELATION>
+
+<RELATION party2="123564_5" theme="123564_3" theme_string="FRANKLIN v. BILBRAY ET AL" party2_string="BILBRAY ET AL" gram_type="infix" relation_type="asymmetric" id="123564_9" ></RELATION>
+

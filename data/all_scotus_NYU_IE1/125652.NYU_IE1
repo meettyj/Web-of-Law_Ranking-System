@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['rastentown#3']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1068" id1="125655" volume="537" start="0" page_number="1068" standard_reporter="U.S." citation_global_level_id="6354.002" line="1" id="125652_1" citation_local_level_id="0" >537 U.S. 1068</CITATION>
+
+<CITATION party2="TOWN OF BROOKLINE, MASSACHUSETTS, ET AL" party1="RASTEN" citation_global_level_id="6354.004" party2_short="TOWN" line="2" id="125652_2" alternative_keys="['u.s._537_1068']" end="67" entry_type="party_key" lookup_key="rastentown#3" id1="125655" start="18" party1_short="RASTEN" citation_local_level_id="1" >RASTEN v. TOWN OF BROOKLINE, MASSACHUSETTS, ET AL</CITATION>
+
+<NAME end="24" start="18" party1_of="125652_2" all_names="RASTEN" local_name_id="1" id="125652_3" >RASTEN</NAME>
+
+<NAME end="67" start="28" all_names="TOWN OF BROOKLINE MASSACHUSETTS" party2_of="125652_2" local_name_id="2" id="125652_4" >TOWN OF BROOKLINE, MASSACHUSETTS, ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._537_1068']" end="85" entry_type="docket" lookup_key="rastentown#3" id1="125655" start="77" citation_global_level_id="6354.004" line="3" id="125652_7" citation_local_level_id="1" >01-10968</DOCKET>
+
+<ORGANIZATION start="91" end="121" id="125652_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="127" citation_global_level_id="6354.004" end="143" id="125652_9" citation_local_level_id="1" >December 2, 2002</DATE>
+
+<NAME start="179" local_name_id="3" end="208" id="125652_13" all_names="PETITION FOR REHEARING DENIED" >Petition for Rehearing Denied</NAME>
+
+<RELATION theme="125652_2" party1="125652_3" party1_string="RASTEN" theme_string="RASTEN v. TOWN OF BROOKLINE, MASSACHUSETTS, ET AL" gram_type="infix" relation_type="asymmetric" id="125652_5" ></RELATION>
+
+<RELATION party2="125652_4" theme="125652_2" theme_string="RASTEN v. TOWN OF BROOKLINE, MASSACHUSETTS, ET AL" party2_string="TOWN OF BROOKLINE, MASSACHUSETTS, ET AL" gram_type="infix" relation_type="asymmetric" id="125652_6" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1068" X_vs_Y_string="RASTEN v. TOWN OF BROOKLINE, MASSACHUSETTS, ET AL" standard_case="125652_1" X_vs_Y="125652_2" gram_type="multi_line" relation_type="equivalence" id="125652_10" ></RELATION>
+
+<RELATION at_date_string="December 2, 2002" theme="125652_2" at_date="125652_9" theme_string="RASTEN v. TOWN OF BROOKLINE, MASSACHUSETTS, ET AL" gram_type="multi_line" relation_type="asymmetric" id="125652_12" ></RELATION>
+
+<RELATION theme="125652_2" includes_docket_string="01-10968" includes_docket="125652_7" theme_string="RASTEN v. TOWN OF BROOKLINE, MASSACHUSETTS, ET AL" gram_type="multi_line" relation_type="asymmetric" id="125652_11" ></RELATION>
+

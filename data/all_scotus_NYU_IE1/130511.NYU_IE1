@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['vetaarizona#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_929" id1="130504" volume="539" start="0" page_number="929" standard_reporter="U.S." citation_global_level_id="2260.002" line="1" id="130511_1" citation_local_level_id="0" >539 U.S. 929</CITATION>
+
+<CITATION party2="Arizona" party1="Veta" citation_global_level_id="27669.001" party2_short="Arizona" line="1" id="130511_3" alternative_keys="['u.s._539_929']" end="32" entry_type="party_key" lookup_key="vetaarizona#2" id1="138944" start="17" party1_short="Veta" citation_local_level_id="1" >Veta v. Arizona</CITATION>
+
+<NAME end="21" start="17" party1_of="130511_3" all_names="VETA" local_name_id="1" id="130511_4" >Veta</NAME>
+
+<NAME end="32" start="25" all_names="ARIZONA" party2_of="130511_3" local_name_id="2" id="130511_5" >Arizona</NAME>
+
+<DOCKET end="50" entry_type="docket" lookup_key="u.s._539_929" id1="130504" start="42" citation_global_level_id="2260.002" line="1" id="130511_2" citation_local_level_id="0" >02-10077</DOCKET>
+
+<DATE start="92" end="105" id="130511_6" >June 16, 2003</DATE>
+
+<NAME start="199" local_name_id="3" end="209" id="130511_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="130511_1" includes_docket_string="02-10077" includes_docket="130511_2" theme_string="539 U.S. 929" gram_type="apposition" relation_type="asymmetric" id="130511_11" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 929" X_vs_Y_string="Veta v. Arizona" standard_case="130511_1" X_vs_Y="130511_3" gram_type="pre_nom" relation_type="equivalence" id="130511_7" ></RELATION>
+
+<RELATION theme="130511_3" includes_docket_string="02-10077" includes_docket="130511_2" theme_string="Veta v. Arizona" gram_type="apposition" relation_type="asymmetric" id="130511_10" ></RELATION>
+
+<RELATION theme="130511_3" party1="130511_4" party1_string="Veta" theme_string="Veta v. Arizona" gram_type="infix" relation_type="asymmetric" id="130511_8" ></RELATION>
+
+<RELATION party2="130511_5" theme="130511_3" theme_string="Veta v. Arizona" party2_string="Arizona" gram_type="infix" relation_type="asymmetric" id="130511_9" ></RELATION>
+

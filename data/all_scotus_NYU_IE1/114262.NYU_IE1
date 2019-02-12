@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['austinstates#8']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_904" id1="114262" volume="510" start="0" page_number="904" standard_reporter="U.S." citation_global_level_id="1947.002" line="1" id="114262_1" citation_local_level_id="0" >510 U.S. 904</CITATION>
+
+<CITATION party2="United States" party1="Austin" citation_global_level_id="62932.001" party2_short="States" line="1" id="114262_3" alternative_keys="['u.s._510_904']" end="40" entry_type="party_key" lookup_key="austinstates#8" id1="138992" start="17" party1_short="Austin" citation_local_level_id="1" >Austin v. United States</CITATION>
+
+<NAME end="23" start="17" party1_of="114262_3" all_names="AUSTIN" local_name_id="1" id="114262_4" >Austin</NAME>
+
+<NAME end="40" start="27" all_names="UNITED STATES" party2_of="114262_3" local_name_id="2" id="114262_5" >United States</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._510_904" id1="114262" start="50" citation_global_level_id="1947.002" line="1" id="114262_2" citation_local_level_id="0" >93-5751</DOCKET>
+
+<DATE start="99" end="114" id="114262_6" >October 4, 1993</DATE>
+
+<NAME start="192" local_name_id="3" end="202" id="114262_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="240" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_995_233" id1="Dummy_File_7447" volume="995" start="227" page_number="233" standard_reporter="F.2D" citation_global_level_id="71297.001" line="3" id="114262_12" citation_local_level_id="2" >995 F. 2d 233</CITATION>
+
+<RELATION theme="114262_1" includes_docket_string="93-5751" includes_docket="114262_2" theme_string="510 U.S. 904" gram_type="apposition" relation_type="asymmetric" id="114262_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 904" X_vs_Y_string="Austin v. United States" standard_case="114262_1" X_vs_Y="114262_3" gram_type="pre_nom" relation_type="equivalence" id="114262_7" ></RELATION>
+
+<RELATION theme="114262_3" includes_docket_string="93-5751" includes_docket="114262_2" theme_string="Austin v. United States" gram_type="apposition" relation_type="asymmetric" id="114262_10" ></RELATION>
+
+<RELATION theme="114262_3" party1="114262_4" party1_string="Austin" theme_string="Austin v. United States" gram_type="infix" relation_type="asymmetric" id="114262_8" ></RELATION>
+
+<RELATION party2="114262_5" theme="114262_3" theme_string="Austin v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="114262_9" ></RELATION>
+

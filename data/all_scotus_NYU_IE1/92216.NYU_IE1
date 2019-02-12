@@ -1,0 +1,56 @@
+<CITATION alternative_keys="['bonahannebraska#1']" end="20" reporter="U.S." entry_type="standard_key" lookup_key="u.s._125_692" id1="92216" volume="125" start="1" page_number="692" year="1887" standard_reporter="U.S." citation_global_level_id="14622.002" line="2" id="92216_1" citation_local_level_id="0" >125 U.S. 692 (1887)</CITATION>
+
+<DATE start="15" citation_global_level_id="14622.002" end="19" id="92216_2" citation_local_level_id="0" >1887</DATE>
+
+<CITATION party2="NEBRASKA" party1="BONAHAN" citation_global_level_id="14622.004" party2_short="NEBRASKA" line="5" id="92216_5" alternative_keys="['u.s._125_692']" end="42" entry_type="party_key" lookup_key="bonahannebraska#1" id1="92216" start="21" party1_short="BONAHAN" citation_local_level_id="1" >BONAHAN v. NEBRASKA</CITATION>
+
+<NAME end="28" start="21" party1_of="92216_5" all_names="BONAHAN" local_name_id="1" id="92216_6" >BONAHAN</NAME>
+
+<NAME end="42" start="34" all_names="NEBRASKA" party2_of="92216_5" local_name_id="2" id="92216_7" >NEBRASKA</NAME>
+
+<ORGANIZATION start="53" end="83" id="92216_11" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="95" end="111" id="92216_12" >October 11, 1887</DATE>
+
+<NAME start="113" local_name_id="3" end="120" id="92216_14" all_names="DECIDED" >Decided</NAME>
+
+<DATE start="121" end="137" id="92216_13" >October 17, 1887</DATE>
+
+<ORGANIZATION start="139" end="190" id="92216_15" >ERROR TO THE SUPREME COURT OF THE STATE OF NEBRASKA</ORGANIZATION>
+
+<LEGAL_ROLE start="192" end="248" id="92216_16" >Mr. Charles O. Wheedon and Mr. C.E. Magoon for plaintiff</LEGAL_ROLE>
+
+<LEGAL_ROLE start="259" end="290" id="92216_17" >Mr. William Leese for defendant</LEGAL_ROLE>
+
+<NAME start="301" local_name_id="4" end="303" id="92216_18" all_names="MR" >MR</NAME>
+
+<LEGAL_ROLE start="416" end="425" id="92216_23" >plaintiff</LEGAL_ROLE>
+
+<ORGANIZATION start="489" end="494" id="92216_24" >court</ORGANIZATION>
+
+<LEGAL_ROLE start="661" end="670" id="92216_25" >plaintiff</LEGAL_ROLE>
+
+<ORGANIZATION start="753" end="758" id="92216_26" >court</ORGANIZATION>
+
+<CITATION party2="United States" party1="Smith" citation_global_level_id="7101.001" party2_short="States" line="14" id="92216_20" alternative_keys="['u.s._94_97']" end="904" entry_type="party_key" lookup_key="smithstates#9" id1="124024" start="882" party1_short="Smith" citation_local_level_id="2" >Smith v. United States</CITATION>
+
+<NAME end="887" start="882" party1_of="92216_20" all_names="SMITH" local_name_id="5" id="92216_21" >Smith</NAME>
+
+<NAME end="904" start="891" all_names="UNITED STATES" party2_of="92216_20" local_name_id="6" id="92216_22" >United States</NAME>
+
+<CITATION alternative_keys="['smithstates#9']" end="916" reporter="U.S." entry_type="standard_key" lookup_key="u.s._94_97" id1="89440" volume="94" start="906" page_number="97" standard_reporter="U.S." citation_global_level_id="26926.002" line="14" id="92216_19" citation_local_level_id="3" >94 U.S. 97</CITATION>
+
+<RELATION at_date_string="1887" theme="92216_1" at_date="92216_2" theme_string="125 U.S. 692 (1887)" gram_type="infix" relation_type="asymmetric" id="92216_3" ></RELATION>
+
+<RELATION theme="92216_5" party1="92216_6" party1_string="BONAHAN" theme_string="BONAHAN  v.  NEBRASKA" gram_type="infix" relation_type="asymmetric" id="92216_8" ></RELATION>
+
+<RELATION party2="92216_7" theme="92216_5" theme_string="BONAHAN  v.  NEBRASKA" party2_string="NEBRASKA" gram_type="infix" relation_type="asymmetric" id="92216_9" ></RELATION>
+
+<RELATION standard_case_string="125 U.S. 692 (1887)" X_vs_Y_string="BONAHAN  v.  NEBRASKA" standard_case="92216_1" X_vs_Y="92216_5" gram_type="multi_line" relation_type="equivalence" id="92216_10" ></RELATION>
+
+<RELATION standard_case_string="94 U.S. 97" X_vs_Y_string="Smith v. United States" standard_case="92216_19" X_vs_Y="92216_20" gram_type="apposition" relation_type="equivalence" id="92216_29" ></RELATION>
+
+<RELATION theme="92216_20" party1="92216_21" party1_string="Smith" theme_string="Smith v. United States" gram_type="infix" relation_type="asymmetric" id="92216_27" ></RELATION>
+
+<RELATION party2="92216_22" theme="92216_20" theme_string="Smith v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="92216_28" ></RELATION>
+

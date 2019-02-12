@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['oilcrews#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1045" id1="125339" volume="537" start="0" page_number="1045" standard_reporter="U.S." citation_global_level_id="11734.002" line="1" id="125332_1" citation_local_level_id="0" >537 U.S. 1045</CITATION>
+
+<CITATION party2="GULF CREWS INC. ET AL" party1="FOREST OIL CORP." citation_global_level_id="16842.001" party2_short="CREWS" line="1" id="125332_3" alternative_keys="['u.s._537_1045']" end="59" entry_type="party_key" lookup_key="oilcrews#1" id1="125332" start="18" party1_short="OIL" citation_local_level_id="1" >FOREST OIL CORP. v. GULF CREWS INC. ET AL</CITATION>
+
+<NAME end="34" start="18" party1_of="125332_3" all_names="FOREST OIL CORP" local_name_id="1" id="125332_4" >FOREST OIL CORP.</NAME>
+
+<ORGANIZATION start="18" end="33" id="125332_7" >FOREST OIL CORP</ORGANIZATION>
+
+<NAME end="59" start="38" all_names="GULF CREWS INC" party2_of="125332_3" local_name_id="2" id="125332_5" >GULF CREWS INC. ET AL</NAME>
+
+<DOCKET end="75" entry_type="docket" lookup_key="u.s._537_1045" id1="125339" start="69" citation_global_level_id="11734.002" line="1" id="125332_2" citation_local_level_id="0" >02-446</DOCKET>
+
+<DATE start="117" end="133" id="125332_6" >December 2, 2002</DATE>
+
+<NAME start="262" local_name_id="3" end="265" id="125332_14" all_names="CIR" >Cir</NAME>
+
+<CITATION end="315" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_281_487" id1="Dummy_File_196541" volume="281" start="302" page_number="487" standard_reporter="F.3D" citation_global_level_id="260391.001" line="3" id="125332_13" citation_local_level_id="2" >281 F. 3d 487</CITATION>
+
+<RELATION theme="125332_1" includes_docket_string="02-446" includes_docket="125332_2" theme_string="537 U.S. 1045" gram_type="apposition" relation_type="asymmetric" id="125332_12" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1045" X_vs_Y_string="FOREST OIL CORP. v. GULF CREWS INC. ET AL" standard_case="125332_1" X_vs_Y="125332_3" gram_type="pre_nom" relation_type="equivalence" id="125332_8" ></RELATION>
+
+<RELATION theme="125332_3" includes_docket_string="02-446" includes_docket="125332_2" theme_string="FOREST OIL CORP. v. GULF CREWS INC. ET AL" gram_type="apposition" relation_type="asymmetric" id="125332_11" ></RELATION>
+
+<RELATION party2="125332_5" theme="125332_3" theme_string="FOREST OIL CORP. v. GULF CREWS INC. ET AL" party2_string="GULF CREWS INC. ET AL" gram_type="infix" relation_type="asymmetric" id="125332_10" ></RELATION>
+
+<RELATION theme="125332_3" party1="125332_4" party1_string="FOREST OIL CORP." theme_string="FOREST OIL CORP. v. GULF CREWS INC. ET AL" gram_type="infix" relation_type="asymmetric" id="125332_9" ></RELATION>
+

@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['johnsondepartment#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1140" id1="117178" volume="510" start="0" page_number="1140" standard_reporter="U.S." citation_global_level_id="1292.002" line="1" id="117175_1" citation_local_level_id="0" >510 U.S. 1140</CITATION>
+
+<CITATION party2="Dodge County Department of Human Services et al" party1="Johnson" citation_global_level_id="2235.001" party2_short="Department" line="1" id="117175_3" alternative_keys="['u.s._510_1140']" end="76" entry_type="party_key" lookup_key="johnsondepartment#2" id1="117175" start="18" party1_short="Johnson" citation_local_level_id="1" >Johnson v. Dodge County Department of Human Services et al</CITATION>
+
+<NAME end="25" start="18" party1_of="117175_3" all_names="JOHNSON" local_name_id="1" id="117175_4" >Johnson</NAME>
+
+<NAME end="76" start="29" all_names="DODGE COUNTY DEPARTMENT OF HUMAN SERVICES" party2_of="117175_3" local_name_id="2" id="117175_5" >Dodge County Department of Human Services et al</NAME>
+
+<DOCKET end="93" entry_type="docket" lookup_key="u.s._510_1140" id1="117178" start="86" citation_global_level_id="1292.002" line="1" id="117175_2" citation_local_level_id="0" >93-1041</DOCKET>
+
+<DATE start="135" end="152" id="117175_6" >February 22, 1994</DATE>
+
+<NAME start="230" local_name_id="3" end="240" id="117175_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="117175_1" includes_docket_string="93-1041" includes_docket="117175_2" theme_string="510 U.S. 1140" gram_type="apposition" relation_type="asymmetric" id="117175_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1140" X_vs_Y_string="Johnson v. Dodge County Department of Human Services et al" standard_case="117175_1" X_vs_Y="117175_3" gram_type="pre_nom" relation_type="equivalence" id="117175_7" ></RELATION>
+
+<RELATION theme="117175_3" includes_docket_string="93-1041" includes_docket="117175_2" theme_string="Johnson v. Dodge County Department of Human Services et al" gram_type="apposition" relation_type="asymmetric" id="117175_10" ></RELATION>
+
+<RELATION theme="117175_3" party1="117175_4" party1_string="Johnson" theme_string="Johnson v. Dodge County Department of Human Services et al" gram_type="infix" relation_type="asymmetric" id="117175_8" ></RELATION>
+
+<RELATION party2="117175_5" theme="117175_3" theme_string="Johnson v. Dodge County Department of Human Services et al" party2_string="Dodge County Department of Human Services et al" gram_type="infix" relation_type="asymmetric" id="117175_9" ></RELATION>
+

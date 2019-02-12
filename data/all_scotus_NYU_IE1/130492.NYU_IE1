@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['dahlstates#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_928" id1="130501" volume="539" start="0" page_number="928" standard_reporter="U.S." citation_global_level_id="4690.002" line="1" id="130492_1" citation_local_level_id="0" >539 U.S. 928</CITATION>
+
+<CITATION party2="United States" party1="Dahl" citation_global_level_id="32906.001" party2_short="States" line="1" id="130492_3" alternative_keys="['u.s._539_928']" end="38" entry_type="party_key" lookup_key="dahlstates#1" id1="130492" start="17" party1_short="Dahl" citation_local_level_id="1" >Dahl v. United States</CITATION>
+
+<NAME end="21" start="17" party1_of="130492_3" all_names="DAHL" local_name_id="1" id="130492_4" >Dahl</NAME>
+
+<NAME end="38" start="25" all_names="UNITED STATES" party2_of="130492_3" local_name_id="2" id="130492_5" >United States</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._539_928" id1="130501" start="48" citation_global_level_id="4690.002" line="1" id="130492_2" citation_local_level_id="0" >02-1587</DOCKET>
+
+<DATE start="97" end="110" id="130492_6" >June 16, 2003</DATE>
+
+<NAME start="188" local_name_id="3" end="198" id="130492_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="236" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_314_976" id1="Dummy_File_80832" volume="314" start="223" page_number="976" standard_reporter="F.3D" citation_global_level_id="144682.001" line="3" id="130492_12" citation_local_level_id="2" >314 F. 3d 976</CITATION>
+
+<RELATION theme="130492_1" includes_docket_string="02-1587" includes_docket="130492_2" theme_string="539 U.S. 928" gram_type="apposition" relation_type="asymmetric" id="130492_11" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 928" X_vs_Y_string="Dahl v. United States" standard_case="130492_1" X_vs_Y="130492_3" gram_type="pre_nom" relation_type="equivalence" id="130492_7" ></RELATION>
+
+<RELATION theme="130492_3" includes_docket_string="02-1587" includes_docket="130492_2" theme_string="Dahl v. United States" gram_type="apposition" relation_type="asymmetric" id="130492_10" ></RELATION>
+
+<RELATION theme="130492_3" party1="130492_4" party1_string="Dahl" theme_string="Dahl v. United States" gram_type="infix" relation_type="asymmetric" id="130492_8" ></RELATION>
+
+<RELATION party2="130492_5" theme="130492_3" theme_string="Dahl v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="130492_9" ></RELATION>
+

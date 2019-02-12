@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['parmarnebraska#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_845" id1="122810" volume="537" start="0" page_number="845" standard_reporter="U.S." citation_global_level_id="5095.002" line="1" id="122810_1" citation_local_level_id="0" >537 U.S. 845</CITATION>
+
+<CITATION party2="NEBRASKA" party1="PARMAR" citation_global_level_id="5095.001" party2_short="NEBRASKA" line="1" id="122810_3" alternative_keys="['u.s._537_845']" end="35" entry_type="party_key" lookup_key="parmarnebraska#1" id1="122810" start="17" party1_short="PARMAR" citation_local_level_id="1" >PARMAR v. NEBRASKA</CITATION>
+
+<NAME end="23" start="17" party1_of="122810_3" all_names="PARMAR" local_name_id="1" id="122810_4" >PARMAR</NAME>
+
+<NAME end="35" start="27" all_names="NEBRASKA" party2_of="122810_3" local_name_id="2" id="122810_5" >NEBRASKA</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="u.s._537_845" id1="122810" start="45" citation_global_level_id="5095.002" line="1" id="122810_2" citation_local_level_id="0" >01-10465</DOCKET>
+
+<DATE start="95" end="110" id="122810_6" >October 7, 2002</DATE>
+
+<NAME start="202" local_name_id="3" end="205" id="122810_13" all_names="SUP" >Sup</NAME>
+
+<CITATION end="281" reporter="N. W. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.w.2d_639_105" id1="Dummy_File_52951" volume="639" start="265" page_number="105" standard_reporter="N.W.2D" citation_global_level_id="116801.001" line="3" id="122810_12" citation_local_level_id="2" >639 N. W. 2d 105</CITATION>
+
+<RELATION theme="122810_1" includes_docket_string="01-10465" includes_docket="122810_2" theme_string="537 U.S. 845" gram_type="apposition" relation_type="asymmetric" id="122810_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 845" X_vs_Y_string="PARMAR v. NEBRASKA" standard_case="122810_1" X_vs_Y="122810_3" gram_type="pre_nom" relation_type="equivalence" id="122810_7" ></RELATION>
+
+<RELATION theme="122810_3" includes_docket_string="01-10465" includes_docket="122810_2" theme_string="PARMAR v. NEBRASKA" gram_type="apposition" relation_type="asymmetric" id="122810_10" ></RELATION>
+
+<RELATION theme="122810_3" party1="122810_4" party1_string="PARMAR" theme_string="PARMAR v. NEBRASKA" gram_type="infix" relation_type="asymmetric" id="122810_8" ></RELATION>
+
+<RELATION party2="122810_5" theme="122810_3" theme_string="PARMAR v. NEBRASKA" party2_string="NEBRASKA" gram_type="infix" relation_type="asymmetric" id="122810_9" ></RELATION>
+

@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['bolinflorida#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_882" id1="138815" volume="543" start="0" page_number="882" standard_reporter="U.S." citation_global_level_id="7742.002" line="1" id="138818_1" citation_local_level_id="0" >543 U.S. 882</CITATION>
+
+<CITATION party2="FLORIDA" party1="BOLIN" citation_global_level_id="11407.001" party2_short="FLORIDA" line="2" id="138818_2" alternative_keys="['u.s._543_882']" end="33" entry_type="party_key" lookup_key="bolinflorida#1" id1="138818" start="17" party1_short="BOLIN" citation_local_level_id="1" >BOLIN v. FLORIDA</CITATION>
+
+<NAME end="22" start="17" party1_of="138818_2" all_names="BOLIN" local_name_id="1" id="138818_3" >BOLIN</NAME>
+
+<NAME end="33" start="26" all_names="FLORIDA" party2_of="138818_2" local_name_id="2" id="138818_4" >FLORIDA</NAME>
+
+<DOCKET end="50" entry_type="docket" lookup_key="bolinflorida#1" id1="138818" start="43" citation_global_level_id="11407.001" line="3" id="138818_7" citation_local_level_id="1" >04-5092</DOCKET>
+
+<ORGANIZATION start="56" end="86" id="138818_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="92" citation_global_level_id="11407.001" end="107" id="138818_9" citation_local_level_id="1" >October 4, 2004</DATE>
+
+<NAME start="129" local_name_id="3" end="132" id="138818_14" all_names="SUP" >Sup</NAME>
+
+<CITATION end="193" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_869_1196" id1="Dummy_File_236534" volume="869" start="178" page_number="1196" standard_reporter="SO.2D" citation_global_level_id="300384.001" line="8" id="138818_13" citation_local_level_id="2" >869 So. 2d 1196</CITATION>
+
+<RELATION theme="138818_2" party1="138818_3" party1_string="BOLIN" theme_string="BOLIN v. FLORIDA" gram_type="infix" relation_type="asymmetric" id="138818_5" ></RELATION>
+
+<RELATION party2="138818_4" theme="138818_2" theme_string="BOLIN v. FLORIDA" party2_string="FLORIDA" gram_type="infix" relation_type="asymmetric" id="138818_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 882" X_vs_Y_string="BOLIN v. FLORIDA" standard_case="138818_1" X_vs_Y="138818_2" gram_type="multi_line" relation_type="equivalence" id="138818_10" ></RELATION>
+
+<RELATION at_date_string="October 4, 2004" theme="138818_2" at_date="138818_9" theme_string="BOLIN v. FLORIDA" gram_type="multi_line" relation_type="asymmetric" id="138818_12" ></RELATION>
+
+<RELATION theme="138818_2" includes_docket_string="04-5092" includes_docket="138818_7" theme_string="BOLIN v. FLORIDA" gram_type="multi_line" relation_type="asymmetric" id="138818_11" ></RELATION>
+

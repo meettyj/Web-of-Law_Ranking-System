@@ -1,0 +1,50 @@
+<CITATION alternative_keys="['carriersarkansas#2', 's.ct._81_912', 'l.ed.2d_6_189']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._365_770" id1="106215" volume="365" start="0" page_number="770" standard_reporter="U.S." citation_global_level_id="4868.002" line="1" id="106215_1" citation_local_level_id="0" >365 U.S. 770</CITATION>
+
+<CITATION alternative_keys="['u.s._365_770', 'carriersarkansas#2', 'l.ed.2d_6_189']" end="30" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._81_912" id1="106215" volume="81" start="17" page_number="912" standard_reporter="S.CT." citation_global_level_id="4868.003" line="1" id="106215_2" citation_local_level_id="1" >81 S. Ct. 912</CITATION>
+
+<NAME start="20" local_name_id="1" end="25" id="106215_8" all_names="S CT" >S. Ct</NAME>
+
+<CITATION alternative_keys="['u.s._365_770', 's.ct._81_912', 'carriersarkansas#2']" end="50" reporter="L. Ed. 2d" entry_type="standard_key" lookup_key="l.ed.2d_6_189" id1="106215" volume="6" start="35" page_number="189" standard_reporter="L.ED.2D" citation_global_level_id="4868.004" line="1" id="106215_3" citation_local_level_id="2" >6 L. Ed. 2d 189</CITATION>
+
+<CITATION party2="ARKANSAS ex rel. Bruce BENNETT, Attorney General" party1="ARCO AUTO CARRIERS, INC., et al." citation_global_level_id="4868.005" party2_short="ARKANSAS" line="1" id="106215_4" alternative_keys="['s.ct._81_912', 'l.ed.2d_6_189', 'u.s._365_770']" end="139" entry_type="party_key" lookup_key="carriersarkansas#2" id1="106215" start="55" party1_short="CARRIERS" citation_local_level_id="3" >ARCO AUTO CARRIERS, INC., et al. v. ARKANSAS ex rel. Bruce BENNETT, Attorney General</CITATION>
+
+<NAME end="87" start="55" party1_of="106215_4" all_names="ARCO AUTO CARRIERS INC" local_name_id="2" id="106215_5" >ARCO AUTO CARRIERS, INC., et al.</NAME>
+
+<ORGANIZATION start="55" end="78" id="106215_9" >ARCO AUTO CARRIERS, INC</ORGANIZATION>
+
+<NAME end="139" start="91" all_names="ARKANSAS EX REL BRUCE BENNETT ATTORNEY GENERAL" party2_of="106215_4" local_name_id="3" id="106215_6" >ARKANSAS ex rel. Bruce BENNETT, Attorney General</NAME>
+
+<PROFESSION start="123" end="139" id="106215_10" >Attorney General</PROFESSION>
+
+<DATE start="197" end="211" id="106215_7" >April 17, 1961</DATE>
+
+<NAME start="223" local_name_id="4" end="258" id="106215_11" all_names="GEORGE S DIXON AND LOUIS TARLOWSKI" >George S. Dixon and Louis Tarlowski</NAME>
+
+<LEGAL_ROLE start="264" end="274" plural="True" id="106215_12" >appellants</LEGAL_ROLE>
+
+<NAME start="282" local_name_id="5" end="295" id="106215_18" all_names="J FRANK HOLT" >J. Frank Holt</NAME>
+
+<PROFESSION start="297" document_level_name_id="5" end="319" id="106215_19" party="J FRANK HOLT" >Atty. Gen. of Arkansas</PROFESSION>
+
+<NAME start="325" local_name_id="6" end="341" id="106215_20" all_names="BRUCE T BULLION" >Bruce T. Bullion</NAME>
+
+<PROFESSION start="343" document_level_name_id="6" end="366" id="106215_21" party="BRUCE T BULLION" >Special Asst. Atty. Gen</PROFESSION>
+
+<LEGAL_ROLE start="373" end="381" id="106215_22" party="party2" >appellee</LEGAL_ROLE>
+
+<NAME start="393" local_name_id="7" end="399" id="106215_25" all_names="CURIAM" >CURIAM</NAME>
+
+<RELATION standard_case_string="365 U.S. 770" X_vs_Y_string="ARCO AUTO CARRIERS, INC., et al. v. ARKANSAS ex rel. Bruce BENNETT, Attorney General" standard_case="106215_1" X_vs_Y="106215_4" gram_type="pre_nom" relation_type="equivalence" id="106215_14" ></RELATION>
+
+<RELATION standard_case_string="81 S. Ct. 912" X_vs_Y_string="ARCO AUTO CARRIERS, INC., et al. v. ARKANSAS ex rel. Bruce BENNETT, Attorney General" standard_case="106215_2" X_vs_Y="106215_4" gram_type="pre_nom" relation_type="equivalence" id="106215_15" ></RELATION>
+
+<RELATION standard_case_string="6 L. Ed. 2d 189" X_vs_Y_string="ARCO AUTO CARRIERS, INC., et al. v. ARKANSAS ex rel. Bruce BENNETT, Attorney General" standard_case="106215_3" X_vs_Y="106215_4" gram_type="pre_nom" relation_type="equivalence" id="106215_13" ></RELATION>
+
+<RELATION theme="106215_4" party1="106215_5" party1_string="ARCO AUTO CARRIERS, INC., et al." theme_string="ARCO AUTO CARRIERS, INC., et al. v. ARKANSAS ex rel. Bruce BENNETT, Attorney General" gram_type="infix" relation_type="asymmetric" id="106215_16" ></RELATION>
+
+<RELATION party2="106215_6" theme="106215_4" theme_string="ARCO AUTO CARRIERS, INC., et al. v. ARKANSAS ex rel. Bruce BENNETT, Attorney General" party2_string="ARKANSAS ex rel. Bruce BENNETT, Attorney General" gram_type="infix" relation_type="asymmetric" id="106215_17" ></RELATION>
+
+<RELATION theme="106215_18" profession_string="Atty. Gen. of Arkansas" theme_string="J. Frank Holt" profession="106215_19" gram_type="apposition" relation_type="asymmetric" id="106215_23" ></RELATION>
+
+<RELATION theme="106215_20" profession_string="Special Asst. Atty. Gen" theme_string="Bruce T. Bullion" profession="106215_21" gram_type="apposition" relation_type="asymmetric" id="106215_24" ></RELATION>
+

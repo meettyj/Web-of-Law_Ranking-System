@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['mcgeegeorgia#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1058" id1="125519" volume="537" start="0" page_number="1058" standard_reporter="U.S." citation_global_level_id="379.002" line="1" id="125515_1" citation_local_level_id="0" >537 U.S. 1058</CITATION>
+
+<CITATION party2="GEORGIA" party1="McGEE" citation_global_level_id="4384.001" party2_short="GEORGIA" line="1" id="125515_3" alternative_keys="['u.s._537_1058']" end="34" entry_type="party_key" lookup_key="mcgeegeorgia#1" id1="125515" start="18" party1_short="McGEE" citation_local_level_id="1" >McGEE v. GEORGIA</CITATION>
+
+<NAME end="23" start="18" party1_of="125515_3" all_names="MCGEE" local_name_id="1" id="125515_4" >McGEE</NAME>
+
+<NAME end="34" start="27" all_names="GEORGIA" party2_of="125515_3" local_name_id="2" id="125515_5" >GEORGIA</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="u.s._537_1058" id1="125519" start="44" citation_global_level_id="379.002" line="1" id="125515_2" citation_local_level_id="0" >02-6845</DOCKET>
+
+<DATE start="93" end="109" id="125515_6" >December 2, 2002</DATE>
+
+<NAME start="203" local_name_id="3" end="205" id="125515_13" all_names="CT" >Ct</NAME>
+
+<CITATION end="285" reporter="S. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="s.e.2d_566_431" id1="Dummy_File_215761" volume="566" start="269" page_number="431" standard_reporter="S.E.2D" citation_global_level_id="279611.001" line="3" id="125515_12" citation_local_level_id="2" >566 S. E. 2d 431</CITATION>
+
+<RELATION theme="125515_1" includes_docket_string="02-6845" includes_docket="125515_2" theme_string="537 U.S. 1058" gram_type="apposition" relation_type="asymmetric" id="125515_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1058" X_vs_Y_string="McGEE v. GEORGIA" standard_case="125515_1" X_vs_Y="125515_3" gram_type="pre_nom" relation_type="equivalence" id="125515_7" ></RELATION>
+
+<RELATION theme="125515_3" includes_docket_string="02-6845" includes_docket="125515_2" theme_string="McGEE v. GEORGIA" gram_type="apposition" relation_type="asymmetric" id="125515_10" ></RELATION>
+
+<RELATION theme="125515_3" party1="125515_4" party1_string="McGEE" theme_string="McGEE v. GEORGIA" gram_type="infix" relation_type="asymmetric" id="125515_8" ></RELATION>
+
+<RELATION party2="125515_5" theme="125515_3" theme_string="McGEE v. GEORGIA" party2_string="GEORGIA" gram_type="infix" relation_type="asymmetric" id="125515_9" ></RELATION>
+

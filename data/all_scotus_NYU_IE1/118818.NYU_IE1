@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['negreteillinois#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_937" id1="118815" volume="535" start="0" page_number="937" standard_reporter="U.S." citation_global_level_id="459.002" line="1" id="118818_1" citation_local_level_id="0" >535 U.S. 937</CITATION>
+
+<CITATION party2="ILLINOIS" party1="NEGRETE" citation_global_level_id="49602.001" party2_short="ILLINOIS" line="2" id="118818_2" alternative_keys="['u.s._535_937']" end="36" entry_type="party_key" lookup_key="negreteillinois#1" id1="118818" start="17" party1_short="NEGRETE" citation_local_level_id="1" >NEGRETE v. ILLINOIS</CITATION>
+
+<NAME end="24" start="17" party1_of="118818_2" all_names="NEGRETE" local_name_id="1" id="118818_3" >NEGRETE</NAME>
+
+<NAME end="36" start="28" all_names="ILLINOIS" party2_of="118818_2" local_name_id="2" id="118818_4" >ILLINOIS</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="negreteillinois#1" id1="118818" start="46" citation_global_level_id="49602.001" line="3" id="118818_7" citation_local_level_id="1" >01-7676</DOCKET>
+
+<DATE start="99" citation_global_level_id="49602.001" end="113" id="118818_8" citation_local_level_id="1" >March 18, 2002</DATE>
+
+<NAME start="135" local_name_id="3" end="138" id="118818_12" all_names="APP" >App</NAME>
+
+<RELATION theme="118818_2" party1="118818_3" party1_string="NEGRETE" theme_string="NEGRETE v. ILLINOIS" gram_type="infix" relation_type="asymmetric" id="118818_5" ></RELATION>
+
+<RELATION party2="118818_4" theme="118818_2" theme_string="NEGRETE v. ILLINOIS" party2_string="ILLINOIS" gram_type="infix" relation_type="asymmetric" id="118818_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 937" X_vs_Y_string="NEGRETE v. ILLINOIS" standard_case="118818_1" X_vs_Y="118818_2" gram_type="multi_line" relation_type="equivalence" id="118818_9" ></RELATION>
+
+<RELATION at_date_string="March 18, 2002" theme="118818_2" at_date="118818_8" theme_string="NEGRETE v. ILLINOIS" gram_type="multi_line" relation_type="asymmetric" id="118818_11" ></RELATION>
+
+<RELATION theme="118818_2" includes_docket_string="01-7676" includes_docket="118818_7" theme_string="NEGRETE v. ILLINOIS" gram_type="multi_line" relation_type="asymmetric" id="118818_10" ></RELATION>
+

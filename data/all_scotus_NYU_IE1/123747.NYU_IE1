@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['randystepp#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_916" id1="123754" volume="537" start="0" page_number="916" standard_reporter="U.S." citation_global_level_id="8944.002" line="1" id="123747_1" citation_local_level_id="0" >537 U.S. 916</CITATION>
+
+<CITATION party2="STEPP, WARDEN" party1="RANDY" citation_global_level_id="8944.005" party2_short="STEPP" line="1" id="123747_3" alternative_keys="['u.s._537_916']" end="39" entry_type="party_key" lookup_key="randystepp#2" id1="123754" start="17" party1_short="RANDY" citation_local_level_id="1" >RANDY v. STEPP, WARDEN</CITATION>
+
+<NAME end="22" start="17" party1_of="123747_3" all_names="RANDY" local_name_id="1" id="123747_4" >RANDY</NAME>
+
+<NAME end="39" start="26" all_names="STEPP WARDEN" party2_of="123747_3" local_name_id="2" id="123747_5" >STEPP, WARDEN</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._537_916" id1="123754" start="49" citation_global_level_id="8944.002" line="1" id="123747_2" citation_local_level_id="0" >02-5456</DOCKET>
+
+<DATE start="98" end="113" id="123747_6" >October 7, 2002</DATE>
+
+<NAME start="244" local_name_id="3" end="247" id="123747_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="123747_1" includes_docket_string="02-5456" includes_docket="123747_2" theme_string="537 U.S. 916" gram_type="apposition" relation_type="asymmetric" id="123747_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 916" X_vs_Y_string="RANDY v. STEPP, WARDEN" standard_case="123747_1" X_vs_Y="123747_3" gram_type="pre_nom" relation_type="equivalence" id="123747_7" ></RELATION>
+
+<RELATION theme="123747_3" includes_docket_string="02-5456" includes_docket="123747_2" theme_string="RANDY v. STEPP, WARDEN" gram_type="apposition" relation_type="asymmetric" id="123747_10" ></RELATION>
+
+<RELATION theme="123747_3" party1="123747_4" party1_string="RANDY" theme_string="RANDY v. STEPP, WARDEN" gram_type="infix" relation_type="asymmetric" id="123747_8" ></RELATION>
+
+<RELATION party2="123747_5" theme="123747_3" theme_string="RANDY v. STEPP, WARDEN" party2_string="STEPP, WARDEN" gram_type="infix" relation_type="asymmetric" id="123747_9" ></RELATION>
+

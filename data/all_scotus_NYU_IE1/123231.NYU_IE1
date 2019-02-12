@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['connecticutservices#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_878" id1="123237" volume="537" start="0" page_number="878" standard_reporter="U.S." citation_global_level_id="2958.002" line="1" id="123231_1" citation_local_level_id="0" >537 U.S. 878</CITATION>
+
+<CITATION party2="PHYSICIANS HEALTH SERVICES OF CONNECTICUT, INC" party1="CONNECTICUT" citation_global_level_id="52968.001" party2_short="SERVICES" line="1" id="123231_3" alternative_keys="['u.s._537_878']" end="78" entry_type="party_key" lookup_key="connecticutservices#1" id1="123231" start="17" party1_short="CONNECTICUT" citation_local_level_id="1" >CONNECTICUT v. PHYSICIANS HEALTH SERVICES OF CONNECTICUT, INC</CITATION>
+
+<NAME end="28" start="17" party1_of="123231_3" all_names="CONNECTICUT" local_name_id="1" id="123231_4" >CONNECTICUT</NAME>
+
+<NAME end="78" start="32" all_names="PHYSICIANS HEALTH SERVICES OF CONNECTICUT INC" party2_of="123231_3" local_name_id="2" id="123231_5" >PHYSICIANS HEALTH SERVICES OF CONNECTICUT, INC</NAME>
+
+<DOCKET end="92" entry_type="docket" lookup_key="u.s._537_878" id1="123237" start="88" citation_global_level_id="2958.002" line="1" id="123231_2" citation_local_level_id="0" >02-2</DOCKET>
+
+<DATE start="134" end="149" id="123231_6" >October 7, 2002</DATE>
+
+<NAME start="278" local_name_id="3" end="281" id="123231_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="331" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_287_110" id1="Dummy_File_63971" volume="287" start="318" page_number="110" standard_reporter="F.3D" citation_global_level_id="127821.001" line="3" id="123231_12" citation_local_level_id="2" >287 F. 3d 110</CITATION>
+
+<RELATION theme="123231_1" includes_docket_string="02-2" includes_docket="123231_2" theme_string="537 U.S. 878" gram_type="apposition" relation_type="asymmetric" id="123231_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 878" X_vs_Y_string="CONNECTICUT v. PHYSICIANS HEALTH SERVICES OF CONNECTICUT, INC" standard_case="123231_1" X_vs_Y="123231_3" gram_type="pre_nom" relation_type="equivalence" id="123231_7" ></RELATION>
+
+<RELATION theme="123231_3" includes_docket_string="02-2" includes_docket="123231_2" theme_string="CONNECTICUT v. PHYSICIANS HEALTH SERVICES OF CONNECTICUT, INC" gram_type="apposition" relation_type="asymmetric" id="123231_10" ></RELATION>
+
+<RELATION theme="123231_3" party1="123231_4" party1_string="CONNECTICUT" theme_string="CONNECTICUT v. PHYSICIANS HEALTH SERVICES OF CONNECTICUT, INC" gram_type="infix" relation_type="asymmetric" id="123231_8" ></RELATION>
+
+<RELATION party2="123231_5" theme="123231_3" theme_string="CONNECTICUT v. PHYSICIANS HEALTH SERVICES OF CONNECTICUT, INC" party2_string="PHYSICIANS HEALTH SERVICES OF CONNECTICUT, INC" gram_type="infix" relation_type="asymmetric" id="123231_9" ></RELATION>
+

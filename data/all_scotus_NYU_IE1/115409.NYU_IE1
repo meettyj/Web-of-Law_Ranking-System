@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['goldbergflorida#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_998" id1="115413" volume="510" start="0" page_number="998" standard_reporter="U.S." citation_global_level_id="3409.002" line="1" id="115409_1" citation_local_level_id="0" >510 U.S. 998</CITATION>
+
+<CITATION party2="Cleveland Clinic, Florida" party1="Goldberg" citation_global_level_id="10713.001" party2_short="Florida" line="1" id="115409_3" alternative_keys="['u.s._510_998']" end="54" entry_type="party_key" lookup_key="goldbergflorida#1" id1="115409" start="17" party1_short="Goldberg" citation_local_level_id="1" >Goldberg v. Cleveland Clinic, Florida</CITATION>
+
+<NAME end="25" start="17" party1_of="115409_3" all_names="GOLDBERG" local_name_id="1" id="115409_4" >Goldberg</NAME>
+
+<NAME end="54" start="29" all_names="CLEVELAND CLINIC FLORIDA" party2_of="115409_3" local_name_id="2" id="115409_5" >Cleveland Clinic, Florida</NAME>
+
+<DOCKET end="71" entry_type="docket" lookup_key="u.s._510_998" id1="115413" start="64" citation_global_level_id="3409.002" line="1" id="115409_2" citation_local_level_id="0" >93-6268</DOCKET>
+
+<DATE start="113" end="130" id="115409_6" >November 29, 1993</DATE>
+
+<NAME start="207" local_name_id="3" end="217" id="115409_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="254" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_5_1489" id1="Dummy_File_8118" volume="5" start="242" page_number="1489" standard_reporter="F.3D" citation_global_level_id="71968.001" line="3" id="115409_12" citation_local_level_id="2" >5 F. 3d 1489</CITATION>
+
+<RELATION theme="115409_1" includes_docket_string="93-6268" includes_docket="115409_2" theme_string="510 U.S. 998" gram_type="apposition" relation_type="asymmetric" id="115409_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 998" X_vs_Y_string="Goldberg v. Cleveland Clinic, Florida" standard_case="115409_1" X_vs_Y="115409_3" gram_type="pre_nom" relation_type="equivalence" id="115409_7" ></RELATION>
+
+<RELATION theme="115409_3" includes_docket_string="93-6268" includes_docket="115409_2" theme_string="Goldberg v. Cleveland Clinic, Florida" gram_type="apposition" relation_type="asymmetric" id="115409_10" ></RELATION>
+
+<RELATION theme="115409_3" party1="115409_4" party1_string="Goldberg" theme_string="Goldberg v. Cleveland Clinic, Florida" gram_type="infix" relation_type="asymmetric" id="115409_8" ></RELATION>
+
+<RELATION party2="115409_5" theme="115409_3" theme_string="Goldberg v. Cleveland Clinic, Florida" party2_string="Cleveland Clinic, Florida" gram_type="infix" relation_type="asymmetric" id="115409_9" ></RELATION>
+

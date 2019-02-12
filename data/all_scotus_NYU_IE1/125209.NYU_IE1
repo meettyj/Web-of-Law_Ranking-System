@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['manswarden#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1034" id1="125215" volume="537" start="0" page_number="1034" standard_reporter="U.S." citation_global_level_id="438.002" line="1" id="125209_1" citation_local_level_id="0" >537 U.S. 1034</CITATION>
+
+<CITATION party2="YOUNG, WARDEN" party1="MANS" citation_global_level_id="11363.001" party2_short="WARDEN" line="1" id="125209_3" alternative_keys="['u.s._537_1034']" end="39" entry_type="party_key" lookup_key="manswarden#1" id1="125209" start="18" party1_short="MANS" citation_local_level_id="1" >MANS v. YOUNG, WARDEN</CITATION>
+
+<NAME end="22" start="18" party1_of="125209_3" all_names="MANS" local_name_id="1" id="125209_4" >MANS</NAME>
+
+<NAME end="39" start="26" all_names="YOUNG WARDEN" party2_of="125209_3" local_name_id="2" id="125209_5" >YOUNG, WARDEN</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._537_1034" id1="125215" start="49" citation_global_level_id="438.002" line="1" id="125209_2" citation_local_level_id="0" >02-6418</DOCKET>
+
+<DATE start="98" end="115" id="125209_6" >November 18, 2002</DATE>
+
+<NAME start="244" local_name_id="3" end="247" id="125209_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="125209_1" includes_docket_string="02-6418" includes_docket="125209_2" theme_string="537 U.S. 1034" gram_type="apposition" relation_type="asymmetric" id="125209_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1034" X_vs_Y_string="MANS v. YOUNG, WARDEN" standard_case="125209_1" X_vs_Y="125209_3" gram_type="pre_nom" relation_type="equivalence" id="125209_7" ></RELATION>
+
+<RELATION theme="125209_3" includes_docket_string="02-6418" includes_docket="125209_2" theme_string="MANS v. YOUNG, WARDEN" gram_type="apposition" relation_type="asymmetric" id="125209_10" ></RELATION>
+
+<RELATION theme="125209_3" party1="125209_4" party1_string="MANS" theme_string="MANS v. YOUNG, WARDEN" gram_type="infix" relation_type="asymmetric" id="125209_8" ></RELATION>
+
+<RELATION party2="125209_5" theme="125209_3" theme_string="MANS v. YOUNG, WARDEN" party2_string="YOUNG, WARDEN" gram_type="infix" relation_type="asymmetric" id="125209_9" ></RELATION>
+

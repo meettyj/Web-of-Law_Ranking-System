@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['lorensasser#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1057" id1="129961" volume="538" start="0" page_number="1057" standard_reporter="U.S." citation_global_level_id="1276.002" line="1" id="129955_1" citation_local_level_id="0" >538 U.S. 1057</CITATION>
+
+<CITATION party2="SASSER ET AL" party1="LOREN" citation_global_level_id="3926.001" party2_short="SASSER" line="1" id="129955_3" alternative_keys="['u.s._538_1057']" end="39" entry_type="party_key" lookup_key="lorensasser#1" id1="129955" start="18" party1_short="LOREN" citation_local_level_id="1" >LOREN v. SASSER ET AL</CITATION>
+
+<NAME end="23" start="18" party1_of="129955_3" all_names="LOREN" local_name_id="1" id="129955_4" >LOREN</NAME>
+
+<NAME end="39" start="27" all_names="SASSER" party2_of="129955_3" local_name_id="2" id="129955_5" >SASSER ET AL</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._538_1057" id1="129961" start="49" citation_global_level_id="1276.002" line="1" id="129955_2" citation_local_level_id="0" >02-1390</DOCKET>
+
+<DATE start="98" end="110" id="129955_6" >May 27, 2003</DATE>
+
+<NAME start="242" local_name_id="3" end="245" id="129955_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="295" reporter="F.3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_309_1296" id1="Dummy_File_77232" volume="309" start="282" page_number="1296" standard_reporter="F.3D" citation_global_level_id="141082.001" line="3" id="129955_12" citation_local_level_id="2" >309 F.3d 1296</CITATION>
+
+<RELATION theme="129955_1" includes_docket_string="02-1390" includes_docket="129955_2" theme_string="538 U.S. 1057" gram_type="apposition" relation_type="asymmetric" id="129955_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1057" X_vs_Y_string="LOREN v. SASSER ET AL" standard_case="129955_1" X_vs_Y="129955_3" gram_type="pre_nom" relation_type="equivalence" id="129955_7" ></RELATION>
+
+<RELATION theme="129955_3" includes_docket_string="02-1390" includes_docket="129955_2" theme_string="LOREN v. SASSER ET AL" gram_type="apposition" relation_type="asymmetric" id="129955_10" ></RELATION>
+
+<RELATION theme="129955_3" party1="129955_4" party1_string="LOREN" theme_string="LOREN v. SASSER ET AL" gram_type="infix" relation_type="asymmetric" id="129955_8" ></RELATION>
+
+<RELATION party2="129955_5" theme="129955_3" theme_string="LOREN v. SASSER ET AL" party2_string="SASSER ET AL" gram_type="infix" relation_type="asymmetric" id="129955_9" ></RELATION>
+

@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['millerdemarino#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1200" id1="127274" volume="537" start="0" page_number="1200" standard_reporter="U.S." citation_global_level_id="776.002" line="1" id="127280_1" citation_local_level_id="0" >537 U.S. 1200</CITATION>
+
+<CITATION party2="DEMARINO ET AL" party1="MILLER" citation_global_level_id="34159.001" party2_short="DEMARINO" line="1" id="127280_3" alternative_keys="['u.s._537_1200']" end="42" entry_type="party_key" lookup_key="millerdemarino#2" id1="129563" start="18" party1_short="MILLER" citation_local_level_id="1" >MILLER v. DEMARINO ET AL</CITATION>
+
+<NAME end="24" start="18" party1_of="127280_3" all_names="MILLER" local_name_id="1" id="127280_4" >MILLER</NAME>
+
+<NAME end="42" start="28" all_names="DEMARINO" party2_of="127280_3" local_name_id="2" id="127280_5" >DEMARINO ET AL</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="u.s._537_1200" id1="127274" start="52" citation_global_level_id="776.002" line="1" id="127280_2" citation_local_level_id="0" >02-7920</DOCKET>
+
+<DATE start="101" end="118" id="127280_6" >February 24, 2003</DATE>
+
+<NAME start="248" local_name_id="3" end="251" id="127280_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="127280_1" includes_docket_string="02-7920" includes_docket="127280_2" theme_string="537 U.S. 1200" gram_type="apposition" relation_type="asymmetric" id="127280_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1200" X_vs_Y_string="MILLER v. DEMARINO ET AL" standard_case="127280_1" X_vs_Y="127280_3" gram_type="pre_nom" relation_type="equivalence" id="127280_7" ></RELATION>
+
+<RELATION theme="127280_3" includes_docket_string="02-7920" includes_docket="127280_2" theme_string="MILLER v. DEMARINO ET AL" gram_type="apposition" relation_type="asymmetric" id="127280_10" ></RELATION>
+
+<RELATION theme="127280_3" party1="127280_4" party1_string="MILLER" theme_string="MILLER v. DEMARINO ET AL" gram_type="infix" relation_type="asymmetric" id="127280_8" ></RELATION>
+
+<RELATION party2="127280_5" theme="127280_3" theme_string="MILLER v. DEMARINO ET AL" party2_string="DEMARINO ET AL" gram_type="infix" relation_type="asymmetric" id="127280_9" ></RELATION>
+

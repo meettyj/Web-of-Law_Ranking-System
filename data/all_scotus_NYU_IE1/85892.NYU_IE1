@@ -1,0 +1,36 @@
+<CITATION alternative_keys="['brownswann#3']" end="19" reporter="U.S." entry_type="standard_key" lookup_key="u.s._33_435" id1="85913" volume="33" start="1" page_number="435" standard_reporter="U.S." citation_global_level_id="42814.002" line="2" id="85892_1" citation_local_level_id="0" >33 U.S. 435 (____)</CITATION>
+
+<NAME start="22" local_name_id="1" end="25" id="85892_2" all_names="PET" >Pet</NAME>
+
+<CITATION end="25" line="3" id="85892_3" alternative_keys="['u.s._32_453', 'ex parte martha bradstreet#1', 'u.s._33_588', 'ex parte tobias watkins#2', 'u.s._28_193', 'in the matter of duncan n hennen#1', 'u.s._38_230', 'ex parte myra clarke whitney#1', 'u.s._38_404', 'u.s._38_225', 'ex parte benjamin story#1', 'u.s._37_339', 'the state of rhode island#1', 'the state of massachusetts ads#1', 'u.s._37_755', 'ex parte george adshead#1', 'ex parte joseph roberts and#1', 'u.s._31_216', 'u.s._31_143', 'u.s._31_774', 'u.s._26_264', 'the port of new york#1', 'ex parte jesse hoyt collector of#1', 'u.s._38_279', 'u.s._27_566', 'u.s._34_711', 'ex parte anderson crenshaw#1', 'u.s._40_119', 'ex parte john l tillinghast esquire#1', 'u.s._29_108', 'u.s._39_540', 'in the matter of martha bradstreet demandant#1', 'u.s._32_634', 'ex parte nathaniel crane and samuel#1', 'jacksonkelly#1', 'u.s._30_190', 'u.s._33_306', 'u.s._33_291', 'ex parte john a davenport#1', 'u.s._31_661', 'u.s._32_568']" citation_global_level_id="3762.003" name="Pet" no_current_file="True" entry_type="case_key" lookup_key="pet#1" id1="85842" start="22" citation_local_level_id="1" >Pet</CITATION>
+
+<CITATION party2="FRANCES SWANN AND OTHERS" alternative_keys="['u.s._33_435']" party1="ELIZA BROWN," end="83" party1_short="BROWN" entry_type="party_key" party1_role="appellant" lookup_key="brownswann#3" id1="85913" start="31" citation_global_level_id="42814.001" party2_short="SWANN" line="6" id="85892_7" citation_local_level_id="2" >ELIZA BROWN, APPELLANT v. FRANCES SWANN AND OTHERS</CITATION>
+
+<NAME end="43" start="31" party1_of="85892_7" all_names="ELIZA BROWN" local_name_id="2" id="85892_8" >ELIZA BROWN,</NAME>
+
+<LEGAL_ROLE start="44" end="53" id="85892_10" party="party1" >APPELLANT</LEGAL_ROLE>
+
+<NAME end="83" start="59" all_names="FRANCES SWANN AND OTHERS" party2_of="85892_7" local_name_id="3" id="85892_9" >FRANCES SWANN AND OTHERS</NAME>
+
+<ORGANIZATION start="85" end="115" id="85892_13" >Supreme Court of United States</ORGANIZATION>
+
+<PROFESSION start="118" document_level_name_id="4" end="134" id="85892_16" party="MARSHALL" >Mr Chief Justice</PROFESSION>
+
+<NAME start="135" local_name_id="4" end="143" id="85892_17" all_names="MARSHALL" >MARSHALL</NAME>
+
+<ORGANIZATION start="197" end="202" id="85892_19" >court</ORGANIZATION>
+
+<ORGANIZATION start="212" end="217" id="85892_20" >court</ORGANIZATION>
+
+<LEGAL_ROLE start="246" end="255" id="85892_21" party="party1" >appellant</LEGAL_ROLE>
+
+<RELATION theme="85892_7" party1="85892_8" party1_string="ELIZA BROWN," theme_string="ELIZA BROWN, APPELLANT  v.  FRANCES SWANN AND OTHERS" gram_type="infix" relation_type="asymmetric" id="85892_11" ></RELATION>
+
+<RELATION party2="85892_9" theme="85892_7" theme_string="ELIZA BROWN, APPELLANT  v.  FRANCES SWANN AND OTHERS" party2_string="FRANCES SWANN AND OTHERS" gram_type="infix" relation_type="asymmetric" id="85892_12" ></RELATION>
+
+<RELATION standard_case_string="33 U.S. 435 (____)" X_vs_Y_string="ELIZA BROWN, APPELLANT  v.  FRANCES SWANN AND OTHERS" standard_case="85892_1" X_vs_Y="85892_7" gram_type="multi_line" relation_type="equivalence" id="85892_15" ></RELATION>
+
+<RELATION case_citation_other="85892_3" id="85892_14" X_vs_Y_string="ELIZA BROWN, APPELLANT  v.  FRANCES SWANN AND OTHERS" X_vs_Y="85892_7" gram_type="multi_line" relation_type="equivalence" case_citation_other_string="Pet" ></RELATION>
+
+<RELATION theme="85892_17" profession_string="Mr Chief Justice" theme_string="MARSHALL" profession="85892_16" gram_type="pre_nom" relation_type="asymmetric" id="85892_18" ></RELATION>
+

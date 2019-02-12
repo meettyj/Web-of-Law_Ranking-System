@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['mcgowansowders#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_921" id1="114445" volume="510" start="0" page_number="921" standard_reporter="U.S." citation_global_level_id="11450.002" line="1" id="114445_1" citation_local_level_id="0" >510 U.S. 921</CITATION>
+
+<CITATION party2="Sowders, Warden" party1="McGowan" citation_global_level_id="11450.003" party2_short="Sowders" line="1" id="114445_3" alternative_keys="['u.s._510_921']" end="43" entry_type="party_key" lookup_key="mcgowansowders#1" id1="114445" start="17" party1_short="McGowan" citation_local_level_id="1" >McGowan v. Sowders, Warden</CITATION>
+
+<NAME end="24" start="17" party1_of="114445_3" all_names="MCGOWAN" local_name_id="1" id="114445_4" >McGowan</NAME>
+
+<NAME end="43" start="28" all_names="SOWDERS WARDEN" party2_of="114445_3" local_name_id="2" id="114445_5" >Sowders, Warden</NAME>
+
+<DOCKET end="60" entry_type="docket" lookup_key="u.s._510_921" id1="114445" start="53" citation_global_level_id="11450.002" line="1" id="114445_2" citation_local_level_id="0" >93-5616</DOCKET>
+
+<DATE start="102" end="118" id="114445_6" >October 12, 1993</DATE>
+
+<NAME start="196" local_name_id="3" end="206" id="114445_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="245" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_993_1547" id1="Dummy_File_16487" volume="993" start="231" page_number="1547" standard_reporter="F.2D" citation_global_level_id="80337.001" line="3" id="114445_12" citation_local_level_id="2" >993 F. 2d 1547</CITATION>
+
+<RELATION theme="114445_1" includes_docket_string="93-5616" includes_docket="114445_2" theme_string="510 U.S. 921" gram_type="apposition" relation_type="asymmetric" id="114445_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 921" X_vs_Y_string="McGowan v. Sowders, Warden" standard_case="114445_1" X_vs_Y="114445_3" gram_type="pre_nom" relation_type="equivalence" id="114445_7" ></RELATION>
+
+<RELATION theme="114445_3" includes_docket_string="93-5616" includes_docket="114445_2" theme_string="McGowan v. Sowders, Warden" gram_type="apposition" relation_type="asymmetric" id="114445_10" ></RELATION>
+
+<RELATION theme="114445_3" party1="114445_4" party1_string="McGowan" theme_string="McGowan v. Sowders, Warden" gram_type="infix" relation_type="asymmetric" id="114445_8" ></RELATION>
+
+<RELATION party2="114445_5" theme="114445_3" theme_string="McGowan v. Sowders, Warden" party2_string="Sowders, Warden" gram_type="infix" relation_type="asymmetric" id="114445_9" ></RELATION>
+

@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['dadocalifornia#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_921" id1="123817" volume="537" start="0" page_number="921" standard_reporter="U.S." citation_global_level_id="6600.002" line="1" id="123816_1" citation_local_level_id="0" >537 U.S. 921</CITATION>
+
+<CITATION party2="CALIFORNIA" party1="RODRIGUEZ DADO" citation_global_level_id="51982.001" party2_short="CALIFORNIA" line="1" id="123816_3" alternative_keys="['u.s._537_921']" end="45" entry_type="party_key" lookup_key="dadocalifornia#1" id1="123816" start="17" party1_short="DADO" citation_local_level_id="1" >RODRIGUEZ DADO v. CALIFORNIA</CITATION>
+
+<NAME end="31" start="17" party1_of="123816_3" all_names="RODRIGUEZ DADO" local_name_id="1" id="123816_4" >RODRIGUEZ DADO</NAME>
+
+<NAME end="45" start="35" all_names="CALIFORNIA" party2_of="123816_3" local_name_id="2" id="123816_5" >CALIFORNIA</NAME>
+
+<DOCKET end="62" entry_type="docket" lookup_key="u.s._537_921" id1="123817" start="55" citation_global_level_id="6600.002" line="1" id="123816_2" citation_local_level_id="0" >02-5528</DOCKET>
+
+<DATE start="104" end="119" id="123816_6" >October 7, 2002</DATE>
+
+<NAME start="250" local_name_id="3" end="252" id="123816_12" all_names="CT" >Ct</NAME>
+
+<RELATION theme="123816_1" includes_docket_string="02-5528" includes_docket="123816_2" theme_string="537 U.S. 921" gram_type="apposition" relation_type="asymmetric" id="123816_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 921" X_vs_Y_string="RODRIGUEZ DADO v. CALIFORNIA" standard_case="123816_1" X_vs_Y="123816_3" gram_type="pre_nom" relation_type="equivalence" id="123816_7" ></RELATION>
+
+<RELATION theme="123816_3" includes_docket_string="02-5528" includes_docket="123816_2" theme_string="RODRIGUEZ DADO v. CALIFORNIA" gram_type="apposition" relation_type="asymmetric" id="123816_10" ></RELATION>
+
+<RELATION theme="123816_3" party1="123816_4" party1_string="RODRIGUEZ DADO" theme_string="RODRIGUEZ DADO v. CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="123816_8" ></RELATION>
+
+<RELATION party2="123816_5" theme="123816_3" theme_string="RODRIGUEZ DADO v. CALIFORNIA" party2_string="CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="123816_9" ></RELATION>
+

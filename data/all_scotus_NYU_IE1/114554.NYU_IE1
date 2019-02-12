@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['madisonstates#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_929" id1="114556" volume="510" start="0" page_number="929" standard_reporter="U.S." citation_global_level_id="15832.002" line="1" id="114554_1" citation_local_level_id="0" >510 U.S. 929</CITATION>
+
+<CITATION party2="United States" party1="Madison" citation_global_level_id="22233.001" party2_short="States" line="1" id="114554_3" alternative_keys="['u.s._510_929']" end="41" entry_type="party_key" lookup_key="madisonstates#1" id1="114554" start="17" party1_short="Madison" citation_local_level_id="1" >Madison v. United States</CITATION>
+
+<NAME end="24" start="17" party1_of="114554_3" all_names="MADISON" local_name_id="1" id="114554_4" >Madison</NAME>
+
+<NAME end="41" start="28" all_names="UNITED STATES" party2_of="114554_3" local_name_id="2" id="114554_5" >United States</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._510_929" id1="114556" start="51" citation_global_level_id="15832.002" line="1" id="114554_2" citation_local_level_id="0" >93-5374</DOCKET>
+
+<DATE start="100" end="116" id="114554_6" >October 15, 1993</DATE>
+
+<NAME start="194" local_name_id="3" end="204" id="114554_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<ORGANIZATION start="226" end="231" id="114554_14" >Court</ORGANIZATION>
+
+<NAME start="234" local_name_id="4" end="251" id="114554_15" all_names="RULE 46 REPORTED" >Rule 46. Reported</NAME>
+
+<CITATION end="272" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_990_178" id1="Dummy_File_186079" volume="990" start="259" page_number="178" standard_reporter="F.2D" citation_global_level_id="249929.001" line="3" id="114554_12" citation_local_level_id="2" >990 F. 2d 178</CITATION>
+
+<RELATION theme="114554_1" includes_docket_string="93-5374" includes_docket="114554_2" theme_string="510 U.S. 929" gram_type="apposition" relation_type="asymmetric" id="114554_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 929" X_vs_Y_string="Madison v. United States" standard_case="114554_1" X_vs_Y="114554_3" gram_type="pre_nom" relation_type="equivalence" id="114554_7" ></RELATION>
+
+<RELATION theme="114554_3" includes_docket_string="93-5374" includes_docket="114554_2" theme_string="Madison v. United States" gram_type="apposition" relation_type="asymmetric" id="114554_10" ></RELATION>
+
+<RELATION theme="114554_3" party1="114554_4" party1_string="Madison" theme_string="Madison v. United States" gram_type="infix" relation_type="asymmetric" id="114554_8" ></RELATION>
+
+<RELATION party2="114554_5" theme="114554_3" theme_string="Madison v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="114554_9" ></RELATION>
+

@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['danielsmclemore#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._542_962" id1="137687" volume="542" start="0" page_number="962" standard_reporter="U.S." citation_global_level_id="1358.002" line="1" id="137696_1" citation_local_level_id="0" >542 U.S. 962</CITATION>
+
+<CITATION party2="McLEMORE, WARDEN" party1="DANIELS" citation_global_level_id="149.004" party2_short="McLEMORE" line="1" id="137696_3" alternative_keys="['u.s._541_1088']" end="44" entry_type="party_key" lookup_key="danielsmclemore#1" id1="136898" start="17" party1_short="DANIELS" citation_local_level_id="1" >DANIELS v. McLEMORE, WARDEN</CITATION>
+
+<NAME end="24" start="17" party1_of="137696_3" all_names="DANIELS" local_name_id="1" id="137696_4" >DANIELS</NAME>
+
+<NAME end="44" start="28" all_names="MCLEMORE WARDEN" party2_of="137696_3" local_name_id="2" id="137696_5" >McLEMORE, WARDEN</NAME>
+
+<DOCKET end="61" entry_type="docket" lookup_key="u.s._542_962" id1="137687" start="54" citation_global_level_id="1358.002" line="1" id="137696_2" citation_local_level_id="0" >03-9658</DOCKET>
+
+<DATE start="103" end="120" id="137696_6" >September 3, 2004</DATE>
+
+<CITATION end="228" reporter="U. S." entry_type="standard_key" lookup_key="u.s._541_1088" id1="136898" volume="541" start="214" page_number="1088" standard_reporter="U.S." citation_global_level_id="149.002" line="3" id="137696_12" citation_local_level_id="2" >541 U. S. 1088</CITATION>
+
+<RELATION theme="137696_1" includes_docket_string="03-9658" includes_docket="137696_2" theme_string="542 U.S. 962" gram_type="apposition" relation_type="asymmetric" id="137696_11" ></RELATION>
+
+<RELATION standard_case_string="542 U.S. 962" X_vs_Y_string="DANIELS v. McLEMORE, WARDEN" standard_case="137696_1" X_vs_Y="137696_3" gram_type="pre_nom" relation_type="equivalence" id="137696_7" ></RELATION>
+
+<RELATION theme="137696_3" includes_docket_string="03-9658" includes_docket="137696_2" theme_string="DANIELS v. McLEMORE, WARDEN" gram_type="apposition" relation_type="asymmetric" id="137696_10" ></RELATION>
+
+<RELATION theme="137696_3" party1="137696_4" party1_string="DANIELS" theme_string="DANIELS v. McLEMORE, WARDEN" gram_type="infix" relation_type="asymmetric" id="137696_8" ></RELATION>
+
+<RELATION party2="137696_5" theme="137696_3" theme_string="DANIELS v. McLEMORE, WARDEN" party2_string="McLEMORE, WARDEN" gram_type="infix" relation_type="asymmetric" id="137696_9" ></RELATION>
+

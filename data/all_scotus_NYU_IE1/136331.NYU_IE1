@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['cuttsfinance#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_1046" id1="136323" volume="541" start="0" page_number="1046" standard_reporter="U.S." citation_global_level_id="2873.002" line="1" id="136331_1" citation_local_level_id="0" >541 U.S. 1046</CITATION>
+
+<CITATION party2="LINCOLN FINANCE CO. ET AL" party1="CUTTS ET UX." citation_global_level_id="49975.001" party2_short="FINANCE" line="2" id="136331_2" alternative_keys="['u.s._541_1046']" end="59" entry_type="party_key" lookup_key="cuttsfinance#1" id1="136331" start="18" party1_short="CUTTS" citation_local_level_id="1" >CUTTS ET UX. v. LINCOLN FINANCE CO. ET AL</CITATION>
+
+<NAME end="30" start="18" party1_of="136331_2" all_names="CUTTS UX" local_name_id="1" id="136331_3" >CUTTS ET UX.</NAME>
+
+<NAME end="59" start="34" all_names="LINCOLN FINANCE CO" party2_of="136331_2" local_name_id="2" id="136331_4" >LINCOLN FINANCE CO. ET AL</NAME>
+
+<ORGANIZATION start="50" end="52" id="136331_5" >CO</ORGANIZATION>
+
+<DOCKET end="76" entry_type="docket" lookup_key="cuttsfinance#1" id1="136331" start="69" citation_global_level_id="49975.001" line="3" id="136331_8" citation_local_level_id="1" >03-9306</DOCKET>
+
+<ORGANIZATION start="82" end="112" id="136331_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="118" citation_global_level_id="49975.001" end="130" id="136331_10" citation_local_level_id="1" >May 17, 2004</DATE>
+
+<NAME start="162" local_name_id="3" end="165" id="136331_14" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="136331_2" party1="136331_3" party1_string="CUTTS ET UX." theme_string="CUTTS ET UX. v. LINCOLN FINANCE CO. ET AL" gram_type="infix" relation_type="asymmetric" id="136331_6" ></RELATION>
+
+<RELATION party2="136331_4" theme="136331_2" theme_string="CUTTS ET UX. v. LINCOLN FINANCE CO. ET AL" party2_string="LINCOLN FINANCE CO. ET AL" gram_type="infix" relation_type="asymmetric" id="136331_7" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 1046" X_vs_Y_string="CUTTS ET UX. v. LINCOLN FINANCE CO. ET AL" standard_case="136331_1" X_vs_Y="136331_2" gram_type="multi_line" relation_type="equivalence" id="136331_11" ></RELATION>
+
+<RELATION at_date_string="May 17, 2004" theme="136331_2" at_date="136331_10" theme_string="CUTTS ET UX. v. LINCOLN FINANCE CO. ET AL" gram_type="multi_line" relation_type="asymmetric" id="136331_13" ></RELATION>
+
+<RELATION theme="136331_2" includes_docket_string="03-9306" includes_docket="136331_8" theme_string="CUTTS ET UX. v. LINCOLN FINANCE CO. ET AL" gram_type="multi_line" relation_type="asymmetric" id="136331_12" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['slaughtermississippi#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1107" id1="126135" volume="537" start="0" page_number="1107" standard_reporter="U.S." citation_global_level_id="2580.002" line="1" id="126142_1" citation_local_level_id="0" >537 U.S. 1107</CITATION>
+
+<CITATION party2="MISSISSIPPI" party1="SLAUGHTER" citation_global_level_id="38903.001" party2_short="MISSISSIPPI" line="1" id="126142_3" alternative_keys="['u.s._537_1107']" end="42" entry_type="party_key" lookup_key="slaughtermississippi#1" id1="126142" start="18" party1_short="SLAUGHTER" citation_local_level_id="1" >SLAUGHTER v. MISSISSIPPI</CITATION>
+
+<NAME end="27" start="18" party1_of="126142_3" all_names="SLAUGHTER" local_name_id="1" id="126142_4" >SLAUGHTER</NAME>
+
+<NAME end="42" start="31" all_names="MISSISSIPPI" party2_of="126142_3" local_name_id="2" id="126142_5" >MISSISSIPPI</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._537_1107" id1="126135" start="52" citation_global_level_id="2580.002" line="1" id="126142_2" citation_local_level_id="0" >02-614</DOCKET>
+
+<DATE start="100" end="116" id="126142_6" >January 13, 2003</DATE>
+
+<NAME start="211" local_name_id="3" end="214" id="126142_13" all_names="SUP" >Sup</NAME>
+
+<CITATION end="276" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_815_1122" id1="Dummy_File_130249" volume="815" start="261" page_number="1122" standard_reporter="SO.2D" citation_global_level_id="194099.001" line="3" id="126142_12" citation_local_level_id="2" >815 So. 2d 1122</CITATION>
+
+<RELATION theme="126142_1" includes_docket_string="02-614" includes_docket="126142_2" theme_string="537 U.S. 1107" gram_type="apposition" relation_type="asymmetric" id="126142_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1107" X_vs_Y_string="SLAUGHTER v. MISSISSIPPI" standard_case="126142_1" X_vs_Y="126142_3" gram_type="pre_nom" relation_type="equivalence" id="126142_7" ></RELATION>
+
+<RELATION theme="126142_3" includes_docket_string="02-614" includes_docket="126142_2" theme_string="SLAUGHTER v. MISSISSIPPI" gram_type="apposition" relation_type="asymmetric" id="126142_10" ></RELATION>
+
+<RELATION theme="126142_3" party1="126142_4" party1_string="SLAUGHTER" theme_string="SLAUGHTER v. MISSISSIPPI" gram_type="infix" relation_type="asymmetric" id="126142_8" ></RELATION>
+
+<RELATION party2="126142_5" theme="126142_3" theme_string="SLAUGHTER v. MISSISSIPPI" party2_string="MISSISSIPPI" gram_type="infix" relation_type="asymmetric" id="126142_9" ></RELATION>
+

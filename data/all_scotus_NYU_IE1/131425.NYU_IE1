@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['ramcooper#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_822" id1="131425" volume="540" start="0" page_number="822" standard_reporter="U.S." citation_global_level_id="9693.002" line="1" id="131425_1" citation_local_level_id="0" >540 U.S. 822</CITATION>
+
+<CITATION party2="COOPER" party1="RAM ET UX." citation_global_level_id="9693.001" party2_short="COOPER" line="1" id="131425_3" alternative_keys="['u.s._540_822']" end="37" entry_type="party_key" lookup_key="ramcooper#1" id1="131425" start="17" party1_short="RAM" citation_local_level_id="1" >RAM ET UX. v. COOPER</CITATION>
+
+<NAME end="27" start="17" party1_of="131425_3" all_names="RAM UX" local_name_id="1" id="131425_4" >RAM ET UX.</NAME>
+
+<NAME start="17" local_name_id="1" end="26" id="131425_8" all_names="RAM UX" >RAM ET UX</NAME>
+
+<NAME end="37" start="31" all_names="COOPER" party2_of="131425_3" local_name_id="2" id="131425_5" >COOPER</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="u.s._540_822" id1="131425" start="47" citation_global_level_id="9693.002" line="1" id="131425_2" citation_local_level_id="0" >02-1806</DOCKET>
+
+<DATE start="50" end="54" id="131425_6" >1806</DATE>
+
+<DATE start="96" end="111" id="131425_7" >October 6, 2003</DATE>
+
+<NAME start="204" local_name_id="3" end="214" id="131425_15" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="131425_1" includes_docket_string="02-1806" includes_docket="131425_2" theme_string="540 U.S. 822" gram_type="apposition" relation_type="asymmetric" id="131425_13" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 822" X_vs_Y_string="RAM ET UX. v. COOPER" standard_case="131425_1" X_vs_Y="131425_3" gram_type="pre_nom" relation_type="equivalence" id="131425_9" ></RELATION>
+
+<RELATION theme="131425_3" includes_docket_string="02-1806" includes_docket="131425_2" theme_string="RAM ET UX. v. COOPER" gram_type="apposition" relation_type="asymmetric" id="131425_12" ></RELATION>
+
+<RELATION theme="131425_3" party1="131425_4" party1_string="RAM ET UX." theme_string="RAM ET UX. v. COOPER" gram_type="infix" relation_type="asymmetric" id="131425_10" ></RELATION>
+
+<RELATION party2="131425_5" theme="131425_3" theme_string="RAM ET UX. v. COOPER" party2_string="COOPER" gram_type="infix" relation_type="asymmetric" id="131425_11" ></RELATION>
+
+<RELATION at_date_string="1806" theme="131425_2" at_date="131425_6" theme_string="02-1806" gram_type="infix" relation_type="asymmetric" id="131425_14" ></RELATION>
+

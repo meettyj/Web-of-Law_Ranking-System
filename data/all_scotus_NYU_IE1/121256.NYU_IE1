@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['jacksondepartment#4']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._536_908" id1="121253" volume="536" start="0" page_number="908" standard_reporter="U.S." citation_global_level_id="3773.002" line="1" id="121256_1" citation_local_level_id="0" >536 U.S. 908</CITATION>
+
+<CITATION party2="FLORIDA DEPARTMENT OF CORRECTIONS" party1="JACKSON" citation_global_level_id="16944.001" party2_short="DEPARTMENT" line="2" id="121256_2" alternative_keys="['u.s._536_908']" end="61" entry_type="party_key" lookup_key="jacksondepartment#4" id1="121256" start="17" party1_short="JACKSON" citation_local_level_id="1" >JACKSON v. FLORIDA DEPARTMENT OF CORRECTIONS</CITATION>
+
+<NAME end="24" start="17" party1_of="121256_2" all_names="JACKSON" local_name_id="1" id="121256_3" >JACKSON</NAME>
+
+<NAME end="61" start="28" all_names="FLORIDA DEPARTMENT OF CORRECTIONS" party2_of="121256_2" local_name_id="2" id="121256_4" >FLORIDA DEPARTMENT OF CORRECTIONS</NAME>
+
+<DOCKET end="78" entry_type="docket" lookup_key="jacksondepartment#4" id1="121256" start="71" citation_global_level_id="16944.001" line="3" id="121256_7" citation_local_level_id="1" >01-9518</DOCKET>
+
+<DATE start="124" citation_global_level_id="16944.001" end="137" id="121256_8" citation_local_level_id="1" >June 10, 2002</DATE>
+
+<NAME start="159" local_name_id="3" end="162" id="121256_13" all_names="SUP" >Sup</NAME>
+
+<CITATION end="222" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_790_398" id1="Dummy_File_16469" volume="790" start="208" page_number="398" standard_reporter="SO.2D" citation_global_level_id="80319.001" line="8" id="121256_12" citation_local_level_id="2" >790 So. 2d 398</CITATION>
+
+<RELATION theme="121256_2" party1="121256_3" party1_string="JACKSON" theme_string="JACKSON v. FLORIDA DEPARTMENT OF CORRECTIONS" gram_type="infix" relation_type="asymmetric" id="121256_5" ></RELATION>
+
+<RELATION party2="121256_4" theme="121256_2" theme_string="JACKSON v. FLORIDA DEPARTMENT OF CORRECTIONS" party2_string="FLORIDA DEPARTMENT OF CORRECTIONS" gram_type="infix" relation_type="asymmetric" id="121256_6" ></RELATION>
+
+<RELATION standard_case_string="536 U.S. 908" X_vs_Y_string="JACKSON v. FLORIDA DEPARTMENT OF CORRECTIONS" standard_case="121256_1" X_vs_Y="121256_2" gram_type="multi_line" relation_type="equivalence" id="121256_9" ></RELATION>
+
+<RELATION at_date_string="June 10, 2002" theme="121256_2" at_date="121256_8" theme_string="JACKSON v. FLORIDA DEPARTMENT OF CORRECTIONS" gram_type="multi_line" relation_type="asymmetric" id="121256_11" ></RELATION>
+
+<RELATION theme="121256_2" includes_docket_string="01-9518" includes_docket="121256_7" theme_string="JACKSON v. FLORIDA DEPARTMENT OF CORRECTIONS" gram_type="multi_line" relation_type="asymmetric" id="121256_10" ></RELATION>
+

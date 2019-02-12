@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['scottbouchard#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1003" id1="129240" volume="538" start="0" page_number="1003" standard_reporter="U.S." citation_global_level_id="780.002" line="1" id="129242_1" citation_local_level_id="0" >538 U.S. 1003</CITATION>
+
+<CITATION party2="BOUCHARD, WARDEN" party1="SCOTT" citation_global_level_id="780.006" party2_short="BOUCHARD" line="1" id="129242_3" alternative_keys="['u.s._538_1003']" end="43" entry_type="party_key" lookup_key="scottbouchard#1" id1="129240" start="18" party1_short="SCOTT" citation_local_level_id="1" >SCOTT v. BOUCHARD, WARDEN</CITATION>
+
+<NAME end="23" start="18" party1_of="129242_3" all_names="SCOTT" local_name_id="1" id="129242_4" >SCOTT</NAME>
+
+<NAME end="43" start="27" all_names="BOUCHARD WARDEN" party2_of="129242_3" local_name_id="2" id="129242_5" >BOUCHARD, WARDEN</NAME>
+
+<DOCKET end="60" entry_type="docket" lookup_key="u.s._538_1003" id1="129240" start="53" citation_global_level_id="780.002" line="1" id="129242_2" citation_local_level_id="0" >02-9245</DOCKET>
+
+<DATE start="102" end="116" id="129242_6" >April 28, 2003</DATE>
+
+<NAME start="244" local_name_id="3" end="247" id="129242_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="129242_1" includes_docket_string="02-9245" includes_docket="129242_2" theme_string="538 U.S. 1003" gram_type="apposition" relation_type="asymmetric" id="129242_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1003" X_vs_Y_string="SCOTT v. BOUCHARD, WARDEN" standard_case="129242_1" X_vs_Y="129242_3" gram_type="pre_nom" relation_type="equivalence" id="129242_7" ></RELATION>
+
+<RELATION theme="129242_3" includes_docket_string="02-9245" includes_docket="129242_2" theme_string="SCOTT v. BOUCHARD, WARDEN" gram_type="apposition" relation_type="asymmetric" id="129242_10" ></RELATION>
+
+<RELATION theme="129242_3" party1="129242_4" party1_string="SCOTT" theme_string="SCOTT v. BOUCHARD, WARDEN" gram_type="infix" relation_type="asymmetric" id="129242_8" ></RELATION>
+
+<RELATION party2="129242_5" theme="129242_3" theme_string="SCOTT v. BOUCHARD, WARDEN" party2_string="BOUCHARD, WARDEN" gram_type="infix" relation_type="asymmetric" id="129242_9" ></RELATION>
+

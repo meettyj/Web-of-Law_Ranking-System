@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['roewarden#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_853" id1="131835" volume="540" start="0" page_number="853" standard_reporter="U.S." citation_global_level_id="10955.002" line="1" id="131824_1" citation_local_level_id="0" >540 U.S. 853</CITATION>
+
+<CITATION party2="BAKER, WARDEN" party1="ROE" citation_global_level_id="43824.001" party2_short="WARDEN" line="1" id="131824_3" alternative_keys="['u.s._540_853']" end="37" entry_type="party_key" lookup_key="roewarden#1" id1="131824" start="17" party1_short="ROE" citation_local_level_id="1" >ROE v. BAKER, WARDEN</CITATION>
+
+<NAME end="20" start="17" party1_of="131824_3" all_names="ROE" local_name_id="1" id="131824_4" >ROE</NAME>
+
+<NAME end="37" start="24" all_names="BAKER WARDEN" party2_of="131824_3" local_name_id="2" id="131824_5" >BAKER, WARDEN</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._540_853" id1="131835" start="47" citation_global_level_id="10955.002" line="1" id="131824_2" citation_local_level_id="0" >02-11072</DOCKET>
+
+<DATE start="97" end="112" id="131824_6" >October 6, 2003</DATE>
+
+<NAME start="190" local_name_id="3" end="200" id="131824_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="238" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_316_557" id1="Dummy_File_156863" volume="316" start="225" page_number="557" standard_reporter="F.3D" citation_global_level_id="220713.001" line="3" id="131824_12" citation_local_level_id="2" >316 F. 3d 557</CITATION>
+
+<RELATION theme="131824_1" includes_docket_string="02-11072" includes_docket="131824_2" theme_string="540 U.S. 853" gram_type="apposition" relation_type="asymmetric" id="131824_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 853" X_vs_Y_string="ROE v. BAKER, WARDEN" standard_case="131824_1" X_vs_Y="131824_3" gram_type="pre_nom" relation_type="equivalence" id="131824_7" ></RELATION>
+
+<RELATION theme="131824_3" includes_docket_string="02-11072" includes_docket="131824_2" theme_string="ROE v. BAKER, WARDEN" gram_type="apposition" relation_type="asymmetric" id="131824_10" ></RELATION>
+
+<RELATION theme="131824_3" party1="131824_4" party1_string="ROE" theme_string="ROE v. BAKER, WARDEN" gram_type="infix" relation_type="asymmetric" id="131824_8" ></RELATION>
+
+<RELATION party2="131824_5" theme="131824_3" theme_string="ROE v. BAKER, WARDEN" party2_string="BAKER, WARDEN" gram_type="infix" relation_type="asymmetric" id="131824_9" ></RELATION>
+

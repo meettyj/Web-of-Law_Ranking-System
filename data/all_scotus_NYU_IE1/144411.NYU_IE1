@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['dodajgonzales#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_1018" id1="144412" volume="544" start="0" page_number="1018" standard_reporter="U.S." citation_global_level_id="972.002" line="1" id="144411_1" citation_local_level_id="0" >544 U.S. 1018</CITATION>
+
+<CITATION party2="GONZALES, ATTORNEY GENERAL" party1="DODAJ ET AL." citation_global_level_id="972.007" party2_short="GONZALES" line="2" id="144411_2" alternative_keys="['u.s._544_1018']" end="60" entry_type="party_key" lookup_key="dodajgonzales#1" id1="144412" start="18" party1_short="DODAJ" citation_local_level_id="1" >DODAJ ET AL. v. GONZALES, ATTORNEY GENERAL</CITATION>
+
+<NAME end="30" start="18" party1_of="144411_2" all_names="DODAJ" local_name_id="1" id="144411_3" >DODAJ ET AL.</NAME>
+
+<NAME end="60" start="34" all_names="GONZALES ATTORNEY GENERAL" party2_of="144411_2" local_name_id="2" id="144411_4" >GONZALES, ATTORNEY GENERAL</NAME>
+
+<PROFESSION start="44" end="60" id="144411_5" >ATTORNEY GENERAL</PROFESSION>
+
+<DOCKET alternative_keys="['u.s._544_1018']" end="77" entry_type="docket" lookup_key="dodajgonzales#1" id1="144412" start="70" citation_global_level_id="972.007" line="3" id="144411_8" citation_local_level_id="1" >04-1212</DOCKET>
+
+<ORGANIZATION start="83" end="113" id="144411_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="119" citation_global_level_id="972.007" end="130" id="144411_10" citation_local_level_id="1" >May 2, 2005</DATE>
+
+<NAME start="162" local_name_id="3" end="165" id="144411_14" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="144411_2" party1="144411_3" party1_string="DODAJ ET AL." theme_string="DODAJ ET AL. v. GONZALES, ATTORNEY GENERAL" gram_type="infix" relation_type="asymmetric" id="144411_6" ></RELATION>
+
+<RELATION party2="144411_4" theme="144411_2" theme_string="DODAJ ET AL. v. GONZALES, ATTORNEY GENERAL" party2_string="GONZALES, ATTORNEY GENERAL" gram_type="infix" relation_type="asymmetric" id="144411_7" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 1018" X_vs_Y_string="DODAJ ET AL. v. GONZALES, ATTORNEY GENERAL" standard_case="144411_1" X_vs_Y="144411_2" gram_type="multi_line" relation_type="equivalence" id="144411_11" ></RELATION>
+
+<RELATION at_date_string="May 2, 2005" theme="144411_2" at_date="144411_10" theme_string="DODAJ ET AL. v. GONZALES, ATTORNEY GENERAL" gram_type="multi_line" relation_type="asymmetric" id="144411_13" ></RELATION>
+
+<RELATION theme="144411_2" includes_docket_string="04-1212" includes_docket="144411_8" theme_string="DODAJ ET AL. v. GONZALES, ATTORNEY GENERAL" gram_type="multi_line" relation_type="asymmetric" id="144411_12" ></RELATION>
+

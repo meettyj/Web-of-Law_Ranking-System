@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['rubbertuckier#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_820" id1="122477" volume="537" start="0" page_number="820" standard_reporter="U.S." citation_global_level_id="7436.002" line="1" id="122478_1" citation_local_level_id="0" >537 U.S. 820</CITATION>
+
+<CITATION party2="TUCKIER" party1="COOPER TIRE &amp; RUBBER CO." citation_global_level_id="7436.005" party2_short="TUCKIER" line="1" id="122478_3" alternative_keys="['u.s._537_820']" end="52" entry_type="party_key" lookup_key="rubbertuckier#2" id1="122477" start="17" party1_short="RUBBER" citation_local_level_id="1" >COOPER TIRE &amp; RUBBER CO. v. TUCKIER</CITATION>
+
+<NAME end="41" start="17" party1_of="122478_3" all_names="COOPER TIRE &amp; RUBBER CO" local_name_id="1" id="122478_4" >COOPER TIRE &amp; RUBBER CO.</NAME>
+
+<ORGANIZATION start="17" end="40" id="122478_8" >COOPER TIRE &amp; RUBBER CO</ORGANIZATION>
+
+<NAME end="52" start="45" all_names="TUCKIER" party2_of="122478_3" local_name_id="2" id="122478_5" >TUCKIER</NAME>
+
+<DOCKET end="69" entry_type="docket" lookup_key="u.s._537_820" id1="122477" start="62" citation_global_level_id="7436.002" line="1" id="122478_2" citation_local_level_id="0" >01-1761</DOCKET>
+
+<DATE start="65" end="69" id="122478_6" >1761</DATE>
+
+<DATE start="111" end="126" id="122478_7" >October 7, 2002</DATE>
+
+<NAME start="221" local_name_id="3" end="224" id="122478_16" all_names="SUP" >Sup</NAME>
+
+<CITATION end="285" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_826_679" id1="Dummy_File_94528" volume="826" start="271" page_number="679" standard_reporter="SO.2D" citation_global_level_id="158378.001" line="3" id="122478_15" citation_local_level_id="2" >826 So. 2d 679</CITATION>
+
+<RELATION theme="122478_1" includes_docket_string="01-1761" includes_docket="122478_2" theme_string="537 U.S. 820" gram_type="apposition" relation_type="asymmetric" id="122478_13" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 820" X_vs_Y_string="COOPER TIRE &amp; RUBBER CO. v. TUCKIER" standard_case="122478_1" X_vs_Y="122478_3" gram_type="pre_nom" relation_type="equivalence" id="122478_9" ></RELATION>
+
+<RELATION theme="122478_3" includes_docket_string="01-1761" includes_docket="122478_2" theme_string="COOPER TIRE &amp; RUBBER CO. v. TUCKIER" gram_type="apposition" relation_type="asymmetric" id="122478_12" ></RELATION>
+
+<RELATION theme="122478_3" party1="122478_4" party1_string="COOPER TIRE &amp; RUBBER CO." theme_string="COOPER TIRE &amp; RUBBER CO. v. TUCKIER" gram_type="infix" relation_type="asymmetric" id="122478_10" ></RELATION>
+
+<RELATION party2="122478_5" theme="122478_3" theme_string="COOPER TIRE &amp; RUBBER CO. v. TUCKIER" party2_string="TUCKIER" gram_type="infix" relation_type="asymmetric" id="122478_11" ></RELATION>
+
+<RELATION at_date_string="1761" theme="122478_2" at_date="122478_6" theme_string="01-1761" gram_type="infix" relation_type="asymmetric" id="122478_14" ></RELATION>
+

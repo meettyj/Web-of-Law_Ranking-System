@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['fergusonalabama#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_902" id1="132485" volume="540" start="0" page_number="902" standard_reporter="U.S." citation_global_level_id="1771.002" line="1" id="132489_1" citation_local_level_id="0" >540 U.S. 902</CITATION>
+
+<CITATION party2="ALABAMA" party1="FERGUSON" citation_global_level_id="10000.001" party2_short="ALABAMA" line="1" id="132489_3" alternative_keys="['u.s._540_902']" end="36" entry_type="party_key" lookup_key="fergusonalabama#2" id1="132489" start="17" party1_short="FERGUSON" citation_local_level_id="1" >FERGUSON v. ALABAMA</CITATION>
+
+<NAME end="25" start="17" party1_of="132489_3" all_names="FERGUSON" local_name_id="1" id="132489_4" >FERGUSON</NAME>
+
+<NAME end="36" start="29" all_names="ALABAMA" party2_of="132489_3" local_name_id="2" id="132489_5" >ALABAMA</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="u.s._540_902" id1="132485" start="46" citation_global_level_id="1771.002" line="1" id="132489_2" citation_local_level_id="0" >03-5326</DOCKET>
+
+<DATE start="95" end="110" id="132489_6" >October 6, 2003</DATE>
+
+<NAME start="193" local_name_id="3" end="203" id="132489_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="132489_1" includes_docket_string="03-5326" includes_docket="132489_2" theme_string="540 U.S. 902" gram_type="apposition" relation_type="asymmetric" id="132489_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 902" X_vs_Y_string="FERGUSON v. ALABAMA" standard_case="132489_1" X_vs_Y="132489_3" gram_type="pre_nom" relation_type="equivalence" id="132489_7" ></RELATION>
+
+<RELATION theme="132489_3" includes_docket_string="03-5326" includes_docket="132489_2" theme_string="FERGUSON v. ALABAMA" gram_type="apposition" relation_type="asymmetric" id="132489_10" ></RELATION>
+
+<RELATION theme="132489_3" party1="132489_4" party1_string="FERGUSON" theme_string="FERGUSON v. ALABAMA" gram_type="infix" relation_type="asymmetric" id="132489_8" ></RELATION>
+
+<RELATION party2="132489_5" theme="132489_3" theme_string="FERGUSON v. ALABAMA" party2_string="ALABAMA" gram_type="infix" relation_type="asymmetric" id="132489_9" ></RELATION>
+

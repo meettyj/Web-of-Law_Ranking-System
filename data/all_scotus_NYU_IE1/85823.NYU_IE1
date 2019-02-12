@@ -1,0 +1,48 @@
+<CITATION alternative_keys="['bankhooff#1']" end="19" reporter="U.S." entry_type="standard_key" lookup_key="u.s._32_168" id1="85823" volume="32" start="1" page_number="168" standard_reporter="U.S." citation_global_level_id="5964.002" line="2" id="85823_1" citation_local_level_id="0" >32 U.S. 168 (____)</CITATION>
+
+<NAME start="22" local_name_id="1" end="25" id="85823_2" all_names="PET" >Pet</NAME>
+
+<CITATION end="25" line="3" id="85823_3" alternative_keys="['u.s._32_453', 'ex parte martha bradstreet#1', 'u.s._33_588', 'ex parte tobias watkins#2', 'u.s._28_193', 'in the matter of duncan n hennen#1', 'u.s._38_230', 'ex parte myra clarke whitney#1', 'u.s._38_404', 'u.s._38_225', 'ex parte benjamin story#1', 'u.s._37_339', 'the state of rhode island#1', 'the state of massachusetts ads#1', 'u.s._37_755', 'ex parte george adshead#1', 'ex parte joseph roberts and#1', 'u.s._31_216', 'u.s._31_143', 'u.s._31_774', 'u.s._26_264', 'the port of new york#1', 'ex parte jesse hoyt collector of#1', 'u.s._38_279', 'u.s._27_566', 'u.s._34_711', 'ex parte anderson crenshaw#1', 'u.s._40_119', 'ex parte john l tillinghast esquire#1', 'u.s._29_108', 'u.s._39_540', 'in the matter of martha bradstreet demandant#1', 'u.s._32_634', 'ex parte nathaniel crane and samuel#1', 'jacksonkelly#1', 'u.s._30_190', 'u.s._33_306', 'u.s._33_291', 'ex parte john a davenport#1', 'u.s._31_661', 'u.s._32_568']" citation_global_level_id="3762.003" name="Pet" no_current_file="True" entry_type="case_key" lookup_key="pet#1" id1="85842" start="22" citation_local_level_id="1" >Pet</CITATION>
+
+<CITATION party2="JOHN HOOFF ET AL" party1="FARMERS BANK OF ALEXANDRIA" citation_global_level_id="5964.001" party2_short="HOOFF" line="6" id="85823_6" alternative_keys="['u.s._32_168']" end="79" entry_type="party_key" lookup_key="bankhooff#1" id1="85823" start="31" party1_short="BANK" citation_local_level_id="2" >FARMERS BANK OF ALEXANDRIA v. JOHN HOOFF ET AL</CITATION>
+
+<NAME end="57" start="31" party1_of="85823_6" all_names="FARMERS BANK OF ALEXANDRIA	ALEXANDRIA" local_name_id="2" id="85823_7" >FARMERS BANK OF ALEXANDRIA</NAME>
+
+<NAME end="79" start="63" all_names="JOHN HOOFF" party2_of="85823_6" local_name_id="3" id="85823_8" >JOHN HOOFF ET AL</NAME>
+
+<ORGANIZATION start="81" end="111" id="85823_11" >Supreme Court of United States</ORGANIZATION>
+
+<NAME start="119" local_name_id="4" end="129" id="85823_14" all_names="MR FENDALL" >Mr Fendall</NAME>
+
+<NAME start="159" local_name_id="5" end="165" id="85823_15" all_names="MR LEE" >Mr Lee</NAME>
+
+<PROFESSION start="180" document_level_name_id="6" end="196" id="85823_16" party="MARSHALL" >Mr Chief Justice</PROFESSION>
+
+<NAME start="197" local_name_id="6" end="205" id="85823_17" all_names="MARSHALL" >MARSHALL</NAME>
+
+<ORGANIZATION start="235" end="240" id="85823_18" >Court</ORGANIZATION>
+
+<ORGANIZATION start="301" end="327" id="85823_20" >court of the United States</ORGANIZATION>
+
+<NAME start="372" local_name_id="2" end="382" id="85823_21" all_names="FARMERS BANK OF ALEXANDRIA	ALEXANDRIA" >Alexandria</NAME>
+
+<ORGANIZATION start="558" end="563" id="85823_22" >trust</ORGANIZATION>
+
+<LEGAL_ROLE start="748" end="757" id="85823_23" party="party1" >appellant</LEGAL_ROLE>
+
+<ORGANIZATION start="805" end="810" id="85823_24" >court</ORGANIZATION>
+
+<ORGANIZATION start="940" end="945" id="85823_25" >court</ORGANIZATION>
+
+<ORGANIZATION start="1017" end="1022" id="85823_26" >court</ORGANIZATION>
+
+<RELATION party2="85823_8" theme="85823_6" theme_string="FARMERS BANK OF ALEXANDRIA  v.  JOHN HOOFF ET AL" party2_string="JOHN HOOFF ET AL" gram_type="infix" relation_type="asymmetric" id="85823_10" ></RELATION>
+
+<RELATION theme="85823_6" party1="85823_7" party1_string="FARMERS BANK OF ALEXANDRIA" theme_string="FARMERS BANK OF ALEXANDRIA  v.  JOHN HOOFF ET AL" gram_type="infix" relation_type="asymmetric" id="85823_9" ></RELATION>
+
+<RELATION standard_case_string="32 U.S. 168 (____)" X_vs_Y_string="FARMERS BANK OF ALEXANDRIA  v.  JOHN HOOFF ET AL" standard_case="85823_1" X_vs_Y="85823_6" gram_type="multi_line" relation_type="equivalence" id="85823_13" ></RELATION>
+
+<RELATION case_citation_other="85823_3" id="85823_12" X_vs_Y_string="FARMERS BANK OF ALEXANDRIA  v.  JOHN HOOFF ET AL" X_vs_Y="85823_6" gram_type="multi_line" relation_type="equivalence" case_citation_other_string="Pet" ></RELATION>
+
+<RELATION theme="85823_17" profession_string="Mr Chief Justice" theme_string="MARSHALL" profession="85823_16" gram_type="pre_nom" relation_type="asymmetric" id="85823_19" ></RELATION>
+

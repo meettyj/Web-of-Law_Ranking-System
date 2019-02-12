@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['moodyalabama#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_964" id1="139870" volume="543" start="0" page_number="964" standard_reporter="U.S." citation_global_level_id="2634.002" line="1" id="139877_1" citation_local_level_id="0" >543 U.S. 964</CITATION>
+
+<CITATION party2="ALABAMA" party1="MOODY" citation_global_level_id="6223.001" party2_short="ALABAMA" line="2" id="139877_2" alternative_keys="['u.s._543_964']" end="33" entry_type="party_key" lookup_key="moodyalabama#1" id1="139877" start="17" party1_short="MOODY" citation_local_level_id="1" >MOODY v. ALABAMA</CITATION>
+
+<NAME end="22" start="17" party1_of="139877_2" all_names="MOODY" local_name_id="1" id="139877_3" >MOODY</NAME>
+
+<NAME end="33" start="26" all_names="ALABAMA" party2_of="139877_2" local_name_id="2" id="139877_4" >ALABAMA</NAME>
+
+<DOCKET end="50" entry_type="docket" lookup_key="moodyalabama#1" id1="139877" start="43" citation_global_level_id="6223.001" line="3" id="139877_7" citation_local_level_id="1" >04-6091</DOCKET>
+
+<ORGANIZATION start="56" end="86" id="139877_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="92" citation_global_level_id="6223.001" end="108" id="139877_9" citation_local_level_id="1" >November 1, 2004</DATE>
+
+<NAME start="130" local_name_id="3" end="132" id="139877_14" all_names="CT" >Ct</NAME>
+
+<CITATION end="199" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_888_532" id1="Dummy_File_36384" volume="888" start="185" page_number="532" standard_reporter="SO.2D" citation_global_level_id="100234.001" line="8" id="139877_13" citation_local_level_id="2" >888 So. 2d 532</CITATION>
+
+<RELATION theme="139877_2" party1="139877_3" party1_string="MOODY" theme_string="MOODY v. ALABAMA" gram_type="infix" relation_type="asymmetric" id="139877_5" ></RELATION>
+
+<RELATION party2="139877_4" theme="139877_2" theme_string="MOODY v. ALABAMA" party2_string="ALABAMA" gram_type="infix" relation_type="asymmetric" id="139877_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 964" X_vs_Y_string="MOODY v. ALABAMA" standard_case="139877_1" X_vs_Y="139877_2" gram_type="multi_line" relation_type="equivalence" id="139877_10" ></RELATION>
+
+<RELATION at_date_string="November 1, 2004" theme="139877_2" at_date="139877_9" theme_string="MOODY v. ALABAMA" gram_type="multi_line" relation_type="asymmetric" id="139877_12" ></RELATION>
+
+<RELATION theme="139877_2" includes_docket_string="04-6091" includes_docket="139877_7" theme_string="MOODY v. ALABAMA" gram_type="multi_line" relation_type="asymmetric" id="139877_11" ></RELATION>
+

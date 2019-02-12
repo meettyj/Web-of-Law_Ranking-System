@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['carterthomas#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_992" id1="133643" volume="540" start="0" page_number="992" standard_reporter="U.S." citation_global_level_id="3320.002" line="1" id="133638_1" citation_local_level_id="0" >540 U.S. 992</CITATION>
+
+<CITATION party2="THOMAS" party1="CARTER" citation_global_level_id="25852.001" party2_short="THOMAS" line="1" id="133638_3" alternative_keys="['u.s._540_992']" end="33" entry_type="party_key" lookup_key="carterthomas#1" id1="133638" start="17" party1_short="CARTER" citation_local_level_id="1" >CARTER v. THOMAS</CITATION>
+
+<NAME end="23" start="17" party1_of="133638_3" all_names="CARTER" local_name_id="1" id="133638_4" >CARTER</NAME>
+
+<NAME end="33" start="27" all_names="THOMAS" party2_of="133638_3" local_name_id="2" id="133638_5" >THOMAS</NAME>
+
+<DOCKET end="50" entry_type="docket" lookup_key="u.s._540_992" id1="133643" start="43" citation_global_level_id="3320.002" line="1" id="133638_2" citation_local_level_id="0" >03-6429</DOCKET>
+
+<DATE start="92" end="108" id="133638_6" >November 3, 2003</DATE>
+
+<NAME start="185" local_name_id="3" end="195" id="133638_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="235" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_848_1153" id1="Dummy_File_124437" volume="848" start="220" page_number="1153" standard_reporter="SO.2D" citation_global_level_id="188287.001" line="3" id="133638_12" citation_local_level_id="2" >848 So. 2d 1153</CITATION>
+
+<RELATION theme="133638_1" includes_docket_string="03-6429" includes_docket="133638_2" theme_string="540 U.S. 992" gram_type="apposition" relation_type="asymmetric" id="133638_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 992" X_vs_Y_string="CARTER v. THOMAS" standard_case="133638_1" X_vs_Y="133638_3" gram_type="pre_nom" relation_type="equivalence" id="133638_7" ></RELATION>
+
+<RELATION theme="133638_3" includes_docket_string="03-6429" includes_docket="133638_2" theme_string="CARTER v. THOMAS" gram_type="apposition" relation_type="asymmetric" id="133638_10" ></RELATION>
+
+<RELATION theme="133638_3" party1="133638_4" party1_string="CARTER" theme_string="CARTER v. THOMAS" gram_type="infix" relation_type="asymmetric" id="133638_8" ></RELATION>
+
+<RELATION party2="133638_5" theme="133638_3" theme_string="CARTER v. THOMAS" party2_string="THOMAS" gram_type="infix" relation_type="asymmetric" id="133638_9" ></RELATION>
+

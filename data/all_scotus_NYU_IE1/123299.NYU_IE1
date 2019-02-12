@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['weissinsurance#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_883" id1="123308" volume="537" start="0" page_number="883" standard_reporter="U.S." citation_global_level_id="3433.002" line="1" id="123299_1" citation_local_level_id="0" >537 U.S. 883</CITATION>
+
+<CITATION party2="ST. PAUL FIRE &amp; MARINE INSURANCE CO" party1="WEISS, EXECUTOR AND TRUSTEE FOR ABT" citation_global_level_id="3433.006" party2_short="INSURANCE" line="1" id="123299_3" alternative_keys="['u.s._537_883']" end="91" entry_type="party_key" lookup_key="weissinsurance#1" id1="123308" start="17" party1_short="WEISS" citation_local_level_id="1" >WEISS, EXECUTOR AND TRUSTEE FOR ABT v. ST. PAUL FIRE &amp; MARINE INSURANCE CO</CITATION>
+
+<NAME end="52" start="17" party1_of="123299_3" all_names="WEISS EXECUTOR AND TRUSTEE FOR ABT" local_name_id="1" id="123299_4" >WEISS, EXECUTOR AND TRUSTEE FOR ABT</NAME>
+
+<NAME start="17" local_name_id="2" end="22" id="123299_7" all_names="WEISS" >WEISS</NAME>
+
+<PROFESSION start="24" end="52" id="123299_8" >EXECUTOR AND TRUSTEE FOR ABT</PROFESSION>
+
+<NAME end="91" start="56" all_names="ST PAUL FIRE &amp; MARINE INSURANCE CO" party2_of="123299_3" local_name_id="3" id="123299_5" >ST. PAUL FIRE &amp; MARINE INSURANCE CO</NAME>
+
+<DOCKET end="106" entry_type="docket" lookup_key="u.s._537_883" id1="123308" start="101" citation_global_level_id="3433.002" line="1" id="123299_2" citation_local_level_id="0" >02-91</DOCKET>
+
+<DATE start="148" end="163" id="123299_6" >October 7, 2002</DATE>
+
+<NAME start="292" local_name_id="4" end="295" id="123299_15" all_names="CIR" >Cir</NAME>
+
+<CITATION end="345" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_283_790" id1="Dummy_File_172594" volume="283" start="332" page_number="790" standard_reporter="F.3D" citation_global_level_id="236444.001" line="3" id="123299_14" citation_local_level_id="2" >283 F. 3d 790</CITATION>
+
+<RELATION theme="123299_1" includes_docket_string="02-91" includes_docket="123299_2" theme_string="537 U.S. 883" gram_type="apposition" relation_type="asymmetric" id="123299_13" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 883" X_vs_Y_string="WEISS, EXECUTOR AND TRUSTEE FOR ABT v. ST. PAUL FIRE &amp; MARINE INSURANCE CO" standard_case="123299_1" X_vs_Y="123299_3" gram_type="pre_nom" relation_type="equivalence" id="123299_9" ></RELATION>
+
+<RELATION theme="123299_3" includes_docket_string="02-91" includes_docket="123299_2" theme_string="WEISS, EXECUTOR AND TRUSTEE FOR ABT v. ST. PAUL FIRE &amp; MARINE INSURANCE CO" gram_type="apposition" relation_type="asymmetric" id="123299_12" ></RELATION>
+
+<RELATION theme="123299_3" party1="123299_4" party1_string="WEISS, EXECUTOR AND TRUSTEE FOR ABT" theme_string="WEISS, EXECUTOR AND TRUSTEE FOR ABT v. ST. PAUL FIRE &amp; MARINE INSURANCE CO" gram_type="infix" relation_type="asymmetric" id="123299_10" ></RELATION>
+
+<RELATION party2="123299_5" theme="123299_3" theme_string="WEISS, EXECUTOR AND TRUSTEE FOR ABT v. ST. PAUL FIRE &amp; MARINE INSURANCE CO" party2_string="ST. PAUL FIRE &amp; MARINE INSURANCE CO" gram_type="infix" relation_type="asymmetric" id="123299_11" ></RELATION>
+

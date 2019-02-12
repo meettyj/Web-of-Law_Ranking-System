@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['alabamayelder#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1214" id1="117786" volume="510" start="0" page_number="1214" standard_reporter="U.S." citation_global_level_id="29514.002" line="1" id="117787_1" citation_local_level_id="0" >510 U.S. 1214</CITATION>
+
+<CITATION party2="Yelder" party1="Alabama" citation_global_level_id="51209.001" party2_short="Yelder" line="1" id="117787_3" alternative_keys="['u.s._510_1214']" end="35" entry_type="party_key" lookup_key="alabamayelder#1" id1="117787" start="18" party1_short="Alabama" citation_local_level_id="1" >Alabama v. Yelder</CITATION>
+
+<NAME end="25" start="18" party1_of="117787_3" all_names="ALABAMA" local_name_id="1" id="117787_4" >Alabama</NAME>
+
+<NAME end="35" start="29" all_names="YELDER" party2_of="117787_3" local_name_id="2" id="117787_5" >Yelder</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="u.s._510_1214" id1="117786" start="45" citation_global_level_id="29514.002" line="1" id="117787_2" citation_local_level_id="0" >93-1109</DOCKET>
+
+<DATE start="94" end="108" id="117787_6" >March 21, 1994</DATE>
+
+<LEGAL_ROLE start="185" end="205" id="117787_13" >Motion of respondent</LEGAL_ROLE>
+
+<NAME start="254" local_name_id="3" end="264" id="117787_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="303" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_630_107" id1="Dummy_File_47543" volume="630" start="289" page_number="107" standard_reporter="SO.2D" citation_global_level_id="111393.001" line="3" id="117787_12" citation_local_level_id="2" >630 So. 2d 107</CITATION>
+
+<RELATION theme="117787_1" includes_docket_string="93-1109" includes_docket="117787_2" theme_string="510 U.S. 1214" gram_type="apposition" relation_type="asymmetric" id="117787_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1214" X_vs_Y_string="Alabama v. Yelder" standard_case="117787_1" X_vs_Y="117787_3" gram_type="pre_nom" relation_type="equivalence" id="117787_7" ></RELATION>
+
+<RELATION theme="117787_3" includes_docket_string="93-1109" includes_docket="117787_2" theme_string="Alabama v. Yelder" gram_type="apposition" relation_type="asymmetric" id="117787_10" ></RELATION>
+
+<RELATION theme="117787_3" party1="117787_4" party1_string="Alabama" theme_string="Alabama v. Yelder" gram_type="infix" relation_type="asymmetric" id="117787_8" ></RELATION>
+
+<RELATION party2="117787_5" theme="117787_3" theme_string="Alabama v. Yelder" party2_string="Yelder" gram_type="infix" relation_type="asymmetric" id="117787_9" ></RELATION>
+

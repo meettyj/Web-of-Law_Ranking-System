@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['edwardsstringer#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_961" id1="139829" volume="543" start="0" page_number="961" standard_reporter="U.S." citation_global_level_id="647.002" line="1" id="139829_1" citation_local_level_id="0" >543 U.S. 961</CITATION>
+
+<CITATION party2="STRINGER ET AL" party1="EDWARDS" citation_global_level_id="647.001" party2_short="STRINGER" line="2" id="139829_2" alternative_keys="['u.s._543_961']" end="42" entry_type="party_key" lookup_key="edwardsstringer#1" id1="139829" start="17" party1_short="EDWARDS" citation_local_level_id="1" >EDWARDS v. STRINGER ET AL</CITATION>
+
+<NAME end="24" start="17" party1_of="139829_2" all_names="EDWARDS" local_name_id="1" id="139829_3" >EDWARDS</NAME>
+
+<NAME end="42" start="28" all_names="STRINGER" party2_of="139829_2" local_name_id="2" id="139829_4" >STRINGER ET AL</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="edwardsstringer#1" id1="139829" start="52" citation_global_level_id="647.001" line="3" id="139829_7" citation_local_level_id="1" >04-5980</DOCKET>
+
+<ORGANIZATION start="65" end="95" id="139829_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="101" citation_global_level_id="647.001" end="117" id="139829_9" citation_local_level_id="1" >November 1, 2004</DATE>
+
+<NAME start="150" local_name_id="3" end="153" id="139829_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="139829_2" party1="139829_3" party1_string="EDWARDS" theme_string="EDWARDS v. STRINGER ET AL" gram_type="infix" relation_type="asymmetric" id="139829_5" ></RELATION>
+
+<RELATION party2="139829_4" theme="139829_2" theme_string="EDWARDS v. STRINGER ET AL" party2_string="STRINGER ET AL" gram_type="infix" relation_type="asymmetric" id="139829_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 961" X_vs_Y_string="EDWARDS v. STRINGER ET AL" standard_case="139829_1" X_vs_Y="139829_2" gram_type="multi_line" relation_type="equivalence" id="139829_10" ></RELATION>
+
+<RELATION at_date_string="November 1, 2004" theme="139829_2" at_date="139829_9" theme_string="EDWARDS v. STRINGER ET AL" gram_type="multi_line" relation_type="asymmetric" id="139829_12" ></RELATION>
+
+<RELATION theme="139829_2" includes_docket_string="04-5980" includes_docket="139829_7" theme_string="EDWARDS v. STRINGER ET AL" gram_type="multi_line" relation_type="asymmetric" id="139829_11" ></RELATION>
+

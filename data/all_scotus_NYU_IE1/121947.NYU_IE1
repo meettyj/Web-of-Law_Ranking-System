@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['spauldingbriley#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._536_966" id1="121949" volume="536" start="0" page_number="966" standard_reporter="U.S." citation_global_level_id="405.002" line="1" id="121947_1" citation_local_level_id="0" >536 U.S. 966</CITATION>
+
+<CITATION party2="BRILEY, WARDEN" party1="SPAULDING" citation_global_level_id="405.007" party2_short="BRILEY" line="2" id="121947_2" alternative_keys="['u.s._536_966']" end="44" entry_type="party_key" lookup_key="spauldingbriley#1" id1="121949" start="17" party1_short="SPAULDING" citation_local_level_id="1" >SPAULDING v. BRILEY, WARDEN</CITATION>
+
+<NAME end="26" start="17" party1_of="121947_2" all_names="SPAULDING" local_name_id="1" id="121947_3" >SPAULDING</NAME>
+
+<NAME end="44" start="30" all_names="BRILEY WARDEN" party2_of="121947_2" local_name_id="2" id="121947_4" >BRILEY, WARDEN</NAME>
+
+<DOCKET alternative_keys="['u.s._536_966']" end="61" entry_type="docket" lookup_key="spauldingbriley#1" id1="121949" start="54" citation_global_level_id="405.007" line="3" id="121947_7" citation_local_level_id="1" >01-9931</DOCKET>
+
+<DATE start="107" citation_global_level_id="405.007" end="120" id="121947_8" citation_local_level_id="1" >June 28, 2002</DATE>
+
+<NAME start="152" local_name_id="3" end="155" id="121947_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="121947_2" party1="121947_3" party1_string="SPAULDING" theme_string="SPAULDING v. BRILEY, WARDEN" gram_type="infix" relation_type="asymmetric" id="121947_5" ></RELATION>
+
+<RELATION party2="121947_4" theme="121947_2" theme_string="SPAULDING v. BRILEY, WARDEN" party2_string="BRILEY, WARDEN" gram_type="infix" relation_type="asymmetric" id="121947_6" ></RELATION>
+
+<RELATION standard_case_string="536 U.S. 966" X_vs_Y_string="SPAULDING v. BRILEY, WARDEN" standard_case="121947_1" X_vs_Y="121947_2" gram_type="multi_line" relation_type="equivalence" id="121947_9" ></RELATION>
+
+<RELATION at_date_string="June 28, 2002" theme="121947_2" at_date="121947_8" theme_string="SPAULDING v. BRILEY, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="121947_11" ></RELATION>
+
+<RELATION theme="121947_2" includes_docket_string="01-9931" includes_docket="121947_7" theme_string="SPAULDING v. BRILEY, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="121947_10" ></RELATION>
+

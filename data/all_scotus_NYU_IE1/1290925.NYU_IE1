@@ -1,0 +1,24 @@
+<DATE start="2" end="6" id="1290925_1" >2008</DATE>
+
+<CITATION party2="CITY OF SEATTLE, ET AL" party1="FORD MOTOR CO." citation_global_level_id="47793.001" party2_short="CITY" line="5" id="1290925_3" end="50" entry_type="party_key" lookup_key="motorcity#1" id1="1290925" start="8" party1_short="MOTOR" citation_local_level_id="0" >FORD MOTOR CO. v. CITY OF SEATTLE, ET AL</CITATION>
+
+<NAME end="22" start="8" party1_of="1290925_3" all_names="FORD MOTOR CO" local_name_id="1" id="1290925_4" >FORD MOTOR CO.</NAME>
+
+<ORGANIZATION start="8" end="21" id="1290925_6" >FORD MOTOR CO</ORGANIZATION>
+
+<NAME end="50" start="28" all_names="CITY OF SEATTLE" party2_of="1290925_3" local_name_id="2" id="1290925_5" >CITY OF SEATTLE, ET AL</NAME>
+
+<DOCKET end="62" entry_type="docket" lookup_key="motorcity#1" id1="1290925" start="56" citation_global_level_id="47793.001" line="6" id="1290925_9" citation_local_level_id="0" >07-623</DOCKET>
+
+<ORGANIZATION start="63" end="93" id="1290925_10" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="95" citation_global_level_id="47793.001" end="112" id="1290925_11" citation_local_level_id="0" >February 19, 2008</DATE>
+
+<RELATION theme="1290925_3" party1="1290925_4" party1_string="FORD MOTOR CO." theme_string="FORD MOTOR CO.  v.  CITY OF SEATTLE, ET AL" gram_type="infix" relation_type="asymmetric" id="1290925_7" ></RELATION>
+
+<RELATION party2="1290925_5" theme="1290925_3" theme_string="FORD MOTOR CO.  v.  CITY OF SEATTLE, ET AL" party2_string="CITY OF SEATTLE, ET AL" gram_type="infix" relation_type="asymmetric" id="1290925_8" ></RELATION>
+
+<RELATION at_date_string="February 19, 2008" theme="1290925_3" at_date="1290925_11" theme_string="FORD MOTOR CO.  v.  CITY OF SEATTLE, ET AL" gram_type="multi_line" relation_type="asymmetric" id="1290925_13" ></RELATION>
+
+<RELATION theme="1290925_3" includes_docket_string="07-623" includes_docket="1290925_9" theme_string="FORD MOTOR CO.  v.  CITY OF SEATTLE, ET AL" gram_type="multi_line" relation_type="asymmetric" id="1290925_12" ></RELATION>
+

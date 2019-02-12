@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['searlestown#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_963" id1="128713" volume="538" start="0" page_number="963" standard_reporter="U.S." citation_global_level_id="1067.002" line="1" id="128704_1" citation_local_level_id="0" >538 U.S. 963</CITATION>
+
+<CITATION party2="TOWN OF WEST HARTFORD BOARD OF EDUCATION" party1="SEARLES" citation_global_level_id="19530.001" party2_short="TOWN" line="1" id="128704_3" alternative_keys="['u.s._538_963']" end="68" entry_type="party_key" lookup_key="searlestown#1" id1="128704" start="17" party1_short="SEARLES" citation_local_level_id="1" >SEARLES v. TOWN OF WEST HARTFORD BOARD OF EDUCATION</CITATION>
+
+<NAME end="24" start="17" party1_of="128704_3" all_names="SEARLES" local_name_id="1" id="128704_4" >SEARLES</NAME>
+
+<NAME end="68" start="28" all_names="TOWN OF WEST HARTFORD BOARD OF EDUCATION" party2_of="128704_3" local_name_id="2" id="128704_5" >TOWN OF WEST HARTFORD BOARD OF EDUCATION</NAME>
+
+<DOCKET end="85" entry_type="docket" lookup_key="u.s._538_963" id1="128713" start="78" citation_global_level_id="1067.002" line="1" id="128704_2" citation_local_level_id="0" >02-8866</DOCKET>
+
+<DATE start="127" end="140" id="128704_6" >April 7, 2003</DATE>
+
+<NAME start="237" local_name_id="3" end="240" id="128704_13" all_names="APP" >App</NAME>
+
+<CITATION end="320" reporter="A. 2d" entry_type="standard_key" no_current_file="True" lookup_key="a.2d_793_1247" id1="Dummy_File_72317" volume="793" start="306" page_number="1247" standard_reporter="A.2D" citation_global_level_id="136167.001" line="3" id="128704_12" citation_local_level_id="2" >793 A. 2d 1247</CITATION>
+
+<RELATION theme="128704_1" includes_docket_string="02-8866" includes_docket="128704_2" theme_string="538 U.S. 963" gram_type="apposition" relation_type="asymmetric" id="128704_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 963" X_vs_Y_string="SEARLES v. TOWN OF WEST HARTFORD BOARD OF EDUCATION" standard_case="128704_1" X_vs_Y="128704_3" gram_type="pre_nom" relation_type="equivalence" id="128704_7" ></RELATION>
+
+<RELATION theme="128704_3" includes_docket_string="02-8866" includes_docket="128704_2" theme_string="SEARLES v. TOWN OF WEST HARTFORD BOARD OF EDUCATION" gram_type="apposition" relation_type="asymmetric" id="128704_10" ></RELATION>
+
+<RELATION theme="128704_3" party1="128704_4" party1_string="SEARLES" theme_string="SEARLES v. TOWN OF WEST HARTFORD BOARD OF EDUCATION" gram_type="infix" relation_type="asymmetric" id="128704_8" ></RELATION>
+
+<RELATION party2="128704_5" theme="128704_3" theme_string="SEARLES v. TOWN OF WEST HARTFORD BOARD OF EDUCATION" party2_string="TOWN OF WEST HARTFORD BOARD OF EDUCATION" gram_type="infix" relation_type="asymmetric" id="128704_9" ></RELATION>
+

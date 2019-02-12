@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['michalshealthcare#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_944" id1="124136" volume="537" start="0" page_number="944" standard_reporter="U.S." citation_global_level_id="5705.002" line="1" id="124136_1" citation_local_level_id="0" >537 U.S. 944</CITATION>
+
+<CITATION party2="BAXTER HEALTHCARE CORP. ET AL" party1="MICHALS" citation_global_level_id="5705.001" party2_short="HEALTHCARE" line="1" id="124136_3" alternative_keys="['u.s._537_944']" end="57" entry_type="party_key" lookup_key="michalshealthcare#1" id1="124136" start="17" party1_short="MICHALS" citation_local_level_id="1" >MICHALS v. BAXTER HEALTHCARE CORP. ET AL</CITATION>
+
+<NAME end="24" start="17" party1_of="124136_3" all_names="MICHALS" local_name_id="1" id="124136_4" >MICHALS</NAME>
+
+<NAME end="57" start="28" all_names="BAXTER HEALTHCARE CORP" party2_of="124136_3" local_name_id="2" id="124136_5" >BAXTER HEALTHCARE CORP. ET AL</NAME>
+
+<DOCKET end="73" entry_type="docket" lookup_key="u.s._537_944" id1="124136" start="67" citation_global_level_id="5705.002" line="1" id="124136_2" citation_local_level_id="0" >02-179</DOCKET>
+
+<DATE start="115" end="130" id="124136_6" >October 7, 2002</DATE>
+
+<NAME start="259" local_name_id="3" end="262" id="124136_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="412" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_289_402" id1="Dummy_File_86368" volume="289" start="399" page_number="402" standard_reporter="F.3D" citation_global_level_id="150218.001" line="3" id="124136_12" citation_local_level_id="2" >289 F. 3d 402</CITATION>
+
+<RELATION theme="124136_1" includes_docket_string="02-179" includes_docket="124136_2" theme_string="537 U.S. 944" gram_type="apposition" relation_type="asymmetric" id="124136_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 944" X_vs_Y_string="MICHALS v. BAXTER HEALTHCARE CORP. ET AL" standard_case="124136_1" X_vs_Y="124136_3" gram_type="pre_nom" relation_type="equivalence" id="124136_7" ></RELATION>
+
+<RELATION theme="124136_3" includes_docket_string="02-179" includes_docket="124136_2" theme_string="MICHALS v. BAXTER HEALTHCARE CORP. ET AL" gram_type="apposition" relation_type="asymmetric" id="124136_10" ></RELATION>
+
+<RELATION theme="124136_3" party1="124136_4" party1_string="MICHALS" theme_string="MICHALS v. BAXTER HEALTHCARE CORP. ET AL" gram_type="infix" relation_type="asymmetric" id="124136_8" ></RELATION>
+
+<RELATION party2="124136_5" theme="124136_3" theme_string="MICHALS v. BAXTER HEALTHCARE CORP. ET AL" party2_string="BAXTER HEALTHCARE CORP. ET AL" gram_type="infix" relation_type="asymmetric" id="124136_9" ></RELATION>
+

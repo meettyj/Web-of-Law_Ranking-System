@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['sharkeydepartment#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1199" id1="117667" volume="510" start="0" page_number="1199" standard_reporter="U.S." citation_global_level_id="1330.002" line="1" id="117658_1" citation_local_level_id="0" >510 U.S. 1199</CITATION>
+
+<CITATION party2="Department of Transportation" party1="Sharkey" citation_global_level_id="58588.001" party2_short="Department" line="1" id="117658_3" alternative_keys="['u.s._510_1199']" end="57" entry_type="party_key" lookup_key="sharkeydepartment#1" id1="117658" start="18" party1_short="Sharkey" citation_local_level_id="1" >Sharkey v. Department of Transportation</CITATION>
+
+<NAME end="25" start="18" party1_of="117658_3" all_names="SHARKEY" local_name_id="1" id="117658_4" >Sharkey</NAME>
+
+<NAME end="57" start="29" all_names="DEPARTMENT OF TRANSPORTATION" party2_of="117658_3" local_name_id="2" id="117658_5" >Department of Transportation</NAME>
+
+<DOCKET end="74" entry_type="docket" lookup_key="u.s._510_1199" id1="117667" start="67" citation_global_level_id="1330.002" line="1" id="117658_2" citation_local_level_id="0" >93-7493</DOCKET>
+
+<DATE start="116" end="130" id="117658_6" >March 21, 1994</DATE>
+
+<NAME start="209" local_name_id="3" end="219" id="117658_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="257" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_11_1070" id1="Dummy_File_29549" volume="11" start="244" page_number="1070" standard_reporter="F.3D" citation_global_level_id="93399.001" line="3" id="117658_12" citation_local_level_id="2" >11 F. 3d 1070</CITATION>
+
+<RELATION theme="117658_1" includes_docket_string="93-7493" includes_docket="117658_2" theme_string="510 U.S. 1199" gram_type="apposition" relation_type="asymmetric" id="117658_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1199" X_vs_Y_string="Sharkey v. Department of Transportation" standard_case="117658_1" X_vs_Y="117658_3" gram_type="pre_nom" relation_type="equivalence" id="117658_7" ></RELATION>
+
+<RELATION theme="117658_3" includes_docket_string="93-7493" includes_docket="117658_2" theme_string="Sharkey v. Department of Transportation" gram_type="apposition" relation_type="asymmetric" id="117658_10" ></RELATION>
+
+<RELATION theme="117658_3" party1="117658_4" party1_string="Sharkey" theme_string="Sharkey v. Department of Transportation" gram_type="infix" relation_type="asymmetric" id="117658_8" ></RELATION>
+
+<RELATION party2="117658_5" theme="117658_3" theme_string="Sharkey v. Department of Transportation" party2_string="Department of Transportation" gram_type="infix" relation_type="asymmetric" id="117658_9" ></RELATION>
+

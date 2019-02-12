@@ -1,0 +1,42 @@
+<DATE start="2" end="6" id="1993297_1" >2006</DATE>
+
+<CITATION party2="VICTOR J. SANTIAGO-DIAZ, ET AL" party1="DIANA VAZQUEZ-VALENTIN" citation_global_level_id="286451.001" party2_short="DIAZ" line="5" id="1993297_3" end="66" no_current_file="True" entry_type="party_key" lookup_key="valentindiaz#2" id1="Dummy_File_222601" start="8" party1_short="VALENTIN" citation_local_level_id="0" >DIANA VAZQUEZ-VALENTIN v. VICTOR J. SANTIAGO-DIAZ, ET AL</CITATION>
+
+<NAME end="30" start="8" party1_of="1993297_3" all_names="DIANA VAZQUEZ-VALENTIN" local_name_id="1" id="1993297_4" >DIANA VAZQUEZ-VALENTIN</NAME>
+
+<NAME end="66" start="36" all_names="VICTOR J SANTIAGO-DIAZ" party2_of="1993297_3" local_name_id="2" id="1993297_5" >VICTOR J. SANTIAGO-DIAZ, ET AL</NAME>
+
+<DOCKET end="79" no_current_file="True" entry_type="docket" lookup_key="valentindiaz#2" id1="Dummy_File_222601" start="72" citation_global_level_id="286451.001" line="6" id="1993297_8" citation_local_level_id="0" >04-1322</DOCKET>
+
+<ORGANIZATION start="80" end="110" id="1993297_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="112" citation_global_level_id="286451.001" end="129" id="1993297_10" citation_local_level_id="0" >February 21, 2006</DATE>
+
+<ORGANIZATION start="238" end="290" id="1993297_18" >United States Court of Appeals for the First Circuit</ORGANIZATION>
+
+<CITATION party2="Swift-Eckrich" party1="Unitherm Food Sys." citation_global_level_id="27102.007" party2_short="Eckrich" line="10" id="1993297_14" alternative_keys="['u.s._546____']" end="364" entry_type="party_key" lookup_key="syseckrich#1" id1="145698" start="329" party1_short="Sys" citation_local_level_id="1" >Unitherm Food Sys. v. Swift-Eckrich</CITATION>
+
+<NAME end="347" start="329" party1_of="1993297_14" all_names="UNITHERM FOOD SYS" local_name_id="3" id="1993297_15" >Unitherm Food Sys.</NAME>
+
+<NAME end="364" start="351" all_names="SWIFT-ECKRICH" party2_of="1993297_14" local_name_id="4" id="1993297_16" >Swift-Eckrich</NAME>
+
+<CITATION alternative_keys="['syseckrich#1']" end="385" reporter="U.S." entry_type="standard_key" lookup_key="u.s._546____" id1="145698" volume="546" start="366" page_number="___" year="2006" standard_reporter="U.S." citation_global_level_id="27102.002" line="10" id="1993297_13" citation_local_level_id="2" >546 U.S. ___ (2006)</CITATION>
+
+<DATE start="380" citation_global_level_id="27102.002" end="384" id="1993297_17" citation_local_level_id="2" >2006</DATE>
+
+<RELATION theme="1993297_3" party1="1993297_4" party1_string="DIANA VAZQUEZ-VALENTIN" theme_string="DIANA VAZQUEZ-VALENTIN  v.  VICTOR J. SANTIAGO-DIAZ, ET AL" gram_type="infix" relation_type="asymmetric" id="1993297_6" ></RELATION>
+
+<RELATION party2="1993297_5" theme="1993297_3" theme_string="DIANA VAZQUEZ-VALENTIN  v.  VICTOR J. SANTIAGO-DIAZ, ET AL" party2_string="VICTOR J. SANTIAGO-DIAZ, ET AL" gram_type="infix" relation_type="asymmetric" id="1993297_7" ></RELATION>
+
+<RELATION at_date_string="February 21, 2006" theme="1993297_3" at_date="1993297_10" theme_string="DIANA VAZQUEZ-VALENTIN  v.  VICTOR J. SANTIAGO-DIAZ, ET AL" gram_type="multi_line" relation_type="asymmetric" id="1993297_12" ></RELATION>
+
+<RELATION theme="1993297_3" includes_docket_string="04-1322" includes_docket="1993297_8" theme_string="DIANA VAZQUEZ-VALENTIN  v.  VICTOR J. SANTIAGO-DIAZ, ET AL" gram_type="multi_line" relation_type="asymmetric" id="1993297_11" ></RELATION>
+
+<RELATION standard_case_string="546 U.S. ___ (2006)" X_vs_Y_string="Unitherm Food Sys. v. Swift-Eckrich" standard_case="1993297_13" X_vs_Y="1993297_14" gram_type="apposition" relation_type="equivalence" id="1993297_21" ></RELATION>
+
+<RELATION theme="1993297_14" party1="1993297_15" party1_string="Unitherm Food Sys." theme_string="Unitherm Food Sys. v. Swift-Eckrich" gram_type="infix" relation_type="asymmetric" id="1993297_19" ></RELATION>
+
+<RELATION party2="1993297_16" theme="1993297_14" theme_string="Unitherm Food Sys. v. Swift-Eckrich" party2_string="Swift-Eckrich" gram_type="infix" relation_type="asymmetric" id="1993297_20" ></RELATION>
+
+<RELATION at_date_string="2006" theme="1993297_13" at_date="1993297_17" theme_string="546 U.S. ___ (2006)" gram_type="infix" relation_type="asymmetric" id="1993297_22" ></RELATION>
+

@@ -1,0 +1,34 @@
+<CITATION alternative_keys="['trapflohr#1', 's.ct._105_423', 'l.ed.2d_83_351']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._469_1013" id1="111326" volume="469" start="0" page_number="1013" standard_reporter="U.S." citation_global_level_id="43333.002" line="1" id="111326_1" citation_local_level_id="0" >469 U.S. 1013</CITATION>
+
+<CITATION alternative_keys="['u.s._469_1013', 'trapflohr#1', 'l.ed.2d_83_351']" end="32" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._105_423" id1="111326" volume="105" start="18" page_number="423" standard_reporter="S.CT." citation_global_level_id="43333.003" line="2" id="111326_2" citation_local_level_id="1" >105 S. Ct. 423</CITATION>
+
+<CITATION alternative_keys="['u.s._469_1013', 's.ct._105_423', 'trapflohr#1']" end="53" reporter="L. Ed. 2d" entry_type="standard_key" lookup_key="l.ed.2d_83_351" id1="111326" volume="83" start="37" page_number="351" standard_reporter="L.ED.2D" citation_global_level_id="43333.004" line="3" id="111326_3" citation_local_level_id="2" >83 L. Ed. 2d 351</CITATION>
+
+<CITATION party2="Oscar LOHR, et al" alternative_keys="['u.s._469_1013', 's.ct._105_423', 'l.ed.2d_83_351']" party1="Gladys L. TRAPF," end="106" party1_short="TRAPF" entry_type="party_key" party1_role="appellant" lookup_key="trapflohr#1" id1="111326" start="58" citation_global_level_id="43333.001" party2_short="LOHR" line="4" id="111326_4" citation_local_level_id="3" >Gladys L. TRAPF, appellant, v. Oscar LOHR, et al</CITATION>
+
+<NAME end="74" start="58" party1_of="111326_4" all_names="GLADYS L TRAPF" local_name_id="1" id="111326_5" >Gladys L. TRAPF,</NAME>
+
+<LEGAL_ROLE start="75" end="84" id="111326_7" party="party1" >appellant</LEGAL_ROLE>
+
+<NAME end="106" start="89" all_names="OSCAR LOHR" party2_of="111326_4" local_name_id="2" id="111326_6" >Oscar LOHR, et al</NAME>
+
+<DOCKET end="120" entry_type="docket" lookup_key="trapflohr#1" id1="111326" start="115" citation_global_level_id="43333.001" line="5" id="111326_10" citation_local_level_id="3" >84-83</DOCKET>
+
+<ORGANIZATION start="125" end="159" id="111326_11" >Supreme Court of the United States</ORGANIZATION>
+
+<DATE start="164" citation_global_level_id="43333.001" end="181" id="111326_12" citation_local_level_id="3" >November 13, 1984</DATE>
+
+<RELATION theme="111326_4" party1="111326_5" party1_string="Gladys L. TRAPF," theme_string="Gladys L. TRAPF, appellant, v. Oscar LOHR, et al" gram_type="infix" relation_type="asymmetric" id="111326_8" ></RELATION>
+
+<RELATION party2="111326_6" theme="111326_4" theme_string="Gladys L. TRAPF, appellant, v. Oscar LOHR, et al" party2_string="Oscar LOHR, et al" gram_type="infix" relation_type="asymmetric" id="111326_9" ></RELATION>
+
+<RELATION standard_case_string="469 U.S. 1013" X_vs_Y_string="Gladys L. TRAPF, appellant, v. Oscar LOHR, et al" standard_case="111326_1" X_vs_Y="111326_4" gram_type="multi_line" relation_type="equivalence" id="111326_13" ></RELATION>
+
+<RELATION standard_case_string="105 S. Ct. 423" X_vs_Y_string="Gladys L. TRAPF, appellant, v. Oscar LOHR, et al" standard_case="111326_2" X_vs_Y="111326_4" gram_type="multi_line" relation_type="equivalence" id="111326_14" ></RELATION>
+
+<RELATION standard_case_string="83 L. Ed. 2d 351" X_vs_Y_string="Gladys L. TRAPF, appellant, v. Oscar LOHR, et al" standard_case="111326_3" X_vs_Y="111326_4" gram_type="multi_line" relation_type="equivalence" id="111326_15" ></RELATION>
+
+<RELATION at_date_string="November 13, 1984" theme="111326_4" at_date="111326_12" theme_string="Gladys L. TRAPF, appellant, v. Oscar LOHR, et al" gram_type="multi_line" relation_type="asymmetric" id="111326_17" ></RELATION>
+
+<RELATION theme="111326_4" includes_docket_string="84-83" includes_docket="111326_10" theme_string="Gladys L. TRAPF, appellant, v. Oscar LOHR, et al" gram_type="multi_line" relation_type="asymmetric" id="111326_16" ></RELATION>
+

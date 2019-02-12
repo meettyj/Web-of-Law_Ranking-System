@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['onostates#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1063" id1="116246" volume="510" start="0" page_number="1063" standard_reporter="U.S." citation_global_level_id="3266.002" line="1" id="116246_1" citation_local_level_id="0" >510 U.S. 1063</CITATION>
+
+<CITATION party2="United States" party1="Ono" citation_global_level_id="3266.001" party2_short="States" line="1" id="116246_3" alternative_keys="['u.s._510_1063']" end="38" entry_type="party_key" lookup_key="onostates#1" id1="116246" start="18" party1_short="Ono" citation_local_level_id="1" >Ono v. United States</CITATION>
+
+<NAME end="21" start="18" party1_of="116246_3" all_names="ONO" local_name_id="1" id="116246_4" >Ono</NAME>
+
+<NAME end="38" start="25" all_names="UNITED STATES" party2_of="116246_3" local_name_id="2" id="116246_5" >United States</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._510_1063" id1="116246" start="48" citation_global_level_id="3266.002" line="1" id="116246_2" citation_local_level_id="0" >93-6959</DOCKET>
+
+<DATE start="97" end="113" id="116246_6" >January 10, 1994</DATE>
+
+<NAME start="191" local_name_id="3" end="201" id="116246_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="239" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_997_647" id1="Dummy_File_228905" volume="997" start="226" page_number="647" standard_reporter="F.2D" citation_global_level_id="292755.001" line="3" id="116246_12" citation_local_level_id="2" >997 F. 2d 647</CITATION>
+
+<RELATION theme="116246_1" includes_docket_string="93-6959" includes_docket="116246_2" theme_string="510 U.S. 1063" gram_type="apposition" relation_type="asymmetric" id="116246_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1063" X_vs_Y_string="Ono v. United States" standard_case="116246_1" X_vs_Y="116246_3" gram_type="pre_nom" relation_type="equivalence" id="116246_7" ></RELATION>
+
+<RELATION theme="116246_3" includes_docket_string="93-6959" includes_docket="116246_2" theme_string="Ono v. United States" gram_type="apposition" relation_type="asymmetric" id="116246_10" ></RELATION>
+
+<RELATION theme="116246_3" party1="116246_4" party1_string="Ono" theme_string="Ono v. United States" gram_type="infix" relation_type="asymmetric" id="116246_8" ></RELATION>
+
+<RELATION party2="116246_5" theme="116246_3" theme_string="Ono v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="116246_9" ></RELATION>
+

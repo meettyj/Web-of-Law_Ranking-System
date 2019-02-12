@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['medinainsurance#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_816" id1="113070" volume="510" start="0" page_number="816" standard_reporter="U.S." citation_global_level_id="6696.002" line="1" id="113072_1" citation_local_level_id="0" >510 U.S. 816</CITATION>
+
+<CITATION party2="Anthem Life Insurance Co" party1="Medina" citation_global_level_id="35937.001" party2_short="Insurance" line="1" id="113072_3" alternative_keys="['u.s._510_816']" end="51" entry_type="party_key" lookup_key="medinainsurance#1" id1="113072" start="17" party1_short="Medina" citation_local_level_id="1" >Medina v. Anthem Life Insurance Co</CITATION>
+
+<NAME end="23" start="17" party1_of="113072_3" all_names="MEDINA" local_name_id="1" id="113072_4" >Medina</NAME>
+
+<NAME end="51" start="27" all_names="ANTHEM LIFE INSURANCE CO" party2_of="113072_3" local_name_id="2" id="113072_5" >Anthem Life Insurance Co</NAME>
+
+<DOCKET end="68" entry_type="docket" lookup_key="u.s._510_816" id1="113070" start="61" citation_global_level_id="6696.002" line="1" id="113072_2" citation_local_level_id="0" >92-1845</DOCKET>
+
+<DATE start="64" end="68" id="113072_6" >1845</DATE>
+
+<DATE start="110" end="125" id="113072_7" >October 4, 1993</DATE>
+
+<NAME start="203" local_name_id="3" end="213" id="113072_15" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="250" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_983_29" id1="Dummy_File_147906" volume="983" start="238" page_number="29" standard_reporter="F.2D" citation_global_level_id="211756.001" line="3" id="113072_14" citation_local_level_id="2" >983 F. 2d 29</CITATION>
+
+<RELATION theme="113072_1" includes_docket_string="92-1845" includes_docket="113072_2" theme_string="510 U.S. 816" gram_type="apposition" relation_type="asymmetric" id="113072_12" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 816" X_vs_Y_string="Medina v. Anthem Life Insurance Co" standard_case="113072_1" X_vs_Y="113072_3" gram_type="pre_nom" relation_type="equivalence" id="113072_8" ></RELATION>
+
+<RELATION theme="113072_3" includes_docket_string="92-1845" includes_docket="113072_2" theme_string="Medina v. Anthem Life Insurance Co" gram_type="apposition" relation_type="asymmetric" id="113072_11" ></RELATION>
+
+<RELATION party2="113072_5" theme="113072_3" theme_string="Medina v. Anthem Life Insurance Co" party2_string="Anthem Life Insurance Co" gram_type="infix" relation_type="asymmetric" id="113072_10" ></RELATION>
+
+<RELATION theme="113072_3" party1="113072_4" party1_string="Medina" theme_string="Medina v. Anthem Life Insurance Co" gram_type="infix" relation_type="asymmetric" id="113072_9" ></RELATION>
+
+<RELATION at_date_string="1845" theme="113072_2" at_date="113072_6" theme_string="92-1845" gram_type="infix" relation_type="asymmetric" id="113072_13" ></RELATION>
+

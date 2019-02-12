@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['thomasdepartment#9']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1075" id1="116400" volume="510" start="0" page_number="1075" standard_reporter="U.S." citation_global_level_id="3742.002" line="1" id="116402_1" citation_local_level_id="0" >510 U.S. 1075</CITATION>
+
+<CITATION party2="Department of State et al" party1="Thomas" citation_global_level_id="36903.001" party2_short="Department" line="1" id="116402_3" alternative_keys="['u.s._510_1075']" end="53" entry_type="party_key" lookup_key="thomasdepartment#9" id1="116402" start="18" party1_short="Thomas" citation_local_level_id="1" >Thomas v. Department of State et al</CITATION>
+
+<NAME end="24" start="18" party1_of="116402_3" all_names="THOMAS" local_name_id="1" id="116402_4" >Thomas</NAME>
+
+<NAME end="53" start="28" all_names="DEPARTMENT OF STATE" party2_of="116402_3" local_name_id="2" id="116402_5" >Department of State et al</NAME>
+
+<DOCKET end="70" entry_type="docket" lookup_key="u.s._510_1075" id1="116400" start="63" citation_global_level_id="3742.002" line="1" id="116402_2" citation_local_level_id="0" >93-6521</DOCKET>
+
+<DATE start="112" end="128" id="116402_6" >January 18, 1994</DATE>
+
+<NAME start="208" local_name_id="3" end="218" id="116402_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="116402_1" includes_docket_string="93-6521" includes_docket="116402_2" theme_string="510 U.S. 1075" gram_type="apposition" relation_type="asymmetric" id="116402_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1075" X_vs_Y_string="Thomas v. Department of State et al" standard_case="116402_1" X_vs_Y="116402_3" gram_type="pre_nom" relation_type="equivalence" id="116402_7" ></RELATION>
+
+<RELATION theme="116402_3" includes_docket_string="93-6521" includes_docket="116402_2" theme_string="Thomas v. Department of State et al" gram_type="apposition" relation_type="asymmetric" id="116402_10" ></RELATION>
+
+<RELATION theme="116402_3" party1="116402_4" party1_string="Thomas" theme_string="Thomas v. Department of State et al" gram_type="infix" relation_type="asymmetric" id="116402_8" ></RELATION>
+
+<RELATION party2="116402_5" theme="116402_3" theme_string="Thomas v. Department of State et al" party2_string="Department of State et al" gram_type="infix" relation_type="asymmetric" id="116402_9" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['lehrarizona#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1020" id1="125031" volume="537" start="0" page_number="1020" standard_reporter="U.S." citation_global_level_id="4419.002" line="1" id="125028_1" citation_local_level_id="0" >537 U.S. 1020</CITATION>
+
+<CITATION party2="ARIZONA" party1="LEHR" citation_global_level_id="9339.001" party2_short="ARIZONA" line="1" id="125028_3" alternative_keys="['u.s._537_1020']" end="33" entry_type="party_key" lookup_key="lehrarizona#1" id1="125028" start="18" party1_short="LEHR" citation_local_level_id="1" >LEHR v. ARIZONA</CITATION>
+
+<NAME end="22" start="18" party1_of="125028_3" all_names="LEHR" local_name_id="1" id="125028_4" >LEHR</NAME>
+
+<NAME end="33" start="26" all_names="ARIZONA" party2_of="125028_3" local_name_id="2" id="125028_5" >ARIZONA</NAME>
+
+<DOCKET end="50" entry_type="docket" lookup_key="u.s._537_1020" id1="125031" start="43" citation_global_level_id="4419.002" line="1" id="125028_2" citation_local_level_id="0" >02-5733</DOCKET>
+
+<DATE start="92" end="109" id="125028_6" >November 12, 2002</DATE>
+
+<NAME start="200" local_name_id="3" end="203" id="125028_13" all_names="SUP" >Sup</NAME>
+
+<CITATION end="278" reporter="P. 3d" entry_type="standard_key" no_current_file="True" lookup_key="p.3d_38_1172" id1="Dummy_File_220729" volume="38" start="265" page_number="1172" standard_reporter="P.3D" citation_global_level_id="284579.001" line="3" id="125028_12" citation_local_level_id="2" >38 P. 3d 1172</CITATION>
+
+<RELATION theme="125028_1" includes_docket_string="02-5733" includes_docket="125028_2" theme_string="537 U.S. 1020" gram_type="apposition" relation_type="asymmetric" id="125028_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1020" X_vs_Y_string="LEHR v. ARIZONA" standard_case="125028_1" X_vs_Y="125028_3" gram_type="pre_nom" relation_type="equivalence" id="125028_7" ></RELATION>
+
+<RELATION theme="125028_3" includes_docket_string="02-5733" includes_docket="125028_2" theme_string="LEHR v. ARIZONA" gram_type="apposition" relation_type="asymmetric" id="125028_10" ></RELATION>
+
+<RELATION theme="125028_3" party1="125028_4" party1_string="LEHR" theme_string="LEHR v. ARIZONA" gram_type="infix" relation_type="asymmetric" id="125028_8" ></RELATION>
+
+<RELATION party2="125028_5" theme="125028_3" theme_string="LEHR v. ARIZONA" party2_string="ARIZONA" gram_type="infix" relation_type="asymmetric" id="125028_9" ></RELATION>
+

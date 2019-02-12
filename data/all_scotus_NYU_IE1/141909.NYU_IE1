@@ -1,0 +1,44 @@
+<CITATION alternative_keys="['sotostates#7']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1117" id1="141910" volume="543" start="0" page_number="1117" standard_reporter="U.S." citation_global_level_id="21337.002" line="1" id="141909_1" citation_local_level_id="0" >543 U.S. 1117</CITATION>
+
+<CITATION party2="UNITED STATES" party1="VALADEZ SOTO" citation_global_level_id="44204.001" party2_short="STATES" line="2" id="141909_2" alternative_keys="['u.s._543_1117']" end="47" entry_type="party_key" lookup_key="sotostates#7" id1="123779" start="18" party1_short="SOTO" citation_local_level_id="1" >VALADEZ SOTO v. UNITED STATES</CITATION>
+
+<NAME end="30" start="18" party1_of="141909_2" all_names="VALADEZ SOTO" local_name_id="1" id="141909_3" >VALADEZ SOTO</NAME>
+
+<NAME end="47" start="34" all_names="UNITED STATES" party2_of="141909_2" local_name_id="2" id="141909_4" >UNITED STATES</NAME>
+
+<DOCKET end="65" entry_type="docket" lookup_key="sotostates#7" id1="123779" start="57" citation_global_level_id="44204.001" line="3" id="141909_7" citation_local_level_id="1" >03-10530</DOCKET>
+
+<ORGANIZATION start="71" end="101" id="141909_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="107" citation_global_level_id="44204.001" end="123" id="141909_9" citation_local_level_id="1" >January 24, 2005</DATE>
+
+<CITATION end="157" reporter="U.S." entry_type="standard_key" lookup_key="u.s._542_931" id1="137365" volume="542" start="145" page_number="931" standard_reporter="U.S." citation_global_level_id="5004.002" line="8" id="141909_13" citation_local_level_id="2" >542 U.S. 931</CITATION>
+
+<NAME start="159" local_name_id="3" end="168" id="141909_17" all_names="PETITIONS" >Petitions</NAME>
+
+<NAME start="192" local_name_id="4" end="198" id="141909_18" all_names="ORDERS" >Orders</NAME>
+
+<LEGAL_ROLE start="250" end="272" plural="True" id="141909_19" >Motions of petitioners</LEGAL_ROLE>
+
+<NAME start="321" local_name_id="5" end="331" id="141909_20" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION party2="Booker" party1="United States" citation_global_level_id="57130.001" party2_short="Booker" line="8" id="141909_14" end="440" entry_type="party_key" lookup_key="statesbooker#4" id1="137703" start="417" party1_short="States" citation_local_level_id="3" >United States v. Booker</CITATION>
+
+<NAME end="430" start="417" party1_of="141909_14" all_names="UNITED STATES" local_name_id="2" id="141909_15" >United States</NAME>
+
+<NAME end="440" start="434" all_names="BOOKER" party2_of="141909_14" local_name_id="6" id="141909_16" >Booker</NAME>
+
+<RELATION theme="141909_2" party1="141909_3" party1_string="VALADEZ SOTO" theme_string="VALADEZ SOTO v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="141909_5" ></RELATION>
+
+<RELATION party2="141909_4" theme="141909_2" theme_string="VALADEZ SOTO v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="141909_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1117" X_vs_Y_string="VALADEZ SOTO v. UNITED STATES" standard_case="141909_1" X_vs_Y="141909_2" gram_type="multi_line" relation_type="equivalence" id="141909_10" ></RELATION>
+
+<RELATION at_date_string="January 24, 2005" theme="141909_2" at_date="141909_9" theme_string="VALADEZ SOTO v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="141909_12" ></RELATION>
+
+<RELATION theme="141909_2" includes_docket_string="03-10530" includes_docket="141909_7" theme_string="VALADEZ SOTO v. UNITED STATES" gram_type="multi_line" relation_type="asymmetric" id="141909_11" ></RELATION>
+
+<RELATION theme="141909_14" party1="141909_15" party1_string="United States" theme_string="United States v. Booker" gram_type="infix" relation_type="asymmetric" id="141909_21" ></RELATION>
+
+<RELATION party2="141909_16" theme="141909_14" theme_string="United States v. Booker" party2_string="Booker" gram_type="infix" relation_type="asymmetric" id="141909_22" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['mosshofbauer#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1245" id1="127882" volume="537" start="0" page_number="1245" standard_reporter="U.S." citation_global_level_id="2425.002" line="1" id="127873_1" citation_local_level_id="0" >537 U.S. 1245</CITATION>
+
+<CITATION party2="HOFBAUER, WARDEN" party1="MOSS" citation_global_level_id="2201.004" party2_short="HOFBAUER" line="2" id="127873_2" alternative_keys="['u.s._537_1092']" end="42" entry_type="party_key" lookup_key="mosshofbauer#1" id1="125951" start="18" party1_short="MOSS" citation_local_level_id="1" >MOSS v. HOFBAUER, WARDEN</CITATION>
+
+<NAME end="22" start="18" party1_of="127873_2" all_names="MOSS" local_name_id="1" id="127873_3" >MOSS</NAME>
+
+<NAME end="42" start="26" all_names="HOFBAUER WARDEN" party2_of="127873_2" local_name_id="2" id="127873_4" >HOFBAUER, WARDEN</NAME>
+
+<DOCKET alternative_keys="['u.s._537_1092']" end="78" entry_type="docket" lookup_key="mosshofbauer#1" id1="125951" start="71" citation_global_level_id="2201.004" line="3" id="127873_7" citation_local_level_id="1" >02-7062</DOCKET>
+
+<ORGANIZATION start="84" end="114" id="127873_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="120" citation_global_level_id="2201.004" end="133" id="127873_9" citation_local_level_id="1" >March 3, 2003</DATE>
+
+<NAME start="155" local_name_id="3" end="163" id="127873_13" all_names="PETITION" >Petition</NAME>
+
+<RELATION theme="127873_2" party1="127873_3" party1_string="MOSS" theme_string="MOSS v. HOFBAUER, WARDEN" gram_type="infix" relation_type="asymmetric" id="127873_5" ></RELATION>
+
+<RELATION party2="127873_4" theme="127873_2" theme_string="MOSS v. HOFBAUER, WARDEN" party2_string="HOFBAUER, WARDEN" gram_type="infix" relation_type="asymmetric" id="127873_6" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1245" X_vs_Y_string="MOSS v. HOFBAUER, WARDEN" standard_case="127873_1" X_vs_Y="127873_2" gram_type="multi_line" relation_type="equivalence" id="127873_10" ></RELATION>
+
+<RELATION at_date_string="March 3, 2003" theme="127873_2" at_date="127873_9" theme_string="MOSS v. HOFBAUER, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="127873_12" ></RELATION>
+
+<RELATION theme="127873_2" includes_docket_string="02-7062" includes_docket="127873_7" theme_string="MOSS v. HOFBAUER, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="127873_11" ></RELATION>
+

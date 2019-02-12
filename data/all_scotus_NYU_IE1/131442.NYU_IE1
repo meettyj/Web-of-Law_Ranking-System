@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['schaflersummer#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_824" id1="131443" volume="540" start="0" page_number="824" standard_reporter="U.S." citation_global_level_id="4134.002" line="1" id="131442_1" citation_local_level_id="0" >540 U.S. 824</CITATION>
+
+<CITATION party2="SUMMER" party1="SCHAFLER" citation_global_level_id="50776.001" party2_short="SUMMER" line="1" id="131442_3" alternative_keys="['u.s._540_824']" end="35" entry_type="party_key" lookup_key="schaflersummer#1" id1="131442" start="17" party1_short="SCHAFLER" citation_local_level_id="1" >SCHAFLER v. SUMMER</CITATION>
+
+<NAME end="25" start="17" party1_of="131442_3" all_names="SCHAFLER" local_name_id="1" id="131442_4" >SCHAFLER</NAME>
+
+<NAME end="35" start="29" all_names="SUMMER" party2_of="131442_3" local_name_id="2" id="131442_5" >SUMMER</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="u.s._540_824" id1="131443" start="45" citation_global_level_id="4134.002" line="1" id="131442_2" citation_local_level_id="0" >02-1830</DOCKET>
+
+<DATE start="48" end="52" id="131442_6" >1830</DATE>
+
+<DATE start="94" end="109" id="131442_7" >October 6, 2003</DATE>
+
+<NAME start="201" local_name_id="3" end="211" id="131442_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="131442_1" includes_docket_string="02-1830" includes_docket="131442_2" theme_string="540 U.S. 824" gram_type="apposition" relation_type="asymmetric" id="131442_12" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 824" X_vs_Y_string="SCHAFLER v. SUMMER" standard_case="131442_1" X_vs_Y="131442_3" gram_type="pre_nom" relation_type="equivalence" id="131442_8" ></RELATION>
+
+<RELATION theme="131442_3" includes_docket_string="02-1830" includes_docket="131442_2" theme_string="SCHAFLER v. SUMMER" gram_type="apposition" relation_type="asymmetric" id="131442_11" ></RELATION>
+
+<RELATION party2="131442_5" theme="131442_3" theme_string="SCHAFLER v. SUMMER" party2_string="SUMMER" gram_type="infix" relation_type="asymmetric" id="131442_10" ></RELATION>
+
+<RELATION theme="131442_3" party1="131442_4" party1_string="SCHAFLER" theme_string="SCHAFLER v. SUMMER" gram_type="infix" relation_type="asymmetric" id="131442_9" ></RELATION>
+
+<RELATION at_date_string="1830" theme="131442_2" at_date="131442_6" theme_string="02-1830" gram_type="infix" relation_type="asymmetric" id="131442_13" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['delgadowarden#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_930" id1="139436" volume="543" start="0" page_number="930" standard_reporter="U.S." citation_global_level_id="492.002" line="1" id="139431_1" citation_local_level_id="0" >543 U.S. 930</CITATION>
+
+<CITATION party2="WORKMAN, WARDEN, ET AL" party1="MONGE DELGADO" citation_global_level_id="492.007" party2_short="WARDEN" line="2" id="139431_2" alternative_keys="['u.s._543_930']" end="56" entry_type="party_key" lookup_key="delgadowarden#2" id1="139436" start="17" party1_short="DELGADO" citation_local_level_id="1" >MONGE DELGADO v. WORKMAN, WARDEN, ET AL</CITATION>
+
+<NAME end="30" start="17" party1_of="139431_2" all_names="MONGE DELGADO" local_name_id="1" id="139431_3" >MONGE DELGADO</NAME>
+
+<NAME end="56" start="34" all_names="WORKMAN WARDEN" party2_of="139431_2" local_name_id="2" id="139431_4" >WORKMAN, WARDEN, ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._543_930']" end="73" entry_type="docket" lookup_key="delgadowarden#2" id1="139436" start="66" citation_global_level_id="492.007" line="3" id="139431_7" citation_local_level_id="1" >04-5655</DOCKET>
+
+<ORGANIZATION start="79" end="109" id="139431_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="115" citation_global_level_id="492.007" end="131" id="139431_9" citation_local_level_id="1" >October 12, 2004</DATE>
+
+<NAME start="164" local_name_id="3" end="167" id="139431_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="139431_2" party1="139431_3" party1_string="MONGE DELGADO" theme_string="MONGE DELGADO v. WORKMAN, WARDEN, ET AL" gram_type="infix" relation_type="asymmetric" id="139431_5" ></RELATION>
+
+<RELATION party2="139431_4" theme="139431_2" theme_string="MONGE DELGADO v. WORKMAN, WARDEN, ET AL" party2_string="WORKMAN, WARDEN, ET AL" gram_type="infix" relation_type="asymmetric" id="139431_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 930" X_vs_Y_string="MONGE DELGADO v. WORKMAN, WARDEN, ET AL" standard_case="139431_1" X_vs_Y="139431_2" gram_type="multi_line" relation_type="equivalence" id="139431_10" ></RELATION>
+
+<RELATION at_date_string="October 12, 2004" theme="139431_2" at_date="139431_9" theme_string="MONGE DELGADO v. WORKMAN, WARDEN, ET AL" gram_type="multi_line" relation_type="asymmetric" id="139431_12" ></RELATION>
+
+<RELATION theme="139431_2" includes_docket_string="04-5655" includes_docket="139431_7" theme_string="MONGE DELGADO v. WORKMAN, WARDEN, ET AL" gram_type="multi_line" relation_type="asymmetric" id="139431_11" ></RELATION>
+

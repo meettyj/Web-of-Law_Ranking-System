@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['craftgeorgia#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1025" id1="125100" volume="537" start="0" page_number="1025" standard_reporter="U.S." citation_global_level_id="1493.002" line="1" id="125102_1" citation_local_level_id="0" >537 U.S. 1025</CITATION>
+
+<CITATION party2="GEORGIA" party1="CRAFT" citation_global_level_id="42394.001" party2_short="GEORGIA" line="1" id="125102_3" alternative_keys="['u.s._537_1025']" end="34" entry_type="party_key" lookup_key="craftgeorgia#1" id1="125102" start="18" party1_short="CRAFT" citation_local_level_id="1" >CRAFT v. GEORGIA</CITATION>
+
+<NAME end="23" start="18" party1_of="125102_3" all_names="CRAFT" local_name_id="1" id="125102_4" >CRAFT</NAME>
+
+<NAME end="34" start="27" all_names="GEORGIA" party2_of="125102_3" local_name_id="2" id="125102_5" >GEORGIA</NAME>
+
+<DOCKET end="50" entry_type="docket" lookup_key="u.s._537_1025" id1="125100" start="44" citation_global_level_id="1493.002" line="1" id="125102_2" citation_local_level_id="0" >02-375</DOCKET>
+
+<DATE start="92" end="109" id="125102_6" >November 12, 2002</DATE>
+
+<NAME start="203" local_name_id="3" end="205" id="125102_13" all_names="CT" >Ct</NAME>
+
+<CITATION end="378" reporter="S. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="s.e.2d_558_18" id1="Dummy_File_101164" volume="558" start="363" page_number="18" standard_reporter="S.E.2D" citation_global_level_id="165014.001" line="3" id="125102_12" citation_local_level_id="2" >558 S. E. 2d 18</CITATION>
+
+<RELATION theme="125102_1" includes_docket_string="02-375" includes_docket="125102_2" theme_string="537 U.S. 1025" gram_type="apposition" relation_type="asymmetric" id="125102_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1025" X_vs_Y_string="CRAFT v. GEORGIA" standard_case="125102_1" X_vs_Y="125102_3" gram_type="pre_nom" relation_type="equivalence" id="125102_7" ></RELATION>
+
+<RELATION theme="125102_3" includes_docket_string="02-375" includes_docket="125102_2" theme_string="CRAFT v. GEORGIA" gram_type="apposition" relation_type="asymmetric" id="125102_10" ></RELATION>
+
+<RELATION theme="125102_3" party1="125102_4" party1_string="CRAFT" theme_string="CRAFT v. GEORGIA" gram_type="infix" relation_type="asymmetric" id="125102_8" ></RELATION>
+
+<RELATION party2="125102_5" theme="125102_3" theme_string="CRAFT v. GEORGIA" party2_string="GEORGIA" gram_type="infix" relation_type="asymmetric" id="125102_9" ></RELATION>
+

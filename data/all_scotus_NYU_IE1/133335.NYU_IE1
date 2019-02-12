@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['waldropalabama#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_968" id1="133329" volume="540" start="0" page_number="968" standard_reporter="U.S." citation_global_level_id="2807.002" line="1" id="133335_1" citation_local_level_id="0" >540 U.S. 968</CITATION>
+
+<CITATION party2="ALABAMA" party1="WALDROP" citation_global_level_id="48033.001" party2_short="ALABAMA" line="1" id="133335_3" alternative_keys="['u.s._540_968']" end="35" entry_type="party_key" lookup_key="waldropalabama#1" id1="133335" start="17" party1_short="WALDROP" citation_local_level_id="1" >WALDROP v. ALABAMA</CITATION>
+
+<NAME end="24" start="17" party1_of="133335_3" all_names="WALDROP" local_name_id="1" id="133335_4" >WALDROP</NAME>
+
+<NAME end="35" start="28" all_names="ALABAMA" party2_of="133335_3" local_name_id="2" id="133335_5" >ALABAMA</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="u.s._540_968" id1="133329" start="45" citation_global_level_id="2807.002" line="1" id="133335_2" citation_local_level_id="0" >03-5412</DOCKET>
+
+<DATE start="94" end="110" id="133335_6" >October 20, 2003</DATE>
+
+<NAME start="187" local_name_id="3" end="197" id="133335_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="237" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_859_1181" id1="Dummy_File_149819" volume="859" start="222" page_number="1181" standard_reporter="SO.2D" citation_global_level_id="213669.001" line="3" id="133335_12" citation_local_level_id="2" >859 So. 2d 1181</CITATION>
+
+<RELATION theme="133335_1" includes_docket_string="03-5412" includes_docket="133335_2" theme_string="540 U.S. 968" gram_type="apposition" relation_type="asymmetric" id="133335_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 968" X_vs_Y_string="WALDROP v. ALABAMA" standard_case="133335_1" X_vs_Y="133335_3" gram_type="pre_nom" relation_type="equivalence" id="133335_7" ></RELATION>
+
+<RELATION theme="133335_3" includes_docket_string="03-5412" includes_docket="133335_2" theme_string="WALDROP v. ALABAMA" gram_type="apposition" relation_type="asymmetric" id="133335_10" ></RELATION>
+
+<RELATION theme="133335_3" party1="133335_4" party1_string="WALDROP" theme_string="WALDROP v. ALABAMA" gram_type="infix" relation_type="asymmetric" id="133335_8" ></RELATION>
+
+<RELATION party2="133335_5" theme="133335_3" theme_string="WALDROP v. ALABAMA" party2_string="ALABAMA" gram_type="infix" relation_type="asymmetric" id="133335_9" ></RELATION>
+

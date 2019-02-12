@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['francomyers#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1198" id1="117648" volume="510" start="0" page_number="1198" standard_reporter="U.S." citation_global_level_id="18067.002" line="1" id="117645_1" citation_local_level_id="0" >510 U.S. 1198</CITATION>
+
+<CITATION party2="Myers, Warden, et al" party1="Franco" citation_global_level_id="18067.004" party2_short="Myers" line="1" id="117645_3" alternative_keys="['u.s._510_1198']" end="48" entry_type="party_key" lookup_key="francomyers#1" id1="117648" start="18" party1_short="Franco" citation_local_level_id="1" >Franco v. Myers, Warden, et al</CITATION>
+
+<NAME end="24" start="18" party1_of="117645_3" all_names="FRANCO" local_name_id="1" id="117645_4" >Franco</NAME>
+
+<NAME end="48" start="28" all_names="MYERS WARDEN" party2_of="117645_3" local_name_id="2" id="117645_5" >Myers, Warden, et al</NAME>
+
+<DOCKET end="65" entry_type="docket" lookup_key="u.s._510_1198" id1="117648" start="58" citation_global_level_id="18067.002" line="1" id="117645_2" citation_local_level_id="0" >93-6848</DOCKET>
+
+<DATE start="107" end="121" id="117645_6" >March 21, 1994</DATE>
+
+<NAME start="199" local_name_id="3" end="209" id="117645_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="247" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_999_542" id1="Dummy_File_6234" volume="999" start="234" page_number="542" standard_reporter="F.2D" citation_global_level_id="70084.001" line="3" id="117645_12" citation_local_level_id="2" >999 F. 2d 542</CITATION>
+
+<RELATION theme="117645_1" includes_docket_string="93-6848" includes_docket="117645_2" theme_string="510 U.S. 1198" gram_type="apposition" relation_type="asymmetric" id="117645_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1198" X_vs_Y_string="Franco v. Myers, Warden, et al" standard_case="117645_1" X_vs_Y="117645_3" gram_type="pre_nom" relation_type="equivalence" id="117645_7" ></RELATION>
+
+<RELATION theme="117645_3" includes_docket_string="93-6848" includes_docket="117645_2" theme_string="Franco v. Myers, Warden, et al" gram_type="apposition" relation_type="asymmetric" id="117645_10" ></RELATION>
+
+<RELATION theme="117645_3" party1="117645_4" party1_string="Franco" theme_string="Franco v. Myers, Warden, et al" gram_type="infix" relation_type="asymmetric" id="117645_8" ></RELATION>
+
+<RELATION party2="117645_5" theme="117645_3" theme_string="Franco v. Myers, Warden, et al" party2_string="Myers, Warden, et al" gram_type="infix" relation_type="asymmetric" id="117645_9" ></RELATION>
+

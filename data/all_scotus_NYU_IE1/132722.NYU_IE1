@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['reddickjones#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_920" id1="132721" volume="540" start="0" page_number="920" standard_reporter="U.S." citation_global_level_id="1212.002" line="1" id="132722_1" citation_local_level_id="0" >540 U.S. 920</CITATION>
+
+<CITATION party2="JONES, WARDEN" party1="REDDICK" citation_global_level_id="1212.004" party2_short="JONES" line="1" id="132722_3" alternative_keys="['u.s._540_920']" end="41" entry_type="party_key" lookup_key="reddickjones#1" id1="132721" start="17" party1_short="REDDICK" citation_local_level_id="1" >REDDICK v. JONES, WARDEN</CITATION>
+
+<NAME end="24" start="17" party1_of="132722_3" all_names="REDDICK" local_name_id="1" id="132722_4" >REDDICK</NAME>
+
+<NAME end="41" start="28" all_names="JONES WARDEN" party2_of="132722_3" local_name_id="2" id="132722_5" >JONES, WARDEN</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._540_920" id1="132721" start="51" citation_global_level_id="1212.002" line="1" id="132722_2" citation_local_level_id="0" >03-5624</DOCKET>
+
+<DATE start="100" end="115" id="132722_6" >October 6, 2003</DATE>
+
+<NAME start="193" local_name_id="3" end="203" id="132722_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="132722_1" includes_docket_string="03-5624" includes_docket="132722_2" theme_string="540 U.S. 920" gram_type="apposition" relation_type="asymmetric" id="132722_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 920" X_vs_Y_string="REDDICK v. JONES, WARDEN" standard_case="132722_1" X_vs_Y="132722_3" gram_type="pre_nom" relation_type="equivalence" id="132722_7" ></RELATION>
+
+<RELATION theme="132722_3" includes_docket_string="03-5624" includes_docket="132722_2" theme_string="REDDICK v. JONES, WARDEN" gram_type="apposition" relation_type="asymmetric" id="132722_10" ></RELATION>
+
+<RELATION theme="132722_3" party1="132722_4" party1_string="REDDICK" theme_string="REDDICK v. JONES, WARDEN" gram_type="infix" relation_type="asymmetric" id="132722_8" ></RELATION>
+
+<RELATION party2="132722_5" theme="132722_3" theme_string="REDDICK v. JONES, WARDEN" party2_string="JONES, WARDEN" gram_type="infix" relation_type="asymmetric" id="132722_9" ></RELATION>
+

@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['mccartytransmission#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1053" id1="120257" volume="535" start="0" page_number="1053" standard_reporter="U.S." citation_global_level_id="465.002" line="1" id="120253_1" citation_local_level_id="0" >535 U.S. 1053</CITATION>
+
+<CITATION party2="MIDWESTERN GAS TRANSMISSION CO. ET AL" party1="MCCARTY ET AL." citation_global_level_id="21130.001" party2_short="TRANSMISSION" line="2" id="120253_2" alternative_keys="['u.s._535_1053']" end="73" entry_type="party_key" lookup_key="mccartytransmission#1" id1="120253" start="18" party1_short="MCCARTY" citation_local_level_id="1" >MCCARTY ET AL. v. MIDWESTERN GAS TRANSMISSION CO. ET AL</CITATION>
+
+<NAME end="32" start="18" party1_of="120253_2" all_names="MCCARTY" local_name_id="1" id="120253_3" >MCCARTY ET AL.</NAME>
+
+<NAME end="73" start="36" all_names="MIDWESTERN GAS TRANSMISSION CO" party2_of="120253_2" local_name_id="2" id="120253_4" >MIDWESTERN GAS TRANSMISSION CO. ET AL</NAME>
+
+<ORGANIZATION start="64" end="66" id="120253_5" >CO</ORGANIZATION>
+
+<DOCKET end="90" entry_type="docket" lookup_key="mccartytransmission#1" id1="120253" start="83" citation_global_level_id="21130.001" line="3" id="120253_8" citation_local_level_id="1" >01-1134</DOCKET>
+
+<DATE start="136" citation_global_level_id="21130.001" end="148" id="120253_9" citation_local_level_id="1" >May 13, 2002</DATE>
+
+<NAME start="180" local_name_id="3" end="183" id="120253_14" all_names="CIR" >Cir</NAME>
+
+<CITATION end="233" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_270_536" id1="Dummy_File_85748" volume="270" start="220" page_number="536" standard_reporter="F.3D" citation_global_level_id="149598.001" line="8" id="120253_13" citation_local_level_id="2" >270 F. 3d 536</CITATION>
+
+<RELATION theme="120253_2" party1="120253_3" party1_string="MCCARTY ET AL." theme_string="MCCARTY ET AL. v. MIDWESTERN GAS TRANSMISSION CO. ET AL" gram_type="infix" relation_type="asymmetric" id="120253_6" ></RELATION>
+
+<RELATION party2="120253_4" theme="120253_2" theme_string="MCCARTY ET AL. v. MIDWESTERN GAS TRANSMISSION CO. ET AL" party2_string="MIDWESTERN GAS TRANSMISSION CO. ET AL" gram_type="infix" relation_type="asymmetric" id="120253_7" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1053" X_vs_Y_string="MCCARTY ET AL. v. MIDWESTERN GAS TRANSMISSION CO. ET AL" standard_case="120253_1" X_vs_Y="120253_2" gram_type="multi_line" relation_type="equivalence" id="120253_10" ></RELATION>
+
+<RELATION at_date_string="May 13, 2002" theme="120253_2" at_date="120253_9" theme_string="MCCARTY ET AL. v. MIDWESTERN GAS TRANSMISSION CO. ET AL" gram_type="multi_line" relation_type="asymmetric" id="120253_12" ></RELATION>
+
+<RELATION theme="120253_2" includes_docket_string="01-1134" includes_docket="120253_8" theme_string="MCCARTY ET AL. v. MIDWESTERN GAS TRANSMISSION CO. ET AL" gram_type="multi_line" relation_type="asymmetric" id="120253_11" ></RELATION>
+

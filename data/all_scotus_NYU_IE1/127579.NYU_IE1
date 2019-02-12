@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['castillostates#9']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1222" id1="127576" volume="537" start="0" page_number="1222" standard_reporter="U.S." citation_global_level_id="5256.002" line="1" id="127579_1" citation_local_level_id="0" >537 U.S. 1222</CITATION>
+
+<CITATION party2="UNITED STATES" party1="CASTILLO" citation_global_level_id="39759.001" party2_short="STATES" line="1" id="127579_3" alternative_keys="['u.s._537_1222']" end="43" entry_type="party_key" lookup_key="castillostates#9" id1="126460" start="18" party1_short="CASTILLO" citation_local_level_id="1" >CASTILLO v. UNITED STATES</CITATION>
+
+<NAME end="26" start="18" party1_of="127579_3" all_names="CASTILLO" local_name_id="1" id="127579_4" >CASTILLO</NAME>
+
+<NAME end="43" start="30" all_names="UNITED STATES" party2_of="127579_3" local_name_id="2" id="127579_5" >UNITED STATES</NAME>
+
+<DOCKET end="60" entry_type="docket" lookup_key="u.s._537_1222" id1="127576" start="53" citation_global_level_id="5256.002" line="1" id="127579_2" citation_local_level_id="0" >02-8526</DOCKET>
+
+<DATE start="102" end="119" id="127579_6" >February 24, 2003</DATE>
+
+<NAME start="248" local_name_id="3" end="251" id="127579_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="127579_1" includes_docket_string="02-8526" includes_docket="127579_2" theme_string="537 U.S. 1222" gram_type="apposition" relation_type="asymmetric" id="127579_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1222" X_vs_Y_string="CASTILLO v. UNITED STATES" standard_case="127579_1" X_vs_Y="127579_3" gram_type="pre_nom" relation_type="equivalence" id="127579_7" ></RELATION>
+
+<RELATION theme="127579_3" includes_docket_string="02-8526" includes_docket="127579_2" theme_string="CASTILLO v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="127579_10" ></RELATION>
+
+<RELATION theme="127579_3" party1="127579_4" party1_string="CASTILLO" theme_string="CASTILLO v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="127579_8" ></RELATION>
+
+<RELATION party2="127579_5" theme="127579_3" theme_string="CASTILLO v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="127579_9" ></RELATION>
+

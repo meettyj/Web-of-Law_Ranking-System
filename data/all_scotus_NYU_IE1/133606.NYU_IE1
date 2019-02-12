@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['salleeindiana#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_990" id1="133616" volume="540" start="0" page_number="990" standard_reporter="U.S." citation_global_level_id="8796.002" line="1" id="133606_1" citation_local_level_id="0" >540 U.S. 990</CITATION>
+
+<CITATION party2="INDIANA" party1="SALLEE" citation_global_level_id="27160.001" party2_short="INDIANA" line="1" id="133606_3" alternative_keys="['u.s._540_990']" end="34" entry_type="party_key" lookup_key="salleeindiana#1" id1="133606" start="17" party1_short="SALLEE" citation_local_level_id="1" >SALLEE v. INDIANA</CITATION>
+
+<NAME end="23" start="17" party1_of="133606_3" all_names="SALLEE" local_name_id="1" id="133606_4" >SALLEE</NAME>
+
+<NAME end="34" start="27" all_names="INDIANA" party2_of="133606_3" local_name_id="2" id="133606_5" >INDIANA</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="u.s._540_990" id1="133616" start="44" citation_global_level_id="8796.002" line="1" id="133606_2" citation_local_level_id="0" >03-6191</DOCKET>
+
+<DATE start="93" end="109" id="133606_6" >November 3, 2003</DATE>
+
+<NAME start="186" local_name_id="3" end="196" id="133606_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="237" reporter="N. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.e.2d_785_645" id1="Dummy_File_119844" volume="785" start="221" page_number="645" standard_reporter="N.E.2D" citation_global_level_id="183694.001" line="3" id="133606_12" citation_local_level_id="2" >785 N. E. 2d 645</CITATION>
+
+<RELATION theme="133606_1" includes_docket_string="03-6191" includes_docket="133606_2" theme_string="540 U.S. 990" gram_type="apposition" relation_type="asymmetric" id="133606_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 990" X_vs_Y_string="SALLEE v. INDIANA" standard_case="133606_1" X_vs_Y="133606_3" gram_type="pre_nom" relation_type="equivalence" id="133606_7" ></RELATION>
+
+<RELATION theme="133606_3" includes_docket_string="03-6191" includes_docket="133606_2" theme_string="SALLEE v. INDIANA" gram_type="apposition" relation_type="asymmetric" id="133606_10" ></RELATION>
+
+<RELATION theme="133606_3" party1="133606_4" party1_string="SALLEE" theme_string="SALLEE v. INDIANA" gram_type="infix" relation_type="asymmetric" id="133606_8" ></RELATION>
+
+<RELATION party2="133606_5" theme="133606_3" theme_string="SALLEE v. INDIANA" party2_string="INDIANA" gram_type="infix" relation_type="asymmetric" id="133606_9" ></RELATION>
+

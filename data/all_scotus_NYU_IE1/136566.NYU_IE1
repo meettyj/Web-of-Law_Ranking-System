@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['smithelo#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_1065" id1="136567" volume="541" start="0" page_number="1065" standard_reporter="U.S." citation_global_level_id="7648.002" line="1" id="136566_1" citation_local_level_id="0" >541 U.S. 1065</CITATION>
+
+<CITATION party2="ELO, WARDEN" party1="SMITH" citation_global_level_id="7648.004" party2_short="ELO" line="2" id="136566_2" alternative_keys="['u.s._541_1065']" end="38" entry_type="party_key" lookup_key="smithelo#1" id1="136567" start="18" party1_short="SMITH" citation_local_level_id="1" >SMITH v. ELO, WARDEN</CITATION>
+
+<NAME end="23" start="18" party1_of="136566_2" all_names="SMITH" local_name_id="1" id="136566_3" >SMITH</NAME>
+
+<NAME end="38" start="27" all_names="ELO WARDEN" party2_of="136566_2" local_name_id="2" id="136566_4" >ELO, WARDEN</NAME>
+
+<DOCKET alternative_keys="['u.s._541_1065']" end="55" entry_type="docket" lookup_key="smithelo#1" id1="136567" start="48" citation_global_level_id="7648.004" line="3" id="136566_7" citation_local_level_id="1" >03-9423</DOCKET>
+
+<ORGANIZATION start="61" end="91" id="136566_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="97" citation_global_level_id="7648.004" end="109" id="136566_9" citation_local_level_id="1" >May 24, 2004</DATE>
+
+<NAME start="141" local_name_id="3" end="144" id="136566_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="136566_2" party1="136566_3" party1_string="SMITH" theme_string="SMITH v. ELO, WARDEN" gram_type="infix" relation_type="asymmetric" id="136566_5" ></RELATION>
+
+<RELATION party2="136566_4" theme="136566_2" theme_string="SMITH v. ELO, WARDEN" party2_string="ELO, WARDEN" gram_type="infix" relation_type="asymmetric" id="136566_6" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 1065" X_vs_Y_string="SMITH v. ELO, WARDEN" standard_case="136566_1" X_vs_Y="136566_2" gram_type="multi_line" relation_type="equivalence" id="136566_10" ></RELATION>
+
+<RELATION at_date_string="May 24, 2004" theme="136566_2" at_date="136566_9" theme_string="SMITH v. ELO, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="136566_12" ></RELATION>
+
+<RELATION theme="136566_2" includes_docket_string="03-9423" includes_docket="136566_7" theme_string="SMITH v. ELO, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="136566_11" ></RELATION>
+

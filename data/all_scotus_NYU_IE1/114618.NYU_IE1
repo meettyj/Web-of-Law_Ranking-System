@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['cokercalifornia#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_934" id1="114608" volume="510" start="0" page_number="934" standard_reporter="U.S." citation_global_level_id="1576.002" line="1" id="114618_1" citation_local_level_id="0" >510 U.S. 934</CITATION>
+
+<CITATION party2="California" party1="Coker" citation_global_level_id="33711.001" party2_short="California" line="1" id="114618_3" alternative_keys="['u.s._510_934']" end="36" entry_type="party_key" lookup_key="cokercalifornia#1" id1="114618" start="17" party1_short="Coker" citation_local_level_id="1" >Coker v. California</CITATION>
+
+<NAME end="22" start="17" party1_of="114618_3" all_names="COKER" local_name_id="1" id="114618_4" >Coker</NAME>
+
+<NAME end="36" start="26" all_names="CALIFORNIA" party2_of="114618_3" local_name_id="2" id="114618_5" >California</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="u.s._510_934" id1="114608" start="46" citation_global_level_id="1576.002" line="1" id="114618_2" citation_local_level_id="0" >93-5796</DOCKET>
+
+<DATE start="95" end="111" id="114618_6" >October 18, 1993</DATE>
+
+<NAME start="203" local_name_id="3" end="213" id="114618_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="114618_1" includes_docket_string="93-5796" includes_docket="114618_2" theme_string="510 U.S. 934" gram_type="apposition" relation_type="asymmetric" id="114618_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 934" X_vs_Y_string="Coker v. California" standard_case="114618_1" X_vs_Y="114618_3" gram_type="pre_nom" relation_type="equivalence" id="114618_7" ></RELATION>
+
+<RELATION theme="114618_3" includes_docket_string="93-5796" includes_docket="114618_2" theme_string="Coker v. California" gram_type="apposition" relation_type="asymmetric" id="114618_10" ></RELATION>
+
+<RELATION theme="114618_3" party1="114618_4" party1_string="Coker" theme_string="Coker v. California" gram_type="infix" relation_type="asymmetric" id="114618_8" ></RELATION>
+
+<RELATION party2="114618_5" theme="114618_3" theme_string="Coker v. California" party2_string="California" gram_type="infix" relation_type="asymmetric" id="114618_9" ></RELATION>
+

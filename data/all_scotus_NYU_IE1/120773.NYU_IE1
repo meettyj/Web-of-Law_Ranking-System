@@ -1,0 +1,38 @@
+<CITATION alternative_keys="['telecommunicationscommission#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1091" id1="120775" volume="535" start="0" page_number="1091" standard_reporter="U.S." citation_global_level_id="5373.002" line="1" id="120773_1" citation_local_level_id="0" >535 U.S. 1091</CITATION>
+
+<CITATION party2="NORTH CAROLINA UTILITIES COMMISSION ET AL" party1="BELLSOUTH TELECOMMUNICATIONS, INC." citation_global_level_id="5373.003" party2_short="COMMISSION" line="2" id="120773_2" alternative_keys="['u.s._535_1091']" end="97" entry_type="party_key" lookup_key="telecommunicationscommission#1" id1="120775" start="18" party1_short="TELECOMMUNICATIONS" citation_local_level_id="1" >BELLSOUTH TELECOMMUNICATIONS, INC. v. NORTH CAROLINA UTILITIES COMMISSION ET AL</CITATION>
+
+<NAME end="52" start="18" party1_of="120773_2" all_names="BELLSOUTH TELECOMMUNICATIONS INC" local_name_id="1" id="120773_3" >BELLSOUTH TELECOMMUNICATIONS, INC.</NAME>
+
+<ORGANIZATION start="18" end="51" id="120773_5" >BELLSOUTH TELECOMMUNICATIONS, INC</ORGANIZATION>
+
+<NAME end="97" start="56" all_names="NORTH CAROLINA UTILITIES COMMISSION" party2_of="120773_2" local_name_id="2" id="120773_4" >NORTH CAROLINA UTILITIES COMMISSION ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._535_1091']" end="114" entry_type="docket" lookup_key="telecommunicationscommission#1" id1="120775" start="107" citation_global_level_id="5373.003" line="3" id="120773_8" citation_local_level_id="1" >00-1699</DOCKET>
+
+<DATE start="160" citation_global_level_id="5373.003" end="172" id="120773_9" citation_local_level_id="1" >May 28, 2002</DATE>
+
+<NAME start="204" local_name_id="3" end="207" id="120773_17" all_names="CIR" >Cir</NAME>
+
+<CITATION party2="Public Serv. Comm'n of Md" party1="Verizon Md. Inc." citation_global_level_id="209413.001" party2_short="n" line="8" id="120773_14" end="348" no_current_file="True" entry_type="party_key" lookup_key="verizonn#1" id1="Dummy_File_145563" start="303" party1_short="Verizon" citation_local_level_id="2" >Verizon Md. Inc. v. Public Serv. Comm'n of Md</CITATION>
+
+<NAME end="319" start="303" party1_of="120773_14" all_names="VERIZON MD INC" local_name_id="4" id="120773_15" >Verizon Md. Inc.</NAME>
+
+<NAME end="348" start="323" all_names="PUBLIC SERV COMM'N OF MD" party2_of="120773_14" local_name_id="5" id="120773_16" >Public Serv. Comm'n of Md</NAME>
+
+<CITATION end="471" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_240_270" id1="Dummy_File_159913" volume="240" start="458" page_number="270" standard_reporter="F.3D" citation_global_level_id="223763.001" line="8" id="120773_13" citation_local_level_id="3" >240 F. 3d 270</CITATION>
+
+<RELATION theme="120773_2" party1="120773_3" party1_string="BELLSOUTH TELECOMMUNICATIONS, INC." theme_string="BELLSOUTH TELECOMMUNICATIONS, INC. v. NORTH CAROLINA UTILITIES COMMISSION ET AL" gram_type="infix" relation_type="asymmetric" id="120773_6" ></RELATION>
+
+<RELATION party2="120773_4" theme="120773_2" theme_string="BELLSOUTH TELECOMMUNICATIONS, INC. v. NORTH CAROLINA UTILITIES COMMISSION ET AL" party2_string="NORTH CAROLINA UTILITIES COMMISSION ET AL" gram_type="infix" relation_type="asymmetric" id="120773_7" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1091" X_vs_Y_string="BELLSOUTH TELECOMMUNICATIONS, INC. v. NORTH CAROLINA UTILITIES COMMISSION ET AL" standard_case="120773_1" X_vs_Y="120773_2" gram_type="multi_line" relation_type="equivalence" id="120773_10" ></RELATION>
+
+<RELATION at_date_string="May 28, 2002" theme="120773_2" at_date="120773_9" theme_string="BELLSOUTH TELECOMMUNICATIONS, INC. v. NORTH CAROLINA UTILITIES COMMISSION ET AL" gram_type="multi_line" relation_type="asymmetric" id="120773_12" ></RELATION>
+
+<RELATION theme="120773_2" includes_docket_string="00-1699" includes_docket="120773_8" theme_string="BELLSOUTH TELECOMMUNICATIONS, INC. v. NORTH CAROLINA UTILITIES COMMISSION ET AL" gram_type="multi_line" relation_type="asymmetric" id="120773_11" ></RELATION>
+
+<RELATION theme="120773_14" party1="120773_15" party1_string="Verizon Md. Inc." theme_string="Verizon Md. Inc. v. Public Serv. Comm'n of Md" gram_type="infix" relation_type="asymmetric" id="120773_18" ></RELATION>
+
+<RELATION party2="120773_16" theme="120773_14" theme_string="Verizon Md. Inc. v. Public Serv. Comm'n of Md" party2_string="Public Serv. Comm'n of Md" gram_type="infix" relation_type="asymmetric" id="120773_19" ></RELATION>
+

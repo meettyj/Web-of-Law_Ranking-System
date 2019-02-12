@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['fraserzenk#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._542_943" id1="137504" volume="542" start="0" page_number="943" standard_reporter="U.S." citation_global_level_id="271.002" line="1" id="137509_1" citation_local_level_id="0" >542 U.S. 943</CITATION>
+
+<CITATION party2="ZENK, WARDEN" party1="FRASER" citation_global_level_id="271.004" party2_short="ZENK" line="2" id="137509_2" alternative_keys="['u.s._542_943']" end="39" entry_type="party_key" lookup_key="fraserzenk#1" id1="137504" start="17" party1_short="FRASER" citation_local_level_id="1" >FRASER v. ZENK, WARDEN</CITATION>
+
+<NAME end="23" start="17" party1_of="137509_2" all_names="FRASER" local_name_id="1" id="137509_3" >FRASER</NAME>
+
+<NAME end="39" start="27" all_names="ZENK WARDEN" party2_of="137509_2" local_name_id="2" id="137509_4" >ZENK, WARDEN</NAME>
+
+<DOCKET alternative_keys="['u.s._542_943']" end="57" entry_type="docket" lookup_key="fraserzenk#1" id1="137504" start="49" citation_global_level_id="271.004" line="3" id="137509_7" citation_local_level_id="1" >03-10577</DOCKET>
+
+<ORGANIZATION start="63" end="93" id="137509_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="99" citation_global_level_id="271.004" end="112" id="137509_9" citation_local_level_id="1" >June 28, 2004</DATE>
+
+<NAME start="143" local_name_id="3" end="146" id="137509_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="137509_2" party1="137509_3" party1_string="FRASER" theme_string="FRASER v. ZENK, WARDEN" gram_type="infix" relation_type="asymmetric" id="137509_5" ></RELATION>
+
+<RELATION party2="137509_4" theme="137509_2" theme_string="FRASER v. ZENK, WARDEN" party2_string="ZENK, WARDEN" gram_type="infix" relation_type="asymmetric" id="137509_6" ></RELATION>
+
+<RELATION standard_case_string="542 U.S. 943" X_vs_Y_string="FRASER v. ZENK, WARDEN" standard_case="137509_1" X_vs_Y="137509_2" gram_type="multi_line" relation_type="equivalence" id="137509_10" ></RELATION>
+
+<RELATION at_date_string="June 28, 2004" theme="137509_2" at_date="137509_9" theme_string="FRASER v. ZENK, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="137509_12" ></RELATION>
+
+<RELATION theme="137509_2" includes_docket_string="03-10577" includes_docket="137509_7" theme_string="FRASER v. ZENK, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="137509_11" ></RELATION>
+

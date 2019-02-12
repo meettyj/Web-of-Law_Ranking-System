@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['developmenttown#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._541_974" id1="135467" volume="541" start="0" page_number="974" standard_reporter="U.S." citation_global_level_id="3721.002" line="1" id="135477_1" citation_local_level_id="0" >541 U.S. 974</CITATION>
+
+<CITATION party2="TOWN OF MONROE, NEW YORK" party1="TWIN LAKES DEVELOPMENT CORP." citation_global_level_id="3721.005" party2_short="TOWN" line="2" id="135477_2" alternative_keys="['u.s._541_974']" end="73" entry_type="party_key" lookup_key="developmenttown#2" id1="135467" start="17" party1_short="DEVELOPMENT" citation_local_level_id="1" >TWIN LAKES DEVELOPMENT CORP. v. TOWN OF MONROE, NEW YORK</CITATION>
+
+<NAME end="45" start="17" party1_of="135477_2" all_names="TWIN LAKES DEVELOPMENT CORP" local_name_id="1" id="135477_3" >TWIN LAKES DEVELOPMENT CORP.</NAME>
+
+<ORGANIZATION start="17" end="44" id="135477_5" >TWIN LAKES DEVELOPMENT CORP</ORGANIZATION>
+
+<NAME end="73" start="49" all_names="TOWN OF MONROE NEW YORK" party2_of="135477_2" local_name_id="2" id="135477_4" >TOWN OF MONROE, NEW YORK</NAME>
+
+<DOCKET alternative_keys="['u.s._541_974']" end="90" entry_type="docket" lookup_key="developmenttown#2" id1="135467" start="83" citation_global_level_id="3721.005" line="3" id="135477_8" citation_local_level_id="1" >03-1121</DOCKET>
+
+<ORGANIZATION start="96" end="126" id="135477_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="132" citation_global_level_id="3721.005" end="145" id="135477_10" citation_local_level_id="1" >April 5, 2004</DATE>
+
+<NAME start="167" local_name_id="3" end="169" id="135477_15" all_names="CT" >Ct</NAME>
+
+<CITATION end="248" reporter="N. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.e.2d_801_821" id1="Dummy_File_55110" volume="801" start="232" page_number="821" standard_reporter="N.E.2D" citation_global_level_id="118960.001" line="8" id="135477_14" citation_local_level_id="2" >801 N. E. 2d 821</CITATION>
+
+<RELATION theme="135477_2" party1="135477_3" party1_string="TWIN LAKES DEVELOPMENT CORP." theme_string="TWIN LAKES DEVELOPMENT CORP. v. TOWN OF MONROE, NEW YORK" gram_type="infix" relation_type="asymmetric" id="135477_6" ></RELATION>
+
+<RELATION party2="135477_4" theme="135477_2" theme_string="TWIN LAKES DEVELOPMENT CORP. v. TOWN OF MONROE, NEW YORK" party2_string="TOWN OF MONROE, NEW YORK" gram_type="infix" relation_type="asymmetric" id="135477_7" ></RELATION>
+
+<RELATION standard_case_string="541 U.S. 974" X_vs_Y_string="TWIN LAKES DEVELOPMENT CORP. v. TOWN OF MONROE, NEW YORK" standard_case="135477_1" X_vs_Y="135477_2" gram_type="multi_line" relation_type="equivalence" id="135477_11" ></RELATION>
+
+<RELATION at_date_string="April 5, 2004" theme="135477_2" at_date="135477_10" theme_string="TWIN LAKES DEVELOPMENT CORP. v. TOWN OF MONROE, NEW YORK" gram_type="multi_line" relation_type="asymmetric" id="135477_13" ></RELATION>
+
+<RELATION theme="135477_2" includes_docket_string="03-1121" includes_docket="135477_8" theme_string="TWIN LAKES DEVELOPMENT CORP. v. TOWN OF MONROE, NEW YORK" gram_type="multi_line" relation_type="asymmetric" id="135477_12" ></RELATION>
+

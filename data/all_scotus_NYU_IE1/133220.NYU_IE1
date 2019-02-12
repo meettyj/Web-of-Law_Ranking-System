@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['castillostates#8']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_959" id1="133228" volume="540" start="0" page_number="959" standard_reporter="U.S." citation_global_level_id="4140.002" line="1" id="133220_1" citation_local_level_id="0" >540 U.S. 959</CITATION>
+
+<CITATION party2="UNITED STATES" party1="FERNANDEZ-CASTILLO" citation_global_level_id="30722.001" party2_short="STATES" line="1" id="133220_3" alternative_keys="['u.s._540_959']" end="52" entry_type="party_key" lookup_key="castillostates#8" id1="127579" start="17" party1_short="CASTILLO" citation_local_level_id="1" >FERNANDEZ-CASTILLO v. UNITED STATES</CITATION>
+
+<NAME end="35" start="17" party1_of="133220_3" all_names="FERNANDEZ-CASTILLO" local_name_id="1" id="133220_4" >FERNANDEZ-CASTILLO</NAME>
+
+<NAME end="52" start="39" all_names="UNITED STATES" party2_of="133220_3" local_name_id="2" id="133220_5" >UNITED STATES</NAME>
+
+<DOCKET end="69" entry_type="docket" lookup_key="u.s._540_959" id1="133228" start="62" citation_global_level_id="4140.002" line="1" id="133220_2" citation_local_level_id="0" >03-6145</DOCKET>
+
+<DATE start="111" end="127" id="133220_6" >October 14, 2003</DATE>
+
+<NAME start="205" local_name_id="3" end="215" id="133220_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="254" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_324_1114" id1="Dummy_File_204194" volume="324" start="240" page_number="1114" standard_reporter="F.3D" citation_global_level_id="268044.001" line="3" id="133220_12" citation_local_level_id="2" >324 F. 3d 1114</CITATION>
+
+<RELATION theme="133220_1" includes_docket_string="03-6145" includes_docket="133220_2" theme_string="540 U.S. 959" gram_type="apposition" relation_type="asymmetric" id="133220_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 959" X_vs_Y_string="FERNANDEZ-CASTILLO v. UNITED STATES" standard_case="133220_1" X_vs_Y="133220_3" gram_type="pre_nom" relation_type="equivalence" id="133220_7" ></RELATION>
+
+<RELATION theme="133220_3" includes_docket_string="03-6145" includes_docket="133220_2" theme_string="FERNANDEZ-CASTILLO v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="133220_10" ></RELATION>
+
+<RELATION theme="133220_3" party1="133220_4" party1_string="FERNANDEZ-CASTILLO" theme_string="FERNANDEZ-CASTILLO v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="133220_8" ></RELATION>
+
+<RELATION party2="133220_5" theme="133220_3" theme_string="FERNANDEZ-CASTILLO v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="133220_9" ></RELATION>
+

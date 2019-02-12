@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['healthhospital#3']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1031" id1="115867" volume="510" start="0" page_number="1031" standard_reporter="U.S." citation_global_level_id="1138.002" line="1" id="115865_1" citation_local_level_id="0" >510 U.S. 1031</CITATION>
+
+<CITATION party2="Morristown Memorial Hospital et al" party1="United Wire, Metal &amp; Machine Health and Welfare Fund et al." citation_global_level_id="9375.005" party2_short="Hospital" line="2" id="115865_2" alternative_keys="['u.s._510_944']" end="115" entry_type="party_key" lookup_key="healthhospital#3" id1="114717" start="18" party1_short="Health" citation_local_level_id="1" >United Wire, Metal &amp; Machine Health and Welfare Fund et al. v. Morristown Memorial Hospital et al</CITATION>
+
+<NAME end="77" start="18" party1_of="115865_2" all_names="UNITED WIRE METAL &amp; MACHINE HEALTH AND WELFARE FUND" local_name_id="1" id="115865_3" >United Wire, Metal &amp; Machine Health and Welfare Fund et al.</NAME>
+
+<ORGANIZATION start="31" end="70" id="115865_5" >Metal &amp; Machine Health and Welfare Fund</ORGANIZATION>
+
+<NAME end="115" start="81" all_names="MORRISTOWN MEMORIAL HOSPITAL" party2_of="115865_2" local_name_id="2" id="115865_4" >Morristown Memorial Hospital et al</NAME>
+
+<ORGANIZATION start="81" end="109" id="115865_6" >Morristown Memorial Hospital</ORGANIZATION>
+
+<DOCKET alternative_keys="['u.s._510_944']" end="146" entry_type="docket" lookup_key="healthhospital#3" id1="114717" start="140" citation_global_level_id="9375.005" line="3" id="115865_9" citation_local_level_id="1" >93-194</DOCKET>
+
+<ORGANIZATION start="152" end="182" id="115865_10" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="188" citation_global_level_id="9375.005" end="205" id="115865_11" citation_local_level_id="1" >December 13, 1993</DATE>
+
+<NAME start="227" local_name_id="3" end="235" id="115865_15" all_names="PETITION" >Petition</NAME>
+
+<RELATION theme="115865_2" party1="115865_3" party1_string="United Wire, Metal &amp; Machine Health and Welfare Fund et al." theme_string="United Wire, Metal &amp; Machine Health and Welfare Fund et al. v. Morristown Memorial Hospital et al" gram_type="infix" relation_type="asymmetric" id="115865_7" ></RELATION>
+
+<RELATION party2="115865_4" theme="115865_2" theme_string="United Wire, Metal &amp; Machine Health and Welfare Fund et al. v. Morristown Memorial Hospital et al" party2_string="Morristown Memorial Hospital et al" gram_type="infix" relation_type="asymmetric" id="115865_8" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1031" X_vs_Y_string="United Wire, Metal &amp; Machine Health and Welfare Fund et al. v. Morristown Memorial Hospital et al" standard_case="115865_1" X_vs_Y="115865_2" gram_type="multi_line" relation_type="equivalence" id="115865_12" ></RELATION>
+
+<RELATION at_date_string="December 13, 1993" theme="115865_2" at_date="115865_11" theme_string="United Wire, Metal &amp; Machine Health and Welfare Fund et al. v. Morristown Memorial Hospital et al" gram_type="multi_line" relation_type="asymmetric" id="115865_14" ></RELATION>
+
+<RELATION theme="115865_2" includes_docket_string="93-194" includes_docket="115865_9" theme_string="United Wire, Metal &amp; Machine Health and Welfare Fund et al. v. Morristown Memorial Hospital et al" gram_type="multi_line" relation_type="asymmetric" id="115865_13" ></RELATION>
+

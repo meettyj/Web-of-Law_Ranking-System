@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['bonnerjones#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_870" id1="123130" volume="537" start="0" page_number="870" standard_reporter="U.S." citation_global_level_id="1206.002" line="1" id="123142_1" citation_local_level_id="0" >537 U.S. 870</CITATION>
+
+<CITATION party2="JONES, WARDEN, ET AL" party1="BONNER" citation_global_level_id="1206.005" party2_short="JONES" line="1" id="123142_3" alternative_keys="['u.s._537_870']" end="47" entry_type="party_key" lookup_key="bonnerjones#1" id1="123130" start="17" party1_short="BONNER" citation_local_level_id="1" >BONNER v. JONES, WARDEN, ET AL</CITATION>
+
+<NAME end="23" start="17" party1_of="123142_3" all_names="BONNER" local_name_id="1" id="123142_4" >BONNER</NAME>
+
+<NAME end="47" start="27" all_names="JONES WARDEN" party2_of="123142_3" local_name_id="2" id="123142_5" >JONES, WARDEN, ET AL</NAME>
+
+<DOCKET end="65" entry_type="docket" lookup_key="u.s._537_870" id1="123130" start="57" citation_global_level_id="1206.002" line="1" id="123142_2" citation_local_level_id="0" >01-10905</DOCKET>
+
+<DATE start="107" end="122" id="123142_6" >October 7, 2002</DATE>
+
+<NAME start="255" local_name_id="3" end="258" id="123142_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="123142_1" includes_docket_string="01-10905" includes_docket="123142_2" theme_string="537 U.S. 870" gram_type="apposition" relation_type="asymmetric" id="123142_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 870" X_vs_Y_string="BONNER v. JONES, WARDEN, ET AL" standard_case="123142_1" X_vs_Y="123142_3" gram_type="pre_nom" relation_type="equivalence" id="123142_7" ></RELATION>
+
+<RELATION theme="123142_3" includes_docket_string="01-10905" includes_docket="123142_2" theme_string="BONNER v. JONES, WARDEN, ET AL" gram_type="apposition" relation_type="asymmetric" id="123142_10" ></RELATION>
+
+<RELATION theme="123142_3" party1="123142_4" party1_string="BONNER" theme_string="BONNER v. JONES, WARDEN, ET AL" gram_type="infix" relation_type="asymmetric" id="123142_8" ></RELATION>
+
+<RELATION party2="123142_5" theme="123142_3" theme_string="BONNER v. JONES, WARDEN, ET AL" party2_string="JONES, WARDEN, ET AL" gram_type="infix" relation_type="asymmetric" id="123142_9" ></RELATION>
+

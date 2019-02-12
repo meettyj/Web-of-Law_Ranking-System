@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['crispstates#3']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_888" id1="132295" volume="540" start="0" page_number="888" standard_reporter="U.S." citation_global_level_id="4889.002" line="1" id="132297_1" citation_local_level_id="0" >540 U.S. 888</CITATION>
+
+<CITATION party2="UNITED STATES" party1="CRISP" citation_global_level_id="36099.001" party2_short="STATES" line="1" id="132297_3" alternative_keys="['u.s._540_888']" end="39" entry_type="party_key" lookup_key="crispstates#3" id1="132297" start="17" party1_short="CRISP" citation_local_level_id="1" >CRISP v. UNITED STATES</CITATION>
+
+<NAME end="22" start="17" party1_of="132297_3" all_names="CRISP" local_name_id="1" id="132297_4" >CRISP</NAME>
+
+<NAME end="39" start="26" all_names="UNITED STATES" party2_of="132297_3" local_name_id="2" id="132297_5" >UNITED STATES</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._540_888" id1="132295" start="49" citation_global_level_id="4889.002" line="1" id="132297_2" citation_local_level_id="0" >03-5097</DOCKET>
+
+<DATE start="98" end="113" id="132297_6" >October 6, 2003</DATE>
+
+<NAME start="191" local_name_id="3" end="201" id="132297_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="239" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_324_261" id1="Dummy_File_193004" volume="324" start="226" page_number="261" standard_reporter="F.3D" citation_global_level_id="256854.001" line="3" id="132297_12" citation_local_level_id="2" >324 F. 3d 261</CITATION>
+
+<RELATION theme="132297_1" includes_docket_string="03-5097" includes_docket="132297_2" theme_string="540 U.S. 888" gram_type="apposition" relation_type="asymmetric" id="132297_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 888" X_vs_Y_string="CRISP v. UNITED STATES" standard_case="132297_1" X_vs_Y="132297_3" gram_type="pre_nom" relation_type="equivalence" id="132297_7" ></RELATION>
+
+<RELATION theme="132297_3" includes_docket_string="03-5097" includes_docket="132297_2" theme_string="CRISP v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="132297_10" ></RELATION>
+
+<RELATION theme="132297_3" party1="132297_4" party1_string="CRISP" theme_string="CRISP v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="132297_8" ></RELATION>
+
+<RELATION party2="132297_5" theme="132297_3" theme_string="CRISP v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="132297_9" ></RELATION>
+

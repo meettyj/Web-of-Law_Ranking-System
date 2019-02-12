@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['locascioassociates#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_932" id1="118742" volume="535" start="0" page_number="932" standard_reporter="U.S." citation_global_level_id="4125.002" line="1" id="118752_1" citation_local_level_id="0" >535 U.S. 932</CITATION>
+
+<CITATION party2="HUNTINGTON EYE ASSOCIATES, INC" party1="LOCASCIO" citation_global_level_id="40976.001" party2_short="ASSOCIATES" line="2" id="118752_2" alternative_keys="['u.s._535_932']" end="59" entry_type="party_key" lookup_key="locascioassociates#1" id1="118752" start="17" party1_short="LOCASCIO" citation_local_level_id="1" >LOCASCIO v. HUNTINGTON EYE ASSOCIATES, INC</CITATION>
+
+<NAME end="25" start="17" party1_of="118752_2" all_names="LOCASCIO" local_name_id="1" id="118752_3" >LOCASCIO</NAME>
+
+<NAME end="59" start="29" all_names="HUNTINGTON EYE ASSOCIATES INC" party2_of="118752_2" local_name_id="2" id="118752_4" >HUNTINGTON EYE ASSOCIATES, INC</NAME>
+
+<DOCKET end="76" entry_type="docket" lookup_key="locascioassociates#1" id1="118752" start="69" citation_global_level_id="40976.001" line="3" id="118752_7" citation_local_level_id="1" >01-1105</DOCKET>
+
+<DATE start="122" citation_global_level_id="40976.001" end="136" id="118752_8" citation_local_level_id="1" >March 18, 2002</DATE>
+
+<NAME start="158" local_name_id="3" end="161" id="118752_14" all_names="SUP" >Sup</NAME>
+
+<CITATION end="227" reporter="W. Va." entry_type="standard_key" no_current_file="True" lookup_key="w.va._210_76" id1="Dummy_File_130780" volume="210" start="214" page_number="76" standard_reporter="W.VA." citation_global_level_id="194630.001" line="8" id="118752_12" citation_local_level_id="2" >210 W. Va. 76</CITATION>
+
+<CITATION end="245" reporter="S. E. 2d" entry_type="standard_key" no_current_file="True" lookup_key="s.e.2d_553_773" id1="Dummy_File_130781" volume="553" start="229" page_number="773" standard_reporter="S.E.2D" citation_global_level_id="194631.001" line="8" id="118752_13" citation_local_level_id="3" >553 S. E. 2d 773</CITATION>
+
+<RELATION theme="118752_2" party1="118752_3" party1_string="LOCASCIO" theme_string="LOCASCIO v. HUNTINGTON EYE ASSOCIATES, INC" gram_type="infix" relation_type="asymmetric" id="118752_5" ></RELATION>
+
+<RELATION party2="118752_4" theme="118752_2" theme_string="LOCASCIO v. HUNTINGTON EYE ASSOCIATES, INC" party2_string="HUNTINGTON EYE ASSOCIATES, INC" gram_type="infix" relation_type="asymmetric" id="118752_6" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 932" X_vs_Y_string="LOCASCIO v. HUNTINGTON EYE ASSOCIATES, INC" standard_case="118752_1" X_vs_Y="118752_2" gram_type="multi_line" relation_type="equivalence" id="118752_9" ></RELATION>
+
+<RELATION at_date_string="March 18, 2002" theme="118752_2" at_date="118752_8" theme_string="LOCASCIO v. HUNTINGTON EYE ASSOCIATES, INC" gram_type="multi_line" relation_type="asymmetric" id="118752_11" ></RELATION>
+
+<RELATION theme="118752_2" includes_docket_string="01-1105" includes_docket="118752_7" theme_string="LOCASCIO v. HUNTINGTON EYE ASSOCIATES, INC" gram_type="multi_line" relation_type="asymmetric" id="118752_10" ></RELATION>
+

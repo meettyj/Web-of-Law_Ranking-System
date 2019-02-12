@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['sirleafmoving#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_958" id1="139785" volume="543" start="0" page_number="958" standard_reporter="U.S." citation_global_level_id="2074.002" line="1" id="139789_1" citation_local_level_id="0" >543 U.S. 958</CITATION>
+
+<CITATION party2="ALLSTATE MOVING AND STORAGE" party1="SIRLEAF" citation_global_level_id="49714.001" party2_short="MOVING" line="2" id="139789_2" alternative_keys="['u.s._543_958']" end="55" entry_type="party_key" lookup_key="sirleafmoving#1" id1="139789" start="17" party1_short="SIRLEAF" citation_local_level_id="1" >SIRLEAF v. ALLSTATE MOVING AND STORAGE</CITATION>
+
+<NAME end="24" start="17" party1_of="139789_2" all_names="SIRLEAF" local_name_id="1" id="139789_3" >SIRLEAF</NAME>
+
+<NAME end="55" start="28" all_names="ALLSTATE MOVING AND STORAGE" party2_of="139789_2" local_name_id="2" id="139789_4" >ALLSTATE MOVING AND STORAGE</NAME>
+
+<DOCKET end="71" entry_type="docket" lookup_key="sirleafmoving#1" id1="139789" start="65" citation_global_level_id="49714.001" line="3" id="139789_7" citation_local_level_id="1" >04-310</DOCKET>
+
+<ORGANIZATION start="77" end="107" id="139789_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="113" citation_global_level_id="49714.001" end="129" id="139789_9" citation_local_level_id="1" >November 1, 2004</DATE>
+
+<NAME start="151" local_name_id="3" end="153" id="139789_13" all_names="CT" >Ct</NAME>
+
+<RELATION theme="139789_2" party1="139789_3" party1_string="SIRLEAF" theme_string="SIRLEAF v. ALLSTATE MOVING AND STORAGE" gram_type="infix" relation_type="asymmetric" id="139789_5" ></RELATION>
+
+<RELATION party2="139789_4" theme="139789_2" theme_string="SIRLEAF v. ALLSTATE MOVING AND STORAGE" party2_string="ALLSTATE MOVING AND STORAGE" gram_type="infix" relation_type="asymmetric" id="139789_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 958" X_vs_Y_string="SIRLEAF v. ALLSTATE MOVING AND STORAGE" standard_case="139789_1" X_vs_Y="139789_2" gram_type="multi_line" relation_type="equivalence" id="139789_10" ></RELATION>
+
+<RELATION at_date_string="November 1, 2004" theme="139789_2" at_date="139789_9" theme_string="SIRLEAF v. ALLSTATE MOVING AND STORAGE" gram_type="multi_line" relation_type="asymmetric" id="139789_12" ></RELATION>
+
+<RELATION theme="139789_2" includes_docket_string="04-310" includes_docket="139789_7" theme_string="SIRLEAF v. ALLSTATE MOVING AND STORAGE" gram_type="multi_line" relation_type="asymmetric" id="139789_11" ></RELATION>
+

@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['sloanvirginia#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_852" id1="113557" volume="510" start="0" page_number="852" standard_reporter="U.S." citation_global_level_id="78.002" line="1" id="113556_1" citation_local_level_id="0" >510 U.S. 852</CITATION>
+
+<CITATION party2="Virginia" party1="Sloan" citation_global_level_id="54163.001" party2_short="Virginia" line="1" id="113556_3" alternative_keys="['u.s._510_852']" end="34" entry_type="party_key" lookup_key="sloanvirginia#1" id1="113556" start="17" party1_short="Sloan" citation_local_level_id="1" >Sloan v. Virginia</CITATION>
+
+<NAME end="22" start="17" party1_of="113556_3" all_names="SLOAN" local_name_id="1" id="113556_4" >Sloan</NAME>
+
+<NAME end="34" start="26" all_names="VIRGINIA" party2_of="113556_3" local_name_id="2" id="113556_5" >Virginia</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="u.s._510_852" id1="113557" start="44" citation_global_level_id="78.002" line="1" id="113556_2" citation_local_level_id="0" >92-9132</DOCKET>
+
+<DATE start="93" end="108" id="113556_6" >October 4, 1993</DATE>
+
+<NAME start="184" local_name_id="3" end="194" id="113556_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="113556_1" includes_docket_string="92-9132" includes_docket="113556_2" theme_string="510 U.S. 852" gram_type="apposition" relation_type="asymmetric" id="113556_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 852" X_vs_Y_string="Sloan v. Virginia" standard_case="113556_1" X_vs_Y="113556_3" gram_type="pre_nom" relation_type="equivalence" id="113556_7" ></RELATION>
+
+<RELATION theme="113556_3" includes_docket_string="92-9132" includes_docket="113556_2" theme_string="Sloan v. Virginia" gram_type="apposition" relation_type="asymmetric" id="113556_10" ></RELATION>
+
+<RELATION theme="113556_3" party1="113556_4" party1_string="Sloan" theme_string="Sloan v. Virginia" gram_type="infix" relation_type="asymmetric" id="113556_8" ></RELATION>
+
+<RELATION party2="113556_5" theme="113556_3" theme_string="Sloan v. Virginia" party2_string="Virginia" gram_type="infix" relation_type="asymmetric" id="113556_9" ></RELATION>
+

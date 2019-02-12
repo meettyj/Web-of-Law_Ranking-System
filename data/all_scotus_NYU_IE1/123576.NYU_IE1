@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['mcdonaldillinois#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_903" id1="123575" volume="537" start="0" page_number="903" standard_reporter="U.S." citation_global_level_id="119.002" line="1" id="123576_1" citation_local_level_id="0" >537 U.S. 903</CITATION>
+
+<CITATION party2="ILLINOIS" party1="McDONALD" citation_global_level_id="48744.001" party2_short="ILLINOIS" line="1" id="123576_3" alternative_keys="['u.s._537_903']" end="37" entry_type="party_key" lookup_key="mcdonaldillinois#1" id1="123576" start="17" party1_short="McDONALD" citation_local_level_id="1" >McDONALD v. ILLINOIS</CITATION>
+
+<NAME end="25" start="17" party1_of="123576_3" all_names="MCDONALD" local_name_id="1" id="123576_4" >McDONALD</NAME>
+
+<NAME end="37" start="29" all_names="ILLINOIS" party2_of="123576_3" local_name_id="2" id="123576_5" >ILLINOIS</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="u.s._537_903" id1="123575" start="47" citation_global_level_id="119.002" line="1" id="123576_2" citation_local_level_id="0" >02-5235</DOCKET>
+
+<DATE start="96" end="111" id="123576_6" >October 7, 2002</DATE>
+
+<NAME start="203" local_name_id="3" end="206" id="123576_12" all_names="SUP" >Sup</NAME>
+
+<RELATION theme="123576_1" includes_docket_string="02-5235" includes_docket="123576_2" theme_string="537 U.S. 903" gram_type="apposition" relation_type="asymmetric" id="123576_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 903" X_vs_Y_string="McDONALD v. ILLINOIS" standard_case="123576_1" X_vs_Y="123576_3" gram_type="pre_nom" relation_type="equivalence" id="123576_7" ></RELATION>
+
+<RELATION theme="123576_3" includes_docket_string="02-5235" includes_docket="123576_2" theme_string="McDONALD v. ILLINOIS" gram_type="apposition" relation_type="asymmetric" id="123576_10" ></RELATION>
+
+<RELATION theme="123576_3" party1="123576_4" party1_string="McDONALD" theme_string="McDONALD v. ILLINOIS" gram_type="infix" relation_type="asymmetric" id="123576_8" ></RELATION>
+
+<RELATION party2="123576_5" theme="123576_3" theme_string="McDONALD v. ILLINOIS" party2_string="ILLINOIS" gram_type="infix" relation_type="asymmetric" id="123576_9" ></RELATION>
+

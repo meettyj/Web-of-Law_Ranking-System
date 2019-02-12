@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['chanelstates#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1133" id1="117080" volume="510" start="0" page_number="1133" standard_reporter="U.S." citation_global_level_id="513.002" line="1" id="117081_1" citation_local_level_id="0" >510 U.S. 1133</CITATION>
+
+<CITATION party2="United States" party1="Chanel" citation_global_level_id="20161.001" party2_short="States" line="1" id="117081_3" alternative_keys="['u.s._510_1133']" end="41" entry_type="party_key" lookup_key="chanelstates#1" id1="117081" start="18" party1_short="Chanel" citation_local_level_id="1" >Chanel v. United States</CITATION>
+
+<NAME end="24" start="18" party1_of="117081_3" all_names="CHANEL" local_name_id="1" id="117081_4" >Chanel</NAME>
+
+<NAME end="41" start="28" all_names="UNITED STATES" party2_of="117081_3" local_name_id="2" id="117081_5" >United States</NAME>
+
+<DOCKET end="58" entry_type="docket" lookup_key="u.s._510_1133" id1="117080" start="51" citation_global_level_id="513.002" line="1" id="117081_2" citation_local_level_id="0" >93-7312</DOCKET>
+
+<DATE start="100" end="117" id="117081_6" >February 22, 1994</DATE>
+
+<NAME start="196" local_name_id="3" end="206" id="117081_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="242" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_3_372" id1="Dummy_File_167706" volume="3" start="231" page_number="372" standard_reporter="F.3D" citation_global_level_id="231556.001" line="3" id="117081_12" citation_local_level_id="2" >3 F. 3d 372</CITATION>
+
+<RELATION theme="117081_1" includes_docket_string="93-7312" includes_docket="117081_2" theme_string="510 U.S. 1133" gram_type="apposition" relation_type="asymmetric" id="117081_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1133" X_vs_Y_string="Chanel v. United States" standard_case="117081_1" X_vs_Y="117081_3" gram_type="pre_nom" relation_type="equivalence" id="117081_7" ></RELATION>
+
+<RELATION theme="117081_3" includes_docket_string="93-7312" includes_docket="117081_2" theme_string="Chanel v. United States" gram_type="apposition" relation_type="asymmetric" id="117081_10" ></RELATION>
+
+<RELATION theme="117081_3" party1="117081_4" party1_string="Chanel" theme_string="Chanel v. United States" gram_type="infix" relation_type="asymmetric" id="117081_8" ></RELATION>
+
+<RELATION party2="117081_5" theme="117081_3" theme_string="Chanel v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="117081_9" ></RELATION>
+

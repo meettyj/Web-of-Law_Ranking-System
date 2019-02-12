@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['davishospital#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1043" id1="120222" volume="535" start="0" page_number="1043" standard_reporter="U.S." citation_global_level_id="2324.002" line="1" id="120233_1" citation_local_level_id="0" >535 U.S. 1043</CITATION>
+
+<CITATION party2="VALLEY CARE MEMORIAL HOSPITAL ET AL" party1="DAVIS" citation_global_level_id="19334.001" party2_short="HOSPITAL" line="2" id="120233_3" alternative_keys="['u.s._535_1043']" end="62" entry_type="party_key" lookup_key="davishospital#1" id1="120233" start="18" party1_short="DAVIS" citation_local_level_id="1" >DAVIS v. VALLEY CARE MEMORIAL HOSPITAL ET AL</CITATION>
+
+<NAME end="23" start="18" party1_of="120233_3" all_names="DAVIS" local_name_id="1" id="120233_4" >DAVIS</NAME>
+
+<NAME end="62" start="27" all_names="VALLEY CARE MEMORIAL HOSPITAL" party2_of="120233_3" local_name_id="2" id="120233_5" >VALLEY CARE MEMORIAL HOSPITAL ET AL</NAME>
+
+<DOCKET end="79" entry_type="docket" lookup_key="davishospital#1" id1="120233" start="72" citation_global_level_id="19334.001" line="2" id="120233_2" citation_local_level_id="1" >01-6552</DOCKET>
+
+<DATE start="125" citation_global_level_id="19334.001" end="139" id="120233_9" citation_local_level_id="1" >April 29, 2002</DATE>
+
+<CITATION end="175" reporter="U. S." entry_type="standard_key" no_current_file="True" lookup_key="u.s._534_1048" id1="Dummy_File_88095" volume="534" start="161" page_number="1048" standard_reporter="U.S." citation_global_level_id="151945.001" line="7" id="120233_12" citation_local_level_id="2" >534 U. S. 1048</CITATION>
+
+<NAME start="177" local_name_id="3" end="184" id="120233_13" all_names="MOTIONS" >Motions</NAME>
+
+<RELATION theme="120233_3" includes_docket_string="01-6552" includes_docket="120233_2" theme_string="DAVIS v. VALLEY CARE MEMORIAL HOSPITAL ET AL" gram_type="apposition" relation_type="asymmetric" id="120233_8" ></RELATION>
+
+<RELATION theme="120233_3" party1="120233_4" party1_string="DAVIS" theme_string="DAVIS v. VALLEY CARE MEMORIAL HOSPITAL ET AL" gram_type="infix" relation_type="asymmetric" id="120233_6" ></RELATION>
+
+<RELATION party2="120233_5" theme="120233_3" theme_string="DAVIS v. VALLEY CARE MEMORIAL HOSPITAL ET AL" party2_string="VALLEY CARE MEMORIAL HOSPITAL ET AL" gram_type="infix" relation_type="asymmetric" id="120233_7" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1043" X_vs_Y_string="DAVIS v. VALLEY CARE MEMORIAL HOSPITAL ET AL" standard_case="120233_1" X_vs_Y="120233_3" gram_type="multi_line" relation_type="equivalence" id="120233_10" ></RELATION>
+
+<RELATION at_date_string="April 29, 2002" theme="120233_3" at_date="120233_9" theme_string="DAVIS v. VALLEY CARE MEMORIAL HOSPITAL ET AL" gram_type="multi_line" relation_type="asymmetric" id="120233_11" ></RELATION>
+

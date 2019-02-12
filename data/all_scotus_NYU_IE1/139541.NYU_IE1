@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['crosskansas#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_937" id1="139531" volume="543" start="0" page_number="937" standard_reporter="U.S." citation_global_level_id="14203.002" line="3" id="139541_2" citation_local_level_id="0" >543 U.S. 937</CITATION>
+
+<CITATION party2="KANSAS" party1="CROSS" citation_global_level_id="20756.001" party2_short="KANSAS" line="3" id="139541_4" alternative_keys="['u.s._543_937']" end="32" entry_type="party_key" lookup_key="crosskansas#1" id1="139541" start="17" party1_short="CROSS" citation_local_level_id="1" >CROSS v. KANSAS</CITATION>
+
+<NAME end="22" start="17" party1_of="139541_4" all_names="CROSS" local_name_id="1" id="139541_5" >CROSS</NAME>
+
+<NAME end="32" start="26" all_names="KANSAS" party2_of="139541_4" local_name_id="2" id="139541_6" >KANSAS</NAME>
+
+<DOCKET end="49" entry_type="docket" lookup_key="u.s._543_937" id1="139531" start="42" citation_global_level_id="14203.002" line="3" id="139541_3" citation_local_level_id="0" >04-6105</DOCKET>
+
+<ORGANIZATION start="55" end="85" id="139541_12" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="91" citation_global_level_id="20756.001" end="107" id="139541_13" citation_local_level_id="1" >October 12, 2004</DATE>
+
+<NAME start="129" local_name_id="3" end="132" id="139541_16" all_names="SUP" >Sup</NAME>
+
+<CITATION end="205" reporter="P. 3d" entry_type="standard_key" no_current_file="True" lookup_key="p.3d_91_1238" id1="Dummy_File_131644" volume="91" start="192" page_number="1238" standard_reporter="P.3D" citation_global_level_id="195494.001" line="8" id="139541_15" citation_local_level_id="2" >91 P. 3d 1238</CITATION>
+
+<RELATION theme="139541_2" includes_docket_string="04-6105" includes_docket="139541_3" theme_string="543 U.S. 937" gram_type="apposition" relation_type="asymmetric" id="139541_11" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 937" X_vs_Y_string="CROSS v. KANSAS" standard_case="139541_2" X_vs_Y="139541_4" gram_type="pre_nom" relation_type="equivalence" id="139541_7" ></RELATION>
+
+<RELATION theme="139541_4" includes_docket_string="04-6105" includes_docket="139541_3" theme_string="CROSS v. KANSAS" gram_type="apposition" relation_type="asymmetric" id="139541_10" ></RELATION>
+
+<RELATION theme="139541_4" party1="139541_5" party1_string="CROSS" theme_string="CROSS v. KANSAS" gram_type="infix" relation_type="asymmetric" id="139541_8" ></RELATION>
+
+<RELATION party2="139541_6" theme="139541_4" theme_string="CROSS v. KANSAS" party2_string="KANSAS" gram_type="infix" relation_type="asymmetric" id="139541_9" ></RELATION>
+
+<RELATION at_date_string="October 12, 2004" theme="139541_4" at_date="139541_13" theme_string="CROSS v. KANSAS" gram_type="multi_line" relation_type="asymmetric" id="139541_14" ></RELATION>
+

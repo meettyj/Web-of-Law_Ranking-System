@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['lewielillinois#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_833" id1="122659" volume="537" start="0" page_number="833" standard_reporter="U.S." citation_global_level_id="2733.002" line="1" id="122648_1" citation_local_level_id="0" >537 U.S. 833</CITATION>
+
+<CITATION party2="ILLINOIS" party1="LEWIEL" citation_global_level_id="29498.001" party2_short="ILLINOIS" line="1" id="122648_3" alternative_keys="['u.s._537_833']" end="35" entry_type="party_key" lookup_key="lewielillinois#1" id1="122648" start="17" party1_short="LEWIEL" citation_local_level_id="1" >LEWIEL v. ILLINOIS</CITATION>
+
+<NAME end="23" start="17" party1_of="122648_3" all_names="LEWIEL" local_name_id="1" id="122648_4" >LEWIEL</NAME>
+
+<NAME end="35" start="27" all_names="ILLINOIS" party2_of="122648_3" local_name_id="2" id="122648_5" >ILLINOIS</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="u.s._537_833" id1="122659" start="45" citation_global_level_id="2733.002" line="1" id="122648_2" citation_local_level_id="0" >01-10064</DOCKET>
+
+<DATE start="95" end="110" id="122648_6" >October 7, 2002</DATE>
+
+<NAME start="227" local_name_id="3" end="230" id="122648_12" all_names="APP" >App</NAME>
+
+<RELATION theme="122648_1" includes_docket_string="01-10064" includes_docket="122648_2" theme_string="537 U.S. 833" gram_type="apposition" relation_type="asymmetric" id="122648_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 833" X_vs_Y_string="LEWIEL v. ILLINOIS" standard_case="122648_1" X_vs_Y="122648_3" gram_type="pre_nom" relation_type="equivalence" id="122648_7" ></RELATION>
+
+<RELATION theme="122648_3" includes_docket_string="01-10064" includes_docket="122648_2" theme_string="LEWIEL v. ILLINOIS" gram_type="apposition" relation_type="asymmetric" id="122648_10" ></RELATION>
+
+<RELATION theme="122648_3" party1="122648_4" party1_string="LEWIEL" theme_string="LEWIEL v. ILLINOIS" gram_type="infix" relation_type="asymmetric" id="122648_8" ></RELATION>
+
+<RELATION party2="122648_5" theme="122648_3" theme_string="LEWIEL v. ILLINOIS" party2_string="ILLINOIS" gram_type="infix" relation_type="asymmetric" id="122648_9" ></RELATION>
+

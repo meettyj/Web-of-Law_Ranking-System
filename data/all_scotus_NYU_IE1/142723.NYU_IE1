@@ -1,0 +1,38 @@
+<CITATION alternative_keys="['rossstates#8']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1182" id1="142714" volume="543" start="0" page_number="1182" standard_reporter="U.S." citation_global_level_id="7455.002" line="1" id="142723_1" citation_local_level_id="0" >543 U.S. 1182</CITATION>
+
+<CITATION party2="UNITED STATES" party1="ROSS" citation_global_level_id="63482.001" party2_short="STATES" line="1" id="142723_3" alternative_keys="['u.s._543_1182']" end="39" entry_type="party_key" lookup_key="rossstates#8" id1="133647" start="18" party1_short="ROSS" citation_local_level_id="1" >ROSS v. UNITED STATES</CITATION>
+
+<NAME end="22" start="18" party1_of="142723_3" all_names="ROSS" local_name_id="1" id="142723_4" >ROSS</NAME>
+
+<NAME end="39" start="26" all_names="UNITED STATES" party2_of="142723_3" local_name_id="2" id="142723_5" >UNITED STATES</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._543_1182" id1="142714" start="49" citation_global_level_id="7455.002" line="1" id="142723_2" citation_local_level_id="0" >04-8162</DOCKET>
+
+<DATE start="98" end="115" id="142723_6" >February 28, 2005</DATE>
+
+<LEGAL_ROLE start="214" end="236" plural="True" id="142723_15" >Motions of petitioners</LEGAL_ROLE>
+
+<NAME start="285" local_name_id="3" end="295" id="142723_16" all_names="CERTIORARI" >Certiorari</NAME>
+
+<NAME start="305" local_name_id="4" end="314" id="142723_17" all_names="JUDGMENTS" >Judgments</NAME>
+
+<CITATION party2="Booker" party1="United States" citation_global_level_id="57130.001" party2_short="Booker" line="3" id="142723_12" end="404" entry_type="party_key" lookup_key="statesbooker#4" id1="137703" start="381" party1_short="States" citation_local_level_id="2" >United States v. Booker</CITATION>
+
+<NAME end="394" start="381" party1_of="142723_12" all_names="UNITED STATES" local_name_id="2" id="142723_13" >United States</NAME>
+
+<NAME end="404" start="398" all_names="BOOKER" party2_of="142723_12" local_name_id="5" id="142723_14" >Booker</NAME>
+
+<RELATION theme="142723_1" includes_docket_string="04-8162" includes_docket="142723_2" theme_string="543 U.S. 1182" gram_type="apposition" relation_type="asymmetric" id="142723_11" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1182" X_vs_Y_string="ROSS v. UNITED STATES" standard_case="142723_1" X_vs_Y="142723_3" gram_type="pre_nom" relation_type="equivalence" id="142723_7" ></RELATION>
+
+<RELATION theme="142723_3" includes_docket_string="04-8162" includes_docket="142723_2" theme_string="ROSS v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="142723_10" ></RELATION>
+
+<RELATION theme="142723_3" party1="142723_4" party1_string="ROSS" theme_string="ROSS v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="142723_8" ></RELATION>
+
+<RELATION party2="142723_5" theme="142723_3" theme_string="ROSS v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="142723_9" ></RELATION>
+
+<RELATION theme="142723_12" party1="142723_13" party1_string="United States" theme_string="United States v. Booker" gram_type="infix" relation_type="asymmetric" id="142723_18" ></RELATION>
+
+<RELATION party2="142723_14" theme="142723_12" theme_string="United States v. Booker" party2_string="Booker" gram_type="infix" relation_type="asymmetric" id="142723_19" ></RELATION>
+

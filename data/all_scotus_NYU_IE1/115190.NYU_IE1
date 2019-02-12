@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['williamswarden#48']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_980" id1="115193" volume="510" start="0" page_number="980" standard_reporter="U.S." citation_global_level_id="115.002" line="1" id="115190_1" citation_local_level_id="0" >510 U.S. 980</CITATION>
+
+<CITATION party2="Price, Warden, et al" party1="Williams" citation_global_level_id="115.006" party2_short="Warden" line="1" id="115190_3" alternative_keys="['u.s._510_980']" end="49" entry_type="party_key" lookup_key="williamswarden#48" id1="115193" start="17" party1_short="Williams" citation_local_level_id="1" >Williams v. Price, Warden, et al</CITATION>
+
+<NAME end="25" start="17" party1_of="115190_3" all_names="WILLIAMS" local_name_id="1" id="115190_4" >Williams</NAME>
+
+<NAME end="49" start="29" all_names="PRICE WARDEN" party2_of="115190_3" local_name_id="2" id="115190_5" >Price, Warden, et al</NAME>
+
+<DOCKET end="66" entry_type="docket" lookup_key="u.s._510_980" id1="115193" start="59" citation_global_level_id="115.002" line="1" id="115190_2" citation_local_level_id="0" >93-6112</DOCKET>
+
+<DATE start="108" end="125" id="115190_6" >November 15, 1993</DATE>
+
+<NAME start="204" local_name_id="3" end="214" id="115190_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="252" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_999_548" id1="Dummy_File_124078" volume="999" start="239" page_number="548" standard_reporter="F.2D" citation_global_level_id="187928.001" line="3" id="115190_12" citation_local_level_id="2" >999 F. 2d 548</CITATION>
+
+<RELATION theme="115190_1" includes_docket_string="93-6112" includes_docket="115190_2" theme_string="510 U.S. 980" gram_type="apposition" relation_type="asymmetric" id="115190_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 980" X_vs_Y_string="Williams v. Price, Warden, et al" standard_case="115190_1" X_vs_Y="115190_3" gram_type="pre_nom" relation_type="equivalence" id="115190_7" ></RELATION>
+
+<RELATION theme="115190_3" includes_docket_string="93-6112" includes_docket="115190_2" theme_string="Williams v. Price, Warden, et al" gram_type="apposition" relation_type="asymmetric" id="115190_10" ></RELATION>
+
+<RELATION theme="115190_3" party1="115190_4" party1_string="Williams" theme_string="Williams v. Price, Warden, et al" gram_type="infix" relation_type="asymmetric" id="115190_8" ></RELATION>
+
+<RELATION party2="115190_5" theme="115190_3" theme_string="Williams v. Price, Warden, et al" party2_string="Price, Warden, et al" gram_type="infix" relation_type="asymmetric" id="115190_9" ></RELATION>
+

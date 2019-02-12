@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['marcumlazaroff#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1136" id1="126524" volume="537" start="0" page_number="1136" standard_reporter="U.S." citation_global_level_id="6063.002" line="1" id="126536_1" citation_local_level_id="0" >537 U.S. 1136</CITATION>
+
+<CITATION party2="LAZAROFF, WARDEN" party1="MARCUM" citation_global_level_id="6063.005" party2_short="LAZAROFF" line="1" id="126536_3" alternative_keys="['u.s._537_1136']" end="44" entry_type="party_key" lookup_key="marcumlazaroff#1" id1="126524" start="18" party1_short="MARCUM" citation_local_level_id="1" >MARCUM v. LAZAROFF, WARDEN</CITATION>
+
+<NAME end="24" start="18" party1_of="126536_3" all_names="MARCUM" local_name_id="1" id="126536_4" >MARCUM</NAME>
+
+<NAME end="44" start="28" all_names="LAZAROFF WARDEN" party2_of="126536_3" local_name_id="2" id="126536_5" >LAZAROFF, WARDEN</NAME>
+
+<DOCKET end="61" entry_type="docket" lookup_key="u.s._537_1136" id1="126524" start="54" citation_global_level_id="6063.002" line="1" id="126536_2" citation_local_level_id="0" >02-7640</DOCKET>
+
+<DATE start="103" end="119" id="126536_6" >January 13, 2003</DATE>
+
+<NAME start="248" local_name_id="3" end="251" id="126536_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="301" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_301_480" id1="Dummy_File_220869" volume="301" start="288" page_number="480" standard_reporter="F.3D" citation_global_level_id="284719.001" line="3" id="126536_12" citation_local_level_id="2" >301 F. 3d 480</CITATION>
+
+<RELATION theme="126536_1" includes_docket_string="02-7640" includes_docket="126536_2" theme_string="537 U.S. 1136" gram_type="apposition" relation_type="asymmetric" id="126536_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1136" X_vs_Y_string="MARCUM v. LAZAROFF, WARDEN" standard_case="126536_1" X_vs_Y="126536_3" gram_type="pre_nom" relation_type="equivalence" id="126536_7" ></RELATION>
+
+<RELATION theme="126536_3" includes_docket_string="02-7640" includes_docket="126536_2" theme_string="MARCUM v. LAZAROFF, WARDEN" gram_type="apposition" relation_type="asymmetric" id="126536_10" ></RELATION>
+
+<RELATION theme="126536_3" party1="126536_4" party1_string="MARCUM" theme_string="MARCUM v. LAZAROFF, WARDEN" gram_type="infix" relation_type="asymmetric" id="126536_8" ></RELATION>
+
+<RELATION party2="126536_5" theme="126536_3" theme_string="MARCUM v. LAZAROFF, WARDEN" party2_string="LAZAROFF, WARDEN" gram_type="infix" relation_type="asymmetric" id="126536_9" ></RELATION>
+

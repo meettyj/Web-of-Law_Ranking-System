@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['sandersbunnell#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1057" id1="116150" volume="510" start="0" page_number="1057" standard_reporter="U.S." citation_global_level_id="3892.002" line="1" id="116154_1" citation_local_level_id="0" >510 U.S. 1057</CITATION>
+
+<CITATION party2="Bunnell, Warden" party1="Sanders" citation_global_level_id="3892.006" party2_short="Bunnell" line="1" id="116154_3" alternative_keys="['u.s._510_1057']" end="44" entry_type="party_key" lookup_key="sandersbunnell#1" id1="116150" start="18" party1_short="Sanders" citation_local_level_id="1" >Sanders v. Bunnell, Warden</CITATION>
+
+<NAME end="25" start="18" party1_of="116154_3" all_names="SANDERS" local_name_id="1" id="116154_4" >Sanders</NAME>
+
+<NAME end="44" start="29" all_names="BUNNELL WARDEN" party2_of="116154_3" local_name_id="2" id="116154_5" >Bunnell, Warden</NAME>
+
+<DOCKET end="61" entry_type="docket" lookup_key="u.s._510_1057" id1="116150" start="54" citation_global_level_id="3892.002" line="1" id="116154_2" citation_local_level_id="0" >93-6730</DOCKET>
+
+<DATE start="103" end="119" id="116154_6" >January 10, 1994</DATE>
+
+<NAME start="197" local_name_id="3" end="207" id="116154_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="243" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_5_539" id1="Dummy_File_188646" volume="5" start="232" page_number="539" standard_reporter="F.3D" citation_global_level_id="252496.001" line="3" id="116154_12" citation_local_level_id="2" >5 F. 3d 539</CITATION>
+
+<RELATION theme="116154_1" includes_docket_string="93-6730" includes_docket="116154_2" theme_string="510 U.S. 1057" gram_type="apposition" relation_type="asymmetric" id="116154_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1057" X_vs_Y_string="Sanders v. Bunnell, Warden" standard_case="116154_1" X_vs_Y="116154_3" gram_type="pre_nom" relation_type="equivalence" id="116154_7" ></RELATION>
+
+<RELATION theme="116154_3" includes_docket_string="93-6730" includes_docket="116154_2" theme_string="Sanders v. Bunnell, Warden" gram_type="apposition" relation_type="asymmetric" id="116154_10" ></RELATION>
+
+<RELATION theme="116154_3" party1="116154_4" party1_string="Sanders" theme_string="Sanders v. Bunnell, Warden" gram_type="infix" relation_type="asymmetric" id="116154_8" ></RELATION>
+
+<RELATION party2="116154_5" theme="116154_3" theme_string="Sanders v. Bunnell, Warden" party2_string="Bunnell, Warden" gram_type="infix" relation_type="asymmetric" id="116154_9" ></RELATION>
+

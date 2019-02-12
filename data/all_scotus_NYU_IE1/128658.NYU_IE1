@@ -1,0 +1,46 @@
+<CITATION alternative_keys="['assngaramendi#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_959" id1="128656" volume="538" start="0" page_number="959" standard_reporter="U.S." citation_global_level_id="22964.002" line="1" id="128658_1" citation_local_level_id="0" >538 U.S. 959</CITATION>
+
+<CITATION party2="GARAMENDI, INSURANCE COMMISSIONER, STATE OF CALIFORNIA" party1="AMERICAN INSURANCE ASSN. ET AL." citation_global_level_id="6086.003" party2_short="GARAMENDI" line="1" id="128658_3" alternative_keys="['u.s._539_982']" end="106" entry_type="party_key" lookup_key="assngaramendi#2" id1="131073" start="17" party1_short="ASSN" citation_local_level_id="1" >AMERICAN INSURANCE ASSN. ET AL. v. GARAMENDI, INSURANCE COMMISSIONER, STATE OF CALIFORNIA</CITATION>
+
+<NAME end="48" start="17" party1_of="128658_3" all_names="AMERICAN INSURANCE ASSN" local_name_id="1" id="128658_4" >AMERICAN INSURANCE ASSN. ET AL.</NAME>
+
+<NAME start="17" local_name_id="1" end="40" id="128658_7" all_names="AMERICAN INSURANCE ASSN" >AMERICAN INSURANCE ASSN</NAME>
+
+<NAME end="106" start="52" all_names="GARAMENDI INSURANCE COMMISSIONER STATE OF CALIFORNIA" party2_of="128658_3" local_name_id="2" id="128658_5" >GARAMENDI, INSURANCE COMMISSIONER, STATE OF CALIFORNIA</NAME>
+
+<PROFESSION start="63" end="85" id="128658_8" >INSURANCE COMMISSIONER</PROFESSION>
+
+<DOCKET end="122" entry_type="docket" lookup_key="u.s._538_959" id1="128656" start="116" citation_global_level_id="22964.002" line="1" id="128658_2" citation_local_level_id="0" >02-722</DOCKET>
+
+<ORGANIZATION start="128" end="158" id="128658_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="164" end="177" id="128658_6" >April 7, 2003</DATE>
+
+<ORGANIZATION start="199" end="269" id="128658_10" >CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT</ORGANIZATION>
+
+<NAME start="306" local_name_id="3" end="309" id="128658_20" all_names="CIR" >Cir</NAME>
+
+<CITATION party2="Low" party1="American Ins. Assn." citation_global_level_id="11216.006" party2_short="Low" line="3" id="128658_17" alternative_keys="['u.s._537_1100']" end="366" entry_type="party_key" lookup_key="assnlow#2" id1="126057" start="340" party1_short="Assn" citation_local_level_id="2" >American Ins. Assn. v. Low</CITATION>
+
+<NAME end="359" start="340" party1_of="128658_17" all_names="AMERICAN INS ASSN" local_name_id="4" id="128658_18" >American Ins. Assn.</NAME>
+
+<NAME end="366" start="363" all_names="LOW" party2_of="128658_17" local_name_id="5" id="128658_19" >Low</NAME>
+
+<CITATION alternative_keys="['assnlow#2']" end="382" reporter="U. S." entry_type="standard_key" lookup_key="u.s._537_1100" id1="126057" volume="537" start="368" page_number="1100" standard_reporter="U.S." citation_global_level_id="11216.002" line="3" id="128658_16" citation_local_level_id="3" >537 U. S. 1100</CITATION>
+
+<RELATION theme="128658_1" includes_docket_string="02-722" includes_docket="128658_2" theme_string="538 U.S. 959" gram_type="apposition" relation_type="asymmetric" id="128658_15" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 959" X_vs_Y_string="AMERICAN INSURANCE ASSN. ET AL. v. GARAMENDI, INSURANCE COMMISSIONER, STATE OF CALIFORNIA" standard_case="128658_1" X_vs_Y="128658_3" gram_type="pre_nom" relation_type="equivalence" id="128658_11" ></RELATION>
+
+<RELATION theme="128658_3" includes_docket_string="02-722" includes_docket="128658_2" theme_string="AMERICAN INSURANCE ASSN. ET AL. v. GARAMENDI, INSURANCE COMMISSIONER, STATE OF CALIFORNIA" gram_type="apposition" relation_type="asymmetric" id="128658_14" ></RELATION>
+
+<RELATION theme="128658_3" party1="128658_4" party1_string="AMERICAN INSURANCE ASSN. ET AL." theme_string="AMERICAN INSURANCE ASSN. ET AL. v. GARAMENDI, INSURANCE COMMISSIONER, STATE OF CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="128658_12" ></RELATION>
+
+<RELATION party2="128658_5" theme="128658_3" theme_string="AMERICAN INSURANCE ASSN. ET AL. v. GARAMENDI, INSURANCE COMMISSIONER, STATE OF CALIFORNIA" party2_string="GARAMENDI, INSURANCE COMMISSIONER, STATE OF CALIFORNIA" gram_type="infix" relation_type="asymmetric" id="128658_13" ></RELATION>
+
+<RELATION standard_case_string="537 U. S. 1100" X_vs_Y_string="American Ins. Assn. v. Low" standard_case="128658_16" X_vs_Y="128658_17" gram_type="apposition" relation_type="equivalence" id="128658_23" ></RELATION>
+
+<RELATION theme="128658_17" party1="128658_18" party1_string="American Ins. Assn." theme_string="American Ins. Assn. v. Low" gram_type="infix" relation_type="asymmetric" id="128658_21" ></RELATION>
+
+<RELATION party2="128658_19" theme="128658_17" theme_string="American Ins. Assn. v. Low" party2_string="Low" gram_type="infix" relation_type="asymmetric" id="128658_22" ></RELATION>
+

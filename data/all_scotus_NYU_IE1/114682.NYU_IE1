@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['louisianamississippi#9']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_941" id1="114685" volume="510" start="0" page_number="941" standard_reporter="U.S." citation_global_level_id="32274.002" line="1" id="114682_1" citation_local_level_id="0" >510 U.S. 941</CITATION>
+
+<CITATION party2="Mississippi et al" party1="Louisiana" citation_global_level_id="60922.001" party2_short="Mississippi" line="2" id="114682_2" alternative_keys="['u.s._510_941']" end="47" entry_type="party_key" lookup_key="louisianamississippi#9" id1="101656" start="17" party1_short="Louisiana" citation_local_level_id="1" >Louisiana v. Mississippi et al</CITATION>
+
+<NAME end="26" start="17" party1_of="114682_2" all_names="LOUISIANA" local_name_id="1" id="114682_3" >Louisiana</NAME>
+
+<NAME end="47" start="30" all_names="MISSISSIPPI" party2_of="114682_2" local_name_id="2" id="114682_4" >Mississippi et al</NAME>
+
+<NAME start="62" local_name_id="3" end="66" id="114682_7" all_names="ORIG" >Orig</NAME>
+
+<ORGANIZATION start="72" end="102" id="114682_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="108" citation_global_level_id="60922.001" end="124" id="114682_9" citation_local_level_id="1" >November 1, 1993</DATE>
+
+<NAME start="146" local_name_id="4" end="152" id="114682_12" all_names="MOTION" >Motion</NAME>
+
+<LEGAL_ROLE start="202" end="212" plural="True" id="114682_13" >defendants</LEGAL_ROLE>
+
+<RELATION theme="114682_2" party1="114682_3" party1_string="Louisiana" theme_string="Louisiana v. Mississippi et al" gram_type="infix" relation_type="asymmetric" id="114682_5" ></RELATION>
+
+<RELATION party2="114682_4" theme="114682_2" theme_string="Louisiana v. Mississippi et al" party2_string="Mississippi et al" gram_type="infix" relation_type="asymmetric" id="114682_6" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 941" X_vs_Y_string="Louisiana v. Mississippi et al" standard_case="114682_1" X_vs_Y="114682_2" gram_type="multi_line" relation_type="equivalence" id="114682_10" ></RELATION>
+
+<RELATION at_date_string="November 1, 1993" theme="114682_2" at_date="114682_9" theme_string="Louisiana v. Mississippi et al" gram_type="multi_line" relation_type="asymmetric" id="114682_11" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['dennisflorida#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1051" id1="125417" volume="537" start="0" page_number="1051" standard_reporter="U.S." citation_global_level_id="4155.002" line="1" id="125420_1" citation_local_level_id="0" >537 U.S. 1051</CITATION>
+
+<CITATION party2="FLORIDA" party1="DENNIS" citation_global_level_id="49404.001" party2_short="FLORIDA" line="1" id="125420_3" alternative_keys="['u.s._537_1051']" end="35" entry_type="party_key" lookup_key="dennisflorida#1" id1="125420" start="18" party1_short="DENNIS" citation_local_level_id="1" >DENNIS v. FLORIDA</CITATION>
+
+<NAME end="24" start="18" party1_of="125420_3" all_names="DENNIS" local_name_id="1" id="125420_4" >DENNIS</NAME>
+
+<NAME end="35" start="28" all_names="FLORIDA" party2_of="125420_3" local_name_id="2" id="125420_5" >FLORIDA</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="u.s._537_1051" id1="125417" start="45" citation_global_level_id="4155.002" line="1" id="125420_2" citation_local_level_id="0" >02-6547</DOCKET>
+
+<DATE start="94" end="110" id="125420_6" >December 2, 2002</DATE>
+
+<NAME start="201" local_name_id="3" end="204" id="125420_13" all_names="SUP" >Sup</NAME>
+
+<CITATION end="264" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_817_741" id1="Dummy_File_141601" volume="817" start="250" page_number="741" standard_reporter="SO.2D" citation_global_level_id="205451.001" line="3" id="125420_12" citation_local_level_id="2" >817 So. 2d 741</CITATION>
+
+<RELATION theme="125420_1" includes_docket_string="02-6547" includes_docket="125420_2" theme_string="537 U.S. 1051" gram_type="apposition" relation_type="asymmetric" id="125420_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1051" X_vs_Y_string="DENNIS v. FLORIDA" standard_case="125420_1" X_vs_Y="125420_3" gram_type="pre_nom" relation_type="equivalence" id="125420_7" ></RELATION>
+
+<RELATION theme="125420_3" includes_docket_string="02-6547" includes_docket="125420_2" theme_string="DENNIS v. FLORIDA" gram_type="apposition" relation_type="asymmetric" id="125420_10" ></RELATION>
+
+<RELATION theme="125420_3" party1="125420_4" party1_string="DENNIS" theme_string="DENNIS v. FLORIDA" gram_type="infix" relation_type="asymmetric" id="125420_8" ></RELATION>
+
+<RELATION party2="125420_5" theme="125420_3" theme_string="DENNIS v. FLORIDA" party2_string="FLORIDA" gram_type="infix" relation_type="asymmetric" id="125420_9" ></RELATION>
+

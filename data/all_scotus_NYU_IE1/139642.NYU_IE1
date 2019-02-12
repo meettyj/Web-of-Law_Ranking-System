@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['buttigiambruno#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_945" id1="139636" volume="543" start="0" page_number="945" standard_reporter="U.S." citation_global_level_id="2056.002" line="1" id="139642_1" citation_local_level_id="0" >543 U.S. 945</CITATION>
+
+<CITATION party2="GIAMBRUNO, SUPERINTENDENT, WYOMING CORRECTIONAL FACILITY" party1="BUTTI" citation_global_level_id="2056.01" party2_short="GIAMBRUNO" line="2" id="139642_2" alternative_keys="['u.s._543_945']" end="82" entry_type="party_key" lookup_key="buttigiambruno#1" id1="139636" start="17" party1_short="BUTTI" citation_local_level_id="1" >BUTTI v. GIAMBRUNO, SUPERINTENDENT, WYOMING CORRECTIONAL FACILITY</CITATION>
+
+<NAME end="22" start="17" party1_of="139642_2" all_names="BUTTI" local_name_id="1" id="139642_3" >BUTTI</NAME>
+
+<NAME end="82" start="26" all_names="GIAMBRUNO SUPERINTENDENT WYOMING CORRECTIONAL FACILITY" party2_of="139642_2" local_name_id="2" id="139642_4" >GIAMBRUNO, SUPERINTENDENT, WYOMING CORRECTIONAL FACILITY</NAME>
+
+<DOCKET alternative_keys="['u.s._543_945']" end="99" entry_type="docket" lookup_key="buttigiambruno#1" id1="139636" start="92" citation_global_level_id="2056.01" line="3" id="139642_7" citation_local_level_id="1" >04-5868</DOCKET>
+
+<ORGANIZATION start="105" end="135" id="139642_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="141" citation_global_level_id="2056.01" end="157" id="139642_9" citation_local_level_id="1" >October 18, 2004</DATE>
+
+<NAME start="188" local_name_id="3" end="191" id="139642_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="139642_2" party1="139642_3" party1_string="BUTTI" theme_string="BUTTI v. GIAMBRUNO, SUPERINTENDENT, WYOMING CORRECTIONAL FACILITY" gram_type="infix" relation_type="asymmetric" id="139642_5" ></RELATION>
+
+<RELATION party2="139642_4" theme="139642_2" theme_string="BUTTI v. GIAMBRUNO, SUPERINTENDENT, WYOMING CORRECTIONAL FACILITY" party2_string="GIAMBRUNO, SUPERINTENDENT, WYOMING CORRECTIONAL FACILITY" gram_type="infix" relation_type="asymmetric" id="139642_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 945" X_vs_Y_string="BUTTI v. GIAMBRUNO, SUPERINTENDENT, WYOMING CORRECTIONAL FACILITY" standard_case="139642_1" X_vs_Y="139642_2" gram_type="multi_line" relation_type="equivalence" id="139642_10" ></RELATION>
+
+<RELATION at_date_string="October 18, 2004" theme="139642_2" at_date="139642_9" theme_string="BUTTI v. GIAMBRUNO, SUPERINTENDENT, WYOMING CORRECTIONAL FACILITY" gram_type="multi_line" relation_type="asymmetric" id="139642_12" ></RELATION>
+
+<RELATION theme="139642_2" includes_docket_string="04-5868" includes_docket="139642_7" theme_string="BUTTI v. GIAMBRUNO, SUPERINTENDENT, WYOMING CORRECTIONAL FACILITY" gram_type="multi_line" relation_type="asymmetric" id="139642_11" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['delktexas#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_982" id1="115224" volume="510" start="0" page_number="982" standard_reporter="U.S." citation_global_level_id="2022.002" line="1" id="115221_1" citation_local_level_id="0" >510 U.S. 982</CITATION>
+
+<CITATION party2="Texas" party1="Delk" citation_global_level_id="4855.001" party2_short="Texas" line="1" id="115221_3" alternative_keys="['u.s._510_982']" end="30" entry_type="party_key" lookup_key="delktexas#1" id1="115221" start="17" party1_short="Delk" citation_local_level_id="1" >Delk v. Texas</CITATION>
+
+<NAME end="21" start="17" party1_of="115221_3" all_names="DELK" local_name_id="1" id="115221_4" >Delk</NAME>
+
+<NAME end="30" start="25" all_names="TEXAS" party2_of="115221_3" local_name_id="2" id="115221_5" >Texas</NAME>
+
+<DOCKET end="47" entry_type="docket" lookup_key="u.s._510_982" id1="115224" start="40" citation_global_level_id="2022.002" line="1" id="115221_2" citation_local_level_id="0" >93-6223</DOCKET>
+
+<DATE start="89" end="106" id="115221_6" >November 15, 1993</DATE>
+
+<NAME start="189" local_name_id="3" end="199" id="115221_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="240" reporter="S. W. 2d" entry_type="standard_key" no_current_file="True" lookup_key="s.w.2d_855_700" id1="Dummy_File_64045" volume="855" start="224" page_number="700" standard_reporter="S.W.2D" citation_global_level_id="127895.001" line="3" id="115221_12" citation_local_level_id="2" >855 S. W. 2d 700</CITATION>
+
+<RELATION theme="115221_1" includes_docket_string="93-6223" includes_docket="115221_2" theme_string="510 U.S. 982" gram_type="apposition" relation_type="asymmetric" id="115221_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 982" X_vs_Y_string="Delk v. Texas" standard_case="115221_1" X_vs_Y="115221_3" gram_type="pre_nom" relation_type="equivalence" id="115221_7" ></RELATION>
+
+<RELATION theme="115221_3" includes_docket_string="93-6223" includes_docket="115221_2" theme_string="Delk v. Texas" gram_type="apposition" relation_type="asymmetric" id="115221_10" ></RELATION>
+
+<RELATION theme="115221_3" party1="115221_4" party1_string="Delk" theme_string="Delk v. Texas" gram_type="infix" relation_type="asymmetric" id="115221_8" ></RELATION>
+
+<RELATION party2="115221_5" theme="115221_3" theme_string="Delk v. Texas" party2_string="Texas" gram_type="infix" relation_type="asymmetric" id="115221_9" ></RELATION>
+

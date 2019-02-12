@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['insurancecourt#4']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_1113" id1="121030" volume="535" start="0" page_number="1113" standard_reporter="U.S." citation_global_level_id="1103.002" line="1" id="121020_1" citation_local_level_id="0" >535 U.S. 1113</CITATION>
+
+<CITATION party2="CLERK, SUPERIOR COURT OF NEW JERSEY" party1="HIGHLANDS INSURANCE CO." citation_global_level_id="1103.005" party2_short="COURT" line="2" id="121020_2" alternative_keys="['u.s._535_1113']" end="80" entry_type="party_key" lookup_key="insurancecourt#4" id1="121030" start="18" party1_short="INSURANCE" citation_local_level_id="1" >HIGHLANDS INSURANCE CO. v. CLERK, SUPERIOR COURT OF NEW JERSEY</CITATION>
+
+<NAME end="41" start="18" party1_of="121020_2" all_names="HIGHLANDS INSURANCE CO" local_name_id="1" id="121020_3" >HIGHLANDS INSURANCE CO.</NAME>
+
+<ORGANIZATION start="18" end="40" id="121020_5" >HIGHLANDS INSURANCE CO</ORGANIZATION>
+
+<NAME end="80" start="45" all_names="CLERK SUPERIOR COURT OF NEW JERSEY" party2_of="121020_2" local_name_id="2" id="121020_4" >CLERK, SUPERIOR COURT OF NEW JERSEY</NAME>
+
+<DOCKET alternative_keys="['u.s._535_1113']" end="97" entry_type="docket" lookup_key="insurancecourt#4" id1="121030" start="90" citation_global_level_id="1103.005" line="3" id="121020_8" citation_local_level_id="1" >01-1480</DOCKET>
+
+<DATE start="143" citation_global_level_id="1103.005" end="155" id="121020_9" citation_local_level_id="1" >June 3, 2002</DATE>
+
+<NAME start="177" local_name_id="3" end="182" id="121020_13" all_names="SUPER" >Super</NAME>
+
+<RELATION theme="121020_2" party1="121020_3" party1_string="HIGHLANDS INSURANCE CO." theme_string="HIGHLANDS INSURANCE CO. v. CLERK, SUPERIOR COURT OF NEW JERSEY" gram_type="infix" relation_type="asymmetric" id="121020_6" ></RELATION>
+
+<RELATION party2="121020_4" theme="121020_2" theme_string="HIGHLANDS INSURANCE CO. v. CLERK, SUPERIOR COURT OF NEW JERSEY" party2_string="CLERK, SUPERIOR COURT OF NEW JERSEY" gram_type="infix" relation_type="asymmetric" id="121020_7" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 1113" X_vs_Y_string="HIGHLANDS INSURANCE CO. v. CLERK, SUPERIOR COURT OF NEW JERSEY" standard_case="121020_1" X_vs_Y="121020_2" gram_type="multi_line" relation_type="equivalence" id="121020_10" ></RELATION>
+
+<RELATION at_date_string="June 3, 2002" theme="121020_2" at_date="121020_9" theme_string="HIGHLANDS INSURANCE CO. v. CLERK, SUPERIOR COURT OF NEW JERSEY" gram_type="multi_line" relation_type="asymmetric" id="121020_12" ></RELATION>
+
+<RELATION theme="121020_2" includes_docket_string="01-1480" includes_docket="121020_8" theme_string="HIGHLANDS INSURANCE CO. v. CLERK, SUPERIOR COURT OF NEW JERSEY" gram_type="multi_line" relation_type="asymmetric" id="121020_11" ></RELATION>
+

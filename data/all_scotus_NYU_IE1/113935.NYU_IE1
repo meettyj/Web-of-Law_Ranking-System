@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['jelinekwasche#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_881" id1="113935" volume="510" start="0" page_number="881" standard_reporter="U.S." citation_global_level_id="3838.002" line="1" id="113935_1" citation_local_level_id="0" >510 U.S. 881</CITATION>
+
+<CITATION party2="Wasche" party1="Jelinek" citation_global_level_id="3838.001" party2_short="Wasche" line="1" id="113935_3" alternative_keys="['u.s._510_881']" end="34" entry_type="party_key" lookup_key="jelinekwasche#1" id1="113935" start="17" party1_short="Jelinek" citation_local_level_id="1" >Jelinek v. Wasche</CITATION>
+
+<NAME end="24" start="17" party1_of="113935_3" all_names="JELINEK" local_name_id="1" id="113935_4" >Jelinek</NAME>
+
+<NAME end="34" start="28" all_names="WASCHE" party2_of="113935_3" local_name_id="2" id="113935_5" >Wasche</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="u.s._510_881" id1="113935" start="44" citation_global_level_id="3838.002" line="1" id="113935_2" citation_local_level_id="0" >93-5191</DOCKET>
+
+<DATE start="93" end="108" id="113935_6" >October 4, 1993</DATE>
+
+<NAME start="186" local_name_id="3" end="196" id="113935_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="234" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_986_503" id1="Dummy_File_17401" volume="986" start="221" page_number="503" standard_reporter="F.2D" citation_global_level_id="81251.001" line="3" id="113935_12" citation_local_level_id="2" >986 F. 2d 503</CITATION>
+
+<RELATION theme="113935_1" includes_docket_string="93-5191" includes_docket="113935_2" theme_string="510 U.S. 881" gram_type="apposition" relation_type="asymmetric" id="113935_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 881" X_vs_Y_string="Jelinek v. Wasche" standard_case="113935_1" X_vs_Y="113935_3" gram_type="pre_nom" relation_type="equivalence" id="113935_7" ></RELATION>
+
+<RELATION theme="113935_3" includes_docket_string="93-5191" includes_docket="113935_2" theme_string="Jelinek v. Wasche" gram_type="apposition" relation_type="asymmetric" id="113935_10" ></RELATION>
+
+<RELATION theme="113935_3" party1="113935_4" party1_string="Jelinek" theme_string="Jelinek v. Wasche" gram_type="infix" relation_type="asymmetric" id="113935_8" ></RELATION>
+
+<RELATION party2="113935_5" theme="113935_3" theme_string="Jelinek v. Wasche" party2_string="Wasche" gram_type="infix" relation_type="asymmetric" id="113935_9" ></RELATION>
+

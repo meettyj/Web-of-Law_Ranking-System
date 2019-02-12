@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['wellschu#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_985" id1="128994" volume="538" start="0" page_number="985" standard_reporter="U.S." citation_global_level_id="3758.002" line="1" id="128988_1" citation_local_level_id="0" >538 U.S. 985</CITATION>
+
+<CITATION party2="CHU" party1="WELLS" citation_global_level_id="36811.001" party2_short="CHU" line="1" id="128988_3" alternative_keys="['u.s._538_985']" end="29" entry_type="party_key" lookup_key="wellschu#1" id1="128988" start="17" party1_short="WELLS" citation_local_level_id="1" >WELLS v. CHU</CITATION>
+
+<NAME end="22" start="17" party1_of="128988_3" all_names="WELLS" local_name_id="1" id="128988_4" >WELLS</NAME>
+
+<NAME end="29" start="26" all_names="CHU" party2_of="128988_3" local_name_id="2" id="128988_5" >CHU</NAME>
+
+<DOCKET end="46" entry_type="docket" lookup_key="u.s._538_985" id1="128994" start="39" citation_global_level_id="3758.002" line="1" id="128988_2" citation_local_level_id="0" >02-9084</DOCKET>
+
+<DATE start="88" end="102" id="128988_6" >April 21, 2003</DATE>
+
+<NAME start="231" local_name_id="3" end="234" id="128988_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="128988_1" includes_docket_string="02-9084" includes_docket="128988_2" theme_string="538 U.S. 985" gram_type="apposition" relation_type="asymmetric" id="128988_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 985" X_vs_Y_string="WELLS v. CHU" standard_case="128988_1" X_vs_Y="128988_3" gram_type="pre_nom" relation_type="equivalence" id="128988_7" ></RELATION>
+
+<RELATION theme="128988_3" includes_docket_string="02-9084" includes_docket="128988_2" theme_string="WELLS v. CHU" gram_type="apposition" relation_type="asymmetric" id="128988_10" ></RELATION>
+
+<RELATION theme="128988_3" party1="128988_4" party1_string="WELLS" theme_string="WELLS v. CHU" gram_type="infix" relation_type="asymmetric" id="128988_8" ></RELATION>
+
+<RELATION party2="128988_5" theme="128988_3" theme_string="WELLS v. CHU" party2_string="CHU" gram_type="infix" relation_type="asymmetric" id="128988_9" ></RELATION>
+

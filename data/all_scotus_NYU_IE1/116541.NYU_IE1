@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['doestates#8']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1091" id1="116548" volume="510" start="0" page_number="1091" standard_reporter="U.S." citation_global_level_id="2036.002" line="1" id="116541_1" citation_local_level_id="0" >510 U.S. 1091</CITATION>
+
+<CITATION party2="United States" party1="Doe" citation_global_level_id="50447.001" party2_short="States" line="1" id="116541_3" alternative_keys="['u.s._510_1091']" end="38" entry_type="party_key" lookup_key="doestates#8" id1="125819" start="18" party1_short="Doe" citation_local_level_id="1" >Doe v. United States</CITATION>
+
+<NAME end="21" start="18" party1_of="116541_3" all_names="DOE" local_name_id="1" id="116541_4" >Doe</NAME>
+
+<NAME end="38" start="25" all_names="UNITED STATES" party2_of="116541_3" local_name_id="2" id="116541_5" >United States</NAME>
+
+<DOCKET end="54" entry_type="docket" lookup_key="u.s._510_1091" id1="116548" start="48" citation_global_level_id="2036.002" line="1" id="116541_2" citation_local_level_id="0" >93-523</DOCKET>
+
+<DATE start="96" end="112" id="116541_6" >January 24, 1994</DATE>
+
+<NAME start="189" local_name_id="3" end="199" id="116541_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="234" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_1_87" id1="Dummy_File_71683" volume="1" start="224" page_number="87" standard_reporter="F.3D" citation_global_level_id="135533.001" line="3" id="116541_12" citation_local_level_id="2" >1 F. 3d 87</CITATION>
+
+<RELATION theme="116541_1" includes_docket_string="93-523" includes_docket="116541_2" theme_string="510 U.S. 1091" gram_type="apposition" relation_type="asymmetric" id="116541_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1091" X_vs_Y_string="Doe v. United States" standard_case="116541_1" X_vs_Y="116541_3" gram_type="pre_nom" relation_type="equivalence" id="116541_7" ></RELATION>
+
+<RELATION theme="116541_3" includes_docket_string="93-523" includes_docket="116541_2" theme_string="Doe v. United States" gram_type="apposition" relation_type="asymmetric" id="116541_10" ></RELATION>
+
+<RELATION theme="116541_3" party1="116541_4" party1_string="Doe" theme_string="Doe v. United States" gram_type="infix" relation_type="asymmetric" id="116541_8" ></RELATION>
+
+<RELATION party2="116541_5" theme="116541_3" theme_string="Doe v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="116541_9" ></RELATION>
+

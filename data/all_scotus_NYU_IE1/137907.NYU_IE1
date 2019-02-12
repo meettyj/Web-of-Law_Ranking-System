@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['angelicohospital#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_814" id1="137914" volume="543" start="0" page_number="814" standard_reporter="U.S." citation_global_level_id="321.002" line="1" id="137907_1" citation_local_level_id="0" >543 U.S. 814</CITATION>
+
+<CITATION party2="LEHIGH VALLEY HOSPITAL, INC., ET AL" party1="ANGELICO" citation_global_level_id="321.005" party2_short="HOSPITAL" line="2" id="137907_3" alternative_keys="['u.s._543_814']" end="64" entry_type="party_key" lookup_key="angelicohospital#2" id1="137914" start="17" party1_short="ANGELICO" citation_local_level_id="1" >ANGELICO v. LEHIGH VALLEY HOSPITAL, INC., ET AL</CITATION>
+
+<NAME end="25" start="17" party1_of="137907_3" all_names="ANGELICO" local_name_id="1" id="137907_4" >ANGELICO</NAME>
+
+<NAME end="64" start="29" all_names="LEHIGH VALLEY HOSPITAL INC" party2_of="137907_3" local_name_id="2" id="137907_5" >LEHIGH VALLEY HOSPITAL, INC., ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._543_814']" end="81" entry_type="docket" lookup_key="angelicohospital#2" id1="137914" start="74" citation_global_level_id="321.005" line="2" id="137907_2" citation_local_level_id="1" >03-1594</DOCKET>
+
+<ORGANIZATION start="87" end="117" id="137907_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="123" citation_global_level_id="321.005" end="138" id="137907_10" citation_local_level_id="1" >October 4, 2004</DATE>
+
+<NAME start="169" local_name_id="3" end="172" id="137907_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="137907_3" includes_docket_string="03-1594" includes_docket="137907_2" theme_string="ANGELICO v. LEHIGH VALLEY HOSPITAL, INC., ET AL" gram_type="apposition" relation_type="asymmetric" id="137907_8" ></RELATION>
+
+<RELATION theme="137907_3" party1="137907_4" party1_string="ANGELICO" theme_string="ANGELICO v. LEHIGH VALLEY HOSPITAL, INC., ET AL" gram_type="infix" relation_type="asymmetric" id="137907_6" ></RELATION>
+
+<RELATION party2="137907_5" theme="137907_3" theme_string="ANGELICO v. LEHIGH VALLEY HOSPITAL, INC., ET AL" party2_string="LEHIGH VALLEY HOSPITAL, INC., ET AL" gram_type="infix" relation_type="asymmetric" id="137907_7" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 814" X_vs_Y_string="ANGELICO v. LEHIGH VALLEY HOSPITAL, INC., ET AL" standard_case="137907_1" X_vs_Y="137907_3" gram_type="multi_line" relation_type="equivalence" id="137907_11" ></RELATION>
+
+<RELATION at_date_string="October 4, 2004" theme="137907_3" at_date="137907_10" theme_string="ANGELICO v. LEHIGH VALLEY HOSPITAL, INC., ET AL" gram_type="multi_line" relation_type="asymmetric" id="137907_12" ></RELATION>
+

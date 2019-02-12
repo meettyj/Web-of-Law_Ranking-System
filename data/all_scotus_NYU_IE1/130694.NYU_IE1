@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['hutchisonwarden#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_944" id1="130683" volume="539" start="0" page_number="944" standard_reporter="U.S." citation_global_level_id="2673.002" line="1" id="130694_1" citation_local_level_id="0" >539 U.S. 944</CITATION>
+
+<CITATION party2="Bell, Warden" party1="Hutchison" citation_global_level_id="45883.001" party2_short="Warden" line="1" id="130694_3" alternative_keys="['u.s._539_944']" end="42" entry_type="party_key" lookup_key="hutchisonwarden#1" id1="130694" start="17" party1_short="Hutchison" citation_local_level_id="1" >Hutchison v. Bell, Warden</CITATION>
+
+<NAME end="26" start="17" party1_of="130694_3" all_names="HUTCHISON" local_name_id="1" id="130694_4" >Hutchison</NAME>
+
+<NAME end="42" start="30" all_names="BELL WARDEN" party2_of="130694_3" local_name_id="2" id="130694_5" >Bell, Warden</NAME>
+
+<DOCKET end="60" entry_type="docket" lookup_key="u.s._539_944" id1="130683" start="52" citation_global_level_id="2673.002" line="1" id="130694_2" citation_local_level_id="0" >02-10107</DOCKET>
+
+<DATE start="102" end="115" id="130694_6" >June 23, 2003</DATE>
+
+<NAME start="193" local_name_id="3" end="203" id="130694_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="241" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_303_720" id1="Dummy_File_232102" volume="303" start="228" page_number="720" standard_reporter="F.3D" citation_global_level_id="295952.001" line="3" id="130694_12" citation_local_level_id="2" >303 F. 3d 720</CITATION>
+
+<RELATION theme="130694_1" includes_docket_string="02-10107" includes_docket="130694_2" theme_string="539 U.S. 944" gram_type="apposition" relation_type="asymmetric" id="130694_11" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 944" X_vs_Y_string="Hutchison v. Bell, Warden" standard_case="130694_1" X_vs_Y="130694_3" gram_type="pre_nom" relation_type="equivalence" id="130694_7" ></RELATION>
+
+<RELATION theme="130694_3" includes_docket_string="02-10107" includes_docket="130694_2" theme_string="Hutchison v. Bell, Warden" gram_type="apposition" relation_type="asymmetric" id="130694_10" ></RELATION>
+
+<RELATION theme="130694_3" party1="130694_4" party1_string="Hutchison" theme_string="Hutchison v. Bell, Warden" gram_type="infix" relation_type="asymmetric" id="130694_8" ></RELATION>
+
+<RELATION party2="130694_5" theme="130694_3" theme_string="Hutchison v. Bell, Warden" party2_string="Bell, Warden" gram_type="infix" relation_type="asymmetric" id="130694_9" ></RELATION>
+

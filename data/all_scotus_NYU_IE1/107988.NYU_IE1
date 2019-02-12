@@ -1,0 +1,36 @@
+<CITATION alternative_keys="['ordercompany#1', 's.ct._90_104', 'l.ed.2d_24_92']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._395_841" id1="107988" volume="395" start="0" page_number="841" standard_reporter="U.S." citation_global_level_id="60057.002" line="1" id="107988_1" citation_local_level_id="0" >395 U.S. 841</CITATION>
+
+<CITATION alternative_keys="['u.s._395_841', 'ordercompany#1', 'l.ed.2d_24_92']" end="30" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._90_104" id1="107988" volume="90" start="17" page_number="104" standard_reporter="S.CT." citation_global_level_id="60057.003" line="1" id="107988_2" citation_local_level_id="1" >90 S. Ct. 104</CITATION>
+
+<NAME start="20" local_name_id="1" end="25" id="107988_9" all_names="S CT" >S. Ct</NAME>
+
+<CITATION alternative_keys="['u.s._395_841', 's.ct._90_104', 'ordercompany#1']" end="50" reporter="L. Ed. 2d" entry_type="standard_key" lookup_key="l.ed.2d_24_92" id1="107988" volume="24" start="35" page_number="92" standard_reporter="L.ED.2D" citation_global_level_id="60057.004" line="1" id="107988_3" citation_local_level_id="2" >24 L. Ed. 2d 92</CITATION>
+
+<CITATION party2="CLINCHFIELD RAILROAD COMPANY" alternative_keys="['u.s._395_841', 's.ct._90_104', 'l.ed.2d_24_92']" party1="ORDER OF RAILWAY CONDUCTORS AND BRAKEMEN AND BROTHERHOOD  OF RAILROAD TRAINMEN," end="179" party1_short="ORDER" entry_type="party_key" party1_role="petitioners" lookup_key="ordercompany#1" id1="107988" start="55" citation_global_level_id="60057.001" party2_short="COMPANY" line="1" id="107988_4" citation_local_level_id="3" >ORDER OF RAILWAY CONDUCTORS AND BRAKEMEN AND BROTHERHOOD OF RAILROAD TRAINMEN, petitioners, v. CLINCHFIELD RAILROAD COMPANY</CITATION>
+
+<NAME end="134" start="55" party1_of="107988_4" all_names="ORDER OF RAILWAY CONDUCTORS AND BRAKEMEN AND BROTHERHOOD OF RAILROAD TRAINMEN" local_name_id="2" id="107988_5" >ORDER OF RAILWAY CONDUCTORS AND BRAKEMEN AND BROTHERHOOD OF RAILROAD TRAINMEN,</NAME>
+
+<LEGAL_ROLE start="135" end="146" id="107988_7" >petitioners</LEGAL_ROLE>
+
+<NAME end="179" start="151" all_names="CLINCHFIELD RAILROAD COMPANY" party2_of="107988_4" local_name_id="3" id="107988_6" >CLINCHFIELD RAILROAD COMPANY</NAME>
+
+<DATE start="237" end="253" id="107988_8" >October 13, 1969</DATE>
+
+<NAME start="309" local_name_id="4" end="324" id="107988_15" all_names="DENNIS G LYONS" >Dennis G. Lyons</NAME>
+
+<LEGAL_ROLE start="330" end="340" id="107988_16" >respondent</LEGAL_ROLE>
+
+<NAME start="348" local_name_id="5" end="356" id="107988_17" all_names="PETITION" >Petition</NAME>
+
+<ORGANIZATION start="387" end="439" id="107988_18" >United States Court of Appeals for the Sixth Circuit</ORGANIZATION>
+
+<RELATION standard_case_string="395 U.S. 841" X_vs_Y_string="ORDER OF RAILWAY CONDUCTORS AND BRAKEMEN AND BROTHERHOOD  OF RAILROAD TRAINMEN, petitioners, v. CLINCHFIELD RAILROAD COMPANY" standard_case="107988_1" X_vs_Y="107988_4" gram_type="pre_nom" relation_type="equivalence" id="107988_11" ></RELATION>
+
+<RELATION standard_case_string="90 S. Ct. 104" X_vs_Y_string="ORDER OF RAILWAY CONDUCTORS AND BRAKEMEN AND BROTHERHOOD  OF RAILROAD TRAINMEN, petitioners, v. CLINCHFIELD RAILROAD COMPANY" standard_case="107988_2" X_vs_Y="107988_4" gram_type="pre_nom" relation_type="equivalence" id="107988_12" ></RELATION>
+
+<RELATION standard_case_string="24 L. Ed. 2d 92" X_vs_Y_string="ORDER OF RAILWAY CONDUCTORS AND BRAKEMEN AND BROTHERHOOD  OF RAILROAD TRAINMEN, petitioners, v. CLINCHFIELD RAILROAD COMPANY" standard_case="107988_3" X_vs_Y="107988_4" gram_type="pre_nom" relation_type="equivalence" id="107988_10" ></RELATION>
+
+<RELATION theme="107988_4" party1="107988_5" party1_string="ORDER OF RAILWAY CONDUCTORS AND BRAKEMEN AND BROTHERHOOD  OF RAILROAD TRAINMEN," theme_string="ORDER OF RAILWAY CONDUCTORS AND BRAKEMEN AND BROTHERHOOD  OF RAILROAD TRAINMEN, petitioners, v. CLINCHFIELD RAILROAD COMPANY" gram_type="infix" relation_type="asymmetric" id="107988_13" ></RELATION>
+
+<RELATION party2="107988_6" theme="107988_4" theme_string="ORDER OF RAILWAY CONDUCTORS AND BRAKEMEN AND BROTHERHOOD  OF RAILROAD TRAINMEN, petitioners, v. CLINCHFIELD RAILROAD COMPANY" party2_string="CLINCHFIELD RAILROAD COMPANY" gram_type="infix" relation_type="asymmetric" id="107988_14" ></RELATION>
+

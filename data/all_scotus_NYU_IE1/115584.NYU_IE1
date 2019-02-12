@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['departmentranch#3']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1009" id1="115585" volume="510" start="0" page_number="1009" standard_reporter="U.S." citation_global_level_id="2756.002" line="1" id="115584_1" citation_local_level_id="0" >510 U.S. 1009</CITATION>
+
+<CITATION party2="Kurth Ranch et al" party1="Department of Revenue of Montana" citation_global_level_id="58510.001" party2_short="Ranch" line="1" id="115584_4" alternative_keys="['u.s._510_1009']" end="71" entry_type="party_key" lookup_key="departmentranch#3" id1="114950" start="18" party1_short="Department" citation_local_level_id="1" >Department of Revenue of Montana v. Kurth Ranch et al</CITATION>
+
+<NAME end="50" start="18" party1_of="115584_4" all_names="DEPARTMENT OF REVENUE OF MONTANA" local_name_id="1" id="115584_5" >Department of Revenue of Montana</NAME>
+
+<NAME end="71" start="54" all_names="KURTH RANCH" party2_of="115584_4" local_name_id="2" id="115584_6" >Kurth Ranch et al</NAME>
+
+<DOCKET end="87" entry_type="docket" lookup_key="u.s._510_1009" id1="115585" start="81" citation_global_level_id="2756.002" line="1" id="115584_3" citation_local_level_id="0" >93-144</DOCKET>
+
+<DATE start="129" end="145" id="115584_7" >December 6, 1993</DATE>
+
+<CITATION end="232" reporter="U. S." entry_type="standard_key" no_current_file="True" lookup_key="u.s._509_953" id1="Dummy_File_5609" volume="509" start="219" page_number="953" standard_reporter="U.S." citation_global_level_id="69459.001" line="1" id="115584_2" citation_local_level_id="2" >509 U. S. 953</CITATION>
+
+<PROFESSION start="260" end="291" id="115584_13" >Motion of the Solicitor General</PROFESSION>
+
+<RELATION theme="115584_1" includes_docket_string="93-144" includes_docket="115584_3" theme_string="510 U.S. 1009" gram_type="apposition" relation_type="asymmetric" id="115584_12" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1009" X_vs_Y_string="Department of Revenue of Montana v. Kurth Ranch et al" standard_case="115584_1" X_vs_Y="115584_4" gram_type="pre_nom" relation_type="equivalence" id="115584_8" ></RELATION>
+
+<RELATION theme="115584_4" includes_docket_string="93-144" includes_docket="115584_3" theme_string="Department of Revenue of Montana v. Kurth Ranch et al" gram_type="apposition" relation_type="asymmetric" id="115584_11" ></RELATION>
+
+<RELATION party2="115584_6" theme="115584_4" theme_string="Department of Revenue of Montana v. Kurth Ranch et al" party2_string="Kurth Ranch et al" gram_type="infix" relation_type="asymmetric" id="115584_10" ></RELATION>
+
+<RELATION theme="115584_4" party1="115584_5" party1_string="Department of Revenue of Montana" theme_string="Department of Revenue of Montana v. Kurth Ranch et al" gram_type="infix" relation_type="asymmetric" id="115584_9" ></RELATION>
+

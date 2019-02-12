@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['jamesshiplevy#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_968" id1="115027" volume="510" start="0" page_number="968" standard_reporter="U.S." citation_global_level_id="81.002" line="1" id="115039_1" citation_local_level_id="0" >510 U.S. 968</CITATION>
+
+<CITATION party2="Shiplevy, Warden" party1="James" citation_global_level_id="81.006" party2_short="Shiplevy" line="1" id="115039_3" alternative_keys="['u.s._510_968']" end="42" entry_type="party_key" lookup_key="jamesshiplevy#1" id1="115027" start="17" party1_short="James" citation_local_level_id="1" >James v. Shiplevy, Warden</CITATION>
+
+<NAME end="22" start="17" party1_of="115039_3" all_names="JAMES" local_name_id="1" id="115039_4" >James</NAME>
+
+<NAME end="42" start="26" all_names="SHIPLEVY WARDEN" party2_of="115039_3" local_name_id="2" id="115039_5" >Shiplevy, Warden</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="u.s._510_968" id1="115027" start="52" citation_global_level_id="81.002" line="1" id="115039_2" citation_local_level_id="0" >93-6017</DOCKET>
+
+<DATE start="101" end="117" id="115039_6" >November 8, 1993</DATE>
+
+<NAME start="195" local_name_id="3" end="205" id="115039_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="244" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_996_1215" id1="Dummy_File_25497" volume="996" start="230" page_number="1215" standard_reporter="F.2D" citation_global_level_id="89347.001" line="3" id="115039_12" citation_local_level_id="2" >996 F. 2d 1215</CITATION>
+
+<RELATION theme="115039_1" includes_docket_string="93-6017" includes_docket="115039_2" theme_string="510 U.S. 968" gram_type="apposition" relation_type="asymmetric" id="115039_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 968" X_vs_Y_string="James v. Shiplevy, Warden" standard_case="115039_1" X_vs_Y="115039_3" gram_type="pre_nom" relation_type="equivalence" id="115039_7" ></RELATION>
+
+<RELATION theme="115039_3" includes_docket_string="93-6017" includes_docket="115039_2" theme_string="James v. Shiplevy, Warden" gram_type="apposition" relation_type="asymmetric" id="115039_10" ></RELATION>
+
+<RELATION theme="115039_3" party1="115039_4" party1_string="James" theme_string="James v. Shiplevy, Warden" gram_type="infix" relation_type="asymmetric" id="115039_8" ></RELATION>
+
+<RELATION party2="115039_5" theme="115039_3" theme_string="James v. Shiplevy, Warden" party2_string="Shiplevy, Warden" gram_type="infix" relation_type="asymmetric" id="115039_9" ></RELATION>
+

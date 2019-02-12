@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['jaakkolasystem#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_997" id1="115404" volume="510" start="0" page_number="997" standard_reporter="U.S." citation_global_level_id="5033.002" line="2" id="115396_1" citation_local_level_id="0" >510 U.S. 997</CITATION>
+
+<CITATION party2="State Industrial Insurance System" party1="Jaakkola" citation_global_level_id="10250.001" party2_short="System" line="2" id="115396_3" alternative_keys="['u.s._510_997']" end="62" entry_type="party_key" lookup_key="jaakkolasystem#1" id1="115396" start="17" party1_short="Jaakkola" citation_local_level_id="1" >Jaakkola v. State Industrial Insurance System</CITATION>
+
+<NAME end="25" start="17" party1_of="115396_3" all_names="JAAKKOLA" local_name_id="1" id="115396_4" >Jaakkola</NAME>
+
+<NAME end="62" start="29" all_names="STATE INDUSTRIAL INSURANCE SYSTEM" party2_of="115396_3" local_name_id="2" id="115396_5" >State Industrial Insurance System</NAME>
+
+<DOCKET end="79" entry_type="docket" lookup_key="u.s._510_997" id1="115404" start="72" citation_global_level_id="5033.002" line="2" id="115396_2" citation_local_level_id="0" >93-6242</DOCKET>
+
+<DATE start="121" end="138" id="115396_6" >November 29, 1993</DATE>
+
+<NAME start="215" local_name_id="3" end="225" id="115396_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="279" reporter="P. 2d" entry_type="standard_key" no_current_file="True" lookup_key="p.2d_875_1064" id1="Dummy_File_16589" volume="875" start="265" page_number="1064" standard_reporter="P.2D" citation_global_level_id="80439.001" line="3" id="115396_12" citation_local_level_id="2" >875 P. 2d 1064</CITATION>
+
+<RELATION theme="115396_1" includes_docket_string="93-6242" includes_docket="115396_2" theme_string="510 U.S. 997" gram_type="apposition" relation_type="asymmetric" id="115396_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 997" X_vs_Y_string="Jaakkola v. State Industrial Insurance System" standard_case="115396_1" X_vs_Y="115396_3" gram_type="pre_nom" relation_type="equivalence" id="115396_7" ></RELATION>
+
+<RELATION theme="115396_3" includes_docket_string="93-6242" includes_docket="115396_2" theme_string="Jaakkola v. State Industrial Insurance System" gram_type="apposition" relation_type="asymmetric" id="115396_10" ></RELATION>
+
+<RELATION theme="115396_3" party1="115396_4" party1_string="Jaakkola" theme_string="Jaakkola v. State Industrial Insurance System" gram_type="infix" relation_type="asymmetric" id="115396_8" ></RELATION>
+
+<RELATION party2="115396_5" theme="115396_3" theme_string="Jaakkola v. State Industrial Insurance System" party2_string="State Industrial Insurance System" gram_type="infix" relation_type="asymmetric" id="115396_9" ></RELATION>
+

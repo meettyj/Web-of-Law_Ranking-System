@@ -1,0 +1,58 @@
+<CITATION alternative_keys="['rachelstates#1', 'cranch_6_329', 'l.ed._3_239']" end="11" reporter="U.S." entry_type="standard_key" lookup_key="u.s._10_329" id1="84960" volume="10" start="0" page_number="329" standard_reporter="U.S." citation_global_level_id="24770.002" line="1" id="84960_1" citation_local_level_id="0" >10 U.S. 329</CITATION>
+
+<CITATION alternative_keys="['u.s._10_329', 'rachelstates#1', 'l.ed._3_239']" end="28" reporter="Cranch" entry_type="standard_key" lookup_key="cranch_6_329" id1="84960" volume="6" start="16" page_number="329" standard_reporter="CRANCH" citation_global_level_id="24770.003" line="1" id="84960_2" citation_local_level_id="1" >6 Cranch 329</CITATION>
+
+<NAME start="18" local_name_id="1" end="40" id="84960_8" all_names="CRANCH 329 3 L ED" >Cranch 329 3 L. Ed</NAME>
+
+<CITATION alternative_keys="['u.s._10_329', 'cranch_6_329', 'rachelstates#1']" end="45" reporter="L. Ed." entry_type="standard_key" lookup_key="l.ed._3_239" id1="84960" volume="3" start="33" page_number="239" standard_reporter="L.ED." citation_global_level_id="24770.004" line="1" id="84960_3" citation_local_level_id="2" >3 L. Ed. 239</CITATION>
+
+<CITATION party2="THE UNITED STATES" party1="THE SCHOONER RACHEL" citation_global_level_id="24770.001" party2_short="STATES" line="1" id="84960_4" alternative_keys="['u.s._10_329', 'cranch_6_329', 'l.ed._3_239']" end="90" entry_type="party_key" lookup_key="rachelstates#1" id1="84960" start="50" party1_short="RACHEL" citation_local_level_id="3" >THE SCHOONER RACHEL v. THE UNITED STATES</CITATION>
+
+<NAME end="69" start="50" party1_of="84960_4" all_names="THE SCHOONER RACHEL" local_name_id="2" id="84960_5" >THE SCHOONER RACHEL</NAME>
+
+<NAME end="90" start="73" all_names="THE UNITED STATES	UNITED STATES" party2_of="84960_4" local_name_id="3" id="84960_6" >THE UNITED STATES</NAME>
+
+<DATE start="111" end="115" id="84960_7" >1810</DATE>
+
+<NAME start="499" local_name_id="3" end="512" id="84960_17" all_names="THE UNITED STATES	UNITED STATES" >United States</NAME>
+
+<ORGANIZATION start="535" end="540" id="84960_18" >force</ORGANIZATION>
+
+<CITATION party2="The United States" party1="Yeaton and Young" citation_global_level_id="23476.005" party2_short="States" line="3" id="84960_14" alternative_keys="['cranch_5_281']" end="678" entry_type="party_key" lookup_key="yeatonstates#1" id1="84907" start="641" party1_short="Yeaton" citation_local_level_id="4" >Yeaton and Young v. The United States</CITATION>
+
+<NAME end="657" start="641" party1_of="84960_14" all_names="YEATON AND YOUNG" local_name_id="4" id="84960_15" >Yeaton and Young</NAME>
+
+<NAME end="678" start="661" all_names="THE UNITED STATES	UNITED STATES" party2_of="84960_14" local_name_id="3" id="84960_16" >The United States</NAME>
+
+<PROFESSION start="942" end="949" id="84960_24" >general</PROFESSION>
+
+<ORGANIZATION start="983" end="988" id="84960_25" >court</ORGANIZATION>
+
+<CITATION party2="Pitot and others" party1="Serre and Laralde" citation_global_level_id="108882.001" party2_short="Pitot" line="5" id="84960_21" end="1074" no_current_file="True" entry_type="party_key" lookup_key="serrepitot#1" id1="Dummy_File_45032" start="1037" party1_short="Serre" citation_local_level_id="5" >Serre and Laralde v. Pitot and others</CITATION>
+
+<NAME end="1054" start="1037" party1_of="84960_21" all_names="SERRE AND LARALDE" local_name_id="5" id="84960_22" >Serre and Laralde</NAME>
+
+<NAME end="1074" start="1058" all_names="PITOT AND OTHERS" party2_of="84960_21" local_name_id="6" id="84960_23" >Pitot and others</NAME>
+
+<ORGANIZATION start="1303" end="1308" id="84960_28" >court</ORGANIZATION>
+
+<ORGANIZATION start="1374" end="1379" id="84960_29" >court</ORGANIZATION>
+
+<RELATION standard_case_string="10 U.S. 329" X_vs_Y_string="THE SCHOONER RACHEL v. THE UNITED STATES" standard_case="84960_1" X_vs_Y="84960_4" gram_type="pre_nom" relation_type="equivalence" id="84960_10" ></RELATION>
+
+<RELATION standard_case_string="6 Cranch 329" X_vs_Y_string="THE SCHOONER RACHEL v. THE UNITED STATES" standard_case="84960_2" X_vs_Y="84960_4" gram_type="pre_nom" relation_type="equivalence" id="84960_11" ></RELATION>
+
+<RELATION standard_case_string="3 L. Ed. 239" X_vs_Y_string="THE SCHOONER RACHEL v. THE UNITED STATES" standard_case="84960_3" X_vs_Y="84960_4" gram_type="pre_nom" relation_type="equivalence" id="84960_9" ></RELATION>
+
+<RELATION theme="84960_4" party1="84960_5" party1_string="THE SCHOONER RACHEL" theme_string="THE SCHOONER RACHEL v. THE UNITED STATES" gram_type="infix" relation_type="asymmetric" id="84960_12" ></RELATION>
+
+<RELATION party2="84960_6" theme="84960_4" theme_string="THE SCHOONER RACHEL v. THE UNITED STATES" party2_string="THE UNITED STATES" gram_type="infix" relation_type="asymmetric" id="84960_13" ></RELATION>
+
+<RELATION theme="84960_14" party1="84960_15" party1_string="Yeaton and Young" theme_string="Yeaton and Young v. The United States" gram_type="infix" relation_type="asymmetric" id="84960_19" ></RELATION>
+
+<RELATION party2="84960_16" theme="84960_14" theme_string="Yeaton and Young v. The United States" party2_string="The United States" gram_type="infix" relation_type="asymmetric" id="84960_20" ></RELATION>
+
+<RELATION theme="84960_21" party1="84960_22" party1_string="Serre and Laralde" theme_string="Serre and Laralde v. Pitot and others" gram_type="infix" relation_type="asymmetric" id="84960_26" ></RELATION>
+
+<RELATION party2="84960_23" theme="84960_21" theme_string="Serre and Laralde v. Pitot and others" party2_string="Pitot and others" gram_type="infix" relation_type="asymmetric" id="84960_27" ></RELATION>
+

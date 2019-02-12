@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['morganramirez#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_986" id1="129009" volume="538" start="0" page_number="986" standard_reporter="U.S." citation_global_level_id="2474.002" line="1" id="129010_1" citation_local_level_id="0" >538 U.S. 986</CITATION>
+
+<CITATION party2="RAMIREZ, WARDEN" party1="MORGAN" citation_global_level_id="2474.004" party2_short="RAMIREZ" line="1" id="129010_3" alternative_keys="['u.s._538_986']" end="42" entry_type="party_key" lookup_key="morganramirez#1" id1="129009" start="17" party1_short="MORGAN" citation_local_level_id="1" >MORGAN v. RAMIREZ, WARDEN</CITATION>
+
+<NAME end="23" start="17" party1_of="129010_3" all_names="MORGAN" local_name_id="1" id="129010_4" >MORGAN</NAME>
+
+<NAME end="42" start="27" all_names="RAMIREZ WARDEN" party2_of="129010_3" local_name_id="2" id="129010_5" >RAMIREZ, WARDEN</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="u.s._538_986" id1="129009" start="52" citation_global_level_id="2474.002" line="1" id="129010_2" citation_local_level_id="0" >02-9161</DOCKET>
+
+<DATE start="101" end="115" id="129010_6" >April 21, 2003</DATE>
+
+<NAME start="244" local_name_id="3" end="247" id="129010_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="129010_1" includes_docket_string="02-9161" includes_docket="129010_2" theme_string="538 U.S. 986" gram_type="apposition" relation_type="asymmetric" id="129010_11" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 986" X_vs_Y_string="MORGAN v. RAMIREZ, WARDEN" standard_case="129010_1" X_vs_Y="129010_3" gram_type="pre_nom" relation_type="equivalence" id="129010_7" ></RELATION>
+
+<RELATION theme="129010_3" includes_docket_string="02-9161" includes_docket="129010_2" theme_string="MORGAN v. RAMIREZ, WARDEN" gram_type="apposition" relation_type="asymmetric" id="129010_10" ></RELATION>
+
+<RELATION theme="129010_3" party1="129010_4" party1_string="MORGAN" theme_string="MORGAN v. RAMIREZ, WARDEN" gram_type="infix" relation_type="asymmetric" id="129010_8" ></RELATION>
+
+<RELATION party2="129010_5" theme="129010_3" theme_string="MORGAN v. RAMIREZ, WARDEN" party2_string="RAMIREZ, WARDEN" gram_type="infix" relation_type="asymmetric" id="129010_9" ></RELATION>
+

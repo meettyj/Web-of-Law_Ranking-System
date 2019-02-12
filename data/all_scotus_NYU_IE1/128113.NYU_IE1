@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['mcleodjones#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_916" id1="128118" volume="538" start="0" page_number="916" standard_reporter="U.S." citation_global_level_id="1310.002" line="1" id="128113_1" citation_local_level_id="0" >538 U.S. 916</CITATION>
+
+<CITATION party2="WARDEN JONES" party1="McLEOD" citation_global_level_id="56216.001" party2_short="JONES" line="2" id="128113_2" alternative_keys="['u.s._538_916']" end="39" entry_type="party_key" lookup_key="mcleodjones#1" id1="128113" start="17" party1_short="McLEOD" citation_local_level_id="1" >McLEOD v. WARDEN JONES</CITATION>
+
+<NAME end="23" start="17" party1_of="128113_2" all_names="MCLEOD" local_name_id="1" id="128113_3" >McLEOD</NAME>
+
+<NAME end="39" start="27" all_names="WARDEN JONES" party2_of="128113_2" local_name_id="2" id="128113_4" >WARDEN JONES</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="mcleodjones#1" id1="128113" start="49" citation_global_level_id="56216.001" line="3" id="128113_7" citation_local_level_id="1" >02-7695</DOCKET>
+
+<ORGANIZATION start="62" end="92" id="128113_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="98" citation_global_level_id="56216.001" end="112" id="128113_9" citation_local_level_id="1" >March 10, 2003</DATE>
+
+<NAME start="134" local_name_id="3" end="142" id="128113_14" all_names="PETITION" >Petition</NAME>
+
+<CITATION end="179" reporter="U. S." entry_type="standard_key" lookup_key="u.s._537_1138" id1="126554" volume="537" start="165" page_number="1138" standard_reporter="U.S." citation_global_level_id="235.002" line="8" id="128113_13" citation_local_level_id="2" >537 U. S. 1138</CITATION>
+
+<RELATION theme="128113_2" party1="128113_3" party1_string="McLEOD" theme_string="McLEOD v. WARDEN JONES" gram_type="infix" relation_type="asymmetric" id="128113_5" ></RELATION>
+
+<RELATION party2="128113_4" theme="128113_2" theme_string="McLEOD v. WARDEN JONES" party2_string="WARDEN JONES" gram_type="infix" relation_type="asymmetric" id="128113_6" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 916" X_vs_Y_string="McLEOD v. WARDEN JONES" standard_case="128113_1" X_vs_Y="128113_2" gram_type="multi_line" relation_type="equivalence" id="128113_10" ></RELATION>
+
+<RELATION at_date_string="March 10, 2003" theme="128113_2" at_date="128113_9" theme_string="McLEOD v. WARDEN JONES" gram_type="multi_line" relation_type="asymmetric" id="128113_12" ></RELATION>
+
+<RELATION theme="128113_2" includes_docket_string="02-7695" includes_docket="128113_7" theme_string="McLEOD v. WARDEN JONES" gram_type="multi_line" relation_type="asymmetric" id="128113_11" ></RELATION>
+

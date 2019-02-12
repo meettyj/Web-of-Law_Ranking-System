@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['pizzastores#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._544_1044" id1="144773" volume="544" start="0" page_number="1044" standard_reporter="U.S." citation_global_level_id="1762.002" line="1" id="144774_1" citation_local_level_id="0" >544 U.S. 1044</CITATION>
+
+<CITATION party2="WAL-MART STORES, INC., ET AL" party1="LEONARDO'S PIZZA BY THE SLICE, INC., ET AL." citation_global_level_id="1762.009" party2_short="STORES" line="2" id="144774_2" alternative_keys="['u.s._544_1044']" end="93" entry_type="party_key" lookup_key="pizzastores#2" id1="144773" start="18" party1_short="PIZZA" citation_local_level_id="1" >LEONARDO'S PIZZA BY THE SLICE, INC., ET AL. v. WAL-MART STORES, INC., ET AL</CITATION>
+
+<NAME end="61" start="18" party1_of="144774_2" all_names="LEONARDO'S PIZZA BY THE SLICE INC" local_name_id="1" id="144774_3" >LEONARDO'S PIZZA BY THE SLICE, INC., ET AL.</NAME>
+
+<ORGANIZATION start="18" end="52" id="144774_5" >LEONARDO'S PIZZA BY THE SLICE, INC</ORGANIZATION>
+
+<NAME end="93" start="65" all_names="WAL-MART STORES INC" party2_of="144774_2" local_name_id="2" id="144774_4" >WAL-MART STORES, INC., ET AL</NAME>
+
+<ORGANIZATION start="65" end="85" id="144774_6" >WAL-MART STORES, INC</ORGANIZATION>
+
+<DOCKET alternative_keys="['u.s._544_1044']" end="110" entry_type="docket" lookup_key="pizzastores#2" id1="144773" start="103" citation_global_level_id="1762.009" line="3" id="144774_9" citation_local_level_id="1" >04-1339</DOCKET>
+
+<ORGANIZATION start="116" end="146" id="144774_10" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="152" citation_global_level_id="1762.009" end="164" id="144774_11" citation_local_level_id="1" >May 16, 2005</DATE>
+
+<NAME start="195" local_name_id="3" end="198" id="144774_16" all_names="CIR" >Cir</NAME>
+
+<CITATION end="326" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_396_96" id1="Dummy_File_207947" volume="396" start="314" page_number="96" standard_reporter="F.3D" citation_global_level_id="271797.001" line="8" id="144774_15" citation_local_level_id="2" >396 F. 3d 96</CITATION>
+
+<RELATION theme="144774_2" party1="144774_3" party1_string="LEONARDO'S PIZZA BY THE SLICE, INC., ET AL." theme_string="LEONARDO'S PIZZA BY THE SLICE, INC., ET AL. v. WAL-MART STORES, INC., ET AL" gram_type="infix" relation_type="asymmetric" id="144774_7" ></RELATION>
+
+<RELATION party2="144774_4" theme="144774_2" theme_string="LEONARDO'S PIZZA BY THE SLICE, INC., ET AL. v. WAL-MART STORES, INC., ET AL" party2_string="WAL-MART STORES, INC., ET AL" gram_type="infix" relation_type="asymmetric" id="144774_8" ></RELATION>
+
+<RELATION standard_case_string="544 U.S. 1044" X_vs_Y_string="LEONARDO'S PIZZA BY THE SLICE, INC., ET AL. v. WAL-MART STORES, INC., ET AL" standard_case="144774_1" X_vs_Y="144774_2" gram_type="multi_line" relation_type="equivalence" id="144774_12" ></RELATION>
+
+<RELATION at_date_string="May 16, 2005" theme="144774_2" at_date="144774_11" theme_string="LEONARDO'S PIZZA BY THE SLICE, INC., ET AL. v. WAL-MART STORES, INC., ET AL" gram_type="multi_line" relation_type="asymmetric" id="144774_14" ></RELATION>
+
+<RELATION theme="144774_2" includes_docket_string="04-1339" includes_docket="144774_9" theme_string="LEONARDO'S PIZZA BY THE SLICE, INC., ET AL. v. WAL-MART STORES, INC., ET AL" gram_type="multi_line" relation_type="asymmetric" id="144774_13" ></RELATION>
+

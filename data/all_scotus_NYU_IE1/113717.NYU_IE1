@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['cadlechasteen#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_865" id1="113717" volume="510" start="0" page_number="865" standard_reporter="U.S." citation_global_level_id="2528.002" line="1" id="113717_1" citation_local_level_id="0" >510 U.S. 865</CITATION>
+
+<CITATION party2="Chasteen et al" party1="Cadle Co. II, Inc." citation_global_level_id="2528.008" party2_short="Chasteen" line="1" id="113717_3" alternative_keys="['u.s._510_865']" end="53" entry_type="party_key" lookup_key="cadlechasteen#2" id1="113717" start="17" party1_short="Cadle" citation_local_level_id="1" >Cadle Co. II, Inc. v. Chasteen et al</CITATION>
+
+<NAME end="35" start="17" party1_of="113717_3" all_names="CADLE CO II INC" local_name_id="1" id="113717_4" >Cadle Co. II, Inc.</NAME>
+
+<ORGANIZATION start="17" end="29" id="113717_7" >Cadle Co. II</ORGANIZATION>
+
+<ORGANIZATION start="23" end="25" id="113717_8" >Co</ORGANIZATION>
+
+<ORGANIZATION start="31" end="34" id="113717_9" >Inc</ORGANIZATION>
+
+<NAME end="53" start="39" all_names="CHASTEEN" party2_of="113717_3" local_name_id="2" id="113717_5" >Chasteen et al</NAME>
+
+<DOCKET end="69" entry_type="docket" lookup_key="u.s._510_865" id1="113717" start="63" citation_global_level_id="2528.002" line="1" id="113717_2" citation_local_level_id="0" >93-119</DOCKET>
+
+<DATE start="111" end="126" id="113717_6" >October 4, 1993</DATE>
+
+<NAME start="205" local_name_id="3" end="215" id="113717_16" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="253" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_991_805" id1="Dummy_File_101540" volume="991" start="240" page_number="805" standard_reporter="F.2D" citation_global_level_id="165390.001" line="3" id="113717_15" citation_local_level_id="2" >991 F. 2d 805</CITATION>
+
+<RELATION theme="113717_1" includes_docket_string="93-119" includes_docket="113717_2" theme_string="510 U.S. 865" gram_type="apposition" relation_type="asymmetric" id="113717_14" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 865" X_vs_Y_string="Cadle Co. II, Inc. v. Chasteen et al" standard_case="113717_1" X_vs_Y="113717_3" gram_type="pre_nom" relation_type="equivalence" id="113717_10" ></RELATION>
+
+<RELATION theme="113717_3" includes_docket_string="93-119" includes_docket="113717_2" theme_string="Cadle Co. II, Inc. v. Chasteen et al" gram_type="apposition" relation_type="asymmetric" id="113717_13" ></RELATION>
+
+<RELATION theme="113717_3" party1="113717_4" party1_string="Cadle Co. II, Inc." theme_string="Cadle Co. II, Inc. v. Chasteen et al" gram_type="infix" relation_type="asymmetric" id="113717_11" ></RELATION>
+
+<RELATION party2="113717_5" theme="113717_3" theme_string="Cadle Co. II, Inc. v. Chasteen et al" party2_string="Chasteen et al" gram_type="infix" relation_type="asymmetric" id="113717_12" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['petersoncain#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1118" id1="126281" volume="537" start="0" page_number="1118" standard_reporter="U.S." citation_global_level_id="1287.002" line="1" id="126279_1" citation_local_level_id="0" >537 U.S. 1118</CITATION>
+
+<CITATION party2="CAIN, WARDEN" party1="PETERSON" citation_global_level_id="1287.004" party2_short="CAIN" line="1" id="126279_3" alternative_keys="['u.s._537_1118']" end="42" entry_type="party_key" lookup_key="petersoncain#1" id1="126281" start="18" party1_short="PETERSON" citation_local_level_id="1" >PETERSON v. CAIN, WARDEN</CITATION>
+
+<NAME end="26" start="18" party1_of="126279_3" all_names="PETERSON" local_name_id="1" id="126279_4" >PETERSON</NAME>
+
+<NAME end="42" start="30" all_names="CAIN WARDEN" party2_of="126279_3" local_name_id="2" id="126279_5" >CAIN, WARDEN</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="u.s._537_1118" id1="126281" start="52" citation_global_level_id="1287.002" line="1" id="126279_2" citation_local_level_id="0" >02-7035</DOCKET>
+
+<DATE start="101" end="117" id="126279_6" >January 13, 2003</DATE>
+
+<NAME start="246" local_name_id="3" end="249" id="126279_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="299" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_302_508" id1="Dummy_File_80087" volume="302" start="286" page_number="508" standard_reporter="F.3D" citation_global_level_id="143937.001" line="3" id="126279_12" citation_local_level_id="2" >302 F. 3d 508</CITATION>
+
+<RELATION theme="126279_1" includes_docket_string="02-7035" includes_docket="126279_2" theme_string="537 U.S. 1118" gram_type="apposition" relation_type="asymmetric" id="126279_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1118" X_vs_Y_string="PETERSON v. CAIN, WARDEN" standard_case="126279_1" X_vs_Y="126279_3" gram_type="pre_nom" relation_type="equivalence" id="126279_7" ></RELATION>
+
+<RELATION theme="126279_3" includes_docket_string="02-7035" includes_docket="126279_2" theme_string="PETERSON v. CAIN, WARDEN" gram_type="apposition" relation_type="asymmetric" id="126279_10" ></RELATION>
+
+<RELATION theme="126279_3" party1="126279_4" party1_string="PETERSON" theme_string="PETERSON v. CAIN, WARDEN" gram_type="infix" relation_type="asymmetric" id="126279_8" ></RELATION>
+
+<RELATION party2="126279_5" theme="126279_3" theme_string="PETERSON v. CAIN, WARDEN" party2_string="CAIN, WARDEN" gram_type="infix" relation_type="asymmetric" id="126279_9" ></RELATION>
+

@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['secretaryholdings#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._535_904" id1="118537" volume="535" start="0" page_number="904" standard_reporter="U.S." citation_global_level_id="3953.002" line="1" id="118530_1" citation_local_level_id="0" >535 U.S. 904</CITATION>
+
+<CITATION party2="WASTE MANAGEMENT HOLDINGS, INC., ET AL" party1="MURPHY, SECRETARY OF NATURAL RESOURCES OF VIRGINIA, ET AL." citation_global_level_id="3953.004" party2_short="HOLDINGS" line="2" id="118530_2" alternative_keys="['u.s._535_904']" end="117" entry_type="party_key" lookup_key="secretaryholdings#2" id1="118537" start="17" party1_short="SECRETARY" citation_local_level_id="1" >MURPHY, SECRETARY OF NATURAL RESOURCES OF VIRGINIA, ET AL. v. WASTE MANAGEMENT HOLDINGS, INC., ET AL</CITATION>
+
+<NAME end="75" start="17" party1_of="118530_2" all_names="MURPHY SECRETARY OF NATURAL RESOURCES OF VIRGINIA" local_name_id="1" id="118530_3" >MURPHY, SECRETARY OF NATURAL RESOURCES OF VIRGINIA, ET AL.</NAME>
+
+<PROFESSION start="25" end="67" id="118530_5" >SECRETARY OF NATURAL RESOURCES OF VIRGINIA</PROFESSION>
+
+<NAME end="117" start="79" all_names="WASTE MANAGEMENT HOLDINGS INC" party2_of="118530_2" local_name_id="2" id="118530_4" >WASTE MANAGEMENT HOLDINGS, INC., ET AL</NAME>
+
+<ORGANIZATION start="79" end="109" id="118530_6" >WASTE MANAGEMENT HOLDINGS, INC</ORGANIZATION>
+
+<DOCKET alternative_keys="['u.s._535_904']" end="133" entry_type="docket" lookup_key="secretaryholdings#2" id1="118537" start="127" citation_global_level_id="3953.004" line="3" id="118530_9" citation_local_level_id="1" >01-808</DOCKET>
+
+<DATE start="179" citation_global_level_id="3953.004" end="192" id="118530_10" citation_local_level_id="1" >March 4, 2002</DATE>
+
+<NAME start="224" local_name_id="3" end="227" id="118530_15" all_names="CIR" >Cir</NAME>
+
+<CITATION end="277" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_252_316" id1="Dummy_File_189997" volume="252" start="264" page_number="316" standard_reporter="F.3D" citation_global_level_id="253847.001" line="8" id="118530_14" citation_local_level_id="2" >252 F. 3d 316</CITATION>
+
+<RELATION theme="118530_2" party1="118530_3" party1_string="MURPHY, SECRETARY OF NATURAL RESOURCES OF VIRGINIA, ET AL." theme_string="MURPHY, SECRETARY OF NATURAL RESOURCES OF VIRGINIA, ET AL. v. WASTE MANAGEMENT HOLDINGS, INC., ET AL" gram_type="infix" relation_type="asymmetric" id="118530_7" ></RELATION>
+
+<RELATION party2="118530_4" theme="118530_2" theme_string="MURPHY, SECRETARY OF NATURAL RESOURCES OF VIRGINIA, ET AL. v. WASTE MANAGEMENT HOLDINGS, INC., ET AL" party2_string="WASTE MANAGEMENT HOLDINGS, INC., ET AL" gram_type="infix" relation_type="asymmetric" id="118530_8" ></RELATION>
+
+<RELATION standard_case_string="535 U.S. 904" X_vs_Y_string="MURPHY, SECRETARY OF NATURAL RESOURCES OF VIRGINIA, ET AL. v. WASTE MANAGEMENT HOLDINGS, INC., ET AL" standard_case="118530_1" X_vs_Y="118530_2" gram_type="multi_line" relation_type="equivalence" id="118530_11" ></RELATION>
+
+<RELATION at_date_string="March 4, 2002" theme="118530_2" at_date="118530_10" theme_string="MURPHY, SECRETARY OF NATURAL RESOURCES OF VIRGINIA, ET AL. v. WASTE MANAGEMENT HOLDINGS, INC., ET AL" gram_type="multi_line" relation_type="asymmetric" id="118530_13" ></RELATION>
+
+<RELATION theme="118530_2" includes_docket_string="01-808" includes_docket="118530_9" theme_string="MURPHY, SECRETARY OF NATURAL RESOURCES OF VIRGINIA, ET AL. v. WASTE MANAGEMENT HOLDINGS, INC., ET AL" gram_type="multi_line" relation_type="asymmetric" id="118530_12" ></RELATION>
+

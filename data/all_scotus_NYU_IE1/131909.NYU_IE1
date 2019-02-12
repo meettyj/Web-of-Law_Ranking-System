@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['bowmanvirginia#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_859" id1="131908" volume="540" start="0" page_number="859" standard_reporter="U.S." citation_global_level_id="3271.002" line="1" id="131909_1" citation_local_level_id="0" >540 U.S. 859</CITATION>
+
+<CITATION party2="VIRGINIA" party1="BOWMAN" citation_global_level_id="21231.001" party2_short="VIRGINIA" line="1" id="131909_3" alternative_keys="['u.s._540_859']" end="35" entry_type="party_key" lookup_key="bowmanvirginia#1" id1="131909" start="17" party1_short="BOWMAN" citation_local_level_id="1" >BOWMAN v. VIRGINIA</CITATION>
+
+<NAME end="23" start="17" party1_of="131909_3" all_names="BOWMAN" local_name_id="1" id="131909_4" >BOWMAN</NAME>
+
+<NAME end="35" start="27" all_names="VIRGINIA" party2_of="131909_3" local_name_id="2" id="131909_5" >VIRGINIA</NAME>
+
+<DOCKET end="53" entry_type="docket" lookup_key="u.s._540_859" id1="131908" start="45" citation_global_level_id="3271.002" line="1" id="131909_2" citation_local_level_id="0" >02-11185</DOCKET>
+
+<DATE start="95" end="110" id="131909_6" >October 6, 2003</DATE>
+
+<NAME start="186" local_name_id="3" end="196" id="131909_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="131909_1" includes_docket_string="02-11185" includes_docket="131909_2" theme_string="540 U.S. 859" gram_type="apposition" relation_type="asymmetric" id="131909_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 859" X_vs_Y_string="BOWMAN v. VIRGINIA" standard_case="131909_1" X_vs_Y="131909_3" gram_type="pre_nom" relation_type="equivalence" id="131909_7" ></RELATION>
+
+<RELATION theme="131909_3" includes_docket_string="02-11185" includes_docket="131909_2" theme_string="BOWMAN v. VIRGINIA" gram_type="apposition" relation_type="asymmetric" id="131909_10" ></RELATION>
+
+<RELATION theme="131909_3" party1="131909_4" party1_string="BOWMAN" theme_string="BOWMAN v. VIRGINIA" gram_type="infix" relation_type="asymmetric" id="131909_8" ></RELATION>
+
+<RELATION party2="131909_5" theme="131909_3" theme_string="BOWMAN v. VIRGINIA" party2_string="VIRGINIA" gram_type="infix" relation_type="asymmetric" id="131909_9" ></RELATION>
+

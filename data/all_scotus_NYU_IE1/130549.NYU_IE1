@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['robertsoncenter#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_932" id1="130549" volume="539" start="0" page_number="932" standard_reporter="U.S." citation_global_level_id="1003.002" line="1" id="130549_1" citation_local_level_id="0" >539 U.S. 932</CITATION>
+
+<CITATION party2="Louisiana State University Medical Center et al" party1="Robertson" citation_global_level_id="1003.003" party2_short="Center" line="1" id="130549_3" alternative_keys="['u.s._539_932']" end="77" entry_type="party_key" lookup_key="robertsoncenter#1" id1="130549" start="17" party1_short="Robertson" citation_local_level_id="1" >Robertson v. Louisiana State University Medical Center et al</CITATION>
+
+<NAME end="26" start="17" party1_of="130549_3" all_names="ROBERTSON" local_name_id="1" id="130549_4" >Robertson</NAME>
+
+<NAME end="77" start="30" all_names="LOUISIANA STATE UNIVERSITY MEDICAL CENTER" party2_of="130549_3" local_name_id="2" id="130549_5" >Louisiana State University Medical Center et al</NAME>
+
+<DOCKET end="95" entry_type="docket" lookup_key="u.s._539_932" id1="130549" start="87" citation_global_level_id="1003.002" line="1" id="130549_2" citation_local_level_id="0" >02-10292</DOCKET>
+
+<DATE start="137" end="150" id="130549_6" >June 16, 2003</DATE>
+
+<NAME start="228" local_name_id="3" end="238" id="130549_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="130549_1" includes_docket_string="02-10292" includes_docket="130549_2" theme_string="539 U.S. 932" gram_type="apposition" relation_type="asymmetric" id="130549_11" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 932" X_vs_Y_string="Robertson v. Louisiana State University Medical Center et al" standard_case="130549_1" X_vs_Y="130549_3" gram_type="pre_nom" relation_type="equivalence" id="130549_7" ></RELATION>
+
+<RELATION theme="130549_3" includes_docket_string="02-10292" includes_docket="130549_2" theme_string="Robertson v. Louisiana State University Medical Center et al" gram_type="apposition" relation_type="asymmetric" id="130549_10" ></RELATION>
+
+<RELATION theme="130549_3" party1="130549_4" party1_string="Robertson" theme_string="Robertson v. Louisiana State University Medical Center et al" gram_type="infix" relation_type="asymmetric" id="130549_8" ></RELATION>
+
+<RELATION party2="130549_5" theme="130549_3" theme_string="Robertson v. Louisiana State University Medical Center et al" party2_string="Louisiana State University Medical Center et al" gram_type="infix" relation_type="asymmetric" id="130549_9" ></RELATION>
+

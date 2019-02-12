@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['huntalabama#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1165" id1="126863" volume="537" start="0" page_number="1165" standard_reporter="U.S." citation_global_level_id="10069.002" line="1" id="126873_1" citation_local_level_id="0" >537 U.S. 1165</CITATION>
+
+<CITATION party2="ALABAMA" party1="HUNT" citation_global_level_id="11988.001" party2_short="ALABAMA" line="1" id="126873_3" alternative_keys="['u.s._537_1165']" end="33" entry_type="party_key" lookup_key="huntalabama#2" id1="126873" start="18" party1_short="HUNT" citation_local_level_id="1" >HUNT v. ALABAMA</CITATION>
+
+<NAME end="22" start="18" party1_of="126873_3" all_names="HUNT" local_name_id="1" id="126873_4" >HUNT</NAME>
+
+<NAME end="33" start="26" all_names="ALABAMA" party2_of="126873_3" local_name_id="2" id="126873_5" >ALABAMA</NAME>
+
+<DOCKET end="50" entry_type="docket" lookup_key="u.s._537_1165" id1="126863" start="43" citation_global_level_id="10069.002" line="1" id="126873_2" citation_local_level_id="0" >02-7797</DOCKET>
+
+<DATE start="92" end="108" id="126873_6" >January 21, 2003</DATE>
+
+<NAME start="211" local_name_id="3" end="213" id="126873_13" all_names="CT" >Ct</NAME>
+
+<CITATION end="281" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_854_1221" id1="Dummy_File_146815" volume="854" start="266" page_number="1221" standard_reporter="SO.2D" citation_global_level_id="210665.001" line="3" id="126873_12" citation_local_level_id="2" >854 So. 2d 1221</CITATION>
+
+<RELATION theme="126873_1" includes_docket_string="02-7797" includes_docket="126873_2" theme_string="537 U.S. 1165" gram_type="apposition" relation_type="asymmetric" id="126873_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1165" X_vs_Y_string="HUNT v. ALABAMA" standard_case="126873_1" X_vs_Y="126873_3" gram_type="pre_nom" relation_type="equivalence" id="126873_7" ></RELATION>
+
+<RELATION theme="126873_3" includes_docket_string="02-7797" includes_docket="126873_2" theme_string="HUNT v. ALABAMA" gram_type="apposition" relation_type="asymmetric" id="126873_10" ></RELATION>
+
+<RELATION theme="126873_3" party1="126873_4" party1_string="HUNT" theme_string="HUNT v. ALABAMA" gram_type="infix" relation_type="asymmetric" id="126873_8" ></RELATION>
+
+<RELATION party2="126873_5" theme="126873_3" theme_string="HUNT v. ALABAMA" party2_string="ALABAMA" gram_type="infix" relation_type="asymmetric" id="126873_9" ></RELATION>
+

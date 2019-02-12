@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['chronopouloswisconsin#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_830" id1="113252" volume="510" start="0" page_number="830" standard_reporter="U.S." citation_global_level_id="8595.002" line="1" id="113249_1" citation_local_level_id="0" >510 U.S. 830</CITATION>
+
+<CITATION party2="Wisconsin" party1="Chronopoulos" citation_global_level_id="63230.001" party2_short="Wisconsin" line="1" id="113249_3" alternative_keys="['u.s._510_830']" end="42" entry_type="party_key" lookup_key="chronopouloswisconsin#1" id1="113249" start="17" party1_short="Chronopoulos" citation_local_level_id="1" >Chronopoulos v. Wisconsin</CITATION>
+
+<NAME end="29" start="17" party1_of="113249_3" all_names="CHRONOPOULOS" local_name_id="1" id="113249_4" >Chronopoulos</NAME>
+
+<NAME end="42" start="33" all_names="WISCONSIN" party2_of="113249_3" local_name_id="2" id="113249_5" >Wisconsin</NAME>
+
+<DOCKET end="59" entry_type="docket" lookup_key="u.s._510_830" id1="113252" start="52" citation_global_level_id="8595.002" line="1" id="113249_2" citation_local_level_id="0" >92-8285</DOCKET>
+
+<DATE start="101" end="116" id="113249_6" >October 4, 1993</DATE>
+
+<NAME start="193" local_name_id="3" end="203" id="113249_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="261" reporter="N. W. 2d" entry_type="standard_key" no_current_file="True" lookup_key="n.w.2d_493_272" id1="Dummy_File_14260" volume="493" start="245" page_number="272" standard_reporter="N.W.2D" citation_global_level_id="78110.001" line="3" id="113249_12" citation_local_level_id="2" >493 N. W. 2d 272</CITATION>
+
+<RELATION theme="113249_1" includes_docket_string="92-8285" includes_docket="113249_2" theme_string="510 U.S. 830" gram_type="apposition" relation_type="asymmetric" id="113249_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 830" X_vs_Y_string="Chronopoulos v. Wisconsin" standard_case="113249_1" X_vs_Y="113249_3" gram_type="pre_nom" relation_type="equivalence" id="113249_7" ></RELATION>
+
+<RELATION theme="113249_3" includes_docket_string="92-8285" includes_docket="113249_2" theme_string="Chronopoulos v. Wisconsin" gram_type="apposition" relation_type="asymmetric" id="113249_10" ></RELATION>
+
+<RELATION theme="113249_3" party1="113249_4" party1_string="Chronopoulos" theme_string="Chronopoulos v. Wisconsin" gram_type="infix" relation_type="asymmetric" id="113249_8" ></RELATION>
+
+<RELATION party2="113249_5" theme="113249_3" theme_string="Chronopoulos v. Wisconsin" party2_string="Wisconsin" gram_type="infix" relation_type="asymmetric" id="113249_9" ></RELATION>
+

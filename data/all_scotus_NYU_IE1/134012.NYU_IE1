@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['taylorcain#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._540_1022" id1="134012" volume="540" start="0" page_number="1022" standard_reporter="U.S." citation_global_level_id="2507.002" line="1" id="134012_1" citation_local_level_id="0" >540 U.S. 1022</CITATION>
+
+<CITATION party2="CAIN, WARDEN" party1="TAYLOR" citation_global_level_id="2507.006" party2_short="CAIN" line="1" id="134012_3" alternative_keys="['u.s._540_1022']" end="40" entry_type="party_key" lookup_key="taylorcain#1" id1="134012" start="18" party1_short="TAYLOR" citation_local_level_id="1" >TAYLOR v. CAIN, WARDEN</CITATION>
+
+<NAME end="24" start="18" party1_of="134012_3" all_names="TAYLOR" local_name_id="1" id="134012_4" >TAYLOR</NAME>
+
+<NAME end="40" start="28" all_names="CAIN WARDEN" party2_of="134012_3" local_name_id="2" id="134012_5" >CAIN, WARDEN</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._540_1022" id1="134012" start="50" citation_global_level_id="2507.002" line="1" id="134012_2" citation_local_level_id="0" >03-6411</DOCKET>
+
+<DATE start="99" end="116" id="134012_6" >November 17, 2003</DATE>
+
+<NAME start="194" local_name_id="3" end="204" id="134012_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="134012_1" includes_docket_string="03-6411" includes_docket="134012_2" theme_string="540 U.S. 1022" gram_type="apposition" relation_type="asymmetric" id="134012_11" ></RELATION>
+
+<RELATION standard_case_string="540 U.S. 1022" X_vs_Y_string="TAYLOR v. CAIN, WARDEN" standard_case="134012_1" X_vs_Y="134012_3" gram_type="pre_nom" relation_type="equivalence" id="134012_7" ></RELATION>
+
+<RELATION theme="134012_3" includes_docket_string="03-6411" includes_docket="134012_2" theme_string="TAYLOR v. CAIN, WARDEN" gram_type="apposition" relation_type="asymmetric" id="134012_10" ></RELATION>
+
+<RELATION theme="134012_3" party1="134012_4" party1_string="TAYLOR" theme_string="TAYLOR v. CAIN, WARDEN" gram_type="infix" relation_type="asymmetric" id="134012_8" ></RELATION>
+
+<RELATION party2="134012_5" theme="134012_3" theme_string="TAYLOR v. CAIN, WARDEN" party2_string="CAIN, WARDEN" gram_type="infix" relation_type="asymmetric" id="134012_9" ></RELATION>
+

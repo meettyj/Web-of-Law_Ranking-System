@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['sinkfieldohio#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_865" id1="123073" volume="537" start="0" page_number="865" standard_reporter="U.S." citation_global_level_id="16084.002" line="1" id="123064_1" citation_local_level_id="0" >537 U.S. 865</CITATION>
+
+<CITATION party2="OHIO" party1="SINKFIELD" citation_global_level_id="52237.001" party2_short="OHIO" line="1" id="123064_3" alternative_keys="['u.s._537_865']" end="34" entry_type="party_key" lookup_key="sinkfieldohio#1" id1="123064" start="17" party1_short="SINKFIELD" citation_local_level_id="1" >SINKFIELD v. OHIO</CITATION>
+
+<NAME end="26" start="17" party1_of="123064_3" all_names="SINKFIELD" local_name_id="1" id="123064_4" >SINKFIELD</NAME>
+
+<NAME end="34" start="30" all_names="OHIO" party2_of="123064_3" local_name_id="2" id="123064_5" >OHIO</NAME>
+
+<DOCKET end="52" entry_type="docket" lookup_key="u.s._537_865" id1="123073" start="44" citation_global_level_id="16084.002" line="1" id="123064_2" citation_local_level_id="0" >01-10813</DOCKET>
+
+<DATE start="94" end="109" id="123064_6" >October 7, 2002</DATE>
+
+<NAME start="219" local_name_id="3" end="221" id="123064_12" all_names="CT" >Ct</NAME>
+
+<RELATION theme="123064_1" includes_docket_string="01-10813" includes_docket="123064_2" theme_string="537 U.S. 865" gram_type="apposition" relation_type="asymmetric" id="123064_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 865" X_vs_Y_string="SINKFIELD v. OHIO" standard_case="123064_1" X_vs_Y="123064_3" gram_type="pre_nom" relation_type="equivalence" id="123064_7" ></RELATION>
+
+<RELATION theme="123064_3" includes_docket_string="01-10813" includes_docket="123064_2" theme_string="SINKFIELD v. OHIO" gram_type="apposition" relation_type="asymmetric" id="123064_10" ></RELATION>
+
+<RELATION theme="123064_3" party1="123064_4" party1_string="SINKFIELD" theme_string="SINKFIELD v. OHIO" gram_type="infix" relation_type="asymmetric" id="123064_8" ></RELATION>
+
+<RELATION party2="123064_5" theme="123064_3" theme_string="SINKFIELD v. OHIO" party2_string="OHIO" gram_type="infix" relation_type="asymmetric" id="123064_9" ></RELATION>
+

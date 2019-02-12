@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['ardisalabama#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1174" id1="126970" volume="537" start="0" page_number="1174" standard_reporter="U.S." citation_global_level_id="307.002" line="1" id="126973_1" citation_local_level_id="0" >537 U.S. 1174</CITATION>
+
+<CITATION party2="ALABAMA" party1="ARDIS" citation_global_level_id="13485.001" party2_short="ALABAMA" line="1" id="126973_3" alternative_keys="['u.s._537_1174']" end="34" entry_type="party_key" lookup_key="ardisalabama#1" id1="126973" start="18" party1_short="ARDIS" citation_local_level_id="1" >ARDIS v. ALABAMA</CITATION>
+
+<NAME end="23" start="18" party1_of="126973_3" all_names="ARDIS" local_name_id="1" id="126973_4" >ARDIS</NAME>
+
+<NAME end="34" start="27" all_names="ALABAMA" party2_of="126973_3" local_name_id="2" id="126973_5" >ALABAMA</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="u.s._537_1174" id1="126970" start="44" citation_global_level_id="307.002" line="1" id="126973_2" citation_local_level_id="0" >02-7617</DOCKET>
+
+<DATE start="93" end="109" id="126973_6" >January 27, 2003</DATE>
+
+<NAME start="212" local_name_id="3" end="214" id="126973_13" all_names="CT" >Ct</NAME>
+
+<CITATION end="281" reporter="So. 2d" entry_type="standard_key" no_current_file="True" lookup_key="so.2d_860_916" id1="Dummy_File_124410" volume="860" start="267" page_number="916" standard_reporter="SO.2D" citation_global_level_id="188260.001" line="3" id="126973_12" citation_local_level_id="2" >860 So. 2d 916</CITATION>
+
+<RELATION theme="126973_1" includes_docket_string="02-7617" includes_docket="126973_2" theme_string="537 U.S. 1174" gram_type="apposition" relation_type="asymmetric" id="126973_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1174" X_vs_Y_string="ARDIS v. ALABAMA" standard_case="126973_1" X_vs_Y="126973_3" gram_type="pre_nom" relation_type="equivalence" id="126973_7" ></RELATION>
+
+<RELATION theme="126973_3" includes_docket_string="02-7617" includes_docket="126973_2" theme_string="ARDIS v. ALABAMA" gram_type="apposition" relation_type="asymmetric" id="126973_10" ></RELATION>
+
+<RELATION theme="126973_3" party1="126973_4" party1_string="ARDIS" theme_string="ARDIS v. ALABAMA" gram_type="infix" relation_type="asymmetric" id="126973_8" ></RELATION>
+
+<RELATION party2="126973_5" theme="126973_3" theme_string="ARDIS v. ALABAMA" party2_string="ALABAMA" gram_type="infix" relation_type="asymmetric" id="126973_9" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['marlowestates#2']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_915" id1="114366" volume="510" start="0" page_number="915" standard_reporter="U.S." citation_global_level_id="7456.002" line="1" id="114358_1" citation_local_level_id="0" >510 U.S. 915</CITATION>
+
+<CITATION party2="United States" party1="Marlowe" citation_global_level_id="60156.001" party2_short="States" line="1" id="114358_3" alternative_keys="['u.s._510_915']" end="41" entry_type="party_key" lookup_key="marlowestates#2" id1="114358" start="17" party1_short="Marlowe" citation_local_level_id="1" >Marlowe v. United States</CITATION>
+
+<NAME end="24" start="17" party1_of="114358_3" all_names="MARLOWE" local_name_id="1" id="114358_4" >Marlowe</NAME>
+
+<NAME end="41" start="28" all_names="UNITED STATES" party2_of="114358_3" local_name_id="2" id="114358_5" >United States</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._510_915" id1="114366" start="51" citation_global_level_id="7456.002" line="1" id="114358_2" citation_local_level_id="0" >93-244</DOCKET>
+
+<DATE start="99" end="115" id="114358_6" >October 12, 1993</DATE>
+
+<NAME start="193" local_name_id="3" end="203" id="114358_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="242" reporter="F. 2d" entry_type="standard_key" no_current_file="True" lookup_key="f.2d_993_1548" id1="Dummy_File_49398" volume="993" start="228" page_number="1548" standard_reporter="F.2D" citation_global_level_id="113248.001" line="3" id="114358_12" citation_local_level_id="2" >993 F. 2d 1548</CITATION>
+
+<RELATION theme="114358_1" includes_docket_string="93-244" includes_docket="114358_2" theme_string="510 U.S. 915" gram_type="apposition" relation_type="asymmetric" id="114358_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 915" X_vs_Y_string="Marlowe v. United States" standard_case="114358_1" X_vs_Y="114358_3" gram_type="pre_nom" relation_type="equivalence" id="114358_7" ></RELATION>
+
+<RELATION theme="114358_3" includes_docket_string="93-244" includes_docket="114358_2" theme_string="Marlowe v. United States" gram_type="apposition" relation_type="asymmetric" id="114358_10" ></RELATION>
+
+<RELATION theme="114358_3" party1="114358_4" party1_string="Marlowe" theme_string="Marlowe v. United States" gram_type="infix" relation_type="asymmetric" id="114358_8" ></RELATION>
+
+<RELATION party2="114358_5" theme="114358_3" theme_string="Marlowe v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="114358_9" ></RELATION>
+

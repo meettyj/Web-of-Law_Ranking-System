@@ -1,0 +1,70 @@
+<CITATION alternative_keys="['commissionmcconnell#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._539_939" id1="130628" volume="539" start="0" page_number="939" standard_reporter="U.S." citation_global_level_id="3025.002" line="1" id="130637_1" citation_local_level_id="0" >539 U.S. 939</CITATION>
+
+<CITATION party2="McConnell, United States Senator, et al" party1="Federal Election Commission et al." citation_global_level_id="2726.008" party2_short="McConnell" line="1" id="130637_3" alternative_keys="['u.s._539_979', 'u.s._539_974', 'u.s._539_939', 'u.s._539_981', 'u.s._539_912']" end="94" no_current_file="True" entry_type="party_key" lookup_key="commissionmcconnell#1" id1="130304" start="17" party1_short="Commission" citation_local_level_id="1" >Federal Election Commission et al. v. McConnell, United States Senator, et al</CITATION>
+
+<NAME end="51" start="17" party1_of="130637_3" all_names="FEDERAL ELECTION COMMISSION" local_name_id="1" id="130637_4" >Federal Election Commission et al.</NAME>
+
+<ORGANIZATION start="17" end="44" id="130637_7" >Federal Election Commission</ORGANIZATION>
+
+<NAME end="94" start="55" all_names="MCCONNELL UNITED STATES SENATOR" party2_of="130637_3" local_name_id="2" id="130637_5" >McConnell, United States Senator, et al</NAME>
+
+<PROFESSION start="66" end="87" id="130637_8" >United States Senator</PROFESSION>
+
+<DOCKET end="111" entry_type="docket" lookup_key="u.s._539_939" id1="130628" start="104" citation_global_level_id="3025.002" line="1" id="130637_2" citation_local_level_id="0" >02-1676</DOCKET>
+
+<ORGANIZATION start="117" end="147" id="130637_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="153" end="166" id="130637_6" >June 19, 2003</DATE>
+
+<NAME start="188" local_name_id="3" end="214" id="130637_10" all_names="APPEAL FROM THE D C D C" >Appeal from the D. C. D. C</NAME>
+
+<NAME start="217" local_name_id="4" end="225" id="130637_11" all_names="PROBABLE" >Probable</NAME>
+
+<NAME start="286" local_name_id="5" end="292" id="130637_24" all_names="BRIEFS" >Briefs</NAME>
+
+<LEGAL_ROLE start="317" end="327" plural="True" id="130637_25" >plaintiffs</LEGAL_ROLE>
+
+<ORGANIZATION start="335" end="349" id="130637_26" >District Court</ORGANIZATION>
+
+<LEGAL_ROLE start="451" end="461" plural="True" id="130637_27" >plaintiffs</LEGAL_ROLE>
+
+<DOCKET entry_type="docket" line="3" end="476" id="130637_17" start="469" >02-1674</DOCKET>
+
+<LEGAL_ROLE start="551" end="561" plural="True" id="130637_28" >plaintiffs</LEGAL_ROLE>
+
+<DOCKET entry_type="docket" line="3" end="577" id="130637_18" start="570" >02-1727</DOCKET>
+
+<DATE start="573" end="577" id="130637_21" >1727</DATE>
+
+<DOCKET entry_type="docket" line="3" end="586" id="130637_19" start="579" >02-1733</DOCKET>
+
+<DATE start="582" end="586" id="130637_22" >1733</DATE>
+
+<DOCKET entry_type="docket" line="3" end="595" id="130637_20" start="588" >02-1753</DOCKET>
+
+<DATE start="591" end="595" id="130637_23" >1753</DATE>
+
+<PROFESSION start="663" end="680" id="130637_29" >Solicitor General</PROFESSION>
+
+<RELATION theme="130637_1" includes_docket_string="02-1676" includes_docket="130637_2" theme_string="539 U.S. 939" gram_type="apposition" relation_type="asymmetric" id="130637_16" ></RELATION>
+
+<RELATION standard_case_string="539 U.S. 939" X_vs_Y_string="Federal Election Commission et al. v. McConnell, United States Senator, et al" standard_case="130637_1" X_vs_Y="130637_3" gram_type="pre_nom" relation_type="equivalence" id="130637_12" ></RELATION>
+
+<RELATION theme="130637_3" includes_docket_string="02-1676" includes_docket="130637_2" theme_string="Federal Election Commission et al. v. McConnell, United States Senator, et al" gram_type="apposition" relation_type="asymmetric" id="130637_15" ></RELATION>
+
+<RELATION theme="130637_3" party1="130637_4" party1_string="Federal Election Commission et al." theme_string="Federal Election Commission et al. v. McConnell, United States Senator, et al" gram_type="infix" relation_type="asymmetric" id="130637_13" ></RELATION>
+
+<RELATION party2="130637_5" theme="130637_3" theme_string="Federal Election Commission et al. v. McConnell, United States Senator, et al" party2_string="McConnell, United States Senator, et al" gram_type="infix" relation_type="asymmetric" id="130637_14" ></RELATION>
+
+<RELATION at_date_string="1727" theme="130637_18" at_date="130637_21" theme_string="02-1727" gram_type="infix" relation_type="asymmetric" id="130637_30" ></RELATION>
+
+<RELATION at_date_string="1727" theme="130637_20" at_date="130637_21" theme_string="02-1753" gram_type="indirect_infix" relation_type="asymmetric" id="130637_33" ></RELATION>
+
+<RELATION at_date_string="1727" theme="130637_19" at_date="130637_21" theme_string="02-1733" gram_type="indirect_infix" relation_type="asymmetric" id="130637_31" ></RELATION>
+
+<RELATION at_date_string="1733" theme="130637_19" at_date="130637_22" theme_string="02-1733" gram_type="infix" relation_type="asymmetric" id="130637_32" ></RELATION>
+
+<RELATION at_date_string="1733" theme="130637_20" at_date="130637_22" theme_string="02-1753" gram_type="indirect_infix" relation_type="asymmetric" id="130637_34" ></RELATION>
+
+<RELATION at_date_string="1753" theme="130637_20" at_date="130637_23" theme_string="02-1753" gram_type="infix" relation_type="asymmetric" id="130637_35" ></RELATION>
+

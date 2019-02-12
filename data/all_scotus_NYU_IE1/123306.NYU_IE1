@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['kostermichigan#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_883" id1="123308" volume="537" start="0" page_number="883" standard_reporter="U.S." citation_global_level_id="3433.002" line="1" id="123306_1" citation_local_level_id="0" >537 U.S. 883</CITATION>
+
+<CITATION party2="MICHIGAN" party1="KOSTER" citation_global_level_id="12413.001" party2_short="MICHIGAN" line="1" id="123306_3" alternative_keys="['u.s._537_883']" end="35" entry_type="party_key" lookup_key="kostermichigan#1" id1="123306" start="17" party1_short="KOSTER" citation_local_level_id="1" >KOSTER v. MICHIGAN</CITATION>
+
+<NAME end="23" start="17" party1_of="123306_3" all_names="KOSTER" local_name_id="1" id="123306_4" >KOSTER</NAME>
+
+<NAME end="35" start="27" all_names="MICHIGAN" party2_of="123306_3" local_name_id="2" id="123306_5" >MICHIGAN</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="u.s._537_883" id1="123308" start="45" citation_global_level_id="3433.002" line="1" id="123306_2" citation_local_level_id="0" >02-100</DOCKET>
+
+<DATE start="93" end="108" id="123306_6" >October 7, 2002</DATE>
+
+<NAME start="218" local_name_id="3" end="221" id="123306_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="123306_1" includes_docket_string="02-100" includes_docket="123306_2" theme_string="537 U.S. 883" gram_type="apposition" relation_type="asymmetric" id="123306_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 883" X_vs_Y_string="KOSTER v. MICHIGAN" standard_case="123306_1" X_vs_Y="123306_3" gram_type="pre_nom" relation_type="equivalence" id="123306_7" ></RELATION>
+
+<RELATION theme="123306_3" includes_docket_string="02-100" includes_docket="123306_2" theme_string="KOSTER v. MICHIGAN" gram_type="apposition" relation_type="asymmetric" id="123306_10" ></RELATION>
+
+<RELATION theme="123306_3" party1="123306_4" party1_string="KOSTER" theme_string="KOSTER v. MICHIGAN" gram_type="infix" relation_type="asymmetric" id="123306_8" ></RELATION>
+
+<RELATION party2="123306_5" theme="123306_3" theme_string="KOSTER v. MICHIGAN" party2_string="MICHIGAN" gram_type="infix" relation_type="asymmetric" id="123306_9" ></RELATION>
+

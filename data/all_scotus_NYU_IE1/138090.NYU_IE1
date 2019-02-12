@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['griermoore#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_828" id1="138092" volume="543" start="0" page_number="828" standard_reporter="U.S." citation_global_level_id="15468.002" line="1" id="138090_1" citation_local_level_id="0" >543 U.S. 828</CITATION>
+
+<CITATION party2="MOORE, ADMINISTRATOR, EAST JERSEY STATE PRISON, ET AL" party1="GRIER" citation_global_level_id="15468.004" party2_short="MOORE" line="2" id="138090_2" alternative_keys="['u.s._543_828']" end="79" entry_type="party_key" lookup_key="griermoore#1" id1="138092" start="17" party1_short="GRIER" citation_local_level_id="1" >GRIER v. MOORE, ADMINISTRATOR, EAST JERSEY STATE PRISON, ET AL</CITATION>
+
+<NAME end="22" start="17" party1_of="138090_2" all_names="GRIER" local_name_id="1" id="138090_3" >GRIER</NAME>
+
+<NAME end="79" start="26" all_names="MOORE ADMINISTRATOR EAST JERSEY STATE PRISON" party2_of="138090_2" local_name_id="2" id="138090_4" >MOORE, ADMINISTRATOR, EAST JERSEY STATE PRISON, ET AL</NAME>
+
+<DOCKET alternative_keys="['u.s._543_828']" end="97" entry_type="docket" lookup_key="griermoore#1" id1="138092" start="89" citation_global_level_id="15468.004" line="3" id="138090_7" citation_local_level_id="1" >03-10214</DOCKET>
+
+<ORGANIZATION start="103" end="133" id="138090_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="139" citation_global_level_id="15468.004" end="154" id="138090_9" citation_local_level_id="1" >October 4, 2004</DATE>
+
+<NAME start="185" local_name_id="3" end="188" id="138090_13" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="138090_2" party1="138090_3" party1_string="GRIER" theme_string="GRIER v. MOORE, ADMINISTRATOR, EAST JERSEY STATE PRISON, ET AL" gram_type="infix" relation_type="asymmetric" id="138090_5" ></RELATION>
+
+<RELATION party2="138090_4" theme="138090_2" theme_string="GRIER v. MOORE, ADMINISTRATOR, EAST JERSEY STATE PRISON, ET AL" party2_string="MOORE, ADMINISTRATOR, EAST JERSEY STATE PRISON, ET AL" gram_type="infix" relation_type="asymmetric" id="138090_6" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 828" X_vs_Y_string="GRIER v. MOORE, ADMINISTRATOR, EAST JERSEY STATE PRISON, ET AL" standard_case="138090_1" X_vs_Y="138090_2" gram_type="multi_line" relation_type="equivalence" id="138090_10" ></RELATION>
+
+<RELATION at_date_string="October 4, 2004" theme="138090_2" at_date="138090_9" theme_string="GRIER v. MOORE, ADMINISTRATOR, EAST JERSEY STATE PRISON, ET AL" gram_type="multi_line" relation_type="asymmetric" id="138090_12" ></RELATION>
+
+<RELATION theme="138090_2" includes_docket_string="03-10214" includes_docket="138090_7" theme_string="GRIER v. MOORE, ADMINISTRATOR, EAST JERSEY STATE PRISON, ET AL" gram_type="multi_line" relation_type="asymmetric" id="138090_11" ></RELATION>
+

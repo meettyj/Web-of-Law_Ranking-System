@@ -1,0 +1,30 @@
+<CITATION alternative_keys="['mendoncawintersen#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_820" id1="122477" volume="537" start="0" page_number="820" standard_reporter="U.S." citation_global_level_id="7436.002" line="1" id="122488_1" citation_local_level_id="0" >537 U.S. 820</CITATION>
+
+<CITATION party2="WINTERSEN" party1="MENDONCA" citation_global_level_id="11202.001" party2_short="WINTERSEN" line="1" id="122488_3" alternative_keys="['u.s._537_820']" end="38" entry_type="party_key" lookup_key="mendoncawintersen#1" id1="122488" start="17" party1_short="MENDONCA" citation_local_level_id="1" >MENDONCA v. WINTERSEN</CITATION>
+
+<NAME end="25" start="17" party1_of="122488_3" all_names="MENDONCA" local_name_id="1" id="122488_4" >MENDONCA</NAME>
+
+<NAME end="38" start="29" all_names="WINTERSEN" party2_of="122488_3" local_name_id="2" id="122488_5" >WINTERSEN</NAME>
+
+<DOCKET end="55" entry_type="docket" lookup_key="u.s._537_820" id1="122477" start="48" citation_global_level_id="7436.002" line="1" id="122488_2" citation_local_level_id="0" >01-1760</DOCKET>
+
+<DATE start="51" end="55" id="122488_6" >1760</DATE>
+
+<DATE start="97" end="112" id="122488_7" >October 7, 2002</DATE>
+
+<NAME start="231" local_name_id="3" end="244" id="122488_14" all_names="C A 1ST CIR" >C. A. 1st Cir</NAME>
+
+<NAME start="246" local_name_id="4" end="256" id="122488_15" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="122488_1" includes_docket_string="01-1760" includes_docket="122488_2" theme_string="537 U.S. 820" gram_type="apposition" relation_type="asymmetric" id="122488_12" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 820" X_vs_Y_string="MENDONCA v. WINTERSEN" standard_case="122488_1" X_vs_Y="122488_3" gram_type="pre_nom" relation_type="equivalence" id="122488_8" ></RELATION>
+
+<RELATION theme="122488_3" includes_docket_string="01-1760" includes_docket="122488_2" theme_string="MENDONCA v. WINTERSEN" gram_type="apposition" relation_type="asymmetric" id="122488_11" ></RELATION>
+
+<RELATION party2="122488_5" theme="122488_3" theme_string="MENDONCA v. WINTERSEN" party2_string="WINTERSEN" gram_type="infix" relation_type="asymmetric" id="122488_10" ></RELATION>
+
+<RELATION theme="122488_3" party1="122488_4" party1_string="MENDONCA" theme_string="MENDONCA v. WINTERSEN" gram_type="infix" relation_type="asymmetric" id="122488_9" ></RELATION>
+
+<RELATION at_date_string="1760" theme="122488_2" at_date="122488_6" theme_string="01-1760" gram_type="infix" relation_type="asymmetric" id="122488_13" ></RELATION>
+

@@ -1,0 +1,32 @@
+<CITATION alternative_keys="['looptrustee#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._543_1055" id1="141000" volume="543" start="0" page_number="1055" standard_reporter="U.S." citation_global_level_id="14785.002" line="1" id="141006_1" citation_local_level_id="0" >543 U.S. 1055</CITATION>
+
+<CITATION party2="UNITED STATES TRUSTEE" party1="LOOP CORP. ET AL." citation_global_level_id="40449.001" party2_short="TRUSTEE" line="2" id="141006_2" alternative_keys="['u.s._543_1055']" end="60" entry_type="party_key" lookup_key="looptrustee#1" id1="141006" start="18" party1_short="LOOP" citation_local_level_id="1" >LOOP CORP. ET AL. v. UNITED STATES TRUSTEE</CITATION>
+
+<NAME end="35" start="18" party1_of="141006_2" all_names="LOOP CORP" local_name_id="1" id="141006_3" >LOOP CORP. ET AL.</NAME>
+
+<NAME start="18" local_name_id="1" end="34" id="141006_5" all_names="LOOP CORP" >LOOP CORP. ET AL</NAME>
+
+<ORGANIZATION start="23" end="27" id="141006_6" >CORP</ORGANIZATION>
+
+<NAME end="60" start="39" all_names="UNITED STATES TRUSTEE" party2_of="141006_2" local_name_id="2" id="141006_4" >UNITED STATES TRUSTEE</NAME>
+
+<DOCKET end="76" entry_type="docket" lookup_key="looptrustee#1" id1="141006" start="70" citation_global_level_id="40449.001" line="3" id="141006_9" citation_local_level_id="1" >04-664</DOCKET>
+
+<ORGANIZATION start="82" end="112" id="141006_10" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="118" citation_global_level_id="40449.001" end="134" id="141006_11" citation_local_level_id="1" >January 10, 2005</DATE>
+
+<NAME start="166" local_name_id="3" end="169" id="141006_16" all_names="CIR" >Cir</NAME>
+
+<CITATION end="219" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_379_511" id1="Dummy_File_131435" volume="379" start="206" page_number="511" standard_reporter="F.3D" citation_global_level_id="195285.001" line="8" id="141006_15" citation_local_level_id="2" >379 F. 3d 511</CITATION>
+
+<RELATION theme="141006_2" party1="141006_3" party1_string="LOOP CORP. ET AL." theme_string="LOOP CORP. ET AL. v. UNITED STATES TRUSTEE" gram_type="infix" relation_type="asymmetric" id="141006_7" ></RELATION>
+
+<RELATION party2="141006_4" theme="141006_2" theme_string="LOOP CORP. ET AL. v. UNITED STATES TRUSTEE" party2_string="UNITED STATES TRUSTEE" gram_type="infix" relation_type="asymmetric" id="141006_8" ></RELATION>
+
+<RELATION standard_case_string="543 U.S. 1055" X_vs_Y_string="LOOP CORP. ET AL. v. UNITED STATES TRUSTEE" standard_case="141006_1" X_vs_Y="141006_2" gram_type="multi_line" relation_type="equivalence" id="141006_12" ></RELATION>
+
+<RELATION at_date_string="January 10, 2005" theme="141006_2" at_date="141006_11" theme_string="LOOP CORP. ET AL. v. UNITED STATES TRUSTEE" gram_type="multi_line" relation_type="asymmetric" id="141006_14" ></RELATION>
+
+<RELATION theme="141006_2" includes_docket_string="04-664" includes_docket="141006_9" theme_string="LOOP CORP. ET AL. v. UNITED STATES TRUSTEE" gram_type="multi_line" relation_type="asymmetric" id="141006_13" ></RELATION>
+

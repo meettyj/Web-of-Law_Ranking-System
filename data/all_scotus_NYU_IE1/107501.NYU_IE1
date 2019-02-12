@@ -1,0 +1,54 @@
+<CITATION alternative_keys="['burkardyork#1', 's.ct._87_2104', 'l.ed.2d_18_1313']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._388_451" id1="107501" volume="388" start="0" page_number="451" standard_reporter="U.S." citation_global_level_id="21961.002" line="1" id="107501_1" citation_local_level_id="0" >388 U.S. 451</CITATION>
+
+<CITATION alternative_keys="['u.s._388_451', 'burkardyork#1', 'l.ed.2d_18_1313']" end="31" reporter="S. Ct." entry_type="standard_key" lookup_key="s.ct._87_2104" id1="107501" volume="87" start="17" page_number="2104" standard_reporter="S.CT." citation_global_level_id="21961.003" line="2" id="107501_2" citation_local_level_id="1" >87 S. Ct. 2104</CITATION>
+
+<CITATION alternative_keys="['u.s._388_451', 's.ct._87_2104', 'burkardyork#1']" end="53" reporter="L. Ed. 2d" entry_type="standard_key" lookup_key="l.ed.2d_18_1313" id1="107501" volume="18" start="36" page_number="1313" standard_reporter="L.ED.2D" citation_global_level_id="21961.004" line="3" id="107501_3" citation_local_level_id="2" >18 L. Ed. 2d 1313</CITATION>
+
+<CITATION party2="NEW YORK" party1="Kenneth BURKARD et al." citation_global_level_id="21961.001" party2_short="YORK" line="4" id="107501_4" alternative_keys="['u.s._388_451', 's.ct._87_2104', 'l.ed.2d_18_1313']" end="92" entry_type="party_key" lookup_key="burkardyork#1" id1="107501" start="58" party1_short="BURKARD" citation_local_level_id="3" >Kenneth BURKARD et al. v. NEW YORK</CITATION>
+
+<NAME end="80" start="58" party1_of="107501_4" all_names="KENNETH BURKARD" local_name_id="1" id="107501_5" >Kenneth BURKARD et al.</NAME>
+
+<NAME end="92" start="84" all_names="NEW YORK" party2_of="107501_4" local_name_id="2" id="107501_6" >NEW YORK</NAME>
+
+<NAME start="118" local_name_id="3" end="129" id="107501_12" all_names="HENRY HABEL" >Henry HABEL</NAME>
+
+<NAME start="152" local_name_id="2" end="160" id="107501_13" all_names="NEW YORK" >NEW YORK</NAME>
+
+<ORGANIZATION start="183" end="228" id="107501_14" >Appeals from the Court of Appeals of New York</ORGANIZATION>
+
+<NAME start="236" local_name_id="4" end="253" id="107501_15" all_names="VICTOR RABINOWITZ" >Victor Rabinowitz</NAME>
+
+<LEGAL_ROLE end="311" name="Victor Rabinowitz" start="255" local_name_id="4" plural="True" id="107501_16" >Leonard B. Boudin and Samuel A. Neuberger for appellants</LEGAL_ROLE>
+
+<NAME start="312" local_name_id="1" end="327" id="107501_17" all_names="KENNETH BURKARD" >Kenneth Burkard</NAME>
+
+<LEGAL_ROLE end="406" name="Henry Habel" start="346" local_name_id="3" plural="True" id="107501_20" >Edward Bennett Williams and Raymond W. Bergan for appellants</LEGAL_ROLE>
+
+<NAME start="407" local_name_id="3" end="418" id="107501_21" all_names="HENRY HABEL" >Henry Habel</NAME>
+
+<NAME start="437" local_name_id="5" end="451" id="107501_23" all_names="FRANK S HOGAN" >Frank S. Hogan</NAME>
+
+<LEGAL_ROLE start="457" end="465" id="107501_24" party="party2" >appellee</LEGAL_ROLE>
+
+<NAME start="473" local_name_id="6" end="477" id="107501_26" all_names="JUNE" >June</NAME>
+
+<DATE start="482" end="486" id="107501_25" >1967</DATE>
+
+<NAME start="498" local_name_id="7" end="504" id="107501_27" all_names="CURIAM" >CURIAM</NAME>
+
+<RELATION theme="107501_4" party1="107501_5" party1_string="Kenneth BURKARD et al." theme_string="Kenneth BURKARD et al. v. NEW YORK" gram_type="infix" relation_type="asymmetric" id="107501_7" ></RELATION>
+
+<RELATION party2="107501_6" theme="107501_4" theme_string="Kenneth BURKARD et al. v. NEW YORK" party2_string="NEW YORK" gram_type="infix" relation_type="asymmetric" id="107501_8" ></RELATION>
+
+<RELATION standard_case_string="388 U.S. 451" X_vs_Y_string="Kenneth BURKARD et al. v. NEW YORK" standard_case="107501_1" X_vs_Y="107501_4" gram_type="multi_line" relation_type="equivalence" id="107501_9" ></RELATION>
+
+<RELATION standard_case_string="87 S. Ct. 2104" X_vs_Y_string="Kenneth BURKARD et al. v. NEW YORK" standard_case="107501_2" X_vs_Y="107501_4" gram_type="multi_line" relation_type="equivalence" id="107501_10" ></RELATION>
+
+<RELATION standard_case_string="18 L. Ed. 2d 1313" X_vs_Y_string="Kenneth BURKARD et al. v. NEW YORK" standard_case="107501_3" X_vs_Y="107501_4" gram_type="multi_line" relation_type="equivalence" id="107501_11" ></RELATION>
+
+<RELATION theme="107501_15" legal_role="107501_16" id="107501_18" theme_string="Victor Rabinowitz" gram_type="apposition" relation_type="asymmetric" legal_role_string="Leonard B. Boudin and Samuel A. Neuberger for appellants" ></RELATION>
+
+<RELATION theme="107501_17" legal_role="107501_16" id="107501_19" theme_string="Kenneth Burkard" gram_type="pre_nom" relation_type="asymmetric" legal_role_string="Leonard B. Boudin and Samuel A. Neuberger for appellants" ></RELATION>
+
+<RELATION theme="107501_21" legal_role="107501_20" id="107501_22" theme_string="Henry Habel" gram_type="pre_nom" relation_type="asymmetric" legal_role_string="Edward Bennett Williams and Raymond W. Bergan for appellants" ></RELATION>
+

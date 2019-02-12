@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['ortegastates#6']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_940" id1="124095" volume="537" start="0" page_number="940" standard_reporter="U.S." citation_global_level_id="4428.002" line="1" id="124089_1" citation_local_level_id="0" >537 U.S. 940</CITATION>
+
+<CITATION party2="UNITED STATES" party1="ORTEGA" citation_global_level_id="60355.001" party2_short="STATES" line="1" id="124089_3" alternative_keys="['u.s._537_940']" end="40" entry_type="party_key" lookup_key="ortegastates#6" id1="136047" start="17" party1_short="ORTEGA" citation_local_level_id="1" >ORTEGA v. UNITED STATES</CITATION>
+
+<NAME end="23" start="17" party1_of="124089_3" all_names="ORTEGA" local_name_id="1" id="124089_4" >ORTEGA</NAME>
+
+<NAME end="40" start="27" all_names="UNITED STATES" party2_of="124089_3" local_name_id="2" id="124089_5" >UNITED STATES</NAME>
+
+<DOCKET end="57" entry_type="docket" lookup_key="u.s._537_940" id1="124095" start="50" citation_global_level_id="4428.002" line="1" id="124089_2" citation_local_level_id="0" >02-6090</DOCKET>
+
+<DATE start="99" end="114" id="124089_6" >October 7, 2002</DATE>
+
+<NAME start="247" local_name_id="3" end="250" id="124089_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="124089_1" includes_docket_string="02-6090" includes_docket="124089_2" theme_string="537 U.S. 940" gram_type="apposition" relation_type="asymmetric" id="124089_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 940" X_vs_Y_string="ORTEGA v. UNITED STATES" standard_case="124089_1" X_vs_Y="124089_3" gram_type="pre_nom" relation_type="equivalence" id="124089_7" ></RELATION>
+
+<RELATION theme="124089_3" includes_docket_string="02-6090" includes_docket="124089_2" theme_string="ORTEGA v. UNITED STATES" gram_type="apposition" relation_type="asymmetric" id="124089_10" ></RELATION>
+
+<RELATION theme="124089_3" party1="124089_4" party1_string="ORTEGA" theme_string="ORTEGA v. UNITED STATES" gram_type="infix" relation_type="asymmetric" id="124089_8" ></RELATION>
+
+<RELATION party2="124089_5" theme="124089_3" theme_string="ORTEGA v. UNITED STATES" party2_string="UNITED STATES" gram_type="infix" relation_type="asymmetric" id="124089_9" ></RELATION>
+

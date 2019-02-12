@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['langfordwashington#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_838" id1="113355" volume="510" start="0" page_number="838" standard_reporter="U.S." citation_global_level_id="5243.002" line="1" id="113351_1" citation_local_level_id="0" >510 U.S. 838</CITATION>
+
+<CITATION party2="Washington" party1="Langford" citation_global_level_id="47345.001" party2_short="Washington" line="1" id="113351_3" alternative_keys="['u.s._510_838']" end="39" entry_type="party_key" lookup_key="langfordwashington#1" id1="113351" start="17" party1_short="Langford" citation_local_level_id="1" >Langford v. Washington</CITATION>
+
+<NAME end="25" start="17" party1_of="113351_3" all_names="LANGFORD" local_name_id="1" id="113351_4" >Langford</NAME>
+
+<NAME end="39" start="29" all_names="WASHINGTON" party2_of="113351_3" local_name_id="2" id="113351_5" >Washington</NAME>
+
+<DOCKET end="56" entry_type="docket" lookup_key="u.s._510_838" id1="113355" start="49" citation_global_level_id="5243.002" line="1" id="113351_2" citation_local_level_id="0" >92-8869</DOCKET>
+
+<DATE start="98" end="113" id="113351_6" >October 4, 1993</DATE>
+
+<NAME start="191" local_name_id="3" end="201" id="113351_14" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="243" reporter="Wash. App." entry_type="standard_key" no_current_file="True" lookup_key="wash.app._67_572" id1="Dummy_File_36791" volume="67" start="226" page_number="572" standard_reporter="WASH.APP." citation_global_level_id="100641.001" line="3" id="113351_12" citation_local_level_id="2" >67 Wash. App. 572</CITATION>
+
+<CITATION end="259" reporter="P. 2d" entry_type="standard_key" no_current_file="True" lookup_key="p.2d_837_1037" id1="Dummy_File_36792" volume="837" start="245" page_number="1037" standard_reporter="P.2D" citation_global_level_id="100642.001" line="3" id="113351_13" citation_local_level_id="3" >837 P. 2d 1037</CITATION>
+
+<RELATION theme="113351_1" includes_docket_string="92-8869" includes_docket="113351_2" theme_string="510 U.S. 838" gram_type="apposition" relation_type="asymmetric" id="113351_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 838" X_vs_Y_string="Langford v. Washington" standard_case="113351_1" X_vs_Y="113351_3" gram_type="pre_nom" relation_type="equivalence" id="113351_7" ></RELATION>
+
+<RELATION theme="113351_3" includes_docket_string="92-8869" includes_docket="113351_2" theme_string="Langford v. Washington" gram_type="apposition" relation_type="asymmetric" id="113351_10" ></RELATION>
+
+<RELATION theme="113351_3" party1="113351_4" party1_string="Langford" theme_string="Langford v. Washington" gram_type="infix" relation_type="asymmetric" id="113351_8" ></RELATION>
+
+<RELATION party2="113351_5" theme="113351_3" theme_string="Langford v. Washington" party2_string="Washington" gram_type="infix" relation_type="asymmetric" id="113351_9" ></RELATION>
+

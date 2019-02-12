@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['whitakerstates#4']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_1167" id1="117297" volume="510" start="0" page_number="1167" standard_reporter="U.S." citation_global_level_id="1498.002" line="1" id="117304_1" citation_local_level_id="0" >510 U.S. 1167</CITATION>
+
+<CITATION party2="United States" party1="Whitaker" citation_global_level_id="35347.001" party2_short="States" line="1" id="117304_3" alternative_keys="['u.s._510_1167']" end="43" entry_type="party_key" lookup_key="whitakerstates#4" id1="117304" start="18" party1_short="Whitaker" citation_local_level_id="1" >Whitaker v. United States</CITATION>
+
+<NAME end="26" start="18" party1_of="117304_3" all_names="WHITAKER" local_name_id="1" id="117304_4" >Whitaker</NAME>
+
+<NAME end="43" start="30" all_names="UNITED STATES" party2_of="117304_3" local_name_id="2" id="117304_5" >United States</NAME>
+
+<DOCKET end="60" entry_type="docket" lookup_key="u.s._510_1167" id1="117297" start="53" citation_global_level_id="1498.002" line="1" id="117304_2" citation_local_level_id="0" >93-7343</DOCKET>
+
+<DATE start="102" end="119" id="117304_6" >February 28, 1994</DATE>
+
+<NAME start="197" local_name_id="3" end="207" id="117304_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION end="243" reporter="F. 3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_4_988" id1="Dummy_File_59447" volume="4" start="232" page_number="988" standard_reporter="F.3D" citation_global_level_id="123297.001" line="3" id="117304_12" citation_local_level_id="2" >4 F. 3d 988</CITATION>
+
+<RELATION theme="117304_1" includes_docket_string="93-7343" includes_docket="117304_2" theme_string="510 U.S. 1167" gram_type="apposition" relation_type="asymmetric" id="117304_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 1167" X_vs_Y_string="Whitaker v. United States" standard_case="117304_1" X_vs_Y="117304_3" gram_type="pre_nom" relation_type="equivalence" id="117304_7" ></RELATION>
+
+<RELATION theme="117304_3" includes_docket_string="93-7343" includes_docket="117304_2" theme_string="Whitaker v. United States" gram_type="apposition" relation_type="asymmetric" id="117304_10" ></RELATION>
+
+<RELATION theme="117304_3" party1="117304_4" party1_string="Whitaker" theme_string="Whitaker v. United States" gram_type="infix" relation_type="asymmetric" id="117304_8" ></RELATION>
+
+<RELATION party2="117304_5" theme="117304_3" theme_string="Whitaker v. United States" party2_string="United States" gram_type="infix" relation_type="asymmetric" id="117304_9" ></RELATION>
+

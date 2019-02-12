@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['hallflorida#6']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_834" id1="113301" volume="510" start="0" page_number="834" standard_reporter="U.S." citation_global_level_id="2624.002" line="1" id="113306_1" citation_local_level_id="0" >510 U.S. 834</CITATION>
+
+<CITATION party2="Florida" party1="Hall" citation_global_level_id="58988.001" party2_short="Florida" line="1" id="113306_3" alternative_keys="['u.s._510_834']" end="32" entry_type="party_key" lookup_key="hallflorida#6" id1="113306" start="17" party1_short="Hall" citation_local_level_id="1" >Hall v. Florida</CITATION>
+
+<NAME end="21" start="17" party1_of="113306_3" all_names="HALL" local_name_id="1" id="113306_4" >Hall</NAME>
+
+<NAME end="32" start="25" all_names="FLORIDA" party2_of="113306_3" local_name_id="2" id="113306_5" >Florida</NAME>
+
+<DOCKET end="49" entry_type="docket" lookup_key="u.s._510_834" id1="113301" start="42" citation_global_level_id="2624.002" line="1" id="113306_2" citation_local_level_id="0" >92-8753</DOCKET>
+
+<DATE start="91" end="106" id="113306_6" >October 4, 1993</DATE>
+
+<NAME start="183" local_name_id="3" end="193" id="113306_13" all_names="CERTIORARI" >Certiorari</NAME>
+
+<CITATION alternative_keys="['hallflorida#6']" end="232" reporter="So. 2d" entry_type="standard_key" lookup_key="so.2d_614_473" id1="113306" volume="614" start="218" page_number="473" standard_reporter="SO.2D" citation_global_level_id="58988.002" line="3" id="113306_12" citation_local_level_id="2" >614 So. 2d 473</CITATION>
+
+<RELATION theme="113306_1" includes_docket_string="92-8753" includes_docket="113306_2" theme_string="510 U.S. 834" gram_type="apposition" relation_type="asymmetric" id="113306_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 834" X_vs_Y_string="Hall v. Florida" standard_case="113306_1" X_vs_Y="113306_3" gram_type="pre_nom" relation_type="equivalence" id="113306_7" ></RELATION>
+
+<RELATION theme="113306_3" includes_docket_string="92-8753" includes_docket="113306_2" theme_string="Hall v. Florida" gram_type="apposition" relation_type="asymmetric" id="113306_10" ></RELATION>
+
+<RELATION theme="113306_3" party1="113306_4" party1_string="Hall" theme_string="Hall v. Florida" gram_type="infix" relation_type="asymmetric" id="113306_8" ></RELATION>
+
+<RELATION party2="113306_5" theme="113306_3" theme_string="Hall v. Florida" party2_string="Florida" gram_type="infix" relation_type="asymmetric" id="113306_9" ></RELATION>
+

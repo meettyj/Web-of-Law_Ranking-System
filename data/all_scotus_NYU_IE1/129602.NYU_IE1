@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['afoods#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1031" id1="129592" volume="538" start="0" page_number="1031" standard_reporter="U.S." citation_global_level_id="201.002" line="1" id="129602_1" citation_local_level_id="0" >538 U.S. 1031</CITATION>
+
+<CITATION party2="SCHREIBER FOODS, INC" party1="KUSTNER INDUSTRIES, S. A., ET AL." citation_global_level_id="201.005" party2_short="FOODS" line="1" id="129602_3" alternative_keys="['u.s._538_1031']" end="75" entry_type="party_key" lookup_key="afoods#2" id1="129592" start="18" party1_short="A" citation_local_level_id="1" >KUSTNER INDUSTRIES, S. A., ET AL. v. SCHREIBER FOODS, INC</CITATION>
+
+<NAME end="51" start="18" party1_of="129602_3" all_names="KUSTNER INDUSTRIES S A" local_name_id="1" id="129602_4" >KUSTNER INDUSTRIES, S. A., ET AL.</NAME>
+
+<ORGANIZATION start="18" end="36" plural="True" id="129602_7" >KUSTNER INDUSTRIES</ORGANIZATION>
+
+<NAME end="75" start="55" all_names="SCHREIBER FOODS INC" party2_of="129602_3" local_name_id="2" id="129602_5" >SCHREIBER FOODS, INC</NAME>
+
+<DOCKET end="91" entry_type="docket" lookup_key="u.s._538_1031" id1="129592" start="85" citation_global_level_id="201.002" line="1" id="129602_2" citation_local_level_id="0" >02-129</DOCKET>
+
+<DATE start="133" end="145" id="129602_6" >May 19, 2003</DATE>
+
+<NAME start="266" local_name_id="3" end="275" id="129602_13" all_names="C A FED" >C. A. Fed</NAME>
+
+<NAME start="277" local_name_id="4" end="280" id="129602_14" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="129602_1" includes_docket_string="02-129" includes_docket="129602_2" theme_string="538 U.S. 1031" gram_type="apposition" relation_type="asymmetric" id="129602_12" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1031" X_vs_Y_string="KUSTNER INDUSTRIES, S. A., ET AL. v. SCHREIBER FOODS, INC" standard_case="129602_1" X_vs_Y="129602_3" gram_type="pre_nom" relation_type="equivalence" id="129602_8" ></RELATION>
+
+<RELATION theme="129602_3" includes_docket_string="02-129" includes_docket="129602_2" theme_string="KUSTNER INDUSTRIES, S. A., ET AL. v. SCHREIBER FOODS, INC" gram_type="apposition" relation_type="asymmetric" id="129602_11" ></RELATION>
+
+<RELATION party2="129602_5" theme="129602_3" theme_string="KUSTNER INDUSTRIES, S. A., ET AL. v. SCHREIBER FOODS, INC" party2_string="SCHREIBER FOODS, INC" gram_type="infix" relation_type="asymmetric" id="129602_10" ></RELATION>
+
+<RELATION theme="129602_3" party1="129602_4" party1_string="KUSTNER INDUSTRIES, S. A., ET AL." theme_string="KUSTNER INDUSTRIES, S. A., ET AL. v. SCHREIBER FOODS, INC" gram_type="infix" relation_type="asymmetric" id="129602_9" ></RELATION>
+

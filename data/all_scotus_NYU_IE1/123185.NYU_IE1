@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['damervillemundt#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_874" id1="123187" volume="537" start="0" page_number="874" standard_reporter="U.S." citation_global_level_id="7015.002" line="1" id="123185_1" citation_local_level_id="0" >537 U.S. 874</CITATION>
+
+<CITATION party2="MUNDT, WARDEN" party1="DAMERVILLE" citation_global_level_id="7015.006" party2_short="MUNDT" line="1" id="123185_3" alternative_keys="['u.s._537_874']" end="44" entry_type="party_key" lookup_key="damervillemundt#1" id1="123187" start="17" party1_short="DAMERVILLE" citation_local_level_id="1" >DAMERVILLE v. MUNDT, WARDEN</CITATION>
+
+<NAME end="27" start="17" party1_of="123185_3" all_names="DAMERVILLE" local_name_id="1" id="123185_4" >DAMERVILLE</NAME>
+
+<NAME end="44" start="31" all_names="MUNDT WARDEN" party2_of="123185_3" local_name_id="2" id="123185_5" >MUNDT, WARDEN</NAME>
+
+<DOCKET end="62" entry_type="docket" lookup_key="u.s._537_874" id1="123187" start="54" citation_global_level_id="7015.002" line="1" id="123185_2" citation_local_level_id="0" >01-10971</DOCKET>
+
+<DATE start="104" end="119" id="123185_6" >October 7, 2002</DATE>
+
+<NAME start="249" local_name_id="3" end="252" id="123185_12" all_names="CIR" >Cir</NAME>
+
+<RELATION theme="123185_1" includes_docket_string="01-10971" includes_docket="123185_2" theme_string="537 U.S. 874" gram_type="apposition" relation_type="asymmetric" id="123185_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 874" X_vs_Y_string="DAMERVILLE v. MUNDT, WARDEN" standard_case="123185_1" X_vs_Y="123185_3" gram_type="pre_nom" relation_type="equivalence" id="123185_7" ></RELATION>
+
+<RELATION theme="123185_3" includes_docket_string="01-10971" includes_docket="123185_2" theme_string="DAMERVILLE v. MUNDT, WARDEN" gram_type="apposition" relation_type="asymmetric" id="123185_10" ></RELATION>
+
+<RELATION theme="123185_3" party1="123185_4" party1_string="DAMERVILLE" theme_string="DAMERVILLE v. MUNDT, WARDEN" gram_type="infix" relation_type="asymmetric" id="123185_8" ></RELATION>
+
+<RELATION party2="123185_5" theme="123185_3" theme_string="DAMERVILLE v. MUNDT, WARDEN" party2_string="MUNDT, WARDEN" gram_type="infix" relation_type="asymmetric" id="123185_9" ></RELATION>
+

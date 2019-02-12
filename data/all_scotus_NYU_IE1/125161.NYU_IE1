@@ -1,0 +1,26 @@
+<CITATION alternative_keys="['franciscoachievement#2']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._537_1030" id1="125149" volume="537" start="0" page_number="1030" standard_reporter="U.S." citation_global_level_id="1371.002" line="1" id="125161_1" citation_local_level_id="0" >537 U.S. 1030</CITATION>
+
+<CITATION party2="M/T STOLT ACHIEVEMENT ET AL" party1="FRANCISCO" citation_global_level_id="1371.004" party2_short="ACHIEVEMENT" line="1" id="125161_3" alternative_keys="['u.s._537_1030']" end="58" entry_type="party_key" lookup_key="franciscoachievement#2" id1="125149" start="18" party1_short="FRANCISCO" citation_local_level_id="1" >FRANCISCO v. M/T STOLT ACHIEVEMENT ET AL</CITATION>
+
+<NAME end="27" start="18" party1_of="125161_3" all_names="FRANCISCO" local_name_id="1" id="125161_4" >FRANCISCO</NAME>
+
+<NAME end="58" start="31" all_names="M/T STOLT ACHIEVEMENT" party2_of="125161_3" local_name_id="2" id="125161_5" >M/T STOLT ACHIEVEMENT ET AL</NAME>
+
+<DOCKET end="74" entry_type="docket" lookup_key="u.s._537_1030" id1="125149" start="68" citation_global_level_id="1371.002" line="1" id="125161_2" citation_local_level_id="0" >02-459</DOCKET>
+
+<DATE start="116" end="133" id="125161_6" >November 18, 2002</DATE>
+
+<NAME start="262" local_name_id="3" end="265" id="125161_13" all_names="CIR" >Cir</NAME>
+
+<CITATION end="314" reporter="F.3d" entry_type="standard_key" no_current_file="True" lookup_key="f.3d_293_270" id1="Dummy_File_170821" volume="293" start="302" page_number="270" standard_reporter="F.3D" citation_global_level_id="234671.001" line="3" id="125161_12" citation_local_level_id="2" >293 F.3d 270</CITATION>
+
+<RELATION theme="125161_1" includes_docket_string="02-459" includes_docket="125161_2" theme_string="537 U.S. 1030" gram_type="apposition" relation_type="asymmetric" id="125161_11" ></RELATION>
+
+<RELATION standard_case_string="537 U.S. 1030" X_vs_Y_string="FRANCISCO v. M/T STOLT ACHIEVEMENT ET AL" standard_case="125161_1" X_vs_Y="125161_3" gram_type="pre_nom" relation_type="equivalence" id="125161_7" ></RELATION>
+
+<RELATION theme="125161_3" includes_docket_string="02-459" includes_docket="125161_2" theme_string="FRANCISCO v. M/T STOLT ACHIEVEMENT ET AL" gram_type="apposition" relation_type="asymmetric" id="125161_10" ></RELATION>
+
+<RELATION theme="125161_3" party1="125161_4" party1_string="FRANCISCO" theme_string="FRANCISCO v. M/T STOLT ACHIEVEMENT ET AL" gram_type="infix" relation_type="asymmetric" id="125161_8" ></RELATION>
+
+<RELATION party2="125161_5" theme="125161_3" theme_string="FRANCISCO v. M/T STOLT ACHIEVEMENT ET AL" party2_string="M/T STOLT ACHIEVEMENT ET AL" gram_type="infix" relation_type="asymmetric" id="125161_9" ></RELATION>
+

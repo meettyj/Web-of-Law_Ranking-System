@@ -1,0 +1,28 @@
+<CITATION alternative_keys="['carricowaddington#1']" end="13" reporter="U.S." entry_type="standard_key" lookup_key="u.s._538_1009" id1="129336" volume="538" start="0" page_number="1009" standard_reporter="U.S." citation_global_level_id="2712.002" line="1" id="129336_1" citation_local_level_id="0" >538 U.S. 1009</CITATION>
+
+<CITATION party2="WADDINGTON, WARDEN" party1="CARRICO" citation_global_level_id="2712.005" party2_short="WADDINGTON" line="2" id="129336_2" alternative_keys="['u.s._538_1009']" end="47" entry_type="party_key" lookup_key="carricowaddington#1" id1="129336" start="18" party1_short="CARRICO" citation_local_level_id="1" >CARRICO v. WADDINGTON, WARDEN</CITATION>
+
+<NAME end="25" start="18" party1_of="129336_2" all_names="CARRICO" local_name_id="1" id="129336_3" >CARRICO</NAME>
+
+<NAME end="47" start="29" all_names="WADDINGTON WARDEN" party2_of="129336_2" local_name_id="2" id="129336_4" >WADDINGTON, WARDEN</NAME>
+
+<DOCKET alternative_keys="['u.s._538_1009']" end="65" entry_type="docket" lookup_key="carricowaddington#1" id1="129336" start="57" citation_global_level_id="2712.005" line="3" id="129336_7" citation_local_level_id="1" >01-10473</DOCKET>
+
+<ORGANIZATION start="71" end="101" id="129336_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="107" citation_global_level_id="2712.005" end="121" id="129336_9" citation_local_level_id="1" >April 28, 2003</DATE>
+
+<NAME start="143" local_name_id="3" end="151" id="129336_14" all_names="PETITION" >Petition</NAME>
+
+<CITATION end="187" reporter="U. S." entry_type="standard_key" lookup_key="u.s._537_845" id1="122810" volume="537" start="174" page_number="845" standard_reporter="U.S." citation_global_level_id="5095.002" line="8" id="129336_13" citation_local_level_id="2" >537 U. S. 845</CITATION>
+
+<RELATION theme="129336_2" party1="129336_3" party1_string="CARRICO" theme_string="CARRICO v. WADDINGTON, WARDEN" gram_type="infix" relation_type="asymmetric" id="129336_5" ></RELATION>
+
+<RELATION party2="129336_4" theme="129336_2" theme_string="CARRICO v. WADDINGTON, WARDEN" party2_string="WADDINGTON, WARDEN" gram_type="infix" relation_type="asymmetric" id="129336_6" ></RELATION>
+
+<RELATION standard_case_string="538 U.S. 1009" X_vs_Y_string="CARRICO v. WADDINGTON, WARDEN" standard_case="129336_1" X_vs_Y="129336_2" gram_type="multi_line" relation_type="equivalence" id="129336_10" ></RELATION>
+
+<RELATION at_date_string="April 28, 2003" theme="129336_2" at_date="129336_9" theme_string="CARRICO v. WADDINGTON, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="129336_12" ></RELATION>
+
+<RELATION theme="129336_2" includes_docket_string="01-10473" includes_docket="129336_7" theme_string="CARRICO v. WADDINGTON, WARDEN" gram_type="multi_line" relation_type="asymmetric" id="129336_11" ></RELATION>
+

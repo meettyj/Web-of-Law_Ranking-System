@@ -1,0 +1,40 @@
+<CITATION alternative_keys="['statestate#69']" end="19" reporter="U.S." entry_type="standard_key" no_current_file="True" lookup_key="u.s._32_651" id1="Dummy_File_99490" volume="32" start="1" page_number="651" standard_reporter="U.S." citation_global_level_id="163340.001" line="2" id="2620762_1" citation_local_level_id="0" >32 U.S. 651 (____)</CITATION>
+
+<NAME start="22" local_name_id="1" end="25" id="2620762_2" all_names="PET" >Pet</NAME>
+
+<CITATION end="25" line="3" id="2620762_3" alternative_keys="['u.s._32_453', 'ex parte martha bradstreet#1', 'u.s._33_588', 'ex parte tobias watkins#2', 'u.s._28_193', 'in the matter of duncan n hennen#1', 'u.s._38_230', 'ex parte myra clarke whitney#1', 'u.s._38_404', 'u.s._38_225', 'ex parte benjamin story#1', 'u.s._37_339', 'the state of rhode island#1', 'the state of massachusetts ads#1', 'u.s._37_755', 'ex parte george adshead#1', 'ex parte joseph roberts and#1', 'u.s._31_216', 'u.s._31_143', 'u.s._31_774', 'u.s._26_264', 'the port of new york#1', 'ex parte jesse hoyt collector of#1', 'u.s._38_279', 'u.s._27_566', 'u.s._34_711', 'ex parte anderson crenshaw#1', 'u.s._40_119', 'ex parte john l tillinghast esquire#1', 'u.s._29_108', 'u.s._39_540', 'in the matter of martha bradstreet demandant#1', 'u.s._32_634', 'ex parte nathaniel crane and samuel#1', 'jacksonkelly#1', 'u.s._30_190', 'u.s._33_306', 'u.s._33_291', 'ex parte john a davenport#1', 'u.s._31_661', 'u.s._32_568']" citation_global_level_id="3762.003" name="Pet" no_current_file="True" entry_type="case_key" lookup_key="pet#1" id1="85842" start="22" citation_local_level_id="1" >Pet</CITATION>
+
+<CITATION party2="THE STATE OF MASSACHUSETTS" alternative_keys="['u.s._32_651']" party1="THE STATE OF RHODE ISLAND," end="101" party1_short="STATE" entry_type="party_key" party1_role="complainant" lookup_key="statestate#69" id1="86141" start="31" citation_global_level_id="63377.001" party2_short="STATE" line="6" id="2620762_6" citation_local_level_id="2" >THE STATE OF RHODE ISLAND, COMPLAINANT v. THE STATE OF MASSACHUSETTS</CITATION>
+
+<NAME end="57" start="31" party1_of="2620762_6" all_names="THE STATE OF RHODE ISLAND" local_name_id="2" id="2620762_7" >THE STATE OF RHODE ISLAND,</NAME>
+
+<LEGAL_ROLE start="58" end="69" id="2620762_9" >COMPLAINANT</LEGAL_ROLE>
+
+<NAME end="101" start="75" all_names="THE STATE OF MASSACHUSETTS	MASSACHUSETTS" party2_of="2620762_6" local_name_id="3" id="2620762_8" >THE STATE OF MASSACHUSETTS</NAME>
+
+<ORGANIZATION start="103" end="133" id="2620762_12" >Supreme Court of United States</ORGANIZATION>
+
+<NAME start="136" local_name_id="4" end="146" id="2620762_15" all_names="MR ROBBINS" >MR ROBBINS</NAME>
+
+<LEGAL_ROLE start="148" local_name_id="4" end="177" id="2620762_16" name="MR ROBBINS" >solicitor for the complainant</LEGAL_ROLE>
+
+<ORGANIZATION start="243" end="248" id="2620762_17" >court</ORGANIZATION>
+
+<ORGANIZATION start="297" end="302" id="2620762_18" >court</ORGANIZATION>
+
+<ORGANIZATION start="399" end="404" id="2620762_20" >court</ORGANIZATION>
+
+<LEGAL_ROLE start="485" end="496" id="2620762_21" >complainant</LEGAL_ROLE>
+
+<NAME start="555" local_name_id="3" end="568" id="2620762_22" all_names="THE STATE OF MASSACHUSETTS	MASSACHUSETTS" >Massachusetts</NAME>
+
+<RELATION theme="2620762_6" party1="2620762_7" party1_string="THE STATE OF RHODE ISLAND," theme_string="THE STATE OF RHODE ISLAND, COMPLAINANT  v.  THE STATE OF MASSACHUSETTS" gram_type="infix" relation_type="asymmetric" id="2620762_10" ></RELATION>
+
+<RELATION party2="2620762_8" theme="2620762_6" theme_string="THE STATE OF RHODE ISLAND, COMPLAINANT  v.  THE STATE OF MASSACHUSETTS" party2_string="THE STATE OF MASSACHUSETTS" gram_type="infix" relation_type="asymmetric" id="2620762_11" ></RELATION>
+
+<RELATION standard_case_string="32 U.S. 651 (____)" X_vs_Y_string="THE STATE OF RHODE ISLAND, COMPLAINANT  v.  THE STATE OF MASSACHUSETTS" standard_case="2620762_1" X_vs_Y="2620762_6" gram_type="multi_line" relation_type="equivalence" id="2620762_14" ></RELATION>
+
+<RELATION case_citation_other="2620762_3" id="2620762_13" X_vs_Y_string="THE STATE OF RHODE ISLAND, COMPLAINANT  v.  THE STATE OF MASSACHUSETTS" X_vs_Y="2620762_6" gram_type="multi_line" relation_type="equivalence" case_citation_other_string="Pet" ></RELATION>
+
+<RELATION theme="2620762_15" legal_role="2620762_16" id="2620762_19" theme_string="MR ROBBINS" gram_type="apposition" relation_type="asymmetric" legal_role_string="solicitor for the complainant" ></RELATION>
+

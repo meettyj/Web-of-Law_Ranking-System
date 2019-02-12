@@ -1,0 +1,24 @@
+<CITATION alternative_keys="['bonagnac#1']" end="12" reporter="U.S." entry_type="standard_key" lookup_key="u.s._510_846" id1="113460" volume="510" start="0" page_number="846" standard_reporter="U.S." citation_global_level_id="2518.002" line="2" id="113462_1" citation_local_level_id="0" >510 U.S. 846</CITATION>
+
+<CITATION party2="GNAC Corp" party1="Bona" citation_global_level_id="53982.001" party2_short="GNAC" line="2" id="113462_3" alternative_keys="['u.s._510_846']" end="34" entry_type="party_key" lookup_key="bonagnac#1" id1="113462" start="17" party1_short="Bona" citation_local_level_id="1" >Bona v. GNAC Corp</CITATION>
+
+<NAME end="21" start="17" party1_of="113462_3" all_names="BONA" local_name_id="1" id="113462_4" >Bona</NAME>
+
+<NAME end="34" start="25" all_names="GNAC CORP" party2_of="113462_3" local_name_id="2" id="113462_5" >GNAC Corp</NAME>
+
+<DOCKET end="51" entry_type="docket" lookup_key="u.s._510_846" id1="113460" start="44" citation_global_level_id="2518.002" line="2" id="113462_2" citation_local_level_id="0" >92-9021</DOCKET>
+
+<DATE start="93" end="108" id="113462_6" >October 4, 1993</DATE>
+
+<NAME start="217" local_name_id="3" end="227" id="113462_12" all_names="CERTIORARI" >Certiorari</NAME>
+
+<RELATION theme="113462_1" includes_docket_string="92-9021" includes_docket="113462_2" theme_string="510 U.S. 846" gram_type="apposition" relation_type="asymmetric" id="113462_11" ></RELATION>
+
+<RELATION standard_case_string="510 U.S. 846" X_vs_Y_string="Bona v. GNAC Corp" standard_case="113462_1" X_vs_Y="113462_3" gram_type="pre_nom" relation_type="equivalence" id="113462_7" ></RELATION>
+
+<RELATION theme="113462_3" includes_docket_string="92-9021" includes_docket="113462_2" theme_string="Bona v. GNAC Corp" gram_type="apposition" relation_type="asymmetric" id="113462_10" ></RELATION>
+
+<RELATION theme="113462_3" party1="113462_4" party1_string="Bona" theme_string="Bona v. GNAC Corp" gram_type="infix" relation_type="asymmetric" id="113462_8" ></RELATION>
+
+<RELATION party2="113462_5" theme="113462_3" theme_string="Bona v. GNAC Corp" party2_string="GNAC Corp" gram_type="infix" relation_type="asymmetric" id="113462_9" ></RELATION>
+
