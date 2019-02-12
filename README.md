@@ -7,6 +7,7 @@ To generate one document for 'BM25' algorithm to rank, you need first run `$ pyt
 ## Feature Description
 - BM25 retrieval
 - Calculate individual scores
+  - BM25 extracted score.
   - Word-level Query-Content relatedness (sum of word similarity with GoogleNews embedding)
   - Key Phrase overlap between Query and Docs (Single item in Query & conbination of query. Based on RAKE algorithm, decayed on each position with ratio 0.95)
   - Timestamp consideration (the most recent the higher. Decay rate 0.05 for now)
