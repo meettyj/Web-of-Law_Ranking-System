@@ -8,7 +8,9 @@ To generate one document for 'BM25' algorithm to rank, you need first run `$ pyt
 - BM25 retrieval
 - Calculate individual scores
   - Word-level Query-Content relatedness (sum of word similarity with GoogleNews embedding)
-  - Key Phrase overlap between Query and Docs (Single item in Query & conbination of query. Based on RAKE algorithm, decayed on each position with ratio 0.95.)
+  - Key Phrase overlap between Query and Docs (Single item in Query & conbination of query. Based on RAKE algorithm, decayed on each position with ratio 0.95)
+  - Timestamp consideration (the most recent the higher. Decay rate 0.05 for now)
+- Normalized the above score into range 1 and combined to generate new score.
 
 ## Example Data
 - Query List:   
@@ -37,10 +39,12 @@ Given data described before, we can get ranking results for 10 queries. Here we 
 <img src="https://github.com/meettyj/Web-of-Law_Ranking-System/raw/master/result/example_result.png" width="500" hegiht="313" align=center />
 <!-- ![image](https://github.com/meettyj/Web-of-Law_Ranking-System/raw/master/BM25/result/example_result.png) -->
 
+## Score Example Result
+
 
 ## What's Next
 Scoring part:
 - Query-Content entailment score
-- Timestamp (the most recent the higher)
 - Weighted on chain length, use first three scores only
 - cited with local citation graph
+- Brat or other annotation tool
