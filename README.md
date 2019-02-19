@@ -45,7 +45,6 @@ Given data described before, we can get ranking results for 10 queries. Here we 
 
 ## What's Next
 Scoring part:
-- Query-Content entailment score
 - Weighted on chain length, use first three scores only
 - cited with local citation graph
 - Brat or other annotation tool
