@@ -13,7 +13,7 @@ from Scoring import normalization
 from Scoring import citation
 
 if __name__ == '__main__':
-    length_BM25 = 10
+    length_BM25 = 20
     path_Query = './data/10_query_list.txt'
     # path_Corpus = './data/1K_scotus_corpus.txt'
     path_Corpus = './data/all_scotus_corpus.txt'
@@ -122,7 +122,11 @@ if __name__ == '__main__':
 
             date_of_each_file = dateExtractor.date_extract_from_single_file(date_dir, file_index)
             # if date_of_each_file != -1:
-            docs_date_list.append([date_of_each_file,file_index])
+            if type(date_of_each_file) != int and len(date_of_each_file.split(', ')) != 1:
+                docs_date_list.append([date_of_each_file.split(',')[1],file_index])
+            else:
+                docs_date_list.append([str(date_of_each_file),file_index])
+        # print('docs_date_list: ', docs_date_list)
         sort_docs_date_list = sorted(docs_date_list, reverse=True)
         date_weight = 1
         date_decay_factor = 0.05
