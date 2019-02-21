@@ -43,9 +43,45 @@ Given data described before, we can get ranking results for 10 queries. Here we 
 <img src="https://github.com/meettyj/Web-of-Law_Ranking-System/raw/master/result/example_result.png" width="500" hegiht="313" align=center />
 <!-- ![image](https://github.com/meettyj/Web-of-Law_Ranking-System/raw/master/BM25/result/example_result.png) -->
 
-## Score Example Result
+## Six feature combined final score Example
+- Query: ['adult', 'probation']
+
+- Result: [Doc ID, Socre]
+  <table>
+    <tr>
+      <td>[110117, 0.45648130703581674]</td>
+      <td>[110585, 0.4285737737881382]</td>
+      <td>[146790, 0.40441472797427647]</td>
+      <td>[2959732, 0.34090307630334943]</td>
+      <td>[107693, 0.3342951043682529]</td>
+    </tr>
+    <tr>
+      <td>[146553, 0.32676667267588216]</td>
+      <td>[108785, 0.3256834050257937]</td>
+      <td>[109093, 0.32430868339245533]</td>
+      <td>[109775, 0.3084585056242143]</td>
+      <td>[111105, 0.2891431612767075]</td>
+    </tr>
+    <tr>
+      <td>[150543, 0.2715544427348346]</td>
+      <td>[110425, 0.26700141561834106]</td>
+      <td>[110896, 0.2632105162435864]</td>
+      <td>[107439, 0.2604221962354819]</td>
+      <td>[111977, 0.2599154005857053]</td>
+    </tr>
+    <tr>
+      <td>[101183, 0.25571265883711564]</td>
+      <td>[111198, 0.25346496019722]</td>
+      <td>[107191, 0.2297795760028584]</td>
+      <td>[109258, 0.2238365716979934]</td>
+      <td>[109842, 0.176073844381976]</td>
+    </tr>
+  </table>
 
 
 ## What's Next
 Scoring part:
+- Any suggestions? Or we may need to some annotation work first.
+
+Annotation part:
 - Brat or other annotation tool
