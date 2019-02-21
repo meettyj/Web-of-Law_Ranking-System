@@ -11,6 +11,9 @@ To generate one document for 'BM25' algorithm to rank, you need first run `$ pyt
   - Word-level Query-Content relatedness (sum of word similarity with GoogleNews embedding)
   - Key Phrase overlap between Query and Docs (Single item in Query & conbination of query. Based on RAKE algorithm, decayed on each position with ratio 0.95)
   - Timestamp consideration (the most recent the higher. Decay rate 0.05 for now)
+  - Direct cited with local citation graph (indegree and outdegree. Only consider those in extracted BM25 files)
+  - Indirect cited on citation graph chain (Use first three chain only, each with 0.35 weight decay)
+  
 - Normalized the above score into range 1 and combined to generate new score.
 
 ## Example Data
@@ -45,6 +48,4 @@ Given data described before, we can get ranking results for 10 queries. Here we 
 
 ## What's Next
 Scoring part:
-- Weighted on chain length, use first three scores only
-- cited with local citation graph
 - Brat or other annotation tool
