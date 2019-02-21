@@ -10,7 +10,7 @@ from BM25 import entry
 from Scoring import wordLevel_QC_relatedness
 from Scoring import dateExtractor
 from Scoring import normalization
-
+from Scoring import citation
 
 if __name__ == '__main__':
     length_BM25 = 10
@@ -38,20 +38,19 @@ if __name__ == '__main__':
 
     corpus_dir = './data/all_scotus_text/'
     date_dir = './data/all_scotus_NYU_IE1/'
-    for i in range(len(queries)):
-    # for i in range(1): # for development setting
+    # for i in range(len(queries)):
+    for i in range(1): # for development setting
         print('============================== Query{}: {} =================================='.format(i+1, queries[i]))
         # BM25 score weight list
         # print('dict_BM25_with_score: ', dict_BM25_with_score)
         # print(dict_BM25_with_score[i])
         normalized_BM25_weight_list = normalization.normalize_list(dict_BM25_with_score[i])
         print('BM25 weight list: ',normalized_BM25_weight_list)
-        print()
+        # print()
 
         each_query_result_list = dict_BM25.get(i, 0)
         # print(each_query_result_list) # docs ID
         embedding_each_query = wordLevel_QC_relatedness.get_embeddings_from_pretrained_googlenews_w2v(queries[i], model)
-        print()
         # print('length of query embedding: ', len(embedding_each_query))
 
         # test = [[1,0.7],[2,1.4],[3,0.7]]
@@ -107,9 +106,9 @@ if __name__ == '__main__':
         normalized_word_level_relatedness_weight_list = normalization.normalize_list(word_level_QC_relatedness_weight)
         normalized_KP_overlap_weight_list = normalization.normalize_list(key_phrases_overlap_weight)
         print('word level QC relatedness weight score: ', normalized_word_level_relatedness_weight_list)
-        print()
+        # print()
         print('Key Phrases overlap weight score: ', normalized_KP_overlap_weight_list)
-        print()
+        # print()
 
         # Date part. Output list[date, file_index, weight]
         docs_date_list = []
@@ -172,19 +171,78 @@ if __name__ == '__main__':
         # to sort the final score.
         sort_simple_final_score = sorted(simple_final_score,reverse=True,key=lambda item: item[1])
         print('sorted final_score simple format: ', sort_simple_final_score)
+        print()
 
 
-        # print('length of each doc text: ', len(each_doc_text))
+        # Citation part
+        citation_dir = './data/citation/'
+        citation_graph = citation.get_citation_graph(citation_dir)
+        docID2citeID, citeID2docID = citation.get_docID2citeID_and_citeID2docID(citation_dir)
+
+        # for A -> B. in_degree means B. out_degree means A.
+        # Initialization
+        in_degree_citation_weight = [(str(item), 0.1) for item in each_query_result_list]
+        out_degree_citation_weight = [(str(item), 0.1) for item in each_query_result_list]
+        in_degree_citation_weight_dict = dict(in_degree_citation_weight)
+        out_degree_citation_weight_dict = dict(out_degree_citation_weight)
+
+        simple_final_score_dict = dict(sort_simple_final_score)
+        # print('simple_final_score_dict: ', simple_final_score_dict)
+
+        ever_met_file_list = []
+        for j in range(len(each_query_result_list)):
+            file_index = str(each_query_result_list[j])
+            # First cite chain
+            in_degree_citation_weight_dict, out_degree_citation_weight_dict, next_cite_list, ever_met_file_list = citation.count_citation_weight(file_index, in_degree_citation_weight_dict,
+                                                                                                    out_degree_citation_weight_dict, each_query_result_list, simple_final_score_dict, citation_graph, docID2citeID, citeID2docID, ever_met_file_list, 1)
+            # print('1. ever_met_file_list: ', ever_met_file_list)
+            ever_met_file_list = list(set(ever_met_file_list))
+            # Second cite chain
+            for next_consider_query in next_cite_list:
+                in_degree_citation_weight_dict, out_degree_citation_weight_dict,next_cite_list,ever_met_file_list_update = citation.count_citation_weight(next_consider_query, in_degree_citation_weight_dict,
+                                                                                                        out_degree_citation_weight_dict, each_query_result_list, simple_final_score_dict, citation_graph, docID2citeID, citeID2docID, ever_met_file_list, 2)
+                ever_met_file_list.extend(ever_met_file_list_update)
+                ever_met_file_list = list(set(ever_met_file_list))
+            # print('2. ever_met_file_list: ', ever_met_file_list)
+            # Third cite chain
+            for next_consider_query in next_cite_list:
+                in_degree_citation_weight_dict, out_degree_citation_weight_dict,_,_ = citation.count_citation_weight(next_consider_query, in_degree_citation_weight_dict,
+                                                                                                        out_degree_citation_weight_dict, each_query_result_list, simple_final_score_dict, citation_graph, docID2citeID, citeID2docID, ever_met_file_list, 3)
+        # print('ever_met_file_list: ', ever_met_file_list)
+
+        print('out_degree_citation_weight: ', out_degree_citation_weight_dict)
+        print('in_degree_citation_weight: ', in_degree_citation_weight_dict)
+        print()
+
+        out_degree_citation_weight_dict2list = []
+        in_degree_citation_weight_dict2list = []
+        for (k, v) in out_degree_citation_weight_dict.items():
+            out_degree_citation_weight_dict2list.append([int(k), v])
+        for (k, v) in in_degree_citation_weight_dict.items():
+            in_degree_citation_weight_dict2list.append([int(k), v])
+        # out_degree_citation_weight_dict2list = list(out_degree_citation_weight_dict)
+        # print(out_degree_citation_weight_dict2list)
+        normalized_out_degree_citation_weight_dict = dict(normalization.normalize_list(out_degree_citation_weight_dict2list))
+        normalized_in_degree_citation_weight_dict = dict(normalization.normalize_list(in_degree_citation_weight_dict2list))
+
+        print('normalized_out_degree_citation_weight_dict: ', normalized_out_degree_citation_weight_dict)
+        print('normalized_in_degree_citation_weight_dict: ', normalized_in_degree_citation_weight_dict)
 
 
-                # tmp = []
-                # for line in f.readlines():
-                #     line = line.lower()
-                #     # desc = line.strip().split('\t')
-                #     # item = line.split()
-                #     item = re.split('\W', line)
-                #     tmp.extend(item)
-                # print('tmp: ', len(tmp))
+        # normalized_out_degree_citation_weight_dict = dict(normalization.normalize_list(list(out_degree_citation_weight_dict)))
+        # normalized_in_degree_citation_weight_dict = dict(normalization.normalize_list(list(in_degree_citation_weight_dict)))
+        # print()
+        # print('normalized_out_degree_citation_weight_dict: ', normalized_out_degree_citation_weight_dict)
+        # print('normalized_in_degree_citation_weight_dict: ', normalized_in_degree_citation_weight_dict)
+
+        for (id, score) in simple_final_score_dict:
+            simple_final_score_dict[id] = simple_final_score_dict[id] + normalized_out_degree_citation_weight_dict[id] + normalized_in_degree_citation_weight_dict[id]
+
+        print()
+        print('SIX FEATURE COMBINED FINAL SCORE: ', simple_final_score_dict)
+
+
+
 
 
 
