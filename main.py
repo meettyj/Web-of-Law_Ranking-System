@@ -38,8 +38,8 @@ if __name__ == '__main__':
 
     corpus_dir = './data/all_scotus_text/'
     date_dir = './data/all_scotus_NYU_IE1/'
-    # for i in range(len(queries)):
-    for i in range(1): # for development setting
+    for i in range(len(queries)):
+    # for i in range(1): # for development setting
         print('============================== Query{}: {} =================================='.format(i+1, queries[i]))
         # BM25 score weight list
         # print('dict_BM25_with_score: ', dict_BM25_with_score)
@@ -227,7 +227,7 @@ if __name__ == '__main__':
 
         print('normalized_out_degree_citation_weight_dict: ', normalized_out_degree_citation_weight_dict)
         print('normalized_in_degree_citation_weight_dict: ', normalized_in_degree_citation_weight_dict)
-
+        print()
 
         # normalized_out_degree_citation_weight_dict = dict(normalization.normalize_list(list(out_degree_citation_weight_dict)))
         # normalized_in_degree_citation_weight_dict = dict(normalization.normalize_list(list(in_degree_citation_weight_dict)))
@@ -235,11 +235,16 @@ if __name__ == '__main__':
         # print('normalized_out_degree_citation_weight_dict: ', normalized_out_degree_citation_weight_dict)
         # print('normalized_in_degree_citation_weight_dict: ', normalized_in_degree_citation_weight_dict)
 
-        for (id, score) in simple_final_score_dict:
-            simple_final_score_dict[id] = simple_final_score_dict[id] + normalized_out_degree_citation_weight_dict[id] + normalized_in_degree_citation_weight_dict[id]
-
-        print()
-        print('SIX FEATURE COMBINED FINAL SCORE: ', simple_final_score_dict)
+        six_feature_final_score = {}
+        for id, score in simple_final_score_dict.items():
+            # print(id)
+            six_feature_final_score[id] = simple_final_score_dict[id] + normalized_out_degree_citation_weight_dict[int(id)] + \
+                                          normalized_in_degree_citation_weight_dict[int(id)]
+        # print(six_feature_final_score)
+        # transform dict to list, in order to sort
+        six_feature_final_score = [[k, v] for (k, v) in six_feature_final_score.items()]
+        # print(six_feature_final_score)
+        print('SIX FEATURE COMBINED FINAL SCORE: ', sorted(six_feature_final_score, reverse=True, key=lambda item: item[1]))
 
 
 

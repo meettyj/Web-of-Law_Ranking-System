@@ -105,6 +105,24 @@ def count_citation_weight(file_index, in_degree_citation_weight_dict, out_degree
                         ever_met_file_list_update.append(query_result)
     return in_degree_citation_weight_dict_update, out_degree_citation_weight_dict_update, next_cite_list, ever_met_file_list_update
 
+# normalized_out_degree_citation_weight_dict = {110585: 0.05705400687201952, 110117: 0.05705400687201952, 109093: 0.27178397251192177, 111977: 0.05705400687201952, 108785: 0.05705400687201952, 109775: 0.27178397251192177, 109258: 0.05705400687201952, 107693: 0.05705400687201952, 101183: 0.05705400687201952, 110896: 0.05705400687201952}
+# normalized_in_degree_citation_weight_dict = {110585: 0.45912146861115627, 110117: 0.06009761459876039, 109093: 0.06009761459876039, 111977: 0.06009761459876039, 108785: 0.06009761459876039, 109775: 0.06009761459876039, 109258: 0.06009761459876039, 107693: 0.06009761459876039, 101183: 0.06009761459876039, 110896: 0.06009761459876039}
+#
+# simple_final_score_dict = dict([[110117, 0.6476683107747294], [107693, 0.4694015393566387], [108785, 0.46012723083510687], [110585, 0.37636263851121443], [101183, 0.3743445229007746], [110896, 0.3630108018095742], [109775, 0.34075692055145335], [111977, 0.33679462110294256], [109093, 0.3232026337111653], [109258, 0.3083307804464006]])
+# print(simple_final_score_dict)
+# # for
+#
+# six_feature_final_score = {}
+# for id, score in simple_final_score_dict.items():
+#     # print(id)
+#     six_feature_final_score[id] = simple_final_score_dict[id] + normalized_out_degree_citation_weight_dict[int(id)] + \
+#                                   normalized_in_degree_citation_weight_dict[int(id)]
+# # print(six_feature_final_score)
+# # transform dict to list, in order to sort
+# six_feature_final_score = [[k, v] for (k, v) in six_feature_final_score.items()]
+# print(six_feature_final_score)
+# print(sorted(six_feature_final_score,reverse=True,key=lambda item: item[1]))
+
 # out_degree_citation_weight_dict = {'110585': 0.1, '110117': 0.1, '109093': 0.47567663135271865, '111977': 0.1, '108785': 0.1, '109775': 0.47567663135271865, '109258': 0.1, '107693': 0.1, '101183': 0.1, '110896': 0.1}
 # in_degree_citation_weight_dict = {'110585': 0.7627408494309137, '110117': 0.1, '109093': 0.1, '111977': 0.1, '108785': 0.1, '109775': 0.1, '109258': 0.1, '107693': 0.1, '101183': 0.1, '110896': 0.1}
 # out_degree_citation_weight_dict2list = []
