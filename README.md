@@ -81,7 +81,7 @@ Given data described before, we can get ranking results for 10 queries. Here we 
 
 ## What's Next
 Scoring part:
-- Any suggestions? Or we may need to some annotation work first.
+- Any suggestions for now?
 
 Annotation part:
 - Brat or other annotation tool
