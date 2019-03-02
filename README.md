@@ -43,7 +43,7 @@ Given data described before, we can get ranking results for 10 queries. Here we 
 <img src="https://github.com/meettyj/Web-of-Law_Ranking-System/raw/master/result/example_result.png" width="500" hegiht="313" align=center />
 <!-- ![image](https://github.com/meettyj/Web-of-Law_Ranking-System/raw/master/BM25/result/example_result.png) -->
 
-## Six feature combined final score Example
+## Six Feature Combined Final Score Example
 - Query: ['adult', 'probation']
 
 - Result: [Doc ID, Socre]
@@ -78,6 +78,8 @@ Given data described before, we can get ranking results for 10 queries. Here we 
     </tr>
   </table>
 
+## Annotation
+Please see queries and related docs in dirctory `annotation`. Note we have 10 queries and each with 20 docs for now.
 
 ## What's Next
 Scoring part:
