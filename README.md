@@ -79,11 +79,9 @@ Given data described before, we can get ranking results for 10 queries. Here we 
   </table>
 
 ## Annotation
-Please see queries and related docs in dirctory `annotation`. Note we have 10 queries and each with 20 docs for now.
+The annotation tool is available to work now. The link is below: https://annotation-scotus.herokuapp.com/. Currently we have 200 docs in total. Every 20 docs correspond to one query like 'mail fraud' and 'homicide'. We are trying to distinguish whether the query is relevant to the given doc. If anyone who'd like to help us with annotating work, please let me know, so I can set an account for him/her.
 
 ## What's Next
-Scoring part:
-- Any suggestions for now?
+Evaluate the ranking result and fine-tune the system.
 
-Annotation part:
-- Brat or other annotation tool
+
