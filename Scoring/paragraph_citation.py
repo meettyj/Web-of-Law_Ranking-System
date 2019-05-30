@@ -76,6 +76,7 @@ def iterateParagraph(cited_file_name, key_query, endIndex):
         # Actually we should not arrive here. If we are here, then there are some fault in SCOTUS text file occurs.
         # Thus, we will return False, indicating we cannot find key query in cited document.
         # print('charCounter: ', charCounter)
+        print('There are something wrong within the file "%s", endIndex exceed file length.' %(cited_file_name))
         return False
 
     # given file_index, find related NYUIE1 file
