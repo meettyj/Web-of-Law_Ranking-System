@@ -43,6 +43,7 @@ def get_docID2citeID_and_citeID2docID(citation_file_address):
     # we only need the first two column of the tsv table. After 176461 rows, it's all Dummy_file.
     table_citation = pd.read_csv(table_citation_file_name, sep='\t', nrows=176461, usecols=[1])
     # table_citation = pd.read_csv(table_citation_file_name, sep='\t', nrows=10, usecols=[1])
+    # print(table_citation)
     citeID2docID = table_citation.to_dict()['id1']
     # transpose
     docID2citeID = dict((str(v), str(k).split('.')[0]) for k, v in citeID2docID.items())
