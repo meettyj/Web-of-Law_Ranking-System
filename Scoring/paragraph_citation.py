@@ -22,8 +22,8 @@ def getCitationList(file_index, citation_graph, docID2citeID, citeID2docID):
             docID_of_citation_list = [citeID2docID[citeID] for citeID in citation_list if citeID in citeID2docID]
             return docID_of_citation_list
 
-# we find to find specific paragraph
-def getChar(specific_citation_dir, text_dir, file_index, docID_of_citation_list):
+# we need to find specific paragraph
+def iterateCitation(specific_citation_dir, text_dir, file_index, docID_of_citation_list, key_query):
     # check if this file cite other files or not
     if len(docID_of_citation_list) == 0:
         print('this file doesn\'t cites any other file')
@@ -37,18 +37,46 @@ def getChar(specific_citation_dir, text_dir, file_index, docID_of_citation_list)
                 cited_file_index = line.split('id1="')[1].split('"')[0]
                 # check cited_file_index in citation list
                 if cited_file_index in docID_of_citation_list:
-                    cited_file_name = text_dir + file_index + '.txt'
+                    # get end index of specific citation
+                    endIndex = getEndIndex(line)
 
 
+                    cited_file_name = text_dir + cited_file_index + '.txt'
+                    # go to the cited_file related paragraph to find key query.
+                    findOrNot = iterateParagraph(cited_file_name, key_query, endIndex)
+                    # print(findOrNot)
 
-                    print(cited_file_index)
-
-
-
-                # go to the cited_file related paragraph to find key query.
-
+                    print('cited_file_index: ', cited_file_index)
     return
 
+# find end index in citation line of file NYU_IE1
+def getEndIndex(citationLine):
+    # print(citationLine)
+    endIndex = citationLine.split('end="')[1].split('"')[0]
+    print('endIndex: ', endIndex)
+    return endIndex
+
+# Iterate paragraph of cited file to find key query. Return boolean.
+def iterateParagraph(cited_file_name, key_query, endIndex):
+    with open(cited_file_name, 'r') as f:
+        # text = f.read()
+        # print(text[3903:3928])
+        charCounter = 0
+        for line in f.readlines():
+            if charCounter + len(line) >= int(endIndex):
+                # find key query in this line
+                if key_query in line:
+                    print('The key query "%s" is in the cited paragraph of cited document "%s"' %(key_query, cited_file_name))
+                    return True
+                else:
+                    print('Cannot find key query "%s" in the cited paragraph of cited document "%s"' %(key_query, cited_file_name))
+                    return False
+            else:
+                charCounter += len(line)
+        # Actually we should not arrive here. If we are here, then there are some fault in SCOTUS text file occurs.
+        # Thus, we will return False, indicating we cannot find key query in cited document.
+        # print('charCounter: ', charCounter)
+        return False
 
     # given file_index, find related NYUIE1 file
 
