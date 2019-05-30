@@ -23,7 +23,7 @@ def getCitationList(file_index, citation_graph, docID2citeID, citeID2docID):
             return docID_of_citation_list
 
 # we find to find specific paragraph
-def getChar(specific_citation_dir, file_index, docID_of_citation_list):
+def getChar(specific_citation_dir, text_dir, file_index, docID_of_citation_list):
     # check if this file cite other files or not
     if len(docID_of_citation_list) == 0:
         print('this file doesn\'t cites any other file')
@@ -35,7 +35,14 @@ def getChar(specific_citation_dir, file_index, docID_of_citation_list):
             if line[1:9] == "CITATION":
                 # extract cited file id first
                 cited_file_index = line.split('id1="')[1].split('"')[0]
-                print(cited_file_index)
+                # check cited_file_index in citation list
+                if cited_file_index in docID_of_citation_list:
+                    cited_file_name = text_dir + file_index + '.txt'
+
+
+
+                    print(cited_file_index)
+
 
 
                 # go to the cited_file related paragraph to find key query.
