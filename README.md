@@ -78,6 +78,41 @@ Given data described before, we can get ranking results for 10 queries. Here we 
     </tr>
   </table>
 
+## Seven Feature Combined Final Score Example
+- Query: ['adult', 'probation']
+
+- Result: [Doc ID, Socre]
+  <table>
+    <tr>
+      <td>[2959732, 0.7139687123798589]</td>
+      <td>[146553, 0.6996682244009027]</td>
+      <td>[146790, 0.5955299940227667]</td>
+      <td>[110585, 0.5284526674835871]</td>
+      <td>[110117, 0.5107971667420876]</td>
+    </tr>
+    <tr>
+      <td>[150543, 0.4625262694688515]</td>
+      <td>[108785, 0.4259980795587641]</td>
+      <td>[109775, 0.3626328000562868]</td>
+      <td>[107439, 0.36041351715460673]</td>
+      <td>[111198, 0.35382553600583294]</td>
+    </tr>
+    <tr>
+      <td>[111105, 0.3438249779394623]</td>
+      <td>[107693, 0.3437423016784042]</td>
+      <td>[109093, 0.33327570172525584]</td>
+      <td>[107191, 0.3292890826772249]</td>
+      <td>[110425, 0.3216467486776624]</td>
+    </tr>
+    <tr>
+      <td>[110896, 0.3177370762025689]</td>
+      <td>[109258, 0.27835855520777486]</td>
+      <td>[111977, 0.2686333876944729]</td>
+      <td>[101183, 0.2645319378239483]</td>
+      <td>[109842, 0.185147263099679]</td>
+    </tr>
+  </table>
+
 ## Annotation
 The annotation tool is available to work now. The link is below: https://annotation-scotus.herokuapp.com/. Currently we have 200 docs in total. Every 20 docs correspond to one query like 'mail fraud' and 'homicide'. We are trying to distinguish whether the query is relevant to the given doc. If anyone who'd like to help us with annotating work, please let me know, so I can set an account for him/her.
 
