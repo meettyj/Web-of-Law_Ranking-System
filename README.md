@@ -121,6 +121,7 @@ The annotation tool is available to work now. The link is below: https://annotat
 4.18: adult_probation & mail_fraud
 
 ## What's Next
-Evaluate the ranking result and fine-tune the system.
+- Writting metric (e.g. mean average precision) and evaluate on top3, top5, top10, top20
+- Evaluate the ranking result and fine-tune the system.
 
 
