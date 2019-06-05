@@ -13,6 +13,7 @@ To generate one document for 'BM25' algorithm to rank, you need first run `$ pyt
   - Timestamp consideration (the most recent the higher. Decay rate 0.05 for now)
   - Direct cited with local citation graph (indegree and outdegree. Only consider those in extracted BM25 files)
   - Indirect cited on citation graph chain (Use first three chain only, each with 0.35 weight decay)
+  - Key Phrase in cited paragraph information (indegree and outdegree. Only consider those in extracted BM25 files. Currently sum the calculation of each word in a query)
   
 - Normalized the above score into range 1 and combined to generate new score.
 
