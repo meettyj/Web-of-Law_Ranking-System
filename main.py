@@ -11,6 +11,7 @@ from Scoring import wordLevel_QC_relatedness
 from Scoring import dateExtractor
 from Scoring import normalization
 from Scoring import citation
+from Scoring import paragraph_citation
 
 if __name__ == '__main__':
     length_BM25 = 20
@@ -239,18 +240,103 @@ if __name__ == '__main__':
         # print('normalized_out_degree_citation_weight_dict: ', normalized_out_degree_citation_weight_dict)
         # print('normalized_in_degree_citation_weight_dict: ', normalized_in_degree_citation_weight_dict)
 
-        six_feature_final_score = {}
+
+        # ---------------------------------------------------------------------------------------------------------------------------------------
+        # Paragraph citation part
+        # citation_dir = './data/citation/'
+        # citation_graph = citation.get_citation_graph(citation_dir)
+
+        # Paragraph citation part
+        print('--------------------- Start of paragraph citation part ---------------------')
+        citation_dir = './data/citation/'
+        specific_citation_dir = './data/all_scotus_NYU_IE1/'
+        text_dir = './data/all_scotus_text/'
+        citation_graph = citation.get_citation_graph(citation_dir)
+        docID2citeID, citeID2docID = citation.get_docID2citeID_and_citeID2docID(citation_dir)
+
+        in_degree_citation_weight_paragraph = [(str(item), 0.1) for item in each_query_result_list]
+        out_degree_citation_weight_paragraph = [(str(item), 0.1) for item in each_query_result_list]
+        in_degree_citation_weight_dict_paragraph = dict(in_degree_citation_weight_paragraph)
+        out_degree_citation_weight_dict_paragraph = dict(out_degree_citation_weight_paragraph)
+
+        # ever_met_file_list = []
+        for j in range(len(each_query_result_list)):
+            file_index = str(each_query_result_list[j])
+            # print('who will cite: ', file_index)
+            docID_of_citation_list = paragraph_citation.getCitationList(file_index, citation_graph, docID2citeID, citeID2docID)
+            print('docID_of_citation_list: ', docID_of_citation_list)
+            print(str(queries[i]))
+
+            # Consider the entirety of queries[i] as paragraph citation key_query
+            # key_query_str = ''
+            # for sub_query in queries[i]:
+            #     key_query_str += sub_query
+            #     key_query_str += ' '
+            # print('key_query_str: ', key_query_str)
+            # paragraph_citation.iterateCitation(specific_citation_dir, text_dir, file_index, docID_of_citation_list, key_query=key_query_str)
+
+            # Consider sub query as paragraph citation key_query
+            for sub_query in queries[i]:
+                print('sub_query: ', sub_query)
+                in_degree_citation_weight_dict_paragraph, out_degree_citation_weight_dict_paragraph = paragraph_citation.iterateCitation(specific_citation_dir, text_dir, file_index, each_query_result_list,
+                                                                           docID_of_citation_list, sub_query,
+                                                   in_degree_citation_weight_dict_paragraph, out_degree_citation_weight_dict_paragraph,
+                                                   simple_final_score_dict)
+
+        print('in_degree: ', in_degree_citation_weight_dict_paragraph)
+        print('out_degree: ', out_degree_citation_weight_dict_paragraph)
+
+        out_degree_citation_weight_dict2list_paragraph = []
+        in_degree_citation_weight_dict2list_paragraph = []
+        for (k, v) in out_degree_citation_weight_dict_paragraph.items():
+            out_degree_citation_weight_dict2list_paragraph.append([int(k), v])
+        for (k, v) in in_degree_citation_weight_dict_paragraph.items():
+            in_degree_citation_weight_dict2list_paragraph.append([int(k), v])
+        # out_degree_citation_weight_dict2list = list(out_degree_citation_weight_dict)
+        # print(out_degree_citation_weight_dict2list)
+        normalized_out_degree_citation_weight_dict_paragraph = dict(normalization.normalize_list(out_degree_citation_weight_dict2list_paragraph))
+        normalized_in_degree_citation_weight_dict_paragraph = dict(normalization.normalize_list(in_degree_citation_weight_dict2list_paragraph))
+
+        print('normalized_out_degree_citation_weight_dict_paragraph: ', normalized_out_degree_citation_weight_dict_paragraph)
+        print('normalized_in_degree_citation_weight_dict_paragraph: ', normalized_in_degree_citation_weight_dict_paragraph)
+
+        print()
+
+
+
+
+
+
+
+        # ---------------------------------------------------------------------------------------------------------------------------------------
+
+
+        six_feature_final_score_dict = {}
         for id, score in simple_final_score_dict.items():
             # print(id)
-            six_feature_final_score[id] = simple_final_score_dict[id] + normalized_out_degree_citation_weight_dict[int(id)] + \
+            six_feature_final_score_dict[id] = simple_final_score_dict[id] + normalized_out_degree_citation_weight_dict[int(id)] + \
                                           normalized_in_degree_citation_weight_dict[int(id)]
         # print(six_feature_final_score)
         # transform dict to list, in order to sort
-        six_feature_final_score = [[k, v] for (k, v) in six_feature_final_score.items()]
+        six_feature_final_score = [[k, v] for (k, v) in six_feature_final_score_dict.items()]
         # print(six_feature_final_score)
         print('SIX FEATURE COMBINED FINAL SCORE: ', sorted(six_feature_final_score, reverse=True, key=lambda item: item[1]))
+        print()
 
-
+        # After incorporating the paragraph citaion
+        seven_feature_final_score_dict = {}
+        for id, score in six_feature_final_score_dict.items():
+            # print(id)
+            seven_feature_final_score_dict[id] = six_feature_final_score_dict[id] + normalized_out_degree_citation_weight_dict_paragraph[
+                int(id)] + \
+                                            normalized_in_degree_citation_weight_dict_paragraph[int(id)]
+        # print(six_feature_final_score)
+        # transform dict to list, in order to sort
+        seven_feature_final_score = [[k, v] for (k, v) in seven_feature_final_score_dict.items()]
+        # print(six_feature_final_score)
+        print('SEVEN FEATURE COMBINED FINAL SCORE: ', sorted(seven_feature_final_score, reverse=True, key=lambda item: item[1]))
+        print()
+        # break
 
 
 
