@@ -117,6 +117,9 @@ Given data described before, we can get ranking results for 10 queries. Here we 
 ## Annotation
 The annotation tool is available to work now. The link is below: https://annotation-scotus.herokuapp.com/. Currently we have 200 docs in total. Every 20 docs correspond to one query like 'mail fraud' and 'homicide'. We are trying to distinguish whether the query is relevant to the given doc. If anyone who'd like to help us with annotating work, please let me know, so I can set an account for him/her.
 
+## Queries Collection
+https://docs.google.com/forms/d/e/1FAIpQLScfhF0-PVyYCnbHuMJK0i7fWEnGlfI0HiRYO9ecOrQbB8CsEQ/viewform
+
 ## Log
 4.18: adult_probation & mail_fraud
 
