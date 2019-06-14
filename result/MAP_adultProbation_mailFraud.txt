@@ -2,59 +2,103 @@ nohup: ignoring input
 -------------------------------------- Adult Probation --------------------------------------
 actual_adult_probation_adam:  ['2959732', '150543', '146790', '146553', '111105', '110896', '110585', '110425', '108785', '101183']
 predictd_adult_without_score:  ['110117', '110585', '146790', '2959732', '107693', '146553', '108785', '109093', '109775', '111105', '150543', '110425', '110896', '107439', '111977', '101183', '111198', '107191', '109258', '109842']
+
+Precision@1 is 0.000000
+Precision@2 is 0.250000
+Precision@3 is 0.388889
+Precision@4 is 0.479167
+Precision@5 is 0.383333
+Precision@6 is 0.430556
+Precision@7 is 0.471088
+Precision@8 is 0.412202
+Precision@9 is 0.366402
+Precision@10 is 0.389762
+Precision@11 is 0.412180
+Precision@12 is 0.433387
+Precision@13 is 0.453304
+Precision@14 is 0.420926
+Precision@15 is 0.392864
+Precision@16 is 0.407372
+Precision@17 is 0.383409
+Precision@18 is 0.362109
+Precision@19 is 0.343050
+Precision@20 is 0.325898
+
 Average precision for top 1 is 0.000000
-Average precision for top 2 is 0.250000
-Average precision for top 3 is 0.388889
-Average precision for top 4 is 0.479167
-Average precision for top 5 is 0.383333
-Average precision for top 6 is 0.430556
-Average precision for top 7 is 0.471088
-Average precision for top 8 is 0.412202
-Average precision for top 9 is 0.366402
-Average precision for top 10 is 0.389762
-Average precision for top 11 is 0.412180
-Average precision for top 12 is 0.433387
-Average precision for top 13 is 0.453304
-Average precision for top 14 is 0.420926
-Average precision for top 15 is 0.392864
-Average precision for top 16 is 0.407372
-Average precision for top 17 is 0.383409
-Average precision for top 18 is 0.362109
-Average precision for top 19 is 0.343050
-Average precision for top 20 is 0.325898
+Average precision for top 2 is 0.125000
+Average precision for top 3 is 0.212963
+Average precision for top 4 is 0.279514
+Average precision for top 5 is 0.300278
+Average precision for top 6 is 0.321991
+Average precision for top 7 is 0.343290
+Average precision for top 8 is 0.351904
+Average precision for top 9 is 0.353515
+Average precision for top 10 is 0.357140
+Average precision for top 11 is 0.362144
+Average precision for top 12 is 0.368081
+Average precision for top 13 is 0.374636
+Average precision for top 14 is 0.377943
+Average precision for top 15 is 0.378937
+Average precision for top 16 is 0.380715
+Average precision for top 17 is 0.380873
+Average precision for top 18 is 0.379831
+Average precision for top 19 is 0.377895
+Average precision for top 20 is 0.375295
 -------------------------------------- Mail Fraud --------------------------------------
 actual_mail_fraud_adam:  ['1740', '145799', '145652', '118390', '118298', '118143', '112222', '111964', '111945', '110375', '108900', '105186', '104727', '104481', '104518']
 predictd_mail_fraud_without_score:  ['112222', '108900', '111945', '111964', '118298', '2680440', '2679833', '105186', '145652', '145799', '1740', '118390', '110375', '104727', '118143', '96830', '104481', '104518', '105129', '107516']
+
+Precision@1 is 1.000000
+Precision@2 is 1.000000
+Precision@3 is 1.000000
+Precision@4 is 1.000000
+Precision@5 is 1.000000
+Precision@6 is 0.833333
+Precision@7 is 0.714286
+Precision@8 is 0.718750
+Precision@9 is 0.725309
+Precision@10 is 0.732778
+Precision@11 is 0.740542
+Precision@12 is 0.748274
+Precision@13 is 0.755804
+Precision@14 is 0.763042
+Precision@15 is 0.769950
+Precision@16 is 0.721829
+Precision@17 is 0.727811
+Precision@18 is 0.733673
+Precision@19 is 0.695059
+Precision@20 is 0.660306
+
 Average precision for top 1 is 1.000000
 Average precision for top 2 is 1.000000
 Average precision for top 3 is 1.000000
 Average precision for top 4 is 1.000000
 Average precision for top 5 is 1.000000
-Average precision for top 6 is 0.833333
-Average precision for top 7 is 0.714286
-Average precision for top 8 is 0.718750
-Average precision for top 9 is 0.725309
-Average precision for top 10 is 0.732778
-Average precision for top 11 is 0.740542
-Average precision for top 12 is 0.748274
-Average precision for top 13 is 0.755804
-Average precision for top 14 is 0.763042
-Average precision for top 15 is 0.769950
-Average precision for top 16 is 0.721829
-Average precision for top 17 is 0.727811
-Average precision for top 18 is 0.733673
-Average precision for top 19 is 0.695059
-Average precision for top 20 is 0.660306
+Average precision for top 6 is 0.972222
+Average precision for top 7 is 0.935374
+Average precision for top 8 is 0.908296
+Average precision for top 9 is 0.887964
+Average precision for top 10 is 0.872446
+Average precision for top 11 is 0.860454
+Average precision for top 12 is 0.851106
+Average precision for top 13 is 0.843775
+Average precision for top 14 is 0.838008
+Average precision for top 15 is 0.833471
+Average precision for top 16 is 0.826494
+Average precision for top 17 is 0.820689
+Average precision for top 18 is 0.815854
+Average precision for top 19 is 0.809497
+Average precision for top 20 is 0.802037
 -------------------------------------- Mean Average Precision --------------------------------------
-score_ap_adult_probation:  [0.         0.25       0.38888889 0.47916667 0.38333333 0.43055556
- 0.47108844 0.41220238 0.36640212 0.3897619  0.41218024 0.43338745
- 0.45330439 0.4209255  0.3928638  0.40737232 0.38340924 0.36210872
- 0.34305037 0.32589785]
-score_ap_mail_fraud:  [1.         1.         1.         1.         1.         0.83333333
- 0.71428571 0.71875    0.72530864 0.73277778 0.74054178 0.74827441
- 0.7558036  0.76304212 0.76995042 0.72182852 0.72781092 0.73367328
- 0.6950589  0.66030595]
-total:  [0.5        0.625      0.69444444 0.73958333 0.69166667 0.63194444
- 0.59268707 0.56547619 0.54585538 0.56126984 0.57636101 0.59083093
- 0.60455399 0.59198381 0.58140711 0.56460042 0.55561008 0.547891
- 0.51905463 0.4931019 ]
+AP for adult probation:  [0.         0.125      0.21296296 0.27951389 0.30027778 0.32199074
+ 0.34329041 0.35190441 0.35351526 0.35713993 0.36214359 0.36808058
+ 0.37463626 0.37794263 0.37893738 0.38071456 0.38087307 0.37983061
+ 0.37789481 0.37529496]
+AP for mail fraud:  [1.         1.         1.         1.         1.         0.97222222
+ 0.93537415 0.90829613 0.88796419 0.87244555 0.8604543  0.85110597
+ 0.84377502 0.83800838 0.83347119 0.82649352 0.82068866 0.81585447
+ 0.80949681 0.80203727]
+MAP for two query:  [0.5        0.5625     0.60648148 0.63975694 0.65013889 0.64710648
+ 0.63933228 0.63010027 0.62073973 0.61479274 0.61129894 0.60959328
+ 0.60920564 0.60797551 0.60620428 0.60360404 0.60078087 0.59784254
+ 0.59369581 0.58866611]

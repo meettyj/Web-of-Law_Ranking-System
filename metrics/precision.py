@@ -1,6 +1,6 @@
 import numpy as np
 
-def apk(actual, predicted, k=10):
+def precisionAtK(actual, predicted, k=10):
     """
     Computes the average precision at k.
     This function computes the average prescision at k between two lists of
@@ -41,7 +41,36 @@ def apk(actual, predicted, k=10):
         return 0.0
 
     # return score / min(len(actual), k)
-    return score / k
+    precision = score / k
+    # print('precision at top %d is %f' %(k, precision))
+    return precision
+
+
+
+def apk(actual, predicted, k=10):
+    """
+    Computes the mean average precision at k.
+    This function computes the mean average prescision at k between two lists
+    of lists of items.
+    Parameters
+    ----------
+    actual : list
+             A list of lists of elements that are to be predicted
+             (order doesn't matter in the lists)
+    predicted : list
+                A list of lists of predicted elements
+                (order matters in the lists)
+    k : int, optional
+        The maximum number of predicted elements
+    Returns
+    -------
+    score : double
+            The mean average precision at k over the input lists
+    """
+    k_list = [i+1 for i in range(k)]
+    # print('k_list: ', k_list)
+    return np.mean([precisionAtK(actual,predicted,i) for i in k_list])
+
 
 def mapk(actual, predicted, k=10):
     """
@@ -63,4 +92,4 @@ def mapk(actual, predicted, k=10):
     score : double
             The mean average precision at k over the input lists
     """
-    return np.mean([apk(a,p,k) for a,p in zip(actual, predicted)])
+    return np.mean([precisionAtK(a,p,k) for a,p in zip(actual, predicted)])
