@@ -123,8 +123,11 @@ https://docs.google.com/forms/d/e/1FAIpQLScfhF0-PVyYCnbHuMJK0i7fWEnGlfI0HiRYO9ec
 ## Log
 4.18: adult_probation & mail_fraud
 
+## Evaluation
+Average precision (AP) and Mean average precision (MAP) based on top N (currently N range from 1 to 20, given extracted 20 docs under one specific query).
+
 ## What's Next
-- Writting metric (e.g. mean average precision) and evaluate on top3, top5, top10, top20
+- Waiting for real queries and test the system performance on real queries.
 - Evaluate the ranking result and fine-tune the system.
 
 
