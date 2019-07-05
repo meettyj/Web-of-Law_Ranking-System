@@ -129,5 +129,6 @@ Average precision (AP) and Mean average precision (MAP) based on top N (currentl
 ## What's Next
 - Waiting for real queries and test the system performance on real queries.
 - Evaluate the ranking result and fine-tune the system.
+- Transfomer in legal domain. Visualize the distribution of attention by heatmap.
 
 
