@@ -127,6 +127,7 @@ https://docs.google.com/forms/d/e/1FAIpQLScfhF0-PVyYCnbHuMJK0i7fWEnGlfI0HiRYO9ec
 Average precision (AP) and Mean average precision (MAP) based on top N (currently N range from 1 to 20, given extracted 20 docs under one specific query).
 
 ## What's Next
+- [Web of Law Todo list](https://docs.google.com/document/d/1NPrLzKJ5RPUwGsQDkam1Cg7e1WE-sDGaAFQstEBV3uM/edit?ts=5d248847)
 - Waiting for real queries and test the system performance on real queries.
 - Evaluate the ranking result and fine-tune the system.
 - Transfomer in legal domain. Visualize the distribution of attention by heatmap.
